@@ -45,7 +45,7 @@ Because Project uses a binary file format, the  **SetCustomUI** method is requir
 
 The  _CustomUIXML_ value must be valid XML for Microsoft Office custom ribbon content. The XML value must begin with the **mso:customUI** element, followed by the **mso:ribbon** element. If the **mso:ribbon** element is empty, **SetCustomUI** removes ribbon customizations.
 
-There are many articles on MSDN about customizing the ribbon for the Fluent user interface in Microsoft Office applications. For more information, see [Office Fluent User Interface Developer Portal](http://msdn.microsoft.com/en-us/office/aa905530.aspx).
+There are many articles on MSDN about customizing the ribbon for the Fluent user interface in Microsoft Office applications. For more information, see [Office Fluent User Interface Developer Portal](https://msdn.microsoft.com/en-us/office/aa905530.aspx).
 
 
 ## Example

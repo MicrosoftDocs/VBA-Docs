@@ -47,7 +47,7 @@ The following procedure details the steps to create a form region using the Form
     
 7. Use an XML editor such as Notepad to create a form region manifest XML file.
     
-    You must specify XML for each form region to tell Outlook how to display it and the actions it supports. The XML must validate against the form region manifest schema (for more information about the schema, see the Microsoft Outlook 2010 XML Schema Reference in the  [MSDN Library](http://msdn.microsoft.com/library)). The schema supports many elements, such as the more commonly used ones enumerated below:
+    You must specify XML for each form region to tell Outlook how to display it and the actions it supports. The XML must validate against the form region manifest schema (for more information about the schema, see the Microsoft Outlook 2010 XML Schema Reference in the  [MSDN Library](https://msdn.microsoft.com/library)). The schema supports many elements, such as the more commonly used ones enumerated below:
     
       - The \<addin\> tag specifies the ProgID of the add-in that manages the form region and provides storage for it. You should only specify this tag if you use an add-in to create and manage the form region.
     

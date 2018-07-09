@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # List of Worksheet Functions that Support Long Strings
 
-The following list represents all the worksheet functions that support strings larger than 255 characters long. The maximum string length for these functions is 32767. For more information about a particular function, see the  [Function Reference](http://office.microsoft.com/en-us/excel-help/list-of-worksheet-functions-by-category-HP010079186.aspx) topic on the Office Web site.
+The following list represents all the worksheet functions that support strings larger than 255 characters long. The maximum string length for these functions is 32767. For more information about a particular function, see the  [Function Reference](https://office.microsoft.com/en-us/excel-help/list-of-worksheet-functions-by-category-HP010079186.aspx) topic on the Office Web site.
 
 ASC
 

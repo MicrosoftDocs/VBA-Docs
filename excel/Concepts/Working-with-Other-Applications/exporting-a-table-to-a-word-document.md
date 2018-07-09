@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 
 This example takes the table named &;quot;Table1&;quot; on Sheet 1 and copies it into an existing Word document named &;quot;Quarter Report&;quot; at the bookmarked location named &;quot;Report&;quot;.
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 
 

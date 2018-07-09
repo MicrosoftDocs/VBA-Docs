@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 These examples show how to select the used range, which includes formatted cells that do not contain data, and how to select a data range, which includes cells that contains actual data.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 ## Selecting the Used Range
 

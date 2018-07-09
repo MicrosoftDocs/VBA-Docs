@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This example shows how to name a worksheet by using the value in cell A1 on that sheet. This example verifies that the value in cell A1 is a valid worksheet name, and if it is a valid name, renames the active worksheet to equal the value of cell A1 by using the  **[Name](../../../api/Excel.Worksheet.Name.md)** property of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 
 

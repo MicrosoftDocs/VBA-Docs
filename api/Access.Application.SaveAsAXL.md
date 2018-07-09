@@ -39,7 +39,7 @@ The  **SaveAsAXL** method does not provide a warning when the file specified in 
 
 The  **SaveAsAXL** method generates a run-time error if the current database is not a Web database.
 
-For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](http://msdn.microsoft.com/en-us/library/dd927584.aspx).
+For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](https://msdn.microsoft.com/en-us/library/dd927584.aspx).
 
 
 ## See also

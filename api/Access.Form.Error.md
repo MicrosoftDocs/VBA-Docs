@@ -75,7 +75,7 @@ End Sub
 The following example shows how you can replace a default error message with a custom error message.
 
  **Sample code provided by:**
-![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 
 

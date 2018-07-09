@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This example shows how to automatically dismiss a message box after a specified period of time. This example displays a message box and then automatically dismisses it after 10 seconds.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 
 

@@ -25,7 +25,7 @@ Returns or sets the number format applied to a cell if the conditional formattin
 
 ## Remarks
 
-The number format is specified using the same format codes displayed on the  **Number** tab of the **Format Cells** dialog box. You can use a built-in number format, for example `"General"`, or [create a custom number format](http://office.microsoft.com/en-us/excel-help/create-or-delete-a-custom-number-format-HP010342372.aspx).
+The number format is specified using the same format codes displayed on the  **Number** tab of the **Format Cells** dialog box. You can use a built-in number format, for example `"General"`, or [create a custom number format](https://office.microsoft.com/en-us/excel-help/create-or-delete-a-custom-number-format-HP010342372.aspx).
 
 
 ## See also

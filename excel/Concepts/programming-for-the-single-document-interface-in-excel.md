@@ -263,7 +263,7 @@ The following section provides workarounds for issues you may encounter when usi
     End Sub
   ```
 
-- In Excel 2010, a modeless user form is displayed as the top-level window on top of all Excel windows by default. In Excel 2013, a modeless user form is only visible on top of the workbook window that was active when the user form was displayed. Excel Most Valuable Professional (MVP) Jan Karel Pieterse provides an explanation of the issue and a solution on his web page at  [http://www.jkp-ads.com/articles/keepuserformontop.asp](http://www.jkp-ads.com/articles/keepuserformontop.asp).
+- In Excel 2010, a modeless user form is displayed as the top-level window on top of all Excel windows by default. In Excel 2013, a modeless user form is only visible on top of the workbook window that was active when the user form was displayed. Excel Most Valuable Professional (MVP) Jan Karel Pieterse provides an explanation of the issue and a solution on his web page at  [https://www.jkp-ads.com/articles/keepuserformontop.asp](https://www.jkp-ads.com/articles/keepuserformontop.asp).
     
 
 ## Summary
@@ -277,8 +277,8 @@ The new Single Document Interface in Excel 2013 makes it easy to work with multi
 
 Find addition information on the topics discussed in this article at the following locations.
 
--  [Open Excel workbooks in separate windows and view them side by side](http://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx) 
--  [Excel 2013 single document interface (SDI): How to rebuild your task panes to support it](http://www.add-in-express.com/creating-addins-blog/2013/02/28/excel2013-single-document-interface-task-panes/)
+-  [Open Excel workbooks in separate windows and view them side by side](https://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx) 
+-  [Excel 2013 single document interface (SDI): How to rebuild your task panes to support it](https://www.add-in-express.com/creating-addins-blog/2013/02/28/excel2013-single-document-interface-task-panes/)
     
     
 

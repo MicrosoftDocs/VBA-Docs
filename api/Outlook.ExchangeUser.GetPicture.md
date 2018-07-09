@@ -34,7 +34,7 @@ The picture of the Exchange user is stored in Active Directory and displayed in 
 
 If the picture does not exist for the user,  **GetPicture** returns **Null** ( **Nothing** for Visual Basic).
 
-You can only call  **GetPicture** from code that runs in-process as Outlook. An **StdPicture** object cannot be marshaled across process boundaries. If you attempt to call **GetPicture** from out-of-process code, an exception occurs. For more information, see[An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](http://support.microsoft.com/kb/150034).
+You can only call  **GetPicture** from code that runs in-process as Outlook. An **StdPicture** object cannot be marshaled across process boundaries. If you attempt to call **GetPicture** from out-of-process code, an exception occurs. For more information, see[An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
 
 
 ## See also

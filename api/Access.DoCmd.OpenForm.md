@@ -52,7 +52,7 @@ DoCmd.OpenForm "Employees", , ,"LastName = 'King'"
 
 The following example opens the **frmMainEmployees** form in Form view and displays only records that apply to the department chosen in the **cboDept** combo box. The displayed records can be edited, and new records can be added.
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 ```vb
 Private Sub cmdFilter_Click()

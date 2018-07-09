@@ -52,7 +52,7 @@ If you want to run code in one Microsoft Office application that works with the 
     Set appWd = Nothing
     ```
     
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 The following code example creates a new Microsoft Office Word file for each row of data in a spreadsheet.
     
 ```vb
@@ -83,7 +83,7 @@ Sub ControlWord()
 End Sub
 ```
 
-**Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+**Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 This example takes the cells values from a named range,  **W_Data**, that contains three values and inserts those values into a Word document. The values are inserted at bookmarked locations named  **td1**,  **td2**, and  **td3**.
 For this example to run, you must have a range named  **W_Data** that contains three values on **Sheet1** in the workbook. You must have a Word document named **Test.docx** saved in the same location as the Excel workbook, and the Word document must have three bookmarks named **td1**,  **td2**, and  **td3**.
 

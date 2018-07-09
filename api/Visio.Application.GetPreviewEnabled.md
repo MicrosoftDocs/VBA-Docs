@@ -38,6 +38,6 @@ Returns a value that indicates whether preview is enabled for the specified gall
 
 ## Remarks
 
-For the  _GalleryName_ parameter, you must pass the control ID for the specified gallery. You can find a list of control IDs for all Visio galleries by searching the MSDN library at http://msdn.microsoft.com/library.
+For the  _GalleryName_ parameter, you must pass the control ID for the specified gallery. You can find a list of control IDs for all Visio galleries by searching the MSDN library at https://msdn.microsoft.com/library.
 
 

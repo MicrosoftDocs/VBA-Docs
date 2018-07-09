@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 # Modify an Attachment of an Outlook Email Message
 This topic describes how you can programmatically modify a Microsoft Outlook email attachment without changing the original file.
 
- **Provided by:** Ken Getz, [MCW Technologies, LLC](http://www.mcwtech.com/)
+ **Provided by:** Ken Getz, [MCW Technologies, LLC](https://www.mcwtech.com/)
 
 Sending an email message with one or more attachments is easy, both in the Outlook interface and programmatically. In some scenarios, however, you may want to be able to modify the attachment after it has been attached to the mail item, without changing the original file in the file system. In other words, you may need a programmatic way to access the contents of the attachment in memory. 
 

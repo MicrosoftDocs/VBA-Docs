@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 
 

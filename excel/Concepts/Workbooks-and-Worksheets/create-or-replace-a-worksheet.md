@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following examples show how to determine if a worksheet exists, and then how to create or replace the worksheet.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 ## Determining if a Worksheet Exists
 

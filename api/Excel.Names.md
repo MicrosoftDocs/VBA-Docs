@@ -55,7 +55,7 @@ Use  **Names** ( _index_ ), where _index_ is the name index number or defined na
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 This example uses a named range as the formula for data validation. This example requires the validation data to be on Sheet 2 in the range A2:A100. This validation data is used to validate data entered on Sheet 1 in the range D2:D10.
 

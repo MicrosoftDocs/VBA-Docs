@@ -32,7 +32,7 @@ Using this property without an object qualifier returns a  **Range** object that
 
 ## Example
 
- **Sample code provided by:** Tom Urtis,[Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis,[Atlas Programming Management](https://www.atlaspm.com/)
 
 This example looks at data in each row and inserts a blank row each time the value in column A changes.
 

@@ -88,7 +88,7 @@ ActiveWorkbook.RunAutoMacros xlAutoOpen
 
 
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
 
 The following code example imports a sheet from another workbook onto a new sheet in the current workbook. Sheet1 in the current workbook must contain the path name of the workbook to import in cell D3, the file name in cell D4, and the worksheet name in cell D5. The imported worksheet is inserted after Sheet1 in the current workbook.
 

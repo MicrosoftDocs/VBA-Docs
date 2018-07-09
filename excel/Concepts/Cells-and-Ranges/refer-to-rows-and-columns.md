@@ -46,7 +46,7 @@ Sub SeveralRows()
 End Sub
 ```
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 This example deletes the empty rows from a selected range.
 
 

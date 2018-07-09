@@ -12,7 +12,7 @@ To run a form region, you must register it in the Windows registry and specify t
 
 For example, if you are designing a form region for items of the message class IPM.Contact, you can specify a form region manifest XML file, contoso.xml, that defines characteristics of the form region. When you register the form region in the Windows registry, under the current user key, you can add the key  **IPM.Contact**, add a value of the type  **String**, and specify the name of the form region,  **ContosoAdjoining**, as the name of the key, and the form region manifest XML file,  **c:\Form Regions\contoso.xml**, as the data of the key. For more information, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
-You can specify the functionality, behavior, and other innate properties of a form region through elements in the form region XML schema. Some of the more commonly used elements are listed as follows. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the  [MSDN Library](http://msdn.microsoft.com/library).
+You can specify the functionality, behavior, and other innate properties of a form region through elements in the form region XML schema. Some of the more commonly used elements are listed as follows. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the  [MSDN Library](https://msdn.microsoft.com/library).
 
 
 

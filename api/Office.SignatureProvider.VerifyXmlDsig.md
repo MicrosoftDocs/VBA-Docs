@@ -38,7 +38,7 @@ Verifies a signature based on the signed state of the document and the legitimac
 
 ## Remarks
 
-XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in Microsoft Office.
+XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in Microsoft Office.
 
 
 ## Example

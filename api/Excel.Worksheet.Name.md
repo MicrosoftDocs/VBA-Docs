@@ -27,7 +27,7 @@ Returns or sets a  **String** value that represents the object name.
 
 
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
 
 The following code example sets the name of the active worksheet equal to today's date.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 The following examples show different approaches for adding a table of contents to an Excel workbook.
 
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 This example uses the  [Pages.Count Property (Excel)](../../../api/Excel.Pages.Count.md) property to calculate the number of pages on each sheet. In addition, the entries in the TOC link to their respective sheets to improve on-screen workbook navigation.
 
@@ -76,7 +76,7 @@ End With
 End Sub
 ```
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 This example verifies that a sheet named "TOC" already exists. If it exists, the example updates the table of contents. Otherwise, the example creates a new TOC sheet at the beginning of the workbook. The name of each worksheet, along with the corresponding printed page numbers, is listed in the table of contents. To retrieve the page numbers the example opens the Print Preview dialog box. You must close the dialog box and then the table of contents is created.
 
 

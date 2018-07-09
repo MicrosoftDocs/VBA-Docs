@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following example looks at column A, and if there is a blank cell, sets the value of the blank cell to equal the value of the cell above it. This continues down the entire column, filling a value down into each blank cell.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 
 

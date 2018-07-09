@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code examples show ways to highlight the active cell or the rows and columns that contain the active cell. These examples use the  **[SelectionChange](../../../api/Excel.Worksheet.SelectionChange.md)** event of the **[Worksheet](../../../api/Excel.Worksheet.md)** object.
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 ## Highlighting the Active Cell
 

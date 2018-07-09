@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Limit the Size of an Attachment to an Outlook Email Message
 This topic describes how you can create a managed add-in for Outlook that cancels sending email if the total attachment size is greater than a fixed limit.
 
- **Provided by:** Ken Getz, [MCW Technologies, LLC](http://www.mcwtech.com/)
+ **Provided by:** Ken Getz, [MCW Technologies, LLC](https://www.mcwtech.com/)
 
 A given email message can contain one or more file attachments, and you may want to limit the total attachment size in email messages that you send. The sample code in this topic demonstrates how you can handle the  **ItemSend** event in an Outlook add-in, and in the event handler, cancel the sending of the email message if the combined size of all the attachments is larger than a specific value (2 MB, in this example).
 

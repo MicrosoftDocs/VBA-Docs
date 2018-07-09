@@ -91,7 +91,7 @@ End Sub
 
 The following example shows how to use the  **NotInList** event to add an item to a bound combo box.
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 
 
