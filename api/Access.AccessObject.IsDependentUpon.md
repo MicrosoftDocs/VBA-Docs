@@ -32,7 +32,7 @@ Returns a  **Boolean** value that indicates whether the specified object is depe
 | _ObjectType_|Required|**AcObjectType**|An  **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of database object to check for dependency.|
 | _ObjectName_|Required|**String**|The name of the database object to check for dependency.|
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -18,14 +18,12 @@ Calculates the statistics for a line by using the "least squares" method to calc
 
 ## Syntax
 
- _expression_. `LinEst`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `LinEst`(`Arg1` , `Arg2` , `Arg3` , `Arg4`)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ Calculates the statistics for a line by using the "least squares" method to calc
 | _Arg3_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 0.|
 | _Arg4_|Optional| **Variant**|Stats - a logical value specifying whether to return additional regression statistics.|
 
-### Return Value
+### Return value
 
 Variant
 
@@ -49,29 +47,23 @@ y = m1x1 + m2x2 + ... + b (if there are multiple ranges of x-values)
 
 where the dependent y-value is a function of the independent x-values. The m-values are coefficients corresponding to each x-value, and b is a constant value. Note that y, x, and m can be vectors. The array that LINEST returns is {mn,mn-1,...,m1,b}. LINEST can also return additional regression statistics.
 
-
 - If the array known_y's is in a single column, then each column of known_x's is interpreted as a separate variable.
     
 - If the array known_y's is in a single row, then each row of known_x's is interpreted as a separate variable.
     
-
 - The array known_x's can include one or more sets of variables. If only one variable is used, known_y's and known_x's can be ranges of any shape, as long as they have equal dimensions. If more than one variable is used, known_y's must be a vector (that is, a range with a height of one row or a width of one column).
     
-- If known_x's is omitted, it is assumed to be the array {1,2,3,...} that is the same size as known_y's.
-    
+- If known_x's is omitted, it is assumed to be the array {1,2,3,...} that is the same size as known_y's.  
 
 - If const is TRUE or omitted, b is calculated normally.
     
 - If const is FALSE, b is set equal to 0 and the m-values are adjusted to fit y = mx.
     
-
 - If stats is TRUE, LINEST returns the additional regression statistics, so the returned array is {mn,mn-1,...,m1,b;sen,sen-1,...,se1,seb;r2,sey;F,df;ssreg,ssresid}.
     
 - If stats is FALSE or omitted, LINEST returns only the m-coefficients and the constant b.
     
 The additional regression statistics are as follows. 
-
-
 
 |**Statistic**|**Description**|
 |:-----|:-----|
@@ -86,18 +78,16 @@ The additional regression statistics are as follows.
 
 The following illustration shows the order in which the additional regression statistics are returned. 
 
-
 ![Formula](../images/awflnst3_ZA06051201.gif)
-
-
-
 
 - You can describe any straight line with the slope and the y-intercept: Slope (m):  To find the slope of a line, often written as m, take two points on the line, (x1,y1) and (x2,y2); the slope is equal to (y2 - y1)/(x2 - x1). Y-intercept (b): The y-intercept of a line, often written as b, is the value of y at the point where the line crosses the y-axis. The equation of a straight line is y = mx + b. Once you know the values of m and b, you can calculate any point on the line by plugging the y- or x-value into that equation. You can also use the TREND function.
     
 - When you have only one independent x-variable, you can obtain the slope and y-intercept values directly by using the following formulas: Slope:  =INDEX(LINEST(known_y's,known_x's),1) Y-intercept: =INDEX(LINEST(known_y's,known_x's),2)
     
 - The accuracy of the line calculated by LINEST depends on the degree of scatter in your data. The more linear the data, the more accurate the LINEST model. LINEST uses the method of least squares for determining the best fit for the data. When you have only one independent x-variable, the calculations for m and b are based on the following formulas:
+
 ![Formula](../images/awflnst1_ZA06047512.gif)
+
 ![Formula](../images/awflnst2_ZA06051200.gif)where x and y are sample means, i.e., x = AVERAGE(known x's) and y = AVERAGE(known_y's). 
     
 - The line- and curve-fitting functions LINEST and LOGEST can calculate the best straight line or exponential curve that fits your data. However, you have to decide which of the two results best fits your data. You can calculate TREND(known_y's,known_x's) for a straight line, or GROWTH(known_y's, known_x's) for an exponential curve. These functions, without the new_x's argument, return an array of y-values predicted along that line or curve at your actual data points. You can then compare the predicted values with the actual values. You may want to chart them both for a visual comparison.
@@ -110,19 +100,18 @@ The following illustration shows the order in which the additional regression st
     
 - Formulas that return arrays must be entered as array formulas.
     
-- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in  **Regional and Language Options** in **Control Panel**.
+- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in **Regional and Language Options** in **Control Panel**.
     
 - Note that the y-values predicted by the regression equation may not be valid if they are outside the range of the y-values you used to determine the equation.
     
 - The underlying algorithm used in the LINEST function is different than the underlying algorithm used in the SLOPE and INTERCEPT functions. The difference between these algorithms can lead to different results when data is undetermined and collinear. For example, if the data points of the known_y's argument are 0 and the data points of the known_x's argument are 1: 
     
-      - LINEST returns a value of 0. The LINEST algorithm is designed to return reasonable results for collinear data, and in this case at least one answer can be found.
+  - LINEST returns a value of 0. The LINEST algorithm is designed to return reasonable results for collinear data, and in this case at least one answer can be found.
     
   - SLOPE and INTERCEPT return a #DIV/0! error. The SLOPE and INTERCEPT algorithm is designed to look for one and only one answer, and in this case there can be more than one answer.
     
 
 ## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

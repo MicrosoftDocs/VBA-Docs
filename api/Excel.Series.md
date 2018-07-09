@@ -15,30 +15,24 @@ ms.date: 06/08/2017
 
 Represents a series in a chart.
 
-
 ## Remarks
 
- The **Series** object is a member of the **[SeriesCollection](Excel.SeriesCollection.md)** collection.
+The **Series** object is a member of the **[SeriesCollection](Excel.SeriesCollection.md)** collection.
 
 
 ## Example
 
-Use  **SeriesCollection** ( _index_ ), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
+Use **SeriesCollection** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
 
 The series index number indicates the order in which the series were added to the chart.  `SeriesCollection(1)` is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
 
-
-
-
-```
+```vb
 Worksheets("sheet1").ChartObjects(1).Chart. _ 
  SeriesCollection(1).Interior.Color = RGB(255, 0, 0)
 ```
 
 
 ## Methods
-
-
 
 |**Name**|
 |:-----|
@@ -54,8 +48,6 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 |[Trendlines](Excel.Series.Trendlines.md)|
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -106,8 +98,4 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 ## See also
 
-
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+- [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
