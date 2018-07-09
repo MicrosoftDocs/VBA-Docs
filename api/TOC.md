@@ -24,9 +24,7 @@
 ##### [Sort Records in Case-Sensitive ( ASCII) Order](../access/Concepts/Criteria-Expressions/sort-records-in-case-sensitiveascii-order.md)
 ##### [Use Multiple Fields in Criteria Expressions](../access/Concepts/Criteria-Expressions/use-multiple-fields-in-criteria-expressions.md)
 ##### [Use Numeric Criteria in Expressions](../access/Concepts/Criteria-Expressions/use-numeric-criteria-in-expressions.md)
-##### [Use Numeric Criteria from a Control on a Form](../access/Concepts/Forms/use-numeric-criteria-from-a-control-on-a-form.md)
 ##### [Use Textual Criteria Expressions](../access/Concepts/Criteria-Expressions/use-textual-criteria-expressions.md)
-##### [Use Textual Criteria from a Control on a Form](../access/Concepts/Forms/use-textual-criteria-from-a-control-on-a-form.md)
 #### Error Codes
 ##### [Error Trapping](../access/Concepts/Error-Codes/error-trapping.md)
 ##### [Elements of Run-Time Error Handling](../access/Concepts/Error-Codes/elements-of-run-time-error-handling.md)
@@ -10781,7 +10779,6 @@
 ##### [Use an Add-in to Specify Icons for a Form Region](../outlook/How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/use-an-add-in-to-specify-icons-for-a-form-region.md)
 ##### [Create Separate Read and Compose Pages Using Form Regions in a Custom Form](../outlook/How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/create-separate-read-and-compose-pages-using-form-regions-in-a-custom-form.md)
 #### Items, Folders, and Stores
-##### [Enumerating, Searching, and Filtering Items in a Folder](../outlook/How-to/Search-and-Filter/enumerating-searching-and-filtering-items-in-a-folder.md)
 ##### [Sorting Items in a Folder](../outlook/How-to/Items-Folders-and-Stores/sorting-items-in-a-folder.md)
 ##### [Storing Outlook Items](../outlook/How-to/Items-Folders-and-Stores/storing-outlook-items.md)
 ##### [Working with EntryIDs and StoreIDs](../outlook/How-to/Items-Folders-and-Stores/working-with-entryids-and-storeids.md)
