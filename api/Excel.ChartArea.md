@@ -20,25 +20,21 @@ Represents the chart area of a chart.
 
 The chart area includes everything, including the plot area. However, the plot area has its own fill, so filling the plot area does not fill the chart area.
 
- For information about formatting the plot area, see **[PlotArea Object](Excel.PlotArea(object).md)**.
+For information about formatting the plot area, see [PlotArea Object](Excel.PlotArea(object).md).
 
-Use the  **ChartArea** property to return the **ChartArea** object.
+Use the **ChartArea** property to return the **ChartArea** object.
 
 
 ## Example
 
 The following example turns off the border for the chart area in embedded chart 1 on the worksheet named "Sheet1."
 
-
-```
+```vb
 Worksheets("Sheet1").ChartObjects(1).Chart. _ 
  ChartArea.Format.Line.Visible = False
 ```
 
-
 ## Methods
-
-
 
 |**Name**|
 |:-----|
@@ -49,8 +45,6 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 |[Select](Excel.ChartArea.Select.md)|
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -68,8 +62,4 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 ## See also
 
-
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+- [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
