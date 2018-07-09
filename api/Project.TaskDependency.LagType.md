@@ -27,7 +27,7 @@ In the  **Lag** property, string values default to days unless otherwise specifi
 
 ## Example
 
-To use the  **SetLagWeeks** macro, create two tasks, where Task 2 is linked to Task 1. When you run the macro, the **Immediate** window shows 4800 and 9, where the lag time is 4800 minutes and the type of lag is 9 (**pjWeeks** ).
+To use the  **SetLagWeeks** macro, create two tasks, where Task 2 is linked to Task 1. When you run the macro, the **Immediate** window shows 4800 and 9, where the lag time is 4800 minutes and the type of lag is 9 (**pjWeeks**).
 
 
 ```vb

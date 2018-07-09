@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **Units** property can be used to determine the unit of measure currently associated with a cell's value. The various unit codes are declared by the Visio type library in member **[VisUnitCodes ](Visio.visunitcodes.md)** . For example, a cell's width might be expressed in inches (**visInches** ) or in centimeters (**visCentimeters** ). In some cases, a program might behave differently depending on whether a cell's value is in metric or in imperial units.
+The  **Units** property can be used to determine the unit of measure currently associated with a cell's value. The various unit codes are declared by the Visio type library in member **[VisUnitCodes ](Visio.visunitcodes.md)** . For example, a cell's width might be expressed in inches (**visInches**) or in centimeters (**visCentimeters**). In some cases, a program might behave differently depending on whether a cell's value is in metric or in imperial units.
 
 For a list of valid unit codes, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

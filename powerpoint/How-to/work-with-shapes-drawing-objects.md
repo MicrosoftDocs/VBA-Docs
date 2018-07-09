@@ -61,7 +61,7 @@ The following are general guidelines for how properties and methods behave when 
     
 - A property of the collection that returns a constant returns the value of the property for an individual shape in the collection if all shapes in the collection have the same value for that property. If not all shapes in the collection have the same value for the property, it returns the "mixed" constant.
     
-- A property of the collection that returns a simple data type (such as  **Long**, **Single**, or **String** ) returns the value of the property for an individual shape if all shapes in the collection have the same value for that property.
+- A property of the collection that returns a simple data type (such as  **Long**, **Single**, or **String**) returns the value of the property for an individual shape if all shapes in the collection have the same value for that property.
     
 - The value of some properties can be returned or set only if there is exactly one shape in the collection. If there is more than one shape in the collection, a run-time error occurs. This is generally the case for returning or setting properties when the equivalent action in the user interface is possible only with a single shape (actions such as editing text in a shape or editing the points of a freeform).
     

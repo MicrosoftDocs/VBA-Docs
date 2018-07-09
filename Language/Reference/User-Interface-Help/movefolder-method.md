@@ -29,7 +29,7 @@ The  **MoveFolder** method syntax has these parts:
 | _destination_|Required. The path where the folder or folders are to be moved. The  _destination_ argument can't contain wildcard characters.|
 
  **Remarks**
-If  _source_ contains wildcards or _destination_ ends with a path separator (**\** ), it is assumed that _destination_ specifies an existing folder in which to move the matching files. Otherwise, _destination_ is assumed to be the name of a destination folder to create. In either case, three things can happen when an individual folder is moved:
+If  _source_ contains wildcards or _destination_ ends with a path separator (**\**), it is assumed that _destination_ specifies an existing folder in which to move the matching files. Otherwise, _destination_ is assumed to be the name of a destination folder to create. In either case, three things can happen when an individual folder is moved:
 
 
 - If  _destination_ does not exist, the folder gets moved. This is the usual case.

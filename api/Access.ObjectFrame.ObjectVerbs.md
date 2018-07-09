@@ -35,7 +35,7 @@ You can use the  **ObjectVerbs** property in Visual Basic to determine the list 
 
 This property setting isn't available in Design view.
 
-You can use the  **ObjectVerbs** property with the **ObjectVerbsCount** property to display a list of the verbs supported by an OLE object. The **ObjectVerbs** property uses this list of verbs to determine which operation to perform when an OLE object is activated (when the **Action** property is set to **acOLEActivate** ).
+You can use the  **ObjectVerbs** property with the **ObjectVerbsCount** property to display a list of the verbs supported by an OLE object. The **ObjectVerbs** property uses this list of verbs to determine which operation to perform when an OLE object is activated (when the **Action** property is set to **acOLEActivate**).
 
 The  **Verb** property setting is the position of a particular verb in the list of verbs returned by the **ObjectVerbs** property. For example, 1 specifies the first verb in the list (the Visual Basic command `ObjectVerbs(0)`, or the first verb in the  **ObjectVerbs** property array), 2 specifies the second verb in the list (the Visual Basic command `ObjectVerbs(1)`, or the second verb in the  **ObjectVerbs** property array), and so on.
 

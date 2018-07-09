@@ -15,7 +15,7 @@ Occurs after the Microsoft Visio instance is forced to flush its event queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'MustFlushScopeEnded'(**_ByVal app As [IVAPPLICATION]_** )
+Private Sub  _expression_ _'MustFlushScopeEnded'(**_ByVal app As [IVAPPLICATION]_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

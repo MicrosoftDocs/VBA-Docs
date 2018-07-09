@@ -25,7 +25,7 @@ Returns or sets the font style. Read/write  **String** .
 
 ## Remarks
 
-Changing this property may affect other  **[Font](Excel.Font(object).md)** properties (such as **[Bold](Excel.TextEffectFormat.FontBold.md)** and **[Italic](Excel.TextEffectFormat.FontItalic.md)** ). Acceptable values are Regular, Italic, Bold, and Bold Italic.
+Changing this property may affect other  **[Font](Excel.Font(object).md)** properties (such as **[Bold](Excel.TextEffectFormat.FontBold.md)** and **[Italic](Excel.TextEffectFormat.FontItalic.md)**). Acceptable values are Regular, Italic, Bold, and Bold Italic.
 
 
 ## Example

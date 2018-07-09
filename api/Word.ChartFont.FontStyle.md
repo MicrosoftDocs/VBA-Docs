@@ -25,7 +25,7 @@ Returns or sets the font style. Read/write  **String** .
 
 ## Remarks
 
-Changing this property may affect other  **ChartFont** properties (such as **[Bold](Word.ChartFont.Bold.md)** and **[Italic](Word.ChartFont.Italic.md)** ).
+Changing this property may affect other  **ChartFont** properties (such as **[Bold](Word.ChartFont.Bold.md)** and **[Italic](Word.ChartFont.Italic.md)**).
 
 
 ## Example

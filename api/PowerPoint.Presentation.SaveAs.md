@@ -29,7 +29,7 @@ Saves a presentation that's never been saved, or saves a previously saved presen
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|Specifies the name to save the file under. If you don't include a full path, PowerPoint saves the file in the current folder.|
-| _FileFormat_|Optional|**PpSaveAsFileType**|Specifies the saved file format. If this argument is omitted, the file is saved in the default file format (**ppSaveAsDefault** ).|
+| _FileFormat_|Optional|**PpSaveAsFileType**|Specifies the saved file format. If this argument is omitted, the file is saved in the default file format (**ppSaveAsDefault**).|
 | _EmbedFonts_|Optional|**MsoTriState**|Specifies whether PowerPoint embeds TrueType fonts in the saved presentation.|
 
 ## Remarks

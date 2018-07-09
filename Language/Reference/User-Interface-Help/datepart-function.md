@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** (**Integer** ) containing the specified part of a given date.
+Returns a  **Variant** (**Integer**) containing the specified part of a given date.
  **Syntax**
  **DatePart( _interval,_** **_date_** [ **_,firstdayofweek_** [ **_,_** **_firstweekofyear_** ]] **)**
 The  **DatePart** function syntax has these[named arguments](vbe-glossary.md):
@@ -22,7 +22,7 @@ The  **DatePart** function syntax has these[named arguments](vbe-glossary.md):
 |**Part**|**Description**|
 |:-----|:-----|
 |**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to return.|
-|**_date_**|Required.  **Variant** (**Date** ) value that you want to evaluate.|
+|**_date_**|Required.  **Variant** (**Date**) value that you want to evaluate.|
 |**_firstdayofweek_**|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.|
 |**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|
 

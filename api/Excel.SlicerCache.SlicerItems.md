@@ -30,7 +30,7 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Remarks
 
-The  **SlicerItems** property of the **SlicerCache** object is only applicable for slicers that are based on PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase** ), or for slicers that are based on PivotTables based on relational data sources (**SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **False** ). Attempting to access the **SlicerItems** property for slicers that are connected to an external OLAP data source (**SlicerCache** . **OLAP** = **True** ) generates a run-time error. For OLAP data sources, use the **[SlicerItems](Excel.SlicerCacheLevel.SlicerItems.md)** property of the **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object instead.
+The  **SlicerItems** property of the **SlicerCache** object is only applicable for slicers that are based on PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase**), or for slicers that are based on PivotTables based on relational data sources (**SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **False**). Attempting to access the **SlicerItems** property for slicers that are connected to an external OLAP data source (**SlicerCache** . **OLAP** = **True**) generates a run-time error. For OLAP data sources, use the **[SlicerItems](Excel.SlicerCacheLevel.SlicerItems.md)** property of the **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object instead.
 
 
 ## See also

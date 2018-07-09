@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebOptions.FolderSuffix Property (Word)
 
-Returns the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True** ). Read-only **String** .
+Returns the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True**). Read-only **String** .
 
 
 ## Syntax

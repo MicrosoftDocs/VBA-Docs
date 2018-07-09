@@ -32,7 +32,7 @@ MsoTriState
 
 This property is read-only. However, you can use the  **[AutomaticLength](PowerPoint.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** and the **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to set this property to **msoFalse**.
 
-The value returned by the  **AutoLength** property can be one of these **MsoTriState** constants. This property applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ).
+The value returned by the  **AutoLength** property can be one of these **MsoTriState** constants. This property applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 
 

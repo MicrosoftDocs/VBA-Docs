@@ -19,7 +19,7 @@ Visual Basic can't determine what action to take. This error has the following c
     
     Keywords and the names of [named arguments](vbe-glossary.md) must exactly match those specified in their syntax specifications. Check online Help, and then correct the spelling.
     
-- Punctuation is incorrect. For example, when you omit optional arguments positionally, you must substitute a comma (**,** ) as a placeholder for the omitted argument.
+- Punctuation is incorrect. For example, when you omit optional arguments positionally, you must substitute a comma (**,**) as a placeholder for the omitted argument.
     
 - A [procedure](vbe-glossary.md) isn't defined.
     

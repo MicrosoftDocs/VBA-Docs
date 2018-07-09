@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** (**Long** ) specifying the position of the first occurrence of one string within another.
+Returns a  **Variant** (**Long**) specifying the position of the first occurrence of one string within another.
  **Syntax**
  **InStr** ([ _start_, ] _string1_, _string2_ [, _compare_ ])
 The  **InStr** function syntax has these[arguments](vbe-glossary.md):

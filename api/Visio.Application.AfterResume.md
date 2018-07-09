@@ -15,7 +15,7 @@ Occurs when the operating system resumes normal operation after having been susp
 
 ## Syntax
 
- Private Sub _expression_ _'AfterResume'(**_ByVal app As [IVAPPLICATION]_** )
+ Private Sub _expression_ _'AfterResume'(**_ByVal app As [IVAPPLICATION]_**)
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

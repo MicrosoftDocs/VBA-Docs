@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Date Data Type
 
-[Date variables](vbe-glossary.md) are stored as IEEE 64-bit (8-byte) floating-point numbers that represent dates ranging from 1 January 100 to 31 December 9999 and times from 0:00:00 to 23:59:59. Any recognizable literal date values can be assigned to **Date** variables.[Date literals](vbe-glossary.md) must be enclosed within number signs (**#** ), for example, `#January 1, 1993#` or or `#1 Jan 93#`.
+[Date variables](vbe-glossary.md) are stored as IEEE 64-bit (8-byte) floating-point numbers that represent dates ranging from 1 January 100 to 31 December 9999 and times from 0:00:00 to 23:59:59. Any recognizable literal date values can be assigned to **Date** variables.[Date literals](vbe-glossary.md) must be enclosed within number signs (**#**), for example, `#January 1, 1993#` or or `#1 Jan 93#`.
 
  **Date** variables display dates according to the short date format recognized by your computer. Times display according to the time format (either 12-hour or 24-hour) recognized by your computer.
 

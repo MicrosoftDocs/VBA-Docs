@@ -35,7 +35,7 @@ The event filters described in the array returned by the  **GetFilterActions** m
 The number of elements in the array is a multiple of 3, as follows:
 
 
-- The first element contains the beginning mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions** ).
+- The first element contains the beginning mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions**).
     
 - The second element contains the end mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions** whose value is higher than that of the first element ).
     

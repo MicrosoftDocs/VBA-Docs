@@ -15,7 +15,7 @@ Occurs when a mouse button is released.
 
 ## Syntax
 
-Private Sub  _expression_ _'MouseUp'(**_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_** )
+Private Sub  _expression_ _'MouseUp'(**_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

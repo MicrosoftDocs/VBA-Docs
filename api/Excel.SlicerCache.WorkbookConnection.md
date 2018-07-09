@@ -30,7 +30,7 @@ Gets or sets the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object t
 
 ## Remarks
 
-The  **WorkbookConnection** property only applies to slicers that are based on external data sources (**SlicerCache** . **SourceType** = **xlExternal** ). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase** ) generates a run-time error.
+The  **WorkbookConnection** property only applies to slicers that are based on external data sources (**SlicerCache** . **SourceType** = **xlExternal**). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase**) generates a run-time error.
 
 The workbook connection value must be unique. Setting the workbook connection to a value that already exists generates a run-time error. 
 

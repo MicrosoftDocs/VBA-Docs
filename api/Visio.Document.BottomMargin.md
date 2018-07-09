@@ -42,7 +42,7 @@ The value of this property corresponds to the value entered in the  **Bottom** b
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- **ActiveDocument.BottomMargin** (**visInches** ) = _newValue_
+ **ActiveDocument.BottomMargin** (**visInches**) = _newValue_
 
  **ActiveDocument.BottomMargin** (65) = _newValue_
 

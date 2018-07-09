@@ -33,7 +33,7 @@ Boolean
 
 ## Remarks
 
-Set the  **DataGraphicHidden** property to **True** (-1) to hide a data graphic. Set the property to **False** (0) to display the data graphic. The default is to display the data graphic (**False** ).
+Set the  **DataGraphicHidden** property to **True** (-1) to hide a data graphic. Set the property to **False** (0) to display the data graphic. The default is to display the data graphic (**False**).
 
 A data graphic is a  **Master** object of type **visTypeDataGraphic** . Before you can set any property of a data graphic master, you must use the **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.
 

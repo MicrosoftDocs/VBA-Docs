@@ -22,7 +22,7 @@ The default property of  **KeyboardEvent** is **ToString** . The **ToString** pr
 
  _event code_ ; **KeyCode** property value; **KeyButtonState** property value; **KeyAscii** property value; **Window.Caption**
 
-where  _event code_ returns the code of the event that fired (**KeyDown** , **KeyPress** , or **KeyUp** ) and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user pressed the "L" key while holding down the SHIFT key, in response to the **KeyPress** event, **ToString** might return the following:
+where  _event code_ returns the code of the event that fired (**KeyDown** , **KeyPress** , or **KeyUp**) and **Window.Caption** returns the caption of the window that sourced the event. For example, if a user pressed the "L" key while holding down the SHIFT key, in response to the **KeyPress** event, **ToString** might return the following:
 
 713;0;4;76;Drawing1
 

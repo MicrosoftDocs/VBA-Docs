@@ -19,7 +19,7 @@ Used at [module level](vbe-glossary.md) to declare the default comparison method
 
  **Remarks**
 If used, the  **Option** **Compare** statement must appear in a[module](vbe-glossary.md) before any[procedures](vbe-glossary.md).
-The  **Option Compare** statement specifies the[string comparison](vbe-glossary.md) method (**Binary**, **Text**, or **Database** ) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
+The  **Option Compare** statement specifies the[string comparison](vbe-glossary.md) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
  **Option Compare Binary** results in string comparisons based on a[sort order](vbe-glossary.md) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
 
 

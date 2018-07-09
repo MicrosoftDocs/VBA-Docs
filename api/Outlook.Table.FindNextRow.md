@@ -30,7 +30,7 @@ A  **[Row](Outlook.Row.md)** object that represents the next row in the **Table*
 
 ## Remarks
 
- **FindNextRow** finds the next row based on the row returned by the preceding **FindRow** or **FindNextRow** . It does not depend on the current row (as the current row may have been repositioned since the preceding **FindRow** or **FindNextRow** , for example, by **[Table.MoveToStart](Outlook.Table.MoveToStart.md)** ).
+ **FindNextRow** finds the next row based on the row returned by the preceding **FindRow** or **FindNextRow** . It does not depend on the current row (as the current row may have been repositioned since the preceding **FindRow** or **FindNextRow** , for example, by **[Table.MoveToStart](Outlook.Table.MoveToStart.md)**).
 
 If  **FindNextRow** finds a row, it will position the current row to that row. If it does not find another row, it will not reposition the current row.
 

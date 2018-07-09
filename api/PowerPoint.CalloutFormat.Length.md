@@ -25,7 +25,7 @@ When the  **[AutoLength](PowerPoint.CalloutFormat.AutoLength.md)** property of t
 
 ## Remarks
 
-Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour** ). Use the **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to set the value of this property for the **CalloutFormat** object.
+Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Use the **[CustomLength](PowerPoint.CalloutFormat.CustomLength.md)** method to set the value of this property for the **CalloutFormat** object.
 
 
 ## Example

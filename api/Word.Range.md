@@ -29,7 +29,7 @@ Use the  **Range** method to return a **Range** object defined by the given star
 Set myRange = ActiveDocument.Range(Start:=0, End:=10)
 ```
 
-Use the  **Range** property to return a **Range** object defined by the beginning and end of another object. The **Range** property applies to many objects (for example, **Paragraph**, **Bookmark**, and **Cell** ). The following example returns a **Range** object that refers to the first paragraph in the active document.
+Use the  **Range** property to return a **Range** object defined by the beginning and end of another object. The **Range** property applies to many objects (for example, **Paragraph**, **Bookmark**, and **Cell**). The following example returns a **Range** object that refers to the first paragraph in the active document.
 
 
 

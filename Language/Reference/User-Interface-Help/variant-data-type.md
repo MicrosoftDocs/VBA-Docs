@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Variant Data Type
 
-The **Variant** data type is the [data type](vbe-glossary.md) for all [variables](vbe-glossary.md) that are not explicitly declared as some other type (using [statements](vbe-glossary.md) such as **Dim**, **Private**, **Public**, or **Static** ). The **Variant** data type has no [type-declaration character](vbe-glossary.md).
+The **Variant** data type is the [data type](vbe-glossary.md) for all [variables](vbe-glossary.md) that are not explicitly declared as some other type (using [statements](vbe-glossary.md) such as **Dim**, **Private**, **Public**, or **Static**). The **Variant** data type has no [type-declaration character](vbe-glossary.md).
 
 A **Variant** is a special data type that can contain any kind of data except fixed-length [String](vbe-glossary.md) data. (**Variant** types now support [user-defined types](vbe-glossary.md).) A **Variant** can also contain the special values [Empty](vbe-glossary.md), **Error**, **Nothing**, and [Null](vbe-glossary.md). You can determine how the data in a **Variant** is treated using the **VarType** function or **TypeName** function.
 

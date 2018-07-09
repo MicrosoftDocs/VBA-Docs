@@ -18,7 +18,7 @@ Occurs when there is a validation error in the document.
 
 ## Syntax
 
-Private Sub  _expression_ _'XMLValidationError'(**_XMLNode As XMLNode_** )
+Private Sub  _expression_ _'XMLValidationError'(**_XMLNode As XMLNode_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. An object of type **Application** that has been declared in a class module by using the **WithEvents** keyword. For more information about using events with the **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 

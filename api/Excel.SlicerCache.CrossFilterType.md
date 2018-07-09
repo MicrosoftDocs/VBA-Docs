@@ -34,7 +34,7 @@ If more than one slicer is associated with the same PivotTable, by default, if t
 
 The user interface settings that correspond to the setting of the  **CrossFilterType** property are the **Visually indicate items with no data** and **Show items with no data last** check boxes in the **Slicer Settings** dialog box. Setting the **CrossFilterType** property to **xlSlicerCrossFilterShowItemsWithDataAtTop** corresponds to selecting both the **Visually indicate items with no data** and **Show items with no data last** check boxes. Setting the **CrossFilterType** property to **xlSlicerCrossFilterShowItemsWithNoData** corresponds to selecting only the **Visually indicate items with no data** check box. Clearing both check boxes corresponds to setting the **CrossFilterType** property to **xlSlicerNoCrossFilter** .
 
- OLAP data sources (**SlicerCache** . **OLAP** = **True** ) are not supported by the **CrossFilterType** property of the **SlicerCache** object. For OLAP data sources, use the **[CrossFilterType](Excel.SlicerCacheLevel.CrossFilterType.md)** property of the **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object, instead.
+ OLAP data sources (**SlicerCache** . **OLAP** = **True**) are not supported by the **CrossFilterType** property of the **SlicerCache** object. For OLAP data sources, use the **[CrossFilterType](Excel.SlicerCacheLevel.CrossFilterType.md)** property of the **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object, instead.
 
 
 ## See also

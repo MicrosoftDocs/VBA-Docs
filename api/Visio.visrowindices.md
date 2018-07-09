@@ -32,12 +32,12 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 | **visRowField**|0|Index of the first row in  **visSectionTextField** .|
 | **visRowFill**|3|Index of the row in  **visSectionObject** that defines fill properties.|
 | **visRowFirst**|0|Row logically before every row in a section.|
-| **visRowForeign**|9|Index of the row in  **visSectionObject** that defines foreign properties (shape of type **visTypeForeignObject** ).|
+| **visRowForeign**|9|Index of the row in  **visSectionObject** that defines foreign properties (shape of type **visTypeForeignObject**).|
 | **visRowGradientProperties**|26|Index of the row in  **visSectionObject** that defines the gradient properties of the shape.|
 | **visRowGradientStop**|0|Index of first row in  **visSectionLineGradientStops** and **visSectionFillGradientStops** .|
-| **visRowGroup**|22|Index of the row in  **visSectionObject** that defines foreign properties (shape of type **visTypeGroup** ).|
+| **visRowGroup**|22|Index of the row in  **visSectionObject** that defines foreign properties (shape of type **visTypeGroup**).|
 | **visRowHelpCopyright**|16|Index of the row in  **visSectionObject** that defines Help and copyright properties.|
-| **visRowImage**|21|Index of the row in  **visSectionObject** that defines image properties (shape whose property is **visTypeBitMap** ).|
+| **visRowImage**|21|Index of the row in  **visSectionObject** that defines image properties (shape whose property is **visTypeBitMap**).|
 | **visRowInval**|-1|An invalid row index.|
 | **visRowLast**|-2|Row logically after every row in a section.|
 | **visRowLayerMem**|6|Index of the row in  **visSectionObject** that defines what layers the shape belongs to.|
@@ -48,7 +48,7 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 | **visRowNone**|-1|Unspecified row.|
 | **visRowPageLayout**|24|Index of the row in  **visSectionObject** of a page or master that defines placement and routing.|
 | **visRowOtherEffectProperties**|28|Index of the row in  **visSectionObject** that defines other effect properties.|
-| **visRowPage**|10|Index of the row in  **visSectionObject** that defines page or master properties (shape of type **visTypePage** ).|
+| **visRowPage**|10|Index of the row in  **visSectionObject** that defines page or master properties (shape of type **visTypePage**).|
 | **visRowParagraph**|0|Index of the first row in  **visSectionParagraph** .|
 | **visRowPrintProperties**|25|Index of the row in  **visSectionObject** of a document that defines printing properties. (Print Properties section in the ShapeSheet window.)|
 | **visRowProp**|0|Index of the first row in  **visSectionProp** .|

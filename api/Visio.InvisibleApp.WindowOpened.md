@@ -15,7 +15,7 @@ Occurs after a window is opened.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowOpened'(**_ByVal Window As [IVWINDOW]_** )
+Private Sub  _expression_ _'WindowOpened'(**_ByVal Window As [IVWINDOW]_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

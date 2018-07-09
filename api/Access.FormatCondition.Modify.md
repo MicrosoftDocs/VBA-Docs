@@ -31,7 +31,7 @@ You can use the  **Modify** method to change the format conditions of a **[Forma
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**AcFormatConditionType**|A  **[AcFormatConditionType](Access.AcFormatConditionType.md)** constant that specifies the type of condition to be modified.|
 | _Operator_|Optional|**AcFormatConditionOperator**|A  **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)** constant that specifies the type of operator to be used.
- **Note**  If the type argument is  **acExpression**, the operator argument is ignored. If you leave this argument blank, the default constant (**acBetween** ) is assumed.
+ **Note**  If the type argument is  **acExpression**, the operator argument is ignored. If you leave this argument blank, the default constant (**acBetween**) is assumed.
 
 |
 | _Expression1_|Optional|**Variant**|A value or expression associated with the first part of the conditional format. Can be a constant value or a string value.|

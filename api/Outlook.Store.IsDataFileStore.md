@@ -27,7 +27,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
  **IsDataFileStore** supports only Exchange stores, and will return **False** for HTTP-type stores such as Hotmail and MSN, and for IMAP stores.
 
-For Exchange stores,  **IsDataFileStore** will return **False** if the user profile is not using Cached Exchange mode. **IsDataFileStore** will also return **False** when the store is an Exchange Public Folder (that is, **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is **olExchangePublicFolder** ).
+For Exchange stores,  **IsDataFileStore** will return **False** if the user profile is not using Cached Exchange mode. **IsDataFileStore** will also return **False** when the store is an Exchange Public Folder (that is, **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is **olExchangePublicFolder**).
 
  **IsDataFileStore** does not indicate whether the store is located on a local hard drive. For example, a .pst file could be located on a mapped network drive and **IsDataFileStore** would still return **True** .
 

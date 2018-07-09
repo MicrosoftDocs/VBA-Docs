@@ -31,7 +31,7 @@ Returns or sets the column format for the data in the text file that you're impo
 | **xlFixedWidth** . Indicates that the data in the file is arranged in columns of fixed widths.|
 | **xlDelimited**_default_ . Iindicates the file is delimited by delimiter characters|
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 

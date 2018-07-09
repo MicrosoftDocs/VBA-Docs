@@ -31,11 +31,11 @@ The **FindRecord** method carries out the FindRecord action in Visual Basic.
 |:-----|:-----|:-----|:-----|
 | _FindWhat_|Required|**Variant**|An expression that evaluates to text, a number, or a date. The expression contains the data to search for.|
 | _Match_|Optional|**AcFindMatch**|An **[AcFindMatch](Access.AcFindMatch.md)** constant that specifies where to search for the match. The default value is **acEntire**.|
-| _MatchCase_|Optional|**Variant**|Use **True** for a case-sensitive search and **False** for a search that's not case-sensitive. If you leave this argument blank, the default (**False** ) is assumed.|
+| _MatchCase_|Optional|**Variant**|Use **True** for a case-sensitive search and **False** for a search that's not case-sensitive. If you leave this argument blank, the default (**False**) is assumed.|
 | _Search_|Optional|**AcSearchDirection**|An **[AcSearchDirection](Access.AcSearchDirection.md)** constant that specifies the direction to search. The default value is **acSearchAll**.|
-| _SearchAsFormatted_|Optional|**Variant**|Use **True** to search for data as it's formatted and **False** to search for data as it's stored in the database. If you leave this argument blank, the default (**False** ) is assumed.|
+| _SearchAsFormatted_|Optional|**Variant**|Use **True** to search for data as it's formatted and **False** to search for data as it's stored in the database. If you leave this argument blank, the default (**False**) is assumed.|
 | _OnlyCurrentField_|Optional|**AcFindField**|An **[AcFindField](Access.AcFindField.md)** constant that specifies whether to search all fields, or only the current field. The default value is **acCurrent**.|
-| _FindFirst_|Optional|**Variant**|Use **True** to start the search at the first record. Use **False** to start the search at the record following the current record. If you leave this argument blank, the default (**True** ) is assumed.|
+| _FindFirst_|Optional|**Variant**|Use **True** to start the search at the first record. Use **False** to start the search at the record following the current record. If you leave this argument blank, the default (**True**) is assumed.|
 
 ## Remarks
 

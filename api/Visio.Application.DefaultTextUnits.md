@@ -34,7 +34,7 @@ The  **DefaultTextUnits** property corresponds to the value shown in the **Text*
 
 The return value contains one of the values of  **[VisUnitCodes](Visio.visunitcodes.md)** , which are declared in the Microsoft Visio type library.
 
-You can specify the value of  **DefaultTextUnits** as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "pt". If the string is invalid or the unit code is inappropriate (non-textual), an error is generated.
+You can specify the value of  **DefaultTextUnits** as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "pt". If the string is invalid or the unit code is inappropriate (non-textual), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

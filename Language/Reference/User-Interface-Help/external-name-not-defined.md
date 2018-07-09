@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # External name not defined
 
-You can indicate external names by enclosing them in brackets (**[ ]** ). This error has the following cause and solution:
+You can indicate external names by enclosing them in brackets (**[ ]**). This error has the following cause and solution:
 
 
 

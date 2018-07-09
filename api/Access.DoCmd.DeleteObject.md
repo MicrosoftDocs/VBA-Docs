@@ -36,7 +36,7 @@ The **DeleteObject** method carries out the DeleteObject action in Visual Basic.
 
 You can use the **DeleteObject** method to delete a specified database object.
 
-If you leave the  _objecttype_ and _objectname_ arguments blank (the default constant, **acDefault**, is assumed for _objecttype_), Microsoft Access deletes the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the In Database Window argument set to Yes (**True** ).
+If you leave the  _objecttype_ and _objectname_ arguments blank (the default constant, **acDefault**, is assumed for _objecttype_), Microsoft Access deletes the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the In Database Window argument set to Yes (**True**).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a list of key settings and their respective values (originally created with  **SaveSetting** ) from an application's entry in the Windows[registry](vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
+Returns a list of key settings and their respective values (originally created with  **SaveSetting**) from an application's entry in the Windows[registry](vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
  **Syntax**
  **GetAllSettings( _appname,_** **_section_ )**
 The  **GetAllSettings** function syntax has these[named arguments](vbe-glossary.md):

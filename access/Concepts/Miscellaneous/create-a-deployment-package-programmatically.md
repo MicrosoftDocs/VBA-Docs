@@ -13,7 +13,7 @@ The **CreateInstallPackage** method enables you to create a deployment package p
 
 ## Syntax
 
- _expression_. **CreateInstallPackage**(** _WizardSettingsFile_** )
+ _expression_. **CreateInstallPackage**(**_WizardSettingsFile_**)
 
  _expression_ A variable that represents an **AccessDeveloperExtensions** object.
 

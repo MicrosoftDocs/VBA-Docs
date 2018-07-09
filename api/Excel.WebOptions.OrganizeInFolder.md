@@ -29,7 +29,7 @@ The new folder is created in the folder where you have saved the Web page, and i
 
 If you save a document that was previously saved with the  **OrganizeInFolder** property set to a different value, Microsoft Excel automatically moves the supporting files into or out of the folder, as appropriate.
 
-If you don't use long file names (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** property is set to **False** ), Microsoft Excel automatically saves any supporting files in a separate folder. The files cannot be saved in the same folder as the Web page.
+If you don't use long file names (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** property is set to **False**), Microsoft Excel automatically saves any supporting files in a separate folder. The files cannot be saved in the same folder as the Web page.
 
 
 ## Example

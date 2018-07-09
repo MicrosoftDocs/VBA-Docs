@@ -25,7 +25,7 @@ Returns or sets an array of integers that correspond to the widths of the column
 
 ## Remarks
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport** ), and only if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlFixedWidth** .
+Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**), and only if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlFixedWidth** .
 
 You must specify a valid, nonnegative column width. If you specify columns that exceed the width of the text file, those values are ignored. If the width of the text file is greater than the total width of columns you specify, the balance of the text file is imported into an additional column.
 

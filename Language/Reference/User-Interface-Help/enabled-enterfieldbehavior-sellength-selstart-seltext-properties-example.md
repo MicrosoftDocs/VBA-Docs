@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Enabled, EnterFieldBehavior, SelLength, SelStart, SelText Properties Example
 
-The following example tracks the selection-related properties (**SelLength**, **SelStart**, and **SelText** ) that change as the user moves the insertion point and extends the selection using the keyboard. This example also uses the **Enabled** and **EnterFieldBehavior** properties.
+The following example tracks the selection-related properties (**SelLength**, **SelStart**, and **SelText**) that change as the user moves the insertion point and extends the selection using the keyboard. This example also uses the **Enabled** and **EnterFieldBehavior** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 

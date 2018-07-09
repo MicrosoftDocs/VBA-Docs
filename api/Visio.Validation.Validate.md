@@ -50,7 +50,7 @@ To validate all rule sets active in the document, pass  **Nothing** for _RuleSet
 | **visValidationDefault**|0|Validate document and open  **Issues** window. The default.|
 | **visValidationNoOpenWindow**|1|Validate document but do not open  **Issues** window.|
 
-If you do not set the optional  _Flags_ parameter, Microsoft Visio applies the default behavior (**visValidationDefault** ).
+If you do not set the optional  _Flags_ parameter, Microsoft Visio applies the default behavior (**visValidationDefault**).
 
 When you call the  **Validate** method, Microsoft Visio checks whether the rule set is active before evaluating it. Visio does not display message boxes during the evalution, except to notify you if, when _Flags_ is set to **visValidationDefault** , it finds no errors; and it displays the progress bar only if **Application.ShowProgressBars** is **True** .
 

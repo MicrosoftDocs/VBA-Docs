@@ -25,7 +25,7 @@ Returns a  **Single** value that represents the length (in points) of the first 
 
 ## Remarks
 
-This property is read-only and applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour** ), and for which the **[AutoLength](Excel.CalloutFormat.AutoLength.md)** property is set to **False** . Use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set the value of this property for a **[CalloutFormat](Excel.CalloutFormat.md)** object.
+This property is read-only and applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**), and for which the **[AutoLength](Excel.CalloutFormat.AutoLength.md)** property is set to **False** . Use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set the value of this property for a **[CalloutFormat](Excel.CalloutFormat.md)** object.
 
 
 ## Example

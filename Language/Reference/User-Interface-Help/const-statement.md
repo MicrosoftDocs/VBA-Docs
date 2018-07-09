@@ -31,7 +31,7 @@ The  **Const** statement syntax has these parts:
  **Remarks**
 Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](vbe-glossary.md), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](vbe-glossary.md), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
 To combine several constant declarations on the same line, separate each constant assignment with a comma. When constant declarations are combined in this way, the  **Public** or **Private** keyword, if used, applies to all of them.
-You can't use variables, user-defined functions, or intrinsic Visual Basic functions (such as  **Chr** ) in [expressions](vbe-glossary.md) assigned to constants.
+You can't use variables, user-defined functions, or intrinsic Visual Basic functions (such as  **Chr**) in [expressions](vbe-glossary.md) assigned to constants.
 
  **Note**  Constants can make your programs self-documenting and easy to modify. Unlike variables, constants can't be inadvertently changed while your program is running.
 

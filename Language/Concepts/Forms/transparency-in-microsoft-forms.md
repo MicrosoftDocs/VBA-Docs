@@ -35,7 +35,7 @@ Transparent pictures sometimes have a hazy appearance. If you do not like this a
 If you use a transparent bitmap on a control that does not support transparent bitmaps, the bitmap will display correctly but you won't be able to see what's behind it. In Microsoft Forms, the following controls do not support transparent bitmaps:
 
 
-- The form window (**UserForm** )
+- The form window (**UserForm**)
     
 -  **Frame**
     

@@ -58,7 +58,7 @@ Passing  **True** for the optional _BlastGuards_ argument overrides formulas in 
 
 The default value for  _RotationType_ is **visRotateSelection** .
 
-You can specify  _AngleUnitsNameOrCode_ or _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "radians" or "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
+You can specify  _AngleUnitsNameOrCode_ or _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "radians" or "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 

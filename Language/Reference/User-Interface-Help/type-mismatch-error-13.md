@@ -29,7 +29,7 @@ Visual Basic is able to convert and coerce many values to accomplish [data type]
 
   **Solution:** Specify an expression that can be displayed.
     
-- **Cause:** You attempted to mix traditional Basic error handling with **Variant** values having the **Error** subtype (10, **vbError** ), for example:
+- **Cause:** You attempted to mix traditional Basic error handling with **Variant** values having the **Error** subtype (10, **vbError**), for example:
     
   ```vb
     Error CVErr(n) 

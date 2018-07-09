@@ -21,16 +21,16 @@ The  **GetObject** function syntax has these[named arguments](vbe-glossary.md):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_pathname_**|Optional;  **Variant** (**String** ). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-|**_class_**|Optional;  **Variant** (**String** ). A string representing the[class](vbe-glossary.md) of the object.|
+|**_pathname_**|Optional;  **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
+|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](vbe-glossary.md) of the object.|
 
 The  **_class_**[argument](vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _appname_|Required;  **Variant** (**String** ). The name of the application providing the object.|
-| _objecttype_|Required;  **Variant** (**String** ). The type or class of object to create.|
+| _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
+| _objecttype_|Required;  **Variant** (**String**). The type or class of object to create.|
 
  **Remarks**
 Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
@@ -44,7 +44,7 @@ Set CADObject = GetObject("C:\CAD\SCHEMA.CAD")
 
 When this code is executed, the application associated with the specified  **_pathname_** is started and the object in the specified file is activated.
 If  **_pathname_** is a zero-length string (""), **GetObject** returns a new object instance of the specified type. If the **_pathname_** argument is omitted, **GetObject** returns a currently active object of the specified type. If no object of the specified type exists, an error occurs.
-Some applications allow you to activate part of a file. Add an exclamation point (**!** ) to the end of the file name and follow it with a string that identifies the part of the file you want to activate. For information on how to create this string, see the documentation for the application that created the object.
+Some applications allow you to activate part of a file. Add an exclamation point (**!**) to the end of the file name and follow it with a string that identifies the part of the file you want to activate. For information on how to create this string, see the documentation for the application that created the object.
 For example, in a drawing application you might have multiple layers to a drawing stored in a file. You could use the following code to activate a layer within a drawing called  `SCHEMA.CAD`:
 
 

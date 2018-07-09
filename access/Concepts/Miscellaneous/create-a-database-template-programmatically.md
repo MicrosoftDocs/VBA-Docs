@@ -13,7 +13,7 @@ The **SaveAsTemplate** method enables you to convert an existing Access database
 
 ## Syntax
 
- _expression_. **SaveAsTemplate**(**_TemplateLocation_**, **_TemplateName_**, **_PreviewImage_**, **_Description_**, **_Category_**, **_Keywords_**, **_Identifier_**, **_Reserved_** )
+ _expression_. **SaveAsTemplate**(**_TemplateLocation_**, **_TemplateName_**, **_PreviewImage_**, **_Description_**, **_Category_**, **_Keywords_**, **_Identifier_**, **_Reserved_**)
 
  _expression_ A variable that represents a **TemplateCreator** object.
 

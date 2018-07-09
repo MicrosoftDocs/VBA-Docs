@@ -39,13 +39,13 @@ An error occurred trying to access the specified file. This error has the follow
     
   - The name can contain up to 255 characters.
     
-  - The name must start with either a letter or number. It can contain any uppercase or lowercase characters (file names aren't case-sensitive) except the following characters: quotation mark (**"** ), apostrophe (**'** ), slash (**/** ), backslash (**\** ), colon (**:** ), and vertical bar (**|** ).
+  - The name must start with either a letter or number. It can contain any uppercase or lowercase characters (file names aren't case-sensitive) except the following characters: quotation mark (**"**), apostrophe (**'**), slash (**/**), backslash (**\**), colon (**:**), and vertical bar (**|**).
     
   - The name can contain spaces.
     
   - The following names are reserved and can't be used for files or directories: CON, AUX, COM1, COM2, COM3, COM4, LPT1, LPT2, LPT3, PRN, and NUL. For example, if you try to name a file PRN in an **Open** statement, the default printer will simply become the destination for **Print #** and **Write #** statements directed to the file number specified in the **Open** statement.
     
-  - On the Macintosh, a file name can include any character except the colon (**:** ), and can contain spaces. Null characters (**Chr(0)**) aren't allowed in any file names.
+  - On the Macintosh, a file name can include any character except the colon (**:**), and can contain spaces. Null characters (**Chr(0)**) aren't allowed in any file names.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

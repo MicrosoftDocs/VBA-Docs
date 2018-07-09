@@ -42,7 +42,7 @@ Setting the  **ResultFromInt** property is similar to setting a cell's **Result*
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- **Cell.ResultFromInt** (**visInches** ) = _newValue_
+ **Cell.ResultFromInt** (**visInches**) = _newValue_
 
  **Cell.ResultFromInt** (65) = _newValue_
 

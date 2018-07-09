@@ -52,7 +52,7 @@ If  **ZoomBehavior** is set to **visZoomVisioExact** , you can set the zoom to a
 
 
 
- **Note**  The default behavior (**visZoomNone** ) is different from the behavior used in versions earlier than Visio 2002. (In Visio 2002, the default was **visZoomVisio** .) To replicate the behavior seen in earlier versions, set this value to **visZoomInPlaceContainer** .
+ **Note**  The default behavior (**visZoomNone**) is different from the behavior used in versions earlier than Visio 2002. (In Visio 2002, the default was **visZoomVisio** .) To replicate the behavior seen in earlier versions, set this value to **visZoomInPlaceContainer** .
 
 
 ## Example

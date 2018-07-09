@@ -30,7 +30,7 @@ Saves a workbook to a server from a local computer, and sets the local workbook 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**| **True** to save the workbook to the server location. The default is **True** .|
-| _Comments_|Optional| **Variant**|Comments for the revision of the workbook being checked in (applies only if  _SaveChanges_ is set to **True** ).|
+| _Comments_|Optional| **Variant**|Comments for the revision of the workbook being checked in (applies only if  _SaveChanges_ is set to **True**).|
 | _MakePublic_|Optional| **Variant**| **True** to allow the user to publish the workbook after it is checked in.|
 | _VersionType_|Optional| **Variant**|Specifies versioning information for the workbook. |
 
@@ -41,7 +41,7 @@ Nothing
 
 ## Remarks
 
-Setting the  _MakePublic_ parameter to **True** submits the workbook for the approval process, which can eventually result in a version of the workbook being published to users with read-only rights to the workbook (applies only if _SaveChanges_ is set to **True** ).
+Setting the  _MakePublic_ parameter to **True** submits the workbook for the approval process, which can eventually result in a version of the workbook being published to users with read-only rights to the workbook (applies only if _SaveChanges_ is set to **True**).
 
 To take advantage of the collaboration features built into Microsoft Excel, documents must be stored on a Microsoft SharePoint Server. 
 

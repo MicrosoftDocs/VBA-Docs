@@ -15,7 +15,7 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeAdded'(**_ByVal shape As [IVSHAPE]_** )
+Private Sub  _expression_ _'ShapeAdded'(**_ByVal shape As [IVSHAPE]_**)
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

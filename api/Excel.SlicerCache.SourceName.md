@@ -30,9 +30,9 @@ Returns the name of the data source the slicer is connected to. Read-only
 
 ## Remarks
 
-For slicers based on data in the workbook (**SlicerCache** . **[SourceType](Excel.SlicerCache.SourceType.md)** = **xlDatabase** ), or slicers based on non-OLAP external data (**SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **False** ), returns the name of the corresponding column in the source data.
+For slicers based on data in the workbook (**SlicerCache** . **[SourceType](Excel.SlicerCache.SourceType.md)** = **xlDatabase**), or slicers based on non-OLAP external data (**SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **False**), returns the name of the corresponding column in the source data.
 
-For OLAP slicers (**SlicerCache** . **OLAP** = **True** ), returns the MDX unique name of the hierarchy the slicer is based on.
+For OLAP slicers (**SlicerCache** . **OLAP** = **True**), returns the MDX unique name of the hierarchy the slicer is based on.
 
 
 ## See also

@@ -43,7 +43,7 @@ The  **SetFilterActions** method provides a way of ignoring selected extensions 
 The  _filterActionStream_ parameter is an array defined in the following way. The number of elements in _filterActionStream_ is a multiple of 3:
 
 
-- The first element contains the beginning mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions** ).
+- The first element contains the beginning mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions**).
     
 - The second element contains the end mouse action (**MouseMove** event extension) of the range (any member of **VisFilterActions** whose value is higher than that of the first element ).
     

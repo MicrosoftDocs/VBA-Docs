@@ -29,7 +29,7 @@ Deletes a  **Layer** object. Can also delete shapes assigned to the deleted laye
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _fDeleteShapes_|Required| **Integer**|1 (**True** ) to delete shapes assigned to the layer; otherwise, 0 (**False** ).|
+| _fDeleteShapes_|Required| **Integer**|1 (**True**) to delete shapes assigned to the layer; otherwise, 0 (**False**).|
 
 ### Return Value
 

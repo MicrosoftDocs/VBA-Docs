@@ -22,7 +22,7 @@ The **#Const** compiler directive syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _constname_|Required;  **Variant** (**String** ). Name of the [constant](vbe-glossary.md); follows standard [variable](vbe-glossary.md) naming conventions.|
+| _constname_|Required;  **Variant** (**String**). Name of the [constant](vbe-glossary.md); follows standard [variable](vbe-glossary.md) naming conventions.|
 | _expression_|Required. Literal, other conditional compiler constant, or any combination that includes any or all arithmetic or logical operators except  **Is**.|
 
  **Remarks**

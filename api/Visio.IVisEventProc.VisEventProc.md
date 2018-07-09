@@ -75,12 +75,12 @@ For many events,  _vMoreInfo_ is a string similar to the command line the applic
 
  Beginning with Visio 2000, **VisEventProc** is defined as a function that returns a value. However, Visio only looks at return values from calls to **VisEventProc** that are passed a query event code. Sink objects that provide **VisEventProc** through **IDispatch** require no change. To modify existing event handlers so that they can handle query events, change the **Sub** procedure to a **Function** procedure and return the appropriate value. (For details about query events, see this reference for event topics prefixed with **Query** .)
 
-If  _nEventCode_ identifies a query event (events prefixed with **Query** ), return **True** from **VisEventProc** to cancel the event, and return **False** to allow it to happen. The value is arbitrary for other events. If you do not return an explicit value, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant** , which Visio interprets as **False** .
+If  _nEventCode_ identifies a query event (events prefixed with **Query**), return **True** from **VisEventProc** to cancel the event, and return **False** to allow it to happen. The value is arbitrary for other events. If you do not return an explicit value, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant** , which Visio interprets as **False** .
 
 
 ## Example
 
-This example shows how to create a class module that implements  **IVisEventProc** to handle events fired by a source object in Visio, for example, the **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case (**Case Else** ). Each **Case** block constructs a string ( _strMessage_) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+This example shows how to create a class module that implements  **IVisEventProc** to handle events fired by a source object in Visio, for example, the **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case (**Case Else**). Each **Case** block constructs a string ( _strMessage_) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
 Copy this sample code into a new class module in VBA or Visual Basic, naming the module  **clsEventSink** . You can then use an event-sink module to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sink module, see the example for the **AddAdvise** method.
 

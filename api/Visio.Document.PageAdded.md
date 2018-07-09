@@ -18,7 +18,7 @@ Occurs after a new page is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'PageAdded'(**_ByVal Page As [IVPAGE]_** )
+Private Sub  _expression_ _'PageAdded'(**_ByVal Page As [IVPAGE]_**)
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
@@ -40,7 +40,7 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 ## Example
 
-This example shows how to create a class module to handle events fired by a source object in Microsoft Visio, for example, the  **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case (**Case Else** ). Each **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+This example shows how to create a class module to handle events fired by a source object in Microsoft Visio, for example, the  **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case (**Case Else**). Each **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
 Copy this sample code into a new class module in VBA or Visual Basic, naming the module clsEventSink. You can then use an event-sink module to create an instance of the clsEventSink class and  **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sink module, refer to the example for the **AddAdvise** method.
 

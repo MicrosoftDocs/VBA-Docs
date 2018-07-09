@@ -32,7 +32,7 @@ When you set this property to  **True** , the workbook has the following charact
     
 - The workbook window won't be visible.
     
-- Any macros in the workbook won't be visible in the  **Macro** dialog box (displayed by pointing to **Macro** on the **Tools** menu and clicking **Macros** ).
+- Any macros in the workbook won't be visible in the  **Macro** dialog box (displayed by pointing to **Macro** on the **Tools** menu and clicking **Macros**).
     
 - Macros in the workbook can still be run from the  **Macro** dialog box even though they're not visible. In addition, macro names don't need to be qualified with the workbook name.
     

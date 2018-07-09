@@ -71,7 +71,7 @@ CREATE INDEX idxCustomerID
 
 ```
 
-Indexed fields can be sorted in one of two ways: ascending (**ASC** ) or descending (**DESC** ). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
+Indexed fields can be sorted in one of two ways: ascending (**ASC**) or descending (**DESC**). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
 
 
 
@@ -216,7 +216,7 @@ CREATE INDEX idxCustomerID
 
 ```
 
-Indexed fields can be sorted in one of two ways: ascending (**ASC** ) or descending (**DESC** ). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
+Indexed fields can be sorted in one of two ways: ascending (**ASC**) or descending (**DESC**). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
 
 
 

@@ -18,7 +18,7 @@ Occurs when a  **DataRecordset** object is added to a **DataRecordsets** collect
 
 ## Syntax
 
-Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDATARECORDSET]_** )
+Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDATARECORDSET]_**)
 
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 

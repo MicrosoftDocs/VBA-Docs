@@ -35,7 +35,7 @@ The  _outputlist_[argument](vbe-glossary.md) has the following syntax and parts:
 |**Spc(**_n_**)**|Optional. Used to insert space characters in the output, where  _n_ is the number of space characters to insert.|
 |**Tab(**_n_**)**|Optional. Used to position the insertion point at an absolute column number where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).|
 | _expression_|Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) to print.|
-| _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon (**;** ) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
+| _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon (**;**) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
 
  **Remarks**
 Multiple expressions can be separated with either a space or a semicolon.

@@ -30,7 +30,7 @@ Prints an envelope without adding the envelope to the active document.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the "EnvelopeAddress" bookmark (a user-defined bookmark) as the recipient's address.|
-| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True** ).|
+| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True**).|
 | _AutoText_|Optional| **Variant**|The name of the AutoText entry that includes a recipient's address.|
 | _OmitReturnAddress_|Optional| **Variant**| **True** to omit the return address.|
 | _ReturnAddress_|Optional| **Variant**|A string that specifies the return address.|

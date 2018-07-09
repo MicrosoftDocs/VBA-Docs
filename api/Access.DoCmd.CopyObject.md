@@ -43,7 +43,7 @@ You can use the CopyObject action to copy the specified database object to a dif
 
 You must include either the destinationdatabase or newname argument or both for this method.
 
-If you leave the sourceobjecttype and sourceobjectname arguments blank (the default constant, **acDefault**, is assumed for sourceobjecttype), Microsoft Access copies the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the In Database Window argument set to Yes (**True** ).
+If you leave the sourceobjecttype and sourceobjectname arguments blank (the default constant, **acDefault**, is assumed for sourceobjecttype), Microsoft Access copies the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the In Database Window argument set to Yes (**True**).
 
 If you specify the sourceobjecttype and sourceobjectname arguments but leave either the newname argument or the destinationdatabase argument blank, you must include the newname or destinationdatabase argument's comma. If you leave a trailing argument blank, don't use a comma following the last argument you specify.
 

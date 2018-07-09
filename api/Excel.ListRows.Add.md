@@ -39,7 +39,7 @@ A [ListRow](Excel.ListRow.md) object that represents the new row.
 
 ## Remarks
 
-If  _Position_ is not specified, a new bottom row is added. If _AlwaysInsert_ is not specified, the cells below the table will be shifted down one row (same as specifying **True** ).
+If  _Position_ is not specified, a new bottom row is added. If _AlwaysInsert_ is not specified, the cells below the table will be shifted down one row (same as specifying **True**).
 
 
 ## Example

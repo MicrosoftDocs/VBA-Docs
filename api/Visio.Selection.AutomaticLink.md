@@ -37,7 +37,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 | _AutoLinkFieldTypes()_|Required| **Long**|An array of  **Long** values from the **[VisAutoLinkFieldTypes](Visio.visautolinkfieldtypes.md)** enumeration, consisting of shape attribute types. At least one position in the array must have a value that corresponds to the values in the same position in the ColumnNames and FieldNames arrays.|
 | _FieldNames()_|Required| **String**|An array of strings that represent shape values.|
 | _AutoLinkBehavior_|Required| **Long**|A combination of one or more constants from the  **VisAutoLinkBehavior** enumeration that specify how the linking will occur. See Remarks for possible values.|
-| _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long** ) that were linked by the method.|
+| _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long**) that were linked by the method.|
 
 ### Return Value
 
