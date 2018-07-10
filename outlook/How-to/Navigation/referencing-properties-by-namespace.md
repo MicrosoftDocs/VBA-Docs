@@ -98,6 +98,7 @@ The following is an example that uses this namespace:
 Escaping rules apply to referencing named properties in the **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.
     
 |**Character in Property Reference**| **Escape String**|
+|-----------------------------------|------------------|
 |Space character|%20|
 |Double quote|%22|
 |Single quote|%27|

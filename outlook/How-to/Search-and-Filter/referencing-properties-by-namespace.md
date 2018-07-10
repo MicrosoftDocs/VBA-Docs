@@ -96,13 +96,14 @@ The following is an example that uses this namespace:
     
 Escaping rules apply to referencing named properties in the **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.  
 
-| **Character in Property Reference**| **Escape String**|
+|**Character in Property Reference**|**Escape String**|
+|-----------------------------------|------------------|
 |Space character|%20|
 |Double quote|%22|
 |Single quote|%27|
 |Percent character|%25|
 
-The following is an example of how you specify and get the value of a named property, **Mom's "Gift"**, defined in the MAPI string namespace, by using the ** [PropertyAccessor.GetProperty](../../../api/Outlook.PropertyAccessor.GetProperty.md)** method:
+The following is an example of how you specify and get the value of a named property, **Mom's "Gift"**, defined in the MAPI string namespace, by using the **[PropertyAccessor.GetProperty](../../../api/Outlook.PropertyAccessor.GetProperty.md)** method:
 
 ```vb
   PropertyAccessor.GetProperty("http://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/Mom%27s%20%22Gift%22")
