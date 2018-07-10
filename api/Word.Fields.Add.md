@@ -41,7 +41,7 @@ Field
 
 ## Remarks
 
-You cannot insert some fields (such as  **wdFieldOCX** and **wdFieldFormCheckBox** ) by using the **Add** method of the **Fields** collection. Instead, you must use specific methods such as the **AddOLEControl** method and the **Add** method for the **FormFields** collection.
+You cannot insert some fields (such as  **wdFieldOCX** and **wdFieldFormCheckBox**) by using the **Add** method of the **Fields** collection. Instead, you must use specific methods such as the **AddOLEControl** method and the **Add** method for the **FormFields** collection.
 
 
 ## Example

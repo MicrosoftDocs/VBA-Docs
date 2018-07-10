@@ -45,7 +45,7 @@ myRange.WholeStory
 myRange.Font.Name = "Arial"
 ```
 
-This example expands  _myRange_ to include the entire comments story ( **wdCommentsStory** ) and then copies the comments into a new document.
+This example expands  _myRange_ to include the entire comments story (**wdCommentsStory**) and then copies the comments into a new document.
 
 
 

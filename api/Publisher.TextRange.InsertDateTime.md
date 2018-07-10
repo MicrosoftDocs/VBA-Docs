@@ -18,7 +18,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the da
 
 ## Syntax
 
- _expression_. **InsertDateTime**( **_Format_**,  **_InsertAsField_**,  **_InsertAsFullWidth_**,  **_Language_**,  **_Calendar_**)
+ _expression_. **InsertDateTime**(**_Format_**,  **_InsertAsField_**,  **_InsertAsFullWidth_**,  **_Language_**,  **_Calendar_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

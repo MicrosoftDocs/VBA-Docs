@@ -25,7 +25,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
 ## Remarks
 
- **IsCachedExchange** returns **True** when **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is a primary Exchange mailbox ( **Store.ExchangeStoreType** is **olExchangePrimaryMailbox** ) and the mailbox is configured to use cached Exchange mode. It returns **False** otherwise. In particular, it returns **False** for an Exchange Public Folder store that is configured to cache Public Folder favorites.
+ **IsCachedExchange** returns **True** when **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is a primary Exchange mailbox (**Store.ExchangeStoreType** is **olExchangePrimaryMailbox**) and the mailbox is configured to use cached Exchange mode. It returns **False** otherwise. In particular, it returns **False** for an Exchange Public Folder store that is configured to cache Public Folder favorites.
 
 
 ## See also

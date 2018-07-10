@@ -15,7 +15,7 @@ Zooms to display a rectanglular section, specified by the parameters, of the dra
 
 ## Syntax
 
- _expression_. **ZoomToRect**( **_Left_**,  **_Top_**,  **_Right_**,  **_Bottom_**)
+ _expression_. **ZoomToRect**(**_Left_**,  **_Top_**,  **_Right_**,  **_Bottom_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

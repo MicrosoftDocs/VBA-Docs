@@ -61,7 +61,7 @@ Double
     
 For a symmetrical distribution of a group of numbers, these three measures of central tendency are all the same. For a skewed distribution of a group of numbers, they can be different.
 
- **Tip** When averaging cells, keep in mind the difference between empty cells and those containing the value zero, especially if you have cleared the **Zero values** check box on the **View** tab ( **Options** command, **Tools** menu). Empty cells are not counted, but zero values are.
+ **Tip** When averaging cells, keep in mind the difference between empty cells and those containing the value zero, especially if you have cleared the **Zero values** check box on the **View** tab (**Options** command, **Tools** menu). Empty cells are not counted, but zero values are.
 
 
 ## See also

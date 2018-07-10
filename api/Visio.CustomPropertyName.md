@@ -15,7 +15,7 @@ Gets the name of the shape data item (custom property) at the specified index po
 
 ## Syntax
 
- _expression_. **CustomPropertyName**( **_ShapeIndex_**,  **_PropertyIndex_**)
+ _expression_. **CustomPropertyName**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

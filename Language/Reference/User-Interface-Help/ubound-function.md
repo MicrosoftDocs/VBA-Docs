@@ -22,7 +22,7 @@ The  **UBound** function syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _arrayname_|Required. Name of the array [variable](vbe-glossary.md); follows standard variable naming conventions.|
-| _dimension_|Optional;  **Variant** ( **Long** ). Whole number indicating which dimension's upper bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
+| _dimension_|Optional;  **Variant** (**Long**). Whole number indicating which dimension's upper bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
 
  **Remarks**
 The  **UBound** function is used with the **LBound** function to determine the size of an array. Use the **LBound** function to find the lower limit of an array dimension.

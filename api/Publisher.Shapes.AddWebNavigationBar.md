@@ -18,7 +18,7 @@ Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a
 
 ## Syntax
 
- _expression_. **AddWebNavigationBar**( **_Name_**,  **_Left_**,  **_Top_**,  **_Width_**)
+ _expression_. **AddWebNavigationBar**(**_Name_**,  **_Left_**,  **_Top_**,  **_Width_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

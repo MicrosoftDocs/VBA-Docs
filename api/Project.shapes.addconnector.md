@@ -42,7 +42,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
 ## Remarks
 
 
- **Note**  In Project, the methods to attach the beginning and end of a connector to other shapes in the report ( **ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the[ConnectorFormat](Project.shape.connectorformat.md) property.
+ **Note**  In Project, the methods to attach the beginning and end of a connector to other shapes in the report (**ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the[ConnectorFormat](Project.shape.connectorformat.md) property.
 
 
 ## Example

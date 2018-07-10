@@ -44,7 +44,7 @@ The index number represents the position of the file converter in the  **FileCon
 MsgBox FileConverters(1).FormatName
 ```
 
-File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box ( **Tools** menu).
+File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box (**Tools** menu).
 
 
 ## See also

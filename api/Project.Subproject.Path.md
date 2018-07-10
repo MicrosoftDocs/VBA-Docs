@@ -22,6 +22,6 @@ Gets or sets the path to the source project. Read/write  **String**.
 
 ## Remarks
 
-The  **Path** property ( **Subproject** object) can be set only if the **[LinkToSource](Project.Subproject.LinkToSource.md)** property for the subproject has been set to **True**.
+The  **Path** property (**Subproject** object) can be set only if the **[LinkToSource](Project.Subproject.LinkToSource.md)** property for the subproject has been set to **True**.
 
 

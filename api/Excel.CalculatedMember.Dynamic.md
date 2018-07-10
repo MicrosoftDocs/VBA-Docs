@@ -36,7 +36,7 @@ The value of this property corresponds to the setting of the  **Recalculate set 
 
 
 
-This property along with the  **[DisplayFolder](Excel.CalculatedMember.DisplayFolder.md)** and **[HierarchizeDistinct](Excel.CalculatedMember.HierarchizeDistinct.md)** properties can only be read for named sets (which are represented by **[CalculatedMember](Excel.CalculatedMember.md)** objects where the **[Type](Excel.CalculatedMember.Type.md)** property equals **xlCalculatedSet** ). These properties for cannot be read for calculated members or measures (which are represented by **CalculatedMember** objects where the **Type** property equals **xlCalculatedMember** ). If you attempt to read these properties for calculated members or measures, a run-time error is raised.
+This property along with the  **[DisplayFolder](Excel.CalculatedMember.DisplayFolder.md)** and **[HierarchizeDistinct](Excel.CalculatedMember.HierarchizeDistinct.md)** properties can only be read for named sets (which are represented by **[CalculatedMember](Excel.CalculatedMember.md)** objects where the **[Type](Excel.CalculatedMember.Type.md)** property equals **xlCalculatedSet**). These properties for cannot be read for calculated members or measures (which are represented by **CalculatedMember** objects where the **Type** property equals **xlCalculatedMember**). If you attempt to read these properties for calculated members or measures, a run-time error is raised.
 
 
 ## See also

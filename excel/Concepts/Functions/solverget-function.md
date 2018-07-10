@@ -17,7 +17,7 @@ Returns information about current settings for Solver. The settings are specifie
  **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
 
 
- **SolverGet**( **_TypeNum_**,  **_SheetName_**)
+ **SolverGet**(**_TypeNum_**,  **_SheetName_**)
 
  **TypeNum** Required **Integer**. A number specifying the type of information you want. The following settings are specified in the  **Solver Parameters** dialog box.
 

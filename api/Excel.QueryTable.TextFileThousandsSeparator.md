@@ -25,7 +25,7 @@ Returns or sets the thousands separator character thatMicrosoft Excel uses when 
 
 ## Remarks
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryTable](Excel.QueryTable.md)** property set to **xlTextImport** ), especially when the file contains decimal and thousands separators that are different from those used on the computer, due to a different language setting being used.
+Use this property only when your query table is based on data from a text file (with the  **[QueryTable](Excel.QueryTable.md)** property set to **xlTextImport**), especially when the file contains decimal and thousands separators that are different from those used on the computer, due to a different language setting being used.
 
 The following table shows the results when you import text into Microsoft Excel using various separators. Numeric results are displayed in the rightmost column.
 

@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether page tabs are visible in Microsoft V
 
 ## Remarks
 
-The default is for the page tabs not to be visible ( **False**).
+The default is for the page tabs not to be visible (**False**).
 
 
 ## Example

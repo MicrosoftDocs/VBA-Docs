@@ -46,9 +46,9 @@ The  _fExistsLocally_ argument specifies the scope of the search.
 
 
 
-- If  _fExistsLocally_ is non-zero ( **True** ), the **CellExistsU** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExistsU** property value is **False** .
+- If  _fExistsLocally_ is non-zero (**True**), the **CellExistsU** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExistsU** property value is **False** .
     
-- If  _fExistsLocally_ is zero ( **False** ), the **CellExistsU** property value is **True** if the object either contains or inherits the cell.
+- If  _fExistsLocally_ is zero (**False**), the **CellExistsU** property value is **True** if the object either contains or inherits the cell.
     
 
 

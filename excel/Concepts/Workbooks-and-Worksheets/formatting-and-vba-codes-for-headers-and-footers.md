@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Formatting and VBA Codes for Headers and Footers
 
-The following special formatting and Visual Basic for Applications (VBA) codes can be included as a part of the header and footer properties ( **[LeftHeader](../../../api/Excel.Page.LeftHeader.md)**,  **[CenterHeader](../../../api/Excel.Page.CenterHeader.md)**,  **[RightHeader](../../../api/Excel.PageSetup.RightHeader.md)**,  **[LeftFooter](../../../api/Excel.Page.LeftFooter.md)**,  **[CenterFooter](../../../api/Excel.Page.CenterFooter.md)**, and  **[RightFooter](../../../api/Excel.Page.RightFooter.md)**).
+The following special formatting and Visual Basic for Applications (VBA) codes can be included as a part of the header and footer properties (**[LeftHeader](../../../api/Excel.Page.LeftHeader.md)**,  **[CenterHeader](../../../api/Excel.Page.CenterHeader.md)**,  **[RightHeader](../../../api/Excel.PageSetup.RightHeader.md)**,  **[LeftFooter](../../../api/Excel.Page.LeftFooter.md)**,  **[CenterFooter](../../../api/Excel.Page.CenterFooter.md)**, and  **[RightFooter](../../../api/Excel.Page.RightFooter.md)**).
 
 
 

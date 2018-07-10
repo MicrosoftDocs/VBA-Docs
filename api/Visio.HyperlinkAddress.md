@@ -15,7 +15,7 @@ Gets the address of the specified hyperlink associated with the specified shape 
 
 ## Syntax
 
- _expression_. **HyperlinkAddress**( **_ShapeIndex_**,  **_HyperlinkIndex_**)
+ _expression_. **HyperlinkAddress**(**_ShapeIndex_**,  **_HyperlinkIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

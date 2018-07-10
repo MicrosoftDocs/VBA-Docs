@@ -18,35 +18,30 @@ Returns the arctangent, or inverse tangent, of the specified x- and y-coordinate
 
 ## Syntax
 
- _expression_. `Atan2`( `_Arg1_` , `_Arg2_` )
+_expression_. `Atan2`(`Arg1`, `Arg2`)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The x-coordinate of the point.|
 | _Arg2_|Required| **Double**|The y-coordinate of the point.|
 
-### Return Value
+### Return value
 
 Double
 
 
 ## Remarks
 
-
-
-
 - A positive result represents a counterclockwise angle from the x-axis; a negative result represents a clockwise angle.
     
 - The following conditions apply:
     
-      - Where x > 0 ATAN2(x,y) = ATAN(y/x)
+  - Where x > 0 ATAN2(x,y) = ATAN(y/x)
     
   - Where y >= 0, x < 0 ATAN2(x,y) = ATAN(y/x)+PI()
     
@@ -63,6 +58,5 @@ Double
 
 ## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

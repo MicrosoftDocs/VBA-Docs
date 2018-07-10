@@ -42,7 +42,7 @@ Use the  **Result** property to set the value of an unguarded cell. If the cell'
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- _retVal_ = **Cell.Result** ( **visInches** )
+ _retVal_ = **Cell.Result** (**visInches**)
 
  _retVal_ = **Cell.Result** (65)
 

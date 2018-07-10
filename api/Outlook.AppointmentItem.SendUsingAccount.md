@@ -25,7 +25,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **AppointmentItem** when the **[Send](Outlook.TaskItem.Send(method).md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the account specified for the **AppointmentItem** no longer exists.
+The  **SendUsingAccount** property can be used to specify the account that should be used to send the **AppointmentItem** when the **[Send](Outlook.TaskItem.Send(method).md)** method is called. This property returns **Null** (**Nothing** in Visual Basic) if the account specified for the **AppointmentItem** no longer exists.
 
 
 ## See also

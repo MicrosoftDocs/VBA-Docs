@@ -15,7 +15,7 @@ Gets the value of the shape data item (custom property) at the specified index p
 
 ## Syntax
 
- _expression_. **CustomPropertyValue**( **_ShapeIndex_**,  **_PropertyIndex_**)
+ _expression_. **CustomPropertyValue**(**_ShapeIndex_**,  **_PropertyIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

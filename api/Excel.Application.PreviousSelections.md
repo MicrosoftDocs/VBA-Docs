@@ -33,7 +33,7 @@ Returns an array of the last four ranges or names selected. Each element in the 
 
 ## Remarks
 
-Each time you go to a range or cell by using the  **Name** box or the **Go To** command ( **Edit** menu), or each time a macro calls the **[Goto](Excel.Application.Goto.md)** method, the previous range is added to this array as element number 1, and the other items in the array are moved down.
+Each time you go to a range or cell by using the  **Name** box or the **Go To** command (**Edit** menu), or each time a macro calls the **[Goto](Excel.Application.Goto.md)** method, the previous range is added to this array as element number 1, and the other items in the array are moved down.
 
 
 ## Example

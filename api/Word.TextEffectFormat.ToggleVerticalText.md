@@ -32,7 +32,7 @@ The  **Flip** method and **Rotation** property of the **Shape** object and the *
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to the active document and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1** ) to vertical text flow.
+This example adds WordArt that contains the text "Test" to the active document and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
 
 
 ```vb

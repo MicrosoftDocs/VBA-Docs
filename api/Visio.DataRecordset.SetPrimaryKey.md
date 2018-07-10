@@ -61,7 +61,7 @@ You can use the  **[GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** metho
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **SetPrimaryKey** method to specify the primary key setting for a data recordset as well as the name of the primary key column. The macro finds the most recently created data recordset associated with the document, specifies the primary key setting ( **visKeySingle** , to indicate a single-column primary key), and sets the name of the primary key column.
+This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **SetPrimaryKey** method to specify the primary key setting for a data recordset as well as the name of the primary key column. The macro finds the most recently created data recordset associated with the document, specifies the primary key setting (**visKeySingle** , to indicate a single-column primary key), and sets the name of the primary key column.
 
 Before running this macro, create at least one data recordset in the current document, and replace the variable  _columnName_ in the code with the name of the column in the data recordset that you want to specify as the primary key column.
 

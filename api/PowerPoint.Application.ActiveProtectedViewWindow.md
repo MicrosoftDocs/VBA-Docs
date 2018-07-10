@@ -30,7 +30,7 @@ Returns a  **[ProtectedViewWindow](PowerPoint.ProtectedViewWindow.md)** object t
 
 ## Example
 
-The following example displays the name ( **Caption** property) of the active **Protected View** window.
+The following example displays the name (**Caption** property) of the active **Protected View** window.
 
 
 ```vb

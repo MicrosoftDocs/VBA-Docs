@@ -18,7 +18,7 @@ Represents a column in a table.
 
 ## Remarks
 
- The **ListColumn** object is a member of the **[ListColumns](Excel.ListColumns.md)** collection. The **ListColumns** collection contains all the columns in a table ( **[ListObject](Excel.ListObject.md)** object).
+ The **ListColumn** object is a member of the **[ListColumns](Excel.ListColumns.md)** collection. The **ListColumns** collection contains all the columns in a table (**[ListObject](Excel.ListObject.md)** object).
 
 Use the [ListColumns](Excel.ListObject.ListColumns.md) property of the **ListObject** object to return a **[ListColumns](Excel.ListColumns.md)** collection.
 

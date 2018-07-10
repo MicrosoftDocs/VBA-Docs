@@ -35,7 +35,7 @@ The  **End** statement syntax has these forms:
 |**End Property**|Required to end a  **Property Let**, **Property Get**, or **Property Set** procedure.|
 |**End Select**|Required to end a  **Select Case** statement.|
 |**End Sub**|Required to end a  **Sub** statement.|
-|**End Type**|Required to end a [user-defined type](vbe-glossary.md) definition ( **Type** statement).|
+|**End Type**|Required to end a [user-defined type](vbe-glossary.md) definition (**Type** statement).|
 |**End With**|Required to end a  **With** statement.|
 
  **Remarks**

@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents a list of possible values for the 
 
 ## Remarks
 
-For controls that do not support a drop-down list, the value of this property is  **Null** ( **Nothing** for Visual Basic).
+For controls that do not support a drop-down list, the value of this property is  **Null** (**Nothing** for Visual Basic).
 
 
 ## See also

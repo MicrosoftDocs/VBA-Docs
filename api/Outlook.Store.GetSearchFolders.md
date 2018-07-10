@@ -34,7 +34,7 @@ A  **Folders** collection object that represents all the search folders for the 
 
  **GetSearchFolders** returns a **Folders** collection object with **[Folders.Count](Outlook.Folders.Count.md)** equal zero (0) if no search folders have been defined for the **Store** .
 
-For a  **Folders** collection object that represents a collection of search folders, **[Folders.Parent](Outlook.Folders.Parent.md)** returns the same object as **[Store.GetRootFolder](Outlook.Store.GetRootFolder.md)** . **[Folder.Folders](Outlook.Folder.Folders.md)** returns **Null** ( **Nothing** in Visual Basic).
+For a  **Folders** collection object that represents a collection of search folders, **[Folders.Parent](Outlook.Folders.Parent.md)** returns the same object as **[Store.GetRootFolder](Outlook.Store.GetRootFolder.md)** . **[Folder.Folders](Outlook.Folder.Folders.md)** returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Example

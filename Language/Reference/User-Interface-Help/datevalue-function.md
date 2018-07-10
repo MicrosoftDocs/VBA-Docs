@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ).
+Returns a  **Variant** (**Date**).
  **Syntax**
  **DateValue(**_date_**)**
 The required  _date_[argument](vbe-glossary.md) is normally a[string expression](vbe-glossary.md) representing a date from January 1, 100 through December 31, 9999. However, _date_ can also be any[expression](vbe-glossary.md) that can represent a date, a time, or both a date and time, in that range.

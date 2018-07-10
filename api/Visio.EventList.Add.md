@@ -47,7 +47,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
  **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True** .
 
-The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** ( **visActCodeRunAddon** ), **Target** , and **TargetArgs** properties.
+The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** (**visActCodeRunAddon**), **Target** , and **TargetArgs** properties.
 
 Event codes are declared by the Visio type library and have the prefix  **visEvt** . Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see[Event Codes](../visio/Concepts/event-codesvisio.md).
 

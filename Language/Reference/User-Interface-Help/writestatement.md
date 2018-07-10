@@ -44,7 +44,7 @@ When  **Write #** is used to write data to a file, several universal assumptions
 - For  **Error** data, the output appears as `#ERROR errorcode#`. The  **Error** keyword is not translated, regardless of locale.
     
 
-Unlike the  **Print #** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed ( **Chr(** 13 **)** + **Chr(** 10 **)** ), after it has written the final character in _outputlist_ to the file.
+Unlike the  **Print #** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**), after it has written the final character in _outputlist_ to the file.
 
  **Note**  You should not write strings that contain embedded quotation marks, for example, `"1,2""X"` for use with the **Input #** statement: **Input #** parses this string as two complete and separate strings.
 

@@ -28,7 +28,7 @@ Set objLine = ActiveDocument.ActiveWindow _
  .Panes(1).Pages(1).Rectangles(1).Lines.Item(1)
 ```
 
-Use the  **LineType** property to determine whether the specified line is a text line ( **wdTextLine** ) or a table row ( **wdTableRow** ). Then use the **Range** property to access the contents and formatting for the line. The following example creates a reference to the table if the specified line type is **wdTableRow** .
+Use the  **LineType** property to determine whether the specified line is a text line (**wdTextLine**) or a table row (**wdTableRow**). Then use the **Range** property to access the contents and formatting for the line. The following example creates a reference to the table if the specified line type is **wdTableRow** .
 
 
 

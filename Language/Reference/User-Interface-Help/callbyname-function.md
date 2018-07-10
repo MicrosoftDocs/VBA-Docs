@@ -21,10 +21,10 @@ The  **CallByName** function syntax has these[named arguments](vbe-glossary.md):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_object_**|Required;  **Variant** ( **Object** ). The name of the object on which the function will be executed.|
-|**_procname_**|Required;  **Variant** ( **String** ). A string expression containing the name of a property or method of the object.|
+|**_object_**|Required;  **Variant** (**Object**). The name of the object on which the function will be executed.|
+|**_procname_**|Required;  **Variant** (**String**). A string expression containing the name of a property or method of the object.|
 |**_calltype_**|Required;  **Constant**. A constant of type **vbCallType** representing the type of procedure being called.|
-| _args()_|Optional:  **Variant** ( **Array** ).|
+| _args()_|Optional:  **Variant** (**Array**).|
 
  **Remarks**
 The  **CallByName** function is used to get or set a property, or invoke a method at run time using a string name.

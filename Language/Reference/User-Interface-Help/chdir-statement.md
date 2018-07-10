@@ -34,7 +34,7 @@ ChDrive "D"    ' Make "D" the current drive.
 ```
 
 
-On the Power Macintosh, the default drive always changes to the drive specified in  _path_. Full path specifications begin with the volume name, and relative paths begin with a colon ( **:** ). **ChDir** resolves any aliases specified in the path:
+On the Power Macintosh, the default drive always changes to the drive specified in  _path_. Full path specifications begin with the volume name, and relative paths begin with a colon (**:**). **ChDir** resolves any aliases specified in the path:
 
 
 ```vb

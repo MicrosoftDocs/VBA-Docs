@@ -15,22 +15,22 @@ You customize shortcut menus by using Microsoft Office Fluent user interface (UI
 Because  [CommandBar](../../../api/Office.CommandBar.md) objects have been deprecated since Outlook, shortcut menu events of the [Application](../../../api/Outlook.Application.md) object that relied on the **CommandBar** object are being deprecated as well, and might not work as expected. These events include the following:
 
 
--  **AttachmentContextMenuDisplay** event
+- **AttachmentContextMenuDisplay** event
     
--  **ContextMenuClose** event
+- **ContextMenuClose** event
     
--  **FolderContextMenuDisplay** event
+- **FolderContextMenuDisplay** event
     
--  **ItemContextMenuDisplay** event
+- **ItemContextMenuDisplay** event
     
--  **ShortcutContextMenuDisplay** event
+- **ShortcutContextMenuDisplay** event
     
--  **StoreContextMenuDisplay** event
+- **StoreContextMenuDisplay** event
     
--  **ViewContextMenuDisplay** event
+- **ViewContextMenuDisplay** event
     
 
- To customize shortcut menus, implement the **[IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)** interface in your add-in. Specifically, implement the **[GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md)** method of the **IRibbonExtensibility** interface so that when Office calls the **GetCustomUI** method and specifies **Microsoft.Outlook.Explorer** as the ribbon ID, the method loads the custom shortcut menu that is delimited by the `contextMenus` tag in XML. For a complete listing of ribbon identifiers, see [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md).
+To customize shortcut menus, implement the **[IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)** interface in your add-in. Specifically, implement the **[GetCustomUI](../../../api/Office.IRibbonExtensibility.GetCustomUI.md)** method of the **IRibbonExtensibility** interface so that when Office calls the **GetCustomUI** method and specifies **Microsoft.Outlook.Explorer** as the ribbon ID, the method loads the custom shortcut menu that is delimited by the `contextMenus` tag in XML. For a complete listing of ribbon identifiers, see [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md).
 
 ## Customizable Shortcut Menus
 
@@ -47,7 +47,7 @@ You can use Office Fluent UI extensibility to customize the following types of s
     
 - Persona shortcut menus.
     
-- A shortcut menu for a shortcut in the  **Shortcuts** module.
+- A shortcut menu for a shortcut in the **Shortcuts** module.
     
 - Store shortcut menus.
     
@@ -58,6 +58,5 @@ For more information about customizing shortcut menus, including examples, see  
 
 ## See also
 
-
- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
+- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 

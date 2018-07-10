@@ -20,7 +20,7 @@ Represents a row of data in the  **[Table](Outlook.Table.md)** object.
 
 A  **Table** is composed of rows and columns. It represents a read-only dynamic rowset of data in a **[Folder](Outlook.Folder.md)** or **[Search](Outlook.Search.md)** object. You can regard each row of a **Table** as an item in the folder, and each column as a property of the item. By default, the **Table** contains only a subset of properties for items in the folder. This makes the **Table** an in-memory lightweight rowset that supports fast enumeration and filtering of items in the folder.
 
- If the **Table** object is obtained from **[Folder.GetTable](Outlook.Folder.GetTable.md)**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)** ) to obtain a more restricted set of rows in the **Table**.
+ If the **Table** object is obtained from **[Folder.GetTable](Outlook.Folder.GetTable.md)**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)**) to obtain a more restricted set of rows in the **Table**.
 
  You can use the Table methods: **[FindRow](Outlook.Table.FindRow.md)**, **[FindNextRow](Outlook.Table.FindNextRow.md)**, **[GetNextRow](Outlook.Table.GetNextRow.md)**, and **[MoveToStart](Outlook.Table.MoveToStart.md)** to obtain a specific row in a **Table**.
 

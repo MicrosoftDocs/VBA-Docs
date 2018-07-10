@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Application.ChangeFileOpenDirectory Method (Publisher)
 
-Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box ( **File** menu) is displayed.
+Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box (**File** menu) is displayed.
 
 
 ## Syntax
 
- _expression_. **ChangeFileOpenDirectory**( **_Dir_**)
+ _expression_. **ChangeFileOpenDirectory**(**_Dir_**)
 
  _expression_ A variable that represents an  **Application** object.
 

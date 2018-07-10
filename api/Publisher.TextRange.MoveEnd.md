@@ -18,7 +18,7 @@ Moves the ending character position of a range. This method returns a  **Long** 
 
 ## Syntax
 
- _expression_. **MoveEnd**( **_Unit_**,  **_Size_**)
+ _expression_. **MoveEnd**(**_Unit_**,  **_Size_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

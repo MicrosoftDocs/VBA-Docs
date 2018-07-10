@@ -34,6 +34,6 @@ Use the  **InhibitSelectChange** property to control shape selection and increas
 
 Additionally, Visio attempts to preserve currently selected shapes whenever possible, unless shapes are deselected by the solution.
 
-If a program neglects to turn the  **InhibitSelectChange** property off ( **False** ) after turning it on, the Visio instance will turn it back off when the user performs an operation.
+If a program neglects to turn the  **InhibitSelectChange** property off (**False**) after turning it on, the Visio instance will turn it back off when the user performs an operation.
 
 

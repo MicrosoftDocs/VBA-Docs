@@ -57,9 +57,5 @@ For more information about customizing shortcut menus, including examples, see  
 
 ## See also
 
-
-#### Concepts
-
-
- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
+- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 

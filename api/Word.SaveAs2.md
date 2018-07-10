@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveAs2 Method (Word)
 
-Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the  **Save As** dialog box ( **File** tab).
+Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the  **Save As** dialog box (**File** tab).
 
 
 ## Syntax

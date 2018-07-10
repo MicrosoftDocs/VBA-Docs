@@ -25,7 +25,7 @@ Returns a  **[Window](Excel.Window.md)** object that represents the active windo
 
 ## Example
 
-This example displays the name ( **Caption** property) of the active window.
+This example displays the name (**Caption** property) of the active window.
 
 
 ```vb

@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 The  **Permission** property can be one or a combination of **MsoPermission** constants.
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Permission** property returns the set of user permissions determined by the specified **UserPermission** object. While some permissions granted through the user interface (such as **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
+The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Permission** property returns the set of user permissions determined by the specified **UserPermission** object. While some permissions granted through the user interface (such as **msoPermissionPrint**) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
 
 
 - The  **msoPermissionView** or **msoPermissionRead** option corresponds to the **Read** option in the user interface.

@@ -52,7 +52,7 @@ Following is a list of possible connections.
     
 -  **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created?one from the BeginX or EndX cell to the guide's Angle cell, and one from the BeginY or EndY cell to the guide's Angle cell.
     
--  **The pin of a 2-D shape (creates dynamic glue):** The shape being glued from must be routable (ObjType includes **visLOFlagsRoutable** ) or have a dynamic glue type (GlueType includes **visGlueTypeWalking** ), and does not prohibit dynamic glue (GlueType does not include **visGlueTypeNoWalking** ). Gluing to PinX creates dynamic glue with a horizontal walking preference and gluing to PinY creates dynamic glue with a vertical walking preference.
+-  **The pin of a 2-D shape (creates dynamic glue):** The shape being glued from must be routable (ObjType includes **visLOFlagsRoutable**) or have a dynamic glue type (GlueType includes **visGlueTypeWalking**), and does not prohibit dynamic glue (GlueType does not include **visGlueTypeNoWalking**). Gluing to PinX creates dynamic glue with a horizontal walking preference and gluing to PinY creates dynamic glue with a vertical walking preference.
     
 -  **Any cell of a vertex row in a Geometry section:** A connection point is created that is glued to. Either the begin or end cell can be designated as the cell to glue from. The **GlueTo** method establishes new formulas in both the X and Y cells of the connection row.
     

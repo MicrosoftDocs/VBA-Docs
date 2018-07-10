@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Setting the  **Address** property for a **Hyperlink** object is equivalent to entering information in the **Address** box in the **Hyperlinks** dialog box ( **Insert** menu), or setting the result of the Address cell in the shape's Hyperlink. _name_ row in the ShapeSheet window.
+Setting the  **Address** property for a **Hyperlink** object is equivalent to entering information in the **Address** box in the **Hyperlinks** dialog box (**Insert** menu), or setting the result of the Address cell in the shape's Hyperlink. _name_ row in the ShapeSheet window.
 
 The  **Address** property value can be a DOS, UNC, or URL path, for example, _"driveletter"_ :\ _"foldername"_ \ _"drawingname"_ , \\ _"servername"_ \ _"foldername"_ \ _"drawingname"_ , or http:// _address_ , respectively.
 

@@ -30,7 +30,7 @@ Returns global Project settings in a single XML string. You can obtain settings 
 Following is the format of the the XML string returned by  **GetProjectServerSettingsEx** method.
 
 
-```XML
+```xml
 <ProjectServerSettingsReturn> 
    <ProjectIDInProjectServer>self explanatory</ProjectIDInProjectServer> 
    <AdminDefaultTrackingMethod>see explanation below</AdminDefaultTrackingMethod> 
@@ -49,7 +49,7 @@ Following is the format of the the XML string returned by  **GetProjectServerSet
 
  **ProjectIDInProjectServer -** The class identifier of the active project.
 
- **AdminDefaultTrackingMethod -** Default tracking method for task status. You can see this on Microsoft Project Web Access by going to **Server Settings**->( **Time and task management section**)  **Task Settings and Display**-> **Tracking Method** property. It can be one of the following:
+ **AdminDefaultTrackingMethod -** Default tracking method for task status. You can see this on Microsoft Project Web Access by going to **Server Settings**->(**Time and task management section**)  **Task Settings and Display**-> **Tracking Method** property. It can be one of the following:
 
 
 - 1 = Hours of work done per day. Resources report their hours worked on each task per day.)

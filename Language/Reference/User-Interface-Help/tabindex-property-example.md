@@ -30,7 +30,7 @@ To use this example, copy this sample code to the Declarations portion of a form
     
 - A  **ScrollBar** in the **Frame** named ScrollBar1.
     
-- A  **CommandButton** (not in the **Frame** ) named CommandButton3.
+- A  **CommandButton** (not in the **Frame**) named CommandButton3.
     
 
 

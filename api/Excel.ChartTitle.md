@@ -18,17 +18,17 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **ChartTitle** property to return the **ChartTitle** object.
+Use the **ChartTitle** property to return the **ChartTitle** object.
 
-The  **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Chart.HasTitle.md)** property for the chart is **True**.
+The **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Chart.HasTitle.md)** property for the chart is **True**.
 
 
 ## Example
 
- The following example adds a title to embedded chart one on the worksheet named "Sheet1."
+The following example adds a title to embedded chart one on the worksheet named "Sheet1."
 
 
-```
+```vb
 With Worksheets("sheet1").ChartObjects(1).Chart 
  .HasTitle = True 
  .ChartTitle.Text = "February Sales" 
@@ -38,16 +38,12 @@ End With
 
 ## Methods
 
-
-
 |**Name**|
 |:-----|
 |[Delete](Excel.ChartTitle.Delete.md)|
 |[Select](Excel.ChartTitle.Select.md)|
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -77,8 +73,4 @@ End With
 
 ## See also
 
-
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+- [Excel Object Model Reference](overview/excel/object-model.md) 

@@ -49,7 +49,7 @@ FileSystemObject.CopyFile "c:\mydocuments\*\R1???97.xls", "c:\tempfolder"
 
 ```
 
-If  _source_ contains wildcard characters or _destination_ ends with a path separator ( **\** ), it is assumed that _destination_ is an existing folder in which to copy matching files. Otherwise, _destination_ is assumed to be the name of a file to create. In either case, three things can happen when an individual file is copied.
+If  _source_ contains wildcard characters or _destination_ ends with a path separator (**\**), it is assumed that _destination_ is an existing folder in which to copy matching files. Otherwise, _destination_ is assumed to be the name of a file to create. In either case, three things can happen when an individual file is copied.
 
 
 - If  _destination_ does not exist, _source_ gets copied. This is the usual case.

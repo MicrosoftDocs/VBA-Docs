@@ -18,7 +18,7 @@ Sets the name of the font script to use in a text range.
 
 ## Syntax
 
- _expression_. **SetScriptName**( **_Script_**,  **_FontName_**)
+ _expression_. **SetScriptName**(**_Script_**,  **_FontName_**)
 
  _expression_ A variable that represents a  **Font** object.
 

@@ -25,7 +25,7 @@ Returns or sets the name of the application to use to edit pictures. Read/write 
 
 ## Remarks
 
-You must use the exact wording displayed in the Picture editor box on the  **Edit** tab of the **Options** dialog box ( **Tools** menu). Otherwise, the default setting "Microsoft Word" is used.
+You must use the exact wording displayed in the Picture editor box on the  **Edit** tab of the **Options** dialog box (**Tools** menu). Otherwise, the default setting "Microsoft Word" is used.
 
 If the name of your graphics application doesn't appear in the list, contact the manufacturer of the graphics application for instructions.
 

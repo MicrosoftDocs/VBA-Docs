@@ -57,7 +57,7 @@ Passing integers (master indices) or strings (master names) to  **DropMany** is 
     
 - If  _ObjectsToInstance(i)_ is the string _s_ (or a reference to the string _s_ ), an instance of the **Master** object with name _s_ in the document stencil of the target object's document is made; _s_ can equal either the **Master** object's **UniqueID** or **Name** property. The EventDrop cell in the Events section of the new shape is not triggered. Use the **Drop** method instead if you want the EventDrop cell to be triggered.
     
-- For  _vlb_ < _i_ <= _vub_ , if _ObjectsToInstance(i)_ is empty ( **Nothing** or uninitialized in Microsoft Visual Basic), entry _i_ will cause _ObjectsToInstance(j)_ to be instanced again, where _j_ is the largest value < _i_ such that _ObjectsToInstance(j)_ isn't empty. If you want to make _n_ instances of the same thing, only _ObjectsToInstance(vlb)_ needs to be provided.
+- For  _vlb_ < _i_ <= _vub_ , if _ObjectsToInstance(i)_ is empty (**Nothing** or uninitialized in Microsoft Visual Basic), entry _i_ will cause _ObjectsToInstance(j)_ to be instanced again, where _j_ is the largest value < _i_ such that _ObjectsToInstance(j)_ isn't empty. If you want to make _n_ instances of the same thing, only _ObjectsToInstance(vlb)_ needs to be provided.
     
 
 
@@ -71,9 +71,9 @@ The value returned by the  **DropMany** method is the number of _xy_ entries in 
 
 Presuming all  _m_ _xy_ entries are processed correctly, the number of new **Shape** objects produced by the **DropMany** method is usually equal to _m_ . In rare cases (for example, if a **Selection** object gets instanced), more than _m_**Shape** objects may be produced. The caller can determine the number of produced **Shape** objects by comparing the number of shapes in the target object before and after the **DropMany** method is executed. The caller can assert the new **Shape** objects are those with the highest indices in the target object's **Shapes** collection.
 
-If the  **DropMany** method returns zero (0), _IDArray_ returns **null** ( **Nothing** ). Otherwise, it returns a one-dimensional array of _m_ integers indexed from 0 to _m_ - 1. _IDArray()_ is an out parameter that is allocated by the **DropMany** method and ownership is passed to the program that called the **DropMany** method. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.)
+If the  **DropMany** method returns zero (0), _IDArray_ returns **null** (**Nothing**). Otherwise, it returns a one-dimensional array of _m_ integers indexed from 0 to _m_ - 1. _IDArray()_ is an out parameter that is allocated by the **DropMany** method and ownership is passed to the program that called the **DropMany** method. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.)
 
-If  _IDArray_ returns non- **null** (not **Nothing** ), _IDArray_( _i_ - 1), 1 <= _i_ <= _intReturned_ , returns the ID of the **Shape** object produced by the _i_ 'th _xyArray()_ entry, provided the _i_ 'th _xyArray()_ entry produced exactly one **Shape** object. If the _i_ 'th _xyArray()_ entry produced multiple **Shape** objects, -1 is returned in the entry. All entries _i_ , _intReturned_ <= _i_ < _m_ , return -1.
+If  _IDArray_ returns non- **null** (not **Nothing**), _IDArray_( _i_ - 1), 1 <= _i_ <= _intReturned_ , returns the ID of the **Shape** object produced by the _i_ 'th _xyArray()_ entry, provided the _i_ 'th _xyArray()_ entry produced exactly one **Shape** object. If the _i_ 'th _xyArray()_ entry produced multiple **Shape** objects, -1 is returned in the entry. All entries _i_ , _intReturned_ <= _i_ < _m_ , return -1.
 
 
 

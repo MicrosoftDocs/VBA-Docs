@@ -108,7 +108,8 @@ Private Sub Document_ContentControlBeforeDelete( _
  
 End Sub
 ```
-## Additional Resources
 
- [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
+## See also
+
+- [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
 

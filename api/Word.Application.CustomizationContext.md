@@ -25,7 +25,7 @@ Returns or sets a  **[Template](Word.Template.md)** or **[Document](Word.Documen
 
 ## Remarks
 
-Corresponds to the value of the  **Save in** box on the **Commands** tab in the **Customize** dialog box ( **Tools** menu).
+Corresponds to the value of the  **Save in** box on the **Commands** tab in the **Customize** dialog box (**Tools** menu).
 
 
 ## Example

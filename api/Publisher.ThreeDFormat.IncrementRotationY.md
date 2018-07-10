@@ -18,7 +18,7 @@ Changes the rotation of the specified shape around the y-axis (vertical) by the 
 
 ## Syntax
 
- _expression_. **IncrementRotationY**( **_Increment_**)
+ _expression_. **IncrementRotationY**(**_Increment_**)
 
  _expression_ A variable that represents a  **ThreeDFormat** object.
 

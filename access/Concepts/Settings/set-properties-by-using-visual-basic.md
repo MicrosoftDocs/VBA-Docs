@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 You can set most properties from Visual Basic code. How you set a property depends on whether you are setting it for a [Form](../../../api/Access.Form.md), [Report](../../../api/Access.Report.md), [Control](../../../api/Access.Control.md), [ActiveX Data Objects (ADO)](activex-data-objects-ado.md), or [Data Access Objects (DAO)](data-access-objects-dao.md). The following topics outline the steps involved for setting properties of each type of object:
 
-[Set Form, Report, and Control Properties in Visual Basic](set-form-report-and-control-properties-in-visual-basic.md)
+- [Set Form, Report, and Control Properties in Visual Basic](set-form-report-and-control-properties-in-visual-basic.md)
 
-[Set Properties of ActiveX Data Objects in Visual Basic](../ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
+- [Set Properties of ActiveX Data Objects in Visual Basic](../ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
 
-[Set Properties of Data Access Objects in Visual Basic](../Data-Access-Objects/set-properties-of-data-access-objects-in-visual-basic.md)
+- [Set Properties of Data Access Objects in Visual Basic](../Data-Access-Objects/set-properties-of-data-access-objects-in-visual-basic.md)
 

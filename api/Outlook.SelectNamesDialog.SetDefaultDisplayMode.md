@@ -37,7 +37,7 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 This method allows you to display the  **Select Names** dialog box without using a resource file to localize the values for the caption, the **To** label, **Cc** label, and **Bcc** label. You can override the built-in behavior by setting your own values for **[Caption](Outlook.SelectNamesDialog.Caption.md)** , **[ToLabel](Outlook.SelectNamesDialog.ToLabel.md)** , **[CcLabel](Outlook.SelectNamesDialog.CcLabel.md)** , and **[BccLabel](Outlook.SelectNamesDialog.BccLabel.md)** .
 
-You can set additional properties (for example, setting  **[NumberOfRecipientSelectors](Outlook.SelectNamesDialog.NumberOfRecipientSelectors.md)** to **olRecipientSelectors.olToCc** ) after calling **SetDefaultDisplayMode** . The **Select Names** dialog box will observe the subsequent setting.
+You can set additional properties (for example, setting  **[NumberOfRecipientSelectors](Outlook.SelectNamesDialog.NumberOfRecipientSelectors.md)** to **olRecipientSelectors.olToCc**) after calling **SetDefaultDisplayMode** . The **Select Names** dialog box will observe the subsequent setting.
 
 
 ## See also

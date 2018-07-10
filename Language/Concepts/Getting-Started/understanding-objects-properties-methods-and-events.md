@@ -58,7 +58,7 @@ End Sub
 ```
 
 A property is an attribute of an object that defines one of the object's characteristics, such as size, color, or screen location, or an aspect of its behavior, such as whether it is enabled or visible. To change the characteristics of an object, you change the values of its properties.
-To set the value of a property, follow the reference to an object with a period, the property name, an equal sign ( **=** ), and the new property value. For example, the following procedure changes the caption of a Visual Basic form by setting the **Caption** property.
+To set the value of a property, follow the reference to an object with a period, the property name, an equal sign (**=**), and the new property value. For example, the following procedure changes the caption of a Visual Basic form by setting the **Caption** property.
 
 
 

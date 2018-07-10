@@ -17,7 +17,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-|**vbNormal**|0|Normal (default for  **Dir** and **SetAttr** )|
+|**vbNormal**|0|Normal (default for  **Dir** and **SetAttr**)|
 |**vbReadOnly**|1|Read-only|
 |**vbHidden**|2|Hidden|
 |**vbSystem**|4|System file|

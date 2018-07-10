@@ -31,7 +31,7 @@ _expression_ A variable that represents an **Application** object.
 | _Create_|Optional|**Boolean**|**True** if a new filter is created. The new filter is a copy of the filter specified with Name and is given the name specified with NewName. If NewName is empty, the new filter is given the name specified by Name. The default value is **False**.|
 | _OverwriteExisting_|Optional|**Boolean**|**True** if the existing filter is overwritten with a new filter. The default value is **False**.|
 | _Parenthesis_|Optional|**Boolean**|**True** if the criterion established by FieldName, Test, and Value is evaluated as a parenthetical **AND** or **OR** clause (the value specified with Operation) in relation to other criteria, in the manner of (a AND b) OR c.|
-| _NewName_|Optional|**String**| A new name for the filter specified with Name (Create is **False** ) or a name for the new filter (Create is **True** ). If NewName is empty and Create is **False**, the filter specified with Name retains its current name. The default value is **Empty**.|
+| _NewName_|Optional|**String**| A new name for the filter specified with Name (Create is **False**) or a name for the new filter (Create is **True**). If NewName is empty and Create is **False**, the filter specified with Name retains its current name. The default value is **Empty**.|
 | _FieldName_|Optional|**String**|The name of a field to change.|
 | _NewFieldName_|Optional|**String**| A new name for the field specified with FieldName.|
 | _Test_|Required|**String**| The type of comparison made between FieldName and Value that acts as selection criteria for the filter. Can be one of the [comparison strings](#comparison-strings).|
@@ -61,7 +61,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Example
@@ -69,7 +69,7 @@ _expression_ A variable that represents an **Application** object.
 The following example creates a filter (if one does not exist) for tasks with the highest priority, and then applies the filter.
 
 
-``` 
+```vb
 Sub CreateAndApplyHighestPriorityFilter() 
     Dim TaskFilter As Variant  ' Index for For Each loop. 
     Dim Found As Boolean    ' Whether or not the filter exists. 

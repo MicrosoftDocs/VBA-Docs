@@ -18,7 +18,7 @@ Occurs after a document is opened.
 
 ## Syntax
 
-Private Sub  _expression_ _'DocumentOpened'( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  _expression_ _'DocumentOpened'(**_ByVal doc As [IVDOCUMENT]_**)
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

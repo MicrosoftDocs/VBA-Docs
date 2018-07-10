@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value is the same as the current setting of the  **Hidden text** option on the **View** tab in the **Options** dialog box ( **Tools** menu) until this property has been set.
+The default value is the same as the current setting of the  **Hidden text** option on the **View** tab in the **Options** dialog box (**Tools** menu) until this property has been set.
 
  Use the **[Text](Word.Find.Text.md)** property with a **[Range](Word.Range.md)** object to retrieve text from the specified range.
 

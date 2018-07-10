@@ -64,7 +64,7 @@ The following code fragment in C# sets the icons for folders that appear in the 
 
 
 
-```C#
+```cs
 //Get the icons for the solution 
 stdole.StdPicture rootPict = 
  PictureDispConverter.ToIPictureDisp( 
@@ -95,7 +95,7 @@ The following is the definition of the  `PictureDispConverter` class.
 
 
 
-```C#
+```cs
 using System; 
 using System.Drawing; 
 using System.Collections.Generic; 

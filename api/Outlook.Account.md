@@ -34,7 +34,7 @@ The following code samples show the  `DisplayAccountInformation` method of the `
 
 
 
-```C#
+```cs
 using System; 
 using System.Text; 
 using Outlook = Microsoft.Office.Interop.Outlook; 
@@ -105,7 +105,7 @@ namespace OutlookAddIn1
 
 
 
-```VB.net
+```vb
 Imports Outlook = Microsoft.Office.Interop.Outlook 
  
 Namespace OutlookAddIn2 

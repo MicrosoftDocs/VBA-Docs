@@ -45,7 +45,7 @@ If colTextColumns.Count > 1 Then _
 End If
 ```
 
-This example returns the status of the  **Equal column width** option in the **Columns** dialog box ( **Format** menu).
+This example returns the status of the  **Equal column width** option in the **Columns** dialog box (**Format** menu).
 
 
 

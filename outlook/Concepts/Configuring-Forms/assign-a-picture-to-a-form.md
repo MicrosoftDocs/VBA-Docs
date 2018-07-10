@@ -12,7 +12,7 @@ ms.date: 06/08/2017
     
 2. Right-click the page or form region, and then click  **Advanced Properties**. 
     
-3. In the  **Properties** dialog box, click the **Picture** property, and then click the **Load Property** button ( **[...]**) that is next to the  **Apply** box.
+3. In the  **Properties** dialog box, click the **Picture** property, and then click the **Load Property** button (**[...]**) that is next to the  **Apply** box.
     
 4. Find the picture file that you want to use, and then click  **Apply**. 
     

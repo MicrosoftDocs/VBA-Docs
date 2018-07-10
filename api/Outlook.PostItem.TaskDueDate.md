@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False** .
+This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also

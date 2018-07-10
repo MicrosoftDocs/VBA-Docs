@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) containing a repeating character string of the length specified.
+Returns a  **Variant** (**String**) containing a repeating character string of the length specified.
  **Syntax**
- **String** ( **_number_**, **_character_** )
+ **String** (**_number_**, **_character_**)
 The  **String** function syntax has these[named arguments](vbe-glossary.md):
 
 

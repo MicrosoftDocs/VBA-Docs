@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutomaticLength Method (Excel)
 
-Specifies that the first segment of the callout line (the segment attached to the text callout box) be scaled automatically when the callout is moved. Use the  **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to specify that the first segment of the callout line retain the fixed length returned by the **[Length](Excel.CalloutFormat.Length.md)** property whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ).
+Specifies that the first segment of the callout line (the segment attached to the text callout box) be scaled automatically when the callout is moved. Use the  **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to specify that the first segment of the callout line retain the fixed length returned by the **[Length](Excel.CalloutFormat.Length.md)** property whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 
 ## Syntax

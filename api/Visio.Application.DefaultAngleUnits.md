@@ -34,7 +34,7 @@ The  **DefaultAngleUnits** property corresponds to the value shown in the **Angl
 
 The return value contains one of the values of  **[VisUnitCodes](Visio.visunitcodes.md)** , which are declared in the Microsoft Visio type library.
 
-You can specify the value of the  **DefaultAngleUnits** property as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "degrees". If the string is invalid or the unit code is inappropriate (non-angular), an error is generated.
+You can specify the value of the  **DefaultAngleUnits** property as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "degrees". If the string is invalid or the unit code is inappropriate (non-angular), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

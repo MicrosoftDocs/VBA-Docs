@@ -33,7 +33,7 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
 
 ### Return Value
 
-A  **Variant** that represents the value of a property (as specified by _Index_ ) of an item (as specified by the parent **Row** ).
+A  **Variant** that represents the value of a property (as specified by _Index_ ) of an item (as specified by the parent **Row**).
 
 
 ## Remarks

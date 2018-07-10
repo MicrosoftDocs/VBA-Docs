@@ -44,7 +44,7 @@ The  **RightMargin** property corresponds to the **Right** setting in the **Prin
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- **Document.RightMargin** ( **visInches** ) = _newValue_
+ **Document.RightMargin** (**visInches**) = _newValue_
 
  **Document.RightMargin** (65) = _newValue_
 

@@ -12,7 +12,8 @@ Create a custom bibliography style in Word by learning the steps (and XML code) 
 
 The bibliography sources you create are all listed in the following file: \Microsoft\Bibliography\Sources.xml.
 
- **Note**  The \Bibliography\Sources.xml file won't exist until you create your first bibliography source in Word. All bibliography styles are stored in \Microsoft\Bibliography\Style.
+> [!NOTE] 
+> The \Bibliography\Sources.xml file won't exist until you create your first bibliography source in Word. All bibliography styles are stored in \Microsoft\Bibliography\Style.
 
 ## Building a basic bibliography style
 <a name="Biblio_BuildBasicStyle"> </a>
@@ -26,10 +27,7 @@ To create a bibliography style, we will create an XML style sheet; that is, an .
 
 At the top of the file, add the following code:
 
-
-
-
-```XML
+```xml
 <?xml version="1.0" ?> 
 
 <!--List of the external resources that we are referencing-->
@@ -52,9 +50,7 @@ At the top of the file, add the following code:
 As the comments indicate, Word uses HTML to represent a bibliography or citation within a document. Most of the preceding XML code is just preparation for the more interesting parts of the style. For example, you can give your style a version number to track the changes you make, as shown in the following example.
 
 
-
-
-```XML
+```xml
 <!--Set an optional version number for this style--> 
 
 <xsl:template match="b:version"> 
@@ -70,7 +66,7 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 
 
 
-```XML
+```xml
 <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
 
    <xsl:text>[Your Style Name]</xsl:text>
@@ -78,12 +74,12 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 </xsl:when>
 ```
 
-This section contains the locale name of your style. In the case of our example file, we want our custom bibliography style name, "Simple Book Style," to appear in the  **Style** drop-down list on the **References** tab. To do so, add the following XML code to specify that the style name be in the English locale (Lcid determines the language).
+This section contains the locale name of your style. In the case of our example file, we want our custom bibliography style name, "Simple Book Style," to appear in the **Style** drop-down list on the **References** tab. To do so, add the following XML code to specify that the style name be in the English locale (Lcid determines the language).
 
 
 
 
-```XML
+```xml
 <!--Defines the name of the style in the References dropdown list-->
 <xsl:when test="b:StyleNameLocalized"> 
    <xsl:choose> 
@@ -93,9 +89,9 @@ This section contains the locale name of your style. In the case of our example 
 </xsl:when>
 ```
 
-Your style will now appear under its own name in the  **Bibliography Style** dropdown list-box in the application.
+Your style will now appear under its own name in the **Bibliography Style** dropdown list-box in the application.
 
-Now, examine the style details. Each source type in Word (for example, book, film, article in a periodical, and so forth) has a built-in list of fields that you can use for the bibliography. To see all the fields available for a given source type, on the  **References** tab, choose **Manage Sources**, and then in the  **Source Manager** dialog box, choose **New** to open the **Create Source** dialog box. Then select **Show All Bibliography Fields**.
+Now, examine the style details. Each source type in Word (for example, book, film, article in a periodical, and so forth) has a built-in list of fields that you can use for the bibliography. To see all the fields available for a given source type, on the **References** tab, choose **Manage Sources**, and then in the **Source Manager** dialog box, choose **New** to open the **Create Source** dialog box. Then select **Show All Bibliography Fields**.
 
 A book source type has the following fields available:
 
@@ -132,12 +128,12 @@ A book source type has the following fields available:
     
 - Comments
     
-In the code, you can specify the fields that are important for your bibliography style. Even when  **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
+In the code, you can specify the fields that are important for your bibliography style. Even when **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
 
 
 
 
-```XML
+```xml
 <!--Specifies which fields should appear in the Create Source dialog box when in a collapsed state (The Show All Bibliography Fields check box is cleared)-->
 
 <xsl:template match="b:GetImportantFields[b:SourceType = 'Book']"> 
@@ -178,7 +174,7 @@ The HTML required to do this would be embedded in your style sheet as follows.
 
 
 
-```XML
+```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 
 <xsl:template match="b:Source[b:SourceType = 'Book']"> 
@@ -209,7 +205,7 @@ When you reference a book source in your Word document, Word needs to access thi
 
 
 
-```XML
+```xml
 <!--Defines the output of the entire Bibliography-->
  
 <xsl:template match="b:Bibliography"> 
@@ -233,7 +229,7 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
 
 
 
-```XML
+```xml
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
@@ -297,7 +293,7 @@ To display a corporate author only if appropriate, use the following procedure.
 Let's start by changing the citation. Here is the code for citations from last time.
 
 
-```XML
+```xml
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
@@ -334,7 +330,7 @@ Declare a new variable to help determine whether a corporate author is available
 Verify that the corporate author has been filled in. You can do this by determining if the count of corporate authors is non-zero. If a corporate author exists, display it. If it does not exist, display the normal author.
 
 
-```XML
+```xml
 
 <xsl:text>(</xsl:text> 
 <xsl:choose>
@@ -355,7 +351,7 @@ Now that you've made the change for citations, make the change for the bibliogra
 
 
 
-```XML
+```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 <xsl: template match="b:Source[b:SourceType = 'Book']">
 <!--Label the paragraph as an Office Bibliography paragraph--> 
@@ -376,7 +372,7 @@ Now that you've made the change for citations, make the change for the bibliogra
 Once again, let's start by adding a counting variable.
 
 
-```XML
+```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 <xsl: template match="b:Source[b:SourceType = 'Book']"> 
 <!--Count the number of Corporate Authors (can only be 0 or 1)-->
@@ -391,7 +387,7 @@ Once again, let's start by adding a counting variable.
 Verify that a corporate author exists.
 
 
-```XML
+```xml
 …..
 <xsl:variable name="cCorporateAuthors"> 
 <xsl:value-of select="count(b:Author/b:Author/b:Corporate)" /> 
@@ -418,7 +414,7 @@ Here's the complete final code.
 
 
 
-```XML
+```xml
 <?xml version="1.0" ?> 
 <!--List of the external resources that we are referencing-->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
@@ -525,14 +521,10 @@ Here's the complete final code.
 This article showed how to create a custom bibliography style in Word, first by creating a simple style, and then by using conditional statements to create a more complex style.
 
 
-## Additional resources
-<a name="Biblio_AdditionalResources"> </a>
+## See also
 
-
--  [What's new for Word 2013 developers](../../../api/overview/Word.md)
-    
--  [Office and Office 365 Developer Blog](https://blogs.msdn.com/b/officedevdocs/)
-    
+-  [What's new for Word 2013 developers](../../../api/overview/Word.md)    
+-  [Office and Office 365 Developer Blog](http://blogs.msdn.com/b/officedevdocs/)    
 -  [Word for developers website](https://docs.microsoft.com/en-us/office/client-developer/word/word-home)
     
 

@@ -28,7 +28,7 @@ Returns or sets a  **String** value that represents the filter for a custom form
 The value of this property is a DAV Searching and Locating (DASL) string that represents the current filter for the custom formatting rule. For more information about using DASL to filter items formatted by the formatting rule, see [Filtering Items](../outlook/How-to/Search-and-Filter/filtering-items.md). Setting this property to an empty string applies the custom formatting rule to all items displayed by the view.
 
 
- **Note**  This property returns an empty string for a standard formatting rule (an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **True** ). An error occurs if you attempt to assign a value to this property for a standard formatting rule.
+ **Note**  This property returns an empty string for a standard formatting rule (an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **True**). An error occurs if you attempt to assign a value to this property for a standard formatting rule.
 
 
 ## Example

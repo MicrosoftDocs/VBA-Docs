@@ -22,7 +22,7 @@ Represents a distribution list in a Contacts folder.
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **DistListItem** object that represents a new distribution list.
 
-Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem** ).
+Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem**).
 
 
 ## Example

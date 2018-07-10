@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.CanContinuePreviousList Method (Word)
 
-Returns a  **WdContinue** constant ( **wdContinueDisabled** , **wdResetList** , or **wdContinueList** ) that indicates whether the formatting from the previous list can be continued.
+Returns a  **WdContinue** constant (**wdContinueDisabled** , **wdResetList** , or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
 
 
 ## Syntax

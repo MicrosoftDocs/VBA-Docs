@@ -25,7 +25,7 @@ Returns a  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object that r
 
 ## Example
 
-The following code example displays the name ( **Caption** property) of the active **Protected View** window.
+The following code example displays the name (**Caption** property) of the active **Protected View** window.
 
 
 ```vb

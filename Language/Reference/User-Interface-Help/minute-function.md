@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) specifying a whole number between 0 and 59, inclusive, representing the minute of the hour.
+Returns a  **Variant** (**Integer**) specifying a whole number between 0 and 59, inclusive, representing the minute of the hour.
  **Syntax**
  **Minute(**_time_**)**
 The required  _time_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a time. If  _time_ contains[Null](vbe-glossary.md),  **Null** is returned.

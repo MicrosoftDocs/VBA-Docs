@@ -18,7 +18,7 @@ Replaces the specified picture. Returns  **Nothing**.
 
 ## Syntax
 
- _expression_. **Replace**( **_Pathname_**,  **_InsertAs_**)
+ _expression_. **Replace**(**_Pathname_**,  **_InsertAs_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

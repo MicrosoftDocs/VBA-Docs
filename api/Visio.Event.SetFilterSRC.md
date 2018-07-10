@@ -51,7 +51,7 @@ The number of elements in the array is a multiple of 7:
     
 - The next three elements describe the section, row, and cell of the end cell of the range.
     
-- The last element contains a  **True** or **False** value indicating how to filter events for the cell range ( **True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
+- The last element contains a  **True** or **False** value indicating how to filter events for the cell range (**True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
     
 
 

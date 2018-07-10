@@ -63,7 +63,7 @@ Declare PtrSafe Function GetActiveWindow Lib "user32" () As Long
 ```
 
 To reiterate, you must modify the  **Declare** statement to include the **PtrSafe** qualifier and you must update any variables within the statement that need to hold 64-bit quantities so that the variables use 64-bit data types.
-VBA  **Declare** statement example modified to include the **PtrSafe** keyword and updated to use the proper 64-bit ( **LongPtr** ) data type:
+VBA  **Declare** statement example modified to include the **PtrSafe** keyword and updated to use the proper 64-bit (**LongPtr**) data type:
 
 
 
@@ -115,7 +115,7 @@ The following table summarizes the new VBA language additions and provides an ex
 |**[PtrSafe](../../reference/User-Interface-Help/../../reference/User-Interface-Help/ptrsafe-keyword.md)**|Keyword|Asserts that a  **Declare** statement is targeted for 64-bit systems. Required on 64-bits.|
 |**[LongPtr](../../reference/User-Interface-Help/../../reference/User-Interface-Help/longptr-data-type.md)**|Data type|Type alias that maps to  **Long** on 32-bit systems, or **LongLong** on 64-bit systems.|
 |**[LongLong](../../reference/User-Interface-Help/../../reference/User-Interface-Help/longlong-data-type.md)**|Data type|8 byte data type that is only available on 64bit systems. Numeric type. Integer numbers in the range of -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807. LongLong is a valid declared type only on 64-bit platforms. Additionally,  **LongLong** may not be implicitly converted to a smaller type (for example, you can't assign a **LongLong** to a **Long**.). This is done to prevent inadvertent pointer truncation. Explicit coercions are allowed, so in the example above, you could apply **CLng** to a **LongLong** and assign the result to a **Long**. (Valid on 64-bit platforms only.)|
-|**^**|LongLong type-declaration character|Explicitly declares a literal value as a  **LongLong**. Required to declare a **LongLong** literal that is larger than the maximum **Long** value (otherwise it will get implicitly converted to **double** ).|
+|**^**|LongLong type-declaration character|Explicitly declares a literal value as a  **LongLong**. Required to declare a **LongLong** literal that is larger than the maximum **Long** value (otherwise it will get implicitly converted to **double**).|
 |**[CLngPtr](type-conversion-functions.md)**|type conversion function|Converts a simple expression to a  **LongPtr**.|
 |**[CLngLng](type-conversion-functions.md)**|type conversion function|Converts a simple expression to a  **LongLong** data type. (Valid on 64-bit platforms only.)|
 |**[vbLongLong](vartype-constants.md)**|VarType constant|VarType constant.|

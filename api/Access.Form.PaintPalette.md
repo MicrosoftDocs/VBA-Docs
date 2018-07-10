@@ -27,7 +27,7 @@ You can use the  **PaintPalette** property to specify a palette to be used by a 
 
 You can set the  **PaintPalette** property by using a macro or Visual Basic . The property setting must be a **String** data type containing the palette information.
 
-You can set the  **PaintPalette** property by assigning the value of the **ObjectPalette** property to the **PaintPalette** property in a macro or Visual Basic, by setting the **PaletteSource** property (in which case Microsoft Access automatically sets the **PaintPalette** property to this **PaletteSource** ), or by setting the **PaintPalette** property of one form or report to the **PaintPalette** property of another form or report.
+You can set the  **PaintPalette** property by assigning the value of the **ObjectPalette** property to the **PaintPalette** property in a macro or Visual Basic, by setting the **PaletteSource** property (in which case Microsoft Access automatically sets the **PaintPalette** property to this **PaletteSource**), or by setting the **PaintPalette** property of one form or report to the **PaintPalette** property of another form or report.
 
 For a form, you can set the  **PaintPalette** property in form Design view and Form view.
 

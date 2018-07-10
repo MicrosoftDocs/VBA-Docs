@@ -27,7 +27,7 @@ Returns or sets the ending character position of a range. Read/write  **Long** .
 
  **Range** objects all have a starting position and an ending position. The ending position is the point farthest away from the beginning of the story. If this property is set to a value smaller than the **[Start](Word.Range.Start.md)** property, the **Start** property is set to the same value (that is, the **Start** and **End** property are equal).
 
-This property returns the ending character position relative to the beginning of the story. The main document story ( **wdMainTextStory** ) begins with character position 0 (zero). You can change the size of a selection, range, or bookmark by setting this property.
+This property returns the ending character position relative to the beginning of the story. The main document story (**wdMainTextStory**) begins with character position 0 (zero). You can change the size of a selection, range, or bookmark by setting this property.
 
 
 ## Example

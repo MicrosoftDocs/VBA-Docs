@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
- **False** if document summary information is not printed. Summary information is found in the **Properties** dialog box ( **File** menu).
+ **False** if document summary information is not printed. Summary information is found in the **Properties** dialog box (**File** menu).
 
 
 ## Example
@@ -38,7 +38,7 @@ Options.PrintProperties = True
 ActiveDocument.PrintOut
 ```
 
-This example returns the current status of the  **Document properties** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the  **Document properties** option on the **Print** tab in the **Options** dialog box (**Tools** menu).
 
 
 

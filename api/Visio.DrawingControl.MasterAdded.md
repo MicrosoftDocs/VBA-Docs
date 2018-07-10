@@ -15,7 +15,7 @@ Occurs after a new master is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'MasterAdded'( **_ByVal master As [IVMASTER]_** )
+Private Sub  _expression_ _'MasterAdded'(**_ByVal master As [IVMASTER]_**)
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

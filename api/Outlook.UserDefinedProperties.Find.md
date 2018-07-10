@@ -33,7 +33,7 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
 
 ### Return Value
 
-A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** ( **Nothing** in Visual Basic).
+A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

@@ -25,7 +25,7 @@ Returns the Microsoft Excel control type. Read-only  **[XlFormControl](Excel.XlF
 
 ## Remarks
 
-You cannot use this property with ActiveX controls (the  **[Type](Excel.Shape.Type.md)** property for the **[Shape](Excel.Shape.md)** object must return **msoFormControl** ).
+You cannot use this property with ActiveX controls (the  **[Type](Excel.Shape.Type.md)** property for the **[Shape](Excel.Shape.md)** object must return **msoFormControl**).
 
 
 ## Example

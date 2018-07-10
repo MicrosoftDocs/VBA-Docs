@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.ListGalleries Property (Word)
 
-Returns a  **ListGalleries** collection that represents the three list template galleries ( **Bulleted**,  **Numbered**, and  **Outline Numbered**).
+Returns a  **ListGalleries** collection that represents the three list template galleries (**Bulleted**,  **Numbered**, and  **Outline Numbered**).
 
 
 ## Syntax

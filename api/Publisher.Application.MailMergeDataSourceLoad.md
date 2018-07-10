@@ -18,7 +18,7 @@ Occurs when the data source is loaded for a mail merge.
 
 ## Syntax
 
- _expression_. **MailMergeDataSourceLoad**( **_Doc_**)
+ _expression_. **MailMergeDataSourceLoad**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 

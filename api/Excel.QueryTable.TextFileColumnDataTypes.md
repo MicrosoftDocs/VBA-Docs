@@ -42,7 +42,7 @@ Use the  **xlColumnDataType** constants listed in the following table to specify
 | **xlYDMFormat**|Year-Day-Month date format|
 | **xlYMDFormat**|Year-Month-Day date format|
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
 
 If you specify more elements in the array that there are columns, those values are ignored.
 

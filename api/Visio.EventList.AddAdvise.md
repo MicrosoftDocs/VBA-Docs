@@ -49,7 +49,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
 The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](../visio/Concepts/event-codesvisio.md). 
 
-The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** ( **visCodeRunAddAdvise** ), and **TargetArgs** properties.
+The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
 
 Beginning with Visio 2002, you can use event filters to refine the events that you receive in your program. You can filter events by object, cell, ranges of cells, or command ID. For details about using event filters, see the method topics prefixed with  **SetFilter** and **GetFilter** .
 
@@ -61,7 +61,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
 The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](../visio/Concepts/event-codesvisio.md). 
 
-The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** ( **visCodeRunAddAdvise** ), and **TargetArgs** properties.
+The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** (**visCodeRunAddAdvise**), and **TargetArgs** properties.
 
 Beginning with Visio 2002, you can use event filters to refine the events that you receive in your program. You can filter events by object, cell, ranges of cells, or command ID. For details about using event filters, see the method topics prefixed with  **SetFilter** and **GetFilter** .
 
@@ -106,7 +106,7 @@ pSourceObj .EventList.ItemFromID(nEventID )
 | pSubjectObj| The object that the event is about. For example, the subject of a **ShapeAdded** event is a **Shape** object representing the shape that was just added, while the subject of a **BeforeSelectionDelete** event is a **Selection** object in which the shapes that are about to be deleted are selected.|
 | vMoreInfo| Additional information about the subject of the event. For many events, it is a string similar to the command line the application passes the add-ons it executes. If the notification does not include additional information, this parameter is set to **Nothing** . For details about notification parameters for a particular event, see the particular event topic in this Automation Reference.|
 
-If nEventCode identifies a query event (events prefixed with  **Query** ), return **True** to cancel the event, and **False** to allow it to happen. The value is arbitrary for other events. If no explicit value is returned, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant** , which Visio interprets as **False** .
+If nEventCode identifies a query event (events prefixed with  **Query**), return **True** to cancel the event, and **False** to allow it to happen. The value is arbitrary for other events. If no explicit value is returned, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant** , which Visio interprets as **False** .
 
 The connection between the source object and the  **Event** object exists until one of the following occurs:
 
@@ -122,7 +122,7 @@ The connection between the source object and the  **Event** object exists until 
 
 ## Example
 
-This example shows how to create a class module to handle events fired by a source object in Microsoft Office Visio, for example, the  **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case ( **Case Else** ). Each **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+This example shows how to create a class module to handle events fired by a source object in Microsoft Office Visio, for example, the  **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case (**Case Else**). Each **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
 Copy this sample code into a new class module in Microsoft Visual Basic for Applications (VBA) or Visual Basic, naming the module  **clsEventSink** . You can then use the event-sink module that follows to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance.
 

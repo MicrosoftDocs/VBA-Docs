@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.PaperSize Property (Publisher)
 
-Returns the paper size setting found on the  **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface ( **File** menu). Read-only.
+Returns the paper size setting found on the  **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface (**File** menu). Read-only.
 
 
 ## Syntax

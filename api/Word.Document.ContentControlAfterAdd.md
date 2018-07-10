@@ -18,7 +18,7 @@ Occurs after adding a content control to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _'ContentControlAfterAdd'( **_NewContentControl_** , **_InUndoRedo_** )
+Private Sub  _expression_ _'ContentControlAfterAdd'(**_NewContentControl_** , **_InUndoRedo_**)
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

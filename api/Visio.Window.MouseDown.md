@@ -18,7 +18,7 @@ Occurs when a mouse button is clicked.
 
 ## Syntax
 
-Private Sub  _expression_ _'MouseDown'( **_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_** )
+Private Sub  _expression_ _'MouseDown'(**_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

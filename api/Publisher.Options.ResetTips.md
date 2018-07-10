@@ -25,7 +25,7 @@ Resets tippages so that a user can view them when using features that have been 
 
 ## Remarks
 
-The  **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box ( **Tools** menu).
+The  **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box (**Tools** menu).
 
 
 ## Example

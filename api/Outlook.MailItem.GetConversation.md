@@ -30,7 +30,7 @@ A  **Conversation** object that represents the conversation to which this item b
 
 ## Remarks
 
- **GetConversation** returns **Null** ( **Nothing** in Visual Basic) if no conversation exists for the item. No conversation exists for an item in the following scenarios:
+ **GetConversation** returns **Null** (**Nothing** in Visual Basic) if no conversation exists for the item. No conversation exists for an item in the following scenarios:
 
 
 - The item has not been saved. An item can be saved programmatically, by user action, or by auto-save.
@@ -53,7 +53,7 @@ The following code example assumes that the selected item in the explorer window
 
 
 
-```C#
+```cs
 void DemoConversation() 
 { 
  object selectedItem = 

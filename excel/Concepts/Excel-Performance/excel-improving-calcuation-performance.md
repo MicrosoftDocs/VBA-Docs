@@ -650,13 +650,11 @@ Excel enables you to effectively manage much larger worksheets, and it provides 
 
 By using a straightforward set of techniques, you can speed up most slow-calculating worksheets by a factor of 10 or 100. You can also apply these techniques as you design and create worksheets to ensure that they calculate quickly.
 
-## Additional resources
+## See also
 
--  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)
-      
--  [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)
-     
--  [Excel Developer Portal](https://msdn.microsoft.com/en-us/office/aa905411.aspx)
+-  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)      
+-  [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)    
+-  [Excel Developer Portal](http://msdn.microsoft.com/en-us/office/aa905411.aspx)
     
     
   

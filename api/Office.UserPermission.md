@@ -20,7 +20,7 @@ Associates a set of permissions on the active document with a single user and an
 
 Use the  **Add** method of the **Permission** object to grant specific permissions on the active document to a new user, with an optional expiration date. Use the **Remove** method of the **UserPermission** object to remove a user and the user's permissions.
 
-While some permissions granted through the user interface (such as  **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
+While some permissions granted through the user interface (such as  **msoPermissionPrint**) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
 
 
 ## Example

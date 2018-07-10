@@ -25,7 +25,7 @@ Returns or sets the default envelope height, in points. Read/write  **Single** .
 
 ## Remarks
 
-If you set either the  **DefaultHeight** or **[DefaultWidth](Word.Envelope.DefaultWidth.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box ( **Tools** menu). Use the **[DefaultSize](Word.Envelope.DefaultSize.md)** property to set the default size to a predefined size.
+If you set either the  **DefaultHeight** or **[DefaultWidth](Word.Envelope.DefaultWidth.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box (**Tools** menu). Use the **[DefaultSize](Word.Envelope.DefaultSize.md)** property to set the default size to a predefined size.
 
 
 ## Example

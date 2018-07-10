@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options Object (Publisher)
 
-Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box ( **Tools** menu).
+Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box (**Tools** menu).
 
 
 ## Example

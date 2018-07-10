@@ -579,14 +579,10 @@ An object that represents the old and new name of a table which was renamed in t
 The PowerPivot add-in enables you to build your own cubes instead of using the default ones Excel creates for you behind Power tables. With this add-in, can see the cubes in a visual context and change cube-specific properties. The  **Model** object stores references to workbook connections and information about the Tables and Relationships contained within the PowerPivot Model.
 
 
-## Additional Resources
-<a name="XLPowerPivotModel_Additional"> </a>
+## See also
 
-
--  [PowerPivot for Excel Tutorial Introduction](https://technet.microsoft.com/en-us/library/gg413497.aspx)
-    
--  [PowerPivot for Excel Tutorial Sample Data](https://powerpivotsdr.codeplex.com/releases/view/35438)
-    
--  [Using PowerPivot with Excel 2010](https://blogs.office.com/b/microsoft-excel/archive/2009/10/23/using-powerpivot-with-excel-2010.aspx)
+-  [PowerPivot for Excel Tutorial Introduction](http://technet.microsoft.com/en-us/library/gg413497.aspx)   
+-  [PowerPivot for Excel Tutorial Sample Data](http://powerpivotsdr.codeplex.com/releases/view/35438)   
+-  [Using PowerPivot with Excel 2010](http://blogs.office.com/b/microsoft-excel/archive/2009/10/23/using-powerpivot-with-excel-2010.aspx)
     
 

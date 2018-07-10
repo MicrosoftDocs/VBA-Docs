@@ -38,7 +38,7 @@ An  **Object** that represents an Outlook item in the **SimpleItems** collection
 
 ## Remarks
 
-If this method fails to return an object in the collection as specified by the  _Index_ parameter, the method returns **Null** ( **Nothing** in Visual Basic).
+If this method fails to return an object in the collection as specified by the  _Index_ parameter, the method returns **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

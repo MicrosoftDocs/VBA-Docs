@@ -12,12 +12,11 @@ ms.date: 06/08/2017
 
 Retrieves the children of the root node of the SmartArt diagram. Read-only
 
-
 ## Syntax
 
- _expression_. `Nodes`
+_expression_. `Nodes`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+_expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
 
 
 ## Remarks
@@ -27,17 +26,13 @@ The root node has no parent node and only contains children if there are childre
 
 - A
     
-- 
-      - B
+  - B
     
-  - 
-      - C
+  - C
     
   - D
     
-- 
-      - 
-      - E
+    - E
     
 - F
     
@@ -54,10 +49,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes.Add
 
 ## See also
 
-
-[SmartArt Object](Office.SmartArt.md)
-
-
-
-[SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
+- [SmartArt Object](Office.SmartArt.md)
+- [SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 

@@ -31,7 +31,7 @@ If you want to prevent changes to existing records (make a form read-only), set 
 
 When the  **AllowEdits** property is set to No, the **Delete Record** and **Data Entry** menu commands aren't available for existing records. (They may still be available for new records if the **AllowAdditions** property is set to Yes.)
 
-Changing a field value programmatically causes the current record to be editable, regardless of the  **AllowEdits** property setting. If you want to prevent the user from making changes to a record ( **AllowEdits** is No) that you need to edit programmatically, save the record after any programmatic changes; the **AllowEdits** property setting will be honored once again after any unsaved changes to the current record are saved.
+Changing a field value programmatically causes the current record to be editable, regardless of the  **AllowEdits** property setting. If you want to prevent the user from making changes to a record (**AllowEdits** is No) that you need to edit programmatically, save the record after any programmatic changes; the **AllowEdits** property setting will be honored once again after any unsaved changes to the current record are saved.
 
 
 

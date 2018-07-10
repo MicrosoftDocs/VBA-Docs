@@ -30,7 +30,7 @@ Returns or sets how to plot the sparkline when the data on which it is based is 
 
 This property can only be set if the data on which the sparkline is based is in a square-shaped range, for example if the data is in the range A1:B2. 
 
-The default value for sp data in a square-shaped range is to plot the data by rows ( **xlSparklineRowsSquare** ).
+The default value for sp data in a square-shaped range is to plot the data by rows (**xlSparklineRowsSquare**).
 
 
 ## Property value

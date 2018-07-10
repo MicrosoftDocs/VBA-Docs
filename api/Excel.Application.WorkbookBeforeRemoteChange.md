@@ -16,7 +16,7 @@ Occurs before a remote user's edits to the workbook are merged.
 
 ## Syntax
 
- _expression_.**WorkbookBeforeRemoteChange**( **_Wb_** )
+ _expression_.**WorkbookBeforeRemoteChange**(**_Wb_**)
 
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 

@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the drawing page is visible in Micro
 
 ## Remarks
 
-The default is that the drawing page not be visible ( **False**).
+The default is that the drawing page not be visible (**False**).
 
 
 ## Example

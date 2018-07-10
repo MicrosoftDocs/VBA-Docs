@@ -30,7 +30,7 @@ Inserts an envelope as a separate section at the beginning of the specified docu
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the EnvelopeAddress bookmark (a user-defined bookmark) as the recipient's address.|
-| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True** ).|
+| _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True**).|
 | _AutoText_|Optional| **Variant**|A string that specifies an AutoText entry to use for the address. If specified, Address is ignored.|
 | _OmitReturnAddress_|Optional| **Variant**| **True** to not insert a return address.|
 | _ReturnAddress_|Optional| **Variant**|A string that specifies the return address.|

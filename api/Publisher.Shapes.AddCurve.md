@@ -18,7 +18,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a Bézier curve 
 
 ## Syntax
 
- _expression_. **AddCurve**( **_SafeArrayOfPoints_**)
+ _expression_. **AddCurve**(**_SafeArrayOfPoints_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

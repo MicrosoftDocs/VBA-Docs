@@ -15,7 +15,7 @@ Occurs after the application empties its message queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'VisioIsIdle'( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  _expression_ _'VisioIsIdle'(**_ByVal app As [IVAPPLICATION]_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -47,7 +47,7 @@ Visio continually processes messages in its message queue. When its message queu
 
 A client program can use the  **VisioIsIdle** event as a signal to perform its own background processing.
 
-The  **VisioIsIdle** event is not the equivalent of a standard timer event. Client programs that need to be called on a periodic basis should use standard timer techniques, because the duration in which Visio is idle (calls **WaitMessage** ) is unpredictable. For client programs that are only monitoring Visio activity, however, the **VisioIsIdle** event can be sufficient, because until **WaitMessage** returns to Visio, there cannot have been any Visio activity since the **VisioIsIdle** event was last fired.
+The  **VisioIsIdle** event is not the equivalent of a standard timer event. Client programs that need to be called on a periodic basis should use standard timer techniques, because the duration in which Visio is idle (calls **WaitMessage**) is unpredictable. For client programs that are only monitoring Visio activity, however, the **VisioIsIdle** event can be sufficient, because until **WaitMessage** returns to Visio, there cannot have been any Visio activity since the **VisioIsIdle** event was last fired.
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

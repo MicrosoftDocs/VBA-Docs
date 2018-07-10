@@ -25,7 +25,7 @@ Returns a  **String** representing the concatenated last name, first name, and m
 
 ## Remarks
 
-This property is parsed from the  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.ContactItem.FirstName.md)** , and **[MiddleName](Outlook.ContactItem.MiddleName.md)** properties. The **LastName** , **FirstName** , and **MiddleName** properties are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property. The value of this property is only filled when its associated property ( **FirstName** , **LastName** , **MiddleName** , **CompanyName** , and **Suffix** ) contain Asian (DBCS) characters. If the corresponding field does not contain Asian characters, the property will be empty.
+This property is parsed from the  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.ContactItem.FirstName.md)** , and **[MiddleName](Outlook.ContactItem.MiddleName.md)** properties. The **LastName** , **FirstName** , and **MiddleName** properties are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property. The value of this property is only filled when its associated property (**FirstName** , **LastName** , **MiddleName** , **CompanyName** , and **Suffix**) contain Asian (DBCS) characters. If the corresponding field does not contain Asian characters, the property will be empty.
 
 
 ## See also

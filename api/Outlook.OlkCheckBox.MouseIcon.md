@@ -25,7 +25,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 ## Remarks
 
-The custom picture is of the Microsoft Windows type  **StdPicture** . The default value is **Null** ( **Nothing** in Visual Basic).
+The custom picture is of the Microsoft Windows type  **StdPicture** . The default value is **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

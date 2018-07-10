@@ -25,7 +25,7 @@ Returns the length (in points) of the first segment of the callout line (the seg
 
 ## Remarks
 
-The  **Length** property returns a value only when the **[AutoLength](Word.CalloutFormat.AutoLength.md)** property of the specified callout is set to **False** and applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ).
+The  **Length** property returns a value only when the **[AutoLength](Word.CalloutFormat.AutoLength.md)** property of the specified callout is set to **False** and applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 This property is read-only. Use the  **[CustomLength](Word.CalloutFormat.CustomLength.md)** method to set the value of this property for the **[CalloutFormat](Word.CalloutFormat.md)** object.
 

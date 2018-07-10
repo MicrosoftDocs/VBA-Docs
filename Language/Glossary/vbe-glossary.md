@@ -168,12 +168,12 @@ The path, file name, and argument information provided by the user to run a prog
 
 ## comment
 
-Text added to code that explains how the code works. In Visual Basic, a comment line can start with either an apostrophe ( **'** ) or with the **Rem** keyword followed by a space.
+Text added to code that explains how the code works. In Visual Basic, a comment line can start with either an apostrophe (**'**) or with the **Rem** keyword followed by a space.
 
 
 ## comparison operator
 
-A character or symbol indicating a relationship between two or more values or expressions. These operators include less than ( **&lt;** ), less than or equal to ( **&lt;=** ), greater than ( **&gt;** ), greater than or equal to ( **>=** ), not equal ( **&lt;&gt;** ), and equal ( **=** ). Additional comparison operators include **Is** and **Like**. Note that **Is** and **Like** can't be used as comparison operators in a **Select** **Case** statement.
+A character or symbol indicating a relationship between two or more values or expressions. These operators include less than (**&lt;**), less than or equal to (**&lt;=**), greater than (**&gt;**), greater than or equal to (**>=**), not equal (**&lt;&gt;**), and equal (**=**). Additional comparison operators include **Is** and **Like**. Note that **Is** and **Like** can't be used as comparison operators in a **Select** **Case** statement.
 
 
 ## compiler directive
@@ -213,7 +213,7 @@ A group of controls that share a common name, type, and event procedures. Each c
 
 ## Currency data type
 
-A data type with a range of -922,337,203,685,477.5808 to 922,337,203,685,477.5807. Use this data type for calculations involving money and for fixed-point calculations where accuracy is particularly important. The at sign ( **@** ) type-declaration character represents **Currency** in Visual Basic.
+A data type with a range of -922,337,203,685,477.5808 to 922,337,203,685,477.5807. Use this data type for calculations involving money and for fixed-point calculations where accuracy is particularly important. The at sign (**@**) type-declaration character represents **Currency** in Visual Basic.
 
 
 ## data type
@@ -235,7 +235,7 @@ Dates are stored as part of a real number. Values to the left of the decimal rep
 
 ## date literal
 
-Any sequence of characters with a valid format that is surrounded by number signs ( **#** ). Valid formats include the date format specified by the locale settings for your code or the universal date format.
+Any sequence of characters with a valid format that is surrounded by number signs (**#**). Valid formats include the date format specified by the locale settings for your code or the universal date format.
 
 For example,  `#12/31/92#` is the date literal that represents December 31, 1992, where English-U.S. is the locale setting for your application. Use date literals to maximize portability across national languages.
 
@@ -299,7 +299,7 @@ Any self-contained work created with an application and given a unique file name
 
 ## Double data type
 
-A data type that holds double-precision floating-point numbers as 64-bit numbers in the range -1.79769313486231E308 to -4.94065645841247E-324 for negative values; 4.94065645841247E-324 to 1.79769313486232E308 for positive values. The number sign ( **#** ) type-declaration character represents the **Double** in Visual Basic.
+A data type that holds double-precision floating-point numbers as 64-bit numbers in the range -1.79769313486231E308 to -4.94065645841247E-324 for negative values; 4.94065645841247E-324 to 1.79769313486232E308 for positive values. The number sign (**#**) type-declaration character represents the **Double** in Visual Basic.
 
 
 ## Empty
@@ -389,7 +389,7 @@ An application object that is a type of custom control, such as a Microsoft Exce
 
 ## Integer data type
 
-A data type that holds integer variables stored as 2-byte whole numbers in the range -32,768 to 32,767. The  **Integer** data type is also used to represent enumerated values. The percent sign ( **%** ) type-declaration character represents an **Integer** in Visual Basic.
+A data type that holds integer variables stored as 2-byte whole numbers in the range -32,768 to 32,767. The  **Integer** data type is also used to represent enumerated values. The percent sign (**%**) type-declaration character represents an **Integer** in Visual Basic.
 
 
 ## intrinsic constants
@@ -404,12 +404,12 @@ A word or symbol recognized as part of the Visual Basic programming language; fo
 
 ## line-continuation character
 
-The combination of a space followed by an underscore ( **_** ) used in the development environment to extend a single logical line of code to two or more physical lines. However, you can't use a line-continuation character to continue a line of code within a string expression.
+The combination of a space followed by an underscore (**_**) used in the development environment to extend a single logical line of code to two or more physical lines. However, you can't use a line-continuation character to continue a line of code within a string expression.
 
 
 ## line label
 
-Used to identify a single line of code. A line label can be any combination of characters that starts with a letter and ends with a colon ( **:** ). Line labels are not case sensitive and must begin in the first column.
+Used to identify a single line of code. A line label can be any combination of characters that starts with a letter and ends with a colon (**:**). Line labels are not case sensitive and must begin in the first column.
 
 
 ## line number
@@ -443,7 +443,7 @@ A programming error that can cause code to produce incorrect results or stop exe
 
 ## Long data type
 
-A 4-byte integer ranging in value from -2,147,483,648 to 2,147,483,647. The ampersand ( **&;** ) type-declaration character represents a **Long** in Visual Basic.
+A 4-byte integer ranging in value from -2,147,483,648 to 2,147,483,647. The ampersand (**&;**) type-declaration character represents a **Long** in Visual Basic.
 
 
 ## margin indicator
@@ -517,7 +517,7 @@ A value indicating that a variable contains no valid data.  **Null** is the resu
 
 ## numeric data type
 
-Any intrinsic numeric data type ( **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, or **Date** ).
+Any intrinsic numeric data type (**Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, or **Date**).
 
 
 ## numeric expression
@@ -527,7 +527,7 @@ Any expression that can be evaluated as a number. Elements of an expression can 
 
 ## numeric type
 
-Any intrinsic numeric data type ( **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, or **Date** ) or any **Variant** numeric subtype ( **Empty**, **Integer**, **Long**, **Single**, **Double**, **Currency**, **Decimal**, **Date**, **Error**, **Boolean**, or **Byte** ).
+Any intrinsic numeric data type (**Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, or **Date**) or any **Variant** numeric subtype (**Empty**, **Integer**, **Long**, **Single**, **Double**, **Currency**, **Decimal**, **Date**, **Error**, **Boolean**, or **Byte**).
 
 
 ## object
@@ -704,7 +704,7 @@ An initial value used to generate pseudorandom numbers. For example, the  **Rand
 
 ## Single data type
 
-A data type that stores single-precision floating-point variables as 32-bit (4-byte) floating-point numbers, ranging in value from -3.402823E38 to -1.401298E-45 for negative values, and 1.401298E-45 to 3.402823E38 for positive values. The exclamation point ( **!** ) type-declaration character represents a **Single** in Visual Basic.
+A data type that stores single-precision floating-point variables as 32-bit (4-byte) floating-point numbers, ranging in value from -3.402823E38 to -1.401298E-45 for negative values, and 1.401298E-45 to 3.402823E38 for positive values. The exclamation point (**!**) type-declaration character represents a **Single** in Visual Basic.
 
 
 ## sort order
@@ -724,7 +724,7 @@ A module containing only procedure, type, and data declarations and definitions.
 
 ## statement
 
-A syntactically complete unit that expresses one kind of action, declaration, or definition. A statement generally occupies a single line, although you can use a colon ( **:** ) to include more than one statement on a line. You can also use a line-continuation character ( **_** ) to continue a single logical line onto a second physical line.
+A syntactically complete unit that expresses one kind of action, declaration, or definition. A statement generally occupies a single line, although you can use a colon (**:**) to include more than one statement on a line. You can also use a line-continuation character (**_**) to continue a single logical line onto a second physical line.
 
 
 ## string comparison
@@ -739,12 +739,12 @@ Any constant (defined using the  **Const** keyword) consisting of a sequence of 
 
 ## String data type
 
-A data type consisting of a sequence of contiguous characters that represent the characters themselves rather than their numeric values. A  **String** can include letters, numbers, spaces, and punctuation. The **String** data type can store fixed-length strings ranging in length from 0 to approximately 63K characters and dynamic strings ranging in length from 0 to approximately 2 billion characters. The dollar sign ( **$** ) type-declaration character represents a **String** in Visual Basic.
+A data type consisting of a sequence of contiguous characters that represent the characters themselves rather than their numeric values. A  **String** can include letters, numbers, spaces, and punctuation. The **String** data type can store fixed-length strings ranging in length from 0 to approximately 63K characters and dynamic strings ranging in length from 0 to approximately 2 billion characters. The dollar sign (**$**) type-declaration character represents a **String** in Visual Basic.
 
 
 ## string expression
 
-Any expression that evaluates to a sequence of contiguous characters. Elements of a string expression can include a function that returns a string, a string literal, a string constant, a string variable, a string  **Variant**, or a function that returns a string **Variant** ( **VarType** 8).
+Any expression that evaluates to a sequence of contiguous characters. Elements of a string expression can include a function that returns a string, a string literal, a string constant, a string variable, a string  **Variant**, or a function that returns a string **Variant** (**VarType** 8).
 
 
 ## string literal

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 1. Right-click the control that you want to assign a picture to, and then click  **Advanced Properties**. 
     
-2. In the  **Properties** dialog box, select the **Picture** property and then click the ellipses ( **[...]**) button that is next to the  **Apply** box.
+2. In the  **Properties** dialog box, select the **Picture** property and then click the ellipses (**[...]**) button that is next to the  **Apply** box.
     
 3. In the  **Load Picture** dialog box, type the name of the picture in the **File name** box.
     

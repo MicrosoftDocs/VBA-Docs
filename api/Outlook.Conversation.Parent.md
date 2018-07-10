@@ -27,7 +27,7 @@ Returns the parent  **Object** of the specified **[Conversation](Outlook.Convers
 
 The parent of a  **Conversation** object is the first item in the conversation.
 
- If all items in the conversation are deleted after the **Conversation** object has been obtained, the **Parent** property returns **Null** ( **Nothing** in Visual Basic).
+ If all items in the conversation are deleted after the **Conversation** object has been obtained, the **Parent** property returns **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

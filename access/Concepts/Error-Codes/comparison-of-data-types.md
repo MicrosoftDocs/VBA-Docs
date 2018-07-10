@@ -20,17 +20,17 @@ The following table compares the five sets of data types that correspond to each
 |:-----|:-----|:-----|:-----|:-----|
 | _Not supported_|Binary| _Not supported_|**adBinary**|<p>BINARY (See Notes)</p><p>(Synonym: VARBINARY)</p>|
 |Yes/No|Yes/No|**Boolean**|**adBoolean**|<p>BOOLEAN</p><p>(Synonyms: BIT, LOGICAL, LOGICAL1, YESNO)</p>|
-|<p>Number</p><p>( **FieldSize** = Byte)</p>|Byte|**Byte**|**adUnsignedTinyInt**|<p>BYTE</p><p>(Synonym: INTEGER1)</p>|
-|<p>AutoNumber</p><p>( **FieldSize** = Long Integer)</p>|Long Integer|**Long**|**adInteger**|<p>COUNTER</p><p>(Synonym: AUTOINCREMENT)</p>|
+|<p>Number</p><p>(**FieldSize** = Byte)</p>|Byte|**Byte**|**adUnsignedTinyInt**|<p>BYTE</p><p>(Synonym: INTEGER1)</p>|
+|<p>AutoNumber</p><p>(**FieldSize** = Long Integer)</p>|Long Integer|**Long**|**adInteger**|<p>COUNTER</p><p>(Synonym: AUTOINCREMENT)</p>|
 |Currency|Currency|**Currency**|**adCurrency**|<p>CURRENCY</p><p>(Synonym: MONEY)</p>|
 |Date/Time|Date/Time|**Date**|**adDate**|<p>DATETIME</p><p>(Synonyms: DATE, TIME, TIMESTAMP)</p>|
-|<p>Number</p><p>( **FieldSize** = Double)</p>|Double|**Double**|**adDouble**|<p>DOUBLE</p><p>(Synonyms: FLOAT, FLOAT8, IEEEDOUBLE, NUMBER, NUMERIC)</p>|
-|<p>AutoNumber /GUID </p><p>( **FieldSize** = Replication ID)</p>|Replication ID| _Not supported_|**adGUID**|GUID|
-|<p>Number</p><p>( **FieldSize** = Long Integer)</p>|Long Integer|**Long**|**adInteger**|<p>LONG (See Notes)</p><p>(Synonyms: INT, INTEGER, INTEGER4)</p>|
+|<p>Number</p><p>(**FieldSize** = Double)</p>|Double|**Double**|**adDouble**|<p>DOUBLE</p><p>(Synonyms: FLOAT, FLOAT8, IEEEDOUBLE, NUMBER, NUMERIC)</p>|
+|<p>AutoNumber /GUID </p><p>(**FieldSize** = Replication ID)</p>|Replication ID| _Not supported_|**adGUID**|GUID|
+|<p>Number</p><p>(**FieldSize** = Long Integer)</p>|Long Integer|**Long**|**adInteger**|<p>LONG (See Notes)</p><p>(Synonyms: INT, INTEGER, INTEGER4)</p>|
 |OLE Object|OLE Object|**String**|**adLongVarBinary**|<p>LONGBINARY</p><p>(Synonyms: GENERAL, OLEOBJECT)</p>|
 |Memo|Memo|**String**|**adLongVarWChar**|<p>LONGTEXT</p><p>(Synonyms: LONGCHAR, MEMO, NOTE)</p>|
-|<p>Number</p><p>( **FieldSize** = Single)</p>|Single|**Single**|**adSingle**|<p>SINGLE</p><p>(Synonyms: FLOAT4, IEEESINGLE, REAL)</p>|
-|<p>Number</p><p>( **FieldSize** = Integer)</p>|Integer|**Integer**|**adSmallInt**|<p>SHORT (See Notes)</p><p>(Synonyms: INTEGER2, SMALLINT)</p>|
+|<p>Number</p><p>(**FieldSize** = Single)</p>|Single|**Single**|**adSingle**|<p>SINGLE</p><p>(Synonyms: FLOAT4, IEEESINGLE, REAL)</p>|
+|<p>Number</p><p>(**FieldSize** = Integer)</p>|Integer|**Integer**|**adSmallInt**|<p>SHORT (See Notes)</p><p>(Synonyms: INTEGER2, SMALLINT)</p>|
 |Text|Text|**String**|**adVarWChar**|<p>TEXT</p><p>(Synonyms: ALPHANUMERIC, CHAR, CHARACTER, STRING, VARCHAR)</p>|
 |Hyperlink|Memo|**String**|**adLongVarWChar**|<p>LONGTEXT</p><p>(Synonyms: LONGCHAR, MEMO, NOTE)</p>|
 | _Not supported_|Value|**Variant**|**adVariant**|VALUE (See Notes)|

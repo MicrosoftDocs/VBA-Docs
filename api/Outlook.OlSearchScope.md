@@ -19,7 +19,7 @@ Specifies the scope in terms of folders for the search.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olSearchScopeAllFolders**|1|The search scope is across all folders that have the same folder type as the current folder ( **[Folder.DefaultItemType](Outlook.Folder.DefaultItemType.md)** ), and all stores that have been selected for search.|
+| **olSearchScopeAllFolders**|1|The search scope is across all folders that have the same folder type as the current folder (**[Folder.DefaultItemType](Outlook.Folder.DefaultItemType.md)**), and all stores that have been selected for search.|
 | **olSearchScopeAllOutlookItems**|2|The search scope is all Outlook items in all folders in stores that have been selected for search.|
 | **olSearchScopeCurrentFolder**|0|The search scope is the folder represented by  **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)** , and only that folder.|
 | **olSearchScopeCurrentStore**|4|The search scope is the store for the current folder, which contains the item displayed in the active explorer. |

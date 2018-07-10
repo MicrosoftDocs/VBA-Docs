@@ -33,7 +33,7 @@ Boolean
 
 ## Remarks
 
-Setting the  **DataGraphicShowBorder** property to **False** (0) hides the border around graphic items contained in the data graphic that are at the default position. Setting the property to **True** (-1) displays the border. The default is to hide the border ( **False** ).
+Setting the  **DataGraphicShowBorder** property to **False** (0) hides the border around graphic items contained in the data graphic that are at the default position. Setting the property to **True** (-1) displays the border. The default is to hide the border (**False**).
 
 The value of the  **DataGraphicShowBorder** property corresponds to the setting of the **Show border around items at default position** box under **Display options** in the **New Data Graphic** or **Edit Data Graphic** dialog box.
 

@@ -16,7 +16,7 @@ Adds a  **[Tab](Outlook.tab.md)** to a **[Tabs](Outlook.tabs.md)** collection.
 
 ## Syntax
 
- _expression_. **Add**( **_bstrName_**,  **_bstrCaption_**,  **_lIndex_**)
+ _expression_. **Add**(**_bstrName_**,  **_bstrCaption_**,  **_lIndex_**)
 
  _expression_ A variable that represents a  **Tabs** object.
 

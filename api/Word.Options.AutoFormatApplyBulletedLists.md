@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatApplyBulletedLists Property (Word)
 
- **True** if characters (such as asterisks, hyphens, and greater-than signs) at the beginning of list paragraphs are replaced with bullets from the **Bullets and Numbering** dialog box ( **Format** menu) when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if characters (such as asterisks, hyphens, and greater-than signs) at the beginning of list paragraphs are replaced with bullets from the **Bullets and Numbering** dialog box (**Format** menu) when Word formats a document or range automatically. Read/write **Boolean** .
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Options.AutoFormatApplyBulletedLists = True
 Selection.Range.AutoFormat
 ```
 
-This example returns the status of the  **Automatic bulleted lists** option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the  **Automatic bulleted lists** option on the **AutoFormat** tab in the **AutoCorrect** dialog box (**Tools** menu).
 
 
 

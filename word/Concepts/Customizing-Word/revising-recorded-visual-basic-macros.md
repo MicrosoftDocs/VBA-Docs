@@ -103,7 +103,7 @@ End Sub
 
 ## Removing unnecessary properties
 
-If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you do not need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the  **Paragraph** dialog box ( **Format** menu).
+If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you do not need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the  **Paragraph** dialog box (**Format** menu).
 
 
 ```vb

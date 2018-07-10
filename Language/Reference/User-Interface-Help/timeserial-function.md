@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ) containing the time for a specific hour, minute, and second.
+Returns a  **Variant** (**Date**) containing the time for a specific hour, minute, and second.
  **Syntax**
  **TimeSerial( _hour,_ _minute,_ _second_ )**
 The  **TimeSerial** function syntax has these[named arguments](vbe-glossary.md):
@@ -21,9 +21,9 @@ The  **TimeSerial** function syntax has these[named arguments](vbe-glossary.md):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_hour_**|Required;  **Variant** ( **Integer** ). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a[numeric expression](vbe-glossary.md).|
-|**_minute_**|Required;  **Variant** ( **Integer** ). Any numeric expression.|
-|**_second_**|Required;  **Variant** ( **Integer** ). Any numeric expression.|
+|**_hour_**|Required;  **Variant** (**Integer**). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a[numeric expression](vbe-glossary.md).|
+|**_minute_**|Required;  **Variant** (**Integer**). Any numeric expression.|
+|**_second_**|Required;  **Variant** (**Integer**). Any numeric expression.|
 
  **Remarks**
 To specify a time, such as 11:59:59, the range of numbers for each  **TimeSerial** argument should be in the normal range for the unit; that is, 0-23 for hours and 0-59 for minutes and seconds. However, you can also specify relative times for each[argument](vbe-glossary.md) using any numeric expression that represents some number of hours, minutes, or seconds before or after a certain time. The following example uses[expressions](vbe-glossary.md) instead of absolute time numbers. The **TimeSerial** function returns a time for 15 minutes before ( `-15`) six hours before noon ( `12 - 6`), or 5:45:00 A.M.

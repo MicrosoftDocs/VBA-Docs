@@ -18,7 +18,7 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
- _expression_. **DocumentBeforeClose**( **_Doc_**,  **_Cancel_**)
+ _expression_. **DocumentBeforeClose**(**_Doc_**,  **_Cancel_**)
 
  _expression_ A variable that represents an  **Application** object.
 

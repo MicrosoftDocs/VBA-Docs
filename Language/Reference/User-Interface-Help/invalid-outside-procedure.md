@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid outside procedure
 
-The statement must occur within a  **Sub** or **Function**, or a property procedure ( **Property Get**, **Property Let**, **Property Set** ). This error has the following cause and solution:
+The statement must occur within a  **Sub** or **Function**, or a property procedure (**Property Get**, **Property Let**, **Property Set**). This error has the following cause and solution:
 
 
 

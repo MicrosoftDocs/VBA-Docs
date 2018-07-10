@@ -33,14 +33,14 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
 
 ### Return Value
 
-A  **Folder** object that represents the default folder of the requested type. If the default folder of the requested type does not exist, **GetDefaultFolder** returns **Null** ( **Nothing** in Visual Basic).
+A  **Folder** object that represents the default folder of the requested type. If the default folder of the requested type does not exist, **GetDefaultFolder** returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Remarks
 
 This method is similar to the  **[GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object. The difference is that this method gets the default folder on the delivery store that is associated with the account, whereas **NameSpace.GetDefaultFolder** returns the default folder on the default store for the current profile.
 
-One example of when  **GetDefaultFolder** returns **Null** ( **Nothing** in Visual Basic) is when **olFolderManagedEmail** is specified as the _FolderType_ but the Managed Folders group has not been deployed.
+One example of when  **GetDefaultFolder** returns **Null** (**Nothing** in Visual Basic) is when **olFolderManagedEmail** is specified as the _FolderType_ but the Managed Folders group has not been deployed.
 
 
 ## See also

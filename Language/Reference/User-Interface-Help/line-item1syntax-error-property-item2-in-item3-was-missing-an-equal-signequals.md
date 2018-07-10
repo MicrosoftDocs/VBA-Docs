@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Syntax error: property 'item2' in 'item3' was missing an equal sign (=).
 
-The ASCII file contains a property name and value without an equal sign ( **=** ) between them. The property isn't loaded.
+The ASCII file contains a property name and value without an equal sign (**=**) between them. The property isn't loaded.
 
 

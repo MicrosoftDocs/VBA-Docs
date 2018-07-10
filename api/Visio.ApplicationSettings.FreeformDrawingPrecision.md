@@ -32,7 +32,7 @@ Long
 
 Setting the  **FreeformDrawingPrecision** property is equivalent to setting the **Precision** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-Possible values for the  **FreeformDrawingPrecision** property range from 0 ( **Tight**) to 10 ( **Loose**). The default is 5.
+Possible values for the  **FreeformDrawingPrecision** property range from 0 (**Tight**) to 10 (**Loose**). The default is 5.
 
 
 ## Example

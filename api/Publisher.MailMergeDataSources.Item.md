@@ -18,7 +18,7 @@ Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object 
 
 ## Syntax
 
- _expression_. **Item**( **_varIndex_**)
+ _expression_. **Item**(**_varIndex_**)
 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 

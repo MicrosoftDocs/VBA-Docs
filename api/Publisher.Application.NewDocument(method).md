@@ -18,7 +18,7 @@ Returns a  **Document** object that represents a new publication.
 
 ## Syntax
 
- _expression_. **NewDocument**( **_Wizard_**,  **_Design_**)
+ _expression_. **NewDocument**(**_Wizard_**,  **_Design_**)
 
  _expression_ A variable that represents an  **Application** object.
 

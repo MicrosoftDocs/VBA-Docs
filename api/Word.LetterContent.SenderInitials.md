@@ -25,7 +25,7 @@ Returns or sets the initials of the person creating a letter with the Letter Wiz
 
 ## Example
 
-This example creates a new  **LetterContent** object with the sender name and initials from the **User Information** tab in the **Options** dialog box ( **Tools** menu). The example creates a new document and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
+This example creates a new  **LetterContent** object with the sender name and initials from the **User Information** tab in the **Options** dialog box (**Tools** menu). The example creates a new document and then runs the Letter Wizard by using the **[RunLetterWizard](Word.Document.RunLetterWizard.md)** method.
 
 
 ```vb

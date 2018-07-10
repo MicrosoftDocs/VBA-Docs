@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.UniqueIDPredecessors Property (Project)
 
-Gets or sets the unique identification ( **UniqueID** ) numbers of the predecessors of a task, separated by the list separator. Read/write **String**.
+Gets or sets the unique identification (**UniqueID**) numbers of the predecessors of a task, separated by the list separator. Read/write **String**.
 
 
 ## Syntax

@@ -15,7 +15,7 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **Load**( **_UrlOrFilename_**)
+ _expression_. **Load**(**_UrlOrFilename_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

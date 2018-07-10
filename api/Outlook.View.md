@@ -21,15 +21,15 @@ Represents a customizable view used to sort, group, and view data.
 The  **View** object allows you to create customizable views that allow you to better sort, group and ultimately view data of all different types. There are a variety of different view types that provide the flexibility needed to create and maintain your important data.
 
 
-- The table view type ( **olTableView** ) allows you to view data in a simple field-based table.
+- The table view type (**olTableView**) allows you to view data in a simple field-based table.
     
-- The Calendar view type ( **olCalendarView** ) allows you to view data in a calendar format.
+- The Calendar view type (**olCalendarView**) allows you to view data in a calendar format.
     
-- The card view type ( **olCardView** ) allows you to view data in a series of cards. Each card displays the information contained by the item and can be sorted.
+- The card view type (**olCardView**) allows you to view data in a series of cards. Each card displays the information contained by the item and can be sorted.
     
-- The icon view type ( **olIconView** ) allows you to view data as icons, similar to a Windows folder or explorer.
+- The icon view type (**olIconView**) allows you to view data as icons, similar to a Windows folder or explorer.
     
-- The timeline view type ( **olTimelineView** ) allows you to view data as it is received in a customizable linear time line.
+- The timeline view type (**olTimelineView**) allows you to view data as it is received in a customizable linear time line.
     
 Views are defined and customized using the  **View** object's **[XML](./Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
 

@@ -16,8 +16,8 @@ Specifies the type of information returned about a specified selection or range.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **wdActiveEndAdjustedPageNumber**|1|Returns the number of the page that contains the active end of the specified selection or range. If you set a starting page number or make other manual adjustments, returns the adjusted page number (unlike  **wdActiveEndPageNumber** ).|
-| **wdActiveEndPageNumber**|3|Returns the number of the page that contains the active end of the specified selection or range, counting from the beginning of the document. Any manual adjustments to page numbering are disregarded (unlike  **wdActiveEndAdjustedPageNumber** ).|
+| **wdActiveEndAdjustedPageNumber**|1|Returns the number of the page that contains the active end of the specified selection or range. If you set a starting page number or make other manual adjustments, returns the adjusted page number (unlike  **wdActiveEndPageNumber**).|
+| **wdActiveEndPageNumber**|3|Returns the number of the page that contains the active end of the specified selection or range, counting from the beginning of the document. Any manual adjustments to page numbering are disregarded (unlike  **wdActiveEndAdjustedPageNumber**).|
 | **wdActiveEndSectionNumber**|2|Returns the number of the section that contains the active end of the specified selection or range.|
 | **wdAtEndOfRowMarker**|31|Returns  **True** if the specified selection or range is at the end-of-row mark in a table.|
 | **wdCapsLock**|21|Returns  **True** if Caps Lock is in effect.|

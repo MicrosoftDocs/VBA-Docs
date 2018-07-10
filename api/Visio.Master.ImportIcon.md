@@ -38,6 +38,6 @@ Nothing
 
 ## Remarks
 
-The  **ImportIcon** method can only import files that were produced by exporting a master icon in the application's internal icon format ( **visIconFormatVisio** )?it does not accept icons in other file formats.
+The  **ImportIcon** method can only import files that were produced by exporting a master icon in the application's internal icon format (**visIconFormatVisio**)?it does not accept icons in other file formats.
 
 

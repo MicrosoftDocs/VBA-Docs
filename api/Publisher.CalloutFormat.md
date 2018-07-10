@@ -28,19 +28,19 @@ Use the  **[Callout](Publisher.Shape.Callout.md)** property to return a **Callou
 
  
 
-- a vertical accent bar that separates the text from the callout line ( **Accent** property)
+- a vertical accent bar that separates the text from the callout line (**Accent** property)
     
  
-- the angle between the callout line and the side of the callout text box will be 30 degrees ( **Angle** property)
+- the angle between the callout line and the side of the callout text box will be 30 degrees (**Angle** property)
     
  
-- there will be no border around the callout text ( **Border** property)
+- there will be no border around the callout text (**Border** property)
     
  
-- the callout line will be attached to the top of the callout text box ( **PresetDrop** method)
+- the callout line will be attached to the top of the callout text box (**PresetDrop** method)
     
  
-- the callout line will contain three segments ( **Type** property)
+- the callout line will contain three segments (**Type** property)
     
  
 

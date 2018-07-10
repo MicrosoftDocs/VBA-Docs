@@ -25,7 +25,7 @@ Returns or sets the location of a page break. Can be one of the following  **[Xl
 
 ## Remarks
 
-This property can return the location of either automatic or manual page breaks, but it can only set the location of manual breaks (it can only be set to  **xlPageBreakManual** or **xlPageBreakNone** ).
+This property can return the location of either automatic or manual page breaks, but it can only set the location of manual breaks (it can only be set to  **xlPageBreakManual** or **xlPageBreakNone**).
 
 To remove all manual page breaks on a worksheet, set  `Cells.PageBreak` to **xlPageBreakNone** .
 

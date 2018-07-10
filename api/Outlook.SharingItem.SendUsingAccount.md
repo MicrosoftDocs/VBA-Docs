@@ -25,7 +25,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **SharingItem** when the **[Send](Outlook.SharingItem.Send(method).md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the **SharingItem** is a received item, or if the account specified for the **SharingItem** no longer exists.
+The  **SendUsingAccount** property can be used to specify the account that should be used to send the **SharingItem** when the **[Send](Outlook.SharingItem.Send(method).md)** method is called. This property returns **Null** (**Nothing** in Visual Basic) if the **SharingItem** is a received item, or if the account specified for the **SharingItem** no longer exists.
 
 This property is read-only if the  **SharingItem** is a received item, or if the **SharingItem** has already been sent (the **[Sent](Outlook.SharingItem.Sent.md)** property of the object is set to **True** .)
 

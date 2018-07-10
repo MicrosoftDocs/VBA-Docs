@@ -43,7 +43,7 @@ The number of elements in the array is a multiple of 7. These seven elements con
     
 - The next three elements describe the section, row, and cell of the end cell of the range.
     
-- The last element contains a  **True** or **False** value indicating whether you want to receive events for the specified range of cells ( **True** to listen to events for a range of cells; **False** to exclude events for the range of cells).
+- The last element contains a  **True** or **False** value indicating whether you want to receive events for the specified range of cells (**True** to listen to events for a range of cells; **False** to exclude events for the range of cells).
     
 
 

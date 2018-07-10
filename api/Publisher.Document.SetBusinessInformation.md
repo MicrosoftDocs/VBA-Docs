@@ -18,7 +18,7 @@ Applies the specified business information set, which consists of a logo image a
 
 ## Syntax
 
- _expression_. **SetBusinessInformation**( **_Name_**)
+ _expression_. **SetBusinessInformation**(**_Name_**)
 
  _expression_ A variable that represents a  **Document** object.
 
@@ -33,7 +33,7 @@ Applies the specified business information set, which consists of a logo image a
 
 ## Remarks
 
-Calling the  **SetBusinessInformation** method corresponds to selecting a business information set (in the **Select a Business Information set** list) and then clicking the **Update Publication** button in the **Business Information** dialog box ( **Edit** menu) in the Microsoft Publisher user interface (UI). You must create and edit business information sets in that dialog box before you can use the **SetBusinessInformation** method to apply them programatically.
+Calling the  **SetBusinessInformation** method corresponds to selecting a business information set (in the **Select a Business Information set** list) and then clicking the **Update Publication** button in the **Business Information** dialog box (**Edit** menu) in the Microsoft Publisher user interface (UI). You must create and edit business information sets in that dialog box before you can use the **SetBusinessInformation** method to apply them programatically.
 
 
 ## Example

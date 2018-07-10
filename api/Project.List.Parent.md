@@ -22,7 +22,7 @@ Gets the parent of the  **List** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **List** object can be a **Selection** (with the **FieldIDList** and **FieldNameList** properties), a **Project** (including several properties such as **MapList**, **ReportList**, and **ViewList** ).
+The parent of a  **List** object can be a **Selection** (with the **FieldIDList** and **FieldNameList** properties), a **Project** (including several properties such as **MapList**, **ReportList**, and **ViewList**).
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 

@@ -32,7 +32,7 @@ The objects used in these samples are:
 Suppose the user has inserted your custom document building block into a document, and based on that action, you want to insert and map to the custom XML part.
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?> 
 <projects> 
   <project> 

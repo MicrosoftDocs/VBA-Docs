@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ) containing a date to which a specified time interval has been added.
+Returns a  **Variant** (**Date**) containing a date to which a specified time interval has been added.
  **Syntax**
  **DateAdd( _interval, number, date_ )**
 The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
@@ -23,7 +23,7 @@ The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
 |:-----|:-----|
 |**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to add.|
 |**_number_**|Required. [Numeric expression](vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
-|**_date_**|Required.  **Variant** ( **Date** ) or literal representing date to which the interval is added.|
+|**_date_**|Required.  **Variant** (**Date**) or literal representing date to which the interval is added.|
 
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
@@ -58,7 +58,7 @@ DateAdd("m", 1, "31-Jan-95")
 ```
 
 In this case,  **DateAdd** returns 28-Feb-95, not 31-Feb-95. If **_date_** is 31-Jan-96, it returns 29-Feb-96 because 1996 is a leap year.
-If the calculated date would precede the year 100 (that is, you subtract more years than are in  **_date_** ), an error occurs.
+If the calculated date would precede the year 100 (that is, you subtract more years than are in  **_date_**), an error occurs.
 If  **_number_** isn't a[Long](vbe-glossary.md) value, it is rounded to the nearest whole number before being evaluated.
 
  **Note**  The format of the return value for  **DateAdd** is determined by **Control Panel** settings, not by the format that is passed in **_date_** argument.

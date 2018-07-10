@@ -64,7 +64,7 @@ If myRange.Find.Found = True Then myRange.Bold = True
 
 ## Using the Replacement object
 
-The  **Replacement** object represents the replace criteria for a find and replace operation. The properties and methods of the **Replacement** object correspond to the options in the **Find and Replace** dialog box ( **Edit** menu).
+The  **Replacement** object represents the replace criteria for a find and replace operation. The properties and methods of the **Replacement** object correspond to the options in the **Find and Replace** dialog box (**Edit** menu).
 
 The  **Replacement** object is available from the **Find** object. The following example replaces all occurrences of the word "hi" with "hello". The selection changes when the find criteria is found because the **Find** object is accessed from the **Selection** object.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AddIns Property (Excel)
 
-Returns an  **[AddIns](Excel.AddIns.md)** collection that represents all the add-ins listed in the **Add-Ins** dialog box ( **Add-Ins** command on the **Developer** tab). Read-only.
+Returns an  **[AddIns](Excel.AddIns.md)** collection that represents all the add-ins listed in the **Add-Ins** dialog box (**Add-Ins** command on the **Developer** tab). Read-only.
 
 
 ## Syntax

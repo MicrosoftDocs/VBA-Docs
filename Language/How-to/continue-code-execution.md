@@ -17,7 +17,7 @@ When you run your code, execution may stop if:
 
 - An untrapped [run-time error](vbe-glossary.md) occurs.
     
-- A trapped run-time error occurs, and  **Break on All Errors** is selected on the **General** tab of the **Options** dialog box ( **Tools** menu).
+- A trapped run-time error occurs, and  **Break on All Errors** is selected on the **General** tab of the **Options** dialog box (**Tools** menu).
     
 - A previously set [breakpoint](vbe-glossary.md) is encountered.
     

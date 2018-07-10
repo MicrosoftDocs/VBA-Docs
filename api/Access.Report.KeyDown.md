@@ -42,7 +42,7 @@ To run a macro or event procedure when these events occur, set the  **OnKeyDown*
 
 A report will also receive all keyboard events, even those that occur for controls, if you set the  **KeyPreview** property of the report to Yes. With this property setting, all keyboard events occur first for the report, and then for the control that has the focus. You can respond to specific keys pressed in the report, regardless of which control has the focus. For example, you may want the key combination CTRL+X to always perform the same action on a report.
 
-If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly ( **KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, and then the **KeyUp** event occurs.
+If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly (**KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, and then the **KeyUp** event occurs.
 
 Although the  **KeyDown** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
 

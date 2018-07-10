@@ -18,14 +18,12 @@ Calculates the point at which a line will intersect the y-axis by using existing
 
 ## Syntax
 
- _expression_. `Intercept`( `_Arg1_` , `_Arg2_` )
+_expression_. `Intercept`(`Arg1`, `Arg2`)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -39,9 +37,6 @@ Double
 
 ## Remarks
 
-
-
-
 - The arguments should be either numbers or names, arrays, or references that contain numbers.
     
 - If an array or reference argument contains text, logical values, or empty cells, those values are ignored; however, cells with the value zero are included.
@@ -54,13 +49,12 @@ Double
     
 - The underlying algorithm used in the INTERCEPT and SLOPE functions is different than the underlying algorithm used in the LINEST function. The difference between these algorithms can lead to different results when data is undetermined and collinear. For example, if the data points of the known_y's argument are 0 and the data points of the known_x's argument are 1: 
     
-      - INTERCEPT and SLOPE return a #DIV/0! error. The INTERCEPT and SLOPE algorithm is designed to look for one and only one answer, and in this case there can be more than one answer.
+  - INTERCEPT and SLOPE return a #DIV/0! error. The INTERCEPT and SLOPE algorithm is designed to look for one and only one answer, and in this case there can be more than one answer.
     
   - LINEST returns a value of 0. The LINEST algorithm is designed to return reasonable results for collinear data, and in this case at least one answer can be found.
     
 
 ## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

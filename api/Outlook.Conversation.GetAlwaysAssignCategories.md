@@ -42,7 +42,7 @@ Multiple categories are delimited by commas in the string of category names that
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the method returns a string of categories that are applied to conversation items in the default delivery store.
 
-If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCategories.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** ( **Nothing** in Visual Basic).
+If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCategories.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** (**Nothing** in Visual Basic).
 
 To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](Outlook.Conversation.ClearAlwaysAssignCategories.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
 

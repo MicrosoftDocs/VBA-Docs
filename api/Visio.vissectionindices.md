@@ -23,7 +23,7 @@ Logical indices of ShapeSheet sections for  **Shape** or **Style** objects.
 | **visSectionConnectionPts**|7|Stores an object's connection points.|
 | **visSectionControls**|9|Stores an object's control handles.|
 | **visSectionFillGradientStops**|249|Index of a section whose rows represent fill gradient stops.|
-| **visSectionFirstComponent**|10|An object's first Geometry section. Additional sections have indices ( **visSectionFirstComponent** + ).|
+| **visSectionFirstComponent**|10|An object's first Geometry section. Additional sections have indices (**visSectionFirstComponent** + ).|
 | **visSectionFirst**|0|Index whose value is less than any other section index.|
 | **visSectionHyperlink**|244|Stores hyperlinks.|
 | **visSectionInval**|255|An invalid index that no section will ever have.|

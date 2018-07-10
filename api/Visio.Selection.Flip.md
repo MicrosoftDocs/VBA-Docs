@@ -62,7 +62,7 @@ The following possible values for  _FlipType_ are declared in **VisFlipTypes** i
 | **visFlipSelection**|0|Flip the selection about its center.|
 | **visFlipShapes**|2|Flip the selected shapes about their pins.|
 
-You can specify  _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
+You can specify  _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 

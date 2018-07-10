@@ -18,16 +18,16 @@ The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** obj
 
 ## Syntax
 
- _expression_. **Circle** ( ** _Step_** ( ** _x, y_** ), ** _radius_**, ** _color_**, ** _start_**, ** _end_**, ** _aspect_** )
+ _expression_. **Circle** (** _Step_** (** _x, y_**), ** _radius_**, ** _color_**, ** _start_**, ** _end_**, ** _aspect_**)
 
 
 ### Parameters
 
  _Step_ A **keyword** that indicates that the center of the circle, ellipse, or arc is relative to the current coordinates given by the current settings for the **CurrentX** < and **CurrentY** properties of the object argument.
 
- **X, Y** **Single** values indicating the coordinates of the center point of the circle, ellipse, or arc. The Scale properties ( **[ScaleMode](Access.Report.ScaleMode.md)**, **ScaleLeft**, **ScaleTop**, **ScaleHeight**, and **ScaleWidth** ) of the **Report** object specified by the _object_ argument determine the unit of measure used.
+ **X, Y** **Single** values indicating the coordinates of the center point of the circle, ellipse, or arc. The Scale properties (**[ScaleMode](Access.Report.ScaleMode.md)**, **ScaleLeft**, **ScaleTop**, **ScaleHeight**, and **ScaleWidth**) of the **Report** object specified by the _object_ argument determine the unit of measure used.
 
- _Radiums_ A **Single** value indicating the radius of the circle, ellipse, or arc. The Scale properties ( **ScaleMode**, **ScaleLeft**, **ScaleTop**, **ScaleHeight**, and **ScaleWidth** ) of the **Report** object specified by the _object_ argument determine the unit of measure used. By default, distances are measured in twips.
+ _Radiums_ A **Single** value indicating the radius of the circle, ellipse, or arc. The Scale properties (**ScaleMode**, **ScaleLeft**, **ScaleTop**, **ScaleHeight**, and **ScaleWidth**) of the **Report** object specified by the _object_ argument determine the unit of measure used. By default, distances are measured in twips.
 
  _Color_ A **Long** value indicating the RGB (red-green-blue) color of the circle outline. If this argument is omitted, the value of the **ForeColor** property is used. You can also use the **RGB** function or **QBColor** function to specify the color.
 

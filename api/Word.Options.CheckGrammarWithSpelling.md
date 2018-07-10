@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property controls whether Word checks grammar when you check spelling by using the  **Spelling** command ( **Tools** menu).
+This property controls whether Word checks grammar when you check spelling by using the  **Spelling** command (**Tools** menu).
 
 To check spelling or grammar from a Visual Basic procedure, use the  **[CheckSpelling](Word.Application.CheckSpelling.md)** method to check only spelling and use the **[CheckGrammar](Word.Application.CheckGrammar.md)** method to check both grammar and spelling.
 

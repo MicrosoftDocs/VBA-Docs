@@ -15,7 +15,7 @@ Occurs after the active window changes in a Microsoft Visio instance.
 
 ## Syntax
 
-Private Sub  _expression_ _'WindowActivated'( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  _expression_ _'WindowActivated'(**_ByVal Window As [IVWINDOW]_**)
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.DataGraphic Property (Visio)
 
-Gets or sets the data graphic master ( **Master** of type **visTypeDataGraphic** ) that is associated with the shape. Read/write.
+Gets or sets the data graphic master (**Master** of type **visTypeDataGraphic**) that is associated with the shape. Read/write.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

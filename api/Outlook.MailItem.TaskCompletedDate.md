@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property is set to **False** .
+This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also

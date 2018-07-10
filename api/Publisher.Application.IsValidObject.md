@@ -18,7 +18,7 @@ Determines whether the specified object variable references a valid object and r
 
 ## Syntax
 
- _expression_. **IsValidObject**( **_Object_**)
+ _expression_. **IsValidObject**(**_Object_**)
 
  _expression_ A variable that represents an  **Application** object.
 

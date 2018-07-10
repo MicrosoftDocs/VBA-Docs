@@ -49,7 +49,7 @@ The  **Add** method is not available for the **Templates** collection. Instead, 
     
 Use the  **NormalTemplate** property to return a template object that refers to the Normal template. Use the **AttachedTemplate** property to return the template attached to the specified document.
 
-Use the  **DefaultFilePath** property to return or set the location of user or workgroup templates (that is, the folder where you want to store these templates). The following example displays the user template folder from the **File Locations** tab in the **Options** dialog box ( **Tools** menu).
+Use the  **DefaultFilePath** property to return or set the location of user or workgroup templates (that is, the folder where you want to store these templates). The following example displays the user template folder from the **File Locations** tab in the **Options** dialog box (**Tools** menu).
 
 
 

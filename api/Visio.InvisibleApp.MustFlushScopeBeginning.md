@@ -15,7 +15,7 @@ Occurs before the Microsoft Visio instance is forced to flush its event queue.
 
 ## Syntax
 
-Private Sub  _expression_ _'MustFlushScopeBeginning'( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  _expression_ _'MustFlushScopeBeginning'(**_ByVal app As [IVAPPLICATION]_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -59,7 +59,7 @@ When a shape is deleted, events are fired in the following sequence:
     
 
 
-An event is fired both before ( **BeforeShapeDeleted** event) and after ( **ShapesDeleted** event) the shape is deleted. If a program monitoring these events requires that additional shapes be deleted in response to the initial shape deletion, it should do so in the **ShapesDeleted** event handler, not the **BeforeShapeDeleted** event handler. The **BeforeShapeDeleted** event is inside the scope of the **MustFlushScopeBeginning** event and the **MustFlushScopeEnded** event, while the **ShapesDeleted** event is not.
+An event is fired both before (**BeforeShapeDeleted** event) and after (**ShapesDeleted** event) the shape is deleted. If a program monitoring these events requires that additional shapes be deleted in response to the initial shape deletion, it should do so in the **ShapesDeleted** event handler, not the **BeforeShapeDeleted** event handler. The **BeforeShapeDeleted** event is inside the scope of the **MustFlushScopeBeginning** event and the **MustFlushScopeEnded** event, while the **ShapesDeleted** event is not.
 
  The sequence number of a **MustFlushScopeBeginning** event may be higher than the sequence number of events the client sees after it has received the **MustFlushScopeBeginning** event because Visio assigns sequence numbers to events as they occur. Any events that were queued when the forced flush began have a lower sequence number than the **MustFlushScopeBeginning** event, even though the **MustFlushScopeBeginning** event fires first.
 

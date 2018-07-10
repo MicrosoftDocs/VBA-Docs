@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ) for a specified year, month, and day.
+Returns a  **Variant** (**Date**) for a specified year, month, and day.
  **Syntax**
  **DateSerial( _year_, _month_, _day_ )**
 The  **DateSerial** function syntax has these[named arguments](vbe-glossary.md):

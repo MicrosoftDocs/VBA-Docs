@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.DataGraphic Property (Visio)
 
-Gets the data graphic master ( **Master** object of type **visTypeDataGraphic** ) of the primary shape in the selection. Sets the data graphic master of all shapes in the selection. Read/write.
+Gets the data graphic master (**Master** object of type **visTypeDataGraphic**) of the primary shape in the selection. Sets the data graphic master of all shapes in the selection. Read/write.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

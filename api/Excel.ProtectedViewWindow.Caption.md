@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that represents the name that appears in th
 
 ## Example
 
-The following code example displays the name ( **Caption** property) of the active **Protected View** window.
+The following code example displays the name (**Caption** property) of the active **Protected View** window.
 
 
 ```vb
