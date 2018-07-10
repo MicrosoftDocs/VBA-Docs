@@ -83,7 +83,7 @@ The following example show how to create a combo box that is bound to one column
 The  **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 
  **Sample code provided by:**
-![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
 
 
 

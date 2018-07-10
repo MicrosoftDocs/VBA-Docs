@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Attach a File to an Outlook Email Message
 This topic describes how to programmatically attach one or more files to an outgoing email message in Microsoft Outlook. 
 
- **Provided by:** Ken Getz, [MCW Technologies, LLC](http://www.mcwtech.com/)
+ **Provided by:** Ken Getz, [MCW Technologies, LLC](https://www.mcwtech.com/)
 
 
 ## Object Model Support for Attachments

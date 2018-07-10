@@ -150,7 +150,7 @@ Sub NoMultiAreaSelection()
 End Sub
 ```
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &amp; .NET &amp; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin,[VSTO &amp; .NET &amp; Excel](https://xldennis.wordpress.com/)
 
 This example uses the  **AdvancedFilter** method of the **Range** object to create a list of the unique values, and the number of times those unique values occur, in the range of column A.
 

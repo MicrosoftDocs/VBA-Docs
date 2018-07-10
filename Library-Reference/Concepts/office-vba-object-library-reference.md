@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Office. 
 
- >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
+ >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
 
 This documentation contains: 
 

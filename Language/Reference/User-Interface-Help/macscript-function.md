@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 # MacScript Function
 
 
-**Note** This function has been deprecated, therefore it is no longer supported. For information, see this [Stack Overflow article](http://stackoverflow.com/a/30949324/209942).
+**Note** This function has been deprecated, therefore it is no longer supported. For information, see this [Stack Overflow article](https://stackoverflow.com/a/30949324/209942).
 
 Executes an AppleScript script and returns a value returned by the script, if any.
  **Syntax**

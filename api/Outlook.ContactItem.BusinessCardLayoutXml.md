@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the XML markup for the layout of t
 
 ## Remarks
 
-For more information on the XML schema for Electronic Business Cards, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](http://msdn.microsoft.com/library).
+For more information on the XML schema for Electronic Business Cards, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This example imports the contacts from the default Outlook contacts folder to Sheet 1 of the active workbook.
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 
 

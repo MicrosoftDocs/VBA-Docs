@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This section of the object library for Microsoft Office  contains documentation for all of the objects, properties, methods, and events contained in the Office object model. 
 
-**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
+**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
 
 ## Related topics
 

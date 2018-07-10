@@ -36,7 +36,7 @@ Used to sign the XMLDSIG template.
 
 ## Remarks
 
-XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in the Microsoft Office. 
+XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in the Microsoft Office. 
 
 
 ## Example

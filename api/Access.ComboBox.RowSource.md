@@ -62,7 +62,7 @@ Forms!Employees!cmboNames.RowSource = "EmployeeList"
 
 The following example shows how to set the  **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
 
 
 

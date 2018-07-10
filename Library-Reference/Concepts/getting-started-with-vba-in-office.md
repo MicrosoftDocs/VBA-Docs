@@ -324,7 +324,7 @@ To open the Developer Reference that is built into Office Help, open the Help re
 
 Time spent browsing the Object Model reference pays off. After you understand the basics of VBA syntax and the object model for the Office application that you are working with, you advance from guesswork to methodical programming.
 
-Of course the [Microsoft Office Developer Center](http://msdn.microsoft.com/office/) is an excellent portal for articles, tips, and community information.
+Of course the [Microsoft Office Developer Center](https://msdn.microsoft.com/office/) is an excellent portal for articles, tips, and community information.
 
 
 ### Searching Forums and Groups

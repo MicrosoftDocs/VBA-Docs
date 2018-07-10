@@ -37,7 +37,7 @@ Returns the ISO week number of the year for a given date. .
 
 ## Remarks
 
-Returns the ordinal number of the [ISO8601] calendar week in the year for the given date. [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) defines the calendar week as a time interval of seven calendar days starting with a Monday, and the first calendar week of a year as the one that includes the first Thursday of that year.
+Returns the ordinal number of the [ISO8601] calendar week in the year for the given date. [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) defines the calendar week as a time interval of seven calendar days starting with a Monday, and the first calendar week of a year as the one that includes the first Thursday of that year.
 
 
 ## See also

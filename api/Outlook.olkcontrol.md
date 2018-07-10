@@ -16,7 +16,7 @@ Defines a set of control properties common to some Microsoft Outlook controls.
 
 ## Remarks
 
-The members offered by  **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. For more information, see[KB 180972: Additional Control Properties Available for Programming](http://support.microsoft.com/kb/180972).
+The members offered by  **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. For more information, see[KB 180972: Additional Control Properties Available for Programming](https://support.microsoft.com/kb/180972).
 
 
 ## Example

@@ -85,7 +85,7 @@ End Sub
 
 The following example shows how to display a message when a control is empty on a continuous form when a user moves to another record.
 
-**Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+**Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 ```vb
 Private Sub Form_BeforeUpdate(Cancel As Integer)
