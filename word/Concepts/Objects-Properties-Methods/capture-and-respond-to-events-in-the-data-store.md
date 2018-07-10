@@ -20,9 +20,9 @@ On the **CustomXMLParts** collection:
     
 On the **CustomXMLPart** object:
 
-- **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once , for the top-most node.
+- **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once for the top-most node.
     
-- **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once, for the top-most node.
+- **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once for the top-most node.
     
 - **NodeAfterReplace.** Allows a client to respond after an XML node is replaced in the store.
     

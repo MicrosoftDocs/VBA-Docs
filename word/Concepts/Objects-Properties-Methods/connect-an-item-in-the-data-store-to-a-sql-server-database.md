@@ -217,9 +217,9 @@ You can create a Web-based application that enables users to select a company na
     
 10. On the **Web** tab, under **Start Action**, select **Specific Page**, click the browse button, and navigate to the page **WebForm1.aspx**.
     
-11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing <html> tags.
+11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing `<html>` tags.
     
-   ```html
+    ```html
         <html xmlns="http://www.w3.org/1999/xhtml">
         <head runat="server">
             <title>Data-Driven Document Generation - SQL Server Sample</title>
@@ -263,7 +263,7 @@ You can create a Web-based application that enables users to select a company na
         </body>
         </html>
 
-   ```
+    ```
 
 12. Depending on the coding language you use, add the following Visual Basic .NET or C# code to the appropriate **WebForm1.aspx** code-behind page in your project.
     
