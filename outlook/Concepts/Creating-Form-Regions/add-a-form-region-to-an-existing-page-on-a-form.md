@@ -97,71 +97,71 @@ To create and design a form region, you will use the Forms Designer in much the 
     
 10. Add a label control and a text box control, and bind the Frequent Flyer Number field to the text box control.
     
-   1. Pick and click another label control to add it from the Toolbox to the form region as shown in Figure 9.
+    1. Pick and click another label control to add it from the Toolbox to the form region as shown in Figure 9.
     
-   2. Right-click the label control, click **Properties**. On the **Display** tab, type **Frequent Flyer Number:** as the **Caption**. Click **OK**.
+    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Frequent Flyer Number:** as the **Caption**. Click **OK**.
     
-   3. Use the mouse to pull on the right handle of the label control to adjust the width to accommodate the length of the caption.
+    3. Use the mouse to pull on the right handle of the label control to adjust the width to accommodate the length of the caption.
     
-   4. Pick and click the text box control to add it from the Toolbox to the form region as shown in Figure 9.
+    4. Pick and click the text box control to add it from the Toolbox to the form region as shown in Figure 9.
     
-   5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**, as in Figure 9. Then click **OK**. 
+    5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**, as in Figure 9. Then click **OK**. 
     
-   **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
+    **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
 
-   ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
+    ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
 
 11. Add a check box control and bind the Vegetarian field to the check box control.
     
-   1. Pick and click the check box control to add it from the Toolbox to the form region as shown in Figure 10.
+    1. Pick and click the check box control to add it from the Toolbox to the form region as shown in Figure 10.
     
-   2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**, as in Figure 10. 
+    2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**, as in Figure 10. 
     
-      **Figure 10. Specify a caption for the check box control.**
+       **Figure 10. Specify a caption for the check box control.**
 
-      ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
+       ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
 
-   3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in Figure 11. Then click **OK**. 
+    3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in Figure 11. Then click **OK**. 
     
-      **Figure 11. Bind the Vegetarian field to the check box control.**
+       **Figure 11. Bind the Vegetarian field to the check box control.**
 
-      ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
+       ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
 
 12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.
     
-   1. Pick and click the label control to add it from the Toolbox to the form region as shown in Figure 12.
+    1. Pick and click the label control to add it from the Toolbox to the form region as shown in Figure 12.
     
-   2. Right-click the label control, click **Properties**. On the **Display** tab, type **Seat Preference:** as the **Caption**. Click **OK**.
+    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Seat Preference:** as the **Caption**. Click **OK**.
     
-   3. Pick and click the combo box control to add it from the Toolbox to the form region as shown in Figure 12.
+    3. Pick and click the combo box control to add it from the Toolbox to the form region as shown in Figure 12.
     
-   4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**, as in Figure 12. 
+    4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**, as in Figure 12. 
     
-      **Figure 12. Bind the Seat Preference field to the combo box control.**
+       **Figure 12. Bind the Seat Preference field to the combo box control.**
 
-      ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
+       ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
 
-   5. To define values for the drop-down list, type **Aisle,Center,Window** as the **Possible Values**. 
+    5. To define values for the drop-down list, type **Aisle,Center,Window** as the **Possible Values**. 
     
-   6. Check **Set the initial value of this field to:**, and type **Aisle** in the next text box as the initial display value. Then click **OK**.
+    6. Check **Set the initial value of this field to:**, and type **Aisle** in the next text box as the initial display value. Then click **OK**.
      
 13. Align controls on the form region.
     
-   1. Hold down SHIFT, select the three label controls for **Contoso Airlines**, **Frequent Flyer Number**, and **Seat Preference:**.
+    1. Hold down SHIFT, select the three label controls for **Contoso Airlines**, **Frequent Flyer Number**, and **Seat Preference:**.
     
-   2. Right-click, point to **Align**, and select **Align Left**. This will align the selected controls by their left edges.
+    2. Right-click, point to **Align**, and select **Align Left**. This will align the selected controls by their left edges.
     
-   3. Hold down SHIFT, select the text box control and the combo box control.
+    3. Hold down SHIFT, select the text box control and the combo box control.
     
-   4. Right-click, point to **Align**, and select **Align Left**.
+    4. Right-click, point to **Align**, and select **Align Left**.
     
-   5. Hold down SHIFT, select the label control for **Frequent Flyer Number**, the text box control, and the check box control.
+    5. Hold down SHIFT, select the label control for **Frequent Flyer Number**, the text box control, and the check box control.
     
-   6. Right-click, point to **Align**, and select **Align Bottom**. This will align the selected controls by their bottom edges.
+    6. Right-click, point to **Align**, and select **Align Bottom**. This will align the selected controls by their bottom edges.
     
-   7. Hold down SHIFT, select the label control for **Seat Preference:** and the combo box control.
+    7. Hold down SHIFT, select the label control for **Seat Preference:** and the combo box control.
     
-   8. Right-click, point to **Align**, and select **Align Bottom**.
+    8. Right-click, point to **Align**, and select **Align Bottom**.
    
 14. Click **Form Region**, and click **Save Form Region**. Create a folder **Form Regions** in the c: drive, type **Contoso** as the file name, and click **Save**.
     
