@@ -32,15 +32,16 @@ The following table shows the objects in the Word object model that relate to co
 
 |**Name**|**Description**|
 |:-----|:-----|
-| **[ContentControl](../../../api/Word.ContentControl.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
-| **[ContentControls](../../../api/Word.ContentControls.md)**|You can use the  **ContentControls** properties of the **[Document](../../../api/Word.Document.md)**,  **[Range](../../../api/Word.Range.md)**, and  **[Selection](../../../api/Word.Selection.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](../../../api/Word.Document.SelectContentControlsByTitle.md)** method and the **[SelectContentControlsByTag](../../../api/Word.Document.SelectContentControlsByTag.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
-| **[ContentControlListEntry](../../../api/Word.ContentControlListEntry.md)**|When a content control is a drop-down list or combo box, the  **ContentControlListEntry** object represents individual items within the list.|
-| **[ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)**|Use the  **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
+| **[ContentControl](../../../api/Word.ContentControl.md)**|Each **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
+| **[ContentControls](../../../api/Word.ContentControls.md)**|You can use the **ContentControls** properties of the **[Document](../../../api/Word.Document.md)**, **[Range](../../../api/Word.Range.md)**, and **[Selection](../../../api/Word.Selection.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](../../../api/Word.Document.SelectContentControlsByTitle.md)** method and the **[SelectContentControlsByTag](../../../api/Word.Document.SelectContentControlsByTag.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
+| **[ContentControlListEntry](../../../api/Word.ContentControlListEntry.md)**|When a content control is a drop-down list or combo box, the **ContentControlListEntry** object represents individual items within the list.|
+| **[ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)**|Use the **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
 
-Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the  **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
+Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
 
 
-**Note**: For a complete list of all properties and methods of the **ContentControl** object, see [Content Controls](https://msdn.microsoft.com/en-us/library/bb157891.aspx).
+> [!NOTE] 
+> For a complete list of all properties and methods of the **ContentControl** object, see [Content Controls](https://msdn.microsoft.com/en-us/library/bb157891.aspx).
 
 |**Property/Method**|**Applies To**|
 |:-----|:-----|
@@ -95,7 +96,7 @@ Whether you want to add a content control, delete a content control, or access a
 
 ## Adding a Content Control
 
-As mentioned previously, there are eight different types of content controls that you can add to your documents. Use the  **Add** method of the **ContentControls** collection to add a content control to a document. The following example adds a date picker to the active document and sets the date value to the current date.
+As mentioned previously, there are eight different types of content controls that you can add to your documents. Use the **Add** method of the **ContentControls** collection to add a content control to a document. The following example adds a date picker to the active document and sets the date value to the current date.
 
 
 ```vb
@@ -117,7 +118,7 @@ You can use the same basic construction to add any of the different types of con
 
 ## Adding a Title to a Content Control
 
-Use the  **Title** property to add a title to a content control. This is text that users see, and it can help them to know what type of data to enter into the content control. The following example adds a new plain-text content control to the active document and sets the title, or display text, for the control.
+Use the **Title** property to add a title to a content control. This is text that users see, and it can help them to know what type of data to enter into the content control. The following example adds a new plain-text content control to the active document and sets the title, or display text, for the control.
 
 
 ```vb

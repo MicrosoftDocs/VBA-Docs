@@ -17,9 +17,6 @@ This sample uses the  **OpenSharingItem** method to create a **SharingItem** tha
 2. It then uses the  **CreateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
     
 3. Finally, the  **[Add](../../../api/Outlook.Recipients.Add.md)** method for the **[Recipients](../../../api/Outlook.MailItem.Recipients.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](../../../api/Outlook.SharingItem.Send(method).md)** method is used to send the **SharingItem**.
-    
-
-
 
 ```vb
 Public Sub ShareRSSByInvitation() 

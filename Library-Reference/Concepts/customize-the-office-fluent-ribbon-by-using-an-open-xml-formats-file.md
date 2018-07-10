@@ -16,7 +16,7 @@ The code example in this topic shows how to add custom components to the ribbon 
     
 2. Add the following XML markup to the file and then close and save the file. 
     
-  ```XML
+  ```xml
   <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 

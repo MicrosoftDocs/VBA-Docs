@@ -26,7 +26,7 @@ This topic includes Visual Basic examples related to the following tasks:
 
 ## Creating a table, inserting text, and applying formatting
 
-The following example inserts a four-column, three-row table at the beginning of the active document. The  **For Each...Next** structure is used to step through each cell in the table. Within the **For Each...Next** structure, the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **[Range](../../../api/Word.Range.md)** object is used to add text to the table cells (Cell 1, Cell 2, and so on).
+The following example inserts a four-column, three-row table at the beginning of the active document. The **For Each...Next** structure is used to step through each cell in the table. Within the **For Each...Next** structure, the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **[Range](../../../api/Word.Range.md)** object is used to add text to the table cells (Cell 1, Cell 2, and so on).
 
 
 ```vb
@@ -55,7 +55,7 @@ End Sub
 
 ## Inserting text into a table cell
 
-The following example inserts text into the first cell of the first table in the active document. The  **[Cell](../../../api/Word.Table.Cell.md)** method returns a single  **Cell** object. The **Range**property returns a  **Range** object. The **[Delete](../../../api/Word.Range.Delete.md)** method is used to delete the existing text and the  **InsertAfter**method inserts the "Cell 1,1" text.
+The following example inserts text into the first cell of the first table in the active document. The **[Cell](../../../api/Word.Table.Cell.md)** method returns a single **Cell** object. The **Range**property returns a **Range** object. The **[Delete](../../../api/Word.Range.Delete.md)** method is used to delete the existing text and the **InsertAfter**method inserts the "Cell 1,1" text.
 
 
 ```vb
@@ -124,7 +124,7 @@ End Sub
 
 ## Returning the contents of each table cell
 
-The following example defines an array equal to the number of cells in the first document table (assuming  **Option Base 1**). The  **For Each...Next** structure is used to return the contents of each table cell and assign the text to the corresponding array element.
+The following example defines an array equal to the number of cells in the first document table (assuming **Option Base 1**). The **For Each...Next** structure is used to return the contents of each table cell and assign the text to the corresponding array element.
 
 
 ```vb

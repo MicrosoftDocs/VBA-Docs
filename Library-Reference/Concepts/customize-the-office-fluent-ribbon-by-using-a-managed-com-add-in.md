@@ -30,7 +30,7 @@ In this step, you create the file that adds the custom components to the ribbon.
 
 1. In a text editor, add the following XML markup. 
     
-   ```XML
+   ```xml
     <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
       <ribbon> 
         <tabs> 
@@ -165,7 +165,7 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
     
 7. Following the **GetResource** method, add this method. This method inserts the company name into the document at the beginning of the page.
     
-   ```C#
+   ```cs
     public void InsertCompanyName(IRibbonControl control) 
           { 
           // Inserts the specified text at the beginning of a range or selection. 

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies that Outlook will prompt the user to determine if he or she wants to open the resulting item now or send the item immediately:
 
 
-```XML
+```xml
 <customActions>
     <action name="replyToBlog">
         <method>prompt</method>

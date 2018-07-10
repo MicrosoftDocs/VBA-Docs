@@ -23,7 +23,7 @@ You should use the following code in the  `ThisAddIn` class of an Outlook add-in
 
 
 
-```C#
+```cs
 private void GetItemsInView() 
 { 
     Outlook.AddressEntry currentUser = 

@@ -44,7 +44,7 @@ Lists all loaded projects and the items included in each project.
 
   ![Files](../../../images/avhgn002_ZA01201572.gif) All .frm files associated with the project.
     
-  - Document The document associated with the project. For example, in Microsoft Word, it is the Word document.
+  - Document: The document associated with the project. For example, in Microsoft Word, it is the Word document.
     
   - ![Modules](../../../images/avhgn003_ZA01201573.gif) Modules: All .bas modules for the project.
     

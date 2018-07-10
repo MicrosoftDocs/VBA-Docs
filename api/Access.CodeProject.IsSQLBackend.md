@@ -23,9 +23,5 @@ Returns  **true** if the code project was created in Access 2013 and onwards and
 
 ## See also
 
-
-#### Concepts
-
-
-[CodeProject Object](./Access.CodeProject.md)
+- [CodeProject Object](./Access.CodeProject.md)
 

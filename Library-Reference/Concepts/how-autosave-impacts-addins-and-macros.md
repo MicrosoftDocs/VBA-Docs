@@ -133,29 +133,16 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 ## See also
 
 - [Coauthoring in Excel](../../excel/Concepts/about-coauthoring-in-excel.md)
-
 - [Document object](../../api/Word.Document.md)
-
 - [Presentation object](../../api/PowerPoint.Presentation.md)
-
 - [Workbook object](../../api/Excel.Workbook.md)
-
-#### Additional resources
-
 - [What is AutoSave?][AutoSaveArticle]
-
 - [**AutoSaveOn** property in Excel][AutoSaveOn_Excel]
-
 - [**AfterSave** event in Excel](../../api/Excel.Application.WorkbookAfterSave.md)
-
 - [**BeforeSave** event in Excel](../../api/Excel.Application.WorkbookBeforeSave.md)
-
 - [**AutoSaveOn** property in PowerPoint][AutoSaveOn_PowerPoint]
-
 - [**BeforeSave** event in PowerPoint](../../api/PowerPoint.Application.PresentationBeforeSave.md)
-
 - [**AutoSaveOn** property in Word][AutoSaveOn_Word]
-
 - [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
 [comment]: # (../../api/Word.Document.AutoSaveOn.md

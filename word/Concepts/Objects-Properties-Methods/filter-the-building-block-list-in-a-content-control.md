@@ -12,9 +12,6 @@ When you use content controls together with building blocks, you can help users 
 
 You can filter the list of building blocks for a content control when you create the content control. However, you can also programmatically filter the list of building blocks based on the position of the cursor or on the value of another content control. To start, you need a custom building block gallery. To learn how to create a custom building block gallery, see  [Create a Custom Building Block Gallery](create-a-custom-building-block-gallery.md).
 
-
-
-
 -  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
 -  **[ContentControl](../../../api/Word.ContentControl.md)**
@@ -24,8 +21,8 @@ You can filter the list of building blocks for a content control when you create
 
 The following example shows how to filter a building block list to a specific gallery.
 
-
- **Note**  Run the code in the "Create a Custom Building Block Gallery" topic before running the code in this topic.
+> [!NOTE] 
+> Run the code in the "Create a Custom Building Block Gallery" topic before running the code in this topic.
 
 
 ```vb
@@ -86,11 +83,9 @@ End Sub
 ```
 
 
-## Additional Resources
+## See also
 
-
--  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)
-    
+-  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)   
 -  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
     
 

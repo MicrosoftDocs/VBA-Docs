@@ -8,27 +8,27 @@ ms.date: 06/08/2017
 
 # Create a Custom Building Block Gallery
 
-A building block gallery is a collection of building blocks that are of the same type. There are 32 different types of building block collections that you can create (by using the  **[WdBuildingBlockTypes](../../../api/Word.WdBuildingBlockTypes.md)** enumeration). Each of these types is a gallery. Word provides some of these galleries as built-in building block collections, but most of them are provided so that you can organize your own building blocks. 
+A building block gallery is a collection of building blocks that are of the same type. There are 32 different types of building block collections that you can create (by using the **[WdBuildingBlockTypes](../../../api/Word.WdBuildingBlockTypes.md)** enumeration). Each of these types is a gallery. Word provides some of these galleries as built-in building block collections, but most of them are provided so that you can organize your own building blocks. 
 
 To provide added flexibility with your custom galleries, you can create categories within each gallery to further organize your custom building blocks.
 
 The objects used in this sample are:
 
--  **[Template](../../../api/Word.Template.md)**
+- **[Template](../../../api/Word.Template.md)**
     
--  **[Range](../../../api/Word.Range.md)**
+- **[Range](../../../api/Word.Range.md)**
     
--  **[BuildingBlockEntries](../../../api/Word.BuildingBlockEntries.md)**
+- **[BuildingBlockEntries](../../../api/Word.BuildingBlockEntries.md)**
     
--  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
+- **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
 
 ## Sample
 
 The following example creates a building block gallery that contains three building blocks.
 
-
- **Note**  This example assumes that there are at least three paragraphs in the document.
+> [!NOTE] 
+> This example assumes that there are at least three paragraphs in the document.
 
 
 ```vb
@@ -55,8 +55,7 @@ End Sub
 ```
 
 
-## Additional Resources
-
+## See also
 
 -  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)
     
