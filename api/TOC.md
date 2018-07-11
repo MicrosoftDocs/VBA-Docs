@@ -3924,7 +3924,7 @@
 ### Concepts
 #### [About the PowerPivot Model Object in Excel](../excel/Concepts/about-the-powerpivot-model-object-in-excel.md)
 #### [About coauthoring](../excel/Concepts/about-coauthoring-in-excel.md)
-#### [Language-specific Properties, Methods, and Functions](../excel/Concep../Language-specific-properties-methods-and-functions.md)
+#### [Language-specific Properties, Methods, and Functions](../excel/Concepts/Language-specific-properties-methods-and-functions.md)
 #### [OLE DB for OLAP Properties Used by Excel](../excel/Concepts/ole-db-for-olap-properties-used-by-excel.md)
 #### [Programming for the Single Document Interface in Excel](../excel/Concepts/programming-for-the-single-document-interface-in-excel.md)
 #### Functions
@@ -15756,7 +15756,7 @@
 ## [PowerPoint](./overview/PowerPoint.md)
 ### Concepts
 #### [Control and Dialog Box Events](../powerpoint/Concepts/control-and-dialog-box-events-powerpoint.md)
-#### [Language-Specific Properties and Methods](../powerpoint/Concep../Language-specific-properties-and-methods-powerpoint.md)
+#### [Language-Specific Properties and Methods](../powerpoint/Concepts/Language-specific-properties-and-methods-powerpoint.md)
 #### [Learn About Language-Specific Information](../powerpoint/Concepts/learn-about-language-specific-information-powerpoint.md)
 #### [OLE Programmatic Identifiers](../powerpoint/Concepts/ole-programmatic-identifiers-powerpoint.md)
 ### How-to Topics
@@ -35117,7 +35117,7 @@
 ##### [Label Control](../Language/Reference/User-Interface-Help/label-control.md)
 ##### [Label not defined](../Language/Reference/User-Interface-Help/label-not-defined.md)
 ##### [Language reference VBA](../Language/Reference/User-Interface-Help/readme.md)
-##### [Language/region setting has changed](../Language/Reference/User-Interface-He../Language-region-setting-has-changed.md)
+##### [Language/region setting has changed](../Language/Reference/User-Interface-Help/Language-region-setting-has-changed.md)
 ##### [LargeChange Property](../Language/Reference/User-Interface-Help/largechange-property.md)
 ##### [LargeChange, SmallChange Properties Example](../Language/Reference/User-Interface-Help/largechange-smallchange-properties-example.md)
 ##### [Last Position Command (View Menu)](../Language/Reference/User-Interface-Help/last-position-command-view-menu.md)
@@ -36728,8 +36728,8 @@
 ###### [InvalidateControl](./Office.IRibbonUI.InvalidateControl.md)
 ###### [InvalidateControlMso](./Office.IRibbonUI.InvalidateControlMso.md)
 #### [LanguageSettings Object](./Office.LanguageSettings.md)
-##### [LanguageSettings Members](./overview/Library-Referen../Languagesettings-members-office.md)
-##### [Properties](./overview/Library-Referen../Languagesettings-properties-office.md)
+##### [LanguageSettings Members](./overview/Library-Reference/Languagesettings-members-office.md)
+##### [Properties](./overview/Library-Reference/Languagesettings-properties-office.md)
 ###### [Application](./Office.LanguageSettings.Application.md)
 ###### [Creator](./Office.LanguageSettings.Creator.md)
 ###### [LanguageID](./Office.LanguageSettings.LanguageID.md)
