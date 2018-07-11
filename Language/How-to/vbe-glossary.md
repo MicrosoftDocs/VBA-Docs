@@ -499,12 +499,8 @@ An argument that has a name that is predefined in the object library. Instead of
 
 By assigning values to named arguments, you can use the following statement:
 
-
-
-
-```
+```text
 DoSomeThing namedarg3 := 4, namedarg2 := 5, namedarg1 := 20 
-
 ```
 
 Note that the named arguments don't have to appear in the normal positional order in the syntax.
