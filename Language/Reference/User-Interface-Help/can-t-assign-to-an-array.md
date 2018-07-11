@@ -30,7 +30,6 @@ Each element of an [array](vbe-glossary.md) must have its value assigned individ
     
   > [!NOTE] 
   > You can place a whole array in a **Variant**, resulting in a single variant variable containing the whole array:
-  > 
   > ```vb
      Dim MyArr As Variant 
      MyVar = Arr2() 
