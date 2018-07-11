@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.ConnectorFormat Property (Project)
-Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **Shape** that represents a connector. Read-only **[ConnectorFormat](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)**.
+Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **Shape** that represents a connector. Read-only **[ConnectorFormat](https://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)**.
 
 ## Syntax
 
@@ -47,4 +47,4 @@ End With
 
 [Shape Object](Project.shape.md)
 [AddConnector Method](Project.shapes.addconnector.md)
-[ConnectorFormat](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)
+[ConnectorFormat](https://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)

@@ -29,7 +29,7 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](http://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](https://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 

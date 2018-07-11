@@ -524,7 +524,7 @@ This article showed how to create a custom bibliography style in Word, first by 
 ## See also
 
 -  [What's new for Word 2013 developers](../../../api/overview/Word.md)    
--  [Office and Office 365 Developer Blog](http://blogs.msdn.com/b/officedevdocs/)    
+-  [Office and Office 365 Developer Blog](https://blogs.msdn.com/b/officedevdocs/)    
 -  [Word for developers website](https://docs.microsoft.com/en-us/office/client-developer/word/word-home)
     
 

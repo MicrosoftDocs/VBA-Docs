@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.HorizontalFlip Property (Project)
-Gets a value that indicates whether the shape is flipped around the horizontal axis. Read-only  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
+Gets a value that indicates whether the shape is flipped around the horizontal axis. Read-only  **[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
@@ -26,4 +26,4 @@ Gets a value that indicates whether the shape is flipped around the horizontal a
 
 [Shape Object](Project.shape.md)
 [VerticalFlip Property](Project.shape.verticalflip.md)
-[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
+[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

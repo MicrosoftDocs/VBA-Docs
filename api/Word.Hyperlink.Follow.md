@@ -64,7 +64,7 @@ With Selection
 End With 
  
 Set hypTemp = ActiveDocument.Hyperlinks.Add( _ 
- Address:="http://www.msn.com", _ 
+ Address:="https://www.msn.com", _ 
  Anchor:=Selection.Range) 
 hypTemp.Follow NewWindow:=False, AddHistory:=True
 ```

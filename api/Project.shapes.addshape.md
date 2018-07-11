@@ -77,4 +77,4 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [AutoShapeType Property](Project.shape.autoshapetype.md)
-[MsoAutoShapeType Enumeration (Office)](http://msdn.microsoft.com/en-us/library/office/ff862770%28v=office.15%29)
+[MsoAutoShapeType Enumeration (Office)](https://msdn.microsoft.com/en-us/library/office/ff862770%28v=office.15%29)

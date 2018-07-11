@@ -50,7 +50,7 @@ Use the following general steps to create a Word document generator.
     
 2. Add plain-text content controls to the document to bind to nodes in the data store.
     
-   Content controls are predefined pieces of content. Word offers several kinds of content controls. This includes text blocks, check boxes, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using  [XPath](http://www.w3.org/TR/xpath) expressions, you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document.
+   Content controls are predefined pieces of content. Word offers several kinds of content controls. This includes text blocks, check boxes, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using  [XPath](https://www.w3.org/TR/xpath) expressions, you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document.
     
    To add a content control, on the **Developer** tab, in the **Controls** group, click **Plain Text Content Control**.
     

@@ -52,9 +52,9 @@ The following table shows the values returned by the  **HyperlinkPart** method f
 
 |**Hyperlink field data**|**HyperlinkPart method returned values**|
 |:-----|:-----|
-|#http://www.microsoft.com#|**acDisplayedValue**: http://www.microsoft.com **acDisplayText**: **acAddress**: http://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: http://www.microsoft.com|
-|Microsoft#http://www.microsoft.com#|**acDisplayedValue**: Microsoft **acDisplayText**: Microsoft **acAddress**: http://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: http://www.microsoft.com|
-|Customers#http://www.microsoft.com#Form Customers|**acDisplayedValue**: Customers **acDisplayText**: Customers **acAddress**: http://www.microsoft.com **acSubAddress**: Form Customers **acScreenTip**: **acFullAddress**: http://www.microsoft.com#Form Customer|
+|#https://www.microsoft.com#|**acDisplayedValue**: https://www.microsoft.com **acDisplayText**: **acAddress**: https://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: https://www.microsoft.com|
+|Microsoft#https://www.microsoft.com#|**acDisplayedValue**: Microsoft **acDisplayText**: Microsoft **acAddress**: https://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: https://www.microsoft.com|
+|Customers#https://www.microsoft.com#Form Customers|**acDisplayedValue**: Customers **acDisplayText**: Customers **acAddress**: https://www.microsoft.com **acSubAddress**: Form Customers **acScreenTip**: **acFullAddress**: https://www.microsoft.com#Form Customer|
 |##Form Customers#Enter Information|**acDisplayedValue**: Form Customers **acDisplayText**: **acAddress**: **acSubAddress**: Form Customers **acScreenTip**: Enter Information **acFullAddress**: #FormCustomer|
 
 When you add an  _address_ part to a Hyperlink field by using the **Insert Hyperlink** dialog box (available by clicking **Hyperlink** on the **Insert** menu) or by typing an address part directly into a Hyperlink field, Microsoft Access adds the two # symbols that delimit parts of the hyperlink data.

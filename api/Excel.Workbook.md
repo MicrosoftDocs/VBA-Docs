@@ -61,7 +61,7 @@ The  **[ActiveWorkbook](./Excel.Application.ActiveWorkbook.md)** property return
 ActiveWorkbook.Author = "Jean Selva"
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
 This example emails a worksheet tab from the active workbook using a specified email address and subject. To run this code, the active worksheet must contain the email address in cell A1, the subject in cell B1, and the name of the worksheet to send in cell C1.
 

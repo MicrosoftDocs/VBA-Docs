@@ -25,4 +25,4 @@ Gets callout formatting properties for the shape range, when the  **ShapeRange**
 
 
 [ShapeRange Object](Project.shaperange.md)
-[CalloutFormat Object](http://msdn.microsoft.com/en-us/library/office/ff839772%28v=office.15%29)
+[CalloutFormat Object](https://msdn.microsoft.com/en-us/library/office/ff839772%28v=office.15%29)

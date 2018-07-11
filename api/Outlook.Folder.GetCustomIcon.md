@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.GetCustomIcon Method (Outlook)
 
-Returns an  **[IPictureDisp](http://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)** object that represents the custom icon for the folder.
+Returns an  **[IPictureDisp](https://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)** object that represents the custom icon for the folder.
 
 
 ## Syntax

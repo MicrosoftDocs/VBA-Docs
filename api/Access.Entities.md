@@ -22,7 +22,7 @@ A Data Service data connection may contain one or more entities. Each entity spe
 
 Use the  **[Item](Access.Entities.Item.md)** property to return an **[Entity](Access.Entity.md)** object.
 
-For more information about external content types, see [What Are External Content Types?](http://msdn.microsoft.com/en-us/library/ee556391%28office.14%29.aspx).
+For more information about external content types, see [What Are External Content Types?](https://msdn.microsoft.com/en-us/library/ee556391%28office.14%29.aspx).
 
 
 ## Properties

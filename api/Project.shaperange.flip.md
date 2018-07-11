@@ -22,7 +22,7 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FlipCmd_|Required|**[MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)**|Specifies whether the shape is to be flipped horizontally or vertically.|
+| _FlipCmd_|Required|**[MsoFlipCmd](https://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)**|Specifies whether the shape is to be flipped horizontally or vertically.|
 
 ### Return value
 
@@ -33,4 +33,4 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 
 
 [ShapeRange Object](Project.shaperange.md)
-[MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)
+[MsoFlipCmd](https://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)

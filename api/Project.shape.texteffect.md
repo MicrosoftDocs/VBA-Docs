@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.TextEffect Property (Project)
-Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](http://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)**.
+Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](https://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)**.
 
 ## Syntax
 
@@ -56,4 +56,4 @@ End Sub
 
 [Shape Object](Project.shape.md)
 [ShapeRange.TextEffect Property](Project.shaperange.texteffect.md)
-[TextEffectFormat](http://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)
+[TextEffectFormat](https://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)

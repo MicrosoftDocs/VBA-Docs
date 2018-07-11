@@ -57,6 +57,6 @@ ms.date: 06/08/2017
 
  [How do I convert my WordBasic macros to Microsoft Visual Basic?](converting-wordbasic-macros-to-visual-basic.md)
 
- [How do I find the Visual Basic equivalent for a WordBasic command or function?](http://msdn.microsoft.com/en-us/library/office/aa158432%28v=office.10%29.aspx)
+ [How do I find the Visual Basic equivalent for a WordBasic command or function?](https://msdn.microsoft.com/en-us/library/office/aa158432%28v=office.10%29.aspx)
 
 

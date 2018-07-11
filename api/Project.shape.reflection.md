@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Reflection Property (Project)
-Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](http://msdn.microsoft.com/en-us/library/office/ff863140%28v=office.15%29)**.
+Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](https://msdn.microsoft.com/en-us/library/office/ff863140%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](ht
 
 
 [Shape Object](Project.shape.md)
-[ReflectionFormat](http://msdn.microsoft.com/en-us/library/office/ff863140%28v=office.15%29)
+[ReflectionFormat](https://msdn.microsoft.com/en-us/library/office/ff863140%28v=office.15%29)

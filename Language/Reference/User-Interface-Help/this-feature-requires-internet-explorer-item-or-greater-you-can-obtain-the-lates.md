@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- You must have the indicated version of Internet Explorer for this feature to work correctly. Check http://www.microsoft.com for the latest available version of Internet Explorer.
+- You must have the indicated version of Internet Explorer for this feature to work correctly. Check https://www.microsoft.com for the latest available version of Internet Explorer.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -59,7 +59,7 @@ ActiveSheet.PageSetup.Orientation = xlLandscape
 ActiveSheet.PrintOut
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
 This example uses the BeforeDoubleClick event to open a specified set of files in Notepad. To use this example your worksheet must contain the following data:
 
