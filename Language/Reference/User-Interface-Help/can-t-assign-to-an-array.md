@@ -28,12 +28,12 @@ Each element of an [array](vbe-glossary.md) must have its value assigned individ
 
   To assign one array to another, make sure that the array on the left side of the assignment is resizable and the types of the array match.
     
-  > [!NOTE] 
-  > You can place a whole array in a **Variant**, resulting in a single variant variable containing the whole array:
-  > ```vb
-     Dim MyArr As Variant 
-     MyVar = Arr2() 
-  > ```
+  You can place a whole array in a **Variant**, resulting in a single variant variable containing the whole array:
+
+  ```vb
+         Dim MyArr As Variant 
+         MyVar = Arr2() 
+  ```
 
 
   You then reference the elements of the array in the variant with the same subscript notation as for a normal array, for example:
