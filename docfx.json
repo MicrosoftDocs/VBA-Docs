@@ -43,7 +43,9 @@
       "ms.technology": "vba",
       "ms.author": "o365devx",
       "author": "o365devx",
-      "ms.topic": "reference"
+      "ms.topic": "reference",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/VBA-Docs"
     },
     "fileMetadata": {
       "ms.topic": {
