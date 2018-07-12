@@ -31,7 +31,7 @@ For a synchronized SharePoint task list, you can set the value of  **ServerURL**
 
 
 ```vb
-ActiveProject.ServerURL = "http://SomeBogusServer/NOP%20No%20URL"
+ActiveProject.ServerURL = "https://SomeBogusServer/NOP%20No%20URL"
 ```
 
 Start Project Professional again, open the SharePoint task list, and then run  `? ActiveProject.ServerURL` in the **Immediate** window. The statement returns the arbitrary string.

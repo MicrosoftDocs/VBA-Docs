@@ -59,7 +59,7 @@ Sub SortTableByReceivedTime()
  
  'Add normalized subject (subject without RE:, FW: and other prefixes)to the column set 
  
- oT.Columns.Add ("http://schemas.microsoft.com/mapi/proptag/0x0E1D001E") 
+ oT.Columns.Add ("https://schemas.microsoft.com/mapi/proptag/0x0E1D001E") 
  
  
  
@@ -75,7 +75,7 @@ Sub SortTableByReceivedTime()
  
  'Print the normalized subject of each row 
  
- Debug.Print oRow("http://schemas.microsoft.com/mapi/proptag/0x0E1D001E") 
+ Debug.Print oRow("https://schemas.microsoft.com/mapi/proptag/0x0E1D001E") 
  
  Loop 
  

@@ -45,7 +45,7 @@ Sub SetupFolderHomePage()
  
  Set mpfNew = mpfInbox.Folders.Add("MyFolderHomePage") 
  
- mpfNew.WebViewURL = "http://www.microsoft.com" 
+ mpfNew.WebViewURL = "https://www.microsoft.com" 
  
  mpfNew.WebViewOn = True 
  

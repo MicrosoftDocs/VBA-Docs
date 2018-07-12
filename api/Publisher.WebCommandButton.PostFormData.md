@@ -57,7 +57,7 @@ Set shpNew = ActiveDocument.Pages(1).Shapes.AddWebControl _
 With shpNew.WebCommandButton 
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
- .ActionURL = "http://www.tailspintoys.com/" _ 
+ .ActionURL = "https://www.tailspintoys.com/" _ 
  &; "scripts/ispscript.cgi" 
  .PostFormData = msoFalse 
 End With

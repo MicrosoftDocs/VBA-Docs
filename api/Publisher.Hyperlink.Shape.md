@@ -36,7 +36,7 @@ This example adds a hyperlink to the first shape on the first page of the active
 ```vb
 Sub FormatHyperlinkShape() 
  With ActiveDocument.Pages(1).Shapes(1).Hyperlink 
- .Address = "http://www.tailspintoys.com/" 
+ .Address = "https://www.tailspintoys.com/" 
  .Shape.Flip FlipCmd:=msoFlipVertical 
  End With 
 End Sub

@@ -32,7 +32,7 @@ String
 
 Setting the  **Address** property for a **Hyperlink** object is equivalent to entering information in the **Address** box in the **Hyperlinks** dialog box (**Insert** menu), or setting the result of the Address cell in the shape's Hyperlink. _name_ row in the ShapeSheet window.
 
-The  **Address** property value can be a DOS, UNC, or URL path, for example, _"driveletter"_ :\ _"foldername"_ \ _"drawingname"_ , \\ _"servername"_ \ _"foldername"_ \ _"drawingname"_ , or http:// _address_ , respectively.
+The  **Address** property value can be a DOS, UNC, or URL path, for example, _"driveletter"_ :\ _"foldername"_ \ _"drawingname"_ , \\ _"servername"_ \ _"foldername"_ \ _"drawingname"_ , or https:// _address_ , respectively.
 
 If the  **Address** property is relative, for example, "..\ _"drawingname"_ ", it is composed against the **HyperlinkBase** property, if supplied, or the hyperlink's document path. If the document is not saved, the hyperlink is undefined.
 
@@ -56,7 +56,7 @@ Public Sub Address_Example()
  Set vsoHyperlink = vsoShape.AddHyperlink 
  
  vsoHyperlink.Description = "Web site" 
- vsoHyperlink.Address = "http://address /" 
+ vsoHyperlink.Address = "https://address /" 
  
 End Sub
 ```

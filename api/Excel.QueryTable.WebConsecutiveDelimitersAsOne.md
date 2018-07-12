@@ -42,7 +42,7 @@ This example sets the space character to be the delimiter in the query table on 
 ```vb
 Set shFirstQtr = Workbooks(1).Worksheets(1) 
 Set qtQtrResults = shFirstQtr.QueryTables _ 
- .Add(Connection := "URL;http://datasvr/98q1/19980331.htm", _ 
+ .Add(Connection := "URL;https://datasvr/98q1/19980331.htm", _ 
  Destination := shFirstQtr.Cells(1,1)) 
 With qtQtrResults 
  .WebConsecutiveDelimitersAsOne = True 

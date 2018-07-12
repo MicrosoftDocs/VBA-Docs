@@ -53,7 +53,7 @@ This example loads the document at example.microsoft.com in a new browser window
 
 
 ```vb
-ActiveWorkbook.FollowHyperlink Address:="http://example.microsoft.com"
+ActiveWorkbook.FollowHyperlink Address:="https://example.microsoft.com"
 ```
 
 

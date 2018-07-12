@@ -48,9 +48,9 @@ The following examples are valid, if the specified  _URL_ location exists:
 
 -  `Application.OpenBrowser()`
     
--  `Application.OpenBrowser("http://MySharePointSite")`
+-  `Application.OpenBrowser("https://MySharePointSite")`
     
--  `Application.OpenBrowser("http://MySharePointSite/_layouts/15/start.aspx#/Lists/Test%20tasks%20list%201/")`
+-  `Application.OpenBrowser("https://MySharePointSite/_layouts/15/start.aspx#/Lists/Test%20tasks%20list%201/")`
     
 -  `Application.OpenBrowser("file:///C:/Project")`
     

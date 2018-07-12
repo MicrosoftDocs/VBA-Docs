@@ -38,7 +38,7 @@ The following example adds XML to a part after it is loaded.
 
 ```vb
 Sub CustomXMLParts_PartAfterLoad(ByVal objPart As CustomXMLPart) 
-   objPart.XML ("<root xmlns='http://www.w3c.org/XMLSchema'>text</root>") 
+   objPart.XML ("<root xmlns='https://www.w3c.org/XMLSchema'>text</root>") 
 End Sub
 ```
 

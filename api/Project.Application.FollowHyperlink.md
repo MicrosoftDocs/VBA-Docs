@@ -46,7 +46,7 @@ The following example opens a hyperlink to the Microsoft Web site in its own win
 
 ```vb
 Sub GoToMicrosoft() 
-    Application.FollowHyperlink Address:="http://www.Microsoft.com", _ 
+    Application.FollowHyperlink Address:="https://www.Microsoft.com", _ 
         NewWindow:=True, AddHistory:=True 
 End Sub
 ```

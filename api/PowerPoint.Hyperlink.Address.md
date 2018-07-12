@@ -38,7 +38,7 @@ Set myDocument = ActivePresentation.Slides(1)
 
 For Each s In myDocument.Hyperlinks
 
-    If s.Address = "http://www.microsoft.com/" Then
+    If s.Address = "https://www.microsoft.com/" Then
 
         MsgBox "You have a link to the Microsoft Home Page"
 

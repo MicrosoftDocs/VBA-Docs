@@ -50,7 +50,7 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 
 |**HyperlinkAddress**|**HyperlinkSubAddress**|**Description**|
 |:-----|:-----|:-----|
-|http://www.microsoft.com/||The Microsoft home page on the Web.|
+|https://www.microsoft.com/||The Microsoft home page on the Web.|
 |C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm||The Cajun Delights page in the Access sample applications subdirectory.|
 |C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm|NewProducts|The "NewProducts" Name tag in the Cajun Delights page.|
 |C:\Personal\MyResume.doc|References|The bookmark named "References" in the Microsoft Word document "MyResume.doc".|

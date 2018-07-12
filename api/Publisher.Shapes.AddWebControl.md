@@ -103,25 +103,25 @@ With theDoc.Pages(4).Shapes
  Set theWC1 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=280, Top:=25, Width:=40, Height:=80) 
  With theWC1 
- .Hyperlink.Address = "http://www.contoso.com/page1.htm" 
+ .Hyperlink.Address = "https://www.contoso.com/page1.htm" 
  End With 
  
  Set theWC2 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=320, Top:=105, Width:=80, Height:=40) 
  With theWC2 
- .Hyperlink.Address = "http://www.contoso.com/page2.htm" 
+ .Hyperlink.Address = "https://www.contoso.com/page2.htm" 
  End With 
  
  Set theWC3 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=280, Top:=145, Width:=40, Height:=80) 
  With theWC3 
- .Hyperlink.Address = "http://www.contoso.com/page3.htm" 
+ .Hyperlink.Address = "https://www.contoso.com/page3.htm" 
  End With 
  
  Set theWC4 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=200, Top:=105, Width:=80, Height:=40) 
  With theWC4 
- .Hyperlink.Address = "http://www.contoso.com/page4.htm" 
+ .Hyperlink.Address = "https://www.contoso.com/page4.htm" 
  End With 
 End With
 ```

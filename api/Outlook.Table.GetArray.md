@@ -66,7 +66,7 @@ Sub DemoTableUsingGetArray()
  Dim oTable As Outlook.Table 
  Dim oFolder As Outlook.Folder 
  Const SchemaPropTag As String = _ 
- "http://schemas.microsoft.com/mapi/proptag/" 
+ "https://schemas.microsoft.com/mapi/proptag/" 
  
  On Error Resume Next 
  'Get a Folder object for the Inbox 

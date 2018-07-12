@@ -69,7 +69,7 @@ To call the preceding  **CheckDocOut** subroutine, use the following subroutine 
  
 Sub DocOut()  
     Call CheckDocOut _  
-        (strDocCheckOut:="http://servername/workspace/drawing.vdx ")  
+        (strDocCheckOut:="https://servername/workspace/drawing.vdx ")  
 End Sub
 ```
 

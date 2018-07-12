@@ -66,7 +66,7 @@ Dim strPage As String
  
 With ActiveDocument.Pages(1).Shapes(1).TextFrame 
  Set hypNew = .TextRange.Hyperlinks.Add(Text:=.TextRange, _ 
- Address:="http://www.tailspintoys.com/", _ 
+ Address:="https://www.tailspintoys.com/", _ 
  TextToDisplay:="Tailspin") 
 End With 
  

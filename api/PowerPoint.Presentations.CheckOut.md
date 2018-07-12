@@ -63,7 +63,7 @@ Sub CheckOutPresentation(strPresentation As String)
 End Sub
 ```
 
-To call the subroutine above, use the following subroutine and replace the  _"http://servername/workspace/report.ppt"_ file name for an actual file located on a server mentioned in the Remarks section above.
+To call the subroutine above, use the following subroutine and replace the  _"https://servername/workspace/report.ppt"_ file name for an actual file located on a server mentioned in the Remarks section above.
 
 
 
@@ -71,7 +71,7 @@ To call the subroutine above, use the following subroutine and replace the  _"ht
 ```vb
 Sub CheckPPTOut()
     Call CheckOutPresentation(strPresentation:= _
-        "http://servername/workspace/report.doc")
+        "https://servername/workspace/report.doc")
 End Sub
 ```
 

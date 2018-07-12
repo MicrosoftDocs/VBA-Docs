@@ -32,7 +32,7 @@ Sub AddHyperlink()
  For Each T In ActiveProject.Tasks 
  If Not (T Is Nothing) Then 
  T.Hyperlink = "Microsoft" 
- T.HyperlinkAddress = "http://www.microsoft.com/" 
+ T.HyperlinkAddress = "https://www.microsoft.com/" 
  End If 
  Next T 
  

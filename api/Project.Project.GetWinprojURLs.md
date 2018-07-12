@@ -36,10 +36,10 @@ The following is an example of the XML schema definition.
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <xs:schema id="WinprojURLsDataSet" 
-           targetNamespace="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
- xmlns:mstns="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/" 
-           xmlns="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
- xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+           targetNamespace="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
+ xmlns:mstns="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/" 
+           xmlns="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
+ xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
  xmlns:NameSpace1="urn:schemas-microsoft-com:xml-msdatasource" attributeFormDefault="qualified"
  elementFormDefault="qualified">
   <xs:annotation>
@@ -76,10 +76,10 @@ The following is an example of the XML schema definition.
 </xs:schema>
 <?xml version="1.0" encoding="utf-8" ?>
 <xs:schema id="WinprojURLsDataSet" 
-           targetNamespace="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
- xmlns:mstns="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/" 
-           xmlns="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
- xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+           targetNamespace="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
+ xmlns:mstns="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/" 
+           xmlns="https://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"
+ xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
  xmlns:NameSpace1="urn:schemas-microsoft-com:xml-msdatasource" attributeFormDefault="qualified"
  elementFormDefault="qualified">
   <xs:annotation>

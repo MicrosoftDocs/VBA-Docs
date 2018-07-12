@@ -29,7 +29,7 @@ If there is no hyperlink associated with the specified range of shapes, an error
 
 
 ```vb
-ActiveDocument.Hyperlinks.Add Selection.ShapeRange(1), "http://www.microsoft.com"
+ActiveDocument.Hyperlinks.Add Selection.ShapeRange(1), "https://www.microsoft.com"
 ```
 
 

@@ -46,7 +46,7 @@ Set wcbTemp = shpNew.WebCommandButton
 With wcbTemp 
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
- .ActionURL = "http://www.tailspintoys.com/" _ 
+ .ActionURL = "https://www.tailspintoys.com/" _ 
  &; "scripts/ispscript.cgi" 
 End With
 ```

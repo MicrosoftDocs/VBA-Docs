@@ -69,7 +69,7 @@ The following Microsoft Visual Basic for Applications (VBA) example creates a gr
  
  Set bscs = bgrp.Shortcuts 
  
- Set bsc = bscs.Add("http://www.msn.com", "MSN Home Page") 
+ Set bsc = bscs.Add("https://www.msn.com", "MSN Home Page") 
  
  bsc.SetIcon "C:\MSN.ico" 
  

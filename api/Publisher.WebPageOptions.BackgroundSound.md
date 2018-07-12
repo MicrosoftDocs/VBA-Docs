@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The path to the background sound file must be a network path or a local path; an http:// address will not work.
+The path to the background sound file must be a network path or a local path; an https:// address will not work.
 
 If  **BackgroundSound** is specified, the background sound will play once by default. The **[SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRepeat.md)** method can be used to specify whether the background sound should be played infinitely, and if it should not, to specify the number of times the background sound file should be played.
 

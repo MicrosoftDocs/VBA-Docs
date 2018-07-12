@@ -32,24 +32,24 @@ The setting of the  **LimitToList** property determines whether you can enter va
 
 The list can be single- or multiple-column, and the columns can appear with or without headings.
 
- **Link provided by:** Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
+ **Link provided by:** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
 
 
-- [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
+- [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
  **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
 
 
-- [Combo Box](http://www.utteraccess.com/wiki/index.php/Combo_Box)
+- [Combo Box](https://www.utteraccess.com/wiki/index.php/Combo_Box)
     
-- [Cascading Combo Boxes](http://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)
+- [Cascading Combo Boxes](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)
     
-- [Cascading Combo Boxes: Demo](http://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes:_Demo)
+- [Cascading Combo Boxes: Demo](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes:_Demo)
     
-- [Cascading Combo Boxes - Leaving Null Values](http://www.utteraccess.com/wiki/index.php/Cascade_Combo_Leaving_Null_Values)
+- [Cascading Combo Boxes - Leaving Null Values](https://www.utteraccess.com/wiki/index.php/Cascade_Combo_Leaving_Null_Values)
     
-- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](http://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
+- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
     
 
 ## Example
@@ -57,9 +57,9 @@ The list can be single- or multiple-column, and the columns can appear with or w
 The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
 
  **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
 
-UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
+UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
 
 
@@ -146,7 +146,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 ```vb

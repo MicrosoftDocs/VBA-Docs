@@ -54,7 +54,7 @@ Sub SetHyperlinkTextToDisplay()
  .TextFrame.TextRange.Hyperlinks.Item(1) 
  If .TargetType = pbHlinkTargetTypeURL Then 
  .TextToDisplay = "Tailspin Toys Web Site" 
- .Address = "http://www.tailspintoys.com/" 
+ .Address = "https://www.tailspintoys.com/" 
  End If 
  End With 
 End Sub

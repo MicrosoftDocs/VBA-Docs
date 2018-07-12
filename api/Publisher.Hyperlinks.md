@@ -53,7 +53,7 @@ Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to create a hyperlink a
 ```vb
 Sub AddHyperlink() 
  Selection.TextRange.Hyperlinks.Add Text:=Selection.TextRange, _ 
- Address:="http://www.tailspintoys.com/" 
+ Address:="https://www.tailspintoys.com/" 
 End Sub
 ```
 

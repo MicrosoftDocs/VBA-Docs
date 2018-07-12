@@ -50,7 +50,7 @@ Public Sub NewWindow_Example()
  
  Set vsoHyperlink = ActivePage.DrawRectangle(0,0,5,5).AddHyperlink 
  
- vsoHyperlink.Address = "http://www.microsoft.com/" 
+ vsoHyperlink.Address = "https://www.microsoft.com/" 
  vsoHyperlink.NewWindow = True 
  vsoHyperlink.Follow 
  

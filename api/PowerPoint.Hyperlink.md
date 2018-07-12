@@ -33,7 +33,7 @@ With ActivePresentation.Slides(1).Shapes(3) _
 
     .Action = ppActionHyperlink
 
-    .Hyperlink.Address = "http://www.microsoft.com"
+    .Hyperlink.Address = "https://www.microsoft.com"
 
 End With
 ```

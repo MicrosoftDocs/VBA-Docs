@@ -145,4 +145,4 @@ For more information about working with fields in Project, see the  _Available f
 ## See also
 
 
-[Available fields reference](http://office.microsoft.com/en-us/project-help/available-fields-reference-HA102749299.aspx?CTT=1)
+[Available fields reference](https://office.microsoft.com/en-us/project-help/available-fields-reference-HA102749299.aspx?CTT=1)

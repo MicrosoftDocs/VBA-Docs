@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create a Shortcut Menu for a Form, Form Control, or Report
 
- **Sample code provided by:** Edwin Blancovitch,[Advanced Developers.net](http://advdev.net/)
+ **Sample code provided by:** Edwin Blancovitch,[Advanced Developers.net](https://advdev.net/)
 
 When you're designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
 
@@ -138,6 +138,6 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
-Edwin Blancovitch is president of [Advanced Developers.net](http://advdev.net/), creators of [Easy Payroll](http://www.easypayroll.net/), a software package to manage your human resources, payroll, scheduling, time and attendance needs.
+Edwin Blancovitch is president of [Advanced Developers.net](https://advdev.net/), creators of [Easy Payroll](https://www.easypayroll.net/), a software package to manage your human resources, payroll, scheduling, time and attendance needs.
 
 

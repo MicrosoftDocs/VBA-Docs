@@ -62,10 +62,10 @@ ORDER BY is usually the last item in an SQL statement.
 You can include additional fields in the ORDER BY clause. Records are sorted first by the first field listed after ORDER BY. Records that have equal values in that field are then sorted by the value in the second field listed, and so on.
 
 **Link provided by:**
-![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
-- [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)
+- [Record Order](https://www.utteraccess.com/wiki/index.php/Record_Order)
     
 
 ## Example
@@ -112,8 +112,8 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
-- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 

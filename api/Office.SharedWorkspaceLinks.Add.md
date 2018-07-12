@@ -49,7 +49,7 @@ The following example adds a new link to the links collection of the shared work
 ```vb
     Dim swsLink As Office.SharedWorkspaceLink 
     Set swsLink = ActiveWorkbook.SharedWorkspace.Links.Add( _ 
-        "http://msdn.microsoft.com", _ 
+        "https://msdn.microsoft.com", _ 
         "Microsoft Developer Network Home Page", _ 
         "My favorite developer site!") 
     MsgBox "New link: " &amp; swsLink.Description, _ 

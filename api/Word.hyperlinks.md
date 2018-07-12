@@ -31,7 +31,7 @@ Use the  **Add** method to create a hyperlink and add it to the **Hyperlinks** c
 
 
 ```vb
-ActiveDocument.Hyperlinks.Add Address:="http://www.msn.com/", _ 
+ActiveDocument.Hyperlinks.Add Address:="https://www.msn.com/", _ 
  Anchor:=Selection.Range
 ```
 

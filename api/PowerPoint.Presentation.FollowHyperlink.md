@@ -60,7 +60,7 @@ This example loads the document at example.microsoft.com in a new window and add
 
 ```vb
 ActivePresentation.FollowHyperlink _
-    Address:="http://example.microsoft.com", _
+    Address:="https://example.microsoft.com", _
     NewWindow:=True, AddHistory:=True
 ```
 

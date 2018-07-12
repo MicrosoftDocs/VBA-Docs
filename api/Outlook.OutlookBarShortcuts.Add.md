@@ -52,7 +52,7 @@ Sub AddShortcut()
  Set myOlBar = Application.ActiveExplorer.panes.Item("OutlookBar") 
  Set myolGroup = myOlBar.Contents.Groups.Item(1) 
  Set myOlShortcuts = myolGroup.Shortcuts 
- myOlShortcuts.Add "http://www.microsoft.com", _ 
+ myOlShortcuts.Add "https://www.microsoft.com", _ 
  "Microsoft Home Page", 1 
 End Sub
 ```

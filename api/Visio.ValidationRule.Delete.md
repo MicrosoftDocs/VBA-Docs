@@ -35,7 +35,7 @@ Calling the  **Delete** method also deletes all **[ValidationIssue](Visio.Valida
 
 ## Example
 
-The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
+The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
 The following Visual Basic for Applications (VBA) example shows how to use the  **Delete** method to delete a validation rule named "Unglued Connector" from the validation rule set named "Fault Tree Analysis" in the active document.
 

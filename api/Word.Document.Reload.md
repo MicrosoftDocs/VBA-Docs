@@ -35,7 +35,7 @@ This example opens and reloads the hyperlink to the address "main" on a local in
 
 ```vb
 With ActiveDocument 
- .FollowHyperlink Address:="http://main" 
+ .FollowHyperlink Address:="https://main" 
  .Reload 
 End With
 ```

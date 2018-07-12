@@ -44,7 +44,7 @@ To try this example, create a new form and add a command button named Command0. 
 
 ```vb
 Private Sub Form_Load() 
- Me!Command0.HyperlinkAddress = "http://www.microsoft.com/" 
+ Me!Command0.HyperlinkAddress = "https://www.microsoft.com/" 
 End SubPrivate Sub Command0_Click() 
  Me!Command0.Hyperlink.AddToFavorites 
 End Sub

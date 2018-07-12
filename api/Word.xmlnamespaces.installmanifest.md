@@ -45,7 +45,7 @@ The following code example installs the SimpleSample smart document solution on 
 
 ```vb
 Application.XMLNamespaces.InstallManifest _ 
- "http://smartdocuments/simplesample/manifest.xml"
+ "https://smartdocuments/simplesample/manifest.xml"
 ```
 
 

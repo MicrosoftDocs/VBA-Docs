@@ -57,7 +57,7 @@ Sub DemoPropertyAccessorGetProperty()
  Set oMail = _ 
  Application.Session.GetDefaultFolder(olFolderInbox).Items(1) 
  'PR_TRANSPORT_MESSAGE_HEADERS 
- PropName = "http://schemas.microsoft.com/mapi/proptag/0x007D001E" 
+ PropName = "https://schemas.microsoft.com/mapi/proptag/0x007D001E" 
  'Obtain an instance of PropertyAccessor class 
  Set oPA = oMail.PropertyAccessor 
  'Call GetProperty 

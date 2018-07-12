@@ -45,7 +45,7 @@ The default property values of the new validation rule are as follows:  **[Categ
 
 ## Example
 
-The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
+The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
 The following Visual Basic for Applications (VBA) example shows how to use the  **Add** method to add a new validation rule named "UngluedConnector" to an existing validation rule set named "Fault Tree Analysis" in the active document.
 

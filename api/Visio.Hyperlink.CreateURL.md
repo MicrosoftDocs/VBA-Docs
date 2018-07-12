@@ -40,7 +40,7 @@ String
 
 The  **CreateURL** method of the **Hyperlink** object can be used to resolve relative URLs against a hyperlink's base address.
 
-When you use the canonical form, the  **CreateURL** method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "http://www.microsoft.com:80/" is returned as "http://www.microsoft.com/", whereas http://www.microsoft.com:1000/" is unchanged.
+When you use the canonical form, the  **CreateURL** method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "https://www.microsoft.com:80/" is returned as "https://www.microsoft.com/", whereas https://www.microsoft.com:1000/" is unchanged.
 
 
 ## Example
@@ -49,8 +49,8 @@ Here are some examples of results of the  **CreateURL** method:
 
 
 ```vb
-Address = "http://www.microsoft.com/" 
-CreateURL(False) returns "http://www.microsoft.com/" 
+Address = "https://www.microsoft.com/" 
+CreateURL(False) returns "https://www.microsoft.com/" 
  
 Address = "C:\My Documents\Spreadsheet.XLS" 
 CreateURL(False) returns "file://C:\My Documents\Spreadsheet.XLS" 
@@ -65,9 +65,9 @@ Relative path example:
 
 
 ```vb
-Assume : Document.HyperlinkBase = "http://www.microsoft.com/widgets/" 
+Assume : Document.HyperlinkBase = "https://www.microsoft.com/widgets/" 
 Address = "../file.htm" 
-CreateURL(False) returns "http://www.microsoft.com/file.htm" 
+CreateURL(False) returns "https://www.microsoft.com/file.htm" 
  
 
 ```
@@ -106,7 +106,7 @@ Sub CreateURL_Example()
  Debug.Print vsoHyperlink.CreateURL(True) 
  
  'Return an absolute address 
- vsoHyperlink.Address = "http://address " 
+ vsoHyperlink.Address = "https://address " 
  
  'Print the resulting URL to the Debug window 
  Debug.Print vsoHyperlink.CreateURL(False) 

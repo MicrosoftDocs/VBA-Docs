@@ -58,7 +58,7 @@ Sub GetSelectedItems()
  Dim oPA As Outlook.PropertyAccessor 
  Dim strSenderID As String 
  Const PR_SENT_REPRESENTING_ENTRYID As String = _ 
- "http://schemas.microsoft.com/mapi/proptag/0x00410102" 
+ "https://schemas.microsoft.com/mapi/proptag/0x00410102" 
  Dim MsgTxt As String 
  Dim x As Long 
  

@@ -42,7 +42,7 @@ nothing
 
 ## Remarks
 
-This event fires before the  **WebBrowser** control displays an error page due to an error in navigation. You can stop the display of the error page by setting the _Cancel_ parameter to **True**. However, if the server contacted in the original navigation supplies its own substitute page navigation, when you set _Cancel_ to **True**, it has no effect, and the navigation to the server's alternate page proceeds. For example, assume that a navigation to http://www.www.wingtiptoys.com/BigSale.htm causes this event to fire because the page does not exist. However, the server is set to redirect the navigation to http://www.www.wingtiptoys.com/home.htm. In this case, when you set _Cancel_ to **True**, it has no effect, and navigation proceeds to http://www.www.wingtiptoys.com/home.htm.
+This event fires before the  **WebBrowser** control displays an error page due to an error in navigation. You can stop the display of the error page by setting the _Cancel_ parameter to **True**. However, if the server contacted in the original navigation supplies its own substitute page navigation, when you set _Cancel_ to **True**, it has no effect, and the navigation to the server's alternate page proceeds. For example, assume that a navigation to https://www.www.wingtiptoys.com/BigSale.htm causes this event to fire because the page does not exist. However, the server is set to redirect the navigation to https://www.www.wingtiptoys.com/home.htm. In this case, when you set _Cancel_ to **True**, it has no effect, and navigation proceeds to https://www.www.wingtiptoys.com/home.htm.
 
 
 ## See also

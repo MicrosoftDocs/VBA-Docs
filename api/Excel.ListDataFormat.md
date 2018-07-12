@@ -35,7 +35,7 @@ Dim objDataRange As Range
 Dim strListGUID as String 
 Dim strServerName as String 
  
-strServerName = "http://<servername>/_vti_bin" 
+strServerName = "https://<servername>/_vti_bin" 
 strListGUID = "{<listguid>}" 
  
 Set objListObject = Sheet1.ListObjects.Add(xlSrcExternal, _ 

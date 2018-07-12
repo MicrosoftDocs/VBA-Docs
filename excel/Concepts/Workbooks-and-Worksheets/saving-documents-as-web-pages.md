@@ -50,7 +50,7 @@ With ActiveWorkbook
 End With
 ```
 
-You can also save the files directly to a Web server. The following example saves a range to a Web server, giving the Web page the URL address http://example.homepage.com/annualreport.htm.
+You can also save the files directly to a Web server. The following example saves a range to a Web server, giving the Web page the URL address https://example.homepage.com/annualreport.htm.
 
 
 
@@ -63,7 +63,7 @@ With ActiveWorkbook
  End With 
  With .PublishObjects(1) 
  .FileName = _ 
- "http://example.homepage.com/annualreport.htm" 
+ "https://example.homepage.com/annualreport.htm" 
  .Publish 
  End With 
 End With

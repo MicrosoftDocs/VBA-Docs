@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The default value for the  **ActionURL** property is "http://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
+The default value for the  **ActionURL** property is "https://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
 
 
 ## Example
@@ -45,7 +45,7 @@ Sub CreateActionWebButton()
  Top:=150, Width:=75, Height:=36).WebCommandButton 
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
- .ActionURL = "http://www.tailspintoys.com/" &; _ 
+ .ActionURL = "https://www.tailspintoys.com/" &; _ 
  "scripts/ispscript.cgi" 
  End With 
 End Sub

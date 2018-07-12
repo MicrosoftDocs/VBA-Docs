@@ -25,7 +25,7 @@ Returns the disk or Web path to the specified style sheet. Read-only  **String**
 
 ## Remarks
 
-The path doesn't include a trailing character—for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters, and use the **[Name](Word.StyleSheet.Name.md)** property to return the file name without the path.
+The path doesn't include a trailing character—for example, "C:\MSOffice" or "https://MyServer". Use the  **[PathSeparator](Word.Application.PathSeparator.md)** property to add the character that separates folders and drive letters, and use the **[Name](Word.StyleSheet.Name.md)** property to return the file name without the path.
 
 
  **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).

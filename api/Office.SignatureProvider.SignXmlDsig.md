@@ -54,7 +54,7 @@ The following example, written in C#, shows the implementation of the  **SignXml
  xmldsig.Load(comstream); 
  
  XmlNamespaceManager nsmgr = new XmlNamespaceManager(xmldsig.NameTable); 
- nsmgr.AddNamespace("ds", "http://www.w3.org/2000/09/xmldsig#"); 
+ nsmgr.AddNamespace("ds", "https://www.w3.org/2000/09/xmldsig#"); 
  
  XmlElement signature = xmldsig.DocumentElement; 
  SignedXml signedXml = new SignedXml(); 

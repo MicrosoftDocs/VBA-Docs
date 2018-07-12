@@ -32,7 +32,7 @@ Use  **ActionSettings** (index), where index is the either **ppMouseClick** or *
 With ActivePresentation.Slides(1).Shapes(3) _ 
         .TextFrame.TextRange.ActionSettings(ppMouseClick) 
     .Action = ppActionHyperlink 
-    .Hyperlink.Address = "http://www.microsoft.com" 
+    .Hyperlink.Address = "https://www.microsoft.com" 
 End With
 ```
 

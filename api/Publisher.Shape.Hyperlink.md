@@ -33,7 +33,7 @@ Dim hypTemp As Hyperlink
  
 Set hypTemp = ActiveDocument.Pages(1).Shapes(1).Hyperlink 
  
-hypTemp.Address = "http://www.tailspintoys.com/"
+hypTemp.Address = "https://www.tailspintoys.com/"
 ```
 
 

@@ -18,7 +18,7 @@ Provides access to the research service feature of Microsoft PowerPoint.
 
 ## Remarks
 
-The research service feature provides the ability to search multiple custom and third-party references from within PowerPoint. For more information, see the [Office 2003 Research Services Software Development Kit (SDK)](http://msdn.microsoft.com/en-us/library/office/aa205290%28v=office.11%29.aspx(Office.15).aspx).
+The research service feature provides the ability to search multiple custom and third-party references from within PowerPoint. For more information, see the [Office 2003 Research Services Software Development Kit (SDK)](https://msdn.microsoft.com/en-us/library/office/aa205290%28v=office.11%29.aspx(Office.15).aspx).
 
 
 ## See also

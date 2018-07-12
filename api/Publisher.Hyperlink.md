@@ -48,7 +48,7 @@ Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to add a hyperlink. The
 ```vb
 Sub AddHyperlinkToSelectedText() 
  Selection.TextRange.Hyperlinks.Add Text:=Selection.TextRange, _ 
- Address:="http://www.tailspintoys.com/" 
+ Address:="https://www.tailspintoys.com/" 
 End Sub
 ```
 
@@ -62,7 +62,7 @@ Sub AddHyperlinkToShape()
  With ActiveDocument.Pages(1).Shapes.AddShape _ 
  (Type:=msoShape5pointStar, Left:=200, _ 
  Top:=200, Width:=300, Height:=300) 
- .Hyperlink.Address = "http://www.tailspintoys.com/" 
+ .Hyperlink.Address = "https://www.tailspintoys.com/" 
  End With 
 End Sub
 ```

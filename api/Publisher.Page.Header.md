@@ -59,7 +59,7 @@ With ActiveDocument.masterPages(1)
  End With 
  With .Footer 
  .TextRange.Hyperlinks.Add Text:=.TextRange, _ 
- Address:="http://www.tailspintoys.com", _ 
+ Address:="https://www.tailspintoys.com", _ 
  TextToDisplay:="Tailspin" 
  End With 
 End With

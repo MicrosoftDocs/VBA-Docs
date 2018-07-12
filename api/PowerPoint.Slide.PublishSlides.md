@@ -54,7 +54,7 @@ Public Sub PublishSlides_Example()
 
     Set pptSlide = ActivePresentation.Slides(1)
 
-    pptSlide.PublishSlides ("http://myURL ")
+    pptSlide.PublishSlides ("https://myURL ")
 
 
 

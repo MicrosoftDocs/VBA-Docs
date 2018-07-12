@@ -38,7 +38,7 @@ Sub SetHyperlinkTextToDisplay()
  With ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Hyperlinks.Item(1) 
  .TextToDisplay = "Tailspin Toys Web Site" 
- .Address = "http://www.tailspintoys.com/" 
+ .Address = "https://www.tailspintoys.com/" 
  End With 
 End Sub
 ```

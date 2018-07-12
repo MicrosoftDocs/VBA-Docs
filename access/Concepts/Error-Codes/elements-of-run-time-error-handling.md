@@ -195,10 +195,10 @@ The Error event procedure takes an integer argument, DataErr. When an Error even
 
  **Note**  The  **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.
 
- **Link provided by:** The[UtterAccess](http://www.utteraccess.com) community
+ **Link provided by:** The[UtterAccess](https://www.utteraccess.com) community
 
 
-- [Handling Access Errors with VBA](http://www.utteraccess.com/wiki/index.php/Error_Handling)
+- [Handling Access Errors with VBA](https://www.utteraccess.com/wiki/index.php/Error_Handling)
     
 
 ## About the Contributors

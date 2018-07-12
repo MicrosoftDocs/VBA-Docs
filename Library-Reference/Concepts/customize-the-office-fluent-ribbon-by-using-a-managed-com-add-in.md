@@ -31,7 +31,7 @@ In this step, you create the file that adds the custom components to the ribbon.
 1. In a text editor, add the following XML markup. 
     
    ```xml
-    <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
+    <customUI xmlns="https://schemas.microsoft.com/office/2006/01/customui"> 
       <ribbon> 
         <tabs> 
           <tab id="CustomTab" label="My Tab"> 

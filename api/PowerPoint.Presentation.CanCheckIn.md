@@ -52,7 +52,7 @@ Sub CheckInPresentation(strPresentation As String)
 End Sub
 ```
 
-To call the subroutine above, use the following subroutine and replace the " _http://servername/workspace/report.ppt_ " file name with an actual file located on a server mentioned in the Remarks section above.
+To call the subroutine above, use the following subroutine and replace the " _https://servername/workspace/report.ppt_ " file name with an actual file located on a server mentioned in the Remarks section above.
 
 
 
@@ -60,7 +60,7 @@ To call the subroutine above, use the following subroutine and replace the " _ht
 ```vb
 Sub CheckPPTIn()
     Call CheckInPresentation(strPresentation:= _
-        "http://servername/workspace/report.ppt ")
+        "https://servername/workspace/report.ppt ")
 End Sub
 ```
 

@@ -29,7 +29,7 @@ If there is no hyperlink associated with an object, setting the  **Address** pro
 
 
 ```vb
-ActiveDocument.Hyperlinks.Add Selection.Range, "http://www.microsoft.com"
+ActiveDocument.Hyperlinks.Add Selection.Range, "https://www.microsoft.com"
 ```
 
 
@@ -41,7 +41,7 @@ This example adds a hyperlink to the selection in the active document, sets the 
 ```vb
 Set aHLink = ActiveDocument.Hyperlinks.Add( _ 
  Anchor:=Selection.Range, _ 
- Address:="http://forms") 
+ Address:="https://forms") 
 MsgBox "The hyperlink goes to " &; aHLink.Address
 ```
 

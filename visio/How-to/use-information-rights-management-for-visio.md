@@ -31,7 +31,7 @@ To use IRM for Visio, you must install the following:
 
 - Visio
     
--  [Windows Rights Management Client](http://www.microsoft.com/en-us/download/details.aspx?id=4909)
+-  [Windows Rights Management Client](https://www.microsoft.com/en-us/download/details.aspx?id=4909)
     
 
 ## Protecting a Visio document

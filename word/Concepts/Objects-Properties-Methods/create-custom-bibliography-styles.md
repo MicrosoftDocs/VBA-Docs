@@ -32,7 +32,7 @@ At the top of the file, add the following code:
 
 <!--List of the external resources that we are referencing-->
  
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<xsl:stylesheet version="1.0" xmlns:xsl="https://www.w3.org/1999/XSL/Transform" xmlns:b="https://schemas.openxmlformats.org/officeDocument/2006/bibliography">
  
 <!--When the bibliography or citation is in your document, it's just HTML-->
  
@@ -210,7 +210,7 @@ When you reference a book source in your Word document, Word needs to access thi
  
 <xsl:template match="b:Bibliography"> 
 
-   <html xmlns="http://www.w3.org/TR/REC-html40"> 
+   <html xmlns="https://www.w3.org/TR/REC-html40"> 
    
       <body> 
 
@@ -232,7 +232,7 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
 ```xml
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
-   <html xmlns="http://www.w3.org/TR/REC-html40"> 
+   <html xmlns="https://www.w3.org/TR/REC-html40"> 
       <body> 
          <!-- Defines the output format as (Author, Year)--> 
          <xsl:text>(</xsl:text> 
@@ -296,7 +296,7 @@ Let's start by changing the citation. Here is the code for citations from last t
 ```xml
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
-   <html xmlns="http://www.w3.org/TR/REC-html40"> 
+   <html xmlns="https://www.w3.org/TR/REC-html40"> 
       <body> 
          <!--Defines the output format as (Author, Year)-->
          <xsl:text>(</xsl:text> 
@@ -317,7 +317,7 @@ Declare a new variable to help determine whether a corporate author is available
 
 ```vb
 <!--Defines the output of the Citation-->
-<html xmlns="http://www.w3.org/TR/REC-html40">
+<html xmlns="https://www.w3.org/TR/REC-html40">
    <!--Count the number of Corporate Authors (can only be 0 or 1)-->
       <xsl:variable name="cCorporateAuthors"> 
          <xsl:value-of select="count(b:Author/b:Author/b:Corporate)" /> 
@@ -417,7 +417,7 @@ Here's the complete final code.
 ```xml
 <?xml version="1.0" ?> 
 <!--List of the external resources that we are referencing-->
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<xsl:stylesheet version="1.0" xmlns:xsl="https://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:b="https://schemas.openxmlformats.org/officeDocument/2006/bibliography">
    <!--When the bibliography or citation is in your document, it's just HTML-->
    <xsl:output method="html" encoding="us-ascii"/> 
    <!--Match the root element, and dispatch to its children-->
@@ -478,7 +478,7 @@ Here's the complete final code.
    </xsl:template>
    <!--Defines the output of the entire Bibliography-->
    <xsl:template match="b:Bibliography"> 
-      <html xmlns="http://www.w3.org/TR/REC-html40"> 
+      <html xmlns="https://www.w3.org/TR/REC-html40"> 
          <body>
             <xsl:apply-templates select ="*">
             </xsl:apply-templates>
@@ -487,7 +487,7 @@ Here's the complete final code.
    </xsl:template>
    <!--Defines the output of the Citation-->
    <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']">
-      <html xmlns="http://www.w3.org/TR/REC-html40"> 
+      <html xmlns="https://www.w3.org/TR/REC-html40"> 
          <xsl:variable name="cCorporateAuthors"> 
             <xsl:value-of select="count(b:Author/b:Author/b:Corporate)" /> 
          </xsl:variable> 

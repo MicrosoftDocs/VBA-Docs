@@ -61,7 +61,7 @@ Set objcc = ActiveDocument.ContentControls.Add _
  (wdContentControlDate, ActiveDocument.Paragraphs(1).Range) 
  
 Set objNode = ActiveDocument.CustomXMLParts.SelectByNamespace _ 
- ("http://schemas.openxmlformats.org/package/2006/metadata/core-properties") _ 
+ ("https://schemas.openxmlformats.org/package/2006/metadata/core-properties") _ 
  (1).DocumentElement.ChildNodes(1) 
  
 Set objMap = objcc.XMLMapping 

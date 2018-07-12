@@ -175,7 +175,7 @@ The following procedure explains how to map a content control to a sample custom
 You can create a Web-based application that enables users to select a company name and generate a custom letter. The Web-based application retrieves customer data from a SQL Server database, opens the customer letter template document, and creates a new document that displays customer data based on a user selection. This Web-based application does not require the use of Word or VBA. You can use your favorite managed code (Visual Basic .NET or C#) language to build this application.
 
 > [!NOTE] 
-> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site: [Northwind database](http://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
+> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site: [Northwind database](https://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
 
 ### To create a server-side application that pulls data from a SQL Server database and generates a new document
 
@@ -199,7 +199,7 @@ You can create a Web-based application that enables users to select a company na
     
 5. Add a reference to WindowsBase.dll to your project: Right-click **References**, click **Add Reference**, click the **.NET** tab, select **WindowsBase**, and then click **OK**.
     
-6. Download and install the  [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&;displaylang=en)
+6. Download and install the  [Microsoft .NET Framework 4.0](https://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&;displaylang=en)
     
 7. Configure the assembly in the Web.config file as follows.
     
@@ -220,7 +220,7 @@ You can create a Web-based application that enables users to select a company na
 11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing `<html>` tags.
     
     ```html
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html xmlns="https://www.w3.org/1999/xhtml">
         <head runat="server">
             <title>Data-Driven Document Generation - SQL Server Sample</title>
         </head>
@@ -292,7 +292,7 @@ Public Class WebForm1
 
     End Sub
 
-    Private Const strRelRoot As String = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument"
+    Private Const strRelRoot As String = "https://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument"
 
     Private Sub CreateDocument()
         ' Get the template document file and create a stream from it
@@ -398,7 +398,7 @@ namespace SQLServerSample
 
         }
 
-        private const string strRelRoot = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument";
+        private const string strRelRoot = "https://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument";
 
         private void CreateDocument()
         {

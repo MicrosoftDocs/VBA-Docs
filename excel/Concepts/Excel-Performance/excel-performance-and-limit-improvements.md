@@ -137,7 +137,7 @@ With a wealth of statistical analysis functions, support for constructing comple
  
 One solution is to use Windows HPC Server 2008 to scale out Excel calculations across multiple nodes in a Windows high-performance computing (HPC) cluster in parallel. There are three methods for running Excel 2010 calculations in a Windows HPC Server 2008 based cluster: running Excel workbooks in a cluster, running Excel user-defined functions (UDFs) in a cluster, and using Excel as a cluster service-oriented architecture (SOA) client. 
 
-For more information about HPC Services for Excel 2010, see [Accelerating Excel 2010 with Windows HPC Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=a48ac6fe-7ea0-4314-97c7-d6875bc895c5).
+For more information about HPC Services for Excel 2010, see [Accelerating Excel 2010 with Windows HPC Server 2008 R2](https://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=a48ac6fe-7ea0-4314-97c7-d6875bc895c5).
 
 ## Conclusion
 <a name="office2016excelperf_Conclusion"> </a>

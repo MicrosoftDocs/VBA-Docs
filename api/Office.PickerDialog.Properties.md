@@ -41,7 +41,7 @@ Set objPickerDialog = Application.PickerDialog
 objPickerDialog.DataHandlerId = "{000CDF0A-0000-0000-C000-000000000046}" 
 objPickerDialog.Title = "Sample Picker Dialog" 
 Set objPickerProperties = objPickerDialog.Properties 
-Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPickerFieldtypeText) 
+Set objPickerProperty = objPickerProperties.Add("SiteUrl", "https://my", msoPickerFieldtypeText) 
  
 ' Show the Picker Dialog with no existing result. 
 Set objPickerResults = objPickerDialog.Show(True) 

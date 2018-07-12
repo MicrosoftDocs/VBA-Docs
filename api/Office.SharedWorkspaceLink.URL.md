@@ -33,7 +33,7 @@ String
 
 ## Remarks
 
-The URL property returns the address of the shared workspace in this format:  `http://server/sites/user/workspace/`. The URL property returns a URL-encoded string. For example, a space in the folder name is represented by %20. Use a simple function like the following example to replace this escaped character with a space. `Private Function URLDecode(URLtoDecode As String) As String URLDecode = Replace(URLtoDecode, "%20", " ") End Function`
+The URL property returns the address of the shared workspace in this format:  `https://server/sites/user/workspace/`. The URL property returns a URL-encoded string. For example, a space in the folder name is represented by %20. Use a simple function like the following example to replace this escaped character with a space. `Private Function URLDecode(URLtoDecode As String) As String URLDecode = Replace(URLtoDecode, "%20", " ") End Function`
 
 
 ## Example

@@ -61,7 +61,7 @@ To call the preceding  **CheckDocIn** subroutine, use the following subroutine a
  
 Sub DocIn() 
  Call CheckDocIn _ 
- (varDocCheckIn:="http://servername/workspace/drawing.vdx ") 
+ (varDocCheckIn:="https://servername/workspace/drawing.vdx ") 
 End Sub
 ```
 

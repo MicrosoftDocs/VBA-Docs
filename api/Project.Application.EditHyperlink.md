@@ -54,7 +54,7 @@ Sub Edit_Hyperlink()
  
  ViewApply Name:="&;Gantt Chart" 
  SelectRow Row:=2, RowRelative:=False 
- InsertHyperlink Name:="http://MSDN", Address:="http://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 
+ InsertHyperlink Name:="https://MSDN", Address:="https://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 
  
  EditHyperlink Name:="MyHyperLink" 
 End Sub

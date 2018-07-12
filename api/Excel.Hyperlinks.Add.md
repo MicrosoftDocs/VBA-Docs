@@ -53,7 +53,7 @@ This example adds a hyperlink to cell A5.
 ```vb
 With Worksheets(1) 
  .Hyperlinks.Add Anchor:=.Range("a5"), _ 
- Address:="http://example.microsoft.com", _ 
+ Address:="https://example.microsoft.com", _ 
  ScreenTip:="Microsoft Web Site", _ 
  TextToDisplay:="Microsoft" 
 End With

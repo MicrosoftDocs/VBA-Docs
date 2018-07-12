@@ -44,7 +44,7 @@ This example follows the specified URL address and displays the Microsoft home p
 
 ```vb
 ActiveDocument.FollowHyperlink _ 
- Address:="http://www.Microsoft.com", _ 
+ Address:="https://www.Microsoft.com", _ 
  NewWindow:=True, AddHistory:=True
 ```
 

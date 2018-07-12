@@ -81,7 +81,7 @@ Sub AddToFavorites_Example()
  
  'Assign a description and an address to the hyperlink. 
  vsoHyperlink.Description = "Web site" 
- vsoHyperlink.Address = "http://address " 
+ vsoHyperlink.Address = "https://address " 
  
  'Use the default name for the new favorite link. 
  vsoHyperlink.AddToFavorites 

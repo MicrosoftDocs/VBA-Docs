@@ -30,7 +30,7 @@ Returns the collection of all the validation rule sets in the document. Read-onl
 
 ## Example
 
-The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
+The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
 The following Visual Basic for Applications (VBA) example shows how to use the  **RuleSets** property to get the names of all the validation rule sets in the active document and print those names in the **Immediate** window.
 

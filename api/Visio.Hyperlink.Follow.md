@@ -45,7 +45,7 @@ Public Sub Follow_Example()
  
  Set vsoHyperlink = ActivePage.DrawRectangle(0,0,5,5).AddHyperlink 
  
- vsoHyperlink.Address = "http://address /" 
+ vsoHyperlink.Address = "https://address /" 
  vsoHyperlink.NewWindow = False 
  vsoHyperlink.Follow 
  

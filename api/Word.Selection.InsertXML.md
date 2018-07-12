@@ -46,7 +46,7 @@ The following example inserts the specified XML string into the document at the 
 Dim strXML As String 
  
 strXML = "<?xml version=""1.0""?><abc:books xmlns:abc=""urn:books"" " &; _ 
- "xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" " &; _ 
+ "xmlns:xsi=""https://www.w3.org/2001/XMLSchema-instance"" " &; _ 
  "xsi:schemaLocation=""urn:books books.xsd""><book>" &; _ 
  "<author>Matt Hink</author><title>Migration Paths of the Red " &; _ 
  "Breasted Robin</title><genre>non-fiction</genre>" &; _ 

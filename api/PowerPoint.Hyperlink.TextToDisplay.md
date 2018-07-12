@@ -46,7 +46,7 @@ With ActivePresentation.Slides(1).Shapes(2) _
     With .ActionSettings(ppMouseClick)
         .Action = ppActionHyperlink
         .Hyperlink.TextToDisplay = "Microsoft Home Page"
-        .Hyperlink.Address = "http://www.microsoft.com/"
+        .Hyperlink.Address = "https://www.microsoft.com/"
     End With
 End With
 ```

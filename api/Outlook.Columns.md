@@ -71,7 +71,7 @@ Sub RemoveAllAndAddColumns()
  
  'PR_ATTR_HIDDEN referenced by the MAPI proptag namespace 
  
- .Add ("http://schemas.microsoft.com/mapi/proptag/0x10F4000B") 
+ .Add ("https://schemas.microsoft.com/mapi/proptag/0x10F4000B") 
  
  End With 
  
@@ -87,7 +87,7 @@ Sub RemoveAllAndAddColumns()
  
  Debug.Print (oRow("LastModificationTime")) 
  
- Debug.Print (oRow("http://schemas.microsoft.com/mapi/proptag/0x10F4000B")) 
+ Debug.Print (oRow("https://schemas.microsoft.com/mapi/proptag/0x10F4000B")) 
  
  Loop 
  

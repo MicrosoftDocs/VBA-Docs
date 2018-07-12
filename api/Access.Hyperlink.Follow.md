@@ -60,7 +60,7 @@ Private Sub Form_Load()
     Set ctl = Me!Command0 
     With ctl 
         .Visible = False 
-        .HyperlinkAddress = "http://www.microsoft.com/" 
+        .HyperlinkAddress = "https://www.microsoft.com/" 
         .Hyperlink.Follow 
     End With 
 End Sub

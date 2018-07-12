@@ -40,7 +40,7 @@ Dim wrksht As Worksheet
  Set objListObj = wrksht.ListObjects(1) 
  
  arTarget(0) = "0" 
- arTarget(1) = "http://myteam/project1" 
+ arTarget(1) = "https://myteam/project1" 
  arTarget(2) = "1" 
  arTarget(3) = "List1" 
  

@@ -39,7 +39,7 @@ Use the  **[Add](Excel.Hyperlinks.Add.md)** method to create a hyperlink and add
 
 ```vb
 With Worksheets(1) 
- .Hyperlinks.Add .Range("E5"), "http://example.microsoft.com" 
+ .Hyperlinks.Add .Range("E5"), "https://example.microsoft.com" 
 End With
 ```
 

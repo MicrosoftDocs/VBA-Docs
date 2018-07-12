@@ -30,7 +30,7 @@ Opens the URL for information about sharing projects in the  **Share with Projec
 
 ## Remarks
 
-The  **ShareProjectOnline** method opens the same URL that you see when you choose **Learn More** in the **Share with Project Online** section in the Backstage view. The URL is `http://office.microsoft.com/projectserver/`.
+The  **ShareProjectOnline** method opens the same URL that you see when you choose **Learn More** in the **Share with Project Online** section in the Backstage view. The URL is `https://office.microsoft.com/projectserver/`.
 
 
  **Note**  The  **Share with Project Online** section in the Backstage view is visible only when the **Online** value exists as a **DWord** value = 1, in the `HKCU\Software\Microsoft\Office\15.0\MS Project\Options\General` key of the Windows registry. When the **Online** value = 0, the **Share with Project Online** section is hidden.

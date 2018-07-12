@@ -43,12 +43,12 @@ The following is an example of the XML schema definition.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:mstns="http://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
+<xs:schema xmlns:mstns="https://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
            xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" 
-           xmlns="http://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
+           xmlns="https://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
            attributeFormDefault="qualified" elementFormDefault="qualified" 
-           targetNamespace="http://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
-           id="ProjectWSSInfoDataSet" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+           targetNamespace="https://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
+           id="ProjectWSSInfoDataSet" xmlns:xs="https://www.w3.org/2001/XMLSchema">
   <xs:element msdata:IsDataSet="true" msdata:UseCurrentLocale="true" name="ProjectWSSInfoDataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">

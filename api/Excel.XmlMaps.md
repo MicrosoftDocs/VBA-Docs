@@ -25,7 +25,7 @@ Use the  **[Add](Excel.XmlMaps.Add.md)** method to add an XML map to a workbook.
 Sub AddXmlMap() 
  Dim strSchemaLocation As String 
  
- strSchemaLocation = "http://example.microsoft.com/schemas/CustomerData.xsd" 
+ strSchemaLocation = "https://example.microsoft.com/schemas/CustomerData.xsd" 
  ActiveWorkbook.XmlMaps.Add strSchemaLocation, "Root" 
 End Sub
 ```

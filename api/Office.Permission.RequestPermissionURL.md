@@ -28,7 +28,7 @@ Gets or sets the file or Web site URL to visit or the e-mail address to contact 
 The ** RequestPermissionURL** setting corresponds to the **Users can request additional permissions from** option in the permissions user interface. Use the **RequestPermissionURL** property to specify a file, a Web site, or an e-mail contact from which users can request, or learn how to request, additional permissions on the active document, for example:
 
 
-- A Web address:  `http://companyserver/request_permissions.asp`
+- A Web address:  `https://companyserver/request_permissions.asp`
     
 - A file:  `\\companyserver\share\requesting_permissions.txt`
     

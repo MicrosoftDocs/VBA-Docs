@@ -40,7 +40,7 @@ Using VBA to process the  **XML** member of the **DeliverablesGetByProject** res
 
 ## Example
 
-In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `http://ServerName/PWA/Simple`. The  **TestDeliverables** macro shows a message box that contains part of the XML result.
+In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `https://ServerName/PWA/Simple`. The  **TestDeliverables** macro shows a message box that contains part of the XML result.
 
 The  **projectGuid** value returned by the **GetServerProjectGuid** method includes braces around the GUID, for example, "{1b14e65c-5601-4565-acb9-3822078a17fb}". You can use a GUID value either with or without the braces.
 
@@ -81,7 +81,7 @@ The  **ows_** fields are defined in the SharePoint list. Some fields that you ma
 <DeliverableMasterDocument> 
  <Deliverables> 
  <Deliverable deliverableUid="6f8cb9a5-d9b8-496d-af90-1e88dc57f46a" projectUid="1b14e65c-5601-4565-acb9-3822078a17fb" 
- type="1" tpId="1" workspaceUri="http://ServerName/PWA/Simple" workspaceName="PWA/Simple" workspaceVServerUri="http://ServerName" 
+ type="1" tpId="1" workspaceUri="https://ServerName/PWA/Simple" workspaceName="PWA/Simple" workspaceVServerUri="https://ServerName" 
  listUid="168a6e6f-6993-4315-a593-7ffa21683e57" state="1"> 
  <Client linkedTaskUid="d3eaf532-9ab9-4eb2-8f85-fd41a1b5db0c" ows_ID="1" 
  ows_ContentTypeId="0x010074416DB49FB844B99C763FA7171E7D1F00001031A192BFCA4D83CA160D2BCAB735" 
@@ -98,7 +98,7 @@ The  **ows_** fields are defined in the SharePoint list. Some fields that you ma
  ows_ScopeId="1;#{73C1A12E-DBA2-4BE2-87EE-1FF5EF1494DD}" ows__EditMenuTableStart="1_.000" 
  ows__EditMenuTableStart2="1" ows__EditMenuTableEnd="1" ows_LinkFilenameNoMenu="1_.000" 
  ows_LinkFilename="1_.000" ows_LinkFilename2="1_.000" ows_ServerUrl="/PWA/Simple/Lists/Deliverables/1_.000" 
- ows_EncodedAbsUrl="http://jc2vm1/PWA/Simple/Lists/Deliverables/1_.000" ows_BaseName="1_" ows_MetaInfo="1;#" 
+ ows_EncodedAbsUrl="https://jc2vm1/PWA/Simple/Lists/Deliverables/1_.000" ows_BaseName="1_" ows_MetaInfo="1;#" 
  ows__Level="1" ows__IsCurrentVersion="1" ows_ItemChildCount="1;#0" ows_FolderChildCount="1;#0" 
  ows_CommitmentStart="2010-02-02 00:00:00" ows_CommitmentFinish="2010-02-02 00:00:00" ows_SuppressCreateEvent="1"/> 
  </Deliverable> 

@@ -30,12 +30,12 @@ This object corresponds to a subform control. The subform control embeds a form 
 Instead of creating the main form, and then adding the subform control to it, you can simultaneously create the main form and subform with a wizard . You can also create a subform by dragging an existing form or report from the Database window to the main form.
 
  **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
 
 
-- [Create a Subform with Alternating Color Rows](http://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
+- [Create a Subform with Alternating Color Rows](https://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
     
-- [Referring To Properties And Controls On Subforms](http://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
+- [Referring To Properties And Controls On Subforms](https://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
     
 
 ## Events

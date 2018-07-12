@@ -88,7 +88,7 @@ You can use XML markup to customize the ribbon. The following example shows the 
 
 
 ```xml
-<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
+<customUI xmlns="https://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 
       <tab idMso="TabHome"> 
@@ -152,7 +152,7 @@ When you create COM add-ins, you usually need a way for users to interact with t
  **Dynamically Updating the Ribbon**
 Callbacks that return properties of a control normally get called one time unless you specify that the call is to be repeated. You can requery your callback by implementing the onLoad callback in the CustomUI element. This callback gets called one time when the RibbonX markup file is successfully loaded, and then passes the code to an IRibbonUI object. The following code example gets the IRibbonUI object so that you can update your controls at runtime. 
 XML Markup:
- `<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="ribbonLoaded">`
+ `<customUI xmlns="https://schemas.microsoft.com/office/2006/01/customui" onLoad="ribbonLoaded">`
 In C#: Write a callback in your Connect class.
 
 

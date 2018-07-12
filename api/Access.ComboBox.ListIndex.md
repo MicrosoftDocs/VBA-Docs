@@ -36,10 +36,10 @@ List boxes also have a  **MultiSelect** property that allows the user to select 
 The  **ItemsSelected** collection also provides a way to access data in the selected rows of a list box or combo box.
 
  **Link provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](http://www.fmsinc.com/)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](https://www.fmsinc.com/)
 
 
-- [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
+- [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
 
 ## About the Contributors

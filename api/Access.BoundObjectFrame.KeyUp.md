@@ -31,7 +31,7 @@ The **KeyUp** event occurs when the user releases a key while a form or control 
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
 | _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.  
+<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.  
   </p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.  
   </p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.  
 </p></li></ul>|

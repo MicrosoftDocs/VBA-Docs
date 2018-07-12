@@ -17,7 +17,7 @@ The code example in this topic shows how to add custom components to the ribbon 
 2. Add the following XML markup to the file and then close and save the file. 
     
   ```xml
-  <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
+  <customUI xmlns="https://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 
       <tab id="CustomTab" label="My Tab"> 
@@ -64,7 +64,7 @@ End Sub
     
 10. Open the  **.rels** file and add the following line between the last **Relationship** tag and the **Relationships** tag. This creates a relationship between the document file and the customization file.
     
-     `<Relationship Id="someID" Type="http://schemas.microsoft.com/office/2006/relationships/ui/extensibility" Target="customUI/customUI.xml" />`
+     `<Relationship Id="someID" Type="https://schemas.microsoft.com/office/2006/relationships/ui/extensibility" Target="customUI/customUI.xml" />`
     
 11. Close and save the file.
     

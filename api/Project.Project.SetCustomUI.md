@@ -57,7 +57,7 @@ The following example adds  **New Tab** to the left of the **VIEW** tab in the r
 Sub AddCustomUI() 
     Dim customUiXml As String 
  
-    customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
+    customUiXml = "<mso:customUI xmlns:mso=""https://schemas.microsoft.com/office/2009/07/customui"">" _
         &; "<mso:ribbon><mso:tabs><mso:tab id=""myTab"" label=""New Tab"" " _
         &; "insertBeforeQ=""mso:TabView"">" _ 
         &; "<mso:group id=""group1"" label=""New Group"">" _ 
@@ -78,7 +78,7 @@ The following example removes all ribbon customizations, because the  **mso:ribb
 Sub RemoveCustomUI() 
     Dim customUiXml As String 
  
-    customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
+    customUiXml = "<mso:customUI xmlns:mso=""https://schemas.microsoft.com/office/2009/07/customui"">" _
         &; "<mso:ribbon></mso:ribbon></mso:customUI>" 
  
     ActiveProject.SetCustomUI (customUiXml) 

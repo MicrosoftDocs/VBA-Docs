@@ -35,7 +35,7 @@ Calling the  **Clear** method also resets the **[Validation.LastValidatedDate](V
 
 ## Example
 
-The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
+The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
 The following Visual Basic for Applications (VBA) example shows how to use the  **Clear** method to clear all validation issues from the active document.
 

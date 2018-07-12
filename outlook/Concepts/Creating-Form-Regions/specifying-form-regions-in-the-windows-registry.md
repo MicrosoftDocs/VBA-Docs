@@ -92,7 +92,7 @@ The following lists the content of map.xml:
 
 ```xml
 <?xml version="1.0"?> 
-<FormRegion xmlns="http://schemas.microsoft.com/office/outlook/12/formregion.xsd">   
+<FormRegion xmlns="https://schemas.microsoft.com/office/outlook/12/formregion.xsd">   
     <!-- Internal name --> 
     <name>MapTab</name> 
     <!-- Display name --> 

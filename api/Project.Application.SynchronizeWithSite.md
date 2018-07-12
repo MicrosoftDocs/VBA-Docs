@@ -55,12 +55,12 @@ The  **SynchronizeWithSite** method corresponds to **Sync with a SharePoint Task
 
 ## Example
 
-The following example creates a SharePoint tasks list named "Test Tasks List" on the site http://OurTeam.
+The following example creates a SharePoint tasks list named "Test Tasks List" on the site https://OurTeam.
 
 
 ```vb
 Sub CreateSharePointTasksList() 
-    Application.SynchronizeWithSite SiteURL:="http://OurTeam", _
+    Application.SynchronizeWithSite SiteURL:="https://OurTeam", _
         ListName:="Test Tasks List" 
 End Sub
 ```

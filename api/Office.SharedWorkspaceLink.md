@@ -42,7 +42,7 @@ The following example modifies the first link in the shared workspace site to po
     Set swsLink = ActiveWorkbook.SharedWorkspace.Links(1) 
     With swsLink 
         .Description = "MSDN Home Page" 
-        .URL = "http://msdn.microsoft.com/" 
+        .URL = "https://msdn.microsoft.com/" 
         .Notes = "My favorite site for developers!" 
         .Save 
     End With 

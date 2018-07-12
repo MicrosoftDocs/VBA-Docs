@@ -38,17 +38,17 @@ You can use an unbound list box to store a value that you can use with another c
 If you don't have room on your form to display a list box, or if you want to be able to type new values as well as select values from a list, use a combo box instead of a list box.
 
  **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
 
 
 
-- [Create a Query that uses a Multi-select Listbox as Criteria](http://www.utteraccess.com/forum/Creating-Query-Multi-t414388.html)
+- [Create a Query that uses a Multi-select Listbox as Criteria](https://www.utteraccess.com/forum/Creating-Query-Multi-t414388.html)
     
-- [ListBox Picker](http://www.utteraccess.com/forum/ListBox-Picker-t426483.html)
+- [ListBox Picker](https://www.utteraccess.com/forum/ListBox-Picker-t426483.html)
     
-- [Move/Change Order of List Box Items with Up/Down Buttons](http://www.utteraccess.com/wiki/index.php/List_Box:_Reorder_Items)
+- [Move/Change Order of List Box Items with Up/Down Buttons](https://www.utteraccess.com/wiki/index.php/List_Box:_Reorder_Items)
     
-- [Populate a Listbox with Files from a Directory](http://www.utteraccess.com/forum/Populate-Listbox-Files-t1209291.html)
+- [Populate a Listbox with Files from a Directory](https://www.utteraccess.com/forum/Populate-Listbox-Files-t1209291.html)
     
 
 ## Example
@@ -60,7 +60,7 @@ In this example, a list box named ColorID displays a list of colors stored in th
 To do this, use the Change event of the text box to build a SQL statement that will serve as the new RowSource of the list box.
 
  **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
 
 
 

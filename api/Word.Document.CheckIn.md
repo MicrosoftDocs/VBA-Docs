@@ -58,14 +58,14 @@ Sub CheckInOut(docCheckIn As String)
 End Sub
 ```
 
-To call the CheckInOut subroutine, use the following subroutine and replace  _"http://servername/workspace/report.doc"_ with the file name of an actual file located on the server mentioned in the Remarks section above.
+To call the CheckInOut subroutine, use the following subroutine and replace  _"https://servername/workspace/report.doc"_ with the file name of an actual file located on the server mentioned in the Remarks section above.
 
 
 
 
 ```vb
 Sub CheckDocInOut() 
- Call CheckInOut (docCheckIn:="http://servername/workspace/report.doc") 
+ Call CheckInOut (docCheckIn:="https://servername/workspace/report.doc") 
 End Sub
 ```
 

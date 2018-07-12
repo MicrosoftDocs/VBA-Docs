@@ -50,7 +50,7 @@ The following example opens a project from a task list named TestTasks that is i
 
 ```vb
 Sub OpenSharePointTaskList() 
-    OpenFromSharePoint siteurl:="http://ServerName/PWA/Simple", ListName:="TestTasks" 
+    OpenFromSharePoint siteurl:="https://ServerName/PWA/Simple", ListName:="TestTasks" 
 End Sub
 ```
 

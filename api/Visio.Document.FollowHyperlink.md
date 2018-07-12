@@ -77,7 +77,7 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 Public Sub FollowHyperlink_Example() 
  
  'Navigate to the Microsoft Web site and view the page in a new browser window. 
- ThisDocument.FollowHyperlink "http://www.microsoft.com", "", , , 1 
+ ThisDocument.FollowHyperlink "https://www.microsoft.com", "", , , 1 
  
  'Navigate to the second page of the current document. 
  ThisDocument.FollowHyperlink "", "Page-2" 

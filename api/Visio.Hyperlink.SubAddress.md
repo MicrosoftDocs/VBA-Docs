@@ -74,7 +74,7 @@ Sub SubAddress_Example()
  Debug.Print vsoHyperlink.CreateURL(True) 
  
  'Return an absolute address. 
- vsoHyperlink.Address = "http://address " 
+ vsoHyperlink.Address = "https://address " 
  
  'Return an absolute subaddress. 
  vsoHyperlink.SubAddress = "../subaddress " 
