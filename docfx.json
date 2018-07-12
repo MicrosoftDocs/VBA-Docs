@@ -23,7 +23,7 @@
         "files": [
           "**/*.png",
           "**/*.jpg",
-	  "**/*.gif"
+          "**/*.gif"
         ],
         "exclude": [
           "**/obj/**",
@@ -38,53 +38,51 @@
     "globalMetadata": {
       "breadcrumb_path": "/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-	  "ms.suite": "office",
-	  "ms.technology": "vba",
-	  "ms.author": "o365devx",
-	  "author": "o365devx",
-	  "ms.topic": "reference"
+      "ms.suite": "office",
+      "ms.date": "7/12/2018",
+      "ms.technology": "vba",
+      "ms.author": "o365devx",
+      "author": "o365devx",
+      "ms.topic": "reference"
     },
     "fileMetadata": {
-      "ms.topic":
-       {
-         "api/**.md": "reference",
-         "access/**.md": "conceptual",
-		 "excel/**.md": "conceptual",
-		 "Language/**.md": "conceptual",
-		 "Library-Reference/**.md": "conceptual",
-		 "Office-Mac/**.md": "conceptual",
-		 "outlook/**.md": "conceptual",
-		 "powerpoint/**.md": "conceptual",
-		 "project/**.md": "conceptual",
-		 "publisher/**.md": "conceptual",
-		 "visio/**.md": "conceptual",
-		 "word/**.md": "conceptual"
-       },
-	   "ms.prod": 
-       { 
-         "api/Access.*.md": "access",
-         "api/Excel.*.md": "excel",
-         "api/Outlook.*.md": "outlook",
-         "api/PowerPoint.*.md": "powerpoint",
-         "api/Project.*.md": "project",
-         "api/Publisher.*.md": "publisher",
-         "api/Visio.*.md": "visio",
-         "api/Word.*.md": "word",
-         "api/Office.*.md": "office",
-		 "api/overview/**.md": "vba",
-		 
-		 "access/**.md": "access",
-		 "excel/**.md": "excel",
-		 "Language/**.md": "office",
-		 "Library-Reference/**.md": "office",
-		 "Office-Mac/**.md": "office",
-		 "outlook/**.md": "outlook",
-		 "powerpoint/**.md": "powerpoint",
-		 "project/**.md": "project",
-		 "publisher/**.md": "publisher",
-		 "visio/**.md": "visio",
-		 "word/**.md": "word"
-       }
+      "ms.topic": {
+        "api/**.md": "reference",
+        "access/**.md": "conceptual",
+        "excel/**.md": "conceptual",
+        "Language/**.md": "conceptual",
+        "Library-Reference/**.md": "conceptual",
+        "Office-Mac/**.md": "conceptual",
+        "outlook/**.md": "conceptual",
+        "powerpoint/**.md": "conceptual",
+        "project/**.md": "conceptual",
+        "publisher/**.md": "conceptual",
+        "visio/**.md": "conceptual",
+        "word/**.md": "conceptual"
+      },
+      "ms.prod": {
+        "api/Access.*.md": "access",
+        "api/Excel.*.md": "excel",
+        "api/Outlook.*.md": "outlook",
+        "api/PowerPoint.*.md": "powerpoint",
+        "api/Project.*.md": "project",
+        "api/Publisher.*.md": "publisher",
+        "api/Visio.*.md": "visio",
+        "api/Word.*.md": "word",
+        "api/Office.*.md": "office",
+        "api/overview/**.md": "vba",
+        "access/**.md": "access",
+        "excel/**.md": "excel",
+        "Language/**.md": "office",
+        "Library-Reference/**.md": "office",
+        "Office-Mac/**.md": "office",
+        "outlook/**.md": "outlook",
+        "powerpoint/**.md": "powerpoint",
+        "project/**.md": "project",
+        "publisher/**.md": "publisher",
+        "visio/**.md": "visio",
+        "word/**.md": "word"
+      }
     },
     "template": [],
     "dest": "VBA-Docs",

@@ -163,7 +163,6 @@ This section contains documentation for the enumerations in the Excel object mod
 | **[XlPageBreak Enumeration](Excel.XlPageBreak.md)**                               |
 | **[XlPageBreakExtent Enumeration](Excel.XlPageBreakExtent.md)**                   |
 | **[XlPageOrientation Enumeration](Excel.XlPageOrientation.md)**                   |
-| **[XlPageOrientation Enumeration (Excel)](#.md)**                                             |
 | **[XlPaperSize Enumeration](Excel.XlPaperSize.md)**                               |
 | **[XlParameterDataType Enumeration](Excel.XlParameterDataType.md)**               |
 | **[XlParameterType Enumeration](Excel.XlParameterType.md)**                       |

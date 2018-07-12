@@ -5,7 +5,6 @@ ms.assetid: b4092c71-a383-f1db-8d68-de69e8d8a86b
 ms.date: 06/08/2017
 ---
 
-
 # Working with Content Controls
 
 ## What Are Content Controls?
@@ -23,12 +22,9 @@ Content controls are bounded and potentially labeled regions in a document that 
     
 The easiest way to create a content control is through the user interface (although you can also create them programmatically). To create a content control through the user interface (UI), select the content that you want to turn into a content control (for example, some text or a picture) and then choose the content control type you want from the content controls section of the Developer ribbon. This creates a content control around the selected content.
 
-
 ## Content Controls in the Word Object Model
 
 The following table shows the objects in the Word object model that relate to content controls.
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -38,7 +34,6 @@ The following table shows the objects in the Word object model that relate to co
 | **[ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)**|Use the **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
 
 Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
-
 
 > [!NOTE] 
 > For a complete list of all properties and methods of the **ContentControl** object, see [Content Controls](https://msdn.microsoft.com/en-us/library/bb157891.aspx).
@@ -60,8 +55,6 @@ Each of these objects or collections has methods and properties that allow you t
 
 There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](../../../api/Word.WdContentControlType.md)**.
 
-
-
 |**Content Control Type**|**Description**|**WdContentControlType Constant**|
 |:-----|:-----|:-----|
 ||A checkbox.| **wdContentControlCheckBox**|
@@ -78,8 +71,6 @@ There are eight different types of content controls that you can add to a docume
 
 In addition to the properties and methods available with the content control object model in Word, you can also use several events that allow you to run code when adding or removing a content control or when a user edits a content control. The following list describes each of the events and when the event code runs. All of these events are members of the **Document** object.
 
-
-
 |**Event Name**|**Description**|
 |:-----|:-----|
 | **[ContentControlAfterAdd](../../../api/Word.Document.ContentControlAfterAdd.md)**|Occurs after adding a new content control to a document. This event runs whether the user adds the content control by using the tools in the UI or adds them by using code.|
@@ -92,7 +83,6 @@ In addition to the properties and methods available with the content control obj
 ## Working with the Code
 
 Whether you want to add a content control, delete a content control, or access and manipulate existing content controls, you can do it with code. The following sections are just a few samples of what you can do.
-
 
 ## Adding a Content Control
 
@@ -163,5 +153,3 @@ End Sub
 ```
 
 These are just a few of the ways that you can use the object model to manipulate content controls in your documents. For more examples, see the  [How To](how-do-i-word-vba-reference.md) section.
-
-

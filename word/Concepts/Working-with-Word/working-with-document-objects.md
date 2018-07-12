@@ -5,7 +5,6 @@ ms.assetid: af304f65-6cdd-ff7d-a81f-cce0161f2b47
 ms.date: 06/08/2017
 ---
 
-
 # Working with Document Objects
 
 In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the following tasks:
@@ -94,7 +93,7 @@ To save a single document, use the **[SaveAs2](../../../api/Word.SaveAs2.md)** m
 
 ```vb
 Sub SaveNewDocument() 
-    ActiveDocument.SaveAs FileName:="Temp.doc" 
+    ActiveDocument.SaveAs FileName:="Temp.doc"
 End Sub
 ```
 
@@ -105,35 +104,28 @@ The **_FileName_** argument can include only the file name or the complete path 
 
 To close a single document, use the **[Close](../../../api/Word.Document.Close(method).md)** method with a **Document** object. The following instruction closes and saves the document named Sales.doc.
 
-
 ```vb
-Sub CloseDocument() 
+Sub CloseDocument()
     Documents("Sales.doc").Close SaveChanges:=wdSaveChanges 
 End Sub
 ```
 
 You can close all open documents by applying the **[Close](../../../api/Word.Documents.Close.md)** method of the **Documents** collection. The following instruction closes all documents without saving changes.
 
-
-
-
 ```vb
 Sub CloseAllDocuments() 
-    Documents.Close SaveChanges:=wdDoNotSaveChanges 
+    Documents.Close SaveChanges:=wdDoNotSaveChanges
 End Sub
 ```
 
 The following example prompts the user to save each document before the document is closed.
 
-
-
-
 ```vb
-Sub PromptToSaveAndClose() 
-    Dim doc As Document 
+Sub PromptToSaveAndClose()
+    Dim doc As Document
     For Each doc In Documents 
-        doc.Close SaveChanges:=wdPromptToSaveChanges 
-    Next 
+        doc.Close SaveChanges:=wdPromptToSaveChanges
+    Next
 End Sub
 ```
 
@@ -189,5 +181,3 @@ Sub ActiveDocumentName()
     End If 
 End Sub
 ```
-
-
