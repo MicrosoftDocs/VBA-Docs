@@ -28,11 +28,6 @@ End Sub
 
 ## See also
 
-
- [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
-
-
-
- <br>
- [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
+- [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
+- [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
 
