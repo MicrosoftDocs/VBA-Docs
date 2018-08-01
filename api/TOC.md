@@ -10323,7 +10323,7 @@
 ###### [HasDataLabel](Excel.hasDataLabel.md)
 ###### [HasDataLabels](Excel.HasDataLabels.md)
 ###### [HasDataTable](Excel.hasDataTable.md)
-###### [HasDisplayUnitLabel]Excel.(hasDisplayUnitLabel.md)
+###### [HasDisplayUnitLabel](Excel.hasDisplayUnitLabel.md)
 ###### [HasDropLines](Excel.hasDropLines.md)
 ###### [HasErrorBars](Excel.HasErrorBars.md)
 ###### [HasHiLoLines](Excel.HasHiLoLines.md)
