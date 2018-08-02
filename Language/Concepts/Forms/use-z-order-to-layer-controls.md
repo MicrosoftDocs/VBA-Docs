@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Use z-order to layer controls
 
-To place a control at the front or back of the [z-order](../Getting-Started/vbe-glossary.md):
+To place a control at the front or back of the [z-order](../../Glossary/vbe-glossary.md):
 
 
 

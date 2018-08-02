@@ -20,7 +20,7 @@ Creates a new series. Returns a  **[Series](Excel.Series(object).md)** object th
 
  _expression_. `NewSeries`
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
+ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
 ### Return Value

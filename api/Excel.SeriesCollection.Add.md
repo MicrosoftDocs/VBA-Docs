@@ -20,7 +20,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
  _expression_. `Add`( `_Source_` , `_Rowcol_` , `_SeriesLabels_` , `_CategoryLabels_` , `_Replace_` )
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
+ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
 ### Parameters
