@@ -17,12 +17,12 @@ ms.date: 06/08/2017
 Returns a string in which a specified substring has been replaced with another substring a specified number of times.
  **Syntax**
  **Replace( _expression_,** **_find_,** **_replace_** [ **,** **_start_** [ **,** **_count_** [ **,** **_compare_** ]]] **)**
-The  **Replace** function syntax has these[named arguments](vbe-glossary.md):
+The  **Replace** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_expression_**|Required. [String expression](vbe-glossary.md) containing substring to replace.|
+|**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md) containing substring to replace.|
 |**_find_**|Required. Substring being searched for.|
 |**_replace_**|Required. Replacement substring.|
 |**_start_**|Optional. Position within  **_expression_** where substring search is to begin. If omitted, 1 is assumed.|

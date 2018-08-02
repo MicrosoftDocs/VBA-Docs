@@ -18,7 +18,7 @@ Changes the current directory or folder.
 
 **ChDir** _path_
 
-The required  _path_ [argument](vbe-glossary.md) is a [string expression](vbe-glossary.md) that identifies which directory or folder becomes the new default directory or folder. The _path_ may include the drive. If no drive is specified, **ChDir** changes the default directory or folder on the current drive.
+The required  _path_ [argument](../../Glossary/vbe-glossary.md) is a [string expression](../../Glossary/vbe-glossary.md) that identifies which directory or folder becomes the new default directory or folder. The _path_ may include the drive. If no drive is specified, **ChDir** changes the default directory or folder on the current drive.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Specify the height, in [points](vbe-glossary.md), of the total area that can be viewed by moving the scroll bars on the control, form, or page.
+Specify the height, in [points](../../Glossary/vbe-glossary.md), of the total area that can be viewed by moving the scroll bars on the control, form, or page.
  **Syntax**
  _object_. **ScrollHeight** [= _Single_ ]
  _object_. **ScrollWidth** [= _Single_ ]

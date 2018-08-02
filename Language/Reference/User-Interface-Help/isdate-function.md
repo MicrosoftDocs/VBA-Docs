@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns  **True** if the expression is a date or is recognizable as a valid date or time; otherwise, it returns **False**.
  **Syntax**
  **IsDate(**_expression_**)**
-The required  _expression_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing a[date expression](vbe-glossary.md) or[string expression](vbe-glossary.md) recognizable as a date or time.
+The required  _expression_[argument](../../Glossary/vbe-glossary.md) is a[Variant](../../Glossary/vbe-glossary.md) containing a[date expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) recognizable as a date or time.
  **Remarks**
 In Microsoft Windows, the range of valid dates is January 1, 100 A.D. through December 31, 9999 A.D.; the ranges vary among operating systems.
 

@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](vbe-glossary.md) specifying the current Input Method Editor (IME) mode of Microsoft Windows; available in East Asian versions only.
+Returns an [Integer](../../Glossary/vbe-glossary.md) specifying the current Input Method Editor (IME) mode of Microsoft Windows; available in East Asian versions only.
  **Syntax**
  **IMEStatus**
  **Return Values**
-The return values for the Japanese [locale](vbe-glossary.md) are as follows:
+The return values for the Japanese [locale](../../Glossary/vbe-glossary.md) are as follows:
 
 
 |**Constant**|**Value**|**Description**|

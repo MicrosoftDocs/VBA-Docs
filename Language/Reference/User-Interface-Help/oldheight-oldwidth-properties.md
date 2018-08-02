@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the previous height or width, in [points](vbe-glossary.md), of the control.
+Returns the previous height or width, in [points](../../Glossary/vbe-glossary.md), of the control.
  **Syntax**
  _object_. **OldHeight**
  _object_. **OldWidth**

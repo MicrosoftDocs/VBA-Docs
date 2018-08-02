@@ -16,13 +16,13 @@ ms.date: 06/08/2017
 Returns a  **Variant** (**Integer**) containing a whole number representing the day of the week.
  **Syntax**
  **Weekday(**_date_, [ **_firstdayofweek_** ] **)**
-The  **Weekday** function syntax has these[named arguments](vbe-glossary.md):
+The  **Weekday** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_date_**|Required. [Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a date. If  **_date_** contains[Null](vbe-glossary.md),  **Null** is returned.|
-|**_firstdayofweek_**|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, **vbSunday** is assumed.|
+|**_date_**|Required. [Variant](../../Glossary/vbe-glossary.md), [numeric expression](../../Glossary/vbe-glossary.md), [string expression](../../Glossary/vbe-glossary.md), or any combination, that can represent a date. If  **_date_** contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.|
+|**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md) that specifies the first day of the week. If not specified, **vbSunday** is assumed.|
 
  **Settings**
 The  **_firstdayofweek_** argument has these settings:

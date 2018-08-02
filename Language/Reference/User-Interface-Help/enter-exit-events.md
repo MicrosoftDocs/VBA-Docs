@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Enter occurs before a control actually receives the [focus](vbe-glossary.md) from a control on the same form. Exit occurs immediately before a control loses the focus to another control on the same form.
+Enter occurs before a control actually receives the [focus](../../Glossary/vbe-glossary.md) from a control on the same form. Exit occurs immediately before a control loses the focus to another control on the same form.
  **Syntax**
  **Private Sub**_object_ _**Enter( )**
  **Private Sub**_object_ _**Exit( ByVal**_Cancel_**As MSForms.ReturnBoolean)**

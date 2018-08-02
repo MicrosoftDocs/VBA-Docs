@@ -21,8 +21,8 @@ The  **SaveAs** method syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _newfilename_|Required. A [string expression](vbe-glossary.md) specifying the new filename for the component to be saved.|
+| _object_|An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _newfilename_|Required. A [string expression](../../Glossary/vbe-glossary.md) specifying the new filename for the component to be saved.|
 
  **Remarks**
 If a new path name is given, it is used. Otherwise, the old path name is used. If the new filename is invalid or refers to a read-only file, an error occurs.

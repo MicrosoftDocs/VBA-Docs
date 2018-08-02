@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Identifies and allows manipulation of the control that has the [focus](vbe-glossary.md).
+Identifies and allows manipulation of the control that has the [focus](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_. **ActiveControl**
 The  **ActiveControl** property syntax has these parts:

@@ -152,4 +152,4 @@ Sub SetPlaceholderText()
 End Sub
 ```
 
-These are just a few of the ways that you can use the object model to manipulate content controls in your documents. For more examples, see the  [How To](how-do-i-word-vba-reference.md) section.
+These are just a few of the ways that you can use the object model to manipulate content controls in your documents. For more examples, see the  [How To](../Objects-Properties-Methods/how-do-i-word-vba-reference.md) section.

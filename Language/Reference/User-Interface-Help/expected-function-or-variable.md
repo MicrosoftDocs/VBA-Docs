@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Expected Function or variable
 
-The syntax of your statement indicates a [variable](vbe-glossary.md) or function call. This error has the following cause and solution:
+The syntax of your statement indicates a [variable](../../Glossary/vbe-glossary.md) or function call. This error has the following cause and solution:
 
 
 - The name isn't that of a known variable or  **Function** procedure.
     
-    Check the spelling of the name. Make sure that any variable or function with that name is visible in the portion of the program from which you are referencing it. For example, if a function is defined as  **Private** or a variable isn't defined as **Public**, it's only visible within its own[module](vbe-glossary.md).
+    Check the spelling of the name. Make sure that any variable or function with that name is visible in the portion of the program from which you are referencing it. For example, if a function is defined as  **Private** or a variable isn't defined as **Public**, it's only visible within its own[module](../../Glossary/vbe-glossary.md).
     
-- You are trying to inappropriately assign a value to a [procedure](vbe-glossary.md) name.
+- You are trying to inappropriately assign a value to a [procedure](../../Glossary/vbe-glossary.md) name.
     
     For example if  `MySub` is a **Sub** procedure, the following code generates this error:
     

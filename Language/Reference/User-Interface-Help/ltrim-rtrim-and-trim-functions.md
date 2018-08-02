@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) containing a copy of a specified string with
  **LTrim** ( _string_ )
  **RTrim** ( _string_ )
  **Trim** ( _string_ )
-The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
 
 ## Example
 

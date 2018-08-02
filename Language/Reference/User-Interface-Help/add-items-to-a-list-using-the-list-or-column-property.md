@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Create a multicolumn  **ListBox** or **ComboBox**.
     
-2. Create a two-dimensional [array](vbe-glossary.md) that contains the items you want to put in the list.
+2. Create a two-dimensional [array](../../Glossary/vbe-glossary.md) that contains the items you want to put in the list.
     
 3. Set the  **ColumnCount** property of the **ListBox** or **ComboBox** to match the number of entries in the list.
     

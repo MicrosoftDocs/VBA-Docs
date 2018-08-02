@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-The height or width, in [points](vbe-glossary.md), of an object.
+The height or width, in [points](../../Glossary/vbe-glossary.md), of an object.
  **Syntax**
  _object_. **Height** [= _Single_ ]
  _object_. **Width** [= _Single_ ]

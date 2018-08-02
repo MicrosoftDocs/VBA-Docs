@@ -41,6 +41,6 @@ Sub IndentParagraph()
 End Sub
 ```
 
-You can, however, modify the recorded macro to work with  **[Range](../../../api/Word.Range.md)** objects. For more information, see [Revising Recorded Visual Basic Macros](revising-recorded-visual-basic-macros.md).
+You can, however, modify the recorded macro to work with  **[Range](../../../api/Word.Range.md)** objects. For more information, see [Revising Recorded Visual Basic Macros](../Customizing-Word/revising-recorded-visual-basic-macros.md).
 
 

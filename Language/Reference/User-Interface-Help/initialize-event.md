@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 Occurs after an object is loaded, but before it's shown.
  **Syntax**
  **Private Sub**_object_**_Initialize()**
-The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-The Initialize event is typically used to prepare an application or  **UserForm** for use.[Variables](vbe-glossary.md) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
+The Initialize event is typically used to prepare an application or  **UserForm** for use.[Variables](../../Glossary/vbe-glossary.md) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
 
 ## Example
 

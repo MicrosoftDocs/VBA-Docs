@@ -15,6 +15,6 @@ ms.date: 06/08/2017
     
 - [Set Properties of ActiveX Data Objects in Visual Basic](../ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
     
-- [Create an ADO Connection String](create-an-ado-connection-string.md)
+- [Create an ADO Connection String](../ActiveX-Data-Objects/create-an-ado-connection-string.md)
     
 

@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

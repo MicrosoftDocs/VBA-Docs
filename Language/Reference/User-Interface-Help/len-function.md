@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) containing the number of characters in a string or the number of bytes required to store a[variable](vbe-glossary.md).
+Returns a [Long](../../Glossary/vbe-glossary.md) containing the number of characters in a string or the number of bytes required to store a[variable](../../Glossary/vbe-glossary.md).
  **Syntax**
  **Len** ( _string_ | _varname_ )
 The  **Len** function syntax has these parts:
@@ -21,16 +21,16 @@ The  **Len** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _string_|Any valid [string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), Null is returned.|
-| _Varname_|Any valid [variable](vbe-glossary.md) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a[Variant](vbe-glossary.md),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
+| _string_|Any valid [string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md), Null is returned.|
+| _Varname_|Any valid [variable](../../Glossary/vbe-glossary.md) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a[Variant](../../Glossary/vbe-glossary.md),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
 
  **Remarks**
-One (and only one) of the two possible [arguments](vbe-glossary.md) must be specified. With[user-defined types](vbe-glossary.md),  **Len** returns the size as it will be written to the file.
+One (and only one) of the two possible [arguments](../../Glossary/vbe-glossary.md) must be specified. With[user-defined types](../../Glossary/vbe-glossary.md),  **Len** returns the size as it will be written to the file.
 
  **Note**  Use the  **LenB** function with byte data contained in a string, as in double-byte character set (DBCS) languages. Instead of returning the number of characters in a string, **LenB** returns the number of bytes used to represent that string. With user-defined types, **LenB** returns the in-memory size, including any padding between elements. For sample code that uses **LenB**, see the second example in the example topic.
 
 
- **Note**   **Len** may not be able to determine the actual number of storage bytes required when used with variable-length strings in user-defined[data types](vbe-glossary.md).
+ **Note**   **Len** may not be able to determine the actual number of storage bytes required when used with variable-length strings in user-defined[data types](../../Glossary/vbe-glossary.md).
 
 
 ## Example

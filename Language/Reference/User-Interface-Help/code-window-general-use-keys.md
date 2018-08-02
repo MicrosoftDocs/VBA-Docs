@@ -18,8 +18,8 @@ Use these key combinations in the  **Code** window:
 |**Press**|**To**|
 |:-----|:-----|
 |F1|Get context-sensitive Help on functions, statements, methods, properties, or events.|
-|F2|Display the [Object Browser](vbe-glossary.md).|
-|F9|Set or remove a [breakpoint](vbe-glossary.md).|
+|F2|Display the [Object Browser](../../Glossary/vbe-glossary.md).|
+|F9|Set or remove a [breakpoint](../../Glossary/vbe-glossary.md).|
 |CTRL+SHIFT+F9|Clear all breakpoints.|
 |F5|Run a Sub/UserForm or macro.|
 |F8|Execute code one line at a time (single step).|

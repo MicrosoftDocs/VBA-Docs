@@ -50,7 +50,7 @@ The  **Add** method syntax has these parts:
 |**ToggleButton**|Forms.ToggleButton.1|
 
  **Remarks**
-For a  **MultiPage** control, the **Add** method returns a **Page** object. For a **TabStrip**, it returns a **Tab** object. The index value for the first **Page** or **Tab** of a[collection](vbe-glossary.md) is 0, the value for the second **Page** or **Tab** is 1, and so on.
+For a  **MultiPage** control, the **Add** method returns a **Page** object. For a **TabStrip**, it returns a **Tab** object. The index value for the first **Page** or **Tab** of a[collection](../../Glossary/vbe-glossary.md) is 0, the value for the second **Page** or **Tab** is 1, and so on.
 For the  **Controls** collection of an object, the **Add** method returns a control corresponding to the specified _ProgID_. The AddControl event occurs after the control is added.
 You can add a control to a user form's  **Controls** collection at design time, but you must use the **Designer** property of the Microsoft Visual Basic for Applications Extensibility Library to do so. The **Designer** property returns the **UserForm** object.
 The following syntax will return the  **Text** property of the specified control:
@@ -73,6 +73,6 @@ userform1!thebox.text
 ```
 
 
- **Note**  You can change a control's  **Name** property at[run time](vbe-glossary.md) only if you added that control at run time with the **Add** method.
+ **Note**  You can change a control's  **Name** property at[run time](../../Glossary/vbe-glossary.md) only if you added that control at run time with the **Add** method.
 
 

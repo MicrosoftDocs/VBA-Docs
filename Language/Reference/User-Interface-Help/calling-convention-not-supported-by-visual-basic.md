@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Calling convention not supported by Visual Basic
 
-Visual Basic doesn't support all [procedure](vbe-glossary.md) calling conventions, which specify the order in which[arguments](vbe-glossary.md) must be passed and the way that argument types must be specified. This error has the following cause and solution:
+Visual Basic doesn't support all [procedure](../../Glossary/vbe-glossary.md) calling conventions, which specify the order in which[arguments](../../Glossary/vbe-glossary.md) must be passed and the way that argument types must be specified. This error has the following cause and solution:
 
 
 

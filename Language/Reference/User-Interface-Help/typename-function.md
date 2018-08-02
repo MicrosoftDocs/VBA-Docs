@@ -11,35 +11,35 @@ ms.date: 04/27/2018
 
 # TypeName Function
 
-Returns a  **String** that provides information about a [variable](vbe-glossary.md).</br></br>
+Returns a  **String** that provides information about a [variable](../../Glossary/vbe-glossary.md).</br></br>
 ## Syntax
 **TypeName(**_varname_**)**</br>
-The required _varname_ [argument](vbe-glossary.md) is a [Variant](vbe-glossary.md) containing any variable except a variable of a [user-defined type](vbe-glossary.md).
+The required _varname_ [argument](../../Glossary/vbe-glossary.md) is a [Variant](../../Glossary/vbe-glossary.md) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md).
 ## Remarks
 The string returned by **TypeName** can be any one of the following:</br>
 
 |**String returned**|**Variable**|
 |:-----|:-----|
-|[object type](vbe-glossary.md)|An object whose type is  _objecttype_|
-|[Byte](vbe-glossary.md)|Byte value|
-|[Integer](vbe-glossary.md)|Integer|
-|[Long](vbe-glossary.md)|Long integer|
-|[Single](vbe-glossary.md)|Single-precision floating-point number|
-|[Double](vbe-glossary.md)|Double-precision floating-point number|
-|[Currency](vbe-glossary.md)|Currency value|
-|[Decimal](vbe-glossary.md)|Decimal value|
-|[Date](vbe-glossary.md)|Date value|
-|[String](vbe-glossary.md)|String|
-|[Boolean](vbe-glossary.md)|Boolean value|
+|[object type](../../Glossary/vbe-glossary.md)|An object whose type is  _objecttype_|
+|[Byte](../../Glossary/vbe-glossary.md)|Byte value|
+|[Integer](../../Glossary/vbe-glossary.md)|Integer|
+|[Long](../../Glossary/vbe-glossary.md)|Long integer|
+|[Single](../../Glossary/vbe-glossary.md)|Single-precision floating-point number|
+|[Double](../../Glossary/vbe-glossary.md)|Double-precision floating-point number|
+|[Currency](../../Glossary/vbe-glossary.md)|Currency value|
+|[Decimal](../../Glossary/vbe-glossary.md)|Decimal value|
+|[Date](../../Glossary/vbe-glossary.md)|Date value|
+|[String](../../Glossary/vbe-glossary.md)|String|
+|[Boolean](../../Glossary/vbe-glossary.md)|Boolean value|
 |**Error**|An error value|
-|[Empty](vbe-glossary.md)|Uninitialized|
-|[Null](vbe-glossary.md)|No valid data|
-|[Object](vbe-glossary.md)|An object|
+|[Empty](../../Glossary/vbe-glossary.md)|Uninitialized|
+|[Null](../../Glossary/vbe-glossary.md)|No valid data|
+|[Object](../../Glossary/vbe-glossary.md)|An object|
 |Unknown|An object whose type is unknown|
 |**Nothing**|Object variable that doesn't refer to an object|
 
 <br>
-If  _varname_ is an [array](vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
+If  _varname_ is an [array](../../Glossary/vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
 ## Example
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Specified DLL function not found (Error 453)
 
-The [dynamic-link library (DLL)](vbe-glossary.md) in a user library reference was found, but the DLL function specified wasn't found within the DLL. This error has the following causes and solutions:
+The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) in a user library reference was found, but the DLL function specified wasn't found within the DLL. This error has the following causes and solutions:
 
 
 
@@ -21,7 +21,7 @@ The [dynamic-link library (DLL)](vbe-glossary.md) in a user library reference wa
     
 - If you are working on a 32-bit Microsoft Windows platform, both the DLL name and alias (if used) must be correct. Make sure the DLL name and alias are correct.
     
-- Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](vbe-glossary.md) and[ANSI](vbe-glossary.md) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
+- Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](../../Glossary/vbe-glossary.md) and[ANSI](../../Glossary/vbe-glossary.md) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
     
     If the function takes string-type arguments, try appending an "A" to the function name.
     

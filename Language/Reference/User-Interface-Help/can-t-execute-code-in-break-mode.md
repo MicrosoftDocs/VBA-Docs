@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Can't execute code in break mode
 
-You enter [break mode](vbe-glossary.md) when you suspend execution of code. This error has the following causes and solutions:
+You enter [break mode](../../Glossary/vbe-glossary.md) when you suspend execution of code. This error has the following causes and solutions:
 
 
 
-- You tried to run code from the  **Macro** dialog box. However, Visual Basic was already running code, although the code was suspended in break mode. You may have entered break mode without knowing it, for example, if a[syntax error](vbe-glossary.md) or[run-time error](vbe-glossary.md) occurred. Continue running the suspended code, or terminate its execution before you run code from the **Macro** dialog box. You can fix the error and choose **Continue**, or you can return to the **Macro** dialog box and restart the macro.
+- You tried to run code from the  **Macro** dialog box. However, Visual Basic was already running code, although the code was suspended in break mode. You may have entered break mode without knowing it, for example, if a[syntax error](../../Glossary/vbe-glossary.md) or[run-time error](../../Glossary/vbe-glossary.md) occurred. Continue running the suspended code, or terminate its execution before you run code from the **Macro** dialog box. You can fix the error and choose **Continue**, or you can return to the **Macro** dialog box and restart the macro.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -15,6 +15,6 @@ ms.date: 06/08/2017
     
 -  [VisWebPageSettings Object (Visio Save As Web)](Visio.viswebpagesettings.object.visio.save.md)
     
--  [Enumerations (Visio Save As Web)](overview/enumerations-visio-save-as-web.md)
+-  [Enumerations (Visio Save As Web)](./Visio.enumerations.visio.save.md)
     
 

@@ -15,7 +15,7 @@ Type and object information is contained in libraries. This error has the follow
 
 
 
-- A definition for this symbol exists in a [type library](vbe-glossary.md).
+- A definition for this symbol exists in a [type library](../../Glossary/vbe-glossary.md).
     
     If you want to define the symbol as contained in the library mentioned, click  **OK** to add the reference to the library.
     

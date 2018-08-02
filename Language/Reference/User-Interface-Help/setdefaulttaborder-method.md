@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Sets the  **TabIndex** property of each control on a form, using a default top-to-bottom, left-to-right[tab order](vbe-glossary.md).
+Sets the  **TabIndex** property of each control on a form, using a default top-to-bottom, left-to-right[tab order](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_. **SetDefaultTabOrder**
 The  **SetDefaultTabOrder** method syntax has these parts:

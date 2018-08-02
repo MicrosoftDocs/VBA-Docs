@@ -15,7 +15,7 @@ Visual Basic includes a syntax-checking feature that:
 
 
 
-- Checks each statement as you enter it for [syntax errors](vbe-glossary.md), such as a misspelled [keyword](vbe-glossary.md) or missing separator, and alerts you if there are errors.
+- Checks each statement as you enter it for [syntax errors](../Glossary/vbe-glossary.md), such as a misspelled [keyword](../Glossary/vbe-glossary.md) or missing separator, and alerts you if there are errors.
     
 - Translates the code to an internal form if the syntax is correct, which speeds the transition to run time.
     

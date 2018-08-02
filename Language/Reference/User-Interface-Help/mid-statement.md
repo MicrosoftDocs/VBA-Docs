@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Mid Statement
 
-Replaces a specified number of characters in a  **Variant** (**String**)[variable](vbe-glossary.md) with characters from another string.
+Replaces a specified number of characters in a  **Variant** (**String**)[variable](../../Glossary/vbe-glossary.md) with characters from another string.
 
  **Syntax**
 
@@ -25,7 +25,7 @@ The  **Mid** statement syntax has these parts:
 | _stringvar_|Required. Name of string variable to modify.|
 | _start_|Required;  **Variant** (**Long**). Character position in _stringvar_ where the replacement of text begins.|
 | _length_|Optional;  **Variant** (**Long**). Number of characters to replace. If omitted, all of _string_ is used.|
-| _string_|Required. [String expression](vbe-glossary.md) that replaces part of _stringvar_.|
+| _string_|Required. [String expression](../../Glossary/vbe-glossary.md) that replaces part of _stringvar_.|
 
  **Remarks**
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.

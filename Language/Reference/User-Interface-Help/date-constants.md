@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # Date Constants
 
-The following [constants](vbe-glossary.md) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere in your code in place of the actual values:
 
 
 ## Argument Values
 
-The  _firstdayofweek_[argument](vbe-glossary.md) has the following values:
+The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md) has the following values:
 
 
 

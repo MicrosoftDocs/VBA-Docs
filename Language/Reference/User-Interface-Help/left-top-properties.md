@@ -26,7 +26,7 @@ The  **Left** and **Top** property syntaxes have these parts:
 | _Single_|Optional. A numeric expression specifying the coordinates of an object.|
 
  **Settings**
-Setting the  **Left** or **Top** property to 0 places the control's edge at the left or top edge of its[container](vbe-glossary.md).
+Setting the  **Left** or **Top** property to 0 places the control's edge at the left or top edge of its[container](../../Glossary/vbe-glossary.md).
  **Remarks**
 For most systems, the recommended range of values for  **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your sytem configuration. For a **ComboBox**, values of **Left** and **Top** apply to the text portion of the control, not to the list portion. When you move or size a control, its new **Left** setting is automatically entered in the property sheet. When you print a form, the control's horizontal or vertical location is determined by its **Left** or **Top** setting.
 

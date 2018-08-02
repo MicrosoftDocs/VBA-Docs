@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Property 'item2' in 'item3' must be a quoted string.
 
-The ASCII file contains a [property](vbe-glossary.md) that should appear inside quotation marks (" "), but the quotation marks are missing. This line in the form description is ignored.
+The ASCII file contains a [property](../../Glossary/vbe-glossary.md) that should appear inside quotation marks (" "), but the quotation marks are missing. This line in the form description is ignored.
 
 

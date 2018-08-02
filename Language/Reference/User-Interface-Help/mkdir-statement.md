@@ -17,7 +17,7 @@ Creates a new directory or folder.
 
  **MkDir**_path_
 
-The required  _path_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that identifies the directory or folder to be created. The _path_ may include the drive. If no drive is specified, **MkDir** creates the new directory or folder on the current drive.
+The required  _path_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that identifies the directory or folder to be created. The _path_ may include the drive. If no drive is specified, **MkDir** creates the new directory or folder on the current drive.
 
 ## Example
 

@@ -10,10 +10,10 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) specifying the current read/write position within a file opened using the **Open** statement.
+Returns a [Long](../../Glossary/vbe-glossary.md) specifying the current read/write position within a file opened using the **Open** statement.
  **Syntax**
  **Seek(**_filenumber_**)**
-The required  _filenumber_[argument](vbe-glossary.md) is an[Integer](vbe-glossary.md) containing a valid[file number](vbe-glossary.md).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is an[Integer](../../Glossary/vbe-glossary.md) containing a valid[file number](../../Glossary/vbe-glossary.md).
  **Remarks**
  **Seek** returns a value between 1 and 2,147,483,647 (equivalent to 2^31 - 1), inclusive.
 The following describes the return values for each file access mode.

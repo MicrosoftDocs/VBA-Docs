@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Returns one of two parts, depending on the evaluation of an [expression](vbe-glossary.md).
+Returns one of two parts, depending on the evaluation of an [expression](../../Glossary/vbe-glossary.md).
  **Syntax**
  **IIf( _expr_,** **_truepart_,** **_falsepart_ )**
-The  **IIf** function syntax has these[named arguments](vbe-glossary.md):
+The  **IIf** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|

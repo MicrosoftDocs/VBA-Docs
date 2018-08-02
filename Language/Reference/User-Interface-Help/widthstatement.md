@@ -22,8 +22,8 @@ The  **Width #** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
-| _width_|Required. [Numeric expression](vbe-glossary.md) in the range 0-255, inclusive, that indicates how many characters appear on a line before a new line is started. If _width_ equals 0, there is no limit to the length of a line. The default value for _width_ is 0.|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
+| _width_|Required. [Numeric expression](../../Glossary/vbe-glossary.md) in the range 0-255, inclusive, that indicates how many characters appear on a line before a new line is started. If _width_ equals 0, there is no limit to the length of a line. The default value for _width_ is 0.|
 
 ## Example
 

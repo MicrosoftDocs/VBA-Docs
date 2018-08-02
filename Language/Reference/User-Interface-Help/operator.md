@@ -21,12 +21,12 @@ The  **\*** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](vbe-glossary.md).|
-| _number1_|Required; any [numeric expression](vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _number1_|Required; any [numeric expression](../../Glossary/vbe-glossary.md).|
 | _number2_|Required; any numeric expression.|
 
  **Remarks**
-The [data type](vbe-glossary.md) of _result_ is usually the same as that of the most precise[expression](vbe-glossary.md). The order of precision, from least to most precise, is [Byte](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Single](vbe-glossary.md), [Currency](vbe-glossary.md), [Double](vbe-glossary.md), and [Decimal](vbe-glossary.md). The following are exceptions to this order:
+The [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), and [Decimal](../../Glossary/vbe-glossary.md). The following are exceptions to this order:
 
 
 |**If**|**Then  _result_ is**|
@@ -36,7 +36,7 @@ The [data type](vbe-glossary.md) of _result_ is usually the same as that of the 
 |The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
 |the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
 
-If one or both expressions are [Null](vbe-glossary.md) expressions, _result_ is **Null**. If an expression is[Empty](vbe-glossary.md), it is treated as 0.
+If one or both expressions are [Null](../../Glossary/vbe-glossary.md) expressions, _result_ is **Null**. If an expression is[Empty](../../Glossary/vbe-glossary.md), it is treated as 0.
 
  **Note**  The order of precision used by multiplication is not the same as the order of precision used by addition and subtraction.
 

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) containing the number of lines of code in a[code module](vbe-glossary.md). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md) containing the number of lines of code in a[code module](../../Glossary/vbe-glossary.md). Read-only.
 

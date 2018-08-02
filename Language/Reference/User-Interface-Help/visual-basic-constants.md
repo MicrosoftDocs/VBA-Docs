@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Visual Basic Constants
 
-Visual Basic for Applications defines [constants](vbe-glossary.md) to simplify your programming. The following constants can be used anywhere in your code in place of the actual values:
+Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md) to simplify your programming. The following constants can be used anywhere in your code in place of the actual values:
 
 [Calendar Constants](calendar-constants.md)
 
@@ -21,7 +21,7 @@ Visual Basic for Applications defines [constants](vbe-glossary.md) to simplify y
 
 [Comparison Constants](comparison-constants.md)
 
-[Compiler Constants](compiler-constants.md)
+[Compiler Constants](../../Concepts/Getting-Started/compiler-constants.md)
 
 [Date Constants](date-constants.md)
 
@@ -57,7 +57,7 @@ Visual Basic for Applications defines [constants](vbe-glossary.md) to simplify y
 
 [Tristate Constants](tristate-constants.md)
 
-[VarType Constants](vartype-constants.md)
+[VarType Constants](../../Concepts/Getting-Started/vartype-constants.md)
 
 [Visual Basic Constants](visual-basic-constants.md)
 

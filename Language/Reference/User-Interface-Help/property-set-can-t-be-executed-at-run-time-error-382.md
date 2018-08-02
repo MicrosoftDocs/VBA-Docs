@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property Set can't be executed at run time (Error 382)
 
-It may not be possible to obtain a reference to a [property](vbe-glossary.md) at[run time](vbe-glossary.md).This error has the following cause and solution:
+It may not be possible to obtain a reference to a [property](../../Glossary/vbe-glossary.md) at[run time](../../Glossary/vbe-glossary.md).This error has the following cause and solution:
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 
-Indicates whether an object can receive [focus](vbe-glossary.md) when the user tabs to it.
+Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md) when the user tabs to it.
  **Syntax**
  _object_. **TabStop** [= _Boolean_ ]
 The  **TabStop** property syntax has these parts:

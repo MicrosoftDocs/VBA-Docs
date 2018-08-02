@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used to perform a logical exclusion on two [expressions](vbe-glossary.md).
+Used to perform a logical exclusion on two [expressions](../../Glossary/vbe-glossary.md).
  **Syntax**
 [ _result_**=** ] _expression1_ **Xor** _expression2_
 The  **Xor** operator syntax has these parts:
@@ -21,12 +21,12 @@ The  **Xor** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Optional; any numeric [variable](vbe-glossary.md).|
+| _result_|Optional; any numeric [variable](../../Glossary/vbe-glossary.md).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
  **Remarks**
-If one, and only one, of the expressions evaluates to  **True**, _result_ is **True**. However, if either expression is [Null](vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
+If one, and only one, of the expressions evaluates to  **True**, _result_ is **True**. However, if either expression is [Null](../../Glossary/vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
 
 
 |**If  _expression1_ is**|**And  _expression2_ is**|**Then  _result_ is**|
@@ -36,7 +36,7 @@ If one, and only one, of the expressions evaluates to  **True**, _result_ is **T
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
 
-The  **Xor** operator performs as both a logical and bitwise operator. A [bit-wise comparison](vbe-glossary.md) of two [expressions](vbe-glossary.md) using exclusive-or logic to form the result, as shown in the following table:
+The  **Xor** operator performs as both a logical and bitwise operator. A [bit-wise comparison](../../Glossary/vbe-glossary.md) of two [expressions](../../Glossary/vbe-glossary.md) using exclusive-or logic to form the result, as shown in the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**Then  _result_ is**|

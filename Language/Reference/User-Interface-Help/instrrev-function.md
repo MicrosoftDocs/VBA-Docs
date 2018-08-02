@@ -17,14 +17,14 @@ ms.date: 06/08/2017
 Returns the position of an occurrence of one string within another, from the end of string.
  **Syntax**
  **InstrRev( _stringcheck_,** **_stringmatch_** [ **,** **_start_** [ **,** **_compare_** ]] **)**
-The  **InstrRev** function syntax has these[named arguments](vbe-glossary.md):
+The  **InstrRev** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_stringcheck_**|Required. [String expression](vbe-glossary.md) being searched.|
+|**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md) being searched.|
 |**_stringmatch_**|Required. String expression being searched for.|
-|**_start_**|Optional. [Numeric expression](vbe-glossary.md) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](vbe-glossary.md), an error occurs.|
+|**_start_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md), an error occurs.|
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. If omitted, a binary comparison is performed. See Settings section for values.|
 
  **Settings**

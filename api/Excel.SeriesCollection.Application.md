@@ -41,5 +41,5 @@ End If
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

@@ -29,11 +29,11 @@ You can undo the  **Paste** command in the **Code** window or in the form if you
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_pste_ZA01201730.gif). Keyboard shortcut: CTRL+V or SHIFT+INS.
  **Delete**
-Deletes the currently selected control, text, or [watch expression](vbe-glossary.md). You can undo the  **Delete** command only in the **Code** window.
+Deletes the currently selected control, text, or [watch expression](../../Glossary/vbe-glossary.md). You can undo the  **Delete** command only in the **Code** window.
 
  **Note**  To delete a file from your disk, use the standard deletion procedures for your operating system.
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_del_ZA01201696.gif). Keyboard shortcut: DEL.
-Not available at [run time](vbe-glossary.md).
+Not available at [run time](../../Glossary/vbe-glossary.md).
 

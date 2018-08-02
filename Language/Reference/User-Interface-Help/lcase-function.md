@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Returns a [String](vbe-glossary.md) that has been converted to lowercase.
+Returns a [String](../../Glossary/vbe-glossary.md) that has been converted to lowercase.
  **Syntax**
  **LCase** ( _string_ )
-The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), Null is returned.
+The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md), Null is returned.
  **Remarks**
 Only uppercase letters are converted to lowercase; all lowercase letters and nonletter characters remain unchanged.
 

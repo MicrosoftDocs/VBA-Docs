@@ -18,5 +18,5 @@ ms.date: 06/08/2017
 Returns a collection which add-ins can use to register their automation components into the extensibility object model.
  **Syntax**
  _object_. **AddIns**
-The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
 

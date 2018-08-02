@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 
 
-Returns the window in which the [code pane](vbe-glossary.md) is displayed. Read-only.
+Returns the window in which the [code pane](../../Glossary/vbe-glossary.md) is displayed. Read-only.
 

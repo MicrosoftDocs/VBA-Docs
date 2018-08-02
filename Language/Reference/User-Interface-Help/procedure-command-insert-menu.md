@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Procedure Command (Insert Menu)
 
-Inserts a new [Sub](vbe-glossary.md), [Function](vbe-glossary.md), or [Property](vbe-glossary.md) procedure into the active module.
+Inserts a new [Sub](../../Glossary/vbe-glossary.md), [Function](../../Glossary/vbe-glossary.md), or [Property](../../Glossary/vbe-glossary.md) procedure into the active module.
 
 Not available if the module is not active.
 

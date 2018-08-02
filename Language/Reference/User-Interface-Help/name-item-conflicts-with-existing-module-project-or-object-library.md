@@ -17,7 +17,7 @@ This error has the following causes:
 
 - You loaded a form, User Control, User Document, or Property Page that contains objects with conflicting names. This can occur if the file was edited outside of Visual Basic.
     
-- This error can occur when you rename a form to the same name as the [project](vbe-glossary.md), another form, or a [module](vbe-glossary.md). It can also occur when you rename the project to the same name as a form or module.
+- This error can occur when you rename a form to the same name as the [project](../../Glossary/vbe-glossary.md), another form, or a [module](../../Glossary/vbe-glossary.md). It can also occur when you rename the project to the same name as a form or module.
     
 
 

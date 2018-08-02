@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Select Case Statement
 
-Executes one of several groups of [statements](vbe-glossary.md), depending on the value of an [expression](vbe-glossary.md).
+Executes one of several groups of [statements](../../Glossary/vbe-glossary.md), depending on the value of an [expression](../../Glossary/vbe-glossary.md).
 
  **Syntax**
 
@@ -27,8 +27,8 @@ The  **Select Case** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _testexpression_|Required. Any [numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md).|
-| _expressionlist-n_|Required if a  **Case** appears. Delimited list of one or more of the following forms: _expression_, _expression_**To**_expression_, **Is**_comparisonoperator_ _expression_. The **To**[keyword](vbe-glossary.md) specifies a range of values. If you use the **To** keyword, the smaller value must appear before **To**. Use the **Is** keyword with[comparison operators](vbe-glossary.md) (except **Is** and **Like**) to specify a range of values. If not supplied, the **Is** keyword is automatically inserted.|
+| _testexpression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md).|
+| _expressionlist-n_|Required if a  **Case** appears. Delimited list of one or more of the following forms: _expression_, _expression_**To**_expression_, **Is**_comparisonoperator_ _expression_. The **To**[keyword](../../Glossary/vbe-glossary.md) specifies a range of values. If you use the **To** keyword, the smaller value must appear before **To**. Use the **Is** keyword with[comparison operators](../../Glossary/vbe-glossary.md) (except **Is** and **Like**) to specify a range of values. If not supplied, the **Is** keyword is automatically inserted.|
 | _statements-n_|Optional. One or more statements executed if  _testexpression_ matches any part of _expressionlist-n._|
 | _elsestatements_|Optional. One or more statements executed if  _testexpression_ doesn't match any of the **Case** clause.|
 

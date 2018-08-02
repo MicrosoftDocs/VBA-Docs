@@ -17,12 +17,12 @@ Copies a file.
 
  **FileCopy** **_source_,** **_destination_**
 
-The  **FileCopy** statement syntax has these[named arguments](vbe-glossary.md):
+The  **FileCopy** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_source_**|Required. [String expression](vbe-glossary.md) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
+|**_source_**|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
 |**_destination_**|Required. String expression that specifies the target file name. The  **_destination_** may include directory or folder, and drive.|
 
  **Remarks**

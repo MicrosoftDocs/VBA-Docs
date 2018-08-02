@@ -15,11 +15,11 @@ The statement must occur within a  **Sub** or **Function**, or a property proced
 
 
 
-- An executable statement,  **Static** or **ReDim**, appears at[module level](vbe-glossary.md).
+- An executable statement,  **Static** or **ReDim**, appears at[module level](../../Glossary/vbe-glossary.md).
     
-     **Static** is unnecessary at module level, since all module-level[variables](vbe-glossary.md) are static. Use **Dim** instead of **ReDim** at module level. To create a dynamic[array](vbe-glossary.md) at module level, declare it with **Dim** using empty parentheses.
+     **Static** is unnecessary at module level, since all module-level[variables](../../Glossary/vbe-glossary.md) are static. Use **Dim** instead of **ReDim** at module level. To create a dynamic[array](../../Glossary/vbe-glossary.md) at module level, declare it with **Dim** using empty parentheses.
     
-     **Note**  At module level, you can use only [comments](vbe-glossary.md) and declarative statements, such as **Const**, **Declare**, **Def**_type_, **Dim**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Private**, **Public**, and **Type**. The **Sub**, **Function**, and **Property** statements occur outside the body of their[procedures](vbe-glossary.md), but within the procedure declaration.
+     **Note**  At module level, you can use only [comments](../../Glossary/vbe-glossary.md) and declarative statements, such as **Const**, **Declare**, **Def**_type_, **Dim**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Private**, **Public**, and **Type**. The **Sub**, **Function**, and **Property** statements occur outside the body of their[procedures](../../Glossary/vbe-glossary.md), but within the procedure declaration.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Occurs when a control is deleted from the [container](vbe-glossary.md).
+Occurs when a control is deleted from the [container](../../Glossary/vbe-glossary.md).
  **Syntax**
 For MultiPage **Private Sub**_object_ _**RemoveControl(**_index_**As Long**, _ctrl_**As Control)**
 For all other controls **Private Sub**_object_ _**RemoveControl(**_ctrl_**As Control)**

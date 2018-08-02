@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Add a Control to a Form
 
-Use this procedure to add a control from the  [Control Toolbox](control-toolbox-overview.md) to your form. You can also use this procedure to insert a control in a **[Frame](../../../api/Outlook.frame.md)**,  **[TabStrip](../../../api/Outlook.tabstrip.md)**, or  **[MultiPage](../../../api/Outlook.multipage.md)** on the form.
+Use this procedure to add a control from the  [Control Toolbox](../Customizing-Forms/control-toolbox-overview.md) to your form. You can also use this procedure to insert a control in a **[Frame](../../../api/Outlook.frame.md)**,  **[TabStrip](../../../api/Outlook.tabstrip.md)**, or  **[MultiPage](../../../api/Outlook.multipage.md)** on the form.
 
 
 1. In an open form on the  **Developer** tab, in the **Tools** group, click **Control Toolbox**.

@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Passing Arguments Efficiently
 
-All [arguments](vbe-glossary.md) are passed to [procedures](vbe-glossary.md)[by reference](vbe-glossary.md), unless you specify otherwise. This is efficient because all arguments passed by reference take the same amount of time to pass and the same amount of space (4 bytes) within a procedure regardless of the argument's [data type](vbe-glossary.md).
+All [arguments](../../Glossary/vbe-glossary.md) are passed to [procedures](../../Glossary/vbe-glossary.md)[by reference](../../Glossary/vbe-glossary.md), unless you specify otherwise. This is efficient because all arguments passed by reference take the same amount of time to pass and the same amount of space (4 bytes) within a procedure regardless of the argument's [data type](../../Glossary/vbe-glossary.md).
 
-You can pass an argument [by value](vbe-glossary.md) if you include the **ByVal** keyword in the procedure's declaration. Arguments passed by value consume from 2 - 16 bytes within the procedure, depending on the argument's data type. Larger data types take slightly longer to pass by value than smaller ones. Because of this, **String** and **Variant** data types generally should not be passed by value.
+You can pass an argument [by value](../../Glossary/vbe-glossary.md) if you include the **ByVal** keyword in the procedure's declaration. Arguments passed by value consume from 2 - 16 bytes within the procedure, depending on the argument's data type. Larger data types take slightly longer to pass by value than smaller ones. Because of this, **String** and **Variant** data types generally should not be passed by value.
 
-Passing an argument by value copies the original [variable](vbe-glossary.md). Changes to the argument within the procedure aren't reflected back to the original variable. For example:
+Passing an argument by value copies the original [variable](../../Glossary/vbe-glossary.md). Changes to the argument within the procedure aren't reflected back to the original variable. For example:
 
 
 

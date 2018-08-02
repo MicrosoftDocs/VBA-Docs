@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Group and Ungroup Commands (Format Menu)
 
-Groups and ungroups selected [objects](vbe-glossary.md).
+Groups and ungroups selected [objects](../../Glossary/vbe-glossary.md).
 
  **Group**
 

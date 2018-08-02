@@ -16,13 +16,13 @@ ms.date: 06/08/2017
 Returns the  **String** associated with an operating system environment variable. Not available on the Macintosh
  **Syntax**
  **Environ(** { **_envstring_** |**_number_** } **)**
-The  **Environ** function syntax has these[named arguments](vbe-glossary.md):
+The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_envstring_**|Optional. [String expression](vbe-glossary.md) containing the name of an environment variable.|
-|**_number_**|Optional. [Numeric expression](vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
+|**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md) containing the name of an environment variable.|
+|**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](../../Glossary/vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
 
  **Remarks**
 If  **_envstring_** can't be found in the environment-string table, a zero-length string ("") is returned. Otherwise, **Environ** returns the text assigned to the specified **_envstring_**; that is, the text following the equal sign (=) in the environment-string table for that environment variable.

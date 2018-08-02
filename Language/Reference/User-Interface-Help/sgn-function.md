@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns a  **Variant** (**Integer**) indicating the sign of a number.
  **Syntax**
  **Sgn(**_number_**)**
-The required  _number_[argument](vbe-glossary.md) can be any valid[numeric expression](vbe-glossary.md).
+The required  _number_[argument](../../Glossary/vbe-glossary.md) can be any valid[numeric expression](../../Glossary/vbe-glossary.md).
  **Return Values**
 
 

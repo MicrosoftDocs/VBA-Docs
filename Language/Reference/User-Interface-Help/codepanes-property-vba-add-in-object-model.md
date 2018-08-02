@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 
 
-Returns the [collection](vbe-glossary.md) of active **CodePane** objects. Read-only.
+Returns the [collection](../../Glossary/vbe-glossary.md) of active **CodePane** objects. Read-only.
 

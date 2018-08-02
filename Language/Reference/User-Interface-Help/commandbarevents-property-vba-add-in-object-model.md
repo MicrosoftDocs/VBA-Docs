@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns the  **CommandBarEvents** object. Read-only.
  **Settings**
-The setting for the [argument](vbe-glossary.md) you pass to the **CommandBarEvents** property is:
+The setting for the [argument](../../Glossary/vbe-glossary.md) you pass to the **CommandBarEvents** property is:
 
 
 |**Argument**|**Description**|
@@ -23,5 +23,5 @@ The setting for the [argument](vbe-glossary.md) you pass to the **CommandBarEven
 | _vbcontrol_|Must be an object of type  **CommandBarControl**.|
 
  **Remarks**
-Use the  **CommandBarEvents** property to return an[event source object](vbe-glossary.md) that triggers an event when a command bar button is clicked. The argument passed to the **CommandBarEvents** property is the command bar control for which the Click event will be triggered.
+Use the  **CommandBarEvents** property to return an[event source object](../../Glossary/vbe-glossary.md) that triggers an event when a command bar button is clicked. The argument passed to the **CommandBarEvents** property is the command bar control for which the Click event will be triggered.
 

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns a  **Variant** (**String**) representation of a number.
  **Syntax**
  **Str** ( _number_ )
-The required  _number_[argument](vbe-glossary.md) is a[Long](vbe-glossary.md) containing any valid[numeric expression](vbe-glossary.md).
+The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Long](../../Glossary/vbe-glossary.md) containing any valid[numeric expression](../../Glossary/vbe-glossary.md).
  **Remarks**
 When numbers are converted to strings, a leading space is always reserved for the sign of  _number_. If _number_ is positive, the returned string contains a leading space and the plus sign is implied.
 Use the  **Format** function to convert numeric values you want formatted as dates, times, or currency or in other user-defined formats. Unlike **Str**, the **Format** function doesn't include a leading space for the sign of _number_.

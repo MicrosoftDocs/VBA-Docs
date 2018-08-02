@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the name of the form, object, or [collection](vbe-glossary.md) that contains a specific control, object, or collection.
+Returns the name of the form, object, or [collection](../../Glossary/vbe-glossary.md) that contains a specific control, object, or collection.
  **Syntax**
  _object_. **Parent**
 The  **Parent** property syntax has these parts:
@@ -26,5 +26,5 @@ The  **Parent** property syntax has these parts:
  **Remarks**
  **Parent** is read-only.
 Use the  **Parent** property to access the properties, methods, or controls of an object's parent.
-This property is useful in an application in which you pass objects as arguments. For example, you could pass a control variable to a general procedure in a [module](vbe-glossary.md), and use  **Parent** to access its parent form.
+This property is useful in an application in which you pass objects as arguments. For example, you could pass a control variable to a general procedure in a [module](../../Glossary/vbe-glossary.md), and use  **Parent** to access its parent form.
 

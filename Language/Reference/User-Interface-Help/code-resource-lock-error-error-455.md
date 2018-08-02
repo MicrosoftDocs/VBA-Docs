@@ -15,7 +15,7 @@ This error can only occur on the Macintosh. When you access a code resource, you
 
 
 
-- A call was made to a [procedure](vbe-glossary.md) in a code resource. The code resource was found, but an error occurred when an attempt was made to lock the resource.
+- A call was made to a [procedure](../../Glossary/vbe-glossary.md) in a code resource. The code resource was found, but an error occurred when an attempt was made to lock the resource.
     
     Check for an error returned by Hlock, for example, " `Illegal on empty handle`" or " `Illegal on free block`".
     

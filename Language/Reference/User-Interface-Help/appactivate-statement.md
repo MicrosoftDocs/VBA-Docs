@@ -17,13 +17,13 @@ Activates an application window.
 
  **AppActivate** **_title_** [, **_wait_** ]
 
-The  **AppActivate** statement syntax has these[named arguments](vbe-glossary.md):
+The  **AppActivate** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_title_**|Required. [String expression](vbe-glossary.md) specifying the title in the title bar of the application window you want to activate. The task ID returned by the **Shell** function can be used in place of **_title_** to activate an application.|
-|**_wait_**|Optional. [Boolean](vbe-glossary.md) value specifying whether the calling application has the focus before activating another. If **False** (default), the specified application is immediately activated, even if the calling application does not have the focus. If **True**, the calling application waits until it has the focus, then activates the specified application.|
+|**_title_**|Required. [String expression](../../Glossary/vbe-glossary.md) specifying the title in the title bar of the application window you want to activate. The task ID returned by the **Shell** function can be used in place of **_title_** to activate an application.|
+|**_wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md) value specifying whether the calling application has the focus before activating another. If **False** (default), the specified application is immediately activated, even if the calling application does not have the focus. If **True**, the calling application waits until it has the focus, then activates the specified application.|
 
  **Remarks**
 The  **AppActivate** statement changes the focus to the named application or window but does not affect whether it is maximized or minimized. Focus moves from the activated application window when the user takes some action to change the focus or close the window. Use the **Shell** function to start an application and set the window style.

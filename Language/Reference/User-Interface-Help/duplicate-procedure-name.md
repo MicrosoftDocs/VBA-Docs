@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Duplicate procedure name
 
-You defined (or are attempting to define) more than one version of a [procedure](vbe-glossary.md) with the same name. Rename one of the procedures. Ensure duplicate **Declare** statements for the same procedure have the same **Alias** clause.
+You defined (or are attempting to define) more than one version of a [procedure](../../Glossary/vbe-glossary.md) with the same name. Rename one of the procedures. Ensure duplicate **Declare** statements for the same procedure have the same **Alias** clause.
 
 

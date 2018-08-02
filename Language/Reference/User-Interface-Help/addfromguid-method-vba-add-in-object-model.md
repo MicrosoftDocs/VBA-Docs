@@ -21,11 +21,11 @@ The  **AddFromGuid** syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _guid_|Required. A [string expression](vbe-glossary.md)representing the GUID of the reference.|
-| _major_|Required. A [Long](vbe-glossary.md) specifying the major version number of the reference.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _guid_|Required. A [string expression](../../Glossary/vbe-glossary.md)representing the GUID of the reference.|
+| _major_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the major version number of the reference.|
 | _minor_|Required. A  **Long** specifying the minor version number of the reference.|
 
  **Remarks**
-The  **AddFromGuid** method searches the[registry](vbe-glossary.md) to find the reference you want to add. The GUID can be a[type library](vbe-glossary.md), [control](vbe-glossary.md), class identifier, and so on.
+The  **AddFromGuid** method searches the[registry](../../Glossary/vbe-glossary.md) to find the reference you want to add. The GUID can be a[type library](../../Glossary/vbe-glossary.md), [control](../../Glossary/vbe-glossary.md), class identifier, and so on.
 

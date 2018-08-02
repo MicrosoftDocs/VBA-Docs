@@ -54,5 +54,5 @@ Charts("Chart1").SeriesCollection.Paste
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

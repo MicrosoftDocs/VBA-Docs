@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns a  **Variant** (**String**) consisting of the specified number of spaces.
  **Syntax**
  **Space** ( _number_ )
-The required  _number_[argument](vbe-glossary.md) is the number of spaces you want in the string.
+The required  _number_[argument](../../Glossary/vbe-glossary.md) is the number of spaces you want in the string.
  **Remarks**
 The  **Space** function is useful for formatting output and clearing data in fixed-length strings.
 

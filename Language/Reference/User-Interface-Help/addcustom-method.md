@@ -23,6 +23,6 @@ The  **AddCustom** method syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _object_|An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _progid_|Required. The ProgID of the custom component to be created.|
 

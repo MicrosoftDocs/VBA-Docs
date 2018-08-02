@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Refreshes the contents of the  **AddIns** collection from the add-ins listed in the Vbaddin.ini file in the same manner as if the user had opened the Add-In Manager dialog box.
  **Syntax**
  _object_. **Update**
-The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
 All add-ins listed in the Vbaddin.ini file must be registered ActiveX components in the Registry before they can be used in Visual Basic.
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether a control takes the [focus](vbe-glossary.md) when clicked.
+Specifies whether a control takes the [focus](../../Glossary/vbe-glossary.md) when clicked.
  **Syntax**
  _object_. **TakeFocusOnClick** [= _Boolean_ ]
 The  **TakeFocusOnClick** property syntax has these parts:
