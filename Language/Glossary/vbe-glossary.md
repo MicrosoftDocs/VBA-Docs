@@ -2,11 +2,14 @@
 title: VBE Glossary
 ms.prod: office
 ms.assetid: b8bdf64f-5920-1ae9-16d0-b26d09524a30
+description: Glossary of terms for Visual Basic Editor (VBE).
 ms.date: 06/08/2017
 ---
 
 
 # VBE Glossary
+
+Glossary of terms for Visual Basic Editor (VBE).
 
 ## access key
 
@@ -837,4 +840,7 @@ A user-defined expression that enables you to observe the behavior of a variable
 
 The visual layering of controls on a form along the form's z-axis (depth). The z-order determines which controls are in front of other controls.
 
+## See also
+
+- [Visual Basic for Applications (VBA) Glossary](glossary-vba.md)
 

@@ -1,12 +1,15 @@
 ---
-title: Glossary (VBA)
+title: VBA Glossary
 ms.prod: office
 ms.assetid: 7ce2c60f-29fb-96e2-2516-73c99a6e7cff
+description: Glossary of terms for Visual Basic for Applications (VBA).
 ms.date: 06/08/2017
 ---
 
 
-# Glossary (VBA)
+# VBA Glossary
+
+Glossary of terms for Visual Basic for Applications (VBA).
 
 ## accelerator key
 
@@ -151,3 +154,6 @@ Describes the background of the object if the background is not visible. Instead
 
 Describes a control that is not related to a worksheet cell. In contrast, a bound control is a data source for a worksheet cell that provides access to display and edit the value of a control.
 
+## See also
+
+- [Visual Basic Editor (VBE) Glossary](vbe-glossary.md)
