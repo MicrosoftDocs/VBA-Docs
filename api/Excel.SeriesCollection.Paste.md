@@ -20,7 +20,7 @@ Pastes data from the Clipboard into the specified series collection.
 
  _expression_. `Paste`( `_Rowcol_` , `_SeriesLabels_` , `_CategoryLabels_` , `_Replace_` , `_NewSeries_` )
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
+ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
 ### Parameters
@@ -54,5 +54,5 @@ Charts("Chart1").SeriesCollection.Paste
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

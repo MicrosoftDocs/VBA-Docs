@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This array is fixed or temporarily locked (Error 10)
 
-Not all [arrays](vbe-glossary.md) can be redimensioned. Even arrays specifically declared to be dynamic and arrays within **Variant** [variables](vbe-glossary.md) are sometimes locked temporarily. This error has the following causes and solutions:
+Not all [arrays](../../Glossary/vbe-glossary.md) can be redimensioned. Even arrays specifically declared to be dynamic and arrays within **Variant** [variables](../../Glossary/vbe-glossary.md) are sometimes locked temporarily. This error has the following causes and solutions:
 
 - You tried to use **ReDim** to change the number of elements of a fixed-size array . For example, in the following code, the fixed array `FixedArr` is received by `SomeArr` in the `NextOne` procedure, and then an attempt is made to resize `SomeArr`:
     
@@ -27,9 +27,9 @@ Not all [arrays](vbe-glossary.md) can be redimensioned. Even arrays specifically
     End Sub 
   ```
 
-  Make the original array dynamic rather than fixed by declaring it with **ReDim** (if the array is declared within a procedure), or by declaring it without specifying the number of elements (if the array is declared at [module level](vbe-glossary.md)).
+  Make the original array dynamic rather than fixed by declaring it with **ReDim** (if the array is declared within a procedure), or by declaring it without specifying the number of elements (if the array is declared at [module level](../../Glossary/vbe-glossary.md)).
     
-- You tried to redimension a module-level dynamic array, in which one element has been passed as an [argument](vbe-glossary.md) to a procedure. For example, in the following code, `ModArray` is a dynamic, module-level array whose forty-fifth element is being passed [by reference](vbe-glossary.md) to the `Test` procedure:
+- You tried to redimension a module-level dynamic array, in which one element has been passed as an [argument](../../Glossary/vbe-glossary.md) to a procedure. For example, in the following code, `ModArray` is a dynamic, module-level array whose forty-fifth element is being passed [by reference](../../Glossary/vbe-glossary.md) to the `Test` procedure:
     
   ```vb
     Dim ModArray () As Integer    ' Create a module-level dynamic array. 
@@ -46,7 +46,7 @@ Not all [arrays](vbe-glossary.md) can be redimensioned. Even arrays specifically
     End Sub 
   ```
 
-  There is no need to pass an element of the module-level array in this case, since it's visible within all procedures in the module. However, if an element is passed, the array is locked to prevent a deallocation of memory for the reference [parameter](vbe-glossary.md) within the procedure, causing unpredictable behavior when the procedure returns.
+  There is no need to pass an element of the module-level array in this case, since it's visible within all procedures in the module. However, if an element is passed, the array is locked to prevent a deallocation of memory for the reference [parameter](../../Glossary/vbe-glossary.md) within the procedure, causing unpredictable behavior when the procedure returns.
     
 - You attempted to assign a value to a **Variant** variable containing an array, but the **Variant** is currently locked. For example, if your code uses a **For Each...Next** loop to iterate over a variant containing an array, the array is locked on entry into the loop, and then released at the termination of the loop:
     

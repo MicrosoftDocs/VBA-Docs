@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 A  **Collection** object is an ordered set of items that can be referred to as a unit.
  **Remarks**
-The  **Collection** object provides a convenient way to refer to a related group of items as a single object. The items, or[members](vbe-glossary.md), in a collection need only be related by the fact that they exist in the [collection](vbe-glossary.md). Members of a collection don't have to share the same [data type](vbe-glossary.md).
+The  **Collection** object provides a convenient way to refer to a related group of items as a single object. The items, or[members](../../Glossary/vbe-glossary.md), in a collection need only be related by the fact that they exist in the [collection](../../Glossary/vbe-glossary.md). Members of a collection don't have to share the same [data type](../../Glossary/vbe-glossary.md).
 A collection can be created the same way other objects are created. For example:
 
 

@@ -27,6 +27,6 @@ The  **BeforeUpdate** event syntax has these parts:
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** cancels the update and indicates the application should handle the event.|
 
  **Remarks**
-The BeforeUpdate event occurs regardless of whether the control is [bound](../../../language/Glossary/glossary-vba.md) (that is, when the **RowSource** property specifies a[data source](../../../language/Glossary/glossary-vba.md) for the control). This event occurs before the AfterUpdate and Exit events for the control (and before the Enter event for the next control that receives[focus](vbe-glossary.md)).
+The BeforeUpdate event occurs regardless of whether the control is [bound](../../../language/Glossary/glossary-vba.md) (that is, when the **RowSource** property specifies a[data source](../../../language/Glossary/glossary-vba.md) for the control). This event occurs before the AfterUpdate and Exit events for the control (and before the Enter event for the next control that receives[focus](../../Glossary/vbe-glossary.md)).
 If you set the  _Cancel_ argument to **True**, the focus remains on the control and neither the AfterUpdate event nor the Exit event occurs.
 

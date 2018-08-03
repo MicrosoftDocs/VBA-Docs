@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # For...Next Statement
 
-Repeats a group of [statements](vbe-glossary.md) a specified number of times.
+Repeats a group of [statements](../../Glossary/vbe-glossary.md) a specified number of times.
 
  **Syntax**
 
@@ -26,14 +26,14 @@ The  **For…Next** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _counter_|Required. Numeric [variable](vbe-glossary.md) used as a loop counter. The variable can't be a[Boolean](vbe-glossary.md) or an[array](vbe-glossary.md) element.|
+| _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md) used as a loop counter. The variable can't be a[Boolean](../../Glossary/vbe-glossary.md) or an[array](../../Glossary/vbe-glossary.md) element.|
 | _start_|Required. Initial value of  _counter_.|
 | _end_|Required. Final value of  _counter_.|
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
 | _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
 
  **Remarks**
-The  _step_[argument](vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
+The  _step_[argument](../../Glossary/vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 
 
 |**Value**|**Loop executes if**|

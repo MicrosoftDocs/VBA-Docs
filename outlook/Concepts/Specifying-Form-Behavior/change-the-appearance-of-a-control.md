@@ -17,7 +17,7 @@ Outlook includes several properties that you can use to define the appearance of
     
 -  **BorderColor**,  **BorderStyle**, and  **SpecialEffect** apply to the control border. You can use **BorderStyle** or **SpecialEffect** to choose a border type. Only one of these two properties can be used at a time. When you assign a value to one of these properties, the system sets the other property to **None**. With  **SpecialEffect**, you can choose one of several border styles, but you can only use system colors for the border.  **BorderStyle** supports only one border style, but you can choose any color that is a valid setting for **BorderColor**.  **BorderColor** specifies the color of the control border and is only valid when you use **BorderStyle** to create the border.
     
-     **Note**  The  **BorderColor**,  **BorderStyle**, and  **SpecialEffect** properties can only be applied to the standard controls that are provided by default in the [Control Toolbox](control-toolbox-overview.md) and are not applicable to form regions.
+     **Note**  The  **BorderColor**,  **BorderStyle**, and  **SpecialEffect** properties can only be applied to the standard controls that are provided by default in the [Control Toolbox](../Customizing-Forms/control-toolbox-overview.md) and are not applicable to form regions.
 
 Outlook supports transparency (that is, the display of whatever is behind an object instead of its background) in two areas: the background of certain controls and in bitmaps that are used on certain controls.
 

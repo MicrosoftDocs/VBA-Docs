@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used with the  **Print #** statement or the **Print** method to position output.
  **Syntax**
  **Spc(**_n_**)**
-The required  _n_[argument](vbe-glossary.md) is the number of spaces to insert before displaying or printing the next[expression](vbe-glossary.md) in a list.
+The required  _n_[argument](../../Glossary/vbe-glossary.md) is the number of spaces to insert before displaying or printing the next[expression](../../Glossary/vbe-glossary.md) in a list.
  **Remarks**
 If  _n_ is less than the output line width, the next print position immediately follows the number of spaces printed. If _n_ is greater than the output line width, **Spc** calculates the next print position using the formula:
  _currentprintposition +_ ( _n_**Mod**_width_ )

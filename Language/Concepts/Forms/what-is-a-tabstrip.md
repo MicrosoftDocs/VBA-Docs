@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # What is a TabStrip?
 
-A  **TabStrip** is a control that contains a[collection](../Getting-Started/vbe-glossary.md) of one or more tabs.
+A  **TabStrip** is a control that contains a[collection](../../Glossary/vbe-glossary.md) of one or more tabs.
 
 Each  **Tab** of a **TabStrip** is a separate object that users can select. Visually, a **TabStrip** also includes a client area that all the tabs in the **TabStrip** share.
 

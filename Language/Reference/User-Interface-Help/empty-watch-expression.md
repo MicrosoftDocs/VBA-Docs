@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Empty watch expression
 
-The  **Add Watch** dialog box requires entry of an[expression](vbe-glossary.md). This error has the following cause and solution:
+The  **Add Watch** dialog box requires entry of an[expression](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
 
 
 
-- You didn't supply a [watch expression](vbe-glossary.md) in the **Add Watch** dialog box.
+- You didn't supply a [watch expression](../../Glossary/vbe-glossary.md) in the **Add Watch** dialog box.
     
     Add an expression to the  **Add Watch** dialog box or press the ESC key.
     

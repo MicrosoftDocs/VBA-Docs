@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Property 'item2' in 'item3' could not be loaded.
 
-The ASCII file contains an unknown [property](vbe-glossary.md). The property will be skipped when loading the form.
+The ASCII file contains an unknown [property](../../Glossary/vbe-glossary.md). The property will be skipped when loading the form.
 
 

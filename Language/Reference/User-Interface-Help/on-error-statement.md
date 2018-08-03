@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # On Error Statement
 
-Enables an error-handling routine and specifies the location of the routine within a [procedure](vbe-glossary.md); can also be used to disable an error-handling routine.
+Enables an error-handling routine and specifies the location of the routine within a [procedure](../../Glossary/vbe-glossary.md); can also be used to disable an error-handling routine.
 
  **Syntax**
 
@@ -24,8 +24,8 @@ The  **On Error** statement syntax can have any of the following forms:
 
 |**Statement**|**Description**|
 |:-----|:-----|
-|**On Error GoTo**_line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_[argument](vbe-glossary.md). The  _line_ argument is any[line label](vbe-glossary.md) or[line number](vbe-glossary.md). If a [run-time error](vbe-glossary.md) occurs, control branches to _line_, making the error handler active _._ The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a[compile-time](vbe-glossary.md) error occurs.|
-|**On Error Resume Next**|Specifies that when a run-time error occurs, control goes to the [statement](vbe-glossary.md) immediately following the statement where the error occurred where execution continues. Use this form rather than **On Error GoTo** when accessing objects.|
+|**On Error GoTo**_line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_[argument](../../Glossary/vbe-glossary.md). The  _line_ argument is any[line label](../../Glossary/vbe-glossary.md) or[line number](../../Glossary/vbe-glossary.md). If a [run-time error](../../Glossary/vbe-glossary.md) occurs, control branches to _line_, making the error handler active _._ The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a[compile-time](../../Glossary/vbe-glossary.md) error occurs.|
+|**On Error Resume Next**|Specifies that when a run-time error occurs, control goes to the [statement](../../Glossary/vbe-glossary.md) immediately following the statement where the error occurred where execution continues. Use this form rather than **On Error GoTo** when accessing objects.|
 |**On Error GoTo 0**|Disables any enabled error handler in the current procedure.|
 
  **Remarks**
@@ -56,7 +56,7 @@ End Sub
 ```
 
 Here, the error-handling code follows the  **Exit Sub** statement and precedes the **End Sub** statement to separate it from the procedure flow. Error-handling code can be placed anywhere in a procedure.
-Untrapped errors in objects are returned to the controlling application when the object is running as an executable file. Within the development environment, untrapped errors are only returned to the controlling application if the proper options are set. See your [host application's](vbe-glossary.md) documentation for a description of which options should be set during debugging, how to set them, and whether the host can create[classes](vbe-glossary.md).
+Untrapped errors in objects are returned to the controlling application when the object is running as an executable file. Within the development environment, untrapped errors are only returned to the controlling application if the proper options are set. See your [host application's](../../Glossary/vbe-glossary.md) documentation for a description of which options should be set during debugging, how to set them, and whether the host can create[classes](../../Glossary/vbe-glossary.md).
 If you create an object that accesses other objects, you should try to handle errors passed back from them unhandled. If you cannot handle such errors, map the error code in  **Err.Number** to one of your own errors, and then pass them back to the caller of your object. You should specify your error by adding your error code to the **vbObjectError** constant. For example, if your error code is 1052, assign it as follows:
 
 
@@ -67,7 +67,7 @@ Err.Number = vbObjectError + 1052
 ```
 
 
- **Note**  System errors during calls to Windows [dynamic-link libraries](vbe-glossary.md) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **LastDLLError** property. **LastDLLError** always returns zero on the Macintosh.
+ **Note**  System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **LastDLLError** property. **LastDLLError** always returns zero on the Macintosh.
 
 
 ## Example

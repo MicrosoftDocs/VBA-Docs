@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Using For...Next Statements
 
-You can use  **For...Next** statements to repeat a block of[statements](vbe-glossary.md) a specific number of times. **For** loops use a counter[variable](vbe-glossary.md) whose value is increased or decreased with each repetition of the loop.
+You can use  **For...Next** statements to repeat a block of[statements](../../Glossary/vbe-glossary.md) a specific number of times. **For** loops use a counter[variable](../../Glossary/vbe-glossary.md) whose value is increased or decreased with each repetition of the loop.
 
-The following [procedure](vbe-glossary.md) makes the computer beep 50 times. The **For** statement specifies the counter variable and its start and end values. The **Next** statement increments the counter variable by 1.
+The following [procedure](../../Glossary/vbe-glossary.md) makes the computer beep 50 times. The **For** statement specifies the counter variable and its start and end values. The **Next** statement increments the counter variable by 1.
 
 
 
@@ -25,7 +25,7 @@ Sub Beeps()
 End Sub
 ```
 
-Using the  **Step**[keyword](vbe-glossary.md), you can increase or decrease the counter variable by the value you specify. In the following example, the counter variable  `j` is incremented by 2 each time the loop repeats. When the loop is finished, `total` is the sum of 2, 4, 6, 8, and 10.
+Using the  **Step**[keyword](../../Glossary/vbe-glossary.md), you can increase or decrease the counter variable by the value you specify. In the following example, the counter variable  `j` is incremented by 2 each time the loop repeats. When the loop is finished, `total` is the sum of 2, 4, 6, 8, and 10.
 
 
 

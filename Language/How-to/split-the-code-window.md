@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Split the Code Window
 
-You can split the  **Code** window horizontally into two panes to view different code segments of a[module](vbe-glossary.md) at the same time. Each pane scrolls separately, both horizontally and vertically. The[Procedure](vbe-glossary.md) and[Object box](vbe-glossary.md) options refer to the pane that has the focus. Code changes are immediately reflected in both panes.
+You can split the  **Code** window horizontally into two panes to view different code segments of a[module](../Glossary/vbe-glossary.md) at the same time. Each pane scrolls separately, both horizontally and vertically. The[Procedure](../Glossary/vbe-glossary.md) and[Object box](../Glossary/vbe-glossary.md) options refer to the pane that has the focus. Code changes are immediately reflected in both panes.
 
  **To split the Code window into panes**
 

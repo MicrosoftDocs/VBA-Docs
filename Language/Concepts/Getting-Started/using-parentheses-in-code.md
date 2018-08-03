@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using Parentheses in Code
 
- **Sub** procedures, built-in[statements](vbe-glossary.md), and some [methods](vbe-glossary.md) don't return a value, so the[arguments](vbe-glossary.md) aren't enclosed in parentheses. For example:
+ **Sub** procedures, built-in[statements](../../Glossary/vbe-glossary.md), and some [methods](../../Glossary/vbe-glossary.md) don't return a value, so the[arguments](../../Glossary/vbe-glossary.md) aren't enclosed in parentheses. For example:
 
 
 ```vb
@@ -39,7 +39,7 @@ Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3")
 
 ```
 
-A statement in a  **Sub** or **Function** procedure can pass values to a called procedure using[named arguments](vbe-glossary.md). The guidelines for using parentheses apply, whether or not you use named arguments. When you use named arguments, you can list them in any order, and you can omit optional arguments. Named arguments are always followed by a colon and an equal sign (**:=**), and then the argument value.
+A statement in a  **Sub** or **Function** procedure can pass values to a called procedure using[named arguments](../../Glossary/vbe-glossary.md). The guidelines for using parentheses apply, whether or not you use named arguments. When you use named arguments, you can list them in any order, and you can omit optional arguments. Named arguments are always followed by a colon and an equal sign (**:=**), and then the argument value.
 The following example calls the  **MsgBox** function using named arguments, but it ignores the return value:
 
 

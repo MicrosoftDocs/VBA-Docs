@@ -9,19 +9,19 @@ ms.date: 06/08/2017
 ---
 # GoTo Statement
 
-Branches unconditionally to a specified line within a [procedure](vbe-glossary.md).
+Branches unconditionally to a specified line within a [procedure](../../Glossary/vbe-glossary.md).
 
  **Syntax**
 
  **GoTo** _line_
 
-The required _line_ [argument](vbe-glossary.md) can be any [line label](vbe-glossary.md) or [line number](vbe-glossary.md).
+The required _line_ [argument](../../Glossary/vbe-glossary.md) can be any [line label](../../Glossary/vbe-glossary.md) or [line number](../../Glossary/vbe-glossary.md).
 
  **Remarks**
  
  **GoTo** can branch only to lines within the procedure where it appears.
 
- >**Note**  Too many  **GoTo** statements can make code difficult to read and debug. Use structured control [statements](vbe-glossary.md) (**Do...Loop**, **For...Next**, **If...Then...Else**, **Select Case**) whenever possible.
+ >**Note**  Too many  **GoTo** statements can make code difficult to read and debug. Use structured control [statements](../../Glossary/vbe-glossary.md) (**Do...Loop**, **For...Next**, **If...Then...Else**, **Select Case**) whenever possible.
 
 ## Example
 

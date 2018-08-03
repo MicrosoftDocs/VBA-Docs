@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid ReDim
 
-Not every [array](vbe-glossary.md) can be redimensioned. This error has the following causes and solutions:
+Not every [array](../../Glossary/vbe-glossary.md) can be redimensioned. This error has the following causes and solutions:
 
 
 
-- A [variable](vbe-glossary.md) was implicitly declared a **Variant**, and you attempted to use **ReDim** to change it to an array.
+- A [variable](../../Glossary/vbe-glossary.md) was implicitly declared a **Variant**, and you attempted to use **ReDim** to change it to an array.
     
     A  **Variant** can contain an array, but if it isn't explicitly declared, you can't use **ReDim** to make it into an array. Declare the **Variant** before using **ReDim** to specify the number of elements it can contain. For example, in the following code, `ReDim AVar(10)` causes an invalid **ReDim** error, but `ReDim BVar(10)` does not:
     

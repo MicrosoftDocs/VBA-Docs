@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the number of objects in a [collection](vbe-glossary.md).
+Returns the number of objects in a [collection](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_. **Count**
 The  **Count** property syntax has these parts:

@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Option Compare Statement
 
-Used at [module level](vbe-glossary.md) to declare the default comparison method to use when string data is compared.
+Used at [module level](../../Glossary/vbe-glossary.md) to declare the default comparison method to use when string data is compared.
 
  **Syntax**
 
  **Option Compare** { **Binary** |**Text** |**Database** }
 
  **Remarks**
-If used, the  **Option** **Compare** statement must appear in a[module](vbe-glossary.md) before any[procedures](vbe-glossary.md).
-The  **Option Compare** statement specifies the[string comparison](vbe-glossary.md) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
- **Option Compare Binary** results in string comparisons based on a[sort order](vbe-glossary.md) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
+If used, the  **Option** **Compare** statement must appear in a[module](../../Glossary/vbe-glossary.md) before any[procedures](../../Glossary/vbe-glossary.md).
+The  **Option Compare** statement specifies the[string comparison](../../Glossary/vbe-glossary.md) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
+ **Option Compare Binary** results in string comparisons based on a[sort order](../../Glossary/vbe-glossary.md) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
 
 
 
@@ -29,7 +29,7 @@ A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
 
 ```
 
- **Option Compare Text** results in string comparisons based on a case-insensitive text sort order determined by your system's[locale](vbe-glossary.md). When the same characters are sorted using  **Option Compare Text**, the following text sort order is produced:
+ **Option Compare Text** results in string comparisons based on a case-insensitive text sort order determined by your system's[locale](../../Glossary/vbe-glossary.md). When the same characters are sorted using  **Option Compare Text**, the following text sort order is produced:
 
 
 

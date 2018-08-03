@@ -17,16 +17,16 @@ Sets attribute information for a file.
 
  **SetAttr** **_pathname_, _attributes_**
 
-The  **SetAttr** statement syntax has these[named arguments](vbe-glossary.md):
+The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_pathname_**|Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
-|**_attributes_**|Required. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes.|
+|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
+|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md) or[numeric expression](../../Glossary/vbe-glossary.md), whose sum specifies file attributes.|
 
  **Settings**
-The  **_attributes_**[argument](vbe-glossary.md) settings are:
+The  **_attributes_**[argument](../../Glossary/vbe-glossary.md) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -41,7 +41,7 @@ The  **_attributes_**[argument](vbe-glossary.md) settings are:
  **Note**  These constants are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
  **Remarks**
-A [run-time error](vbe-glossary.md) occurs if you try to set the attributes of an open file.
+A [run-time error](../../Glossary/vbe-glossary.md) occurs if you try to set the attributes of an open file.
 
 ## Example
 

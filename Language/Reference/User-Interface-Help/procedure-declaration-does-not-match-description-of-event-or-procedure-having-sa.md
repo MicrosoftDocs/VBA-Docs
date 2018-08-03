@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Procedure declaration does not match description of event or procedure having same name
 
-Your [class module](vbe-glossary.md) has a procedure name that conflicts with the name of an event. This error has the following cause and solution:
+Your [class module](../../Glossary/vbe-glossary.md) has a procedure name that conflicts with the name of an event. This error has the following cause and solution:
 
-- A [procedure](vbe-glossary.md) has the same name as an event, but does not have the same signature (that is, the number and types of the [parameters](vbe-glossary.md)). This can occur if you do something such as add a new parameter to an event procedure. For example, if you modify the definition of a form's Form_Load event procedure as follows, this error will occur:
+- A [procedure](../../Glossary/vbe-glossary.md) has the same name as an event, but does not have the same signature (that is, the number and types of the [parameters](../../Glossary/vbe-glossary.md)). This can occur if you do something such as add a new parameter to an event procedure. For example, if you modify the definition of a form's Form_Load event procedure as follows, this error will occur:
     
   ```vb
     Sub Form_Load (MyParam As Integer) 

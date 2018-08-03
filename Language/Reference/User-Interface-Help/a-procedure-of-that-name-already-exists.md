@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # A procedure of that name already exists
 
-[Procedure](vbe-glossary.md) names within the same[scope](vbe-glossary.md) must be unique. Change the name of the procedure.
+[Procedure](../../Glossary/vbe-glossary.md) names within the same[scope](../../Glossary/vbe-glossary.md) must be unique. Change the name of the procedure.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used to perform a logical implication on two [expressions](vbe-glossary.md).
+Used to perform a logical implication on two [expressions](../../Glossary/vbe-glossary.md).
  **Syntax**
  _result_**=**_expression1_ **Imp** _expression2_.
 The  **Imp** operator syntax has these parts:
@@ -21,7 +21,7 @@ The  **Imp** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
@@ -33,7 +33,7 @@ The following table illustrates how  _result_ is determined:
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**False**|
-|**True**|[Null](vbe-glossary.md)|**Null**|
+|**True**|[Null](../../Glossary/vbe-glossary.md)|**Null**|
 |**False**|**True**|**True**|
 |**False**|**False**|**True**|
 |**False**|**Null**|**True**|
@@ -41,7 +41,7 @@ The following table illustrates how  _result_ is determined:
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
 
-The  **Imp** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The  **Imp** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|

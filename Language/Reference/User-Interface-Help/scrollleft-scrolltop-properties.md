@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Specify the distance, in [points](vbe-glossary.md), of the left or top edge of the visible form from the left or top edge of the logical form, page, or control.
+Specify the distance, in [points](../../Glossary/vbe-glossary.md), of the left or top edge of the visible form from the left or top edge of the logical form, page, or control.
  **Syntax**
  _object_. **ScrollLeft** [= _Single_ ]
  _object_. **ScrollTop** [= _Single_ ]

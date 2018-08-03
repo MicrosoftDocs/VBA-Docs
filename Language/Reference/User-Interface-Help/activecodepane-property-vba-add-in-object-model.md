@@ -24,5 +24,5 @@ Set MyApp.VBE. ActiveCodePane = MyApp.VBE.CodePanes(1)
 
 ```
 
-The preceding example sets the first [code pane](vbe-glossary.md) in a[collection](vbe-glossary.md) of code panes to be the active code pane. You can also activate a code pane using the **Set** method.
+The preceding example sets the first [code pane](../../Glossary/vbe-glossary.md) in a[collection](../../Glossary/vbe-glossary.md) of code panes to be the active code pane. You can also activate a code pane using the **Set** method.
 

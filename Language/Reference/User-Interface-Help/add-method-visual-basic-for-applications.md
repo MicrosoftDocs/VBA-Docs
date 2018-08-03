@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 
 
-Adds a [member](vbe-glossary.md) to a **Collection** object.
+Adds a [member](../../Glossary/vbe-glossary.md) to a **Collection** object.
  **Syntax**
  _object_**.Add  _item_,** **_key_,** **_before_,** **_after_**
-The  **Add** method syntax has the following object qualifier and[named arguments](vbe-glossary.md):
+The  **Add** method syntax has the following object qualifier and[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-|**_item_**|Required. An [expression](vbe-glossary.md) of any type that specifies the member to add to the[collection](vbe-glossary.md).|
-|**_key_**|Optional. A unique [string expression](vbe-glossary.md) that specifies a key string that can be used, instead of a positional index, to access a member of the collection.|
-|**_before_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection before the member identified by the  **_before_**[argument](vbe-glossary.md). If a [numeric expression](vbe-glossary.md),  **_before_** must be a number from 1 to the value of the collection's **Count** property. If a string expression, **_before_** must correspond to the **_key_** specified when the member being referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+|**_item_**|Required. An [expression](../../Glossary/vbe-glossary.md) of any type that specifies the member to add to the[collection](../../Glossary/vbe-glossary.md).|
+|**_key_**|Optional. A unique [string expression](../../Glossary/vbe-glossary.md) that specifies a key string that can be used, instead of a positional index, to access a member of the collection.|
+|**_before_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection before the member identified by the  **_before_**[argument](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  **_before_** must be a number from 1 to the value of the collection's **Count** property. If a string expression, **_before_** must correspond to the **_key_** specified when the member being referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
 |**_after_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection after the member identified by the  **_after_** argument. If numeric, **_after_** must be a number from 1 to the value of the collection's **Count** property. If a string, **_after_** must correspond to the **_key_** specified when the member referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
 
  **Remarks**

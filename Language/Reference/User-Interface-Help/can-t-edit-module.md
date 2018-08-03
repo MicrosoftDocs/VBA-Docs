@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Can't edit module
 
-[Modules](vbe-glossary.md) marked as protected can be viewed, but not edited. This error has the following cause and solution:
+[Modules](../../Glossary/vbe-glossary.md) marked as protected can be viewed, but not edited. This error has the following cause and solution:
 
 
 

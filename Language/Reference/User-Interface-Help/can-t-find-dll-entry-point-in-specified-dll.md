@@ -15,7 +15,7 @@ An entry point is the name of a DLL (Windows) or code resource (Macintosh) proce
 
 
 
-- A [type library](vbe-glossary.md) incorrectly described the entry point, perhaps misspelling the name or specifying the ordinal incorrectly.
+- A [type library](../../Glossary/vbe-glossary.md) incorrectly described the entry point, perhaps misspelling the name or specifying the ordinal incorrectly.
     
     Contact the vendor for a corrected type library.
     

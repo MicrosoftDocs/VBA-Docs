@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Sets or returns the fixed height or width of the tabs in [points](vbe-glossary.md).
+Sets or returns the fixed height or width of the tabs in [points](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_. **TabFixedHeight** [= _Single_ ]
  _object_. **TabFixedWidth** [= _Single_ ]

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DriveType Constants
 
-These constants are only available when your project has an explicit reference to the appropriate [type library](vbe-glossary.md) containing these constant definitions.
+These constants are only available when your project has an explicit reference to the appropriate [type library](../../Glossary/vbe-glossary.md) containing these constant definitions.
 
 
 

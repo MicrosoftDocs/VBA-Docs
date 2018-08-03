@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # One or more of the properties in 'item' was bad. Some or all of the properties might not be set correctly.
 
-The specified [project](vbe-glossary.md) file has one or more invalid property settings. This error occurs only in regard to a project file.
+The specified [project](../../Glossary/vbe-glossary.md) file has one or more invalid property settings. This error occurs only in regard to a project file.
 
 

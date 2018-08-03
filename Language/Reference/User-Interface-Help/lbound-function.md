@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) containing the smallest available subscript for the indicated dimension of an[array](vbe-glossary.md).
+Returns a [Long](../../Glossary/vbe-glossary.md) containing the smallest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md).
  **Syntax**
  **LBound(**_arrayname_ [ **,**_dimension_ ] **)**
 The  **LBound** function syntax has these parts:
@@ -21,7 +21,7 @@ The  **LBound** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _arrayname_|Required. Name of the array [variable](vbe-glossary.md); follows standard variable naming conventions.|
+| _arrayname_|Required. Name of the array [variable](../../Glossary/vbe-glossary.md); follows standard variable naming conventions.|
 | _dimension_|Optional;  **Variant** (**Long**). Whole number indicating which dimension's lower bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
 
  **Remarks**

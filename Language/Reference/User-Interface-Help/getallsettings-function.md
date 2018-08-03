@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 
 
-Returns a list of key settings and their respective values (originally created with  **SaveSetting**) from an application's entry in the Windows[registry](vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
+Returns a list of key settings and their respective values (originally created with  **SaveSetting**) from an application's entry in the Windows[registry](../../Glossary/vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
  **Syntax**
  **GetAllSettings( _appname,_** **_section_ )**
-The  **GetAllSettings** function syntax has these[named arguments](vbe-glossary.md):
+The  **GetAllSettings** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_appname_**|Required. [String expression](vbe-glossary.md) containing the name of the application or[project](vbe-glossary.md) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
-|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a[Variant](vbe-glossary.md) whose contents is a two-dimensional[array](vbe-glossary.md) of strings containing all the key settings in the specified section and their corresponding values.|
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md) containing the name of the application or[project](../../Glossary/vbe-glossary.md) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a[Variant](../../Glossary/vbe-glossary.md) whose contents is a two-dimensional[array](../../Glossary/vbe-glossary.md) of strings containing all the key settings in the specified section and their corresponding values.|
 
  **Remarks**
  **GetAllSettings** returns an uninitialized **Variant** if either **_appname_** or **_section_** does not exist.

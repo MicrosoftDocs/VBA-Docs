@@ -25,25 +25,25 @@ The following topics describe common functions used in Access expressions.
 
 [CallByName Function](../../../language/reference/User-Interface-Help/callbyname-function.md)
 
-[CBool Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CBool Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CByte Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CByte Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CCur Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CCur Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDate Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDate Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDbl Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDbl Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDec Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDec Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [Choose Function](../../../language/reference/User-Interface-Help/choose-function.md)
 
 [Chr Function](../../../language/reference/User-Interface-Help/chr-function.md)
 
-[CInt Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CInt Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CLng Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CLng Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [Command Function](../../../language/reference/User-Interface-Help/command-function.md)
 
@@ -53,15 +53,15 @@ The following topics describe common functions used in Access expressions.
 
 [CreateObject Function](../../../language/reference/User-Interface-Help/createobject-function.md)
 
-[CSng Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CSng Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CStr Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CStr Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [CurDir Function](../../../language/reference/User-Interface-Help/curdir-function.md)
 
 [CurrentUser Method](../../../api/Access.Application.CurrentUser.md)
 
-[CVar Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CVar Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [CVErr Function](../../../language/reference/User-Interface-Help/cverr-function.md)
 

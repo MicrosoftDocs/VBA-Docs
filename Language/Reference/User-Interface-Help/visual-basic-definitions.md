@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 - [VBA Glossary](../../../language/Glossary/glossary-vba.md)
-- [VBE Glossary](vbe-glossary.md)
+- [VBE Glossary](../../Glossary/vbe-glossary.md)
 
     
 

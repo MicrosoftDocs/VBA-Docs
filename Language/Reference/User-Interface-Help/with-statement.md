@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # With Statement
 
-Executes a series of [statements](vbe-glossary.md) on a single object or a [user-defined type](vbe-glossary.md).
+Executes a series of [statements](../../Glossary/vbe-glossary.md) on a single object or a [user-defined type](../../Glossary/vbe-glossary.md).
 
  **Syntax**
 
@@ -28,7 +28,7 @@ The  **With** statement syntax has these parts:
 | _statements_|Optional. One or more statements to be executed on  _object_.|
 
  **Remarks**
-The  **With** statement allows you to perform a series of statements on a specified object without requalifying the name of the object. For example, to change a number of different[properties](vbe-glossary.md) on a single object, place the property assignment statements within the **With** control structure, referring to the object once instead of referring to it with each property assignment. The following example illustrates use of the **With** statement to assign values to several properties of the same object.
+The  **With** statement allows you to perform a series of statements on a specified object without requalifying the name of the object. For example, to change a number of different[properties](../../Glossary/vbe-glossary.md) on a single object, place the property assignment statements within the **With** control structure, referring to the object once instead of referring to it with each property assignment. The following example illustrates use of the **With** statement to assign values to several properties of the same object.
 
 
 

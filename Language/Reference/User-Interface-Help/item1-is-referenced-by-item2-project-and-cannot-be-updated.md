@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # 'item1' is referenced by 'item2' project and cannot be updated.
 
-The specified control is referenced by more than one [project](vbe-glossary.md). Updating it for one project might invalidate it for another.
+The specified control is referenced by more than one [project](../../Glossary/vbe-glossary.md). Updating it for one project might invalidate it for another.
 
 

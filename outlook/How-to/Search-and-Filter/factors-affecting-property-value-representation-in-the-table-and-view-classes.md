@@ -30,6 +30,6 @@ The type and format of a binary, date, or multi-valued property are affected by 
 |Date|Local time|Coordinated Universal Time (UTC)|
 |Multi-valued|String containing comma-separated values|1-dimensional array containing one element for each keyword|
 
- **Note**  For more information on referencing properties by namespace, see  [Referencing Properties by Namespace](referencing-properties-by-namespace.md).
+ **Note**  For more information on referencing properties by namespace, see  [Referencing Properties by Namespace](../Navigation/referencing-properties-by-namespace.md).
 
 

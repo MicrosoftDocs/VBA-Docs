@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing Declaration Statements
 
-You use declaration statements to name and define [procedures](vbe-glossary.md), [variables](vbe-glossary.md), [arrays](vbe-glossary.md), and [constants](vbe-glossary.md). When you declare a procedure, variable, or constant, you also define its [scope](vbe-glossary.md), depending on where you place the declaration and what [keywords](vbe-glossary.md) you use to declare it.
+You use declaration statements to name and define [procedures](../../Glossary/vbe-glossary.md), [variables](../../Glossary/vbe-glossary.md), [arrays](../../Glossary/vbe-glossary.md), and [constants](../../Glossary/vbe-glossary.md). When you declare a procedure, variable, or constant, you also define its [scope](../../Glossary/vbe-glossary.md), depending on where you place the declaration and what [keywords](../../Glossary/vbe-glossary.md) you use to declare it.
 
 The following example contains three declarations.
 

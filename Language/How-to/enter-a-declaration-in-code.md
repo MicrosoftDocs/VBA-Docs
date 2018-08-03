@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Enter a Declaration in Code
 
-Declarations are nonexecutable code statements that name external [procedures](vbe-glossary.md), [constants](vbe-glossary.md), or [variables](vbe-glossary.md) and define their attributes (such as[data type](vbe-glossary.md)). You write declarations for [form](vbe-glossary.md), [standard](vbe-glossary.md), or [class](vbe-glossary.md) modules. To enter[module-level](vbe-glossary.md) declarations, go to the Declarations section of a module. To enter global declarations, go to the Declarations section of a module and use the **Public** statement for constants and variables. You can also use the **Dim**, **Static**, and **Private**[keywords](vbe-glossary.md) to make declarations.
+Declarations are nonexecutable code statements that name external [procedures](../Glossary/vbe-glossary.md), [constants](../Glossary/vbe-glossary.md), or [variables](../Glossary/vbe-glossary.md) and define their attributes (such as[data type](../Glossary/vbe-glossary.md)). You write declarations for [form](../Glossary/vbe-glossary.md), [standard](../Glossary/vbe-glossary.md), or [class](../Glossary/vbe-glossary.md) modules. To enter[module-level](../Glossary/vbe-glossary.md) declarations, go to the Declarations section of a module. To enter global declarations, go to the Declarations section of a module and use the **Public** statement for constants and variables. You can also use the **Dim**, **Static**, and **Private**[keywords](../Glossary/vbe-glossary.md) to make declarations.
 
-You can also enter [procedure-level](vbe-glossary.md) declarations. For whatever code level and technique you use to declare a variable or constant, specific[scoping](vbe-glossary.md) rules may apply.
+You can also enter [procedure-level](../Glossary/vbe-glossary.md) declarations. For whatever code level and technique you use to declare a variable or constant, specific[scoping](../Glossary/vbe-glossary.md) rules may apply.
 
  **To open the Declarations section of a module**
 
@@ -21,9 +21,9 @@ You can also enter [procedure-level](vbe-glossary.md) declarations. For whatever
 
 1. In the  **Project** window, select the form, standard, or class module you want to open and click the **View Code** button. - Or - Right-click and choose **View Code** from the context menu.
     
-2. [Object box](vbe-glossary.md)
+2. [Object box](../Glossary/vbe-glossary.md)
     
-    The [Procedure box](vbe-glossary.md) automatically displays **(Declarations)**.
+    The [Procedure box](../Glossary/vbe-glossary.md) automatically displays **(Declarations)**.
     
 3. Enter one or more declarations.
     

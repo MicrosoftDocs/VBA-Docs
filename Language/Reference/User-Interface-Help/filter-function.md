@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 Returns a zero-based array containing subset of a string array based on a specified filter criteria.
  **Syntax**
  **Filter( _sourcearray, match_** [ **_, include_** [ **_, compare_** ]] **)**
-The  **Filter** function syntax has these[named argument](vbe-glossary.md):
+The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|

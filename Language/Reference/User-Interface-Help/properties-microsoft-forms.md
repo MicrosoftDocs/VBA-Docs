@@ -161,7 +161,7 @@ ms.date: 06/08/2017
     
 - [Parent Property (Microsoft Forms)](parent-propertya-microsoft-forms.md)
     
-- [PasswordChar Property](passwordchar-property.md)
+- [PasswordChar Property](../../Concepts/Forms/passwordchar-property.md)
     
 - [Picture Property](picture-property.md)
     

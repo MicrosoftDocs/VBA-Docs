@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](vbe-glossary.md) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
+Returns a [Double](../../Glossary/vbe-glossary.md) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
  **Syntax**
  **NPV( _rate_**, **_values_ ())**
-The  **NPV** function has these[named arguments](vbe-glossary.md):
+The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_rate_**|Required.  **Double** specifying discount rate over the length of the period, expressed as a decimal.|
-|**_values_ ()**|Required. [Array](vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
+|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 
  **Remarks**
 The net present value of an investment is the current value of a future series of payments and receipts.

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using For Each...Next Statements
 
- **For Each...Next** statements repeat a block of[statements](vbe-glossary.md) for each[object](vbe-glossary.md) in a[collection](vbe-glossary.md) or each element in an[array](vbe-glossary.md). Visual Basic automatically sets a [variable](vbe-glossary.md) each time the loop runs. For example, the following[procedure](vbe-glossary.md) closes all forms except the form containing the procedure that's running.
+ **For Each...Next** statements repeat a block of[statements](../../Glossary/vbe-glossary.md) for each[object](../../Glossary/vbe-glossary.md) in a[collection](../../Glossary/vbe-glossary.md) or each element in an[array](../../Glossary/vbe-glossary.md). Visual Basic automatically sets a [variable](../../Glossary/vbe-glossary.md) each time the loop runs. For example, the following[procedure](../../Glossary/vbe-glossary.md) closes all forms except the form containing the procedure that's running.
 
 
 ```vb

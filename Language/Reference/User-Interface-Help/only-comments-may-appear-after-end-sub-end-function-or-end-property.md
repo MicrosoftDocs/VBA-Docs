@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Only comments may appear after End Sub, End Function, or End Property
 
-Only [comments](vbe-glossary.md), directives, and [declarations](vbe-glossary.md) are permitted outside[procedures](vbe-glossary.md). This error has the following cause and solution:
+Only [comments](../../Glossary/vbe-glossary.md), directives, and [declarations](../../Glossary/vbe-glossary.md) are permitted outside[procedures](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
 
 
 

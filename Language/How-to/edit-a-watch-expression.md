@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-1. Double-click the [watch expression](vbe-glossary.md) in the **Watch** window.
+1. Double-click the [watch expression](../Glossary/vbe-glossary.md) in the **Watch** window.
     
     -or-
     

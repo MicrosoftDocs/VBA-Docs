@@ -19,7 +19,7 @@ Occurs when a user form is resized.
  **Syntax**
  **Private Sub UserForm_Resize()**
  **Remarks**
-Use a Resize event [procedure](vbe-glossary.md) to move or resize[controls](vbe-glossary.md) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](vbe-glossary.md) or[properties](vbe-glossary.md).
+Use a Resize event [procedure](../../Glossary/vbe-glossary.md) to move or resize[controls](../../Glossary/vbe-glossary.md) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](../../Glossary/vbe-glossary.md) or[properties](../../Glossary/vbe-glossary.md).
 
 ## Example
 

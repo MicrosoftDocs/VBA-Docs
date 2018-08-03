@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the indexed member of a [collection](vbe-glossary.md).
+Returns the indexed member of a [collection](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_**.Item(**_index_**)**
 The  **Item** method syntax has these parts:
@@ -21,8 +21,8 @@ The  **Item** method syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _index_|Required. An expression that specifies the position of a member of the collection. If a [numeric expression](vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](vbe-glossary.md),  _index_ must correspond to the _key_[argument](vbe-glossary.md) specified when the member was added to the collection.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _index_|Required. An expression that specifies the position of a member of the collection. If a [numeric expression](../../Glossary/vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](../../Glossary/vbe-glossary.md),  _index_ must correspond to the _key_[argument](../../Glossary/vbe-glossary.md) specified when the member was added to the collection.|
 
 The following table lists the collections and their corresponding  _key_ arguments for use with the **Item** method. The string you pass to the **Item** method must match the collection's _key_ argument.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Line isn't an executable statement
 
-[Declarations](vbe-glossary.md) and[comments](vbe-glossary.md) are not executable statements. This error has the following cause and solution:
+[Declarations](../../Glossary/vbe-glossary.md) and[comments](../../Glossary/vbe-glossary.md) are not executable statements. This error has the following cause and solution:
 
 
 

@@ -17,5 +17,5 @@ ms.date: 06/08/2017
 |Get information about a variant.|[IsArray](isarray-function.md), [IsDate](isdate-function.md), [IsEmpty](isempty-function.md), [IsError](iserror-function.md), [IsMissing](ismissing-function.md), [IsNull](isnull-function.md), [IsNumeric](isnumeric-function.md), [IsObject](isobject-function.md), [TypeName](typename-function.md), [VarType](vartype-function.md)|
 |Refer to current object.|[Me](me-keyword.md)|
 |Require explicit variable declarations.|[Option Explicit](option-explicit-statement.md)|
-|Set default data type.|[Deftype](deftype-statements.md)|
+|Set default data type.|[Deftype](../../Concepts/Getting-Started/deftype-statements.md)|
 

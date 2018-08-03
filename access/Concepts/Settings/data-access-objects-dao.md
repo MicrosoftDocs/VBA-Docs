@@ -31,7 +31,7 @@ ms.date: 06/08/2017
     
 - [Detect the Limits of a DAO Recordset](../Data-Access-Objects/detect-the-limits-of-a-dao-recordset.md)
     
-- [Extract Data from a Record in a DAO Recordset](extract-data-from-a-record-in-a-dao-recordset.md)
+- [Extract Data from a Record in a DAO Recordset](../Data-Access-Objects/extract-data-from-a-record-in-a-dao-recordset.md)
     
 - [Find a Record in a Dynaset-Type or Snapshot-Type DAO Recordset](../Data-Access-Objects/find-a-record-in-a-dynaset-type-or-snapshot-type-dao-recordset.md)
     
@@ -43,7 +43,7 @@ ms.date: 06/08/2017
     
 - [Manipulate Multivalued Fields With DAO](../Data-Access-Objects/manipulate-multivalued-fields-with-dao.md)
     
-- [Mark a Position in a DAO Recordset](mark-a-position-in-a-dao-recordset.md)
+- [Mark a Position in a DAO Recordset](../Data-Access-Objects/mark-a-position-in-a-dao-recordset.md)
     
 - [Modify a Query from a DAO Recordset](../Data-Access-Objects/modify-a-query-from-a-dao-recordset.md)
     
@@ -51,7 +51,7 @@ ms.date: 06/08/2017
     
 - [Move Through a DAO Recordset](../Data-Access-Objects/move-through-a-dao-recordset.md)
     
-- [Read From and Write To a Field in a DAO Recordset](read-from-and-write-to-a-field-in-a-dao-recordset.md)
+- [Read From and Write To a Field in a DAO Recordset](../Data-Access-Objects/read-from-and-write-to-a-field-in-a-dao-recordset.md)
     
 - [Return a Random Record from a DAO Recordset](../Data-Access-Objects/return-a-random-record-from-a-dao-recordset.md)
     

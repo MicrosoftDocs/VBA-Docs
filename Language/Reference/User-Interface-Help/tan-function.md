@@ -16,10 +16,10 @@ ms.date: 06/08/2017
 Returns a  **Double** specifying the tangent of an angle.
  **Syntax**
  **Tan(**_number_**)**
-The required  _number_[argument](vbe-glossary.md) is a[Double](vbe-glossary.md) or any valid[numeric expression](vbe-glossary.md) that expresses an angle in radians.
+The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md) that expresses an angle in radians.
  **Remarks**
  **Tan** takes an angle and returns the ratio of two sides of a right triangle. The ratio is the length of the side opposite the angle divided by the length of the side adjacent to the angle.
-To convert degrees to radians, multiply degrees by [pi](vbe-glossary.md)/180. To convert radians to degrees, multiply radians by 180/pi.
+To convert degrees to radians, multiply degrees by [pi](../../Glossary/vbe-glossary.md)/180. To convert radians to degrees, multiply radians by 180/pi.
 
 ## Example
 

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # For Each control variable must be Variant or Object
 
-A control [variable](vbe-glossary.md) is the _element_ part of the **For Each...Next** statement syntax. This error has the following causes and solutions:
+A control [variable](../../Glossary/vbe-glossary.md) is the _element_ part of the **For Each...Next** statement syntax. This error has the following causes and solutions:
 
 
 
-- A [collection](vbe-glossary.md) has a control variable that isn't a **Variant** or **Object** type.
+- A [collection](../../Glossary/vbe-glossary.md) has a control variable that isn't a **Variant** or **Object** type.
     
     Make sure the  _element_ part of the **For Each...Next** is a **Variant** or **Object**.
     
-- An [array](vbe-glossary.md) has a control variable that isn't a **Variant**.
+- An [array](../../Glossary/vbe-glossary.md) has a control variable that isn't a **Variant**.
     
     Make sure the  _element_ part of the **For Each...Next** is a **Variant**.
     

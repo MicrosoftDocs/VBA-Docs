@@ -38,6 +38,6 @@ The settings for  _Boolean_ are:
  **Remarks**
 If the  **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 
- **Note**  Not all [containers](vbe-glossary.md) enforce this property.
+ **Note**  Not all [containers](../../Glossary/vbe-glossary.md) enforce this property.
 
 

@@ -44,29 +44,29 @@ The following list contains topics that describe common functions used in Access
 
 [Asc Function](../../../language/reference/User-Interface-Help/asc-function.md)
 
-[CBool Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CBool Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CByte Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CByte Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CCur Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CCur Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDate Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDate Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDbl Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDbl Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CDec Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CDec Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [Chr Function](../../../language/reference/User-Interface-Help/chr-function.md)
 
-[CInt Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CInt Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CLng Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CLng Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CSng Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CSng Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CStr Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CStr Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
-[CVar Function](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[CVar Function](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [Day Function](../../../language/reference/User-Interface-Help/day-function.md)
 
@@ -92,7 +92,7 @@ The following list contains topics that describe common functions used in Access
 
 [StringFromGUID Method](../../../api/Access.Application.StringFromGUID.md)
 
-[Type Conversion Functions](../../../language/reference/User-Interface-Help/type-conversion-functions.md)
+[Type Conversion Functions](../../../Language/Concepts/Getting-Started/type-conversion-functions.md)
 
 [Val Function](../../../language/reference/User-Interface-Help/val-function.md)
 

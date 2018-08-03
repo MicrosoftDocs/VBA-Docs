@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # Breakpoint not allowed on this line
 
-[Breakpoints](vbe-glossary.md) can only be placed on certain parts of statements. This error has the following causes:
+[Breakpoints](../../Glossary/vbe-glossary.md) can only be placed on certain parts of statements. This error has the following causes:
 
 - You tried to place a breakpoint on a line that can't accept a breakpoint, for example:
     
-  - A line that contains only [comments](vbe-glossary.md).
+  - A line that contains only [comments](../../Glossary/vbe-glossary.md).
     
-  - A line that contains only [line labels](vbe-glossary.md).
+  - A line that contains only [line labels](../../Glossary/vbe-glossary.md).
     
-  - A line that contains only [declarations](vbe-glossary.md) (**Const**, **Dim**, **Static**, **Type**, and so on).
+  - A line that contains only [declarations](../../Glossary/vbe-glossary.md) (**Const**, **Dim**, **Static**, **Type**, and so on).
     
-  - Any line in a hidden [module](vbe-glossary.md).
+  - Any line in a hidden [module](../../Glossary/vbe-glossary.md).
     
   - Any line in the **Immediate** window.
 

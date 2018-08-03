@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) (long integer) containing the number of objects in a[collection](vbe-glossary.md). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md) (long integer) containing the number of objects in a[collection](../../Glossary/vbe-glossary.md). Read-only.
 
 ## Example
 

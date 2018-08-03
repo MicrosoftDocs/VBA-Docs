@@ -24,11 +24,11 @@ The  **Lock** and **Unlock** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
 | _recordrange_|Optional. The range of records to lock or unlock.|
 
  **Settings**
-The  _recordrange_[argument](vbe-glossary.md) settings are:
+The  _recordrange_[argument](../../Glossary/vbe-glossary.md) settings are:
  _recnumber_ | [ _start_ ] **To**_end_
 
 

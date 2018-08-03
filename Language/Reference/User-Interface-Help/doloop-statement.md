@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Do...Loop Statement
 
-Repeats a block of [statements](vbe-glossary.md) while a condition is **True** or until a condition becomes **True**.
+Repeats a block of [statements](../../Glossary/vbe-glossary.md) while a condition is **True** or until a condition becomes **True**.
 
  **Syntax**
 
@@ -32,7 +32,7 @@ The  **Do Loop** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _condition_|Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that is **True** or **False**. If _condition_ is[Null](vbe-glossary.md),  _condition_ is treated as **False**.|
+| _condition_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) that is **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md),  _condition_ is treated as **False**.|
 | _statements_|One or more statements that are repeated while, or until,  _condition_ is **True**.|
 
  **Remarks**

@@ -25,7 +25,7 @@ Displays the **Code** window so you can write and edit code associated with the 
 
 ![Code window](../../../images/tbr_obj_ZA01201719.gif) **View Object**
 
-Displays the **Object** window for the selected item, an existing [Document](vbe-glossary.md) or UserForm.
+Displays the **Object** window for the selected item, an existing [Document](../../Glossary/vbe-glossary.md) or UserForm.
 
 
 ![Code window](../../../images/tbr_tgfd_ZA01201756.gif) **Toggle Folders**

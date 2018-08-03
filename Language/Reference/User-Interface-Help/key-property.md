@@ -29,5 +29,5 @@ The  **Key** property has the following parts:
 | _newkey_|Required. New value that replaces the specified  _key_.|
 
  **Remarks**
-If  _key_ is not found when changing a _key_, a[run-time error](vbe-glossary.md) will occur.
+If  _key_ is not found when changing a _key_, a[run-time error](../../Glossary/vbe-glossary.md) will occur.
 

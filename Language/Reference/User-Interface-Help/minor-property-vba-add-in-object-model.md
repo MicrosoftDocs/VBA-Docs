@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) indicating the minor version number of the referenced[type library](vbe-glossary.md). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md) indicating the minor version number of the referenced[type library](../../Glossary/vbe-glossary.md). Read-only.
  **Remarks**
 The number returned by the  **Minor** property corresponds to the minor version number stored in the type library to which you have set the reference.
 

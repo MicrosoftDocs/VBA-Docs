@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Named arguments not allowed
 
-[Named arguments](vbe-glossary.md) aren't permitted in all situations. This error has the following causes and solutions:
+[Named arguments](../../Glossary/vbe-glossary.md) aren't permitted in all situations. This error has the following causes and solutions:
 
 
 
-- You tried to specify a named argument as an [array](vbe-glossary.md) index, for example:
+- You tried to specify a named argument as an [array](../../Glossary/vbe-glossary.md) index, for example:
     
   ```vb
   MyVar = MyArray(MyNamedArg := 1) 
@@ -23,7 +23,7 @@ ms.date: 06/08/2017
   ```
 
 
-    Use an ordinary [variable](vbe-glossary.md) or constant[expression](vbe-glossary.md) as an array index.
+    Use an ordinary [variable](../../Glossary/vbe-glossary.md) or constant[expression](../../Glossary/vbe-glossary.md) as an array index.
     
 - You tried to specify a named argument with an object, for example:
     
@@ -33,7 +33,7 @@ ms.date: 06/08/2017
   ```
 
 
-     Use a variable or constant expression if the object requires an[argument](vbe-glossary.md). For example, if the default for an object is a [method](vbe-glossary.md), the object's name represents the default method. If it needs arguments, specify them positionally.
+     Use a variable or constant expression if the object requires an[argument](../../Glossary/vbe-glossary.md). For example, if the default for an object is a [method](../../Glossary/vbe-glossary.md), the object's name represents the default method. If it needs arguments, specify them positionally.
     
 - You tried to specify a named argument with an external name:
     

@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Out of memory; some watches might have been deleted
 
-When your system runs out of memory, [watch expressions](vbe-glossary.md) are deleted to make enough memory available to permit recovery from the condition. This error has the following cause and solution:
+When your system runs out of memory, [watch expressions](../../Glossary/vbe-glossary.md) are deleted to make enough memory available to permit recovery from the condition. This error has the following cause and solution:
 
 
 
-- You have too many [applications](vbe-glossary.md), [projects](vbe-glossary.md), or [modules](vbe-glossary.md) loaded.
+- You have too many [applications](../../Glossary/vbe-glossary.md), [projects](../../Glossary/vbe-glossary.md), or [modules](../../Glossary/vbe-glossary.md) loaded.
     
     To continue working, remove any dispensable elements from memory, including unnecessary applications, projects, or modules that may be loaded.
     

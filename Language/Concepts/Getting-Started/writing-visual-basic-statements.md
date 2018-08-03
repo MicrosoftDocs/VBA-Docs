@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing Visual Basic Statements
 
-A [statement](vbe-glossary.md) in Visual Basic is a complete instruction. It can contain[keywords](vbe-glossary.md), operators, [variables](vbe-glossary.md), [constants](vbe-glossary.md), and [expressions](vbe-glossary.md). Each statement belongs to one of the following three categories:
+A [statement](../../Glossary/vbe-glossary.md) in Visual Basic is a complete instruction. It can contain[keywords](../../Glossary/vbe-glossary.md), operators, [variables](../../Glossary/vbe-glossary.md), [constants](../../Glossary/vbe-glossary.md), and [expressions](../../Glossary/vbe-glossary.md). Each statement belongs to one of the following three categories:
 
 
 
@@ -25,7 +25,7 @@ A [statement](vbe-glossary.md) in Visual Basic is a complete instruction. It can
 
 ## Continuing a Statement over Multiple Lines
 
-A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](vbe-glossary.md). In the following example, the  **MsgBox** executable statement is continued over three lines:
+A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](../../Glossary/vbe-glossary.md). In the following example, the  **MsgBox** executable statement is continued over three lines:
 
 
 ```vb

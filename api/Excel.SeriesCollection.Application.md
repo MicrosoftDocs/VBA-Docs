@@ -20,7 +20,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
+ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
 ## Example
@@ -41,5 +41,5 @@ End If
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

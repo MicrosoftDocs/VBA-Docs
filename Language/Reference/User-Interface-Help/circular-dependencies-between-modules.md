@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Circular dependencies between modules
 
-Circular references between [modules](vbe-glossary.md), [constants](vbe-glossary.md), and [user-defined types](vbe-glossary.md) aren't allowed. This error has the following cause and solution:
+Circular references between [modules](../../Glossary/vbe-glossary.md), [constants](../../Glossary/vbe-glossary.md), and [user-defined types](../../Glossary/vbe-glossary.md) aren't allowed. This error has the following cause and solution:
 
 
 

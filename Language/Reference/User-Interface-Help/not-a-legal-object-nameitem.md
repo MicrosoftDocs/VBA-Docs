@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Not a legal object name: 'item
 
-Form and [control](vbe-glossary.md) names must start with a letter and can be a maximum of 40 characters — including letters, numbers, and underscores (_).
+Form and [control](../../Glossary/vbe-glossary.md) names must start with a letter and can be a maximum of 40 characters — including letters, numbers, and underscores (_).
 
-Note that the  **Name** property of a form or control is different from the **Label** properties — **Caption**, **Text**, and **Value** — that label or display the contents of a control at[run time](vbe-glossary.md). These [properties](vbe-glossary.md) can be restricted[keywords](vbe-glossary.md), can begin with a number, and can contain nonalphanumeric characters.
+Note that the  **Name** property of a form or control is different from the **Label** properties — **Caption**, **Text**, and **Value** — that label or display the contents of a control at[run time](../../Glossary/vbe-glossary.md). These [properties](../../Glossary/vbe-glossary.md) can be restricted[keywords](../../Glossary/vbe-glossary.md), can begin with a number, and can contain nonalphanumeric characters.
 

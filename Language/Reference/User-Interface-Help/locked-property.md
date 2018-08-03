@@ -36,5 +36,5 @@ The settings for  _Boolean_ are:
 |**False**|You can edit the value (default).|
 
  **Remarks**
-When a control is locked and enabled, it can still initiate events and can still receive the [focus](vbe-glossary.md).
+When a control is locked and enabled, it can still initiate events and can still receive the [focus](../../Glossary/vbe-glossary.md).
 

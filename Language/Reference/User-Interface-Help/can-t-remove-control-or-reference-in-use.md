@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Can't remove control or reference; in use
 
-The [ActiveX control](vbe-glossary.md) or reference that you tried to remove, is being used by one of the forms in the project. First delete the control or referenced object from the form, and then cancel the selection in the list.
+The [ActiveX control](../../Glossary/vbe-glossary.md) or reference that you tried to remove, is being used by one of the forms in the project. First delete the control or referenced object from the form, and then cancel the selection in the list.
 
 

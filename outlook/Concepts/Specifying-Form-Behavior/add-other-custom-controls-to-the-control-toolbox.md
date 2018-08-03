@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 
 
-1. In Forms Designer, on the  **Developer** tab, in the **Tools** group, click [Control Toolbox](control-toolbox-overview.md).
+1. In Forms Designer, on the  **Developer** tab, in the **Tools** group, click [Control Toolbox](../Customizing-Forms/control-toolbox-overview.md).
     
 2. Right-click any control or an empty area on any page of the  **Control Toolbox**, and then click  **Custom Controls** on the shortcut menu.
     

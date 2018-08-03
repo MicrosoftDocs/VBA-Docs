@@ -20,7 +20,7 @@ Returns a single object from a collection.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
+ _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
 ### Parameters
@@ -52,5 +52,5 @@ End With
 ## See also
 
 
-[SeriesCollection Object](Excel.SeriesCollection(object).md)
+[SeriesCollection Object](./Excel.SeriesCollection.md)
 

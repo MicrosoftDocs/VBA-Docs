@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Please see the Readme file for more information on this error
 
-Some topics were added to this product after Help was completed. Help explanations for these can be found in the [host application's](vbe-glossary.md) Readme file.
+Some topics were added to this product after Help was completed. Help explanations for these can be found in the [host application's](../../Glossary/vbe-glossary.md) Readme file.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

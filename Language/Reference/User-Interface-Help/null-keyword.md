@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Null <keyword>
 
-The [Null](vbe-glossary.md)[keyword](vbe-glossary.md) is used as a[Variant](vbe-glossary.md) subtype. It indicates that a[variable](vbe-glossary.md) contains no valid data.
+The [Null](../../Glossary/vbe-glossary.md)[keyword](../../Glossary/vbe-glossary.md) is used as a[Variant](../../Glossary/vbe-glossary.md) subtype. It indicates that a[variable](../../Glossary/vbe-glossary.md) contains no valid data.
 
 

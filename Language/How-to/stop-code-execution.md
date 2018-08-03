@@ -15,19 +15,19 @@ As you run your code, it may stop executing for one of the following reasons:
 
 
 
-- An untrapped [run-time error](vbe-glossary.md) occurs.
+- An untrapped [run-time error](../Glossary/vbe-glossary.md) occurs.
     
 - A trapped run-time error occurs, and  **Break on All Errors** is selected on the **General** tab in the **Options** dialog box.
     
-- A [breakpoint](vbe-glossary.md) is encountered.
+- A [breakpoint](../Glossary/vbe-glossary.md) is encountered.
     
-- A  **Stop** statement is encountered in your code, switching the mode to[break mode](vbe-glossary.md).
+- A  **Stop** statement is encountered in your code, switching the mode to[break mode](../Glossary/vbe-glossary.md).
     
-- An  **End** statement is encountered in your code, switching the mode to[design time](vbe-glossary.md).
+- An  **End** statement is encountered in your code, switching the mode to[design time](../Glossary/vbe-glossary.md).
     
 - You halt execution manually at a given point.
     
-- A [watch expression](vbe-glossary.md) that you set to break if its value changes or becomes true is encountered.
+- A [watch expression](../Glossary/vbe-glossary.md) that you set to break if its value changes or becomes true is encountered.
     
 
  **To halt execution manually**

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** (**Integer**) indicating the result of a[string comparison](vbe-glossary.md).
+Returns a  **Variant** (**Integer**) indicating the result of a[string comparison](../../Glossary/vbe-glossary.md).
  **Syntax**
  **StrComp** (**_string1_**, **_string2_** [, **_compare_** ])
-The  **StrComp** function syntax has these[named arguments](vbe-glossary.md):
+The  **StrComp** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string1_**|Required. Any valid [string expression](vbe-glossary.md).|
+|**_string1_**|Required. Any valid [string expression](../../Glossary/vbe-glossary.md).|
 |**_string2_**|Required. Any valid string expression.|
-|**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](vbe-glossary.md) is[Null](vbe-glossary.md), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
+|**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](../../Glossary/vbe-glossary.md) is[Null](../../Glossary/vbe-glossary.md), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
 
  **Settings**
 The  **compare** argument settings are:

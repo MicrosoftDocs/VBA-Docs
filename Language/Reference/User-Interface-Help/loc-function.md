@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](vbe-glossary.md) specifying the current read/write position within an open file.
+Returns a [Long](../../Glossary/vbe-glossary.md) specifying the current read/write position within an open file.
  **Syntax**
  **Loc(**_filenumber_**)**
-The required  _filenumber_[argument](vbe-glossary.md) is any valid[Integer](vbe-glossary.md)[file number](vbe-glossary.md).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is any valid[Integer](../../Glossary/vbe-glossary.md)[file number](../../Glossary/vbe-glossary.md).
  **Remarks**
 The following describes the return value for each file access mode:
 

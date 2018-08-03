@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether a control can receive the [focus](vbe-glossary.md) and respond to user-generated events.
+Specifies whether a control can receive the [focus](../../Glossary/vbe-glossary.md) and respond to user-generated events.
  **Syntax**
  _object_. **Enabled** [= _Boolean_ ]
 The  **Enabled** property syntax has these parts:
@@ -47,7 +47,7 @@ The  **Enabled** and **Locked** properties work together to achieve the followin
 - If  **Enabled** and **Locked** are both **False**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
     
 
-You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a command button with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the command button won't appear in the[tab order](vbe-glossary.md). However, if  **Enabled** is **True**, then the user can still click the command button, as long as **TakeFocusOnClick** is set to **True**.
+You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a command button with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the command button won't appear in the[tab order](../../Glossary/vbe-glossary.md). However, if  **Enabled** is **True**, then the user can still click the command button, as long as **TakeFocusOnClick** is set to **True**.
 When the user tabs into an enabled  **MultiPage** or **TabStrip**, the first page or tab in the control receives the focus. If the first page or tab of a **MultiPage** or **TabStrip** is disabled, the first enabled page or tab of that control receives the focus. If all pages or tabs of a **MultiPage** or **TabStrip** are disabled, the control is disabled and cannot receive the focus.
 If a  **Frame** is disabled, all controls it contains are disabled.
 Clicking a disabled  **ListBox** does not initiate the Click event.

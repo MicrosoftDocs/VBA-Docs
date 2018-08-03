@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns a  **Variant** (**Integer**) specifying a whole number between 0 and 59, inclusive, representing the second of the minute.
  **Syntax**
  **Second(**_time_**)**
-The required  _time_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a time. If  _time_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _time_[argument](../../Glossary/vbe-glossary.md) is any[Variant](../../Glossary/vbe-glossary.md), [numeric expression](../../Glossary/vbe-glossary.md), [string expression](../../Glossary/vbe-glossary.md), or any combination, that can represent a time. If  _time_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
 
 ## Example
 

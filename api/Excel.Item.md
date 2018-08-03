@@ -62,7 +62,7 @@ Returns a single Point object from a Points collection.
 Item method as it applies to the  **SeriesCollection** object.
 Returns a single Series object from a SeriesCollection collection.
  _expression_. **Item**(**_Index_**)
- _expression_ Required. An expression that returns a [SeriesCollection](./Excel.SeriesCollection(object).md) collection.
+ _expression_ Required. An expression that returns a [SeriesCollection](./Excel.SeriesCollection.md) collection.
  **Index**Required  **Variant**. The name or index number of the series.
 Item method as it applies to the  **Trendlines** object.
 Returns a single Trendline object from a Trendlines collection.

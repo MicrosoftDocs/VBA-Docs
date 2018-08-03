@@ -31,7 +31,7 @@ ms.date: 06/08/2017
     
 -  [Controls in a Custom Form](controls-in-a-custom-form.md)
     
--  [Control Toolbox Overview](control-toolbox-overview.md)
+-  [Control Toolbox Overview](../Customizing-Forms/control-toolbox-overview.md)
     
 -  [ToolTips and Control Tips Overview](tooltips-and-control-tips-overview.md)
     

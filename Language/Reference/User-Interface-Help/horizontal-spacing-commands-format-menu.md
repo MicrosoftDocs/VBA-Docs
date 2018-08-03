@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Horizontal Spacing Commands (Format Menu)
 
-Changes the horizontal space between selected [objects](vbe-glossary.md).
+Changes the horizontal space between selected [objects](../../Glossary/vbe-glossary.md).
 
  **Make Equal**
 

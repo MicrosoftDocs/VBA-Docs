@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # Using Do...Loop Statements
 
-You can use  **Do...Loop** statements to run a block of[statements](vbe-glossary.md) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
+You can use  **Do...Loop** statements to run a block of[statements](../../Glossary/vbe-glossary.md) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
 
 
 ## Repeating Statements While a Condition is True
 
-There are two ways to use the  **While**[keyword](vbe-glossary.md) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop , or you can check it after the loop has run at least once.
+There are two ways to use the  **While**[keyword](../../Glossary/vbe-glossary.md) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop , or you can check it after the loop has run at least once.
 
 In the following  `ChkFirstWhile` procedure, you check the condition before you enter the loop. If `myNum` is set to 9 instead of 20, the statements inside the loop will never run. In the `ChkLastWhile` procedure, the statements inside the loop run only once before the condition becomes **False**.
 

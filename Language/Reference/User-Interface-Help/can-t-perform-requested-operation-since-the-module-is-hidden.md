@@ -15,7 +15,7 @@ This error pertains to the Visual Basic extensibility (add-in) object model. Thi
 
 
 
-- The [module](vbe-glossary.md) is hidden. You can't modify a hidden module or obtain information from a hidden module.
+- The [module](../../Glossary/vbe-glossary.md) is hidden. You can't modify a hidden module or obtain information from a hidden module.
     
     Unhide the module and try the operation again.
     

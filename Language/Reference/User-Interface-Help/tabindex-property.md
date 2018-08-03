@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the position of a single object in the form's [tab order](vbe-glossary.md).
+Specifies the position of a single object in the form's [tab order](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_. **TabIndex** [= _Integer_ ]
 The  **TabIndex** property syntax has these parts:
