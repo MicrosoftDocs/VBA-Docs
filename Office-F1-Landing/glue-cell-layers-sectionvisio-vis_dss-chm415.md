@@ -1,5 +1,5 @@
 ---
-title: Celda Glue (sección Capas), Visio [Vis_DSS.chm415]
+title: Glue Cell (Layers Section), Visio [Vis_DSS.chm415]
 keywords: vis_dss.chm415
 f1_keywords:
 - vis_dss.chm415
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Glue Cell (Layers Section), Visio [Vis_DSS.chm415]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Glue (sección Capas), Visio [Vis_DSS.chm415]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Glue (Sección de capas)](http://msdn.microsoft.com/library/glue-cell-layers-section%28Office.15%29.aspx)
-
+[Glue Cell (Layers Section)](http://msdn.microsoft.com/library/75f2ea45-52ac-ddfa-14ea-402933ae2449%28Office.15%29.aspx)
 

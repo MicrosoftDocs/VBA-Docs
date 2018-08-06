@@ -1,5 +1,5 @@
 ---
-title: Objeto ChartColorFormat, Excel [vbagr10.chm5207185]
+title: ChartColorFormat Object, Excel [vbagr10.chm5207185]
 keywords: vbagr10.chm5207185
 f1_keywords:
 - vbagr10.chm5207185
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartColorFormat Object, Excel [vbagr10.chm5207185]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto ChartColorFormat, Excel [vbagr10.chm5207185]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ChartColorFormat (objeto)](http://msdn.microsoft.com/library/chartcolorformat-object%28Office.15%29.aspx)
-
+[ChartColorFormat Object](http://msdn.microsoft.com/library/5d2e0cb0-e928-0704-7b4c-1afee6096f3a%28Office.15%29.aspx)
 

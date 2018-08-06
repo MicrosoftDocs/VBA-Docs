@@ -1,5 +1,5 @@
 ---
-title: Celda FillForegndTrans (sección Fill Format), Visio [vis_sdr.chm50105]
+title: FillForegndTrans Cell (Fill Format Section), Visio [vis_sdr.chm50105]
 keywords: vis_sdr.chm50105
 f1_keywords:
 - vis_sdr.chm50105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FillForegndTrans Cell (Fill Format Section), Visio [vis_sdr.chm50105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda FillForegndTrans (sección Fill Format), Visio [vis_sdr.chm50105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda FillForegndTrans (Sección de formato de relleno)](http://msdn.microsoft.com/library/fillforegndtrans-cell-fill-format-section%28Office.15%29.aspx)
-
+[FillForegndTrans Cell (Fill Format Section)](http://msdn.microsoft.com/library/8b1b3904-6635-3fd1-31a9-ff32c19394af%28Office.15%29.aspx)
 

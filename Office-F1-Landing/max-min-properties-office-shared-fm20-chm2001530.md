@@ -1,5 +1,5 @@
 ---
-title: Propiedades Max, Min, Office Shared [fm20.chm2001530]
+title: Max, Min Properties, Office Shared [fm20.chm2001530]
 keywords: fm20.chm2001530
 f1_keywords:
 - fm20.chm2001530
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Propiedades Max, Min, Office Shared [fm20.chm2001530]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedades Max, Min](http://msdn.microsoft.com/library/max-min-properties%28Office.15%29.aspx)
-
+# Max, Min Properties, Office Shared [fm20.chm2001530]
 

@@ -1,5 +1,5 @@
 ---
-title: Comando Barras de herramientas (menú Ver), Office Shared [vbui6.chm2056306]
+title: Toolbars Command (View Menu), Office Shared [vbui6.chm2056306]
 keywords: vbui6.chm2056306
 f1_keywords:
 - vbui6.chm2056306
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Toolbars Command (View Menu), Office Shared [vbui6.chm2056306]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comando Barras de herramientas (menú Ver), Office Shared [vbui6.chm2056306]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comando Barras de herramientas (menú Ver)](http://msdn.microsoft.com/library/toolbars-command-view-menu%28Office.15%29.aspx)
-
+[Toolbars Command (View Menu)](http://msdn.microsoft.com/library/59c71849-d2eb-ef1f-a55b-2f9acf7dd80c%28Office.15%29.aspx)
 

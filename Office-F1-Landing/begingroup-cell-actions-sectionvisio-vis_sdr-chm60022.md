@@ -1,5 +1,5 @@
 ---
-title: Celda BeginGroup (sección Acciones), Visio [vis_sdr.chm60022]
+title: BeginGroup Cell (Actions Section), Visio [vis_sdr.chm60022]
 keywords: vis_sdr.chm60022
 f1_keywords:
 - vis_sdr.chm60022
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeginGroup Cell (Actions Section), Visio [vis_sdr.chm60022]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda BeginGroup (sección Acciones), Visio [vis_sdr.chm60022]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda BeginGroup (Sección de acciones)](http://msdn.microsoft.com/library/begingroup-cell-actions-section%28Office.15%29.aspx)
-
+[BeginGroup Cell (Actions Section)](http://msdn.microsoft.com/library/1ae7f629-fb9f-1a11-1194-b381d6c9de5b%28Office.15%29.aspx)
 

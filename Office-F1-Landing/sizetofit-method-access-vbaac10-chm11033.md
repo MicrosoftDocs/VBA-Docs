@@ -1,5 +1,5 @@
 ---
-title: Método SizeToFit, Access [vbaac10.chm11033]
+title: SizeToFit Method, Access [vbaac10.chm11033]
 keywords: vbaac10.chm11033
 f1_keywords:
 - vbaac10.chm11033
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SizeToFit Method, Access [vbaac10.chm11033]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SizeToFit, Access [vbaac10.chm11033]
+[NavigationControl.SizeToFit Method (Access)](http://msdn.microsoft.com/library/690d17ca-866d-2f8e-fc54-a5cc166b6ad1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.SizeToFit Method (Access)](http://msdn.microsoft.com/library/17289703-1943-2499-48c5-f34f200fd304%28Office.15%29.aspx)
 
-
- [Método NavigationControl.SizeToFit (Access)](http://msdn.microsoft.com/library/navigationcontrol.sizetofit-method-access%28Office.15%29.aspx)
-
-
- [Método TextBox.SizeToFit (Access)](http://msdn.microsoft.com/library/textbox.sizetofit-method-access%28Office.15%29.aspx)
 

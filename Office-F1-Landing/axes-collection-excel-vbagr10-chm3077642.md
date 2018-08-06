@@ -1,5 +1,5 @@
 ---
-title: Colección Ejes, Excel [vbagr10.chm3077642]
+title: Axes Collection, Excel [vbagr10.chm3077642]
 keywords: vbagr10.chm3077642
 f1_keywords:
 - vbagr10.chm3077642
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Axes Collection, Excel [vbagr10.chm3077642]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Ejes, Excel [vbagr10.chm3077642]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Conjunto Axes](http://msdn.microsoft.com/library/axes-collection%28Office.15%29.aspx)
-
+[Axes Collection](http://msdn.microsoft.com/library/89ebeb9d-3c16-0bb0-35a8-9a07483c4eb6%28Office.15%29.aspx)
 

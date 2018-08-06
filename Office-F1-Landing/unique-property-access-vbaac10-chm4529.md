@@ -1,5 +1,5 @@
 ---
-title: Propiedad Unique, Access [vbaac10.chm4529]
+title: Unique Property, Access [vbaac10.chm4529]
 keywords: vbaac10.chm4529
 f1_keywords:
 - vbaac10.chm4529
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unique Property, Access [vbaac10.chm4529]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Unique, Access [vbaac10.chm4529]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Unique (propiedad)](http://msdn.microsoft.com/library/unique-property%28Office.15%29.aspx)
-
+[Unique Property](http://msdn.microsoft.com/library/283e5d33-b281-150f-9766-6ecc0da6a09a%28Office.15%29.aspx)
 

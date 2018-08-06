@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'Item' property is write-only (Error 394), Office Shared [vblr6.chm1117827]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad 'Item' de solo lectura (error 394), Office Shared [vblr6.chm1117827]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad 'item' es solo de lectura (error 394)](http://msdn.microsoft.com/library/-item-property-is-write-only-error-394%28Office.15%29.aspx)
-
+['Item' property is write-only (Error 394)](http://msdn.microsoft.com/library/1229337c-b22d-e0ce-2492-c893bda4c8d8%28Office.15%29.aspx)
 

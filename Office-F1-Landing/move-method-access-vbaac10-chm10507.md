@@ -1,5 +1,5 @@
 ---
-title: Método Move, Access [vbaac10.chm10507]
+title: Move Method, Access [vbaac10.chm10507]
 keywords: vbaac10.chm10507
 f1_keywords:
 - vbaac10.chm10507
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Move Method, Access [vbaac10.chm10507]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Move, Access [vbaac10.chm10507]
+[NavigationButton.Move Method (Access)](http://msdn.microsoft.com/library/c5c1d841-9f1c-4aac-ec27-01257b397c4a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Move Method (Access)](http://msdn.microsoft.com/library/58c51741-fb49-4b0a-91e0-cb9486808597%28Office.15%29.aspx)
 
-
- [Método NavigationButton.Move (Access)](http://msdn.microsoft.com/library/navigationbutton.move-method-access%28Office.15%29.aspx)
-
-
- [Método CommandButton.Move (Access)](http://msdn.microsoft.com/library/commandbutton.move-method-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowDropButtonWhen, Office Shared [fm20.chm5225093]
+title: ShowDropButtonWhen Property, Office Shared [fm20.chm5225093]
 keywords: fm20.chm5225093
 f1_keywords:
 - fm20.chm5225093
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowDropButtonWhen Property, Office Shared [fm20.chm5225093]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowDropButtonWhen, Office Shared [fm20.chm5225093]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ShowDropButtonWhen](http://msdn.microsoft.com/library/showdropbuttonwhen-property%28Office.15%29.aspx)
-
+[ShowDropButtonWhen Property](http://msdn.microsoft.com/library/82c7a038-a4fa-7253-ec24-c97e6841293e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Selección ambigua, Office Shared [vbui6.chm2058897]
+title: Ambiguous selection, Office Shared [vbui6.chm2058897]
 keywords: vbui6.chm2058897
 f1_keywords:
 - vbui6.chm2058897
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Ambiguous selection, Office Shared [vbui6.chm2058897]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Selección ambigua, Office Shared [vbui6.chm2058897]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Selección ambigua (Visual Basic para Aplicaciones)](http://msdn.microsoft.com/library/ambiguous-selection-visual-basic-for-applications%28Office.15%29.aspx)
-
+[Ambiguous selection (Visual Basic for Applications)](http://msdn.microsoft.com/library/1d162427-5975-be98-a1dc-417d16ba3227%28Office.15%29.aspx)
 

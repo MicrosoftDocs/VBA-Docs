@@ -1,5 +1,5 @@
 ---
-title: Propiedad ScaleType, Excel [vbagr10.chm65577]
+title: ScaleType Property, Excel [vbagr10.chm65577]
 keywords: vbagr10.chm65577
 f1_keywords:
 - vbagr10.chm65577
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ScaleType Property, Excel [vbagr10.chm65577]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ScaleType, Excel [vbagr10.chm65577]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ScaleType (propiedad)](http://msdn.microsoft.com/library/scaletype-property%28Office.15%29.aspx)
-
+[ScaleType Property](http://msdn.microsoft.com/library/500fa5e4-4e19-bdd4-fa28-4dcba763c8a7%28Office.15%29.aspx)
 

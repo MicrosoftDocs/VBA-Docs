@@ -1,5 +1,5 @@
 ---
-title: Longitud no válida para la cadena de longitud fija, Office Shared [vblr6.chm1011184]
+title: Invalid length for fixed-length string, Office Shared [vblr6.chm1011184]
 keywords: vblr6.chm1011184
 f1_keywords:
 - vblr6.chm1011184
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid length for fixed-length string, Office Shared [vblr6.chm1011184]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Longitud no válida para la cadena de longitud fija, Office Shared [vblr6.chm1011184]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Longitud no válida para una cadena de longitud fija](http://msdn.microsoft.com/library/invalid-length-for-fixed-length-string%28Office.15%29.aspx)
-
+[Invalid length for fixed-length string](http://msdn.microsoft.com/library/c67c5693-92eb-3701-dc2b-fb3f5e99e3a7%28Office.15%29.aspx)
 

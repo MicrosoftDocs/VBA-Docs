@@ -1,5 +1,5 @@
 ---
-title: Objeto Floor, Excel [vbagr10.chm131207]
+title: Floor Object, Excel [vbagr10.chm131207]
 keywords: vbagr10.chm131207
 f1_keywords:
 - vbagr10.chm131207
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Floor Object, Excel [vbagr10.chm131207]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Floor, Excel [vbagr10.chm131207]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Floor (objeto)](http://msdn.microsoft.com/library/floor-object%28Office.15%29.aspx)
-
+[Floor Object](http://msdn.microsoft.com/library/ce76e68b-7b15-7e2c-4464-07befbf53cc5%28Office.15%29.aspx)
 

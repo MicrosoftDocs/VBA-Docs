@@ -1,5 +1,5 @@
 ---
-title: End Select sin Select Case, Office Shared [vblr6.chm1040107]
+title: End Select without Select Case, Office Shared [vblr6.chm1040107]
 keywords: vblr6.chm1040107
 f1_keywords:
 - vblr6.chm1040107
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# End Select without Select Case, Office Shared [vblr6.chm1040107]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# End Select sin Select Case, Office Shared [vblr6.chm1040107]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [End Select sin Select Case](http://msdn.microsoft.com/library/end-select-without-select-case%28Office.15%29.aspx)
-
+[End Select without Select Case](http://msdn.microsoft.com/library/21fb3c2a-d273-1b2b-2ac2-e123fc3689ae%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineStyleBottom, Access [vbaac10.chm11159]
+title: GridlineStyleBottom Property, Access [vbaac10.chm11159]
 keywords: vbaac10.chm11159
 f1_keywords:
 - vbaac10.chm11159
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineStyleBottom Property, Access [vbaac10.chm11159]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineStyleBottom, Access [vbaac10.chm11159]
+[TextBox.GridlineStyleBottom Property (Access)](http://msdn.microsoft.com/library/c58d8030-fc96-a53b-4cb4-5bb21237e20e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.GridlineStyleBottom Property (Access)](http://msdn.microsoft.com/library/9bd6575e-a0a5-0757-c517-a694b04130e8%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.GridlineStyleBottom (Access)](http://msdn.microsoft.com/library/textbox.gridlinestylebottom-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.GridlineStyleBottom (Access)](http://msdn.microsoft.com/library/navigationcontrol.gridlinestylebottom-property-access%28Office.15%29.aspx)
 

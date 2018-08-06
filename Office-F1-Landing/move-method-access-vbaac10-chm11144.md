@@ -1,5 +1,5 @@
 ---
-title: Método Move, Access [vbaac10.chm11144]
+title: Move Method, Access [vbaac10.chm11144]
 keywords: vbaac10.chm11144
 f1_keywords:
 - vbaac10.chm11144
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Move Method, Access [vbaac10.chm11144]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Move, Access [vbaac10.chm11144]
+[NavigationControl.Move Method (Access)](http://msdn.microsoft.com/library/bbf4e87e-8468-7cfd-7cd4-5f423a6517c8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.Move Method (Access)](http://msdn.microsoft.com/library/50b25305-0b91-378d-514f-d35b8d7aed6e%28Office.15%29.aspx)
 
-
- [Método NavigationControl.Move (Access)](http://msdn.microsoft.com/library/navigationcontrol.move-method-access%28Office.15%29.aspx)
-
-
- [Método TextBox.Move (Access)](http://msdn.microsoft.com/library/textbox.move-method-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Ya se ha hecho referencia al proyecto o la biblioteca especificados, Office Shared [vblr6.chm1040039]
+title: Specified library or project already referenced, Office Shared [vblr6.chm1040039]
 keywords: vblr6.chm1040039
 f1_keywords:
 - vblr6.chm1040039
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Specified library or project already referenced, Office Shared [vblr6.chm1040039]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ya se ha hecho referencia al proyecto o la biblioteca especificados, Office Shared [vblr6.chm1040039]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La biblioteca o el proyecto especificados ya tienen referencias](http://msdn.microsoft.com/library/specified-library-or-project-already-referenced%28Office.15%29.aspx)
-
+[Specified library or project already referenced](http://msdn.microsoft.com/library/4d6d5f3f-2e3b-3e0e-ccc6-8f8e805b2b3f%28Office.15%29.aspx)
 

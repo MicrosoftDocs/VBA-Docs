@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowValue, PowerPoint [vbapp10.chm67560]
+title: ShowValue Property, PowerPoint [vbapp10.chm67560]
 keywords: vbapp10.chm67560
 f1_keywords:
 - vbapp10.chm67560
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowValue Property, PowerPoint [vbapp10.chm67560]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowValue, PowerPoint [vbapp10.chm67560]
+[DataLabel.ShowValue Property (PowerPoint)](http://msdn.microsoft.com/library/2d4ca0a0-9b2c-7477-214b-322283e2c082%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.ShowValue Property (PowerPoint)](http://msdn.microsoft.com/library/e0c739f6-286b-1267-49c0-484b7d1bca16%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.ShowValue (PowerPoint)](http://msdn.microsoft.com/library/datalabel.showvalue-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.ShowValue (PowerPoint)](http://msdn.microsoft.com/library/datalabels.showvalue-property-powerpoint%28Office.15%29.aspx)
 

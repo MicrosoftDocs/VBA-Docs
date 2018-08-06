@@ -1,5 +1,5 @@
 ---
-title: Fila SplineStart (sección Geometría), Visio [Vis_DSS.chm3055]
+title: SplineStart Row (Geometry Section), Visio [Vis_DSS.chm3055]
 keywords: vis_dss.chm3055
 f1_keywords:
 - vis_dss.chm3055
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplineStart Row (Geometry Section), Visio [Vis_DSS.chm3055]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila SplineStart (sección Geometría), Visio [Vis_DSS.chm3055]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila SplineStart (Sección de Geometría)](http://msdn.microsoft.com/library/splinestart-row-geometry-section%28Office.15%29.aspx)
-
+[SplineStart Row (Geometry Section)](http://msdn.microsoft.com/library/8e327e00-0844-efa4-900b-6954d3b009bb%28Office.15%29.aspx)
 

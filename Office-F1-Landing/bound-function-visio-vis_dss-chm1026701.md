@@ -1,5 +1,5 @@
 ---
-title: Función BOUND, Visio [Vis_DSS.chm1026701]
+title: BOUND Function, Visio [Vis_DSS.chm1026701]
 keywords: vis_dss.chm1026701
 f1_keywords:
 - vis_dss.chm1026701
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BOUND Function, Visio [Vis_DSS.chm1026701]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función BOUND, Visio [Vis_DSS.chm1026701]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [BOUND (función)](http://msdn.microsoft.com/library/bound-function%28Office.15%29.aspx)
-
+[BOUND Function](http://msdn.microsoft.com/library/36374d78-1028-bd7f-6282-66555ee31306%28Office.15%29.aspx)
 

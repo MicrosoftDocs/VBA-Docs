@@ -1,5 +1,5 @@
 ---
-title: No se admiten tipos definidos por el usuario sin miembros, Office Shared [vblr6.chm1040188]
+title: User-defined type without members not allowed, Office Shared [vblr6.chm1040188]
 keywords: vblr6.chm1040188
 f1_keywords:
 - vblr6.chm1040188
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# No se admiten tipos definidos por el usuario sin miembros, Office Shared [vblr6.chm1040188]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se permite el tipo definido por el usuario sin miembros](http://msdn.microsoft.com/library/user-defined-type-without-members-not-allowed%28Office.15%29.aspx)
-
+# User-defined type without members not allowed, Office Shared [vblr6.chm1040188]
 

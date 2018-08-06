@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackColor, Access [vbaac10.chm11076]
+title: BackColor Property, Access [vbaac10.chm11076]
 keywords: vbaac10.chm11076
 f1_keywords:
 - vbaac10.chm11076
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# BackColor Property, Access [vbaac10.chm11076]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackColor, Access [vbaac10.chm11076]
+[TextBox.BackColor Property (Access)](http://msdn.microsoft.com/library/7880c596-7a47-39b6-74ad-8036355a8e0f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.BackColor Property (Access)](http://msdn.microsoft.com/library/d765586f-9454-756d-b6eb-b61bdde9ea16%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.BackColor (Access)](http://msdn.microsoft.com/library/textbox.backcolor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.BackColor (Access)](http://msdn.microsoft.com/library/navigationcontrol.backcolor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.BackColor (Access)](http://msdn.microsoft.com/library/navigationbutton.backcolor-property-access%28Office.15%29.aspx)
-
+[NavigationButton.BackColor Property (Access)](http://msdn.microsoft.com/library/6649513b-a692-ef90-2fc8-cfb7b7671b35%28Office.15%29.aspx)
 

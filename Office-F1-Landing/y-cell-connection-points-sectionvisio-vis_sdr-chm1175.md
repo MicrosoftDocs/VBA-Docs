@@ -1,5 +1,5 @@
 ---
-title: Celda Y (sección Connection Points), Visio [vis_sdr.chm1175]
+title: Y Cell (Connection Points Section), Visio [vis_sdr.chm1175]
 keywords: vis_sdr.chm1175
 f1_keywords:
 - vis_sdr.chm1175
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Y Cell (Connection Points Section), Visio [vis_sdr.chm1175]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Y (sección Connection Points), Visio [vis_sdr.chm1175]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Y (Sección de puntos de conexión)](http://msdn.microsoft.com/library/y-cell-connection-points-section%28Office.15%29.aspx)
-
+[Y Cell (Connection Points Section)](http://msdn.microsoft.com/library/3af6c949-d6a0-9560-54d7-b01a2ad99960%28Office.15%29.aspx)
 

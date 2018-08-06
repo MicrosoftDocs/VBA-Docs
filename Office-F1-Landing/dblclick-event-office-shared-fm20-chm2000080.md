@@ -1,5 +1,5 @@
 ---
-title: Evento DblClick, Office Shared [fm20.chm2000080]
+title: DblClick Event, Office Shared [fm20.chm2000080]
 keywords: fm20.chm2000080
 f1_keywords:
 - fm20.chm2000080
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DblClick Event, Office Shared [fm20.chm2000080]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DblClick, Office Shared [fm20.chm2000080]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento DblClick](http://msdn.microsoft.com/library/dblclick-event%28Office.15%29.aspx)
-
+[DblClick Event](http://msdn.microsoft.com/library/52ee3887-6634-ed57-fb9b-757543ea6e29%28Office.15%29.aspx)
 

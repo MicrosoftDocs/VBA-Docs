@@ -1,5 +1,5 @@
 ---
-title: Uso de funciones de hojas de cálculo de Excel en Visual Basic, Excel [vbaxl10.chm81931]
+title: Using Excel Worksheet Functions in Visual Basic, Excel [vbaxl10.chm81931]
 keywords: vbaxl10.chm81931
 f1_keywords:
 - vbaxl10.chm81931
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Using Excel Worksheet Functions in Visual Basic, Excel [vbaxl10.chm81931]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Uso de funciones de hojas de cálculo de Excel en Visual Basic, Excel [vbaxl10.chm81931]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Uso de las funciones de hojas de cálculo en Visual Basic](http://msdn.microsoft.com/library/using-excel-worksheet-functions-in-visual-basic%28Office.15%29.aspx)
-
+[Using Excel Worksheet Functions in Visual Basic](http://msdn.microsoft.com/library/46e6ba32-8a58-509c-03e8-a23c41b0a400%28Office.15%29.aspx)
 

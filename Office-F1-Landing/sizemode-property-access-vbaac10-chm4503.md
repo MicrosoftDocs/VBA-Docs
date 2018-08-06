@@ -1,5 +1,5 @@
 ---
-title: Propiedad SizeMode, Access [vbaac10.chm4503]
+title: SizeMode Property, Access [vbaac10.chm4503]
 keywords: vbaac10.chm4503
 f1_keywords:
 - vbaac10.chm4503
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# SizeMode Property, Access [vbaac10.chm4503]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SizeMode, Access [vbaac10.chm4503]
+[Image.SizeMode Property (Access)](http://msdn.microsoft.com/library/feaa8002-7d5c-6ce8-dd07-49f6a7330b17%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.SizeMode Property (Access)](http://msdn.microsoft.com/library/2c44b16f-cb04-8e45-2a67-7424342f48de%28Office.15%29.aspx)
 
-
- [Propiedad Image.SizeMode (Access)](http://msdn.microsoft.com/library/image.sizemode-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.SizeMode (Access)](http://msdn.microsoft.com/library/boundobjectframe.sizemode-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ObjectFrame.SizeMode (Access)](http://msdn.microsoft.com/library/objectframe.sizemode-property-access%28Office.15%29.aspx)
-
+[ObjectFrame.SizeMode Property (Access)](http://msdn.microsoft.com/library/2aaa2f95-7982-a585-1a9f-a6ed191be79e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Parent (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102056]
+title: Parent Property (VBA Add-In Object Model), Office Shared [vbob6.chm102056]
 keywords: vbob6.chm102056
 f1_keywords:
 - vbob6.chm102056
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Parent Property (VBA Add-In Object Model), Office Shared [vbob6.chm102056]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Parent (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102056]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad principal (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/parent-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Parent Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/20d08462-2f91-c8ed-7d4c-50485085ee7d%28Office.15%29.aspx)
 

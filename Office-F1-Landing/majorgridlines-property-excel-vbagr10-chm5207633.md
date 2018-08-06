@@ -1,5 +1,5 @@
 ---
-title: Propiedad MajorGridlines, Excel [vbagr10.chm5207633]
+title: MajorGridlines Property, Excel [vbagr10.chm5207633]
 keywords: vbagr10.chm5207633
 f1_keywords:
 - vbagr10.chm5207633
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MajorGridlines Property, Excel [vbagr10.chm5207633]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MajorGridlines, Excel [vbagr10.chm5207633]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MajorGridlines (propiedad)](http://msdn.microsoft.com/library/majorgridlines-property%28Office.15%29.aspx)
-
+[MajorGridlines Property](http://msdn.microsoft.com/library/d160f530-e92e-4528-e207-d47ae710a7d5%28Office.15%29.aspx)
 

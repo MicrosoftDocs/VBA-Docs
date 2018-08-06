@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnPage, Access [vbaac10.chm4136]
+title: OnPage Property, Access [vbaac10.chm4136]
 keywords: vbaac10.chm4136
 f1_keywords:
 - vbaac10.chm4136
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnPage Property, Access [vbaac10.chm4136]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnPage, Access [vbaac10.chm4136]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.OnPage (Access)](http://msdn.microsoft.com/library/report.onpage-property-access%28Office.15%29.aspx)
-
+[Report.OnPage Property (Access)](http://msdn.microsoft.com/library/d72bab5d-fdb8-99f5-5d27-8227bc0136ec%28Office.15%29.aspx)
 

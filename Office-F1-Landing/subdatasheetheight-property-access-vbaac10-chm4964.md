@@ -1,5 +1,5 @@
 ---
-title: Propiedad SubdatasheetHeight, Access [vbaac10.chm4964]
+title: SubdatasheetHeight Property, Access [vbaac10.chm4964]
 keywords: vbaac10.chm4964
 f1_keywords:
 - vbaac10.chm4964
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SubdatasheetHeight Property, Access [vbaac10.chm4964]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SubdatasheetHeight, Access [vbaac10.chm4964]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.SubdatasheetHeight (Access)](http://msdn.microsoft.com/library/form.subdatasheetheight-property-access%28Office.15%29.aspx)
-
+[Form.SubdatasheetHeight Property (Access)](http://msdn.microsoft.com/library/0db2e4b5-e64b-6f55-ebfa-bcce98734491%28Office.15%29.aspx)
 

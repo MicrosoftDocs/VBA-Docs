@@ -1,5 +1,5 @@
 ---
-title: Celda EndTrigger (sección Glue Info), Visio [Vis_DSS.chm330]
+title: EndTrigger Cell (Glue Info Section), Visio [Vis_DSS.chm330]
 keywords: vis_dss.chm330
 f1_keywords:
 - vis_dss.chm330
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EndTrigger Cell (Glue Info Section), Visio [Vis_DSS.chm330]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EndTrigger (sección Glue Info), Visio [Vis_DSS.chm330]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EndTrigger (Sección de información de pegado)](http://msdn.microsoft.com/library/endtrigger-cell-glue-info-section%28Office.15%29.aspx)
-
+[EndTrigger Cell (Glue Info Section)](http://msdn.microsoft.com/library/8dc6515b-66ab-f1ac-18fd-820209f90991%28Office.15%29.aspx)
 

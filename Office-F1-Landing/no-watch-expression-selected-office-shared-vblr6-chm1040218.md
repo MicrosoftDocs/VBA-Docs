@@ -1,5 +1,5 @@
 ---
-title: Ninguna expresión de inspección seleccionada, Office Shared [vblr6.chm1040218]
+title: No watch expression selected, Office Shared [vblr6.chm1040218]
 keywords: vblr6.chm1040218
 f1_keywords:
 - vblr6.chm1040218
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# No watch expression selected, Office Shared [vblr6.chm1040218]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ninguna expresión de inspección seleccionada, Office Shared [vblr6.chm1040218]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No hay ninguna expresión de inspección seleccionada](http://msdn.microsoft.com/library/no-watch-expression-selected%28Office.15%29.aspx)
-
+[No watch expression selected](http://msdn.microsoft.com/library/857f9df9-c80d-e998-b8db-0ed7b9167e0e%28Office.15%29.aspx)
 

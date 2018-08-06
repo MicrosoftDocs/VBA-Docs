@@ -1,5 +1,5 @@
 ---
-title: Celda HideText (sección Miscellaneous), Visio [vis_sdr.chm440]
+title: HideText Cell (Miscellaneous Section), Visio [vis_sdr.chm440]
 keywords: vis_sdr.chm440
 f1_keywords:
 - vis_sdr.chm440
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HideText Cell (Miscellaneous Section), Visio [vis_sdr.chm440]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda HideText (sección Miscellaneous), Visio [vis_sdr.chm440]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda HideText (Sección de varios)](http://msdn.microsoft.com/library/hidetext-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[HideText Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/3d23647a-e567-da71-50df-336a0f2f4071%28Office.15%29.aspx)
 

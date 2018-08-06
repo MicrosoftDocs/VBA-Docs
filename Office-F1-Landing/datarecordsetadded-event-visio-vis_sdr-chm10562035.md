@@ -1,5 +1,5 @@
 ---
-title: Evento DataRecordsetAdded, Visio [vis_sdr.chm10562035]
+title: DataRecordsetAdded Event, Visio [vis_sdr.chm10562035]
 keywords: vis_sdr.chm10562035
 f1_keywords:
 - vis_sdr.chm10562035
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DataRecordsetAdded Event, Visio [vis_sdr.chm10562035]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DataRecordsetAdded, Visio [vis_sdr.chm10562035]
+[DrawingControl.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/1db176b9-ba62-de8d-c7bc-190e4a5fa996%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/3ddb399d-0b28-9ec7-4059-f8d3011a98c0%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.DataRecordsetAdded (Visio)](http://msdn.microsoft.com/library/drawingcontrol.datarecordsetadded-event-visio%28Office.15%29.aspx)
-
-
- [Evento Document.DataRecordsetAdded (Visio)](http://msdn.microsoft.com/library/document.datarecordsetadded-event-visio%28Office.15%29.aspx)
 

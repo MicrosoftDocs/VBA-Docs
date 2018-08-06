@@ -1,5 +1,5 @@
 ---
-title: Propiedad MatchEntry, Office Shared [fm20.chm2001480]
+title: MatchEntry Property, Office Shared [fm20.chm2001480]
 keywords: fm20.chm2001480
 f1_keywords:
 - fm20.chm2001480
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MatchEntry Property, Office Shared [fm20.chm2001480]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MatchEntry, Office Shared [fm20.chm2001480]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MatchEntry](http://msdn.microsoft.com/library/matchentry-property%28Office.15%29.aspx)
-
+[MatchEntry Property](http://msdn.microsoft.com/library/8f3ab1b9-5d69-b955-423b-be259a94a2f4%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Colección Referencias, Office Shared [vbob6.chm104040]
+title: References Collection, Office Shared [vbob6.chm104040]
 keywords: vbob6.chm104040
 f1_keywords:
 - vbob6.chm104040
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# References Collection, Office Shared [vbob6.chm104040]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Referencias, Office Shared [vbob6.chm104040]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Colección References (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/references-collection-vba-add-in-object-model%28Office.15%29.aspx)
-
+[References Collection (VBA Add-In Object Model)](http://msdn.microsoft.com/library/fc62c618-8131-3578-c445-f60bc6fee8fa%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinorUnitScale, Excel [vbagr10.chm3077552]
+title: MinorUnitScale Property, Excel [vbagr10.chm3077552]
 keywords: vbagr10.chm3077552
 f1_keywords:
 - vbagr10.chm3077552
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MinorUnitScale Property, Excel [vbagr10.chm3077552]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinorUnitScale, Excel [vbagr10.chm3077552]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MinorUnitScale (propiedad)](http://msdn.microsoft.com/library/minorunitscale-property%28Office.15%29.aspx)
-
+[MinorUnitScale Property](http://msdn.microsoft.com/library/c246ab1e-5c41-f15e-fdbc-d219f2d03448%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad RecordsetType, Access [vbaac10.chm4484]
+title: RecordsetType Property, Access [vbaac10.chm4484]
 keywords: vbaac10.chm4484
 f1_keywords:
 - vbaac10.chm4484
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RecordsetType Property, Access [vbaac10.chm4484]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RecordsetType, Access [vbaac10.chm4484]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Recordset.RecordsetType (DAO)](http://msdn.microsoft.com/library/recordset.recordsettype-property-dao%28Office.15%29.aspx)
-
+[Recordset.RecordsetType Property (DAO)](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)
 

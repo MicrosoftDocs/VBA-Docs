@@ -1,5 +1,5 @@
 ---
-title: Evento MouseMove, Visio [vis_sdr.chm10051305]
+title: MouseMove Event, Visio [vis_sdr.chm10051305]
 keywords: vis_sdr.chm10051305
 f1_keywords:
 - vis_sdr.chm10051305
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseMove Event, Visio [vis_sdr.chm10051305]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MouseMove, Visio [vis_sdr.chm10051305]
+[InvisibleApp.MouseMove Event (Visio)](http://msdn.microsoft.com/library/7f360b69-539e-bdf2-2ff5-1b67090e01ac%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.MouseMove Event (Visio)](http://msdn.microsoft.com/library/3ffd86f8-8700-88a7-9ffc-24df11c93dd4%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.MouseMove (Visio)](http://msdn.microsoft.com/library/invisibleapp.mousemove-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.MouseMove (Visio)](http://msdn.microsoft.com/library/application.mousemove-event-visio%28Office.15%29.aspx)
 

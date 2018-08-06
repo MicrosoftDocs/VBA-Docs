@@ -1,5 +1,5 @@
 ---
-title: Explorador del proyecto, Office Shared [vbui6.chm181002]
+title: Project Explorer, Office Shared [vbui6.chm181002]
 keywords: vbui6.chm181002
 f1_keywords:
 - vbui6.chm181002
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Project Explorer, Office Shared [vbui6.chm181002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Explorador del proyecto, Office Shared [vbui6.chm181002]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Explorador de proyectos](http://msdn.microsoft.com/library/project-explorer%28Office.15%29.aspx)
-
+[Project Explorer](http://msdn.microsoft.com/library/318bb305-6d3e-36c6-f6f7-c96d70242279%28Office.15%29.aspx)
 

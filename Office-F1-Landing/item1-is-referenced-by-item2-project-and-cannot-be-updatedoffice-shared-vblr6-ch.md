@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'item1' is referenced by 'item2' project and cannot be updated., Office Shared [vblr6.chm60058]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El proyecto 'item2' hace referencia a 'item1' y no puede actualizarse, Office Shared [vblr6.chm60058]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- ['item2' hace referencia al proyecto 'item2' y no se puede actualizar.](http://msdn.microsoft.com/library/-item1-is-referenced-by-item2-project-and-cannot-be-updated.%28Office.15%29.aspx)
-
+['item1' is referenced by 'item2' project and cannot be updated.](http://msdn.microsoft.com/library/cdd701d0-4d7c-22ba-8f0c-23679688c1fa%28Office.15%29.aspx)
 

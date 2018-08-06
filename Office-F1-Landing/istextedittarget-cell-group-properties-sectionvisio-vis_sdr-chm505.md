@@ -1,5 +1,5 @@
 ---
-title: Celda IsTextEditTarget (sección Group Properties), Visio [vis_sdr.chm505]
+title: IsTextEditTarget Cell (Group Properties Section), Visio [vis_sdr.chm505]
 keywords: vis_sdr.chm505
 f1_keywords:
 - vis_sdr.chm505
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Celda IsTextEditTarget (sección Group Properties), Visio [vis_sdr.chm505]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda IsTextEditTarget (Sección de propiedades de grupo)](http://msdn.microsoft.com/library/istextedittarget-cell-group-properties-section%28Office.15%29.aspx)
-
+# IsTextEditTarget Cell (Group Properties Section), Visio [vis_sdr.chm505]
 

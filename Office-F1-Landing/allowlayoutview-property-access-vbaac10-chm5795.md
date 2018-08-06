@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllowLayoutView, Access [vbaac10.chm5795]
+title: AllowLayoutView Property, Access [vbaac10.chm5795]
 keywords: vbaac10.chm5795
 f1_keywords:
 - vbaac10.chm5795
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllowLayoutView Property, Access [vbaac10.chm5795]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllowLayoutView, Access [vbaac10.chm5795]
+[Form.AllowLayoutView Property (Access)](http://msdn.microsoft.com/library/70b273ef-60fa-00b8-b262-3c45e691ed42%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.AllowLayoutView Property (Access)](http://msdn.microsoft.com/library/5388fcd8-32fb-781d-538c-ac114f8d5bd8%28Office.15%29.aspx)
 
-
- [Propiedad Form.AllowLayoutView (Access)](http://msdn.microsoft.com/library/form.allowlayoutview-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.AllowLayoutView (Access)](http://msdn.microsoft.com/library/report.allowlayoutview-property-access%28Office.15%29.aspx)
 

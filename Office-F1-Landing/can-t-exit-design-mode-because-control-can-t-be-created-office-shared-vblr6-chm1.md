@@ -1,5 +1,5 @@
 ---
-title: No se puede salir del modo de diseño porque no se puede crear el control, Office Shared [vblr6.chm1057121]
+title: Can't exit design mode because control can't be created, Office Shared [vblr6.chm1057121]
 keywords: vblr6.chm1057121
 f1_keywords:
 - vblr6.chm1057121
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't exit design mode because control can't be created, Office Shared [vblr6.chm1057121]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede salir del modo de diseño porque no se puede crear el control, Office Shared [vblr6.chm1057121]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede salir del modo de diseño porque el control no se puede crear](http://msdn.microsoft.com/library/can-t-exit-design-mode-because-control-can-t-be-created%28Office.15%29.aspx)
-
+[Can't exit design mode because control can't be created](http://msdn.microsoft.com/library/0b83e75a-4fd7-e903-754f-8395316ea13d%28Office.15%29.aspx)
 

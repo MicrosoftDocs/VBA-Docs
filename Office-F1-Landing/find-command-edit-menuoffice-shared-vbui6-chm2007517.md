@@ -1,5 +1,5 @@
 ---
-title: Comando Find (menú Editar), Office Shared [vbui6.chm2007517]
+title: Find Command (Edit Menu), Office Shared [vbui6.chm2007517]
 keywords: vbui6.chm2007517
 f1_keywords:
 - vbui6.chm2007517
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Find Command (Edit Menu), Office Shared [vbui6.chm2007517]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comando Find (menú Editar), Office Shared [vbui6.chm2007517]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comando Buscar (menú Edición)](http://msdn.microsoft.com/library/find-command-edit-menu%28Office.15%29.aspx)
-
+[Find Command (Edit Menu)](http://msdn.microsoft.com/library/3b4fb9f8-7ed3-2f18-33f7-f0cb02debf79%28Office.15%29.aspx)
 

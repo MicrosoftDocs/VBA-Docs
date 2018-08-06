@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsVisible, Access [vbaac10.chm11113]
+title: IsVisible Property, Access [vbaac10.chm11113]
 keywords: vbaac10.chm11113
 f1_keywords:
 - vbaac10.chm11113
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IsVisible Property, Access [vbaac10.chm11113]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsVisible, Access [vbaac10.chm11113]
+[NavigationControl.IsVisible Property (Access)](http://msdn.microsoft.com/library/659d5713-a385-bead-68a0-501a724e9210%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.IsVisible Property (Access)](http://msdn.microsoft.com/library/34487db4-6377-04f2-6848-a27dc5f4bab6%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.IsVisible (Access)](http://msdn.microsoft.com/library/navigationcontrol.isvisible-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.IsVisible (Access)](http://msdn.microsoft.com/library/textbox.isvisible-property-access%28Office.15%29.aspx)
 

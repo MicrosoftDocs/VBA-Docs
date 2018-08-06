@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllowReportView, Access [vbaac10.chm5649]
+title: AllowReportView Property, Access [vbaac10.chm5649]
 keywords: vbaac10.chm5649
 f1_keywords:
 - vbaac10.chm5649
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AllowReportView Property, Access [vbaac10.chm5649]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllowReportView, Access [vbaac10.chm5649]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.AllowReportView (Access)](http://msdn.microsoft.com/library/report.allowreportview-property-access%28Office.15%29.aspx)
-
+[Report.AllowReportView Property (Access)](http://msdn.microsoft.com/library/43db97fa-bdc0-883c-7b83-a7bbe7c62c07%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Función LEFT, Visio [Vis_DSS.chm60103]
+title: LEFT Function, Visio [Vis_DSS.chm60103]
 keywords: vis_dss.chm60103
 f1_keywords:
 - vis_dss.chm60103
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LEFT Function, Visio [Vis_DSS.chm60103]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función LEFT, Visio [Vis_DSS.chm60103]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función de la izquierda (VisioShapeSheet)](http://msdn.microsoft.com/library/left-function-visioshapesheet%28Office.15%29.aspx)
-
+[LEFT Function (VisioShapeSheet)](http://msdn.microsoft.com/library/0c2f6e06-b772-2006-ec7b-8695d097f146%28Office.15%29.aspx)
 

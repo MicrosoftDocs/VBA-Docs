@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoExpand, Access [vbaac10.chm11388]
+title: AutoExpand Property, Access [vbaac10.chm11388]
 keywords: vbaac10.chm11388
 f1_keywords:
 - vbaac10.chm11388
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoExpand Property, Access [vbaac10.chm11388]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoExpand, Access [vbaac10.chm11388]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ComboBox.AutoExpand (Access)](http://msdn.microsoft.com/library/combobox.autoexpand-property-access%28Office.15%29.aspx)
-
+[ComboBox.AutoExpand Property (Access)](http://msdn.microsoft.com/library/0b3fabf8-4004-0868-3ddc-aef297514324%28Office.15%29.aspx)
 

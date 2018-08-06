@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, Word [vbawd10.chm98238498]
+title: Height Property, Word [vbawd10.chm98238498]
 keywords: vbawd10.chm98238498
 f1_keywords:
 - vbawd10.chm98238498
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, Word [vbawd10.chm98238498]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, Word [vbawd10.chm98238498]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad AxisTitle.Height (Word)](http://msdn.microsoft.com/library/axistitle.height-property-word%28Office.15%29.aspx)
-
+[AxisTitle.Height Property (Word)](http://msdn.microsoft.com/library/46a2a48d-1079-f8a4-d0f7-3394464660f7%28Office.15%29.aspx)
 

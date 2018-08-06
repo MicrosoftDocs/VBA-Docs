@@ -1,5 +1,5 @@
 ---
-title: Colección Properties, Office Shared [vbob6.chm1071199]
+title: Properties Collection, Office Shared [vbob6.chm1071199]
 keywords: vbob6.chm1071199
 f1_keywords:
 - vbob6.chm1071199
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Properties Collection, Office Shared [vbob6.chm1071199]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Properties, Office Shared [vbob6.chm1071199]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Colección Properties (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/properties-collection-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Properties Collection (VBA Add-In Object Model)](http://msdn.microsoft.com/library/97bf60b5-7463-eba1-4e3a-022c684a8a44%28Office.15%29.aspx)
 

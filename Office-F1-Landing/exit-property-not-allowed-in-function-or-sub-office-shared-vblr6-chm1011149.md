@@ -1,5 +1,5 @@
 ---
-title: Propiedad Exit no permitida en Function o Sub, Office Shared [vblr6.chm1011149]
+title: Exit Property not allowed in Function or Sub, Office Shared [vblr6.chm1011149]
 keywords: vblr6.chm1011149
 f1_keywords:
 - vblr6.chm1011149
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Exit Property not allowed in Function or Sub, Office Shared [vblr6.chm1011149]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Exit no permitida en Function o Sub, Office Shared [vblr6.chm1011149]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad Exit no se permite en Function o Sub](http://msdn.microsoft.com/library/exit-property-not-allowed-in-function-or-sub%28Office.15%29.aspx)
-
+[Exit Property not allowed in Function or Sub](http://msdn.microsoft.com/library/1fcbbb45-fd99-1d88-3840-ade4f4d66606%28Office.15%29.aspx)
 

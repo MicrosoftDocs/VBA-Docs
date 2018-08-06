@@ -1,5 +1,5 @@
 ---
-title: No se puede asignar a una matriz, Office Shared [vblr6.chm1040093]
+title: Can't assign to an array, Office Shared [vblr6.chm1040093]
 keywords: vblr6.chm1040093
 f1_keywords:
 - vblr6.chm1040093
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't assign to an array, Office Shared [vblr6.chm1040093]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede asignar a una matriz, Office Shared [vblr6.chm1040093]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede asignar una matriz](http://msdn.microsoft.com/library/can-t-assign-to-an-array%28Office.15%29.aspx)
-
+[Can't assign to an array](http://msdn.microsoft.com/library/cc606f0f-7e50-c144-8003-90c7f976723d%28Office.15%29.aspx)
 

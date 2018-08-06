@@ -1,5 +1,5 @@
 ---
-title: No se puede crear objeto incrustado (error 31032), Office Shared [vblr6.chm31032]
+title: Unable to create embedded object (Error 31032), Office Shared [vblr6.chm31032]
 keywords: vblr6.chm31032
 f1_keywords:
 - vblr6.chm31032
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unable to create embedded object (Error 31032), Office Shared [vblr6.chm31032]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede crear objeto incrustado (error 31032), Office Shared [vblr6.chm31032]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede crear un objeto incrustado (error 31032)](http://msdn.microsoft.com/library/unable-to-create-embedded-object-error-31032%28Office.15%29.aspx)
-
+[Unable to create embedded object (Error 31032)](http://msdn.microsoft.com/library/c249ffe3-cd57-52ce-0775-86b9ca4ae769%28Office.15%29.aspx)
 

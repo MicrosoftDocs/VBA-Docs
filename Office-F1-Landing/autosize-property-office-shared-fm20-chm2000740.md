@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoSize, Office Shared [fm20.chm2000740]
+title: AutoSize Property, Office Shared [fm20.chm2000740]
 keywords: fm20.chm2000740
 f1_keywords:
 - fm20.chm2000740
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoSize Property, Office Shared [fm20.chm2000740]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoSize, Office Shared [fm20.chm2000740]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad AutoSize](http://msdn.microsoft.com/library/autosize-property%28Office.15%29.aspx)
-
+[AutoSize Property](http://msdn.microsoft.com/library/581fd371-1ab4-78fd-1f04-e775bc576125%28Office.15%29.aspx)
 

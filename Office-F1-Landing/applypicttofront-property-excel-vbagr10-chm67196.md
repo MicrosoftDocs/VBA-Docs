@@ -1,5 +1,5 @@
 ---
-title: Propiedad ApplyPictToFront, Excel [vbagr10.chm67196]
+title: ApplyPictToFront Property, Excel [vbagr10.chm67196]
 keywords: vbagr10.chm67196
 f1_keywords:
 - vbagr10.chm67196
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ApplyPictToFront Property, Excel [vbagr10.chm67196]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ApplyPictToFront, Excel [vbagr10.chm67196]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ApplyPictToFront (propiedad)](http://msdn.microsoft.com/library/applypicttofront-property%28Office.15%29.aspx)
-
+[ApplyPictToFront Property](http://msdn.microsoft.com/library/c6b1b61c-edb1-fb40-387a-0106e8ca225a%28Office.15%29.aspx)
 

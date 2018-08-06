@@ -1,5 +1,5 @@
 ---
-title: Objeto Interior, Excel [vbagr10.chm131120]
+title: Interior Object, Excel [vbagr10.chm131120]
 keywords: vbagr10.chm131120
 f1_keywords:
 - vbagr10.chm131120
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Interior Object, Excel [vbagr10.chm131120]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Interior, Excel [vbagr10.chm131120]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Interior (objeto)](http://msdn.microsoft.com/library/interior-object%28Office.15%29.aspx)
-
+[Interior Object](http://msdn.microsoft.com/library/13a4801e-f121-2a43-cd61-cf3ac9325197%28Office.15%29.aspx)
 

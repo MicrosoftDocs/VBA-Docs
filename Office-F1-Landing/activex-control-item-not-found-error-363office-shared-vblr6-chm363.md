@@ -1,5 +1,5 @@
 ---
-title: 'item' de control de ActiveX no encontrado (error 363), Office Shared [vblr6.chm363]
+title: ActiveX control 'item' not found (Error 363), Office Shared [vblr6.chm363]
 keywords: vblr6.chm363
 f1_keywords:
 - vblr6.chm363
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ActiveX control 'item' not found (Error 363), Office Shared [vblr6.chm363]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# 'item' de control de ActiveX no encontrado (error 363), Office Shared [vblr6.chm363]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró el 'item' del control ActiveX (error 363)](http://msdn.microsoft.com/library/activex-control-item-not-found-error-363%28Office.15%29.aspx)
-
+[ActiveX control 'item' not found (Error 363)](http://msdn.microsoft.com/library/5c97e208-a788-f8af-6fd7-f80ab7728c12%28Office.15%29.aspx)
 

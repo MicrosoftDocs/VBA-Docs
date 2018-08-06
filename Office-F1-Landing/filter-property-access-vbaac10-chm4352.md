@@ -1,5 +1,5 @@
 ---
-title: Propiedad Filter, Access [vbaac10.chm4352]
+title: Filter Property, Access [vbaac10.chm4352]
 keywords: vbaac10.chm4352
 f1_keywords:
 - vbaac10.chm4352
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Filter Property, Access [vbaac10.chm4352]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Filter, Access [vbaac10.chm4352]
+[Report.Filter Property (Access)](http://msdn.microsoft.com/library/ce57e05d-c3a8-012a-205e-7dfb2e4dd78d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.Filter Property (Access)](http://msdn.microsoft.com/library/5eb49f82-8519-981c-a663-9862736ac95f%28Office.15%29.aspx)
 
-
- [Propiedad Report.Filter (Access)](http://msdn.microsoft.com/library/report.filter-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.Filter (Access)](http://msdn.microsoft.com/library/form.filter-property-access%28Office.15%29.aspx)
 

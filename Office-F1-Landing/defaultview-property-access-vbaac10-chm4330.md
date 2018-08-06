@@ -1,5 +1,5 @@
 ---
-title: Propiedad DefaultView, Access [vbaac10.chm4330]
+title: DefaultView Property, Access [vbaac10.chm4330]
 keywords: vbaac10.chm4330
 f1_keywords:
 - vbaac10.chm4330
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DefaultView Property, Access [vbaac10.chm4330]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DefaultView, Access [vbaac10.chm4330]
+[Report.DefaultView Property (Access)](http://msdn.microsoft.com/library/75eb8fcd-9e28-bda4-d560-a2a5bfca0450%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.DefaultView Property (Access)](http://msdn.microsoft.com/library/bb44eca9-1576-794a-0558-f67e2d37559b%28Office.15%29.aspx)
 
-
- [Propiedad Report.DefaultView (Access)](http://msdn.microsoft.com/library/report.defaultview-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.DefaultView (Access)](http://msdn.microsoft.com/library/form.defaultview-property-access%28Office.15%29.aspx)
 

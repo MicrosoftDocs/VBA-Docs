@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasTitle, Excel [vbagr10.chm5207514]
+title: HasTitle Property, Excel [vbagr10.chm5207514]
 keywords: vbagr10.chm5207514
 f1_keywords:
 - vbagr10.chm5207514
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasTitle Property, Excel [vbagr10.chm5207514]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasTitle, Excel [vbagr10.chm5207514]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasTitle (propiedad)](http://msdn.microsoft.com/library/hastitle-property%28Office.15%29.aspx)
-
+[HasTitle Property](http://msdn.microsoft.com/library/9ecc48d3-fd86-e185-a69f-0676230b3194%28Office.15%29.aspx)
 

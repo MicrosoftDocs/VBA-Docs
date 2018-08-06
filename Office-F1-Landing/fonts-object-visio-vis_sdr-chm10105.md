@@ -1,5 +1,5 @@
 ---
-title: Objeto Fonts, Visio [vis_sdr.chm10105]
+title: Fonts Object, Visio [vis_sdr.chm10105]
 keywords: vis_sdr.chm10105
 f1_keywords:
 - vis_sdr.chm10105
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Fonts Object, Visio [vis_sdr.chm10105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Fonts, Visio [vis_sdr.chm10105]
+[Fonts Object (Visio)](http://msdn.microsoft.com/library/3f1b1043-508f-b9f1-ed32-35a0c3121028.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Fonts Object (Visio)](http://msdn.microsoft.com/library/e08c8ad1-1c70-b80f-1a49-3a120f66ced8%28Office.15%29.aspx)
 
-
- [Fonts Object (Visio)](http://msdn.microsoft.com/library/3f1b1043-508f-b9f1-ed32-35a0c3121028.aspx)
-
-
- [Fonts (colección)](http://msdn.microsoft.com/library/fonts-object-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Overlap, Excel [vbagr10.chm65592]
+title: Overlap Property, Excel [vbagr10.chm65592]
 keywords: vbagr10.chm65592
 f1_keywords:
 - vbagr10.chm65592
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Overlap Property, Excel [vbagr10.chm65592]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Overlap, Excel [vbagr10.chm65592]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Overlap (propiedad)](http://msdn.microsoft.com/library/overlap-property%28Office.15%29.aspx)
-
+[Overlap Property](http://msdn.microsoft.com/library/60e82754-4553-7ee9-7403-06cd12de733e%28Office.15%29.aspx)
 

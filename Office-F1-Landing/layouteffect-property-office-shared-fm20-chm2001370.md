@@ -1,5 +1,5 @@
 ---
-title: Propiedad LayoutEffect, Office Shared [fm20.chm2001370]
+title: LayoutEffect Property, Office Shared [fm20.chm2001370]
 keywords: fm20.chm2001370
 f1_keywords:
 - fm20.chm2001370
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LayoutEffect Property, Office Shared [fm20.chm2001370]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LayoutEffect, Office Shared [fm20.chm2001370]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad LayoutEffect](http://msdn.microsoft.com/library/layouteffect-property%28Office.15%29.aspx)
-
+[LayoutEffect Property](http://msdn.microsoft.com/library/74e19b13-605c-caa8-4a12-e877d638d316%28Office.15%29.aspx)
 

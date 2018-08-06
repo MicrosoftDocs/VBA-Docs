@@ -1,5 +1,5 @@
 ---
-title: Método Undo, Access [vbaac10.chm11030]
+title: Undo Method, Access [vbaac10.chm11030]
 keywords: vbaac10.chm11030
 f1_keywords:
 - vbaac10.chm11030
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Undo Method, Access [vbaac10.chm11030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Undo, Access [vbaac10.chm11030]
+[TextBox.Undo Method (Access)](http://msdn.microsoft.com/library/b019355a-7b78-4f03-878f-d2830c20117d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Undo Method (Access)](http://msdn.microsoft.com/library/d15daeaf-5c78-5833-9fed-d57d2996e60b%28Office.15%29.aspx)
 
-
- [Método TextBox.Undo (Access)](http://msdn.microsoft.com/library/textbox.undo-method-access%28Office.15%29.aspx)
-
-
- [Método NavigationControl.Undo (Access)](http://msdn.microsoft.com/library/navigationcontrol.undo-method-access%28Office.15%29.aspx)
 

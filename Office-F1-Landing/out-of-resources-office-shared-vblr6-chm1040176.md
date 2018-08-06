@@ -1,5 +1,5 @@
 ---
-title: Sin recursos, Office Shared [vblr6.chm1040176]
+title: Out of resources, Office Shared [vblr6.chm1040176]
 keywords: vblr6.chm1040176
 f1_keywords:
 - vblr6.chm1040176
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Out of resources, Office Shared [vblr6.chm1040176]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sin recursos, Office Shared [vblr6.chm1040176]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sin recursos](http://msdn.microsoft.com/library/out-of-resources%28Office.15%29.aspx)
-
+[Out of resources](http://msdn.microsoft.com/library/e072df25-75b2-4537-3ede-c5406415bee3%28Office.15%29.aspx)
 

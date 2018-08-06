@@ -1,5 +1,5 @@
 ---
-title: Propiedad Type (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100103]
+title: Type Property (VBA Add-In Object Model), Office Shared [vbob6.chm100103]
 keywords: vbob6.chm100103
 f1_keywords:
 - vbob6.chm100103
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type Property (VBA Add-In Object Model), Office Shared [vbob6.chm100103]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Type (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100103]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Type (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/type-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Type Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/358eca6e-05fd-2c01-f004-b80bd909338e%28Office.15%29.aspx)
 

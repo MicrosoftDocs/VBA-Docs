@@ -1,5 +1,5 @@
 ---
-title: Método AddFromGuid (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098958]
+title: AddFromGuid Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098958]
 keywords: vbob6.chm1098958
 f1_keywords:
 - vbob6.chm1098958
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddFromGuid Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098958]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AddFromGuid (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098958]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AddFromGuid (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/addfromguid-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[AddFromGuid Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/d36637d5-6fc6-dbf3-5a2f-7de3c59e8c8c%28Office.15%29.aspx)
 

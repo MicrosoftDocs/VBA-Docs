@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name, Access [vbaac10.chm10506]
+title: Name Property, Access [vbaac10.chm10506]
 keywords: vbaac10.chm10506
 f1_keywords:
 - vbaac10.chm10506
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property, Access [vbaac10.chm10506]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name, Access [vbaac10.chm10506]
+[NavigationButton.Name Property (Access)](http://msdn.microsoft.com/library/514d922d-e9bc-6a44-b1ac-323b9eb036c2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Name Property (Access)](http://msdn.microsoft.com/library/1e0f700c-9114-4add-4a0a-4f93266951d5%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Name (Access)](http://msdn.microsoft.com/library/navigationbutton.name-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Name (Access)](http://msdn.microsoft.com/library/commandbutton.name-property-access%28Office.15%29.aspx)
 

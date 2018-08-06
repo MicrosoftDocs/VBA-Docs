@@ -1,5 +1,5 @@
 ---
-title: No se puede imprimir la imagen de formulario en este tipo de impresora (error 486), Office Shared [vblr6.chm486]
+title: Can't print form image to this type of printer (Error 486), Office Shared [vblr6.chm486]
 keywords: vblr6.chm486
 f1_keywords:
 - vblr6.chm486
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't print form image to this type of printer (Error 486), Office Shared [vblr6.chm486]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede imprimir la imagen de formulario en este tipo de impresora (error 486), Office Shared [vblr6.chm486]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede imprimir la imagen del formualrio en este tipo de impresora (error 486)](http://msdn.microsoft.com/library/can-t-print-form-image-to-this-type-of-printer-error-486%28Office.15%29.aspx)
-
+[Can't print form image to this type of printer (Error 486)](http://msdn.microsoft.com/library/37a8fc76-1a70-e46e-6b4d-3339eba3fdb2%28Office.15%29.aspx)
 

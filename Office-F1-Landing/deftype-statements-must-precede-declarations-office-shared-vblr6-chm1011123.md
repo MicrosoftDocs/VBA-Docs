@@ -1,5 +1,5 @@
 ---
-title: Las instrucciones Deftype deben preceder a las instrucciones, Office Shared [vblr6.chm1011123]
+title: Deftype statements must precede declarations, Office Shared [vblr6.chm1011123]
 keywords: vblr6.chm1011123
 f1_keywords:
 - vblr6.chm1011123
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Deftype statements must precede declarations, Office Shared [vblr6.chm1011123]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Las instrucciones Deftype deben preceder a las instrucciones, Office Shared [vblr6.chm1011123]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Las instrucciones Deftype deben preceder a las declaraciones](http://msdn.microsoft.com/library/deftype-statements-must-precede-declarations%28Office.15%29.aspx)
-
+[Deftype statements must precede declarations](http://msdn.microsoft.com/library/1cbcf2e1-cd74-7d92-2d7a-2b6c3086e89a%28Office.15%29.aspx)
 

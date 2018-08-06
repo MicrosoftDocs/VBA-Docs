@@ -1,5 +1,5 @@
 ---
-title: Propiedad PressedForeTint, Access [vbaac10.chm14625]
+title: PressedForeTint Property, Access [vbaac10.chm14625]
 keywords: vbaac10.chm14625
 f1_keywords:
 - vbaac10.chm14625
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# PressedForeTint Property, Access [vbaac10.chm14625]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PressedForeTint, Access [vbaac10.chm14625]
+[ToggleButton.PressedForeTint Property (Access)](http://msdn.microsoft.com/library/c93d5f87-9b9a-fa6e-7226-709484c1e257%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.PressedForeTint Property (Access)](http://msdn.microsoft.com/library/3c5bce3c-e140-cd4c-ef69-7aee89b89998%28Office.15%29.aspx)
 
-
- [Propiedad ToggleButton.PressedForeTint (Access)](http://msdn.microsoft.com/library/togglebutton.pressedforetint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.PressedForeTint (Access)](http://msdn.microsoft.com/library/commandbutton.pressedforetint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.PressedForeTint (Access)](http://msdn.microsoft.com/library/navigationbutton.pressedforetint-property-access%28Office.15%29.aspx)
-
- [Propiedad TabControl.PressedForeTint (Access)](http://msdn.microsoft.com/library/tabcontrol.pressedforetint-property-access%28Office.15%29.aspx)
-
+[NavigationButton.PressedForeTint Property (Access)](http://msdn.microsoft.com/library/70267cd4-ed42-9533-4cb6-e4338fa38fc1%28Office.15%29.aspx)
+[TabControl.PressedForeTint Property (Access)](http://msdn.microsoft.com/library/e27aab0a-8ffa-15df-0f48-ff2f64489644%28Office.15%29.aspx)
 

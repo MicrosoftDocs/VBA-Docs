@@ -1,5 +1,5 @@
 ---
-title: Propiedad Connection, Access [vbaac10.chm12720]
+title: Connection Property, Access [vbaac10.chm12720]
 keywords: vbaac10.chm12720
 f1_keywords:
 - vbaac10.chm12720
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Connection Property, Access [vbaac10.chm12720]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Connection, Access [vbaac10.chm12720]
+[CodeProject.Connection Property (Access)](http://msdn.microsoft.com/library/3fb6bb6f-83c9-f682-79fc-6cdace654d26%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.Connection Property (Access)](http://msdn.microsoft.com/library/ab956942-deff-793f-e5e6-7412554f9950%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.Connection (Access)](http://msdn.microsoft.com/library/codeproject.connection-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.Connection (Access)](http://msdn.microsoft.com/library/currentproject.connection-property-access%28Office.15%29.aspx)
 

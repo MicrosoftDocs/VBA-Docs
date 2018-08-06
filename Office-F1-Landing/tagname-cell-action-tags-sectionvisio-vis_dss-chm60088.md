@@ -1,5 +1,5 @@
 ---
-title: Celda TagName (sección Action Tags), Visio [Vis_DSS.chm60088]
+title: TagName Cell (Action Tags Section), Visio [Vis_DSS.chm60088]
 keywords: vis_dss.chm60088
 f1_keywords:
 - vis_dss.chm60088
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TagName Cell (Action Tags Section), Visio [Vis_DSS.chm60088]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TagName (sección Action Tags), Visio [Vis_DSS.chm60088]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TagName (sección de etiquetas de acción)](http://msdn.microsoft.com/library/tagname-cell-action-tags-section%28Office.15%29.aspx)
-
+[TagName Cell (Action Tags Section)](http://msdn.microsoft.com/library/28d1cd60-4fb6-9feb-1a13-0962798ac1ad%28Office.15%29.aspx)
 

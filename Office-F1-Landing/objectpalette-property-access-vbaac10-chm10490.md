@@ -1,5 +1,5 @@
 ---
-title: Propiedad ObjectPalette, Access [vbaac10.chm10490]
+title: ObjectPalette Property, Access [vbaac10.chm10490]
 keywords: vbaac10.chm10490
 f1_keywords:
 - vbaac10.chm10490
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ObjectPalette Property, Access [vbaac10.chm10490]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ObjectPalette, Access [vbaac10.chm10490]
+[NavigationButton.ObjectPalette Property (Access)](http://msdn.microsoft.com/library/10578730-717c-6c3c-d6d4-61a9bc765ca3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.ObjectPalette Property (Access)](http://msdn.microsoft.com/library/e4c8ea81-b39f-e580-9a68-c809c0deaf71%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.ObjectPalette (Access)](http://msdn.microsoft.com/library/navigationbutton.objectpalette-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.ObjectPalette (Access)](http://msdn.microsoft.com/library/commandbutton.objectpalette-property-access%28Office.15%29.aspx)
 

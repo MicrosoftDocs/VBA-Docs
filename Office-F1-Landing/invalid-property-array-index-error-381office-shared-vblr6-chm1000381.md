@@ -1,5 +1,5 @@
 ---
-title: Índice de matriz de propiedades no válido (error 381), Office Shared [vblr6.chm1000381]
+title: Invalid property-array index (Error 381), Office Shared [vblr6.chm1000381]
 keywords: vblr6.chm1000381
 f1_keywords:
 - vblr6.chm1000381
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid property-array index (Error 381), Office Shared [vblr6.chm1000381]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Índice de matriz de propiedades no válido (error 381), Office Shared [vblr6.chm1000381]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Índice de matriz de propiedad no válido (error 381)](http://msdn.microsoft.com/library/invalid-property-array-index-error-381%28Office.15%29.aspx)
-
+[Invalid property-array index (Error 381)](http://msdn.microsoft.com/library/63598821-9427-e71d-2168-d4448a684005%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Font, PowerPoint [vbapp10.chm65682]
+title: Font Property, PowerPoint [vbapp10.chm65682]
 keywords: vbapp10.chm65682
 f1_keywords:
 - vbapp10.chm65682
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Font Property, PowerPoint [vbapp10.chm65682]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Font, PowerPoint [vbapp10.chm65682]
+[ChartCharacters.Font Property (PowerPoint)](http://msdn.microsoft.com/library/12028e1a-9aa6-342e-dbf0-87962a50da17%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[LegendEntry.Font Property (PowerPoint)](http://msdn.microsoft.com/library/ef4051e3-3332-730a-eb30-d52795a0c7d6%28Office.15%29.aspx)
 
-
- [Propiedad ChartCharacters.Font (PowerPoint)](http://msdn.microsoft.com/library/chartcharacters.font-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad LegendEntry.Font (PowerPoint)](http://msdn.microsoft.com/library/legendentry.font-property-powerpoint%28Office.15%29.aspx)
 

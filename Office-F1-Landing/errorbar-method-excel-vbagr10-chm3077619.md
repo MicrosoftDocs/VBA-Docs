@@ -1,5 +1,5 @@
 ---
-title: Método ErrorBar, Excel [vbagr10.chm3077619]
+title: ErrorBar Method, Excel [vbagr10.chm3077619]
 keywords: vbagr10.chm3077619
 f1_keywords:
 - vbagr10.chm3077619
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ErrorBar Method, Excel [vbagr10.chm3077619]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método ErrorBar, Excel [vbagr10.chm3077619]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ErrorBar (método)](http://msdn.microsoft.com/library/errorbar-method%28Office.15%29.aspx)
-
+[ErrorBar Method](http://msdn.microsoft.com/library/c2ada146-1549-aa88-2a39-bf1cccf1008b%28Office.15%29.aspx)
 

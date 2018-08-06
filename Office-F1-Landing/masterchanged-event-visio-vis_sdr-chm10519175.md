@@ -1,5 +1,5 @@
 ---
-title: Evento MasterChanged, Visio [vis_sdr.chm10519175]
+title: MasterChanged Event, Visio [vis_sdr.chm10519175]
 keywords: vis_sdr.chm10519175
 f1_keywords:
 - vis_sdr.chm10519175
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MasterChanged Event, Visio [vis_sdr.chm10519175]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MasterChanged, Visio [vis_sdr.chm10519175]
+[Document.MasterChanged Event (Visio)](http://msdn.microsoft.com/library/59fe2ee8-03ee-83b9-d86c-a67d68c7a363%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.MasterChanged Event (Visio)](http://msdn.microsoft.com/library/242c96ec-a29c-421a-ca7b-cc374cc5fc69%28Office.15%29.aspx)
 
-
- [Evento Document.MasterChanged (Visio)](http://msdn.microsoft.com/library/document.masterchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.MasterChanged (Visio)](http://msdn.microsoft.com/library/drawingcontrol.masterchanged-event-visio%28Office.15%29.aspx)
 

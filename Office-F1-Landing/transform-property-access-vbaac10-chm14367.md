@@ -1,5 +1,5 @@
 ---
-title: Propiedad Transform, Access [vbaac10.chm14367]
+title: Transform Property, Access [vbaac10.chm14367]
 keywords: vbaac10.chm14367
 f1_keywords:
 - vbaac10.chm14367
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Transform Property, Access [vbaac10.chm14367]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Transform, Access [vbaac10.chm14367]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad WebBrowserControl.Transform (Access)](http://msdn.microsoft.com/library/webbrowsercontrol.transform-property-access%28Office.15%29.aspx)
-
+[WebBrowserControl.Transform Property (Access)](http://msdn.microsoft.com/library/7ed545dc-96f4-2cb5-ad35-e50ff4beb270%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda A (sección Geometría), Visio [Vis_DSS.chm82253224]
+title: A Cell (Geometry Section), Visio [Vis_DSS.chm82253224]
 keywords: vis_dss.chm82253224
 f1_keywords:
 - vis_dss.chm82253224
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# A Cell (Geometry Section), Visio [Vis_DSS.chm82253224]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda A (sección Geometría), Visio [Vis_DSS.chm82253224]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda A (Sección de geometría)](http://msdn.microsoft.com/library/a-cell-geometry-section%28Office.15%29.aspx)
-
+[A Cell (Geometry Section)](http://msdn.microsoft.com/library/6853df0f-d22e-89ca-7d34-342b9c0bea23%28Office.15%29.aspx)
 

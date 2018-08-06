@@ -1,5 +1,5 @@
 ---
-title: Variable no creada todavía en este contexto, Office Shared [vblr6.chm1015677]
+title: Variable not yet created in this context, Office Shared [vblr6.chm1015677]
 keywords: vblr6.chm1015677
 f1_keywords:
 - vblr6.chm1015677
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Variable not yet created in this context, Office Shared [vblr6.chm1015677]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Variable no creada todavía en este contexto, Office Shared [vblr6.chm1015677]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Variable no creada en este contexto todavía](http://msdn.microsoft.com/library/variable-not-yet-created-in-this-context%28Office.15%29.aspx)
-
+[Variable not yet created in this context](http://msdn.microsoft.com/library/93dc4805-7ce4-0240-7bc7-e5bc593dfbf5%28Office.15%29.aspx)
 

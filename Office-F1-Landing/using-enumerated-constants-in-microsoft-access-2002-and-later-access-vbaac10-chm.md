@@ -1,5 +1,5 @@
 ---
-title: Uso de constantes enumeradas en Microsoft Access 2002 y en versiones posteriores, Access [vbaac10.chm5188239]
+title: Using Enumerated Constants in Microsoft Access 2002 and Later, Access [vbaac10.chm5188239]
 keywords: vbaac10.chm5188239
 f1_keywords:
 - vbaac10.chm5188239
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Using Enumerated Constants in Microsoft Access 2002 and Later, Access [vbaac10.chm5188239]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Uso de constantes enumeradas en Microsoft Access 2002 y en versiones posteriores, Access [vbaac10.chm5188239]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Utilizar constantes enumeradas en Microsoft Access 2002 y versiones posteriores](http://msdn.microsoft.com/library/using-enumerated-constants-in-microsoft-access-2002-and-later%28Office.15%29.aspx)
-
+[Using Enumerated Constants in Microsoft Access 2002 and Later](http://msdn.microsoft.com/library/7eb8fb08-76e5-a59f-5d6d-64c7081470e6%28Office.15%29.aspx)
 

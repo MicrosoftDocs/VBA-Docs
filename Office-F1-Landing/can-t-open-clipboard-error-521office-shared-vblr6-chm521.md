@@ -1,5 +1,5 @@
 ---
-title: No se puede abrir el Portapapeles (error 521), Office Shared [vblr6.chm521]
+title: Can't open Clipboard (Error 521), Office Shared [vblr6.chm521]
 keywords: vblr6.chm521
 f1_keywords:
 - vblr6.chm521
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't open Clipboard (Error 521), Office Shared [vblr6.chm521]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede abrir el Portapapeles (error 521), Office Shared [vblr6.chm521]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede abrir el portapapeles (error 521)](http://msdn.microsoft.com/library/can-t-open-clipboard-error-521%28Office.15%29.aspx)
-
+[Can't open Clipboard (Error 521)](http://msdn.microsoft.com/library/4a98a637-81ab-c71f-e3c4-8504c441c5a5%28Office.15%29.aspx)
 

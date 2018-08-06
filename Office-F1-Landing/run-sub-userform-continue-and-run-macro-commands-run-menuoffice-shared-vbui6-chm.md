@@ -1,5 +1,5 @@
 ---
-title: Comandos Run Sub/UserForm, Continue y Run Macro (menú Ejecutar), Office Shared [vbui6.chm1105498]
+title: Run Sub/UserForm, Continue, and Run Macro Commands (Run Menu), Office Shared [vbui6.chm1105498]
 keywords: vbui6.chm1105498
 f1_keywords:
 - vbui6.chm1105498
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Run Sub/UserForm, Continue, and Run Macro Commands (Run Menu), Office Shared [vbui6.chm1105498]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Run Sub/UserForm, Continue y Run Macro (menú Ejecutar), Office Shared [vbui6.chm1105498]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Ejecutar Sub/UserForm, Continuar y Ejecutar macro (menú Ejecutar)](http://msdn.microsoft.com/library/run-sub-userform-continue-and-run-macro-commands-run-menu%28Office.15%29.aspx)
-
+[Run Sub/UserForm, Continue, and Run Macro Commands (Run Menu)](http://msdn.microsoft.com/library/87eb477d-7cbd-0486-3c94-ba3c8f164bf5%28Office.15%29.aspx)
 

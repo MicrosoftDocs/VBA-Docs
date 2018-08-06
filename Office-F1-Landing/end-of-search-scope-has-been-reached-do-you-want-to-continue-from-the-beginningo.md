@@ -1,5 +1,5 @@
 ---
-title: Ha llegado al final del ámbito de búsqueda, ¿desea continuar desde el principio?, Office Shared [vblr6.chm1011271]
+title: End of search scope has been reached; do you want to continue from the beginning?, Office Shared [vblr6.chm1011271]
 keywords: vblr6.chm1011271
 f1_keywords:
 - vblr6.chm1011271
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# End of search scope has been reached; do you want to continue from the beginning?, Office Shared [vblr6.chm1011271]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ha llegado al final del ámbito de búsqueda, ¿desea continuar desde el principio?, Office Shared [vblr6.chm1011271]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se ha alcanzado el final del ámbito de búsqueda; ¿desea continuar desde el principio?](http://msdn.microsoft.com/library/end-of-search-scope-has-been-reached;-do-you-want-to-continue-from-the-beginning%28Office.15%29.aspx)
-
+[End of search scope has been reached; do you want to continue from the beginning?](http://msdn.microsoft.com/library/62314543-a54f-d0dc-d88f-52f3cbe77499%28Office.15%29.aspx)
 

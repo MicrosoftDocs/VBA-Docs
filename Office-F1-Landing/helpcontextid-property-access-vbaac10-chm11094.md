@@ -1,5 +1,5 @@
 ---
-title: Propiedad HelpContextId, Access [vbaac10.chm11094]
+title: HelpContextId Property, Access [vbaac10.chm11094]
 keywords: vbaac10.chm11094
 f1_keywords:
 - vbaac10.chm11094
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HelpContextId Property, Access [vbaac10.chm11094]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HelpContextId, Access [vbaac10.chm11094]
+[TextBox.HelpContextId Property (Access)](http://msdn.microsoft.com/library/6829c95e-d7fc-c3c6-a8ab-0051c8e9af24%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.HelpContextId Property (Access)](http://msdn.microsoft.com/library/b56cbf60-e760-170c-9c93-edaddabf91b6%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.HelpContextId (Access)](http://msdn.microsoft.com/library/textbox.helpcontextid-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.HelpContextId (Access)](http://msdn.microsoft.com/library/navigationcontrol.helpcontextid-property-access%28Office.15%29.aspx)
 

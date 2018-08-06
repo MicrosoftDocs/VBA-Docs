@@ -1,5 +1,5 @@
 ---
-title: Sin memoria; es posible que se hayan eliminado determinadas inspecciones, Office Shared [vblr6.chm1011238]
+title: Out of memory; some watches might have been deleted, Office Shared [vblr6.chm1011238]
 keywords: vblr6.chm1011238
 f1_keywords:
 - vblr6.chm1011238
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Out of memory; some watches might have been deleted, Office Shared [vblr6.chm1011238]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sin memoria; es posible que se hayan eliminado determinadas inspecciones, Office Shared [vblr6.chm1011238]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sin memoria; es posible que se hayan eliminado algunas inspecciones](http://msdn.microsoft.com/library/out-of-memory;-some-watches-might-have-been-deleted%28Office.15%29.aspx)
-
+[Out of memory; some watches might have been deleted](http://msdn.microsoft.com/library/78af5be3-036c-e317-e075-befc7dca6c4b%28Office.15%29.aspx)
 

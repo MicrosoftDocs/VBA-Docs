@@ -1,5 +1,5 @@
 ---
-title: Configuración de idioma de biblioteca de objetos incompatible con proyecto actual, Office Shared [vblr6.chm1014324]
+title: Object library's language setting incompatible with current project, Office Shared [vblr6.chm1014324]
 keywords: vblr6.chm1014324
 f1_keywords:
 - vblr6.chm1014324
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object library's language setting incompatible with current project, Office Shared [vblr6.chm1014324]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Configuración de idioma de biblioteca de objetos incompatible con proyecto actual, Office Shared [vblr6.chm1014324]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Opción de idioma de la biblioteca de objetos incompatible con el proyecto actual](http://msdn.microsoft.com/library/object-library-s-language-setting-incompatible-with-current-project%28Office.15%29.aspx)
-
+[Object library's language setting incompatible with current project](http://msdn.microsoft.com/library/4427c8c1-9990-0761-5f5b-2c58ba6eb329%28Office.15%29.aspx)
 

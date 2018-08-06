@@ -1,5 +1,5 @@
 ---
-title: Celda TxtLocPinX (sección Text Transform), Visio [vis_sdr.chm1030]
+title: TxtLocPinX Cell (Text Transform Section), Visio [vis_sdr.chm1030]
 keywords: vis_sdr.chm1030
 f1_keywords:
 - vis_sdr.chm1030
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtLocPinX Cell (Text Transform Section), Visio [vis_sdr.chm1030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtLocPinX (sección Text Transform), Visio [vis_sdr.chm1030]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtLocPinX (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtlocpinx-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtLocPinX Cell (Text Transform Section)](http://msdn.microsoft.com/library/cbfc4e91-10d1-d50e-3e8a-f269f7123276%28Office.15%29.aspx)
 

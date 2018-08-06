@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasLinks, Excel [vbagr10.chm5207494]
+title: HasLinks Property, Excel [vbagr10.chm5207494]
 keywords: vbagr10.chm5207494
 f1_keywords:
 - vbagr10.chm5207494
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasLinks Property, Excel [vbagr10.chm5207494]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasLinks, Excel [vbagr10.chm5207494]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasLinks (propiedad)](http://msdn.microsoft.com/library/haslinks-property%28Office.15%29.aspx)
-
+[HasLinks Property](http://msdn.microsoft.com/library/71e0e494-a96a-53e5-5e38-92b3ce331076%28Office.15%29.aspx)
 

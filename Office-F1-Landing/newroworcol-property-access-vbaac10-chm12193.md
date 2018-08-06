@@ -1,5 +1,5 @@
 ---
-title: Propiedad NewRowOrCol, Access [vbaac10.chm12193]
+title: NewRowOrCol Property, Access [vbaac10.chm12193]
 keywords: vbaac10.chm12193
 f1_keywords:
 - vbaac10.chm12193
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NewRowOrCol Property, Access [vbaac10.chm12193]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NewRowOrCol, Access [vbaac10.chm12193]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.NewRowOrCol (Access)](http://msdn.microsoft.com/library/section.newroworcol-property-access%28Office.15%29.aspx)
-
+[Section.NewRowOrCol Property (Access)](http://msdn.microsoft.com/library/c14c669a-9aff-6fc1-9bcc-b7bf011abed1%28Office.15%29.aspx)
 

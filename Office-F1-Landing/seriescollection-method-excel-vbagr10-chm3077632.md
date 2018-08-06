@@ -1,5 +1,5 @@
 ---
-title: Método SeriesCollection, Excel [vbagr10.chm3077632]
+title: SeriesCollection Method, Excel [vbagr10.chm3077632]
 keywords: vbagr10.chm3077632
 f1_keywords:
 - vbagr10.chm3077632
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SeriesCollection Method, Excel [vbagr10.chm3077632]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SeriesCollection, Excel [vbagr10.chm3077632]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SeriesCollection (método)](http://msdn.microsoft.com/library/seriescollection-method%28Office.15%29.aspx)
-
+[SeriesCollection Method](http://msdn.microsoft.com/library/9de760ab-0a6d-7cab-e378-b7f341f5b87d%28Office.15%29.aspx)
 

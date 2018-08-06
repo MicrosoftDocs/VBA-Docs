@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumberFormatLocal, Excel [vbagr10.chm5274946]
+title: NumberFormatLocal Property, Excel [vbagr10.chm5274946]
 keywords: vbagr10.chm5274946
 f1_keywords:
 - vbagr10.chm5274946
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NumberFormatLocal Property, Excel [vbagr10.chm5274946]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumberFormatLocal, Excel [vbagr10.chm5274946]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [NumberFormatLocal (propiedad)](http://msdn.microsoft.com/library/numberformatlocal-property%28Office.15%29.aspx)
-
+[NumberFormatLocal Property](http://msdn.microsoft.com/library/186aee6a-dd66-39a7-cebc-546c3e156d6d%28Office.15%29.aspx)
 

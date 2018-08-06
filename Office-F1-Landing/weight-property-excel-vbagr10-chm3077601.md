@@ -1,5 +1,5 @@
 ---
-title: Propiedad Weight, Excel [vbagr10.chm3077601]
+title: Weight Property, Excel [vbagr10.chm3077601]
 keywords: vbagr10.chm3077601
 f1_keywords:
 - vbagr10.chm3077601
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Weight Property, Excel [vbagr10.chm3077601]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Weight, Excel [vbagr10.chm3077601]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Weight (propiedad)](http://msdn.microsoft.com/library/weight-property%28Office.15%29.aspx)
-
+[Weight Property](http://msdn.microsoft.com/library/59a3b106-5811-f082-d9cf-c21f2945da31%28Office.15%29.aspx)
 

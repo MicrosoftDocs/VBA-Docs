@@ -1,5 +1,5 @@
 ---
-title: Propiedad CorrectCapsLock, Excel [vbagr10.chm67156]
+title: CorrectCapsLock Property, Excel [vbagr10.chm67156]
 keywords: vbagr10.chm67156
 f1_keywords:
 - vbagr10.chm67156
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CorrectCapsLock Property, Excel [vbagr10.chm67156]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CorrectCapsLock, Excel [vbagr10.chm67156]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [CorrectCapsLock (propiedad)](http://msdn.microsoft.com/library/correctcapslock-property%28Office.15%29.aspx)
-
+[CorrectCapsLock Property](http://msdn.microsoft.com/library/eb092056-2ae5-7982-28bb-1a367a812a9b%28Office.15%29.aspx)
 

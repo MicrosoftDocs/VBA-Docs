@@ -1,5 +1,5 @@
 ---
-title: Método Export (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098971]
+title: Export Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098971]
 keywords: vbob6.chm1098971
 f1_keywords:
 - vbob6.chm1098971
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Export Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098971]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Export (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098971]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Export (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/export-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Export Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/46cab37a-4390-219c-68f8-05cbb59c0450%28Office.15%29.aspx)
 

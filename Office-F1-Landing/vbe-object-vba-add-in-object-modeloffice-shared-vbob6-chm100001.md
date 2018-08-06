@@ -1,5 +1,5 @@
 ---
-title: Objeto VBE (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100001]
+title: VBE Object (VBA Add-In Object Model), Office Shared [vbob6.chm100001]
 keywords: vbob6.chm100001
 f1_keywords:
 - vbob6.chm100001
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VBE Object (VBA Add-In Object Model), Office Shared [vbob6.chm100001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto VBE (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100001]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto VBE (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/vbe-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[VBE Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/82f7d911-5ad9-5e48-c2c0-8a2ebbf14ede%28Office.15%29.aspx)
 

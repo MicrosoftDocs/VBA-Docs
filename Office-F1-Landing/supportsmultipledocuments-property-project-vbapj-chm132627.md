@@ -1,20 +1,17 @@
 ---
-title: Propiedad SupportsMultipleDocuments, proyecto [vbapj.chm132627]
+title: SupportsMultipleDocuments Property, Project [vbapj.chm132627]
 keywords: vbapj.chm132627
 f1_keywords:
 - vbapj.chm132627
 ms.prod: office
 ms.assetid: 342cf6c1-42e2-4c5c-9ee9-ec88784696e1
 ms.date: 06/08/2017
-ms.openlocfilehash: 48f7d989220a455cc79ce56424b707ebc60562f4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="supportsmultipledocuments-property-project-vbapjchm132627"></a>Propiedad SupportsMultipleDocuments, proyecto [vbapj.chm132627]
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
 
-[Propiedad Application.SupportsMultipleDocuments (proyecto)](http://msdn.microsoft.com/library/d5f1daf1-21b0-3c6c-44b2-8e3f665c7055%28Office.15%29.aspx)
+# SupportsMultipleDocuments Property, Project [vbapj.chm132627]
+
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
+
+[Application.SupportsMultipleDocuments Property (Project)](http://msdn.microsoft.com/library/d5f1daf1-21b0-3c6c-44b2-8e3f665c7055%28Office.15%29.aspx)
 

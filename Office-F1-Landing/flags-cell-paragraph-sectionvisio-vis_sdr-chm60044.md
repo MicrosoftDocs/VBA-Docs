@@ -1,5 +1,5 @@
 ---
-title: Celda Flags (sección Paragraph), Visio [vis_sdr.chm60044]
+title: Flags Cell (Paragraph Section), Visio [vis_sdr.chm60044]
 keywords: vis_sdr.chm60044
 f1_keywords:
 - vis_sdr.chm60044
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Flags Cell (Paragraph Section), Visio [vis_sdr.chm60044]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Flags (sección Paragraph), Visio [vis_sdr.chm60044]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Flags (Sección de párrafo)](http://msdn.microsoft.com/library/flags-cell-paragraph-section%28Office.15%29.aspx)
-
+[Flags Cell (Paragraph Section)](http://msdn.microsoft.com/library/898bf89d-d00f-9769-a89d-787ef708eca5%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad BorderWidth, Access [vbaac10.chm11081]
+title: BorderWidth Property, Access [vbaac10.chm11081]
 keywords: vbaac10.chm11081
 f1_keywords:
 - vbaac10.chm11081
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BorderWidth Property, Access [vbaac10.chm11081]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BorderWidth, Access [vbaac10.chm11081]
+[NavigationControl.BorderWidth Property (Access)](http://msdn.microsoft.com/library/a0a39f30-18c5-2073-b463-1ffcb385357c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.BorderWidth Property (Access)](http://msdn.microsoft.com/library/e842887f-9ec1-4405-0558-6b3b3d3d221c%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.BorderWidth (Access)](http://msdn.microsoft.com/library/navigationcontrol.borderwidth-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.BorderWidth (Access)](http://msdn.microsoft.com/library/textbox.borderwidth-property-access%28Office.15%29.aspx)
 

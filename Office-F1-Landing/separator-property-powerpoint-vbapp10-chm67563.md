@@ -1,5 +1,5 @@
 ---
-title: Propiedad Separator, PowerPoint [vbapp10.chm67563]
+title: Separator Property, PowerPoint [vbapp10.chm67563]
 keywords: vbapp10.chm67563
 f1_keywords:
 - vbapp10.chm67563
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Separator Property, PowerPoint [vbapp10.chm67563]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Separator, PowerPoint [vbapp10.chm67563]
+[DataLabels.Separator Property (PowerPoint)](http://msdn.microsoft.com/library/e0bc6147-61c8-8df9-ff42-591f60c5b7f5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabel.Separator Property (PowerPoint)](http://msdn.microsoft.com/library/16613cac-f04d-13fe-56e5-bb6b6c9473b3%28Office.15%29.aspx)
 
-
- [Propiedad DataLabels.Separator (PowerPoint)](http://msdn.microsoft.com/library/datalabels.separator-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabel.Separator (PowerPoint)](http://msdn.microsoft.com/library/datalabel.separator-property-powerpoint%28Office.15%29.aspx)
 

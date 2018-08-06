@@ -1,5 +1,5 @@
 ---
-title: Propiedad FontItalic, PowerPoint [vbapp10.chm575005]
+title: FontItalic Property, PowerPoint [vbapp10.chm575005]
 keywords: vbapp10.chm575005
 f1_keywords:
 - vbapp10.chm575005
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FontItalic Property, PowerPoint [vbapp10.chm575005]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FontItalic, PowerPoint [vbapp10.chm575005]
+[TextEffectFormat.FontItalic Property (PowerPoint)](http://msdn.microsoft.com/library/ee7b38b5-2ef7-ba05-e986-b3c84881baed%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Font.Italic Property (PowerPoint)](http://msdn.microsoft.com/library/5fc7e3fe-e103-72ea-42cb-c178b411312a%28Office.15%29.aspx)
 
-
- [Propiedad TextEffectFormat.FontItalic (PowerPoint)](http://msdn.microsoft.com/library/texteffectformat.fontitalic-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Font.Italic (PowerPoint)](http://msdn.microsoft.com/library/font.italic-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Error de impresora (error 482), Office Shared [vblr6.chm1000482]
+title: Printer error (Error 482), Office Shared [vblr6.chm1000482]
 keywords: vblr6.chm1000482
 f1_keywords:
 - vblr6.chm1000482
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Printer error (Error 482), Office Shared [vblr6.chm1000482]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de impresora (error 482), Office Shared [vblr6.chm1000482]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de impresora (error 482) [2 de 2]](http://msdn.microsoft.com/library/printer-error-error-482--2-of-2%28Office.15%29.aspx)
-
+[Printer error (Error 482) [2 of 2]](http://msdn.microsoft.com/library/5799998b-3f52-08f7-f71f-dfb0d4e16fa4%28Office.15%29.aspx)
 

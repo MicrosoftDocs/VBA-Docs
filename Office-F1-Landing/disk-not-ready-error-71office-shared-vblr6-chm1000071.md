@@ -1,5 +1,5 @@
 ---
-title: El disco no está preparado (error 71), Office Shared [vblr6.chm1000071]
+title: Disk not ready (Error 71), Office Shared [vblr6.chm1000071]
 keywords: vblr6.chm1000071
 f1_keywords:
 - vblr6.chm1000071
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Disk not ready (Error 71), Office Shared [vblr6.chm1000071]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El disco no está preparado (error 71), Office Shared [vblr6.chm1000071]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El disco no está listo (error 71)](http://msdn.microsoft.com/library/disk-not-ready-error-71%28Office.15%29.aspx)
-
+[Disk not ready (Error 71)](http://msdn.microsoft.com/library/58a903a2-b72a-2d4c-cc18-1239be6d7bfb%28Office.15%29.aspx)
 

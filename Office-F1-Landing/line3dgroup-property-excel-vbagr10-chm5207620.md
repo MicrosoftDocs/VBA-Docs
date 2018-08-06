@@ -1,5 +1,5 @@
 ---
-title: Propiedad Line3DGroup, Excel [vbagr10.chm5207620]
+title: Line3DGroup Property, Excel [vbagr10.chm5207620]
 keywords: vbagr10.chm5207620
 f1_keywords:
 - vbagr10.chm5207620
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Line3DGroup Property, Excel [vbagr10.chm5207620]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Line3DGroup, Excel [vbagr10.chm5207620]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Line3DGroup (propiedad)](http://msdn.microsoft.com/library/line3dgroup-property%28Office.15%29.aspx)
-
+[Line3DGroup Property](http://msdn.microsoft.com/library/8624511a-41fe-52ea-2ea8-e45af74206c0%28Office.15%29.aspx)
 

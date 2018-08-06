@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeSelectionDelete, Visio [vis_sdr.chm10019060]
+title: BeforeSelectionDelete Event, Visio [vis_sdr.chm10019060]
 keywords: vis_sdr.chm10019060
 f1_keywords:
 - vis_sdr.chm10019060
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeSelectionDelete Event, Visio [vis_sdr.chm10019060]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeSelectionDelete, Visio [vis_sdr.chm10019060]
+[Application.BeforeSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/4384f7b1-9e88-9a73-a452-5943fb40f18b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.BeforeSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/a5407295-e103-dc71-6655-df708aa905a3%28Office.15%29.aspx)
 
-
- [Evento Application.BeforeSelectionDelete (Visio)](http://msdn.microsoft.com/library/application.beforeselectiondelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.BeforeSelectionDelete (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforeselectiondelete-event-visio%28Office.15%29.aspx)
 

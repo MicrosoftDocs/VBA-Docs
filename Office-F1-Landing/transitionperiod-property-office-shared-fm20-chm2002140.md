@@ -1,5 +1,5 @@
 ---
-title: Propiedad TransitionPeriod, Office Shared [fm20.chm2002140]
+title: TransitionPeriod Property, Office Shared [fm20.chm2002140]
 keywords: fm20.chm2002140
 f1_keywords:
 - fm20.chm2002140
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TransitionPeriod Property, Office Shared [fm20.chm2002140]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TransitionPeriod, Office Shared [fm20.chm2002140]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TransitionPeriod](http://msdn.microsoft.com/library/transitionperiod-property%28Office.15%29.aspx)
-
+[TransitionPeriod Property](http://msdn.microsoft.com/library/cfdda5c3-244b-4404-d6a8-544755056473%28Office.15%29.aspx)
 

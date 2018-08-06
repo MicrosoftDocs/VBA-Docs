@@ -1,5 +1,5 @@
 ---
-title: El archivo es de solo lectura, Office Shared [vblr6.chm50140]
+title: File is read-only, Office Shared [vblr6.chm50140]
 keywords: vblr6.chm50140
 f1_keywords:
 - vblr6.chm50140
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# File is read-only, Office Shared [vblr6.chm50140]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El archivo es de solo lectura, Office Shared [vblr6.chm50140]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El archivo es de solo lectura](http://msdn.microsoft.com/library/file-is-read-only%28Office.15%29.aspx)
-
+[File is read-only](http://msdn.microsoft.com/library/fb987a93-8e45-41a0-4bd2-6c75357bcbc1%28Office.15%29.aspx)
 

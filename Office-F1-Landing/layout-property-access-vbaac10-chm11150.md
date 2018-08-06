@@ -1,5 +1,5 @@
 ---
-title: Propiedad Layout, Access [vbaac10.chm11150]
+title: Layout Property, Access [vbaac10.chm11150]
 keywords: vbaac10.chm11150
 f1_keywords:
 - vbaac10.chm11150
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Layout Property, Access [vbaac10.chm11150]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Layout, Access [vbaac10.chm11150]
+[NavigationControl.Layout Property (Access)](http://msdn.microsoft.com/library/eb8ab5e3-2443-d755-6dfa-6432223e87c0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.Layout Property (Access)](http://msdn.microsoft.com/library/a1c841e6-221b-3ba6-4212-d76066afda48%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.Layout (Access)](http://msdn.microsoft.com/library/navigationcontrol.layout-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.Layout (Access)](http://msdn.microsoft.com/library/textbox.layout-property-access%28Office.15%29.aspx)
 

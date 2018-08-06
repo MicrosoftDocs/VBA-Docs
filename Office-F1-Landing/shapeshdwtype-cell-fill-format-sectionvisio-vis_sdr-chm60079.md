@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeShdwType (sección Fill Format), Visio [vis_sdr.chm60079]
+title: ShapeShdwType Cell (Fill Format Section), Visio [vis_sdr.chm60079]
 keywords: vis_sdr.chm60079
 f1_keywords:
 - vis_sdr.chm60079
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeShdwType Cell (Fill Format Section), Visio [vis_sdr.chm60079]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeShdwType (sección Fill Format), Visio [vis_sdr.chm60079]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeShdwType (Sección de formato de relleno)](http://msdn.microsoft.com/library/shapeshdwtype-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShapeShdwType Cell (Fill Format Section)](http://msdn.microsoft.com/library/1461148d-90a9-6f7c-1b28-9310ffaf0e3b%28Office.15%29.aspx)
 

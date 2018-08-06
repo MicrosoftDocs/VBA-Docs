@@ -1,5 +1,5 @@
 ---
-title: Celda LockRotate (sección Protection), Visio [Vis_DSS.chm82251222]
+title: LockRotate Cell (Protection Section), Visio [Vis_DSS.chm82251222]
 keywords: vis_dss.chm82251222
 f1_keywords:
 - vis_dss.chm82251222
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockRotate Cell (Protection Section), Visio [Vis_DSS.chm82251222]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockRotate (sección Protection), Visio [Vis_DSS.chm82251222]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockRotate (Sección de protección)](http://msdn.microsoft.com/library/lockrotate-cell-protection-section%28Office.15%29.aspx)
-
+[LockRotate Cell (Protection Section)](http://msdn.microsoft.com/library/2d97b31d-9008-307d-273a-1726007eeb34%28Office.15%29.aspx)
 

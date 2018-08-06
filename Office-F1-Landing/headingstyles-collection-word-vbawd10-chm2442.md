@@ -1,5 +1,5 @@
 ---
-title: Colección HeadingStyles, Word [vbawd10.chm2442]
+title: HeadingStyles Collection, Word [vbawd10.chm2442]
 keywords: vbawd10.chm2442
 f1_keywords:
 - vbawd10.chm2442
@@ -9,15 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# HeadingStyles Collection, Word [vbawd10.chm2442]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección HeadingStyles, Word [vbawd10.chm2442]
+[HeadingStyles Object (Word)](http://msdn.microsoft.com/library/be882a12-1264-8f7e-415b-b8bcbf28e703%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ChartArea Object (Word)](http://msdn.microsoft.com/library/7b3384df-f331-033d-4dfa-ee2ff26111c6%28Office.15%29.aspx)
 
-
- [Objeto HeadingStyles (Word)](http://msdn.microsoft.com/library/headingstyles-object-word%28Office.15%29.aspx)
-
-
- [Objeto ChartArea (Word)](http://msdn.microsoft.com/library/chartarea-object-word%28Office.15%29.aspx)
+[HeadingStyles Object (Word)6c62147a-15a4-74ad-c85e-bf3150f9b656](http://msdn.microsoft.com/library/6c62147a-15a4-74ad-c85e-bf3150f9b656%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ReplaceText, Excel [vbagr10.chm66684]
+title: ReplaceText Property, Excel [vbagr10.chm66684]
 keywords: vbagr10.chm66684
 f1_keywords:
 - vbagr10.chm66684
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ReplaceText Property, Excel [vbagr10.chm66684]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ReplaceText, Excel [vbagr10.chm66684]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ReplaceText (propiedad)](http://msdn.microsoft.com/library/replacetext-property%28Office.15%29.aspx)
-
+[ReplaceText Property](http://msdn.microsoft.com/library/930c453b-5363-3124-ec06-62359e41ee47%28Office.15%29.aspx)
 

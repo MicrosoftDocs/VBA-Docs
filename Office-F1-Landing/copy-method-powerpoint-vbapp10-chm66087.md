@@ -1,5 +1,5 @@
 ---
-title: Método Copy, PowerPoint [vbapp10.chm66087]
+title: Copy Method, PowerPoint [vbapp10.chm66087]
 keywords: vbapp10.chm66087
 f1_keywords:
 - vbapp10.chm66087
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Copy Method, PowerPoint [vbapp10.chm66087]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Copy, PowerPoint [vbapp10.chm66087]
+[Point.Copy Method (PowerPoint)](http://msdn.microsoft.com/library/85bd2c66-986b-291d-9de2-53d5e3e81202%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ChartArea.Copy Method (PowerPoint)](http://msdn.microsoft.com/library/32dc2527-1fd0-2043-c8a6-93af4c7ffc3d%28Office.15%29.aspx)
 
-
- [Método Point.Copy (PowerPoint)](http://msdn.microsoft.com/library/point.copy-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método ChartArea.Copy (PowerPoint)](http://msdn.microsoft.com/library/chartarea.copy-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método Series.Copy (PowerPoint)](http://msdn.microsoft.com/library/series.copy-method-powerpoint%28Office.15%29.aspx)
-
+[Series.Copy Method (PowerPoint)](http://msdn.microsoft.com/library/7725e3f1-a3a8-9d03-db25-ef6b6ef31caf%28Office.15%29.aspx)
 

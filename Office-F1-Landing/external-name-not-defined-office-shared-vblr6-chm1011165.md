@@ -1,5 +1,5 @@
 ---
-title: Nombre externo no definido, Office Shared [vblr6.chm1011165]
+title: External name not defined, Office Shared [vblr6.chm1011165]
 keywords: vblr6.chm1011165
 f1_keywords:
 - vblr6.chm1011165
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# External name not defined, Office Shared [vblr6.chm1011165]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Nombre externo no definido, Office Shared [vblr6.chm1011165]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Nombre externo sin definir](http://msdn.microsoft.com/library/external-name-not-defined%28Office.15%29.aspx)
-
+[External name not defined](http://msdn.microsoft.com/library/56f6b45e-2b1e-c1c9-3a1d-c7639aee4c66%28Office.15%29.aspx)
 

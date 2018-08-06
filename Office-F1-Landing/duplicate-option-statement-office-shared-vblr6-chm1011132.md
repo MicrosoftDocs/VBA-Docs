@@ -1,5 +1,5 @@
 ---
-title: Instrucción Duplicate Option, Office Shared [vblr6.chm1011132]
+title: Duplicate Option statement, Office Shared [vblr6.chm1011132]
 keywords: vblr6.chm1011132
 f1_keywords:
 - vblr6.chm1011132
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Duplicate Option statement, Office Shared [vblr6.chm1011132]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción Duplicate Option, Office Shared [vblr6.chm1011132]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Opción duplicada](http://msdn.microsoft.com/library/duplicate-option-statement%28Office.15%29.aspx)
-
+[Duplicate Option statement](http://msdn.microsoft.com/library/286520c3-61ad-a84c-046b-376ee692e880%28Office.15%29.aspx)
 

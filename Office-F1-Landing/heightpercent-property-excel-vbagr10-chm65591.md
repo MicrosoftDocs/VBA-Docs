@@ -1,5 +1,5 @@
 ---
-title: Propiedad HeightPercent, Excel [vbagr10.chm65591]
+title: HeightPercent Property, Excel [vbagr10.chm65591]
 keywords: vbagr10.chm65591
 f1_keywords:
 - vbagr10.chm65591
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HeightPercent Property, Excel [vbagr10.chm65591]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HeightPercent, Excel [vbagr10.chm65591]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HeightPercent (propiedad)](http://msdn.microsoft.com/library/heightpercent-property%28Office.15%29.aspx)
-
+[HeightPercent Property](http://msdn.microsoft.com/library/711c65bd-5603-2678-e07b-fa20d55ada4b%28Office.15%29.aspx)
 

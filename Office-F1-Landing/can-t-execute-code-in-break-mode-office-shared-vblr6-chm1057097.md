@@ -1,5 +1,5 @@
 ---
-title: No se puede ejecutar código en modo Break, Office Shared [vblr6.chm1057097]
+title: Can't execute code in break mode, Office Shared [vblr6.chm1057097]
 keywords: vblr6.chm1057097
 f1_keywords:
 - vblr6.chm1057097
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't execute code in break mode, Office Shared [vblr6.chm1057097]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede ejecutar código en modo Break, Office Shared [vblr6.chm1057097]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede ejecutar el código en el modo de interrupción](http://msdn.microsoft.com/library/can-t-execute-code-in-break-mode%28Office.15%29.aspx)
-
+[Can't execute code in break mode](http://msdn.microsoft.com/library/315e15ea-b33b-4f62-4112-f84b5e845393%28Office.15%29.aspx)
 

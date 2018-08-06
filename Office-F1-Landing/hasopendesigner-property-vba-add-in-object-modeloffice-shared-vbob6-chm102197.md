@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasOpenDesigner (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102197]
+title: HasOpenDesigner Property (VBA Add-In Object Model), Office Shared [vbob6.chm102197]
 keywords: vbob6.chm102197
 f1_keywords:
 - vbob6.chm102197
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasOpenDesigner Property (VBA Add-In Object Model), Office Shared [vbob6.chm102197]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasOpenDesigner (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102197]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad HasOpenDesigner (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/hasopendesigner-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[HasOpenDesigner Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/1e744011-ee74-087b-80ec-fbf0b569b453%28Office.15%29.aspx)
 

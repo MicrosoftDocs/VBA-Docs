@@ -1,5 +1,5 @@
 ---
-title: Propiedad Title, PowerPoint [vbapp10.chm684055]
+title: Title Property, PowerPoint [vbapp10.chm684055]
 keywords: vbapp10.chm684055
 f1_keywords:
 - vbapp10.chm684055
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Title Property, PowerPoint [vbapp10.chm684055]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Title, PowerPoint [vbapp10.chm684055]
+[Chart.Title Property (PowerPoint)](http://msdn.microsoft.com/library/a3d28fbd-16e9-de5d-53e2-19ef574154ad%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.ShowAllFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/50aa8c68-a91b-301f-a553-46353feb4d16%28Office.15%29.aspx)
 
-
- [Propiedad Chart.Title (PowerPoint)](http://msdn.microsoft.com/library/chart.title-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Chart.ShowAllFieldButtons (PowerPoint)](http://msdn.microsoft.com/library/chart.showallfieldbuttons-property-powerpoint%28Office.15%29.aspx)
 

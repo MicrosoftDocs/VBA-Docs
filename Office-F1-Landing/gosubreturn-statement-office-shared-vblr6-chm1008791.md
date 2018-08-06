@@ -1,5 +1,5 @@
 ---
-title: Instrucción GoSub...Return, Office Shared [vblr6.chm1008791]
+title: GoSub...Return Statement, Office Shared [vblr6.chm1008791]
 keywords: vblr6.chm1008791
 f1_keywords:
 - vblr6.chm1008791
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# GoSub...Return Statement, Office Shared [vblr6.chm1008791]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción GoSub...Return, Office Shared [vblr6.chm1008791]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción GoSub...Return](http://msdn.microsoft.com/library/gosub...return-statement%28Office.15%29.aspx)
-
+[GoSub...Return Statement](http://msdn.microsoft.com/library/5aafb93f-0baf-f319-d8dd-96a14095d62d%28Office.15%29.aspx)
 

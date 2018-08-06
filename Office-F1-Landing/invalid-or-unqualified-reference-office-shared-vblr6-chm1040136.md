@@ -1,5 +1,5 @@
 ---
-title: Referencia no válida o no calificada, Office Shared [vblr6.chm1040136]
+title: Invalid or unqualified reference, Office Shared [vblr6.chm1040136]
 keywords: vblr6.chm1040136
 f1_keywords:
 - vblr6.chm1040136
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid or unqualified reference, Office Shared [vblr6.chm1040136]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Referencia no válida o no calificada, Office Shared [vblr6.chm1040136]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Referencia no válida o no completa](http://msdn.microsoft.com/library/invalid-or-unqualified-reference%28Office.15%29.aspx)
-
+[Invalid or unqualified reference](http://msdn.microsoft.com/library/1736db2c-b554-f11d-aa39-9978a0a09db6%28Office.15%29.aspx)
 

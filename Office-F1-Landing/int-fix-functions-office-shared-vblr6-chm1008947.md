@@ -1,5 +1,5 @@
 ---
-title: Funciones Int, Fix, Office Shared [vblr6.chm1008947]
+title: Int, Fix Functions, Office Shared [vblr6.chm1008947]
 keywords: vblr6.chm1008947
 f1_keywords:
 - vblr6.chm1008947
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Int, Fix Functions, Office Shared [vblr6.chm1008947]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Funciones Int, Fix, Office Shared [vblr6.chm1008947]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Funciones Int, Fix](http://msdn.microsoft.com/library/int-fix-functions%28Office.15%29.aspx)
-
+[Int, Fix Functions](http://msdn.microsoft.com/library/32ce40ac-fdf8-bd6d-e7f9-154c480a9602%28Office.15%29.aspx)
 

@@ -1,25 +1,22 @@
 ---
-title: RemainingCost (propiedad), proyecto [vbapj.chm132542]
+title: RemainingCost Property, Project [vbapj.chm132542]
 keywords: vbapj.chm132542
 f1_keywords:
 - vbapj.chm132542
 ms.prod: office
 ms.assetid: f9a068bd-53b4-43fd-a822-b97f770d3bd5
 ms.date: 06/08/2017
-ms.openlocfilehash: 4295e4bbd013979f61fdbe24b028a019a82cba91
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="remainingcost-property-project-vbapjchm132542"></a>RemainingCost (propiedad), proyecto [vbapj.chm132542]
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
 
-[Propiedad Task.RemainingCost (proyecto)](http://msdn.microsoft.com/library/322e8734-907a-40cd-5e4e-1c18eb4ea935%28Office.15%29.aspx)
+# RemainingCost Property, Project [vbapj.chm132542]
 
-[Propiedad Assignment.RemainingCost (proyecto)](http://msdn.microsoft.com/library/ae7310f7-ac16-fe2f-2efd-4020c114ddab%28Office.15%29.aspx)
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Propiedad Task.Rollup (proyecto)](http://msdn.microsoft.com/library/8f29afc1-85ec-d835-bc08-7311e9063ae4%28Office.15%29.aspx)
-[Resource.RemainingCost propiedad (proyecto)](http://msdn.microsoft.com/library/60e68cce-9335-6800-6075-9d3e6945a6b0%28Office.15%29.aspx)
+[Task.RemainingCost Property (Project)](http://msdn.microsoft.com/library/322e8734-907a-40cd-5e4e-1c18eb4ea935%28Office.15%29.aspx)
+
+[Assignment.RemainingCost Property (Project)](http://msdn.microsoft.com/library/ae7310f7-ac16-fe2f-2efd-4020c114ddab%28Office.15%29.aspx)
+
+[Task.Rollup Property (Project)](http://msdn.microsoft.com/library/8f29afc1-85ec-d835-bc08-7311e9063ae4%28Office.15%29.aspx)
+[Resource.RemainingCost Property (Project)](http://msdn.microsoft.com/library/60e68cce-9335-6800-6075-9d3e6945a6b0%28Office.15%29.aspx)
 

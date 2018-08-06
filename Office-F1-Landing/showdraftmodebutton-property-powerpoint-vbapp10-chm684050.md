@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowDraftModeButton, PowerPoint [vbapp10.chm684050]
+title: ShowDraftModeButton Property, PowerPoint [vbapp10.chm684050]
 keywords: vbapp10.chm684050
 f1_keywords:
 - vbapp10.chm684050
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowDraftModeButton Property, PowerPoint [vbapp10.chm684050]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowDraftModeButton, PowerPoint [vbapp10.chm684050]
+[Chart.ShowDraftModeButton Property (PowerPoint)](http://msdn.microsoft.com/library/8588390e-ee67-40e0-0c31-195f1b9382e4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.ShowLegendFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/03860057-293c-7f1b-aecd-71428329c91c%28Office.15%29.aspx)
 
-
- [Propiedad Chart.ShowDraftModeButton (PowerPoint)](http://msdn.microsoft.com/library/8588390e-ee67-40e0-0c31-195f1b9382e4%28Office.15%29.aspx)
-
-
- [Propiedad Chart.ShowLegendFieldButtons (PowerPoint)](http://msdn.microsoft.com/library/chart.showlegendfieldbuttons-property-powerpoint%28Office.15%29.aspx)
 

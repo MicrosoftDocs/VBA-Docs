@@ -1,5 +1,5 @@
 ---
-title: Evento MouseDown, Visio [vis_sdr.chm10051310]
+title: MouseDown Event, Visio [vis_sdr.chm10051310]
 keywords: vis_sdr.chm10051310
 f1_keywords:
 - vis_sdr.chm10051310
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseDown Event, Visio [vis_sdr.chm10051310]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MouseDown, Visio [vis_sdr.chm10051310]
+[Application.MouseDown Event (Visio)](http://msdn.microsoft.com/library/f65b3ee7-9b34-d09f-220f-3c7d39a40565%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.MouseDown Event (Visio)](http://msdn.microsoft.com/library/d02e19db-9f76-1669-8b5a-8b14f1950b83%28Office.15%29.aspx)
 
-
- [Evento Application.MouseDown (Visio)](http://msdn.microsoft.com/library/application.mousedown-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.MouseDown (Visio)](http://msdn.microsoft.com/library/invisibleapp.mousedown-event-visio%28Office.15%29.aspx)
 

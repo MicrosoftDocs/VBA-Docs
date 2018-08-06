@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoActivate, Access [vbaac10.chm4273]
+title: AutoActivate Property, Access [vbaac10.chm4273]
 keywords: vbaac10.chm4273
 f1_keywords:
 - vbaac10.chm4273
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoActivate Property, Access [vbaac10.chm4273]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoActivate, Access [vbaac10.chm4273]
+[ObjectFrame.AutoActivate Property (Access)](http://msdn.microsoft.com/library/e6e0dfce-1bfe-707b-d7f0-45a216d4aa55%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.AutoActivate Property (Access)](http://msdn.microsoft.com/library/162dcc86-818c-dc84-48cd-97fbfb85b77c%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.AutoActivate (Access)](http://msdn.microsoft.com/library/objectframe.autoactivate-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.AutoActivate (Access)](http://msdn.microsoft.com/library/boundobjectframe.autoactivate-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Value (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1100299]
+title: Value Property (VBA Add-In Object Model), Office Shared [vbob6.chm1100299]
 keywords: vbob6.chm1100299
 f1_keywords:
 - vbob6.chm1100299
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Value Property (VBA Add-In Object Model), Office Shared [vbob6.chm1100299]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Value (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1100299]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Value (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/value-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Value Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/9c756162-7082-7ed3-8094-6c9f24940a65%28Office.15%29.aspx)
 

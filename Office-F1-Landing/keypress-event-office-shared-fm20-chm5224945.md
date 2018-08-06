@@ -1,5 +1,5 @@
 ---
-title: Evento KeyPress, Office Shared [fm20.chm5224945]
+title: KeyPress Event, Office Shared [fm20.chm5224945]
 keywords: fm20.chm5224945
 f1_keywords:
 - fm20.chm5224945
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# KeyPress Event, Office Shared [fm20.chm5224945]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento KeyPress, Office Shared [fm20.chm5224945]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento KeyPress](http://msdn.microsoft.com/library/keypress-event%28Office.15%29.aspx)
-
+[KeyPress Event](http://msdn.microsoft.com/library/b77da9a6-a87c-a44c-ab44-02495af3fa5e%28Office.15%29.aspx)
 

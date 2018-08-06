@@ -1,5 +1,5 @@
 ---
-title: Propiedad ReadingOrder, Access [vbaac10.chm11130]
+title: ReadingOrder Property, Access [vbaac10.chm11130]
 keywords: vbaac10.chm11130
 f1_keywords:
 - vbaac10.chm11130
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ReadingOrder Property, Access [vbaac10.chm11130]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ReadingOrder, Access [vbaac10.chm11130]
+[NavigationControl.ReadingOrder Property (Access)](http://msdn.microsoft.com/library/ecd7522a-3a16-2a18-a3c1-0798dba1baec%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.ReadingOrder Property (Access)](http://msdn.microsoft.com/library/1b53bb00-9252-ca99-c3b7-3a97d06552c4%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.ReadingOrder (Access)](http://msdn.microsoft.com/library/navigationcontrol.readingorder-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.ReadingOrder (Access)](http://msdn.microsoft.com/library/textbox.readingorder-property-access%28Office.15%29.aspx)
 

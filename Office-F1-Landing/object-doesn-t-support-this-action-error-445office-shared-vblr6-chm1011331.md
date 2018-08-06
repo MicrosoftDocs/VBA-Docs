@@ -1,5 +1,5 @@
 ---
-title: El objeto no admite esta acción (error 445), Office Shared [vblr6.chm1011331]
+title: Object doesn't support this action (Error 445), Office Shared [vblr6.chm1011331]
 keywords: vblr6.chm1011331
 f1_keywords:
 - vblr6.chm1011331
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object doesn't support this action (Error 445), Office Shared [vblr6.chm1011331]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El objeto no admite esta acción (error 445), Office Shared [vblr6.chm1011331]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto no admite esta acción (error 445)](http://msdn.microsoft.com/library/object-doesn-t-support-this-action-error-445%28Office.15%29.aspx)
-
+[Object doesn't support this action (Error 445)](http://msdn.microsoft.com/library/ea8ce336-5407-e70d-7e24-05b9d39a42d9%28Office.15%29.aspx)
 

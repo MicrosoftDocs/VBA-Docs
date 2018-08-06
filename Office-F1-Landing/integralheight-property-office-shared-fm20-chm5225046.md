@@ -1,5 +1,5 @@
 ---
-title: Propiedad IntegralHeight, Office Shared [fm20.chm5225046]
+title: IntegralHeight Property, Office Shared [fm20.chm5225046]
 keywords: fm20.chm5225046
 f1_keywords:
 - fm20.chm5225046
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# IntegralHeight Property, Office Shared [fm20.chm5225046]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IntegralHeight, Office Shared [fm20.chm5225046]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad IntegralHeight](http://msdn.microsoft.com/library/integralheight-property%28Office.15%29.aspx)
-
+[IntegralHeight Property](http://msdn.microsoft.com/library/1aeec970-ef48-a9e8-f130-1ac51c61d026%28Office.15%29.aspx)
 

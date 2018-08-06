@@ -1,5 +1,5 @@
 ---
-title: Propiedad AccessConnection, Access [vbaac10.chm12726]
+title: AccessConnection Property, Access [vbaac10.chm12726]
 keywords: vbaac10.chm12726
 f1_keywords:
 - vbaac10.chm12726
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AccessConnection Property, Access [vbaac10.chm12726]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AccessConnection, Access [vbaac10.chm12726]
+[CurrentProject.AccessConnection Property (Access)](http://msdn.microsoft.com/library/c2bf2846-c5ab-34a2-4b24-33c9cc9820c4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeProject.AccessConnection Property (Access)](http://msdn.microsoft.com/library/04b389d0-b87f-9eb9-f067-6b5e0d68e3f8%28Office.15%29.aspx)
 
-
- [Propiedad CurrentProject.AccessConnection (Access)](http://msdn.microsoft.com/library/currentproject.accessconnection-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeProject.AccessConnection (Access)](http://msdn.microsoft.com/library/codeproject.accessconnection-property-access%28Office.15%29.aspx)
 

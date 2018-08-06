@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnPush, Access [vbaac10.chm10459]
+title: OnPush Property, Access [vbaac10.chm10459]
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnPush Property, Access [vbaac10.chm10459]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnPush, Access [vbaac10.chm10459]
+[CommandButton.OnPush Property (Access)](http://msdn.microsoft.com/library/38fab0d1-495e-9053-5e24-932ae0d8bdce%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.OnPush Property (Access)](http://msdn.microsoft.com/library/09b91008-ab58-d7d6-40af-aeb2e41d8823%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.OnPush (Access)](http://msdn.microsoft.com/library/commandbutton.onpush-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.OnPush (Access)](http://msdn.microsoft.com/library/navigationbutton.onpush-property-access%28Office.15%29.aspx)
 

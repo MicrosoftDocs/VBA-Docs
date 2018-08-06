@@ -1,5 +1,5 @@
 ---
-title: Función InStr, Office Shared [vblr6.chm1011069]
+title: InStr Function, Office Shared [vblr6.chm1011069]
 keywords: vblr6.chm1011069
 f1_keywords:
 - vblr6.chm1011069
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# InStr Function, Office Shared [vblr6.chm1011069]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función InStr, Office Shared [vblr6.chm1011069]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función InStr](http://msdn.microsoft.com/library/instr-function%28Office.15%29.aspx)
-
+[InStr Function](http://msdn.microsoft.com/library/d83b314a-e77c-fc18-0744-266f982a82b7%28Office.15%29.aspx)
 

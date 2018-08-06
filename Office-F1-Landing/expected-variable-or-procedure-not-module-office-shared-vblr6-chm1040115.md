@@ -1,5 +1,5 @@
 ---
-title: Se esperaba una variable o un procedimiento en lugar de un módulo, Office Shared [vblr6.chm1040115]
+title: Expected variable or procedure, not module, Office Shared [vblr6.chm1040115]
 keywords: vblr6.chm1040115
 f1_keywords:
 - vblr6.chm1040115
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected variable or procedure, not module, Office Shared [vblr6.chm1040115]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se esperaba una variable o un procedimiento en lugar de un módulo, Office Shared [vblr6.chm1040115]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Variable o procedimiento previsto, no es un módulo](http://msdn.microsoft.com/library/expected-variable-or-procedure-not-module%28Office.15%29.aspx)
-
+[Expected variable or procedure, not module](http://msdn.microsoft.com/library/53bca70b-31a5-fad2-a2ca-5e76c2140560%28Office.15%29.aspx)
 

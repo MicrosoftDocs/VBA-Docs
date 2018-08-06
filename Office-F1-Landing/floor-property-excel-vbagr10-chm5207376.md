@@ -1,5 +1,5 @@
 ---
-title: Propiedad Floor, Excel [vbagr10.chm5207376]
+title: Floor Property, Excel [vbagr10.chm5207376]
 keywords: vbagr10.chm5207376
 f1_keywords:
 - vbagr10.chm5207376
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Floor Property, Excel [vbagr10.chm5207376]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Floor, Excel [vbagr10.chm5207376]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Floor (propiedad)](http://msdn.microsoft.com/library/floor-property%28Office.15%29.aspx)
-
+[Floor Property](http://msdn.microsoft.com/library/1c82553e-7285-c759-416d-4537efd1c9ec%28Office.15%29.aspx)
 

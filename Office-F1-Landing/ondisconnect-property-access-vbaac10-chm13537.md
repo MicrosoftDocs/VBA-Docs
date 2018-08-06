@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnDisconnect, Access [vbaac10.chm13537]
+title: OnDisconnect Property, Access [vbaac10.chm13537]
 keywords: vbaac10.chm13537
 f1_keywords:
 - vbaac10.chm13537
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnDisconnect Property, Access [vbaac10.chm13537]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnDisconnect, Access [vbaac10.chm13537]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.OnDisconnect (Access)](http://msdn.microsoft.com/library/form.ondisconnect-property-access%28Office.15%29.aspx)
-
+[Form.OnDisconnect Property (Access)](http://msdn.microsoft.com/library/8f6514c7-8f61-2ae7-0859-8299523609ca%28Office.15%29.aspx)
 

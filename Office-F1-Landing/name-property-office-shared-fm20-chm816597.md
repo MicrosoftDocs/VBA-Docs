@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name, Office Shared [fm20.chm816597]
+title: Name Property, Office Shared [fm20.chm816597]
 keywords: fm20.chm816597
 f1_keywords:
 - fm20.chm816597
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property, Office Shared [fm20.chm816597]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name, Office Shared [fm20.chm816597]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Name (Microsoft Forms)](http://msdn.microsoft.com/library/name-property-microsoft-forms%28Office.15%29.aspx)
-
+[Name Propertye (Microsoft Forms)](http://msdn.microsoft.com/library/e89050ca-a1da-8a05-b47a-774b22dcfa6b%28Office.15%29.aspx)
 

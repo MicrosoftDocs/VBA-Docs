@@ -1,5 +1,5 @@
 ---
-title: Propiedad Index, Excel [vbagr10.chm5207546]
+title: Index Property, Excel [vbagr10.chm5207546]
 keywords: vbagr10.chm5207546
 f1_keywords:
 - vbagr10.chm5207546
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Index Property, Excel [vbagr10.chm5207546]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Index, Excel [vbagr10.chm5207546]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Index (propiedad)](http://msdn.microsoft.com/library/index-property%28Office.15%29.aspx)
-
+[Index Property](http://msdn.microsoft.com/library/39e1b38c-776c-fd78-0115-a14672d022f2%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: No se puede grabar en el módulo en uso, Office Shared [vblr6.chm1011321]
+title: Can't record into running module, Office Shared [vblr6.chm1011321]
 keywords: vblr6.chm1011321
 f1_keywords:
 - vblr6.chm1011321
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't record into running module, Office Shared [vblr6.chm1011321]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede grabar en el módulo en uso, Office Shared [vblr6.chm1011321]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede registrar en el módulo en ejecución](http://msdn.microsoft.com/library/can-t-record-into-running-module%28Office.15%29.aspx)
-
+[Can't record into running module](http://msdn.microsoft.com/library/deebf97c-e531-8635-6419-2e3dc4a20e66%28Office.15%29.aspx)
 

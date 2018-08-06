@@ -1,5 +1,5 @@
 ---
-title: Módulo demasiado largo, Office Shared [vblr6.chm1018967]
+title: Module too large, Office Shared [vblr6.chm1018967]
 keywords: vblr6.chm1018967
 f1_keywords:
 - vblr6.chm1018967
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Module too large, Office Shared [vblr6.chm1018967]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Módulo demasiado largo, Office Shared [vblr6.chm1018967]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Módulo demasiado largo](http://msdn.microsoft.com/library/module-too-large%28Office.15%29.aspx)
-
+[Module too large](http://msdn.microsoft.com/library/b00483e1-d3b2-f532-eaa3-fae61f45c013%28Office.15%29.aspx)
 

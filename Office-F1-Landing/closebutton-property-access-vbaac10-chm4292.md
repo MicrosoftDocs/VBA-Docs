@@ -1,5 +1,5 @@
 ---
-title: Propiedad CloseButton, Access [vbaac10.chm4292]
+title: CloseButton Property, Access [vbaac10.chm4292]
 keywords: vbaac10.chm4292
 f1_keywords:
 - vbaac10.chm4292
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CloseButton Property, Access [vbaac10.chm4292]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CloseButton, Access [vbaac10.chm4292]
+[Form.CloseButton Property (Access)](http://msdn.microsoft.com/library/c87e3752-0a77-3e5e-9c82-20effaf0af1e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.CloseButton Property (Access)](http://msdn.microsoft.com/library/dad15f66-4787-a4eb-dbbe-d698faaa0917%28Office.15%29.aspx)
 
-
- [Propiedad Form.CloseButton (Access)](http://msdn.microsoft.com/library/form.closebutton-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.CloseButton (Access)](http://msdn.microsoft.com/library/report.closebutton-property-access%28Office.15%29.aspx)
 

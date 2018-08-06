@@ -1,5 +1,5 @@
 ---
-title: Objeto Events (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100144]
+title: Events Object (VBA Add-In Object Model), Office Shared [vbob6.chm100144]
 keywords: vbob6.chm100144
 f1_keywords:
 - vbob6.chm100144
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Events Object (VBA Add-In Object Model), Office Shared [vbob6.chm100144]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Events (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100144]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto Events (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/events-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Events Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/7e16c9ca-6167-f6da-fb9a-018b9ac08b17%28Office.15%29.aspx)
 

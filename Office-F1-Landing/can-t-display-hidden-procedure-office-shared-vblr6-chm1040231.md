@@ -1,5 +1,5 @@
 ---
-title: No se puede mostrar el procedimiento oculto, Office Shared [vblr6.chm1040231]
+title: Can't display hidden procedure, Office Shared [vblr6.chm1040231]
 keywords: vblr6.chm1040231
 f1_keywords:
 - vblr6.chm1040231
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't display hidden procedure, Office Shared [vblr6.chm1040231]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede mostrar el procedimiento oculto, Office Shared [vblr6.chm1040231]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede mostrar el procedimiento oculto](http://msdn.microsoft.com/library/can-t-display-hidden-procedure%28Office.15%29.aspx)
-
+[Can't display hidden procedure](http://msdn.microsoft.com/library/be6f41ba-62f8-329f-024e-c578ff38f2dd%28Office.15%29.aspx)
 

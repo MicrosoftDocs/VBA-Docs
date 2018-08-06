@@ -1,5 +1,5 @@
 ---
-title: Objeto Series, Excel [vbagr10.chm5207965]
+title: Series Object, Excel [vbagr10.chm5207965]
 keywords: vbagr10.chm5207965
 f1_keywords:
 - vbagr10.chm5207965
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Series Object, Excel [vbagr10.chm5207965]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Series, Excel [vbagr10.chm5207965]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Series (objeto)](http://msdn.microsoft.com/library/series-object%28Office.15%29.aspx)
-
+[Series Object](http://msdn.microsoft.com/library/c4446d04-9a3a-4f95-7b3f-adaf1ad2252c%28Office.15%29.aspx)
 

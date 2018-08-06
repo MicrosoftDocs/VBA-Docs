@@ -1,5 +1,5 @@
 ---
-title: Propiedad RTFInClipboard, Word [vbawd10.chm162988061]
+title: RTFInClipboard Property, Word [vbawd10.chm162988061]
 keywords: vbawd10.chm162988061
 f1_keywords:
 - vbawd10.chm162988061
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RTFInClipboard Property, Word [vbawd10.chm162988061]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RTFInClipboard, Word [vbawd10.chm162988061]
+[Options.RTFInClipboard Property (Word)](http://msdn.microsoft.com/library/b9cfb4a2-cbdf-c7c9-885e-5f9b7f370d9a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Options.Options.RTFInClipboard Property (Word)](http://msdn.microsoft.com/library/86166b42-3007-aa4e-d967-e8496e86a947%28Office.15%29.aspx)
 
-
- [Options.RTFInClipboard Property (Word)](http://msdn.microsoft.com/library/options.rtfinclipboard-property-word%28Office.15%29.aspx)
-
-
- [Propiedad Options.Options.RTFInClipboard (Word)](http://msdn.microsoft.com/library/86166b42-3007-aa4e-d967-e8496e86a947%28Office.15%29.aspx)
 

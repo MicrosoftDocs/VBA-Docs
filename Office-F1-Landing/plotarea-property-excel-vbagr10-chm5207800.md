@@ -1,5 +1,5 @@
 ---
-title: Propiedad PlotArea, Excel [vbagr10.chm5207800]
+title: PlotArea Property, Excel [vbagr10.chm5207800]
 keywords: vbagr10.chm5207800
 f1_keywords:
 - vbagr10.chm5207800
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PlotArea Property, Excel [vbagr10.chm5207800]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PlotArea, Excel [vbagr10.chm5207800]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [PlotArea (propiedad)](http://msdn.microsoft.com/library/plotarea-property%28Office.15%29.aspx)
-
+[PlotArea Property](http://msdn.microsoft.com/library/047e8445-1197-2c9e-538d-5f77f6125c4c%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Demasiados archivos (error 67), Office Shared [vblr6.chm50026]
+title: Too many files (Error 67), Office Shared [vblr6.chm50026]
 keywords: vblr6.chm50026
 f1_keywords:
 - vblr6.chm50026
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Too many files (Error 67), Office Shared [vblr6.chm50026]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Demasiados archivos (error 67), Office Shared [vblr6.chm50026]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Demasiados archivos (error 67)](http://msdn.microsoft.com/library/too-many-files-error-67%28Office.15%29.aspx)
-
+[Too many files (Error 67)](http://msdn.microsoft.com/library/d1ef7ab6-a99d-02ab-61ac-1743b95897f2%28Office.15%29.aspx)
 

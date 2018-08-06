@@ -1,5 +1,5 @@
 ---
-title: Propiedad Shape, Access [vbaac10.chm13815]
+title: Shape Property, Access [vbaac10.chm13815]
 keywords: vbaac10.chm13815
 f1_keywords:
 - vbaac10.chm13815
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Shape Property, Access [vbaac10.chm13815]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Shape, Access [vbaac10.chm13815]
+[Report.Shape Property (Access)](http://msdn.microsoft.com/library/1fd2eb3c-5473-b239-d0c6-4e0ded950df6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Shape Property (Access) Reference](http://msdn.microsoft.com/library/a22ca4ec-584d-46c8-2a11-aeb1503ec07f%28Office.15%29.aspx)
 
-
- [Propiedad Report.Shape (Access)](http://msdn.microsoft.com/library/report.shape-property-access%28Office.15%29.aspx)
-
-
- [Referencia de la propiedad CommandButton.Shape (Access)](http://msdn.microsoft.com/library/a22ca4ec-584d-46c8-2a11-aeb1503ec07f%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Control Tab, Access [vbaac10.chm5186718]
+title: Tab Control, Access [vbaac10.chm5186718]
 keywords: vbaac10.chm5186718
 f1_keywords:
 - vbaac10.chm5186718
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Tab Control, Access [vbaac10.chm5186718]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Tab, Access [vbaac10.chm5186718]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control ficha](http://msdn.microsoft.com/library/tab-control%28Office.15%29.aspx)
-
+[Tab Control](http://msdn.microsoft.com/library/07b7f765-1c74-073e-4c0d-b1b300b898c9%28Office.15%29.aspx)
 

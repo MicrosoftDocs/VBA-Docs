@@ -1,5 +1,5 @@
 ---
-title: Método Reset, Office Shared [vbaof11.chm5021]
+title: Reset Method, Office Shared [vbaof11.chm5021]
 keywords: vbaof11.chm5021
 f1_keywords:
 - vbaof11.chm5021
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Reset Method, Office Shared [vbaof11.chm5021]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Reset, Office Shared [vbaof11.chm5021]
+[CommandBarComboBox.Reset Method (Office)](http://msdn.microsoft.com/library/28609b13-8036-a956-095a-1a6a748f00ad%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarButton.Reset Method (Office)](http://msdn.microsoft.com/library/0e39c960-3928-f91a-cf7e-1df5a2fd217b%28Office.15%29.aspx)
 
-
- [Método CommandBarComboBox.Reset (Office)](http://msdn.microsoft.com/library/commandbarcombobox.reset-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarButton.Reset (Office)](http://msdn.microsoft.com/library/commandbarbutton.reset-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarControl.Reset (Office)](http://msdn.microsoft.com/library/commandbarcontrol.reset-method-office%28Office.15%29.aspx)
-
- [Método CommandBarPopup.Reset (Office)](http://msdn.microsoft.com/library/commandbarpopup.reset-method-office%28Office.15%29.aspx)
-
+[CommandBarControl.Reset Method (Office)](http://msdn.microsoft.com/library/7b2d42c4-ac1c-209e-6fe8-bd5ec91d1c57%28Office.15%29.aspx)
+[CommandBarPopup.Reset Method (Office)](http://msdn.microsoft.com/library/8e31b4e2-66d1-b902-f837-dc4833b1607f%28Office.15%29.aspx)
 

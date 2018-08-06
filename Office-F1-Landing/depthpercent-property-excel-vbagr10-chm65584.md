@@ -1,5 +1,5 @@
 ---
-title: Propiedad DepthPercent, Excel [vbagr10.chm65584]
+title: DepthPercent Property, Excel [vbagr10.chm65584]
 keywords: vbagr10.chm65584
 f1_keywords:
 - vbagr10.chm65584
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DepthPercent Property, Excel [vbagr10.chm65584]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DepthPercent, Excel [vbagr10.chm65584]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DepthPercent (propiedad)](http://msdn.microsoft.com/library/depthpercent-property%28Office.15%29.aspx)
-
+[DepthPercent Property](http://msdn.microsoft.com/library/b8c8f784-bc30-cc20-604d-5627b570c1f2%28Office.15%29.aspx)
 

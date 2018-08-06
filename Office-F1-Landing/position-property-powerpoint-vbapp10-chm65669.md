@@ -1,5 +1,5 @@
 ---
-title: Propiedad Position, PowerPoint [vbapp10.chm65669]
+title: Position Property, PowerPoint [vbapp10.chm65669]
 keywords: vbapp10.chm65669
 f1_keywords:
 - vbapp10.chm65669
@@ -9,15 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Position Property, PowerPoint [vbapp10.chm65669]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Position, PowerPoint [vbapp10.chm65669]
+[Legend.Position Property (PowerPoint)](http://msdn.microsoft.com/library/82d71eda-aa17-b463-9934-6f79fe370f67%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabel.Position Property (PowerPoint)](http://msdn.microsoft.com/library/40ca758b-e19a-9af7-0ed9-aaf07bfb8a4c%28Office.15%29.aspx)
 
-
- [Propiedad Legend.Position (PowerPoint)](http://msdn.microsoft.com/library/legend.position-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabel.Position (PowerPoint)](http://msdn.microsoft.com/library/datalabel.position-property-powerpoint%28Office.15%29.aspx)
+[DataLabels.Position Property (PowerPoint)](http://msdn.microsoft.com/library/3edff433-2d69-84b4-671b-060824c88531%28Office.15%29.aspx)
 

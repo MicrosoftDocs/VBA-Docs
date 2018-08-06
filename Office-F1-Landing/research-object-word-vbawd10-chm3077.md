@@ -1,5 +1,5 @@
 ---
-title: Objeto Research, Word [vbawd10.chm3077]
+title: Research Object, Word [vbawd10.chm3077]
 keywords: vbawd10.chm3077
 f1_keywords:
 - vbawd10.chm3077
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Research Object, Word [vbawd10.chm3077]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Research, Word [vbawd10.chm3077]
+[Research Object (Word)](http://msdn.microsoft.com/library/454e1fd6-0e52-84df-7d15-04fda00b177b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TaskPanes Object (Word)](http://msdn.microsoft.com/library/a560a41b-a1d7-175a-b475-af742c9fa1f8%28Office.15%29.aspx)
 
-
- [Objeto de investigación (Word)](http://msdn.microsoft.com/library/research-object-word%28Office.15%29.aspx)
-
-
- [TaskPanes (colección)](http://msdn.microsoft.com/library/taskpanes-object-word%28Office.15%29.aspx)
 

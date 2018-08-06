@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, Access [vbaac10.chm11074]
+title: Height Property, Access [vbaac10.chm11074]
 keywords: vbaac10.chm11074
 f1_keywords:
 - vbaac10.chm11074
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, Access [vbaac10.chm11074]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, Access [vbaac10.chm11074]
+[TextBox.Height Property (Access)](http://msdn.microsoft.com/library/3f3d88d9-3561-a25b-5f22-a21b9cad6673%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Height Property (Access)](http://msdn.microsoft.com/library/bf46c094-6eef-452b-dca9-ff6d4a3e5006%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Height (Access)](http://msdn.microsoft.com/library/textbox.height-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Height (Access)](http://msdn.microsoft.com/library/navigationcontrol.height-property-access%28Office.15%29.aspx)
 

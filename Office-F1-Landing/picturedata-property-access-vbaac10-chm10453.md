@@ -1,5 +1,5 @@
 ---
-title: Propiedad PictureData, Access [vbaac10.chm10453]
+title: PictureData Property, Access [vbaac10.chm10453]
 keywords: vbaac10.chm10453
 f1_keywords:
 - vbaac10.chm10453
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PictureData Property, Access [vbaac10.chm10453]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PictureData, Access [vbaac10.chm10453]
+[CommandButton.PictureData Property (Access)](http://msdn.microsoft.com/library/7208ecc7-c057-4ad0-c55e-15a7a710f0a4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.PictureData Property (Access)](http://msdn.microsoft.com/library/3154933c-0945-81b8-272b-3e37fa819b05%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.PictureData (Access)](http://msdn.microsoft.com/library/commandbutton.picturedata-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.PictureData (Access)](http://msdn.microsoft.com/library/navigationbutton.picturedata-property-access%28Office.15%29.aspx)
 

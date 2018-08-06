@@ -1,5 +1,5 @@
 ---
-title: Propiedad Selected, Office Shared [fm20.chm5225087]
+title: Selected Property, Office Shared [fm20.chm5225087]
 keywords: fm20.chm5225087
 f1_keywords:
 - fm20.chm5225087
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Selected Property, Office Shared [fm20.chm5225087]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Selected, Office Shared [fm20.chm5225087]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Selected](http://msdn.microsoft.com/library/selected-property%28Office.15%29.aspx)
-
+[Selected Property](http://msdn.microsoft.com/library/5a286e96-d250-089a-1682-da00112157aa%28Office.15%29.aspx)
 

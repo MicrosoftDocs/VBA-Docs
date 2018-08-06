@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayWhen, Access [vbaac10.chm11057]
+title: DisplayWhen Property, Access [vbaac10.chm11057]
 keywords: vbaac10.chm11057
 f1_keywords:
 - vbaac10.chm11057
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayWhen Property, Access [vbaac10.chm11057]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayWhen, Access [vbaac10.chm11057]
+[NavigationControl.DisplayWhen Property (Access)](http://msdn.microsoft.com/library/e1e91c9b-aba6-4bf1-6b54-6c64badfa7af%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.DisplayWhen Property (Access)](http://msdn.microsoft.com/library/6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.DisplayWhen (Access)](http://msdn.microsoft.com/library/navigationcontrol.displaywhen-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.DisplayWhen (Access)](http://msdn.microsoft.com/library/textbox.displaywhen-property-access%28Office.15%29.aspx)
 

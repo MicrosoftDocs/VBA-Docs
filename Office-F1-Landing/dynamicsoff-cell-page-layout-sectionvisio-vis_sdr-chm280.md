@@ -1,5 +1,5 @@
 ---
-title: Celda DynamicsOff (sección Page Layout), Visio [vis_sdr.chm280]
+title: DynamicsOff Cell (Page Layout Section), Visio [vis_sdr.chm280]
 keywords: vis_sdr.chm280
 f1_keywords:
 - vis_sdr.chm280
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DynamicsOff Cell (Page Layout Section), Visio [vis_sdr.chm280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda DynamicsOff (sección Page Layout), Visio [vis_sdr.chm280]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda DynamicsOff (Sección de diseño de página)](http://msdn.microsoft.com/library/dynamicsoff-cell-page-layout-section%28Office.15%29.aspx)
-
+[DynamicsOff Cell (Page Layout Section)](http://msdn.microsoft.com/library/055764aa-9681-ffb0-83ce-fdd612fe37af%28Office.15%29.aspx)
 

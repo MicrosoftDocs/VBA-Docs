@@ -1,5 +1,5 @@
 ---
-title: No válido en ventana Ejecución, Office Shared [vblr6.chm1040059]
+title: Invalid in Immediate window, Office Shared [vblr6.chm1040059]
 keywords: vblr6.chm1040059
 f1_keywords:
 - vblr6.chm1040059
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid in Immediate window, Office Shared [vblr6.chm1040059]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No válido en ventana Ejecución, Office Shared [vblr6.chm1040059]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No válido en la ventana Inmediato](http://msdn.microsoft.com/library/invalid-in-immediate-window%28Office.15%29.aspx)
-
+[Invalid in Immediate window](http://msdn.microsoft.com/library/e3a0a0e3-cd3e-a33f-d8ac-3fe799eb906c%28Office.15%29.aspx)
 

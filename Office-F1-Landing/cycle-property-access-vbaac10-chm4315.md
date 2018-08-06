@@ -1,5 +1,5 @@
 ---
-title: Propiedad Cycle, Access [vbaac10.chm4315]
+title: Cycle Property, Access [vbaac10.chm4315]
 keywords: vbaac10.chm4315
 f1_keywords:
 - vbaac10.chm4315
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Cycle Property, Access [vbaac10.chm4315]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Cycle, Access [vbaac10.chm4315]
+[Form.Cycle Property (Access)](http://msdn.microsoft.com/library/621d7101-5237-b239-fcb3-2d942a0329b0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.Cycle Property (Access)](http://msdn.microsoft.com/library/031194ca-f058-3a73-3551-f67d4e9bc27a%28Office.15%29.aspx)
 
-
- [Propiedad Form.Cycle (Access)](http://msdn.microsoft.com/library/form.cycle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.Cycle (Access)](http://msdn.microsoft.com/library/report.cycle-property-access%28Office.15%29.aspx)
 

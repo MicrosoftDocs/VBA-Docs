@@ -1,5 +1,5 @@
 ---
-title: Objeto DataTable, Excel [vbagr10.chm131075]
+title: DataTable Object, Excel [vbagr10.chm131075]
 keywords: vbagr10.chm131075
 f1_keywords:
 - vbagr10.chm131075
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DataTable Object, Excel [vbagr10.chm131075]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto DataTable, Excel [vbagr10.chm131075]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DataTable (objeto)](http://msdn.microsoft.com/library/datatable-object%28Office.15%29.aspx)
-
+[DataTable Object](http://msdn.microsoft.com/library/cf9aa637-3b5d-1e18-1956-291a0295dddf%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Expresión constante necesaria, Office Shared [vblr6.chm1011264]
+title: Constant expression required, Office Shared [vblr6.chm1011264]
 keywords: vblr6.chm1011264
 f1_keywords:
 - vblr6.chm1011264
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Constant expression required, Office Shared [vblr6.chm1011264]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Expresión constante necesaria, Office Shared [vblr6.chm1011264]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Expresión de constante requerida](http://msdn.microsoft.com/library/constant-expression-required%28Office.15%29.aspx)
-
+[Constant expression required](http://msdn.microsoft.com/library/e0493fe4-8f50-c935-391f-0ffaca726b2b%28Office.15%29.aspx)
 

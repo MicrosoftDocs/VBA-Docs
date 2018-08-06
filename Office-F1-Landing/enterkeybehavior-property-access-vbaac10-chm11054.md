@@ -1,5 +1,5 @@
 ---
-title: Propiedad EnterKeyBehavior, Access [vbaac10.chm11054]
+title: EnterKeyBehavior Property, Access [vbaac10.chm11054]
 keywords: vbaac10.chm11054
 f1_keywords:
 - vbaac10.chm11054
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EnterKeyBehavior Property, Access [vbaac10.chm11054]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad EnterKeyBehavior, Access [vbaac10.chm11054]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TextBox.EnterKeyBehavior (Access)](http://msdn.microsoft.com/library/textbox.enterkeybehavior-property-access%28Office.15%29.aspx)
-
+[TextBox.EnterKeyBehavior Property (Access)](http://msdn.microsoft.com/library/b7830316-a1aa-ddc1-094f-5976c5298bc1%28Office.15%29.aspx)
 

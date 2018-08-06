@@ -1,5 +1,5 @@
 ---
-title: Función QUEUEMARKEREVENT, Visio [Vis_DSS.chm1027311]
+title: QUEUEMARKEREVENT Function, Visio [Vis_DSS.chm1027311]
 keywords: vis_dss.chm1027311
 f1_keywords:
 - vis_dss.chm1027311
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# QUEUEMARKEREVENT Function, Visio [Vis_DSS.chm1027311]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función QUEUEMARKEREVENT, Visio [Vis_DSS.chm1027311]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [QUEUEMARKEREVENT (función)](http://msdn.microsoft.com/library/queuemarkerevent-function%28Office.15%29.aspx)
-
+[QUEUEMARKEREVENT Function](http://msdn.microsoft.com/library/b4671715-4209-7774-c174-c19dc9721a02%28Office.15%29.aspx)
 

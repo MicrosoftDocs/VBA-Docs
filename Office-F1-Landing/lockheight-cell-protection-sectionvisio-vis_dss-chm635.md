@@ -1,5 +1,5 @@
 ---
-title: Celda LockHeight (sección Protección), Visio [Vis_DSS.chm635]
+title: LockHeight Cell (Protection Section), Visio [Vis_DSS.chm635]
 keywords: vis_dss.chm635
 f1_keywords:
 - vis_dss.chm635
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockHeight Cell (Protection Section), Visio [Vis_DSS.chm635]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockHeight (sección Protección), Visio [Vis_DSS.chm635]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockHeight (Sección de protección)](http://msdn.microsoft.com/library/lockheight-cell-protection-section%28Office.15%29.aspx)
-
+[LockHeight Cell (Protection Section)](http://msdn.microsoft.com/library/218b957e-5af6-e53b-1453-a84164ae456e%28Office.15%29.aspx)
 

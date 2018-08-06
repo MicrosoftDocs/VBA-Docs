@@ -1,5 +1,5 @@
 ---
-title: Celda Prompt (sección Actions), Visio [Vis_DSS.chm82251335]
+title: Prompt Cell (Actions Section), Visio [Vis_DSS.chm82251335]
 keywords: vis_dss.chm82251335
 f1_keywords:
 - vis_dss.chm82251335
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Prompt Cell (Actions Section), Visio [Vis_DSS.chm82251335]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Prompt (sección Actions), Visio [Vis_DSS.chm82251335]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Prompt (Sección de acciones)](http://msdn.microsoft.com/library/prompt-cell-actions-section%28Office.15%29.aspx)
-
+[Prompt Cell (Actions Section)](http://msdn.microsoft.com/library/ce43b4fd-816a-6f2f-2019-42eecf747cdd%28Office.15%29.aspx)
 

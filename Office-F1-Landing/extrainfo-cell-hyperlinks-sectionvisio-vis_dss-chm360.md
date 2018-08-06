@@ -1,5 +1,5 @@
 ---
-title: Celda ExtraInfo (sección Hyperlinks), Visio [Vis_DSS.chm360]
+title: ExtraInfo Cell (Hyperlinks Section), Visio [Vis_DSS.chm360]
 keywords: vis_dss.chm360
 f1_keywords:
 - vis_dss.chm360
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ExtraInfo Cell (Hyperlinks Section), Visio [Vis_DSS.chm360]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ExtraInfo (sección Hyperlinks), Visio [Vis_DSS.chm360]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ExtraInfo (Sección de hipervínculos)](http://msdn.microsoft.com/library/extrainfo-cell-hyperlinks-section%28Office.15%29.aspx)
-
+[ExtraInfo Cell (Hyperlinks Section)](http://msdn.microsoft.com/library/55834445-8619-f79a-aea0-0f6a1780e016%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad DateGrouping, Access [vbaac10.chm4325]
+title: DateGrouping Property, Access [vbaac10.chm4325]
 keywords: vbaac10.chm4325
 f1_keywords:
 - vbaac10.chm4325
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DateGrouping Property, Access [vbaac10.chm4325]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DateGrouping, Access [vbaac10.chm4325]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.DateGrouping (Access)](http://msdn.microsoft.com/library/report.dategrouping-property-access%28Office.15%29.aspx)
-
+[Report.DateGrouping Property (Access)](http://msdn.microsoft.com/library/e2495aa7-06e9-8eaf-81d8-182c7d51559c%28Office.15%29.aspx)
 

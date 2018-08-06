@@ -1,5 +1,5 @@
 ---
-title: Pestaña Formato del editor (cuadro de diálogo Opciones), Office Shared [vbui6.chm181030]
+title: Editor Format Tab (Options Dialog Box), Office Shared [vbui6.chm181030]
 keywords: vbui6.chm181030
 f1_keywords:
 - vbui6.chm181030
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Editor Format Tab (Options Dialog Box), Office Shared [vbui6.chm181030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Pestaña Formato del editor (cuadro de diálogo Opciones), Office Shared [vbui6.chm181030]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Pestaña Formato de editor (cuadro de diálogo Opciones)](http://msdn.microsoft.com/library/editor-format-tab-options-dialog-box%28Office.15%29.aspx)
-
+[Editor Format Tab (Options Dialog Box)](http://msdn.microsoft.com/library/eedb9565-02f2-25d6-7ce4-c80dbc7d4d13%28Office.15%29.aspx)
 

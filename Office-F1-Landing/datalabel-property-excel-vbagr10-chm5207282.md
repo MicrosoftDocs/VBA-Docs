@@ -1,5 +1,5 @@
 ---
-title: Propiedad DataLabel, Excel [vbagr10.chm5207282]
+title: DataLabel Property, Excel [vbagr10.chm5207282]
 keywords: vbagr10.chm5207282
 f1_keywords:
 - vbagr10.chm5207282
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DataLabel Property, Excel [vbagr10.chm5207282]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DataLabel, Excel [vbagr10.chm5207282]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DataLabel (propiedad)](http://msdn.microsoft.com/library/datalabel-property%28Office.15%29.aspx)
-
+[DataLabel Property](http://msdn.microsoft.com/library/3f85b4c2-5b7d-311a-95f9-ad08d5c23e39%28Office.15%29.aspx)
 

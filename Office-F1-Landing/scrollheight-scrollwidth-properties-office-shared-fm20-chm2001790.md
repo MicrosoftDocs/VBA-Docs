@@ -1,5 +1,5 @@
 ---
-title: Propiedades ScrollHeight, ScrollWidth, Office Shared [fm20.chm2001790]
+title: ScrollHeight, ScrollWidth Properties, Office Shared [fm20.chm2001790]
 keywords: fm20.chm2001790
 f1_keywords:
 - fm20.chm2001790
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Propiedades ScrollHeight, ScrollWidth, Office Shared [fm20.chm2001790]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedades ScrollHeight y ScrollWidth](http://msdn.microsoft.com/library/scrollheight-scrollwidth-properties%28Office.15%29.aspx)
-
+# ScrollHeight, ScrollWidth Properties, Office Shared [fm20.chm2001790]
 

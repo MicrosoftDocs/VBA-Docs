@@ -1,5 +1,5 @@
 ---
-title: Propiedad NameIsAuto, Excel [vbagr10.chm5207723]
+title: NameIsAuto Property, Excel [vbagr10.chm5207723]
 keywords: vbagr10.chm5207723
 f1_keywords:
 - vbagr10.chm5207723
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NameIsAuto Property, Excel [vbagr10.chm5207723]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NameIsAuto, Excel [vbagr10.chm5207723]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [NameIsAuto (propiedad)](http://msdn.microsoft.com/library/nameisauto-property%28Office.15%29.aspx)
-
+[NameIsAuto Property](http://msdn.microsoft.com/library/92a06cde-f3fc-cc5b-9af9-0ec9545b90a8%28Office.15%29.aspx)
 

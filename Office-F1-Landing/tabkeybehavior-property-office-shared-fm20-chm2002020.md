@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabKeyBehavior, Office Shared [fm20.chm2002020]
+title: TabKeyBehavior Property, Office Shared [fm20.chm2002020]
 keywords: fm20.chm2002020
 f1_keywords:
 - fm20.chm2002020
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TabKeyBehavior Property, Office Shared [fm20.chm2002020]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabKeyBehavior, Office Shared [fm20.chm2002020]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TabKeyBehavior](http://msdn.microsoft.com/library/tabkeybehavior-property%28Office.15%29.aspx)
-
+[TabKeyBehavior Property](http://msdn.microsoft.com/library/9019c946-8590-2538-fbf0-c9d131a78963%28Office.15%29.aspx)
 

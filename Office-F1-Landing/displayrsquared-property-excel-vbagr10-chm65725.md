@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayRSquared, Excel [vbagr10.chm65725]
+title: DisplayRSquared Property, Excel [vbagr10.chm65725]
 keywords: vbagr10.chm65725
 f1_keywords:
 - vbagr10.chm65725
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayRSquared Property, Excel [vbagr10.chm65725]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayRSquared, Excel [vbagr10.chm65725]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayRSquared (propiedad)](http://msdn.microsoft.com/library/displayrsquared-property%28Office.15%29.aspx)
-
+[DisplayRSquared Property](http://msdn.microsoft.com/library/cc8ac282-19b1-00d8-14a7-738f5574f1cb%28Office.15%29.aspx)
 

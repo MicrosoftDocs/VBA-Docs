@@ -1,5 +1,5 @@
 ---
-title: Método OpenConnection, Access [vbaac10.chm12715]
+title: OpenConnection Method, Access [vbaac10.chm12715]
 keywords: vbaac10.chm12715
 f1_keywords:
 - vbaac10.chm12715
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OpenConnection Method, Access [vbaac10.chm12715]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método OpenConnection, Access [vbaac10.chm12715]
+[CurrentProject.OpenConnection Method (Access)](http://msdn.microsoft.com/library/37b5d50c-ddc9-97d4-2b8f-068ba2702e6d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeProject.OpenConnection Method (Access)](http://msdn.microsoft.com/library/ed67b379-20aa-0d4c-11e0-3bb2fbe4ff06%28Office.15%29.aspx)
 
-
- [Método CurrentProject.OpenConnection (Access)](http://msdn.microsoft.com/library/currentproject.openconnection-method-access%28Office.15%29.aspx)
-
-
- [Método CodeProject.OpenConnection (Access)](http://msdn.microsoft.com/library/codeproject.openconnection-method-access%28Office.15%29.aspx)
 

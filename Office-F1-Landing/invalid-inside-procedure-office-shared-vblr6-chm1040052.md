@@ -1,5 +1,5 @@
 ---
-title: Procedimiento interior no válido, Office Shared [vblr6.chm1040052]
+title: Invalid inside procedure, Office Shared [vblr6.chm1040052]
 keywords: vblr6.chm1040052
 f1_keywords:
 - vblr6.chm1040052
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid inside procedure, Office Shared [vblr6.chm1040052]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Procedimiento interior no válido, Office Shared [vblr6.chm1040052]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Procedimiento interno no válido](http://msdn.microsoft.com/library/invalid-inside-procedure%28Office.15%29.aspx)
-
+[Invalid inside procedure](http://msdn.microsoft.com/library/ba314d7c-1d01-6b99-f80b-b1c18b1bef32%28Office.15%29.aspx)
 

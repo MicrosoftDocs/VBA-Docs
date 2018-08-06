@@ -1,5 +1,5 @@
 ---
-title: Evento DesignModeEntered, Visio [vis_sdr.chm10519110]
+title: DesignModeEntered Event, Visio [vis_sdr.chm10519110]
 keywords: vis_sdr.chm10519110
 f1_keywords:
 - vis_sdr.chm10519110
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DesignModeEntered Event, Visio [vis_sdr.chm10519110]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DesignModeEntered, Visio [vis_sdr.chm10519110]
+[Document.DesignModeEntered Event (Visio)](http://msdn.microsoft.com/library/c8fc31b5-8770-f068-d469-aeb110214824%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.DesignModeEntered Event (Visio)](http://msdn.microsoft.com/library/721dc421-e4d1-c049-e6ea-c922049ebb20%28Office.15%29.aspx)
 
-
- [Evento Document.DesignModeEntered (Visio)](http://msdn.microsoft.com/library/document.designmodeentered-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.DesignModeEntered (Visio)](http://msdn.microsoft.com/library/drawingcontrol.designmodeentered-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad CodeModule (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104038]
+title: CodeModule Property (VBA Add-In Object Model), Office Shared [vbob6.chm104038]
 keywords: vbob6.chm104038
 f1_keywords:
 - vbob6.chm104038
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CodeModule Property (VBA Add-In Object Model), Office Shared [vbob6.chm104038]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CodeModule (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104038]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CodeModule (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/codemodule-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CodeModule Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/5e99b614-7207-f577-49dd-5199cb4d9373%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllStoredProcedures, Access [vbaac10.chm12735]
+title: AllStoredProcedures Property, Access [vbaac10.chm12735]
 keywords: vbaac10.chm12735
 f1_keywords:
 - vbaac10.chm12735
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllStoredProcedures Property, Access [vbaac10.chm12735]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllStoredProcedures, Access [vbaac10.chm12735]
+[CurrentData.AllStoredProcedures Property (Access)](http://msdn.microsoft.com/library/eadae8cb-ca0a-8804-fdf9-781b20f6e4a4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeData.AllStoredProcedures Property (Access)](http://msdn.microsoft.com/library/4a14d3b6-1878-5065-6e08-b97d23ddc999%28Office.15%29.aspx)
 
-
- [Propiedad CurrentData.AllStoredProcedures (Access)](http://msdn.microsoft.com/library/currentdata.allstoredprocedures-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeData.AllStoredProcedures (Access)](http://msdn.microsoft.com/library/codedata.allstoredprocedures-property-access%28Office.15%29.aspx)
 

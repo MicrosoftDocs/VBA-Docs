@@ -1,5 +1,5 @@
 ---
-title: Celda PageShapeSplit (sección Page Layout), Visio [vis_sdr.chm60063]
+title: PageShapeSplit Cell (Page Layout Section), Visio [vis_sdr.chm60063]
 keywords: vis_sdr.chm60063
 f1_keywords:
 - vis_sdr.chm60063
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PageShapeSplit Cell (Page Layout Section), Visio [vis_sdr.chm60063]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda PageShapeSplit (sección Page Layout), Visio [vis_sdr.chm60063]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda PageShapeSplit (Sección de diseño de página)](http://msdn.microsoft.com/library/pageshapesplit-cell-page-layout-section%28Office.15%29.aspx)
-
+[PageShapeSplit Cell (Page Layout Section)](http://msdn.microsoft.com/library/4d3bdf77-0ad4-86a4-d215-1d5a5fbe33f7%28Office.15%29.aspx)
 

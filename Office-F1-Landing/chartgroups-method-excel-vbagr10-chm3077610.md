@@ -1,5 +1,5 @@
 ---
-title: Método ChartGroups, Excel [vbagr10.chm3077610]
+title: ChartGroups Method, Excel [vbagr10.chm3077610]
 keywords: vbagr10.chm3077610
 f1_keywords:
 - vbagr10.chm3077610
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartGroups Method, Excel [vbagr10.chm3077610]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método ChartGroups, Excel [vbagr10.chm3077610]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método ChartGroups](http://msdn.microsoft.com/library/chartgroups-method%28Office.15%29.aspx)
-
+[ChartGroups Method](http://msdn.microsoft.com/library/e25258c1-14d4-bb0c-b442-f6c811b19847%28Office.15%29.aspx)
 

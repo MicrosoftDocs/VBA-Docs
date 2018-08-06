@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayEquation, Excel [vbagr10.chm65726]
+title: DisplayEquation Property, Excel [vbagr10.chm65726]
 keywords: vbagr10.chm65726
 f1_keywords:
 - vbagr10.chm65726
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayEquation Property, Excel [vbagr10.chm65726]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayEquation, Excel [vbagr10.chm65726]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayEquation (propiedad)](http://msdn.microsoft.com/library/displayequation-property%28Office.15%29.aspx)
-
+[DisplayEquation Property](http://msdn.microsoft.com/library/f3638bfd-d25d-96b4-5c20-2acf8703658d%28Office.15%29.aspx)
 

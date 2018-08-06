@@ -1,5 +1,5 @@
 ---
-title: Celda Denoise (sección Propiedades de la imagen), Visio [Vis_DSS.chm82251612]
+title: Denoise Cell (Image Properties Section), Visio [Vis_DSS.chm82251612]
 keywords: vis_dss.chm82251612
 f1_keywords:
 - vis_dss.chm82251612
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Celda Denoise (sección Propiedades de la imagen), Visio [Vis_DSS.chm82251612]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Denoise (Sección de propiedades de la imagen)](http://msdn.microsoft.com/library/denoise-cell-image-properties-section%28Office.15%29.aspx)
-
+# Denoise Cell (Image Properties Section), Visio [Vis_DSS.chm82251612]
 

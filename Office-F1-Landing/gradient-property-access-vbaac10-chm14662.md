@@ -1,5 +1,5 @@
 ---
-title: Propiedad Gradient, Access [vbaac10.chm14662]
+title: Gradient Property, Access [vbaac10.chm14662]
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Gradient Property, Access [vbaac10.chm14662]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Gradient, Access [vbaac10.chm14662]
+[CommandButton.Gradient Property (Access)](http://msdn.microsoft.com/library/6ab8ea87-7bba-6476-14e5-0d0e7e645d0e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ToggleButton.Gradient Property (Access)](http://msdn.microsoft.com/library/ac12829e-ec4c-7f6e-93fa-918dc84bf7ce%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.Gradient (Access)](http://msdn.microsoft.com/library/commandbutton.gradient-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.Gradient (Access)](http://msdn.microsoft.com/library/togglebutton.gradient-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Gradient (Access)](http://msdn.microsoft.com/library/navigationbutton.gradient-property-access%28Office.15%29.aspx)
-
- [Propiedad TabControl.Gradient (Access)](http://msdn.microsoft.com/library/tabcontrol.gradient-property-access%28Office.15%29.aspx)
-
+[NavigationButton.Gradient Property (Access)](http://msdn.microsoft.com/library/b23fb655-67bf-645f-f510-c4baafe02e58%28Office.15%29.aspx)
+[TabControl.Gradient Property (Access)](http://msdn.microsoft.com/library/0fa97694-025d-4064-5fc1-d95d873ad3fc%28Office.15%29.aspx)
 

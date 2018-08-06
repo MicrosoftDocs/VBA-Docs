@@ -1,5 +1,5 @@
 ---
-title: Propiedad Zoom, Office Shared [fm20.chm5225115]
+title: Zoom Property, Office Shared [fm20.chm5225115]
 keywords: fm20.chm5225115
 f1_keywords:
 - fm20.chm5225115
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Zoom Property, Office Shared [fm20.chm5225115]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Zoom, Office Shared [fm20.chm5225115]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Zoom](http://msdn.microsoft.com/library/zoom-property%28Office.15%29.aspx)
-
+[Zoom Property](http://msdn.microsoft.com/library/d5230fdb-8332-c136-231b-6e2ab3acaf6a%28Office.15%29.aspx)
 

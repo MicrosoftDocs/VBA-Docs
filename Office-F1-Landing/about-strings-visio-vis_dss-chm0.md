@@ -1,5 +1,5 @@
 ---
-title: Cadenas Acerca de, Visio [Vis_DSS.chm0]
+title: About Strings, Visio [Vis_DSS.chm0]
 keywords: vis_dss.chm0
 f1_keywords:
 - vis_dss.chm0
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# About Strings, Visio [Vis_DSS.chm0]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cadenas Acerca de, Visio [Vis_DSS.chm0]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cadenas](http://msdn.microsoft.com/library/about-strings%28Office.15%29.aspx)
-
+[About Strings](http://msdn.microsoft.com/library/e1174d8f-70cb-4595-7906-889da15367db%28Office.15%29.aspx)
 

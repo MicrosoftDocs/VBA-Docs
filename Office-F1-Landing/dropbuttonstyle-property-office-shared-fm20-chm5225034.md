@@ -1,5 +1,5 @@
 ---
-title: Propiedad DropButtonStyle, Office Shared [fm20.chm5225034]
+title: DropButtonStyle Property, Office Shared [fm20.chm5225034]
 keywords: fm20.chm5225034
 f1_keywords:
 - fm20.chm5225034
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DropButtonStyle Property, Office Shared [fm20.chm5225034]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DropButtonStyle, Office Shared [fm20.chm5225034]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DropButtonStyle](http://msdn.microsoft.com/library/dropbuttonstyle-property%28Office.15%29.aspx)
-
+[DropButtonStyle Property](http://msdn.microsoft.com/library/14d5061f-1267-64b5-5734-65febe6e584c%28Office.15%29.aspx)
 

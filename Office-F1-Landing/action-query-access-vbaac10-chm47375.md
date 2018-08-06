@@ -1,5 +1,5 @@
 ---
-title: Consulta de acciones, Access [vbaac10.chm47375]
+title: Action Query, Access [vbaac10.chm47375]
 keywords: vbaac10.chm47375
 f1_keywords:
 - vbaac10.chm47375
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Action Query, Access [vbaac10.chm47375]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Consulta de acciones, Access [vbaac10.chm47375]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Consulta de acciones](http://msdn.microsoft.com/library/action-query%28Office.15%29.aspx)
-
+[Action Query](http://msdn.microsoft.com/library/a59c517e-00f4-fc1b-3fef-ac13f00e2317%28Office.15%29.aspx)
 

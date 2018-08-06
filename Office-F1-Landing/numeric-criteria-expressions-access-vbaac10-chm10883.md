@@ -1,5 +1,5 @@
 ---
-title: Expresiones de criterios numéricos, Access [vbaac10.chm10883]
+title: Numeric Criteria Expressions, Access [vbaac10.chm10883]
 keywords: vbaac10.chm10883
 f1_keywords:
 - vbaac10.chm10883
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Numeric Criteria Expressions, Access [vbaac10.chm10883]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Expresiones de criterios numéricos, Access [vbaac10.chm10883]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Expresiones de criterio numéricas](http://msdn.microsoft.com/library/numeric-criteria-expressions%28Office.15%29.aspx)
-
+[Numeric Criteria Expressions](http://msdn.microsoft.com/library/ff497f13-7251-9131-459f-9bd2b189816b%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Description (Access), Access [vbaac10.chm5187169]
+title: Description Property (Access), Access [vbaac10.chm5187169]
 keywords: vbaac10.chm5187169
 f1_keywords:
 - vbaac10.chm5187169
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Description Property (Access), Access [vbaac10.chm5187169]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Description (Access), Access [vbaac10.chm5187169]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Description (Access)](http://msdn.microsoft.com/library/description-property-access%28Office.15%29.aspx)
-
+[Description Property (Access)](http://msdn.microsoft.com/library/b2933bc9-5e8b-9bee-d07b-2b015c530ebe%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Página, Access [vbaac10.chm5186926]
+title: Page, Access [vbaac10.chm5186926]
 keywords: vbaac10.chm5186926
 f1_keywords:
 - vbaac10.chm5186926
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Page, Access [vbaac10.chm5186926]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Página, Access [vbaac10.chm5186926]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Página (Page)](http://msdn.microsoft.com/library/page%28Office.15%29.aspx)
-
+[Page](http://msdn.microsoft.com/library/2c67eea5-2f04-807e-f07b-ebcc82dd1a21%28Office.15%29.aspx)
 

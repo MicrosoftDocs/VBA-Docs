@@ -1,5 +1,5 @@
 ---
-title: Celda BeginY (sección 1-D Endpoints), Visio [Vis_DSS.chm82251291]
+title: BeginY Cell (1-D Endpoints Section), Visio [Vis_DSS.chm82251291]
 keywords: vis_dss.chm82251291
 f1_keywords:
 - vis_dss.chm82251291
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeginY Cell (1-D Endpoints Section), Visio [Vis_DSS.chm82251291]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda BeginY (sección 1-D Endpoints), Visio [Vis_DSS.chm82251291]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda BeginY (Sección de extremos 1D)](http://msdn.microsoft.com/library/beginy-cell-1-d-endpoints-section%28Office.15%29.aspx)
-
+[BeginY Cell (1-D Endpoints Section)](http://msdn.microsoft.com/library/b2518a70-5755-a15a-a238-bac2ae64a75a%28Office.15%29.aspx)
 

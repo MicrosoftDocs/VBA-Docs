@@ -1,5 +1,5 @@
 ---
-title: Propiedad MajorTickMark, Excel [vbagr10.chm3077104]
+title: MajorTickMark Property, Excel [vbagr10.chm3077104]
 keywords: vbagr10.chm3077104
 f1_keywords:
 - vbagr10.chm3077104
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MajorTickMark Property, Excel [vbagr10.chm3077104]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MajorTickMark, Excel [vbagr10.chm3077104]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MajorTickMark (propiedad)](http://msdn.microsoft.com/library/majortickmark-property%28Office.15%29.aspx)
-
+[MajorTickMark Property](http://msdn.microsoft.com/library/26dfa842-1c7d-c2b6-b647-7c110b1d5626%28Office.15%29.aspx)
 

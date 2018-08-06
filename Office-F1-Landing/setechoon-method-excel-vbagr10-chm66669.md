@@ -1,5 +1,5 @@
 ---
-title: Método SetEchoOn, Excel [vbagr10.chm66669]
+title: SetEchoOn Method, Excel [vbagr10.chm66669]
 keywords: vbagr10.chm66669
 f1_keywords:
 - vbagr10.chm66669
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SetEchoOn Method, Excel [vbagr10.chm66669]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetEchoOn, Excel [vbagr10.chm66669]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SetEchoOn (método)](http://msdn.microsoft.com/library/setechoon-method%28Office.15%29.aspx)
-
+[SetEchoOn Method](http://msdn.microsoft.com/library/48490f33-63ef-aef1-8e54-51ac5d8f35e5%28Office.15%29.aspx)
 

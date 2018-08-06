@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineColor, Access [vbaac10.chm11164]
+title: GridlineColor Property, Access [vbaac10.chm11164]
 keywords: vbaac10.chm11164
 f1_keywords:
 - vbaac10.chm11164
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineColor Property, Access [vbaac10.chm11164]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineColor, Access [vbaac10.chm11164]
+[TextBox.GridlineColor Property (Access)](http://msdn.microsoft.com/library/849e0843-ab35-90d6-02a6-44faa316c83f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.GridlineColor Property (Access)](http://msdn.microsoft.com/library/21502538-377c-fd82-62bb-c68cabd1b2cd%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.GridlineColor (Access)](http://msdn.microsoft.com/library/textbox.gridlinecolor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.GridlineColor (Access)](http://msdn.microsoft.com/library/navigationcontrol.gridlinecolor-property-access%28Office.15%29.aspx)
 

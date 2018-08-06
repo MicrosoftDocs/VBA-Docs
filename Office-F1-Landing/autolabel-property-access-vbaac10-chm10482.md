@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoLabel, Access [vbaac10.chm10482]
+title: AutoLabel Property, Access [vbaac10.chm10482]
 keywords: vbaac10.chm10482
 f1_keywords:
 - vbaac10.chm10482
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoLabel Property, Access [vbaac10.chm10482]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoLabel, Access [vbaac10.chm10482]
+[CommandButton.AutoLabel Property (Access)](http://msdn.microsoft.com/library/f71bdc7f-9703-eeaa-70a8-70b6ddb72f85%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.AutoLabel Property (Access)](http://msdn.microsoft.com/library/addd9533-d975-1b85-e941-c560188f0d8a%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.AutoLabel (Access)](http://msdn.microsoft.com/library/commandbutton.autolabel-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.AutoLabel (Access)](http://msdn.microsoft.com/library/navigationbutton.autolabel-property-access%28Office.15%29.aspx)
 

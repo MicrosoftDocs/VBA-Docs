@@ -1,5 +1,5 @@
 ---
-title: Método Clear, PowerPoint [vbapp10.chm65647]
+title: Clear Method, PowerPoint [vbapp10.chm65647]
 keywords: vbapp10.chm65647
 f1_keywords:
 - vbapp10.chm65647
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Clear Method, PowerPoint [vbapp10.chm65647]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Clear, PowerPoint [vbapp10.chm65647]
+[ChartArea.Clear Method (PowerPoint)](http://msdn.microsoft.com/library/fa22b630-405c-f771-faaa-14bdf8d9fa8b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Legend.Clear Method (PowerPoint)](http://msdn.microsoft.com/library/a003e3fd-2b90-a799-80d9-1540ccfc33ef%28Office.15%29.aspx)
 
-
- [Método ChartArea.Clear (PowerPoint)](http://msdn.microsoft.com/library/chartarea.clear-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método Legend.Clear (PowerPoint)](http://msdn.microsoft.com/library/legend.clear-method-powerpoint%28Office.15%29.aspx)
 

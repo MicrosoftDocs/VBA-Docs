@@ -1,5 +1,5 @@
 ---
-title: Celda LockCrop (sección Protección), Visio [Vis_DSS.chm610]
+title: LockCrop Cell (Protection Section), Visio [Vis_DSS.chm610]
 keywords: vis_dss.chm610
 f1_keywords:
 - vis_dss.chm610
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockCrop Cell (Protection Section), Visio [Vis_DSS.chm610]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockCrop (sección Protección), Visio [Vis_DSS.chm610]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockCrop (Sección de protección)](http://msdn.microsoft.com/library/lockcrop-cell-protection-section%28Office.15%29.aspx)
-
+[LockCrop Cell (Protection Section)](http://msdn.microsoft.com/library/ae05de63-b527-66e6-2c79-056c9c92ec95%28Office.15%29.aspx)
 

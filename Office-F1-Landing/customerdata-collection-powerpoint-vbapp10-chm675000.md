@@ -1,5 +1,5 @@
 ---
-title: Colección CustomerData, PowerPoint [vbapp10.chm675000]
+title: CustomerData Collection, PowerPoint [vbapp10.chm675000]
 keywords: vbapp10.chm675000
 f1_keywords:
 - vbapp10.chm675000
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CustomerData Collection, PowerPoint [vbapp10.chm675000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección CustomerData, PowerPoint [vbapp10.chm675000]
+[CustomerData Object (PowerPoint)](http://msdn.microsoft.com/library/1d658369-ea6c-6959-cd00-230dc111f765%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomerData Object (PowerPoint)](http://msdn.microsoft.com/library/d0f12686-9f55-2c5a-1c61-80cf0401825f.aspx)
 
-
- [Objeto CustomerData (PowerPoint)](http://msdn.microsoft.com/library/customerdata-object-powerpoint%28Office.15%29.aspx)
-
-
- [CustomerData Object (PowerPoint)](http://msdn.microsoft.com/library/d0f12686-9f55-2c5a-1c61-80cf0401825f.aspx)
 

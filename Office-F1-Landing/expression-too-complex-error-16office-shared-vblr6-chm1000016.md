@@ -1,5 +1,5 @@
 ---
-title: Expresión demasiado compleja (error 16), Office Shared [vblr6.chm1000016]
+title: Expression too complex (Error 16), Office Shared [vblr6.chm1000016]
 keywords: vblr6.chm1000016
 f1_keywords:
 - vblr6.chm1000016
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expression too complex (Error 16), Office Shared [vblr6.chm1000016]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Expresión demasiado compleja (error 16), Office Shared [vblr6.chm1000016]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Expresión demasiado compleja (error 16)](http://msdn.microsoft.com/library/expression-too-complex-error-16%28Office.15%29.aspx)
-
+[Expression too complex (Error 16)](http://msdn.microsoft.com/library/718b5c52-5844-fa60-4490-6db2529dcc4e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Text, Excel [vbagr10.chm65674]
+title: Text Property, Excel [vbagr10.chm65674]
 keywords: vbagr10.chm65674
 f1_keywords:
 - vbagr10.chm65674
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Text Property, Excel [vbagr10.chm65674]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Text, Excel [vbagr10.chm65674]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Text (propiedad)](http://msdn.microsoft.com/library/text-property%28Office.15%29.aspx)
-
+[Text Property](http://msdn.microsoft.com/library/1af6b778-b303-2bf1-8558-f665c71222a8%28Office.15%29.aspx)
 

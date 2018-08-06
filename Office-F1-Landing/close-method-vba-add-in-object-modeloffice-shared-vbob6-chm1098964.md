@@ -1,5 +1,5 @@
 ---
-title: Método Close (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098964]
+title: Close Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098964]
 keywords: vbob6.chm1098964
 f1_keywords:
 - vbob6.chm1098964
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Close Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098964]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Close (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098964]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Close (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/close-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Close Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/e3c951ed-032b-9e4b-ba1b-a802f42d3544%28Office.15%29.aspx)
 

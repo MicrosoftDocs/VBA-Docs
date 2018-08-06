@@ -1,5 +1,5 @@
 ---
-title: Propiedad ForeTint, Access [vbaac10.chm14605]
+title: ForeTint Property, Access [vbaac10.chm14605]
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
@@ -9,29 +9,18 @@ ms.date: 06/08/2017
 ---
 
 
+# ForeTint Property, Access [vbaac10.chm14605]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ForeTint, Access [vbaac10.chm14605]
+[ComboBox.ForeTint Property (Access)](http://msdn.microsoft.com/library/d855214b-df01-7158-75ea-1fc974c9b60b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.ForeTint Property (Access)](http://msdn.microsoft.com/library/8229f864-5ed3-309e-ba29-6a45bf9d59a8%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.ForeTint (Access)](http://msdn.microsoft.com/library/combobox.foretint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.ForeTint (Access)](http://msdn.microsoft.com/library/textbox.foretint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.ForeTint (Access)](http://msdn.microsoft.com/library/commandbutton.foretint-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.ForeTint (Access)](http://msdn.microsoft.com/library/togglebutton.foretint-property-access%28Office.15%29.aspx)
-
- [Propiedad Label.ForeTint (Access)](http://msdn.microsoft.com/library/label.foretint-property-access%28Office.15%29.aspx)
-
- [Propiedad ListBox.ForeTint (Access)](http://msdn.microsoft.com/library/listbox.foretint-property-access%28Office.15%29.aspx)
-
- [Propiedad NavigationButton.ForeTint (Access)](http://msdn.microsoft.com/library/navigationbutton.foretint-property-access%28Office.15%29.aspx)
-
- [Propiedad TabControl.ForeTint (Access)](http://msdn.microsoft.com/library/tabcontrol.foretint-property-access%28Office.15%29.aspx)
-
+[CommandButton.ForeTint Property (Access)](http://msdn.microsoft.com/library/87b29d73-fdbf-0ffa-d2eb-78d182625458%28Office.15%29.aspx)
+[ToggleButton.ForeTint Property (Access)](http://msdn.microsoft.com/library/b0ea7b04-962f-bdea-d3c2-8fe9f0bf83e9%28Office.15%29.aspx)
+[Label.ForeTint Property (Access)](http://msdn.microsoft.com/library/cce432e8-44eb-d30c-04e2-b4e3861ecec7%28Office.15%29.aspx)
+[ListBox.ForeTint Property (Access)](http://msdn.microsoft.com/library/3d2d2e77-5819-673b-8e9c-d2d94d06a1bd%28Office.15%29.aspx)
+[NavigationButton.ForeTint Property (Access)](http://msdn.microsoft.com/library/4d19f8e8-67e0-412a-a515-dd357a26bc46%28Office.15%29.aspx)
+[TabControl.ForeTint Property (Access)](http://msdn.microsoft.com/library/9e7c2a92-028b-f565-22fb-fc44753c7908%28Office.15%29.aspx)
 

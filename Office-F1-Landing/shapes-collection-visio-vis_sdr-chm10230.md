@@ -1,5 +1,5 @@
 ---
-title: Colección Shapes, Visio [vis_sdr.chm10230]
+title: Shapes Collection, Visio [vis_sdr.chm10230]
 keywords: vis_sdr.chm10230
 f1_keywords:
 - vis_sdr.chm10230
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Shapes Collection, Visio [vis_sdr.chm10230]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Shapes, Visio [vis_sdr.chm10230]
+[Shapes Object (Visio)](http://msdn.microsoft.com/library/9ec3c379-54c2-50d8-4f6b-79a95b8d12f0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Shapes Object (Visio)](http://msdn.microsoft.com/library/18d1444a-43fd-d711-849d-fa6567537a87.aspx)
 
-
- [Objeto Shapes (Visio)](http://msdn.microsoft.com/library/shapes-object-visio%28Office.15%29.aspx)
-
-
- [Shapes Object (Visio)](http://msdn.microsoft.com/library/18d1444a-43fd-d711-849d-fa6567537a87.aspx)
 

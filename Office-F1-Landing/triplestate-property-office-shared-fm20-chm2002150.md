@@ -1,5 +1,5 @@
 ---
-title: Propiedad TripleState, Office Shared [fm20.chm2002150]
+title: TripleState Property, Office Shared [fm20.chm2002150]
 keywords: fm20.chm2002150
 f1_keywords:
 - fm20.chm2002150
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TripleState Property, Office Shared [fm20.chm2002150]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TripleState, Office Shared [fm20.chm2002150]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TripleState](http://msdn.microsoft.com/library/triplestate-property%28Office.15%29.aspx)
-
+[TripleState Property](http://msdn.microsoft.com/library/f009f524-76db-526f-7bd6-a7358b53fc31%28Office.15%29.aspx)
 

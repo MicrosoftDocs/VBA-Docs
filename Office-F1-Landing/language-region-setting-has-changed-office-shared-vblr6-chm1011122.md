@@ -1,5 +1,5 @@
 ---
-title: La configuración regional/de idioma ha cambiado, Office Shared [vblr6.chm1011122]
+title: Language/region setting has changed, Office Shared [vblr6.chm1011122]
 keywords: vblr6.chm1011122
 f1_keywords:
 - vblr6.chm1011122
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Language/region setting has changed, Office Shared [vblr6.chm1011122]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La configuración regional/de idioma ha cambiado, Office Shared [vblr6.chm1011122]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La configuración de idioma y región ha cambiado](http://msdn.microsoft.com/library/language-region-setting-has-changed%28Office.15%29.aspx)
-
+[Language/region setting has changed](http://msdn.microsoft.com/library/0a89b54a-6829-a104-bf3e-1841c204c1dd%28Office.15%29.aspx)
 

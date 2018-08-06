@@ -1,5 +1,5 @@
 ---
-title: Instrucción Option Compare, Office Shared [vblr6.chm1008807]
+title: Option Compare Statement, Office Shared [vblr6.chm1008807]
 keywords: vblr6.chm1008807
 f1_keywords:
 - vblr6.chm1008807
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Option Compare Statement, Office Shared [vblr6.chm1008807]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción Option Compare, Office Shared [vblr6.chm1008807]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Option Compare](http://msdn.microsoft.com/library/option-compare-statement%28Office.15%29.aspx)
-
+[Option Compare Statement](http://msdn.microsoft.com/library/9332562c-451e-50df-198a-21902fadac9c%28Office.15%29.aspx)
 

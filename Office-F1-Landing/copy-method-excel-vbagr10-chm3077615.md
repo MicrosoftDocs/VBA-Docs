@@ -1,5 +1,5 @@
 ---
-title: Método Copy, Excel [vbagr10.chm3077615]
+title: Copy Method, Excel [vbagr10.chm3077615]
 keywords: vbagr10.chm3077615
 f1_keywords:
 - vbagr10.chm3077615
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Copy Method, Excel [vbagr10.chm3077615]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Copy, Excel [vbagr10.chm3077615]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Copy (método)](http://msdn.microsoft.com/library/copy-method%28Office.15%29.aspx)
-
+[Copy Method](http://msdn.microsoft.com/library/2207804d-0003-5c75-afa8-a718efba0c2c%28Office.15%29.aspx)
 

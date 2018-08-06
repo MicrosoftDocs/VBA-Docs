@@ -1,5 +1,5 @@
 ---
-title: Propiedad SmartTags, Access [vbaac10.chm553714026]
+title: SmartTags Property, Access [vbaac10.chm553714026]
 keywords: vbaac10.chm553714026
 f1_keywords:
 - vbaac10.chm553714026
@@ -9,25 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
+# SmartTags Property, Access [vbaac10.chm553714026]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SmartTags, Access [vbaac10.chm553714026]
+[ComboBox.SmartTags Property (Access)](http://msdn.microsoft.com/library/b86a8460-48c6-92ad-602b-1d736bb2c38c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.SmartTags Property (Access)](http://msdn.microsoft.com/library/200175d1-78a2-3036-72ba-4a85dfc21864%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.SmartTags (Access)](http://msdn.microsoft.com/library/combobox.smarttags-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.SmartTags (Access)](http://msdn.microsoft.com/library/textbox.smarttags-property-access%28Office.15%29.aspx)
-
-
- [Propiedad control.SmartTags (Access)](http://msdn.microsoft.com/library/control.smarttags-property-access%28Office.15%29.aspx)
-
- [Propiedad Label.SmartTags (Access)](http://msdn.microsoft.com/library/label.smarttags-property-access%28Office.15%29.aspx)
-
- [Propiedad NavigationControl.SmartTags (Access)](http://msdn.microsoft.com/library/navigationcontrol.smarttags-property-access%28Office.15%29.aspx)
-
- [Propiedad ListBox.SmartTags (Access)](http://msdn.microsoft.com/library/listbox.smarttags-property-access%28Office.15%29.aspx)
-
+[Control.SmartTags Property (Access)](http://msdn.microsoft.com/library/2f8b1435-31d4-4388-614c-4f26544eed7c%28Office.15%29.aspx)
+[Label.SmartTags Property (Access)](http://msdn.microsoft.com/library/1c31246b-870d-2d73-1737-829cbd67baba%28Office.15%29.aspx)
+[NavigationControl.SmartTags Property (Access)](http://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
+[ListBox.SmartTags Property (Access)](http://msdn.microsoft.com/library/1f35ca6b-fde1-6dc8-4b1b-f3089eee9204%28Office.15%29.aspx)
 

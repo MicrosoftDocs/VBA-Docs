@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasLegend, Excel [vbagr10.chm5207491]
+title: HasLegend Property, Excel [vbagr10.chm5207491]
 keywords: vbagr10.chm5207491
 f1_keywords:
 - vbagr10.chm5207491
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasLegend Property, Excel [vbagr10.chm5207491]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasLegend, Excel [vbagr10.chm5207491]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasLegend (propiedad)](http://msdn.microsoft.com/library/haslegend-property%28Office.15%29.aspx)
-
+[HasLegend Property](http://msdn.microsoft.com/library/b4dbef39-9d83-2f6e-fe06-8ca38cceeeec%28Office.15%29.aspx)
 

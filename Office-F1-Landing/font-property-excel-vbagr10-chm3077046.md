@@ -1,5 +1,5 @@
 ---
-title: Propiedad Font, Excel [vbagr10.chm3077046]
+title: Font Property, Excel [vbagr10.chm3077046]
 keywords: vbagr10.chm3077046
 f1_keywords:
 - vbagr10.chm3077046
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Font Property, Excel [vbagr10.chm3077046]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Font, Excel [vbagr10.chm3077046]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Font (propiedad)](http://msdn.microsoft.com/library/font-property-1%28Office.15%29.aspx)
-
+[Font Property](http://msdn.microsoft.com/library/0bc46ec4-998e-043e-0713-9a381ec2b6ad%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeQuit, Visio [vis_sdr.chm10019055]
+title: BeforeQuit Event, Visio [vis_sdr.chm10019055]
 keywords: vis_sdr.chm10019055
 f1_keywords:
 - vis_sdr.chm10019055
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeQuit Event, Visio [vis_sdr.chm10019055]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeQuit, Visio [vis_sdr.chm10019055]
+[Application.BeforeQuit Event (Visio)](http://msdn.microsoft.com/library/ad5ed704-4e7e-f8a9-b238-3c552dc3f292%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.BeforeQuit Event (Visio)](http://msdn.microsoft.com/library/b2554719-ada7-9bed-3ace-9e430c478e7a%28Office.15%29.aspx)
 
-
- [Evento Application.BeforeQuit (Visio)](http://msdn.microsoft.com/library/application.beforequit-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.BeforeQuit (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforequit-event-visio%28Office.15%29.aspx)
 

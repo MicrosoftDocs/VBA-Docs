@@ -1,5 +1,5 @@
 ---
-title: Propiedad Enabled, Access [vbaac10.chm10464]
+title: Enabled Property, Access [vbaac10.chm10464]
 keywords: vbaac10.chm10464
 f1_keywords:
 - vbaac10.chm10464
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Enabled Property, Access [vbaac10.chm10464]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Enabled, Access [vbaac10.chm10464]
+[NavigationButton.Enabled Property (Access)](http://msdn.microsoft.com/library/00390d23-3088-8f92-db02-902c23ef207c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Enabled Property (Access)](http://msdn.microsoft.com/library/c48d979d-3320-d8ab-1019-c5d1bf60e01d%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Enabled (Access)](http://msdn.microsoft.com/library/navigationbutton.enabled-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Enabled (Access)](http://msdn.microsoft.com/library/commandbutton.enabled-property-access%28Office.15%29.aspx)
 

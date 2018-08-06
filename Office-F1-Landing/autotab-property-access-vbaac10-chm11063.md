@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoTab, Access [vbaac10.chm11063]
+title: AutoTab Property, Access [vbaac10.chm11063]
 keywords: vbaac10.chm11063
 f1_keywords:
 - vbaac10.chm11063
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoTab Property, Access [vbaac10.chm11063]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoTab, Access [vbaac10.chm11063]
+[TextBox.AutoTab Property (Access)](http://msdn.microsoft.com/library/27b17921-cd58-e243-e091-2686c64a7c02%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.AutoTab Property (Access)](http://msdn.microsoft.com/library/3d484269-c00b-3f5e-8492-6e0ca60460b8%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.AutoTab (Access)](http://msdn.microsoft.com/library/textbox.autotab-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.AutoTab (Access)](http://msdn.microsoft.com/library/navigationcontrol.autotab-property-access%28Office.15%29.aspx)
 

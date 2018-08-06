@@ -1,5 +1,5 @@
 ---
-title: Celda EndY (sección 1-D Endpoints), Visio [Vis_DSS.chm82251293]
+title: EndY Cell (1-D Endpoints Section), Visio [Vis_DSS.chm82251293]
 keywords: vis_dss.chm82251293
 f1_keywords:
 - vis_dss.chm82251293
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EndY Cell (1-D Endpoints Section), Visio [Vis_DSS.chm82251293]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EndY (sección 1-D Endpoints), Visio [Vis_DSS.chm82251293]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EndY (Sección de extremos 1D)](http://msdn.microsoft.com/library/endy-cell-1-d-endpoints-section%28Office.15%29.aspx)
-
+[EndY Cell (1-D Endpoints Section)](http://msdn.microsoft.com/library/3fbfa4bc-7792-b6d9-d549-4602d252c293%28Office.15%29.aspx)
 

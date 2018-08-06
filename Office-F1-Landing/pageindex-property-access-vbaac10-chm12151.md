@@ -1,5 +1,5 @@
 ---
-title: Propiedad PageIndex, Access [vbaac10.chm12151]
+title: PageIndex Property, Access [vbaac10.chm12151]
 keywords: vbaac10.chm12151
 f1_keywords:
 - vbaac10.chm12151
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PageIndex Property, Access [vbaac10.chm12151]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PageIndex, Access [vbaac10.chm12151]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Page.PageIndex (Access)](http://msdn.microsoft.com/library/page.pageindex-property-access%28Office.15%29.aspx)
-
+[Page.PageIndex Property (Access)](http://msdn.microsoft.com/library/22b71f19-2734-f735-8a64-d02901c598c0%28Office.15%29.aspx)
 

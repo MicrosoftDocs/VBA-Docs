@@ -1,5 +1,5 @@
 ---
-title: Propiedad Value, Access [vbaac10.chm11039]
+title: Value Property, Access [vbaac10.chm11039]
 keywords: vbaac10.chm11039
 f1_keywords:
 - vbaac10.chm11039
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Value Property, Access [vbaac10.chm11039]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Value, Access [vbaac10.chm11039]
+[NavigationControl.Value Property (Access)](http://msdn.microsoft.com/library/9e45f505-81d3-63e9-b0c1-7182372224ad%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.Value Property (Access)](http://msdn.microsoft.com/library/4cb4c33f-dd96-0309-f30b-8e445d123756%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.Value (Access)](http://msdn.microsoft.com/library/navigationcontrol.value-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.Value (Access)](http://msdn.microsoft.com/library/textbox.value-property-access%28Office.15%29.aspx)
 

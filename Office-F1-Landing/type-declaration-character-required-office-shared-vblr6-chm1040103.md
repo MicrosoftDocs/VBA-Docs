@@ -1,5 +1,5 @@
 ---
-title: Carácter de instrucción de tipo necesario, Office Shared [vblr6.chm1040103]
+title: Type-declaration character required, Office Shared [vblr6.chm1040103]
 keywords: vblr6.chm1040103
 f1_keywords:
 - vblr6.chm1040103
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type-declaration character required, Office Shared [vblr6.chm1040103]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Carácter de instrucción de tipo necesario, Office Shared [vblr6.chm1040103]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Carácter de declaración de tipos requerido](http://msdn.microsoft.com/library/type-declaration-character-required%28Office.15%29.aspx)
-
+[Type-declaration character required](http://msdn.microsoft.com/library/d4da8cd8-bb2f-d536-7d4a-b7bf701bd361%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnMouseMove, Access [vbaac10.chm11125]
+title: OnMouseMove Property, Access [vbaac10.chm11125]
 keywords: vbaac10.chm11125
 f1_keywords:
 - vbaac10.chm11125
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnMouseMove Property, Access [vbaac10.chm11125]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnMouseMove, Access [vbaac10.chm11125]
+[NavigationControl.OnMouseMove Property (Access)](http://msdn.microsoft.com/library/12259131-0b06-e01f-4a94-05dabaf0e53c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.OnMouseMove Property (Access)](http://msdn.microsoft.com/library/7201a61b-5b69-c13f-63bf-a2a5f329ecc5%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.OnMouseMove (Access)](http://msdn.microsoft.com/library/navigationcontrol.onmousemove-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.OnMouseMove (Access)](http://msdn.microsoft.com/library/textbox.onmousemove-property-access%28Office.15%29.aspx)
 

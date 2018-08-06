@@ -1,5 +1,5 @@
 ---
-title: Evento Click, Office Shared [fm20.chm5224939]
+title: Click Event, Office Shared [fm20.chm5224939]
 keywords: fm20.chm5224939
 f1_keywords:
 - fm20.chm5224939
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Click Event, Office Shared [fm20.chm5224939]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Click, Office Shared [fm20.chm5224939]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Click](http://msdn.microsoft.com/library/click-event%28Office.15%29.aspx)
-
+[Click Event](http://msdn.microsoft.com/library/655b57b1-74fc-75e9-eb8d-debb83afaea9%28Office.15%29.aspx)
 

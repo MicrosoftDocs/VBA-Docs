@@ -1,5 +1,5 @@
 ---
-title: Método CreateEventProc (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098967]
+title: CreateEventProc Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098967]
 keywords: vbob6.chm1098967
 f1_keywords:
 - vbob6.chm1098967
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CreateEventProc Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098967]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método CreateEventProc (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098967]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método CreateEventProc (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/createeventproc-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CreateEventProc Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/afcdc0a2-aa3d-6882-f89c-17f0dcf3df2b%28Office.15%29.aspx)
 

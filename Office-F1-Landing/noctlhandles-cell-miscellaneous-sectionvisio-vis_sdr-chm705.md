@@ -1,5 +1,5 @@
 ---
-title: Celda NoCtlHandles (sección Varios), Visio [vis_sdr.chm705]
+title: NoCtlHandles Cell (Miscellaneous Section), Visio [vis_sdr.chm705]
 keywords: vis_sdr.chm705
 f1_keywords:
 - vis_sdr.chm705
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NoCtlHandles Cell (Miscellaneous Section), Visio [vis_sdr.chm705]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda NoCtlHandles (sección Varios), Visio [vis_sdr.chm705]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda NoCtlHandles (Sección de varios)](http://msdn.microsoft.com/library/noctlhandles-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[NoCtlHandles Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/4345b3e5-f522-e300-307c-4f8992a3ddce%28Office.15%29.aspx)
 

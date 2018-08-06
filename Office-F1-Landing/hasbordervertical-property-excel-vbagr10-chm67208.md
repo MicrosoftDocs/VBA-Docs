@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasBorderVertical, Excel [vbagr10.chm67208]
+title: HasBorderVertical Property, Excel [vbagr10.chm67208]
 keywords: vbagr10.chm67208
 f1_keywords:
 - vbagr10.chm67208
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasBorderVertical Property, Excel [vbagr10.chm67208]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasBorderVertical, Excel [vbagr10.chm67208]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasBorderVertical (propiedad)](http://msdn.microsoft.com/library/hasbordervertical-property%28Office.15%29.aspx)
-
+[HasBorderVertical Property](http://msdn.microsoft.com/library/ee6f449d-369c-1953-8540-b8baa4b281ab%28Office.15%29.aspx)
 

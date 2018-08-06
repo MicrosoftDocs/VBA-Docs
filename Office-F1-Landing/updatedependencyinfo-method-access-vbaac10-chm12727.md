@@ -1,5 +1,5 @@
 ---
-title: Método UpdateDependencyInfo, Access [vbaac10.chm12727]
+title: UpdateDependencyInfo Method, Access [vbaac10.chm12727]
 keywords: vbaac10.chm12727
 f1_keywords:
 - vbaac10.chm12727
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# UpdateDependencyInfo Method, Access [vbaac10.chm12727]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método UpdateDependencyInfo, Access [vbaac10.chm12727]
+[CodeProject.UpdateDependencyInfo Method (Access)](http://msdn.microsoft.com/library/52530a57-6246-d204-b317-0673f762f138%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.UpdateDependencyInfo Method (Access)](http://msdn.microsoft.com/library/90461646-22a6-bfa8-4663-9f05c8ac3757%28Office.15%29.aspx)
 
-
- [Método CodeProject.UpdateDependencyInfo (Access)](http://msdn.microsoft.com/library/codeproject.updatedependencyinfo-method-access%28Office.15%29.aspx)
-
-
- [Método CurrentProject.UpdateDependencyInfo (Access)](http://msdn.microsoft.com/library/currentproject.updatedependencyinfo-method-access%28Office.15%29.aspx)
 

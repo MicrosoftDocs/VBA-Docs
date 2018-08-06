@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelSuspendEvents, Visio [vis_sdr.chm10062045]
+title: QueryCancelSuspendEvents Event, Visio [vis_sdr.chm10062045]
 keywords: vis_sdr.chm10062045
 f1_keywords:
 - vis_sdr.chm10062045
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelSuspendEvents Event, Visio [vis_sdr.chm10062045]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelSuspendEvents, Visio [vis_sdr.chm10062045]
+[Application.QueryCancelSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/886fa424-67b3-6a4d-f0bb-99ee646b0753%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.QueryCancelSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/375763d4-fbb8-fa08-8fcd-bf5dc80aceb9%28Office.15%29.aspx)
 
-
- [Evento Application.QueryCancelSuspendEvents (Visio)](http://msdn.microsoft.com/library/application.querycancelsuspendevents-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.QueryCancelSuspendEvents (Visio)](http://msdn.microsoft.com/library/invisibleapp.querycancelsuspendevents-event-visio%28Office.15%29.aspx)
 

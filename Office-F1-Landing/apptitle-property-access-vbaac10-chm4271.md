@@ -1,5 +1,5 @@
 ---
-title: Propiedad AppTitle, Access [vbaac10.chm4271]
+title: AppTitle Property, Access [vbaac10.chm4271]
 keywords: vbaac10.chm4271
 f1_keywords:
 - vbaac10.chm4271
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AppTitle Property, Access [vbaac10.chm4271]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AppTitle, Access [vbaac10.chm4271]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AppTitle (propiedad)](http://msdn.microsoft.com/library/apptitle-property%28Office.15%29.aspx)
-
+[AppTitle Property](http://msdn.microsoft.com/library/a505f465-7813-6677-dd80-21a757c9d422%28Office.15%29.aspx)
 

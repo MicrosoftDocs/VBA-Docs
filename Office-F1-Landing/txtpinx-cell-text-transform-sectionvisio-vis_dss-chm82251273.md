@@ -1,5 +1,5 @@
 ---
-title: Celda TxtPinX (sección Text Transform), Visio [Vis_DSS.chm82251273]
+title: TxtPinX Cell (Text Transform Section), Visio [Vis_DSS.chm82251273]
 keywords: vis_dss.chm82251273
 f1_keywords:
 - vis_dss.chm82251273
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtPinX Cell (Text Transform Section), Visio [Vis_DSS.chm82251273]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtPinX (sección Text Transform), Visio [Vis_DSS.chm82251273]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtPinX (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtpinx-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtPinX Cell (Text Transform Section)](http://msdn.microsoft.com/library/d0c0fe52-6a9e-e40e-394e-83a851db55a4%28Office.15%29.aspx)
 

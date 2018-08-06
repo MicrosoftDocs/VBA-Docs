@@ -1,5 +1,5 @@
 ---
-title: Propiedad SecondPlotSize, Excel [vbagr10.chm67193]
+title: SecondPlotSize Property, Excel [vbagr10.chm67193]
 keywords: vbagr10.chm67193
 f1_keywords:
 - vbagr10.chm67193
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SecondPlotSize Property, Excel [vbagr10.chm67193]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SecondPlotSize, Excel [vbagr10.chm67193]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SecondPlotSize (propiedad)](http://msdn.microsoft.com/library/secondplotsize-property%28Office.15%29.aspx)
-
+[SecondPlotSize Property](http://msdn.microsoft.com/library/43d450e1-0ef0-fd51-fbf1-b07742217fc9%28Office.15%29.aspx)
 

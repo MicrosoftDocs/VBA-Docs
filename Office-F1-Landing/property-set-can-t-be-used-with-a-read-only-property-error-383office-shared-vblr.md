@@ -1,5 +1,5 @@
 ---
-title: La propiedad Set no puede usarse con una propiedad de solo lectura (error 383), Office Shared [vblr6.chm1107960]
+title: Property Set can't be used with a read-only property (Error 383), Office Shared [vblr6.chm1107960]
 keywords: vblr6.chm1107960
 f1_keywords:
 - vblr6.chm1107960
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property Set can't be used with a read-only property (Error 383), Office Shared [vblr6.chm1107960]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La propiedad Set no puede usarse con una propiedad de solo lectura (error 383), Office Shared [vblr6.chm1107960]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad Set no se puede usar con una propiedad de solo lectura (error 383)](http://msdn.microsoft.com/library/property-set-can-t-be-used-with-a-read-only-property-error-383%28Office.15%29.aspx)
-
+[Property Set can't be used with a read-only property (Error 383)](http://msdn.microsoft.com/library/42ea9723-86e1-7409-844e-9bda4be80c5f%28Office.15%29.aspx)
 

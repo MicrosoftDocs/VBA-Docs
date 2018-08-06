@@ -1,5 +1,5 @@
 ---
-title: Celda Format (sección Text Fields), Visio [vis_sdr.chm400]
+title: Format Cell (Text Fields Section), Visio [vis_sdr.chm400]
 keywords: vis_sdr.chm400
 f1_keywords:
 - vis_sdr.chm400
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Format Cell (Text Fields Section), Visio [vis_sdr.chm400]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Format (sección Text Fields), Visio [vis_sdr.chm400]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Format (Sección de campos de texto)](http://msdn.microsoft.com/library/format-cell-text-fields-section%28Office.15%29.aspx)
-
+[Format Cell (Text Fields Section)](http://msdn.microsoft.com/library/ab937a00-84c2-6c1c-9080-b7c95ead4f63%28Office.15%29.aspx)
 

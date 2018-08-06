@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackColor, Office Shared [fm20.chm5225006]
+title: BackColor Property, Office Shared [fm20.chm5225006]
 keywords: fm20.chm5225006
 f1_keywords:
 - fm20.chm5225006
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BackColor Property, Office Shared [fm20.chm5225006]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackColor, Office Shared [fm20.chm5225006]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad BackStyle (Microsoft Forms)](http://msdn.microsoft.com/library/backcolor-property-microsoft-forms%28Office.15%29.aspx)
-
+[BackColor Property (Microsoft Forms)](http://msdn.microsoft.com/library/70549eaf-d785-67e7-3f04-76151864d850%28Office.15%29.aspx)
 

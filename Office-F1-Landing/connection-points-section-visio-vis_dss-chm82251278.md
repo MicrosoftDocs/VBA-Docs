@@ -1,5 +1,5 @@
 ---
-title: Sección Connection Points, Visio [Vis_DSS.chm82251278]
+title: Connection Points Section, Visio [Vis_DSS.chm82251278]
 keywords: vis_dss.chm82251278
 f1_keywords:
 - vis_dss.chm82251278
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Connection Points Section, Visio [Vis_DSS.chm82251278]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Connection Points, Visio [Vis_DSS.chm82251278]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de puntos de conexión](http://msdn.microsoft.com/library/connection-points-section%28Office.15%29.aspx)
-
+[Connection Points Section](http://msdn.microsoft.com/library/e0c9d25d-933c-1c46-2cdd-3fa6ba3e56af%28Office.15%29.aspx)
 

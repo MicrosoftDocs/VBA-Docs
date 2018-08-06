@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllTables, Access [vbaac10.chm12732]
+title: AllTables Property, Access [vbaac10.chm12732]
 keywords: vbaac10.chm12732
 f1_keywords:
 - vbaac10.chm12732
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllTables Property, Access [vbaac10.chm12732]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllTables, Access [vbaac10.chm12732]
+[CurrentData.AllTables Property (Access)](http://msdn.microsoft.com/library/7d3216da-6db1-5ca1-4163-56f354185337%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeData.AllTables Property (Access)](http://msdn.microsoft.com/library/d7feab36-aa71-6085-f395-a23571460d25%28Office.15%29.aspx)
 
-
- [Propiedad CurrentData.AllTables (Access)](http://msdn.microsoft.com/library/currentdata.alltables-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeData.AllTables (Access)](http://msdn.microsoft.com/library/codedata.alltables-property-access%28Office.15%29.aspx)
 

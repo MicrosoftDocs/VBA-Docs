@@ -1,5 +1,5 @@
 ---
-title: Propiedad Description (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102257]
+title: Description Property (VBA Add-In Object Model), Office Shared [vbob6.chm102257]
 keywords: vbob6.chm102257
 f1_keywords:
 - vbob6.chm102257
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Description Property (VBA Add-In Object Model), Office Shared [vbob6.chm102257]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Description (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102257]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Description (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/description-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Description Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/135aaff8-0ea8-727a-cee0-44e71b7e7c46%28Office.15%29.aspx)
 

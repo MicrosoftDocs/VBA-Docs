@@ -1,5 +1,5 @@
 ---
-title: El rango no tiene ningún valor, Office Shared [vblr6.chm1011182]
+title: Range has no values, Office Shared [vblr6.chm1011182]
 keywords: vblr6.chm1011182
 f1_keywords:
 - vblr6.chm1011182
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Range has no values, Office Shared [vblr6.chm1011182]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El rango no tiene ningún valor, Office Shared [vblr6.chm1011182]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El intervalo no tiene valores](http://msdn.microsoft.com/library/range-has-no-values%28Office.15%29.aspx)
-
+[Range has no values](http://msdn.microsoft.com/library/5e74762b-e8b1-cf82-8185-227065bb5f8a%28Office.15%29.aspx)
 

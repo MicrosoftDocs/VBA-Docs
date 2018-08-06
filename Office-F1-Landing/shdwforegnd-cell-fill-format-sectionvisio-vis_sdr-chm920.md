@@ -1,5 +1,5 @@
 ---
-title: Celda ShdwForegnd (sección Fill Format), Visio [vis_sdr.chm920]
+title: ShdwForegnd Cell (Fill Format Section), Visio [vis_sdr.chm920]
 keywords: vis_sdr.chm920
 f1_keywords:
 - vis_sdr.chm920
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShdwForegnd Cell (Fill Format Section), Visio [vis_sdr.chm920]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShdwForegnd (sección Fill Format), Visio [vis_sdr.chm920]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShdwForegnd (Sección de formato de relleno)](http://msdn.microsoft.com/library/shdwforegnd-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShdwForegnd Cell (Fill Format Section)](http://msdn.microsoft.com/library/ea153390-631d-79fd-c1ba-4c281239a24e%28Office.15%29.aspx)
 

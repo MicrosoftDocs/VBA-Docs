@@ -1,5 +1,5 @@
 ---
-title: No se puede cargar ni descargar este archivo (error 361), Office Shared [vblr6.chm361]
+title: Can't load or unload this object (Error 361), Office Shared [vblr6.chm361]
 keywords: vblr6.chm361
 f1_keywords:
 - vblr6.chm361
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't load or unload this object (Error 361), Office Shared [vblr6.chm361]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede cargar ni descargar este archivo (error 361), Office Shared [vblr6.chm361]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede cargar o descargar este objeto (error 361)](http://msdn.microsoft.com/library/can-t-load-or-unload-this-object-error-361%28Office.15%29.aspx)
-
+[Can't load or unload this object (Error 361)](http://msdn.microsoft.com/library/78438f88-b013-a3d1-9a57-f3a1781691f5%28Office.15%29.aspx)
 

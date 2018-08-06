@@ -1,5 +1,5 @@
 ---
-title: Celda PageHeight (sección Propiedades de página), Visio [vis_sdr.chm760]
+title: PageHeight Cell (Page Properties Section), Visio [vis_sdr.chm760]
 keywords: vis_sdr.chm760
 f1_keywords:
 - vis_sdr.chm760
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Celda PageHeight (sección Propiedades de página), Visio [vis_sdr.chm760]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda PageHeight (Sección de propiedades de página)](http://msdn.microsoft.com/library/pageheight-cell-page-properties-section%28Office.15%29.aspx)
-
+# PageHeight Cell (Page Properties Section), Visio [vis_sdr.chm760]
 

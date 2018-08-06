@@ -1,5 +1,5 @@
 ---
-title: Propiedad Format, Access [vbaac10.chm4362]
+title: Format Property, Access [vbaac10.chm4362]
 keywords: vbaac10.chm4362
 f1_keywords:
 - vbaac10.chm4362
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Format Property, Access [vbaac10.chm4362]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Format, Access [vbaac10.chm4362]
+[TextBox.Format Property (Access)](http://msdn.microsoft.com/library/c89491e2-09f8-d928-1aed-9d839545a694%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.Format Property (Access)](http://msdn.microsoft.com/library/9bb18f6a-0a25-9bbf-88ba-adf603c11826%28Office.15%29.aspx)
 
-
- [TextBox.Format (propiedad) (Access)](http://msdn.microsoft.com/library/textbox.format-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.Format (Access)](http://msdn.microsoft.com/library/combobox.format-property-access%28Office.15%29.aspx)
 

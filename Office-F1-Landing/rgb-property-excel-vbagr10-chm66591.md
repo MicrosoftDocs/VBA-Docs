@@ -1,5 +1,5 @@
 ---
-title: Propiedad RGB, Excel [vbagr10.chm66591]
+title: RGB Property, Excel [vbagr10.chm66591]
 keywords: vbagr10.chm66591
 f1_keywords:
 - vbagr10.chm66591
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RGB Property, Excel [vbagr10.chm66591]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RGB, Excel [vbagr10.chm66591]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [RGB (propiedad)](http://msdn.microsoft.com/library/rgb-property%28Office.15%29.aspx)
-
+[RGB Property](http://msdn.microsoft.com/library/bb3dbad0-a96a-969d-1234-ee9cf59e4c87%28Office.15%29.aspx)
 

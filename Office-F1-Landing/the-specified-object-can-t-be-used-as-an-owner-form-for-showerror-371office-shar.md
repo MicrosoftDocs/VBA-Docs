@@ -1,5 +1,5 @@
 ---
-title: El objeto especificado no se puede usar como formulario de propietario para Show() (error 371), Office Shared [vblr6.chm371]
+title: The specified object can't be used as an owner form for Show() (Error 371), Office Shared [vblr6.chm371]
 keywords: vblr6.chm371
 f1_keywords:
 - vblr6.chm371
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The specified object can't be used as an owner form for Show() (Error 371), Office Shared [vblr6.chm371]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El objeto especificado no se puede usar como formulario de propietario para Show() (error 371), Office Shared [vblr6.chm371]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto seleccionado no se puede usar como formulario propietario de Show() (error 371)](http://msdn.microsoft.com/library/the-specified-object-can-t-be-used-as-an-owner-form-for-show--error-371%28Office.15%29.aspx)
-
+[The specified object can't be used as an owner form for Show() (Error 371)](http://msdn.microsoft.com/library/f64e348c-428a-59a2-cae0-3bf16157965f%28Office.15%29.aspx)
 

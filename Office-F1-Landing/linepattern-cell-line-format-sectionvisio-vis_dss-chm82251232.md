@@ -1,5 +1,5 @@
 ---
-title: Celda LinePattern (sección Line Format), Visio [Vis_DSS.chm82251232]
+title: LinePattern Cell (Line Format Section), Visio [Vis_DSS.chm82251232]
 keywords: vis_dss.chm82251232
 f1_keywords:
 - vis_dss.chm82251232
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LinePattern Cell (Line Format Section), Visio [Vis_DSS.chm82251232]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LinePattern (sección Line Format), Visio [Vis_DSS.chm82251232]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LinePattern (Sección de formato de línea)](http://msdn.microsoft.com/library/linepattern-cell-line-format-section%28Office.15%29.aspx)
-
+[LinePattern Cell (Line Format Section)](http://msdn.microsoft.com/library/a416762b-7294-c99f-d9f1-332c3ed35dff%28Office.15%29.aspx)
 

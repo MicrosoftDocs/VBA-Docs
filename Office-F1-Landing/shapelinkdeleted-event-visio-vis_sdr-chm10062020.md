@@ -1,5 +1,5 @@
 ---
-title: Evento ShapeLinkDeleted, Visio [vis_sdr.chm10062020]
+title: ShapeLinkDeleted Event, Visio [vis_sdr.chm10062020]
 keywords: vis_sdr.chm10062020
 f1_keywords:
 - vis_sdr.chm10062020
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeLinkDeleted Event, Visio [vis_sdr.chm10062020]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ShapeLinkDeleted, Visio [vis_sdr.chm10062020]
+[InvisibleApp.ShapeLinkDeleted Event (Visio)](http://msdn.microsoft.com/library/01b968ce-ec8b-0dc3-f804-318b57fa0635%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.ShapeLinkDeleted Event (Visio)](http://msdn.microsoft.com/library/c1ae3fda-d5fb-210e-7e84-98ffde8bbd29%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.ShapeLinkDeleted (Visio)](http://msdn.microsoft.com/library/invisibleapp.shapelinkdeleted-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.ShapeLinkDeleted (Visio)](http://msdn.microsoft.com/library/application.shapelinkdeleted-event-visio%28Office.15%29.aspx)
 

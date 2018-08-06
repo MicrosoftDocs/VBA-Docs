@@ -1,5 +1,5 @@
 ---
-title: Evento WindowChanged, Visio [vis_sdr.chm11619275]
+title: WindowChanged Event, Visio [vis_sdr.chm11619275]
 keywords: vis_sdr.chm11619275
 f1_keywords:
 - vis_sdr.chm11619275
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowChanged Event, Visio [vis_sdr.chm11619275]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento WindowChanged, Visio [vis_sdr.chm11619275]
+[Window.WindowChanged Event (Visio)](http://msdn.microsoft.com/library/ee7e4871-26ca-ea4e-1c7b-2e597d92e143%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.WindowChanged Event (Visio)](http://msdn.microsoft.com/library/a8e07754-d272-0874-ac0c-ea54174431d5%28Office.15%29.aspx)
 
-
- [Evento Window.WindowChanged (Visio)](http://msdn.microsoft.com/library/window.windowchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.WindowChanged (Visio)](http://msdn.microsoft.com/library/drawingcontrol.windowchanged-event-visio%28Office.15%29.aspx)
 

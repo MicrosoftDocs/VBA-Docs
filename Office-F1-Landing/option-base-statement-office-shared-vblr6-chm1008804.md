@@ -1,5 +1,5 @@
 ---
-title: Instrucción base de opción, Office Shared [vblr6.chm1008804]
+title: Option Base Statement, Office Shared [vblr6.chm1008804]
 keywords: vblr6.chm1008804
 f1_keywords:
 - vblr6.chm1008804
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Option Base Statement, Office Shared [vblr6.chm1008804]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción base de opción, Office Shared [vblr6.chm1008804]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Option Base](http://msdn.microsoft.com/library/option-base-statement%28Office.15%29.aspx)
-
+[Option Base Statement](http://msdn.microsoft.com/library/21f45e9e-2cb2-3a45-0484-d23adae77e3e%28Office.15%29.aspx)
 

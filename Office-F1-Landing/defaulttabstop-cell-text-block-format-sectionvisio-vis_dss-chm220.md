@@ -1,5 +1,5 @@
 ---
-title: Celda DefaultTabstop (sección Text Block Format), Visio [Vis_DSS.chm220]
+title: DefaultTabstop Cell (Text Block Format Section), Visio [Vis_DSS.chm220]
 keywords: vis_dss.chm220
 f1_keywords:
 - vis_dss.chm220
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DefaultTabstop Cell (Text Block Format Section), Visio [Vis_DSS.chm220]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda DefaultTabstop (sección Text Block Format), Visio [Vis_DSS.chm220]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda DefaultTabstop (Sección de formato del bloque de texto)](http://msdn.microsoft.com/library/defaulttabstop-cell-text-block-format-section%28Office.15%29.aspx)
-
+[DefaultTabstop Cell (Text Block Format Section)](http://msdn.microsoft.com/library/3b3e458a-206c-8699-8bf7-da80f4350706%28Office.15%29.aspx)
 

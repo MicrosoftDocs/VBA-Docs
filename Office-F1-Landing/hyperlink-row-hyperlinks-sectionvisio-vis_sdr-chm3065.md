@@ -1,5 +1,5 @@
 ---
-title: Fila Hyperlink (sección Hyperlinks), Visio [vis_sdr.chm3065]
+title: Hyperlink Row (Hyperlinks Section), Visio [vis_sdr.chm3065]
 keywords: vis_sdr.chm3065
 f1_keywords:
 - vis_sdr.chm3065
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Hyperlink Row (Hyperlinks Section), Visio [vis_sdr.chm3065]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila Hyperlink (sección Hyperlinks), Visio [vis_sdr.chm3065]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila Hyperlink (Sección de hipervínculos)](http://msdn.microsoft.com/library/hyperlink-row-hyperlinks-section%28Office.15%29.aspx)
-
+[Hyperlink Row (Hyperlinks Section)](http://msdn.microsoft.com/library/e3c7ae27-2e54-a174-4fb3-d16093faf759%28Office.15%29.aspx)
 

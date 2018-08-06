@@ -1,5 +1,5 @@
 ---
-title: Celda Checked (sección Acciones), Visio [Vis_DSS.chm82251336]
+title: Checked Cell (Actions Section), Visio [Vis_DSS.chm82251336]
 keywords: vis_dss.chm82251336
 f1_keywords:
 - vis_dss.chm82251336
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Checked Cell (Actions Section), Visio [Vis_DSS.chm82251336]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Checked (sección Acciones), Visio [Vis_DSS.chm82251336]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Checked (sección de acciones)](http://msdn.microsoft.com/library/checked-cell-actions-section%28Office.15%29.aspx)
-
+[Checked Cell (Actions Section)](http://msdn.microsoft.com/library/50937e29-eaa1-0cd0-53cc-dc17e7793e55%28Office.15%29.aspx)
 

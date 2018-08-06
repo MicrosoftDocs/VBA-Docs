@@ -1,5 +1,5 @@
 ---
-title: Control Casilla, Office Shared [fm20.chm2000470]
+title: CheckBox Control, Office Shared [fm20.chm2000470]
 keywords: fm20.chm2000470
 f1_keywords:
 - fm20.chm2000470
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CheckBox Control, Office Shared [fm20.chm2000470]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Casilla, Office Shared [fm20.chm2000470]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control CheckBox](http://msdn.microsoft.com/library/checkbox-control%28Office.15%29.aspx)
-
+[CheckBox Control](http://msdn.microsoft.com/library/24d90604-51ec-7f7d-e679-52391b2c27c0%28Office.15%29.aspx)
 

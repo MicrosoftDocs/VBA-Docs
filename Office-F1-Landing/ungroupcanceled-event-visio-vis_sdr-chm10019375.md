@@ -1,5 +1,5 @@
 ---
-title: Evento UngroupCanceled, Visio [vis_sdr.chm10019375]
+title: UngroupCanceled Event, Visio [vis_sdr.chm10019375]
 keywords: vis_sdr.chm10019375
 f1_keywords:
 - vis_sdr.chm10019375
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# UngroupCanceled Event, Visio [vis_sdr.chm10019375]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento UngroupCanceled, Visio [vis_sdr.chm10019375]
+[Application.UngroupCanceled Event (Visio)](http://msdn.microsoft.com/library/2b1ed000-b755-913e-b531-cc6a5a224ac4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.UngroupCanceled Event (Visio)](http://msdn.microsoft.com/library/6b42a73e-d913-0293-36c8-e8144d7a4999%28Office.15%29.aspx)
 
-
- [Evento Application.UngroupCanceled (Visio)](http://msdn.microsoft.com/library/application.ungroupcanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.UngroupCanceled (Visio)](http://msdn.microsoft.com/library/invisibleapp.ungroupcanceled-event-visio%28Office.15%29.aspx)
 

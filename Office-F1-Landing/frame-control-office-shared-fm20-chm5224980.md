@@ -1,5 +1,5 @@
 ---
-title: Control Frame, Office Shared [fm20.chm5224980]
+title: Frame Control, Office Shared [fm20.chm5224980]
 keywords: fm20.chm5224980
 f1_keywords:
 - fm20.chm5224980
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Frame Control, Office Shared [fm20.chm5224980]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Frame, Office Shared [fm20.chm5224980]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Marco](http://msdn.microsoft.com/library/frame-control%28Office.15%29.aspx)
-
+[Frame Control](http://msdn.microsoft.com/library/f7f51c75-f972-329b-4971-be22165129e0%28Office.15%29.aspx)
 

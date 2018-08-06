@@ -1,5 +1,5 @@
 ---
-title: Errores durante la carga, Office Shared [vblr6.chm60096]
+title: Errors occurred during load, Office Shared [vblr6.chm60096]
 keywords: vblr6.chm60096
 f1_keywords:
 - vblr6.chm60096
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Errors occurred during load, Office Shared [vblr6.chm60096]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Errores durante la carga, Office Shared [vblr6.chm60096]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se han producido errores durante la carga.](http://msdn.microsoft.com/library/errors-occurred-during-load%28Office.15%29.aspx)
-
+[Errors occurred during load](http://msdn.microsoft.com/library/85e87428-6774-501d-8e86-b84ef1010313%28Office.15%29.aspx)
 

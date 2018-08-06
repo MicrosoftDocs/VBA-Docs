@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnRetreat, Access [vbaac10.chm12206]
+title: OnRetreat Property, Access [vbaac10.chm12206]
 keywords: vbaac10.chm12206
 f1_keywords:
 - vbaac10.chm12206
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnRetreat Property, Access [vbaac10.chm12206]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnRetreat, Access [vbaac10.chm12206]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.OnRetreat (Access)](http://msdn.microsoft.com/library/section.onretreat-property-access%28Office.15%29.aspx)
-
+[Section.OnRetreat Property (Access)](http://msdn.microsoft.com/library/0da552f0-72bc-3886-2708-a8c4180f4903%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Moveable, Access [vbaac10.chm5054]
+title: Moveable Property, Access [vbaac10.chm5054]
 keywords: vbaac10.chm5054
 f1_keywords:
 - vbaac10.chm5054
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Moveable Property, Access [vbaac10.chm5054]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Moveable, Access [vbaac10.chm5054]
+[Report.Moveable Property (Access)](http://msdn.microsoft.com/library/77e682a5-7a0f-f55e-a469-2770bb2de844%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.Moveable Property (Access)](http://msdn.microsoft.com/library/ad0db2eb-9905-15d9-7a96-e61cefd12842%28Office.15%29.aspx)
 
-
- [Propiedad Report.Moveable (Access)](http://msdn.microsoft.com/library/report.moveable-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.Moveable (Access)](http://msdn.microsoft.com/library/form.moveable-property-access%28Office.15%29.aspx)
 

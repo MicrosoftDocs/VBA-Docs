@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoRepeat, Access [vbaac10.chm10457]
+title: AutoRepeat Property, Access [vbaac10.chm10457]
 keywords: vbaac10.chm10457
 f1_keywords:
 - vbaac10.chm10457
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoRepeat Property, Access [vbaac10.chm10457]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoRepeat, Access [vbaac10.chm10457]
+[NavigationButton.AutoRepeat Property (Access)](http://msdn.microsoft.com/library/2348359a-3d49-7ad1-2afe-21e2b73c4923%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.AutoRepeat Property (Access)](http://msdn.microsoft.com/library/028a5bdd-1e37-0499-202f-c9e3fdb83838%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.AutoRepeat (Access)](http://msdn.microsoft.com/library/navigationbutton.autorepeat-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.AutoRepeat (Access)](http://msdn.microsoft.com/library/commandbutton.autorepeat-property-access%28Office.15%29.aspx)
 

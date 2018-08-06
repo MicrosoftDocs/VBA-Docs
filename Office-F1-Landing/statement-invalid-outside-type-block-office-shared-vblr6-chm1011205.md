@@ -1,5 +1,5 @@
 ---
-title: Instrucción no válida fuera del bloque de creación, Office Shared [vblr6.chm1011205]
+title: Statement invalid outside Type block, Office Shared [vblr6.chm1011205]
 keywords: vblr6.chm1011205
 f1_keywords:
 - vblr6.chm1011205
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Statement invalid outside Type block, Office Shared [vblr6.chm1011205]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción no válida fuera del bloque de creación, Office Shared [vblr6.chm1011205]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción no válida fuera del bloque Type](http://msdn.microsoft.com/library/statement-invalid-outside-type-block%28Office.15%29.aspx)
-
+[Statement invalid outside Type block](http://msdn.microsoft.com/library/287d4cf7-257a-2cc4-2e5d-42e578c8b862%28Office.15%29.aspx)
 

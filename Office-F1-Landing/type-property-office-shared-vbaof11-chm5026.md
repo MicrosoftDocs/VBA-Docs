@@ -1,5 +1,5 @@
 ---
-title: Propiedad Type, Office Shared [vbaof11.chm5026]
+title: Type Property, Office Shared [vbaof11.chm5026]
 keywords: vbaof11.chm5026
 f1_keywords:
 - vbaof11.chm5026
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Type Property, Office Shared [vbaof11.chm5026]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Type, Office Shared [vbaof11.chm5026]
+[CommandBarComboBox.Type Property (Office)](http://msdn.microsoft.com/library/1f8d29ac-f429-7190-f5b9-76eb0aa5a0be%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarButton.Type Property (Office)](http://msdn.microsoft.com/library/f317eb14-a5d6-857e-6b6b-89391937db96%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarComboBox.Type (Office)](http://msdn.microsoft.com/library/commandbarcombobox.type-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarButton.Type (Office)](http://msdn.microsoft.com/library/commandbarbutton.type-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarPopup.Type (Office)](http://msdn.microsoft.com/library/commandbarpopup.type-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarControl.Type (Office)](http://msdn.microsoft.com/library/commandbarcontrol.type-property-office%28Office.15%29.aspx)
-
+[CommandBarPopup.Type Property (Office)](http://msdn.microsoft.com/library/1ef5e542-7fa6-1527-26d0-cf8a6c755979%28Office.15%29.aspx)
+[CommandBarControl.Type Property (Office)](http://msdn.microsoft.com/library/a0f20db6-a8a2-98e2-6f4e-efd9043df0c2%28Office.15%29.aspx)
 

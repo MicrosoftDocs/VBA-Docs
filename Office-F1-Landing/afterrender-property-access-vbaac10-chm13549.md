@@ -1,5 +1,5 @@
 ---
-title: Propiedad AfterRender, Access [vbaac10.chm13549]
+title: AfterRender Property, Access [vbaac10.chm13549]
 keywords: vbaac10.chm13549
 f1_keywords:
 - vbaac10.chm13549
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AfterRender Property, Access [vbaac10.chm13549]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AfterRender, Access [vbaac10.chm13549]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.AfterRender (Access)](http://msdn.microsoft.com/library/form.afterrender-property-access%28Office.15%29.aspx)
-
+[Form.AfterRender Property (Access)](http://msdn.microsoft.com/library/868b9a9d-a1e3-d460-fa7c-26cb5791c5ad%28Office.15%29.aspx)
 

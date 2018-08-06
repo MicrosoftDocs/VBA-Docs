@@ -1,5 +1,5 @@
 ---
-title: Celda PageLineJumpDirX (sección Page Layout), Visio [Vis_DSS.chm765]
+title: PageLineJumpDirX Cell (Page Layout Section), Visio [Vis_DSS.chm765]
 keywords: vis_dss.chm765
 f1_keywords:
 - vis_dss.chm765
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PageLineJumpDirX Cell (Page Layout Section), Visio [Vis_DSS.chm765]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda PageLineJumpDirX (sección Page Layout), Visio [Vis_DSS.chm765]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda PageLineJumpDirX (Sección de diseño de página)](http://msdn.microsoft.com/library/pagelinejumpdirx-cell-page-layout-section%28Office.15%29.aspx)
-
+[PageLineJumpDirX Cell (Page Layout Section)](http://msdn.microsoft.com/library/77892ec7-4c6a-78a5-5af4-5b6be7709e77%28Office.15%29.aspx)
 

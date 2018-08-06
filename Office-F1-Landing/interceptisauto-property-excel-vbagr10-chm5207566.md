@@ -1,5 +1,5 @@
 ---
-title: Propiedad InterceptIsAuto, Excel [vbagr10.chm5207566]
+title: InterceptIsAuto Property, Excel [vbagr10.chm5207566]
 keywords: vbagr10.chm5207566
 f1_keywords:
 - vbagr10.chm5207566
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# InterceptIsAuto Property, Excel [vbagr10.chm5207566]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad InterceptIsAuto, Excel [vbagr10.chm5207566]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [InterceptIsAuto (propiedad)](http://msdn.microsoft.com/library/interceptisauto-property%28Office.15%29.aspx)
-
+[InterceptIsAuto Property](http://msdn.microsoft.com/library/fd5b2155-8b45-8a67-19c9-8a18a4d3f6f3%28Office.15%29.aspx)
 

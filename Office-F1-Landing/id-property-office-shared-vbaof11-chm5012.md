@@ -1,5 +1,5 @@
 ---
-title: Propiedad Id, Office Shared [vbaof11.chm5012]
+title: Id Property, Office Shared [vbaof11.chm5012]
 keywords: vbaof11.chm5012
 f1_keywords:
 - vbaof11.chm5012
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Id Property, Office Shared [vbaof11.chm5012]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Id, Office Shared [vbaof11.chm5012]
+[CommandBarButton.Id Property (Office)](http://msdn.microsoft.com/library/d559a98c-b9b2-a987-c7af-278734a9545d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarPopup.Id Property (Office)](http://msdn.microsoft.com/library/7bddc643-ec4f-7fa5-d5e4-a4677cf564fa%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarButton.Id (Office)](http://msdn.microsoft.com/library/commandbarbutton.id-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarPopup.Id (Office)](http://msdn.microsoft.com/library/commandbarpopup.id-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.Id (Office)](http://msdn.microsoft.com/library/commandbarcontrol.id-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarComboBox.Id (Office)](http://msdn.microsoft.com/library/commandbarcombobox.id-property-office%28Office.15%29.aspx)
-
+[CommandBarControl.Id Property (Office)](http://msdn.microsoft.com/library/0931a07a-4a6b-cc84-a43b-b57ea9a22b78%28Office.15%29.aspx)
+[CommandBarComboBox.Id Property (Office)](http://msdn.microsoft.com/library/9cc143cb-4063-b397-05c9-d50a7c2efcb0%28Office.15%29.aspx)
 

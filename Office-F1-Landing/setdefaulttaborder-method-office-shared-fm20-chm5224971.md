@@ -1,5 +1,5 @@
 ---
-title: Método SetDefaultTabOrder, Office Shared [fm20.chm5224971]
+title: SetDefaultTabOrder Method, Office Shared [fm20.chm5224971]
 keywords: fm20.chm5224971
 f1_keywords:
 - fm20.chm5224971
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SetDefaultTabOrder Method, Office Shared [fm20.chm5224971]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetDefaultTabOrder, Office Shared [fm20.chm5224971]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método SetDefaultTabOrder](http://msdn.microsoft.com/library/setdefaulttaborder-method%28Office.15%29.aspx)
-
+[SetDefaultTabOrder Method](http://msdn.microsoft.com/library/fd4661ee-a995-1872-509b-edffa6dbbf80%28Office.15%29.aspx)
 

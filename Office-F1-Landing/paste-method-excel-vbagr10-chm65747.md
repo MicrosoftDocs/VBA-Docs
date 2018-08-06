@@ -1,5 +1,5 @@
 ---
-title: Método Paste, Excel [vbagr10.chm65747]
+title: Paste Method, Excel [vbagr10.chm65747]
 keywords: vbagr10.chm65747
 f1_keywords:
 - vbagr10.chm65747
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Paste Method, Excel [vbagr10.chm65747]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Paste, Excel [vbagr10.chm65747]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Paste](http://msdn.microsoft.com/library/paste-method-1%28Office.15%29.aspx)
-
+[Paste Method](http://msdn.microsoft.com/library/4cb4fa45-b319-f3a8-e477-80b96060905b%28Office.15%29.aspx)
 

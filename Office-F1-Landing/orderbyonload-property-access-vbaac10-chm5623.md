@@ -1,5 +1,5 @@
 ---
-title: Propiedad OrderByOnLoad, Access [vbaac10.chm5623]
+title: OrderByOnLoad Property, Access [vbaac10.chm5623]
 keywords: vbaac10.chm5623
 f1_keywords:
 - vbaac10.chm5623
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OrderByOnLoad Property, Access [vbaac10.chm5623]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OrderByOnLoad, Access [vbaac10.chm5623]
+[Form.OrderByOnLoad Property (Access)](http://msdn.microsoft.com/library/8acb931e-d0fc-4a17-cd89-1f802af4e4d1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.OrderByOnLoad Property (Access)](http://msdn.microsoft.com/library/28c05775-7090-a699-c7be-8a17b43210b0%28Office.15%29.aspx)
 
-
- [Propiedad Form.OrderByOnLoad (Access)](http://msdn.microsoft.com/library/form.orderbyonload-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.OrderByOnLoad (Access)](http://msdn.microsoft.com/library/report.orderbyonload-property-access%28Office.15%29.aspx)
 

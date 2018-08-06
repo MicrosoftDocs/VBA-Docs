@@ -1,5 +1,5 @@
 ---
-title: Propiedad RightAngleAxes, Excel [vbagr10.chm65594]
+title: RightAngleAxes Property, Excel [vbagr10.chm65594]
 keywords: vbagr10.chm65594
 f1_keywords:
 - vbagr10.chm65594
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RightAngleAxes Property, Excel [vbagr10.chm65594]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RightAngleAxes, Excel [vbagr10.chm65594]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [RightAngleAxes (propiedad)](http://msdn.microsoft.com/library/rightangleaxes-property%28Office.15%29.aspx)
-
+[RightAngleAxes Property](http://msdn.microsoft.com/library/5c34e5b4-a936-70a5-cd0c-d9a7a091e8d0%28Office.15%29.aspx)
 

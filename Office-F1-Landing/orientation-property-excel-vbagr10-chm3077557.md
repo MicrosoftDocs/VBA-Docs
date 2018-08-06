@@ -1,5 +1,5 @@
 ---
-title: Propiedad Orientation, Excel [vbagr10.chm3077557]
+title: Orientation Property, Excel [vbagr10.chm3077557]
 keywords: vbagr10.chm3077557
 f1_keywords:
 - vbagr10.chm3077557
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Orientation Property, Excel [vbagr10.chm3077557]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Orientation, Excel [vbagr10.chm3077557]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Orientation (gráfico)](http://msdn.microsoft.com/library/orientation-property-graph%28Office.15%29.aspx)
-
+[Orientation Property (Graph)](http://msdn.microsoft.com/library/1e4e111c-5144-a509-4791-e8ca31c3de5e%28Office.15%29.aspx)
 

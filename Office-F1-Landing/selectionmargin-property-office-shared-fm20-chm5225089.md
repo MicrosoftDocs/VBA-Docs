@@ -1,5 +1,5 @@
 ---
-title: Propiedad SelectionMargin, Office Shared [fm20.chm5225089]
+title: SelectionMargin Property, Office Shared [fm20.chm5225089]
 keywords: fm20.chm5225089
 f1_keywords:
 - fm20.chm5225089
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SelectionMargin Property, Office Shared [fm20.chm5225089]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SelectionMargin, Office Shared [fm20.chm5225089]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad SelectionMargin](http://msdn.microsoft.com/library/selectionmargin-property%28Office.15%29.aspx)
-
+[SelectionMargin Property](http://msdn.microsoft.com/library/1e86e761-7427-e6a2-0b66-887bf89f9fa7%28Office.15%29.aspx)
 

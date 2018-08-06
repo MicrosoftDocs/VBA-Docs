@@ -1,5 +1,5 @@
 ---
-title: Celda Style (sección Character), Visio [Vis_DSS.chm980]
+title: Style Cell (Character Section), Visio [Vis_DSS.chm980]
 keywords: vis_dss.chm980
 f1_keywords:
 - vis_dss.chm980
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Style Cell (Character Section), Visio [Vis_DSS.chm980]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Style (sección Character), Visio [Vis_DSS.chm980]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Style (Sección de caracteres)](http://msdn.microsoft.com/library/style-cell-character-section%28Office.15%29.aspx)
-
+[Style Cell (Character Section)](http://msdn.microsoft.com/library/4372f1e1-f0a9-2f63-ff79-58f2afdceed5%28Office.15%29.aspx)
 

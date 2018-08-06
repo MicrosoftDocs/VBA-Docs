@@ -1,5 +1,5 @@
 ---
-title: Error de acceso al archivo/ruta de acceso (error 75), Office Shared [vblr6.chm50034]
+title: Path/File access error (Error 75), Office Shared [vblr6.chm50034]
 keywords: vblr6.chm50034
 f1_keywords:
 - vblr6.chm50034
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Path/File access error (Error 75), Office Shared [vblr6.chm50034]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de acceso al archivo/ruta de acceso (error 75), Office Shared [vblr6.chm50034]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de acceso a ruta de acceso/archivo (error 75)](http://msdn.microsoft.com/library/path-file-access-error-error-75%28Office.15%29.aspx)
-
+[Path/File access error (Error 75)](http://msdn.microsoft.com/library/5c1e151a-facd-6e55-d075-f7faef4a2793%28Office.15%29.aspx)
 

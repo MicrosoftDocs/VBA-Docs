@@ -1,5 +1,5 @@
 ---
-title: Propiedad CursorOnHover, Access [vbaac10.chm10541]
+title: CursorOnHover Property, Access [vbaac10.chm10541]
 keywords: vbaac10.chm10541
 f1_keywords:
 - vbaac10.chm10541
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CursorOnHover Property, Access [vbaac10.chm10541]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CursorOnHover, Access [vbaac10.chm10541]
+[NavigationButton.CursorOnHover Property (Access)](http://msdn.microsoft.com/library/85d77454-b372-d4ed-75c0-1c3f6065967a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.CursorOnHover Property (Access)](http://msdn.microsoft.com/library/98bfdba4-4b42-8bbc-e1d2-d68cc21defc3%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.CursorOnHover (Access)](http://msdn.microsoft.com/library/navigationbutton.cursoronhover-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.CursorOnHover (Access)](http://msdn.microsoft.com/library/commandbutton.cursoronhover-property-access%28Office.15%29.aspx)
 

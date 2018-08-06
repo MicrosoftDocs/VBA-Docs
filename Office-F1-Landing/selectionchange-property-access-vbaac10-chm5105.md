@@ -1,5 +1,5 @@
 ---
-title: Propiedad SelectionChange, Access [vbaac10.chm5105]
+title: SelectionChange Property, Access [vbaac10.chm5105]
 keywords: vbaac10.chm5105
 f1_keywords:
 - vbaac10.chm5105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SelectionChange Property, Access [vbaac10.chm5105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SelectionChange, Access [vbaac10.chm5105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.SelectionChange (Access)](http://msdn.microsoft.com/library/form.selectionchange-property-access%28Office.15%29.aspx)
-
+[Form.SelectionChange Property (Access)](http://msdn.microsoft.com/library/e31876fc-103a-d231-a6fa-7cb026a343e1%28Office.15%29.aspx)
 

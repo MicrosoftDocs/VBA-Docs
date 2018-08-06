@@ -1,5 +1,5 @@
 ---
-title: Colección Points, Excel [vbagr10.chm131113]
+title: Points Collection, Excel [vbagr10.chm131113]
 keywords: vbagr10.chm131113
 f1_keywords:
 - vbagr10.chm131113
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Points Collection, Excel [vbagr10.chm131113]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Points, Excel [vbagr10.chm131113]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Puntos de colección (Excel)](http://msdn.microsoft.com/library/points-collection-excel%28Office.15%29.aspx)
-
+[Points Collection (Excel)](http://msdn.microsoft.com/library/b41c8f08-880e-1f4a-0456-3f77c0741bc6%28Office.15%29.aspx)
 

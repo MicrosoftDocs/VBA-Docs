@@ -1,5 +1,5 @@
 ---
-title: Colección Hyperlinks, Visio [vis_sdr.chm10115]
+title: Hyperlinks Collection, Visio [vis_sdr.chm10115]
 keywords: vis_sdr.chm10115
 f1_keywords:
 - vis_sdr.chm10115
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Hyperlinks Collection, Visio [vis_sdr.chm10115]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Hyperlinks, Visio [vis_sdr.chm10115]
+[Hyperlinks Object (Visio)](http://msdn.microsoft.com/library/7365511f-d689-772a-e42c-d3efbcf51d0b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Hyperlinks Object (Visio)](http://msdn.microsoft.com/library/3f0dc6d6-ecd0-9e9f-a2e1-e3b63f44d8f2.aspx)
 
-
- [Hyperlinks (colección)](http://msdn.microsoft.com/library/hyperlinks-object-visio%28Office.15%29.aspx)
-
-
- [Hyperlinks Object (Visio)](http://msdn.microsoft.com/library/3f0dc6d6-ecd0-9e9f-a2e1-e3b63f44d8f2.aspx)
 

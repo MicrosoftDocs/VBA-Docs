@@ -1,5 +1,5 @@
 ---
-title: Propiedad Text, PowerPoint [vbapp10.chm65674]
+title: Text Property, PowerPoint [vbapp10.chm65674]
 keywords: vbapp10.chm65674
 f1_keywords:
 - vbapp10.chm65674
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Text Property, PowerPoint [vbapp10.chm65674]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Text, PowerPoint [vbapp10.chm65674]
+[DataLabel.Text Property (PowerPoint)](http://msdn.microsoft.com/library/fbd8fff8-8682-5e41-55e1-3294979803e0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ChartCharacters.Text Property (PowerPoint)](http://msdn.microsoft.com/library/c38177fd-c248-4427-8243-510e810bbddb%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.Text (PowerPoint)](http://msdn.microsoft.com/library/datalabel.text-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad ChartCharacters.Text (PowerPoint)](http://msdn.microsoft.com/library/chartcharacters.text-property-powerpoint%28Office.15%29.aspx)
 

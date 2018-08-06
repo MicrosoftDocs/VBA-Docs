@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasRadarAxisLabels, Excel [vbagr10.chm5207506]
+title: HasRadarAxisLabels Property, Excel [vbagr10.chm5207506]
 keywords: vbagr10.chm5207506
 f1_keywords:
 - vbagr10.chm5207506
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasRadarAxisLabels Property, Excel [vbagr10.chm5207506]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasRadarAxisLabels, Excel [vbagr10.chm5207506]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasRadarAxisLabels (propiedad)](http://msdn.microsoft.com/library/hasradaraxislabels-property%28Office.15%29.aspx)
-
+[HasRadarAxisLabels Property](http://msdn.microsoft.com/library/8baa636a-262c-15b4-f8d5-94d77a8101c5%28Office.15%29.aspx)
 

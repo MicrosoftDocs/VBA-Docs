@@ -1,5 +1,5 @@
 ---
-title: Celda ObjType (sección Varios), Visio [Vis_DSS.chm82251326]
+title: ObjType Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251326]
 keywords: vis_dss.chm82251326
 f1_keywords:
 - vis_dss.chm82251326
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ObjType Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251326]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ObjType (sección Varios), Visio [Vis_DSS.chm82251326]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ObjType (Sección de varios)](http://msdn.microsoft.com/library/objtype-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[ObjType Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/3afee07b-e91a-a91c-fba2-0e3251dd6385%28Office.15%29.aspx)
 

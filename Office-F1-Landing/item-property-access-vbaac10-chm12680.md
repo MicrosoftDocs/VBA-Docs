@@ -1,5 +1,5 @@
 ---
-title: Propiedad Item, Access [vbaac10.chm12680]
+title: Item Property, Access [vbaac10.chm12680]
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
@@ -9,33 +9,20 @@ ms.date: 06/08/2017
 ---
 
 
+# Item Property, Access [vbaac10.chm12680]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Item, Access [vbaac10.chm12680]
+[AllDatabaseDiagrams.Item Property (Access)](http://msdn.microsoft.com/library/1f644e28-1988-e22a-b83b-033d1354d09c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[AllForms.Item Property (Access)](http://msdn.microsoft.com/library/07536c98-57e1-8660-b35e-0e79e4e797cb%28Office.15%29.aspx)
 
-
- [Propiedad AllDatabaseDiagrams.Item (Access)](http://msdn.microsoft.com/library/alldatabasediagrams.item-property-access%28Office.15%29.aspx)
-
-
- [Propiedad AllForms.Item (Access)](http://msdn.microsoft.com/library/allforms.item-property-access%28Office.15%29.aspx)
-
-
- [Propiedad AllFunctions.Item (Access)](http://msdn.microsoft.com/library/allfunctions.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllQueries.Item (Access)](http://msdn.microsoft.com/library/allqueries.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllViews.Item (Access)](http://msdn.microsoft.com/library/allviews.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllMacros.Item (Access)](http://msdn.microsoft.com/library/allmacros.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllTables.Item (Access)](http://msdn.microsoft.com/library/alltables.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllStoredProcedures.Item (Access)](http://msdn.microsoft.com/library/allstoredprocedures.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllReports.Item (Access)](http://msdn.microsoft.com/library/allreports.item-property-access%28Office.15%29.aspx)
-
- [Propiedad AllModules.Item (Access)](http://msdn.microsoft.com/library/allmodules.item-property-access%28Office.15%29.aspx)
-
+[AllFunctions.Item Property (Access)](http://msdn.microsoft.com/library/d705b1b9-5509-4a1e-8a0e-55357a544d62%28Office.15%29.aspx)
+[AllQueries.Item Property (Access)](http://msdn.microsoft.com/library/96c60139-9cf4-d9c7-4b4d-5eed2d0e7371%28Office.15%29.aspx)
+[AllViews.Item Property (Access)](http://msdn.microsoft.com/library/5fcdb90e-c70c-1a1f-153b-7c50e43308e8%28Office.15%29.aspx)
+[AllMacros.Item Property (Access)](http://msdn.microsoft.com/library/5fc6b7c0-ac04-8b9b-4b8d-a40c00db4578%28Office.15%29.aspx)
+[AllTables.Item Property (Access)](http://msdn.microsoft.com/library/87e8e90d-abfe-c15b-f450-c82a8292fc93%28Office.15%29.aspx)
+[AllStoredProcedures.Item Property (Access)](http://msdn.microsoft.com/library/883c84fd-5186-1944-334b-f2e7f595755b%28Office.15%29.aspx)
+[AllReports.Item Property (Access)](http://msdn.microsoft.com/library/24ef47fa-bc5e-f422-82a7-fbc980579f50%28Office.15%29.aspx)
+[AllModules.Item Property (Access)](http://msdn.microsoft.com/library/9dfffe9b-afb2-a7e8-04f4-fbedb12a14a9%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinorUnit, Excel [vbagr10.chm65575]
+title: MinorUnit Property, Excel [vbagr10.chm65575]
 keywords: vbagr10.chm65575
 f1_keywords:
 - vbagr10.chm65575
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MinorUnit Property, Excel [vbagr10.chm65575]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinorUnit, Excel [vbagr10.chm65575]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MinorUnit (propiedad)](http://msdn.microsoft.com/library/minorunit-property%28Office.15%29.aspx)
-
+[MinorUnit Property](http://msdn.microsoft.com/library/9da86e1c-dfc2-49c8-e6bd-1e5529b2da33%28Office.15%29.aspx)
 

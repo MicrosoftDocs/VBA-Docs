@@ -1,5 +1,5 @@
 ---
-title: Celda UpdateAlignBox (sección Varios), Visio [vis_sdr.chm1085]
+title: UpdateAlignBox Cell (Miscellaneous Section), Visio [vis_sdr.chm1085]
 keywords: vis_sdr.chm1085
 f1_keywords:
 - vis_sdr.chm1085
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# UpdateAlignBox Cell (Miscellaneous Section), Visio [vis_sdr.chm1085]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda UpdateAlignBox (sección Varios), Visio [vis_sdr.chm1085]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda UpdateAlignBox (Sección de varios)](http://msdn.microsoft.com/library/updatealignbox-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[UpdateAlignBox Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/3e3f8dc9-203f-447d-9674-eb0be2d557d1%28Office.15%29.aspx)
 

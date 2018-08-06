@@ -1,5 +1,5 @@
 ---
-title: Propiedad MoveAfterReturn, Excel [vbagr10.chm5207715]
+title: MoveAfterReturn Property, Excel [vbagr10.chm5207715]
 keywords: vbagr10.chm5207715
 f1_keywords:
 - vbagr10.chm5207715
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MoveAfterReturn Property, Excel [vbagr10.chm5207715]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MoveAfterReturn, Excel [vbagr10.chm5207715]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MoveAfterReturn (propiedad)](http://msdn.microsoft.com/library/moveafterreturn-property%28Office.15%29.aspx)
-
+[MoveAfterReturn Property](http://msdn.microsoft.com/library/82b4bce3-aed6-1b46-2c65-63dde6a30df1%28Office.15%29.aspx)
 

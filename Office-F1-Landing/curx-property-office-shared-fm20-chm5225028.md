@@ -1,5 +1,5 @@
 ---
-title: Propiedad CurX, Office Shared [fm20.chm5225028]
+title: CurX Property, Office Shared [fm20.chm5225028]
 keywords: fm20.chm5225028
 f1_keywords:
 - fm20.chm5225028
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CurX Property, Office Shared [fm20.chm5225028]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CurX, Office Shared [fm20.chm5225028]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CurX](http://msdn.microsoft.com/library/curx-property%28Office.15%29.aspx)
-
+[CurX Property](http://msdn.microsoft.com/library/cbb6c8e9-13f2-61e7-9577-ceeef71ca2be%28Office.15%29.aspx)
 

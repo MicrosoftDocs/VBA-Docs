@@ -1,5 +1,5 @@
 ---
-title: Propiedad TakeFocusOnClick, Office Shared [fm20.chm2001340]
+title: TakeFocusOnClick Property, Office Shared [fm20.chm2001340]
 keywords: fm20.chm2001340
 f1_keywords:
 - fm20.chm2001340
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TakeFocusOnClick Property, Office Shared [fm20.chm2001340]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TakeFocusOnClick, Office Shared [fm20.chm2001340]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TakeFocusOnClick](http://msdn.microsoft.com/library/takefocusonclick-property%28Office.15%29.aspx)
-
+[TakeFocusOnClick Property](http://msdn.microsoft.com/library/79768a90-398b-3224-0850-eb5a236eed7b%28Office.15%29.aspx)
 

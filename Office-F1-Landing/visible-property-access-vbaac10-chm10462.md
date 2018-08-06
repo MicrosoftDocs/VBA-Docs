@@ -1,5 +1,5 @@
 ---
-title: Propiedad Visible, Access [vbaac10.chm10462]
+title: Visible Property, Access [vbaac10.chm10462]
 keywords: vbaac10.chm10462
 f1_keywords:
 - vbaac10.chm10462
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Visible Property, Access [vbaac10.chm10462]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Visible, Access [vbaac10.chm10462]
+[NavigationButton.Visible Property (Access)](http://msdn.microsoft.com/library/26773edc-1143-d13f-eb75-206640cfae2e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Visible Property (Access)](http://msdn.microsoft.com/library/980c1f93-ae95-3481-5358-ad5362ffc9e8%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Visible (Access)](http://msdn.microsoft.com/library/navigationbutton.visible-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Visible (Access)](http://msdn.microsoft.com/library/commandbutton.visible-property-access%28Office.15%29.aspx)
 

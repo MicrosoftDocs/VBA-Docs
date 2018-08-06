@@ -1,5 +1,5 @@
 ---
-title: Propiedad Range, Excel [vbagr10.chm3077580]
+title: Range Property, Excel [vbagr10.chm3077580]
 keywords: vbagr10.chm3077580
 f1_keywords:
 - vbagr10.chm3077580
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Range Property, Excel [vbagr10.chm3077580]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Range, Excel [vbagr10.chm3077580]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Range (propiedad)](http://msdn.microsoft.com/library/range-property%28Office.15%29.aspx)
-
+[Range Property](http://msdn.microsoft.com/library/760f463d-3af3-515d-5da4-54f799fcfe0b%28Office.15%29.aspx)
 

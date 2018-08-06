@@ -1,5 +1,5 @@
 ---
-title: Propiedad TripleState, Access [vbaac10.chm4527]
+title: TripleState Property, Access [vbaac10.chm4527]
 keywords: vbaac10.chm4527
 f1_keywords:
 - vbaac10.chm4527
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# TripleState Property, Access [vbaac10.chm4527]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TripleState, Access [vbaac10.chm4527]
+[CheckBox.TripleState Property (Access)](http://msdn.microsoft.com/library/f2c9f398-6e1b-00cb-4033-b0fb5a83e737%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ToggleButton.TripleState Property (Access)](http://msdn.microsoft.com/library/e36d31b2-25e4-ab83-4a6e-def377ec6fe7%28Office.15%29.aspx)
 
-
- [Propiedad CheckBox.TripleState (Access)](http://msdn.microsoft.com/library/checkbox.triplestate-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.TripleState (Access)](http://msdn.microsoft.com/library/togglebutton.triplestate-property-access%28Office.15%29.aspx)
-
-
- [Propiedad OptionButton.TripleState (Access)](http://msdn.microsoft.com/library/optionbutton.triplestate-property-access%28Office.15%29.aspx)
-
+[OptionButton.TripleState Property (Access)](http://msdn.microsoft.com/library/f2764290-00be-38f7-f078-fc0059340455%28Office.15%29.aspx)
 

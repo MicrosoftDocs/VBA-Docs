@@ -1,5 +1,5 @@
 ---
-title: Propiedad EnterKeyBehavior, Office Shared [fm20.chm2001130]
+title: EnterKeyBehavior Property, Office Shared [fm20.chm2001130]
 keywords: fm20.chm2001130
 f1_keywords:
 - fm20.chm2001130
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EnterKeyBehavior Property, Office Shared [fm20.chm2001130]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad EnterKeyBehavior, Office Shared [fm20.chm2001130]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad EnterKeyBehavior](http://msdn.microsoft.com/library/enterkeybehavior-property%28Office.15%29.aspx)
-
+[EnterKeyBehavior Property](http://msdn.microsoft.com/library/720a6b10-f021-e623-7f63-f52081bcafd1%28Office.15%29.aspx)
 

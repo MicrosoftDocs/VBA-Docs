@@ -1,5 +1,5 @@
 ---
-title: El objeto no admite esta propiedad o método (error 438), Office Shared [vblr6.chm1000438]
+title: Object doesn't support this property or method (Error 438), Office Shared [vblr6.chm1000438]
 keywords: vblr6.chm1000438
 f1_keywords:
 - vblr6.chm1000438
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object doesn't support this property or method (Error 438), Office Shared [vblr6.chm1000438]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El objeto no admite esta propiedad o método (error 438), Office Shared [vblr6.chm1000438]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto no admite esta propiedad o este método (error 438)](http://msdn.microsoft.com/library/object-doesn-t-support-this-property-or-method-error-438%28Office.15%29.aspx)
-
+[Object doesn't support this property or method (Error 438)](http://msdn.microsoft.com/library/0fbab746-dc6d-b227-429a-1f56bb4ca448%28Office.15%29.aspx)
 

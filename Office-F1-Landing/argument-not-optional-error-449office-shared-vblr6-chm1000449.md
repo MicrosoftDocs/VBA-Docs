@@ -1,5 +1,5 @@
 ---
-title: Argumento no opcional (error 449), Office Shared [vblr6.chm1000449]
+title: Argument not optional (Error 449), Office Shared [vblr6.chm1000449]
 keywords: vblr6.chm1000449
 f1_keywords:
 - vblr6.chm1000449
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Argument not optional (Error 449), Office Shared [vblr6.chm1000449]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Argumento no opcional (error 449), Office Shared [vblr6.chm1000449]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Argumento no opcional (error 449)](http://msdn.microsoft.com/library/argument-not-optional-error-449%28Office.15%29.aspx)
-
+[Argument not optional (Error 449)](http://msdn.microsoft.com/library/04d08e66-7084-8c94-52b1-b471423846ca%28Office.15%29.aspx)
 

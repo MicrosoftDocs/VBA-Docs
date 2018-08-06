@@ -1,5 +1,5 @@
 ---
-title: Evento SelectionAdded, Visio [vis_sdr.chm10019215]
+title: SelectionAdded Event, Visio [vis_sdr.chm10019215]
 keywords: vis_sdr.chm10019215
 f1_keywords:
 - vis_sdr.chm10019215
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SelectionAdded Event, Visio [vis_sdr.chm10019215]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento SelectionAdded, Visio [vis_sdr.chm10019215]
+[Application.SelectionAdded Event (Visio)](http://msdn.microsoft.com/library/76a6c2c6-c2ab-97ad-a906-0780a81f7eb2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.SelectionAdded Event (Visio)](http://msdn.microsoft.com/library/fa3d9364-b621-c3cd-7b6e-21fd62df762f%28Office.15%29.aspx)
 
-
- [Evento Application.SelectionAdded (Visio)](http://msdn.microsoft.com/library/application.selectionadded-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.SelectionAdded (Visio)](http://msdn.microsoft.com/library/invisibleapp.selectionadded-event-visio%28Office.15%29.aspx)
 

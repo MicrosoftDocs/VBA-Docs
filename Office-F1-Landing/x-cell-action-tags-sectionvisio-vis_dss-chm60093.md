@@ -1,5 +1,5 @@
 ---
-title: Celda X (sección Etiquetas de acción), Visio [Vis_DSS.chm60093]
+title: X Cell (Action Tags Section), Visio [Vis_DSS.chm60093]
 keywords: vis_dss.chm60093
 f1_keywords:
 - vis_dss.chm60093
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# X Cell (Action Tags Section), Visio [Vis_DSS.chm60093]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda X (sección Etiquetas de acción), Visio [Vis_DSS.chm60093]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda X (sección de etiquetas de acción)](http://msdn.microsoft.com/library/x-cell-action-tags-section%28Office.15%29.aspx)
-
+[X Cell (Action Tags Section)](http://msdn.microsoft.com/library/d13e362b-9b69-30c5-003a-9c5df2aa29f6%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad DragBehavior, Office Shared [fm20.chm5225032]
+title: DragBehavior Property, Office Shared [fm20.chm5225032]
 keywords: fm20.chm5225032
 f1_keywords:
 - fm20.chm5225032
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DragBehavior Property, Office Shared [fm20.chm5225032]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DragBehavior, Office Shared [fm20.chm5225032]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DragBehavior](http://msdn.microsoft.com/library/dragbehavior-property%28Office.15%29.aspx)
-
+[DragBehavior Property](http://msdn.microsoft.com/library/8145cbe3-0e13-0715-1c21-b2f4f2ed7b86%28Office.15%29.aspx)
 

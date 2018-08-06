@@ -1,5 +1,5 @@
 ---
-title: Propiedad CommandChecked, Access [vbaac10.chm5107]
+title: CommandChecked Property, Access [vbaac10.chm5107]
 keywords: vbaac10.chm5107
 f1_keywords:
 - vbaac10.chm5107
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CommandChecked Property, Access [vbaac10.chm5107]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CommandChecked, Access [vbaac10.chm5107]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.CommandChecked (Access)](http://msdn.microsoft.com/library/form.commandchecked-property-access%28Office.15%29.aspx)
-
+[Form.CommandChecked Property (Access)](http://msdn.microsoft.com/library/4f3bb0fa-6f3f-4836-a0d0-06d480e1d194%28Office.15%29.aspx)
 

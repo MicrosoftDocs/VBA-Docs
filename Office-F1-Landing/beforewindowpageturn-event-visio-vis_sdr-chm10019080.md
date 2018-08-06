@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeWindowPageTurn, Visio [vis_sdr.chm10019080]
+title: BeforeWindowPageTurn Event, Visio [vis_sdr.chm10019080]
 keywords: vis_sdr.chm10019080
 f1_keywords:
 - vis_sdr.chm10019080
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeWindowPageTurn Event, Visio [vis_sdr.chm10019080]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeWindowPageTurn, Visio [vis_sdr.chm10019080]
+[InvisibleApp.BeforeWindowPageTurn Event (Visio)](http://msdn.microsoft.com/library/7bcdf0f3-2825-9205-06fb-252170018073%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforeWindowPageTurn Event (Visio)](http://msdn.microsoft.com/library/ddb79c04-7cb4-61fd-a37d-d5969e445d5c%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforeWindowPageTurn (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforewindowpageturn-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforeWindowPageTurn (Visio)](http://msdn.microsoft.com/library/application.beforewindowpageturn-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento DocumentSaved, Visio [vis_sdr.chm10519135]
+title: DocumentSaved Event, Visio [vis_sdr.chm10519135]
 keywords: vis_sdr.chm10519135
 f1_keywords:
 - vis_sdr.chm10519135
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DocumentSaved Event, Visio [vis_sdr.chm10519135]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DocumentSaved, Visio [vis_sdr.chm10519135]
+[Document.DocumentSaved Event (Visio)](http://msdn.microsoft.com/library/48e513a1-4382-eb3c-4838-ad2f85483f51%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.DocumentSaved Event (Visio)](http://msdn.microsoft.com/library/762cf670-f0bf-13f7-c6eb-f497e642db52%28Office.15%29.aspx)
 
-
- [Evento Document.DocumentSaved (Visio)](http://msdn.microsoft.com/library/document.documentsaved-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.DocumentSaved (Visio)](http://msdn.microsoft.com/library/drawingcontrol.documentsaved-event-visio%28Office.15%29.aspx)
 

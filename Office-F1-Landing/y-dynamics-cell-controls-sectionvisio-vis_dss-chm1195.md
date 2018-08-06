@@ -1,5 +1,5 @@
 ---
-title: Celda Y Dynamics (sección Controls), Visio [Vis_DSS.chm1195]
+title: Y Dynamics Cell (Controls Section), Visio [Vis_DSS.chm1195]
 keywords: vis_dss.chm1195
 f1_keywords:
 - vis_dss.chm1195
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Y Dynamics Cell (Controls Section), Visio [Vis_DSS.chm1195]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Y Dynamics (sección Controls), Visio [Vis_DSS.chm1195]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Y Dynamics (Sección de controles)](http://msdn.microsoft.com/library/y-dynamics-cell-controls-section%28Office.15%29.aspx)
-
+[Y Dynamics Cell (Controls Section)](http://msdn.microsoft.com/library/cb221974-2f1a-edb0-477b-39a3c4a64c56%28Office.15%29.aspx)
 

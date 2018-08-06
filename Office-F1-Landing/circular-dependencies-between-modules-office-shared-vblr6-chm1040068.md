@@ -1,5 +1,5 @@
 ---
-title: Dependencias circulares entre módulos, Office Shared [vblr6.chm1040068]
+title: Circular dependencies between modules, Office Shared [vblr6.chm1040068]
 keywords: vblr6.chm1040068
 f1_keywords:
 - vblr6.chm1040068
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Circular dependencies between modules, Office Shared [vblr6.chm1040068]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Dependencias circulares entre módulos, Office Shared [vblr6.chm1040068]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Dependencias circulares entre módulos](http://msdn.microsoft.com/library/circular-dependencies-between-modules%28Office.15%29.aspx)
-
+[Circular dependencies between modules](http://msdn.microsoft.com/library/89b0ffde-11a5-9d8b-927c-386abf69f6e7%28Office.15%29.aspx)
 

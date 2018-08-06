@@ -1,5 +1,5 @@
 ---
-title: Propiedad ProportionalThumb, Office Shared [fm20.chm5225082]
+title: ProportionalThumb Property, Office Shared [fm20.chm5225082]
 keywords: fm20.chm5225082
 f1_keywords:
 - fm20.chm5225082
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ProportionalThumb Property, Office Shared [fm20.chm5225082]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ProportionalThumb, Office Shared [fm20.chm5225082]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ProportionalThumb](http://msdn.microsoft.com/library/proportionalthumb-property%28Office.15%29.aspx)
-
+[ProportionalThumb Property](http://msdn.microsoft.com/library/da2890ca-12b9-8d91-5e94-9c86492f0101%28Office.15%29.aspx)
 

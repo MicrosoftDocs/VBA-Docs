@@ -1,5 +1,5 @@
 ---
-title: Método SetFocus, Access [vbaac10.chm11035]
+title: SetFocus Method, Access [vbaac10.chm11035]
 keywords: vbaac10.chm11035
 f1_keywords:
 - vbaac10.chm11035
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SetFocus Method, Access [vbaac10.chm11035]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetFocus, Access [vbaac10.chm11035]
+[NavigationControl.SetFocus Method (Access)](http://msdn.microsoft.com/library/74232b27-17f4-78fc-9c42-0aabaad56257%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.SetFocus Method (Access)](http://msdn.microsoft.com/library/dc5edcd0-09af-2fdb-0b94-49af0bfa705b%28Office.15%29.aspx)
 
-
- [Método NavigationControl.SetFocus (Access)](http://msdn.microsoft.com/library/navigationcontrol.setfocus-method-access%28Office.15%29.aspx)
-
-
- [Método TextBox.SetFocus (Access)](http://msdn.microsoft.com/library/textbox.setfocus-method-access%28Office.15%29.aspx)
 

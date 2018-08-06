@@ -1,5 +1,5 @@
 ---
-title: ¿Mostrar más errores de carga?, Office Shared [vblr6.chm1117718]
+title: Display more load errors?, Office Shared [vblr6.chm1117718]
 keywords: vblr6.chm1117718
 f1_keywords:
 - vblr6.chm1117718
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Display more load errors?, Office Shared [vblr6.chm1117718]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# ¿Mostrar más errores de carga?, Office Shared [vblr6.chm1117718]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [¿Mostrar más errores de carga?](http://msdn.microsoft.com/library/display-more-load-errors%28Office.15%29.aspx)
-
+[Display more load errors?](http://msdn.microsoft.com/library/793041bd-219d-7503-aead-b50d2ab2e7cc%28Office.15%29.aspx)
 

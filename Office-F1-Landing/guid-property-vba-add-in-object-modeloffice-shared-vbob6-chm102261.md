@@ -1,5 +1,5 @@
 ---
-title: Propiedad GUID (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102261]
+title: GUID Property (VBA Add-In Object Model), Office Shared [vbob6.chm102261]
 keywords: vbob6.chm102261
 f1_keywords:
 - vbob6.chm102261
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# GUID Property (VBA Add-In Object Model), Office Shared [vbob6.chm102261]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GUID (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102261]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad GUID (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/guid-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[GUID Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/a41a6b05-8883-c7f3-0cb3-06c60e99d428%28Office.15%29.aspx)
 

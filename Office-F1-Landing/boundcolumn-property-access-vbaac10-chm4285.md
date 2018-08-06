@@ -1,5 +1,5 @@
 ---
-title: Propiedad BoundColumn, Access [vbaac10.chm4285]
+title: BoundColumn Property, Access [vbaac10.chm4285]
 keywords: vbaac10.chm4285
 f1_keywords:
 - vbaac10.chm4285
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BoundColumn Property, Access [vbaac10.chm4285]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BoundColumn, Access [vbaac10.chm4285]
+[ListBox.BoundColumn Property (Access)](http://msdn.microsoft.com/library/f6a742a4-40ff-bb83-8946-7e8bb71e5690%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.BoundColumn Property (Access)](http://msdn.microsoft.com/library/ba2b5807-5f5a-52bb-d5d3-db7525bccba4%28Office.15%29.aspx)
 
-
- [Propiedad ListBox.BoundColumn (Access)](http://msdn.microsoft.com/library/listbox.boundcolumn-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.BoundColumn (Access)](http://msdn.microsoft.com/library/combobox.boundcolumn-property-access%28Office.15%29.aspx)
 

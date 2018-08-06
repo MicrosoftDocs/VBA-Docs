@@ -1,5 +1,5 @@
 ---
-title: Propiedad OldValue, Access [vbaac10.chm11031]
+title: OldValue Property, Access [vbaac10.chm11031]
 keywords: vbaac10.chm11031
 f1_keywords:
 - vbaac10.chm11031
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OldValue Property, Access [vbaac10.chm11031]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OldValue, Access [vbaac10.chm11031]
+[NavigationControl.OldValue Property (Access)](http://msdn.microsoft.com/library/ddee64e6-38cf-d033-4963-76529744ef81%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.OldValue Property (Access)](http://msdn.microsoft.com/library/d62150d2-6dc6-85c0-0452-e9e5fee199b4%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.OldValue (Access)](http://msdn.microsoft.com/library/navigationcontrol.oldvalue-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.OldValue (Access)](http://msdn.microsoft.com/library/textbox.oldvalue-property-access%28Office.15%29.aspx)
 

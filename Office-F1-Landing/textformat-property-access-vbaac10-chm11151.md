@@ -1,5 +1,5 @@
 ---
-title: Propiedad TextFormat, Access [vbaac10.chm11151]
+title: TextFormat Property, Access [vbaac10.chm11151]
 keywords: vbaac10.chm11151
 f1_keywords:
 - vbaac10.chm11151
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TextFormat Property, Access [vbaac10.chm11151]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TextFormat, Access [vbaac10.chm11151]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TextBox.TextFormat (Access)](http://msdn.microsoft.com/library/textbox.textformat-property-access%28Office.15%29.aspx)
-
+[TextBox.TextFormat Property (Access)](http://msdn.microsoft.com/library/3d164782-9d9c-5462-ac40-51772d475407%28Office.15%29.aspx)
 

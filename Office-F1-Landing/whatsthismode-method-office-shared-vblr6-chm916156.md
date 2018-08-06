@@ -1,5 +1,5 @@
 ---
-title: Método WhatsThisMode, Office Shared [vblr6.chm916156]
+title: WhatsThisMode Method, Office Shared [vblr6.chm916156]
 keywords: vblr6.chm916156
 f1_keywords:
 - vblr6.chm916156
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# WhatsThisMode Method, Office Shared [vblr6.chm916156]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método WhatsThisMode, Office Shared [vblr6.chm916156]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método WhatsThisMode](http://msdn.microsoft.com/library/whatsthismode-method%28Office.15%29.aspx)
-
+[WhatsThisMode Method](http://msdn.microsoft.com/library/e71fb00c-b323-2b43-94ec-07079e66337f%28Office.15%29.aspx)
 

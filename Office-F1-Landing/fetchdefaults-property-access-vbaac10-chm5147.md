@@ -1,5 +1,5 @@
 ---
-title: Propiedad FetchDefaults, Access [vbaac10.chm5147]
+title: FetchDefaults Property, Access [vbaac10.chm5147]
 keywords: vbaac10.chm5147
 f1_keywords:
 - vbaac10.chm5147
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FetchDefaults Property, Access [vbaac10.chm5147]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FetchDefaults, Access [vbaac10.chm5147]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.FetchDefaults (Access)](http://msdn.microsoft.com/library/form.fetchdefaults-property-access%28Office.15%29.aspx)
-
+[Form.FetchDefaults Property (Access)](http://msdn.microsoft.com/library/3bbe8c57-e9ff-419a-d2b4-93cb966d6f30%28Office.15%29.aspx)
 

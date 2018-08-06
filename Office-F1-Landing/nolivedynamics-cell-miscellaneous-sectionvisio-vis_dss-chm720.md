@@ -1,5 +1,5 @@
 ---
-title: Celda NoLiveDynamics (sección Varios), Visio [Vis_DSS.chm720]
+title: NoLiveDynamics Cell (Miscellaneous Section), Visio [Vis_DSS.chm720]
 keywords: vis_dss.chm720
 f1_keywords:
 - vis_dss.chm720
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NoLiveDynamics Cell (Miscellaneous Section), Visio [Vis_DSS.chm720]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda NoLiveDynamics (sección Varios), Visio [Vis_DSS.chm720]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda NoLiveDynamics (Sección de varios)](http://msdn.microsoft.com/library/nolivedynamics-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[NoLiveDynamics Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/d1c4b9d9-6d64-8ed1-9fc6-2dbf829a75b5%28Office.15%29.aspx)
 

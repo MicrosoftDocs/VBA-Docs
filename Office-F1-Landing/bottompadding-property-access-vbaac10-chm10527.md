@@ -1,5 +1,5 @@
 ---
-title: Propiedad BottomPadding, Access [vbaac10.chm10527]
+title: BottomPadding Property, Access [vbaac10.chm10527]
 keywords: vbaac10.chm10527
 f1_keywords:
 - vbaac10.chm10527
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# BottomPadding Property, Access [vbaac10.chm10527]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BottomPadding, Access [vbaac10.chm10527]
+[NavigationButton.BottomPadding Property (Access)](http://msdn.microsoft.com/library/63d7a4bb-8e82-2f27-afd0-2162c5b3cb5c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.BottomPadding Property (Access)](http://msdn.microsoft.com/library/c7806653-3e00-824e-f1af-7092369af0a7%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.BottomPadding (Access)](http://msdn.microsoft.com/library/navigationbutton.bottompadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.BottomPadding (Access)](http://msdn.microsoft.com/library/commandbutton.bottompadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.BottomPadding (Access)](http://msdn.microsoft.com/library/customcontrol.bottompadding-property-access%28Office.15%29.aspx)
-
+[CustomControl.BottomPadding Property (Access)](http://msdn.microsoft.com/library/37fe735a-4fc8-c772-1cc9-a0208b2fe2e4%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad VerticalScrollbarSide, Office Shared [fm20.chm2002190]
+title: VerticalScrollbarSide Property, Office Shared [fm20.chm2002190]
 keywords: fm20.chm2002190
 f1_keywords:
 - fm20.chm2002190
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VerticalScrollbarSide Property, Office Shared [fm20.chm2002190]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad VerticalScrollbarSide, Office Shared [fm20.chm2002190]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad VerticalScrollbarSide](http://msdn.microsoft.com/library/verticalscrollbarside-property%28Office.15%29.aspx)
-
+[VerticalScrollbarSide Property](http://msdn.microsoft.com/library/0439743b-3774-5778-7022-dbeea5ef8c39%28Office.15%29.aspx)
 

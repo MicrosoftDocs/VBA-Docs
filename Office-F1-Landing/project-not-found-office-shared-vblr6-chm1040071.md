@@ -1,5 +1,5 @@
 ---
-title: Proyecto no encontrado, Office Shared [vblr6.chm1040071]
+title: Project not found, Office Shared [vblr6.chm1040071]
 keywords: vblr6.chm1040071
 f1_keywords:
 - vblr6.chm1040071
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Project not found, Office Shared [vblr6.chm1040071]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Proyecto no encontrado, Office Shared [vblr6.chm1040071]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró el proyecto](http://msdn.microsoft.com/library/project-not-found%28Office.15%29.aspx)
-
+[Project not found](http://msdn.microsoft.com/library/8f31dd3d-4f7f-d398-390d-239582e0459b%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento ShapeParentChanged, Visio [vis_sdr.chm10019235]
+title: ShapeParentChanged Event, Visio [vis_sdr.chm10019235]
 keywords: vis_sdr.chm10019235
 f1_keywords:
 - vis_sdr.chm10019235
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeParentChanged Event, Visio [vis_sdr.chm10019235]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ShapeParentChanged, Visio [vis_sdr.chm10019235]
+[InvisibleApp.ShapeParentChanged Event (Visio)](http://msdn.microsoft.com/library/526b0da9-c086-a461-2708-6c882210ce76%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.ShapeParentChanged Event (Visio)](http://msdn.microsoft.com/library/321f937c-27e0-be80-9d6a-78e4e85629ec%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.ShapeParentChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.shapeparentchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.ShapeParentChanged (Visio)](http://msdn.microsoft.com/library/application.shapeparentchanged-event-visio%28Office.15%29.aspx)
 

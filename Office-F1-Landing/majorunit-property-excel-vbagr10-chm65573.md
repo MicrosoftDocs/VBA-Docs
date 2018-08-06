@@ -1,5 +1,5 @@
 ---
-title: Propiedad MajorUnit, Excel [vbagr10.chm65573]
+title: MajorUnit Property, Excel [vbagr10.chm65573]
 keywords: vbagr10.chm65573
 f1_keywords:
 - vbagr10.chm65573
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MajorUnit Property, Excel [vbagr10.chm65573]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MajorUnit, Excel [vbagr10.chm65573]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MajorUnit (propiedad)](http://msdn.microsoft.com/library/majorunit-property%28Office.15%29.aspx)
-
+[MajorUnit Property](http://msdn.microsoft.com/library/46d4d4e0-f285-2800-f539-72e7acb98948%28Office.15%29.aspx)
 

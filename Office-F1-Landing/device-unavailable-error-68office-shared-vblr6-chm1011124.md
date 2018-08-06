@@ -1,5 +1,5 @@
 ---
-title: Dispositivo no disponible (error 68), Office Shared [vblr6.chm1011124]
+title: Device unavailable (Error 68), Office Shared [vblr6.chm1011124]
 keywords: vblr6.chm1011124
 f1_keywords:
 - vblr6.chm1011124
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Device unavailable (Error 68), Office Shared [vblr6.chm1011124]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Dispositivo no disponible (error 68), Office Shared [vblr6.chm1011124]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Dispositivo no disponible (error 68)](http://msdn.microsoft.com/library/device-unavailable-error-68%28Office.15%29.aspx)
-
+[Device unavailable (Error 68)](http://msdn.microsoft.com/library/8ddf97a9-96c6-e261-3ffe-d2b76b468913%28Office.15%29.aspx)
 

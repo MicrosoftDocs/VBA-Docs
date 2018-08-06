@@ -1,5 +1,5 @@
 ---
-title: Propiedad PatternColorIndex, Excel [vbagr10.chm65634]
+title: PatternColorIndex Property, Excel [vbagr10.chm65634]
 keywords: vbagr10.chm65634
 f1_keywords:
 - vbagr10.chm65634
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PatternColorIndex Property, Excel [vbagr10.chm65634]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PatternColorIndex, Excel [vbagr10.chm65634]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [PatternColorIndex (propiedad)](http://msdn.microsoft.com/library/patterncolorindex-property%28Office.15%29.aspx)
-
+[PatternColorIndex Property](http://msdn.microsoft.com/library/d11aa18c-b46d-950c-78ef-e58dd1c751fb%28Office.15%29.aspx)
 

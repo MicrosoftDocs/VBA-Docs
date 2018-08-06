@@ -1,5 +1,5 @@
 ---
-title: Propiedad LabelY, Access [vbaac10.chm10485]
+title: LabelY Property, Access [vbaac10.chm10485]
 keywords: vbaac10.chm10485
 f1_keywords:
 - vbaac10.chm10485
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# LabelY Property, Access [vbaac10.chm10485]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LabelY, Access [vbaac10.chm10485]
+[NavigationButton.LabelY Property (Access)](http://msdn.microsoft.com/library/09adfd0d-c877-564a-0ddb-a2b3caf5b085%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.LabelY Property (Access)](http://msdn.microsoft.com/library/8daa4d29-ba7f-67fc-a640-d15a3886441f%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.LabelY (acceso)](http://msdn.microsoft.com/library/navigationbutton.labely-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.LabelY (acceso)](http://msdn.microsoft.com/library/commandbutton.labely-property-access%28Office.15%29.aspx)
 

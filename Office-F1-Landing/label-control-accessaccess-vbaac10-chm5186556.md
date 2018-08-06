@@ -1,5 +1,5 @@
 ---
-title: Celda Label (Access), Access [vbaac10.chm5186556]
+title: Label Control (Access), Access [vbaac10.chm5186556]
 keywords: vbaac10.chm5186556
 f1_keywords:
 - vbaac10.chm5186556
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Label Control (Access), Access [vbaac10.chm5186556]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Label (Access), Access [vbaac10.chm5186556]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Label (Access)](http://msdn.microsoft.com/library/label-control-access%28Office.15%29.aspx)
-
+[Label Control (Access)](http://msdn.microsoft.com/library/109ef3a4-9b3d-161c-a11f-ef6aec46d517%28Office.15%29.aspx)
 

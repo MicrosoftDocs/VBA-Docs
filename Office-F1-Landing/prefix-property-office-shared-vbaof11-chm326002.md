@@ -1,5 +1,5 @@
 ---
-title: Propiedad Prefix, Office Shared [vbaof11.chm326002]
+title: Prefix Property, Office Shared [vbaof11.chm326002]
 keywords: vbaof11.chm326002
 f1_keywords:
 - vbaof11.chm326002
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Prefix Property, Office Shared [vbaof11.chm326002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Prefix, Office Shared [vbaof11.chm326002]
+[CustomXMLPrefixMapping.Prefix Property (Office)](http://msdn.microsoft.com/library/56c6e27b-db50-d434-708e-614837c37ef3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[IAssistance.SearchHelp Method (Office)](http://msdn.microsoft.com/library/807128e9-5125-1650-d53f-cbd50d3e318a%28Office.15%29.aspx)
 
-
- [Propiedad CustomXMLPrefixMapping.Prefix (Office)](http://msdn.microsoft.com/library/customxmlprefixmapping.prefix-property-office%28Office.15%29.aspx)
-
-
- [Método IAssistance.SearchHelp (Office)](http://msdn.microsoft.com/library/iassistance.searchhelp-method-office%28Office.15%29.aspx)
 

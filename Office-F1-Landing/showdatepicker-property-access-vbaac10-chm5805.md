@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowDatePicker, Access [vbaac10.chm5805]
+title: ShowDatePicker Property, Access [vbaac10.chm5805]
 keywords: vbaac10.chm5805
 f1_keywords:
 - vbaac10.chm5805
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowDatePicker Property, Access [vbaac10.chm5805]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowDatePicker, Access [vbaac10.chm5805]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TextBox.ShowDatePicker (Access)](http://msdn.microsoft.com/library/textbox.showdatepicker-property-access%28Office.15%29.aspx)
-
+[TextBox.ShowDatePicker Property (Access)](http://msdn.microsoft.com/library/5d65938b-ac7b-abbd-2e50-41f41c0b1558%28Office.15%29.aspx)
 

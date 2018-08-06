@@ -1,5 +1,5 @@
 ---
-title: Propiedad ControlSource, Office Shared [fm20.chm5225023]
+title: ControlSource Property, Office Shared [fm20.chm5225023]
 keywords: fm20.chm5225023
 f1_keywords:
 - fm20.chm5225023
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ControlSource Property, Office Shared [fm20.chm5225023]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ControlSource, Office Shared [fm20.chm5225023]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ControlSource](http://msdn.microsoft.com/library/controlsource-property%28Office.15%29.aspx)
-
+[ControlSource Property](http://msdn.microsoft.com/library/69e5e7bb-5be9-2cca-7693-ac9020578762%28Office.15%29.aspx)
 

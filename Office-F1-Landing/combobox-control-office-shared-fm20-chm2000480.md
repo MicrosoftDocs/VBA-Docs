@@ -1,5 +1,5 @@
 ---
-title: Control ComboBox, Office Shared [fm20.chm2000480]
+title: ComboBox Control, Office Shared [fm20.chm2000480]
 keywords: fm20.chm2000480
 f1_keywords:
 - fm20.chm2000480
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ComboBox Control, Office Shared [fm20.chm2000480]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control ComboBox, Office Shared [fm20.chm2000480]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control ComboBox](http://msdn.microsoft.com/library/combobox-control%28Office.15%29.aspx)
-
+[ComboBox Control](http://msdn.microsoft.com/library/8a38a969-9b8c-4ba0-292c-5a3d71ce4553%28Office.15%29.aspx)
 

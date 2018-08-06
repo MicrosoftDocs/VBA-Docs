@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabIndex, Office Shared [fm20.chm5225098]
+title: TabIndex Property, Office Shared [fm20.chm5225098]
 keywords: fm20.chm5225098
 f1_keywords:
 - fm20.chm5225098
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TabIndex Property, Office Shared [fm20.chm5225098]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabIndex, Office Shared [fm20.chm5225098]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TabIndex](http://msdn.microsoft.com/library/tabindex-property%28Office.15%29.aspx)
-
+[TabIndex Property](http://msdn.microsoft.com/library/5924d02f-d96c-2b81-6c41-c69ea68ad048%28Office.15%29.aspx)
 

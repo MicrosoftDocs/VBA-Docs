@@ -1,5 +1,5 @@
 ---
-title: Propiedad SplitFormSize, Access [vbaac10.chm5867]
+title: SplitFormSize Property, Access [vbaac10.chm5867]
 keywords: vbaac10.chm5867
 f1_keywords:
 - vbaac10.chm5867
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplitFormSize Property, Access [vbaac10.chm5867]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SplitFormSize, Access [vbaac10.chm5867]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.SplitFormSize (Access)](http://msdn.microsoft.com/library/form.splitformsize-property-access%28Office.15%29.aspx)
-
+[Form.SplitFormSize Property (Access)](http://msdn.microsoft.com/library/2fb63076-aebe-23ef-2a11-1c7b1b82ccb1%28Office.15%29.aspx)
 

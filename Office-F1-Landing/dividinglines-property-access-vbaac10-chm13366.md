@@ -1,5 +1,5 @@
 ---
-title: Propiedad DividingLines, Access [vbaac10.chm13366]
+title: DividingLines Property, Access [vbaac10.chm13366]
 keywords: vbaac10.chm13366
 f1_keywords:
 - vbaac10.chm13366
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DividingLines Property, Access [vbaac10.chm13366]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DividingLines, Access [vbaac10.chm13366]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.DividingLines (Access)](http://msdn.microsoft.com/library/form.dividinglines-property-access%28Office.15%29.aspx)
-
+[Form.DividingLines Property (Access)](http://msdn.microsoft.com/library/f8c62451-ccde-43f9-91f6-cdef38571c54%28Office.15%29.aspx)
 

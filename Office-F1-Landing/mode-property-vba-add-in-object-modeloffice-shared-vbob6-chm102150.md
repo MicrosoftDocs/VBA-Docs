@@ -1,5 +1,5 @@
 ---
-title: Propiedad Mode (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102150]
+title: Mode Property (VBA Add-In Object Model), Office Shared [vbob6.chm102150]
 keywords: vbob6.chm102150
 f1_keywords:
 - vbob6.chm102150
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Mode Property (VBA Add-In Object Model), Office Shared [vbob6.chm102150]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Mode (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102150]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Mode (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/mode-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Mode Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/4ab344b6-c342-3211-769e-739208b76a41%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllowDeletions, Access [vbaac10.chm13357]
+title: AllowDeletions Property, Access [vbaac10.chm13357]
 keywords: vbaac10.chm13357
 f1_keywords:
 - vbaac10.chm13357
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AllowDeletions Property, Access [vbaac10.chm13357]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllowDeletions, Access [vbaac10.chm13357]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.AllowDeletions (Access)](http://msdn.microsoft.com/library/form.allowdeletions-property-access%28Office.15%29.aspx)
-
+[Form.AllowDeletions Property (Access)](http://msdn.microsoft.com/library/abcbaa74-9a02-ab9c-613f-0cf6b9ce98b7%28Office.15%29.aspx)
 

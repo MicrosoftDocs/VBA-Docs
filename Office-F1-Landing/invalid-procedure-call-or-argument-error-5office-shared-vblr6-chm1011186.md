@@ -1,5 +1,5 @@
 ---
-title: Llamada o argumento a procedimiento no válidos (error 5), Office Shared [vblr6.chm1011186]
+title: Invalid procedure call or argument (Error 5), Office Shared [vblr6.chm1011186]
 keywords: vblr6.chm1011186
 f1_keywords:
 - vblr6.chm1011186
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid procedure call or argument (Error 5), Office Shared [vblr6.chm1011186]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Llamada o argumento a procedimiento no válidos (error 5), Office Shared [vblr6.chm1011186]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Llamada o argumento de procedimiento no válido (error 5)](http://msdn.microsoft.com/library/invalid-procedure-call-or-argument-error-5%28Office.15%29.aspx)
-
+[Invalid procedure call or argument (Error 5)](http://msdn.microsoft.com/library/481b8431-b4ba-b368-2c5e-ade85b99348d%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Control Botón de comando, Access [vbaac10.chm4062]
+title: Command Button Control, Access [vbaac10.chm4062]
 keywords: vbaac10.chm4062
 f1_keywords:
 - vbaac10.chm4062
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Command Button Control, Access [vbaac10.chm4062]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Botón de comando, Access [vbaac10.chm4062]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Botón de comando](http://msdn.microsoft.com/library/command-button-control%28Office.15%29.aspx)
-
+[Command Button Control](http://msdn.microsoft.com/library/aea2b8e8-2249-0055-472f-e67b86044669%28Office.15%29.aspx)
 

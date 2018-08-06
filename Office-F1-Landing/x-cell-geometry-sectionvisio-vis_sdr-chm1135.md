@@ -1,5 +1,5 @@
 ---
-title: Celda X (sección Geometría), Visio [vis_sdr.chm1135]
+title: X Cell (Geometry Section), Visio [vis_sdr.chm1135]
 keywords: vis_sdr.chm1135
 f1_keywords:
 - vis_sdr.chm1135
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# X Cell (Geometry Section), Visio [vis_sdr.chm1135]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda X (sección Geometría), Visio [vis_sdr.chm1135]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda X (Sección de geometría)](http://msdn.microsoft.com/library/x-cell-geometry-section%28Office.15%29.aspx)
-
+[X Cell (Geometry Section)](http://msdn.microsoft.com/library/2416b323-e084-18e1-c9be-a797078dfab9%28Office.15%29.aspx)
 

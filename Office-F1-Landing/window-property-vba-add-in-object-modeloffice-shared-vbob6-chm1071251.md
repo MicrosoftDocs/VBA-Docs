@@ -1,5 +1,5 @@
 ---
-title: Propiedad Window (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071251]
+title: Window Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071251]
 keywords: vbob6.chm1071251
 f1_keywords:
 - vbob6.chm1071251
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Window Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071251]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Window (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071251]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Window (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/window-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Window Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/37d07dd6-9b60-85f7-08e1-5fb090d83e88%28Office.15%29.aspx)
 

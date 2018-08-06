@@ -1,5 +1,5 @@
 ---
-title: No se puede establecer el nombre de proyecto en este momento, Office Shared [vblr6.chm1117789]
+title: Can't set the project name at this time, Office Shared [vblr6.chm1117789]
 keywords: vblr6.chm1117789
 f1_keywords:
 - vblr6.chm1117789
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't set the project name at this time, Office Shared [vblr6.chm1117789]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede establecer el nombre de proyecto en este momento, Office Shared [vblr6.chm1117789]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede establecer el nombre del proyecto en este momento](http://msdn.microsoft.com/library/can-t-set-the-project-name-at-this-time%28Office.15%29.aspx)
-
+[Can't set the project name at this time](http://msdn.microsoft.com/library/b4b76831-1f5e-517b-b33f-487b7b906733%28Office.15%29.aspx)
 

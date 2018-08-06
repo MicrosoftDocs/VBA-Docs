@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnLostFocus, Access [vbaac10.chm10496]
+title: OnLostFocus Property, Access [vbaac10.chm10496]
 keywords: vbaac10.chm10496
 f1_keywords:
 - vbaac10.chm10496
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnLostFocus Property, Access [vbaac10.chm10496]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnLostFocus, Access [vbaac10.chm10496]
+[NavigationButton.OnLostFocus Property (Access)](http://msdn.microsoft.com/library/c802a73b-5f6b-d7b2-7a8b-303f3fdf3440%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.OnLostFocus Property (Access)](http://msdn.microsoft.com/library/e3bddd85-772e-9d3c-d079-b323f10a7d5a%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.OnLostFocus (Access)](http://msdn.microsoft.com/library/navigationbutton.onlostfocus-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.OnLostFocus (Access)](http://msdn.microsoft.com/library/commandbutton.onlostfocus-property-access%28Office.15%29.aspx)
 

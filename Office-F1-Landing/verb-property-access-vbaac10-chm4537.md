@@ -1,5 +1,5 @@
 ---
-title: Propiedad Verb, Access [vbaac10.chm4537]
+title: Verb Property, Access [vbaac10.chm4537]
 keywords: vbaac10.chm4537
 f1_keywords:
 - vbaac10.chm4537
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Verb Property, Access [vbaac10.chm4537]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Verb, Access [vbaac10.chm4537]
+[ObjectFrame.Verb Property (Access)](http://msdn.microsoft.com/library/ed661d02-d00f-4911-7be7-3a0e973e6456%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.Verb Property (Access)](http://msdn.microsoft.com/library/dffd74b7-2a69-9b18-dde2-d0fd02754f15%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.Verb (Access)](http://msdn.microsoft.com/library/objectframe.verb-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.Verb (Access)](http://msdn.microsoft.com/library/customcontrol.verb-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.Verb (Access)](http://msdn.microsoft.com/library/boundobjectframe.verb-property-access%28Office.15%29.aspx)
-
+[BoundObjectFrame.Verb Property (Access)](http://msdn.microsoft.com/library/edbca2b1-fe7a-f0d0-1baf-fedbccb6dfb7%28Office.15%29.aspx)
 

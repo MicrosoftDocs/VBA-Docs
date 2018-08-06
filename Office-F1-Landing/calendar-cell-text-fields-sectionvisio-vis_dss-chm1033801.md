@@ -1,5 +1,5 @@
 ---
-title: Celda Calendar (sección Text Fields), Visio [Vis_DSS.chm1033801]
+title: Calendar Cell (Text Fields Section), Visio [Vis_DSS.chm1033801]
 keywords: vis_dss.chm1033801
 f1_keywords:
 - vis_dss.chm1033801
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Calendar Cell (Text Fields Section), Visio [Vis_DSS.chm1033801]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Calendar (sección Text Fields), Visio [Vis_DSS.chm1033801]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Calendar (Sección de campos de texto)](http://msdn.microsoft.com/library/calendar-cell-text-fields-section%28Office.15%29.aspx)
-
+[Calendar Cell (Text Fields Section)](http://msdn.microsoft.com/library/0c3e275e-25f0-3681-03f4-257145c19690%28Office.15%29.aspx)
 

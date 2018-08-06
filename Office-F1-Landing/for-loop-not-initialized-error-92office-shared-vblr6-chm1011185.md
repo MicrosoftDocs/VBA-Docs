@@ -1,5 +1,5 @@
 ---
-title: Bucle For no inicializado (error 92), Office Shared [vblr6.chm1011185]
+title: For loop not initialized (Error 92), Office Shared [vblr6.chm1011185]
 keywords: vblr6.chm1011185
 f1_keywords:
 - vblr6.chm1011185
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# For loop not initialized (Error 92), Office Shared [vblr6.chm1011185]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Bucle For no inicializado (error 92), Office Shared [vblr6.chm1011185]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [For loop no inicializado (error 92)](http://msdn.microsoft.com/library/for-loop-not-initialized-error-92%28Office.15%29.aspx)
-
+[For loop not initialized (Error 92)](http://msdn.microsoft.com/library/11c7ab3f-c619-3b94-6399-11c4a00546f4%28Office.15%29.aspx)
 

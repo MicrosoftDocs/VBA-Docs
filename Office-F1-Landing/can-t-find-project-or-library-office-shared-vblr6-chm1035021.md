@@ -1,5 +1,5 @@
 ---
-title: No se puede encontrar el proyecto o la biblioteca, Office Shared [vblr6.chm1035021]
+title: Can't find project or library, Office Shared [vblr6.chm1035021]
 keywords: vblr6.chm1035021
 f1_keywords:
 - vblr6.chm1035021
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't find project or library, Office Shared [vblr6.chm1035021]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede encontrar el proyecto o la biblioteca, Office Shared [vblr6.chm1035021]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encuentra el proyecto o la biblioteca](http://msdn.microsoft.com/library/can-t-find-project-or-library%28Office.15%29.aspx)
-
+[Can't find project or library](http://msdn.microsoft.com/library/078ae060-a90b-e992-2cfb-34ee6b003098%28Office.15%29.aspx)
 

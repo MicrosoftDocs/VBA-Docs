@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsConnected, Access [vbaac10.chm12714]
+title: IsConnected Property, Access [vbaac10.chm12714]
 keywords: vbaac10.chm12714
 f1_keywords:
 - vbaac10.chm12714
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IsConnected Property, Access [vbaac10.chm12714]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsConnected, Access [vbaac10.chm12714]
+[CodeProject.IsConnected Property (Access)](http://msdn.microsoft.com/library/09710a16-f269-0229-74ea-da128d95ff03%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.IsConnected Property (Access)](http://msdn.microsoft.com/library/04e1123b-ad18-9ebc-3dec-f49bcc16d5a0%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.IsConnected (Access)](http://msdn.microsoft.com/library/codeproject.isconnected-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.IsConnected (Access)](http://msdn.microsoft.com/library/currentproject.isconnected-property-access%28Office.15%29.aspx)
 

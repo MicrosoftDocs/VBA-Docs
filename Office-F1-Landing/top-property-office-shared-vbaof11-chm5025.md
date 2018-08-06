@@ -1,5 +1,5 @@
 ---
-title: Propiedad Top, Office Shared [vbaof11.chm5025]
+title: Top Property, Office Shared [vbaof11.chm5025]
 keywords: vbaof11.chm5025
 f1_keywords:
 - vbaof11.chm5025
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Top Property, Office Shared [vbaof11.chm5025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Top, Office Shared [vbaof11.chm5025]
+[CommandBarPopup.Top Property (Office)](http://msdn.microsoft.com/library/8949a41f-3772-be86-d794-002c680a4ade%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarControl.Top Property (Office)](http://msdn.microsoft.com/library/72513f35-86ec-1fde-b056-6d50c06d8a4c%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarPopup.Top (Office)](http://msdn.microsoft.com/library/commandbarpopup.top-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.Top (Office)](http://msdn.microsoft.com/library/commandbarcontrol.top-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.Top (Office)](http://msdn.microsoft.com/library/commandbarcombobox.top-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarButton.Top (Office)](http://msdn.microsoft.com/library/commandbarbutton.top-property-office%28Office.15%29.aspx)
-
+[CommandBarComboBox.Top Property (Office)](http://msdn.microsoft.com/library/f49930ca-9dba-9d9b-b7bb-93de87cdfcf8%28Office.15%29.aspx)
+[CommandBarButton.Top Property (Office)](http://msdn.microsoft.com/library/4ad019ed-a344-dac5-0063-b52bdead7916%28Office.15%29.aspx)
 

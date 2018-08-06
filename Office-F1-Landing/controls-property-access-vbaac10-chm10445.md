@@ -1,5 +1,5 @@
 ---
-title: Propiedad Controls, Access [vbaac10.chm10445]
+title: Controls Property, Access [vbaac10.chm10445]
 keywords: vbaac10.chm10445
 f1_keywords:
 - vbaac10.chm10445
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Controls Property, Access [vbaac10.chm10445]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Controls, Access [vbaac10.chm10445]
+[NavigationButton.Controls Property (Access)](http://msdn.microsoft.com/library/21ea22a5-72a5-3b98-468c-6f2baa1110cf%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Controls Property (Access)](http://msdn.microsoft.com/library/017d583d-671e-7d9b-bdae-d67a7d94b4a8%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Controls (Access)](http://msdn.microsoft.com/library/navigationbutton.controls-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Controls (Access)](http://msdn.microsoft.com/library/commandbutton.controls-property-access%28Office.15%29.aspx)
 

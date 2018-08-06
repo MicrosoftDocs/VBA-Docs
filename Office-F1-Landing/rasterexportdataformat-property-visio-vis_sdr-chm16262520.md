@@ -1,5 +1,5 @@
 ---
-title: Propiedad RasterExportDataFormat, Visio [vis_sdr.chm16262520]
+title: RasterExportDataFormat Property, Visio [vis_sdr.chm16262520]
 keywords: vis_sdr.chm16262520
 f1_keywords:
 - vis_sdr.chm16262520
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RasterExportDataFormat Property, Visio [vis_sdr.chm16262520]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RasterExportDataFormat, Visio [vis_sdr.chm16262520]
+[ApplicationSettings.RasterExportDataFormat Property (Visio)](http://msdn.microsoft.com/library/e07c3f2e-469e-33bc-cd6d-0261cf7ec267%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.RasterExportDataFormat Property (Visio)](http://msdn.microsoft.com/library/d30c29f0-b4d9-b8f1-3950-c0a1fa626f02.aspx)
 
-
- [RasterExportDataFormat (propiedad)](http://msdn.microsoft.com/library/applicationsettings.rasterexportdataformat-property-visio%28Office.15%29.aspx)
-
-
- [ApplicationSettings.RasterExportDataFormat Property (Visio)](http://msdn.microsoft.com/library/d30c29f0-b4d9-b8f1-3950-c0a1fa626f02.aspx)
 

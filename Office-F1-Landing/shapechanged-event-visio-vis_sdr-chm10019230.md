@@ -1,5 +1,5 @@
 ---
-title: Evento ShapeChanged, Visio [vis_sdr.chm10019230]
+title: ShapeChanged Event, Visio [vis_sdr.chm10019230]
 keywords: vis_sdr.chm10019230
 f1_keywords:
 - vis_sdr.chm10019230
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeChanged Event, Visio [vis_sdr.chm10019230]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ShapeChanged, Visio [vis_sdr.chm10019230]
+[Application.ShapeChanged Event (Visio)](http://msdn.microsoft.com/library/aac5dfc5-370e-8299-4e3e-39fe9a7000d2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.ShapeChanged Event (Visio)](http://msdn.microsoft.com/library/a0d1a578-4e5b-dfbb-8bb6-d4a1f97790cc%28Office.15%29.aspx)
 
-
- [Evento Application.ShapeChanged (Visio)](http://msdn.microsoft.com/library/application.shapechanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.ShapeChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.shapechanged-event-visio%28Office.15%29.aspx)
 

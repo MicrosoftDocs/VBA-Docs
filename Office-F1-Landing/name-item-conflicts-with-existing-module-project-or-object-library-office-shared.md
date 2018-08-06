@@ -1,5 +1,5 @@
 ---
-title: El nombre 'item' entra en conflicto con el módulo, proyecto o biblioteca de objetos existentes, Office Shared [vblr6.chm50135]
+title: Name 'item' conflicts with existing module, project, or object library, Office Shared [vblr6.chm50135]
 keywords: vblr6.chm50135
 f1_keywords:
 - vblr6.chm50135
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Name 'item' conflicts with existing module, project, or object library, Office Shared [vblr6.chm50135]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El nombre 'item' entra en conflicto con el módulo, proyecto o biblioteca de objetos existentes, Office Shared [vblr6.chm50135]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El nombre 'item' entra en conflicto con un módulo, proyecto o biblioteca de objetos existente](http://msdn.microsoft.com/library/name-item-conflicts-with-existing-module-project-or-object-library%28Office.15%29.aspx)
-
+[Name 'item' conflicts with existing module, project, or object library](http://msdn.microsoft.com/library/f8221415-f2dd-1076-f883-749f61ea449d%28Office.15%29.aspx)
 

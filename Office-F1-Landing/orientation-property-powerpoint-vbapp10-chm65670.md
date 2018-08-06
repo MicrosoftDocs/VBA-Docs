@@ -1,5 +1,5 @@
 ---
-title: Propiedad Orientation, PowerPoint [vbapp10.chm65670]
+title: Orientation Property, PowerPoint [vbapp10.chm65670]
 keywords: vbapp10.chm65670
 f1_keywords:
 - vbapp10.chm65670
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Orientation Property, PowerPoint [vbapp10.chm65670]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Orientation, PowerPoint [vbapp10.chm65670]
+[DataLabels.Orientation Property (PowerPoint)](http://msdn.microsoft.com/library/db210fce-1242-63bc-0b0c-2e2d5c1aba39%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabel.Orientation Property (PowerPoint)](http://msdn.microsoft.com/library/2e7c4976-0549-9e03-6564-fb5db8667d64%28Office.15%29.aspx)
 
-
- [Propiedad DataLabels.Orientation (PowerPoint)](http://msdn.microsoft.com/library/datalabels.orientation-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabel.Orientation (PowerPoint)](http://msdn.microsoft.com/library/datalabel.orientation-property-powerpoint%28Office.15%29.aspx)
 

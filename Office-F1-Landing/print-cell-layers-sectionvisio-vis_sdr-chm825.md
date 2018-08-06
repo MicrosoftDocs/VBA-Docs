@@ -1,5 +1,5 @@
 ---
-title: Celda Print (sección Capas), Visio [vis_sdr.chm825]
+title: Print Cell (Layers Section), Visio [vis_sdr.chm825]
 keywords: vis_sdr.chm825
 f1_keywords:
 - vis_sdr.chm825
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Print Cell (Layers Section), Visio [vis_sdr.chm825]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Print (sección Capas), Visio [vis_sdr.chm825]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Print (Sección de capas)](http://msdn.microsoft.com/library/print-cell-layers-section%28Office.15%29.aspx)
-
+[Print Cell (Layers Section)](http://msdn.microsoft.com/library/9c76bf02-7269-65bb-2fd2-920243d962ef%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda Value (sección Text Fields), Visio [Vis_DSS.chm82251699]
+title: Value Cell (Text Fields Section), Visio [Vis_DSS.chm82251699]
 keywords: vis_dss.chm82251699
 f1_keywords:
 - vis_dss.chm82251699
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Value Cell (Text Fields Section), Visio [Vis_DSS.chm82251699]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Value (sección Text Fields), Visio [Vis_DSS.chm82251699]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Value (Sección de campos de texto)](http://msdn.microsoft.com/library/value-cell-text-fields-section%28Office.15%29.aspx)
-
+[Value Cell (Text Fields Section)](http://msdn.microsoft.com/library/3ca662c8-1ce4-89a9-3264-1ba533fcd444%28Office.15%29.aspx)
 

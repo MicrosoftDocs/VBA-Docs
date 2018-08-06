@@ -1,5 +1,5 @@
 ---
-title: Método LegendEntries, Excel [vbagr10.chm65709]
+title: LegendEntries Method, Excel [vbagr10.chm65709]
 keywords: vbagr10.chm65709
 f1_keywords:
 - vbagr10.chm65709
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LegendEntries Method, Excel [vbagr10.chm65709]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método LegendEntries, Excel [vbagr10.chm65709]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LegendEntries (método)](http://msdn.microsoft.com/library/legendentries-method%28Office.15%29.aspx)
-
+[LegendEntries Method](http://msdn.microsoft.com/library/6419aa89-6e59-dc04-ab79-67a0a38cad6f%28Office.15%29.aspx)
 

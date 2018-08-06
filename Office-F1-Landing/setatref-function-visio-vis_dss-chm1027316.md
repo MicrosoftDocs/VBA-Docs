@@ -1,5 +1,5 @@
 ---
-title: Función SETATREF, Visio [Vis_DSS.chm1027316]
+title: SETATREF Function, Visio [Vis_DSS.chm1027316]
 keywords: vis_dss.chm1027316
 f1_keywords:
 - vis_dss.chm1027316
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SETATREF Function, Visio [Vis_DSS.chm1027316]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función SETATREF, Visio [Vis_DSS.chm1027316]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SETATREF (función)](http://msdn.microsoft.com/library/setatref-function%28Office.15%29.aspx)
-
+[SETATREF Function](http://msdn.microsoft.com/library/1ecfdb05-2533-470a-006b-e554026944d8%28Office.15%29.aspx)
 

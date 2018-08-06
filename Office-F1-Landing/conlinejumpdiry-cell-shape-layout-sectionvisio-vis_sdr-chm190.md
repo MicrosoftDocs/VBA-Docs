@@ -1,5 +1,5 @@
 ---
-title: Celda ConLineJumpDirY (sección Shape Layout), Visio [vis_sdr.chm190]
+title: ConLineJumpDirY Cell (Shape Layout Section), Visio [vis_sdr.chm190]
 keywords: vis_sdr.chm190
 f1_keywords:
 - vis_sdr.chm190
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ConLineJumpDirY Cell (Shape Layout Section), Visio [vis_sdr.chm190]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ConLineJumpDirY (sección Shape Layout), Visio [vis_sdr.chm190]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ConLineJumpDirY (Sección de diseño de la forma)](http://msdn.microsoft.com/library/conlinejumpdiry-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ConLineJumpDirY Cell (Shape Layout Section)](http://msdn.microsoft.com/library/93f82ae0-3442-fac1-9906-b84afef85f5c%28Office.15%29.aspx)
 

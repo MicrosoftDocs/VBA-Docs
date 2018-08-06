@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasLeaderLines, Excel [vbagr10.chm5207487]
+title: HasLeaderLines Property, Excel [vbagr10.chm5207487]
 keywords: vbagr10.chm5207487
 f1_keywords:
 - vbagr10.chm5207487
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasLeaderLines Property, Excel [vbagr10.chm5207487]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasLeaderLines, Excel [vbagr10.chm5207487]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasLeaderLines (propiedad)](http://msdn.microsoft.com/library/hasleaderlines-property%28Office.15%29.aspx)
-
+[HasLeaderLines Property](http://msdn.microsoft.com/library/7bd99363-8845-f74f-2732-7570427d7a22%28Office.15%29.aspx)
 

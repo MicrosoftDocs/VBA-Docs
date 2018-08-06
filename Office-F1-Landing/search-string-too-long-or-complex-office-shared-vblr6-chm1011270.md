@@ -1,5 +1,5 @@
 ---
-title: Buscar cadena demasiado larga o compleja, Office Shared [vblr6.chm1011270]
+title: Search string too long or complex, Office Shared [vblr6.chm1011270]
 keywords: vblr6.chm1011270
 f1_keywords:
 - vblr6.chm1011270
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Search string too long or complex, Office Shared [vblr6.chm1011270]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Buscar cadena demasiado larga o compleja, Office Shared [vblr6.chm1011270]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La cadena de búsqueda es demasiado larga o compleja](http://msdn.microsoft.com/library/search-string-too-long-or-complex%28Office.15%29.aspx)
-
+[Search string too long or complex](http://msdn.microsoft.com/library/e7d6838c-bd5f-8fb0-039f-2c43cfadb637%28Office.15%29.aspx)
 

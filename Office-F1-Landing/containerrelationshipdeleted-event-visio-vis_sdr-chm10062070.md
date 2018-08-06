@@ -1,5 +1,5 @@
 ---
-title: Evento ContainerRelationshipDeleted, Visio [vis_sdr.chm10062070]
+title: ContainerRelationshipDeleted Event, Visio [vis_sdr.chm10062070]
 keywords: vis_sdr.chm10062070
 f1_keywords:
 - vis_sdr.chm10062070
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ContainerRelationshipDeleted Event, Visio [vis_sdr.chm10062070]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ContainerRelationshipDeleted, Visio [vis_sdr.chm10062070]
+[Application.ContainerRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/1aa5cd59-f350-ba47-0654-dc1bf1d6073f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.ContainerRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/689cb7e6-48a4-6438-ba9d-e1b554ac0bca%28Office.15%29.aspx)
 
-
- [Evento Application.ContainerRelationshipDeleted (Visio)](http://msdn.microsoft.com/library/application.containerrelationshipdeleted-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.ContainerRelationshipDeleted (Visio)](http://msdn.microsoft.com/library/invisibleapp.containerrelationshipdeleted-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento ProtectedViewWindowActivate, Word [vbawd10.chm4000034]
+title: ProtectedViewWindowActivate Event, Word [vbawd10.chm4000034]
 keywords: vbawd10.chm4000034
 f1_keywords:
 - vbawd10.chm4000034
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ProtectedViewWindowActivate Event, Word [vbawd10.chm4000034]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ProtectedViewWindowActivate, Word [vbawd10.chm4000034]
+[Application.ProtectedViewWindowActivate Event (Word)](http://msdn.microsoft.com/library/ae68e1aa-7cec-cd76-ee0e-71a051c5b6e3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.ProtectedViewWindowSize Event (Word)](http://msdn.microsoft.com/library/b28d53f9-783f-6d68-2080-a0b1d8484c43%28Office.15%29.aspx)
 
-
- [Evento Application.ProtectedViewWindowActivate (Word)](http://msdn.microsoft.com/library/application.protectedviewwindowactivate-event-word%28Office.15%29.aspx)
-
-
- [Evento Application.ProtectedViewWindowSize (Word)](http://msdn.microsoft.com/library/application.protectedviewwindowsize-event-word%28Office.15%29.aspx)
 

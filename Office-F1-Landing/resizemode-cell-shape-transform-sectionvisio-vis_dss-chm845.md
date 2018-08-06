@@ -1,5 +1,5 @@
 ---
-title: Celda ResizeMode (sección Shape Transform), Visio [Vis_DSS.chm845]
+title: ResizeMode Cell (Shape Transform Section), Visio [Vis_DSS.chm845]
 keywords: vis_dss.chm845
 f1_keywords:
 - vis_dss.chm845
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ResizeMode Cell (Shape Transform Section), Visio [Vis_DSS.chm845]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ResizeMode (sección Shape Transform), Visio [Vis_DSS.chm845]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ResizeMode (Sección de transformación de forma)](http://msdn.microsoft.com/library/resizemode-cell-shape-transform-section%28Office.15%29.aspx)
-
+[ResizeMode Cell (Shape Transform Section)](http://msdn.microsoft.com/library/49816e46-fa83-3ee4-1451-9c85fbd0f519%28Office.15%29.aspx)
 

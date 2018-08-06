@@ -1,5 +1,5 @@
 ---
-title: Propiedad Creator, Excel [vbagr10.chm3076986]
+title: Creator Property, Excel [vbagr10.chm3076986]
 keywords: vbagr10.chm3076986
 f1_keywords:
 - vbagr10.chm3076986
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Creator Property, Excel [vbagr10.chm3076986]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Creator, Excel [vbagr10.chm3076986]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Creator (propiedad)](http://msdn.microsoft.com/library/creator-property%28Office.15%29.aspx)
-
+[Creator Property](http://msdn.microsoft.com/library/79d72908-f141-1d3a-d8db-c10db7b33537%28Office.15%29.aspx)
 

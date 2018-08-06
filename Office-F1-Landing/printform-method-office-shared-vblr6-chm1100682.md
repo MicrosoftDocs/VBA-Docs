@@ -1,5 +1,5 @@
 ---
-title: Método PrintForm, Office Shared [vblr6.chm1100682]
+title: PrintForm Method, Office Shared [vblr6.chm1100682]
 keywords: vblr6.chm1100682
 f1_keywords:
 - vblr6.chm1100682
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PrintForm Method, Office Shared [vblr6.chm1100682]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método PrintForm, Office Shared [vblr6.chm1100682]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método PrintForm](http://msdn.microsoft.com/library/printform-method%28Office.15%29.aspx)
-
+[PrintForm Method](http://msdn.microsoft.com/library/d4481074-6ecf-b845-2a51-ef34dcdc82ab%28Office.15%29.aspx)
 

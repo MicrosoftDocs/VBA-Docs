@@ -1,5 +1,5 @@
 ---
-title: Celda LockBegin (sección Protección), Visio [Vis_DSS.chm82251220]
+title: LockBegin Cell (Protection Section), Visio [Vis_DSS.chm82251220]
 keywords: vis_dss.chm82251220
 f1_keywords:
 - vis_dss.chm82251220
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockBegin Cell (Protection Section), Visio [Vis_DSS.chm82251220]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockBegin (sección Protección), Visio [Vis_DSS.chm82251220]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockBegin (Sección de protección)](http://msdn.microsoft.com/library/lockbegin-cell-protection-section%28Office.15%29.aspx)
-
+[LockBegin Cell (Protection Section)](http://msdn.microsoft.com/library/cce34aba-caae-51ee-992e-92a490b68ea5%28Office.15%29.aspx)
 

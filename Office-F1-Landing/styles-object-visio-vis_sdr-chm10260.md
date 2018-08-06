@@ -1,5 +1,5 @@
 ---
-title: Objeto Styles, Visio [vis_sdr.chm10260]
+title: Styles Object, Visio [vis_sdr.chm10260]
 keywords: vis_sdr.chm10260
 f1_keywords:
 - vis_sdr.chm10260
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Styles Object, Visio [vis_sdr.chm10260]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Styles, Visio [vis_sdr.chm10260]
+[Styles Object (Visio)](http://msdn.microsoft.com/library/aa32ec6e-2323-20df-81f8-0183cdb5ae7c.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Styles Object (Visio)](http://msdn.microsoft.com/library/327c9f05-ddb5-bf70-86bf-69eb0763512c%28Office.15%29.aspx)
 
-
- [Styles Object (Visio)](http://msdn.microsoft.com/library/aa32ec6e-2323-20df-81f8-0183cdb5ae7c.aspx)
-
-
- [Styles (colección)](http://msdn.microsoft.com/library/styles-object-visio%28Office.15%29.aspx)
 

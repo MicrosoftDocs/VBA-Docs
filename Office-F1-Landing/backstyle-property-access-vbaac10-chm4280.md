@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackStyle, Access [vbaac10.chm4280]
+title: BackStyle Property, Access [vbaac10.chm4280]
 keywords: vbaac10.chm4280
 f1_keywords:
 - vbaac10.chm4280
@@ -9,41 +9,24 @@ ms.date: 06/08/2017
 ---
 
 
+# BackStyle Property, Access [vbaac10.chm4280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackStyle, Access [vbaac10.chm4280]
+[CommandButton.BackStyle Property (Access)](http://msdn.microsoft.com/library/b7c930b0-e203-fe3a-ce54-0778d65d073f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Rectangle.BackStyle Property (Access)](http://msdn.microsoft.com/library/e522ef3b-b397-c931-7978-2193b3f74b14%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.BackStyle (Access)](http://msdn.microsoft.com/library/commandbutton.backstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Rectangle.BackStyle (Access)](http://msdn.microsoft.com/library/rectangle.backstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.BackStyle (Access)](http://msdn.microsoft.com/library/navigationbutton.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.BackStyle (Access)](http://msdn.microsoft.com/library/textbox.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad Label.BackStyle (Access)](http://msdn.microsoft.com/library/label.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad BoundObjectFrame.BackStyle (Access)](http://msdn.microsoft.com/library/boundobjectframe.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad Image.BackStyle (Access)](http://msdn.microsoft.com/library/image.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad ComboBox.BackStyle (Access)](http://msdn.microsoft.com/library/combobox.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad OptionGroup.BackStyle (Access)](http://msdn.microsoft.com/library/optiongroup.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad EmptyCell.BackStyle (Access)](http://msdn.microsoft.com/library/emptycell.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad NavigationControl.BackStyle (Access)](http://msdn.microsoft.com/library/navigationcontrol.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad ObjectFrame.BackStyle (Access)](http://msdn.microsoft.com/library/objectframe.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad TabControl.BackStyle (Access)](http://msdn.microsoft.com/library/tabcontrol.backstyle-property-access%28Office.15%29.aspx)
-
- [Propiedad Attachment.BackStyle (Access)](http://msdn.microsoft.com/library/attachment.backstyle-property-access%28Office.15%29.aspx)
-
+[NavigationButton.BackStyle Property (Access)](http://msdn.microsoft.com/library/941456b8-df23-2811-ff93-21d007eb9a2e%28Office.15%29.aspx)
+[TextBox.BackStyle Property (Access)](http://msdn.microsoft.com/library/95a277c8-df48-79a5-c232-2cfe32eae8f2%28Office.15%29.aspx)
+[Label.BackStyle Property (Access)](http://msdn.microsoft.com/library/27657ddf-0bd4-d8cc-61ed-39811c4269b3%28Office.15%29.aspx)
+[BoundObjectFrame.BackStyle Property (Access)](http://msdn.microsoft.com/library/335ce425-d682-831a-ecfa-4c46b9bf5a28%28Office.15%29.aspx)
+[Image.BackStyle Property (Access)](http://msdn.microsoft.com/library/bd3b2a60-2b9d-7b18-63d1-5bc6f059eb5a%28Office.15%29.aspx)
+[ComboBox.BackStyle Property (Access)](http://msdn.microsoft.com/library/1def822f-6b4a-8384-9d81-72b30e680908%28Office.15%29.aspx)
+[OptionGroup.BackStyle Property (Access)](http://msdn.microsoft.com/library/f93a9b31-e806-b45b-5f23-9ede92a23ba5%28Office.15%29.aspx)
+[EmptyCell.BackStyle Property (Access)](http://msdn.microsoft.com/library/8ee86ae2-c554-8825-0faf-b3f5056fba0f%28Office.15%29.aspx)
+[NavigationControl.BackStyle Property (Access)](http://msdn.microsoft.com/library/1f46ccfd-78cc-0eae-3485-b91306dc6bde%28Office.15%29.aspx)
+[ObjectFrame.BackStyle Property (Access)](http://msdn.microsoft.com/library/4d8a384b-e796-30b2-4ce1-ce172e58b431%28Office.15%29.aspx)
+[TabControl.BackStyle Property (Access)](http://msdn.microsoft.com/library/f20c9406-7608-89ea-d0ff-d54bf4d1c526%28Office.15%29.aspx)
+[Attachment.BackStyle Property (Access)](http://msdn.microsoft.com/library/7e86f99d-a74a-8153-64ef-fe7cea81d218%28Office.15%29.aspx)
 

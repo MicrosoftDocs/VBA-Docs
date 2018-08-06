@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowLegendKey, Excel [vbagr10.chm5207994]
+title: ShowLegendKey Property, Excel [vbagr10.chm5207994]
 keywords: vbagr10.chm5207994
 f1_keywords:
 - vbagr10.chm5207994
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowLegendKey Property, Excel [vbagr10.chm5207994]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowLegendKey, Excel [vbagr10.chm5207994]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ShowLegendKey (propiedad)](http://msdn.microsoft.com/library/showlegendkey-property%28Office.15%29.aspx)
-
+[ShowLegendKey Property](http://msdn.microsoft.com/library/508fe969-30fc-f313-2406-213b5d8594ff%28Office.15%29.aspx)
 

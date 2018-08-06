@@ -1,5 +1,5 @@
 ---
-title: Control Marco de objeto independiente, Access [vbaac10.chm13601]
+title: Unbound Object Frame Control, Access [vbaac10.chm13601]
 keywords: vbaac10.chm13601
 f1_keywords:
 - vbaac10.chm13601
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unbound Object Frame Control, Access [vbaac10.chm13601]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Marco de objeto independiente, Access [vbaac10.chm13601]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Marco de objeto independiente](http://msdn.microsoft.com/library/unbound-object-frame-control%28Office.15%29.aspx)
-
+[Unbound Object Frame Control](http://msdn.microsoft.com/library/4a0874dc-ecac-be7c-25e2-ecc79696e2eb%28Office.15%29.aspx)
 

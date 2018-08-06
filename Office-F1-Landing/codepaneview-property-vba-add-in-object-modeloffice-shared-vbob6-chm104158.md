@@ -1,5 +1,5 @@
 ---
-title: Propiedad CodePaneView (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104158]
+title: CodePaneView Property (VBA Add-In Object Model), Office Shared [vbob6.chm104158]
 keywords: vbob6.chm104158
 f1_keywords:
 - vbob6.chm104158
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CodePaneView Property (VBA Add-In Object Model), Office Shared [vbob6.chm104158]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CodePaneView (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104158]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CodePaneView (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/codepaneview-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CodePaneView Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/3bab1634-d592-2848-1260-b1f2c8c14571%28Office.15%29.aspx)
 

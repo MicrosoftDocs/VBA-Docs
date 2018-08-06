@@ -1,5 +1,5 @@
 ---
-title: Función Error, Office Shared [vblr6.chm1011348]
+title: Error Function, Office Shared [vblr6.chm1011348]
 keywords: vblr6.chm1011348
 f1_keywords:
 - vblr6.chm1011348
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Error Function, Office Shared [vblr6.chm1011348]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Error, Office Shared [vblr6.chm1011348]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función Error](http://msdn.microsoft.com/library/error-function%28Office.15%29.aspx)
-
+[Error Function](http://msdn.microsoft.com/library/f0e51ff6-34f4-43be-ffcb-d935fa0513c7%28Office.15%29.aspx)
 

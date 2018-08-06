@@ -1,5 +1,5 @@
 ---
-title: Método Show (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098993]
+title: Show Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098993]
 keywords: vbob6.chm1098993
 f1_keywords:
 - vbob6.chm1098993
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Show Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098993]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Show (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098993]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Show (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/show-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Show Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/c7a18168-f7c2-157d-ad2b-f7799177fc72%28Office.15%29.aspx)
 

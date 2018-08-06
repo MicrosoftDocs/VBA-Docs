@@ -1,5 +1,5 @@
 ---
-title: Propiedad InsideTop, Excel [vbagr10.chm5207557]
+title: InsideTop Property, Excel [vbagr10.chm5207557]
 keywords: vbagr10.chm5207557
 f1_keywords:
 - vbagr10.chm5207557
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# InsideTop Property, Excel [vbagr10.chm5207557]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad InsideTop, Excel [vbagr10.chm5207557]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [InsideTop (propiedad)](http://msdn.microsoft.com/library/insidetop-property%28Office.15%29.aspx)
-
+[InsideTop Property](http://msdn.microsoft.com/library/c91d9788-0eb4-02ed-48f0-2118d317b1ec%28Office.15%29.aspx)
 

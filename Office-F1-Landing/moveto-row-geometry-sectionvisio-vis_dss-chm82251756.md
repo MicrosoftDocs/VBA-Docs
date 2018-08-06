@@ -1,5 +1,5 @@
 ---
-title: Fila MoveTo (sección Geometría), Visio [Vis_DSS.chm82251756]
+title: MoveTo Row (Geometry Section), Visio [Vis_DSS.chm82251756]
 keywords: vis_dss.chm82251756
 f1_keywords:
 - vis_dss.chm82251756
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MoveTo Row (Geometry Section), Visio [Vis_DSS.chm82251756]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila MoveTo (sección Geometría), Visio [Vis_DSS.chm82251756]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila MoveTo (Sección de Geometría)](http://msdn.microsoft.com/library/moveto-row-geometry-section%28Office.15%29.aspx)
-
+[MoveTo Row (Geometry Section)](http://msdn.microsoft.com/library/c5b20257-676c-279d-f730-1b6fbbe98305%28Office.15%29.aspx)
 

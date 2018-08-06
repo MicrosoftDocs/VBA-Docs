@@ -1,5 +1,5 @@
 ---
-title: Celda Spacing (sección Character), Visio [Vis_DSS.chm82251725]
+title: Spacing Cell (Character Section), Visio [Vis_DSS.chm82251725]
 keywords: vis_dss.chm82251725
 f1_keywords:
 - vis_dss.chm82251725
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Spacing Cell (Character Section), Visio [Vis_DSS.chm82251725]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Spacing (sección Character), Visio [Vis_DSS.chm82251725]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Spacing (Sección de caracteres)](http://msdn.microsoft.com/library/spacing-cell-character-section%28Office.15%29.aspx)
-
+[Spacing Cell (Character Section)](http://msdn.microsoft.com/library/46feb136-01ac-1303-66ab-d772c0ec41a0%28Office.15%29.aspx)
 

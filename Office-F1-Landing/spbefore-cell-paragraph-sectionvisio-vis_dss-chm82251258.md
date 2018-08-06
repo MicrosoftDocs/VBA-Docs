@@ -1,5 +1,5 @@
 ---
-title: Celda SpBefore (sección Paragraph), Visio [Vis_DSS.chm82251258]
+title: SpBefore Cell (Paragraph Section), Visio [Vis_DSS.chm82251258]
 keywords: vis_dss.chm82251258
 f1_keywords:
 - vis_dss.chm82251258
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SpBefore Cell (Paragraph Section), Visio [Vis_DSS.chm82251258]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda SpBefore (sección Paragraph), Visio [Vis_DSS.chm82251258]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda SpBefore (Sección de párrafo)](http://msdn.microsoft.com/library/spbefore-cell-paragraph-section%28Office.15%29.aspx)
-
+[SpBefore Cell (Paragraph Section)](http://msdn.microsoft.com/library/a7d5b0a1-3657-8211-f0e0-eaed588fa0bc%28Office.15%29.aspx)
 

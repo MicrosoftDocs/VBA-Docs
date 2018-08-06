@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, PowerPoint [vbapp10.chm67655]
+title: Height Property, PowerPoint [vbapp10.chm67655]
 keywords: vbapp10.chm67655
 f1_keywords:
 - vbapp10.chm67655
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, PowerPoint [vbapp10.chm67655]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, PowerPoint [vbapp10.chm67655]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DataLabel.Height (PowerPoint)](http://msdn.microsoft.com/library/datalabel.height-property-powerpoint%28Office.15%29.aspx)
-
+[DataLabel.Height Property (PowerPoint)](http://msdn.microsoft.com/library/891f3e75-b917-bb35-9365-7e30f0d4282d%28Office.15%29.aspx)
 

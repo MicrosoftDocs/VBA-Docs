@@ -1,5 +1,5 @@
 ---
-title: Método Clear, Excel [vbagr10.chm3077611]
+title: Clear Method, Excel [vbagr10.chm3077611]
 keywords: vbagr10.chm3077611
 f1_keywords:
 - vbagr10.chm3077611
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Clear Method, Excel [vbagr10.chm3077611]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Clear, Excel [vbagr10.chm3077611]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Clear (método)](http://msdn.microsoft.com/library/clear-method%28Office.15%29.aspx)
-
+[Clear Method](http://msdn.microsoft.com/library/f77c2fc0-6ec4-7345-0e5c-7b8dd4cd1a90%28Office.15%29.aspx)
 

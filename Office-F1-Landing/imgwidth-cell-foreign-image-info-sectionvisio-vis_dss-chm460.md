@@ -1,5 +1,5 @@
 ---
-title: Celda ImgWidth (sección Foreign Image Info), Visio [Vis_DSS.chm460]
+title: ImgWidth Cell (Foreign Image Info Section), Visio [Vis_DSS.chm460]
 keywords: vis_dss.chm460
 f1_keywords:
 - vis_dss.chm460
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ImgWidth Cell (Foreign Image Info Section), Visio [Vis_DSS.chm460]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ImgWidth (sección Foreign Image Info), Visio [Vis_DSS.chm460]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ImgWidth (Sección de información de imagen externa)](http://msdn.microsoft.com/library/imgwidth-cell-foreign-image-info-section%28Office.15%29.aspx)
-
+[ImgWidth Cell (Foreign Image Info Section)](http://msdn.microsoft.com/library/b57fb962-0b3e-f2e5-3b88-3edf33e40496%28Office.15%29.aspx)
 

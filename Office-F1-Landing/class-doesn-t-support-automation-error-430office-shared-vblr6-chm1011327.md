@@ -1,5 +1,5 @@
 ---
-title: La clase no permite la automatización (error 430), Office Shared [vblr6.chm1011327]
+title: Class doesn't support Automation (Error 430), Office Shared [vblr6.chm1011327]
 keywords: vblr6.chm1011327
 f1_keywords:
 - vblr6.chm1011327
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Class doesn't support Automation (Error 430), Office Shared [vblr6.chm1011327]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La clase no permite la automatización (error 430), Office Shared [vblr6.chm1011327]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La clase no admite la automatización (error 430)](http://msdn.microsoft.com/library/class-doesn-t-support-automation-error-430%28Office.15%29.aspx)
-
+[Class doesn't support Automation (Error 430)](http://msdn.microsoft.com/library/f3d5d8a8-4d53-f8bc-b5dc-62f0820fe8fc%28Office.15%29.aspx)
 

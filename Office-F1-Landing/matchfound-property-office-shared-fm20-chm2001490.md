@@ -1,5 +1,5 @@
 ---
-title: Propiedad MatchFound, Office Shared [fm20.chm2001490]
+title: MatchFound Property, Office Shared [fm20.chm2001490]
 keywords: fm20.chm2001490
 f1_keywords:
 - fm20.chm2001490
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MatchFound Property, Office Shared [fm20.chm2001490]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MatchFound, Office Shared [fm20.chm2001490]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MatchFound](http://msdn.microsoft.com/library/matchfound-property%28Office.15%29.aspx)
-
+[MatchFound Property](http://msdn.microsoft.com/library/db350684-1758-a849-c9e1-34714a00f1c3%28Office.15%29.aspx)
 

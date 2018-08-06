@@ -1,5 +1,5 @@
 ---
-title: Propiedad RightMargin, Access [vbaac10.chm4574]
+title: RightMargin Property, Access [vbaac10.chm4574]
 keywords: vbaac10.chm4574
 f1_keywords:
 - vbaac10.chm4574
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# RightMargin Property, Access [vbaac10.chm4574]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RightMargin, Access [vbaac10.chm4574]
+[ComboBox.RightMargin Property (Access)](http://msdn.microsoft.com/library/4ee85481-4489-4f81-123b-54062c071b97%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Printer.RightMargin Property (Access)](http://msdn.microsoft.com/library/cd4fc2b9-5612-b16f-b58a-7b1f9da0f936%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.RightMargin (Access)](http://msdn.microsoft.com/library/combobox.rightmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Printer.RightMargin (Access)](http://msdn.microsoft.com/library/printer.rightmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.RightMargin (Access)](http://msdn.microsoft.com/library/textbox.rightmargin-property-access%28Office.15%29.aspx)
-
- [Propiedad Label.RightMargin (Access)](http://msdn.microsoft.com/library/label.rightmargin-property-access%28Office.15%29.aspx)
-
+[TextBox.RightMargin Property (Access)](http://msdn.microsoft.com/library/13f3fe1f-d5c3-33ac-9b9b-897df8ff5ba9%28Office.15%29.aspx)
+[Label.RightMargin Property (Access)](http://msdn.microsoft.com/library/03a7e1fa-bf05-dc29-be2f-f79f761d870d%28Office.15%29.aspx)
 

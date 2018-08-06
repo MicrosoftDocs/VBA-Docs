@@ -1,5 +1,5 @@
 ---
-title: Celda Label (sección Shape Data), Visio [vis_sdr.chm510]
+title: Label Cell (Shape Data Section), Visio [vis_sdr.chm510]
 keywords: vis_sdr.chm510
 f1_keywords:
 - vis_sdr.chm510
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Label Cell (Shape Data Section), Visio [vis_sdr.chm510]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Label (sección Shape Data), Visio [vis_sdr.chm510]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Label (Sección de datos de formas)](http://msdn.microsoft.com/library/label-cell-shape-data-section%28Office.15%29.aspx)
-
+[Label Cell (Shape Data Section)](http://msdn.microsoft.com/library/6d328b1c-8d92-eb1a-7317-7dd85c674ff9%28Office.15%29.aspx)
 

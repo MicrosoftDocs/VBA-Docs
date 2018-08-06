@@ -1,5 +1,5 @@
 ---
-title: Evento DocumentChanged, Visio [vis_sdr.chm10019120]
+title: DocumentChanged Event, Visio [vis_sdr.chm10019120]
 keywords: vis_sdr.chm10019120
 f1_keywords:
 - vis_sdr.chm10019120
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DocumentChanged Event, Visio [vis_sdr.chm10019120]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DocumentChanged, Visio [vis_sdr.chm10019120]
+[InvisibleApp.DocumentChanged Event (Visio)](http://msdn.microsoft.com/library/d822ab40-99a5-d308-d820-a8834f65fee8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.DocumentChanged Event (Visio)](http://msdn.microsoft.com/library/bed6b530-8d95-10f1-2239-ae7fa940db76%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.DocumentChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.documentchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.DocumentChanged (Visio)](http://msdn.microsoft.com/library/application.documentchanged-event-visio%28Office.15%29.aspx)
 

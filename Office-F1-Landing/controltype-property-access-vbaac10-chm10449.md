@@ -1,5 +1,5 @@
 ---
-title: Propiedad ControlType, Access [vbaac10.chm10449]
+title: ControlType Property, Access [vbaac10.chm10449]
 keywords: vbaac10.chm10449
 f1_keywords:
 - vbaac10.chm10449
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ControlType Property, Access [vbaac10.chm10449]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ControlType, Access [vbaac10.chm10449]
+[CommandButton.ControlType Property (Access)](http://msdn.microsoft.com/library/c41e555b-195b-7af9-f2ee-09d92980e557%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.ControlType Property (Access)](http://msdn.microsoft.com/library/3603e03e-5cb1-6a2d-8239-e06212573a36%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.ControlType (Access)](http://msdn.microsoft.com/library/commandbutton.controltype-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.ControlType (Access)](http://msdn.microsoft.com/library/navigationbutton.controltype-property-access%28Office.15%29.aspx)
 

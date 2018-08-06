@@ -1,5 +1,5 @@
 ---
-title: Función LOCALFORMULAEXISTS, Visio [Vis_DSS.chm1033807]
+title: LOCALFORMULAEXISTS Function, Visio [Vis_DSS.chm1033807]
 keywords: vis_dss.chm1033807
 f1_keywords:
 - vis_dss.chm1033807
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LOCALFORMULAEXISTS Function, Visio [Vis_DSS.chm1033807]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función LOCALFORMULAEXISTS, Visio [Vis_DSS.chm1033807]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LOCALFORMULAEXISTS (función)](http://msdn.microsoft.com/library/localformulaexists-function%28Office.15%29.aspx)
-
+[LOCALFORMULAEXISTS Function](http://msdn.microsoft.com/library/2b757c8d-7732-0f9b-c836-ef755dd1c673%28Office.15%29.aspx)
 

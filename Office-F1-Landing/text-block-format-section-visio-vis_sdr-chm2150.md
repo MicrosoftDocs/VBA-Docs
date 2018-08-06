@@ -1,5 +1,5 @@
 ---
-title: Sección Text Block Format, Visio [vis_sdr.chm2150]
+title: Text Block Format Section, Visio [vis_sdr.chm2150]
 keywords: vis_sdr.chm2150
 f1_keywords:
 - vis_sdr.chm2150
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Text Block Format Section, Visio [vis_sdr.chm2150]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Text Block Format, Visio [vis_sdr.chm2150]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de formato del bloque de texto](http://msdn.microsoft.com/library/text-block-format-section%28Office.15%29.aspx)
-
+[Text Block Format Section](http://msdn.microsoft.com/library/7109ca54-1012-bf38-a8e9-946826abbb18%28Office.15%29.aspx)
 

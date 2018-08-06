@@ -1,5 +1,5 @@
 ---
-title: Carácter no válido, Office Shared [vblr6.chm1011183]
+title: Invalid character, Office Shared [vblr6.chm1011183]
 keywords: vblr6.chm1011183
 f1_keywords:
 - vblr6.chm1011183
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid character, Office Shared [vblr6.chm1011183]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Carácter no válido, Office Shared [vblr6.chm1011183]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Carácter no válido](http://msdn.microsoft.com/library/invalid-character%28Office.15%29.aspx)
-
+[Invalid character](http://msdn.microsoft.com/library/298d47e8-bae0-6c60-12ce-87b5a0114fd1%28Office.15%29.aspx)
 

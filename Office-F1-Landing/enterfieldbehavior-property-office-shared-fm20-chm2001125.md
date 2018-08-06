@@ -1,5 +1,5 @@
 ---
-title: Propiedad EnterFieldBehavior, Office Shared [fm20.chm2001125]
+title: EnterFieldBehavior Property, Office Shared [fm20.chm2001125]
 keywords: fm20.chm2001125
 f1_keywords:
 - fm20.chm2001125
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EnterFieldBehavior Property, Office Shared [fm20.chm2001125]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad EnterFieldBehavior, Office Shared [fm20.chm2001125]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad EnterFieldBehavior](http://msdn.microsoft.com/library/enterfieldbehavior-property%28Office.15%29.aspx)
-
+[EnterFieldBehavior Property](http://msdn.microsoft.com/library/6657b5c5-d204-1c5e-c8d7-e84bc51efe15%28Office.15%29.aspx)
 

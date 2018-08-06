@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayBlanksAs, Excel [vbagr10.chm65629]
+title: DisplayBlanksAs Property, Excel [vbagr10.chm65629]
 keywords: vbagr10.chm65629
 f1_keywords:
 - vbagr10.chm65629
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayBlanksAs Property, Excel [vbagr10.chm65629]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayBlanksAs, Excel [vbagr10.chm65629]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayBlanksAs (propiedad)](http://msdn.microsoft.com/library/displayblanksas-property%28Office.15%29.aspx)
-
+[DisplayBlanksAs Property](http://msdn.microsoft.com/library/c2669ad5-9532-ea7c-120c-bc8a15878864%28Office.15%29.aspx)
 

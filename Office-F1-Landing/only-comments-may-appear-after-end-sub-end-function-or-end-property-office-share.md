@@ -1,5 +1,5 @@
 ---
-title: Solo los comentarios pueden aparecer después de End Sub, End Function o End Property, Office Shared [vblr6.chm1011277]
+title: Only comments may appear after End Sub, End Function, or End Property, Office Shared [vblr6.chm1011277]
 keywords: vblr6.chm1011277
 f1_keywords:
 - vblr6.chm1011277
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Only comments may appear after End Sub, End Function, or End Property, Office Shared [vblr6.chm1011277]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Solo los comentarios pueden aparecer después de End Sub, End Function o End Property, Office Shared [vblr6.chm1011277]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Solo pueden aparecer comentarios después de End Sub, End Function o End Property](http://msdn.microsoft.com/library/only-comments-may-appear-after-end-sub-end-function-or-end-property%28Office.15%29.aspx)
-
+[Only comments may appear after End Sub, End Function, or End Property](http://msdn.microsoft.com/library/6268c6e6-1bd6-d7f8-50e3-a749bb578bcf%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento RuleSetValidated, Visio [vis_sdr.chm10062085]
+title: RuleSetValidated Event, Visio [vis_sdr.chm10062085]
 keywords: vis_sdr.chm10062085
 f1_keywords:
 - vis_sdr.chm10062085
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RuleSetValidated Event, Visio [vis_sdr.chm10062085]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento RuleSetValidated, Visio [vis_sdr.chm10062085]
+[InvisibleApp.RuleSetValidated Event (Visio)](http://msdn.microsoft.com/library/6754decd-b5a4-a67f-0361-5c315ba6098e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.RuleSetValidated Event (Visio)](http://msdn.microsoft.com/library/d074d4d9-9840-0054-8502-e8537952d7d0%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.RuleSetValidated (Visio)](http://msdn.microsoft.com/library/invisibleapp.rulesetvalidated-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.RuleSetValidated (Visio)](http://msdn.microsoft.com/library/application.rulesetvalidated-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Object, Office Shared [fm20.chm5225071]
+title: Object Property, Office Shared [fm20.chm5225071]
 keywords: fm20.chm5225071
 f1_keywords:
 - fm20.chm5225071
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object Property, Office Shared [fm20.chm5225071]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Object, Office Shared [fm20.chm5225071]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Object](http://msdn.microsoft.com/library/object-property%28Office.15%29.aspx)
-
+[Object Property](http://msdn.microsoft.com/library/94762c71-9ab8-98dd-5357-8ddb8b7b0156%28Office.15%29.aspx)
 

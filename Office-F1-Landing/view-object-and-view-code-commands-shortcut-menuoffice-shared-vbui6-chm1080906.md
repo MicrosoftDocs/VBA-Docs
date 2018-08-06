@@ -1,5 +1,5 @@
 ---
-title: Comandos Ver objeto y Ver código (menú Acceso directo), Office Shared [vbui6.chm1080906]
+title: View Object and View Code Commands (Shortcut Menu), Office Shared [vbui6.chm1080906]
 keywords: vbui6.chm1080906
 f1_keywords:
 - vbui6.chm1080906
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# View Object and View Code Commands (Shortcut Menu), Office Shared [vbui6.chm1080906]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Ver objeto y Ver código (menú Acceso directo), Office Shared [vbui6.chm1080906]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Ver objeto y Ver código (menú contextual)](http://msdn.microsoft.com/library/view-object-and-view-code-commands-shortcut-menu%28Office.15%29.aspx)
-
+[View Object and View Code Commands (Shortcut Menu)](http://msdn.microsoft.com/library/484ada73-d596-8cb5-2225-415cd8a78229%28Office.15%29.aspx)
 

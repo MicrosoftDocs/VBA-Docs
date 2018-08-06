@@ -1,5 +1,5 @@
 ---
-title: Instrucciones Lock, Unlock, Office Shared [vblr6.chm1008964]
+title: Lock, Unlock Statements, Office Shared [vblr6.chm1008964]
 keywords: vblr6.chm1008964
 f1_keywords:
 - vblr6.chm1008964
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Lock, Unlock Statements, Office Shared [vblr6.chm1008964]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucciones Lock, Unlock, Office Shared [vblr6.chm1008964]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucciones Bloquear, Desbloquear](http://msdn.microsoft.com/library/lock-unlock-statements%28Office.15%29.aspx)
-
+[Lock, Unlock Statements](http://msdn.microsoft.com/library/83bef5d8-55f9-10cf-5092-66b21529aa43%28Office.15%29.aspx)
 

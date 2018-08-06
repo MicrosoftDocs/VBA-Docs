@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102001]
+title: Name Property (VBA Add-In Object Model), Office Shared [vbob6.chm102001]
 keywords: vbob6.chm102001
 f1_keywords:
 - vbob6.chm102001
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property (VBA Add-In Object Model), Office Shared [vbob6.chm102001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102001]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Name (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/name-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Name Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/c393694c-f28f-acda-968c-f93defaad3c1%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad CommandBarEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1092831]
+title: CommandBarEvents Property (VBA Add-In Object Model), Office Shared [vbob6.chm1092831]
 keywords: vbob6.chm1092831
 f1_keywords:
 - vbob6.chm1092831
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CommandBarEvents Property (VBA Add-In Object Model), Office Shared [vbob6.chm1092831]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CommandBarEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1092831]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CommandBarEvents (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/commandbarevents-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CommandBarEvents Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/342f5e9c-c5cc-4596-0b05-0985df1aba49%28Office.15%29.aspx)
 

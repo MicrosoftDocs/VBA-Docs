@@ -1,5 +1,5 @@
 ---
-title: Método AutoFit, Excel [vbagr10.chm5207065]
+title: AutoFit Method, Excel [vbagr10.chm5207065]
 keywords: vbagr10.chm5207065
 f1_keywords:
 - vbagr10.chm5207065
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoFit Method, Excel [vbagr10.chm5207065]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AutoFit, Excel [vbagr10.chm5207065]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AutoFit](http://msdn.microsoft.com/library/autofit-method%28Office.15%29.aspx)
-
+[AutoFit Method](http://msdn.microsoft.com/library/45dea7dd-7695-1f72-9bf7-9ab4cbbd74ec%28Office.15%29.aspx)
 

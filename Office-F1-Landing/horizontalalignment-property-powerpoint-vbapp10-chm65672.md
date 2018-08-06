@@ -1,5 +1,5 @@
 ---
-title: Propiedad HorizontalAlignment, PowerPoint [vbapp10.chm65672]
+title: HorizontalAlignment Property, PowerPoint [vbapp10.chm65672]
 keywords: vbapp10.chm65672
 f1_keywords:
 - vbapp10.chm65672
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HorizontalAlignment Property, PowerPoint [vbapp10.chm65672]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HorizontalAlignment, PowerPoint [vbapp10.chm65672]
+[DataLabel.HorizontalAlignment Property (PowerPoint)](http://msdn.microsoft.com/library/198372ff-a0e9-e9ca-dfe7-6e62bdc9336c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.HorizontalAlignment Property (PowerPoint)](http://msdn.microsoft.com/library/844d24eb-07e6-aff6-c8f5-fdb32e59e497%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.HorizontalAlignment (PowerPoint)](http://msdn.microsoft.com/library/datalabel.horizontalalignment-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.HorizontalAlignment (PowerPoint)](http://msdn.microsoft.com/library/datalabels.horizontalalignment-property-powerpoint%28Office.15%29.aspx)
 

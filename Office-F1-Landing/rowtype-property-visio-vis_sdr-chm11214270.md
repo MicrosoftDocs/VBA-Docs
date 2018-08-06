@@ -1,5 +1,5 @@
 ---
-title: Propiedad RowType, Visio [vis_sdr.chm11214270]
+title: RowType Property, Visio [vis_sdr.chm11214270]
 keywords: vis_sdr.chm11214270
 f1_keywords:
 - vis_sdr.chm11214270
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RowType Property, Visio [vis_sdr.chm11214270]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RowType, Visio [vis_sdr.chm11214270]
+[Shape.RowType Property (Visio)](http://msdn.microsoft.com/library/a814cc7a-c43c-20ce-ac8f-8ecf7537ffa0.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Shape.RowType Property (Visio)](http://msdn.microsoft.com/library/416b77f1-6cec-de5b-c2b8-c6e5b239c54c%28Office.15%29.aspx)
 
-
- [Shape.RowType Property (Visio)](http://msdn.microsoft.com/library/a814cc7a-c43c-20ce-ac8f-8ecf7537ffa0.aspx)
-
-
- [RowType (propiedad)](http://msdn.microsoft.com/library/shape.rowtype-property-visio%28Office.15%29.aspx)
 

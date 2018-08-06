@@ -1,5 +1,5 @@
 ---
-title: Propiedad Has3DEffect, PowerPoint [vbapp10.chm67201]
+title: Has3DEffect Property, PowerPoint [vbapp10.chm67201]
 keywords: vbapp10.chm67201
 f1_keywords:
 - vbapp10.chm67201
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Has3DEffect Property, PowerPoint [vbapp10.chm67201]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Has3DEffect, PowerPoint [vbapp10.chm67201]
+[Series.Has3DEffect Property (PowerPoint)](http://msdn.microsoft.com/library/ce72d83a-d89e-1953-980e-3caea6b4d4c9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Point.Has3DEffect Property (PowerPoint)](http://msdn.microsoft.com/library/64ace672-05b5-504c-62dc-8dcaed2e2fd7%28Office.15%29.aspx)
 
-
- [Propiedad Series.Has3DEffect (PowerPoint)](http://msdn.microsoft.com/library/series.has3deffect-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Point.Has3DEffect (PowerPoint)](http://msdn.microsoft.com/library/point.has3deffect-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad SplitType, Excel [vbagr10.chm67191]
+title: SplitType Property, Excel [vbagr10.chm67191]
 keywords: vbagr10.chm67191
 f1_keywords:
 - vbagr10.chm67191
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplitType Property, Excel [vbagr10.chm67191]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SplitType, Excel [vbagr10.chm67191]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SplitType (propiedad)](http://msdn.microsoft.com/library/splittype-property%28Office.15%29.aspx)
-
+[SplitType Property](http://msdn.microsoft.com/library/e6af8aac-bd1f-9e00-abd7-54e49623d536%28Office.15%29.aspx)
 

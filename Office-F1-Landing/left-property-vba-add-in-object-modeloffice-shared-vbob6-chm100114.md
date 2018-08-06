@@ -1,5 +1,5 @@
 ---
-title: Propiedad Left (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100114]
+title: Left Property (VBA Add-In Object Model), Office Shared [vbob6.chm100114]
 keywords: vbob6.chm100114
 f1_keywords:
 - vbob6.chm100114
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Left Property (VBA Add-In Object Model), Office Shared [vbob6.chm100114]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Left (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100114]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Left (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/left-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Left Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/d24340c9-bfdd-4bf5-4161-5cd86162c0dc%28Office.15%29.aspx)
 

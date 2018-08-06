@@ -1,5 +1,5 @@
 ---
-title: Objeto Application, Excel [vbagr10.chm131073]
+title: Application Object, Excel [vbagr10.chm131073]
 keywords: vbagr10.chm131073
 f1_keywords:
 - vbagr10.chm131073
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Application Object, Excel [vbagr10.chm131073]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Application, Excel [vbagr10.chm131073]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Application (objeto)](http://msdn.microsoft.com/library/application-object%28Office.15%29.aspx)
-
+[Application Object](http://msdn.microsoft.com/library/553a0ee2-83da-6d32-f082-15e93e7b0e4d%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Width, PowerPoint [vbapp10.chm67656]
+title: Width Property, PowerPoint [vbapp10.chm67656]
 keywords: vbapp10.chm67656
 f1_keywords:
 - vbapp10.chm67656
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Property, PowerPoint [vbapp10.chm67656]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Width, PowerPoint [vbapp10.chm67656]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DataLabel.Width (PowerPoint)](http://msdn.microsoft.com/library/datalabel.width-property-powerpoint%28Office.15%29.aspx)
-
+[DataLabel.Width Property (PowerPoint)](http://msdn.microsoft.com/library/297ed420-f582-4d22-eb40-de66012cdf12%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: El nombre del proyecto es demasiado largo. El nombre se ha truncado, Office Shared [vblr6.chm1117767]
+title: The project name is too long. Name has been truncated, Office Shared [vblr6.chm1117767]
 keywords: vblr6.chm1117767
 f1_keywords:
 - vblr6.chm1117767
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The project name is too long. Name has been truncated, Office Shared [vblr6.chm1117767]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El nombre del proyecto es demasiado largo. El nombre se ha truncado, Office Shared [vblr6.chm1117767]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El nombre del proyecto es demasiado largo. El nombre se ha truncado](http://msdn.microsoft.com/library/the-project-name-is-too-long.-name-has-been-truncated%28Office.15%29.aspx)
-
+[The project name is too long. Name has been truncated](http://msdn.microsoft.com/library/4c8d10de-cf07-ee97-3f4d-60fdaa93dd1e%28Office.15%29.aspx)
 

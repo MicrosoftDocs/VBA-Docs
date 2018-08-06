@@ -1,5 +1,5 @@
 ---
-title: Propiedad Count, Word [vbawd10.chm93388800]
+title: Count Property, Word [vbawd10.chm93388800]
 keywords: vbawd10.chm93388800
 f1_keywords:
 - vbawd10.chm93388800
@@ -9,15 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Count Property, Word [vbawd10.chm93388800]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Count, Word [vbawd10.chm93388800]
+[Axes.Count Property (Word)](http://msdn.microsoft.com/library/e182ef8e-eff1-eeb3-ae06-7764fa112a89%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Axes.Item Method (Word)](http://msdn.microsoft.com/library/18f63335-3043-3f52-28b0-8b515db655f3.aspx)
 
-
- [Propiedad Axes.Count (Word)](http://msdn.microsoft.com/library/axes.count-property-word%28Office.15%29.aspx)
-
-
- [Axes.Item Method (Word)](http://msdn.microsoft.com/library/18f63335-3043-3f52-28b0-8b515db655f3.aspx)
+[Axes.Item Method (Word)](http://msdn.microsoft.com/library/143898d3-cbc8-ebfc-4e25-caceeb91a8bf%28Office.15%29.aspx)
 

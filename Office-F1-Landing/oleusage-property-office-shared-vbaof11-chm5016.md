@@ -1,5 +1,5 @@
 ---
-title: Propiedad OLEUsage, Office Shared [vbaof11.chm5016]
+title: OLEUsage Property, Office Shared [vbaof11.chm5016]
 keywords: vbaof11.chm5016
 f1_keywords:
 - vbaof11.chm5016
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# OLEUsage Property, Office Shared [vbaof11.chm5016]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OLEUsage, Office Shared [vbaof11.chm5016]
+[CommandBarButton.OLEUsage Property (Office)](http://msdn.microsoft.com/library/4ff6f74d-4eed-8a30-468c-22be5dee1c7e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarControl.OLEUsage Property (Office)](http://msdn.microsoft.com/library/c3f818a9-7481-0a2f-aa34-5c7e36ea72c1%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarButton.OLEUsage (Office)](http://msdn.microsoft.com/library/commandbarbutton.oleusage-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.OLEUsage (Office)](http://msdn.microsoft.com/library/commandbarcontrol.oleusage-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.OLEUsage (Office)](http://msdn.microsoft.com/library/commandbarcombobox.oleusage-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarPopup.OLEUsage (Office)](http://msdn.microsoft.com/library/commandbarpopup.oleusage-property-office%28Office.15%29.aspx)
-
+[CommandBarComboBox.OLEUsage Property (Office)](http://msdn.microsoft.com/library/3da25257-6ffe-a00e-bada-79c6245286b7%28Office.15%29.aspx)
+[CommandBarPopup.OLEUsage Property (Office)](http://msdn.microsoft.com/library/75d338e0-f5ca-f4b6-2f94-e575749e6ae9%28Office.15%29.aspx)
 

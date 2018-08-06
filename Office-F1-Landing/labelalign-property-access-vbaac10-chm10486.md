@@ -1,5 +1,5 @@
 ---
-title: Propiedad LabelAlign, Access [vbaac10.chm10486]
+title: LabelAlign Property, Access [vbaac10.chm10486]
 keywords: vbaac10.chm10486
 f1_keywords:
 - vbaac10.chm10486
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# LabelAlign Property, Access [vbaac10.chm10486]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LabelAlign, Access [vbaac10.chm10486]
+[CommandButton.LabelAlign Property (Access)](http://msdn.microsoft.com/library/a586c545-c1b1-ff31-5213-5a3cd055a2b6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.LabelAlign Property (Access)](http://msdn.microsoft.com/library/d6562f66-5b9a-1f91-e140-b84a57ea5ff9%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.LabelAlign (Access)](http://msdn.microsoft.com/library/commandbutton.labelalign-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.LabelAlign (Access)](http://msdn.microsoft.com/library/navigationbutton.labelalign-property-access%28Office.15%29.aspx)
 

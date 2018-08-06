@@ -1,5 +1,5 @@
 ---
-title: Evento AppDeactivated, Visio [vis_sdr.chm10019010]
+title: AppDeactivated Event, Visio [vis_sdr.chm10019010]
 keywords: vis_sdr.chm10019010
 f1_keywords:
 - vis_sdr.chm10019010
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AppDeactivated Event, Visio [vis_sdr.chm10019010]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento AppDeactivated, Visio [vis_sdr.chm10019010]
+[Application.AppDeactivated Event (Visio)](http://msdn.microsoft.com/library/362bb2fb-91a2-01be-e686-3bf076388341%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.AppDeactivated Event (Visio)](http://msdn.microsoft.com/library/1ec2fc2f-8c57-3aa0-acff-c57bf1136bb6%28Office.15%29.aspx)
 
-
- [Evento Application.AppDeactivated (Visio)](http://msdn.microsoft.com/library/application.appdeactivated-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.AppDeactivated (Visio)](http://msdn.microsoft.com/library/invisibleapp.appdeactivated-event-visio%28Office.15%29.aspx)
 

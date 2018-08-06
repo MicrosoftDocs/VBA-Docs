@@ -1,5 +1,5 @@
 ---
-title: Modo de archivo incorrecto (error 54), Office Shared [vblr6.chm1000054]
+title: Bad file mode (Error 54), Office Shared [vblr6.chm1000054]
 keywords: vblr6.chm1000054
 f1_keywords:
 - vblr6.chm1000054
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Bad file mode (Error 54), Office Shared [vblr6.chm1000054]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Modo de archivo incorrecto (error 54), Office Shared [vblr6.chm1000054]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Modo de archivo incorrecto (error 54)](http://msdn.microsoft.com/library/bad-file-mode-error-54%28Office.15%29.aspx)
-
+[Bad file mode (Error 54)](http://msdn.microsoft.com/library/cc5a69ce-9d99-0f20-ac36-9a6e512ec032%28Office.15%29.aspx)
 

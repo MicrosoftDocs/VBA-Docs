@@ -1,5 +1,5 @@
 ---
-title: Celda LockSelect (sección Protection), Visio [vis_sdr.chm660]
+title: LockSelect Cell (Protection Section), Visio [vis_sdr.chm660]
 keywords: vis_sdr.chm660
 f1_keywords:
 - vis_sdr.chm660
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockSelect Cell (Protection Section), Visio [vis_sdr.chm660]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockSelect (sección Protection), Visio [vis_sdr.chm660]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockSelect (Sección de protección)](http://msdn.microsoft.com/library/lockselect-cell-protection-section%28Office.15%29.aspx)
-
+[LockSelect Cell (Protection Section)](http://msdn.microsoft.com/library/c96b45a5-719e-8c4b-71b9-cb2224d83e21%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Controls, Access [vbaac10.chm11036]
+title: Controls Property, Access [vbaac10.chm11036]
 keywords: vbaac10.chm11036
 f1_keywords:
 - vbaac10.chm11036
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Controls Property, Access [vbaac10.chm11036]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Controls, Access [vbaac10.chm11036]
+[TextBox.Controls Property (Access)](http://msdn.microsoft.com/library/00d5dede-0583-9f0e-191a-28f91a0327b3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Controls Property (Access)](http://msdn.microsoft.com/library/68c6abcf-7bb7-4795-8c6c-685ed1c25dc9%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Controls (Access)](http://msdn.microsoft.com/library/textbox.controls-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Controls (Access)](http://msdn.microsoft.com/library/navigationcontrol.controls-property-access%28Office.15%29.aspx)
 

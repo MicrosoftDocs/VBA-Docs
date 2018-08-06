@@ -1,5 +1,5 @@
 ---
-title: Colección Sentences, Word [vbawd10.chm2395]
+title: Sentences Collection, Word [vbawd10.chm2395]
 keywords: vbawd10.chm2395
 f1_keywords:
 - vbawd10.chm2395
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Sentences Collection, Word [vbawd10.chm2395]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Sentences, Word [vbawd10.chm2395]
+[Sentences Object (Word)](http://msdn.microsoft.com/library/bcb9653d-bada-8e51-f47d-58f17dae19fe%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[OMathArgs Object (Word)](http://msdn.microsoft.com/library/5e4d542b-11c3-8cb8-be2a-5b990e777290%28Office.15%29.aspx)
 
-
- [Sentences (objeto) (Word)](http://msdn.microsoft.com/library/sentences-object-word%28Office.15%29.aspx)
-
-
- [OMathArgs (colección)](http://msdn.microsoft.com/library/omathargs-object-word%28Office.15%29.aspx)
 

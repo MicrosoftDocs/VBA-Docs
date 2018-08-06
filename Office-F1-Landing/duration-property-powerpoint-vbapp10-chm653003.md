@@ -1,5 +1,5 @@
 ---
-title: Propiedad Duration, PowerPoint [vbapp10.chm653003]
+title: Duration Property, PowerPoint [vbapp10.chm653003]
 keywords: vbapp10.chm653003
 f1_keywords:
 - vbapp10.chm653003
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Duration Property, PowerPoint [vbapp10.chm653003]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Duration, PowerPoint [vbapp10.chm653003]
+[Timing.Duration Property (PowerPoint)](http://msdn.microsoft.com/library/de54ba93-0469-71c2-c8b5-2f7dd64012c4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[SlideShowTransition.Duration Property (PowerPoint)](http://msdn.microsoft.com/library/f8c47dda-9687-e437-8038-dae11c022914%28Office.15%29.aspx)
 
-
- [Propiedad Timing.Duration (PowerPoint)](http://msdn.microsoft.com/library/timing.duration-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad SlideShowTransition.Duration (PowerPoint)](http://msdn.microsoft.com/library/slideshowtransition.duration-property-powerpoint%28Office.15%29.aspx)
 

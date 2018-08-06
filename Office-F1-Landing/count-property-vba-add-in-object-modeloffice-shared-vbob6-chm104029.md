@@ -1,5 +1,5 @@
 ---
-title: Propiedad Count (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104029]
+title: Count Property (VBA Add-In Object Model), Office Shared [vbob6.chm104029]
 keywords: vbob6.chm104029
 f1_keywords:
 - vbob6.chm104029
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Count Property (VBA Add-In Object Model), Office Shared [vbob6.chm104029]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Count (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104029]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Count (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/count-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Count Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/670ad3a8-bc71-e970-57cd-ba5eddd22dec%28Office.15%29.aspx)
 

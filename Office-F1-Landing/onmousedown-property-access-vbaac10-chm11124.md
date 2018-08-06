@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnMouseDown, Access [vbaac10.chm11124]
+title: OnMouseDown Property, Access [vbaac10.chm11124]
 keywords: vbaac10.chm11124
 f1_keywords:
 - vbaac10.chm11124
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnMouseDown Property, Access [vbaac10.chm11124]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnMouseDown, Access [vbaac10.chm11124]
+[TextBox.OnMouseDown Property (Access)](http://msdn.microsoft.com/library/2392c2eb-6c3b-047b-1e4e-2772989ba1f2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.OnMouseDown Property (Access)](http://msdn.microsoft.com/library/c8258e0e-c115-2556-a929-753c510fdc49%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.OnMouseDown (Access)](http://msdn.microsoft.com/library/textbox.onmousedown-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.OnMouseDown (Access)](http://msdn.microsoft.com/library/navigationcontrol.onmousedown-property-access%28Office.15%29.aspx)
 

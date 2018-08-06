@@ -1,5 +1,5 @@
 ---
-title: Propiedad InSelection, Access [vbaac10.chm10492]
+title: InSelection Property, Access [vbaac10.chm10492]
 keywords: vbaac10.chm10492
 f1_keywords:
 - vbaac10.chm10492
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# InSelection Property, Access [vbaac10.chm10492]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad InSelection, Access [vbaac10.chm10492]
+[NavigationButton.InSelection Property (Access)](http://msdn.microsoft.com/library/7d548660-a6ff-50f3-7bb6-71f7b9fe343e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.InSelection Property (Access)](http://msdn.microsoft.com/library/8b8119a7-734c-8e20-8c1a-e80f02a8ad22%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.InSelection (Access)](http://msdn.microsoft.com/library/navigationbutton.inselection-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.InSelection (Access)](http://msdn.microsoft.com/library/commandbutton.inselection-property-access%28Office.15%29.aspx)
 

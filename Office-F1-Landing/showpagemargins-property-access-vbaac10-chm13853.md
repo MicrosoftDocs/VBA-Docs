@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowPageMargins, Access [vbaac10.chm13853]
+title: ShowPageMargins Property, Access [vbaac10.chm13853]
 keywords: vbaac10.chm13853
 f1_keywords:
 - vbaac10.chm13853
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowPageMargins Property, Access [vbaac10.chm13853]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowPageMargins, Access [vbaac10.chm13853]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.ShowPageMargins (Access)](http://msdn.microsoft.com/library/report.showpagemargins-property-access%28Office.15%29.aspx)
-
+[Report.ShowPageMargins Property (Access)](http://msdn.microsoft.com/library/7001d6ae-40db-ca7b-5276-0f299890ff9f%28Office.15%29.aspx)
 

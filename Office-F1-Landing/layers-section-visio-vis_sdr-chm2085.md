@@ -1,5 +1,5 @@
 ---
-title: Sección Layers, Visio [vis_sdr.chm2085]
+title: Layers Section, Visio [vis_sdr.chm2085]
 keywords: vis_sdr.chm2085
 f1_keywords:
 - vis_sdr.chm2085
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Layers Section, Visio [vis_sdr.chm2085]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Layers, Visio [vis_sdr.chm2085]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de capas](http://msdn.microsoft.com/library/layers-section%28Office.15%29.aspx)
-
+[Layers Section](http://msdn.microsoft.com/library/89bcde81-4530-bd00-6e2e-fab7deec175b%28Office.15%29.aspx)
 

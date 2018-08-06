@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsVisible, Access [vbaac10.chm10491]
+title: IsVisible Property, Access [vbaac10.chm10491]
 keywords: vbaac10.chm10491
 f1_keywords:
 - vbaac10.chm10491
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IsVisible Property, Access [vbaac10.chm10491]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsVisible, Access [vbaac10.chm10491]
+[CommandButton.IsVisible Property (Access)](http://msdn.microsoft.com/library/f5438725-4628-4f8e-1bf3-0027348b9285%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.IsVisible Property (Access)](http://msdn.microsoft.com/library/e288a0a8-40e2-9609-b11c-ac68438c2339%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.IsVisible (Access)](http://msdn.microsoft.com/library/commandbutton.isvisible-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.IsVisible (Access)](http://msdn.microsoft.com/library/navigationbutton.isvisible-property-access%28Office.15%29.aspx)
 

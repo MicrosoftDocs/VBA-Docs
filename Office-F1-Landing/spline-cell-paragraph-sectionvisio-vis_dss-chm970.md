@@ -1,5 +1,5 @@
 ---
-title: Celda SpLine (sección Paragraph), Visio [Vis_DSS.chm970]
+title: SpLine Cell (Paragraph Section), Visio [Vis_DSS.chm970]
 keywords: vis_dss.chm970
 f1_keywords:
 - vis_dss.chm970
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SpLine Cell (Paragraph Section), Visio [Vis_DSS.chm970]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda SpLine (sección Paragraph), Visio [Vis_DSS.chm970]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda SpLine (Sección de párrafo)](http://msdn.microsoft.com/library/spline-cell-paragraph-section%28Office.15%29.aspx)
-
+[SpLine Cell (Paragraph Section)](http://msdn.microsoft.com/library/84f4e5f1-7c28-9e83-8644-28d117bb10a5%28Office.15%29.aspx)
 

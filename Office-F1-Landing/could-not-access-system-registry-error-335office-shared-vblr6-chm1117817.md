@@ -1,5 +1,5 @@
 ---
-title: No se pudo obtener acceso al registro del sistema (error 335), Office Shared [vblr6.chm1117817]
+title: Could not access system registry (Error 335), Office Shared [vblr6.chm1117817]
 keywords: vblr6.chm1117817
 f1_keywords:
 - vblr6.chm1117817
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Could not access system registry (Error 335), Office Shared [vblr6.chm1117817]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se pudo obtener acceso al registro del sistema (error 335), Office Shared [vblr6.chm1117817]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se pudo tener acceso al registro del sistema (error 335)](http://msdn.microsoft.com/library/could-not-access-system-registry-error-335%28Office.15%29.aspx)
-
+[Could not access system registry (Error 335)](http://msdn.microsoft.com/library/c4c70585-593e-0e8d-d6bd-bc38a9c649f2%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad TwoInitialCapitals, Excel [vbagr10.chm66685]
+title: TwoInitialCapitals Property, Excel [vbagr10.chm66685]
 keywords: vbagr10.chm66685
 f1_keywords:
 - vbagr10.chm66685
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TwoInitialCapitals Property, Excel [vbagr10.chm66685]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TwoInitialCapitals, Excel [vbagr10.chm66685]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [TwoInitialCapitals (propiedad)](http://msdn.microsoft.com/library/twoinitialcapitals-property%28Office.15%29.aspx)
-
+[TwoInitialCapitals Property](http://msdn.microsoft.com/library/cf6931c7-11ee-77b0-feb2-e047f7cb58e6%28Office.15%29.aspx)
 

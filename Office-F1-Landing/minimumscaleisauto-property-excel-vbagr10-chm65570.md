@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinimumScaleIsAuto, Excel [vbagr10.chm65570]
+title: MinimumScaleIsAuto Property, Excel [vbagr10.chm65570]
 keywords: vbagr10.chm65570
 f1_keywords:
 - vbagr10.chm65570
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MinimumScaleIsAuto Property, Excel [vbagr10.chm65570]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinimumScaleIsAuto, Excel [vbagr10.chm65570]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MinimumScaleIsAuto (propiedad)](http://msdn.microsoft.com/library/minimumscaleisauto-property%28Office.15%29.aspx)
-
+[MinimumScaleIsAuto Property](http://msdn.microsoft.com/library/95ed7a2b-efda-b05a-da2e-789a166a97c8%28Office.15%29.aspx)
 

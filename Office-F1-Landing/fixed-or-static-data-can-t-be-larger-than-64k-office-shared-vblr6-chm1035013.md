@@ -1,5 +1,5 @@
 ---
-title: Los datos fijos o estáticos no pueden tener un tamaño superior a 64K, Office Shared [vblr6.chm1035013]
+title: Fixed or static data can't be larger than 64K, Office Shared [vblr6.chm1035013]
 keywords: vblr6.chm1035013
 f1_keywords:
 - vblr6.chm1035013
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Fixed or static data can't be larger than 64K, Office Shared [vblr6.chm1035013]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Los datos fijos o estáticos no pueden tener un tamaño superior a 64K, Office Shared [vblr6.chm1035013]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Los datos fijos o estáticos no pueden tener más de 64 KB](http://msdn.microsoft.com/library/fixed-or-static-data-can-t-be-larger-than-64k%28Office.15%29.aspx)
-
+[Fixed or static data can't be larger than 64K](http://msdn.microsoft.com/library/e41c3342-6ea7-38d9-be17-f058858ec006%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name, Excel [vbagr10.chm65646]
+title: Name Property, Excel [vbagr10.chm65646]
 keywords: vbagr10.chm65646
 f1_keywords:
 - vbagr10.chm65646
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property, Excel [vbagr10.chm65646]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name, Excel [vbagr10.chm65646]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Name (gráfico)](http://msdn.microsoft.com/library/name-property-graph%28Office.15%29.aspx)
-
+[Name Property (Graph)](http://msdn.microsoft.com/library/d3590902-6957-8e32-e627-5946ba66c44f%28Office.15%29.aspx)
 

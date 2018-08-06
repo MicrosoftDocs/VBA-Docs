@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllMacros, Access [vbaac10.chm12709]
+title: AllMacros Property, Access [vbaac10.chm12709]
 keywords: vbaac10.chm12709
 f1_keywords:
 - vbaac10.chm12709
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllMacros Property, Access [vbaac10.chm12709]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllMacros, Access [vbaac10.chm12709]
+[CodeProject.AllMacros Property (Access)](http://msdn.microsoft.com/library/493a515a-667d-ade9-bdd3-17305126d6ee%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.AllMacros Property (Access)](http://msdn.microsoft.com/library/73c01f69-530b-eb7f-8f77-ecf47e9c2d2f%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.AllMacros (Access)](http://msdn.microsoft.com/library/codeproject.allmacros-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.AllMacros (Access)](http://msdn.microsoft.com/library/currentproject.allmacros-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelGroup, Visio [vis_sdr.chm10062000]
+title: QueryCancelGroup Event, Visio [vis_sdr.chm10062000]
 keywords: vis_sdr.chm10062000
 f1_keywords:
 - vis_sdr.chm10062000
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelGroup Event, Visio [vis_sdr.chm10062000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelGroup, Visio [vis_sdr.chm10062000]
+[InvisibleApp.QueryCancelGroup Event (Visio)](http://msdn.microsoft.com/library/1b8bf210-0bd9-bf33-6031-614db16f139b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.QueryCancelGroup Event (Visio)](http://msdn.microsoft.com/library/b22d2387-4586-fb6d-0cfe-83088f807a47%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.QueryCancelGroup (Visio)](http://msdn.microsoft.com/library/invisibleapp.querycancelgroup-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.QueryCancelGroup (Visio)](http://msdn.microsoft.com/library/application.querycancelgroup-event-visio%28Office.15%29.aspx)
 

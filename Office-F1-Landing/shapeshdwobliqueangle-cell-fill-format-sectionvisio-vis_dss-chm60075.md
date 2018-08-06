@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeShdwObliqueAngle (sección Fill Format), Visio [Vis_DSS.chm60075]
+title: ShapeShdwObliqueAngle Cell (Fill Format Section), Visio [Vis_DSS.chm60075]
 keywords: vis_dss.chm60075
 f1_keywords:
 - vis_dss.chm60075
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeShdwObliqueAngle Cell (Fill Format Section), Visio [Vis_DSS.chm60075]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeShdwObliqueAngle (sección Fill Format), Visio [Vis_DSS.chm60075]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeShdwObliqueAngle (Sección de formato de relleno)](http://msdn.microsoft.com/library/shapeshdwobliqueangle-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShapeShdwObliqueAngle Cell (Fill Format Section)](http://msdn.microsoft.com/library/bad4c512-e91f-d459-d65c-a4ab725c3c14%28Office.15%29.aspx)
 

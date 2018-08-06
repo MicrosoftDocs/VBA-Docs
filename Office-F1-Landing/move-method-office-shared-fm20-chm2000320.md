@@ -1,5 +1,5 @@
 ---
-title: Método Move, Office Shared [fm20.chm2000320]
+title: Move Method, Office Shared [fm20.chm2000320]
 keywords: fm20.chm2000320
 f1_keywords:
 - fm20.chm2000320
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Move Method, Office Shared [fm20.chm2000320]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Move, Office Shared [fm20.chm2000320]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Move](http://msdn.microsoft.com/library/move-method%28Office.15%29.aspx)
-
+[Move Method](http://msdn.microsoft.com/library/b4138364-0f1a-b774-a82b-3417cb9a6599%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Top, Excel [vbagr10.chm3077595]
+title: Top Property, Excel [vbagr10.chm3077595]
 keywords: vbagr10.chm3077595
 f1_keywords:
 - vbagr10.chm3077595
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Top Property, Excel [vbagr10.chm3077595]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Top, Excel [vbagr10.chm3077595]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Top (propiedad)](http://msdn.microsoft.com/library/top-property%28Office.15%29.aspx)
-
+[Top Property](http://msdn.microsoft.com/library/57938f4c-cd1f-b420-154d-fe4a8775c826%28Office.15%29.aspx)
 

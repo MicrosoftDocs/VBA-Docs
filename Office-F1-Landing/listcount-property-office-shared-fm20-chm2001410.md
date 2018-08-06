@@ -1,5 +1,5 @@
 ---
-title: Propiedad ListCount, Office Shared [fm20.chm2001410]
+title: ListCount Property, Office Shared [fm20.chm2001410]
 keywords: fm20.chm2001410
 f1_keywords:
 - fm20.chm2001410
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ListCount Property, Office Shared [fm20.chm2001410]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ListCount, Office Shared [fm20.chm2001410]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ListCount](http://msdn.microsoft.com/library/listcount-property%28Office.15%29.aspx)
-
+[ListCount Property](http://msdn.microsoft.com/library/e6878930-514c-47cb-0961-bd9f5f79caff%28Office.15%29.aspx)
 

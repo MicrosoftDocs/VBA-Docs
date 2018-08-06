@@ -1,5 +1,5 @@
 ---
-title: Propiedad Lines, Office Shared [vbob6.chm104011]
+title: Lines Property, Office Shared [vbob6.chm104011]
 keywords: vbob6.chm104011
 f1_keywords:
 - vbob6.chm104011
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Lines Property, Office Shared [vbob6.chm104011]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Lines, Office Shared [vbob6.chm104011]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Lines](http://msdn.microsoft.com/library/lines-property%28Office.15%29.aspx)
-
+[Lines Property](http://msdn.microsoft.com/library/bd45d817-37c0-c130-7044-4794449505f3%28Office.15%29.aspx)
 

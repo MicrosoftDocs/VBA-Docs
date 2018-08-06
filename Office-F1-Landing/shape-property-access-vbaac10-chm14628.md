@@ -1,5 +1,5 @@
 ---
-title: Propiedad Shape, Access [vbaac10.chm14628]
+title: Shape Property, Access [vbaac10.chm14628]
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Shape Property, Access [vbaac10.chm14628]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Shape, Access [vbaac10.chm14628]
+[TabControl.Shape Property (Access)](http://msdn.microsoft.com/library/579e6710-0e42-74ac-ea97-1618baf9497a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.Shape Property (Access)](http://msdn.microsoft.com/library/9d9ecd73-b1a4-6861-a420-3bc52beae95c%28Office.15%29.aspx)
 
-
- [Propiedad TabControl.Shape (Access)](http://msdn.microsoft.com/library/tabcontrol.shape-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Shape (acceso)](http://msdn.microsoft.com/library/navigationbutton.shape-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.Shape (Access)](http://msdn.microsoft.com/library/togglebutton.shape-property-access%28Office.15%29.aspx)
-
- [Propiedad CommandButton.Shape (Access)](http://msdn.microsoft.com/library/commandbutton.shape-property-access%28Office.15%29.aspx)
-
+[ToggleButton.Shape Property (Access)](http://msdn.microsoft.com/library/86f39f5a-ab5b-2db2-611b-53568a99ac0c%28Office.15%29.aspx)
+[CommandButton.Shape Property (Access)](http://msdn.microsoft.com/library/92088237-5dd8-0b40-ed2d-e5a5bfef4495%28Office.15%29.aspx)
 

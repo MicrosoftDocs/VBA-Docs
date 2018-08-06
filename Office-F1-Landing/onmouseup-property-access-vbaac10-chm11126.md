@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnMouseUp, Access [vbaac10.chm11126]
+title: OnMouseUp Property, Access [vbaac10.chm11126]
 keywords: vbaac10.chm11126
 f1_keywords:
 - vbaac10.chm11126
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnMouseUp Property, Access [vbaac10.chm11126]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnMouseUp, Access [vbaac10.chm11126]
+[TextBox.OnMouseUp Property (Access)](http://msdn.microsoft.com/library/acd5de89-de56-e7c4-1a5d-cc560c5cffb6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.OnMouseUp Property (Access)](http://msdn.microsoft.com/library/fc251872-bc0b-d3a3-1426-fdb121b24145%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.OnMouseUp (Access)](http://msdn.microsoft.com/library/textbox.onmouseup-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.OnMouseUp (Access)](http://msdn.microsoft.com/library/navigationcontrol.onmouseup-property-access%28Office.15%29.aspx)
 

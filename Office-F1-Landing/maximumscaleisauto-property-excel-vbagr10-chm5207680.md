@@ -1,5 +1,5 @@
 ---
-title: Propiedad MaximumScaleIsAuto, Excel [vbagr10.chm5207680]
+title: MaximumScaleIsAuto Property, Excel [vbagr10.chm5207680]
 keywords: vbagr10.chm5207680
 f1_keywords:
 - vbagr10.chm5207680
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MaximumScaleIsAuto Property, Excel [vbagr10.chm5207680]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MaximumScaleIsAuto, Excel [vbagr10.chm5207680]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MaximumScaleIsAuto (propiedad)](http://msdn.microsoft.com/library/maximumscaleisauto-property%28Office.15%29.aspx)
-
+[MaximumScaleIsAuto Property](http://msdn.microsoft.com/library/ca8115b8-0a45-0c88-5a5c-89c93d791452%28Office.15%29.aspx)
 

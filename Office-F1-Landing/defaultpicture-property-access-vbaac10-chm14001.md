@@ -1,5 +1,5 @@
 ---
-title: Propiedad DefaultPicture, Access [vbaac10.chm14001]
+title: DefaultPicture Property, Access [vbaac10.chm14001]
 keywords: vbaac10.chm14001
 f1_keywords:
 - vbaac10.chm14001
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DefaultPicture Property, Access [vbaac10.chm14001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DefaultPicture, Access [vbaac10.chm14001]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Attachment.DefaultPicture (Access)](http://msdn.microsoft.com/library/attachment.defaultpicture-property-access%28Office.15%29.aspx)
-
+[Attachment.DefaultPicture Property (Access)](http://msdn.microsoft.com/library/98bc9637-50c9-5831-8170-a32abe5915bc%28Office.15%29.aspx)
 

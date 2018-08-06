@@ -1,5 +1,5 @@
 ---
-title: Comandos de Espacio horizontal (menú Formato), Office Shared [vbui6.chm2056408]
+title: Horizontal Spacing Commands (Format Menu), Office Shared [vbui6.chm2056408]
 keywords: vbui6.chm2056408
 f1_keywords:
 - vbui6.chm2056408
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Horizontal Spacing Commands (Format Menu), Office Shared [vbui6.chm2056408]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos de Espacio horizontal (menú Formato), Office Shared [vbui6.chm2056408]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Espaciado horizontal (menú Formato)](http://msdn.microsoft.com/library/horizontal-spacing-commands-format-menu%28Office.15%29.aspx)
-
+[Horizontal Spacing Commands (Format Menu)](http://msdn.microsoft.com/library/8e3da127-790e-c7fb-dcb5-4f8eb9a5fb70%28Office.15%29.aspx)
 

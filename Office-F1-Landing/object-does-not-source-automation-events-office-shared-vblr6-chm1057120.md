@@ -1,5 +1,5 @@
 ---
-title: El objeto no abastece a eventos de automatización, Office Shared [vblr6.chm1057120]
+title: Object does not source Automation events, Office Shared [vblr6.chm1057120]
 keywords: vblr6.chm1057120
 f1_keywords:
 - vblr6.chm1057120
@@ -9,13 +9,6 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# El objeto no abastece a eventos de automatización, Office Shared [vblr6.chm1057120]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto no toma como origen eventos de automatización](http://msdn.microsoft.com/library/object-does-not-source-automation-events%28Office.15%29.aspx)
-
+# Object does not source Automation events, Office Shared [vblr6.chm1057120]
+This object has the following events:
 

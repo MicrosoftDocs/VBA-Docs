@@ -1,5 +1,5 @@
 ---
-title: Número de registro incorrecto (error 63), Office Shared [vblr6.chm1000063]
+title: Bad record number (Error 63), Office Shared [vblr6.chm1000063]
 keywords: vblr6.chm1000063
 f1_keywords:
 - vblr6.chm1000063
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Bad record number (Error 63), Office Shared [vblr6.chm1000063]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Número de registro incorrecto (error 63), Office Shared [vblr6.chm1000063]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Número de registro incorrecto (error 63)](http://msdn.microsoft.com/library/bad-record-number-error-63%28Office.15%29.aspx)
-
+[Bad record number (Error 63)](http://msdn.microsoft.com/library/7535b68a-cb1f-a443-ab6c-640673de281d%28Office.15%29.aspx)
 

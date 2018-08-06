@@ -1,5 +1,5 @@
 ---
-title: Propiedad InsideHeight, Excel [vbagr10.chm67206]
+title: InsideHeight Property, Excel [vbagr10.chm67206]
 keywords: vbagr10.chm67206
 f1_keywords:
 - vbagr10.chm67206
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# InsideHeight Property, Excel [vbagr10.chm67206]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad InsideHeight, Excel [vbagr10.chm67206]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [InsideHeight (propiedad)](http://msdn.microsoft.com/library/insideheight-property-1%28Office.15%29.aspx)
-
+[InsideHeight Property](http://msdn.microsoft.com/library/02528324-3aaf-17b3-984d-96ab7b446d5a%28Office.15%29.aspx)
 

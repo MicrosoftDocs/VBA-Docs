@@ -1,5 +1,5 @@
 ---
-title: Celda X (sección Annotation), Visio [Vis_DSS.chm60092]
+title: X Cell (Annotation Section), Visio [Vis_DSS.chm60092]
 keywords: vis_dss.chm60092
 f1_keywords:
 - vis_dss.chm60092
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# X Cell (Annotation Section), Visio [Vis_DSS.chm60092]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda X (sección Annotation), Visio [Vis_DSS.chm60092]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda X (Sección de anotación)](http://msdn.microsoft.com/library/x-cell-annotation-section%28Office.15%29.aspx)
-
+[X Cell (Annotation Section)](http://msdn.microsoft.com/library/f9db8623-9fcf-7037-2d11-d509f463025d%28Office.15%29.aspx)
 

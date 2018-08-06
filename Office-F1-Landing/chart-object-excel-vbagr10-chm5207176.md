@@ -1,5 +1,5 @@
 ---
-title: Objeto Chart, Excel [vbagr10.chm5207176]
+title: Chart Object, Excel [vbagr10.chm5207176]
 keywords: vbagr10.chm5207176
 f1_keywords:
 - vbagr10.chm5207176
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Chart Object, Excel [vbagr10.chm5207176]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Chart, Excel [vbagr10.chm5207176]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Chart (objeto)](http://msdn.microsoft.com/library/chart-object%28Office.15%29.aspx)
-
+[Chart Object](http://msdn.microsoft.com/library/2c67873d-dcb3-d320-16cd-694798aebd9d%28Office.15%29.aspx)
 

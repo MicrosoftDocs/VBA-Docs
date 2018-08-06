@@ -1,5 +1,5 @@
 ---
-title: Error de E/S del dispositivo (error 57), Office Shared [vblr6.chm1000057]
+title: Device I/O error (Error 57), Office Shared [vblr6.chm1000057]
 keywords: vblr6.chm1000057
 f1_keywords:
 - vblr6.chm1000057
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Device I/O error (Error 57), Office Shared [vblr6.chm1000057]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de E/S del dispositivo (error 57), Office Shared [vblr6.chm1000057]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de E/S del dispositivo (error 57)](http://msdn.microsoft.com/library/device-i-o-error-error-57%28Office.15%29.aspx)
-
+[Device I/O error (Error 57)](http://msdn.microsoft.com/library/72d8c7c1-a2ca-a531-0cc8-13bc3252e2b7%28Office.15%29.aspx)
 

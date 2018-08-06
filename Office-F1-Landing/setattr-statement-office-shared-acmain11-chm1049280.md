@@ -1,5 +1,5 @@
 ---
-title: Instrucción SetAttr, Office Shared [acmain11.chm1049280]
+title: SetAttr Statement, Office Shared [acmain11.chm1049280]
 keywords: acmain11.chm1049280
 f1_keywords:
 - acmain11.chm1049280
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SetAttr Statement, Office Shared [acmain11.chm1049280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción SetAttr, Office Shared [acmain11.chm1049280]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción SetAttr](http://msdn.microsoft.com/library/setattr-statement%28Office.15%29.aspx)
-
+[SetAttr Statement](http://msdn.microsoft.com/library/dad85437-6944-a393-9f12-5827b184f42d%28Office.15%29.aspx)
 

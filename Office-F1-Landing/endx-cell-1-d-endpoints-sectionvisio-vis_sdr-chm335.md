@@ -1,5 +1,5 @@
 ---
-title: Celda EndX (sección 1-D Endpoints), Visio [vis_sdr.chm335]
+title: EndX Cell (1-D Endpoints Section), Visio [vis_sdr.chm335]
 keywords: vis_sdr.chm335
 f1_keywords:
 - vis_sdr.chm335
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EndX Cell (1-D Endpoints Section), Visio [vis_sdr.chm335]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EndX (sección 1-D Endpoints), Visio [vis_sdr.chm335]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EndX (Sección de extremos 1D)](http://msdn.microsoft.com/library/endx-cell-1-d-endpoints-section%28Office.15%29.aspx)
-
+[EndX Cell (1-D Endpoints Section)](http://msdn.microsoft.com/library/24261b77-e3e8-7434-a503-9f23798bdab1%28Office.15%29.aspx)
 

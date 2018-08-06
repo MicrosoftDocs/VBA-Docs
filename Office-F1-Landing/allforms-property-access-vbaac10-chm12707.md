@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllForms, Access [vbaac10.chm12707]
+title: AllForms Property, Access [vbaac10.chm12707]
 keywords: vbaac10.chm12707
 f1_keywords:
 - vbaac10.chm12707
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllForms Property, Access [vbaac10.chm12707]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllForms, Access [vbaac10.chm12707]
+[CodeProject.AllForms Property (Access)](http://msdn.microsoft.com/library/98443fc7-a0dd-37a9-f2c8-c3e183f65f6c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.AllForms Property (Access)](http://msdn.microsoft.com/library/4933a409-0d15-16ee-69a3-d78b0f2685c7%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.AllForms (Access)](http://msdn.microsoft.com/library/codeproject.allforms-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.AllForms (Access)](http://msdn.microsoft.com/library/currentproject.allforms-property-access%28Office.15%29.aspx)
 

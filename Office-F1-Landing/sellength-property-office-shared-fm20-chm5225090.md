@@ -1,5 +1,5 @@
 ---
-title: Propiedad SelLength, Office Shared [fm20.chm5225090]
+title: SelLength Property, Office Shared [fm20.chm5225090]
 keywords: fm20.chm5225090
 f1_keywords:
 - fm20.chm5225090
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SelLength Property, Office Shared [fm20.chm5225090]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SelLength, Office Shared [fm20.chm5225090]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad SelLength](http://msdn.microsoft.com/library/sellength-property%28Office.15%29.aspx)
-
+[SelLength Property](http://msdn.microsoft.com/library/86f86e84-b22e-a86a-12b9-dc1011cbcf9d%28Office.15%29.aspx)
 

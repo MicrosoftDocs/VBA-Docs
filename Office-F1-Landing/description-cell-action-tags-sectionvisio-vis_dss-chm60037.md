@@ -1,5 +1,5 @@
 ---
-title: Celda Description (sección Etiquetas de acción), Visio [Vis_DSS.chm60037]
+title: Description Cell (Action Tags Section), Visio [Vis_DSS.chm60037]
 keywords: vis_dss.chm60037
 f1_keywords:
 - vis_dss.chm60037
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Description Cell (Action Tags Section), Visio [Vis_DSS.chm60037]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Description (sección Etiquetas de acción), Visio [Vis_DSS.chm60037]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Description (sección de etiquetas de acción)](http://msdn.microsoft.com/library/description-cell-action-tags-section%28Office.15%29.aspx)
-
+[Description Cell (Action Tags Section)](http://msdn.microsoft.com/library/feb29b91-0f6e-6353-3dd0-7a280843a517%28Office.15%29.aspx)
 

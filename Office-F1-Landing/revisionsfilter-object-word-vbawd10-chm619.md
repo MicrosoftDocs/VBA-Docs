@@ -1,5 +1,5 @@
 ---
-title: Objeto RevisionsFilter, Word [vbawd10.chm619]
+title: RevisionsFilter Object, Word [vbawd10.chm619]
 keywords: vbawd10.chm619
 f1_keywords:
 - vbawd10.chm619
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RevisionsFilter Object, Word [vbawd10.chm619]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto RevisionsFilter, Word [vbawd10.chm619]
+[RevisionsFilter Object (Word)](http://msdn.microsoft.com/library/245fcfc5-dcd2-935a-8569-51e611e98c45%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Sources Object (Word)](http://msdn.microsoft.com/library/92a74894-1c69-0ff1-749d-baa49b45a174%28Office.15%29.aspx)
 
-
- [RevisionsFilter Object (Word)](http://msdn.microsoft.com/library/revisionsfilter-object-word%28Office.15%29.aspx)
-
-
- [Sources (colección)](http://msdn.microsoft.com/library/sources-object-word%28Office.15%29.aspx)
 

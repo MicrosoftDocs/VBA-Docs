@@ -1,5 +1,5 @@
 ---
-title: Error de bloqueo de recurso de código (error 455), Office Shared [vblr6.chm1000455]
+title: Code resource lock error (Error 455), Office Shared [vblr6.chm1000455]
 keywords: vblr6.chm1000455
 f1_keywords:
 - vblr6.chm1000455
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Code resource lock error (Error 455), Office Shared [vblr6.chm1000455]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de bloqueo de recurso de código (error 455), Office Shared [vblr6.chm1000455]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de bloque de recurso de código (error 455)](http://msdn.microsoft.com/library/code-resource-lock-error-error-455%28Office.15%29.aspx)
-
+[Code resource lock error (Error 455)](http://msdn.microsoft.com/library/17e5089a-2578-f40e-7147-c87fedfa50d8%28Office.15%29.aspx)
 

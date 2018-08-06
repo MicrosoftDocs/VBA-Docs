@@ -1,5 +1,5 @@
 ---
-title: Función Time, Office Shared [vblr6.chm1011388]
+title: Time Function, Office Shared [vblr6.chm1011388]
 keywords: vblr6.chm1011388
 f1_keywords:
 - vblr6.chm1011388
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Time Function, Office Shared [vblr6.chm1011388]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Time, Office Shared [vblr6.chm1011388]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función Time](http://msdn.microsoft.com/library/time-function%28Office.15%29.aspx)
-
+[Time Function](http://msdn.microsoft.com/library/53451748-04cf-04d2-b40d-c091753c7898%28Office.15%29.aspx)
 

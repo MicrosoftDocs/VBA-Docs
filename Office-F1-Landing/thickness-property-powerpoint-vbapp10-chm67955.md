@@ -1,5 +1,5 @@
 ---
-title: Propiedad Thickness, PowerPoint [vbapp10.chm67955]
+title: Thickness Property, PowerPoint [vbapp10.chm67955]
 keywords: vbapp10.chm67955
 f1_keywords:
 - vbapp10.chm67955
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Thickness Property, PowerPoint [vbapp10.chm67955]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Thickness, PowerPoint [vbapp10.chm67955]
+[Walls.Thickness Property (PowerPoint)](http://msdn.microsoft.com/library/6aec14a6-2a90-2456-cf27-16e297241e31%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Floor.Thickness Property (PowerPoint)](http://msdn.microsoft.com/library/44983b6e-7bbd-c6ef-bfdb-fb5c8c8dbbdb%28Office.15%29.aspx)
 
-
- [Propiedad Walls.Thickness (PowerPoint)](http://msdn.microsoft.com/library/walls.thickness-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Floor.Thickness (PowerPoint)](http://msdn.microsoft.com/library/floor.thickness-property-powerpoint%28Office.15%29.aspx)
 

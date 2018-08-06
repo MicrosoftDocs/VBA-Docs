@@ -1,5 +1,5 @@
 ---
-title: Propiedad Visible, Excel [vbagr10.chm3077600]
+title: Visible Property, Excel [vbagr10.chm3077600]
 keywords: vbagr10.chm3077600
 f1_keywords:
 - vbagr10.chm3077600
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Visible Property, Excel [vbagr10.chm3077600]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Visible, Excel [vbagr10.chm3077600]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad visible (gráfico)](http://msdn.microsoft.com/library/visible-property-graph%28Office.15%29.aspx)
-
+[Visible Property (Graph)](http://msdn.microsoft.com/library/8a2b1b7a-b880-0e43-ca9f-c5d2207f7cfd%28Office.15%29.aspx)
 

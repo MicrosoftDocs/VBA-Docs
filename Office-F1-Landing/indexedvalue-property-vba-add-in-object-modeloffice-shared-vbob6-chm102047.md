@@ -1,5 +1,5 @@
 ---
-title: Propiedad IndexedValue (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102047]
+title: IndexedValue Property (VBA Add-In Object Model), Office Shared [vbob6.chm102047]
 keywords: vbob6.chm102047
 f1_keywords:
 - vbob6.chm102047
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# IndexedValue Property (VBA Add-In Object Model), Office Shared [vbob6.chm102047]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IndexedValue (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102047]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad IndexedValue (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/indexedvalue-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[IndexedValue Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/df4356f9-aee9-ead5-82ef-185e4128c4fc%28Office.15%29.aspx)
 

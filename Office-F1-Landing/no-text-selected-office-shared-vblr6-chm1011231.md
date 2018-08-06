@@ -1,5 +1,5 @@
 ---
-title: Ningún texto seleccionado, Office Shared [vblr6.chm1011231]
+title: No text selected, Office Shared [vblr6.chm1011231]
 keywords: vblr6.chm1011231
 f1_keywords:
 - vblr6.chm1011231
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# No text selected, Office Shared [vblr6.chm1011231]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ningún texto seleccionado, Office Shared [vblr6.chm1011231]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No hay texto seleccionado](http://msdn.microsoft.com/library/no-text-selected%28Office.15%29.aspx)
-
+[No text selected](http://msdn.microsoft.com/library/1466a713-cbb5-fa3a-5ed0-ea36761020c5%28Office.15%29.aspx)
 

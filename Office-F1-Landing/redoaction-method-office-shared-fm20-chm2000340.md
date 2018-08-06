@@ -1,5 +1,5 @@
 ---
-title: Método RedoAction, Office Shared [fm20.chm2000340]
+title: RedoAction Method, Office Shared [fm20.chm2000340]
 keywords: fm20.chm2000340
 f1_keywords:
 - fm20.chm2000340
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RedoAction Method, Office Shared [fm20.chm2000340]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método RedoAction, Office Shared [fm20.chm2000340]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método RedoAction](http://msdn.microsoft.com/library/redoaction-method%28Office.15%29.aspx)
-
+[RedoAction Method](http://msdn.microsoft.com/library/a4aba525-5cbe-1a68-aec6-731fb5f78464%28Office.15%29.aspx)
 

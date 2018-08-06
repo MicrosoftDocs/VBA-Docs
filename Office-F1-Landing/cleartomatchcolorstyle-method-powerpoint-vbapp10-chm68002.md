@@ -1,5 +1,5 @@
 ---
-title: Método ClearToMatchColorStyle, PowerPoint [vbapp10.chm68002]
+title: ClearToMatchColorStyle Method, PowerPoint [vbapp10.chm68002]
 keywords: vbapp10.chm68002
 f1_keywords:
 - vbapp10.chm68002
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ClearToMatchColorStyle Method, PowerPoint [vbapp10.chm68002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método ClearToMatchColorStyle, PowerPoint [vbapp10.chm68002]
+[Chart.ClearToMatchColorStyle Method (PowerPoint)](http://msdn.microsoft.com/library/014d2148-c359-f11c-e5bf-012a769aced5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.ClearToMatchStyle Method (PowerPoint)](http://msdn.microsoft.com/library/fa85b905-6415-3ce9-4517-0a8dcedfbf14%28Office.15%29.aspx)
 
-
- [Método Chart.ClearToMatchColorStyle (PowerPoint)](http://msdn.microsoft.com/library/chart.cleartomatchcolorstyle-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método Chart.ClearToMatchStyle (PowerPoint)](http://msdn.microsoft.com/library/chart.cleartomatchstyle-method-powerpoint%28Office.15%29.aspx)
 

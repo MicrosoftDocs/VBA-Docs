@@ -1,5 +1,5 @@
 ---
-title: Celda LockEnd (sección Protección), Visio [Vis_DSS.chm82251221]
+title: LockEnd Cell (Protection Section), Visio [Vis_DSS.chm82251221]
 keywords: vis_dss.chm82251221
 f1_keywords:
 - vis_dss.chm82251221
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockEnd Cell (Protection Section), Visio [Vis_DSS.chm82251221]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockEnd (sección Protección), Visio [Vis_DSS.chm82251221]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockEnd (Sección Protección)](http://msdn.microsoft.com/library/lockend-cell-protection-section%28Office.15%29.aspx)
-
+[LockEnd Cell (Protection Section)](http://msdn.microsoft.com/library/e9742142-4d34-1ba9-480e-d1ecff4fc7cd%28Office.15%29.aspx)
 

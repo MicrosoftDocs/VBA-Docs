@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeShdwOffsetX (sección Fill Format), Visio [Vis_DSS.chm1033171]
+title: ShapeShdwOffsetX Cell (Fill Format Section), Visio [Vis_DSS.chm1033171]
 keywords: vis_dss.chm1033171
 f1_keywords:
 - vis_dss.chm1033171
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeShdwOffsetX Cell (Fill Format Section), Visio [Vis_DSS.chm1033171]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeShdwOffsetX (sección Fill Format), Visio [Vis_DSS.chm1033171]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeShdwOffsetX (Sección de formato de relleno)](http://msdn.microsoft.com/library/shapeshdwoffsetx-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShapeShdwOffsetX Cell (Fill Format Section)](http://msdn.microsoft.com/library/a426f471-d35f-ef87-4c59-2c007ec2653f%28Office.15%29.aspx)
 

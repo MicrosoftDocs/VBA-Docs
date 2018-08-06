@@ -1,5 +1,5 @@
 ---
-title: Propiedad AxisTitle, Excel [vbagr10.chm3076959]
+title: AxisTitle Property, Excel [vbagr10.chm3076959]
 keywords: vbagr10.chm3076959
 f1_keywords:
 - vbagr10.chm3076959
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AxisTitle Property, Excel [vbagr10.chm3076959]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AxisTitle, Excel [vbagr10.chm3076959]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AxisTitle (propiedad)](http://msdn.microsoft.com/library/axistitle-property%28Office.15%29.aspx)
-
+[AxisTitle Property](http://msdn.microsoft.com/library/2fa829a9-e414-6826-32c5-27189b913409%28Office.15%29.aspx)
 

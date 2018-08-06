@@ -1,5 +1,5 @@
 ---
-title: Método SetTabOrder, Access [vbaac10.chm14294]
+title: SetTabOrder Method, Access [vbaac10.chm14294]
 keywords: vbaac10.chm14294
 f1_keywords:
 - vbaac10.chm14294
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SetTabOrder Method, Access [vbaac10.chm14294]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetTabOrder, Access [vbaac10.chm14294]
+[Section.SetTabOrder Method (Access)](http://msdn.microsoft.com/library/d0d993c5-045d-a457-f89a-459d85f98dec%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Page.SetTabOrder Method (Access)](http://msdn.microsoft.com/library/446762c2-00b0-5b60-5e32-c2703681a753%28Office.15%29.aspx)
 
-
- [Método Section.SetTabOrder (Access)](http://msdn.microsoft.com/library/section.settaborder-method-access%28Office.15%29.aspx)
-
-
- [Método Page.SetTabOrder (Access)](http://msdn.microsoft.com/library/page.settaborder-method-access%28Office.15%29.aspx)
 

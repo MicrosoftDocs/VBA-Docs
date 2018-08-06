@@ -1,5 +1,5 @@
 ---
-title: Celda PaperSource (sección PrintProperties), Visio [Vis_DSS.chm1033797]
+title: PaperSource Cell (PrintProperties Section), Visio [Vis_DSS.chm1033797]
 keywords: vis_dss.chm1033797
 f1_keywords:
 - vis_dss.chm1033797
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PaperSource Cell (PrintProperties Section), Visio [Vis_DSS.chm1033797]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda PaperSource (sección PrintProperties), Visio [Vis_DSS.chm1033797]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda PaperSource (Sección de propiedades de impresión)](http://msdn.microsoft.com/library/papersource-cell-printproperties-section%28Office.15%29.aspx)
-
+[PaperSource Cell (PrintProperties Section)](http://msdn.microsoft.com/library/771a2ab4-578d-51c3-fabd-138f7952bb11%28Office.15%29.aspx)
 

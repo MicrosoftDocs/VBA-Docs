@@ -1,5 +1,5 @@
 ---
-title: El tipo definido por el usuario puede que no se pase a ByVal, Office Shared [vblr6.chm1011261]
+title: User-defined type may not be passed ByVal, Office Shared [vblr6.chm1011261]
 keywords: vblr6.chm1011261
 f1_keywords:
 - vblr6.chm1011261
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# User-defined type may not be passed ByVal, Office Shared [vblr6.chm1011261]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El tipo definido por el usuario puede que no se pase a ByVal, Office Shared [vblr6.chm1011261]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Es posible que el tipo definido por el usuario no se pase por ByVal](http://msdn.microsoft.com/library/user-defined-type-may-not-be-passed-byval%28Office.15%29.aspx)
-
+[User-defined type may not be passed ByVal](http://msdn.microsoft.com/library/1fbfeef6-b92d-03ca-aeec-4cf4c0d8d972%28Office.15%29.aspx)
 

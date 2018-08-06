@@ -1,5 +1,5 @@
 ---
-title: Propiedad WindowState, Excel [vbagr10.chm3077603]
+title: WindowState Property, Excel [vbagr10.chm3077603]
 keywords: vbagr10.chm3077603
 f1_keywords:
 - vbagr10.chm3077603
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowState Property, Excel [vbagr10.chm3077603]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad WindowState, Excel [vbagr10.chm3077603]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [WindowState (propiedad)](http://msdn.microsoft.com/library/windowstate-property%28Office.15%29.aspx)
-
+[WindowState Property](http://msdn.microsoft.com/library/22ce1105-6f4e-54d2-4f9a-216019462f04%28Office.15%29.aspx)
 

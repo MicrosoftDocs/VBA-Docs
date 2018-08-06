@@ -1,5 +1,5 @@
 ---
-title: Las instrucciones y etiquetas no son válidas entre Select Case y la primera instrucción Case, Office Shared [vblr6.chm1040341]
+title: Statements or labels invalid between Select Case and first Case, Office Shared [vblr6.chm1040341]
 keywords: vblr6.chm1040341
 f1_keywords:
 - vblr6.chm1040341
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Statements or labels invalid between Select Case and first Case, Office Shared [vblr6.chm1040341]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Las instrucciones y etiquetas no son válidas entre Select Case y la primera instrucción Case, Office Shared [vblr6.chm1040341]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Las instrucciones y etiquetas no son válidas entre Select Case y la primera instrucción Case](http://msdn.microsoft.com/library/statements-or-labels-invalid-between-select-case-and-first-case%28Office.15%29.aspx)
-
+[Statements or labels invalid between Select Case and first Case](http://msdn.microsoft.com/library/d43e2a82-7f04-cae9-34bf-e4c819c02c74%28Office.15%29.aspx)
 

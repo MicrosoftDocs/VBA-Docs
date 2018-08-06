@@ -1,5 +1,5 @@
 ---
-title: Sección TRIM, Visio [Vis_DSS.chm60116]
+title: TRIM Function, Visio [Vis_DSS.chm60116]
 keywords: vis_dss.chm60116
 f1_keywords:
 - vis_dss.chm60116
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TRIM Function, Visio [Vis_DSS.chm60116]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección TRIM, Visio [Vis_DSS.chm60116]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [TRIM (función)](http://msdn.microsoft.com/library/trim-function%28Office.15%29.aspx)
-
+[TRIM Function](http://msdn.microsoft.com/library/6f2d84fd-27eb-4c2f-a2e1-43d20e0c78be%28Office.15%29.aspx)
 

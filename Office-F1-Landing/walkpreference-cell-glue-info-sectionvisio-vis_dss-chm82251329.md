@@ -1,5 +1,5 @@
 ---
-title: Celda WalkPreference (sección Glue Info), Visio [Vis_DSS.chm82251329]
+title: WalkPreference Cell (Glue Info Section), Visio [Vis_DSS.chm82251329]
 keywords: vis_dss.chm82251329
 f1_keywords:
 - vis_dss.chm82251329
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# WalkPreference Cell (Glue Info Section), Visio [Vis_DSS.chm82251329]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda WalkPreference (sección Glue Info), Visio [Vis_DSS.chm82251329]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda WalkPreference (Sección de información de pegado)](http://msdn.microsoft.com/library/walkpreference-cell-glue-info-section%28Office.15%29.aspx)
-
+[WalkPreference Cell (Glue Info Section)](http://msdn.microsoft.com/library/08165195-7e4e-f3ab-fa76-fbcacb0a9c9c%28Office.15%29.aspx)
 

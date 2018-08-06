@@ -1,5 +1,5 @@
 ---
-title: Propiedad BeginGroup, Office Shared [vbaof11.chm5001]
+title: BeginGroup Property, Office Shared [vbaof11.chm5001]
 keywords: vbaof11.chm5001
 f1_keywords:
 - vbaof11.chm5001
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# BeginGroup Property, Office Shared [vbaof11.chm5001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BeginGroup, Office Shared [vbaof11.chm5001]
+[CommandBarButton.BeginGroup Property (Office)](http://msdn.microsoft.com/library/62f522cd-30de-85a6-bd2d-0bd3f6ccb44f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarComboBox.BeginGroup Property (Office)](http://msdn.microsoft.com/library/482ec5fc-91ef-746b-2ec8-360bb7780df2%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarButton.BeginGroup (Office)](http://msdn.microsoft.com/library/commandbarbutton.begingroup-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.BeginGroup (Office)](http://msdn.microsoft.com/library/commandbarcombobox.begingroup-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarPopup.BeginGroup (Office)](http://msdn.microsoft.com/library/commandbarpopup.begingroup-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarControl.BeginGroup (Office)](http://msdn.microsoft.com/library/commandbarcontrol.begingroup-property-office%28Office.15%29.aspx)
-
+[CommandBarPopup.BeginGroup Property (Office)](http://msdn.microsoft.com/library/0ecc5c98-5db7-792c-8f33-86f7df32d912%28Office.15%29.aspx)
+[CommandBarControl.BeginGroup Property (Office)](http://msdn.microsoft.com/library/529b8c23-ec1f-b37b-a40c-9ae6016f4dc0%28Office.15%29.aspx)
 

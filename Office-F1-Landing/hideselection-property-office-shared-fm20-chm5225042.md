@@ -1,5 +1,5 @@
 ---
-title: Propiedad HideSelection, Office Shared [fm20.chm5225042]
+title: HideSelection Property, Office Shared [fm20.chm5225042]
 keywords: fm20.chm5225042
 f1_keywords:
 - fm20.chm5225042
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HideSelection Property, Office Shared [fm20.chm5225042]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HideSelection, Office Shared [fm20.chm5225042]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad HideSelection](http://msdn.microsoft.com/library/hideselection-property%28Office.15%29.aspx)
-
+[HideSelection Property](http://msdn.microsoft.com/library/fe840b76-7f50-8801-642f-3cce6707bb62%28Office.15%29.aspx)
 

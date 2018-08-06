@@ -1,5 +1,5 @@
 ---
-title: Control MultiPage, Office Shared [fm20.chm2000570]
+title: MultiPage Control, Office Shared [fm20.chm2000570]
 keywords: fm20.chm2000570
 f1_keywords:
 - fm20.chm2000570
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MultiPage Control, Office Shared [fm20.chm2000570]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control MultiPage, Office Shared [fm20.chm2000570]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control MultiPage](http://msdn.microsoft.com/library/multipage-control%28Office.15%29.aspx)
-
+[MultiPage Control](http://msdn.microsoft.com/library/9361ddc3-2eaf-0a34-942b-f6cf4064625d%28Office.15%29.aspx)
 

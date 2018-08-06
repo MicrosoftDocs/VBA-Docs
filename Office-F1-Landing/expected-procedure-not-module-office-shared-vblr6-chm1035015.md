@@ -1,5 +1,5 @@
 ---
-title: Se esperaba un procedimiento en lugar de un módulo, Office Shared [vblr6.chm1035015]
+title: Expected procedure, not module, Office Shared [vblr6.chm1035015]
 keywords: vblr6.chm1035015
 f1_keywords:
 - vblr6.chm1035015
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected procedure, not module, Office Shared [vblr6.chm1035015]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se esperaba un procedimiento en lugar de un módulo, Office Shared [vblr6.chm1035015]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Procedimiento previsto, no es un módulo](http://msdn.microsoft.com/library/expected-procedure-not-module%28Office.15%29.aspx)
-
+[Expected procedure, not module](http://msdn.microsoft.com/library/0e66075a-6045-7ba4-ae4e-a36a808eadbf%28Office.15%29.aspx)
 

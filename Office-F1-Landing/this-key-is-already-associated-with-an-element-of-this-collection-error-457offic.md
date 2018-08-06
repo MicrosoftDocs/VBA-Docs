@@ -1,5 +1,5 @@
 ---
-title: Esta clave ya está asociada con un elemento de esta colección (error 457), Office Shared [vblr6.chm1019364]
+title: This key is already associated with an element of this collection (Error 457), Office Shared [vblr6.chm1019364]
 keywords: vblr6.chm1019364
 f1_keywords:
 - vblr6.chm1019364
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# This key is already associated with an element of this collection (Error 457), Office Shared [vblr6.chm1019364]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Esta clave ya está asociada con un elemento de esta colección (error 457), Office Shared [vblr6.chm1019364]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Esta clave ya está asociada a un elemento de esta colección (error 457)](http://msdn.microsoft.com/library/this-key-is-already-associated-with-an-element-of-this-collection-error-457%28Office.15%29.aspx)
-
+[This key is already associated with an element of this collection (Error 457)](http://msdn.microsoft.com/library/d6c2ba60-4077-0ccd-5bf4-221367db7b59%28Office.15%29.aspx)
 

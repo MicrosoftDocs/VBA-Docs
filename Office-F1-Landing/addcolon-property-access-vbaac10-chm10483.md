@@ -1,5 +1,5 @@
 ---
-title: Propiedad AddColon, Access [vbaac10.chm10483]
+title: AddColon Property, Access [vbaac10.chm10483]
 keywords: vbaac10.chm10483
 f1_keywords:
 - vbaac10.chm10483
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AddColon Property, Access [vbaac10.chm10483]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AddColon, Access [vbaac10.chm10483]
+[CommandButton.AddColon Property (Access)](http://msdn.microsoft.com/library/cde177a8-b5a8-5063-d061-a81dfbfc2857%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.AddColon Property (Access)](http://msdn.microsoft.com/library/37ea2802-2747-f220-427f-d6ae7df96f10%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.AddColon (Access)](http://msdn.microsoft.com/library/commandbutton.addcolon-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.AddColon (Access)](http://msdn.microsoft.com/library/navigationbutton.addcolon-property-access%28Office.15%29.aspx)
 

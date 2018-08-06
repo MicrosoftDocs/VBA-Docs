@@ -1,5 +1,5 @@
 ---
-title: Desbordamiento (error 6), Office Shared [vblr6.chm1000006]
+title: Overflow (Error 6), Office Shared [vblr6.chm1000006]
 keywords: vblr6.chm1000006
 f1_keywords:
 - vblr6.chm1000006
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Overflow (Error 6), Office Shared [vblr6.chm1000006]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Desbordamiento (error 6), Office Shared [vblr6.chm1000006]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Desbordamiento (error 6)](http://msdn.microsoft.com/library/overflow-error-6%28Office.15%29.aspx)
-
+[Overflow (Error 6)](http://msdn.microsoft.com/library/e2abff7d-ed6d-7392-6dec-2ae73ba8a9e5%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Update, Excel [vbagr10.chm3077637]
+title: Update Method, Excel [vbagr10.chm3077637]
 keywords: vbagr10.chm3077637
 f1_keywords:
 - vbagr10.chm3077637
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Update Method, Excel [vbagr10.chm3077637]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Update, Excel [vbagr10.chm3077637]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Update (método)](http://msdn.microsoft.com/library/update-method%28Office.15%29.aspx)
-
+[Update Method](http://msdn.microsoft.com/library/ef26d691-e77a-115e-2152-eec136aa6839%28Office.15%29.aspx)
 

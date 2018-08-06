@@ -1,5 +1,5 @@
 ---
-title: Función SETATREFEXPR, Visio [Vis_DSS.chm60114]
+title: SETATREFEXPR Function, Visio [Vis_DSS.chm60114]
 keywords: vis_dss.chm60114
 f1_keywords:
 - vis_dss.chm60114
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SETATREFEXPR Function, Visio [Vis_DSS.chm60114]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función SETATREFEXPR, Visio [Vis_DSS.chm60114]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SETATREFEXPR (función)](http://msdn.microsoft.com/library/setatrefexpr-function%28Office.15%29.aspx)
-
+[SETATREFEXPR Function](http://msdn.microsoft.com/library/c1bd7819-b53b-bff1-69c1-6d78e8fb278b%28Office.15%29.aspx)
 

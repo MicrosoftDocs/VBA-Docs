@@ -1,5 +1,5 @@
 ---
-title: Método Move, Office Shared [vbaof11.chm5014]
+title: Move Method, Office Shared [vbaof11.chm5014]
 keywords: vbaof11.chm5014
 f1_keywords:
 - vbaof11.chm5014
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Move Method, Office Shared [vbaof11.chm5014]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Move, Office Shared [vbaof11.chm5014]
+[CommandBarControl.Move Method (Office)](http://msdn.microsoft.com/library/91858a91-49d8-7be6-95b3-491cd9f41235%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarPopup.Move Method (Office)](http://msdn.microsoft.com/library/8c36e21d-0693-63c7-4f27-b1f333d240d9%28Office.15%29.aspx)
 
-
- [Método CommandBarControl.Move (Office)](http://msdn.microsoft.com/library/commandbarcontrol.move-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarPopup.Move (Office)](http://msdn.microsoft.com/library/commandbarpopup.move-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarButton.Move (Office)](http://msdn.microsoft.com/library/commandbarbutton.move-method-office%28Office.15%29.aspx)
-
- [Método CommandBarComboBox.Move (Office)](http://msdn.microsoft.com/library/commandbarcombobox.move-method-office%28Office.15%29.aspx)
-
+[CommandBarButton.Move Method (Office)](http://msdn.microsoft.com/library/b2d462ec-63a7-a395-8d93-bedbf1d6941d%28Office.15%29.aspx)
+[CommandBarComboBox.Move Method (Office)](http://msdn.microsoft.com/library/8e8ccbee-da72-1167-9f34-ccf5b535fef8%28Office.15%29.aspx)
 

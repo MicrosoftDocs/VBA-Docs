@@ -1,5 +1,5 @@
 ---
-title: Múltiples campos en expresiones de criterios, Access [vbaac10.chm10889]
+title: Multiple Fields in Criteria Expressions, Access [vbaac10.chm10889]
 keywords: vbaac10.chm10889
 f1_keywords:
 - vbaac10.chm10889
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Multiple Fields in Criteria Expressions, Access [vbaac10.chm10889]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Múltiples campos en expresiones de criterios, Access [vbaac10.chm10889]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Usar varios campos en las expresiones de criterio](http://msdn.microsoft.com/library/multiple-fields-in-criteria-expressions%28Office.15%29.aspx)
-
+[Multiple Fields in Criteria Expressions](http://msdn.microsoft.com/library/6ed0992f-912f-10ca-27de-4e3c9d6a2f71%28Office.15%29.aspx)
 

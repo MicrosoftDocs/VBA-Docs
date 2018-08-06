@@ -1,5 +1,5 @@
 ---
-title: Demasiados argumentos, Office Shared [vblr6.chm1011280]
+title: Too many arguments, Office Shared [vblr6.chm1011280]
 keywords: vblr6.chm1011280
 f1_keywords:
 - vblr6.chm1011280
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Too many arguments, Office Shared [vblr6.chm1011280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Demasiados argumentos, Office Shared [vblr6.chm1011280]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Demasiados argumentos](http://msdn.microsoft.com/library/too-many-arguments%28Office.15%29.aspx)
-
+[Too many arguments](http://msdn.microsoft.com/library/38c3f171-5c16-3c48-0548-5bc2610afa41%28Office.15%29.aspx)
 

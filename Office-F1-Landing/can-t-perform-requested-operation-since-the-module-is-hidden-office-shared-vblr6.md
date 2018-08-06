@@ -1,5 +1,5 @@
 ---
-title: No se puede realizar la operación solicitada porque el módulo está oculto, Office Shared [vblr6.chm1057104]
+title: Can't perform requested operation since the module is hidden, Office Shared [vblr6.chm1057104]
 keywords: vblr6.chm1057104
 f1_keywords:
 - vblr6.chm1057104
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't perform requested operation since the module is hidden, Office Shared [vblr6.chm1057104]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede realizar la operación solicitada porque el módulo está oculto, Office Shared [vblr6.chm1057104]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede realizar la operación solicitada porque el módulo está oculto](http://msdn.microsoft.com/library/can-t-perform-requested-operation-since-the-module-is-hidden%28Office.15%29.aspx)
-
+[Can't perform requested operation since the module is hidden](http://msdn.microsoft.com/library/c19df6f0-eaa3-ea06-9cfd-a6b2db2f7605%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad BorderColor, Office Shared [fm20.chm2000800]
+title: BorderColor Property, Office Shared [fm20.chm2000800]
 keywords: fm20.chm2000800
 f1_keywords:
 - fm20.chm2000800
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BorderColor Property, Office Shared [fm20.chm2000800]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BorderColor, Office Shared [fm20.chm2000800]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad BorderColor](http://msdn.microsoft.com/library/bordercolor-property%28Office.15%29.aspx)
-
+[BorderColor Property](http://msdn.microsoft.com/library/f5718e93-55fa-e3c6-5359-c9ccc7c7a76c%28Office.15%29.aspx)
 

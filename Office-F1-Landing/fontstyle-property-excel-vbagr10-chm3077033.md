@@ -1,5 +1,5 @@
 ---
-title: Propiedad FontStyle, Excel [vbagr10.chm3077033]
+title: FontStyle Property, Excel [vbagr10.chm3077033]
 keywords: vbagr10.chm3077033
 f1_keywords:
 - vbagr10.chm3077033
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FontStyle Property, Excel [vbagr10.chm3077033]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FontStyle, Excel [vbagr10.chm3077033]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [FontStyle (propiedad)](http://msdn.microsoft.com/library/fontstyle-property%28Office.15%29.aspx)
-
+[FontStyle Property](http://msdn.microsoft.com/library/ee63b4bf-1cc1-7348-c79f-c6d4962abe9c%28Office.15%29.aspx)
 

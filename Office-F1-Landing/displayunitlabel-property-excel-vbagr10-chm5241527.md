@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayUnitLabel, Excel [vbagr10.chm5241527]
+title: DisplayUnitLabel Property, Excel [vbagr10.chm5241527]
 keywords: vbagr10.chm5241527
 f1_keywords:
 - vbagr10.chm5241527
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayUnitLabel Property, Excel [vbagr10.chm5241527]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayUnitLabel, Excel [vbagr10.chm5241527]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayUnitLabel (propiedad)](http://msdn.microsoft.com/library/displayunitlabel-property%28Office.15%29.aspx)
-
+[DisplayUnitLabel Property](http://msdn.microsoft.com/library/50e91894-9b5d-c915-e94c-e4563b54487a%28Office.15%29.aspx)
 

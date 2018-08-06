@@ -1,5 +1,5 @@
 ---
-title: Propiedad IMEHold, Access [vbaac10.chm4392]
+title: IMEHold Property, Access [vbaac10.chm4392]
 keywords: vbaac10.chm4392
 f1_keywords:
 - vbaac10.chm4392
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# IMEHold Property, Access [vbaac10.chm4392]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IMEHold, Access [vbaac10.chm4392]
+[ComboBox.IMEHold Property (Access)](http://msdn.microsoft.com/library/ab128652-1de6-e4a2-4bc5-99936b3fee7f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ListBox.IMEHold Property (Access)](http://msdn.microsoft.com/library/22d6bd7c-704b-2b27-6b04-c6628cd83f02%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.IMEHold (Access)](http://msdn.microsoft.com/library/combobox.imehold-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ListBox.IMEHold (Access)](http://msdn.microsoft.com/library/listbox.imehold-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.IMEHold (Access)](http://msdn.microsoft.com/library/textbox.imehold-property-access%28Office.15%29.aspx)
-
+[TextBox.IMEHold Property (Access)](http://msdn.microsoft.com/library/0cb93c85-07ff-a10f-5cd0-dc4045ce1079%28Office.15%29.aspx)
 

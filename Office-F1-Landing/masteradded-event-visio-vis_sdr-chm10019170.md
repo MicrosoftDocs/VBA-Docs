@@ -1,5 +1,5 @@
 ---
-title: Evento MasterAdded, Visio [vis_sdr.chm10019170]
+title: MasterAdded Event, Visio [vis_sdr.chm10019170]
 keywords: vis_sdr.chm10019170
 f1_keywords:
 - vis_sdr.chm10019170
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MasterAdded Event, Visio [vis_sdr.chm10019170]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MasterAdded, Visio [vis_sdr.chm10019170]
+[InvisibleApp.MasterAdded Event (Visio)](http://msdn.microsoft.com/library/513c21c2-553a-0239-dbbe-401f2473f4c0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.MasterAdded Event (Visio)](http://msdn.microsoft.com/library/ef5ddfa4-3f33-e913-ea96-a1b063a1af2b%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.MasterAdded (Visio)](http://msdn.microsoft.com/library/invisibleapp.masteradded-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.MasterAdded (Visio)](http://msdn.microsoft.com/library/application.masteradded-event-visio%28Office.15%29.aspx)
 

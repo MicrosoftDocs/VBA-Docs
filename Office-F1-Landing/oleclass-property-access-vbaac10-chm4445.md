@@ -1,5 +1,5 @@
 ---
-title: Propiedad OLEClass, Access [vbaac10.chm4445]
+title: OLEClass Property, Access [vbaac10.chm4445]
 keywords: vbaac10.chm4445
 f1_keywords:
 - vbaac10.chm4445
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OLEClass Property, Access [vbaac10.chm4445]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OLEClass, Access [vbaac10.chm4445]
+[ObjectFrame.OLEClass Property (Access)](http://msdn.microsoft.com/library/ed32f15c-77da-0bd6-46da-38373ea37cc1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.OLEClass Property (Access)](http://msdn.microsoft.com/library/d9aad7b9-6388-3365-881a-6e42ebebcfd6%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.OLEClass (Access)](http://msdn.microsoft.com/library/objectframe.oleclass-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.OLEClass (Access)](http://msdn.microsoft.com/library/customcontrol.oleclass-property-access%28Office.15%29.aspx)
 

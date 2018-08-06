@@ -1,5 +1,5 @@
 ---
-title: Acerca de la compresión de datos del campo Texto, Memo o Hipervínculo, Access [vbaac10.chm4991]
+title: About compressing the data in a Text, Memo, or Hyperlink field, Access [vbaac10.chm4991]
 keywords: vbaac10.chm4991
 f1_keywords:
 - vbaac10.chm4991
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# About compressing the data in a Text, Memo, or Hyperlink field, Access [vbaac10.chm4991]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Acerca de la compresión de datos del campo Texto, Memo o Hipervínculo, Access [vbaac10.chm4991]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comprimir los datos de un campo de tipo Texto, Memo o Hipervínculo](http://msdn.microsoft.com/library/about-compressing-the-data-in-a-text-memo-or-hyperlink-field%28Office.15%29.aspx)
-
+[About compressing the data in a Text, Memo, or Hyperlink field](http://msdn.microsoft.com/library/4f2aa9c5-a23e-076a-cc91-8b6061911f59%28Office.15%29.aspx)
 

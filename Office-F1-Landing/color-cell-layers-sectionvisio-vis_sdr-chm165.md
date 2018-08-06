@@ -1,5 +1,5 @@
 ---
-title: Celda Color (sección Layers), Visio [vis_sdr.chm165]
+title: Color Cell (Layers Section), Visio [vis_sdr.chm165]
 keywords: vis_sdr.chm165
 f1_keywords:
 - vis_sdr.chm165
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Color Cell (Layers Section), Visio [vis_sdr.chm165]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Color (sección Layers), Visio [vis_sdr.chm165]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Color (Sección de capas)](http://msdn.microsoft.com/library/color-cell-layers-section%28Office.15%29.aspx)
-
+[Color Cell (Layers Section)](http://msdn.microsoft.com/library/61c19342-46fb-48d4-6375-c9ea8306286d%28Office.15%29.aspx)
 

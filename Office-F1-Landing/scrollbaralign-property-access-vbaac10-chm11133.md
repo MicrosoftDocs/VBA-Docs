@@ -1,5 +1,5 @@
 ---
-title: Propiedad ScrollBarAlign, Access [vbaac10.chm11133]
+title: ScrollBarAlign Property, Access [vbaac10.chm11133]
 keywords: vbaac10.chm11133
 f1_keywords:
 - vbaac10.chm11133
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ScrollBarAlign Property, Access [vbaac10.chm11133]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ScrollBarAlign, Access [vbaac10.chm11133]
+[TextBox.ScrollBarAlign Property (Access)](http://msdn.microsoft.com/library/5a8a77df-571a-7294-8be8-0ff2c4546131%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.ScrollBarAlign Property (Access)](http://msdn.microsoft.com/library/b685e196-513e-fe57-d993-d1e2f4051a4c%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.ScrollBarAlign (Access)](http://msdn.microsoft.com/library/textbox.scrollbaralign-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.ScrollBarAlign (Access)](http://msdn.microsoft.com/library/navigationcontrol.scrollbaralign-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento Sync, Excel [vbaxl10.chm503096]
+title: Sync Event, Excel [vbaxl10.chm503096]
 keywords: vbaxl10.chm503096
 f1_keywords:
 - vbaxl10.chm503096
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Sync Event, Excel [vbaxl10.chm503096]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Sync, Excel [vbaxl10.chm503096]
+[Workbook.Sync Event (Excel)](http://msdn.microsoft.com/library/ce8b77e1-a316-c0e3-f0f8-ce4ac22ec430%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Sync Event](http://msdn.microsoft.com/library/96653fd2-43c0-f958-8d51-da9fa2bfdd9d%28Office.15%29.aspx)
 
-
- [Evento Workbook.Sync (Excel)](http://msdn.microsoft.com/library/workbook.sync-event-excel%28Office.15%29.aspx)
-
-
- [Evento Sync (Excel)](http://msdn.microsoft.com/library/96653fd2-43c0-f958-8d51-da9fa2bfdd9d%28Office.15%29.aspx)
 

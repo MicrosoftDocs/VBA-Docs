@@ -1,5 +1,5 @@
 ---
-title: Propiedad MouseIcon, Office Shared [fm20.chm5225065]
+title: MouseIcon Property, Office Shared [fm20.chm5225065]
 keywords: fm20.chm5225065
 f1_keywords:
 - fm20.chm5225065
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseIcon Property, Office Shared [fm20.chm5225065]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MouseIcon, Office Shared [fm20.chm5225065]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MouseIcon](http://msdn.microsoft.com/library/mouseicon-property%28Office.15%29.aspx)
-
+[MouseIcon Property](http://msdn.microsoft.com/library/b5834d6d-76ad-73e6-b55d-0ab4caa643ef%28Office.15%29.aspx)
 

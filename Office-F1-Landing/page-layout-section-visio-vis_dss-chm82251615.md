@@ -1,5 +1,5 @@
 ---
-title: Sección Page Layout, Visio [Vis_DSS.chm82251615]
+title: Page Layout Section, Visio [Vis_DSS.chm82251615]
 keywords: vis_dss.chm82251615
 f1_keywords:
 - vis_dss.chm82251615
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Page Layout Section, Visio [Vis_DSS.chm82251615]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Page Layout, Visio [Vis_DSS.chm82251615]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de diseño de página](http://msdn.microsoft.com/library/page-layout-section%28Office.15%29.aspx)
-
+[Page Layout Section](http://msdn.microsoft.com/library/ed47c690-f874-498c-1fbc-61fc49309ea5%28Office.15%29.aspx)
 

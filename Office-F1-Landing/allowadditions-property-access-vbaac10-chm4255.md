@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllowAdditions, Access [vbaac10.chm4255]
+title: AllowAdditions Property, Access [vbaac10.chm4255]
 keywords: vbaac10.chm4255
 f1_keywords:
 - vbaac10.chm4255
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AllowAdditions Property, Access [vbaac10.chm4255]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllowAdditions, Access [vbaac10.chm4255]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.AllowAdditions (Access)](http://msdn.microsoft.com/library/form.allowadditions-property-access%28Office.15%29.aspx)
-
+[Form.AllowAdditions Property (Access)](http://msdn.microsoft.com/library/8e440a96-7f9e-c009-5055-377c75999267%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AfterLayout, Access [vbaac10.chm5115]
+title: AfterLayout Property, Access [vbaac10.chm5115]
 keywords: vbaac10.chm5115
 f1_keywords:
 - vbaac10.chm5115
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AfterLayout Property, Access [vbaac10.chm5115]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AfterLayout, Access [vbaac10.chm5115]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.AfterLayout (Access)](http://msdn.microsoft.com/library/form.afterlayout-property-access%28Office.15%29.aspx)
-
+[Form.AfterLayout Property (Access)](http://msdn.microsoft.com/library/8d548e7b-6d68-4631-2c59-f6b8d39cbb12%28Office.15%29.aspx)
 

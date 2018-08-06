@@ -1,5 +1,5 @@
 ---
-title: Método AddItem, Office Shared [fm20.chm5224954]
+title: AddItem Method, Office Shared [fm20.chm5224954]
 keywords: fm20.chm5224954
 f1_keywords:
 - fm20.chm5224954
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddItem Method, Office Shared [fm20.chm5224954]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AddItem, Office Shared [fm20.chm5224954]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AddItem](http://msdn.microsoft.com/library/additem-method%28Office.15%29.aspx)
-
+[AddItem Method](http://msdn.microsoft.com/library/cd8ce314-7ba2-5930-5747-4eb89c649630%28Office.15%29.aspx)
 

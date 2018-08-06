@@ -1,5 +1,5 @@
 ---
-title: Función Space, Office Shared [vblr6.chm1011368]
+title: Space Function, Office Shared [vblr6.chm1011368]
 keywords: vblr6.chm1011368
 f1_keywords:
 - vblr6.chm1011368
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Space Function, Office Shared [vblr6.chm1011368]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Space, Office Shared [vblr6.chm1011368]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función Space](http://msdn.microsoft.com/library/space-function%28Office.15%29.aspx)
-
+[Space Function](http://msdn.microsoft.com/library/fa531cfb-863f-ede9-34b8-6000711d71ed%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Glow, Access [vbaac10.chm14630]
+title: Glow Property, Access [vbaac10.chm14630]
 keywords: vbaac10.chm14630
 f1_keywords:
 - vbaac10.chm14630
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Glow Property, Access [vbaac10.chm14630]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Glow, Access [vbaac10.chm14630]
+[ToggleButton.Glow Property (Access)](http://msdn.microsoft.com/library/f279f51c-11f7-de6c-0f47-369e9b5cb3a6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.Glow Property (Access)](http://msdn.microsoft.com/library/d1123b17-2ee3-626f-d746-a4b0d287c3f6%28Office.15%29.aspx)
 
-
- [Propiedad ToggleButton.Glow (Access)](http://msdn.microsoft.com/library/togglebutton.glow-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Glow (Access)](http://msdn.microsoft.com/library/navigationbutton.glow-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TabControl.Glow (Access)](http://msdn.microsoft.com/library/e3ee6d6c-4cca-1555-14e2-a512c8520855%28Office.15%29.aspx)
-
- [Propiedad CommandButton.Glow (Access)](http://msdn.microsoft.com/library/commandbutton.glow-property-access%28Office.15%29.aspx)
-
+[TabControl.Glow Property (Access)](http://msdn.microsoft.com/library/e3ee6d6c-4cca-1555-14e2-a512c8520855%28Office.15%29.aspx)
+[CommandButton.Glow Property (Access)](http://msdn.microsoft.com/library/e6c147b4-c378-90bd-7132-f44021994ecd%28Office.15%29.aspx)
 

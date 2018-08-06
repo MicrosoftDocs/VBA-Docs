@@ -1,5 +1,5 @@
 ---
-title: Propiedad List, Office Shared [fm20.chm5225053]
+title: List Property, Office Shared [fm20.chm5225053]
 keywords: fm20.chm5225053
 f1_keywords:
 - fm20.chm5225053
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# List Property, Office Shared [fm20.chm5225053]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad List, Office Shared [fm20.chm5225053]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad List (Microsoft Forms)](http://msdn.microsoft.com/library/list-property-microsoft-forms%28Office.15%29.aspx)
-
+[List Property (Microsoft Forms)](http://msdn.microsoft.com/library/15ea715a-a361-34f4-98af-520942a6664e%28Office.15%29.aspx)
 

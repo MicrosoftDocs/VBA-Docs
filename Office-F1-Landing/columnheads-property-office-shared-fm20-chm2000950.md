@@ -1,5 +1,5 @@
 ---
-title: Propiedad ColumnHeads, Office Shared [fm20.chm2000950]
+title: ColumnHeads Property, Office Shared [fm20.chm2000950]
 keywords: fm20.chm2000950
 f1_keywords:
 - fm20.chm2000950
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ColumnHeads Property, Office Shared [fm20.chm2000950]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ColumnHeads, Office Shared [fm20.chm2000950]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ColumnHeads](http://msdn.microsoft.com/library/columnheads-property%28Office.15%29.aspx)
-
+[ColumnHeads Property](http://msdn.microsoft.com/library/55cd26ad-8ef3-8e65-f655-315af620658d%28Office.15%29.aspx)
 

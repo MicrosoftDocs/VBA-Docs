@@ -1,5 +1,5 @@
 ---
-title: Error de automatización (error 440), Office Shared [vblr6.chm1011329]
+title: Automation error (Error 440), Office Shared [vblr6.chm1011329]
 keywords: vblr6.chm1011329
 f1_keywords:
 - vblr6.chm1011329
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Automation error (Error 440), Office Shared [vblr6.chm1011329]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de automatización (error 440), Office Shared [vblr6.chm1011329]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de automatización (error 440)](http://msdn.microsoft.com/library/automation-error-error-440%28Office.15%29.aspx)
-
+[Automation error (Error 440)](http://msdn.microsoft.com/library/7b4be799-038b-8f70-d893-848fcfa92993%28Office.15%29.aspx)
 

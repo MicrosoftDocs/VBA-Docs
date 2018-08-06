@@ -1,5 +1,5 @@
 ---
-title: Propiedad RecordSelectors, Access [vbaac10.chm4482]
+title: RecordSelectors Property, Access [vbaac10.chm4482]
 keywords: vbaac10.chm4482
 f1_keywords:
 - vbaac10.chm4482
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RecordSelectors Property, Access [vbaac10.chm4482]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RecordSelectors, Access [vbaac10.chm4482]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.RecordSelectors (Access)](http://msdn.microsoft.com/library/form.recordselectors-property-access%28Office.15%29.aspx)
-
+[Form.RecordSelectors Property (Access)](http://msdn.microsoft.com/library/7700f0c5-621f-5145-57be-777d53228379%28Office.15%29.aspx)
 

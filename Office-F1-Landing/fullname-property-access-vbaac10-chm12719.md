@@ -1,5 +1,5 @@
 ---
-title: Propiedad FullName, Access [vbaac10.chm12719]
+title: FullName Property, Access [vbaac10.chm12719]
 keywords: vbaac10.chm12719
 f1_keywords:
 - vbaac10.chm12719
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FullName Property, Access [vbaac10.chm12719]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FullName, Access [vbaac10.chm12719]
+[CurrentProject.FullName Property (Access)](http://msdn.microsoft.com/library/43fa4260-4e70-c314-c02d-1328b7c1b2a2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeProject.FullName Property (Access)](http://msdn.microsoft.com/library/33361e38-631f-3427-12a9-24bb45086dc1%28Office.15%29.aspx)
 
-
- [Propiedad CurrentProject.FullName (Access)](http://msdn.microsoft.com/library/currentproject.fullname-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeProject.FullName (Access)](http://msdn.microsoft.com/library/codeproject.fullname-property-access%28Office.15%29.aspx)
 

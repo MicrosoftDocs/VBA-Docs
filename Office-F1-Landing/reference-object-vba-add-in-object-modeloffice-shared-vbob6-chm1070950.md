@@ -1,5 +1,5 @@
 ---
-title: Objeto Reference (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1070950]
+title: Reference Object (VBA Add-In Object Model), Office Shared [vbob6.chm1070950]
 keywords: vbob6.chm1070950
 f1_keywords:
 - vbob6.chm1070950
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Reference Object (VBA Add-In Object Model), Office Shared [vbob6.chm1070950]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Reference (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1070950]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto de referencia (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/reference-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Reference Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/559d4da0-624f-a574-575d-768155c89c72%28Office.15%29.aspx)
 

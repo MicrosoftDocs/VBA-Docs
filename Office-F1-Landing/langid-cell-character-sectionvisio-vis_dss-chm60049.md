@@ -1,5 +1,5 @@
 ---
-title: Celda LangID (sección Carácter), Visio [Vis_DSS.chm60049]
+title: LangID Cell (Character Section), Visio [Vis_DSS.chm60049]
 keywords: vis_dss.chm60049
 f1_keywords:
 - vis_dss.chm60049
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LangID Cell (Character Section), Visio [Vis_DSS.chm60049]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LangID (sección Carácter), Visio [Vis_DSS.chm60049]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LangID (Sección de caracteres)](http://msdn.microsoft.com/library/langid-cell-character-section%28Office.15%29.aspx)
-
+[LangID Cell (Character Section)](http://msdn.microsoft.com/library/c68289b8-ef45-9e1e-12ae-6613587e4990%28Office.15%29.aspx)
 

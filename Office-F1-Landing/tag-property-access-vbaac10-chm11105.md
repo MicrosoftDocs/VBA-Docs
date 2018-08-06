@@ -1,5 +1,5 @@
 ---
-title: Propiedad Tag, Access [vbaac10.chm11105]
+title: Tag Property, Access [vbaac10.chm11105]
 keywords: vbaac10.chm11105
 f1_keywords:
 - vbaac10.chm11105
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Tag Property, Access [vbaac10.chm11105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Tag, Access [vbaac10.chm11105]
+[NavigationControl.Tag Property (Access)](http://msdn.microsoft.com/library/6bec7ae8-556c-77b1-19cf-aae36dc646ec%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.Tag Property (Access)](http://msdn.microsoft.com/library/9df21640-6bea-60a9-f9d0-dac90a60af1c%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.Tag (Access)](http://msdn.microsoft.com/library/navigationcontrol.tag-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.Tag (Access)](http://msdn.microsoft.com/library/textbox.tag-property-access%28Office.15%29.aspx)
 

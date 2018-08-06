@@ -1,5 +1,5 @@
 ---
-title: Propiedad LeftMargin, Access [vbaac10.chm4552]
+title: LeftMargin Property, Access [vbaac10.chm4552]
 keywords: vbaac10.chm4552
 f1_keywords:
 - vbaac10.chm4552
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# LeftMargin Property, Access [vbaac10.chm4552]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LeftMargin, Access [vbaac10.chm4552]
+[ComboBox.LeftMargin Property (Access)](http://msdn.microsoft.com/library/b478bd94-b36b-b100-f0a0-10040af55b9d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Label.LeftMargin Property (Access)](http://msdn.microsoft.com/library/7eca4de7-fad8-19f5-c3d2-115cd617755d%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.LeftMargin (Access)](http://msdn.microsoft.com/library/combobox.leftmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Label.LeftMargin (Access)](http://msdn.microsoft.com/library/label.leftmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Printer.LeftMargin (Access)](http://msdn.microsoft.com/library/printer.leftmargin-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.LeftMargin (Access)](http://msdn.microsoft.com/library/textbox.leftmargin-property-access%28Office.15%29.aspx)
-
+[Printer.LeftMargin Property (Access)](http://msdn.microsoft.com/library/60c43199-1d31-35f5-67fc-344baac19cde%28Office.15%29.aspx)
+[TextBox.LeftMargin Property (Access)](http://msdn.microsoft.com/library/9c5b798b-4afe-85be-aa06-eeff98888850%28Office.15%29.aspx)
 

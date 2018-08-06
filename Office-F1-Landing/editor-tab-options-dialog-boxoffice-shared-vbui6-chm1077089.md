@@ -1,5 +1,5 @@
 ---
-title: Pestaña Editor (cuadro de diálogo Opciones), Office Shared [vbui6.chm1077089]
+title: Editor Tab (Options Dialog Box), Office Shared [vbui6.chm1077089]
 keywords: vbui6.chm1077089
 f1_keywords:
 - vbui6.chm1077089
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Editor Tab (Options Dialog Box), Office Shared [vbui6.chm1077089]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Pestaña Editor (cuadro de diálogo Opciones), Office Shared [vbui6.chm1077089]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Pestaña Editor (cuadro de diálogo Opciones)](http://msdn.microsoft.com/library/editor-tab-options-dialog-box%28Office.15%29.aspx)
-
+[Editor Tab (Options Dialog Box)](http://msdn.microsoft.com/library/2b396c10-2d8a-c424-811a-eeb41879c1c1%28Office.15%29.aspx)
 

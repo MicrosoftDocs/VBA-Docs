@@ -1,5 +1,5 @@
 ---
-title: Sección Annotation, Visio [Vis_DSS.chm60013]
+title: Annotation Section, Visio [Vis_DSS.chm60013]
 keywords: vis_dss.chm60013
 f1_keywords:
 - vis_dss.chm60013
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Annotation Section, Visio [Vis_DSS.chm60013]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Annotation, Visio [Vis_DSS.chm60013]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de anotación](http://msdn.microsoft.com/library/annotation-section%28Office.15%29.aspx)
-
+[Annotation Section](http://msdn.microsoft.com/library/616c822e-1bb2-4980-7e45-0c2be77dd801%28Office.15%29.aspx)
 

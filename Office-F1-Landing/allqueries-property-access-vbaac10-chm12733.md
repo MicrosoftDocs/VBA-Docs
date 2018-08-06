@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllQueries, Access [vbaac10.chm12733]
+title: AllQueries Property, Access [vbaac10.chm12733]
 keywords: vbaac10.chm12733
 f1_keywords:
 - vbaac10.chm12733
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllQueries Property, Access [vbaac10.chm12733]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllQueries, Access [vbaac10.chm12733]
+[CurrentData.AllQueries Property (Access)](http://msdn.microsoft.com/library/2204de1a-cc58-2acc-6a72-d4430a23ae2e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeData.AllQueries Property (Access)](http://msdn.microsoft.com/library/4582c885-0f92-60dc-e061-dd2d4a0c6971%28Office.15%29.aspx)
 
-
- [Propiedad CurrentData.AllQueries (Access)](http://msdn.microsoft.com/library/currentdata.allqueries-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeData.AllQueries (Access)](http://msdn.microsoft.com/library/codedata.allqueries-property-access%28Office.15%29.aspx)
 

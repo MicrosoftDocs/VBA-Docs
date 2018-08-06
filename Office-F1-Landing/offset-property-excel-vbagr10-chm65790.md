@@ -1,5 +1,5 @@
 ---
-title: Propiedad Offset, Excel [vbagr10.chm65790]
+title: Offset Property, Excel [vbagr10.chm65790]
 keywords: vbagr10.chm65790
 f1_keywords:
 - vbagr10.chm65790
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Offset Property, Excel [vbagr10.chm65790]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Offset, Excel [vbagr10.chm65790]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Offset (propiedad)](http://msdn.microsoft.com/library/offset-property%28Office.15%29.aspx)
-
+[Offset Property](http://msdn.microsoft.com/library/f2f00d51-2a85-aa9c-4361-69f4534cd8e5%28Office.15%29.aspx)
 

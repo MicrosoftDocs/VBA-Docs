@@ -1,5 +1,5 @@
 ---
-title: Visual Basic no admite la convención de llamada, Office Shared [vblr6.chm1040359]
+title: Calling convention not supported by Visual Basic, Office Shared [vblr6.chm1040359]
 keywords: vblr6.chm1040359
 f1_keywords:
 - vblr6.chm1040359
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Calling convention not supported by Visual Basic, Office Shared [vblr6.chm1040359]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Visual Basic no admite la convención de llamada, Office Shared [vblr6.chm1040359]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Convención de llamada no compatible con Visual Basic](http://msdn.microsoft.com/library/calling-convention-not-supported-by-visual-basic%28Office.15%29.aspx)
-
+[Calling convention not supported by Visual Basic](http://msdn.microsoft.com/library/fad78b15-d547-ced5-d12b-35d07f66c341%28Office.15%29.aspx)
 

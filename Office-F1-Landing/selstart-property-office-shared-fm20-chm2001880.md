@@ -1,5 +1,5 @@
 ---
-title: Propiedad SelStart, Office Shared [fm20.chm2001880]
+title: SelStart Property, Office Shared [fm20.chm2001880]
 keywords: fm20.chm2001880
 f1_keywords:
 - fm20.chm2001880
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SelStart Property, Office Shared [fm20.chm2001880]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SelStart, Office Shared [fm20.chm2001880]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad SelStart](http://msdn.microsoft.com/library/selstart-property%28Office.15%29.aspx)
-
+[SelStart Property](http://msdn.microsoft.com/library/ca0db01c-bea0-6827-376f-f2a41c4eb5ed%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda Position (sección Tabs), Visio [vis_sdr.chm810]
+title: Position Cell (Tabs Section), Visio [vis_sdr.chm810]
 keywords: vis_sdr.chm810
 f1_keywords:
 - vis_sdr.chm810
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Position Cell (Tabs Section), Visio [vis_sdr.chm810]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Position (sección Tabs), Visio [vis_sdr.chm810]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Position (Sección de tabulaciones)](http://msdn.microsoft.com/library/position-cell-tabs-section%28Office.15%29.aspx)
-
+[Position Cell (Tabs Section)](http://msdn.microsoft.com/library/40d7e38e-b3b0-8616-ed27-1f963a841e03%28Office.15%29.aspx)
 

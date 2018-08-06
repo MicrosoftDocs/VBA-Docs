@@ -1,5 +1,5 @@
 ---
-title: Instrucción ReDim, Office Shared [vblr6.chm1008809]
+title: ReDim Statement, Office Shared [vblr6.chm1008809]
 keywords: vblr6.chm1008809
 f1_keywords:
 - vblr6.chm1008809
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ReDim Statement, Office Shared [vblr6.chm1008809]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción ReDim, Office Shared [vblr6.chm1008809]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción ReDim](http://msdn.microsoft.com/library/redim-statement%28Office.15%29.aspx)
-
+[ReDim Statement](http://msdn.microsoft.com/library/5044cb55-6cdc-16a7-6558-dcff7ab4b933%28Office.15%29.aspx)
 

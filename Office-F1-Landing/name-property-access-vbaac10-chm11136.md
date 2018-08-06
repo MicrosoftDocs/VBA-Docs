@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name, Access [vbaac10.chm11136]
+title: Name Property, Access [vbaac10.chm11136]
 keywords: vbaac10.chm11136
 f1_keywords:
 - vbaac10.chm11136
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property, Access [vbaac10.chm11136]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name, Access [vbaac10.chm11136]
+[TextBox.Name Property (Access)](http://msdn.microsoft.com/library/e97043b5-216f-2c5c-a531-45b29477cb77%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Name Property (Access)](http://msdn.microsoft.com/library/0daea497-ec28-769b-6722-4ac60026147c%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Name (Access)](http://msdn.microsoft.com/library/textbox.name-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Name (Access)](http://msdn.microsoft.com/library/navigationcontrol.name-property-access%28Office.15%29.aspx)
 

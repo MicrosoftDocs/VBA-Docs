@@ -1,5 +1,5 @@
 ---
-title: Propiedad PaletteSource, Access [vbaac10.chm4459]
+title: PaletteSource Property, Access [vbaac10.chm4459]
 keywords: vbaac10.chm4459
 f1_keywords:
 - vbaac10.chm4459
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PaletteSource Property, Access [vbaac10.chm4459]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PaletteSource, Access [vbaac10.chm4459]
+[Form.PaletteSource Property (Access)](http://msdn.microsoft.com/library/91276931-0aa6-7e54-09eb-1747f036aa7c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.PaletteSource Property (Access)](http://msdn.microsoft.com/library/9dc324a1-dc31-b0c5-edca-c4bc1674155a%28Office.15%29.aspx)
 
-
- [Propiedad Form.PaletteSource (Access)](http://msdn.microsoft.com/library/form.palettesource-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.PaletteSource (Access)](http://msdn.microsoft.com/library/report.palettesource-property-access%28Office.15%29.aspx)
 

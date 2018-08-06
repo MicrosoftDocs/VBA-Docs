@@ -1,5 +1,5 @@
 ---
-title: Propiedad RasterExportColorFormat, Visio [vis_sdr.chm16262535]
+title: RasterExportColorFormat Property, Visio [vis_sdr.chm16262535]
 keywords: vis_sdr.chm16262535
 f1_keywords:
 - vis_sdr.chm16262535
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RasterExportColorFormat Property, Visio [vis_sdr.chm16262535]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RasterExportColorFormat, Visio [vis_sdr.chm16262535]
+[ApplicationSettings.RasterExportColorFormat Property (Visio)](http://msdn.microsoft.com/library/8306b2c1-d0a0-41ae-16de-0deb4d881604%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.RasterExportColorFormat Property (Visio)](http://msdn.microsoft.com/library/12372e0c-42d0-2a06-777a-9ea66b8efaba.aspx)
 
-
- [RasterExportColorFormat (propiedad)](http://msdn.microsoft.com/library/applicationsettings.rasterexportcolorformat-property-visio%28Office.15%29.aspx)
-
-
- [ApplicationSettings.RasterExportColorFormat Property (Visio)](http://msdn.microsoft.com/library/12372e0c-42d0-2a06-777a-9ea66b8efaba.aspx)
 

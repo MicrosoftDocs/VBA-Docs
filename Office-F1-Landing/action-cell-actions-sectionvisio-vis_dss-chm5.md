@@ -1,5 +1,5 @@
 ---
-title: Celda Action (sección Actions), Visio [Vis_DSS.chm5]
+title: Action Cell (Actions Section), Visio [Vis_DSS.chm5]
 keywords: vis_dss.chm5
 f1_keywords:
 - vis_dss.chm5
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Action Cell (Actions Section), Visio [Vis_DSS.chm5]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Action (sección Actions), Visio [Vis_DSS.chm5]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Action (sección de acciones)](http://msdn.microsoft.com/library/action-cell-actions-section%28Office.15%29.aspx)
-
+[Action Cell (Actions Section)](http://msdn.microsoft.com/library/435e49ee-0b51-8ce3-0589-3f0717026f4a%28Office.15%29.aspx)
 

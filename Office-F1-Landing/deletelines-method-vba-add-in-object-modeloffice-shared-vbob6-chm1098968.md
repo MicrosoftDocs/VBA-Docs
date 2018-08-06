@@ -1,5 +1,5 @@
 ---
-title: Método DeleteLines (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098968]
+title: DeleteLines Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098968]
 keywords: vbob6.chm1098968
 f1_keywords:
 - vbob6.chm1098968
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DeleteLines Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098968]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DeleteLines (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1098968]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método DeleteLines (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/deletelines-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[DeleteLines Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/b6e1bd5d-23b2-0bc4-bcc6-b7e371df4b93%28Office.15%29.aspx)
 

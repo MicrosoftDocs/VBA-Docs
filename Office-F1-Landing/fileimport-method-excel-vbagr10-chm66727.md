@@ -1,5 +1,5 @@
 ---
-title: Método FileImport, Excel [vbagr10.chm66727]
+title: FileImport Method, Excel [vbagr10.chm66727]
 keywords: vbagr10.chm66727
 f1_keywords:
 - vbagr10.chm66727
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FileImport Method, Excel [vbagr10.chm66727]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método FileImport, Excel [vbagr10.chm66727]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método FileImport](http://msdn.microsoft.com/library/fileimport-method%28Office.15%29.aspx)
-
+[FileImport Method](http://msdn.microsoft.com/library/30aafa3b-231c-0c08-07a7-e7494888b082%28Office.15%29.aspx)
 

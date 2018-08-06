@@ -1,5 +1,5 @@
 ---
-title: Objeto PlotArea, Excel [vbagr10.chm5207798]
+title: PlotArea Object, Excel [vbagr10.chm5207798]
 keywords: vbagr10.chm5207798
 f1_keywords:
 - vbagr10.chm5207798
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PlotArea Object, Excel [vbagr10.chm5207798]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto PlotArea, Excel [vbagr10.chm5207798]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [PlotArea (objeto)](http://msdn.microsoft.com/library/plotarea-object%28Office.15%29.aspx)
-
+[PlotArea Object](http://msdn.microsoft.com/library/49763ddd-3039-d15c-4ec4-e3b4f4e08d84%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ObjectType, Visio [vis_sdr.chm16313430]
+title: ObjectType Property, Visio [vis_sdr.chm16313430]
 keywords: vis_sdr.chm16313430
 f1_keywords:
 - vis_sdr.chm16313430
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ObjectType Property, Visio [vis_sdr.chm16313430]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ObjectType, Visio [vis_sdr.chm16313430]
+[DataRecordsets.ObjectType Property (Visio)](http://msdn.microsoft.com/library/51a6fa60-1fdf-43ef-205f-69a56fa8a18b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataRecordsets.Document Property (Visio)](http://msdn.microsoft.com/library/426df7a7-67dd-5596-37e1-d5d1c9c0c082%28Office.15%29.aspx)
 
-
- [Propiedad DataRecordsets.ObjectType (Visio)](http://msdn.microsoft.com/library/datarecordsets.objecttype-property-visio%28Office.15%29.aspx)
-
-
- [Propiedad DataRecordsets.Document (Visio)](http://msdn.microsoft.com/library/datarecordsets.document-property-visio%28Office.15%29.aspx)
 

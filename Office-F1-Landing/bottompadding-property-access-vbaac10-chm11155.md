@@ -1,5 +1,5 @@
 ---
-title: Propiedad BottomPadding, Access [vbaac10.chm11155]
+title: BottomPadding Property, Access [vbaac10.chm11155]
 keywords: vbaac10.chm11155
 f1_keywords:
 - vbaac10.chm11155
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BottomPadding Property, Access [vbaac10.chm11155]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BottomPadding, Access [vbaac10.chm11155]
+[NavigationControl.BottomPadding Property (Access)](http://msdn.microsoft.com/library/fb22d41c-a310-ed95-34ea-8a4cda1bff8b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.BottomPadding Property (Access)](http://msdn.microsoft.com/library/75d2b8bb-c5c5-1d00-b175-8db80a7525c5%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.BottomPadding (Access)](http://msdn.microsoft.com/library/navigationcontrol.bottompadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.BottomPadding (Access)](http://msdn.microsoft.com/library/textbox.bottompadding-property-access%28Office.15%29.aspx)
 

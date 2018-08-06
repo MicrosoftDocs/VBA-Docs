@@ -1,5 +1,5 @@
 ---
-title: Método AddFromFile (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104046]
+title: AddFromFile Method (VBA Add-In Object Model), Office Shared [vbob6.chm104046]
 keywords: vbob6.chm104046
 f1_keywords:
 - vbob6.chm104046
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddFromFile Method (VBA Add-In Object Model), Office Shared [vbob6.chm104046]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AddFromFile (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104046]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AddFromFile (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/addfromfile-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[AddFromFile Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/5169e5ee-d5a6-82d3-5a03-dcc84819a752%28Office.15%29.aspx)
 

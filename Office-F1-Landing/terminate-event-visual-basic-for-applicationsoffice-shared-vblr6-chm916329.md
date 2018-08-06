@@ -1,5 +1,5 @@
 ---
-title: Evento Terminate (Visual Basic para aplicaciones), Office Shared [vblr6.chm916329]
+title: Terminate Event (Visual Basic for Applications), Office Shared [vblr6.chm916329]
 keywords: vblr6.chm916329
 f1_keywords:
 - vblr6.chm916329
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Terminate Event (Visual Basic for Applications), Office Shared [vblr6.chm916329]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Terminate (Visual Basic para aplicaciones), Office Shared [vblr6.chm916329]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Terminate (Visual Basic para Aplicaciones)](http://msdn.microsoft.com/library/terminate-event-visual-basic-for-applications%28Office.15%29.aspx)
-
+[Terminate Event (Visual Basic for Applications)](http://msdn.microsoft.com/library/f386e522-fc8a-f073-668d-e804dca9de49%28Office.15%29.aspx)
 

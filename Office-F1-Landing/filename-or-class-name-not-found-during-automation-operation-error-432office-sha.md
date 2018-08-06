@@ -1,5 +1,5 @@
 ---
-title: No se ha encontrado el nombre de archivo o de clase durante la operación Automatización (error 432), Office Shared [vblr6.chm1019821]
+title: Filename or class name not found during Automation operation (Error 432), Office Shared [vblr6.chm1019821]
 keywords: vblr6.chm1019821
 f1_keywords:
 - vblr6.chm1019821
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Filename or class name not found during Automation operation (Error 432), Office Shared [vblr6.chm1019821]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se ha encontrado el nombre de archivo o de clase durante la operación Automatización (error 432), Office Shared [vblr6.chm1019821]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró el nombre de archivo o el nombre de clase durante una operación de automatización (error 432)](http://msdn.microsoft.com/library/filename-or-class-name-not-found-during-automation-operation-error-432%28Office.15%29.aspx)
-
+[Filename or class name not found during Automation operation (Error 432)](http://msdn.microsoft.com/library/56e222c6-2300-ec19-c9cb-2a9e42d19fe0%28Office.15%29.aspx)
 

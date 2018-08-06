@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Inspección rápida, Office Shared [vbui6.chm181028]
+title: Quick Watch Dialog Box, Office Shared [vbui6.chm181028]
 keywords: vbui6.chm181028
 f1_keywords:
 - vbui6.chm181028
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Quick Watch Dialog Box, Office Shared [vbui6.chm181028]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Inspección rápida, Office Shared [vbui6.chm181028]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cuadro de diálogo Inspección rápida](http://msdn.microsoft.com/library/quick-watch-dialog-box%28Office.15%29.aspx)
-
+[Quick Watch Dialog Box](http://msdn.microsoft.com/library/38f09ead-498e-b609-4b9c-a1246185fc03%28Office.15%29.aspx)
 

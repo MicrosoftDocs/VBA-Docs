@@ -1,5 +1,5 @@
 ---
-title: Objeto DataLabel, Excel [vbagr10.chm5207279]
+title: DataLabel Object, Excel [vbagr10.chm5207279]
 keywords: vbagr10.chm5207279
 f1_keywords:
 - vbagr10.chm5207279
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DataLabel Object, Excel [vbagr10.chm5207279]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto DataLabel, Excel [vbagr10.chm5207279]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DataLabel (objeto)](http://msdn.microsoft.com/library/datalabel-object-1%28Office.15%29.aspx)
-
+[DataLabel Object](http://msdn.microsoft.com/library/5f823de1-a4c3-bf48-f2fc-c01aabdb9c4d%28Office.15%29.aspx)
 

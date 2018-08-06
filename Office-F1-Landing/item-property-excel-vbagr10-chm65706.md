@@ -1,5 +1,5 @@
 ---
-title: Propiedad Item, Excel [vbagr10.chm65706]
+title: Item Property, Excel [vbagr10.chm65706]
 keywords: vbagr10.chm65706
 f1_keywords:
 - vbagr10.chm65706
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Item Property, Excel [vbagr10.chm65706]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Item, Excel [vbagr10.chm65706]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Item (gráfico)](http://msdn.microsoft.com/library/item-property-graph%28Office.15%29.aspx)
-
+[Item Property (Graph)](http://msdn.microsoft.com/library/24f3a6a8-8f8a-f04d-138d-99fb9a374c7f%28Office.15%29.aspx)
 

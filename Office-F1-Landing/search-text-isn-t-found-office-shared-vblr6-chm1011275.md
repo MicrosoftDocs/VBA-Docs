@@ -1,5 +1,5 @@
 ---
-title: Texto de búsqueda no encontrado, Office Shared [vblr6.chm1011275]
+title: Search text isn't found, Office Shared [vblr6.chm1011275]
 keywords: vblr6.chm1011275
 f1_keywords:
 - vblr6.chm1011275
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Search text isn't found, Office Shared [vblr6.chm1011275]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Texto de búsqueda no encontrado, Office Shared [vblr6.chm1011275]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encuentra el texto de búsqueda](http://msdn.microsoft.com/library/search-text-isn-t-found%28Office.15%29.aspx)
-
+[Search text isn't found](http://msdn.microsoft.com/library/89bfc71a-a639-d62a-3179-008ae18525bc%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Superscript, PowerPoint [vbapp10.chm704013]
+title: Superscript Property, PowerPoint [vbapp10.chm704013]
 keywords: vbapp10.chm704013
 f1_keywords:
 - vbapp10.chm704013
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Superscript Property, PowerPoint [vbapp10.chm704013]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Superscript, PowerPoint [vbapp10.chm704013]
+[ChartFont.Superscript Property (PowerPoint)](http://msdn.microsoft.com/library/acc28bff-a33c-c086-0418-7aee362ed7ec%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Axis.Superscript Property (PowerPoint)](http://msdn.microsoft.com/library/3ac4f922-8a45-5b1d-7927-c53b66ede45e%28Office.15%29.aspx)
 
-
- [Propiedad ChartFont.Superscript (PowerPoint)](http://msdn.microsoft.com/library/chartfont.superscript-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Axis.Superscript (PowerPoint)](http://msdn.microsoft.com/library/3ac4f922-8a45-5b1d-7927-c53b66ede45e%28Office.15%29.aspx)
 

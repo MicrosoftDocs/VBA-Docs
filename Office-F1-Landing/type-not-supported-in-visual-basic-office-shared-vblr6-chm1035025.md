@@ -1,5 +1,5 @@
 ---
-title: Tipo no admitido en Visual Basic, Office Shared [vblr6.chm1035025]
+title: Type not supported in Visual Basic, Office Shared [vblr6.chm1035025]
 keywords: vblr6.chm1035025
 f1_keywords:
 - vblr6.chm1035025
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type not supported in Visual Basic, Office Shared [vblr6.chm1035025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Tipo no admitido en Visual Basic, Office Shared [vblr6.chm1035025]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Tipo no compatible con Visual Basic](http://msdn.microsoft.com/library/type-not-supported-in-visual-basic%28Office.15%29.aspx)
-
+[Type not supported in Visual Basic](http://msdn.microsoft.com/library/59add4f9-d15a-7342-e7fc-4b21420a5e41%28Office.15%29.aspx)
 

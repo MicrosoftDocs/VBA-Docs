@@ -1,5 +1,5 @@
 ---
-title: Propiedad OutlineFont, Excel [vbagr10.chm3077558]
+title: OutlineFont Property, Excel [vbagr10.chm3077558]
 keywords: vbagr10.chm3077558
 f1_keywords:
 - vbagr10.chm3077558
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OutlineFont Property, Excel [vbagr10.chm3077558]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OutlineFont, Excel [vbagr10.chm3077558]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [OutlineFont (propiedad)](http://msdn.microsoft.com/library/outlinefont-property%28Office.15%29.aspx)
-
+[OutlineFont Property](http://msdn.microsoft.com/library/41075763-8ee7-e6ba-c9a2-7bc718b5405e%28Office.15%29.aspx)
 

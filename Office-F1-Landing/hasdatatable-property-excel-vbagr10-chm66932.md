@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasDataTable, Excel [vbagr10.chm66932]
+title: HasDataTable Property, Excel [vbagr10.chm66932]
 keywords: vbagr10.chm66932
 f1_keywords:
 - vbagr10.chm66932
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasDataTable Property, Excel [vbagr10.chm66932]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasDataTable, Excel [vbagr10.chm66932]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasDataTable (propiedad)](http://msdn.microsoft.com/library/hasdatatable-property%28Office.15%29.aspx)
-
+[HasDataTable Property](http://msdn.microsoft.com/library/52d965ca-e4cf-35d5-0ac6-5a6144aedff0%28Office.15%29.aspx)
 

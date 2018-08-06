@@ -1,5 +1,5 @@
 ---
-title: Propiedad Expected End, Office Shared [vblr6.chm1040126]
+title: Expected End Property, Office Shared [vblr6.chm1040126]
 keywords: vblr6.chm1040126
 f1_keywords:
 - vblr6.chm1040126
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected End Property, Office Shared [vblr6.chm1040126]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Expected End, Office Shared [vblr6.chm1040126]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad End prevista](http://msdn.microsoft.com/library/expected-end-property%28Office.15%29.aspx)
-
+[Expected End Property](http://msdn.microsoft.com/library/be6348a2-3edc-44d7-6758-c43646c2c9a7%28Office.15%29.aspx)
 

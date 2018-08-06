@@ -1,5 +1,5 @@
 ---
-title: Propiedad PageFooter, Access [vbaac10.chm4454]
+title: PageFooter Property, Access [vbaac10.chm4454]
 keywords: vbaac10.chm4454
 f1_keywords:
 - vbaac10.chm4454
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PageFooter Property, Access [vbaac10.chm4454]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PageFooter, Access [vbaac10.chm4454]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.PageFooter (Access)](http://msdn.microsoft.com/library/report.pagefooter-property-access%28Office.15%29.aspx)
-
+[Report.PageFooter Property (Access)](http://msdn.microsoft.com/library/82cd1c0f-2823-9b61-a1fd-66c02c6aaadf%28Office.15%29.aspx)
 

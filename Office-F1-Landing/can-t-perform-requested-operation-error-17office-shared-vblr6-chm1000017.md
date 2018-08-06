@@ -1,5 +1,5 @@
 ---
-title: No se puede realizar la operación solicitada (error 17), Office Shared [vblr6.chm1000017]
+title: Can't perform requested operation (Error 17), Office Shared [vblr6.chm1000017]
 keywords: vblr6.chm1000017
 f1_keywords:
 - vblr6.chm1000017
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't perform requested operation (Error 17), Office Shared [vblr6.chm1000017]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede realizar la operación solicitada (error 17), Office Shared [vblr6.chm1000017]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede realizar la operación solicitada (error 17)](http://msdn.microsoft.com/library/can-t-perform-requested-operation-error-17%28Office.15%29.aspx)
-
+[Can't perform requested operation (Error 17)](http://msdn.microsoft.com/library/4cde1fa7-b509-4d69-2157-7fb0a429d99f%28Office.15%29.aspx)
 

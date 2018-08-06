@@ -1,5 +1,5 @@
 ---
-title: Celda TxtPinY (sección Text Transform), Visio [Vis_DSS.chm1045]
+title: TxtPinY Cell (Text Transform Section), Visio [Vis_DSS.chm1045]
 keywords: vis_dss.chm1045
 f1_keywords:
 - vis_dss.chm1045
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtPinY Cell (Text Transform Section), Visio [Vis_DSS.chm1045]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtPinY (sección Text Transform), Visio [Vis_DSS.chm1045]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtPinY (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtpiny-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtPinY Cell (Text Transform Section)](http://msdn.microsoft.com/library/88ddf4b5-8248-8c1a-c387-09a607639d26%28Office.15%29.aspx)
 

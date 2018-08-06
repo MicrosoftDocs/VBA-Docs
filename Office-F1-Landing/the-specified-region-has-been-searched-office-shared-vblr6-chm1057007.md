@@ -1,5 +1,5 @@
 ---
-title: Se ha buscado la región especificada, Office Shared [vblr6.chm1057007]
+title: The specified region has been searched, Office Shared [vblr6.chm1057007]
 keywords: vblr6.chm1057007
 f1_keywords:
 - vblr6.chm1057007
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The specified region has been searched, Office Shared [vblr6.chm1057007]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se ha buscado la región especificada, Office Shared [vblr6.chm1057007]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se ha buscado la región especificada](http://msdn.microsoft.com/library/the-specified-region-has-been-searched%28Office.15%29.aspx)
-
+[The specified region has been searched](http://msdn.microsoft.com/library/1fbad072-24ca-7b4c-b3a1-b7fc546e9e90%28Office.15%29.aspx)
 

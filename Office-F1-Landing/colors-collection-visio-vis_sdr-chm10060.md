@@ -1,5 +1,5 @@
 ---
-title: Colección Colors, Visio [vis_sdr.chm10060]
+title: Colors Collection, Visio [vis_sdr.chm10060]
 keywords: vis_sdr.chm10060
 f1_keywords:
 - vis_sdr.chm10060
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Colors Collection, Visio [vis_sdr.chm10060]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Colors, Visio [vis_sdr.chm10060]
+[Colors Object (Visio)](http://msdn.microsoft.com/library/99f22b9b-f8cb-f598-7ad9-3367b5d68f72%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Colors Object (Visio)](http://msdn.microsoft.com/library/54ac5c47-5e6a-b1bf-6a5d-c5439a00438f.aspx)
 
-
- [Colors (colección)](http://msdn.microsoft.com/library/colors-object-visio%28Office.15%29.aspx)
-
-
- [Colors Object (Visio)](http://msdn.microsoft.com/library/54ac5c47-5e6a-b1bf-6a5d-c5439a00438f.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Objeto Masters, Visio [vis_sdr.chm10135]
+title: Masters Object, Visio [vis_sdr.chm10135]
 keywords: vis_sdr.chm10135
 f1_keywords:
 - vis_sdr.chm10135
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Masters Object, Visio [vis_sdr.chm10135]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Masters, Visio [vis_sdr.chm10135]
+[Masters Object (Visio)](http://msdn.microsoft.com/library/0a17a37a-e527-c1c8-1a32-44f2df370872.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Masters Object (Visio)](http://msdn.microsoft.com/library/07c80948-8cee-34d2-dbc9-89ca031343df%28Office.15%29.aspx)
 
-
- [Masters Object (Visio)](http://msdn.microsoft.com/library/0a17a37a-e527-c1c8-1a32-44f2df370872.aspx)
-
-
- [Objeto Masters (Visio)](http://msdn.microsoft.com/library/masters-object-visio%28Office.15%29.aspx)
 

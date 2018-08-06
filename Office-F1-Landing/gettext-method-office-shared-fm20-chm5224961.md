@@ -1,5 +1,5 @@
 ---
-title: Método GetText, Office Shared [fm20.chm5224961]
+title: GetText Method, Office Shared [fm20.chm5224961]
 keywords: fm20.chm5224961
 f1_keywords:
 - fm20.chm5224961
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# GetText Method, Office Shared [fm20.chm5224961]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método GetText, Office Shared [fm20.chm5224961]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método GetText (Microsoft Forms)](http://msdn.microsoft.com/library/gettext-method-microsoft-forms%28Office.15%29.aspx)
-
+[GetText Method (Microsoft Forms)](http://msdn.microsoft.com/library/7d714405-4d3e-23e3-cedb-8a6a7fd07269%28Office.15%29.aspx)
 

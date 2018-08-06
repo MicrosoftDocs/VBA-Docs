@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineStyleTop, Access [vbaac10.chm11157]
+title: GridlineStyleTop Property, Access [vbaac10.chm11157]
 keywords: vbaac10.chm11157
 f1_keywords:
 - vbaac10.chm11157
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineStyleTop Property, Access [vbaac10.chm11157]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineStyleTop, Access [vbaac10.chm11157]
+[NavigationControl.GridlineStyleTop Property (Access)](http://msdn.microsoft.com/library/53782607-fd23-26e2-ae48-721786cd20cc%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.GridlineStyleTop Property (Access)](http://msdn.microsoft.com/library/57a47306-5b85-06e0-e59f-f86e617d9c75%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.GridlineStyleTop (Access)](http://msdn.microsoft.com/library/navigationcontrol.gridlinestyletop-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.GridlineStyleTop (Access)](http://msdn.microsoft.com/library/textbox.gridlinestyletop-property-access%28Office.15%29.aspx)
 

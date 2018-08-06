@@ -1,5 +1,5 @@
 ---
-title: Procedimiento demasiado largo, Office Shared [vblr6.chm1057030]
+title: Procedure too large, Office Shared [vblr6.chm1057030]
 keywords: vblr6.chm1057030
 f1_keywords:
 - vblr6.chm1057030
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Procedure too large, Office Shared [vblr6.chm1057030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Procedimiento demasiado largo, Office Shared [vblr6.chm1057030]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Procedimiento demasiado grande](http://msdn.microsoft.com/library/procedure-too-large%28Office.15%29.aspx)
-
+[Procedure too large](http://msdn.microsoft.com/library/1de6ac64-fc0c-9833-024c-44b3b5c68a79%28Office.15%29.aspx)
 

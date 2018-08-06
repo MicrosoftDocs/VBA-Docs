@@ -1,5 +1,5 @@
 ---
-title: Propiedad DrawBuffer, Office Shared [fm20.chm2001087]
+title: DrawBuffer Property, Office Shared [fm20.chm2001087]
 keywords: fm20.chm2001087
 f1_keywords:
 - fm20.chm2001087
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DrawBuffer Property, Office Shared [fm20.chm2001087]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DrawBuffer, Office Shared [fm20.chm2001087]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DrawBuffer](http://msdn.microsoft.com/library/drawbuffer-property%28Office.15%29.aspx)
-
+[DrawBuffer Property](http://msdn.microsoft.com/library/6f859070-13c0-5da3-40e6-51f6676cec3b%28Office.15%29.aspx)
 

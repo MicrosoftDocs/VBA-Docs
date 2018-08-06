@@ -1,5 +1,5 @@
 ---
-title: Propiedad EventProcPrefix, Access [vbaac10.chm11040]
+title: EventProcPrefix Property, Access [vbaac10.chm11040]
 keywords: vbaac10.chm11040
 f1_keywords:
 - vbaac10.chm11040
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# EventProcPrefix Property, Access [vbaac10.chm11040]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad EventProcPrefix, Access [vbaac10.chm11040]
+[NavigationControl.EventProcPrefix Property (Access)](http://msdn.microsoft.com/library/d59c7baf-7614-821b-92ce-582d6f90441c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.EventProcPrefix Property (Access)](http://msdn.microsoft.com/library/a8cd7cdc-605b-473c-95b1-9d1736e0ec96%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.EventProcPrefix (Access)](http://msdn.microsoft.com/library/navigationcontrol.eventprocprefix-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.EventProcPrefix (Access)](http://msdn.microsoft.com/library/textbox.eventprocprefix-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasBorderOutline, Excel [vbagr10.chm67209]
+title: HasBorderOutline Property, Excel [vbagr10.chm67209]
 keywords: vbagr10.chm67209
 f1_keywords:
 - vbagr10.chm67209
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasBorderOutline Property, Excel [vbagr10.chm67209]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasBorderOutline, Excel [vbagr10.chm67209]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasBorderOutline (propiedad)](http://msdn.microsoft.com/library/hasborderoutline-property%28Office.15%29.aspx)
-
+[HasBorderOutline Property](http://msdn.microsoft.com/library/b98fd5e2-fe84-1736-eb94-9e6e51ac49a6%28Office.15%29.aspx)
 

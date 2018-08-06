@@ -1,5 +1,5 @@
 ---
-title: Celda Ask (sección Shape Data), Visio [Vis_DSS.chm82251339]
+title: Ask Cell (Shape Data Section), Visio [Vis_DSS.chm82251339]
 keywords: vis_dss.chm82251339
 f1_keywords:
 - vis_dss.chm82251339
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Ask Cell (Shape Data Section), Visio [Vis_DSS.chm82251339]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Ask (sección Shape Data), Visio [Vis_DSS.chm82251339]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Ask (Sección de datos de formas)](http://msdn.microsoft.com/library/ask-cell-shape-data-section%28Office.15%29.aspx)
-
+[Ask Cell (Shape Data Section)](http://msdn.microsoft.com/library/b499a5eb-db8f-ebd0-d505-c9a002205e7d%28Office.15%29.aspx)
 

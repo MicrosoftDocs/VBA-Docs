@@ -1,5 +1,5 @@
 ---
-title: Propiedad Value, Office Shared [fm20.chm5225111]
+title: Value Property, Office Shared [fm20.chm5225111]
 keywords: fm20.chm5225111
 f1_keywords:
 - fm20.chm5225111
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Value Property, Office Shared [fm20.chm5225111]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Value, Office Shared [fm20.chm5225111]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Value (Microsoft Forms)](http://msdn.microsoft.com/library/value-property-microsoft-forms%28Office.15%29.aspx)
-
+[Value Property (Microsoft Forms)](http://msdn.microsoft.com/library/bd61f3ae-54b3-6382-6ecf-0c5598279330%28Office.15%29.aspx)
 

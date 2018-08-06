@@ -1,5 +1,5 @@
 ---
-title: Propiedad HyperlinkSubAddress, Access [vbaac10.chm10461]
+title: HyperlinkSubAddress Property, Access [vbaac10.chm10461]
 keywords: vbaac10.chm10461
 f1_keywords:
 - vbaac10.chm10461
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HyperlinkSubAddress Property, Access [vbaac10.chm10461]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HyperlinkSubAddress, Access [vbaac10.chm10461]
+[NavigationButton.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/0fe41327-293b-ad6c-b8fe-0b30d472d9c9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/1c8af1e0-f978-0eb2-c3b5-f5ea9ab84892%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.HyperlinkSubAddress (Access)](http://msdn.microsoft.com/library/navigationbutton.hyperlinksubaddress-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.HyperlinkSubAddress (Access)](http://msdn.microsoft.com/library/commandbutton.hyperlinksubaddress-property-access%28Office.15%29.aspx)
 

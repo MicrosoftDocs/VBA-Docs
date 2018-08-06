@@ -1,5 +1,5 @@
 ---
-title: Propiedad MajorUnitIsAuto, Excel [vbagr10.chm65574]
+title: MajorUnitIsAuto Property, Excel [vbagr10.chm65574]
 keywords: vbagr10.chm65574
 f1_keywords:
 - vbagr10.chm65574
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MajorUnitIsAuto Property, Excel [vbagr10.chm65574]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MajorUnitIsAuto, Excel [vbagr10.chm65574]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MajorUnitIsAuto (propiedad)](http://msdn.microsoft.com/library/majorunitisauto-property%28Office.15%29.aspx)
-
+[MajorUnitIsAuto Property](http://msdn.microsoft.com/library/6eda8012-2ef3-d23b-bace-e2695a5e80f5%28Office.15%29.aspx)
 

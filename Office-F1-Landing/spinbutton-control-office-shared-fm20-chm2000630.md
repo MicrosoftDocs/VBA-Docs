@@ -1,5 +1,5 @@
 ---
-title: Control SpinButton, Office Shared [fm20.chm2000630]
+title: SpinButton Control, Office Shared [fm20.chm2000630]
 keywords: fm20.chm2000630
 f1_keywords:
 - fm20.chm2000630
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SpinButton Control, Office Shared [fm20.chm2000630]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control SpinButton, Office Shared [fm20.chm2000630]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control SpinButton](http://msdn.microsoft.com/library/spinbutton-control%28Office.15%29.aspx)
-
+[SpinButton Control](http://msdn.microsoft.com/library/4fca5573-f581-3e1c-55d5-a1e34ec96b04%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Error al guardar en archivo (error 31036), Office Shared [vblr6.chm1117836]
+title: Error saving to file (Error 31036), Office Shared [vblr6.chm1117836]
 keywords: vblr6.chm1117836
 f1_keywords:
 - vblr6.chm1117836
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Error saving to file (Error 31036), Office Shared [vblr6.chm1117836]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error al guardar en archivo (error 31036), Office Shared [vblr6.chm1117836]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error al guardar en el archivo (error 31036)](http://msdn.microsoft.com/library/error-saving-to-file-error-31036%28Office.15%29.aspx)
-
+[Error saving to file (Error 31036)](http://msdn.microsoft.com/library/9b05b898-bfdd-63d3-0658-2cb30b411979%28Office.15%29.aspx)
 

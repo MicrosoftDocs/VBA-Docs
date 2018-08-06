@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoText, PowerPoint [vbapp10.chm65671]
+title: AutoText Property, PowerPoint [vbapp10.chm65671]
 keywords: vbapp10.chm65671
 f1_keywords:
 - vbapp10.chm65671
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoText Property, PowerPoint [vbapp10.chm65671]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoText, PowerPoint [vbapp10.chm65671]
+[DataLabel.AutoText Property (PowerPoint)](http://msdn.microsoft.com/library/f7e154ad-4f5f-0a3d-3fe5-c83994705cfb%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.AutoText Property (PowerPoint)](http://msdn.microsoft.com/library/6e964058-3cfa-ba02-b324-fc1e82beb3d3%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.AutoText (PowerPoint)](http://msdn.microsoft.com/library/datalabel.autotext-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.AutoText (PowerPoint)](http://msdn.microsoft.com/library/datalabels.autotext-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Refresh, Excel [vbagr10.chm66953]
+title: Refresh Method, Excel [vbagr10.chm66953]
 keywords: vbagr10.chm66953
 f1_keywords:
 - vbagr10.chm66953
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Refresh Method, Excel [vbagr10.chm66953]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Refresh, Excel [vbagr10.chm66953]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Refresh (método) (gráfico)](http://msdn.microsoft.com/library/refresh-method-graph%28Office.15%29.aspx)
-
+[Refresh Method (Graph)](http://msdn.microsoft.com/library/6bb2b3ee-413e-ad0d-1b94-770b21c9ebcc%28Office.15%29.aspx)
 

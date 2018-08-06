@@ -1,5 +1,5 @@
 ---
-title: Celda AlignCenter (sección Alineación), Visio [Vis_DSS.chm82251296]
+title: AlignCenter Cell (Alignment Section), Visio [Vis_DSS.chm82251296]
 keywords: vis_dss.chm82251296
 f1_keywords:
 - vis_dss.chm82251296
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AlignCenter Cell (Alignment Section), Visio [Vis_DSS.chm82251296]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda AlignCenter (sección Alineación), Visio [Vis_DSS.chm82251296]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda AlignCenter (Sección de alineación)](http://msdn.microsoft.com/library/aligncenter-cell-alignment-section%28Office.15%29.aspx)
-
+[AlignCenter Cell (Alignment Section)](http://msdn.microsoft.com/library/7d4416b2-429b-713e-61dc-8b2ead0e6053%28Office.15%29.aspx)
 

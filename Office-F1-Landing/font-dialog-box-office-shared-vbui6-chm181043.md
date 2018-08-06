@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Fuente, Office Shared [vbui6.chm181043]
+title: Font Dialog Box, Office Shared [vbui6.chm181043]
 keywords: vbui6.chm181043
 f1_keywords:
 - vbui6.chm181043
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Font Dialog Box, Office Shared [vbui6.chm181043]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Fuente, Office Shared [vbui6.chm181043]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cuadro de diálogo Fuente](http://msdn.microsoft.com/library/font-dialog-box%28Office.15%29.aspx)
-
+[Font Dialog Box](http://msdn.microsoft.com/library/fd938101-f619-9f8f-855d-b67d50e24682%28Office.15%29.aspx)
 

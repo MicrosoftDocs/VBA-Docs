@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeDataRecordsetDelete, Visio [vis_sdr.chm10562030]
+title: BeforeDataRecordsetDelete Event, Visio [vis_sdr.chm10562030]
 keywords: vis_sdr.chm10562030
 f1_keywords:
 - vis_sdr.chm10562030
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeDataRecordsetDelete Event, Visio [vis_sdr.chm10562030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeDataRecordsetDelete, Visio [vis_sdr.chm10562030]
+[Document.BeforeDataRecordsetDelete Event (Visio)](http://msdn.microsoft.com/library/6d9d8570-bdfd-0762-4531-116589203bed%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.BeforeDataRecordsetDelete Event (Visio)](http://msdn.microsoft.com/library/70e30b15-6254-b12b-6f46-ce1f7ae07140%28Office.15%29.aspx)
 
-
- [Evento Document.BeforeDataRecordsetDelete (Visio)](http://msdn.microsoft.com/library/document.beforedatarecordsetdelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.BeforeDataRecordsetDelete (Visio)](http://msdn.microsoft.com/library/drawingcontrol.beforedatarecordsetdelete-event-visio%28Office.15%29.aspx)
 

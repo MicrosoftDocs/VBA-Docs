@@ -1,5 +1,5 @@
 ---
-title: Evento PageChanged, Visio [vis_sdr.chm10519205]
+title: PageChanged Event, Visio [vis_sdr.chm10519205]
 keywords: vis_sdr.chm10519205
 f1_keywords:
 - vis_sdr.chm10519205
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PageChanged Event, Visio [vis_sdr.chm10519205]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento PageChanged, Visio [vis_sdr.chm10519205]
+[Document.PageChanged Event (Visio)](http://msdn.microsoft.com/library/ab5b9492-60d5-35c2-642c-14e588e79f7d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.PageChanged Event (Visio)](http://msdn.microsoft.com/library/d0d870b2-d2d1-4b56-39b9-8c4bbc5ea63c%28Office.15%29.aspx)
 
-
- [Evento Document.PageChanged (Visio)](http://msdn.microsoft.com/library/document.pagechanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.PageChanged (Visio)](http://msdn.microsoft.com/library/drawingcontrol.pagechanged-event-visio%28Office.15%29.aspx)
 

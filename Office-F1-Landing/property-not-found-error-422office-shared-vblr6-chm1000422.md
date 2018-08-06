@@ -1,5 +1,5 @@
 ---
-title: Propiedad no encontrada (error 422), Office Shared [vblr6.chm1000422]
+title: Property not found (Error 422), Office Shared [vblr6.chm1000422]
 keywords: vblr6.chm1000422
 f1_keywords:
 - vblr6.chm1000422
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property not found (Error 422), Office Shared [vblr6.chm1000422]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad no encontrada (error 422), Office Shared [vblr6.chm1000422]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró la propiedad (error 422)](http://msdn.microsoft.com/library/property-not-found-error-422%28Office.15%29.aspx)
-
+[Property not found (Error 422)](http://msdn.microsoft.com/library/7c4f87e2-a35c-a086-fbd9-b6dd2143f3fd%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad CodePanes (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100015]
+title: CodePanes Property (VBA Add-In Object Model), Office Shared [vbob6.chm100015]
 keywords: vbob6.chm100015
 f1_keywords:
 - vbob6.chm100015
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CodePanes Property (VBA Add-In Object Model), Office Shared [vbob6.chm100015]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CodePanes (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100015]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CodePanes (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/codepanes-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CodePanes Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/2e59ff27-58d3-12ee-52db-4518f560d496%28Office.15%29.aspx)
 

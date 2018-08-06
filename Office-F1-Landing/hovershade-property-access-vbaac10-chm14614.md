@@ -1,5 +1,5 @@
 ---
-title: Propiedad HoverShade, Access [vbaac10.chm14614]
+title: HoverShade Property, Access [vbaac10.chm14614]
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# HoverShade Property, Access [vbaac10.chm14614]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HoverShade, Access [vbaac10.chm14614]
+[NavigationButton.HoverShade Property (Access)](http://msdn.microsoft.com/library/ac2c1525-0b58-a003-5c18-0b80da574219%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.HoverShade Property (Access)](http://msdn.microsoft.com/library/9a8b86d0-3849-9902-4dbf-c911c7fbe8e2%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.HoverShade (Access)](http://msdn.microsoft.com/library/navigationbutton.hovershade-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.HoverShade (Access)](http://msdn.microsoft.com/library/commandbutton.hovershade-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TabControl.HoverShade (Access)](http://msdn.microsoft.com/library/tabcontrol.hovershade-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.HoverShade (Access)](http://msdn.microsoft.com/library/togglebutton.hovershade-property-access%28Office.15%29.aspx)
-
+[TabControl.HoverShade Property (Access)](http://msdn.microsoft.com/library/7d0513ec-1e82-cc72-835c-d1c220a31965%28Office.15%29.aspx)
+[ToggleButton.HoverShade Property (Access)](http://msdn.microsoft.com/library/a9e98d48-95a1-64d0-77ba-f2cd8dadc4f8%28Office.15%29.aspx)
 

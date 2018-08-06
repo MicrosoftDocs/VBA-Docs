@@ -1,5 +1,5 @@
 ---
-title: Celda NoLine (sección Geometry), Visio [Vis_DSS.chm715]
+title: NoLine Cell (Geometry Section), Visio [Vis_DSS.chm715]
 keywords: vis_dss.chm715
 f1_keywords:
 - vis_dss.chm715
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NoLine Cell (Geometry Section), Visio [Vis_DSS.chm715]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda NoLine (sección Geometry), Visio [Vis_DSS.chm715]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda NoLine (Sección de Geometría)](http://msdn.microsoft.com/library/noline-cell-geometry-section%28Office.15%29.aspx)
-
+[NoLine Cell (Geometry Section)](http://msdn.microsoft.com/library/f9624af2-c087-3dde-9140-339c438b3652%28Office.15%29.aspx)
 

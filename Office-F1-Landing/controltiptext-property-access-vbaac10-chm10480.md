@@ -1,5 +1,5 @@
 ---
-title: Propiedad ControlTipText, Access [vbaac10.chm10480]
+title: ControlTipText Property, Access [vbaac10.chm10480]
 keywords: vbaac10.chm10480
 f1_keywords:
 - vbaac10.chm10480
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ControlTipText Property, Access [vbaac10.chm10480]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ControlTipText, Access [vbaac10.chm10480]
+[NavigationButton.ControlTipText Property (Access)](http://msdn.microsoft.com/library/25ffbfdf-58e6-0bc0-a2b8-c4e94f85b864%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.ControlTipText Property (Access)](http://msdn.microsoft.com/library/394aecbe-0053-d114-1804-c4ee6a9749d0%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.ControlTipText (Access)](http://msdn.microsoft.com/library/navigationbutton.controltiptext-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.ControlTipText (Access)](http://msdn.microsoft.com/library/commandbutton.controltiptext-property-access%28Office.15%29.aspx)
 

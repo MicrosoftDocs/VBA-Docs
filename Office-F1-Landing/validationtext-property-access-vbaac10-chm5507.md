@@ -1,5 +1,5 @@
 ---
-title: Propiedad ValidationText, Access [vbaac10.chm5507]
+title: ValidationText Property, Access [vbaac10.chm5507]
 keywords: vbaac10.chm5507
 f1_keywords:
 - vbaac10.chm5507
@@ -9,27 +9,17 @@ ms.date: 06/08/2017
 ---
 
 
+# ValidationText Property, Access [vbaac10.chm5507]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ValidationText, Access [vbaac10.chm5507]
+[OptionButton.ValidationText Property (Access)](http://msdn.microsoft.com/library/4a0a025f-7c86-cd2c-efa3-2786fc31a675%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/479d2067-caae-efcc-92a8-36aa68edb4a4%28Office.15%29.aspx)
 
-
- [Propiedad OptionButton.ValidationText (Access)](http://msdn.microsoft.com/library/optionbutton.validationtext-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.ValidationText (Access)](http://msdn.microsoft.com/library/combobox.validationtext-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CheckBox.ValidationText (Access)](http://msdn.microsoft.com/library/checkbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad ListBox.ValidationText (Access)](http://msdn.microsoft.com/library/listbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.ValidationText (Access)](http://msdn.microsoft.com/library/togglebutton.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.ValidationText (Access)](http://msdn.microsoft.com/library/textbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad OptionGroup.ValidationText (Access)](http://msdn.microsoft.com/library/optiongroup.validationtext-property-access%28Office.15%29.aspx)
-
+[CheckBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/25f8d9be-1015-4ff7-c088-569b8995e80b%28Office.15%29.aspx)
+[ListBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/be52194b-be06-9a85-30f6-718211038213%28Office.15%29.aspx)
+[ToggleButton.ValidationText Property (Access)](http://msdn.microsoft.com/library/d42ad483-2720-2b9b-89f6-9611e345e44a%28Office.15%29.aspx)
+[TextBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/5d3ab2a3-9166-714f-a0c2-d56d42b19ebc%28Office.15%29.aspx)
+[OptionGroup.ValidationText Property (Access)](http://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
 

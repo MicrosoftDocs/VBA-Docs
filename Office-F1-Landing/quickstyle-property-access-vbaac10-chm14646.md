@@ -1,5 +1,5 @@
 ---
-title: Propiedad QuickStyle, Access [vbaac10.chm14646]
+title: QuickStyle Property, Access [vbaac10.chm14646]
 keywords: vbaac10.chm14646
 f1_keywords:
 - vbaac10.chm14646
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# QuickStyle Property, Access [vbaac10.chm14646]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad QuickStyle, Access [vbaac10.chm14646]
+[ToggleButton.QuickStyle Property (Access)](http://msdn.microsoft.com/library/6dc5a569-8758-86cd-5b2a-693081ef95c5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.QuickStyle Property (Access)](http://msdn.microsoft.com/library/ac5750b0-e4cc-4330-8391-7aaef008973d%28Office.15%29.aspx)
 
-
- [Propiedad ToggleButton.QuickStyle (Access)](http://msdn.microsoft.com/library/togglebutton.quickstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.QuickStyle (Access)](http://msdn.microsoft.com/library/commandbutton.quickstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.QuickStyle (Access)](http://msdn.microsoft.com/library/navigationbutton.quickstyle-property-access%28Office.15%29.aspx)
-
+[NavigationButton.QuickStyle Property (Access)](http://msdn.microsoft.com/library/a676c9e1-71f7-c93e-dfb4-8ab2c513893a%28Office.15%29.aspx)
 

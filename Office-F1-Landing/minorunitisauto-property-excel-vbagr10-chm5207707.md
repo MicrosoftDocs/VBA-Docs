@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinorUnitIsAuto, Excel [vbagr10.chm5207707]
+title: MinorUnitIsAuto Property, Excel [vbagr10.chm5207707]
 keywords: vbagr10.chm5207707
 f1_keywords:
 - vbagr10.chm5207707
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MinorUnitIsAuto Property, Excel [vbagr10.chm5207707]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinorUnitIsAuto, Excel [vbagr10.chm5207707]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MinorUnitIsAuto (propiedad)](http://msdn.microsoft.com/library/minorunitisauto-property%28Office.15%29.aspx)
-
+[MinorUnitIsAuto Property](http://msdn.microsoft.com/library/ca6a18d5-f93f-4801-7704-4d3a25b633cb%28Office.15%29.aspx)
 

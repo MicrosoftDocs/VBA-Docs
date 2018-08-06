@@ -1,5 +1,5 @@
 ---
-title: No se puede salir en este momento, Office Shared [vblr6.chm1117723]
+title: Can't quit at this time, Office Shared [vblr6.chm1117723]
 keywords: vblr6.chm1117723
 f1_keywords:
 - vblr6.chm1117723
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't quit at this time, Office Shared [vblr6.chm1117723]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede salir en este momento, Office Shared [vblr6.chm1117723]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede salir en este momento](http://msdn.microsoft.com/library/can-t-quit-at-this-time%28Office.15%29.aspx)
-
+[Can't quit at this time](http://msdn.microsoft.com/library/4d614194-7d15-157e-1edc-92fdbc7577af%28Office.15%29.aspx)
 

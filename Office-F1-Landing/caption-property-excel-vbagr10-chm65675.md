@@ -1,5 +1,5 @@
 ---
-title: Propiedad Caption, Excel [vbagr10.chm65675]
+title: Caption Property, Excel [vbagr10.chm65675]
 keywords: vbagr10.chm65675
 f1_keywords:
 - vbagr10.chm65675
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Caption Property, Excel [vbagr10.chm65675]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Caption, Excel [vbagr10.chm65675]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Caption (gráfico)](http://msdn.microsoft.com/library/caption-property-graph%28Office.15%29.aspx)
-
+[Caption Property (Graph)](http://msdn.microsoft.com/library/37d9afab-873c-c026-fb76-33987aa103b8%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Control Line, Access [vbaac10.chm4066]
+title: Line Control, Access [vbaac10.chm4066]
 keywords: vbaac10.chm4066
 f1_keywords:
 - vbaac10.chm4066
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Line Control, Access [vbaac10.chm4066]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Line, Access [vbaac10.chm4066]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Línea](http://msdn.microsoft.com/library/line-control%28Office.15%29.aspx)
-
+[Line Control](http://msdn.microsoft.com/library/1b3ead4c-84f3-4cbc-7794-8058b2b29dc0%28Office.15%29.aspx)
 

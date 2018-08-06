@@ -1,5 +1,5 @@
 ---
-title: Propiedad FullPath (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071225]
+title: FullPath Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071225]
 keywords: vbob6.chm1071225
 f1_keywords:
 - vbob6.chm1071225
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FullPath Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071225]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FullPath (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071225]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad FullPath (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/fullpath-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[FullPath Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/7e647c4d-6bf7-bd70-9314-78a90ab96db3%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Explosion, PowerPoint [vbapp10.chm65718]
+title: Explosion Property, PowerPoint [vbapp10.chm65718]
 keywords: vbapp10.chm65718
 f1_keywords:
 - vbapp10.chm65718
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Explosion Property, PowerPoint [vbapp10.chm65718]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Explosion, PowerPoint [vbapp10.chm65718]
+[Point.Explosion Property (PowerPoint)](http://msdn.microsoft.com/library/de7d81aa-bbee-3af5-f38a-74ff7b11c88e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Series.Explosion Property (PowerPoint)](http://msdn.microsoft.com/library/c952b296-35c2-0215-228e-883a29e1b9d8%28Office.15%29.aspx)
 
-
- [Propiedad Point.Explosion (PowerPoint)](http://msdn.microsoft.com/library/point.explosion-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Series.Explosion (PowerPoint)](http://msdn.microsoft.com/library/series.explosion-property-powerpoint%28Office.15%29.aspx)
 

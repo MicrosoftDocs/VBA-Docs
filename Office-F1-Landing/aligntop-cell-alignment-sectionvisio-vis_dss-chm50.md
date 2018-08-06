@@ -1,5 +1,5 @@
 ---
-title: Celda AlignTop (sección Alineación), Visio [Vis_DSS.chm50]
+title: AlignTop Cell (Alignment Section), Visio [Vis_DSS.chm50]
 keywords: vis_dss.chm50
 f1_keywords:
 - vis_dss.chm50
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AlignTop Cell (Alignment Section), Visio [Vis_DSS.chm50]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda AlignTop (sección Alineación), Visio [Vis_DSS.chm50]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda AlignTop (Sección de alineación)](http://msdn.microsoft.com/library/aligntop-cell-alignment-section%28Office.15%29.aspx)
-
+[AlignTop Cell (Alignment Section)](http://msdn.microsoft.com/library/56e0b544-8504-0fbb-5810-7cf94d775f7c%28Office.15%29.aspx)
 

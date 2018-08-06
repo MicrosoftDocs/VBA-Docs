@@ -1,5 +1,5 @@
 ---
-title: Comandos Paso a paso, Recorrer principal, Paso a paso para salir (menú Depurar), Office Shared [vbui6.chm2015619]
+title: Step Into, Step Over, Step Out Commands (Debug Menu), Office Shared [vbui6.chm2015619]
 keywords: vbui6.chm2015619
 f1_keywords:
 - vbui6.chm2015619
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Step Into, Step Over, Step Out Commands (Debug Menu), Office Shared [vbui6.chm2015619]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Paso a paso, Recorrer principal, Paso a paso para salir (menú Depurar), Office Shared [vbui6.chm2015619]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Paso a paso por instrucciones, Paso a paso por procedimientos y Paso a paso para salir (menú Depuración)](http://msdn.microsoft.com/library/step-into-step-over-step-out-commands-debug-menu%28Office.15%29.aspx)
-
+[Step Into, Step Over, Step Out Commands (Debug Menu)](http://msdn.microsoft.com/library/5af5c030-adcc-f0a0-c4eb-33c3ba9a5789%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Tipo de datos no válidos para constantes, Office Shared [vblr6.chm1011118]
+title: Invalid data type for constant, Office Shared [vblr6.chm1011118]
 keywords: vblr6.chm1011118
 f1_keywords:
 - vblr6.chm1011118
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid data type for constant, Office Shared [vblr6.chm1011118]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Tipo de datos no válidos para constantes, Office Shared [vblr6.chm1011118]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Tipo de datos no válidos para la constante](http://msdn.microsoft.com/library/invalid-data-type-for-constant%28Office.15%29.aspx)
-
+[Invalid data type for constant](http://msdn.microsoft.com/library/c6038fcb-4c3f-b5ba-cb77-c0f2f05290ce%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda LocalizeMerge (sección Varios), Visio [vis_sdr.chm60053]
+title: LocalizeMerge Cell (Miscellaneous Section), Visio [vis_sdr.chm60053]
 keywords: vis_sdr.chm60053
 f1_keywords:
 - vis_sdr.chm60053
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LocalizeMerge Cell (Miscellaneous Section), Visio [vis_sdr.chm60053]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LocalizeMerge (sección Varios), Visio [vis_sdr.chm60053]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LocalizeMerge (Sección de varios)](http://msdn.microsoft.com/library/localizemerge-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[LocalizeMerge Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/734d4415-05dd-4c4d-763e-e035fa56dcec%28Office.15%29.aspx)
 

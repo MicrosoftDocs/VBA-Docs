@@ -1,5 +1,5 @@
 ---
-title: Propiedad Toolbar, Access [vbaac10.chm4524]
+title: Toolbar Property, Access [vbaac10.chm4524]
 keywords: vbaac10.chm4524
 f1_keywords:
 - vbaac10.chm4524
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Toolbar Property, Access [vbaac10.chm4524]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Toolbar, Access [vbaac10.chm4524]
+[Report.Toolbar Property (Access)](http://msdn.microsoft.com/library/e897d294-2d8d-aca7-9aed-4bd2ebd23552%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.Toolbar Property (Access)](http://msdn.microsoft.com/library/a004200c-5404-c3ba-f00d-591c0f0a545d%28Office.15%29.aspx)
 
-
- [Propiedad Report.Toolbar (Access)](http://msdn.microsoft.com/library/report.toolbar-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.Toolbar (Access)](http://msdn.microsoft.com/library/form.toolbar-property-access%28Office.15%29.aspx)
 

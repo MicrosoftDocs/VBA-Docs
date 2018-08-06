@@ -1,5 +1,5 @@
 ---
-title: Propiedad DownBars, Excel [vbagr10.chm65677]
+title: DownBars Property, Excel [vbagr10.chm65677]
 keywords: vbagr10.chm65677
 f1_keywords:
 - vbagr10.chm65677
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DownBars Property, Excel [vbagr10.chm65677]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DownBars, Excel [vbagr10.chm65677]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DownBars (propiedad)](http://msdn.microsoft.com/library/downbars-property%28Office.15%29.aspx)
-
+[DownBars Property](http://msdn.microsoft.com/library/752b1b94-9027-876a-54a2-7aabed4e055b%28Office.15%29.aspx)
 

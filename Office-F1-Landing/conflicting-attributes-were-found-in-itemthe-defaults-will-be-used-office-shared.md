@@ -1,5 +1,5 @@
 ---
-title: Se han encontrado atributos en conflicto en 'item'. Se usarán los valores predeterminados, Office Shared [vblr6.chm60074]
+title: Conflicting attributes were found in 'item'. The defaults will be used, Office Shared [vblr6.chm60074]
 keywords: vblr6.chm60074
 f1_keywords:
 - vblr6.chm60074
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Conflicting attributes were found in 'item'. The defaults will be used, Office Shared [vblr6.chm60074]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se han encontrado atributos en conflicto en 'item'. Se usarán los valores predeterminados, Office Shared [vblr6.chm60074]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se encontraron atributos en conflicto en 'item'. Se usarán los valores predeterminados](http://msdn.microsoft.com/library/conflicting-attributes-were-found-in-item-.-the-defaults-will-be-used%28Office.15%29.aspx)
-
+[Conflicting attributes were found in 'item'. The defaults will be used](http://msdn.microsoft.com/library/aff35cb5-ba98-9649-bd66-cecd0b3d7cf9%28Office.15%29.aspx)
 

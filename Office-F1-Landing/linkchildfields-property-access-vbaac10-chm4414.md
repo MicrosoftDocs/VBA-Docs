@@ -1,5 +1,5 @@
 ---
-title: Propiedad LinkChildFields, Access [vbaac10.chm4414]
+title: LinkChildFields Property, Access [vbaac10.chm4414]
 keywords: vbaac10.chm4414
 f1_keywords:
 - vbaac10.chm4414
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# LinkChildFields Property, Access [vbaac10.chm4414]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LinkChildFields, Access [vbaac10.chm4414]
+[SubForm.LinkChildFields Property (Access)](http://msdn.microsoft.com/library/74daa999-e531-88df-117b-ca7b3b6c795f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ObjectFrame.LinkChildFields Property (Access)](http://msdn.microsoft.com/library/f82332c1-2dd0-bd3a-3f63-e84727ea7429%28Office.15%29.aspx)
 
-
- [Propiedad SubForm.LinkChildFields (Access)](http://msdn.microsoft.com/library/subform.linkchildfields-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ObjectFrame.LinkChildFields (Access)](http://msdn.microsoft.com/library/objectframe.linkchildfields-property-access%28Office.15%29.aspx)
 

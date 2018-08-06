@@ -1,5 +1,5 @@
 ---
-title: Método SaveAs, Excel [vbagr10.chm67461]
+title: SaveAs Method, Excel [vbagr10.chm67461]
 keywords: vbagr10.chm67461
 f1_keywords:
 - vbagr10.chm67461
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SaveAs Method, Excel [vbagr10.chm67461]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SaveAs, Excel [vbagr10.chm67461]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SaveAs (método)](http://msdn.microsoft.com/library/saveas-method-1%28Office.15%29.aspx)
-
+[SaveAs Method](http://msdn.microsoft.com/library/d8b3e963-e50a-3307-9abf-4ea37c46f114%28Office.15%29.aspx)
 

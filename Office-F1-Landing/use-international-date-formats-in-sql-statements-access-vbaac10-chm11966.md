@@ -1,5 +1,5 @@
 ---
-title: Uso de formatos de fecha internacional en instrucciones SQL, Access [vbaac10.chm11966]
+title: Use International Date Formats in SQL Statements, Access [vbaac10.chm11966]
 keywords: vbaac10.chm11966
 f1_keywords:
 - vbaac10.chm11966
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Use International Date Formats in SQL Statements, Access [vbaac10.chm11966]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Uso de formatos de fecha internacional en instrucciones SQL, Access [vbaac10.chm11966]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Usar formatos de fecha internacionales en instrucciones SQL](http://msdn.microsoft.com/library/use-international-date-formats-in-sql-statements%28Office.15%29.aspx)
-
+[Use International Date Formats in SQL Statements](http://msdn.microsoft.com/library/b3ca8423-b15a-3934-ed8e-4129f0bf9700%28Office.15%29.aspx)
 

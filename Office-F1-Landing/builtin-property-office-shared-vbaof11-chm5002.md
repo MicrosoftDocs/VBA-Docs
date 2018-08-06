@@ -1,5 +1,5 @@
 ---
-title: Propiedad BuiltIn, Office Shared [vbaof11.chm5002]
+title: BuiltIn Property, Office Shared [vbaof11.chm5002]
 keywords: vbaof11.chm5002
 f1_keywords:
 - vbaof11.chm5002
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# BuiltIn Property, Office Shared [vbaof11.chm5002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BuiltIn, Office Shared [vbaof11.chm5002]
+[CommandBarControl.BuiltIn Property (Office)](http://msdn.microsoft.com/library/4b3904dc-3376-28e0-6c93-4acff8101e6f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarComboBox.BuiltIn Property (Office)](http://msdn.microsoft.com/library/4dc0232c-94dd-ce40-95cd-7700fdd9a427%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarControl.BuiltIn (Office)](http://msdn.microsoft.com/library/commandbarcontrol.builtin-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.BuiltIn (Office)](http://msdn.microsoft.com/library/commandbarcombobox.builtin-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarButton.BuiltIn (Office)](http://msdn.microsoft.com/library/commandbarbutton.builtin-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarPopup.BuiltIn (Office)](http://msdn.microsoft.com/library/commandbarpopup.builtin-property-office%28Office.15%29.aspx)
-
+[CommandBarButton.BuiltIn Property (Office)](http://msdn.microsoft.com/library/0a159c65-99d1-efdf-ec5c-f4e51060dd09%28Office.15%29.aspx)
+[CommandBarPopup.BuiltIn Property (Office)](http://msdn.microsoft.com/library/7cf5322a-b970-39da-c200-fc8303d60f29%28Office.15%29.aspx)
 

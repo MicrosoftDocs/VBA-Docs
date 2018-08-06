@@ -1,5 +1,5 @@
 ---
-title: Método Delete, Office Shared [vbaof11.chm5005]
+title: Delete Method, Office Shared [vbaof11.chm5005]
 keywords: vbaof11.chm5005
 f1_keywords:
 - vbaof11.chm5005
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Delete Method, Office Shared [vbaof11.chm5005]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Delete, Office Shared [vbaof11.chm5005]
+[CommandBarButton.Delete Method (Office)](http://msdn.microsoft.com/library/af94a209-b651-442f-8fa3-3a6436833d15%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarComboBox.Delete Method (Office)](http://msdn.microsoft.com/library/7b84c512-24e2-f159-100b-5234fc78fcf0%28Office.15%29.aspx)
 
-
- [Método CommandBarButton.Delete (Office)](http://msdn.microsoft.com/library/commandbarbutton.delete-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarComboBox.Delete (Office)](http://msdn.microsoft.com/library/commandbarcombobox.delete-method-office%28Office.15%29.aspx)
-
-
- [Método CommandBarControl.Delete (Office)](http://msdn.microsoft.com/library/commandbarcontrol.delete-method-office%28Office.15%29.aspx)
-
- [Método CommandBarPopup.Delete (Office)](http://msdn.microsoft.com/library/commandbarpopup.delete-method-office%28Office.15%29.aspx)
-
+[CommandBarControl.Delete Method (Office)](http://msdn.microsoft.com/library/eca4abea-092b-0c11-1040-7132318b1bea%28Office.15%29.aspx)
+[CommandBarPopup.Delete Method (Office)](http://msdn.microsoft.com/library/65ec78a1-9f8f-fbd7-3611-c788f3e8566d%28Office.15%29.aspx)
 

@@ -7,18 +7,10 @@ ms.assetid: 8452cd47-534f-4f39-a79e-5758780be2dd
 ms.date: 06/08/2017
 ---
 
----
-keywords: vis_dss.chm82251365
-f1_keywords:
-- vis_dss.chm82251365
-ms.prod: MULTIPLEPRODUCTS
-ms.assetid: 8452cd47-534f-4f39-a79e-5758780be2dd
----
 
+# YGridSpacing Cell (Ruler &amp; Grid Section), Visio [Vis_DSS.chm82251365] 
 
-# Celda YGridSpacing (sección Ruler &amp; Grid), Visio [Vis_DSS.chm82251365]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
 
 

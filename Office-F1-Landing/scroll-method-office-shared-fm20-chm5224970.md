@@ -1,5 +1,5 @@
 ---
-title: Método Scroll, Office Shared [fm20.chm5224970]
+title: Scroll Method, Office Shared [fm20.chm5224970]
 keywords: fm20.chm5224970
 f1_keywords:
 - fm20.chm5224970
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Scroll Method, Office Shared [fm20.chm5224970]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Scroll, Office Shared [fm20.chm5224970]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Scroll](http://msdn.microsoft.com/library/scroll-method%28Office.15%29.aspx)
-
+[Scroll Method](http://msdn.microsoft.com/library/dbbfcf37-c511-3112-55f6-b2e8ca055db3%28Office.15%29.aspx)
 

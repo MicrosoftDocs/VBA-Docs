@@ -1,5 +1,5 @@
 ---
-title: Celda LockWidth (sección Protección), Visio [Vis_DSS.chm82251214]
+title: LockWidth Cell (Protection Section), Visio [Vis_DSS.chm82251214]
 keywords: vis_dss.chm82251214
 f1_keywords:
 - vis_dss.chm82251214
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockWidth Cell (Protection Section), Visio [Vis_DSS.chm82251214]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockWidth (sección Protección), Visio [Vis_DSS.chm82251214]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockWidth (Sección de protección)](http://msdn.microsoft.com/library/lockwidth-cell-protection-section%28Office.15%29.aspx)
-
+[LockWidth Cell (Protection Section)](http://msdn.microsoft.com/library/fef022ea-38ab-2b66-60c8-b94a6b0bdfbf%28Office.15%29.aspx)
 

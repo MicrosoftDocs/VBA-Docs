@@ -1,5 +1,5 @@
 ---
-title: Propiedad RasterExportQuality, Visio [vis_sdr.chm16262570]
+title: RasterExportQuality Property, Visio [vis_sdr.chm16262570]
 keywords: vis_sdr.chm16262570
 f1_keywords:
 - vis_sdr.chm16262570
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RasterExportQuality Property, Visio [vis_sdr.chm16262570]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RasterExportQuality, Visio [vis_sdr.chm16262570]
+[ApplicationSettings.RasterExportQuality Property (Visio)](http://msdn.microsoft.com/library/2e1ee47c-97ac-e69e-a3a0-5a4e9a600292.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.RasterExportQuality Property (Visio)](http://msdn.microsoft.com/library/6864bbfd-bb2d-721f-4146-f66974318929%28Office.15%29.aspx)
 
-
- [ApplicationSettings.RasterExportQuality Property (Visio)](http://msdn.microsoft.com/library/2e1ee47c-97ac-e69e-a3a0-5a4e9a600292.aspx)
-
-
- [RasterExportQuality (propiedad)](http://msdn.microsoft.com/library/applicationsettings.rasterexportquality-property-visio%28Office.15%29.aspx)
 

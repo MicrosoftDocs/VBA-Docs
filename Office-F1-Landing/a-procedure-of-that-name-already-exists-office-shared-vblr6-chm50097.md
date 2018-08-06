@@ -1,5 +1,5 @@
 ---
-title: Ya existe un procedimiento con ese nombre, Office Shared [vblr6.chm50097]
+title: A procedure of that name already exists, Office Shared [vblr6.chm50097]
 keywords: vblr6.chm50097
 f1_keywords:
 - vblr6.chm50097
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# A procedure of that name already exists, Office Shared [vblr6.chm50097]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ya existe un procedimiento con ese nombre, Office Shared [vblr6.chm50097]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Ya existe un procedimiento con ese nombre](http://msdn.microsoft.com/library/a-procedure-of-that-name-already-exists%28Office.15%29.aspx)
-
+[A procedure of that name already exists](http://msdn.microsoft.com/library/25df9b7f-f1ae-60f3-612c-c3ebc78c889f%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: El componente ActiveX especificado no se encuentra o no está correctamente registrado, Office Shared [vblr6.chm1117690]
+title: Specified ActiveX component not correctly registered or not found, Office Shared [vblr6.chm1117690]
 keywords: vblr6.chm1117690
 f1_keywords:
 - vblr6.chm1117690
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Specified ActiveX component not correctly registered or not found, Office Shared [vblr6.chm1117690]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El componente ActiveX especificado no se encuentra o no está correctamente registrado, Office Shared [vblr6.chm1117690]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró o no se registro correctamente el componente ActiveX especificado](http://msdn.microsoft.com/library/specified-activex-component-not-correctly-registered-or-not-found%28Office.15%29.aspx)
-
+[Specified ActiveX component not correctly registered or not found](http://msdn.microsoft.com/library/b522bba3-7e1e-9539-a4ba-413220da7c24%28Office.15%29.aspx)
 

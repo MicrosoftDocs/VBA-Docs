@@ -1,5 +1,5 @@
 ---
-title: Celda ShdwPattern (sección Fill Format), Visio [Vis_DSS.chm82251243]
+title: ShdwPattern Cell (Fill Format Section), Visio [Vis_DSS.chm82251243]
 keywords: vis_dss.chm82251243
 f1_keywords:
 - vis_dss.chm82251243
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShdwPattern Cell (Fill Format Section), Visio [Vis_DSS.chm82251243]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShdwPattern (sección Fill Format), Visio [Vis_DSS.chm82251243]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShdwPattern (Sección de formato de relleno)](http://msdn.microsoft.com/library/shdwpattern-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShdwPattern Cell (Fill Format Section)](http://msdn.microsoft.com/library/eca73b80-9835-9011-1dce-187ccee92e76%28Office.15%29.aspx)
 

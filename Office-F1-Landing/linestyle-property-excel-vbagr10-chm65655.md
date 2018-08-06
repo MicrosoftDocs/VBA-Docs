@@ -1,5 +1,5 @@
 ---
-title: Propiedad LineStyle, Excel [vbagr10.chm65655]
+title: LineStyle Property, Excel [vbagr10.chm65655]
 keywords: vbagr10.chm65655
 f1_keywords:
 - vbagr10.chm65655
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineStyle Property, Excel [vbagr10.chm65655]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LineStyle, Excel [vbagr10.chm65655]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LineStyle (propiedad)](http://msdn.microsoft.com/library/linestyle-property%28Office.15%29.aspx)
-
+[LineStyle Property](http://msdn.microsoft.com/library/4783a76a-9e73-c605-ade5-be8fec821b1d%28Office.15%29.aspx)
 

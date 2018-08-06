@@ -1,5 +1,5 @@
 ---
-title: Evento SuspendCanceled, Visio [vis_sdr.chm10019395]
+title: SuspendCanceled Event, Visio [vis_sdr.chm10019395]
 keywords: vis_sdr.chm10019395
 f1_keywords:
 - vis_sdr.chm10019395
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SuspendCanceled Event, Visio [vis_sdr.chm10019395]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento SuspendCanceled, Visio [vis_sdr.chm10019395]
+[Application.SuspendCanceled Event (Visio)](http://msdn.microsoft.com/library/63b2a2c6-5ac7-2e04-e7ac-3295df179498%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.SuspendCanceled Event (Visio)](http://msdn.microsoft.com/library/5c266211-8686-85e8-f059-38e3cdab4211%28Office.15%29.aspx)
 
-
- [Evento Application.SuspendCanceled (Visio)](http://msdn.microsoft.com/library/application.suspendcanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.SuspendCanceled (Visio)](http://msdn.microsoft.com/library/invisibleapp.suspendcanceled-event-visio%28Office.15%29.aspx)
 

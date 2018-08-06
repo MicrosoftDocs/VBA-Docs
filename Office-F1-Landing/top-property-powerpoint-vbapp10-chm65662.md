@@ -1,5 +1,5 @@
 ---
-title: Propiedad Top, PowerPoint [vbapp10.chm65662]
+title: Top Property, PowerPoint [vbapp10.chm65662]
 keywords: vbapp10.chm65662
 f1_keywords:
 - vbapp10.chm65662
@@ -9,25 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
+# Top Property, PowerPoint [vbapp10.chm65662]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Top, PowerPoint [vbapp10.chm65662]
+[LegendEntry.Top Property (PowerPoint)](http://msdn.microsoft.com/library/fe6d42ff-fc2a-38ef-c1b8-26beded239da%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[PlotArea.Top Property (PowerPoint)](http://msdn.microsoft.com/library/3f3d60e4-d76a-f39c-a562-7b1212f5e966%28Office.15%29.aspx)
 
-
- [Propiedad LegendEntry.Top (PowerPoint)](http://msdn.microsoft.com/library/legendentry.top-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad PlotArea.Top (PowerPoint)](http://msdn.microsoft.com/library/plotarea.top-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabel.Top (PowerPoint)](http://msdn.microsoft.com/library/datalabel.top-property-powerpoint%28Office.15%29.aspx)
-
- [Propiedad ChartArea.Top (PowerPoint)](http://msdn.microsoft.com/library/chartarea.top-property-powerpoint%28Office.15%29.aspx)
-
- [Propiedad Legend.Top (PowerPoint)](http://msdn.microsoft.com/library/legend.top-property-powerpoint%28Office.15%29.aspx)
-
- [Propiedad LegendKey.Top (PowerPoint)](http://msdn.microsoft.com/library/legendkey.top-property-powerpoint%28Office.15%29.aspx)
-
+[DataLabel.Top Property (PowerPoint)](http://msdn.microsoft.com/library/d31ff0d3-2fbe-1d30-dd0f-85b151cae9e1%28Office.15%29.aspx)
+[ChartArea.Top Property (PowerPoint)](http://msdn.microsoft.com/library/dac1cfbb-9fc3-c4ce-205a-bcaad54c5b88%28Office.15%29.aspx)
+[Legend.Top Property (PowerPoint)](http://msdn.microsoft.com/library/c5b00b1e-4e51-b172-0a0a-d6384114a9ec%28Office.15%29.aspx)
+[LegendKey.Top Property (PowerPoint)](http://msdn.microsoft.com/library/bcce6f18-39c3-9445-2a5a-dea0b242a816%28Office.15%29.aspx)
 

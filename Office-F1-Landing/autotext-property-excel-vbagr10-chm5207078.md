@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoText, Excel [vbagr10.chm5207078]
+title: AutoText Property, Excel [vbagr10.chm5207078]
 keywords: vbagr10.chm5207078
 f1_keywords:
 - vbagr10.chm5207078
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoText Property, Excel [vbagr10.chm5207078]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoText, Excel [vbagr10.chm5207078]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AutoText (propiedad)](http://msdn.microsoft.com/library/autotext-property%28Office.15%29.aspx)
-
+[AutoText Property](http://msdn.microsoft.com/library/629627fc-f7b9-b7e9-1675-195bfb435b54%28Office.15%29.aspx)
 

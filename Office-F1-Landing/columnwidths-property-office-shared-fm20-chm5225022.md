@@ -1,5 +1,5 @@
 ---
-title: Propiedad ColumnWidths, Office Shared [fm20.chm5225022]
+title: ColumnWidths Property, Office Shared [fm20.chm5225022]
 keywords: fm20.chm5225022
 f1_keywords:
 - fm20.chm5225022
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ColumnWidths Property, Office Shared [fm20.chm5225022]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ColumnWidths, Office Shared [fm20.chm5225022]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ColumnWidths](http://msdn.microsoft.com/library/columnwidths-property%28Office.15%29.aspx)
-
+[ColumnWidths Property](http://msdn.microsoft.com/library/acc57c41-fcd1-dde4-bc9d-2c25d426fdc7%28Office.15%29.aspx)
 

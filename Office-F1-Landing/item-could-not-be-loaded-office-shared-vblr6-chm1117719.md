@@ -1,5 +1,5 @@
 ---
-title: Item' no se pudo cargar, Office Shared [vblr6.chm1117719]
+title: Item' could not be loaded, Office Shared [vblr6.chm1117719]
 keywords: vblr6.chm1117719
 f1_keywords:
 - vblr6.chm1117719
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Item' could not be loaded, Office Shared [vblr6.chm1117719]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Item' no se pudo cargar, Office Shared [vblr6.chm1117719]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Item' no se pudo cargar](http://msdn.microsoft.com/library/item-could-not-be-loaded%28Office.15%29.aspx)
-
+[Item' could not be loaded](http://msdn.microsoft.com/library/62bda47d-f0db-e8b9-3e84-8fc5871e4345%28Office.15%29.aspx)
 

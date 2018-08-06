@@ -1,5 +1,5 @@
 ---
-title: Fila Datos de formas (sección Datos de formas), Visio [vis_sdr.chm3045]
+title: Shape Data Row (Shape Data Section), Visio [vis_sdr.chm3045]
 keywords: vis_sdr.chm3045
 f1_keywords:
 - vis_sdr.chm3045
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Shape Data Row (Shape Data Section), Visio [vis_sdr.chm3045]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila Datos de formas (sección Datos de formas), Visio [vis_sdr.chm3045]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila Data Row (Sección de datos de formas)](http://msdn.microsoft.com/library/shape-data-row-shape-data-section%28Office.15%29.aspx)
-
+[Shape Data Row (Shape Data Section)](http://msdn.microsoft.com/library/f3a83496-fccc-9d6a-02b9-60ebaf4911ea%28Office.15%29.aspx)
 

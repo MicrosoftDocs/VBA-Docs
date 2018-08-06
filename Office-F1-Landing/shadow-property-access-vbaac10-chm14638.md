@@ -1,5 +1,5 @@
 ---
-title: Propiedad Shadow, Access [vbaac10.chm14638]
+title: Shadow Property, Access [vbaac10.chm14638]
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Shadow Property, Access [vbaac10.chm14638]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Shadow, Access [vbaac10.chm14638]
+[NavigationButton.Shadow Property (Access)](http://msdn.microsoft.com/library/06e28d4d-8390-8c2c-9095-05a0e14c81e6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Shadow Property (Access)](http://msdn.microsoft.com/library/71af60bc-6f69-1408-8f3a-076a75daddcc%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Shadow (Access)](http://msdn.microsoft.com/library/navigationbutton.shadow-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Shadow (Access)](http://msdn.microsoft.com/library/commandbutton.shadow-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.Shadow (Access)](http://msdn.microsoft.com/library/togglebutton.shadow-property-access%28Office.15%29.aspx)
-
+[ToggleButton.Shadow Property (Access)](http://msdn.microsoft.com/library/0095ff4e-56f0-9b56-73e2-2e3066ee8b03%28Office.15%29.aspx)
 

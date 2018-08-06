@@ -1,5 +1,5 @@
 ---
-title: Método CloseConnection, Access [vbaac10.chm12716]
+title: CloseConnection Method, Access [vbaac10.chm12716]
 keywords: vbaac10.chm12716
 f1_keywords:
 - vbaac10.chm12716
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CloseConnection Method, Access [vbaac10.chm12716]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método CloseConnection, Access [vbaac10.chm12716]
+[CurrentProject.CloseConnection Method (Access)](http://msdn.microsoft.com/library/f2feac44-e509-48d7-e815-e0cf2935d7b9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeProject.CloseConnection Method (Access)](http://msdn.microsoft.com/library/850a09c8-45a8-26e4-79f5-e688599a990a%28Office.15%29.aspx)
 
-
- [Método CurrentProject.CloseConnection (Access)](http://msdn.microsoft.com/library/currentproject.closeconnection-method-access%28Office.15%29.aspx)
-
-
- [Método CodeProject.CloseConnection (Access)](http://msdn.microsoft.com/library/codeproject.closeconnection-method-access%28Office.15%29.aspx)
 

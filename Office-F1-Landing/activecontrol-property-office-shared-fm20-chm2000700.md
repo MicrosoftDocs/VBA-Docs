@@ -1,5 +1,5 @@
 ---
-title: Propiedad ActiveControl, Office Shared [fm20.chm2000700]
+title: ActiveControl Property, Office Shared [fm20.chm2000700]
 keywords: fm20.chm2000700
 f1_keywords:
 - fm20.chm2000700
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ActiveControl Property, Office Shared [fm20.chm2000700]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ActiveControl, Office Shared [fm20.chm2000700]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ActiveControl](http://msdn.microsoft.com/library/activecontrol-property%28Office.15%29.aspx)
-
+[ActiveControl Property](http://msdn.microsoft.com/library/069cdfc6-3457-f022-122a-f0daf2c0cc4d%28Office.15%29.aspx)
 

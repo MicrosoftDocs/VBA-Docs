@@ -1,5 +1,5 @@
 ---
-title: Propiedad SeriesLines, Excel [vbagr10.chm65681]
+title: SeriesLines Property, Excel [vbagr10.chm65681]
 keywords: vbagr10.chm65681
 f1_keywords:
 - vbagr10.chm65681
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SeriesLines Property, Excel [vbagr10.chm65681]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SeriesLines, Excel [vbagr10.chm65681]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SeriesLines (propiedad)](http://msdn.microsoft.com/library/serieslines-property%28Office.15%29.aspx)
-
+[SeriesLines Property](http://msdn.microsoft.com/library/ebfea917-8678-7d05-df9d-2102f396ea59%28Office.15%29.aspx)
 

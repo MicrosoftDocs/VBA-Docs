@@ -1,5 +1,5 @@
 ---
-title: Celda ConLineJumpCode (sección Shape Layout), Visio [vis_sdr.chm180]
+title: ConLineJumpCode Cell (Shape Layout Section), Visio [vis_sdr.chm180]
 keywords: vis_sdr.chm180
 f1_keywords:
 - vis_sdr.chm180
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ConLineJumpCode Cell (Shape Layout Section), Visio [vis_sdr.chm180]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ConLineJumpCode (sección Shape Layout), Visio [vis_sdr.chm180]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ConLineJumpCode (Sección de diseño de la forma)](http://msdn.microsoft.com/library/conlinejumpcode-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ConLineJumpCode Cell (Shape Layout Section)](http://msdn.microsoft.com/library/af85588e-8e83-5168-7a8c-d7e8b4af5c27%28Office.15%29.aspx)
 

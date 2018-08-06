@@ -1,5 +1,5 @@
 ---
-title: Matriz ya dimensionada, Office Shared [vblr6.chm1011077]
+title: Array already dimensioned, Office Shared [vblr6.chm1011077]
 keywords: vblr6.chm1011077
 f1_keywords:
 - vblr6.chm1011077
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Array already dimensioned, Office Shared [vblr6.chm1011077]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Matriz ya dimensionada, Office Shared [vblr6.chm1011077]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La matriz ya se ha dimensionado](http://msdn.microsoft.com/library/array-already-dimensioned%28Office.15%29.aspx)
-
+[Array already dimensioned](http://msdn.microsoft.com/library/fcf3762f-3f3f-6182-a7c9-4f055991d2c1%28Office.15%29.aspx)
 

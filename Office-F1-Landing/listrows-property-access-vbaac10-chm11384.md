@@ -1,5 +1,5 @@
 ---
-title: Propiedad ListRows, Access [vbaac10.chm11384]
+title: ListRows Property, Access [vbaac10.chm11384]
 keywords: vbaac10.chm11384
 f1_keywords:
 - vbaac10.chm11384
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ListRows Property, Access [vbaac10.chm11384]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ListRows, Access [vbaac10.chm11384]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ComboBox.ListRows (Access)](http://msdn.microsoft.com/library/combobox.listrows-property-access%28Office.15%29.aspx)
-
+[ComboBox.ListRows Property (Access)](http://msdn.microsoft.com/library/b418e124-71b6-2ffb-101d-b56aadebb1fc%28Office.15%29.aspx)
 

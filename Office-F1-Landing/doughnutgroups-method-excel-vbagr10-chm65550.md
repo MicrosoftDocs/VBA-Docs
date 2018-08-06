@@ -1,5 +1,5 @@
 ---
-title: Método DoughnutGroups, Excel [vbagr10.chm65550]
+title: DoughnutGroups Method, Excel [vbagr10.chm65550]
 keywords: vbagr10.chm65550
 f1_keywords:
 - vbagr10.chm65550
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DoughnutGroups Method, Excel [vbagr10.chm65550]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DoughnutGroups, Excel [vbagr10.chm65550]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método DoughnutGroups](http://msdn.microsoft.com/library/doughnutgroups-method%28Office.15%29.aspx)
-
+[DoughnutGroups Method](http://msdn.microsoft.com/library/41ca4213-c17b-7bba-c357-7ba65fd55d39%28Office.15%29.aspx)
 

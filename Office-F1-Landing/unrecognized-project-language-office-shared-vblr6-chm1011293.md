@@ -1,5 +1,5 @@
 ---
-title: Idioma de proyecto no reconocido, Office Shared [vblr6.chm1011293]
+title: Unrecognized project language, Office Shared [vblr6.chm1011293]
 keywords: vblr6.chm1011293
 f1_keywords:
 - vblr6.chm1011293
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unrecognized project language, Office Shared [vblr6.chm1011293]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Idioma de proyecto no reconocido, Office Shared [vblr6.chm1011293]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Idioma del proyecto no reconocido](http://msdn.microsoft.com/library/unrecognized-project-language%28Office.15%29.aspx)
-
+[Unrecognized project language](http://msdn.microsoft.com/library/deaf7459-f91f-2ad7-fb94-e954939a8b99%28Office.15%29.aspx)
 

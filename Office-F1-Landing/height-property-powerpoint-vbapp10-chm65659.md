@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, PowerPoint [vbapp10.chm65659]
+title: Height Property, PowerPoint [vbapp10.chm65659]
 keywords: vbapp10.chm65659
 f1_keywords:
 - vbapp10.chm65659
@@ -9,23 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, PowerPoint [vbapp10.chm65659]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, PowerPoint [vbapp10.chm65659]
+[ChartArea.Height Property (PowerPoint)](http://msdn.microsoft.com/library/01deb7e5-af03-df99-5a3b-15cfd5236f78%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[PlotArea.Height Property (PowerPoint)](http://msdn.microsoft.com/library/c6c34189-cab8-4fca-a039-332eb8a90128%28Office.15%29.aspx)
 
-
- [Propiedad ChartArea.Height (PowerPoint)](http://msdn.microsoft.com/library/chartarea.height-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad PlotArea.Height (PowerPoint)](http://msdn.microsoft.com/library/plotarea.height-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Legend.Height (PowerPoint)](http://msdn.microsoft.com/library/legend.height-property-powerpoint%28Office.15%29.aspx)
-
- [Propiedad LegendKey.Height (PowerPoint)](http://msdn.microsoft.com/library/legendkey.height-property-powerpoint%28Office.15%29.aspx)
-
- [Propiedad LegendEntry.Height (PowerPoint)](http://msdn.microsoft.com/library/legendentry.height-property-powerpoint%28Office.15%29.aspx)
-
+[Legend.Height Property (PowerPoint)](http://msdn.microsoft.com/library/53edaa56-87d5-d0c6-05cd-5f55b6394774%28Office.15%29.aspx)
+[LegendKey.Height Property (PowerPoint)](http://msdn.microsoft.com/library/f12c9287-99a8-3d68-1c22-79c8e84b02e9%28Office.15%29.aspx)
+[LegendEntry.Height Property (PowerPoint)](http://msdn.microsoft.com/library/eaf854c0-ee67-d6f7-df4c-eb8d67d489d0%28Office.15%29.aspx)
 

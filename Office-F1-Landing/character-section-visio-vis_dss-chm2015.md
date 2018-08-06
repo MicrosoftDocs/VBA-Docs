@@ -1,5 +1,5 @@
 ---
-title: Sección Character, Visio [Vis_DSS.chm2015]
+title: Character Section, Visio [Vis_DSS.chm2015]
 keywords: vis_dss.chm2015
 f1_keywords:
 - vis_dss.chm2015
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Character Section, Visio [Vis_DSS.chm2015]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Character, Visio [Vis_DSS.chm2015]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de caracteres](http://msdn.microsoft.com/library/character-section%28Office.15%29.aspx)
-
+[Character Section](http://msdn.microsoft.com/library/f5afe93a-9217-a9ec-76ce-daf12afbb0f7%28Office.15%29.aspx)
 

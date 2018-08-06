@@ -1,5 +1,5 @@
 ---
-title: Propiedad ReferencesEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100147]
+title: ReferencesEvents Property (VBA Add-In Object Model), Office Shared [vbob6.chm100147]
 keywords: vbob6.chm100147
 f1_keywords:
 - vbob6.chm100147
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ReferencesEvents Property (VBA Add-In Object Model), Office Shared [vbob6.chm100147]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ReferencesEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100147]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ReferencesEvents (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/referencesevents-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[ReferencesEvents Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/2482995e-ca97-067c-a7ae-cbeca2113199%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad CanPaste, Office Shared [fm20.chm5225014]
+title: CanPaste Property, Office Shared [fm20.chm5225014]
 keywords: fm20.chm5225014
 f1_keywords:
 - fm20.chm5225014
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CanPaste Property, Office Shared [fm20.chm5225014]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CanPaste, Office Shared [fm20.chm5225014]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CanPaste](http://msdn.microsoft.com/library/canpaste-property%28Office.15%29.aspx)
-
+[CanPaste Property](http://msdn.microsoft.com/library/697a2f98-8c42-663c-9ff7-0330d3977c43%28Office.15%29.aspx)
 

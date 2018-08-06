@@ -1,5 +1,5 @@
 ---
-title: Celda NoShow (sección Geometría), Visio [Vis_DSS.chm82251210]
+title: NoShow Cell (Geometry Section), Visio [Vis_DSS.chm82251210]
 keywords: vis_dss.chm82251210
 f1_keywords:
 - vis_dss.chm82251210
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NoShow Cell (Geometry Section), Visio [Vis_DSS.chm82251210]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda NoShow (sección Geometría), Visio [Vis_DSS.chm82251210]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda NoShow (Sección de Geometría)](http://msdn.microsoft.com/library/noshow-cell-geometry-section%28Office.15%29.aspx)
-
+[NoShow Cell (Geometry Section)](http://msdn.microsoft.com/library/831075ff-2875-b598-00bb-eb8481fee57b%28Office.15%29.aspx)
 

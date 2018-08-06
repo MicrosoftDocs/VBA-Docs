@@ -1,5 +1,5 @@
 ---
-title: Exit Do no está entre Do...Loop, Office Shared [vblr6.chm1040092]
+title: Exit Do not within Do...Loop, Office Shared [vblr6.chm1040092]
 keywords: vblr6.chm1040092
 f1_keywords:
 - vblr6.chm1040092
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Exit Do not within Do...Loop, Office Shared [vblr6.chm1040092]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Exit Do no está entre Do...Loop, Office Shared [vblr6.chm1040092]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Exit Do no está dentro de Do...Loop](http://msdn.microsoft.com/library/exit-do-not-within-do...loop%28Office.15%29.aspx)
-
+[Exit Do not within Do...Loop](http://msdn.microsoft.com/library/67b91b0c-681c-13aa-a5f3-daf5c16ba7ee%28Office.15%29.aspx)
 

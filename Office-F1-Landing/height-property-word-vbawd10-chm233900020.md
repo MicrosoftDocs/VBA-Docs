@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, Word [vbawd10.chm233900020]
+title: Height Property, Word [vbawd10.chm233900020]
 keywords: vbawd10.chm233900020
 f1_keywords:
 - vbawd10.chm233900020
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, Word [vbawd10.chm233900020]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, Word [vbawd10.chm233900020]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad DataLabel.Height (Word)](http://msdn.microsoft.com/library/datalabel.height-property-word%28Office.15%29.aspx)
-
+[DataLabel.Height Property (Word)](http://msdn.microsoft.com/library/70232f9e-eb30-6e3e-fe12-82ec941d9261%28Office.15%29.aspx)
 

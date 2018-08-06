@@ -1,5 +1,5 @@
 ---
-title: Función UNICHAR, Visio [Vis_DSS.chm1033810]
+title: UNICHAR Function, Visio [Vis_DSS.chm1033810]
 keywords: vis_dss.chm1033810
 f1_keywords:
 - vis_dss.chm1033810
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# UNICHAR Function, Visio [Vis_DSS.chm1033810]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función UNICHAR, Visio [Vis_DSS.chm1033810]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [UNICHAR (función)](http://msdn.microsoft.com/library/unichar-function%28Office.15%29.aspx)
-
+[UNICHAR Function](http://msdn.microsoft.com/library/371a475d-50f7-6b4c-4b47-581cd778dcba%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowOnlyRowSourceValues, Access [vbaac10.chm5863]
+title: ShowOnlyRowSourceValues Property, Access [vbaac10.chm5863]
 keywords: vbaac10.chm5863
 f1_keywords:
 - vbaac10.chm5863
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowOnlyRowSourceValues Property, Access [vbaac10.chm5863]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowOnlyRowSourceValues, Access [vbaac10.chm5863]
+[ComboBox.ShowOnlyRowSourceValues Property (Access)](http://msdn.microsoft.com/library/3400539d-64c2-bd83-6d82-b70bf9ba6654%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ListBox.ShowOnlyRowSourceValues Property (Access)](http://msdn.microsoft.com/library/35fc7924-ba76-d322-99ae-f5e355536bc0%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.ShowOnlyRowSourceValues (Access)](http://msdn.microsoft.com/library/combobox.showonlyrowsourcevalues-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ListBox.ShowOnlyRowSourceValues (Access)](http://msdn.microsoft.com/library/listbox.showonlyrowsourcevalues-property-access%28Office.15%29.aspx)
 

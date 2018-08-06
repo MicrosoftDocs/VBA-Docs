@@ -1,5 +1,5 @@
 ---
-title: Control ActiveX, Access [vbaac10.chm108082]
+title: ActiveX Control, Access [vbaac10.chm108082]
 keywords: vbaac10.chm108082
 f1_keywords:
 - vbaac10.chm108082
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ActiveX Control, Access [vbaac10.chm108082]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control ActiveX, Access [vbaac10.chm108082]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control ActiveX](http://msdn.microsoft.com/library/activex-control%28Office.15%29.aspx)
-
+[ActiveX Control](http://msdn.microsoft.com/library/61597775-7efd-1844-a0f3-39274f46e99f%28Office.15%29.aspx)
 

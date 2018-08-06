@@ -1,5 +1,5 @@
 ---
-title: Método StartNewUndoEntry, PowerPoint [vbapp10.chm502070]
+title: StartNewUndoEntry Method, PowerPoint [vbapp10.chm502070]
 keywords: vbapp10.chm502070
 f1_keywords:
 - vbapp10.chm502070
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# StartNewUndoEntry Method, PowerPoint [vbapp10.chm502070]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método StartNewUndoEntry, PowerPoint [vbapp10.chm502070]
+[Application.StartNewUndoEntry Method (PowerPoint)](http://msdn.microsoft.com/library/7f4f2236-6e6a-11e9-20b5-0fca5c126330%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.OpenThemeFile Method (PowerPoint)](http://msdn.microsoft.com/library/b34d5a6f-8cf8-ce6a-3c0c-c1ed43c413c6%28Office.15%29.aspx)
 
-
- [Método Application.StartNewUndoEntry (PowerPoint)](http://msdn.microsoft.com/library/application.startnewundoentry-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método Application.OpenThemeFile (PowerPoint)](http://msdn.microsoft.com/library/application.openthemefile-method-powerpoint%28Office.15%29.aspx)
 

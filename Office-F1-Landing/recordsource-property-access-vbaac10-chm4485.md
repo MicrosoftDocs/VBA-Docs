@@ -1,5 +1,5 @@
 ---
-title: Propiedad RecordSource, Access [vbaac10.chm4485]
+title: RecordSource Property, Access [vbaac10.chm4485]
 keywords: vbaac10.chm4485
 f1_keywords:
 - vbaac10.chm4485
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RecordSource Property, Access [vbaac10.chm4485]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RecordSource, Access [vbaac10.chm4485]
+[Form.RecordSource Property (Access)](http://msdn.microsoft.com/library/a473695a-7645-744d-bf69-760e1f2b9fb1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.RecordSource Property (Access)](http://msdn.microsoft.com/library/aa3b31cc-21a6-5d56-8361-9fc232ffae97%28Office.15%29.aspx)
 
-
- [Propiedad Form.RecordSource (Access)](http://msdn.microsoft.com/library/form.recordsource-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.RecordSource (Access)](http://msdn.microsoft.com/library/report.recordsource-property-access%28Office.15%29.aspx)
 

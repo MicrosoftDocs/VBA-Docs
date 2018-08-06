@@ -1,5 +1,5 @@
 ---
-title: Método PickupAnimation, PowerPoint [vbapp10.chm548099]
+title: PickupAnimation Method, PowerPoint [vbapp10.chm548099]
 keywords: vbapp10.chm548099
 f1_keywords:
 - vbapp10.chm548099
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PickupAnimation Method, PowerPoint [vbapp10.chm548099]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método PickupAnimation, PowerPoint [vbapp10.chm548099]
+[ShapeRange.PickupAnimation Method (PowerPoint)](http://msdn.microsoft.com/library/13210009-1329-8c3e-01ce-459e1bcac88c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ShapeRange.MediaFormat Property (PowerPoint)](http://msdn.microsoft.com/library/d8c02203-9570-247c-d0c4-d823b349ad84%28Office.15%29.aspx)
 
-
- [Método ShapeRange.PickupAnimation (PowerPoint)](http://msdn.microsoft.com/library/shaperange.pickupanimation-method-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad ShapeRange.MediaFormat (PowerPoint)](http://msdn.microsoft.com/library/shaperange.mediaformat-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Un módulo no tiene un tipo válido, Office Shared [vblr6.chm1015669]
+title: A module is not a valid type, Office Shared [vblr6.chm1015669]
 keywords: vblr6.chm1015669
 f1_keywords:
 - vblr6.chm1015669
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# A module is not a valid type, Office Shared [vblr6.chm1015669]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Un módulo no tiene un tipo válido, Office Shared [vblr6.chm1015669]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Un módulo no es un tipo válido](http://msdn.microsoft.com/library/a-module-is-not-a-valid-type%28Office.15%29.aspx)
-
+[A module is not a valid type](http://msdn.microsoft.com/library/09d3e93e-9fca-eccc-e9e4-d636bb2b7f28%28Office.15%29.aspx)
 

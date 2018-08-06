@@ -1,5 +1,5 @@
 ---
-title: Propiedad ChartType, Excel [vbagr10.chm3076974]
+title: ChartType Property, Excel [vbagr10.chm3076974]
 keywords: vbagr10.chm3076974
 f1_keywords:
 - vbagr10.chm3076974
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartType Property, Excel [vbagr10.chm3076974]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ChartType, Excel [vbagr10.chm3076974]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ChartType (propiedad)](http://msdn.microsoft.com/library/charttype-property-1%28Office.15%29.aspx)
-
+[ChartType Property](http://msdn.microsoft.com/library/a59871a9-d2f9-657a-1553-eba8c4e4a5a8%28Office.15%29.aspx)
 

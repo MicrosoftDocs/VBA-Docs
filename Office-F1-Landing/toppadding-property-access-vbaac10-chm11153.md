@@ -1,5 +1,5 @@
 ---
-title: Propiedad TopPadding, Access [vbaac10.chm11153]
+title: TopPadding Property, Access [vbaac10.chm11153]
 keywords: vbaac10.chm11153
 f1_keywords:
 - vbaac10.chm11153
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# TopPadding Property, Access [vbaac10.chm11153]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TopPadding, Access [vbaac10.chm11153]
+[TextBox.TopPadding Property (Access)](http://msdn.microsoft.com/library/fd6420f1-c3d9-2374-7b3c-e1fa5dd8199a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.TopPadding Property (Access)](http://msdn.microsoft.com/library/56cae307-f23c-d2e1-5095-fe6b696a6d98%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.TopPadding (Access)](http://msdn.microsoft.com/library/textbox.toppadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.TopPadding (Access)](http://msdn.microsoft.com/library/navigationcontrol.toppadding-property-access%28Office.15%29.aspx)
 

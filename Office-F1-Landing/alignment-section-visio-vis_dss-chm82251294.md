@@ -1,5 +1,5 @@
 ---
-title: Sección Alineación, Visio [Vis_DSS.chm82251294]
+title: Alignment Section, Visio [Vis_DSS.chm82251294]
 keywords: vis_dss.chm82251294
 f1_keywords:
 - vis_dss.chm82251294
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Alignment Section, Visio [Vis_DSS.chm82251294]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Alineación, Visio [Vis_DSS.chm82251294]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de alineación](http://msdn.microsoft.com/library/alignment-section%28Office.15%29.aspx)
-
+[Alignment Section](http://msdn.microsoft.com/library/b8ef9c25-acd0-fc55-e35a-b8924af5dac4%28Office.15%29.aspx)
 

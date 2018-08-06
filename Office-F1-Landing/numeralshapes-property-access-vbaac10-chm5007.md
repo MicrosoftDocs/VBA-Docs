@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumeralShapes, Access [vbaac10.chm5007]
+title: NumeralShapes Property, Access [vbaac10.chm5007]
 keywords: vbaac10.chm5007
 f1_keywords:
 - vbaac10.chm5007
@@ -9,23 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
+# NumeralShapes Property, Access [vbaac10.chm5007]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumeralShapes, Access [vbaac10.chm5007]
+[ListBox.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/b89bf0e9-7cd2-0676-ca07-0d813cd175e9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/93cb42d2-6274-3af4-0801-87ecf8eb4252%28Office.15%29.aspx)
 
-
- [Propiedad ListBox.NumeralShapes (Access)](http://msdn.microsoft.com/library/listbox.numeralshapes-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.NumeralShapes (Access)](http://msdn.microsoft.com/library/combobox.numeralshapes-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.NumeralShapes (Access)](http://msdn.microsoft.com/library/navigationcontrol.numeralshapes-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.NumeralShapes (Access)](http://msdn.microsoft.com/library/textbox.numeralshapes-property-access%28Office.15%29.aspx)
-
- [Propiedad Label.NumeralShapes (Access)](http://msdn.microsoft.com/library/label.numeralshapes-property-access%28Office.15%29.aspx)
-
+[NavigationControl.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/207bbece-366e-bc72-876f-98c80f7bf6b5%28Office.15%29.aspx)
+[TextBox.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/f0fda4bb-2522-622c-24ab-d3324a4b8dca%28Office.15%29.aspx)
+[Label.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/3da2f917-a257-b9aa-3517-f4d65bc3af18%28Office.15%29.aspx)
 

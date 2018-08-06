@@ -1,5 +1,5 @@
 ---
-title: Celda LockGroup (sección Protección), Visio [vis_sdr.chm630]
+title: LockGroup Cell (Protection Section), Visio [vis_sdr.chm630]
 keywords: vis_sdr.chm630
 f1_keywords:
 - vis_sdr.chm630
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockGroup Cell (Protection Section), Visio [vis_sdr.chm630]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockGroup (sección Protección), Visio [vis_sdr.chm630]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockGroup (Sección de protección)](http://msdn.microsoft.com/library/lockgroup-cell-protection-section%28Office.15%29.aspx)
-
+[LockGroup Cell (Protection Section)](http://msdn.microsoft.com/library/04b0fa5b-1680-cfe2-6aaf-0502ad196027%28Office.15%29.aspx)
 

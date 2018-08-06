@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsBroken (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104062]
+title: IsBroken Property (VBA Add-In Object Model), Office Shared [vbob6.chm104062]
 keywords: vbob6.chm104062
 f1_keywords:
 - vbob6.chm104062
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# IsBroken Property (VBA Add-In Object Model), Office Shared [vbob6.chm104062]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsBroken (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104062]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad IsBroken (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/isbroken-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[IsBroken Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/830ae72a-82a2-d1db-b0a2-feb6c5b3940c%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Control Casilla, Access [vbaac10.chm5186554]
+title: Check Box Control, Access [vbaac10.chm5186554]
 keywords: vbaac10.chm5186554
 f1_keywords:
 - vbaac10.chm5186554
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Check Box Control, Access [vbaac10.chm5186554]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Casilla, Access [vbaac10.chm5186554]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Casilla de verificación](http://msdn.microsoft.com/library/check-box-control%28Office.15%29.aspx)
-
+[Check Box Control](http://msdn.microsoft.com/library/7d9a33e2-5ba3-89d6-4285-2c4c6d8577c3%28Office.15%29.aspx)
 

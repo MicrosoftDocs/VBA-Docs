@@ -1,5 +1,5 @@
 ---
-title: Propiedad SelText, Office Shared [fm20.chm5225092]
+title: SelText Property, Office Shared [fm20.chm5225092]
 keywords: fm20.chm5225092
 f1_keywords:
 - fm20.chm5225092
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SelText Property, Office Shared [fm20.chm5225092]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SelText, Office Shared [fm20.chm5225092]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad SelText](http://msdn.microsoft.com/library/seltext-property%28Office.15%29.aspx)
-
+[SelText Property](http://msdn.microsoft.com/library/75b9c27f-f6f7-6445-6d86-a53f046c1db6%28Office.15%29.aspx)
 

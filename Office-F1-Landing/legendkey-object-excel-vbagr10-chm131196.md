@@ -1,5 +1,5 @@
 ---
-title: Objeto LegendKey, Excel [vbagr10.chm131196]
+title: LegendKey Object, Excel [vbagr10.chm131196]
 keywords: vbagr10.chm131196
 f1_keywords:
 - vbagr10.chm131196
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LegendKey Object, Excel [vbagr10.chm131196]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto LegendKey, Excel [vbagr10.chm131196]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LegendKey (objeto)](http://msdn.microsoft.com/library/legendkey-object%28Office.15%29.aspx)
-
+[LegendKey Object](http://msdn.microsoft.com/library/ab90cb64-1f81-dfcb-7542-cba68964acba%28Office.15%29.aspx)
 

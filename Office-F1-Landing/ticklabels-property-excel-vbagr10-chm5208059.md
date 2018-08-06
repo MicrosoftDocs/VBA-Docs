@@ -1,5 +1,5 @@
 ---
-title: Propiedad TickLabels, Excel [vbagr10.chm5208059]
+title: TickLabels Property, Excel [vbagr10.chm5208059]
 keywords: vbagr10.chm5208059
 f1_keywords:
 - vbagr10.chm5208059
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TickLabels Property, Excel [vbagr10.chm5208059]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TickLabels, Excel [vbagr10.chm5208059]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [TickLabels (propiedad)](http://msdn.microsoft.com/library/ticklabels-property%28Office.15%29.aspx)
-
+[TickLabels Property](http://msdn.microsoft.com/library/5aa48053-c9ff-71c7-7a03-d7fe47e681c7%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda RightMargin (sección Text Block Format), Visio [vis_sdr.chm855]
+title: RightMargin Cell (Text Block Format Section), Visio [vis_sdr.chm855]
 keywords: vis_sdr.chm855
 f1_keywords:
 - vis_sdr.chm855
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RightMargin Cell (Text Block Format Section), Visio [vis_sdr.chm855]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda RightMargin (sección Text Block Format), Visio [vis_sdr.chm855]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda RightMargin (Sección de formato del bloque de texto)](http://msdn.microsoft.com/library/rightmargin-cell-text-block-format-section%28Office.15%29.aspx)
-
+[RightMargin Cell (Text Block Format Section)](http://msdn.microsoft.com/library/bc8f5469-e79f-4a68-73cb-d11c938353a4%28Office.15%29.aspx)
 

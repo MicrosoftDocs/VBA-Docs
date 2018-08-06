@@ -1,5 +1,5 @@
 ---
-title: Propiedad SpaceAfter, Word [vbawd10.chm158597221]
+title: SpaceAfter Property, Word [vbawd10.chm158597221]
 keywords: vbawd10.chm158597221
 f1_keywords:
 - vbawd10.chm158597221
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SpaceAfter Property, Word [vbawd10.chm158597221]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SpaceAfter, Word [vbawd10.chm158597221]
+[TextColumn.SpaceAfter Property (Word)](http://msdn.microsoft.com/library/95b77d91-e13a-c6d3-f8c3-069c81b39cb1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[OMathFrac.Creator Property (Word)](http://msdn.microsoft.com/library/ed064a2e-53ad-0127-db03-f58546156924%28Office.15%29.aspx)
 
-
- [Propiedad TextColumn.SpaceAfter (Word)](http://msdn.microsoft.com/library/textcolumn.spaceafter-property-word%28Office.15%29.aspx)
-
-
- [Propiedad OMathFrac.Creator (Word)](http://msdn.microsoft.com/library/omathfrac.creator-property-word%28Office.15%29.aspx)
 

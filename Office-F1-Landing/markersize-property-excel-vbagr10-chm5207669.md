@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerSize, Excel [vbagr10.chm5207669]
+title: MarkerSize Property, Excel [vbagr10.chm5207669]
 keywords: vbagr10.chm5207669
 f1_keywords:
 - vbagr10.chm5207669
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerSize Property, Excel [vbagr10.chm5207669]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerSize, Excel [vbagr10.chm5207669]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MarkerSize (propiedad)](http://msdn.microsoft.com/library/markersize-property%28Office.15%29.aspx)
-
+[MarkerSize Property](http://msdn.microsoft.com/library/8af0ad97-9291-8bee-b896-283b76f8a882%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad CurLine, Office Shared [fm20.chm5225026]
+title: CurLine Property, Office Shared [fm20.chm5225026]
 keywords: fm20.chm5225026
 f1_keywords:
 - fm20.chm5225026
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CurLine Property, Office Shared [fm20.chm5225026]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CurLine, Office Shared [fm20.chm5225026]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CurLine](http://msdn.microsoft.com/library/curline-property%28Office.15%29.aspx)
-
+[CurLine Property](http://msdn.microsoft.com/library/c154483f-fd12-d090-1643-0182f3895e0b%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método DeleteChartAutoFormat, Excel [vbagr10.chm5207301]
+title: DeleteChartAutoFormat Method, Excel [vbagr10.chm5207301]
 keywords: vbagr10.chm5207301
 f1_keywords:
 - vbagr10.chm5207301
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DeleteChartAutoFormat Method, Excel [vbagr10.chm5207301]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DeleteChartAutoFormat, Excel [vbagr10.chm5207301]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DeleteChartAutoFormat (método)](http://msdn.microsoft.com/library/deletechartautoformat-method%28Office.15%29.aspx)
-
+[DeleteChartAutoFormat Method](http://msdn.microsoft.com/library/22f9c561-b0a1-2c75-391e-25bb54ad67a5%28Office.15%29.aspx)
 

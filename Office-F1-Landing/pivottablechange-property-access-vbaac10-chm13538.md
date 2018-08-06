@@ -1,5 +1,5 @@
 ---
-title: Propiedad PivotTableChange, Access [vbaac10.chm13538]
+title: PivotTableChange Property, Access [vbaac10.chm13538]
 keywords: vbaac10.chm13538
 f1_keywords:
 - vbaac10.chm13538
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PivotTableChange Property, Access [vbaac10.chm13538]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PivotTableChange, Access [vbaac10.chm13538]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.PivotTableChange (Access)](http://msdn.microsoft.com/library/form.pivottablechange-property-access%28Office.15%29.aspx)
-
+[Form.PivotTableChange Property (Access)](http://msdn.microsoft.com/library/d8d6a7eb-2bc1-e441-95fe-aefaec7fde9d%28Office.15%29.aspx)
 

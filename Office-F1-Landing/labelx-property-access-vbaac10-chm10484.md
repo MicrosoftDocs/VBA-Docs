@@ -1,5 +1,5 @@
 ---
-title: Propiedad LabelX, Access [vbaac10.chm10484]
+title: LabelX Property, Access [vbaac10.chm10484]
 keywords: vbaac10.chm10484
 f1_keywords:
 - vbaac10.chm10484
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# LabelX Property, Access [vbaac10.chm10484]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LabelX, Access [vbaac10.chm10484]
+[NavigationButton.LabelX Property (Access)](http://msdn.microsoft.com/library/cddd2467-4d75-bc40-5472-ab8701120940%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.LabelX Property (Access)](http://msdn.microsoft.com/library/04582d98-dbc6-4aed-e42b-f8d6638ba4ae%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.LabelX (acceso)](http://msdn.microsoft.com/library/navigationbutton.labelx-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.LabelX (acceso)](http://msdn.microsoft.com/library/commandbutton.labelx-property-access%28Office.15%29.aspx)
 

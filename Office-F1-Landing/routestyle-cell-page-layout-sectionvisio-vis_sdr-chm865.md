@@ -1,5 +1,5 @@
 ---
-title: Celda RouteStyle (sección Page Layout), Visio [vis_sdr.chm865]
+title: RouteStyle Cell (Page Layout Section), Visio [vis_sdr.chm865]
 keywords: vis_sdr.chm865
 f1_keywords:
 - vis_sdr.chm865
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RouteStyle Cell (Page Layout Section), Visio [vis_sdr.chm865]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda RouteStyle (sección Page Layout), Visio [vis_sdr.chm865]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda RouteStyle (Sección de diseño de página)](http://msdn.microsoft.com/library/routestyle-cell-page-layout-section%28Office.15%29.aspx)
-
+[RouteStyle Cell (Page Layout Section)](http://msdn.microsoft.com/library/3a223dac-538b-cb5d-a32d-61395276f9da%28Office.15%29.aspx)
 

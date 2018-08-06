@@ -1,5 +1,5 @@
 ---
-title: Propiedad Application, PowerPoint [vbapp10.chm691010]
+title: Application Property, PowerPoint [vbapp10.chm691010]
 keywords: vbapp10.chm691010
 f1_keywords:
 - vbapp10.chm691010
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Application Property, PowerPoint [vbapp10.chm691010]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Application, PowerPoint [vbapp10.chm691010]
+[ChartFormat.Application Property (PowerPoint)](http://msdn.microsoft.com/library/de828024-79ad-1572-baaf-6c62af532832%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ChartFormat.Adjustments Property (PowerPoint)](http://msdn.microsoft.com/library/ff27cd8d-ccb7-189a-51b6-cabdbbe0a505%28Office.15%29.aspx)
 
-
- [Propiedad ChartFormat.Application (PowerPoint)](http://msdn.microsoft.com/library/chartformat.application-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad ChartFormat.Adjustments (PowerPoint)](http://msdn.microsoft.com/library/chartformat.adjustments-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllReports, Access [vbaac10.chm12708]
+title: AllReports Property, Access [vbaac10.chm12708]
 keywords: vbaac10.chm12708
 f1_keywords:
 - vbaac10.chm12708
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllReports Property, Access [vbaac10.chm12708]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllReports, Access [vbaac10.chm12708]
+[CurrentProject.AllReports Property (Access)](http://msdn.microsoft.com/library/dda91007-88ef-5660-f67f-4cc9c6f5dbb3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeProject.AllReports Property (Access)](http://msdn.microsoft.com/library/92536101-c4ec-e1a8-723c-ee912a24bdee%28Office.15%29.aspx)
 
-
- [Propiedad CurrentProject.AllReports (Access)](http://msdn.microsoft.com/library/currentproject.allreports-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeProject.AllReports (Access)](http://msdn.microsoft.com/library/codeproject.allreports-property-access%28Office.15%29.aspx)
 

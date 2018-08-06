@@ -1,5 +1,5 @@
 ---
-title: Propiedad Color, Excel [vbagr10.chm65635]
+title: Color Property, Excel [vbagr10.chm65635]
 keywords: vbagr10.chm65635
 f1_keywords:
 - vbagr10.chm65635
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Color Property, Excel [vbagr10.chm65635]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Color, Excel [vbagr10.chm65635]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Color (propiedad)](http://msdn.microsoft.com/library/color-property%28Office.15%29.aspx)
-
+[Color Property](http://msdn.microsoft.com/library/ef81e12e-1cf7-4935-e2ea-975cc8252d53%28Office.15%29.aspx)
 

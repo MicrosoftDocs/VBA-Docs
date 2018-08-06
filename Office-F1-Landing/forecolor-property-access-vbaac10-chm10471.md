@@ -1,5 +1,5 @@
 ---
-title: Propiedad ForeColor, Access [vbaac10.chm10471]
+title: ForeColor Property, Access [vbaac10.chm10471]
 keywords: vbaac10.chm10471
 f1_keywords:
 - vbaac10.chm10471
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ForeColor Property, Access [vbaac10.chm10471]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ForeColor, Access [vbaac10.chm10471]
+[CommandButton.ForeColor Property (Access)](http://msdn.microsoft.com/library/6d19e4b2-2375-fe37-c226-4489ebcb808e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.ForeColor Property (Access)](http://msdn.microsoft.com/library/86b90246-1431-3ba2-1cc7-5af78a2e8185%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.ForeColor (Access)](http://msdn.microsoft.com/library/commandbutton.forecolor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.ForeColor (Access)](http://msdn.microsoft.com/library/navigationbutton.forecolor-property-access%28Office.15%29.aspx)
 

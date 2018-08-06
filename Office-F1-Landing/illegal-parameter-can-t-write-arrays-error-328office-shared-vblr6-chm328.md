@@ -1,5 +1,5 @@
 ---
-title: Parámetro ilegal. No se pueden escribir matrices (error 328), Office Shared [vblr6.chm328]
+title: Illegal parameter. Can't write arrays (Error 328), Office Shared [vblr6.chm328]
 keywords: vblr6.chm328
 f1_keywords:
 - vblr6.chm328
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Illegal parameter. Can't write arrays (Error 328), Office Shared [vblr6.chm328]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Parámetro ilegal. No se pueden escribir matrices (error 328), Office Shared [vblr6.chm328]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Parámetro no válido. No se pueden escribir matrices (error 328)](http://msdn.microsoft.com/library/illegal-parameter.-can-t-write-arrays-error-328%28Office.15%29.aspx)
-
+[Illegal parameter. Can't write arrays (Error 328)](http://msdn.microsoft.com/library/2c6082d4-a747-a50c-7d09-d26e0be98e9d%28Office.15%29.aspx)
 

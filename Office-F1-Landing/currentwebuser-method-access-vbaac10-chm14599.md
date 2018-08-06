@@ -1,5 +1,5 @@
 ---
-title: Método CurrentWebUser, Access [vbaac10.chm14599]
+title: CurrentWebUser Method, Access [vbaac10.chm14599]
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CurrentWebUser Method, Access [vbaac10.chm14599]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método CurrentWebUser, Access [vbaac10.chm14599]
+[Application.CurrentWebUser Method (Access)](http://msdn.microsoft.com/library/cb8b230d-71c5-c73d-c88e-1a13246492a5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[AcWebUserDisplay Enumeration (Access)](http://msdn.microsoft.com/library/4723ddf2-ceab-9313-b713-4654a2e83297%28Office.15%29.aspx)
 
-
- [Método Application.CurrentWebUser (Access)](http://msdn.microsoft.com/library/application.currentwebuser-method-access%28Office.15%29.aspx)
-
-
- [(Access) de AcWebUserDisplay (enumeración)](http://msdn.microsoft.com/library/acwebuserdisplay-enumeration-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda Overline (sección Carácter), Visio [Vis_DSS.chm755]
+title: Overline Cell (Character Section), Visio [Vis_DSS.chm755]
 keywords: vis_dss.chm755
 f1_keywords:
 - vis_dss.chm755
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Overline Cell (Character Section), Visio [Vis_DSS.chm755]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Overline (sección Carácter), Visio [Vis_DSS.chm755]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Overline (Sección de caracteres)](http://msdn.microsoft.com/library/overline-cell-character-section%28Office.15%29.aspx)
-
+[Overline Cell (Character Section)](http://msdn.microsoft.com/library/102cce17-43ee-e313-3412-a72d6ee18fe6%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Paste, Office Shared [fm20.chm5224964]
+title: Paste Method, Office Shared [fm20.chm5224964]
 keywords: fm20.chm5224964
 f1_keywords:
 - fm20.chm5224964
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Paste Method, Office Shared [fm20.chm5224964]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Paste, Office Shared [fm20.chm5224964]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Paste (Microsoft Forms)](http://msdn.microsoft.com/library/paste-method-microsoft-forms%28Office.15%29.aspx)
-
+[Paste Method (Microsoft Forms)](http://msdn.microsoft.com/library/6812d686-7f6f-c59f-5892-c377f3c33f66%28Office.15%29.aspx)
 

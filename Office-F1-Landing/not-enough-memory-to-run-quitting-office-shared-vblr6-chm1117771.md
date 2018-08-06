@@ -1,5 +1,5 @@
 ---
-title: No hay suficiente memoria para ejecutar; saliendo, Office Shared [vblr6.chm1117771]
+title: Not enough memory to run; quitting, Office Shared [vblr6.chm1117771]
 keywords: vblr6.chm1117771
 f1_keywords:
 - vblr6.chm1117771
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Not enough memory to run; quitting, Office Shared [vblr6.chm1117771]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No hay suficiente memoria para ejecutar; saliendo, Office Shared [vblr6.chm1117771]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Memoria insuficiente para ejecutar; saliendo](http://msdn.microsoft.com/library/not-enough-memory-to-run;-quitting%28Office.15%29.aspx)
-
+[Not enough memory to run; quitting](http://msdn.microsoft.com/library/38139074-f359-91df-0495-39e16e990a10%28Office.15%29.aspx)
 

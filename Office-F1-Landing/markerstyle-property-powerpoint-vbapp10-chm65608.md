@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerStyle, PowerPoint [vbapp10.chm65608]
+title: MarkerStyle Property, PowerPoint [vbapp10.chm65608]
 keywords: vbapp10.chm65608
 f1_keywords:
 - vbapp10.chm65608
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerStyle Property, PowerPoint [vbapp10.chm65608]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerStyle, PowerPoint [vbapp10.chm65608]
+[Point.MarkerStyle Property (PowerPoint)](http://msdn.microsoft.com/library/76d0d681-40f7-b4b8-c18f-3c57f8b60330%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[LegendKey.MarkerStyle Property (PowerPoint)](http://msdn.microsoft.com/library/146c9146-063e-8456-c61e-e1286eae14c1%28Office.15%29.aspx)
 
-
- [Propiedad Point.MarkerStyle (PowerPoint)](http://msdn.microsoft.com/library/point.markerstyle-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad LegendKey.MarkerStyle (PowerPoint)](http://msdn.microsoft.com/library/legendkey.markerstyle-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Series.MarkerStyle (PowerPoint)](http://msdn.microsoft.com/library/series.markerstyle-property-powerpoint%28Office.15%29.aspx)
-
+[Series.MarkerStyle Property (PowerPoint)](http://msdn.microsoft.com/library/e985978e-f0cf-b809-ebe1-f5504e9e8df6%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Item, Word [vbawd10.chm157745152]
+title: Item Method, Word [vbawd10.chm157745152]
 keywords: vbawd10.chm157745152
 f1_keywords:
 - vbawd10.chm157745152
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Item Method, Word [vbawd10.chm157745152]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Item, Word [vbawd10.chm157745152]
+[ContentControls.Item Method (Word)](http://msdn.microsoft.com/library/7f468e82-e17c-3e98-e452-a214239dcab4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Bookmarks.Item Method (Word)](http://msdn.microsoft.com/library/95650b7b-fe74-09a4-60a6-a716407e8a34%28Office.15%29.aspx)
 
-
- [Método ContentControls.Item (Word)](http://msdn.microsoft.com/library/contentcontrols.item-method-word%28Office.15%29.aspx)
-
-
- [Método Bookmarks.Item (Word)](http://msdn.microsoft.com/library/bookmarks.item-method-word%28Office.15%29.aspx)
 

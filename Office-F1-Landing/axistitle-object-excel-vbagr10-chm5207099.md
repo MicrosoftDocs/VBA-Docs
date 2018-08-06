@@ -1,5 +1,5 @@
 ---
-title: Objeto AxisTitle, Excel [vbagr10.chm5207099]
+title: AxisTitle Object, Excel [vbagr10.chm5207099]
 keywords: vbagr10.chm5207099
 f1_keywords:
 - vbagr10.chm5207099
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AxisTitle Object, Excel [vbagr10.chm5207099]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto AxisTitle, Excel [vbagr10.chm5207099]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AxisTitle (objeto)](http://msdn.microsoft.com/library/axistitle-object%28Office.15%29.aspx)
-
+[AxisTitle Object](http://msdn.microsoft.com/library/a5a62dd3-5859-6f5c-5e28-6adbf400e08e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Item, Office Shared [fm20.chm2000310]
+title: Item Method, Office Shared [fm20.chm2000310]
 keywords: fm20.chm2000310
 f1_keywords:
 - fm20.chm2000310
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Item Method, Office Shared [fm20.chm2000310]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Item, Office Shared [fm20.chm2000310]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Item (Microsoft Forms)](http://msdn.microsoft.com/library/item-method-microsoft-forms%28Office.15%29.aspx)
-
+[Item Method (Microsoft Forms)](http://msdn.microsoft.com/library/6b50b145-7598-157d-111c-5ba9234520bd%28Office.15%29.aspx)
 

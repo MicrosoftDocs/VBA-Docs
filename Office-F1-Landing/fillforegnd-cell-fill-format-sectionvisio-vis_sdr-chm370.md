@@ -1,5 +1,5 @@
 ---
-title: Celda FillForegnd (sección Fill Format), Visio [vis_sdr.chm370]
+title: FillForegnd Cell (Fill Format Section), Visio [vis_sdr.chm370]
 keywords: vis_sdr.chm370
 f1_keywords:
 - vis_sdr.chm370
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FillForegnd Cell (Fill Format Section), Visio [vis_sdr.chm370]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda FillForegnd (sección Fill Format), Visio [vis_sdr.chm370]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda FillForegnd (Sección de formato de relleno)](http://msdn.microsoft.com/library/fillforegnd-cell-fill-format-section%28Office.15%29.aspx)
-
+[FillForegnd Cell (Fill Format Section)](http://msdn.microsoft.com/library/7548a480-4dce-45e0-281b-f6f8bdf05c0b%28Office.15%29.aspx)
 

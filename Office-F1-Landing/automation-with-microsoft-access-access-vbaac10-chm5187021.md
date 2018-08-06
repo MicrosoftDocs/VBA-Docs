@@ -1,5 +1,5 @@
 ---
-title: Automatización con Microsoft Access, Access [vbaac10.chm5187021]
+title: Automation with Microsoft Access, Access [vbaac10.chm5187021]
 keywords: vbaac10.chm5187021
 f1_keywords:
 - vbaac10.chm5187021
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Automation with Microsoft Access, Access [vbaac10.chm5187021]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Automatización con Microsoft Access, Access [vbaac10.chm5187021]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Automatización con Microsoft Access](http://msdn.microsoft.com/library/automation-with-microsoft-access%28Office.15%29.aspx)
-
+[Automation with Microsoft Access](http://msdn.microsoft.com/library/39fde349-3ba3-7c7a-3c92-316641dc8712%28Office.15%29.aspx)
 

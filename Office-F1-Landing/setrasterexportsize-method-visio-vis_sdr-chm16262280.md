@@ -1,5 +1,5 @@
 ---
-title: Método SetRasterExportSize, Visio [vis_sdr.chm16262280]
+title: SetRasterExportSize Method, Visio [vis_sdr.chm16262280]
 keywords: vis_sdr.chm16262280
 f1_keywords:
 - vis_sdr.chm16262280
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SetRasterExportSize Method, Visio [vis_sdr.chm16262280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetRasterExportSize, Visio [vis_sdr.chm16262280]
+[ApplicationSettings.SetRasterExportSize Method (Visio)](http://msdn.microsoft.com/library/763157d2-014b-0aa4-7c55-a0fb71fb5e23%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[SetRasterExportSize Method](http://msdn.microsoft.com/library/7642ac36-b642-ce76-1da7-f34331d47478%28Office.15%29.aspx)
 
-
- [Método ApplicationSettings.SetRasterExportSize (Visio)](http://msdn.microsoft.com/library/applicationsettings.setrasterexportsize-method-visio%28Office.15%29.aspx)
-
-
- [SetRasterExportSize (método)](http://msdn.microsoft.com/library/7642ac36-b642-ce76-1da7-f34331d47478%28Office.15%29.aspx)
 

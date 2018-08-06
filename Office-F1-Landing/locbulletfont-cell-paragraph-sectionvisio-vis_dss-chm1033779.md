@@ -1,5 +1,5 @@
 ---
-title: Celda LocBulletFont (sección Párrafo), Visio [Vis_DSS.chm1033779]
+title: LocBulletFont Cell (Paragraph Section), Visio [Vis_DSS.chm1033779]
 keywords: vis_dss.chm1033779
 f1_keywords:
 - vis_dss.chm1033779
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LocBulletFont Cell (Paragraph Section), Visio [Vis_DSS.chm1033779]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LocBulletFont (sección Párrafo), Visio [Vis_DSS.chm1033779]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LocBulletFont (Sección de párrafo)](http://msdn.microsoft.com/library/d08e17fe-7329-c033-fbea-0617b6028509%28Office.15%29.aspx)
-
+[LocBulletFont Cell (Paragraph Section)](http://msdn.microsoft.com/library/d08e17fe-7329-c033-fbea-0617b6028509%28Office.15%29.aspx)
 

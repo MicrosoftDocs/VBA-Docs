@@ -1,5 +1,5 @@
 ---
-title: El tipo de argumento ByRef no coincide, Office Shared [vblr6.chm1040077]
+title: ByRef argument type mismatch, Office Shared [vblr6.chm1040077]
 keywords: vblr6.chm1040077
 f1_keywords:
 - vblr6.chm1040077
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ByRef argument type mismatch, Office Shared [vblr6.chm1040077]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El tipo de argumento ByRef no coincide, Office Shared [vblr6.chm1040077]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de coincidencia de tipo de argumento ByRef](http://msdn.microsoft.com/library/byref-argument-type-mismatch%28Office.15%29.aspx)
-
+[ByRef argument type mismatch](http://msdn.microsoft.com/library/6adca657-8620-e3f1-3587-e317f988979c%28Office.15%29.aspx)
 

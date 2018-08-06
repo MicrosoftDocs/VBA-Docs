@@ -1,5 +1,5 @@
 ---
-title: Wend sin While, Office Shared [vblr6.chm1011303]
+title: Wend without While, Office Shared [vblr6.chm1011303]
 keywords: vblr6.chm1011303
 f1_keywords:
 - vblr6.chm1011303
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Wend without While, Office Shared [vblr6.chm1011303]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Wend sin While, Office Shared [vblr6.chm1011303]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Wend sin While](http://msdn.microsoft.com/library/wend-without-while%28Office.15%29.aspx)
-
+[Wend without While](http://msdn.microsoft.com/library/6239f1c7-5ff4-8f63-bb74-8e83bbf24cf2%28Office.15%29.aspx)
 

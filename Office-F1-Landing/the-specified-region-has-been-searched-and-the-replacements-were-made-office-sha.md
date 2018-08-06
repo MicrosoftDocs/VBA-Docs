@@ -1,5 +1,5 @@
 ---
-title: La región especificada se ha buscado y se han realizado las sustituciones, Office Shared [vblr6.chm1015680]
+title: The specified region has been searched and the replacements were made, Office Shared [vblr6.chm1015680]
 keywords: vblr6.chm1015680
 f1_keywords:
 - vblr6.chm1015680
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The specified region has been searched and the replacements were made, Office Shared [vblr6.chm1015680]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La región especificada se ha buscado y se han realizado las sustituciones, Office Shared [vblr6.chm1015680]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se ha buscado en la región especificada y se han realizado los reemplazos](http://msdn.microsoft.com/library/the-specified-region-has-been-searched-and-the-replacements-were-made%28Office.15%29.aspx)
-
+[The specified region has been searched and the replacements were made](http://msdn.microsoft.com/library/8ac62279-3e60-859d-af77-515cb3caeead%28Office.15%29.aspx)
 

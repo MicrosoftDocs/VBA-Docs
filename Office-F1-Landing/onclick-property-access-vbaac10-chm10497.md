@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnClick, Access [vbaac10.chm10497]
+title: OnClick Property, Access [vbaac10.chm10497]
 keywords: vbaac10.chm10497
 f1_keywords:
 - vbaac10.chm10497
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnClick Property, Access [vbaac10.chm10497]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnClick, Access [vbaac10.chm10497]
+[CommandButton.OnClick Property (Access)](http://msdn.microsoft.com/library/1034aa82-58cd-f639-d936-326049ccf38c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.OnClick Property (Access)](http://msdn.microsoft.com/library/8011ea46-129e-4194-7b2f-e577378111c7%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.OnClick (Access)](http://msdn.microsoft.com/library/commandbutton.onclick-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.OnClick (Access)](http://msdn.microsoft.com/library/navigationbutton.onclick-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Sección Shape Transform, Visio [Vis_DSS.chm2135]
+title: Shape Transform Section, Visio [Vis_DSS.chm2135]
 keywords: vis_dss.chm2135
 f1_keywords:
 - vis_dss.chm2135
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Shape Transform Section, Visio [Vis_DSS.chm2135]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Shape Transform, Visio [Vis_DSS.chm2135]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de transformación de forma](http://msdn.microsoft.com/library/shape-transform-section%28Office.15%29.aspx)
-
+[Shape Transform Section](http://msdn.microsoft.com/library/aa6a95bc-4669-47fd-5055-a147ec55e78f%28Office.15%29.aspx)
 

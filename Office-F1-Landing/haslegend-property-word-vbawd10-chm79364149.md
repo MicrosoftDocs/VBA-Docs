@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasLegend, Word [vbawd10.chm79364149]
+title: HasLegend Property, Word [vbawd10.chm79364149]
 keywords: vbawd10.chm79364149
 f1_keywords:
 - vbawd10.chm79364149
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HasLegend Property, Word [vbawd10.chm79364149]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasLegend, Word [vbawd10.chm79364149]
+[Chart.HasLegend Property (Word)](http://msdn.microsoft.com/library/057fedc3-4f23-9c28-3196-836523d83656%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.Axes Method (Word)](http://msdn.microsoft.com/library/37f422b5-31f2-92ce-c04e-a837b0a3d407%28Office.15%29.aspx)
 
-
- [Propiedad Chart.HasLegend (Word)](http://msdn.microsoft.com/library/chart.haslegend-property-word%28Office.15%29.aspx)
-
-
- [Método Chart.Axes (Word)](http://msdn.microsoft.com/library/chart.axes-method-word%28Office.15%29.aspx)
 

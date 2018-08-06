@@ -1,5 +1,5 @@
 ---
-title: Propiedad SmartTags, Access [vbaac10.chm11148]
+title: SmartTags Property, Access [vbaac10.chm11148]
 keywords: vbaac10.chm11148
 f1_keywords:
 - vbaac10.chm11148
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SmartTags Property, Access [vbaac10.chm11148]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SmartTags, Access [vbaac10.chm11148]
+[TextBox.SmartTags Property (Access)](http://msdn.microsoft.com/library/200175d1-78a2-3036-72ba-4a85dfc21864%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.SmartTags Property (Access)](http://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.SmartTags (Access)](http://msdn.microsoft.com/library/textbox.smarttags-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.SmartTags (Access)](http://msdn.microsoft.com/library/navigationcontrol.smarttags-property-access%28Office.15%29.aspx)
 

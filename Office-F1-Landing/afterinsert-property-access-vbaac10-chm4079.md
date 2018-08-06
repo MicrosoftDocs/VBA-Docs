@@ -1,5 +1,5 @@
 ---
-title: Propiedad AfterInsert, Access [vbaac10.chm4079]
+title: AfterInsert Property, Access [vbaac10.chm4079]
 keywords: vbaac10.chm4079
 f1_keywords:
 - vbaac10.chm4079
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AfterInsert Property, Access [vbaac10.chm4079]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AfterInsert, Access [vbaac10.chm4079]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.AfterInsert (Access)](http://msdn.microsoft.com/library/form.afterinsert-property-access%28Office.15%29.aspx)
-
+[Form.AfterInsert Property (Access)](http://msdn.microsoft.com/library/95bc1f0d-a0fa-ffdd-ef5a-e6eb2a854feb%28Office.15%29.aspx)
 

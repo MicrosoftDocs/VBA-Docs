@@ -1,5 +1,5 @@
 ---
-title: Memoria insuficiente para guardar información de deshacer, Office Shared [vblr6.chm1011104]
+title: Insufficient memory to save Undo information, Office Shared [vblr6.chm1011104]
 keywords: vblr6.chm1011104
 f1_keywords:
 - vblr6.chm1011104
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Insufficient memory to save Undo information, Office Shared [vblr6.chm1011104]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Memoria insuficiente para guardar información de deshacer, Office Shared [vblr6.chm1011104]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Memoria insuficiente para guardar información de Deshacer](http://msdn.microsoft.com/library/insufficient-memory-to-save-undo-information%28Office.15%29.aspx)
-
+[Insufficient memory to save Undo information](http://msdn.microsoft.com/library/d59d819b-3e43-e3a3-6433-2441b9a7b2fc%28Office.15%29.aspx)
 

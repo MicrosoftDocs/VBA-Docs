@@ -1,5 +1,5 @@
 ---
-title: Propiedad Section, Access [vbaac10.chm10487]
+title: Section Property, Access [vbaac10.chm10487]
 keywords: vbaac10.chm10487
 f1_keywords:
 - vbaac10.chm10487
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Section Property, Access [vbaac10.chm10487]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Section, Access [vbaac10.chm10487]
+[CommandButton.Section Property (Access)](http://msdn.microsoft.com/library/0ef5f32e-b724-205a-94bc-337b76f0a1b7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.Section Property (Access)](http://msdn.microsoft.com/library/810c32b5-2a6a-b6d2-65bc-96f28b3f9547%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.Section (Access)](http://msdn.microsoft.com/library/commandbutton.section-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Section (Access)](http://msdn.microsoft.com/library/navigationbutton.section-property-access%28Office.15%29.aspx)
 

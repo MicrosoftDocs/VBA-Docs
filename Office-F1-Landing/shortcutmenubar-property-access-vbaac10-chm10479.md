@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShortcutMenuBar, Access [vbaac10.chm10479]
+title: ShortcutMenuBar Property, Access [vbaac10.chm10479]
 keywords: vbaac10.chm10479
 f1_keywords:
 - vbaac10.chm10479
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShortcutMenuBar Property, Access [vbaac10.chm10479]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShortcutMenuBar, Access [vbaac10.chm10479]
+[CommandButton.ShortcutMenuBar Property (Access)](http://msdn.microsoft.com/library/fea5b3e5-da70-c3b6-95f6-bc06e7b6c762%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.ShortcutMenuBar Property (Access)](http://msdn.microsoft.com/library/bfc92fea-48ef-e995-53c4-be0354de1550%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.ShortcutMenuBar (Access)](http://msdn.microsoft.com/library/commandbutton.shortcutmenubar-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.ShortcutMenuBar (Access)](http://msdn.microsoft.com/library/navigationbutton.shortcutmenubar-property-access%28Office.15%29.aspx)
 

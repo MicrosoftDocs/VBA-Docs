@@ -1,5 +1,5 @@
 ---
-title: Propiedad SourceItem, Access [vbaac10.chm4508]
+title: SourceItem Property, Access [vbaac10.chm4508]
 keywords: vbaac10.chm4508
 f1_keywords:
 - vbaac10.chm4508
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SourceItem Property, Access [vbaac10.chm4508]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SourceItem, Access [vbaac10.chm4508]
+[ObjectFrame.SourceItem Property (Access)](http://msdn.microsoft.com/library/86cb94a8-9c13-0b07-58c2-1b78849061c9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.SourceItem Property (Access)](http://msdn.microsoft.com/library/ab802b9b-d17c-695b-aaf5-4f84d1935615%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.SourceItem (Access)](http://msdn.microsoft.com/library/objectframe.sourceitem-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.SourceItem (Access)](http://msdn.microsoft.com/library/boundobjectframe.sourceitem-property-access%28Office.15%29.aspx)
 

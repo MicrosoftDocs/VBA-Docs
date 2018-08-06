@@ -1,5 +1,5 @@
 ---
-title: Objeto LeaderLines, Excel [vbagr10.chm131252]
+title: LeaderLines Object, Excel [vbagr10.chm131252]
 keywords: vbagr10.chm131252
 f1_keywords:
 - vbagr10.chm131252
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LeaderLines Object, Excel [vbagr10.chm131252]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto LeaderLines, Excel [vbagr10.chm131252]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LeaderLines (objeto)](http://msdn.microsoft.com/library/leaderlines-object%28Office.15%29.aspx)
-
+[LeaderLines Object](http://msdn.microsoft.com/library/9704f195-dbbc-6979-c57d-8ced3557cdde%28Office.15%29.aspx)
 

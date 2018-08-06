@@ -1,5 +1,5 @@
 ---
-title: Propiedad ForeColor, Access [vbaac10.chm11083]
+title: ForeColor Property, Access [vbaac10.chm11083]
 keywords: vbaac10.chm11083
 f1_keywords:
 - vbaac10.chm11083
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ForeColor Property, Access [vbaac10.chm11083]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ForeColor, Access [vbaac10.chm11083]
+[TextBox.ForeColor Property (Access)](http://msdn.microsoft.com/library/125bc04a-b747-6397-33ff-31de47004633%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TabControl.ForeColor Property (Access)](http://msdn.microsoft.com/library/8b690a5f-ce7d-7b9c-09b7-90cbe3b2be81%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.ForeColor (Access)](http://msdn.microsoft.com/library/textbox.forecolor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TabControl.ForeColor (Access)](http://msdn.microsoft.com/library/tabcontrol.forecolor-property-access%28Office.15%29.aspx)
 

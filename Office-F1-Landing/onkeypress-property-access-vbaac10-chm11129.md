@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnKeyPress, Access [vbaac10.chm11129]
+title: OnKeyPress Property, Access [vbaac10.chm11129]
 keywords: vbaac10.chm11129
 f1_keywords:
 - vbaac10.chm11129
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnKeyPress Property, Access [vbaac10.chm11129]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnKeyPress, Access [vbaac10.chm11129]
+[TextBox.OnKeyPress Property (Access)](http://msdn.microsoft.com/library/458d2e2d-3003-79e4-a911-058928c25cef%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.OnKeyPress Property (Access)](http://msdn.microsoft.com/library/5efcc70d-6609-d4b3-509c-063af66195c4%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.OnKeyPress (Access)](http://msdn.microsoft.com/library/textbox.onkeypress-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.OnKeyPress (Access)](http://msdn.microsoft.com/library/navigationcontrol.onkeypress-property-access%28Office.15%29.aspx)
 

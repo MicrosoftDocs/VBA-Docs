@@ -1,5 +1,5 @@
 ---
-title: Propiedad SplitFormOrientation, Access [vbaac10.chm5641]
+title: SplitFormOrientation Property, Access [vbaac10.chm5641]
 keywords: vbaac10.chm5641
 f1_keywords:
 - vbaac10.chm5641
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplitFormOrientation Property, Access [vbaac10.chm5641]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SplitFormOrientation, Access [vbaac10.chm5641]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.SplitFormOrientation (Access)](http://msdn.microsoft.com/library/form.splitformorientation-property-access%28Office.15%29.aspx)
-
+[Form.SplitFormOrientation Property (Access)](http://msdn.microsoft.com/library/ddf2228f-6973-ae6c-1477-41a07557b7a2%28Office.15%29.aspx)
 

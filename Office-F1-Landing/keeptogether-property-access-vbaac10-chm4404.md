@@ -1,5 +1,5 @@
 ---
-title: Propiedad KeepTogether, Access [vbaac10.chm4404]
+title: KeepTogether Property, Access [vbaac10.chm4404]
 keywords: vbaac10.chm4404
 f1_keywords:
 - vbaac10.chm4404
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# KeepTogether Property, Access [vbaac10.chm4404]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad KeepTogether, Access [vbaac10.chm4404]
+[GroupLevel.KeepTogether Property (Access)](http://msdn.microsoft.com/library/65bc99df-7b0f-ec66-5add-0943ef0cd1f3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Section.KeepTogether Property (Access)](http://msdn.microsoft.com/library/dbe3780b-2150-4b4c-d8bf-5685ab48181e%28Office.15%29.aspx)
 
-
- [Propiedad GroupLevel.KeepTogether (Access)](http://msdn.microsoft.com/library/grouplevel.keeptogether-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Section.KeepTogether (Access)](http://msdn.microsoft.com/library/section.keeptogether-property-access%28Office.15%29.aspx)
 

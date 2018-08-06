@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumberFormat, Excel [vbagr10.chm3077555]
+title: NumberFormat Property, Excel [vbagr10.chm3077555]
 keywords: vbagr10.chm3077555
 f1_keywords:
 - vbagr10.chm3077555
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NumberFormat Property, Excel [vbagr10.chm3077555]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumberFormat, Excel [vbagr10.chm3077555]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [NumberFormat (propiedad)](http://msdn.microsoft.com/library/numberformat-property%28Office.15%29.aspx)
-
+[NumberFormat Property](http://msdn.microsoft.com/library/0a8b652a-6c8d-d4bd-4e93-e62ca86e6053%28Office.15%29.aspx)
 

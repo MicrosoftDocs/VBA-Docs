@@ -1,5 +1,5 @@
 ---
-title: Definición duplicada, Office Shared [vblr6.chm1011131]
+title: Duplicate definition, Office Shared [vblr6.chm1011131]
 keywords: vblr6.chm1011131
 f1_keywords:
 - vblr6.chm1011131
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Duplicate definition, Office Shared [vblr6.chm1011131]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Definición duplicada, Office Shared [vblr6.chm1011131]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Definición duplicada](http://msdn.microsoft.com/library/duplicate-definition%28Office.15%29.aspx)
-
+[Duplicate definition](http://msdn.microsoft.com/library/8e9f8532-28fa-8244-939a-40eeee372312%28Office.15%29.aspx)
 

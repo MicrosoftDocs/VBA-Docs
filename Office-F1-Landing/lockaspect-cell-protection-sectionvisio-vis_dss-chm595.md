@@ -1,5 +1,5 @@
 ---
-title: Celda LockAspect (sección Protección), Visio [Vis_DSS.chm595]
+title: LockAspect Cell (Protection Section), Visio [Vis_DSS.chm595]
 keywords: vis_dss.chm595
 f1_keywords:
 - vis_dss.chm595
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockAspect Cell (Protection Section), Visio [Vis_DSS.chm595]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockAspect (sección Protección), Visio [Vis_DSS.chm595]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockAspect (Sección de protección)](http://msdn.microsoft.com/library/lockaspect-cell-protection-section%28Office.15%29.aspx)
-
+[LockAspect Cell (Protection Section)](http://msdn.microsoft.com/library/e9bfced5-af29-f86c-8604-44ec9a573229%28Office.15%29.aspx)
 

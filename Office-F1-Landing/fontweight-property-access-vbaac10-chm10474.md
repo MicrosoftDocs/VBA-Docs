@@ -1,5 +1,5 @@
 ---
-title: Propiedad FontWeight, Access [vbaac10.chm10474]
+title: FontWeight Property, Access [vbaac10.chm10474]
 keywords: vbaac10.chm10474
 f1_keywords:
 - vbaac10.chm10474
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FontWeight Property, Access [vbaac10.chm10474]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FontWeight, Access [vbaac10.chm10474]
+[NavigationButton.FontWeight Property (Access)](http://msdn.microsoft.com/library/23b07172-e1da-bd97-0515-a6c52da4636a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.FontWeight Property (Access)](http://msdn.microsoft.com/library/a7c0b157-c25c-24e5-b05d-cc8ab726ac7b%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.FontWeight (Access)](http://msdn.microsoft.com/library/navigationbutton.fontweight-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.FontWeight (Access)](http://msdn.microsoft.com/library/commandbutton.fontweight-property-access%28Office.15%29.aspx)
 

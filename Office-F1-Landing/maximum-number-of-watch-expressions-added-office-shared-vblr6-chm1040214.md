@@ -1,5 +1,5 @@
 ---
-title: Se ha alcanzado el número máximo de expresiones de inspección, Office Shared [vblr6.chm1040214]
+title: Maximum number of watch expressions added, Office Shared [vblr6.chm1040214]
 keywords: vblr6.chm1040214
 f1_keywords:
 - vblr6.chm1040214
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Maximum number of watch expressions added, Office Shared [vblr6.chm1040214]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se ha alcanzado el número máximo de expresiones de inspección, Office Shared [vblr6.chm1040214]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se ha agregado el número máximo de expresiones de inspección](http://msdn.microsoft.com/library/maximum-number-of-watch-expressions-added%28Office.15%29.aspx)
-
+[Maximum number of watch expressions added](http://msdn.microsoft.com/library/eab74d57-80bd-da4b-a114-8f1c7b8f2cfc%28Office.15%29.aspx)
 

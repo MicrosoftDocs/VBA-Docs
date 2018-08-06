@@ -1,5 +1,5 @@
 ---
-title: Celda EventDrop (sección Events), Visio [Vis_DSS.chm82251314]
+title: EventDrop Cell (Events Section), Visio [Vis_DSS.chm82251314]
 keywords: vis_dss.chm82251314
 f1_keywords:
 - vis_dss.chm82251314
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EventDrop Cell (Events Section), Visio [Vis_DSS.chm82251314]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EventDrop (sección Events), Visio [Vis_DSS.chm82251314]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EventDrop (Sección de eventos)](http://msdn.microsoft.com/library/eventdrop-cell-events-section%28Office.15%29.aspx)
-
+[EventDrop Cell (Events Section)](http://msdn.microsoft.com/library/f84afe83-8391-0c13-f442-ea8794b38642%28Office.15%29.aspx)
 

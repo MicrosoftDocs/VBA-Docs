@@ -1,5 +1,5 @@
 ---
-title: Propiedad Cycle, Office Shared [fm20.chm2001060]
+title: Cycle Property, Office Shared [fm20.chm2001060]
 keywords: fm20.chm2001060
 f1_keywords:
 - fm20.chm2001060
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Cycle Property, Office Shared [fm20.chm2001060]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Cycle, Office Shared [fm20.chm2001060]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Cycle](http://msdn.microsoft.com/library/cycle-property%28Office.15%29.aspx)
-
+[Cycle Property](http://msdn.microsoft.com/library/8521df23-57d6-bcec-6d4e-ff77991b26f4%28Office.15%29.aspx)
 

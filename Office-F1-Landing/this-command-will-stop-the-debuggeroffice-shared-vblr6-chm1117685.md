@@ -1,5 +1,5 @@
 ---
-title: Este comando detendrá al depurador, Office Shared [vblr6.chm1117685]
+title: This command will stop the debugger., Office Shared [vblr6.chm1117685]
 keywords: vblr6.chm1117685
 f1_keywords:
 - vblr6.chm1117685
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# This command will stop the debugger., Office Shared [vblr6.chm1117685]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Este comando detendrá al depurador, Office Shared [vblr6.chm1117685]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Este comando detendrá el depurador.](http://msdn.microsoft.com/library/this-command-will-stop-the-debugger.%28Office.15%29.aspx)
-
+[This command will stop the debugger.](http://msdn.microsoft.com/library/bd870302-7f40-7476-f1df-ce2bc3e4d567%28Office.15%29.aspx)
 

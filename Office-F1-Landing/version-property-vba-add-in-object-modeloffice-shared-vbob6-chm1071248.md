@@ -1,5 +1,5 @@
 ---
-title: Propiedad Version (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071248]
+title: Version Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071248]
 keywords: vbob6.chm1071248
 f1_keywords:
 - vbob6.chm1071248
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Version Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071248]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Version (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071248]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Version (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/version-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Version Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/22708302-c901-b68b-e77d-d37fb477f819%28Office.15%29.aspx)
 

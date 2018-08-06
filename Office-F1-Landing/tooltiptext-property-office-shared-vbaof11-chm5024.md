@@ -1,5 +1,5 @@
 ---
-title: Propiedad TooltipText, Office Shared [vbaof11.chm5024]
+title: TooltipText Property, Office Shared [vbaof11.chm5024]
 keywords: vbaof11.chm5024
 f1_keywords:
 - vbaof11.chm5024
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# TooltipText Property, Office Shared [vbaof11.chm5024]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TooltipText, Office Shared [vbaof11.chm5024]
+[CommandBarPopup.TooltipText Property (Office)](http://msdn.microsoft.com/library/4b2d39b5-3fcd-0478-51ae-098094a8a4c6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarControl.TooltipText Property (Office)](http://msdn.microsoft.com/library/03e51dbd-0d5a-5094-545f-4a98a6508b4d%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarPopup.TooltipText (Office)](http://msdn.microsoft.com/library/commandbarpopup.tooltiptext-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.TooltipText (Office)](http://msdn.microsoft.com/library/commandbarcontrol.tooltiptext-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.TooltipText (Office)](http://msdn.microsoft.com/library/commandbarcombobox.tooltiptext-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarButton.TooltipText (Office)](http://msdn.microsoft.com/library/commandbarbutton.tooltiptext-property-office%28Office.15%29.aspx)
-
+[CommandBarComboBox.TooltipText Property (Office)](http://msdn.microsoft.com/library/65bfb3ff-a36e-dfd5-4ae0-4d2ccfb69000%28Office.15%29.aspx)
+[CommandBarButton.TooltipText Property (Office)](http://msdn.microsoft.com/library/12126126-f8b6-e8a4-3d32-4d5604928e8a%28Office.15%29.aspx)
 

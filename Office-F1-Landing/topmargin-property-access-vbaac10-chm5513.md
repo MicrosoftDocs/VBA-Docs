@@ -1,5 +1,5 @@
 ---
-title: Propiedad TopMargin, Access [vbaac10.chm5513]
+title: TopMargin Property, Access [vbaac10.chm5513]
 keywords: vbaac10.chm5513
 f1_keywords:
 - vbaac10.chm5513
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# TopMargin Property, Access [vbaac10.chm5513]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TopMargin, Access [vbaac10.chm5513]
+[TextBox.TopMargin Property (Access)](http://msdn.microsoft.com/library/cd56b2b2-8bb5-b3cf-bacf-13d311e5479b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Label.TopMargin Property (Access)](http://msdn.microsoft.com/library/95432167-4b75-ba84-a75d-57ad3cab35b9%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.TopMargin (Access)](http://msdn.microsoft.com/library/textbox.topmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Label.TopMargin (Access)](http://msdn.microsoft.com/library/label.topmargin-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.TopMargin (Access)](http://msdn.microsoft.com/library/combobox.topmargin-property-access%28Office.15%29.aspx)
-
- [Propiedad Printer.TopMargin (Access)](http://msdn.microsoft.com/library/printer.topmargin-property-access%28Office.15%29.aspx)
-
+[ComboBox.TopMargin Property (Access)](http://msdn.microsoft.com/library/fe3a17d8-c345-6dc6-5b26-5fc6f06632ac%28Office.15%29.aspx)
+[Printer.TopMargin Property (Access)](http://msdn.microsoft.com/library/e0dcc6bf-14eb-17b0-df5e-c3de101b8fb7%28Office.15%29.aspx)
 

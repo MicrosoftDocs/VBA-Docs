@@ -1,5 +1,5 @@
 ---
-title: Propiedad Pie3DGroup, Excel [vbagr10.chm65557]
+title: Pie3DGroup Property, Excel [vbagr10.chm65557]
 keywords: vbagr10.chm65557
 f1_keywords:
 - vbagr10.chm65557
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Pie3DGroup Property, Excel [vbagr10.chm65557]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Pie3DGroup, Excel [vbagr10.chm65557]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Pie3DGroup (propiedad)](http://msdn.microsoft.com/library/pie3dgroup-property%28Office.15%29.aspx)
-
+[Pie3DGroup Property](http://msdn.microsoft.com/library/85e3866d-a38e-9749-c732-1e2d95a76c21%28Office.15%29.aspx)
 

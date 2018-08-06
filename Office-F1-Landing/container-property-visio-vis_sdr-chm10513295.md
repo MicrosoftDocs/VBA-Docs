@@ -1,5 +1,5 @@
 ---
-title: Propiedad Container, Visio [vis_sdr.chm10513295]
+title: Container Property, Visio [vis_sdr.chm10513295]
 keywords: vis_sdr.chm10513295
 f1_keywords:
 - vis_sdr.chm10513295
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Container Property, Visio [vis_sdr.chm10513295]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Container, Visio [vis_sdr.chm10513295]
+[Document.Container Property (Visio)](http://msdn.microsoft.com/library/a5b2c90e-f9e0-cc09-8388-566729c1c4eb%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.Container Property (Visio)](http://msdn.microsoft.com/library/aa08d0da-1823-526e-3e3f-a420adb3597c.aspx)
 
-
- [Container (propiedad)](http://msdn.microsoft.com/library/document.container-property-visio%28Office.15%29.aspx)
-
-
- [Document.Container Property (Visio)](http://msdn.microsoft.com/library/aa08d0da-1823-526e-3e3f-a420adb3597c.aspx)
 

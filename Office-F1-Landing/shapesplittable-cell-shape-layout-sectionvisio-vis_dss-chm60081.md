@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeSplittable (sección Shape Layout), Visio [Vis_DSS.chm60081]
+title: ShapeSplittable Cell (Shape Layout Section), Visio [Vis_DSS.chm60081]
 keywords: vis_dss.chm60081
 f1_keywords:
 - vis_dss.chm60081
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeSplittable Cell (Shape Layout Section), Visio [Vis_DSS.chm60081]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeSplittable (sección Shape Layout), Visio [Vis_DSS.chm60081]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeSplittable (Sección de diseño de la forma)](http://msdn.microsoft.com/library/shapesplittable-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ShapeSplittable Cell (Shape Layout Section)](http://msdn.microsoft.com/library/6330304a-71f3-62b4-1b27-14495e3f12c3%28Office.15%29.aspx)
 

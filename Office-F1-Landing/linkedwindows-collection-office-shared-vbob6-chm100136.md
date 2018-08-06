@@ -1,5 +1,5 @@
 ---
-title: Colección LinkedWindows, Office Shared [vbob6.chm100136]
+title: LinkedWindows Collection, Office Shared [vbob6.chm100136]
 keywords: vbob6.chm100136
 f1_keywords:
 - vbob6.chm100136
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LinkedWindows Collection, Office Shared [vbob6.chm100136]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección LinkedWindows, Office Shared [vbob6.chm100136]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Colección LinkedWindows (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/linkedwindows-collection-vba-add-in-object-model%28Office.15%29.aspx)
-
+[LinkedWindows Collection (VBA Add-In Object Model)](http://msdn.microsoft.com/library/182ee238-c7e5-2d8b-8144-25edd064d1e4%28Office.15%29.aspx)
 

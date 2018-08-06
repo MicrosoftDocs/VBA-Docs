@@ -1,5 +1,5 @@
 ---
-title: Control de imagen (Misc), Access [vbaac10.chm4064]
+title: Image Control (Misc), Access [vbaac10.chm4064]
 keywords: vbaac10.chm4064
 f1_keywords:
 - vbaac10.chm4064
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Image Control (Misc), Access [vbaac10.chm4064]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control de imagen (Misc), Access [vbaac10.chm4064]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control de imagen (Misc)](http://msdn.microsoft.com/library/image-control-misc%28Office.15%29.aspx)
-
+[Image Control (Misc)](http://msdn.microsoft.com/library/1f938a6e-7aea-7787-d959-e21edaa9342c%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: La propiedad Get no se puede ejecutar en el tiempo de ejecución (error 393), Office Shared [vblr6.chm1000393]
+title: Property Get can't be executed at run time (Error 393), Office Shared [vblr6.chm1000393]
 keywords: vblr6.chm1000393
 f1_keywords:
 - vblr6.chm1000393
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property Get can't be executed at run time (Error 393), Office Shared [vblr6.chm1000393]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La propiedad Get no se puede ejecutar en el tiempo de ejecución (error 393), Office Shared [vblr6.chm1000393]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad Get no se puede ejecutar en tiempo de ejecución (error 393)](http://msdn.microsoft.com/library/property-get-can-t-be-executed-at-run-time-error-393%28Office.15%29.aspx)
-
+[Property Get can't be executed at run time (Error 393)](http://msdn.microsoft.com/library/df26284d-ce9f-2b77-43b9-4d27e16e5750%28Office.15%29.aspx)
 

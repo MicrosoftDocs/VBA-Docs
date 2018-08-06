@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineStyleRight, Access [vbaac10.chm11158]
+title: GridlineStyleRight Property, Access [vbaac10.chm11158]
 keywords: vbaac10.chm11158
 f1_keywords:
 - vbaac10.chm11158
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineStyleRight Property, Access [vbaac10.chm11158]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineStyleRight, Access [vbaac10.chm11158]
+[NavigationControl.GridlineStyleRight Property (Access)](http://msdn.microsoft.com/library/88e8a163-84ef-8f4c-f7b2-6dd2783389d1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.GridlineStyleRight Property (Access)](http://msdn.microsoft.com/library/c841157d-6e8d-8cd4-e23a-77d00d0af8e6%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.GridlineStyleRight (Access)](http://msdn.microsoft.com/library/navigationcontrol.gridlinestyleright-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.GridlineStyleRight (Access)](http://msdn.microsoft.com/library/textbox.gridlinestyleright-property-access%28Office.15%29.aspx)
 

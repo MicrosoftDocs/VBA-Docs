@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShortcutMenu, Access [vbaac10.chm13387]
+title: ShortcutMenu Property, Access [vbaac10.chm13387]
 keywords: vbaac10.chm13387
 f1_keywords:
 - vbaac10.chm13387
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShortcutMenu Property, Access [vbaac10.chm13387]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShortcutMenu, Access [vbaac10.chm13387]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.ShortcutMenu (Access)](http://msdn.microsoft.com/library/form.shortcutmenu-property-access%28Office.15%29.aspx)
-
+[Form.ShortcutMenu Property (Access)](http://msdn.microsoft.com/library/ec652f43-4dc8-4970-19ad-d117c3193528%28Office.15%29.aspx)
 

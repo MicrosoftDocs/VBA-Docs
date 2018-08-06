@@ -1,5 +1,5 @@
 ---
-title: ¿Desea exportar el objeto especificado antes de quitarlo?, Office Shared [vblr6.chm60080]
+title: Do you want to export specified object before removing it?, Office Shared [vblr6.chm60080]
 keywords: vblr6.chm60080
 f1_keywords:
 - vblr6.chm60080
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Do you want to export specified object before removing it?, Office Shared [vblr6.chm60080]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# ¿Desea exportar el objeto especificado antes de quitarlo?, Office Shared [vblr6.chm60080]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [¿Desea exportar el objeto especificado antes de quitarlo?](http://msdn.microsoft.com/library/do-you-want-to-export-specified-object-before-removing-it%28Office.15%29.aspx)
-
+[Do you want to export specified object before removing it?](http://msdn.microsoft.com/library/b4d59611-58ee-de9b-488e-bde1be850d31%28Office.15%29.aspx)
 

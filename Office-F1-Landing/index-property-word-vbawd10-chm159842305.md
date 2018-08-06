@@ -1,5 +1,5 @@
 ---
-title: Propiedad Index, Word [vbawd10.chm159842305]
+title: Index Property, Word [vbawd10.chm159842305]
 keywords: vbawd10.chm159842305
 f1_keywords:
 - vbawd10.chm159842305
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Index Property, Word [vbawd10.chm159842305]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Index, Word [vbawd10.chm159842305]
+[PageNumber.Index Property (Word)](http://msdn.microsoft.com/library/28e6a567-922c-66c5-73b0-4798e615f87b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BuildingBlocks.Count Property (Word)](http://msdn.microsoft.com/library/44a4d5ec-4333-6b13-cd26-f7b9b273ba65%28Office.15%29.aspx)
 
-
- [Propiedad PageNumber.Index (Word)](http://msdn.microsoft.com/library/pagenumber.index-property-word%28Office.15%29.aspx)
-
-
- [Propiedad BuildingBlocks.Count (Word)](http://msdn.microsoft.com/library/buildingblocks.count-property-word%28Office.15%29.aspx)
 

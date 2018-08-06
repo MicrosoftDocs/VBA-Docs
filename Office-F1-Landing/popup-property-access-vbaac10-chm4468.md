@@ -1,5 +1,5 @@
 ---
-title: Propiedad PopUp, Access [vbaac10.chm4468]
+title: PopUp Property, Access [vbaac10.chm4468]
 keywords: vbaac10.chm4468
 f1_keywords:
 - vbaac10.chm4468
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PopUp Property, Access [vbaac10.chm4468]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PopUp, Access [vbaac10.chm4468]
+[Form.PopUp Property (Access)](http://msdn.microsoft.com/library/0ccaa174-80e2-5ca3-9614-93b12dc1bfcd%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.PopUp Property (Access)](http://msdn.microsoft.com/library/76e82181-c5d5-01b2-c7ce-b2c78f237a75%28Office.15%29.aspx)
 
-
- [Propiedad Form.PopUp (Access)](http://msdn.microsoft.com/library/form.popup-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.Popup (Access)](http://msdn.microsoft.com/library/report.popup-property-access%28Office.15%29.aspx)
 

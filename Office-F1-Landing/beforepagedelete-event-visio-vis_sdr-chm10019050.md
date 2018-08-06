@@ -1,5 +1,5 @@
 ---
-title: Evento BeforePageDelete, Visio [vis_sdr.chm10019050]
+title: BeforePageDelete Event, Visio [vis_sdr.chm10019050]
 keywords: vis_sdr.chm10019050
 f1_keywords:
 - vis_sdr.chm10019050
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforePageDelete Event, Visio [vis_sdr.chm10019050]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforePageDelete, Visio [vis_sdr.chm10019050]
+[InvisibleApp.BeforePageDelete Event (Visio)](http://msdn.microsoft.com/library/dc7a6fde-1794-b91f-0990-391a78c6039c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforePageDelete Event (Visio)](http://msdn.microsoft.com/library/658e3367-2f5b-e2d4-6c07-9b4463ee500a%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforePageDelete (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforepagedelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforePageDelete (Visio)](http://msdn.microsoft.com/library/application.beforepagedelete-event-visio%28Office.15%29.aspx)
 

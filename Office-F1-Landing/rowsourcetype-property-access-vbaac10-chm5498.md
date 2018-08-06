@@ -1,5 +1,5 @@
 ---
-title: Propiedad RowSourceType, Access [vbaac10.chm5498]
+title: RowSourceType Property, Access [vbaac10.chm5498]
 keywords: vbaac10.chm5498
 f1_keywords:
 - vbaac10.chm5498
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# RowSourceType Property, Access [vbaac10.chm5498]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RowSourceType, Access [vbaac10.chm5498]
+[ComboBox.RowSourceType Property (Access)](http://msdn.microsoft.com/library/dd1d6ea8-5479-4bf9-3317-0b95282c7d74%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ListBox.RowSourceType Property (Access)](http://msdn.microsoft.com/library/a98a44d4-b2a5-d591-9295-3222d708ee88%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.RowSourceType (Access)](http://msdn.microsoft.com/library/combobox.rowsourcetype-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ListBox.RowSourceType (Access)](http://msdn.microsoft.com/library/listbox.rowsourcetype-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ObjectFrame.RowSourceType (Access)](http://msdn.microsoft.com/library/objectframe.rowsourcetype-property-access%28Office.15%29.aspx)
-
+[ObjectFrame.RowSourceType Property (Access)](http://msdn.microsoft.com/library/d450ce8b-c2e9-f51b-61af-b46a64ab7d32%28Office.15%29.aspx)
 

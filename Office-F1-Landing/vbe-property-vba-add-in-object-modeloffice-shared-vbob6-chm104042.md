@@ -1,5 +1,5 @@
 ---
-title: Propiedad VBE (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104042]
+title: VBE Property (VBA Add-In Object Model), Office Shared [vbob6.chm104042]
 keywords: vbob6.chm104042
 f1_keywords:
 - vbob6.chm104042
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VBE Property (VBA Add-In Object Model), Office Shared [vbob6.chm104042]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad VBE (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104042]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad VBE (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/vbe-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[VBE Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/da3afc6a-7c41-7cf6-d47c-1472f3903aea%28Office.15%29.aspx)
 

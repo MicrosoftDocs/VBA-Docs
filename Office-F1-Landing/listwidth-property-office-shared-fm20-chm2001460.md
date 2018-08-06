@@ -1,5 +1,5 @@
 ---
-title: Propiedad ListWidth, Office Shared [fm20.chm2001460]
+title: ListWidth Property, Office Shared [fm20.chm2001460]
 keywords: fm20.chm2001460
 f1_keywords:
 - fm20.chm2001460
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ListWidth Property, Office Shared [fm20.chm2001460]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ListWidth, Office Shared [fm20.chm2001460]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ListWidth](http://msdn.microsoft.com/library/listwidth-property%28Office.15%29.aspx)
-
+[ListWidth Property](http://msdn.microsoft.com/library/f06bcc8b-cb11-b89c-1d15-f5adfbf24dc2%28Office.15%29.aspx)
 

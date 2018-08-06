@@ -1,5 +1,5 @@
 ---
-title: Método DeleteReplacement, Excel [vbagr10.chm5207303]
+title: DeleteReplacement Method, Excel [vbagr10.chm5207303]
 keywords: vbagr10.chm5207303
 f1_keywords:
 - vbagr10.chm5207303
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DeleteReplacement Method, Excel [vbagr10.chm5207303]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DeleteReplacement, Excel [vbagr10.chm5207303]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método DeleteReplacement](http://msdn.microsoft.com/library/deletereplacement-method%28Office.15%29.aspx)
-
+[DeleteReplacement Method](http://msdn.microsoft.com/library/d82693f6-5275-2473-55e8-2b3cc156d702%28Office.15%29.aspx)
 

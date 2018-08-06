@@ -1,5 +1,5 @@
 ---
-title: Objeto SubForm, Access [vbaac10.chm11985]
+title: SubForm Object, Access [vbaac10.chm11985]
 keywords: vbaac10.chm11985
 f1_keywords:
 - vbaac10.chm11985
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# SubForm Object, Access [vbaac10.chm11985]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto SubForm, Access [vbaac10.chm11985]
+[SubForm Object (Access)](http://msdn.microsoft.com/library/60f961fa-dcf4-e1d1-8c50-9e88963f9dec%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[SubForm.Exit Event (Access)](http://msdn.microsoft.com/library/f925a6da-33cd-a1dd-1ad7-b11504c574fd%28Office.15%29.aspx)
 
-
- [Objeto SubForm (Access)](http://msdn.microsoft.com/library/subform-object-access%28Office.15%29.aspx)
-
-
- [Evento SubForm.Exit (Access)](http://msdn.microsoft.com/library/subform.exit-event-access%28Office.15%29.aspx)
-
-
- [Evento SubForm.Enter (Access)](http://msdn.microsoft.com/library/subform.enter-event-access%28Office.15%29.aspx)
-
+[SubForm.Enter Event (Access)](http://msdn.microsoft.com/library/9b5e717c-2f48-c74f-c3fd-eea9004bc9f9%28Office.15%29.aspx)
 

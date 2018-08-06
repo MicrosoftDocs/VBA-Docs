@@ -1,5 +1,5 @@
 ---
-title: Propiedad Caption (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1100296]
+title: Caption Property (VBA Add-In Object Model), Office Shared [vbob6.chm1100296]
 keywords: vbob6.chm1100296
 f1_keywords:
 - vbob6.chm1100296
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Caption Property (VBA Add-In Object Model), Office Shared [vbob6.chm1100296]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Caption (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1100296]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Caption (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/caption-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Caption Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/2b6696c4-830f-59eb-70a1-badd5d5ee47a%28Office.15%29.aspx)
 

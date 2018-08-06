@@ -1,5 +1,5 @@
 ---
-title: Sección Celdas definidas por el usuario, Visio [Vis_DSS.chm82251377]
+title: User-defined Cells Section, Visio [Vis_DSS.chm82251377]
 keywords: vis_dss.chm82251377
 f1_keywords:
 - vis_dss.chm82251377
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# User-defined Cells Section, Visio [Vis_DSS.chm82251377]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Celdas definidas por el usuario, Visio [Vis_DSS.chm82251377]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de celdas definidas por el usuario](http://msdn.microsoft.com/library/user-defined-cells-section%28Office.15%29.aspx)
-
+[User-defined Cells Section](http://msdn.microsoft.com/library/5630b446-5668-f7c1-1e34-6d4f84600f7f%28Office.15%29.aspx)
 

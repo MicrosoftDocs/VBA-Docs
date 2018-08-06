@@ -1,5 +1,5 @@
 ---
-title: Método StartNewUndoEntry, PowerPoint [vbapp10.chm502068]
+title: StartNewUndoEntry Method, PowerPoint [vbapp10.chm502068]
 keywords: vbapp10.chm502068
 f1_keywords:
 - vbapp10.chm502068
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# StartNewUndoEntry Method, PowerPoint [vbapp10.chm502068]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método StartNewUndoEntry, PowerPoint [vbapp10.chm502068]
+[Application.StartNewUndoEntry Method (PowerPoint)](http://msdn.microsoft.com/library/7f4f2236-6e6a-11e9-20b5-0fca5c126330%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.HideChartDraftModeNotification Property (PowerPoint)](http://msdn.microsoft.com/library/374a6720-4a7b-f6f6-3620-5747c502087b%28Office.15%29.aspx)
 
-
- [Método Application.StartNewUndoEntry (PowerPoint)](http://msdn.microsoft.com/library/application.startnewundoentry-method-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Application.HideChartDraftModeNotification (PowerPoint)](http://msdn.microsoft.com/library/374a6720-4a7b-f6f6-3620-5747c502087b%28Office.15%29.aspx)
 

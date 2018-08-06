@@ -1,5 +1,5 @@
 ---
-title: Método Remove, Office Shared [fm20.chm5224967]
+title: Remove Method, Office Shared [fm20.chm5224967]
 keywords: fm20.chm5224967
 f1_keywords:
 - fm20.chm5224967
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Remove Method, Office Shared [fm20.chm5224967]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Remove, Office Shared [fm20.chm5224967]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Remove](http://msdn.microsoft.com/library/remove-method%28Office.15%29.aspx)
-
+[Remove Method](http://msdn.microsoft.com/library/16ee4145-3e1e-9e44-7af1-2ecd3a92c9e3%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento ItemRemoved, Access [vbaac10.chm12648]
+title: ItemRemoved Event, Access [vbaac10.chm12648]
 keywords: vbaac10.chm12648
 f1_keywords:
 - vbaac10.chm12648
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# ItemRemoved Event, Access [vbaac10.chm12648]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ItemRemoved, Access [vbaac10.chm12648]
+[References.ItemRemoved Event (Access)](http://msdn.microsoft.com/library/19498b96-5e92-8a7a-512a-95a89b878eb2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[References.ItemAdded Event (Access)](http://msdn.microsoft.com/library/c84b2bd3-42ce-be34-8a5c-ad3cdf1c3f63%28Office.15%29.aspx)
 
-
- [Evento References.ItemRemoved (Access)](http://msdn.microsoft.com/library/references.itemremoved-event-access%28Office.15%29.aspx)
-
-
- [Evento References.ItemAdded (Access)](http://msdn.microsoft.com/library/references.itemadded-event-access%28Office.15%29.aspx)
-
-
- [Objeto References (acceso)](http://msdn.microsoft.com/library/references-object-access%28Office.15%29.aspx)
-
+[References Object (Access)](http://msdn.microsoft.com/library/ac020382-4ece-f138-d1b9-d05b0fe0f523%28Office.15%29.aspx)
 

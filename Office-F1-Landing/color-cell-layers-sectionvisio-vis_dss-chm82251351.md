@@ -1,5 +1,5 @@
 ---
-title: Celda Color (sección Capas), Visio [Vis_DSS.chm82251351]
+title: Color Cell (Layers Section), Visio [Vis_DSS.chm82251351]
 keywords: vis_dss.chm82251351
 f1_keywords:
 - vis_dss.chm82251351
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Color Cell (Layers Section), Visio [Vis_DSS.chm82251351]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Color (sección Capas), Visio [Vis_DSS.chm82251351]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Color (Sección de capas)](http://msdn.microsoft.com/library/color-cell-layers-section%28Office.15%29.aspx)
-
+[Color Cell (Layers Section)](http://msdn.microsoft.com/library/61c19342-46fb-48d4-6375-c9ea8306286d%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda LockVtxEdit (sección Protection), Visio [vis_sdr.chm670]
+title: LockVtxEdit Cell (Protection Section), Visio [vis_sdr.chm670]
 keywords: vis_sdr.chm670
 f1_keywords:
 - vis_sdr.chm670
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockVtxEdit Cell (Protection Section), Visio [vis_sdr.chm670]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockVtxEdit (sección Protection), Visio [vis_sdr.chm670]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockVtxEdit (Sección de protección)](http://msdn.microsoft.com/library/lockvtxedit-cell-protection-section%28Office.15%29.aspx)
-
+[LockVtxEdit Cell (Protection Section)](http://msdn.microsoft.com/library/966cde5c-f04e-7149-3660-720ffa4f7079%28Office.15%29.aspx)
 

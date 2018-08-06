@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelPageDelete, Visio [vis_sdr.chm10019315]
+title: QueryCancelPageDelete Event, Visio [vis_sdr.chm10019315]
 keywords: vis_sdr.chm10019315
 f1_keywords:
 - vis_sdr.chm10019315
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelPageDelete Event, Visio [vis_sdr.chm10019315]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelPageDelete, Visio [vis_sdr.chm10019315]
+[InvisibleApp.QueryCancelPageDelete Event (Visio)](http://msdn.microsoft.com/library/d3dd09f7-b3b8-cc99-c060-09a9c06c36a3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.QueryCancelPageDelete Event (Visio)](http://msdn.microsoft.com/library/81e9ab8a-5060-9ebf-52c7-e22ed45487f1%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.QueryCancelPageDelete (Visio)](http://msdn.microsoft.com/library/invisibleapp.querycancelpagedelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.QueryCancelPageDelete (Visio)](http://msdn.microsoft.com/library/application.querycancelpagedelete-event-visio%28Office.15%29.aspx)
 

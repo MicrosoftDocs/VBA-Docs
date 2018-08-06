@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Controles adicionales, Office Shared [fm20.chm5225279]
+title: The Additional Controls dialog box, Office Shared [fm20.chm5225279]
 keywords: fm20.chm5225279
 f1_keywords:
 - fm20.chm5225279
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The Additional Controls dialog box, Office Shared [fm20.chm5225279]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Controles adicionales, Office Shared [fm20.chm5225279]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El cuadro de diálogo Controles adicionales (Microsoft Forms)](http://msdn.microsoft.com/library/the-additional-controls-dialog-box-microsoft-forms%28Office.15%29.aspx)
-
+[The Additional Controls dialog box (Microsoft Forms)](http://msdn.microsoft.com/library/e674802f-88ad-9406-3a06-485d023585d1%28Office.15%29.aspx)
 

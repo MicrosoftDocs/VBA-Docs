@@ -1,5 +1,5 @@
 ---
-title: Función RIGHT, Visio [Vis_DSS.chm60111]
+title: RIGHT Function, Visio [Vis_DSS.chm60111]
 keywords: vis_dss.chm60111
 f1_keywords:
 - vis_dss.chm60111
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RIGHT Function, Visio [Vis_DSS.chm60111]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función RIGHT, Visio [Vis_DSS.chm60111]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función de la derecha (VisioShapeSheet)](http://msdn.microsoft.com/library/right-function-visioshapesheet%28Office.15%29.aspx)
-
+[RIGHT Function (VisioShapeSheet)](http://msdn.microsoft.com/library/910f0297-d588-2048-f308-03f3c2389bba%28Office.15%29.aspx)
 

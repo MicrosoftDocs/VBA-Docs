@@ -1,5 +1,5 @@
 ---
-title: Sección 1-D Endpoints, Visio [vis_sdr.chm2000]
+title: 1-D Endpoints Section, Visio [vis_sdr.chm2000]
 keywords: vis_sdr.chm2000
 f1_keywords:
 - vis_sdr.chm2000
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 1-D Endpoints Section, Visio [vis_sdr.chm2000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección 1-D Endpoints, Visio [vis_sdr.chm2000]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de extremos 1D](http://msdn.microsoft.com/library/1-d-endpoints-section%28Office.15%29.aspx)
-
+[1-D Endpoints Section](http://msdn.microsoft.com/library/527fa1e1-fb4d-0e56-eab6-ee880de8d140%28Office.15%29.aspx)
 

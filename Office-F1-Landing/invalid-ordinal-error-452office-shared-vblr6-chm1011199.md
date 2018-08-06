@@ -1,5 +1,5 @@
 ---
-title: Ordinal no válido (error 452), Office Shared [vblr6.chm1011199]
+title: Invalid ordinal (Error 452), Office Shared [vblr6.chm1011199]
 keywords: vblr6.chm1011199
 f1_keywords:
 - vblr6.chm1011199
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid ordinal (Error 452), Office Shared [vblr6.chm1011199]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ordinal no válido (error 452), Office Shared [vblr6.chm1011199]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Ordinal no válido (error 452)](http://msdn.microsoft.com/library/invalid-ordinal-error-452%28Office.15%29.aspx)
-
+[Invalid ordinal (Error 452)](http://msdn.microsoft.com/library/10f033c8-d76e-710d-4014-ba2d171745a9%28Office.15%29.aspx)
 

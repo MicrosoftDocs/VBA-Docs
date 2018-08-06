@@ -1,5 +1,5 @@
 ---
-title: Propiedad MultiRow, Access [vbaac10.chm4431]
+title: MultiRow Property, Access [vbaac10.chm4431]
 keywords: vbaac10.chm4431
 f1_keywords:
 - vbaac10.chm4431
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MultiRow Property, Access [vbaac10.chm4431]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MultiRow, Access [vbaac10.chm4431]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TabControl.MultiRow (Access)](http://msdn.microsoft.com/library/tabcontrol.multirow-property-access%28Office.15%29.aspx)
-
+[TabControl.MultiRow Property (Access)](http://msdn.microsoft.com/library/b5c3a830-d0df-7cbc-c83b-4b93bced8cd7%28Office.15%29.aspx)
 

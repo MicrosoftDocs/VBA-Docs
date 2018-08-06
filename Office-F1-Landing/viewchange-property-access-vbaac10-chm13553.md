@@ -1,5 +1,5 @@
 ---
-title: Propiedad ViewChange, Access [vbaac10.chm13553]
+title: ViewChange Property, Access [vbaac10.chm13553]
 keywords: vbaac10.chm13553
 f1_keywords:
 - vbaac10.chm13553
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ViewChange Property, Access [vbaac10.chm13553]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ViewChange, Access [vbaac10.chm13553]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.ViewChange (Access)](http://msdn.microsoft.com/library/form.viewchange-property-access%28Office.15%29.aspx)
-
+[Form.ViewChange Property (Access)](http://msdn.microsoft.com/library/f8a8fe82-6983-5632-b779-879faf228ac2%28Office.15%29.aspx)
 

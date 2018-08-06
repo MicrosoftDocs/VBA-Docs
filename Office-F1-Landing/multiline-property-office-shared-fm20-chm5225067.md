@@ -1,5 +1,5 @@
 ---
-title: Propiedad MultiLine, Office Shared [fm20.chm5225067]
+title: MultiLine Property, Office Shared [fm20.chm5225067]
 keywords: fm20.chm5225067
 f1_keywords:
 - fm20.chm5225067
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MultiLine Property, Office Shared [fm20.chm5225067]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MultiLine, Office Shared [fm20.chm5225067]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MultiLine](http://msdn.microsoft.com/library/multiline-property%28Office.15%29.aspx)
-
+[MultiLine Property](http://msdn.microsoft.com/library/eadbbea9-f4ab-bb60-dff8-950d03b70842%28Office.15%29.aspx)
 

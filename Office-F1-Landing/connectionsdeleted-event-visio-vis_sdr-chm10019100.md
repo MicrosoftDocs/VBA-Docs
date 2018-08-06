@@ -1,5 +1,5 @@
 ---
-title: Evento ConnectionsDeleted, Visio [vis_sdr.chm10019100]
+title: ConnectionsDeleted Event, Visio [vis_sdr.chm10019100]
 keywords: vis_sdr.chm10019100
 f1_keywords:
 - vis_sdr.chm10019100
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ConnectionsDeleted Event, Visio [vis_sdr.chm10019100]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ConnectionsDeleted, Visio [vis_sdr.chm10019100]
+[Application.ConnectionsDeleted Event (Visio)](http://msdn.microsoft.com/library/9578be17-8c77-9454-c8a8-1e02fa6516b2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.ConnectionsDeleted Event (Visio)](http://msdn.microsoft.com/library/88505099-3b7d-bf02-cc3d-d56bc436e63f%28Office.15%29.aspx)
 
-
- [Evento Application.ConnectionsDeleted (Visio)](http://msdn.microsoft.com/library/application.connectionsdeleted-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.ConnectionsDeleted (Visio)](http://msdn.microsoft.com/library/invisibleapp.connectionsdeleted-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Index, PowerPoint [vbapp10.chm66022]
+title: Index Property, PowerPoint [vbapp10.chm66022]
 keywords: vbapp10.chm66022
 f1_keywords:
 - vbapp10.chm66022
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Index Property, PowerPoint [vbapp10.chm66022]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Index, PowerPoint [vbapp10.chm66022]
+[LegendEntry.Index Property (PowerPoint)](http://msdn.microsoft.com/library/99e0b634-1782-e87b-6b8e-73d58d020135%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Trendline.Index Property (PowerPoint)](http://msdn.microsoft.com/library/389945bc-3115-6244-1d5a-79961bf8ca68%28Office.15%29.aspx)
 
-
- [Propiedad LegendEntry.Index (PowerPoint)](http://msdn.microsoft.com/library/legendentry.index-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Trendline.Index (PowerPoint)](http://msdn.microsoft.com/library/trendline.index-property-powerpoint%28Office.15%29.aspx)
 

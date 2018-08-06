@@ -1,5 +1,5 @@
 ---
-title: Esta matriz es fija o está bloqueada temporalmente (error 10), Office Shared [vblr6.chm1000010]
+title: This array is fixed or temporarily locked (Error 10), Office Shared [vblr6.chm1000010]
 keywords: vblr6.chm1000010
 f1_keywords:
 - vblr6.chm1000010
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# This array is fixed or temporarily locked (Error 10), Office Shared [vblr6.chm1000010]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Esta matriz es fija o está bloqueada temporalmente (error 10), Office Shared [vblr6.chm1000010]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Esta matriz se ha fijado o está bloqueada temporalmente (error 10)](http://msdn.microsoft.com/library/this-array-is-fixed-or-temporarily-locked-error-10%28Office.15%29.aspx)
-
+[This array is fixed or temporarily locked (Error 10)](http://msdn.microsoft.com/library/075c8897-c6e6-839f-a372-1e2249fc99e8%28Office.15%29.aspx)
 

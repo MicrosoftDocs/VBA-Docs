@@ -1,5 +1,5 @@
 ---
-title: Propiedad UpdateOptions, Access [vbaac10.chm4532]
+title: UpdateOptions Property, Access [vbaac10.chm4532]
 keywords: vbaac10.chm4532
 f1_keywords:
 - vbaac10.chm4532
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# UpdateOptions Property, Access [vbaac10.chm4532]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad UpdateOptions, Access [vbaac10.chm4532]
+[ObjectFrame.UpdateOptions Property (Access)](http://msdn.microsoft.com/library/29effba2-7427-62ca-c0d6-6ed5081b0e02%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.UpdateOptions Property (Access)](http://msdn.microsoft.com/library/919ad3b4-1128-947a-09c0-7c7b0373698e%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.UpdateOptions (Access)](http://msdn.microsoft.com/library/objectframe.updateoptions-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.UpdateOptions (Access)](http://msdn.microsoft.com/library/boundobjectframe.updateoptions-property-access%28Office.15%29.aspx)
 

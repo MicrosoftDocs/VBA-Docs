@@ -1,5 +1,5 @@
 ---
-title: Objeto ValidationIssues, Visio [vis_sdr.chm61085]
+title: ValidationIssues Object, Visio [vis_sdr.chm61085]
 keywords: vis_sdr.chm61085
 f1_keywords:
 - vis_sdr.chm61085
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ValidationIssues Object, Visio [vis_sdr.chm61085]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto ValidationIssues, Visio [vis_sdr.chm61085]
+[ValidationIssues Object (Visio)](http://msdn.microsoft.com/library/45e02576-fbbf-88ce-56ee-768ab59657a3.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ValidationIssues Object (Visio)](http://msdn.microsoft.com/library/13362aa2-7e09-14ed-8aa9-bf2a93edf302%28Office.15%29.aspx)
 
-
- [ValidationIssues Object (Visio)](http://msdn.microsoft.com/library/45e02576-fbbf-88ce-56ee-768ab59657a3.aspx)
-
-
- [ValidationIssues (colección)](http://msdn.microsoft.com/library/validationissues-object-visio%28Office.15%29.aspx)
 

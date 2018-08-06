@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayWhen, Access [vbaac10.chm10463]
+title: DisplayWhen Property, Access [vbaac10.chm10463]
 keywords: vbaac10.chm10463
 f1_keywords:
 - vbaac10.chm10463
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayWhen Property, Access [vbaac10.chm10463]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayWhen, Access [vbaac10.chm10463]
+[NavigationButton.DisplayWhen Property (Access)](http://msdn.microsoft.com/library/58e02cb9-b161-3116-4905-5989ce9a1f75%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.DisplayWhen Property (Access)](http://msdn.microsoft.com/library/3775036c-c483-1c2d-6845-cd999104925d%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.DisplayWhen (Access)](http://msdn.microsoft.com/library/navigationbutton.displaywhen-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.DisplayWhen (Access)](http://msdn.microsoft.com/library/commandbutton.displaywhen-property-access%28Office.15%29.aspx)
 

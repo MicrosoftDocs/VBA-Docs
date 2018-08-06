@@ -1,5 +1,5 @@
 ---
-title: El objeto de automatización no tiene ningún valor predeterminado (error 443), Office Shared [vblr6.chm1019822]
+title: Automation object doesn't have a default value (Error 443), Office Shared [vblr6.chm1019822]
 keywords: vblr6.chm1019822
 f1_keywords:
 - vblr6.chm1019822
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Automation object doesn't have a default value (Error 443), Office Shared [vblr6.chm1019822]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El objeto de automatización no tiene ningún valor predeterminado (error 443), Office Shared [vblr6.chm1019822]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto de automatización no tiene un valor predeterminado (error 443)](http://msdn.microsoft.com/library/automation-object-doesn-t-have-a-default-value-error-443%28Office.15%29.aspx)
-
+[Automation object doesn't have a default value (Error 443)](http://msdn.microsoft.com/library/da89e346-f3ff-5b24-1a70-d2eb22ef7c33%28Office.15%29.aspx)
 

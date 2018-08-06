@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnResize, Access [vbaac10.chm4104]
+title: OnResize Property, Access [vbaac10.chm4104]
 keywords: vbaac10.chm4104
 f1_keywords:
 - vbaac10.chm4104
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnResize Property, Access [vbaac10.chm4104]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnResize, Access [vbaac10.chm4104]
+[Form.OnResize Property (Access)](http://msdn.microsoft.com/library/84e6df44-53d2-19c9-e8c5-47681649c7e8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.OnResize Property (Access)](http://msdn.microsoft.com/library/336eceb4-7f78-b0b0-cb8f-a6a35c8bea76%28Office.15%29.aspx)
 
-
- [Propiedad Form.OnResize (Access)](http://msdn.microsoft.com/library/form.onresize-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.OnResize (Access)](http://msdn.microsoft.com/library/report.onresize-property-access%28Office.15%29.aspx)
 

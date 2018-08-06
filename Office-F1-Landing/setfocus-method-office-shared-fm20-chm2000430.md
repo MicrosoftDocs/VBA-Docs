@@ -1,5 +1,5 @@
 ---
-title: Método SetFocus, Office Shared [fm20.chm2000430]
+title: SetFocus Method, Office Shared [fm20.chm2000430]
 keywords: fm20.chm2000430
 f1_keywords:
 - fm20.chm2000430
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SetFocus Method, Office Shared [fm20.chm2000430]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetFocus, Office Shared [fm20.chm2000430]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método SetFocus](http://msdn.microsoft.com/library/setfocus-method%28Office.15%29.aspx)
-
+[SetFocus Method](http://msdn.microsoft.com/library/430b2404-f11f-a0b6-e3b7-4bfe513c9258%28Office.15%29.aspx)
 

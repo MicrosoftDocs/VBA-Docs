@@ -1,5 +1,5 @@
 ---
-title: Celda Y (sección Geometry), Visio [vis_sdr.chm1185]
+title: Y Cell (Geometry Section), Visio [vis_sdr.chm1185]
 keywords: vis_sdr.chm1185
 f1_keywords:
 - vis_sdr.chm1185
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Y Cell (Geometry Section), Visio [vis_sdr.chm1185]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Y (sección Geometry), Visio [vis_sdr.chm1185]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Y (Sección de geometría)](http://msdn.microsoft.com/library/y-cell-geometry-section%28Office.15%29.aspx)
-
+[Y Cell (Geometry Section)](http://msdn.microsoft.com/library/a53b5787-f419-7a36-3c04-c63b3c173ac7%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda LockFormat (sección Protection), Visio [Vis_DSS.chm625]
+title: LockFormat Cell (Protection Section), Visio [Vis_DSS.chm625]
 keywords: vis_dss.chm625
 f1_keywords:
 - vis_dss.chm625
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockFormat Cell (Protection Section), Visio [Vis_DSS.chm625]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockFormat (sección Protection), Visio [Vis_DSS.chm625]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockFormat (Sección de protección)](http://msdn.microsoft.com/library/lockformat-cell-protection-section%28Office.15%29.aspx)
-
+[LockFormat Cell (Protection Section)](http://msdn.microsoft.com/library/e9a640f4-0af0-317c-b77b-f32c651e87b4%28Office.15%29.aspx)
 

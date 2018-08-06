@@ -1,5 +1,5 @@
 ---
-title: Formato no válido en archivo de recursos (error 325), Office Shared [vblr6.chm1000325]
+title: Invalid format in resource file (Error 325), Office Shared [vblr6.chm1000325]
 keywords: vblr6.chm1000325
 f1_keywords:
 - vblr6.chm1000325
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid format in resource file (Error 325), Office Shared [vblr6.chm1000325]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Formato no válido en archivo de recursos (error 325), Office Shared [vblr6.chm1000325]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Formato no válido en el archivo de recurso (error 325)](http://msdn.microsoft.com/library/invalid-format-in-resource-file-error-325%28Office.15%29.aspx)
-
+[Invalid format in resource file (Error 325)](http://msdn.microsoft.com/library/0adbbb62-8a65-6a29-5c9e-7cd35efd0ff9%28Office.15%29.aspx)
 

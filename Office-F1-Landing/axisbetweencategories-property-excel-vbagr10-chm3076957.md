@@ -1,5 +1,5 @@
 ---
-title: Propiedad AxisBetweenCategories, Excel [vbagr10.chm3076957]
+title: AxisBetweenCategories Property, Excel [vbagr10.chm3076957]
 keywords: vbagr10.chm3076957
 f1_keywords:
 - vbagr10.chm3076957
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AxisBetweenCategories Property, Excel [vbagr10.chm3076957]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AxisBetweenCategories, Excel [vbagr10.chm3076957]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AxisBetweenCategories (propiedad)](http://msdn.microsoft.com/library/axisbetweencategories-property%28Office.15%29.aspx)
-
+[AxisBetweenCategories Property](http://msdn.microsoft.com/library/4ca52b75-036d-0851-c3cd-aa2deca0907e%28Office.15%29.aspx)
 

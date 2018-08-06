@@ -1,5 +1,5 @@
 ---
-title: Propiedad Count, Excel [vbagr10.chm5207261]
+title: Count Property, Excel [vbagr10.chm5207261]
 keywords: vbagr10.chm5207261
 f1_keywords:
 - vbagr10.chm5207261
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Count Property, Excel [vbagr10.chm5207261]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Count, Excel [vbagr10.chm5207261]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Count (gráfico)](http://msdn.microsoft.com/library/count-property-graph%28Office.15%29.aspx)
-
+[Count Property (Graph)](http://msdn.microsoft.com/library/35eab4b7-6b48-c037-6d25-1d3a0016a528%28Office.15%29.aspx)
 

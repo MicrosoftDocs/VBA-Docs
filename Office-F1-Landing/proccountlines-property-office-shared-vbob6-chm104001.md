@@ -1,5 +1,5 @@
 ---
-title: Propiedad ProcCountLines, Office Shared [vbob6.chm104001]
+title: ProcCountLines Property, Office Shared [vbob6.chm104001]
 keywords: vbob6.chm104001
 f1_keywords:
 - vbob6.chm104001
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ProcCountLines Property, Office Shared [vbob6.chm104001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ProcCountLines, Office Shared [vbob6.chm104001]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ProcCountLines](http://msdn.microsoft.com/library/proccountlines-property%28Office.15%29.aspx)
-
+[ProcCountLines Property](http://msdn.microsoft.com/library/4527ede7-80e6-45ec-c645-8a1fd623921f%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda LockCalcWH (sección Protection), Visio [vis_sdr.chm605]
+title: LockCalcWH Cell (Protection Section), Visio [vis_sdr.chm605]
 keywords: vis_sdr.chm605
 f1_keywords:
 - vis_sdr.chm605
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockCalcWH Cell (Protection Section), Visio [vis_sdr.chm605]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockCalcWH (sección Protection), Visio [vis_sdr.chm605]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockCalcWH (Sección de protección)](http://msdn.microsoft.com/library/lockcalcwh-cell-protection-section%28Office.15%29.aspx)
-
+[LockCalcWH Cell (Protection Section)](http://msdn.microsoft.com/library/6eb51e5a-03d8-3daa-b4e1-6107d540aed9%28Office.15%29.aspx)
 

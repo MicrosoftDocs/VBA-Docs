@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelMasterDelete, Visio [vis_sdr.chm10519310]
+title: QueryCancelMasterDelete Event, Visio [vis_sdr.chm10519310]
 keywords: vis_sdr.chm10519310
 f1_keywords:
 - vis_sdr.chm10519310
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelMasterDelete Event, Visio [vis_sdr.chm10519310]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelMasterDelete, Visio [vis_sdr.chm10519310]
+[DrawingControl.QueryCancelMasterDelete Event (Visio)](http://msdn.microsoft.com/library/148dfdc8-6d30-37b8-5346-3210fc43bc69%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.QueryCancelMasterDelete Event (Visio)](http://msdn.microsoft.com/library/b363d3d7-e3ca-2cd2-bd29-b224de7cadc8%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.QueryCancelMasterDelete (Visio)](http://msdn.microsoft.com/library/drawingcontrol.querycancelmasterdelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento Document.QueryCancelMasterDelete (Visio)](http://msdn.microsoft.com/library/document.querycancelmasterdelete-event-visio%28Office.15%29.aspx)
 

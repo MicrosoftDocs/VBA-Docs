@@ -1,5 +1,5 @@
 ---
-title: No hay ayuda disponible, Office Shared [vblr6.chm1040221]
+title: No Help available, Office Shared [vblr6.chm1040221]
 keywords: vblr6.chm1040221
 f1_keywords:
 - vblr6.chm1040221
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# No Help available, Office Shared [vblr6.chm1040221]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No hay ayuda disponible, Office Shared [vblr6.chm1040221]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No hay ayuda disponible](http://msdn.microsoft.com/library/no-help-available%28Office.15%29.aspx)
-
+[No Help available](http://msdn.microsoft.com/library/cb82e56c-878b-e1c5-afe8-db1f78a1e32b%28Office.15%29.aspx)
 

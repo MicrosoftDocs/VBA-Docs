@@ -1,5 +1,5 @@
 ---
-title: Comandos Rehacer, Deshacer (menú Edición), Office Shared [vbui6.chm2007520]
+title: Redo, Undo Commands (Edit Menu), Office Shared [vbui6.chm2007520]
 keywords: vbui6.chm2007520
 f1_keywords:
 - vbui6.chm2007520
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Redo, Undo Commands (Edit Menu), Office Shared [vbui6.chm2007520]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Rehacer, Deshacer (menú Edición), Office Shared [vbui6.chm2007520]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Rehacer y Deshacer (menú Edición)](http://msdn.microsoft.com/library/redo-undo-commands-edit-menu%28Office.15%29.aspx)
-
+[Redo, Undo Commands (Edit Menu)](http://msdn.microsoft.com/library/63a4524d-62b9-d97c-e79b-1b38dcdfd073%28Office.15%29.aspx)
 

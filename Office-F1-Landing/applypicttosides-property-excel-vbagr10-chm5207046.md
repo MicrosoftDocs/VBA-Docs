@@ -1,5 +1,5 @@
 ---
-title: Propiedad ApplyPictToSides, Excel [vbagr10.chm5207046]
+title: ApplyPictToSides Property, Excel [vbagr10.chm5207046]
 keywords: vbagr10.chm5207046
 f1_keywords:
 - vbagr10.chm5207046
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ApplyPictToSides Property, Excel [vbagr10.chm5207046]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ApplyPictToSides, Excel [vbagr10.chm5207046]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ApplyPictToSides (propiedad)](http://msdn.microsoft.com/library/applypicttosides-property%28Office.15%29.aspx)
-
+[ApplyPictToSides Property](http://msdn.microsoft.com/library/aa6146cf-4e4f-b0c7-55eb-0ed8bd9dcc65%28Office.15%29.aspx)
 

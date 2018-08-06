@@ -1,5 +1,5 @@
 ---
-title: Propiedad Markup, Word [vbawd10.chm40566786]
+title: Markup Property, Word [vbawd10.chm40566786]
 keywords: vbawd10.chm40566786
 f1_keywords:
 - vbawd10.chm40566786
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Markup Property, Word [vbawd10.chm40566786]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Markup, Word [vbawd10.chm40566786]
+[RevisionsFilter.Markup Property (Word)](http://msdn.microsoft.com/library/90b90dd8-ead3-8e3c-f27e-a4614d12798c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Sources.Count Property (Word)](http://msdn.microsoft.com/library/06a6f0b3-1591-52b3-fcff-aca4324a80e3%28Office.15%29.aspx)
 
-
- [RevisionsFilter.Markup Property (Word)](http://msdn.microsoft.com/library/revisionsfilter.markup-property-word%28Office.15%29.aspx)
-
-
- [Propiedad Sources.Count (Word)](http://msdn.microsoft.com/library/sources.count-property-word%28Office.15%29.aspx)
 

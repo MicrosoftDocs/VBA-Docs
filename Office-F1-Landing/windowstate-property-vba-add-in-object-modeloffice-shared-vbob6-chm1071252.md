@@ -1,5 +1,5 @@
 ---
-title: Propiedad WindowState (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071252]
+title: WindowState Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071252]
 keywords: vbob6.chm1071252
 f1_keywords:
 - vbob6.chm1071252
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowState Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071252]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad WindowState (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071252]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad WindowState (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/windowstate-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[WindowState Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/4acf1de3-920c-6521-ae1b-516196d5d3a5%28Office.15%29.aspx)
 

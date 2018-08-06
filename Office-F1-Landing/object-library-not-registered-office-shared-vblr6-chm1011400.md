@@ -1,5 +1,5 @@
 ---
-title: Biblioteca de objetos no registrada, Office Shared [vblr6.chm1011400]
+title: Object library not registered, Office Shared [vblr6.chm1011400]
 keywords: vblr6.chm1011400
 f1_keywords:
 - vblr6.chm1011400
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object library not registered, Office Shared [vblr6.chm1011400]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Biblioteca de objetos no registrada, Office Shared [vblr6.chm1011400]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Biblioteca de objetos no registrada](http://msdn.microsoft.com/library/object-library-not-registered%28Office.15%29.aspx)
-
+[Object library not registered](http://msdn.microsoft.com/library/0f2a805a-303a-43b4-6578-6c7ba3bb2627%28Office.15%29.aspx)
 

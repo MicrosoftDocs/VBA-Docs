@@ -1,5 +1,5 @@
 ---
-title: Acerca de la ventana Explorador de estilos, Visio [Vis_DSS.chm1037817]
+title: About the Style Explorer Window, Visio [Vis_DSS.chm1037817]
 keywords: vis_dss.chm1037817
 f1_keywords:
 - vis_dss.chm1037817
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# About the Style Explorer Window, Visio [Vis_DSS.chm1037817]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Acerca de la ventana Explorador de estilos, Visio [Vis_DSS.chm1037817]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Ventana Explorador de estilos](http://msdn.microsoft.com/library/about-the-style-explorer-window%28Office.15%29.aspx)
-
+[About the Style Explorer Window](http://msdn.microsoft.com/library/bfdc1a63-c355-c759-bdfa-ce27e3ad10e7%28Office.15%29.aspx)
 

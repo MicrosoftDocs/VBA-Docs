@@ -1,5 +1,5 @@
 ---
-title: Método AddReplacement, Excel [vbagr10.chm5207011]
+title: AddReplacement Method, Excel [vbagr10.chm5207011]
 keywords: vbagr10.chm5207011
 f1_keywords:
 - vbagr10.chm5207011
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddReplacement Method, Excel [vbagr10.chm5207011]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AddReplacement, Excel [vbagr10.chm5207011]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AddReplacement](http://msdn.microsoft.com/library/addreplacement-method%28Office.15%29.aspx)
-
+[AddReplacement Method](http://msdn.microsoft.com/library/70a6a3f7-e42f-e8b4-d7f8-1ad8f8c66ba7%28Office.15%29.aspx)
 

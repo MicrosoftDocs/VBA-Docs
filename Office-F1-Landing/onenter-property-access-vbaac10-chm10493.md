@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnEnter, Access [vbaac10.chm10493]
+title: OnEnter Property, Access [vbaac10.chm10493]
 keywords: vbaac10.chm10493
 f1_keywords:
 - vbaac10.chm10493
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnEnter Property, Access [vbaac10.chm10493]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnEnter, Access [vbaac10.chm10493]
+[NavigationButton.OnEnter Property (Access)](http://msdn.microsoft.com/library/3da3f669-1314-97af-bd01-b1e4848f3a13%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.OnEnter Property (Access)](http://msdn.microsoft.com/library/6d8f659f-a8aa-4671-509c-c82ae5dead0c%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.OnEnter (Access)](http://msdn.microsoft.com/library/navigationbutton.onenter-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.OnEnter (Access)](http://msdn.microsoft.com/library/commandbutton.onenter-property-access%28Office.15%29.aspx)
 

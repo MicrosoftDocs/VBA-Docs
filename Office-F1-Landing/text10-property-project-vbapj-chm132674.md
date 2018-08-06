@@ -1,24 +1,21 @@
 ---
-title: Text10 (propiedad), proyecto [vbapj.chm132674]
+title: Text10 Property, Project [vbapj.chm132674]
 keywords: vbapj.chm132674
 f1_keywords:
 - vbapj.chm132674
 ms.prod: office
 ms.assetid: c36a2e55-7119-48b0-b8dc-bd6e850431b6
 ms.date: 06/08/2017
-ms.openlocfilehash: 37f3869dbb1e9ec23812ad8460352ec76af54a77
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="text10-property-project-vbapjchm132674"></a>Text10 (propiedad), proyecto [vbapj.chm132674]
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
 
-[Propiedad Assignment.Text10 (proyecto)](http://msdn.microsoft.com/library/5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f%28Office.15%29.aspx)
+# Text10 Property, Project [vbapj.chm132674]
 
-[Propiedad Resource.Text10 (proyecto)](http://msdn.microsoft.com/library/ea30e4b1-1cda-d94e-39d8-ef94bb67366e%28Office.15%29.aspx)
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Propiedad Task.Text10 (proyecto)](http://msdn.microsoft.com/library/e4f41f32-a3a3-a672-c179-2661521d5741%28Office.15%29.aspx)
+[Assignment.Text10 Property (Project)](http://msdn.microsoft.com/library/5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f%28Office.15%29.aspx)
+
+[Resource.Text10 Property (Project)](http://msdn.microsoft.com/library/ea30e4b1-1cda-d94e-39d8-ef94bb67366e%28Office.15%29.aspx)
+
+[Task.Text10 Property (Project)](http://msdn.microsoft.com/library/e4f41f32-a3a3-a672-c179-2661521d5741%28Office.15%29.aspx)
 

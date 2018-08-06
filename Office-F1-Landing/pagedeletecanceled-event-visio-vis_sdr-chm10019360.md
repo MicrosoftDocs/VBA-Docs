@@ -1,5 +1,5 @@
 ---
-title: Evento PageDeleteCanceled, Visio [vis_sdr.chm10019360]
+title: PageDeleteCanceled Event, Visio [vis_sdr.chm10019360]
 keywords: vis_sdr.chm10019360
 f1_keywords:
 - vis_sdr.chm10019360
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PageDeleteCanceled Event, Visio [vis_sdr.chm10019360]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento PageDeleteCanceled, Visio [vis_sdr.chm10019360]
+[InvisibleApp.PageDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/35741231-a4f6-cffb-7004-3c33e538be0b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.PageDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/1efbd64c-365b-c967-59bb-8314a0fa6f34%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.PageDeleteCanceled (Visio)](http://msdn.microsoft.com/library/invisibleapp.pagedeletecanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.PageDeleteCanceled (Visio)](http://msdn.microsoft.com/library/application.pagedeletecanceled-event-visio%28Office.15%29.aspx)
 

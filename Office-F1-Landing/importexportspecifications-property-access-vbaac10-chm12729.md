@@ -1,5 +1,5 @@
 ---
-title: Propiedad ImportExportSpecifications, Access [vbaac10.chm12729]
+title: ImportExportSpecifications Property, Access [vbaac10.chm12729]
 keywords: vbaac10.chm12729
 f1_keywords:
 - vbaac10.chm12729
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ImportExportSpecifications Property, Access [vbaac10.chm12729]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ImportExportSpecifications, Access [vbaac10.chm12729]
+[CodeProject.ImportExportSpecifications Property (Access)](http://msdn.microsoft.com/library/100a7924-3f4e-9dec-756e-9aa6f8abba19%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.ImportExportSpecifications Property (Access)](http://msdn.microsoft.com/library/b614eb40-d9cd-d615-41c9-c6980ea85006%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.ImportExportSpecifications (Access)](http://msdn.microsoft.com/library/codeproject.importexportspecifications-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.ImportExportSpecifications (Access)](http://msdn.microsoft.com/library/currentproject.importexportspecifications-property-access%28Office.15%29.aspx)
 

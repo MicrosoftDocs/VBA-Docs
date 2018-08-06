@@ -1,5 +1,5 @@
 ---
-title: Evento MouseMove, Office Shared [fm20.chm5224948]
+title: MouseMove Event, Office Shared [fm20.chm5224948]
 keywords: fm20.chm5224948
 f1_keywords:
 - fm20.chm5224948
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseMove Event, Office Shared [fm20.chm5224948]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MouseMove, Office Shared [fm20.chm5224948]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento MouseMove](http://msdn.microsoft.com/library/mousemove-event%28Office.15%29.aspx)
-
+[MouseMove Event](http://msdn.microsoft.com/library/0bbb767d-c113-2a65-7ca1-a3f98f4a3cce%28Office.15%29.aspx)
 

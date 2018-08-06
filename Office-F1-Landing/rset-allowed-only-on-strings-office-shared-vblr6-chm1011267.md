@@ -1,5 +1,5 @@
 ---
-title: RSet solo se permite en cadenas, Office Shared [vblr6.chm1011267]
+title: RSet allowed only on strings, Office Shared [vblr6.chm1011267]
 keywords: vblr6.chm1011267
 f1_keywords:
 - vblr6.chm1011267
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RSet allowed only on strings, Office Shared [vblr6.chm1011267]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# RSet solo se permite en cadenas, Office Shared [vblr6.chm1011267]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [RSet solo se permite en cadenas](http://msdn.microsoft.com/library/rset-allowed-only-on-strings%28Office.15%29.aspx)
-
+[RSet allowed only on strings](http://msdn.microsoft.com/library/cf7a404b-de1f-501b-c961-011c46e460c8%28Office.15%29.aspx)
 

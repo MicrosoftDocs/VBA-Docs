@@ -1,5 +1,5 @@
 ---
-title: Celda Name (sección Revisor), Visio [vis_sdr.chm60057]
+title: Name Cell (Reviewer Section), Visio [vis_sdr.chm60057]
 keywords: vis_sdr.chm60057
 f1_keywords:
 - vis_sdr.chm60057
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Cell (Reviewer Section), Visio [vis_sdr.chm60057]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Name (sección Revisor), Visio [vis_sdr.chm60057]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Name (Sección del revisor)](http://msdn.microsoft.com/library/name-cell-reviewer-section%28Office.15%29.aspx)
-
+[Name Cell (Reviewer Section)](http://msdn.microsoft.com/library/be39cd0b-56bf-a070-f5d8-c9a440d81ee2%28Office.15%29.aspx)
 

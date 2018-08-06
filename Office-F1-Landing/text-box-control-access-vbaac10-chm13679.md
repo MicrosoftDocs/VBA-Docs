@@ -1,5 +1,5 @@
 ---
-title: Control Cuadro de texto, Access [vbaac10.chm13679]
+title: Text Box Control, Access [vbaac10.chm13679]
 keywords: vbaac10.chm13679
 f1_keywords:
 - vbaac10.chm13679
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Text Box Control, Access [vbaac10.chm13679]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Cuadro de texto, Access [vbaac10.chm13679]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Cuadro de texto](http://msdn.microsoft.com/library/text-box-control%28Office.15%29.aspx)
-
+[Text Box Control](http://msdn.microsoft.com/library/596913de-8f53-9643-484b-e28dabd9019f%28Office.15%29.aspx)
 

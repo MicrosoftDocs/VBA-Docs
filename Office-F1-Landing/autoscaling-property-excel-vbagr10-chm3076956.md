@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoScaling, Excel [vbagr10.chm3076956]
+title: AutoScaling Property, Excel [vbagr10.chm3076956]
 keywords: vbagr10.chm3076956
 f1_keywords:
 - vbagr10.chm3076956
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoScaling Property, Excel [vbagr10.chm3076956]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoScaling, Excel [vbagr10.chm3076956]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AutoScaling (propiedad)](http://msdn.microsoft.com/library/autoscaling-property%28Office.15%29.aspx)
-
+[AutoScaling Property](http://msdn.microsoft.com/library/f132291c-e356-eea5-0ef5-0e4def8d4832%28Office.15%29.aspx)
 

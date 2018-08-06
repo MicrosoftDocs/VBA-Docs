@@ -1,5 +1,5 @@
 ---
-title: Propiedad Type, Excel [vbagr10.chm65644]
+title: Type Property, Excel [vbagr10.chm65644]
 keywords: vbagr10.chm65644
 f1_keywords:
 - vbagr10.chm65644
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type Property, Excel [vbagr10.chm65644]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Type, Excel [vbagr10.chm65644]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Type (propiedad)](http://msdn.microsoft.com/library/type-property%28Office.15%29.aspx)
-
+[Type Property](http://msdn.microsoft.com/library/467e47f2-3c6e-d52d-0fc7-26f3bca7c6f2%28Office.15%29.aspx)
 

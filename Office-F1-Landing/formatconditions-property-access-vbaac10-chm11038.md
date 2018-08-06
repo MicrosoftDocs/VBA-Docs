@@ -1,5 +1,5 @@
 ---
-title: Propiedad FormatConditions, Access [vbaac10.chm11038]
+title: FormatConditions Property, Access [vbaac10.chm11038]
 keywords: vbaac10.chm11038
 f1_keywords:
 - vbaac10.chm11038
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FormatConditions Property, Access [vbaac10.chm11038]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FormatConditions, Access [vbaac10.chm11038]
+[NavigationControl.FormatConditions Property (Access)](http://msdn.microsoft.com/library/20e921d6-e800-fc75-c93a-981815d694ab%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.FormatConditions Property (Access)](http://msdn.microsoft.com/library/6c643d8b-9b90-2b50-2ba0-c46bb821d38d%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.FormatConditions (Access)](http://msdn.microsoft.com/library/navigationcontrol.formatconditions-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.FormatConditions (Access)](http://msdn.microsoft.com/library/textbox.formatconditions-property-access%28Office.15%29.aspx)
 

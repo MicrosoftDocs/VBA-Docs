@@ -1,5 +1,5 @@
 ---
-title: Celda BulletSize (sección Paragraph), Visio [Vis_DSS.chm60024]
+title: BulletSize Cell (Paragraph Section), Visio [Vis_DSS.chm60024]
 keywords: vis_dss.chm60024
 f1_keywords:
 - vis_dss.chm60024
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BulletSize Cell (Paragraph Section), Visio [Vis_DSS.chm60024]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda BulletSize (sección Paragraph), Visio [Vis_DSS.chm60024]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda BulletSize (Sección de párrafo)](http://msdn.microsoft.com/library/bulletsize-cell-paragraph-section%28Office.15%29.aspx)
-
+[BulletSize Cell (Paragraph Section)](http://msdn.microsoft.com/library/6ff5d07b-17e2-f6ca-1860-5d498a9ebf06%28Office.15%29.aspx)
 

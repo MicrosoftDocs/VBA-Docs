@@ -1,5 +1,5 @@
 ---
-title: Celda ButtonFace (sección Etiquetas de acción), Visio [Vis_DSS.chm1026938]
+title: ButtonFace Cell (Action Tags Section), Visio [Vis_DSS.chm1026938]
 keywords: vis_dss.chm1026938
 f1_keywords:
 - vis_dss.chm1026938
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ButtonFace Cell (Action Tags Section), Visio [Vis_DSS.chm1026938]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ButtonFace (sección Etiquetas de acción), Visio [Vis_DSS.chm1026938]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ButtonFace (sección de etiquetas de acción)](http://msdn.microsoft.com/library/buttonface-cell-action-tags-section%28Office.15%29.aspx)
-
+[ButtonFace Cell (Action Tags Section)](http://msdn.microsoft.com/library/26f370e1-5193-f47d-7b60-3597975be650%28Office.15%29.aspx)
 

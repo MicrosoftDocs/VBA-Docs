@@ -1,5 +1,5 @@
 ---
-title: Objeto ValidationRules, Visio [vis_sdr.chm61075]
+title: ValidationRules Object, Visio [vis_sdr.chm61075]
 keywords: vis_sdr.chm61075
 f1_keywords:
 - vis_sdr.chm61075
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ValidationRules Object, Visio [vis_sdr.chm61075]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto ValidationRules, Visio [vis_sdr.chm61075]
+[ValidationRules Object (Visio)](http://msdn.microsoft.com/library/f66d942d-1ae4-d65a-b534-947787b7b160.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ValidationRules Object (Visio)](http://msdn.microsoft.com/library/e7a1a5c6-02a7-2dc2-7a73-cc84821e077e%28Office.15%29.aspx)
 
-
- [ValidationRules Object (Visio)](http://msdn.microsoft.com/library/f66d942d-1ae4-d65a-b534-947787b7b160.aspx)
-
-
- [ValidationRules (colección)](http://msdn.microsoft.com/library/validationrules-object-visio%28Office.15%29.aspx)
 

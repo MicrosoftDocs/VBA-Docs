@@ -1,5 +1,5 @@
 ---
-title: Expresión de inspección no válida, Office Shared [vblr6.chm1040215]
+title: Invalid watch expression, Office Shared [vblr6.chm1040215]
 keywords: vblr6.chm1040215
 f1_keywords:
 - vblr6.chm1040215
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid watch expression, Office Shared [vblr6.chm1040215]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Expresión de inspección no válida, Office Shared [vblr6.chm1040215]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Expresión de inspección no válida](http://msdn.microsoft.com/library/invalid-watch-expression%28Office.15%29.aspx)
-
+[Invalid watch expression](http://msdn.microsoft.com/library/0eb4ebd1-e35d-d775-ebb3-1ce131dd81b1%28Office.15%29.aspx)
 

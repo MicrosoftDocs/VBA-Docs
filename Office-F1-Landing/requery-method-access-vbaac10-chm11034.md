@@ -1,5 +1,5 @@
 ---
-title: Método Requery, Access [vbaac10.chm11034]
+title: Requery Method, Access [vbaac10.chm11034]
 keywords: vbaac10.chm11034
 f1_keywords:
 - vbaac10.chm11034
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Requery Method, Access [vbaac10.chm11034]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Requery, Access [vbaac10.chm11034]
+[TextBox.Requery Method (Access)](http://msdn.microsoft.com/library/b1f8991e-7ccc-4f0b-c50f-1d51a0abda7e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Requery Method (Access)](http://msdn.microsoft.com/library/613e89e1-5e02-d2da-4881-c77f3d8cb55e%28Office.15%29.aspx)
 
-
- [Método TextBox.Requery (Access)](http://msdn.microsoft.com/library/textbox.requery-method-access%28Office.15%29.aspx)
-
-
- [Método NavigationControl.Requery (Access)](http://msdn.microsoft.com/library/navigationcontrol.requery-method-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda NoAlignBox (sección Miscellaneous), Visio [Vis_DSS.chm82251320]
+title: NoAlignBox Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251320]
 keywords: vis_dss.chm82251320
 f1_keywords:
 - vis_dss.chm82251320
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NoAlignBox Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251320]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda NoAlignBox (sección Miscellaneous), Visio [Vis_DSS.chm82251320]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda NoAlignBox (Sección de varios)](http://msdn.microsoft.com/library/noalignbox-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[NoAlignBox Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/b2d51f4b-d64e-fd14-4ff1-ed67c69213bc%28Office.15%29.aspx)
 

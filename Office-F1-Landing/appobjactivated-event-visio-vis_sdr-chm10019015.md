@@ -1,5 +1,5 @@
 ---
-title: Evento AppObjActivated, Visio [vis_sdr.chm10019015]
+title: AppObjActivated Event, Visio [vis_sdr.chm10019015]
 keywords: vis_sdr.chm10019015
 f1_keywords:
 - vis_sdr.chm10019015
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AppObjActivated Event, Visio [vis_sdr.chm10019015]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento AppObjActivated, Visio [vis_sdr.chm10019015]
+[InvisibleApp.AppObjActivated Event (Visio)](http://msdn.microsoft.com/library/d37d2b3b-4d60-75e3-6b29-18d60e911c8f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.AppObjActivated Event (Visio)](http://msdn.microsoft.com/library/ab27fad1-5afb-534c-987f-e5401603aa52%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.AppObjActivated (Visio)](http://msdn.microsoft.com/library/invisibleapp.appobjactivated-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.AppObjActivated (Visio)](http://msdn.microsoft.com/library/application.appobjactivated-event-visio%28Office.15%29.aspx)
 

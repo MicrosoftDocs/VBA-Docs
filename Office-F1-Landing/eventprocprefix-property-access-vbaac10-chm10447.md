@@ -1,5 +1,5 @@
 ---
-title: Propiedad EventProcPrefix, Access [vbaac10.chm10447]
+title: EventProcPrefix Property, Access [vbaac10.chm10447]
 keywords: vbaac10.chm10447
 f1_keywords:
 - vbaac10.chm10447
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# EventProcPrefix Property, Access [vbaac10.chm10447]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad EventProcPrefix, Access [vbaac10.chm10447]
+[CommandButton.EventProcPrefix Property (Access)](http://msdn.microsoft.com/library/89611b46-0c56-d855-9e4d-d1a301f300ae%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.EventProcPrefix Property (Access)](http://msdn.microsoft.com/library/84bf1794-9b36-91eb-23d3-e5db4e951f85%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.EventProcPrefix (Access)](http://msdn.microsoft.com/library/commandbutton.eventprocprefix-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.EventProcPrefix (Access)](http://msdn.microsoft.com/library/navigationbutton.eventprocprefix-property-access%28Office.15%29.aspx)
 

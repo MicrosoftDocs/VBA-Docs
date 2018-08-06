@@ -1,5 +1,5 @@
 ---
-title: Celda ImgOffsetY (sección Foreign Image Info), Visio [Vis_DSS.chm82251309]
+title: ImgOffsetY Cell (Foreign Image Info Section), Visio [Vis_DSS.chm82251309]
 keywords: vis_dss.chm82251309
 f1_keywords:
 - vis_dss.chm82251309
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ImgOffsetY Cell (Foreign Image Info Section), Visio [Vis_DSS.chm82251309]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ImgOffsetY (sección Foreign Image Info), Visio [Vis_DSS.chm82251309]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ImgOffsetY (Sección de información de imagen externa)](http://msdn.microsoft.com/library/imgoffsety-cell-foreign-image-info-section%28Office.15%29.aspx)
-
+[ImgOffsetY Cell (Foreign Image Info Section)](http://msdn.microsoft.com/library/3b2991aa-4722-fe3b-39c5-02d38c4c7efc%28Office.15%29.aspx)
 

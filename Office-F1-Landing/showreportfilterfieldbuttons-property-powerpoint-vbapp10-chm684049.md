@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowReportFilterFieldButtons, PowerPoint [vbapp10.chm684049]
+title: ShowReportFilterFieldButtons Property, PowerPoint [vbapp10.chm684049]
 keywords: vbapp10.chm684049
 f1_keywords:
 - vbapp10.chm684049
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowReportFilterFieldButtons Property, PowerPoint [vbapp10.chm684049]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowReportFilterFieldButtons, PowerPoint [vbapp10.chm684049]
+[Chart.ShowReportFilterFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/a254a18b-466a-bee4-772e-3352dc27249b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.InDraftMode Property (PowerPoint)](http://msdn.microsoft.com/library/be234117-a63e-dd10-3bdb-50f2c5692f65%28Office.15%29.aspx)
 
-
- [Propiedad Chart.ShowReportFilterFieldButtons (PowerPoint)](http://msdn.microsoft.com/library/chart.showreportfilterfieldbuttons-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Chart.InDraftMode (PowerPoint)](http://msdn.microsoft.com/library/be234117-a63e-dd10-3bdb-50f2c5692f65%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ListItemsEditForm, Access [vbaac10.chm5787]
+title: ListItemsEditForm Property, Access [vbaac10.chm5787]
 keywords: vbaac10.chm5787
 f1_keywords:
 - vbaac10.chm5787
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ListItemsEditForm Property, Access [vbaac10.chm5787]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ListItemsEditForm, Access [vbaac10.chm5787]
+[ListBox.ListItemsEditForm Property (Access)](http://msdn.microsoft.com/library/f744fc52-4c50-f740-7a2f-eeccb12de7c9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.ListItemsEditForm Property (Access)](http://msdn.microsoft.com/library/5db884d4-4d9f-23b5-9e3a-f6de953a4800%28Office.15%29.aspx)
 
-
- [Propiedad ListBox.ListItemsEditForm (Access)](http://msdn.microsoft.com/library/listbox.listitemseditform-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.ListItemsEditForm (Access)](http://msdn.microsoft.com/library/combobox.listitemseditform-property-access%28Office.15%29.aspx)
 

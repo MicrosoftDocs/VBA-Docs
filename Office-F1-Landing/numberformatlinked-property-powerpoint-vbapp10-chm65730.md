@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumberFormatLinked, PowerPoint [vbapp10.chm65730]
+title: NumberFormatLinked Property, PowerPoint [vbapp10.chm65730]
 keywords: vbapp10.chm65730
 f1_keywords:
 - vbapp10.chm65730
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# NumberFormatLinked Property, PowerPoint [vbapp10.chm65730]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumberFormatLinked, PowerPoint [vbapp10.chm65730]
+[DataLabel.NumberFormatLinked Property (PowerPoint)](http://msdn.microsoft.com/library/96753d54-3770-93b8-7b59-52f77f4443bc%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.NumberFormatLinked Property (PowerPoint)](http://msdn.microsoft.com/library/282e1916-52be-073f-942c-c2807f2e9f50%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.NumberFormatLinked (PowerPoint)](http://msdn.microsoft.com/library/datalabel.numberformatlinked-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.NumberFormatLinked (PowerPoint)](http://msdn.microsoft.com/library/datalabels.numberformatlinked-property-powerpoint%28Office.15%29.aspx)
 

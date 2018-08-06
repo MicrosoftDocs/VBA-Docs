@@ -1,5 +1,5 @@
 ---
-title: Propiedad RasterExportDataCompression, Visio [vis_sdr.chm16262525]
+title: RasterExportDataCompression Property, Visio [vis_sdr.chm16262525]
 keywords: vis_sdr.chm16262525
 f1_keywords:
 - vis_sdr.chm16262525
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RasterExportDataCompression Property, Visio [vis_sdr.chm16262525]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RasterExportDataCompression, Visio [vis_sdr.chm16262525]
+[ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/cec938db-1368-7c05-a264-b69ae334a249%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/fea9d5c6-a887-04eb-2293-f46b99eefc4a.aspx)
 
-
- [RasterExportDataCompression (propiedad)](http://msdn.microsoft.com/library/applicationsettings.rasterexportdatacompression-property-visio%28Office.15%29.aspx)
-
-
- [ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/fea9d5c6-a887-04eb-2293-f46b99eefc4a.aspx)
 

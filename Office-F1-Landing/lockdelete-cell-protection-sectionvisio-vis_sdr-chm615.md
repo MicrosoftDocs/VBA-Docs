@@ -1,5 +1,5 @@
 ---
-title: Celda LockDelete (sección Protection), Visio [vis_sdr.chm615]
+title: LockDelete Cell (Protection Section), Visio [vis_sdr.chm615]
 keywords: vis_sdr.chm615
 f1_keywords:
 - vis_sdr.chm615
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockDelete Cell (Protection Section), Visio [vis_sdr.chm615]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockDelete (sección Protection), Visio [vis_sdr.chm615]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockDelete (Sección de protección)](http://msdn.microsoft.com/library/lockdelete-cell-protection-section%28Office.15%29.aspx)
-
+[LockDelete Cell (Protection Section)](http://msdn.microsoft.com/library/596c62b7-8d42-1854-d709-592db09a6a84%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Instrucción privada de opción, Office Shared [vblr6.chm1010116]
+title: Option Private Statement, Office Shared [vblr6.chm1010116]
 keywords: vblr6.chm1010116
 f1_keywords:
 - vblr6.chm1010116
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Option Private Statement, Office Shared [vblr6.chm1010116]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción privada de opción, Office Shared [vblr6.chm1010116]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Option Private](http://msdn.microsoft.com/library/option-private-statement%28Office.15%29.aspx)
-
+[Option Private Statement](http://msdn.microsoft.com/library/bd4d8b8b-d513-62a0-7c78-45c15b462bdc%28Office.15%29.aspx)
 

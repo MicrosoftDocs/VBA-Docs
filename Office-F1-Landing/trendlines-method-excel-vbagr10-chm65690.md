@@ -1,5 +1,5 @@
 ---
-title: Método Trendlines, Excel [vbagr10.chm65690]
+title: Trendlines Method, Excel [vbagr10.chm65690]
 keywords: vbagr10.chm65690
 f1_keywords:
 - vbagr10.chm65690
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Trendlines Method, Excel [vbagr10.chm65690]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Trendlines, Excel [vbagr10.chm65690]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Trendlines (método)](http://msdn.microsoft.com/library/trendlines-method%28Office.15%29.aspx)
-
+[Trendlines Method](http://msdn.microsoft.com/library/2379333d-1cca-bd04-2dec-170bd5d40f67%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Next sin For, Office Shared [vblr6.chm1040088]
+title: Next without For, Office Shared [vblr6.chm1040088]
 keywords: vblr6.chm1040088
 f1_keywords:
 - vblr6.chm1040088
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Next without For, Office Shared [vblr6.chm1040088]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Next sin For, Office Shared [vblr6.chm1040088]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Next sin For](http://msdn.microsoft.com/library/next-without-for%28Office.15%29.aspx)
-
+[Next without For](http://msdn.microsoft.com/library/304e0911-95b7-93e5-79dd-d2ceaaceddd1%28Office.15%29.aspx)
 

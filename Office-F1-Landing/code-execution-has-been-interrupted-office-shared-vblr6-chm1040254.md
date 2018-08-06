@@ -1,5 +1,5 @@
 ---
-title: Ejecución de código interrumpida, Office Shared [vblr6.chm1040254]
+title: Code execution has been interrupted, Office Shared [vblr6.chm1040254]
 keywords: vblr6.chm1040254
 f1_keywords:
 - vblr6.chm1040254
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Code execution has been interrupted, Office Shared [vblr6.chm1040254]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Ejecución de código interrumpida, Office Shared [vblr6.chm1040254]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Se ha interrumpido la ejecución de código](http://msdn.microsoft.com/library/code-execution-has-been-interrupted%28Office.15%29.aspx)
-
+[Code execution has been interrupted](http://msdn.microsoft.com/library/daf08b53-6875-e63c-a5d1-9f1fbfee7470%28Office.15%29.aspx)
 

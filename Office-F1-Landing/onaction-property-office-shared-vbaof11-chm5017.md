@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnAction, Office Shared [vbaof11.chm5017]
+title: OnAction Property, Office Shared [vbaof11.chm5017]
 keywords: vbaof11.chm5017
 f1_keywords:
 - vbaof11.chm5017
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# OnAction Property, Office Shared [vbaof11.chm5017]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnAction, Office Shared [vbaof11.chm5017]
+[CommandBarComboBox.OnAction Property (Office)](http://msdn.microsoft.com/library/fe666bce-9c38-4203-1059-343d1346913b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarButton.OnAction Property (Office)](http://msdn.microsoft.com/library/c0a4148c-330a-6bd9-dd14-7ade8fc833fe%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarComboBox.OnAction (Office)](http://msdn.microsoft.com/library/commandbarcombobox.onaction-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarButton.OnAction (Office)](http://msdn.microsoft.com/library/commandbarbutton.onaction-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.OnAction (Office)](http://msdn.microsoft.com/library/commandbarcontrol.onaction-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarPopup.OnAction (Office)](http://msdn.microsoft.com/library/commandbarpopup.onaction-property-office%28Office.15%29.aspx)
-
+[CommandBarControl.OnAction Property (Office)](http://msdn.microsoft.com/library/05e40fcb-ff67-049f-6386-a9ef20b48c87%28Office.15%29.aspx)
+[CommandBarPopup.OnAction Property (Office)](http://msdn.microsoft.com/library/47511647-5f1f-5e40-179b-ec589a2c39be%28Office.15%29.aspx)
 

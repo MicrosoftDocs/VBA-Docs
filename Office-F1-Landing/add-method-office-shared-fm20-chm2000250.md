@@ -1,5 +1,5 @@
 ---
-title: Método Add, Office Shared [fm20.chm2000250]
+title: Add Method, Office Shared [fm20.chm2000250]
 keywords: fm20.chm2000250
 f1_keywords:
 - fm20.chm2000250
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Add Method, Office Shared [fm20.chm2000250]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Add, Office Shared [fm20.chm2000250]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Add (Microsoft Forms)](http://msdn.microsoft.com/library/add-method-microsoft-forms%28Office.15%29.aspx)
-
+[Add Method (Microsoft Forms)](http://msdn.microsoft.com/library/1030fff9-736c-9ece-5600-2e4f3b4281b8%28Office.15%29.aspx)
 

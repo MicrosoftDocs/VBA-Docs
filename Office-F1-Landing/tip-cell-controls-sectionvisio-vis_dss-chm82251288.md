@@ -1,5 +1,5 @@
 ---
-title: Celda Tip (sección Controls), Visio [Vis_DSS.chm82251288]
+title: Tip Cell (Controls Section), Visio [Vis_DSS.chm82251288]
 keywords: vis_dss.chm82251288
 f1_keywords:
 - vis_dss.chm82251288
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Tip Cell (Controls Section), Visio [Vis_DSS.chm82251288]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Tip (sección Controls), Visio [Vis_DSS.chm82251288]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Tip (Sección de controles)](http://msdn.microsoft.com/library/tip-cell-controls-section%28Office.15%29.aspx)
-
+[Tip Cell (Controls Section)](http://msdn.microsoft.com/library/7fd11650-fffa-1316-d302-3122ac5feb14%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Comandos Module y Class Module (menú Insertar), Office Shared [vbui6.chm2007525]
+title: Module and Class Module Commands (Insert Menu), Office Shared [vbui6.chm2007525]
 keywords: vbui6.chm2007525
 f1_keywords:
 - vbui6.chm2007525
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Module and Class Module Commands (Insert Menu), Office Shared [vbui6.chm2007525]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Module y Class Module (menú Insertar), Office Shared [vbui6.chm2007525]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Módulo y Módulo de clase (menú Insertar)](http://msdn.microsoft.com/library/module-and-class-module-commands-insert-menu%28Office.15%29.aspx)
-
+[Module and Class Module Commands (Insert Menu)](http://msdn.microsoft.com/library/4939fa3d-2767-4954-c4bc-0f906d142023%28Office.15%29.aspx)
 

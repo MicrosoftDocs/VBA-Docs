@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeShdwScaleFactor (sección Fill Format), Visio [vis_sdr.chm60078]
+title: ShapeShdwScaleFactor Cell (Fill Format Section), Visio [vis_sdr.chm60078]
 keywords: vis_sdr.chm60078
 f1_keywords:
 - vis_sdr.chm60078
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeShdwScaleFactor Cell (Fill Format Section), Visio [vis_sdr.chm60078]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeShdwScaleFactor (sección Fill Format), Visio [vis_sdr.chm60078]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeShdwScaleFactor (Sección de formato de relleno)](http://msdn.microsoft.com/library/shapeshdwscalefactor-cell-fill-format-section%28Office.15%29.aspx)
-
+[ShapeShdwScaleFactor Cell (Fill Format Section)](http://msdn.microsoft.com/library/94ec06c5-8d2f-dd27-1eed-1abaf93daba8%28Office.15%29.aspx)
 

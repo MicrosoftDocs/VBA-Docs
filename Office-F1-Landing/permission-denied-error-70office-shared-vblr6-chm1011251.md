@@ -1,5 +1,5 @@
 ---
-title: Permiso denegado (error 70), Office Shared [vblr6.chm1011251]
+title: Permission denied (Error 70), Office Shared [vblr6.chm1011251]
 keywords: vblr6.chm1011251
 f1_keywords:
 - vblr6.chm1011251
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Permission denied (Error 70), Office Shared [vblr6.chm1011251]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Permiso denegado (error 70), Office Shared [vblr6.chm1011251]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Permiso denegado (error 70)](http://msdn.microsoft.com/library/permission-denied-error-70%28Office.15%29.aspx)
-
+[Permission denied (Error 70)](http://msdn.microsoft.com/library/b6822e40-c7e7-13e1-575e-632a99ad9926%28Office.15%29.aspx)
 

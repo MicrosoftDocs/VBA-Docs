@@ -1,5 +1,5 @@
 ---
-title: Celda Address (sección Hyperlinks), Visio [Vis_DSS.chm15]
+title: Address Cell (Hyperlinks Section), Visio [Vis_DSS.chm15]
 keywords: vis_dss.chm15
 f1_keywords:
 - vis_dss.chm15
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Address Cell (Hyperlinks Section), Visio [Vis_DSS.chm15]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Address (sección Hyperlinks), Visio [Vis_DSS.chm15]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Address (Sección de hipervínculos)](http://msdn.microsoft.com/library/address-cell-hyperlinks-section%28Office.15%29.aspx)
-
+[Address Cell (Hyperlinks Section)](http://msdn.microsoft.com/library/3864aadd-3f86-c20e-1a74-b0aaff5106f7%28Office.15%29.aspx)
 

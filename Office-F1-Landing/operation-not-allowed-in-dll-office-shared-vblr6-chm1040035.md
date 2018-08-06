@@ -1,5 +1,5 @@
 ---
-title: Operación no permitida en DLL, Office Shared [vblr6.chm1040035]
+title: Operation not allowed in DLL, Office Shared [vblr6.chm1040035]
 keywords: vblr6.chm1040035
 f1_keywords:
 - vblr6.chm1040035
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Operation not allowed in DLL, Office Shared [vblr6.chm1040035]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Operación no permitida en DLL, Office Shared [vblr6.chm1040035]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Operación no permitida en DLL](http://msdn.microsoft.com/library/operation-not-allowed-in-dll%28Office.15%29.aspx)
-
+[Operation not allowed in DLL](http://msdn.microsoft.com/library/ff4949cc-44ff-085c-3343-9b9a1ee8e2ad%28Office.15%29.aspx)
 

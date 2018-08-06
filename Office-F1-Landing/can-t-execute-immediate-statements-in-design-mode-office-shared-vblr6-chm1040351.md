@@ -1,5 +1,5 @@
 ---
-title: No se pueden ejecutar instrucciones inmediatas en el modo de diseño, Office Shared [vblr6.chm1040351]
+title: Can't execute immediate statements in design mode, Office Shared [vblr6.chm1040351]
 keywords: vblr6.chm1040351
 f1_keywords:
 - vblr6.chm1040351
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't execute immediate statements in design mode, Office Shared [vblr6.chm1040351]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se pueden ejecutar instrucciones inmediatas en el modo de diseño, Office Shared [vblr6.chm1040351]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se pueden ejecutar instrucciones inmediatas en el modo de diseño](http://msdn.microsoft.com/library/can-t-execute-immediate-statements-in-design-mode%28Office.15%29.aspx)
-
+[Can't execute immediate statements in design mode](http://msdn.microsoft.com/library/ceb67fa9-6893-6e03-6d88-c48a2b9da937%28Office.15%29.aspx)
 

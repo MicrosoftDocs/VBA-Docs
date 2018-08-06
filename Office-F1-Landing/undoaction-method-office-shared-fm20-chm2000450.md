@@ -1,5 +1,5 @@
 ---
-title: Método UndoAction, Office Shared [fm20.chm2000450]
+title: UndoAction Method, Office Shared [fm20.chm2000450]
 keywords: fm20.chm2000450
 f1_keywords:
 - fm20.chm2000450
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# UndoAction Method, Office Shared [fm20.chm2000450]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método UndoAction, Office Shared [fm20.chm2000450]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método UndoAction](http://msdn.microsoft.com/library/undoaction-method%28Office.15%29.aspx)
-
+[UndoAction Method](http://msdn.microsoft.com/library/751fb2c5-4fa6-bab5-fb9a-5c396d05cae1%28Office.15%29.aspx)
 

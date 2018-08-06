@@ -1,5 +1,5 @@
 ---
-title: Instrucción While...Wend, Office Shared [vblr6.chm1009059]
+title: While...Wend Statement, Office Shared [vblr6.chm1009059]
 keywords: vblr6.chm1009059
 f1_keywords:
 - vblr6.chm1009059
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# While...Wend Statement, Office Shared [vblr6.chm1009059]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción While...Wend, Office Shared [vblr6.chm1009059]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción While...Wend](http://msdn.microsoft.com/library/while...wend-statement%28Office.15%29.aspx)
-
+[While...Wend Statement](http://msdn.microsoft.com/library/c905a6a3-fa70-42df-5ef0-c4e3193c2e10%28Office.15%29.aspx)
 

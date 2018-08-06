@@ -1,5 +1,5 @@
 ---
-title: División por cero (error 11), Office Shared [vblr6.chm1000011]
+title: Division by zero (Error 11), Office Shared [vblr6.chm1000011]
 keywords: vblr6.chm1000011
 f1_keywords:
 - vblr6.chm1000011
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Division by zero (Error 11), Office Shared [vblr6.chm1000011]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# División por cero (error 11), Office Shared [vblr6.chm1000011]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [División por cero (error 11)](http://msdn.microsoft.com/library/division-by-zero-error-11%28Office.15%29.aspx)
-
+[Division by zero (Error 11)](http://msdn.microsoft.com/library/3c6783d9-24a4-ef25-fdab-9e26a08e35a9%28Office.15%29.aspx)
 

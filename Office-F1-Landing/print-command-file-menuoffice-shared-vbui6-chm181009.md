@@ -1,5 +1,5 @@
 ---
-title: Comando Imprimir (menú Archivo), Office Shared [vbui6.chm181009]
+title: Print Command (File Menu), Office Shared [vbui6.chm181009]
 keywords: vbui6.chm181009
 f1_keywords:
 - vbui6.chm181009
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Print Command (File Menu), Office Shared [vbui6.chm181009]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comando Imprimir (menú Archivo), Office Shared [vbui6.chm181009]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comando Imprimir (menú Archivo)](http://msdn.microsoft.com/library/print-command-file-menu%28Office.15%29.aspx)
-
+[Print Command (File Menu)](http://msdn.microsoft.com/library/fc2e9144-53a6-dc38-ceca-78c9a70d9a70%28Office.15%29.aspx)
 

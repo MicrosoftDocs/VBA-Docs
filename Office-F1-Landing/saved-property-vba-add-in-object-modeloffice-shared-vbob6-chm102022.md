@@ -1,5 +1,5 @@
 ---
-title: Propiedad Saved (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102022]
+title: Saved Property (VBA Add-In Object Model), Office Shared [vbob6.chm102022]
 keywords: vbob6.chm102022
 f1_keywords:
 - vbob6.chm102022
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Saved Property (VBA Add-In Object Model), Office Shared [vbob6.chm102022]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Saved (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm102022]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Saved (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/saved-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Saved Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/fd0e7762-5797-8fb2-03a8-b200c95cab19%28Office.15%29.aspx)
 

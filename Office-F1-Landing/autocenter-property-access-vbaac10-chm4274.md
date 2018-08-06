@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoCenter, Access [vbaac10.chm4274]
+title: AutoCenter Property, Access [vbaac10.chm4274]
 keywords: vbaac10.chm4274
 f1_keywords:
 - vbaac10.chm4274
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoCenter Property, Access [vbaac10.chm4274]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoCenter, Access [vbaac10.chm4274]
+[Report.AutoCenter Property (Access)](http://msdn.microsoft.com/library/d4a12dac-1000-38cd-e4ed-4f5879dfe4a0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.AutoCenter Property (Access)](http://msdn.microsoft.com/library/a60f8783-5a25-42b5-da99-c5e2925fd6ea%28Office.15%29.aspx)
 
-
- [Propiedad Report.AutoCenter (Access)](http://msdn.microsoft.com/library/report.autocenter-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.AutoCenter (Access)](http://msdn.microsoft.com/library/form.autocenter-property-access%28Office.15%29.aspx)
 

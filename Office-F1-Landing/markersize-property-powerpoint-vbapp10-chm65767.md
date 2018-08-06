@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerSize, PowerPoint [vbapp10.chm65767]
+title: MarkerSize Property, PowerPoint [vbapp10.chm65767]
 keywords: vbapp10.chm65767
 f1_keywords:
 - vbapp10.chm65767
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerSize Property, PowerPoint [vbapp10.chm65767]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerSize, PowerPoint [vbapp10.chm65767]
+[Series.MarkerSize Property (PowerPoint)](http://msdn.microsoft.com/library/60a402b8-69f5-db47-73df-55ed75a42272%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Point.MarkerSize Property (PowerPoint)](http://msdn.microsoft.com/library/e8df4fac-34e4-10d1-b1eb-82eae7453760%28Office.15%29.aspx)
 
-
- [Propiedad Series.MarkerSize (PowerPoint)](http://msdn.microsoft.com/library/series.markersize-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Point.MarkerSize (PowerPoint)](http://msdn.microsoft.com/library/point.markersize-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad LegendKey.MarkerSize (PowerPoint)](http://msdn.microsoft.com/library/legendkey.markersize-property-powerpoint%28Office.15%29.aspx)
-
+[LegendKey.MarkerSize Property (PowerPoint)](http://msdn.microsoft.com/library/712765a9-5a9a-5712-fc12-e1a477d1080c%28Office.15%29.aspx)
 

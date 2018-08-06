@@ -1,5 +1,5 @@
 ---
-title: Propiedad BeforeRender, Access [vbaac10.chm5116]
+title: BeforeRender Property, Access [vbaac10.chm5116]
 keywords: vbaac10.chm5116
 f1_keywords:
 - vbaac10.chm5116
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeRender Property, Access [vbaac10.chm5116]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BeforeRender, Access [vbaac10.chm5116]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.BeforeRender (Access)](http://msdn.microsoft.com/library/form.beforerender-property-access%28Office.15%29.aspx)
-
+[Form.BeforeRender Property (Access)](http://msdn.microsoft.com/library/f80035ac-4ce6-ac8a-203f-c36afab5cd01%28Office.15%29.aspx)
 

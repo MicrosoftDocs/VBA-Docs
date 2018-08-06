@@ -1,5 +1,5 @@
 ---
-title: VbMsgBoxStyle (Explorador de objetos), Office Shared [vblr6.chm1113599]
+title: VbMsgBoxStyle (Object Browser), Office Shared [vblr6.chm1113599]
 keywords: vblr6.chm1113599
 f1_keywords:
 - vblr6.chm1113599
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VbMsgBoxStyle (Object Browser), Office Shared [vblr6.chm1113599]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# VbMsgBoxStyle (Explorador de objetos), Office Shared [vblr6.chm1113599]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [VbMsgBoxStyle (Examinador de objetos)](http://msdn.microsoft.com/library/vbmsgboxstyle-object-browser%28Office.15%29.aspx)
-
+[VbMsgBoxStyle (Object Browser)](http://msdn.microsoft.com/library/68237ab4-d01b-d1e5-2c3c-438b44b0c3f6%28Office.15%29.aspx)
 

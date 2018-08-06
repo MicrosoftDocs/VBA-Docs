@@ -1,5 +1,5 @@
 ---
-title: Propiedad ColorIndex, Excel [vbagr10.chm65633]
+title: ColorIndex Property, Excel [vbagr10.chm65633]
 keywords: vbagr10.chm65633
 f1_keywords:
 - vbagr10.chm65633
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ColorIndex Property, Excel [vbagr10.chm65633]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ColorIndex, Excel [vbagr10.chm65633]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ColorIndex (propiedad)](http://msdn.microsoft.com/library/colorindex-property%28Office.15%29.aspx)
-
+[ColorIndex Property](http://msdn.microsoft.com/library/e9a9c9de-8a42-0f61-be25-4c158709df68%28Office.15%29.aspx)
 

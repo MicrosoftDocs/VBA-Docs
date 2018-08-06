@@ -1,5 +1,5 @@
 ---
-title: Propiedad PlotBy, Excel [vbagr10.chm3077576]
+title: PlotBy Property, Excel [vbagr10.chm3077576]
 keywords: vbagr10.chm3077576
 f1_keywords:
 - vbagr10.chm3077576
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PlotBy Property, Excel [vbagr10.chm3077576]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PlotBy, Excel [vbagr10.chm3077576]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [PlotBy (propiedad)](http://msdn.microsoft.com/library/plotby-property%28Office.15%29.aspx)
-
+[PlotBy Property](http://msdn.microsoft.com/library/9cbc8692-0b50-1b46-c945-a3594a5d29b2%28Office.15%29.aspx)
 

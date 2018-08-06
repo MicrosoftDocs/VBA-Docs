@@ -1,5 +1,5 @@
 ---
-title: Celda TextPosAfterBullet (sección Párrafo), Visio [vis_sdr.chm60089]
+title: TextPosAfterBullet Cell (Paragraph Section), Visio [vis_sdr.chm60089]
 keywords: vis_sdr.chm60089
 f1_keywords:
 - vis_sdr.chm60089
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TextPosAfterBullet Cell (Paragraph Section), Visio [vis_sdr.chm60089]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TextPosAfterBullet (sección Párrafo), Visio [vis_sdr.chm60089]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TextPosAfterBullet (Sección de párrafo)](http://msdn.microsoft.com/library/textposafterbullet-cell-paragraph-section%28Office.15%29.aspx)
-
+[TextPosAfterBullet Cell (Paragraph Section)](http://msdn.microsoft.com/library/08958abb-9d66-5a83-dac3-4cbfd1f6d85e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Comandos Bloque con comentario y Bloque sin comentario, Office Shared [vbui6.chm2056542]
+title: Comment Block and Uncomment Block Commands, Office Shared [vbui6.chm2056542]
 keywords: vbui6.chm2056542
 f1_keywords:
 - vbui6.chm2056542
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Comment Block and Uncomment Block Commands, Office Shared [vbui6.chm2056542]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Bloque con comentario y Bloque sin comentario, Office Shared [vbui6.chm2056542]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Bloque de comentario y Bloque sin comentario](http://msdn.microsoft.com/library/comment-block-and-uncomment-block-commands%28Office.15%29.aspx)
-
+[Comment Block and Uncomment Block Commands](http://msdn.microsoft.com/library/da2ed55e-dc4d-2847-a21e-e328470eb290%28Office.15%29.aspx)
 

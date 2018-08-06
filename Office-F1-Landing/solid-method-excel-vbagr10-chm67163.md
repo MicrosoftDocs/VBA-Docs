@@ -1,5 +1,5 @@
 ---
-title: Método Solid, Excel [vbagr10.chm67163]
+title: Solid Method, Excel [vbagr10.chm67163]
 keywords: vbagr10.chm67163
 f1_keywords:
 - vbagr10.chm67163
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Solid Method, Excel [vbagr10.chm67163]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Solid, Excel [vbagr10.chm67163]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Solid](http://msdn.microsoft.com/library/solid-method%28Office.15%29.aspx)
-
+[Solid Method](http://msdn.microsoft.com/library/34fcc8d7-df60-2bad-0674-a1b9819509f7%28Office.15%29.aspx)
 

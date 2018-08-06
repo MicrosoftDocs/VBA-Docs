@@ -1,5 +1,5 @@
 ---
-title: Control OptionButton, Office Shared [fm20.chm2000580]
+title: OptionButton Control, Office Shared [fm20.chm2000580]
 keywords: fm20.chm2000580
 f1_keywords:
 - fm20.chm2000580
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OptionButton Control, Office Shared [fm20.chm2000580]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control OptionButton, Office Shared [fm20.chm2000580]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control OptionButton](http://msdn.microsoft.com/library/optionbutton-control%28Office.15%29.aspx)
-
+[OptionButton Control](http://msdn.microsoft.com/library/39ce3eb0-ecf1-4f1e-dbcb-a66d7d341615%28Office.15%29.aspx)
 

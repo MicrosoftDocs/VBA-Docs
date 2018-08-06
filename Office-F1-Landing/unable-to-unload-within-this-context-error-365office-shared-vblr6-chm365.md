@@ -1,5 +1,5 @@
 ---
-title: No se puede cargar en este contexto (error 365), Office Shared [vblr6.chm365]
+title: Unable to unload within this context (Error 365), Office Shared [vblr6.chm365]
 keywords: vblr6.chm365
 f1_keywords:
 - vblr6.chm365
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unable to unload within this context (Error 365), Office Shared [vblr6.chm365]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede cargar en este contexto (error 365), Office Shared [vblr6.chm365]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede descargar dentro de este contexto (error 365)](http://msdn.microsoft.com/library/unable-to-unload-within-this-context-error-365%28Office.15%29.aspx)
-
+[Unable to unload within this context (Error 365)](http://msdn.microsoft.com/library/845a5c20-95d1-4920-eb1c-df62dbefc97b%28Office.15%29.aspx)
 

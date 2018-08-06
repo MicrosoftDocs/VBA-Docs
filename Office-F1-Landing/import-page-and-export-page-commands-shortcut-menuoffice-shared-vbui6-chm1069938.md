@@ -1,5 +1,5 @@
 ---
-title: Comandos Importar página y Exportar página (menú Acceso directo), Office Shared [vbui6.chm1069938]
+title: Import Page and Export Page Commands (Shortcut Menu), Office Shared [vbui6.chm1069938]
 keywords: vbui6.chm1069938
 f1_keywords:
 - vbui6.chm1069938
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Import Page and Export Page Commands (Shortcut Menu), Office Shared [vbui6.chm1069938]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Importar página y Exportar página (menú Acceso directo), Office Shared [vbui6.chm1069938]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Importar página y Exportar página (menú contextual)](http://msdn.microsoft.com/library/import-page-and-export-page-commands-shortcut-menu%28Office.15%29.aspx)
-
+[Import Page and Export Page Commands (Shortcut Menu)](http://msdn.microsoft.com/library/52aa5160-3ae7-cf5c-e1e6-1fa90caa1805%28Office.15%29.aspx)
 

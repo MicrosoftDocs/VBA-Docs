@@ -1,5 +1,5 @@
 ---
-title: Evento Error, Office Shared [fm20.chm5224943]
+title: Error Event, Office Shared [fm20.chm5224943]
 keywords: fm20.chm5224943
 f1_keywords:
 - fm20.chm5224943
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Error Event, Office Shared [fm20.chm5224943]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Error, Office Shared [fm20.chm5224943]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Error](http://msdn.microsoft.com/library/error-event%28Office.15%29.aspx)
-
+[Error Event](http://msdn.microsoft.com/library/12901147-8a12-b94b-0aa9-6cd9fe43b2e8%28Office.15%29.aspx)
 

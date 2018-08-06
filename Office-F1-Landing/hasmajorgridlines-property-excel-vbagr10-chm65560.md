@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasMajorGridlines, Excel [vbagr10.chm65560]
+title: HasMajorGridlines Property, Excel [vbagr10.chm65560]
 keywords: vbagr10.chm65560
 f1_keywords:
 - vbagr10.chm65560
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasMajorGridlines Property, Excel [vbagr10.chm65560]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasMajorGridlines, Excel [vbagr10.chm65560]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasMajorGridlines (propiedad)](http://msdn.microsoft.com/library/hasmajorgridlines-property%28Office.15%29.aspx)
-
+[HasMajorGridlines Property](http://msdn.microsoft.com/library/f3c22d5d-4150-43b1-5f0d-3d49049e1e24%28Office.15%29.aspx)
 

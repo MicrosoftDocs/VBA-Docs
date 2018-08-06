@@ -1,5 +1,5 @@
 ---
-title: No se pudo encontrar la ruta de acceso (error 76), Office Shared [vblr6.chm1011250]
+title: Path not found (Error 76), Office Shared [vblr6.chm1011250]
 keywords: vblr6.chm1011250
 f1_keywords:
 - vblr6.chm1011250
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Path not found (Error 76), Office Shared [vblr6.chm1011250]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se pudo encontrar la ruta de acceso (error 76), Office Shared [vblr6.chm1011250]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró la ruta de acceso (error 76)](http://msdn.microsoft.com/library/path-not-found-error-76%28Office.15%29.aspx)
-
+[Path not found (Error 76)](http://msdn.microsoft.com/library/8a75c288-c9c4-2c4a-a58a-f6fbaa9b3896%28Office.15%29.aspx)
 

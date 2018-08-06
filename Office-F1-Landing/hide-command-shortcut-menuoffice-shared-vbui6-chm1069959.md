@@ -1,5 +1,5 @@
 ---
-title: Comando Hide (menú Acceso directo), Office Shared [vbui6.chm1069959]
+title: Hide Command (Shortcut Menu), Office Shared [vbui6.chm1069959]
 keywords: vbui6.chm1069959
 f1_keywords:
 - vbui6.chm1069959
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Hide Command (Shortcut Menu), Office Shared [vbui6.chm1069959]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comando Hide (menú Acceso directo), Office Shared [vbui6.chm1069959]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comando Ocultar (menú contextual)](http://msdn.microsoft.com/library/hide-command-shortcut-menu%28Office.15%29.aspx)
-
+[Hide Command (Shortcut Menu)](http://msdn.microsoft.com/library/9aeedfc0-57d9-4a48-aa1c-152c8bd0f7e7%28Office.15%29.aspx)
 

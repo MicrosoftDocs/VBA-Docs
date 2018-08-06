@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllDatabaseDiagrams, Access [vbaac10.chm12736]
+title: AllDatabaseDiagrams Property, Access [vbaac10.chm12736]
 keywords: vbaac10.chm12736
 f1_keywords:
 - vbaac10.chm12736
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllDatabaseDiagrams Property, Access [vbaac10.chm12736]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllDatabaseDiagrams, Access [vbaac10.chm12736]
+[CodeData.AllDatabaseDiagrams Property (Access)](http://msdn.microsoft.com/library/44c3de6e-ff03-4986-6ed9-ca772232509c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentData.AllDatabaseDiagrams Property (Access)](http://msdn.microsoft.com/library/cffc16bd-34e7-3499-b182-dd6025f4871a%28Office.15%29.aspx)
 
-
- [Propiedad CodeData.AllDatabaseDiagrams (Access)](http://msdn.microsoft.com/library/codedata.alldatabasediagrams-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentData.AllDatabaseDiagrams (Access)](http://msdn.microsoft.com/library/currentdata.alldatabasediagrams-property-access%28Office.15%29.aspx)
 

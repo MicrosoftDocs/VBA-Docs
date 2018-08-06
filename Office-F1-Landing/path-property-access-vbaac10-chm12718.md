@@ -1,5 +1,5 @@
 ---
-title: Propiedad Path, Access [vbaac10.chm12718]
+title: Path Property, Access [vbaac10.chm12718]
 keywords: vbaac10.chm12718
 f1_keywords:
 - vbaac10.chm12718
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Path Property, Access [vbaac10.chm12718]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Path, Access [vbaac10.chm12718]
+[CodeProject.Path Property (Access)](http://msdn.microsoft.com/library/3d811cc3-ebb3-3cbc-fc3d-e1ab40ceea27%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.Path Property (Access)](http://msdn.microsoft.com/library/25f28502-b5fc-aafa-9189-eb091907a529%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.Path (Access)](http://msdn.microsoft.com/library/codeproject.path-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.Path (Access)](http://msdn.microsoft.com/library/currentproject.path-property-access%28Office.15%29.aspx)
 

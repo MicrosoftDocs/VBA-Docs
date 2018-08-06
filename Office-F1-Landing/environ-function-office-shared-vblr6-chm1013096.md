@@ -1,5 +1,5 @@
 ---
-title: Función Environ, Office Shared [vblr6.chm1013096]
+title: Environ Function, Office Shared [vblr6.chm1013096]
 keywords: vblr6.chm1013096
 f1_keywords:
 - vblr6.chm1013096
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Environ Function, Office Shared [vblr6.chm1013096]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Environ, Office Shared [vblr6.chm1013096]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función Environ](http://msdn.microsoft.com/library/environ-function%28Office.15%29.aspx)
-
+[Environ Function](http://msdn.microsoft.com/library/ad8cb911-5dab-a327-bd9c-ee57818a713a%28Office.15%29.aspx)
 

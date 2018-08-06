@@ -1,5 +1,5 @@
 ---
-title: Propiedad SpecialEffect, Office Shared [fm20.chm2001960]
+title: SpecialEffect Property, Office Shared [fm20.chm2001960]
 keywords: fm20.chm2001960
 f1_keywords:
 - fm20.chm2001960
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SpecialEffect Property, Office Shared [fm20.chm2001960]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SpecialEffect, Office Shared [fm20.chm2001960]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad SpecialEffect](http://msdn.microsoft.com/library/specialeffect-property%28Office.15%29.aspx)
-
+[SpecialEffect Property](http://msdn.microsoft.com/library/db3fa148-42f3-fded-9ec4-6d46c963fdce%28Office.15%29.aspx)
 

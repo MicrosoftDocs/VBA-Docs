@@ -1,5 +1,5 @@
 ---
-title: Propiedad Width, Access [vbaac10.chm11073]
+title: Width Property, Access [vbaac10.chm11073]
 keywords: vbaac10.chm11073
 f1_keywords:
 - vbaac10.chm11073
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Property, Access [vbaac10.chm11073]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Width, Access [vbaac10.chm11073]
+[TextBox.Width Property (Access)](http://msdn.microsoft.com/library/0bb72524-6682-f783-e9f9-4fd34a757a40%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Width Property (Access)](http://msdn.microsoft.com/library/373efc78-6b33-827a-5b95-9cc9fff7f9e6%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Width (Access)](http://msdn.microsoft.com/library/textbox.width-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Width (Access)](http://msdn.microsoft.com/library/navigationcontrol.width-property-access%28Office.15%29.aspx)
 

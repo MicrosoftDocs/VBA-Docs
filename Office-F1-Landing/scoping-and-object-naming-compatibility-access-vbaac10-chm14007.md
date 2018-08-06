@@ -1,5 +1,5 @@
 ---
-title: Compatibilidad del alcance y nombre de los objetos, Access [vbaac10.chm14007]
+title: Scoping and Object-Naming Compatibility, Access [vbaac10.chm14007]
 keywords: vbaac10.chm14007
 f1_keywords:
 - vbaac10.chm14007
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Scoping and Object-Naming Compatibility, Access [vbaac10.chm14007]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Compatibilidad del alcance y nombre de los objetos, Access [vbaac10.chm14007]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Compatibilidad del alcance y nombre de los objetos](http://msdn.microsoft.com/library/scoping-and-object-naming-compatibility%28Office.15%29.aspx)
-
+[Scoping and Object-Naming Compatibility](http://msdn.microsoft.com/library/50e86279-78d0-c509-1598-250517153fe7%28Office.15%29.aspx)
 

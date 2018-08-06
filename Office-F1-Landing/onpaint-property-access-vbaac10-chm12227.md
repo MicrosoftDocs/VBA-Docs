@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnPaint, Access [vbaac10.chm12227]
+title: OnPaint Property, Access [vbaac10.chm12227]
 keywords: vbaac10.chm12227
 f1_keywords:
 - vbaac10.chm12227
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnPaint Property, Access [vbaac10.chm12227]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnPaint, Access [vbaac10.chm12227]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.OnPaint (Access)](http://msdn.microsoft.com/library/section.onpaint-property-access%28Office.15%29.aspx)
-
+[Section.OnPaint Property (Access)](http://msdn.microsoft.com/library/ecc8a106-3aff-e0e2-3e7b-86a793cc6f7e%28Office.15%29.aspx)
 

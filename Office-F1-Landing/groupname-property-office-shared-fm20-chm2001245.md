@@ -1,5 +1,5 @@
 ---
-title: Propiedad GroupName, Office Shared [fm20.chm2001245]
+title: GroupName Property, Office Shared [fm20.chm2001245]
 keywords: fm20.chm2001245
 f1_keywords:
 - fm20.chm2001245
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# GroupName Property, Office Shared [fm20.chm2001245]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GroupName, Office Shared [fm20.chm2001245]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad GroupName](http://msdn.microsoft.com/library/groupname-property%28Office.15%29.aspx)
-
+[GroupName Property](http://msdn.microsoft.com/library/ae7312e7-3125-3110-1c90-bb87c4453e32%28Office.15%29.aspx)
 

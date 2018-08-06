@@ -1,5 +1,5 @@
 ---
-title: Propiedad CanShrink, Access [vbaac10.chm5463]
+title: CanShrink Property, Access [vbaac10.chm5463]
 keywords: vbaac10.chm5463
 f1_keywords:
 - vbaac10.chm5463
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# CanShrink Property, Access [vbaac10.chm5463]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CanShrink, Access [vbaac10.chm5463]
+[Section.CanShrink Property (Access)](http://msdn.microsoft.com/library/e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.CanShrink Property (Access)](http://msdn.microsoft.com/library/d4ac842c-18ea-a3be-a90a-5dd9d10d7b8f%28Office.15%29.aspx)
 
-
- [Propiedad Section.CanShrink (Access)](http://msdn.microsoft.com/library/section.canshrink-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.CanShrink (Access)](http://msdn.microsoft.com/library/textbox.canshrink-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.CanShrink (Access)](http://msdn.microsoft.com/library/combobox.canshrink-property-access%28Office.15%29.aspx)
-
- [Propiedad SubForm.CanShrink (Access)](http://msdn.microsoft.com/library/subform.canshrink-property-access%28Office.15%29.aspx)
-
+[ComboBox.CanShrink Property (Access)](http://msdn.microsoft.com/library/6f74e442-0b65-1d15-b247-6e12b9a08f1e%28Office.15%29.aspx)
+[SubForm.CanShrink Property (Access)](http://msdn.microsoft.com/library/55170bb3-6c5c-ab6a-3643-719b13c876e8%28Office.15%29.aspx)
 

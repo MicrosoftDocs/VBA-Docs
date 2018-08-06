@@ -1,5 +1,5 @@
 ---
-title: Propiedad VaryByCategories, Excel [vbagr10.chm5208121]
+title: VaryByCategories Property, Excel [vbagr10.chm5208121]
 keywords: vbagr10.chm5208121
 f1_keywords:
 - vbagr10.chm5208121
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VaryByCategories Property, Excel [vbagr10.chm5208121]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad VaryByCategories, Excel [vbagr10.chm5208121]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [VaryByCategories (propiedad)](http://msdn.microsoft.com/library/varybycategories-property%28Office.15%29.aspx)
-
+[VaryByCategories Property](http://msdn.microsoft.com/library/e64bd5cb-1dfa-b78a-ee7e-cf3eb7b4a788%28Office.15%29.aspx)
 

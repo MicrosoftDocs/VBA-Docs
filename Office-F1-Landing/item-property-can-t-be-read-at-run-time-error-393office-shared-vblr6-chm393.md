@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'Item' property can't be read at run time (Error 393), Office Shared [vblr6.chm393]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La propiedad 'Item' no se puede leer en tiempo de ejecución (error 393), Office Shared [vblr6.chm393]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad 'item' no se puede leer en tiempo de ejecución (error 393)](http://msdn.microsoft.com/library/-item-property-can-t-be-read-at-run-time-error-393%28Office.15%29.aspx)
-
+['Item' property can't be read at run time (Error 393)](http://msdn.microsoft.com/library/80b33869-c3a3-9f3f-57e4-076b81b31a66%28Office.15%29.aspx)
 

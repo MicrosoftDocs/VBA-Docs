@@ -1,5 +1,5 @@
 ---
-title: Propiedad BorderStyle, Office Shared [fm20.chm2000820]
+title: BorderStyle Property, Office Shared [fm20.chm2000820]
 keywords: fm20.chm2000820
 f1_keywords:
 - fm20.chm2000820
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BorderStyle Property, Office Shared [fm20.chm2000820]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BorderStyle, Office Shared [fm20.chm2000820]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad BorderStyle](http://msdn.microsoft.com/library/borderstyle-property%28Office.15%29.aspx)
-
+[BorderStyle Property](http://msdn.microsoft.com/library/211ffd49-cf3a-8fff-1f00-58a97b833580%28Office.15%29.aspx)
 

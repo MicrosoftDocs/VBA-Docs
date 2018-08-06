@@ -1,5 +1,5 @@
 ---
-title: Celda Comment (sección Varios), Visio [Vis_DSS.chm82251621]
+title: Comment Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251621]
 keywords: vis_dss.chm82251621
 f1_keywords:
 - vis_dss.chm82251621
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Comment Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251621]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Comment (sección Varios), Visio [Vis_DSS.chm82251621]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Comment (Sección de varios)](http://msdn.microsoft.com/library/comment-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[Comment Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/6f52ed60-d58b-86e6-f7e2-2ef19d4afa75%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Instrucción Do...Loop, Office Shared [vblr6.chm1008899]
+title: Do...Loop Statement, Office Shared [vblr6.chm1008899]
 keywords: vblr6.chm1008899
 f1_keywords:
 - vblr6.chm1008899
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Do...Loop Statement, Office Shared [vblr6.chm1008899]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción Do...Loop, Office Shared [vblr6.chm1008899]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Do...Loop](http://msdn.microsoft.com/library/do...loop-statement%28Office.15%29.aspx)
-
+[Do...Loop Statement](http://msdn.microsoft.com/library/f1ac3901-238d-3e38-45dc-f659fd88c23b%28Office.15%29.aspx)
 

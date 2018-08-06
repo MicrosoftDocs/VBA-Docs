@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height, Excel [vbagr10.chm3077060]
+title: Height Property, Excel [vbagr10.chm3077060]
 keywords: vbagr10.chm3077060
 f1_keywords:
 - vbagr10.chm3077060
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property, Excel [vbagr10.chm3077060]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height, Excel [vbagr10.chm3077060]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Height (gráfico)](http://msdn.microsoft.com/library/height-property-graph%28Office.15%29.aspx)
-
+[Height Property (Graph)](http://msdn.microsoft.com/library/bc8f0abe-6753-a64f-4615-d0ee04a7cee4%28Office.15%29.aspx)
 

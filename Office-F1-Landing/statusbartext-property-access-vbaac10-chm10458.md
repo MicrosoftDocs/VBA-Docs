@@ -1,5 +1,5 @@
 ---
-title: Propiedad StatusBarText, Access [vbaac10.chm10458]
+title: StatusBarText Property, Access [vbaac10.chm10458]
 keywords: vbaac10.chm10458
 f1_keywords:
 - vbaac10.chm10458
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# StatusBarText Property, Access [vbaac10.chm10458]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad StatusBarText, Access [vbaac10.chm10458]
+[CommandButton.StatusBarText Property (Access)](http://msdn.microsoft.com/library/2dc18f10-0b6f-2ae5-21c6-52c6d21ff03b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.StatusBarText Property (Access)](http://msdn.microsoft.com/library/ebfeaa64-b614-11a7-c385-53fe24745a77%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.StatusBarText (Access)](http://msdn.microsoft.com/library/commandbutton.statusbartext-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.StatusBarText (Access)](http://msdn.microsoft.com/library/navigationbutton.statusbartext-property-access%28Office.15%29.aspx)
 

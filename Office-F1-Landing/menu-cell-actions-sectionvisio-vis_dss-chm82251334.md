@@ -1,5 +1,5 @@
 ---
-title: Celda Menu (sección Acciones), Visio [Vis_DSS.chm82251334]
+title: Menu Cell (Actions Section), Visio [Vis_DSS.chm82251334]
 keywords: vis_dss.chm82251334
 f1_keywords:
 - vis_dss.chm82251334
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Menu Cell (Actions Section), Visio [Vis_DSS.chm82251334]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Menu (sección Acciones), Visio [Vis_DSS.chm82251334]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Menu (sección de acciones)](http://msdn.microsoft.com/library/menu-cell-actions-section%28Office.15%29.aspx)
-
+[Menu Cell (Actions Section)](http://msdn.microsoft.com/library/29af746c-b081-24cf-a30d-a56353ee849e%28Office.15%29.aspx)
 

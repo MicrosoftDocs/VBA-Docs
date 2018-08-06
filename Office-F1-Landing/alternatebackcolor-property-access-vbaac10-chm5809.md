@@ -1,5 +1,5 @@
 ---
-title: Propiedad AlternateBackColor, Access [vbaac10.chm5809]
+title: AlternateBackColor Property, Access [vbaac10.chm5809]
 keywords: vbaac10.chm5809
 f1_keywords:
 - vbaac10.chm5809
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AlternateBackColor Property, Access [vbaac10.chm5809]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AlternateBackColor, Access [vbaac10.chm5809]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.AlternateBackColor (Access)](http://msdn.microsoft.com/library/section.alternatebackcolor-property-access%28Office.15%29.aspx)
-
+[Section.AlternateBackColor Property (Access)](http://msdn.microsoft.com/library/a99c84e3-fa34-3a29-9f5a-e52032671e82%28Office.15%29.aspx)
 

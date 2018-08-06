@@ -1,5 +1,5 @@
 ---
-title: Propiedad Points, Excel [vbaxl10.chm871086]
+title: Points Property, Excel [vbaxl10.chm871086]
 keywords: vbaxl10.chm871086
 f1_keywords:
 - vbaxl10.chm871086
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Points Property, Excel [vbaxl10.chm871086]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Points, Excel [vbaxl10.chm871086]
+[SparklineGroup.Points Property (Excel)](http://msdn.microsoft.com/library/8891e8f6-811b-9540-b4d3-0651206013e2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Points Property](http://msdn.microsoft.com/library/afcc972f-aa1b-74f8-7b00-332cc3fa17a3%28Office.15%29.aspx)
 
-
- [Propiedad SparklineGroup.Points (Excel)](http://msdn.microsoft.com/library/sparklinegroup.points-property-excel%28Office.15%29.aspx)
-
-
- [Points (propiedad) (Excel)](http://msdn.microsoft.com/library/afcc972f-aa1b-74f8-7b00-332cc3fa17a3%28Office.15%29.aspx)
 

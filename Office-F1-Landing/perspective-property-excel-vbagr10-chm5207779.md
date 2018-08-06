@@ -1,5 +1,5 @@
 ---
-title: Propiedad Perspective, Excel [vbagr10.chm5207779]
+title: Perspective Property, Excel [vbagr10.chm5207779]
 keywords: vbagr10.chm5207779
 f1_keywords:
 - vbagr10.chm5207779
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Perspective Property, Excel [vbagr10.chm5207779]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Perspective, Excel [vbagr10.chm5207779]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Perspective (propiedad)](http://msdn.microsoft.com/library/perspective-property%28Office.15%29.aspx)
-
+[Perspective Property](http://msdn.microsoft.com/library/84ddaf6c-1204-1a7b-55e5-7d3cf2787a2c%28Office.15%29.aspx)
 

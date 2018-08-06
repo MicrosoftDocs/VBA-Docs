@@ -1,5 +1,5 @@
 ---
-title: La propiedad Set no se puede ejecutar en tiempo de ejecución (error 382), Office Shared [vblr6.chm1107959]
+title: Property Set can't be executed at run time (Error 382), Office Shared [vblr6.chm1107959]
 keywords: vblr6.chm1107959
 f1_keywords:
 - vblr6.chm1107959
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property Set can't be executed at run time (Error 382), Office Shared [vblr6.chm1107959]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La propiedad Set no se puede ejecutar en tiempo de ejecución (error 382), Office Shared [vblr6.chm1107959]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad Set no se puede ejecutar en tiempo de ejecución (error 382)](http://msdn.microsoft.com/library/property-set-can-t-be-executed-at-run-time-error-382%28Office.15%29.aspx)
-
+[Property Set can't be executed at run time (Error 382)](http://msdn.microsoft.com/library/ab039acc-a840-41e7-b5ce-b31ef1452304%28Office.15%29.aspx)
 

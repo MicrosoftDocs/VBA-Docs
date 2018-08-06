@@ -1,5 +1,5 @@
 ---
-title: Celda ComplexScriptFont (sección Character), Visio [Vis_DSS.chm1033765]
+title: ComplexScriptFont Cell (Character Section), Visio [Vis_DSS.chm1033765]
 keywords: vis_dss.chm1033765
 f1_keywords:
 - vis_dss.chm1033765
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ComplexScriptFont Cell (Character Section), Visio [Vis_DSS.chm1033765]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ComplexScriptFont (sección Character), Visio [Vis_DSS.chm1033765]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ComplexScriptFont (Sección de caracteres)](http://msdn.microsoft.com/library/complexscriptfont-cell-character-section%28Office.15%29.aspx)
-
+[ComplexScriptFont Cell (Character Section)](http://msdn.microsoft.com/library/e1cf9e97-101b-384f-65fe-0169c89dfccc%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad HoverForeTint, Access [vbaac10.chm14617]
+title: HoverForeTint Property, Access [vbaac10.chm14617]
 keywords: vbaac10.chm14617
 f1_keywords:
 - vbaac10.chm14617
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# HoverForeTint Property, Access [vbaac10.chm14617]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HoverForeTint, Access [vbaac10.chm14617]
+[CommandButton.HoverForeTint Property (Access)](http://msdn.microsoft.com/library/88922fd3-f8ce-5f07-f364-1155ac6070fe%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TabControl.HoverForeTint Property (Access)](http://msdn.microsoft.com/library/0c8468f1-bc5f-85b2-defc-7f193cdd55e7%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.HoverForeTint (Access)](http://msdn.microsoft.com/library/commandbutton.hoverforetint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TabControl.HoverForeTint (Access)](http://msdn.microsoft.com/library/tabcontrol.hoverforetint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.HoverForeTint (Access)](http://msdn.microsoft.com/library/navigationbutton.hoverforetint-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.HoverForeTint (Access)](http://msdn.microsoft.com/library/togglebutton.hoverforetint-property-access%28Office.15%29.aspx)
-
+[NavigationButton.HoverForeTint Property (Access)](http://msdn.microsoft.com/library/3d609fbc-0828-0607-5b14-e952bd321759%28Office.15%29.aspx)
+[ToggleButton.HoverForeTint Property (Access)](http://msdn.microsoft.com/library/81b67e89-3ae9-941f-4830-fcdbf02afd9e%28Office.15%29.aspx)
 

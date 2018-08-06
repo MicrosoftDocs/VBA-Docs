@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerBackgroundColor, Excel [vbagr10.chm5207653]
+title: MarkerBackgroundColor Property, Excel [vbagr10.chm5207653]
 keywords: vbagr10.chm5207653
 f1_keywords:
 - vbagr10.chm5207653
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerBackgroundColor Property, Excel [vbagr10.chm5207653]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerBackgroundColor, Excel [vbagr10.chm5207653]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MarkerBackgroundColor (propiedad)](http://msdn.microsoft.com/library/markerbackgroundcolor-property%28Office.15%29.aspx)
-
+[MarkerBackgroundColor Property](http://msdn.microsoft.com/library/035d3bf9-e6cf-7f43-aaee-fc3c3926afaa%28Office.15%29.aspx)
 

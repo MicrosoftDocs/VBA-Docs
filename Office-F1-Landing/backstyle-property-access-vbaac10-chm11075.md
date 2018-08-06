@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackStyle, Access [vbaac10.chm11075]
+title: BackStyle Property, Access [vbaac10.chm11075]
 keywords: vbaac10.chm11075
 f1_keywords:
 - vbaac10.chm11075
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BackStyle Property, Access [vbaac10.chm11075]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackStyle, Access [vbaac10.chm11075]
+[TextBox.BackStyle Property (Access)](http://msdn.microsoft.com/library/95a277c8-df48-79a5-c232-2cfe32eae8f2%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.BackStyle Property (Access)](http://msdn.microsoft.com/library/1f46ccfd-78cc-0eae-3485-b91306dc6bde%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.BackStyle (Access)](http://msdn.microsoft.com/library/textbox.backstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.BackStyle (Access)](http://msdn.microsoft.com/library/navigationcontrol.backstyle-property-access%28Office.15%29.aspx)
 

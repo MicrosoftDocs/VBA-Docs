@@ -1,5 +1,5 @@
 ---
-title: Fila Actions (sección Acciones), Visio [vis_sdr.chm60017]
+title: Actions Row (Actions Section), Visio [vis_sdr.chm60017]
 keywords: vis_sdr.chm60017
 f1_keywords:
 - vis_sdr.chm60017
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Actions Row (Actions Section), Visio [vis_sdr.chm60017]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila Actions (sección Acciones), Visio [vis_sdr.chm60017]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila Actions (sección de acciones)](http://msdn.microsoft.com/library/actions-row-actions-section%28Office.15%29.aspx)
-
+[Actions Row (Actions Section)](http://msdn.microsoft.com/library/29a7464a-b9d4-a8ea-161b-3044de32ed23%28Office.15%29.aspx)
 

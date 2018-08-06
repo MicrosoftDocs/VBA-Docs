@@ -1,5 +1,5 @@
 ---
-title: Método DropIntoList, Visio [vis_sdr.chm10962180]
+title: DropIntoList Method, Visio [vis_sdr.chm10962180]
 keywords: vis_sdr.chm10962180
 f1_keywords:
 - vis_sdr.chm10962180
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DropIntoList Method, Visio [vis_sdr.chm10962180]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DropIntoList, Visio [vis_sdr.chm10962180]
+[Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/877506b8-3131-47af-3a7e-48a1b8aefa2b.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/fcefca11-d64b-9f95-a00e-bf9968d26267%28Office.15%29.aspx)
 
-
- [Page.DropIntoList Method (Visio)](http://msdn.microsoft.com/library/877506b8-3131-47af-3a7e-48a1b8aefa2b.aspx)
-
-
- [Page.DropIntoList (método)](http://msdn.microsoft.com/library/page.dropintolist-method-visio%28Office.15%29.aspx)
 

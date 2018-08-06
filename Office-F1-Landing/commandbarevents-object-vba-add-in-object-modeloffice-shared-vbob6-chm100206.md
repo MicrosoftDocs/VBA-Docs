@@ -1,5 +1,5 @@
 ---
-title: Objeto CommandBarEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100206]
+title: CommandBarEvents Object (VBA Add-In Object Model), Office Shared [vbob6.chm100206]
 keywords: vbob6.chm100206
 f1_keywords:
 - vbob6.chm100206
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CommandBarEvents Object (VBA Add-In Object Model), Office Shared [vbob6.chm100206]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto CommandBarEvents (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100206]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto CommandBarEvents (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/commandbarevents-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CommandBarEvents Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/894d6356-d9b6-ade1-3bd2-9624b9026ae2%28Office.15%29.aspx)
 

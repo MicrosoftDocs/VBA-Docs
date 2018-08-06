@@ -1,5 +1,5 @@
 ---
-title: Evento Scroll, Office Shared [fm20.chm2000210]
+title: Scroll Event, Office Shared [fm20.chm2000210]
 keywords: fm20.chm2000210
 f1_keywords:
 - fm20.chm2000210
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Scroll Event, Office Shared [fm20.chm2000210]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Scroll, Office Shared [fm20.chm2000210]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Scroll](http://msdn.microsoft.com/library/scroll-event%28Office.15%29.aspx)
-
+[Scroll Event](http://msdn.microsoft.com/library/1b4f6243-ea9b-320c-1afd-9bb230823ffb%28Office.15%29.aspx)
 

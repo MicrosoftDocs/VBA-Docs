@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnPrint, Access [vbaac10.chm4103]
+title: OnPrint Property, Access [vbaac10.chm4103]
 keywords: vbaac10.chm4103
 f1_keywords:
 - vbaac10.chm4103
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnPrint Property, Access [vbaac10.chm4103]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnPrint, Access [vbaac10.chm4103]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.OnPrint (Access)](http://msdn.microsoft.com/library/section.onprint-property-access%28Office.15%29.aspx)
-
+[Section.OnPrint Property (Access)](http://msdn.microsoft.com/library/f8df36f2-697b-7a1d-6343-76d2a2a7b0cf%28Office.15%29.aspx)
 

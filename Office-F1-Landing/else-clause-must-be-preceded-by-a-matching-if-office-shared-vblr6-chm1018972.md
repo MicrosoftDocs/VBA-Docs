@@ -1,5 +1,5 @@
 ---
-title: La cláusula #Else debe estar precedida por un #If coincidente, Office Shared [vblr6.chm1018972]
+title: Else clause must be preceded by a matching If, Office Shared [vblr6.chm1018972]
 keywords: vblr6.chm1018972
 f1_keywords:
 - vblr6.chm1018972
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# #Else clause must be preceded by a matching #If, Office Shared [vblr6.chm1018972]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La cláusula #Else debe estar precedida por un #If coincidente, Office Shared [vblr6.chm1018972]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La cláusula #Else debe ir precedida del #If correspondiente](http://msdn.microsoft.com/library/else-clause-must-be-preceded-by-a-matching-if%28Office.15%29.aspx)
-
+[#Else clause must be preceded by a matching #If](http://msdn.microsoft.com/library/4054aec1-ef5d-a939-3c7e-715d4dcde19f%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: No se permite la referencia cíclica de proyectos, Office Shared [vblr6.chm1040175]
+title: Cyclic reference of projects not allowed, Office Shared [vblr6.chm1040175]
 keywords: vblr6.chm1040175
 f1_keywords:
 - vblr6.chm1040175
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Cyclic reference of projects not allowed, Office Shared [vblr6.chm1040175]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se permite la referencia cíclica de proyectos, Office Shared [vblr6.chm1040175]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Referencia cíclica de proyectos no permitida](http://msdn.microsoft.com/library/cyclic-reference-of-projects-not-allowed%28Office.15%29.aspx)
-
+[Cyclic reference of projects not allowed](http://msdn.microsoft.com/library/40b1af10-726c-6a66-a2c9-12cf380ac8e9%28Office.15%29.aspx)
 

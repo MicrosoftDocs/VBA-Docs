@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoHeight, Access [vbaac10.chm12217]
+title: AutoHeight Property, Access [vbaac10.chm12217]
 keywords: vbaac10.chm12217
 f1_keywords:
 - vbaac10.chm12217
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoHeight Property, Access [vbaac10.chm12217]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoHeight, Access [vbaac10.chm12217]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.AutoHeight (Access)](http://msdn.microsoft.com/library/section.autoheight-property-access%28Office.15%29.aspx)
-
+[Section.AutoHeight Property (Access)](http://msdn.microsoft.com/library/e3398f5c-cf1c-1d3e-1a70-8233adbb0c85%28Office.15%29.aspx)
 

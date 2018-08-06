@@ -1,5 +1,5 @@
 ---
-title: Propiedad GapDepth, Word [vbawd10.chm79364104]
+title: GapDepth Property, Word [vbawd10.chm79364104]
 keywords: vbawd10.chm79364104
 f1_keywords:
 - vbawd10.chm79364104
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GapDepth Property, Word [vbawd10.chm79364104]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GapDepth, Word [vbawd10.chm79364104]
+[Chart.GapDepth Property (Word)](http://msdn.microsoft.com/library/09147a74-c8bb-4fc5-0389-c8f46e0be67d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.ChartGroups Property (Word)](http://msdn.microsoft.com/library/ae4da68e-1e80-f683-b1ef-eb26aa753420%28Office.15%29.aspx)
 
-
- [Propiedad Chart.GapDepth (Word)](http://msdn.microsoft.com/library/chart.gapdepth-property-word%28Office.15%29.aspx)
-
-
- [Propiedad de Chart.ChartGroups (Word)](http://msdn.microsoft.com/library/chart.chartgroups-property-word%28Office.15%29.aspx)
 

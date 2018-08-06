@@ -1,5 +1,5 @@
 ---
-title: Evento QuitCanceled, Visio [vis_sdr.chm10019335]
+title: QuitCanceled Event, Visio [vis_sdr.chm10019335]
 keywords: vis_sdr.chm10019335
 f1_keywords:
 - vis_sdr.chm10019335
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QuitCanceled Event, Visio [vis_sdr.chm10019335]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QuitCanceled, Visio [vis_sdr.chm10019335]
+[Application.QuitCanceled Event (Visio)](http://msdn.microsoft.com/library/0861a2ea-f4d7-dc57-7642-2e7642fd2afe%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.QuitCanceled Event (Visio)](http://msdn.microsoft.com/library/48e46a44-581f-cd79-dbeb-6ee70c6b391b%28Office.15%29.aspx)
 
-
- [Evento Application.QuitCanceled (Visio)](http://msdn.microsoft.com/library/application.quitcanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.QuitCanceled (Visio)](http://msdn.microsoft.com/library/invisibleapp.quitcanceled-event-visio%28Office.15%29.aspx)
 

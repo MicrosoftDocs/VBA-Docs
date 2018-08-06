@@ -1,5 +1,5 @@
 ---
-title: Celda LocPinX (sección Shape Transform), Visio [Vis_DSS.chm82251201]
+title: LocPinX Cell (Shape Transform Section), Visio [Vis_DSS.chm82251201]
 keywords: vis_dss.chm82251201
 f1_keywords:
 - vis_dss.chm82251201
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LocPinX Cell (Shape Transform Section), Visio [Vis_DSS.chm82251201]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LocPinX (sección Shape Transform), Visio [Vis_DSS.chm82251201]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LocPinX (Sección de transformación de forma)](http://msdn.microsoft.com/library/locpinx-cell-shape-transform-section%28Office.15%29.aspx)
-
+[LocPinX Cell (Shape Transform Section)](http://msdn.microsoft.com/library/b82feade-5793-8a6e-3ff4-69a4cbdd2cf9%28Office.15%29.aspx)
 

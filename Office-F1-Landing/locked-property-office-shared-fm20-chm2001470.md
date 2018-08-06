@@ -1,5 +1,5 @@
 ---
-title: Propiedad Locked , Office Shared [fm20.chm2001470]
+title: Locked Property, Office Shared [fm20.chm2001470]
 keywords: fm20.chm2001470
 f1_keywords:
 - fm20.chm2001470
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Locked Property, Office Shared [fm20.chm2001470]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Locked , Office Shared [fm20.chm2001470]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Locked](http://msdn.microsoft.com/library/locked-property%28Office.15%29.aspx)
-
+[Locked Property](http://msdn.microsoft.com/library/08bf09c4-0445-0749-daf2-a0fab8787ea8%28Office.15%29.aspx)
 

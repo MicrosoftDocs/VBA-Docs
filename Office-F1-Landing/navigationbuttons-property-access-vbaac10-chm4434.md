@@ -1,5 +1,5 @@
 ---
-title: Propiedad NavigationButtons, Access [vbaac10.chm4434]
+title: NavigationButtons Property, Access [vbaac10.chm4434]
 keywords: vbaac10.chm4434
 f1_keywords:
 - vbaac10.chm4434
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# NavigationButtons Property, Access [vbaac10.chm4434]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NavigationButtons, Access [vbaac10.chm4434]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.NavigationButtons (Access)](http://msdn.microsoft.com/library/form.navigationbuttons-property-access%28Office.15%29.aspx)
-
+[Form.NavigationButtons Property (Access)](http://msdn.microsoft.com/library/23af1adc-67e9-b39d-772b-ddecf159f861%28Office.15%29.aspx)
 

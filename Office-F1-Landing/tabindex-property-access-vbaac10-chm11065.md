@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabIndex, Access [vbaac10.chm11065]
+title: TabIndex Property, Access [vbaac10.chm11065]
 keywords: vbaac10.chm11065
 f1_keywords:
 - vbaac10.chm11065
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# TabIndex Property, Access [vbaac10.chm11065]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabIndex, Access [vbaac10.chm11065]
+[TextBox.TabIndex Property (Access)](http://msdn.microsoft.com/library/d52e0839-e0aa-1b67-b075-115ad7b2f774%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.TabIndex Property (Access)](http://msdn.microsoft.com/library/2fc2511e-5a92-7039-cfec-2556b3384fb7%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.TabIndex (Access)](http://msdn.microsoft.com/library/textbox.tabindex-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.TabIndex (Access)](http://msdn.microsoft.com/library/navigationcontrol.tabindex-property-access%28Office.15%29.aspx)
 

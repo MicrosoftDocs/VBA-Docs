@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumberFormat, PowerPoint [vbapp10.chm65729]
+title: NumberFormat Property, PowerPoint [vbapp10.chm65729]
 keywords: vbapp10.chm65729
 f1_keywords:
 - vbapp10.chm65729
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# NumberFormat Property, PowerPoint [vbapp10.chm65729]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumberFormat, PowerPoint [vbapp10.chm65729]
+[DataLabel.NumberFormat Property (PowerPoint)](http://msdn.microsoft.com/library/b19a87fb-3a20-dc56-2bb0-1e606e9a765c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.NumberFormat Property (PowerPoint)](http://msdn.microsoft.com/library/5007f141-9ed1-1337-d8b9-9d28903db7ce%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.NumberFormat (PowerPoint)](http://msdn.microsoft.com/library/datalabel.numberformat-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.NumberFormat (PowerPoint)](http://msdn.microsoft.com/library/datalabels.numberformat-property-powerpoint%28Office.15%29.aspx)
 

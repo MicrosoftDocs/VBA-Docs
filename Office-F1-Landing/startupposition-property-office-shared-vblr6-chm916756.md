@@ -1,5 +1,5 @@
 ---
-title: Propiedad StartUpPosition, Office Shared [vblr6.chm916756]
+title: StartUpPosition Property, Office Shared [vblr6.chm916756]
 keywords: vblr6.chm916756
 f1_keywords:
 - vblr6.chm916756
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# StartUpPosition Property, Office Shared [vblr6.chm916756]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad StartUpPosition, Office Shared [vblr6.chm916756]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad StartUpPosition](http://msdn.microsoft.com/library/startupposition-property%28Office.15%29.aspx)
-
+[StartUpPosition Property](http://msdn.microsoft.com/library/0ceb1e6d-b45e-a1df-03df-fd73ce814a79%28Office.15%29.aspx)
 

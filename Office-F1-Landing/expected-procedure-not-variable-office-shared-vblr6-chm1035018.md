@@ -1,5 +1,5 @@
 ---
-title: Se esperaba un procedimiento en lugar de una variable, Office Shared [vblr6.chm1035018]
+title: Expected procedure, not variable, Office Shared [vblr6.chm1035018]
 keywords: vblr6.chm1035018
 f1_keywords:
 - vblr6.chm1035018
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected procedure, not variable, Office Shared [vblr6.chm1035018]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se esperaba un procedimiento en lugar de una variable, Office Shared [vblr6.chm1035018]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Procedimiento previsto, no es una variable](http://msdn.microsoft.com/library/expected-procedure-not-variable%28Office.15%29.aspx)
-
+[Expected procedure, not variable](http://msdn.microsoft.com/library/d79cc806-358d-889e-6a54-b5d2c140ef7a%28Office.15%29.aspx)
 

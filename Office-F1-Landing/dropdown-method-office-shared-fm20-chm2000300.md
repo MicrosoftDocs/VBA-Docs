@@ -1,5 +1,5 @@
 ---
-title: Método DropDown, Office Shared [fm20.chm2000300]
+title: DropDown Method, Office Shared [fm20.chm2000300]
 keywords: fm20.chm2000300
 f1_keywords:
 - fm20.chm2000300
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DropDown Method, Office Shared [fm20.chm2000300]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método DropDown, Office Shared [fm20.chm2000300]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método DropDown](http://msdn.microsoft.com/library/dropdown-method%28Office.15%29.aspx)
-
+[DropDown Method](http://msdn.microsoft.com/library/414efeb9-c598-cd48-763b-b42a1b947f0a%28Office.15%29.aspx)
 

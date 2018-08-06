@@ -1,5 +1,5 @@
 ---
-title: Error al obtener acceso al registro del sistema, Office Shared [vblr6.chm1032796]
+title: Error accessing the system registry, Office Shared [vblr6.chm1032796]
 keywords: vblr6.chm1032796
 f1_keywords:
 - vblr6.chm1032796
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Error accessing the system registry, Office Shared [vblr6.chm1032796]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error al obtener acceso al registro del sistema, Office Shared [vblr6.chm1032796]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error al obtener acceso al registro del sistema](http://msdn.microsoft.com/library/error-accessing-the-system-registry%28Office.15%29.aspx)
-
+[Error accessing the system registry](http://msdn.microsoft.com/library/faaa5544-d39f-2b3e-bd9f-656cb4f2661e%28Office.15%29.aspx)
 

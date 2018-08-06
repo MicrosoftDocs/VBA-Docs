@@ -1,5 +1,5 @@
 ---
-title: Evento OnKeystrokeMessageForAddon, Visio [vis_sdr.chm11650740]
+title: OnKeystrokeMessageForAddon Event, Visio [vis_sdr.chm11650740]
 keywords: vis_sdr.chm11650740
 f1_keywords:
 - vis_sdr.chm11650740
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnKeystrokeMessageForAddon Event, Visio [vis_sdr.chm11650740]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento OnKeystrokeMessageForAddon, Visio [vis_sdr.chm11650740]
+[DrawingControl.OnKeystrokeMessageForAddon Event (Visio)](http://msdn.microsoft.com/library/84847fcb-0cb1-cade-38fb-20c01b1262df%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Window.OnKeystrokeMessageForAddon Event (Visio)](http://msdn.microsoft.com/library/88f72b93-6ec3-2fd1-cc78-c18f82f1b13d%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.OnKeystrokeMessageForAddon (Visio)](http://msdn.microsoft.com/library/drawingcontrol.onkeystrokemessageforaddon-event-visio%28Office.15%29.aspx)
-
-
- [Evento Window.OnKeystrokeMessageForAddon (Visio)](http://msdn.microsoft.com/library/window.onkeystrokemessageforaddon-event-visio%28Office.15%29.aspx)
 

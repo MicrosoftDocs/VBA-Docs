@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayAs, Access [vbaac10.chm13975]
+title: DisplayAs Property, Access [vbaac10.chm13975]
 keywords: vbaac10.chm13975
 f1_keywords:
 - vbaac10.chm13975
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayAs Property, Access [vbaac10.chm13975]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayAs, Access [vbaac10.chm13975]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Attachment.DisplayAs (Access)](http://msdn.microsoft.com/library/attachment.displayas-property-access%28Office.15%29.aspx)
-
+[Attachment.DisplayAs Property (Access)](http://msdn.microsoft.com/library/a8813925-8062-501a-a985-27084c2033f4%28Office.15%29.aspx)
 

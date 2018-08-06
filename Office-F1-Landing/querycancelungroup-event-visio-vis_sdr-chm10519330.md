@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelUngroup, Visio [vis_sdr.chm10519330]
+title: QueryCancelUngroup Event, Visio [vis_sdr.chm10519330]
 keywords: vis_sdr.chm10519330
 f1_keywords:
 - vis_sdr.chm10519330
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelUngroup Event, Visio [vis_sdr.chm10519330]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelUngroup, Visio [vis_sdr.chm10519330]
+[DrawingControl.QueryCancelUngroup Event (Visio)](http://msdn.microsoft.com/library/8d7ac28d-a0c3-9d6d-a568-75ac4dccf9df%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.QueryCancelUngroup Event (Visio)](http://msdn.microsoft.com/library/e25505a9-a2ae-dc68-8bf6-ac4252c7f5e6%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.QueryCancelUngroup (Visio)](http://msdn.microsoft.com/library/drawingcontrol.querycancelungroup-event-visio%28Office.15%29.aspx)
-
-
- [Evento Document.QueryCancelUngroup (Visio)](http://msdn.microsoft.com/library/document.querycancelungroup-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Objeto Err, Office Shared [acmain11.chm1049277]
+title: Err Object, Office Shared [acmain11.chm1049277]
 keywords: acmain11.chm1049277
 f1_keywords:
 - acmain11.chm1049277
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Err Object, Office Shared [acmain11.chm1049277]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Err, Office Shared [acmain11.chm1049277]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto Err](http://msdn.microsoft.com/library/err-object%28Office.15%29.aspx)
-
+[Err Object](http://msdn.microsoft.com/library/23c9697a-9c6b-18f8-2b86-a0735f082c67%28Office.15%29.aspx)
 

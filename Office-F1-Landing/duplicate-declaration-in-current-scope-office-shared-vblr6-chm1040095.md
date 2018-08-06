@@ -1,5 +1,5 @@
 ---
-title: Declaración duplicada en el ámbito actual, Office Shared [vblr6.chm1040095]
+title: Duplicate declaration in current scope, Office Shared [vblr6.chm1040095]
 keywords: vblr6.chm1040095
 f1_keywords:
 - vblr6.chm1040095
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Duplicate declaration in current scope, Office Shared [vblr6.chm1040095]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Declaración duplicada en el ámbito actual, Office Shared [vblr6.chm1040095]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Declaración duplicada en el ámbito actual](http://msdn.microsoft.com/library/duplicate-declaration-in-current-scope%28Office.15%29.aspx)
-
+[Duplicate declaration in current scope](http://msdn.microsoft.com/library/55b4c056-c787-b30a-bc8c-30e552a3cdbb%28Office.15%29.aspx)
 

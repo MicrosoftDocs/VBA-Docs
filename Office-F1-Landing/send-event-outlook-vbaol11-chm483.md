@@ -1,5 +1,5 @@
 ---
-title: Evento Send, Outlook [vbaol11.chm483]
+title: Send Event, Outlook [vbaol11.chm483]
 keywords: vbaol11.chm483
 f1_keywords:
 - vbaol11.chm483
@@ -9,45 +9,26 @@ ms.date: 06/08/2017
 ---
 
 
+# Send Event, Outlook [vbaol11.chm483]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Send, Outlook [vbaol11.chm483]
+[ContactItem.Send Event (Outlook)](http://msdn.microsoft.com/library/28c7171e-df79-8a5d-5c3c-138ec3b3ee9b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[AppointmentItem.Send Event (Outlook)](http://msdn.microsoft.com/library/6571ae2f-4964-f38f-e39e-14a2b94caa73%28Office.15%29.aspx)
 
-
- [Evento ContactItem.Send (Outlook)](http://msdn.microsoft.com/library/contactitem.send-event-outlook%28Office.15%29.aspx)
-
-
- [Evento AppointmentItem.Send (Outlook)](http://msdn.microsoft.com/library/appointmentitem.send-event-outlook%28Office.15%29.aspx)
-
-
- [Evento TaskRequestItem.Send (Outlook)](http://msdn.microsoft.com/library/taskrequestitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento JournalItem.Send (Outlook)](http://msdn.microsoft.com/library/journalitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento RemoteItem.Send (Outlook)](http://msdn.microsoft.com/library/remoteitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento PostItem.Send (Outlook)](http://msdn.microsoft.com/library/postitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskRequestUpdateItem.Send (Outlook)](http://msdn.microsoft.com/library/taskrequestupdateitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento SharingItem.Send (Outlook)](http://msdn.microsoft.com/library/sharingitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento DocumentItem.Send (Outlook)](http://msdn.microsoft.com/library/documentitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento MeetingItem.Send (Outlook)](http://msdn.microsoft.com/library/meetingitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento ReportItem.Send (Outlook)](http://msdn.microsoft.com/library/reportitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskRequestDeclineItem.Send (Outlook)](http://msdn.microsoft.com/library/taskrequestdeclineitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskRequestAcceptItem.Send (Outlook)](http://msdn.microsoft.com/library/taskrequestacceptitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento DistListItem.Send (Outlook)](http://msdn.microsoft.com/library/distlistitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskItem.Send (Outlook)](http://msdn.microsoft.com/library/taskitem.send-event-outlook%28Office.15%29.aspx)
-
- [Evento MailItem.Send (Outlook)](http://msdn.microsoft.com/library/mailitem.send-event-outlook%28Office.15%29.aspx)
-
+[TaskRequestItem.Send Event (Outlook)](http://msdn.microsoft.com/library/0d47820a-40c6-b975-18c0-1adcc7122bca%28Office.15%29.aspx)
+[JournalItem.Send Event (Outlook)](http://msdn.microsoft.com/library/0de70191-07cf-fac9-fa0c-49e409e964ac%28Office.15%29.aspx)
+[RemoteItem.Send Event (Outlook)](http://msdn.microsoft.com/library/6b2ddae1-8732-c6d2-8dff-585118c3d051%28Office.15%29.aspx)
+[PostItem.Send Event (Outlook)](http://msdn.microsoft.com/library/d0ff5a1c-6f15-c780-e98c-749e8e8dca77%28Office.15%29.aspx)
+[TaskRequestUpdateItem.Send Event (Outlook)](http://msdn.microsoft.com/library/5ae11d3f-67f8-3256-b26f-88a89bade5a1%28Office.15%29.aspx)
+[SharingItem.Send Event (Outlook)](http://msdn.microsoft.com/library/15db902f-d61d-cfcd-0498-a2cec5f984bb%28Office.15%29.aspx)
+[DocumentItem.Send Event (Outlook)](http://msdn.microsoft.com/library/7e77c1c3-f6dd-13d1-ed76-b37e7dd6e82a%28Office.15%29.aspx)
+[MeetingItem.Send Event (Outlook)](http://msdn.microsoft.com/library/9dc87c39-d209-dc06-86e8-ce00f9cb152f%28Office.15%29.aspx)
+[ReportItem.Send Event (Outlook)](http://msdn.microsoft.com/library/aab0b0f3-8e33-f1fa-cc74-d914effcb833%28Office.15%29.aspx)
+[TaskRequestDeclineItem.Send Event (Outlook)](http://msdn.microsoft.com/library/e78cf949-6fdf-db40-8638-e23dcb16529c%28Office.15%29.aspx)
+[TaskRequestAcceptItem.Send Event (Outlook)](http://msdn.microsoft.com/library/47bbd12c-699e-8fb5-697d-e52e3acd12b5%28Office.15%29.aspx)
+[DistListItem.Send Event (Outlook)](http://msdn.microsoft.com/library/8f92ff6e-9922-1460-0c9d-eba77dadbba1%28Office.15%29.aspx)
+[TaskItem.Send Event (Outlook)](http://msdn.microsoft.com/library/f634105e-5351-6941-e915-ec63cd703b67%28Office.15%29.aspx)
+[MailItem.Send Event (Outlook)](http://msdn.microsoft.com/library/5acd0507-a96e-7235-e6a5-f31a4c0b7420%28Office.15%29.aspx)
 

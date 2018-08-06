@@ -1,5 +1,5 @@
 ---
-title: Control Rótulo, Office Shared [fm20.chm2000550]
+title: Label Control, Office Shared [fm20.chm2000550]
 keywords: fm20.chm2000550
 f1_keywords:
 - fm20.chm2000550
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Label Control, Office Shared [fm20.chm2000550]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Rótulo, Office Shared [fm20.chm2000550]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control de etiqueta](http://msdn.microsoft.com/library/label-control%28Office.15%29.aspx)
-
+[Label Control](http://msdn.microsoft.com/library/960bf81c-b45b-60e6-425f-f73928a0acff%28Office.15%29.aspx)
 

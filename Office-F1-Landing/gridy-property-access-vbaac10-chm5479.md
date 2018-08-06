@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridY, Access [vbaac10.chm5479]
+title: GridY Property, Access [vbaac10.chm5479]
 keywords: vbaac10.chm5479
 f1_keywords:
 - vbaac10.chm5479
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridY Property, Access [vbaac10.chm5479]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridY, Access [vbaac10.chm5479]
+[Report.GridY Property (Access)](http://msdn.microsoft.com/library/e4a13708-fa05-8ac4-af5f-0f78ee15e623%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.GridY Property (Access)](http://msdn.microsoft.com/library/d767e7de-e3eb-0523-8782-26770f22a013%28Office.15%29.aspx)
 
-
- [Propiedad Report.GridY (Access)](http://msdn.microsoft.com/library/report.gridy-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.GridY (Access)](http://msdn.microsoft.com/library/form.gridy-property-access%28Office.15%29.aspx)
 

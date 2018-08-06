@@ -1,5 +1,5 @@
 ---
-title: Propiedad MouseWheel, Access [vbaac10.chm5117]
+title: MouseWheel Property, Access [vbaac10.chm5117]
 keywords: vbaac10.chm5117
 f1_keywords:
 - vbaac10.chm5117
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseWheel Property, Access [vbaac10.chm5117]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MouseWheel, Access [vbaac10.chm5117]
+[Report.MouseWheel Property (Access)](http://msdn.microsoft.com/library/ea9d6443-abfd-6140-e167-548f4aafd342%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.MouseWheel Property (Access)](http://msdn.microsoft.com/library/364f7854-d7d5-5fe2-effa-6154e86376b4%28Office.15%29.aspx)
 
-
- [Propiedad Report.MouseWheel (Access)](http://msdn.microsoft.com/library/report.mousewheel-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.MouseWheel (Access)](http://msdn.microsoft.com/library/form.mousewheel-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método Export, Excel [vbagr10.chm5207358]
+title: Export Method, Excel [vbagr10.chm5207358]
 keywords: vbagr10.chm5207358
 f1_keywords:
 - vbagr10.chm5207358
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Export Method, Excel [vbagr10.chm5207358]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Export, Excel [vbagr10.chm5207358]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Export (método)](http://msdn.microsoft.com/library/export-method%28Office.15%29.aspx)
-
+[Export Method](http://msdn.microsoft.com/library/c5929fa7-ac8a-0cb4-5c8d-01e5cfa23d1e%28Office.15%29.aspx)
 

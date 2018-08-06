@@ -1,5 +1,5 @@
 ---
-title: Método Chart, Excel [vbagr10.chm65543]
+title: Chart Method, Excel [vbagr10.chm65543]
 keywords: vbagr10.chm65543
 f1_keywords:
 - vbagr10.chm65543
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Chart Method, Excel [vbagr10.chm65543]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Chart, Excel [vbagr10.chm65543]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Chart (método)](http://msdn.microsoft.com/library/chart-method%28Office.15%29.aspx)
-
+[Chart Method](http://msdn.microsoft.com/library/09cd714c-7bdb-4cb5-dbdc-796a83c860fd%28Office.15%29.aspx)
 

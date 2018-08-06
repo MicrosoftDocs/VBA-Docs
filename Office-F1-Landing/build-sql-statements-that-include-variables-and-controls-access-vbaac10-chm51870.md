@@ -1,5 +1,5 @@
 ---
-title: Generar instrucciones SQL que incluyan variables y controles, Access [vbaac10.chm5187046]
+title: Build SQL Statements That Include Variables and Controls, Access [vbaac10.chm5187046]
 keywords: vbaac10.chm5187046
 f1_keywords:
 - vbaac10.chm5187046
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Build SQL Statements That Include Variables and Controls, Access [vbaac10.chm5187046]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Generar instrucciones SQL que incluyan variables y controles, Access [vbaac10.chm5187046]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Generar instrucciones SQL que incluyan variables y controles](http://msdn.microsoft.com/library/build-sql-statements-that-include-variables-and-controls-1%28Office.15%29.aspx)
-
+[Build SQL Statements That Include Variables and Controls](http://msdn.microsoft.com/library/1dfad766-035b-7f40-0591-c3c820d46b16%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeAttachmentPreview, Outlook [vbaol11.chm492]
+title: BeforeAttachmentPreview Event, Outlook [vbaol11.chm492]
 keywords: vbaol11.chm492
 f1_keywords:
 - vbaol11.chm492
@@ -9,45 +9,26 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeAttachmentPreview Event, Outlook [vbaol11.chm492]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeAttachmentPreview, Outlook [vbaol11.chm492]
+[TaskRequestDeclineItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/339c65e6-cc14-338b-9946-01172b2e5a40%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ContactItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/7451778c-801a-15a9-203d-1a1c61ebc155%28Office.15%29.aspx)
 
-
- [Evento TaskRequestDeclineItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/taskrequestdeclineitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
-
- [Evento ContactItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/contactitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
-
- [Evento TaskRequestAcceptItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/taskrequestacceptitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskRequestUpdateItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/taskrequestupdateitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento DistListItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/distlistitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento DocumentItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/documentitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento SharingItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/sharingitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/taskitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento AppointmentItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/appointmentitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento MeetingItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/meetingitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento MailItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/mailitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento JournalItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/journalitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento ReportItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/reportitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento TaskRequestItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/taskrequestitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento PostItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/postitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
- [Evento RemoteItem.BeforeAttachmentPreview (Outlook)](http://msdn.microsoft.com/library/remoteitem.beforeattachmentpreview-event-outlook%28Office.15%29.aspx)
-
+[TaskRequestAcceptItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/9c1ccfcd-5143-fee7-acaf-1c0942cee8c0%28Office.15%29.aspx)
+[TaskRequestUpdateItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/3f071f28-40ba-53af-82de-23fff1b2a521%28Office.15%29.aspx)
+[DistListItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/f4b95d6a-4c9e-8ed0-caf1-31c5c374da37%28Office.15%29.aspx)
+[DocumentItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/687c0c41-c423-a30f-3fb6-562c2ab76f0c%28Office.15%29.aspx)
+[SharingItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/e5a0ec4a-d6b2-c717-85a2-6a022f9ee325%28Office.15%29.aspx)
+[TaskItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/5f0a89ce-b9d7-b7e7-57a5-79a7e69e0d42%28Office.15%29.aspx)
+[AppointmentItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/8a78394e-cc83-f965-4c28-83c574282c44%28Office.15%29.aspx)
+[MeetingItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/4b52c888-fd21-478b-d396-915f7c5a193e%28Office.15%29.aspx)
+[MailItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/279e1af4-38e1-d6b5-50a5-9ebd517826ae%28Office.15%29.aspx)
+[JournalItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/e9554590-a748-e2c9-b879-a3fb67dc016c%28Office.15%29.aspx)
+[ReportItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/105baaa6-b0ff-d7dc-6181-b8c9141c192b%28Office.15%29.aspx)
+[TaskRequestItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/3e74a0a3-7af3-376e-4e96-c02ffcbce54b%28Office.15%29.aspx)
+[PostItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/1c807588-b910-d3ab-8614-d99e78b7f94b%28Office.15%29.aspx)
+[RemoteItem.BeforeAttachmentPreview Event (Outlook)](http://msdn.microsoft.com/library/fcf508c5-280c-6b3c-d3db-eed7e8382cc2%28Office.15%29.aspx)
 

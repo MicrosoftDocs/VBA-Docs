@@ -1,5 +1,5 @@
 ---
-title: Pestaña General (cuadro de diálogo Opciones), Office Shared [vbui6.chm1077086]
+title: General Tab (Options Dialog Box), Office Shared [vbui6.chm1077086]
 keywords: vbui6.chm1077086
 f1_keywords:
 - vbui6.chm1077086
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# General Tab (Options Dialog Box), Office Shared [vbui6.chm1077086]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Pestaña General (cuadro de diálogo Opciones), Office Shared [vbui6.chm1077086]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Pestaña General (cuadro de diálogo Opciones)](http://msdn.microsoft.com/library/general-tab-options-dialog-box%28Office.15%29.aspx)
-
+[General Tab (Options Dialog Box)](http://msdn.microsoft.com/library/51ae42eb-7698-2cba-3196-c20688f41f32%28Office.15%29.aspx)
 

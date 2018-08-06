@@ -1,5 +1,5 @@
 ---
-title: Instrucción On Error, Office Shared [vblr6.chm1008799]
+title: On Error Statement, Office Shared [vblr6.chm1008799]
 keywords: vblr6.chm1008799
 f1_keywords:
 - vblr6.chm1008799
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# On Error Statement, Office Shared [vblr6.chm1008799]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción On Error, Office Shared [vblr6.chm1008799]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción On Error](http://msdn.microsoft.com/library/on-error-statement%28Office.15%29.aspx)
-
+[On Error Statement](http://msdn.microsoft.com/library/5f723da4-34bd-0a29-11b6-f6986d701570%28Office.15%29.aspx)
 

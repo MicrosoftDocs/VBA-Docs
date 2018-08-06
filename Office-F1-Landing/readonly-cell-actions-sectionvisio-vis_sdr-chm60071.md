@@ -1,5 +1,5 @@
 ---
-title: Celda ReadOnly (sección Actions), Visio [vis_sdr.chm60071]
+title: ReadOnly Cell (Actions Section), Visio [vis_sdr.chm60071]
 keywords: vis_sdr.chm60071
 f1_keywords:
 - vis_sdr.chm60071
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ReadOnly Cell (Actions Section), Visio [vis_sdr.chm60071]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ReadOnly (sección Actions), Visio [vis_sdr.chm60071]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ReadOnly (sección de acciones)](http://msdn.microsoft.com/library/readonly-cell-actions-section%28Office.15%29.aspx)
-
+[ReadOnly Cell (Actions Section)](http://msdn.microsoft.com/library/158b4188-570c-3817-bf34-8dc0c64befa5%28Office.15%29.aspx)
 

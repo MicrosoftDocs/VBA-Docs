@@ -1,5 +1,5 @@
 ---
-title: Celda D (sección Geometry), Visio [vis_sdr.chm210]
+title: D Cell (Geometry Section), Visio [vis_sdr.chm210]
 keywords: vis_sdr.chm210
 f1_keywords:
 - vis_sdr.chm210
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# D Cell (Geometry Section), Visio [vis_sdr.chm210]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda D (sección Geometry), Visio [vis_sdr.chm210]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda D (Sección de geometría)](http://msdn.microsoft.com/library/d-cell-geometry-section%28Office.15%29.aspx)
-
+[D Cell (Geometry Section)](http://msdn.microsoft.com/library/5f1fdf59-db58-561c-e187-1af72a8b87f2%28Office.15%29.aspx)
 

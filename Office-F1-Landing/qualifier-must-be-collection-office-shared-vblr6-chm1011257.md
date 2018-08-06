@@ -1,5 +1,5 @@
 ---
-title: El calificador debe ser una colección, Office Shared [vblr6.chm1011257]
+title: Qualifier must be collection, Office Shared [vblr6.chm1011257]
 keywords: vblr6.chm1011257
 f1_keywords:
 - vblr6.chm1011257
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Qualifier must be collection, Office Shared [vblr6.chm1011257]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El calificador debe ser una colección, Office Shared [vblr6.chm1011257]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El calificador debe ser una colección](http://msdn.microsoft.com/library/qualifier-must-be-collection%28Office.15%29.aspx)
-
+[Qualifier must be collection](http://msdn.microsoft.com/library/70c3ce6f-13ca-d9cd-d60c-26c19f803fd7%28Office.15%29.aspx)
 

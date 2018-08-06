@@ -1,5 +1,5 @@
 ---
-title: Celda X Dynamics (sección Controls), Visio [Vis_DSS.chm82251283]
+title: X Dynamics Cell (Controls Section), Visio [Vis_DSS.chm82251283]
 keywords: vis_dss.chm82251283
 f1_keywords:
 - vis_dss.chm82251283
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# X Dynamics Cell (Controls Section), Visio [Vis_DSS.chm82251283]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda X Dynamics (sección Controls), Visio [Vis_DSS.chm82251283]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda X Dynamics (Sección de controles)](http://msdn.microsoft.com/library/x-dynamics-cell-controls-section%28Office.15%29.aspx)
-
+[X Dynamics Cell (Controls Section)](http://msdn.microsoft.com/library/9757dfb4-6d37-0517-17fe-7593ff12bbfe%28Office.15%29.aspx)
 

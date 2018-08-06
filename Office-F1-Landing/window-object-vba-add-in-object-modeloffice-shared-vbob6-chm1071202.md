@@ -1,5 +1,5 @@
 ---
-title: Objeto Window (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071202]
+title: Window Object (VBA Add-In Object Model), Office Shared [vbob6.chm1071202]
 keywords: vbob6.chm1071202
 f1_keywords:
 - vbob6.chm1071202
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Window Object (VBA Add-In Object Model), Office Shared [vbob6.chm1071202]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Window (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071202]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto Window (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/window-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Window Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/5b9dbbc9-ae3d-b0dc-9fcf-69749749492d%28Office.15%29.aspx)
 

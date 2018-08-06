@@ -1,5 +1,5 @@
 ---
-title: Evento WindowTurnedToPage, Visio [vis_sdr.chm10019285]
+title: WindowTurnedToPage Event, Visio [vis_sdr.chm10019285]
 keywords: vis_sdr.chm10019285
 f1_keywords:
 - vis_sdr.chm10019285
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowTurnedToPage Event, Visio [vis_sdr.chm10019285]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento WindowTurnedToPage, Visio [vis_sdr.chm10019285]
+[InvisibleApp.WindowTurnedToPage Event (Visio)](http://msdn.microsoft.com/library/a31992e8-7b3e-2986-a9e8-01cae1ae1fa5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.WindowTurnedToPage Event (Visio)](http://msdn.microsoft.com/library/f747ed48-6da1-fd7f-4cdd-e9f46f02b1d0%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.WindowTurnedToPage (Visio)](http://msdn.microsoft.com/library/invisibleapp.windowturnedtopage-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.WindowTurnedToPage (Visio)](http://msdn.microsoft.com/library/application.windowturnedtopage-event-visio%28Office.15%29.aspx)
 

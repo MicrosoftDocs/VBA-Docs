@@ -1,5 +1,5 @@
 ---
-title: Propiedad DecimalPlaces, Access [vbaac10.chm4327]
+title: DecimalPlaces Property, Access [vbaac10.chm4327]
 keywords: vbaac10.chm4327
 f1_keywords:
 - vbaac10.chm4327
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DecimalPlaces Property, Access [vbaac10.chm4327]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DecimalPlaces, Access [vbaac10.chm4327]
+[ComboBox.DecimalPlaces Property (Access)](http://msdn.microsoft.com/library/5d57d9b7-12bd-2555-242e-204fd8dd48be%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.DecimalPlaces Property (Access)](http://msdn.microsoft.com/library/cd032c51-34d1-18d3-c378-7473938ec1d7%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.DecimalPlaces (Access)](http://msdn.microsoft.com/library/combobox.decimalplaces-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.DecimalPlaces (Access)](http://msdn.microsoft.com/library/textbox.decimalplaces-property-access%28Office.15%29.aspx)
 

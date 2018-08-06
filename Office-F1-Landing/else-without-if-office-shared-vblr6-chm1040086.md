@@ -1,5 +1,5 @@
 ---
-title: Else sin If, Office Shared [vblr6.chm1040086]
+title: Else without If, Office Shared [vblr6.chm1040086]
 keywords: vblr6.chm1040086
 f1_keywords:
 - vblr6.chm1040086
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Else without If, Office Shared [vblr6.chm1040086]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Else sin If, Office Shared [vblr6.chm1040086]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Else sin If](http://msdn.microsoft.com/library/else-without-if%28Office.15%29.aspx)
-
+[Else without If](http://msdn.microsoft.com/library/1c95caf3-9b16-bc84-2a6f-da21543895e8%28Office.15%29.aspx)
 

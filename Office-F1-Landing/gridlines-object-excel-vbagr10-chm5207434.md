@@ -1,5 +1,5 @@
 ---
-title: Objeto Gridlines, Excel [vbagr10.chm5207434]
+title: Gridlines Object, Excel [vbagr10.chm5207434]
 keywords: vbagr10.chm5207434
 f1_keywords:
 - vbagr10.chm5207434
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Gridlines Object, Excel [vbagr10.chm5207434]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Gridlines, Excel [vbagr10.chm5207434]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Gridlines (objeto)](http://msdn.microsoft.com/library/gridlines-object%28Office.15%29.aspx)
-
+[Gridlines Object](http://msdn.microsoft.com/library/8879cdea-609f-5994-3fb6-3a9d5fa849b4%28Office.15%29.aspx)
 

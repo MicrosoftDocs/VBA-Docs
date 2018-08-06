@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllFunctions, Access [vbaac10.chm12737]
+title: AllFunctions Property, Access [vbaac10.chm12737]
 keywords: vbaac10.chm12737
 f1_keywords:
 - vbaac10.chm12737
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllFunctions Property, Access [vbaac10.chm12737]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllFunctions, Access [vbaac10.chm12737]
+[CodeData.AllFunctions Property (Access)](http://msdn.microsoft.com/library/e3312529-f1a2-40d5-60b5-749fbd3c6247%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentData.AllFunctions Property (Access)](http://msdn.microsoft.com/library/823d8ae8-b8b0-5bef-afe5-eeda12300738%28Office.15%29.aspx)
 
-
- [Propiedad CodeData.AllFunctions (Access)](http://msdn.microsoft.com/library/codedata.allfunctions-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentData.AllFunctions (Access)](http://msdn.microsoft.com/library/currentdata.allfunctions-property-access%28Office.15%29.aspx)
 

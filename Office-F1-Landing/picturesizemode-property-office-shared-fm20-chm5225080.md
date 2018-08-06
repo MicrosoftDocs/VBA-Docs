@@ -1,5 +1,5 @@
 ---
-title: Propiedad PictureSizeMode, Office Shared [fm20.chm5225080]
+title: PictureSizeMode Property, Office Shared [fm20.chm5225080]
 keywords: fm20.chm5225080
 f1_keywords:
 - fm20.chm5225080
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PictureSizeMode Property, Office Shared [fm20.chm5225080]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PictureSizeMode, Office Shared [fm20.chm5225080]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad PictureSizeMode](http://msdn.microsoft.com/library/picturesizemode-property%28Office.15%29.aspx)
-
+[PictureSizeMode Property](http://msdn.microsoft.com/library/bb186d64-4e21-4ab5-3949-430c737e733d%28Office.15%29.aspx)
 

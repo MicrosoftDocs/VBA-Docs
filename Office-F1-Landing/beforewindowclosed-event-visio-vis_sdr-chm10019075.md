@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeWindowClosed, Visio [vis_sdr.chm10019075]
+title: BeforeWindowClosed Event, Visio [vis_sdr.chm10019075]
 keywords: vis_sdr.chm10019075
 f1_keywords:
 - vis_sdr.chm10019075
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeWindowClosed Event, Visio [vis_sdr.chm10019075]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeWindowClosed, Visio [vis_sdr.chm10019075]
+[Application.BeforeWindowClosed Event (Visio)](http://msdn.microsoft.com/library/e062ffe4-8680-456c-4aea-3669e1cab20d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.BeforeWindowClosed Event (Visio)](http://msdn.microsoft.com/library/b998ba51-0746-e7b1-263e-c93f98bd6f36%28Office.15%29.aspx)
 
-
- [Evento Application.BeforeWindowClosed (Visio)](http://msdn.microsoft.com/library/application.beforewindowclosed-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.BeforeWindowClosed (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforewindowclosed-event-visio%28Office.15%29.aspx)
 

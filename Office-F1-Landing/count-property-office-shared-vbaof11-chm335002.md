@@ -1,5 +1,5 @@
 ---
-title: Propiedad Count, Office Shared [vbaof11.chm335002]
+title: Count Property, Office Shared [vbaof11.chm335002]
 keywords: vbaof11.chm335002
 f1_keywords:
 - vbaof11.chm335002
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Count Property, Office Shared [vbaof11.chm335002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Count, Office Shared [vbaof11.chm335002]
+[PickerFields.Count Property (Office)](http://msdn.microsoft.com/library/7f994f90-4870-cae8-d7bf-99f48dd08ba1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[PickerField.Type Property (Office)](http://msdn.microsoft.com/library/1ac12ab8-9250-e554-b674-c56d06de8149%28Office.15%29.aspx)
 
-
- [Propiedad PickerFields.Count (Office)](http://msdn.microsoft.com/library/pickerfields.count-property-office%28Office.15%29.aspx)
-
-
- [Propiedad PickerField.Type (Office)](http://msdn.microsoft.com/library/pickerfield.type-property-office%28Office.15%29.aspx)
 

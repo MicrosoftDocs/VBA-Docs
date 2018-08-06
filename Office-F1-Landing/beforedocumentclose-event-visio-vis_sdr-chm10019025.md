@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeDocumentClose, Visio [vis_sdr.chm10019025]
+title: BeforeDocumentClose Event, Visio [vis_sdr.chm10019025]
 keywords: vis_sdr.chm10019025
 f1_keywords:
 - vis_sdr.chm10019025
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeDocumentClose Event, Visio [vis_sdr.chm10019025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeDocumentClose, Visio [vis_sdr.chm10019025]
+[InvisibleApp.BeforeDocumentClose Event (Visio)](http://msdn.microsoft.com/library/663dab28-2ea5-30ad-a694-5c2bc75210fb%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforeDocumentClose Event (Visio)](http://msdn.microsoft.com/library/c0d7815e-25bb-7b7e-f80b-81472edc47ca%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforeDocumentClose (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforedocumentclose-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforeDocumentClose (Visio)](http://msdn.microsoft.com/library/application.beforedocumentclose-event-visio%28Office.15%29.aspx)
 

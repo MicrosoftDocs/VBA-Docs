@@ -1,5 +1,5 @@
 ---
-title: Fila SplineKnot (sección Geometría), Visio [Vis_DSS.chm82251212]
+title: SplineKnot Row (Geometry Section), Visio [Vis_DSS.chm82251212]
 keywords: vis_dss.chm82251212
 f1_keywords:
 - vis_dss.chm82251212
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplineKnot Row (Geometry Section), Visio [Vis_DSS.chm82251212]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila SplineKnot (sección Geometría), Visio [Vis_DSS.chm82251212]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila SplineKnot (Sección de Geometría)](http://msdn.microsoft.com/library/splineknot-row-geometry-section%28Office.15%29.aspx)
-
+[SplineKnot Row (Geometry Section)](http://msdn.microsoft.com/library/9fbae27d-4f1b-c5f7-aacb-16f359331e83%28Office.15%29.aspx)
 

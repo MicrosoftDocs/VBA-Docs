@@ -1,5 +1,5 @@
 ---
-title: Propiedad ChartTitle, Excel [vbagr10.chm65617]
+title: ChartTitle Property, Excel [vbagr10.chm65617]
 keywords: vbagr10.chm65617
 f1_keywords:
 - vbagr10.chm65617
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartTitle Property, Excel [vbagr10.chm65617]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ChartTitle, Excel [vbagr10.chm65617]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ChartTitle (propiedad)](http://msdn.microsoft.com/library/charttitle-property%28Office.15%29.aspx)
-
+[ChartTitle Property](http://msdn.microsoft.com/library/736a91ad-a2ef-82c4-33b7-85c5ff78ae08%28Office.15%29.aspx)
 

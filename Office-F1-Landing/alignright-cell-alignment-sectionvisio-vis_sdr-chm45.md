@@ -1,5 +1,5 @@
 ---
-title: Celda AlignRight (sección Alignment), Visio [vis_sdr.chm45]
+title: AlignRight Cell (Alignment Section), Visio [vis_sdr.chm45]
 keywords: vis_sdr.chm45
 f1_keywords:
 - vis_sdr.chm45
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AlignRight Cell (Alignment Section), Visio [vis_sdr.chm45]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda AlignRight (sección Alignment), Visio [vis_sdr.chm45]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda AlignRight (Sección de alineación)](http://msdn.microsoft.com/library/alignright-cell-alignment-section%28Office.15%29.aspx)
-
+[AlignRight Cell (Alignment Section)](http://msdn.microsoft.com/library/c6d298a4-1602-a53c-bb5d-2ef16b43f722%28Office.15%29.aspx)
 

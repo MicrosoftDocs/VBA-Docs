@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineStyleLeft, Access [vbaac10.chm10528]
+title: GridlineStyleLeft Property, Access [vbaac10.chm10528]
 keywords: vbaac10.chm10528
 f1_keywords:
 - vbaac10.chm10528
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineStyleLeft Property, Access [vbaac10.chm10528]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineStyleLeft, Access [vbaac10.chm10528]
+[NavigationButton.GridlineStyleLeft Property (Access)](http://msdn.microsoft.com/library/ac511d98-b426-bc33-3973-38500fe4add5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.GridlineStyleLeft Property (Access)](http://msdn.microsoft.com/library/594c56fb-d8d5-a9af-dc40-d29a9dffd02d%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.GridlineStyleLeft (Access)](http://msdn.microsoft.com/library/navigationbutton.gridlinestyleleft-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.GridlineStyleLeft (Access)](http://msdn.microsoft.com/library/customcontrol.gridlinestyleleft-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.GridlineStyleLeft (Access)](http://msdn.microsoft.com/library/commandbutton.gridlinestyleleft-property-access%28Office.15%29.aspx)
-
+[CommandButton.GridlineStyleLeft Property (Access)](http://msdn.microsoft.com/library/4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0%28Office.15%29.aspx)
 

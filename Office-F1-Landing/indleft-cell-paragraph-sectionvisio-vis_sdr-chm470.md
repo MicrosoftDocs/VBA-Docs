@@ -1,5 +1,5 @@
 ---
-title: Celda IndLeft (sección Paragraph), Visio [vis_sdr.chm470]
+title: IndLeft Cell (Paragraph Section), Visio [vis_sdr.chm470]
 keywords: vis_sdr.chm470
 f1_keywords:
 - vis_sdr.chm470
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# IndLeft Cell (Paragraph Section), Visio [vis_sdr.chm470]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda IndLeft (sección Paragraph), Visio [vis_sdr.chm470]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda IndLeft (Sección de párrafo)](http://msdn.microsoft.com/library/indleft-cell-paragraph-section%28Office.15%29.aspx)
-
+[IndLeft Cell (Paragraph Section)](http://msdn.microsoft.com/library/31a7d0d4-4666-ddef-c5eb-4d13803e6a2f%28Office.15%29.aspx)
 

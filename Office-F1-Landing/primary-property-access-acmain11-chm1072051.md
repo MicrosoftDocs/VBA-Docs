@@ -1,5 +1,5 @@
 ---
-title: Propiedad Primary, Access [acmain11.chm1072051]
+title: Primary Property, Access [acmain11.chm1072051]
 keywords: acmain11.chm1072051
 f1_keywords:
 - acmain11.chm1072051
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Primary Property, Access [acmain11.chm1072051]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Primary, Access [acmain11.chm1072051]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Primary (propiedad)](http://msdn.microsoft.com/library/primary-property%28Office.15%29.aspx)
-
+[Primary Property](http://msdn.microsoft.com/library/782e3341-f47a-2054-9884-1feb2e68496c%28Office.15%29.aspx)
 

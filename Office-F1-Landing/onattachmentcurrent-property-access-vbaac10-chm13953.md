@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnAttachmentCurrent, Access [vbaac10.chm13953]
+title: OnAttachmentCurrent Property, Access [vbaac10.chm13953]
 keywords: vbaac10.chm13953
 f1_keywords:
 - vbaac10.chm13953
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnAttachmentCurrent Property, Access [vbaac10.chm13953]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnAttachmentCurrent, Access [vbaac10.chm13953]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Attachment.OnAttachmentCurrent (Access)](http://msdn.microsoft.com/library/attachment.onattachmentcurrent-property-access%28Office.15%29.aspx)
-
+[Attachment.OnAttachmentCurrent Property (Access)](http://msdn.microsoft.com/library/7987943b-5283-e9dc-17a6-5f4b54c90d4d%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda FillBkgndTrans (sección Fill Format), Visio [Vis_DSS.chm50100]
+title: FillBkgndTrans Cell (Fill Format Section), Visio [Vis_DSS.chm50100]
 keywords: vis_dss.chm50100
 f1_keywords:
 - vis_dss.chm50100
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FillBkgndTrans Cell (Fill Format Section), Visio [Vis_DSS.chm50100]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda FillBkgndTrans (sección Fill Format), Visio [Vis_DSS.chm50100]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda FillBkgndTrans (Sección de formato de relleno)](http://msdn.microsoft.com/library/fillbkgndtrans-cell-fill-format-section%28Office.15%29.aspx)
-
+[FillBkgndTrans Cell (Fill Format Section)](http://msdn.microsoft.com/library/87065350-ba9a-aae8-47f6-f263f6700d08%28Office.15%29.aspx)
 

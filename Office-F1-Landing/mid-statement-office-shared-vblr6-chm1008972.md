@@ -1,5 +1,5 @@
 ---
-title: Instrucción Mid, Office Shared [vblr6.chm1008972]
+title: Mid Statement, Office Shared [vblr6.chm1008972]
 keywords: vblr6.chm1008972
 f1_keywords:
 - vblr6.chm1008972
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Mid Statement, Office Shared [vblr6.chm1008972]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción Mid, Office Shared [vblr6.chm1008972]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Mid](http://msdn.microsoft.com/library/mid-statement%28Office.15%29.aspx)
-
+[Mid Statement](http://msdn.microsoft.com/library/a9923853-55d5-5b50-d422-57cba84d9f47%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Barra de comandos UserForm, Office Shared [vbui6.chm2057577]
+title: UserForm Command Bar, Office Shared [vbui6.chm2057577]
 keywords: vbui6.chm2057577
 f1_keywords:
 - vbui6.chm2057577
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# UserForm Command Bar, Office Shared [vbui6.chm2057577]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Barra de comandos UserForm, Office Shared [vbui6.chm2057577]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Barra de comandos UserForm](http://msdn.microsoft.com/library/userform-command-bar%28Office.15%29.aspx)
-
+[UserForm Command Bar](http://msdn.microsoft.com/library/26670f57-ae27-0410-d4ca-5ab6ac3aaecd%28Office.15%29.aspx)
 

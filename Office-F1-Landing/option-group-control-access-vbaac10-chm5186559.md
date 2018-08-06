@@ -1,5 +1,5 @@
 ---
-title: Control Grupo de opciones, Access [vbaac10.chm5186559]
+title: Option Group Control, Access [vbaac10.chm5186559]
 keywords: vbaac10.chm5186559
 f1_keywords:
 - vbaac10.chm5186559
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Option Group Control, Access [vbaac10.chm5186559]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Grupo de opciones, Access [vbaac10.chm5186559]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Grupo de opciones](http://msdn.microsoft.com/library/option-group-control%28Office.15%29.aspx)
-
+[Option Group Control](http://msdn.microsoft.com/library/a67b22b7-d3a8-c9c6-cb1b-a6d544b2fefe%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ChartArea, Excel [vbagr10.chm65616]
+title: ChartArea Property, Excel [vbagr10.chm65616]
 keywords: vbagr10.chm65616
 f1_keywords:
 - vbagr10.chm65616
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartArea Property, Excel [vbagr10.chm65616]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ChartArea, Excel [vbagr10.chm65616]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ChartArea (propiedad)](http://msdn.microsoft.com/library/chartarea-property%28Office.15%29.aspx)
-
+[ChartArea Property](http://msdn.microsoft.com/library/1af59d11-2b63-d629-5dae-d9b9d8303ddf%28Office.15%29.aspx)
 

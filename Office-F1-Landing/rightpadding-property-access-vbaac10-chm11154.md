@@ -1,5 +1,5 @@
 ---
-title: Propiedad RightPadding, Access [vbaac10.chm11154]
+title: RightPadding Property, Access [vbaac10.chm11154]
 keywords: vbaac10.chm11154
 f1_keywords:
 - vbaac10.chm11154
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RightPadding Property, Access [vbaac10.chm11154]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RightPadding, Access [vbaac10.chm11154]
+[TextBox.RightPadding Property (Access)](http://msdn.microsoft.com/library/7f9e2e21-1e36-01c1-f4e7-b3373644f9e5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.RightPadding Property (Access)](http://msdn.microsoft.com/library/8c2cd0df-f629-e8d1-a2df-ba0f6203ec07%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.RightPadding (Access)](http://msdn.microsoft.com/library/textbox.rightpadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.RightPadding (Access)](http://msdn.microsoft.com/library/navigationcontrol.rightpadding-property-access%28Office.15%29.aspx)
 

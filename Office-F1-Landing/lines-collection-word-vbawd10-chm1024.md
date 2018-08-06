@@ -1,5 +1,5 @@
 ---
-title: Colección Líneas, Word [vbawd10.chm1024]
+title: Lines Collection, Word [vbawd10.chm1024]
 keywords: vbawd10.chm1024
 f1_keywords:
 - vbawd10.chm1024
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Lines Collection, Word [vbawd10.chm1024]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Líneas, Word [vbawd10.chm1024]
+[Lines Object (Word)](http://msdn.microsoft.com/library/d04aff17-bd9c-8340-f3ab-191da921ea79%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Lines Object (Word)85be4e0e-105c-85d4-ed50-d4f75bf16361](http://msdn.microsoft.com/library/85be4e0e-105c-85d4-ed50-d4f75bf16361%28Office.15%29.aspx)
 
-
- [Lines (colección)](http://msdn.microsoft.com/library/lines-object-word%28Office.15%29.aspx)
-
-
- [Lines Object (Word)85be4e0e-105c-85d4-ed50-d4f75bf16361](http://msdn.microsoft.com/library/85be4e0e-105c-85d4-ed50-d4f75bf16361%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda Calendar (sección Datos de formas), Visio [Vis_DSS.chm1033770]
+title: Calendar Cell (Shape Data Section), Visio [Vis_DSS.chm1033770]
 keywords: vis_dss.chm1033770
 f1_keywords:
 - vis_dss.chm1033770
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Calendar Cell (Shape Data Section), Visio [Vis_DSS.chm1033770]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Calendar (sección Datos de formas), Visio [Vis_DSS.chm1033770]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Calendar (Sección de datos de formas)](http://msdn.microsoft.com/library/calendar-cell-shape-data-section%28Office.15%29.aspx)
-
+[Calendar Cell (Shape Data Section)](http://msdn.microsoft.com/library/f5dcc6d9-474a-9ecb-21f5-56415d934890%28Office.15%29.aspx)
 

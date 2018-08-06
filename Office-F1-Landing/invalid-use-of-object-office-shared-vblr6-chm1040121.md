@@ -1,5 +1,5 @@
 ---
-title: Uso del objeto no válido, Office Shared [vblr6.chm1040121]
+title: Invalid use of object, Office Shared [vblr6.chm1040121]
 keywords: vblr6.chm1040121
 f1_keywords:
 - vblr6.chm1040121
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid use of object, Office Shared [vblr6.chm1040121]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Uso del objeto no válido, Office Shared [vblr6.chm1040121]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Uso no válido de objeto](http://msdn.microsoft.com/library/invalid-use-of-object%28Office.15%29.aspx)
-
+[Invalid use of object](http://msdn.microsoft.com/library/63d3d9ba-3521-af29-9484-7c8aa6e65364%28Office.15%29.aspx)
 

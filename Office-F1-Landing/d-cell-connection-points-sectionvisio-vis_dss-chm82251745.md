@@ -1,5 +1,5 @@
 ---
-title: Celda D (sección Connection Points), Visio [Vis_DSS.chm82251745]
+title: D Cell (Connection Points Section), Visio [Vis_DSS.chm82251745]
 keywords: vis_dss.chm82251745
 f1_keywords:
 - vis_dss.chm82251745
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# D Cell (Connection Points Section), Visio [Vis_DSS.chm82251745]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda D (sección Connection Points), Visio [Vis_DSS.chm82251745]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda D (Sección de puntos de conexión)](http://msdn.microsoft.com/library/d-cell-connection-points-section%28Office.15%29.aspx)
-
+[D Cell (Connection Points Section)](http://msdn.microsoft.com/library/28b18e8d-fecf-a798-813e-c1a310002244%28Office.15%29.aspx)
 

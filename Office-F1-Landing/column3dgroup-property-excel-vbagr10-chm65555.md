@@ -1,5 +1,5 @@
 ---
-title: Propiedad Column3DGroup, Excel [vbagr10.chm65555]
+title: Column3DGroup Property, Excel [vbagr10.chm65555]
 keywords: vbagr10.chm65555
 f1_keywords:
 - vbagr10.chm65555
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Column3DGroup Property, Excel [vbagr10.chm65555]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Column3DGroup, Excel [vbagr10.chm65555]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Column3DGroup (propiedad)](http://msdn.microsoft.com/library/column3dgroup-property%28Office.15%29.aspx)
-
+[Column3DGroup Property](http://msdn.microsoft.com/library/9fa90f46-29b8-c710-93de-4150e276330c%28Office.15%29.aspx)
 

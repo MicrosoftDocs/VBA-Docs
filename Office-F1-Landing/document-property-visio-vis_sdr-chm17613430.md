@@ -1,5 +1,5 @@
 ---
-title: Propiedad Document, Visio [vis_sdr.chm17613430]
+title: Document Property, Visio [vis_sdr.chm17613430]
 keywords: vis_sdr.chm17613430
 f1_keywords:
 - vis_sdr.chm17613430
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Document Property, Visio [vis_sdr.chm17613430]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Document, Visio [vis_sdr.chm17613430]
+[ContainerProperties.Document Property (Visio)](http://msdn.microsoft.com/library/753d5da5-8389-dbdf-d56e-b97f5b8164a2.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ContainerProperties.Document Property (Visio)](http://msdn.microsoft.com/library/c0f71c01-539a-8075-ac5b-f0ca2ba99a53%28Office.15%29.aspx)
 
-
- [ContainerProperties.Document Property (Visio)](http://msdn.microsoft.com/library/753d5da5-8389-dbdf-d56e-b97f5b8164a2.aspx)
-
-
- [Propiedad de documento (ContainerProperties)](http://msdn.microsoft.com/library/containerproperties.document-property-visio%28Office.15%29.aspx)
 

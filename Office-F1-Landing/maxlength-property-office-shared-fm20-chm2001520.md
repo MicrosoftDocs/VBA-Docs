@@ -1,5 +1,5 @@
 ---
-title: Propiedad MaxLength, Office Shared [fm20.chm2001520]
+title: MaxLength Property, Office Shared [fm20.chm2001520]
 keywords: fm20.chm2001520
 f1_keywords:
 - fm20.chm2001520
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MaxLength Property, Office Shared [fm20.chm2001520]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MaxLength, Office Shared [fm20.chm2001520]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MaxLength](http://msdn.microsoft.com/library/maxlength-property%28Office.15%29.aspx)
-
+[MaxLength Property](http://msdn.microsoft.com/library/6cc016ef-333a-9e7a-aacb-323717915f9f%28Office.15%29.aspx)
 

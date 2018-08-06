@@ -1,5 +1,5 @@
 ---
-title: Propiedad DataSetChange, Access [vbaac10.chm13546]
+title: DataSetChange Property, Access [vbaac10.chm13546]
 keywords: vbaac10.chm13546
 f1_keywords:
 - vbaac10.chm13546
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DataSetChange Property, Access [vbaac10.chm13546]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DataSetChange, Access [vbaac10.chm13546]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.DataSetChange (Access)](http://msdn.microsoft.com/library/form.datasetchange-property-access%28Office.15%29.aspx)
-
+[Form.DataSetChange Property (Access)](http://msdn.microsoft.com/library/29f7f9a8-4dbd-9f69-7f4c-7f93add9f1b6%28Office.15%29.aspx)
 

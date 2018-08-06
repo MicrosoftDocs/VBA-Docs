@@ -1,5 +1,5 @@
 ---
-title: Se esperaba un procedimiento en lugar de un proyecto o biblioteca, Office Shared [vblr6.chm1011157]
+title: Expected procedure, not project or library, Office Shared [vblr6.chm1011157]
 keywords: vblr6.chm1011157
 f1_keywords:
 - vblr6.chm1011157
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected procedure, not project or library, Office Shared [vblr6.chm1011157]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Se esperaba un procedimiento en lugar de un proyecto o biblioteca, Office Shared [vblr6.chm1011157]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Procedimiento previsto, no es un proyecto ni una biblioteca](http://msdn.microsoft.com/library/expected-procedure-not-project-or-library%28Office.15%29.aspx)
-
+[Expected procedure, not project or library](http://msdn.microsoft.com/library/0611e2e0-0c23-0e6e-86ac-d7a86af2c933%28Office.15%29.aspx)
 

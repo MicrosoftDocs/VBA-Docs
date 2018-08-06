@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinorGridlines, Excel [vbagr10.chm65626]
+title: MinorGridlines Property, Excel [vbagr10.chm65626]
 keywords: vbagr10.chm65626
 f1_keywords:
 - vbagr10.chm65626
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MinorGridlines Property, Excel [vbagr10.chm65626]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinorGridlines, Excel [vbagr10.chm65626]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MinorGridlines (propiedad)](http://msdn.microsoft.com/library/minorgridlines-property%28Office.15%29.aspx)
-
+[MinorGridlines Property](http://msdn.microsoft.com/library/80ca57a1-7e8f-4d83-0da6-2a28399c27af%28Office.15%29.aspx)
 

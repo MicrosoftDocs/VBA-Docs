@@ -1,5 +1,5 @@
 ---
-title: Propiedad ApplyPictToFront, PowerPoint [vbapp10.chm67196]
+title: ApplyPictToFront Property, PowerPoint [vbapp10.chm67196]
 keywords: vbapp10.chm67196
 f1_keywords:
 - vbapp10.chm67196
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ApplyPictToFront Property, PowerPoint [vbapp10.chm67196]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ApplyPictToFront, PowerPoint [vbapp10.chm67196]
+[Series.ApplyPictToFront Property (PowerPoint)](http://msdn.microsoft.com/library/babe864c-1301-a8d1-ab13-41b9ccc71824%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Point.ApplyPictToFront Property (PowerPoint)](http://msdn.microsoft.com/library/c883883d-ad54-ef4b-c749-a4efe721a96f%28Office.15%29.aspx)
 
-
- [Propiedad Series.ApplyPictToFront (PowerPoint)](http://msdn.microsoft.com/library/series.applypicttofront-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Point.ApplyPictToFront (PowerPoint)](http://msdn.microsoft.com/library/point.applypicttofront-property-powerpoint%28Office.15%29.aspx)
 

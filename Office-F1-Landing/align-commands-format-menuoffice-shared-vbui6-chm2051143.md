@@ -1,5 +1,5 @@
 ---
-title: Comandos Alinear (Menú Formato), Office Shared [vbui6.chm2051143]
+title: Align Commands (Format Menu), Office Shared [vbui6.chm2051143]
 keywords: vbui6.chm2051143
 f1_keywords:
 - vbui6.chm2051143
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Align Commands (Format Menu), Office Shared [vbui6.chm2051143]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Alinear (Menú Formato), Office Shared [vbui6.chm2051143]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Alinear (menú Formato)](http://msdn.microsoft.com/library/align-commands-format-menu%28Office.15%29.aspx)
-
+[Align Commands (Format Menu)](http://msdn.microsoft.com/library/d694f1a9-a6f2-5ab3-53a8-a2b2a7ec03cd%28Office.15%29.aspx)
 

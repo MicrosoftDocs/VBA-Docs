@@ -1,5 +1,5 @@
 ---
-title: Control Subform/Subreport, Access [vbaac10.chm5186605]
+title: Subform/Subreport Control, Access [vbaac10.chm5186605]
 keywords: vbaac10.chm5186605
 f1_keywords:
 - vbaac10.chm5186605
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Subform/Subreport Control, Access [vbaac10.chm5186605]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Subform/Subreport, Access [vbaac10.chm5186605]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Subformulario/Subinforme](http://msdn.microsoft.com/library/subform-subreport-control%28Office.15%29.aspx)
-
+[Subform/Subreport Control](http://msdn.microsoft.com/library/a010e499-7ea6-56c2-5159-5a7df1562ca5%28Office.15%29.aspx)
 

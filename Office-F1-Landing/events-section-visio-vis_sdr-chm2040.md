@@ -1,5 +1,5 @@
 ---
-title: Sección Eventos, Visio [vis_sdr.chm2040]
+title: Events Section, Visio [vis_sdr.chm2040]
 keywords: vis_sdr.chm2040
 f1_keywords:
 - vis_sdr.chm2040
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Events Section, Visio [vis_sdr.chm2040]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Eventos, Visio [vis_sdr.chm2040]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de eventos](http://msdn.microsoft.com/library/events-section%28Office.15%29.aspx)
-
+[Events Section](http://msdn.microsoft.com/library/e994372e-533a-32d0-ff2b-7fb7d6e8274e%28Office.15%29.aspx)
 

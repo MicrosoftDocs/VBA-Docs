@@ -1,5 +1,5 @@
 ---
-title: Propiedad BaseConnectionString, Access [vbaac10.chm12713]
+title: BaseConnectionString Property, Access [vbaac10.chm12713]
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BaseConnectionString Property, Access [vbaac10.chm12713]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BaseConnectionString, Access [vbaac10.chm12713]
+[CodeProject.BaseConnectionString Property (Access)](http://msdn.microsoft.com/library/118da929-8e30-25eb-c940-27ce924a88f7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.BaseConnectionString Property (Access)](http://msdn.microsoft.com/library/280bb905-d321-d844-8ab6-6c9352dd3ab0%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.BaseConnectionString (Access)](http://msdn.microsoft.com/library/codeproject.baseconnectionstring-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.BaseConnectionString (Access)](http://msdn.microsoft.com/library/currentproject.baseconnectionstring-property-access%28Office.15%29.aspx)
 

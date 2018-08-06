@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllowSpecialKeys, Access [vbaac10.chm10103]
+title: AllowSpecialKeys Property, Access [vbaac10.chm10103]
 keywords: vbaac10.chm10103
 f1_keywords:
 - vbaac10.chm10103
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AllowSpecialKeys Property, Access [vbaac10.chm10103]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllowSpecialKeys, Access [vbaac10.chm10103]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AllowSpecialKeys (propiedad)](http://msdn.microsoft.com/library/allowspecialkeys-property%28Office.15%29.aspx)
-
+[AllowSpecialKeys Property](http://msdn.microsoft.com/library/5628e6b6-f253-a435-5bce-58b6727382cc%28Office.15%29.aspx)
 

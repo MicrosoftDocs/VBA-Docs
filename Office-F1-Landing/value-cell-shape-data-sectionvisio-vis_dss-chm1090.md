@@ -1,5 +1,5 @@
 ---
-title: Celda Value (sección Shape Data), Visio [Vis_DSS.chm1090]
+title: Value Cell (Shape Data Section), Visio [Vis_DSS.chm1090]
 keywords: vis_dss.chm1090
 f1_keywords:
 - vis_dss.chm1090
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Value Cell (Shape Data Section), Visio [Vis_DSS.chm1090]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Value (sección Shape Data), Visio [Vis_DSS.chm1090]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Value (Sección de datos de formas)](http://msdn.microsoft.com/library/value-cell-shape-data-section%28Office.15%29.aspx)
-
+[Value Cell (Shape Data Section)](http://msdn.microsoft.com/library/fd42a6ce-f621-4e9e-aba3-23a1b87a5651%28Office.15%29.aspx)
 

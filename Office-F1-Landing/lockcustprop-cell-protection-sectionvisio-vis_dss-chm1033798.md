@@ -1,5 +1,5 @@
 ---
-title: Celda LockCustProp (sección Protection), Visio [Vis_DSS.chm1033798]
+title: LockCustProp Cell (Protection Section), Visio [Vis_DSS.chm1033798]
 keywords: vis_dss.chm1033798
 f1_keywords:
 - vis_dss.chm1033798
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockCustProp Cell (Protection Section), Visio [Vis_DSS.chm1033798]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockCustProp (sección Protection), Visio [Vis_DSS.chm1033798]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockCustProp (Sección de protección)](http://msdn.microsoft.com/library/lockcustprop-cell-protection-section%28Office.15%29.aspx)
-
+[LockCustProp Cell (Protection Section)](http://msdn.microsoft.com/library/d1c23f1d-485d-a897-594d-15d6e8d0fb3c%28Office.15%29.aspx)
 

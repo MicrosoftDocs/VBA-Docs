@@ -1,5 +1,5 @@
 ---
-title: Propiedad HorizontalAnchor, Access [vbaac10.chm10537]
+title: HorizontalAnchor Property, Access [vbaac10.chm10537]
 keywords: vbaac10.chm10537
 f1_keywords:
 - vbaac10.chm10537
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# HorizontalAnchor Property, Access [vbaac10.chm10537]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HorizontalAnchor, Access [vbaac10.chm10537]
+[CustomControl.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/1ccbf207-3b60-d7e7-dd69-355c2e3a1a60%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/3b16ed18-a83d-df6e-5f14-6edbd25e9490%28Office.15%29.aspx)
 
-
- [Propiedad CustomControl.HorizontalAnchor (Access)](http://msdn.microsoft.com/library/customcontrol.horizontalanchor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.HorizontalAnchor (Access)](http://msdn.microsoft.com/library/commandbutton.horizontalanchor-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.HorizontalAnchor (Access)](http://msdn.microsoft.com/library/navigationbutton.horizontalanchor-property-access%28Office.15%29.aspx)
-
+[NavigationButton.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/a68f440f-99fd-54f1-bcc0-e06502ac2dbc%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda VerticalAlign (sección Text Block Format), Visio [Vis_DSS.chm1105]
+title: VerticalAlign Cell (Text Block Format Section), Visio [Vis_DSS.chm1105]
 keywords: vis_dss.chm1105
 f1_keywords:
 - vis_dss.chm1105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# VerticalAlign Cell (Text Block Format Section), Visio [Vis_DSS.chm1105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda VerticalAlign (sección Text Block Format), Visio [Vis_DSS.chm1105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda VerticalAlign (Sección de formato del bloque de texto)](http://msdn.microsoft.com/library/verticalalign-cell-text-block-format-section%28Office.15%29.aspx)
-
+[VerticalAlign Cell (Text Block Format Section)](http://msdn.microsoft.com/library/ff34a23b-2881-864f-42e4-871c4fde0992%28Office.15%29.aspx)
 

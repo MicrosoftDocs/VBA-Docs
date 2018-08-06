@@ -1,5 +1,5 @@
 ---
-title: Propiedad LpOleObject, Access [vbaac10.chm10954]
+title: LpOleObject Property, Access [vbaac10.chm10954]
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# LpOleObject Property, Access [vbaac10.chm10954]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LpOleObject, Access [vbaac10.chm10954]
+[BoundObjectFrame.LpOleObject Property (Access)](http://msdn.microsoft.com/library/0e016e4f-8951-04b6-d8fe-00dba757b04e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.VarOleObject Property (Access)](http://msdn.microsoft.com/library/3e1a6a95-d238-45ba-172d-1a1b22fb37be%28Office.15%29.aspx)
 
-
- [Propiedad BoundObjectFrame.LpOleObject (Access)](http://msdn.microsoft.com/library/0e016e4f-8951-04b6-d8fe-00dba757b04e%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.VarOleObject (Access)](http://msdn.microsoft.com/library/boundobjectframe.varoleobject-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.VarOleObject (Access)](http://msdn.microsoft.com/library/customcontrol.varoleobject-property-access%28Office.15%29.aspx)
-
- [Propiedad ObjectFrame.VarOleObject (Access)](http://msdn.microsoft.com/library/objectframe.varoleobject-property-access%28Office.15%29.aspx)
-
+[CustomControl.VarOleObject Property (Access)](http://msdn.microsoft.com/library/7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd%28Office.15%29.aspx)
+[ObjectFrame.VarOleObject Property (Access)](http://msdn.microsoft.com/library/e04e769d-07fb-dacc-aa70-ddd3a064d785%28Office.15%29.aspx)
 

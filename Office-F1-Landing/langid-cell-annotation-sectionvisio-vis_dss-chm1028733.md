@@ -1,5 +1,5 @@
 ---
-title: Celda LangID (sección Anotación), Visio [Vis_DSS.chm1028733]
+title: LangID Cell (Annotation Section), Visio [Vis_DSS.chm1028733]
 keywords: vis_dss.chm1028733
 f1_keywords:
 - vis_dss.chm1028733
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LangID Cell (Annotation Section), Visio [Vis_DSS.chm1028733]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LangID (sección Anotación), Visio [Vis_DSS.chm1028733]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LangID (Sección de anotación)](http://msdn.microsoft.com/library/langid-cell-annotation-section%28Office.15%29.aspx)
-
+[LangID Cell (Annotation Section)](http://msdn.microsoft.com/library/b6f5ea5e-b350-0817-d631-f059b9b95c23%28Office.15%29.aspx)
 

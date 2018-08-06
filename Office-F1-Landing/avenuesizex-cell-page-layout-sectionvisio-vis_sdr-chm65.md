@@ -1,5 +1,5 @@
 ---
-title: Celda AvenueSizeX (sección Page Layout), Visio [vis_sdr.chm65]
+title: AvenueSizeX Cell (Page Layout Section), Visio [vis_sdr.chm65]
 keywords: vis_sdr.chm65
 f1_keywords:
 - vis_sdr.chm65
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AvenueSizeX Cell (Page Layout Section), Visio [vis_sdr.chm65]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda AvenueSizeX (sección Page Layout), Visio [vis_sdr.chm65]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda AvenueSizeX (Sección de diseño de página)](http://msdn.microsoft.com/library/avenuesizex-cell-page-layout-section%28Office.15%29.aspx)
-
+[AvenueSizeX Cell (Page Layout Section)](http://msdn.microsoft.com/library/86fe25ed-590d-b2f0-5dfe-9746a19c6b04%28Office.15%29.aspx)
 

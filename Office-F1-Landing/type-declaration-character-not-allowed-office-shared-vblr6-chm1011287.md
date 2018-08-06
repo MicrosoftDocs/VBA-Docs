@@ -1,5 +1,5 @@
 ---
-title: Carácter de declaración de tipo no permitido, Office Shared [vblr6.chm1011287]
+title: Type-declaration character not allowed, Office Shared [vblr6.chm1011287]
 keywords: vblr6.chm1011287
 f1_keywords:
 - vblr6.chm1011287
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type-declaration character not allowed, Office Shared [vblr6.chm1011287]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Carácter de declaración de tipo no permitido, Office Shared [vblr6.chm1011287]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Carácter de declaración de tipos no permitido](http://msdn.microsoft.com/library/type-declaration-character-not-allowed%28Office.15%29.aspx)
-
+[Type-declaration character not allowed](http://msdn.microsoft.com/library/83b717bb-e16c-f205-9c94-c8dda735a8a1%28Office.15%29.aspx)
 

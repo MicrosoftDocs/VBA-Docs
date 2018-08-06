@@ -1,5 +1,5 @@
 ---
-title: El formato especificado no tiene que coincidir con el formato de los datos (error 461), Office Shared [vblr6.chm1117804]
+title: Specified format doesn't match format of data (Error 461), Office Shared [vblr6.chm1117804]
 keywords: vblr6.chm1117804
 f1_keywords:
 - vblr6.chm1117804
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Specified format doesn't match format of data (Error 461), Office Shared [vblr6.chm1117804]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El formato especificado no tiene que coincidir con el formato de los datos (error 461), Office Shared [vblr6.chm1117804]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El formato especificado no coincide con el formato de los datos (error 461)](http://msdn.microsoft.com/library/specified-format-doesn-t-match-format-of-data-error-461%28Office.15%29.aspx)
-
+[Specified format doesn't match format of data (Error 461)](http://msdn.microsoft.com/library/3e18e1f4-f607-f4e7-d3ed-44f76ab345f2%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Personalizar control, Office Shared [fm20.chm5225280]
+title: The Customize Control dialog box, Office Shared [fm20.chm5225280]
 keywords: fm20.chm5225280
 f1_keywords:
 - fm20.chm5225280
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The Customize Control dialog box, Office Shared [fm20.chm5225280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Personalizar control, Office Shared [fm20.chm5225280]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El cuadro de diálogo Personalizar control (Microsoft Forms)](http://msdn.microsoft.com/library/the-customize-control-dialog-box-microsoft-forms%28Office.15%29.aspx)
-
+[The Customize Control dialog box (Microsoft Forms)](http://msdn.microsoft.com/library/7a02d644-1653-d212-9303-e67fd61ef25e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Método PutInClipboard, Office Shared [fm20.chm2012340]
+title: PutInClipboard Method, Office Shared [fm20.chm2012340]
 keywords: fm20.chm2012340
 f1_keywords:
 - fm20.chm2012340
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PutInClipboard Method, Office Shared [fm20.chm2012340]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método PutInClipboard, Office Shared [fm20.chm2012340]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método PutInClipboard](http://msdn.microsoft.com/library/putinclipboard-method%28Office.15%29.aspx)
-
+[PutInClipboard Method](http://msdn.microsoft.com/library/fd097450-a929-d9ce-d7a9-b93e75f4ec14%28Office.15%29.aspx)
 

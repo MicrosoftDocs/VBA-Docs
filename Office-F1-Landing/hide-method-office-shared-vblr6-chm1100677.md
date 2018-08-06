@@ -1,5 +1,5 @@
 ---
-title: Método Hide, Office Shared [vblr6.chm1100677]
+title: Hide Method, Office Shared [vblr6.chm1100677]
 keywords: vblr6.chm1100677
 f1_keywords:
 - vblr6.chm1100677
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Hide Method, Office Shared [vblr6.chm1100677]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Hide, Office Shared [vblr6.chm1100677]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Hide](http://msdn.microsoft.com/library/hide-method%28Office.15%29.aspx)
-
+[Hide Method](http://msdn.microsoft.com/library/24844c21-0181-24e9-10f6-2ac006f99cbe%28Office.15%29.aspx)
 

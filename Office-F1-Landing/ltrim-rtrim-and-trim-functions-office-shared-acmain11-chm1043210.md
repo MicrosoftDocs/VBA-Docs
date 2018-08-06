@@ -1,5 +1,5 @@
 ---
-title: Funciones LTrim, RTrim y Trim, Office Shared [acmain11.chm1043210]
+title: LTrim, RTrim, and Trim Functions, Office Shared [acmain11.chm1043210]
 keywords: acmain11.chm1043210
 f1_keywords:
 - acmain11.chm1043210
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LTrim, RTrim, and Trim Functions, Office Shared [acmain11.chm1043210]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Funciones LTrim, RTrim y Trim, Office Shared [acmain11.chm1043210]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Funciones LTrim, RTrim y Trim](http://msdn.microsoft.com/library/ltrim-rtrim-and-trim-functions%28Office.15%29.aspx)
-
+[LTrim, RTrim, and Trim Functions](http://msdn.microsoft.com/library/ffe13d6f-8e7a-3413-98a1-3263c771178b%28Office.15%29.aspx)
 

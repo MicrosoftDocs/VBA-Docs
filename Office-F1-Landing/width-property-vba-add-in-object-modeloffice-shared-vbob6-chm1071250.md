@@ -1,5 +1,5 @@
 ---
-title: Propiedad Width (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071250]
+title: Width Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071250]
 keywords: vbob6.chm1071250
 f1_keywords:
 - vbob6.chm1071250
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071250]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Width (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071250]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Width (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/width-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Width Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/8d9730ed-243c-3e20-87c9-f52b921ba3b3%28Office.15%29.aspx)
 

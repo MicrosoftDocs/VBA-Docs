@@ -1,5 +1,5 @@
 ---
-title: Evento SelectionDeleteCanceled, Visio [vis_sdr.chm10519365]
+title: SelectionDeleteCanceled Event, Visio [vis_sdr.chm10519365]
 keywords: vis_sdr.chm10519365
 f1_keywords:
 - vis_sdr.chm10519365
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SelectionDeleteCanceled Event, Visio [vis_sdr.chm10519365]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento SelectionDeleteCanceled, Visio [vis_sdr.chm10519365]
+[Document.SelectionDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/43638a89-c047-33fb-ea05-13d217979102%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.SelectionDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/b554fe23-a9c9-03e8-197f-528f3a63927b%28Office.15%29.aspx)
 
-
- [Evento Document.SelectionDeleteCanceled (Visio)](http://msdn.microsoft.com/library/document.selectiondeletecanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.SelectionDeleteCanceled (Visio)](http://msdn.microsoft.com/library/drawingcontrol.selectiondeletecanceled-event-visio%28Office.15%29.aspx)
 

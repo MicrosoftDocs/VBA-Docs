@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnLostFocus, Access [vbaac10.chm11121]
+title: OnLostFocus Property, Access [vbaac10.chm11121]
 keywords: vbaac10.chm11121
 f1_keywords:
 - vbaac10.chm11121
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnLostFocus Property, Access [vbaac10.chm11121]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnLostFocus, Access [vbaac10.chm11121]
+[TextBox.OnLostFocus Property (Access)](http://msdn.microsoft.com/library/1606cb80-bf56-3766-d939-b545c2738e17%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.OnLostFocus Property (Access)](http://msdn.microsoft.com/library/1f7496cc-7550-d9cd-c7bb-d461775d8fed%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.OnLostFocus (Access)](http://msdn.microsoft.com/library/textbox.onlostfocus-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.OnLostFocus (Access)](http://msdn.microsoft.com/library/navigationcontrol.onlostfocus-property-access%28Office.15%29.aspx)
 

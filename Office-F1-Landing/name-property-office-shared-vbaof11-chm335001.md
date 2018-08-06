@@ -1,5 +1,5 @@
 ---
-title: Propiedad Name, Office Shared [vbaof11.chm335001]
+title: Name Property, Office Shared [vbaof11.chm335001]
 keywords: vbaof11.chm335001
 f1_keywords:
 - vbaof11.chm335001
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Name Property, Office Shared [vbaof11.chm335001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Name, Office Shared [vbaof11.chm335001]
+[PickerField.Name Property (Office)](http://msdn.microsoft.com/library/9088c760-e35e-4a2f-9fc2-da24e7b4ecdd%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[PickerFields.Item Property (Office)](http://msdn.microsoft.com/library/f4336206-b8d0-d329-96a5-e9c4c210796f%28Office.15%29.aspx)
 
-
- [Propiedad PickerField.Name (Office)](http://msdn.microsoft.com/library/pickerfield.name-property-office%28Office.15%29.aspx)
-
-
- [Propiedad PickerFields.Item (Office)](http://msdn.microsoft.com/library/pickerfields.item-property-office%28Office.15%29.aspx)
 

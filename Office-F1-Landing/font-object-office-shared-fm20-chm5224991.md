@@ -1,5 +1,5 @@
 ---
-title: Objeto Font, Office Shared [fm20.chm5224991]
+title: Font Object, Office Shared [fm20.chm5224991]
 keywords: fm20.chm5224991
 f1_keywords:
 - fm20.chm5224991
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Font Object, Office Shared [fm20.chm5224991]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Font, Office Shared [fm20.chm5224991]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto Font (Microsoft Forms)](http://msdn.microsoft.com/library/font-object-microsoft-forms%28Office.15%29.aspx)
-
+[Font Object (Microsoft Forms)](http://msdn.microsoft.com/library/f3f05b2d-bb5b-5a6a-a7ad-43fd43934d9e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad SignatureProvider, Office Shared [vbaof11.chm285002]
+title: SignatureProvider Property, Office Shared [vbaof11.chm285002]
 keywords: vbaof11.chm285002
 f1_keywords:
 - vbaof11.chm285002
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SignatureProvider Property, Office Shared [vbaof11.chm285002]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SignatureProvider, Office Shared [vbaof11.chm285002]
+[SignatureInfo.SignatureProvider Property (Office)](http://msdn.microsoft.com/library/e426f4c6-95f7-dc3f-752d-0fee56bc2c65%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[SignatureSetup.Id Property (Office)](http://msdn.microsoft.com/library/9520a91b-288e-1456-9661-84d76248d43e%28Office.15%29.aspx)
 
-
- [Propiedad SignatureInfo.SignatureProvider (Office)](http://msdn.microsoft.com/library/signatureinfo.signatureprovider-property-office%28Office.15%29.aspx)
-
-
- [Propiedad SignatureSetup.Id (Office)](http://msdn.microsoft.com/library/signaturesetup.id-property-office%28Office.15%29.aspx)
 

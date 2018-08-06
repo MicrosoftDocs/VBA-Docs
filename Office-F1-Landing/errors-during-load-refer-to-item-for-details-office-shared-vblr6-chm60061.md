@@ -1,5 +1,5 @@
 ---
-title: Errores durante la carga. Consulte 'item' para obtener detalles, Office Shared [vblr6.chm60061]
+title: Errors during load. Refer to 'item' for details, Office Shared [vblr6.chm60061]
 keywords: vblr6.chm60061
 f1_keywords:
 - vblr6.chm60061
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Errors during load. Refer to 'item' for details, Office Shared [vblr6.chm60061]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Errores durante la carga. Consulte 'item' para obtener detalles, Office Shared [vblr6.chm60061]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Errores durante la carga. Consulte 'item' para obtener detalles](http://msdn.microsoft.com/library/errors-during-load.-refer-to-item-for-details%28Office.15%29.aspx)
-
+[Errors during load. Refer to 'item' for details](http://msdn.microsoft.com/library/6bd758ad-e40b-87f8-ed97-1f1c9cbadcfa%28Office.15%29.aspx)
 

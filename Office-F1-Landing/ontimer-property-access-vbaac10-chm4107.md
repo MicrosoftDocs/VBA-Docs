@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnTimer, Access [vbaac10.chm4107]
+title: OnTimer Property, Access [vbaac10.chm4107]
 keywords: vbaac10.chm4107
 f1_keywords:
 - vbaac10.chm4107
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnTimer Property, Access [vbaac10.chm4107]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnTimer, Access [vbaac10.chm4107]
+[Form.OnTimer Property (Access)](http://msdn.microsoft.com/library/a7df5020-5163-967b-b59a-0fd8f6fe7a54%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.OnTimer Property (Access)](http://msdn.microsoft.com/library/ef7ac956-ffa4-da79-0d39-9c505409b4af%28Office.15%29.aspx)
 
-
- [Propiedad Form.OnTimer (Access)](http://msdn.microsoft.com/library/form.ontimer-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.OnTimer (Access)](http://msdn.microsoft.com/library/report.ontimer-property-access%28Office.15%29.aspx)
 

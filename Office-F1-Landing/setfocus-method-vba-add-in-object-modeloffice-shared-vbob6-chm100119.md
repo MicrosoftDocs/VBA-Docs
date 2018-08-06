@@ -1,5 +1,5 @@
 ---
-title: Método SetFocus (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100119]
+title: SetFocus Method (VBA Add-In Object Model), Office Shared [vbob6.chm100119]
 keywords: vbob6.chm100119
 f1_keywords:
 - vbob6.chm100119
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SetFocus Method (VBA Add-In Object Model), Office Shared [vbob6.chm100119]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetFocus (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100119]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método SetFocus (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/setfocus-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[SetFocus Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/408bf4f7-5b76-e9dc-de60-c076470f88f4%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Fila de celdas definidas por el usuario (sección Celdas definidas por el usuario), Visio [Vis_DSS.chm82251380]
+title: User-defined Cells Row (User-defined Cells Section), Visio [Vis_DSS.chm82251380]
 keywords: vis_dss.chm82251380
 f1_keywords:
 - vis_dss.chm82251380
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# User-defined Cells Row (User-defined Cells Section), Visio [Vis_DSS.chm82251380]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila de celdas definidas por el usuario (sección Celdas definidas por el usuario), Visio [Vis_DSS.chm82251380]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila User-defined Cells (Sección de celdas definidas por el usuario)](http://msdn.microsoft.com/library/user-defined-cells-row-user-defined-cells-section%28Office.15%29.aspx)
-
+[User-defined Cells Row (User-defined Cells Section)](http://msdn.microsoft.com/library/6c48b9b3-5c62-7d5a-1c8f-fe96606f4dea%28Office.15%29.aspx)
 

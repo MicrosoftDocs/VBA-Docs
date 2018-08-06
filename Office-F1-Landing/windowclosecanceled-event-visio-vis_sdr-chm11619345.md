@@ -1,5 +1,5 @@
 ---
-title: Evento WindowCloseCanceled, Visio [vis_sdr.chm11619345]
+title: WindowCloseCanceled Event, Visio [vis_sdr.chm11619345]
 keywords: vis_sdr.chm11619345
 f1_keywords:
 - vis_sdr.chm11619345
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowCloseCanceled Event, Visio [vis_sdr.chm11619345]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento WindowCloseCanceled, Visio [vis_sdr.chm11619345]
+[DrawingControl.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/39a68cc4-81af-0d8b-4cfc-5a0fdd3b6902%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Window.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/bef37fff-5c47-9a61-4b84-ee87912d6478%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.WindowCloseCanceled (Visio)](http://msdn.microsoft.com/library/drawingcontrol.windowclosecanceled-event-visio%28Office.15%29.aspx)
-
-
- [Evento Window.WindowCloseCanceled (Visio)](http://msdn.microsoft.com/library/window.windowclosecanceled-event-visio%28Office.15%29.aspx)
 

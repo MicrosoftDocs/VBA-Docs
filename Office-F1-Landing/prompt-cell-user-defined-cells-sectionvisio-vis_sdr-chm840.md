@@ -1,5 +1,5 @@
 ---
-title: Celda Prompt (sección User-Defined Cells), Visio [vis_sdr.chm840]
+title: Prompt Cell (User-Defined Cells Section), Visio [vis_sdr.chm840]
 keywords: vis_sdr.chm840
 f1_keywords:
 - vis_sdr.chm840
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Prompt Cell (User-Defined Cells Section), Visio [vis_sdr.chm840]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Prompt (sección User-Defined Cells), Visio [vis_sdr.chm840]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Prompt (Sección de celdas definidas por el usuario)](http://msdn.microsoft.com/library/prompt-cell-user-defined-cells-section%28Office.15%29.aspx)
-
+[Prompt Cell (User-Defined Cells Section)](http://msdn.microsoft.com/library/d0f91e7d-2373-cfef-e105-fb17e77c7f2d%28Office.15%29.aspx)
 

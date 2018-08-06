@@ -1,5 +1,5 @@
 ---
-title: Propiedad DataEntry, Access [vbaac10.chm13359]
+title: DataEntry Property, Access [vbaac10.chm13359]
 keywords: vbaac10.chm13359
 f1_keywords:
 - vbaac10.chm13359
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DataEntry Property, Access [vbaac10.chm13359]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DataEntry, Access [vbaac10.chm13359]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.DataEntry (Access)](http://msdn.microsoft.com/library/form.dataentry-property-access%28Office.15%29.aspx)
-
+[Form.DataEntry Property (Access)](http://msdn.microsoft.com/library/0a970904-10f9-d0c3-24d1-0b988725bb38%28Office.15%29.aspx)
 

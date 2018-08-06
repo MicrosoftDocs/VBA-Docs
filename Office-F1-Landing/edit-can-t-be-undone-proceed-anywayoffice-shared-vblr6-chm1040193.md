@@ -1,5 +1,5 @@
 ---
-title: La modificación no se puede deshacer. ¿Desea continuar?, Office Shared [vblr6.chm1040193]
+title: Edit can't be undone--proceed anyway?, Office Shared [vblr6.chm1040193]
 keywords: vblr6.chm1040193
 f1_keywords:
 - vblr6.chm1040193
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Edit can't be undone--proceed anyway?, Office Shared [vblr6.chm1040193]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La modificación no se puede deshacer. ¿Desea continuar?, Office Shared [vblr6.chm1040193]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede deshacer la edición; ¿continuar igualmente?](http://msdn.microsoft.com/library/edit-can-t-be-undone-proceed-anyway%28Office.15%29.aspx)
-
+[Edit can't be undone--proceed anyway?](http://msdn.microsoft.com/library/7eed239f-5855-6172-ff28-2cefce3cb8b9%28Office.15%29.aspx)
 

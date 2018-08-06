@@ -1,5 +1,5 @@
 ---
-title: Celda Transparency (sección Layers), Visio [Vis_DSS.chm50130]
+title: Transparency Cell (Layers Section), Visio [Vis_DSS.chm50130]
 keywords: vis_dss.chm50130
 f1_keywords:
 - vis_dss.chm50130
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Transparency Cell (Layers Section), Visio [Vis_DSS.chm50130]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Transparency (sección Layers), Visio [Vis_DSS.chm50130]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Transparency (Sección de capas)](http://msdn.microsoft.com/library/transparency-cell-layers-section%28Office.15%29.aspx)
-
+[Transparency Cell (Layers Section)](http://msdn.microsoft.com/library/7382e2aa-5e18-19d2-88d8-c4a19a385106%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoScaleFont, Excel [vbagr10.chm67061]
+title: AutoScaleFont Property, Excel [vbagr10.chm67061]
 keywords: vbagr10.chm67061
 f1_keywords:
 - vbagr10.chm67061
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoScaleFont Property, Excel [vbagr10.chm67061]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoScaleFont, Excel [vbagr10.chm67061]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AutoScaleFont (propiedad)](http://msdn.microsoft.com/library/autoscalefont-property%28Office.15%29.aspx)
-
+[AutoScaleFont Property](http://msdn.microsoft.com/library/cb21d2e7-d3b9-e135-03ba-6d45275d4590%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnActivate, Access [vbaac10.chm4077]
+title: OnActivate Property, Access [vbaac10.chm4077]
 keywords: vbaac10.chm4077
 f1_keywords:
 - vbaac10.chm4077
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnActivate Property, Access [vbaac10.chm4077]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnActivate, Access [vbaac10.chm4077]
+[Report.OnActivate Property (Access)](http://msdn.microsoft.com/library/eb7f05e3-edba-ab9e-3708-5c3ee7b2ee18%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.OnActivate Property (Access)](http://msdn.microsoft.com/library/ab9899de-e0dc-7884-e293-e031098d644c%28Office.15%29.aspx)
 
-
- [Propiedad Report.OnActivate (Access)](http://msdn.microsoft.com/library/report.onactivate-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.OnActivate (Access)](http://msdn.microsoft.com/library/form.onactivate-property-access%28Office.15%29.aspx)
 

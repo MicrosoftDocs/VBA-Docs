@@ -1,5 +1,5 @@
 ---
-title: Evento DocumentOpened, Visio [vis_sdr.chm10019130]
+title: DocumentOpened Event, Visio [vis_sdr.chm10019130]
 keywords: vis_sdr.chm10019130
 f1_keywords:
 - vis_sdr.chm10019130
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DocumentOpened Event, Visio [vis_sdr.chm10019130]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DocumentOpened, Visio [vis_sdr.chm10019130]
+[Application.DocumentOpened Event (Visio)](http://msdn.microsoft.com/library/daaf496c-1c9c-cdc1-a06c-ac8cc8fd912f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.DocumentOpened Event (Visio)](http://msdn.microsoft.com/library/546516c5-74fe-bbfb-8788-f662de9179d5%28Office.15%29.aspx)
 
-
- [Evento Application.DocumentOpened (Visio)](http://msdn.microsoft.com/library/application.documentopened-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.DocumentOpened (Visio)](http://msdn.microsoft.com/library/invisibleapp.documentopened-event-visio%28Office.15%29.aspx)
 

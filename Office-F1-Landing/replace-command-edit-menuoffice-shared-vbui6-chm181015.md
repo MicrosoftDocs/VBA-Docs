@@ -1,5 +1,5 @@
 ---
-title: Comando Replace (menú Editar), Office Shared [vbui6.chm181015]
+title: Replace Command (Edit Menu), Office Shared [vbui6.chm181015]
 keywords: vbui6.chm181015
 f1_keywords:
 - vbui6.chm181015
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Replace Command (Edit Menu), Office Shared [vbui6.chm181015]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comando Replace (menú Editar), Office Shared [vbui6.chm181015]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comando Reemplazar (menú Edición)](http://msdn.microsoft.com/library/replace-command-edit-menu%28Office.15%29.aspx)
-
+[Replace Command (Edit Menu)](http://msdn.microsoft.com/library/75751887-a4a0-1e41-0dc7-38cb9d12145e%28Office.15%29.aspx)
 

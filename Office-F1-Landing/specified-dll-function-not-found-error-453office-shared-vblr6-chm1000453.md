@@ -1,5 +1,5 @@
 ---
-title: Función DLL especificada no encontrada (error 453), Office Shared [vblr6.chm1000453]
+title: Specified DLL function not found (Error 453), Office Shared [vblr6.chm1000453]
 keywords: vblr6.chm1000453
 f1_keywords:
 - vblr6.chm1000453
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Specified DLL function not found (Error 453), Office Shared [vblr6.chm1000453]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función DLL especificada no encontrada (error 453), Office Shared [vblr6.chm1000453]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se ha encontrado la función DLL especificada (error 453)](http://msdn.microsoft.com/library/specified-dll-function-not-found-error-453%28Office.15%29.aspx)
-
+[Specified DLL function not found (Error 453)](http://msdn.microsoft.com/library/5065c4a8-e5fb-2c47-0c8b-25afcbe2c2f3%28Office.15%29.aspx)
 

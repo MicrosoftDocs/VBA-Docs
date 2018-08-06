@@ -1,5 +1,5 @@
 ---
-title: Propiedad LayoutForPrint, Access [vbaac10.chm4409]
+title: LayoutForPrint Property, Access [vbaac10.chm4409]
 keywords: vbaac10.chm4409
 f1_keywords:
 - vbaac10.chm4409
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# LayoutForPrint Property, Access [vbaac10.chm4409]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LayoutForPrint, Access [vbaac10.chm4409]
+[Report.LayoutForPrint Property (Access)](http://msdn.microsoft.com/library/f661155f-696b-3acf-5b90-44fba06345ab%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.LayoutForPrint Property (Access)](http://msdn.microsoft.com/library/fd8c8112-186a-3f77-06ef-783bf48a7052%28Office.15%29.aspx)
 
-
- [Propiedad Report.LayoutForPrint (Access)](http://msdn.microsoft.com/library/report.layoutforprint-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.LayoutForPrint (Access)](http://msdn.microsoft.com/library/form.layoutforprint-property-access%28Office.15%29.aspx)
 

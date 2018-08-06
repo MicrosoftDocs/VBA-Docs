@@ -1,5 +1,5 @@
 ---
-title: Celda LockTextEdit (sección Protección), Visio [vis_sdr.chm665]
+title: LockTextEdit Cell (Protection Section), Visio [vis_sdr.chm665]
 keywords: vis_sdr.chm665
 f1_keywords:
 - vis_sdr.chm665
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LockTextEdit Cell (Protection Section), Visio [vis_sdr.chm665]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LockTextEdit (sección Protección), Visio [vis_sdr.chm665]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LockTextEdit (Sección de protección)](http://msdn.microsoft.com/library/locktextedit-cell-protection-section%28Office.15%29.aspx)
-
+[LockTextEdit Cell (Protection Section)](http://msdn.microsoft.com/library/d8de5fa4-826b-e869-4d9f-997361d05fd8%28Office.15%29.aspx)
 

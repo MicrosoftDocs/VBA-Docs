@@ -1,5 +1,5 @@
 ---
-title: Método Item, PowerPoint [vbapp10.chm509003]
+title: Item Method, PowerPoint [vbapp10.chm509003]
 keywords: vbapp10.chm509003
 f1_keywords:
 - vbapp10.chm509003
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Item Method, PowerPoint [vbapp10.chm509003]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Item, PowerPoint [vbapp10.chm509003]
+[ThemeVariants.Item Method (PowerPoint)](http://msdn.microsoft.com/library/acc0bc46-94d0-827a-7c38-a8f7a149ff30%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DocumentWindows.Item Method (PowerPoint)](http://msdn.microsoft.com/library/71e8ae25-8ef8-3495-c864-f8c0ea774f5e%28Office.15%29.aspx)
 
-
- [Método ThemeVariants.Item (PowerPoint)](http://msdn.microsoft.com/library/themevariants.item-method-powerpoint%28Office.15%29.aspx)
-
-
- [Método DocumentWindows.Item (PowerPoint)](http://msdn.microsoft.com/library/documentwindows.item-method-powerpoint%28Office.15%29.aspx)
 

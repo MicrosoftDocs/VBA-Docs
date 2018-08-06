@@ -1,5 +1,5 @@
 ---
-title: Característica de biblioteca de objetos no admitida, Office Shared [vblr6.chm1011953]
+title: Object library feature not supported, Office Shared [vblr6.chm1011953]
 keywords: vblr6.chm1011953
 f1_keywords:
 - vblr6.chm1011953
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object library feature not supported, Office Shared [vblr6.chm1011953]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Característica de biblioteca de objetos no admitida, Office Shared [vblr6.chm1011953]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Característica Biblioteca de objetos no admitida](http://msdn.microsoft.com/library/object-library-feature-not-supported%28Office.15%29.aspx)
-
+[Object library feature not supported](http://msdn.microsoft.com/library/3b667038-2e39-0246-2a69-73b7a79d046f%28Office.15%29.aspx)
 

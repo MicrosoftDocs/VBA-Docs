@@ -1,5 +1,5 @@
 ---
-title: Método ApplyDataLabels, Excel [vbagr10.chm3077606]
+title: ApplyDataLabels Method, Excel [vbagr10.chm3077606]
 keywords: vbagr10.chm3077606
 f1_keywords:
 - vbagr10.chm3077606
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ApplyDataLabels Method, Excel [vbagr10.chm3077606]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método ApplyDataLabels, Excel [vbagr10.chm3077606]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método ApplyDataLabels](http://msdn.microsoft.com/library/applydatalabels-method%28Office.15%29.aspx)
-
+[ApplyDataLabels Method](http://msdn.microsoft.com/library/1750d716-66f8-fe4e-8023-fbcfcc5c5ff5%28Office.15%29.aspx)
 

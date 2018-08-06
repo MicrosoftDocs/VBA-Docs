@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowValueFieldButtons, PowerPoint [vbapp10.chm684052]
+title: ShowValueFieldButtons Property, PowerPoint [vbapp10.chm684052]
 keywords: vbapp10.chm684052
 f1_keywords:
 - vbapp10.chm684052
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowValueFieldButtons Property, PowerPoint [vbapp10.chm684052]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowValueFieldButtons, PowerPoint [vbapp10.chm684052]
+[Chart.ShowValueFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/c56b12ac-71ef-a6b5-c66f-3cbe1c62a4c8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.ShowLegendFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/03860057-293c-7f1b-aecd-71428329c91c%28Office.15%29.aspx)
 
-
- [Propiedad Chart.ShowValueFieldButtons (PowerPoint)](http://msdn.microsoft.com/library/chart.showvaluefieldbuttons-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Chart.ShowLegendFieldButtons (PowerPoint)](http://msdn.microsoft.com/library/chart.showlegendfieldbuttons-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Period, Excel [vbagr10.chm5207775]
+title: Period Property, Excel [vbagr10.chm5207775]
 keywords: vbagr10.chm5207775
 f1_keywords:
 - vbagr10.chm5207775
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Period Property, Excel [vbagr10.chm5207775]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Period, Excel [vbagr10.chm5207775]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Period (propiedad)](http://msdn.microsoft.com/library/period-property%28Office.15%29.aspx)
-
+[Period Property](http://msdn.microsoft.com/library/6f0378a3-a158-b21d-eef3-acde9e86f94b%28Office.15%29.aspx)
 

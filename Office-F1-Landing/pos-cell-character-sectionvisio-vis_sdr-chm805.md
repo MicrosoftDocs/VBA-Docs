@@ -1,5 +1,5 @@
 ---
-title: Celda Pos (sección Carácter), Visio [vis_sdr.chm805]
+title: Pos Cell (Character Section), Visio [vis_sdr.chm805]
 keywords: vis_sdr.chm805
 f1_keywords:
 - vis_sdr.chm805
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Pos Cell (Character Section), Visio [vis_sdr.chm805]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Pos (sección Carácter), Visio [vis_sdr.chm805]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Pos (Sección de caracteres)](http://msdn.microsoft.com/library/pos-cell-character-section%28Office.15%29.aspx)
-
+[Pos Cell (Character Section)](http://msdn.microsoft.com/library/c02186ce-6a20-fbe7-588d-d64c3ea4dec4%28Office.15%29.aspx)
 

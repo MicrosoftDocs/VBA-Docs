@@ -1,5 +1,5 @@
 ---
-title: Error de sistema 'item', Office Shared [vblr6.chm50006]
+title: System error 'item', Office Shared [vblr6.chm50006]
 keywords: vblr6.chm50006
 f1_keywords:
 - vblr6.chm50006
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# System error 'item', Office Shared [vblr6.chm50006]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de sistema 'item', Office Shared [vblr6.chm50006]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error del sistema 'item'](http://msdn.microsoft.com/library/system-error-item%28Office.15%29.aspx)
-
+[System error 'item'](http://msdn.microsoft.com/library/462ffb83-9cda-bfa8-3581-cb4994fb19d2%28Office.15%29.aspx)
 

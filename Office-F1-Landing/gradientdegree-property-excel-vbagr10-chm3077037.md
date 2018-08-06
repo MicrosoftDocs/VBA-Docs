@@ -1,5 +1,5 @@
 ---
-title: Propiedad GradientDegree, Excel [vbagr10.chm3077037]
+title: GradientDegree Property, Excel [vbagr10.chm3077037]
 keywords: vbagr10.chm3077037
 f1_keywords:
 - vbagr10.chm3077037
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# GradientDegree Property, Excel [vbagr10.chm3077037]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GradientDegree, Excel [vbagr10.chm3077037]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [GradientDegree (propiedad)](http://msdn.microsoft.com/library/gradientdegree-property%28Office.15%29.aspx)
-
+[GradientDegree Property](http://msdn.microsoft.com/library/6f325dc0-5f6c-7a55-52fa-55eeb15ccfe6%28Office.15%29.aspx)
 

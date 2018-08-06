@@ -1,5 +1,5 @@
 ---
-title: Evento MouseUp, Visio [vis_sdr.chm11651300]
+title: MouseUp Event, Visio [vis_sdr.chm11651300]
 keywords: vis_sdr.chm11651300
 f1_keywords:
 - vis_sdr.chm11651300
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MouseUp Event, Visio [vis_sdr.chm11651300]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento MouseUp, Visio [vis_sdr.chm11651300]
+[Window.MouseUp Event (Visio)](http://msdn.microsoft.com/library/cb341aa4-9295-4460-53d7-8770e1534707%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.MouseUp Event (Visio)](http://msdn.microsoft.com/library/34f7d931-5f4d-523e-b4d8-9096c4a634c3%28Office.15%29.aspx)
 
-
- [Evento Window.MouseUp (Visio)](http://msdn.microsoft.com/library/window.mouseup-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.MouseUp (Visio)](http://msdn.microsoft.com/library/drawingcontrol.mouseup-event-visio%28Office.15%29.aspx)
 

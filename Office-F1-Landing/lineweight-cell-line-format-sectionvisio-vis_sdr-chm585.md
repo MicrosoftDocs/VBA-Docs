@@ -1,5 +1,5 @@
 ---
-title: Celda LineWeight (sección Line Format), Visio [vis_sdr.chm585]
+title: LineWeight Cell (Line Format Section), Visio [vis_sdr.chm585]
 keywords: vis_sdr.chm585
 f1_keywords:
 - vis_sdr.chm585
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineWeight Cell (Line Format Section), Visio [vis_sdr.chm585]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineWeight (sección Line Format), Visio [vis_sdr.chm585]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineWeight (Sección de formato de línea)](http://msdn.microsoft.com/library/lineweight-cell-line-format-section%28Office.15%29.aspx)
-
+[LineWeight Cell (Line Format Section)](http://msdn.microsoft.com/library/16b0e293-eeef-34b4-aeb0-4472815dd543%28Office.15%29.aspx)
 

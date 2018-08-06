@@ -1,5 +1,5 @@
 ---
-title: Propiedad ReturnVars, Access [vbaac10.chm14688]
+title: ReturnVars Property, Access [vbaac10.chm14688]
 keywords: vbaac10.chm14688
 f1_keywords:
 - vbaac10.chm14688
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ReturnVars Property, Access [vbaac10.chm14688]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ReturnVars, Access [vbaac10.chm14688]
+[Application.ReturnVars Property (Access)](http://msdn.microsoft.com/library/2b8f455a-328f-d2f5-8277-24e9c2b9f5c7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ReturnVars Object (Access)](http://msdn.microsoft.com/library/3cc16825-665f-4bd8-a606-6b3b93594659%28Office.15%29.aspx)
 
-
- [Propiedad Application.ReturnVars (Access)](http://msdn.microsoft.com/library/application.returnvars-property-access%28Office.15%29.aspx)
-
-
- [Objeto ReturnVars (acceso)](http://msdn.microsoft.com/library/returnvars-object-access%28Office.15%29.aspx)
 

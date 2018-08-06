@@ -1,5 +1,5 @@
 ---
-title: Evento ShapeAdded, Visio [vis_sdr.chm10519225]
+title: ShapeAdded Event, Visio [vis_sdr.chm10519225]
 keywords: vis_sdr.chm10519225
 f1_keywords:
 - vis_sdr.chm10519225
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeAdded Event, Visio [vis_sdr.chm10519225]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ShapeAdded, Visio [vis_sdr.chm10519225]
+[DrawingControl.ShapeAdded Event (Visio)](http://msdn.microsoft.com/library/ed953649-3fae-0a25-099f-37f64e335feb%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.ShapeAdded Event (Visio)](http://msdn.microsoft.com/library/d80b6ee3-8b5f-9c34-e8db-8443146b4728%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.ShapeAdded (Visio)](http://msdn.microsoft.com/library/drawingcontrol.shapeadded-event-visio%28Office.15%29.aspx)
-
-
- [Evento Document.ShapeAdded (Visio)](http://msdn.microsoft.com/library/document.shapeadded-event-visio%28Office.15%29.aspx)
 

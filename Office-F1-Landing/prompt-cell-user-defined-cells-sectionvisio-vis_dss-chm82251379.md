@@ -1,5 +1,5 @@
 ---
-title: Celda Prompt (sección de celdas definidas por el usuario), Visio [Vis_DSS.chm82251379]
+title: Prompt Cell (User-Defined Cells Section), Visio [Vis_DSS.chm82251379]
 keywords: vis_dss.chm82251379
 f1_keywords:
 - vis_dss.chm82251379
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Prompt Cell (User-Defined Cells Section), Visio [Vis_DSS.chm82251379]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Prompt (sección de celdas definidas por el usuario), Visio [Vis_DSS.chm82251379]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Prompt (Sección de celdas definidas por el usuario)](http://msdn.microsoft.com/library/prompt-cell-user-defined-cells-section%28Office.15%29.aspx)
-
+[Prompt Cell (User-Defined Cells Section)](http://msdn.microsoft.com/library/d0f91e7d-2373-cfef-e105-fb17e77c7f2d%28Office.15%29.aspx)
 

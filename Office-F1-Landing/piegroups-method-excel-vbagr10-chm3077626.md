@@ -1,5 +1,5 @@
 ---
-title: Método PieGroups, Excel [vbagr10.chm3077626]
+title: PieGroups Method, Excel [vbagr10.chm3077626]
 keywords: vbagr10.chm3077626
 f1_keywords:
 - vbagr10.chm3077626
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PieGroups Method, Excel [vbagr10.chm3077626]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método PieGroups, Excel [vbagr10.chm3077626]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método PieGroups](http://msdn.microsoft.com/library/piegroups-method%28Office.15%29.aspx)
-
+[PieGroups Method](http://msdn.microsoft.com/library/f7fd5497-f7a0-6c28-1a59-9e6f37a0885e%28Office.15%29.aspx)
 

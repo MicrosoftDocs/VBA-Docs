@@ -1,5 +1,5 @@
 ---
-title: Propiedad Separator, Excel [vbagr10.chm67471]
+title: Separator Property, Excel [vbagr10.chm67471]
 keywords: vbagr10.chm67471
 f1_keywords:
 - vbagr10.chm67471
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Separator Property, Excel [vbagr10.chm67471]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Separator, Excel [vbagr10.chm67471]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Separator (propiedad)](http://msdn.microsoft.com/library/separator-property%28Office.15%29.aspx)
-
+[Separator Property](http://msdn.microsoft.com/library/d83c68fc-5948-a65f-b3bb-09e3a3884163%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Sección Protection, Visio [vis_sdr.chm2115]
+title: Protection Section, Visio [vis_sdr.chm2115]
 keywords: vis_sdr.chm2115
 f1_keywords:
 - vis_sdr.chm2115
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Protection Section, Visio [vis_sdr.chm2115]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Protection, Visio [vis_sdr.chm2115]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de protección](http://msdn.microsoft.com/library/protection-section%28Office.15%29.aspx)
-
+[Protection Section](http://msdn.microsoft.com/library/3fec776a-e9a7-6774-d824-e905d427b8b4%28Office.15%29.aspx)
 

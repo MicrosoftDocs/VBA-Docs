@@ -1,5 +1,5 @@
 ---
-title: Propiedad Cells, Excel [vbagr10.chm3076988]
+title: Cells Property, Excel [vbagr10.chm3076988]
 keywords: vbagr10.chm3076988
 f1_keywords:
 - vbagr10.chm3076988
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Cells Property, Excel [vbagr10.chm3076988]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Cells, Excel [vbagr10.chm3076988]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cells (propiedad)](http://msdn.microsoft.com/library/cells-property%28Office.15%29.aspx)
-
+[Cells Property](http://msdn.microsoft.com/library/43d4d8ba-ae6b-90b8-6f83-bbb75a7cbccb%28Office.15%29.aspx)
 

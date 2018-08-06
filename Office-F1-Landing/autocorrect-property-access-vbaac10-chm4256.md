@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoCorrect, Access [vbaac10.chm4256]
+title: AutoCorrect Property, Access [vbaac10.chm4256]
 keywords: vbaac10.chm4256
 f1_keywords:
 - vbaac10.chm4256
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoCorrect Property, Access [vbaac10.chm4256]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoCorrect, Access [vbaac10.chm4256]
+[Application.AutoCorrect Property (Access)](http://msdn.microsoft.com/library/10c259ed-43c2-b413-d137-78b2c9ff4326%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.AllowAutoCorrect Property (Access)](http://msdn.microsoft.com/library/ebf48367-20fb-14be-7082-a2d9de923c51%28Office.15%29.aspx)
 
-
- [Propiedad Application.AutoCorrect (Access)](http://msdn.microsoft.com/library/application.autocorrect-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.AllowAutoCorrect (Access)](http://msdn.microsoft.com/library/combobox.allowautocorrect-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.AllowAutoCorrect (Access)](http://msdn.microsoft.com/library/textbox.allowautocorrect-property-access%28Office.15%29.aspx)
-
+[TextBox.AllowAutoCorrect Property (Access)](http://msdn.microsoft.com/library/9cafa161-c073-855f-edee-c7c9cb32be99%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: ParamArray debe declararse como matriz de Variant, Office Shared [vblr6.chm1011247]
+title: ParamArray must be declared as an array of Variant, Office Shared [vblr6.chm1011247]
 keywords: vblr6.chm1011247
 f1_keywords:
 - vblr6.chm1011247
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ParamArray must be declared as an array of Variant, Office Shared [vblr6.chm1011247]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# ParamArray debe declararse como matriz de Variant, Office Shared [vblr6.chm1011247]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ParamArray se debe declarar como matriz de Variant](http://msdn.microsoft.com/library/paramarray-must-be-declared-as-an-array-of-variant%28Office.15%29.aspx)
-
+[ParamArray must be declared as an array of Variant](http://msdn.microsoft.com/library/d6c8fce1-590f-53c3-8379-a5324003134e%28Office.15%29.aspx)
 

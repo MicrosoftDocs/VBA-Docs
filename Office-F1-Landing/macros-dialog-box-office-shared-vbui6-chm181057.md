@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Macros, Office Shared [vbui6.chm181057]
+title: Macros Dialog Box, Office Shared [vbui6.chm181057]
 keywords: vbui6.chm181057
 f1_keywords:
 - vbui6.chm181057
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Macros Dialog Box, Office Shared [vbui6.chm181057]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Macros, Office Shared [vbui6.chm181057]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cuadro de diálogo Macros](http://msdn.microsoft.com/library/macros-dialog-box%28Office.15%29.aspx)
-
+[Macros Dialog Box](http://msdn.microsoft.com/library/1746e7a5-fbe9-0738-c366-fc7e0687a98f%28Office.15%29.aspx)
 

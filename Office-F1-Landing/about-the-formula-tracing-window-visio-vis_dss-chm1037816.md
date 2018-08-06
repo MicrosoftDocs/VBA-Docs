@@ -1,5 +1,5 @@
 ---
-title: Acerca de la ventana Rastreo de fórmulas, Visio [Vis_DSS.chm1037816]
+title: About the Formula Tracing Window, Visio [Vis_DSS.chm1037816]
 keywords: vis_dss.chm1037816
 f1_keywords:
 - vis_dss.chm1037816
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# About the Formula Tracing Window, Visio [Vis_DSS.chm1037816]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Acerca de la ventana Rastreo de fórmulas, Visio [Vis_DSS.chm1037816]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Ventana Rastreo de fórmulas](http://msdn.microsoft.com/library/about-the-formula-tracing-window%28Office.15%29.aspx)
-
+[About the Formula Tracing Window](http://msdn.microsoft.com/library/0cdacd4e-74dc-32c3-2eb2-219bf7fcb532%28Office.15%29.aspx)
 

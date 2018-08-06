@@ -1,5 +1,5 @@
 ---
-title: Celda Initials (sección Revisor), Visio [Vis_DSS.chm60045]
+title: Initials Cell (Reviewer Section), Visio [Vis_DSS.chm60045]
 keywords: vis_dss.chm60045
 f1_keywords:
 - vis_dss.chm60045
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Initials Cell (Reviewer Section), Visio [Vis_DSS.chm60045]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Initials (sección Revisor), Visio [Vis_DSS.chm60045]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Initials (Sección de revisor)](http://msdn.microsoft.com/library/initials-cell-reviewer-section%28Office.15%29.aspx)
-
+[Initials Cell (Reviewer Section)](http://msdn.microsoft.com/library/8f5d34f0-4c4b-5265-83c1-5b86b73d464f%28Office.15%29.aspx)
 

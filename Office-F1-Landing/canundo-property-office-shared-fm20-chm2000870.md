@@ -1,5 +1,5 @@
 ---
-title: Propiedad CanUndo, Office Shared [fm20.chm2000870]
+title: CanUndo Property, Office Shared [fm20.chm2000870]
 keywords: fm20.chm2000870
 f1_keywords:
 - fm20.chm2000870
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CanUndo Property, Office Shared [fm20.chm2000870]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CanUndo, Office Shared [fm20.chm2000870]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CanUndo](http://msdn.microsoft.com/library/canundo-property%28Office.15%29.aspx)
-
+[CanUndo Property](http://msdn.microsoft.com/library/e96f23c1-5a82-0f94-4bef-aaf9767db719%28Office.15%29.aspx)
 

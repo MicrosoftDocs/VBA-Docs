@@ -1,5 +1,5 @@
 ---
-title: Propiedad LogMessages, Access [vbaac10.chm6388]
+title: LogMessages Property, Access [vbaac10.chm6388]
 keywords: vbaac10.chm6388
 f1_keywords:
 - vbaac10.chm6388
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LogMessages Property, Access [vbaac10.chm6388]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LogMessages, Access [vbaac10.chm6388]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [LogMessages (propiedad)](http://msdn.microsoft.com/library/logmessages-property%28Office.15%29.aspx)
-
+[LogMessages Property](http://msdn.microsoft.com/library/848f215b-50aa-22f4-264c-ff7d00347aa7%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeDocumentSaveAs, Visio [vis_sdr.chm10019035]
+title: BeforeDocumentSaveAs Event, Visio [vis_sdr.chm10019035]
 keywords: vis_sdr.chm10019035
 f1_keywords:
 - vis_sdr.chm10019035
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeDocumentSaveAs Event, Visio [vis_sdr.chm10019035]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeDocumentSaveAs, Visio [vis_sdr.chm10019035]
+[InvisibleApp.BeforeDocumentSaveAs Event (Visio)](http://msdn.microsoft.com/library/a515ea96-7e11-8a06-8869-3aca75a477df%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforeDocumentSaveAs Event (Visio)](http://msdn.microsoft.com/library/e6782126-d2e7-c82e-b4dc-a9a5cece14b7%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforeDocumentSaveAs (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforedocumentsaveas-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforeDocumentSaveAs (Visio)](http://msdn.microsoft.com/library/application.beforedocumentsaveas-event-visio%28Office.15%29.aspx)
 

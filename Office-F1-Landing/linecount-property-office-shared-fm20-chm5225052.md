@@ -1,5 +1,5 @@
 ---
-title: Propiedad LineCount, Office Shared [fm20.chm5225052]
+title: LineCount Property, Office Shared [fm20.chm5225052]
 keywords: fm20.chm5225052
 f1_keywords:
 - fm20.chm5225052
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineCount Property, Office Shared [fm20.chm5225052]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad LineCount, Office Shared [fm20.chm5225052]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad LineCount](http://msdn.microsoft.com/library/linecount-property%28Office.15%29.aspx)
-
+[LineCount Property](http://msdn.microsoft.com/library/a7dd67ca-ef98-6a7b-d703-344765328eda%28Office.15%29.aspx)
 

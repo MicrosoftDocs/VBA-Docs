@@ -1,5 +1,5 @@
 ---
-title: Celda BlockSizeX (sección Page Layout), Visio [vis_sdr.chm105]
+title: BlockSizeX Cell (Page Layout Section), Visio [vis_sdr.chm105]
 keywords: vis_sdr.chm105
 f1_keywords:
 - vis_sdr.chm105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BlockSizeX Cell (Page Layout Section), Visio [vis_sdr.chm105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda BlockSizeX (sección Page Layout), Visio [vis_sdr.chm105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda BlockSizeX (Sección de diseño de página)](http://msdn.microsoft.com/library/blocksizex-cell-page-layout-section%28Office.15%29.aspx)
-
+[BlockSizeX Cell (Page Layout Section)](http://msdn.microsoft.com/library/253aac17-077e-48e0-39a8-a3abd5d4a257%28Office.15%29.aspx)
 

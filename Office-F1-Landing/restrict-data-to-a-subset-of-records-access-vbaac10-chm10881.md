@@ -1,5 +1,5 @@
 ---
-title: Restricción de datos a un subconjunto de registros, Access [vbaac10.chm10881]
+title: Restrict Data to a Subset of Records, Access [vbaac10.chm10881]
 keywords: vbaac10.chm10881
 f1_keywords:
 - vbaac10.chm10881
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Restrict Data to a Subset of Records, Access [vbaac10.chm10881]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Restricción de datos a un subconjunto de registros, Access [vbaac10.chm10881]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Limitar datos a un subconjunto de registros](http://msdn.microsoft.com/library/restrict-data-to-a-subset-of-records%28Office.15%29.aspx)
-
+[Restrict Data to a Subset of Records](http://msdn.microsoft.com/library/f3310e1f-9987-785a-9ae2-a2eb375a35c2%28Office.15%29.aspx)
 

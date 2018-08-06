@@ -1,5 +1,5 @@
 ---
-title: Constantes intrínsecas como máscaras de bits, Access [vbaac10.chm5187354]
+title: Intrinsic Constants as Bit Masks, Access [vbaac10.chm5187354]
 keywords: vbaac10.chm5187354
 f1_keywords:
 - vbaac10.chm5187354
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Intrinsic Constants as Bit Masks, Access [vbaac10.chm5187354]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Constantes intrínsecas como máscaras de bits, Access [vbaac10.chm5187354]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Constantes intrínsecas como máscaras de bits](http://msdn.microsoft.com/library/intrinsic-constants-as-bit-masks%28Office.15%29.aspx)
-
+[Intrinsic Constants as Bit Masks](http://msdn.microsoft.com/library/2f339b2c-d078-aedd-0ebd-8d04877cbf9a%28Office.15%29.aspx)
 

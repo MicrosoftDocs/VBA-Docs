@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridX, Access [vbaac10.chm4367]
+title: GridX Property, Access [vbaac10.chm4367]
 keywords: vbaac10.chm4367
 f1_keywords:
 - vbaac10.chm4367
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridX Property, Access [vbaac10.chm4367]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridX, Access [vbaac10.chm4367]
+[Report.GridX Property (Access)](http://msdn.microsoft.com/library/b932531f-89d3-5f8e-d6cc-43baf1004149%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.GridX Property (Access)](http://msdn.microsoft.com/library/ebc6a4d9-2f73-cf55-504f-a83aff1fecd4%28Office.15%29.aspx)
 
-
- [Propiedad Report.GridX (Access)](http://msdn.microsoft.com/library/report.gridx-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.GridX (Access)](http://msdn.microsoft.com/library/form.gridx-property-access%28Office.15%29.aspx)
 

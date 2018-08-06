@@ -1,5 +1,5 @@
 ---
-title: Celda EventDblClick (sección Eventos), Visio [vis_sdr.chm345]
+title: EventDblClick Cell (Events Section), Visio [vis_sdr.chm345]
 keywords: vis_sdr.chm345
 f1_keywords:
 - vis_sdr.chm345
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EventDblClick Cell (Events Section), Visio [vis_sdr.chm345]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EventDblClick (sección Eventos), Visio [vis_sdr.chm345]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EventDblClick (Sección de eventos)](http://msdn.microsoft.com/library/eventdblclick-cell-events-section%28Office.15%29.aspx)
-
+[EventDblClick Cell (Events Section)](http://msdn.microsoft.com/library/ca949013-f998-1bce-39e5-ac6f68ab2392%28Office.15%29.aspx)
 

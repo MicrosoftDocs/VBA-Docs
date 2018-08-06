@@ -1,5 +1,5 @@
 ---
-title: Evento Click (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100207]
+title: Click Event (VBA Add-In Object Model), Office Shared [vbob6.chm100207]
 keywords: vbob6.chm100207
 f1_keywords:
 - vbob6.chm100207
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Click Event (VBA Add-In Object Model), Office Shared [vbob6.chm100207]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Click (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100207]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Click (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/click-event-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Click Event (VBA Add-In Object Model)](http://msdn.microsoft.com/library/ac72bf41-e582-be84-d204-96545e8db71e%28Office.15%29.aspx)
 

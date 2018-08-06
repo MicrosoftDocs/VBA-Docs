@@ -1,5 +1,5 @@
 ---
-title: Propiedad HiLoLines, Excel [vbagr10.chm5207534]
+title: HiLoLines Property, Excel [vbagr10.chm5207534]
 keywords: vbagr10.chm5207534
 f1_keywords:
 - vbagr10.chm5207534
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HiLoLines Property, Excel [vbagr10.chm5207534]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HiLoLines, Excel [vbagr10.chm5207534]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HiLoLines (propiedad)](http://msdn.microsoft.com/library/hilolines-property%28Office.15%29.aspx)
-
+[HiLoLines Property](http://msdn.microsoft.com/library/ed2ff722-b477-4346-d807-3d2615abd845%28Office.15%29.aspx)
 

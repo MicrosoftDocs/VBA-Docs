@@ -1,5 +1,5 @@
 ---
-title: Menús de Visual Basic, Office Shared [vbui6.chm181051]
+title: Visual Basic Menus, Office Shared [vbui6.chm181051]
 keywords: vbui6.chm181051
 f1_keywords:
 - vbui6.chm181051
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Visual Basic Menus, Office Shared [vbui6.chm181051]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Menús de Visual Basic, Office Shared [vbui6.chm181051]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Menús de Visual Basic](http://msdn.microsoft.com/library/visual-basic-menus%28Office.15%29.aspx)
-
+[Visual Basic Menus](http://msdn.microsoft.com/library/0969ca06-c1a2-dbe6-abca-a0678a9878b8%28Office.15%29.aspx)
 

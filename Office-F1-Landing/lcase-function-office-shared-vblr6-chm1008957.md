@@ -1,5 +1,5 @@
 ---
-title: Función LCase, Office Shared [vblr6.chm1008957]
+title: LCase Function, Office Shared [vblr6.chm1008957]
 keywords: vblr6.chm1008957
 f1_keywords:
 - vblr6.chm1008957
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LCase Function, Office Shared [vblr6.chm1008957]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función LCase, Office Shared [vblr6.chm1008957]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función LCase](http://msdn.microsoft.com/library/lcase-function%28Office.15%29.aspx)
-
+[LCase Function](http://msdn.microsoft.com/library/aeccc222-c9c7-85e9-fa03-8ac99bcfe9dd%28Office.15%29.aspx)
 

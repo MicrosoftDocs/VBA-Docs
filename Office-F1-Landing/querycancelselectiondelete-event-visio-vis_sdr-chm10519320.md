@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelSelectionDelete, Visio [vis_sdr.chm10519320]
+title: QueryCancelSelectionDelete Event, Visio [vis_sdr.chm10519320]
 keywords: vis_sdr.chm10519320
 f1_keywords:
 - vis_sdr.chm10519320
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelSelectionDelete Event, Visio [vis_sdr.chm10519320]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelSelectionDelete, Visio [vis_sdr.chm10519320]
+[Document.QueryCancelSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/6b784ad0-a8fb-dd07-9e87-abaa1509af1b%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.QueryCancelSelectionDelete Event (Visio)](http://msdn.microsoft.com/library/30a3a0bc-a64b-a2e2-3bc1-ddfd3e4ee5ac%28Office.15%29.aspx)
 
-
- [Evento Document.QueryCancelSelectionDelete (Visio)](http://msdn.microsoft.com/library/document.querycancelselectiondelete-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.QueryCancelSelectionDelete (Visio)](http://msdn.microsoft.com/library/drawingcontrol.querycancelselectiondelete-event-visio%28Office.15%29.aspx)
 

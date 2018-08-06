@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasModule, Access [vbaac10.chm4376]
+title: HasModule Property, Access [vbaac10.chm4376]
 keywords: vbaac10.chm4376
 f1_keywords:
 - vbaac10.chm4376
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HasModule Property, Access [vbaac10.chm4376]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasModule, Access [vbaac10.chm4376]
+[Form.HasModule Property (Access)](http://msdn.microsoft.com/library/ba43a8c8-89f2-e744-ed99-082510dc8f3a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.HasModule Property (Access)](http://msdn.microsoft.com/library/a4f33211-aaa8-d082-feed-aea75bda8659%28Office.15%29.aspx)
 
-
- [Propiedad Form.HasModule (Access)](http://msdn.microsoft.com/library/form.hasmodule-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.HasModule (Access)](http://msdn.microsoft.com/library/report.hasmodule-property-access%28Office.15%29.aspx)
 

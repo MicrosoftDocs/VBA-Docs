@@ -1,5 +1,5 @@
 ---
-title: Colección Trendlines, Excel [vbagr10.chm131197]
+title: Trendlines Collection, Excel [vbagr10.chm131197]
 keywords: vbagr10.chm131197
 f1_keywords:
 - vbagr10.chm131197
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Trendlines Collection, Excel [vbagr10.chm131197]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección Trendlines, Excel [vbagr10.chm131197]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Colección Trendlines (Excel)](http://msdn.microsoft.com/library/trendlines-collection-excel%28Office.15%29.aspx)
-
+[Trendlines Collection (Excel)](http://msdn.microsoft.com/library/4b12461a-65a2-c535-e98d-ff68ffa5919c%28Office.15%29.aspx)
 

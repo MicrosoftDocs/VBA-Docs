@@ -1,5 +1,5 @@
 ---
-title: No se puede crear la imagen AutoRedraw (error 480), Office Shared [vblr6.chm1117830]
+title: Can't create AutoRedraw image (Error 480), Office Shared [vblr6.chm1117830]
 keywords: vblr6.chm1117830
 f1_keywords:
 - vblr6.chm1117830
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't create AutoRedraw image (Error 480), Office Shared [vblr6.chm1117830]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede crear la imagen AutoRedraw (error 480), Office Shared [vblr6.chm1117830]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede crear la imagen AutoRedraw (error 480)](http://msdn.microsoft.com/library/can-t-create-autoredraw-image-error-480%28Office.15%29.aspx)
-
+[Can't create AutoRedraw image (Error 480)](http://msdn.microsoft.com/library/35a64aeb-89ad-26fa-2a06-dbbf3d5457e4%28Office.15%29.aspx)
 

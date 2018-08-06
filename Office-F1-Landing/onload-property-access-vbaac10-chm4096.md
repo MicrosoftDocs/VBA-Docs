@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnLoad, Access [vbaac10.chm4096]
+title: OnLoad Property, Access [vbaac10.chm4096]
 keywords: vbaac10.chm4096
 f1_keywords:
 - vbaac10.chm4096
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnLoad Property, Access [vbaac10.chm4096]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnLoad, Access [vbaac10.chm4096]
+[Report.OnLoad Property (Access)](http://msdn.microsoft.com/library/b9ce7eaf-3f52-4cdf-a8eb-74f242c6b526%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.OnLoad Property (Access)](http://msdn.microsoft.com/library/8614f8a8-b5ca-6fa6-46b2-7e88d8a8137d%28Office.15%29.aspx)
 
-
- [Propiedad Report.OnLoad (Access)](http://msdn.microsoft.com/library/report.onload-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.OnLoad (Access)](http://msdn.microsoft.com/library/form.onload-property-access%28Office.15%29.aspx)
 

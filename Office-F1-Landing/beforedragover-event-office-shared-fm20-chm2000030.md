@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeDragOver, Office Shared [fm20.chm2000030]
+title: BeforeDragOver Event, Office Shared [fm20.chm2000030]
 keywords: fm20.chm2000030
 f1_keywords:
 - fm20.chm2000030
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeDragOver Event, Office Shared [fm20.chm2000030]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeDragOver, Office Shared [fm20.chm2000030]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento BeforeDragOver](http://msdn.microsoft.com/library/beforedragover-event%28Office.15%29.aspx)
-
+[BeforeDragOver Event](http://msdn.microsoft.com/library/0c2803fc-0f69-60d8-06fb-36870aad8a27%28Office.15%29.aspx)
 

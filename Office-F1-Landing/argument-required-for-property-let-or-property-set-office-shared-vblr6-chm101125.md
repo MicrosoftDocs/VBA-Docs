@@ -1,5 +1,5 @@
 ---
-title: Argumento necesario para Property Let o Property Set, Office Shared [vblr6.chm1011255]
+title: Argument required for Property Let or Property Set, Office Shared [vblr6.chm1011255]
 keywords: vblr6.chm1011255
 f1_keywords:
 - vblr6.chm1011255
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Argument required for Property Let or Property Set, Office Shared [vblr6.chm1011255]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Argumento necesario para Property Let o Property Set, Office Shared [vblr6.chm1011255]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Argumento requerido para Property Let o Property Set](http://msdn.microsoft.com/library/argument-required-for-property-let-or-property-set%28Office.15%29.aspx)
-
+[Argument required for Property Let or Property Set](http://msdn.microsoft.com/library/bbefad41-c17c-d1d3-52ac-32389acb3b7f%28Office.15%29.aspx)
 

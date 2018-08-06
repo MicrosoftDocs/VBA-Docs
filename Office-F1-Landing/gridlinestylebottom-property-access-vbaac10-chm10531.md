@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineStyleBottom, Access [vbaac10.chm10531]
+title: GridlineStyleBottom Property, Access [vbaac10.chm10531]
 keywords: vbaac10.chm10531
 f1_keywords:
 - vbaac10.chm10531
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineStyleBottom Property, Access [vbaac10.chm10531]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineStyleBottom, Access [vbaac10.chm10531]
+[NavigationButton.GridlineStyleBottom Property (Access)](http://msdn.microsoft.com/library/1b20284b-559a-d06c-8a24-2ecd6dcd7837%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.GridlineStyleBottom Property (Access)](http://msdn.microsoft.com/library/6cacbac2-3960-3f3e-45a1-d5b0d8fd3ac0%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.GridlineStyleBottom (Access)](http://msdn.microsoft.com/library/navigationbutton.gridlinestylebottom-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.GridlineStyleBottom (Access)](http://msdn.microsoft.com/library/customcontrol.gridlinestylebottom-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.GridlineStyleBottom (Access)](http://msdn.microsoft.com/library/commandbutton.gridlinestylebottom-property-access%28Office.15%29.aspx)
-
+[CommandButton.GridlineStyleBottom Property (Access)](http://msdn.microsoft.com/library/77ee45fb-5dde-2925-d88b-da62a6f9ed27%28Office.15%29.aspx)
 

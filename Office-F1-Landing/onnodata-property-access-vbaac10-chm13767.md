@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnNoData, Access [vbaac10.chm13767]
+title: OnNoData Property, Access [vbaac10.chm13767]
 keywords: vbaac10.chm13767
 f1_keywords:
 - vbaac10.chm13767
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnNoData Property, Access [vbaac10.chm13767]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnNoData, Access [vbaac10.chm13767]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.OnNoData (Access)](http://msdn.microsoft.com/library/report.onnodata-property-access%28Office.15%29.aspx)
-
+[Report.OnNoData Property (Access)](http://msdn.microsoft.com/library/5d3cfec5-1b57-625c-c350-0d7e475be2d2%28Office.15%29.aspx)
 

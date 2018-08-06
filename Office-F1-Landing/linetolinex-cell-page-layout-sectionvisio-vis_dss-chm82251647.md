@@ -1,5 +1,5 @@
 ---
-title: Celda LineToLineX (sección Page Layout), Visio [Vis_DSS.chm82251647]
+title: LineToLineX Cell (Page Layout Section), Visio [Vis_DSS.chm82251647]
 keywords: vis_dss.chm82251647
 f1_keywords:
 - vis_dss.chm82251647
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineToLineX Cell (Page Layout Section), Visio [Vis_DSS.chm82251647]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineToLineX (sección Page Layout), Visio [Vis_DSS.chm82251647]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineToLineX (Sección de diseño de página)](http://msdn.microsoft.com/library/linetolinex-cell-page-layout-section%28Office.15%29.aspx)
-
+[LineToLineX Cell (Page Layout Section)](http://msdn.microsoft.com/library/f6b461fe-56ac-4c0e-31cd-6b3c1075db6e%28Office.15%29.aspx)
 

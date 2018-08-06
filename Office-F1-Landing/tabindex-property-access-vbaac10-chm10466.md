@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabIndex, Access [vbaac10.chm10466]
+title: TabIndex Property, Access [vbaac10.chm10466]
 keywords: vbaac10.chm10466
 f1_keywords:
 - vbaac10.chm10466
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# TabIndex Property, Access [vbaac10.chm10466]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabIndex, Access [vbaac10.chm10466]
+[NavigationButton.TabIndex Property (Access)](http://msdn.microsoft.com/library/2042a31a-ae68-665b-624e-1a41ad7b7c37%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.TabIndex Property (Access)](http://msdn.microsoft.com/library/f8b37846-6a65-6b39-9234-5cd77049c907%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.TabIndex (Access)](http://msdn.microsoft.com/library/navigationbutton.tabindex-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.TabIndex (Access)](http://msdn.microsoft.com/library/commandbutton.tabindex-property-access%28Office.15%29.aspx)
 

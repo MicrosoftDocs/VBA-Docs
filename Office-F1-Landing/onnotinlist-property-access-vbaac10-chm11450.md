@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnNotInList, Access [vbaac10.chm11450]
+title: OnNotInList Property, Access [vbaac10.chm11450]
 keywords: vbaac10.chm11450
 f1_keywords:
 - vbaac10.chm11450
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnNotInList Property, Access [vbaac10.chm11450]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnNotInList, Access [vbaac10.chm11450]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ComboBox.OnNotInList (Access)](http://msdn.microsoft.com/library/combobox.onnotinlist-property-access%28Office.15%29.aspx)
-
+[ComboBox.OnNotInList Property (Access)](http://msdn.microsoft.com/library/307e9f0c-6db7-b995-166b-060c697b9f6e%28Office.15%29.aspx)
 

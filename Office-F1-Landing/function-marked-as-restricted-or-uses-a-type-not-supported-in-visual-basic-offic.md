@@ -1,5 +1,5 @@
 ---
-title: Función marcada como restringida o con un tipo no admitido en Visual Basic, Office Shared [vblr6.chm1015665]
+title: Function marked as restricted or uses a type not supported in Visual Basic, Office Shared [vblr6.chm1015665]
 keywords: vblr6.chm1015665
 f1_keywords:
 - vblr6.chm1015665
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Function marked as restricted or uses a type not supported in Visual Basic, Office Shared [vblr6.chm1015665]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función marcada como restringida o con un tipo no admitido en Visual Basic, Office Shared [vblr6.chm1015665]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La función está marcada como restringida o usa un tipo no compatible en Visual Basic](http://msdn.microsoft.com/library/function-marked-as-restricted-or-uses-a-type-not-supported-in-visual-basic%28Office.15%29.aspx)
-
+[Function marked as restricted or uses a type not supported in Visual Basic](http://msdn.microsoft.com/library/b013d6ca-2e99-f2c9-d64b-87ef0990493d%28Office.15%29.aspx)
 

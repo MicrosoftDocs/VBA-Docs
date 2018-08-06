@@ -1,5 +1,5 @@
 ---
-title: Abrir cada ShapeSheet en la misma ventana, Visio [Vis_DSS.chm60120]
+title: Open Each ShapeSheet in the Same Window, Visio [Vis_DSS.chm60120]
 keywords: vis_dss.chm60120
 f1_keywords:
 - vis_dss.chm60120
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Open Each ShapeSheet in the Same Window, Visio [Vis_DSS.chm60120]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Abrir cada ShapeSheet en la misma ventana, Visio [Vis_DSS.chm60120]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Abrir todas las ShapeSheet en la misma ventana](http://msdn.microsoft.com/library/open-each-shapesheet-in-the-same-window%28Office.15%29.aspx)
-
+[Open Each ShapeSheet in the Same Window](http://msdn.microsoft.com/library/6e178e26-e696-f38b-4720-10ce0e6ad110%28Office.15%29.aspx)
 

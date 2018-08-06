@@ -1,5 +1,5 @@
 ---
-title: Celda Frame (sección Hyperlinks), Visio [Vis_DSS.chm82251384]
+title: Frame Cell (Hyperlinks Section), Visio [Vis_DSS.chm82251384]
 keywords: vis_dss.chm82251384
 f1_keywords:
 - vis_dss.chm82251384
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Frame Cell (Hyperlinks Section), Visio [Vis_DSS.chm82251384]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Frame (sección Hyperlinks), Visio [Vis_DSS.chm82251384]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Frame (Sección de hipervínculos)](http://msdn.microsoft.com/library/frame-cell-hyperlinks-section%28Office.15%29.aspx)
-
+[Frame Cell (Hyperlinks Section)](http://msdn.microsoft.com/library/f71d8737-92ef-1124-ba4a-b7e17305bd0a%28Office.15%29.aspx)
 

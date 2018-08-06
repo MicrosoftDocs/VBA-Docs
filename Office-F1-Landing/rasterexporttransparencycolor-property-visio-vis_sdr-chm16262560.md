@@ -1,5 +1,5 @@
 ---
-title: Propiedad RasterExportTransparencyColor, Visio [vis_sdr.chm16262560]
+title: RasterExportTransparencyColor Property, Visio [vis_sdr.chm16262560]
 keywords: vis_sdr.chm16262560
 f1_keywords:
 - vis_sdr.chm16262560
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# RasterExportTransparencyColor Property, Visio [vis_sdr.chm16262560]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RasterExportTransparencyColor, Visio [vis_sdr.chm16262560]
+[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/39806af2-1bdd-d659-134f-9cd86110e195%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/82596a7b-508d-315e-a6df-f60f9d6daf28.aspx)
 
-
- [RasterExportTransparencyColor (propiedad)](http://msdn.microsoft.com/library/applicationsettings.rasterexporttransparencycolor-property-visio%28Office.15%29.aspx)
-
-
- [ApplicationSettings.RasterExportTransparencyColor Property (Visio)](http://msdn.microsoft.com/library/82596a7b-508d-315e-a6df-f60f9d6daf28.aspx)
 

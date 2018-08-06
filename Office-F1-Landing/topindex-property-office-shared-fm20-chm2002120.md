@@ -1,5 +1,5 @@
 ---
-title: Propiedad TopIndex, Office Shared [fm20.chm2002120]
+title: TopIndex Property, Office Shared [fm20.chm2002120]
 keywords: fm20.chm2002120
 f1_keywords:
 - fm20.chm2002120
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TopIndex Property, Office Shared [fm20.chm2002120]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TopIndex, Office Shared [fm20.chm2002120]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TopIndex](http://msdn.microsoft.com/library/topindex-property%28Office.15%29.aspx)
-
+[TopIndex Property](http://msdn.microsoft.com/library/fc4866ba-ee1c-ddd5-cf3d-562792cf97d9%28Office.15%29.aspx)
 

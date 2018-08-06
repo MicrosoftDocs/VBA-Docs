@@ -1,5 +1,5 @@
 ---
-title: Propiedad BarShape, Excel [vbagr10.chm3076961]
+title: BarShape Property, Excel [vbagr10.chm3076961]
 keywords: vbagr10.chm3076961
 f1_keywords:
 - vbagr10.chm3076961
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BarShape Property, Excel [vbagr10.chm3076961]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BarShape, Excel [vbagr10.chm3076961]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [BarShape (propiedad)](http://msdn.microsoft.com/library/barshape-property%28Office.15%29.aspx)
-
+[BarShape Property](http://msdn.microsoft.com/library/2da9b9aa-84db-6ade-845e-abcb142acc3b%28Office.15%29.aspx)
 

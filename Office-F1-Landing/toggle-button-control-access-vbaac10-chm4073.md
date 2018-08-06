@@ -1,5 +1,5 @@
 ---
-title: Control de alternar, Access [vbaac10.chm4073]
+title: Toggle Button Control, Access [vbaac10.chm4073]
 keywords: vbaac10.chm4073
 f1_keywords:
 - vbaac10.chm4073
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Toggle Button Control, Access [vbaac10.chm4073]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control de alternar, Access [vbaac10.chm4073]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Botón de alternar](http://msdn.microsoft.com/library/toggle-button-control%28Office.15%29.aspx)
-
+[Toggle Button Control](http://msdn.microsoft.com/library/4dcce1e4-3923-2c97-97a2-f4831d9c5489%28Office.15%29.aspx)
 

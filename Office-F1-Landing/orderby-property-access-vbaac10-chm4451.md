@@ -1,5 +1,5 @@
 ---
-title: Propiedad OrderBy, Access [vbaac10.chm4451]
+title: OrderBy Property, Access [vbaac10.chm4451]
 keywords: vbaac10.chm4451
 f1_keywords:
 - vbaac10.chm4451
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OrderBy Property, Access [vbaac10.chm4451]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OrderBy, Access [vbaac10.chm4451]
+[Report.OrderBy Property (Access)](http://msdn.microsoft.com/library/1939157c-12ad-2e58-bf4c-22c04a6c4366%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.OrderBy Property (Access)](http://msdn.microsoft.com/library/6ca9c25e-9f16-1f08-1ac3-6f19761f9f55%28Office.15%29.aspx)
 
-
- [Propiedad Report.OrderBy (Access)](http://msdn.microsoft.com/library/report.orderby-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.OrderBy (Access)](http://msdn.microsoft.com/library/form.orderby-property-access%28Office.15%29.aspx)
 

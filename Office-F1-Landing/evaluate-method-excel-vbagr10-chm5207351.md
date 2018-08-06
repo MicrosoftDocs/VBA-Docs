@@ -1,5 +1,5 @@
 ---
-title: Método Evaluate, Excel [vbagr10.chm5207351]
+title: Evaluate Method, Excel [vbagr10.chm5207351]
 keywords: vbagr10.chm5207351
 f1_keywords:
 - vbagr10.chm5207351
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Evaluate Method, Excel [vbagr10.chm5207351]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Evaluate, Excel [vbagr10.chm5207351]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Evaluate](http://msdn.microsoft.com/library/evaluate-method%28Office.15%29.aspx)
-
+[Evaluate Method](http://msdn.microsoft.com/library/d5f49471-9047-6f72-1f0e-ccd891e73724%28Office.15%29.aspx)
 

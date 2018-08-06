@@ -1,5 +1,5 @@
 ---
-title: Instrucción dentro del bloque de creación, Office Shared [vblr6.chm1011203]
+title: Statement invalid inside Type block, Office Shared [vblr6.chm1011203]
 keywords: vblr6.chm1011203
 f1_keywords:
 - vblr6.chm1011203
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Statement invalid inside Type block, Office Shared [vblr6.chm1011203]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción dentro del bloque de creación, Office Shared [vblr6.chm1011203]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción no válida dentro del bloque Type](http://msdn.microsoft.com/library/statement-invalid-inside-type-block%28Office.15%29.aspx)
-
+[Statement invalid inside Type block](http://msdn.microsoft.com/library/1d53153c-2314-d1de-3890-4694164c4e80%28Office.15%29.aspx)
 

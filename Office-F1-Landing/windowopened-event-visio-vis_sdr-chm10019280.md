@@ -1,5 +1,5 @@
 ---
-title: Evento WindowOpened, Visio [vis_sdr.chm10019280]
+title: WindowOpened Event, Visio [vis_sdr.chm10019280]
 keywords: vis_sdr.chm10019280
 f1_keywords:
 - vis_sdr.chm10019280
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# WindowOpened Event, Visio [vis_sdr.chm10019280]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento WindowOpened, Visio [vis_sdr.chm10019280]
+[Application.WindowOpened Event (Visio)](http://msdn.microsoft.com/library/a75a50b5-9784-e191-991a-ca9b41994ff9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.WindowOpened Event (Visio)](http://msdn.microsoft.com/library/90fef7c3-17a1-5e96-112a-de01d4e24fc4%28Office.15%29.aspx)
 
-
- [Evento Application.WindowOpened (Visio)](http://msdn.microsoft.com/library/application.windowopened-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.WindowOpened (Visio)](http://msdn.microsoft.com/library/invisibleapp.windowopened-event-visio%28Office.15%29.aspx)
 

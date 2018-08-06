@@ -1,5 +1,5 @@
 ---
-title: Propiedad NumeralShapes, Access [vbaac10.chm11134]
+title: NumeralShapes Property, Access [vbaac10.chm11134]
 keywords: vbaac10.chm11134
 f1_keywords:
 - vbaac10.chm11134
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# NumeralShapes Property, Access [vbaac10.chm11134]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad NumeralShapes, Access [vbaac10.chm11134]
+[NavigationControl.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/207bbece-366e-bc72-876f-98c80f7bf6b5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TextBox.NumeralShapes Property (Access)](http://msdn.microsoft.com/library/f0fda4bb-2522-622c-24ab-d3324a4b8dca%28Office.15%29.aspx)
 
-
- [Propiedad NavigationControl.NumeralShapes (Access)](http://msdn.microsoft.com/library/navigationcontrol.numeralshapes-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TextBox.NumeralShapes (Access)](http://msdn.microsoft.com/library/textbox.numeralshapes-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Instrucción explícita de opción, Office Shared [vblr6.chm1008992]
+title: Option Explicit Statement, Office Shared [vblr6.chm1008992]
 keywords: vblr6.chm1008992
 f1_keywords:
 - vblr6.chm1008992
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Option Explicit Statement, Office Shared [vblr6.chm1008992]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción explícita de opción, Office Shared [vblr6.chm1008992]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Option Explicit](http://msdn.microsoft.com/library/option-explicit-statement%28Office.15%29.aspx)
-
+[Option Explicit Statement](http://msdn.microsoft.com/library/f7871e28-9577-740b-e887-1109f52be30e%28Office.15%29.aspx)
 

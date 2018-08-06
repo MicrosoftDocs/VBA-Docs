@@ -1,5 +1,5 @@
 ---
-title: Evento ExitScope, Visio [vis_sdr.chm10019155]
+title: ExitScope Event, Visio [vis_sdr.chm10019155]
 keywords: vis_sdr.chm10019155
 f1_keywords:
 - vis_sdr.chm10019155
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ExitScope Event, Visio [vis_sdr.chm10019155]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ExitScope, Visio [vis_sdr.chm10019155]
+[InvisibleApp.ExitScope Event (Visio)](http://msdn.microsoft.com/library/c035f0c2-af15-8557-6cac-0c3cd14d3599%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.ExitScope Event (Visio)](http://msdn.microsoft.com/library/9306972d-6d07-fa82-507d-d4e6d8c80e17%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.ExitScope (Visio)](http://msdn.microsoft.com/library/invisibleapp.exitscope-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.ExitScope (Visio)](http://msdn.microsoft.com/library/application.exitscope-event-visio%28Office.15%29.aspx)
 

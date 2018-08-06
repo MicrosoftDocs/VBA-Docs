@@ -1,5 +1,5 @@
 ---
-title: Propiedad Order, Excel [vbagr10.chm65728]
+title: Order Property, Excel [vbagr10.chm65728]
 keywords: vbagr10.chm65728
 f1_keywords:
 - vbagr10.chm65728
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Order Property, Excel [vbagr10.chm65728]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Order, Excel [vbagr10.chm65728]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Order (propiedad)](http://msdn.microsoft.com/library/order-property%28Office.15%29.aspx)
-
+[Order Property](http://msdn.microsoft.com/library/aa56d241-870c-c3a9-00da-269fb8c314ea%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad HelpFile, Access [vbaac10.chm5483]
+title: HelpFile Property, Access [vbaac10.chm5483]
 keywords: vbaac10.chm5483
 f1_keywords:
 - vbaac10.chm5483
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# HelpFile Property, Access [vbaac10.chm5483]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HelpFile, Access [vbaac10.chm5483]
+[Form.HelpFile Property (Access)](http://msdn.microsoft.com/library/72b416b1-5257-9560-ebc0-625abc3f7e85%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.HelpFile Property (Access)](http://msdn.microsoft.com/library/cfab3009-c8e1-5f56-020a-e0a972e0de50%28Office.15%29.aspx)
 
-
- [Propiedad Form.HelpFile (Access)](http://msdn.microsoft.com/library/form.helpfile-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.HelpFile (Access)](http://msdn.microsoft.com/library/report.helpfile-property-access%28Office.15%29.aspx)
 

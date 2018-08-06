@@ -1,5 +1,5 @@
 ---
-title: Objeto Range, Excel [vbagr10.chm131078]
+title: Range Object, Excel [vbagr10.chm131078]
 keywords: vbagr10.chm131078
 f1_keywords:
 - vbagr10.chm131078
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Range Object, Excel [vbagr10.chm131078]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Range, Excel [vbagr10.chm131078]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Range (objeto)](http://msdn.microsoft.com/library/range-object%28Office.15%29.aspx)
-
+[Range Object](http://msdn.microsoft.com/library/8bc4841b-72f7-34b5-a299-3357bf8f457b%28Office.15%29.aspx)
 

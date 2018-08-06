@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'Item' property can't be set at run time (Error 382), Office Shared [vblr6.chm1117823]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La propiedad 'Item' no se puede establecer en el tiempo de ejecución (error 382), Office Shared [vblr6.chm1117823]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La propiedad 'Item' no se puede establecer en tiempo de ejecución (error 382)](http://msdn.microsoft.com/library/-item-property-can-t-be-set-at-run-time-error-382%28Office.15%29.aspx)
-
+['Item' property can't be set at run time (Error 382)](http://msdn.microsoft.com/library/20149505-5b45-6c97-228e-839bee802c62%28Office.15%29.aspx)
 

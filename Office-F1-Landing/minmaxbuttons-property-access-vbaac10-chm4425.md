@@ -1,5 +1,5 @@
 ---
-title: Propiedad MinMaxButtons, Access [vbaac10.chm4425]
+title: MinMaxButtons Property, Access [vbaac10.chm4425]
 keywords: vbaac10.chm4425
 f1_keywords:
 - vbaac10.chm4425
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# MinMaxButtons Property, Access [vbaac10.chm4425]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MinMaxButtons, Access [vbaac10.chm4425]
+[Report.MinMaxButtons Property (Access)](http://msdn.microsoft.com/library/8aee0247-804a-e9ee-e11a-11c9c5d37ed6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.MinMaxButtons Property (Access)](http://msdn.microsoft.com/library/12f2a0b1-1f45-544b-b116-8d5aa51d6897%28Office.15%29.aspx)
 
-
- [Propiedad Report.MinMaxButtons (Access)](http://msdn.microsoft.com/library/report.minmaxbuttons-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.MinMaxButtons (Access)](http://msdn.microsoft.com/library/form.minmaxbuttons-property-access%28Office.15%29.aspx)
 

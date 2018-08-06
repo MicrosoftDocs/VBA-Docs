@@ -1,5 +1,5 @@
 ---
-title: Propiedad Border, PowerPoint [vbapp10.chm701003]
+title: Border Property, PowerPoint [vbapp10.chm701003]
 keywords: vbapp10.chm701003
 f1_keywords:
 - vbapp10.chm701003
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Border Property, PowerPoint [vbapp10.chm701003]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Border, PowerPoint [vbapp10.chm701003]
+[DropLines.Border Property (PowerPoint)](http://msdn.microsoft.com/library/e83f316d-80ed-da3a-7e73-82e86a9384aa%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DropLines.Format Property (PowerPoint)](http://msdn.microsoft.com/library/ea123388-c397-c6a9-fbe0-a2dae18e21a6%28Office.15%29.aspx)
 
-
- [Propiedad DropLines.Border (PowerPoint)](http://msdn.microsoft.com/library/droplines.border-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DropLines.Format (PowerPoint)](http://msdn.microsoft.com/library/droplines.format-property-powerpoint%28Office.15%29.aspx)
 

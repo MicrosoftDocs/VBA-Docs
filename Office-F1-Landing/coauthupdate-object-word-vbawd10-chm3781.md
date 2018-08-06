@@ -1,5 +1,5 @@
 ---
-title: Objeto CoAuthUpdate, Word [vbawd10.chm3781]
+title: CoAuthUpdate Object, Word [vbawd10.chm3781]
 keywords: vbawd10.chm3781
 f1_keywords:
 - vbawd10.chm3781
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# CoAuthUpdate Object, Word [vbawd10.chm3781]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto CoAuthUpdate, Word [vbawd10.chm3781]
+[CoAuthUpdate Object (Word)](http://msdn.microsoft.com/library/c00e5029-2e4b-97c0-33d3-86fdc53df535%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[OMathRad Object (Word)](http://msdn.microsoft.com/library/2179cda9-b1dc-9593-c4f9-99496081e191%28Office.15%29.aspx)
 
-
- [Objeto CoAuthUpdate (Word)](http://msdn.microsoft.com/library/coauthupdate-object-word%28Office.15%29.aspx)
-
-
- [Objeto OMathRad (Word)](http://msdn.microsoft.com/library/omathrad-object-word%28Office.15%29.aspx)
 

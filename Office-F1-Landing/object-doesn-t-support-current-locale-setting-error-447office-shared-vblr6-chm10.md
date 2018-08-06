@@ -1,5 +1,5 @@
 ---
-title: El objeto no admite la configuración regional actual (error 447), Office Shared [vblr6.chm1000447]
+title: Object doesn't support current locale setting (Error 447), Office Shared [vblr6.chm1000447]
 keywords: vblr6.chm1000447
 f1_keywords:
 - vblr6.chm1000447
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Object doesn't support current locale setting (Error 447), Office Shared [vblr6.chm1000447]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El objeto no admite la configuración regional actual (error 447), Office Shared [vblr6.chm1000447]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El objeto no admite la configuración regional de moneda (error 447)](http://msdn.microsoft.com/library/object-doesn-t-support-current-locale-setting-error-447%28Office.15%29.aspx)
-
+[Object doesn't support current locale setting (Error 447)](http://msdn.microsoft.com/library/5039df77-9505-ff20-3823-875bc2701cde%28Office.15%29.aspx)
 

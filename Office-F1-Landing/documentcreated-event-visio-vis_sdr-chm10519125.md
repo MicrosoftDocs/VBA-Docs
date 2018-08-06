@@ -1,5 +1,5 @@
 ---
-title: Evento DocumentCreated, Visio [vis_sdr.chm10519125]
+title: DocumentCreated Event, Visio [vis_sdr.chm10519125]
 keywords: vis_sdr.chm10519125
 f1_keywords:
 - vis_sdr.chm10519125
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DocumentCreated Event, Visio [vis_sdr.chm10519125]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DocumentCreated, Visio [vis_sdr.chm10519125]
+[DrawingControl.DocumentCreated Event (Visio)](http://msdn.microsoft.com/library/f3640d72-cf6b-f08a-4d97-4f071a386358%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Document.DocumentCreated Event (Visio)](http://msdn.microsoft.com/library/5d5c0c99-fce1-13fb-a2e1-98f829784ee6%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.DocumentCreated (Visio)](http://msdn.microsoft.com/library/drawingcontrol.documentcreated-event-visio%28Office.15%29.aspx)
-
-
- [Evento Document.DocumentCreated (Visio)](http://msdn.microsoft.com/library/document.documentcreated-event-visio%28Office.15%29.aspx)
 

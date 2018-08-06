@@ -1,5 +1,5 @@
 ---
-title: Propiedad ListWidth, Access [vbaac10.chm11385]
+title: ListWidth Property, Access [vbaac10.chm11385]
 keywords: vbaac10.chm11385
 f1_keywords:
 - vbaac10.chm11385
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ListWidth Property, Access [vbaac10.chm11385]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ListWidth, Access [vbaac10.chm11385]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad ComboBox.ListWidth (Access)](http://msdn.microsoft.com/library/combobox.listwidth-property-access%28Office.15%29.aspx)
-
+[ComboBox.ListWidth Property (Access)](http://msdn.microsoft.com/library/488a36f0-3ab1-1bb1-ff48-3e5d33a55139%28Office.15%29.aspx)
 

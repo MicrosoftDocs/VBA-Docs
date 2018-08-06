@@ -1,5 +1,5 @@
 ---
-title: Celda Invisible (sección Datos de formas), Visio [vis_sdr.chm485]
+title: Invisible Cell (Shape Data Section), Visio [vis_sdr.chm485]
 keywords: vis_sdr.chm485
 f1_keywords:
 - vis_sdr.chm485
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invisible Cell (Shape Data Section), Visio [vis_sdr.chm485]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Invisible (sección Datos de formas), Visio [vis_sdr.chm485]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Invisible (Sección de datos de formas)](http://msdn.microsoft.com/library/invisible-cell-shape-data-section%28Office.15%29.aspx)
-
+[Invisible Cell (Shape Data Section)](http://msdn.microsoft.com/library/5f368c2e-2a40-38ee-3568-ed5c57633345%28Office.15%29.aspx)
 

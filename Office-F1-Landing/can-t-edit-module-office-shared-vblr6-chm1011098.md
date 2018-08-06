@@ -1,5 +1,5 @@
 ---
-title: No se puede editar el módulo, Office Shared [vblr6.chm1011098]
+title: Can't edit module, Office Shared [vblr6.chm1011098]
 keywords: vblr6.chm1011098
 f1_keywords:
 - vblr6.chm1011098
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't edit module, Office Shared [vblr6.chm1011098]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede editar el módulo, Office Shared [vblr6.chm1011098]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede editar el módulo](http://msdn.microsoft.com/library/can-t-edit-module%28Office.15%29.aspx)
-
+[Can't edit module](http://msdn.microsoft.com/library/2bc1a207-1f97-d187-72c2-a795a217b9f2%28Office.15%29.aspx)
 

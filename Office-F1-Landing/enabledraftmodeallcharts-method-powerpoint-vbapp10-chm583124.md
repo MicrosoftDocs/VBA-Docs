@@ -1,5 +1,5 @@
 ---
-title: Método EnableDraftModeAllCharts, PowerPoint [vbapp10.chm583124]
+title: EnableDraftModeAllCharts Method, PowerPoint [vbapp10.chm583124]
 keywords: vbapp10.chm583124
 f1_keywords:
 - vbapp10.chm583124
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# EnableDraftModeAllCharts Method, PowerPoint [vbapp10.chm583124]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método EnableDraftModeAllCharts, PowerPoint [vbapp10.chm583124]
+[Presentation.EnableDraftModeAllCharts Method (PowerPoint)](http://msdn.microsoft.com/library/85e926aa-5ee8-23b1-bfef-0954ac31f3cd%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Presentation.ApplyTemplate2 Method (PowerPoint)](http://msdn.microsoft.com/library/43d6d14a-078f-eefa-8ad5-981b0cb6ccb9%28Office.15%29.aspx)
 
-
- [Método Presentation.EnableDraftModeAllCharts (PowerPoint)](http://msdn.microsoft.com/library/85e926aa-5ee8-23b1-bfef-0954ac31f3cd%28Office.15%29.aspx)
-
-
- [Método Presentation.ApplyTemplate2 (PowerPoint)](http://msdn.microsoft.com/library/presentation.applytemplate2-method-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda ConLineRouteExt (sección Shape Layout), Visio [Vis_DSS.chm50110]
+title: ConLineRouteExt Cell (Shape Layout Section), Visio [Vis_DSS.chm50110]
 keywords: vis_dss.chm50110
 f1_keywords:
 - vis_dss.chm50110
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ConLineRouteExt Cell (Shape Layout Section), Visio [Vis_DSS.chm50110]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ConLineRouteExt (sección Shape Layout), Visio [Vis_DSS.chm50110]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ConLineRouteExt (Sección de diseño de la forma)](http://msdn.microsoft.com/library/conlinerouteext-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ConLineRouteExt Cell (Shape Layout Section)](http://msdn.microsoft.com/library/cafd7589-1c94-b9bc-b1a6-40f7c15fba71%28Office.15%29.aspx)
 

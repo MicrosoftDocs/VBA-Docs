@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Agregar procedimiento, Office Shared [vbui6.chm181041]
+title: Add Procedure Dialog Box, Office Shared [vbui6.chm181041]
 keywords: vbui6.chm181041
 f1_keywords:
 - vbui6.chm181041
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Add Procedure Dialog Box, Office Shared [vbui6.chm181041]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Agregar procedimiento, Office Shared [vbui6.chm181041]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cuadro de diálogo Agregar procedimiento](http://msdn.microsoft.com/library/add-procedure-dialog-box%28Office.15%29.aspx)
-
+[Add Procedure Dialog Box](http://msdn.microsoft.com/library/a3712135-4a29-3ee3-91a6-5731b49affcc%28Office.15%29.aspx)
 

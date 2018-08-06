@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsWeb, Access [vbaac10.chm14677]
+title: IsWeb Property, Access [vbaac10.chm14677]
 keywords: vbaac10.chm14677
 f1_keywords:
 - vbaac10.chm14677
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IsWeb Property, Access [vbaac10.chm14677]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsWeb, Access [vbaac10.chm14677]
+[CodeProject.IsWeb Property (Access)](http://msdn.microsoft.com/library/6591c95c-db86-95f0-24b5-5da5f4823a22%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.IsWeb Property (Access)](http://msdn.microsoft.com/library/dbcd7b51-75d1-54c7-9c49-7b1ea403c4d9%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.IsWeb (Access)](http://msdn.microsoft.com/library/codeproject.isweb-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.IsWeb (Access)](http://msdn.microsoft.com/library/currentproject.isweb-property-access%28Office.15%29.aspx)
 

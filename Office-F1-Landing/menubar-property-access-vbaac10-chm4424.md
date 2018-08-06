@@ -1,5 +1,5 @@
 ---
-title: Propiedad MenuBar, Access [vbaac10.chm4424]
+title: MenuBar Property, Access [vbaac10.chm4424]
 keywords: vbaac10.chm4424
 f1_keywords:
 - vbaac10.chm4424
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# MenuBar Property, Access [vbaac10.chm4424]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MenuBar, Access [vbaac10.chm4424]
+[Form.MenuBar Property (Access)](http://msdn.microsoft.com/library/b9e6b6f6-5e60-271d-67c4-6697cb294671%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.MenuBar Property (Access)](http://msdn.microsoft.com/library/dc0f6f9c-4627-96a1-83fa-b58ce1eb7236%28Office.15%29.aspx)
 
-
- [Propiedad Form.MenuBar (Access)](http://msdn.microsoft.com/library/form.menubar-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Application.MenuBar (Access)](http://msdn.microsoft.com/library/application.menubar-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.MenuBar (Access)](http://msdn.microsoft.com/library/report.menubar-property-access%28Office.15%29.aspx)
-
+[Report.MenuBar Property (Access)](http://msdn.microsoft.com/library/008e1d2e-f467-05a4-d246-eba85fd626ba%28Office.15%29.aspx)
 

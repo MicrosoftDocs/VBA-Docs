@@ -1,5 +1,5 @@
 ---
-title: Propiedad Left, Access [vbaac10.chm10467]
+title: Left Property, Access [vbaac10.chm10467]
 keywords: vbaac10.chm10467
 f1_keywords:
 - vbaac10.chm10467
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Left Property, Access [vbaac10.chm10467]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Left, Access [vbaac10.chm10467]
+[CommandButton.Left Property (Access)](http://msdn.microsoft.com/library/8cae225d-1919-0c6c-7980-48294fbe8c7a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.Left Property (Access)](http://msdn.microsoft.com/library/c9cdccb1-3dd8-d65c-19f8-5e9a0817eefb%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.Left (Access)](http://msdn.microsoft.com/library/commandbutton.left-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Left (Access)](http://msdn.microsoft.com/library/navigationbutton.left-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: El archivo del proyecto 'item' está dañado y no puede cargarse, Office Shared [vblr6.chm1117775]
+title: The project file 'item' is corrupt and can't be loaded, Office Shared [vblr6.chm1117775]
 keywords: vblr6.chm1117775
 f1_keywords:
 - vblr6.chm1117775
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The project file 'item' is corrupt and can't be loaded, Office Shared [vblr6.chm1117775]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El archivo del proyecto 'item' está dañado y no puede cargarse, Office Shared [vblr6.chm1117775]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El archivo de proyecto 'item' está dañado y no se puede cargar](http://msdn.microsoft.com/library/the-project-file-item-is-corrupt-and-can-t-be-loaded%28Office.15%29.aspx)
-
+[The project file 'item' is corrupt and can't be loaded](http://msdn.microsoft.com/library/af54c65d-2d49-1e53-2d88-2d73c629e4c1%28Office.15%29.aspx)
 

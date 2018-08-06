@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnCurrent, Access [vbaac10.chm4083]
+title: OnCurrent Property, Access [vbaac10.chm4083]
 keywords: vbaac10.chm4083
 f1_keywords:
 - vbaac10.chm4083
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnCurrent Property, Access [vbaac10.chm4083]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnCurrent, Access [vbaac10.chm4083]
+[Report.OnCurrent Property (Access)](http://msdn.microsoft.com/library/593fdb6c-017a-986f-22ef-cc9e66aaaf01%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.OnCurrent Property (Access)](http://msdn.microsoft.com/library/bb7eb7be-7bb6-8fdd-6a48-f5b33ad7dc14%28Office.15%29.aspx)
 
-
- [Propiedad Report.OnCurrent (Access)](http://msdn.microsoft.com/library/report.oncurrent-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.OnCurrent (Access)](http://msdn.microsoft.com/library/form.oncurrent-property-access%28Office.15%29.aspx)
 

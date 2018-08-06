@@ -1,5 +1,5 @@
 ---
-title: Solo se admiten los números enteros del 2 al 60 como valores válidos, Office Shared [vblr6.chm1117761]
+title: Valid values are whole numbers from 2 to 60, Office Shared [vblr6.chm1117761]
 keywords: vblr6.chm1117761
 f1_keywords:
 - vblr6.chm1117761
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Valid values are whole numbers from 2 to 60, Office Shared [vblr6.chm1117761]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Solo se admiten los números enteros del 2 al 60 como valores válidos, Office Shared [vblr6.chm1117761]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Los valores válidos son números enteros del 2 al 60](http://msdn.microsoft.com/library/valid-values-are-whole-numbers-from-2-to-60%28Office.15%29.aspx)
-
+[Valid values are whole numbers from 2 to 60](http://msdn.microsoft.com/library/34fcc867-145d-802f-baa4-a81090ba5547%28Office.15%29.aspx)
 

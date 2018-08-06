@@ -1,5 +1,5 @@
 ---
-title: Celda UIFormat (sección Text Fields), Visio [vis_sdr.chm1080]
+title: UIFormat Cell (Text Fields Section), Visio [vis_sdr.chm1080]
 keywords: vis_sdr.chm1080
 f1_keywords:
 - vis_sdr.chm1080
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# UIFormat Cell (Text Fields Section), Visio [vis_sdr.chm1080]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda UIFormat (sección Text Fields), Visio [vis_sdr.chm1080]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda UIFormat (Sección de campos de texto)](http://msdn.microsoft.com/library/uiformat-cell-text-fields-section%28Office.15%29.aspx)
-
+[UIFormat Cell (Text Fields Section)](http://msdn.microsoft.com/library/0dddef20-c58e-2306-ab8e-6cac8e159f61%28Office.15%29.aspx)
 

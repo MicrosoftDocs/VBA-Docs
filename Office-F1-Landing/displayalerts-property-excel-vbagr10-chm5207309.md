@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayAlerts, Excel [vbagr10.chm5207309]
+title: DisplayAlerts Property, Excel [vbagr10.chm5207309]
 keywords: vbagr10.chm5207309
 f1_keywords:
 - vbagr10.chm5207309
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayAlerts Property, Excel [vbagr10.chm5207309]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayAlerts, Excel [vbagr10.chm5207309]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayAlerts (propiedad)](http://msdn.microsoft.com/library/displayalerts-property%28Office.15%29.aspx)
-
+[DisplayAlerts Property](http://msdn.microsoft.com/library/630e60be-23e3-795b-1ed9-26b791fb7efc%28Office.15%29.aspx)
 

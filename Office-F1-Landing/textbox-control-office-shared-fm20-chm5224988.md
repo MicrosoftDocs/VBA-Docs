@@ -1,5 +1,5 @@
 ---
-title: Control TextBox, Office Shared [fm20.chm5224988]
+title: TextBox Control, Office Shared [fm20.chm5224988]
 keywords: fm20.chm5224988
 f1_keywords:
 - fm20.chm5224988
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TextBox Control, Office Shared [fm20.chm5224988]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control TextBox, Office Shared [fm20.chm5224988]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control TextBox](http://msdn.microsoft.com/library/textbox-control%28Office.15%29.aspx)
-
+[TextBox Control](http://msdn.microsoft.com/library/4de7d471-42ed-9b0e-0a21-0bd1204e2020%28Office.15%29.aspx)
 

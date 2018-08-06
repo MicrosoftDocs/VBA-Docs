@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowChartTipNames, Excel [vbagr10.chm66743]
+title: ShowChartTipNames Property, Excel [vbagr10.chm66743]
 keywords: vbagr10.chm66743
 f1_keywords:
 - vbagr10.chm66743
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowChartTipNames Property, Excel [vbagr10.chm66743]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowChartTipNames, Excel [vbagr10.chm66743]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ShowChartTipNames (propiedad)](http://msdn.microsoft.com/library/showcharttipnames-property%28Office.15%29.aspx)
-
+[ShowChartTipNames Property](http://msdn.microsoft.com/library/0281bd54-2dbb-086f-23f7-ac507e19e519%28Office.15%29.aspx)
 

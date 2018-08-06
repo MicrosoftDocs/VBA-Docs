@@ -1,5 +1,5 @@
 ---
-title: Propiedad TopPadding, Access [vbaac10.chm10525]
+title: TopPadding Property, Access [vbaac10.chm10525]
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# TopPadding Property, Access [vbaac10.chm10525]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TopPadding, Access [vbaac10.chm10525]
+[CustomControl.TopPadding Property (Access)](http://msdn.microsoft.com/library/77604178-a2b7-9ad9-2a2d-91d60843c31c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.TopPadding Property (Access)](http://msdn.microsoft.com/library/475398a6-ab75-1e39-12dc-ba7056b8caa0%28Office.15%29.aspx)
 
-
- [Propiedad CustomControl.TopPadding (Access)](http://msdn.microsoft.com/library/customcontrol.toppadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.TopPadding (Access)](http://msdn.microsoft.com/library/commandbutton.toppadding-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.TopPadding (Access)](http://msdn.microsoft.com/library/navigationbutton.toppadding-property-access%28Office.15%29.aspx)
-
+[NavigationButton.TopPadding Property (Access)](http://msdn.microsoft.com/library/05088d34-eae7-bc0e-314b-cd8640c9ed0b%28Office.15%29.aspx)
 

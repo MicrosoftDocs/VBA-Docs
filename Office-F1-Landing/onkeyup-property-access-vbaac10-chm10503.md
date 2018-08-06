@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnKeyUp, Access [vbaac10.chm10503]
+title: OnKeyUp Property, Access [vbaac10.chm10503]
 keywords: vbaac10.chm10503
 f1_keywords:
 - vbaac10.chm10503
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnKeyUp Property, Access [vbaac10.chm10503]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnKeyUp, Access [vbaac10.chm10503]
+[NavigationButton.OnKeyUp Property (Access)](http://msdn.microsoft.com/library/4239b8d8-6d38-3406-1a56-994a4dba778f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.OnKeyUp Property (Access)](http://msdn.microsoft.com/library/dc4ad60c-4ba5-bf80-2e83-ee75da462e27%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.OnKeyUp (Access)](http://msdn.microsoft.com/library/navigationbutton.onkeyup-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.OnKeyUp (Access)](http://msdn.microsoft.com/library/commandbutton.onkeyup-property-access%28Office.15%29.aspx)
 

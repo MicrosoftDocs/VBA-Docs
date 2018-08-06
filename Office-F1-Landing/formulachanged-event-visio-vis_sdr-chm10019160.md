@@ -1,5 +1,5 @@
 ---
-title: Evento FormulaChanged, Visio [vis_sdr.chm10019160]
+title: FormulaChanged Event, Visio [vis_sdr.chm10019160]
 keywords: vis_sdr.chm10019160
 f1_keywords:
 - vis_sdr.chm10019160
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FormulaChanged Event, Visio [vis_sdr.chm10019160]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento FormulaChanged, Visio [vis_sdr.chm10019160]
+[InvisibleApp.FormulaChanged Event (Visio)](http://msdn.microsoft.com/library/0f10836e-82e7-9fed-8796-2680382c7f42%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.FormulaChanged Event (Visio)](http://msdn.microsoft.com/library/f6414b65-cd58-f253-df26-ac33f821799c%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.FormulaChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.formulachanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.FormulaChanged (Visio)](http://msdn.microsoft.com/library/application.formulachanged-event-visio%28Office.15%29.aspx)
 

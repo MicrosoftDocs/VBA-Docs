@@ -1,5 +1,5 @@
 ---
-title: Propiedad SplitFormDatasheet, Access [vbaac10.chm13564]
+title: SplitFormDatasheet Property, Access [vbaac10.chm13564]
 keywords: vbaac10.chm13564
 f1_keywords:
 - vbaac10.chm13564
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SplitFormDatasheet Property, Access [vbaac10.chm13564]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SplitFormDatasheet, Access [vbaac10.chm13564]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.SplitFormDatasheet (Access)](http://msdn.microsoft.com/library/form.splitformdatasheet-property-access%28Office.15%29.aspx)
-
+[Form.SplitFormDatasheet Property (Access)](http://msdn.microsoft.com/library/765eacb5-ef79-3b1d-6511-501ec0def22c%28Office.15%29.aspx)
 

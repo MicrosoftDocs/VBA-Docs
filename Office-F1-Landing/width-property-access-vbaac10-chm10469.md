@@ -1,5 +1,5 @@
 ---
-title: Propiedad Width, Access [vbaac10.chm10469]
+title: Width Property, Access [vbaac10.chm10469]
 keywords: vbaac10.chm10469
 f1_keywords:
 - vbaac10.chm10469
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Property, Access [vbaac10.chm10469]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Width, Access [vbaac10.chm10469]
+[NavigationButton.Width Property (Access)](http://msdn.microsoft.com/library/1000d389-b727-c3a3-593a-5ffc85a89366%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.Width Property (Access)](http://msdn.microsoft.com/library/03729218-4c70-8312-ab61-be3cf4b7a029%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.Width (Access)](http://msdn.microsoft.com/library/navigationbutton.width-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.Width (Access)](http://msdn.microsoft.com/library/commandbutton.width-property-access%28Office.15%29.aspx)
 

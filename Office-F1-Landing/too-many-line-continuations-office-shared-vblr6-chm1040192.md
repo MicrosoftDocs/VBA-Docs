@@ -1,5 +1,5 @@
 ---
-title: Demasiadas continuaciones de línea, Office Shared [vblr6.chm1040192]
+title: Too many line continuations, Office Shared [vblr6.chm1040192]
 keywords: vblr6.chm1040192
 f1_keywords:
 - vblr6.chm1040192
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Too many line continuations, Office Shared [vblr6.chm1040192]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Demasiadas continuaciones de línea, Office Shared [vblr6.chm1040192]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Demasiadas continuaciones de línea](http://msdn.microsoft.com/library/too-many-line-continuations%28Office.15%29.aspx)
-
+[Too many line continuations](http://msdn.microsoft.com/library/40ab218a-a9be-931d-bfec-4d480f13b74a%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Evento PageAdded, Visio [vis_sdr.chm10019200]
+title: PageAdded Event, Visio [vis_sdr.chm10019200]
 keywords: vis_sdr.chm10019200
 f1_keywords:
 - vis_sdr.chm10019200
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PageAdded Event, Visio [vis_sdr.chm10019200]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento PageAdded, Visio [vis_sdr.chm10019200]
+[Application.PageAdded Event (Visio)](http://msdn.microsoft.com/library/16813cbf-d4e0-17b1-308e-06e2a3adf0d4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.PageAdded Event (Visio)](http://msdn.microsoft.com/library/e3a27500-16c3-f0d5-be44-9389b7bd3055%28Office.15%29.aspx)
 
-
- [Evento Application.PageAdded (Visio)](http://msdn.microsoft.com/library/application.pageadded-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.PageAdded (Visio)](http://msdn.microsoft.com/library/invisibleapp.pageadded-event-visio%28Office.15%29.aspx)
 

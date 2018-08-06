@@ -1,5 +1,5 @@
 ---
-title: Propiedad Picture, Office Shared [fm20.chm5225077]
+title: Picture Property, Office Shared [fm20.chm5225077]
 keywords: fm20.chm5225077
 f1_keywords:
 - fm20.chm5225077
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Picture Property, Office Shared [fm20.chm5225077]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Picture, Office Shared [fm20.chm5225077]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Picture](http://msdn.microsoft.com/library/picture-property%28Office.15%29.aspx)
-
+[Picture Property](http://msdn.microsoft.com/library/ce07e7fb-b123-4ce5-49b5-f21cdedad984%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad AlternativeText, PowerPoint [vbapp10.chm684056]
+title: AlternativeText Property, PowerPoint [vbapp10.chm684056]
 keywords: vbapp10.chm684056
 f1_keywords:
 - vbapp10.chm684056
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AlternativeText Property, PowerPoint [vbapp10.chm684056]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AlternativeText, PowerPoint [vbapp10.chm684056]
+[Chart.AlternativeText Property (PowerPoint)](http://msdn.microsoft.com/library/bdded8b9-5f6e-dd83-db04-0ce180bd2552%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.FullSeriesCollection Method (PowerPoint)](http://msdn.microsoft.com/library/3b5620c0-4c0f-7d89-e8ee-5e12d9c292e7%28Office.15%29.aspx)
 
-
- [Propiedad Chart.AlternativeText (PowerPoint)](http://msdn.microsoft.com/library/chart.alternativetext-property-powerpoint%28Office.15%29.aspx)
-
-
- [Método Chart.FullSeriesCollection (PowerPoint)](http://msdn.microsoft.com/library/chart.fullseriescollection-method-powerpoint%28Office.15%29.aspx)
 

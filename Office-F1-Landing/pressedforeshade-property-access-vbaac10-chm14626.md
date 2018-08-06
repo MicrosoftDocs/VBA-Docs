@@ -1,5 +1,5 @@
 ---
-title: Propiedad PressedForeShade, Access [vbaac10.chm14626]
+title: PressedForeShade Property, Access [vbaac10.chm14626]
 keywords: vbaac10.chm14626
 f1_keywords:
 - vbaac10.chm14626
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# PressedForeShade Property, Access [vbaac10.chm14626]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PressedForeShade, Access [vbaac10.chm14626]
+[NavigationButton.PressedForeShade Property (Access)](http://msdn.microsoft.com/library/5a086d71-d916-5b97-9e98-51f6394f3eaa%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.PressedForeShade Property (Access)](http://msdn.microsoft.com/library/496e310e-b5eb-8e6a-7079-530126e71399%28Office.15%29.aspx)
 
-
- [Propiedad NavigationButton.PressedForeShade (Access)](http://msdn.microsoft.com/library/navigationbutton.pressedforeshade-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.PressedForeShade (Access)](http://msdn.microsoft.com/library/commandbutton.pressedforeshade-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.PressedForeShade (Access)](http://msdn.microsoft.com/library/togglebutton.pressedforeshade-property-access%28Office.15%29.aspx)
-
- [Propiedad TabControl.PressedForeShade (Access)](http://msdn.microsoft.com/library/tabcontrol.pressedforeshade-property-access%28Office.15%29.aspx)
-
+[ToggleButton.PressedForeShade Property (Access)](http://msdn.microsoft.com/library/9a6ddbd0-154d-6018-e8fd-8fa9bd916356%28Office.15%29.aspx)
+[TabControl.PressedForeShade Property (Access)](http://msdn.microsoft.com/library/ff4421d8-58aa-93a8-ab57-af686f1c44da%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Objeto SeriesLines, Excel [vbagr10.chm5207972]
+title: SeriesLines Object, Excel [vbagr10.chm5207972]
 keywords: vbagr10.chm5207972
 f1_keywords:
 - vbagr10.chm5207972
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SeriesLines Object, Excel [vbagr10.chm5207972]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto SeriesLines, Excel [vbagr10.chm5207972]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SeriesLines (objeto)](http://msdn.microsoft.com/library/serieslines-object%28Office.15%29.aspx)
-
+[SeriesLines Object](http://msdn.microsoft.com/library/958145eb-8801-b285-b3b4-99fd7b7882ed%28Office.15%29.aspx)
 

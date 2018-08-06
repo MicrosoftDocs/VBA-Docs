@@ -1,5 +1,5 @@
 ---
-title: Celda LocPinY (sección Shape Transform), Visio [Vis_DSS.chm685]
+title: LocPinY Cell (Shape Transform Section), Visio [Vis_DSS.chm685]
 keywords: vis_dss.chm685
 f1_keywords:
 - vis_dss.chm685
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LocPinY Cell (Shape Transform Section), Visio [Vis_DSS.chm685]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LocPinY (sección Shape Transform), Visio [Vis_DSS.chm685]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LocPinY (Sección de transformación de forma)](http://msdn.microsoft.com/library/locpiny-cell-shape-transform-section%28Office.15%29.aspx)
-
+[LocPinY Cell (Shape Transform Section)](http://msdn.microsoft.com/library/a29c5d4e-d3d6-d984-495a-4b0b130352ef%28Office.15%29.aspx)
 

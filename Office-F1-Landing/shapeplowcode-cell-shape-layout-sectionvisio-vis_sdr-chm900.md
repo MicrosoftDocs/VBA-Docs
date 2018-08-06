@@ -1,5 +1,5 @@
 ---
-title: Celda ShapePlowCode (sección Shape Layout), Visio [vis_sdr.chm900]
+title: ShapePlowCode Cell (Shape Layout Section), Visio [vis_sdr.chm900]
 keywords: vis_sdr.chm900
 f1_keywords:
 - vis_sdr.chm900
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapePlowCode Cell (Shape Layout Section), Visio [vis_sdr.chm900]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapePlowCode (sección Shape Layout), Visio [vis_sdr.chm900]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapePlowCode (Sección de diseño de forma)](http://msdn.microsoft.com/library/shapeplowcode-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ShapePlowCode Cell (Shape Layout Section)](http://msdn.microsoft.com/library/acf07fd7-6aa6-1a92-9b7a-bd6fea8a7cb2%28Office.15%29.aspx)
 

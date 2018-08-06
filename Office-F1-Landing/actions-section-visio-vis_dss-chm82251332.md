@@ -1,5 +1,5 @@
 ---
-title: Sección Actions, Visio [Vis_DSS.chm82251332]
+title: Actions Section, Visio [Vis_DSS.chm82251332]
 keywords: vis_dss.chm82251332
 f1_keywords:
 - vis_dss.chm82251332
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Actions Section, Visio [Vis_DSS.chm82251332]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Actions, Visio [Vis_DSS.chm82251332]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de acciones](http://msdn.microsoft.com/library/actions-section%28Office.15%29.aspx)
-
+[Actions Section](http://msdn.microsoft.com/library/d03b7fc8-8c94-16cd-1542-11c6a31ff769%28Office.15%29.aspx)
 

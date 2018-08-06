@@ -1,5 +1,5 @@
 ---
-title: Método Deselect, Excel [vbagr10.chm5207307]
+title: Deselect Method, Excel [vbagr10.chm5207307]
 keywords: vbagr10.chm5207307
 f1_keywords:
 - vbagr10.chm5207307
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Deselect Method, Excel [vbagr10.chm5207307]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Deselect, Excel [vbagr10.chm5207307]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Deselect (método)](http://msdn.microsoft.com/library/deselect-method%28Office.15%29.aspx)
-
+[Deselect Method](http://msdn.microsoft.com/library/928e8efa-4b6a-a1ea-2520-615354c8538a%28Office.15%29.aspx)
 

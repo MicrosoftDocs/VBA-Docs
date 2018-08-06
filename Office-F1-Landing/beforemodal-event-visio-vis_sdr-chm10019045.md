@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeModal, Visio [vis_sdr.chm10019045]
+title: BeforeModal Event, Visio [vis_sdr.chm10019045]
 keywords: vis_sdr.chm10019045
 f1_keywords:
 - vis_sdr.chm10019045
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeModal Event, Visio [vis_sdr.chm10019045]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeModal, Visio [vis_sdr.chm10019045]
+[InvisibleApp.BeforeModal Event (Visio)](http://msdn.microsoft.com/library/9e31701c-23fa-393a-b118-18a757e4f895%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforeModal Event (Visio)](http://msdn.microsoft.com/library/505d3e54-c8f7-7f02-90d2-43f73573b296%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforeModal (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforemodal-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforeModal (Visio)](http://msdn.microsoft.com/library/application.beforemodal-event-visio%28Office.15%29.aspx)
 

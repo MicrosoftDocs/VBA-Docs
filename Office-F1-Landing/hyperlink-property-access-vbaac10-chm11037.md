@@ -1,5 +1,5 @@
 ---
-title: Propiedad Hyperlink, Access [vbaac10.chm11037]
+title: Hyperlink Property, Access [vbaac10.chm11037]
 keywords: vbaac10.chm11037
 f1_keywords:
 - vbaac10.chm11037
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Hyperlink Property, Access [vbaac10.chm11037]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Hyperlink, Access [vbaac10.chm11037]
+[TextBox.Hyperlink Property (Access)](http://msdn.microsoft.com/library/a5d80cd4-d03d-41ea-9394-214537dd6c8c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Hyperlink Property (Access)](http://msdn.microsoft.com/library/2d6bdb1a-808e-1712-1846-71ffa8619f0d%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Hyperlink (Access)](http://msdn.microsoft.com/library/textbox.hyperlink-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Hyperlink (Access)](http://msdn.microsoft.com/library/navigationcontrol.hyperlink-property-access%28Office.15%29.aspx)
 

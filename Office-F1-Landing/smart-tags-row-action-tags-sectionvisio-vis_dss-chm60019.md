@@ -1,5 +1,5 @@
 ---
-title: Fila Smart Tags (sección Etiquetas de acción), Visio [Vis_DSS.chm60019]
+title: Smart Tags Row (Action Tags Section), Visio [Vis_DSS.chm60019]
 keywords: vis_dss.chm60019
 f1_keywords:
 - vis_dss.chm60019
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Smart Tags Row (Action Tags Section), Visio [Vis_DSS.chm60019]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila Smart Tags (sección Etiquetas de acción), Visio [Vis_DSS.chm60019]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila Smart Tags (sección de etiquetas de acción)](http://msdn.microsoft.com/library/smart-tags-row-action-tags-section%28Office.15%29.aspx)
-
+[Smart Tags Row (Action Tags Section)](http://msdn.microsoft.com/library/065c6977-c737-a4f4-effa-0fd2c98e8bbf%28Office.15%29.aspx)
 

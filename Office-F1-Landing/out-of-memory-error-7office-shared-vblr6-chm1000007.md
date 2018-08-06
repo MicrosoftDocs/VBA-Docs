@@ -1,5 +1,5 @@
 ---
-title: Memoria insuficiente (error 7), Office Shared [vblr6.chm1000007]
+title: Out of memory (Error 7), Office Shared [vblr6.chm1000007]
 keywords: vblr6.chm1000007
 f1_keywords:
 - vblr6.chm1000007
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Out of memory (Error 7), Office Shared [vblr6.chm1000007]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Memoria insuficiente (error 7), Office Shared [vblr6.chm1000007]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sin memoria (error 7)](http://msdn.microsoft.com/library/out-of-memory-error-7%28Office.15%29.aspx)
-
+[Out of memory (Error 7)](http://msdn.microsoft.com/library/b04a1604-738c-2425-1d4b-a5c595cd798d%28Office.15%29.aspx)
 

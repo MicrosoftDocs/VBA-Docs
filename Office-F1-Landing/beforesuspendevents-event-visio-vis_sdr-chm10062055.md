@@ -1,5 +1,5 @@
 ---
-title: Evento BeforeSuspendEvents, Visio [vis_sdr.chm10062055]
+title: BeforeSuspendEvents Event, Visio [vis_sdr.chm10062055]
 keywords: vis_sdr.chm10062055
 f1_keywords:
 - vis_sdr.chm10062055
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeSuspendEvents Event, Visio [vis_sdr.chm10062055]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento BeforeSuspendEvents, Visio [vis_sdr.chm10062055]
+[InvisibleApp.BeforeSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/6194a96a-d549-025b-fc97-7d79989447f7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.BeforeSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/a6879424-40d8-e517-aad0-f31aa84a49f6%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.BeforeSuspendEvents (Visio)](http://msdn.microsoft.com/library/invisibleapp.beforesuspendevents-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.BeforeSuspendEvents (Visio)](http://msdn.microsoft.com/library/application.beforesuspendevents-event-visio%28Office.15%29.aspx)
 

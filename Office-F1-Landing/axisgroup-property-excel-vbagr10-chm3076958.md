@@ -1,5 +1,5 @@
 ---
-title: Propiedad AxisGroup, Excel [vbagr10.chm3076958]
+title: AxisGroup Property, Excel [vbagr10.chm3076958]
 keywords: vbagr10.chm3076958
 f1_keywords:
 - vbagr10.chm3076958
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AxisGroup Property, Excel [vbagr10.chm3076958]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AxisGroup, Excel [vbagr10.chm3076958]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [AxisGroup (propiedad)](http://msdn.microsoft.com/library/axisgroup-property%28Office.15%29.aspx)
-
+[AxisGroup Property](http://msdn.microsoft.com/library/453bc2f6-ca27-1b7c-8dc4-8a902c9445be%28Office.15%29.aspx)
 

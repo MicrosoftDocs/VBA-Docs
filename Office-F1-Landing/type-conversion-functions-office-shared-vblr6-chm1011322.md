@@ -1,5 +1,5 @@
 ---
-title: Funciones de conversión de tipos, Office Shared [vblr6.chm1011322]
+title: Type Conversion Functions, Office Shared [vblr6.chm1011322]
 keywords: vblr6.chm1011322
 f1_keywords:
 - vblr6.chm1011322
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Type Conversion Functions, Office Shared [vblr6.chm1011322]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Funciones de conversión de tipos, Office Shared [vblr6.chm1011322]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Funciones Type Conversion](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
-
+[Type Conversion Functions](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 

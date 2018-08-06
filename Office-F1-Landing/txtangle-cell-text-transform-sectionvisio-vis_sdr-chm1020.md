@@ -1,5 +1,5 @@
 ---
-title: Celda TxtAngle (sección Text Transform), Visio [vis_sdr.chm1020]
+title: TxtAngle Cell (Text Transform Section), Visio [vis_sdr.chm1020]
 keywords: vis_sdr.chm1020
 f1_keywords:
 - vis_sdr.chm1020
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtAngle Cell (Text Transform Section), Visio [vis_sdr.chm1020]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtAngle (sección Text Transform), Visio [vis_sdr.chm1020]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtAngle (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtangle-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtAngle Cell (Text Transform Section)](http://msdn.microsoft.com/library/b8482cd8-5205-40ef-b4e1-4ceb197ac80f%28Office.15%29.aspx)
 

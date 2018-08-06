@@ -1,5 +1,5 @@
 ---
-title: Método Delete, Excel [vbagr10.chm65653]
+title: Delete Method, Excel [vbagr10.chm65653]
 keywords: vbagr10.chm65653
 f1_keywords:
 - vbagr10.chm65653
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Delete Method, Excel [vbagr10.chm65653]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Delete, Excel [vbagr10.chm65653]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Eliminar (gráfico) (método)](http://msdn.microsoft.com/library/delete-method-graph%28Office.15%29.aspx)
-
+[Delete Method (Graph)](http://msdn.microsoft.com/library/f5bc861f-67e4-05e9-765f-d9ed34e0e936%28Office.15%29.aspx)
 

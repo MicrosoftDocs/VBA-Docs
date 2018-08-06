@@ -1,5 +1,5 @@
 ---
-title: Propiedad BorderStyle, Access [vbaac10.chm11078]
+title: BorderStyle Property, Access [vbaac10.chm11078]
 keywords: vbaac10.chm11078
 f1_keywords:
 - vbaac10.chm11078
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BorderStyle Property, Access [vbaac10.chm11078]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BorderStyle, Access [vbaac10.chm11078]
+[TextBox.BorderStyle Property (Access)](http://msdn.microsoft.com/library/783c9424-669f-fcc7-b23d-6f5de03bad79%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.BorderStyle Property (Access)](http://msdn.microsoft.com/library/9135151b-2e00-ac34-9c82-a85c76b97eb5%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.BorderStyle (Access)](http://msdn.microsoft.com/library/textbox.borderstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.BorderStyle (Access)](http://msdn.microsoft.com/library/navigationcontrol.borderstyle-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: La línea no es una instrucción ejecutable, Office Shared [vblr6.chm1040349]
+title: Line isn't an executable statement, Office Shared [vblr6.chm1040349]
 keywords: vblr6.chm1040349
 f1_keywords:
 - vblr6.chm1040349
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Line isn't an executable statement, Office Shared [vblr6.chm1040349]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La línea no es una instrucción ejecutable, Office Shared [vblr6.chm1040349]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Line no es una instrucción ejecutable](http://msdn.microsoft.com/library/line-isn-t-an-executable-statement%28Office.15%29.aspx)
-
+[Line isn't an executable statement](http://msdn.microsoft.com/library/f734f3d9-fd63-8024-860a-4b0c7f581f67%28Office.15%29.aspx)
 

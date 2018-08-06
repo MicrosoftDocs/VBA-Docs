@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabFixedHeight, Access [vbaac10.chm12088]
+title: TabFixedHeight Property, Access [vbaac10.chm12088]
 keywords: vbaac10.chm12088
 f1_keywords:
 - vbaac10.chm12088
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TabFixedHeight Property, Access [vbaac10.chm12088]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabFixedHeight, Access [vbaac10.chm12088]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TabControl.TabFixedHeight (Access)](http://msdn.microsoft.com/library/tabcontrol.tabfixedheight-property-access%28Office.15%29.aspx)
-
+[TabControl.TabFixedHeight Property (Access)](http://msdn.microsoft.com/library/562c4e43-0729-000a-9d8d-aff64a3bbb2e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ShowBubbleSize, Excel [vbagr10.chm67470]
+title: ShowBubbleSize Property, Excel [vbagr10.chm67470]
 keywords: vbagr10.chm67470
 f1_keywords:
 - vbagr10.chm67470
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShowBubbleSize Property, Excel [vbagr10.chm67470]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ShowBubbleSize, Excel [vbagr10.chm67470]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ShowBubbleSize (propiedad)](http://msdn.microsoft.com/library/showbubblesize-property%28Office.15%29.aspx)
-
+[ShowBubbleSize Property](http://msdn.microsoft.com/library/abeee041-0fa0-537e-6786-37213a6004c1%28Office.15%29.aspx)
 

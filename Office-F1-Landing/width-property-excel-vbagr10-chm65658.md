@@ -1,5 +1,5 @@
 ---
-title: Propiedad Width, Excel [vbagr10.chm65658]
+title: Width Property, Excel [vbagr10.chm65658]
 keywords: vbagr10.chm65658
 f1_keywords:
 - vbagr10.chm65658
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Property, Excel [vbagr10.chm65658]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Width, Excel [vbagr10.chm65658]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Width (gráfico)](http://msdn.microsoft.com/library/width-property-graph%28Office.15%29.aspx)
-
+[Width Property (Graph)](http://msdn.microsoft.com/library/715e889e-184e-5021-3ad9-029dd78e3147%28Office.15%29.aspx)
 

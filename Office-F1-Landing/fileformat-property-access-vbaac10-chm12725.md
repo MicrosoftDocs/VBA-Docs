@@ -1,5 +1,5 @@
 ---
-title: Propiedad FileFormat, Access [vbaac10.chm12725]
+title: FileFormat Property, Access [vbaac10.chm12725]
 keywords: vbaac10.chm12725
 f1_keywords:
 - vbaac10.chm12725
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FileFormat Property, Access [vbaac10.chm12725]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FileFormat, Access [vbaac10.chm12725]
+[CodeProject.FileFormat Property (Access)](http://msdn.microsoft.com/library/f72e13d7-58dc-3710-b1e7-798a71601ceb%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.FileFormat Property (Access)](http://msdn.microsoft.com/library/eb062d95-3042-eae7-9c0b-9d052e28b8cd%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.FileFormat (Access)](http://msdn.microsoft.com/library/codeproject.fileformat-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.FileFormat (Access)](http://msdn.microsoft.com/library/currentproject.fileformat-property-access%28Office.15%29.aspx)
 

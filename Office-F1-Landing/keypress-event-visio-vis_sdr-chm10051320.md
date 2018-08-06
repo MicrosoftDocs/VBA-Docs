@@ -1,5 +1,5 @@
 ---
-title: Evento KeyPress, Visio [vis_sdr.chm10051320]
+title: KeyPress Event, Visio [vis_sdr.chm10051320]
 keywords: vis_sdr.chm10051320
 f1_keywords:
 - vis_sdr.chm10051320
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# KeyPress Event, Visio [vis_sdr.chm10051320]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento KeyPress, Visio [vis_sdr.chm10051320]
+[Application.KeyPress Event (Visio)](http://msdn.microsoft.com/library/d044400a-e552-6615-ce2c-1d0aec723b6f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.KeyPress Event (Visio)](http://msdn.microsoft.com/library/d6beecb3-a178-3220-94fe-ae6e68b31980%28Office.15%29.aspx)
 
-
- [Evento Application.KeyPress (Visio)](http://msdn.microsoft.com/library/application.keypress-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.KeyPress (Visio)](http://msdn.microsoft.com/library/invisibleapp.keypress-event-visio%28Office.15%29.aspx)
 

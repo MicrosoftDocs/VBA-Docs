@@ -1,5 +1,5 @@
 ---
-title: Celda Width (sección Shape Transform), Visio [vis_sdr.chm1120]
+title: Width Cell (Shape Transform Section), Visio [vis_sdr.chm1120]
 keywords: vis_sdr.chm1120
 f1_keywords:
 - vis_sdr.chm1120
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Width Cell (Shape Transform Section), Visio [vis_sdr.chm1120]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Width (sección Shape Transform), Visio [vis_sdr.chm1120]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Width (Sección de transformación de forma)](http://msdn.microsoft.com/library/width-cell-shape-transform-section%28Office.15%29.aspx)
-
+[Width Cell (Shape Transform Section)](http://msdn.microsoft.com/library/992ae9d8-ea15-0f5c-ccd6-e4c536099692%28Office.15%29.aspx)
 

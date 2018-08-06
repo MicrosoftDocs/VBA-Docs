@@ -1,5 +1,5 @@
 ---
-title: Celda ShapePermeableX (sección Shape Layout), Visio [Vis_DSS.chm82251665]
+title: ShapePermeableX Cell (Shape Layout Section), Visio [Vis_DSS.chm82251665]
 keywords: vis_dss.chm82251665
 f1_keywords:
 - vis_dss.chm82251665
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapePermeableX Cell (Shape Layout Section), Visio [Vis_DSS.chm82251665]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapePermeableX (sección Shape Layout), Visio [Vis_DSS.chm82251665]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapePermeableX (Sección de diseño de forma)](http://msdn.microsoft.com/library/shapepermeablex-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ShapePermeableX Cell (Shape Layout Section)](http://msdn.microsoft.com/library/7e27b36c-4fd1-34e0-c168-f49eb5757b0e%28Office.15%29.aspx)
 

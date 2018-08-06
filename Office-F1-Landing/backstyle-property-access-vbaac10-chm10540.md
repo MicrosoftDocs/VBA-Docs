@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackStyle, Access [vbaac10.chm10540]
+title: BackStyle Property, Access [vbaac10.chm10540]
 keywords: vbaac10.chm10540
 f1_keywords:
 - vbaac10.chm10540
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# BackStyle Property, Access [vbaac10.chm10540]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackStyle, Access [vbaac10.chm10540]
+[CommandButton.BackStyle Property (Access)](http://msdn.microsoft.com/library/b7c930b0-e203-fe3a-ce54-0778d65d073f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.BackStyle Property (Access)](http://msdn.microsoft.com/library/941456b8-df23-2811-ff93-21d007eb9a2e%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.BackStyle (Access)](http://msdn.microsoft.com/library/commandbutton.backstyle-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.BackStyle (Access)](http://msdn.microsoft.com/library/navigationbutton.backstyle-property-access%28Office.15%29.aspx)
 

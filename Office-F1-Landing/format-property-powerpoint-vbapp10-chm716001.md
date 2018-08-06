@@ -1,5 +1,5 @@
 ---
-title: Propiedad Format, PowerPoint [vbapp10.chm716001]
+title: Format Property, PowerPoint [vbapp10.chm716001]
 keywords: vbapp10.chm716001
 f1_keywords:
 - vbapp10.chm716001
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Format Property, PowerPoint [vbapp10.chm716001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Format, PowerPoint [vbapp10.chm716001]
+[Point.Format Property (PowerPoint)](http://msdn.microsoft.com/library/e7e37e8b-7251-922c-b436-8ae6c955a08d%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Series.Format Property (PowerPoint)](http://msdn.microsoft.com/library/2c1e7a2e-6f2e-7b18-c29b-cec3ba61f563%28Office.15%29.aspx)
 
-
- [Propiedad Point.Format (PowerPoint)](http://msdn.microsoft.com/library/point.format-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Series.Format (PowerPoint)](http://msdn.microsoft.com/library/series.format-property-powerpoint%28Office.15%29.aspx)
 

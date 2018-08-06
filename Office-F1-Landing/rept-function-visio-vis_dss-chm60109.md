@@ -1,5 +1,5 @@
 ---
-title: Función REPT, Visio [Vis_DSS.chm60109]
+title: REPT Function, Visio [Vis_DSS.chm60109]
 keywords: vis_dss.chm60109
 f1_keywords:
 - vis_dss.chm60109
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# REPT Function, Visio [Vis_DSS.chm60109]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función REPT, Visio [Vis_DSS.chm60109]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [REPT (función)](http://msdn.microsoft.com/library/rept-function%28Office.15%29.aspx)
-
+[REPT Function](http://msdn.microsoft.com/library/53362a32-ac27-42a3-ace1-c6184ab20b52%28Office.15%29.aspx)
 

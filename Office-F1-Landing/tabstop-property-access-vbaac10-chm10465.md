@@ -1,5 +1,5 @@
 ---
-title: Propiedad TabStop, Access [vbaac10.chm10465]
+title: TabStop Property, Access [vbaac10.chm10465]
 keywords: vbaac10.chm10465
 f1_keywords:
 - vbaac10.chm10465
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# TabStop Property, Access [vbaac10.chm10465]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad TabStop, Access [vbaac10.chm10465]
+[CommandButton.TabStop Property (Access)](http://msdn.microsoft.com/library/ec624311-cad4-87b7-e697-053c939a078a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.TabStop Property (Access)](http://msdn.microsoft.com/library/615492c6-d953-3c0d-21c4-b9f233743aa6%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.TabStop (Access)](http://msdn.microsoft.com/library/commandbutton.tabstop-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.TabStop (Access)](http://msdn.microsoft.com/library/navigationbutton.tabstop-property-access%28Office.15%29.aspx)
 

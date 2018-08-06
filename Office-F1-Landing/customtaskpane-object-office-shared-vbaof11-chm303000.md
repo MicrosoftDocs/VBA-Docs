@@ -1,5 +1,5 @@
 ---
-title: Objeto CustomTaskPane, Office Shared [vbaof11.chm303000]
+title: CustomTaskPane Object, Office Shared [vbaof11.chm303000]
 keywords: vbaof11.chm303000
 f1_keywords:
 - vbaof11.chm303000
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CustomTaskPane Object, Office Shared [vbaof11.chm303000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto CustomTaskPane, Office Shared [vbaof11.chm303000]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto CustomTaskPane (oficina)](http://msdn.microsoft.com/library/customtaskpane-object-office%28Office.15%29.aspx)
-
+[CustomTaskPane Object (Office)](http://msdn.microsoft.com/library/7ed379b7-d070-4d7b-abe1-92dc73d3d137%28Office.15%29.aspx)
 

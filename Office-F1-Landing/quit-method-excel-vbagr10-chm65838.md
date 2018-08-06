@@ -1,5 +1,5 @@
 ---
-title: Método Quit, Excel [vbagr10.chm65838]
+title: Quit Method, Excel [vbagr10.chm65838]
 keywords: vbagr10.chm65838
 f1_keywords:
 - vbagr10.chm65838
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Quit Method, Excel [vbagr10.chm65838]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Quit, Excel [vbagr10.chm65838]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método Quit](http://msdn.microsoft.com/library/quit-method%28Office.15%29.aspx)
-
+[Quit Method](http://msdn.microsoft.com/library/8195f39e-d12e-3189-f324-1d8e0b5e3463%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda TxtHeight (sección Text Transform), Visio [Vis_DSS.chm1025]
+title: TxtHeight Cell (Text Transform Section), Visio [Vis_DSS.chm1025]
 keywords: vis_dss.chm1025
 f1_keywords:
 - vis_dss.chm1025
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtHeight Cell (Text Transform Section), Visio [Vis_DSS.chm1025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtHeight (sección Text Transform), Visio [Vis_DSS.chm1025]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtHeight (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtheight-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtHeight Cell (Text Transform Section)](http://msdn.microsoft.com/library/cfa3ecc6-61a8-506c-ba1d-b5e1f757d44f%28Office.15%29.aspx)
 

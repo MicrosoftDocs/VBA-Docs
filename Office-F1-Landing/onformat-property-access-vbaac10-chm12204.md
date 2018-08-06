@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnFormat, Access [vbaac10.chm12204]
+title: OnFormat Property, Access [vbaac10.chm12204]
 keywords: vbaac10.chm12204
 f1_keywords:
 - vbaac10.chm12204
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# OnFormat Property, Access [vbaac10.chm12204]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnFormat, Access [vbaac10.chm12204]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Section.OnFormat (Access)](http://msdn.microsoft.com/library/section.onformat-property-access%28Office.15%29.aspx)
-
+[Section.OnFormat Property (Access)](http://msdn.microsoft.com/library/061652a9-0253-8dc2-a8c0-02daa40d132d%28Office.15%29.aspx)
 

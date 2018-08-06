@@ -1,5 +1,5 @@
 ---
-title: Propiedad MatchRequired, Office Shared [fm20.chm5225062]
+title: MatchRequired Property, Office Shared [fm20.chm5225062]
 keywords: fm20.chm5225062
 f1_keywords:
 - fm20.chm5225062
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MatchRequired Property, Office Shared [fm20.chm5225062]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MatchRequired, Office Shared [fm20.chm5225062]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MatchRequired](http://msdn.microsoft.com/library/matchrequired-property%28Office.15%29.aspx)
-
+[MatchRequired Property](http://msdn.microsoft.com/library/c2b2d308-4107-975f-9a2d-e0eaff413807%28Office.15%29.aspx)
 

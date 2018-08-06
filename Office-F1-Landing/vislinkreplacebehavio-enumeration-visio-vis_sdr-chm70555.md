@@ -1,5 +1,5 @@
 ---
-title: Enumeración VisLinkReplaceBehavio, Visio [vis_sdr.chm70555]
+title: VisLinkReplaceBehavio Enumeration, Visio [vis_sdr.chm70555]
 keywords: vis_sdr.chm70555
 f1_keywords:
 - vis_sdr.chm70555
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# VisLinkReplaceBehavio Enumeration, Visio [vis_sdr.chm70555]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Enumeración VisLinkReplaceBehavio, Visio [vis_sdr.chm70555]
+[VisLinkReplaceBehavior Enumeration (Visio)](http://msdn.microsoft.com/library/3579129a-b908-8d5f-e694-f72cc94880cf%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[VisLinkReplaceBehavior Enumeration (Visio)](http://msdn.microsoft.com/library/f1ae5a9e-9764-8904-b1ba-fe4315f6c445.aspx)
 
-
- [Enumeración VisLinkReplaceBehavio (Visio)](http://msdn.microsoft.com/library/vislinkreplacebehavior-enumeration-visio%28Office.15%29.aspx)
-
-
- [VisLinkReplaceBehavior Enumeration (Visio)](http://msdn.microsoft.com/library/f1ae5a9e-9764-8904-b1ba-fe4315f6c445.aspx)
 

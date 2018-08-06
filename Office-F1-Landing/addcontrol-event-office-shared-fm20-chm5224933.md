@@ -1,5 +1,5 @@
 ---
-title: Evento AddControl, Office Shared [fm20.chm5224933]
+title: AddControl Event, Office Shared [fm20.chm5224933]
 keywords: fm20.chm5224933
 f1_keywords:
 - fm20.chm5224933
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddControl Event, Office Shared [fm20.chm5224933]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento AddControl, Office Shared [fm20.chm5224933]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento AddControl](http://msdn.microsoft.com/library/addcontrol-event%28Office.15%29.aspx)
-
+[AddControl Event](http://msdn.microsoft.com/library/9febc628-1d26-9ecf-7f04-7c9431a7b9c8%28Office.15%29.aspx)
 

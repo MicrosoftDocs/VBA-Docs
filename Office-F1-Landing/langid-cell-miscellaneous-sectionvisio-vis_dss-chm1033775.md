@@ -1,5 +1,5 @@
 ---
-title: Celda LangID (sección Varios), Visio [Vis_DSS.chm1033775]
+title: LangID Cell (Miscellaneous Section), Visio [Vis_DSS.chm1033775]
 keywords: vis_dss.chm1033775
 f1_keywords:
 - vis_dss.chm1033775
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LangID Cell (Miscellaneous Section), Visio [Vis_DSS.chm1033775]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LangID (sección Varios), Visio [Vis_DSS.chm1033775]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LangID (Sección de varios)](http://msdn.microsoft.com/library/langid-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[LangID Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/815e0df8-5ebf-ef1b-d620-bce8abb69f1a%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Consulta de selección, Access [vbaac10.chm5186632]
+title: Select Query, Access [vbaac10.chm5186632]
 keywords: vbaac10.chm5186632
 f1_keywords:
 - vbaac10.chm5186632
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Select Query, Access [vbaac10.chm5186632]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Consulta de selección, Access [vbaac10.chm5186632]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Consulta de selección](http://msdn.microsoft.com/library/select-query%28Office.15%29.aspx)
-
+[Select Query](http://msdn.microsoft.com/library/6db11dcc-2c57-c381-57e1-334108670447%28Office.15%29.aspx)
 

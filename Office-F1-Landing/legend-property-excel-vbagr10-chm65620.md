@@ -1,5 +1,5 @@
 ---
-title: Propiedad Legend, Excel [vbagr10.chm65620]
+title: Legend Property, Excel [vbagr10.chm65620]
 keywords: vbagr10.chm65620
 f1_keywords:
 - vbagr10.chm65620
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Legend Property, Excel [vbagr10.chm65620]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Legend, Excel [vbagr10.chm65620]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Legend (propiedad)](http://msdn.microsoft.com/library/legend-property%28Office.15%29.aspx)
-
+[Legend Property](http://msdn.microsoft.com/library/03d13546-c567-04b3-8ed5-cb99dc97c8e4%28Office.15%29.aspx)
 

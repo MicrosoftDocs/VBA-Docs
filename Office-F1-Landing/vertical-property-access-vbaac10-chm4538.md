@@ -1,5 +1,5 @@
 ---
-title: Propiedad Vertical, Access [vbaac10.chm4538]
+title: Vertical Property, Access [vbaac10.chm4538]
 keywords: vbaac10.chm4538
 f1_keywords:
 - vbaac10.chm4538
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Vertical Property, Access [vbaac10.chm4538]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Vertical, Access [vbaac10.chm4538]
+[TextBox.Vertical Property (Access)](http://msdn.microsoft.com/library/40b9f9c0-daab-5562-395e-3e785d316d91%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Label.Vertical Property (Access)](http://msdn.microsoft.com/library/6ce97069-0713-9a6f-3efc-4a5161ee54e3%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Vertical (Access)](http://msdn.microsoft.com/library/textbox.vertical-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Label.vertical (Access)](http://msdn.microsoft.com/library/label.vertical-property-access%28Office.15%29.aspx)
 

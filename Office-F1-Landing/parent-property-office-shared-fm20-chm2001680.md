@@ -1,5 +1,5 @@
 ---
-title: Propiedad Parent, Office Shared [fm20.chm2001680]
+title: Parent Property, Office Shared [fm20.chm2001680]
 keywords: fm20.chm2001680
 f1_keywords:
 - fm20.chm2001680
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Parent Property, Office Shared [fm20.chm2001680]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Parent, Office Shared [fm20.chm2001680]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propertya principal (Microsoft Forms)](http://msdn.microsoft.com/library/parent-property-microsoft-forms%28Office.15%29.aspx)
-
+[Parent Propertya (Microsoft Forms)](http://msdn.microsoft.com/library/a8289266-cb45-8458-ba09-c0efd19665f9%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Control Rectangle, Access [vbaac10.chm13595]
+title: Rectangle Control, Access [vbaac10.chm13595]
 keywords: vbaac10.chm13595
 f1_keywords:
 - vbaac10.chm13595
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Rectangle Control, Access [vbaac10.chm13595]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control Rectangle, Access [vbaac10.chm13595]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Rectángulo](http://msdn.microsoft.com/library/rectangle-control%28Office.15%29.aspx)
-
+[Rectangle Control](http://msdn.microsoft.com/library/5acd290e-64e6-c513-e146-d7c95510cde0%28Office.15%29.aspx)
 

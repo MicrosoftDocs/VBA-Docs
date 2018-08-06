@@ -1,5 +1,5 @@
 ---
-title: Objeto Property (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071198]
+title: Property Object (VBA Add-In Object Model), Office Shared [vbob6.chm1071198]
 keywords: vbob6.chm1071198
 f1_keywords:
 - vbob6.chm1071198
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property Object (VBA Add-In Object Model), Office Shared [vbob6.chm1071198]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto Property (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm1071198]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Objeto Property (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/property-object-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Property Object (VBA Add-In Object Model)](http://msdn.microsoft.com/library/231018ff-4e74-fc67-a69b-0988e5b7517d%28Office.15%29.aspx)
 

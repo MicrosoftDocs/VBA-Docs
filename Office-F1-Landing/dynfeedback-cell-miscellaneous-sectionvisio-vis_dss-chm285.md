@@ -1,5 +1,5 @@
 ---
-title: Celda DynFeedback (sección Varios), Visio [Vis_DSS.chm285]
+title: DynFeedback Cell (Miscellaneous Section), Visio [Vis_DSS.chm285]
 keywords: vis_dss.chm285
 f1_keywords:
 - vis_dss.chm285
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DynFeedback Cell (Miscellaneous Section), Visio [Vis_DSS.chm285]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda DynFeedback (sección Varios), Visio [Vis_DSS.chm285]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda DynFeedback (Sección de varios)](http://msdn.microsoft.com/library/dynfeedback-cell-miscellaneous-section%28Office.15%29.aspx)
-
+[DynFeedback Cell (Miscellaneous Section)](http://msdn.microsoft.com/library/44017319-7146-3431-e476-fbb1a40341ca%28Office.15%29.aspx)
 

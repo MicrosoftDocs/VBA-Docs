@@ -1,5 +1,5 @@
 ---
-title: Propiedad IsHyperlink, Access [vbaac10.chm4576]
+title: IsHyperlink Property, Access [vbaac10.chm4576]
 keywords: vbaac10.chm4576
 f1_keywords:
 - vbaac10.chm4576
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IsHyperlink Property, Access [vbaac10.chm4576]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad IsHyperlink, Access [vbaac10.chm4576]
+[TextBox.IsHyperlink Property (Access)](http://msdn.microsoft.com/library/68d2ca6a-7ea2-a44d-db32-1fa040475267%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ComboBox.IsHyperlink Property (Access)](http://msdn.microsoft.com/library/005d21a1-c44c-c0a6-f625-2b3f8f4f8f91%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.IsHyperlink (Access)](http://msdn.microsoft.com/library/textbox.ishyperlink-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.IsHyperlink (Access)](http://msdn.microsoft.com/library/combobox.ishyperlink-property-access%28Office.15%29.aspx)
 

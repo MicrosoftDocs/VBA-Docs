@@ -7,18 +7,10 @@ ms.assetid: ef6b1b17-8bf5-427c-8ae2-dbfd809e643e
 ms.date: 06/08/2017
 ---
 
----
-keywords: vis_sdr.chm1200
-f1_keywords:
-- vis_sdr.chm1200
-ms.prod: MULTIPLEPRODUCTS
-ms.assetid: ef6b1b17-8bf5-427c-8ae2-dbfd809e643e
----
 
+# YGridDensity Cell (Ruler &amp; Grid Section), Visio [vis_sdr.chm1200] 
 
-# Celda YGridDensity (sección Ruler &amp; Grid), Visio [vis_sdr.chm1200]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
 
 

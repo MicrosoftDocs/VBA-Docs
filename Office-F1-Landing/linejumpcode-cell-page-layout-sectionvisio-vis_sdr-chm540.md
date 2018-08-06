@@ -1,5 +1,5 @@
 ---
-title: Celda LineJumpCode (sección Page Layout), Visio [vis_sdr.chm540]
+title: LineJumpCode Cell (Page Layout Section), Visio [vis_sdr.chm540]
 keywords: vis_sdr.chm540
 f1_keywords:
 - vis_sdr.chm540
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineJumpCode Cell (Page Layout Section), Visio [vis_sdr.chm540]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineJumpCode (sección Page Layout), Visio [vis_sdr.chm540]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineJumpCode (Sección de diseño de página)](http://msdn.microsoft.com/library/linejumpcode-cell-page-layout-section%28Office.15%29.aspx)
-
+[LineJumpCode Cell (Page Layout Section)](http://msdn.microsoft.com/library/56f9043d-a632-65df-c710-45867cce1627%28Office.15%29.aspx)
 

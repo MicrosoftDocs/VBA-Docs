@@ -1,5 +1,5 @@
 ---
-title: Comandos Importar archivo y Exportar archivo (menú Archivo), Office Shared [vbui6.chm2057569]
+title: Import File and Export File Commands (File Menu), Office Shared [vbui6.chm2057569]
 keywords: vbui6.chm2057569
 f1_keywords:
 - vbui6.chm2057569
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Import File and Export File Commands (File Menu), Office Shared [vbui6.chm2057569]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Importar archivo y Exportar archivo (menú Archivo), Office Shared [vbui6.chm2057569]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Importar archivo y Exportar archivo (menú Archivo)](http://msdn.microsoft.com/library/import-file-and-export-file-commands-file-menu%28Office.15%29.aspx)
-
+[Import File and Export File Commands (File Menu)](http://msdn.microsoft.com/library/03af35bf-884f-40d7-4ac7-b17d5384fd0e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: El proyecto contiene demasiados procedimientos, variables y nombres de constantes, Office Shared [vblr6.chm1057029]
+title: Project contains too many procedure, variable, and constant names, Office Shared [vblr6.chm1057029]
 keywords: vblr6.chm1057029
 f1_keywords:
 - vblr6.chm1057029
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Project contains too many procedure, variable, and constant names, Office Shared [vblr6.chm1057029]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El proyecto contiene demasiados procedimientos, variables y nombres de constantes, Office Shared [vblr6.chm1057029]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El proyecto contiene demasiados nombres de procedimiento, variable y constante](http://msdn.microsoft.com/library/project-contains-too-many-procedure-variable-and-constant-names%28Office.15%29.aspx)
-
+[Project contains too many procedure, variable, and constant names](http://msdn.microsoft.com/library/d78ca072-6a1f-370a-2611-3f088b320a5a%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Uso no válido de nueva palabra clave, Office Shared [vblr6.chm1015642]
+title: Invalid use of New keyword, Office Shared [vblr6.chm1015642]
 keywords: vblr6.chm1015642
 f1_keywords:
 - vblr6.chm1015642
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid use of New keyword, Office Shared [vblr6.chm1015642]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Uso no válido de nueva palabra clave, Office Shared [vblr6.chm1015642]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Uso no válido de la palabra clave New](http://msdn.microsoft.com/library/invalid-use-of-new-keyword%28Office.15%29.aspx)
-
+[Invalid use of New keyword](http://msdn.microsoft.com/library/6bdc77a1-dde7-974e-4fee-b9279b4f3ae3%28Office.15%29.aspx)
 

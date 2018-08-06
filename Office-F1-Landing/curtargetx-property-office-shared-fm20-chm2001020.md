@@ -1,5 +1,5 @@
 ---
-title: Propiedad CurTargetX, Office Shared [fm20.chm2001020]
+title: CurTargetX Property, Office Shared [fm20.chm2001020]
 keywords: fm20.chm2001020
 f1_keywords:
 - fm20.chm2001020
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CurTargetX Property, Office Shared [fm20.chm2001020]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad CurTargetX, Office Shared [fm20.chm2001020]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad CurTargetX](http://msdn.microsoft.com/library/curtargetx-property%28Office.15%29.aspx)
-
+[CurTargetX Property](http://msdn.microsoft.com/library/b0365f58-22db-34d2-9751-6c9d36598e08%28Office.15%29.aspx)
 

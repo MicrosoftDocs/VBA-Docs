@@ -1,5 +1,5 @@
 ---
-title: Propiedad UseTheme, Access [vbaac10.chm14627]
+title: UseTheme Property, Access [vbaac10.chm14627]
 keywords: vbaac10.chm14627
 f1_keywords:
 - vbaac10.chm14627
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# UseTheme Property, Access [vbaac10.chm14627]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad UseTheme, Access [vbaac10.chm14627]
+[CommandButton.UseTheme Property (Access)](http://msdn.microsoft.com/library/b28982a6-1291-377b-91af-0421b8fcb9f4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TabControl.UseTheme Property (Access)](http://msdn.microsoft.com/library/a138cd16-de05-bbde-1361-6b7d71565078%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.UseTheme (Access)](http://msdn.microsoft.com/library/commandbutton.usetheme-property-access%28Office.15%29.aspx)
-
-
- [Propiedad TabControl.UseTheme (Access)](http://msdn.microsoft.com/library/tabcontrol.usetheme-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ToggleButton.UseTheme (Access)](http://msdn.microsoft.com/library/togglebutton.usetheme-property-access%28Office.15%29.aspx)
-
+[ToggleButton.UseTheme Property (Access)](http://msdn.microsoft.com/library/770bea3c-4039-f6a5-a341-93d878d74085%28Office.15%29.aspx)
 

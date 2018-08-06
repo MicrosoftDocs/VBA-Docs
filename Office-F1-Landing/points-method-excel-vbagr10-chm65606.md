@@ -1,5 +1,5 @@
 ---
-title: Método Points, Excel [vbagr10.chm65606]
+title: Points Method, Excel [vbagr10.chm65606]
 keywords: vbagr10.chm65606
 f1_keywords:
 - vbagr10.chm65606
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Points Method, Excel [vbagr10.chm65606]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método Points, Excel [vbagr10.chm65606]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Points (método)](http://msdn.microsoft.com/library/points-method%28Office.15%29.aspx)
-
+[Points Method](http://msdn.microsoft.com/library/d5ec1f3d-a530-d967-4809-850dae59e5be%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerBackgroundColorIndex, PowerPoint [vbapp10.chm65610]
+title: MarkerBackgroundColorIndex Property, PowerPoint [vbapp10.chm65610]
 keywords: vbapp10.chm65610
 f1_keywords:
 - vbapp10.chm65610
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerBackgroundColorIndex Property, PowerPoint [vbapp10.chm65610]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerBackgroundColorIndex, PowerPoint [vbapp10.chm65610]
+[LegendKey.MarkerBackgroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/882d5408-9d75-d452-ea53-1f7f2d575752%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Point.MarkerBackgroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/357a97f9-d20a-6761-5977-23ee526a277a%28Office.15%29.aspx)
 
-
- [Propiedad LegendKey.MarkerBackgroundColorIndex (PowerPoint)](http://msdn.microsoft.com/library/legendkey.markerbackgroundcolorindex-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Point.MarkerBackgroundColorIndex (PowerPoint)](http://msdn.microsoft.com/library/point.markerbackgroundcolorindex-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Series.MarkerBackgroundColorIndex (PowerPoint)](http://msdn.microsoft.com/library/series.markerbackgroundcolorindex-property-powerpoint%28Office.15%29.aspx)
-
+[Series.MarkerBackgroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/18640945-ac4a-c661-46fa-804a66f57502%28Office.15%29.aspx)
 

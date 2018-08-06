@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnApplyFilter, Access [vbaac10.chm4078]
+title: OnApplyFilter Property, Access [vbaac10.chm4078]
 keywords: vbaac10.chm4078
 f1_keywords:
 - vbaac10.chm4078
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnApplyFilter Property, Access [vbaac10.chm4078]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnApplyFilter, Access [vbaac10.chm4078]
+[Report.OnApplyFilter Property (Access)](http://msdn.microsoft.com/library/18e5b016-19a0-46bb-c552-c4bb8d458ca4%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Form.OnApplyFilter Property (Access)](http://msdn.microsoft.com/library/5e147a50-5516-f6d3-c1c9-e2c4522cb804%28Office.15%29.aspx)
 
-
- [Propiedad Report.OnApplyFilter (Access)](http://msdn.microsoft.com/library/report.onapplyfilter-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Form.OnApplyFilter (Access)](http://msdn.microsoft.com/library/form.onapplyfilter-property-access%28Office.15%29.aspx)
 

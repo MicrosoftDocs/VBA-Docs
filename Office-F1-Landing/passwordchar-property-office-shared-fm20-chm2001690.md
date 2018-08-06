@@ -1,5 +1,5 @@
 ---
-title: Propiedad PasswordChar, Office Shared [fm20.chm2001690]
+title: PasswordChar Property, Office Shared [fm20.chm2001690]
 keywords: fm20.chm2001690
 f1_keywords:
 - fm20.chm2001690
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# PasswordChar Property, Office Shared [fm20.chm2001690]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PasswordChar, Office Shared [fm20.chm2001690]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad PasswordChar](http://msdn.microsoft.com/library/passwordchar-property%28Office.15%29.aspx)
-
+[PasswordChar Property](http://msdn.microsoft.com/library/2dd645b2-fe8d-a644-b796-e0595627cbb8%28Office.15%29.aspx)
 

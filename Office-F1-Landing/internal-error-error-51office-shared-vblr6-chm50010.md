@@ -1,5 +1,5 @@
 ---
-title: Error interno (error 51), Office Shared [vblr6.chm50010]
+title: Internal error (Error 51), Office Shared [vblr6.chm50010]
 keywords: vblr6.chm50010
 f1_keywords:
 - vblr6.chm50010
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Internal error (Error 51), Office Shared [vblr6.chm50010]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error interno (error 51), Office Shared [vblr6.chm50010]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error interno (error 51)](http://msdn.microsoft.com/library/internal-error-error-51%28Office.15%29.aspx)
-
+[Internal error (Error 51)](http://msdn.microsoft.com/library/d9eda844-56f0-d7ca-03cd-24852a48b650%28Office.15%29.aspx)
 

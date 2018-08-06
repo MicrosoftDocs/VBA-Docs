@@ -1,5 +1,5 @@
 ---
-title: Estilo de constantes intrínsecas, Access [vbaac10.chm5188140]
+title: Style for Intrinsic Constants, Access [vbaac10.chm5188140]
 keywords: vbaac10.chm5188140
 f1_keywords:
 - vbaac10.chm5188140
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Style for Intrinsic Constants, Access [vbaac10.chm5188140]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Estilo de constantes intrínsecas, Access [vbaac10.chm5188140]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Estilo de las constantes intrínsecas](http://msdn.microsoft.com/library/style-for-intrinsic-constants%28Office.15%29.aspx)
-
+[Style for Intrinsic Constants](http://msdn.microsoft.com/library/6f301835-307b-d0b8-be24-c0fa728cc115%28Office.15%29.aspx)
 

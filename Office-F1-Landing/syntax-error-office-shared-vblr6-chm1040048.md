@@ -1,5 +1,5 @@
 ---
-title: Error de sintaxis, Office Shared [vblr6.chm1040048]
+title: Syntax error, Office Shared [vblr6.chm1040048]
 keywords: vblr6.chm1040048
 f1_keywords:
 - vblr6.chm1040048
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Syntax error, Office Shared [vblr6.chm1040048]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error de sintaxis, Office Shared [vblr6.chm1040048]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error de sintaxis](http://msdn.microsoft.com/library/syntax-error%28Office.15%29.aspx)
-
+[Syntax error](http://msdn.microsoft.com/library/ca84aa92-e41a-1167-ab66-032ab9626005%28Office.15%29.aspx)
 

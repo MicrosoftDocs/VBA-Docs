@@ -1,5 +1,5 @@
 ---
-title: Celda DoubleULine (sección Character), Visio [Vis_DSS.chm82251727]
+title: DoubleULine Cell (Character Section), Visio [Vis_DSS.chm82251727]
 keywords: vis_dss.chm82251727
 f1_keywords:
 - vis_dss.chm82251727
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DoubleULine Cell (Character Section), Visio [Vis_DSS.chm82251727]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda DoubleULine (sección Character), Visio [Vis_DSS.chm82251727]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda DoubleULine (Sección de caracteres)](http://msdn.microsoft.com/library/doubleuline-cell-character-section%28Office.15%29.aspx)
-
+[DoubleULine Cell (Character Section)](http://msdn.microsoft.com/library/c18955c8-d653-c29d-d3da-9d3cd0241e17%28Office.15%29.aspx)
 

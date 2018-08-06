@@ -1,5 +1,5 @@
 ---
-title: Método AddFromString (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104009]
+title: AddFromString Method (VBA Add-In Object Model), Office Shared [vbob6.chm104009]
 keywords: vbob6.chm104009
 f1_keywords:
 - vbob6.chm104009
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AddFromString Method (VBA Add-In Object Model), Office Shared [vbob6.chm104009]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método AddFromString (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104009]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método AddFromString (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/addfromstring-method-vba-add-in-object-model%28Office.15%29.aspx)
-
+[AddFromString Method (VBA Add-In Object Model)](http://msdn.microsoft.com/library/a3ad95b2-6327-ba69-71d5-17d4f693462c%28Office.15%29.aspx)
 

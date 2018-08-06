@@ -1,5 +1,5 @@
 ---
-title: Propiedad ObjectType, Visio [vis_sdr.chm18313430]
+title: ObjectType Property, Visio [vis_sdr.chm18313430]
 keywords: vis_sdr.chm18313430
 f1_keywords:
 - vis_sdr.chm18313430
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ObjectType Property, Visio [vis_sdr.chm18313430]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ObjectType, Visio [vis_sdr.chm18313430]
+[ValidationRules.ObjectType Property (Visio)](http://msdn.microsoft.com/library/e6f7ce1d-cdba-ffe8-3036-49c1cf6635d7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ValidationRules.Document Property (Visio)](http://msdn.microsoft.com/library/cb75bba6-ff75-91fb-0993-7692b9d65f0d%28Office.15%29.aspx)
 
-
- [Propiedad ValidationRules.ObjectType (Visio)](http://msdn.microsoft.com/library/validationrules.objecttype-property-visio%28Office.15%29.aspx)
-
-
- [Propiedad ValidationRules.Document (Visio)](http://msdn.microsoft.com/library/validationrules.document-property-visio%28Office.15%29.aspx)
 

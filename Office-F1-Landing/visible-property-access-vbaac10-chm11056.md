@@ -1,5 +1,5 @@
 ---
-title: Propiedad Visible, Access [vbaac10.chm11056]
+title: Visible Property, Access [vbaac10.chm11056]
 keywords: vbaac10.chm11056
 f1_keywords:
 - vbaac10.chm11056
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Visible Property, Access [vbaac10.chm11056]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Visible, Access [vbaac10.chm11056]
+[TextBox.Visible Property (Access)](http://msdn.microsoft.com/library/af1b9264-53f9-bf4c-2f05-049288a1d3d5%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.Visible Property (Access)](http://msdn.microsoft.com/library/91ea0e8c-63d1-3ca7-7f26-748f1651a1c6%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.Visible (Access)](http://msdn.microsoft.com/library/textbox.visible-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.Visible (Access)](http://msdn.microsoft.com/library/navigationcontrol.visible-property-access%28Office.15%29.aspx)
 

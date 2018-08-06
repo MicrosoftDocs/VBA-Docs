@@ -1,5 +1,5 @@
 ---
-title: Propiedad RowSource, Office Shared [fm20.chm5225083]
+title: RowSource Property, Office Shared [fm20.chm5225083]
 keywords: fm20.chm5225083
 f1_keywords:
 - fm20.chm5225083
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RowSource Property, Office Shared [fm20.chm5225083]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RowSource, Office Shared [fm20.chm5225083]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad RowSource](http://msdn.microsoft.com/library/rowsource-property%28Office.15%29.aspx)
-
+[RowSource Property](http://msdn.microsoft.com/library/13e863a3-c28e-5aba-04b1-03e04c107614%28Office.15%29.aspx)
 

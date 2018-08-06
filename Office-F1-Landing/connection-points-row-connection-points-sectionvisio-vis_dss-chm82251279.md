@@ -1,5 +1,5 @@
 ---
-title: Fila Connection Points (sección Puntos de conexión), Visio [Vis_DSS.chm82251279]
+title: Connection Points Row (Connection Points Section), Visio [Vis_DSS.chm82251279]
 keywords: vis_dss.chm82251279
 f1_keywords:
 - vis_dss.chm82251279
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Connection Points Row (Connection Points Section), Visio [Vis_DSS.chm82251279]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila Connection Points (sección Puntos de conexión), Visio [Vis_DSS.chm82251279]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila Puntos de conexión (Sección de puntos de conexión)](http://msdn.microsoft.com/library/connection-points-row-connection-points-section%28Office.15%29.aspx)
-
+[Connection Points Row (Connection Points Section)](http://msdn.microsoft.com/library/eaac62a5-f516-9b81-587a-8e0e02de59ee%28Office.15%29.aspx)
 

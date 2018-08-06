@@ -1,5 +1,5 @@
 ---
-title: Nombre de propiedad no válido, Office Shared [vblr6.chm60102]
+title: Invalid property name, Office Shared [vblr6.chm60102]
 keywords: vblr6.chm60102
 f1_keywords:
 - vblr6.chm60102
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid property name, Office Shared [vblr6.chm60102]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Nombre de propiedad no válido, Office Shared [vblr6.chm60102]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Nombre de propiedad no válido](http://msdn.microsoft.com/library/invalid-property-name%28Office.15%29.aspx)
-
+[Invalid property name](http://msdn.microsoft.com/library/622da783-8edb-f9c6-307a-4e208e6fa5eb%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad BeforeScreenTip, Access [vbaac10.chm13547]
+title: BeforeScreenTip Property, Access [vbaac10.chm13547]
 keywords: vbaac10.chm13547
 f1_keywords:
 - vbaac10.chm13547
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeforeScreenTip Property, Access [vbaac10.chm13547]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BeforeScreenTip, Access [vbaac10.chm13547]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Form.BeforeScreenTip (Access)](http://msdn.microsoft.com/library/form.beforescreentip-property-access%28Office.15%29.aspx)
-
+[Form.BeforeScreenTip Property (Access)](http://msdn.microsoft.com/library/4829b972-de4e-f8dc-f19c-c6a52c7dd14b%28Office.15%29.aspx)
 

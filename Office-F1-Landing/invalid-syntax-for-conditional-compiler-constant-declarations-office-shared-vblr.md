@@ -1,5 +1,5 @@
 ---
-title: Sintaxis no válida para las declaraciones de constante de compilador condicional, Office Shared [vblr6.chm1015640]
+title: Invalid syntax for conditional compiler constant declarations, Office Shared [vblr6.chm1015640]
 keywords: vblr6.chm1015640
 f1_keywords:
 - vblr6.chm1015640
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid syntax for conditional compiler constant declarations, Office Shared [vblr6.chm1015640]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sintaxis no válida para las declaraciones de constante de compilador condicional, Office Shared [vblr6.chm1015640]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sintaxis no válida para declaraciones de constantes de compilador condicional](http://msdn.microsoft.com/library/invalid-syntax-for-conditional-compiler-constant-declarations%28Office.15%29.aspx)
-
+[Invalid syntax for conditional compiler constant declarations](http://msdn.microsoft.com/library/815e6833-9813-5341-838d-55e0b4a4aae5%28Office.15%29.aspx)
 

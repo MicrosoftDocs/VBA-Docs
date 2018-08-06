@@ -1,5 +1,5 @@
 ---
-title: SHARE.EXE requerido, Office Shared [vblr6.chm1032789]
+title: SHARE.EXE required, Office Shared [vblr6.chm1032789]
 keywords: vblr6.chm1032789
 f1_keywords:
 - vblr6.chm1032789
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SHARE.EXE required, Office Shared [vblr6.chm1032789]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# SHARE.EXE requerido, Office Shared [vblr6.chm1032789]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SHARE.EXE requerido](http://msdn.microsoft.com/library/share.exe-required%28Office.15%29.aspx)
-
+[SHARE.EXE required](http://msdn.microsoft.com/library/2f442b9d-b324-ee7f-0daa-c4cf2534a308%28Office.15%29.aspx)
 

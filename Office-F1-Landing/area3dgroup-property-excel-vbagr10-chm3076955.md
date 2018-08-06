@@ -1,5 +1,5 @@
 ---
-title: Propiedad Area3DGroup, Excel [vbagr10.chm3076955]
+title: Area3DGroup Property, Excel [vbagr10.chm3076955]
 keywords: vbagr10.chm3076955
 f1_keywords:
 - vbagr10.chm3076955
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Area3DGroup Property, Excel [vbagr10.chm3076955]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Area3DGroup, Excel [vbagr10.chm3076955]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Area3DGroup (propiedad)](http://msdn.microsoft.com/library/area3dgroup-property%28Office.15%29.aspx)
-
+[Area3DGroup Property](http://msdn.microsoft.com/library/4274ca69-7a9d-76d9-7a57-814b6246d94f%28Office.15%29.aspx)
 

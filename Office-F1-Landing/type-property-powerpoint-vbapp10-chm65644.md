@@ -1,5 +1,5 @@
 ---
-title: Propiedad Type, PowerPoint [vbapp10.chm65644]
+title: Type Property, PowerPoint [vbapp10.chm65644]
 keywords: vbapp10.chm65644
 f1_keywords:
 - vbapp10.chm65644
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Type Property, PowerPoint [vbapp10.chm65644]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Type, PowerPoint [vbapp10.chm65644]
+[Series.Type Property (PowerPoint)](http://msdn.microsoft.com/library/87dcb817-fd6d-d249-cd8d-50cbfe051cf0%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Trendline.Type Property (PowerPoint)](http://msdn.microsoft.com/library/15eb494c-8e11-491a-5bf1-d7d0ea337e92%28Office.15%29.aspx)
 
-
- [Propiedad Series.Type (PowerPoint)](http://msdn.microsoft.com/library/series.type-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Trendline.Type (PowerPoint)](http://msdn.microsoft.com/library/trendline.type-property-powerpoint%28Office.15%29.aspx)
 

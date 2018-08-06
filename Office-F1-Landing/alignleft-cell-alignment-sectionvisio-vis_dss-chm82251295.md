@@ -1,5 +1,5 @@
 ---
-title: Celda AlignLeft (sección Alignment), Visio [Vis_DSS.chm82251295]
+title: AlignLeft Cell (Alignment Section), Visio [Vis_DSS.chm82251295]
 keywords: vis_dss.chm82251295
 f1_keywords:
 - vis_dss.chm82251295
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# AlignLeft Cell (Alignment Section), Visio [Vis_DSS.chm82251295]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda AlignLeft (sección Alignment), Visio [Vis_DSS.chm82251295]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda AlignLeft (Sección de alineación)](http://msdn.microsoft.com/library/alignleft-cell-alignment-section%28Office.15%29.aspx)
-
+[AlignLeft Cell (Alignment Section)](http://msdn.microsoft.com/library/d094411e-ed65-1d0d-5c35-68b003da2696%28Office.15%29.aspx)
 

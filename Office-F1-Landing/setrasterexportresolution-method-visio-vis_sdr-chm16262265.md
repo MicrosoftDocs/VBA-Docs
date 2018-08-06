@@ -1,5 +1,5 @@
 ---
-title: Método SetRasterExportResolution, Visio [vis_sdr.chm16262265]
+title: SetRasterExportResolution Method, Visio [vis_sdr.chm16262265]
 keywords: vis_sdr.chm16262265
 f1_keywords:
 - vis_sdr.chm16262265
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# SetRasterExportResolution Method, Visio [vis_sdr.chm16262265]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método SetRasterExportResolution, Visio [vis_sdr.chm16262265]
+[SetRasterExportResolution Method](http://msdn.microsoft.com/library/24a9c9a3-ff64-0acf-61c7-08dc3e45c0d8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ApplicationSettings.SetRasterExportResolution Method (Visio)](http://msdn.microsoft.com/library/18b28fe1-4460-940c-0de7-566a608a8f04%28Office.15%29.aspx)
 
-
- [SetRasterExportResolution (método)](http://msdn.microsoft.com/library/24a9c9a3-ff64-0acf-61c7-08dc3e45c0d8%28Office.15%29.aspx)
-
-
- [Método ApplicationSettings.SetRasterExportResolution (Visio)](http://msdn.microsoft.com/library/applicationsettings.setrasterexportresolution-method-visio%28Office.15%29.aspx)
 

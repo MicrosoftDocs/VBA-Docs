@@ -7,18 +7,10 @@ ms.assetid: 655a5952-3260-4fb5-9203-3e4ac8e002ae
 ms.date: 06/08/2017
 ---
 
----
-keywords: vblr6.chm1040201
-f1_keywords:
-- vblr6.chm1040201
-ms.prod: MULTIPLEPRODUCTS
-ms.assetid: 655a5952-3260-4fb5-9203-3e4ac8e002ae
----
 
+# Compile error in hidden module: <module name>, Office Shared [vblr6.chm1040201]
 
-# Error de compilación en módulo oculto: <nombre de módulo>, Office Shared [vblr6.chm1040201]
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
+[Compile error in hidden module: <module name>](http://msdn.microsoft.com/library/14deea0e-46ae-bcbd-b1c4-2363c90365f9%28Office.15%29.aspx)
 

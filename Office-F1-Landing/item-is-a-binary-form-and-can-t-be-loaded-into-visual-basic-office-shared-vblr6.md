@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'Item' is a binary form and can't be loaded into Visual Basic, Office Shared [vblr6.chm1117762]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# 'Item' es de tipo binario y no se puede cargar en Visual Basic, Office Shared [vblr6.chm1117762]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- ['Item' es un formulario binario y no se puede cargar en Visual Basic](http://msdn.microsoft.com/library/-item-is-a-binary-form-and-can-t-be-loaded-into-visual-basic%28Office.15%29.aspx)
-
+['Item' is a binary form and can't be loaded into Visual Basic](http://msdn.microsoft.com/library/ad4c341d-e3f2-cf6f-8af3-60c22e5174c1%28Office.15%29.aspx)
 

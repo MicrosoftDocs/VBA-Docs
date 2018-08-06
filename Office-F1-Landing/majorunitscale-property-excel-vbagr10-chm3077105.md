@@ -1,5 +1,5 @@
 ---
-title: Propiedad MajorUnitScale, Excel [vbagr10.chm3077105]
+title: MajorUnitScale Property, Excel [vbagr10.chm3077105]
 keywords: vbagr10.chm3077105
 f1_keywords:
 - vbagr10.chm3077105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MajorUnitScale Property, Excel [vbagr10.chm3077105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MajorUnitScale, Excel [vbagr10.chm3077105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MajorUnitScale (propiedad)](http://msdn.microsoft.com/library/majorunitscale-property%28Office.15%29.aspx)
-
+[MajorUnitScale Property](http://msdn.microsoft.com/library/b2a54ca7-6eac-5552-6de7-ee0ab59e1ddb%28Office.15%29.aspx)
 

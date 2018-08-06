@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnKeyDown, Access [vbaac10.chm10502]
+title: OnKeyDown Property, Access [vbaac10.chm10502]
 keywords: vbaac10.chm10502
 f1_keywords:
 - vbaac10.chm10502
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnKeyDown Property, Access [vbaac10.chm10502]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnKeyDown, Access [vbaac10.chm10502]
+[CommandButton.OnKeyDown Property (Access)](http://msdn.microsoft.com/library/33945139-f404-ea8a-577e-2a3623f52cb3%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.OnKeyDown Property (Access)](http://msdn.microsoft.com/library/8300e663-ec50-a08f-7ee5-f8b5cf7e5db0%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.OnKeyDown (Access)](http://msdn.microsoft.com/library/commandbutton.onkeydown-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.OnKeyDown (Access)](http://msdn.microsoft.com/library/navigationbutton.onkeydown-property-access%28Office.15%29.aspx)
 

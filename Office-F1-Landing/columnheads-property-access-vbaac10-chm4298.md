@@ -1,5 +1,5 @@
 ---
-title: Propiedad ColumnHeads, Access [vbaac10.chm4298]
+title: ColumnHeads Property, Access [vbaac10.chm4298]
 keywords: vbaac10.chm4298
 f1_keywords:
 - vbaac10.chm4298
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# ColumnHeads Property, Access [vbaac10.chm4298]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ColumnHeads, Access [vbaac10.chm4298]
+[ComboBox.ColumnHeads Property (Access)](http://msdn.microsoft.com/library/b2066599-043f-bcad-5f7e-31f66cb33810%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ObjectFrame.ColumnHeads Property (Access)](http://msdn.microsoft.com/library/f318f924-2629-8a7a-90b0-3ab386e50a22%28Office.15%29.aspx)
 
-
- [Propiedad ComboBox.ColumnHeads (Access)](http://msdn.microsoft.com/library/combobox.columnheads-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ObjectFrame.ColumnHeads (Access)](http://msdn.microsoft.com/library/objectframe.columnheads-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ListBox.ColumnHeads (Access)](http://msdn.microsoft.com/library/listbox.columnheads-property-access%28Office.15%29.aspx)
-
+[ListBox.ColumnHeads Property (Access)](http://msdn.microsoft.com/library/cd779d07-d35b-03b2-df3a-7934615675d0%28Office.15%29.aspx)
 

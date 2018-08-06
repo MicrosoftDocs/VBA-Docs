@@ -1,5 +1,5 @@
 ---
-title: Fila ArcTo (sección Geometry), Visio [Vis_DSS.chm3000]
+title: ArcTo Row (Geometry Section), Visio [Vis_DSS.chm3000]
 keywords: vis_dss.chm3000
 f1_keywords:
 - vis_dss.chm3000
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ArcTo Row (Geometry Section), Visio [Vis_DSS.chm3000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila ArcTo (sección Geometry), Visio [Vis_DSS.chm3000]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila ArcTo (Sección de geometría)](http://msdn.microsoft.com/library/arcto-row-geometry-section%28Office.15%29.aspx)
-
+[ArcTo Row (Geometry Section)](http://msdn.microsoft.com/library/612b605d-a703-b08f-2e8e-7bc1624b5370%28Office.15%29.aspx)
 

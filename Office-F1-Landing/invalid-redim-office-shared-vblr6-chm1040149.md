@@ -1,5 +1,5 @@
 ---
-title: ReDim no válido, Office Shared [vblr6.chm1040149]
+title: Invalid ReDim, Office Shared [vblr6.chm1040149]
 keywords: vblr6.chm1040149
 f1_keywords:
 - vblr6.chm1040149
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid ReDim, Office Shared [vblr6.chm1040149]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# ReDim no válido, Office Shared [vblr6.chm1040149]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ReDim no válido](http://msdn.microsoft.com/library/invalid-redim%28Office.15%29.aspx)
-
+[Invalid ReDim](http://msdn.microsoft.com/library/32682d86-d3c1-bf15-677c-9b0efd5e9e75%28Office.15%29.aspx)
 

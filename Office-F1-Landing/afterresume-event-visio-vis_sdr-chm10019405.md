@@ -1,5 +1,5 @@
 ---
-title: Evento AfterResume, Visio [vis_sdr.chm10019405]
+title: AfterResume Event, Visio [vis_sdr.chm10019405]
 keywords: vis_sdr.chm10019405
 f1_keywords:
 - vis_sdr.chm10019405
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AfterResume Event, Visio [vis_sdr.chm10019405]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento AfterResume, Visio [vis_sdr.chm10019405]
+[Application.AfterResume Event (Visio)](http://msdn.microsoft.com/library/73cac713-6559-ae7c-32a6-5c421302a3d9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.AfterResume Event (Visio)](http://msdn.microsoft.com/library/1d3e57de-fdbe-3029-0df2-dab0c681f3a5%28Office.15%29.aspx)
 
-
- [Evento Application.AfterResume (Visio)](http://msdn.microsoft.com/library/application.afterresume-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.AfterResume (Visio)](http://msdn.microsoft.com/library/invisibleapp.afterresume-event-visio%28Office.15%29.aspx)
 

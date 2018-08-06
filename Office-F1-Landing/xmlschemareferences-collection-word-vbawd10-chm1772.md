@@ -1,5 +1,5 @@
 ---
-title: Colección XMLSchemaReferences, Word [vbawd10.chm1772]
+title: XMLSchemaReferences Collection, Word [vbawd10.chm1772]
 keywords: vbawd10.chm1772
 f1_keywords:
 - vbawd10.chm1772
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# XMLSchemaReferences Collection, Word [vbawd10.chm1772]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección XMLSchemaReferences, Word [vbawd10.chm1772]
+[XMLSchemaReferences Object (Word)](http://msdn.microsoft.com/library/56bef973-805c-c77a-6d2a-54a39fbd1206%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[XMLSchemaReferences Object (Word)](http://msdn.microsoft.com/library/653a9f2e-ed31-072c-50c5-def8ccdbf139.aspx)
 
-
- [XMLSchemaReferences (colección)](http://msdn.microsoft.com/library/xmlschemareferences-object-word%28Office.15%29.aspx)
-
-
- [XMLSchemaReferences Object (Word)](http://msdn.microsoft.com/library/653a9f2e-ed31-072c-50c5-def8ccdbf139.aspx)
 

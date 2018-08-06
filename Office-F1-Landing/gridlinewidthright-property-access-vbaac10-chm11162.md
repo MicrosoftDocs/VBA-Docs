@@ -1,5 +1,5 @@
 ---
-title: Propiedad GridlineWidthRight, Access [vbaac10.chm11162]
+title: GridlineWidthRight Property, Access [vbaac10.chm11162]
 keywords: vbaac10.chm11162
 f1_keywords:
 - vbaac10.chm11162
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# GridlineWidthRight Property, Access [vbaac10.chm11162]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad GridlineWidthRight, Access [vbaac10.chm11162]
+[TextBox.GridlineWidthRight Property (Access)](http://msdn.microsoft.com/library/6abe0945-a6b9-72b2-e63c-1109fc7455a8%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.GridlineWidthRight Property (Access)](http://msdn.microsoft.com/library/1649cfc6-d968-8e51-de44-1ece83c7a5ca%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.GridlineWidthRight (Access)](http://msdn.microsoft.com/library/textbox.gridlinewidthright-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.GridlineWidthRight (Access)](http://msdn.microsoft.com/library/navigationcontrol.gridlinewidthright-property-access%28Office.15%29.aspx)
 

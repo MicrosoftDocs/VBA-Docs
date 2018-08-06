@@ -1,5 +1,5 @@
 ---
-title: Propiedad Height (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100117]
+title: Height Property (VBA Add-In Object Model), Office Shared [vbob6.chm100117]
 keywords: vbob6.chm100117
 f1_keywords:
 - vbob6.chm100117
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Height Property (VBA Add-In Object Model), Office Shared [vbob6.chm100117]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Height (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm100117]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Height (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/height-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Height Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/79441263-6268-ebd7-06d9-dc6b66c30a0f%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Función Len, Office Shared [vblr6.chm1008959]
+title: Len Function, Office Shared [vblr6.chm1008959]
 keywords: vblr6.chm1008959
 f1_keywords:
 - vblr6.chm1008959
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Len Function, Office Shared [vblr6.chm1008959]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Len, Office Shared [vblr6.chm1008959]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función Len](http://msdn.microsoft.com/library/len-function%28Office.15%29.aspx)
-
+[Len Function](http://msdn.microsoft.com/library/5b5b8789-90cc-ac2c-e6a7-1da1d684bd81%28Office.15%29.aspx)
 

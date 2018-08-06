@@ -1,5 +1,5 @@
 ---
-title: Propiedad OLETypeAllowed, Access [vbaac10.chm4448]
+title: OLETypeAllowed Property, Access [vbaac10.chm4448]
 keywords: vbaac10.chm4448
 f1_keywords:
 - vbaac10.chm4448
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OLETypeAllowed Property, Access [vbaac10.chm4448]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OLETypeAllowed, Access [vbaac10.chm4448]
+[ObjectFrame.OLETypeAllowed Property (Access)](http://msdn.microsoft.com/library/ca669834-9bce-057c-dfb7-c8411b26bdd1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[BoundObjectFrame.OLETypeAllowed Property (Access)](http://msdn.microsoft.com/library/6c5ec029-043e-9828-e451-cd3507850953%28Office.15%29.aspx)
 
-
- [Propiedad ObjectFrame.OLETypeAllowed (Access)](http://msdn.microsoft.com/library/objectframe.oletypeallowed-property-access%28Office.15%29.aspx)
-
-
- [Propiedad BoundObjectFrame.OLETypeAllowed (Access)](http://msdn.microsoft.com/library/boundobjectframe.oletypeallowed-property-access%28Office.15%29.aspx)
 

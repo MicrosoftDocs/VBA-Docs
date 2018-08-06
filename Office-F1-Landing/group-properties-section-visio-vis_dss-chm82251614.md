@@ -1,5 +1,5 @@
 ---
-title: Sección Group Properties, Visio [Vis_DSS.chm82251614]
+title: Group Properties Section, Visio [Vis_DSS.chm82251614]
 keywords: vis_dss.chm82251614
 f1_keywords:
 - vis_dss.chm82251614
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Sección Group Properties, Visio [Vis_DSS.chm82251614]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de propiedades de grupo](http://msdn.microsoft.com/library/group-properties-section%28Office.15%29.aspx)
-
+# Group Properties Section, Visio [Vis_DSS.chm82251614]
 

@@ -1,5 +1,5 @@
 ---
-title: Celda LineCap (sección Line Format), Visio [Vis_DSS.chm530]
+title: LineCap Cell (Line Format Section), Visio [Vis_DSS.chm530]
 keywords: vis_dss.chm530
 f1_keywords:
 - vis_dss.chm530
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineCap Cell (Line Format Section), Visio [Vis_DSS.chm530]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineCap (sección Line Format), Visio [Vis_DSS.chm530]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineCap (Sección de formato de línea)](http://msdn.microsoft.com/library/linecap-cell-line-format-section%28Office.15%29.aspx)
-
+[LineCap Cell (Line Format Section)](http://msdn.microsoft.com/library/3519216b-b6cf-2e8c-e20f-adfa373c9028%28Office.15%29.aspx)
 

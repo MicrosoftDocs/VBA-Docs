@@ -1,5 +1,5 @@
 ---
-title: Propiedad SizeRepresents, Excel [vbagr10.chm3077586]
+title: SizeRepresents Property, Excel [vbagr10.chm3077586]
 keywords: vbagr10.chm3077586
 f1_keywords:
 - vbagr10.chm3077586
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SizeRepresents Property, Excel [vbagr10.chm3077586]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SizeRepresents, Excel [vbagr10.chm3077586]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SizeRepresents (propiedad)](http://msdn.microsoft.com/library/sizerepresents-property%28Office.15%29.aspx)
-
+[SizeRepresents Property](http://msdn.microsoft.com/library/54f87d5a-e388-e1d1-8a20-bec820f3449c%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Collection (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104031]
+title: Collection Property (VBA Add-In Object Model), Office Shared [vbob6.chm104031]
 keywords: vbob6.chm104031
 f1_keywords:
 - vbob6.chm104031
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Collection Property (VBA Add-In Object Model), Office Shared [vbob6.chm104031]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Collection (modelo Objeto de complemento de VBA), Office Shared [vbob6.chm104031]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Collection (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/collection-property-vba-add-in-object-model%28Office.15%29.aspx)
-
+[Collection Property (VBA Add-In Object Model)](http://msdn.microsoft.com/library/98a29080-a9e9-9235-64aa-4bcb8ee46034%28Office.15%29.aspx)
 

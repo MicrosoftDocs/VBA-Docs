@@ -1,5 +1,5 @@
 ---
-title: Propiedad Walls, Excel [vbagr10.chm5208139]
+title: Walls Property, Excel [vbagr10.chm5208139]
 keywords: vbagr10.chm5208139
 f1_keywords:
 - vbagr10.chm5208139
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Walls Property, Excel [vbagr10.chm5208139]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Walls, Excel [vbagr10.chm5208139]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Walls (propiedad)](http://msdn.microsoft.com/library/walls-property%28Office.15%29.aspx)
-
+[Walls Property](http://msdn.microsoft.com/library/74da4bfa-7b53-80d9-a673-42a67ffab787%28Office.15%29.aspx)
 

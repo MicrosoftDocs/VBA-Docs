@@ -1,5 +1,5 @@
 ---
-title: Propiedad Style, Access [vbaac10.chm4139]
+title: Style Property, Access [vbaac10.chm4139]
 keywords: vbaac10.chm4139
 f1_keywords:
 - vbaac10.chm4139
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Style Property, Access [vbaac10.chm4139]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Style, Access [vbaac10.chm4139]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad TabControl.Style (Access)](http://msdn.microsoft.com/library/tabcontrol.style-property-access%28Office.15%29.aspx)
-
+[TabControl.Style Property (Access)](http://msdn.microsoft.com/library/de0859cd-27af-294b-da0c-ef2055180b21%28Office.15%29.aspx)
 

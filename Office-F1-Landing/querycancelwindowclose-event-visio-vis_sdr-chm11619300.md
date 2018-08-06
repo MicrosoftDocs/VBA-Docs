@@ -1,5 +1,5 @@
 ---
-title: Evento QueryCancelWindowClose, Visio [vis_sdr.chm11619300]
+title: QueryCancelWindowClose Event, Visio [vis_sdr.chm11619300]
 keywords: vis_sdr.chm11619300
 f1_keywords:
 - vis_sdr.chm11619300
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# QueryCancelWindowClose Event, Visio [vis_sdr.chm11619300]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento QueryCancelWindowClose, Visio [vis_sdr.chm11619300]
+[Window.QueryCancelWindowClose Event (Visio)](http://msdn.microsoft.com/library/42b2533a-7958-affc-c722-8b15a396908f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DrawingControl.QueryCancelWindowClose Event (Visio)](http://msdn.microsoft.com/library/31f05b80-d536-3188-92d0-f2750b79771d%28Office.15%29.aspx)
 
-
- [Evento Window.QueryCancelWindowClose (Visio)](http://msdn.microsoft.com/library/window.querycancelwindowclose-event-visio%28Office.15%29.aspx)
-
-
- [Evento DrawingControl.QueryCancelWindowClose (Visio)](http://msdn.microsoft.com/library/drawingcontrol.querycancelwindowclose-event-visio%28Office.15%29.aspx)
 

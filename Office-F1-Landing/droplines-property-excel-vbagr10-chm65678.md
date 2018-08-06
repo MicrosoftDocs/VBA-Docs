@@ -1,5 +1,5 @@
 ---
-title: Propiedad DropLines, Excel [vbagr10.chm65678]
+title: DropLines Property, Excel [vbagr10.chm65678]
 keywords: vbagr10.chm65678
 f1_keywords:
 - vbagr10.chm65678
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DropLines Property, Excel [vbagr10.chm65678]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DropLines, Excel [vbagr10.chm65678]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DropLines (propiedad)](http://msdn.microsoft.com/library/droplines-property%28Office.15%29.aspx)
-
+[DropLines Property](http://msdn.microsoft.com/library/13dd4b80-669e-94c1-d592-439129d42d56%28Office.15%29.aspx)
 

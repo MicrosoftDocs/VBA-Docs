@@ -1,5 +1,5 @@
 ---
-title: Atributo no válido en Sub, Function o Property, Office Shared [vblr6.chm1040147]
+title: Invalid attribute in Sub, Function, or Property, Office Shared [vblr6.chm1040147]
 keywords: vblr6.chm1040147
 f1_keywords:
 - vblr6.chm1040147
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Invalid attribute in Sub, Function, or Property, Office Shared [vblr6.chm1040147]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Atributo no válido en Sub, Function o Property, Office Shared [vblr6.chm1040147]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Atributo no válido en Sub, Function o Property](http://msdn.microsoft.com/library/invalid-attribute-in-sub-function-or-property%28Office.15%29.aspx)
-
+[Invalid attribute in Sub, Function, or Property](http://msdn.microsoft.com/library/86a5ff38-4f00-060f-5087-453758f27e68%28Office.15%29.aspx)
 

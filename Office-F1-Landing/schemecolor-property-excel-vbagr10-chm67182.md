@@ -1,5 +1,5 @@
 ---
-title: Propiedad SchemeColor, Excel [vbagr10.chm67182]
+title: SchemeColor Property, Excel [vbagr10.chm67182]
 keywords: vbagr10.chm67182
 f1_keywords:
 - vbagr10.chm67182
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SchemeColor Property, Excel [vbagr10.chm67182]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad SchemeColor, Excel [vbagr10.chm67182]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [SchemeColor (propiedad)](http://msdn.microsoft.com/library/schemecolor-property%28Office.15%29.aspx)
-
+[SchemeColor Property](http://msdn.microsoft.com/library/a90b4570-dae3-4ca1-563a-0467efbf9bca%28Office.15%29.aspx)
 

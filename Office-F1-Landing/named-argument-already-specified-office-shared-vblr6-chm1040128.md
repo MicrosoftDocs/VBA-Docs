@@ -1,5 +1,5 @@
 ---
-title: El argumento nombrado ya se ha especificado, Office Shared [vblr6.chm1040128]
+title: Named argument already specified, Office Shared [vblr6.chm1040128]
 keywords: vblr6.chm1040128
 f1_keywords:
 - vblr6.chm1040128
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Named argument already specified, Office Shared [vblr6.chm1040128]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El argumento nombrado ya se ha especificado, Office Shared [vblr6.chm1040128]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El argumento con nombre ya se ha especificado](http://msdn.microsoft.com/library/named-argument-already-specified%28Office.15%29.aspx)
-
+[Named argument already specified](http://msdn.microsoft.com/library/8fa1e0f1-2484-8344-038c-438ab21d2b71%28Office.15%29.aspx)
 

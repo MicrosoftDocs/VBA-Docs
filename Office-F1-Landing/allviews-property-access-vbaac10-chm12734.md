@@ -1,5 +1,5 @@
 ---
-title: Propiedad AllViews, Access [vbaac10.chm12734]
+title: AllViews Property, Access [vbaac10.chm12734]
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AllViews Property, Access [vbaac10.chm12734]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AllViews, Access [vbaac10.chm12734]
+[CurrentData.AllViews Property (Access)](http://msdn.microsoft.com/library/fab56178-86bd-18fa-8742-1749fd1c7707%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CodeData.AllViews Property (Access)](http://msdn.microsoft.com/library/9079dc15-b433-87c9-dad1-f726ffd0be28%28Office.15%29.aspx)
 
-
- [Propiedad CurrentData.AllViews (Access)](http://msdn.microsoft.com/library/currentdata.allviews-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CodeData.AllViews (Access)](http://msdn.microsoft.com/library/codedata.allviews-property-access%28Office.15%29.aspx)
 

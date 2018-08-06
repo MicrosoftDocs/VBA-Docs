@@ -1,5 +1,5 @@
 ---
-title: Propiedad Parameter, Office Shared [vbaof11.chm5019]
+title: Parameter Property, Office Shared [vbaof11.chm5019]
 keywords: vbaof11.chm5019
 f1_keywords:
 - vbaof11.chm5019
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# Parameter Property, Office Shared [vbaof11.chm5019]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Parameter, Office Shared [vbaof11.chm5019]
+[CommandBarButton.Parameter Property (Office)](http://msdn.microsoft.com/library/582718f1-8274-9862-c9a8-86bcd1c528b7%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarComboBox.Parameter Property (Office)](http://msdn.microsoft.com/library/b5019fba-5124-5d9c-7abe-db10df32078b%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarButton.Parameter (Office)](http://msdn.microsoft.com/library/commandbarbutton.parameter-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarComboBox.Parameter (Office)](http://msdn.microsoft.com/library/commandbarcombobox.parameter-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.Parameter (Office)](http://msdn.microsoft.com/library/commandbarcontrol.parameter-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarPopup.Parameter (Office)](http://msdn.microsoft.com/library/commandbarpopup.parameter-property-office%28Office.15%29.aspx)
-
+[CommandBarControl.Parameter Property (Office)](http://msdn.microsoft.com/library/6a1fd988-0c3f-3945-307f-e4e647c3642c%28Office.15%29.aspx)
+[CommandBarPopup.Parameter Property (Office)](http://msdn.microsoft.com/library/3ad7783e-3afd-0019-1cf9-eae93992479b%28Office.15%29.aspx)
 

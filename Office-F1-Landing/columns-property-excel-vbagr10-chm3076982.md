@@ -1,5 +1,5 @@
 ---
-title: Propiedad Columns, Excel [vbagr10.chm3076982]
+title: Columns Property, Excel [vbagr10.chm3076982]
 keywords: vbagr10.chm3076982
 f1_keywords:
 - vbagr10.chm3076982
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Columns Property, Excel [vbagr10.chm3076982]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Columns, Excel [vbagr10.chm3076982]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Columns (propiedad)](http://msdn.microsoft.com/library/columns-property-1%28Office.15%29.aspx)
-
+[Columns Property](http://msdn.microsoft.com/library/7c5bd414-aa86-49e6-c853-0fa0c56d11a7%28Office.15%29.aspx)
 

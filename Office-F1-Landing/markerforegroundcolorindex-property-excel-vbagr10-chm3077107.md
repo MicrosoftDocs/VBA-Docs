@@ -1,5 +1,5 @@
 ---
-title: Propiedad MarkerForegroundColorIndex, Excel [vbagr10.chm3077107]
+title: MarkerForegroundColorIndex Property, Excel [vbagr10.chm3077107]
 keywords: vbagr10.chm3077107
 f1_keywords:
 - vbagr10.chm3077107
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MarkerForegroundColorIndex Property, Excel [vbagr10.chm3077107]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MarkerForegroundColorIndex, Excel [vbagr10.chm3077107]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [MarkerForegroundColorIndex (propiedad)](http://msdn.microsoft.com/library/markerforegroundcolorindex-property%28Office.15%29.aspx)
-
+[MarkerForegroundColorIndex Property](http://msdn.microsoft.com/library/82f8a746-821d-1349-be7a-89211387a97e%28Office.15%29.aspx)
 

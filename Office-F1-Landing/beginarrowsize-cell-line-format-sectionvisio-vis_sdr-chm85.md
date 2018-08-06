@@ -1,5 +1,5 @@
 ---
-title: Celda BeginArrowSize (sección Line Format), Visio [vis_sdr.chm85]
+title: BeginArrowSize Cell (Line Format Section), Visio [vis_sdr.chm85]
 keywords: vis_sdr.chm85
 f1_keywords:
 - vis_sdr.chm85
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BeginArrowSize Cell (Line Format Section), Visio [vis_sdr.chm85]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda BeginArrowSize (sección Line Format), Visio [vis_sdr.chm85]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda BeginArrowSize (Sección de formato de línea)](http://msdn.microsoft.com/library/beginarrowsize-cell-line-format-section%28Office.15%29.aspx)
-
+[BeginArrowSize Cell (Line Format Section)](http://msdn.microsoft.com/library/bfddb829-6e13-7d74-b9b9-2cb5c0937bae%28Office.15%29.aspx)
 

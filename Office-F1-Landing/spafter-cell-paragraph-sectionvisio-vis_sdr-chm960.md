@@ -1,5 +1,5 @@
 ---
-title: Celda SpAfter (sección Paragraph), Visio [vis_sdr.chm960]
+title: SpAfter Cell (Paragraph Section), Visio [vis_sdr.chm960]
 keywords: vis_sdr.chm960
 f1_keywords:
 - vis_sdr.chm960
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# SpAfter Cell (Paragraph Section), Visio [vis_sdr.chm960]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda SpAfter (sección Paragraph), Visio [vis_sdr.chm960]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda SpAfter (Sección de párrafo)](http://msdn.microsoft.com/library/spafter-cell-paragraph-section%28Office.15%29.aspx)
-
+[SpAfter Cell (Paragraph Section)](http://msdn.microsoft.com/library/2dd56ae5-300e-ba09-a73a-83c2b6c2a0ef%28Office.15%29.aspx)
 

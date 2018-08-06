@@ -1,5 +1,5 @@
 ---
-title: Celda LineToLineY (sección Page Layout), Visio [Vis_DSS.chm82251648]
+title: LineToLineY Cell (Page Layout Section), Visio [Vis_DSS.chm82251648]
 keywords: vis_dss.chm82251648
 f1_keywords:
 - vis_dss.chm82251648
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineToLineY Cell (Page Layout Section), Visio [Vis_DSS.chm82251648]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineToLineY (sección Page Layout), Visio [Vis_DSS.chm82251648]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineToLineY (Sección de diseño de página)](http://msdn.microsoft.com/library/linetoliney-cell-page-layout-section%28Office.15%29.aspx)
-
+[LineToLineY Cell (Page Layout Section)](http://msdn.microsoft.com/library/db9a8232-25c5-7087-2ae9-50470d0cf16e%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Error inesperado, saliendo, Office Shared [vblr6.chm50001]
+title: Unexpected error; quitting, Office Shared [vblr6.chm50001]
 keywords: vblr6.chm50001
 f1_keywords:
 - vblr6.chm50001
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Unexpected error; quitting, Office Shared [vblr6.chm50001]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Error inesperado, saliendo, Office Shared [vblr6.chm50001]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Error inesperado; saliendo](http://msdn.microsoft.com/library/unexpected-error;-quitting%28Office.15%29.aspx)
-
+[Unexpected error; quitting](http://msdn.microsoft.com/library/2f82b216-8afe-da33-42fa-e40357fceee6%28Office.15%29.aspx)
 

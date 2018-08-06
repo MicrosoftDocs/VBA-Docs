@@ -1,5 +1,5 @@
 ---
-title: Propiedad FontName, Access [vbaac10.chm10472]
+title: FontName Property, Access [vbaac10.chm10472]
 keywords: vbaac10.chm10472
 f1_keywords:
 - vbaac10.chm10472
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# FontName Property, Access [vbaac10.chm10472]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FontName, Access [vbaac10.chm10472]
+[CommandButton.FontName Property (Access)](http://msdn.microsoft.com/library/0e1099d3-92fb-a077-9148-e2f64305faee%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.FontName Property (Access)](http://msdn.microsoft.com/library/52fe8d6b-9631-76b3-f210-e3b98c405549%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.FontName (Access)](http://msdn.microsoft.com/library/commandbutton.fontname-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.FontName (Access)](http://msdn.microsoft.com/library/navigationbutton.fontname-property-access%28Office.15%29.aspx)
 

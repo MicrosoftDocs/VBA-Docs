@@ -1,5 +1,5 @@
 ---
-title: Propiedad DataTable, Word [vbawd10.chm79364164]
+title: DataTable Property, Word [vbawd10.chm79364164]
 keywords: vbawd10.chm79364164
 f1_keywords:
 - vbawd10.chm79364164
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DataTable Property, Word [vbawd10.chm79364164]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DataTable, Word [vbawd10.chm79364164]
+[Chart.DataTable Property (Word)](http://msdn.microsoft.com/library/1cae3588-5bc4-5ec4-c3f3-cc642d0755a6%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.SeriesCollection Method (Word)](http://msdn.microsoft.com/library/b9688aef-839a-b45b-1596-d8f02225aa05%28Office.15%29.aspx)
 
-
- [Propiedad Chart.DataTable (Word)](http://msdn.microsoft.com/library/chart.datatable-property-word%28Office.15%29.aspx)
-
-
- [Método Chart.SeriesCollection (Word)](http://msdn.microsoft.com/library/chart.seriescollection-method-word%28Office.15%29.aspx)
 

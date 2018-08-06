@@ -1,5 +1,5 @@
 ---
-title: Evento DataRecordsetChanged, Visio [vis_sdr.chm10062025]
+title: DataRecordsetChanged Event, Visio [vis_sdr.chm10062025]
 keywords: vis_sdr.chm10062025
 f1_keywords:
 - vis_sdr.chm10062025
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DataRecordsetChanged Event, Visio [vis_sdr.chm10062025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DataRecordsetChanged, Visio [vis_sdr.chm10062025]
+[InvisibleApp.DataRecordsetChanged Event (Visio)](http://msdn.microsoft.com/library/da80f525-ccf6-3d9b-789c-a4dd866ebf4c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.DataRecordsetChanged Event (Visio)](http://msdn.microsoft.com/library/8be61b1a-3a3c-5880-47bc-e2cac9bb60f9%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.DataRecordsetChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.datarecordsetchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.DataRecordsetChanged (Visio)](http://msdn.microsoft.com/library/application.datarecordsetchanged-event-visio%28Office.15%29.aspx)
 

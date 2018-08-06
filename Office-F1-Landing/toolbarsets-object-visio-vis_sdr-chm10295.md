@@ -1,5 +1,5 @@
 ---
-title: Objeto ToolbarSets, Visio [vis_sdr.chm10295]
+title: ToolbarSets Object, Visio [vis_sdr.chm10295]
 keywords: vis_sdr.chm10295
 f1_keywords:
 - vis_sdr.chm10295
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ToolbarSets Object, Visio [vis_sdr.chm10295]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto ToolbarSets, Visio [vis_sdr.chm10295]
+[ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/413b8169-1840-a2c4-4552-9343b3f64035.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/ddf79048-6585-81ab-b1c6-d7c4b0f0ff1b%28Office.15%29.aspx)
 
-
- [ToolbarSets Object (Visio)](http://msdn.microsoft.com/library/413b8169-1840-a2c4-4552-9343b3f64035.aspx)
-
-
- [Objeto ToolbarSets (Visio)](http://msdn.microsoft.com/library/toolbarsets-object-visio%28Office.15%29.aspx)
 

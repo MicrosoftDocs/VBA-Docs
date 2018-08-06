@@ -1,5 +1,5 @@
 ---
-title: Celda LineAdjustTo (sección Page Layout), Visio [Vis_DSS.chm82251888]
+title: LineAdjustTo Cell (Page Layout Section), Visio [Vis_DSS.chm82251888]
 keywords: vis_dss.chm82251888
 f1_keywords:
 - vis_dss.chm82251888
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineAdjustTo Cell (Page Layout Section), Visio [Vis_DSS.chm82251888]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineAdjustTo (sección Page Layout), Visio [Vis_DSS.chm82251888]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineAdjustTo (Sección de diseño de página)](http://msdn.microsoft.com/library/lineadjustto-cell-page-layout-section%28Office.15%29.aspx)
-
+[LineAdjustTo Cell (Page Layout Section)](http://msdn.microsoft.com/library/81cd9670-8a6f-824b-528c-e9b88c86f525%28Office.15%29.aspx)
 

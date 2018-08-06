@@ -1,5 +1,5 @@
 ---
-title: Celda Rounding (sección Line Format), Visio [Vis_DSS.chm860]
+title: Rounding Cell (Line Format Section), Visio [Vis_DSS.chm860]
 keywords: vis_dss.chm860
 f1_keywords:
 - vis_dss.chm860
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Rounding Cell (Line Format Section), Visio [Vis_DSS.chm860]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Rounding (sección Line Format), Visio [Vis_DSS.chm860]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Rounding (Sección de formato de línea)](http://msdn.microsoft.com/library/rounding-cell-line-format-section%28Office.15%29.aspx)
-
+[Rounding Cell (Line Format Section)](http://msdn.microsoft.com/library/c44457ca-997a-5315-44dd-4218e4203550%28Office.15%29.aspx)
 

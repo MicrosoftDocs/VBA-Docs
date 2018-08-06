@@ -1,5 +1,5 @@
 ---
-title: Propiedad FitToPage, Access [vbaac10.chm5789]
+title: FitToPage Property, Access [vbaac10.chm5789]
 keywords: vbaac10.chm5789
 f1_keywords:
 - vbaac10.chm5789
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# FitToPage Property, Access [vbaac10.chm5789]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad FitToPage, Access [vbaac10.chm5789]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Report.FitToPage (Access)](http://msdn.microsoft.com/library/report.fittopage-property-access%28Office.15%29.aspx)
-
+[Report.FitToPage Property (Access)](http://msdn.microsoft.com/library/e2210e28-273b-8eb5-0229-5f6513cf5ae2%28Office.15%29.aspx)
 

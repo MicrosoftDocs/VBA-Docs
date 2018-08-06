@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# 'Item' has an old file format. When saved, it will be saved in a newer format., Office Shared [vblr6.chm1117726]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# 'Item' tiene un formato de archivo antiguo. Al guardarse, se guardará en un formato más reciente, Office Shared [vblr6.chm1117726]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- ['Item' tiene un formato de archivo anterior. Cuando se guarde, se guardará en un formato más reciente.](http://msdn.microsoft.com/library/-item-has-an-old-file-format.-when-saved-it-will-be-saved-in-a-newer-format.%28Office.15%29.aspx)
-
+['Item' has an old file format. When saved, it will be saved in a newer format.](http://msdn.microsoft.com/library/3b2e8ccd-6ae3-7c0d-e73d-cc13ac0f96bf%28Office.15%29.aspx)
 

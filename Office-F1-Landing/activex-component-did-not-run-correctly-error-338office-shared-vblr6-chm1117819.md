@@ -1,5 +1,5 @@
 ---
-title: El componente de ActiveX no se inició correctamente (error 338), Office Shared [vblr6.chm1117819]
+title: ActiveX Component did not run correctly (Error 338), Office Shared [vblr6.chm1117819]
 keywords: vblr6.chm1117819
 f1_keywords:
 - vblr6.chm1117819
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ActiveX Component did not run correctly (Error 338), Office Shared [vblr6.chm1117819]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El componente de ActiveX no se inició correctamente (error 338), Office Shared [vblr6.chm1117819]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El componente ActiveX no se ejecutó correctamente (error 338)](http://msdn.microsoft.com/library/activex-component-did-not-run-correctly-error-338%28Office.15%29.aspx)
-
+[ActiveX Component did not run correctly (Error 338)](http://msdn.microsoft.com/library/de5ddf6c-7749-93d4-49a4-55528ea636c8%28Office.15%29.aspx)
 

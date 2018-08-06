@@ -1,5 +1,5 @@
 ---
-title: Objeto ChartArea, Excel [vbagr10.chm131211]
+title: ChartArea Object, Excel [vbagr10.chm131211]
 keywords: vbagr10.chm131211
 f1_keywords:
 - vbagr10.chm131211
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ChartArea Object, Excel [vbagr10.chm131211]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto ChartArea, Excel [vbagr10.chm131211]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [ChartArea (objeto)](http://msdn.microsoft.com/library/chartarea-object%28Office.15%29.aspx)
-
+[ChartArea Object](http://msdn.microsoft.com/library/85fcf460-6b2b-142f-ce4a-4a74e9d8efd3%28Office.15%29.aspx)
 

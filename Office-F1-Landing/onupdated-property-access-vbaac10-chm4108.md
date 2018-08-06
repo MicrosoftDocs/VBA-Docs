@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnUpdated, Access [vbaac10.chm4108]
+title: OnUpdated Property, Access [vbaac10.chm4108]
 keywords: vbaac10.chm4108
 f1_keywords:
 - vbaac10.chm4108
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# OnUpdated Property, Access [vbaac10.chm4108]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnUpdated, Access [vbaac10.chm4108]
+[BoundObjectFrame.OnUpdated Property (Access)](http://msdn.microsoft.com/library/1af7adce-8d59-d8ac-cd3a-102266e55618%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.OnUpdated Property (Access)](http://msdn.microsoft.com/library/6cd30c42-d645-6ca8-5c9e-7a5951283fd9%28Office.15%29.aspx)
 
-
- [Propiedad BoundObjectFrame.OnUpdated (Access)](http://msdn.microsoft.com/library/boundobjectframe.onupdated-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.OnUpdated (Access)](http://msdn.microsoft.com/library/customcontrol.onupdated-property-access%28Office.15%29.aspx)
-
-
- [Propiedad WebBrowserControl.OnUpdated (Access)](http://msdn.microsoft.com/library/webbrowsercontrol.onupdated-property-access%28Office.15%29.aspx)
-
- [Propiedad ObjectFrame.OnUpdated (Access)](http://msdn.microsoft.com/library/objectframe.onupdated-property-access%28Office.15%29.aspx)
-
+[WebBrowserControl.OnUpdated Property (Access)](http://msdn.microsoft.com/library/81b6208e-4034-41ba-8694-c75f0155d562%28Office.15%29.aspx)
+[ObjectFrame.OnUpdated Property (Access)](http://msdn.microsoft.com/library/d2239f45-959b-beb7-fe9e-c9a9a257dd4b%28Office.15%29.aspx)
 

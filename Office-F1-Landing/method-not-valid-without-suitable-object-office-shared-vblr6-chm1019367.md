@@ -1,5 +1,5 @@
 ---
-title: Método no válido sin objeto adecuado, Office Shared [vblr6.chm1019367]
+title: Method not valid without suitable object, Office Shared [vblr6.chm1019367]
 keywords: vblr6.chm1019367
 f1_keywords:
 - vblr6.chm1019367
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Method not valid without suitable object, Office Shared [vblr6.chm1019367]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Método no válido sin objeto adecuado, Office Shared [vblr6.chm1019367]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Método no válido sin objeto adecuado](http://msdn.microsoft.com/library/method-not-valid-without-suitable-object%28Office.15%29.aspx)
-
+[Method not valid without suitable object](http://msdn.microsoft.com/library/a7dc857a-e803-35d1-d7df-d2b9a3c79652%28Office.15%29.aspx)
 

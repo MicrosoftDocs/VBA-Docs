@@ -1,5 +1,5 @@
 ---
-title: Celda Color (sección Revisor), Visio [Vis_DSS.chm60032]
+title: Color Cell (Reviewer Section), Visio [Vis_DSS.chm60032]
 keywords: vis_dss.chm60032
 f1_keywords:
 - vis_dss.chm60032
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Color Cell (Reviewer Section), Visio [Vis_DSS.chm60032]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Color (sección Revisor), Visio [Vis_DSS.chm60032]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Color (Sección de revisor)](http://msdn.microsoft.com/library/color-cell-reviewer-section%28Office.15%29.aspx)
-
+[Color Cell (Reviewer Section)](http://msdn.microsoft.com/library/c1e3d7bf-e6b6-65f1-ae40-80c8ba4821cd%28Office.15%29.aspx)
 

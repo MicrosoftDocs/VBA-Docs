@@ -1,5 +1,5 @@
 ---
-title: Evento ViewChanged, Visio [vis_sdr.chm10019260]
+title: ViewChanged Event, Visio [vis_sdr.chm10019260]
 keywords: vis_sdr.chm10019260
 f1_keywords:
 - vis_sdr.chm10019260
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ViewChanged Event, Visio [vis_sdr.chm10019260]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento ViewChanged, Visio [vis_sdr.chm10019260]
+[InvisibleApp.ViewChanged Event (Visio)](http://msdn.microsoft.com/library/6c69423e-50fa-af13-b198-bb628df17440%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.ViewChanged Event (Visio)](http://msdn.microsoft.com/library/2cb8dbfb-100c-1fe3-05c5-bb9a2d97075a%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.ViewChanged (Visio)](http://msdn.microsoft.com/library/invisibleapp.viewchanged-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.ViewChanged (Visio)](http://msdn.microsoft.com/library/application.viewchanged-event-visio%28Office.15%29.aspx)
 

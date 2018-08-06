@@ -1,5 +1,5 @@
 ---
-title: Celda Bullet (sección Paragraph), Visio [Vis_DSS.chm130]
+title: Bullet Cell (Paragraph Section), Visio [Vis_DSS.chm130]
 keywords: vis_dss.chm130
 f1_keywords:
 - vis_dss.chm130
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Bullet Cell (Paragraph Section), Visio [Vis_DSS.chm130]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda Bullet (sección Paragraph), Visio [Vis_DSS.chm130]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda Bullet (Sección de párrafo)](http://msdn.microsoft.com/library/bullet-cell-paragraph-section%28Office.15%29.aspx)
-
+[Bullet Cell (Paragraph Section)](http://msdn.microsoft.com/library/124a5ee1-6dd1-d17d-6f0e-dbaa5d95d9cd%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad HelpContextId, Office Shared [vbaof11.chm5010]
+title: HelpContextId Property, Office Shared [vbaof11.chm5010]
 keywords: vbaof11.chm5010
 f1_keywords:
 - vbaof11.chm5010
@@ -9,21 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
+# HelpContextId Property, Office Shared [vbaof11.chm5010]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HelpContextId, Office Shared [vbaof11.chm5010]
+[CommandBarComboBox.HelpContextId Property (Office)](http://msdn.microsoft.com/library/3b34572b-af1b-a4fc-a98e-23d51315a077%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandBarControl.HelpContextId Property (Office)](http://msdn.microsoft.com/library/56f41107-92ad-7cb5-f522-7a338f0d8cf9%28Office.15%29.aspx)
 
-
- [Propiedad CommandBarComboBox.HelpContextId (Office)](http://msdn.microsoft.com/library/commandbarcombobox.helpcontextid-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarControl.HelpContextId (Office)](http://msdn.microsoft.com/library/commandbarcontrol.helpcontextid-property-office%28Office.15%29.aspx)
-
-
- [Propiedad CommandBarButton.HelpContextId (Office)](http://msdn.microsoft.com/library/commandbarbutton.helpcontextid-property-office%28Office.15%29.aspx)
-
- [Propiedad CommandBarPopup.HelpContextId (Office)](http://msdn.microsoft.com/library/commandbarpopup.helpcontextid-property-office%28Office.15%29.aspx)
-
+[CommandBarButton.HelpContextId Property (Office)](http://msdn.microsoft.com/library/2e4f33db-7143-dd8d-65b3-d0c993f2e966%28Office.15%29.aspx)
+[CommandBarPopup.HelpContextId Property (Office)](http://msdn.microsoft.com/library/b07d39b7-9fad-51dc-b093-de88cd1ea905%28Office.15%29.aspx)
 

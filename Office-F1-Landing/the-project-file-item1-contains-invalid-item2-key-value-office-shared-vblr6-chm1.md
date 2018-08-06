@@ -1,5 +1,5 @@
 ---
-title: El archivo del proyecto 'item1' contiene un valor de clave 'item2' no válido, Office Shared [vblr6.chm1117770]
+title: The project file 'item1' contains invalid 'item2' key value, Office Shared [vblr6.chm1117770]
 keywords: vblr6.chm1117770
 f1_keywords:
 - vblr6.chm1117770
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The project file 'item1' contains invalid 'item2' key value, Office Shared [vblr6.chm1117770]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El archivo del proyecto 'item1' contiene un valor de clave 'item2' no válido, Office Shared [vblr6.chm1117770]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El archivo de proyecto 'item1' contiene el valor clave no válido 'item2'](http://msdn.microsoft.com/library/the-project-file-item1-contains-invalid-item2-key-value%28Office.15%29.aspx)
-
+[The project file 'item1' contains invalid 'item2' key value](http://msdn.microsoft.com/library/e18934a9-0abb-0964-6730-ab6fa7b5f838%28Office.15%29.aspx)
 

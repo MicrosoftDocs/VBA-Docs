@@ -1,5 +1,5 @@
 ---
-title: Control TabStrip, Office Shared [fm20.chm5224987]
+title: TabStrip Control, Office Shared [fm20.chm5224987]
 keywords: fm20.chm5224987
 f1_keywords:
 - fm20.chm5224987
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TabStrip Control, Office Shared [fm20.chm5224987]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Control TabStrip, Office Shared [fm20.chm5224987]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control TabStrip](http://msdn.microsoft.com/library/tabstrip-control%28Office.15%29.aspx)
-
+[TabStrip Control](http://msdn.microsoft.com/library/281a6f4a-059b-5d34-3855-f4d07b436ee4%28Office.15%29.aspx)
 

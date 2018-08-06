@@ -1,5 +1,5 @@
 ---
-title: Objeto DisplayUnitLabel, Excel [vbagr10.chm5251584]
+title: DisplayUnitLabel Object, Excel [vbagr10.chm5251584]
 keywords: vbagr10.chm5251584
 f1_keywords:
 - vbagr10.chm5251584
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayUnitLabel Object, Excel [vbagr10.chm5251584]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto DisplayUnitLabel, Excel [vbagr10.chm5251584]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayUnitLabel (objeto)](http://msdn.microsoft.com/library/displayunitlabel-object%28Office.15%29.aspx)
-
+[DisplayUnitLabel Object](http://msdn.microsoft.com/library/1d8f0340-1760-295a-2c4e-92709d1deabc%28Office.15%29.aspx)
 

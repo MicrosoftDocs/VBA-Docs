@@ -1,5 +1,5 @@
 ---
-title: Función REWIDEN, Visio [Vis_DSS.chm60110]
+title: REWIDEN Function, Visio [Vis_DSS.chm60110]
 keywords: vis_dss.chm60110
 f1_keywords:
 - vis_dss.chm60110
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# REWIDEN Function, Visio [Vis_DSS.chm60110]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función REWIDEN, Visio [Vis_DSS.chm60110]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [REWIDEN (función)](http://msdn.microsoft.com/library/rewiden-function%28Office.15%29.aspx)
-
+[REWIDEN Function](http://msdn.microsoft.com/library/c20842cd-86b1-83fa-49ba-118936013b6f%28Office.15%29.aspx)
 

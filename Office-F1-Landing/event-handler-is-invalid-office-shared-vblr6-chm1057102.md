@@ -1,5 +1,5 @@
 ---
-title: Controlador de eventos no válido, Office Shared [vblr6.chm1057102]
+title: Event handler is invalid, Office Shared [vblr6.chm1057102]
 keywords: vblr6.chm1057102
 f1_keywords:
 - vblr6.chm1057102
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Event handler is invalid, Office Shared [vblr6.chm1057102]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Controlador de eventos no válido, Office Shared [vblr6.chm1057102]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El controlador de eventos no es válido](http://msdn.microsoft.com/library/event-handler-is-invalid%28Office.15%29.aspx)
-
+[Event handler is invalid](http://msdn.microsoft.com/library/98127960-e85a-0d89-ac7c-8e0f6bff8adf%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad DatasheetFontName, Access [vbaac10.chm13396]
+title: DatasheetFontName Property, Access [vbaac10.chm13396]
 keywords: vbaac10.chm13396
 f1_keywords:
 - vbaac10.chm13396
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DatasheetFontName Property, Access [vbaac10.chm13396]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DatasheetFontName, Access [vbaac10.chm13396]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control Cuadro de lista](http://msdn.microsoft.com/library/list-box-control%28Office.15%29.aspx)
-
+[List Box Control](http://msdn.microsoft.com/library/279e2f07-9f6d-df03-812c-d232cdeb6fd7%28Office.15%29.aspx)
 

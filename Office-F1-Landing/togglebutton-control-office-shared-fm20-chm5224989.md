@@ -1,5 +1,5 @@
 ---
-title: Celda ToggleButton, Office Shared [fm20.chm5224989]
+title: ToggleButton Control, Office Shared [fm20.chm5224989]
 keywords: fm20.chm5224989
 f1_keywords:
 - fm20.chm5224989
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ToggleButton Control, Office Shared [fm20.chm5224989]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ToggleButton, Office Shared [fm20.chm5224989]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Control ToggleButton](http://msdn.microsoft.com/library/togglebutton-control%28Office.15%29.aspx)
-
+[ToggleButton Control](http://msdn.microsoft.com/library/7ab852ce-0339-7c8b-1340-f5727cef0f56%28Office.15%29.aspx)
 

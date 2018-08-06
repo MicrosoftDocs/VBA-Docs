@@ -1,5 +1,5 @@
 ---
-title: Propiedad AutoResize, Access [vbaac10.chm4277]
+title: AutoResize Property, Access [vbaac10.chm4277]
 keywords: vbaac10.chm4277
 f1_keywords:
 - vbaac10.chm4277
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AutoResize Property, Access [vbaac10.chm4277]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad AutoResize, Access [vbaac10.chm4277]
+[Form.AutoResize Property (Access)](http://msdn.microsoft.com/library/5ae98bc8-fa33-7e4b-31c8-ba22aa026a45%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Report.AutoResize Property (Access)](http://msdn.microsoft.com/library/bf18b1b2-aba6-d4fe-7916-de821c76fbb4%28Office.15%29.aspx)
 
-
- [Propiedad Form.AutoResize (Access)](http://msdn.microsoft.com/library/form.autoresize-property-access%28Office.15%29.aspx)
-
-
- [Propiedad Report.AutoResize (Access)](http://msdn.microsoft.com/library/report.autoresize-property-access%28Office.15%29.aspx)
 

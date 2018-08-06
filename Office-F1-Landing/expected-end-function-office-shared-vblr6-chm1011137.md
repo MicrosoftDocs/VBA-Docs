@@ -1,5 +1,5 @@
 ---
-title: Función Expected End, Office Shared [vblr6.chm1011137]
+title: Expected End Function, Office Shared [vblr6.chm1011137]
 keywords: vblr6.chm1011137
 f1_keywords:
 - vblr6.chm1011137
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Expected End Function, Office Shared [vblr6.chm1011137]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función Expected End, Office Shared [vblr6.chm1011137]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Función End prevista](http://msdn.microsoft.com/library/expected-end-function%28Office.15%29.aspx)
-
+[Expected End Function](http://msdn.microsoft.com/library/d70117d2-4568-d43b-35ac-9ec9ad861f02%28Office.15%29.aspx)
 

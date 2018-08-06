@@ -1,5 +1,5 @@
 ---
-title: Evento DocumentSavedAs, Visio [vis_sdr.chm10019140]
+title: DocumentSavedAs Event, Visio [vis_sdr.chm10019140]
 keywords: vis_sdr.chm10019140
 f1_keywords:
 - vis_sdr.chm10019140
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# DocumentSavedAs Event, Visio [vis_sdr.chm10019140]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento DocumentSavedAs, Visio [vis_sdr.chm10019140]
+[InvisibleApp.DocumentSavedAs Event (Visio)](http://msdn.microsoft.com/library/facf8648-a0fe-613e-497e-9bb0c6f6e716%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Application.DocumentSavedAs Event (Visio)](http://msdn.microsoft.com/library/f03e5fe2-04da-8324-fc0a-be16daf3ad30%28Office.15%29.aspx)
 
-
- [Evento InvisibleApp.DocumentSavedAs (Visio)](http://msdn.microsoft.com/library/invisibleapp.documentsavedas-event-visio%28Office.15%29.aspx)
-
-
- [Evento Application.DocumentSavedAs (Visio)](http://msdn.microsoft.com/library/application.documentsavedas-event-visio%28Office.15%29.aspx)
 

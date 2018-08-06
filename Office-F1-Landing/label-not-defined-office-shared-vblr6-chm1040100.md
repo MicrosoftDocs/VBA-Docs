@@ -1,5 +1,5 @@
 ---
-title: Etiqueta no definida, Office Shared [vblr6.chm1040100]
+title: Label not defined, Office Shared [vblr6.chm1040100]
 keywords: vblr6.chm1040100
 f1_keywords:
 - vblr6.chm1040100
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Label not defined, Office Shared [vblr6.chm1040100]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Etiqueta no definida, Office Shared [vblr6.chm1040100]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Etiqueta no definida](http://msdn.microsoft.com/library/label-not-defined%28Office.15%29.aspx)
-
+[Label not defined](http://msdn.microsoft.com/library/0420c1d7-d2d3-2df3-2157-63834d3ac0d2%28Office.15%29.aspx)
 

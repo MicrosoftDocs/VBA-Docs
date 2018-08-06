@@ -1,5 +1,5 @@
 ---
-title: Propiedad PlotBy, Excel [vbaxl10.chm871091]
+title: PlotBy Property, Excel [vbaxl10.chm871091]
 keywords: vbaxl10.chm871091
 f1_keywords:
 - vbaxl10.chm871091
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# PlotBy Property, Excel [vbaxl10.chm871091]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PlotBy, Excel [vbaxl10.chm871091]
+[SparklineGroup.PlotBy Property (Excel)](http://msdn.microsoft.com/library/217c6de7-fabf-2642-96a7-aec82f6609a9%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Chart.PlotBy Property (Excel)](http://msdn.microsoft.com/library/69ff0fbe-7954-6808-68fa-cc92b2851dd8%28Office.15%29.aspx)
 
-
- [Propiedad SparklineGroup.PlotBy (Excel)](http://msdn.microsoft.com/library/sparklinegroup.plotby-property-excel%28Office.15%29.aspx)
-
-
- [Propiedad Chart.PlotBy (Excel)](http://msdn.microsoft.com/library/chart.plotby-property-excel%28Office.15%29.aspx)
 

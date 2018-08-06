@@ -1,5 +1,5 @@
 ---
-title: Propiedad Stat, Visio [vis_sdr.chm18514420]
+title: Stat Property, Visio [vis_sdr.chm18514420]
 keywords: vis_sdr.chm18514420
 f1_keywords:
 - vis_sdr.chm18514420
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Stat Property, Visio [vis_sdr.chm18514420]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Stat, Visio [vis_sdr.chm18514420]
+[ValidationIssues.Stat Property (Visio)](http://msdn.microsoft.com/library/bf0731f1-fd5e-d2e3-489c-17efeab04291%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ValidationIssues.Stat Property (Visio)](http://msdn.microsoft.com/library/b1b92228-c844-4bdb-60d3-8fde3a5fc1c3%28Office.15%29.aspx)
 
-
- [Propiedad ValidationIssues.Stat (Visio)](http://msdn.microsoft.com/library/validationissues.stat-property-visio-1%28Office.15%29.aspx)
-
-
- [Propiedad ValidationIssues.Stat (Visio)](http://msdn.microsoft.com/library/validationissues.stat-property-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Celda TxtWidth (sección Text Transform), Visio [Vis_DSS.chm1050]
+title: TxtWidth Cell (Text Transform Section), Visio [Vis_DSS.chm1050]
 keywords: vis_dss.chm1050
 f1_keywords:
 - vis_dss.chm1050
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# TxtWidth Cell (Text Transform Section), Visio [Vis_DSS.chm1050]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda TxtWidth (sección Text Transform), Visio [Vis_DSS.chm1050]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda TxtWidth (Sección de transformación de texto)](http://msdn.microsoft.com/library/txtwidth-cell-text-transform-section%28Office.15%29.aspx)
-
+[TxtWidth Cell (Text Transform Section)](http://msdn.microsoft.com/library/e2215c67-25fa-1d75-9cce-f126bb8760a1%28Office.15%29.aspx)
 

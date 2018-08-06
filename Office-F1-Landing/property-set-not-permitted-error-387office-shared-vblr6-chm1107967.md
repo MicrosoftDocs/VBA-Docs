@@ -1,5 +1,5 @@
 ---
-title: Conjunto de propiedades no permitido (error 387), Office Shared [vblr6.chm1107967]
+title: Property Set not permitted (Error 387), Office Shared [vblr6.chm1107967]
 keywords: vblr6.chm1107967
 f1_keywords:
 - vblr6.chm1107967
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Property Set not permitted (Error 387), Office Shared [vblr6.chm1107967]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Conjunto de propiedades no permitido (error 387), Office Shared [vblr6.chm1107967]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad Set no permitida (error 387)](http://msdn.microsoft.com/library/property-set-not-permitted-error-387%28Office.15%29.aspx)
-
+[Property Set not permitted (Error 387)](http://msdn.microsoft.com/library/d3c9ae72-55a6-f190-9b12-8eef969a3904%28Office.15%29.aspx)
 

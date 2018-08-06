@@ -1,5 +1,5 @@
 ---
-title: Evento AfterModal, Visio [vis_sdr.chm10019000]
+title: AfterModal Event, Visio [vis_sdr.chm10019000]
 keywords: vis_sdr.chm10019000
 f1_keywords:
 - vis_sdr.chm10019000
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# AfterModal Event, Visio [vis_sdr.chm10019000]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento AfterModal, Visio [vis_sdr.chm10019000]
+[Application.AfterModal Event (Visio)](http://msdn.microsoft.com/library/e19a0ef3-349c-1d7f-9856-7ef6c66f5f0e%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[InvisibleApp.AfterModal Event (Visio)](http://msdn.microsoft.com/library/52c6926d-0b94-8425-729c-9494f5c7879e%28Office.15%29.aspx)
 
-
- [Evento Application.AfterModal (Visio)](http://msdn.microsoft.com/library/application.aftermodal-event-visio%28Office.15%29.aspx)
-
-
- [Evento InvisibleApp.AfterModal (Visio)](http://msdn.microsoft.com/library/invisibleapp.aftermodal-event-visio%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: El formato de archivo ya no es compatible, Office Shared [vblr6.chm1011296]
+title: File format no longer supported, Office Shared [vblr6.chm1011296]
 keywords: vblr6.chm1011296
 f1_keywords:
 - vblr6.chm1011296
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# File format no longer supported, Office Shared [vblr6.chm1011296]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El formato de archivo ya no es compatible, Office Shared [vblr6.chm1011296]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [El formato de archivo ya no es compatible](http://msdn.microsoft.com/library/file-format-no-longer-supported%28Office.15%29.aspx)
-
+[File format no longer supported](http://msdn.microsoft.com/library/9bb983a8-8627-13c9-ff7d-89428d53f5b8%28Office.15%29.aspx)
 

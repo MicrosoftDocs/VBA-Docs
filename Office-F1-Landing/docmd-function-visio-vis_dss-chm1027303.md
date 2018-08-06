@@ -1,5 +1,5 @@
 ---
-title: Función DOCMD, Visio [Vis_DSS.chm1027303]
+title: DOCMD Function, Visio [Vis_DSS.chm1027303]
 keywords: vis_dss.chm1027303
 f1_keywords:
 - vis_dss.chm1027303
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DOCMD Function, Visio [Vis_DSS.chm1027303]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Función DOCMD, Visio [Vis_DSS.chm1027303]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DOCMD (función)](http://msdn.microsoft.com/library/docmd-function%28Office.15%29.aspx)
-
+[DOCMD Function](http://msdn.microsoft.com/library/6574edeb-eb6f-afd9-89c4-eb5996dffa30%28Office.15%29.aspx)
 

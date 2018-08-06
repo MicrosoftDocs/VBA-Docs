@@ -1,5 +1,5 @@
 ---
-title: Propiedad ReadingOrder, PowerPoint [vbapp10.chm66511]
+title: ReadingOrder Property, PowerPoint [vbapp10.chm66511]
 keywords: vbapp10.chm66511
 f1_keywords:
 - vbapp10.chm66511
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ReadingOrder Property, PowerPoint [vbapp10.chm66511]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ReadingOrder, PowerPoint [vbapp10.chm66511]
+[DataLabel.ReadingOrder Property (PowerPoint)](http://msdn.microsoft.com/library/a684bc32-9a56-85d6-3082-295470b89398%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[DataLabels.ReadingOrder Property (PowerPoint)](http://msdn.microsoft.com/library/8c2880ab-b479-31fa-7cc6-663d1b0fc147%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.ReadingOrder (PowerPoint)](http://msdn.microsoft.com/library/datalabel.readingorder-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad DataLabels.ReadingOrder (PowerPoint)](http://msdn.microsoft.com/library/datalabels.readingorder-property-powerpoint%28Office.15%29.aspx)
 

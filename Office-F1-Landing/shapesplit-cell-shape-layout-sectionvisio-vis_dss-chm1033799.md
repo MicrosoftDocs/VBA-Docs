@@ -1,5 +1,5 @@
 ---
-title: Celda ShapeSplit (sección Shape Layout), Visio [Vis_DSS.chm1033799]
+title: ShapeSplit Cell (Shape Layout Section), Visio [Vis_DSS.chm1033799]
 keywords: vis_dss.chm1033799
 f1_keywords:
 - vis_dss.chm1033799
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ShapeSplit Cell (Shape Layout Section), Visio [Vis_DSS.chm1033799]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda ShapeSplit (sección Shape Layout), Visio [Vis_DSS.chm1033799]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda ShapeSplit (Sección de diseño de forma)](http://msdn.microsoft.com/library/shapesplit-cell-shape-layout-section%28Office.15%29.aspx)
-
+[ShapeSplit Cell (Shape Layout Section)](http://msdn.microsoft.com/library/96b8c503-67b3-8623-d99b-0dad7b15c224%28Office.15%29.aspx)
 

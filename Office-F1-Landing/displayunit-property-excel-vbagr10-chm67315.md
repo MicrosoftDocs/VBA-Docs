@@ -1,5 +1,5 @@
 ---
-title: Propiedad DisplayUnit, Excel [vbagr10.chm67315]
+title: DisplayUnit Property, Excel [vbagr10.chm67315]
 keywords: vbagr10.chm67315
 f1_keywords:
 - vbagr10.chm67315
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# DisplayUnit Property, Excel [vbagr10.chm67315]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad DisplayUnit, Excel [vbagr10.chm67315]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [DisplayUnit (propiedad)](http://msdn.microsoft.com/library/displayunit-property%28Office.15%29.aspx)
-
+[DisplayUnit Property](http://msdn.microsoft.com/library/c86b932e-6314-068f-f06e-4f35ead883d4%28Office.15%29.aspx)
 

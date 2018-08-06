@@ -1,5 +1,5 @@
 ---
-title: Objeto IVBUndoUnit, Visio [vis_sdr.chm60145]
+title: IVBUndoUnit Object, Visio [vis_sdr.chm60145]
 keywords: vis_sdr.chm60145
 f1_keywords:
 - vis_sdr.chm60145
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# IVBUndoUnit Object, Visio [vis_sdr.chm60145]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto IVBUndoUnit, Visio [vis_sdr.chm60145]
+[IVBUndoUnit Object (Visio)](http://msdn.microsoft.com/library/ae0d41ff-20ef-c86c-99a5-0cd2f68cf6cc.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[IVBUndoUnit Object (Visio)](http://msdn.microsoft.com/library/397d8ea4-50ec-970a-61bb-ca61b2ae84e3%28Office.15%29.aspx)
 
-
- [IVBUndoUnit Object (Visio)](http://msdn.microsoft.com/library/ae0d41ff-20ef-c86c-99a5-0cd2f68cf6cc.aspx)
-
-
- [Objeto IVBUndoUnit (Visio)](http://msdn.microsoft.com/library/ivbundounit-object-visio%28Office.15%29.aspx)
 

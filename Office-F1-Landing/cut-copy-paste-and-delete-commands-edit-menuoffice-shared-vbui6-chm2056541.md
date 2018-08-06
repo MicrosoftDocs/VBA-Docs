@@ -1,5 +1,5 @@
 ---
-title: Comandos Cut, Copy, Paste y Delete (menú Editar), Office Shared [vbui6.chm2056541]
+title: Cut, Copy, Paste, and Delete Commands (Edit Menu), Office Shared [vbui6.chm2056541]
 keywords: vbui6.chm2056541
 f1_keywords:
 - vbui6.chm2056541
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Cut, Copy, Paste, and Delete Commands (Edit Menu), Office Shared [vbui6.chm2056541]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Cut, Copy, Paste y Delete (menú Editar), Office Shared [vbui6.chm2056541]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Cortar, Copiar, Pegar y Eliminar (menú Edición)](http://msdn.microsoft.com/library/cut-copy-paste-and-delete-commands-edit-menu%28Office.15%29.aspx)
-
+[Cut, Copy, Paste, and Delete Commands (Edit Menu)](http://msdn.microsoft.com/library/550b860c-4f65-cdec-a88d-a4a70e6f3728%28Office.15%29.aspx)
 

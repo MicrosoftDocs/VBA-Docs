@@ -1,5 +1,5 @@
 ---
-title: El valor de datos nombrado no se encuentra (error 327), Office Shared [vblr6.chm1117796]
+title: Data value named not found (Error 327), Office Shared [vblr6.chm1117796]
 keywords: vblr6.chm1117796
 f1_keywords:
 - vblr6.chm1117796
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Data value named not found (Error 327), Office Shared [vblr6.chm1117796]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El valor de datos nombrado no se encuentra (error 327), Office Shared [vblr6.chm1117796]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró el valor de datos con nombre (error 327)](http://msdn.microsoft.com/library/data-value-named-not-found-error-327%28Office.15%29.aspx)
-
+[Data value named not found (Error 327)](http://msdn.microsoft.com/library/70eaeed2-a28d-0d31-bab3-ea37fe705409%28Office.15%29.aspx)
 

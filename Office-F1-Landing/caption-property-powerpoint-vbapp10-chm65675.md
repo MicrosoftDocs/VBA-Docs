@@ -1,5 +1,5 @@
 ---
-title: Propiedad Caption, PowerPoint [vbapp10.chm65675]
+title: Caption Property, PowerPoint [vbapp10.chm65675]
 keywords: vbapp10.chm65675
 f1_keywords:
 - vbapp10.chm65675
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Caption Property, PowerPoint [vbapp10.chm65675]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Caption, PowerPoint [vbapp10.chm65675]
+[DataLabel.Caption Property (PowerPoint)](http://msdn.microsoft.com/library/b7c52453-62a3-0614-fc96-378ff214541f%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[ChartCharacters.Caption Property (PowerPoint)](http://msdn.microsoft.com/library/4bfaf504-4489-cf51-3879-dd0100a95183%28Office.15%29.aspx)
 
-
- [Propiedad DataLabel.Caption (PowerPoint)](http://msdn.microsoft.com/library/datalabel.caption-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad ChartCharacters.Caption (PowerPoint)](http://msdn.microsoft.com/library/chartcharacters.caption-property-powerpoint%28Office.15%29.aspx)
 

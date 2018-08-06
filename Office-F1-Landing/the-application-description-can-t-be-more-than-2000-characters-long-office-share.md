@@ -1,5 +1,5 @@
 ---
-title: La descripción de la aplicación no puede tener más de 2000 caracteres, Office Shared [vblr6.chm1117781]
+title: The application description can't be more than 2000 characters long, Office Shared [vblr6.chm1117781]
 keywords: vblr6.chm1117781
 f1_keywords:
 - vblr6.chm1117781
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# The application description can't be more than 2000 characters long, Office Shared [vblr6.chm1117781]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# La descripción de la aplicación no puede tener más de 2000 caracteres, Office Shared [vblr6.chm1117781]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La descripción de la aplicación no puede tener más de 2000 caracteres](http://msdn.microsoft.com/library/the-application-description-can-t-be-more-than-2000-characters-long%28Office.15%29.aspx)
-
+[The application description can't be more than 2000 characters long](http://msdn.microsoft.com/library/f2eda4fc-b1b2-d1b0-b00d-6c56af273b08%28Office.15%29.aspx)
 

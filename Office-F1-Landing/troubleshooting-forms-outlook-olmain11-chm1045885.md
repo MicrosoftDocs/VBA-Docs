@@ -1,5 +1,5 @@
 ---
-title: Formularios de solución de problemas, Outlook [olmain11.chm1045885]
+title: Troubleshooting Forms, Outlook [olmain11.chm1045885]
 keywords: olmain11.chm1045885
 f1_keywords:
 - olmain11.chm1045885
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Troubleshooting Forms, Outlook [olmain11.chm1045885]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Formularios de solución de problemas, Outlook [olmain11.chm1045885]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Solución de problemas en formularios](http://msdn.microsoft.com/library/troubleshooting-forms%28Office.15%29.aspx)
-
+[Troubleshooting Forms](http://msdn.microsoft.com/library/79c44e72-5ef8-ad43-2838-8750d73387d5%28Office.15%29.aspx)
 

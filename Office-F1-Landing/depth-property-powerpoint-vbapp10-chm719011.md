@@ -1,5 +1,5 @@
 ---
-title: Propiedad Depth, PowerPoint [vbapp10.chm719011]
+title: Depth Property, PowerPoint [vbapp10.chm719011]
 keywords: vbapp10.chm719011
 f1_keywords:
 - vbapp10.chm719011
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Depth Property, PowerPoint [vbapp10.chm719011]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Depth, PowerPoint [vbapp10.chm719011]
+[ThreeDFormat.Depth Property (PowerPoint)](http://msdn.microsoft.com/library/ef38cda1-5bf0-df3e-aee5-96f18fb1c600%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[TickLabels.Depth Property (PowerPoint)](http://msdn.microsoft.com/library/ffcdd43b-8029-586b-4257-970c95ac164b%28Office.15%29.aspx)
 
-
- [Propiedad ThreeDFormat.Depth (PowerPoint)](http://msdn.microsoft.com/library/threedformat.depth-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad TickLabels.Depth (PowerPoint)](http://msdn.microsoft.com/library/ticklabels.depth-property-powerpoint%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad WhatsThisButton, Office Shared [vblr6.chm1100673]
+title: WhatsThisButton Property, Office Shared [vblr6.chm1100673]
 keywords: vblr6.chm1100673
 f1_keywords:
 - vblr6.chm1100673
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# WhatsThisButton Property, Office Shared [vblr6.chm1100673]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad WhatsThisButton, Office Shared [vblr6.chm1100673]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad WhatsThisButton](http://msdn.microsoft.com/library/whatsthisbutton-property%28Office.15%29.aspx)
-
+[WhatsThisButton Property](http://msdn.microsoft.com/library/f9e24796-d4e0-1719-32b3-2119f20a6b5a%28Office.15%29.aspx)
 

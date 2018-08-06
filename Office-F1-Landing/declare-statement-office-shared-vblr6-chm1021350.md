@@ -1,5 +1,5 @@
 ---
-title: Instrucción Declare, Office Shared [vblr6.chm1021350]
+title: Declare Statement, Office Shared [vblr6.chm1021350]
 keywords: vblr6.chm1021350
 f1_keywords:
 - vblr6.chm1021350
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Declare Statement, Office Shared [vblr6.chm1021350]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Instrucción Declare, Office Shared [vblr6.chm1021350]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Instrucción Declarar](http://msdn.microsoft.com/library/declare-statement%28Office.15%29.aspx)
-
+[Declare Statement](http://msdn.microsoft.com/library/82f68f6b-76c6-2efd-72d2-652000b3a083%28Office.15%29.aspx)
 

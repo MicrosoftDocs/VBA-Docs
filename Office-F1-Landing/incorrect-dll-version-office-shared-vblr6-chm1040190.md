@@ -1,5 +1,5 @@
 ---
-title: Versión de DLL incorrecta, Office Shared [vblr6.chm1040190]
+title: Incorrect DLL version, Office Shared [vblr6.chm1040190]
 keywords: vblr6.chm1040190
 f1_keywords:
 - vblr6.chm1040190
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Incorrect DLL version, Office Shared [vblr6.chm1040190]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Versión de DLL incorrecta, Office Shared [vblr6.chm1040190]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Versión de DLL incorrecta](http://msdn.microsoft.com/library/incorrect-dll-version%28Office.15%29.aspx)
-
+[Incorrect DLL version](http://msdn.microsoft.com/library/6ff7118c-1764-8098-9728-10146e270312%28Office.15%29.aspx)
 

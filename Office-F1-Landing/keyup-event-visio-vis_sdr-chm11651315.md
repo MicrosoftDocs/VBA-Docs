@@ -1,5 +1,5 @@
 ---
-title: Evento KeyUp, Visio [vis_sdr.chm11651315]
+title: KeyUp Event, Visio [vis_sdr.chm11651315]
 keywords: vis_sdr.chm11651315
 f1_keywords:
 - vis_sdr.chm11651315
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# KeyUp Event, Visio [vis_sdr.chm11651315]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento KeyUp, Visio [vis_sdr.chm11651315]
+[DrawingControl.KeyUp Event (Visio)](http://msdn.microsoft.com/library/7b157acb-fc8d-5b31-d53c-0b319270a2b1%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Window.KeyUp Event (Visio)](http://msdn.microsoft.com/library/b0301a71-774b-f256-93eb-d5a3ff523def%28Office.15%29.aspx)
 
-
- [Evento DrawingControl.KeyUp (Visio)](http://msdn.microsoft.com/library/drawingcontrol.keyup-event-visio%28Office.15%29.aspx)
-
-
- [Evento Window.KeyUp (Visio)](http://msdn.microsoft.com/library/window.keyup-event-visio%28Office.15%29.aspx)
 

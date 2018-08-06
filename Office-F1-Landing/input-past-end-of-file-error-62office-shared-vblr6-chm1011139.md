@@ -1,5 +1,5 @@
 ---
-title: Entrada después del final del archivo (error 62), Office Shared [vblr6.chm1011139]
+title: Input past end of file (Error 62), Office Shared [vblr6.chm1011139]
 keywords: vblr6.chm1011139
 f1_keywords:
 - vblr6.chm1011139
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Input past end of file (Error 62), Office Shared [vblr6.chm1011139]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Entrada después del final del archivo (error 62), Office Shared [vblr6.chm1011139]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [La entrada ha pasado el final del archivo (error 62)](http://msdn.microsoft.com/library/input-past-end-of-file-error-62%28Office.15%29.aspx)
-
+[Input past end of file (Error 62)](http://msdn.microsoft.com/library/cd2a6984-2dae-66f0-ee55-14372a1d5f0a%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad ValidationText, Access [vbaac10.chm4535]
+title: ValidationText Property, Access [vbaac10.chm4535]
 keywords: vbaac10.chm4535
 f1_keywords:
 - vbaac10.chm4535
@@ -9,41 +9,24 @@ ms.date: 06/08/2017
 ---
 
 
+# ValidationText Property, Access [vbaac10.chm4535]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ValidationText, Access [vbaac10.chm4535]
+[OptionButton.ValidationText Property (Access)](http://msdn.microsoft.com/library/4a0a025f-7c86-cd2c-efa3-2786fc31a675%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[OptionGroup.ValidationRule Property (Access)](http://msdn.microsoft.com/library/ac66176e-35a6-6fe5-bcbe-2b201a6d8548%28Office.15%29.aspx)
 
-
- [Propiedad OptionButton.ValidationText (Access)](http://msdn.microsoft.com/library/optionbutton.validationtext-property-access%28Office.15%29.aspx)
-
-
- [Propiedad OptionGroup.ValidationRule (Access)](http://msdn.microsoft.com/library/optiongroup.validationrule-property-access%28Office.15%29.aspx)
-
-
- [Propiedad ComboBox.ValidationText (Access)](http://msdn.microsoft.com/library/combobox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad CheckBox.ValidationText (Access)](http://msdn.microsoft.com/library/checkbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.ValidationRule (Access)](http://msdn.microsoft.com/library/textbox.validationrule-property-access%28Office.15%29.aspx)
-
- [Propiedad ListBox.ValidationText (Access)](http://msdn.microsoft.com/library/listbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad ListBox.ValidationRule (Access)](http://msdn.microsoft.com/library/listbox.validationrule-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.ValidationRule (Access)](http://msdn.microsoft.com/library/togglebutton.validationrule-property-access%28Office.15%29.aspx)
-
- [Propiedad ToggleButton.ValidationText (Access)](http://msdn.microsoft.com/library/togglebutton.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad ComboBox.ValidationRule (Access)](http://msdn.microsoft.com/library/combobox.validationrule-property-access%28Office.15%29.aspx)
-
- [Propiedad TextBox.ValidationText (Access)](http://msdn.microsoft.com/library/textbox.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad OptionButton.ValidationRule (Access)](http://msdn.microsoft.com/library/optionbutton.validationrule-property-access%28Office.15%29.aspx)
-
- [Propiedad OptionGroup.ValidationText (Access)](http://msdn.microsoft.com/library/optiongroup.validationtext-property-access%28Office.15%29.aspx)
-
- [Propiedad CheckBox.ValidationRule (Access)](http://msdn.microsoft.com/library/checkbox.validationrule-property-access%28Office.15%29.aspx)
-
+[ComboBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/479d2067-caae-efcc-92a8-36aa68edb4a4%28Office.15%29.aspx)
+[CheckBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/25f8d9be-1015-4ff7-c088-569b8995e80b%28Office.15%29.aspx)
+[TextBox.ValidationRule Property (Access)](http://msdn.microsoft.com/library/e481fba1-7e08-f8da-b644-5e38c2bf445e%28Office.15%29.aspx)
+[ListBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/be52194b-be06-9a85-30f6-718211038213%28Office.15%29.aspx)
+[ListBox.ValidationRule Property (Access)](http://msdn.microsoft.com/library/d3a605d6-cb17-fc4a-0e01-72a21416f980%28Office.15%29.aspx)
+[ToggleButton.ValidationRule Property (Access)](http://msdn.microsoft.com/library/2f7f967c-f98a-9d07-c2f7-7ce717d67e4a%28Office.15%29.aspx)
+[ToggleButton.ValidationText Property (Access)](http://msdn.microsoft.com/library/d42ad483-2720-2b9b-89f6-9611e345e44a%28Office.15%29.aspx)
+[ComboBox.ValidationRule Property (Access)](http://msdn.microsoft.com/library/3ea94f44-46fa-57a7-a9b4-a9e7b58e087b%28Office.15%29.aspx)
+[TextBox.ValidationText Property (Access)](http://msdn.microsoft.com/library/5d3ab2a3-9166-714f-a0c2-d56d42b19ebc%28Office.15%29.aspx)
+[OptionButton.ValidationRule Property (Access)](http://msdn.microsoft.com/library/1113ce22-08cf-f29d-8290-e2c86b0c4be5%28Office.15%29.aspx)
+[OptionGroup.ValidationText Property (Access)](http://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
+[CheckBox.ValidationRule Property (Access)](http://msdn.microsoft.com/library/4ebb1371-acd0-2227-49e9-ec646a0daaad%28Office.15%29.aspx)
 

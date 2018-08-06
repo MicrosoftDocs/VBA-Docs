@@ -1,5 +1,5 @@
 ---
-title: Objeto XMLNodes, Word [vbawd10.chm3906]
+title: XMLNodes Object, Word [vbawd10.chm3906]
 keywords: vbawd10.chm3906
 f1_keywords:
 - vbawd10.chm3906
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# XMLNodes Object, Word [vbawd10.chm3906]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Objeto XMLNodes, Word [vbawd10.chm3906]
+[XMLNodes Object (Word)4fbf912f-b3d7-9055-74d2-1db53aa0852a](http://msdn.microsoft.com/library/4fbf912f-b3d7-9055-74d2-1db53aa0852a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[XMLNodes Object (Word)](http://msdn.microsoft.com/library/c29850f2-8db2-aef6-57ee-fed1b625616c%28Office.15%29.aspx)
 
-
- [XMLNodes Object (Word)xmlnodes-object-word-xmlnodes-object-word-4fbf912f-b3d7-9055-74d2-1db53aa0852a](http://msdn.microsoft.com/library/xmlnodes-object-word-xmlnodes-object-word-4fbf912f-b3d7-9055-74d2-1db53aa0852a%28Office.15%29.aspx)
-
-
- [XMLNodes (colección)](http://msdn.microsoft.com/library/xmlnodes-object-word%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Parent, Excel [vbagr10.chm3077563]
+title: Parent Property, Excel [vbagr10.chm3077563]
 keywords: vbagr10.chm3077563
 f1_keywords:
 - vbagr10.chm3077563
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Parent Property, Excel [vbagr10.chm3077563]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Parent, Excel [vbagr10.chm3077563]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Parent (propiedad)](http://msdn.microsoft.com/library/parent-property%28Office.15%29.aspx)
-
+[Parent Property](http://msdn.microsoft.com/library/504783e9-8bd6-7716-20d4-1f1484f36b33%28Office.15%29.aspx)
 

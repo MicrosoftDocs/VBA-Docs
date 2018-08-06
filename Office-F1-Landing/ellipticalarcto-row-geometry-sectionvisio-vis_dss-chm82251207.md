@@ -1,5 +1,5 @@
 ---
-title: Fila EllipticalArcTo (sección Geometry), Visio [Vis_DSS.chm82251207]
+title: EllipticalArcTo Row (Geometry Section), Visio [Vis_DSS.chm82251207]
 keywords: vis_dss.chm82251207
 f1_keywords:
 - vis_dss.chm82251207
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EllipticalArcTo Row (Geometry Section), Visio [Vis_DSS.chm82251207]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Fila EllipticalArcTo (sección Geometry), Visio [Vis_DSS.chm82251207]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fila EllipticalArcTo (Sección de Geometría)](http://msdn.microsoft.com/library/ellipticalarcto-row-geometry-section%28Office.15%29.aspx)
-
+[EllipticalArcTo Row (Geometry Section)](http://msdn.microsoft.com/library/7ceb30a8-1d05-feff-35d8-08a198784a27%28Office.15%29.aspx)
 

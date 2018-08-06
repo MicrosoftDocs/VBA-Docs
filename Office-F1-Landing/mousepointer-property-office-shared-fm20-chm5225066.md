@@ -1,5 +1,5 @@
 ---
-title: Propiedad MousePointer, Office Shared [fm20.chm5225066]
+title: MousePointer Property, Office Shared [fm20.chm5225066]
 keywords: fm20.chm5225066
 f1_keywords:
 - fm20.chm5225066
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# MousePointer Property, Office Shared [fm20.chm5225066]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad MousePointer, Office Shared [fm20.chm5225066]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad MousePointer](http://msdn.microsoft.com/library/mousepointer-property%28Office.15%29.aspx)
-
+[MousePointer Property](http://msdn.microsoft.com/library/ae574d87-e218-4d03-d423-0192768e82dc%28Office.15%29.aspx)
 

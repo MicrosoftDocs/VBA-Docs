@@ -1,5 +1,5 @@
 ---
-title: Propiedad ProjectType, Access [vbaac10.chm12712]
+title: ProjectType Property, Access [vbaac10.chm12712]
 keywords: vbaac10.chm12712
 f1_keywords:
 - vbaac10.chm12712
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# ProjectType Property, Access [vbaac10.chm12712]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ProjectType, Access [vbaac10.chm12712]
+[CodeProject.ProjectType Property (Access)](http://msdn.microsoft.com/library/c669da2f-6559-8f9c-8935-94f38624dd20%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CurrentProject.ProjectType Property (Access)](http://msdn.microsoft.com/library/b68e5888-0bea-ae7a-b389-b87c7002352c%28Office.15%29.aspx)
 
-
- [Propiedad CodeProject.ProjectType (Access)](http://msdn.microsoft.com/library/codeproject.projecttype-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CurrentProject.ProjectType (Access)](http://msdn.microsoft.com/library/currentproject.projecttype-property-access%28Office.15%29.aspx)
 

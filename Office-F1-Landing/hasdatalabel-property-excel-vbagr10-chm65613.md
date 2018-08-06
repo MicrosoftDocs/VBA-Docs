@@ -1,5 +1,5 @@
 ---
-title: Propiedad HasDataLabel, Excel [vbagr10.chm65613]
+title: HasDataLabel Property, Excel [vbagr10.chm65613]
 keywords: vbagr10.chm65613
 f1_keywords:
 - vbagr10.chm65613
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# HasDataLabel Property, Excel [vbagr10.chm65613]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad HasDataLabel, Excel [vbagr10.chm65613]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [HasDataLabel (propiedad)](http://msdn.microsoft.com/library/hasdatalabel-property%28Office.15%29.aspx)
-
+[HasDataLabel Property](http://msdn.microsoft.com/library/d8fd8c48-4723-4da9-0b8a-82d02c93a19f%28Office.15%29.aspx)
 

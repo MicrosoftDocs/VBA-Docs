@@ -1,5 +1,5 @@
 ---
-title: No se puede cargar el módulo; formato no válido, Office Shared [vblr6.chm1040342]
+title: Can't load module; invalid format, Office Shared [vblr6.chm1040342]
 keywords: vblr6.chm1040342
 f1_keywords:
 - vblr6.chm1040342
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't load module; invalid format, Office Shared [vblr6.chm1040342]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede cargar el módulo; formato no válido, Office Shared [vblr6.chm1040342]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede cargar el módulo; formato no válido](http://msdn.microsoft.com/library/can-t-load-module;-invalid-format%28Office.15%29.aspx)
-
+[Can't load module; invalid format](http://msdn.microsoft.com/library/bcf72b74-0af3-84fa-9898-cd53fbff92a5%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Colección CodePanes, Office Shared [vbob6.chm104025]
+title: CodePanes Collection, Office Shared [vbob6.chm104025]
 keywords: vbob6.chm104025
 f1_keywords:
 - vbob6.chm104025
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# CodePanes Collection, Office Shared [vbob6.chm104025]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Colección CodePanes, Office Shared [vbob6.chm104025]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Colección CodePanes (modelo de objetos de complemento VBA)](http://msdn.microsoft.com/library/codepanes-collection-vba-add-in-object-model%28Office.15%29.aspx)
-
+[CodePanes Collection (VBA Add-In Object Model)](http://msdn.microsoft.com/library/8c868e80-59be-562e-ca33-93e4025fc640%28Office.15%29.aspx)
 

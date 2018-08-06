@@ -1,5 +1,5 @@
 ---
-title: Propiedad RadarAxisLabels, Excel [vbagr10.chm5208829]
+title: RadarAxisLabels Property, Excel [vbagr10.chm5208829]
 keywords: vbagr10.chm5208829
 f1_keywords:
 - vbagr10.chm5208829
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# RadarAxisLabels Property, Excel [vbagr10.chm5208829]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad RadarAxisLabels, Excel [vbagr10.chm5208829]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [RadarAxisLabels (propiedad)](http://msdn.microsoft.com/library/radaraxislabels-property%28Office.15%29.aspx)
-
+[RadarAxisLabels Property](http://msdn.microsoft.com/library/e382e92c-96f2-a9ee-720f-dcb85e5e2e7c%28Office.15%29.aspx)
 

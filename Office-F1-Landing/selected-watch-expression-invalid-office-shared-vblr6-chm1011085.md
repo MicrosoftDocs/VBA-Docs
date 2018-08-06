@@ -1,5 +1,5 @@
 ---
-title: Expresión de inspección seleccionada no válida, Office Shared [vblr6.chm1011085]
+title: Selected watch expression invalid, Office Shared [vblr6.chm1011085]
 keywords: vblr6.chm1011085
 f1_keywords:
 - vblr6.chm1011085
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Selected watch expression invalid, Office Shared [vblr6.chm1011085]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Expresión de inspección seleccionada no válida, Office Shared [vblr6.chm1011085]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Expresión de inspección seleccionada no válida](http://msdn.microsoft.com/library/selected-watch-expression-invalid%28Office.15%29.aspx)
-
+[Selected watch expression invalid](http://msdn.microsoft.com/library/b5a05c94-4ec4-f92b-6073-1635ed49ca69%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad QuickStyleMask, Access [vbaac10.chm14647]
+title: QuickStyleMask Property, Access [vbaac10.chm14647]
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# QuickStyleMask Property, Access [vbaac10.chm14647]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad QuickStyleMask, Access [vbaac10.chm14647]
+[ToggleButton.QuickStyleMask Property (Access)](http://msdn.microsoft.com/library/7f3e65d9-44e8-289a-2123-093aed70650c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CommandButton.QuickStyleMask Property (Access)](http://msdn.microsoft.com/library/c0661897-d71c-8c3e-b18d-1100a24ed6a2%28Office.15%29.aspx)
 
-
- [Propiedad ToggleButton.QuickStyleMask (Access)](http://msdn.microsoft.com/library/togglebutton.quickstylemask-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CommandButton.QuickStyleMask (Access)](http://msdn.microsoft.com/library/commandbutton.quickstylemask-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.QuickStyleMask (Access)](http://msdn.microsoft.com/library/navigationbutton.quickstylemask-property-access%28Office.15%29.aspx)
-
+[NavigationButton.QuickStyleMask Property (Access)](http://msdn.microsoft.com/library/d7a5e454-399b-090c-46d9-add8ad13ff0f%28Office.15%29.aspx)
 

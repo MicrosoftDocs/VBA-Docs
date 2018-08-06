@@ -1,5 +1,5 @@
 ---
-title: El formulario ya se ha mostrado; no se puede mostrar de forma modal (error 400), Office Shared [vblr6.chm400]
+title: Form already displayed; can't show modally (Error 400), Office Shared [vblr6.chm400]
 keywords: vblr6.chm400
 f1_keywords:
 - vblr6.chm400
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Form already displayed; can't show modally (Error 400), Office Shared [vblr6.chm400]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# El formulario ya se ha mostrado; no se puede mostrar de forma modal (error 400), Office Shared [vblr6.chm400]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Formulario ya visualizado; no se puede mostrar de manera modal (error 400)](http://msdn.microsoft.com/library/form-already-displayed;-can-t-show-modally-error-400%28Office.15%29.aspx)
-
+[Form already displayed; can't show modally (Error 400)](http://msdn.microsoft.com/library/98f6191b-2756-4d5f-f9c3-47791b664cba%28Office.15%29.aspx)
 

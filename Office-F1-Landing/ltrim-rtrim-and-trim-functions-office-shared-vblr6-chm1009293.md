@@ -1,5 +1,5 @@
 ---
-title: Funciones LTrim, RTrim y Trim, Office Shared [vblr6.chm1009293]
+title: LTrim, RTrim, and Trim Functions, Office Shared [vblr6.chm1009293]
 keywords: vblr6.chm1009293
 f1_keywords:
 - vblr6.chm1009293
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LTrim, RTrim, and Trim Functions, Office Shared [vblr6.chm1009293]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Funciones LTrim, RTrim y Trim, Office Shared [vblr6.chm1009293]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Funciones LTrim, RTrim y Trim](http://msdn.microsoft.com/library/ltrim-rtrim-and-trim-functions%28Office.15%29.aspx)
-
+[LTrim, RTrim, and Trim Functions](http://msdn.microsoft.com/library/ffe13d6f-8e7a-3413-98a1-3263c771178b%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: No se pudo cargar el DLL de sistema 'dll' (error 298), Office Shared [vblr6.chm1117813]
+title: System DLL 'dll' could not be loaded (Error 298), Office Shared [vblr6.chm1117813]
 keywords: vblr6.chm1117813
 f1_keywords:
 - vblr6.chm1117813
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# System DLL 'dll' could not be loaded (Error 298), Office Shared [vblr6.chm1117813]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se pudo cargar el DLL de sistema 'dll' (error 298), Office Shared [vblr6.chm1117813]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se pudo cargar el archivo 'dll' del DLL del sistema (error 298)](http://msdn.microsoft.com/library/system-dll-dll-could-not-be-loaded-error-298%28Office.15%29.aspx)
-
+[System DLL 'dll' could not be loaded (Error 298)](http://msdn.microsoft.com/library/a745d3df-9817-9f36-5548-af040b484e91%28Office.15%29.aspx)
 

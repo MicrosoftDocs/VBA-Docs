@@ -1,5 +1,5 @@
 ---
-title: Propiedad ScrollBars, Access [vbaac10.chm5900]
+title: ScrollBars Property, Access [vbaac10.chm5900]
 keywords: vbaac10.chm5900
 f1_keywords:
 - vbaac10.chm5900
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# ScrollBars Property, Access [vbaac10.chm5900]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad ScrollBars, Access [vbaac10.chm5900]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad WebBrowserControl.ScrollBars (Access)](http://msdn.microsoft.com/library/webbrowsercontrol.scrollbars-property-access%28Office.15%29.aspx)
-
+[WebBrowserControl.ScrollBars Property (Access)](http://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: No se pudo encontrar el texto de búsqueda (error 744), Office Shared [vblr6.chm1000744]
+title: Search text not found (Error 744), Office Shared [vblr6.chm1000744]
 keywords: vblr6.chm1000744
 f1_keywords:
 - vblr6.chm1000744
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Search text not found (Error 744), Office Shared [vblr6.chm1000744]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se pudo encontrar el texto de búsqueda (error 744), Office Shared [vblr6.chm1000744]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontró el texto de la búsqueda (error 744)](http://msdn.microsoft.com/library/search-text-not-found-error-744%28Office.15%29.aspx)
-
+[Search text not found (Error 744)](http://msdn.microsoft.com/library/ac0751c3-2d90-0318-e899-10c2a32c15c8%28Office.15%29.aspx)
 

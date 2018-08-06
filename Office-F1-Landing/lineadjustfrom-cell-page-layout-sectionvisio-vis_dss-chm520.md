@@ -1,5 +1,5 @@
 ---
-title: Celda LineAdjustFrom (sección Page Layout), Visio [Vis_DSS.chm520]
+title: LineAdjustFrom Cell (Page Layout Section), Visio [Vis_DSS.chm520]
 keywords: vis_dss.chm520
 f1_keywords:
 - vis_dss.chm520
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# LineAdjustFrom Cell (Page Layout Section), Visio [Vis_DSS.chm520]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda LineAdjustFrom (sección Page Layout), Visio [Vis_DSS.chm520]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda LineAdjustFrom (Sección de diseño de página)](http://msdn.microsoft.com/library/lineadjustfrom-cell-page-layout-section%28Office.15%29.aspx)
-
+[LineAdjustFrom Cell (Page Layout Section)](http://msdn.microsoft.com/library/6949c717-dc69-1d17-5215-eb6efce56fcb%28Office.15%29.aspx)
 

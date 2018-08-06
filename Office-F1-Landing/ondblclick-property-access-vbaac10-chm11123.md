@@ -1,5 +1,5 @@
 ---
-title: Propiedad OnDblClick, Access [vbaac10.chm11123]
+title: OnDblClick Property, Access [vbaac10.chm11123]
 keywords: vbaac10.chm11123
 f1_keywords:
 - vbaac10.chm11123
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# OnDblClick Property, Access [vbaac10.chm11123]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad OnDblClick, Access [vbaac10.chm11123]
+[TextBox.OnDblClick Property (Access)](http://msdn.microsoft.com/library/571a01ff-b92b-bb9b-1363-43086ef71c02%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.OnDblClick Property (Access)](http://msdn.microsoft.com/library/19b575b9-a727-85e0-f5c3-c4ebe3bbd987%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.OnDblClick (Access)](http://msdn.microsoft.com/library/textbox.ondblclick-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.OnDblClick (Access)](http://msdn.microsoft.com/library/navigationcontrol.ondblclick-property-access%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Propiedad Fill, Excel [vbagr10.chm67199]
+title: Fill Property, Excel [vbagr10.chm67199]
 keywords: vbagr10.chm67199
 f1_keywords:
 - vbagr10.chm67199
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Fill Property, Excel [vbagr10.chm67199]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Fill, Excel [vbagr10.chm67199]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Fill (propiedad)](http://msdn.microsoft.com/library/fill-property%28Office.15%29.aspx)
-
+[Fill Property](http://msdn.microsoft.com/library/7a8ea56d-1b39-cc70-1fbc-7d1a488b1aba%28Office.15%29.aspx)
 

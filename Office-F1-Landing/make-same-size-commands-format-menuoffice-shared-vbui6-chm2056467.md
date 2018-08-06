@@ -1,5 +1,5 @@
 ---
-title: Comandos Hacer del mismo tamaño (menú Formato), Office Shared [vbui6.chm2056467]
+title: Make Same Size Commands (Format Menu), Office Shared [vbui6.chm2056467]
 keywords: vbui6.chm2056467
 f1_keywords:
 - vbui6.chm2056467
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Make Same Size Commands (Format Menu), Office Shared [vbui6.chm2056467]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Comandos Hacer del mismo tamaño (menú Formato), Office Shared [vbui6.chm2056467]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Comandos Hacer del mismo tamaño (menú Formato)](http://msdn.microsoft.com/library/make-same-size-commands-format-menu%28Office.15%29.aspx)
-
+[Make Same Size Commands (Format Menu)](http://msdn.microsoft.com/library/fe06e552-66d1-aa0d-400f-838f621ada93%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Criterios numéricos de un control en un formulario, Access [vbaac10.chm10886]
+title: Numeric Criteria from a Control on a Form, Access [vbaac10.chm10886]
 keywords: vbaac10.chm10886
 f1_keywords:
 - vbaac10.chm10886
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Numeric Criteria from a Control on a Form, Access [vbaac10.chm10886]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Criterios numéricos de un control en un formulario, Access [vbaac10.chm10886]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Criterios numéricos basados en un control de un formulario](http://msdn.microsoft.com/library/numeric-criteria-from-a-control-on-a-form%28Office.15%29.aspx)
-
+[Numeric Criteria from a Control on a Form](http://msdn.microsoft.com/library/faa0806c-f349-09a2-1535-582264434233%28Office.15%29.aspx)
 

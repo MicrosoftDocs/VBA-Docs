@@ -1,5 +1,5 @@
 ---
-title: Case Else fuera de Select Case, Office Shared [vblr6.chm1040105]
+title: Case Else outside Select Case, Office Shared [vblr6.chm1040105]
 keywords: vblr6.chm1040105
 f1_keywords:
 - vblr6.chm1040105
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Case Else outside Select Case, Office Shared [vblr6.chm1040105]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Case Else fuera de Select Case, Office Shared [vblr6.chm1040105]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Case Else fuera de Select Case](http://msdn.microsoft.com/library/case-else-outside-select-case%28Office.15%29.aspx)
-
+[Case Else outside Select Case](http://msdn.microsoft.com/library/1966778d-5d35-1189-620d-e7379b039775%28Office.15%29.aspx)
 

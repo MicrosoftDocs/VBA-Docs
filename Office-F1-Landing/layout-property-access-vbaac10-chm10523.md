@@ -1,5 +1,5 @@
 ---
-title: Propiedad Layout, Access [vbaac10.chm10523]
+title: Layout Property, Access [vbaac10.chm10523]
 keywords: vbaac10.chm10523
 f1_keywords:
 - vbaac10.chm10523
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# Layout Property, Access [vbaac10.chm10523]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Layout, Access [vbaac10.chm10523]
+[CommandButton.Layout Property (Access)](http://msdn.microsoft.com/library/61e0b921-ee37-af21-e84f-64f0b682e05c%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[CustomControl.Layout Property (Access)](http://msdn.microsoft.com/library/5954580e-18f6-87c0-107b-902065cebc90%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.Layout (Access)](http://msdn.microsoft.com/library/commandbutton.layout-property-access%28Office.15%29.aspx)
-
-
- [Propiedad CustomControl.Layout (Access)](http://msdn.microsoft.com/library/customcontrol.layout-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Layout (Access)](http://msdn.microsoft.com/library/navigationbutton.layout-property-access%28Office.15%29.aspx)
-
+[NavigationButton.Layout Property (Access)](http://msdn.microsoft.com/library/345bd2bf-1f4f-21d5-c4cf-b5fb41f280ea%28Office.15%29.aspx)
 

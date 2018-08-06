@@ -1,5 +1,5 @@
 ---
-title: Cuadro de diálogo Importar archivo, Office Shared [vbui6.chm1076808]
+title: Import File Dialog Box, Office Shared [vbui6.chm1076808]
 keywords: vbui6.chm1076808
 f1_keywords:
 - vbui6.chm1076808
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Import File Dialog Box, Office Shared [vbui6.chm1076808]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Cuadro de diálogo Importar archivo, Office Shared [vbui6.chm1076808]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Cuadro de diálogo Importar archivo](http://msdn.microsoft.com/library/import-file-dialog-box%28Office.15%29.aspx)
-
+[Import File Dialog Box](http://msdn.microsoft.com/library/8e5e3949-373b-0d53-372e-89a3da9e65da%28Office.15%29.aspx)
 

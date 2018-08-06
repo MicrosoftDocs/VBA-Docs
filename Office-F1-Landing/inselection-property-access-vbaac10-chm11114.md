@@ -1,5 +1,5 @@
 ---
-title: Propiedad InSelection, Access [vbaac10.chm11114]
+title: InSelection Property, Access [vbaac10.chm11114]
 keywords: vbaac10.chm11114
 f1_keywords:
 - vbaac10.chm11114
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# InSelection Property, Access [vbaac10.chm11114]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad InSelection, Access [vbaac10.chm11114]
+[TextBox.InSelection Property (Access)](http://msdn.microsoft.com/library/6ebb497c-00d0-a854-be22-6b034deae98a%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationControl.InSelection Property (Access)](http://msdn.microsoft.com/library/96b49172-cea7-26e3-0bdc-6e0b85a1402f%28Office.15%29.aspx)
 
-
- [Propiedad TextBox.InSelection (Access)](http://msdn.microsoft.com/library/textbox.inselection-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationControl.InSelection (Access)](http://msdn.microsoft.com/library/navigationcontrol.inselection-property-access%28Office.15%29.aspx)
 

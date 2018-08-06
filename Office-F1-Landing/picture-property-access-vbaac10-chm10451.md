@@ -1,5 +1,5 @@
 ---
-title: Propiedad Picture, Access [vbaac10.chm10451]
+title: Picture Property, Access [vbaac10.chm10451]
 keywords: vbaac10.chm10451
 f1_keywords:
 - vbaac10.chm10451
@@ -9,15 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
+# Picture Property, Access [vbaac10.chm10451]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad Picture, Access [vbaac10.chm10451]
+[CommandButton.Picture Property (Access)](http://msdn.microsoft.com/library/1d0d5956-719e-13eb-e6ca-319f8da78754%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[NavigationButton.Picture Property (Access)](http://msdn.microsoft.com/library/ba8a27c9-b288-401b-a6c1-46fb16bc1326%28Office.15%29.aspx)
 
-
- [Propiedad CommandButton.Picture (Access)](http://msdn.microsoft.com/library/commandbutton.picture-property-access%28Office.15%29.aspx)
-
-
- [Propiedad NavigationButton.Picture (Access)](http://msdn.microsoft.com/library/navigationbutton.picture-property-access%28Office.15%29.aspx)
 

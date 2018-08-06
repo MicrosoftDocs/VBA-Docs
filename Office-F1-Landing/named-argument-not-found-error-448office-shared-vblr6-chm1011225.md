@@ -1,5 +1,5 @@
 ---
-title: No se encontró el argumento con nombre (error 448), Office Shared [vblr6.chm1011225]
+title: Named argument not found (Error 448), Office Shared [vblr6.chm1011225]
 keywords: vblr6.chm1011225
 f1_keywords:
 - vblr6.chm1011225
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Named argument not found (Error 448), Office Shared [vblr6.chm1011225]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se encontró el argumento con nombre (error 448), Office Shared [vblr6.chm1011225]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se encontro el argumento con nombre (error 448)](http://msdn.microsoft.com/library/named-argument-not-found-error-448%28Office.15%29.aspx)
-
+[Named argument not found (Error 448)](http://msdn.microsoft.com/library/eb98da9e-0f02-3c9f-5800-b7317af2c479%28Office.15%29.aspx)
 

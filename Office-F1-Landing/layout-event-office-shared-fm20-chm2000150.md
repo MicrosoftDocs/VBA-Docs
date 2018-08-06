@@ -1,5 +1,5 @@
 ---
-title: Evento Layout, Office Shared [fm20.chm2000150]
+title: Layout Event, Office Shared [fm20.chm2000150]
 keywords: fm20.chm2000150
 f1_keywords:
 - fm20.chm2000150
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Layout Event, Office Shared [fm20.chm2000150]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Evento Layout, Office Shared [fm20.chm2000150]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Evento Layout](http://msdn.microsoft.com/library/layout-event%28Office.15%29.aspx)
-
+[Layout Event](http://msdn.microsoft.com/library/ae4e356a-3283-e6a0-ac29-25327ff7c3df%28Office.15%29.aspx)
 

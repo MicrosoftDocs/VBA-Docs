@@ -1,5 +1,5 @@
 ---
-title: Propiedad BackStyle, Office Shared [fm20.chm2000780]
+title: BackStyle Property, Office Shared [fm20.chm2000780]
 keywords: fm20.chm2000780
 f1_keywords:
 - fm20.chm2000780
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# BackStyle Property, Office Shared [fm20.chm2000780]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad BackStyle, Office Shared [fm20.chm2000780]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Propiedad BackStyle (Microsoft Forms)](http://msdn.microsoft.com/library/backstyle-property-microsoft-forms%28Office.15%29.aspx)
-
+[BackStyle Property (Microsoft Forms)](http://msdn.microsoft.com/library/65930aae-92c1-0cd8-2bed-d657321151e7%28Office.15%29.aspx)
 

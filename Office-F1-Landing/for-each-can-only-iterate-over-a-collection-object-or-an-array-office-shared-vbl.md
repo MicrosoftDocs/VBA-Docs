@@ -1,5 +1,5 @@
 ---
-title: For Each solo puede iterar en un objeto de colección o en una matriz, Office Shared [vblr6.chm1040139]
+title: For Each can only iterate over a collection object or an array, Office Shared [vblr6.chm1040139]
 keywords: vblr6.chm1040139
 f1_keywords:
 - vblr6.chm1040139
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# For Each can only iterate over a collection object or an array, Office Shared [vblr6.chm1040139]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# For Each solo puede iterar en un objeto de colección o en una matriz, Office Shared [vblr6.chm1040139]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [For Each solo puede iterar sobre un objeto de la colección o una matriz](http://msdn.microsoft.com/library/for-each-can-only-iterate-over-a-collection-object-or-an-array%28Office.15%29.aspx)
-
+[For Each can only iterate over a collection object or an array](http://msdn.microsoft.com/library/0defd9d4-4775-c5dd-1212-951016efe997%28Office.15%29.aspx)
 

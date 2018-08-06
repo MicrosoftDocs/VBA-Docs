@@ -1,5 +1,5 @@
 ---
-title: Sección Etiquetas de acción, Visio [Vis_DSS.chm1024511]
+title: Action Tag Section, Visio [Vis_DSS.chm1024511]
 keywords: vis_dss.chm1024511
 f1_keywords:
 - vis_dss.chm1024511
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Action Tag Section, Visio [Vis_DSS.chm1024511]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Sección Etiquetas de acción, Visio [Vis_DSS.chm1024511]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Sección de la etiqueta de acción](http://msdn.microsoft.com/library/action-tag-section%28Office.15%29.aspx)
-
+[Action Tag Section](http://msdn.microsoft.com/library/a05d668f-70c9-b6fa-cac1-462af37b4f8f%28Office.15%29.aspx)
 

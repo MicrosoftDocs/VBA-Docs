@@ -1,5 +1,5 @@
 ---
-title: Celda SelectMode (sección Group Properties), Visio [Vis_DSS.chm82251628]
+title: SelectMode Cell (Group Properties Section), Visio [Vis_DSS.chm82251628]
 keywords: vis_dss.chm82251628
 f1_keywords:
 - vis_dss.chm82251628
@@ -9,13 +9,5 @@ ms.date: 06/08/2017
 ---
 
 
-
-
-# Celda SelectMode (sección Group Properties), Visio [Vis_DSS.chm82251628]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda SelectMode (Sección de propiedades de grupo)](http://msdn.microsoft.com/library/selectmode-cell-group-properties-section%28Office.15%29.aspx)
-
+# SelectMode Cell (Group Properties Section), Visio [Vis_DSS.chm82251628]
 

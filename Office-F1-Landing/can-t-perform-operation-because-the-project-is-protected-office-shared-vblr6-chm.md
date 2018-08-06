@@ -1,5 +1,5 @@
 ---
-title: No se puede realizar la operación porque el proyecto está protegido, Office Shared [vblr6.chm50289]
+title: Can't perform operation because the project is protected, Office Shared [vblr6.chm50289]
 keywords: vblr6.chm50289
 f1_keywords:
 - vblr6.chm50289
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# Can't perform operation because the project is protected, Office Shared [vblr6.chm50289]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# No se puede realizar la operación porque el proyecto está protegido, Office Shared [vblr6.chm50289]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [No se puede realizar la operación porque el proyecto está protegido](http://msdn.microsoft.com/library/can-t-perform-operation-because-the-project-is-protected%28Office.15%29.aspx)
-
+[Can't perform operation because the project is protected](http://msdn.microsoft.com/library/6245146c-1818-91c1-1616-a41e615b77ef%28Office.15%29.aspx)
 

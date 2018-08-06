@@ -1,5 +1,5 @@
 ---
-title: Celda EndArrow (sección Line Format), Visio [Vis_DSS.chm82251236]
+title: EndArrow Cell (Line Format Section), Visio [Vis_DSS.chm82251236]
 keywords: vis_dss.chm82251236
 f1_keywords:
 - vis_dss.chm82251236
@@ -9,13 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
+# EndArrow Cell (Line Format Section), Visio [Vis_DSS.chm82251236]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Celda EndArrow (sección Line Format), Visio [Vis_DSS.chm82251236]
-
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
-
-
- [Celda EndArrow (Sección de formato de línea)](http://msdn.microsoft.com/library/endarrow-cell-line-format-section%28Office.15%29.aspx)
-
+[EndArrow Cell (Line Format Section)](http://msdn.microsoft.com/library/2f9c11ba-a316-bc34-60d4-0a41b2af486f%28Office.15%29.aspx)
 

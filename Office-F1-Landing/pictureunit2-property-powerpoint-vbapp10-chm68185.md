@@ -1,5 +1,5 @@
 ---
-title: Propiedad PictureUnit2, PowerPoint [vbapp10.chm68185]
+title: PictureUnit2 Property, PowerPoint [vbapp10.chm68185]
 keywords: vbapp10.chm68185
 f1_keywords:
 - vbapp10.chm68185
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
+# PictureUnit2 Property, PowerPoint [vbapp10.chm68185]
 
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-# Propiedad PictureUnit2, PowerPoint [vbapp10.chm68185]
+[Series.PictureUnit2 Property (PowerPoint)](http://msdn.microsoft.com/library/83ccb10a-1883-9665-8a63-4494e853aa72%28Office.15%29.aspx)
 
-¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+[Point.PictureUnit2 Property (PowerPoint)](http://msdn.microsoft.com/library/3e221489-f24e-f939-78dd-4c5c6a5413d0%28Office.15%29.aspx)
 
-
- [Propiedad Series.PictureUnit2 (PowerPoint)](http://msdn.microsoft.com/library/series.pictureunit2-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad Point.PictureUnit2 (PowerPoint)](http://msdn.microsoft.com/library/point.pictureunit2-property-powerpoint%28Office.15%29.aspx)
-
-
- [Propiedad LegendKey.PictureUnit2 (PowerPoint)](http://msdn.microsoft.com/library/legendkey.pictureunit2-property-powerpoint%28Office.15%29.aspx)
-
+[LegendKey.PictureUnit2 Property (PowerPoint)](http://msdn.microsoft.com/library/018b1a1e-2d00-abee-eeed-8886baec9f4a%28Office.15%29.aspx)
 
