@@ -1,0 +1,26 @@
+---
+title: Propiedad Baseline9BudgetWork, proyecto [vbapj.chm131547]
+keywords: vbapj.chm131547
+f1_keywords:
+- vbapj.chm131547
+ms.prod: office
+ms.assetid: 86b3a390-3867-4510-a743-61f8b0d6e063
+ms.date: 06/08/2017
+ms.openlocfilehash: 665a02fc01dbeb4e92f0fae15bf3d16006a1273f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 07/26/2017
+---
+# <a name="baseline9budgetwork-property-project-vbapjchm131547"></a>Propiedad Baseline9BudgetWork, proyecto [vbapj.chm131547]
+
+¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+
+[Propiedad Assignment.Baseline9BudgetWork (proyecto)](http://msdn.microsoft.com/library/8c76d3e1-0ff1-6ada-0bfc-20a22cdc1ca3%28Office.15%29.aspx)
+
+[Propiedad Resource.Baseline9BudgetWork (proyecto)](http://msdn.microsoft.com/library/0573ba39-e7dc-ea45-619c-9b34c99834ab%28Office.15%29.aspx)
+
+[Propiedad Task.Baseline9BudgetWork (proyecto)](http://msdn.microsoft.com/library/ba1b1070-516d-80fd-7bd4-c6baafe6453b%28Office.15%29.aspx)
+[Assignment.Baseline8Finish propiedad (proyecto)](http://msdn.microsoft.com/library/19f921df-4785-1963-2dcc-297c11518494%28Office.15%29.aspx)
+[Task.Baseline8Finish propiedad (proyecto)](http://msdn.microsoft.com/library/1c342aa3-c02c-80f9-613a-6f1a251b3c5f%28Office.15%29.aspx)
+

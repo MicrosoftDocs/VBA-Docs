@@ -1,0 +1,21 @@
+---
+title: Celda BulletFont (sección Paragraph), Visio [Vis_DSS.chm60023]
+keywords: vis_dss.chm60023
+f1_keywords:
+- vis_dss.chm60023
+ms.prod: office
+ms.assetid: a9b68833-6734-495e-b84c-6060185e8f1b
+ms.date: 06/08/2017
+---
+
+
+
+
+# Celda BulletFont (sección Paragraph), Visio [Vis_DSS.chm60023]
+
+¡Hola! Has aterrizado en una de nuestras páginas de redirección de Ayuda F1. Selecciona a continuación el tema que buscas.
+
+
+ [Celda BulletFont (Sección de párrafo)](http://msdn.microsoft.com/library/bulletfont-cell-paragraph-section%28Office.15%29.aspx)
+
+
