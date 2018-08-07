@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  **Set Form, Report, and Control Properties**
     
-- [Set Options from Visual Basic](set-options-from-visual-basic.md)
+- [Set Options from Visual Basic](../Settings/set-options-from-visual-basic.md)
     
-- [Set Properties by Using Visual Basic](set-properties-by-using-visual-basic.md)
+- [Set Properties by Using Visual Basic](../Settings/set-properties-by-using-visual-basic.md)
     
-- [Set Startup Properties and Options in Code](set-startup-properties-and-options-in-code.md)
+- [Set Startup Properties and Options in Code](../Settings/set-startup-properties-and-options-in-code.md)
     
 

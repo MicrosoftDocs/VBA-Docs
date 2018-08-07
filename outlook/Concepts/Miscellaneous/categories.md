@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Categorize Your Outlook Items](categorize-your-outlook-items.md)
+-  [Categorize Your Outlook Items](../Categories-and-Conversations/categorize-your-outlook-items.md)
     
 

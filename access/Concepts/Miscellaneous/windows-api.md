@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Determine When a Shelled Process Ends](determine-when-a-shelled-process-ends.md)
+- [Determine When a Shelled Process Ends](../Windows-API/determine-when-a-shelled-process-ends.md)
     
-- [Retrieve Information from the Clipboard](retrieve-information-from-the-clipboard.md)
+- [Retrieve Information from the Clipboard](../Windows-API/retrieve-information-from-the-clipboard.md)
     
-- [Send Information to the Clipboard](send-information-to-the-clipboard.md)
+- [Send Information to the Clipboard](../Windows-API/send-information-to-the-clipboard.md)
     
-- [Retrieve the Name of the User Logged On To the Network](retrieve-the-name-of-the-user-logged-on-to-the-network.md)
+- [Retrieve the Name of the User Logged On To the Network](../Windows-API/retrieve-the-name-of-the-user-logged-on-to-the-network.md)
     
 

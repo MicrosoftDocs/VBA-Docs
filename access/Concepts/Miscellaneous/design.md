@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Create Multiple Instances of a Form](create-multiple-instances-of-a-form.md)
+- [Create Multiple Instances of a Form](../Forms-Design/create-multiple-instances-of-a-form.md)
     
-- [Synchronize Two Combo Boxes on a Form](synchronize-two-combo-boxes-on-a-form.md)
+- [Synchronize Two Combo Boxes on a Form](../Forms-Design/synchronize-two-combo-boxes-on-a-form.md)
     
-- [Use Date and Time Criteria from a Control on a Form](use-date-and-time-criteria-from-a-control-on-a-form.md)
+- [Use Date and Time Criteria from a Control on a Form](../Forms-Design/use-date-and-time-criteria-from-a-control-on-a-form.md)
     
 

@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Programmatically Retrieve Printer Capabilities](programmatically-retrieve-printer-capabilities.md)
+- [Programmatically Retrieve Printer Capabilities](../Printing/programmatically-retrieve-printer-capabilities.md)
     
-- [Work with Form and Report Printer Settings](work-with-form-and-report-printer-settings.md)
+- [Work with Form and Report Printer Settings](../Printing/work-with-form-and-report-printer-settings.md)
     
 

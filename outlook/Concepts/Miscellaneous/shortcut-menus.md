@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Customizing Shortcut Menus](customizing-shortcut-menus.md)
+-  [Customizing Shortcut Menus](../../How-to/Office-Fluent-UI-Extensibility/customizing-shortcut-menus.md)
     
 

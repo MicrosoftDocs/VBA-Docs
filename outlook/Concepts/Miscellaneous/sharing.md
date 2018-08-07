@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Sharing Calendars](sharing-calendars.md)
+-  [Sharing Calendars](../../How-to/Sharing/sharing-calendars.md)
     
--  [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-e.md)
+-  [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](../../How-to/Sharing/sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-e.md)
     
--  [Export a Calendar using Payload Sharing](export-a-calendar-using-payload-sharing.md)
+-  [Export a Calendar using Payload Sharing](../../How-to/Sharing/export-a-calendar-using-payload-sharing.md)
     
--  [Import Saved Items using OpenSharedItem](import-saved-items-using-openshareditem.md)
+-  [Import Saved Items using OpenSharedItem](../../How-to/Sharing/import-saved-items-using-openshareditem.md)
     
--  [Send a Sharing Invitation for a Calendar](send-a-sharing-invitation-for-a-calendar.md)
+-  [Send a Sharing Invitation for a Calendar](../../How-to/Sharing/send-a-sharing-invitation-for-a-calendar.md)
     
--  [Send a Sharing Invitation for an RSS Feed](send-a-sharing-invitation-for-an-rss-feed.md)
+-  [Send a Sharing Invitation for an RSS Feed](../../How-to/Sharing/send-a-sharing-invitation-for-an-rss-feed.md)
     
 

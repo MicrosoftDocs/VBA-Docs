@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 The ASC and DESC keywords are used in these contexts:
 
 [CREATE INDEX Statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
-[ORDER BY Clause](order-by-clause-microsoft-access-sql.md)
+[ORDER BY Clause](../Structured-Query-Language/order-by-clause-microsoft-access-sql.md)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

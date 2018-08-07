@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Set Form, Report, and Control Properties in Code](set-form-report-and-control-properties-in-code.md)
+- [Set Form, Report, and Control Properties in Code](../Reports/set-form-report-and-control-properties-in-code.md)
     
 

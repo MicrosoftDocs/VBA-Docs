@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Setting Items for Follow-up](setting-items-for-follow-up.md)
+-  [Setting Items for Follow-up](../Electronic-Business-Cards/setting-items-for-follow-up.md)
     
 

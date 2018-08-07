@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
+- [Build SQL Statements That Include Variables and Controls](../Structured-Query-Language/build-sql-statements-that-include-variables-and-controls.md)
     
-- [Use International Date Formats in SQL Statements](use-international-date-formats-in-sql-statements.md)
+- [Use International Date Formats in SQL Statements](../Structured-Query-Language/use-international-date-formats-in-sql-statements.md)
     
 

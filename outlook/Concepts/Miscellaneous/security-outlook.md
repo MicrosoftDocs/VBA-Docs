@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md)
+-  [Security Behavior of the Outlook Object Model](../../How-to/Security/security-behavior-of-the-outlook-object-model.md)
     
--  [Outlook Object Model Security Warnings](outlook-object-model-security-warnings.md)
+-  [Outlook Object Model Security Warnings](../../How-to/Security/outlook-object-model-security-warnings.md)
     
--  [Protected Properties and Methods](protected-properties-and-methods.md)
+-  [Protected Properties and Methods](../../How-to/Security/protected-properties-and-methods.md)
     
 

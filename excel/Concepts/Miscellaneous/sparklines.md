@@ -15,15 +15,15 @@ This topic links to programming tasks (how-to and walkthrough topics) for common
 ## Sparklines
 
 
--  [Animate a Sparkline](animate-a-sparkline.md)
+-  [Animate a Sparkline](../Sparklines/animate-a-sparkline.md)
     
       - Describes how to animate a sparkline.
     
--  [Change the Color of the Horizontal Axis of a Sparkline](change-the-color-of-the-horizontal-axis-of-a-sparkline.md)
+-  [Change the Color of the Horizontal Axis of a Sparkline](../Sparklines/change-the-color-of-the-horizontal-axis-of-a-sparkline.md)
     
       - Describes how to change the color of the horizontal axis of a sparkline.
     
--  [Find All the Sparklines on a Sheet](find-all-the-sparklines-on-a-sheet.md)
+-  [Find All the Sparklines on a Sheet](../Sparklines/find-all-the-sparklines-on-a-sheet.md)
     
       - Describes how to find all the sparklines on a worksheet.
     

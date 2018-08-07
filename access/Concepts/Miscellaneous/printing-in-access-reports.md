@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Retrieve a List of Installed Printers](retrieve-a-list-of-installed-printers.md)
+- [Retrieve a List of Installed Printers](../Printing/retrieve-a-list-of-installed-printers.md)
     
 

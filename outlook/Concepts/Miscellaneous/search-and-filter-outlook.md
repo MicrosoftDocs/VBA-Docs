@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Overview (Outlook Search and Filter)](overview-outlook-search-and-filter.md)
+-  [Overview (Outlook Search and Filter)](../../How-to/Search-and-Filter/overview-outlook-search-and-filter.md)
     
--  [Table](table.md)
+-  [Table](../../How-to/Search-and-Filter/table.md)
     
--  [Filtering](filtering.md)
+-  [Filtering](../../How-to/Search-and-Filter/filtering.md)
     
--  [Searching](searching.md)
+-  [Searching](../../How-to/Search-and-Filter/searching.md)
     
 -  [How To](how-to.md)
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 -  [Overview (Outlook Forms)](overview-outlook-forms.md)
     
--  [Understanding Outlook Forms](understanding-outlook-forms.md)
+-  [Understanding Outlook Forms](../Forms/understanding-outlook-forms.md)
     
 -  [Customizing Outlook Forms](customizing-outlook-forms.md)
     

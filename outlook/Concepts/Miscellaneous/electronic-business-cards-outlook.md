@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Customize and Share Business Cards](customize-and-share-business-cards.md)
+-  [Customize and Share Business Cards](../Electronic-Business-Cards/customize-and-share-business-cards.md)
     
--  [Share Contact Information Including the Business Card](share-contact-information-including-the-business-card.md)
+-  [Share Contact Information Including the Business Card](../Electronic-Business-Cards/share-contact-information-including-the-business-card.md)
     
 

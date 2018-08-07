@@ -11,59 +11,59 @@ ms.date: 06/08/2017
 This section contains the following overviews about programmability in Word:
 
 
--  [Adding Controls to a Document](adding-controls-to-a-document.md)
+-  [Adding Controls to a Document](../Customizing-Word/adding-controls-to-a-document.md)
     
--  [Adding Controls to a UserForm](adding-controls-to-a-userform.md)
+-  [Adding Controls to a UserForm](../Customizing-Word/adding-controls-to-a-userform.md)
     
--  [Applying Formatting to Text](applying-formatting-to-text.md)
+-  [Applying Formatting to Text](../Customizing-Word/applying-formatting-to-text.md)
     
--  [Assigning Ranges](assigning-ranges.md)
+-  [Assigning Ranges](../Customizing-Word/assigning-ranges.md)
     
--  [Auto Macros](auto-macros.md)
+-  [Auto Macros](../Customizing-Word/auto-macros.md)
     
--  [Automating Common Word Tasks](automating-common-word-tasks.md)
+-  [Automating Common Word Tasks](../Customizing-Word/automating-common-word-tasks.md)
     
--  [Built-in Dialog Box Argument Lists](built-in-dialog-box-argument-lists-word.md)
+-  [Built-in Dialog Box Argument Lists](../Customizing-Word/built-in-dialog-box-argument-lists-word.md)
     
--  [Communicating with Other Applications](communicating-with-other-applications.md)
+-  [Communicating with Other Applications](../Customizing-Word/communicating-with-other-applications.md)
     
--  [Conceptual Differences Between WordBasic and Visual Basic](conceptual-differences-between-wordbasic-and-visual-basic.md)
+-  [Conceptual Differences Between WordBasic and Visual Basic](../Customizing-Word/conceptual-differences-between-wordbasic-and-visual-basic.md)
     
--  [Control and Dialog Box Events](control-and-dialog-box-events-word.md)
+-  [Control and Dialog Box Events](../Customizing-Word/control-and-dialog-box-events-word.md)
     
--  [Converting WordBasic Macros to Visual Basic](converting-wordbasic-macros-to-visual-basic.md)
+-  [Converting WordBasic Macros to Visual Basic](../Customizing-Word/converting-wordbasic-macros-to-visual-basic.md)
     
--  [Creating a Custom Dialog Box](creating-a-custom-dialog-box.md)
+-  [Creating a Custom Dialog Box](../Customizing-Word/creating-a-custom-dialog-box.md)
     
--  [Creating a UserForm](creating-a-userform.md)
+-  [Creating a UserForm](../Customizing-Word/creating-a-userform.md)
     
--  [Creating Frames Pages](creating-frames-pages.md)
+-  [Creating Frames Pages](../Customizing-Word/creating-frames-pages.md)
     
--  [Determining Whether the Application Property Is Necessary](determining-whether-the-application-property-is-necessary.md)
+-  [Determining Whether the Application Property Is Necessary](../Customizing-Word/determining-whether-the-application-property-is-necessary.md)
     
--  [Displaying a Custom Dialog Box](displaying-a-custom-dialog-box-word.md)
+-  [Displaying a Custom Dialog Box](../Customizing-Word/displaying-a-custom-dialog-box-word.md)
     
--  [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md)
+-  [Displaying Built-in Word Dialog Boxes](../Customizing-Word/displaying-built-in-word-dialog-boxes.md)
     
--  [Editing Text](editing-text.md)
+-  [Editing Text](../Customizing-Word/editing-text.md)
     
--  [Error Accessing a Table Row or Column](error-accessing-a-table-row-or-column.md)
+-  [Error Accessing a Table Row or Column](../Customizing-Word/error-accessing-a-table-row-or-column.md)
     
--  [Finding and Replacing Text or Formatting](finding-and-replacing-text-or-formatting.md)
+-  [Finding and Replacing Text or Formatting](../Customizing-Word/finding-and-replacing-text-or-formatting.md)
     
--  [Finding Out Which Property or Method to Use](finding-out-which-property-or-method-to-use.md)
+-  [Finding Out Which Property or Method to Use](../Customizing-Word/finding-out-which-property-or-method-to-use.md)
     
--  [Frequently Asked Visual Basic Questions](frequently-asked-visual-basic-questions.md)
+-  [Frequently Asked Visual Basic Questions](../Customizing-Word/frequently-asked-visual-basic-questions.md)
     
--  [Initializing Control Properties](initializing-control-properties-word.md)
+-  [Initializing Control Properties](../Customizing-Word/initializing-control-properties-word.md)
     
--  [Inserting Text in a Document](inserting-text-in-a-document.md)
+-  [Inserting Text in a Document](../Customizing-Word/inserting-text-in-a-document.md)
     
--  [Looping Through a Collection](looping-through-a-collection.md)
+-  [Looping Through a Collection](../Customizing-Word/looping-through-a-collection.md)
     
--  [Miscellaneous Tasks](miscellaneous-tasks.md)
+-  [Miscellaneous Tasks](../Customizing-Word/miscellaneous-tasks.md)
     
--  [Modifying a Portion of a Document](modifying-a-portion-of-a-document.md)
+-  [Modifying a Portion of a Document](../Customizing-Word/modifying-a-portion-of-a-document.md)
     
 -  [Modifying a Word Command](modifying-a-word-command.md)
     
@@ -87,44 +87,44 @@ This section contains the following overviews about programmability in Word:
     
 -  [Returning Text from a Document](returning-text-from-a-document.md)
     
--  [Revising Recorded Visual Basic Macros](revising-recorded-visual-basic-macros.md)
+-  [Revising Recorded Visual Basic Macros](../Customizing-Word/revising-recorded-visual-basic-macros.md)
     
--  [Selecting Text in a Document](selecting-text-in-a-document.md)
+-  [Selecting Text in a Document](../Customizing-Word/selecting-text-in-a-document.md)
     
 -  [Setting Control Properties](setting-control-properties-word.md)
     
 -  [Storing Values When a Macro Ends](storing-values-when-a-macro-ends.md)
     
--  [Understanding Objects, Properties, and Methods](understanding-objects-properties-and-methods.md)
+-  [Understanding Objects, Properties, and Methods](../Objects-Properties-Methods/understanding-objects-properties-and-methods.md)
     
--  [Using ActiveX Controls on a Document](using-activex-controls-on-a-document-word.md)
+-  [Using ActiveX Controls on a Document](../Objects-Properties-Methods/using-activex-controls-on-a-document-word.md)
     
--  [Using ActiveX Controls on Word Documents](using-activex-controls-on-word-documents.md)
+-  [Using ActiveX Controls on Word Documents](../Objects-Properties-Methods/using-activex-controls-on-word-documents.md)
     
--  [Using Control Values While Code Is Running](using-control-values-while-code-is-running-word.md)
+-  [Using Control Values While Code Is Running](../Objects-Properties-Methods/using-control-values-while-code-is-running-word.md)
     
--  [Using DAO from Microsoft Word](using-dao-from-microsoft-word.md)
+-  [Using DAO from Microsoft Word](../Objects-Properties-Methods/using-dao-from-microsoft-word.md)
     
--  [Using Events with ActiveX Controls](using-events-with-activex-controls.md)
+-  [Using Events with ActiveX Controls](../Objects-Properties-Methods/using-events-with-activex-controls.md)
     
--  [Using Events with the Application Object](using-events-with-the-application-object-word.md)
+-  [Using Events with the Application Object](../Objects-Properties-Methods/using-events-with-the-application-object-word.md)
     
--  [Using Events with the Document Object](using-events-with-the-document-object.md)
+-  [Using Events with the Document Object](../Objects-Properties-Methods/using-events-with-the-document-object.md)
     
--  [Working with Bibliographies](working-with-bibliographies.md)
+-  [Working with Bibliographies](../Working-with-Word/working-with-bibliographies.md)
     
--  [Working with Building Blocks](working-with-building-blocks.md)
+-  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)
     
--  [Working With Charts](working-with-charts.md)
+-  [Working With Charts](../Working-with-Word/working-with-charts.md)
     
--  [Working with Content Controls](working-with-content-controls.md)
+-  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
     
--  [Working with Document Objects](working-with-document-objects.md)
+-  [Working with Document Objects](../Working-with-Word/working-with-document-objects.md)
     
--  [Working with Range Objects](working-with-range-objects.md)
+-  [Working with Range Objects](../Working-with-Word/working-with-range-objects.md)
     
--  [Working with Tables](working-with-tables.md)
+-  [Working with Tables](../Working-with-Word/working-with-tables.md)
     
--  [Working with the Selection Object](working-with-the-selection-object.md)
+-  [Working with the Selection Object](../Working-with-Word/working-with-the-selection-object.md)
     
 

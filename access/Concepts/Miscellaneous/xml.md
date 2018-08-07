@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Export a Report to XML](export-a-report-to-xml.md)
+- [Export a Report to XML](../XML/export-a-report-to-xml.md)
     
-- [Export Data, Schema, and Related Tables to XML](export-data-schema-and-related-tables-to-xml.md)
+- [Export Data, Schema, and Related Tables to XML](../XML/export-data-schema-and-related-tables-to-xml.md)
     
 

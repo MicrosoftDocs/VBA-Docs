@@ -18,11 +18,11 @@ This page links to help on widely used report-related tasks. To view other categ
     
       - Describes how to display a custom ribbon when a particular form or report is opened.
     
-- [How to: Call Procedures in a Subform or Subreport](create-alternating-row-colors-on-a-report.md)
+- [How to: Call Procedures in a Subform or Subreport](../Reports/create-alternating-row-colors-on-a-report.md)
     
       - Describes how to call a procedure that is stored in a subform or subreport from the main form or report.
     
-- [How to: Create Alternating Row Colors on a Report](create-alternating-row-colors-on-a-report.md)
+- [How to: Create Alternating Row Colors on a Report](../Reports/create-alternating-row-colors-on-a-report.md)
     
       - Describes how to apply shading to every other row in a report.
     
@@ -30,11 +30,11 @@ This page links to help on widely used report-related tasks. To view other categ
 ## Controls
 
 
-- [How to: Assign a Control a Value From a Table](assign-a-control-a-value-from-a-table.md)
+- [How to: Assign a Control a Value From a Table](../Controls/assign-a-control-a-value-from-a-table.md)
     
       - Describes how to use the  **DLookup** function to display the value of a field that is not in the record source for your form or report.
     
-- [How to: Set Form, Report, and Control Properties in Code](set-form-report-and-control-properties-in-code.md)
+- [How to: Set Form, Report, and Control Properties in Code](../Reports/set-form-report-and-control-properties-in-code.md)
     
       - Describes how to set properties of forms, reports, and controls.
     
@@ -42,15 +42,15 @@ This page links to help on widely used report-related tasks. To view other categ
 ## Printing
 
 
-- [How to: Programmatically Retrieve Printer Capabilities](programmatically-retrieve-printer-capabilities.md)
+- [How to: Programmatically Retrieve Printer Capabilities](../Printing/programmatically-retrieve-printer-capabilities.md)
     
       - Describes how to use the Windows API to determine a printer's capabilities.
     
-- [How to: Retrieve a List of Installed Printers](retrieve-a-list-of-installed-printers.md)
+- [How to: Retrieve a List of Installed Printers](../Printing/retrieve-a-list-of-installed-printers.md)
     
       - Describes how to use the  **Printers** collection to determine the installed printers.
     
-- [How to: Work with Form and Report Printer Settings](work-with-form-and-report-printer-settings.md)
+- [How to: Work with Form and Report Printer Settings](../Printing/work-with-form-and-report-printer-settings.md)
     
       - Describes how to set or retrieve printer settings for a specific form or report.
     
@@ -58,23 +58,23 @@ This page links to help on widely used report-related tasks. To view other categ
 ## Events
 
 
-- [How to: Apply a Filter When Opening a Form or Report](apply-a-filter-when-opening-a-form-or-report.md)
+- [How to: Apply a Filter When Opening a Form or Report](../Forms-Design/apply-a-filter-when-opening-a-form-or-report.md)
     
       - Describes several techniques for filtering a form or report as it opens.
     
-- [How to: Cancel an Event](cancel-an-event.md)
+- [How to: Cancel an Event](../Forms-Design/cancel-an-event.md)
     
       - Lists the events that can be canceled programmatically.
     
-- [How to: Change the Filter or Sort Order of a Form or Report](change-the-filter-or-sort-order-of-a-form-or-report.md)
+- [How to: Change the Filter or Sort Order of a Form or Report](../Forms-Design/change-the-filter-or-sort-order-of-a-form-or-report.md)
     
       - Describes how to change the filter or sort order of a form or report in response to users' actions.
     
-- [How to: Close a Report Automatically If It Does Not Contain Any Records](close-a-report-automatically-if-it-does-not-contain-any-records.md)
+- [How to: Close a Report Automatically If It Does Not Contain Any Records](../Printing/close-a-report-automatically-if-it-does-not-contain-any-records.md)
     
       - Describes how to to cancel opening or printing a report when it has no data.
     
-- [How to: Filter a Report Using a Form's Filter](filter-a-report-using-a-form-s-filter.md)
+- [How to: Filter a Report Using a Form's Filter](../Printing/filter-a-report-using-a-form-s-filter.md)
     
       - Describes how to open a report that contains only the filtered records of a form.
     

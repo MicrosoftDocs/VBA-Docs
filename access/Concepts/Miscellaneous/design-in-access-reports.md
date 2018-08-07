@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Create Alternating Row Colors on a Report](create-alternating-row-colors-on-a-report.md)
+- [Create Alternating Row Colors on a Report](../Reports/create-alternating-row-colors-on-a-report.md)
     
 

@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Managing Fields in the Forms Designer](managing-fields-in-the-forms-designer.md)
+-  [Managing Fields in the Forms Designer](../Specifying-Form-Behavior/managing-fields-in-the-forms-designer.md)
     
--  [Manipulating Controls in the Forms Designer](manipulating-controls-in-the-forms-designer.md)
+-  [Manipulating Controls in the Forms Designer](../Specifying-Form-Behavior/manipulating-controls-in-the-forms-designer.md)
     
--  [Manipulating Controls Programmatically](manipulating-controls-programmatically.md)
+-  [Manipulating Controls Programmatically](../Specifying-Form-Behavior/manipulating-controls-programmatically.md)
     
 

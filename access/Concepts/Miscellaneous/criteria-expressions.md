@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions.md)
+- [Calculate Fields in Domain Aggregate Functions](../Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md)
     
-- [Include Quotation Marks in String Expressions](include-quotation-marks-in-string-expressions.md)
+- [Include Quotation Marks in String Expressions](../Criteria-Expressions/include-quotation-marks-in-string-expressions.md)
     
-- [Sort Records in Case-Sensitive ( ASCII) Order](sort-records-in-case-sensitiveascii-order.md)
+- [Sort Records in Case-Sensitive ( ASCII) Order](../Criteria-Expressions/sort-records-in-case-sensitiveascii-order.md)
     
-- [Use Multiple Fields in Criteria Expressions](use-multiple-fields-in-criteria-expressions.md)
+- [Use Multiple Fields in Criteria Expressions](../Criteria-Expressions/use-multiple-fields-in-criteria-expressions.md)
     
-- [Use Numeric Criteria in Expressions](use-numeric-criteria-in-expressions.md)
+- [Use Numeric Criteria in Expressions](../Criteria-Expressions/use-numeric-criteria-in-expressions.md)
     
-- [Use Numeric Criteria from a Control on a Form](use-numeric-criteria-from-a-control-on-a-form.md)
+- [Use Numeric Criteria from a Control on a Form](../Forms/use-numeric-criteria-from-a-control-on-a-form.md)
     
-- [Use Textual Criteria Expressions](use-textual-criteria-expressions.md)
+- [Use Textual Criteria Expressions](../Criteria-Expressions/use-textual-criteria-expressions.md)
     
-- [Use Textual Criteria from a Control on a Form](use-textual-criteria-from-a-control-on-a-form.md)
+- [Use Textual Criteria from a Control on a Form](../Forms/use-textual-criteria-from-a-control-on-a-form.md)
     
 

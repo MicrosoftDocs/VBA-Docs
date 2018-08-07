@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Using Macros to Customize Outlook](using-macros-to-customize-outlook.md)
+-  [Using Macros to Customize Outlook](../Getting-Started/using-macros-to-customize-outlook.md)
     
--  [Using Visual Basic to Automate Outlook](using-visual-basic-to-automate-outlook.md)
+-  [Using Visual Basic to Automate Outlook](../Getting-Started/using-visual-basic-to-automate-outlook.md)
     
 

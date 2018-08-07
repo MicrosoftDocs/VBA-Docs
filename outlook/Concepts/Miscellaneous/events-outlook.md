@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Working with Outlook Events](working-with-outlook-events.md)
+-  [Working with Outlook Events](../Electronic-Business-Cards/working-with-outlook-events.md)
     
--  [Using Events with Automation](using-events-with-automation.md)
+-  [Using Events with Automation](../Electronic-Business-Cards/using-events-with-automation.md)
     
 

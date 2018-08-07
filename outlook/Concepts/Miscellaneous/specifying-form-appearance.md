@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Set the Background Color of a Form](set-the-background-color-of-a-form.md)
+-  [Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
     
--  [Assign a Picture to a Form](assign-a-picture-to-a-form.md)
+-  [Assign a Picture to a Form](../Configuring-Forms/assign-a-picture-to-a-form.md)
     
--  [Change the Icons Associated with your Form](change-the-icons-associated-with-your-form.md)
+-  [Change the Icons Associated with your Form](../Configuring-Forms/change-the-icons-associated-with-your-form.md)
     
--  [Specify Icons to be Displayed for a Form Region](specify-icons-to-be-displayed-for-a-form-region.md)
+-  [Specify Icons to be Displayed for a Form Region](../Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)
     
 

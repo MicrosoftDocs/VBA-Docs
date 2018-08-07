@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Compact and Repair a Database](compact-and-repair-a-database.md)
+- [Compact and Repair a Database](../Maintenance/compact-and-repair-a-database.md)
     
-- [Recover Tables Deleted from a Database](recover-tables-deleted-from-a-database.md)
+- [Recover Tables Deleted from a Database](../Maintenance/recover-tables-deleted-from-a-database.md)
     
-- [Handle Run-Time Errors in VBA](handle-run-time-errors-in-vba.md)
+- [Handle Run-Time Errors in VBA](../Maintenance/handle-run-time-errors-in-vba.md)
     
 

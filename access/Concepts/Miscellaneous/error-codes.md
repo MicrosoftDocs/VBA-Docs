@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Error Trapping](error-trapping.md)
+- [Error Trapping](../Error-Codes/error-trapping.md)
     
-- [Elements of Run-Time Error Handling](elements-of-run-time-error-handling.md)
+- [Elements of Run-Time Error Handling](../Error-Codes/elements-of-run-time-error-handling.md)
     
 

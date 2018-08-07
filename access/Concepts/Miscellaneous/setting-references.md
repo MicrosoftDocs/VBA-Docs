@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Set References to Type Libraries](set-references-to-type-libraries.md)
+- [Set References to Type Libraries](../Settings/set-references-to-type-libraries.md)
     
-- [Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](set-a-reference-to-a-visual-basic-project-in-another-microsoft-access-database-o.md)
+- [Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](../Settings/set-a-reference-to-a-visual-basic-project-in-another-microsoft-access-database-o.md)
     
 

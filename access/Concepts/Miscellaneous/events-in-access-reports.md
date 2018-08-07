@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Close a Report Automatically If It Does Not Contain Any Records](close-a-report-automatically-if-it-does-not-contain-any-records.md)
+- [Close a Report Automatically If It Does Not Contain Any Records](../Printing/close-a-report-automatically-if-it-does-not-contain-any-records.md)
     
-- [Filter a Report Using a Form's Filter](filter-a-report-using-a-form-s-filter.md)
+- [Filter a Report Using a Form's Filter](../Printing/filter-a-report-using-a-form-s-filter.md)
     
 
