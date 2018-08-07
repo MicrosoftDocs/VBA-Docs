@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [VisSaveAsWeb.WebPageSettings Property (Visio Save As Web)](vissaveasweb-webpagesettings-property-visio-save-as-web.md)
+-  [VisSaveAsWeb.WebPageSettings Property (Visio Save As Web)](../../api/Visio.WebPageSettings.md)
     
 

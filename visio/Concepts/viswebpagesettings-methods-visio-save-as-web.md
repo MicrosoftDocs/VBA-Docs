@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [VisWebPageSettings.GetFormatName Method (Visio Save As Web)](viswebpagesettings-getformatname-method-visio-save-as-web.md)
+-  [VisWebPageSettings.GetFormatName Method (Visio Save As Web)](../../api/Visio.GetFormatName.md)
     
--  [VisWebPageSettings.GetPhysicalDimensions Method (Visio Save As Web)](viswebpagesettings-getphysicaldimensions-method-visio-save-as-web.md)
+-  [VisWebPageSettings.GetPhysicalDimensions Method (Visio Save As Web)](../../api/Visio.GetPhysicalDimensions.md)
     
--  [VisWebPageSettings.InitSettings Method (Visio Save As Web)](viswebpagesettings-initsettings-method-visio-save-as-web.md)
+-  [VisWebPageSettings.InitSettings Method (Visio Save As Web)](../../api/Visio.InitSettings.md)
     
--  [VisWebPageSettings.ListFormats Method (Visio Save As Web)](viswebpagesettings-listformats-method-visio-save-as-web.md)
+-  [VisWebPageSettings.ListFormats Method (Visio Save As Web)](../../api/Visio.ListFormats.md)
     
--  [VisWebPageSettings.SaveSettings Method (Visio Save As Web)](viswebpagesettings-savesettings-method-visio-save-as-web.md)
+-  [VisWebPageSettings.SaveSettings Method (Visio Save As Web)](../../api/Visio.SaveSettings.md)
     
 

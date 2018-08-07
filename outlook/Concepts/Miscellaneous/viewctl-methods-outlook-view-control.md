@@ -11,90 +11,90 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ViewCtl.AddressBook Method (Outlook View Control)](viewctl-addressbook-method-outlook-view-control.md)
+-  [ViewCtl.AddressBook Method (Outlook View Control)](../../../api/Outlook.viewctl.addressbo.md)
     
--  [ViewCtl.AddToPFFavorites Method (Outlook View Control)](viewctl-addtopffavorites-method-outlook-view-control.md)
+-  [ViewCtl.AddToPFFavorites Method (Outlook View Control)](../../../api/Outlook.viewctl.addtopffavorit.md)
     
--  [ViewCtl.AdvancedFind Method (Outlook View Control)](viewctl-advancedfind-method-outlook-view-control.md)
+-  [ViewCtl.AdvancedFind Method (Outlook View Control)](../../../api/Outlook.viewctl.advancedfi.md)
     
--  [ViewCtl.Categories Method (Outlook View Control)](viewctl-categories-method-outlook-view-control.md)
+-  [ViewCtl.Categories Method (Outlook View Control)](../../../api/Outlook.viewctl.categori.md)
     
--  [ViewCtl.CollapseAllGroups Method (Outlook View Control)](viewctl-collapseallgroups-method-outlook-view-control.md)
+-  [ViewCtl.CollapseAllGroups Method (Outlook View Control)](../../../api/Outlook.viewctl.collapseallgrou.md)
     
--  [ViewCtl.CollapseGroup Method (Outlook View Control)](viewctl-collapsegroup-method-outlook-view-control.md)
+-  [ViewCtl.CollapseGroup Method (Outlook View Control)](../../../api/Outlook.viewctl.collapsegro.md)
     
--  [ViewCtl.CustomizeView Method (Outlook View Control)](viewctl-customizeview-method-outlook-view-control.md)
+-  [ViewCtl.CustomizeView Method (Outlook View Control)](../../../api/Outlook.viewctl.customizevi.md)
     
--  [ViewCtl.Delete Method (Outlook View Control)](viewctl-delete-method-outlook-view-control.md)
+-  [ViewCtl.Delete Method (Outlook View Control)](../../../api/Outlook.viewctl.dele.md)
     
--  [ViewCtl.ExpandAllGroups Method (Outlook View Control)](viewctl-expandallgroups-method-outlook-view-control.md)
+-  [ViewCtl.ExpandAllGroups Method (Outlook View Control)](../../../api/Outlook.viewctl.expandallgrou.md)
     
--  [ViewCtl.ExpandGroup Method (Outlook View Control)](viewctl-expandgroup-method-outlook-view-control.md)
+-  [ViewCtl.ExpandGroup Method (Outlook View Control)](../../../api/Outlook.viewctl.expandgro.md)
     
--  [ViewCtl.FlagItem Method (Outlook View Control)](viewctl-flagitem-method-outlook-view-control.md)
+-  [ViewCtl.FlagItem Method (Outlook View Control)](../../../api/Outlook.viewctl.flagit.md)
     
--  [ViewCtl.ForceUpdate Method (Outlook View Control)](viewctl-forceupdate-method-outlook-view-control.md)
+-  [ViewCtl.ForceUpdate Method (Outlook View Control)](../../../api/Outlook.viewctl.forceupda.md)
     
--  [ViewCtl.Forward Method (Outlook View Control)](viewctl-forward-method-outlook-view-control.md)
+-  [ViewCtl.Forward Method (Outlook View Control)](../../../api/Outlook.viewctl.forwa.md)
     
--  [ViewCtl.GoToDate Method (Outlook View Control)](viewctl-gotodate-method-outlook-view-control.md)
+-  [ViewCtl.GoToDate Method (Outlook View Control)](../../../api/Outlook.viewctl.gotoda.md)
     
--  [ViewCtl.GoToToday Method (Outlook View Control)](viewctl-gototoday-method-outlook-view-control.md)
+-  [ViewCtl.GoToToday Method (Outlook View Control)](../../../api/Outlook.viewctl.gototod.md)
     
--  [ViewCtl.GroupBy Method (Outlook View Control)](viewctl-groupby-method-outlook-view-control.md)
+-  [ViewCtl.GroupBy Method (Outlook View Control)](../../../api/Outlook.viewctl.group.md)
     
--  [ViewCtl.MarkAllAsRead Method (Outlook View Control)](viewctl-markallasread-method-outlook-view-control.md)
+-  [ViewCtl.MarkAllAsRead Method (Outlook View Control)](../../../api/Outlook.viewctl.markallasre.md)
     
--  [ViewCtl.MarkAsRead Method (Outlook View Control)](viewctl-markasread-method-outlook-view-control.md)
+-  [ViewCtl.MarkAsRead Method (Outlook View Control)](../../../api/Outlook.viewctl.markasre.md)
     
--  [ViewCtl.MarkAsUnread Method (Outlook View Control)](viewctl-markasunread-method-outlook-view-control.md)
+-  [ViewCtl.MarkAsUnread Method (Outlook View Control)](../../../api/Outlook.viewctl.markasunre.md)
     
--  [ViewCtl.MoveItem Method (Outlook View Control)](viewctl-moveitem-method-outlook-view-control.md)
+-  [ViewCtl.MoveItem Method (Outlook View Control)](../../../api/Outlook.viewctl.moveit.md)
     
--  [ViewCtl.NewAppointment Method (Outlook View Control)](viewctl-newappointment-method-outlook-view-control.md)
+-  [ViewCtl.NewAppointment Method (Outlook View Control)](../../../api/Outlook.viewctl.newappointme.md)
     
--  [ViewCtl.NewContact Method (Outlook View Control)](viewctl-newcontact-method-outlook-view-control.md)
+-  [ViewCtl.NewContact Method (Outlook View Control)](../../../api/Outlook.viewctl.newconta.md)
     
--  [ViewCtl.NewDefaultItem Method (Outlook View Control)](viewctl-newdefaultitem-method-outlook-view-control.md)
+-  [ViewCtl.NewDefaultItem Method (Outlook View Control)](../../../api/Outlook.viewctl.newdefaultit.md)
     
--  [ViewCtl.NewDistributionList Method (Outlook View Control)](viewctl-newdistributionlist-method-outlook-view-control.md)
+-  [ViewCtl.NewDistributionList Method (Outlook View Control)](../../../api/Outlook.viewctl.newdistributionli.md)
     
--  [ViewCtl.NewForm Method (Outlook View Control)](viewctl-newform-method-outlook-view-control.md)
+-  [ViewCtl.NewForm Method (Outlook View Control)](../../../api/Outlook.viewctl.newfo.md)
     
--  [ViewCtl.NewJournalEntry Method (Outlook View Control)](viewctl-newjournalentry-method-outlook-view-control.md)
+-  [ViewCtl.NewJournalEntry Method (Outlook View Control)](../../../api/Outlook.viewctl.newjournalent.md)
     
--  [ViewCtl.NewMeetingRequest Method (Outlook View Control)](viewctl-newmeetingrequest-method-outlook-view-control.md)
+-  [ViewCtl.NewMeetingRequest Method (Outlook View Control)](../../../api/Outlook.viewctl.newmeetingreque.md)
     
--  [ViewCtl.NewMessage Method (Outlook View Control)](viewctl-newmessage-method-outlook-view-control.md)
+-  [ViewCtl.NewMessage Method (Outlook View Control)](../../../api/Outlook.viewctl.newmessa.md)
     
--  [ViewCtl.NewNote Method (Outlook View Control)](viewctl-newnote-method-outlook-view-control.md)
+-  [ViewCtl.NewNote Method (Outlook View Control)](../../../api/Outlook.viewctl.newno.md)
     
--  [ViewCtl.NewPost Method (Outlook View Control)](viewctl-newpost-method-outlook-view-control.md)
+-  [ViewCtl.NewPost Method (Outlook View Control)](../../../api/Outlook.viewctl.newpo.md)
     
--  [ViewCtl.NewTask Method (Outlook View Control)](viewctl-newtask-method-outlook-view-control.md)
+-  [ViewCtl.NewTask Method (Outlook View Control)](../../../api/Outlook.viewctl.newta.md)
     
--  [ViewCtl.NewTaskRequest Method (Outlook View Control)](viewctl-newtaskrequest-method-outlook-view-control.md)
+-  [ViewCtl.NewTaskRequest Method (Outlook View Control)](../../../api/Outlook.viewctl.newtaskreque.md)
     
--  [ViewCtl.Open Method (Outlook View Control)](viewctl-open-method-outlook-view-control.md)
+-  [ViewCtl.Open Method (Outlook View Control)](../../../api/Outlook.viewctl.op.md)
     
--  [ViewCtl.OpenSharedDefaultFolder Method (Outlook View Control)](viewctl-openshareddefaultfolder-method-outlook-view-control.md)
+-  [ViewCtl.OpenSharedDefaultFolder Method (Outlook View Control)](../../../api/Outlook.viewctl.openshareddefaultfold.md)
     
--  [ViewCtl.PrintItem Method (Outlook View Control)](viewctl-printitem-method-outlook-view-control.md)
+-  [ViewCtl.PrintItem Method (Outlook View Control)](../../../api/Outlook.viewctl.printit.md)
     
--  [ViewCtl.Reply Method (Outlook View Control)](viewctl-reply-method-outlook-view-control.md)
+-  [ViewCtl.Reply Method (Outlook View Control)](../../../api/Outlook.viewctl.rep.md)
     
--  [ViewCtl.ReplyAll Method (Outlook View Control)](viewctl-replyall-method-outlook-view-control.md)
+-  [ViewCtl.ReplyAll Method (Outlook View Control)](../../../api/Outlook.viewctl.replya.md)
     
--  [ViewCtl.ReplyInFolder Method (Outlook View Control)](viewctl-replyinfolder-method-outlook-view-control.md)
+-  [ViewCtl.ReplyInFolder Method (Outlook View Control)](../../../api/Outlook.viewctl.replyinfold.md)
     
--  [ViewCtl.SaveAs Method (Outlook View Control)](viewctl-saveas-method-outlook-view-control.md)
+-  [ViewCtl.SaveAs Method (Outlook View Control)](../../../api/Outlook.viewctl.save.md)
     
--  [ViewCtl.SendAndReceive Method (Outlook View Control)](viewctl-sendandreceive-method-outlook-view-control.md)
+-  [ViewCtl.SendAndReceive Method (Outlook View Control)](../../../api/Outlook.viewctl.sendandrecei.md)
     
--  [ViewCtl.ShowFields Method (Outlook View Control)](viewctl-showfields-method-outlook-view-control.md)
+-  [ViewCtl.ShowFields Method (Outlook View Control)](../../../api/Outlook.viewctl.showfiel.md)
     
--  [ViewCtl.Sort Method (Outlook View Control)](viewctl-sort-method-outlook-view-control.md)
+-  [ViewCtl.Sort Method (Outlook View Control)](../../../api/Outlook.viewctl.so.md)
     
--  [ViewCtl.SynchFolder Method (Outlook View Control)](viewctl-synchfolder-method-outlook-view-control.md)
+-  [ViewCtl.SynchFolder Method (Outlook View Control)](../../../api/Outlook.viewctl.synchfold.md)
     
 

@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Viewer.OnDocumentLoaded Event (Visio Viewer)](viewer-ondocumentloaded-event-visio-viewer.md)
+-  [Viewer.OnDocumentLoaded Event (Visio Viewer)](../../api/Visio.OnDocumentLoaded.md)
     
--  [Viewer.OnDocumentUnloaded Event (Visio Viewer)](viewer-ondocumentunloaded-event-visio-viewer.md)
+-  [Viewer.OnDocumentUnloaded Event (Visio Viewer)](../../api/Visio.OnDocumentUnloaded.md)
     
--  [Viewer.OnLayerChanged Event (Visio Viewer)](viewer-onlayerchanged-event-visio-viewer.md)
+-  [Viewer.OnLayerChanged Event (Visio Viewer)](../../api/Visio.OnLayerChanged.md)
     
--  [Viewer.OnMarkupOverlaysVisibleChanged Event (Visio Viewer)](viewer-onmarkupoverlaysvisiblechanged-event-visio-viewer.md)
+-  [Viewer.OnMarkupOverlaysVisibleChanged Event (Visio Viewer)](../../api/Visio.OnMarkupOverlaysVisibleChanged.md)
     
--  [Viewer.OnPageChanged Event (Visio Viewer)](viewer-onpagechanged-event-visio-viewer.md)
+-  [Viewer.OnPageChanged Event (Visio Viewer)](../../api/Visio.OnPageChanged.md)
     
--  [Viewer.OnReviewerChanged Event (Visio Viewer)](viewer-onreviewerchanged-event-visio-viewer.md)
+-  [Viewer.OnReviewerChanged Event (Visio Viewer)](../../api/Visio.OnReviewerChanged.md)
     
--  [Viewer.OnSelectionChanged Event (Visio Viewer)](viewer-onselectionchanged-event-visio-viewer.md)
+-  [Viewer.OnSelectionChanged Event (Visio Viewer)](../../api/Visio.OnSelectionChanged.md)
     
--  [Viewer.OnToolbarCustomized Event (Visio Viewer)](viewer-ontoolbarcustomized-event-visio-viewer.md)
+-  [Viewer.OnToolbarCustomized Event (Visio Viewer)](../../api/Visio.OnToolbarCustomized.md)
     
--  [Viewer.OnViewChanged Event (Visio Viewer)](viewer-onviewchanged-event-visio-viewer.md)
+-  [Viewer.OnViewChanged Event (Visio Viewer)](../../api/Visio.OnViewChanged.md)
     
 

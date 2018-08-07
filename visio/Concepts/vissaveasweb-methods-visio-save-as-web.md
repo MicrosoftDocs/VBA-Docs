@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [VisSaveAsWeb.AttachToVisioDoc Method (Visio Save As Web)](vissaveasweb-attachtovisiodoc-method-visio-save-as-web.md)
+-  [VisSaveAsWeb.AttachToVisioDoc Method (Visio Save As Web)](../../api/Visio.AttachToVisioDoc.md)
     
--  [VisSaveAsWeb.CreatePages Method (Visio Save As Web)](vissaveasweb-createpages-method-visio-save-as-web.md)
+-  [VisSaveAsWeb.CreatePages Method (Visio Save As Web)](../../api/Visio.CreatePages.md)
     
 

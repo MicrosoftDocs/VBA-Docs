@@ -11,108 +11,108 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Viewer.AlertsEnabled Property (Visio Viewer)](viewer-alertsenabled-property-visio-viewer.md)
+-  [Viewer.AlertsEnabled Property (Visio Viewer)](../../api/Visio.AlertsEnabled.md)
     
--  [Viewer.BackColor Property (Visio Viewer)](viewer-backcolor-property-visio-viewer.md)
+-  [Viewer.BackColor Property (Visio Viewer)](../../api/Visio.viewer.backcolor.property.md)
     
--  [Viewer.BuildNumber Property (Visio Viewer)](viewer-buildnumber-property-visio-viewer.md)
+-  [Viewer.BuildNumber Property (Visio Viewer)](../../api/Visio.BuildNumber.md)
     
--  [Viewer.ContextMenuEnabled Property (Visio Viewer)](viewer-contextmenuenabled-property-visio-viewer.md)
+-  [Viewer.ContextMenuEnabled Property (Visio Viewer)](../../api/Visio.ContextMenuEnabled.md)
     
--  [Viewer.CurrentPageIndex Property (Visio Viewer)](viewer-currentpageindex-property-visio-viewer.md)
+-  [Viewer.CurrentPageIndex Property (Visio Viewer)](../../api/Visio.CurrentPageIndex.md)
     
--  [Viewer.CustomPropertyCount Property (Visio Viewer)](viewer-custompropertycount-property-visio-viewer.md)
+-  [Viewer.CustomPropertyCount Property (Visio Viewer)](../../api/Visio.CustomPropertyCount.md)
     
--  [Viewer.CustomPropertyName Property (Visio Viewer)](viewer-custompropertyname-property-visio-viewer.md)
+-  [Viewer.CustomPropertyName Property (Visio Viewer)](../../api/Visio.CustomPropertyName.md)
     
--  [Viewer.CustomPropertyValue Property (Visio Viewer)](viewer-custompropertyvalue-property-visio-viewer.md)
+-  [Viewer.CustomPropertyValue Property (Visio Viewer)](../../api/Visio.CustomPropertyValue.md)
     
--  [Viewer.DocumentLoaded Property (Visio Viewer)](viewer-documentloaded-property-visio-viewer.md)
+-  [Viewer.DocumentLoaded Property (Visio Viewer)](../../api/Visio.DocumentLoaded.md)
     
--  [Viewer.GridVisible Property (Visio Viewer)](viewer-gridvisible-property-visio-viewer.md)
+-  [Viewer.GridVisible Property (Visio Viewer)](../../api/Visio.GridVisible.md)
     
--  [Viewer.HighQualityRender Property (Visio Viewer)](viewer-highqualityrender-property-visio-viewer.md)
+-  [Viewer.HighQualityRender Property (Visio Viewer)](../../api/Visio.HighQualityRender.md)
     
--  [Viewer.HyperlinkAddress Property (Visio Viewer)](viewer-hyperlinkaddress-property-visio-viewer.md)
+-  [Viewer.HyperlinkAddress Property (Visio Viewer)](../../api/Visio.HyperlinkAddress.md)
     
--  [Viewer.HyperlinkCount Property (Visio Viewer)](viewer-hyperlinkcount-property-visio-viewer.md)
+-  [Viewer.HyperlinkCount Property (Visio Viewer)](../../api/Visio.HyperlinkCount.md)
     
--  [Viewer.LastErrorCode Property (Visio Viewer)](viewer-lasterrorcode-property-visio-viewer.md)
+-  [Viewer.LastErrorCode Property (Visio Viewer)](../../api/Visio.LastErrorCode.md)
     
--  [Viewer.LayerColor Property (Visio Viewer)](viewer-layercolor-property-visio-viewer.md)
+-  [Viewer.LayerColor Property (Visio Viewer)](../../api/Visio.LayerColor.md)
     
--  [Viewer.LayerColorOverride Property (Visio Viewer)](viewer-layercoloroverride-property-visio-viewer.md)
+-  [Viewer.LayerColorOverride Property (Visio Viewer)](../../api/Visio.LayerColorOverride.md)
     
--  [Viewer.LayerColorTrans Property (Visio Viewer)](viewer-layercolortrans-property-visio-viewer.md)
+-  [Viewer.LayerColorTrans Property (Visio Viewer)](../../api/Visio.LayerColorTrans.md)
     
--  [Viewer.LayerCount Property (Visio Viewer)](viewer-layercount-property-visio-viewer.md)
+-  [Viewer.LayerCount Property (Visio Viewer)](../../api/Visio.LayerCount.md)
     
--  [Viewer.LayerDeleted Property (Visio Viewer)](viewer-layerdeleted-property-visio-viewer.md)
+-  [Viewer.LayerDeleted Property (Visio Viewer)](../../api/Visio.LayerDeleted.md)
     
--  [Viewer.LayerName Property (Visio Viewer)](viewer-layername-property-visio-viewer.md)
+-  [Viewer.LayerName Property (Visio Viewer)](../../api/Visio.LayerName.md)
     
--  [Viewer.LayerVisible Property (Visio Viewer)](viewer-layervisible-property-visio-viewer.md)
+-  [Viewer.LayerVisible Property (Visio Viewer)](../../api/Visio.LayerVisible.md)
     
--  [Viewer.MajorVersionNumber Property (Visio Viewer)](viewer-majorversionnumber-property-visio-viewer.md)
+-  [Viewer.MajorVersionNumber Property (Visio Viewer)](../../api/Visio.MajorVersionNumber.md)
     
--  [Viewer.MarkupOverlaysVisible Property (Visio Viewer)](viewer-markupoverlaysvisible-property-visio-viewer.md)
+-  [Viewer.MarkupOverlaysVisible Property (Visio Viewer)](../../api/Visio.MarkupOverlaysVisible.md)
     
--  [Viewer.MinorVersionNumber Property (Visio Viewer)](viewer-minorversionnumber-property-visio-viewer.md)
+-  [Viewer.MinorVersionNumber Property (Visio Viewer)](../../api/Visio.MinorVersionNumber.md)
     
--  [Viewer.PageColor Property (Visio Viewer)](viewer-pagecolor-property-visio-viewer.md)
+-  [Viewer.PageColor Property (Visio Viewer)](../../api/Visio.PageColor.md)
     
--  [Viewer.PageCount Property (Visio Viewer)](viewer-pagecount-property-visio-viewer.md)
+-  [Viewer.PageCount Property (Visio Viewer)](../../api/Visio.PageCount.md)
     
--  [Viewer.PageIDToIndex Property (Visio Viewer)](viewer-pageidtoindex-property-visio-viewer.md)
+-  [Viewer.PageIDToIndex Property (Visio Viewer)](../../api/Visio.PageIDToIndex.md)
     
--  [Viewer.PageIndexToID Property (Visio Viewer)](viewer-pageindextoid-property-visio-viewer.md)
+-  [Viewer.PageIndexToID Property (Visio Viewer)](../../api/Visio.PageIndexToID.md)
     
--  [Viewer.PageName Property (Visio Viewer)](viewer-pagename-property-visio-viewer.md)
+-  [Viewer.PageName Property (Visio Viewer)](../../api/Visio.PageName.md)
     
--  [Viewer.PageTabsVisible Property (Visio Viewer)](viewer-pagetabsvisible-property-visio-viewer.md)
+-  [Viewer.PageTabsVisible Property (Visio Viewer)](../../api/Visio.PageTabsVisible.md)
     
--  [Viewer.PageVisible Property (Visio Viewer)](viewer-pagevisible-property-visio-viewer.md)
+-  [Viewer.PageVisible Property (Visio Viewer)](../../api/Visio.PageVisible.md)
     
--  [Viewer.ParentShape Property (Visio Viewer)](viewer-parentshape-property-visio-viewer.md)
+-  [Viewer.ParentShape Property (Visio Viewer)](../../api/Visio.ParentShape.md)
     
--  [Viewer.PropertyDialogEnabled Property (Visio Viewer)](viewer-propertydialogenabled-property-visio-viewer.md)
+-  [Viewer.PropertyDialogEnabled Property (Visio Viewer)](../../api/Visio.PropertyDialogEnabled.md)
     
--  [Viewer.ReviewerColor Property (Visio Viewer)](viewer-reviewercolor-property-visio-viewer.md)
+-  [Viewer.ReviewerColor Property (Visio Viewer)](../../api/Visio.ReviewerColor.md)
     
--  [Viewer.ReviewerCount Property (Visio Viewer)](viewer-reviewercount-property-visio-viewer.md)
+-  [Viewer.ReviewerCount Property (Visio Viewer)](../../api/Visio.ReviewerCount.md)
     
--  [Viewer.ReviewerID Property (Visio Viewer)](viewer-reviewerid-property-visio-viewer.md)
+-  [Viewer.ReviewerID Property (Visio Viewer)](../../api/Visio.ReviewerID.md)
     
--  [Viewer.ReviewerInitial Property (Visio Viewer)](viewer-reviewerinitial-property-visio-viewer.md)
+-  [Viewer.ReviewerInitial Property (Visio Viewer)](../../api/Visio.ReviewerInitial.md)
     
--  [Viewer.ReviewerMarkupVisible Property (Visio Viewer)](viewer-reviewermarkupvisible-property-visio-viewer.md)
+-  [Viewer.ReviewerMarkupVisible Property (Visio Viewer)](../../api/Visio.ReviewerMarkupVisible.md)
     
--  [Viewer.ReviewerName Property (Visio Viewer)](viewer-reviewername-property-visio-viewer.md)
+-  [Viewer.ReviewerName Property (Visio Viewer)](../../api/Visio.ReviewerName.md)
     
--  [Viewer.ScrollbarsVisible Property (Visio Viewer)](viewer-scrollbarsvisible-property-visio-viewer.md)
+-  [Viewer.ScrollbarsVisible Property (Visio Viewer)](../../api/Visio.ScrollbarsVisible.md)
     
--  [Viewer.SelectedShapeIndex Property (Visio Viewer)](viewer-selectedshapeindex-property-visio-viewer.md)
+-  [Viewer.SelectedShapeIndex Property (Visio Viewer)](../../api/Visio.SelectedShapeIndex.md)
     
--  [Viewer.ShapeAtPoint Property (Visio Viewer)](viewer-shapeatpoint-property-visio-viewer.md)
+-  [Viewer.ShapeAtPoint Property (Visio Viewer)](../../api/Visio.ShapeAtPoint.md)
     
--  [Viewer.ShapeCount Property (Visio Viewer)](viewer-shapecount-property-visio-viewer.md)
+-  [Viewer.ShapeCount Property (Visio Viewer)](../../api/Visio.ShapeCount.md)
     
--  [Viewer.ShapeIDToIndex Property (Visio Viewer)](viewer-shapeidtoindex-property-visio-viewer.md)
+-  [Viewer.ShapeIDToIndex Property (Visio Viewer)](../../api/Visio.ShapeIDToIndex.md)
     
--  [Viewer.ShapeIndexToID Property (Visio Viewer)](viewer-shapeindextoid-property-visio-viewer.md)
+-  [Viewer.ShapeIndexToID Property (Visio Viewer)](../../api/Visio.ShapeIndexToID.md)
     
--  [Viewer.ShapeName Property (Visio Viewer)](viewer-shapename-property-visio-viewer.md)
+-  [Viewer.ShapeName Property (Visio Viewer)](../../api/Visio.ShapeName.md)
     
--  [Viewer.SRC Property (Visio Viewer)](viewer-src-property-visio-viewer.md)
+-  [Viewer.SRC Property (Visio Viewer)](../../api/Visio.viewer.src.property.md)
     
--  [Viewer.SubShapeAtPoint Property (Visio Viewer)](viewer-subshapeatpoint-property-visio-viewer.md)
+-  [Viewer.SubShapeAtPoint Property (Visio Viewer)](../../api/Visio.SubShapeAtPoint.md)
     
--  [Viewer.ToolbarButtons Property (Visio Viewer)](viewer-toolbarbuttons-property-visio-viewer.md)
+-  [Viewer.ToolbarButtons Property (Visio Viewer)](../../api/Visio.ToolbarButtons.md)
     
--  [Viewer.ToolbarCustomizable Property (Visio Viewer)](viewer-toolbarcustomizable-property-visio-viewer.md)
+-  [Viewer.ToolbarCustomizable Property (Visio Viewer)](../../api/Visio.ToolbarCustomizable.md)
     
--  [Viewer.ToolbarVisible Property (Visio Viewer)](viewer-toolbarvisible-property-visio-viewer.md)
+-  [Viewer.ToolbarVisible Property (Visio Viewer)](../../api/Visio.ToolbarVisible.md)
     
--  [Viewer.Zoom Property (Visio Viewer)](viewer-zoom-property-visio-viewer.md)
+-  [Viewer.Zoom Property (Visio Viewer)](../../api/Visio.viewer.zoom.property.md)
     
 

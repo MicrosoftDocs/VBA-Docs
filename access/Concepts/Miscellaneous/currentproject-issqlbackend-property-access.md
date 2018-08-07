@@ -27,5 +27,5 @@ Returns  **true** if the current project was created in Access 2013 and onwards 
 #### Concepts
 
 
-[CurrentProject Object](currentproject-object-access.md)
+[CurrentProject Object](../../../api/Access.CurrentProject.md)
 

@@ -24,8 +24,8 @@ The names of the startup properties differ from the text that appears in the  **
 
 |**Text in Startup dialog box**|**Property name**|
 |:-----|:-----|
-|Application Title|**[AppTitle](apptitle-property.md)**|
-|Application Icon|**[AppIcon](appicon-property.md)**|
+|Application Title|**[AppTitle](../../../api/Access.AppTitle.md)**|
+|Application Icon|**[AppIcon](../../../api/Access.AppIcon.md)**|
 |Display Form/Page|**StartupForm**|
 |Display Database Window|**StartupShowDBWindow**|
 |Display Status Bar|**StartupShowStatusBar**|

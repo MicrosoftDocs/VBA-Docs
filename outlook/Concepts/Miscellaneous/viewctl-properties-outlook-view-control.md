@@ -11,32 +11,32 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ViewCtl.ActiveFolder Property (Outlook View Control)](viewctl-activefolder-property-outlook-view-control.md)
+-  [ViewCtl.ActiveFolder Property (Outlook View Control)](../../../api/Outlook.viewctl.activefold.md)
     
--  [ViewCtl.DeferUpdate Property (Outlook View Control)](viewctl-deferupdate-property-outlook-view-control.md)
+-  [ViewCtl.DeferUpdate Property (Outlook View Control)](../../../api/Outlook.viewctl.deferupda.md)
     
--  [ViewCtl.EnableRowPersistance Property (Outlook View Control)](viewctl-enablerowpersistance-property-outlook-view-control.md)
+-  [ViewCtl.EnableRowPersistance Property (Outlook View Control)](../../../api/Outlook.viewctl.enablerowpersistan.md)
     
--  [ViewCtl.Filter Property (Outlook View Control)](viewctl-filter-property-outlook-view-control.md)
+-  [ViewCtl.Filter Property (Outlook View Control)](../../../api/Outlook.viewctl.filt.md)
     
--  [ViewCtl.FilterAppend Property (Outlook View Control)](viewctl-filterappend-property-outlook-view-control.md)
+-  [ViewCtl.FilterAppend Property (Outlook View Control)](../../../api/Outlook.viewctl.filterappe.md)
     
--  [ViewCtl.Folder Property (Outlook View Control)](viewctl-folder-property-outlook-view-control.md)
+-  [ViewCtl.Folder Property (Outlook View Control)](../../../api/Outlook.viewctl.fold.md)
     
--  [ViewCtl.ItemCount Property (Outlook View Control)](viewctl-itemcount-property-outlook-view-control.md)
+-  [ViewCtl.ItemCount Property (Outlook View Control)](../../../api/Outlook.viewctl.itemcou.md)
     
--  [ViewCtl.Namespace Property (Outlook View Control)](viewctl-namespace-property-outlook-view-control.md)
+-  [ViewCtl.Namespace Property (Outlook View Control)](../../../api/Outlook.viewctl.namespa.md)
     
--  [ViewCtl.OutlookApplication Property (Outlook View Control)](viewctl-outlookapplication-property-outlook-view-control.md)
+-  [ViewCtl.OutlookApplication Property (Outlook View Control)](../../../api/Outlook.viewctl.outlookapplicati.md)
     
--  [ViewCtl.Restriction Property (Outlook View Control)](viewctl-restriction-property-outlook-view-control.md)
+-  [ViewCtl.Restriction Property (Outlook View Control)](../../../api/Outlook.viewctl.restricti.md)
     
--  [ViewCtl.SelectedDate Property (Outlook View Control)](viewctl-selecteddate-property-outlook-view-control.md)
+-  [ViewCtl.SelectedDate Property (Outlook View Control)](../../../api/Outlook.viewctl.selectedda.md)
     
--  [ViewCtl.Selection Property (Outlook View Control)](viewctl-selection-property-outlook-view-control.md)
+-  [ViewCtl.Selection Property (Outlook View Control)](../../../api/Outlook.viewctl.selecti.md)
     
--  [ViewCtl.View Property (Outlook View Control)](viewctl-view-property-outlook-view-control.md)
+-  [ViewCtl.View Property (Outlook View Control)](../../../api/Outlook.viewctl.vi.md)
     
--  [ViewCtl.ViewXML Property (Outlook View Control)](viewctl-viewxml-property-outlook-view-control.md)
+-  [ViewCtl.ViewXML Property (Outlook View Control)](../../../api/Outlook.viewctl.viewx.md)
     
 

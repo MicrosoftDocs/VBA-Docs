@@ -11,32 +11,32 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Viewer.DisplayAbout Method (Visio Viewer)](viewer-displayabout-method-visio-viewer.md)
+-  [Viewer.DisplayAbout Method (Visio Viewer)](../../api/Visio.DisplayAbout.md)
     
--  [Viewer.DisplayContextMenu Method (Visio Viewer)](viewer-displaycontextmenu-method-visio-viewer.md)
+-  [Viewer.DisplayContextMenu Method (Visio Viewer)](../../api/Visio.DisplayContextMenu.md)
     
--  [Viewer.DisplayHelp Method (Visio Viewer)](viewer-displayhelp-method-visio-viewer.md)
+-  [Viewer.DisplayHelp Method (Visio Viewer)](../../api/Visio.DisplayHelp.md)
     
--  [Viewer.DisplayPropertyDialog Method (Visio Viewer)](viewer-displaypropertydialog-method-visio-viewer.md)
+-  [Viewer.DisplayPropertyDialog Method (Visio Viewer)](../../api/Visio.DisplayPropertyDialog.md)
     
--  [Viewer.FollowHyperlink Method (Visio Viewer)](viewer-followhyperlink-method-visio-viewer.md)
+-  [Viewer.FollowHyperlink Method (Visio Viewer)](../../api/Visio.FollowHyperlink.md)
     
--  [Viewer.GetErrorMessage Method (Visio Viewer)](viewer-geterrormessage-method-visio-viewer.md)
+-  [Viewer.GetErrorMessage Method (Visio Viewer)](../../api/Visio.GetErrorMessage.md)
     
--  [Viewer.GetPageView Method (Visio Viewer)](viewer-getpageview-method-visio-viewer.md)
+-  [Viewer.GetPageView Method (Visio Viewer)](../../api/Visio.GetPageView.md)
     
--  [Viewer.Load Method (Visio Viewer)](viewer-load-method-visio-viewer.md)
+-  [Viewer.Load Method (Visio Viewer)](../../api/Visio.Load.md)
     
--  [Viewer.Pan Method (Visio Viewer)](viewer-pan-method-visio-viewer.md)
+-  [Viewer.Pan Method (Visio Viewer)](../../api/Visio.Pan.md)
     
--  [Viewer.SelectShape Method (Visio Viewer)](viewer-selectshape-method-visio-viewer.md)
+-  [Viewer.SelectShape Method (Visio Viewer)](../../api/Visio.SelectShape.md)
     
--  [Viewer.SetPageView Method (Visio Viewer)](viewer-setpageview-method-visio-viewer.md)
+-  [Viewer.SetPageView Method (Visio Viewer)](../../api/Visio.SetPageView.md)
     
--  [Viewer.Unload Method (Visio Viewer)](viewer-unload-method-visio-viewer.md)
+-  [Viewer.Unload Method (Visio Viewer)](../../api/Visio.Unload.md)
     
--  [Viewer.ZoomToPoint Method (Visio Viewer)](viewer-zoomtopoint-method-visio-viewer.md)
+-  [Viewer.ZoomToPoint Method (Visio Viewer)](../../api/Visio.ZoomToPoint.md)
     
--  [Viewer.ZoomToRect Method (Visio Viewer)](viewer-zoomtorect-method-visio-viewer.md)
+-  [Viewer.ZoomToRect Method (Visio Viewer)](../../api/Visio.ZoomToRect.md)
     
 
