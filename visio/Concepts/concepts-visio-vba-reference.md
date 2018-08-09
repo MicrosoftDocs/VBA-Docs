@@ -2,6 +2,7 @@
 title: Concepts (Visio VBA reference)
 ms.prod: visio
 ms.assetid: dd3742ff-6753-11b5-dbbc-cc6ff467146f
+ROBOTS: NOINDEX
 ms.date: 06/08/2017
 ---
 

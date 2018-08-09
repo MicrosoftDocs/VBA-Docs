@@ -84,6 +84,12 @@
         "publisher/**.md": "publisher",
         "visio/**.md": "visio",
         "word/**.md": "word"
+      },
+      "ROBOTS": {
+         "access/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "excel/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "outlook/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "Office-F1-Landing/**.md": "NOINDEX,NOFOLLOW"
       }
     },
     "template": [],
