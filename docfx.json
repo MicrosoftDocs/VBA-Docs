@@ -39,7 +39,7 @@
       "breadcrumb_path": "/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "ms.suite": "office",
-      "ms.date": "7/12/2018",
+      "ms.date": "08/16/2018",
       "ms.technology": "vba",
       "ms.author": "o365devx",
       "author": "o365devx",
@@ -89,7 +89,7 @@
          "access/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
          "excel/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
          "outlook/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
-         "Office-F1-Landing/**.md": "NOINDEX,NOFOLLOW"
+         "F1/**.md": "NOINDEX,NOFOLLOW"
       }
     },
     "template": [],
