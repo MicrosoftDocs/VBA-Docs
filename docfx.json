@@ -1,0 +1,99 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "ms.suite": "office",
+      "ms.date": "08/16/2018",
+      "ms.technology": "vba",
+      "ms.author": "o365devx",
+      "author": "o365devx",
+      "ms.topic": "reference",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/VBA-Docs"
+    },
+    "fileMetadata": {
+      "ms.topic": {
+        "api/**.md": "reference",
+        "access/**.md": "conceptual",
+        "excel/**.md": "conceptual",
+        "Language/**.md": "conceptual",
+        "Library-Reference/**.md": "conceptual",
+        "Office-Mac/**.md": "conceptual",
+        "outlook/**.md": "conceptual",
+        "powerpoint/**.md": "conceptual",
+        "project/**.md": "conceptual",
+        "publisher/**.md": "conceptual",
+        "visio/**.md": "conceptual",
+        "word/**.md": "conceptual"
+      },
+      "ms.prod": {
+        "api/Access.*.md": "access",
+        "api/Excel.*.md": "excel",
+        "api/Outlook.*.md": "outlook",
+        "api/PowerPoint.*.md": "powerpoint",
+        "api/Project.*.md": "project",
+        "api/Publisher.*.md": "publisher",
+        "api/Visio.*.md": "visio",
+        "api/Word.*.md": "word",
+        "api/Office.*.md": "office",
+        "api/overview/**.md": "vba",
+        "access/**.md": "access",
+        "excel/**.md": "excel",
+        "Language/**.md": "office",
+        "Library-Reference/**.md": "office",
+        "Office-Mac/**.md": "office",
+        "outlook/**.md": "outlook",
+        "powerpoint/**.md": "powerpoint",
+        "project/**.md": "project",
+        "publisher/**.md": "publisher",
+        "visio/**.md": "visio",
+        "word/**.md": "word"
+      },
+      "ROBOTS": {
+         "access/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "excel/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "outlook/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
+         "F1/**.md": "NOINDEX,NOFOLLOW"
+      }
+    },
+    "template": [],
+    "dest": "VBA-Docs",
+    "markdownEngineName": "markdig"
+  }
+}

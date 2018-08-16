@@ -1,0 +1,27 @@
+---
+title: TextFrame2.WordWrap Property (Excel)
+ms.prod: excel
+api_name:
+- Excel.TextFrame2.WordWrap
+ms.assetid: ed768819-89f9-7d8d-1ed2-706de15ad8e7
+ms.date: 06/08/2017
+---
+
+
+# TextFrame2.WordWrap Property (Excel)
+
+Returns or sets text break lines within or past the boundaries of the shape. Read/write  **[MsoTriState](./Office.MsoTriState.md)** .
+
+
+## Syntax
+
+ _expression_. `WordWrap`
+
+ _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+
+
+## See also
+
+
+[TextFrame2 Object](Excel.TextFrame2.md)
+

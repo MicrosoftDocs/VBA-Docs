@@ -1,0 +1,27 @@
+---
+title: TextFrame2.TextRange Property (Excel)
+ms.prod: excel
+api_name:
+- Excel.TextFrame2.TextRange
+ms.assetid: 3b38e21e-f1c4-48b3-308a-14dee8de23d2
+ms.date: 06/08/2017
+---
+
+
+# TextFrame2.TextRange Property (Excel)
+
+Returns the  **[TextRange2](./Office.TextRange2.md)** object that represents the text in the object. Read-only.
+
+
+## Syntax
+
+ _expression_. `TextRange`
+
+ _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+
+
+## See also
+
+
+[TextFrame2 Object](Excel.TextFrame2.md)
+
