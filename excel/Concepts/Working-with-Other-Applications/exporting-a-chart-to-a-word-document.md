@@ -41,12 +41,12 @@ Sub Export_Chart_Word()
     
     'Export the chart to the current directory, using the specified name, and save the chart as a .gif
     ChartObj.Chart.Export _
-                   Filename:=wbBook.Path &; "\" &; stChartName, _
+                   Filename:=wbBook.Path & "\" & stChartName, _
                    FilterName:="GIF"
     
     'Initialize the Word objets to the existing Word document and bookmark.
     Set wdApp = New Word.Application
-    Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\" &; stWordDocument)
+    Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordDocument)
     Set wdbmRange = wdDoc.Bookmarks("ChartReport").Range
     
     'If there is already an inline shape, that means the macro has been run before - clean up any artifacts.
@@ -62,7 +62,7 @@ Sub Export_Chart_Word()
     With wdbmRange
         .Select
         .InlineShapes.AddPicture _
-        Filename:=wbBook.Path &; "\" &; stChartName, _
+        Filename:=wbBook.Path & "\" & stChartName, _
         LinkToFile:=False, _
         savewithdocument:=True
     End With
@@ -83,10 +83,10 @@ Sub Export_Chart_Word()
     
     'Delete the temporary .gif file.
     On Error Resume Next
-    Kill wbBook.Path &; "\" &; stChartName
+    Kill wbBook.Path & "\" & stChartName
     On Error GoTo 0
     
-    MsgBox "Chart exported successfully to " &; stWordDocument
+    MsgBox "Chart exported successfully to " & stWordDocument
 
 End Sub
 ```

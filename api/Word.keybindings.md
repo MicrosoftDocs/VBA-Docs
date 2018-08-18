@@ -19,8 +19,8 @@ Use the  **[KeyBindings](Word.Application.KeyBindings.md)** property to return t
 ```vb
 CustomizationContext = NormalTemplate 
 For Each aKey In KeyBindings 
- Selection.InsertAfter aKey.Command &; vbTab _ 
- &; aKey.KeyString &; vbCr 
+ Selection.InsertAfter aKey.Command & vbTab _ 
+ & aKey.KeyString & vbCr 
  Selection.Collapse Direction:=wdCollapseEnd 
 Next aKey
 ```

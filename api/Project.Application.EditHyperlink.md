@@ -52,7 +52,7 @@ The following example first creates a hyperlink in the Gantt Chart view and then
 ```vb
 Sub Edit_Hyperlink() 
  
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectRow Row:=2, RowRelative:=False 
  InsertHyperlink Name:="https://MSDN", Address:="https://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 
  

@@ -41,7 +41,7 @@ Sub Export_Table_Data_Word()
     
     'Instantiate Word and open the "Table Reports" document.
     Set wdApp = New Word.Application
-    Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\" &; stWordDocument)
+    Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordDocument)
     
     lnCountItems = 1
     
@@ -64,7 +64,7 @@ Sub Export_Table_Data_Word()
     Set wdDoc = Nothing
     Set wdApp = Nothing
     
-    MsgBox "The " &; stWordDocument &; "'s table has succcessfully " &; vbNewLine &; _
+    MsgBox "The " & stWordDocument & "'s table has succcessfully " & vbNewLine & _
            "been updated!", vbInformation
 
 End Sub

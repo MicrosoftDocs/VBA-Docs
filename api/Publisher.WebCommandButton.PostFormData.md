@@ -58,7 +58,7 @@ With shpNew.WebCommandButton
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
  .ActionURL = "https://www.tailspintoys.com/" _ 
- &; "scripts/ispscript.cgi" 
+ & "scripts/ispscript.cgi" 
  .PostFormData = msoFalse 
 End With
 ```

@@ -18,7 +18,7 @@ Visual Basic permits you to use very large strings. However, the requirements of
   ```vb
     MyString = "Hello" 
     For Count = 1 To 100 
-    MyString = MyString &; MyString 
+    MyString = MyString & MyString 
     Next Count 
   ```
 

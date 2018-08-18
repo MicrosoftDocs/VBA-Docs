@@ -22,7 +22,7 @@ Event procedures in the [Project](../../api/Project.Project.md) object are avail
 Public WithEvents oApp As Application 
  
 Private Sub oApp_NewProject(ByVal pj As Project) 
-    MsgBox "You created the " &; pj.Name &; " project." 
+    MsgBox "You created the " & pj.Name & " project." 
 End Sub 
  
 Private Sub Class_Initialize() 

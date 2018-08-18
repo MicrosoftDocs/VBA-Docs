@@ -54,9 +54,9 @@ Sub VarX()
     ' Calculate the variance of freight costs for  
     ' orders shipped to the United Kingdom.  
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "Var(Freight) " _ 
-        &; "AS [UK Freight Variance] " _ 
-        &; "FROM Orders WHERE ShipCountry = 'UK';") 
+        & "Var(Freight) " _ 
+        & "AS [UK Freight Variance] " _ 
+        & "FROM Orders WHERE ShipCountry = 'UK';") 
  
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -69,9 +69,9 @@ Sub VarX()
     Debug.Print 
      
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "VarP(Freight) " _ 
-        &; "AS [UK Freight VarianceP] " _ 
-        &; "FROM Orders WHERE ShipCountry = 'UK';") 
+        & "VarP(Freight) " _ 
+        & "AS [UK Freight VarianceP] " _ 
+        & "FROM Orders WHERE ShipCountry = 'UK';") 
  
     ' Populate the Recordset. 
     rst.MoveLast 

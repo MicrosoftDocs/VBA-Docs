@@ -51,7 +51,7 @@ The  _pvPathIndex_,  _pvCurveIndex_, and  _pvt_ arguments optionally return valu
 
 
 ```vb
-ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&;xOnThis ,&;yOnthis)
+ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&xOnThis ,&yOnthis)
 ```
 
 You can use the  **PointAndDerivatives** method instead of the **Point** method if you want to find the first and second derivatives at position _t_ along the curve.

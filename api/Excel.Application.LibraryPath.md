@@ -30,7 +30,7 @@ This example opens the file Oscar.xla in the Library folder.
 
 ```vb
 pathSep = Application.PathSeparator 
-f = Application.LibraryPath &; pathSep &; "Oscar.Xla" 
+f = Application.LibraryPath & pathSep & "Oscar.Xla" 
 Workbooks.Open filename:=f
 ```
 
