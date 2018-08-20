@@ -41,21 +41,24 @@ When used within nested  **Do…Loop** statements, **Exit Do** transfers control
 
 ## Example
 
-This example shows how  **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, sets the value of the flag to **False**, and exits prematurely using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
+This example shows how  **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, asks the user if it should keep going, sets the value of the flag to **False** when they select **No**, and exits prematurely using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
 
 
 ```vb
-Dim Check, Counter 
-Check = True: Counter = 0 ' Initialize variables. 
-Do ' Outer loop. 
- Do While Counter < 20 ' Inner loop. 
- Counter = Counter + 1 ' Increment Counter. 
- If Counter = 10 Then ' If condition is True. 
- Check = False ' Set value of flag to False. 
- Exit Do ' Exit inner loop. 
- End If 
- LoopLoop Until Check = False ' Exit outer loop immediately. 
-
+Public Sub LoopExample()
+    Dim Check As Boolean, Counter As Long, Total As Long
+    Check = True: Counter = 0: Total = 0 ' Initalize variables.
+    Do ' Outer loop.
+        Do While Counter < 20 ' Inner Loop
+            Counter = Counter + 1 ' Increment Counter.
+            If Counter Mod 10 = 0 Then ' Check in with the user on every multiple of 10.
+                Check = (MsgBox("Keep going?", vbYesNo) = vbYes) ' Stop when user click's on No
+                If Not Check Then Exit Do ' Exit inner loop.
+            End If
+        Loop
+        Total = Total + Counter ' Exit Do Lands here.
+        Counter = 0
+    Loop Until Check = False ' Exit outer loop immediately.
+    MsgBox "Counted to: " & Total
+End Sub
 ```
-
-
