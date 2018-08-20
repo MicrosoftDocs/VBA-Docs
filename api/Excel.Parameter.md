@@ -28,7 +28,7 @@ Use  **[Parameters](Excel.QueryTable.Parameters.md)** ( _index_ ), where _index_
 
 ```vb
 With Worksheets(1).QueryTables(1).Parameters(1) 
- .SetParam xlPrompt, "Please " &; .PromptString 
+ .SetParam xlPrompt, "Please " & .PromptString 
 End With
 ```
 

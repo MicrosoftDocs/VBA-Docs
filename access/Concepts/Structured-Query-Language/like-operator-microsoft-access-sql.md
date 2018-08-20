@@ -73,8 +73,8 @@ Sub LikeX()
     ' Return a list of employees whose names begin with 
     ' the letters A through D. 
     Set rst = dbs.OpenRecordset("SELECT LastName," _ 
-        &; " FirstName FROM Employees" _ 
-        &; " WHERE LastName Like '[A-D]*';") 
+        & " FirstName FROM Employees" _ 
+        & " WHERE LastName Like '[A-D]*';") 
  
     ' Populate the Recordset. 
     rst.MoveLast 

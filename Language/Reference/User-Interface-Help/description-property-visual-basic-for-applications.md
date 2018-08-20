@@ -25,7 +25,7 @@ This example assigns a user-defined message to the  **Description** property of 
 
 ```vb
 Err. Description = "It was not possible to access an object necessary " _
-&; "for this operation."
+& "for this operation."
 
 ```
 

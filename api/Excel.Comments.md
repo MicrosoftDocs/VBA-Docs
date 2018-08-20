@@ -41,7 +41,7 @@ Use the  **[AddComment](Excel.Range.AddComment.md)** method to add a comment to 
 ```vb
 With Worksheets(1).Range("e5").AddComment 
  .Visible = False 
- .Text "reviewed on " &; Date 
+ .Text "reviewed on " & Date 
 End With
 ```
 

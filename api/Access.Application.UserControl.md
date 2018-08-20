@@ -47,7 +47,7 @@ The following example displays a message indicating whether Access was started b
 
 
 ```vb
-MsgBox "The user started Access:  " &; Application.UserControl
+MsgBox "The user started Access:  " & Application.UserControl
 ```
 
 

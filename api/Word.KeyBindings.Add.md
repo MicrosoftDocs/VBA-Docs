@@ -81,9 +81,9 @@ This example adds the ALT+F4 key combination to the Arial font and then displays
 CustomizationContext = ActiveDocument.AttachedTemplate 
 Set myKey = KeyBindings.Add(KeyCategory:=wdKeyCategoryFont, _ 
     Command:="Arial", KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4)) 
-MsgBox KeyBindings.Count &; " keys in KeyBindings collection" 
+MsgBox KeyBindings.Count & " keys in KeyBindings collection" 
 myKey.Clear 
-MsgBox KeyBindings.Count &; " keys in KeyBindings collection"
+MsgBox KeyBindings.Count & " keys in KeyBindings collection"
 ```
 
 This example adds the CTRL+ALT+S key combination to the  **Font** command with 8 points specified for the font size.

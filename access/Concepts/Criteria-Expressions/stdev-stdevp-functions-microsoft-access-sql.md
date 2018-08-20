@@ -54,9 +54,9 @@ Sub StDevX()
     ' Calculate the standard deviation of the freight 
     ' charges for orders shipped to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "StDev(Freight) " _ 
-        &; "AS [Freight Deviation] FROM Orders " _ 
-        &; "WHERE ShipCountry = 'UK';") 
+        & "StDev(Freight) " _ 
+        & "AS [Freight Deviation] FROM Orders " _ 
+        & "WHERE ShipCountry = 'UK';") 
  
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -69,9 +69,9 @@ Sub StDevX()
     Debug.Print 
      
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "StDevP(Freight) " _ 
-        &; "AS [Freight DevP] FROM Orders " _ 
-        &; "WHERE ShipCountry = 'UK';") 
+        & "StDevP(Freight) " _ 
+        & "AS [Freight DevP] FROM Orders " _ 
+        & "WHERE ShipCountry = 'UK';") 
  
     ' Populate the Recordset. 
     rst.MoveLast 

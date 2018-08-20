@@ -240,7 +240,7 @@ The following section provides workarounds for issues you may encounter when usi
     End Sub
 
     Sub SayHello()
-        MsgBox "Hello from '" &; ActiveWorkbook.Name &; "'"
+        MsgBox "Hello from '" & ActiveWorkbook.Name & "'"
     End Sub
   ```
 
