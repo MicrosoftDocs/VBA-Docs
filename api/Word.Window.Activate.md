@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Window.Activate
 ms.assetid: d068e7a1-edb8-b244-a315-be1f92471f4c
-ms.date: 06/08/2017
+ms.date: 08/20/2018
 ---
 
 
@@ -15,14 +15,14 @@ ms.date: 06/08/2017
 
 Activates the specified window.
 
-[!NOTE] 
-If you are working with a document embedded within another document, this event will not occur.
+> [!NOTE] 
+> If you are working with a document embedded within another document, this event will not occur.
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
- _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
+_expression_ Required. A variable that represents a [Window](Word.Window.md) object.
 
 
 ## Example
@@ -40,6 +40,5 @@ End Sub
 
 ## See also
 
-
-[Window Object](Word.Window.md)
+- [Window Object](Word.Window.md)
 
