@@ -17,8 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Writes a specified number of newline characters to a  **TextStream** file.
- **Syntax**
- _object_. **WriteBlankLines(**_lines_**)**
+
+##Syntax
+
+_object_. **WriteBlankLines(**_lines_**)**
 The  **WriteBlankLines** method syntax has these parts:
 
 

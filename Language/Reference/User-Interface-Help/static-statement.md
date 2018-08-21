@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Used at [procedure level](../../Glossary/vbe-glossary.md) to declare [variables](../../Glossary/vbe-glossary.md) and allocate storage space. Variables declared with the **Static** statement retain their values as long as the code is running.
 
- **Syntax**
+##Syntax
 
- **Static** _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
+**Static** _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
 
 The  **Static** statement syntax has these parts:
 
@@ -27,7 +27,8 @@ The  **Static** statement syntax has these parts:
 |**New**|Optional. [Keyword](../../Glossary/vbe-glossary.md) that enables implicit creation of an object. If you use **New** when declaring the [object variable](../../Glossary/vbe-glossary.md), a new instance of the object is created on first reference to it, so you don't have to use the  **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic [data type](../../Glossary/vbe-glossary.md) and can't be used to declare instances of dependent objects.|
 | _type_|Optional. Data type of the variable; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md), (for variable-length strings),  **String** * _length_ (for fixed-length strings), [Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). Use a separate  **As** _type_ clause for each variable being defined.|
 
- **Remarks**
+##Remarks
+
 Once [module](../../Glossary/vbe-glossary.md) code is running, variables declared with the **Static** [statement](../../Glossary/vbe-glossary.md) retain their value until the module is reset or restarted. In [class modules](../../Glossary/vbe-glossary.md), variables declared with the  **Static** statement retain their value in each class instance until that instance is destroyed. In [form modules](../../Glossary/vbe-glossary.md), static variables retain their value until the form is closed. Use the  **Static** statement in nonstatic [procedure](../../Glossary/vbe-glossary.md)s to explicitly declare variables that are visible only within the procedure, but whose lifetime is the same as the module in which the procedure is defined.
 Use a  **Static** statement within a procedure to declare the data type of a variable that retains its value between procedure calls. For example, the following statement declares a fixed-size array of integers:
 

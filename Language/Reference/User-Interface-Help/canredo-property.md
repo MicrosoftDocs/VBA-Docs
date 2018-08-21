@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Indicates whether the most recent Undo can be reversed.
- **Syntax**
- _object_. **CanRedo**
+
+##Syntax
+
+_object_. **CanRedo**
 The  **CanRedo** property syntax has these parts:
 
 
@@ -34,8 +36,9 @@ The  **CanRedo** property return values are:
 |**True**|The most recent Undo can be reversed.|
 |**False**|The most recent Undo is irreversible.|
 
- **Remarks**
- **CanRedo** is read-only.
+##Remarks
+
+**CanRedo** is read-only.
 To Redo an action means to reverse an Undo; it does not necessarily mean to repeat the last user action.
 The following user actions illustrate using Undo and Redo:
 

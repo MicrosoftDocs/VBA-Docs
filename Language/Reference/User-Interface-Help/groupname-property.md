@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Creates a group of mutually exclusive  **OptionButton** controls.
- **Syntax**
- _object_. **GroupName** [= _String_ ]
+
+##Syntax
+
+_object_. **GroupName** [= _String_ ]
 The  **GroupName** property syntax has these parts:
 
 
@@ -26,7 +28,8 @@ The  **GroupName** property syntax has these parts:
 | _object_|Required. A valid  **OptionButton**.|
 | _String_|Optional. The name of the group that includes the  **OptionButton**. Use the same setting for all buttons in the group. The default setting is an empty string.|
 
- **Remarks**
+##Remarks
+
 To create a group of mutually exclusive  **OptionButton** controls, you can put the buttons in a **Frame** on your form, or you can use the **GroupName** property. **GroupName** is more efficient for the following reasons:
 
 

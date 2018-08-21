@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a [Long](../../Glossary/vbe-glossary.md) representing the file mode for files opened using the **Open** statement.
- **Syntax**
- **FileAttr( _filenumber_, _returntype_ )**
+
+##Syntax
+
+**FileAttr( _filenumber_, _returntype_ )**
 The  **FileAttr** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 

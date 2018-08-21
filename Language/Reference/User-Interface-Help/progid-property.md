@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Returns the ProgID (programmatic ID) for the control represented by the  **VBControl** object.
- **Syntax**
- _object_**.ProgID**
+
+##Syntax
+
+_object_**.ProgID**
 The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
 

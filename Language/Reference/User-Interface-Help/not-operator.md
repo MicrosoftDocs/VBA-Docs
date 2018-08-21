@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to perform logical negation on an [expression](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=** **Not**_expression_
+
+##Syntax
+
+_result_**=** **Not**_expression_
 The  **Not** operator syntax has these parts:
 
 
@@ -24,7 +26,8 @@ The  **Not** operator syntax has these parts:
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
 | _expression_|Required; any expression.|
 
- **Remarks**
+##Remarks
+
 The following table illustrates how  _result_ is determined:
 
 

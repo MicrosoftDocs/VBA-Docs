@@ -17,7 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Provides access to all the properties of a folder.
- **Remarks**
+
+##Remarks
+
 The following code illustrates how to obtain a  **Folder** object and how to return one of its properties:
 
 

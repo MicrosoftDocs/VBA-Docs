@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns an [Integer](../../Glossary/vbe-glossary.md) representing the next [file number](../../Glossary/vbe-glossary.md) available for use by the **Open** statement.
- **Syntax**
- **FreeFile** [ **(**_rangenumber_**)** ]
+
+##Syntax
+
+**FreeFile** [ **(**_rangenumber_**)** ]
 The optional  _rangenumber_ argument is a[Variant](../../Glossary/vbe-glossary.md) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
- **Remarks**
+
+##Remarks
+
 Use  **FreeFile** to supply a file number that is not already in use.
 
 ## Example

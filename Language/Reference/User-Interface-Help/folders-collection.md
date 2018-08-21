@@ -17,7 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Collection of all  **Folder** objects contained within a **Folder** object.
- **Remarks**
+
+##Remarks
+
 The following code illustrates how to get a  **Folders** collection and how to iterate the collection using the **For Each...Next** statement:
 
 

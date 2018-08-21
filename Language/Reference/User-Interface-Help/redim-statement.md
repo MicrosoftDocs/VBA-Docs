@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Used at [procedure level](../../Glossary/vbe-glossary.md) to reallocate storage space for dynamic array[variables](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
- **ReDim** [ **Preserve** ] _varname_**(**_subscripts_**)** [ **As**_type_ ] [ **,**_varname_**(**_subscripts_**)** [ **As**_type_ ]] **. . .**
+**ReDim** [ **Preserve** ] _varname_**(**_subscripts_**)** [ **As**_type_ ] [ **,**_varname_**(**_subscripts_**)** [ **As**_type_ ]] **. . .**
 
 The  **ReDim** statement syntax has these parts:
 
@@ -27,7 +27,8 @@ The  **ReDim** statement syntax has these parts:
 | _subscripts_|Required. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](../../Glossary/vbe-glossary.md) uses the following syntax: [ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .** When not explicitly stated in _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the variable; may be[Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined. For a **Variant** containing an array, _type_ describes the type of each element of the array, but doesn't change the **Variant** to some other type.|
 
- **Remarks**
+##Remarks
+
 The  **ReDim**[statement](../../Glossary/vbe-glossary.md) is used to size or resize a dynamic array that has already been formally declared using a **Private**, **Public**, or **Dim** statement with empty parentheses (without dimension subscripts).
 You can use the  **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed using an **As**_type_ clause, unless you're using the **Preserve** keyword, in which case, no changes of data type are permitted.
 If you use the  **Preserve** keyword, you can resize only the last array dimension and you can't change the number of dimensions at all. For example, if your array has only one dimension, you can resize that dimension because it is the last and only dimension. However, if your array has two or more dimensions, you can change the size of only the last dimension and still preserve the contents of the array. The following example shows how you can increase the size of the last dimension of a dynamic array without erasing any existing data contained in the array.

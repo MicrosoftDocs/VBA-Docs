@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Returns a Boolean value that indicates the text display direction and controls the visual appearance on a bidirectional system.
- **Remarks**
+
+##Remarks
+
 The settings for the  **RightToLeft** property are:
 
 

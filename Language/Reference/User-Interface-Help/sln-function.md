@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a [Double](../../Glossary/vbe-glossary.md) specifying the straight-line depreciation of an asset for a single period.
- **Syntax**
- **SLN( _cost_**, **_salvage_**, **_life_ )**
+
+##Syntax
+
+**SLN( _cost_**, **_salvage_**, **_life_ )**
 The  **SLN** function has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -25,7 +27,8 @@ The  **SLN** function has these[named arguments](../../Glossary/vbe-glossary.md)
 |**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
 |**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
 
- **Remarks**
+##Remarks
+
 The depreciation period must be expressed in the same unit as the  **_life_**[argument](../../Glossary/vbe-glossary.md). All arguments must be positive numbers.
 
 ## Example

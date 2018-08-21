@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns an integer value indicating whether a specific [format](../../../language/Glossary/glossary-vba.md) is on the **DataObject**.
- **Syntax**
- _Boolean_ = _object_. **GetFormat(**_format_**)**
+
+##Syntax
+
+_Boolean_ = _object_. **GetFormat(**_format_**)**
 The  **GetFormat** method syntax has these parts:
 
 
@@ -35,7 +37,8 @@ The settings for  _format_ are:
 |1|Text format.|
 |A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
 
- **Remarks**
+##Remarks
+
 The  **GetFormat** method searches for a format in the current list of formats on the **DataObject**. If the format is on the **DataObject**, **GetFormat** returns **True**; if not, **GetFormat** returns **False**.
 The  **DataObject** currently supports only text formats.
 

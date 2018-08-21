@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) containing the time.
- **Syntax**
- **TimeValue(**_time_**)**
+
+##Syntax
+
+**TimeValue(**_time_**)**
 The required  _time_[argument](../../Glossary/vbe-glossary.md) is normally a[string expression](../../Glossary/vbe-glossary.md) representing a time from 0:00:00 (12:00:00 A.M.) to 23:59:59 (11:59:59 P.M.), inclusive. However, _time_ can also be any[expression](../../Glossary/vbe-glossary.md) that represents a time in that range. If _time_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
- **Remarks**
+
+##Remarks
+
 You can enter valid times using a 12-hour or 24-hour clock. For example,  `"2:24PM"` and `"14:24"` are both valid _time_ arguments.
 If the  _time_ argument contains date information, **TimeValue** doesn't return it. However, if _time_ includes invalid date information, an error occurs.
 

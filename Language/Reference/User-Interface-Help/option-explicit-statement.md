@@ -13,11 +13,12 @@ ms.date: 06/08/2017
 
 Used at [module level](../../Glossary/vbe-glossary.md) to force explicit declaration of all[variables](../../Glossary/vbe-glossary.md) in that[module](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
- **Option Explicit**
+**Option Explicit**
 
- **Remarks**
+##Remarks
+
 If used, the  **Option** **Explicit** statement must appear in a module before any[procedures](../../Glossary/vbe-glossary.md).
 When  **Option Explicit** appears in a module, you must explicitly declare all variables using the **Dim**, **Private**, **Public**, **ReDim**, or **Static** statements. If you attempt to use an undeclared variable name, an error occurs at[compile time](../../Glossary/vbe-glossary.md).
 If you don't use the  **Option Explicit** statement, all undeclared variables are of **Variant** type unless the default type is otherwise specified with a **Def**_type_ statement.

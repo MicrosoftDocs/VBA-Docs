@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares a user-defined event.
 
- **Syntax**
+##Syntax
 
 [ **Public** ] **Event**_procedurename_ [ **(**_arglist_**)** ]
 
@@ -36,7 +36,8 @@ The  _arglist_ argument has the following syntax and parts:
 | _varname_|Required. Name of the variable representing the argument being passed to the [procedure](../../Glossary/vbe-glossary.md); follows standard variable naming conventions.|
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the argument passed to the procedure; may be[Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (variable length only),[Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an object type.|
 
- **Remarks**
+##Remarks
+
 Once the event has been declared, use the  **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a[standard module](../../Glossary/vbe-glossary.md). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
 
 

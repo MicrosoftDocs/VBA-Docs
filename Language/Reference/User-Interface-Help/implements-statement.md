@@ -12,12 +12,13 @@ ms.date: 06/08/2017
 
 Specifies an interface or class that will be implemented in the [class module](../../Glossary/vbe-glossary.md) in which it appears.
 
- **Syntax**
+##Syntax
 
- **Implements** [ _InterfaceName_ | _Class_ ]
+**Implements** [ _InterfaceName_ | _Class_ ]
 The required  _InterfaceName_ or _Class_ is the name of an interface or [class](../../Glossary/vbe-glossary.md) in a [type library](../../Glossary/vbe-glossary.md) whose methods will be implemented by the corresponding methods in the Visual Basic class.
 
-**Remarks**
+##Remarks
+
 An interface is a collection of prototypes representing the members (methods and properties) the interface encapsulates; that is, it contains only the declarations for the member procedures. A class provides an implementation of all of the methods and properties of one or more interfaces. Classes provide the code used when each function is called by a controller of the class. All classes implement at least one interface, which is considered the default interface of the class. In Visual Basic, any member that isn't explicitly a member of an implemented interface is implicitly a member of the default interface.
 
 When a Visual Basic class implements an interface, the Visual Basic class provides its own versions of all the  **Public** [procedures](../../Glossary/vbe-glossary.md) specified in the type library of the Interface. In addition to providing a mapping between the interface prototypes and your procedures, the **Implements** statement causes the class to accept COM QueryInterface calls for the specified interface ID.

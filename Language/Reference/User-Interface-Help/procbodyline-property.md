@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns the first line of a [procedure](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_**.ProcBodyLine(**_procname_, _prockind_**) As Long**
+
+##Syntax
+
+_object_**.ProcBodyLine(**_procname_, _prockind_**) As Long**
 The  **ProcBodyLine** syntax has these parts:
 
 
@@ -37,6 +39,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md) for
 |**vbext_pk_Set**|Specifies a procedure that sets a reference to an object.|
 |**vbext_pk_Proc**|Specifies all procedures other than property procedures.|
 
- **Remarks**
+##Remarks
+
 The first line of a procedure is the line on which the  **Sub**, **Function**, or **Property** statement appears.
 

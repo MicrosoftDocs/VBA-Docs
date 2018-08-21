@@ -17,8 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Opens a specified file and returns a  **TextStream** object that can be used to read from or append to the file.
- **Syntax**
- _object_. **OpenTextFile(**_filename_ [ **,**_iomode_ [ **,**_create_ [ **,**_format_ ]]] **)**
+
+##Syntax
+
+_object_. **OpenTextFile(**_filename_ [ **,**_iomode_ [ **,**_create_ [ **,**_format_ ]]] **)**
 The  **OpenTextFile** method has these parts:
 
 
@@ -48,7 +50,8 @@ The  _format_ argument can have any of the following settings:
 |**TristateTrue**|-1|Opens the file as Unicode.|
 |**TristateFalse**| 0|Opens the file as ASCII.|
 
- **Remarks**
+##Remarks
+
 The following code illustrates the use of the  **OpenTextFile** method to open a file for appending text:
 
 

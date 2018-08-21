@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Single** containing a random number.
- **Syntax**
- **Rnd** [ **(**_number_**)** ]
+
+##Syntax
+
+**Rnd** [ **(**_number_**)** ]
 The optional  _number_[argument](../../Glossary/vbe-glossary.md) is a[Single](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
  **Return Values**
 
@@ -27,7 +29,8 @@ The optional  _number_[argument](../../Glossary/vbe-glossary.md) is a[Single](..
 |Equal to zero|The most recently generated number.|
 |Not supplied|The next random number in the sequence.|
 
- **Remarks**
+##Remarks
+
 The  **Rnd** function returns a value less than 1 but greater than or equal to zero.
 The value of  _number_ determines how **Rnd** generates a random number:
 For any given initial seed, the same number sequence is generated because each successive call to the  **Rnd** function uses the previous number as a seed for the next number in the sequence.

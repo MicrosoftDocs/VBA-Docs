@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) containing a copy of a specified string without leading spaces (**LTrim**), trailing spaces (**RTrim**), or both leading and trailing spaces (**Trim**).
- **Syntax**
- **LTrim** ( _string_ )
+
+##Syntax
+
+**LTrim** ( _string_ )
  **RTrim** ( _string_ )
  **Trim** ( _string_ )
 The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.

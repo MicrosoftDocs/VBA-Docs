@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares [constants](../../Glossary/vbe-glossary.md) for use in place of literal values.
 
- **Syntax**
+##Syntax
 
 [ **Public** | **Private** ] **Const** _constname_ [ **As** _type_ ] **=** _expression_
 
@@ -28,7 +28,8 @@ The  **Const** statement syntax has these parts:
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the constant; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md), or [Variant](../../Glossary/vbe-glossary.md). Use a separate  **As** _type_ clause for each constant being declared.|
 | _expression_|Required. Literal, other constant, or any combination that includes all arithmetic or logical operators except  **Is**.|
 
- **Remarks**
+##Remarks
+
 Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](../../Glossary/vbe-glossary.md), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](../../Glossary/vbe-glossary.md), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
 To combine several constant declarations on the same line, separate each constant assignment with a comma. When constant declarations are combined in this way, the  **Public** or **Private** keyword, if used, applies to all of them.
 You can't use variables, user-defined functions, or intrinsic Visual Basic functions (such as  **Chr**) in [expressions](../../Glossary/vbe-glossary.md) assigned to constants.

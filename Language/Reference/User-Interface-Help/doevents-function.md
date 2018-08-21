@@ -14,9 +14,13 @@ ms.date: 06/08/2017
 
 
 Yields execution so that the operating system can process other events.
- **Syntax**
- **DoEvents(** **)**
- **Remarks**
+
+##Syntax
+
+**DoEvents(** **)**
+
+##Remarks
+
 The  **DoEvents** function returns an[Integer](../../Glossary/vbe-glossary.md) representing the number of open forms in stand-alone versions of Visual Basic, such as Visual Basic, Professional Edition. **DoEvents** returns zero in all other applications.
  **DoEvents** passes control to the operating system. Control is returned after the operating system has finished processing the events in its queue and all keys in the **SendKeys** queue have been sent.
  **DoEvents** is most useful for simple things like allowing a user to cancel a process after it has started, for example a search for a file. For long-running processes, yielding the processor is better accomplished by using a Timer or delegating the task to an ActiveX EXE component. In the latter case, the task can continue completely independent of your application, and the operating system takes care of multitasking and time slicing.

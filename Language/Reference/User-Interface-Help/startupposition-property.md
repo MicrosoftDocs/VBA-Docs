@@ -26,7 +26,8 @@ You can use one of four settings for  **StartUpPosition**:
 |**CenterScreen**|2|Center on the whole screen.|
 |**WindowsDefault**|3|Position in upper-left corner of screen.|
 
- **Remarks**
+##Remarks
+
 You can set the  **StartUpPosition** property programmatically or from the **Properties** window.
 
 ## Example

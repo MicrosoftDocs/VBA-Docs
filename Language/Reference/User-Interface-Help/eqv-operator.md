@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to perform a logical equivalence on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **Eqv** _expression2_
+
+##Syntax
+
+_result_**=**_expression1_ **Eqv** _expression2_
 The  **Eqv** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **Eqv** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
- **Remarks**
+##Remarks
+
 If either expression is [Null](../../Glossary/vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
 
 

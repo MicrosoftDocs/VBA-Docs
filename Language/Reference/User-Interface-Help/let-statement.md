@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Assigns the value of an [expression](../../Glossary/vbe-glossary.md) to a[variable](../../Glossary/vbe-glossary.md) or[property](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
 [ **Let** ] _varname_**=**_expression_
 
@@ -26,7 +26,8 @@ The  **Let** statement syntax has these parts:
 | _varname_|Required. Name of the variable or property; follows standard variable naming conventions.|
 | _expression_|Required. Value assigned to the variable or property.|
 
- **Remarks**
+##Remarks
+
 A value expression can be assigned to a variable or property only if it is of a [data type](../../Glossary/vbe-glossary.md) that is compatible with the variable. You can't assign[string expressions](../../Glossary/vbe-glossary.md) to numeric variables, and you can't assign[numeric expressions](../../Glossary/vbe-glossary.md) to string variables. If you do, an error occurs at[compile time](../../Glossary/vbe-glossary.md).
 [Variant](../../Glossary/vbe-glossary.md) variables can be assigned either string or numeric expressions. However, the reverse is not always true. Any **Variant** except a[Null](../../Glossary/vbe-glossary.md) can be assigned to a string variable, but only a **Variant** whose value can be interpreted as a number can be assigned to a numeric variable. Use the **IsNumeric** function to determine if the **Variant** can be converted to a number.
 Assigning an expression of one [numeric type](../../Glossary/vbe-glossary.md) to a variable of a different numeric type coerces the value of the expression into the numeric type of the resulting variable.

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Exits a block of  **Do…Loop**, **For…Next**, **Function**, **Sub**, or **Property** code.
 
- **Syntax**
+##Syntax
 
- **Exit** **Do**
+**Exit** **Do**
 
  **Exit For**
  **Exit Function**
@@ -32,7 +32,8 @@ The  **Exit** statement syntax has these forms:
 |**Exit Property**|Immediately exits the  **Property** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
 |**Exit Sub**|Immediately exits the  **Sub** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
 
- **Remarks**
+##Remarks
+
 Do not confuse  **Exit** statements with **End** statements. **Exit** does not define the end of a structure.
 
 ## Example

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Repeats a group of [statements](../../Glossary/vbe-glossary.md) a specified number of times.
 
- **Syntax**
+##Syntax
 
- **For**_counter_**=**_start_**To**_end_ [ **Step**_step_ ]
+**For**_counter_**=**_start_**To**_end_ [ **Step**_step_ ]
 [ _statements_ ]
 [ **Exit For** ]
 [ _statements_ ]
@@ -32,7 +32,8 @@ The  **For…Next** statement syntax has these parts:
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
 | _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
 
- **Remarks**
+##Remarks
+
 The  _step_[argument](../../Glossary/vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 
 

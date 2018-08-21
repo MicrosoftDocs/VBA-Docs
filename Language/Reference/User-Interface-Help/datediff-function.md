@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Long**) specifying the number of time intervals between two specified dates.
- **Syntax**
- **DateDiff( _interval, date1, date2_** [ **_, firstdayofweek_** [ **,** **_firstweekofyear_** ]] **)**
+
+##Syntax
+
+**DateDiff( _interval, date1, date2_** [ **_, firstdayofweek_** [ **,** **_firstweekofyear_** ]] **)**
 The  **DateDiff** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -65,7 +67,8 @@ The  **_firstdayofweek_** argument has these settings:
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
 |**vbFirstFullWeek**|3|Start with first full week of the year.|
 
- **Remarks**
+##Remarks
+
 You can use the  **DateDiff** function to determine how many specified time intervals exist between two dates. For example, you might use **DateDiff** to calculate the number of days between two dates, or the number of weeks between today and the end of the year.
 To calculate the number of days between  **_date1_** and **_date2_**, you can use either Day of year ("y") or Day ("d"). When **_interval_** is Weekday ("w"), **DateDiff** returns the number of weeks between the two dates. If **_date1_** falls on a Monday, **DateDiff** counts the number of Mondays until **_date2_**. It counts **_date2_** but not **_date1_**. If **_interval_** is Week ("ww"), however, the **DateDiff** function returns the number of calendar weeks between the two dates. It counts the number of Sundays between **_date1_** and **_date2_**. **DateDiff** counts **_date2_** if it falls on a Sunday; but it doesn't count **_date1_**, even if it does fall on a Sunday.
 If  **_date1_** refers to a later point in time than **_date2_**, the **DateDiff** function returns a negative number.

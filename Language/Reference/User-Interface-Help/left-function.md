@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) containing a specified number of characters from the left side of a string.
- **Syntax**
- **Left** (**_string_**, **_length_**)
+
+##Syntax
+
+**Left** (**_string_**, **_length_**)
 The  **Left** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -24,7 +26,8 @@ The  **Left** function syntax has these[named arguments](../../Glossary/vbe-glos
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) from which the leftmost characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md), Null is returned.|
 |**_length_**|Required;  **Variant** (**Long**).[Numeric expression](../../Glossary/vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
 
- **Remarks**
+##Remarks
+
 To determine the number of characters in  **_string_**, use the **Len** function.
 
  **Note**  Use the  **LeftB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.

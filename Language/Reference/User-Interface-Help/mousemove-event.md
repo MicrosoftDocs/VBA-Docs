@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Occurs when the user moves the mouse.
- **Syntax**
+
+##Syntax
+
 For MultiPage, TabStrip **Private Sub**_object_ _**MouseMove(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
 For other controls **Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
 The  **MouseMove** event syntax has these parts:
@@ -68,7 +70,8 @@ You can identify individual keyboard modifiers by using the following constants:
 | _fmCtrlMask_|2|Mask to detect CTRL.|
 | _fmAltMask_|4|Mask to detect ALT.|
 
- **Remarks**
+##Remarks
+
 The MouseMove event applies to forms, controls on a form, and labels.
 MouseMove events are generated continually as the mouse pointer moves across objects. Unless another object has captured the mouse, an object recognizes a MouseMove event whenever the mouse position is within its borders.
 Moving a form can also generate a MouseMove event even if the mouse is stationary. MouseMove events are generated when the form moves underneath the pointer. If a macro or event procedure moves a form in response to a MouseMove event, the event can continually generate (cascade) MouseMove events.

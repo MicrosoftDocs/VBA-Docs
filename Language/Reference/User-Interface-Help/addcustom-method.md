@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **VBComponent** object, or creates a new custom component and adds it to the project.
- **Syntax**
- _object_**.AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
+
+##Syntax
+
+_object_**.AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
 The  **AddCustom** method syntax has these parts:
 
 

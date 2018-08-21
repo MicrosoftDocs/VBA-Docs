@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns an [Integer](../../Glossary/vbe-glossary.md) representing the[character code](../../Glossary/vbe-glossary.md) corresponding to the first letter in a string.
- **Syntax**
- **Asc(**_string_**)**
+
+##Syntax
+
+**Asc(**_string_**)**
 The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If the  _string_ contains no characters, a[run-time error](../../Glossary/vbe-glossary.md) occurs.
- **Remarks**
+
+##Remarks
+
 The range for returns is 0 - 255 on non-DBCS systems, but -32768 - 32767 on [DBCS](../../Glossary/vbe-glossary.md) systems.
 
  **Note**  The  **AscB** function is used with byte data contained in a string. Instead of returning the character code for the first character, **AscB** returns the first byte. The **AscW** function returns the[Unicode](../../Glossary/vbe-glossary.md) character code except on platforms where Unicode is not supported, in which case, the behavior is identical to the **Asc** function.

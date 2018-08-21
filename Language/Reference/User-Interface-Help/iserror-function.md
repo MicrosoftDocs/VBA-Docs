@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns a  **Boolean** value indicating whether an[expression](../../Glossary/vbe-glossary.md) is an error value.
- **Syntax**
- **IsError(**_expression_**)**
+
+##Syntax
+
+**IsError(**_expression_**)**
 The required  _expression_[argument](../../Glossary/vbe-glossary.md) can be any valid expression.
- **Remarks**
+
+##Remarks
+
 Error values are created by converting real numbers to error values using the  **CVErr** function. The **IsError** function is used to determine if a[numeric expression](../../Glossary/vbe-glossary.md) represents an error. **IsError** returns **True** if the _expression_ argument indicates an error; otherwise, it returns **False**.
 
 ## Example

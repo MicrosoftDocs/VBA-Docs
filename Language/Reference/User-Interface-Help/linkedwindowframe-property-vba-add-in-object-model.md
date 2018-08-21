@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns the  **Window** object representing the frame that contains the window. Read-only.
- **Remarks**
+
+##Remarks
+
 The  **LinkedWindowFrame** property enables you to access the object representing the[linked window frame](../../Glossary/vbe-glossary.md), which has properties distinct from the window or windows it contains. If the window isn't linked, the  **LinkedWindowFrame** property returns **Nothing**.
 
 

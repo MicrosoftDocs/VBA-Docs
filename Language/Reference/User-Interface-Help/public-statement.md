@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Used at [module level](../../Glossary/vbe-glossary.md) to declare public [variables](../../Glossary/vbe-glossary.md) and allocate storage space.
 
- **Syntax**
+##Syntax
 
- **Public** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
+**Public** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
 
 The  **Public** statement syntax has these parts:
 
@@ -28,7 +28,8 @@ The  **Public** statement syntax has these parts:
 |**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic[data type](../../Glossary/vbe-glossary.md), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
 | _type_|Optional. Data type of the variable; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md), (for variable-length strings),  **String** * _length_ (for fixed-length strings), [Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined.|
 
- **Remarks**
+##Remarks
+
 Variables declared using the  **Public** statement are available to all procedures in all modules in all applications unless **Option** **Private Module** is in effect; in which case, the variables are public only within the [project](../../Glossary/vbe-glossary.md) in which they reside.
 The  **Public** statement can't be used in a class module to declare a fixed-length string variable.
 Use the  **Public** statement to declare the data type of a variable. For example, the following statement declares a variable as an **Integer**:

@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Specifies the name of a control or an object, or the name of a font to associate with a  **Font** object.
- **Syntax**
+
+##Syntax
+
 For Font _Font_. **Name** [= _String_ ]
 For all other controls and objects _object_. **Name** [= _String_ ]
 The  **Name** property syntax has these parts:
@@ -27,7 +29,9 @@ The  **Name** property syntax has these parts:
 
  **Settings**
 Guidelines for assigning a string to  **Name**, such as the maximum length of the name, vary from one application to another.
- **Remarks**
+
+##Remarks
+
 For objects, the default value of  **Name** consists of the object's[class](../../Glossary/vbe-glossary.md) name followed by an integer. For example, the default name for the first **TextBox** you place on a form is TextBox1. The default name for the second **TextBox** is TextBox2.
 You can set the  **Name** property for a control from the control's property sheet or, for controls added at[run time](../../Glossary/vbe-glossary.md), by using program statements. If you add a control at [design time](../../Glossary/vbe-glossary.md), you cannot modify its  **Name** property at run time.
 Each control added to a form at design time must have a unique name.

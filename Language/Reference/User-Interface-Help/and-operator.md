@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to perform a logical conjunction on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **And** _expression2_
+
+##Syntax
+
+_result_**=**_expression1_ **And** _expression2_
 The  **And** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **And** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
- **Remarks**
+##Remarks
+
 If both expressions evaluate to  **True**, _result_ is **True**. If either expression evaluates to **False**, _result_ is **False.** The following table illustrates how _result_ is determined:
 
 

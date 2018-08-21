@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the date and time that the specified file or folder was last accessed. Read-only.
- **Syntax**
- _object_. **DateLastAccessed**
+
+##Syntax
+
+_object_. **DateLastAccessed**
 The  _object_ is always a **File** or **Folder** object.
- **Remarks**
+
+##Remarks
+
 The following code illustrates the use of the  **DateLastAccessed** property with a file:
 
 

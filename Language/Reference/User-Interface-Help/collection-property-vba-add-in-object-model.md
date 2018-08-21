@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns the [collection](../../Glossary/vbe-glossary.md) that contains the object you are working with. Read-only.
- **Remarks**
+
+##Remarks
+
 Most objects in this object model have either a  **Parent** property or a **Collection** property that points to the object's parent object.
 Use the  **Collection** property to access the[properties](../../Glossary/vbe-glossary.md), [methods](../../Glossary/vbe-glossary.md), and [controls](../../Glossary/vbe-glossary.md) of the collection to which the object belongs.
 

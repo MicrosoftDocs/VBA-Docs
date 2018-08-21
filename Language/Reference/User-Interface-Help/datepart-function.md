@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Integer**) containing the specified part of a given date.
- **Syntax**
- **DatePart( _interval,_** **_date_** [ **_,firstdayofweek_** [ **_,_** **_firstweekofyear_** ]] **)**
+
+##Syntax
+
+**DatePart( _interval,_** **_date_** [ **_,firstdayofweek_** [ **_,_** **_firstweekofyear_** ]] **)**
 The  **DatePart** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -67,7 +69,8 @@ The  **_firstweekofyear_** argument has these settings:
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
 |**vbFirstFullWeek**|3|Start with first full week of the year.|
 
- **Remarks**
+##Remarks
+
 You can use the  **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 The  **_firstdayofweek_** argument affects calculations that use the "w" and "ww" interval symbols.
 If  _date_ is a[date literal](../../Glossary/vbe-glossary.md), the specified year becomes a permanent part of that date. However, if  _date_ is enclosed in double quotation marks (" "), and you omit the year, the current year is inserted in your code each time the _date_ expression is evaluated. This makes it possible to write code that can be used in different years.

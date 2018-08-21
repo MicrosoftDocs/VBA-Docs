@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the date and time that the specified file or folder was last modified. Read-only.
- **Syntax**
- _object_. **DateLastModified**
+
+##Syntax
+
+_object_. **DateLastModified**
 The  _object_ is always a **File** or **Folder** object.
- **Remarks**
+
+##Remarks
+
 The following code illustrates the use of the  **DateLastModified** property with a file:
 
 

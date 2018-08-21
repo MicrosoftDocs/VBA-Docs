@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Removes a row from the list in a list box or combo box.
- **Syntax**
- _Boolean_ = _object_. **RemoveItem**_index_
+
+##Syntax
+
+_Boolean_ = _object_. **RemoveItem**_index_
 The  **RemoveItem** method syntax has these parts:
 
 

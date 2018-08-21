@@ -15,7 +15,9 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a string in which the character order of a specified string is reversed.
- **Syntax**
- **StrReverse( _expression_ )**
+
+##Syntax
+
+**StrReverse( _expression_ )**
 The  **_expression_** argument is the string whose characters are to be reversed. If **_expression_** is a zero-length string (""), a zero-length string is returned. If **_expression_** is **Null**, an error occurs.
 

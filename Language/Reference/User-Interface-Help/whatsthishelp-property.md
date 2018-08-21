@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Returns a [Boolean](../../Glossary/vbe-glossary.md) value that determines whether context-sensitive Help uses the pop-up window provided by Windows 95 Help or the main Help window. Read-only at[run time](../../Glossary/vbe-glossary.md). This property does not apply to the Macintosh.
- **Remarks**
+
+##Remarks
+
 The settings for the  **WhatsThisHelp** property are:
 
 
@@ -25,7 +27,9 @@ The settings for the  **WhatsThisHelp** property are:
 |**True**|The application uses one of the What's This access techniques to start Windows Help and load a topic identified by the  **WhatsThisHelpID** property.|
 |**False**|(Default) The application uses the F1 key to start Windows Help and load the topic identified by the  **HelpContextID** property.|
 
- **Remarks**
+
+##Remarks
+
 There are two access techniques for providing What's This Help in an application. The  **WhatsThisHelp** property must be set to **True** for any of these techniques to work.
 
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Conditionally compiles selected blocks of Visual Basic code.
 
- **Syntax**
+##Syntax
 
- **#If** _expression_ **Then**  
+**#If** _expression_ **Then**  
  _statements_  
 [ **#ElseIf** _expression-n_ **Then**  
 [ _elseifstatements_ ]]  
@@ -33,7 +33,8 @@ The  **#If...Then...#Else** directive syntax has these parts:
 | _elseifstatements_|Optional. One or more program lines or compiler directives that are evaluated if  _expression-n_ is **True**.|
 | _elsestatements_|Optional. One or more program lines or compiler directives that are evaluated if no previous  _expression_ or _expression-n_ is **True**.|
 
- **Remarks**
+##Remarks
+
 The behavior of the  **#If...Then...#Else** directive is the same as the **If...Then...Else** statement, except that there is no single-line form of the **#If**, **#Else**, **#ElseIf**, and **#End If** directives; that is, no other code can appear on the same line as any of the directives. Conditional compilation is typically used to compile the same program for different platforms. It is also used to prevent debugging code from appearing in an executable file. Code excluded during conditional compilation is completely omitted from the final executable file, so it has no size or performance effect.
 Regardless of the outcome of any evaluation, all expressions are evaluated. Therefore, all [constants](../../Glossary/vbe-glossary.md) used in expressions must be defined — any undefined constant evaluates as[Empty](../../Glossary/vbe-glossary.md).
 

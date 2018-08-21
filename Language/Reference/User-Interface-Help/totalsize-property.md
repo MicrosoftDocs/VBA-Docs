@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the total space, in bytes, of a drive or network share.
- **Syntax**
- _object_. **TotalSize**
+
+##Syntax
+
+_object_. **TotalSize**
 The  _object_ is always a **Drive** object.
- **Remarks**
+
+##Remarks
+
 The following code illustrates the use of the  **TotalSize** property:
 
 

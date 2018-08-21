@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies the visual effect to use when changing from one page to another.
- **Syntax**
- _object_. **TransitionEffect** [= _fmTransitionEffect_ ]
+
+##Syntax
+
+_object_. **TransitionEffect** [= _fmTransitionEffect_ ]
 The  **TransitionEffect** property syntax has these parts:
 
 
@@ -46,6 +48,7 @@ The settings for  _fmTransitionEffect_ are:
 | _fmTransitionEffectPushDown_|11|The new page pushes the old page out of view, moving from the top to the bottom.|
 | _fmTransitionEffectPushLeft_|12|The new page pushes the old page out of view, moving from the right to the left.|
 
- **Remarks**
+##Remarks
+
 Use the  **TransitionPeriod** property to specify the duration of a transition effect.
 

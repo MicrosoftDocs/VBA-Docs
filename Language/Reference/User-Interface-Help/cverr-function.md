@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns a [Variant](../../Glossary/vbe-glossary.md) of subtype **Error** containing an[error number](../../Glossary/vbe-glossary.md) specified by the user.
- **Syntax**
- **CVErr(**_errornumber_**)**
+
+##Syntax
+
+**CVErr(**_errornumber_**)**
 The required  _errornumber_[argument](../../Glossary/vbe-glossary.md) is any valid error number.
- **Remarks**
+
+##Remarks
+
 Use the  **CVErr** function to create user-defined errors in user-created[procedures](../../Glossary/vbe-glossary.md). For example, if you create a function that accepts several arguments and normally returns a string, you can have your function evaluate the input arguments to ensure they are within acceptable range. If they are not, it is likely your function will not return what you expect. In this event,  **CVErr** allows you to return an error number that tells you what action to take.
 Note that implicit conversion of an  **Error** is not allowed. For example, you can't directly assign the return value of **CVErr** to a[variable](../../Glossary/vbe-glossary.md) that is not a **Variant**. However, you can perform an explicit conversion (using **CInt**, **CDbl**, and so on) of the value returned by **CVErr** and assign that to a variable of the appropriate[data type](../../Glossary/vbe-glossary.md).
 

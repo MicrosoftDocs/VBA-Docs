@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Controls access by other processes to all or part of a file opened using the  **Open** statement.
 
- **Syntax**
+##Syntax
 
- **Lock** [ **#** ] _filenumber_ [, _recordrange_ ]
+**Lock** [ **#** ] _filenumber_ [, _recordrange_ ]
  **. . .**
 
  **Unlock** [ **#** ] _filenumber_ [, _recordrange_ ]
@@ -38,7 +38,8 @@ The  _recordrange_[argument](../../Glossary/vbe-glossary.md) settings are:
 | _start_|Number of the first record or byte to lock or unlock.|
 | _end_|Number of the last record or byte to lock or unlock.|
 
- **Remarks**
+##Remarks
+
 The  **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
  **Lock** and **Unlock** statements are always used in pairs. The arguments to **Lock** and **Unlock** must match exactly.
 The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you specify just one record, then only that record is locked or unlocked. If you specify a range of records and omit a starting record ( _start_ ), all records from the first record to the end of the range ( _end_ ) are locked or unlocked. Using **Lock** without _recnumber_ locks the entire file; using **Unlock** without _recnumber_ unlocks the entire file.

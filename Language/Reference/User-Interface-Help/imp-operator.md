@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to perform a logical implication on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **Imp** _expression2_.
+
+##Syntax
+
+_result_**=**_expression1_ **Imp** _expression2_.
 The  **Imp** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **Imp** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
- **Remarks**
+##Remarks
+
 The following table illustrates how  _result_ is determined:
 
 

@@ -17,8 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Sets and returns the comparison mode for comparing string keys in a  **Dictionary** object.
- **Syntax**
- _object_. **CompareMode** [ = _compare_ ]
+
+##Syntax
+
+_object_. **CompareMode** [ = _compare_ ]
 The  **CompareMode** property has the following parts:
 
 
@@ -38,7 +40,8 @@ The  _compare_ argument can have the following values:
 |**vbTextCompare**| 1|Performs a textual comparison.|
 |**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
 
- **Remarks**
+##Remarks
+
 An error occurs if you try to change the comparison mode of a  **Dictionary** object that already contains data.
 The  **CompareMode** property uses the same values as the _compare_ argument for the **StrComp** function. Values greater than 2 can be used to refer to comparisons using specific Locale IDs (LCID).
 

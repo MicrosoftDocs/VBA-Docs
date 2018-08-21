@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Contains all linked windows in a [linked window frame](../../Glossary/vbe-glossary.md).
- **Remarks**
+
+##Remarks
+
 Use the  **LinkedWindows** collection to modify the[docked](../../Glossary/vbe-glossary.md) and[linked](../../Glossary/vbe-glossary.md) state of windows in the[development environment](../../Glossary/vbe-glossary.md).
 
 

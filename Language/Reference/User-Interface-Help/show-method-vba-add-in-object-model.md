@@ -14,9 +14,13 @@ ms.date: 06/08/2017
 
 
 Makes the specified [code pane](../../Glossary/vbe-glossary.md) the visible code pane in its window.
- **Syntax**
- _object_**.Show**
+
+##Syntax
+
+_object_**.Show**
 The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
- **Remarks**
+
+##Remarks
+
 The  **Show** method makes the specified code pane the pane with the[focus](../../Glossary/vbe-glossary.md) in its window.
 

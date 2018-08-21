@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Adds a reference to the  **References** collection using the globally unique identifier (GUID) of the reference.
- **Syntax**
- _object_**.AddFromGuid(**_guid_, _major_, _minor_**)** **As Reference**
+
+##Syntax
+
+_object_**.AddFromGuid(**_guid_, _major_, _minor_**)** **As Reference**
 The  **AddFromGuid** syntax has these parts:
 
 
@@ -26,6 +28,7 @@ The  **AddFromGuid** syntax has these parts:
 | _major_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the major version number of the reference.|
 | _minor_|Required. A  **Long** specifying the minor version number of the reference.|
 
- **Remarks**
+##Remarks
+
 The  **AddFromGuid** method searches the[registry](../../Glossary/vbe-glossary.md) to find the reference you want to add. The GUID can be a[type library](../../Glossary/vbe-glossary.md), [control](../../Glossary/vbe-glossary.md), class identifier, and so on.
 

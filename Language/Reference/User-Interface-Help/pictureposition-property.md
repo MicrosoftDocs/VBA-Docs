@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies the location of the picture relative to its caption.
- **Syntax**
- _object_. **PicturePosition** [= _fmPicturePosition_ ]
+
+##Syntax
+
+_object_. **PicturePosition** [= _fmPicturePosition_ ]
 The  **PicturePosition** property syntax has these parts:
 
 
@@ -46,7 +48,8 @@ The settings for  _fmPicturePosition_ are:
 | _fmPicturePositionBelowRight_|11|The picture appears below the caption. The caption is aligned with the right edge of the picture.|
 | _fmPicturePositionCenter_|12|The picture appears in the center of the control. The caption is centered horizontally and vertically on top of the picture.|
 
- **Remarks**
+##Remarks
+
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
 This property is ignored if the  **Picture** property does not specify a picture.
 

@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Creates and returns a reference to an [ActiveX object](../../Glossary/vbe-glossary.md).
- **Syntax**
- **CreateObject(**_class,[servername]_**)**
+
+##Syntax
+
+**CreateObject(**_class,[servername]_**)**
 The  **CreateObject** function syntax has these parts:
 
 
@@ -32,7 +34,8 @@ The  _class_[argument](../../Glossary/vbe-glossary.md) uses the syntax _appname_
 | _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
 | _objecttype_|Required;  **Variant** (**String**). The type or[class](../../Glossary/vbe-glossary.md) of object to create.|
 
- **Remarks**
+##Remarks
+
 Every application that supports Automation provides at least one type of object. For example, a word processing application may provide an  **Application** object, a **Document** object, and a **Toolbar** object.
 To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](../../Glossary/vbe-glossary.md):
 

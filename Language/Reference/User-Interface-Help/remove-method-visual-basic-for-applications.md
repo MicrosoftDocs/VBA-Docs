@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Removes a [member](../../Glossary/vbe-glossary.md) from a **Collection** object.
- **Syntax**
- _object_**.Remove**_index_
+
+##Syntax
+
+_object_**.Remove**_index_
 The  **Remove** method syntax has the following object qualifier and part:
 
 
@@ -24,7 +26,8 @@ The  **Remove** method syntax has the following object qualifier and part:
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _index_|Required. An [expression](../../Glossary/vbe-glossary.md) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count**[property](../../Glossary/vbe-glossary.md). If a [string expression](../../Glossary/vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md) specified when the member referred to was added to the collection.|
 
- **Remarks**
+##Remarks
+
 If the value provided as  _index_ doesn't match an existing member of the collection, an error occurs.
 
 ## Example

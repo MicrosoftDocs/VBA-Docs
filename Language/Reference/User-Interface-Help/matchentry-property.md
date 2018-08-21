@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns or sets a value indicating how a  **ListBox** or **ComboBox** searches its list as the user types.
- **Syntax**
- _object_. **MatchEntry** [= _fmMatchEntry_ ]
+
+##Syntax
+
+_object_. **MatchEntry** [= _fmMatchEntry_ ]
 The  **MatchEntry** property syntax has these parts:
 
 
@@ -36,7 +38,8 @@ The settings for  _fmMatchEntry_ are:
 | _FmMatchEntryComplete_|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
 | _FmMatchEntryNone_|2|No matching.|
 
- **Remarks**
+##Remarks
+
 The  **MatchEntry** property searches entries from the **TextColumn** property of a **ListBox** or **ComboBox**.
 The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **BoundColumn** property become the value of the control. If the match is unambiguous, finding the match initiates the Click event.
 The control initiates the Click event as soon as the user types a sequence of characters that match exactly one entry in the list. As the user types, the entry is compared with the current row in the list and with the next row in the list. When the entry matches only the current row, the match is unambiguous.

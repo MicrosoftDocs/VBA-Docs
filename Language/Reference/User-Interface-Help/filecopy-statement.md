@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Copies a file.
 
- **Syntax**
+##Syntax
 
- **FileCopy** **_source_,** **_destination_**
+**FileCopy** **_source_,** **_destination_**
 
 The  **FileCopy** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
@@ -25,7 +25,8 @@ The  **FileCopy** statement syntax has these[named arguments](../../Glossary/vbe
 |**_source_**|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
 |**_destination_**|Required. String expression that specifies the target file name. The  **_destination_** may include directory or folder, and drive.|
 
- **Remarks**
+##Remarks
+
 If you try to use the  **FileCopy** statement on a currently open file, an error occurs.
 
 ## Example

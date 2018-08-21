@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Integer**) containing a whole number representing the day of the week.
- **Syntax**
- **Weekday(**_date_, [ **_firstdayofweek_** ] **)**
+
+##Syntax
+
+**Weekday(**_date_, [ **_firstdayofweek_** ] **)**
 The  **Weekday** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -53,7 +55,8 @@ The  **Weekday** function can return any of these values:
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
- **Remarks**
+##Remarks
+
 If the  **Calendar** property setting is Gregorian, the returned integer represents the Gregorian day of the week for the date argument. If the calendar is Hijri, the returned integer represents the Hijri day of the week for the date argument. For Hijri dates, the argument number is any numeric expression that can represent a date and/or time from 1/1/100 (Gregorian Aug 2, 718) through 4/3/9666 (Gregorian Dec 31, 9999).
 
 ## Example

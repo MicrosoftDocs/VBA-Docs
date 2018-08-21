@@ -15,8 +15,10 @@ ms.date: 06/08/2017
 
  **Description**
 Returns an expression formatted as a date or time.
- **Syntax**
- **FormatDateTime(**_Date_ [ **,**_NamedFormat_ ] **)**
+
+##Syntax
+
+**FormatDateTime(**_Date_ [ **,**_NamedFormat_ ] **)**
 The  **FormatDateTime** function syntax has these parts:
 
 

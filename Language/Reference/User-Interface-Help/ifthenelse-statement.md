@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Conditionally executes a group of [statements](../../Glossary/vbe-glossary.md), depending on the value of an [expression](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
- **If**_condition_**Then** [ _statements_ ] [ **Else**_elsestatements_ ]
+**If**_condition_**Then** [ _statements_ ] [ **Else**_elsestatements_ ]
 
 Or, you can use the block form syntax:
  **If**_condition_**Then**
@@ -40,7 +40,8 @@ The  **If...Then...Else** statement syntax has these parts:
 | _elseifstatements_|Optional. One or more statements executed if associated  _condition-n_ is **True**.|
 | _elsestatements_|Optional. One or more statements executed if no previous  _condition_ or _condition-n_ expression is **True**.|
 
- **Remarks**
+##Remarks
+
 You can use the single-line form (first syntax) for short, simple tests. However, the block form (second syntax) provides more structure and flexibility than the single-line form and is usually easier to read, maintain, and debug.
 
  **Note**  With the single-line form, it is possible to have multiple statements executed as the result of an  **If...Then** decision. All statements must be on the same line and separated by colons, as in the following statement:

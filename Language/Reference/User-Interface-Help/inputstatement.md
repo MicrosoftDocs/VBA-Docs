@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Reads data from an open sequential file and assigns the data to [variables](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
- **Input** **#**_filenumber, varlist_
+**Input** **#**_filenumber, varlist_
 
 The  **Input #** statement syntax has these parts:
 
@@ -25,7 +25,8 @@ The  **Input #** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
 | _varlist_|Required. Comma-delimited list of variables that are assigned values read from the file — can't be an [array](../../Glossary/vbe-glossary.md) or[object variable](../../Glossary/vbe-glossary.md). However, variables that describe an element of an array or [user-defined type](../../Glossary/vbe-glossary.md) may be used.|
 
- **Remarks**
+##Remarks
+
 Data read with  **Input #** is usually written to a file with **Write #**. Use this[statement](../../Glossary/vbe-glossary.md) only with files opened in **Input** or **Binary** mode.
 When read, standard string or numeric data is assigned to variables without modification. The following table illustrates how other input data is treated:
 

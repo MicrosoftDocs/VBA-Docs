@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **String** representing the name of a file, directory, or folder that matches a specified pattern or file attribute, or the volume label of a drive.
- **Syntax**
- **Dir** [ **(**_pathname_ [ **,**_attributes_ ] **)** ]
+
+##Syntax
+
+**Dir** [ **(**_pathname_ [ **,**_attributes_ ] **)** ]
 The  **Dir** function syntax has these parts:
 
 
@@ -40,7 +42,8 @@ The  _attributes_[argument](../../Glossary/vbe-glossary.md) settings are:
 
  **Note**  These constants are specified by Visual Basic for Applications and can be used anywhere in your code in place of the actual values.
 
- **Remarks**
+##Remarks
+
 In Microsoft Windows,  **Dir** supports the use of multiple character (**\***) and single character (**?**) wildcards to specify multiple files. On the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
 Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files. You can use the  **MacID** function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
 

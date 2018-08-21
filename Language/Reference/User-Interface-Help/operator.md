@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to multiply two numbers.
- **Syntax**
- _result_**=**_number1_ * _number2_
+
+##Syntax
+
+_result_**=**_number1_ * _number2_
 The  **\*** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **\*** operator syntax has these parts:
 | _number1_|Required; any [numeric expression](../../Glossary/vbe-glossary.md).|
 | _number2_|Required; any numeric expression.|
 
- **Remarks**
+##Remarks
+
 The [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), and [Decimal](../../Glossary/vbe-glossary.md). The following are exceptions to this order:
 
 

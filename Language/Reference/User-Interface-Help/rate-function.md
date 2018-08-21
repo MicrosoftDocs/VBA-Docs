@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a [Double](../../Glossary/vbe-glossary.md) specifying the interest rate per period for an annuity.
- **Syntax**
- **Rate( _nper_**, **_pmt_**, **_pv_** [, **_fv_** [, **_type_** [, **_guess_** ]]] **)**
+
+##Syntax
+
+**Rate( _nper_**, **_pmt_**, **_pv_** [, **_fv_** [, **_type_** [, **_guess_** ]]] **)**
 The  **Rate** function has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -28,7 +30,8 @@ The  **Rate** function has these[named arguments](../../Glossary/vbe-glossary.md
 |**_type_**|Optional.  **Variant** specifying a number indicating when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
 |**_guess_**|Optional.  **Variant** specifying value you estimate will be returned by **Rate**. If omitted, **_guess_** is 0.1 (10 percent).|
 
- **Remarks**
+##Remarks
+
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
 For all [arguments](../../Glossary/vbe-glossary.md), cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
  **Rate** is calculated by iteration. Starting with the value of **_guess_**, **Rate** cycles through the calculation until the result is accurate to within 0.00001 percent. If **Rate** can't find a result after 20 tries, it fails. If your guess is 10 percent and **Rate** fails, try a different value for **_guess_**.

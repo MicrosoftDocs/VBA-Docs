@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Creates an event [procedure](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_**.CreateEventProc(**_eventname_, _objectname_**) As Long**
+
+##Syntax
+
+_object_**.CreateEventProc(**_eventname_, _objectname_**) As Long**
 The  **CreateEventProc** syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **CreateEventProc** syntax has these parts:
 | _eventname_|Required. A [string expression](../../Glossary/vbe-glossary.md) specifying the name of the event you want to add to the[module](../../Glossary/vbe-glossary.md).|
 | _objectname_|Required. A string expression specifying the name of the object that is the source of the event.|
 
- **Remarks**
+##Remarks
+
 Use the  **CreateEventProc** method to create an event procedure. For example, to create an event procedure for the **Click** event of a **Command Button** control named `Command1` you would use the following code, where `CM` represents an object of type **CodeModule**:
 
 

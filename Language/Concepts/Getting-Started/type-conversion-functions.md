@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Each function coerces an [expression](../../Glossary/vbe-glossary.md) to a specific [data type](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
 - **CBool(**_expression_**)**
 - **CByte(**_expression_**)**

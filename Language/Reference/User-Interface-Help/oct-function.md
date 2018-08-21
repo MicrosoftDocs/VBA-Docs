@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) representing the octal value of a number.
- **Syntax**
- **Oct** ( _number_ )
+
+##Syntax
+
+**Oct** ( _number_ )
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is any valid[numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md).
- **Remarks**
+
+##Remarks
+
 If  _number_ is not already a whole number, it is rounded to the nearest whole number before being evaluated.
 
 

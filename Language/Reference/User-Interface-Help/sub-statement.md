@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares the name, [arguments](../../Glossary/vbe-glossary.md), and code that form the body of a  **Sub** [procedure](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
 [ **Private** |**Public** |**Friend** ] [ **Static** ] **Sub** _name_ [ **(**_arglist_**)** ]
 [ _statements_ ]
@@ -48,7 +48,7 @@ The  _arglist_ argument has the following syntax and parts:
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the argument passed to the procedure; may be[Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (variable-length only), [Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), or a specific [object type](../../Glossary/vbe-glossary.md). If the parameter is not  **Optional**, a [user-defined type](../../Glossary/vbe-glossary.md) may also be specified.|
 | _defaultvalue_|Optional. Any [constant](../../Glossary/vbe-glossary.md) or constant [expression](../../Glossary/vbe-glossary.md). Valid for  **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
 
-**Remarks**
+##Remarks
 
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Sub** procedures are public by default.
 

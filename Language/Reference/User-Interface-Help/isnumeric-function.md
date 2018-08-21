@@ -21,9 +21,9 @@ Returns a  **Boolean** value indicating whether an [expression](../../Glossary/v
  
 The required  _expression_ [argument](../../Glossary/vbe-glossary.md) is a [Variant](../../Glossary/vbe-glossary.md) containing a [numeric expression](../../Glossary/vbe-glossary.md) or [string expression](../../Glossary/vbe-glossary.md).
 
- **Remarks**
- 
- **IsNumeric** returns **True** if the entire _expression_ is recognized as a number; otherwise, it returns **False**.
+##Remarks
+
+**IsNumeric** returns **True** if the entire _expression_ is recognized as a number; otherwise, it returns **False**.
  **IsNumeric** returns **False** if _expression_ is a [date expression](../../Glossary/vbe-glossary.md).
 
 ## Example

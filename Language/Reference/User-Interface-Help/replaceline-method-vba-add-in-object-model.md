@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Replaces an existing line of code with a specified line of code.
- **Syntax**
- _object_**.ReplaceLine(**_line_, _code_**)**
+
+##Syntax
+
+_object_**.ReplaceLine(**_line_, _code_**)**
 The  **ReplaceLine** syntax has these parts:
 
 

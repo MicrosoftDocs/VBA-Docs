@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a  **Drives** collection consisting of all **Drive** objects available on the local machine.
- **Syntax**
- _object_. **Drives**
+
+##Syntax
+
+_object_. **Drives**
 The  _object_ is always a **FileSystemObject**.
- **Remarks**
+
+##Remarks
+
 Removable-media drives need not have media inserted for them to appear in the  **Drives** collection.
 You can iterate the members of the  **Drives** collection using a **For Each...Next** construct as illustrated in the following code:
 

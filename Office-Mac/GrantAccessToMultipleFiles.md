@@ -31,9 +31,9 @@ The command returns whether the user granted permission or not.
 |True|The user grants permission to the files.|
 |False|The user denies permission to the files.|
 
-**Note:** After the user grants permissions, the permissions are stored with the app. The user doesn’t need to grant permission to the file again. 
+**Note:** After the user grants permissions, the permissions are stored with the app. The user doesn’t need to grant permission to the file again.
 
-**Example**
+##Example
 
 ```vb
     Sub requestFileAccess()  

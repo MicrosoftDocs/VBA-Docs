@@ -14,6 +14,8 @@ ms.date: 06/08/2017
 
 
 Returns a [Long](../../Glossary/vbe-glossary.md) containing the major version number of the referenced[type library](../../Glossary/vbe-glossary.md). Read-only.
- **Remarks**
+
+##Remarks
+
 The number returned by the  **Major** property corresponds to the major version number stored in the type library to which you have set the reference.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares the name, [arguments](../../Glossary/vbe-glossary.md), and code that form the body of a  **Property**[procedure](../../Glossary/vbe-glossary.md), which sets a reference to an [object](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+##Syntax
 
 [ **Public** |**Private** |**Friend** ] [ **Static** ] **Property** **Set**_name_**(** [ _arglist_**,** ] _reference_**)**
 [ _statements_ ]
@@ -52,7 +52,8 @@ The  _arglist_ argument has the following syntax and parts:
 
  **Note**  Every  **Property Set** statement must define at least one argument for the procedure it defines. That argument (or the last argument if there is more than one) contains the actual object reference for the property when the procedure defined by the **Property Set** statement is invoked. It is referred to as _reference_ in the preceding syntax. It can't be **Optional**.
 
- **Remarks**
+##Remarks
+
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Property** procedures are public by default. If **Static** isn't used, the value of local variables is not preserved between calls. The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the[type library](../../Glossary/vbe-glossary.md) of its parent class, nor can a **Friend** procedure be late bound.
 All executable code must be in procedures. You can't define a  **Property** **Set** procedure inside another **Property**, **Sub**, or **Function** procedure.
 The  **Exit Property** statement causes an immediate exit from a **Property** **Set** procedure. Program execution continues with the statement following the statement that called the **Property** **Set** procedure. Any number of **Exit Property** statements can appear anywhere in a **Property** **Set** procedure.

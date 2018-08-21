@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Copies a text string to the  **DataObject** using a specified[format](../../../language/Glossary/glossary-vba.md).
- **Syntax**
- _object_. **SetText(**_StoreData_ [, _format_ ] **)**
+
+##Syntax
+
+_object_. **SetText(**_StoreData_ [, _format_ ] **)**
 The  **SetText** method syntax has these parts:
 
 
@@ -36,7 +38,8 @@ The settings for  _format_ are:
 |1|Text format.|
 |A string or integer value other than 1|A user-defined  **DataObject** format.|
 
- **Remarks**
+##Remarks
+
 The  **DataObject** stores data according to its format. When the user supplies a string, the **DataObject** saves the text under the specified format.
 If the  **DataObject** contains data in the same format as new data, the new data replaces the existing data in the **DataObject**. If the new data is in a new format, the new data and the new format are both added to the **DataObject**, and the previously existing data is there as well.
 If no format is specified, the  **SetText** method assigns the Text format to the text string. If a new format is specified, the **DataObject** registers the new format with the system.

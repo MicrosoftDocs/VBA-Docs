@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to perform a logical disjunction on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **Or** _expression2_
+
+##Syntax
+
+_result_**=**_expression1_ **Or** _expression2_
 The  **Or** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **Or** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
- **Remarks**
+##Remarks
+
 If either or both expressions evaluate to  **True**, _result_ is **True**. The following table illustrates how _result_ is determined:
 
 
