@@ -24,7 +24,7 @@ You can use one of two settings for  **Calendar**:
 |**vbCalGreg**|0|Use Gregorian calendar (default).|
 |**vbCalHijri**|1|Use Hijri calendar.|
 
-##Remarks
+## Remarks
 
 You can only set the  **Calendar** property programmatically. For example, to use the Hijri calendar, use:
 

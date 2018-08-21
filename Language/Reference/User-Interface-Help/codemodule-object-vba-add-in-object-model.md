@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Represents the code behind a component, such as a [form](../../Glossary/vbe-glossary.md), [class](../../Glossary/vbe-glossary.md), or [document](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 You use the  **CodeModule** object to modify (add, delete, or edit) the code associated with a component.
 Each component is associated with one  **CodeModule** object. However, a **CodeModule** object can be associated with multiple[code panes](../../Glossary/vbe-glossary.md).

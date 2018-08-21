@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 The number of characters selected in a text box or the text portion of a combo box.
 
-##Syntax
+## Syntax
 
 _object_. **SelLength** [= _Long_ ]
 The  **SelLength** property syntax has these parts:
@@ -28,7 +28,7 @@ The  **SelLength** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Long_|Optional. A numeric expression specifying the number of characters selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**.|
 
-##Remarks
+## Remarks
 
 The  **SelLength** property is always valid, even when the control does not have[focus](../../Glossary/vbe-glossary.md). Setting  **SelLength** to a value less than zero creates an error. Attempting to set **SelLength** to a value greater than the number of characters available in a control results in a value equal to the number of characters in the control.
 

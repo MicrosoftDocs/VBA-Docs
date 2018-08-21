@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Conditionally suspends execution at the line on which the method appears.
 
-##Syntax
+## Syntax
 
 _object_**.Assert**_booleanexpression_
 The  **Assert** method syntax has the following object qualifier and argument:
@@ -28,7 +28,7 @@ The  **Assert** method syntax has the following object qualifier and argument:
 | _object_|Required. Always the  **Debug** object.|
 | _booleanexpression_|Required. An [expression](../../Glossary/vbe-glossary.md) that evaluates to either **True** or **False**.|
 
-##Remarks
+## Remarks
 
 **Assert** invocations work only within the[development environment](../../Glossary/vbe-glossary.md). When the [module](../../Glossary/vbe-glossary.md) is compiled into an executable, the method calls on the **Debug** object are omitted.
 All of  _booleanexpression_ is always evaluated. For example, even if the first part of an **And** expression evaluates **False**, the entire expression is evaluated.

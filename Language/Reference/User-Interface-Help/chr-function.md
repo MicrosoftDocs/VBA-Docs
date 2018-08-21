@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a [String](../../Glossary/vbe-glossary.md) containing the character associated with the specified[character code](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **Chr(**_charcode_**)**
 The required  _charcode_[argument](../../Glossary/vbe-glossary.md) is a[Long](../../Glossary/vbe-glossary.md) that identifies a character.
 
-##Remarks
+## Remarks
 
 Numbers from 0 - 31 are the same as standard, nonprintable [ASCII](../../Glossary/vbe-glossary.md) codes. For example, **Chr(** 10 **)** returns a linefeed character. The normal range for _charcode_ is 0 - 255. However, on[DBCS](../../Glossary/vbe-glossary.md) systems, the actual range for _charcode_ is -32768 to 65535.
 

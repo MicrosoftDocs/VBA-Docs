@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets a value for a member of a [property](../../Glossary/vbe-glossary.md) that is an indexed list or an[array](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 The value returned or set by the  **IndexedValue** property is an[expression](../../Glossary/vbe-glossary.md) that evaluates to a type that is accepted by the object. For a property that is an indexed list or array, you must use the **IndexedValue** property instead of the **Value** property. An indexed list is a[numeric expression](../../Glossary/vbe-glossary.md) specifying index position.
  **IndexedValue** accepts up to 4 indices. The number of indices accepted by **IndexedValue** is the value returned by the **NumIndices** property.

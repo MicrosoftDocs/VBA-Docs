@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Indicates whether the text that a user has typed into a combo box matches any of the entries in the list.
 
-##Syntax
+## Syntax
 
 _object_. **MatchFound**
 The  **MatchFound** property syntax has these parts:
@@ -36,7 +36,7 @@ The  **MatchFound** property return values are:
 |**True**|The contents of the  **Value** property matches one of the records in the list.|
 |**False**|The contents of  **Value** does not match any of the records in the list (default).|
 
-##Remarks
+## Remarks
 
 The  **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 

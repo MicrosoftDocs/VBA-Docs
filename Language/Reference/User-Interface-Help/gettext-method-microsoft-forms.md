@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Retrieves a text string from the  **DataObject** using the specified[format](../../../language/Glossary/glossary-vba.md).
 
-##Syntax
+## Syntax
 
 _String_ = _object_. **GetText(** [ _format_ ] **)**
 The  **GetText** method syntax has these parts:
@@ -35,7 +35,7 @@ The settings for  _format_ are:
 |1|Text format.|
 |A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
 
-##Remarks
+## Remarks
 
 The  **DataObject** supports multiple formats, but only supports one data item of each format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
 If no format is specified, the  **GetText** method requests information in the Text format from the **DataObject**.

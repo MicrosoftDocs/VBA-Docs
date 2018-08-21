@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Ends a [procedure](../../Glossary/vbe-glossary.md) or block.
 
-##Syntax
+## Syntax
 
 **End**
 
@@ -38,7 +38,7 @@ The  **End** statement syntax has these forms:
 |**End Type**|Required to end a [user-defined type](../../Glossary/vbe-glossary.md) definition (**Type** statement).|
 |**End With**|Required to end a  **With** statement.|
 
-##Remarks
+## Remarks
 
 When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
 

@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a  **Boolean** value indicating whether an optional **Variant**[argument](../../Glossary/vbe-glossary.md) has been passed to a[procedure](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **IsMissing(**_argname_**)**
 The required  _argname_ argument contains the name of an optional **Variant** procedure argument.
 
-##Remarks
+## Remarks
 
 Use the  **IsMissing** function to detect whether or not optional **Variant** arguments have been provided in calling a procedure. **IsMissing** returns **True** if no value has been passed for the specified argument; otherwise, it returns **False**. If **IsMissing** returns **True** for an argument, use of the missing argument in other code may cause a user-defined error. If **IsMissing** is used on a **ParamArray** argument, it always returns **False**. To detect an empty **ParamArray**, test to see if the[array's](../../Glossary/vbe-glossary.md) upper bound is less than its lower bound.
 

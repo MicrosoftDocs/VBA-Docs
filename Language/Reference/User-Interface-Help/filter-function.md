@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Returns a zero-based array containing subset of a string array based on a specified filter criteria.
 
-##Syntax
+## Syntax
 
 **Filter( _sourcearray, match_** [ **_, include_** [ **_, compare_** ]] **)**
 The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glossary.md):
@@ -40,7 +40,7 @@ The  **_compare_** argument can have the following values:
 |**vbTextCompare**| 1|Performs a textual comparison.|
 |**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
 
-##Remarks
+## Remarks
 
 If no matches of  **_match_** are found within **_sourcearray_**, **Filter** returns an empty array. An error occurs if **_sourcearray_** is **Null** or is not a one-dimensional array.
 The array returned by the  **Filter** function contains only enough elements to contain the number of matched items.

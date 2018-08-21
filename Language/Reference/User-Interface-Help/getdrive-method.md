@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Returns a  **Drive** object corresponding to the drive in a specified path.
 
-##Syntax
+## Syntax
 
 _object_. **GetDrive**_drivespec_
 The  **GetDrive** method syntax has these parts:
@@ -29,7 +29,7 @@ The  **GetDrive** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _drivespec_|Required. The  _drivespec_ argument can be a drive letter (c), a drive letter with a colon appended (c:), a drive letter with a colon and path separator appended (c:\), or any network share specification (\\computer2\share1).|
 
-##Remarks
+## Remarks
 
 For network shares, a check is made to ensure that the share exists.
 An error occurs if  _drivespec_ does not conform to one of the accepted forms or does not exist.

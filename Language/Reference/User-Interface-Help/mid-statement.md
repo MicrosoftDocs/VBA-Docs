@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Replaces a specified number of characters in a  **Variant** (**String**)[variable](../../Glossary/vbe-glossary.md) with characters from another string.
 
-##Syntax
+## Syntax
 
 **Mid** ( _stringvar_, _start_ [, _length_ ]) **=**_string_
 
@@ -27,7 +27,7 @@ The  **Mid** statement syntax has these parts:
 | _length_|Optional;  **Variant** (**Long**). Number of characters to replace. If omitted, all of _string_ is used.|
 | _string_|Required. [String expression](../../Glossary/vbe-glossary.md) that replaces part of _stringvar_.|
 
-##Remarks
+## Remarks
 
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
 

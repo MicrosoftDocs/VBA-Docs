@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns the short path used by programs that require the earlier 8.3 file naming convention.
 
-##Syntax
+## Syntax
 
 _object_. **ShortPath**
 The  _object_ is always a **File** or **Folder** object.
 
-##Remarks
+## Remarks
 
 The following code illustrates the use of the  **ShortName** property with a **File** object:
 

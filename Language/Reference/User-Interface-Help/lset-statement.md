@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Left aligns a string within a string [variable](../../Glossary/vbe-glossary.md), or copies a variable of one [user-defined type](../../Glossary/vbe-glossary.md) to another variable of a different user-defined type.
 
-##Syntax
+## Syntax
 
 **LSet**_stringvar_**=**_string_
 
@@ -28,7 +28,7 @@ The  **LSet** statement syntax has these parts:
 | _varname1_|Required. Variable name of the user-defined type being copied to.|
 | _varname2_|Required. Variable name of the user-defined type being copied from.|
 
-##Remarks
+## Remarks
 
 **LSet** replaces any leftover characters in _stringvar_ with spaces.
 If  _string_ is longer than _stringvar_, **LSet** places only the leftmost characters, up to the length of the _stringvar,_ in _stringvar_.

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an object representing the code behind the component. Read-only.
 
-##Remarks
+## Remarks
 
 The  **CodeModule** property returns **Nothing** if the component doesn't have a[code module](../../Glossary/vbe-glossary.md) associated with it.
 

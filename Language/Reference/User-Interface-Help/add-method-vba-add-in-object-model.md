@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Adds an object to a [collection](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 _object_**.Add(**_component_**)**
 The  **Add** syntax has these parts:
@@ -36,7 +36,7 @@ You can use one of the following constants for the  _component_ argument:
 |**vbext_ct_StdModule**|Adds a standard module to the collection.|
 |**vbext_pt_StandAlone**|Adds a standalone project to the collection.|
 
-##Remarks
+## Remarks
 
 For the  **LinkedWindows** collection, the **Add** method adds a window to the collection of currently[linked windows](../../Glossary/vbe-glossary.md).
 

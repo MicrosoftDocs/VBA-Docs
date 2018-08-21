@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Displays a prompt in a dialog box, waits for the user to input text or click a button, and returns a [String](../../Glossary/vbe-glossary.md) containing the contents of the text box.
 
-##Syntax
+## Syntax
 
 **InputBox( _prompt_** [, **_title_** ] [, **_default_** ] [, **_xpos_** ] [, **_ypos_** ] [, **_helpfile_**, **_context_** ] **)**
 The  **InputBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -31,7 +31,7 @@ The  **InputBox** function syntax has these[named arguments](../../Glossary/vbe-
 |**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
 |**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
 
-##Remarks
+## Remarks
 
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **_context_**. Some[host applications](../../Glossary/vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box. If the user clicks **OK** or presses ENTER , the **InputBox** function returns whatever is in the text box. If the user clicks **Cancel**, the function returns a zero-length string ("").
 

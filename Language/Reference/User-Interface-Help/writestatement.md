@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Writes data to a sequential file.
 
-##Syntax
+## Syntax
 
 **Write #**_filenumber_, [ _outputlist_ ]
 
@@ -25,7 +25,7 @@ The  **Write #** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
 | _outputlist_|Optional. One or more comma-delimited [numeric expressions](../../Glossary/vbe-glossary.md) or[string expressions](../../Glossary/vbe-glossary.md) to write to a file.|
 
-##Remarks
+## Remarks
 
 Data written with  **Write #** is usually read from a file with **Input #**.
 If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.

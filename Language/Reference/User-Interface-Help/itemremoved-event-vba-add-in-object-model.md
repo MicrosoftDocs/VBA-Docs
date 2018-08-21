@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Occurs after a reference is removed from a [project](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **Sub**_object_**_ItemRemoved(ByVal**_item_**As Reference)**
 The required  _item_[argument](../../Glossary/vbe-glossary.md) specifies the **Reference** that was removed.

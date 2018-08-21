@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 Branches unconditionally to a specified line within a [procedure](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **GoTo** _line_
 
 The required _line_ [argument](../../Glossary/vbe-glossary.md) can be any [line label](../../Glossary/vbe-glossary.md) or [line number](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 **GoTo** can branch only to lines within the procedure where it appears.
 

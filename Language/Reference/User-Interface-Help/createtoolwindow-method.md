@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Creates a new Tool window containing the indicated  **UserDocument** object.
 
-##Syntax
+## Syntax
 
 _object_. **CreateToolWindow (**_AddInInst, ProgID, Caption, GuidPosition, DocObj_**) As Window**
 The  **CreateToolWindow** method syntax has these parts:

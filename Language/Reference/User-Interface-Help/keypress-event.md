@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Occurs when the user presses an ANSI key.
 
-##Syntax
+## Syntax
 
 **Private Sub**_object_ _**KeyPress( ByVal**_KeyANSI_**As MSForms.ReturnInteger)**
 The  **KeyPress** event syntax has these parts:
@@ -28,7 +28,7 @@ The  **KeyPress** event syntax has these parts:
 | _object_|Required. A valid object.|
 | _KeyANSI_|Required. An integer value that represents a standard numeric ANSI key code.|
 
-##Remarks
+## Remarks
 
 The KeyPress event occurs when the user presses a key that produces a typeable character (an ANSI key) on a running form while the form or a control on it has the [focus](../../Glossary/vbe-glossary.md). The event can occur either before or after the key is released. This event also occurs if you send an ANSI keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](../../Glossary/vbe-glossary.md) in Visual Basic.
 A KeyPress event can occur when any of the following keys are pressed:

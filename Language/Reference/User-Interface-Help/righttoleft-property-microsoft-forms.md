@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 Specifies whether a given form supports bidirectional characteristics.
 
-##Syntax
+## Syntax
 
 _expression_**.RightToLeft** [= _value_ ]
 
-##Remarks
+## Remarks
 
 **RightToLeft** is a new property of the Microsoft Forms 2.0 form that the specified control is placed on; it's not a property of the control. Note, however, that **RightToLeft** affects both the form and any controls that are placed on it. The following table describes the two possible settings for this property.
 

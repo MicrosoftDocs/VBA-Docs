@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 A  **Tab** is an individual member of a **Tabs** collection.
 
-##Remarks
+## Remarks
 
 Visually, a  **Tab** object appears as a rectangle protruding from a larger rectangular area or as a button adjacent to a rectangular area.
 In contrast to a  **Page**, a **Tab** does not contain any controls. Controls that appear within the region bounded by a **TabStrip** are contained on the form, as is the **TabStrip**.

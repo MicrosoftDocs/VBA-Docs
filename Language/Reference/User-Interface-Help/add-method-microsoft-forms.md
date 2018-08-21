@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Adds or inserts a  **Tab** or **Page** in a **TabStrip** or **MultiPage**, or adds a control by its programmatic identifier ( _ProgID_ ) to a page or form.
 
-##Syntax
+## Syntax
 
 For MultiPage, TabStrip **Set**_Object_ = _object_. **Add(** [ _Name_ [, _Caption_ [, _index_ ]]] **)**
 For other controls **Set**_Control_ = _object_. **Add(**_ProgID_ [, _Name_ [, _Visible_ ]] **)**
@@ -51,7 +51,7 @@ The  **Add** method syntax has these parts:
 |**TextBox**|Forms.TextBox.1|
 |**ToggleButton**|Forms.ToggleButton.1|
 
-##Remarks
+## Remarks
 
 For a  **MultiPage** control, the **Add** method returns a **Page** object. For a **TabStrip**, it returns a **Tab** object. The index value for the first **Page** or **Tab** of a[collection](../../Glossary/vbe-glossary.md) is 0, the value for the second **Page** or **Tab** is 1, and so on.
 For the  **Controls** collection of an object, the **Add** method returns a control corresponding to the specified _ProgID_. The AddControl event occurs after the control is added.

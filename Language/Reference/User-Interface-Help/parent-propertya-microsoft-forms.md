@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns the name of the form, object, or [collection](../../Glossary/vbe-glossary.md) that contains a specific control, object, or collection.
 
-##Syntax
+## Syntax
 
 _object_. **Parent**
 The  **Parent** property syntax has these parts:
@@ -25,7 +25,7 @@ The  **Parent** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
-##Remarks
+## Remarks
 
 **Parent** is read-only.
 Use the  **Parent** property to access the properties, methods, or controls of an object's parent.

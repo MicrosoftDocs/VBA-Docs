@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Sets the current system date.
 
-##Syntax
+## Syntax
 
 **Date** **=**_date_
 

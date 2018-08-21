@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Occur in sequence when a user presses and releases a key. KeyDown occurs when the user presses a key. KeyUp occurs when the user releases a key.
 
-##Syntax
+## Syntax
 
 **Private Sub**_object_ _**KeyDown( ByVal**_KeyCode_**As MSForms.ReturnInteger**, **ByVal**_Shift_**As fmShiftState)**
  **Private Sub**_object_ _**KeyUp( ByVal**_KeyCode_**As MSForms.ReturnInteger**, **ByVal**_Shift_**As fmShiftState)**
@@ -38,7 +38,7 @@ The settings for  _Shift_ are:
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
 
-##Remarks
+## Remarks
 
 The KeyDown event occurs when the user presses a key on a running form while that form or a control on it has the [focus](../../Glossary/vbe-glossary.md). The KeyDown and KeyPress events alternate repeatedly until the user releases the key, at which time the KeyUp event occurs. The form or control with the focus receives all keystrokes. A form can have the focus only if it has no controls or all its visible controls are disabled.
 These events also occur if you send a keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](../../Glossary/vbe-glossary.md) in Visual Basic.

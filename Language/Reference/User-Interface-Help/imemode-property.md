@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the default [run time](../../Glossary/vbe-glossary.md) mode of the[Input Method Editor (IME](../../../language/Glossary/glossary-vba.md)) for a control. This property applies only to applications written for East Asia and is ignored in other applications.
 
-##Syntax
+## Syntax
 
 _object_. **IMEMode** [= _fmIMEMode_ ]
 The  **IMEMode** property syntax has these parts:
@@ -48,7 +48,7 @@ The settings for  _fmIMEMode_ are:
 
 The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](../../Glossary/vbe-glossary.md) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
 
-##Remarks
+## Remarks
 
 There are two ways to set the mode of the IME. One is through the toolbar of the IME. The other is with the  **IMEMode** property of a control, which sets or returns the current mode of the IME. This property allows dynamic control of the IME through code.
 The following example explains how  **IMEMode** interacts with the toolbar of the IME. Assume that you have designed a form with TextBox1 and CheckBox1. You have set TextBox1.IMEMode to 0, and you have set CheckBox1.IMEMode to 1. While in design mode you have used the IME toolbar to put the IME in mode 2.

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Displays a single row of column headings for list boxes, combo boxes, and objects that accept column headings.
 
-##Syntax
+## Syntax
 
 _object_. **ColumnHeads** [= _Boolean_ ]
 The  **ColumnHeads** property syntax has these parts:
@@ -39,7 +39,7 @@ The settings for  _Boolean_ are:
 
 Headings in combo boxes appear only when the list drops down.
 
-##Remarks
+## Remarks
 
 When the system uses the first row of data items as column headings, they can't be selected.
 

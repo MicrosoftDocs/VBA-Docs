@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 Used at [module level](../../Glossary/vbe-glossary.md) to declare the default lower bound for[array](../../Glossary/vbe-glossary.md) subscripts.
 
-##Syntax
+## Syntax
 
 **Option Base** { **0** |**1** }
 
-##Remarks
+## Remarks
 
 Because the default base is  **0**, the **Option Base** statement is never required. If used, the[statement](../../Glossary/vbe-glossary.md) must appear in a[module](../../Glossary/vbe-glossary.md) before any[procedures](../../Glossary/vbe-glossary.md).  **Option** **Base** can appear only once in a module and must precede array[declarations](../../Glossary/vbe-glossary.md) that include dimensions.
 

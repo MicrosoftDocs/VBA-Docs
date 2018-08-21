@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 A  **Tabs** collection includes all **Tabs** of a **TabStrip**.
 
-##Remarks
+## Remarks
 
 Each  **Tabs** collection provides the features to manage the number of tabs in the[collection](../../Glossary/vbe-glossary.md) and to identify the tab that is currently in use.
 The default value of the  **Tabs** collection identifies the current **Tab** of a collection.

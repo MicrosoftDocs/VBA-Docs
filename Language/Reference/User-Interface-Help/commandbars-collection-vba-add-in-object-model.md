@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Contains all of the command bars in a [project](../../Glossary/vbe-glossary.md), including command bars that support shortcut menus.
 
-##Remarks
+## Remarks
 
 Use the  **CommandBars** collection to enable[add-ins](../../Glossary/vbe-glossary.md) to add command bars and[controls](../../Glossary/vbe-glossary.md), or to add controls to existing, built-in, command bars.
 

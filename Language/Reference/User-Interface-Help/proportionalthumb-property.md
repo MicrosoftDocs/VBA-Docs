@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies whether the size of the scroll box is proportional to the scrolling region or fixed.
 
-##Syntax
+## Syntax
 
 _object_. **ProportionalThumb** [= _Boolean_ ]
 The  **ProportionalThumb** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|The scroll box is proportional in size to the scrolling region (default).|
 |**False**|The scroll box is a fixed size.|
 
-##Remarks
+## Remarks
 
 The size of a proportional scroll box graphically represents the percentage of the object that is visible in the window. For example, if 75 percent of an object is visible, the scroll box covers three-fourths of the scrolling region in the scroll bar.
 If the scroll box is a fixed size, the system determines its size based on the height and width of the scroll bar.

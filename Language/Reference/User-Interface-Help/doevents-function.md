@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 Yields execution so that the operating system can process other events.
 
-##Syntax
+## Syntax
 
 **DoEvents(** **)**
 
-##Remarks
+## Remarks
 
 The  **DoEvents** function returns an[Integer](../../Glossary/vbe-glossary.md) representing the number of open forms in stand-alone versions of Visual Basic, such as Visual Basic, Professional Edition. **DoEvents** returns zero in all other applications.
  **DoEvents** passes control to the operating system. Control is returned after the operating system has finished processing the events in its queue and all keys in the **SendKeys** queue have been sent.

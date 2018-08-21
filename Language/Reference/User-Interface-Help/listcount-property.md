@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Returns the number of list entries in a control.
 
-##Syntax
+## Syntax
 
 _object_. **ListCount**
 The  **ListCount** property syntax has these parts:
@@ -28,7 +28,7 @@ The  **ListCount** property syntax has these parts:
 |||
 | _object_|Required. A valid object.|
 
-##Remarks
+## Remarks
 
 The  **ListCount** property is read-only. **ListCount** is the number of rows over which you can scroll. **ListRows** is the maximum to display at once. **ListCount** is always one greater than the largest value for the **ListIndex** property, because index numbers begin with 0 and the count of items begins with 1. If no item is selected, **ListCount** is 0 and **ListIndex** is -1.
 

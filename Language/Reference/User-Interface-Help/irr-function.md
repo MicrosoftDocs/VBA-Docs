@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Double](../../Glossary/vbe-glossary.md) specifying the internal rate of return for a series of periodic cash flows (payments and receipts).
 
-##Syntax
+## Syntax
 
 **IRR( _values_ ()** [, **_guess_** ] **)**
 The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -26,7 +26,7 @@ The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md)
 |**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 |**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
 
-##Remarks
+## Remarks
 
 The internal rate of return is the interest rate received for an investment consisting of payments and receipts that occur at regular intervals.
 The  **IRR** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence. The cash flow for each period doesn't have to be fixed, as it is for an annuity.

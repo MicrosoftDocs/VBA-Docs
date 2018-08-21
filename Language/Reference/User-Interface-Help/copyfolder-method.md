@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Recursively copies a folder from one location to another.
 
-##Syntax
+## Syntax
 
 _object_. **CopyFolder**_source_, _destination_ [, ove _r_ write]
 The  **CopyFolder** method syntax has these parts:
@@ -31,7 +31,7 @@ The  **CopyFolder** method syntax has these parts:
 | _destination_|Required. Character string destination where the folder and subfolders from  _source_ are to be copied. Wildcard characters are not allowed.|
 | _overwrite_|Optional.  **Boolean** value that indicates if existing folders are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**.|
 
-##Remarks
+## Remarks
 
 Wildcard characters can only be used in the last path component of the  _source_ argument. For example, you can use:
 

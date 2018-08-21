@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Opens a specified file and returns a  **TextStream** object that can be used to read from, write to, or append to the file.
 
-##Syntax
+## Syntax
 
 _object_. **OpenAsTextStream(** [ _iomode_, [ _format_ ]] **)**
 The  **OpenAsTextStream** method syntax has these parts:
@@ -49,7 +49,7 @@ The  _format_ argument can have any of the following settings:
 |**TristateTrue**|-1|Opens the file as Unicode.|
 |**TristateFalse**| 0|Opens the file as ASCII.|
 
-##Remarks
+## Remarks
 
 The  **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
 The following code illustrates the use of the  **OpenAsTextStream** method:

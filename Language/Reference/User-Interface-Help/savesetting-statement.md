@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Saves or creates an application entry in the application's entry in the Windows [registry](../../Glossary/vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
 
-##Syntax
+## Syntax
 
 **SaveSetting  _appname_,** **_section,_**_key, setting_
 
@@ -27,7 +27,7 @@ The  **SaveSetting** statement syntax has these[named arguments](../../Glossary/
 |**_key_**|Required. String expression containing the name of the key setting being saved.|
 |**_setting_**|Required. [Expression](../../Glossary/vbe-glossary.md) containing the value that **_key_** is being set to.|
 
-##Remarks
+## Remarks
 
 An error occurs if the key setting can't be saved for any reason.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Repeats a group of [statements](../../Glossary/vbe-glossary.md) for each element in an[array](../../Glossary/vbe-glossary.md) or[collection](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **For** **Each**_element_**In**_group_
  [ _statements_ ]
@@ -30,7 +30,7 @@ The  **For...Each...Next** statement syntax has these parts:
 | _group_|Required. Name of an object collection or array (except an array of [user-defined types](../../Glossary/vbe-glossary.md)).|
 | _statements_|Optional. One or more statements that are executed on each item in  _group_.|
 
-##Remarks
+## Remarks
 
 The  **For…Each** block is entered if there is at least one element in _group_. Once the loop has been entered, all the statements in the loop are executed for the first element in _group_. If there are more elements in _group_, the statements in the loop continue to execute for each element. When there are no more elements in _group_, the loop is exited and execution continues with the statement following the **Next** statement.
 Any number of  **Exit For** statements may be placed anywhere in the loop as an alternative way to exit. **Exit For** is often used after evaluating some condition, for example **If…Then**, and transfers control to the statement immediately following **Next**.

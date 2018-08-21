@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns the drive letter of the drive on which the specified file or folder resides. Read-only.
 
-##Syntax
+## Syntax
 
 _object_. **Drive**
 The  _object_ is always a **File** or **Folder** object.
 
-##Remarks
+## Remarks
 
 The following code illustrates the use of the  **Drive** property:
 

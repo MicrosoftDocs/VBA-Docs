@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies whether a control can be edited.
 
-##Syntax
+## Syntax
 
 _object_. **Locked** [= _Boolean_ ]
 The  **Locked** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|You can't edit the value.|
 |**False**|You can edit the value (default).|
 
-##Remarks
+## Remarks
 
 When a control is locked and enabled, it can still initiate events and can still receive the [focus](../../Glossary/vbe-glossary.md).
 

@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Used with the  **Print #** statement or the **Print** method to position output.
 
-##Syntax
+## Syntax
 
 **Tab** [ **(**_n_**)** ]
 The optional  _n_[argument](../../Glossary/vbe-glossary.md) is the column number moved to before displaying or printing the next[expression](../../Glossary/vbe-glossary.md) in a list. If omitted, **Tab** moves the insertion point to the beginning of the next[print zone](../../Glossary/vbe-glossary.md). This allows  **Tab** to be used instead of a comma in[locales](../../Glossary/vbe-glossary.md) where the comma is used as a decimal separator.
 
-##Remarks
+## Remarks
 
 If the current print position on the current line is greater than  _n_, **Tab** skips to the _n_ th column on the next output line. If _n_ is less than 1, **Tab** moves the print position to column 1. If _n_ is greater than the output line width, **Tab** calculates the next print position using the formula:
  _n_**Mod**_width_

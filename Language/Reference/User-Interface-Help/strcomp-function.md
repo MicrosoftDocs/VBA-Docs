@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a  **Variant** (**Integer**) indicating the result of a[string comparison](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **StrComp** (**_string1_**, **_string2_** [, **_compare_** ])
 The  **StrComp** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):

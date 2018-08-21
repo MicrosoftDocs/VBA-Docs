@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a  **Double** specifying _e_ (the base of natural logarithms) raised to a power.
 
-##Syntax
+## Syntax
 
 **Exp(**_number_**)**
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 If the value of  _number_ exceeds 709.782712893, an error occurs. The[constant ](../../Glossary/vbe-glossary.md) _e_ is approximately 2.718282.
 

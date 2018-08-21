@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 Closes all disk files opened using the  **Open** statement.
 
-##Syntax
+## Syntax
 
 **Reset**
 
-##Remarks
+## Remarks
 
 The  **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
 

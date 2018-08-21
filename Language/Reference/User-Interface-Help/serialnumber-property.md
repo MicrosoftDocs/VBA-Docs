@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns the decimal serial number used to uniquely identify a disk volume.
 
-##Syntax
+## Syntax
 
 _object_. **SerialNumber**
 The  _object_ is always a **Drive** object.
 
-##Remarks
+## Remarks
 
 You can use the  **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
 The following code illustrates the use of the  **SerialNumber** property:

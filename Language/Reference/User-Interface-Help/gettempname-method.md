@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns a randomly generated temporary file or folder name that is useful for performing operations that require a temporary file or folder.
 
-##Syntax
+## Syntax
 
 _object_. **GetTempName**
 The optional  _object_ is always the name of a **FileSystemObject**.
 
-##Remarks
+## Remarks
 
 The  **GetTempName** method does not create a file. It provides only a temporary file name that can be used with **CreateTextFile** to create a file.
 

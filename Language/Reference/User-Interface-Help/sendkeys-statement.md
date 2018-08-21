@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Sends one or more keystrokes to the active window as if typed at the keyboard.
 
-##Syntax
+## Syntax
 
 **SendKeys** **_string_** [, **_wait_** ]
 
@@ -25,7 +25,7 @@ The  **SendKeys** statement syntax has these[named arguments](../../Glossary/vbe
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) specifying the keystrokes to send.|
 |**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md) value specifying the wait mode. If **False** (default), control is returned to the[procedure](../../Glossary/vbe-glossary.md) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
 
-##Remarks
+## Remarks
 
 Each key is represented by one or more characters. To specify a single keyboard character, use the character itself. For example, to represent the letter A, use  `"A"` for **_string_**. To represent more than one character, append each additional character to the one preceding it. To represent the letters A, B, and C, use `"ABC"` for **_string_**.
 The plus sign (**+**), caret (**^**), percent sign (**%**), tilde (**~**), and parentheses **( )** have special meanings to **SendKeys**. To specify one of these characters, enclose it within braces ( `{}`). For example, to specify the plus sign, use  `{+}`. Brackets ([ ]) have no special meaning to  **SendKeys**, but you must enclose them in braces. In other applications, brackets do have a special meaning that may be significant when[dynamic data exchange](../../Glossary/vbe-glossary.md) (DDE) occurs. To specify brace characters, use `{{}` and `{}}`.

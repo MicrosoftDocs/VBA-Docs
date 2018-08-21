@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a  **Variant** (**Date**) for a specified year, month, and day.
 
-##Syntax
+## Syntax
 
 **DateSerial( _year_, _month_, _day_ )**
 The  **DateSerial** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -27,7 +27,7 @@ The  **DateSerial** function syntax has these[named arguments](../../Glossary/vb
 |**_month_**|Required;  **Integer**. Any numeric expression.|
 |**_day_**|Required;  **Integer**. Any numeric expression.|
 
-##Remarks
+## Remarks
 
 To specify a date, such as December 31, 1991, the range of numbers for each  **DateSerial**[argument](../../Glossary/vbe-glossary.md) should be in the accepted range for the unit; that is, 1-31 for days and 1-12 for months. However, you can also specify relative dates for each argument using any numeric expression that represents some number of days, months, or years before or after a certain date.
 The following example uses numeric expressions instead of absolute date numbers. Here the  **DateSerial** function returns a date that is the day before the first day ( `1 - 1`), two months before August ( `8 - 2`), 10 years before 1990 (), two months before August ( `8 - 2`), 10 years before 1990 ( `1990 - 10`); in other words, May 31, 1980.

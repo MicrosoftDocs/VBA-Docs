@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Returns  **True** if a specified file exists; **False** if it does not.
 
-##Syntax
+## Syntax
 
 _object_. **FileExists(**_filespec_**)**
 The  **FileExists** method syntax has these parts:

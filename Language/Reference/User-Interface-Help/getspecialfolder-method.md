@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Returns the special folder specified.
 
-##Syntax
+## Syntax
 
 _object_**.GetSpecialFolder(**_folderspec_**)**
 The  **GetSpecialFolder** method syntax has these parts:

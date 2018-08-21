@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 Sounds a tone through the computer's speaker.
 
-##Syntax
+## Syntax
 
 **Beep**
 
-##Remarks
+## Remarks
 
 The frequency and duration of the beep depend on your hardware and system software, and vary among computers.
 

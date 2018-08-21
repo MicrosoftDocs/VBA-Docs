@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Occurs when a control is deleted from the [container](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 For MultiPage **Private Sub**_object_ _**RemoveControl(**_index_**As Long**, _ctrl_**As Control)**
 For all other controls **Private Sub**_object_ _**RemoveControl(**_ctrl_**As Control)**
@@ -30,7 +30,7 @@ The  **RemoveControl** event syntax has these parts:
 | _index_|Required. The index of the page in a  **MultiPage** that contained the deleted control.|
 | _ctrl_|Required. The deleted control.|
 
-##Remarks
+## Remarks
 
 This event occurs when a control is deleted from the form, not when a control is unloaded due to a form being closed.
 

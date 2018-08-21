@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Controls access by other processes to all or part of a file opened using the  **Open** statement.
 
-##Syntax
+## Syntax
 
 **Lock** [ **#** ] _filenumber_ [, _recordrange_ ]
  **. . .**
@@ -38,7 +38,7 @@ The  _recordrange_[argument](../../Glossary/vbe-glossary.md) settings are:
 | _start_|Number of the first record or byte to lock or unlock.|
 | _end_|Number of the last record or byte to lock or unlock.|
 
-##Remarks
+## Remarks
 
 The  **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
  **Lock** and **Unlock** statements are always used in pairs. The arguments to **Lock** and **Unlock** must match exactly.

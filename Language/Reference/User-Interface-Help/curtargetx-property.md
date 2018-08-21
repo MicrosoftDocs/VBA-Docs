@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Retrieves the preferred horizontal position of the insertion point in a multiline  **TextBox** or **ComboBox**.
 
-##Syntax
+## Syntax
 
 _object_. **CurTargetX**
 The  **CurTargetX** property syntax has these parts:
@@ -30,7 +30,7 @@ The  **CurTargetX** property syntax has these parts:
  **Return Values**
 The  **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
 
-##Remarks
+## Remarks
 
 The [target](../../../language/Glossary/glossary-vba.md) position is relative to the left edge of the control. If the length of a line is less than the value of the **CurTargetX** property, you can place the insertion point at the end of the the line. The value of **CurTargetX** changes when the user sets the insertion point or when the **CurX** property is set. **CurTargetX** is read-only.
 The return value is valid when the object has [focus](../../Glossary/vbe-glossary.md).

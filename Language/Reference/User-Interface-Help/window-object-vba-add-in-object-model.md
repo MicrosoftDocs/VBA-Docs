@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Represents a window in the [development environment](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 Use the  **Window** object to show, hide, or position windows.
 

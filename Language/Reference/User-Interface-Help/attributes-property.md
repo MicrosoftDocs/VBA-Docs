@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Sets or returns the attributes of files or folders. Read/write or read-only, depending on the attribute.
 
-##Syntax
+## Syntax
 
 _object_. **Attributes** [= _newattributes_ ]
 The  **Attributes** property has these parts:
@@ -45,7 +45,7 @@ The  _newattributes_ argument can have any of the following values or any logica
 |**Alias**|64|Link or shortcut. Attribute is read-only.|
 |**Compressed**|128|Compressed file. Attribute is read-only.|
 
-##Remarks
+## Remarks
 
 The following code illustrates the use of the  **Attributes** property with a file:
 

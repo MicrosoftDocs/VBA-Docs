@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Occurs when a control detects an error and cannot return the error information to a calling program.
 
-##Syntax
+## Syntax
 
 For MultiPage **Private Sub**_object_ _**Error(**_index_**As Long**, **ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 For other controls **Private Sub**_object_ _**Error( ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
@@ -36,7 +36,7 @@ The  **Error** event syntax has these parts:
 | _HelpContext_|Required. Specifies the [context ID](../../../language/Glossary/glossary-vba.md) of the Help file topic that contains a description of the error.|
 | _CancelDisplay_|Required. Specifies whether to display the error string in a message box.|
 
-##Remarks
+## Remarks
 
 The code written for the Error event determines how the control responds to the error condition.
 The ability to handle error conditions varies from one application to another. The Error event is initiated when an error occurs that the application is not equipped to handle.

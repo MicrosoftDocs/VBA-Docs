@@ -15,13 +15,13 @@ ms.date: 06/08/2017
 
 Returns the integer portion of a number.
 
-##Syntax
+## Syntax
 
 **Int(**_number_**)**
  **Fix(**_number_**)**
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md). If  _number_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
 
-##Remarks
+## Remarks
 
 Both  **Int** and **Fix** remove the fractional part of _number_ and return the resulting integer value.
 The difference between  **Int** and **Fix** is that if _number_ is negative, **Int** returns the first negative integer less than or equal to _number,_ whereas **Fix** returns the first negative integer greater than or equal to _number._ For example, **Int** converts -8.4 to -9, and **Fix** converts -8.4 to -8.

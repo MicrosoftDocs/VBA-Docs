@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Occurs when the  **Value** property changes.
 
-##Syntax
+## Syntax
 
 **Private Sub**_object_ _**Change( )**
 The  **Change** event syntax has these parts:
@@ -44,7 +44,7 @@ Here are some examples of actions that change the  **Value** property:
     
 - Selecting a different page on a  **MultiPage**.
 
-##Remarks
+## Remarks
 
 The Change event procedure can synchronize or coordinate data displayed among controls. For example, you can use the Change event procedure of a  **ScrollBar** to update the contents of a **TextBox** that displays the value of the **ScrollBar**. Or you can use a Change event procedure to display data and formulas in a work area and results in another area.
 

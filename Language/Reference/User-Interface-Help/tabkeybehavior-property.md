@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Determines whether tabs are allowed in the edit region.
 
-##Syntax
+## Syntax
 
 _object_. **TabKeyBehavior** [= _Boolean_ ]
 The  **TabKeyBehavior** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|Pressing TAB inserts a tab character in the edit region.|
 |**False**|Pressing TAB moves the focus to the next object in the tab order (default).|
 
-##Remarks
+## Remarks
 
 The  **TabKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing TAB always moves the[focus](../../Glossary/vbe-glossary.md) to the next control in the[tab order](../../Glossary/vbe-glossary.md) regardless of the value of **TabKeyBehavior**.
 The effect of pressing CTRL+TAB also depends on the value of  **MultiLine**. If **MultiLine** is **True**, pressing CTRL+TAB creates a new line regardless of the value of **TabKeyBehavior**. If **MultiLine** is **False**, pressing CTRL+TAB has no effect.

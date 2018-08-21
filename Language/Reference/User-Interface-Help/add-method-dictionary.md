@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Adds a key and item pair to a  **Dictionary** object.
 
-##Syntax
+## Syntax
 
 _object_. **Add**_key_, _item_
 The  **Add** method has the following parts:
@@ -28,7 +28,7 @@ The  **Add** method has the following parts:
 | _key_|Required. The key associated with the item being added.|
 | _item_|Required. The item associated with the key being added.|
 
-##Remarks
+## Remarks
 
 An error occurs if the  _key_ already exists.
 

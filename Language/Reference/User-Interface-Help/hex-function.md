@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a [String](../../Glossary/vbe-glossary.md) representing the hexadecimal value of a number.
 
-##Syntax
+## Syntax
 
 **Hex** ( _number_ )
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is any valid[numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) _._
 
-##Remarks
+## Remarks
 
 If  _number_ is not already a whole number, it is rounded to the nearest whole number before being evaluated.
 

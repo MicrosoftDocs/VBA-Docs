@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Branch to one of several specified lines, depending on the value of an [expression](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **On**_expression_**GoSub**_destinationlist_
 
@@ -26,7 +26,7 @@ The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
 | _expression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
 | _destinationlist_|Required. List of [line numbers](../../Glossary/vbe-glossary.md) or[line labels](../../Glossary/vbe-glossary.md) separated by commas.|
 
-##Remarks
+## Remarks
 
 The value of  _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
 

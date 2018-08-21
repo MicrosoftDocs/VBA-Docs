@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns one of two parts, depending on the evaluation of an [expression](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **IIf( _expr_,** **_truepart_,** **_falsepart_ )**
 The  **IIf** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -27,7 +27,7 @@ The  **IIf** function syntax has these[named arguments](../../Glossary/vbe-gloss
 |**_truepart_**|Required. Value or expression returned if  **_expr_** is **True**.|
 |**_falsepart_**|Required. Value or expression returned if  **_expr_** is **False**.|
 
-##Remarks
+## Remarks
 
 **IIf** always evaluates both **_truepart_** and **_falsepart_**, even though it returns only one of them. Because of this, you should watch for undesirable side effects. For example, if evaluating **_falsepart_** results in a division by zero error, an error occurs even if **_expr_** is **True**.
 

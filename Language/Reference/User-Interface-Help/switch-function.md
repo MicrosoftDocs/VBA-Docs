@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Evaluates a list of [expressions](../../Glossary/vbe-glossary.md) and returns a **Variant** value or an expression associated with the first expression in the list that is **True**.
 
-##Syntax
+## Syntax
 
 **Switch(**_expr-1_**,**_value-1_ [ **,**_expr-2_**,**_value-2_**…** [ **,**_expr-n_**,**_value-n_ ]] **)**
 The  **Switch** function syntax has these parts:
@@ -26,7 +26,7 @@ The  **Switch** function syntax has these parts:
 | _expr_|Required. [Variant expression](../../Glossary/vbe-glossary.md) you want to evaluate.|
 | _value_|Required. Value or expression to be returned if the corresponding expression is  **True**.|
 
-##Remarks
+## Remarks
 
 The  **Switch** function[argument](../../Glossary/vbe-glossary.md) list consists of pairs of expressions and values. The expressions are evaluated from left to right, and the value associated with the first expression to evaluate to **True** is returned. If the parts aren't properly paired, a[run-time error](../../Glossary/vbe-glossary.md) occurs. For example, if _expr-1_ is **True**, **Switch** returns _value-1_. If _expr-1_ is **False**, but _expr-2_ is **True**, **Switch** returns _value-2_, and so on.
  **Switch** returns a[Null](../../Glossary/vbe-glossary.md) value if:

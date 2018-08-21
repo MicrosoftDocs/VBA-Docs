@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 Reinitializes the elements of fixed-size [arrays](../../Glossary/vbe-glossary.md) and releases dynamic-array storage space.
 
-##Syntax
+## Syntax
 
 **Erase**_arraylist_
 
 The required  _arraylist_[argument](../../Glossary/vbe-glossary.md) is one or more comma-delimited array[variables](../../Glossary/vbe-glossary.md) to be erased.
 
-##Remarks
+## Remarks
 
 **Erase** behaves differently depending on whether an array is fixed-size (ordinary) or dynamic. **Erase** recovers no memory for fixed-size arrays. **Erase** sets the elements of a fixed array as follows:
 

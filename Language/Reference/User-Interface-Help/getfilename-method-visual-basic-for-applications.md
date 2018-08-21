@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Returns the last component of specified path that is not part of the drive specification.
 
-##Syntax
+## Syntax
 
 _object_. **GetFileName(**_pathspec_**)**
 The  **GetFileName** method syntax has these parts:
@@ -27,7 +27,7 @@ The  **GetFileName** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _pathspec_|Required. The path (absolute or relative) to a specific file.|
 
-##Remarks
+## Remarks
 
 The  **GetFileName** method returns a zero-length string ("") if _pathspec_ does not end with the named component.
 

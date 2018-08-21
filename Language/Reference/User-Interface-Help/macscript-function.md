@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Executes an AppleScript script and returns a value returned by the script, if any.
 
-##Syntax
+## Syntax
 
 **MacScript**_script_
 The  _script_ argument is a [String expression](../../Glossary/vbe-glossary.md). The  **String** expression either can be a series of AppleScript commands or can specify the name of an AppleScript script or a script file.
 
-##Remarks
+## Remarks
 
 Multiline scripts can be created by embedding carriage-return characters (**Chr(** 13 **)**).
 

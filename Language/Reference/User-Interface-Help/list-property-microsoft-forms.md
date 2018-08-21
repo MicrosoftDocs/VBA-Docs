@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the list entries of a  **ListBox** or **ComboBox**.
 
-##Syntax
+## Syntax
 
 _object_. **List(**_row, column_**)** [= _Variant_ ]
 The  **List** property syntax has these parts:
@@ -31,7 +31,7 @@ The  **List** property syntax has these parts:
  **Settings**
 Row and column numbering begins with zero. That is, the row number of the first row in the list is zero; the column number of the first column is zero. The number of the second row or column is 1, and so on.
 
-##Remarks
+## Remarks
 
 The  **List** property works with the **ListCount** and **ListIndex** properties.Use **List** to access list items. A list is a variant[array](../../Glossary/vbe-glossary.md); each item in the list has a row number and a column number.
 Initially,  **ComboBox** and **ListBox** contain an empty list.

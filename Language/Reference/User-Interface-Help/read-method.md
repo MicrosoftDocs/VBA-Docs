@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Reads a specified number of characters from a  **TextStream** file and returns the resulting string.
 
-##Syntax
+## Syntax
 
 _object_. **Read(**_characters_**)**
 The  **Read** method syntax has these parts:

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Contains all open or permanent windows.
 
-##Remarks
+## Remarks
 
 Use the  **Windows** collection to access **Window** objects.
 The  **Windows** collection has a fixed set of windows that are always available in the[collection](../../Glossary/vbe-glossary.md), such as the [Project window](../../Glossary/vbe-glossary.md), the [Properties window](../../Glossary/vbe-glossary.md), and a set of windows that represent all open code windows and [designer](../../Glossary/vbe-glossary.md) windows. Opening a code or designer window adds a new member to the **Windows** collection. Closing a code or designer window removes a member from the **Windows** collection. Closing a permanent[development environment](../../Glossary/vbe-glossary.md) window doesn't remove the corresponding object from this collection, but results in the window not being visible.

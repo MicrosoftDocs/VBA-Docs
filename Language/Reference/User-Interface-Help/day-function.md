@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a  **Variant** (**Integer**) specifying a whole number between 1 and 31, inclusive, representing the day of the month.
 
-##Syntax
+## Syntax
 
 **Day(**_date_**)**
 The required  _date_[argument](../../Glossary/vbe-glossary.md) is any[Variant](../../Glossary/vbe-glossary.md), [numeric expression](../../Glossary/vbe-glossary.md), [string expression](../../Glossary/vbe-glossary.md), or any combination, that can represent a date. If  _date_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.

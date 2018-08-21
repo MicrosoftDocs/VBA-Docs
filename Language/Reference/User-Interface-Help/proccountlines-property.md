@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Returns the number of lines in the specified [procedure](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 _object_**.ProcCountLines(**_procname_, _prockind_**) As Long**
 The  **ProcCountLines** syntax has these parts:
@@ -39,7 +39,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md) for
 |**vbext_pk_Set**|Specifies a procedure that sets a reference to an object.|
 |**vbext_pk_Proc**|Specifies all procedures other than property procedures.|
 
-##Remarks
+## Remarks
 
 The  **ProcCountLines** property returns the count of all blank or comment lines preceding the procedure declaration and, if the procedure is the last procedure in a[code module](../../Glossary/vbe-glossary.md), any blank lines following the procedure.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Returns  **True** if a specified key exists in the **Dictionary** object; **False** if it does not.
 
-##Syntax
+## Syntax
 
 _object_. **Exists(**_key_**)**
 The  **Exists** method syntax has these parts:

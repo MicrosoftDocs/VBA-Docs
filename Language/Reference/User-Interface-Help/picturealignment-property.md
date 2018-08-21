@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the location of a background picture.
 
-##Syntax
+## Syntax
 
 _object_. **PictureAlignment** [= _fmPictureAlignment_ ]
 The  **PictureAlignment** property syntax has these parts:
@@ -40,7 +40,7 @@ The settings for  _fmPictureAlignment_ are:
 | _fmPictureAlignmentBottomLeft_|3|The bottom left corner.|
 | _fmPictureAlignmentBottomRight_|4|The bottom right corner.|
 
-##Remarks
+## Remarks
 
 The  **PictureAlignment** property identifies which corner of the picture is the same as the corresponding corner of the control or[container](../../Glossary/vbe-glossary.md) where the picture is used.
 For example, setting  **PictureAlignment** to **fmPictureAlignmentTopLeft** means that the top left corner of the picture coincides with the top left corner of the control or container. Setting **PictureAlignment** to **fmPictureAlignmentCenter** positions the picture in the middle, relative to the height as well as the width of the control or container.

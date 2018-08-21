@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Closes and destroys a window.
 
-##Syntax
+## Syntax
 
 _object_**.Close**
 The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
 
-##Remarks
+## Remarks
 
 The following types of windows respond to the  **Close** method in different ways:
 

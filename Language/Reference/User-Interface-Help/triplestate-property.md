@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Determines whether a user can specify, from the user interface, the [Null](../../Glossary/vbe-glossary.md) state for a **CheckBox** or **ToggleButton**.
 
-##Syntax
+## Syntax
 
 _object_. **TripleState** [= _Boolean_ ]
 The  **TripleState** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|The button clicks through three states.|
 |**False**|The button only supports True and False (default).|
 
-##Remarks
+## Remarks
 
 Although the  **TripleState** property exists on the **OptionButton**, the property is disabled. Regardless of the value of **TripleState**, you cannot set the control to **Null** through the user interface.
 When the  **TripleState** property is **True**, a user can choose from the values of **Null**, **True**, and **False**. The null value is displayed as a shaded button.

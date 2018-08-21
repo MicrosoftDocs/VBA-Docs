@@ -23,7 +23,7 @@ Specify the following settings to use a custom  **DataFactory** handler.
     
 RDS provides a default handler on the server named  **MSDFMAP.Handler**. (The default customization file is named **MSDFMAP.INI**.)
 
-##Example
+## Example
 
 Assume that the following sections in  **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
 

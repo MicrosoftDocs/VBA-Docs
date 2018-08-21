@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Sets a  _key_ in a **Dictionary** object.
 
-##Syntax
+## Syntax
 
 _object_. **Key(**_key_**)** = _newkey_
 The  **Key** property has the following parts:
@@ -30,7 +30,7 @@ The  **Key** property has the following parts:
 | _key_|Required.  _Key_ value being changed.|
 | _newkey_|Required. New value that replaces the specified  _key_.|
 
-##Remarks
+## Remarks
 
 If  _key_ is not found when changing a _key_, a[run-time error](../../Glossary/vbe-glossary.md) will occur.
 

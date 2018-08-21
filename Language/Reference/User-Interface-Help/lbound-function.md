@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Long](../../Glossary/vbe-glossary.md) containing the smallest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **LBound(**_arrayname_ [ **,**_dimension_ ] **)**
 The  **LBound** function syntax has these parts:
@@ -26,7 +26,7 @@ The  **LBound** function syntax has these parts:
 | _arrayname_|Required. Name of the array [variable](../../Glossary/vbe-glossary.md); follows standard variable naming conventions.|
 | _dimension_|Optional;  **Variant** (**Long**). Whole number indicating which dimension's lower bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
 
-##Remarks
+## Remarks
 
 The  **LBound** function is used with the **UBound** function to determine the size of an array. Use the **UBound** function to find the upper limit of an array dimension.
  **LBound** returns the values in the following table for an array with the following dimensions:

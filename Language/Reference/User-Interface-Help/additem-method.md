@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 For a single-column list box or combo box, adds an item to the list. For a multicolumn list box or combo box, adds a row to the list.
 
-##Syntax
+## Syntax
 
 _Variant_ = _object_. **AddItem** [ _item_ [, _varIndex_ ]]
 The  **AddItem** method syntax has these parts:
@@ -29,7 +29,7 @@ The  **AddItem** method syntax has these parts:
 | _Item_|Optional. Specifies the item or row to add. The number of the first item or row is 0; the number of the second item or row is 1, and so on.|
 | _varIndex_|Optional. Integer specifying the position within the object where the new item or row is placed.|
 
-##Remarks
+## Remarks
 
 If you supply a valid value for  _varIndex_, the **AddItem** method places the item or row at that position within the list. If you omit _varIndex_, the method adds the item or row at the end of the list.
 The value of  _varIndex_ must not be greater than the value of the **ListCount** property.

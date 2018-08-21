@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 Initializes the random-number generator.
 
-##Syntax
+## Syntax
 
 **Randomize** [ _number_ ]
 
 The optional  _number_[argument](../../Glossary/vbe-glossary.md) is a[Variant](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 **Randomize** uses _number_ to initialize the **Rnd** function's random-number generator, giving it a new[seed](../../Glossary/vbe-glossary.md) value. If you omit _number,_ the value returned by the system timer is used as the new seed value.
 If  **Randomize** is not used, the **Rnd** function (with no arguments) uses the same number as a seed the first time it is called, and thereafter uses the last generated number as a seed value.

@@ -18,13 +18,13 @@ ms.date: 06/08/2017
 A  **UserForm**[object](../../Glossary/vbe-glossary.md) is a window or dialog box that makes up part of an application's user interface.
 The  **UserForms**[collection](../../Glossary/vbe-glossary.md) is a collection whose elements represent each loaded **UserForm** in an application. The **UserForms** collection has a **Count** property, an **Item** property, and an **Add** method. **Count** specifies the number of elements in the collection; **Item** (the default member) specifies a specific collection member; and **Add** places a new **UserForm** element in the collection.
 
-##Syntax
+## Syntax
 
 **UserForm**
  **UserForms** [ **.Item** ] **(**_index_**)**
 The placeholder  _index_ represents an integer with a range from 0 to **UserForms.Count** - 1. **Item** is the default member of the **UserForms** collection and need not be specified.
 
-##Remarks
+## Remarks
 
 You can use the  **UserForms** collection to iterate through all loaded user forms in an application. It identifies an intrinsic global[variable](../../Glossary/vbe-glossary.md) named **UserForms**. You can pass **UserForms(**_index_**)** to a function whose[argument](../../Glossary/vbe-glossary.md) is specified as a **UserForm** class.
 User forms have [properties](../../Glossary/vbe-glossary.md) that determine appearance such as position, size, and color; and aspects of their behavior.

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Closes an open  **TextStream** file.
 
-##Syntax
+## Syntax
 
 _object_. **Close**
 The  _object_ is always the name of a **TextStream** object.

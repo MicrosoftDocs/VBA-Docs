@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a  **Double** specifying the cosine of an angle.
 
-##Syntax
+## Syntax
 
 **Cos(**_number_**)**
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md) that expresses an angle in radians.
 
-##Remarks
+## Remarks
 
 The  **Cos** function takes an angle and returns the ratio of two sides of a right triangle. The ratio is the length of the side adjacent to the angle divided by the length of the hypotenuse.
 The result lies in the range -1 to 1.

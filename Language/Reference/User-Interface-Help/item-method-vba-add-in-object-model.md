@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns the indexed member of a [collection](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 _object_**.Item(**_index_**)**
 The  **Item** method syntax has these parts:
@@ -39,7 +39,7 @@ The following table lists the collections and their corresponding  _key_ argumen
 |**References**|**Name** property setting|
 |**Properties**|**Name** property setting|
 
-##Remarks
+## Remarks
 
 The  _index_ argument can be a numeric value or a string containing the title of the object.
 

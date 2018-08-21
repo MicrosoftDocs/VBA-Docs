@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets a [string expression](../../Glossary/vbe-glossary.md) containing the context ID for a topic in a Help file. Read/write.
 
-##Remarks
+## Remarks
 
 The  **HelpContext**[property](../../Glossary/vbe-glossary.md) is used to automatically display the Help topic specified in the **HelpFile** property. If both **HelpFile** and **HelpContext** are empty, the value of **Number** is checked. If **Number** corresponds to a Visual Basic[run-time error](../../Glossary/vbe-glossary.md) value, then the Visual Basic Help context ID for the error is used. If the **Number** value doesn't correspond to a Visual Basic error, the contents screen for the Visual Basic Help file is displayed.
 

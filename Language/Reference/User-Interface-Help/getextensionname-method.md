@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Returns a string containing the extension name for the last component in a path.
 
-##Syntax
+## Syntax
 
 _object_. **GetExtensionName(**_path_**)**
 The  **GetExtensionName** method syntax has these parts:
@@ -29,7 +29,7 @@ The  **GetExtensionName** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose extension name is to be returned.|
 
-##Remarks
+## Remarks
 
 For network drives, the root directory (**\**) is considered to be a component.
 The  **GetExtensionName** method returns a zero-length string ("") if no component matches the _path_ argument.

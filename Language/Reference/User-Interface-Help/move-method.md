@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Moves a form or control, or moves all the controls in the  **Controls** collection.
 
-##Syntax
+## Syntax
 
 For a form or control _object_. **Move(** [ _Left_ [, _Top_ [, _Width_ [, _Height_ [, _Layout_ ]]]]] **)**
 For the Controls collection _object_. **Move(** X, Y **)**
@@ -37,7 +37,7 @@ The  **Move** method syntax has these parts:
  **Settings**
 The maximum and minimum values for the  _Left_, _Top_, _Width_, _Height_, _X_, and _Y_ arguments vary from one application to another.
 
-##Remarks
+## Remarks
 
 For a form or control, you can move a selection to a specific location relative to the edges of the form that contains the selection.
 You can use [named arguments](../../Glossary/vbe-glossary.md), or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.

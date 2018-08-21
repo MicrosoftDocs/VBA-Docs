@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Double](../../Glossary/vbe-glossary.md) specifying the depreciation of an asset for a specific time period using the double-declining balance method or some other method you specify.
 
-##Syntax
+## Syntax
 
 **DDB( _cost_,** **_salvage_**, **_life_**, **_period_** [, **_factor_** ] **)**
 The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -29,7 +29,7 @@ The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md)
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
 |**_factor_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
 
-##Remarks
+## Remarks
 
 The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods.
 The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies whether the system enables the drag-and-drop feature for a  **TextBox** or **ComboBox**.
 
-##Syntax
+## Syntax
 
 _object_. **DragBehavior** [= _fmDragBehavior_ ]
 The  **DragBehavior** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _fmDragBehavior_ are:
 | _fmDragBehaviorDisabled_|0|Does not allow a drag-and-drop action (default).|
 | _fmDragBehaviorEnabled_|1|Allows a drag-and-drop action.|
 
-##Remarks
+## Remarks
 
 If the  **DragBehavior** property is enabled, dragging in a text box or combo box starts a drag-and-drop operation on the selected text. If **DragBehavior** is disabled, dragging in a text box or combo box selects text.
 The drop-down portion of a  **ComboBox** does not support drag-and-drop processes, nor does it support selection of list items within the text.

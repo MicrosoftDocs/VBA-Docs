@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a specific [member](../../Glossary/vbe-glossary.md) of a **Collection** object either by position or by key.
 
-##Syntax
+## Syntax
 
 _object_**.Item(**_index_**)**
 The  **Item** method syntax has the following object qualifier and part:
@@ -26,7 +26,7 @@ The  **Item** method syntax has the following object qualifier and part:
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _index_|Required. An [expression](../../Glossary/vbe-glossary.md) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](../../Glossary/vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md) specified when the member referred to was added to the collection.|
 
-##Remarks
+## Remarks
 
 If the value provided as  _index_ doesn't match any existing member of the collection, an error occurs.
 The  **Item** method is the default method for a collection. Therefore, the following lines of code are equivalent:

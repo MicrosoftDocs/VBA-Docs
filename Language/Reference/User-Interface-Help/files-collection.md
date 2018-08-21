@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Collection of all  **File** objects within a folder.
 
-##Remarks
+## Remarks
 
 The following code illustrates how to get a  **Files** collection and iterate the collection using the **For Each...Next** statement:
 

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the action to take when the user leaves the last control on a  **Frame** or **Page**.
 
-##Syntax
+## Syntax
 
 _object_. **Cycle** [= _fmCycle_ ]
 The  **Cycle** property syntax has these parts:
@@ -39,7 +39,7 @@ The settings for  _fmCycle_ are:
 
 If you specify a non-integer value for  **Cycle**, the value is rounded up to the nearest integer.
 
-##Remarks
+## Remarks
 
 The [tab order](../../Glossary/vbe-glossary.md) identifies the order in which controls receive the[focus](../../Glossary/vbe-glossary.md) as the user tabs through a form or subform. The **Cycle** property determines the action to take when a user tabs from the last control in the tab order.
 The  **fmCycleAllForms** setting transfers the focus to the the first control of the next **Frame** or **MultiPage** on the form when the user tabs from the last control in the tab order.

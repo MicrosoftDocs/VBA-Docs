@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns the folder object for the parent of the specified file or folder. Read-only.
 
-##Syntax
+## Syntax
 
 _object_. **ParentFolder**
 The  _object_ is always a **File** or **Folder** object.
 
-##Remarks
+## Remarks
 
 The following code illustrates the use of the  **ParentFolder** property with a file:
 

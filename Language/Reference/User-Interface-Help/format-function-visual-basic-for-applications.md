@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Returns a  **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md) formatted according to instructions contained in a format expression.
 
-##Syntax
+## Syntax
 
 **Format(**_expression_ [ **,**_format_ [ **,**_firstdayofweek_ [ **,**_firstweekofyear_ ]]] **)**
 The  **Format** function syntax has these parts:
@@ -54,7 +54,7 @@ The  _firstweekofyear_ argument has these settings:
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the year.|
 |**vbFirstFullWeek**|3|Start with the first full week of the year.|
 
-##Remarks
+## Remarks
 
 |**To Format**|**Do This**|
 |:-----|:-----|
@@ -95,7 +95,7 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 | _s_ |0-59 (Second of minute, with no leading zero)|
 | _ss_ |0-59 (Second of minute, with a leading zero)|
 
-##Example
+## Example
 
 This example shows various uses of the  **Format** function to format values using both named formats and user-defined formats. For the date separator (**/**), time separator (**:**), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
 

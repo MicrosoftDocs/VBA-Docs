@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Displays a message in a dialog box, waits for the user to click a button, and returns an  **Integer** indicating which button the user clicked.
 
-##Syntax
+## Syntax
 
 **MsgBox( _prompt_** [, **_buttons_** ] [, **_title_** ] [, **_helpfile_**, **_context_** ] **)**
 The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -73,7 +73,7 @@ The first group of values (0-5) describes the number and type of buttons display
 |**vbYes**|6|**Yes**|
 |**vbNo**|7|**No**|
 
-##Remarks
+## Remarks
 
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.

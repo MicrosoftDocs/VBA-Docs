@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares the name, [arguments](../../Glossary/vbe-glossary.md), and code that form the body of a  **Property** **Let**[procedure](../../Glossary/vbe-glossary.md), which assigns a value to a [property](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 [ **Public** |**Private** |**Friend** ] [ **Static** ] **Property** **Let**_name_**(** [ _arglist_**,** ] _value_**)**
 [ _statements_ ]
@@ -51,7 +51,7 @@ The  _arglist_ argument has the following syntax and parts:
 
  **Note**  Every  **Property Let** statement must define at least one argument for the procedure it defines. That argument (or the last argument if there is more than one) contains the actual value to be assigned to the property when the procedure defined by the **Property Let** statement is invoked. That argument is referred to as _value_ in the preceding syntax.
 
-##Remarks
+## Remarks
 
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Property** procedures are public by default. If **Static** isn't used, the value of local variables is not preserved between calls. The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the[type library](../../Glossary/vbe-glossary.md) of its parent class, nor can a **Friend** procedure be late bound.
 All executable code must be in procedures. You can't define a  **Property Let** procedure inside another **Property**, **Sub**, or **Function** procedure.

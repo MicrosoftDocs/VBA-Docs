@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Copies one or more files from one location to another.
 
-##Syntax
+## Syntax
 
 _object_. **CopyFile**_source_, _destination_ [, _overwrite_ ]
 The  **CopyFile** method syntax has these parts:
@@ -31,7 +31,7 @@ The  **CopyFile** method syntax has these parts:
 | _destination_|Required. Character string destination where the file or files from  _source_ are to be copied. Wildcard characters are not allowed.|
 | _overwrite_|Optional.  **Boolean** value that indicates if existing files are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**. Note that **CopyFile** will fail if _destination_ has the read-only attribute set, regardless of the value of _overwrite_.|
 
-##Remarks
+## Remarks
 
 Wildcard characters can only be used in the last path component of the  _source_ argument. For example, you can use:
 

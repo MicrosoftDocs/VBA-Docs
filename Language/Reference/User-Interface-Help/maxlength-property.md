@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the maximum number of characters a user can enter in a  **TextBox** or **ComboBox**.
 
-##Syntax
+## Syntax
 
 _object_. **MaxLength** [= _Long_ ]
 The  **MaxLength** property syntax has these parts:
@@ -28,7 +28,7 @@ The  **MaxLength** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer indicating the allowable number of characters.|
 
-##Remarks
+## Remarks
 
 Setting the  **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
 

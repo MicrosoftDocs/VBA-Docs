@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Returns a  **Double** specifying the arctangent of a number.
 
-##Syntax
+## Syntax
 
 **Atn(**_number_**)**
 The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
 
-##Remarks
+## Remarks
 
 The  **Atn** function takes the ratio of two sides of a right triangle ( _number_ ) and returns the corresponding angle in radians. The ratio is the length of the side opposite the angle divided by the length of the side adjacent to the angle.
 The range of the result is  **-**[pi](../../Glossary/vbe-glossary.md)/2 to pi/2 radians.

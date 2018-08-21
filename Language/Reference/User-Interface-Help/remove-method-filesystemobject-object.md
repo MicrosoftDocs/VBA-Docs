@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Removes a key, item pair from a  **Dictionary** object.
 
-##Syntax
+## Syntax
 
 _object_. **Remove(**_key_**)**
 The  **Remove** method syntax has these parts:
@@ -27,7 +27,7 @@ The  **Remove** method syntax has these parts:
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required.  _Key_ associated with the key, item pair you want to remove from the **Dictionary** object.|
 
-##Remarks
+## Remarks
 
 An error occurs if the specified key, item pair does not exist.
 The following code illustrates use of the  **Remove** method:

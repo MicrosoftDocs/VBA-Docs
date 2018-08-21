@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the position of a control relative to its caption.
 
-##Syntax
+## Syntax
 
 _object_. **Alignment** [= _fmAlignment_ ]
 The  **Alignment** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _fmAlignment_ are:
 | _fmAlignmentLeft_|0|Places the caption to the left of the control.|
 | _fmAlignmentRight_|1|Places the caption to the right of the control (default).|
 
-##Remarks
+## Remarks
 
 The caption text for a control is left-aligned.
 

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies the visual appearance of an object.
 
-##Syntax
+## Syntax
 
 For CheckBox, OptionButton, ToggleButton _object_. **SpecialEffect** [= _fmButtonEffect_ ]
 For other controls _object_. **SpecialEffect** [= _fmSpecialEffect_ ]
@@ -45,7 +45,7 @@ The settings for  _fmSpecialEffect_ are:
 For a  **Frame**, the default value is _Sunken_.
 Note that only  _Flat_ and _Sunken_ (0 and 2) are acceptable values for **CheckBox**, **OptionButton**, and **ToggleButton**. All values listed are acceptable for other controls.
 
-##Remarks
+## Remarks
 
 You can use either the  **SpecialEffect** or the **BorderStyle** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to **fmSpecialEffectRaised**, the system sets **BorderStyle** to zero (**fmBorderStyleNone**).
 For a  **Frame**, **BorderStyle** is ignored if **SpecialEffect** is **fmSpecialEffectFlat**.

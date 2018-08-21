@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Represents the [properties](../../Glossary/vbe-glossary.md) of an object that are visible in the[Properties window](../../Glossary/vbe-glossary.md) for any given component.
 
-##Remarks
+## Remarks
 
 Use  **Value** property of the **Property** object to return or set the value of a property of a component.
 At a minimum, all components have a  **Name** property. Use the **Value** property of the **Property** object to return or set the value of a property. The **Value** property returns a[Variant](../../Glossary/vbe-glossary.md) of the appropriate type. If the value returned is an object, the **Value** property returns the **Properties** collection that contains **Property** objects representing the individual properties of the object. You can access each of the **Property** objects by using the **Item** method on the returned **Properties** collection.

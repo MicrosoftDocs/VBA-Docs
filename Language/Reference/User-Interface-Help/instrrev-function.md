@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **Description**
 Returns the position of an occurrence of one string within another, from the end of string.
 
-##Syntax
+## Syntax
 
 **InstrRev( _stringcheck_,** **_stringmatch_** [ **,** **_start_** [ **,** **_compare_** ]] **)**
 The  **InstrRev** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
@@ -54,7 +54,7 @@ The  **_compare_** argument can have the following values:
 |**_stringmatch_** is found within **_stringcheck_**|Position at which match is found|
 |**_start_** > **Len( _stringmatch_ )**|0|
 
-##Remarks
+## Remarks
 
 Note that the syntax for the  **InstrRev** function is not the same as the syntax for the **Instr** function.
 

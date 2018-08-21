@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Creates a new directory or folder.
 
-##Syntax
+## Syntax
 
 **MkDir**_path_
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Long](../../Glossary/vbe-glossary.md) containing the number of characters in a string or the number of bytes required to store a[variable](../../Glossary/vbe-glossary.md).
 
-##Syntax
+## Syntax
 
 **Len** ( _string_ | _varname_ )
 The  **Len** function syntax has these parts:
@@ -26,7 +26,7 @@ The  **Len** function syntax has these parts:
 | _string_|Any valid [string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md), Null is returned.|
 | _Varname_|Any valid [variable](../../Glossary/vbe-glossary.md) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a[Variant](../../Glossary/vbe-glossary.md),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
 
-##Remarks
+## Remarks
 
 One (and only one) of the two possible [arguments](../../Glossary/vbe-glossary.md) must be specified. With[user-defined types](../../Glossary/vbe-glossary.md),  **Len** returns the size as it will be written to the file.
 

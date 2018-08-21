@@ -18,12 +18,12 @@ ms.date: 06/08/2017
  **Description**
 Returns an array containing all the items in a  **Dictionary** object.
 
-##Syntax
+## Syntax
 
 _object_. **Items**
 The  _object_ is always the name of a **Dictionary** object.
 
-##Remarks
+## Remarks
 
 The following code illustrates use of the  **Items** method:
 

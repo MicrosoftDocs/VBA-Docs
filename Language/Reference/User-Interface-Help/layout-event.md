@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Occurs when a form,  **Frame**, or **MultiPage** changes size.
 
-##Syntax
+## Syntax
 
 For MultiPage **Private Sub**_object_ _**Layout(**_index_**As Long)**
 For all other controls **Private Sub**_object_ _**Layout( )**
@@ -29,7 +29,7 @@ The  **Layout** event syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page in a  **MultiPage** that changed size.|
 
-##Remarks
+## Remarks
 
 The default action of the layout event is to calculate new positions of controls and to repaint the screen.
 A user can initiate the Layout event by changing the size of a control.

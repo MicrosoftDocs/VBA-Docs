@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Specifies whether a value entered in the text portion of a  **ComboBox** must match an entry in the existing list portion of the control. The user can enter non-matching values, but may not leave the control until a matching value is entered.
 
-##Syntax
+## Syntax
 
 _object_. **MatchRequired** [= _Boolean_ ]
 The  **MatchRequired** property syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|The text entered must match an existing list entry.|
 |**False**|The text entered can be different from all existing list entries (default).|
 
-##Remarks
+## Remarks
 
 If the  **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 

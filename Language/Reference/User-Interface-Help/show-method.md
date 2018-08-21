@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Displays a  **UserForm** object.
 
-##Syntax
+## Syntax
 
 [ _object_**.** ] **Show**_modal_
 The  **Show** method syntax has these parts:
@@ -37,7 +37,7 @@ The settings for  _modal_ are:
 |**vbModal**|1|**UserForm** is modal. Default.|
 |**vbModeless**|0|**UserForm** is modeless.|
 
-##Remarks
+## Remarks
 
 If the specified object isn't loaded when the  **Show** method is invoked, Visual Basic automatically loads it.
 

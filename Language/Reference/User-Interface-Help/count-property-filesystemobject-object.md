@@ -16,12 +16,12 @@ ms.date: 06/08/2017
  **Description**
 Returns the number of items in a collection or  **Dictionary** object. Read-only.
 
-##Syntax
+## Syntax
 
 _object_. **Count**
 The  _object_ is always the name of one of the items in the Applies To list.
 
-##Remarks
+## Remarks
 
 The following code illustrates use of the  **Count** property:
 
