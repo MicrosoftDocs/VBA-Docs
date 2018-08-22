@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [Single](../../Glossary/vbe-glossary.md#Single) containing the width of the window in[twips](../../Glossary/vbe-glossary.md#twip). Read/write.
+Returns or sets a [Single](../../Glossary/vbe-glossary.md) containing the width of the window in[twips](../../Glossary/vbe-glossary.md). Read/write.
 
 ## Remarks
 
-Changing the  **Width** property setting of a[linked window](../../Glossary/vbe-glossary.md#linked-window) or[docked window](../../Glossary/vbe-glossary.md#docked-window) has no effect as long as the window remains linked or docked.
+Changing the  **Width** property setting of a[linked window](../../Glossary/vbe-glossary.md) or[docked window](../../Glossary/vbe-glossary.md) has no effect as long as the window remains linked or docked.
 
 
  **Important**  Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.

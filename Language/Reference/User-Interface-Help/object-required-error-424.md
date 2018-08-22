@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Object required (Error 424)
 
-References to [properties](../../Glossary/vbe-glossary.md#propertie) and [methods](../../Glossary/vbe-glossary.md#method) often require an explicit object qualifier. This error has the following causes and solutions:
+References to [properties](../../Glossary/vbe-glossary.md) and [methods](../../Glossary/vbe-glossary.md) often require an explicit object qualifier. This error has the following causes and solutions:
 
-- You referred to an object property or method, but didn't provide a valid object qualifier. Specify an object qualifier if you didn't provide one. For example, although you can omit an object qualifier when referencing a form property from within the form's own [module](../../Glossary/vbe-glossary.md#module), you must explicitly specify the qualifier when referencing the property from a [standard module](../../Glossary/vbe-glossary.md#standard-module).
+- You referred to an object property or method, but didn't provide a valid object qualifier. Specify an object qualifier if you didn't provide one. For example, although you can omit an object qualifier when referencing a form property from within the form's own [module](../../Glossary/vbe-glossary.md), you must explicitly specify the qualifier when referencing the property from a [standard module](../../Glossary/vbe-glossary.md).
     
 - You supplied an object qualifier, but it isn't recognized as an object. Check the spelling of the object qualifier and make sure the object is visible in the part of the program in which you are referencing it. In the case of **Collection** objects, check any occurrences of the **Add** method to be sure the syntax and spelling of all the elements are correct.
     
-- You supplied a valid object qualifier, but some other portion of the call contained an error. An incorrect path as an [argument](../../Glossary/vbe-glossary.md#argument) to a [host application's ](../../Glossary/vbe-glossary.md#host-application's-) **File Open** command could cause the error. Check arguments.
+- You supplied a valid object qualifier, but some other portion of the call contained an error. An incorrect path as an [argument](../../Glossary/vbe-glossary.md) to a [host application's ](../../Glossary/vbe-glossary.md) **File Open** command could cause the error. Check arguments.
     
 - You didn't use the **Set** statement in assigning an object reference. If you assign the return value of a **CreateObject** call to a **Variant** variable, an error doesn't necessarily occur if the **Set** statement is omitted. In the following code example, an implicit instance of Microsoft Excel is created, and its default property (the string "Microsoft Excel") is returned and assigned to the **Variant** `RetVal`. A subsequent attempt to use  `RetVal` as an object reference causes this error:
     

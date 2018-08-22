@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Line Input # Statement
 
-Reads a single line from an open sequential file and assigns it to a [String](../../Glossary/vbe-glossary.md#String)[variable](../../Glossary/vbe-glossary.md#variable).
+Reads a single line from an open sequential file and assigns it to a [String](../../Glossary/vbe-glossary.md)[variable](../../Glossary/vbe-glossary.md).
 
 ## Syntax
 
@@ -22,16 +22,11 @@ The  **Line Input #** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
-| _varname_|Required. Valid [Variant](../../Glossary/vbe-glossary.md#Variant) or **String** variable name.|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
+| _varname_|Required. Valid [Variant](../../Glossary/vbe-glossary.md) or **String** variable name.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 Data read with  **Line Input #** is usually written from a file with **Print #**.
 The  **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr(** 13 **)**) or carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
 

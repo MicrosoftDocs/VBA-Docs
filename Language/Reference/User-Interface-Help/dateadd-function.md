@@ -18,17 +18,17 @@ Returns a  **Variant** (**Date**) containing a date to which a specified time in
 ## Syntax
 
 **DateAdd( _interval, number, date_ )**
-The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to add.|
-|**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md) that is the interval of time you want to add.|
+|**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
 |**_date_**|Required.  **Variant** (**Date**) or literal representing date to which the interval is added.|
 
  **Settings**
-The  **_interval_**[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
+The  **_interval_**[argument](../../Glossary/vbe-glossary.md) has these settings:
 
 
 |**Setting**|**Description**|
@@ -62,7 +62,7 @@ DateAdd("m", 1, "31-Jan-95")
 
 In this case,  **DateAdd** returns 28-Feb-95, not 31-Feb-95. If **_date_** is 31-Jan-96, it returns 29-Feb-96 because 1996 is a leap year.
 If the calculated date would precede the year 100 (that is, you subtract more years than are in  **_date_**), an error occurs.
-If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md#Long) value, it is rounded to the nearest whole number before being evaluated.
+If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md) value, it is rounded to the nearest whole number before being evaluated.
 
  **Note**  The format of the return value for  **DateAdd** is determined by **Control Panel** settings, not by the format that is passed in **_date_** argument.
 

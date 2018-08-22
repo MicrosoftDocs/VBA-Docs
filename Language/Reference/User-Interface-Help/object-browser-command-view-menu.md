@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object Browser Command (View Menu)
 
-Displays the [Object Browser](../../Glossary/vbe-glossary.md#Object-Browser), which lists the [object libraries](../../Glossary/vbe-glossary.md#object-librarie), the [type libraries](../../Glossary/vbe-glossary.md#type-librarie), [classes](../../Glossary/vbe-glossary.md#classe), methods, properties, events, and constants you can use in code, as well as the modules and procedures you defined for your project.
+Displays the [Object Browser](../../Glossary/vbe-glossary.md), which lists the [object libraries](../../Glossary/vbe-glossary.md), the [type libraries](../../Glossary/vbe-glossary.md), [classes](../../Glossary/vbe-glossary.md), methods, properties, events, and constants you can use in code, as well as the modules and procedures you defined for your project.
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_obbr_ZA01201718.gif). Keyboard shortcut: F2.

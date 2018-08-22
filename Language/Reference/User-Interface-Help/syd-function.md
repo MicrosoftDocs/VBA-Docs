@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md#Double) specifying the sum-of-years' digits depreciation of an asset for a specified period.
+Returns a [Double](../../Glossary/vbe-glossary.md) specifying the sum-of-years' digits depreciation of an asset for a specified period.
 
 ## Syntax
 
 **SYD( _cost_**, **_salvage_**, **_life_**, **_period_ )**
-The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
 |**Part**|**Description**|
@@ -30,7 +30,7 @@ The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md#
 
 ## Remarks
 
-The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
+The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
 
 ## Example
 

@@ -36,5 +36,5 @@ Not all user actions can be undone. If an action cannot be undone, the Undo comm
 
 If  **UndoAction** is applied to a form, all changes to the current record are lost. If **UndoAction** is applied to a control, only the control itself is affected.
 You must apply this method before the form or control is updated. You may want to include this method in a form's BeforeUpdate event or a control's Change event.
- **UndoAction** is an alternative to using the[SendKeys Statement](../../Glossary/vbe-glossary.md#SendKeys-Statement) to send the value of ESC in an event procedure.
+ **UndoAction** is an alternative to using the[SendKeys Statement](../../Glossary/vbe-glossary.md) to send the value of ESC in an event procedure.
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](../../Glossary/vbe-glossary.md#Integer) containing the[Boolean](../../Glossary/vbe-glossary.md#Boolean) value **True** when the end of a file opened for **Random** or sequential **Input** has been reached.
+Returns an [Integer](../../Glossary/vbe-glossary.md) containing the[Boolean](../../Glossary/vbe-glossary.md) value **True** when the end of a file opened for **Random** or sequential **Input** has been reached.
 
 ## Syntax
 
 **EOF(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md#file-number).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md).
 
 ## Remarks
 

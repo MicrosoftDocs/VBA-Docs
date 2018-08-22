@@ -19,7 +19,7 @@ Returns the integer portion of a number.
 
 **Int(**_number_**)**
  **Fix(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md#Double) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression). If  _number_ contains[Null](../../Glossary/vbe-glossary.md#Null),  **Null** is returned.
+The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md). If  _number_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
 
 ## Remarks
 

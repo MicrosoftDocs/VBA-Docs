@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Can't add a reference to the specified file
 
-Not all [object libraries](../../Glossary/vbe-glossary.md#object-librarie) or[type libraries](../../Glossary/vbe-glossary.md#type-librarie) can be accessed by Visual Basic. This error has the following cause and solution:
+Not all [object libraries](../../Glossary/vbe-glossary.md) or[type libraries](../../Glossary/vbe-glossary.md) can be accessed by Visual Basic. This error has the following cause and solution:
 
 
 

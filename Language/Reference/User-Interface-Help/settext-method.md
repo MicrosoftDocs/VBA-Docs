@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Copies a text string to the  **DataObject** using a specified[format](../../../language/Glossary/glossary-vba.md#format).
+Copies a text string to the  **DataObject** using a specified[format](../../../language/Glossary/glossary-vba.md).
 
 ## Syntax
 

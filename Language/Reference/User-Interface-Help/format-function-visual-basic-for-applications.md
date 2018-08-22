@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns a  **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
+Returns a  **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md) formatted according to instructions contained in a format expression.
 
 ## Syntax
 
@@ -26,11 +26,11 @@ The  **Format** function syntax has these parts:
 |:-----|:-----|
 | _expression_|Required. Any valid expression.|
 | _format_|Optional. A valid named or user-defined format expression.|
-| _firstdayofweek_|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week.|
+| _firstdayofweek_|Optional. A [constant](../../Glossary/vbe-glossary.md) that specifies the first day of the week.|
 | _firstweekofyear_|Optional. A constant that specifies the first week of the year.|
 
  **Settings**
-The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
+The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md) has these settings:
 
 
 |**Constant**|**Value**|**Description**|
@@ -128,7 +128,7 @@ MyStr = Format("This is it", ">")    ' Returns "THIS IS IT".
 ```
 
  **Different Formats for Different Numeric Values (Format Function)**
-A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) for numbers can have from one to four sections separated by semicolons. If the format[argument](../../Glossary/vbe-glossary.md#argument) contains one of the named numeric formats, only one section is allowed.
+A user-defined format [expression](../../Glossary/vbe-glossary.md) for numbers can have from one to four sections separated by semicolons. If the format[argument](../../Glossary/vbe-glossary.md) contains one of the named numeric formats, only one section is allowed.
 
 
 |**If you use**|**The result is**|
@@ -136,7 +136,7 @@ A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) fo
 |One section only|The format expression applies to all values.|
 |Two sections|The first section applies to positive values and zeros, the second to negative values.|
 |Three sections|The first section applies to positive values, the second to negative values, and the third to zeros.|
-|Four sections|The first section applies to positive values, the second to negative values, the third to zeros, and the fourth to [Null](../../Glossary/vbe-glossary.md#Null) values.|
+|Four sections|The first section applies to positive values, the second to negative values, the third to zeros, and the fourth to [Null](../../Glossary/vbe-glossary.md) values.|
 
 The following example has two sections: the first defines the format for positive values and zeros; the second section defines the format for negative values.
 
@@ -155,13 +155,13 @@ If you include semicolons with nothing between them, the missing section is prin
 ```
 
  **Different Formats for Different String Values (Format Function)**
-A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can have one section or two sections separated by a semicolon (**;**).
+A format [expression](../../Glossary/vbe-glossary.md) for strings can have one section or two sections separated by a semicolon (**;**).
 
 
 |**If you use**|**The result is**|
 |:-----|:-----|
 |One section only|The format applies to all string data.|
-|Two sections|The first section applies to string data, the second to [Null](../../Glossary/vbe-glossary.md#Null) values and zero-length strings ("").|
+|Two sections|The first section applies to string data, the second to [Null](../../Glossary/vbe-glossary.md) values and zero-length strings ("").|
 
  **Named Date/Time Formats (Format Function)**
 The following table identifies the predefined date and time format names:
@@ -171,7 +171,7 @@ The following table identifies the predefined date and time format names:
 |:-----|:-----|
 |**General Date**|Display a date and/or time. For real numbers, display a date and time, for example, 4/3/93 05:34 PM.If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
 |**Long Date**|Display a date according to your system's long date format.|
-|**Medium Date**|Display a date using the medium date format appropriate for the language version of the [host application](../../Glossary/vbe-glossary.md#host-application).|
+|**Medium Date**|Display a date using the medium date format appropriate for the language version of the [host application](../../Glossary/vbe-glossary.md).|
 |**Short Date**|Display a date using your system's short date format.|
 |**Long Time**|Display a time using your system's long time format; includes hours, minutes, seconds.|
 |**Medium Time**|Display time in 12-hour format using hours and minutes and the AM/PM designator.|
@@ -184,7 +184,7 @@ The following table identifies the predefined numeric format names:
 |**Format name**|**Description**|
 |:-----|:-----|
 |**General Number**|Display number with no thousand separator.|
-|**Currency**|Display number with thousand separator, if appropriate; display two digits to the right of the decimal separator. Output is based on system [locale](../../Glossary/vbe-glossary.md#locale) settings.|
+|**Currency**|Display number with thousand separator, if appropriate; display two digits to the right of the decimal separator. Output is based on system [locale](../../Glossary/vbe-glossary.md) settings.|
 |**Fixed**|Display at least one digit to the left and two digits to the right of the decimal separator.|
 |**Standard**|Display number with thousand separator, at least one digit to the left and two digits to the right of the decimal separator.|
 |**Percent**|Display number multiplied by 100 with a percent sign (**%**) appended to the right; always display two digits to the right of the decimal separator.|
@@ -194,7 +194,7 @@ The following table identifies the predefined numeric format names:
 |**On/Off**|Display Off if number is 0; otherwise, display On.|
 
  **User-Defined String Formats (Format Function)**
-You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings:
+You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md) for strings:
 
 
 |**Character**|**Description**|
@@ -211,8 +211,8 @@ The following table identifies characters you can use to create user-defined dat
 |||
 |:-----|:-----|
 |**Character**|**Description**|
-|(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
-|(**/**)|[Date separator](../../Glossary/vbe-glossary.md#Date-separator). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
+|(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
+|(**/**)|[Date separator](../../Glossary/vbe-glossary.md). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
 |d|Display the day as a number without a leading zero (1 - 31).|
 |dd|Display the day as a number with a leading zero (01 - 31).|
@@ -243,7 +243,7 @@ The following table identifies characters you can use to create user-defined dat
 |am/pm|Use the 12-hour clock and display a lowercase AM with any hour before noon; display a lowercase PM with any hour between noon and 11:59 P.M.|
 |A/P|Use the 12-hour clock and display an uppercase A with any hour before noon; display an uppercase P with any hour between noon and 11:59 P.M.|
 |a/p|Use the 12-hour clock and display a lowercase A with any hour before noon; display a lowercase P with any hour between noon and 11:59 P.M.|
-|AMPM|Use the 12-hour clock and display the AM [string literal](../../Glossary/vbe-glossary.md#string-literal) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM.|
+|AMPM|Use the 12-hour clock and display the AM [string literal](../../Glossary/vbe-glossary.md) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM.|
 
  **User-Defined Numeric Formats (Format Function)**
 The following table identifies characters you can use to create user-defined number formats:
@@ -252,15 +252,15 @@ The following table identifies characters you can use to create user-defined num
 |:-----|:-----|
 |Character|Description|
 |None|Display the number with no formatting.|
-|(**0**)|Digit placeholder. Display a digit or a zero. If the [expression](../../Glossary/vbe-glossary.md#expression) has a digit in the position where the 0 appears in the format string, display it; otherwise, display a zero in that position.If the number has fewer digits than there are zeros (on either side of the decimal) in the format expression, display leading or trailing zeros. If the number has more digits to the right of the decimal separator than there are zeros to the right of the decimal separator in the format expression, round the number to as many decimal places as there are zeros. If the number has more digits to the left of the decimal separator than there are zeros to the left of the decimal separator in the format expression, display the extra digits without modification.|
+|(**0**)|Digit placeholder. Display a digit or a zero. If the [expression](../../Glossary/vbe-glossary.md) has a digit in the position where the 0 appears in the format string, display it; otherwise, display a zero in that position.If the number has fewer digits than there are zeros (on either side of the decimal) in the format expression, display leading or trailing zeros. If the number has more digits to the right of the decimal separator than there are zeros to the right of the decimal separator in the format expression, round the number to as many decimal places as there are zeros. If the number has more digits to the left of the decimal separator than there are zeros to the left of the decimal separator in the format expression, display the extra digits without modification.|
 |(**#**)|Digit placeholder. Display a digit or nothing. If the expression has a digit in the position where the # appears in the format string, display it; otherwise, display nothing in that position. This symbol works like the 0 digit placeholder, except that leading and trailing zeros aren't displayed if the number has the same or fewer digits than there are # characters on either side of the decimal separator in the format expression.|
-|(**.**)|Decimal placeholder. In some [locales](../../Glossary/vbe-glossary.md#locale), a comma is used as the decimal separator. The decimal placeholder determines how many digits are displayed to the left and right of the decimal separator. If the format expression contains only number signs to the left of this symbol, numbers smaller than 1 begin with a decimal separator. To display a leading zero displayed with fractional numbers, use 0 as the first digit placeholder to the left of the decimal separator. The actual character used as a decimal placeholder in the formatted output depends on the Number Format recognized by your system.|
+|(**.**)|Decimal placeholder. In some [locales](../../Glossary/vbe-glossary.md), a comma is used as the decimal separator. The decimal placeholder determines how many digits are displayed to the left and right of the decimal separator. If the format expression contains only number signs to the left of this symbol, numbers smaller than 1 begin with a decimal separator. To display a leading zero displayed with fractional numbers, use 0 as the first digit placeholder to the left of the decimal separator. The actual character used as a decimal placeholder in the formatted output depends on the Number Format recognized by your system.|
 |(**%)**|Percentage placeholder. The expression is multiplied by 100. The percent character (**%**) is inserted in the position where it appears in the format string.|
 |(**,**)|Thousand separator. In some locales, a period is used as a thousand separator. The thousand separator separates thousands from hundreds within a number that has four or more places to the left of the decimal separator. Standard use of the thousand separator is specified if the format contains a thousand separator surrounded by digit placeholders (**0** or **#**). Two adjacent thousand separators or a thousand separator immediately to the left of the decimal separator (whether or not a decimal is specified) means "scale the number by dividing it by 1000, rounding as needed." For example, you can use the format string "##0,," to represent 100 million as 100. Numbers smaller than 1 million are displayed as 0. Two adjacent thousand separators in any position other than immediately to the left of the decimal separator are treated simply as specifying the use of a thousand separator. The actual character used as the thousand separator in the formatted output depends on the Number Format recognized by your system.|
 |(**:**)|Time separator. In some locales, other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
-|(**/**)|[Date separator](../../Glossary/vbe-glossary.md#Date-separator). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
+|(**/**)|[Date separator](../../Glossary/vbe-glossary.md). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |(**E- E+ e- e+**)|Scientific format. If the format expression contains at least one digit placeholder (**0** or **#**) to the right of E-, E+, e-, or e+, the number is displayed in scientific format and E or e is inserted between the number and its exponent. The number of digit placeholders to the right determines the number of digits in the exponent. Use E- or e- to place a minus sign next to negative exponents. Use E+ or e+ to place a minus sign next to negative exponents and a plus sign next to positive exponents.|
 |**- + $** ( )|Display a literal character. To display a character other than one of those listed, precede it with a backslash (\) or enclose it in double quotation marks (" ").|
 |(**\**)|Display the next character in the format string. To display a character that has special meaning as a literal character, precede it with a backslash (\). The backslash itself isn't displayed. Using a backslash is the same as enclosing the next character in double quotation marks. To display a backslash, use two backslashes (\\). Examples of characters that can't be displayed as literal characters are the date-formatting and time-formatting characters (a, c, d, h, m, n, p, q, s, t, w, y, / and :), the numeric-formatting characters (#, 0, %, E, e, comma, and period), and the string-formatting characters (@, &;, <, >, and !).|
-|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(** 34 **)** to enclose the text (34 is the[character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
+|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(** 34 **)** to enclose the text (34 is the[character code](../../Glossary/vbe-glossary.md) for a quotation mark (")).|
 

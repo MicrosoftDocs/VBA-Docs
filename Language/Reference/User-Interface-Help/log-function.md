@@ -18,11 +18,11 @@ Returns a  **Double** specifying the natural logarithm of a number.
 ## Syntax
 
 **Log(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md#Double) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) greater than zero.
+The required  _number_[argument](../../Glossary/vbe-glossary.md) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md) greater than zero.
 
 ## Remarks
 
-The natural logarithm is the logarithm to the base  _e_. The[constant ](../../Glossary/vbe-glossary.md#constant-) _e_ is approximately 2.718282.
+The natural logarithm is the logarithm to the base  _e_. The[constant ](../../Glossary/vbe-glossary.md) _e_ is approximately 2.718282.
 You can calculate base- _n_ logarithms for any number _x_ by dividing the natural logarithm of _x_ by the natural logarithm of _n_ as follows:
 Log _n(x)_ = **Log** ( _x_ ) / **Log** ( _n_ )
 The following example illustrates a custom  **Function** that calculates base-10 logarithms:

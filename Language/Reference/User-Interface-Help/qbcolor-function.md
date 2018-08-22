@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md#Long) representing the RGB color code corresponding to the specified color number.
+Returns a [Long](../../Glossary/vbe-glossary.md) representing the RGB color code corresponding to the specified color number.
 
 ## Syntax
 
 **QBColor(**_color_**)**
-The required  _color_[argument](../../Glossary/vbe-glossary.md#argument) is a whole number in the range 0-15.
+The required  _color_[argument](../../Glossary/vbe-glossary.md) is a whole number in the range 0-15.
  **Settings**
 The  _color_ argument has these settings:
 

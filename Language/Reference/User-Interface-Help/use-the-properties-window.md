@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Use the Properties Window
 
-The  **Properties** window lists the[design-time](../../Glossary/vbe-glossary.md#design-time)[properties](../../Glossary/vbe-glossary.md#propertie) for selected objects and their current settings. You can change these properties at design time. When you select multiple controls, the **Properties** window contains a list of the properties common to all the selected controls.
+The  **Properties** window lists the[design-time](../../Glossary/vbe-glossary.md)[properties](../../Glossary/vbe-glossary.md) for selected objects and their current settings. You can change these properties at design time. When you select multiple controls, the **Properties** window contains a list of the properties common to all the selected controls.
 
  **To navigate the Properties window**
 

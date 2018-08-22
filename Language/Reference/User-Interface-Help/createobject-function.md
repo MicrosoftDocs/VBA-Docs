@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Creates and returns a reference to an [ActiveX object](../../Glossary/vbe-glossary.md#ActiveX-object).
+Creates and returns a reference to an [ActiveX object](../../Glossary/vbe-glossary.md).
 
 ## Syntax
 
@@ -26,23 +26,18 @@ The  **CreateObject** function syntax has these parts:
 | _class_|Required;  **Variant** (**String**). The application name and class of the object to create.|
 | _servername_|Optional;  **Variant** (**String**). The name of the network server where the object will be created. If _servername_ is an empty string (""), the local machine is used.|
 
-The  _class_[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_**.**_objecttype_ and has these parts:
+The  _class_[argument](../../Glossary/vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
-| _objecttype_|Required;  **Variant** (**String**). The type or[class](../../Glossary/vbe-glossary.md#class) of object to create.|
+| _objecttype_|Required;  **Variant** (**String**). The type or[class](../../Glossary/vbe-glossary.md) of object to create.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 Every application that supports Automation provides at least one type of object. For example, a word processing application may provide an  **Application** object, a **Document** object, and a **Toolbar** object.
-To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](../../Glossary/vbe-glossary.md#object-variable):
+To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](../../Glossary/vbe-glossary.md):
 
 
 
@@ -53,7 +48,7 @@ Dim ExcelSheet As Object
 Set ExcelSheet = CreateObject("Excel.Sheet")
 ```
 
-This code starts the application creating the object, in this case, a Microsoft Excel spreadsheet. Once an object is created, you reference it in code using the object variable you defined. In the following example, you access [properties](../../Glossary/vbe-glossary.md#propertie) and[methods](../../Glossary/vbe-glossary.md#method) of the new object using the object variable, `ExcelSheet`, and other Microsoft Excel objects, including the  `Application` object and the `Cells` collection.
+This code starts the application creating the object, in this case, a Microsoft Excel spreadsheet. Once an object is created, you reference it in code using the object variable you defined. In the following example, you access [properties](../../Glossary/vbe-glossary.md) and[methods](../../Glossary/vbe-glossary.md) of the new object using the object variable, `ExcelSheet`, and other Microsoft Excel objects, including the  `Application` object and the `Cells` collection.
 
 
 
@@ -85,7 +80,7 @@ Set xlSheet = xlBook.Worksheets(1)
 
 ```
 
-The reference through an early-bound variable can give better performance, but can only contain a reference to the [class](../../Glossary/vbe-glossary.md#class) specified in the[declaration](../../Glossary/vbe-glossary.md#declaration).
+The reference through an early-bound variable can give better performance, but can only contain a reference to the [class](../../Glossary/vbe-glossary.md) specified in the[declaration](../../Glossary/vbe-glossary.md).
 You can pass an object returned by the  **CreateObject** function to a function expecting an object as an argument. For example, the following code creates and passes a reference to a Excel.Application object:
 
 

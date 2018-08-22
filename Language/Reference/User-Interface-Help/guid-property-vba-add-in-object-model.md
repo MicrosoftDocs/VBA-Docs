@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 
 
-Returns a [String](../../Glossary/vbe-glossary.md#String) containing the class identifier of an object. Read-only.
+Returns a [String](../../Glossary/vbe-glossary.md) containing the class identifier of an object. Read-only.
 

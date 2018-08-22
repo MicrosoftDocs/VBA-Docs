@@ -34,7 +34,7 @@ The  **BoundValue** property syntax has these parts:
 |**Control**|**Description**|
 |:-----|:-----|
 |**CheckBox**|An integer value indicating whether the item is selected:|
-||Null Indicates the item is in a null state, neither selected nor [cleared](../../../language/Glossary/glossary-vba.md#cleared).|
+||Null Indicates the item is in a null state, neither selected nor [cleared](../../../language/Glossary/glossary-vba.md).|
 ||-1 True. Indicates the item is selected.|
 ||0 False. Indicates the item is cleared.|
 |**OptionButton**|Same as  **CheckBox**.|

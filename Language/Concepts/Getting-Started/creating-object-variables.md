@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Creating Object Variables
 
-You can treat an [object variable](../../Glossary/vbe-glossary.md#object-variable) exactly the same as the [object](../../Glossary/vbe-glossary.md#object) to which it refers. You can set or return the [properties](../../Glossary/vbe-glossary.md#propertie) of the object or use any of its [methods](../../Glossary/vbe-glossary.md#method).
+You can treat an [object variable](../../Glossary/vbe-glossary.md) exactly the same as the [object](../../Glossary/vbe-glossary.md) to which it refers. You can set or return the [properties](../../Glossary/vbe-glossary.md) of the object or use any of its [methods](../../Glossary/vbe-glossary.md).
 
  **To create an object variable:**
 
@@ -26,7 +26,7 @@ You can treat an [object variable](../../Glossary/vbe-glossary.md#object-variabl
 
 ## Declaring an Object Variable
 
-Use the  **Dim** statement or one of the other declaration statements (**Public**, **Private**, or **Static**) to declare an object variable. A [variable](../../Glossary/vbe-glossary.md#variable) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
+Use the  **Dim** statement or one of the other declaration statements (**Public**, **Private**, or **Static**) to declare an object variable. A [variable](../../Glossary/vbe-glossary.md) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
 
 
 ```vb
@@ -40,9 +40,9 @@ Dim MyObject As Font
 ```
 
 
- **Note**  If you use an object variable without declaring it first, the [data type](../../Glossary/vbe-glossary.md#data-type) of the object variable is **Variant** by default.
+ **Note**  If you use an object variable without declaring it first, the [data type](../../Glossary/vbe-glossary.md) of the object variable is **Variant** by default.
 
-You can declare an object variable with the  **Object** data type when the specific [object type](../../Glossary/vbe-glossary.md#object-type) is not known until the procedure runs. Use the **Object** data type to create a generic reference to any object.
+You can declare an object variable with the  **Object** data type when the specific [object type](../../Glossary/vbe-glossary.md) is not known until the procedure runs. Use the **Object** data type to create a generic reference to any object.
 
 If you know the specific object type, you should declare the object variable as that object type. For example, if the application contains a Sample object type, you can declare an object variable for that object using either of these statements:
 
@@ -60,7 +60,7 @@ Declaring specific object types provides automatic type checking, faster code, a
 
 ## Assigning an Object Variable to an Object
 
-Use the  **Set** statement to assign an object to an object variable. You can assign an [object expression](../../Glossary/vbe-glossary.md#object-expression) or **Nothing**. For example, the following object variable assignments are valid:
+Use the  **Set** statement to assign an object to an object variable. You can assign an [object expression](../../Glossary/vbe-glossary.md) or **Nothing**. For example, the following object variable assignments are valid:
 
 
 ```vb
@@ -69,7 +69,7 @@ Set MyObject = Nothing ' Discontinue association.
 
 ```
 
-You can combine declaring an object variable with assigning an object to it by using the  **New** [keyword](../../Glossary/vbe-glossary.md#keyword) with the **Set** statement. For example:
+You can combine declaring an object variable with assigning an object to it by using the  **New** [keyword](../../Glossary/vbe-glossary.md) with the **Set** statement. For example:
 
 
 

@@ -18,13 +18,13 @@ Returns a  **Single** containing a random number.
 ## Syntax
 
 **Rnd** [ **(**_number_**)** ]
-The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Single](../../Glossary/vbe-glossary.md#Single) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The optional  _number_[argument](../../Glossary/vbe-glossary.md) is a[Single](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
  **Return Values**
 
 
 |**If  _number_ is**|**Rnd generates**|
 |:-----|:-----|
-|Less than zero|The same number every time, using  _number_ as the[seed](../../Glossary/vbe-glossary.md#seed).|
+|Less than zero|The same number every time, using  _number_ as the[seed](../../Glossary/vbe-glossary.md).|
 |Greater than zero|The next random number in the sequence.|
 |Equal to zero|The most recently generated number.|
 |Not supplied|The next random number in the sequence.|

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # Current module does not support Print method
 
-Not all [methods](../../Glossary/vbe-glossary.md#method) and[properties](../../Glossary/vbe-glossary.md#propertie) are appropriate in all[modules](../../Glossary/vbe-glossary.md#module). This error has the following causes and solutions:
+Not all [methods](../../Glossary/vbe-glossary.md) and[properties](../../Glossary/vbe-glossary.md) are appropriate in all[modules](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
 
 
 
-- You tried to use the  **Print** method on an object that can't display anything. For example, you can't use the **Print** method without qualification in a[standard module](../../Glossary/vbe-glossary.md#standard-module).
+- You tried to use the  **Print** method on an object that can't display anything. For example, you can't use the **Print** method without qualification in a[standard module](../../Glossary/vbe-glossary.md).
     
     Remove the reference to the  **Print** method, or qualify it with an appropriate object. For example, qualify it with the **Debug** object to display its arguments in the **Immediate** window during debugging.
     
-- You tried to use the  **Line**, **Circle**, **PSet**, or **Scale** method on an object that can't accept them. For example, they can't appear unqualified in a standard module or an Automation[class module](../../Glossary/vbe-glossary.md#class-module).
+- You tried to use the  **Line**, **Circle**, **PSet**, or **Scale** method on an object that can't accept them. For example, they can't appear unqualified in a standard module or an Automation[class module](../../Glossary/vbe-glossary.md).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

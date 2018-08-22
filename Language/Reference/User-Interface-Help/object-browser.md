@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Displays the [classes](../../Glossary/vbe-glossary.md#classe), properties, methods, events, and constants available from [object libraries](../../Glossary/vbe-glossary.md#object-librarie) and the[procedures](../../Glossary/vbe-glossary.md#procedure) in your project. You can use it to find and use objects you create, as well as objects from other applications.
+Displays the [classes](../../Glossary/vbe-glossary.md), properties, methods, events, and constants available from [object libraries](../../Glossary/vbe-glossary.md) and the[procedures](../../Glossary/vbe-glossary.md) in your project. You can use it to find and use objects you create, as well as objects from other applications.
 
 You can get Help for the  **Object** **Browser** by searching for Object Browser in Help.
 

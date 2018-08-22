@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the first line of a [procedure](../../Glossary/vbe-glossary.md#procedure).
+Returns the first line of a [procedure](../../Glossary/vbe-glossary.md).
 
 ## Syntax
 
@@ -25,11 +25,11 @@ The  **ProcBodyLine** syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _procname_|Required. A [String](../../Glossary/vbe-glossary.md#String) containing the name of the procedure.|
-| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#Property-procedure) can have multiple representations in the[module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is,  **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _procname_|Required. A [String](../../Glossary/vbe-glossary.md) containing the name of the procedure.|
+| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md) can have multiple representations in the[module](../../Glossary/vbe-glossary.md), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is,  **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_[argument](../../Glossary/vbe-glossary.md#argument):
+You can use one of the following [constants](../../Glossary/vbe-glossary.md) for the _prockind_[argument](../../Glossary/vbe-glossary.md):
 
 
 |**Constant**|**Description**|

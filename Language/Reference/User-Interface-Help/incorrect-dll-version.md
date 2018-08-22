@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Incorrect DLL version
 
-Each version of Visual Basic works only with its corresponding [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-(DLL)) (Windows) or code resource (Macintosh). This error has the following cause and solution:
+Each version of Visual Basic works only with its corresponding [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) (Windows) or code resource (Macintosh). This error has the following cause and solution:
 
 
 
-- Your version of the Visual Basic dynamic-link library or code resource doesn't match the version expected by this [host application](../../Glossary/vbe-glossary.md#host-application). The program is attempting to call routines in a DLL or code resource, but the version of the library or resource is inconsistent with either Visual Basic or the host application.
+- Your version of the Visual Basic dynamic-link library or code resource doesn't match the version expected by this [host application](../../Glossary/vbe-glossary.md). The program is attempting to call routines in a DLL or code resource, but the version of the library or resource is inconsistent with either Visual Basic or the host application.
     
     Obtain the correct version of the library or resource, and make sure earlier versions don't precede the proper one on your path.
     

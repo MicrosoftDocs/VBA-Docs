@@ -27,7 +27,7 @@ The  **Move** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _Left_|Optional. [Single-precision value](../../Glossary/vbe-glossary.md#Single-precision-value), in points, indicating the horizontal coordinate for the left edge of the object.|
+| _Left_|Optional. [Single-precision value](../../Glossary/vbe-glossary.md), in points, indicating the horizontal coordinate for the left edge of the object.|
 | _Top_|Optional. Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.|
 | _Width_|Optional. Single-precision value, in points, indicating the width of the object.|
 | _Height_|Optional. Single-precision value, in points, indicating the height of the object.|
@@ -40,6 +40,6 @@ The maximum and minimum values for the  _Left_, _Top_, _Width_, _Height_, _X_, a
 ## Remarks
 
 For a form or control, you can move a selection to a specific location relative to the edges of the form that contains the selection.
-You can use [named arguments](../../Glossary/vbe-glossary.md#named-argument), or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.
+You can use [named arguments](../../Glossary/vbe-glossary.md), or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.
 For the  **Controls** collection, you can move all the controls in this collection a specific distance from their current positions on a form, **Frame**, or **Page**.
 

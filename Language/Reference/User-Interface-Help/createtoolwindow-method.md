@@ -25,10 +25,10 @@ The  **CreateToolWindow** method syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _object_|An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _AddInInst_|Required. An add-in instance variable representing an add-in in the development environment.|
-| _ProgID_|Required. [String](../../Glossary/vbe-glossary.md#String) representing the progID of the **UserDocument** object.|
-| _Caption_|Required. [String](../../Glossary/vbe-glossary.md#String) containing the window caption.|
-| _GuidPosition_|Required. [String](../../Glossary/vbe-glossary.md#String) containing a unique identifier for the window.|
-| _DocObj_|Required. [Object](../../Glossary/vbe-glossary.md#object) representing a **UserDocument** object. This object will be set in the call to this function.|
+| _ProgID_|Required. [String](../../Glossary/vbe-glossary.md) representing the progID of the **UserDocument** object.|
+| _Caption_|Required. [String](../../Glossary/vbe-glossary.md) containing the window caption.|
+| _GuidPosition_|Required. [String](../../Glossary/vbe-glossary.md) containing a unique identifier for the window.|
+| _DocObj_|Required. [Object](../../Glossary/vbe-glossary.md) representing a **UserDocument** object. This object will be set in the call to this function.|
 

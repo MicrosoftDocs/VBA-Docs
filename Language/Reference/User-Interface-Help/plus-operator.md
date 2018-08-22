@@ -23,23 +23,23 @@ The  **+** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
-| _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md#expression).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md).|
 | _expression2_|Required; any expression.|
 
 ## Remarks
 
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
-If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md#Variant), the following rules apply:
+If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md), the following rules apply:
 
 
 |**If**|**Then**|
 |:-----|:-----|
-|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md#Byte), [Boolean](../../Glossary/vbe-glossary.md#Boolean), [Integer](../../Glossary/vbe-glossary.md#Integer), [Long](../../Glossary/vbe-glossary.md#Long), [Single](../../Glossary/vbe-glossary.md#Single), [Double](../../Glossary/vbe-glossary.md#Double), [Date](../../Glossary/vbe-glossary.md#Date), [Currency](../../Glossary/vbe-glossary.md#Currency), or [Decimal](../../Glossary/vbe-glossary.md#Decimal))|Add.|
-|Both expressions are [String](../../Glossary/vbe-glossary.md#String)|Concatenate.|
-|One expression is a numeric data type and the other is any  **Variant** except [Null](../../Glossary/vbe-glossary.md#Null)|Add.|
+|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Add.|
+|Both expressions are [String](../../Glossary/vbe-glossary.md)|Concatenate.|
+|One expression is a numeric data type and the other is any  **Variant** except [Null](../../Glossary/vbe-glossary.md)|Add.|
 |One expression is a  **String** and the other is any **Variant** except **Null**|Concatenate.|
-|One expression is an [Empty](../../Glossary/vbe-glossary.md#Empty) **Variant**|Return the remaining expression unchanged as  _result_.|
+|One expression is an [Empty](../../Glossary/vbe-glossary.md) **Variant**|Return the remaining expression unchanged as  _result_.|
 |One expression is a numeric data type and the other is a  **String**|A  `Type mismatch`error occurs.|
 |Either expression is  **Null**| _result_ is **Null**.|
 
@@ -52,7 +52,7 @@ If both expressions are  **Variant** expressions, the following rules apply:
 |Both  **Variant** expressions are strings|Concatenate.|
 |One  **Variant** expression is numeric and the other is a string|Add.|
 
-For simple arithmetic addition involving only expressions of numeric data types, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order:
+For simple arithmetic addition involving only expressions of numeric data types, the [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order:
 
 
 |**If**|**Then  _result_ is**|
