@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) whole number representing an RGB color value.
+Returns a [Long](../../Glossary/vbe-glossary.md#Long) whole number representing an RGB color value.
 
 ## Syntax
 
 **RGB( _red_, _green_, _blue_ )**
-The  **RGB** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **RGB** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
@@ -29,8 +29,8 @@ The  **RGB** function syntax has these[named arguments](../../Glossary/vbe-gloss
 
 ## Remarks
 
-Application [methods](../../Glossary/vbe-glossary.md) and[properties](../../Glossary/vbe-glossary.md) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
-The value for any [argument](../../Glossary/vbe-glossary.md) to **RGB** that exceeds 255 is assumed to be 255.
+Application [methods](../../Glossary/vbe-glossary.md#method) and[properties](../../Glossary/vbe-glossary.md#propertie) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
+The value for any [argument](../../Glossary/vbe-glossary.md#argument) to **RGB** that exceeds 255 is assumed to be 255.
 The following table lists some standard colors and the red, green, and blue values they include:
 
 

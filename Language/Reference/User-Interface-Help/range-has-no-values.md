@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Range has no values
 
-There are limitations on the way you can specify the number of elements in an [array](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+There are limitations on the way you can specify the number of elements in an [array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
 
 - You specified your array boundaries incorrectly. For example, the following ranges are invalid:
     

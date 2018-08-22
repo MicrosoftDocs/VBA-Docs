@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Import File and Export File Commands (File Menu)
 
-Adds existing [modules](../../Glossary/vbe-glossary.md) and forms to your project or saves a module or form as a separate file.
+Adds existing [modules](../../Glossary/vbe-glossary.md#module) and forms to your project or saves a module or form as a separate file.
 
  **Import File**
 

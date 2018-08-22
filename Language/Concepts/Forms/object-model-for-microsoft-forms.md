@@ -17,7 +17,7 @@ The Microsoft Forms object model includes the following types of object:
 
 - Controls
     
-- [Collections](../../Glossary/vbe-glossary.md)
+- [Collections](../../Glossary/vbe-glossary.md#Collection)
     
 - Objects (within collections)
     

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 An expected part of the syntax was not found. The error is usually located to the left of the selected item, but isn't always obvious. For example, you can invoke a **Sub** procedure with or without the **Call** keyword. However, if you use the **Call** keyword, you must enclose the argument list in parentheses. This error has the following causes and solutions:
 
-- **Expected: End of Statement**. Improper use of parentheses in a [procedure](../../Glossary/vbe-glossary.md) invocation:
+- **Expected: End of Statement**. Improper use of parentheses in a [procedure](../../Glossary/vbe-glossary.md#procedure) invocation:
     
   ```vb
     X = Workbook.Add F:= 5    ' Error due to no parentheses. 
     Call MySub 5                ' Error due to no parentheses. 
   ```
 
-  Use parentheses in a function call that specifies [arguments](../../Glossary/vbe-glossary.md) or with a **Sub** procedure invocation that uses the **Call** keyword.
+  Use parentheses in a function call that specifies [arguments](../../Glossary/vbe-glossary.md#argument) or with a **Sub** procedure invocation that uses the **Call** keyword.
     
 - **Expected: )**. Incorrect syntax for a procedure call. For example, a function call can't stand by itself, and **Sub** procedure calls sometimes require the **Call** keyword, depending on how you specify their arguments.
     
@@ -29,9 +29,9 @@ An expected part of the syntax was not found. The error is usually located to th
       YourSub(5, 7)                ' Sub invocation without Call. 
   ```
 
-  Always use function calls in [expressions](../../Glossary/vbe-glossary.md). If you have multiple arguments enclosed in parentheses in a **Sub** procedure call, you must use the **Call** keyword.
+  Always use function calls in [expressions](../../Glossary/vbe-glossary.md#expression). If you have multiple arguments enclosed in parentheses in a **Sub** procedure call, you must use the **Call** keyword.
     
-- **Expected: Expression**. For example, when pasting code from the [Object Browser](../../Glossary/vbe-glossary.md), you may have forgotten to specify a value for a [named argument](../../Glossary/vbe-glossary.md).
+- **Expected: Expression**. For example, when pasting code from the [Object Browser](../../Glossary/vbe-glossary.md#Object-Browser), you may have forgotten to specify a value for a [named argument](../../Glossary/vbe-glossary.md#named-argument).
     
   ```vb
     Workbook.Add (X:= )  ' Error because no value assigned to ' named argument. 
@@ -39,7 +39,7 @@ An expected part of the syntax was not found. The error is usually located to th
 
   Either add a value for the argument, or delete the argument if it's optional.
     
-- **Expected: Variable**. For example, you may have used restricted [keywords](../../Glossary/vbe-glossary.md) for variable names. In the following example, the **Input #** statement expects a variable as the second argument. Since **Type** is a restricted keyword, it can't be used as a variable name.
+- **Expected: Variable**. For example, you may have used restricted [keywords](../../Glossary/vbe-glossary.md#keyword) for variable names. In the following example, the **Input #** statement expects a variable as the second argument. Since **Type** is a restricted keyword, it can't be used as a variable name.
     
   ```vb
     Input # 1, Type    ' Type keyword invalidly used as ' variable name. 

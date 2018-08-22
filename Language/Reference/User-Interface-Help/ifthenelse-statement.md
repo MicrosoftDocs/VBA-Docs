@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # If...Then...Else Statement
 
-Conditionally executes a group of [statements](../../Glossary/vbe-glossary.md), depending on the value of an [expression](../../Glossary/vbe-glossary.md).
+Conditionally executes a group of [statements](../../Glossary/vbe-glossary.md#statement), depending on the value of an [expression](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
@@ -32,9 +32,9 @@ The  **If...Then...Else** statement syntax has these parts:
 |:-----|:-----|
 | _condition_|Required. One or more of the following two types of expressions:|
 |
-|A [numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md),  _condition_ is treated as **False**.|
+|A [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md#Null),  _condition_ is treated as **False**.|
 |
-|An expression of the form  **TypeOf**_objectname_**Is**_objecttype_. The _objectname_ is any object reference and _objecttype_ is any valid object type. The expression is **True** if _objectname_ is of the[object type](../../Glossary/vbe-glossary.md) specified by _objecttype_; otherwise it is **False**.|
+|An expression of the form  **TypeOf**_objectname_**Is**_objecttype_. The _objectname_ is any object reference and _objecttype_ is any valid object type. The expression is **True** if _objectname_ is of the[object type](../../Glossary/vbe-glossary.md#object-type) specified by _objecttype_; otherwise it is **False**.|
 | _statements_|Optional in block form; required in single-line form that has no  **Else** clause. One or more statements separated by colons; executed if _condition_ is **True**.|
 | _condition-n_|Optional. Same as  _condition_.|
 | _elseifstatements_|Optional. One or more statements executed if associated  _condition-n_ is **True**.|
@@ -54,8 +54,8 @@ If A > 10 Then A = A + 1 : B = B + A : C = C + B
 
 ```
 
-A block form  **If** statement must be the first statement on a line. The **Else**, **ElseIf**, and **End If** parts of the statement can have only a[line number](../../Glossary/vbe-glossary.md) or[line label](../../Glossary/vbe-glossary.md) preceding them. The block **If** must end with an **End If** statement.
-To determine whether or not a statement is a block  **If**, examine what follows the **Then**[keyword](../../Glossary/vbe-glossary.md). If anything other than a [comment](../../Glossary/vbe-glossary.md) appears after **Then** on the same line, the statement is treated as a single-line **If** statement.
+A block form  **If** statement must be the first statement on a line. The **Else**, **ElseIf**, and **End If** parts of the statement can have only a[line number](../../Glossary/vbe-glossary.md#line-number) or[line label](../../Glossary/vbe-glossary.md#line-label) preceding them. The block **If** must end with an **End If** statement.
+To determine whether or not a statement is a block  **If**, examine what follows the **Then**[keyword](../../Glossary/vbe-glossary.md#keyword). If anything other than a [comment](../../Glossary/vbe-glossary.md#comment) appears after **Then** on the same line, the statement is treated as a single-line **If** statement.
 The  **Else** and **ElseIf** clauses are both optional. You can have as many **ElseIf** clauses as you want in a block **If**, but none can appear after an **Else** clause. Block **If** statements can be nested; that is, contained within one another.
 When executing a block  **If** (second syntax), _condition_ is tested. If _condition_ is **True**, the statements following **Then** are executed. If _condition_ is **False**, each **ElseIf** condition (if any) is evaluated in turn. When a **True** condition is found, the statements immediately following the associated **Then** are executed. If none of the **ElseIf** conditions are **True** (or if there are no **ElseIf** clauses), the statements following **Else** are executed. After executing the statements following **Then** or **Else**, execution continues with the statement following **End If**.
  **Tip** **Select Case** may be more useful when evaluating a single expression that has several possible actions. However, the **TypeOf**_objectname_**Is**_objecttype_ clause can't be used with the **Select Case** statement.

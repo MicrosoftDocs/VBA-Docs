@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 
 
-Returns the  **Window** object that represents the component's[designer](../../Glossary/vbe-glossary.md).
+Returns the  **Window** object that represents the component's[designer](../../Glossary/vbe-glossary.md#designer).
 
 ## Syntax
 
 _object_**.DesignerWindow**
-The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

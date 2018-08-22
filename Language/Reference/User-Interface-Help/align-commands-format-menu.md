@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Align Commands (Format Menu)
 
-Aligns selected [objects](../../Glossary/vbe-glossary.md) with each other using the control with the white grab handles as the reference.
+Aligns selected [objects](../../Glossary/vbe-glossary.md#object) with each other using the control with the white grab handles as the reference.
 
  **Lefts**
 

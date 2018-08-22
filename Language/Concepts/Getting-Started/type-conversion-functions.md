@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Type Conversion Functions
 
-Each function coerces an [expression](../../Glossary/vbe-glossary.md) to a specific [data type](../../Glossary/vbe-glossary.md).
+Each function coerces an [expression](../../Glossary/vbe-glossary.md#expression) to a specific [data type](../../Glossary/vbe-glossary.md#data-type).
 
 ## Syntax
 
@@ -29,7 +29,7 @@ Each function coerces an [expression](../../Glossary/vbe-glossary.md) to a speci
 - **CStr(**_expression_**)**
 - **CVar(**_expression_**)**
 
-The required  _expression_ [argument](../../Glossary/vbe-glossary.md) is any [string expression](../../Glossary/vbe-glossary.md) or [numeric expression](../../Glossary/vbe-glossary.md).
+The required  _expression_ [argument](../../Glossary/vbe-glossary.md#argument) is any [string expression](../../Glossary/vbe-glossary.md#string-expression) or [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
 
 **Return Types**
 
@@ -38,19 +38,19 @@ The function name determines the return type as shown in the following:
 
 |**Function**|**Return Type**|**Range for  _expression_ argument**|
 |:-----|:-----|:-----|
-|**CBool** [Boolean](../../Glossary/vbe-glossary.md)|Any valid  **string** or numeric expression.|
-|**CByte** [Byte](../../Glossary/vbe-glossary.md)|0 to 255.|
-|**CCur** [Currency](../../Glossary/vbe-glossary.md)|-922,337,203,685,477.5808 to 922,337,203,685,477.5807.|
-|**CDate** [Date](../../Glossary/vbe-glossary.md)|Any valid [date expression](../../Glossary/vbe-glossary.md).|
-|**CDbl** [Double](../../Glossary/vbe-glossary.md)|-1.79769313486231E308 to -4.94065645841247E-324 for negative values+ADs- 4.94065645841247E-324 to 1.79769313486232E308 for positive values.|
-|**CDec** [Decimal](../../Glossary/vbe-glossary.md)|79,228,162,514,264,337,593,543,950,335 for zero-scaled numbers, that is, numbers with no decimal places. For numbers with 28 decimal places, the range is 7.9228162514264337593543950335. The smallest possible non-zero number is 0.0000000000000000000000000001.|
-|**CInt** [Integer](../../Glossary/vbe-glossary.md)|-32,768 to 32,767+ADs- fractions are rounded.|
-|**CLng** [Long](../../Glossary/vbe-glossary.md)|-2,147,483,648 to 2,147,483,647+ADs- fractions are rounded.|
+|**CBool** [Boolean](../../Glossary/vbe-glossary.md#Boolean)|Any valid  **string** or numeric expression.|
+|**CByte** [Byte](../../Glossary/vbe-glossary.md#Byte)|0 to 255.|
+|**CCur** [Currency](../../Glossary/vbe-glossary.md#Currency)|-922,337,203,685,477.5808 to 922,337,203,685,477.5807.|
+|**CDate** [Date](../../Glossary/vbe-glossary.md#Date)|Any valid [date expression](../../Glossary/vbe-glossary.md#date-expression).|
+|**CDbl** [Double](../../Glossary/vbe-glossary.md#Double)|-1.79769313486231E308 to -4.94065645841247E-324 for negative values+ADs- 4.94065645841247E-324 to 1.79769313486232E308 for positive values.|
+|**CDec** [Decimal](../../Glossary/vbe-glossary.md#Decimal)|79,228,162,514,264,337,593,543,950,335 for zero-scaled numbers, that is, numbers with no decimal places. For numbers with 28 decimal places, the range is 7.9228162514264337593543950335. The smallest possible non-zero number is 0.0000000000000000000000000001.|
+|**CInt** [Integer](../../Glossary/vbe-glossary.md#Integer)|-32,768 to 32,767+ADs- fractions are rounded.|
+|**CLng** [Long](../../Glossary/vbe-glossary.md#Long)|-2,147,483,648 to 2,147,483,647+ADs- fractions are rounded.|
 |**CLngLng** [LongLong](../../reference/User-Interface-Help/longlong-data-type.md)|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807+ADs- fractions are rounded. (Valid on 64-bit platforms only.)|
 |**CLngPtr** [LongPtr](../../reference/User-Interface-Help/longptr-data-type.md)|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems+ADs- fractions are rounded for 32-bit and 64-bit systems.|
-|**CSng** [Single](../../Glossary/vbe-glossary.md)|-3.402823E38 to -1.401298E-45 for negative values+ADs- 1.401298E-45 to 3.402823E38 for positive values.|
-|**CStr** [String](../../Glossary/vbe-glossary.md)|AWw-Returns for CStr](../../reference/User-Interface-Help/returns-for-cstr.md) depend on the _expression_ argument.|
-|**CVar** [Variant](../../Glossary/vbe-glossary.md)|Same range as  **Double** for numerics. Same range as **String** for non-numerics.|
+|**CSng** [Single](../../Glossary/vbe-glossary.md#Single)|-3.402823E38 to -1.401298E-45 for negative values+ADs- 1.401298E-45 to 3.402823E38 for positive values.|
+|**CStr** [String](../../Glossary/vbe-glossary.md#String)|AWw-Returns for CStr](../../reference/User-Interface-Help/returns-for-cstr.md) depend on the _expression_ argument.|
+|**CVar** [Variant](../../Glossary/vbe-glossary.md#Variant)|Same range as  **Double** for numerics. Same range as **String** for non-numerics.|
 
 ## Remarks
 
@@ -59,9 +59,9 @@ If the  _expression_ passed to the function is outside the range of the data typ
  >**Note**  Conversion functions must be used to explicitly assign  **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
 
 In general, you can document your code using the data-type conversion functions to show that the result of some operation should be expressed as a particular data type rather than the default data type. For example, use  **CCur** to force currency arithmetic in cases where single-precision, double-precision, or integer arithmetic normally would occur.
-You should use the data-type conversion functions instead of  **Val** to provide internationally aware conversions from one data type to another. For example, when you use **CCur**, different decimal separators, different thousand separators, and various currency options are properly recognized depending on the [locale](../../Glossary/vbe-glossary.md) setting of your computer.
+You should use the data-type conversion functions instead of  **Val** to provide internationally aware conversions from one data type to another. For example, when you use **CCur**, different decimal separators, different thousand separators, and various currency options are properly recognized depending on the [locale](../../Glossary/vbe-glossary.md#locale) setting of your computer.
 When the fractional part is exactly 0.5,  **CInt** and **CLng** always round it to the nearest even number. For example, 0.5 rounds to 0, and 1.5 rounds to 2. **CInt** and **CLng** differ from the **Fix** and **Int** functions, which truncate, rather than round, the fractional part of a number. Also, **Fix** and **Int** always return a value of the same type as is passed in.
-Use the  **IsDate** function to determine if _date_ can be converted to a date or time. **CDate** recognizes [date literals](../../Glossary/vbe-glossary.md) and time literals as well as some numbers that fall within the range of acceptable dates. When converting a number to a date, the whole number portion is converted to a date. Any fractional part of the number is converted to a time of day, starting at midnight.
+Use the  **IsDate** function to determine if _date_ can be converted to a date or time. **CDate** recognizes [date literals](../../Glossary/vbe-glossary.md#date-literal) and time literals as well as some numbers that fall within the range of acceptable dates. When converting a number to a date, the whole number portion is converted to a date. Any fractional part of the number is converted to a time of day, starting at midnight.
  **CDate** recognizes date formats according to the locale setting of your system. The correct order of day, month, and year may not be determined if it is provided in a format other than one of the recognized date settings. In addition, a long date format is not recognized if it also contains the day-of-the-week string.
 A  **CVDate** function is also provided for compatibility with previous versions of Visual Basic. The syntax of the **CVDate** function is identical to the **CDate** function, however, **CVDate** returns a **Variant** whose subtype is **Date** instead of an actual **Date** type. Since there is now an intrinsic **Date** type, there is no further need for **CVDate**. The same effect can be achieved by converting an expression to a **Date,** and then assigning it to a **Variant**. This technique is consistent with the conversion of all other intrinsic types to their equivalent **Variant** subtypes.
 

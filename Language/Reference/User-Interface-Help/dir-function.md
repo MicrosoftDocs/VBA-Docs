@@ -23,11 +23,11 @@ The  **Dir** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _pathname_|Optional. [String expression](../../Glossary/vbe-glossary.md) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
-| _attributes_|Optional. [Constant](../../Glossary/vbe-glossary.md) or[numeric expression](../../Glossary/vbe-glossary.md), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
+| _pathname_|Optional. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
+| _attributes_|Optional. [Constant](../../Glossary/vbe-glossary.md#Constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
 
  **Settings**
-The  _attributes_[argument](../../Glossary/vbe-glossary.md) settings are:
+The  _attributes_[argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -70,6 +70,6 @@ You must specify  _pathname_ the first time you call the **Dir** function, or an
  **Dir** returns the first file name that matches _pathname_. To get any additional file names that match _pathname_, call **Dir** again with no arguments. When no more file names match, **Dir** returns a zero-length string (""). Once a zero-length string is returned, you must specify _pathname_ in subsequent calls or an error occurs. You can change to a new _pathname_ without retrieving all of the file names that match the current _pathname_. However, you can't call the **Dir** function recursively. Calling **Dir** with the **vbDirectory** attribute does not continually return subdirectories.
 With Excel for Mac 2016, the initial **Dir** function call will succeed. Subsequent calls to iterate through the specified directory will cause an error however. This is a known bug unfortunately.
 
- **Tip**  Because file names are retrieved in no particular order, you may want to store returned file names in an [array](../../Glossary/vbe-glossary.md), and then sort the array.
+ **Tip**  Because file names are retrieved in no particular order, you may want to store returned file names in an [array](../../Glossary/vbe-glossary.md#array), and then sort the array.
 
 

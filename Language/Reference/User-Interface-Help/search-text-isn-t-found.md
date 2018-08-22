@@ -15,11 +15,11 @@ No search text was found. This error has the following causes and solutions:
 
 
 
-- There is no matching text between the start point and end point of the specified search [scope](../../Glossary/vbe-glossary.md).
+- There is no matching text between the start point and end point of the specified search [scope](../../Glossary/vbe-glossary.md#scope).
     
     You can widen the scope of the search if you want to continue searching.
     
-- You failed to provide a left bracket when using a pattern-matching [expression](../../Glossary/vbe-glossary.md).
+- You failed to provide a left bracket when using a pattern-matching [expression](../../Glossary/vbe-glossary.md#expression).
     
     Provide the left bracket.
     

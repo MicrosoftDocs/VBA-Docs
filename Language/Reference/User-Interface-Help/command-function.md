@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the [argument](../../Glossary/vbe-glossary.md) portion of the[command line](../../Glossary/vbe-glossary.md) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
+Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the[command line](../../Glossary/vbe-glossary.md#command-line) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
 
 ## Syntax
 

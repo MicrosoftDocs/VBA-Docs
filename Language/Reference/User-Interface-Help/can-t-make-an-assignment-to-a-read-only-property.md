@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Can't make an assignment to a read-only property
 
-Some [properties](../../Glossary/vbe-glossary.md) can't accept assignments. This error has the following cause and solution:
+Some [properties](../../Glossary/vbe-glossary.md#propertie) can't accept assignments. This error has the following cause and solution:
 
 
 
-- You tried to assign a value to a property that can't accept assignment. In some cases, a property can accept assignment only at specific times. For example, a property might accept assignments at [design time](../../Glossary/vbe-glossary.md), but not at [run time](../../Glossary/vbe-glossary.md). Check the Help for the specific property to see when it can accept assignments, if ever.
+- You tried to assign a value to a property that can't accept assignment. In some cases, a property can accept assignment only at specific times. For example, a property might accept assignments at [design time](../../Glossary/vbe-glossary.md#design-time), but not at [run time](../../Glossary/vbe-glossary.md#run-time). Check the Help for the specific property to see when it can accept assignments, if ever.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) consisting of the specified number of spaces
 ## Syntax
 
 **Space** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md) is the number of spaces you want in the string.
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is the number of spaces you want in the string.
 
 ## Remarks
 

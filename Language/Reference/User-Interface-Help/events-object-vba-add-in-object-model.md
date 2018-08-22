@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Supplies [properties](../../Glossary/vbe-glossary.md) that enable[add-ins](../../Glossary/vbe-glossary.md) to connect to all events in Visual Basic for Applications.
+Supplies [properties](../../Glossary/vbe-glossary.md#propertie) that enable[add-ins](../../Glossary/vbe-glossary.md#add-in) to connect to all events in Visual Basic for Applications.
 
 ## Remarks
 
-The  **Events** object provides properties that return[event source objects](../../Glossary/vbe-glossary.md). Use the properties to return event source objects that notify you of changes in the Visual Basic for Applications environment.
+The  **Events** object provides properties that return[event source objects](../../Glossary/vbe-glossary.md#event-source-object). Use the properties to return event source objects that notify you of changes in the Visual Basic for Applications environment.
 The properties of the  **Events** object return objects of the same type as the property name. For example, the **CommandBarEvents** property returns the **CommandBarEvents** object.
 

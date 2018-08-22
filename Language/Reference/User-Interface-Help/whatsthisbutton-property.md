@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md) value that determines whether the **What's This** button appears on the title bar of a **UserForm** object. Read-only at[run time](../../Glossary/vbe-glossary.md). This property does not apply to the Macintosh.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#Boolean) value that determines whether the **What's This** button appears on the title bar of a **UserForm** object. Read-only at[run time](../../Glossary/vbe-glossary.md#run-time). This property does not apply to the Macintosh.
 
 ## Remarks
 

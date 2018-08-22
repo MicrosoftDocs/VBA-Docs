@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # While...Wend Statement
 
-Executes a series of [statements](../../Glossary/vbe-glossary.md) as long as a given condition is **True**.
+Executes a series of [statements](../../Glossary/vbe-glossary.md#statement) as long as a given condition is **True**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ The  **While...Wend** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _condition_|Required. [Numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md),  _condition_ is treated as **False**.|
+| _condition_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md#Null),  _condition_ is treated as **False**.|
 | _statements_|Optional. One or more statements executed while condition is  **True**.|
 
 ## Remarks

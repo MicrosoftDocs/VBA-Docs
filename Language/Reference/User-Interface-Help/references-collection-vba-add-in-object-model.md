@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Represents the set of references in the [project](../../Glossary/vbe-glossary.md).
+Represents the set of references in the [project](../../Glossary/vbe-glossary.md#project).
 
 ## Remarks
 

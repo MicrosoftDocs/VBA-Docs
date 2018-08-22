@@ -18,16 +18,21 @@ Returns a  **Variant** (**String**) containing a repeating character string of t
 ## Syntax
 
 **String** (**_number_**, **_character_**)
-The  **String** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **String** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_number_**|Required; [Long](../../Glossary/vbe-glossary.md). Length of the returned string. If  **_number_** contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.|
-|**_character_**|Required; [Variant](../../Glossary/vbe-glossary.md). [Character code](../../Glossary/vbe-glossary.md) specifying the character or[string expression](../../Glossary/vbe-glossary.md) whose first character is used to build the return string. If **_character_** contains **Null**, **Null** is returned.|
+|**_number_**|Required; [Long](../../Glossary/vbe-glossary.md#Long). Length of the returned string. If  **_number_** contains[Null](../../Glossary/vbe-glossary.md#Null),  **Null** is returned.|
+|**_character_**|Required; [Variant](../../Glossary/vbe-glossary.md#Variant). [Character code](../../Glossary/vbe-glossary.md#Character-code) specifying the character or[string expression](../../Glossary/vbe-glossary.md#string-expression) whose first character is used to build the return string. If **_character_** contains **Null**, **Null** is returned.|
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If you specify a number for  **_character_** greater than 255, **String** converts the number to a valid character code using the formula:
  **_character_** **Mod** 256
 

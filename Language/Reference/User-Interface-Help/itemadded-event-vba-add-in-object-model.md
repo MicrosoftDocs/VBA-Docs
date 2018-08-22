@@ -18,7 +18,7 @@ Occurs after a reference is added.
 ## Syntax
 
 **Sub**_object_**_ItemAdded(ByVal**_item_**As Reference)**
-The required  _item_[argument](../../Glossary/vbe-glossary.md) specifies the item that was added.
+The required  _item_[argument](../../Glossary/vbe-glossary.md#argument) specifies the item that was added.
 
 ## Remarks
 

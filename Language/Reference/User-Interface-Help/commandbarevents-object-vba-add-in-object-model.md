@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returned by the  **CommandBarEvents** property. The **CommandBarEvents** object triggers an event when a[control](../../Glossary/vbe-glossary.md) on the command bar is clicked.
+Returned by the  **CommandBarEvents** property. The **CommandBarEvents** object triggers an event when a[control](../../Glossary/vbe-glossary.md#control) on the command bar is clicked.
 
 ## Remarks
 

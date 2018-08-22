@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Too many DLL application clients
 
-The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) for Visual Basic can only accommodate access by 50[host applications](../../Glossary/vbe-glossary.md) at a time. This error has the following cause and solution:
+The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-(DLL)) for Visual Basic can only accommodate access by 50[host applications](../../Glossary/vbe-glossary.md#host-application) at a time. This error has the following cause and solution:
 
 
 

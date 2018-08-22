@@ -18,15 +18,15 @@ Returns a  **Variant** (**Long**) specifying the position of the first occurrenc
 ## Syntax
 
 **InStr** ([ _start_, ] _string1_, _string2_ [, _compare_ ])
-The  **InStr** function syntax has these[arguments](../../Glossary/vbe-glossary.md):
+The  **InStr** function syntax has these[arguments](../../Glossary/vbe-glossary.md#argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
-| _string1_|Required. [String expression](../../Glossary/vbe-glossary.md) being searched.|
+| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#Null), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
+| _string1_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) being searched.|
 | _string2_|Required. String expression sought.|
-| _compare_|Optional. Specifies the type of [string comparison](../../Glossary/vbe-glossary.md). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option** **Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
+| _compare_|Optional. Specifies the type of [string comparison](../../Glossary/vbe-glossary.md#string-comparison). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option** **Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
 
  **Settings**
 The  _compare_ argument settings are:

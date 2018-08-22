@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [string expression](../../Glossary/vbe-glossary.md) the fully qualified path to a Help file. Read/write.
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) the fully qualified path to a Help file. Read/write.
 
 ## Remarks
 

@@ -17,7 +17,7 @@ Deletes files from a disk.
 
 **Kill**_pathname_
 
-The required  _pathname_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that specifies one or more file names to be deleted. The _pathname_ may include the directory or folder, and the drive.
+The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies one or more file names to be deleted. The _pathname_ may include the directory or folder, and the drive.
 
 ## Remarks
 

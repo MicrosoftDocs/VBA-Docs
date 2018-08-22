@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Moves the [focus](../../Glossary/vbe-glossary.md) to this instance of an object.
+Moves the [focus](../../Glossary/vbe-glossary.md#focus) to this instance of an object.
 
 ## Syntax
 

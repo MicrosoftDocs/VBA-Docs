@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an integer value indicating whether a specific [format](../../../language/Glossary/glossary-vba.md) is on the **DataObject**.
+Returns an integer value indicating whether a specific [format](../../../language/Glossary/glossary-vba.md#format) is on the **DataObject**.
 
 ## Syntax
 

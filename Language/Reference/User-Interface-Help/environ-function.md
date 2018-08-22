@@ -18,16 +18,21 @@ Returns the  **String** associated with an operating system environment variable
 ## Syntax
 
 **Environ(** { **_envstring_** |**_number_** } **)**
-The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md) containing the name of an environment variable.|
-|**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](../../Glossary/vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
+|**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md#String-expression) containing the name of an environment variable.|
+|**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](../../Glossary/vbe-glossary.md#argument) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If  **_envstring_** can't be found in the environment-string table, a zero-length string ("") is returned. Otherwise, **Environ** returns the text assigned to the specified **_envstring_**; that is, the text following the equal sign (=) in the environment-string table for that environment variable.
 If you specify  **_number_**, the string occupying that numeric position in the environment-string table is returned. In this case, **Environ** returns all of the text, including **_envstring_**. If there is no environment string in the specified position, **Environ** returns a zero-length string.
 

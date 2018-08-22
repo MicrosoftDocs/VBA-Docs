@@ -18,7 +18,7 @@ Used with the  **Print #** statement or the **Print** method to position output.
 ## Syntax
 
 **Spc(**_n_**)**
-The required  _n_[argument](../../Glossary/vbe-glossary.md) is the number of spaces to insert before displaying or printing the next[expression](../../Glossary/vbe-glossary.md) in a list.
+The required  _n_[argument](../../Glossary/vbe-glossary.md#argument) is the number of spaces to insert before displaying or printing the next[expression](../../Glossary/vbe-glossary.md#expression) in a list.
 
 ## Remarks
 

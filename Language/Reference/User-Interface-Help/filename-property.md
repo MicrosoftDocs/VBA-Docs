@@ -20,7 +20,7 @@ Returns the full path name of the project file or host document.
 ## Syntax
 
 _object_**.Filename**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

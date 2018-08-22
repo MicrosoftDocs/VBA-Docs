@@ -34,7 +34,7 @@ The settings for  _fmMatchEntry_ are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| _fmMatchEntryFirstLetter_|0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter [cycles](../../../language/Glossary/glossary-vba.md) through all entries beginning with that letter.|
+| _fmMatchEntryFirstLetter_|0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter [cycles](../../../language/Glossary/glossary-vba.md#cycle) through all entries beginning with that letter.|
 | _FmMatchEntryComplete_|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
 | _FmMatchEntryNone_|2|No matching.|
 

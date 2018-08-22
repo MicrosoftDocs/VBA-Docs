@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Retrieves a text string from the  **DataObject** using the specified[format](../../../language/Glossary/glossary-vba.md).
+Retrieves a text string from the  **DataObject** using the specified[format](../../../language/Glossary/glossary-vba.md#format).
 
 ## Syntax
 

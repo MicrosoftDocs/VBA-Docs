@@ -30,10 +30,10 @@ The  **Error** event syntax has these parts:
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
 | _Number_|Required. Specifies a unique value that the control uses to identify the error.|
 | _Description_|Required. A textual description of the error.|
-| _SCode_|Required. Specifies the [OLE status code](../../../language/Glossary/glossary-vba.md) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|
+| _SCode_|Required. Specifies the [OLE status code](../../../language/Glossary/glossary-vba.md#OLE-status-code) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|
 | _Source_|Required. The string that identifies the control which initiated the event.|
 | _HelpFile_|Required. Specifies a fully qualified path name for the Help file that describes the error.|
-| _HelpContext_|Required. Specifies the [context ID](../../../language/Glossary/glossary-vba.md) of the Help file topic that contains a description of the error.|
+| _HelpContext_|Required. Specifies the [context ID](../../../language/Glossary/glossary-vba.md#context-ID) of the Help file topic that contains a description of the error.|
 | _CancelDisplay_|Required. Specifies whether to display the error string in a message box.|
 
 ## Remarks
