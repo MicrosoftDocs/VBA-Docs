@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Breakpoint not allowed on this line
 
-[Breakpoints](../../Glossary/vbe-glossary.md#Breakpoint) can only be placed on certain parts of statements. This error has the following causes:
+[Breakpoints](../../Glossary/vbe-glossary.md#breakpoint) can only be placed on certain parts of statements. This error has the following causes:
 
 - You tried to place a breakpoint on a line that can't accept a breakpoint, for example:
     

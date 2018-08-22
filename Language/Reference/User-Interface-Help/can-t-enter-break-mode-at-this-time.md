@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Can't enter break mode at this time
 
-[Break mode](../../Glossary/vbe-glossary.md#Break-mode) is the state in which a program is still running, but its activity is suspended. This error has the following cause and solution:
+[Break mode](../../Glossary/vbe-glossary.md#break-mode) is the state in which a program is still running, but its activity is suspended. This error has the following cause and solution:
 
 
 

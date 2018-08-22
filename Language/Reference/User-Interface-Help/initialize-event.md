@@ -24,7 +24,7 @@ The  _object_ placeholder represents an[object expression](../../Glossary/vbe-gl
 
 ## Remarks
 
-The Initialize event is typically used to prepare an application or  **UserForm** for use.[Variables](../../Glossary/vbe-glossary.md#Variable) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
+The Initialize event is typically used to prepare an application or  **UserForm** for use.[Variables](../../Glossary/vbe-glossary.md#variable) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
 
 ## Example
 

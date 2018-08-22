@@ -22,10 +22,10 @@ The  **SaveSetting** statement syntax has these[named arguments](../../Glossary/
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) containing the name of the application or[project](../../Glossary/vbe-glossary.md#project) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or[project](../../Glossary/vbe-glossary.md#project) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is being saved.|
 |**_key_**|Required. String expression containing the name of the key setting being saved.|
-|**_setting_**|Required. [Expression](../../Glossary/vbe-glossary.md#Expression) containing the value that **_key_** is being set to.|
+|**_setting_**|Required. [Expression](../../Glossary/vbe-glossary.md#expression) containing the value that **_key_** is being set to.|
 
 ## Remarks
 

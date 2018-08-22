@@ -54,7 +54,7 @@ The statement name determines the data type:
 |**DefDec**|[Decimal](../../Glossary/vbe-glossary.md#Decimal) (not currently supported)|
 |**DefDate**|[Date](../../Glossary/vbe-glossary.md#Date)|
 |**DefStr**|[String](../../Glossary/vbe-glossary.md#String)|
-|**DefObj**|[Object](../../Glossary/vbe-glossary.md#Object)|
+|**DefObj**|[Object](../../Glossary/vbe-glossary.md#object)|
 |**DefVar**|[Variant](../../Glossary/vbe-glossary.md#Variant)|
 
 For example, in the following program fragment, is a string variable:

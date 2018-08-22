@@ -23,7 +23,7 @@ The  **DateDiff** function syntax has these[named arguments](../../Glossary/vbe-
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that is the interval of time you use to calculate the difference between **_date1_** and **_date2_**.|
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you use to calculate the difference between **_date1_** and **_date2_**.|
 |**_date1_**, **_date2_**|Required;  **Variant** (**Date**). Two dates you want to use in the calculation.|
 |**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week. If not specified, Sunday is assumed.|
 |**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # User-defined type without members not allowed
 
-[User-defined types](../Glossary/vbe-glossary.md#User-defined-type) must have at least one element. This error has the following cause and solution:
+[User-defined types](../Glossary/vbe-glossary.md#user-defined-type) must have at least one element. This error has the following cause and solution:
 
 
 

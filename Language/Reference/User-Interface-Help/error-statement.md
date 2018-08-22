@@ -29,7 +29,7 @@ If  _errornumber_ is defined, the **Error** statement calls the error handler af
 |:-----|:-----|
 |**Number**|Value specified as [argument](../../Glossary/vbe-glossary.md#argument) to **Error** statement. Can be any valid error number.|
 |**Source**|Name of the current Visual Basic [project](../../Glossary/vbe-glossary.md#project).|
-|**Description**|[String expression](../../Glossary/vbe-glossary.md#String-expression) corresponding to the return value of the **Error** function for the specified **Number**, if this string exists. If the string doesn't exist, **Description** contains a zero-length string ("").|
+|**Description**|[String expression](../../Glossary/vbe-glossary.md#string-expression) corresponding to the return value of the **Error** function for the specified **Number**, if this string exists. If the string doesn't exist, **Description** contains a zero-length string ("").|
 |**HelpFile**|The fully qualified drive, path, and file name of the appropriate Visual Basic Help file.|
 |**HelpContext**|The appropriate Visual Basic Help file context ID for the error corresponding to the  **Number** property.|
 |**LastDLLError**|Zero.|

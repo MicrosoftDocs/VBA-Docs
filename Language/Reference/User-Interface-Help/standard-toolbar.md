@@ -36,10 +36,10 @@ Opens a menu so that you can insert one of the following objects to your active 
 ![Userform](../../../images/tbr_ufrm_ZA01201759.gif) — UserForm
 
 
-![Module](../../../images/tbr_mod_ZA01201714.gif) —[Module](../../Glossary/vbe-glossary.md#Module)
+![Module](../../../images/tbr_mod_ZA01201714.gif) —[Module](../../Glossary/vbe-glossary.md#module)
 
 
-![Class module](../../../images/tbr_cmod_ZA01201688.gif) —[Class Module](../../Glossary/vbe-glossary.md#Class-Module)
+![Class module](../../../images/tbr_cmod_ZA01201688.gif) —[Class Module](../../Glossary/vbe-glossary.md#class-module)
 
 
 ![Procedure](../../../images/tbr_proc_ZA01201726.gif) — Procedure

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Named arguments not allowed
 
-[Named arguments](../../Glossary/vbe-glossary.md#Named-argument) aren't permitted in all situations. This error has the following causes and solutions:
+[Named arguments](../../Glossary/vbe-glossary.md#named-argument) aren't permitted in all situations. This error has the following causes and solutions:
 
 
 

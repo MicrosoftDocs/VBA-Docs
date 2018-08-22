@@ -19,7 +19,7 @@ The [identifier](../../Glossary/vbe-glossary.md#identifier) conflicts with anoth
     
   _object.property_
     
-  [Module-level](../../Glossary/vbe-glossary.md#Module-level) identifiers and [project](../../Glossary/vbe-glossary.md#project)-level identifiers (module names and [referenced project](../../Glossary/vbe-glossary.md#referenced-project) names) may be reused in a [procedure](../../Glossary/vbe-glossary.md#procedure), although it makes programs harder to maintain and debug. However, if you want to refer to both items in the same procedure, the item having wider scope must be qualified. For example, if `MyID` is declared at the module level of `MyModule`, and then a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) [variable](../../Glossary/vbe-glossary.md#variable) is declared with the same name in the module, references to the module-level variable must be appropriately qualified:
+  [Module-level](../../Glossary/vbe-glossary.md#module-level) identifiers and [project](../../Glossary/vbe-glossary.md#project)-level identifiers (module names and [referenced project](../../Glossary/vbe-glossary.md#referenced-project) names) may be reused in a [procedure](../../Glossary/vbe-glossary.md#procedure), although it makes programs harder to maintain and debug. However, if you want to refer to both items in the same procedure, the item having wider scope must be qualified. For example, if `MyID` is declared at the module level of `MyModule`, and then a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) [variable](../../Glossary/vbe-glossary.md#variable) is declared with the same name in the module, references to the module-level variable must be appropriately qualified:
     
   ```vb
     Dim MyID As String 

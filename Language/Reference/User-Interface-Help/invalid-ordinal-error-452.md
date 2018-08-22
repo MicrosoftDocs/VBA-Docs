@@ -21,7 +21,7 @@ Your call to a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynam
     
 - A [type library](../../Glossary/vbe-glossary.md#type-library) has an invalid declaration resulting in internal use of an invalid ordinal number.
     
-    [Comment](../../Glossary/vbe-glossary.md#Comment) out code to isolate the procedure call causing the problem. Write a **Declare** statement for the procedure and report the problem to the type library vendor.
+    [Comment](../../Glossary/vbe-glossary.md#comment) out code to isolate the procedure call causing the problem. Write a **Declare** statement for the procedure and report the problem to the type library vendor.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -23,7 +23,7 @@ The  **StrConv** function syntax has these[named arguments](../../Glossary/vbe-g
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) to be converted.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be converted.|
 |**_conversion_**|Required. [Integer](../../Glossary/vbe-glossary.md#Integer). The sum of values specifying the type of conversion to perform.|
 |**_LCID_**|Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)|
 

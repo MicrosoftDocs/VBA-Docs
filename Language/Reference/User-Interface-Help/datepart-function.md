@@ -23,7 +23,7 @@ The  **DatePart** function syntax has these[named arguments](../../Glossary/vbe-
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that is the interval of time you want to return.|
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to return.|
 |**_date_**|Required.  **Variant** (**Date**) value that you want to evaluate.|
 |**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week. If not specified, Sunday is assumed.|
 |**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|

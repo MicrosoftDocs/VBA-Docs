@@ -22,7 +22,7 @@ The  **FileCopy** statement syntax has these[named arguments](../../Glossary/vbe
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_source_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
+|**_source_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
 |**_destination_**|Required. String expression that specifies the target file name. The  **_destination_** may include directory or folder, and drive.|
 
 ## Remarks

@@ -24,7 +24,7 @@ The  **Replace** function syntax has these[named arguments](../../Glossary/vbe-g
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) containing substring to replace.|
+|**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing substring to replace.|
 |**_find_**|Required. Substring being searched for.|
 |**_replace_**|Required. Replacement substring.|
 |**_start_**|Optional. Position within  **_expression_** where substring search is to begin. If omitted, 1 is assumed.|

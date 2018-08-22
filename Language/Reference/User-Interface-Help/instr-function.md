@@ -23,8 +23,8 @@ The  **InStr** function syntax has these[arguments](../../Glossary/vbe-glossary.
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#Null), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
-| _string1_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) being searched.|
+| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#Null), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
+| _string1_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
 | _string2_|Required. String expression sought.|
 | _compare_|Optional. Specifies the type of [string comparison](../../Glossary/vbe-glossary.md#string-comparison). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option** **Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
 

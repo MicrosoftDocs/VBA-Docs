@@ -23,7 +23,7 @@ The required  _identifier_ [argument](../../Glossary/vbe-glossary.md#argument) i
 ## Remarks
 
 **IsObject** is useful only in determining whether a [Variant](../../Glossary/vbe-glossary.md#Variant) is of **VarType** **vbObject**. This could occur if the **Variant** actually references (or once referenced) an object, or if it contains **Nothing.**
- **IsObject** returns **True** if _identifier_ is a variable declared with [Object](../../Glossary/vbe-glossary.md#Object) type or any valid [class](../../Glossary/vbe-glossary.md#class) type, or if _identifier_ is a **Variant** of **VarType** **vbObject**, or a user-defined object; otherwise, it returns **False**. **IsObject** returns **True** even if the variable has been set to **Nothing**.
+ **IsObject** returns **True** if _identifier_ is a variable declared with [Object](../../Glossary/vbe-glossary.md#object) type or any valid [class](../../Glossary/vbe-glossary.md#class) type, or if _identifier_ is a **Variant** of **VarType** **vbObject**, or a user-defined object; otherwise, it returns **False**. **IsObject** returns **True** even if the variable has been set to **Nothing**.
 Use error trapping to be sure that an object reference is valid.
 
 ## Example

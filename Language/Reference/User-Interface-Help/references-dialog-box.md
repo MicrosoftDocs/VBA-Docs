@@ -57,7 +57,7 @@ Displays the  **Add** **Reference** dialog box so that you can search other dire
 
 - [Type Libraries](../../Glossary/vbe-glossary.md#Type-Librarie)(*.olb, *.tlb, *.dll)
     
-- [Executable Files](../../Glossary/vbe-glossary.md#Executable-File) (*.exe, *.dll)
+- [Executable Files](../../Glossary/vbe-glossary.md#executable-file) (*.exe, *.dll)
     
 - ActiveX Controls (*.ocx)
     

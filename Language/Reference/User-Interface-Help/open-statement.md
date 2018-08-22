@@ -22,8 +22,8 @@ The  **Open** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _pathname_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies a file name — may include directory or folder, and drive.|
-| _mode_|Required. [Keyword](../../Glossary/vbe-glossary.md#Keyword) specifying the file mode: **Append**, **Binary**, **Input**, **Output**, or **Random**. If unspecified, the file is opened for **Random** access.|
+| _pathname_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
+| _mode_|Required. [Keyword](../../Glossary/vbe-glossary.md#keyword) specifying the file mode: **Append**, **Binary**, **Input**, **Output**, or **Random**. If unspecified, the file is opened for **Random** access.|
 | _access_|Optional. Keyword specifying the operations permitted on the open file:  **Read**, **Write**, or **Read Write**.|
 | _lock_|Optional. Keyword specifying the operations restricted on the open file by other processes:  **Shared**, **Lock Read**, **Lock Write**, and **Lock Read Write**.|
 | _filenumber_|Required. A valid [file number](../../Glossary/vbe-glossary.md#file-number) in the range 1 to 511, inclusive. Use the **FreeFile** function to obtain the next available file number.|

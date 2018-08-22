@@ -58,7 +58,7 @@ A KeyPress event does not occur under the following conditions:
     
 
 
- **Note**  BACKSPACE is part of the [ANSI character set](../../Glossary/vbe-glossary.md#ANSI-character-set), but DELETE is not. Deleting a character in a control using BACKSPACE causes a KeyPress event; deleting a character using DELETE doesn't.
+ **Note**  BACKSPACE is part of the [ANSI character set](../../Glossary/vbe-glossary.md#ANSI-Character-Set), but DELETE is not. Deleting a character in a control using BACKSPACE causes a KeyPress event; deleting a character using DELETE doesn't.
 
 When a user holds down a key that produces an ANSI keycode, the KeyDown and KeyPress events alternate repeatedly. When the user releases the key, the KeyUp event occurs. The form or control with the focus receives all keystrokes. A form can have the focus only if it has no controls, or if all its visible controls are disabled.
 The default action for the KeyPress event is to process the event code that corresponds to the key that was pressed.  _KeyANSI_ indicates the ANSI character that corresponds to the pressed key or key combination. The KeyPress event interprets the uppercase and lowercase of each character as separate key codes and, therefore, as two separate characters.

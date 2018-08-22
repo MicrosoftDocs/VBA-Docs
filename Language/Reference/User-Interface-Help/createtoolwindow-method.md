@@ -30,5 +30,5 @@ The  **CreateToolWindow** method syntax has these parts:
 | _ProgID_|Required. [String](../../Glossary/vbe-glossary.md#String) representing the progID of the **UserDocument** object.|
 | _Caption_|Required. [String](../../Glossary/vbe-glossary.md#String) containing the window caption.|
 | _GuidPosition_|Required. [String](../../Glossary/vbe-glossary.md#String) containing a unique identifier for the window.|
-| _DocObj_|Required. [Object](../../Glossary/vbe-glossary.md#Object) representing a **UserDocument** object. This object will be set in the call to this function.|
+| _DocObj_|Required. [Object](../../Glossary/vbe-glossary.md#object) representing a **UserDocument** object. This object will be set in the call to this function.|
 

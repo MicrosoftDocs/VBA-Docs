@@ -33,7 +33,7 @@ Dim appXL As Excel.Application
 
 ```
 
-If you haven't set a reference to the Microsoft Excel type library, you must declare the [variable](../Glossary/vbe-glossary.md#variable) as a generic variable of type[Object](../Glossary/vbe-glossary.md#Object). The following code runs more slowly.
+If you haven't set a reference to the Microsoft Excel type library, you must declare the [variable](../Glossary/vbe-glossary.md#variable) as a generic variable of type[Object](../Glossary/vbe-glossary.md#object). The following code runs more slowly.
 
 
 

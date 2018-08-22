@@ -22,7 +22,7 @@ The  **Name** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _oldpathname_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies the existing file name and location — may include directory or folder, and drive.|
+| _oldpathname_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies the existing file name and location — may include directory or folder, and drive.|
 | _newpathname_|Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  _newpathname_ can't already exist.|
 
 ## Remarks

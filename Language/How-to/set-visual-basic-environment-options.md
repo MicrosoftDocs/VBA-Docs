@@ -39,7 +39,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Require Variable Declaration**|Explicit variable declarations are required in [modules](../Glossary/vbe-glossary.md#module).|
 |**Auto Indent**|After tabbing the first line of code, all subsequent lines start at that tab location.|
 |**Tab Width**|The tab width, which can range from 1 - 32 spaces. (Default is 4 spaces.)|
-|**Default to Full Module View**|[Procedures](../Glossary/vbe-glossary.md#Procedure) for new modules are displayed in the **Code** window as a single, scrollable list or one procedure at a time.|
+|**Default to Full Module View**|[Procedures](../Glossary/vbe-glossary.md#procedure) for new modules are displayed in the **Code** window as a single, scrollable list or one procedure at a time.|
 |**Procedure Separator**|Display separator bars at the end of each procedure in the  **Code** window.|
 |**Auto List Members**|At the insertion point, Visual Basic displays information that logically completes a statement.|
 |**Auto Quick Info**|Information about functions and their [arguments](../Glossary/vbe-glossary.md#argument) is displayed as you type.|

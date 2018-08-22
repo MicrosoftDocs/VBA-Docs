@@ -25,7 +25,7 @@ Visual Basic constants are listed in the Visual Basic for Applications type libr
 
 - Symbolic or user-defined constants are declared using the  **Const** statement.
     
-- [Conditional compiler constants](../../Glossary/vbe-glossary.md#Conditional-compiler-constant) are declared using the **#Const** statement.
+- [Conditional compiler constants](../../Glossary/vbe-glossary.md#conditional-compiler-constant) are declared using the **#Const** statement.
     
 
 In earlier versions of Visual Basic, constant names were usually capitalized with underscores. For example:

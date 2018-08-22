@@ -26,7 +26,7 @@ The  **For...Each...Next** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _element_|Required. [Variable](../../Glossary/vbe-glossary.md#Variable) used to iterate through the elements of the collection or array. For collections, _element_ can only be a[Variant](../../Glossary/vbe-glossary.md#Variant) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
+| _element_|Required. [Variable](../../Glossary/vbe-glossary.md#variable) used to iterate through the elements of the collection or array. For collections, _element_ can only be a[Variant](../../Glossary/vbe-glossary.md#Variant) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
 | _group_|Required. Name of an object collection or array (except an array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)).|
 | _statements_|Optional. One or more statements that are executed on each item in  _group_.|
 

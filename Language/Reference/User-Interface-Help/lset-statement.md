@@ -24,7 +24,7 @@ The  **LSet** statement syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _stringvar_|Required. Name of string [variable](../../Glossary/vbe-glossary.md#variable).|
-| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) to be left-aligned within _stringvar._|
+| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be left-aligned within _stringvar._|
 | _varname1_|Required. Variable name of the user-defined type being copied to.|
 | _varname2_|Required. Variable name of the user-defined type being copied from.|
 

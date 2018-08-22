@@ -34,7 +34,7 @@ The string returned by **TypeName** can be any one of the following:</br>
 |**Error**|An error value|
 |[Empty](../../Glossary/vbe-glossary.md#Empty)|Uninitialized|
 |[Null](../../Glossary/vbe-glossary.md#Null)|No valid data|
-|[Object](../../Glossary/vbe-glossary.md#Object)|An object|
+|[Object](../../Glossary/vbe-glossary.md#object)|An object|
 |Unknown|An object whose type is unknown|
 |**Nothing**|Object variable that doesn't refer to an object|
 

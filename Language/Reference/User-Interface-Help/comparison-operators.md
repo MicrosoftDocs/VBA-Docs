@@ -20,7 +20,7 @@ Used to compare [expressions](../../Glossary/vbe-glossary.md#expression).
 _result_**=**_expression1_ _comparisonoperator_ _expression2_
  _result_**=**_object1_**Is**_object2_
  _result_**=**_string_**Like**_pattern_
-[Comparison operators](../../Glossary/vbe-glossary.md#Comparison-operator) have these parts:
+[Comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) have these parts:
 
 
 |**Part**|**Description**|

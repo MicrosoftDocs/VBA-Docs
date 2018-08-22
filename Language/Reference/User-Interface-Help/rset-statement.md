@@ -23,7 +23,7 @@ The  **RSet** statement syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable.|
-| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) to be right-aligned within _stringvar_.|
+| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be right-aligned within _stringvar_.|
 
 ## Remarks
 

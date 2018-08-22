@@ -22,8 +22,8 @@ The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies a file name — may include directory or folder, and drive.|
-|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md#Constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes.|
+|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
+|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md#constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes.|
 
  **Settings**
 The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:

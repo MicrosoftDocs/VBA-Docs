@@ -23,7 +23,7 @@ The  **Print #** statement syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
-| _outputlist_|Optional. [Expression](../../Glossary/vbe-glossary.md#Expression) or list of expressions to print.|
+| _outputlist_|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) or list of expressions to print.|
 
  **Settings**
 The  _outputlist_[argument](../../Glossary/vbe-glossary.md#argument) settings are:
@@ -34,7 +34,7 @@ The  _outputlist_[argument](../../Glossary/vbe-glossary.md#argument) settings ar
 |:-----|:-----|
 |**Spc(**_n_**)**|Used to insert space characters in the output, where  _n_ is the number of space characters to insert.|
 |**Tab(**_n_**)**|Used to position the insertion point to an absolute column number, where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next[print zone](../../Glossary/vbe-glossary.md#print-zone).|
-| _expression_|[Numeric expressions](../../Glossary/vbe-glossary.md#Numeric-expression) or[string expressions](../../Glossary/vbe-glossary.md#string-expression) to print.|
+| _expression_|[Numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) or[string expressions](../../Glossary/vbe-glossary.md#string-expression) to print.|
 | _charpos_|Specifies the insertion point for the next character. Use a semicolon to position the insertion point immediately after the last character displayed. Use  **Tab(**_n_**)** to position the insertion point to an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
 
 ## Remarks

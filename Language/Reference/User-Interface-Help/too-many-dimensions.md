@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Too many dimensions
 
-[Arrays](../../Glossary/vbe-glossary.md#Array) can have no more than 60 dimensions. This error has the following causes and solutions:
+[Arrays](../../Glossary/vbe-glossary.md#array) can have no more than 60 dimensions. This error has the following causes and solutions:
 
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Too many module-level variables
 
-[Module-level](../../Glossary/vbe-glossary.md#Module-level)[variables](../../Glossary/vbe-glossary.md#variable) are those declared in the Declarations section of a[module](../../Glossary/vbe-glossary.md#module), before the module's [procedures](../../Glossary/vbe-glossary.md#procedure). This error has the following cause and solution:
+[Module-level](../../Glossary/vbe-glossary.md#module-level)[variables](../../Glossary/vbe-glossary.md#variable) are those declared in the Declarations section of a[module](../../Glossary/vbe-glossary.md#module), before the module's [procedures](../../Glossary/vbe-glossary.md#procedure). This error has the following cause and solution:
 
 
 

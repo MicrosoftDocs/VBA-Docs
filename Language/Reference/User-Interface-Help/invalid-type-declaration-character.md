@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid type-declaration character
 
-[Type-declaration characters](../../Glossary/vbe-glossary.md#Type-declaration-character) are valid, but don't exist for all[data types](../../Glossary/vbe-glossary.md#data-type); they aren't permitted in some situations. This error has the following causes and solutions:
+[Type-declaration characters](../../Glossary/vbe-glossary.md#type-declaration-character) are valid, but don't exist for all[data types](../../Glossary/vbe-glossary.md#data-type); they aren't permitted in some situations. This error has the following causes and solutions:
 
 
 

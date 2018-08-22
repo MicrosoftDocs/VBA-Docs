@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # User-defined type may not be passed ByVal
 
-[User-defined types](../Glossary/vbe-glossary.md#User-defined-type) can only be passed[by reference](../Glossary/vbe-glossary.md#by-reference) (the default), not[by value](../Glossary/vbe-glossary.md#by-value). The error may not be reported until the call is made. This error has the following cause and solution:
+[User-defined types](../Glossary/vbe-glossary.md#user-defined-type) can only be passed[by reference](../Glossary/vbe-glossary.md#by-reference) (the default), not[by value](../Glossary/vbe-glossary.md#by-value). The error may not be reported until the call is made. This error has the following cause and solution:
 
 
 

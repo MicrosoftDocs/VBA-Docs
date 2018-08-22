@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Array argument must be ByRef
 
-[Arrays](../../Glossary/vbe-glossary.md#Array) declared with **Dim**, **ReDim**, or **Static** can't be passed **ByVal**. This error has the following cause and solution:
+[Arrays](../../Glossary/vbe-glossary.md#array) declared with **Dim**, **ReDim**, or **Static** can't be passed **ByVal**. This error has the following cause and solution:
 
 
 

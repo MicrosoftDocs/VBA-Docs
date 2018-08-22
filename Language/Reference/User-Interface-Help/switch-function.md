@@ -23,7 +23,7 @@ The  **Switch** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _expr_|Required. [Variant expression](../../Glossary/vbe-glossary.md#Variant-expression) you want to evaluate.|
+| _expr_|Required. [Variant expression](../../Glossary/vbe-glossary.md#variant-expression) you want to evaluate.|
 | _value_|Required. Value or expression to be returned if the corresponding expression is  **True**.|
 
 ## Remarks

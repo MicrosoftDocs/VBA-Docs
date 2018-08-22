@@ -24,9 +24,9 @@ The  **InstrRev** function syntax has these[named arguments](../../Glossary/vbe-
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) being searched.|
+|**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
 |**_stringmatch_**|Required. String expression being searched for.|
-|**_start_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#Null), an error occurs.|
+|**_start_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#Null), an error occurs.|
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. If omitted, a binary comparison is performed. See Settings section for values.|
 
  **Settings**

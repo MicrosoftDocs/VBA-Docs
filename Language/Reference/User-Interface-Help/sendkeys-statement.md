@@ -22,7 +22,7 @@ The  **SendKeys** statement syntax has these[named arguments](../../Glossary/vbe
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) specifying the keystrokes to send.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) specifying the keystrokes to send.|
 |**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md#Boolean) value specifying the wait mode. If **False** (default), control is returned to the[procedure](../../Glossary/vbe-glossary.md#procedure) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
 
 ## Remarks

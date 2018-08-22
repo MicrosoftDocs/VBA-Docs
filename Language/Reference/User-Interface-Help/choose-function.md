@@ -23,8 +23,8 @@ The  **Choose** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _index_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) or field that results in a value between 1 and the number of available choices.|
-| _choice_|Required. [Variant expression](../../Glossary/vbe-glossary.md#Variant-expression) containing one of the possible choices.|
+| _index_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or field that results in a value between 1 and the number of available choices.|
+| _choice_|Required. [Variant expression](../../Glossary/vbe-glossary.md#variant-expression) containing one of the possible choices.|
 
 ## Remarks
 

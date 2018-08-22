@@ -19,7 +19,7 @@ Either you have not selected a keyword or you have requested Help on a component
 
 [Locals Windows or Pane](../Glossary/vbe-glossary.md#Locals-Windows-or-Pane)
 
-[Object Browser](../Glossary/vbe-glossary.md#object-browser)
+[Object Browser](../Glossary/vbe-glossary.md#Object-Browser)
 
 [Watch Window or Pane](../Glossary/vbe-glossary.md#Watch-Window-or-Pane)
 

@@ -23,10 +23,10 @@ The  **GetSetting** function syntax has these[named arguments](../../Glossary/vb
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) containing the name of the application or project whose key setting is requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or project whose key setting is requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is found.|
 |**_key_**|Required. String expression containing the name of the key setting to return.|
-|**_default_**|Optional. [Expression](../../Glossary/vbe-glossary.md#Expression) containing the value to return if no value is set in the key setting. If omitted, **_default_** is assumed to be a zero-length string ("").|
+|**_default_**|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) containing the value to return if no value is set in the key setting. If omitted, **_default_** is assumed to be a zero-length string ("").|
 
 ## Remarks
 

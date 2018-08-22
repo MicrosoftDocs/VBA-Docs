@@ -25,7 +25,7 @@ The  **Mid** statement syntax has these parts:
 | _stringvar_|Required. Name of string variable to modify.|
 | _start_|Required;  **Variant** (**Long**). Character position in _stringvar_ where the replacement of text begins.|
 | _length_|Optional;  **Variant** (**Long**). Number of characters to replace. If omitted, all of _string_ is used.|
-| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that replaces part of _stringvar_.|
+| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that replaces part of _stringvar_.|
 
 ## Remarks
 

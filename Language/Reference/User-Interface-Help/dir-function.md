@@ -23,8 +23,8 @@ The  **Dir** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _pathname_|Optional. [String expression](../../Glossary/vbe-glossary.md#String-expression) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
-| _attributes_|Optional. [Constant](../../Glossary/vbe-glossary.md#Constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
+| _pathname_|Optional. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
+| _attributes_|Optional. [Constant](../../Glossary/vbe-glossary.md#constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
 
  **Settings**
 The  _attributes_[argument](../../Glossary/vbe-glossary.md#argument) settings are:

@@ -24,7 +24,7 @@ The  **Set** statement syntax has these parts:
 |:-----|:-----|
 | _objectvar_|Required. Name of the variable or property; follows standard variable naming conventions.|
 |**New**|Optional.  **New** is usually used during declaration to enable implicit object creation. When **New** is used with **Set**, it creates a new instance of the[class](../../Glossary/vbe-glossary.md#class). If  _objectvar_ contained a reference to an object, that reference is released when the new one is assigned. The **New**[keyword](../../Glossary/vbe-glossary.md#keyword) can't be used to create new instances of any intrinsic[data type](../../Glossary/vbe-glossary.md#data-type) and can't be used to create dependent objects.|
-| _objectexpression_|Required. [Expression](../../Glossary/vbe-glossary.md#Expression) consisting of the name of an object, another declared variable of the same[object type](../../Glossary/vbe-glossary.md#object-type), or a function or [method](../../Glossary/vbe-glossary.md#method) that returns an object of the same object type.|
+| _objectexpression_|Required. [Expression](../../Glossary/vbe-glossary.md#expression) consisting of the name of an object, another declared variable of the same[object type](../../Glossary/vbe-glossary.md#object-type), or a function or [method](../../Glossary/vbe-glossary.md#method) that returns an object of the same object type.|
 |**Nothing**|Optional. Discontinues association of  _objectvar_ with any specific object. Assigning **Nothing** to _objectvar_ releases all the system and memory resources associated with the previously referenced object when no other variable refers to it.|
 
 ## Remarks
