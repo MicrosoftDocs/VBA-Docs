@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the amount of space available to a user on the specified drive or network share.
- **Syntax**
- _object_. **AvailableSpace**
+
+## Syntax
+
+_object_. **AvailableSpace**
 The  _object_ is always a **Drive** object.
- **Remarks**
+
+## Remarks
+
 The value returned by the  **AvailableSpace** property is typically the same as that returned by the **FreeSpace** property. Differences may occur between the two values for computer systems that support quotas.
 The following code illustrates the use of the  **AvailableSpace** property:
 

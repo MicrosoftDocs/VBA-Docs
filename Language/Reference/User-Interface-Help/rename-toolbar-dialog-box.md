@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 Allows you to rename your custom toolbars.
 
-## Dialog Box Option
+## Dialog Box Options
 
  **Toolbar name**
 

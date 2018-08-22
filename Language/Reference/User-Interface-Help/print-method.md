@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Prints text in the  **Immediate** window.
- **Syntax**
- _object_**.Print** [ _outputlist_ ]
+
+## Syntax
+
+_object_**.Print** [ _outputlist_ ]
 The  **Print** method syntax has the following object qualifier and part:
 
 
@@ -37,7 +39,8 @@ The  _outputlist_[argument](../../Glossary/vbe-glossary.md) has the following sy
 | _expression_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) to print.|
 | _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon (**;**) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
 
- **Remarks**
+## Remarks
+
 Multiple expressions can be separated with either a space or a semicolon.
 All data printed to the  **Immediate** window is properly formatted using the decimal separator for the[locale](../../Glossary/vbe-glossary.md) settings specified for your system. The[keywords](../../Glossary/vbe-glossary.md) are output in the appropriate language for the[host application](../../Glossary/vbe-glossary.md).
 For [Boolean](../../Glossary/vbe-glossary.md) data, either `True` or `False` is printed. The **True** and **False** keywords are translated according to the locale setting for the host application.

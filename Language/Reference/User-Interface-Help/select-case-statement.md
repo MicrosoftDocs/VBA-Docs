@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Executes one of several groups of [statements](../../Glossary/vbe-glossary.md), depending on the value of an [expression](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+## Syntax
 
- **Select Case**_testexpression_
+**Select Case**_testexpression_
  [ **Case**_expressionlist-n_
  [ _statements-n_ ]]
  [ **Case Else**
@@ -32,7 +32,8 @@ The  **Select Case** statement syntax has these parts:
 | _statements-n_|Optional. One or more statements executed if  _testexpression_ matches any part of _expressionlist-n._|
 | _elsestatements_|Optional. One or more statements executed if  _testexpression_ doesn't match any of the **Case** clause.|
 
- **Remarks**
+## Remarks
+
 If  _testexpression_ matches any **Case**_expressionlist_ expression, the _statements_ following that **Case** clause are executed up to the next **Case** clause, or, for the last clause, up to **End Select**. Control then passes to the statement following **End Select**. If _testexpression_ matches an _expressionlist_ expression in more than one **Case** clause, only the statements following the first match are executed.
 The  **Case Else** clause is used to indicate the _elsestatements_ to be executed if no match is found between the _testexpression_ and an _expressionlist_ in any of the other **Case** selections. Although not required, it is a good idea to have a **Case Else** statement in your **Select Case** block to handle unforeseen _testexpression_ values. If no **Case**_expressionlist_ matches _testexpression_ and there is no **Case Else** statement, execution continues at the statement following **End Select**.
 You can use multiple expressions or ranges in each  **Case** clause. For example, the following line is valid:

@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Occurs when the scroll box is repositioned.
- **Syntax**
+
+## Syntax
+
 For ScrollBar **Private Sub**_object_ _**Scroll( )**
 For MultiPage **Private Sub**_object_ _**Scroll(**_index_**As Long**, _ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
 For Frame **Private Sub**_object_ _**Scroll(**_ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
@@ -51,7 +53,8 @@ The settings for  _ActionX_ and _ActionY_ are:
 | _fmScrollActionControlRequest_|9|A control asked its container to scroll. The amount of movement depends on the specific control and container involved.|
 | _fmScrollActionFocusRequest_|10|The user moved to a different control. The amount of movement depends on the placement of the selected control, and generally has the effect of moving the selected control so it is completely visible to the user.|
 
- **Remarks**
+## Remarks
+
 The Scroll events associated with a form,  **Frame**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
 The default action is to calculate the new position of the scroll box and then scroll to that position.
 You can initiate a Scroll event by issuing a  **Scroll** method for a form, **Frame**, or **Page**. Users can generate Scroll events by moving the scroll box.

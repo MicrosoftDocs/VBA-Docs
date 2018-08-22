@@ -13,11 +13,12 @@ ms.date: 06/08/2017
 
 Used at [module level](../../Glossary/vbe-glossary.md) to declare the default comparison method to use when string data is compared.
 
- **Syntax**
+## Syntax
 
- **Option Compare** { **Binary** |**Text** |**Database** }
+**Option Compare** { **Binary** |**Text** |**Database** }
 
- **Remarks**
+## Remarks
+
 If used, the  **Option** **Compare** statement must appear in a[module](../../Glossary/vbe-glossary.md) before any[procedures](../../Glossary/vbe-glossary.md).
 The  **Option Compare** statement specifies the[string comparison](../../Glossary/vbe-glossary.md) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
  **Option Compare Binary** results in string comparisons based on a[sort order](../../Glossary/vbe-glossary.md) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:

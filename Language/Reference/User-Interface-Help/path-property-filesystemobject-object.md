@@ -15,10 +15,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the path for a specified file, folder, or drive.
- **Syntax**
- _object_. **Path**
+
+## Syntax
+
+_object_. **Path**
 The  _object_ is always a **File**, **Folder**, or **Drive** object.
- **Remarks**
+
+## Remarks
+
 For drive letters, the root drive is not included. For example, the path for the C drive is C:, not C:\.
 The following code illustrates the use of the  **Path** property with a **File** object:
 

@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns or sets a [String](../../Glossary/vbe-glossary.md) containing the name used in code to identify an object. For the **VBProject** object and the **VBComponent** object, read/write; for the **Property** object and the **Reference** object, read-only.
- **Remarks**
+
+## Remarks
+
 The following table describes how the  **Name** property setting applies to different objects.
 
 

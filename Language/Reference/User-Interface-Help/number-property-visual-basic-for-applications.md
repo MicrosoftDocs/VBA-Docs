@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns or sets a numeric value specifying an error.  **Number** is the **Err** object's default property. Read/write.
- **Remarks**
+
+## Remarks
+
 When returning a user-defined error from an object, set  **Err.Number** by adding the number you selected as an error code to the **vbObjectError**[constant](../../Glossary/vbe-glossary.md). For example, you use the following code to return the number 1051 as an error code:
 
 

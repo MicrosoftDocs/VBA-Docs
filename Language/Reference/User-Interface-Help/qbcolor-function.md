@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a [Long](../../Glossary/vbe-glossary.md) representing the RGB color code corresponding to the specified color number.
- **Syntax**
- **QBColor(**_color_**)**
+
+## Syntax
+
+**QBColor(**_color_**)**
 The required  _color_[argument](../../Glossary/vbe-glossary.md) is a whole number in the range 0-15.
  **Settings**
 The  _color_ argument has these settings:
@@ -32,7 +34,8 @@ The  _color_ argument has these settings:
 |6|Yellow|14|Light Yellow|
 |7|White|15|Bright White|
 
- **Remarks**
+## Remarks
+
 The  _color_ argument represents color values used by earlier versions of Basic (such as Microsoft Visual Basic for MS-DOS and the Basic Compiler). Starting with the least-significant byte, the returned value specifies the red, green, and blue values used to set the appropriate color in the RGB system used by Visual Basic for Applications.
 
 ## Example

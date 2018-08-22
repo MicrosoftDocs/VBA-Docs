@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Sets the  **TabIndex** property of each control on a form, using a default top-to-bottom, left-to-right[tab order](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_. **SetDefaultTabOrder**
+
+## Syntax
+
+_object_. **SetDefaultTabOrder**
 The  **SetDefaultTabOrder** method syntax has these parts:
 
 
@@ -25,6 +27,7 @@ The  **SetDefaultTabOrder** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
- **Remarks**
+## Remarks
+
 Microsoft Forms sets the tab order beginning with controls in the upper left corner of the form and moving to the right. It places controls closest to the left edge of the form earlier in the tab order. If more than one control is the same distance from the left edge of the form, tab order values are assigned from top to bottom.
 

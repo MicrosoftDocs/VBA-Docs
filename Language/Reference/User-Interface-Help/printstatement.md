@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Writes display-formatted data to a sequential file.
 
- **Syntax**
+## Syntax
 
- **Print** **#**_filenumber_, [ _outputlist_ ]
+**Print** **#**_filenumber_, [ _outputlist_ ]
 
 The  **Print #** statement syntax has these parts:
 
@@ -37,7 +37,8 @@ The  _outputlist_[argument](../../Glossary/vbe-glossary.md) settings are:
 | _expression_|[Numeric expressions](../../Glossary/vbe-glossary.md) or[string expressions](../../Glossary/vbe-glossary.md) to print.|
 | _charpos_|Specifies the insertion point for the next character. Use a semicolon to position the insertion point immediately after the last character displayed. Use  **Tab(**_n_**)** to position the insertion point to an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
 
- **Remarks**
+## Remarks
+
 Data written with  **Print #** is usually read from a file with **Line Input #** or **Input**.
 If you omit  _outputlist_ and include only a list separator after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with either a space or a semicolon. A space has the same effect as a semicolon.
 For [Boolean](../../Glossary/vbe-glossary.md) data, either `True` or or `False` is printed. The **True** and **False** keywords are not translated, regardless of the[locale](../../Glossary/vbe-glossary.md).

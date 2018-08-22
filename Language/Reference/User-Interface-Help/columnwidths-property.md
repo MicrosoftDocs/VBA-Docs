@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies the width of each column in a multicolumn combo box or list box.
- **Syntax**
- _object_. **ColumnWidths** [= _String_ ]
+
+## Syntax
+
+_object_. **ColumnWidths** [= _String_ ]
 The  **ColumnWidths** property syntax has these parts:
 
 
@@ -43,6 +45,7 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
 
- **Remarks**
+## Remarks
+
 In a combo box, the system displays the column designated by the  **TextColumn** property in the text box portion of the control.
 

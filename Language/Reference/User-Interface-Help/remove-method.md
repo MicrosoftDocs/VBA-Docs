@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Removes a member from a [collection](../../Glossary/vbe-glossary.md); or, removes a control from a  **Frame**, **Page**, or form.
- **Syntax**
- _object_. **Remove(**_collectionindex_**)**
+
+## Syntax
+
+_object_. **Remove(**_collectionindex_**)**
 The  **Remove** method syntax has these parts:
 
 
@@ -26,6 +28,7 @@ The  **Remove** method syntax has these parts:
 | _object_|Required. A valid object.|
 | _collectionindex_|Required. A member's position, or index, within a collection. Numeric as well as string values are acceptable. If the value is a number, the minimum value is zero, and the maximum value is one less than the number of members in the collection. If the value is a string, it must correspond to a valid member name.|
 
- **Remarks**
+## Remarks
+
 This method deletes any control that was added at [run time](../../Glossary/vbe-glossary.md). However, attempting to delete a control that was added at [design time](../../Glossary/vbe-glossary.md) will result in an error.
 

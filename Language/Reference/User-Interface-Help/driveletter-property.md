@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the drive letter of a physical local drive or a network share. Read-only.
- **Syntax**
- _object_. **DriveLetter**
+
+## Syntax
+
+_object_. **DriveLetter**
 The  _object_ is always a **Drive** object.
- **Remarks**
+
+## Remarks
+
 The  **DriveLetter** property returns a zero-length string ("") if the specified drive is not associated with a drive letter, for example, a network share that has not been mapped to a drive letter.
 The following code illustrates the use of the  **DriveLetter** property:
 

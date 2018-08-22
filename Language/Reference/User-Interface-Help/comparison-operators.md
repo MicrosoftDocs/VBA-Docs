@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to compare [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ _comparisonoperator_ _expression2_
+
+## Syntax
+
+_result_**=**_expression1_ _comparisonoperator_ _expression2_
  _result_**=**_object1_**Is**_object2_
  _result_**=**_string_**Like**_pattern_
 [Comparison operators](../../Glossary/vbe-glossary.md) have these parts:
@@ -30,7 +32,8 @@ Used to compare [expressions](../../Glossary/vbe-glossary.md).
 | _string_|Required; any [string expression](../../Glossary/vbe-glossary.md).|
 | _pattern_|Required; any string expression or range of characters.|
 
- **Remarks**
+## Remarks
+
 The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or[Null](../../Glossary/vbe-glossary.md):
 
 

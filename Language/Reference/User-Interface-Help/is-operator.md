@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to compare two object reference [variables](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_object1_**Is**_object2_
+
+## Syntax
+
+_result_**=**_object1_**Is**_object2_
 The  **Is** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **Is** operator syntax has these parts:
 | _object1_|Required; any object name.|
 | _object2_|Required; any object name.|
 
- **Remarks**
+## Remarks
+
 If  _object1_ and _object2_ both refer to the same object, _result_ is **True**; if they do not, _result_ is **False**. Two variables can be made to refer to the same object in several ways.
 In the following example, A has been set to refer to the same object as B:
 

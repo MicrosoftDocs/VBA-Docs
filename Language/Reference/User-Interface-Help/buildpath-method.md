@@ -17,8 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Appends a name to an existing path.
- **Syntax**
- _object_. **BuildPath(**_path_, _name_**)**
+
+## Syntax
+
+_object_. **BuildPath(**_path_, _name_**)**
 The  **BuildPath** method syntax has these parts:
 
 
@@ -28,6 +30,7 @@ The  **BuildPath** method syntax has these parts:
 | _path_|Required. Existing path to which  _name_ is appended. Path can be absolute or relative and need not specify an existing folder.|
 | _name_|Required. Name being appended to the existing  _path_.|
 
- **Remarks**
+## Remarks
+
 The  **BuildPath** method inserts an additional path separator between the existing path and the name, only if necessary.
 

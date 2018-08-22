@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 The root object that contains all other [objects](../../Glossary/vbe-glossary.md) and[collections](../../Glossary/vbe-glossary.md) represented in Visual Basic for Applications.
- **Remarks**
+
+## Remarks
+
 You can use the following collections to access the objects contained in the  **VBE** object:
 
 

@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used to sum two numbers.
- **Syntax**
- _result_ **=** _expression1 + expression2_.
+
+## Syntax
+
+_result_ **=** _expression1 + expression2_.
 The  **+** operator syntax has these parts:
 
 
@@ -25,7 +27,8 @@ The  **+** operator syntax has these parts:
 | _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md).|
 | _expression2_|Required; any expression.|
 
- **Remarks**
+## Remarks
+
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
 If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md), the following rules apply:
 

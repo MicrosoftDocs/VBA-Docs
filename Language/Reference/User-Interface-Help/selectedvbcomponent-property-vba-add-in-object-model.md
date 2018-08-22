@@ -14,6 +14,8 @@ ms.date: 06/08/2017
 
 
 Returns the selected component. Read-only.
- **Remarks**
+
+## Remarks
+
 The  **SelectedVBComponent** property returns the selected component in the[Project window](../../Glossary/vbe-glossary.md). If the selected item in the  **Project** window isn't a component, **SelectedVBComponent** returns **Nothing**.
 

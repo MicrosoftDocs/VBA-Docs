@@ -15,10 +15,14 @@ ms.date: 06/08/2017
 
  **Description**
 For files, returns the size, in bytes, of the specified file. For folders, returns the size, in bytes, of all files and subfolders contained in the folder.
- **Syntax**
- _object_. **Size**
+
+## Syntax
+
+_object_. **Size**
 The  _object_ is always a **File** or **Folder** object.
- **Remarks**
+
+## Remarks
+
 The following code illustrates the use of the  **Size** property with a **Folder** object:
 
 

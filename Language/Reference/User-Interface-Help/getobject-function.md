@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a reference to an object provided by an ActiveX component.
- **Syntax**
- **GetObject(** [ **_pathname_** ] [ **,  _class_** ] **)**
+
+## Syntax
+
+**GetObject(** [ **_pathname_** ] [ **,  _class_** ] **)**
 The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -32,7 +34,8 @@ The  **_class_**[argument](../../Glossary/vbe-glossary.md) uses the syntax _appn
 | _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
 | _objecttype_|Required;  **Variant** (**String**). The type or class of object to create.|
 
- **Remarks**
+## Remarks
+
 Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](../../Glossary/vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
 
 

@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Facilitates sequential access to file.
- **Syntax**
- **TextStream.** { _property_ | _method_ }
+
+## Syntax
+
+**TextStream.** { _property_ | _method_ }
 The  _property_ and _method_ arguments can be any of the properties and methods associated with the **TextStream** object. Note that in actual usage **TextStream** is replaced by a variable placeholder representing the **TextStream** object returned from the **FileSystemObject**.
- **Remarks**
+
+## Remarks
+
 In the following code,  `a` is the **TextStream** object returned by the **CreateTextFile** method on the **FileSystemObject**:
  **WriteLine** and **Close** are two methods of the **TextStream** Object.
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Declares [variables](../../Glossary/vbe-glossary.md) and allocates storage space.
 
- **Syntax**
+## Syntax
 
- **Dim** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
+**Dim** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
 
 The  **Dim** statement syntax has these parts:
 
@@ -28,7 +28,8 @@ The  **Dim** statement syntax has these parts:
 |**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic[data type](../../Glossary/vbe-glossary.md), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
 | _type_|Optional. Data type of the variable; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). Use a separate  **As**_type_ clause for each variable you declare.|
 
- **Remarks**
+## Remarks
+
 Variables declared with  **Dim** at the[module level](../../Glossary/vbe-glossary.md) are available to all procedures within the[module](../../Glossary/vbe-glossary.md). At the [procedure level](../../Glossary/vbe-glossary.md), variables are available only within the procedure.
 Use the  **Dim** statement at module or procedure level to declare the data type of a variable. For example, the following statement declares a variable as an **Integer**.
 

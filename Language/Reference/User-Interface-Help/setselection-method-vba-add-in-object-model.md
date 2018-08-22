@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Sets the selection in the [code pane](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_**.SetSelection(**_startline_, _startcol_, _endline_, _endcol_**)**
+
+## Syntax
+
+_object_**.SetSelection(**_startline_, _startcol_, _endline_, _endcol_**)**
 The  **SetSelection** syntax has these parts:
 
 

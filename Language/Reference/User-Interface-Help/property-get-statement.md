@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares the name, [arguments](../../Glossary/vbe-glossary.md), and code that form the body of a  **Property**[procedure](../../Glossary/vbe-glossary.md), which gets the value of a [property](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+## Syntax
 
 [ **Public** |**Private** |**Friend** ] [ **Static** ] **Property** **Get**_name_ [ **(**_arglist_**)** ] [ **As**_type_ ]
 [ _statements_ ]
@@ -52,7 +52,8 @@ The  _arglist_ argument has the following syntax and parts:
 | _type_|Optional. Data type of the argument passed to the procedure; may be  **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Decimal** (not currently supported), **Date**, **String** (variable length only), **Object**, **Variant**, or a specific[object type](../../Glossary/vbe-glossary.md). If the parameter is not  **Optional**, a user-defined type may also be specified.|
 | _defaultvalue_|Optional. Any [constant](../../Glossary/vbe-glossary.md) or constant expression. Valid for **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
 
- **Remarks**
+## Remarks
+
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Property** procedures are public by default. If **Static** is not used, the value of local variables is not preserved between calls. The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the[type library](../../Glossary/vbe-glossary.md) of its parent class, nor can a **Friend** procedure be late bound.
 All executable code must be in procedures. You can't define a  **Property** **Get** procedure inside another **Property**, **Sub**, or **Function** procedure.
 The  **Exit Property** statement causes an immediate exit from a **Property Get** procedure. Program execution continues with the statement following the statement that called the **Property** **Get** procedure. Any number of **Exit Property** statements can appear anywhere in a **Property** **Get** procedure.

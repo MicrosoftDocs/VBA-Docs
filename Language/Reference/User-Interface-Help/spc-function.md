@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Used with the  **Print #** statement or the **Print** method to position output.
- **Syntax**
- **Spc(**_n_**)**
+
+## Syntax
+
+**Spc(**_n_**)**
 The required  _n_[argument](../../Glossary/vbe-glossary.md) is the number of spaces to insert before displaying or printing the next[expression](../../Glossary/vbe-glossary.md) in a list.
- **Remarks**
+
+## Remarks
+
 If  _n_ is less than the output line width, the next print position immediately follows the number of spaces printed. If _n_ is greater than the output line width, **Spc** calculates the next print position using the formula:
  _currentprintposition +_ ( _n_**Mod**_width_ )
 For example, if the current print position is 24, the output line width is 80, and you specify  **Spc(** 90 **)**, the next print will start at position 34 (current print position + the remainder of 90/80). If the difference between the current print position and the output line width is less than _n_ (or _n_**Mod**_width_ ), the **Spc** function skips to the beginning of the next line and generates spaces equal to _n_ - ( _width_ - _currentprintposition_ ).

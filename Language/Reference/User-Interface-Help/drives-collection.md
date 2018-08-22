@@ -17,7 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Read-only collection of all available drives.
- **Remarks**
+
+## Remarks
+
 Removable-media drives need not have media inserted for them to appear in the  **Drives** collection.
 The following code illustrates how to get the  **Drives** collection and iterate the collection using the **For Each...Next** statement:
 

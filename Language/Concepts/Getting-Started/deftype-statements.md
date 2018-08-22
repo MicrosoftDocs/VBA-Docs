@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Used at [module level](../../Glossary/vbe-glossary.md) to set the default[data type](../../Glossary/vbe-glossary.md) for[variables](../../Glossary/vbe-glossary.md), [arguments](../../Glossary/vbe-glossary.md) passed to[procedures](../../Glossary/vbe-glossary.md), and the return type for  **Function** and **Property** **Get** procedures whose names start with the specified characters.
- **Syntax**
- **DefBool**_letterrange_ [ **,**_letterrange_ ] **. . .**
+
+## Syntax
+
+**DefBool**_letterrange_ [ **,**_letterrange_ ] **. . .**
  **DefByte**_letterrange_ [ **,**_letterrange_ ] **. . .**
  **DefInt**_letterrange_ [ **,**_letterrange_ ] **. . .**
  **DefLng**_letterrange_ [ **,**_letterrange_ ] **. . .**
@@ -32,7 +34,9 @@ Used at [module level](../../Glossary/vbe-glossary.md) to set the default[data t
 The required  _letterrange_ argument has the following syntax:
  _letter1_ [ **-**_letter2_ ]
 The  _letter1_ and _letter2_ arguments specify the name range for which you can set a default data type. Each argument represents the first letter of the variable, argument, **Function** procedure, or **Property Get** procedure name and can be any letter of the alphabet. The case of letters in _letterrange_ isn't significant.
- **Remarks**
+
+## Remarks
+
 The statement name determines the data type:
 
 

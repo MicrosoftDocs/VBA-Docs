@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Used to compare two strings.
 
-**Syntax**
+## Syntax
 
 _result_ **=** _string_ **Like** _pattern_
 
@@ -28,7 +28,7 @@ The  **Like** operator syntax has these parts:
 | _string_|Required; any [string expression](../../Glossary/vbe-glossary.md).|
 | _pattern_|Required; any string expression conforming to the pattern-matching conventions described in Remarks.|
 
-**Remarks**
+## Remarks
 
 If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](../../Glossary/vbe-glossary.md),  _result_ is **Null**.  
 The behavior of the  **Like** operator depends on the **Option Compare** statement. The default[string-comparison](../../Glossary/vbe-glossary.md) method for each[module](../../Glossary/vbe-glossary.md) is **Option Compare** **Binary**.  

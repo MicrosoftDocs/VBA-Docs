@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Sets attribute information for a file.
 
- **Syntax**
+## Syntax
 
- **SetAttr** **_pathname_, _attributes_**
+**SetAttr** **_pathname_, _attributes_**
 
 The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
@@ -40,7 +40,8 @@ The  **_attributes_**[argument](../../Glossary/vbe-glossary.md) settings are:
 
  **Note**  These constants are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
- **Remarks**
+## Remarks
+
 A [run-time error](../../Glossary/vbe-glossary.md) occurs if you try to set the attributes of an open file.
 
 ## Example

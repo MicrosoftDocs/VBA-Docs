@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Used at [module level](../../Glossary/vbe-glossary.md) to define a user-defined[data type](../../Glossary/vbe-glossary.md) containing one or more elements.
 
- **Syntax**
+## Syntax
 
 [ **Private** | **Public** ] **Type** _varname_  
  _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_  
@@ -33,7 +33,7 @@ The  **Type** statement syntax has these parts:
 | _subscripts_|When not explicitly stated in  _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
 | _type_|Required. Data type of the element; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), another user-defined type, or an [object type](../../Glossary/vbe-glossary.md).|
 
-**Remarks**
+## Remarks
 
 The **Type** statement can be used only at module level. Once you have declared a user-defined type using the **Type** statement, you can declare a variable of that type anywhere within the[scope](../../Glossary/vbe-glossary.md) of the declaration. Use **Dim**, **Private**, **Public**, **ReDim**, or **Static** to declare a variable of a user-defined type.
 In [standard modules](../../Glossary/vbe-glossary.md) and[class modules](../../Glossary/vbe-glossary.md), user-defined types are public by default. This visibility can be changed using the  **Private** keyword.

@@ -21,9 +21,9 @@ Occurs in one of two cases:
 - The user clicks a control with the mouse.
     
 - The user definitively selects a value for a control with more than one possible value.
-    
 
- **Syntax**
+## Syntax
+
 For MultiPage, TabStrip **Private Sub**_object_ _**Click(**_index_**As Long)**
 For all other controls **Private Sub**_object_ _**Click( )**
 The  **Click** event syntax has these parts:
@@ -34,7 +34,8 @@ The  **Click** event syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
 
- **Remarks**
+## Remarks
+
 Of the two cases where the Click event occurs, the first case applies to the  **CommandButton**, **Frame**, **Image**, **Label**, **ScrollBar**, and **SpinButton**. The second case applies to the **CheckBox**, **ComboBox**, **ListBox**, **MultiPage**, **TabStrip**, and **ToggleButton**. It also applies to an **OptionButton** when the value changes to **True**.
 The following are examples of actions that initiate the Click event:
 

@@ -14,6 +14,8 @@ ms.date: 06/08/2017
 
 
 Returns a [String](../../Glossary/vbe-glossary.md) containing the title of the active window. Read-only.
- **Remarks**
+
+## Remarks
+
 The title of the active window is the text displayed in the window's title bar.
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Assigns an output line width to a file opened using the  **Open** statement.
 
- **Syntax**
+## Syntax
 
- **Width #**_filenumber_, _width_
+**Width #**_filenumber_, _width_
 
 The  **Width #** statement syntax has these parts:
 

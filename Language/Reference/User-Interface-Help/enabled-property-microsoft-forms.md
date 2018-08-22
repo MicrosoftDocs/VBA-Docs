@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Specifies whether a control can receive the [focus](../../Glossary/vbe-glossary.md) and respond to user-generated events.
- **Syntax**
- _object_. **Enabled** [= _Boolean_ ]
+
+## Syntax
+
+_object_. **Enabled** [= _Boolean_ ]
 The  **Enabled** property syntax has these parts:
 
 
@@ -33,7 +35,8 @@ The settings for  _Boolean_ are:
 |**True**|The control can receive the focus and respond to user-generated events, and is accessible through code (default).|
 |**False**|The user cannot interact with the control by using the mouse, keystrokes, accelerators, or hotkeys. The control is generally still accessible through code.|
 
- **Remarks**
+## Remarks
+
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed. If **Enabled** is **False** for an **Image**, the control does not initiate events but does not appear dimmed.
 The  **Enabled** and **Locked** properties work together to achieve the following effects:
 

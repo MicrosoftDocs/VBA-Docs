@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Fires an event declared at [module level](../../Glossary/vbe-glossary.md) within a[class](../../Glossary/vbe-glossary.md), form, or document.
 
- **Syntax**
+## Syntax
 
- **RaiseEvent**_eventname_ [ **(**_argumentlis_ t **)** ]
+**RaiseEvent**_eventname_ [ **(**_argumentlis_ t **)** ]
 
 The required  _eventname_ is the name of an event declared within the[module](../../Glossary/vbe-glossary.md) and follows Basic variable naming conventions.
 The  **RaiseEvent** statement syntax has these parts:
@@ -26,7 +26,8 @@ The  **RaiseEvent** statement syntax has these parts:
 | _eventname_|Required. Name of the event to fire.|
 | _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md), [arrays](../../Glossary/vbe-glossary.md), or [expressions](../../Glossary/vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](../../Glossary/vbe-glossary.md), the parentheses must be omitted.|
 
- **Remarks**
+## Remarks
+
 If the event has not been declared within the module in which it is raised, an error occurs. The following fragment illustrates an event declaration and a procedure in which the event is raised.
 
 

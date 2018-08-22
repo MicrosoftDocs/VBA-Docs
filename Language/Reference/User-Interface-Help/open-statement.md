@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Enables input/output (I/O) to a file.
 
- **Syntax**
+## Syntax
 
- **Open**_pathname_**For**_mode_ [ **Access**_access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
+**Open**_pathname_**For**_mode_ [ **Access**_access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
 
 The  **Open** statement syntax has these parts:
 
@@ -29,7 +29,8 @@ The  **Open** statement syntax has these parts:
 | _filenumber_|Required. A valid [file number](../../Glossary/vbe-glossary.md) in the range 1 to 511, inclusive. Use the **FreeFile** function to obtain the next available file number.|
 | _reclength_|Optional. Number less than or equal to 32,767 (bytes). For files opened for random access, this value is the record length. For sequential files, this value is the number of characters buffered.|
 
- **Remarks**
+## Remarks
+
 You must open a file before any I/O operation can be performed on it.  **Open** allocates a buffer for I/O to the file and determines the mode of access to use with the buffer.
 If the file specified by  _pathname_ doesn't exist, it is created when a file is opened for **Append**, **Binary**, **Output**, or **Random** modes.
 If the file is already opened by another process and the specified type of access is not allowed, the  **Open** operation fails and an error occurs.

@@ -17,7 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Reads an entire line (up to, but not including, the newline character) from a  **TextStream** file and returns the resulting string.
- **Syntax**
- _object_. **ReadLine**
+
+## Syntax
+
+_object_. **ReadLine**
 The  _object_ argument is always the name of a **TextStream** object.
 

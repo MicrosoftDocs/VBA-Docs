@@ -17,10 +17,14 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a value indicating the type of a specified drive.
- **Syntax**
- _object_. **DriveType**
+
+## Syntax
+
+_object_. **DriveType**
 The  _object_ is always a **Drive** object.
- **Remarks**
+
+## Remarks
+
 The following code illustrates the use of the  **DriveType** property:
 
 

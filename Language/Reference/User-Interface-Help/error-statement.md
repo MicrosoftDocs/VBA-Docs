@@ -13,12 +13,14 @@ ms.date: 06/08/2017
 
 Simulates the occurrence of an error.
 
- **Syntax**
+## Syntax
 
- **Error**_errornumber_
+**Error**_errornumber_
 
 The required  _errornumber_ can be any valid[error number](../../Glossary/vbe-glossary.md).
- **Remarks**
+
+## Remarks
+
 The  **Error** statement is supported for backward compatibility. In new code, especially when creating objects, use the **Err** object's **Raise** method to generate[run-time errors](../../Glossary/vbe-glossary.md).
 If  _errornumber_ is defined, the **Error** statement calls the error handler after the[properties](../../Glossary/vbe-glossary.md) of **Err** object are assigned the following default values:
 

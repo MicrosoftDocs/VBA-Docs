@@ -15,8 +15,10 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a zero-based, one-dimensional [array](../../Glossary/vbe-glossary.md) containing a specified number of substrings.
- **Syntax**
- **Split( _expression_** [ **,** **_delimiter_** [ **,** **_limit_** [ **,** **_compare_** ]]] **)**
+
+## Syntax
+
+**Split( _expression_** [ **,** **_delimiter_** [ **,** **_limit_** [ **,** **_compare_** ]]] **)**
 The  **Split** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 

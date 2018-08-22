@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies when to show the drop-down button for a  **ComboBox** or **TextBox**.
- **Syntax**
- _object_. **ShowDropButtonWhen** [= _fmShowDropButtonWhen_ ]
+
+## Syntax
+
+_object_. **ShowDropButtonWhen** [= _fmShowDropButtonWhen_ ]
 The  **ShowDropButtonWhen** property syntax has these parts:
 
 

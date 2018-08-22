@@ -16,10 +16,14 @@ ms.date: 06/08/2017
 
 
 Hides an object but doesn't unload it.
- **Syntax**
- _object_. **Hide**
+
+## Syntax
+
+_object_. **Hide**
 The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the[focus](../../Glossary/vbe-glossary.md) is assumed to be _object_.
- **Remarks**
+
+## Remarks
+
 When an object is hidden, it's removed from the screen and its  **Visible** property is set to **False**. A hidden object's controls aren't accessible to the user, but they are available programmatically to the running application, to other processes that may be communicating with the application through Automation, and in Windows, to **Timer** control events.
 When a  **UserForm** is hidden, the user can't interact with the application until all code in the event procedure that caused the **UserForm** to be hidden has finished executing.
 If the  **UserForm** isn't loaded when the **Hide** method is invoked, the **Hide** method loads the **UserForm** but doesn't display it.

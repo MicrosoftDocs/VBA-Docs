@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns or sets a [Single](../../Glossary/vbe-glossary.md) specifying the location of the top of the window on the screen in[twips](../../Glossary/vbe-glossary.md). Read/write.
- **Remarks**
+
+## Remarks
+
 The value returned by the  **Top** property depends on whether or not the window is[docked](../../Glossary/vbe-glossary.md), [linked](../../Glossary/vbe-glossary.md), or in docking view.
 
  **Note**  Changing the  **Top** property setting of a linked or docked window has no effect as long as the window remains linked or docked.

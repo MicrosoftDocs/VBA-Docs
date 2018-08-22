@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Adds a component to a [project](../../Glossary/vbe-glossary.md) from a file; returns the newly added component.
- **Syntax**
- _object_**.Import(**_filename_**) As VBComponent**
+
+## Syntax
+
+_object_**.Import(**_filename_**) As VBComponent**
 The  **Import** syntax has these parts:
 
 
@@ -24,6 +26,7 @@ The  **Import** syntax has these parts:
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [String](../../Glossary/vbe-glossary.md) specifying path and file name of the component that you want to import the component from.|
 
- **Remarks**
+## Remarks
+
 You can use the  **Import** method to add a component,[form](../../Glossary/vbe-glossary.md), [module](../../Glossary/vbe-glossary.md), [class](../../Glossary/vbe-glossary.md), and so on, to your project.
 

@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Adds a [member](../../Glossary/vbe-glossary.md) to a **Collection** object.
- **Syntax**
- _object_**.Add  _item_,** **_key_,** **_before_,** **_after_**
+
+## Syntax
+
+_object_**.Add  _item_,** **_key_,** **_before_,** **_after_**
 The  **Add** method syntax has the following object qualifier and[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -27,7 +29,8 @@ The  **Add** method syntax has the following object qualifier and[named argument
 |**_before_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection before the member identified by the  **_before_**[argument](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  **_before_** must be a number from 1 to the value of the collection's **Count** property. If a string expression, **_before_** must correspond to the **_key_** specified when the member being referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
 |**_after_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection after the member identified by the  **_after_** argument. If numeric, **_after_** must be a number from 1 to the value of the collection's **Count** property. If a string, **_after_** must correspond to the **_key_** specified when the member referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
 
- **Remarks**
+## Remarks
+
 Whether the  **_before_** or **_after_** argument is a string expression or numeric expression, it must refer to an existing member of the collection, or an error occurs.
 An error also occurs if a specified  **_key_** duplicates the **_key_** for an existing member of the collection.
 

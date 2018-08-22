@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Presents multiple screens of information as a single set.
- **Remarks**
+
+## Remarks
+
 A  **MultiPage** is useful when you work with a large amount of information that can be sorted into several categories. For example, use a **MultiPage** to display information from an employment application. One page might contain personal information such as name and address; another page might list previous employers; a third page might list references. The **MultiPage** lets you visually combine related information, while keeping the entire record readily accessible.
 New pages are added to the right of the currently selected page rather than adjacent to it.
 

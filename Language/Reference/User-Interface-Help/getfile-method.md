@@ -17,8 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a  **File** object corresponding to the file in a specified path.
- **Syntax**
- _object_. **GetFile(**_filespec_**)**
+
+## Syntax
+
+_object_. **GetFile(**_filespec_**)**
 The  **GetFile** method syntax has these parts:
 
 
@@ -27,6 +29,7 @@ The  **GetFile** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filespec_|Required. The  _filespec_ is the path (absolute or relative) to a specific file.|
 
- **Remarks**
+## Remarks
+
 An error occurs if the specified file does not exist.
 

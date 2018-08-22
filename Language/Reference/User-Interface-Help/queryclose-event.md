@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Occurs before a  **UserForm** closes.
- **Syntax**
- **Private Sub UserForm_QueryClose(**_cancel_**As Integer**, _closemode_**As Integer)**
+
+## Syntax
+
+**Private Sub UserForm_QueryClose(**_cancel_**As Integer**, _closemode_**As Integer)**
 The  **QueryClose** event syntax has these parts:
 
 
@@ -38,7 +40,9 @@ The  _closemode_ argument returns the following values:
 |**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
 
 These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md) in the[Object Browser](../../Glossary/vbe-glossary.md). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
- **Remarks**
+
+## Remarks
+
 This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any  **UserForm**, the application can prompt the user to save the data.
 When an application closes, you can use the  **QueryClose** event procedure to set the **Cancel** property to **True**, stopping the closing process.
 

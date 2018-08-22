@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
  **InsideHeight** returns the height, in[points](../../Glossary/vbe-glossary.md), of the [client region](../../../language/Glossary/glossary-vba.md) inside a form. **InsideWidth** returns the width, in points, of the client region inside a form.
- **Syntax**
- _object_. **InsideHeight**
+
+## Syntax
+
+_object_. **InsideHeight**
  _object_. **InsideWidth**
 The  **InsideHeight** and **InsideWidth** property syntaxes have these parts:
 
@@ -24,6 +26,7 @@ The  **InsideHeight** and **InsideWidth** property syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
- **Remarks**
+## Remarks
+
 The  **InsideHeight** and **InsideWidth** properties are read-only. If the region includes a scroll bar, the returned value does not include the height or width of the scroll bar.
 

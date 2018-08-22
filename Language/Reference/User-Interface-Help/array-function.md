@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns a [Variant](../../Glossary/vbe-glossary.md) containing an[array](../../Glossary/vbe-glossary.md).
- **Syntax**
- **Array(**_arglist_**)**
+
+## Syntax
+
+**Array(**_arglist_**)**
 The required  _arglist_[argument](../../Glossary/vbe-glossary.md) is a comma-delimited list of values that are assigned to the elements of the array contained within the **Variant**. If no arguments are specified, an array of zero length is created.
- **Remarks**
+
+## Remarks
+
 The notation used to refer to an element of an array consists of the [variable](../../Glossary/vbe-glossary.md) name followed by parentheses containing an index number indicating the desired element. In the following example, the first[statement](../../Glossary/vbe-glossary.md) creates a variable named `A` as a **Variant**. The second statement assigns an array to variable `A`. The last statement assigns the value contained in the second array element to another variable.
 
 

@@ -14,7 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns a  **Window** object representing the main window of the Visual Basic[development environment](../../Glossary/vbe-glossary.md). Read-only.
- **Remarks**
+
+## Remarks
+
 You can use the  **Window** object returned by the **MainWindow** property to add or remove[docked windows](../../Glossary/vbe-glossary.md). You can also use the  **Window** object returned by the **MainWindow** property to maximize, minimize, hide, or restore the main window of the Visual Basic development environment.
 
 

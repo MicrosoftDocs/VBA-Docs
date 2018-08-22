@@ -22,7 +22,9 @@ Specify the following settings to use a custom  **DataFactory** handler.
 - Specify the name of the handler to use in the RDS.DataControl object's  **Handler** property, or the **Recordset** object's connection string " **Handler=** " keyword. (You cannot set the handler in the **Connection** object connect string.)
     
 RDS provides a default handler on the server named  **MSDFMAP.Handler**. (The default customization file is named **MSDFMAP.INI**.)
- **Example**
+
+## Example
+
 Assume that the following sections in  **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
 
 

@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Generates a [run-time error](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_**.Raise  _number_,** **_source_, _description_, _helpfile_, _helpcontext_**
+
+## Syntax
+
+_object_**.Raise  _number_,** **_source_, _description_, _helpfile_, _helpcontext_**
 The  **Raise** method has the following object qualifier and[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -30,7 +32,8 @@ The  **Raise** method has the following object qualifier and[named arguments](..
 |**_helpfile_**|Optional. The fully qualified path to the Help file in which help on this error can be found. If unspecified, Visual Basic uses the fully qualified drive, path, and file name of the Visual Basic Help file.|
 |**_helpcontext_**|Optional. The context ID identifying a topic within  **_helpfile_** that provides help for the error. If omitted, the Visual Basic Help file context ID for the error corresponding to the **Number** property is used, if it exists.|
 
- **Remarks**
+## Remarks
+
 All of the [arguments](../../Glossary/vbe-glossary.md) are optional except **_number_**. If you use **Raise** without specifying some arguments, and the property settings of the **Err** object contain values that have not been cleared, those values serve as the values for your error.
  **Raise** is used for generating run-time errors and can be used instead of the **Error** statement. **Raise** is useful for generating errors when writing class modules, because the **Err** object gives richer information than is possible if you generate errors with the **Error** statement. For example, with the **Raise** method, the source that generated the error can be specified in the **Source** property, online Help for the error can be referenced, and so on.
 

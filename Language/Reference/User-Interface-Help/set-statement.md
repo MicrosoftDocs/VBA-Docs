@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Assigns an object reference to a [variable](../../Glossary/vbe-glossary.md) or[property](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+## Syntax
 
- **Set**_objectvar_**=** {[ **New** ] _objectexpression_ |**Nothing** }
+**Set**_objectvar_**=** {[ **New** ] _objectexpression_ |**Nothing** }
 
 The  **Set** statement syntax has these parts:
 
@@ -27,7 +27,8 @@ The  **Set** statement syntax has these parts:
 | _objectexpression_|Required. [Expression](../../Glossary/vbe-glossary.md) consisting of the name of an object, another declared variable of the same[object type](../../Glossary/vbe-glossary.md), or a function or [method](../../Glossary/vbe-glossary.md) that returns an object of the same object type.|
 |**Nothing**|Optional. Discontinues association of  _objectvar_ with any specific object. Assigning **Nothing** to _objectvar_ releases all the system and memory resources associated with the previously referenced object when no other variable refers to it.|
 
- **Remarks**
+## Remarks
+
 To be valid,  _objectvar_ must be an object type consistent with the object being assigned to it.
 The  **Dim**, **Private**, **Public**, **ReDim**, and **Static** statements only declare a variable that refers to an object. No actual object is referred to until you use the **Set** statement to assign a specific object.
 The following example illustrates how  **Dim** is used to declare an[array](../../Glossary/vbe-glossary.md) with the type `Form1`. No instance of  `Form1` actually exists. **Set** then assigns references to new instances of `Form1` to the . No instance of `Form1` actually exists. **Set** then assigns references to new instances of `Form1` to the `myChildForms` variable. Such code might be used to create child forms in an MDI application.

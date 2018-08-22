@@ -17,9 +17,13 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a  **Folder** object representing the root folder of a specified drive. Read-only.
- **Syntax**
- _object_. **RootFolder**
+
+## Syntax
+
+_object_. **RootFolder**
 The  _object_ is always a **Drive** object.
- **Remarks**
+
+## Remarks
+
 All the files and folders contained on the drive can be accessed using the returned  **Folder** object.
 

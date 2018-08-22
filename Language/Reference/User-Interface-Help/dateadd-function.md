@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) containing a date to which a specified time interval has been added.
- **Syntax**
- **DateAdd( _interval, number, date_ )**
+
+## Syntax
+
+**DateAdd( _interval, number, date_ )**
 The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -42,7 +44,8 @@ The  **_interval_**[argument](../../Glossary/vbe-glossary.md) has these settings
 |n|Minute|
 |s|Second|
 
- **Remarks**
+## Remarks
+
 You can use the  **DateAdd** function to add or subtract a specified time interval from a date. For example, you can use **DateAdd** to calculate a date 30 days from today or a time 45 minutes from now.
 To add days to  **_date_**, you can use Day of Year ("y"), Day ("d"), or Weekday ("w").
 

@@ -13,12 +13,14 @@ ms.date: 06/08/2017
 
 Removes an existing directory or folder.
 
- **Syntax**
+## Syntax
 
- **RmDir**_path_
+**RmDir**_path_
 
 The required  _path_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that identifies the directory or folder to be removed. The _path_ may include the drive. If no drive is specified, **RmDir** removes the directory or folder on the current drive.
- **Remarks**
+
+## Remarks
+
 An error occurs if you try to use  **RmDir** on a directory or folder containing files. Use the **Kill** statement to delete all files before attempting to remove a directory or folder.
 
 ## Example

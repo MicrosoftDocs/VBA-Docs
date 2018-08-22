@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Declares a type for an enumeration.
 
- **Syntax**
+## Syntax
 
 [ **Public** |**Private** ] **Enum**_name_
 
@@ -32,7 +32,8 @@ The  **Enum** statement has these parts:
 | _membername_|Required. A valid Visual Basic identifier specifying the name by which a constituent element of the  **Enum** type will be known.|
 | _constantexpression_|Optional. Value of the element (evaluates to a  **Long**). If no _constantexpression_ is specified, the value assigned is either zero (if it is the first _membername_ ), or 1 greater than the value of the immediately preceding _membername_.|
 
- **Remarks**
+## Remarks
+
 Enumeration variables are variables declared with an  **Enum** type. Both variables and parameters can be declared with an **Enum** type. The elements of the **Enum** type are initialized to constant values within the **Enum** statement. The assigned values can't be modified at[run time](../../Glossary/vbe-glossary.md) and can include both positive and negative numbers. For example:
 
 

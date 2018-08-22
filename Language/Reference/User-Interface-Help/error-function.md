@@ -14,10 +14,14 @@ ms.date: 06/08/2017
 
 
 Returns the error message that corresponds to a given [error number](../../Glossary/vbe-glossary.md).
- **Syntax**
- **Error** [ **(**_errornumber_**)** ]
+
+## Syntax
+
+**Error** [ **(**_errornumber_**)** ]
 The optional  _errornumber_[argument](../../Glossary/vbe-glossary.md) can be any valid error number. If _errornumber_ is a valid error number, but is not defined, **Error** returns the string "Application-defined or object-defined error." If _errornumber_ is not valid, an error occurs. If _errornumber_ is omitted, the message corresponding to the most recent[run-time error](../../Glossary/vbe-glossary.md) is returned. If no run-time error has occurred, or _errornumber_ is 0, **Error** returns a zero-length string ("").
- **Remarks**
+
+## Remarks
+
 Examine the [property](../../Glossary/vbe-glossary.md) settings of the **Err** object to identify the most recent run-time error. The return value of the **Error** function corresponds to the **Description** property of the **Err** object.
 
 ## Example

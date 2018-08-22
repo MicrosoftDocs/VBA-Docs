@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Long**) specifying the position of the first occurrence of one string within another.
- **Syntax**
- **InStr** ([ _start_, ] _string1_, _string2_ [, _compare_ ])
+
+## Syntax
+
+**InStr** ([ _start_, ] _string1_, _string2_ [, _compare_ ])
 The  **InStr** function syntax has these[arguments](../../Glossary/vbe-glossary.md):
 
 
@@ -50,7 +52,8 @@ The  _compare_ argument settings are:
 |**_string2_** is found within **_string1_**|Position at which match is found|
 |**_start_** > **_string2_**|0|
 
- **Remarks**
+## Remarks
+
 The  **InStrB** function is used with byte data contained in a string. Instead of returning the character position of the first occurrence of one string within another, **InStrB** returns the byte position.
 
 ## Example

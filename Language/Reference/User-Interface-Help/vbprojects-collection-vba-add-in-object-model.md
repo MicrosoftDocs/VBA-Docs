@@ -14,6 +14,8 @@ ms.date: 06/08/2017
 
 
 Represents all the [projects](../../Glossary/vbe-glossary.md) that are open in the[development environment](../../Glossary/vbe-glossary.md).
- **Remarks**
+
+## Remarks
+
 Use the  **VBProjects** collection to access specific projects in an instance of the development environment. **VBProjects** is a standard collection that can be used in a **For** **Each** block.
 

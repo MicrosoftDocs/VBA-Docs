@@ -16,7 +16,9 @@ ms.date: 06/08/2017
 
 
 Sets or returns the DLL name that will be used when the project is built.
- **Syntax**
- _object_**.BuildFileName**
+
+## Syntax
+
+_object_**.BuildFileName**
 The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
 

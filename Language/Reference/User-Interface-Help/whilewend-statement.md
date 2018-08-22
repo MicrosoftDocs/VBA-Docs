@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Executes a series of [statements](../../Glossary/vbe-glossary.md) as long as a given condition is **True**.
 
- **Syntax**
+## Syntax
 
- **While**_condition_
+**While**_condition_
 [ _statements_ ]
 
  **Wend**
@@ -27,7 +27,8 @@ The  **While...Wend** statement syntax has these parts:
 | _condition_|Required. [Numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md),  _condition_ is treated as **False**.|
 | _statements_|Optional. One or more statements executed while condition is  **True**.|
 
- **Remarks**
+## Remarks
+
 If  _condition_ is **True**, all _statements_ are executed until the **Wend** statement is encountered. Control then returns to the **While** statement and _condition_ is again checked. If _condition_ is still **True**, the process is repeated. If it is not **True**, execution resumes with the statement following the **Wend** statement.
  **While...Wend** loops can be nested to any level. Each **Wend** matches the most recent **While**.
 

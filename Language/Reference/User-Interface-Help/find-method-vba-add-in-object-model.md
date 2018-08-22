@@ -14,8 +14,10 @@ ms.date: 06/08/2017
 
 
 Searches the active [module](../../Glossary/vbe-glossary.md) for a specified string.
- **Syntax**
- _object_**.Find(**_target_, _startline_, _startcol_, _endline_, _endcol_ [, _wholeword_ ] [, _matchcase_ ] [, _patternsearch_ ] **) As Boolean**
+
+## Syntax
+
+_object_**.Find(**_target_, _startline_, _startcol_, _endline_, _endcol_ [, _wholeword_ ] [, _matchcase_ ] [, _patternsearch_ ] **) As Boolean**
 The  **Find** syntax has these parts:
 
 
@@ -31,8 +33,9 @@ The  **Find** syntax has these parts:
 | _matchcase_|Optional. A  **Boolean** value specifying whether to match case. If **True**, the search is case sensitive. **False** is the default.|
 | _patternsearch_|Optional. A  **Boolean** value specifying whether or not the target string is a regular expression pattern. If **True**, the target string is a regular expression pattern. **False** is the default.|
 
- **Remarks**
- **Find** returns **True** if a match is found and **False** if a match isn't found.
+## Remarks
+
+**Find** returns **True** if a match is found and **False** if a match isn't found.
 The  _matchcase_ and _patternsearch_[arguments](../../Glossary/vbe-glossary.md) are mutually exclusive; if both arguments are passed as **True**, an error occurs.
 The content of the  **Find** dialog box isn't affected by the **Find** method.
 The specified range of lines and columns is inclusive, so a search can find the pattern on the specified last line if  _endcol_ is supplied as either -1 or the length of the line.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Transfers control to a  **Sub** procedure, **Function** procedure, or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) [procedure](../../Glossary/vbe-glossary.md).
 
- **Syntax**
+## Syntax
 
 [ **Call** ] _name_ [ _argumentlist_ ]
 

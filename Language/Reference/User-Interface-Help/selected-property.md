@@ -16,8 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns or sets the selection state of items in a  **ListBox**.
- **Syntax**
- _object_. **Selected(**_index_**)** [= _Boolean_ ]
+
+## Syntax
+
+_object_. **Selected(**_index_**)** [= _Boolean_ ]
 The  **Selected** property syntax has these parts:
 
 
@@ -36,7 +38,8 @@ The settings for  _Boolean_ are:
 |**True**|The item is selected.|
 |**False**|The item is not selected.|
 
- **Remarks**
+## Remarks
+
 The  **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
 The default value of this property is based on the current selection state of the  **ListBox**.
 For single-selection list boxes, the  **Value** or **ListIndex** properties are recommended for getting and setting the selection. In this case, **ListIndex** returns the index of the selected item. However, in a multiple selection, **ListIndex** returns the index of the row contained within the[focus](../../Glossary/vbe-glossary.md) rectangle, regardless of whether the row is actually selected.

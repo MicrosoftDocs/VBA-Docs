@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Deletes a section or key setting from an application's entry in the Windows [registry](../../Glossary/vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
 
- **Syntax**
+## Syntax
 
- **DeleteSetting  _appname_,** **_section_** [ **,** **_key_** ]
+**DeleteSetting  _appname_,** **_section_** [ **,** **_key_** ]
 
 The  **DeleteSetting** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
 
@@ -26,7 +26,8 @@ The  **DeleteSetting** statement syntax has these[named arguments](../../Glossar
 |**_section_**|Required. String expression containing the name of the section where the key setting is being deleted. If only  **_appname_** and **_section_** are provided, the specified section is deleted along with all related key settings.|
 |**_key_**|Optional. String expression containing the name of the key setting being deleted.|
 
- **Remarks**
+## Remarks
+
 If all [arguments](../../Glossary/vbe-glossary.md) are provided, the specified setting is deleted. A run-time error occurs if you attempt to use the **DeleteSetting** statement on a non-existent section or key setting.
 
 ## Example
