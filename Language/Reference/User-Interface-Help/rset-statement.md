@@ -27,6 +27,11 @@ The  **RSet** statement syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
 
  **Note**   **RSet** can't be used with[user-defined types](../../Glossary/vbe-glossary.md#user-defined-type).

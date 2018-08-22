@@ -28,5 +28,10 @@ The  **Export** syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 When you use the  **Export** method to save a component as a separate file or files, use a file name that doesn't already exist; otherwise, an error occurs.
 

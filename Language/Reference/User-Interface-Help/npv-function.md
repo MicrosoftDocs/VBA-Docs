@@ -28,6 +28,11 @@ The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md#
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The net present value of an investment is the current value of a future series of payments and receipts.
 The  **NPV** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence.
 The  **NPV** investment begins one period before the date of the first cash flow value and ends with the last cash flow value in the array.

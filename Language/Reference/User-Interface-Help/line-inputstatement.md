@@ -27,6 +27,11 @@ The  **Line Input #** statement syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 Data read with  **Line Input #** is usually written from a file with **Print #**.
 The  **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr(** 13 **)**) or carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
 

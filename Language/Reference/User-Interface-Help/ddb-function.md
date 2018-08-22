@@ -31,6 +31,11 @@ The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md#
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods.
 The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
 The  **DDB** function uses the following formula to calculate depreciation for a given period:

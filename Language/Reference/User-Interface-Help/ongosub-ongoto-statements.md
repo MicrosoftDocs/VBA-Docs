@@ -28,6 +28,11 @@ The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The value of  _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
 
 

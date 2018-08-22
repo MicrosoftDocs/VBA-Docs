@@ -28,6 +28,11 @@ The  **GetAllSettings** function syntax has these[named arguments](../../Glossar
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 **GetAllSettings** returns an uninitialized **Variant** if either **_appname_** or **_section_** does not exist.
 
 ## Example

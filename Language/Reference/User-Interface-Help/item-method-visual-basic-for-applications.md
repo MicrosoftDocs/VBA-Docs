@@ -28,6 +28,11 @@ The  **Item** method syntax has the following object qualifier and part:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If the value provided as  _index_ doesn't match any existing member of the collection, an error occurs.
 The  **Item** method is the default method for a collection. Therefore, the following lines of code are equivalent:
 
