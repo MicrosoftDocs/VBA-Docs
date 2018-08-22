@@ -29,6 +29,11 @@ The  **Mid** statement syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
 
  **Note**  Use the  **MidB** statement with byte data contained in a string. In the **MidB** statement, _start_ specifies the byte position within _stringvar_ where replacement begins and _length_ specifies the numbers of bytes to replace.

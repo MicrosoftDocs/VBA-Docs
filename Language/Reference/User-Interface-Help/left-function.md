@@ -28,6 +28,11 @@ The  **Left** function syntax has these[named arguments](../../Glossary/vbe-glos
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 To determine the number of characters in  **_string_**, use the **Len** function.
 
  **Note**  Use the  **LeftB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.

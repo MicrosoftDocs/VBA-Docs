@@ -29,6 +29,11 @@ The  **SaveSetting** statement syntax has these[named arguments](../../Glossary/
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 An error occurs if the key setting can't be saved for any reason.
 
 ## Example

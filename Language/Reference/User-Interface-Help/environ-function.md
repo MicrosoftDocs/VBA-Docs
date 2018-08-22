@@ -28,6 +28,11 @@ The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-g
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If  **_envstring_** can't be found in the environment-string table, a zero-length string ("") is returned. Otherwise, **Environ** returns the text assigned to the specified **_envstring_**; that is, the text following the equal sign (=) in the environment-string table for that environment variable.
 If you specify  **_number_**, the string occupying that numeric position in the environment-string table is returned. In this case, **Environ** returns all of the text, including **_envstring_**. If there is no environment string in the specified position, **Environ** returns a zero-length string.
 

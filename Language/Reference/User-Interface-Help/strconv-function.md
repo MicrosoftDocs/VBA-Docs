@@ -52,6 +52,13 @@ The following are valid word separators for proper casing: [Null](../../Glossary
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+The following are valid word separators for proper casing: [Null](../../Glossary/vbe-glossary.md) (**Chr$(** 0 **)**), horizontal tab (**Chr$(** 9 **)**), linefeed (**Chr$(** 10 **)**), vertical tab (**Chr$(** 11 **)**), form feed (**Chr$(** 12 **)**), carriage return (**Chr$(** 13 **)**), space (SBCS) (**Chr$(** 32 **)**). The actual value for a space varies by country/region for[DBCS](../../Glossary/vbe-glossary.md).
+
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 When converting from a  **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
 
 ## Example

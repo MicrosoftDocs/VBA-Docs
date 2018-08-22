@@ -27,6 +27,11 @@ The  **Write #** statement syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 Data written with  **Write #** is usually read from a file with **Input #**.
 If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.
 When  **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](../../Glossary/vbe-glossary.md#locale):

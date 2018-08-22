@@ -28,6 +28,11 @@ The  **String** function syntax has these[named arguments](../../Glossary/vbe-gl
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If you specify a number for  **_character_** greater than 255, **String** converts the number to a valid character code using the formula:
  **_character_** **Mod** 256
 

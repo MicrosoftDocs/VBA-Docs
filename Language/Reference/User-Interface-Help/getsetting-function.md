@@ -30,6 +30,11 @@ The  **GetSetting** function syntax has these[named arguments](../../Glossary/vb
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If any of the items named in the  **GetSetting** arguments do not exist, **GetSetting** returns the value of **_default_**.
 
 ## Example

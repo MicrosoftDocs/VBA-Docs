@@ -29,5 +29,10 @@ The  **InsertLines** syntax has these parts:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If the text you insert using the  **InsertLines** method is carriage return-linefeed delimited, it will be inserted as consecutive lines.
 

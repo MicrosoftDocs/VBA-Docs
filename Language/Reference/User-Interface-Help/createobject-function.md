@@ -36,6 +36,11 @@ The  _class_[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax 
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 Every application that supports Automation provides at least one type of object. For example, a word processing application may provide an  **Application** object, a **Document** object, and a **Toolbar** object.
 To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](../../Glossary/vbe-glossary.md#object-variable):
 

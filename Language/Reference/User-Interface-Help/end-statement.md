@@ -39,6 +39,11 @@ The  **End** statement syntax has these forms:
 |**End With**|Required to end a  **With** statement.|
 
 ## Remarks
+<<<<<<< HEAD
+=======
+
+When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 
 When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md#module-level) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md#module). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
 

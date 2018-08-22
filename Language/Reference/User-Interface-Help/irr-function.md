@@ -28,6 +28,11 @@ The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md#
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The internal rate of return is the interest rate received for an investment consisting of payments and receipts that occur at regular intervals.
 The  **IRR** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence. The cash flow for each period doesn't have to be fixed, as it is for an annuity.
  **IRR** is calculated by iteration. Starting with the value of **_guess_**, **IRR** cycles through the calculation until the result is accurate to within 0.00001 percent. If **IRR** can't find a result after 20 tries, it fails.

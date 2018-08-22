@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 # ZOrder Method
 
-
-
 Places the object at the front or back of the [z-order](../../Glossary/vbe-glossary.md#z-order).
 
 ## Syntax

@@ -28,6 +28,11 @@ The  **Remove** method syntax has the following object qualifier and part:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If the value provided as  _index_ doesn't match an existing member of the collection, an error occurs.
 
 ## Example

@@ -27,6 +27,11 @@ The  **AppActivate** statement syntax has these[named arguments](../../Glossary/
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The  **AppActivate** statement changes the focus to the named application or window but does not affect whether it is maximized or minimized. Focus moves from the activated application window when the user takes some action to change the focus or close the window. Use the **Shell** function to start an application and set the window style.
 In determining which application to activate,  **_title_** is compared to the title string of each running application. If there is no exact match, any application whose title string begins with **_title_** is activated. If there is more than one instance of the application named by **_title_**, one instance is arbitrarily activated.
 
