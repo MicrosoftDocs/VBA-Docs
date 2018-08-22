@@ -15,7 +15,7 @@ You can create your own [data types](../Glossary/vbe-glossary.md#data-type) in V
 
 
 
-- You tried to declare a [variable](../Glossary/vbe-glossary.md#variable) or[argument](../Glossary/vbe-glossary.md#argument) with an undefined data type or you specified an unknown[class](../Glossary/vbe-glossary.md#clas) or object.
+- You tried to declare a [variable](../Glossary/vbe-glossary.md#variable) or[argument](../Glossary/vbe-glossary.md#argument) with an undefined data type or you specified an unknown[class](../Glossary/vbe-glossary.md#class) or object.
     
     Use the  **Type** statement in a[module](../Glossary/vbe-glossary.md#module) to define a new data type. If you are trying to create a reference to a class, the class must be visible to the[project](../Glossary/vbe-glossary.md#project). If you are referring to a class in your program, you must have a [class module](../Glossary/vbe-glossary.md#class-module) of the specified name in your project. Check the spelling of the type name or name of the object.
     

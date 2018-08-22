@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # RaiseEvent Statement
 
-Fires an event declared at [module level](../../Glossary/vbe-glossary.md#module-level) within a[class](../../Glossary/vbe-glossary.md#clas), form, or document.
+Fires an event declared at [module level](../../Glossary/vbe-glossary.md#module-level) within a[class](../../Glossary/vbe-glossary.md#class), form, or document.
 
 ## Syntax
 

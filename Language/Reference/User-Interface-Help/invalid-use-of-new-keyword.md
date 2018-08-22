@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid use of New keyword
 
-The **New** keyword can only be applied to a creatable object (an instance of a [class](../../Glossary/vbe-glossary.md#clas) or [Automation object](../../Glossary/vbe-glossary.md#Automation-object)). This error has the following causes and solutions:
+The **New** keyword can only be applied to a creatable object (an instance of a [class](../../Glossary/vbe-glossary.md#class) or [Automation object](../../Glossary/vbe-glossary.md#Automation-object)). This error has the following causes and solutions:
 
 - You tried to instantiate something that can have only one instance. For example, you tried to create a new instance of a [module](../../Glossary/vbe-glossary.md#module) by specifying `Module1` in a statement like the following:
     

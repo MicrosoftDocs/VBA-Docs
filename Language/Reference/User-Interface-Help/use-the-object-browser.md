@@ -26,7 +26,7 @@ You can get help for the  **Object Browser** by searching for **Object Browser**
     
 3. Select the name of the project or library you want to view in the  **Project/Library** list.
     
-4. Use the  **Class** list to select the[class](../../Glossary/vbe-glossary.md#clas); use the  **Member** list to select specific members of your class or project.
+4. Use the  **Class** list to select the[class](../../Glossary/vbe-glossary.md#class); use the  **Member** list to select specific members of your class or project.
     
 5. View information about the class or member you selected in the  **Details** section at the bottom of the window.
     

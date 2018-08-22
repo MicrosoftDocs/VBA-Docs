@@ -39,5 +39,5 @@ The settings for  _fmEnterFieldBehavior_ are:
 
 ## Remarks
 
-The  **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives[focus](../../Glossary/vbe-glossary.md#focu) as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
+The  **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives[focus](../../Glossary/vbe-glossary.md#focus) as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
 

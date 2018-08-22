@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether a control can receive the [focus](../../Glossary/vbe-glossary.md#focu) and respond to user-generated events.
+Specifies whether a control can receive the [focus](../../Glossary/vbe-glossary.md#focus) and respond to user-generated events.
 
 ## Syntax
 

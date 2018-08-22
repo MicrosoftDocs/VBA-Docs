@@ -41,7 +41,7 @@ If you specify a non-integer value for  **Cycle**, the value is rounded up to th
 
 ## Remarks
 
-The [tab order](../../Glossary/vbe-glossary.md#tab-order) identifies the order in which controls receive the[focus](../../Glossary/vbe-glossary.md#focu) as the user tabs through a form or subform. The **Cycle** property determines the action to take when a user tabs from the last control in the tab order.
+The [tab order](../../Glossary/vbe-glossary.md#tab-order) identifies the order in which controls receive the[focus](../../Glossary/vbe-glossary.md#focus) as the user tabs through a form or subform. The **Cycle** property determines the action to take when a user tabs from the last control in the tab order.
 The  **fmCycleAllForms** setting transfers the focus to the the first control of the next **Frame** or **MultiPage** on the form when the user tabs from the last control in the tab order.
 The  **fmCycleCurrentForm** setting transfers the focus to the the first control of the same form, **Frame**, or **MultiPage** when the user tabs from the last control in the tab order.
 

@@ -15,7 +15,7 @@ Specifies an interface or class that will be implemented in the [class module](.
 ## Syntax
 
 **Implements** [ _InterfaceName_ | _Class_ ]
-The required  _InterfaceName_ or _Class_ is the name of an interface or [class](../../Glossary/vbe-glossary.md#clas) in a [type library](../../Glossary/vbe-glossary.md#type-library) whose methods will be implemented by the corresponding methods in the Visual Basic class.
+The required  _InterfaceName_ or _Class_ is the name of an interface or [class](../../Glossary/vbe-glossary.md#class) in a [type library](../../Glossary/vbe-glossary.md#type-library) whose methods will be implemented by the corresponding methods in the Visual Basic class.
 
 ## Remarks
 

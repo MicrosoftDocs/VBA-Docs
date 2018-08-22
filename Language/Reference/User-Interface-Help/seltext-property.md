@@ -30,5 +30,5 @@ The  **SelText** property syntax has these parts:
 
 ## Remarks
 
-If no characters are selected in the edit region of the control, the  **SelText** property returns a zero length string. This property is valid regardless of whether the control has the[focus](../../Glossary/vbe-glossary.md#focu).
+If no characters are selected in the edit region of the control, the  **SelText** property returns a zero length string. This property is valid regardless of whether the control has the[focus](../../Glossary/vbe-glossary.md#focus).
 

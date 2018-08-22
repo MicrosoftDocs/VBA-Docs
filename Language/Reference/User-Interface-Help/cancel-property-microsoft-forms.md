@@ -38,7 +38,7 @@ The settings for  _Boolean_ are:
 ## Remarks
 
 A  **CommandButton** or an object that acts like a command button can be designated as the default command button. For[OLE container controls](../../../language/Glossary/glossary-vba.md#OLE-container-control) (Windows only), the **Cancel** property is provided only for those objects that specifically behave as command buttons.
-Only one  **CommandButton** on a form can be the Cancel button. Setting **Cancel** to **True** for one command button automatically sets it to **False** for all other objects on the form. When a **CommandButton's Cancel** property is set to **True** and the form is the active form, the user can choose the command button by clicking it, pressing ESC, or pressing ENTER when the button has the[focus](../../Glossary/vbe-glossary.md#focu).
+Only one  **CommandButton** on a form can be the Cancel button. Setting **Cancel** to **True** for one command button automatically sets it to **False** for all other objects on the form. When a **CommandButton's Cancel** property is set to **True** and the form is the active form, the user can choose the command button by clicking it, pressing ESC, or pressing ENTER when the button has the[focus](../../Glossary/vbe-glossary.md#focus).
 A typical use of  **Cancel** is to give the user the option of canceling uncommitted changes and returning the form to its previous state.
 You should consider making the Cancel button the default button for forms that support operations that can't be undone (such as delete). To do this, set both  **Cancel** and the **Default** property to **True**.
 

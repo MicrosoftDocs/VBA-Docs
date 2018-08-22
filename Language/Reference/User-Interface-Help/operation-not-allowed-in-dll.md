@@ -15,7 +15,7 @@ Not all Visual Basic statements are allowed within a [dynamic-link library (DLL)
 
 
 
-- You tried to create a DLL from a [class](../../Glossary/vbe-glossary.md#clas) that contains a statement that can't be executed from a DLL.
+- You tried to create a DLL from a [class](../../Glossary/vbe-glossary.md#class) that contains a statement that can't be executed from a DLL.
     
     Check your class and remove any statements that can't be executed within a DLL, for example, the  **End statement**.
     

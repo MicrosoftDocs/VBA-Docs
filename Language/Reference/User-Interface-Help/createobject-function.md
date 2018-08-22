@@ -32,7 +32,7 @@ The  _class_[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax 
 |**Part**|**Description**|
 |:-----|:-----|
 | _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
-| _objecttype_|Required;  **Variant** (**String**). The type or[class](../../Glossary/vbe-glossary.md#clas) of object to create.|
+| _objecttype_|Required;  **Variant** (**String**). The type or[class](../../Glossary/vbe-glossary.md#class) of object to create.|
 
 ## Remarks
 
@@ -80,7 +80,7 @@ Set xlSheet = xlBook.Worksheets(1)
 
 ```
 
-The reference through an early-bound variable can give better performance, but can only contain a reference to the [class](../../Glossary/vbe-glossary.md#clas) specified in the[declaration](../../Glossary/vbe-glossary.md#declaration).
+The reference through an early-bound variable can give better performance, but can only contain a reference to the [class](../../Glossary/vbe-glossary.md#class) specified in the[declaration](../../Glossary/vbe-glossary.md#declaration).
 You can pass an object returned by the  **CreateObject** function to a function expecting an object as an argument. For example, the following code creates and passes a reference to a Excel.Application object:
 
 

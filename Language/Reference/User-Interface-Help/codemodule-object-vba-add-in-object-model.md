@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Represents the code behind a component, such as a [form](../../Glossary/vbe-glossary.md#form), [class](../../Glossary/vbe-glossary.md#clas), or [document](../../Glossary/vbe-glossary.md#document).
+Represents the code behind a component, such as a [form](../../Glossary/vbe-glossary.md#form), [class](../../Glossary/vbe-glossary.md#class), or [document](../../Glossary/vbe-glossary.md#document).
 
 ## Remarks
 

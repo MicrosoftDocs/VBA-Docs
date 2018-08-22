@@ -24,7 +24,7 @@ The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe
 |**Part**|**Description**|
 |:-----|:-----|
 |**_pathname_**|Optional;  **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md#clas) of the object.|
+|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md#class) of the object.|
 
 The  **_class_**[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_**.**_objecttype_ and has these parts:
 

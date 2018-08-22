@@ -26,7 +26,7 @@ If you use the objects in other applications as part of your Visual Basic applic
  **To add a object library reference to your project**
 
 
-- Select the object library reference in the  **Available References** box in the **References** dialog box and click **OK**. Your Visual Basic project now has a reference to the application's object library. If you open the[Object Browser](../Glossary/vbe-glossary.md#Object-Browser) (press F2) and select the application's library, it displays the objects provided by the selected object library, as well as each object's[methods](../Glossary/vbe-glossary.md#method) and[properties](../Glossary/vbe-glossary.md#propertie). In the  **Object Browser**, you can select a[class](../Glossary/vbe-glossary.md#clas) in the **Classes** box and select a method or property in the **Members** box. Use copy and paste to add the syntax to your code.
+- Select the object library reference in the  **Available References** box in the **References** dialog box and click **OK**. Your Visual Basic project now has a reference to the application's object library. If you open the[Object Browser](../Glossary/vbe-glossary.md#Object-Browser) (press F2) and select the application's library, it displays the objects provided by the selected object library, as well as each object's[methods](../Glossary/vbe-glossary.md#method) and[properties](../Glossary/vbe-glossary.md#propertie). In the  **Object Browser**, you can select a[class](../Glossary/vbe-glossary.md#class) in the **Classes** box and select a method or property in the **Members** box. Use copy and paste to add the syntax to your code.
     
 
 

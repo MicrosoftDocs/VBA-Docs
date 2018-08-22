@@ -53,7 +53,7 @@ All the procedures in a module appear in a single, scrollable list that is sorte
 
  **Split Bar**
 
-Dragging this bar down, splits the  **Code** window into two horizontal panes, each of which scrolls separately. You can then view different parts of your code at the same time. The information that appears in the Object box and Procedures/Events box applies to the code in the pane that has the[focus](../../Glossary/vbe-glossary.md#focu). Dragging the bar to the top or the bottom of the window or double-clicking the bar closes a pane.
+Dragging this bar down, splits the  **Code** window into two horizontal panes, each of which scrolls separately. You can then view different parts of your code at the same time. The information that appears in the Object box and Procedures/Events box applies to the code in the pane that has the[focus](../../Glossary/vbe-glossary.md#focus). Dragging the bar to the top or the bottom of the window or double-clicking the bar closes a pane.
 
  **Margin Indicator Bar**
 

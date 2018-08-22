@@ -22,5 +22,5 @@ The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.m
 
 ## Remarks
 
-The  **Show** method makes the specified code pane the pane with the[focus](../../Glossary/vbe-glossary.md#focu) in its window.
+The  **Show** method makes the specified code pane the pane with the[focus](../../Glossary/vbe-glossary.md#focus) in its window.
 

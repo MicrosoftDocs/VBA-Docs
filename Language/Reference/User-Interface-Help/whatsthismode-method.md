@@ -20,7 +20,7 @@ Causes the mouse pointer to change to the  **What's This** pointer and prepares 
 ## Syntax
 
 _object_. **WhatsThisMode**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the[focus](../../Glossary/vbe-glossary.md#focu) is assumed to be _object_.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the[focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
 
 ## Remarks
 

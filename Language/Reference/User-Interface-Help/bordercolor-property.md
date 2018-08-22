@@ -34,5 +34,5 @@ You can use any integer that represents a valid color. You can also specify a co
 ## Remarks
 
 To use the  **BorderColor** property, the **BorderStyle** property must be set to a value other than **fmBorderStyleNone**.
- **BorderStyle** uses **BorderColor** to define the border colors. The **SpecialEffect** property uses[system colors](../../../language/Glossary/glossary-vba.md#system-color) exclusively to define its border colors. For Windows operating systems, system color settings are part of the **Control Panel** and are found in the **Appearance** tab of the **Display** folder. In Windows NT 4.0 or later, system color settings are stored in the **Color** folder of the **Control Panel**.
+ **BorderStyle** uses **BorderColor** to define the border colors. The **SpecialEffect** property uses[system colors](../../../language/Glossary/glossary-vba.md#system-colors) exclusively to define its border colors. For Windows operating systems, system color settings are part of the **Control Panel** and are found in the **Appearance** tab of the **Display** folder. In Windows NT 4.0 or later, system color settings are stored in the **Color** folder of the **Control Panel**.
 

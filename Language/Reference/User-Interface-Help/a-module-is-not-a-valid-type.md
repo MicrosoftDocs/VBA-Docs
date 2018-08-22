@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # A module is not a valid type
 
-A [standard module](../../Glossary/vbe-glossary.md#standard-module) doesn't represent a[class](../../Glossary/vbe-glossary.md#clas) and can't be instantiated in the form of a[variable](../../Glossary/vbe-glossary.md#variable). This error has the following cause and solution:
+A [standard module](../../Glossary/vbe-glossary.md#standard-module) doesn't represent a[class](../../Glossary/vbe-glossary.md#class) and can't be instantiated in the form of a[variable](../../Glossary/vbe-glossary.md#variable). This error has the following cause and solution:
 
 
 

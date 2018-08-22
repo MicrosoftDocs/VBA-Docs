@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Moves the [focus](../../Glossary/vbe-glossary.md#focu) to the specified window.
+Moves the [focus](../../Glossary/vbe-glossary.md#focus) to the specified window.
 
 ## Syntax
 

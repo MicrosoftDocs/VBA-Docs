@@ -25,7 +25,7 @@ The  _object_ placeholder represents an[object expression](../../Glossary/vbe-gl
 
 An object can become active by using the  **Show** method in code.
 The Activate event can occur only when an object is visible. A  **UserForm** loaded with **Load** isn't visible unless you use the **Show** method.
-The Activate and Deactivate events occur only when you move the [focus](../../Glossary/vbe-glossary.md#focu) within an application. Moving the focus to or from an object in another application doesn't trigger either event.
+The Activate and Deactivate events occur only when you move the [focus](../../Glossary/vbe-glossary.md#focus) within an application. Moving the focus to or from an object in another application doesn't trigger either event.
 The Deactivate event doesn't occur when unloading an object.
 
 ## Example

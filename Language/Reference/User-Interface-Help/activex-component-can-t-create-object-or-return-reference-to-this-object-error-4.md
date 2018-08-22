@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ActiveX component can't create object or return reference to this object (Error 429)
 
-Creating objects requires that the object's [class](../../Glossary/vbe-glossary.md#clas) be registered in the system[registry](../../Glossary/vbe-glossary.md#registry) and that any associated[dynamic-link libraries (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-libraries-(DLL)) be available. This error has the following causes and solutions:
+Creating objects requires that the object's [class](../../Glossary/vbe-glossary.md#class) be registered in the system[registry](../../Glossary/vbe-glossary.md#registry) and that any associated[dynamic-link libraries (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-libraries-(DLL)) be available. This error has the following causes and solutions:
 
 
 

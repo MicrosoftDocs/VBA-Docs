@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Friend <keyword>
 
-Modifies the definition of a [procedure](../../Glossary/vbe-glossary.md#procedure) in a form module or[class module](../../Glossary/vbe-glossary.md#class-module) to make the procedure callable from modules that are outside the[class](../../Glossary/vbe-glossary.md#clas), but part of the [project](../../Glossary/vbe-glossary.md#project) within which the class is defined. **Friend** procedures cannot be used in standard modules.
+Modifies the definition of a [procedure](../../Glossary/vbe-glossary.md#procedure) in a form module or[class module](../../Glossary/vbe-glossary.md#class-module) to make the procedure callable from modules that are outside the[class](../../Glossary/vbe-glossary.md#class), but part of the [project](../../Glossary/vbe-glossary.md#project) within which the class is defined. **Friend** procedures cannot be used in standard modules.
 
 ## Syntax
 

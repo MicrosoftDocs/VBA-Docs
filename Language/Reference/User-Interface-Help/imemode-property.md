@@ -46,7 +46,7 @@ The settings for  _fmIMEMode_ are:
 | _fmIMEModeHangulFull_|9|IME on with Full-width Hangul mode.|
 | _fmIMEModeHangul_|10|IME on with Half-width Hangul mode.|
 
-The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](../../Glossary/vbe-glossary.md#focu) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
+The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](../../Glossary/vbe-glossary.md#focus) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
 
 ## Remarks
 

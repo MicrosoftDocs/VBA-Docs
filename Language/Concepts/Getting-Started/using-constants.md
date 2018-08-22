@@ -72,7 +72,7 @@ The syntax for qualifying constants has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _libname_|Optional. The name of the type library that defines the constant. For most custom controls (not available on the Macintosh), this is also the [class](../../Glossary/vbe-glossary.md#clas) name of the control. If you don't remember the class name of the control, position the mouse pointer over the control in the toolbox. The class name is displayed in the **ToolTip**.|
+| _libname_|Optional. The name of the type library that defines the constant. For most custom controls (not available on the Macintosh), this is also the [class](../../Glossary/vbe-glossary.md#class) name of the control. If you don't remember the class name of the control, position the mouse pointer over the control in the toolbox. The class name is displayed in the **ToolTip**.|
 | _modulename_|Optional. The name of the module within the type library that defines the constant. You can find the name of the module by using the  **Object Browser**.|
 | _constname_|The name defined for the constant in the type library.|
 

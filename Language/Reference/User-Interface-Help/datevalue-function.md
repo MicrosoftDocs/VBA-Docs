@@ -22,7 +22,7 @@ The required  _date_[argument](../../Glossary/vbe-glossary.md#argument) is norma
 
 ## Remarks
 
-If  _date_ is a string that includes only numbers separated by valid[date separators](../../Glossary/vbe-glossary.md#date-separator),  **DateValue** recognizes the order for month, day, and year according to the Short Date format you specified for your system. **DateValue** also recognizes unambiguous dates that contain month names, either in long or abbreviated form. For example, in addition to recognizing 12/30/1991 and 12/30/91, **DateValue** also recognizes December 30, 1991 and Dec 30, 1991.
+If  _date_ is a string that includes only numbers separated by valid[date separators](../../Glossary/vbe-glossary.md#date-separators),  **DateValue** recognizes the order for month, day, and year according to the Short Date format you specified for your system. **DateValue** also recognizes unambiguous dates that contain month names, either in long or abbreviated form. For example, in addition to recognizing 12/30/1991 and 12/30/91, **DateValue** also recognizes December 30, 1991 and Dec 30, 1991.
 If the year part of  _date_ is omitted, **DateValue** uses the current year from your computer's system date.
 If the  _date_ argument includes time information, **DateValue** doesn't return it. However, if _date_ includes invalid time information (such as "89:98"), an error occurs.
 
