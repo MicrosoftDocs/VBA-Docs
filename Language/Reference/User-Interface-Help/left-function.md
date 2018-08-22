@@ -18,13 +18,13 @@ Returns a  **Variant** (**String**) containing a specified number of characters 
 ## Syntax
 
 **Left** (**_string_**, **_length_**)
-The  **Left** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Left** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) from which the leftmost characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md), Null is returned.|
-|**_length_**|Required;  **Variant** (**Long**).[Numeric expression](../../Glossary/vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) from which the leftmost characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md#Null), Null is returned.|
+|**_length_**|Required;  **Variant** (**Long**).[Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
 
 ## Remarks
 

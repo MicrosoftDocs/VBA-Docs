@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 An overflow results when you try to make an assignment that exceeds the limitations of the target of the assignment. This error has the following causes and solutions:
 
-- The result of an assignment, calculation, or [data type](../../Glossary/vbe-glossary.md) conversion is too large to be represented within the range of values allowed for that type of [variable](../../Glossary/vbe-glossary.md).
+- The result of an assignment, calculation, or [data type](../../Glossary/vbe-glossary.md#data-type) conversion is too large to be represented within the range of values allowed for that type of [variable](../../Glossary/vbe-glossary.md#variable).
     
   Assign the value to a variable of a type that can hold a larger range of values.
     
-- An assignment to a [property](../../Glossary/vbe-glossary.md) exceeds the maximum value the property can accept.
+- An assignment to a [property](../../Glossary/vbe-glossary.md#property) exceeds the maximum value the property can accept.
     
   Make sure your assignment fits the range for the property to which it is made.
     

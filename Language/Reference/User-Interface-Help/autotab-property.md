@@ -40,6 +40,6 @@ The settings for  _Boolean_ are:
 ## Remarks
 
 The  **MaxLength** property specifies the maximum number of characters allowed in a **TextBox** or the text box portion of a **ComboBox**.
-You can specify the  **AutoTab** property for a **TextBox** or **ComboBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the[focus](../../Glossary/vbe-glossary.md) automatically moves to the next control in the[tab order](../../Glossary/vbe-glossary.md). For example, if a  **TextBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **TextBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
-Support for  **AutoTab** varies from one application to another. Not all[containers](../../Glossary/vbe-glossary.md) support this property.
+You can specify the  **AutoTab** property for a **TextBox** or **ComboBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the[focus](../../Glossary/vbe-glossary.md#focu) automatically moves to the next control in the[tab order](../../Glossary/vbe-glossary.md#tab-order). For example, if a  **TextBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **TextBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
+Support for  **AutoTab** varies from one application to another. Not all[containers](../../Glossary/vbe-glossary.md#container) support this property.
 

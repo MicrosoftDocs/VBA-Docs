@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property Get can't be executed on write-only property (Error 394)
 
-Not all [properties](../../Glossary/vbe-glossary.md) return information. This error has the following cause and solution:
+Not all [properties](../../Glossary/vbe-glossary.md#propertie) return information. This error has the following cause and solution:
 
 
 

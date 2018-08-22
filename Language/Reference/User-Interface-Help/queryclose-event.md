@@ -25,8 +25,8 @@ The  **QueryClose** event syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
-| _closemode_|A value or [constant](../../Glossary/vbe-glossary.md) indicating the cause of the QueryClose event.|
+| _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md#argument) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
+| _closemode_|A value or [constant](../../Glossary/vbe-glossary.md#constant) indicating the cause of the QueryClose event.|
 
  **Return Values**
 The  _closemode_ argument returns the following values:
@@ -39,7 +39,7 @@ The  _closemode_ argument returns the following values:
 |**vbAppWindows**|2|The current Windows operating environment session is ending.|
 |**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
 
-These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md) in the[Object Browser](../../Glossary/vbe-glossary.md). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
+These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) in the[Object Browser](../../Glossary/vbe-glossary.md#Object-Browser). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
 
 ## Remarks
 

@@ -52,7 +52,7 @@ The settings for  _Effect_ are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| _fmDropEffectNone_|0|Does not copy or move the [drop source](../../../language/Glossary/glossary-vba.md) to the drop target.|
+| _fmDropEffectNone_|0|Does not copy or move the [drop source](../../../language/Glossary/glossary-vba.md#drop-source) to the drop target.|
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
 | _fmDropEffectMove_|2|Moves the drop source to the drop target.|
 | _fmDropEffectCopyOrMove_|3|Copies or moves the drop source to the drop target.|

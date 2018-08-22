@@ -15,7 +15,7 @@ You can indicate external names by enclosing them in brackets (**[ ]**). This er
 
 
 
-- The [identifier](../../Glossary/vbe-glossary.md) specified within brackets has no meaning to the[host application](../../Glossary/vbe-glossary.md).
+- The [identifier](../../Glossary/vbe-glossary.md#identifier) specified within brackets has no meaning to the[host application](../../Glossary/vbe-glossary.md#host-application).
     
     Check the spelling of the name to be sure it's consistent with that expected by the host.
     

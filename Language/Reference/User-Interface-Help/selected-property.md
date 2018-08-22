@@ -42,7 +42,7 @@ The settings for  _Boolean_ are:
 
 The  **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
 The default value of this property is based on the current selection state of the  **ListBox**.
-For single-selection list boxes, the  **Value** or **ListIndex** properties are recommended for getting and setting the selection. In this case, **ListIndex** returns the index of the selected item. However, in a multiple selection, **ListIndex** returns the index of the row contained within the[focus](../../Glossary/vbe-glossary.md) rectangle, regardless of whether the row is actually selected.
+For single-selection list boxes, the  **Value** or **ListIndex** properties are recommended for getting and setting the selection. In this case, **ListIndex** returns the index of the selected item. However, in a multiple selection, **ListIndex** returns the index of the row contained within the[focus](../../Glossary/vbe-glossary.md#focu) rectangle, regardless of whether the row is actually selected.
 When a list box control's  **MultiSelect** property is set to _None_, only one row can have its **Selected** property set to **True**.
 Entering a value that is out of range for the index does not generate an error message, but does not set a property for any item in the list.
 

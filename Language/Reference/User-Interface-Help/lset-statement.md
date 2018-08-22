@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # LSet Statement
 
-Left aligns a string within a string [variable](../../Glossary/vbe-glossary.md), or copies a variable of one [user-defined type](../../Glossary/vbe-glossary.md) to another variable of a different user-defined type.
+Left aligns a string within a string [variable](../../Glossary/vbe-glossary.md#variable), or copies a variable of one [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) to another variable of a different user-defined type.
 
 ## Syntax
 
@@ -23,8 +23,8 @@ The  **LSet** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _stringvar_|Required. Name of string [variable](../../Glossary/vbe-glossary.md).|
-| _string_|Required. [String expression](../../Glossary/vbe-glossary.md) to be left-aligned within _stringvar._|
+| _stringvar_|Required. Name of string [variable](../../Glossary/vbe-glossary.md#variable).|
+| _string_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) to be left-aligned within _stringvar._|
 | _varname1_|Required. Variable name of the user-defined type being copied to.|
 | _varname2_|Required. Variable name of the user-defined type being copied from.|
 
@@ -32,7 +32,7 @@ The  **LSet** statement syntax has these parts:
 
 **LSet** replaces any leftover characters in _stringvar_ with spaces.
 If  _string_ is longer than _stringvar_, **LSet** places only the leftmost characters, up to the length of the _stringvar,_ in _stringvar_.
-Using  **LSet** to copy a variable of one user-defined type into a variable of a different user-defined type is not recommended. Copying data of one[data type](../../Glossary/vbe-glossary.md) into space reserved for a different data type can cause unpredictable results.
+Using  **LSet** to copy a variable of one user-defined type into a variable of a different user-defined type is not recommended. Copying data of one[data type](../../Glossary/vbe-glossary.md#data-type) into space reserved for a different data type can cause unpredictable results.
 When you copy a variable from one user-defined type to another, the binary data from one variable is copied into the memory space of the other, without regard for the data types specified for the elements.
 
 ## Example

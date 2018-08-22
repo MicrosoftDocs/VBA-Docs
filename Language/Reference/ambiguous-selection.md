@@ -15,11 +15,11 @@ Either you have not selected a keyword or you have requested Help on a component
 
 [Code or Module Window](../Glossary/vbe-glossary.md#code-module)
 
-[Immediate Window or Pane](../Glossary/vbe-glossary.md)
+[Immediate Window or Pane](../Glossary/vbe-glossary.md#Immediate-Window-or-Pane)
 
-[Locals Windows or Pane](../Glossary/vbe-glossary.md)
+[Locals Windows or Pane](../Glossary/vbe-glossary.md#Locals-Windows-or-Pane)
 
 [Object Browser](../Glossary/vbe-glossary.md#object-browser)
 
-[Watch Window or Pane](../Glossary/vbe-glossary.md)
+[Watch Window or Pane](../Glossary/vbe-glossary.md#Watch-Window-or-Pane)
 

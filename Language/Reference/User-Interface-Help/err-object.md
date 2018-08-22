@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 
 
-Contains information about [run-time errors](../../Glossary/vbe-glossary.md).
+Contains information about [run-time errors](../../Glossary/vbe-glossary.md#run-time-error).
 
 ## Remarks
 
-The [properties](../../Glossary/vbe-glossary.md) of the **Err** object are set by the generator of an error — Visual Basic, an object, or the programmer.
+The [properties](../../Glossary/vbe-glossary.md#propertie) of the **Err** object are set by the generator of an error — Visual Basic, an object, or the programmer.
 
 The default property of the  **Err** object is **Number**. Because the default property can be represented by the object name **Err**, earlier code written using the **Err** function or **Err** statement doesn't have to be modified.
 
@@ -29,7 +29,7 @@ The  **Err** object's properties are reset to zero or zero-length strings ("") a
 
 Use the  **Raise** method, rather than the **Error** statement, to generate run-time errors for system errors and class modules. Using the **Raise** method in other code depends on the richness of the information you want to return.
 
-The  **Err** object is an intrinsic object with global [scope](../../Glossary/vbe-glossary.md). There is no need to create an instance of it in your code.
+The  **Err** object is an intrinsic object with global [scope](../../Glossary/vbe-glossary.md#scope). There is no need to create an instance of it in your code.
 
 
 ## Example

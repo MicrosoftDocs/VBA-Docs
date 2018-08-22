@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
 
-1. Identify the [tab order](../../Glossary/vbe-glossary.md) you want to use for the form.
+1. Identify the [tab order](../../Glossary/vbe-glossary.md#tab-order) you want to use for the form.
     
     The tab index of the first control in the tab order is 0; the tab index of the second is 1, and so on.
     

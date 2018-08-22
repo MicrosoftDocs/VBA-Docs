@@ -29,6 +29,6 @@ Allows you to:
 The  **Immediate** window can be dragged and positioned anywhere on your screen unless you have made it a dockable window from the **Docking** Tab of the **Options** dialog box.
 You can close the window by clicking the Close box. If the Close box is not visible, double-click the Title bar to make the Close box visible, then click it.
 
- **Note**  In break mode, a statement in the Immediate window is executed in the context or [scope](../../Glossary/vbe-glossary.md) that is displayed in the Procedure box. For example, if you type **Print**_variablename_, your output is the value of a local variable. This is the same as if the **Print** method had occurred in the procedure you were executing when the program halted.
+ **Note**  In break mode, a statement in the Immediate window is executed in the context or [scope](../../Glossary/vbe-glossary.md#scope) that is displayed in the Procedure box. For example, if you type **Print**_variablename_, your output is the value of a local variable. This is the same as if the **Print** method had occurred in the procedure you were executing when the program halted.
 
 

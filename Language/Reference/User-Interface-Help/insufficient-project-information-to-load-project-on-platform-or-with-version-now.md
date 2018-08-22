@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Insufficient project information to load project on platform or with version now being used
 
-When you save a [project](../../Glossary/vbe-glossary.md), extra information is saved to permit loading the project with a later version or on a different platform. This error has the following cause and solution:
+When you save a [project](../../Glossary/vbe-glossary.md#project), extra information is saved to permit loading the project with a later version or on a different platform. This error has the following cause and solution:
 
 
 

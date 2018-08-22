@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets the value of an object returned by a [property](../../Glossary/vbe-glossary.md). Read/write.
+Returns or sets the value of an object returned by a [property](../../Glossary/vbe-glossary.md#property). Read/write.
 
 ## Remarks
 

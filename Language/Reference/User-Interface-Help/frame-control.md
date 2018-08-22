@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Creates a functional and visual [control group](../../../language/Glossary/glossary-vba.md).
+Creates a functional and visual [control group](../../../language/Glossary/glossary-vba.md#control-group).
 
 ## Remarks
 

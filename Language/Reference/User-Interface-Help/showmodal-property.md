@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Sets a  **UserForm** to be modal or modeless in its display. Read-only at[run time](../../Glossary/vbe-glossary.md).
+Sets a  **UserForm** to be modal or modeless in its display. Read-only at[run time](../../Glossary/vbe-glossary.md#run-time).
 
 ## Remarks
 

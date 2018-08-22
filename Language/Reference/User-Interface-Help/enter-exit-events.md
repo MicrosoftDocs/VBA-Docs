@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Enter occurs before a control actually receives the [focus](../../Glossary/vbe-glossary.md) from a control on the same form. Exit occurs immediately before a control loses the focus to another control on the same form.
+Enter occurs before a control actually receives the [focus](../../Glossary/vbe-glossary.md#focu) from a control on the same form. Exit occurs immediately before a control loses the focus to another control on the same form.
 
 ## Syntax
 

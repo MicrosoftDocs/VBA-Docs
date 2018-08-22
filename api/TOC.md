@@ -35905,8 +35905,8 @@
 ##### [ZOrder Method](../Language/Reference/User-Interface-Help/zorder-method.md)
 ##### [ZOrder Method, TextBox Control Example](../Language/Reference/User-Interface-Help/zorder-method-textbox-control-example.md)
 ### Glossary
-#### [VBA Glossary](../Language/Glossary/glossary-vba.md)
-#### [VBE Glossary](../Language/Glossary/vbe-glossary.md)
+#### [VBA Glossary](../Language/Glossary/glossary-vba.md#VBA-Glossary)
+#### [VBE Glossary](../Language/Glossary/vbe-glossary.md#VBE-Glossary)
 ## [Library Reference](./overview/Library-Reference.md)
 ### Concepts
 #### [Getting Started with VBA in Office](../Library-Reference/Concepts/getting-started-with-vba-in-office.md)

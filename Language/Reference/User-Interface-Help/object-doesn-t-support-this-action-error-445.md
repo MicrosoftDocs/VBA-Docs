@@ -15,7 +15,7 @@ Not all objects support all actions. This error has the following cause and solu
 
 
 
-- You referenced a [method](../../Glossary/vbe-glossary.md) or[property](../../Glossary/vbe-glossary.md) that isn't supported by this object.
+- You referenced a [method](../../Glossary/vbe-glossary.md#method) or[property](../../Glossary/vbe-glossary.md#property) that isn't supported by this object.
     
     See the object's documentation for more information on the object and check the spellings of properties and methods.
     

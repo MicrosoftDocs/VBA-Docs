@@ -19,13 +19,13 @@ The Activate event occurs when an object becomes the active window. The Deactiva
 
 **Private Sub**_object_**_Activate()**
  **Private Sub**_object_**_Deactivate()**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 
 An object can become active by using the  **Show** method in code.
 The Activate event can occur only when an object is visible. A  **UserForm** loaded with **Load** isn't visible unless you use the **Show** method.
-The Activate and Deactivate events occur only when you move the [focus](../../Glossary/vbe-glossary.md) within an application. Moving the focus to or from an object in another application doesn't trigger either event.
+The Activate and Deactivate events occur only when you move the [focus](../../Glossary/vbe-glossary.md#focu) within an application. Moving the focus to or from an object in another application doesn't trigger either event.
 The Deactivate event doesn't occur when unloading an object.
 
 ## Example

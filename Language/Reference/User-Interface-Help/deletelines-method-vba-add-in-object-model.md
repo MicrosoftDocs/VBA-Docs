@@ -23,8 +23,8 @@ The  **DeleteLines** syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _startline_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the first line you want to delete.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#Long) specifying the first line you want to delete.|
 | _count_|Optional. A  **Long** specifying the number of lines you want to delete.|
 
 ## Remarks

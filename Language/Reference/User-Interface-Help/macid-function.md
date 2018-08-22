@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used on the Macintosh to convert a 4-character [constant](../../Glossary/vbe-glossary.md) to a value that may be used by **Dir**, **Kill**, **Shell**, and **AppActivate**.
+Used on the Macintosh to convert a 4-character [constant](../../Glossary/vbe-glossary.md#constant) to a value that may be used by **Dir**, **Kill**, **Shell**, and **AppActivate**.
 
 ## Syntax
 

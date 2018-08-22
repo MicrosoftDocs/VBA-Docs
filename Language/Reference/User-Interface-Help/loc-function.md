@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) specifying the current read/write position within an open file.
+Returns a [Long](../../Glossary/vbe-glossary.md#Long) specifying the current read/write position within an open file.
 
 ## Syntax
 
 **Loc(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is any valid[Integer](../../Glossary/vbe-glossary.md)[file number](../../Glossary/vbe-glossary.md).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[Integer](../../Glossary/vbe-glossary.md#Integer)[file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 

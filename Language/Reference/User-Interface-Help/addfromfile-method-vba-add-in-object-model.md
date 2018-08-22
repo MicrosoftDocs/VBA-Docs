@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-For the  **References** collection, adds a reference to a[project](../../Glossary/vbe-glossary.md) from a file. For the **CodeModule** object, adds the contents of a file to a[module](../../Glossary/vbe-glossary.md).
+For the  **References** collection, adds a reference to a[project](../../Glossary/vbe-glossary.md#project) from a file. For the **CodeModule** object, adds the contents of a file to a[module](../../Glossary/vbe-glossary.md#module).
 
 ## Syntax
 
@@ -23,10 +23,10 @@ The  **AddFromFile** syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _filename_|Required. A [string expression](../../Glossary/vbe-glossary.md) specifying the name of the file you want to add to the project or module. If the file name isn't found and a path name isn't specified, the directories searched by the **Windows OpenFile** function are searched.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _filename_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the file you want to add to the project or module. If the file name isn't found and a path name isn't specified, the directories searched by the **Windows OpenFile** function are searched.|
 
 ## Remarks
 
-For the  **CodeModule** object, the **AddFromFile** method inserts the contents of the file starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md) in the[code module](../../Glossary/vbe-glossary.md). If the module doesn't contain procedures,  **AddFromFile** places the contents of the file at the end of the module.
+For the  **CodeModule** object, the **AddFromFile** method inserts the contents of the file starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md#procedure) in the[code module](../../Glossary/vbe-glossary.md#code-module). If the module doesn't contain procedures,  **AddFromFile** places the contents of the file at the end of the module.
 

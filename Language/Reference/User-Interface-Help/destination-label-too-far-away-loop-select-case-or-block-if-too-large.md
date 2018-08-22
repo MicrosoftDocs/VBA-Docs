@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Destination label too far away; loop, Select Case, or block If too large
 
-[Procedures](../../Glossary/vbe-glossary.md) can be as large as 64K from beginning to end, but because branching can occur either forward or backward within a procedure, such branching is limited to 32,767 bytes in either direction. This error has the following causes and solutions:
+[Procedures](../../Glossary/vbe-glossary.md#Procedure) can be as large as 64K from beginning to end, but because branching can occur either forward or backward within a procedure, such branching is limited to 32,767 bytes in either direction. This error has the following causes and solutions:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) indicating the minor version number of the referenced[type library](../../Glossary/vbe-glossary.md). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md#Long) indicating the minor version number of the referenced[type library](../../Glossary/vbe-glossary.md#type-library). Read-only.
 
 ## Remarks
 

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Select all the controls you want to be the same size.
     
-2. Select the [dominant control](../../Glossary/glossary-vba.md).
+2. Select the [dominant control](../../Glossary/glossary-vba.md#dominant-control).
     
 3. From the  **Format** menu, choose **Make Same Size**.
     

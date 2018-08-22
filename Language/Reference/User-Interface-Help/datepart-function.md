@@ -18,18 +18,18 @@ Returns a  **Variant** (**Integer**) containing the specified part of a given da
 ## Syntax
 
 **DatePart( _interval,_** **_date_** [ **_,firstdayofweek_** [ **_,_** **_firstweekofyear_** ]] **)**
-The  **DatePart** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **DatePart** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md) that is the interval of time you want to return.|
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that is the interval of time you want to return.|
 |**_date_**|Required.  **Variant** (**Date**) value that you want to evaluate.|
-|**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.|
+|**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week. If not specified, Sunday is assumed.|
 |**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|
 
  **Settings**
-The  **_interval_**[argument](../../Glossary/vbe-glossary.md) has these settings:
+The  **_interval_**[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
 
 
 |**Setting**|**Description**|
@@ -73,7 +73,7 @@ The  **_firstweekofyear_** argument has these settings:
 
 You can use the  **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 The  **_firstdayofweek_** argument affects calculations that use the "w" and "ww" interval symbols.
-If  _date_ is a[date literal](../../Glossary/vbe-glossary.md), the specified year becomes a permanent part of that date. However, if  _date_ is enclosed in double quotation marks (" "), and you omit the year, the current year is inserted in your code each time the _date_ expression is evaluated. This makes it possible to write code that can be used in different years.
+If  _date_ is a[date literal](../../Glossary/vbe-glossary.md#date-literal), the specified year becomes a permanent part of that date. However, if  _date_ is enclosed in double quotation marks (" "), and you omit the year, the current year is inserted in your code each time the _date_ expression is evaluated. This makes it possible to write code that can be used in different years.
 
  **Note**  For  _date_, if the **Calendar** property setting is Gregorian, the supplied date must be Gregorian. If the calendar is Hijri, the supplied date must be Hijri.
 

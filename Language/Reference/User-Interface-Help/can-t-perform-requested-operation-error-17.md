@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # Can't perform requested operation (Error 17)
 
-An operation can't be carried out if it would invalidate the current state of the [project](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+An operation can't be carried out if it would invalidate the current state of the [project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
 
 
 
-- The requested operation would invalidate the current state of the project. For example, the error occurs if you use the  **References** dialog box to add a reference to a new project or[object library](../../Glossary/vbe-glossary.md) while a program is in[break mode](../../Glossary/vbe-glossary.md).
+- The requested operation would invalidate the current state of the project. For example, the error occurs if you use the  **References** dialog box to add a reference to a new project or[object library](../../Glossary/vbe-glossary.md#object-library) while a program is in[break mode](../../Glossary/vbe-glossary.md#break-mode).
     
     Stop execution of the current code, and then retry the operation.
     
-- An attempt was made to programmatically modify currently running code. For example, your code may have tried to read code from a disk file into a currently running [module](../../Glossary/vbe-glossary.md).
+- An attempt was made to programmatically modify currently running code. For example, your code may have tried to read code from a disk file into a currently running [module](../../Glossary/vbe-glossary.md#module).
     
     Although you can modify modules in the project while they aren't actually running, you can't make modifications to a running module. To make such changes, you must stop the module from running, make the additions or changes, and then restart execution.
     

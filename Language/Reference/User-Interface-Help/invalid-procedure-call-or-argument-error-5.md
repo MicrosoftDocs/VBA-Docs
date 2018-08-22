@@ -15,11 +15,11 @@ Some part of the call can't be completed. This error has the following causes an
 
 
 
-- An [argument](../../Glossary/vbe-glossary.md) probably exceeds the range of permitted values. For example, the **Sin** function can only accept values within a certain range. Positive arguments less than 2,147,483,648 are accepted, while 2,147,483,648 generates this error.
+- An [argument](../../Glossary/vbe-glossary.md#argument) probably exceeds the range of permitted values. For example, the **Sin** function can only accept values within a certain range. Positive arguments less than 2,147,483,648 are accepted, while 2,147,483,648 generates this error.
     
     Check the ranges permitted for arguments.
     
-- This error can also occur if an attempt is made to call a [procedure](../../Glossary/vbe-glossary.md) that isn't valid on the current platform. For example, some procedures may only be valid for Microsoft Windows, or for the Macintosh, and so on.
+- This error can also occur if an attempt is made to call a [procedure](../../Glossary/vbe-glossary.md#procedure) that isn't valid on the current platform. For example, some procedures may only be valid for Microsoft Windows, or for the Macintosh, and so on.
     
     Check platform-specific information about the procedure.
     

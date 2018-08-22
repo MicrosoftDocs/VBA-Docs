@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [Variant](../../Glossary/vbe-glossary.md) specifying the value of the[property](../../Glossary/vbe-glossary.md). Read/write.
+Returns or sets a [Variant](../../Glossary/vbe-glossary.md#Variant) specifying the value of the[property](../../Glossary/vbe-glossary.md#property). Read/write.
 
 ## Remarks
 

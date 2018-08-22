@@ -17,7 +17,7 @@ Loads an object but doesn't show it.
 
 **Load**_object_
 
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

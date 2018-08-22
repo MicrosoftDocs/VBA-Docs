@@ -18,19 +18,19 @@ Displays a message in a dialog box, waits for the user to click a button, and re
 ## Syntax
 
 **MsgBox( _prompt_** [, **_buttons_** ] [, **_title_** ] [, **_helpfile_**, **_context_** ] **)**
-The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return - linefeed character combination (**Chr(** 13 **)** &; **Chr(** 10 **)**) between each line.|
-|**_buttons_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
+|**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return - linefeed character combination (**Chr(** 13 **)** &; **Chr(** 10 **)**) between each line.|
+|**_buttons_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#Numeric-expression) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
 |**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit  **_title_**, the application name is placed in the title bar.|
 |**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
 |**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
 
  **Settings**
-The  **_buttons_**[argument](../../Glossary/vbe-glossary.md) settings are:
+The  **_buttons_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -58,7 +58,7 @@ The  **_buttons_**[argument](../../Glossary/vbe-glossary.md) settings are:
 
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the  **_buttons_** argument, use only one number from each group.
 
- **Note**  These [constants](../../Glossary/vbe-glossary.md) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
+ **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
 
  **Return Values**
 
@@ -75,10 +75,10 @@ The first group of values (0-5) describes the number and type of buttons display
 
 ## Remarks
 
-When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
+When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
 
- **Note**  To specify more than the first named argument, you must use  **MsgBox** in an[expression](../../Glossary/vbe-glossary.md). To omit some positional [arguments](../../Glossary/vbe-glossary.md), you must include the corresponding comma delimiter.
+ **Note**  To specify more than the first named argument, you must use  **MsgBox** in an[expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
 
 
 ## Example

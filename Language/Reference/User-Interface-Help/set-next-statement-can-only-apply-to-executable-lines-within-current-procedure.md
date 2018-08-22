@@ -15,9 +15,9 @@ You can choose the  **Set Next Statement** command to indicate where a suspended
 
 
 
-- When you chose the command, the cursor was on a line that didn't contain an executable statement. Place the cursor on a line with an executable statement and try again. [Declarations](../../Glossary/vbe-glossary.md), [line labels](../../Glossary/vbe-glossary.md), and [comments](../../Glossary/vbe-glossary.md) aren't executable, so lines with only declarations, labels, and comments can't be the targets of the **Set Next Statement** command.
+- When you chose the command, the cursor was on a line that didn't contain an executable statement. Place the cursor on a line with an executable statement and try again. [Declarations](../../Glossary/vbe-glossary.md#Declaration), [line labels](../../Glossary/vbe-glossary.md#line-label), and [comments](../../Glossary/vbe-glossary.md#comment) aren't executable, so lines with only declarations, labels, and comments can't be the targets of the **Set Next Statement** command.
     
-- When you chose the command, the cursor was on a line outside the currently executing [procedure](../../Glossary/vbe-glossary.md).
+- When you chose the command, the cursor was on a line outside the currently executing [procedure](../../Glossary/vbe-glossary.md#procedure).
     
     Place the cursor on a line within the currently executing procedure.
     

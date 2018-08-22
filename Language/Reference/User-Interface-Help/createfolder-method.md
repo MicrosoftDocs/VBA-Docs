@@ -27,7 +27,7 @@ The  **CreateFolder** method has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
-| _foldername_|Required. [String expression](../../Glossary/vbe-glossary.md) that identifies the folder to create.|
+| _foldername_|Required. [String expression](../../Glossary/vbe-glossary.md#String-expression) that identifies the folder to create.|
 
 ## Remarks
 

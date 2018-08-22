@@ -18,7 +18,7 @@ Refreshes the contents of the  **AddIns** collection from the add-ins listed in 
 ## Syntax
 
 _object_. **Update**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

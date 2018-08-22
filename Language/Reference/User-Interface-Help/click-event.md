@@ -42,7 +42,7 @@ The following are examples of actions that initiate the Click event:
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **CommandButton**. If the command button doesn't already have the[focus](../../Glossary/vbe-glossary.md), the Enter event occurs before the Click event.
+- Clicking a  **CommandButton**. If the command button doesn't already have the[focus](../../Glossary/vbe-glossary.md#focu), the Enter event occurs before the Click event.
     
 - Pressing the SPACEBAR when a  **CommandButton** has the focus.
     
@@ -52,7 +52,7 @@ The following are examples of actions that initiate the Click event:
     
 - Pressing ESC on a form that has a command button whose  **Cancel** property is set to **True**, as long as no other command button has the focus.
     
-- Pressing a control's [accelerator key](../../../language/Glossary/glossary-vba.md).
+- Pressing a control's [accelerator key](../../../language/Glossary/glossary-vba.md#accelerator-key).
     
 
 When the Click event results from clicking a control, the sequence of events leading to the Click event is:

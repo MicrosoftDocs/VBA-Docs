@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Did not find an index property, and control 'item2' already exists.
 
-The [control](../../Glossary/vbe-glossary.md) can't be loaded because there is no index, and it has the same name as a previously loaded control.
+The [control](../../Glossary/vbe-glossary.md#control) can't be loaded because there is no index, and it has the same name as a previously loaded control.
 
 

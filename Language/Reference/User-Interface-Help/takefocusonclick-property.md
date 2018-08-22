@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether a control takes the [focus](../../Glossary/vbe-glossary.md) when clicked.
+Specifies whether a control takes the [focus](../../Glossary/vbe-glossary.md#focu) when clicked.
 
 ## Syntax
 

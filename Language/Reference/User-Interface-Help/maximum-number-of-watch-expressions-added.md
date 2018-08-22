@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Maximum number of watch expressions added
 
-There is a limit to the number of [watch expressions](../../Glossary/vbe-glossary.md) the **Watch** window can contain. This error has the following cause and solution:
+There is a limit to the number of [watch expressions](../../Glossary/vbe-glossary.md#watch-expression) the **Watch** window can contain. This error has the following cause and solution:
 
 
 

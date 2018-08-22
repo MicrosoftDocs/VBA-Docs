@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid syntax for conditional compiler constant declarations
 
-Entering [conditional compiler constants](../../Glossary/vbe-glossary.md) in an **Options** dialog box differs from declaring[constants](../../Glossary/vbe-glossary.md) in code. This error has the following cause and solution:
+Entering [conditional compiler constants](../../Glossary/vbe-glossary.md#conditional-compiler-constant) in an **Options** dialog box differs from declaring[constants](../../Glossary/vbe-glossary.md#constant) in code. This error has the following cause and solution:
 
 
 
-- You used improper syntax when entering a constant declaration in the in an  **Options** dialog box. The only valid syntax is a simple assignment of an integer value to the[identifier](../../Glossary/vbe-glossary.md). Make sure the syntax for the entry is as follows, with each constant separated by a colon (**:**):
+- You used improper syntax when entering a constant declaration in the in an  **Options** dialog box. The only valid syntax is a simple assignment of an integer value to the[identifier](../../Glossary/vbe-glossary.md#identifier). Make sure the syntax for the entry is as follows, with each constant separated by a colon (**:**):
     
   ```vb
   constantname= [{+ | - }]integervalue: [{+ | - }]constantname=integervalue  [...] 

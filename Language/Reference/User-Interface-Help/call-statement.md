@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Call Statement
 
-Transfers control to a  **Sub** procedure, **Function** procedure, or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) [procedure](../../Glossary/vbe-glossary.md).
+Transfers control to a  **Sub** procedure, **Function** procedure, or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-(DLL)) [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
 
@@ -22,9 +22,9 @@ The  **Call** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**Call**|Optional; [keyword](../../Glossary/vbe-glossary.md). If specified, you must enclose  _argumentlist_ in parentheses. For example:<p>```Call MyProc(0)```</p>|
+|**Call**|Optional; [keyword](../../Glossary/vbe-glossary.md#keyword). If specified, you must enclose  _argumentlist_ in parentheses. For example:<p>```Call MyProc(0)```</p>|
 | _name_|Required. Name of the procedure to call.|
-| _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md), [arrays](../../Glossary/vbe-glossary.md), or [expressions](../../Glossary/vbe-glossary.md) to pass to the procedure. Components of _argumentlist_ may include the keywords **ByVal** or **ByRef** to describe how the[arguments](../../Glossary/vbe-glossary.md) are treated by the called procedure. However, **ByVal** and **ByRef** can be used with **Call** only when calling a DLL procedure. On the Macintosh, **ByVal** and **ByRef** can be used with **Call** when making a call to a Macintosh code resource.|
+| _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md#variable), [arrays](../../Glossary/vbe-glossary.md#array), or [expressions](../../Glossary/vbe-glossary.md#expression) to pass to the procedure. Components of _argumentlist_ may include the keywords **ByVal** or **ByRef** to describe how the[arguments](../../Glossary/vbe-glossary.md#argument) are treated by the called procedure. However, **ByVal** and **ByRef** can be used with **Call** only when calling a DLL procedure. On the Macintosh, **ByVal** and **ByRef** can be used with **Call** when making a call to a Macintosh code resource.|
 
 ## Remarks
 

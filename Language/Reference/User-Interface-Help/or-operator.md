@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used to perform a logical disjunction on two [expressions](../../Glossary/vbe-glossary.md).
+Used to perform a logical disjunction on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **Or** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
@@ -36,7 +36,7 @@ If either or both expressions evaluate to  **True**, _result_ is **True**. The f
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**True**|
-|**True**|[Null](../../Glossary/vbe-glossary.md)|**True**|
+|**True**|[Null](../../Glossary/vbe-glossary.md#Null)|**True**|
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
 |**False**|**Null**|**Null**|
@@ -44,7 +44,7 @@ If either or both expressions evaluate to  **True**, _result_ is **True**. The f
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
 
-The  **Or** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The  **Or** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**Then  _result_ is**|
