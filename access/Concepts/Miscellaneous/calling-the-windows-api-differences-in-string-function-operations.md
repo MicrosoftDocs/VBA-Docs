@@ -1,22 +1,18 @@
 ---
-title: Calling the Windows API (Differences in String Function Operations)
+title: Calling the Windows API (differences in string function operations)
 ms.prod: access
 ms.assetid: ee882d00-46f5-2bfc-09fc-ce2941302c5e
 ms.date: 06/08/2017
 ---
 
 
-# Calling the Windows API (Differences in String Function Operations)
-
-  
+# Calling the Windows API (differences in string function operations)
 
 **Applies to:** Access 2013 | Access 2016
 
 The memory storage formats for text differ between Visual Basic for Applications (VBA) code and Access Basic code. (Access Basic was used in early versions of Microsoft Access.) Text is stored in ANSI format within Access Basic code and in Unicode format in Visual Basic. This topic discusses one potential issue when handling strings in the current version of Microsoft Access. For more information, see [Differences in String Function Operations](http://msdn.microsoft.com/library/40ce2b9a-cac6-589e-2b5e-d63be37efeee%28Office.15%29.aspx).
 
-In several Windows API functions, the byte length of a string has a special meaning. For example, the following program returns a folder set up in Windows. In Microsoft Access,  **LeftB** (Buffer, ret) does not return the correct string. This is because, in spite of the fact that it shows the byte length of an ANSI string, the **LeftB** function processes Unicode strings. In this case, use the **InStr** function so that only the character string, without nulls, is returned.
-
-
+In several Windows API functions, the byte length of a string has a special meaning. For example, the following program returns a folder set up in Windows. In Microsoft Access, **LeftB** (Buffer, ret) does not return the correct string. This is because, in spite of the fact that it shows the byte length of an ANSI string, the **LeftB** function processes Unicode strings. In this case, use the **InStr** function so that only the character string, without nulls, is returned.
 
 ```vb
 Private Declare Function GetWindowsDirectory Lib "kernel32" _ 

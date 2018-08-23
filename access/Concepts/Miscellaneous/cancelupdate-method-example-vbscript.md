@@ -1,24 +1,18 @@
 ---
-title: CancelUpdate Method Example (VBScript)
+title: CancelUpdate method example (VBScript)
 ms.prod: access
 ms.assetid: 5442db02-960c-6d11-e0f3-0726c8d529bd
 ms.date: 06/08/2017
 ---
 
 
-# CancelUpdate Method Example (VBScript)
-
-  
+# CancelUpdate method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **CancelUpdateVBS.asp**. ASP script will identify your internet server. You will need to edit the name of the server to reflect your own setup. Simply change the value in the connect string from MyServer to the name of your SQL Server installation.
-
-
-
+To test this example, cut and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **CancelUpdateVBS.asp**. ASP script will identify your Internet server. You will need to edit the name of the server to reflect your own setup. Simply change the value in the connect string from MyServer to the name of your SQL Server installation.
 
 ```vb
-
 <!-- BeginCancelUpdateVBS --><%@Language=VBScript%> 
 <%'Option Explicit%><% 'use the following META tag instead of adovbs.inc%>
 <!--METADATA TYPE="typelib" uuid="00000205-0000-0010-8000-00AA006D2EA4" --><HTML>

@@ -1,5 +1,5 @@
 ---
-title: AllowZeroLength Property
+title: AllowZeroLength property
 keywords: vbaac10.chm4268
 f1_keywords:
 - vbaac10.chm4268
@@ -11,14 +11,11 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowZeroLength Property
-
-  
+# AllowZeroLength property
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **AllowZeroLength** property to specify whether a zero-length string(" ") is a valid entry in a table field.
-
+You can use the **AllowZeroLength** property to specify whether a zero-length string (" ") is a valid entry in a table field.
 
 > [!NOTE] 
 > The **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
@@ -27,7 +24,6 @@ You can use the **AllowZeroLength** property to specify whether a zero-length st
 ## Setting
 
 The **AllowZeroLength** property uses the following settings.
-
 
 
 |**Setting**|**Visual Basic**|**Description**|
@@ -41,18 +37,16 @@ The **AllowZeroLength** property uses the following settings.
 
 ## Remarks
 
-If you want Microsoft Access to store a zero-length string instead of a Null value when you leave a field blank, set both the **AllowZeroLength** and **Required** properties to Yes.
+If you want Microsoft Access to store a zero-length string instead of a Null value when you leave a field blank, set both the **AllowZeroLength** and **Required** properties to **Yes**.
 
 The following table shows the results of combining the settings of the **AllowZeroLength** and **Required** properties.
 
-
-
 |**AllowZeroLength**|**Required**|**User's Action**|**Value Stored**|
 |:-----|:-----|:-----|:-----|
-|No|No|Presses ENTERPresses SPACEBAREnters a zero-length string|**Null** **Null**(not allowed)|
-|Yes|No|Presses ENTERPresses SPACEBAREnters a zero-length string|**Null** **Null**Zero-length string|
-|No|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)(not allowed)(not allowed)|
-|Yes|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)Zero-length stringZero-length string|
+|No|No|Presses ENTER<br/>Presses SPACEBAR<br/>Enters a zero-length string|**Null**<br/>**Null**<br/>(not allowed)|
+|Yes|No|Presses ENTER<br/>Presses SPACEBAR<br/>Enters a zero-length string|**Null**<br/>**Null**<br/>Zero-length string|
+|No|Yes|Presses ENTER<br/>Presses SPACEBAR<br/>Enters a zero-length string|(not allowed)<br/>(not allowed)<br/>(not allowed)|
+|Yes|Yes|Presses ENTER<br/>Presses SPACEBAR<br/>Enters a zero-length string|(not allowed)<br/>Zero-length string<br/>Zero-length string|
 
 > [!NOTE] 
 > You can use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
