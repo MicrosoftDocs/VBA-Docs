@@ -66,9 +66,6 @@ You can also use the DATABASE reserved word to specify the external database. Fo
 ```
 
 
- **Note**  
-
-
 ## Example
 <a name="sectionSection2"> </a>
 

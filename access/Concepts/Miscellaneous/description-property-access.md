@@ -35,8 +35,8 @@ An object's description is displayed in the Description column in the Details vi
 
 If you create controls by dragging a field from the field list, Microsoft Access copies the field's  **Description** property to the control's **StatusBarText** property.
 
-
- **Note**  For a linked table, Microsoft Access displays the connection information in the  **Description** property.
+> [!NOTE] 
+> For a linked table, Microsoft Access displays the connection information in the  **Description** property.
 
 ## See also
 

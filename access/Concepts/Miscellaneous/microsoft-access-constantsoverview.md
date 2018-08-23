@@ -68,8 +68,8 @@ In addition to the constants you declare with the  **Const** statement, Microsof
 
 Any intrinsic constant can be used in a macro or Visual Basic. These constants are available at all times. The specific built-in constants used with a particular function, method, or property are described in the Help topic for that function, method, or property.
 
-
- **Note**  You can use the Object Browser to view lists of intrinsic constants from all available object libraries.
+> [!NOTE] 
+> You can use the Object Browser to view lists of intrinsic constants from all available object libraries.
 
 Intrinsic constants have a two letter prefix identifying the object library that defines the constant. Constants from the Microsoft Access library are prefaced with "ac"; constants from the ADO library are prefaced with "ad"; and constants from the Visual Basic library are prefaced with "vb". For example:
 
@@ -80,8 +80,8 @@ Intrinsic constants have a two letter prefix identifying the object library that
     
 -  **vbCurrency**
     
-
- **Note**  Because the values represented by the intrinsic constants may change in future versions of Microsoft Access, you should use the constants instead of their actual values. You can, however, display the actual value of a constant by choosing the constant in the Object Browser or by typing ? _constantname_ in the Immediate window.
+> [!NOTE] 
+> Because the values represented by the intrinsic constants may change in future versions of Microsoft Access, you should use the constants instead of their actual values. You can, however, display the actual value of a constant by choosing the constant in the Object Browser or by typing ? _constantname_ in the Immediate window.
 
 You can use intrinsic constants wherever you can use symbolic, or user-defined constants, including in expressions. The following example shows how you might use the intrinsic constant  **vbCurrency** to determine whether the variable is a **Variant** for which the **VarType** function returns 6 ( **Currency** ):
 
@@ -160,8 +160,8 @@ In addition to the constants you declare with the  **Const** statement, Microsof
 
 Any intrinsic constant can be used in a macro or Visual Basic. These constants are available at all times. The specific built-in constants used with a particular function, method, or property are described in the Help topic for that function, method, or property.
 
-
- **Note**  You can use the Object Browser to view lists of intrinsic constants from all available object libraries.
+> [!NOTE] 
+> You can use the Object Browser to view lists of intrinsic constants from all available object libraries.
 
 Intrinsic constants have a two letter prefix identifying the object library that defines the constant. Constants from the Microsoft Access library are prefaced with "ac"; constants from the ADO library are prefaced with "ad"; and constants from the Visual Basic library are prefaced with "vb". For example:
 
@@ -172,8 +172,8 @@ Intrinsic constants have a two letter prefix identifying the object library that
     
 -  **vbCurrency**
     
-
- **Note**  Because the values represented by the intrinsic constants may change in future versions of Microsoft Access, you should use the constants instead of their actual values. You can, however, display the actual value of a constant by choosing the constant in the Object Browser or by typing ? _constantname_ in the Immediate window.
+> [!NOTE] 
+> Because the values represented by the intrinsic constants may change in future versions of Microsoft Access, you should use the constants instead of their actual values. You can, however, display the actual value of a constant by choosing the constant in the Object Browser or by typing ? _constantname_ in the Immediate window.
 
 You can use intrinsic constants wherever you can use symbolic, or user-defined constants, including in expressions. The following example shows how you might use the intrinsic constant  **vbCurrency** to determine whether the variable is a **Variant** for which the **VarType** function returns 6 ( **Currency** ):
 

@@ -19,8 +19,8 @@ ms.date: 06/08/2017
 
 You can use the  **LogMessages** property in an SQL pass-through query to specify whether messages returned from an SQL database are stored in a messages table in the current Microsoft Access database.
 
-
- **Note**  The  **LogMessages** property applies only to pass-through queries.
+> [!NOTE] 
+> The  **LogMessages** property applies only to pass-through queries.
 
 
 ## Setting
@@ -40,8 +40,8 @@ You can set this property by using the query's property sheet or Visual Basic .
 
 The name of the messages table where the returned messages are stored is  _username - nn_, where _username_ is the logon name of the user running the pass-through query, and _nn_ is an integer that increases in increments of 1, starting at 00. For example, if user JoanW sets the **LogMessages** property to Yes and receives messages from an SQL database, the messages table will be named JoanW - 00. If JoanW receives messages in another Microsoft Access session (and the first table hasn't been deleted), a new table named JoanW - 01 is created.
 
-
- **Note**  Error messages from SQL Server aren't stored in the messages table.
+> [!NOTE] 
+> Error messages from SQL Server aren't stored in the messages table.
 
 ## See also
 

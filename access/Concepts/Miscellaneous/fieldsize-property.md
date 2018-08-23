@@ -49,14 +49,15 @@ To set the size of a field from Visual Basic , use the DAO  **Size** property to
 You should use the smallest possible  **FieldSize** property setting because smaller data sizes can be processed faster and require less memory.
 
 
- **Caution**  If you convert a large  **FieldSize** setting to a smaller one in a field that already contains data, you might lose data. For example, if you change the **FieldSize** setting for a Text data type field from 255 to 50, data beyond the new 50-character setting will be discarded.
+> [!WARNING] 
+> If you convert a large  **FieldSize** setting to a smaller one in a field that already contains data, you might lose data. For example, if you change the **FieldSize** setting for a Text data type field from 255 to 50, data beyond the new 50-character setting will be discarded.
 
 If the data in a Number data type field doesn't fit in a new  **FieldSize** setting, fractional numbers may be rounded or you might get a Null value. For example, if you change from a Single to an Integer field size, fractional values will be rounded to the nearest whole number and values greater than 32,767 or less than -32,768 will result in null fields.
 
 You can't undo changes to data that result from a change to the  **FieldSize** property after saving those changes in table Design view.
 
-
- **Note**  You can use the Currency data type if you plan to perform many calculations on a field that contains data with one to four decimal places. Single and Double data type fields require floating-point calculation. Currency data type fields use a faster fixed-point calculation.
+> [!NOTE] 
+> You can use the Currency data type if you plan to perform many calculations on a field that contains data with one to four decimal places. Single and Double data type fields require floating-point calculation. Currency data type fields use a faster fixed-point calculation.
 
 ## See also
 

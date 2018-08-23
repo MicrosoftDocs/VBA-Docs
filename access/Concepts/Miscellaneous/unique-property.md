@@ -33,8 +33,8 @@ The  **Unique** property uses the following settings.
 |No|**False** (0)|The index is a non-key index.|
 You can set this property in the Indexes window of table Design view or by using Visual Basic.
 
-
- **Note**  To access the  **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
+> [!NOTE] 
+> To access the  **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
 
 
 ## Remarks

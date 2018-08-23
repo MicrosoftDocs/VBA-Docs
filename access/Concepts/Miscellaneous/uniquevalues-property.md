@@ -25,7 +25,8 @@ ms.date: 06/08/2017
 
 You can use the  **UniqueValues** property when you want to omit records that contain duplicate data in the fields displayed in Datasheet view. For example, if a query's output includes more than one field, the combination of values from all fields must be unique for a given record to be included in the results.
 
- **Note**  The  **UniqueValues** property applies only to append and make-table action queries and select queries.
+> [!NOTE] 
+> The  **UniqueValues** property applies only to append and make-table action queries and select queries.
 
 
 ## Setting
@@ -41,8 +42,8 @@ The  **UniqueValues** property uses the following settings.
 |No|(Default) Displays all records.|
 You can set the  **UniqueValues** property in the query's property sheet or in SQL view of the Query window.
 
-
- **Note**  You can set this property when you create a new query by using an SQL statement. The DISTINCT predicate corresponds to the  **UniqueValues** property setting. The DISTINCTROW predicate corresponds to the **UniqueValues** property setting.
+> [!NOTE] 
+> You can set this property when you create a new query by using an SQL statement. The DISTINCT predicate corresponds to the  **UniqueValues** property setting. The DISTINCTROW predicate corresponds to the **UniqueValues** property setting.
 
 
 ## Remarks

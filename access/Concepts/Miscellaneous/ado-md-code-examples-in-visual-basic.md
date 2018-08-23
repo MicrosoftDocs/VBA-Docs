@@ -15,7 +15,8 @@ ms.date: 06/08/2017
 The following examples require Microsoft Visual Basic version 5.0 with Service Pack 3 or Visual Basic version 6.0.
 
 
- **Note**  Paste the entire code example, from beginning to end, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
+> [!NOTE] 
+> Paste the entire code example, from beginning to end, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
 
 
 - [Cellset Example](cellset-example-vb.md)

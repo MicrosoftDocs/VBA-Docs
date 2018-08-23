@@ -23,7 +23,8 @@ ms.date: 06/08/2017
 
 The  **Object** properties provide general information about objects contained in the Navigation Pane.
 
- **Note**  The  **Object** properties are available for all objects in a Microsoft Access database and only for forms, macros, modules, and reports in an Access project (.adp).
+> [!NOTE] 
+> The  **Object** properties are available for all objects in a Microsoft Access database and only for forms, macros, modules, and reports in an Access project (.adp).
 
 
 ## Setting
@@ -38,8 +39,8 @@ You can view the  **Object** properties, and set the **Description** or **Attrib
     
 You can also specify or determine the  **Object** properties in an Access database by using Visual Basic . The **Object** properties of an Access project (.adp) are not available using Visual Basic.
 
-
- **Note**  You can only enter or edit the  **Description** and **Attributes** properties. The other **Object** properties are set by Microsoft Access and are read-only.
+> [!NOTE] 
+> You can only enter or edit the  **Description** and **Attributes** properties. The other **Object** properties are set by Microsoft Access and are read-only.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
+title: A problem occurred in your database; correct the problem by repairing and compacting the database (Error 3428)
 keywords: jeterr40.chm5003428
 f1_keywords:
 - jeterr40.chm5003428
@@ -9,16 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
-
-
+# A problem occurred in your database; correct the problem by repairing and compacting the database (Error 3428)
 
 **Applies to:** Access 2013 | Access 2016
 
-The database you are attempting to use has an unspecified problem and, as a result, it is marked as corrupt.
+The database you are attempting to use has an unspecified problem, and as a result, is marked as corrupt.
 
-To correct the problem
-
+To correct the problem:
 
 1. Close the database.
     
@@ -27,9 +24,8 @@ To correct the problem
 3. Compact the database with the  **CompactDatabase** method.
     
 
-
-
- **Important**  All steps are required.
+> [!IMPORTANT] 
+> All the steps are required.
 
 
 ## See also

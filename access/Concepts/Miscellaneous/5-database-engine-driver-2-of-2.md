@@ -75,7 +75,8 @@ The **Access Connectivity Engine\ISAM Formats\Jet 2.x** folder contains the foll
 |CreateDBOnExport|REG_BINARY|00|
 |IsamType|REG_DWORD|0|
 
- **Note**  When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
+> [!NOTE] 
+> When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
 
 ## See also
 

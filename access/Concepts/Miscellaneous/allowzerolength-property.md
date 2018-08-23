@@ -20,7 +20,8 @@ ms.date: 06/08/2017
 You can use the **AllowZeroLength** property to specify whether a zero-length string(" ") is a valid entry in a table field.
 
 
- **Note**  The **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
+> [!NOTE] 
+> The **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
 
 
 ## Setting
@@ -34,7 +35,8 @@ The **AllowZeroLength** property uses the following settings.
 |Yes|**True**|A zero-length string is a valid entry. This is the default value when creating a field in the Access user interface.|
 |No|**False**|A zero-length string is an invalid entry. This is the default value when creating a field programmatically.|
 
- **Note**  To access a field's **AllowZeroLength** property by using Visual Basic, use the DAO **AllowZeroLength** property or the ADO **Column.Properties** ("Set OLEDB:Allow Zero Length") property.
+> [!NOTE] 
+> To access a field's **AllowZeroLength** property by using Visual Basic, use the DAO **AllowZeroLength** property or the ADO **Column.Properties** ("Set OLEDB:Allow Zero Length") property.
 
 
 ## Remarks
@@ -52,7 +54,8 @@ The following table shows the results of combining the settings of the **AllowZe
 |No|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)(not allowed)(not allowed)|
 |Yes|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)Zero-length stringZero-length string|
 
- **Note**  You can use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
+> [!NOTE] 
+> You can use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
 
 The **AllowZeroLength** property works independently of the **Required** property. The **Required** property determines only whether a **Null** value is valid for the field. If the **AllowZeroLength** property is set to Yes, a zero-length string will be a valid value for the field regardless of the setting of the **Required** property.
 

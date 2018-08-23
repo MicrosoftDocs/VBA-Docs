@@ -64,7 +64,8 @@ Using the  **Execute** method on a **Command** object executes the query specifi
 If the query has parameters, the current values for the  **Command** object's parameters are used unless you override these with parameter values passed with the **Execute** call. You can override a subset of the parameters by omitting new values for some of the parameters when calling the **Execute** method. The order in which you specify the parameters is the same order in which the method passes them. For example, if there were four (or more) parameters and you wanted to pass new values for only the first and fourth parameters, you would pass as the _Parameters_ argument.
 
 
- **Note**  Output parameters will not return correct values when passed in the  _Parameters_ argument.
+> [!NOTE] 
+> Output parameters will not return correct values when passed in the  _Parameters_ argument.
 
 An [ExecuteComplete](http://msdn.microsoft.com/library/47317d97-e373-32f4-9438-2dff46b8d367%28Office.15%29.aspx) event will be issued when this operation concludes.
 

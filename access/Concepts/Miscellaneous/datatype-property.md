@@ -50,11 +50,11 @@ In Visual Basic , you can use the ADO  **Type** property to set a field's data t
 
 Memo, Hyperlink, and OLE Object fields can't be indexed.
 
+> [!TIP] 
+> Use the Currency data type for a field requiring many calculations involving data with one to four decimal places. **Single** and **Double** data type fields require floating-point calculation. The Currency data type uses a faster fixed-point calculation.
 
- **Tip**   Use the Currency data type for a field requiring many calculations involving data with one to four decimal places. **Single** and **Double** data type fields require floating-point calculation. The Currency data type uses a faster fixed-point calculation.
-
-
- **Caution**  Changing a field's data type after you enter data in a table causes a potentially lengthy process of data conversion when you save the table. If the data type in a field conflicts with a changed  **DataType** property setting, you may lose some data.
+> [!WARNING] 
+> Changing a field's data type after you enter data in a table causes a potentially lengthy process of data conversion when you save the table. If the data type in a field conflicts with a changed  **DataType** property setting, you may lose some data.
 
 Set the  **Format** property to specify a predefined display format for Number, Date/Time, Currency, and Yes/No data types.
 

@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 Use the following code examples to learn how to use RDS properties when writing in Microsoft Visual C++.
 
-
- **Note**  Paste the entire code example, from beginning to end, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
+> [!NOTE] 
+> Paste the entire code example, from beginning to end, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
 
 
 - [Handler Property Example](handler-property-example-vc-plus-plus.md)

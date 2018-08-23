@@ -22,7 +22,8 @@ ms.date: 06/08/2017
 - The  **DestinationTable** property specifies the name of the table that will hold the results of the make-table or append query.
     
 
- **Note**  The  **DestConnectStr**, **DestinationDB**, and **DestinationTable** properties apply only to make-table and append queries.
+> [!NOTE] 
+> The  **DestConnectStr**, **DestinationDB**, and **DestinationTable** properties apply only to make-table and append queries.
 
 
 ## Setting
@@ -37,8 +38,8 @@ In the SQL statement for an append query, the table name in the INSERT INTO stat
 
 In the SQL statement for a make-table query, the table name in the INTO clause corresponds to the  **DestinationTable** property setting. The IN clause corresponds to the **DestinationDB** and **DestConnectStr** property settings.
 
-
- **Note**  Microsoft Access sets these properties automatically based on the information you enter in the query's property sheet or in SQL view of the Query window.
+> [!NOTE] 
+> Microsoft Access sets these properties automatically based on the information you enter in the query's property sheet or in SQL view of the Query window.
 
 
 ## Remarks

@@ -31,7 +31,8 @@ When you name a field, control, or object, it's a good idea to make sure that th
 Another way to avoid unexpected results is to always use the ! operator instead of the . (dot) operator to refer to the value of a field, control, or object. For example, the following identifier explicitly refers to the value of the Name field rather than the Name property:
 [NameInfo]![Name]
 
- **Note**  The ! operator can be used only in Access desktop databases. 
+> [!NOTE] 
+> The ! operator can be used only in Access desktop databases. 
 
 ## See also
 

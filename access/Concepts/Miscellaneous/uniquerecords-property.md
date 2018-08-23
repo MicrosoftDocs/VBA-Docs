@@ -27,7 +27,8 @@ ms.date: 06/08/2017
 
 You can use the  **UniqueRecords** property to specify whether to return only unique records based on all fields in the underlying data source, not just those fields present in the query itself.
 
- **Note**  The  **UniqueRecords** property applies only to append and make-table action queries and select queries.
+> [!NOTE] 
+> The  **UniqueRecords** property applies only to append and make-table action queries and select queries.
 
 
 ## Setting
@@ -43,8 +44,8 @@ The  **UniqueRecords** property uses the following settings.
 |No|(Default) Returns duplicate records.|
 You can set the  **UniqueRecords** property in the query's property sheet or in SQL view of the Query window.
 
-
- **Note**  You set this property when you create a new query by using an SQL statement. The DISTINCTROW predicate corresponds to the  **UniqueRecords** property setting. The DISTINCT predicate corresponds to the **UniqueValues** property setting.
+> [!NOTE] 
+> You set this property when you create a new query by using an SQL statement. The DISTINCTROW predicate corresponds to the  **UniqueRecords** property setting. The DISTINCT predicate corresponds to the **UniqueValues** property setting.
 
 
 ## Remarks

@@ -19,8 +19,8 @@ ms.date: 06/08/2017
 
 You can use the  **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
 
-
- **Note**   The **OutputAllFields** property applies only to append, make-table, and select queries.
+> [!NOTE] 
+> The **OutputAllFields** property applies only to append, make-table, and select queries.
 
 
 ## Setting
@@ -35,8 +35,8 @@ The  **OutputAllFields** property uses the following settings.
 |No|(Default) Displays only fields that have the Show box selected in the query design grid.|
 You can set this property only by using the query's property sheet.
 
-
- **Note**  The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields** property to Yes.
+> [!NOTE] 
+> The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields** property to Yes.
 
 
 ## Remarks

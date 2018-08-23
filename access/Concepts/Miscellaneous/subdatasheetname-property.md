@@ -19,8 +19,8 @@ ms.date: 06/08/2017
 
 You can use the  **SubdatasheetName** property to specify or determine the table or query that is bound to the subdatasheet.
 
-
- **Note**  The  **SubdatasheetName** property applies only to tables and queries within a Microsoft Access database.
+> [!NOTE] 
+> The  **SubdatasheetName** property applies only to tables and queries within a Microsoft Access database.
 
 
 ## Setting

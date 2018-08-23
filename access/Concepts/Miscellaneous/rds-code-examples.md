@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 Use the following code examples to learn how to use the RDS objects, methods, properties, and events.
 
-
- **Note**  Paste the entire code example into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
+> [!NOTE] 
+> Paste the entire code example into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
 
 
 - [RDS Code Examples in Microsoft Visual Basic](rds-code-examples-in-microsoft-visual-basic.md)

@@ -42,13 +42,13 @@ In Visual Basic , use the ADO  **Append** method of the **Indexes** collection t
 
 Use the  **Indexed** property to find and sort records by using a single field in a table. The field can hold either unique or non-unique values. For example, you can create an index on an EmployeeID field in an Employees table in which each employee ID is unique or you can create an index on a Name field in which some names may be duplicates.
 
-
- **Note**  You can't index Memo, Hyperlink, or OLE Object data type fields.
+> [!NOTE] 
+> You can't index Memo, Hyperlink, or OLE Object data type fields.
 
 You can create as many indexes as you need. The indexes are created when you save the table and are automatically updated when you change or add records. You can add or delete indexes at any time in table Design view.
 
-
- **Tip**  You can specify text that is commonly used at the beginning or the end of a field name (such as "ID", "code", or "num") for the  **AutoIndex On Import/Create** option on the **Tables/Queries** tab, available by clicking **Options** on the **Tools** menu. When you import data files that contain this text in their field names, Microsoft Access creates an index for these fields.
+> [!TIP] 
+> You can specify text that is commonly used at the beginning or the end of a field name (such as "ID", "code", or "num") for the  **AutoIndex On Import/Create** option on the **Tables/Queries** tab, available by clicking **Options** on the **Tools** menu. When you import data files that contain this text in their field names, Microsoft Access creates an index for these fields.
 
 If the primary key for a table is a single field, Microsoft Access will automatically set the  **Indexed** property for that field to Yes (No Duplicates).
 

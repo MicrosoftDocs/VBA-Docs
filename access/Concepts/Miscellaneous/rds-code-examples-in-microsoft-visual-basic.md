@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 Use the following code examples to learn how to use RDS properties when writing in Visual Basic.
 
-
- **Note**  Paste the entire code example, from Sub to End Sub, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
+> [!NOTE] 
+> Paste the entire code example, from Sub to End Sub, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
 
 
 ## Properties
