@@ -19,7 +19,7 @@ When you install the Microsoft® Jet version 3.5 Engine database driver, the Set
 
 ## Microsoft Jet Engine Initialization Settings
 
-The  **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
+The **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
 ```
@@ -78,7 +78,7 @@ The Microsoft Access database engine uses the following entries.
 
 ## Microsoft Jet Engine ISAM Formats
 
-The  **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
+The **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
 
 
 
@@ -92,13 +92,12 @@ The  **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
 
  **Note**  When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
