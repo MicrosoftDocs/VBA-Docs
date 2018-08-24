@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Rows Property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the rows in the specified range. Read-only **Range** object.
+Returns a **[Range](Excel.Range(object).md)** object that represents the rows in the specified range.
 
 
 ## Syntax
@@ -25,10 +25,13 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the rows i
 
 ## Remarks
 
-Using this property without an object qualifier is equivalent to using  `ActiveSheet.Rows`.
+To return a single row, include an index in parentheses. For example, `Selection.Rows(1)` returns the first row of the selection. 
 
 When applied to a  **Range** object that's a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object has two areas — A1:B2 and C3:D4 — `Selection.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test `Areas.Count` to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
 
+The returned range might be outside the specified range. For example, `Range("A1:B2").Rows(5).Select` returns cells A5:B5.
+
+Using the `Rows` property without an object qualifier is equivalent to using  `ActiveSheet.Rows`. For more information, see the [Worksheet.Rows Property](excel.worksheet.rows.md).
 
 ## Example
 
@@ -76,6 +79,5 @@ End If
 
 ## See also
 
-
 [Range Object](Excel.Range(object).md)
-
+[Worksheet.Rows Property](excel.worksheet.rows.md)
