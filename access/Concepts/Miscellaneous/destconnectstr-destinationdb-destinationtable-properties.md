@@ -1,5 +1,5 @@
 ---
-title: DestConnectStr, DestinationDB, DestinationTable Properties
+title: DestConnectStr, DestinationDB, DestinationTable properties
 keywords: vbaac10.chm6181
 f1_keywords:
 - vbaac10.chm6181
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DestConnectStr, DestinationDB, DestinationTable Properties
+# DestConnectStr, DestinationDB, DestinationTable properties
 
 **Applies to:** Access 2013 | Access 2016
 

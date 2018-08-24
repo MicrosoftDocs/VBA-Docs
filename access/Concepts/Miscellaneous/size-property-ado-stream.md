@@ -1,32 +1,28 @@
 ---
-title: Size Property (ADO Stream)
-ms.prod: access
+title: Size roperty (ADO stream)
+ms.prod: accpess
 ms.assetid: deb84313-36d1-fa49-e4cd-daecab96f343
 ms.date: 06/08/2017
 ---
 
 
-# Size Property (ADO Stream)
-
-  
+# Size property (ADO stream)
 
 **Applies to:** Access 2013 | Access 2016
 
-
-
 Indicates the size of the stream in number of bytes.
 
-## Return Values
+## Return values
 
-Returns a  **Long** value that specifies the size of the stream in number of bytes. The default value is the size of the stream, or -1 if the size of the stream is not known.
+Returns a **Long** value that specifies the size of the stream in number of bytes. The default value is the size of the stream, or -1 if the size of the stream is not known.
 
 
 ## Remarks
 
- **Size** can be used only with open[Stream](http://msdn.microsoft.com/library/d49b1514-e0b4-0aca-d5c2-8266f3f4fe65%28Office.15%29.aspx) objects.
+**Size** can be used only with open [Stream](http://msdn.microsoft.com/library/d49b1514-e0b4-0aca-d5c2-8266f3f4fe65%28Office.15%29.aspx) objects.
 
 > [!NOTE] 
-> Any number of bits can be stored in a  **Stream** object, limited only by system resources. If the **Stream** contains more bits than can be represented by a **Long** value, **Size** is truncated and therefore does not accurately represent the length of the **Stream**.
+> Any number of bits can be stored in a **Stream** object, limited only by system resources. If the **Stream** contains more bits than can be represented by a **Long** value, **Size** is truncated and therefore does not accurately represent the length of the **Stream**.
 
 ## See also
 

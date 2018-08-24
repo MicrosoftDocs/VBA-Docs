@@ -1,5 +1,5 @@
 ---
-title: Event Properties
+title: Event properties
 keywords: vbaac10.chm4998
 f1_keywords:
 - vbaac10.chm4998
@@ -9,30 +9,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Event Properties
-
-  
+# Event properties
 
 **Applies to:** Access 2013 | Access 2016
 
-Event properties cause a macro or the associated Visual Basic event procedure to run when a particular event occurs. For example, if you enter the name of a macro in a command button's  **OnClick** property, that macro runs when the command button is clicked.
+Event properties cause a macro or the associated Visual Basic event procedure to run when a particular event occurs. For example, if you enter the name of a macro in a command button's **OnClick** property, that macro runs when the command button is clicked.
 
 
 ## Setting
 
 To run a macro, enter the name of the macro. You can choose an existing macro in the list. If the macro is in a macro group, it will be listed under the macro group name, as  _macrogroupname_. _macroname_.
 
-To run the event procedure associated with the event, select  **[Event Procedure]** in the list.
+To run the event procedure associated with the event, select **[Event Procedure]** in the list.
 
 
 > [!NOTE] 
-> Although using an event procedure is the recommended method for running Visual Basic code in response to an event, you can also run a user-defined function when an event occurs. To run a user-defined function, place an equal sign (=) before the function name and parentheses after it, as in  **=** _functionname_ **( )**.
+> Although using an event procedure is the recommended method for running Visual Basic code in response to an event, you can also run a user-defined function when an event occurs. To run a user-defined function, place an equal sign (=) before the function name and parentheses after it, as in **=** _functionname_ **( )**.
 
 You can set event properties in the [property sheet](http://msdn.microsoft.com/library/03349d86-f107-9e49-89df-62f55f3a0735%28Office.15%29.aspx) for an object, in a macro , or by using Visual Basic. Note that you can't set any event properties while you're formatting or printing a form or report.
 
 > [!TIP] 
-> You can use builders to help you set an event property. To use them, click the  **Build** button
-![Builder button](../../../images/buildbut_ZA06047218.gif)to the right of the property box, or right-click the property box and then click  **Build** on the shortcut menu. In the **Choose Builder** dialog box, select:
+> You can use builders to help you set an event property. To use them, click the **Build** button
+![Builder button](../../../images/buildbut_ZA06047218.gif) to the right of the property box, or right-click the property box and then click **Build** on the shortcut menu. In the **Choose Builder** dialog box, select:
 
 
 - The Macro Builder to create and specify a macro for this event property. You can also use the Macro Builder to edit a macro already specified by the property.
@@ -42,8 +40,6 @@ You can set event properties in the [property sheet](http://msdn.microsoft.com/l
 - In a Microsoft Access database, the Expression Builder to choose and specify a user-defined function for this event property.
     
 In Visual Basic, set the property to a string expression.
-
-
 
 |**To run this**|**Use this syntax**|**Example**|
 |:-----|:-----|:-----|

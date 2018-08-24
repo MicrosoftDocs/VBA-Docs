@@ -1,25 +1,20 @@
 ---
-title: Handler Property Example (VC++)
+title: Handler property example (VC++)
 ms.prod: access
 ms.assetid: 9dcdb181-d4d9-36f9-ca64-153076af7205
 ms.date: 06/08/2017
 ---
 
 
-# Handler Property Example (VC++)
-
-  
+# Handler property example (VC++)
 
 **Applies to:** Access 2013 | Access 2016
 
-This example demonstrates the [RDS DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object[Handler](http://msdn.microsoft.com/library/aaf8c8c6-f95b-3cf3-b3f6-203f37464c87%28Office.15%29.aspx) property. (See[DataFactory Customization](http://msdn.microsoft.com/library/43cd7416-1f05-87ee-22f0-6cf0d2d1b39f%28Office.15%29.aspx) for more details.)
+This example demonstrates the [RDS DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object [Handler](http://msdn.microsoft.com/library/aaf8c8c6-f95b-3cf3-b3f6-203f37464c87%28Office.15%29.aspx) property. (See [DataFactory Customization](http://msdn.microsoft.com/library/43cd7416-1f05-87ee-22f0-6cf0d2d1b39f%28Office.15%29.aspx) for more details.)
 
-Assume the following sections in the parameter file, Msdfmap.ini, located on the server:
-
-
+Assume that the following sections in the parameter file, Msdfmap.ini, are located on the server:
 
 ```sql
- 
 [connect AuthorDataBase] 
 Access=ReadWrite 
 Connect="DSN=Pubs" 
@@ -28,12 +23,9 @@ SQL="SELECT * FROM Authors WHERE au_id = ?"
 
 ```
 
-Your code looks like the following. The command assigned to the [SQL](sql-property-ado.md) property will match the ** _AuthorById_** identifier and will retrieve a row for author Michael O'Leary. Although the[Connect](http://msdn.microsoft.com/library/11aa3284-18e9-6d2d-761b-c25090370b77%28Office.15%29.aspx) property in your code specifies the Northwind data source, that data source will be overwritten by the Msdfmap.ini _connect_ section. The **DataControl** object[Recordset](http://msdn.microsoft.com/library/5f4bb72d-ddfa-41c0-c353-b3a6632b4a91%28Office.15%29.aspx) property is assigned to a disconnected[Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) object purely as a coding convenience.
+Your code looks like the following. The command assigned to the [SQL](sql-property-ado.md) property will match the **_AuthorById_** identifier and will retrieve a row for author Michael O'Leary. Although the [Connect](http://msdn.microsoft.com/library/11aa3284-18e9-6d2d-761b-c25090370b77%28Office.15%29.aspx) property in your code specifies the Northwind data source, that data source will be overwritten by the Msdfmap.ini _connect_ section. The **DataControl** object [Recordset](http://msdn.microsoft.com/library/5f4bb72d-ddfa-41c0-c353-b3a6632b4a91%28Office.15%29.aspx) property is assigned to a disconnected [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) object purely as a coding convenience.
 
-
-
-```
-
+```cpp
 // BeginHandlerCpp#import "c:\Program Files\Common Files\System\ADO\msado15.dll" \
 no_namespace rename("EOF", "EndOfFile")#import "C:\Program Files\Common Files\System\MSADC\msadco.dll"
 #include <ole2.h>#include <stdio.h>

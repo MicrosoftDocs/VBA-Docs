@@ -217,7 +217,7 @@
 ##### [Required client settings](../access/concepts/miscellaneous/required-client-settings.md)
 ##### [Required property (Access)](../access/concepts/miscellaneous/required-property-access.md)
 ##### [Server property example (VBScript)](../access/concepts/miscellaneous/server-property-example-vbscript.md)
-##### [Set Startup properties from Visual Basic](../access/concepts/miscellaneous/set-startup-properties-from-visual-basic.md)
+##### [Set startup properties from Visual Basic](../access/concepts/miscellaneous/set-startup-properties-from-visual-basic.md)
 ##### [SetObjectOwner method (ADOX)](../access/concepts/miscellaneous/setobjectowner-method-adox.md)
 ##### [Size property (ADO stream)](../access/concepts/miscellaneous/size-property-ado-stream.md)
 ##### [SourceConnectStr, SourceDatabase properties](../access/concepts/miscellaneous/sourceconnectstr-sourcedatabase-properties.md)

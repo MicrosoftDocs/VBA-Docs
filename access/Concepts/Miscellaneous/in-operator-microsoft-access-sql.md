@@ -1,48 +1,34 @@
 ---
-title: In Operator (Microsoft Access SQL)
+title: In pperator (Microsoft Access SQL)
 ms.prod: access
 ms.assetid: ee4f1d71-82c4-3b0d-94b6-ad3f5a7608b8
 ms.date: 06/08/2017
 ---
 
 
-# In Operator (Microsoft Access SQL)
-
-  
+# In pperator (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-
 
 Determines whether the value of an expression is equal to any of several values in a specified list.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
- _expr_ [ **Not** ] **In(** _value1, value2, …_ **)**
+_expr_ [ **Not** ] **In**( _value1, value2, …_ )
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
-The  **In** operator syntax has these parts:
-
-
+The **In** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _expr_|Expression identifying the field that contains the data you want to evaluate.|
-| _value1_, _value2_|Expression or list of expressions against which you want to evaluate  _expr_.|
-If  _expr_ is found in the list of values _,_ the **In** operator returns **True**; otherwise, it returns **False**. You can include the **Not** logical operator to evaluate the opposite condition (that is, whether _expr_ is not in the list of values).
+| _value1_, _value2_|Expression or list of expressions against which you want to evaluate _expr_.|
 
-For example, you can use  **In** to determine which orders are shipped to a set of specified regions:
+If _expr_ is found in the list of values, the **In** operator returns **True**; otherwise, it returns **False**. You can include the **Not** logical operator to evaluate the opposite condition (that is, whether _expr_ is not in the list of values).
 
-
-
+For example, you can use **In** to determine which orders are shipped to a set of specified regions:
 
 ```sql
 SELECT * 
@@ -52,14 +38,10 @@ WHERE ShipRegion In ('Avon','Glos','Som')
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example uses the Orders table in the Northwind.mdb database to create a query that includes all orders shipped to Lancashire and Essex and the dates shipped. 
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
-
 
 ```vb
 Sub InX() 

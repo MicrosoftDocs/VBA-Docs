@@ -1,5 +1,5 @@
 ---
-title: LogMessages Property
+title: LogMessages property
 keywords: vbaac10.chm5187437
 f1_keywords:
 - vbaac10.chm5187437
@@ -11,29 +11,26 @@ ms.date: 06/08/2017
 ---
 
 
-# LogMessages Property
-
-  
+# LogMessages property
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **LogMessages** property in an SQL pass-through query to specify whether messages returned from an SQL database are stored in a messages table in the current Microsoft Access database.
+You can use the **LogMessages** property in an SQL pass-through query to specify whether messages returned from an SQL database are stored in a messages table in the current Microsoft Access database.
 
 > [!NOTE] 
-> The  **LogMessages** property applies only to pass-through queries.
+> The **LogMessages** property applies only to pass-through queries.
 
 
 ## Setting
 
-The  **LogMessages** property uses the following settings.
-
-
+The **LogMessages** property uses the following settings.
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|Microsoft Access stores messages returned from the SQL database in a messages table.|
 |No|**False** (0)|(Default) Microsoft Access doesn't store messages returned from the SQL database.|
-You can set this property by using the query's property sheet or Visual Basic .
+
+You can set this property by using the query's property sheet or Visual Basic.
 
 
 ## Remarks

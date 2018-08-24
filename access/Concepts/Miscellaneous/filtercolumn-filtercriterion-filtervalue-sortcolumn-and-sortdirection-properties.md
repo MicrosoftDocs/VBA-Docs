@@ -1,24 +1,18 @@
 ---
-title: FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties and Reset Method Example (VBScript)
+title: FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection properties and Reset method example (VBScript)
 ms.prod: access
 ms.assetid: bc22a6c4-b9d4-ad38-d802-4790ff3262a6
 ms.date: 06/08/2017
 ---
 
 
-# FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties and Reset Method Example (VBScript)
-
-  
+# FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection properties and Reset method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code shows how to set the  **RDS.DataControl** **Server** parameter at design time and bind it to a data-aware HTML table using a data source. Cut and paste the following code to Notepad or another text editor and save it as **FilterColumnVBS.asp**.
-
-
-
+The following code shows how to set the **RDS.DataControl** **Server** parameter at design time and bind it to a data-aware HTML table using a data source. Cut and paste the following code to Notepad or another text editor and save it as **FilterColumnVBS.asp**.
 
 ```vb
-
 <!-- BeginFilterColumnVBS --><%@ Language=VBScript %>
 <HTML><HEAD>
 <META name="VI60_DefaultClientScript" Content="VBScript"> 

@@ -1,5 +1,5 @@
 ---
-title: OutputAllFields Property
+title: OutputAllFields property
 keywords: vbaac10.chm4453
 f1_keywords:
 - vbaac10.chm4453
@@ -11,13 +11,11 @@ ms.date: 06/08/2017
 ---
 
 
-# OutputAllFields Property
-
-  
+# OutputAllFields property
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
+You can use the **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
 
 > [!NOTE] 
 > The **OutputAllFields** property applies only to append, make-table, and select queries.
@@ -25,25 +23,24 @@ You can use the  **OutputAllFields** property to show all fields in the query's 
 
 ## Setting
 
-The  **OutputAllFields** property uses the following settings.
-
-
+The **OutputAllFields** property uses the following settings.
 
 |**Setting**|**Description**|
 |:-----|:-----|
 |Yes|Displays all the fields in the underlying tables and in the field list of a form or report.|
 |No|(Default) Displays only fields that have the Show box selected in the query design grid.|
+
 You can set this property only by using the query's property sheet.
 
 > [!NOTE] 
-> The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields** property to Yes.
+> The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the **OutputAllFields** property to Yes.
 
 
 ## Remarks
 
-When the  **OutputAllFields** property is set to Yes, the only fields you need to include in the query design grid are those that you want to sort on or specify criteria for.
+When the **OutputAllFields** property is set to Yes, the only fields you need to include in the query design grid are those that you want to sort on or specify criteria for.
 
-When you save a filter as a query, Microsoft Access sets the  **OutputAllFields** property to Yes.
+When you save a filter as a query, Microsoft Access sets the **OutputAllFields** property to Yes.
 
 ## See also
 

@@ -1,24 +1,18 @@
 ---
-title: Members Example (VBScript)
+title: Members example (VBScript)
 ms.prod: access
 ms.assetid: 9466ea79-3300-07e0-41cc-45d83318e3ac
 ms.date: 06/08/2017
 ---
 
 
-# Members Example (VBScript)
-
-  
+# Members example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
 This sample uses an MDX query string to retrieve OLAP data and writes the resulting cellset to an HTML table structure using column spanning features for multiple-dimension cellsets.
 
-
-
-
 ```vb
- 
 <%@ Language=VBScript %> 
 <% 
 '************************************************************************ 
