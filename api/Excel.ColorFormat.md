@@ -24,14 +24,14 @@ Use one of the properties listed in the following table to return a  **ColorForm
 
 
 
-|**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
+|**Use this property**|**With this object**|**To return a ColorFormat object that represents this color**|
 |:-----|:-----|:-----|
-|**[BackColor](Excel.FillFormat.BackColor.md)**|**FillFormat**|The background fill color (used in a shaded or patterned fill)|
-|**[ForeColor](Excel.FillFormat.ForeColor.md)**|**FillFormat**|The foreground fill color (or simply the fill color for a solid fill)|
-|**[BackColor](Excel.LineFormat.BackColor.md)**|**LineFormat**|The background line color (used in a patterned line)|
-|**[ForeColor](Excel.LineFormat.ForeColor.md)**|**LineFormat**|The foreground line color (or just the line color for a solid line)|
-|**[ForeColor](Excel.ShadowFormat.ForeColor.md)**|**ShadowFormat**|The shadow color|
-|**[ExtrusionColor](Excel.ThreeDFormat.ExtrusionColor.md)**|**ThreeDFormat**|The color of the sides of an extruded object|
+|**[BackColor](excel.fillformat.backcolor.md)**|**[FillFormat](excel.fillformat.md)**|The background fill color (used in a shaded or patterned fill)|
+|**[ForeColor](excel.fillformat.forecolor.md)**|**[FillFormat](excel.fillformat.md)**|The foreground fill color (or simply the fill color for a solid fill)|
+|**[BackColor](excel.lineformat.backcolor.md)**|**[LineFormat](excel.lineformat.md)**|The background line color (used in a patterned line)|
+|**[ForeColor](excel.lineformat.forecolor.md)**|**[LineFormat](excel.lineformat.md)**|The foreground line color (or just the line color for a solid line)|
+|**[ForeColor](excel.shadowformat.forecolor.md)**|**[ShadowFormat](excel.shadowformat.md)**|The shadow color|
+|**[ExtrusionColor](excel.threedformat.extrusioncolor.md)**|**[ThreeDFormat](excel.threedformat.md)**|The color of the sides of an extruded object|
 
 ## Example
 
@@ -65,7 +65,3 @@ End With
 |[TintAndShade](Excel.ColorFormat.TintAndShade.md)|
 |[Type](Excel.ColorFormat.Type.md)|
 
-## See also
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
