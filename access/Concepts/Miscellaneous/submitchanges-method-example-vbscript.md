@@ -1,25 +1,21 @@
 ---
-title: SubmitChanges Method Example (VBScript)
+title: SubmitChanges method example (VBScript)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 41a83896-90e1-f086-2e30-c7afffa23347
 ms.date: 06/08/2017
 ---
 
 
-# SubmitChanges Method Example (VBScript)
-
-  
+# SubmitChanges method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code fragment shows how to use the  **SubmitChanges** method with an **RDS.DataControl** object.
+The following code fragment shows how to use the **SubmitChanges** method with an **RDS.DataControl** object.
 
-To test this example, cut and paste this code into a normal ASP document and name it  **SubmitChangesCtrlVBS.asp**. ASP script will identify your server.
-
-
+To test this example, cut and paste this code into a normal ASP document and name it **SubmitChangesCtrlVBS.asp**. ASP script will identify your server.
 
 ```vb
-
 <!-- BeginCancelUpdateVBS --><%@Language=VBScript%> 
 <%'Option Explicit%><% 'use the following META tag instead of adovbs.inc%>
 <!--METADATA TYPE="typelib" uuid="00000205-0000-0010-8000-00AA006D2EA4" --><HTML>
@@ -65,13 +61,11 @@ End Sub-->
 <!-- EndCancelUpdateVBS -->
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
 
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)

@@ -1,25 +1,24 @@
 ---
-title: Type Property Example (Property) (VJ++)
+title: Type property example (Property) (VJ++)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 405f1769-f661-24e7-22db-0c725ee55576
 ms.date: 06/08/2017
 ---
 
 
-# Type Property Example (Property) (VJ++)
-
-  
+# Type property example (Property) (VJ++)
 
 **Applies to:** Access 2013 | Access 2016
 
-This example demonstrates the [Type](http://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property. It is a model of a utility for listing the names and types of a collection, like[Properties](http://msdn.microsoft.com/library/4d662790-1252-c930-e6f9-edf6a38636af%28Office.15%29.aspx), [Fields](http://msdn.microsoft.com/library/029aa738-8726-54a6-1813-b152813948bc%28Office.15%29.aspx), etc.
+This example demonstrates the [Type](http://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property. It is a model of a utility for listing the names and types of a collection, like [Properties](http://msdn.microsoft.com/library/4d662790-1252-c930-e6f9-edf6a38636af%28Office.15%29.aspx), [Fields](http://msdn.microsoft.com/library/029aa738-8726-54a6-1813-b152813948bc%28Office.15%29.aspx), etc.
 
-We do not need to open the [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) to access its **Properties** collection; they come into existence when the **Recordset** object is instantiated. However, setting the[CursorLocation](http://msdn.microsoft.com/library/8a048bd4-ae25-a555-1c07-14364b7e6560%28Office.15%29.aspx) property to **adUseClient** adds several dynamic properties to the **Recordset** object's **Properties** collection, making the example a little more interesting. For sake of illustration, we explicitly use the[Item](http://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx) property to access each[Property](http://msdn.microsoft.com/library/eec318fd-f5ed-d9ef-9830-848439a8914d%28Office.15%29.aspx) object.
+We do not need to open the [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) to access its **Properties** collection; they come into existence when the **Recordset** object is instantiated. 
+
+However, setting the [CursorLocation](http://msdn.microsoft.com/library/8a048bd4-ae25-a555-1c07-14364b7e6560%28Office.15%29.aspx) property to **adUseClient** adds several dynamic properties to the **Recordset** object's **Properties** collection, making the example a little more interesting. For sake of illustration, we explicitly use the [Item](http://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx) property to access each [Property](http://msdn.microsoft.com/library/eec318fd-f5ed-d9ef-9830-848439a8914d%28Office.15%29.aspx) object.
 
 
-
-```c#
- 
+```csharp
 // BegintTypePropertyJ 
 import com.ms.wfc.data.*; 
 import java.io.* ; 
@@ -261,13 +260,11 @@ public class TypePropertyX
 
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
 
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
