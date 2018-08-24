@@ -1,5 +1,6 @@
 ---
 title: OutputAllFields property
+ROBOTS: INDEX
 keywords: vbaac10.chm4453
 f1_keywords:
 - vbaac10.chm4453

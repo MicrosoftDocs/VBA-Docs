@@ -1,24 +1,21 @@
 ---
-title: Type Property (Table) (ADOX)
+title: Type property (Table) (ADOX)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: d07cdfc1-da65-74b7-ab9c-f2b79f24b59e
 ms.date: 06/08/2017
 ---
 
 
-# Type Property (Table) (ADOX)
-
-  
+# Type property (Table) (ADOX)
 
 **Applies to:** Access 2013 | Access 2016
 
-
-
 Indicates the type of a table.
 
-## Return Values
+## Return values
 
-Returns a  **String** value that specifies the type of table; for example, "TABLE", "SYSTEM TABLE", or "GLOBAL TEMPORARY".
+Returns a **String** value that specifies the type of table; for example, "TABLE", "SYSTEM TABLE", or "GLOBAL TEMPORARY".
 
 
 ## Remarks

@@ -1,5 +1,6 @@
 ---
 title: IN Clause (Microsoft Access SQL)
+ROBOTS: INDEX
 keywords: jetsql40.chm5277567
 f1_keywords:
 - jetsql40.chm5277567

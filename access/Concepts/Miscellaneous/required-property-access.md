@@ -1,5 +1,6 @@
 ---
 title: Required pProperty (Access)
+ROBOTS: INDEX
 keywords: vbaac10.chm7020
 f1_keywords:
 - vbaac10.chm7020

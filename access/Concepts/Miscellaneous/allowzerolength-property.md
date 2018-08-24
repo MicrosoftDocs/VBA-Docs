@@ -1,5 +1,6 @@
 ---
 title: AllowZeroLength property
+ROBOTS: INDEX
 keywords: vbaac10.chm4268
 f1_keywords:
 - vbaac10.chm4268

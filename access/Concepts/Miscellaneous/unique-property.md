@@ -1,5 +1,6 @@
 ---
-title: Unique Property
+title: Unique property
+ROBOTS: INDEX
 keywords: acmain11.chm6173
 f1_keywords:
 - acmain11.chm6173
@@ -11,37 +12,32 @@ ms.date: 06/08/2017
 ---
 
 
-# Unique Property
-
-  
+# Unique property
 
 **Applies to:** Access 2013 | Access 2016
-
-
 
 You can use the Unique property to specify that an index enforces uniqueness of the data in the table's key index.
 
 ## Setting
 
-The  **Unique** property uses the following settings.
-
-
+The **Unique** property uses the following settings.
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|The index is a key (unique) index.|
 |No|**False** (0)|The index is a non-key index.|
+
 You can set this property in the Indexes window of table Design view or by using Visual Basic.
 
 > [!NOTE] 
-> To access the  **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
+> To access the **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
 
 
 ## Remarks
 
 A key index optimizes finding records. It consists of one or more fields that uniquely arrange all records in a table in a predefined order. If the index consists of one field, values in that field must be unique. If the index consists of more than one field, duplicate values can occur in each field, but each combination of values from all the indexed fields must be unique. A non-key index has fields with values that are not necessarily unique. 
 
-An index is the primary index for a table if its  **Primary** property is set to Yes. Each table can have only one primary index.
+An index is the primary index for a table if its **Primary** property is set to Yes. Each table can have only one primary index.
 
 ## See also
 

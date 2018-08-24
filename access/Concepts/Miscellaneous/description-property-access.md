@@ -1,5 +1,6 @@
 ---
 title: Description property (Access)
+ROBOTS: INDEX
 keywords: vbaac10.chm3487
 f1_keywords:
 - vbaac10.chm3487

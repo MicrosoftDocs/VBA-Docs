@@ -1,5 +1,6 @@
 ---
 title: Intrinsic constants as bit masks
+ROBOTS: INDEX
 keywords: vbaac10.chm13876
 f1_keywords:
 - vbaac10.chm13876

@@ -1,5 +1,6 @@
 ---
 title: Execute method (ADO command)
+ROBOTS: INDEX
 keywords: ado210.chm1231051
 f1_keywords:
 - ado210.chm1231051

@@ -1,5 +1,6 @@
 ---
 title: Create a portion in your application's registry tree to manage settings
+ROBOTS: INDEX
 keywords: acmain11.chm1032167
 f1_keywords:
 - acmain11.chm1032167

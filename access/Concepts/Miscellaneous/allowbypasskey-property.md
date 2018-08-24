@@ -1,5 +1,6 @@
 ---
 title: AllowBypassKey property
+ROBOTS: INDEX
 keywords: vbaac10.chm10101
 f1_keywords:
 - vbaac10.chm10101

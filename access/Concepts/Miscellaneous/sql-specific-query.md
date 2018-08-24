@@ -1,5 +1,6 @@
 ---
 title: SQL specific query
+ROBOTS: INDEX
 keywords: vbaac10.chm47377
 f1_keywords:
 - vbaac10.chm47377

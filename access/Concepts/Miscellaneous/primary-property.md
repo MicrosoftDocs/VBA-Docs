@@ -1,5 +1,6 @@
 ---
 title: Primary property
+ROBOTS: INDEX
 keywords: vbaac10.chm4470
 f1_keywords:
 - vbaac10.chm4470

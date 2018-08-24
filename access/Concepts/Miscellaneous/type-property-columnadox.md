@@ -1,24 +1,21 @@
 ---
-title: Type Property (Column) (ADOX)
+title: Type property (Column) (ADOX)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 3e222e89-f57e-28f9-8488-81828f882643
 ms.date: 06/08/2017
 ---
 
 
-# Type Property (Column) (ADOX)
-
-  
+# Type property (Column) (ADOX)
 
 **Applies to:** Access 2013 | Access 2016
 
-
-
 Indicates the data type of a column.
 
-## Settings and Return Values
+## Settings and return values
 
-Sets or returns a  **Long** value that can be one of the[DataTypeEnum](http://msdn.microsoft.com/library/a8ab7616-552f-ed5f-ed55-95254cfb374a%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
+Sets or returns a **Long** value that can be one of the [DataTypeEnum](http://msdn.microsoft.com/library/a8ab7616-552f-ed5f-ed55-95254cfb374a%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
 
 
 ## Remarks

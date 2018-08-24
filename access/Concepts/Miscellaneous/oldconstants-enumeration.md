@@ -1,5 +1,6 @@
 ---
 title: OldConstants enumeration
+ROBOTS: INDEX
 keywords: vbaac10.chm10005
 f1_keywords:
 - vbaac10.chm10005

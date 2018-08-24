@@ -1,12 +1,13 @@
 ---
-title: In pperator (Microsoft Access SQL)
+title: In operator (Microsoft Access SQL)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: ee4f1d71-82c4-3b0d-94b6-ad3f5a7608b8
 ms.date: 06/08/2017
 ---
 
 
-# In pperator (Microsoft Access SQL)
+# In operator (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 

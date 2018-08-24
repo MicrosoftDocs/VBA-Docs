@@ -1,5 +1,6 @@
 ---
 title: MaxRecords property
+ROBOTS: INDEX
 keywords: vbaac10.chm4422
 f1_keywords:
 - vbaac10.chm4422

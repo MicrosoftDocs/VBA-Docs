@@ -1,5 +1,6 @@
 ---
 title: Object properties
+ROBOTS: INDEX
 keywords: vbaac10.chm5187733
 f1_keywords:
 - vbaac10.chm5187733

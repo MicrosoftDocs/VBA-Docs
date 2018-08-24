@@ -1,5 +1,6 @@
 ---
 title: TopValues property
+ROBOTS: INDEX
 keywords: vbaac10.chm4525
 f1_keywords:
 - vbaac10.chm4525

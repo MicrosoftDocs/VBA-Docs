@@ -1,5 +1,6 @@
 ---
 title: Microsoft Access constants overview
+ROBOTS: INDEX
 keywords: vbaac10.chm4052
 f1_keywords:
 - vbaac10.chm4052

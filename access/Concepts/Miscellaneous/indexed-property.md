@@ -1,5 +1,6 @@
 ---
 title: Indexed property
+ROBOTS: INDEX
 keywords: vbaac10.chm5187337
 f1_keywords:
 - vbaac10.chm5187337

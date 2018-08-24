@@ -1,5 +1,6 @@
 ---
 title: About compressing the data in a Text, Memo, or Hyperlink field
+ROBOTS: INDEX
 keywords: vbaac10.chm1043024
 f1_keywords:
 - vbaac10.chm1043024

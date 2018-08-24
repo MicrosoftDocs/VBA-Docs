@@ -1,21 +1,17 @@
 ---
-title: URL Property Example (VBScript)
+title: URL property example (VBScript)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 667f3927-e5fa-4cc9-b341-027177d1d2d8
 ms.date: 06/08/2017
 ---
 
 
-# URL Property Example (VBScript)
-
-  
+# URL property example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code demonstrates how to set the  **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
-
-
-
+The following code demonstrates how to set the **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
 
 ```vb
 <!-- BeginURLClientVBS --> 
@@ -96,7 +92,7 @@ End Sub
 <!-- EndURLClientVBS -->
 ```
 
-The server-side code that exists in  **URLServerVBS.asp** submits the updated **Recordset** to the data source.
+The server-side code that exists in **URLServerVBS.asp** submits the updated **Recordset** to the data source.
 
 
 

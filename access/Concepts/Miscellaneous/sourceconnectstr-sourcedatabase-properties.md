@@ -1,5 +1,6 @@
 ---
 title: SourceConnectStr, SourceDatabase properties
+ROBOTS: INDEX
 keywords: vbaac10.chm4548
 f1_keywords:
 - vbaac10.chm4548

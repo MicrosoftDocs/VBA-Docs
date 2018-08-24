@@ -1,24 +1,21 @@
 ---
-title: Type Property (Key) (ADOX)
+title: Type property (Key) (ADOX)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 119a39e3-a397-1afb-2588-8129140810bf
 ms.date: 06/08/2017
 ---
 
 
-# Type Property (Key) (ADOX)
-
-  
+# Type property (Key) (ADOX)
 
 **Applies to:** Access 2013 | Access 2016
 
-
-
 Indicates the type of the key.
 
-## Settings and Return Values
+## Settings and return values
 
-Sets or returns a  **Long** value that can be one of the[KeyTypeEnum](http://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
+Sets or returns a **Long** value that can be one of the [KeyTypeEnum](http://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
 
 
 ## Remarks

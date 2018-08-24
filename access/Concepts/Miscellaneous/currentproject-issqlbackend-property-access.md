@@ -1,5 +1,6 @@
 ---
 title: CurrentProject.IsSQLBackend property (Access)
+ROBOTS: INDEX
 keywords: vbaac10.chm14747
 f1_keywords:
 - vbaac10.chm14747

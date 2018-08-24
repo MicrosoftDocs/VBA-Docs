@@ -1,5 +1,6 @@
 ---
 title: DestConnectStr, DestinationDB, DestinationTable properties
+ROBOTS: INDEX
 keywords: vbaac10.chm6181
 f1_keywords:
 - vbaac10.chm6181

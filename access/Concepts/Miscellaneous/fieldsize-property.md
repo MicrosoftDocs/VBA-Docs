@@ -1,5 +1,6 @@
 ---
 title: FieldSize property
+ROBOTS: INDEX
 keywords: vbaac10.chm4349
 f1_keywords:
 - vbaac10.chm4349

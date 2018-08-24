@@ -1,5 +1,6 @@
 ---
 title: And operator
+ROBOTS: INDEX
 keywords: jetsql40.chm5277585
 f1_keywords:
 - jetsql40.chm5277585

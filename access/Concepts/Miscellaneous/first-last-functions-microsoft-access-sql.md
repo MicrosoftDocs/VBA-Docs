@@ -1,5 +1,6 @@
 ---
 title: First, Last functions (Microsoft Access SQL)
+ROBOTS: INDEX
 keywords: jetsql40.chm5278825
 f1_keywords:
 - jetsql40.chm5278825
