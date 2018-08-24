@@ -44,7 +44,7 @@ The following example uses the Orders table in the Northwind.mdb database to cre
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
 
-```vb
+```sql
 Sub InX() 
  
     Dim dbs As Database, rst As Recordset 

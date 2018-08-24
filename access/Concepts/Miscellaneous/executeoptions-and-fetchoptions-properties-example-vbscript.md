@@ -13,8 +13,7 @@ ms.date: 06/08/2017
 
 The following code shows how to set the [ExecuteOptions](http://msdn.microsoft.com/library/fb244cbd-9a03-9128-1373-694c9061c9da%28Office.15%29.aspx) and [FetchOptions](http://msdn.microsoft.com/library/0d86c5e4-9abc-5c0e-dc04-4183f4c278cc%28Office.15%29.aspx) properties at design time. If left unset, **ExecuteOptions** defaults to **adcExecSync**. This setting indicates that when the **RDS.Refresh** method is called, it will be executed on the current calling thread—that is, synchronously. Cut and paste the following code to Notepad or another text editor and save it as **ExecuteOptionsDesignVBS.asp**.
 
-```sql
-
+```vb
 <!-- BeginExecuteOptionsDesignVBS --><%@ Language=VBScript %>
 <html><head>
 <meta name="VI60_DefaultClientScript" content=VBScript><meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
@@ -50,7 +49,7 @@ font-size: x-small;}
 
 The following example shows how to set the **ExecuteOptions** and **FetchOptions** properties at run time in VBScript code. See the [Refresh](http://msdn.microsoft.com/library/968baa7c-9128-7155-a1eb-d77aedda6601%28Office.15%29.aspx) method for a working example of these properties. Cut and paste the following code to Notepad or another text editor and save it as **ExecuteOptionsRuntimeVBS.asp**.
 
-```sql
+```vb
 <!-- BeginExecuteOptionsRuntimeVBS --><%@ Language=VBScript %>
 <html><head>
 <meta name="VI60_DefaultClientScript" content=VBScript><meta name="GENERATOR" content="Microsoft Visual Studio 6.0">

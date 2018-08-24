@@ -53,7 +53,7 @@ The following procedure describes how to open and use a database that contains o
 > If the database uses Visual Basic for Applications (VBA) code, Access blocks the code by default.
 
 
-## Turn off the Ribbon and use just your custom menu bars
+## Turn off the Ribbon and use your custom menu bars
 
 The following procedure describes how to hide the ribbon by changing settings in Access 2003 and in Access 2010. To follow these steps, you must have a database created in an earlier version of Access, and that database must contain a custom menu bar. For more information about creating a custom menu bar, see the Help for your earlier version of Access.
 

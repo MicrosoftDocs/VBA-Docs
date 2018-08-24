@@ -21,7 +21,7 @@ The Button argument is a bit field with bits corresponding to the left mouse but
 The intrinsic constants that Microsoft Access provides for the Button argument have the following values.
 
 |**Constant**|**Value**|
-|:-----|:-----|
+|:-----|:-----:|
 |**acLeftButton**|1|
 |**acRightButton**|2|
 |**acMiddleButton**|4|
@@ -31,7 +31,7 @@ The Shift argument is a bit field, with the least significant bits corresponding
 The intrinsic constants that Microsoft Access provides for the Shift argument have the following values.
 
 |**Constant**|**Value**|
-|:-----|:-----|
+|:-----|:-----:|
 |**acShiftMask**|1|
 |**acCtrlMask**|2|
 |**acAltMask**|4|
