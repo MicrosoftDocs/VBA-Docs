@@ -1,5 +1,5 @@
 ---
-title: Display and Use the File Dialog Box
+title: Display and use the File dialog box
 ms.prod: access
 ms.assetid: e4690a8b-f976-3be9-70b0-2d8c2377a19a
 ROBOTS: INDEX
@@ -7,16 +7,14 @@ ms.date: 06/08/2017
 ---
 
 
-# Display and Use the File Dialog Box
+# Display and use the File dialog box
 
-The  **[FileDialog](../../../api/Access.Application.FileDialog.md)** object allows you to display the file dialog box used by Access and to determine what files were selected by the user. The **[SelectedItems](../../../api/Office.FileDialog.SelectedItems.md)** property of the **FileDialog** object contains the paths to the files selected by the user. By using a **For...Each** loop, you can enumerate this collection and display each file; the SelectedItems property constructs and returns an iterator over the collection.
+The **[FileDialog](../../../api/Access.Application.FileDialog.md)** object allows you to display the File dialog box used by Access and to determine what files were selected by the user. The **[SelectedItems](../../../api/Office.FileDialog.SelectedItems.md)** property of the **FileDialog** object contains the paths to the files selected by the user. By using a **For...Each** loop, you can enumerate this collection and display each file; the SelectedItems property constructs and returns an iterator over the collection.
 
 The following example adds the files selected by the user to a list box named FileList.
 
- **Note**  This example requires a reference to the Microsoft Office 12.0 Object Library.
-
-
-
+> [!NOTE] 
+> This example requires a reference to the Microsoft Office 12.0 Object Library.
 
 ```vb
 Private Sub cmdFileDialog_Click() 

@@ -1,24 +1,18 @@
 ---
-title: Connect Property Example (VBScript)
+title: Connect property example (VBScript)
 ms.prod: access
 ms.assetid: bd88c63f-89d9-c73b-3ee0-288ff078b938
 ms.date: 06/08/2017
 ---
 
 
-# Connect Property Example (VBScript)
-
-  
+# Connect property example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
 This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3284-18e9-6d2d-761b-c25090370b77%28Office.15%29.aspx) property at design time:
 
-
-
-
-```
- 
+```vb
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID="ADC1"> 
 . 
    <PARAM NAME="SQL" VALUE="Select * from Sales"> 
@@ -29,13 +23,10 @@ This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3
 
 ```
 
-The following example shows how to set the  **Connect** property at run time in VBScript code.
-To test this example, copy and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **ConnectVBS.asp**. ASP script will identify your server.
+The following example shows how to set the **Connect** property at run time in VBScript code.
+To test this example, copy and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **ConnectVBS.asp**. ASP script will identify your server.
 
-
-
-```
-
+```vb
 <!-- BeginConnectVBS --><%@ Language=VBScript %>
 <HTML><HEAD>
 <title>ADO Connect Property</title><%' local style sheet used for display%>

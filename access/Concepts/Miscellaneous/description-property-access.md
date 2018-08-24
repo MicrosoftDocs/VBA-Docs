@@ -1,5 +1,5 @@
 ---
-title: Description Property (Access)
+title: Description property (Access)
 keywords: vbaac10.chm3487
 f1_keywords:
 - vbaac10.chm3487
@@ -11,32 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# Description Property (Access)
-
-  
+# Description property (Access)
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **Description** property to provide information about objects contained in the Database window as well as about individual table or query fields.
+You can use the **Description** property to provide information about objects contained in the Database window as well as about individual table or query fields.
 
 
 ## Setting
 
-For a database object, click  **Properties** on the **View** menu and enter the description text in the **Description** box. For tables or queries, you can also enter the description in the table's or query's property sheet. An object's description appears next to the object's name in the Database window when you click **Details** on the **View** menu.
+For a database object, click **Properties** on the **View** menu and enter the description text in the **Description** box. For tables or queries, you can also enter the description in the table's or query's property sheet. An object's description appears next to the object's name in the Database window when you click **Details** on the **View** menu.
 
 For individual table or query fields, enter the field description in the upper portion of table Design view or in the Field Properties property sheet in the Query window. The maximum length is 255 characters.
 
-In Visual Basic , to set this property for the first time in a Microsoft Access project (.adp), you must create an application-defined property by using the  **Add** method. In a Microsoft Access database (.mdb), you must use the DAO **CreateProperty** method.
+In Visual Basic , to set this property for the first time in a Microsoft Access project (.adp), you must create an application-defined property by using the **Add** method. In a Microsoft Access database (.mdb), you must use the DAO **CreateProperty** method.
 
 
 ## Remarks
 
 An object's description is displayed in the Description column in the Details view of the Database window.
 
-If you create controls by dragging a field from the field list, Microsoft Access copies the field's  **Description** property to the control's **StatusBarText** property.
+If you create controls by dragging a field from the field list, Microsoft Access copies the field's **Description** property to the control's **StatusBarText** property.
 
 > [!NOTE] 
-> For a linked table, Microsoft Access displays the connection information in the  **Description** property.
+> For a linked table, Microsoft Access displays the connection information in the **Description** property.
 
 ## See also
 

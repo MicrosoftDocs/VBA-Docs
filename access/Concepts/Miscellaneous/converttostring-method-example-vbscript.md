@@ -1,24 +1,18 @@
 ---
-title: ConvertToString Method Example (VBScript)
+title: ConvertToString method example (VBScript)
 ms.prod: access
 ms.assetid: e2315ef1-41ff-22b6-2417-6eba1f5f06d7
 ms.date: 06/08/2017
 ---
 
 
-# ConvertToString Method Example (VBScript)
-
-  
+# ConvertToString method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following example shows how to convert a  **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
+The following example shows how to convert a **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
 
-
-
-
-```cs
-
+```vb
 <!-- BeginConvertToStringVBS --><HTML>
 <HEAD><TITLE>ConvertToString Example</TITLE><HEAD><BODY> 
 <SCRIPT LANGUAGE=VBSCRIPT>Sub ConvertToStringX()
