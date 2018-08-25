@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md) value indicating whether or not the object was edited since the last time it was saved. Read/write.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the object was edited since the last time it was saved. Read/write.
  **Return Values**
 The  **Saved** property returns these values:
 

@@ -17,7 +17,7 @@ Initializes the random-number generator.
 
 **Randomize** [ _number_ ]
 
-The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Variant](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
 
 ## Remarks
 

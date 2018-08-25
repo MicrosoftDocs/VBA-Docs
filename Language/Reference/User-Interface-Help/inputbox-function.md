@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Displays a prompt in a dialog box, waits for the user to input text or click a button, and returns a [String](../../Glossary/vbe-glossary.md) containing the contents of the text box.
+Displays a prompt in a dialog box, waits for the user to input text or click a button, and returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the contents of the text box.
 
 ## Syntax
 

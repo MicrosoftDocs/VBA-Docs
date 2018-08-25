@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Variant](../../Glossary/vbe-glossary.md) of subtype **Error** containing an[error number](../../Glossary/vbe-glossary.md#error-number) specified by the user.
+Returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) of subtype **Error** containing an[error number](../../Glossary/vbe-glossary.md#error-number) specified by the user.
 
 ## Syntax
 

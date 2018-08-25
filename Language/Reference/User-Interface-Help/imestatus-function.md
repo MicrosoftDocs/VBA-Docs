@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](../../Glossary/vbe-glossary.md) specifying the current Input Method Editor (IME) mode of Microsoft Windows; available in East Asian versions only.
+Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying the current Input Method Editor (IME) mode of Microsoft Windows; available in East Asian versions only.
 
 ## Syntax
 

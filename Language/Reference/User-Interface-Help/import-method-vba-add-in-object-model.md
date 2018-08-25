@@ -24,7 +24,7 @@ The  **Import** syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _filename_|Required. A [String](../../Glossary/vbe-glossary.md) specifying path and file name of the component that you want to import the component from.|
+| _filename_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) specifying path and file name of the component that you want to import the component from.|
 
 ## Remarks
 

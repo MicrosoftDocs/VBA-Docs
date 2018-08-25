@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
 
 ## Syntax
 

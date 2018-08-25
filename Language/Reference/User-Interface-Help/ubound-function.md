@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) containing the largest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md#array).
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the largest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md#array).
 
 ## Syntax
 

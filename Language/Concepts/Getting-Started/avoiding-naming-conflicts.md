@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 A naming conflict occurs when you try to create or use an [identifier](../../Glossary/vbe-glossary.md#identifier) that was previously defined. In some cases, naming conflicts generate errors such as " `Ambiguous name detected`" or "" or " `Duplicate declaration in current scope`". Naming conflicts that go undetected can result in bugs in your code that produce erroneous results, especially if you do not explicitly declare all [variables](../../Glossary/vbe-glossary.md#variable) before first use.
 
-You can avoid most naming conflicts by understanding the [scoping](../../Glossary/vbe-glossary.md), private [module-level](../../Glossary/vbe-glossary.md#module-level), and public module-level.
+You can avoid most naming conflicts by understanding the [scoping](../../Glossary/vbe-glossary.md#scope), private [module-level](../../Glossary/vbe-glossary.md#module-level), and public module-level.
 
 A naming conflict can occur when an identifier:
 

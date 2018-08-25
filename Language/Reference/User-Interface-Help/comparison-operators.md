@@ -48,13 +48,13 @@ The following table contains a list of the comparison operators and the conditio
 
  **Note**  The  **Is** and **Like** operators have specific comparison functionality that differs from the operators in the table.
 
-When comparing two expressions, you may not be able to easily determine whether the expressions are being compared as numbers or as strings. The following table shows how the expressions are compared or the result when either expression is not a [Variant](../../Glossary/vbe-glossary.md):
+When comparing two expressions, you may not be able to easily determine whether the expressions are being compared as numbers or as strings. The following table shows how the expressions are compared or the result when either expression is not a [Variant](../../Glossary/vbe-glossary.md#variant-data-type):
 
 
 |**If**|**Then**|
 |:-----|:-----|
-|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Perform a numeric comparison.|
-|Both expressions are [String](../../Glossary/vbe-glossary.md)|Perform a [string comparison](../../Glossary/vbe-glossary.md#string-comparison).|
+|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Date](../../Glossary/vbe-glossary.md#date-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), or [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type))|Perform a numeric comparison.|
+|Both expressions are [String](../../Glossary/vbe-glossary.md#string-data-type)|Perform a [string comparison](../../Glossary/vbe-glossary.md#string-comparison).|
 |One expression is a numeric data type and the other is a  **Variant** that is, or can be, a number|Perform a numeric comparison.|
 |One expression is a numeric data type and the other is a string  **Variant** that can't be converted to a number|A  `Type Mismatch` error occurs.|
 |One expression is a  **String** and the other is any **Variant** except a **Null**|Perform a string comparison.|

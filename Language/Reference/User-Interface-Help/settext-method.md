@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Copies a text string to the  **DataObject** using a specified[format](../../Glossary/glossary-vba.md).
+Copies a text string to the  **DataObject** using a specified format.
 
 ## Syntax
 
@@ -44,3 +44,8 @@ The  **DataObject** stores data according to its format. When the user supplies 
 If the  **DataObject** contains data in the same format as new data, the new data replaces the existing data in the **DataObject**. If the new data is in a new format, the new data and the new format are both added to the **DataObject**, and the previously existing data is there as well.
 If no format is specified, the  **SetText** method assigns the Text format to the text string. If a new format is specified, the **DataObject** registers the new format with the system.
 
+## See Also
+
+- [Standard Clipboard Formats](https://msdn.microsoft.com/f0af4e61-7ef1-4263-b2c5-e4114515124f)
+
+- [Registered Clipboard Formats](https://msdn.microsoft.com/en-us/library/ms649013.aspx)

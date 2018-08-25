@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [String](../../Glossary/vbe-glossary.md) representing the hexadecimal value of a number.
+Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) representing the hexadecimal value of a number.
 
 ## Syntax
 

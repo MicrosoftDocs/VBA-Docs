@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the modified internal rate of return for a series of periodic cash flows (payments and receipts).
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the modified internal rate of return for a series of periodic cash flows (payments and receipts).
 
 ## Syntax
 

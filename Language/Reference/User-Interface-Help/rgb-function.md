@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) whole number representing an RGB color value.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) whole number representing an RGB color value.
 
 ## Syntax
 

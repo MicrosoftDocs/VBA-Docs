@@ -21,7 +21,7 @@ The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-lib
     
 - If you are working on a 32-bit Microsoft Windows platform, both the DLL name and alias (if used) must be correct. Make sure the DLL name and alias are correct.
     
-- Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](../../Glossary/vbe-glossary.md#unicode) and[ANSI](../../Glossary/vbe-glossary.md) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
+- Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](../../Glossary/vbe-glossary.md#unicode) and [ANSI](../../Glossary/vbe-glossary.md#ansi-character-set) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
     
     If the function takes string-type arguments, try appending an "A" to the function name.
     

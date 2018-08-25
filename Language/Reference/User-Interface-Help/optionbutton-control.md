@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Shows the selection status of one item in a [group](../../Glossary/glossary-vba.md) of choices.
+Shows the selection status of one item in a [group](../../Glossary/glossary-vba.md#control-group) of choices.
 
 ## Remarks
 

@@ -34,9 +34,9 @@ When  **Write #** is used to write data to a file, several universal assumptions
 
 - Numeric data is always written using the period as the decimal separator.
     
-- For [Boolean](../../Glossary/vbe-glossary.md) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False**[keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
+- For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False**[keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
     
-- [Date](../../Glossary/vbe-glossary.md) data is written to the file using the[universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
+- [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written to the file using the[universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
     
 - Nothing is written to the file if  _outputlist_ data is[Empty](../../Glossary/vbe-glossary.md#empty). However, for [Null](../../Glossary/vbe-glossary.md#null) data, `#NULL#` is written.
     

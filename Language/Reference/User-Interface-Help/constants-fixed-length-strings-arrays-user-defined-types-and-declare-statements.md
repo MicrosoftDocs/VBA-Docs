@@ -23,7 +23,7 @@ Not all [variables](../../Glossary/vbe-glossary.md#variable) in an[object module
     
 - You declared a  **Public**[array](../../Glossary/vbe-glossary.md#array) in an object module.
     
-    Although a procedure can't return an array, it can return a [Variant](../../Glossary/vbe-glossary.md) that contains an array. To simulate a **Public** array in a class module, use a set of **Property** procedures that accept and return a **Variant** containing an array.
+    Although a procedure can't return an array, it can return a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) that contains an array. To simulate a **Public** array in a class module, use a set of **Property** procedures that accept and return a **Variant** containing an array.
     
 - You placed a  **Declare** statement in an object module. **Declare** statements are implicitly public. Precede the **Declare** statement with the **Private**[keyword](../../Glossary/vbe-glossary.md#keyword).
     

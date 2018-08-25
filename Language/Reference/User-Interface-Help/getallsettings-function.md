@@ -24,7 +24,7 @@ The  **GetAllSettings** function syntax has these[named arguments](../../Glossar
 |**Part**|**Description**|
 |:-----|:-----|
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or[project](../../Glossary/vbe-glossary.md#project) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
-|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a[Variant](../../Glossary/vbe-glossary.md) whose contents is a two-dimensional[array](../../Glossary/vbe-glossary.md#array) of strings containing all the key settings in the specified section and their corresponding values.|
+|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) whose contents is a two-dimensional[array](../../Glossary/vbe-glossary.md#array) of strings containing all the key settings in the specified section and their corresponding values.|
 
 ## Remarks
 

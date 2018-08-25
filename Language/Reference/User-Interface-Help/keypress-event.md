@@ -30,7 +30,7 @@ The  **KeyPress** event syntax has these parts:
 
 ## Remarks
 
-The KeyPress event occurs when the user presses a key that produces a typeable character (an ANSI key) on a running form while the form or a control on it has the [focus](../../Glossary/vbe-glossary.md#focus). The event can occur either before or after the key is released. This event also occurs if you send an ANSI keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](../../Glossary/vbe-glossary.md) in Visual Basic.
+The KeyPress event occurs when the user presses a key that produces a typeable character (an ANSI key) on a running form while the form or a control on it has the [focus](../../Glossary/vbe-glossary.md#focus). The event can occur either before or after the key is released. This event also occurs if you send an ANSI keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](./sendkeys-statement.md) in Visual Basic.
 A KeyPress event can occur when any of the following keys are pressed:
 
 
