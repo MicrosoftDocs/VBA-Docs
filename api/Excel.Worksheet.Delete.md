@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Delete
 ms.assetid: a51e1673-e09d-824f-1acc-dda18c120204
-ms.date: 06/08/2017
+ms.date: 08/24/2018
 ---
 
 
@@ -30,8 +30,9 @@ Boolean
 
 ## Remarks
 
-When you delete a  **[Worksheet](Excel.Worksheet.md)** , this method displays a dialog box that prompts the user to confirm the deletion. This dialog box is displayed by default. When called on the **Worksheet** object, the **Delete** method returns a **Boolean** value that is **False** if the user clicked **Cancel** on the dialog box or **True** if the user clicked **Delete**.
+When you delete a **[Worksheet](Excel.Worksheet.md)**, this method displays a dialog box that prompts the user to confirm the deletion. This dialog box is displayed by default. When called on the **Worksheet** object, the **Delete** method returns a **Boolean** value that is **False** if the user clicked **Cancel** on the dialog box or **True** if the user clicked **Delete**.
 
+To delete a worksheet without displaying a dialog box, set the **[Application.DisplayAlerts](application-displayalerts-property-excel.md)** property to **False**.
 
 ## See also
 
