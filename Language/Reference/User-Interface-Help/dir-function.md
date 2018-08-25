@@ -28,7 +28,6 @@ The **Dir** function syntax has these parts.
 
 The  _attributes_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
-
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**vbNormal**|0|(Default) Specifies files with no attributes.|
@@ -72,5 +71,6 @@ With Excel for Mac 2016, the initial **Dir** function call will succeed. Subsequ
 
 > [!TIP] 
 > Because file names are retrieved in no particular order, you may want to store returned file names in an array, and then sort the array.
+
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Highlights the next statement to be executed. Use the  **Show** **Next** **Statement** command to place the cursor on the line that will execute next.
 
-Available only in [break mode](../../Glossary/vbe-glossary.md).
+Available only in [break mode](../../Glossary/vbe-glossary.md#break-mode).
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_shns_ZA01201743.gif).

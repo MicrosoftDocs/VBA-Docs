@@ -23,14 +23,14 @@ The  **^** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
-| _number_|Required; any [numeric expression](../../Glossary/vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
+| _number_|Required; any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
 | _exponent_|Required; any numeric expression.|
 
 ## Remarks
 
-A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md), the  **^** operator is evaluated as it is encountered from left to right.
-Usually, the [data type](../../Glossary/vbe-glossary.md) of _result_ is a[Double](../../Glossary/vbe-glossary.md) or a[Variant](../../Glossary/vbe-glossary.md) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](../../Glossary/vbe-glossary.md) expression, _result_ is **Null**.
+A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md#expression), the  **^** operator is evaluated as it is encountered from left to right.
+Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a[Double](../../Glossary/vbe-glossary.md) or a[Variant](../../Glossary/vbe-glossary.md) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](../../Glossary/vbe-glossary.md#null) expression, _result_ is **Null**.
 
 ## Example
 

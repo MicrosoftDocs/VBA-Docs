@@ -33,7 +33,7 @@ Row and column numbering begins with zero. That is, the row number of the first 
 
 ## Remarks
 
-The  **List** property works with the **ListCount** and **ListIndex** properties.Use **List** to access list items. A list is a variant[array](../../Glossary/vbe-glossary.md); each item in the list has a row number and a column number.
+The  **List** property works with the **ListCount** and **ListIndex** properties.Use **List** to access list items. A list is a variant[array](../../Glossary/vbe-glossary.md#array); each item in the list has a row number and a column number.
 Initially,  **ComboBox** and **ListBox** contain an empty list.
 
  **Note**  To specify items you want to display in a  **ComboBox** or **ListBox**, use the **AddItem** method. To remove items, use the **RemoveItem** method.

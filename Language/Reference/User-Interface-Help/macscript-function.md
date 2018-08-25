@@ -18,7 +18,7 @@ Executes an AppleScript script and returns a value returned by the script, if an
 ## Syntax
 
 **MacScript**_script_
-The  _script_ argument is a [String expression](../../Glossary/vbe-glossary.md). The  **String** expression either can be a series of AppleScript commands or can specify the name of an AppleScript script or a script file.
+The  _script_ argument is a [String expression](../../Glossary/vbe-glossary.md#string-expression). The  **String** expression either can be a series of AppleScript commands or can specify the name of an AppleScript script or a script file.
 
 ## Remarks
 

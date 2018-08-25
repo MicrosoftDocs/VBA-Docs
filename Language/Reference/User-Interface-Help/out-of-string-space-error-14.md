@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Visual Basic permits you to use very large strings. However, the requirements of other programs and the way you manipulate your strings may cause this error. This error has the following causes and solutions:
 
-- [Expressions](../../Glossary/vbe-glossary.md) requiring that temporary strings be created for evaluation may cause this error. For example, the following code causes an `Out of string space` error on some operating systems:
+- [Expressions](../../Glossary/vbe-glossary.md#expression) requiring that temporary strings be created for evaluation may cause this error. For example, the following code causes an `Out of string space` error on some operating systems:
     
   ```vb
     MyString = "Hello" 
@@ -22,7 +22,7 @@ Visual Basic permits you to use very large strings. However, the requirements of
     Next Count 
   ```
 
-  Assign the string to a [variable](../../Glossary/vbe-glossary.md) of another name.
+  Assign the string to a [variable](../../Glossary/vbe-glossary.md#variable) of another name.
     
 - Your system may have run out of memory, which prevented a string from being allocated. Remove any unnecessary applications from memory to create more space.
     

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Executes a method of an object, or sets or returns a property of an [object](../../Glossary/vbe-glossary.md).
+Executes a method of an object, or sets or returns a property of an [object](../../Glossary/vbe-glossary.md#object).
 
 ## Syntax
 
 **CallByName( _object_**_, procname, calltype,[args()]_**)**
-The  **CallByName** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **CallByName** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|

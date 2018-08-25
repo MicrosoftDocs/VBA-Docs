@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Visual Basic Constants
 
-Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md) to simplify your programming. The following constants can be used anywhere in your code in place of the actual values:
+Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md#constant) to simplify your programming. The following constants can be used anywhere in your code in place of the actual values:
 
 [Calendar Constants](calendar-constants.md)
 

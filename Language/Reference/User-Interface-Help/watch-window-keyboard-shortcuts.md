@@ -20,6 +20,6 @@ Use these key combinations in the  **Watch** window:
 |SHIFT+ENTER|Display the selected watch expression.|
 |CTRL+W|Display  **Edit Watch** dialog box.|
 |ENTER|Expands or collapses the selected watch value if it has a plus (+) or minus (-) to the left of it.|
-|F2|Display the [Object Browser](../../Glossary/vbe-glossary.md).|
+|F2|Display the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).|
 |SHIFT+F10|View shortcut menu.|
 

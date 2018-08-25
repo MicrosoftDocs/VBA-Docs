@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Using Constants
 
-Your code might contain frequently occurring constant values, or might depend on certain numbers that are difficult to remember and have no obvious meaning. You can make your code easier to read and maintain using [constants](../../Glossary/vbe-glossary.md). A constant is a meaningful name that takes the place of a number or string that does not change. You can't modify a constant or assign a new value to it as you can a [variable](../../Glossary/vbe-glossary.md).
+Your code might contain frequently occurring constant values, or might depend on certain numbers that are difficult to remember and have no obvious meaning. You can make your code easier to read and maintain using [constants](../../Glossary/vbe-glossary.md#constant). A constant is a meaningful name that takes the place of a number or string that does not change. You can't modify a constant or assign a new value to it as you can a [variable](../../Glossary/vbe-glossary.md#variable).
 
 There are three types of constants:
 
-[Intrinsic constants](../../Glossary/vbe-glossary.md) or system-defined constants are provided by applications and controls. Other applications that provide [object libraries](../../Glossary/vbe-glossary.md), such as Microsoft Access, Microsoft Excel, Microsoft Project, and Microsoft Word also provide a list of constants you can use with their objects, methods, and properties. You can get a list of the constants provided for individual object libraries in the [Object Browser](../../Glossary/vbe-glossary.md).
+[Intrinsic constants](../../Glossary/vbe-glossary.md#intrinsic-constants) or system-defined constants are provided by applications and controls. Other applications that provide [object libraries](../../Glossary/vbe-glossary.md#object-library), such as Microsoft Access, Microsoft Excel, Microsoft Project, and Microsoft Word also provide a list of constants you can use with their objects, methods, and properties. You can get a list of the constants provided for individual object libraries in the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).
 
 Visual Basic constants are listed in the Visual Basic for Applications type library, and Data Access Object (DAO) library.
 
@@ -25,7 +25,7 @@ Visual Basic constants are listed in the Visual Basic for Applications type libr
 
 - Symbolic or user-defined constants are declared using the  **Const** statement.
     
-- [Conditional compiler constants](../../Glossary/vbe-glossary.md) are declared using the **#Const** statement.
+- [Conditional compiler constants](../../Glossary/vbe-glossary.md#conditional-compiler-constant) are declared using the **#Const** statement.
     
 
 In earlier versions of Visual Basic, constant names were usually capitalized with underscores. For example:
@@ -48,7 +48,7 @@ Intrinsic constants are now qualified to avoid the confusion when constants with
 
 ## Qualifying Constants by Prefix
 
-The intrinsic constants supplied by all objects appear in a mixed-case format, with a 2-character prefix indicating the object library that defines the constant. Constants from the Visual Basic for Applications object library are prefaced with "vb" and constants from the Microsoft Excel object library are prefaced with "xl". The following examples illustrate how prefixes for custom controls vary, depending on the [type library](../../Glossary/vbe-glossary.md).
+The intrinsic constants supplied by all objects appear in a mixed-case format, with a 2-character prefix indicating the object library that defines the constant. Constants from the Visual Basic for Applications object library are prefaced with "vb" and constants from the Microsoft Excel object library are prefaced with "xl". The following examples illustrate how prefixes for custom controls vary, depending on the [type library](../../Glossary/vbe-glossary.md#type-library).
 
 
 
@@ -72,7 +72,7 @@ The syntax for qualifying constants has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _libname_|Optional. The name of the type library that defines the constant. For most custom controls (not available on the Macintosh), this is also the [class](../../Glossary/vbe-glossary.md) name of the control. If you don't remember the class name of the control, position the mouse pointer over the control in the toolbox. The class name is displayed in the **ToolTip**.|
+| _libname_|Optional. The name of the type library that defines the constant. For most custom controls (not available on the Macintosh), this is also the [class](../../Glossary/vbe-glossary.md#class) name of the control. If you don't remember the class name of the control, position the mouse pointer over the control in the toolbox. The class name is displayed in the **ToolTip**.|
 | _modulename_|Optional. The name of the module within the type library that defines the constant. You can find the name of the module by using the  **Object Browser**.|
 | _constname_|The name defined for the constant in the type library.|
 

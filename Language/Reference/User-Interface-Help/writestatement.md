@@ -22,23 +22,23 @@ The  **Write #** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
-| _outputlist_|Optional. One or more comma-delimited [numeric expressions](../../Glossary/vbe-glossary.md) or[string expressions](../../Glossary/vbe-glossary.md) to write to a file.|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
+| _outputlist_|Optional. One or more comma-delimited [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) or[string expressions](../../Glossary/vbe-glossary.md#string-expression) to write to a file.|
 
 ## Remarks
 
 Data written with  **Write #** is usually read from a file with **Input #**.
 If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.
-When  **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](../../Glossary/vbe-glossary.md):
+When  **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](../../Glossary/vbe-glossary.md#locale):
 
 
 - Numeric data is always written using the period as the decimal separator.
     
-- For [Boolean](../../Glossary/vbe-glossary.md) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False**[keywords](../../Glossary/vbe-glossary.md) are not translated, regardless of locale.
+- For [Boolean](../../Glossary/vbe-glossary.md) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False**[keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
     
-- [Date](../../Glossary/vbe-glossary.md) data is written to the file using the[universal date format](../../Glossary/vbe-glossary.md). When either the date or the time component is missing or zero, only the part provided gets written to the file.
+- [Date](../../Glossary/vbe-glossary.md) data is written to the file using the[universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
     
-- Nothing is written to the file if  _outputlist_ data is[Empty](../../Glossary/vbe-glossary.md). However, for [Null](../../Glossary/vbe-glossary.md) data, `#NULL#` is written.
+- Nothing is written to the file if  _outputlist_ data is[Empty](../../Glossary/vbe-glossary.md#empty). However, for [Null](../../Glossary/vbe-glossary.md#null) data, `#NULL#` is written.
     
 - If  _outputlist_ data is **Null** data, `#NULL#` is written to the file.
     

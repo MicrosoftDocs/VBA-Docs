@@ -15,13 +15,13 @@ Visual Basic can't determine what action to take. This error has the following c
 
 
 
-- A [keyword](../../Glossary/vbe-glossary.md) or[argument](../../Glossary/vbe-glossary.md) is misspelled.
+- A [keyword](../../Glossary/vbe-glossary.md#keyword) or[argument](../../Glossary/vbe-glossary.md#argument) is misspelled.
     
-    Keywords and the names of [named arguments](../../Glossary/vbe-glossary.md) must exactly match those specified in their syntax specifications. Check online Help, and then correct the spelling.
+    Keywords and the names of [named arguments](../../Glossary/vbe-glossary.md#named-argument) must exactly match those specified in their syntax specifications. Check online Help, and then correct the spelling.
     
 - Punctuation is incorrect. For example, when you omit optional arguments positionally, you must substitute a comma (**,**) as a placeholder for the omitted argument.
     
-- A [procedure](../../Glossary/vbe-glossary.md) isn't defined.
+- A [procedure](../../Glossary/vbe-glossary.md#procedure) isn't defined.
     
     Check the spelling of the procedure name.
     

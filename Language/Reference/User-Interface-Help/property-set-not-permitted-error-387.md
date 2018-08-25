@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property Set not permitted (Error 387)
 
-Not all [properties](../../Glossary/vbe-glossary.md) support returning a reference. This error has the following cause and solution:
+Not all [properties](../../Glossary/vbe-glossary.md#property) support returning a reference. This error has the following cause and solution:
 
 
 

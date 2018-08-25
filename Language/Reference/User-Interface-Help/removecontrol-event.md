@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Occurs when a control is deleted from the [container](../../Glossary/vbe-glossary.md).
+Occurs when a control is deleted from the [container](../../Glossary/vbe-glossary.md#container).
 
 ## Syntax
 

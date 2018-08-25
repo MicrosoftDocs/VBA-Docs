@@ -23,8 +23,8 @@ The  **Input** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md) specifying the number of characters to return.|
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
+| _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) specifying the number of characters to return.|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 
 ## Remarks
 

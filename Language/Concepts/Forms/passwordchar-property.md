@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether [placeholder](../../Glossary/glossary-vba.md) characters are displayed instead of the characters actually entered in a **TextBox**.
+Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) characters are displayed instead of the characters actually entered in a **TextBox**.
 
 ## Syntax
 

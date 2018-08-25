@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a value specifying the type of calendar to use with your [project](../../Glossary/vbe-glossary.md).
+Returns or sets a value specifying the type of calendar to use with your [project](../../Glossary/vbe-glossary.md#project).
 You can use one of two settings for  **Calendar**:
 
 

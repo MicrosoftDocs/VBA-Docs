@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Get Statement
 
-Reads data from an open disk file into a [variable](../../Glossary/vbe-glossary.md).
+Reads data from an open disk file into a [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 
@@ -22,13 +22,13 @@ The **Get** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _recnumber_|Optional. **Variant** (**Long**). Record number (**Random** mode files) or byte number (**Binary** mode files) at which reading begins.|
 | _varname_|Required. Valid variable name into which data is read.|
 
 ## Remarks
 
-Data read with **Get** is usually written to a file with **Put**. The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit  _recnumber_, the next record or byte following the last **Get** or **Put** [statement](../../Glossary/vbe-glossary.md) (or pointed to by the last **Seek** function) is read. You must include delimiting commas, for example:
+Data read with **Get** is usually written to a file with **Put**. The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit  _recnumber_, the next record or byte following the last **Get** or **Put** [statement](../../Glossary/vbe-glossary.md#statement) (or pointed to by the last **Seek** function) is read. You must include delimiting commas, for example:
 
 ```vb
 Get #4,,FileBuffer 
@@ -41,10 +41,10 @@ For files opened in **Random** mode, the following rules apply:
     
 - If the variable being read into is a variable-length string, **Get** reads a 2-byte descriptor containing the string length and then reads the data that goes into the variable. Therefore, the record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual length of the string.
     
-- If the variable being read into is a [Variant](../../Glossary/vbe-glossary.md) of [numeric type](../../Glossary/vbe-glossary.md), **Get** reads 2 bytes identifying the **VarType** of the **Variant** and then the data that goes into the variable. For example, when reading a **Variant** of **VarType** 3, **Get** reads 6 bytes: 2 bytes identifying the **Variant** as **VarType** 3 (**Long**) and 4 bytes containing the [Long](../../Glossary/vbe-glossary.md) data. The record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual number of bytes required to store the variable.
+- If the variable being read into is a [Variant](../../Glossary/vbe-glossary.md) of [numeric type](../../Glossary/vbe-glossary.md#numeric-type), **Get** reads 2 bytes identifying the **VarType** of the **Variant** and then the data that goes into the variable. For example, when reading a **Variant** of **VarType** 3, **Get** reads 6 bytes: 2 bytes identifying the **Variant** as **VarType** 3 (**Long**) and 4 bytes containing the [Long](../../Glossary/vbe-glossary.md) data. The record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual number of bytes required to store the variable.
     
   > [!NOTE] 
-  > You can use the **Get** statement to read a **Variant** [array](../../Glossary/vbe-glossary.md) from disk, but you can't use **Get** to read a scalar **Variant** containing an array. You also can't use **Get** to read objects from disk.
+  > You can use the **Get** statement to read a **Variant** [array](../../Glossary/vbe-glossary.md#array) from disk, but you can't use **Get** to read a scalar **Variant** containing an array. You also can't use **Get** to read objects from disk.
 
 - If the variable being read into is a **Variant** of **VarType** 8 (**String**), **Get** reads 2 bytes identifying the **VarType**, 2 bytes indicating the length of the string, and then reads the string data. The record length specified by the **Len** clause in the **Open** statement must be at least 4 bytes greater than the actual length of the string.
     
@@ -60,7 +60,7 @@ For files opened in **Random** mode, the following rules apply:
     
 - If the variable being read into is any other type of variable (not a variable-length string or a **Variant**), **Get** reads only the variable data. The record length specified by the **Len** clause in the **Open** statement must be greater than or equal to the length of the data being read.
     
-- **Get** reads elements of [user-defined types](../../Glossary/vbe-glossary.md) as if each were being read individually, except that there is no padding between elements. On disk, a dynamic array in a user-defined type (written with **Put**) is prefixed by a descriptor whose length equals 2 plus 8 times the number of dimensions, that is, 2 + 8 * _NumberOfDimensions_. The record length specified by the **Len** clause in the **Open** statement must be greater than or equal to the sum of all the bytes required to read the individual elements, including any arrays and their descriptors.
+- **Get** reads elements of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) as if each were being read individually, except that there is no padding between elements. On disk, a dynamic array in a user-defined type (written with **Put**) is prefixed by a descriptor whose length equals 2 plus 8 times the number of dimensions, that is, 2 + 8 * _NumberOfDimensions_. The record length specified by the **Len** clause in the **Open** statement must be greater than or equal to the sum of all the bytes required to read the individual elements, including any arrays and their descriptors.
     
 
 For files opened in **Binary** mode, all of the **Random** rules apply, except:
@@ -69,7 +69,7 @@ For files opened in **Binary** mode, all of the **Random** rules apply, except:
     
 - For any array other than an array in a user-defined type, **Get** reads only the data. No descriptor is read.
     
-- **Get** reads variable-length strings that aren't elements of user-defined types without expecting the 2-byte length descriptor. The number of bytes read equals the number of characters already in the string. For example, the following statements read 10 bytes from [file number](../../Glossary/vbe-glossary.md) 1:
+- **Get** reads variable-length strings that aren't elements of user-defined types without expecting the 2-byte length descriptor. The number of bytes read equals the number of characters already in the string. For example, the following statements read 10 bytes from [file number](../../Glossary/vbe-glossary.md#file-number) 1:
     
   ```vb
     VarString = String(10," ") 

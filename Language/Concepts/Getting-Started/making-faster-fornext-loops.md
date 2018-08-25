@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Making Faster For...Next Loops
 
-Integers use less memory than the [Variant data type](../../Glossary/vbe-glossary.md) and are slightly faster to update. However, this difference is only noticeable if you perform many thousands of operations. For example:
+Integers use less memory than the [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type) and are slightly faster to update. However, this difference is only noticeable if you perform many thousands of operations. For example:
 
 
 ```vb
@@ -26,6 +26,6 @@ Next CountSlower
 ```
 
 
-The first case above takes slightly less time to run than the second case. However, if  `CountFaster` exceeds 32,767, an error occurs. To fix this, you can change `CountFaster` to the [Long data type](../../Glossary/vbe-glossary.md), which accepts a wider range of integers. In general, the smaller the [data type](../../Glossary/vbe-glossary.md), the less time it takes to update. Variants are slightly slower than their equivalent data type.
+The first case above takes slightly less time to run than the second case. However, if  `CountFaster` exceeds 32,767, an error occurs. To fix this, you can change `CountFaster` to the [Long data type](../../Glossary/vbe-glossary.md#long-data-type), which accepts a wider range of integers. In general, the smaller the [data type](../../Glossary/vbe-glossary.md#data-type), the less time it takes to update. Variants are slightly slower than their equivalent data type.
 
 

@@ -14,17 +14,17 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns a zero-based, one-dimensional [array](../../Glossary/vbe-glossary.md) containing a specified number of substrings.
+Returns a zero-based, one-dimensional [array](../../Glossary/vbe-glossary.md#array) containing a specified number of substrings.
 
 ## Syntax
 
 **Split( _expression_** [ **,** **_delimiter_** [ **,** **_limit_** [ **,** **_compare_** ]]] **)**
-The  **Split** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Split** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md) containing substrings and delimiters. If _expression_ is a zero-length string(""), **Split** returns an empty array, that is, an array with no elements and no data.|
+|**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing substrings and delimiters. If _expression_ is a zero-length string(""), **Split** returns an empty array, that is, an array with no elements and no data.|
 |**_delimiter_**|Optional. String character used to identify substring limits. If omitted, the space character (" ") is assumed to be the delimiter. If  **_delimiter_** is a zero-length string, a single-element array containing the entire **_expression_** string is returned.|
 |**_limit_**|Optional. Number of substrings to be returned; -1 indicates that all substrings are returned.|
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. See Settings section for values.|

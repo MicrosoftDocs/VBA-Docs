@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Type-declaration character required
 
-The necessity of using [type-declaration characters](../../Glossary/vbe-glossary.md) depends on the form of the [identifier's](../../Glossary/vbe-glossary.md) declaration. This error has the following cause and solution:
+The necessity of using [type-declaration characters](../../Glossary/vbe-glossary.md#type-declaration-character) depends on the form of the [identifier's](../../Glossary/vbe-glossary.md#identifier) declaration. This error has the following cause and solution:
 
-- A [variable](../../Glossary/vbe-glossary.md) that was originally implicitly declared with a type-declaration characters was referenced without a type-declaration character. For example:
+- A [variable](../../Glossary/vbe-glossary.md#variable) that was originally implicitly declared with a type-declaration characters was referenced without a type-declaration character. For example:
     
   ```vb
       MyStr$ = "Implicit declaration" 

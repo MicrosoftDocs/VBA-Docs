@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 
 # If...Then...Else statement
 
-Conditionally executes a group of statements, depending on the value of an expression.
+Conditionally executes a group of [statements](../../Glossary/vbe-glossary.md#statement), depending on the value of an [expression](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
@@ -49,6 +49,7 @@ You can use the single-line form (first syntax) for short, simple tests. However
 If A > 10 Then A = A + 1 : B = B + A : C = C + B 
 
 ```
+
 
 A block form **If** statement must be the first statement on a line. The **Else**, **ElseIf**, and **End If** parts of the statement can have only a line number or line label preceding them. The block **If** must end with an **End If** statement.
 

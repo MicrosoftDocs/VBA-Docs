@@ -36,14 +36,14 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Option**|**Description**|
 |:-----|:-----|
 |**Auto Syntax Check**|Visual Basic automatically verifies correct syntax after you enter a line of code.|
-|**Require Variable Declaration**|Explicit variable declarations are required in [modules](../Glossary/vbe-glossary.md).|
+|**Require Variable Declaration**|Explicit variable declarations are required in [modules](../Glossary/vbe-glossary.md#module).|
 |**Auto Indent**|After tabbing the first line of code, all subsequent lines start at that tab location.|
 |**Tab Width**|The tab width, which can range from 1 - 32 spaces. (Default is 4 spaces.)|
-|**Default to Full Module View**|[Procedures](../Glossary/vbe-glossary.md) for new modules are displayed in the **Code** window as a single, scrollable list or one procedure at a time.|
+|**Default to Full Module View**|[Procedures](../Glossary/vbe-glossary.md#procedure) for new modules are displayed in the **Code** window as a single, scrollable list or one procedure at a time.|
 |**Procedure Separator**|Display separator bars at the end of each procedure in the  **Code** window.|
 |**Auto List Members**|At the insertion point, Visual Basic displays information that logically completes a statement.|
-|**Auto Quick Info**|Information about functions and their [arguments](../Glossary/vbe-glossary.md) is displayed as you type.|
-|**Auto Data Tips**|Automatically display the value of any [variable](../Glossary/vbe-glossary.md) on which you place the mouse pointer. Available only in[break mode](../Glossary/vbe-glossary.md).|
+|**Auto Quick Info**|Information about functions and their [arguments](../Glossary/vbe-glossary.md#argument) is displayed as you type.|
+|**Auto Data Tips**|Automatically display the value of any [variable](../Glossary/vbe-glossary.md#variable) on which you place the mouse pointer. Available only in[break mode](../Glossary/vbe-glossary.md#break-mode).|
 |**Drag-Drop in Text Editing**|Code elements can be dragged from the  **Code** window into the **Immediate** or **Watch** windows.|
 
  **Editor Format**
@@ -67,9 +67,9 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Height**|The height of the grid cells on a form.|
 |**Align Controls to Grid**|Automatically position the outer edge of controls on the closest grid lines.|
 |**Show ToolTips**|Display ToolTips for toolbar buttons.|
-|**Collapse Proj. Hides Windows**|Automatically close the project,  **UserForm**, object, or module windows when a[project](../Glossary/vbe-glossary.md) is collapsed in the **Project Explorer**.|
+|**Collapse Proj. Hides Windows**|Automatically close the project,  **UserForm**, object, or module windows when a[project](../Glossary/vbe-glossary.md#project) is collapsed in the **Project Explorer**.|
 |**Notify Before State Loss**|Display a message that a requested action will cause all module-level variables to be reset for a running project.|
-|**Break on All Errors**|Any error causes the project to enter break mode, whether or not an error handler is active, and whether or not the code is in a [class module](../Glossary/vbe-glossary.md).|
+|**Break on All Errors**|Any error causes the project to enter break mode, whether or not an error handler is active, and whether or not the code is in a [class module](../Glossary/vbe-glossary.md#class-module).|
 |**Break in Class Module**|Any unhandled error produced in a class module causes the project to enter break mode at the line of code which produced the error.|
 |**Break on Unhandled Errors**|Any other unhandled error causes the project to enter break mode.|
 |**Compile On Demand**|A project is fully compiled before it starts, or code is compiled as needed.|

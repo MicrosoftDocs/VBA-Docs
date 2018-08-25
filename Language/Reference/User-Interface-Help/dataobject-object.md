@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-A holding area for formatted text data used in transfer operations. Also holds a list of [formats](../../../language/Glossary/glossary-vba.md) corresponding to the pieces of text stored in the **DataObject**.
+A holding area for formatted text data used in transfer operations. Also holds a list of [formats](../../Glossary/glossary-vba.md) corresponding to the pieces of text stored in the **DataObject**.
 
 ## Remarks
 

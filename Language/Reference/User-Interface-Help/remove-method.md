@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Removes a member from a [collection](../../Glossary/vbe-glossary.md); or, removes a control from a  **Frame**, **Page**, or form.
+Removes a member from a [collection](../../Glossary/vbe-glossary.md#collection); or, removes a control from a  **Frame**, **Page**, or form.
 
 ## Syntax
 
@@ -30,5 +30,5 @@ The  **Remove** method syntax has these parts:
 
 ## Remarks
 
-This method deletes any control that was added at [run time](../../Glossary/vbe-glossary.md). However, attempting to delete a control that was added at [design time](../../Glossary/vbe-glossary.md) will result in an error.
+This method deletes any control that was added at [run time](../../Glossary/vbe-glossary.md#run-time). However, attempting to delete a control that was added at [design time](../../Glossary/vbe-glossary.md#design-time) will result in an error.
 

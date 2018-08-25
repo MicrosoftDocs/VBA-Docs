@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VarType Constants
 
-The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
 
 
 
@@ -29,7 +29,7 @@ The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere i
 |**vbObject**|9|Object|
 |**vbError**|10|Error|
 |**vbBoolean**|11|[Boolean](../../Glossary/vbe-glossary.md)|
-|**vbVariant**|12|[Variant](../../Glossary/vbe-glossary.md) (used only for[arrays](../../Glossary/vbe-glossary.md) of variants)|
+|**vbVariant**|12|[Variant](../../Glossary/vbe-glossary.md) (used only for[arrays](../../Glossary/vbe-glossary.md#array) of variants)|
 |**vbDataObject**|13|Data access object|
 |**vbDecimal**|14|[Decimal](../../Glossary/vbe-glossary.md)|
 |**vbByte**|17|[Byte](../../Glossary/vbe-glossary.md)|

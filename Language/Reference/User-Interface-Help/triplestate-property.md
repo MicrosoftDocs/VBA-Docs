@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Determines whether a user can specify, from the user interface, the [Null](../../Glossary/vbe-glossary.md) state for a **CheckBox** or **ToggleButton**.
+Determines whether a user can specify, from the user interface, the [Null](../../Glossary/vbe-glossary.md#null) state for a **CheckBox** or **ToggleButton**.
 
 ## Syntax
 

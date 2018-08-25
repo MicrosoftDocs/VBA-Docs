@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  **Breakpoint**
 
-Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md) at the current line.
+Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint) at the current line.
 
  **Bookmark**
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 An error occurred trying to access the specified file. This error has the following causes and solutions:
 
-- A statement refers to a file with a [file number](../../Glossary/vbe-glossary.md) or file name that is:
+- A statement refers to a file with a [file number](../../Glossary/vbe-glossary.md#file-number) or file name that is:
     
-  - Not specified in the **Open** statement or was specified in an **Open** statement, but has since been closed. Specify the file name in an **Open** statement. Note that if you invoked the **Close** statement without[arguments](../../Glossary/vbe-glossary.md), you may have inadvertently closed all currently open files, invalidating all file numbers.
+  - Not specified in the **Open** statement or was specified in an **Open** statement, but has since been closed. Specify the file name in an **Open** statement. Note that if you invoked the **Close** statement without[arguments](../../Glossary/vbe-glossary.md#argument), you may have inadvertently closed all currently open files, invalidating all file numbers.
     
   - Out of the range of file numbers (1 - 511). If your code is generating file numbers algorithmically, make sure the numbers are valid.
     

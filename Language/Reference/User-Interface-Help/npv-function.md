@@ -18,13 +18,13 @@ Returns a [Double](../../Glossary/vbe-glossary.md) specifying the net present va
 ## Syntax
 
 **NPV( _rate_**, **_values_ ())**
-The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_rate_**|Required.  **Double** specifying discount rate over the length of the period, expressed as a decimal.|
-|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
+|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 
 ## Remarks
 

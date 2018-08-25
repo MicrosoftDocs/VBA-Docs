@@ -17,16 +17,16 @@ Sets attribute information for a file.
 
 **SetAttr** **_pathname_, _attributes_**
 
-The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
-|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md) or[numeric expression](../../Glossary/vbe-glossary.md), whose sum specifies file attributes.|
+|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
+|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md#constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes.|
 
  **Settings**
-The  **_attributes_**[argument](../../Glossary/vbe-glossary.md) settings are:
+The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -42,7 +42,7 @@ The  **_attributes_**[argument](../../Glossary/vbe-glossary.md) settings are:
 
 ## Remarks
 
-A [run-time error](../../Glossary/vbe-glossary.md) occurs if you try to set the attributes of an open file.
+A [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs if you try to set the attributes of an open file.
 
 ## Example
 

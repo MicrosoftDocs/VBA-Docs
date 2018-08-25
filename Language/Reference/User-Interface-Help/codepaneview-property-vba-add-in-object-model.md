@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a value indicating whether the [code pane](../../Glossary/vbe-glossary.md) is in Procedure view or Full Module view. Read-only.
+Returns a value indicating whether the [code pane](../../Glossary/vbe-glossary.md#code-pane) is in Procedure view or Full Module view. Read-only.
  **Return Values**
 The  **CodePaneView** property return values are:
 
@@ -21,5 +21,5 @@ The  **CodePaneView** property return values are:
 |**Constant**|**Description**|
 |:-----|:-----|
 |**vbext_cv_ProcedureView**|The specified code pane is in Procedure view.|
-|**Vbext_cv_FullModuleView**|The specified [project](../../Glossary/vbe-glossary.md) is in Full Module view.|
+|**Vbext_cv_FullModuleView**|The specified [project](../../Glossary/vbe-glossary.md#project) is in Full Module view.|
 

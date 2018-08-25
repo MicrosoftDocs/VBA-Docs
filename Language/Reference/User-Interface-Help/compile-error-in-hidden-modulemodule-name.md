@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Compile error in hidden module: <module name>
 
-A protected [module](../../Glossary/vbe-glossary.md) contains a compilation error. Because the error is in a protected module it cannot be displayed.
+A protected [module](../../Glossary/vbe-glossary.md#module) contains a compilation error. Because the error is in a protected module it cannot be displayed.
 
 This error commonly occurs when code is incompatible with the version or architecture of this application (for example, code in a document targets 32-bit Microsoft Office applications but it is attempting to run on 64-bit Office).
 

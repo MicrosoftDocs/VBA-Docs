@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Center in Form Commands (Format Menu)
 
-Centers selected [objects](../../Glossary/vbe-glossary.md) on the central axes of the form.
+Centers selected [objects](../../Glossary/vbe-glossary.md#object) on the central axes of the form.
 
  **Horizontally**
 
