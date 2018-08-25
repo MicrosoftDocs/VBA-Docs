@@ -50,4 +50,5 @@ MyChar = Chr(37)    ' Returns %.
 
 ## See also
 
-- [Character sets](character-sets.md)
+- [Character set (0 - 127)](character-set-0127.md)
+- [Character set (128 - 255)](character-set-1282557.md)

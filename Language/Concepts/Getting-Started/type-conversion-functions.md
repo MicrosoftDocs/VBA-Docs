@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 
 # Type conversion functions
 
-Each function coerces an [expression](vbe-glossary.md) to a specific [data type](vbe-glossary.md).
+Each function coerces an expression to a specific data type.
 
 ## Syntax
 
@@ -29,7 +29,7 @@ Each function coerces an [expression](vbe-glossary.md) to a specific [data type]
 - **CStr(**_expression_**)**
 - **CVar(**_expression_**)**
 
-The required  _expression_ [argument](vbe-glossary.md) is any [string expression](vbe-glossary.md) or [numeric expression](vbe-glossary.md).
+The required  _expression_ argument is any string expression or numeric expression.
 
 ### Return types
 
@@ -38,19 +38,19 @@ The function name determines the return type as shown in the following:
 
 |**Function**|**Return Type**|**Range for  _expression_ argument**|
 |:-----|:-----|:-----|
-|**CBool**|[Boolean](vbe-glossary.md)|Any valid **string** or numeric expression.|
-|**CByte**|[Byte](vbe-glossary.md)|0 to 255.|
-|**CCur**|[Currency](vbe-glossary.md)|-922,337,203,685,477.5808 to 922,337,203,685,477.5807.|
-|**CDate**|[Date](vbe-glossary.md)|Any valid [date expression](vbe-glossary.md).|
-|**CDbl**|[Double](vbe-glossary.md)|-1.79769313486231E308 to -4.94065645841247E-324 for negative values; 4.94065645841247E-324 to 1.79769313486232E308 for positive values.|
-|**CDec**|[Decimal](vbe-glossary.md)|79,228,162,514,264,337,593,543,950,335 for zero-scaled numbers, that is, numbers with no decimal places. For numbers with 28 decimal places, the range is 7.9228162514264337593543950335. The smallest possible non-zero number is 0.0000000000000000000000000001.|
-|**CInt**|[Integer](vbe-glossary.md)|-32,768 to 32,767; fractions are rounded.|
-|**CLng**|[Long](vbe-glossary.md)|-2,147,483,648 to 2,147,483,647; fractions are rounded.|
-|**CLngLng**|[LongLong](longlong-data-type.md)|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807; fractions are rounded. (Valid on 64-bit platforms only.)|
-|**CLngPtr**|[LongPtr](longptr-data-type.md)|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems; fractions are rounded for 32-bit and 64-bit systems.|
-|**CSng**|[Single](vbe-glossary.md)|-3.402823E38 to -1.401298E-45 for negative values; 1.401298E-45 to 3.402823E38 for positive values.|
-|**CStr**|[String](vbe-glossary.md)|[Returns for CStr](returns-for-cstr.md) depend on the _expression_ argument.|
-|**CVar**|[Variant](vbe-glossary.md)|Same range as **Double** for numerics. Same range as **String** for non-numerics.|
+|**CBool**|Boolean|Any valid **string** or numeric expression.|
+|**CByte**|Byte|0 to 255.|
+|**CCur**|Currency|-922,337,203,685,477.5808 to 922,337,203,685,477.5807.|
+|**CDate**|Date|Any valid date expression.|
+|**CDbl**|Double|-1.79769313486231E308 to -4.94065645841247E-324 for negative values; 4.94065645841247E-324 to 1.79769313486232E308 for positive values.|
+|**CDec**|Decimal|79,228,162,514,264,337,593,543,950,335 for zero-scaled numbers, that is, numbers with no decimal places. For numbers with 28 decimal places, the range is 7.9228162514264337593543950335. The smallest possible non-zero number is 0.0000000000000000000000000001.|
+|**CInt**|Integer|-32,768 to 32,767; fractions are rounded.|
+|**CLng**|Long|-2,147,483,648 to 2,147,483,647; fractions are rounded.|
+|**CLngLng**|LongLong|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807; fractions are rounded. (Valid on 64-bit platforms only.)|
+|**CLngPtr**|LongPtr|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems; fractions are rounded for 32-bit and 64-bit systems.|
+|**CSng**|Single|-3.402823E38 to -1.401298E-45 for negative values; 1.401298E-45 to 3.402823E38 for positive values.|
+|**CStr**|String|Returns for CStr depend on the _expression_ argument.|
+|**CVar**|Variant|Same range as **Double** for numerics. Same range as **String** for non-numerics.|
 
 ## Remarks
 
@@ -61,11 +61,11 @@ If the  _expression_ passed to the function is outside the range of the data typ
 
 In general, you can document your code using the data-type conversion functions to show that the result of some operation should be expressed as a particular data type rather than the default data type. For example, use **CCur** to force currency arithmetic in cases where single-precision, double-precision, or integer arithmetic normally would occur.
 
-You should use the data-type conversion functions instead of **Val** to provide internationally aware conversions from one data type to another. For example, when you use **CCur**, different decimal separators, different thousand separators, and various currency options are properly recognized depending on the [locale](vbe-glossary.md) setting of your computer.
+You should use the data-type conversion functions instead of **Val** to provide internationally aware conversions from one data type to another. For example, when you use **CCur**, different decimal separators, different thousand separators, and various currency options are properly recognized depending on the locale setting of your computer.
 
 When the fractional part is exactly 0.5, **CInt** and **CLng** always round it to the nearest even number. For example, 0.5 rounds to 0, and 1.5 rounds to 2. **CInt** and **CLng** differ from the [**Fix** and **Int** functions](int-fix-functions.md), which truncate, rather than round, the fractional part of a number. Also, **Fix** and **Int** always return a value of the same type as is passed in.
 
-Use the **IsDate** function to determine if _date_ can be converted to a date or time. **CDate** recognizes [date literals](vbe-glossary.md) and time literals as well as some numbers that fall within the range of acceptable dates. When converting a number to a date, the whole number portion is converted to a date. Any fractional part of the number is converted to a time of day, starting at midnight.
+Use the **IsDate** function to determine if _date_ can be converted to a date or time. **CDate** recognizes date literals and time literals as well as some numbers that fall within the range of acceptable dates. When converting a number to a date, the whole number portion is converted to a date. Any fractional part of the number is converted to a time of day, starting at midnight.
 
 **CDate** recognizes date formats according to the locale setting of your system. The correct order of day, month, and year may not be determined if it is provided in a format other than one of the recognized date settings. In addition, a long date format is not recognized if it also contains the day-of-the-week string.
  
@@ -228,4 +228,8 @@ MyVar = CVar(MyInt & 000) ' MyVar contains the string
  ' 4534000. 
 
 ```
+
+## See also
+
+- [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 
