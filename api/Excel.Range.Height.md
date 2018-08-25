@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Height Property (Excel)
 
-Returns or sets a  **Variant** value that represents the height, in points, of the range.
+Returns a **Double** value that represents the height, in points, of the range.
 
 
 ## Syntax
@@ -22,9 +22,11 @@ Returns or sets a  **Variant** value that represents the height, in points, of t
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
+## Remarks
+
+To set the height, use the **[RowHeight](excel.range.rowheight.md)** Property.
 
 ## See also
-
 
 [Range Object](Excel.Range(object).md)
 
