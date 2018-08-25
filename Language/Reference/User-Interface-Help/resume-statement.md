@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009004
 ms.prod: office
 ms.assetid: 57fa9eb3-7e8d-2f7e-20d7-47e468b7836a
-ms.date: 06/08/2017
+ms.date: 08/24/2018
 ---
 
 
@@ -24,7 +24,7 @@ The  **Resume** statement syntax can have any of the following forms:
 
 |**Statement**|**Description**|
 |:-----|:-----|
-|**Resume**|If the error occurred in the same [procedure](../../Glossary/vbe-glossary.md) as the error handler, execution resumes with the statement that caused the error. If the error occurred in a called procedure, execution resumes at the[statement](../../Glossary/vbe-glossary.md) that last called out of the procedure containing the error-handling routine.|
+|**Resume**|If the error occurred in the same [procedure](../../Glossary/vbe-glossary.md) as the error handler, execution resumes with the statement that caused the error. If the error occurred in a called procedure, execution resumes at the [statement](../../Glossary/vbe-glossary.md) that last called out of the procedure containing the error-handling routine.|
 |**Resume** **Next**|If the error occurred in the same procedure as the error handler, execution resumes with the statement immediately following the statement that caused the error. If the error occurred in a called procedure, execution resumes with the statement immediately following the statement that last called out of the procedure containing the error-handling routine (or  **On Error Resume Next** statement).|
 |**Resume**_line_|Execution resumes at  _line_ specified in the required _line_[argument](../../Glossary/vbe-glossary.md). The  _line_ argument is a[line label](../../Glossary/vbe-glossary.md) or[line number](../../Glossary/vbe-glossary.md) and must be in the same procedure as the error handler.|
 
@@ -45,13 +45,12 @@ Sub ResumeStatementDemo()
  Exit Sub ' Exit Sub to avoid error handler. 
 ErrorHandler: ' Error-handling routine. 
  Select Case Err.Number ' Evaluate error number. 
- Case 55 ' "File already open" error. 
- Close #1 ' Close open file. 
- Case Else 
- ' Handle other situations here.... 
+  Case 55 ' "File already open" error. 
+   Close #1 ' Close open file. 
+  Case Else 
+   ' Handle other situations here.... 
  End Select 
- Resume ' Resume execution at same line 
- ' that caused the error. 
+ Resume ' Resume execution at same line that caused the error. 
 End Sub
 ```
 

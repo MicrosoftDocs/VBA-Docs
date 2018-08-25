@@ -19,7 +19,7 @@ A  **Collection** object is an ordered set of items that can be referred to as a
 
 ## Remarks
 
-The  **Collection** object provides a convenient way to refer to a related group of items as a single object. The items, or[members](../../Glossary/vbe-glossary.md), in a collection need only be related by the fact that they exist in the [collection](../../Glossary/vbe-glossary.md). Members of a collection don't have to share the same [data type](../../Glossary/vbe-glossary.md).
+The  **Collection** object provides a convenient way to refer to a related group of items as a single object. The items, or [members](../../Glossary/vbe-glossary.md), in a collection need only be related by the fact that they exist in the [collection](../../Glossary/vbe-glossary.md). Members of a collection don't have to share the same [data type](../../Glossary/vbe-glossary.md).
 A collection can be created the same way other objects are created. For example:
 
 
@@ -29,11 +29,13 @@ Dim X As New Collection
 
 ```
 
-Once a collection is created, members can be added using the  **Add** method and removed using the **Remove** method. Specific members can be returned from the collection using the **Item** method, while the entire collection can be iterated using the **For** **Each...Next** statement.
+Once a collection is created, members can be added using the  **[Add](add-method-visual-basic-for-applications.md)** method and removed using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated using the **[For Each...Next](for-eachnext-statement.md)** statement.
 
 ## Example
 
-This example creates a  **Collection** object ( `MyClasses`), and then creates a dialog box in which users can add objects to the collection. To see how this works, choose the  **Class Module** command from the **Insert** menu and declare a public variable called `InstanceName` at module level of Class1 (type **Public** `InstanceName)` to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement ), `ClassNamer`and then creates a dialog box in which users can add objects to the collection. To see how this works, choose the  **Class Module** command from the **Insert** menu and declare a public variable called `InstanceName` at module level of Class1 (type **Public** `InstanceName)` to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure. (This example only works with host applications that support classes.)
+This example creates a **Collection** object (`MyClasses`), and then creates a dialog box in which users can add objects to the collection. 
+To see how this works, choose the **Class Module** command from the **Insert** menu and declare a public variable called `InstanceName` at module level of Class1 (type **Public** `InstanceName`) to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure.
+(This example only works with host applications that support classes.)
 
 
 ```vb
@@ -64,9 +66,8 @@ Sub ClassNamer()
     MsgBox NameList, , "Instance Names In MyClasses Collection"
 
     For Num = 1 To MyClasses.Count    ' Remove name from the collection.
-        MyClasses.Remove 1    ' Since collections are reindexed
-                ' automatically, remove the first
-    Next        ' member on each iteration.
+        MyClasses.Remove 1    ' Since collections are reindexed automatically, remove the first member on each iteration.
+    Next
 End Sub
 ```
 
