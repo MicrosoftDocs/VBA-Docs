@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # End Statement
 
-Ends a [procedure](../../Glossary/vbe-glossary.md) or block.
+Ends a [procedure](../../Glossary/vbe-glossary.md#procedure) or block.
 
 ## Syntax
 
@@ -29,20 +29,25 @@ The  **End** statement syntax has these forms:
 
 |**Statement**|**Description**|
 |:-----|:-----|
-|**End**|Terminates execution immediately. Never required by itself but may be placed anywhere in a procedure to end code execution, close files opened with the  **Open** statement and to clear[variables](../../Glossary/vbe-glossary.md).|
+|**End**|Terminates execution immediately. Never required by itself but may be placed anywhere in a procedure to end code execution, close files opened with the  **Open** statement and to clear[variables](../../Glossary/vbe-glossary.md#variable).|
 |**End Function**|Required to end a  **Function** statement.|
 |**End If**|Required to end a block  **If…Then…Else** statement.|
 |**End Property**|Required to end a  **Property Let**, **Property Get**, or **Property Set** procedure.|
 |**End Select**|Required to end a  **Select Case** statement.|
 |**End Sub**|Required to end a  **Sub** statement.|
-|**End Type**|Required to end a [user-defined type](../../Glossary/vbe-glossary.md) definition (**Type** statement).|
+|**End Type**|Required to end a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) definition (**Type** statement).|
 |**End With**|Required to end a  **With** statement.|
 
 ## Remarks
+<<<<<<< HEAD
+=======
 
-When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
+When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md#module-level) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md#module). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 
- **Note**  The  **End** statement stops code execution abruptly, without invoking the Unload, QueryUnload, or Terminate event, or any other Visual Basic code. Code you have placed in the Unload, QueryUnload, and Terminate events of[forms](../../Glossary/vbe-glossary.md) and[class modules](../../Glossary/vbe-glossary.md) is not executed. Objects created from class modules are destroyed, files opened using the **Open** statement are closed, and memory used by your program is freed. Object references held by other programs are invalidated.
+When executed, the  **End** statement resets all[module-level](../../Glossary/vbe-glossary.md#module-level) variables and all static local variables in all[modules](../../Glossary/vbe-glossary.md#module). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
+
+ **Note**  The  **End** statement stops code execution abruptly, without invoking the Unload, QueryUnload, or Terminate event, or any other Visual Basic code. Code you have placed in the Unload, QueryUnload, and Terminate events of[forms](../../Glossary/vbe-glossary.md#form) and[class modules](../../Glossary/vbe-glossary.md#class-module) is not executed. Objects created from class modules are destroyed, files opened using the **Open** statement are closed, and memory used by your program is freed. Object references held by other programs are invalidated.
 
 The  **End** statement provides a way to force your program to halt. For normal termination of a Visual Basic program, you should unload all forms. Your program closes as soon as there are no other programs holding references to objects created from your public class modules and no code executing.
 

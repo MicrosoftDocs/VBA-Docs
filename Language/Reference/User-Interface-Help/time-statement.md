@@ -17,7 +17,7 @@ Sets the system time.
 
 **Time =**_time_
 
-The required  _time_[argument](../../Glossary/vbe-glossary.md) is any[numeric expression](../../Glossary/vbe-glossary.md), [string expression](../../Glossary/vbe-glossary.md), or any combination, that can represent a time.
+The required  _time_[argument](../../Glossary/vbe-glossary.md#argument) is any[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), [string expression](../../Glossary/vbe-glossary.md#string-expression), or any combination, that can represent a time.
 
 ## Remarks
 

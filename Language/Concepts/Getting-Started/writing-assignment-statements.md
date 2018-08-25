@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing Assignment Statements
 
-Assignment statements assign a value or [expression](../../Glossary/vbe-glossary.md) to a[variable](../../Glossary/vbe-glossary.md) or[constant](../../Glossary/vbe-glossary.md). Assignment statements always include an equal sign (**=**). The following example assigns the return value of the **InputBox** function to the variable .
+Assignment statements assign a value or [expression](../../Glossary/vbe-glossary.md#expression) to a[variable](../../Glossary/vbe-glossary.md#variable) or[constant](../../Glossary/vbe-glossary.md#constant). Assignment statements always include an equal sign (**=**). The following example assigns the return value of the **InputBox** function to the variable .
 
 
 ```vb
@@ -48,7 +48,7 @@ Set myCell = Worksheets("Sheet1").Range("A1")
 End Sub
 ```
 
-Statements that set [property](../../Glossary/vbe-glossary.md) values are also assignment statements. The following example sets the **Bold** property of the **Font** object for the active cell:
+Statements that set [property](../../Glossary/vbe-glossary.md#property) values are also assignment statements. The following example sets the **Bold** property of the **Font** object for the active cell:
 
 
 

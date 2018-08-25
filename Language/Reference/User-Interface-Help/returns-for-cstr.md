@@ -16,8 +16,8 @@ ms.date: 06/08/2017
 |:-----|:-----|
 |**Boolean**|A string containing  **True** or **False**|
 |**Date**|A string containing a date in the short date format of your system|
-|[Null](../../Glossary/vbe-glossary.md)|A [run-time error](../../Glossary/vbe-glossary.md)|
-|[Empty](../../Glossary/vbe-glossary.md)|A zero-length string ("")|
-|**Error**|A string containing the word  **Error** followed by the[error number](../../Glossary/vbe-glossary.md)|
+|[Null](../../Glossary/vbe-glossary.md#null)|A [run-time error](../../Glossary/vbe-glossary.md#run-time-error)|
+|[Empty](../../Glossary/vbe-glossary.md#empty)|A zero-length string ("")|
+|**Error**|A string containing the word  **Error** followed by the[error number](../../Glossary/vbe-glossary.md#error-number)|
 |Other numeric|A string containing the number|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the active [project](../../Glossary/vbe-glossary.md) in the[Project window](../../Glossary/vbe-glossary.md). Read-only.
+Returns the active [project](../../Glossary/vbe-glossary.md#project) in the[Project window](../../Glossary/vbe-glossary.md#project-window). Read-only.
 
 ## Remarks
 

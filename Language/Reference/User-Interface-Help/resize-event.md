@@ -23,7 +23,7 @@ Occurs when a user form is resized.
 
 ## Remarks
 
-Use a Resize event [procedure](../../Glossary/vbe-glossary.md) to move or resize[controls](../../Glossary/vbe-glossary.md) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](../../Glossary/vbe-glossary.md) or[properties](../../Glossary/vbe-glossary.md).
+Use a Resize event [procedure](../../Glossary/vbe-glossary.md#procedure) to move or resize[controls](../../Glossary/vbe-glossary.md#control) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](../../Glossary/vbe-glossary.md#variable) or[properties](../../Glossary/vbe-glossary.md#property).
 
 ## Example
 

@@ -18,12 +18,12 @@ Returns a  **Variant** (**String**) containing a specified number of characters 
 ## Syntax
 
 **Mid** (**_string_**, **_start_** [, **_length_** ])
-The  **Mid** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Mid** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) from which characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.|
 |**_start_**|Required; [Long](../../Glossary/vbe-glossary.md). Character position in  **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
 |**_length_**|Optional;  **Variant** (**Long**). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_**), all characters from the **_start_** position to the end of the string are returned.|
 
@@ -31,7 +31,7 @@ The  **Mid** function syntax has these[named arguments](../../Glossary/vbe-gloss
 
 To determine the number of characters in  **_string_**, use the **Len** function.
 
- **Note**  Use the  **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the[arguments](../../Glossary/vbe-glossary.md) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
+ **Note**  Use the  **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the[arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
 
 
 ## Example

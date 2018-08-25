@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 You tried to use an object in an incorrect way. This error has the following causes and solutions:
 
-- You tried to discontinue an object reference by assigning **Nothing** to it but omitted the **Set** [keyword](../../Glossary/vbe-glossary.md):
+- You tried to discontinue an object reference by assigning **Nothing** to it but omitted the **Set** [keyword](../../Glossary/vbe-glossary.md#keyword):
     
   ```vb
     MyObject = Nothing 
@@ -27,7 +27,7 @@ You tried to use an object in an incorrect way. This error has the following cau
 
   Omitting the **Set** keyword is an implicit use of **Let**, which causes an attempt to perform a value assignment, rather than a reference assignment. **Nothing** can't be used in a value assignment.
     
-- You attempted to use Nothing in an [expression](../../Glossary/vbe-glossary.md).
+- You attempted to use Nothing in an [expression](../../Glossary/vbe-glossary.md#expression).
     
   Rewrite the expression without the **Nothing**.
     

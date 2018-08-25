@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) representing the octal value of a number.
 ## Syntax
 
 **Oct** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md) is any valid[numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md).
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression).
 
 ## Remarks
 
@@ -27,8 +27,8 @@ If  _number_ is not already a whole number, it is rounded to the nearest whole n
 
 |**If  _number_ is**|**Oct returns**|
 |:-----|:-----|
-|[Null](../../Glossary/vbe-glossary.md)|**Null**|
-|[Empty](../../Glossary/vbe-glossary.md)|Zero (0)|
+|[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
+|[Empty](../../Glossary/vbe-glossary.md#empty)|Zero (0)|
 |Any other number|Up to 11 octal characters|
 
 You can represent octal numbers directly by preceding numbers in the proper range with  `&;O`. For example, . For example,  `&;O10` is the octal notation for decimal 8.

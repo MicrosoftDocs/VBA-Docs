@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': The property name 'item2' in 'item3' is invalid.
 
-The ASCII file contains a property name that isn't a valid [property](../../Glossary/vbe-glossary.md) for that control.
+The ASCII file contains a property name that isn't a valid [property](../../Glossary/vbe-glossary.md#property) for that control.
 
 

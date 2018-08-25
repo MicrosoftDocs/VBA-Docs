@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Need property-array index (Error 385)
 
-This [property](../../Glossary/vbe-glossary.md) value consists of an[array](../../Glossary/vbe-glossary.md) rather than a single value. This error has the following cause and solution:
+This [property](../../Glossary/vbe-glossary.md#property) value consists of an[array](../../Glossary/vbe-glossary.md#array) rather than a single value. This error has the following cause and solution:
 
 
 

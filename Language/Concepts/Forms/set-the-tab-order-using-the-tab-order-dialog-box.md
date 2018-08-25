@@ -20,7 +20,7 @@ ms.date: 06/08/2017
     
 3. From the shortcut menu, choose  **Tab Order**.
     
-4. Select the name of a control you want to reposition in the [tab order](../../Glossary/vbe-glossary.md).
+4. Select the name of a control you want to reposition in the [tab order](../../Glossary/vbe-glossary.md#tab-order).
     
 5. Choose  **Move Up** or **Move Down** until the control name is in the appropriate position in the tab order.
     

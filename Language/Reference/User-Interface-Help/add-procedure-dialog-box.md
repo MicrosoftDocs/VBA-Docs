@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Inserts a new [Sub](../../Glossary/vbe-glossary.md), [Function](../../Glossary/vbe-glossary.md), or  **Property** procedure. The **Add** **Procedure** dialog box also allows you to set the[scope](../../Glossary/vbe-glossary.md) to public or private, and make all local variables in the procedure static.
+Inserts a new [Sub](../../Glossary/vbe-glossary.md), [Function](../../Glossary/vbe-glossary.md), or  **Property** procedure. The **Add** **Procedure** dialog box also allows you to set the[scope](../../Glossary/vbe-glossary.md#scope) to public or private, and make all local variables in the procedure static.
 
 ## Dialog Box Options
 

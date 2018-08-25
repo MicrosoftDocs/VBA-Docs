@@ -13,28 +13,28 @@ ms.date: 06/08/2017
 
 
 
-Used to compare [expressions](../../Glossary/vbe-glossary.md).
+Used to compare [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
 _result_**=**_expression1_ _comparisonoperator_ _expression2_
  _result_**=**_object1_**Is**_object2_
  _result_**=**_string_**Like**_pattern_
-[Comparison operators](../../Glossary/vbe-glossary.md) have these parts:
+[Comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) have these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression_|Required; any expression.|
 | _comparisonoperator_|Required; any comparison operator.|
 | _object_|Required; any object name.|
-| _string_|Required; any [string expression](../../Glossary/vbe-glossary.md).|
+| _string_|Required; any [string expression](../../Glossary/vbe-glossary.md#string-expression).|
 | _pattern_|Required; any string expression or range of characters.|
 
 ## Remarks
 
-The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or[Null](../../Glossary/vbe-glossary.md):
+The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or[Null](../../Glossary/vbe-glossary.md#null):
 
 
 |**Operator**|**True if**|**False if**|**Null if**|
@@ -53,12 +53,12 @@ When comparing two expressions, you may not be able to easily determine whether 
 
 |**If**|**Then**|
 |:-----|:-----|
-|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Perform a numeric comparison.|
-|Both expressions are [String](../../Glossary/vbe-glossary.md)|Perform a [string comparison](../../Glossary/vbe-glossary.md).|
+|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Perform a numeric comparison.|
+|Both expressions are [String](../../Glossary/vbe-glossary.md)|Perform a [string comparison](../../Glossary/vbe-glossary.md#string-comparison).|
 |One expression is a numeric data type and the other is a  **Variant** that is, or can be, a number|Perform a numeric comparison.|
 |One expression is a numeric data type and the other is a string  **Variant** that can't be converted to a number|A  `Type Mismatch` error occurs.|
 |One expression is a  **String** and the other is any **Variant** except a **Null**|Perform a string comparison.|
-|One expression is [Empty](../../Glossary/vbe-glossary.md) and the other is a numeric data type|Perform a numeric comparison, using 0 as the  **Empty** expression.|
+|One expression is [Empty](../../Glossary/vbe-glossary.md#empty) and the other is a numeric data type|Perform a numeric comparison, using 0 as the  **Empty** expression.|
 |One expression is  **Empty** and the other is a **String**|Perform a string comparison, using a zero-length string ("") as the  **Empty** expression.|
 
 If  _expression1_ and _expression2_ are both **Variant** expressions, their underlying type determines how they are compared. The following table shows how the expressions are compared or the result from the comparison, depending on the underlying type of the **Variant**:

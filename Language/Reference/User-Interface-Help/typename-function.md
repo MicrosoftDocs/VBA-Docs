@@ -11,16 +11,16 @@ ms.date: 04/27/2018
 
 # TypeName Function
 
-Returns a  **String** that provides information about a [variable](../../Glossary/vbe-glossary.md).</br></br>
+Returns a  **String** that provides information about a [variable](../../Glossary/vbe-glossary.md#variable).</br></br>
 ## Syntax
 **TypeName(**_varname_**)**</br>
-The required _varname_ [argument](../../Glossary/vbe-glossary.md) is a [Variant](../../Glossary/vbe-glossary.md) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md).
+The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
 ## Remarks
 The string returned by **TypeName** can be any one of the following:</br>
 
 |**String returned**|**Variable**|
 |:-----|:-----|
-|[object type](../../Glossary/vbe-glossary.md)|An object whose type is  _objecttype_|
+|[object type](../../Glossary/vbe-glossary.md#object-type)|An object whose type is  _objecttype_|
 |[Byte](../../Glossary/vbe-glossary.md)|Byte value|
 |[Integer](../../Glossary/vbe-glossary.md)|Integer|
 |[Long](../../Glossary/vbe-glossary.md)|Long integer|
@@ -32,14 +32,14 @@ The string returned by **TypeName** can be any one of the following:</br>
 |[String](../../Glossary/vbe-glossary.md)|String|
 |[Boolean](../../Glossary/vbe-glossary.md)|Boolean value|
 |**Error**|An error value|
-|[Empty](../../Glossary/vbe-glossary.md)|Uninitialized|
-|[Null](../../Glossary/vbe-glossary.md)|No valid data|
-|[Object](../../Glossary/vbe-glossary.md)|An object|
+|[Empty](../../Glossary/vbe-glossary.md#empty)|Uninitialized|
+|[Null](../../Glossary/vbe-glossary.md#null)|No valid data|
+|[Object](../../Glossary/vbe-glossary.md#object)|An object|
 |Unknown|An object whose type is unknown|
 |**Nothing**|Object variable that doesn't refer to an object|
 
 <br>
-If  _varname_ is an [array](../../Glossary/vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
+If  _varname_ is an [array](../../Glossary/vbe-glossary.md#array), the returned string can be any one of the possible returned strings (or  **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
 ## Example
 

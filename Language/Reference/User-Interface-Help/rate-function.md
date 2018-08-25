@@ -18,7 +18,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md) specifying the interest rate 
 ## Syntax
 
 **Rate( _nper_**, **_pmt_**, **_pv_** [, **_fv_** [, **_type_** [, **_guess_** ]]] **)**
-The  **Rate** function has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Rate** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
@@ -33,7 +33,7 @@ The  **Rate** function has these[named arguments](../../Glossary/vbe-glossary.md
 ## Remarks
 
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
-For all [arguments](../../Glossary/vbe-glossary.md), cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
+For all [arguments](../../Glossary/vbe-glossary.md#argument), cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
  **Rate** is calculated by iteration. Starting with the value of **_guess_**, **Rate** cycles through the calculation until the result is accurate to within 0.00001 percent. If **Rate** can't find a result after 20 tries, it fails. If your guess is 10 percent and **Rate** fails, try a different value for **_guess_**.
 
 ## Example

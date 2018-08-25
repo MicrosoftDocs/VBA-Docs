@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a member of a [collection](../../Glossary/vbe-glossary.md), either by position or by name.
+Returns a member of a [collection](../../Glossary/vbe-glossary.md#collection), either by position or by name.
 
 ## Syntax
 

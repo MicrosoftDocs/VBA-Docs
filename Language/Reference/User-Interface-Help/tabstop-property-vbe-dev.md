@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 
-Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md) when the user tabs to it.
+Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md#focus) when the user tabs to it.
 
 ## Syntax
 

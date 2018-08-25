@@ -25,7 +25,7 @@ The  **Show** method syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](../../Glossary/vbe-glossary.md) is assumed to be _object._|
+| _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](../../Glossary/vbe-glossary.md#module) is assumed to be _object._|
 | _modal_|Optional. Variant value that determines if the  **UserForm** is modal or modeless.|
 
  **Settings**

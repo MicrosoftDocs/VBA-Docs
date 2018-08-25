@@ -19,7 +19,7 @@ Defines the characteristics of the text used by a control or form.
 
 Each control or form has its own  **Font** object to let you set its text characteristics independently of the characteristics defined for other controls and forms. Use font properties to specify the font name, to set bold or underlined text, or to adjust the size of the text.
 
- **Note**  The font properties of your form or [container](../../Glossary/vbe-glossary.md) determine the default font attributes of controls you put on the form.
+ **Note**  The font properties of your form or [container](../../Glossary/vbe-glossary.md#container) determine the default font attributes of controls you put on the form.
 
 The default property for the  **Font** object is the **Name** property. If the **Name** property contains a null string, the **Font** object uses the default system font.
 

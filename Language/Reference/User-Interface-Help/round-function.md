@@ -24,7 +24,7 @@ The  **Round** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _expression_|Required. [Numeric expression](../../Glossary/vbe-glossary.md) being rounded.|
+| _expression_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) being rounded.|
 | _numdecimalplaces_|Optional. Number indicating how many places to the right of the decimal are included in the rounding. If omitted, integers are returned by the  **Round** function.|
 
  **Note**

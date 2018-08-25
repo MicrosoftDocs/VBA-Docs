@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # The project file 'item1' contains invalid key 'item2'. The project can't be loaded
 
-You can't load the [project](../../Glossary/vbe-glossary.md) while the project file contains the invalid key.
+You can't load the [project](../../Glossary/vbe-glossary.md#project) while the project file contains the invalid key.
 
 

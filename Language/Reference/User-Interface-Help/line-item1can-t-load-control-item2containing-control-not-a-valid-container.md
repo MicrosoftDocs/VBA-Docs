@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Can't load control 'item2'; containing control not a valid container.
 
-You attempted to load a [control](../../Glossary/vbe-glossary.md) into a control which isn't a valid[container](../../Glossary/vbe-glossary.md).
+You attempted to load a [control](../../Glossary/vbe-glossary.md#control) into a control which isn't a valid[container](../../Glossary/vbe-glossary.md#container).
 
 

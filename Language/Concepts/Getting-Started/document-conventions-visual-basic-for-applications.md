@@ -17,7 +17,7 @@ Visual Basic documentation uses the following typographic conventions.
 |**Sub**, **If**, **ChDir**, **Print**, **True**, **Debug**|Words in bold with initial letter capitalized indicate language-specific keywords.|
 |**Setup**|Words you are instructed to type appear in bold.|
 | _object_, _varname_, _arglist_|Italic, lowercase letters indicate placeholders for information you supply.|
-|**_pathname_**, **_filenumber_**|Bold, italic, and lowercase letters indicate placeholders for arguments where you can use either positional or [named-argument](../../Glossary/vbe-glossary.md) syntax.|
+|**_pathname_**, **_filenumber_**|Bold, italic, and lowercase letters indicate placeholders for arguments where you can use either positional or [named-argument](../../Glossary/vbe-glossary.md#named-argument) syntax.|
 |[ _expressionlist_ ]|In syntax, items inside brackets are optional.|
 |{ **While** **Until** }|In syntax, braces and a vertical bar indicate a mandatory choice between two or more items. You must choose one of the items unless all of the items are also enclosed in brackets. For example: [{ **This** **OrThat** }]|
 |ESC, ENTER|Words in capital letters indicate key names and key sequences.|

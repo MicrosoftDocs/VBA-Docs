@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Named argument already specified
 
-You can use a [named argument](../../Glossary/vbe-glossary.md) only once in the[argument](../../Glossary/vbe-glossary.md) list of each[procedure](../../Glossary/vbe-glossary.md) invocation. This error has the following causes and solutions:
+You can use a [named argument](../../Glossary/vbe-glossary.md#named-argument) only once in the[argument](../../Glossary/vbe-glossary.md#argument) list of each[procedure](../../Glossary/vbe-glossary.md#procedure) invocation. This error has the following causes and solutions:
 
 
 
@@ -25,7 +25,7 @@ You can use a [named argument](../../Glossary/vbe-glossary.md) only once in the[
 
      Remove one of the duplicate specifications.
     
-- You specified the same [argument](../../Glossary/vbe-glossary.md) both by position and with a named argument, for example:
+- You specified the same [argument](../../Glossary/vbe-glossary.md#argument) both by position and with a named argument, for example:
     
   ```vb
   Call MySub(1, Arg1 := 3) 

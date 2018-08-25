@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](../../Glossary/vbe-glossary.md) representing the next [file number](../../Glossary/vbe-glossary.md) available for use by the **Open** statement.
+Returns an [Integer](../../Glossary/vbe-glossary.md) representing the next [file number](../../Glossary/vbe-glossary.md#file-number) available for use by the **Open** statement.
 
 ## Syntax
 

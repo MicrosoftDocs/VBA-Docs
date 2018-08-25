@@ -15,7 +15,7 @@ The character can't be used in the current context. This error has the following
 
 
 
-- You probably used an invalid character, such as a bracket or hyphen, as part of a [variable](../../Glossary/vbe-glossary.md) name.
+- You probably used an invalid character, such as a bracket or hyphen, as part of a [variable](../../Glossary/vbe-glossary.md#variable) name.
     
     Compare the spelling of the name with its declaration.
     

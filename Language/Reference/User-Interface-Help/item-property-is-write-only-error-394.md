@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # 'Item' property is write-only (Error 394)
 
-The [property](../../Glossary/vbe-glossary.md) can't be read. This error has the following cause and solution.
+The [property](../../Glossary/vbe-glossary.md#property) can't be read. This error has the following cause and solution.
 
 
 

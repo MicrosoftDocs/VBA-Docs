@@ -18,15 +18,15 @@ Returns a reference to an object provided by an ActiveX component.
 ## Syntax
 
 **GetObject(** [ **_pathname_** ] [ **,  _class_** ] **)**
-The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_pathname_**|Optional;  **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md) of the object.|
+|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md#class) of the object.|
 
-The  **_class_**[argument](../../Glossary/vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
+The  **_class_**[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_**.**_objecttype_ and has these parts:
 
 
 |**Part**|**Description**|
@@ -36,7 +36,7 @@ The  **_class_**[argument](../../Glossary/vbe-glossary.md) uses the syntax _appn
 
 ## Remarks
 
-Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](../../Glossary/vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
+Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](../../Glossary/vbe-glossary.md#object-variable). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
 
 
 
@@ -66,7 +66,7 @@ Set MyObject = GetObject("C:\DRAWINGS\SAMPLE.DRW", "FIGMENT.DRAWING")
 ```
 
 In the example,  `FIGMENT` is the name of a drawing application and `DRAWING` is one of the object types it supports.
-Once an object is activated, you reference it in code using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md) and[methods](../../Glossary/vbe-glossary.md) of the new object using the object variable `MyObject`. For example:
+Once an object is activated, you reference it in code using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and[methods](../../Glossary/vbe-glossary.md#method) of the new object using the object variable `MyObject`. For example:
 
 
 

@@ -39,6 +39,6 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-The  **TabKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing TAB always moves the[focus](../../Glossary/vbe-glossary.md) to the next control in the[tab order](../../Glossary/vbe-glossary.md) regardless of the value of **TabKeyBehavior**.
+The  **TabKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing TAB always moves the[focus](../../Glossary/vbe-glossary.md#focus) to the next control in the[tab order](../../Glossary/vbe-glossary.md#tab-order) regardless of the value of **TabKeyBehavior**.
 The effect of pressing CTRL+TAB also depends on the value of  **MultiLine**. If **MultiLine** is **True**, pressing CTRL+TAB creates a new line regardless of the value of **TabKeyBehavior**. If **MultiLine** is **False**, pressing CTRL+TAB has no effect.
 

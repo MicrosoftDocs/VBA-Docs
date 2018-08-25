@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
- **InsideHeight** returns the height, in[points](../../Glossary/vbe-glossary.md), of the [client region](../../../language/Glossary/glossary-vba.md) inside a form. **InsideWidth** returns the width, in points, of the client region inside a form.
+ **InsideHeight** returns the height, in[points](../../Glossary/vbe-glossary.md#point), of the [client region](../../Glossary/glossary-vba.md#client-region) inside a form. **InsideWidth** returns the width, in points, of the client region inside a form.
 
 ## Syntax
 

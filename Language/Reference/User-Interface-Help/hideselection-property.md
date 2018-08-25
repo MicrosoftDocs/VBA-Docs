@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether selected text remains highlighted when a control does not have the [focus](../../Glossary/vbe-glossary.md).
+Specifies whether selected text remains highlighted when a control does not have the [focus](../../Glossary/vbe-glossary.md#focus).
 
 ## Syntax
 

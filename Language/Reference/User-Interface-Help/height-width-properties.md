@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-The height or width, in [points](../../Glossary/vbe-glossary.md), of an object.
+The height or width, in [points](../../Glossary/vbe-glossary.md#point), of an object.
 
 ## Syntax
 

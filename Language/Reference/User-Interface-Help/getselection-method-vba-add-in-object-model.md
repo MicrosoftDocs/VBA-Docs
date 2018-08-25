@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the selection in a [code pane](../../Glossary/vbe-glossary.md).
+Returns the selection in a [code pane](../../Glossary/vbe-glossary.md#code-pane).
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **GetSelection** syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md) that returns a value specifying the first line of the selection in the code pane.|
 | _startcol_|Required. A  **Long** that returns a value specifying the first column of the selection in the code pane.|
 | _endline_|Required. A  **Long** that returns a value specifying the last line of the selection in the code pane.|
@@ -31,5 +31,5 @@ The  **GetSelection** syntax has these parts:
 
 ## Remarks
 
-When you use the  **GetSelection** method, information is returned in output[arguments](../../Glossary/vbe-glossary.md). As a result, you must pass in [variables](../../Glossary/vbe-glossary.md) because the variables will be modified to contain the information when returned.
+When you use the  **GetSelection** method, information is returned in output[arguments](../../Glossary/vbe-glossary.md#argument). As a result, you must pass in [variables](../../Glossary/vbe-glossary.md#variable) because the variables will be modified to contain the information when returned.
 

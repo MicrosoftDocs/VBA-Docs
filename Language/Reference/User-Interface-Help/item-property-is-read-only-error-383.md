@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # 'Item' property is read-only (Error 383)
 
-The [property](../../Glossary/vbe-glossary.md) is read-only at both[design time](../../Glossary/vbe-glossary.md) and[run time](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+The [property](../../Glossary/vbe-glossary.md#property) is read-only at both[design time](../../Glossary/vbe-glossary.md#design-time) and[run time](../../Glossary/vbe-glossary.md#run-time). This error has the following cause and solution:
 
 
 

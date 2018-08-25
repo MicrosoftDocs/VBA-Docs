@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 
 # Select Case Statement
 
-Executes one of several groups of [statements](../../Glossary/vbe-glossary.md), depending on the value of an [expression](../../Glossary/vbe-glossary.md).
+Executes one of several groups of [statements](../../Glossary/vbe-glossary.md#statement), depending on the value of an [expression](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
@@ -21,16 +21,16 @@ Executes one of several groups of [statements](../../Glossary/vbe-glossary.md), 
  [ **Case Else**
  [ _elsestatements_ ]]
 
- **End Select**
+**End Select**
 The **Select Case** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _testexpression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md) or [string expression](../../Glossary/vbe-glossary.md).|
-| _expressionlist-n_|Required if a **Case** appears. Delimited list of one or more of the following forms: _expression_, _expression_**To**_expression_, **Is**_comparisonoperator_ _expression_. The **To** [keyword](../../Glossary/vbe-glossary.md) specifies a range of values. If you use the **To** keyword, the smaller value must appear before **To**. Use the **Is** keyword with [comparison operators](../../Glossary/vbe-glossary.md) (except **Is** and **Like**) to specify a range of values. If not supplied, the **Is** keyword is automatically inserted.|
-| _statements-n_|Optional. One or more statements executed if _testexpression_ matches any part of _expressionlist-n._|
-| _elsestatements_|Optional. One or more statements executed if _testexpression_ doesn't match any of the **Case** clause.|
+| _testexpression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).|
+| _expressionlist-n_|Required if a  **Case** appears. Delimited list of one or more of the following forms: _expression_, _expression_**To**_expression_, **Is**_comparisonoperator_ _expression_. The **To** [keyword](../../Glossary/vbe-glossary.md#keyword) specifies a range of values. If you use the **To** keyword, the smaller value must appear before **To**. Use the **Is** keyword with [comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) (except **Is** and **Like**) to specify a range of values. If not supplied, the **Is** keyword is automatically inserted.|
+| _statements-n_|Optional. One or more statements executed if  _testexpression_ matches any part of _expressionlist-n._|
+| _elsestatements_|Optional. One or more statements executed if  _testexpression_ doesn't match any of the **Case** clause.|
 
 ## Remarks
 
@@ -46,8 +46,8 @@ Case 1 To 4, 7 To 9, 11, 13, Is > MaxNumber
 ```
 
 
-| [!NOTE]
-| The  **Is** comparison operator is not the same as the **Is** keyword used in the **Select Case** statement.
+> [!NOTE] 
+> The  **Is** comparison operator is not the same as the **Is** keyword used in the **Select Case** statement.
 
 You also can specify ranges and multiple expressions for character strings. In the following example,  **Case** matches strings that are exactly equal to `everything` , strings that fall between `nuts` and `soup` in alphabetic order, and the current value of `TestItem` :
 
@@ -57,7 +57,7 @@ Case "everything", "nuts" To "soup", TestItem
 
 ```
 
- **Select Case** statements can be nested. Each nested **Select Case** statement must have a matching **End Select** statement.
+**Select Case** statements can be nested. Each nested **Select Case** statement must have a matching **End Select** statement.
 
 ## Example
 

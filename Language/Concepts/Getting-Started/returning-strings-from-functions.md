@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Returning Strings from Functions
 
-Some functions have two versions: one that returns a [Variant data type](../../Glossary/vbe-glossary.md) and one that returns a [String data type](../../Glossary/vbe-glossary.md). The  **Variant** versions are more convenient because variants handle conversions between different types of data automatically. They also allow [Null](../../Glossary/vbe-glossary.md) to be propagated through an [expression](../../Glossary/vbe-glossary.md). The  **String** versions are more efficient because they use less memory.
+Some functions have two versions: one that returns a [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type) and one that returns a [String data type](../../Glossary/vbe-glossary.md#string-data-type). The  **Variant** versions are more convenient because variants handle conversions between different types of data automatically. They also allow [Null](../../Glossary/vbe-glossary.md#null) to be propagated through an [expression](../../Glossary/vbe-glossary.md#expression). The  **String** versions are more efficient because they use less memory.
 
 Consider using the  **String** version when:
 
 
 
 
-- Your program is very large and uses many [variables](../../Glossary/vbe-glossary.md).
+- Your program is very large and uses many [variables](../../Glossary/vbe-glossary.md#variable).
     
 - You write data directly to random-access files.
     
