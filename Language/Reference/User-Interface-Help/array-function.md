@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Variant](../../Glossary/vbe-glossary.md) containing an[array](../../Glossary/vbe-glossary.md#array).
+Returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing an[array](../../Glossary/vbe-glossary.md#array).
 
 ## Syntax
 

@@ -42,20 +42,20 @@ The statement name determines the data type:
 
 |**Statement**|**Data Type**|
 |:-----|:-----|
-|**DefBool**|[Boolean](../../Glossary/vbe-glossary.md)|
-|**DefByte**|[Byte](../../Glossary/vbe-glossary.md)|
-|**DefInt**|[Integer](../../Glossary/vbe-glossary.md)|
-|**DefLng**|[Long](../../Glossary/vbe-glossary.md)|
+|**DefBool**|[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type)|
+|**DefByte**|[Byte](../../Glossary/vbe-glossary.md#byte-data-type)|
+|**DefInt**|[Integer](../../Glossary/vbe-glossary.md#integer-data-type)|
+|**DefLng**|[Long](../../Glossary/vbe-glossary.md#long-data-type)|
 |**DefLngLng**|[LongLong](../../reference/User-Interface-Help/longlong-data-type.md) (Valid on 64-bit platforms only.)|
 |**DefLngPtr**|[LongPtr](../../reference/User-Interface-Help/longptr-data-type.md)|
-|**DefCur**|[Currency](../../Glossary/vbe-glossary.md)|
-|**DefSng**|[Single](../../Glossary/vbe-glossary.md)|
-|**DefDbl**|[Double](../../Glossary/vbe-glossary.md)|
-|**DefDec**|[Decimal](../../Glossary/vbe-glossary.md) (not currently supported)|
-|**DefDate**|[Date](../../Glossary/vbe-glossary.md)|
-|**DefStr**|[String](../../Glossary/vbe-glossary.md)|
+|**DefCur**|[Currency](../../Glossary/vbe-glossary.md#currency-data-type)|
+|**DefSng**|[Single](../../Glossary/vbe-glossary.md#single-data-type)|
+|**DefDbl**|[Double](../../Glossary/vbe-glossary.md#double-data-type)|
+|**DefDec**|[Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported)|
+|**DefDate**|[Date](../../Glossary/vbe-glossary.md#date-data-type)|
+|**DefStr**|[String](../../Glossary/vbe-glossary.md#string-data-type)|
 |**DefObj**|[Object](../../Glossary/vbe-glossary.md#object)|
-|**DefVar**|[Variant](../../Glossary/vbe-glossary.md)|
+|**DefVar**|[Variant](../../Glossary/vbe-glossary.md#variant-data-type)|
 
 For example, in the following program fragment, is a string variable:
 A  **Def**_type_ statement affects only the[module](../../Glossary/vbe-glossary.md#module) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property** **Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property** **Get** procedures is **Variant**.

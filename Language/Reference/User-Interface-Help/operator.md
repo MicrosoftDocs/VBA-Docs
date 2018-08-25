@@ -29,7 +29,7 @@ The  **\*** operator syntax has these parts:
 
 ## Remarks
 
-The [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md#expression). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), and [Decimal](../../Glossary/vbe-glossary.md). The following are exceptions to this order:
+The [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md#expression). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), and [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type). The following are exceptions to this order:
 
 
 |**If**|**Then  _result_ is**|

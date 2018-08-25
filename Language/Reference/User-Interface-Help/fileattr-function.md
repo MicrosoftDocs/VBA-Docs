@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) representing the file mode for files opened using the **Open** statement.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the file mode for files opened using the **Open** statement.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **FileAttr** function syntax has these[named arguments](../../Glossary/vbe-
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_filenumber_**|Required; [Integer](../../Glossary/vbe-glossary.md). Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
+|**_filenumber_**|Required; [Integer](../../Glossary/vbe-glossary.md#integer-data-type). Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 |**_returntype_**|Required;  **Integer**. Number indicating the type of information to return. Specify 1 to return a value indicating the file mode. On 16-bit systems only, specify 2 to retrieve an operating system file handle. **_Returntype_** 2 is not supported in 32-bit systems and causes an error.|
 
  **Return Values**

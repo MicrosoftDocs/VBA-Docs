@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the internal rate of return for a series of periodic cash flows (payments and receipts).
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the internal rate of return for a series of periodic cash flows (payments and receipts).
 
 ## Syntax
 
@@ -24,7 +24,7 @@ The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md#
 |**Part**|**Description**|
 |:-----|:-----|
 |**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
-|**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
+|**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
 
 ## Remarks
 

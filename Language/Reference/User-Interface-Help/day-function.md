@@ -18,7 +18,7 @@ Returns a  **Variant** (**Integer**) specifying a whole number between 1 and 31,
 ## Syntax
 
 **Day(**_date_**)**
-The required  _date_[argument](../../Glossary/vbe-glossary.md#argument) is any[Variant](../../Glossary/vbe-glossary.md), [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), [string expression](../../Glossary/vbe-glossary.md#string-expression), or any combination, that can represent a date. If  _date_ contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.
+The required  _date_[argument](../../Glossary/vbe-glossary.md#argument) is any[Variant](../../Glossary/vbe-glossary.md#variant-data-type), [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), [string expression](../../Glossary/vbe-glossary.md#string-expression), or any combination, that can represent a date. If  _date_ contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.
 
  **Note**  If the  **Calendar** property setting is Gregorian, the returned integer represents the Gregorian day of the month for the date argument. If the calendar is Hijri, the returned integer represents the Hijri day of the month for the date argument.
 

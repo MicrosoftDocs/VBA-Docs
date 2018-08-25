@@ -29,7 +29,7 @@ The required  _arraylist_[argument](../../Glossary/vbe-glossary.md#argument) is 
 |Fixed numeric array|Sets each element to zero.|
 |Fixed string array (variable length)|Sets each element to a zero-length string ("").|
 |Fixed string array (fixed length)|Sets each element to zero.|
-|Fixed [Variant](../../Glossary/vbe-glossary.md) array|Sets each element to [Empty](../../Glossary/vbe-glossary.md#empty).|
+|Fixed [Variant](../../Glossary/vbe-glossary.md#variant-data-type) array|Sets each element to [Empty](../../Glossary/vbe-glossary.md#empty).|
 |Array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)|Sets each element as if it were a separate variable.|
 |Array of objects|Sets each element to the special value  **Nothing**.|
 

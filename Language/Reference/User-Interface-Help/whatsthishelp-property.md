@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md) value that determines whether context-sensitive Help uses the pop-up window provided by Windows 95 Help or the main Help window. Read-only at[run time](../../Glossary/vbe-glossary.md#run-time). This property does not apply to the Macintosh.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value that determines whether context-sensitive Help uses the pop-up window provided by Windows 95 Help or the main Help window. Read-only at[run time](../../Glossary/vbe-glossary.md#run-time). This property does not apply to the Macintosh.
 
 ## Remarks
 

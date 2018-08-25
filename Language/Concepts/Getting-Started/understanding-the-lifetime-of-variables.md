@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 The time during which a [variable](../../Glossary/vbe-glossary.md#variable) retains its value is known as its lifetime. The value of a variable may change over its lifetime, but it retains some value. When a variable loses [scope](../../Glossary/vbe-glossary.md#scope), it no longer has a value.
 
-When a [procedure](../../Glossary/vbe-glossary.md#procedure) begins running, all variables are initialized. A numeric variable is initialized to zero, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with the character represented by the ASCII character code 0, or **Chr(** 0 **)**. [Variant](../../Glossary/vbe-glossary.md) variables are initialized to [Empty](../../Glossary/vbe-glossary.md#empty). Each element of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) variable is initialized as if it were a separate variable.
+When a [procedure](../../Glossary/vbe-glossary.md#procedure) begins running, all variables are initialized. A numeric variable is initialized to zero, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with the character represented by the ASCII character code 0, or **Chr(** 0 **)**. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) variables are initialized to [Empty](../../Glossary/vbe-glossary.md#empty). Each element of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) variable is initialized as if it were a separate variable.
 
 When you declare an [object variable](../../Glossary/vbe-glossary.md#object-variable), space is reserved in memory, but its value is set to  **Nothing** until you assign an object reference to it using the **Set** statement.
 

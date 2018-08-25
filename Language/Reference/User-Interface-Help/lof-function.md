@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) representing the size, in bytes, of a file opened using the **Open** statement.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the size, in bytes, of a file opened using the **Open** statement.
 
 ## Syntax
 
 **LOF(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an[Integer](../../Glossary/vbe-glossary.md) containing a valid[file number](../../Glossary/vbe-glossary.md#file-number).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an[Integer](../../Glossary/vbe-glossary.md#integer-data-type) containing a valid[file number](../../Glossary/vbe-glossary.md#file-number).
 
  **Note**  Use the  **FileLen** function to obtain the length of a file that is not open.
 

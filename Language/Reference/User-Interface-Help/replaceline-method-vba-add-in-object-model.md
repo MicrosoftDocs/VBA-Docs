@@ -24,6 +24,6 @@ The  **ReplaceLine** syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _line_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the location of the line you want to replace.|
-| _code_|Required. A [String](../../Glossary/vbe-glossary.md) containing the code you want to insert.|
+| _line_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the location of the line you want to replace.|
+| _code_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the code you want to insert.|
 

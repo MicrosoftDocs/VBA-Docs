@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the depreciation of an asset for a specific time period using the double-declining balance method or some other method you specify.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the depreciation of an asset for a specific time period using the double-declining balance method or some other method you specify.
 
 ## Syntax
 
@@ -27,7 +27,7 @@ The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md#
 |**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
 |**_life_**|Required.  **Double** specifying length of useful life of the asset.|
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
-|**_factor_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
+|**_factor_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
 
 ## Remarks
 

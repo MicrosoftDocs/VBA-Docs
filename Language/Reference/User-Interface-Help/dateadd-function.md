@@ -62,7 +62,7 @@ DateAdd("m", 1, "31-Jan-95")
 
 In this case,  **DateAdd** returns 28-Feb-95, not 31-Feb-95. If **_date_** is 31-Jan-96, it returns 29-Feb-96 because 1996 is a leap year.
 If the calculated date would precede the year 100 (that is, you subtract more years than are in  **_date_**), an error occurs.
-If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md) value, it is rounded to the nearest whole number before being evaluated.
+If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md#long-data-type) value, it is rounded to the nearest whole number before being evaluated.
 
  **Note**  The format of the return value for  **DateAdd** is determined by **Control Panel** settings, not by the format that is passed in **_date_** argument.
 

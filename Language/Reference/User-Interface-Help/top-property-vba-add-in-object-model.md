@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [Single](../../Glossary/vbe-glossary.md) specifying the location of the top of the window on the screen in[twips](../../Glossary/vbe-glossary.md#twip). Read/write.
+Returns or sets a [Single](../../Glossary/vbe-glossary.md#single-data-type) specifying the location of the top of the window on the screen in[twips](../../Glossary/vbe-glossary.md#twip). Read/write.
 
 ## Remarks
 

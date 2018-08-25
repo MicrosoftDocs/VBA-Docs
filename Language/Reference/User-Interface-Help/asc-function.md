@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](../../Glossary/vbe-glossary.md) representing the[character code](../../Glossary/vbe-glossary.md#character-code) corresponding to the first letter in a string.
+Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) representing the[character code](../../Glossary/vbe-glossary.md#character-code) corresponding to the first letter in a string.
 
 ## Syntax
 

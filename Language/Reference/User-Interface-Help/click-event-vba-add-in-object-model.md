@@ -24,7 +24,7 @@ The Click event syntax has these [named arguments](../../Glossary/vbe-glossary.m
 |**Part**|**Description**|
 |:-----|:-----|
 |**_ctrl_**|Required; [Object](../../Glossary/vbe-glossary.md#object). Specifies the object that is the source of the Click event.|
-|**_handled_**|Required; [Boolean](../../Glossary/vbe-glossary.md). If  **True**, other[add-ins](../../Glossary/vbe-glossary.md#add-in) should handle the event. If **False**, the action of the command bar item has not been handled.|
+|**_handled_**|Required; [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type). If  **True**, other[add-ins](../../Glossary/vbe-glossary.md#add-in) should handle the event. If **False**, the action of the command bar item has not been handled.|
 |**_canceldefault_**|Required;  **Boolean**. If **True**, default behavior is performed unless canceled by a downstream add-in. If **False**, default behavior is not performed unless restored by a downstream add-in.|
 
 ## Remarks

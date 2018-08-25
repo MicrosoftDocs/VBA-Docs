@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [Single](../../Glossary/vbe-glossary.md) containing the height of the window in[twips](../../Glossary/vbe-glossary.md#twip). Read/write.
+Returns or sets a [Single](../../Glossary/vbe-glossary.md#single-data-type) containing the height of the window in[twips](../../Glossary/vbe-glossary.md#twip). Read/write.
 
 ## Remarks
 

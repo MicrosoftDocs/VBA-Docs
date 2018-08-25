@@ -18,7 +18,7 @@ Returns a  **Double** specifying _e_ (the base of natural logarithms) raised to 
 ## Syntax
 
 **Exp(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
 
 ## Remarks
 

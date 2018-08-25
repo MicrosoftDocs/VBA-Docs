@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) containing the major version number of the referenced[type library](../../Glossary/vbe-glossary.md#type-library). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the major version number of the referenced[type library](../../Glossary/vbe-glossary.md#type-library). Read-only.
 
 ## Remarks
 
