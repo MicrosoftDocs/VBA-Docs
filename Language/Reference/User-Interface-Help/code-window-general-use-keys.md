@@ -18,7 +18,7 @@ Use these key combinations in the  **Code** window:
 |**Press**|**To**|
 |:-----|:-----|
 |F1|Get context-sensitive Help on functions, statements, methods, properties, or events.|
-|F2|Display the [Object Browser](../../Glossary/vbe-glossary.md#Object-Browser).|
+|F2|Display the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).|
 |F9|Set or remove a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint).|
 |CTRL+SHIFT+F9|Clear all breakpoints.|
 |F5|Run a Sub/UserForm or macro.|

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Sets or retrieves the [accelerator key](../../../language/Glossary/glossary-vba.md#accelerator-key) for a control.
+Sets or retrieves the [accelerator key](../../Glossary/glossary-vba.md#accelerator-key) for a control.
 
 ## Syntax
 

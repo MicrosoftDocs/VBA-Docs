@@ -30,7 +30,7 @@ The  **Like** operator syntax has these parts:
 
 ## Remarks
 
-If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](../../Glossary/vbe-glossary.md#Null),  _result_ is **Null**.  
+If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](../../Glossary/vbe-glossary.md#null),  _result_ is **Null**.  
 The behavior of the  **Like** operator depends on the **Option Compare** statement. The default[string-comparison](../../Glossary/vbe-glossary.md#string-comparison) method for each[module](../../Glossary/vbe-glossary.md#module) is **Option Compare** **Binary**.  
 
 **Option Compare Binary** results in string comparisons based on a[sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. Sort order is determined by the code page. In the following example, a typical binary sort order is shown:  

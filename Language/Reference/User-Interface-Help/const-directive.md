@@ -27,7 +27,7 @@ The **#Const** compiler directive syntax has these parts:
 
 ## Remarks
 
-Conditional compiler constants are always [Private](../../Glossary/vbe-glossary.md#Private) to the [module](../../Glossary/vbe-glossary.md#module) in which they appear. It is not possible to create [Public](../../Glossary/vbe-glossary.md#Public) compiler constants using the **#Const** directive. **Public** compiler constants can only be created in the user interface.
+Conditional compiler constants are always [Private](../../Glossary/vbe-glossary.md#private) to the [module](../../Glossary/vbe-glossary.md#module) in which they appear. It is not possible to create [Public](../../Glossary/vbe-glossary.md#public) compiler constants using the **#Const** directive. **Public** compiler constants can only be created in the user interface.
 Only conditional compiler constants and literals can be used in  _expression_. Using a standard constant defined with **Const**, or using a constant that is undefined, causes an error to occur. Conversely, constants defined using the **#Const** [keyword](../../Glossary/vbe-glossary.md#keyword) can only be used for conditional compilation.
 Conditional compiler constants are always evaluated at the [module level](../../Glossary/vbe-glossary.md#module-level), regardless of their placement in code.
 

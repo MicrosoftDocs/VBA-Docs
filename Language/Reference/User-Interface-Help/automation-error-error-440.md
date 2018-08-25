@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Automation error (Error 440)
 
-When you access [Automation objects](../../Glossary/vbe-glossary.md#Automation-object), specific types of errors can occur. This error has the following possible causes and solutions:
+When you access [Automation objects](../../Glossary/vbe-glossary.md#automation-object), specific types of errors can occur. This error has the following possible causes and solutions:
 
 
 

@@ -37,7 +37,7 @@ The settings for  _fmBackStyle_ are:
 
 ## Remarks
 
-The  **BackStyle** property determines whether a control is[transparent](../../../language/Glossary/glossary-vba.md#transparent). If  **BackStyle** is **fmBackStyleOpaque**, the control is not transparent and you cannot see anything behind the control on a form. If **BackStyle** is **fmBackStyleTransparent**, you can see through the control and look at anything on the form located behind the control.
+The  **BackStyle** property determines whether a control is[transparent](../../Glossary/glossary-vba.md#transparent). If  **BackStyle** is **fmBackStyleOpaque**, the control is not transparent and you cannot see anything behind the control on a form. If **BackStyle** is **fmBackStyleTransparent**, you can see through the control and look at anything on the form located behind the control.
 
  **Note**   **BackStyle** does not affect the transparency of bitmaps. You must use a picture editor such as Paintbrush to make a bitmap transparent. Not all controls support transparent bitmaps.
 

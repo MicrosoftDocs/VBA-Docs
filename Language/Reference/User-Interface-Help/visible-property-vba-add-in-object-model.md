@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-For the  **Window** object, returns or sets a[Boolean](../../Glossary/vbe-glossary.md) value that specifies the visibility of a window. Read/write. For the **CodePane** object, returns a **Boolean** value that indicates whether or not the[code pane](../../Glossary/vbe-glossary.md) is visible in the window. Read-only.
+For the  **Window** object, returns or sets a[Boolean](../../Glossary/vbe-glossary.md) value that specifies the visibility of a window. Read/write. For the **CodePane** object, returns a **Boolean** value that indicates whether or not the[code pane](../../Glossary/vbe-glossary.md#code-pane) is visible in the window. Read-only.
  **Return Values**
 The  **Visible** property returns the following values:
 

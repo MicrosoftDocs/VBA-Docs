@@ -52,7 +52,7 @@ The following are examples of actions that initiate the Click event:
     
 - Pressing ESC on a form that has a command button whose  **Cancel** property is set to **True**, as long as no other command button has the focus.
     
-- Pressing a control's [accelerator key](../../../language/Glossary/glossary-vba.md#accelerator-key).
+- Pressing a control's [accelerator key](../../Glossary/glossary-vba.md#accelerator-key).
     
 
 When the Click event results from clicking a control, the sequence of events leading to the Click event is:

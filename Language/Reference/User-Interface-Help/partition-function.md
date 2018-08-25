@@ -42,7 +42,7 @@ The following table shows how the ranges are determined using three sets of  **_
 In the table shown above, the third line shows the result when  **_start_** and **_stop_** define a set of numbers that can't be evenly divided by **_interval_**. The last range extends to **_stop_** (11 numbers) even though **_interval_** is 20.
 If necessary,  **Partition** returns a range with enough leading spaces so that there are the same number of characters to the left and right of the colon as there are characters in **_stop_**, plus one. This ensures that if you use **Partition** with other numbers, the resulting text will be handled properly during any subsequent sort operation.
 If  **_interval_** is 1, the range is **_number:number_**, regardless of the **_start_** and **_stop_** arguments. For example, if **_interval_** is 1, **_number_** is 100 and **_stop_** is 1000, **Partition** returns " 100: 100".
-If any of the parts is [Null](../../Glossary/vbe-glossary.md#Null),  **Partition** returns a **Null**.
+If any of the parts is [Null](../../Glossary/vbe-glossary.md#null),  **Partition** returns a **Null**.
 
 ## Example
 

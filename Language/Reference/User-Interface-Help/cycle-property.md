@@ -34,7 +34,7 @@ The settings for  _fmCycle_ are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| _fmCycleAllForms_|0|[Cycles](../../../language/Glossary/glossary-vba.md#cycle) through the controls on the form and the controls of the **Frame** and **MultiPage** controls that are currently displayed on the form.|
+| _fmCycleAllForms_|0|[Cycles](../../Glossary/glossary-vba.md#cycle) through the controls on the form and the controls of the **Frame** and **MultiPage** controls that are currently displayed on the form.|
 | _fmCycleCurrentForm_|2|Cycles through the controls on the form,  **Frame**, or **MultiPage**. The focus stays within the form, **Frame**, or **MultiPage** until the focus is explicitly set to a control outside the form, **Frame**, or **MultiPage**.|
 
 If you specify a non-integer value for  **Cycle**, the value is rounded up to the nearest integer.

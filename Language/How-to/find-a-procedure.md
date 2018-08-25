@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- To view an existing general procedure, select  **(General)** in the[Object box](../Glossary/vbe-glossary.md#Object-box) in the **Code** window, and then select the procedure in the[Procedure box](../Glossary/vbe-glossary.md#Procedure-box).
+- To view an existing general procedure, select  **(General)** in the[Object box](../Glossary/vbe-glossary.md#object-box) in the **Code** window, and then select the procedure in the[Procedure box](../Glossary/vbe-glossary.md#procedure-box).
     
 - To view an event procedure, select the appropriate object in the  **Object** box in the **Code** window, and then select the event in the **Procedure** box.
     

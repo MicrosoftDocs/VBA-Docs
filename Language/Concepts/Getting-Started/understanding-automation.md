@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Automation (formerly OLE Automation) is a feature of the Component Object Model (COM), an industry-standard technology that applications use to expose their [objects](../../Glossary/vbe-glossary.md#object) to development tools, macro languages, and other applications that support Automation. For example, a spreadsheet application may expose a worksheet, chart, cell, or range of cells — each as a different type of object. A word processor might expose objects such as an application, a document, a paragraph, a sentence, a bookmark, or a selection.
 
-When an application supports Automation, the objects the application exposes can be accessed by Visual Basic. Use Visual Basic to manipulate these objects by invoking [methods](../../Glossary/vbe-glossary.md#method) on the object or by getting and setting the object's properties. For example, you can create an [Automation object](../../Glossary/vbe-glossary.md#Automation-object) named and write the following code to access the object:
+When an application supports Automation, the objects the application exposes can be accessed by Visual Basic. Use Visual Basic to manipulate these objects by invoking [methods](../../Glossary/vbe-glossary.md#method) on the object or by getting and setting the object's properties. For example, you can create an [Automation object](../../Glossary/vbe-glossary.md#automation-object) named and write the following code to access the object:
 
 
 

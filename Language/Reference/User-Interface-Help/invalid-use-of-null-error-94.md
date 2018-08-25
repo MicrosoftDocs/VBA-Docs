@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid use of Null (Error 94)
 
-[Null](../../Glossary/vbe-glossary.md#Null) is a **Variant** subtype used to indicate that a data item contains no valid data. This error has the following cause and solution:
+[Null](../../Glossary/vbe-glossary.md#null) is a **Variant** subtype used to indicate that a data item contains no valid data. This error has the following cause and solution:
 
 - You are trying to obtain the value of a **Variant** variable or an [expression](../../Glossary/vbe-glossary.md#expression) that is **Null**. For example:
     

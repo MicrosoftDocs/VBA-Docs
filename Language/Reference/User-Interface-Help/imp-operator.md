@@ -36,7 +36,7 @@ The following table illustrates how  _result_ is determined:
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**False**|
-|**True**|[Null](../../Glossary/vbe-glossary.md#Null)|**Null**|
+|**True**|[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
 |**False**|**True**|**True**|
 |**False**|**False**|**True**|
 |**False**|**Null**|**True**|

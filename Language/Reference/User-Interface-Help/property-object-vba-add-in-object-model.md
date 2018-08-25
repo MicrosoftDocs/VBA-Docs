@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Represents the [properties](../../Glossary/vbe-glossary.md) of an object that are visible in the[Properties window](../../Glossary/vbe-glossary.md) for any given component.
+Represents the [properties](../../Glossary/vbe-glossary.md#property) of an object that are visible in the[Properties window](../../Glossary/vbe-glossary.md#properties-window) for any given component.
 
 ## Remarks
 

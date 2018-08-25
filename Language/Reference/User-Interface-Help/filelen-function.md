@@ -18,7 +18,7 @@ Returns a [Long](../../Glossary/vbe-glossary.md) specifying the length of a file
 ## Syntax
 
 **FileLen(**_pathname_**)**
-The required  _pathname_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that specifies a file. The _pathname_ may include the directory or folder, and the drive.
+The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file. The _pathname_ may include the directory or folder, and the drive.
 
 ## Remarks
 

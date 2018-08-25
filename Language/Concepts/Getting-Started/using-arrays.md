@@ -62,7 +62,7 @@ Dim strWeekday(7 To 13) As String
 
 ## Storing Variant Values in Arrays
 
-There are two ways to create arrays of  **Variant** values. One way is to declare an array of [Variant data type](../../Glossary/vbe-glossary.md#Variant-data-type), as shown in the following example:
+There are two ways to create arrays of  **Variant** values. One way is to declare an array of [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type), as shown in the following example:
 
 
 ```vb

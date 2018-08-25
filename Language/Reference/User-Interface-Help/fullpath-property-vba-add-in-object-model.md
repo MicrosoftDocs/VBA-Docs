@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 
 
-Returns a [String](../../Glossary/vbe-glossary.md) containing the path and file name of the referenced[type library](../../Glossary/vbe-glossary.md). Read-only.
+Returns a [String](../../Glossary/vbe-glossary.md) containing the path and file name of the referenced[type library](../../Glossary/vbe-glossary.md#type-library). Read-only.
 

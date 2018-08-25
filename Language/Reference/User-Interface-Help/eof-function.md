@@ -18,7 +18,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md) containing the[Boolean](../
 ## Syntax
 
 **EOF(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 

@@ -31,7 +31,7 @@ An expected part of the syntax was not found. The error is usually located to th
 
   Always use function calls in [expressions](../../Glossary/vbe-glossary.md#expression). If you have multiple arguments enclosed in parentheses in a **Sub** procedure call, you must use the **Call** keyword.
     
-- **Expected: Expression**. For example, when pasting code from the [Object Browser](../../Glossary/vbe-glossary.md#Object-Browser), you may have forgotten to specify a value for a [named argument](../../Glossary/vbe-glossary.md#named-argument).
+- **Expected: Expression**. For example, when pasting code from the [Object Browser](../../Glossary/vbe-glossary.md#object-browser), you may have forgotten to specify a value for a [named argument](../../Glossary/vbe-glossary.md#named-argument).
     
   ```vb
     Workbook.Add (X:= )  ' Error because no value assigned to ' named argument. 

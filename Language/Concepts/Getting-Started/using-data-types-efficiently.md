@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using Data Types Efficiently
 
-Unless otherwise specified, undeclared [variables](../../Glossary/vbe-glossary.md#variable) are assigned the[Variant data type](../../Glossary/vbe-glossary.md#Variant-data-type). This data type makes it easy to write programs, but it is not always the most efficient data type to use.
+Unless otherwise specified, undeclared [variables](../../Glossary/vbe-glossary.md#variable) are assigned the[Variant data type](../../Glossary/vbe-glossary.md#variant-data-type). This data type makes it easy to write programs, but it is not always the most efficient data type to use.
 
 You should consider using other data types if:
 

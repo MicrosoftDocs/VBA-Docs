@@ -18,7 +18,7 @@ Returns a [String](../../Glossary/vbe-glossary.md) representing the hexadecimal 
 ## Syntax
 
 **Hex** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md) is any valid[numeric expression](../../Glossary/vbe-glossary.md) or[string expression](../../Glossary/vbe-glossary.md) _._
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) _._
 
 ## Remarks
 
@@ -27,8 +27,8 @@ If  _number_ is not already a whole number, it is rounded to the nearest whole n
 
 |**If  _number_ is**|**Hex returns**|
 |:-----|:-----|
-|[Null](../../Glossary/vbe-glossary.md)|Null|
-|[Empty](../../Glossary/vbe-glossary.md)|Zero (0)|
+|[Null](../../Glossary/vbe-glossary.md#null)|Null|
+|[Empty](../../Glossary/vbe-glossary.md#empty)|Zero (0)|
 |Any other number|Up to eight hexadecimal characters|
 
 You can represent hexadecimal numbers directly by preceding numbers in the proper range with  `&;H.` For example, For example, `&;H10` represents decimal 16 in hexadecimal notation.

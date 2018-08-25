@@ -29,7 +29,7 @@ The  **Eqv** operator syntax has these parts:
 
 ## Remarks
 
-If either expression is [Null](../../Glossary/vbe-glossary.md#Null),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
+If either expression is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
 
 
 |**If  _expression1_ is**|**And  _expression2_ is**|**The  _result_ is**|

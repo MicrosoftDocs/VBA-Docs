@@ -33,7 +33,7 @@ The **Do Loop** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _condition_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) that is **True** or **False**. If _condition_ is [Null](../../Glossary/vbe-glossary.md#Null),  _condition_ is treated as **False**.|
+| _condition_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) that is **True** or **False**. If _condition_ is [Null](../../Glossary/vbe-glossary.md#null),  _condition_ is treated as **False**.|
 | _statements_|One or more statements that are repeated while, or until,  _condition_ is **True**.|
 
 <<<<<<< HEAD

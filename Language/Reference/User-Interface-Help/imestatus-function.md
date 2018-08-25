@@ -19,7 +19,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md) specifying the current Inpu
 
 **IMEStatus**
  **Return Values**
-The return values for the Japanese [locale](../../Glossary/vbe-glossary.md) are as follows:
+The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
 
 
 |**Constant**|**Value**|**Description**|

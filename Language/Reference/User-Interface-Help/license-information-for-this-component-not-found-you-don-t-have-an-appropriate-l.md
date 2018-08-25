@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # License information for this component not found. You don't have an appropriate license to use this functionality in the design environment (Error 429)
 
-You are not a licensed user of the [ActiveX control](../../Glossary/vbe-glossary.md#ActiveX-control). This error has the following cause and solution:
+You are not a licensed user of the [ActiveX control](../../Glossary/vbe-glossary.md#activex-control). This error has the following cause and solution:
 
 
 

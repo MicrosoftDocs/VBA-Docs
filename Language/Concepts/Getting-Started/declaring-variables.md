@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 When declaring [variables](../../Glossary/vbe-glossary.md#variable), you usually use a **Dim** statement. A declaration statement can be placed within a procedure to create a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable. Or it may be placed at the top of a [module](../../Glossary/vbe-glossary.md#module), in the Declarations section, to create a [module-level](../../Glossary/vbe-glossary.md#module-level) variable.
 
-The following example creates the variable and specifies the [String data type](../../Glossary/vbe-glossary.md#String-data-type).
+The following example creates the variable and specifies the [String data type](../../Glossary/vbe-glossary.md#string-data-type).
 
 
 

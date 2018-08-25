@@ -25,7 +25,7 @@ The  **StrComp** function syntax has these[named arguments](../../Glossary/vbe-g
 |:-----|:-----|
 |**_string1_**|Required. Any valid [string expression](../../Glossary/vbe-glossary.md#string-expression).|
 |**_string2_**|Required. Any valid string expression.|
-|**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](../../Glossary/vbe-glossary.md#argument) is[Null](../../Glossary/vbe-glossary.md#Null), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
+|**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](../../Glossary/vbe-glossary.md#argument) is[Null](../../Glossary/vbe-glossary.md#null), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
 
  **Settings**
 The  **compare** argument settings are:

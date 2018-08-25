@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # With object must be user-defined type, Object, or Variant
 
-The  **With...End With** block can't be used with all[variable](../../Glossary/vbe-glossary.md) types. This error has the following cause and solution:
+The  **With...End With** block can't be used with all[variable](../../Glossary/vbe-glossary.md#variable) types. This error has the following cause and solution:
 
 
 
-- You tried to use a variable that was not of  **Object** type,[user-defined type](../../Glossary/vbe-glossary.md), or [Variant](../../Glossary/vbe-glossary.md) type containing an object within a **With** block.
+- You tried to use a variable that was not of  **Object** type,[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or [Variant](../../Glossary/vbe-glossary.md) type containing an object within a **With** block.
     
     Check to see if you misspelled the name of the object, user-defined type, or  **Variant** variable.
     

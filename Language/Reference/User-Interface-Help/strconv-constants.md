@@ -24,6 +24,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbNarrow**|8|Converts wide (double-byte) characters in string to narrow (single-byte) characters. Applies to East Asia locales.|
 |**vbKatakana**|16|Converts Hiragana characters in string to Katakana characters. Applies to Japan only.|
 |**vbHiragana**|32|Converts Katakana characters in string to Hiragana characters. Applies to Japan only.|
-|**vbUnicode**|64|Converts the string to [Unicode](../../Glossary/vbe-glossary.md#Unicode) using the default code page of the system. (Not available on the Macintosh.)|
+|**vbUnicode**|64|Converts the string to [Unicode](../../Glossary/vbe-glossary.md#unicode) using the default code page of the system. (Not available on the Macintosh.)|
 |**vbFromUnicode**|128|Converts the string from Unicode to the default code page of the system. (Not available on the Macintosh.)|
 

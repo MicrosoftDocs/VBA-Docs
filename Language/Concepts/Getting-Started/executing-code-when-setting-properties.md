@@ -53,7 +53,7 @@ End Property
 
 ```
 
-[Property procedures](../../Glossary/vbe-glossary.md#Property-procedure) make it easy to execute code at the same time the value of a property is set. You can use property procedures to do the following processing:
+[Property procedures](../../Glossary/vbe-glossary.md#property-procedure) make it easy to execute code at the same time the value of a property is set. You can use property procedures to do the following processing:
 
 
 - Before a property value is set to determine the value of the property.

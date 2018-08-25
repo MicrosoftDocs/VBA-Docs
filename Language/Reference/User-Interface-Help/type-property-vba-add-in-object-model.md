@@ -24,8 +24,8 @@ The  **Type** property settings for the **Window** object are described in the f
 |**vbext_wt_Designer**|1|[Designer](../../Glossary/vbe-glossary.md#designer)|
 |**vbext_wt_Browser**|2|**Object Browser**|
 |**vbext_wt_Immediate**|5|**Immediate** window|
-|**vbext_wt_ProjectWindow**|6|[Project window](../../Glossary/vbe-glossary.md#Project-window)|
-|**vbext_wt_PropertyWindow**|7|[Properties window](../../Glossary/vbe-glossary.md#Properties-window)|
+|**vbext_wt_ProjectWindow**|6|[Project window](../../Glossary/vbe-glossary.md#project-window)|
+|**vbext_wt_PropertyWindow**|7|[Properties window](../../Glossary/vbe-glossary.md#properties-window)|
 |**vbext_wt_Find**|8|**Find** dialog box|
 |**vbext_wt_FindReplace**|9|**Search and Replace** dialog box|
 |**vbext_wt_LinkedWindowFrame**|11|[Linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame)|

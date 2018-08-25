@@ -19,7 +19,7 @@ Not every [procedure](../../Glossary/vbe-glossary.md#procedure) that appears in 
     
 - You tried to use a function that requires a [parameter](../../Glossary/vbe-glossary.md#parameter) type or has a return type that isn't available in Visual Basic.
     
-    Sometimes you can simulate return types with Visual Basic equivalents. Check the subtypes of the [Variant data type](../../Glossary/vbe-glossary.md#Variant-data-type) . This may also work for non-Basic parameter types that are expected as references. However, you can't pass a **Variant** data type[by value](../../Glossary/vbe-glossary.md#by-value) in an effort to simulate a non-Basic type.
+    Sometimes you can simulate return types with Visual Basic equivalents. Check the subtypes of the [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type) . This may also work for non-Basic parameter types that are expected as references. However, you can't pass a **Variant** data type[by value](../../Glossary/vbe-glossary.md#by-value) in an effort to simulate a non-Basic type.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

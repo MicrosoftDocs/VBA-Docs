@@ -32,7 +32,7 @@ The  **If...Then...Else** statement syntax has these parts:
 |:-----|:-----|
 | _condition_|Required. One or more of the following two types of expressions:|
 |
-|A [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md#Null),  _condition_ is treated as **False**.|
+|A [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) that evaluates to **True** or **False**. If _condition_ is[Null](../../Glossary/vbe-glossary.md#null),  _condition_ is treated as **False**.|
 |
 |An expression of the form  **TypeOf**_objectname_**Is**_objecttype_. The _objectname_ is any object reference and _objecttype_ is any valid object type. The expression is **True** if _objectname_ is of the[object type](../../Glossary/vbe-glossary.md#object-type) specified by _objecttype_; otherwise it is **False**.|
 | _statements_|Optional in block form; required in single-line form that has no  **Else** clause. One or more statements separated by colons; executed if _condition_ is **True**.|

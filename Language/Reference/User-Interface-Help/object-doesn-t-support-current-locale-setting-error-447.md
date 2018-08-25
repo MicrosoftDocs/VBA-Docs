@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # Object doesn't support current locale setting (Error 447)
 
-Not all objects support all [locale](../../Glossary/vbe-glossary.md) settings. This error has the following causes and solutions:
+Not all objects support all [locale](../../Glossary/vbe-glossary.md#locale) settings. This error has the following causes and solutions:
 
 
 
-- You attempted to access an object that doesn't support the locale setting for the current [project](../../Glossary/vbe-glossary.md). For example, if your current project has the locale setting Canadian French, the object you are trying to access must support that locale setting.
+- You attempted to access an object that doesn't support the locale setting for the current [project](../../Glossary/vbe-glossary.md#project). For example, if your current project has the locale setting Canadian French, the object you are trying to access must support that locale setting.
     
     Check which locale settings the object supports.
     
-- The object relies on national language support in a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md), for example, OLE2NLS.DLL, that may be out of date.
+- The object relies on national language support in a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), for example, OLE2NLS.DLL, that may be out of date.
     
     Obtain a more recent version of the DLL, one that supports the current project locale.
     

@@ -18,7 +18,7 @@ You can use the following shortcut keys to access commands in the  **Code** wind
 |**Description**|**Shortcut Keys**|
 |:-----|:-----|
 |View  **Code** window|F7|
-|View [Object Browser](../../Glossary/vbe-glossary.md#Object-Browser)|F2|
+|View [Object Browser](../../Glossary/vbe-glossary.md#object-browser)|F2|
 |Find|CTRL+F|
 |Replace|CTRL+H|
 |Find Next|F3|

@@ -29,7 +29,7 @@ The  **Switch** function syntax has these parts:
 ## Remarks
 
 The  **Switch** function[argument](../../Glossary/vbe-glossary.md#argument) list consists of pairs of expressions and values. The expressions are evaluated from left to right, and the value associated with the first expression to evaluate to **True** is returned. If the parts aren't properly paired, a[run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs. For example, if _expr-1_ is **True**, **Switch** returns _value-1_. If _expr-1_ is **False**, but _expr-2_ is **True**, **Switch** returns _value-2_, and so on.
- **Switch** returns a[Null](../../Glossary/vbe-glossary.md#Null) value if:
+ **Switch** returns a[Null](../../Glossary/vbe-glossary.md#null) value if:
 
 
 - None of the expressions is  **True**.

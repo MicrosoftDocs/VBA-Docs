@@ -35,7 +35,7 @@ The following table illustrates how  _result_ is determined:
 |:-----|:-----|
 |**True**|**False**|
 |**False**|**True**|
-|[Null](../../Glossary/vbe-glossary.md#Null)|**Null**|
+|[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
 
 In addition, the  **Not** operator inverts the bit values of any variable and sets the corresponding bit in _result_ according to the following table:
 

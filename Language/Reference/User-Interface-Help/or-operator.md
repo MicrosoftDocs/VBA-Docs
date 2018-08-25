@@ -36,7 +36,7 @@ If either or both expressions evaluate to  **True**, _result_ is **True**. The f
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**True**|
-|**True**|[Null](../../Glossary/vbe-glossary.md#Null)|**True**|
+|**True**|[Null](../../Glossary/vbe-glossary.md#null)|**True**|
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
 |**False**|**Null**|**Null**|
