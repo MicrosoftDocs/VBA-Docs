@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009004
 ms.prod: office
 ms.assetid: 57fa9eb3-7e8d-2f7e-20d7-47e468b7836a
-ms.date: 06/08/2017
+ms.date: 08/24/2018
 ---
 
 
@@ -30,11 +30,6 @@ The  **Resume** statement syntax can have any of the following forms:
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If you use a  **Resume** statement anywhere except in an error-handling routine, an error occurs.
 
 ## Example
@@ -50,13 +45,12 @@ Sub ResumeStatementDemo()
  Exit Sub ' Exit Sub to avoid error handler. 
 ErrorHandler: ' Error-handling routine. 
  Select Case Err.Number ' Evaluate error number. 
- Case 55 ' "File already open" error. 
- Close #1 ' Close open file. 
- Case Else 
- ' Handle other situations here.... 
+  Case 55 ' "File already open" error. 
+   Close #1 ' Close open file. 
+  Case Else 
+   ' Handle other situations here.... 
  End Select 
- Resume ' Resume execution at same line 
- ' that caused the error. 
+ Resume ' Resume execution at same line that caused the error. 
 End Sub
 ```
 
