@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 
 # Chr function
 
-Returns a [String](../../Glossary/vbe-glossary.md) containing the character associated with the specified [character code](../../Glossary/vbe-glossary.md#character-code).
+Returns a [String](../../Glossary/vbe-glossary.md#string-expression) containing the character associated with the specified [character code](../../Glossary/vbe-glossary.md#character-code).
 
 ## Syntax
 
@@ -25,7 +25,7 @@ The required  _charcode_ [argument](../../Glossary/vbe-glossary.md#argument) is 
 
 ## Remarks
 
-Numbers from 0 - 31 are the same as standard, nonprintable [ASCII](../../Glossary/vbe-glossary.md) codes. For example, **Chr** ( 10 ) returns a linefeed character. The normal range for _charcode_ is 0 - 255. However, on [DBCS](../../Glossary/vbe-glossary.md#dbcs) systems, the actual range for _charcode_ is -32768 to 65535.
+Numbers from 0 - 31 are the same as standard, nonprintable [ASCII](../../Glossary/vbe-glossary.md#ascii-character-set) codes. For example, **Chr** ( 10 ) returns a linefeed character. The normal range for _charcode_ is 0 - 255. However, on [DBCS](../../Glossary/vbe-glossary.md#dbcs) systems, the actual range for _charcode_ is -32768 to 65535.
 
 > [!NOTE] 
 > The **ChrB** function is used with byte data contained in a **String**. Instead of returning a character, which may be one or two bytes, **ChrB** always returns a single byte. 
@@ -51,4 +51,4 @@ MyChar = Chr(37)    ' Returns %.
 ## See also
 
 - [Character set (0 - 127)](character-set-0127.md)
-- [Character set (128 - 255)](character-set-1282557.md)
+- [Character set (128 - 255)](character-set-128255.md)

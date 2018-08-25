@@ -20,7 +20,7 @@ Returns a [Range](Excel.Range(object).md) object that represents the rectangular
 
  _expression_. `Intersect` ( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` , `_Arg8_` , `_Arg9_` , `_Arg10_` , `_Arg11_` , `_Arg12_` , `_Arg13_` , `_Arg14_` , `_Arg15_` , `_Arg16_` , `_Arg17_` , `_Arg18_` , `_Arg19_` , `_Arg20_` , `_Arg21_` , `_Arg22_` , `_Arg23_` , `_Arg24_` , `_Arg25_` , `_Arg26_` , `_Arg27_` , `_Arg28_` , `_Arg29_` , `_Arg30_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters
@@ -79,7 +79,8 @@ Else
 End If
 ```
 
-The following example compares the **[Worksheet.Range](worksheet-range-property-excel.md) ** property, **[Application.Union](application-union-method-excel.md)** method, and **Intersect** method.
+The following example compares the **[Worksheet.Range](Excel.Worksheet.Range.md)** property, **[Application.Union](Excel.Application.Union.md)** method, and **Intersect** method.
+
  ```vb
 Range("A1:A10").Select                            'Selects cells A1 to A10.
 Range(Range("A1"), Range("A10")).Select           'Selects cells A1 to A10.
@@ -91,6 +92,5 @@ Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 
 ## See also
 
-
-[Application Object](Excel.Application(object).md)
+- [Application Object](Excel.Application(object).md)
 

@@ -20,16 +20,16 @@ Returns or sets the width of all columns in the specified range. Read/write **Va
 
  _expression_. `ColumnWidth`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks
 
 One unit of column width is equal to the width of one character in the Normal style. For proportional fonts, the width of the character 0 (zero) is used.
 
-Use the **[AutoFit](range-autofit-method-excel.md)** method to set column widths based on the contents of cells.
+Use the **[AutoFit](Excel.Autofit.md)** method to set column widths based on the contents of cells.
 
-Use the **[Width](Excel.Range.Width.md)** property to return the width of a column in points.
+Use the **[Width](Excel.Width.md)** property to return the width of a column in points.
 
 If all columns in the range have the same width, the **ColumnWidth** property returns the width. If columns in the range have different widths, this property returns **null** .
 
@@ -47,7 +47,7 @@ End With
 
 
 ## See also
-[Range Object](Excel.Range(object).md)
-[Range.Width Property](range-width-property-excel.md)
-[Range.AutoFit Method](range-autofit-method-excel.md)
+
+- [Range Object](Excel.Range(object).md)
+
 

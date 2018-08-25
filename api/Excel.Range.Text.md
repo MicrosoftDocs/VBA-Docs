@@ -20,7 +20,7 @@ Returns the formatted text for the specified object. Read-only **String** .
 
  _expression_. `Text`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks
@@ -29,7 +29,7 @@ The **Text** property is most often used for a **Range** of one cell. If the **R
 
 ## Example
 
-This example illustrates the difference between the  **Text** and **[Value](range-value-property-excel.md)**  properties of cells that contain formatted numbers.
+This example illustrates the difference between the  **Text** and **[Value](Excel.Range.Value.md)**  properties of cells that contain formatted numbers.
 
 
 ```vb
@@ -44,5 +44,5 @@ MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
 
 ## See also
 
-[Range Object](Excel.Range(object).md)
-[Range.Value Property](range-value-property-excel.md)
+- [Range Object](Excel.Range(object).md)
+

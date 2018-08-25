@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+ _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ### Return Value
@@ -32,10 +32,9 @@ Boolean
 
 When you delete a **[Worksheet](Excel.Worksheet.md)**, this method displays a dialog box that prompts the user to confirm the deletion. This dialog box is displayed by default. When called on the **Worksheet** object, the **Delete** method returns a **Boolean** value that is **False** if the user clicked **Cancel** on the dialog box or **True** if the user clicked **Delete**.
 
-To delete a worksheet without displaying a dialog box, set the **[Application.DisplayAlerts](application-displayalerts-property-excel.md)** property to **False**.
+To delete a worksheet without displaying a dialog box, set the **[Application.DisplayAlerts](Excel.Application.DisplayAlerts.md)** property to **False**.
 
 ## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
+- [Worksheet Object](Excel.Worksheet.md)
 

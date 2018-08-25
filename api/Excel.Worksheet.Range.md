@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents a cell or 
 
  _expression_. `Range`( `_Cell1_` , `_Cell2_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+ _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
 ### Parameters
@@ -94,8 +94,9 @@ Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _
 
 ```
 
-This example compares the **Worksheet.Range** property, **[Application.Union](application-union-method-excel.md)** method, and **[Application.Intersect](application-intersect-method-excel.md)** method.
- ```vb
+This example compares the **Worksheet.Range** property, **[Application.Union](Excel.Application.Union.md)** method, and **[Application.Intersect](Excel.Application.Intersect.md)** method.
+
+```vb
 Range("A1:A10").Select                            'Selects cells A1 to A10.
 Range(Range("A1"), Range("A10")).Select           'Selects cells A1 to A10.
  Range("A1, A10").Select                           'Selects cells A1 and A10.
@@ -107,6 +108,5 @@ Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 
 ## See also
 
-
-[Worksheet Object](Excel.Worksheet.md)
+- [Worksheet Object](Excel.Worksheet.md)
 
