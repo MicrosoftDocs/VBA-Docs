@@ -11,23 +11,28 @@ ms.date: 06/08/2017
 
 # RaiseEvent Statement
 
-Fires an event declared at [module level](../../Glossary/vbe-glossary.md) within a[class](../../Glossary/vbe-glossary.md), form, or document.
+Fires an event declared at [module level](../../Glossary/vbe-glossary.md#module-level) within a[class](../../Glossary/vbe-glossary.md#class), form, or document.
 
 ## Syntax
 
 **RaiseEvent**_eventname_ [ **(**_argumentlis_ t **)** ]
 
-The required  _eventname_ is the name of an event declared within the[module](../../Glossary/vbe-glossary.md) and follows Basic variable naming conventions.
+The required  _eventname_ is the name of an event declared within the[module](../../Glossary/vbe-glossary.md#module) and follows Basic variable naming conventions.
 The  **RaiseEvent** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _eventname_|Required. Name of the event to fire.|
-| _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md), [arrays](../../Glossary/vbe-glossary.md), or [expressions](../../Glossary/vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](../../Glossary/vbe-glossary.md), the parentheses must be omitted.|
+| _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md#variable), [arrays](../../Glossary/vbe-glossary.md#array), or [expressions](../../Glossary/vbe-glossary.md#expression) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](../../Glossary/vbe-glossary.md#argument), the parentheses must be omitted.|
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If the event has not been declared within the module in which it is raised, an error occurs. The following fragment illustrates an event declaration and a procedure in which the event is raised.
 
 
@@ -42,7 +47,7 @@ Sub
 End Sub
 ```
 
-If the event has no arguments, including empty parentheses, in the  **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the[form module](../../Glossary/vbe-glossary.md), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the  **RaiseEvent** statement.
+If the event has no arguments, including empty parentheses, in the  **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the[form module](../../Glossary/vbe-glossary.md#form-module), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the  **RaiseEvent** statement.
 Event firing is done in the order that the connections are established. Since events can have  **ByRef** parameters, a process that connects late may receive parameters that have been changed by an earlier event handler.
 
 ## Example

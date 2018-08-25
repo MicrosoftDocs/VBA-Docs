@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used to perform a logical conjunction on two [expressions](../../Glossary/vbe-glossary.md).
+Used to perform a logical conjunction on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **And** operator syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
@@ -36,7 +36,7 @@ If both expressions evaluate to  **True**, _result_ is **True**. If either expre
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**False**|
-|**True**|[Null](../../Glossary/vbe-glossary.md)|**Null**|
+|**True**|[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
 |**False**|**True**|**False**|
 |**False**|**False**|**False**|
 |**False**|**Null**|**False**|
@@ -44,7 +44,7 @@ If both expressions evaluate to  **True**, _result_ is **True**. If either expre
 |**Null**|**False**|**False**|
 |**Null**|**Null**|**Null**|
 
-The  **And** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The  **And** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|

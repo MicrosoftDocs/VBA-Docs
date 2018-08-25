@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Control name too long; truncated to 'item2'.
 
-The ASCII file contains a control name longer than 40 characters. The [control](../../Glossary/vbe-glossary.md) will be loaded with the name truncated to 40 characters.
+The ASCII file contains a control name longer than 40 characters. The [control](../../Glossary/vbe-glossary.md#control) will be loaded with the name truncated to 40 characters.
 
 

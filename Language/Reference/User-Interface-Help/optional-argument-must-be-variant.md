@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Optional argument must be Variant
 
-Optional [arguments](../../Glossary/vbe-glossary.md) can have any intrinsic[data type](../../Glossary/vbe-glossary.md), but it must be a type with a single default value. This error has the following cause and solution:
+Optional [arguments](../../Glossary/vbe-glossary.md#argument) can have any intrinsic[data type](../../Glossary/vbe-glossary.md#data-type), but it must be a type with a single default value. This error has the following cause and solution:
 
 
 
-- You tried to specify  **Optional** with a[parameter](../../Glossary/vbe-glossary.md) that has no default value, for example, an[array](../../Glossary/vbe-glossary.md).
+- You tried to specify  **Optional** with a[parameter](../../Glossary/vbe-glossary.md#parameter) that has no default value, for example, an[array](../../Glossary/vbe-glossary.md#array).
     
     Make sure any argument specified as  **Optional** has a default value.
     

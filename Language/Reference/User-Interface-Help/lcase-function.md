@@ -18,7 +18,7 @@ Returns a [String](../../Glossary/vbe-glossary.md) that has been converted to lo
 ## Syntax
 
 **LCase** ( _string_ )
-The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md), Null is returned.
+The required  _string_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[string expression](../../Glossary/vbe-glossary.md#string-expression). If  _string_ contains[Null](../../Glossary/vbe-glossary.md#null), Null is returned.
 
 ## Remarks
 

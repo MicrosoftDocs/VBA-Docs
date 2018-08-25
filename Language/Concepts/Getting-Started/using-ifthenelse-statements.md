@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # Using If...Then...Else Statements
 
-You can use the  **If...Then...Else** statement to run a specific[statement](../../Glossary/vbe-glossary.md) or a block of statements, depending on the value of a condition. **If...Then...Else** statements can be nested to as many levels as you need. However, for readability, you may want to use a **Select Case** statement rather than multiple levels of nested **If...Then...Else** statements.
+You can use the  **If...Then...Else** statement to run a specific[statement](../../Glossary/vbe-glossary.md#statement) or a block of statements, depending on the value of a condition. **If...Then...Else** statements can be nested to as many levels as you need. However, for readability, you may want to use a **Select Case** statement rather than multiple levels of nested **If...Then...Else** statements.
 
 
 ## Running Statements if a Condition is True
 
-To run only one statement when a condition is  **True**, use the single-line syntax of the **If...Then...Else** statement. The following example shows the single-line syntax, omitting the **Else**[keyword](../../Glossary/vbe-glossary.md):
+To run only one statement when a condition is  **True**, use the single-line syntax of the **If...Then...Else** statement. The following example shows the single-line syntax, omitting the **Else**[keyword](../../Glossary/vbe-glossary.md#keyword):
 
 
 ```vb

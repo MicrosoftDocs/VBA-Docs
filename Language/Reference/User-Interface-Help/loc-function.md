@@ -18,7 +18,7 @@ Returns a [Long](../../Glossary/vbe-glossary.md) specifying the current read/wri
 ## Syntax
 
 **Loc(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is any valid[Integer](../../Glossary/vbe-glossary.md)[file number](../../Glossary/vbe-glossary.md).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[Integer](../../Glossary/vbe-glossary.md)[file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 

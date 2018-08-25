@@ -18,7 +18,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md) specifying the payment for an
 ## Syntax
 
 **Pmt( _rate_**, **_nper_**, **_pv_** [, **_fv_** [, **_type_** ]] **)**
-The  **Pmt** function has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **Pmt** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
@@ -32,7 +32,7 @@ The  **Pmt** function has these[named arguments](../../Glossary/vbe-glossary.md)
 ## Remarks
 
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
-The  **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
+The  **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md#argument) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
 For all arguments, cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
 
 ## Example

@@ -25,7 +25,7 @@ When **Option Explicit** appears in a module, you must explicitly declare all va
 
 If you don't use the  **Option Explicit** statement, all undeclared variables are of **Variant** type unless the default type is otherwise specified with a **Def**_type_ statement.
 
-> [!NOTE] 
+> [!NOTE]
 > Use  **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the [scope](../../Glossary/vbe-glossary.md#scope) of the variable is not clear.
 
 

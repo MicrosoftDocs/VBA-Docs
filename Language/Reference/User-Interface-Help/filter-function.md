@@ -19,7 +19,7 @@ Returns a zero-based array containing subset of a string array based on a specif
 ## Syntax
 
 **Filter( _sourcearray, match_** [ **_, include_** [ **_, compare_** ]] **)**
-The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glossary.md):
+The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|

@@ -30,7 +30,7 @@ The  **Picture** property syntax has these parts:
 
 ## Remarks
 
-While designing a form, you can use the control's [property page](../../../language/Glossary/glossary-vba.md) to assign a bitmap to the **Picture** property. While running a form, you must use the **LoadPicture** function to assign a bitmap to **Picture**.
+While designing a form, you can use the control's [property page](../../Glossary/glossary-vba.md#property-page) to assign a bitmap to the **Picture** property. While running a form, you must use the **LoadPicture** function to assign a bitmap to **Picture**.
 To remove a picture that is assigned to a control, click the value of the  **Picture** property in the property page and then press DELETE. Pressing BACKSPACE will not remove the picture.
 
  **Note**  For controls with captions, use the  **PicturePosition** property to specify where to display the picture on the object. Use the **PictureSizeMode** property to determine how the picture fills the object.

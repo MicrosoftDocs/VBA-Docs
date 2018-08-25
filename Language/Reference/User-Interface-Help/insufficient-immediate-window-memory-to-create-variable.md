@@ -15,7 +15,7 @@ Memory in the  **Immediate** window is limited. This error has the following cau
 
 
 
-- You specified a [variable](../../Glossary/vbe-glossary.md) in the **Immediate** window that must be instantiated, since it wasn't created in the program's code context.
+- You specified a [variable](../../Glossary/vbe-glossary.md#variable) in the **Immediate** window that must be instantiated, since it wasn't created in the program's code context.
     
     Delete the reference to the variable in the  **Immediate** window, or declare the variable in the program's code context so that it doesn't have to be created in the **Immediate** window.
     

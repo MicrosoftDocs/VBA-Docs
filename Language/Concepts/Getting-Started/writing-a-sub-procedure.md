@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing a Sub Procedure
 
-A  **Sub** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md) enclosed by the **Sub** and **End Sub** statements that performs actions but doesn't return a value. A **Sub** procedure can take arguments, such as[constants](../../Glossary/vbe-glossary.md), [variables](../../Glossary/vbe-glossary.md), or [expressions](../../Glossary/vbe-glossary.md) that are passed by a calling procedure. If a **Sub** procedure has no arguments, the **Sub** statement must include an empty set of parentheses.
+A  **Sub** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md#statement) enclosed by the **Sub** and **End Sub** statements that performs actions but doesn't return a value. A **Sub** procedure can take arguments, such as[constants](../../Glossary/vbe-glossary.md#constant), [variables](../../Glossary/vbe-glossary.md#variable), or [expressions](../../Glossary/vbe-glossary.md#expression) that are passed by a calling procedure. If a **Sub** procedure has no arguments, the **Sub** statement must include an empty set of parentheses.
 
 The following  **Sub** procedure has comments explaining each line.
 

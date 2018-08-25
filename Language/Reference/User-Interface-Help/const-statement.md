@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Const Statement
 
-Declares [constants](../../Glossary/vbe-glossary.md) for use in place of literal values.
+Declares [constants](../../Glossary/vbe-glossary.md#constant) for use in place of literal values.
 
 ## Syntax
 
@@ -22,17 +22,17 @@ The  **Const** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**Public**|Optional. [Keyword](../../Glossary/vbe-glossary.md) used at [module level](../../Glossary/vbe-glossary.md) to declare constants that are available to all [procedures](../../Glossary/vbe-glossary.md) in all [modules](../../Glossary/vbe-glossary.md). Not allowed in procedures.|
-|**Private**|Optional. Keyword used at module level to declare constants that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md) is made. Not allowed in procedures.|
-| _constname_|Required. Name of the constant; follows standard [variable](../../Glossary/vbe-glossary.md) naming conventions.|
-| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the constant; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md), or [Variant](../../Glossary/vbe-glossary.md). Use a separate  **As** _type_ clause for each constant being declared.|
+|**Public**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare constants that are available to all [procedures](../../Glossary/vbe-glossary.md#procedure) in all [modules](../../Glossary/vbe-glossary.md#module). Not allowed in procedures.|
+|**Private**|Optional. Keyword used at module level to declare constants that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made. Not allowed in procedures.|
+| _constname_|Required. Name of the constant; follows standard [variable](../../Glossary/vbe-glossary.md#variable) naming conventions.|
+| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the constant; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md), or [Variant](../../Glossary/vbe-glossary.md). Use a separate  **As** _type_ clause for each constant being declared.|
 | _expression_|Required. Literal, other constant, or any combination that includes all arithmetic or logical operators except  **Is**.|
 
 ## Remarks
 
-Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](../../Glossary/vbe-glossary.md), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](../../Glossary/vbe-glossary.md), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
+Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](../../Glossary/vbe-glossary.md#standard-module), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](../../Glossary/vbe-glossary.md#class-module), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
 To combine several constant declarations on the same line, separate each constant assignment with a comma. When constant declarations are combined in this way, the  **Public** or **Private** keyword, if used, applies to all of them.
-You can't use variables, user-defined functions, or intrinsic Visual Basic functions (such as  **Chr**) in [expressions](../../Glossary/vbe-glossary.md) assigned to constants.
+You can't use variables, user-defined functions, or intrinsic Visual Basic functions (such as  **Chr**) in [expressions](../../Glossary/vbe-glossary.md#expression) assigned to constants.
 
  **Note**  Constants can make your programs self-documenting and easy to modify. Unlike variables, constants can't be inadvertently changed while your program is running.
 

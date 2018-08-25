@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # Constant expression required
 
-A [constant](../../Glossary/vbe-glossary.md) must be initialized. This error has the following causes and solutions:
+A [constant](../../Glossary/vbe-glossary.md#constant) must be initialized. This error has the following causes and solutions:
 
 
 
-- You tried to initialize a constant with a [variable](../../Glossary/vbe-glossary.md), an instance of a [user-defined type](../../Glossary/vbe-glossary.md), an object, or the return value of a function call.
+- You tried to initialize a constant with a [variable](../../Glossary/vbe-glossary.md#variable), an instance of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), an object, or the return value of a function call.
     
     Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the  **Is** logical operator).
     
-- [array](../../Glossary/vbe-glossary.md)
+- [array](../../Glossary/vbe-glossary.md#array)
     
-    To declare a dynamic array within a [procedure](../../Glossary/vbe-glossary.md), declare the array with  **ReDim** and specify the number of elements with a variable.
+    To declare a dynamic array within a [procedure](../../Glossary/vbe-glossary.md#procedure), declare the array with  **ReDim** and specify the number of elements with a variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

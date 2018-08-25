@@ -18,17 +18,17 @@ Returns a  **Variant** (**Date**) containing a date to which a specified time in
 ## Syntax
 
 **DateAdd( _interval, number, date_ )**
-The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md) that is the interval of time you want to add.|
-|**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to add.|
+|**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
 |**_date_**|Required.  **Variant** (**Date**) or literal representing date to which the interval is added.|
 
  **Settings**
-The  **_interval_**[argument](../../Glossary/vbe-glossary.md) has these settings:
+The  **_interval_**[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
 
 
 |**Setting**|**Description**|

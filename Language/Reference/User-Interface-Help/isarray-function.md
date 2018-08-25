@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether a[variable](../../Glossary/vbe-glossary.md) is an[array](../../Glossary/vbe-glossary.md).
+Returns a  **Boolean** value indicating whether a[variable](../../Glossary/vbe-glossary.md#variable) is an[array](../../Glossary/vbe-glossary.md#array).
 
 ## Syntax
 
 **IsArray(**_varname_**)**
-The required  _varname_[argument](../../Glossary/vbe-glossary.md) is an[identifier](../../Glossary/vbe-glossary.md) specifying a variable.
+The required  _varname_[argument](../../Glossary/vbe-glossary.md#argument) is an[identifier](../../Glossary/vbe-glossary.md#identifier) specifying a variable.
 
 ## Remarks
 

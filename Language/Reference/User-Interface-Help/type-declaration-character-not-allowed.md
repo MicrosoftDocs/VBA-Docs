@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Type-declaration character not allowed
 
-While using [type-declaration characters](../../Glossary/vbe-glossary.md) is valid in Visual Basic, some [data types](../../Glossary/vbe-glossary.md) (including **Byte**, **Boolean**, **Date**, **Object**, and **Variant**) have no associated type-declaration characters. This error has the following causes and solutions:
+While using [type-declaration characters](../../Glossary/vbe-glossary.md#type-declaration-character) is valid in Visual Basic, some [data types](../../Glossary/vbe-glossary.md#data-type) (including **Byte**, **Boolean**, **Date**, **Object**, and **Variant**) have no associated type-declaration characters. This error has the following causes and solutions:
 
-- You tried to use a type-declaration character in the declaration of a [variable](../../Glossary/vbe-glossary.md) that uses the **As** clause, for example, with **Dim**, **Static**, **Public**, and so on.
+- You tried to use a type-declaration character in the declaration of a [variable](../../Glossary/vbe-glossary.md#variable) that uses the **As** clause, for example, with **Dim**, **Static**, **Public**, and so on.
     
   Either remove the type-declaration character or remove the **As** clause.
     
-- You tried to use a [type-declaration character](../../Glossary/vbe-glossary.md) in reference to a variable that was implicitly declared without a type-declaration character:
+- You tried to use a [type-declaration character](../../Glossary/vbe-glossary.md#type-declaration-character) in reference to a variable that was implicitly declared without a type-declaration character:
     
   ```vb
       MyVar = 20    ' Implicit declaration. 

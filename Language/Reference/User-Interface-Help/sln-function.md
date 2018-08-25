@@ -18,7 +18,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md) specifying the straight-line 
 ## Syntax
 
 **SLN( _cost_**, **_salvage_**, **_life_ )**
-The  **SLN** function has these[named arguments](../../Glossary/vbe-glossary.md):
+The  **SLN** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
@@ -29,7 +29,7 @@ The  **SLN** function has these[named arguments](../../Glossary/vbe-glossary.md)
 
 ## Remarks
 
-The depreciation period must be expressed in the same unit as the  **_life_**[argument](../../Glossary/vbe-glossary.md). All arguments must be positive numbers.
+The depreciation period must be expressed in the same unit as the  **_life_**[argument](../../Glossary/vbe-glossary.md#argument). All arguments must be positive numbers.
 
 ## Example
 

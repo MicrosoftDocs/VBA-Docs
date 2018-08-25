@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Used to compare two object reference [variables](../../Glossary/vbe-glossary.md).
+Used to compare two object reference [variables](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 

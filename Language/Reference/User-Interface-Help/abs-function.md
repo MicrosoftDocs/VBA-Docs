@@ -17,7 +17,7 @@ Returns a value of the same type that is passed to it specifying the absolute va
 ## Syntax
 **Abs(**_number_**)**
  
-The required _number_ [argument](../../Glossary/vbe-glossary.md) can be any valid[numeric expression](../../Glossary/vbe-glossary.md). If _number_ contains [Null](../../Glossary/vbe-glossary.md), **Null** is returned; if it is an uninitialized [variable](../../Glossary/vbe-glossary.md), zero is returned.
+The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression). If _number_ contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned; if it is an uninitialized [variable](../../Glossary/vbe-glossary.md#variable), zero is returned.
 
 ### Remarks
 The absolute value of a number is its unsigned magnitude. For example,  `ABS(-1)` and `ABS(1)` both return `1`.

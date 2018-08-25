@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the position of a single object in the form's [tab order](../../Glossary/vbe-glossary.md).
+Specifies the position of a single object in the form's [tab order](../../Glossary/vbe-glossary.md#tab-order).
 
 ## Syntax
 

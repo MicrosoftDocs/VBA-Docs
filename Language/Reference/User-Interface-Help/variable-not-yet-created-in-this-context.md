@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # Variable not yet created in this context
 
-A [variable](../../Glossary/vbe-glossary.md) has to be created before it can be displayed in the **Watch** window or the **Immediate** window, and before it can have values assigned to it in the **Immediate** window. This error has the following causes and solutions:
+A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before it can be displayed in the **Watch** window or the **Immediate** window, and before it can have values assigned to it in the **Immediate** window. This error has the following causes and solutions:
 
 
 
-- You tried to display the value of a local variable that you just entered in your code before executing at least a  **Single Step** command in[break mode](../../Glossary/vbe-glossary.md).
+- You tried to display the value of a local variable that you just entered in your code before executing at least a  **Single Step** command in[break mode](../../Glossary/vbe-glossary.md#break-mode).
     
     Step into the code to force compilation of the new statement.
     
-- You tried to display the value of a local variable that you just added in a [procedure](../../Glossary/vbe-glossary.md) farther down the call chain by moving to the procedure using the **Calls** dialog box.
+- You tried to display the value of a local variable that you just added in a [procedure](../../Glossary/vbe-glossary.md#procedure) farther down the call chain by moving to the procedure using the **Calls** dialog box.
     
     You have to actually return to the procedure before you can display the variable in its context.
     

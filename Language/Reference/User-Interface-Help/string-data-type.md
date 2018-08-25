@@ -18,11 +18,11 @@ There are two kinds of strings: variable-length and fixed-length strings.
 - A fixed-length string can contain 1 to approximately 64 K (2^16) characters.
     
   > [!NOTE] 
-  > A [Public](../../Glossary/vbe-glossary.md) fixed-length string can't be used in a [class module](../../Glossary/vbe-glossary.md).
+  > A [Public](../../Glossary/vbe-glossary.md#public) fixed-length string can't be used in a [class module](../../Glossary/vbe-glossary.md#class-module).
 
 The codes for [String](../../Glossary/vbe-glossary.md) characters range from 0-255. The first 128 characters (0-127) of the character set correspond to the letters and symbols on a standard U.S. keyboard. These first 128 characters are the same as those defined by the [ASCII](../../Glossary/vbe-glossary.md) character set. The second 128 characters (128-255) represent special characters, such as letters in international alphabets, accents, currency symbols, and fractions.
 
-The [type-declaration character](../../Glossary/vbe-glossary.md) for **String** is the dollar sign (**$**).
+The [type-declaration character](../../Glossary/vbe-glossary.md#type-declaration-character) for **String** is the dollar sign (**$**).
 
 A double-quotation-mark can be embedded within a [string literal](../../Glossary/vbe-glossary.md#string-literal) in one of two ways:
 
