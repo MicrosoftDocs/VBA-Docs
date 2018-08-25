@@ -66,7 +66,7 @@ End If
 
 ## See also
 
+[Range Object](Excel.Range(object).md) 
 
-[Range Object](Excel.Range(object).md)
 [Worksheet.Columns Property](excel.worksheet.columns.md)
 

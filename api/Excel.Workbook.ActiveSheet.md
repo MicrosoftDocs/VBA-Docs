@@ -42,8 +42,11 @@ MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ## See also
 
 [Workbook Object](Excel.Workbook.md)
+
 [Window Object](excel.window.md)
+
 [Worksheet.Activate Method](excel.worksheet.activate(method).md)
+
 [Window.ActiveSheet Property](excel.window.activesheet.md)
 
 
