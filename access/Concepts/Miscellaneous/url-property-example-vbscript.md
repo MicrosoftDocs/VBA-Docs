@@ -1,21 +1,17 @@
 ---
-title: URL Property Example (VBScript)
+title: URL property example (VBScript)
+ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 667f3927-e5fa-4cc9-b341-027177d1d2d8
 ms.date: 06/08/2017
 ---
 
 
-# URL Property Example (VBScript)
-
-  
+# URL property example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code demonstrates how to set the  **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
-
-
-
+The following code demonstrates how to set the **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
 
 ```vb
 <!-- BeginURLClientVBS --> 
@@ -96,7 +92,7 @@ End Sub
 <!-- EndURLClientVBS -->
 ```
 
-The server-side code that exists in  **URLServerVBS.asp** submits the updated **Recordset** to the data source.
+The server-side code that exists in **URLServerVBS.asp** submits the updated **Recordset** to the data source.
 
 
 
@@ -139,13 +135,11 @@ Set Cnxn = Nothing
 <!-- EndURLServerVBS -->
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
 
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
