@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Understanding Visual Basic Syntax
 
-The syntax in a Visual Basic Help topic for a [method](../../Glossary/vbe-glossary.md#method), [statement](../../Glossary/vbe-glossary.md#statement), or [function](../../Glossary/vbe-glossary.md) shows all the elements necessary to use the method, statement, or function correctly. The examples in this topic explain how to interpret the most common syntax elements.
+The syntax in a Visual Basic Help topic for a [method](../../Glossary/vbe-glossary.md#method), [statement](../../Glossary/vbe-glossary.md#statement), or [function](../../Glossary/vbe-glossary.md#function-procedure) shows all the elements necessary to use the method, statement, or function correctly. The examples in this topic explain how to interpret the most common syntax elements.
 
  **Activate Method Syntax**
 
@@ -29,7 +29,7 @@ End Sub
 
  **MsgBox Function Syntax**
  **MsgBox(**_prompt_ [ _, buttons_ ] [ _, title_ ] [ _, helpfile, context_ ] **)**
-In the  **MsgBox** function syntax, the italic words are[named arguments](../../Glossary/vbe-glossary.md#named-argument) of the function.  [Arguments](../../Glossary/vbe-glossary.md#argument) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
+In the  **MsgBox** function syntax, the italic words are [named arguments](../../Glossary/vbe-glossary.md#named-argument) of the function.  [Arguments](../../Glossary/vbe-glossary.md#argument) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
 Arguments for functions and methods can be specified in code either by position or by name. To specify arguments by position, follow the order presented in the syntax, separating each argument with a comma, for example:
 
 

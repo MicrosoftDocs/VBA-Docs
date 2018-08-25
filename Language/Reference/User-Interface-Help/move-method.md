@@ -27,7 +27,7 @@ The  **Move** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _Left_|Optional. [Single-precision value](../../Glossary/vbe-glossary.md), in points, indicating the horizontal coordinate for the left edge of the object.|
+| _Left_|Optional. [Single-precision value](../../Glossary/vbe-glossary.md#single-data-type), in points, indicating the horizontal coordinate for the left edge of the object.|
 | _Top_|Optional. Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.|
 | _Width_|Optional. Single-precision value, in points, indicating the width of the object.|
 | _Height_|Optional. Single-precision value, in points, indicating the height of the object.|

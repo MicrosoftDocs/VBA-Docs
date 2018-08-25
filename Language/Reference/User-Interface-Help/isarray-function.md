@@ -22,7 +22,7 @@ The required  _varname_[argument](../../Glossary/vbe-glossary.md#argument) is an
 
 ## Remarks
 
-**IsArray** returns **True** if the variable is an array; otherwise, it returns **False**. **IsArray** is especially useful with[variants](../../Glossary/vbe-glossary.md) containing arrays.
+**IsArray** returns **True** if the variable is an array; otherwise, it returns **False**. **IsArray** is especially useful with [variants](../../Glossary/vbe-glossary.md#variant-data-type) containing arrays.
 
 ## Example
 

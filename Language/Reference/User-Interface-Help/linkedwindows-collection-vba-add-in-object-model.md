@@ -17,7 +17,7 @@ Contains all linked windows in a [linked window frame](../../Glossary/vbe-glossa
 
 ## Remarks
 
-Use the  **LinkedWindows** collection to modify the[docked](../../Glossary/vbe-glossary.md) and[linked](../../Glossary/vbe-glossary.md) state of windows in the[development environment](../../Glossary/vbe-glossary.md#development-environment).
+Use the  **LinkedWindows** collection to modify the [docked](../../Glossary/vbe-glossary.md#docked-window) and [linked](../../Glossary/vbe-glossary.md#linked-window) state of windows in the[development environment](../../Glossary/vbe-glossary.md#development-environment).
 
 
  **Important**  Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.

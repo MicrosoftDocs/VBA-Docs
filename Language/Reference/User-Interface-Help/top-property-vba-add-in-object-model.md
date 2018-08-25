@@ -17,7 +17,7 @@ Returns or sets a [Single](../../Glossary/vbe-glossary.md) specifying the locati
 
 ## Remarks
 
-The value returned by the  **Top** property depends on whether or not the window is[docked](../../Glossary/vbe-glossary.md), [linked](../../Glossary/vbe-glossary.md), or in docking view.
+The value returned by the  **Top** property depends on whether or not the window is [docked](../../Glossary/vbe-glossary.md#docked-window), [linked](../../Glossary/vbe-glossary.md#linked-window), or in docking view.
 
  **Note**  Changing the  **Top** property setting of a linked or docked window has no effect as long as the window remains linked or docked.
 
