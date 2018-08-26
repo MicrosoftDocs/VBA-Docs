@@ -1,5 +1,5 @@
 ---
-title: Do...Loop Statement
+title: Do...Loop statement
 keywords: vblr6.chm1008790
 f1_keywords:
 - vblr6.chm1008790
@@ -9,7 +9,7 @@ ms.date: 08/20/2018
 ---
 
 
-# Do...Loop Statement
+# Do...Loop statement
 
 Repeats a block of [statements](../../Glossary/vbe-glossary.md#statement) while a condition is **True** or until a condition becomes **True**.
 
@@ -36,19 +36,11 @@ The **Do Loop** statement syntax has these parts:
 | _condition_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) that is **True** or **False**. If _condition_ is [Null](../../Glossary/vbe-glossary.md#null),  _condition_ is treated as **False**.|
 | _statements_|One or more statements that are repeated while, or until,  _condition_ is **True**.|
 
-<<<<<<< HEAD
-## Remarks
-
-Any number of  **Exit Do** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
-When used within nested  **Do…Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.
 ## Remarks
 
 Any number of **Exit Do** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
+
 When used within nested **Do…Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.
-<<<<<<< HEAD
->>>>>>> 82078e8a3dfa3297e97a0200b8bf1d59766c0039
-=======
->>>>>>> 82078e8a3dfa3297e97a0200b8bf1d59766c0039
 
 ## Example
 

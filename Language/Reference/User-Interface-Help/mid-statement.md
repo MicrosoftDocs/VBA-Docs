@@ -1,5 +1,5 @@
 ---
-title: Mid Statement
+title: Mid statement
 keywords: vblr6.chm1011353
 f1_keywords:
 - vblr6.chm1011353
@@ -9,39 +9,35 @@ ms.date: 06/08/2017
 ---
 
 
-# Mid Statement
+# Mid statement
 
-Replaces a specified number of characters in a  **Variant** (**String**)[variable](../../Glossary/vbe-glossary.md#variable) with characters from another string.
+Replaces a specified number of characters in a **Variant** (**String**)[variable](../../Glossary/vbe-glossary.md#variable) with characters from another string.
 
 ## Syntax
 
 **Mid** ( _stringvar_, _start_ [, _length_ ]) **=**_string_
 
-The  **Mid** statement syntax has these parts:
+The **Mid** statement syntax has these parts.
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable to modify.|
-| _start_|Required;  **Variant** (**Long**). Character position in _stringvar_ where the replacement of text begins.|
-| _length_|Optional;  **Variant** (**Long**). Number of characters to replace. If omitted, all of _string_ is used.|
+| _start_|Required; **Variant** (**Long**). Character position in _stringvar_ where the replacement of text begins.|
+| _length_|Optional; **Variant** (**Long**). Number of characters to replace. If omitted, all of _string_ is used.|
 | _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that replaces part of _stringvar_.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
 
- **Note**  Use the  **MidB** statement with byte data contained in a string. In the **MidB** statement, _start_ specifies the byte position within _stringvar_ where replacement begins and _length_ specifies the numbers of bytes to replace.
+> [!NOTE] 
+> Use the **MidB** statement with byte data contained in a string. In the **MidB** statement, _start_ specifies the byte position within _stringvar_ where replacement begins and _length_ specifies the numbers of bytes to replace.
 
 
 ## Example
 
-This example uses the  **Mid** statement to replace a specified number of characters in a string variable with characters from another string.
+This example uses the **Mid** statement to replace a specified number of characters in a string variable with characters from another string.
 
 
 ```vb

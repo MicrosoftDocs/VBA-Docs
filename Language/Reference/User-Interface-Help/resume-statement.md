@@ -1,5 +1,5 @@
 ---
-title: Resume Statement
+title: Resume statement
 keywords: vblr6.chm1009004
 f1_keywords:
 - vblr6.chm1009004
@@ -9,7 +9,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Resume Statement
+# Resume statement
 
 Resumes execution after an error-handling routine is finished.
 
@@ -17,29 +17,26 @@ Resumes execution after an error-handling routine is finished.
 
 **Resume** [ **0** ]
 
- **Resume** **Next**
- **Resume**_line_
-The  **Resume** statement syntax can have any of the following forms:
+**Resume** **Next**
+
+**Resume**_line_
+
+The **Resume** statement syntax can have any of the following forms.
 
 
 |**Statement**|**Description**|
 |:-----|:-----|
-|**Resume**|If the error occurred in the same [procedure](../../Glossary/vbe-glossary.md#procedure) as the error handler, execution resumes with the statement that caused the error. If the error occurred in a called procedure, execution resumes at the[statement](../../Glossary/vbe-glossary.md#statement) that last called out of the procedure containing the error-handling routine.|
-|**Resume** **Next**|If the error occurred in the same procedure as the error handler, execution resumes with the statement immediately following the statement that caused the error. If the error occurred in a called procedure, execution resumes with the statement immediately following the statement that last called out of the procedure containing the error-handling routine (or  **On Error Resume Next** statement).|
-|**Resume**_line_|Execution resumes at  _line_ specified in the required _line_[argument](../../Glossary/vbe-glossary.md#argument). The  _line_ argument is a[line label](../../Glossary/vbe-glossary.md#line-label) or[line number](../../Glossary/vbe-glossary.md#line-number) and must be in the same procedure as the error handler.|
+|**Resume**|If the error occurred in the same [procedure](../../Glossary/vbe-glossary.md#procedure) as the error handler, execution resumes with the statement that caused the error. If the error occurred in a called procedure, execution resumes at the [statement](../../Glossary/vbe-glossary.md#statement) that last called out of the procedure containing the error-handling routine.|
+|**Resume** **Next**|If the error occurred in the same procedure as the error handler, execution resumes with the statement immediately following the statement that caused the error. If the error occurred in a called procedure, execution resumes with the statement immediately following the statement that last called out of the procedure containing the error-handling routine (or **On Error Resume Next** statement).|
+|**Resume**_line_|Execution resumes at  _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The  _line_ argument is a [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number) and must be in the same procedure as the error handler.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
-If you use a  **Resume** statement anywhere except in an error-handling routine, an error occurs.
+If you use a **Resume** statement anywhere except in an error-handling routine, an error occurs.
 
 ## Example
 
-This example uses the  **Resume** statement to end error handling in a procedure, and then resume execution with the statement that caused the error. Error number 55 is generated to illustrate using the **Resume** statement.
+This example uses the **Resume** statement to end error handling in a procedure, and then resume execution with the statement that caused the error. Error number 55 is generated to illustrate using the **Resume** statement.
 
 
 ```vb

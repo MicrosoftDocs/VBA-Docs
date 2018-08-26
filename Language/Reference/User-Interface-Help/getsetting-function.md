@@ -1,5 +1,5 @@
 ---
-title: GetSetting Function
+title: GetSetting function
 keywords: vblr6.chm1020902
 f1_keywords:
 - vblr6.chm1020902
@@ -9,16 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
-# GetSetting Function
-
-
+# GetSetting function
 
 Returns a key setting value from an application's entry in the Windows [registry](../../Glossary/vbe-glossary.md#registry) or (on the Macintosh) information in the application's initialization file.
 
 ## Syntax
 
 **GetSetting( _appname_,** **_section_,** **_key_** [ **,** **_default_** ] **)**
-The  **GetSetting** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+
+The **GetSetting** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
 
 |**Part**|**Description**|
@@ -30,16 +29,11 @@ The  **GetSetting** function syntax has these[named arguments](../../Glossary/vb
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
-If any of the items named in the  **GetSetting** arguments do not exist, **GetSetting** returns the value of **_default_**.
+If any of the items named in the **GetSetting** arguments do not exist, **GetSetting** returns the value of **_default_**.
 
 ## Example
 
-This example first uses the  **SaveSetting** statement to make entries in the Windows registry (or .ini file on 16-bit Windows platforms) for the application specified as **_appname_**, and then uses the **GetSetting** function to display one of the settings. Because the **_default_** argument is specified, some value is guaranteed to be returned. Note that **_section_** names can't be retrieved with **GetSetting**. Finally, the **DeleteSetting** statement removes all the application's entries.
+This example first uses the **SaveSetting** statement to make entries in the Windows registry (or .ini file on 16-bit Windows platforms) for the application specified as **_appname_**, and then uses the **GetSetting** function to display one of the settings. Because the **_default_** argument is specified, some value is guaranteed to be returned. Note that **_section_** names can't be retrieved with **GetSetting**. Finally, the **DeleteSetting** statement removes all the application's entries.
 
 
 ```vb
