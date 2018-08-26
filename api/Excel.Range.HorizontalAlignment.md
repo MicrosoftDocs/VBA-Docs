@@ -13,7 +13,7 @@ ms.date: 08/24/2018
 
 # Range.HorizontalAlignment Property (Excel)
 
-Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object. Read/write.
+Returns or sets a **Variant** value that represents the horizontal alignment for the specified object. Read/write.
 
 
 ## Syntax

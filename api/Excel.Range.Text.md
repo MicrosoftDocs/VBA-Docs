@@ -29,7 +29,7 @@ The **Text** property is most often used for a **Range** of one cell. If the **R
 
 ## Example
 
-This example illustrates the difference between the  **Text** and **[Value](Excel.Range.Value.md)**  properties of cells that contain formatted numbers.
+This example illustrates the difference between the **Text** and **[Value](Excel.Range.Value.md)**  properties of cells that contain formatted numbers.
 
 
 ```vb

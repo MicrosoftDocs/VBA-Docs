@@ -13,7 +13,7 @@ ms.date: 08/24/2018
 
 # Worksheet.Range Property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents a cell or a range of cells.
+Returns a **[Range](Excel.Range(object).md)** object that represents a cell or a range of cells.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ _Cell1_ and _Cell2_ can be A1-style references in the language of the macro. The
 
 When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn?t a worksheet, the property fails).
 
-When applied to a  **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it is relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
+When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it is relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
 
 ## Examples
@@ -85,7 +85,7 @@ Next c
 MsgBox "There are " & numBlanks & " empty cells in this range"
 ```
 
-This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the  **Range** property.
+This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the **Range** property.
 
 
 ```vb

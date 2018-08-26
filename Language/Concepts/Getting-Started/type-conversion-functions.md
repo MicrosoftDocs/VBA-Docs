@@ -1,5 +1,5 @@
 ---
-title: Type conversion functions
+title: Type Conversion Functions
 keywords: vblr6.chm1008820
 f1_keywords:
 - vblr6.chm1008820
