@@ -1,31 +1,12 @@
 ---
-<<<<<<< HEAD
-title: ConvertToString Method Example (VBScript)
-=======
 title: ConvertToString method example (VBScript)
 ROBOTS: INDEX
->>>>>>> master
 ms.prod: access
 ms.assetid: e2315ef1-41ff-22b6-2417-6eba1f5f06d7
 ms.date: 06/08/2017
 ---
 
 
-<<<<<<< HEAD
-# ConvertToString Method Example (VBScript)
-
-  
-
-**Applies to:** Access 2013 | Access 2016
-
-The following example shows how to convert a  **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
-
-
-
-
-```c#
-
-=======
 # ConvertToString method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
@@ -33,7 +14,6 @@ The following example shows how to convert a  **Recordset** into a MIME-encoded 
 The following example shows how to convert a **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
 
 ```vb
->>>>>>> master
 <!-- BeginConvertToStringVBS --><HTML>
 <HEAD><TITLE>ConvertToString Example</TITLE><HEAD><BODY> 
 <SCRIPT LANGUAGE=VBSCRIPT>Sub ConvertToStringX()
@@ -64,18 +44,6 @@ CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33"></OBJECT>
 
 ```
 
-<<<<<<< HEAD
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-
-=======
 ## See also
 
 - [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
@@ -84,4 +52,3 @@ CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33"></OBJECT>
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
->>>>>>> master

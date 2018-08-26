@@ -1,37 +1,19 @@
 ---
-<<<<<<< HEAD
-title: Connect Property Example (VBScript)
-=======
 title: Connect property example (VBScript)
 ROBOTS: INDEX
->>>>>>> master
 ms.prod: access
 ms.assetid: bd88c63f-89d9-c73b-3ee0-288ff078b938
 ms.date: 06/08/2017
 ---
 
 
-<<<<<<< HEAD
-# Connect Property Example (VBScript)
-
-  
-=======
 # Connect property example (VBScript)
->>>>>>> master
 
 **Applies to:** Access 2013 | Access 2016
 
 This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3284-18e9-6d2d-761b-c25090370b77%28Office.15%29.aspx) property at design time:
 
-<<<<<<< HEAD
-
-
-
-```
- 
-=======
 ```vb
->>>>>>> master
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID="ADC1"> 
 . 
    <PARAM NAME="SQL" VALUE="Select * from Sales"> 
@@ -42,20 +24,10 @@ This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3
 
 ```
 
-<<<<<<< HEAD
-The following example shows how to set the  **Connect** property at run time in VBScript code.
-To test this example, copy and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **ConnectVBS.asp**. ASP script will identify your server.
-
-
-
-```
-
-=======
 The following example shows how to set the **Connect** property at run time in VBScript code.
 To test this example, copy and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **ConnectVBS.asp**. ASP script will identify your server.
 
 ```vb
->>>>>>> master
 <!-- BeginConnectVBS --><%@ Language=VBScript %>
 <HTML><HEAD>
 <title>ADO Connect Property</title><%' local style sheet used for display%>
@@ -94,18 +66,6 @@ End Sub</Script>
 <!-- EndConnectVBS -->
 ```
 
-<<<<<<< HEAD
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-
-=======
 ## See also
 
 - [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
@@ -114,4 +74,3 @@ End Sub</Script>
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
->>>>>>> master
