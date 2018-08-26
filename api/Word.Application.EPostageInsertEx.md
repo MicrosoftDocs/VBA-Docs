@@ -56,7 +56,11 @@ Private Sub App_EPostageInsertEx(ByVal Doc As Document, ByVal cpDeliveryAddrStar
  Dim intResponse As Integer 
  
  If fPrint = True Then 
+<<<<<<< HEAD
+ intResponse = MsgBox("Make sure the printer is ready to print an envelope." &; vbCrLf &; _ 
+=======
  intResponse = MsgBox("Make sure the printer is ready to print an envelope." & vbCrLf & _ 
+>>>>>>> master
  "When the printer is ready, click OK.", vbOKCancel) 
  
  If intResponse = vbCancel Then 

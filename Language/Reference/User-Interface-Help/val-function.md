@@ -14,6 +14,12 @@ ms.date: 06/08/2017
 
 
 Returns the numbers contained in a string as a numeric value of appropriate type.
+<<<<<<< HEAD
+ **Syntax**
+ **Val(**_string_**)**
+The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md).
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -22,6 +28,7 @@ The required  _string_[argument](../../Glossary/vbe-glossary.md#argument) is any
 
 ## Remarks
 
+>>>>>>> master
 The  **Val** function stops reading the string at the first character it can't recognize as part of a number. Symbols and characters that are often considered parts of numeric values, such as dollar signs and commas, are not recognized. However, the function recognizes the radix prefixes `&;O` (for octal) and (for octal) and `&;H` (for hexadecimal). Blanks, tabs, and linefeed characters are stripped from the argument.
 The following returns the value 1615198:
 
@@ -36,7 +43,11 @@ In the code below,  **Val** returns the decimal value -1 for the hexadecimal val
 
 
 ```vb
+<<<<<<< HEAD
+Val("&;HFFFF")
+=======
 Val("&HFFFF")
+>>>>>>> master
 ```
 
 

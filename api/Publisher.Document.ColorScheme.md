@@ -35,7 +35,11 @@ This example displays the name of the current color scheme for the active public
 
 ```vb
 With ActiveDocument.ColorScheme 
+<<<<<<< HEAD
+ MsgBox "The current color scheme is " &; .Name &; "." 
+=======
  MsgBox "The current color scheme is " & .Name & "." 
+>>>>>>> master
 End With
 ```
 

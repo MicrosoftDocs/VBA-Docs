@@ -35,7 +35,11 @@ The following line of code displays the number of digital signatures.
 
 ```vb
 Sub DisplayNumberOfSignatures
+<<<<<<< HEAD
+    MsgBox "Number of digital signatures: " &; _
+=======
     MsgBox "Number of digital signatures: " & _
+>>>>>>> master
         ActivePresentation.Signatures.Count
 End Sub
 ```

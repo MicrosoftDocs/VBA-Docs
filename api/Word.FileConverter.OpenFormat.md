@@ -36,7 +36,11 @@ This example displays the unique format value and the format name for the conver
 ```vb
 For Each fc In FileConverters 
  If fc.CanOpen = True Then _ 
+<<<<<<< HEAD
+ MsgBox fc.OpenFormat &; vbCr &; fc.FormatName 
+=======
  MsgBox fc.OpenFormat & vbCr & fc.FormatName 
+>>>>>>> master
 Next fc
 ```
 

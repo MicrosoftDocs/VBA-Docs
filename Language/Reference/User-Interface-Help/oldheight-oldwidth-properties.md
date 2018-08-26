@@ -13,11 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns the previous height or width, in [points](../../Glossary/vbe-glossary.md), of the control.
+ **Syntax**
+ _object_. **OldHeight**
+=======
 Returns the previous height or width, in [points](../../Glossary/vbe-glossary.md#point), of the control.
 
 ## Syntax
 
 _object_. **OldHeight**
+>>>>>>> master
  _object_. **OldWidth**
 The  **OldHeight** and **OldWidth** property syntaxes have these parts:
 
@@ -26,9 +32,14 @@ The  **OldHeight** and **OldWidth** property syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
+ **Remarks**
+ **OldHeight** and **OldWidth** are read-only.
+=======
 ## Remarks
 
 **OldHeight** and **OldWidth** are read-only.
+>>>>>>> master
 The  **OldHeight** and **OldWidth** properties are automatically updated when you move or size a control. If you change the size of a control, the **Height** and **Width** properties store the new height and **OldHeight** and **OldWidth** store the previous height.
 These properties are valid only in the Layout event.
 

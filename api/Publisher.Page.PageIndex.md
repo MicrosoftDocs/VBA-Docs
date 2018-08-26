@@ -39,9 +39,15 @@ Dim lngLoop As Long
 With ActiveDocument.Pages 
 For lngLoop = 1 To .Count 
 With .Item(lngLoop) 
+<<<<<<< HEAD
+Debug.Print "PageIndex = " &; .PageIndex _ 
+&; " / PageNumber = " &; .PageNumber _ 
+&; " / PageID = " &; .PageID 
+=======
 Debug.Print "PageIndex = " & .PageIndex _ 
 & " / PageNumber = " & .PageNumber _ 
 & " / PageID = " & .PageID 
+>>>>>>> master
 End With 
 Next lngLoop 
 End With 

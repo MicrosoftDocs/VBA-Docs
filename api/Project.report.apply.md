@@ -35,7 +35,11 @@ Sub ShowAReport()
     If ActiveProject.Reports.IsPresent(reportName) Then
         ActiveProject.Reports(reportName).Apply
     Else
+<<<<<<< HEAD
+        MsgBox Prompt:="No report name: " &; reportName, Title:="Report apply error"
+=======
         MsgBox Prompt:="No report name: " & reportName, Title:="Report apply error"
+>>>>>>> master
     End If
 End Sub
 ```

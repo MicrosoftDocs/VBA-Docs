@@ -132,9 +132,15 @@ Sub ConvertResult_Example()
  
  'Exactly two shapes should be selected 
  If lngCount <> 2 Then 
+<<<<<<< HEAD
+ MsgBox "A total of " &; lngCount &; " shapes are " _ 
+ &; "selected. Please select two shapes and try " _ 
+ &; "again", 0 
+=======
  MsgBox "A total of " & lngCount & " shapes are " _ 
  & "selected. Please select two shapes and try " _ 
  & "again", 0 
+>>>>>>> master
  Else 
  Set vsoShape1 = vsoSelection.Item(1) 
  Set vsoShape2 = vsoSelection.Item(2) 
@@ -154,8 +160,13 @@ Sub ConvertResult_Example()
  dblResult(4) = vsoApplication.ConvertResult(dblDistance, "in", "mi") 
  
  'Display results 
+<<<<<<< HEAD
+ MsgBox dblResult(1) &; " centimeters; " &; dblResult(2) &; " feet; " &; _ 
+ dblResult(3) &; " ;yards; " &; dblResult(4) &; " miles ", 0 
+=======
  MsgBox dblResult(1) & " centimeters; " & dblResult(2) & " feet; " & _ 
  dblResult(3) & " ;yards; " & dblResult(4) & " miles ", 0 
+>>>>>>> master
  
  End If 
  

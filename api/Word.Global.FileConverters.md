@@ -44,9 +44,15 @@ This example displays a message that indicates whether the third converter in th
 
 ```vb
 If FileConverters(3).CanSave = True Then 
+<<<<<<< HEAD
+ MsgBox FileConverters(3).FormatName &; " can save files" 
+Else 
+ MsgBox FileConverters(3).FormatName &; " cannot save files" 
+=======
  MsgBox FileConverters(3).FormatName & " can save files" 
 Else 
  MsgBox FileConverters(3).FormatName & " cannot save files" 
+>>>>>>> master
 End If
 ```
 
@@ -59,8 +65,13 @@ This example displays the name of the last file converter.
 Dim fcTemp As FileConverter 
  
 Set fcTemp = FileConverters(FileConverters.Count) 
+<<<<<<< HEAD
+MsgBox "The file name extensions for " &; fcTemp.FormatName &; _ 
+ " files are: " &; fcTemp.Extensions
+=======
 MsgBox "The file name extensions for " & fcTemp.FormatName & _ 
  " files are: " & fcTemp.Extensions
+>>>>>>> master
 ```
 
 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Calling Sub and Function Procedures
 
+<<<<<<< HEAD
+To call a  **Sub** procedure from another [procedure](../../Glossary/vbe-glossary.md), type the name of the procedure and include values for any required [arguments](../../Glossary/vbe-glossary.md). The  **Call** statement is not required, but if you use it, you must enclose any arguments in parentheses.
+=======
 To call a  **Sub** procedure from another [procedure](../../Glossary/vbe-glossary.md#procedure), type the name of the procedure and include values for any required [arguments](../../Glossary/vbe-glossary.md#argument). The  **Call** statement is not required, but if you use it, you must enclose any arguments in parentheses.
+>>>>>>> master
 
 You can use a  **Sub** procedure to organize other procedures so they are easier to understand and debug. In the following example, the **Sub** procedure `Main` calls the **Sub** procedure `MultiBeep`, passing the value 56 for its argument. After  `MultiBeep` runs, control returns to `Main`, and  `Main` calls the **Sub** procedure `Message`.  `Message` displays a message box; when the user clicks **OK**, control returns to `Main`, and calls the  **Sub** procedure `MultiBeep`, passing the value 56 for its argument. After  `MultiBeep` runs, control returns to `Main`, and  `Main` calls the **Sub** procedure `Message`.  `Message` displays a message box; when the user clicks **OK**, control returns to `Main`, and  `Main` finishes.
 
@@ -58,7 +62,11 @@ End Sub
 
 ## Using Parentheses when Calling Function Procedures
 
+<<<<<<< HEAD
+To use the return value of a function, assign the function to a [variable](../../Glossary/vbe-glossary.md) and enclose the arguments in parentheses, as shown in the following example.
+=======
 To use the return value of a function, assign the function to a [variable](../../Glossary/vbe-glossary.md#variable) and enclose the arguments in parentheses, as shown in the following example.
+>>>>>>> master
 
 
 ```vb
@@ -81,7 +89,11 @@ If you include parentheses in the preceding example, the statement causes a synt
 
 ## Passing Named Arguments
 
+<<<<<<< HEAD
+A statement in a  **Sub** or **Function** procedure can pass values to called procedures using [named arguments](../../Glossary/vbe-glossary.md). You can list named arguments in any order. A named argument consists of the name of the argument followed by a colon and an equal sign (**:=**), and the value assigned to the argument.
+=======
 A statement in a  **Sub** or **Function** procedure can pass values to called procedures using [named arguments](../../Glossary/vbe-glossary.md#named-argument). You can list named arguments in any order. A named argument consists of the name of the argument followed by a colon and an equal sign (**:=**), and the value assigned to the argument.
+>>>>>>> master
 
 The following example calls the  **MsgBox** function using named arguments with no return value.
 

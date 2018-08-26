@@ -44,7 +44,11 @@ This example add a design template to the beginning of the collection of design 
 
 ```vb
 Sub LoadDesign()
+<<<<<<< HEAD
+    ActivePresentation.Designs.Load TemplateName:="C:\Program Files\" &; _
+=======
     ActivePresentation.Designs.Load TemplateName:="C:\Program Files\" & _
+>>>>>>> master
         "Microsoft Office\Templates\Presentation Designs\Balance.pot", Index:=1
 End Sub
 ```

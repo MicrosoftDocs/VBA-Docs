@@ -43,7 +43,11 @@ This example displays the names of all the built-in document properties for the 
 ```vb
 For Each p In Application.ActivePresentation _
         .BuiltInDocumentProperties
+<<<<<<< HEAD
+    bidpList = bidpList &; p.Name &; Chr$(13)
+=======
     bidpList = bidpList & p.Name & Chr$(13)
+>>>>>>> master
 Next
 
 MsgBox bidpList

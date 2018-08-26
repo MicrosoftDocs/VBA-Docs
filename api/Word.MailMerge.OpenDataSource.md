@@ -100,7 +100,11 @@ Set docNew = Documents.Add
 With docNew.MailMerge 
  .MainDocumentType = wdFormLetters 
  .OpenDataSource _ 
+<<<<<<< HEAD
+ Name:="C:\Program Files\Microsoft Office" &; _ 
+=======
  Name:="C:\Program Files\Microsoft Office" & _ 
+>>>>>>> master
  "\Office\Samples\Northwind.mdb", _ 
  LinkToSource:=True, AddToRecentFiles:=False, _ 
  Connection:="TABLE Orders" 
@@ -136,8 +140,13 @@ Dim strConnection As String
 With ActiveDocument.MailMerge 
  .MainDocumentType = wdFormLetters 
  strConnection = "DSN=MS Access Databases;" _ 
+<<<<<<< HEAD
+ &; "DBQ=C:\Northwind.mdb;" _ 
+ &; "FIL=RedISAM;" 
+=======
  & "DBQ=C:\Northwind.mdb;" _ 
  & "FIL=RedISAM;" 
+>>>>>>> master
  .OpenDataSource Name:="C:\NorthWind.mdb", _ 
  Connection:=strConnection, _ 
  SQLStatement:="SELECT * FROM Customers" 

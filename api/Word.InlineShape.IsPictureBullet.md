@@ -42,7 +42,11 @@ Sub IsSelectionAPictureBullet(shp As InlineShape)
  End If 
  Exit Sub 
 ErrorHandler: 
+<<<<<<< HEAD
+ MsgBox "The selection is not a list or " &; _ 
+=======
  MsgBox "The selection is not a list or " & _ 
+>>>>>>> master
  "does not contain picture bullets." 
 End Sub
 ```

@@ -61,7 +61,11 @@ Private Sub EnumerateActiveCalendarFolders()
  Next 
  
  ' Display the results. 
+<<<<<<< HEAD
+ MsgBox "There are " &; intCounter &; " selected calendars in the Calendar module." 
+=======
  MsgBox "There are " & intCounter & " selected calendars in the Calendar module." 
+>>>>>>> master
  
 EndRoutine: 
  On Error GoTo 0 
@@ -73,7 +77,11 @@ EndRoutine:
  Exit Sub 
  
 ErrRoutine: 
+<<<<<<< HEAD
+ MsgBox Err.Number &; " - " &; Err.Description, _ 
+=======
  MsgBox Err.Number & " - " & Err.Description, _ 
+>>>>>>> master
  vbOKOnly Or vbCritical, _ 
  "EnumerateActiveCalendarFolders" 
 End Sub

@@ -105,17 +105,29 @@ EndRoutine:
  
 ErrRoutine: 
  
+<<<<<<< HEAD
+ Debug.Print Err.Number &; " (&;H" &; Hex(Err.Number) &; ")" 
+ 
+ Select Case Err.Number 
+ 
+ Case -2147024809 '&;H80070057 
+=======
  Debug.Print Err.Number & " (&H" & Hex(Err.Number) & ")" 
  
  Select Case Err.Number 
  
  Case -2147024809 '&H80070057 
+>>>>>>> master
  
  ' Typically occurs if you set the Position 
  
  ' property less than 1 or greater than 9. 
  
+<<<<<<< HEAD
+ MsgBox Err.Number &; " - " &; Err.Description, _ 
+=======
  MsgBox Err.Number & " - " & Err.Description, _ 
+>>>>>>> master
  
  vbOKOnly Or vbCritical, _ 
  

@@ -13,8 +13,13 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+When several operations occur in an [expression](../../Glossary/vbe-glossary.md), each part is evaluated and resolved in a predetermined order called operator precedence.
+When expressions contain operators from more than one category, arithmetic operators are evaluated first, [comparison operators](../../Glossary/vbe-glossary.md) are evaluated next, and logical operators are evaluated last. Comparison operators all have equal precedence; that is, they are evaluated in the left-to-right order in which they appear. Arithmetic and logical operators are evaluated in the following order of precedence:
+=======
 When several operations occur in an [expression](../../Glossary/vbe-glossary.md#expression), each part is evaluated and resolved in a predetermined order called operator precedence.
 When expressions contain operators from more than one category, arithmetic operators are evaluated first, [comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) are evaluated next, and logical operators are evaluated last. Comparison operators all have equal precedence; that is, they are evaluated in the left-to-right order in which they appear. Arithmetic and logical operators are evaluated in the following order of precedence:
+>>>>>>> master
 
 
 |**Arithmetic**|**Comparison**|**Logical**|

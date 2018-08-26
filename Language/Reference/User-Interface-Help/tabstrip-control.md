@@ -14,6 +14,13 @@ ms.date: 06/08/2017
 
 
 Presents a set of related controls as a visual group.
+<<<<<<< HEAD
+ **Remarks**
+You can use a  **TabStrip** to view different sets of information for related controls.
+For example, the controls might represent information about a daily schedule for a group of individuals, with each set of information corresponding to a different individual in the group. Set the title of each tab to show one individual's name. Then, you can write code that, when you click a tab, updates the controls to show information about the person identified on the tab.
+
+ **Note**  The  **TabStrip** is implemented as a[container](../../Glossary/vbe-glossary.md) of a **Tabs** collection, which in turn contains a group of **Tab** objects.
+=======
 
 ## Remarks
 
@@ -21,6 +28,7 @@ You can use a  **TabStrip** to view different sets of information for related co
 For example, the controls might represent information about a daily schedule for a group of individuals, with each set of information corresponding to a different individual in the group. Set the title of each tab to show one individual's name. Then, you can write code that, when you click a tab, updates the controls to show information about the person identified on the tab.
 
  **Note**  The  **TabStrip** is implemented as a[container](../../Glossary/vbe-glossary.md#container) of a **Tabs** collection, which in turn contains a group of **Tab** objects.
+>>>>>>> master
 
 The default property for a  **TabStrip** is the **SelectedItem** property.
 The default event for a  **TabStrip** is the Change event.

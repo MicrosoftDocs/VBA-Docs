@@ -43,7 +43,11 @@ Sub Item_Open()
  
  TextBox1.Height = 100 
  TextBox1.WordWrap = True 
+<<<<<<< HEAD
+ TextBox1.Text = "Type your text here. If EnterKeyBehavior is True,"&; _ 
+=======
  TextBox1.Text = "Type your text here. If EnterKeyBehavior is True,"& _ 
+>>>>>>> master
  " press Enter to start a new line. Otherwise, press SHIFT+ENTER." 
 End Sub 
  

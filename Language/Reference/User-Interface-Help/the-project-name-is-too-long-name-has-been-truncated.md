@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # The project name is too long. Name has been truncated
 
+<<<<<<< HEAD
+If a [project](../../Glossary/vbe-glossary.md) name exceeds permitted length, it is truncated to the maximum permitted length.
+=======
 If a [project](../../Glossary/vbe-glossary.md#project) name exceeds permitted length, it is truncated to the maximum permitted length.
+>>>>>>> master
 
 

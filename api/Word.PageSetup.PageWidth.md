@@ -36,7 +36,11 @@ This example returns the page width for Document1. The  **[PointsToInches](Word.
 ```vb
 Set doc1set = Documents("Document1").PageSetup 
 Msgbox "The page width is " _ 
+<<<<<<< HEAD
+ &; PointsToInches(doc1set.PageWidth) &; " inches."
+=======
  & PointsToInches(doc1set.PageWidth) & " inches."
+>>>>>>> master
 ```
 
 

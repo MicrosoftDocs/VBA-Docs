@@ -17,10 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a  **Folder** object corresponding to the folder in a specified path.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **GetFolder(**_folderspec_**)**
+=======
 
 ## Syntax
 
 _object_. **GetFolder(**_folderspec_**)**
+>>>>>>> master
 The  **GetFolder** method syntax has these parts:
 
 
@@ -29,7 +34,11 @@ The  **GetFolder** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _folderspec_|Required. The  _folderspec_ is the path (absolute or relative) to a specific folder.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 An error occurs if the specified folder does not exist.
 

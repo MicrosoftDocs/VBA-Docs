@@ -37,10 +37,17 @@ This example sets the default custom envelope width and height and adds an envel
 Dim strAddress As String 
 Dim strReturn As String 
  
+<<<<<<< HEAD
+strAddress = "Tim O' Brien " &; vbCr &; "123 Skye St." _ 
+ &; vbCr &; "Bellevue, WA 98004" 
+strReturn = "Dave Edson" &; vbCr &; "123 West Main" _ 
+ &; vbCr &; "Seattle, WA 98004" 
+=======
 strAddress = "Tim O' Brien " & vbCr & "123 Skye St." _ 
  & vbCr & "Bellevue, WA 98004" 
 strReturn = "Dave Edson" & vbCr & "123 West Main" _ 
  & vbCr & "Seattle, WA 98004" 
+>>>>>>> master
  
 With ActiveDocument.Envelope 
  .DefaultWidth = InchesToPoints(9) 

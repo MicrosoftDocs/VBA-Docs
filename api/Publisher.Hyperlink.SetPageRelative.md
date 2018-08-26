@@ -63,7 +63,11 @@ Sub SetHyperlinkRelativeTarget()
  Set txtRng = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange 
  
+<<<<<<< HEAD
+ txtRng.Text = "First Page" &; vbCrLf 
+=======
  txtRng.Text = "First Page" & vbCrLf 
+>>>>>>> master
  
  Set txtRng = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange 
@@ -75,7 +79,11 @@ Sub SetHyperlinkRelativeTarget()
  hypNew.SetPageRelative RelativePage:=pbHlinkTargetTypeFirstPage 
  
  txtRng.Collapse pbCollapseEnd 
+<<<<<<< HEAD
+ txtRng.Text = "Previous Page" &; vbCrLf 
+=======
  txtRng.Text = "Previous Page" & vbCrLf 
+>>>>>>> master
  
  Set hypNew = ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
  .TextRange.Hyperlinks.Add(Text:=txtRng, _ 
@@ -84,14 +92,22 @@ Sub SetHyperlinkRelativeTarget()
  hypNew.SetPageRelative RelativePage:=pbHlinkTargetTypePreviousPage 
  
  txtRng.Collapse pbCollapseEnd 
+<<<<<<< HEAD
+ txtRng.Text = "Next Page" &; vbCrLf 
+=======
  txtRng.Text = "Next Page" & vbCrLf 
+>>>>>>> master
  Set hypNew = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Hyperlinks.Add(Text:=txtRng, _ 
  Address:="https://www.tailspintoys.com/") 
  hypNew.SetPageRelative RelativePage:=pbHlinkTargetTypeNextPage 
  
  txtRng.Collapse pbCollapseEnd 
+<<<<<<< HEAD
+ txtRng.Text = "Last Page" &; vbCrLf 
+=======
  txtRng.Text = "Last Page" & vbCrLf 
+>>>>>>> master
  Set hypNew = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Hyperlinks.Add(Text:=txtRng, _ 
  Address:="https://www.tailspintoys.com/") 

@@ -72,8 +72,13 @@ Sub DemoTableUsingGetArray()
  'Get a Folder object for the Inbox 
  Set oFolder = Application.Session.GetDefaultFolder(olFolderInbox) 
  'Filter on the subject containing "Office" 
+<<<<<<< HEAD
+ Filter = "@SQL=" &; Chr(34) &; SchemaPropTag &; "0x0037001E" _ 
+ &; Chr(34) &; " like '%Office%'" 
+=======
  Filter = "@SQL=" & Chr(34) & SchemaPropTag & "0x0037001E" _ 
  & Chr(34) & " like '%Office%'" 
+>>>>>>> master
  'Get all items in Inbox that meet the filter 
  Set oTable = oFolder.GetTable(Filter) 
  
@@ -96,7 +101,11 @@ Sub DemoTableUsingGetArray()
  Exit Sub 
  
 Err_Trap: 
+<<<<<<< HEAD
+ Debug.Print "Error#:" &; Err.Number &; " Desc: " &; Err.Description 
+=======
  Debug.Print "Error#:" & Err.Number & " Desc: " & Err.Description 
+>>>>>>> master
  Resume Next 
 End Sub
 ```

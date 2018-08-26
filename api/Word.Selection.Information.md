@@ -37,9 +37,15 @@ This example displays the current page number and the total number of pages in t
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "The selection is on page " &; _ 
+ Selection.Information(wdActiveEndPageNumber) &; " of page " _ 
+ &; Selection.Information(wdNumberOfPagesInDocument)
+=======
 MsgBox "The selection is on page " & _ 
  Selection.Information(wdActiveEndPageNumber) & " of page " _ 
  & Selection.Information(wdNumberOfPagesInDocument)
+>>>>>>> master
 ```
 
 If the selection is in a table, this example selects the table.
@@ -59,7 +65,11 @@ This example displays a message that indicates the current section number.
 
 ```vb
 Selection.Collapse Direction:=wdCollapseStart 
+<<<<<<< HEAD
+MsgBox "The insertion point is in section " &; _ 
+=======
 MsgBox "The insertion point is in section " & _ 
+>>>>>>> master
  Selection.Information(wdActiveEndSectionNumber)
 ```
 

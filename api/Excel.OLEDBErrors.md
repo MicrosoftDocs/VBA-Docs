@@ -28,8 +28,13 @@ Use the  **[OLEDBErrors](Excel.Application.OLEDBErrors.md)** property to return 
 
 ```vb
 For Each objEr in Application.OLEDBErrors 
+<<<<<<< HEAD
+ MsgBox "The following error occurred:" &; _ 
+ objEr.ErrorString &; " : " &; objEr.SqlState 
+=======
  MsgBox "The following error occurred:" & _ 
  objEr.ErrorString & " : " & objEr.SqlState 
+>>>>>>> master
 Next objEr
 ```
 
@@ -40,8 +45,13 @@ Use  **OLEDBErrors** ( _index_ ), where _index_ is the index number of the OLE D
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
+<<<<<<< HEAD
+MsgBox "The following error occurred:" &; _ 
+ objEr.ErrorString &; " : " &; objEr.SqlState
+=======
 MsgBox "The following error occurred:" & _ 
  objEr.ErrorString & " : " & objEr.SqlState
+>>>>>>> master
 ```
 
 

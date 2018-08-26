@@ -11,12 +11,20 @@ ms.date: 06/08/2017
 
 # Looping Through Code
 
+<<<<<<< HEAD
+Using conditional statements and looping statements (also called control structures), you can write Visual Basic code that makes decisions and repeats actions. Another useful control structure, the  **With** statement, lets you to run a series of statements without having to requalify an [object](../../Glossary/vbe-glossary.md).
+=======
 Using conditional statements and looping statements (also called control structures), you can write Visual Basic code that makes decisions and repeats actions. Another useful control structure, the  **With** statement, lets you to run a series of statements without having to requalify an [object](../../Glossary/vbe-glossary.md#object).
+>>>>>>> master
 
 
 ## Using Conditional Statements to Make Decisions
 
+<<<<<<< HEAD
+Conditional statements evaluate whether a condition is  **True** or **False**, and then specify one or more statements to run, depending on the result. Usually, a condition is an [expression](../../Glossary/vbe-glossary.md) that uses a [comparison operator](../../Glossary/vbe-glossary.md) to compare one value or [variable](../../Glossary/vbe-glossary.md) with another.
+=======
 Conditional statements evaluate whether a condition is  **True** or **False**, and then specify one or more statements to run, depending on the result. Usually, a condition is an [expression](../../Glossary/vbe-glossary.md#expression) that uses a [comparison operator](../../Glossary/vbe-glossary.md#comparison-operator) to compare one value or [variable](../../Glossary/vbe-glossary.md#variable) with another.
+>>>>>>> master
 
 
 ## Choosing a Conditional Statement to Use
@@ -33,7 +41,11 @@ Conditional statements evaluate whether a condition is  **True** or **False**, a
 
 ## Using Loops to Repeat Code
 
+<<<<<<< HEAD
+Looping allows you to run a group of statements repeatedly. Some loops repeat statements until a condition is  **False**; others repeat statements until a condition is **True**. There are also loops that repeat statements a specific number of times or for each object in a [collection](../../Glossary/vbe-glossary.md).
+=======
 Looping allows you to run a group of statements repeatedly. Some loops repeat statements until a condition is  **False**; others repeat statements until a condition is **True**. There are also loops that repeat statements a specific number of times or for each object in a [collection](../../Glossary/vbe-glossary.md#collection).
+>>>>>>> master
 
 
 ## Choosing a Loop to Use
@@ -52,7 +64,11 @@ Looping allows you to run a group of statements repeatedly. Some loops repeat st
 
 ## Running Several Statements on the Same Object
 
+<<<<<<< HEAD
+In Visual Basic, usually you must specify an object before you can run one of its [methods](../../Glossary/vbe-glossary.md) or change one of its [properties](../../Glossary/vbe-glossary.md). You can use the  **With** statement to specify an object once for an entire series of statements.
+=======
 In Visual Basic, usually you must specify an object before you can run one of its [methods](../../Glossary/vbe-glossary.md#method) or change one of its [properties](../../Glossary/vbe-glossary.md#property). You can use the  **With** statement to specify an object once for an entire series of statements.
+>>>>>>> master
 
 
 

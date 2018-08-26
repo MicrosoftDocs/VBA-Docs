@@ -40,7 +40,11 @@ Function CheckPrinter(frmTemp As Form) As Boolean
  
  If frmTemp.UseDefaultPrinter = False Then 
  If MsgBox("Should this form use " _ 
+<<<<<<< HEAD
+ &; "the default printer?", _ 
+=======
  & "the default printer?", _ 
+>>>>>>> master
  vbYesNo) = vbYes Then 
  frmTemp.UseDefaultPrinter = True 
  End If 

@@ -39,7 +39,11 @@ Sets the descriptive text that is displayed in the  **Description** pane at the 
  **Project Help Context ID**
 
 Lists the context ID for the specific Help topic to be called when the user selects the 
+<<<<<<< HEAD
+![Help button](../../../images/but_help_ZA01201583.gif) button while the application's[object library](../../Glossary/vbe-glossary.md) is selected in the[Object Browser](../../Glossary/vbe-glossary.md).
+=======
 ![Help button](../../../images/but_help_ZA01201583.gif) button while the application's[object library](../../Glossary/vbe-glossary.md#object-library) is selected in the[Object Browser](../../Glossary/vbe-glossary.md#object-browser).
+>>>>>>> master
 
  **Conditional Compilation Arguments**
 

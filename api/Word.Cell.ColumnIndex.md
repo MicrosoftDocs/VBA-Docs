@@ -37,7 +37,11 @@ Set docNew = Documents.Add
 Set tableNew = docNew.Tables.Add(Selection.Range, 3, 3) 
 For Each cellLoop In tableNew.Rows(1).Cells 
  cellLoop.Select 
+<<<<<<< HEAD
+ MsgBox "This is column " &; cellLoop.ColumnIndex 
+=======
  MsgBox "This is column " & cellLoop.ColumnIndex 
+>>>>>>> master
 Next cellLoop
 ```
 

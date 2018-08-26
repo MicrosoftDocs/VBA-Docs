@@ -47,7 +47,11 @@ Sub DisplayUserProps(ByVal objitems As ItemProperties)
  For i = 0 To objitems.Count - 1 
  'Display name of property if it was created by the user 
  If objitems.Item(i).IsUserProperty = True Then 
+<<<<<<< HEAD
+ MsgBox "The property " &; objitems(i).Name &; " was created by the user." 
+=======
  MsgBox "The property " & objitems(i).Name & " was created by the user." 
+>>>>>>> master
  End If 
  Next i 
 End Sub

@@ -42,7 +42,11 @@ This example converts 36 points to the corresponding number of picas.
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox PointsToPicas(36) &; " picas"
+=======
 MsgBox PointsToPicas(36) & " picas"
+>>>>>>> master
 ```
 
 This example converts the value of the variable  `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).

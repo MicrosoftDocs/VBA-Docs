@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Writing Visual Basic Statements
 
+<<<<<<< HEAD
+A [statement](../../Glossary/vbe-glossary.md) in Visual Basic is a complete instruction. It can contain[keywords](../../Glossary/vbe-glossary.md), operators, [variables](../../Glossary/vbe-glossary.md), [constants](../../Glossary/vbe-glossary.md), and [expressions](../../Glossary/vbe-glossary.md). Each statement belongs to one of the following three categories:
+=======
 A [statement](../../Glossary/vbe-glossary.md#statement) in Visual Basic is a complete instruction. It can contain[keywords](../../Glossary/vbe-glossary.md#keyword), operators, [variables](../../Glossary/vbe-glossary.md#variable), [constants](../../Glossary/vbe-glossary.md#constant), and [expressions](../../Glossary/vbe-glossary.md#expression). Each statement belongs to one of the following three categories:
+>>>>>>> master
 
 
 
@@ -25,7 +29,11 @@ A [statement](../../Glossary/vbe-glossary.md#statement) in Visual Basic is a com
 
 ## Continuing a Statement over Multiple Lines
 
+<<<<<<< HEAD
+A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](../../Glossary/vbe-glossary.md). In the following example, the  **MsgBox** executable statement is continued over three lines:
+=======
 A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](../../Glossary/vbe-glossary.md#line-continuation-character). In the following example, the  **MsgBox** executable statement is continued over three lines:
+>>>>>>> master
 
 
 ```vb
@@ -34,7 +42,11 @@ Sub DemoBox() 'This procedure declares a string variable,
  ' a concatenated message. 
  Dim myVar As String 
  myVar = "John" 
+<<<<<<< HEAD
+ MsgBox Prompt:="Hello " &; myVar, _ 
+=======
  MsgBox Prompt:="Hello " & myVar, _ 
+>>>>>>> master
  Title:="Greeting Box", _ 
  Buttons:=vbExclamation 
 End Sub

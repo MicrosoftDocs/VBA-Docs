@@ -48,7 +48,11 @@ End Sub
  
 Private Sub myOlExp_SelectionChange() 
  
+<<<<<<< HEAD
+ MsgBox myOlExp.Selection.Count &; " items selected." 
+=======
  MsgBox myOlExp.Selection.Count & " items selected." 
+>>>>>>> master
  
 End Sub
 ```

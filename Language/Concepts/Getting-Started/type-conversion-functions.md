@@ -1,5 +1,5 @@
 ---
-title: Type Conversion Functions
+title: Type conversion functions
 keywords: vblr6.chm1008820
 f1_keywords:
 - vblr6.chm1008820
@@ -80,6 +80,7 @@ A **CVDate** function is also provided for compatibility with previous versions 
 This example uses the **CBool** function to convert an expression to a **Boolean**. If the expression evaluates to a nonzero value, **CBool** returns **True**, otherwise, it returns **False**.
 
 
+
 ```vb
 Dim A, B, Check 
 A = 5: B = 5 ' Initialize variables. 
@@ -90,10 +91,10 @@ Check = CBool(A) ' Check contains False.
 
 ```
 
-
 ## CByte function example
 
 This example uses the **CByte** function to convert an expression to a **Byte**.
+
 
 
 ```vb
@@ -103,10 +104,10 @@ MyByte = CByte(MyDouble) ' MyByte contains 126.
 
 ```
 
-
 ## CCur function example
 
 This example uses the **CCur** function to convert an expression to a **Currency**.
+
 
 
 ```vb
@@ -118,10 +119,10 @@ MyCurr = CCur(MyDouble * 2) ' Convert result of MyDouble * 2
 
 ```
 
-
 ## CDate function example
 
 This example uses the **CDate** function to convert a string to a **Date**. In general, hard-coding dates and times as strings (as shown in this example) is not recommended. Use date literals and time literals, such as `#2/12/1969#` and `#4:45:23 PM#`, instead.
+
 
 
 ```vb
@@ -134,10 +135,10 @@ MyShortTime = CDate(MyTime) ' Convert to Date data type.
 
 ```
 
-
 ## CDbl function example
 
 This example uses the **CDbl** function to convert an expression to a **Double**.
+
 
 
 ```vb
@@ -147,10 +148,10 @@ MyDouble = CDbl(MyCurr * 8.2 * 0.01) ' Convert result to a Double.
 
 ```
 
-
 ## CDec function example
 
 This example uses the **CDec** function to convert a numeric value to a **Decimal**.
+
 
 
 ```vb
@@ -160,10 +161,10 @@ MyDecimal = CDec(MyCurr) ' MyDecimal is a Decimal.
 
 ```
 
-
 ## CInt function example
 
 This example uses the **CInt** function to convert a value to an **Integer**.
+
 
 
 ```vb
@@ -172,7 +173,6 @@ MyDouble = 2345.5678 ' MyDouble is a Double.
 MyInt = CInt(MyDouble) ' MyInt contains 2346. 
 
 ```
-
 
 ## CLng function example
 
@@ -187,10 +187,10 @@ MyLong2 = CLng(MyVal2) ' MyLong2 contains 25428.
 
 ```
 
-
 ## CSng function example
 
 This example uses the **CSng** function to convert a value to a **Single**.
+
 
 
 ```vb
@@ -202,10 +202,10 @@ MySingle2 = CSng(MyDouble2) ' MySingle2 contains 75.34216.
 
 ```
 
-
 ## CStr function example
 
 This example uses the **CStr** function to convert a numeric value to a **String**.
+
 
 
 ```vb
@@ -213,12 +213,13 @@ Dim MyDouble, MyString
 MyDouble = 437.324 ' MyDouble is a Double. 
 MyString = CStr(MyDouble) ' MyString contains "437.324". 
 
-```
 
+```
 
 ## CVar function example
 
 This example uses the **CVar** function to convert an expression to a **Variant**.
+
 
 
 ```vb
@@ -229,7 +230,9 @@ MyVar = CVar(MyInt & 000) ' MyVar contains the string
 
 ```
 
+
 ## See also
 
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
+
 

@@ -13,11 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns the distance, in [points](../../Glossary/vbe-glossary.md), between the previous position of a control and the left or top edge of the form that contains it.
+ **Syntax**
+ _object_. **OldLeft**
+=======
 Returns the distance, in [points](../../Glossary/vbe-glossary.md#point), between the previous position of a control and the left or top edge of the form that contains it.
 
 ## Syntax
 
 _object_. **OldLeft**
+>>>>>>> master
  _object_. **OldTop**
 The  **OldLeft** and **OldTop** property syntaxes have these parts:
 
@@ -26,9 +32,15 @@ The  **OldLeft** and **OldTop** property syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
+ **Remarks**
+ **OldLeft** and **OldTop** are read-only.
+The  **OldLeft** and **OldTop** properties are automatically updated when you move or size a control. If you move a control, the **Left** and **Top** properties store the new distance from the control to the left edge of its[container](../../Glossary/vbe-glossary.md) and **OldLeft** and **OldTop** store the previous value of **Left**.
+=======
 ## Remarks
 
 **OldLeft** and **OldTop** are read-only.
 The  **OldLeft** and **OldTop** properties are automatically updated when you move or size a control. If you move a control, the **Left** and **Top** properties store the new distance from the control to the left edge of its[container](../../Glossary/vbe-glossary.md#container) and **OldLeft** and **OldTop** store the previous value of **Left**.
+>>>>>>> master
  **OldLeft** and **OldTop** are valid only in the Layout event.
 

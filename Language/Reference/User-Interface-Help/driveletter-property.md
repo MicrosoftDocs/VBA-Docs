@@ -17,6 +17,12 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the drive letter of a physical local drive or a network share. Read-only.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **DriveLetter**
+The  _object_ is always a **Drive** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -25,6 +31,7 @@ The  _object_ is always a **Drive** object.
 
 ## Remarks
 
+>>>>>>> master
 The  **DriveLetter** property returns a zero-length string ("") if the specified drive is not associated with a drive letter, for example, a network share that has not been mapped to a drive letter.
 The following code illustrates the use of the  **DriveLetter** property:
 
@@ -35,10 +42,17 @@ Sub ShowDriveLetter(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(drvPath))
+<<<<<<< HEAD
+    s = "Drive " &; d.DriveLetter &; ": - " 
+    s = s &; d.VolumeName  &; vbCrLf
+    s = s &; "Free Space: " &; FormatNumber(d.FreeSpace/1024, 0) 
+    s = s &; " Kbytes"
+=======
     s = "Drive " & d.DriveLetter & ": - " 
     s = s & d.VolumeName  & vbCrLf
     s = s & "Free Space: " & FormatNumber(d.FreeSpace/1024, 0) 
     s = s & " Kbytes"
+>>>>>>> master
     MsgBox s
 End Sub
 ```

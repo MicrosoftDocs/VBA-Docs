@@ -7,7 +7,11 @@ ms.prod: word
 api_name:
 - Word.Application.WindowSelectionChange
 ms.assetid: 2c5cc640-a3a4-46b2-3352-20a057854b3a
+<<<<<<< HEAD
+ms.date: 06/08/2017
+=======
 ms.date: 08/20/2018
+>>>>>>> master
 ---
 
 
@@ -15,6 +19,14 @@ ms.date: 08/20/2018
 
 Occurs when the selection changes in the active document window.
 
+<<<<<<< HEAD
+
+## Syntax
+
+ _expression_. `Private Sub object_WindowSelectionChange`( `_ByVal Sel As Selection_` )
+
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For more information about using events with the **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+=======
 > [!NOTE] 
 > If you are working with a document embedded within another document, this event will not occur.
 
@@ -23,17 +35,27 @@ Occurs when the selection changes in the active document window.
 _expression_. `Private Sub object_WindowSelectionChange`(`ByVal Sel As Selection`)
 
 _expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module. For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+>>>>>>> master
 
 
 ### Parameters
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> master
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The text selected. If no text is selected, the Sel parameter returns either nothing or the first character to the right of the insertion point.|
 
 ## Example
 
+<<<<<<< HEAD
+This example applies bold formatting to the new selection. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)for directions on how to accomplish this.
+=======
 This example applies bold formatting to the new selection. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) for directions on how to accomplish this.
+>>>>>>> master
 
 
 ```vb
@@ -48,5 +70,10 @@ End Sub
 
 ## See also
 
+<<<<<<< HEAD
+
+[Application Object](Word.Application.md)
+=======
 - [Application Object](Word.Application.md)
+>>>>>>> master
 

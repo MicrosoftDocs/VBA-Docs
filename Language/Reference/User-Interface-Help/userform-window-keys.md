@@ -22,7 +22,11 @@ Use these key combinations in the  **UserForm** window:
 |F7|Open the  **Code** window for the selected object.|
 |DEL or DELETE|Delete the selected controls without placing them on the  **Clipboard**.|
 |CTRL+Z|Undo a deletion of controls.|
+<<<<<<< HEAD
+|TAB|Cycle forward through controls in [tab order](../../Glossary/vbe-glossary.md).|
+=======
 |TAB|Cycle forward through controls in [tab order](../../Glossary/vbe-glossary.md#tab-order).|
+>>>>>>> master
 |SHIFT+TAB|Cycle backward through controls in tab order.|
 |CTRL+CLICK|Add or remove a control from the selection.|
 |CLICK+DRAG|Select multiple controls.|

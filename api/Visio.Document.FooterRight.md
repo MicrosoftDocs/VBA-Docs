@@ -47,7 +47,11 @@ Sub FooterRight_Example()
     Dim strFooter as String 
  
     'Build the footer string.  
+<<<<<<< HEAD
+    strFooter = "The date is " &; "&;D"  
+=======
     strFooter = "The date is " & "&D"  
+>>>>>>> master
  
     'Set the footer of the current document.  
     ThisDocument.FooterRight = strFooter  

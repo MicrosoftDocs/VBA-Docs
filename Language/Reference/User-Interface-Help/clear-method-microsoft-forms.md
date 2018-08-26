@@ -13,11 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Removes all objects from an object or [collection](../../Glossary/vbe-glossary.md).
+ **Syntax**
+ _object_. **Clear**
+=======
 Removes all objects from an object or [collection](../../Glossary/vbe-glossary.md#collection).
 
 ## Syntax
 
 _object_. **Clear**
+>>>>>>> master
 The  **Clear** method syntax has these parts:
 
 
@@ -25,10 +31,17 @@ The  **Clear** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
+ **Remarks**
+For a  **MultiPage** or **TabStrip**, the **Clear** method deletes individual pages or tabs.
+For a  **ListBox** or **ComboBox**, **Clear** removes all entries in the list.
+For a  **Controls** collection, **Clear** deletes controls that were created at[run time](../../Glossary/vbe-glossary.md) with the **Add** method. Using **Clear** on controls created at[design time](../../Glossary/vbe-glossary.md) causes an error.
+=======
 ## Remarks
 
 For a  **MultiPage** or **TabStrip**, the **Clear** method deletes individual pages or tabs.
 For a  **ListBox** or **ComboBox**, **Clear** removes all entries in the list.
 For a  **Controls** collection, **Clear** deletes controls that were created at[run time](../../Glossary/vbe-glossary.md#run-time) with the **Add** method. Using **Clear** on controls created at[design time](../../Glossary/vbe-glossary.md#design-time) causes an error.
+>>>>>>> master
 If the control is bound to data, the  **Clear** method fails.
 

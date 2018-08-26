@@ -24,8 +24,13 @@ Set pr1 = Selection.Range.SpellingErrors
  sc = pr1.Count 
 Set pr2 = Selection.Range.GrammaticalErrors 
  gc = pr2.Count 
+<<<<<<< HEAD
+Msgbox "Spelling errors: " &; sc &; vbCr _ 
+ &; "Grammatical errors: " &; gc
+=======
 Msgbox "Spelling errors: " & sc & vbCr _ 
  & "Grammatical errors: " & gc
+>>>>>>> master
 ```
 
 Use  **SpellingErrors** (Index), where Index is the index number, to return a single spelling error (represented by a **Range** object). The following example finds the second spelling error in the selection and then selects it.

@@ -40,10 +40,17 @@ Dim shpLoop As Shape
  
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  With shpLoop 
+<<<<<<< HEAD
+ Debug.Print "Shape: " &; .Name 
+ Debug.Print " Wizard tag: " &; .WizardTag 
+ Debug.Print " Wizard tag instance: " _ 
+ &; .WizardTagInstance 
+=======
  Debug.Print "Shape: " & .Name 
  Debug.Print " Wizard tag: " & .WizardTag 
  Debug.Print " Wizard tag instance: " _ 
  & .WizardTagInstance 
+>>>>>>> master
  End With 
 Next shpLoop
 ```

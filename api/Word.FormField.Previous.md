@@ -31,7 +31,11 @@ This example displays the field code of the second-to-last form field in the act
 ```vb
 Set aField = ActiveDocument _ 
  .FormFields(ActiveDocument.FormFields.Count).Previous 
+<<<<<<< HEAD
+MsgBox "Form field code = " &; aField.Code
+=======
 MsgBox "Form field code = " & aField.Code
+>>>>>>> master
 ```
 
 

@@ -51,12 +51,20 @@ Private Sub PPTApp_ColorSchemeChanged(ByVal SldRange As SlideRange)
     If SldRange.Count = 1 Then
 
         MsgBox "You've changed the color scheme for " _
+<<<<<<< HEAD
+            &; SldRange.Name &; "."
+=======
             & SldRange.Name & "."
+>>>>>>> master
 
     Else
 
         MsgBox "You've changed the color scheme for " _
+<<<<<<< HEAD
+            &; SldRange.Count &; " slides."
+=======
             & SldRange.Count & " slides."
+>>>>>>> master
 
     End If
 

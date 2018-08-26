@@ -63,11 +63,19 @@ Sub TestEnterpriseResourceCF()
     resourceField = FieldNameToFieldConstant("TestEntResText", pjResource) 
  
     ' Show the enterprise resource field number and old value. 
+<<<<<<< HEAD
+    message = "Enterprise resource field number: " &; resourceField &; vbCrLf 
+    resourceFieldValue = ActiveProject.Tasks(1).Assignments(1).Resource.GetField(resourceField) 
+
+    If resourceFieldValue = "" Then resourceFieldValue = "[No value]" 
+    MsgBox message &; "Field value: " &; resourceFieldValue 
+=======
     message = "Enterprise resource field number: " & resourceField & vbCrLf 
     resourceFieldValue = ActiveProject.Tasks(1).Assignments(1).Resource.GetField(resourceField) 
 
     If resourceFieldValue = "" Then resourceFieldValue = "[No value]" 
     MsgBox message & "Field value: " & resourceFieldValue 
+>>>>>>> master
  
     ' Set a value for the enterprise resource custom field. 
     ' You can use either the Resources collection or the Assignments collection 
@@ -83,8 +91,13 @@ Sub TestEnterpriseResourceCF()
     ' Here, use the Resources collection to access the custom field. 
     resourceFieldValue = ActiveProject.Resources(1).GetField(resourceField) 
  
+<<<<<<< HEAD
+    message = "New value for field: " &; resourceFieldName &; vbCrLf 
+    MsgBox message &; "Field value: " &; resourceFieldValue 
+=======
     message = "New value for field: " & resourceFieldName & vbCrLf 
     MsgBox message & "Field value: " & resourceFieldValue 
+>>>>>>> master
 End Sub
 ```
 

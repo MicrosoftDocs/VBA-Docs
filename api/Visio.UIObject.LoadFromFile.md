@@ -66,12 +66,20 @@ Public Sub LoadFromFile_Example()
  'Save Menus object to a file. 
  strPath = "path\filename.vsu " 
  vsoUIObject.SaveToFile (strPath) 
+<<<<<<< HEAD
+ MsgBox ("Menus successfully saved to " &; strPath) 
+=======
  MsgBox ("Menus successfully saved to " & strPath) 
+>>>>>>> master
  
  'Load menus from the file. 
  vsoUIObject.LoadFromFile (strPath) 
  Visio.Application.SetCustomMenus vsoUIObject 
+<<<<<<< HEAD
+ MsgBox ("Menus successfully loaded from " &; strPath) 
+=======
  MsgBox ("Menus successfully loaded from " & strPath) 
+>>>>>>> master
  
 End Sub
 ```

@@ -37,7 +37,11 @@ This example checks to see whether the page number appears on the first page in 
 Set myDoc = ActiveDocument 
 first = myDoc.Sections(1).Headers(wdHeaderFooterPrimary). _ 
  PageNumbers.ShowFirstPageNumber 
+<<<<<<< HEAD
+Msgbox "This document shows numbers on the first page - " &; first
+=======
 Msgbox "This document shows numbers on the first page - " & first
+>>>>>>> master
 ```
 
 This example adds page numbers to the active document.

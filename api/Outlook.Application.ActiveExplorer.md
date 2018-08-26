@@ -62,7 +62,11 @@ Sub GetSelectedItems()
  
  For x = 1 To myOlSel.Count 
  
+<<<<<<< HEAD
+ MsgTxt = MsgTxt &; myOlSel.Item(x).SenderName &; ";" 
+=======
  MsgTxt = MsgTxt & myOlSel.Item(x).SenderName & ";" 
+>>>>>>> master
  
  Next x 
  

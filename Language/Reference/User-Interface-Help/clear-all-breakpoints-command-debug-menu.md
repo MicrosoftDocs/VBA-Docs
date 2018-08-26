@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Clear All Breakpoints Command (Debug Menu)
 
+<<<<<<< HEAD
+Removes all [breakpoints](../../Glossary/vbe-glossary.md) in your project. Your application may still interrupt execution, however, if you have set a[watch expression](../../Glossary/vbe-glossary.md) or selected the **Break** **on** **All** **Errors** option in the **General** tab of the **Options** dialog box. You cannot undo the **Clear** **All** **Breakpoints** command.
+=======
 Removes all [breakpoints](../../Glossary/vbe-glossary.md#breakpoint) in your project. Your application may still interrupt execution, however, if you have set a[watch expression](../../Glossary/vbe-glossary.md#watch-expression) or selected the **Break** **on** **All** **Errors** option in the **General** tab of the **Options** dialog box. You cannot undo the **Clear** **All** **Breakpoints** command.
+>>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_clbp_ZA01201686.gif). Keyboard shortcut: CTRL+SHIFT+F9.

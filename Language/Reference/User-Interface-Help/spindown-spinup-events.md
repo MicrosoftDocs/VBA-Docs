@@ -14,10 +14,15 @@ ms.date: 06/08/2017
 
 
 SpinDown occurs when the user clicks the lower or left spin-button arrow. SpinUp occurs when the user clicks the upper or right spin-button arrow.
+<<<<<<< HEAD
+ **Syntax**
+ **Private Sub**_object_ _**SpinDown( )**
+=======
 
 ## Syntax
 
 **Private Sub**_object_ _**SpinDown( )**
+>>>>>>> master
  **Private Sub**_object_ _**SpinUp( )**
 The  **SpinDown** and **SpinUp** event syntaxes have these parts:
 
@@ -26,7 +31,11 @@ The  **SpinDown** and **SpinUp** event syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The SpinDown event decreases the  **Value** property. The SpinUp event increases **Value**.
 

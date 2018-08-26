@@ -113,7 +113,11 @@ Public Sub RowCount_Example()
  'to the list box. Rows are numbered starting with 0. 
  For intCounter = 0 To intRows - 1 
  Set vsoCell = vsoShape.CellsSRC(Visio.visSectionProp, intCounter, visCustPropsValue) 
+<<<<<<< HEAD
+ UserForm1.ListBox1.AddItem vsoCell.LocalName &; vbTab &; _ 
+=======
  UserForm1.ListBox1.AddItem vsoCell.LocalName & vbTab & _ 
+>>>>>>> master
  vsoCell.ResultStr(Visio.visNone) 
  Next intCounter 
  

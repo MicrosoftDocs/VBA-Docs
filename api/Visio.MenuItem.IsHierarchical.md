@@ -92,7 +92,11 @@ Public Sub IsHierarchical_Example()
  
  'Check CmdNum to see if it is Macro. 
  If vsoMenuItem.CmdNum = visCmdHierarchical And _ 
+<<<<<<< HEAD
+ vsoMenuItem.Caption = "&;Macros" Then 
+=======
  vsoMenuItem.Caption = "&Macros" Then 
+>>>>>>> master
  
  'The value of blsHierarchicalState is True. 
  blsHierarchicalState = vsoMenuItem.IsHierarchical 

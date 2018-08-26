@@ -21,7 +21,6 @@ The required  _eventname_ is the name of an event declared within the [module](.
 
 The **RaiseEvent** statement syntax has these parts.
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 | _eventname_|Required. Name of the event to fire.|

@@ -11,6 +11,20 @@ ms.date: 06/08/2017
 
 # Writing a Property Procedure
 
+<<<<<<< HEAD
+A  **Property** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md) that allow a programmer to create and manipulate custom properties.
+
+
+
+-  **Property** procedures can be used to create read-only properties for[forms](../../Glossary/vbe-glossary.md), [standard modules](../../Glossary/vbe-glossary.md), and [class modules](../../Glossary/vbe-glossary.md).
+    
+-  **Property** procedures should be used instead of **Public** variables in code that must be executed when the property value is set.
+    
+- Unlike  **Public** variables, **Property** procedures can have Help strings assigned to them in the[Object Browser](../../Glossary/vbe-glossary.md).
+    
+
+When you create a  **Property** procedure, it becomes a property of the[module](../../Glossary/vbe-glossary.md) containing the procedure. Visual Basic provides the following three types of **Property** procedures:
+=======
 A  **Property** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md#statement) that allow a programmer to create and manipulate custom properties.
 
 
@@ -23,6 +37,7 @@ A  **Property** procedure is a series of Visual Basic[statements](../../Glossary
     
 
 When you create a  **Property** procedure, it becomes a property of the[module](../../Glossary/vbe-glossary.md#module) containing the procedure. Visual Basic provides the following three types of **Property** procedures:
+>>>>>>> master
 
 
 |**Procedure**|**Description**|
@@ -61,5 +76,9 @@ End Property
 
 ```
 
+<<<<<<< HEAD
+The data type of the final argument in a  **Property Set** declaration must be either an[object type](../../Glossary/vbe-glossary.md) or a **Variant**.
+=======
 The data type of the final argument in a  **Property Set** declaration must be either an[object type](../../Glossary/vbe-glossary.md#object-type) or a **Variant**.
+>>>>>>> master
 

@@ -53,33 +53,55 @@ Exit Sub
  
 ErrRoutine: 
  Select Case Err.Number 
+<<<<<<< HEAD
+ Case 287 ' &;H0000011F 
+=======
  Case 287 ' &H0000011F 
+>>>>>>> master
  ' The user denied access to the Address Book. 
  ' This error occurs if the code is run by an 
  ' untrusted application, and the user chose not to 
  ' allow access. 
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+ Case -313393143 ' &;HED520009 
+=======
  Err.Number & " - " & Err.Source 
  Case -313393143 ' &HED520009 
+>>>>>>> master
  ' This error typically occurs if you set the 
  ' AllowWriteAccess property to true for a 
  ' default folder. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+ Case -2147467259 ' &;H80004005 
+=======
  Err.Number & " - " & Err.Source 
  Case -2147467259 ' &H80004005 
+>>>>>>> master
  ' This error typically occurs if the SharingItem 
  ' cannot be sent because of incorrect or 
  ' conflicting property settings. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+=======
  Err.Number & " - " & Err.Source 
+>>>>>>> master
  Case Else 
  ' Any other error that may occur. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+=======
  Err.Number & " - " & Err.Source 
+>>>>>>> master
  End Select 
  
  GoTo EndRoutine 

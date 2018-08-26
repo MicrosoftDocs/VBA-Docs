@@ -46,7 +46,11 @@ End Sub
  
 Sub objViews_ViewRemove(ByVal View As View) 
  'Displays view name 
+<<<<<<< HEAD
+ MsgBox "The view: " &; View.Name &; " was removed programmatically." 
+=======
  MsgBox "The view: " & View.Name & " was removed programmatically." 
+>>>>>>> master
 End Sub
 ```
 

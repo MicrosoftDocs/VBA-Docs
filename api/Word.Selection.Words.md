@@ -34,7 +34,11 @@ This example displays the number of words in the selection. Paragraphs marks, pa
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "There are " &; Selection.Words.Count &; " words."
+=======
 MsgBox "There are " & Selection.Words.Count & " words."
+>>>>>>> master
 ```
 
 

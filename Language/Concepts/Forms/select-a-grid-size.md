@@ -18,7 +18,11 @@ ms.date: 06/08/2017
     
 2. In the  **Options** dialog box, choose the **General** page.
     
+<<<<<<< HEAD
+3. In the  **Form Grid Settings** group, specify the size you want for each[grid block](../../Glossary/glossary-vba.md). Specifying smaller numbers results in smaller grid blocks.
+=======
 3. In the  **Form Grid Settings** group, specify the size you want for each[grid block](../../Glossary/glossary-vba.md#grid-block). Specifying smaller numbers results in smaller grid blocks.
+>>>>>>> master
     
 
 

@@ -45,7 +45,11 @@ This Visual Basic for Applications (VBA) example notifies the user that the user
 Public WithEvents myItem As Outlook.MailItem 
  
 Private Sub myItem_BeforeAttachmentSave(ByVal myAttachment As Attachment, Cancel As Boolean) 
+<<<<<<< HEAD
+ MsgBox "You are not allowed to save " &; myAttachment.FileName 
+=======
  MsgBox "You are not allowed to save " & myAttachment.FileName 
+>>>>>>> master
  Cancel = True 
 End Sub 
  

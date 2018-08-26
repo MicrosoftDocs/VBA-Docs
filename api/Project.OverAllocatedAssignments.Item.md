@@ -70,11 +70,19 @@ Sub FindOverallocatedAssignments()
 
  Set a = overAlloc.Item(i) 
 
+<<<<<<< HEAD
+ Debug.Print "Task: " &; t.Name &; " - Overallocated resource: " _ 
+
+ &; a.ResourceName 
+
+ Debug.Print vbTab &; "Resource peak: " &; a.Peak 
+=======
  Debug.Print "Task: " & t.Name & " - Overallocated resource: " _ 
 
  & a.ResourceName 
 
  Debug.Print vbTab & "Resource peak: " & a.Peak 
+>>>>>>> master
 
  Next i 
 

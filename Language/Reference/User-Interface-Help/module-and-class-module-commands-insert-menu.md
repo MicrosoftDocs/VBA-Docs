@@ -13,13 +13,21 @@ ms.date: 06/08/2017
 
  **Module**
 
+<<<<<<< HEAD
+Inserts a new [standard module](../../Glossary/vbe-glossary.md) and adds it to your active project.
+=======
 Inserts a new [standard module](../../Glossary/vbe-glossary.md#standard-module) and adds it to your active project.
+>>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_mod_ZA01201714.gif).
 
  **Class Module**
+<<<<<<< HEAD
+Creates a new [class module](../../Glossary/vbe-glossary.md) and adds it to your active project.
+=======
 Creates a new [class module](../../Glossary/vbe-glossary.md#class-module) and adds it to your active project.
+>>>>>>> master
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_cmod_ZA01201688.gif).
 

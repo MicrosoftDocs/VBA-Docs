@@ -48,8 +48,13 @@ This example creates a new Avery 2160 minilabel document using a predefined addr
 
 
 ```vb
+<<<<<<< HEAD
+addr = "Dave Edson" &; vbCr &; "123 Skye St." _ 
+ &; vbCr &; "Our Town, WA 98004" 
+=======
 addr = "Dave Edson" & vbCr & "123 Skye St." _ 
  & vbCr & "Our Town, WA 98004" 
+>>>>>>> master
 Application.MailingLabel.CreateNewDocument _ 
  Name:="2160 mini", Address:=addr, ExtractAddress:=False
 ```

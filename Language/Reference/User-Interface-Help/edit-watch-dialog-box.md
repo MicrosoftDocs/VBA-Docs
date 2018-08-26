@@ -16,12 +16,20 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Use to delete or edit the context or type of a [watch expression](../../Glossary/vbe-glossary.md).
+=======
 Use to delete or edit the context or type of a [watch expression](../../Glossary/vbe-glossary.md#watch-expression).
+>>>>>>> master
 
 
 
 
+<<<<<<< HEAD
+ **Important**  When selecting a context for a watch expression, use the narrowest [scope](../../Glossary/vbe-glossary.md) that fits your needs. Selecting all procedures or all modules could slow down execution considerably, since the expression is evaluated after execution of each statement. Selecting a specific procedure for a context affects execution only while the procedure is in the list of active procedure calls.
+=======
  **Important**  When selecting a context for a watch expression, use the narrowest [scope](../../Glossary/vbe-glossary.md#scope) that fits your needs. Selecting all procedures or all modules could slow down execution considerably, since the expression is evaluated after execution of each statement. Selecting a specific procedure for a context affects execution only while the procedure is in the list of active procedure calls.
+>>>>>>> master
 
 
 
@@ -40,7 +48,11 @@ Sets the scope of the variables watched in the expression.
 
 - Procedure — Displays the procedure name where the selected term resides (default). Defines the procedure(s) in which the expression is evaluated. You may select all procedures or a specific procedure context in which to evaluate the variable.
     
+<<<<<<< HEAD
+- Module — Displays the [module](../../Glossary/vbe-glossary.md) name where the selected term resides (default). You may select all modules or a specific module context in which to evaluate the variable.
+=======
 - Module — Displays the [module](../../Glossary/vbe-glossary.md#module) name where the selected term resides (default). You may select all modules or a specific module context in which to evaluate the variable.
+>>>>>>> master
     
 - Project — Displays the name of the current project. Expressions can't be evaluated in a context outside of the current project.
     

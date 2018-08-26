@@ -17,10 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Writes a specified string to a  **TextStream** file.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Write(**_string_**)**
+=======
 
 ## Syntax
 
 _object_. **Write(**_string_**)**
+>>>>>>> master
 The  **Write** method syntax has these parts:
 
 
@@ -29,7 +34,11 @@ The  **Write** method syntax has these parts:
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _string_|Required. The text you want to write to the file.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 Specified strings are written to the file with no intervening spaces or characters between each string. Use the  **WriteLine** method to write a newline character or a string that ends with a newline character.
 

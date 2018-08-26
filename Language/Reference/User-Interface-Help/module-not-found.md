@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Module not found
 
+<<<<<<< HEAD
+[Modules](../../Glossary/vbe-glossary.md) aren't loaded from a code reference — they must be part of the[project](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+
+
+
+- The requested module doesn't exist in the specified project. For example, the statement  `MyModule.SomeVar = 5` generates this error when `MyModule` isn't visible in the project `MyProject`. See your [host application](../../Glossary/vbe-glossary.md) documentation for information on including the module in the project.
+=======
 [Modules](../../Glossary/vbe-glossary.md#module) aren't loaded from a code reference — they must be part of the[project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
 
 
 
 - The requested module doesn't exist in the specified project. For example, the statement  `MyModule.SomeVar = 5` generates this error when `MyModule` isn't visible in the project `MyProject`. See your [host application](../../Glossary/vbe-glossary.md#host-application) documentation for information on including the module in the project.
+>>>>>>> master
     
 
 

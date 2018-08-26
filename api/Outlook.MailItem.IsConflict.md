@@ -48,7 +48,11 @@ Sub NewMail()
  
  objNewMail.Body = _ 
  
+<<<<<<< HEAD
+ "This e-mail message was created automatically on " &; Now 
+=======
  "This e-mail message was created automatically on " & Now 
+>>>>>>> master
  
  objNewMail.To = "Jeff Smith" 
  

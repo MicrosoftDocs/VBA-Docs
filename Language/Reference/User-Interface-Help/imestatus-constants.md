@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # IMEStatus Constants
 
+<<<<<<< HEAD
+The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere in your code in place of the actual values.
+
+The constants for the Japanese [locale](../../Glossary/vbe-glossary.md) are as follows:
+=======
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
 The constants for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
+>>>>>>> master
 
 
 |**Constant**|**Value**|**Description**|

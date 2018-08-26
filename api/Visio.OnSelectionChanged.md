@@ -50,7 +50,11 @@ Private Sub vsoViewer_OnSelectionChanged(ByVal ShapeIndex As Long)
 
 
 
+<<<<<<< HEAD
+    Debug.Print "Selected shape changed to shape " &; vsoViewer.SelectedShapeIndex &; "."
+=======
     Debug.Print "Selected shape changed to shape " & vsoViewer.SelectedShapeIndex & "."
+>>>>>>> master
 
  
 

@@ -40,7 +40,11 @@ This example displays the sheet name and address of the selected range in the st
 ```vb
 Private Sub Workbook_SheetSelectionChange(ByVal Sh As Object, _ 
  ByVal Target As Excel.Range) 
+<<<<<<< HEAD
+ Application.StatusBar = Sh.Name &; ":" &; Target.Address 
+=======
  Application.StatusBar = Sh.Name & ":" & Target.Address 
+>>>>>>> master
 End Sub
 ```
 

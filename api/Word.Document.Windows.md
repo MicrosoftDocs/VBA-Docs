@@ -34,10 +34,17 @@ This example displays the number of windows for the active document, both before
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox Prompt:= ActiveDocument.Windows.Count &; " window(s)", _ 
+ Title:= ActiveDocument.Name 
+ActiveDocument.ActiveWindow.NewWindow 
+MsgBox Prompt:= ActiveDocument.Windows.Count &; " windows", _ 
+=======
 MsgBox Prompt:= ActiveDocument.Windows.Count & " window(s)", _ 
  Title:= ActiveDocument.Name 
 ActiveDocument.ActiveWindow.NewWindow 
 MsgBox Prompt:= ActiveDocument.Windows.Count & " windows", _ 
+>>>>>>> master
  Title:= ActiveDocument.Name
 ```
 

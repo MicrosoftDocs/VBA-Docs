@@ -58,7 +58,11 @@ Sub EnumerateCategoriesForStores()
  
  For Each oCategory In oCategories 
  
+<<<<<<< HEAD
+ Debug.Print Chr(9) &; oCategory.Name 
+=======
  Debug.Print Chr(9) & oCategory.Name 
+>>>>>>> master
  
  Next 
  

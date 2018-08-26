@@ -50,6 +50,12 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 
 ## See also
 
+<<<<<<< HEAD
+
+[Border Object](Excel.Border(object).md)
+
+=======
 [Border Object](Excel.Border(object).md)
 
 [RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
+>>>>>>> master

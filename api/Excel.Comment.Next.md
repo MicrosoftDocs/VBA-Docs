@@ -44,15 +44,24 @@ This example shows every second comment, navigating with the next method.
 ```vb
 'Sets up the comments 
 For xNum = 1 To 10 
+<<<<<<< HEAD
+ Range("A" &; xNum).AddComment 
+ Range("A" &; xNum).Comment.Text Text:="Comment " &; xNum 
+=======
  Range("A" & xNum).AddComment 
  Range("A" & xNum).Comment.Text Text:="Comment " & xNum 
+>>>>>>> master
 Next 
  
 MsgBox "Comments created... A1:A10" 
  
 'Deletes every second comment in the A1:A10 range 
 For yNum = 1 To 10 Step 2 
+<<<<<<< HEAD
+ Range("A" &; yNum).Comment.Next.Shape.Select True 
+=======
  Range("A" & yNum).Comment.Next.Shape.Select True 
+>>>>>>> master
  Selection.Delete 
 Next 
  

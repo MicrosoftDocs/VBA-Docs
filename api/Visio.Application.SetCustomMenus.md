@@ -88,7 +88,11 @@ Public Sub SetCustomMenus_Example()
  Set vsoMenuItem = vsoMenuItems.Add 
  
  'Set the properties for the new menu item. 
+<<<<<<< HEAD
+ vsoMenuItem.Caption = "&;Hello" 
+=======
  vsoMenuItem.Caption = "&Hello" 
+>>>>>>> master
  vsoMenuItem.AddOnName = "MsgBox ""Hello""" 
  
  'Tell Visio to use the new UI when the document is active. 

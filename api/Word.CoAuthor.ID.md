@@ -40,8 +40,13 @@ Dim coAuth As CoAuthor
 Set allAuthors = ActiveDocument.CoAuthoring.Authors 
  
 For Each coAuth In allAuthors 
+<<<<<<< HEAD
+ MsgBox "The ID for " &; _ 
+ coAuth.Name &; " is " &; coAuth.ID &; "." 
+=======
  MsgBox "The ID for " & _ 
  coAuth.Name & " is " & coAuth.ID & "." 
+>>>>>>> master
 Next coAuth
 ```
 

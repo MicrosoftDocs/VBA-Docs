@@ -59,8 +59,13 @@ Sub ComparisonReport ()
         Exit Sub 
     ElseIf ActiveProject.Tasks.Count = 0 Then 
         If ActiveProject.ResourceCount = 0 Then 
+<<<<<<< HEAD
+            MsgBox "There are no task or resources in the current project. " &; vbCrLf _ 
+            &; "Open a project with either tasks or resources before creating a comparison report.", _ 
+=======
             MsgBox "There are no task or resources in the current project. " & vbCrLf _ 
             & "Open a project with either tasks or resources before creating a comparison report.", _ 
+>>>>>>> master
             vbInformation 
             Exit Sub 
         End If 
@@ -83,7 +88,11 @@ Sub ComparisonReport ()
     ' Save the comparison report based upon the name of the first project. 
     Dim comparisonReport As Project 
     Set comparisonReport = ActiveProject 
+<<<<<<< HEAD
+    ActiveProject.SaveAs currentProject &; "_Compared.mpp" 
+=======
     ActiveProject.SaveAs currentProject & "_Compared.mpp" 
+>>>>>>> master
 End Sub
 ```
 

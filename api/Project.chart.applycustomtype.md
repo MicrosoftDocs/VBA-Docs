@@ -45,9 +45,15 @@ Sub SetChartType()
     reportName = "Simple scalar chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
+<<<<<<< HEAD
+    Debug.Print "Chart type before: " &; chartShape.Chart.ChartType
+    chartShape.Chart.ApplyCustomType (xl3DBarClustered)
+    Debug.Print "Chart type after: " &; chartShape.Chart.ChartType
+=======
     Debug.Print "Chart type before: " & chartShape.Chart.ChartType
     chartShape.Chart.ApplyCustomType (xl3DBarClustered)
     Debug.Print "Chart type after: " & chartShape.Chart.ChartType
+>>>>>>> master
 End Sub
 ```
 

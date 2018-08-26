@@ -55,9 +55,15 @@ Use  **Subdocuments** (Index), where Index is the index number, to return a sing
 
 ```vb
 If ActiveDocument.Subdocuments(1).HasFile = True Then 
+<<<<<<< HEAD
+ MsgBox ActiveDocument.Subdocuments(1).Path &; _ 
+ Application.PathSeparator _ 
+ &; ActiveDocument.Subdocuments(1).Name 
+=======
  MsgBox ActiveDocument.Subdocuments(1).Path & _ 
  Application.PathSeparator _ 
  & ActiveDocument.Subdocuments(1).Name 
+>>>>>>> master
 End If
 ```
 

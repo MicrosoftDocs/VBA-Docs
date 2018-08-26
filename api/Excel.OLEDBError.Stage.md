@@ -30,10 +30,17 @@ This example displays the error numbers, stage, and other error information retu
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
+<<<<<<< HEAD
+MsgBox "The following error occurred:" &; _ 
+ objEr.Number &; ", " &; objEr.Native &; ", " &; _ 
+ objEr.Stage &; ", " &; _ 
+ objEr.ErrorString &; " : " &; objEr.SqlState
+=======
 MsgBox "The following error occurred:" & _ 
  objEr.Number & ", " & objEr.Native & ", " & _ 
  objEr.Stage & ", " & _ 
  objEr.ErrorString & " : " & objEr.SqlState
+>>>>>>> master
 ```
 
 

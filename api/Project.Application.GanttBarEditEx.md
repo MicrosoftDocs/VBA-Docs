@@ -69,7 +69,11 @@ The following example creates a bar style that has a light green color and ends 
 ```vb
 Sub CreateGanttBar() 
     GanttBarEditEx Item:=-1, Create:=True, Name:="My New Bar Style", _
+<<<<<<< HEAD
+        MiddleColor:=&;H88FF88, EndShape:=pjStar 
+=======
         MiddleColor:=&H88FF88, EndShape:=pjStar 
+>>>>>>> master
 End Sub
 ```
 

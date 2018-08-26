@@ -33,7 +33,11 @@ With ActiveDocument.Envelope
  .DefaultFaceUp = True 
  .DefaultOrientation = wdCenterPortrait 
  MsgBox "Feed envelopes centered, face up, " _ 
+<<<<<<< HEAD
+ &; "in portrait orientation" 
+=======
  & "in portrait orientation" 
+>>>>>>> master
 End With
 ```
 

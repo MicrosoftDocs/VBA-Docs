@@ -29,8 +29,13 @@ This example displays the number of sheets automatically inserted into new workb
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "Microsoft Excel inserts " &; _ 
+ Application.SheetsInNewWorkbook &; _ 
+=======
 MsgBox "Microsoft Excel inserts " & _ 
  Application.SheetsInNewWorkbook & _ 
+>>>>>>> master
  " sheet(s) in each new workbook"
 ```
 

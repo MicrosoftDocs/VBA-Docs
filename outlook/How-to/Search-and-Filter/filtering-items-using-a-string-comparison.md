@@ -18,7 +18,11 @@ When matching string properties, you can use either a pair of single quotes ('),
 ```vb
 sFilter = "[CompanyName] = 'Microsoft'"
 
+<<<<<<< HEAD
+sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
+=======
 sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
+>>>>>>> master
 
 ```
 
@@ -35,15 +39,25 @@ filter = "@SQL=""https://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can'
 Alternatively, you can use the `chr(34)` function to represent the double quote (whose ASCII character value is 34) that is used as an escape character. Using the `chr(34)` substitution for a double-quote escape character, you can express the last example as follows:
 
 ```vb
+<<<<<<< HEAD
+filter = "@SQL= " &; Chr(34) &; "https://schemas.microsoft.com/mapi/proptag/0x0037001f" _
+    &; Chr(34) &; " = " &; "'can''t'"
+=======
 filter = "@SQL= " & Chr(34) & "https://schemas.microsoft.com/mapi/proptag/0x0037001f" _
     & Chr(34) & " = " & "'can''t'"
+>>>>>>> master
 ```
 
 Escaping single and double quote characters is also required for DASL queries with the **ci_startswith** or **ci_phrasematch** operators. For example, the following query performs a phrase match query for `can't` in the message subject:
 
 ```vb
+<<<<<<< HEAD
+filter = "@SQL=" &; Chr(34) &; "https://schemas.microsoft.com/mapi/proptag/0x0037001E" _
+    &; Chr(34) &; " ci_phrasematch " &; "'can''t'"
+=======
 filter = "@SQL=" & Chr(34) & "https://schemas.microsoft.com/mapi/proptag/0x0037001E" _
     & Chr(34) & " ci_phrasematch " & "'can''t'"
+>>>>>>> master
 ```
 
 Another example is a DASL filter string that filters for the **Subject** property being equal to the words `the right stuff`, where the word `stuff` is enclosed by double quotes. In this case, you must escape the enclosing double quotes as follows:
@@ -64,9 +78,15 @@ A different set of escaping rules apply to a property reference for named proper
 For example, you would use the following filter to search for a custom property named **Mom's "Gift"** that contains the word `pearls`:
 
 ```vb
+<<<<<<< HEAD
+filter = "@SQL=" &; Chr(34) &; _
+    "https://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/" _
+    &; "Mom%27s%20%22Gift%22" &; Chr(34) &; " like '%pearls%'"
+=======
 filter = "@SQL=" & Chr(34) & _
     "https://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/" _
     & "Mom%27s%20%22Gift%22" & Chr(34) & " like '%pearls%'"
+>>>>>>> master
 ```
 
 
@@ -93,9 +113,15 @@ Similar to Jet filters, DASL filters perform string equivalence comparison by us
 As an example, the following DASL query creates a filter for company name equals 'Microsoft': 
 
 ```vb
+<<<<<<< HEAD
+criteria = "@SQL=" &; Chr(34) _
+&; "urn:schemas-microsoft-com:office:office#Company" &; Chr(34) _
+&; " = 'Microsoft'"
+=======
 criteria = "@SQL=" & Chr(34) _
 & "urn:schemas-microsoft-com:office:office#Company" & Chr(34) _
 & " = 'Microsoft'"
+>>>>>>> master
 ```
 
 As another example, assume that the folder you are searching contains items with the following subjects: 
@@ -109,9 +135,15 @@ As another example, assume that the folder you are searching contains items with
 The following = restriction...
 
 ```vb
+<<<<<<< HEAD
+criteria = "@SQL=" &; Chr(34) _ 
+&; "urn:schemas:httpmail:subject" &; Chr(34) _ 
+&; " = 'question'"
+=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:httpmail:subject" & Chr(34) _ 
 & " = 'question'"
+>>>>>>> master
 ```
 
 ...will return the following results:
@@ -169,9 +201,15 @@ Using the same example in Equivalence Matching, assume that the folder you are s
 The following **ci_startswith** restriction...
 
 ```vb
+<<<<<<< HEAD
+criteria = "@SQL=" &; Chr(34) _ 
+&; "urn:schemas:httpmail:subject" &; Chr(34) _ 
+&; " ci_startswith 'question'" 
+=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:httpmail:subject" & Chr(34) _ 
 & " ci_startswith 'question'" 
+>>>>>>> master
 ```
 
 ...will return the following results:
@@ -217,9 +255,15 @@ Using the same example in Equivalence Matching, assume that the folder you are s
 The following **ci_phrasematch** restriction...
 
 ```vb
+<<<<<<< HEAD
+criteria = "@SQL=" &; Chr(34) _ 
+&; "urn:schemas:httpmail:subject" &; Chr(34) _ 
+&; " ci_phrasematch 'question'" 
+=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:httpmail:subject" & Chr(34) _ 
 & " ci_phrasematch 'question'" 
+>>>>>>> master
 ```
 
 ...will return the following results:
@@ -289,9 +333,15 @@ Using the same example in Equivalence Matching, assume that the folder you are s
 The following like restriction...
 
 ```vb
+<<<<<<< HEAD
+criteria = "@SQL=" &; Chr(34) _ 
+&; "urn:schemas:httpmail:subject" &; Chr(34) _ 
+&; " like '%question%'" 
+=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:httpmail:subject" & Chr(34) _ 
 & " like '%question%'" 
+>>>>>>> master
 ```
 
 ...will return the following results: 

@@ -13,15 +13,29 @@ ms.date: 06/08/2017
 
 Renames a disk file, directory, or folder.
 
+<<<<<<< HEAD
+ **Syntax**
+
+ **Name**_oldpathname_**As**_newpathname_
+=======
 ## Syntax
 
 **Name**_oldpathname_**As**_newpathname_
+>>>>>>> master
 
 The  **Name** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+| _oldpathname_|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies the existing file name and location — may include directory or folder, and drive.|
+| _newpathname_|Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  _newpathname_ can't already exist.|
+
+ **Remarks**
+The Name statement renames a file and moves it to a different directory or folder, if necessary. Name can move a file across drives, but it can only rename an existing directory or folder when both newpathname and oldpathname are located on the same drive. Name cannot create a new file, directory, or folder.
+Using  **Name** on an open file produces an error. You must close an open file before renaming it. **Name**[arguments](../../Glossary/vbe-glossary.md) cannot include multiple-character (**\***) and single-character (**?**) wildcards.
+=======
 | _oldpathname_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies the existing file name and location — may include directory or folder, and drive.|
 | _newpathname_|Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  _newpathname_ can't already exist.|
 
@@ -29,6 +43,7 @@ The  **Name** statement syntax has these parts:
 
 The Name statement renames a file and moves it to a different directory or folder, if necessary. Name can move a file across drives, but it can only rename an existing directory or folder when both newpathname and oldpathname are located on the same drive. Name cannot create a new file, directory, or folder.
 Using  **Name** on an open file produces an error. You must close an open file before renaming it. **Name**[arguments](../../Glossary/vbe-glossary.md#argument) cannot include multiple-character (**\***) and single-character (**?**) wildcards.
+>>>>>>> master
 
 ## Example
 

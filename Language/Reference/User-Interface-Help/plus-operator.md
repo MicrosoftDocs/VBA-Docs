@@ -14,15 +14,29 @@ ms.date: 06/08/2017
 
 
 Used to sum two numbers.
+<<<<<<< HEAD
+ **Syntax**
+ _result_ **=** _expression1 + expression2_.
+=======
 
 ## Syntax
 
 _result_ **=** _expression1 + expression2_.
+>>>>>>> master
 The  **+** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md).|
+| _expression2_|Required; any expression.|
+
+ **Remarks**
+When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
+If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md), the following rules apply:
+=======
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md#expression).|
 | _expression2_|Required; any expression.|
@@ -31,15 +45,24 @@ The  **+** operator syntax has these parts:
 
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
 If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md#variant-data-type), the following rules apply:
+>>>>>>> master
 
 
 |**If**|**Then**|
 |:-----|:-----|
+<<<<<<< HEAD
+|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Add.|
+|Both expressions are [String](../../Glossary/vbe-glossary.md)|Concatenate.|
+|One expression is a numeric data type and the other is any  **Variant** except [Null](../../Glossary/vbe-glossary.md)|Add.|
+|One expression is a  **String** and the other is any **Variant** except **Null**|Concatenate.|
+|One expression is an [Empty](../../Glossary/vbe-glossary.md) **Variant**|Return the remaining expression unchanged as  _result_.|
+=======
 |Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Date](../../Glossary/vbe-glossary.md#date-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), or [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type))|Add.|
 |Both expressions are [String](../../Glossary/vbe-glossary.md#string-data-type)|Concatenate.|
 |One expression is a numeric data type and the other is any  **Variant** except [Null](../../Glossary/vbe-glossary.md#null)|Add.|
 |One expression is a  **String** and the other is any **Variant** except **Null**|Concatenate.|
 |One expression is an [Empty](../../Glossary/vbe-glossary.md#empty) **Variant**|Return the remaining expression unchanged as  _result_.|
+>>>>>>> master
 |One expression is a numeric data type and the other is a  **String**|A  `Type mismatch`error occurs.|
 |Either expression is  **Null**| _result_ is **Null**.|
 
@@ -52,7 +75,11 @@ If both expressions are  **Variant** expressions, the following rules apply:
 |Both  **Variant** expressions are strings|Concatenate.|
 |One  **Variant** expression is numeric and the other is a string|Add.|
 
+<<<<<<< HEAD
+For simple arithmetic addition involving only expressions of numeric data types, the [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order:
+=======
 For simple arithmetic addition involving only expressions of numeric data types, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order:
+>>>>>>> master
 
 
 |**If**|**Then  _result_ is**|

@@ -17,6 +17,12 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the date and time that the specified file or folder was last accessed. Read-only.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **DateLastAccessed**
+The  _object_ is always a **File** or **Folder** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -25,6 +31,7 @@ The  _object_ is always a **File** or **Folder** object.
 
 ## Remarks
 
+>>>>>>> master
 The following code illustrates the use of the  **DateLastAccessed** property with a file:
 
 
@@ -34,10 +41,17 @@ Sub ShowFileAccessInfo(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
+<<<<<<< HEAD
+    s = UCase(filespec) &; vbCrLf
+    s = s &; "Created: " &; f.DateCreated &; vbCrLf
+    s = s &; "Last Accessed: " &; f.DateLastAccessed &; vbCrLf
+    s = s &; "Last Modified: " &; f.DateLastModified  
+=======
     s = UCase(filespec) & vbCrLf
     s = s & "Created: " & f.DateCreated & vbCrLf
     s = s & "Last Accessed: " & f.DateLastAccessed & vbCrLf
     s = s & "Last Modified: " & f.DateLastModified  
+>>>>>>> master
     MsgBox s, 0, "File Access Info"
 End Sub
 ```

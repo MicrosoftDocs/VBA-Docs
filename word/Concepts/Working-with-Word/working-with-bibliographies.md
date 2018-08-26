@@ -130,6 +130,16 @@ Sub AddBibSource()
  
     Dim strXml As String 
      
+<<<<<<< HEAD
+    strXml = "<b:Source xmlns:b=""https://schemas.microsoft.com/" &; _ 
+        "office/word/2004/10/bibliography""><b:Tag>Mor01</b:Tag>" &; _ 
+        "<b:SourceType>Book</b:SourceType><b:Author><b:Author>" &; _ 
+        "<b:NameList><b:Person><b:Last>Hezi</b:Last>" &; _ 
+        "<b:First>Mor</b:First></b:Person></b:NameList></b:Author>" &; _ 
+        "</b:Author><b:Title>The New Office</b:Title>" &; _ 
+        "<b:Year>2006</b:Year><b:City>Seattle</b:City>" &; _ 
+        "<b:Publisher>Adventure Works Press</b:Publisher>" &; _ 
+=======
     strXml = "<b:Source xmlns:b=""https://schemas.microsoft.com/" & _ 
         "office/word/2004/10/bibliography""><b:Tag>Mor01</b:Tag>" & _ 
         "<b:SourceType>Book</b:SourceType><b:Author><b:Author>" & _ 
@@ -138,6 +148,7 @@ Sub AddBibSource()
         "</b:Author><b:Title>The New Office</b:Title>" & _ 
         "<b:Year>2006</b:Year><b:City>Seattle</b:City>" & _ 
         "<b:Publisher>Adventure Works Press</b:Publisher>" & _ 
+>>>>>>> master
         "</b:Source>" 
      
     Application.Bibliography.Sources.Add strXml 

@@ -49,8 +49,13 @@ The following example displays the name and value of the first AutoText entry in
 
 ```vb
 Set myTemplate = ActiveDocument.AttachedTemplate 
+<<<<<<< HEAD
+MsgBox "Name = " &; myTemplate.AutoTextEntries(1).Name &; vbCr _ 
+ &; "Value " &; myTemplate.AutoTextEntries(1).Value
+=======
 MsgBox "Name = " & myTemplate.AutoTextEntries(1).Name & vbCr _ 
  & "Value " & myTemplate.AutoTextEntries(1).Value
+>>>>>>> master
 ```
 
 

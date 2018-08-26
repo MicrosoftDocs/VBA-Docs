@@ -13,9 +13,15 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Represents the [properties](../../Glossary/vbe-glossary.md) of an object.
+ **Remarks**
+Use the  **Properties** collection to access the properties displayed in the[Properties window](../../Glossary/vbe-glossary.md). For every property listed in the  **Properties** window, there is an object in the **Properties** collection.
+=======
 Represents the [properties](../../Glossary/vbe-glossary.md#property) of an object.
 
 ## Remarks
 
 Use the  **Properties** collection to access the properties displayed in the[Properties window](../../Glossary/vbe-glossary.md#properties-window). For every property listed in the  **Properties** window, there is an object in the **Properties** collection.
+>>>>>>> master
 

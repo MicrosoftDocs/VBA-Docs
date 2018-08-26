@@ -45,8 +45,13 @@ This example displays the number of words and characters in the first paragraph 
 Set myRange = Documents("Report.doc").Paragraphs(1).Range 
 wordCount = myRange.ComputeStatistics(Statistic:=wdStatisticWords) 
 charCount = myRange.ComputeStatistics(Statistic:=wdStatisticCharacters) 
+<<<<<<< HEAD
+MsgBox "The first paragraph contains " &; wordCount _ 
+ &; " words and a total of " &; charCount &; " characters."
+=======
 MsgBox "The first paragraph contains " & wordCount _ 
  & " words and a total of " & charCount & " characters."
+>>>>>>> master
 ```
 
 

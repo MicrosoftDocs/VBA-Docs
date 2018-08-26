@@ -14,10 +14,15 @@ ms.date: 06/08/2017
 
 
 Specifies the state or content of a given control.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Value** [= _Variant_ ]
+=======
 
 ## Syntax
 
 _object_. **Value** [= _Variant_ ]
+>>>>>>> master
 The  **Value** property syntax has these parts:
 
 
@@ -32,7 +37,11 @@ The  **Value** property syntax has these parts:
 |**Control**|**Description**|
 |:-----|:-----|
 |**CheckBox**|An integer value indicating whether the item is selected:|
+<<<<<<< HEAD
+||Null Indicates the item is in a null state, neither selected nor [cleared](../../../language/Glossary/glossary-vba.md).|
+=======
 ||Null Indicates the item is in a null state, neither selected nor [cleared](../../Glossary/glossary-vba.md#clear).|
+>>>>>>> master
 ||-1 True. Indicates the item is selected.|
 ||0 False. Indicates the item is cleared.|
 |**OptionButton**|Same as  **CheckBox**.|
@@ -45,8 +54,12 @@ The  **Value** property syntax has these parts:
 ||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
 |**TextBox**|The text in the edit region.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 For a  **CommandButton**, setting the **Value** property to **True** in a macro or procedure initiates the button's Click event.
 For a  **ComboBox**, changing the contents of **Value** does not change the value of **BoundColumn**. To add or delete entries in a **ComboBox**, you can use the **AddItem** or **RemoveItem** method.
  **Value** cannot be used with a multi-select list box.

@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Member identifier already exists in object module from which this object module derives
 
+<<<<<<< HEAD
+[Identifiers](../../Glossary/vbe-glossary.md) used for object module members can't conflict with names already used in an [object module](../../Glossary/vbe-glossary.md) from which they derive. This error has the following cause and solution:
+
+- A [procedure](../../Glossary/vbe-glossary.md) or data member identifier in your object module uses an identifier already used in the object module from which it derives. For example, a form has a **BackColor** property, so the following code would cause this error:
+=======
 [Identifiers](../../Glossary/vbe-glossary.md#identifier) used for object module members can't conflict with names already used in an [object module](../../Glossary/vbe-glossary.md#object-module) from which they derive. This error has the following cause and solution:
 
 - A [procedure](../../Glossary/vbe-glossary.md#procedure) or data member identifier in your object module uses an identifier already used in the object module from which it derives. For example, a form has a **BackColor** property, so the following code would cause this error:
+>>>>>>> master
     
   ```vb
       ' Form already has a BackColor property. 

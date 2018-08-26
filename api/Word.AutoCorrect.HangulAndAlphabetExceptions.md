@@ -39,7 +39,11 @@ This example prompts the user to delete or keep each hangul and alphabet AutoCor
 For Each anEntry In _ 
  AutoCorrect.HangulAndAlphabetExceptions 
  response = MsgBox("Delete entry: " _ 
+<<<<<<< HEAD
+ &; anEntry.Name, vbYesNoCancel) 
+=======
  & anEntry.Name, vbYesNoCancel) 
+>>>>>>> master
  If response = vbYes Then 
  anEntry.Delete 
  Else 

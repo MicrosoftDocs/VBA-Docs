@@ -44,7 +44,11 @@ For Each objCC In ActiveDocument.ContentControls
  strFirst = Left(objLE.Text, 1) 
  
  If strFirst = LCase(strFirst) Then 
+<<<<<<< HEAD
+ objLE.Text = UCase(strFirst) &; Right(objLe.Text, Len(objLe.Text) - 1) 
+=======
  objLE.Text = UCase(strFirst) & Right(objLe.Text, Len(objLe.Text) - 1) 
+>>>>>>> master
  End If 
  Next 
  End If 
@@ -67,7 +71,11 @@ Set objCc = ActiveDocument.ContentControls(3)
 For Each objLE In objCC.DropdownListEntries 
  If objLE.Text <> "Other" Then 
  strText = objLE.Text 
+<<<<<<< HEAD
+ objLE.Value = "My favorite animal is the " &; strText &; "." 
+=======
  objLE.Value = "My favorite animal is the " & strText & "." 
+>>>>>>> master
  End If 
 Next
 ```

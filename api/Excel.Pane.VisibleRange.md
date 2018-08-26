@@ -30,8 +30,13 @@ This example displays the number of cells visible on Sheet1.
 
 ```vb
 Worksheets("Sheet1").Activate 
+<<<<<<< HEAD
+MsgBox "There are " &; Windows(1).VisibleRange.Cells.Count _ 
+ &; " cells visible"
+=======
 MsgBox "There are " & Windows(1).VisibleRange.Cells.Count _ 
  & " cells visible"
+>>>>>>> master
 ```
 
 

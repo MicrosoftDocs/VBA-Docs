@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Must be first statement on the line
 
+<<<<<<< HEAD
+Not all [keywords](../../Glossary/vbe-glossary.md) can appear at the beginning of a line of code. This error has the following causes and solutions:
+=======
 Not all [keywords](../../Glossary/vbe-glossary.md#keyword) can appear at the beginning of a line of code. This error has the following causes and solutions:
+>>>>>>> master
 
 
 

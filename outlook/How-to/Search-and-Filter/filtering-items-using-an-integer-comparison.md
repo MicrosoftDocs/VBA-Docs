@@ -22,9 +22,15 @@ If you want to use a value from an integer enumeration, convert the value to a s
 
 
 ```vb
+<<<<<<< HEAD
+criteria = "[Importance] = " _ &; CStr(Outlook.OlImportance.olImportanceHigh)
+
+criteria = "@SQL=" &; Chr(34) &; "urn:schemas:httpmail:importance" _ &; Chr(34) &; " = 2"
+=======
 criteria = "[Importance] = " _ & CStr(Outlook.OlImportance.olImportanceHigh)
 
 criteria = "@SQL=" & Chr(34) & "urn:schemas:httpmail:importance" _ & Chr(34) & " = 2"
+>>>>>>> master
 ```
 
 

@@ -51,7 +51,11 @@ The following code example displays a message box that shows the name of the Piv
 Private Sub Workbook_SheetPivotTableChangeSync(ByVal Sh As Target, Target As PivotTable) 
  
 With Target 
+<<<<<<< HEAD
+ MsgBox "You performed an operation in the following PivotTable: " &; .Name &; " on " &; Sh.Name 
+=======
  MsgBox "You performed an operation in the following PivotTable: " & .Name & " on " & Sh.Name 
+>>>>>>> master
 End With 
  
 End Sub

@@ -37,7 +37,11 @@ This example sets the variable myListTemp to the first list template (excluding 
 Set myListTemp = _ 
  ListGalleries(wdOutlineNumberGallery).ListTemplates(1) 
 For Each mylevel In myListTemp.ListLevels 
+<<<<<<< HEAD
+ mylevel.LinkedStyle = "Heading " &; mylevel.index 
+=======
  mylevel.LinkedStyle = "Heading " & mylevel.index 
+>>>>>>> master
 Next mylevel
 ```
 

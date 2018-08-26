@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Error in loading DLL (Error 48)
 
+<<<<<<< HEAD
+A [dynamic link library (DLL)](../../Glossary/vbe-glossary.md) is a library specified in the **Lib** clause of a **Declare** statement. This error has the following causes and solutions:
+=======
 A [dynamic link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) is a library specified in the **Lib** clause of a **Declare** statement. This error has the following causes and solutions:
+>>>>>>> master
 
 
 

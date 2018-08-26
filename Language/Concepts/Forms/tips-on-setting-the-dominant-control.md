@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Tips on setting the dominant control
 
+<<<<<<< HEAD
+You can set the [dominant control](../../Glossary/glossary-vba.md) in one of the following ways when selecting multiple controls:
+=======
 You can set the [dominant control](../../Glossary/glossary-vba.md#dominant-control) in one of the following ways when selecting multiple controls:
+>>>>>>> master
 
 
 

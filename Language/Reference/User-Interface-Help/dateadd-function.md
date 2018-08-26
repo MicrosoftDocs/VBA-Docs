@@ -14,21 +14,36 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) containing a date to which a specified time interval has been added.
+<<<<<<< HEAD
+ **Syntax**
+ **DateAdd( _interval, number, date_ )**
+The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
 
 ## Syntax
 
 **DateAdd( _interval, number, date_ )**
 The  **DateAdd** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+|**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md) that is the interval of time you want to add.|
+|**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
+|**_date_**|Required.  **Variant** (**Date**) or literal representing date to which the interval is added.|
+
+ **Settings**
+The  **_interval_**[argument](../../Glossary/vbe-glossary.md) has these settings:
+=======
 |**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to add.|
 |**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
 |**_date_**|Required.  **Variant** (**Date**) or literal representing date to which the interval is added.|
 
  **Settings**
 The  **_interval_**[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
+>>>>>>> master
 
 
 |**Setting**|**Description**|
@@ -44,8 +59,12 @@ The  **_interval_**[argument](../../Glossary/vbe-glossary.md#argument) has these
 |n|Minute|
 |s|Second|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 You can use the  **DateAdd** function to add or subtract a specified time interval from a date. For example, you can use **DateAdd** to calculate a date 30 days from today or a time 45 minutes from now.
 To add days to  **_date_**, you can use Day of Year ("y"), Day ("d"), or Weekday ("w").
 
@@ -62,7 +81,11 @@ DateAdd("m", 1, "31-Jan-95")
 
 In this case,  **DateAdd** returns 28-Feb-95, not 31-Feb-95. If **_date_** is 31-Jan-96, it returns 29-Feb-96 because 1996 is a leap year.
 If the calculated date would precede the year 100 (that is, you subtract more years than are in  **_date_**), an error occurs.
+<<<<<<< HEAD
+If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md) value, it is rounded to the nearest whole number before being evaluated.
+=======
 If  **_number_** isn't a[Long](../../Glossary/vbe-glossary.md#long-data-type) value, it is rounded to the nearest whole number before being evaluated.
+>>>>>>> master
 
  **Note**  The format of the return value for  **DateAdd** is determined by **Control Panel** settings, not by the format that is passed in **_date_** argument.
 

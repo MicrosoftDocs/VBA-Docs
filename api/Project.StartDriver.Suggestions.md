@@ -79,7 +79,11 @@ Function CheckSuggestions(suggestions As Long) As String
 
  If partial < suggestions Then _ 
 
+<<<<<<< HEAD
+ suggestionResult = suggestionResult &; "The assignment is more than the maximum resource units available." &; vbCrLf 
+=======
  suggestionResult = suggestionResult & "The assignment is more than the maximum resource units available." & vbCrLf 
+>>>>>>> master
 
  
 
@@ -87,7 +91,11 @@ Function CheckSuggestions(suggestions As Long) As String
 
  If partial < suggestions Then _ 
 
+<<<<<<< HEAD
+ suggestionResult = suggestionResult &; "The resource is overallocated." &; vbCrLf 
+=======
  suggestionResult = suggestionResult & "The resource is overallocated." & vbCrLf 
+>>>>>>> master
 
  
 
@@ -95,7 +103,11 @@ Function CheckSuggestions(suggestions As Long) As String
 
  If partial < suggestions Then _ 
 
+<<<<<<< HEAD
+ suggestionResult = suggestionResult &; "The shadow task finishes earlier because of a predecessor link." &; vbCrLf 
+=======
  suggestionResult = suggestionResult & "The shadow task finishes earlier because of a predecessor link." & vbCrLf 
+>>>>>>> master
 
  
 

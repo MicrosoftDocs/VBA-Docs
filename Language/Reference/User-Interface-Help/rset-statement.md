@@ -32,7 +32,6 @@ If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characte
 > [!NOTE] 
 > **RSet** can't be used with [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type).
 
-
 ## Example
 
 This example uses the **RSet** statement to right align a string within a string variable.

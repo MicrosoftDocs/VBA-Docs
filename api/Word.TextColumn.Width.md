@@ -28,7 +28,11 @@ This example formats the section that includes the selection as three columns. T
 ```vb
 Selection.PageSetup.TextColumns.SetCount NumColumns:=3 
 For Each acol In Selection.PageSetup.TextColumns 
+<<<<<<< HEAD
+ MsgBox "Width= " &; PointsToInches(acol.Width) 
+=======
  MsgBox "Width= " & PointsToInches(acol.Width) 
+>>>>>>> master
 Next acol
 ```
 

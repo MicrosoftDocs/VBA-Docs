@@ -62,7 +62,11 @@ This example displays the original name (the name from the source database) of t
 ```vb
 Worksheets("Sheet1").Activate 
 ActiveSheet.PivotTables(1).PivotSelect "1998", xlDataAndLabel 
+<<<<<<< HEAD
+MsgBox "The original item name is " &; _ 
+=======
 MsgBox "The original item name is " & _ 
+>>>>>>> master
  ActiveCell.PivotItem.SourceName
 ```
 

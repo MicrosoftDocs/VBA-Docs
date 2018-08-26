@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Can't set the project name at this time
 
+<<<<<<< HEAD
+The [project](../../Glossary/vbe-glossary.md) name can't be set at this time.
+=======
 The [project](../../Glossary/vbe-glossary.md#project) name can't be set at this time.
+>>>>>>> master
 
 

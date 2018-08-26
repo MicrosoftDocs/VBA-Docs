@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies the current line of a control.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **CurLine** [= _Long_ ]
+=======
 
 ## Syntax
 
 _object_. **CurLine** [= _Long_ ]
+>>>>>>> master
 The  **CurLine** property syntax has these parts:
 
 
@@ -28,8 +33,14 @@ The  **CurLine** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Long_|Optional. Specifies the current line of a control.|
 
+<<<<<<< HEAD
+ **Remarks**
+The current line of a control is the line that contains the insertion point. The number of the first line is zero.
+The  **CurLine** property is valid when the control has the[focus](../../Glossary/vbe-glossary.md).
+=======
 ## Remarks
 
 The current line of a control is the line that contains the insertion point. The number of the first line is zero.
 The  **CurLine** property is valid when the control has the[focus](../../Glossary/vbe-glossary.md#focus).
+>>>>>>> master
 

@@ -79,7 +79,11 @@ Sub TestFolderCurrentView()
  
  Set vw = mpFolder.CurrentView 
  
+<<<<<<< HEAD
+ MsgBox "The Current View is: " &; vw.Name 
+=======
  MsgBox "The Current View is: " & vw.Name 
+>>>>>>> master
  
 End Sub
 ```

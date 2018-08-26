@@ -100,6 +100,10 @@ A spinner control you can use with another control to increment and decrement nu
 
 ![Image](../../../images/avhtb003_ZA01201579.gif) **Image**
 
+<<<<<<< HEAD
+Displays a graphical image from a [bitmap](../../Glossary/vbe-glossary.md), [icon](../../Glossary/vbe-glossary.md), or [metafile](../../Glossary/vbe-glossary.md) on your form. Images displayed in an **Image** control can only be decorative and use fewer resources than a **PictureBox**.
+=======
 Displays a graphical image from a [bitmap](../../Glossary/vbe-glossary.md#bitmap), [icon](../../Glossary/vbe-glossary.md#icon), or [metafile](../../Glossary/vbe-glossary.md#metafile) on your form. Images displayed in an **Image** control can only be decorative and use fewer resources than a **PictureBox**.
+>>>>>>> master
 
 

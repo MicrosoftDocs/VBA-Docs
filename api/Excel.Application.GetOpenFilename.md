@@ -62,7 +62,11 @@ This example displays the  **Open** dialog box, with the file filter set to text
 fileToOpen = Application _ 
  .GetOpenFilename("Text Files (*.txt), *.txt") 
 If fileToOpen <> False Then 
+<<<<<<< HEAD
+ MsgBox "Open " &; fileToOpen 
+=======
  MsgBox "Open " & fileToOpen 
+>>>>>>> master
 End If
 ```
 

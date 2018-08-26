@@ -79,7 +79,11 @@ Sub NewTable()
  With tblNew 
  For intX = 1 To 3 
  For intY = 1 To 5 
+<<<<<<< HEAD
+ .Cell(intX, intY).Range.InsertAfter "Cell: R" &; intX &; ", C" &; intY 
+=======
  .Cell(intX, intY).Range.InsertAfter "Cell: R" & intX & ", C" & intY 
+>>>>>>> master
  Next intY 
  Next intX 
  .Columns.AutoFit 

@@ -40,8 +40,13 @@ Dim Label2
 Sub CommandButton1_Click() 
  'Must first give TextBox1 the focus to get line count 
  TextBox1.SetFocus 
+<<<<<<< HEAD
+ Label1.Caption = "LineCount = " &; TextBox1.LineCount 
+ Label2.Caption = "TextLength = " &; TextBox1.TextLength 
+=======
  Label1.Caption = "LineCount = " & TextBox1.LineCount 
  Label2.Caption = "TextLength = " & TextBox1.TextLength 
+>>>>>>> master
 End Sub 
  
 Sub Item_Open() 

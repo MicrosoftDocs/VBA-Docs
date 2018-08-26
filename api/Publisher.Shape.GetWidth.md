@@ -51,11 +51,19 @@ The following example displays the height and width in inches (to the nearest hu
 ```vb
 With ActiveDocument.Pages(1).Shapes.Range 
  MsgBox "Height of all shapes: " _ 
+<<<<<<< HEAD
+ &; Format(.GetHeight(Unit:=pbUnitInch), "0.00") _ 
+ &; " in" &; vbCr _ 
+ &; "Width of all shapes: " _ 
+ &; Format(.GetWidth(Unit:=pbUnitInch), "0.00") _ 
+ &; " in" 
+=======
  & Format(.GetHeight(Unit:=pbUnitInch), "0.00") _ 
  & " in" & vbCr _ 
  & "Width of all shapes: " _ 
  & Format(.GetWidth(Unit:=pbUnitInch), "0.00") _ 
  & " in" 
+>>>>>>> master
 End With
 ```
 

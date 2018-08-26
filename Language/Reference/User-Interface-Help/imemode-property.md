@@ -15,11 +15,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Specifies the default [run time](../../Glossary/vbe-glossary.md) mode of the[Input Method Editor (IME](../../../language/Glossary/glossary-vba.md)) for a control. This property applies only to applications written for East Asia and is ignored in other applications.
+ **Syntax**
+ _object_. **IMEMode** [= _fmIMEMode_ ]
+=======
 Specifies the default [run time](../../Glossary/vbe-glossary.md#run-time) mode of the[Input Method Editor (IME](../../Glossary/glossary-vba.md#input-method-editor-ime)) for a control. This property applies only to applications written for East Asia and is ignored in other applications.
 
 ## Syntax
 
 _object_. **IMEMode** [= _fmIMEMode_ ]
+>>>>>>> master
 The  **IMEMode** property syntax has these parts:
 
 
@@ -46,10 +52,15 @@ The settings for  _fmIMEMode_ are:
 | _fmIMEModeHangulFull_|9|IME on with Full-width Hangul mode.|
 | _fmIMEModeHangul_|10|IME on with Half-width Hangul mode.|
 
+<<<<<<< HEAD
+The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](../../Glossary/vbe-glossary.md) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
+ **Remarks**
+=======
 The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](../../Glossary/vbe-glossary.md#focus) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
 
 ## Remarks
 
+>>>>>>> master
 There are two ways to set the mode of the IME. One is through the toolbar of the IME. The other is with the  **IMEMode** property of a control, which sets or returns the current mode of the IME. This property allows dynamic control of the IME through code.
 The following example explains how  **IMEMode** interacts with the toolbar of the IME. Assume that you have designed a form with TextBox1 and CheckBox1. You have set TextBox1.IMEMode to 0, and you have set CheckBox1.IMEMode to 1. While in design mode you have used the IME toolbar to put the IME in mode 2.
 When you run the form, the IME begins in mode 2. If you click TextBox1, the IME mode does not change because  **IMEMode** for this control is 0. If you click CheckBox1, the IME changes to mode 1, because **IMEMode** for this control is 1. If you click again on TextBox1, the IME remains in mode 1 (**IMEMode** is 0, so the IME retains its last setting).

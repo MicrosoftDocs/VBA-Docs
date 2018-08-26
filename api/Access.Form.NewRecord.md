@@ -43,12 +43,7 @@ Sub NewRecordMark(frm As Form)
  intnewrec = frm.NewRecord 
  If intnewrec = True Then 
  MsgBox "You're in a new record." _ 
- & "@Do you want to add new data?" _ 
- & "@If not, move to an existing record." 
- End If 
-End Sub
 ```
-
 
 ## See also
 

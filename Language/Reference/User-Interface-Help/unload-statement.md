@@ -13,6 +13,14 @@ ms.date: 06/08/2017
 
 Removes an object from memory.
 
+<<<<<<< HEAD
+ **Syntax**
+
+ **Unload**_object_
+
+The required  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+ **Remarks**
+=======
 ## Syntax
 
 **Unload**_object_
@@ -21,6 +29,7 @@ The required  _object_ placeholder represents an[object expression](../../Glossa
 
 ## Remarks
 
+>>>>>>> master
 When an object is unloaded, it's removed from memory and all memory associated with the object is reclaimed. Until it is placed in memory again using the  **Load** statement, a user can't interact with an object, and the object can't be manipulated programmatically.
 
 ## Example

@@ -43,7 +43,11 @@ Dim taskLoop As Task
 For Each taskLoop In Tasks 
  If InStr(taskLoop.Name, "Notepad") > 0 Then 
  taskLoop.Activate 
+<<<<<<< HEAD
+ taskLoop.SendWindowMessage &;h111, 11, 0 
+=======
  taskLoop.SendWindowMessage &h111, 11, 0 
+>>>>>>> master
  End If 
 Next taskLoop
 ```

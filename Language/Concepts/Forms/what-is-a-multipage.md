@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # What is a MultiPage?
 
+<<<<<<< HEAD
+A  **MultiPage** is a control that contains a[collection](../../Glossary/vbe-glossary.md) of one or more pages.
+=======
 A  **MultiPage** is a control that contains a[collection](../../Glossary/vbe-glossary.md#collection) of one or more pages.
+>>>>>>> master
 
 Each  **Page** of a **MultiPage** is a form that contains its own controls, and as such, can have a unique layout. Typically, the pages in a **MultiPage** have tabs so the user can select the individual pages.
 

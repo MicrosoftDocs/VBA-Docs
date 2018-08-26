@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Keyword Not Found
 
+<<<<<<< HEAD
+The [keyword](../Glossary/vbe-glossary.md) you selected can't be found in Visual Basic Help. You may have misspelled the keyword, selected too much or too little text, or asked for help on a word that isn't a valid Visual Basic keyword.
+
+The keyword you want help on may be contained within an [object library](../Glossary/vbe-glossary.md) that is not referenced. Make sure references are set to the appropriate object libraries for all objects used in your code.
+=======
 The [keyword](../Glossary/vbe-glossary.md#keyword) you selected can't be found in Visual Basic Help. You may have misspelled the keyword, selected too much or too little text, or asked for help on a word that isn't a valid Visual Basic keyword.
 
 The keyword you want help on may be contained within an [object library](../Glossary/vbe-glossary.md#object-library) that is not referenced. Make sure references are set to the appropriate object libraries for all objects used in your code.
+>>>>>>> master
 
 The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you're looking for.
 

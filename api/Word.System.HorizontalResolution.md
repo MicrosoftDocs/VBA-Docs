@@ -34,7 +34,11 @@ Dim lngVertical As Long
  
 lngHorizontal = System.HorizontalResolution 
 lngVertical = System.VerticalResolution 
+<<<<<<< HEAD
+MsgBox "Resolution = " &; lngHorizontal &; " x " &; lngVertical
+=======
 MsgBox "Resolution = " & lngHorizontal & " x " & lngVertical
+>>>>>>> master
 ```
 
 

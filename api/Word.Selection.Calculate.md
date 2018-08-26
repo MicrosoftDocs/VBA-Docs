@@ -29,7 +29,11 @@ This example calculates the selected mathematical expression and displays the re
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "And the answer is... " &; Selection.Calculate
+=======
 MsgBox "And the answer is... " & Selection.Calculate
+>>>>>>> master
 ```
 
 

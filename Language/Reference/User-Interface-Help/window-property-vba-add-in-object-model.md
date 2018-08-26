@@ -13,5 +13,9 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns the window in which the [code pane](../../Glossary/vbe-glossary.md) is displayed. Read-only.
+=======
 Returns the window in which the [code pane](../../Glossary/vbe-glossary.md#code-pane) is displayed. Read-only.
+>>>>>>> master
 

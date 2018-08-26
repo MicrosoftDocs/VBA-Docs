@@ -13,9 +13,15 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns the number of indices on the [property](../../Glossary/vbe-glossary.md) returned by the **Property** object.
+ **Remarks**
+The value of the  **NumIndices** property can be an integer from 0 - 4. For most properties, **NumIndices** returns 0. Conventionally indexed properties return 1. Property[arrays](../../Glossary/vbe-glossary.md) might return 2.
+=======
 Returns the number of indices on the [property](../../Glossary/vbe-glossary.md#property) returned by the **Property** object.
 
 ## Remarks
 
 The value of the  **NumIndices** property can be an integer from 0 - 4. For most properties, **NumIndices** returns 0. Conventionally indexed properties return 1. Property[arrays](../../Glossary/vbe-glossary.md#array) might return 2.
+>>>>>>> master
 

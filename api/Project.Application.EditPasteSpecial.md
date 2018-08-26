@@ -47,7 +47,11 @@ The following example pastes the Clipboard content as a picture.
 Sub Edit_PasteSpecial() 
  
  'Activate Gantt Chart view 
+<<<<<<< HEAD
+ ViewApply Name:="&;Gantt Chart" 
+=======
  ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  
  SelectRow Row:=2, RowRelative:=False 
  EditPasteSpecial Link:=False, Type:=pjPicture, DisplayAsIcon:=False 

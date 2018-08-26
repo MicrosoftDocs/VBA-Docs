@@ -11,6 +11,15 @@ ms.date: 06/08/2017
 
 # Invalid data type for constant
 
+<<<<<<< HEAD
+Not all types of data can be assigned to [constants](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+
+
+
+- You tried to declare the type of a constant to be a [user-defined type](../../Glossary/vbe-glossary.md), an object, or an [array](../../Glossary/vbe-glossary.md).
+    
+    Remove the declaration or redeclare as a [variable](../../Glossary/vbe-glossary.md).
+=======
 Not all types of data can be assigned to [constants](../../Glossary/vbe-glossary.md#constant). This error has the following cause and solution:
 
 
@@ -18,6 +27,7 @@ Not all types of data can be assigned to [constants](../../Glossary/vbe-glossary
 - You tried to declare the type of a constant to be a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), an object, or an [array](../../Glossary/vbe-glossary.md#array).
     
     Remove the declaration or redeclare as a [variable](../../Glossary/vbe-glossary.md#variable).
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

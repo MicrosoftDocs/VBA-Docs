@@ -36,7 +36,11 @@ The following code example returns the name of the first co author in the active
 Dim author As CoAuthor 
  
 Set author = ActiveDocument.CoAuthoring.Authors(1) 
+<<<<<<< HEAD
+MsgBox "The name of the first co author in this document is " &; author.Name
+=======
 MsgBox "The name of the first co author in this document is " & author.Name
+>>>>>>> master
 ```
 
 

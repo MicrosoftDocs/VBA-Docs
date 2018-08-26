@@ -17,6 +17,11 @@ ms.date: 06/08/2017
 
  **Description**
 Object that stores data key, item pairs.
+<<<<<<< HEAD
+ **Syntax**
+ **Scripting.Dictionary**
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -24,6 +29,7 @@ Object that stores data key, item pairs.
 
 ## Remarks
 
+>>>>>>> master
 A  **Dictionary** object is the equivalent of a PERL associative array. Items, which can be any form of data, are stored in the array. Each item is associated with a unique key. The key is used to retrieve an individual item and is usually a integer or a string, but can be anything except an array.
 The following code illustrates how to create a  **Dictionary** object:
 

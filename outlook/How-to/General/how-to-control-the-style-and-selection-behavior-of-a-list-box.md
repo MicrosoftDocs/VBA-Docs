@@ -36,7 +36,11 @@ Sub Item_Open()
  Set ToggleButton1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("ToggleButton1") 
  
  For i = 1 To 8 
+<<<<<<< HEAD
+ ListBox1.AddItem "Choice" &; (ListBox1.ListCount + 1) 
+=======
  ListBox1.AddItem "Choice" & (ListBox1.ListCount + 1) 
+>>>>>>> master
  Next 
  
  Label1.Caption = "MultiSelect Choices" 

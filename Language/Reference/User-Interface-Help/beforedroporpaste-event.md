@@ -16,9 +16,13 @@ ms.date: 06/08/2017
 
 
 Occurs when the user is about to drop or paste data onto an object.
+<<<<<<< HEAD
+ **Syntax**
+=======
 
 ## Syntax
 
+>>>>>>> master
 For Frame **Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For MultiPage **Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For TabStrip **Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
@@ -52,7 +56,11 @@ The settings for  _Effect_ are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
+<<<<<<< HEAD
+| _fmDropEffectNone_|0|Does not copy or move the [drop source](../../../language/Glossary/glossary-vba.md) to the drop target.|
+=======
 | _fmDropEffectNone_|0|Does not copy or move the [drop source](../../Glossary/glossary-vba.md#drop-source) to the drop target.|
+>>>>>>> master
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
 | _fmDropEffectMove_|2|Moves the drop source to the drop target.|
 | _fmDropEffectCopyOrMove_|3|Copies or moves the drop source to the drop target.|
@@ -66,8 +74,12 @@ The settings for  _Shift_ are:
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 For a  **MultiPage** or **TabStrip**, Visual Basic for Applications initiates this event when it transfers a data object to the control.
 For other controls, the system initiates this event immediately prior to the drop or paste operation.
 When a control handles this event, you can update the  _Action_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, you can assign _Action_ to **fmDropEffectNone**, **fmDropEffectCopy**, or **fmDropEffectMove**. When _Effect_ is set to **fmDropEffectCopy** or **fmDropEffectMove**, you can reassign _Action_ to **fmDropEffectNone**. You cannot reassign _Action_ when _Effect_ is set to **fmDropEffectNone**.

@@ -40,7 +40,11 @@ This example checks to see if the Customers table is the name of the table in th
 Sub DataSourceTable() 
  With ActiveDocument.MailMerge 
  If InStr(1, .DataSource.TableName, "Customers") < 1 Then 
+<<<<<<< HEAD
+ .OpenDataSource Name:="C:\ProgramFiles\Microsoft Office\Office\" &; _ 
+=======
  .OpenDataSource Name:="C:\ProgramFiles\Microsoft Office\Office\" & _ 
+>>>>>>> master
  "Samples\Northwind.mdb", LinkToSource:=True, _ 
  AddToRecentFiles:=False, Connection:="TABLE Customers" 
  End If 

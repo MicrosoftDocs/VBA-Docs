@@ -11,6 +11,21 @@ ms.date: 06/08/2017
 
 # Fixed or static data can't be larger than 64K
 
+<<<<<<< HEAD
+Fixed and static data include nonautomatic [variables](../../Glossary/vbe-glossary.md), fixed-length strings, and fixed [arrays](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
+
+
+
+- You attempted to allocate more than 64K of [module-level](../../Glossary/vbe-glossary.md) data.
+    
+    Reduce the amount of declared data. Note that although the size limit for module-level data is 64K, module-level variable-length strings and arrays can exceed this limit.
+    
+- You attempted to allocate more than 64K of static [procedure-level](../../Glossary/vbe-glossary.md) data in the[module](../../Glossary/vbe-glossary.md).
+    
+    Reduce the amount of this type of data declared. Static data from all [procedures](../../Glossary/vbe-glossary.md) in a module is limited to a total of 64K (not 64K per procedure). Note that static variable-length strings and arrays can exceed this limit.
+    
+- The size of a [user-defined type](../../Glossary/vbe-glossary.md) exceeds 64K.
+=======
 Fixed and static data include nonautomatic [variables](../../Glossary/vbe-glossary.md#variable), fixed-length strings, and fixed [arrays](../../Glossary/vbe-glossary.md#array). This error has the following causes and solutions:
 
 
@@ -24,6 +39,7 @@ Fixed and static data include nonautomatic [variables](../../Glossary/vbe-glossa
     Reduce the amount of this type of data declared. Static data from all [procedures](../../Glossary/vbe-glossary.md#procedure) in a module is limited to a total of 64K (not 64K per procedure). Note that static variable-length strings and arrays can exceed this limit.
     
 - The size of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) exceeds 64K.
+>>>>>>> master
     
     Reduce the size of the user-defined type. Generally the size of a user-defined type equals the sum of the sizes specified for its elements. On some platforms there may be padding between the elements to keep them aligned on word boundaries. If you nest one user-defined type in another, the size of the nested type must be included in the size of the new type.
     

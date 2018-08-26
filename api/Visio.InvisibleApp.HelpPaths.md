@@ -42,7 +42,11 @@ Setting the  **HelpPaths** property replaces existing values for **HelpPaths** i
 
 
 ```vb
+<<<<<<< HEAD
+Application.HelpPaths = Application.HelpPaths &; ";" &; "newpath ".
+=======
 Application.HelpPaths = Application.HelpPaths & ";" & "newpath ".
+>>>>>>> master
 ```
 
 

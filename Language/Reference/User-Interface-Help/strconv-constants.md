@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # StrConv Constants
 
+<<<<<<< HEAD
+The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere in your code in place of the actual values:
+=======
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+>>>>>>> master
 
 
 
@@ -20,10 +24,18 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbUpperCase**|1|Converts the string to uppercase characters.|
 |**vbLowerCase**|2|Converts the string to lowercase characters.|
 |**vbProperCase**|3|Converts the first letter of every word in string to uppercase.|
+<<<<<<< HEAD
+|**vbWide**|4|Converts narrow (single-byte) characters in string to wide (double-byte) characters. Applies to East Asia [locales](../../Glossary/vbe-glossary.md).|
+|**vbNarrow**|8|Converts wide (double-byte) characters in string to narrow (single-byte) characters. Applies to East Asia locales.|
+|**vbKatakana**|16|Converts Hiragana characters in string to Katakana characters. Applies to Japan only.|
+|**vbHiragana**|32|Converts Katakana characters in string to Hiragana characters. Applies to Japan only.|
+|**vbUnicode**|64|Converts the string to [Unicode](../../Glossary/vbe-glossary.md) using the default code page of the system. (Not available on the Macintosh.)|
+=======
 |**vbWide**|4|Converts narrow (single-byte) characters in string to wide (double-byte) characters. Applies to East Asia [locales](../../Glossary/vbe-glossary.md#locale).|
 |**vbNarrow**|8|Converts wide (double-byte) characters in string to narrow (single-byte) characters. Applies to East Asia locales.|
 |**vbKatakana**|16|Converts Hiragana characters in string to Katakana characters. Applies to Japan only.|
 |**vbHiragana**|32|Converts Katakana characters in string to Hiragana characters. Applies to Japan only.|
 |**vbUnicode**|64|Converts the string to [Unicode](../../Glossary/vbe-glossary.md#unicode) using the default code page of the system. (Not available on the Macintosh.)|
+>>>>>>> master
 |**vbFromUnicode**|128|Converts the string from Unicode to the default code page of the system. (Not available on the Macintosh.)|
 

@@ -15,7 +15,11 @@ A Visual Basic form file is damaged. This error has the following causes and sol
 
 
 
+<<<<<<< HEAD
+- The form has a damaged [ActiveX control](../../Glossary/vbe-glossary.md).
+=======
 - The form has a damaged [ActiveX control](../../Glossary/vbe-glossary.md#activex-control).
+>>>>>>> master
     
     Try replacing the ActiveX control on the form.
     

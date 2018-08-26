@@ -31,8 +31,13 @@ With Worksheets(1).QueryTables(1)
  .Refresh 
  If Application.ODBCErrors.Count > 0 Then 
  Set er = Application.ODBCErrors(1) 
+<<<<<<< HEAD
+ MsgBox "The following error occurred:" &; 
+ er.ErrorString &; " : " &; er.SqlState 
+=======
  MsgBox "The following error occurred:" & 
  er.ErrorString & " : " & er.SqlState 
+>>>>>>> master
  Else 
  MsgBox "Query complete: all records returned." 
  End If 

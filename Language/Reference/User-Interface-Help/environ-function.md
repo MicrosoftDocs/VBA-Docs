@@ -19,7 +19,6 @@ Returns the **String** associated with an operating system environment variable.
 
 The **Environ** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 |**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of an environment variable.|

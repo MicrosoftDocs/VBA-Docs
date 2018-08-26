@@ -42,10 +42,17 @@ Sub CheckQueryTableSetting()
  
  ' Determine setting for TextFileTrailingMinusNumbers 
  If Range("A1").QueryTable.TextFileTrailingMinusNumbers = True Then 
+<<<<<<< HEAD
+ MsgBox "Numbers imported as text that begin with a '-' symbol " &; _ 
+ "will be treated as a negative symbol." 
+ Else 
+ MsgBox "Numbers imported as text that begin with a '-' symbol " &; _ 
+=======
  MsgBox "Numbers imported as text that begin with a '-' symbol " & _ 
  "will be treated as a negative symbol." 
  Else 
  MsgBox "Numbers imported as text that begin with a '-' symbol " & _ 
+>>>>>>> master
  "will not be treated as a negative symbol." 
  End If 
  

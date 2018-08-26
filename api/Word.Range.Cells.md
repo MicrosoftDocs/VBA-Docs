@@ -38,7 +38,11 @@ Set newDoc = Documents.Add
 Set myTable = newDoc.Tables.Add(Selection.Range, 3, 3) 
 i = 1 
 For Each c In myTable.Range.Cells 
+<<<<<<< HEAD
+ c.Range.InsertAfter "Cell " &; i 
+=======
  c.Range.InsertAfter "Cell " & i 
+>>>>>>> master
  i = i + 1 
 Next c
 ```

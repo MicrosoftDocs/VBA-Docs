@@ -22,7 +22,11 @@ This example displays a message box that contains the Microsoft Graph version nu
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "Welcome to Microsoft Graph version " &; _ 
+=======
 MsgBox "Welcome to Microsoft Graph version " & _ 
+>>>>>>> master
  myChart.Application.Version
 ```
 

@@ -34,6 +34,16 @@ Sub Item_Open()
  Set TabStrip1 = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls("TabStrip1") 
  For i = 0 To TabStrip1.Count - 1 
  'Using index (numeric or string) 
+<<<<<<< HEAD
+ MsgBox "TabStrip1.Tabs(i).Caption = " &; TabStrip1.Tabs(i).Caption 
+ MsgBox "TabStrip1.Tabs.Item(i).Caption = " &; TabStrip1.Tabs.Item(i).Caption 
+ 
+ 'Use Tab object without referring to Tabs collection 
+ If i = 0 Then 
+ MsgBox "TabStrip1.Tab1. Caption = " &; TabStrip1.Tab1.Caption 
+ ElseIf i = 1 Then 
+ MsgBox "TabStrip1.Tab2. Caption = " &; TabStrip1.Tab2.Caption 
+=======
  MsgBox "TabStrip1.Tabs(i).Caption = " & TabStrip1.Tabs(i).Caption 
  MsgBox "TabStrip1.Tabs.Item(i).Caption = " & TabStrip1.Tabs.Item(i).Caption 
  
@@ -42,11 +52,16 @@ Sub Item_Open()
  MsgBox "TabStrip1.Tab1. Caption = " & TabStrip1.Tab1.Caption 
  ElseIf i = 1 Then 
  MsgBox "TabStrip1.Tab2. Caption = " & TabStrip1.Tab2.Caption 
+>>>>>>> master
  End If 
  
  'Use SelectedItem Property 
  TabStrip1.Value = i 
+<<<<<<< HEAD
+ MsgBox " TabStrip1.SelectedItem.Caption = " &; TabStrip1.SelectedItem.Caption 
+=======
  MsgBox " TabStrip1.SelectedItem.Caption = " & TabStrip1.SelectedItem.Caption 
+>>>>>>> master
  Next 
 End Sub
 ```

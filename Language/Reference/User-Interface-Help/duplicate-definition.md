@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Duplicate definition
 
+<<<<<<< HEAD
+You can only define a [conditional compiler constant](../../Glossary/vbe-glossary.md) to have one value. This error has the following cause and solution:
+=======
 You can only define a [conditional compiler constant](../../Glossary/vbe-glossary.md#conditional-compiler-constant) to have one value. This error has the following cause and solution:
+>>>>>>> master
 
 - You specified two different values for the same conditional compiler constant, for example:
     

@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # The edit may make the object module incompatible with the previously specified compatible ActiveX component
 
+<<<<<<< HEAD
+If a Compatible ActiveX component already exists as a previously distributed [executable file](../../Glossary/vbe-glossary.md) or[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md), you must be careful not to change its interface. This warning has the following cause and solution:
+
+
+
+- You are trying to edit the code of an [object module](../../Glossary/vbe-glossary.md) that already is represented by an executable file.
+=======
 If a Compatible ActiveX component already exists as a previously distributed [executable file](../../Glossary/vbe-glossary.md#executable-file) or[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), you must be careful not to change its interface. This warning has the following cause and solution:
 
 
 
 - You are trying to edit the code of an [object module](../../Glossary/vbe-glossary.md#object-module) that already is represented by an executable file.
+>>>>>>> master
     
     If you make changes that affect the interface to the object, the class will not be upward compatible with the previous version and so it will not be possible to use the new version in place of the old version for compiled code.
     

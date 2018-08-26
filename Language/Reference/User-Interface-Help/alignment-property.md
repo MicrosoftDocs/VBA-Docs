@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies the position of a control relative to its caption.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Alignment** [= _fmAlignment_ ]
+=======
 
 ## Syntax
 
 _object_. **Alignment** [= _fmAlignment_ ]
+>>>>>>> master
 The  **Alignment** property syntax has these parts:
 
 
@@ -37,8 +42,12 @@ The settings for  _fmAlignment_ are:
 | _fmAlignmentLeft_|0|Places the caption to the left of the control.|
 | _fmAlignmentRight_|1|Places the caption to the right of the control (default).|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The caption text for a control is left-aligned.
 
  **Note**  Although the  **Alignment** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton**.

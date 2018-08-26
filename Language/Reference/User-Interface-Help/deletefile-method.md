@@ -17,10 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Deletes a specified file.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **DeleteFile**_filespec_ [, _force_ ]
+=======
 
 ## Syntax
 
 _object_. **DeleteFile**_filespec_ [, _force_ ]
+>>>>>>> master
 The  **DeleteFile** method syntax has these parts:
 
 
@@ -30,7 +35,11 @@ The  **DeleteFile** method syntax has these parts:
 | _filespec_|Required. The name of the file to delete. The  _filespec_ can contain wildcard characters in the last path component.|
 | _force_|Optional.  **Boolean** value that is **True** if files with the read-only attribute set are to be deleted; **False** (default) if they are not.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 An error occurs if no matching files are found. The  **DeleteFile** method stops on the first error it encounters. No attempt is made to roll back or undo any changes that were made before an error occurred.
 

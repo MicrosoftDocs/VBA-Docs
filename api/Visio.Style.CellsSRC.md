@@ -103,7 +103,11 @@ Public Sub CellsSRC_Example()
  For intCounter = 1 To 4 
  vsoShape.RowType(visSectionFirstComponent, visRowVertex + intCounter) = visTagArcTo 
  Set vsoCell = vsoShape.CellsSRC(visSectionFirstComponent, visRowVertex + intCounter, 2) 
+<<<<<<< HEAD
+ vsoCell.Formula = "-" &; strBowCell 
+=======
  vsoCell.Formula = "-" & strBowCell 
+>>>>>>> master
  Next intCounter 
  
  'Create an inner rectangle. 
@@ -124,6 +128,29 @@ Public Sub CellsSRC_Example()
  
  'Set the inner rectangle start point cell formulas. 
  Set vsoCell = vsoShape.CellsSRC(intIndex, 1, 0) 
+<<<<<<< HEAD
+ vsoCell.Formula = "Width * 0 + " &; strBowCell 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 1, 1) 
+ vsoCell.Formula = "Height * 0 + " &; strBowCell 
+ 
+ 'Draw the inner rectangle bottom line. 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 2, 0) 
+ vsoCell.Formula = "Width * 1 - " &; strBowCell 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 2, 1) 
+ vsoCell.Formula = "Height * 0 + " &; strBowCell 
+ 
+ 'Draw the inner rectangle right side line. 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 3, 0) 
+ vsoCell.Formula = "Width * 1 - " &; strBowCell 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 3, 1) 
+ vsoCell.Formula = "Height * 1 - " &; strBowCell 
+ 
+ 'Draw the inner rectangle top line. 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 4, 0) 
+ vsoCell.Formula = "Width * 0 + " &; strBowCell 
+ Set vsoCell = vsoShape.CellsSRC(intIndex, 4, 1) 
+ vsoCell.Formula = "Height * 1 - " &; strBowCell 
+=======
  vsoCell.Formula = "Width * 0 + " & strBowCell 
  Set vsoCell = vsoShape.CellsSRC(intIndex, 1, 1) 
  vsoCell.Formula = "Height * 0 + " & strBowCell 
@@ -145,6 +172,7 @@ Public Sub CellsSRC_Example()
  vsoCell.Formula = "Width * 0 + " & strBowCell 
  Set vsoCell = vsoShape.CellsSRC(intIndex, 4, 1) 
  vsoCell.Formula = "Height * 1 - " & strBowCell 
+>>>>>>> master
  
  'Draw the inner rectangle left side line. 
  Set vsoCell = vsoShape.CellsSRC(intIndex, 5, 0) 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Declaring Arrays
 
+<<<<<<< HEAD
+[Arrays](../../Glossary/vbe-glossary.md) are declared the same way as other [variables](../../Glossary/vbe-glossary.md), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
+=======
 [Arrays](../../Glossary/vbe-glossary.md#array) are declared the same way as other [variables](../../Glossary/vbe-glossary.md#variable), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
+>>>>>>> master
 
 Whether an array is indexed from 0 or 1 depends on the setting of the  **Option** **Base** statement. If **Option** **Base** **1** is not specified, all array indexes begin at zero.
 
@@ -27,7 +31,11 @@ Dim MyArray(10, 10) As Integer
 
 The first argument represents the rows; the second argument represents the columns.
 
+<<<<<<< HEAD
+As with any other variable declaration, unless you specify a [data type](../../Glossary/vbe-glossary.md) for the array, the data type of the elements in a declared array is **Variant**. Each numeric **Variant** element of the array uses 16 bytes. Each string **Variant** element uses 22 bytes. To write code that is as compact as possible, explicitly declare your arrays to be of a data type other than **Variant**. The following lines of code compare the size of several arrays:
+=======
 As with any other variable declaration, unless you specify a [data type](../../Glossary/vbe-glossary.md#data-type) for the array, the data type of the elements in a declared array is **Variant**. Each numeric **Variant** element of the array uses 16 bytes. Each string **Variant** element uses 22 bytes. To write code that is as compact as possible, explicitly declare your arrays to be of a data type other than **Variant**. The following lines of code compare the size of several arrays:
+>>>>>>> master
 
 
 
@@ -69,7 +77,11 @@ Dim sngArray() As Single
 
  **Note**  You can use the  **ReDim** statement to declare an array implicitly within a procedure. Be careful not to misspell the name of the array when you use the **ReDim** statement. Even if the **Option Explicit** statement is included in the module, a second array will be created.
 
+<<<<<<< HEAD
+In a procedure within the array's [scope](../../Glossary/vbe-glossary.md), use the  **ReDim** statement to change the number of dimensions, to define the number of elements, and to define the upper and lower bounds for each dimension. You can use the **ReDim** statement to change the dynamic array as often as necessary. However, each time you do this, the existing values in the array are lost. Use **ReDim Preserve** to expand an array while preserving existing values in the array. For example, the following statement enlarges the array by 10 elements without losing the current values of the original elements.
+=======
 In a procedure within the array's [scope](../../Glossary/vbe-glossary.md#scope), use the  **ReDim** statement to change the number of dimensions, to define the number of elements, and to define the upper and lower bounds for each dimension. You can use the **ReDim** statement to change the dynamic array as often as necessary. However, each time you do this, the existing values in the array are lost. Use **ReDim Preserve** to expand an array while preserving existing values in the array. For example, the following statement enlarges the array by 10 elements without losing the current values of the original elements.
+>>>>>>> master
 
 
 
@@ -80,6 +92,10 @@ ReDim Preserve varArray(UBound(varArray) + 10)
 ```
 
 
+<<<<<<< HEAD
+ **Note**  When you use the  **Preserve** [keyword](../../Glossary/vbe-glossary.md) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
+=======
  **Note**  When you use the  **Preserve** [keyword](../../Glossary/vbe-glossary.md#keyword) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
+>>>>>>> master
 
 

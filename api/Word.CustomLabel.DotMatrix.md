@@ -34,10 +34,17 @@ Dim mlTemp As MailingLabel
 Set mlTemp = Application.MailingLabel 
 If mlTemp.CustomLabels.Count >= 1 Then 
  If mlTemp.CustomLabels(1).DotMatrix = True Then 
+<<<<<<< HEAD
+ MsgBox mlTemp.CustomLabels(1).Name &; " is dot matrix" 
+ Else 
+ MsgBox mlTemp.CustomLabels(1).Name _ 
+ &; " is laser or ink jet" 
+=======
  MsgBox mlTemp.CustomLabels(1).Name & " is dot matrix" 
  Else 
  MsgBox mlTemp.CustomLabels(1).Name _ 
  & " is laser or ink jet" 
+>>>>>>> master
  End If 
 End If
 ```

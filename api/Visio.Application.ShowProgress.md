@@ -49,7 +49,11 @@ Sub ShowProgress_Example()
  Dim intProgress As Integer 
  
  'Display the current state of the progress indicator. 
+<<<<<<< HEAD
+ Debug.Print "Initial state: " &; Application.ShowProgress 
+=======
  Debug.Print "Initial state: " & Application.ShowProgress 
+>>>>>>> master
  
  'Get the state of the progress indicator. 
  intProgress = Application.ShowProgress 
@@ -58,13 +62,21 @@ Sub ShowProgress_Example()
  Application.ShowProgress = False 
  
  'Display the status again. 
+<<<<<<< HEAD
+ Debug.Print "Changed state: " &; Application.ShowProgress 
+=======
  Debug.Print "Changed state: " & Application.ShowProgress 
+>>>>>>> master
  
  'Now restore the progress indicator to its original state. 
  Application.ShowProgress = intProgress 
  
  'Display the status again. 
+<<<<<<< HEAD
+ Debug.Print "Restored state: " &; Application.ShowProgress 
+=======
  Debug.Print "Restored state: " & Application.ShowProgress 
+>>>>>>> master
  
 End Sub
 ```

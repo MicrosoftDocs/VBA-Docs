@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # A procedure of that name already exists
 
+<<<<<<< HEAD
+[Procedure](../../Glossary/vbe-glossary.md) names within the same[scope](../../Glossary/vbe-glossary.md) must be unique. Change the name of the procedure.
+=======
 [Procedure](../../Glossary/vbe-glossary.md#procedure) names within the same[scope](../../Glossary/vbe-glossary.md#scope) must be unique. Change the name of the procedure.
+>>>>>>> master
 
 

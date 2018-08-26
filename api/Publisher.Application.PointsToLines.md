@@ -56,9 +56,15 @@ Selection.TextRange.Font.Size = 10
  
 ' Display result for 12 points. 
 strOutput = "12 points = " _ 
+<<<<<<< HEAD
+ &; Format(Application _ 
+ .PointsToLines(Value:=12), _ 
+ "0.00") &; " lines"
+=======
  & Format(Application _ 
  .PointsToLines(Value:=12), _ 
  "0.00") & " lines"
+>>>>>>> master
 ```
 
 

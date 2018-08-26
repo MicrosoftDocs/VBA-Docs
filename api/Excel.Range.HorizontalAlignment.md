@@ -15,7 +15,6 @@ ms.date: 08/24/2018
 
 Returns or sets a **Variant** value that represents the horizontal alignment for the specified object. Read/write.
 
-
 ## Syntax
 
  _expression_. `HorizontalAlignment`

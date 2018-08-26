@@ -34,7 +34,11 @@ This example displays the prefix character for cell A1 on Sheet1.
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "The prefix character is " &; _ 
+=======
 MsgBox "The prefix character is " & _ 
+>>>>>>> master
  Worksheets("Sheet1").Range("A1").PrefixCharacter
 ```
 

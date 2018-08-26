@@ -69,7 +69,11 @@ Set tableNew = docNew.Tables.Add(Range:=Selection.Range, _
 intTemp = 1 
  
 For Each cellLoop In tableNew.Range.Cells 
+<<<<<<< HEAD
+ cellLoop.Range.InsertAfter "Cell " &; intTemp 
+=======
  cellLoop.Range.InsertAfter "Cell " & intTemp 
+>>>>>>> master
  intTemp = intTemp + 1 
 Next cellLoop 
  

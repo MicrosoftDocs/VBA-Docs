@@ -34,11 +34,19 @@ Sub ListLandscapeFonts()
  Dim intCount As Integer 
  
  Set docNew = Documents.Add 
+<<<<<<< HEAD
+ docNew.Content.InsertAfter "Landscape Fonts" &; vbLf 
+ 
+ For intCount = 1 To LandscapeFontNames.Count 
+ docNew.Content.InsertAfter LandscapeFontNames(intCount) _ 
+ &; vbLf 
+=======
  docNew.Content.InsertAfter "Landscape Fonts" & vbLf 
  
  For intCount = 1 To LandscapeFontNames.Count 
  docNew.Content.InsertAfter LandscapeFontNames(intCount) _ 
  & vbLf 
+>>>>>>> master
  Next 
  
  With docNew 

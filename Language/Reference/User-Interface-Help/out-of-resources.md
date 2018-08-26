@@ -15,7 +15,11 @@ Certain types of resources called "handles" are used internally for many operati
 
 
 
+<<<<<<< HEAD
+- Your code has reached a resource limit. Try saving, closing, and reloading your code. If you still receive this error message, reduce the number of [objects](../../Glossary/vbe-glossary.md) referenced in the code.
+=======
 - Your code has reached a resource limit. Try saving, closing, and reloading your code. If you still receive this error message, reduce the number of [objects](../../Glossary/vbe-glossary.md#object) referenced in the code.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

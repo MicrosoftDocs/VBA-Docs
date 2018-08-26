@@ -13,7 +13,11 @@ ms.date: 06/08/2017
 
 Displays the  **Watch** window and displays the current watch expressions. The **Watch** window appears automatically if watch expressions are defined in the project.
 
+<<<<<<< HEAD
+If the context of the expression isn't in [scope](../../Glossary/vbe-glossary.md) when going to[break mode](../../Glossary/vbe-glossary.md), the current value isn't displayed.
+=======
 If the context of the expression isn't in [scope](../../Glossary/vbe-glossary.md#scope) when going to[break mode](../../Glossary/vbe-glossary.md#break-mode), the current value isn't displayed.
+>>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_wawd_ZA01201768.gif).

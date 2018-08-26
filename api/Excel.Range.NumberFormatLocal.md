@@ -34,7 +34,11 @@ This example displays the number format for cell A1 on Sheet1 in the language of
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "The number format for cell A1 is " &; _ 
+=======
 MsgBox "The number format for cell A1 is " & _ 
+>>>>>>> master
  Worksheets("Sheet1").Range("A1").NumberFormatLocal
 ```
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Collection object
 
-A **Collection** object is an ordered set of items that can be referred to as a unit.
+A  **Collection** object is an ordered set of items that can be referred to as a unit.
 
 ## Remarks
 

@@ -30,6 +30,7 @@ The **Resume** statement syntax can have any of the following forms.
 |**Resume** **Next**|If the error occurred in the same procedure as the error handler, execution resumes with the statement immediately following the statement that caused the error. If the error occurred in a called procedure, execution resumes with the statement immediately following the statement that last called out of the procedure containing the error-handling routine (or **On Error Resume Next** statement).|
 |**Resume**_line_|Execution resumes at  _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The  _line_ argument is a [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number) and must be in the same procedure as the error handler.|
 
+
 ## Remarks
 
 If you use a **Resume** statement anywhere except in an error-handling routine, an error occurs.

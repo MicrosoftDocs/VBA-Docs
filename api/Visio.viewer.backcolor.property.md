@@ -38,7 +38,11 @@ The following code sets the value of the  **BackColor** property to the default 
 
 
 ```vb
+<<<<<<< HEAD
+ vsoViewer.BackColor = &;H8000000F
+=======
  vsoViewer.BackColor = &H8000000F
+>>>>>>> master
 ```
 
 

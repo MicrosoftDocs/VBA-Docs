@@ -42,7 +42,11 @@ Sub AddStatusNote()
  ActiveCell.Resource.Notes = noStatus 
  Else 
  ActiveCell.Resource.Notes = ActiveCell.Resource.Notes _ 
+<<<<<<< HEAD
+ &; vbCrLf &; vbCrLf &; noStatus 
+=======
  & vbCrLf & vbCrLf & noStatus 
+>>>>>>> master
  End If 
  
 End Sub

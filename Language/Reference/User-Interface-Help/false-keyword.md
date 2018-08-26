@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # False <keyword>
 
+<<<<<<< HEAD
+The  **False**[keyword](../../Glossary/vbe-glossary.md) has a value equal to 0.
+=======
 The  **False**[keyword](../../Glossary/vbe-glossary.md#keyword) has a value equal to 0.
+>>>>>>> master
 
 

@@ -46,9 +46,15 @@ With Application.ActivePresentation.Slides(1).Tags
 
     For i = 1 To .Count
 
+<<<<<<< HEAD
+        MsgBox "Tag #" &; i &; ": Name = " &; .Name(i)
+
+        MsgBox "Tag #" &; i &; ": Value = " &; .Value(i)
+=======
         MsgBox "Tag #" & i & ": Name = " & .Name(i)
 
         MsgBox "Tag #" & i & ": Value = " & .Value(i)
+>>>>>>> master
 
     Next
 
@@ -68,8 +74,13 @@ For Each s In Application.ActivePresentation.Slides
             If .Name(i) = "PRIORITY" Then
                 found = True
                 slNum = .Parent.SlideIndex
+<<<<<<< HEAD
+                MsgBox "Slide " &; slNum &; _
+                    " priority: " &; .Value(i)
+=======
                 MsgBox "Slide " & slNum & _
                     " priority: " & .Value(i)
+>>>>>>> master
             End If
         Next
 
@@ -77,7 +88,11 @@ For Each s In Application.ActivePresentation.Slides
             slNum = .Parent.SlideIndex
             .Add "Name", "New Figures"
             .Add "Priority", "Unknown"
+<<<<<<< HEAD
+            MsgBox "Slide " &; slNum &; _
+=======
             MsgBox "Slide " & slNum & _
+>>>>>>> master
                 " priority tag added: Unknown"
         End If
     End With

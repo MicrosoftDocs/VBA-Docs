@@ -11,14 +11,22 @@ ms.date: 06/08/2017
 
 # Set and Clear a Breakpoint
 
+<<<<<<< HEAD
+You set a [breakpoint](../Glossary/vbe-glossary.md) to suspend execution at a specific statement in a[procedure](../Glossary/vbe-glossary.md); for example, where you suspect problems may exist. You clear breakpoints when you no longer need them to stop execution.
+=======
 You set a [breakpoint](../Glossary/vbe-glossary.md#breakpoint) to suspend execution at a specific statement in a[procedure](../Glossary/vbe-glossary.md#procedure); for example, where you suspect problems may exist. You clear breakpoints when you no longer need them to stop execution.
+>>>>>>> master
 
  **To set a breakpoint**
 
 
 
 
+<<<<<<< HEAD
+1. Position the insertion point anywhere in a line of the [procedure](../Glossary/vbe-glossary.md) where you want execution to halt.
+=======
 1. Position the insertion point anywhere in a line of the [procedure](../Glossary/vbe-glossary.md#procedure) where you want execution to halt.
+>>>>>>> master
     
 2. On the  **Debug** menu, click **Toggle Breakpoint** (F9), click next to the statement in the **Margin Indicator Bar** (if visible), or use the toolbar shortcut:
 ![Toolbar button](../../images/tbr_bkpt_ZA01201681.gif). The breakpoint is added and the line is set to the breakpoint color defined on the  **Editor Format** tab in the **Options** dialog box.

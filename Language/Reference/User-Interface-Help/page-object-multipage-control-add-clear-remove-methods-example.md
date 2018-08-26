@@ -31,7 +31,11 @@ Dim MyTextBox As Control
  
 Private Sub CommandButton1_Click() 
 Set MyTextBox = MultiPage1.Pages(0).Controls.Add("MSForms" _ 
+<<<<<<< HEAD
+ &; ".TextBox.1", "MyTextBox", Visible) 
+=======
  & ".TextBox.1", "MyTextBox", Visible) 
+>>>>>>> master
 End Sub 
  
 Private Sub CommandButton2_Click() 

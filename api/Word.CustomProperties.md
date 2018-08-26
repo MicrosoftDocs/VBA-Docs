@@ -25,7 +25,11 @@ Use the  **[Properties](./overview/Word.md)** property to return a single **Cust
 Sub AddProps() 
  With ActiveDocument.SmartTags(1) 
  .Properties.Add Name:="President", Value:=True 
+<<<<<<< HEAD
+ MsgBox "The XML code is " &; .XML 
+=======
  MsgBox "The XML code is " & .XML 
+>>>>>>> master
  End With 
 End Sub
 ```
@@ -38,7 +42,11 @@ Use  **Properties** (Index) to return a single property for a smart tag, where I
 ```vb
 Sub ReturnProps() 
  With ActiveDocument.SmartTags(1).Properties(1) 
+<<<<<<< HEAD
+ MsgBox "The Smart Tag name is: " &; .Name &; vbLf &; .Value 
+=======
  MsgBox "The Smart Tag name is: " & .Name & vbLf & .Value 
+>>>>>>> master
  End With 
 End Sub
 ```
@@ -60,7 +68,11 @@ Sub SmartTagsProps()
  
  'Create heading info in new document 
  With docNew.Content 
+<<<<<<< HEAD
+ .InsertAfter "Name" &; vbTab &; "Value" 
+=======
  .InsertAfter "Name" & vbTab & "Value" 
+>>>>>>> master
  .InsertParagraphAfter 
  End With 
  
@@ -78,13 +90,21 @@ Sub SmartTagsProps()
  
  'Add custom property name to new document 
  docNew.Content.InsertAfter .Properties(intProp) _ 
+<<<<<<< HEAD
+ .Name &; vbTab &; .Properties(intProp).Value 
+=======
  .Name & vbTab & .Properties(intProp).Value 
+>>>>>>> master
  docNew.Content.InsertParagraphAfter 
  Next 
  Else 
  
  'Display message if there are no custom properties 
+<<<<<<< HEAD
+ MsgBox "There are no custom properties for the " &; _ 
+=======
  MsgBox "There are no custom properties for the " & _ 
+>>>>>>> master
  "smart tags in your document." 
  End If 
  End With 

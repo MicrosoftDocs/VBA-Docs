@@ -103,7 +103,11 @@ Sub ImportWorksheet()
     Filename = Range("D4").Value 
     TabName = Range("D5").Value 
     ControlFile = ActiveWorkbook.Name 
+<<<<<<< HEAD
+    Workbooks.Open Filename:=PathName &; Filename 
+=======
     Workbooks.Open Filename:=PathName & Filename 
+>>>>>>> master
     ActiveSheet.Name = TabName 
     Sheets(TabName).Copy After:=Workbooks(ControlFile).Sheets(1) 
     Windows(Filename).Activate 

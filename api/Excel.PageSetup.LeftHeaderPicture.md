@@ -53,7 +53,11 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the left header. 
+<<<<<<< HEAD
+ ActiveSheet.PageSetup.LeftHeader = "&;G" 
+=======
  ActiveSheet.PageSetup.LeftHeader = "&G" 
+>>>>>>> master
  
 End Sub
 ```

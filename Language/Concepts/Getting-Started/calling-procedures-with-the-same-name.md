@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Calling Procedures with the Same Name
 
+<<<<<<< HEAD
+You can call a [procedure](../../Glossary/vbe-glossary.md) located in any [module](../../Glossary/vbe-glossary.md) in the same [project](../../Glossary/vbe-glossary.md) as the active module just as you would call a procedure in the active module. However, if two or more modules contain a procedure with the same name, you must specify a module name in the calling statement, as shown in the following example:
+=======
 You can call a [procedure](../../Glossary/vbe-glossary.md#procedure) located in any [module](../../Glossary/vbe-glossary.md#module) in the same [project](../../Glossary/vbe-glossary.md#project) as the active module just as you would call a procedure in the active module. However, if two or more modules contain a procedure with the same name, you must specify a module name in the calling statement, as shown in the following example:
+>>>>>>> master
 
 
 ```vb
@@ -41,7 +45,11 @@ End Sub
 
 
 
+<<<<<<< HEAD
+- If you rename a module or project, be sure to change the module or project name wherever it appears in calling [statements](../../Glossary/vbe-glossary.md); otherwise, Visual Basic will not be able to find the called procedure. You can use the  **Replace** command on the **Edit** menu to find and replace text in a module.
+=======
 - If you rename a module or project, be sure to change the module or project name wherever it appears in calling [statements](../../Glossary/vbe-glossary.md#statement); otherwise, Visual Basic will not be able to find the called procedure. You can use the  **Replace** command on the **Edit** menu to find and replace text in a module.
+>>>>>>> master
     
 - To avoid naming conflicts among referenced projects, give your procedures unique names so you can call a procedure without specifying a project or module.
     

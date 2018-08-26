@@ -15,9 +15,15 @@ This error has the following cause and solution:
 
 
 
+<<<<<<< HEAD
+- A [line label](../../Glossary/vbe-glossary.md) or[line number](../../Glossary/vbe-glossary.md) is referred to (for example in a **GoTo** statement), but doesn't occur within the[scope](../../Glossary/vbe-glossary.md) of the reference.
+    
+    The label must be within the [procedure](../../Glossary/vbe-glossary.md) that contains the reference. Line labels are visible only in their own procedures.
+=======
 - A [line label](../../Glossary/vbe-glossary.md#line-label) or[line number](../../Glossary/vbe-glossary.md#line-number) is referred to (for example in a **GoTo** statement), but doesn't occur within the[scope](../../Glossary/vbe-glossary.md#scope) of the reference.
     
     The label must be within the [procedure](../../Glossary/vbe-glossary.md#procedure) that contains the reference. Line labels are visible only in their own procedures.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

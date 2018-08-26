@@ -62,12 +62,21 @@ Dim intResponse As Integer
 For Each atEntry In _ 
  ActiveDocument.AttachedTemplate.AutoTextEntries 
  intResponse = _ 
+<<<<<<< HEAD
+ MsgBox("Do you want to delete the " &; atEntry.Name _ 
+ &; " AutoText entry?", vbYesNoCancel) 
+ If intResponse = vbYes Then 
+ With ActiveDocument.AttachedTemplate 
+ Application.OrganizerDelete _ 
+ Source:= .Path &; "\" &; .Name, _ 
+=======
  MsgBox("Do you want to delete the " & atEntry.Name _ 
  & " AutoText entry?", vbYesNoCancel) 
  If intResponse = vbYes Then 
  With ActiveDocument.AttachedTemplate 
  Application.OrganizerDelete _ 
  Source:= .Path & "\" & .Name, _ 
+>>>>>>> master
  Name:=atEntry.Name, _ 
  Object:=wdOrganizerObjectAutoText 
  End With 

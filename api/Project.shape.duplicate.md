@@ -42,11 +42,19 @@ Sub DuplicateShape()
     
     pos1 = shp1.left
     pos2 = duplicatedShape.left
+<<<<<<< HEAD
+    Debug.Print "Horizontal offset: " &; CStr(pos2 - pos1)
+    
+    pos1 = shp1.top
+    pos2 = duplicatedShape.top
+    Debug.Print "Vertical offset: " &; CStr(pos2 - pos1)
+=======
     Debug.Print "Horizontal offset: " & CStr(pos2 - pos1)
     
     pos1 = shp1.top
     pos2 = duplicatedShape.top
     Debug.Print "Vertical offset: " & CStr(pos2 - pos1)
+>>>>>>> master
    
     duplicatedShape.Rotation = 30
     duplicatedShape.Flip msoFlipHorizontal

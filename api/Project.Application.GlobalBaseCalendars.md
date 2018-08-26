@@ -45,7 +45,11 @@ Sub CreateEGlobalCalendar()
     BaseCalendarCreate Name:="NewBaseCalendar" 
     MakeLocalCalendarEnterprise OldName:="NewBaseCalendar", NewName:="NewBaseCalendar" 
  
+<<<<<<< HEAD
+    Debug.Print "Number of calendars in Global.mpt: " &; GlobalBaseCalendars.Count 
+=======
     Debug.Print "Number of calendars in Global.mpt: " & GlobalBaseCalendars.Count 
+>>>>>>> master
  
     For Each globalCalendar In GlobalBaseCalendars 
         Debug.Print globalCalendar.Name 

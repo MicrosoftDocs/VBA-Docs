@@ -41,12 +41,20 @@ Private Sub CommandButton2_Click()
 'Move selected page and tab to back of control 
  Set MyPageOrObject = MultiPage1.SelectedItem 
  MsgBox "MultiPage1.SelectedItem = " _ 
+<<<<<<< HEAD
+ &; MultiPage1.SelectedItem.Name 
+=======
  & MultiPage1.SelectedItem.Name 
+>>>>>>> master
  MyPageOrObject.Index = 4 
  
  Set MyPageOrObject = TabStrip1.SelectedItem 
  MsgBox "TabStrip1.SelectedItem = " _ 
+<<<<<<< HEAD
+ &; TabStrip1.SelectedItem.Caption 
+=======
  & TabStrip1.SelectedItem.Caption 
+>>>>>>> master
  MyPageOrObject.Index = 4 
 End Sub 
  

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Duplicate Deftype statement
 
+<<<<<<< HEAD
+ **Def**_type_ statements in the same[scope](../../Glossary/vbe-glossary.md) must specify unique letter ranges. This error has the following cause and solution:
+=======
  **Def**_type_ statements in the same[scope](../../Glossary/vbe-glossary.md#scope) must specify unique letter ranges. This error has the following cause and solution:
+>>>>>>> master
 
 
 

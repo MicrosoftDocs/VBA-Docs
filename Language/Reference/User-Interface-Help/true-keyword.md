@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # True <keyword>
 
+<<<<<<< HEAD
+The  **True**[keyword](../../Glossary/vbe-glossary.md) has a value equal to -1.
+=======
 The  **True**[keyword](../../Glossary/vbe-glossary.md#keyword) has a value equal to -1.
+>>>>>>> master
 
 

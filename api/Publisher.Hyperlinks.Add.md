@@ -72,7 +72,11 @@ End With
  
 lngPageID = ActiveDocument.Pages(4).PageID 
 strPage = "Go to page " _ 
+<<<<<<< HEAD
+ &; Str(ActiveDocument.Pages(4).PageNumber) 
+=======
  & Str(ActiveDocument.Pages(4).PageNumber) 
+>>>>>>> master
  
 With ActiveDocument.Pages(1).Shapes(2).TextFrame 
  Set hypNew = .TextRange.Hyperlinks.Add(Text:=.TextRange, _ 

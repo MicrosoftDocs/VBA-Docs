@@ -63,32 +63,54 @@ Exit Sub
  
 ErrRoutine: 
  Select Case Err.Number 
+<<<<<<< HEAD
+ Case 287 ' &;H0000011F 
+=======
  Case 287 ' &H0000011F 
+>>>>>>> master
  ' This error occurs if the code is run by an 
  ' untrusted application, and the user chose not to 
  ' allow access. 
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+ Case -2147024894 ' &;H80070002 
+=======
  Err.Number & " - " & Err.Source 
  Case -2147024894 ' &H80070002 
+>>>>>>> master
  ' Occurs if the specified file or URL could not 
  ' be found, or the file or URL cannot be 
  ' processed by the OpenSharedItem method. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+ Case -2147352567 ' &;H80020009 
+=======
  Err.Number & " - " & Err.Source 
  Case -2147352567 ' &H80020009 
+>>>>>>> master
  ' Occurs if the specified file or URL is not valid, 
  ' or you attempt to use the Move method on 
  ' an Outlook item that represents a shared item. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+=======
  Err.Number & " - " & Err.Source 
+>>>>>>> master
  Case Else 
  ' Any other error that may occur. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
+<<<<<<< HEAD
+ Err.Number &; " - " &; Err.Source 
+=======
  Err.Number & " - " & Err.Source 
+>>>>>>> master
  End Select 
  
  GoTo EndRoutine 

@@ -19,7 +19,6 @@ Replaces a specified number of characters in a **Variant** (**String**)[variable
 
 The **Mid** statement syntax has these parts.
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable to modify.|

@@ -17,6 +17,12 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the type of file system in use for the specified drive.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **FileSystem**
+The  _object_ is always a **Drive** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -25,6 +31,7 @@ The  _object_ is always a **Drive** object.
 
 ## Remarks
 
+>>>>>>> master
 Available return types include FAT, NTFS, and CDFS.
 The following code illustrates the use of the  **FileSystem** property:
 

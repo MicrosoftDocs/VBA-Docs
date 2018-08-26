@@ -46,7 +46,11 @@ The following example selects the fourth column of the Gantt Chart.
 
 ```vb
 Sub Select_Column() 
+<<<<<<< HEAD
+ ViewApply Name:="&;Gantt Chart" 
+=======
  ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  SelectColumn Column:=4, Extend:=False 
 End Sub
 ```

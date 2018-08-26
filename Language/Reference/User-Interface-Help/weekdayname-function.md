@@ -15,10 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a string indicating the specified day of the week.
+<<<<<<< HEAD
+ **Syntax**
+ **WeekdayName(**_weekday_**,**_abbreviate_**,**_firstdayofweek_**)**
+=======
 
 ## Syntax
 
 **WeekdayName(**_weekday_**,**_abbreviate_**,**_firstdayofweek_**)**
+>>>>>>> master
 The  **WeekdayName** function syntax has these parts:
 
 

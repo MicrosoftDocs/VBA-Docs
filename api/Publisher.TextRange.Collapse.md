@@ -57,7 +57,11 @@ Sub CollapseRange()
  'enters new text and a new paragraph 
  With rngText 
  .Paragraphs(Start:=1, Length:=1).Collapse Direction:=pbCollapseEnd 
+<<<<<<< HEAD
+ .Text = "This is a new paragraph." &; vbCrLf 
+=======
  .Text = "This is a new paragraph." & vbCrLf 
+>>>>>>> master
  End With 
 End Sub
 ```

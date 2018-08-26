@@ -33,9 +33,15 @@ Dim prtLoop As Printer
  
 For Each prtLoop In Application.Printers 
  With prtLoop 
+<<<<<<< HEAD
+ MsgBox "Device name: " &; .DeviceName &; vbCr _ 
+ &; "Driver name: " &; .DriverName &; vbCr _ 
+ &; "Port: " &; .Port 
+=======
  MsgBox "Device name: " & .DeviceName & vbCr _ 
  & "Driver name: " & .DriverName & vbCr _ 
  & "Port: " & .Port 
+>>>>>>> master
  End With 
 Next prtLoop
 ```

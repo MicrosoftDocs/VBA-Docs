@@ -13,10 +13,15 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Represents a window in the [development environment](../../Glossary/vbe-glossary.md).
+ **Remarks**
+=======
 Represents a window in the [development environment](../../Glossary/vbe-glossary.md#development-environment).
 
 ## Remarks
 
+>>>>>>> master
 Use the  **Window** object to show, hide, or position windows.
 
 
@@ -29,12 +34,21 @@ You can use the  **Close** method to close a window in the **Windows** collectio
 |**Window**|**Result of using Close method**|
 |:-----|:-----|
 |Code window|Removes the window from the  **Windows** collection.|
+<<<<<<< HEAD
+|[Designer](../../Glossary/vbe-glossary.md)|Removes the window from the  **Windows** collection.|
+|**Window** objects of type[linked window frame](../../Glossary/vbe-glossary.md)|Windows become unlinked separate windows.|
+
+ **Note**  Using the  **Close** method with code windows and designers actually closes the window. Setting the **Visible** property to **False** hides the window but doesn't close the window. Using the **Close** method with development environment windows, such as the[Project window](../../Glossary/vbe-glossary.md) or[Properties window](../../Glossary/vbe-glossary.md), is the same as setting the  **Visible** property to **False**.
+
+You can use the  **SetFocus** method to move the[focus](../../Glossary/vbe-glossary.md) to a window.
+=======
 |[Designer](../../Glossary/vbe-glossary.md#designer)|Removes the window from the  **Windows** collection.|
 |**Window** objects of type[linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame)|Windows become unlinked separate windows.|
 
  **Note**  Using the  **Close** method with code windows and designers actually closes the window. Setting the **Visible** property to **False** hides the window but doesn't close the window. Using the **Close** method with development environment windows, such as the[Project window](../../Glossary/vbe-glossary.md#project-window) or[Properties window](../../Glossary/vbe-glossary.md#properties-window), is the same as setting the  **Visible** property to **False**.
 
 You can use the  **SetFocus** method to move the[focus](../../Glossary/vbe-glossary.md#focus) to a window.
+>>>>>>> master
 You can use the  **Visible** property to return or set the visibility of a window.
 To find out what type of window you are working with, you can use the  **Type** property. If you have more than one window of a type, for example, multiple designers, you can use the **Caption** property to determine the window you're working with. You can also find the window you want to work with using the **DesignerWindow** property of the **VBComponent** object or the **Window** property of the **CodePane** object.
 

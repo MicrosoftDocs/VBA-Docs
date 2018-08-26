@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 One page of a  **MultiPage** and a single member of a **Pages** collection.
+<<<<<<< HEAD
+ **Remarks**
+Each  **Page** object contains its own set of controls and does not necessarily rely on other pages in the[collection](../../Glossary/vbe-glossary.md) for information. A **Page** inherits some properties from its[container](../../Glossary/vbe-glossary.md); the value of each [inherited property](../../../language/Glossary/glossary-vba.md) is set by the container.
+=======
 
 ## Remarks
 
 Each  **Page** object contains its own set of controls and does not necessarily rely on other pages in the[collection](../../Glossary/vbe-glossary.md#collection) for information. A **Page** inherits some properties from its[container](../../Glossary/vbe-glossary.md#container); the value of each [inherited property](../../Glossary/glossary-vba.md#inherited-property) is set by the container.
+>>>>>>> master
 A  **Page** has a unique name and index value within a **Pages** collection. You can reference a **Page** by either its name or its index value. The index of the first **Page** in a collection is 0; the index of the second **Page** is 1; and so on. When two **Page** objects have the same name, you must reference each **Page** by its index value. References to the name in code will access only the first **Page** that uses the name.
 The default name for the first  **Page** is Page1; the default name for the second **Page** is Page2.
 

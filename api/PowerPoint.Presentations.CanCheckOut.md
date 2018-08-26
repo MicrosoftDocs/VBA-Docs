@@ -51,7 +51,11 @@ Sub CheckOutPresentation(strPresentation As String)
     If Presentations.CanCheckOut(strPresentation) = True Then
         Presentations.CheckOut FileName:=strPresentation
     Else
+<<<<<<< HEAD
+        MsgBox "You are unable to check out this " &; _
+=======
         MsgBox "You are unable to check out this " & _
+>>>>>>> master
         "presentation at this time."
     End If
 End Sub

@@ -36,10 +36,17 @@ Opens a menu so that you can insert one of the following objects to your active 
 ![Userform](../../../images/tbr_ufrm_ZA01201759.gif) — UserForm
 
 
+<<<<<<< HEAD
+![Module](../../../images/tbr_mod_ZA01201714.gif) —[Module](../../Glossary/vbe-glossary.md)
+
+
+![Class module](../../../images/tbr_cmod_ZA01201688.gif) —[Class Module](../../Glossary/vbe-glossary.md)
+=======
 ![Module](../../../images/tbr_mod_ZA01201714.gif) —[Module](../../Glossary/vbe-glossary.md#module)
 
 
 ![Class module](../../../images/tbr_cmod_ZA01201688.gif) —[Class Module](../../Glossary/vbe-glossary.md#class-module)
+>>>>>>> master
 
 
 ![Procedure](../../../images/tbr_proc_ZA01201726.gif) — Procedure
@@ -87,7 +94,11 @@ Runs the current procedure if the cursor is in a procedure, runs the  **UserForm
 
 ![Break](../../../images/tbr_brk_ZA01201682.gif) **Break**
 
+<<<<<<< HEAD
+Stops execution of a program while it's running and switches to [break mode](../../Glossary/vbe-glossary.md).
+=======
 Stops execution of a program while it's running and switches to [break mode](../../Glossary/vbe-glossary.md#break-mode).
+>>>>>>> master
 
 
 ![Reset](../../../images/tbr_end_ZA01201701.gif) **Reset <project&gt;**
@@ -112,12 +123,20 @@ Opens the  **Properties** window so you can view the properties of the selected 
 
 ![Object browser](../../../images/tbr_obbr_ZA01201718.gif) **Object Browser**
 
+<<<<<<< HEAD
+Displays the [Object Browser](../../Glossary/vbe-glossary.md), which lists the [object libraries](../../Glossary/vbe-glossary.md), the [type library](../../Glossary/vbe-glossary.md), [classes](../../Glossary/vbe-glossary.md), methods, properties, events, and constants you can use in code, as well as the modules and procedures you defined for your project.
+=======
 Displays the [Object Browser](../../Glossary/vbe-glossary.md#object-browser), which lists the [object libraries](../../Glossary/vbe-glossary.md#object-library), the [type library](../../Glossary/vbe-glossary.md#type-library), [classes](../../Glossary/vbe-glossary.md#class), methods, properties, events, and constants you can use in code, as well as the modules and procedures you defined for your project.
+>>>>>>> master
 
 
 ![Toolbox](../../../images/tbr_tbx_ZA01201755.gif) **Toolbox**
 
+<<<<<<< HEAD
+Displays or hides the  **Toolbox** which contains all of the[controls](../../Glossary/vbe-glossary.md) and[insertable objects](../../Glossary/vbe-glossary.md) (such as a Microsoft Excel Chart) available to your application. This is only available when a **UserForm** is active.
+=======
 Displays or hides the  **Toolbox** which contains all of the[controls](../../Glossary/vbe-glossary.md#control) and[insertable objects](../../Glossary/vbe-glossary.md#insertable-object) (such as a Microsoft Excel Chart) available to your application. This is only available when a **UserForm** is active.
+>>>>>>> master
 
 
 ![Microsoft VBA Help](../../../images/tbr_ahlp_ZA01201669.gif) **Microsoft Visual Basic for Applications Help**

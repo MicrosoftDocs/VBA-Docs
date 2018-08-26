@@ -48,7 +48,11 @@ This example displays the current top-margin setting.
 ```vb
 marginInches = ActiveSheet.PageSetup.TopMargin / _ 
  Application.InchesToPoints(1) 
+<<<<<<< HEAD
+MsgBox "The current top margin is " &; marginInches &; " inches"
+=======
 MsgBox "The current top margin is " & marginInches & " inches"
+>>>>>>> master
 ```
 
 

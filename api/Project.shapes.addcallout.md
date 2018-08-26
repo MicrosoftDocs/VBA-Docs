@@ -84,8 +84,13 @@ Sub AddCallout()
             .TextFrame2.TextRange.Text = "This is a test"
         End With
     Else
+<<<<<<< HEAD
+         MsgBox Prompt:="The requested report, '" &; reportName _
+            &; "', does not exist.", Title:="Report error"
+=======
          MsgBox Prompt:="The requested report, '" & reportName _
             & "', does not exist.", Title:="Report error"
+>>>>>>> master
     End If
 End Sub
 ```

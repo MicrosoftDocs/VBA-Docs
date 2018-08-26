@@ -67,9 +67,15 @@ Private Sub DisplayTableViewFields()
  
  With objViewField 
  
+<<<<<<< HEAD
+ strOutput = strOutput &; .ColumnFormat.Label &; _ 
+ 
+ " (" &; .ViewXMLSchemaName &; ")" &; vbCrLf 
+=======
  strOutput = strOutput & .ColumnFormat.Label & _ 
  
  " (" & .ViewXMLSchemaName & ")" & vbCrLf 
+>>>>>>> master
  
  End With 
  

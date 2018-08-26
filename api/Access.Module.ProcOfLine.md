@@ -108,9 +108,15 @@ Public Function AllProcs(ByVal strModuleName As String)
  End If 
  Next lngI 
  
+<<<<<<< HEAD
+ strMsg = "Procedures in module '" &; strModuleName &; "': " &; vbCrLf &; vbCrLf 
+ For intI = 0 To UBound(astrProcNames) 
+ strMsg = strMsg &; astrProcNames(intI) &; vbCrLf 
+=======
  strMsg = "Procedures in module '" & strModuleName & "': " & vbCrLf & vbCrLf 
  For intI = 0 To UBound(astrProcNames) 
  strMsg = strMsg & astrProcNames(intI) & vbCrLf 
+>>>>>>> master
  Next intI 
  
  ' Message box listing all procedures in module. 

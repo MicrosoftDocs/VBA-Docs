@@ -1,12 +1,23 @@
 ---
+<<<<<<< HEAD
+title: Operators
+=======
 title: VBA Operators
+>>>>>>> master
 ms.prod: office
 ms.assetid: 6b2abc26-ad22-4b28-9a2b-d178d32538ed
 ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
+# Operators
+
+## In this section
+
+=======
 # VBA Operators
+>>>>>>> master
 
 - [Operator Summary](User-Interface-Help/operator-summary.md)
     

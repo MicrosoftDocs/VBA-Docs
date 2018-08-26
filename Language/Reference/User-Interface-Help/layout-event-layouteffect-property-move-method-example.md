@@ -62,7 +62,11 @@ Private Sub UserForm_Layout()
  For Each MyControl In Controls 
  If MyControl.LayoutEffect = _ 
  fmLayoutEffectInitiate Then 
+<<<<<<< HEAD
+ MsgBox MyControl.Name &; " is moving." 
+=======
  MsgBox MyControl.Name & " is moving." 
+>>>>>>> master
  Exit For 
  End If 
  Next 

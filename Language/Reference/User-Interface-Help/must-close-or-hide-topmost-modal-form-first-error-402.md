@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Must close or hide topmost modal form first (Error 402)
 
+<<<<<<< HEAD
+The modal form you are trying to close or hide isn't on top of the [z-order](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+=======
 The modal form you are trying to close or hide isn't on top of the [z-order](../../Glossary/vbe-glossary.md#z-order). This error has the following cause and solution:
+>>>>>>> master
 
 
 

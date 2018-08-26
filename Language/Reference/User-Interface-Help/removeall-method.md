@@ -17,6 +17,12 @@ ms.date: 06/08/2017
 
  **Description**
 The  **RemoveAll** method removes all key, item pairs from a **Dictionary** object.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **RemoveAll**
+The  _object_ is always the name of a **Dictionary** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -25,6 +31,7 @@ The  _object_ is always the name of a **Dictionary** object.
 
 ## Remarks
 
+>>>>>>> master
 The following code illustrates use of the  **RemoveAll** method:
 
 

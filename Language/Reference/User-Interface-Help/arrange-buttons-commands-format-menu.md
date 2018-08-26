@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Arrange Buttons Commands (Format Menu)
 
+<<<<<<< HEAD
+Arranges selected command buttons along the bottom or edge of a [form](../../Glossary/vbe-glossary.md).
+=======
 Arranges selected command buttons along the bottom or edge of a [form](../../Glossary/vbe-glossary.md#form).
+>>>>>>> master
 
  **Bottom**
 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Can't load module; invalid format
 
+<<<<<<< HEAD
+A [module](../../Glossary/vbe-glossary.md) must be in text format. This error has the following cause and solution:
+=======
 A [module](../../Glossary/vbe-glossary.md#module) must be in text format. This error has the following cause and solution:
+>>>>>>> master
 
 
 

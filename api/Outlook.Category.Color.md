@@ -53,12 +53,71 @@ Private Sub ListCategoryColors()
  
  ' Add the name of the Category object to 
  ' the output string. 
+<<<<<<< HEAD
+ strOutput = strOutput &; objCategory.Name 
+=======
  strOutput = strOutput & objCategory.Name 
+>>>>>>> master
  
  ' Add information about the assigned color 
  ' to the output string. 
  Select Case objCategory.Color 
  Case OlCategoryColor.olCategoryColorNone 
+<<<<<<< HEAD
+ strOutput = strOutput &; ": No color" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorBlack 
+ strOutput = strOutput &; ": Black " &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorBlue 
+ strOutput = strOutput &; ": Blue" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorGray 
+ strOutput = strOutput &; ": Gray" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorGreen 
+ strOutput = strOutput &; ": Green" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightBlue 
+ strOutput = strOutput &; ": Light blue" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightGray 
+ strOutput = strOutput &; ": Light gray" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightGreen 
+ strOutput = strOutput &; ": Light green" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightMaroon 
+ strOutput = strOutput &; ": Light maroon" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightOlive 
+ strOutput = strOutput &; ": Light olive" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightOrange 
+ strOutput = strOutput &; ": Light orange" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightPeach 
+ strOutput = strOutput &; ": Light peach" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightPurple 
+ strOutput = strOutput &; ": Light purple" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightRed 
+ strOutput = strOutput &; ": Light red" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightSteel 
+ strOutput = strOutput &; ": Light steel" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightTeal 
+ strOutput = strOutput &; ": Light teal" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorLightYellow 
+ strOutput = strOutput &; ": Light yellow" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorMaroon 
+ strOutput = strOutput &; ": Maroon" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorOlive 
+ strOutput = strOutput &; ": Olive" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorOrange 
+ strOutput = strOutput &; ": Orange" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorPeach 
+ strOutput = strOutput &; ": Peach" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorPurple 
+ strOutput = strOutput &; ": Purple" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorRed 
+ strOutput = strOutput &; ": Red" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorSteel 
+ strOutput = strOutput &; ": Steel" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorTeal 
+ strOutput = strOutput &; ": Teal" &; vbCrLf 
+ Case OlCategoryColor.olCategoryColorYellow 
+ strOutput = strOutput &; ": Yellow" &; vbCrLf 
+ Case Else 
+ strOutput = strOutput &; ": Unknown" &; vbCrLf 
+=======
  strOutput = strOutput & ": No color" & vbCrLf 
  Case OlCategoryColor.olCategoryColorBlack 
  strOutput = strOutput & ": Black " & vbCrLf 
@@ -112,6 +171,7 @@ Private Sub ListCategoryColors()
  strOutput = strOutput & ": Yellow" & vbCrLf 
  Case Else 
  strOutput = strOutput & ": Unknown" & vbCrLf 
+>>>>>>> master
  End Select 
  Next 
  End If 

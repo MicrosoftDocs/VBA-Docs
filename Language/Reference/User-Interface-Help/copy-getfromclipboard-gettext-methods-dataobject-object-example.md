@@ -42,8 +42,13 @@ End Sub
 Private Sub UserForm_Initialize() 
  Set MyData = New DataObject 
  TextBox1.Text = "Move this data to the " _ 
+<<<<<<< HEAD
+ &; "Clipboard, to a DataObject, then to " 
+ &; "TextBox2!" 
+=======
  & "Clipboard, to a DataObject, then to " 
  & "TextBox2!" 
+>>>>>>> master
 End Sub 
 ```
 

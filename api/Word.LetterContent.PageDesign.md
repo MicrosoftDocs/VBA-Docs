@@ -32,7 +32,11 @@ This example creates a new  **LetterContent** object, includes the header and fo
 Set myContent = New LetterContent 
 With myContent 
  .PageDesign = "C:\MSOffice\Templates\" _ 
+<<<<<<< HEAD
+ &; "Letters &; Faxes\Contemporary Letter.dot" 
+=======
  & "Letters & Faxes\Contemporary Letter.dot" 
+>>>>>>> master
  .IncludeHeaderFooter = True 
 End With 
 Documents.Add.RunLetterWizard LetterContent:=myContent

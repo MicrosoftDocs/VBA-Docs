@@ -30,7 +30,11 @@ This example displays the full path and file name of the active custom dictionar
 
 ```vb
 Set dicCustom = Application.CustomDictionaries.ActiveCustomDictionary 
+<<<<<<< HEAD
+MsgBox dicCustom.Path &; Application.PathSeparator &; dicCustom.Name
+=======
 MsgBox dicCustom.Path & Application.PathSeparator & dicCustom.Name
+>>>>>>> master
 ```
 
 This example clears all existing custom dictionaries, adds a custom dictionary named "Home.dic," and then loads the new dictionary.
@@ -45,7 +49,11 @@ Application.CustomDictionaries.ClearAll
  
 Set dicCustom = Application.CustomDictionaries _ 
  .Add(FileName:="C:\Program Files" _ 
+<<<<<<< HEAD
+ &; "\Microsoft Office\Office\Home.dic") 
+=======
  & "\Microsoft Office\Office\Home.dic") 
+>>>>>>> master
 Application.CustomDictionaries.ActiveCustomDictionary = dicCustom
 ```
 

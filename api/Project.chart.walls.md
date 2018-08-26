@@ -39,7 +39,11 @@ Sub FormatWalls()
     
     With chartShape.Chart.Walls.Border
         .Weight = 3
+<<<<<<< HEAD
+        .Color = &;HFF
+=======
         .Color = &HFF
+>>>>>>> master
     End With
 End Sub
 ```

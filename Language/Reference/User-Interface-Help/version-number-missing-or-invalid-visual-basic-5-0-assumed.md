@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Version number missing or invalid; Visual Basic 5.0 assumed
 
+<<<<<<< HEAD
+The version signature was not found, or the specified version isn't recognized. Make sure that the first line that is not blank or a [comment](../../Glossary/vbe-glossary.md) in the ASCII form specifies the correct version.
+=======
 The version signature was not found, or the specified version isn't recognized. Make sure that the first line that is not blank or a [comment](../../Glossary/vbe-glossary.md#comment) in the ASCII form specifies the correct version.
+>>>>>>> master
 
 

@@ -42,8 +42,13 @@ Sub MakeURLTrusted()
  
    If ActiveProject.ServerURL = "" Then 
       MsgBox "A Project Server URL has not been " _ 
+<<<<<<< HEAD
+         &; "specified." &; Chr(13) &; "Click OK, and then " _
+         &; "specify a valid URL in the Project Server Accounts dialog box." 
+=======
          & "specified." & Chr(13) & "Click OK, and then " _
          & "specify a valid URL in the Project Server Accounts dialog box." 
+>>>>>>> master
    Else 
       ActiveProject.MakeServerURLTrusted 
       ViewApply Name:="Resource Sheet" 

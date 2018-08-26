@@ -23,11 +23,19 @@ ms.date: 06/08/2017
     
       - Name of your project.
     
+<<<<<<< HEAD
+  - Description of your [project](../Glossary/vbe-glossary.md).
+    
+  - Name of the Help file associated with your project.
+    
+  - Context ID for the specific Help topic to be called when the user clicks the  **Help** button while the application's[object library](../Glossary/vbe-glossary.md) is selected in the **Object Browser**.
+=======
   - Description of your [project](../Glossary/vbe-glossary.md#project).
     
   - Name of the Help file associated with your project.
     
   - Context ID for the specific Help topic to be called when the user clicks the  **Help** button while the application's[object library](../Glossary/vbe-glossary.md#object-library) is selected in the **Object Browser**.
+>>>>>>> master
     
 
     

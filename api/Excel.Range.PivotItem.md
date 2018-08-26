@@ -30,7 +30,11 @@ This example displays the name of the PivotTable item that contains the active c
 
 ```vb
 Worksheets("Sheet1").Activate 
+<<<<<<< HEAD
+MsgBox "The active cell is in the item " &; _ 
+=======
 MsgBox "The active cell is in the item " & _ 
+>>>>>>> master
  ActiveCell.PivotItem.Name
 ```
 

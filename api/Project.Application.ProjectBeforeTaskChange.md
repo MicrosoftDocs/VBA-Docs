@@ -53,12 +53,21 @@ Private Sub App_ProjectBeforeTaskChange(ByVal tsk As Task, ByVal Field As PjFiel
  
     If Field = pjTaskDuration And TaskDuration > tsk.Duration Then 
         If (TaskDuration - tsk.Duration) \ 480 < 1 Then 
+<<<<<<< HEAD
+            MsgBox "The task " &; Chr$(34) &; tsk.Name &; Chr$(34) &; " is now " &; _ 
+                (TaskDuration - tsk.Duration) / 480 &; (TaskDuration - tsk.Duration) \ 480 &; _ 
+                " day(s) longer." 
+        Else 
+            MsgBox "The task " &; Chr$(34) &; tsk.Name &; Chr$(34) &; " is now " &; _ 
+               (TaskDuration - tsk.Duration) / 480 &; " day(s) longer." 
+=======
             MsgBox "The task " & Chr$(34) & tsk.Name & Chr$(34) & " is now " & _ 
                 (TaskDuration - tsk.Duration) / 480 & (TaskDuration - tsk.Duration) \ 480 & _ 
                 " day(s) longer." 
         Else 
             MsgBox "The task " & Chr$(34) & tsk.Name & Chr$(34) & " is now " & _ 
                (TaskDuration - tsk.Duration) / 480 & " day(s) longer." 
+>>>>>>> master
         End If 
     End If 
 End Sub

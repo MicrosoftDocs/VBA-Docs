@@ -68,7 +68,11 @@ Sub AddHyperlink_Example()
  Exit Sub 
  
  lblCatch: 
+<<<<<<< HEAD
+ Debug.Print "Error was thrown : " &; Err.Description 
+=======
  Debug.Print "Error was thrown : " & Err.Description 
+>>>>>>> master
  blsCaught = True 
  Resume Next 
 End Sub

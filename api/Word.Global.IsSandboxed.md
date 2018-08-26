@@ -30,12 +30,21 @@ The following code example displays whether or not the document referenced by  _
 
 ```vb
 If doc.Application.IsSandboxed Then 
+<<<<<<< HEAD
+ MsgBox "The document " &; _ 
+ """" &; doc.Name &; """" &; _ 
+ " is in a protected view window." 
+Else 
+ MsgBox "The document " &; _ 
+ """" &; doc.Name &; """" &; _ 
+=======
  MsgBox "The document " & _ 
  """" & doc.Name & """" & _ 
  " is in a protected view window." 
 Else 
  MsgBox "The document " & _ 
  """" & doc.Name & """" & _ 
+>>>>>>> master
  " is not in a protected view window." 
 End If
 ```

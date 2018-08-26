@@ -15,7 +15,11 @@ This error is user-defined, and has the following cause and solution:
 
 
 
+<<<<<<< HEAD
+- An error was generated that doesn't correspond to a Visual Basic error. Handle the error as indicated in the documentation for the object or [object library](../../Glossary/vbe-glossary.md) that generated the error.
+=======
 - An error was generated that doesn't correspond to a Visual Basic error. Handle the error as indicated in the documentation for the object or [object library](../../Glossary/vbe-glossary.md#object-library) that generated the error.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

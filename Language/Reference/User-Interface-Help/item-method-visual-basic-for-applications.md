@@ -19,7 +19,6 @@ _object_**.Item(**_index_**)**
 
 The **Item** method syntax has the following object qualifier and part.
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|

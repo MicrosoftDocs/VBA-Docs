@@ -46,7 +46,11 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to h
 
 ```vb
 Private Sub pubApplication_BeforePrint(ByVal Doc As Document, Cancel As Boolean ) 
+<<<<<<< HEAD
+ MsgBox "Printing of " &; Doc.Name &; " is about to occur ." 
+=======
  MsgBox "Printing of " & Doc.Name & " is about to occur ." 
+>>>>>>> master
 End Sub
 ```
 

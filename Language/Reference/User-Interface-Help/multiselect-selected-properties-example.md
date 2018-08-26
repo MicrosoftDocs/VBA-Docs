@@ -56,7 +56,11 @@ End Sub
  
 Private Sub UserForm_Initialize() 
  For i = 0 To 9 
+<<<<<<< HEAD
+ ListBox1.AddItem "Choice " &; (ListBox1.ListCount + 1) 
+=======
  ListBox1.AddItem "Choice " & (ListBox1.ListCount + 1) 
+>>>>>>> master
  Next i 
  
  OptionButton1.Caption = "Single Selection" 

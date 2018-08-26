@@ -15,10 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Moves a specified file or folder from one location to another.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Move**_destination_
+=======
 
 ## Syntax
 
 _object_. **Move**_destination_
+>>>>>>> master
 The  **Move** method syntax has these parts:
 
 
@@ -27,7 +32,11 @@ The  **Move** method syntax has these parts:
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _destination_|Required. Destination where the file or folder is to be moved. Wildcard characters are not allowed.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The results of the  **Move** method on a **File** or **Folder** are identical to operations performed using **FileSystemObject.MoveFile** or **FileSystemObject.MoveFolder**. You should note, however, that the alternative methods are capable of moving multiple files or folders.
 

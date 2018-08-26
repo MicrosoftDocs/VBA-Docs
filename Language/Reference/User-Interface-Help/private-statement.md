@@ -11,30 +11,52 @@ ms.date: 06/08/2017
 
 # Private Statement
 
+<<<<<<< HEAD
+Used at [module level](../../Glossary/vbe-glossary.md) to declare private[variables](../../Glossary/vbe-glossary.md) and allocate storage space.
+
+ **Syntax**
+
+ **Private** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
+=======
 Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare private[variables](../../Glossary/vbe-glossary.md#variable) and allocate storage space.
 
 ## Syntax
 
 **Private** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ] [ **,** [ **WithEvents** ] _varname_ [ **(** [ _subscripts_ ] **)** ] [ **As** [ **New** ] _type_ ]] **. . .**
+>>>>>>> master
 
 The  **Private** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+|**WithEvents**|Optional. [Keyword](../../Glossary/vbe-glossary.md) that specifies that _varname_ is an[object variable](../../Glossary/vbe-glossary.md) used to respond to events triggered by an[ActiveX object](../../Glossary/vbe-glossary.md).  **WithEvents** is valid only in[class modules](../../Glossary/vbe-glossary.md). You can declare as many individual variables as you like using  **WithEvents**, but you can't create[arrays](../../Glossary/vbe-glossary.md) with **WithEvents**. You can't use **New** with **WithEvents**.|
+| _varname_|Required. Name of the variable; follows standard variable naming conventions.|
+| _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](../../Glossary/vbe-glossary.md) uses the following syntax:|
+=======
 |**WithEvents**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) that specifies that _varname_ is an[object variable](../../Glossary/vbe-glossary.md#object-variable) used to respond to events triggered by an[ActiveX object](../../Glossary/vbe-glossary.md#activex-object).  **WithEvents** is valid only in[class modules](../../Glossary/vbe-glossary.md#class-module). You can declare as many individual variables as you like using  **WithEvents**, but you can't create[arrays](../../Glossary/vbe-glossary.md#array) with **WithEvents**. You can't use **New** with **WithEvents**.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
 | _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](../../Glossary/vbe-glossary.md#argument) uses the following syntax:|
+>>>>>>> master
 |
 |[ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .**|
 |
 |When not explicitly stated in  _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
+<<<<<<< HEAD
+|**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic[data type](../../Glossary/vbe-glossary.md), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
+| _type_|Optional. Data type of the variable; may be [Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined.|
+
+ **Remarks**
+ **Private** variables are available only to the module in which they are declared.
+=======
 |**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic[data type](../../Glossary/vbe-glossary.md#data-type), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
 | _type_|Optional. Data type of the variable; may be [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported),[Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md#object), [Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an [object type](../../Glossary/vbe-glossary.md#object-type). Use a separate  **As**_type_ clause for each variable being defined.|
 
 ## Remarks
 
 **Private** variables are available only to the module in which they are declared.
+>>>>>>> master
 Use the  **Private** statement to declare the data type of a variable. For example, the following statement declares a variable as an **Integer**:
 
 
@@ -56,7 +78,11 @@ Private X As New Worksheet
 If the  **New** keyword isn't used when declaring an object variable, the variable that refers to the object must be assigned an existing object using the **Set** statement before it can be used. Until it's assigned an object, the declared object variable has the special value **Nothing**, which indicates that it doesn't refer to any particular instance of an object.
 If you don't specify a data type or object type, and there is no  **Def**_type_ statement in the module, the variable is **Variant** by default.
 You can also use the  **Private** statement with empty parentheses to declare a dynamic array. After declaring a dynamic array, use the **ReDim** statement within a procedure to define the number of dimensions and elements in the array. If you try to redeclare a dimension for an array variable whose size was explicitly specified in a **Private**, **Public**, or **Dim** statement, an error occurs.
+<<<<<<< HEAD
+When variables are initialized, a numeric variable is initialized to 0, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with zeros.  **Variant** variables are initialized to[Empty](../../Glossary/vbe-glossary.md). Each element of a user-defined type variable is initialized as if it were a separate variable.
+=======
 When variables are initialized, a numeric variable is initialized to 0, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with zeros.  **Variant** variables are initialized to[Empty](../../Glossary/vbe-glossary.md#empty). Each element of a user-defined type variable is initialized as if it were a separate variable.
+>>>>>>> master
 
  **Note**  When you use the  **Private** statement in a procedure, you generally put the **Private** statement at the beginning of the procedure.
 

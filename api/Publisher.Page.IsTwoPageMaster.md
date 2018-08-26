@@ -46,12 +46,21 @@ pageCount = ActiveDocument.MasterPages.Count
 For i = 1 To pageCount 
  Set objMasterPage = ActiveDocument.MasterPages(i) 
  If objMasterPage.IsTwoPageMaster Then 
+<<<<<<< HEAD
+ objMasterPage.Header.TextRange.Text = "MasterPage " &; _ 
+ objMasterPage.PageNumber &; ", Page 1 of 2" 
+ i = i + 1 
+ Set objMasterPage = ActiveDocument.MasterPages(i) 
+ objMasterPage.Header.TextRange.Text = "MasterPage " &; _ 
+ objMasterPage.PageNumber &; ", Page 2 of 2" 
+=======
  objMasterPage.Header.TextRange.Text = "MasterPage " & _ 
  objMasterPage.PageNumber & ", Page 1 of 2" 
  i = i + 1 
  Set objMasterPage = ActiveDocument.MasterPages(i) 
  objMasterPage.Header.TextRange.Text = "MasterPage " & _ 
  objMasterPage.PageNumber & ", Page 2 of 2" 
+>>>>>>> master
  End If 
 Next i 
 

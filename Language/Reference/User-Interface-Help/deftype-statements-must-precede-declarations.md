@@ -15,11 +15,19 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+- A [variable](../../Glossary/vbe-glossary.md)[declaration](../../Glossary/vbe-glossary.md) precedes a **Def**_type_ statement at[module level](../../Glossary/vbe-glossary.md).
+    
+    Move the  **Def**_type_ statement to precede all variable declarations.
+    
+- A  **Def**_type_ statement appears in a[procedure](../../Glossary/vbe-glossary.md).
+=======
 - A [variable](../../Glossary/vbe-glossary.md#variable)[declaration](../../Glossary/vbe-glossary.md#declaration) precedes a **Def**_type_ statement at[module level](../../Glossary/vbe-glossary.md#module-level).
     
     Move the  **Def**_type_ statement to precede all variable declarations.
     
 - A  **Def**_type_ statement appears in a[procedure](../../Glossary/vbe-glossary.md#procedure).
+>>>>>>> master
     
     Move the  **Def**_type_ statement to module level, preceding all variable declarations.
     

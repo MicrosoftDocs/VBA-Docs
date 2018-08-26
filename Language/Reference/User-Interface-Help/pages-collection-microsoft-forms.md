@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 A  **Pages** collection includes all the pages of a **MultiPage**.
+<<<<<<< HEAD
+ **Remarks**
+Each  **Pages** collection provides the features to manage the number of pages in the[collection](../../Glossary/vbe-glossary.md) and to identify the page that is currently in use.
+=======
 
 ## Remarks
 
 Each  **Pages** collection provides the features to manage the number of pages in the[collection](../../Glossary/vbe-glossary.md#collection) and to identify the page that is currently in use.
+>>>>>>> master
 A  **Page** object has a unique name and index value within a **Pages** collection. You can reference a **Page** either by its name or its index value. The index of the first **Page** in a collection is 0; the index of the second **Page** is 1; and so on. The default name for the first page is Page1; the default name for the second page is Page2.
 The default value of a  **Pages** collection identifies the current **Page** of a collection.
 

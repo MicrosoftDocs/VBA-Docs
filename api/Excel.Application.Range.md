@@ -82,7 +82,11 @@ For Each c In Range("TestRange")
  numBlanks = numBlanks + 1 
  End If 
 Next c 
+<<<<<<< HEAD
+MsgBox "There are " &; numBlanks &; " empty cells in this range"
+=======
 MsgBox "There are " & numBlanks & " empty cells in this range"
+>>>>>>> master
 ```
 
 This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the  **Range** property.

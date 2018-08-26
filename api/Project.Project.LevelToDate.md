@@ -37,7 +37,11 @@ Sub ChangeLevelingDates()
  
  With ActiveProject 
  If Application.DateDifference(.ProjectSummaryTask.Start, .LevelFromDate) = 0 Then 
+<<<<<<< HEAD
+ Response = MsgBox("Overallocated resources are leveled from " &; _ 
+=======
  Response = MsgBox("Overallocated resources are leveled from " & _ 
+>>>>>>> master
  "the project start date. Should that be changed?", vbYesNo) 
  If Response = vbYes Then 
  NewFrom = InputBox("Date to level from: ") 
@@ -48,7 +52,11 @@ Sub ChangeLevelingDates()
  End If 
  
  If Application.DateDifference(.ProjectSummaryTask.Finish, .LevelToDate) = 0 Then 
+<<<<<<< HEAD
+ Response = MsgBox("Overallocated resources are leveled to " &; _ 
+=======
  Response = MsgBox("Overallocated resources are leveled to " & _ 
+>>>>>>> master
  "the project finish date. Should that be changed?", vbYesNo) 
  If Response = vbYes Then 
  NewTo = InputBox("Date to level to: ") 

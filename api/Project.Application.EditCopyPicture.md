@@ -58,7 +58,11 @@ The following example makes a copy of the Gantt Chart view as Test.gif file and 
 ```vb
 Sub Edit_CopyPicture() 
     'Activate the Gantt Chart view 
+<<<<<<< HEAD
+    ViewApply Name:="&;Gantt Chart" 
+=======
     ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
     EditCopyPicture ForPrinter:=pjGIF, FileName:="C:\Test.gif" 
 End Sub
 ```

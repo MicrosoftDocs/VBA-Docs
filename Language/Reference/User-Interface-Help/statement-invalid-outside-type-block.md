@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Statement invalid outside Type block
 
+<<<<<<< HEAD
+The syntax for declaring [variables](../../Glossary/vbe-glossary.md) outside a **Type...End Type** statement block is different from the syntax for declaring the elements of the[user-defined type](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
+=======
 The syntax for declaring [variables](../../Glossary/vbe-glossary.md#variable) outside a **Type...End Type** statement block is different from the syntax for declaring the elements of the[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following causes and solutions:
+>>>>>>> master
 
 
 

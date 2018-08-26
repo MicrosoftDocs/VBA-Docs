@@ -47,11 +47,19 @@ Dim WordApp As New Word.Application, Reply As Integer
 Application.ActivateMicrosoftApp xlMicrosoftWord With WordApp 
     If .FeatureInstall = msoFeatureInstallNone Then 
         Reply = MsgBox("Uninstalled features for this " _ 
+<<<<<<< HEAD
+            &; "application " &; vbCrLf _ 
+            &; "may cause a run-time error when called." &; vbCrLf _ 
+            &; vbCrLf _ 
+            &; "Would you like to change this setting" &; vbCrLf _ 
+            &; "to automatically install missing features?" _ 
+=======
             & "application " & vbCrLf _ 
             & "may cause a run-time error when called." & vbCrLf _ 
             & vbCrLf _ 
             & "Would you like to change this setting" & vbCrLf _ 
             & "to automatically install missing features?" _ 
+>>>>>>> master
             , 52, "Feature Install Setting") 
         If Reply = 6 Then 
             .FeatureInstall = msoFeatureInstallOnDemand 

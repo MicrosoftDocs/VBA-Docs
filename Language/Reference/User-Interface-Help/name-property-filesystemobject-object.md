@@ -15,10 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Sets or returns the name of a specified file or folder. Read/write.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Name** [= _newname_ ]
+=======
 
 ## Syntax
 
 _object_. **Name** [= _newname_ ]
+>>>>>>> master
 The  **Name** property has these parts:
 
 
@@ -27,8 +32,12 @@ The  **Name** property has these parts:
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The following code illustrates the use of the  **Name** property:
 
 
@@ -38,10 +47,17 @@ Sub ShowFileAccessInfo(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
+<<<<<<< HEAD
+    s = f.Name &; " on Drive " &; UCase(f.Drive) &; vbCrLf
+    s = s &; "Created: " &; f.DateCreated &; vbCrLf
+    s = s &; "Last Accessed: " &; f.DateLastAccessed &; vbCrLf
+    s = s &; "Last Modified: " &; f.DateLastModified  
+=======
     s = f.Name & " on Drive " & UCase(f.Drive) & vbCrLf
     s = s & "Created: " & f.DateCreated & vbCrLf
     s = s & "Last Accessed: " & f.DateLastAccessed & vbCrLf
     s = s & "Last Modified: " & f.DateLastModified  
+>>>>>>> master
     MsgBox s, 0, "File Access Info"
 End Sub
 ```

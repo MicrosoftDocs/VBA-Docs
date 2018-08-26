@@ -91,7 +91,11 @@ Sub AssignResourceToSelectedTasks()
         ResourceAssignment Resources:=Entry, Operation:=pjAssign 
     ' Otherwise, tell user the resource doesn't exist. 
     Else 
+<<<<<<< HEAD
+        MsgBox ("There is no resource in the active project named " &; Entry &; ".") 
+=======
         MsgBox ("There is no resource in the active project named " & Entry & ".") 
+>>>>>>> master
     End If 
      
 End Sub

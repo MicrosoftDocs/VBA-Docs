@@ -51,7 +51,11 @@ The following example selects the third row in the  **Name** column of the Resou
 ```vb
 Sub Select_ResourceCell() 
  
+<<<<<<< HEAD
+ ViewApply Name:="&;Resource Sheet" 
+=======
  ViewApply Name:="&Resource Sheet" 
+>>>>>>> master
  SelectResourceCell Row:=3, Column:="Name", RowRelative:=False 
 End Sub
 ```

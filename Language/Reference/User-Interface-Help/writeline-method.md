@@ -17,10 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Writes a specified string and newline character to a  **TextStream** file.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **WriteLine(** [ _string_ ] **)**
+=======
 
 ## Syntax
 
 _object_. **WriteLine(** [ _string_ ] **)**
+>>>>>>> master
 The  **WriteLine** method syntax has these parts:
 
 

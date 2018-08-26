@@ -40,7 +40,11 @@ Sub InsertNewPicture()
  strPicPath = Options.PathForPictures 
  
  ActiveDocument.Pages(1).Shapes.AddPicture FileName:=strPicPath _ 
+<<<<<<< HEAD
+ &; "Filename", LinktoFile:=msoFalse, _ 
+=======
  & "Filename", LinktoFile:=msoFalse, _ 
+>>>>>>> master
  SaveWithDocument:=msoTrue, Left:=50, Top:=50, Height:=200 
  
 End Sub

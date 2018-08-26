@@ -43,16 +43,26 @@ Sub CheckAssignmentsOnSummaryTasks()
  If tsk.Summary Then 
  numAssignments = tsk.Assignments.Count 
  If numAssignments > 0 Then 
+<<<<<<< HEAD
+ message = message &; "Summary task ID (" &; tsk.ID &; "): " &; tsk.Name _ 
+ &; ": " &; numAssignments &; " assignments" &; vbCrLf 
+=======
  message = message & "Summary task ID (" & tsk.ID & "): " & tsk.Name _ 
  & ": " & numAssignments & " assignments" & vbCrLf 
+>>>>>>> master
  numSummaryTasksWithAssignments = numSummaryTasksWithAssignments + 1 
  End If 
  End If 
  Next tsk 
  
  If numSummaryTasksWithAssignments > 0 Then 
+<<<<<<< HEAD
+ message = "There are " &; numSummaryTasksWithAssignments _ 
+ &; " summary tasks that have assignments." &; vbCrLf &; vbCrLf &; message 
+=======
  message = "There are " & numSummaryTasksWithAssignments _ 
  & " summary tasks that have assignments." & vbCrLf & vbCrLf & message 
+>>>>>>> master
  msgStyle = vbExclamation 
  Else 
  message = "No summary tasks have assignments." 

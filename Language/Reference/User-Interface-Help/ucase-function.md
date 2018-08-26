@@ -14,6 +14,12 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) containing the specified string, converted to uppercase.
+<<<<<<< HEAD
+ **Syntax**
+ **UCase** ( _string_ )
+The required  _string_[argument](../../Glossary/vbe-glossary.md) is any valid[string expression](../../Glossary/vbe-glossary.md). If  _string_ contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -22,6 +28,7 @@ The required  _string_[argument](../../Glossary/vbe-glossary.md#argument) is any
 
 ## Remarks
 
+>>>>>>> master
 Only lowercase letters are converted to uppercase; all uppercase letters and nonletter characters remain unchanged.
 
 ## Example

@@ -36,7 +36,11 @@ Set docNew = Documents.Add
 With docNew.MailMerge 
  .MainDocumentType = wdFormLetters 
  .OpenDataSource _ 
+<<<<<<< HEAD
+ Name:="C:\Program Files\Microsoft Office\Office" &; _ 
+=======
  Name:="C:\Program Files\Microsoft Office\Office" & _ 
+>>>>>>> master
  "\Samples\Northwind.mdb", _ 
  LinkToSource:=True, AddToRecentFiles:=False, _ 
  Connection:="TABLE Customers" 

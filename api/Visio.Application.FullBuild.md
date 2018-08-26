@@ -91,8 +91,13 @@ Public Sub ParseFullBuildProperty(ByRef lngFullBuild As Long)
  lngNumber = lngNumber / 32 
  
  'Remaining 1 bit unused and 0 as of Visio 2010 
+<<<<<<< HEAD
+ Debug.Print "lngFullBuild (full version specification): " &; lngMajor &; "." _ 
+ &; lngMinor &; "." &; lngBuild &; "." &; lngRevision + 1000 
+=======
  Debug.Print "lngFullBuild (full version specification): " & lngMajor & "." _ 
  & lngMinor & "." & lngBuild & "." & lngRevision + 1000 
+>>>>>>> master
  Debug.Assert(0 = lngNumber) 
  
 End Sub

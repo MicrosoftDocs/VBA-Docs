@@ -32,7 +32,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 Private Sub SpinButton1_Change() 
  ComboBox1.ListWidth = SpinButton1.Value 
  Label1.Caption = "ListWidth = " _ 
+<<<<<<< HEAD
+ &; SpinButton1.Value 
+=======
  & SpinButton1.Value 
+>>>>>>> master
 End Sub 
  
 Private Sub UserForm_Initialize() 
@@ -40,7 +44,11 @@ Private Sub UserForm_Initialize()
  
  For i = 1 To 20 
  ComboBox1.AddItem "Choice " _ 
+<<<<<<< HEAD
+ &; (ComboBox1.ListCount + 1) 
+=======
  & (ComboBox1.ListCount + 1) 
+>>>>>>> master
  Next i 
  
  SpinButton1.Min = 0 
@@ -48,7 +56,11 @@ Private Sub UserForm_Initialize()
  SpinButton1.Value = Val(ComboBox1.ListWidth) 
  SpinButton1.SmallChange = 5 
  Label1.Caption = "ListWidth = " _ 
+<<<<<<< HEAD
+ &; SpinButton1.Value 
+=======
  & SpinButton1.Value 
+>>>>>>> master
 End Sub
 ```
 

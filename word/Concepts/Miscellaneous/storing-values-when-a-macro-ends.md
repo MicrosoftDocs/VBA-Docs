@@ -117,7 +117,11 @@ Sub GetSystemFileInfo()
  intDocNum = System.PrivateProfileString( _ 
  FileName:="C:\My Documents\Macro.ini", _ 
  Section:="DocTracker", Key:="DocNum") 
+<<<<<<< HEAD
+ MsgBox "DocNum is " &; intDocNum 
+=======
  MsgBox "DocNum is " & intDocNum 
+>>>>>>> master
 End Sub
 ```
 
@@ -132,10 +136,17 @@ Sub GetRegistryInfo()
  Dim strSection As String 
  Dim strPgmDir As String 
  strSection = "HKEY_CURRENT_USER\Software\Microsoft" _ 
+<<<<<<< HEAD
+ &; "\Office\12.0\Word\Options" 
+ strPgmDir = System.PrivateProfileString(FileName:="", _ 
+ Section:=strSection, Key:="PROGRAMDIR") 
+ MsgBox "The directory for Word is - " &; strPgmDir 
+=======
  & "\Office\12.0\Word\Options" 
  strPgmDir = System.PrivateProfileString(FileName:="", _ 
  Section:=strSection, Key:="PROGRAMDIR") 
  MsgBox "The directory for Word is - " & strPgmDir 
+>>>>>>> master
 End Sub
 ```
 
@@ -154,7 +165,11 @@ The following example sets the DOC-PATH entry to "C:\My Documents" in the Option
 Sub SetDocumentDirectory() 
  Dim strDocDirectory As String 
  strDocDirectory = "HKEY_CURRENT_USER\Software\Microsoft" _ 
+<<<<<<< HEAD
+ &; "\Office\10.0\Word\Options" 
+=======
  & "\Office\10.0\Word\Options" 
+>>>>>>> master
  System.PrivateProfileString(FileName:="", _ 
  Section:=strDocDirectory, Key:="DOC-PATH") = "C:\My Documents" 
 End Sub

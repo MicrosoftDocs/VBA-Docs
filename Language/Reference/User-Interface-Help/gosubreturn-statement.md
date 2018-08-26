@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # GoSub...Return Statement
 
+<<<<<<< HEAD
+Branches to and returns from a subroutine within a [procedure](../../Glossary/vbe-glossary.md).
+
+ **Syntax**
+
+ **GoSub**_line_
+=======
 Branches to and returns from a subroutine within a [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
 
 **GoSub**_line_
+>>>>>>> master
  `...`
  _line_
 
@@ -23,11 +31,17 @@ Branches to and returns from a subroutine within a [procedure](../../Glossary/vb
  `...`
 
  **Return**
+<<<<<<< HEAD
+The  _line_[argument](../../Glossary/vbe-glossary.md) can be any[line label](../../Glossary/vbe-glossary.md) or[line number](../../Glossary/vbe-glossary.md).
+ **Remarks**
+You can use  **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the[statement](../../Glossary/vbe-glossary.md) immediately following the most recently executed **GoSub** statement.
+=======
 The  _line_[argument](../../Glossary/vbe-glossary.md#argument) can be any[line label](../../Glossary/vbe-glossary.md#line-label) or[line number](../../Glossary/vbe-glossary.md#line-number).
 
 ## Remarks
 
 You can use  **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the[statement](../../Glossary/vbe-glossary.md#statement) immediately following the most recently executed **GoSub** statement.
+>>>>>>> master
 
  **Note**  You can't enter or exit  **Sub** procedures with **GoSub...Return**.
 

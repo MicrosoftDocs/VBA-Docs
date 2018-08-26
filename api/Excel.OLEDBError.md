@@ -28,8 +28,13 @@ Use  **[OLEDBErrors](Excel.Application.ODBCErrors.md)** ( _index_ ), where _inde
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
+<<<<<<< HEAD
+MsgBox "The following error occurred:" &; _ 
+ objEr.ErrorString &; " : " &; objEr.SqlState
+=======
 MsgBox "The following error occurred:" & _ 
  objEr.ErrorString & " : " & objEr.SqlState
+>>>>>>> master
 ```
 
 

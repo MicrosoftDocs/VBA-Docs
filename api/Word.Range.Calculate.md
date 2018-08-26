@@ -31,7 +31,11 @@ This example inserts a mathematical expression at the beginning of the active do
 ```vb
 Set myRange = ActiveDocument.Range(0, 0) 
 myRange.InsertBefore "1 + 1 " 
+<<<<<<< HEAD
+myRange.InsertAfter "= " &; myRange.Calculate
+=======
 myRange.InsertAfter "= " & myRange.Calculate
+>>>>>>> master
 ```
 
 

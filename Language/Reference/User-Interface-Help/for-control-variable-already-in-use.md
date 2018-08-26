@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # For control variable already in use
 
+<<<<<<< HEAD
+When you nest  **For...Next** loops, you must use different control[variables](../../Glossary/vbe-glossary.md) in each one. This error has the following cause and solution:
+=======
 When you nest  **For...Next** loops, you must use different control[variables](../../Glossary/vbe-glossary.md#variable) in each one. This error has the following cause and solution:
+>>>>>>> master
 
 
 

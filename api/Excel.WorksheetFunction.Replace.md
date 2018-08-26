@@ -53,7 +53,11 @@ Sub UseReplace()
  strCurrent = "abcdef" 
  
  ' Notify user and display current string. 
+<<<<<<< HEAD
+ MsgBox "The current string is: " &; strCurrent 
+=======
  MsgBox "The current string is: " & strCurrent 
+>>>>>>> master
  
  ' Replace "cd" with "-". 
  strReplaced = Application.WorksheetFunction.Replace _ 
@@ -61,7 +65,11 @@ Sub UseReplace()
  Arg3:=2, Arg4:="-") 
  
  ' Notify user and display replaced string. 
+<<<<<<< HEAD
+ MsgBox "The replaced string is: " &; strReplaced 
+=======
  MsgBox "The replaced string is: " & strReplaced 
+>>>>>>> master
  
 End Sub
 ```

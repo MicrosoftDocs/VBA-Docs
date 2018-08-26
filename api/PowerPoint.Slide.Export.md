@@ -48,7 +48,11 @@ This example exports slide three in the active presentation to disk in the JPEG 
 
 ```vb
 With Application.ActivePresentation.Slides(3)
+<<<<<<< HEAD
+    .Export "c:\my documents\Graphic Format\" &; _
+=======
     .Export "c:\my documents\Graphic Format\" & _
+>>>>>>> master
         "Slide 3 of Annual Sales", "JPG"
 End With
 ```

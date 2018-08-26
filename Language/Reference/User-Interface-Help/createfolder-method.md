@@ -18,8 +18,8 @@ Creates a folder.
 ## Syntax
 
 _object_. **CreateFolder(**_foldername_**)**
-The **CreateFolder** method has these parts:
 
+The **CreateFolder** method has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|

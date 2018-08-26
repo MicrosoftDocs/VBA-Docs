@@ -60,8 +60,13 @@ Sub BoxStyles_EditCritical()
  ViewApply Name:="Network Diagram" 
  
  BoxStylesEditEx Style:=pjBoxCritical, BorderShape:=pjBoxRoundedRectangle, VerticalGridlines:=True, _ 
+<<<<<<< HEAD
+ BorderColor:=&;HB0, BorderWidth:=3, _ 
+ BackgroundColor:=&;HE0E0E0, BackgroundPattern:=pjBackgroundLightDither 
+=======
  BorderColor:=&HB0, BorderWidth:=3, _ 
  BackgroundColor:=&HE0E0E0, BackgroundPattern:=pjBackgroundLightDither 
+>>>>>>> master
 End Sub
 ```
 

@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 Defines the effect of pressing ENTER in a  **TextBox**.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **EnterKeyBehavior** [= _Boolean_ ]
+=======
 
 ## Syntax
 
 _object_. **EnterKeyBehavior** [= _Boolean_ ]
+>>>>>>> master
 The  **EnterKeyBehavior** property syntax has these parts:
 
 
@@ -37,8 +42,13 @@ The settings for  _Boolean_ are:
 |**True**|Pressing ENTER creates a new line.|
 |**False**|Pressing ENTER moves the focus to the next object in the tab order (default).|
 
+<<<<<<< HEAD
+ **Remarks**
+The  **EnterKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing ENTER always moves the[focus](../../Glossary/vbe-glossary.md) to the next control in the[tab order](../../Glossary/vbe-glossary.md) regardless of the value of **EnterKeyBehavior**.
+=======
 ## Remarks
 
 The  **EnterKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing ENTER always moves the[focus](../../Glossary/vbe-glossary.md#focus) to the next control in the[tab order](../../Glossary/vbe-glossary.md#tab-order) regardless of the value of **EnterKeyBehavior**.
+>>>>>>> master
 The effect of pressing CTRL+ENTER also depends on the value of  **MultiLine**. If **MultiLine** is **True**, pressing CTRL+ENTER creates a new line regardless of the value of **EnterKeyBehavior**. If **MultiLine** is **False**, pressing CTRL+ENTER has no effect.
 

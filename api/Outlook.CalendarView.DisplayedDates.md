@@ -76,6 +76,17 @@ Sub DisplayDayRange()
  
  If IsArray(varArray) Then 
  
+<<<<<<< HEAD
+ MsgBox "There are " &; _ 
+ 
+ (UBound(varArray) - LBound(varArray)) + 1 &; _ 
+ 
+ " days displayed, from " &; _ 
+ 
+ varArray(LBound(varArray)) &; _ 
+ 
+ " to " &; _ 
+=======
  MsgBox "There are " & _ 
  
  (UBound(varArray) - LBound(varArray)) + 1 & _ 
@@ -85,6 +96,7 @@ Sub DisplayDayRange()
  varArray(LBound(varArray)) & _ 
  
  " to " & _ 
+>>>>>>> master
  
  varArray(UBound(varArray)) 
  

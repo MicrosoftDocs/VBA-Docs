@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Restart Execution
 
+<<<<<<< HEAD
+You can restart execution from [break mode](../Glossary/vbe-glossary.md). Restarting returns the code to a newly initialized state, resetting all [variables](../Glossary/vbe-glossary.md) and removing any suspended[procedures](../Glossary/vbe-glossary.md) from memory.
+=======
 You can restart execution from [break mode](../Glossary/vbe-glossary.md#break-mode). Restarting returns the code to a newly initialized state, resetting all [variables](../Glossary/vbe-glossary.md#variable) and removing any suspended[procedures](../Glossary/vbe-glossary.md#procedure) from memory.
+>>>>>>> master
 
  **To restart execution**
 

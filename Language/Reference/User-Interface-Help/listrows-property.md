@@ -16,10 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies the maximum number of rows to display in the list.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **ListRows** [= _Long_ ]
+=======
 
 ## Syntax
 
 _object_. **ListRows** [= _Long_ ]
+>>>>>>> master
 The  **ListRows** property syntax has these parts:
 
 
@@ -28,7 +33,11 @@ The  **ListRows** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer indicating the maximum number of rows. The default value is 8.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 If the number of items in the list exceeds the value of the  **ListRows** property, a scroll bar appears at the right edge of the list box portion of the combo box.
 

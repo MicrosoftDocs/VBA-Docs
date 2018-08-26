@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Sub Statement
 
+<<<<<<< HEAD
+Declares the name, [arguments](../../Glossary/vbe-glossary.md), and code that form the body of a  **Sub** [procedure](../../Glossary/vbe-glossary.md).
+
+ **Syntax**
+=======
 Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and code that form the body of a  **Sub** [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
+>>>>>>> master
 
 [ **Private** |**Public** |**Friend** ] [ **Static** ] **Sub** _name_ [ **(**_arglist_**)** ]
 [ _statements_ ]
@@ -26,6 +32,15 @@ The  **Sub** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+|**Public**|Optional. Indicates that the  **Sub** procedure is accessible to all other procedures in all [modules](../../Glossary/vbe-glossary.md). If used in a module that contains an  **Option Private** statement, the procedure is not available outside the [project](../../Glossary/vbe-glossary.md).|
+|**Private**|Optional. Indicates that the  **Sub** procedure is accessible only to other procedures in the module where it is declared.|
+|**Friend**|Optional. Used only in a [class module](../../Glossary/vbe-glossary.md). Indicates that the  **Sub** procedure is visible throughout the [project](../../Glossary/vbe-glossary.md), but not visible to a controller of an instance of an object.|
+|**Static**|Optional. Indicates that the  **Sub** procedure's local [variables](../../Glossary/vbe-glossary.md) are preserved between calls. The **Static** attribute doesn't affect variables that are declared outside the **Sub**, even if they are used in the procedure.|
+| _name_|Required. Name of the  **Sub**; follows standard [variable](../../Glossary/vbe-glossary.md) naming conventions.|
+| _arglist_|Optional. List of variables representing arguments that are passed to the  **Sub** procedure when it is called. Multiple variables are separated by commas.|
+| _statements_|Optional. Any group of [statements](../../Glossary/vbe-glossary.md) to be executed within the **Sub** procedure.|
+=======
 |**Public**|Optional. Indicates that the  **Sub** procedure is accessible to all other procedures in all [modules](../../Glossary/vbe-glossary.md#module). If used in a module that contains an  **Option Private** statement, the procedure is not available outside the [project](../../Glossary/vbe-glossary.md#project).|
 |**Private**|Optional. Indicates that the  **Sub** procedure is accessible only to other procedures in the module where it is declared.|
 |**Friend**|Optional. Used only in a [class module](../../Glossary/vbe-glossary.md#class-module). Indicates that the  **Sub** procedure is visible throughout the [project](../../Glossary/vbe-glossary.md#project), but not visible to a controller of an instance of an object.|
@@ -33,6 +48,7 @@ The  **Sub** statement syntax has these parts:
 | _name_|Required. Name of the  **Sub**; follows standard [variable](../../Glossary/vbe-glossary.md#variable) naming conventions.|
 | _arglist_|Optional. List of variables representing arguments that are passed to the  **Sub** procedure when it is called. Multiple variables are separated by commas.|
 | _statements_|Optional. Any group of [statements](../../Glossary/vbe-glossary.md#statement) to be executed within the **Sub** procedure.|
+>>>>>>> master
 
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
@@ -40,6 +56,17 @@ The  _arglist_ argument has the following syntax and parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+|**Optional**|Optional. [Keyword](../../Glossary/vbe-glossary.md) indicating that an argument is not required. If used, all subsequent arguments in _arglist_ must also be optional and declared using the **Optional** keyword. **Optional** can't be used for any argument if **ParamArray** is used.|
+|**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md).|
+|**ByRef**|Optional. Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md).  **ByRef** is the default in Visual Basic.|
+|**ParamArray**|Optional. Used only as the last argument in  _arglist_ to indicate that the final argument is an **Optional** [array](../../Glossary/vbe-glossary.md) of **Variant** elements. The **ParamArray** keyword allows you to provide an arbitrary number of arguments. **ParamArray** can't be used with **ByVal**, **ByRef**, or **Optional**.|
+| _varname_|Required. Name of the variable representing the argument; follows standard variable naming conventions.|
+| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the argument passed to the procedure; may be[Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported), [Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (variable-length only), [Object](../../Glossary/vbe-glossary.md), [Variant](../../Glossary/vbe-glossary.md), or a specific [object type](../../Glossary/vbe-glossary.md). If the parameter is not  **Optional**, a [user-defined type](../../Glossary/vbe-glossary.md) may also be specified.|
+| _defaultvalue_|Optional. Any [constant](../../Glossary/vbe-glossary.md) or constant [expression](../../Glossary/vbe-glossary.md). Valid for  **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
+
+**Remarks**
+=======
 |**Optional**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) indicating that an argument is not required. If used, all subsequent arguments in _arglist_ must also be optional and declared using the **Optional** keyword. **Optional** can't be used for any argument if **ParamArray** is used.|
 |**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
 |**ByRef**|Optional. Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference).  **ByRef** is the default in Visual Basic.|
@@ -49,16 +76,25 @@ The  _arglist_ argument has the following syntax and parts:
 | _defaultvalue_|Optional. Any [constant](../../Glossary/vbe-glossary.md#constant) or constant [expression](../../Glossary/vbe-glossary.md#expression). Valid for  **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
 
 ## Remarks
+>>>>>>> master
 
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Sub** procedures are public by default.
 
 If **Static** isn't used, the value of local variables is not preserved between calls.
 
+<<<<<<< HEAD
+The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the [type library](../../Glossary/vbe-glossary.md) of its parent class, nor can a **Friend** procedure be late bound.
+
+**Sub** procedures can be recursive; that is, they can call themselves to perform a given task. However, recursion can lead to stack overflow. The **Static** keyword usually is not used with recursive **Sub** procedures.
+
+All executable code must be in [procedures](../../Glossary/vbe-glossary.md). You can't define a  **Sub** procedure inside another **Sub**, **Function**, or **Property** procedure.
+=======
 The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of its parent class, nor can a **Friend** procedure be late bound.
 
 **Sub** procedures can be recursive; that is, they can call themselves to perform a given task. However, recursion can lead to stack overflow. The **Static** keyword usually is not used with recursive **Sub** procedures.
 
 All executable code must be in [procedures](../../Glossary/vbe-glossary.md#procedure). You can't define a  **Sub** procedure inside another **Sub**, **Function**, or **Property** procedure.
+>>>>>>> master
 
 The **Exit Sub** keywords cause an immediate exit from a **Sub** procedure. Program execution continues with the statement following the statement that called the **Sub** procedure. Any number of **Exit Sub** statements can appear anywhere in a **Sub** procedure.
 
@@ -68,7 +104,11 @@ You call a **Sub** procedure using the procedure name followed by the argument l
 
 Variables used in **Sub** procedures fall into two categories: those that are explicitly declared within the procedure and those that are not. Variables that are explicitly declared in a procedure (using **Dim** or the equivalent) are always local to the procedure. Variables that are used but not explicitly declared in a procedure are also local unless they are explicitly declared at some higher level outside the procedure.
 
+<<<<<<< HEAD
+A procedure can use a variable that is not explicitly declared in the procedure, but a naming conflict can occur if anything you defined at the [module level](../../Glossary/vbe-glossary.md) has the same name. If your procedure refers to an undeclared variable that has the same name as another procedure, constant or variable, it is assumed that your procedure is referring to that module-level name. To avoid this kind of conflict, explicitly declare variables. You can use an **Option Explicit** statement to force explicit declaration of variables.
+=======
 A procedure can use a variable that is not explicitly declared in the procedure, but a naming conflict can occur if anything you defined at the [module level](../../Glossary/vbe-glossary.md#module-level) has the same name. If your procedure refers to an undeclared variable that has the same name as another procedure, constant or variable, it is assumed that your procedure is referring to that module-level name. To avoid this kind of conflict, explicitly declare variables. You can use an **Option Explicit** statement to force explicit declaration of variables.
+>>>>>>> master
 
  **Note** You can't use **GoSub**, **GoTo**, or **Return** to enter or exit a **Sub** procedure.
 

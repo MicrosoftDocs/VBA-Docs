@@ -64,7 +64,11 @@ Sub TestCommandEnabled()
  
  For i = 1 To 3 
  isEnabled = GetCommandEnabled(commandArray(i)) 
+<<<<<<< HEAD
+ Debug.Print commandArray(i) &; " is " &; isEnabled 
+=======
  Debug.Print commandArray(i) & " is " & isEnabled 
+>>>>>>> master
  Next i 
 End Sub 
  

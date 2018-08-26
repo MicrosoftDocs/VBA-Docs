@@ -34,8 +34,13 @@ The following code example returns the path and name of the document associated 
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox ActiveProtectedViewWindow.SourcePath &; "\" _ 
+ &; ActiveProtectedViewWindow.SourceName 
+=======
 MsgBox ActiveProtectedViewWindow.SourcePath & "\" _ 
  & ActiveProtectedViewWindow.SourceName 
+>>>>>>> master
 
 ```
 

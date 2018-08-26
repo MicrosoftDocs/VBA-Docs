@@ -29,9 +29,15 @@ This example displays the number of Microsoft Excel 4.0 international macro shee
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "There are " &; _ 
+ ActiveWorkbook.Excel4IntlMacroSheets.Count &; _ 
+ " Microsoft Excel 4.0 international macro sheets" &; _ 
+=======
 MsgBox "There are " & _ 
  ActiveWorkbook.Excel4IntlMacroSheets.Count & _ 
  " Microsoft Excel 4.0 international macro sheets" & _ 
+>>>>>>> master
  " in this workbook."
 ```
 

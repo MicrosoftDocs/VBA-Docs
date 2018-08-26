@@ -34,7 +34,11 @@ The following example displays the name (**Caption** property) of the active **P
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "The name of the active Protected View window is " &; ActiveProtectedWindow.Caption
+=======
 MsgBox "The name of the active Protected View window is " & ActiveProtectedWindow.Caption
+>>>>>>> master
 ```
 
 

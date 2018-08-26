@@ -58,7 +58,11 @@ Sub ItemProperty()
  
  Set objItem = objItems.Item(2) 
  
+<<<<<<< HEAD
+ MsgBox objItem.Name &; " = " &; objItem.Value 
+=======
  MsgBox objItem.Name & " = " & objItem.Value 
+>>>>>>> master
  
 End Sub
 ```

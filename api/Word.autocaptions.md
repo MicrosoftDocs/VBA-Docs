@@ -22,7 +22,11 @@ Use the  **[AutoCaptions](Word.Application.AutoCaptions.md)** property to return
 ```vb
 For Each autoCap In AutoCaptions 
  If autoCap.AutoInsert = True Then 
+<<<<<<< HEAD
+ MsgBox autoCap.Name &; " is configured for auto insert" 
+=======
  MsgBox autoCap.Name & " is configured for auto insert" 
+>>>>>>> master
  End If 
 Next autoCap
 ```

@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008808
 ms.prod: office
 ms.assetid: f7871e28-9577-740b-e887-1109f52be30e
-ms.date: 08/24/2018
+ms.date: 06/08/2017
 ---
 
 
@@ -27,7 +27,6 @@ If you don't use the **Option Explicit** statement, all undeclared variables are
 
 > [!NOTE]
 > Use **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the [scope](../../Glossary/vbe-glossary.md#scope) of the variable is not clear.
-
 
 ## Example
 

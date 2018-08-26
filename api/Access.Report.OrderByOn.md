@@ -43,7 +43,11 @@ The following example displays a message indicating the state of the  **OrderByO
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "OrderByOn property is " &; Forms("Mailing List").OrderByOn
+=======
 MsgBox "OrderByOn property is " & Forms("Mailing List").OrderByOn
+>>>>>>> master
 ```
 
 

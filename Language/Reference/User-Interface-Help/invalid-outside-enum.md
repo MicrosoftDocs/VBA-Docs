@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid outside Enum
 
+<<<<<<< HEAD
+An  **Enum** is a[data type](../../Glossary/vbe-glossary.md) that can be used to create groups of related constants (called enumerations). This error has the following causes and solutions:
+=======
 An  **Enum** is a[data type](../../Glossary/vbe-glossary.md#data-type) that can be used to create groups of related constants (called enumerations). This error has the following causes and solutions:
+>>>>>>> master
 
 
 

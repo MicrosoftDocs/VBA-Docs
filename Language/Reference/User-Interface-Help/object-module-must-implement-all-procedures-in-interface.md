@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Object module must implement all procedures in interface
 
+<<<<<<< HEAD
+An interface is a collection of unimplemented [procedure](../../Glossary/vbe-glossary.md) prototypes. This error has the following cause and solution:
+=======
 An interface is a collection of unimplemented [procedure](../../Glossary/vbe-glossary.md#procedure) prototypes. This error has the following cause and solution:
+>>>>>>> master
 
 
 

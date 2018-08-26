@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # The .VBP file for this project contains an invalid or corrupt library references ID
 
+<<<<<<< HEAD
+When you save a [project](../../Glossary/vbe-glossary.md) for which a reference has been selected from the **References** dialog box, an entry is made in the project's .vbp file (called the .mak file in earlier versions of Visual Basic). For example, the entry for a data access object is:
+=======
 When you save a [project](../../Glossary/vbe-glossary.md#project) for which a reference has been selected from the **References** dialog box, an entry is made in the project's .vbp file (called the .mak file in earlier versions of Visual Basic). For example, the entry for a data access object is:
+>>>>>>> master
 
 
 ```text
@@ -25,7 +29,11 @@ This error occurs when such a reference has been edited or corrupted. This error
 
 
 
+<<<<<<< HEAD
+- A reference in the .vbp file has become invalid. Delete the incorrect line from the .vbp file and check the appropriate [object library](../../Glossary/vbe-glossary.md) in the **References** dialog box from the **Tools** menu. Then save the project, and the correct information will be entered in the .vbp file.
+=======
 - A reference in the .vbp file has become invalid. Delete the incorrect line from the .vbp file and check the appropriate [object library](../../Glossary/vbe-glossary.md#object-library) in the **References** dialog box from the **Tools** menu. Then save the project, and the correct information will be entered in the .vbp file.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

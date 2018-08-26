@@ -51,8 +51,13 @@ Private Sub Project_Open(ByVal pj As MSProject.Project)
     Dim Alias As String 
  
     Alias = InputBox$("Please enter your e-mail alias: ") 
+<<<<<<< HEAD
+    pj.ProjectSummaryTask.AppendNotes vbCrLf &; "Opened by " &; Alias &; _
+        " on " &; Date$ &; "." 
+=======
     pj.ProjectSummaryTask.AppendNotes vbCrLf & "Opened by " & Alias & _
         " on " & Date$ & "." 
+>>>>>>> master
 End Sub
 ```
 

@@ -14,23 +14,37 @@ ms.date: 06/08/2017
 
 
 Returns a  **Single** containing a random number.
+<<<<<<< HEAD
+ **Syntax**
+ **Rnd** [ **(**_number_**)** ]
+The optional  _number_[argument](../../Glossary/vbe-glossary.md) is a[Single](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md).
+=======
 
 ## Syntax
 
 **Rnd** [ **(**_number_**)** ]
 The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Single](../../Glossary/vbe-glossary.md#single-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+>>>>>>> master
  **Return Values**
 
 
 |**If  _number_ is**|**Rnd generates**|
 |:-----|:-----|
+<<<<<<< HEAD
+|Less than zero|The same number every time, using  _number_ as the[seed](../../Glossary/vbe-glossary.md).|
+=======
 |Less than zero|The same number every time, using  _number_ as the[seed](../../Glossary/vbe-glossary.md#seed).|
+>>>>>>> master
 |Greater than zero|The next random number in the sequence.|
 |Equal to zero|The most recently generated number.|
 |Not supplied|The next random number in the sequence.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The  **Rnd** function returns a value less than 1 but greater than or equal to zero.
 The value of  _number_ determines how **Rnd** generates a random number:
 For any given initial seed, the same number sequence is generated because each successive call to the  **Rnd** function uses the previous number as a seed for the next number in the sequence.

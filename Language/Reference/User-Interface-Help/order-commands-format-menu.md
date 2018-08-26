@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Order Commands (Format Menu)
 
+<<<<<<< HEAD
+Changes the order of the selected [objects](../../Glossary/vbe-glossary.md) on a form.
+=======
 Changes the order of the selected [objects](../../Glossary/vbe-glossary.md#object) on a form.
+>>>>>>> master
 
  **Bring To Front**
 
@@ -24,7 +28,11 @@ Moves the selected objects behind all other objects on a form.
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_sbak_ZA01201737.gif). Keyboard shortcut: CTRL+K.
  **Bring Forward**
+<<<<<<< HEAD
+Moves the selected object one step higher in the [z-order](../../Glossary/vbe-glossary.md).
+=======
 Moves the selected object one step higher in the [z-order](../../Glossary/vbe-glossary.md#z-order).
+>>>>>>> master
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_bfor_ZA01201679.gif).
  **Send Backward**

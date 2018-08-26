@@ -56,7 +56,11 @@ Sub ContactDateCheck()
  
  If (myItem.Class = olContact) Then 
  
+<<<<<<< HEAD
+ MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime 
+=======
  MsgBox myItem.FullName & ": " & myItem.LastModificationTime 
+>>>>>>> master
  
  End If 
  

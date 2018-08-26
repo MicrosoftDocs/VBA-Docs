@@ -37,7 +37,11 @@ The following example updates the report's caption to display the current positi
 
 ```vb
 Private Sub Report_Page()
+<<<<<<< HEAD
+    Me.Caption = "Now Viewing Page " &; Me.Page &; " Of " &; Me.Pages &; " Page(s)"
+=======
     Me.Caption = "Now Viewing Page " & Me.Page & " Of " & Me.Pages & " Page(s)"
+>>>>>>> master
 End Sub
 ```
 

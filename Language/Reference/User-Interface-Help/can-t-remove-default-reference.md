@@ -15,7 +15,11 @@ A default reference always exists. This error has the following cause and soluti
 
 
 
+<<<<<<< HEAD
+- You tried to remove a reference that must always be available, for example, a [type-library](../../Glossary/vbe-glossary.md) or[object-library](../../Glossary/vbe-glossary.md) reference.
+=======
 - You tried to remove a reference that must always be available, for example, a [type-library](../../Glossary/vbe-glossary.md#type-library) or[object-library](../../Glossary/vbe-glossary.md#object-library) reference.
+>>>>>>> master
     
     Don't attempt to remove the reference.
     

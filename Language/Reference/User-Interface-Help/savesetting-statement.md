@@ -19,7 +19,6 @@ Saves or creates an application entry in the application's entry in the Windows 
 
 The **SaveSetting** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or [project](../../Glossary/vbe-glossary.md#project) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|

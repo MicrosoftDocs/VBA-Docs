@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Declare Statement
 
+<<<<<<< HEAD
+Used at [module level](../../Glossary/vbe-glossary.md) to declare references to external[procedures](../../Glossary/vbe-glossary.md) in a[dynamic-link library](../../Glossary/vbe-glossary.md) (DLL).
+=======
 Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare references to external[procedures](../../Glossary/vbe-glossary.md#procedure) in a[dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL).
+>>>>>>> master
 
 
  **Note**  Declare statements with the [PtrSafe](ptrsafe-keyword.md) keyword is the recommended syntax. Declare statements that include **PtrSafe** work correctly in the VBA7 development environment on both 32-bit and 64-bit platforms only after all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities are updated to use[LongLong](longlong-data-type.md) for 64-bit integrals or[LongPtr](longptr-data-type.md) for pointers and handles. To ensure backwards compatibility with VBA version 6 and earlier use the following construct:
@@ -41,6 +45,20 @@ VBA7 Declare Statement Syntax
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+|**Public**|Optional. Used to declare procedures that are available to all other procedures in all [modules](../../Glossary/vbe-glossary.md).|
+|**Private**|Optional. Used to declare procedures that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md) is made.|
+|**PtrSafe**|Required on 64-bit. The  **[PtrSafe](ptrsafe-keyword.md)** keyword asserts that a **Declare** statement is safe to run in 64-bit versions of Microsoft Office|
+|**Sub**|Optional (either  **Sub** or **Function** must appear). Indicates that the procedure doesn't return a value.|
+|**Function**|Optional (either  **Sub** or **Function** must appear). Indicates that the procedure returns a value that can be used in an[expression](../../Glossary/vbe-glossary.md).|
+| _name_|Required. Any valid procedure name. Note that DLL entry points are case sensitive.|
+|**Lib**|Required. Indicates that a DLL or code resource contains the procedure being declared. The  **Lib** clause is required for all declarations.|
+| _libname_|Required. Name of the DLL or code resource that contains the declared procedure.|
+|**Alias**|Optional. Indicates that the procedure being called has another name in the DLL. This is useful when the external procedure name is the same as a keyword. You can also use  **Alias** when a DLL procedure has the same name as a public[variable](../../Glossary/vbe-glossary.md), [constant](../../Glossary/vbe-glossary.md), or any other procedure in the same [scope](../../Glossary/vbe-glossary.md).  **Alias** is also useful if any characters in the DLL procedure name aren't allowed by the DLL naming convention.|
+| _aliasname_|Optional. Name of the procedure in the DLL or code resource. If the first character is not a number sign (**#**), _aliasname_ is the name of the procedure's entry point in the DLL. If (**#**) is the first character, all characters that follow must indicate the ordinal number of the procedure's entry point.|
+| _arglist_|Optional. List of variables representing [arguments](../../Glossary/vbe-glossary.md) that are passed to the procedure when it is called.|
+| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md) of the value returned by a **Function** procedure; may be[Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Decimal](../../Glossary/vbe-glossary.md) (not currently supported),[Date](../../Glossary/vbe-glossary.md), [String](../../Glossary/vbe-glossary.md) (variable length only), or[Variant](../../Glossary/vbe-glossary.md), a [user-defined type](../../Glossary/vbe-glossary.md), or an [object type](../../Glossary/vbe-glossary.md). (**LongLong** is a valid declared type only on 64-bit platforms.)|
+=======
 |**Public**|Optional. Used to declare procedures that are available to all other procedures in all [modules](../../Glossary/vbe-glossary.md#module).|
 |**Private**|Optional. Used to declare procedures that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
 |**PtrSafe**|Required on 64-bit. The  **[PtrSafe](ptrsafe-keyword.md)** keyword asserts that a **Declare** statement is safe to run in 64-bit versions of Microsoft Office|
@@ -53,6 +71,7 @@ VBA7 Declare Statement Syntax
 | _aliasname_|Optional. Name of the procedure in the DLL or code resource. If the first character is not a number sign (**#**), _aliasname_ is the name of the procedure's entry point in the DLL. If (**#**) is the first character, all characters that follow must indicate the ordinal number of the procedure's entry point.|
 | _arglist_|Optional. List of variables representing [arguments](../../Glossary/vbe-glossary.md#argument) that are passed to the procedure when it is called.|
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the value returned by a **Function** procedure; may be[Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported),[Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only), or[Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an [object type](../../Glossary/vbe-glossary.md#object-type). (**LongLong** is a valid declared type only on 64-bit platforms.)|
+>>>>>>> master
 
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ]
@@ -61,15 +80,25 @@ The  _arglist_ argument has the following syntax and parts:
 |**Part**|**Description**|
 |:-----|:-----|
 |**Optional**|Optional. Indicates that an argument is not required. If used, all subsequent arguments in  _arglist_ must also be optional and declared using the **Optional** keyword. **Optional** can't be used for any argument if **ParamArray** is used.|
+<<<<<<< HEAD
+|**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md).|
+|**ByRef**|Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md).  **ByRef** is the default in Visual Basic.|
+|**ParamArray**|Optional. Used only as the last argument in  _arglist_ to indicate that the final argument is an **Optional**[array](../../Glossary/vbe-glossary.md) of **Variant** elements. The **ParamArray** keyword allows you to provide an arbitrary number of arguments. The **ParamArray** keyword can't be used with **ByVal**, **ByRef**, or **Optional**.|
+=======
 |**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
 |**ByRef**|Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference).  **ByRef** is the default in Visual Basic.|
 |**ParamArray**|Optional. Used only as the last argument in  _arglist_ to indicate that the final argument is an **Optional**[array](../../Glossary/vbe-glossary.md#array) of **Variant** elements. The **ParamArray** keyword allows you to provide an arbitrary number of arguments. The **ParamArray** keyword can't be used with **ByVal**, **ByRef**, or **Optional**.|
+>>>>>>> master
 | _varname_|Required. Name of the variable representing the argument being passed to the procedure; follows standard variable naming conventions.|
 |**( )**|Required for array variables. Indicates that  _varname_ is an array.|
 | _type_|Optional. Data type of the argument passed to the procedure; may be  **Byte**, **Boolean**, **Integer**, **Long**, **LongLong**, **LongPtr**, **Currency**, **Single**, **Double**, **Decimal** (not currently supported), **Date**, **String** (variable length only), **Object**, **Variant**, a user-defined type, or an object type. (**LongLong** is a valid declared type only on 64-bit platforms.)|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 For  **Function** procedures, the data type of the procedure determines the data type it returns. You can use an **As** clause following _arglist_ to specify the return type of the function. Within _arglist_, you can use an **As** clause to specify the data type of any of the arguments passed to the procedure. In addition to specifying any of the standard data types, you can specify **As Any** in _arglist_ to inhibit type checking and allow any data type to be passed to the procedure.
 Empty parentheses indicate that the  **Sub** or **Function** procedure has no arguments and that Visual Basic should ensure that none are passed. In the following example, `First` takes no arguments. If you use arguments in a call to takes no arguments. If you use arguments in a call to `First`, an error occurs:
 

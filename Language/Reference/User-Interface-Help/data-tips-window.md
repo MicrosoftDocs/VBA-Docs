@@ -20,5 +20,9 @@ A box that displays the value of the variable over which your cursor is placed.
 
 For example, if you set and then set breakpoint before the end of your code, when you run your code and place your cursor over the "x", the value 5 appears in the  **Data** **Tips** window.
 
+<<<<<<< HEAD
+Available in [break mode](../../Glossary/vbe-glossary.md).
+=======
 Available in [break mode](../../Glossary/vbe-glossary.md#break-mode).
+>>>>>>> master
 

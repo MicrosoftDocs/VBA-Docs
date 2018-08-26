@@ -17,10 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Sets or returns the volume name of the specified drive. Read/write.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **VolumeName** [= _newname_ ]
+=======
 
 ## Syntax
 
 _object_. **VolumeName** [= _newname_ ]
+>>>>>>> master
 The VolumeName property has these parts:
 
 
@@ -29,8 +34,12 @@ The VolumeName property has these parts:
 | _object_|Required. Always the name of a  **Drive** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
 
+<<<<<<< HEAD
+ **Remarks**
+=======
 ## Remarks
 
+>>>>>>> master
 The following code illustrates the use of the  **VolumeName** property:
 
 
@@ -40,7 +49,11 @@ Sub ShowVolumeInfo(drvpath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(fs.GetAbsolutePathName(drvpath)))
+<<<<<<< HEAD
+    s = "Drive " &; d.DriveLetter &; ": - " &; d.VolumeName
+=======
     s = "Drive " & d.DriveLetter & ": - " & d.VolumeName
+>>>>>>> master
     MsgBox s
 End Sub
 ```

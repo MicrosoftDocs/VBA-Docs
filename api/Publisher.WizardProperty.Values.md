@@ -40,12 +40,21 @@ Dim valLoop As WizardValue
 With ActiveDocument.Wizard 
  Set valAll = .Properties(1).Values 
  
+<<<<<<< HEAD
+ MsgBox "Wizard: " &; .Name &; vbLf &; _ 
+ "Property: " &; .Properties(1).Name &; vbLf &; _ 
+ "Current value: " &; .Properties(1).CurrentValueId 
+ 
+ For Each valLoop In valAll 
+ MsgBox "Possible value: " &; valLoop.ID &; " (" &; valLoop.Name &; ")" 
+=======
  MsgBox "Wizard: " & .Name & vbLf & _ 
  "Property: " & .Properties(1).Name & vbLf & _ 
  "Current value: " & .Properties(1).CurrentValueId 
  
  For Each valLoop In valAll 
  MsgBox "Possible value: " & valLoop.ID & " (" & valLoop.Name & ")" 
+>>>>>>> master
  Next valLoop 
 End With 
 

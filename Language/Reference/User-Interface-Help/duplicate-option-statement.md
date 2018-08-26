@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Duplicate Option statement
 
+<<<<<<< HEAD
+Only one  **Option** statement of each kind may occur in each[module](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+=======
 Only one  **Option** statement of each kind may occur in each[module](../../Glossary/vbe-glossary.md#module). This error has the following cause and solution:
+>>>>>>> master
 
 
 

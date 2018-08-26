@@ -16,6 +16,11 @@ ms.date: 06/08/2017
 
 
 The  **AddIn** object provides information about an add-in to other add-ins.
+<<<<<<< HEAD
+ **Syntax**
+ _object_**.AddIn**
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -23,5 +28,6 @@ _object_**.AddIn**
 
 ## Remarks
 
+>>>>>>> master
 An  **AddIn** object is created for every add-in that appears in the Add-In Manger.
 

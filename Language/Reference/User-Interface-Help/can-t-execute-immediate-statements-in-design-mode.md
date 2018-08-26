@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Can't execute immediate statements in design mode
 
+<<<<<<< HEAD
+[Design time](../../Glossary/vbe-glossary.md) is any time that your code isn't being executed, or is suspended and waiting to be continued. This error has the following cause and solution:
+=======
 [Design time](../../Glossary/vbe-glossary.md#design-time) is any time that your code isn't being executed, or is suspended and waiting to be continued. This error has the following cause and solution:
+>>>>>>> master
 
 
 

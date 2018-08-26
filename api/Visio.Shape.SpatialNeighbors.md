@@ -110,15 +110,25 @@ Public Sub Document_ShapeAdded(ByVal Shape As IVShape)
  
  'No shapes met the criteria set by 
  'the arguments of the method. 
+<<<<<<< HEAD
+ strSpatialRelation = Shape.Name &; " is not contained." 
+=======
  strSpatialRelation = Shape.Name & " is not contained." 
+>>>>>>> master
  
  Else 
  
  'Build the positive result string. 
  For Each vsoShapeOnPage In vsoReturnedSelection 
+<<<<<<< HEAD
+ strSpatialRelation = strSpatialRelation &; _ 
+ Shape.Name &; " is contained by " &; _ 
+ vsoShapeOnPage.Name &; Chr$(10) 
+=======
  strSpatialRelation = strSpatialRelation & _ 
  Shape.Name & " is contained by " & _ 
  vsoShapeOnPage.Name & Chr$(10) 
+>>>>>>> master
  
  Next 
  

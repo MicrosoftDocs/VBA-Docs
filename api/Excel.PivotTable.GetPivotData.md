@@ -78,7 +78,11 @@ Sub UseGetPivotData()
  Set rngTableItem = ActiveCell. _ 
  PivotTable.GetPivotData("Quantity", "Warehouse", "Chairs") 
  
+<<<<<<< HEAD
+ MsgBox "The quantity of chairs in the warehouse is: " &; rngTableItem.Value 
+=======
  MsgBox "The quantity of chairs in the warehouse is: " & rngTableItem.Value 
+>>>>>>> master
  
 End Sub
 ```

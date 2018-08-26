@@ -35,7 +35,11 @@ Sub SeeAllResGroups()
  Dim ResGroupNames As String 
  
  For Each Temp In ActiveProject.ResourceGroupList 
+<<<<<<< HEAD
+ ResGroupNames = ResGroupNames &; vbCrLf &; Temp 
+=======
  ResGroupNames = ResGroupNames & vbCrLf & Temp 
+>>>>>>> master
  Next Temp 
  
  MsgBox ResGroupNames 

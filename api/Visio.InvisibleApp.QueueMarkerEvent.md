@@ -57,13 +57,21 @@ Dim WithEvents vsoApplication As Visio.Application
 Private Sub vsoApplication_MarkerEvent(ByVal app As Visio.IVApplication, _ 
  ByVal SequenceNum As Long, ByVal ContextString As String) 
  
+<<<<<<< HEAD
+ Debug.Print "Marker: " &; app.EventInfo(0) 
+=======
  Debug.Print "Marker: " & app.EventInfo(0) 
+>>>>>>> master
  
 End Sub 
  
 Private Sub vsoApplication_ShapeAdded(ByVal Shape As Visio.IVShape) 
  
+<<<<<<< HEAD
+ Debug.Print " ShapeAdded: " &; Shape.Name 
+=======
  Debug.Print " ShapeAdded: " & Shape.Name 
+>>>>>>> master
  
 End Sub 
  

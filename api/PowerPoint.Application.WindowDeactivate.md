@@ -44,19 +44,31 @@ Private Sub App_WindowDeactivate (ByVal Pres As Presentation, ByVal Wn As Docume
 
     If FindNum = 0 Then
 
+<<<<<<< HEAD
+        HTMLName = Wn.Presentation.FullName &; ".htm"
+=======
         HTMLName = Wn.Presentation.FullName & ".htm"
+>>>>>>> master
 
     Else
 
         HTMLName = Mid(Wn.Presentation.FullName, 1, FindNum - 1) _
+<<<<<<< HEAD
+            &; ".htm"
+=======
             & ".htm"
+>>>>>>> master
 
     End If
 
     Wn.Presentation.SaveCopyAs HTMLName, ppSaveAsHTML
 
     MsgBox "Presentation being saved in HTML format as " _
+<<<<<<< HEAD
+        &; HTMLName &; " ."
+=======
         & HTMLName & " ."
+>>>>>>> master
 
 End Sub
 ```

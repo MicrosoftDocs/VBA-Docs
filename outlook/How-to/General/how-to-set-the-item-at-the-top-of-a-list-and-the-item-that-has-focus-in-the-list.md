@@ -61,7 +61,11 @@ Sub Item_Open()
  Set Label2 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label2") 
  
  For i = 0 To 24 
+<<<<<<< HEAD
+ ListBox1.AddItem "Choice " &; (i + 1) 
+=======
  ListBox1.AddItem "Choice " & (i + 1) 
+>>>>>>> master
  Next 
  ListBox1.Height = 66 
  CommandButton1.Caption = "Move to top of list" 

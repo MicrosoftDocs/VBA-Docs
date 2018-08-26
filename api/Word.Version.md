@@ -24,8 +24,13 @@ Use  **Versions** (Index), where Index is the index number, to return a single *
 ```vb
 If ActiveDocument.Versions.Count >= 1 Then 
  With ActiveDocument.Versions(1) 
+<<<<<<< HEAD
+ MsgBox "Comment = " &; .Comment &; vbCr &; "Author = " &; _ 
+ .SavedBy &; vbCr &; "Date = " &; .Date 
+=======
  MsgBox "Comment = " & .Comment & vbCr & "Author = " & _ 
  .SavedBy & vbCr & "Date = " & .Date 
+>>>>>>> master
  End With 
 End If
 ```

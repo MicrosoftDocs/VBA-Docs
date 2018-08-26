@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Statement invalid inside Type block
 
+<<<<<<< HEAD
+Only element names, their  **As**_type_ clauses, and[comments](../../Glossary/vbe-glossary.md) are allowed within a **Type...End Type** statement block. This error has the following cause and solution:
+
+
+
+- You placed an invalid statement in [user-defined type](../../Glossary/vbe-glossary.md) definition.
+=======
 Only element names, their  **As**_type_ clauses, and[comments](../../Glossary/vbe-glossary.md#comment) are allowed within a **Type...End Type** statement block. This error has the following cause and solution:
 
 
 
 - You placed an invalid statement in [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) definition.
+>>>>>>> master
     
     Remove anything that isn't a comment, an element name, or an  **As**_type_ clause.
     

@@ -57,7 +57,11 @@ The following example displays the day of the week (for example, Thursday) in th
 Sub FormatCalendarDays() 
       CalendarDateBoxesEx Topleft:=pjOverflowIndicator, TopRight:=pjDay_mmm_dd, _ 
         BottomLeft:=pjCalendarLabelDayOfYear_dd_yyyy, _ 
+<<<<<<< HEAD
+        TopColor:=&;HE0E8E8, BottomColor:=&;H1E8E8 
+=======
         TopColor:=&HE0E8E8, BottomColor:=&H1E8E8 
+>>>>>>> master
 End Sub
 ```
 

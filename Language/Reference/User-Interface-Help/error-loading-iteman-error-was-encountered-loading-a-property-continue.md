@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Error loading 'item'. An error was encountered loading a property. Continue?
 
+<<<<<<< HEAD
+You may have tried to load a form with controls whose names conflict with forms already in the [project](../../Glossary/vbe-glossary.md). For example, loading Form2 that contains a Form1 control triggers this error.
+=======
 You may have tried to load a form with controls whose names conflict with forms already in the [project](../../Glossary/vbe-glossary.md#project). For example, loading Form2 that contains a Form1 control triggers this error.
+>>>>>>> master
 
 

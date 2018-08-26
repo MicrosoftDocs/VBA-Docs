@@ -13,17 +13,28 @@ ms.date: 06/08/2017
 
 Assigns an output line width to a file opened using the  **Open** statement.
 
+<<<<<<< HEAD
+ **Syntax**
+
+ **Width #**_filenumber_, _width_
+=======
 ## Syntax
 
 **Width #**_filenumber_, _width_
+>>>>>>> master
 
 The  **Width #** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
+| _width_|Required. [Numeric expression](../../Glossary/vbe-glossary.md) in the range 0-255, inclusive, that indicates how many characters appear on a line before a new line is started. If _width_ equals 0, there is no limit to the length of a line. The default value for _width_ is 0.|
+=======
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _width_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) in the range 0-255, inclusive, that indicates how many characters appear on a line before a new line is started. If _width_ equals 0, there is no limit to the length of a line. The default value for _width_ is 0.|
+>>>>>>> master
 
 ## Example
 

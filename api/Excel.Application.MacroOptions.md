@@ -48,7 +48,10 @@ The following table lists which integers are mapped to the built-in categories t
 
 
 | **Integer**| **Category**|
+<<<<<<< HEAD
+=======
 |:---|:---|
+>>>>>>> master
 |1| **Financial**|
 |2| **Date &; Time**|
 |3| **Math &; Trig**|

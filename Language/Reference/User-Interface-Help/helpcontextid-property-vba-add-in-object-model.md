@@ -13,5 +13,9 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns or sets a [String](../../Glossary/vbe-glossary.md) containing the context ID for a topic in a Microsoft Windows Help file. Read/write.
+=======
 Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the context ID for a topic in a Microsoft Windows Help file. Read/write.
+>>>>>>> master
 

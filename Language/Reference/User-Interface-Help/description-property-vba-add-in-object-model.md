@@ -13,10 +13,16 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md) containing a descriptive string associated with an object. For the **VBProject** object, read/write; for the **Reference** object, read-only.
+ **Remarks**
+For the  **VBProject** object, the **Description** property returns or sets a descriptive string associated with the active[project](../../Glossary/vbe-glossary.md).
+=======
 Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. For the **VBProject** object, read/write; for the **Reference** object, read-only.
 
 ## Remarks
 
 For the  **VBProject** object, the **Description** property returns or sets a descriptive string associated with the active[project](../../Glossary/vbe-glossary.md#project).
+>>>>>>> master
 For the  **Reference** object, the **Description** property returns the descriptive name of the reference.
 

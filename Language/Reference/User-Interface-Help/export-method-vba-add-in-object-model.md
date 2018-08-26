@@ -14,19 +14,31 @@ ms.date: 06/08/2017
 
 
 Saves a component as a separate file or files.
+<<<<<<< HEAD
+ **Syntax**
+ _object_**.Export(**_filename_**)**
+=======
 
 ## Syntax
 
 _object_**.Export(**_filename_**)**
+>>>>>>> master
 The  **Export** syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
+| _filename_|Required. A [String](../../Glossary/vbe-glossary.md) specifying the name of the file that you want to export the component to.|
+
+ **Remarks**
+=======
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) specifying the name of the file that you want to export the component to.|
 
 ## Remarks
 
+>>>>>>> master
 When you use the  **Export** method to save a component as a separate file or files, use a file name that doesn't already exist; otherwise, an error occurs.
 

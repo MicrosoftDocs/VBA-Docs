@@ -54,17 +54,28 @@ Sub UseCustomProjectGuide()
  
    Dim ProjectGuideURL As String 
    ProjectGuideURL = InputBox$(Prompt:="Enter the path and " _ 
+<<<<<<< HEAD
+      &; "file name of the XML file for custom Project " _ 
+      &; "Guide content." &; Chr(13) _ 
+      &; "For example, path \filename ") 
+=======
       & "file name of the XML file for custom Project " _ 
       & "Guide content." & Chr(13) _ 
       & "For example, path \filename ") 
+>>>>>>> master
    If ProjectGuideURL = Empty Then 
       Exit Sub 
    Else 
       ActiveProject.ProjectGuideUseDefaultContent = False 
       ActiveProject.ProjectGuideContent = ProjectGuideURL 
       MsgBox Prompt:="The custom Project Guide content " _ 
+<<<<<<< HEAD
+         &; "defined in " &; ProjectGuideURL &; " is " _ 
+         &; "now in use for the current project." 
+=======
          & "defined in " & ProjectGuideURL & " is " _ 
          & "now in use for the current project." 
+>>>>>>> master
    End If 
 End Sub
 ```

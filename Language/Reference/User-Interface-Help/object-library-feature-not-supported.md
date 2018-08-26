@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Object library feature not supported
 
+<<<<<<< HEAD
+It's possible to have features in an [object library](../../Glossary/vbe-glossary.md) that have no equivalent in Visual Basic. This error has the following cause and solution:
+
+
+
+- An attempt was made to access an object library [data type](../../Glossary/vbe-glossary.md) or function that can't be supported by Visual Basic.
+=======
 It's possible to have features in an [object library](../../Glossary/vbe-glossary.md#object-library) that have no equivalent in Visual Basic. This error has the following cause and solution:
 
 
 
 - An attempt was made to access an object library [data type](../../Glossary/vbe-glossary.md#data-type) or function that can't be supported by Visual Basic.
+>>>>>>> master
     
     Contact the creator of the object library for more information on when it is appropriate to use the object library, and the tools with which it should be used.
     

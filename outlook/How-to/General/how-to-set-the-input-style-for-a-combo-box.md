@@ -39,7 +39,11 @@ Sub Item_Open()
  Set OptionButton2 = Item.GetInspector.ModifiedFormPages("P.2").Controls("OptionButton2") 
  
  For i = 1 To 10 
+<<<<<<< HEAD
+ ComboBox1.AddItem "Choice " &; i 
+=======
  ComboBox1.AddItem "Choice " & i 
+>>>>>>> master
  Next 
  
  OptionButton1.Caption = "Select like ComboBox" 

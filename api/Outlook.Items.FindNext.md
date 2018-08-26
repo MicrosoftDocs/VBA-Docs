@@ -52,7 +52,11 @@ Sub DemoFindNext()
  tdystart = VBA.Format(Now, "Short Date") 
  tdyend = VBA.Format(Now + 1, "Short Date") 
  Set myAppointments = myNameSpace.GetDefaultFolder(olFolderCalendar).Items 
+<<<<<<< HEAD
+ Set currentAppointment = myAppointments.Find("[Start] >= """ &; tdystart &; """ and [Start] <= """ &; tdyend &; """") 
+=======
  Set currentAppointment = myAppointments.Find("[Start] >= """ & tdystart & """ and [Start] <= """ & tdyend & """") 
+>>>>>>> master
  While TypeName(currentAppointment) <> "Nothing" 
  MsgBox currentAppointment.Subject 
  Set currentAppointment = myAppointments.FindNext 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Code Command (View Menu)
 
+<<<<<<< HEAD
+Displays or activates the  **Code** window for a currently selected[object](../../Glossary/vbe-glossary.md).
+=======
 Displays or activates the  **Code** window for a currently selected[object](../../Glossary/vbe-glossary.md#object).
+>>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_code_ZA01201689.gif). Keyboard shortcut: F7.

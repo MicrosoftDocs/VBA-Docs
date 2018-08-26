@@ -15,7 +15,11 @@ ms.date: 06/08/2017
 
 Automatically displays all of the declared variables in the current procedure and their values.
 
+<<<<<<< HEAD
+When the  **Locals** window is visible, it is automatically updated every time there is a change from Run to[Break mode](../../Glossary/vbe-glossary.md) or you navigate in the stack display.
+=======
 When the  **Locals** window is visible, it is automatically updated every time there is a change from Run to[Break mode](../../Glossary/vbe-glossary.md#break-mode) or you navigate in the stack display.
+>>>>>>> master
 
 You can:
 

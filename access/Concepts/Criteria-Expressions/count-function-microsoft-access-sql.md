@@ -37,11 +37,11 @@ SELECT Count(*)
 AS TotalOrders FROM Orders;
 ```
 
-If  _expr_ identifies multiple fields, the **Count** function counts a record only if at least one of the fields is not **Null**. If all of the specified fields are **Null**, the record is not counted. Separate the field names with an ampersand (&;). The following example shows how you can limit the count to records in which either ShippedDate or Freight is not **Null**:
+If  _expr_ identifies multiple fields, the **Count** function counts a record only if at least one of the fields is not **Null**. If all of the specified fields are **Null**, the record is not counted. Separate the field names with an ampersand (&). The following example shows how you can limit the count to records in which either ShippedDate or Freight is not **Null**:
 
 ```sql
 SELECT 
-Count('ShippedDate &; Freight') 
+Count('ShippedDate & Freight') 
 AS [Not Null] FROM Orders;
 ```
 
@@ -87,12 +87,12 @@ End Sub
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-- [Search for specific Access error codes on Bing](https://www.bing.com/)<br>
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)<br>
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)<br>
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)<br>
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](https://www.bing.com/)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 

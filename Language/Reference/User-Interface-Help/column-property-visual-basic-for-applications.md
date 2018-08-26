@@ -15,6 +15,12 @@ ms.date: 06/08/2017
 
  **Description**
 Read-only property that returns the column number of the current character position in a  **TextStream** file.
+<<<<<<< HEAD
+ **Syntax**
+ _object_**.Column**
+The  _object_ is always the name of a **TextStream** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -23,5 +29,6 @@ The  _object_ is always the name of a **TextStream** object.
 
 ## Remarks
 
+>>>>>>> master
 After a newline character has been written, but before any other character is written,  **Column** is equal to 1.
 

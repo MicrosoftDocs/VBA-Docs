@@ -45,7 +45,11 @@ This example allows you to specify the percentage you want to crop off the top o
 
 ```vb
 percentToCrop = InputBox( _ 
+<<<<<<< HEAD
+ "What percentage do you want to crop" &; _ 
+=======
  "What percentage do you want to crop" & _ 
+>>>>>>> master
  " off the top of this picture?") 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1) 
 With shapeToCrop.Duplicate 

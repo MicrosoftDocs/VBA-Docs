@@ -49,7 +49,11 @@ The following example selects the "Name" field of row 4 as the beginning field i
 ```vb
 Sub Select_Beginning() 
  
+<<<<<<< HEAD
+ ViewApply Name:="&;Gantt Chart" 
+=======
  ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  SelectTaskField Row:=4, Column:="Name", RowRelative:=False 
  
  SelectBeginning Extend:=True 

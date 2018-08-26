@@ -73,7 +73,11 @@ Public Sub VBAEnabled_Example()
  blsStatus = Application.VBAEnabled 
  If Not blsStatus Then 
  
+<<<<<<< HEAD
+ MsgBox "For this process to continue, VBA must be enabled." &; _ 
+=======
  MsgBox "For this process to continue, VBA must be enabled." & _ 
+>>>>>>> master
  " Please enable VBA and start over." 
  
  Else 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # You must save a project before you can reference it.
 
+<<<<<<< HEAD
+You can't add a reference to an unsaved [project](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+=======
 You can't add a reference to an unsaved [project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
+>>>>>>> master
 
 
 

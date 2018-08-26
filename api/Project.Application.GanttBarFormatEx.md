@@ -69,8 +69,13 @@ The following example displays a medium red diamond shape for the start of the t
 Sub GanttBar_Format() 
  
     'Activate Gantt Chart view 
+<<<<<<< HEAD
+    ViewApply Name:="&;Gantt Chart" 
+    GanttBarFormatEx TaskID:=3, StartShape:=pjDiamond, StartType:=pjSolid, StartColor:=&;H8888FF
+=======
     ViewApply Name:="&Gantt Chart" 
     GanttBarFormatEx TaskID:=3, StartShape:=pjDiamond, StartType:=pjSolid, StartColor:=&H8888FF
+>>>>>>> master
 End Sub
 ```
 

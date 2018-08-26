@@ -54,7 +54,11 @@ Private Sub PPTApp_PresentationBeforeSave(ByVal Pres As Presentation, _
 
     If Pres.HasRevisionInfo Then
 
+<<<<<<< HEAD
+        intResponse = MsgBox(Prompt:="The presentation contains revisions. " &; _
+=======
         intResponse = MsgBox(Prompt:="The presentation contains revisions. " & _
+>>>>>>> master
             "Do you want to accept the revisions before saving?", Buttons:=vbYesNo)
 
         If intResponse = vbYes Then
@@ -76,4 +80,8 @@ End Sub
 
 [Application Object](PowerPoint.Application.md)
 
+<<<<<<< HEAD
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
+=======
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
+>>>>>>> master

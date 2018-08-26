@@ -35,7 +35,11 @@ This example determines whether the first file converter is able to open files.
 
 ```vb
 If FileConverters(1).CanOpen = True Then 
+<<<<<<< HEAD
+ MsgBox FileConverters(1).FormatName &; " can open files" 
+=======
  MsgBox FileConverters(1).FormatName & " can open files" 
+>>>>>>> master
 End If
 ```
 

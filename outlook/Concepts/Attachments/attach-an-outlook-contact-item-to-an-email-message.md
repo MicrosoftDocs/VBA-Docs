@@ -141,7 +141,11 @@ Public Class ThisAddIn
      
         ' Replace the SMTP address for sending.
         SendMailItem(Application, "Outlook started",
+<<<<<<< HEAD
+            "Outlook started at " &; DateTime.Now, recipients,
+=======
             "Outlook started at " & DateTime.Now, recipients,
+>>>>>>> master
             "john@contoso.com")
     End Sub
  

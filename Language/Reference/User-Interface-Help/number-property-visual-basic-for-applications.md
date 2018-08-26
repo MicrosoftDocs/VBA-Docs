@@ -14,10 +14,15 @@ ms.date: 06/08/2017
 
 
 Returns or sets a numeric value specifying an error.  **Number** is the **Err** object's default property. Read/write.
+<<<<<<< HEAD
+ **Remarks**
+When returning a user-defined error from an object, set  **Err.Number** by adding the number you selected as an error code to the **vbObjectError**[constant](../../Glossary/vbe-glossary.md). For example, you use the following code to return the number 1051 as an error code:
+=======
 
 ## Remarks
 
 When returning a user-defined error from an object, set  **Err.Number** by adding the number you selected as an error code to the **vbObjectError**[constant](../../Glossary/vbe-glossary.md#constant). For example, you use the following code to return the number 1051 as an error code:
+>>>>>>> master
 
 
 
@@ -63,6 +68,15 @@ MyError = Err. Number - vbObjectError
 ' in the range 0-65,535, it is an object-defined error code.
 If MyError > 0 And MyError < 65535 Then
     Msg = "The object you accessed assigned this number to the error: " _
+<<<<<<< HEAD
+             &; MyError &; ". The originator of the error was: " _
+            &; Err.Source &; ". Press F1 to see originator's Help topic."
+' Otherwise it is a Visual Basic error number.
+Else
+    Msg = "This error (# " &; Err. Number &; ") is a Visual Basic error" &; _
+            " number. Press Help button or F1 for the Visual Basic Help" _
+            &; " topic for this error."
+=======
              & MyError & ". The originator of the error was: " _
             & Err.Source & ". Press F1 to see originator's Help topic."
 ' Otherwise it is a Visual Basic error number.
@@ -70,6 +84,7 @@ Else
     Msg = "This error (# " & Err. Number & ") is a Visual Basic error" & _
             " number. Press Help button or F1 for the Visual Basic Help" _
             & " topic for this error."
+>>>>>>> master
 End If
     MsgBox Msg, , "Object Error", Err.HelpFile, Err.HelpContext
 

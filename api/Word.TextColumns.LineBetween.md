@@ -37,7 +37,11 @@ This example cycles through each section in the active document and displays a m
 i = 1 
 For each s in ActiveDocument.Sections 
  If s.PageSetup.TextColumns.LineBetween = True Then 
+<<<<<<< HEAD
+ MsgBox "The columns in section " &; i &; " contain lines." 
+=======
  MsgBox "The columns in section " & i & " contain lines." 
+>>>>>>> master
  End If 
  i = i + 1 
 Next s

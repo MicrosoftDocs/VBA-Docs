@@ -40,8 +40,13 @@ This example displays the number of rows and columns in the print area on the ac
 
 ```vb
 p = Sheets(ActiveSheet.Name).Names("Print_Area").RefersToRange.Value 
+<<<<<<< HEAD
+MsgBox "Print_Area: " &; UBound(p, 1) &; " rows, " &; _ 
+ UBound(p, 2) &; " columns"
+=======
 MsgBox "Print_Area: " & UBound(p, 1) & " rows, " & _ 
  UBound(p, 2) & " columns"
+>>>>>>> master
 ```
 
 

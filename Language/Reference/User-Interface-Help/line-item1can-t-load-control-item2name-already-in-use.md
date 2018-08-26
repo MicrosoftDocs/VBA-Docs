@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Line 'item1': Can't load control 'item2'; name already in use.
 
+<<<<<<< HEAD
+The [control](../../Glossary/vbe-glossary.md) named in the ASCII text file couldn't be loaded because its name is already in use in the application.
+=======
 The [control](../../Glossary/vbe-glossary.md#control) named in the ASCII text file couldn't be loaded because its name is already in use in the application.
+>>>>>>> master
 
 

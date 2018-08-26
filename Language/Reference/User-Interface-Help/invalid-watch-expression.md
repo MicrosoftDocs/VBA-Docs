@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Invalid watch expression
 
+<<<<<<< HEAD
+The specified [watch expression](../../Glossary/vbe-glossary.md) isn't a valid[expression](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+
+
+
+- The watch expression is syntactically incorrect. Check the syntax of all components in the expression. Note that the syntax for a watch expression corresponds to the [locale](../../Glossary/vbe-glossary.md) of the[project](../../Glossary/vbe-glossary.md) in which the expression being watched is defined.
+=======
 The specified [watch expression](../../Glossary/vbe-glossary.md#watch-expression) isn't a valid[expression](../../Glossary/vbe-glossary.md#expression). This error has the following cause and solution:
 
 
 
 - The watch expression is syntactically incorrect. Check the syntax of all components in the expression. Note that the syntax for a watch expression corresponds to the [locale](../../Glossary/vbe-glossary.md#locale) of the[project](../../Glossary/vbe-glossary.md#project) in which the expression being watched is defined.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

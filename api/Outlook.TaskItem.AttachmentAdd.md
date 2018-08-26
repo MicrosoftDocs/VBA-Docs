@@ -46,7 +46,11 @@ Private Sub newItem_AttachmentAdd(ByVal newAttachment As Attachment)
  
  If newItem.Size > 500000 Then 
  
+<<<<<<< HEAD
+ MsgBox "Warning: Item size is now " &; newItem.Size &; " bytes." 
+=======
  MsgBox "Warning: Item size is now " & newItem.Size & " bytes." 
+>>>>>>> master
  
  End If 
  

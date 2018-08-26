@@ -11,6 +11,16 @@ ms.date: 06/08/2017
 
 # Option Base Statement
 
+<<<<<<< HEAD
+Used at [module level](../../Glossary/vbe-glossary.md) to declare the default lower bound for[array](../../Glossary/vbe-glossary.md) subscripts.
+
+ **Syntax**
+
+ **Option Base** { **0** |**1** }
+
+ **Remarks**
+Because the default base is  **0**, the **Option Base** statement is never required. If used, the[statement](../../Glossary/vbe-glossary.md) must appear in a[module](../../Glossary/vbe-glossary.md) before any[procedures](../../Glossary/vbe-glossary.md).  **Option** **Base** can appear only once in a module and must precede array[declarations](../../Glossary/vbe-glossary.md) that include dimensions.
+=======
 Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare the default lower bound for[array](../../Glossary/vbe-glossary.md#array) subscripts.
 
 ## Syntax
@@ -20,6 +30,7 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare t
 ## Remarks
 
 Because the default base is  **0**, the **Option Base** statement is never required. If used, the[statement](../../Glossary/vbe-glossary.md#statement) must appear in a[module](../../Glossary/vbe-glossary.md#module) before any[procedures](../../Glossary/vbe-glossary.md#procedure).  **Option** **Base** can appear only once in a module and must precede array[declarations](../../Glossary/vbe-glossary.md#declaration) that include dimensions.
+>>>>>>> master
 
  **Note**  The  **To** clause in the **Dim**, **Private**, **Public**, **ReDim**, and **Static** statements provides a more flexible way to control the range of an array's subscripts. However, if you don't explicitly set the lower bound with a **To** clause, you can use **Option Base** to change the default lower bound to 1. The base of an array created with the the **ParamArray** keyword is zero; **Option Base** does not affect **ParamArray** (or the **Array** function, when qualified with the name of its type library, for example **VBA.Array**).
 

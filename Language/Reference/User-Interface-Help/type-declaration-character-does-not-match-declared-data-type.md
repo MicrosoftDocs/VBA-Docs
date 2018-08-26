@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Type-declaration character does not match declared data type
 
+<<<<<<< HEAD
+The [data type](../../Glossary/vbe-glossary.md) of a[variable](../../Glossary/vbe-glossary.md) can't be changed by appending the[type-declaration character](../../Glossary/vbe-glossary.md) for another type. This error has the following cause and solution:
+
+
+
+- You declared a variable of a specific type, referenced a variable of the same name in the same [scope](../../Glossary/vbe-glossary.md), and then appended an inconsistent type-declaration character.
+=======
 The [data type](../../Glossary/vbe-glossary.md#data-type) of a[variable](../../Glossary/vbe-glossary.md#variable) can't be changed by appending the[type-declaration character](../../Glossary/vbe-glossary.md#type-declaration-character) for another type. This error has the following cause and solution:
 
 
 
 - You declared a variable of a specific type, referenced a variable of the same name in the same [scope](../../Glossary/vbe-glossary.md#scope), and then appended an inconsistent type-declaration character.
+>>>>>>> master
     
     If you want to be able to change the type of data assigned to a variable, declare the variable as a  **Variant**. If you simply appended an incorrect type-declaration character, delete or change it.
     

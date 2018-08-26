@@ -47,7 +47,11 @@ Private Sub CommandButton2_Click()
 'Get standard format from Clipboard 
  If MyDataObject.GetFormat(1) = True Then 
  Label1.Caption = "Std format - " _ 
+<<<<<<< HEAD
+ &; MyDataObject.GetText(1) 
+=======
  & MyDataObject.GetText(1) 
+>>>>>>> master
  End If 
 End Sub 
  
@@ -66,7 +70,11 @@ Private Sub CommandButton4_Click()
 'Get custom format from Clipboard 
  If MyDataObject.GetFormat(233) = True Then 
  Label1.Caption = "Cust format - " _ 
+<<<<<<< HEAD
+ &; MyDataObject.GetText(233) 
+=======
  & MyDataObject.GetText(233) 
+>>>>>>> master
 End If 
 End Sub 
  

@@ -31,7 +31,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 ```vb
 Private Sub CommandButton1_Click() 
  MsgBox "Watch CommandButton1 to see if it " _ 
+<<<<<<< HEAD
+ &; "takes the focus." 
+=======
  & "takes the focus." 
+>>>>>>> master
 End Sub 
  
 Private Sub ToggleButton1_Click() 

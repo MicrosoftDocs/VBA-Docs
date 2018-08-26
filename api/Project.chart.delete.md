@@ -43,8 +43,13 @@ Sub DeleteCharts()
     ' Delete every chart on the report.
     For Each chartShape In chartReport.Shapes
         If chartShape.Type = msoChart Then
+<<<<<<< HEAD
+            Debug.Print "Deleting chart: '" &; chartShape.Name _
+                &; "' from report: " &; reportName
+=======
             Debug.Print "Deleting chart: '" & chartShape.Name _
                 & "' from report: " & reportName
+>>>>>>> master
             chartShape.Delete
         End If
     Next chartShape

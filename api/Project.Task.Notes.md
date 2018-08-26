@@ -35,7 +35,11 @@ The following example adds a comment to the notes of the task in the active cell
 
 ```vb
 Sub AddDelayNote() 
+<<<<<<< HEAD
+ ActiveCell.Task.Notes = ActiveCell.Task.Notes &; vbCrLf &; vbCrLf &; "This task can be delayed." 
+=======
  ActiveCell.Task.Notes = ActiveCell.Task.Notes & vbCrLf & vbCrLf & "This task can be delayed." 
+>>>>>>> master
 End Sub
 ```
 

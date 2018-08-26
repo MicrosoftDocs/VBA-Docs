@@ -47,9 +47,15 @@ Sub SaveWorkspaceByProjectName()
     Dim WSName As String 
  
     If InStr(Projects(1).Name, ".") Then 
+<<<<<<< HEAD
+        WSName = Left$(Projects(1).Name, Len(Projects(1).Name) - 1) &; "W" 
+    Else 
+        WSName = Projects(1).Name &; ".MPW" 
+=======
         WSName = Left$(Projects(1).Name, Len(Projects(1).Name) - 1) & "W" 
     Else 
         WSName = Projects(1).Name & ".MPW" 
+>>>>>>> master
     End If 
  
     FileSaveWorkspace WSName 

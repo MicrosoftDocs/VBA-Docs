@@ -13,6 +13,14 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Clears all [property](../../Glossary/vbe-glossary.md) settings of the **Err** object.
+ **Syntax**
+ _object_**.Clear**
+The  _object_ is always the **Err** object.
+ **Remarks**
+Use  **Clear** to explicitly clear the **Err** object after an error has been handled, for example, when you use deferred error handling with **On Error Resume Next**. The **Clear** method is called automatically whenever any of the following[statements](../../Glossary/vbe-glossary.md) is executed:
+=======
 Clears all [property](../../Glossary/vbe-glossary.md#property) settings of the **Err** object.
 
 ## Syntax
@@ -23,6 +31,7 @@ The  _object_ is always the **Err** object.
 ## Remarks
 
 Use  **Clear** to explicitly clear the **Err** object after an error has been handled, for example, when you use deferred error handling with **On Error Resume Next**. The **Clear** method is called automatically whenever any of the following[statements](../../Glossary/vbe-glossary.md#statement) is executed:
+>>>>>>> master
 
 
 - Any type of  **Resume** statement

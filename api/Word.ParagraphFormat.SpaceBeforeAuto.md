@@ -39,6 +39,16 @@ This example displays a report showing the  **SpaceBeforeAuto** settings for the
 Select Case ActiveDocument.Range.ParagraphFormat.SpaceBeforeAuto 
  Case True 
  x = "Spacing before paragraphs is handled " _ 
+<<<<<<< HEAD
+ &; "automatically for all paragraphs." 
+ Case False 
+ x = "Spacing before paragraphs is handled " _ 
+ &; "manually for all paragraphs." 
+ Case wdUndefined 
+ x = "Spacing before paragraphs is handled " _ 
+ &; "automatically for some paragraphs, " _ 
+ &; "manually for some paragraphs." 
+=======
  & "automatically for all paragraphs." 
  Case False 
  x = "Spacing before paragraphs is handled " _ 
@@ -47,6 +57,7 @@ Select Case ActiveDocument.Range.ParagraphFormat.SpaceBeforeAuto
  x = "Spacing before paragraphs is handled " _ 
  & "automatically for some paragraphs, " _ 
  & "manually for some paragraphs." 
+>>>>>>> master
 End Select
 ```
 

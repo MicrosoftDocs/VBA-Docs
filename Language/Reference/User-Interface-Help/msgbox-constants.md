@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # MsgBox Constants
 
+<<<<<<< HEAD
+The following [constants](../../Glossary/vbe-glossary.md) can be used anywhere in your code in place of the actual values:
+=======
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+>>>>>>> master
 
 
 ## MsgBox Arguments

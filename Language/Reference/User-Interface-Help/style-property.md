@@ -13,9 +13,13 @@ ms.date: 06/08/2017
 
 
 For  **ComboBox**, specifies how the user can choose or set the control's value. For **MultiPage** and **TabStrip**, identifies the style of the tabs on the control.
+<<<<<<< HEAD
+ **Syntax**
+=======
 
 ## Syntax
 
+>>>>>>> master
 For ComboBox _object_. **Style** [= _fmStyle_ ]
 For MultiPage and TabStrip _object_. **Style** [= _fmTabStyle_ ]
 The  **Style** property syntax has these parts:

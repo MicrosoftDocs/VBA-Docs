@@ -59,12 +59,28 @@ Sub TestTaskPath()
             Debug.Print
             
             With ActiveSelection.Tasks(1)
+<<<<<<< HEAD
+                Debug.Print "Selected task ID " &; .UniqueID &; ", name: " &; .Name
+=======
                 Debug.Print "Selected task ID " & .UniqueID & ", name: " & .Name
+>>>>>>> master
             End With
                         
             For Each chkTsk In ActiveProject.Tasks
                 If Not (chkTsk.ID = selectedTaskId) Then
                     If chkTsk.PathPredecessor Then
+<<<<<<< HEAD
+                        Debug.Print vbTab &; chkTsk.Name &; ": PathPredecessor"
+                    End If
+                    If chkTsk.PathDrivingPredecessor Then
+                        Debug.Print vbTab &; chkTsk.Name &; ": PathDrivingPredecessor"
+                    End If
+                    If chkTsk.PathSuccessor Then
+                        Debug.Print vbTab &; chkTsk.Name &; ": PathSuccessor"
+                    End If
+                    If chkTsk.PathDrivenSuccessor Then
+                        Debug.Print vbTab &; chkTsk.Name &; ": PathDrivenSuccessor"
+=======
                         Debug.Print vbTab & chkTsk.Name & ": PathPredecessor"
                     End If
                     If chkTsk.PathDrivingPredecessor Then
@@ -75,6 +91,7 @@ Sub TestTaskPath()
                     End If
                     If chkTsk.PathDrivenSuccessor Then
                         Debug.Print vbTab & chkTsk.Name & ": PathDrivenSuccessor"
+>>>>>>> master
                     End If
                 End If
             Next chkTsk

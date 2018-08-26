@@ -40,7 +40,11 @@ Dim styleLoop As Style
  
 Set docActive = ActiveDocument 
  
+<<<<<<< HEAD
+strMessage = "Styles in use:" &; vbCr 
+=======
 strMessage = "Styles in use:" & vbCr 
+>>>>>>> master
  
 For Each styleLoop In docActive.Styles 
  If styleLoop.InUse = True Then 
@@ -51,7 +55,11 @@ For Each styleLoop In docActive.Styles
  .Style = styleLoop 
  .Execute Format:=True 
  If .Found = True Then 
+<<<<<<< HEAD
+ strMessage = strMessage &; styleLoop.Name &; vbCr 
+=======
  strMessage = strMessage & styleLoop.Name & vbCr 
+>>>>>>> master
  End If 
  End With 
  End If 

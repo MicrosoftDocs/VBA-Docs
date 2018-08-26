@@ -50,7 +50,11 @@ Private Sub App_ProtectedViewWindowBeforeClose(ByVal PvWindow As ProtectedViewWi
 Dim intResponse As Integer 
  
     intResponse = MsgBox("Do you really " _ 
+<<<<<<< HEAD
+        &; "want to close the document?", _ 
+=======
         & "want to close the document?", _ 
+>>>>>>> master
         vbYesNo) 
  
     If intResponse = vbNo Then Cancel = True 

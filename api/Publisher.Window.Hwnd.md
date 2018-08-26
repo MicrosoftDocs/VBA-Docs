@@ -34,7 +34,11 @@ The following example displays the handle to the Publisher application window.
 
 
 ```vb
+<<<<<<< HEAD
+MsgBox "The handle to the Publisher application window is " &; _ 
+=======
 MsgBox "The handle to the Publisher application window is " & _ 
+>>>>>>> master
  Application.ActiveWindow.Hwnd
 ```
 

@@ -57,7 +57,11 @@ The following example creates a consolidated project, prints a report, and close
 
 ```vb
 Sub ConsolidatedReport() 
+<<<<<<< HEAD
+    ConsolidateProjects Filenames:="project1.mpp" &; ListSeparator &; "project2.mpp" 
+=======
     ConsolidateProjects Filenames:="project1.mpp" & ListSeparator & "project2.mpp" 
+>>>>>>> master
     ReportPrint Name:="Project Summary" 
     FileClose Save:=pjDoNotSave 
 End Sub

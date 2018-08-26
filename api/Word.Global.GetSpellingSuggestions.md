@@ -54,10 +54,17 @@ Sub DisplaySuggestions()
  MsgBox "No suggestions." 
  Else 
  For Each sug In sugList 
+<<<<<<< HEAD
+ strSugList = strSugList &; vbTab &; sug.Name &; vbLf 
+ Next sug 
+ MsgBox "The suggestions for this word are: " _ 
+ &; vbLf &; strSugList 
+=======
  strSugList = strSugList & vbTab & sug.Name & vbLf 
  Next sug 
  MsgBox "The suggestions for this word are: " _ 
  & vbLf & strSugList 
+>>>>>>> master
  End If 
 End Sub
 ```

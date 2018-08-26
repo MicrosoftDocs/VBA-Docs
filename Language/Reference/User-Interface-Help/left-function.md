@@ -19,7 +19,6 @@ Returns a **Variant** (**String**) containing a specified number of characters f
 
 The **Left** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which the leftmost characters are returned. If **_string_** contains [Null](../../Glossary/vbe-glossary.md#null), Null is returned.|
@@ -27,7 +26,7 @@ The **Left** function syntax has these [named arguments](../../Glossary/vbe-glos
 
 ## Remarks
 
-To determine the number of characters in **_string_**, use the **Len** function.
+To determine the number of characters in  **_string_**, use the **Len** function.
 
 > [!NOTE] 
 > Use the **LeftB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.

@@ -13,21 +13,34 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
+Used to perform logical negation on an [expression](../../Glossary/vbe-glossary.md).
+ **Syntax**
+ _result_**=** **Not**_expression_
+=======
 Used to perform logical negation on an [expression](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
 _result_**=** **Not**_expression_
+>>>>>>> master
 The  **Not** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
+| _expression_|Required; any expression.|
+
+ **Remarks**
+=======
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression_|Required; any expression.|
 
 ## Remarks
 
+>>>>>>> master
 The following table illustrates how  _result_ is determined:
 
 
@@ -35,7 +48,11 @@ The following table illustrates how  _result_ is determined:
 |:-----|:-----|
 |**True**|**False**|
 |**False**|**True**|
+<<<<<<< HEAD
+|[Null](../../Glossary/vbe-glossary.md)|**Null**|
+=======
 |[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
+>>>>>>> master
 
 In addition, the  **Not** operator inverts the bit values of any variable and sets the corresponding bit in _result_ according to the following table:
 

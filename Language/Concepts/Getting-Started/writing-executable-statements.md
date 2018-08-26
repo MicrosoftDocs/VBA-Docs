@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Writing Executable Statements
 
+<<<<<<< HEAD
+An executable [statement](../../Glossary/vbe-glossary.md) initiates action. It can execute a[method](../../Glossary/vbe-glossary.md) or function, and it can loop or branch through blocks of code. Executable statements often contain mathematical or conditional operators.
+=======
 An executable [statement](../../Glossary/vbe-glossary.md#statement) initiates action. It can execute a[method](../../Glossary/vbe-glossary.md#method) or function, and it can loop or branch through blocks of code. Executable statements often contain mathematical or conditional operators.
+>>>>>>> master
 
 The following example uses a  **For Each...Next** statement to iterate through each cell in a range named `MyRange` on `Sheet1` of an active Microsoft Excel workbook. The variable `c` is a cell in the collection of cells contained in on `Sheet1` of an active Microsoft Excel workbook. The variable `c` is a cell in the collection of cells contained in `MyRange`.
 

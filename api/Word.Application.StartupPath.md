@@ -44,7 +44,11 @@ This example enables the user to change the path of the Startup folder.
 
 ```vb
 x = MsgBox("Do you want to change the startup path?", vbYesNo, _ 
+<<<<<<< HEAD
+ "Current path = " &; Application.StartupPath) 
+=======
  "Current path = " & Application.StartupPath) 
+>>>>>>> master
 If x = vbYes Then 
  newStartup = InputBox("Type a startup path") 
  Application.StartupPath = newStartup 

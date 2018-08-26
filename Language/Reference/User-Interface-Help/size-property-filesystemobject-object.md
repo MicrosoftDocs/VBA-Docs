@@ -15,6 +15,12 @@ ms.date: 06/08/2017
 
  **Description**
 For files, returns the size, in bytes, of the specified file. For folders, returns the size, in bytes, of all files and subfolders contained in the folder.
+<<<<<<< HEAD
+ **Syntax**
+ _object_. **Size**
+The  _object_ is always a **File** or **Folder** object.
+ **Remarks**
+=======
 
 ## Syntax
 
@@ -23,6 +29,7 @@ The  _object_ is always a **File** or **Folder** object.
 
 ## Remarks
 
+>>>>>>> master
 The following code illustrates the use of the  **Size** property with a **Folder** object:
 
 
@@ -32,7 +39,11 @@ Sub ShowFolderSize(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(filespec)
+<<<<<<< HEAD
+    s = UCase(f.Name) &; " uses " &; f.size &; " bytes."
+=======
     s = UCase(f.Name) & " uses " & f.size & " bytes."
+>>>>>>> master
     MsgBox s, 0, "Folder Size Info"
 End Sub
 ```
