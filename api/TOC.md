@@ -155,16 +155,6 @@
 ##### [Recover Tables Deleted from a Database](../access/Concepts/Maintenance/recover-tables-deleted-from-a-database.md)
 ##### [Handle Run-Time Errors in VBA](../access/Concepts/Maintenance/handle-run-time-errors-in-vba.md)
 #### Miscellaneous
-<<<<<<< HEAD
-##### [Detect User Idle Time or Inactivity](../access/Concepts/Miscellaneous/detect-user-idle-time-or-inactivity.md)
-##### [Detect Whether an Object Is Open](../access/Concepts/Miscellaneous/detect-whether-an-object-is-open.md)
-##### [Display and Use the File Dialog Box](../access/Concepts/Miscellaneous/display-and-use-the-file-dialog-box.md)
-##### [Use the Status Bar Progress Meter](../access/Concepts/Miscellaneous/use-the-status-bar-progress-meter.md)
-##### [Create a Shortcut Menu for a Form, Form Control, or Report](../access/Concepts/Miscellaneous/create-a-shortcut-menu-for-a-form-form-control-or-report.md)
-##### [Use Existing Custom Menus and Toolbars](../access/Concepts/Miscellaneous/use-existing-custom-menus-and-toolbars.md)
-##### [Create a Database Template Programmatically](../access/Concepts/Miscellaneous/create-a-database-template-programmatically.md)
-##### [Create a Deployment Package Programmatically](../access/Concepts/Miscellaneous/create-a-deployment-package-programmatically.md)
-=======
 ##### [0 Database Engine driver](../access/concepts/miscellaneous/0-database-engine-driver.md)
 ##### [Add records using AddNew](../access/concepts/miscellaneous/adding-records-using-addnew.md)
 ##### [AllowBypassKey property](../access/concepts/miscellaneous/allowbypasskey-property.md)
@@ -251,7 +241,6 @@
 ##### [Use the SetOption method from DAO](../access/concepts/miscellaneous/using-the-setoption-method-from-dao.md)
 ##### [Use the status bar progress meter](../access/Concepts/Miscellaneous/use-the-status-bar-progress-meter.md)
 ##### [Write your own customized handler](../access/concepts/miscellaneous/writing-your-own-customized-handler.md)
->>>>>>> master
 ### [Object model](./overview/Access/object-model.md)
 #### [AccessObject Object](Access.AccessObject.md)
 ##### Methods
@@ -35934,10 +35923,6 @@
 ##### [Visible Property (Microsoft Forms)](../Language/Reference/User-Interface-Help/visible-property-microsoft-forms.md)
 ##### [Visible Property (VBA Add-In Object Model)](../Language/Reference/User-Interface-Help/visible-property-vba-add-in-object-model.md)
 ##### [Visual Basic add-in model reference](../Language/Reference/User-Interface-Help/visual-basic-add-in-model-reference.md)
-<<<<<<< HEAD
-##### [Visual Basic can't load 'item' because it is not in the system registry. Please ensure that all add-ins have been installed correctly.](../Language/Reference/User-Interface-Help/visual-basic-can-t-load-item-because-it-is-not-in-the-system-registry-please-ens.md)
-=======
->>>>>>> master
 ##### [Visual Basic conceptual topics](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [Visual Basic Constants](../Language/Reference/User-Interface-Help/visual-basic-constants.md)
 ##### [Visual Basic definitions](../Language/Reference/User-Interface-Help/visual-basic-definitions.md)
@@ -35997,13 +35982,8 @@
 ##### [ZOrder Method](../Language/Reference/User-Interface-Help/zorder-method.md)
 ##### [ZOrder Method, TextBox Control Example](../Language/Reference/User-Interface-Help/zorder-method-textbox-control-example.md)
 ### Glossary
-<<<<<<< HEAD
 #### [VBA Glossary](../Language/Glossary/glossary-vba.md)
 #### [VBE Glossary](../Language/Glossary/vbe-glossary.md)
-=======
-#### [VBA Glossary](../Language/Glossary/glossary-vba.md#vba-glossary)
-#### [VBE Glossary](../Language/Glossary/vbe-glossary.md#vbe-glossary)
->>>>>>> master
 ## [Library Reference](./overview/Library-Reference.md)
 ### Concepts
 #### [Getting Started with VBA in Office](../Library-Reference/Concepts/getting-started-with-vba-in-office.md)
