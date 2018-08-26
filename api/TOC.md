@@ -35923,7 +35923,6 @@
 ##### [Visible Property (Microsoft Forms)](../Language/Reference/User-Interface-Help/visible-property-microsoft-forms.md)
 ##### [Visible Property (VBA Add-In Object Model)](../Language/Reference/User-Interface-Help/visible-property-vba-add-in-object-model.md)
 ##### [Visual Basic add-in model reference](../Language/Reference/User-Interface-Help/visual-basic-add-in-model-reference.md)
-##### [Visual Basic can't load 'item' because it is not in the system registry. Please ensure that all add-ins have been installed correctly.](../Language/Reference/User-Interface-Help/visual-basic-can-t-load-item-because-it-is-not-in-the-system-registry-please-ens.md)
 ##### [Visual Basic conceptual topics](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [Visual Basic Constants](../Language/Reference/User-Interface-Help/visual-basic-constants.md)
 ##### [Visual Basic definitions](../Language/Reference/User-Interface-Help/visual-basic-definitions.md)
