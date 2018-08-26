@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the sum-of-years' digits depreciation of an asset for a specified period.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the sum-of-years' digits depreciation of an asset for a specified period.
 
 ## Syntax
 

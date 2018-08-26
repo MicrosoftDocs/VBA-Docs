@@ -37,7 +37,7 @@ When read, standard string or numeric data is assigned to variables without modi
 |#NULL#|[Null](../../Glossary/vbe-glossary.md#null)|
 |#TRUE# or #FALSE#|**True** or **False**|
 |# _yyyy-mm-dd hh:mm:ss_ #|The date and/or time represented by the [expression](../../Glossary/vbe-glossary.md#expression)|
-|#ERROR  _errornumber_ #| _errornumber_ (variable is a[Variant](../../Glossary/vbe-glossary.md) tagged as an error)|
+|#ERROR  _errornumber_ #| _errornumber_ (variable is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) tagged as an error)|
 
 Double quotation marks () within input data are ignored.
 

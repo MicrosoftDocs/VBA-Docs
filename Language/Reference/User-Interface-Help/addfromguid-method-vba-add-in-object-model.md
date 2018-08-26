@@ -25,7 +25,7 @@ The  **AddFromGuid** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _guid_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression)representing the GUID of the reference.|
-| _major_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the major version number of the reference.|
+| _major_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the major version number of the reference.|
 | _minor_|Required. A  **Long** specifying the minor version number of the reference.|
 
 ## Remarks

@@ -30,13 +30,13 @@ The  **+** operator syntax has these parts:
 ## Remarks
 
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
-If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md), the following rules apply:
+If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md#variant-data-type), the following rules apply:
 
 
 |**If**|**Then**|
 |:-----|:-----|
-|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md), [Boolean](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), [Date](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), or [Decimal](../../Glossary/vbe-glossary.md))|Add.|
-|Both expressions are [String](../../Glossary/vbe-glossary.md)|Concatenate.|
+|Both expressions are [numeric data types](../../Glossary/vbe-glossary.md#numeric-data-type) ([Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Date](../../Glossary/vbe-glossary.md#date-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), or [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type))|Add.|
+|Both expressions are [String](../../Glossary/vbe-glossary.md#string-data-type)|Concatenate.|
 |One expression is a numeric data type and the other is any  **Variant** except [Null](../../Glossary/vbe-glossary.md#null)|Add.|
 |One expression is a  **String** and the other is any **Variant** except **Null**|Concatenate.|
 |One expression is an [Empty](../../Glossary/vbe-glossary.md#empty) **Variant**|Return the remaining expression unchanged as  _result_.|

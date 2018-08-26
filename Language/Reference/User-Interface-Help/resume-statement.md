@@ -30,6 +30,11 @@ The  **Resume** statement syntax can have any of the following forms:
 
 ## Remarks
 
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
 If you use a  **Resume** statement anywhere except in an error-handling routine, an error occurs.
 
 ## Example

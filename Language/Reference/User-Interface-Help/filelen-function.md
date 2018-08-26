@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) specifying the length of a file in bytes.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the length of a file in bytes.
 
 ## Syntax
 

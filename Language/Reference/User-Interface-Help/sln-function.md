@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the straight-line depreciation of an asset for a single period.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the straight-line depreciation of an asset for a single period.
 
 ## Syntax
 

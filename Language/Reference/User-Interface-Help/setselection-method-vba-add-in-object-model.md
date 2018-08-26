@@ -24,7 +24,7 @@ The  **SetSelection** syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _startline_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the first line of the selection.|
+| _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the first line of the selection.|
 | _startcol_|Required. A  **Long** specifying the first column of the selection.|
 | _endline_|Required. A  **Long** specifying the last line of the selection.|
 | _endcol_|Required. A  **Long** specifying the last column of the selection.|

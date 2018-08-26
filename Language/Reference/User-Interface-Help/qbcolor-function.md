@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) representing the RGB color code corresponding to the specified color number.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the RGB color code corresponding to the specified color number.
 
 ## Syntax
 

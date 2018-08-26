@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a [Long](../../Glossary/vbe-glossary.md) specifying the line number of the line at the top of the[code pane](../../Glossary/vbe-glossary.md#code-pane) or sets the line showing at the top of the code pane. Read/write.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line number of the line at the top of the[code pane](../../Glossary/vbe-glossary.md#code-pane) or sets the line showing at the top of the code pane. Read/write.
 
 ## Remarks
 

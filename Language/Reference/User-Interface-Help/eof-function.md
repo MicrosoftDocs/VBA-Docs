@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an [Integer](../../Glossary/vbe-glossary.md) containing the[Boolean](../../Glossary/vbe-glossary.md) value **True** when the end of a file opened for **Random** or sequential **Input** has been reached.
+Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) containing the[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value **True** when the end of a file opened for **Random** or sequential **Input** has been reached.
 
 ## Syntax
 

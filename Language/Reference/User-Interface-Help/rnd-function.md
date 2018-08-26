@@ -18,7 +18,7 @@ Returns a  **Single** containing a random number.
 ## Syntax
 
 **Rnd** [ **(**_number_**)** ]
-The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Single](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The optional  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Single](../../Glossary/vbe-glossary.md#single-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
  **Return Values**
 
 

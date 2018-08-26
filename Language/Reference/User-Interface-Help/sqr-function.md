@@ -18,7 +18,7 @@ Returns a  **Double** specifying the square root of a number.
 ## Syntax
 
 **Sqr(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) greater than or equal to zero.
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) greater than or equal to zero.
 
 ## Example
 
