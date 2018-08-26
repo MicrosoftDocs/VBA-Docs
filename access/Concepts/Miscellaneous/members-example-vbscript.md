@@ -1,37 +1,19 @@
 ---
-<<<<<<< HEAD
-title: Members Example (VBScript)
-=======
 title: Members example (VBScript)
 ROBOTS: INDEX
->>>>>>> master
 ms.prod: access
 ms.assetid: 9466ea79-3300-07e0-41cc-45d83318e3ac
 ms.date: 06/08/2017
 ---
 
 
-<<<<<<< HEAD
-# Members Example (VBScript)
-
-  
-=======
 # Members example (VBScript)
->>>>>>> master
 
 **Applies to:** Access 2013 | Access 2016
 
 This sample uses an MDX query string to retrieve OLAP data and writes the resulting cellset to an HTML table structure using column spanning features for multiple-dimension cellsets.
 
-<<<<<<< HEAD
-
-
-
 ```vb
- 
-=======
-```vb
->>>>>>> master
 <%@ Language=VBScript %> 
 <% 
 '************************************************************************ 
@@ -75,13 +57,8 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
 '*** to default value 
 '************************************************************************ 
 If Len(Session("ServerName")) > 0 Then 
-<<<<<<< HEAD
-   cat.ActiveConnection = "Data Source='" &; Session("ServerName") &; _ 
-      "';Initial Catalog='" &; Session("InitialCatalog") &; _ 
-=======
    cat.ActiveConnection = "Data Source='" & Session("ServerName") & _ 
       "';Initial Catalog='" & Session("InitialCatalog") & _ 
->>>>>>> master
       "';Provider='msolap';" 
 Else 
  
@@ -90,11 +67,7 @@ Else
 '*** present on network 
 '************************************************************************ 
    OLAPServerName = "Please set to present OLAP Server" 
-<<<<<<< HEAD
-   cat.ActiveConnection = "Data Source=" &; OLAPServerName &; _ 
-=======
    cat.ActiveConnection = "Data Source=" & OLAPServerName & _ 
->>>>>>> master
       ";Initial Catalog=FoodMart;Provider=msolap;" 
    Session("ServerName") = OLAPServerName 
    Session("InitialCatalog") = "FoodMart" 
@@ -107,16 +80,6 @@ End if
 '*** default value 
 '************************************************************************ 
 If Len(Session("MDXQuery")) < 5 Then 
-<<<<<<< HEAD
-   strSource = strSource &; "SELECT " 
-   strSource = strSource &; "CROSSJOIN({[Store].[Store Country].MEMBERS}," 
-   strSource = strSource &; "{[Measures].[Store " &; _ 
-      "Invoice],[Measures].[Supply Time]}) ON COLUMNS," 
-   strSource = strSource &; "CROSSJOIN({[Time].[Year].MEMBERS}," 
-   strSource = strSource &; "CROSSJOIN({[Store Type].[Store " &; _ 
-      "Type].Members},{[Product].[Product Family].members})) ON ROWS" 
-   strSource = strSource &; " FROM Warehouse" 
-=======
    strSource = strSource & "SELECT " 
    strSource = strSource & "CROSSJOIN({[Store].[Store Country].MEMBERS}," 
    strSource = strSource & "{[Measures].[Store " & _ 
@@ -125,7 +88,6 @@ If Len(Session("MDXQuery")) < 5 Then
    strSource = strSource & "CROSSJOIN({[Store Type].[Store " & _ 
       "Type].Members},{[Product].[Product Family].members})) ON ROWS" 
    strSource = strSource & " FROM Warehouse" 
->>>>>>> master
 Else 
    strSource = Session("MDXQuery") 
 End if 
@@ -259,15 +221,6 @@ For h=0 to intDC0
 '*** CaptionCount and LastCaption 
 '************************************************************************ 
             If t = intPC0 then 
-<<<<<<< HEAD
-               Response.Write " colspan=" &; CaptionCount &; _ 
-                  "><FONT size=-2>" &; LastCaption &; "</FONT></TH>" 
-            End if 
- 
-         Else 
-            Response.Write " colspan=" &; CaptionCount &; _ 
-               "><FONT size=-2>" &; LastCaption &; "</FONT></TH><TH" 
-=======
                Response.Write " colspan=" & CaptionCount & _ 
                   "><FONT size=-2>" & LastCaption & "</FONT></TH>" 
             End if 
@@ -275,7 +228,6 @@ For h=0 to intDC0
          Else 
             Response.Write " colspan=" & CaptionCount & _ 
                "><FONT size=-2>" & LastCaption & "</FONT></TH><TH" 
->>>>>>> master
             CaptionCount = 1 
             LastCaption=cst.Axes(0).Positions(t).Members(h).Caption 
          End if 
@@ -328,11 +280,7 @@ For h=0 to intDC0
                   Marker = Marker + 1 
                Else 
                   If aryRows(Marker) = aryRows(Marker - intDC1) then 
-<<<<<<< HEAD
-                     Response.Write "<TD>&;nbsp;</TD>" 
-=======
                      Response.Write "<TD>&nbsp;</TD>" 
->>>>>>> master
                      Marker = Marker + 1 
                   Else 
                      Response.Write "<TD><B>" 
@@ -379,18 +327,6 @@ For h=0 to intDC0
 
 ```
 
-<<<<<<< HEAD
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-
-=======
 ## See also
 
 - [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
@@ -399,4 +335,3 @@ For h=0 to intDC0
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
->>>>>>> master
