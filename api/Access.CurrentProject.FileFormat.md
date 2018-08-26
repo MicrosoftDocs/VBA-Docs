@@ -51,11 +51,7 @@ Select Case CurrentProject.FileFormat
  strFormat = "Microsoft Access 2007" 
 End Select 
  
-<<<<<<< HEAD
-MsgBox "This is a " &; strFormat &; " project."
-=======
 MsgBox "This is a " & strFormat & " project."
->>>>>>> master
 ```
 
 

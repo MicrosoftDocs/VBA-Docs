@@ -64,19 +64,11 @@ Public Sub SetHeightWidth(ByRef frm As Form)
  lngLeftColumn = frm.SelLeft 
  
  ' Display message. 
-<<<<<<< HEAD
- strMsg = "Number of rows: " &; lngNumRows &; vbCrLf 
- strMsg = strMsg &; "Number of columns: " _ 
- &; lngNumColumns &; vbCrLf 
- strMsg = strMsg &; "Top row: " &; lngTopRow &; vbCrLf 
- strMsg = strMsg &; "Left column: " &; lngLeftColumn 
-=======
  strMsg = "Number of rows: " & lngNumRows & vbCrLf 
  strMsg = strMsg & "Number of columns: " _ 
  & lngNumColumns & vbCrLf 
  strMsg = strMsg & "Top row: " & lngTopRow & vbCrLf 
  strMsg = strMsg & "Left column: " & lngLeftColumn 
->>>>>>> master
  MsgBox strMsg, vbInformation 
  End If 
  

@@ -71,11 +71,7 @@ The next example links the ODBC database table Authors to the current database:
 ```vb
 DoCmd.TransferDatabase acLink, "ODBC Database", _ 
     "ODBC;DSN=DataSource1;UID=User2;PWD=www;LANGUAGE=us_english;" _ 
-<<<<<<< HEAD
-    &; "DATABASE=pubs", acTable, "Authors", "dboAuthors"
-=======
     & "DATABASE=pubs", acTable, "Authors", "dboAuthors"
->>>>>>> master
 ```
 
 

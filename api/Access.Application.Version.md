@@ -30,13 +30,8 @@ The following example displays the version and build number of the currently-ins
 
 ```vb
 MsgBox "You are currently running Microsoft Access, " _ 
-<<<<<<< HEAD
- &; " version " &; Application.Version &; ", build " _ 
- &; Application.Build &; "." 
-=======
  & " version " & Application.Version & ", build " _ 
  & Application.Build & "." 
->>>>>>> master
 
 ```
 

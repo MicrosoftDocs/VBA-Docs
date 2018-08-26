@@ -39,11 +39,7 @@ Public Sub ShowConnectString()
  Dim objCurrent As Object 
  
  Set objCurrent = Application.CurrentProject 
-<<<<<<< HEAD
- MsgBox "The current base connection is " &; objCurrent.BaseConnectionString 
-=======
  MsgBox "The current base connection is " & objCurrent.BaseConnectionString 
->>>>>>> master
  
 End Sub
 ```

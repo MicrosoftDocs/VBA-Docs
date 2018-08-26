@@ -47,11 +47,7 @@ Dim varResult As Variant
  
 intNum = 7 
 varResult = DLookup("[LastName]", "Employees", _ 
-<<<<<<< HEAD
- "[EmployeeID] = " &; intNum)
-=======
  "[EmployeeID] = " & intNum)
->>>>>>> master
 ```
 
 

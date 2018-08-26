@@ -36,11 +36,7 @@ The following example displays a message indicating the language Access uses for
 ```vb
 Dim mli As MsoLanguageID 
 mli = Application.LanguageSettings.LanguageID(msoLanguageIDHelp) 
-<<<<<<< HEAD
-MsgBox "The language ID used for Access Help is " &; mli
-=======
 MsgBox "The language ID used for Access Help is " & mli
->>>>>>> master
 ```
 
 

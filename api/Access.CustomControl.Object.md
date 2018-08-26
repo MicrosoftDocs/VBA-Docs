@@ -48,11 +48,7 @@ Sub PrintFormLetter_Click()
  ' Assign customer address to variables. 
  strCustomer = Me!CompanyName 
  strAddress = Me!Address 
-<<<<<<< HEAD
- strCity = Me!City &; ", " 
-=======
  strCity = Me!City & ", " 
->>>>>>> master
  If Not IsNull(Me!Region) Then 
  strRegion = Me!Region 
  Else 
@@ -81,11 +77,7 @@ Sub PrintFormLetter_Click()
  ' Highlight placeholder text. 
  .EndOfLine 1 
  ' Insert City and Region. 
-<<<<<<< HEAD
- .Insert strCity &; strRegion 
-=======
  .Insert strCity & strRegion 
->>>>>>> master
  .FilePrint 
  .FileClose 
  End With 

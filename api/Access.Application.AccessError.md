@@ -60,11 +60,7 @@ The following function returns an error string for any valid error number:
 ```vb
 Function ErrorString(ByVal lngError As Long) As String 
  
-<<<<<<< HEAD
- Const conAppError = "Application-defined or " &; _ 
-=======
  Const conAppError = "Application-defined or " & _ 
->>>>>>> master
  "object-defined error" 
  
  On Error Resume Next 

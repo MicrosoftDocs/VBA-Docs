@@ -49,11 +49,7 @@ The following example sets the default workgroup file to the file system.mdw in 
 ```vb
 Application.SetDefaultWorkgroupFile _ 
  Path:="C:\Documents and Settings\Wendy Vasse\" _ 
-<<<<<<< HEAD
- &; "Application Data\Microsoft\Access\system.mdw"
-=======
  & "Application Data\Microsoft\Access\system.mdw"
->>>>>>> master
 ```
 
 

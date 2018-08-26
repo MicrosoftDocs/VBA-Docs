@@ -55,11 +55,7 @@ The following example shows how to construct a  _criteria_ argument that include
 Dim datHireDate As Date 
 datHireDate = #5-1-92# 
 Forms!Employees.Filter = "[HireDate] >= #" _ 
-<<<<<<< HEAD
- &;     datHireDate &; "#"
-=======
  &     datHireDate & "#"
->>>>>>> master
 ```
 
 

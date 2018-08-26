@@ -77,11 +77,7 @@ Public Sub DoMailMerge(strFileSavePath As String)
     Set oSel = wdApp.Selection
     With wdApp.ActiveDocument.MailMerge.Fields
     
-<<<<<<< HEAD
-        oSel.TypeText vbNewLine &; vbNewLine
-=======
         oSel.TypeText vbNewLine & vbNewLine
->>>>>>> master
         .Add oSel.range, "First_Name"
         oSel.TypeText " "
         .Add oSel.range, "Last_Name"
@@ -105,11 +101,7 @@ Public Sub DoMailMerge(strFileSavePath As String)
         oSel.TypeText "We have created this mail just for you..."
         oSel.TypeText vbNewLine
         oSel.TypeText vbNewLine
-<<<<<<< HEAD
-        oSel.TypeText "Sincerely," &; vbNewLine &; "John Q. Public"
-=======
         oSel.TypeText "Sincerely," & vbNewLine & "John Q. Public"
->>>>>>> master
         oSel.TypeText vbFormFeed
         
     End With

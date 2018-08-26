@@ -39,11 +39,7 @@ Dim objChartSpace As ChartSpace
 Set objChartSpace = Forms(0).ChartSpace 
  
 MsgBox "Current version of Office Web Components: " _ 
-<<<<<<< HEAD
- &; objChartSpace.Version 
-=======
  & objChartSpace.Version 
->>>>>>> master
 
 ```
 

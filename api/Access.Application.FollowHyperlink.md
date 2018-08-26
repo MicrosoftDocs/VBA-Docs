@@ -64,11 +64,7 @@ Exit_GetUserAddress:
     Exit Function 
  
 Error_GetUserAddress: 
-<<<<<<< HEAD
-    MsgBox Err &; ": " &; Err.Description 
-=======
     MsgBox Err & ": " & Err.Description 
->>>>>>> master
     GetUserAddress = False 
     Resume Exit_GetUserAddress 
 End Function

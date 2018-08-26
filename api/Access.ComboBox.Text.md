@@ -40,11 +40,7 @@ The following example uses the  **Text** property to enable a Next button named 
 
 ```vb
 Sub txtName_Change() 
-<<<<<<< HEAD
- btnNext.Enabled = Len(Me!txtName.Text &; "")<>0 
-=======
  btnNext.Enabled = Len(Me!txtName.Text & "")<>0 
->>>>>>> master
 End Sub
 ```
 

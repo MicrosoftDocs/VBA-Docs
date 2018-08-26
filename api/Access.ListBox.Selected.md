@@ -78,13 +78,8 @@ Public Sub CopySelected(ByRef frm As Form)
  
  For intCurrentRow = 0 To ctlSource.ListCount - 1 
  If ctlSource.Selected(intCurrentRow) Then 
-<<<<<<< HEAD
- strItems = strItems &; ctlSource.Column(0, _ 
- intCurrentRow) &; ";" 
-=======
  strItems = strItems & ctlSource.Column(0, _ 
  intCurrentRow) & ";" 
->>>>>>> master
  End If 
  Next intCurrentRow 
  

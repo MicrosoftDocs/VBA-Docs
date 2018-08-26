@@ -63,13 +63,8 @@ Private Sub cmdFindContactName_Click()
  Dim rst As DAO.Recordset 
  Dim strCriteria As String 
  
-<<<<<<< HEAD
- strCriteria = "[ContactName] Like '*" &; InputBox("Enter the " _ 
- &; "first few letters of the name to find") &; "*'" 
-=======
  strCriteria = "[ContactName] Like '*" & InputBox("Enter the " _ 
  & "first few letters of the name to find") & "*'" 
->>>>>>> master
  
  Set rst = Me.RecordsetClone 
  rst.FindFirst strCriteria 

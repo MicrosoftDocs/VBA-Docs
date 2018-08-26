@@ -36,11 +36,7 @@ The following example demonstrates the syntax for a subroutine that traps the  *
 ```vb
 Private Sub Form_OnDisconnect() 
  MsgBox "The PivotTable View has " _ 
-<<<<<<< HEAD
- &; "disconnected from its data source!" 
-=======
  & "disconnected from its data source!" 
->>>>>>> master
 End Sub
 ```
 

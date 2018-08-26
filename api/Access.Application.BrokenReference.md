@@ -41,20 +41,12 @@ Dim strReport As String
  
 ' Test whether there are broken references. 
 If Application.BrokenReference = True Then 
-<<<<<<< HEAD
- strReport = "The following references are broken:" &; vbCr 
-=======
  strReport = "The following references are broken:" & vbCr 
->>>>>>> master
  
  ' Test validity of each reference. 
  For Each refLoop In Application.References 
  If refLoop.IsBroken = True Then 
-<<<<<<< HEAD
- strReport = strReport &; " " &; refLoop.Name &; vbCr 
-=======
  strReport = strReport & " " & refLoop.Name & vbCr 
->>>>>>> master
  End If 
  Next refLoop 
 Else 

@@ -60,11 +60,7 @@ Sub InsertObject_Click()
 ButtonErr: 
  If Err = conUserCancelled Then ' Display message. 
  MsgBox "You clicked the Cancel button; " _ 
-<<<<<<< HEAD
- &; "no object was created." 
-=======
  & "no object was created." 
->>>>>>> master
  End If 
  Resume Next 
 End Sub

@@ -55,15 +55,9 @@ Function ErrorMessage(strText As String, intType As Integer, _
  Dim objCurrent As Object 
  Dim strMsgboxTitle As String 
  Set objCurrent = CodeContextObject 
-<<<<<<< HEAD
- strMsgboxTitle = "Error in " &; objCurrent.Name 
- strText = strText &; "Error #" &; intErrVal _ 
- &; " occured in " &; objCurrent.Name 
-=======
  strMsgboxTitle = "Error in " & objCurrent.Name 
  strText = strText & "Error #" & intErrVal _ 
  & " occured in " & objCurrent.Name 
->>>>>>> master
  ErrorMessage = MsgBox(strText, intType, strMsgboxTitle) 
  Err = 0 
 End Function

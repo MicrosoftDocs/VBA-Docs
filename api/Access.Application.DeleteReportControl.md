@@ -67,11 +67,7 @@ Sub DeleteCommandButton()
  ' Size control. 
  ctlNew.SizeToFit 
  ' Prompt user to delete control. 
-<<<<<<< HEAD
- strMsg = "About to delete " &; ctlNew.Name &;". Continue?" 
-=======
  strMsg = "About to delete " & ctlNew.Name &". Continue?" 
->>>>>>> master
  ' Define buttons to be displayed in dialog box. 
  intDialog = vbYesNo + vbCritical + vbDefaultButton2 
  intResponse = MsgBox(strMsg, intDialog) 

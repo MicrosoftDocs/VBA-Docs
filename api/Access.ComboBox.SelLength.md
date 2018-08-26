@@ -45,11 +45,7 @@ Private Sub Form_Load()
  
  ' SetFocus to text box. 
  ctlTextToSearch.SetFocus 
-<<<<<<< HEAD
- ctlTextToSearch.Text = "This company places large orders twice " &; _ 
-=======
  ctlTextToSearch.Text = "This company places large orders twice " & _ 
->>>>>>> master
  "a year for garlic, oregano, chilies and cumin." 
  Set ctlTextToSearch = Nothing 
  

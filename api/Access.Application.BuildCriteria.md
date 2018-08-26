@@ -95,11 +95,7 @@ Sub SetFilter()
  ' Return Form object variable pointing to Products form. 
  Set frm = Forms!Products 
  strMsg = "Enter one or more letters of product name " _ 
-<<<<<<< HEAD
- &; "followed by an asterisk." 
-=======
  & "followed by an asterisk." 
->>>>>>> master
  ' Prompt user for input. 
  strInput = InputBox(strMsg) 
  ' Build criteria string. 

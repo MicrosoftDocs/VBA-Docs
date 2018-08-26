@@ -111,11 +111,7 @@ Public Sub CheckValue()
  
     ' Choose result based on value of control. 
     varResult = IIf(Nz(ctl.Value) = vbNullString, _ 
-<<<<<<< HEAD
-        "No value.", "Value is " &; ctl.Value &; ".") 
-=======
         "No value.", "Value is " & ctl.Value & ".") 
->>>>>>> master
  
     ' Display result. 
     MsgBox varResult, vbExclamation 

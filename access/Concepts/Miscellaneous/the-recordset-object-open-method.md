@@ -139,22 +139,14 @@ The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO
     Set objRs = objCmd.Execute 
      
     Do While Not objRs.EOF 
-<<<<<<< HEAD
-        Debug.Print objRs(0) &; vbTab &; objRs(1) &; vbTab &; _ 
-=======
         Debug.Print objRs(0) & vbTab & objRs(1) & vbTab & _ 
->>>>>>> master
                     objRs(2) 
         objRs.MoveNext 
     Loop 
      
     Set objRs = objRs.NextRecordset 
      
-<<<<<<< HEAD
-    Debug.Print "AVG. PRICE = $ " &; objRs(0) 
-=======
     Debug.Print "AVG. PRICE = $ " & objRs(0) 
->>>>>>> master
  
     'clean up 
     objRs.Close 
@@ -179,11 +171,7 @@ ErrHandler:
     Set objCmd = Nothing 
      
     If Err <> 0 Then 
-<<<<<<< HEAD
-        MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
-=======
         MsgBox Err.Source & "-->" & Err.Description, , "Error" 
->>>>>>> master
     End If 
 'EndNextRs 
 

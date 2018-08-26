@@ -40,11 +40,7 @@ The following example displays a message indicating the number of boxes checked 
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "There are " &; Application.References.Count &; " references."
-=======
 MsgBox "There are " & Application.References.Count & " references."
->>>>>>> master
 ```
 
 
