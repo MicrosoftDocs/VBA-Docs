@@ -61,13 +61,8 @@ Sub GroupByX1()
     ' For each title, count the number of employees  
     ' with that title.  
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
-<<<<<<< HEAD
-        &; "Count([Title]) AS Tally " _ 
-        &; "FROM Employees GROUP BY Title;") 
-=======
         & "Count([Title]) AS Tally " _ 
         & "FROM Employees GROUP BY Title;") 
->>>>>>> master
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -100,15 +95,9 @@ Sub GroupByX2()
     ' with that title. Only include employees in the  
     ' Washington region. 
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
-<<<<<<< HEAD
-        &; "Count(Title) AS Tally " _ 
-        &; "FROM Employees WHERE Region = 'WA' " _ 
-        &; "GROUP BY Title;") 
-=======
         & "Count(Title) AS Tally " _ 
         & "FROM Employees WHERE Region = 'WA' " _ 
         & "GROUP BY Title;") 
->>>>>>> master
      
     ' Populate the Recordset. 
     rst.MoveLast 

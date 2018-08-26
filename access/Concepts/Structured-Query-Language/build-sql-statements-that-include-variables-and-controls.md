@@ -45,11 +45,7 @@ Dim dteStart As Date
 dteStart = #3-31-2006# 
 Set dbs = CurrentDb 
 strSQL = "SELECT * FROM Orders WHERE OrderDate" _ 
-<<<<<<< HEAD
-    &; "> #" &; dteStart &; "#;" 
-=======
     & "> #" & dteStart & "#;" 
->>>>>>> master
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
@@ -62,11 +58,7 @@ The following example creates a  **QueryDef** object by using a value in a contr
 Dim dbs As Database, qdf As QueryDef, strSQL As String 
 Set dbs = CurrentDb 
 strSQL = "SELECT * FROM Orders WHERE OrderDate" _ 
-<<<<<<< HEAD
-    &; "> #" &; Forms!Orders!OrderDate &; "#;" 
-=======
     & "> #" & Forms!Orders!OrderDate & "#;" 
->>>>>>> master
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
@@ -98,11 +90,7 @@ Dim dteStart As Date
 dteStart = #3-31-2006# 
 Set dbs = CurrentDb 
 strSQL = "SELECT * FROM Orders WHERE OrderDate" _ 
-<<<<<<< HEAD
-    &; "> #" &; dteStart &; "#;" 
-=======
     & "> #" & dteStart & "#;" 
->>>>>>> master
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
@@ -115,11 +103,7 @@ The following code example creates a  **QueryDef** object by using a value in a 
 Dim dbs As Database, qdf As QueryDef, strSQL As String 
 Set dbs = CurrentDb 
 strSQL = "SELECT * FROM Orders WHERE OrderDate" _ 
-<<<<<<< HEAD
-    &; "> #" &; Forms!Orders!OrderDate &; "#;" 
-=======
     & "> #" & Forms!Orders!OrderDate & "#;" 
->>>>>>> master
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 

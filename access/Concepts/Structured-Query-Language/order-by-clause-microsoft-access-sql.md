@@ -86,13 +86,8 @@ Sub OrderByX()
     ' the Employees table, and sort them in descending  
     ' order. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
-<<<<<<< HEAD
-        &; "FirstName FROM Employees " _ 
-        &; "ORDER BY LastName DESC;") 
-=======
         & "FirstName FROM Employees " _ 
         & "ORDER BY LastName DESC;") 
->>>>>>> master
      
     ' Populate the Recordset. 
     rst.MoveLast 

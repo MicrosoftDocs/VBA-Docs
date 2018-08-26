@@ -110,13 +110,8 @@ Sub WhereX()
     ' Select records from the Employees table where the 
     ' last name is King. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
-<<<<<<< HEAD
-        &; "FirstName FROM Employees " _ 
-        &; "WHERE LastName = 'King';") 
-=======
         & "FirstName FROM Employees " _ 
         & "WHERE LastName = 'King';") 
->>>>>>> master
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -140,8 +135,4 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
-<<<<<<< HEAD
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-=======
-- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
->>>>>>> master
