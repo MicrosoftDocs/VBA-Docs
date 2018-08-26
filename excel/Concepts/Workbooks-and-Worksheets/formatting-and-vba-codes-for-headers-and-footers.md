@@ -57,7 +57,11 @@ The following code shows how formatting and VBA codes can be used to modify the 
 
 ```vb
 Sub Date_Time() 
+<<<<<<< HEAD
  ActiveSheet.PageSetup.CenterHeader = "&;D &;B&;ITime:&;I&;B&;T" 
+=======
+ ActiveSheet.PageSetup.CenterHeader = "&D &B&ITime:&I&B&T" 
+>>>>>>> master
 End Sub
 ```
 

@@ -46,8 +46,13 @@ This example displays the path and file name of the active document.
 Sub PathFileName() 
  
  With Application 
+<<<<<<< HEAD
  MsgBox "The name of the active document: " &; vbLf &; _ 
  .Path &; .PathSeparator &; ActiveDocument.Name 
+=======
+ MsgBox "The name of the active document: " & vbLf & _ 
+ .Path & .PathSeparator & ActiveDocument.Name 
+>>>>>>> master
  End With 
  
 End Sub

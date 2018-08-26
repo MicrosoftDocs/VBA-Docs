@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Line isn't an executable statement
 
+<<<<<<< HEAD
 [Declarations](../../Glossary/vbe-glossary.md) and[comments](../../Glossary/vbe-glossary.md) are not executable statements. This error has the following cause and solution:
+=======
+[Declarations](../../Glossary/vbe-glossary.md#declaration) and[comments](../../Glossary/vbe-glossary.md#comment) are not executable statements. This error has the following cause and solution:
+>>>>>>> master
 
 
 

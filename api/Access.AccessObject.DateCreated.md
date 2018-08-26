@@ -33,8 +33,13 @@ Dim acobjLoop As AccessObject
  
 For Each acobjLoop In CurrentProject.AllReports 
  With acobjLoop 
+<<<<<<< HEAD
  Debug.Print .Name &; " - Created " &; .DateCreated _ 
  &; " - Modified " &; .DateModified 
+=======
+ Debug.Print .Name & " - Created " & .DateCreated _ 
+ & " - Modified " & .DateModified 
+>>>>>>> master
  End With 
 Next acobjLoop
 ```

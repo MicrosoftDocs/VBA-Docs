@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # On...GoSub, On...GoTo Statements
 
+<<<<<<< HEAD
 Branch to one of several specified lines, depending on the value of an [expression](../../Glossary/vbe-glossary.md).
 
  **Syntax**
 
  **On**_expression_**GoSub**_destinationlist_
+=======
+Branch to one of several specified lines, depending on the value of an [expression](../../Glossary/vbe-glossary.md#expression).
+
+## Syntax
+
+**On**_expression_**GoSub**_destinationlist_
+>>>>>>> master
 
  **On**_expression_**GoTo**_destinationlist_
 The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
@@ -23,21 +31,42 @@ The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _expression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
 | _destinationlist_|Required. List of [line numbers](../../Glossary/vbe-glossary.md) or[line labels](../../Glossary/vbe-glossary.md) separated by commas.|
 
  **Remarks**
+=======
+| _expression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
+| _destinationlist_|Required. List of [line numbers](../../Glossary/vbe-glossary.md#line-number) or[line labels](../../Glossary/vbe-glossary.md#line-label) separated by commas.|
+
+## Remarks
+
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
+>>>>>>> master
 The value of  _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
 
 
 |**If  _expression_ is**|**Then**|
 |:-----|:-----|
+<<<<<<< HEAD
 |Equal to 0|Control drops to the [statement](../../Glossary/vbe-glossary.md) following **On...GoSub** or **On...GoTo**.|
+=======
+|Equal to 0|Control drops to the [statement](../../Glossary/vbe-glossary.md#statement) following **On...GoSub** or **On...GoTo**.|
+>>>>>>> master
 |Greater than number of items in list|Control drops to the statement following  **On...GoSub** or **On...GoTo**.|
 |Negative|An error occurs.|
 |Greater than 255|An error occurs.|
 
+<<<<<<< HEAD
 You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with  **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the[line-continuation character](../../Glossary/vbe-glossary.md) to continue the logical line onto the next physical line.
+=======
+You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with  **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the[line-continuation character](../../Glossary/vbe-glossary.md#line-continuation-character) to continue the logical line onto the next physical line.
+>>>>>>> master
 
  **Tip**   **Select Case** provides a more structured and flexible way to perform multiple branching.
 

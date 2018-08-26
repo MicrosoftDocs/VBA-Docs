@@ -54,7 +54,11 @@ Sub ReportZoom()
         ApplyReport reportName
         ZoomReport 80
     Else
+<<<<<<< HEAD
         MsgBox Prompt:="No custom report name: " &; reportName, Title:="Report apply error"
+=======
+        MsgBox Prompt:="No custom report name: " & reportName, Title:="Report apply error"
+>>>>>>> master
     End If
 End Sub
 ```

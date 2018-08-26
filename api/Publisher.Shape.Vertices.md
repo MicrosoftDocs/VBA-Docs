@@ -54,7 +54,11 @@ With ActiveDocument.Pages(1).Shapes(1)
  vertArray = .Vertices 
  sngX1 = vertArray(1, 1) 
  sngY1 = vertArray(1, 2) 
+<<<<<<< HEAD
  MsgBox "First vertex coordinates: " &; sngX1 &; ", " &; sngY1 
+=======
+ MsgBox "First vertex coordinates: " & sngX1 & ", " & sngY1 
+>>>>>>> master
 End With
 ```
 

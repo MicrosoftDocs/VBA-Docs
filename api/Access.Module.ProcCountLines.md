@@ -76,8 +76,13 @@ Dim strProc As String
 strForm = "Products" 
 strProc = "Form_Activate" 
  
+<<<<<<< HEAD
 MsgBox "There are " &; Forms(strForm).Module.ProcCountLines(strProc, vbext_pk_Proc) &; _ 
  " lines in the " &; strProc &; " procedure."
+=======
+MsgBox "There are " & Forms(strForm).Module.ProcCountLines(strProc, vbext_pk_Proc) & _ 
+ " lines in the " & strProc & " procedure."
+>>>>>>> master
 ```
 
 

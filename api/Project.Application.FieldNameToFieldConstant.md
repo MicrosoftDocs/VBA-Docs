@@ -78,15 +78,25 @@ Sub TestEnterpriseProjectCF()
     projectField = FieldNameToFieldConstant("TestEntProjText", pjProject) 
  
     ' Show the enterprise project field number and old value. 
+<<<<<<< HEAD
     message = "Enterprise project field number: " &; projectField &; vbCrLf 
     MsgBox message &; ActiveProject.ProjectSummaryTask.GetField(projectField) 
+=======
+    message = "Enterprise project field number: " & projectField & vbCrLf 
+    MsgBox message & ActiveProject.ProjectSummaryTask.GetField(projectField) 
+>>>>>>> master
  
     ActiveProject.ProjectSummaryTask.SetField FieldID:=projectField, Value:="This is a new value." 
  
     ' For a demonstration, show the field name from the field number, and verify the new value. 
     projectFieldName = FieldConstantToFieldName(projectField) 
+<<<<<<< HEAD
     message = "New value for field: " &; projectFieldName &; vbCrLf 
     MsgBox message &; ActiveProject.ProjectSummaryTask.GetField(projectField) 
+=======
+    message = "New value for field: " & projectFieldName & vbCrLf 
+    MsgBox message & ActiveProject.ProjectSummaryTask.GetField(projectField) 
+>>>>>>> master
 End Sub
 ```
 

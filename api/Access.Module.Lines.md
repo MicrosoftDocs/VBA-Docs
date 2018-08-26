@@ -64,10 +64,17 @@ Function DeleteWholeLine(strModuleName, strText As String) _
  mdl.DeleteLines lngSLine, lngNumLines 
  Else 
  MsgBox "Line contains text in addition to '" _ 
+<<<<<<< HEAD
  &; strText &; "'." 
  End If 
  Else 
  MsgBox "Text '" &; strText &; "' not found." 
+=======
+ & strText & "'." 
+ End If 
+ Else 
+ MsgBox "Text '" & strText & "' not found." 
+>>>>>>> master
  End If 
  DeleteWholeLine = True 
  
@@ -75,7 +82,11 @@ Exit_DeleteWholeLine:
  Exit Function 
  
 Error_DeleteWholeLine: 
+<<<<<<< HEAD
  MsgBox Err &; " :" &; Err.Description 
+=======
+ MsgBox Err & " :" & Err.Description 
+>>>>>>> master
  DeleteWholeLine = False 
  Resume Exit_DeleteWholeLine 
 End Function

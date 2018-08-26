@@ -32,7 +32,11 @@ Use the [Placeholders](PowerPoint.Shapes.Placeholders.md)property to return the 
 Set sObj = ActivePresentation.Slides.Add(1, ppLayoutText).Shapes
 sObj.Title.TextFrame.TextRange.Text = "This is the title text"
 sObj.Placeholders(2).TextFrame.TextRange.Text = _
+<<<<<<< HEAD
     "Item 1" &; Chr(13) &; "Item 2"
+=======
+    "Item 1" & Chr(13) & "Item 2"
+>>>>>>> master
 ```
 
 

@@ -71,7 +71,11 @@ Private Sub Form_Error(DataErr As Integer, Response As Integer)
     If DataErr = conDuplicateKey Then 
         Response = acDataErrContinue 
         strMsg = "Each employee record must have a unique " _ 
+<<<<<<< HEAD
             &; "employee ID number. Please recheck your data." 
+=======
+            & "employee ID number. Please recheck your data." 
+>>>>>>> master
         MsgBox strMsg 
     End If 
 End Sub

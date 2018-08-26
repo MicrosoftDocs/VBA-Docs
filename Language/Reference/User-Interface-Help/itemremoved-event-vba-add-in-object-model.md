@@ -13,8 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Occurs after a reference is removed from a [project](../../Glossary/vbe-glossary.md).
  **Syntax**
  **Sub**_object_**_ItemRemoved(ByVal**_item_**As Reference)**
 The required  _item_[argument](../../Glossary/vbe-glossary.md) specifies the **Reference** that was removed.
+=======
+Occurs after a reference is removed from a [project](../../Glossary/vbe-glossary.md#project).
+
+## Syntax
+
+**Sub**_object_**_ItemRemoved(ByVal**_item_**As Reference)**
+The required  _item_[argument](../../Glossary/vbe-glossary.md#argument) specifies the **Reference** that was removed.
+>>>>>>> master
 

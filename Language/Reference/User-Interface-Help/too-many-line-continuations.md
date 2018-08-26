@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Too many line continuations
 
+<<<<<<< HEAD
 There is a limit to the number of lines you can join with [line-continuation characters](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+=======
+There is a limit to the number of lines you can join with [line-continuation characters](../../Glossary/vbe-glossary.md#line-continuation-character). This error has the following cause and solution:
+>>>>>>> master
 
 
 

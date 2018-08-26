@@ -17,7 +17,11 @@ More memory was required than is available, or a 64K segment boundary was encoun
 
 - You have too many applications, documents, or source files open. Close any unnecessary applications, documents, or source files that are open.
     
+<<<<<<< HEAD
 - You have a [module](../../Glossary/vbe-glossary.md) or [procedure](../../Glossary/vbe-glossary.md) that's too large. Break large modules or procedures into smaller ones. This doesn't save memory, but it can prevent hitting 64K segment boundaries.
+=======
+- You have a [module](../../Glossary/vbe-glossary.md#module) or [procedure](../../Glossary/vbe-glossary.md#procedure) that's too large. Break large modules or procedures into smaller ones. This doesn't save memory, but it can prevent hitting 64K segment boundaries.
+>>>>>>> master
     
 - You are running Microsoft Windows in standard mode. Restart Microsoft Windows in enhanced mode.
     
@@ -27,7 +31,11 @@ More memory was required than is available, or a 64K segment boundary was encoun
     
 - You have many device drivers loaded. Eliminate unnecessary device drivers.
     
+<<<<<<< HEAD
 - You have run out of space for **Public** [variables](../../Glossary/vbe-glossary.md). Reduce the number of  **Public** variables.
+=======
+- You have run out of space for **Public** [variables](../../Glossary/vbe-glossary.md#variable). Reduce the number of  **Public** variables.
+>>>>>>> master
     
 - You have attempted to update a property that is read-only. Do not assign values to read-only properties.
 

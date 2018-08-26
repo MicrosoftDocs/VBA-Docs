@@ -13,20 +13,44 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a key setting value from an application's entry in the Windows [registry](../../Glossary/vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
  **Syntax**
  **GetSetting( _appname_,** **_section_,** **_key_** [ **,** **_default_** ] **)**
 The  **GetSetting** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+Returns a key setting value from an application's entry in the Windows [registry](../../Glossary/vbe-glossary.md#registry) or (on the Macintosh) information in the application's initialization file.
+
+## Syntax
+
+**GetSetting( _appname_,** **_section_,** **_key_** [ **,** **_default_** ] **)**
+The  **GetSetting** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md) containing the name of the application or project whose key setting is requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is found.|
 |**_key_**|Required. String expression containing the name of the key setting to return.|
 |**_default_**|Optional. [Expression](../../Glossary/vbe-glossary.md) containing the value to return if no value is set in the key setting. If omitted, **_default_** is assumed to be a zero-length string ("").|
 
  **Remarks**
+=======
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or project whose key setting is requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_section_**|Required. String expression containing the name of the section where the key setting is found.|
+|**_key_**|Required. String expression containing the name of the key setting to return.|
+|**_default_**|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) containing the value to return if no value is set in the key setting. If omitted, **_default_** is assumed to be a zero-length string ("").|
+
+## Remarks
+
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
+>>>>>>> master
 If any of the items named in the  **GetSetting** arguments do not exist, **GetSetting** returns the value of **_default_**.
 
 ## Example

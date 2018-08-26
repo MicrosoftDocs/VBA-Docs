@@ -67,10 +67,17 @@ Sub CalendarBar_StyleEdit()
     ViewApply Name:="Calendar" 
  
     CalendarBarStylesEditEx Item:=pjBarCritical, Bar:=PjCalendarBarType.pjNormalBar, _
+<<<<<<< HEAD
           Color:=&;HAA00AA, Pattern:=PjFillPattern.pjDiagonalRightPattern, _
           Field1:="Name", Field2:="Resource Names" 
     CalendarBarStylesEditEx Item:=pjBarSummary, Bar:=PjCalendarBarType.pjLineBar, _
     Color:=&;H1AA01 
+=======
+          Color:=&HAA00AA, Pattern:=PjFillPattern.pjDiagonalRightPattern, _
+          Field1:="Name", Field2:="Resource Names" 
+    CalendarBarStylesEditEx Item:=pjBarSummary, Bar:=PjCalendarBarType.pjLineBar, _
+    Color:=&H1AA01 
+>>>>>>> master
 End Sub
 ```
 

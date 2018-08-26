@@ -1,22 +1,34 @@
 ---
+<<<<<<< HEAD
 title: Server Property Example (VBScript)
+=======
+title: Server property example (VBScript)
+ROBOTS: INDEX
+>>>>>>> master
 ms.prod: access
 ms.assetid: d35ad670-c9bd-de51-0e4d-ebcad0cb2b55
 ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
 # Server Property Example (VBScript)
 
   
+=======
+# Server property example (VBScript)
+>>>>>>> master
 
 **Applies to:** Access 2013 | Access 2016
 
 The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameter at design time and bind it to a data-aware control using the SQLOLEDB provider. Cut and paste this code into a normal ASP document and name it **ServerDesignVBS.asp**. ASP script will identify your server.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> master
 ```vb
 
 <!-- BeginServerDesignVBS --><%@ Language=VBScript %>
@@ -50,7 +62,11 @@ font-size: x-small;}
 <!-- EndServerDesignVBS -->
 ```
 
+<<<<<<< HEAD
 The following example shows how to set the necessary parameters of  **RDS.DataControl** at run time. To test this example, cut and paste this code into a normal ASP document and name it **ServerRuntimeVBS.asp**. ASP script will identify your server.
+=======
+The following example shows how to set the necessary parameters of **RDS.DataControl** at run time. To test this example, cut and paste this code into a normal ASP document and name it **ServerRuntimeVBS.asp**. ASP script will identify your server.
+>>>>>>> master
 
 
 
@@ -98,6 +114,7 @@ End Sub-->
 <!-- EndServerRuntimeVBS -->
 ```
 
+<<<<<<< HEAD
 [DataControl Object (RDS)](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) |[Server Property (RDS)](http://msdn.microsoft.com/library/17519dbe-a43a-1d0d-22c1-dc0def2f63ab%28Office.15%29.aspx)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
@@ -109,3 +126,16 @@ End Sub-->
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+
+
+## See also
+
+- [DataControl Object (RDS)](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) - [Server Property (RDS)](http://msdn.microsoft.com/library/17519dbe-a43a-1d0d-22c1-dc0def2f63ab%28Office.15%29.aspx)
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

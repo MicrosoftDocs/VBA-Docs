@@ -92,9 +92,15 @@ Sub TestReportTable()
     Set theReportTable = tableShape.Table
     
     With theReportTable
+<<<<<<< HEAD
         Debug.Print "Rows: " &; .RowsCount
         Debug.Print "Columns: " &; .ColumnsCount
         Debug.Print "Cell 1,1 contents:" &; vbCrLf &; vbTab; .GetCellText(1, 1)
+=======
+        Debug.Print "Rows: " & .RowsCount
+        Debug.Print "Columns: " & .ColumnsCount
+        Debug.Print "Cell 1,1 contents:" & vbCrLf & vbTab; .GetCellText(1, 1)
+>>>>>>> master
     End With
 End Sub
 ```

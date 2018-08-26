@@ -13,6 +13,7 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 A unary operator that causes the address of the [procedure](../../Glossary/vbe-glossary.md) it precedes to be passed to an API procedure that expects a function pointer at that position in the[argument](../../Glossary/vbe-glossary.md) list.
  **Syntax**
  **AddressOf**_procedurename_
@@ -21,6 +22,20 @@ The required  _procedurename_ specifies the procedure whose address is to be pas
 When a procedure name appears in an argument list, usually the procedure is evaluated, and the address of the procedure's return value is passed.  **AddressOf** permits the address of the procedure to be passed to a Windows API function in a[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md), rather passing the procedure's return value. The API function can then use the address to call the Basic procedure, a process known as a callback. The  **AddressOf** operator appears only in the call to the API procedure.
 Although you can use  **AddressOf** to pass procedure pointers among Basic procedures, you can't call a function through such a pointer from within Basic. This means, for example, that a[class](../../Glossary/vbe-glossary.md) written in Basic can't make a callback to its controller using such a pointer. When using **AddressOf** to pass a procedure pointer among procedures within Basic, the[parameter](../../Glossary/vbe-glossary.md) of the called procedure must be typed **As Long**.
 Using  **AddressOf** may cause unpredictable results if you don't completely understand the concept of function callbacks. You must understand how the Basic portion of the callback works, and also the code of the DLL into which you are passing your function address. Debugging such interactions is difficult since the program runs in the same process as the[development environment](../../Glossary/vbe-glossary.md). In some cases, systematic debugging may not be possible.
+=======
+A unary operator that causes the address of the [procedure](../../Glossary/vbe-glossary.md#procedure) it precedes to be passed to an API procedure that expects a function pointer at that position in the[argument](../../Glossary/vbe-glossary.md#argument) list.
+
+## Syntax
+
+**AddressOf**_procedurename_
+The required  _procedurename_ specifies the procedure whose address is to be passed. It must represent a procedure in a[standard module](../../Glossary/vbe-glossary.md#standard-module) module in the[project](../../Glossary/vbe-glossary.md#project) in which the call is made.
+
+## Remarks
+
+When a procedure name appears in an argument list, usually the procedure is evaluated, and the address of the procedure's return value is passed.  **AddressOf** permits the address of the procedure to be passed to a Windows API function in a[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), rather passing the procedure's return value. The API function can then use the address to call the Basic procedure, a process known as a callback. The  **AddressOf** operator appears only in the call to the API procedure.
+Although you can use  **AddressOf** to pass procedure pointers among Basic procedures, you can't call a function through such a pointer from within Basic. This means, for example, that a[class](../../Glossary/vbe-glossary.md#class) written in Basic can't make a callback to its controller using such a pointer. When using **AddressOf** to pass a procedure pointer among procedures within Basic, the[parameter](../../Glossary/vbe-glossary.md#parameter) of the called procedure must be typed **As Long**.
+Using  **AddressOf** may cause unpredictable results if you don't completely understand the concept of function callbacks. You must understand how the Basic portion of the callback works, and also the code of the DLL into which you are passing your function address. Debugging such interactions is difficult since the program runs in the same process as the[development environment](../../Glossary/vbe-glossary.md#development-environment). In some cases, systematic debugging may not be possible.
+>>>>>>> master
 
  **Note**  You can create your own call-back function prototypes in DLLs compiled with Microsoft Visual C++ (or similar tools). To work with  **AddressOf**, your prototype must use the __stdcall calling convention. The default calling convention (__cdecl) will not work with **AddressOf**.
 
@@ -98,6 +113,7 @@ Type NEWTEXTMETRIC
 End Type
 
 ' ntmFlags field flags
+<<<<<<< HEAD
 Public Const NTM_REGULAR = &;H40&;
 Public Const NTM_BOLD = &;H20&;
 Public Const NTM_ITALIC = &;H1&;
@@ -107,14 +123,31 @@ Public Const TMPF_FIXED_PITCH = &;H1
 Public Const TMPF_VECTOR = &;H2
 Public Const TMPF_DEVICE = &;H8
 Public Const TMPF_TRUETYPE = &;H4
+=======
+Public Const NTM_REGULAR = &H40&
+Public Const NTM_BOLD = &H20&
+Public Const NTM_ITALIC = &H1&
+
+'  tmPitchAndFamily flags
+Public Const TMPF_FIXED_PITCH = &H1
+Public Const TMPF_VECTOR = &H2
+Public Const TMPF_DEVICE = &H8
+Public Const TMPF_TRUETYPE = &H4
+>>>>>>> master
 
 Public Const ELF_VERSION = 0
 Public Const ELF_CULTURE_LATIN = 0
 
 '  EnumFonts Masks
+<<<<<<< HEAD
 Public Const RASTER_FONTTYPE = &;H1
 Public Const DEVICE_FONTTYPE = &;H2
 Public Const TRUETYPE_FONTTYPE = &;H4
+=======
+Public Const RASTER_FONTTYPE = &H1
+Public Const DEVICE_FONTTYPE = &H2
+Public Const TRUETYPE_FONTTYPE = &H4
+>>>>>>> master
 
 Declare Function EnumFontFamilies Lib "gdi32" Alias _
      "EnumFontFamiliesA" _

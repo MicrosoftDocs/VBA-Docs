@@ -40,7 +40,11 @@ This example saves a copy of the active presentation as an HTML file, with the s
 Private Sub App_PresentationClose(ByVal Pres As Presentation)
     FindNum = InStr(1, Pres.FullName, ".")
     HTMLName = Mid(Pres.FullName, 1, FindNum - 1) _
+<<<<<<< HEAD
         &; ".htm"
+=======
+        & ".htm"
+>>>>>>> master
     Pres.SaveCopyAs HTMLName, ppSaveAsHTML
 End Sub
 ```

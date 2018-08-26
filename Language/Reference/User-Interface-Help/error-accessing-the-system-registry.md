@@ -15,7 +15,11 @@ Some operations must access your system's registration database. This error has 
 
 
 
+<<<<<<< HEAD
 - The registration database for your system has been corrupted. Run the  **Setup** program for the[host application](../../Glossary/vbe-glossary.md) again.
+=======
+- The registration database for your system has been corrupted. Run the  **Setup** program for the[host application](../../Glossary/vbe-glossary.md#host-application) again.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

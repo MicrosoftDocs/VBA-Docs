@@ -50,10 +50,28 @@ Sub CreateColorScaleCF()
 End Sub
 ```
 
+<<<<<<< HEAD
 
 ## See also
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
+=======
+## Properties
+
+|**Name**|
+|:-----|
+|[Application Property](excel.formatcolor.application.md)|
+|[Color Property](excel.formatcolor.color.md)|
+|[ColorIndex Property](excel.formatcolor.colorindex.md)|
+|[Creator Property](excel.formatcolor.creator.md)|
+|[Parent Property](excel.formatcolor.parent.md)|
+|[ThemeColor Property](excel.formatcolor.themecolor.md)|
+|[TintAndShade Property](excel.formatcolor.tintandshade.md)|
+
+## See also
+
+[ColorScaleCriterion.FormatColor Property](excel.colorscalecriterion.formatcolor.md)
+>>>>>>> master
 

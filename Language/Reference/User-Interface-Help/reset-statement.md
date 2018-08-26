@@ -13,11 +13,20 @@ ms.date: 06/08/2017
 
 Closes all disk files opened using the  **Open** statement.
 
+<<<<<<< HEAD
  **Syntax**
 
  **Reset**
 
  **Remarks**
+=======
+## Syntax
+
+**Reset**
+
+## Remarks
+
+>>>>>>> master
 The  **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
 
 ## Example
@@ -30,7 +39,11 @@ Dim FileNumber
 For FileNumber = 1 To 5 ' Loop 5 times. 
  ' Open file for output. FileNumber is concatenated into the string 
  ' TEST for the file name, but is a number following a #. 
+<<<<<<< HEAD
  Open "TEST" &; FileNumber For Output As #FileNumber 
+=======
+ Open "TEST" & FileNumber For Output As #FileNumber 
+>>>>>>> master
  Write #FileNumber, "Hello World" ' Write data to file. 
 Next FileNumber 
 Reset ' Close files and write contents 

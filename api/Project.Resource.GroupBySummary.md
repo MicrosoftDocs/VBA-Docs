@@ -65,7 +65,11 @@ Sub ShowGroupByItems()
  rowType = "' is a resource row." 
  End If 
  
+<<<<<<< HEAD
  msg = msg &; "Resource name: '" &; res.Name &; rowType &; vbCrLf 
+=======
+ msg = msg & "Resource name: '" & res.Name & rowType & vbCrLf 
+>>>>>>> master
  SelectCellDown 
  End If 
  Wend 

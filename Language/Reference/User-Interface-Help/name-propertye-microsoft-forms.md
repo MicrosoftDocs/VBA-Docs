@@ -14,7 +14,13 @@ ms.date: 06/08/2017
 
 
 Specifies the name of a control or an object, or the name of a font to associate with a  **Font** object.
+<<<<<<< HEAD
  **Syntax**
+=======
+
+## Syntax
+
+>>>>>>> master
 For Font _Font_. **Name** [= _String_ ]
 For all other controls and objects _object_. **Name** [= _String_ ]
 The  **Name** property syntax has these parts:
@@ -27,9 +33,17 @@ The  **Name** property syntax has these parts:
 
  **Settings**
 Guidelines for assigning a string to  **Name**, such as the maximum length of the name, vary from one application to another.
+<<<<<<< HEAD
  **Remarks**
 For objects, the default value of  **Name** consists of the object's[class](../../Glossary/vbe-glossary.md) name followed by an integer. For example, the default name for the first **TextBox** you place on a form is TextBox1. The default name for the second **TextBox** is TextBox2.
 You can set the  **Name** property for a control from the control's property sheet or, for controls added at[run time](../../Glossary/vbe-glossary.md), by using program statements. If you add a control at [design time](../../Glossary/vbe-glossary.md), you cannot modify its  **Name** property at run time.
+=======
+
+## Remarks
+
+For objects, the default value of  **Name** consists of the object's[class](../../Glossary/vbe-glossary.md#class) name followed by an integer. For example, the default name for the first **TextBox** you place on a form is TextBox1. The default name for the second **TextBox** is TextBox2.
+You can set the  **Name** property for a control from the control's property sheet or, for controls added at[run time](../../Glossary/vbe-glossary.md#run-time), by using program statements. If you add a control at [design time](../../Glossary/vbe-glossary.md#design-time), you cannot modify its  **Name** property at run time.
+>>>>>>> master
 Each control added to a form at design time must have a unique name.
 For  **Font** objects, **Name** identifies a particular typeface to use in the text portion of a control, object, or form. The font's appearance on screen and in print may differ, depending on your computer and printer. If you select a font that your system can't display or that isn't installed, the operating system substitutes a similar font.
 

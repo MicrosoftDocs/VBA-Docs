@@ -36,7 +36,11 @@ The following example demonstrates the syntax for a subroutine that traps the  *
 ```vb
 Private Sub Form_OnConnect() 
  MsgBox "The PivotTable View has " _ 
+<<<<<<< HEAD
  &; "connected to its data source!" 
+=======
+ & "connected to its data source!" 
+>>>>>>> master
 End Sub
 ```
 

@@ -27,10 +27,17 @@ Sub ListCustomReports()
     Dim msg As String
     Dim msgBoxTitle As String
     msg = ""
+<<<<<<< HEAD
     msgBoxTitle = "Custom reports in '" &; ActiveProject.Name &; "'"
     
     For Each oReport In ActiveProject.Reports
         msg = msg &; oReport.Index &; oReport.Name &; vbCrLf
+=======
+    msgBoxTitle = "Custom reports in '" & ActiveProject.Name & "'"
+    
+    For Each oReport In ActiveProject.Reports
+        msg = msg & oReport.Index & oReport.Name & vbCrLf
+>>>>>>> master
     Next oReport
         
     If ActiveProject.Reports.Count > 0 Then

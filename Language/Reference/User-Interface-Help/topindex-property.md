@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Sets and returns the item that appears in the topmost position in the list.
+<<<<<<< HEAD
  **Syntax**
  _object_. **TopIndex** [= _Variant_ ]
+=======
+
+## Syntax
+
+_object_. **TopIndex** [= _Variant_ ]
+>>>>>>> master
 The  **TopIndex** property syntax has these parts:
 
 

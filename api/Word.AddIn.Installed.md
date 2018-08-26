@@ -53,7 +53,11 @@ This example loads Custom.dot.
 
 ```vb
 AddIns("C:\Program Files\Microsoft Office\" _ 
+<<<<<<< HEAD
  &; "Templates\Custom.dot").Installed = True
+=======
+ & "Templates\Custom.dot").Installed = True
+>>>>>>> master
 ```
 
 This example displays a message on the status bar if Dot1.dot is loaded as a global template.

@@ -15,7 +15,11 @@ You must select some text to perform this operation. This error has the followin
 
 
 
+<<<<<<< HEAD
 - You didn't select any text prior to initiating a Find or Replace operation. Some [host applications](../../Glossary/vbe-glossary.md) permit you to specify selection[scope](../../Glossary/vbe-glossary.md) when searching for and replacing text, even though no text is actually selected. To select text, place the pointer at the beginning of the desired selection, then hold down the SHIFT key and use either the arrow keys or click the end of the text to complete the selection. If you don't want to search selected text, undo the **Selection** option.
+=======
+- You didn't select any text prior to initiating a Find or Replace operation. Some [host applications](../../Glossary/vbe-glossary.md#host-application) permit you to specify selection[scope](../../Glossary/vbe-glossary.md#scope) when searching for and replacing text, even though no text is actually selected. To select text, place the pointer at the beginning of the desired selection, then hold down the SHIFT key and use either the arrow keys or click the end of the text to complete the selection. If you don't want to search selected text, undo the **Selection** option.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

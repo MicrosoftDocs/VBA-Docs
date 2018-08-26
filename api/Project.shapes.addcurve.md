@@ -70,7 +70,11 @@ Sub AddBezierCurve()
 
     With curveShape
         .Line.Weight = 2
+<<<<<<< HEAD
         .Line.ForeColor.RGB = &;H1FFAA
+=======
+        .Line.ForeColor.RGB = &H1FFAA
+>>>>>>> master
     End With
 End Sub
 ```

@@ -13,11 +13,23 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns an [Integer](../../Glossary/vbe-glossary.md) representing the next [file number](../../Glossary/vbe-glossary.md) available for use by the **Open** statement.
  **Syntax**
  **FreeFile** [ **(**_rangenumber_**)** ]
 The optional  _rangenumber_ argument is a[Variant](../../Glossary/vbe-glossary.md) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
  **Remarks**
+=======
+Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) representing the next [file number](../../Glossary/vbe-glossary.md#file-number) available for use by the **Open** statement.
+
+## Syntax
+
+**FreeFile** [ **(**_rangenumber_**)** ]
+The optional  _rangenumber_ argument is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
+
+## Remarks
+
+>>>>>>> master
 Use  **FreeFile** to supply a file number that is not already in use.
 
 ## Example
@@ -30,7 +42,11 @@ Dim MyIndex, FileNumber
 For MyIndex = 1 To 5    ' Loop 5 times.
     FileNumber = FreeFile    ' Get unused file
         ' number.
+<<<<<<< HEAD
     Open "TEST" &; MyIndex For Output As #FileNumber    ' Create file name.
+=======
+    Open "TEST" & MyIndex For Output As #FileNumber    ' Create file name.
+>>>>>>> master
     Write #FileNumber, "This is a sample."    ' Output text.
     Close #FileNumber    ' Close file.
 Next MyIndex

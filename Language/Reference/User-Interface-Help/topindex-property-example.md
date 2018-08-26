@@ -50,7 +50,11 @@ Private Sub UserForm_Initialize()
  Dim i As Integer 
  
  For i = 0 To 24 
+<<<<<<< HEAD
  ListBox1.AddItem "Choice " &; (i + 1) 
+=======
+ ListBox1.AddItem "Choice " & (i + 1) 
+>>>>>>> master
  Next i 
  ListBox1.Height = 66 
  CommandButton1.Caption = "Move to top of list" 

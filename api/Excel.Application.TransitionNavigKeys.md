@@ -34,7 +34,11 @@ If Application.TransitionNavigKeys Then
 Else 
  keyState = "Off" 
 End If 
+<<<<<<< HEAD
 MsgBox "The Transition Navigation Keys option is " &; keyState
+=======
+MsgBox "The Transition Navigation Keys option is " & keyState
+>>>>>>> master
 ```
 
 

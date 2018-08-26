@@ -36,7 +36,11 @@ This example displays the caption of each window in the  **Windows** collection.
 ```vb
 Count = 1 
 For Each win In Windows 
+<<<<<<< HEAD
  MsgBox Prompt:=win.Caption, Title:="Window" &; Str(Count) &; _ 
+=======
+ MsgBox Prompt:=win.Caption, Title:="Window" & Str(Count) & _ 
+>>>>>>> master
  " Caption" 
  Count = Count + 1 
 Next win
@@ -66,7 +70,11 @@ This example changes the caption of the Word application window to include the u
 
 
 ```vb
+<<<<<<< HEAD
 Application.Caption = UserName &; "'s copy of Word"
+=======
+Application.Caption = UserName & "'s copy of Word"
+>>>>>>> master
 ```
 
 This example inserts a Table caption and then changes the caption of the first table of figures to "Table."

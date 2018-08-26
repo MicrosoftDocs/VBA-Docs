@@ -42,7 +42,11 @@ This example adds a hyperlink to the selection in the active document, sets the 
 Set aHLink = ActiveDocument.Hyperlinks.Add( _ 
  Anchor:=Selection.Range, _ 
  Address:="https://forms") 
+<<<<<<< HEAD
 MsgBox "The hyperlink goes to " &; aHLink.Address
+=======
+MsgBox "The hyperlink goes to " & aHLink.Address
+>>>>>>> master
 ```
 
 If the active document includes hyperlinks, this example inserts a list of the hyperlink destinations at the end of the document.
@@ -57,7 +61,11 @@ Count = 0
 For Each aHyperlink In ActiveDocument.Hyperlinks 
  Count = Count + 1 
  With myRange 
+<<<<<<< HEAD
  .InsertAfter "Hyperlink #" &; Count &; vbTab 
+=======
+ .InsertAfter "Hyperlink #" & Count & vbTab 
+>>>>>>> master
  .InsertAfter aHyperlink.Address 
  .InsertParagraphAfter 
  End With 

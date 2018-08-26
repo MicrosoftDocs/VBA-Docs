@@ -14,19 +14,37 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) for a specified year, month, and day.
+<<<<<<< HEAD
  **Syntax**
  **DateSerial( _year_, _month_, _day_ )**
 The  **DateSerial** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+
+## Syntax
+
+**DateSerial( _year_, _month_, _day_ )**
+The  **DateSerial** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_year_**|Required;  **Integer**. Number between 100 and 9999, inclusive, or a[numeric expression](../../Glossary/vbe-glossary.md).|
 |**_month_**|Required;  **Integer**. Any numeric expression.|
 |**_day_**|Required;  **Integer**. Any numeric expression.|
 
  **Remarks**
 To specify a date, such as December 31, 1991, the range of numbers for each  **DateSerial**[argument](../../Glossary/vbe-glossary.md) should be in the accepted range for the unit; that is, 1-31 for days and 1-12 for months. However, you can also specify relative dates for each argument using any numeric expression that represents some number of days, months, or years before or after a certain date.
+=======
+|**_year_**|Required;  **Integer**. Number between 100 and 9999, inclusive, or a[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
+|**_month_**|Required;  **Integer**. Any numeric expression.|
+|**_day_**|Required;  **Integer**. Any numeric expression.|
+
+## Remarks
+
+To specify a date, such as December 31, 1991, the range of numbers for each  **DateSerial**[argument](../../Glossary/vbe-glossary.md#argument) should be in the accepted range for the unit; that is, 1-31 for days and 1-12 for months. However, you can also specify relative dates for each argument using any numeric expression that represents some number of days, months, or years before or after a certain date.
+>>>>>>> master
 The following example uses numeric expressions instead of absolute date numbers. Here the  **DateSerial** function returns a date that is the day before the first day ( `1 - 1`), two months before August ( `8 - 2`), 10 years before 1990 (), two months before August ( `8 - 2`), 10 years before 1990 ( `1990 - 10`); in other words, May 31, 1980.
 Under Windows 98 or Windows 2000, two digit years for the  **_year_** argument are interpreted based on user-defined machine settings. The default settings are that values between 0 and 29, inclusive, are interpreted as the years 2000-2029. The default values between 30 and 99 are interpreted as the years 1930-1999. For all other **_year_** arguments, use a four-digit year (for example, 1800).
 Earlier versions of Windows interpret two-digit years based on the defaults described above. To be sure the function returns the proper value, use a four-digit year.

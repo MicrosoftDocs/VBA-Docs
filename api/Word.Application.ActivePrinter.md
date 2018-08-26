@@ -34,7 +34,11 @@ This example displays the name of the active printer.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The name of the active printer is " &; ActivePrinter
+=======
+MsgBox "The name of the active printer is " & ActivePrinter
+>>>>>>> master
 ```
 
 This example makes a network HP LaserJet IIISi printer the active printer.

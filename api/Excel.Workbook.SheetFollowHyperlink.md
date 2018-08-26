@@ -40,7 +40,11 @@ This example keeps a list, or history, of all the hyperlinks in the current work
 ```vb
 Private Sub Workbook_SheetFollowHyperlink(ByVal Sh as Object, _ 
  ByVal Target As Hyperlink) 
+<<<<<<< HEAD
  UserForm1.ListBox1.AddItem Sh.Name &; ":" &; Target.Address 
+=======
+ UserForm1.ListBox1.AddItem Sh.Name & ":" & Target.Address 
+>>>>>>> master
  UserForm1.Show 
 End Sub
 ```

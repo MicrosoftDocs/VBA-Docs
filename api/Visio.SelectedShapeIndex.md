@@ -50,7 +50,11 @@ For intShapeCounter = 1 To vsoViewer.ShapeCount
 
     If vsoViewer.CustomPropertyValue(intSelectedShapeIndex, 1) = "Computer 100" Then
 
+<<<<<<< HEAD
         Interaction.MsgBox ("Selected shape name is " &; vsoViewer.CustomPropertyValue(intSelectedShapeIndex, 1))
+=======
+        Interaction.MsgBox ("Selected shape name is " & vsoViewer.CustomPropertyValue(intSelectedShapeIndex, 1))
+>>>>>>> master
 
     End If
 

@@ -11,6 +11,7 @@ ms.date: 06/08/2017
 
 # Expected array
 
+<<<<<<< HEAD
 A [variable](../../Glossary/vbe-glossary.md) name with a subscript indicates the variable is an[array](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
 
 
@@ -18,6 +19,15 @@ A [variable](../../Glossary/vbe-glossary.md) name with a subscript indicates the
 - The syntax you specified is appropriate for an array, but no array with this name is in [scope](../../Glossary/vbe-glossary.md).
     
     Check to make sure the name of the variable is spelled correctly. Unless the [module](../../Glossary/vbe-glossary.md) contains **Option Explicit**, a variable is created on first use. If you misspell the name of an array variable, the variable may be created, but not as an array.
+=======
+A [variable](../../Glossary/vbe-glossary.md#variable) name with a subscript indicates the variable is an[array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
+
+
+
+- The syntax you specified is appropriate for an array, but no array with this name is in [scope](../../Glossary/vbe-glossary.md#scope).
+    
+    Check to make sure the name of the variable is spelled correctly. Unless the [module](../../Glossary/vbe-glossary.md#module) contains **Option Explicit**, a variable is created on first use. If you misspell the name of an array variable, the variable may be created, but not as an array.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

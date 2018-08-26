@@ -53,8 +53,13 @@ Dim cnnConnect As ADODB.Connection
 Dim rstRecordset As ADODB.Recordset 
  
 Set cnnConnect = New ADODB.Connection 
+<<<<<<< HEAD
 cnnConnect.Open "Provider=SQLOLEDB;" &; _ 
     "Data Source=srvdata;" &; _ 
+=======
+cnnConnect.Open "Provider=SQLOLEDB;" & _ 
+    "Data Source=srvdata;" & _ 
+>>>>>>> master
     "User ID=testac;Password=4me2no;" 
  
 Set rstRecordset = New ADODB.Recordset 

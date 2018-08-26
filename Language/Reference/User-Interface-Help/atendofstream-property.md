@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Read-only property that returns  **True** if the file pointer is at the end of a **TextStream** file; **False** if it is not.
+<<<<<<< HEAD
  **Syntax**
  _object_. **AtEndOfStream**
 The  _object_ is always the name of a **TextStream** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **AtEndOfStream**
+The  _object_ is always the name of a **TextStream** object.
+
+## Remarks
+
+>>>>>>> master
 The  **AtEndOfStream** property applies only to **TextStream** files that are open for reading; otherwise, an error occurs.
 The following code illustrates the use of the  **AtEndOfStream** property:
 

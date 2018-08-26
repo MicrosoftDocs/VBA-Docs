@@ -13,9 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Specify the height, in [points](../../Glossary/vbe-glossary.md), of the total area that can be viewed by moving the scroll bars on the control, form, or page.
  **Syntax**
  _object_. **ScrollHeight** [= _Single_ ]
+=======
+Specify the height, in [points](../../Glossary/vbe-glossary.md#point), of the total area that can be viewed by moving the scroll bars on the control, form, or page.
+
+## Syntax
+
+_object_. **ScrollHeight** [= _Single_ ]
+>>>>>>> master
  _object_. **ScrollWidth** [= _Single_ ]
 The  **ScrollHeight** and **ScrollWidth** property syntaxes have these parts:
 

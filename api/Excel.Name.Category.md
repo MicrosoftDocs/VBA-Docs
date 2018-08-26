@@ -31,9 +31,15 @@ This example assumes that you created a custom function or command on a Microsof
 ```vb
 With ActiveWorkbook.Names(1) 
  If .MacroType <> xlNone Then 
+<<<<<<< HEAD
  MsgBox "The category for this name is " &; .Category 
  Else 
  MsgBox "This name does not refer to" &; _ 
+=======
+ MsgBox "The category for this name is " & .Category 
+ Else 
+ MsgBox "This name does not refer to" & _ 
+>>>>>>> master
  " a custom function or command." 
  End If 
 End With

@@ -45,7 +45,11 @@ Using this example, you can specify the percentage you want to crop off the left
 
 ```vb
 percentToCrop = InputBox( _ 
+<<<<<<< HEAD
  "What percentage do you want to crop" &; _ 
+=======
+ "What percentage do you want to crop" & _ 
+>>>>>>> master
  " off the left of this picture?") 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1) 
 With shapeToCrop.Duplicate 

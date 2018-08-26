@@ -43,8 +43,13 @@ Public WithEvents appWord as Word.Application
 Private Sub appWord_WindowBeforeDoubleClick _ 
  (ByVal Sel As Selection, Cancel As Boolean) 
  Dim intResponse As Integer 
+<<<<<<< HEAD
  intResponse = MsgBox("Selection = " &; Sel &; vbLf &; vbLf _ 
  &; "Continue with operation on this selection?", _ 
+=======
+ intResponse = MsgBox("Selection = " & Sel & vbLf & vbLf _ 
+ & "Continue with operation on this selection?", _ 
+>>>>>>> master
  vbYesNo) 
  If intResponse = vbNo Then Cancel = True 
 End Sub

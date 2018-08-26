@@ -33,7 +33,11 @@ Dim sngMargin As Single
  
 If System.CountryRegion = wdUS Then 
  sngMargin = ActiveDocument.PageSetup.TopMargin 
+<<<<<<< HEAD
  MsgBox "Top margin is " &; PointsToInches(sngMargin) 
+=======
+ MsgBox "Top margin is " & PointsToInches(sngMargin) 
+>>>>>>> master
 End If
 ```
 

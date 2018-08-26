@@ -1,11 +1,17 @@
 ---
+<<<<<<< HEAD
 title: InternetTimeout Property Example (VC++)
+=======
+title: InternetTimeout property example (VC++)
+ROBOTS: INDEX
+>>>>>>> master
 ms.prod: access
 ms.assetid: 56c0d0df-8f8b-428f-ece9-ae5b98c9b820
 ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
 # InternetTimeout Property Example (VC++)
 
   
@@ -18,6 +24,15 @@ This example demonstrates the [InternetTimeout](http://msdn.microsoft.com/librar
 
 
 ```c#
+=======
+# InternetTimeout property example (VC++)
+
+**Applies to:** Access 2013 | Access 2016
+
+This example demonstrates the [InternetTimeout](http://msdn.microsoft.com/library/66fc6e87-3d23-ce2c-18f5-0fc83ac43801%28Office.15%29.aspx) property, which exists on the [DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) and [DataSpace](http://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) objects. In this case, the **InternetTimeout** property is demonstrated on the **DataControl** object and the timeout is set to 20 seconds.
+
+```cpp
+>>>>>>> master
 
 // BeginInternetTimeoutCpp#import "c:\Program Files\Common Files\System\ADO\msado15.dll" \
 no_namespace rename("EOF", "EndOfFile")#import "C:\Program Files\Common Files\System\MSADC\msadco.dll" 
@@ -78,6 +93,7 @@ printf("\tSource = %s\n", (LPCSTR) bstrSource);printf("\tDescription = %s\n", (L
 }// EndInternetTimeoutCpp
 ```
 
+<<<<<<< HEAD
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
@@ -88,3 +104,13 @@ printf("\tSource = %s\n", (LPCSTR) bstrSource);printf("\tDescription = %s\n", (L
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

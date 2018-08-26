@@ -15,7 +15,11 @@ Not all objects expose an Automation interface. This error has the following cau
 
 
 
+<<<<<<< HEAD
 - The [class](../../Glossary/vbe-glossary.md) you specified in the **GetObject** or **CreateObject** function call was found, but has not exposed a programmability interface.
+=======
+- The [class](../../Glossary/vbe-glossary.md#class) you specified in the **GetObject** or **CreateObject** function call was found, but has not exposed a programmability interface.
+>>>>>>> master
     
     You can't write code to control an object's behavior unless it has been exposed for Automation. Check the documentation of the application that created the object for limitations on the use of Automation with this class of object.
     

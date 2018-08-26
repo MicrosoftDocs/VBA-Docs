@@ -49,8 +49,13 @@ Private Sub app_DocumentSync(ByVal Doc As Document, _
  If SyncEventType = msoSyncEventDownloadFailed Or _ 
  SyncEventType = msoSyncEventUploadFailed Then 
  
+<<<<<<< HEAD
  MsgBox "Document synchronization failed. " &; _ 
  "Please contact your administrator " &; vbCrLf &; _ 
+=======
+ MsgBox "Document synchronization failed. " & _ 
+ "Please contact your administrator " & vbCrLf & _ 
+>>>>>>> master
  "or try again later." 
  
  End If 

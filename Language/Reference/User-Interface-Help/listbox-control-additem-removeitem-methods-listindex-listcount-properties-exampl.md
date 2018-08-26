@@ -31,7 +31,11 @@ Dim EntryCount As Single
  
 Private Sub CommandButton1_Click() 
  EntryCount = EntryCount + 1 
+<<<<<<< HEAD
  ListBox1.AddItem (EntryCount &; " - Selection") 
+=======
+ ListBox1.AddItem (EntryCount & " - Selection") 
+>>>>>>> master
 End Sub
 ```
 

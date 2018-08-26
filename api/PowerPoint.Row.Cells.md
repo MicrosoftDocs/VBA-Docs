@@ -46,7 +46,11 @@ With Presentations.Add
     For i = 1 To myTable.Columns.Count
         For j = 1 To myTable.Columns(i).Cells.Count
             myTable.Columns(i).Cells(j).Shape.TextFrame _
+<<<<<<< HEAD
                 .TextRange.Text = "col. " &; i &; "row " &; j
+=======
+                .TextRange.Text = "col. " & i & "row " & j
+>>>>>>> master
         Next j
     Next i
 

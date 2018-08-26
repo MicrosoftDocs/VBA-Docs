@@ -84,7 +84,11 @@ Sub DemoConversationTable()
  oRow("EntryID"), _ 
  oRow.BinaryToString(PR_STORE_ENTRYID)) 
  Debug.Print oItem.Subject, _ 
+<<<<<<< HEAD
  "Attachments.Count=" &; oItem.Attachments.count 
+=======
+ "Attachments.Count=" & oItem.Attachments.count 
+>>>>>>> master
  Loop 
  End If 
  End If 

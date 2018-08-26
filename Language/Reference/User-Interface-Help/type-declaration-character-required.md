@@ -11,14 +11,24 @@ ms.date: 06/08/2017
 
 # Type-declaration character required
 
+<<<<<<< HEAD
 The necessity of using [type-declaration characters](../../Glossary/vbe-glossary.md) depends on the form of the [identifier's](../../Glossary/vbe-glossary.md) declaration. This error has the following cause and solution:
 
 - A [variable](../../Glossary/vbe-glossary.md) that was originally implicitly declared with a type-declaration characters was referenced without a type-declaration character. For example:
+=======
+The necessity of using [type-declaration characters](../../Glossary/vbe-glossary.md#type-declaration-character) depends on the form of the [identifier's](../../Glossary/vbe-glossary.md#identifier) declaration. This error has the following cause and solution:
+
+- A [variable](../../Glossary/vbe-glossary.md#variable) that was originally implicitly declared with a type-declaration characters was referenced without a type-declaration character. For example:
+>>>>>>> master
     
   ```vb
       MyStr$ = "Implicit declaration" 
     MyStr = "Trying to refer to MyStr$, but error results" _ 
+<<<<<<< HEAD
     &; "from calling it MyStr." 
+=======
+    & "from calling it MyStr." 
+>>>>>>> master
   ```
 
   ```vb

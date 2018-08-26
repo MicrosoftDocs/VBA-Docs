@@ -21,7 +21,11 @@ A shortcut menu is a menu that appears when you right-click an object. In Micros
     
 - Groups of controls (groups created with the  **Group** command).
     
+<<<<<<< HEAD
 - [Containers](../../Glossary/vbe-glossary.md) (such as UserForm).
+=======
+- [Containers](../../Glossary/vbe-glossary.md#container) (such as UserForm).
+>>>>>>> master
     
 - Individual  **Page** objects in a **MultiPage**.
     

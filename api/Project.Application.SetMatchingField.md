@@ -76,7 +76,11 @@ Sub Set_MatchingField()
  Set T = ActiveProject.Tasks(3) 
  OldName = T.GetField(pjTaskName) 
  
+<<<<<<< HEAD
  ViewApply Name:="&;Gantt Chart" 
+=======
+ ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  'Change the field to "New Task's Name" 
  SetMatchingField Field:="Name", Value:="New Task Name", CheckField:="Name", CheckValue:=OldName, CheckTest:="equals" 
  ' Set the field to the old name 

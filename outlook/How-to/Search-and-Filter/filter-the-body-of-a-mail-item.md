@@ -27,8 +27,13 @@ Sub RestrictUsingBody()
  Dim oRow as Row 
  
  'Create DASL query for Body using content indexing phrase match for 'office' 
+<<<<<<< HEAD
  strFilter = "@SQL=" &; Chr(34) &; "urn:schemas:httpmail:textdescription" _ 
  &; Chr(34) &; " ci_phrasematch 'office'" 
+=======
+ strFilter = "@SQL=" & Chr(34) & "urn:schemas:httpmail:textdescription" _ 
+ & Chr(34) & " ci_phrasematch 'office'" 
+>>>>>>> master
  'Obtain Table by applying the filter on the current folder 
  Set oT = Application.ActiveExplorer.CurrentFolder.GetTable(strFilter) 
  'Print subject line of each mail item in current folder that contains 'office' in the body 

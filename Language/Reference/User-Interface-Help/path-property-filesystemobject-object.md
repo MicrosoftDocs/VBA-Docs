@@ -15,10 +15,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the path for a specified file, folder, or drive.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Path**
 The  _object_ is always a **File**, **Folder**, or **Drive** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **Path**
+The  _object_ is always a **File**, **Folder**, or **Drive** object.
+
+## Remarks
+
+>>>>>>> master
 For drive letters, the root drive is not included. For example, the path for the C drive is C:, not C:\.
 The following code illustrates the use of the  **Path** property with a **File** object:
 
@@ -29,10 +40,17 @@ Sub ShowFileAccessInfo(filespec)
     Dim fs, d, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
+<<<<<<< HEAD
     s = UCase(f.Path) &; vbCrLf
     s = s &; "Created: " &; f.DateCreated &; vbCrLf
     s = s &; "Last Accessed: " &; f.DateLastAccessed &; vbCrLf
     s = s &; "Last Modified: " &; f.DateLastModified  
+=======
+    s = UCase(f.Path) & vbCrLf
+    s = s & "Created: " & f.DateCreated & vbCrLf
+    s = s & "Last Accessed: " & f.DateLastAccessed & vbCrLf
+    s = s & "Last Modified: " & f.DateLastModified  
+>>>>>>> master
     MsgBox s, 0, "File Access Info"
 End Sub
 ```

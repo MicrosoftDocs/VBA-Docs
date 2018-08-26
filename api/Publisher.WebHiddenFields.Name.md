@@ -48,7 +48,11 @@ Sub GetHiddenWebFieldName()
  Left:=100, Top:=100, Width:=100, _ 
  Height:=36).WebCommandButton.HiddenFields 
  .Add Name:="User", Value:="Power" 
+<<<<<<< HEAD
  MsgBox "The name of the first hidden field is " &; .Name(1) 
+=======
+ MsgBox "The name of the first hidden field is " & .Name(1) 
+>>>>>>> master
  End With 
 End Sub
 ```

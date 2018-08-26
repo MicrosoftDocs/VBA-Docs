@@ -53,8 +53,13 @@ The following example displays the name and value of the first AutoCorrent entry
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "Name = " &; AutoCorrect.Entries(1).Name &; vbCr &; _ 
  "Value " &; AutoCorrect.Entries(1).Value
+=======
+MsgBox "Name = " & AutoCorrect.Entries(1).Name & vbCr & _ 
+ "Value " & AutoCorrect.Entries(1).Value
+>>>>>>> master
 ```
 
 

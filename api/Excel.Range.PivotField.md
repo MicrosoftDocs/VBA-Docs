@@ -30,7 +30,11 @@ This example displays the name of the PivotTable field that contains the active 
 
 ```vb
 Worksheets("Sheet1").Activate 
+<<<<<<< HEAD
 MsgBox "The active cell is in the field " &; _ 
+=======
+MsgBox "The active cell is in the field " & _ 
+>>>>>>> master
  ActiveCell.PivotField.Name
 ```
 

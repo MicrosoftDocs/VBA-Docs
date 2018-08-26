@@ -36,7 +36,11 @@ This example asks the user whether Microsoft Word should ignore compound nouns w
 ```vb
 If Options.AllowCompoundNounProcessing = False Then 
  x = MsgBox("Do you want to ignore compound " _ 
+<<<<<<< HEAD
  &; "nouns when checking spelling?", _ 
+=======
+ & "nouns when checking spelling?", _ 
+>>>>>>> master
  vbYesNo) 
  If x = vbYes Then 
  Options.AllowCompoundNounProcessing = True 

@@ -80,7 +80,11 @@ Dim curX As Currency
  
 dteOrderDate = #03/30/2000# 
 curX = DMin("[Freight]", "Orders", _ 
+<<<<<<< HEAD
     "[OrderDate] = #" &; dteOrderDate &; "#")
+=======
+    "[OrderDate] = #" & dteOrderDate & "#")
+>>>>>>> master
 ```
 
 

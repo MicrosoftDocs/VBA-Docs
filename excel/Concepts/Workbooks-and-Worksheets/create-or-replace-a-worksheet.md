@@ -25,10 +25,17 @@ Sub TestSheetYesNo()
     On Error Resume Next
     mySheetNameTest = Worksheets(mySheetName).Name
     If Err.Number = 0 Then
+<<<<<<< HEAD
         MsgBox "The sheet named ''" &; mySheetName &; "'' DOES exist in this workbook."
     Else
         Err.Clear
         MsgBox "The sheet named ''" &; mySheetName &; "'' does NOT exist in this workbook."
+=======
+        MsgBox "The sheet named ''" & mySheetName & "'' DOES exist in this workbook."
+    Else
+        Err.Clear
+        MsgBox "The sheet named ''" & mySheetName & "'' does NOT exist in this workbook."
+>>>>>>> master
     End If
 End Sub
 ```
@@ -47,11 +54,19 @@ Sub TestSheetCreate()
     On Error Resume Next
     mySheetNameTest = Worksheets(mySheetName).Name
     If Err.Number = 0 Then
+<<<<<<< HEAD
         MsgBox "The sheet named ''" &; mySheetName &; "'' DOES exist in this workbook."
     Else
         Err.Clear
         Worksheets.Add.Name = mySheetName
         MsgBox "The sheet named ''" &; mySheetName &; "'' did not exist in this workbook but it has been created now."
+=======
+        MsgBox "The sheet named ''" & mySheetName & "'' DOES exist in this workbook."
+    Else
+        Err.Clear
+        Worksheets.Add.Name = mySheetName
+        MsgBox "The sheet named ''" & mySheetName & "'' did not exist in this workbook but it has been created now."
+>>>>>>> master
     End If
 End Sub
 ```
@@ -76,7 +91,11 @@ Sub TestSheetReplace()
     Err.Clear
     Application.DisplayAlerts = True
     Worksheets.Add.Name = mySheetName
+<<<<<<< HEAD
     MsgBox "The sheet named ''" &; mySheetName &; "'' has been replaced."
+=======
+    MsgBox "The sheet named ''" & mySheetName & "'' has been replaced."
+>>>>>>> master
 End Sub
 ```
 

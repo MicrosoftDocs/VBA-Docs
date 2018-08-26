@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the decimal serial number used to uniquely identify a disk volume.
+<<<<<<< HEAD
  **Syntax**
  _object_. **SerialNumber**
 The  _object_ is always a **Drive** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **SerialNumber**
+The  _object_ is always a **Drive** object.
+
+## Remarks
+
+>>>>>>> master
 You can use the  **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
 The following code illustrates the use of the  **SerialNumber** property:
 
@@ -39,8 +50,13 @@ Sub ShowDriveInfo(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
+<<<<<<< HEAD
     s = "Drive " &; d.DriveLetter &; ": - " &; t
     s = s &; vbCrLf &; "SN: " &; d.SerialNumber
+=======
+    s = "Drive " & d.DriveLetter & ": - " & t
+    s = s & vbCrLf & "SN: " & d.SerialNumber
+>>>>>>> master
     MsgBox s
 End Sub
 ```

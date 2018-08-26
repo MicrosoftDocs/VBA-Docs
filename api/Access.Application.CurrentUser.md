@@ -45,7 +45,11 @@ The following example obtains the name of the current user and displays it in a 
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The current user is: " &; CurrentUser
+=======
+MsgBox "The current user is: " & CurrentUser
+>>>>>>> master
 ```
 
 

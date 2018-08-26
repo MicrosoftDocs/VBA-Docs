@@ -40,7 +40,11 @@ Sub GetNewPicture(frm As Form)
     Dim ctlImage As Control 
     Set ctlImage = frm!Image1 
     ctlImage.Picture = InputBox("Enter path and " _ 
+<<<<<<< HEAD
         &; "file name for new bitmap") 
+=======
+        & "file name for new bitmap") 
+>>>>>>> master
     ctlImage.Height = ctlImage.ImageHeight 
     ctlImage.Width = ctlImage.ImageWidth 
 End Sub

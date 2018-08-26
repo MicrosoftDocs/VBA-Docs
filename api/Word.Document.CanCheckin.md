@@ -42,9 +42,15 @@ This example checks the server to see if the specified document can be checked i
 Sub CheckInOut(docCheckIn As String) 
  If Documents(docCheckIn).CanCheckin = True Then 
  Documents(docCheckIn).CheckIn 
+<<<<<<< HEAD
  MsgBox docCheckIn &; " has been checked in." 
  Else 
  MsgBox "This file cannot be checked in " &; _ 
+=======
+ MsgBox docCheckIn & " has been checked in." 
+ Else 
+ MsgBox "This file cannot be checked in " & _ 
+>>>>>>> master
  "at this time. Please try again later." 
  End If 
 End Sub

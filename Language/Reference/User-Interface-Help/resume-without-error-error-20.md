@@ -17,7 +17,11 @@ A  **Resume** statement can only appear within an error handler and can only be 
 
 - You placed a  **Resume** statement outside error-handling code. Move the statement into an error handler, or delete it.
     
+<<<<<<< HEAD
 - Your code jumped into an error handler even though there was no error. Perhaps you misspelled a [line label](../../Glossary/vbe-glossary.md). Jumps to labels can't occur across [procedures](../../Glossary/vbe-glossary.md), so search the procedure for the label that identifies the error handler. If you find a duplicate label specified as the target of a  **GoTo** statement that isn't an **On Error GoTo** statement, change the line label to agree with its intended target.
+=======
+- Your code jumped into an error handler even though there was no error. Perhaps you misspelled a [line label](../../Glossary/vbe-glossary.md#line-label). Jumps to labels can't occur across [procedures](../../Glossary/vbe-glossary.md#procedure), so search the procedure for the label that identifies the error handler. If you find a duplicate label specified as the target of a  **GoTo** statement that isn't an **On Error GoTo** statement, change the line label to agree with its intended target.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

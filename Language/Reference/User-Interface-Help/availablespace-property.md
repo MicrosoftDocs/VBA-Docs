@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the amount of space available to a user on the specified drive or network share.
+<<<<<<< HEAD
  **Syntax**
  _object_. **AvailableSpace**
 The  _object_ is always a **Drive** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **AvailableSpace**
+The  _object_ is always a **Drive** object.
+
+## Remarks
+
+>>>>>>> master
 The value returned by the  **AvailableSpace** property is typically the same as that returned by the **FreeSpace** property. Differences may occur between the two values for computer systems that support quotas.
 The following code illustrates the use of the  **AvailableSpace** property:
 
@@ -31,10 +42,17 @@ Sub ShowAvailableSpace(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(drvPath))
+<<<<<<< HEAD
     s = "Drive " &; UCase(drvPath) &; " - " 
     s = s &; d.VolumeName  &; vbCrLf
     s = s &; "Available Space: " &; FormatNumber(d.AvailableSpace/1024, 0) 
     s = s &; " Kbytes"
+=======
+    s = "Drive " & UCase(drvPath) & " - " 
+    s = s & d.VolumeName  & vbCrLf
+    s = s & "Available Space: " & FormatNumber(d.AvailableSpace/1024, 0) 
+    s = s & " Kbytes"
+>>>>>>> master
     MsgBox s
 End Sub
 ```

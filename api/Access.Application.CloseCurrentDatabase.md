@@ -58,7 +58,11 @@ Sub CreateForm()
  Dim frm As Form, strDB As String 
  
  ' Initialize string to database path. 
+<<<<<<< HEAD
  strDB = strConPathToSamples &; "Northwind.mdb" 
+=======
+ strDB = strConPathToSamples & "Northwind.mdb" 
+>>>>>>> master
  ' Create new instance of Microsoft Access. 
  Set appAccess = CreateObject("Access.Application") 
  ' Open database in Microsoft Access window. 

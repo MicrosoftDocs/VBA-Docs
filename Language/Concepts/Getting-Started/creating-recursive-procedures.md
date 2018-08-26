@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Creating Recursive Procedures
 
+<<<<<<< HEAD
 [Procedures](../../Glossary/vbe-glossary.md) have a limited amount of space for [variables](../../Glossary/vbe-glossary.md). Each time a procedure calls itself, more of that space is used. A procedure that calls itself is a recursive procedure. A recursive procedure that continuously calls itself eventually causes an error. For example:
+=======
+[Procedures](../../Glossary/vbe-glossary.md#procedure) have a limited amount of space for [variables](../../Glossary/vbe-glossary.md#variable). Each time a procedure calls itself, more of that space is used. A procedure that calls itself is a recursive procedure. A recursive procedure that continuously calls itself eventually causes an error. For example:
+>>>>>>> master
 
 
 ```vb
@@ -41,7 +45,11 @@ You should test your recursive procedure to make sure it does not call itself so
 
 - Eliminating unnecessary variables.
     
+<<<<<<< HEAD
 - Using [data types](../../Glossary/vbe-glossary.md) other than **Variant**.
+=======
+- Using [data types](../../Glossary/vbe-glossary.md#data-type) other than **Variant**.
+>>>>>>> master
     
 - Re-evaluating the logic of the procedure. You can often substitute nested loops for recursion.
     

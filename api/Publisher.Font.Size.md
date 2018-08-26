@@ -36,7 +36,11 @@ This example inserts text and then sets the font size of the seventh word of the
 ```vb
 Sub IncreaseFontSizeOfSelection() 
  With Selection.TextRange 
+<<<<<<< HEAD
  .InsertBefore vbLf &; "This is a demonstration of font size." 
+=======
+ .InsertBefore vbLf & "This is a demonstration of font size." 
+>>>>>>> master
  .Words(7).Font.Size = 20 
  End With 
 End Sub

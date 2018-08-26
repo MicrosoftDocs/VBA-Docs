@@ -32,8 +32,13 @@ This example displays the name and file name extensions for first file converter
 Dim fcTemp As FileConverter 
  
 Set fcTemp = FileConverters(1) 
+<<<<<<< HEAD
 MsgBox "The file name extensions for " &; fcTemp.FormatName _ 
  &; " files are: " &; fcTemp.Extensions
+=======
+MsgBox "The file name extensions for " & fcTemp.FormatName _ 
+ & " files are: " & fcTemp.Extensions
+>>>>>>> master
 ```
 
 

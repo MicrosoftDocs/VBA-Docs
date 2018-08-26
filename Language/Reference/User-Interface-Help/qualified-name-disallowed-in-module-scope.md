@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Qualified name disallowed in module scope
 
+<<<<<<< HEAD
 Under some circumstances, some [host applications](../../Glossary/vbe-glossary.md) don't permit[procedure](../../Glossary/vbe-glossary.md) calls that include qualified names. This error has the following cause and solution:
 
 
 
 - You specified a [module](../../Glossary/vbe-glossary.md) name in a procedure call using dot notation ( _qualifier_. _item_ ).
+=======
+Under some circumstances, some [host applications](../../Glossary/vbe-glossary.md#host-application) don't permit[procedure](../../Glossary/vbe-glossary.md#procedure) calls that include qualified names. This error has the following cause and solution:
+
+
+
+- You specified a [module](../../Glossary/vbe-glossary.md#module) name in a procedure call using dot notation ( _qualifier_. _item_ ).
+>>>>>>> master
     
     If you are receiving this error it is probably because the host application already knows the specified qualifier and doesn't need that information in the procedure call. In such a case, you can simply omit the qualifier altogether and the host application will make the procedure call correctly. Check the host application's documentation to find the reason for any other restrictions on qualified names.
     

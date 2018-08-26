@@ -67,7 +67,11 @@ You can also use the  **DLookup** function in an expression in a calculated cont
 
 ```vb
 =DLookup("[ProductName]", "Products", "[ProductID] =" _ 
+<<<<<<< HEAD
      &; Forms![Order Details]!ProductID)
+=======
+     & Forms![Order Details]!ProductID)
+>>>>>>> master
 ```
 
  **Tips**
@@ -104,7 +108,11 @@ The next example from the Shippers table uses the form control ShipperID to prov
 ```vb
 Dim varX As Variant 
 varX = DLookup("[CompanyName]", "Shippers", "[ShipperID] = " _ 
+<<<<<<< HEAD
     &; Forms!Shippers!ShipperID)
+=======
+    & Forms!Shippers!ShipperID)
+>>>>>>> master
 ```
 
 The next example uses a variable,  `intSearch`, to get the value.
@@ -118,7 +126,11 @@ Dim varX As Variant
  
 intSearch = 1 
 varX = DLookup("[CompanyName]", "Shippers", _ 
+<<<<<<< HEAD
     "[ShipperID] = " &; intSearch)
+=======
+    "[ShipperID] = " & intSearch)
+>>>>>>> master
 ```
 
 

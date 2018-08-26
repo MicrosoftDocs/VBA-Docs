@@ -44,7 +44,11 @@ Besides  _Item_, **CalendarDateShadingEdit** requires either the _Pattern_ or _C
 
 
 ```vb
+<<<<<<< HEAD
 ? CalendarDateShadingEdit (PjCalendarShading.pjBaseWorking, , &;H01dddd)
+=======
+? CalendarDateShadingEdit (PjCalendarShading.pjBaseWorking, , &H01dddd)
+>>>>>>> master
 ```
 
 To edit calendar date boxes where the colors can be RGB values, use the  **[CalendarDateShadingEditEx](Project.Application.CalendarDateShadingEditEx.md)** method.

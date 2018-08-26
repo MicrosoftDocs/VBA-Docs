@@ -1,11 +1,17 @@
 ---
+<<<<<<< HEAD
 title: SQL Property Example (VBScript)
+=======
+title: SQL property example (VBScript)
+ROBOTS: INDEX
+>>>>>>> master
 ms.prod: access
 ms.assetid: 423b24b7-b435-870c-cce8-78274dd9af83
 ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
 # SQL Property Example (VBScript)
 
   
@@ -19,6 +25,15 @@ The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.
 
 ```vb
 
+=======
+# SQL property example (VBScript)
+
+**Applies to:** Access 2013 | Access 2016
+
+The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) SQL parameter at design time and bind it to a data-aware control using the database called _Pubs_, which ships with Microsoft SQL Server. To test the example, copy the following code into a normal ASP document named **SQLDesignVBS.asp** on your Web server.
+
+```vb
+>>>>>>> master
 <!-- BeginSQLDesignVBS --><%@ Language=VBScript %>
 <html><head>
 <meta name="VI60_DefaultClientScript" content=VBScript><meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
@@ -49,12 +64,18 @@ font-size: x-small;}
 <!-- EndSQLDesignVBS -->
 ```
 
+<<<<<<< HEAD
 The following example shows how to set the necessary parameters of  **RDS.DataControl** at run time. To test this example, cut and paste the following code into a normal ASP document and name it **SQLRuntimeVBS.asp**. ASP script will identify your server.
 
 
 
 ```vb
 
+=======
+The following example shows how to set the necessary parameters of **RDS.DataControl** at run time. To test this example, cut and paste the following code into a normal ASP document and name it **SQLRuntimeVBS.asp**. ASP script will identify your server.
+
+```vb
+>>>>>>> master
 <!-- BeginServerRuntimeVBS --><%@ Language=VBScript %>
 <html><head>
 <meta name="VI60_DefaultClientScript" content=VBScript><meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
@@ -98,6 +119,7 @@ End Sub-->
 
 ```
 
+<<<<<<< HEAD
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
@@ -108,3 +130,13 @@ End Sub-->
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

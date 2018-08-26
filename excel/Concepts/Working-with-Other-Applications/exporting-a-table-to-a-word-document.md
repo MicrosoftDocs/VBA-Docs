@@ -36,7 +36,11 @@ Sub Export_Table_Word()
     
     'Initialize the Word objets.
     Set wdApp = New Word.Application
+<<<<<<< HEAD
     Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\" &; stWordReport)
+=======
+    Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordReport)
+>>>>>>> master
     Set wdbmRange = wdDoc.Bookmarks("Report").Range
     
     'If the macro has been run before, clean up any artifacts before trying to paste the table in again.
@@ -82,8 +86,13 @@ Sub Export_Table_Word()
         .ScreenUpdating = True
     End With
     
+<<<<<<< HEAD
     MsgBox "The report has successfully been " &; vbNewLine &; _
            "transferred to " &; stWordReport, vbInformation
+=======
+    MsgBox "The report has successfully been " & vbNewLine & _
+           "transferred to " & stWordReport, vbInformation
+>>>>>>> master
 
 End Sub
 ```

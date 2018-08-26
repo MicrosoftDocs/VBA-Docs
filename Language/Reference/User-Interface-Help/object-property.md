@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Overrides a standard property or method when a new control has a property or method of the same name.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Object** [. _property_ |. _method_ ]
+=======
+
+## Syntax
+
+_object_. **Object** [. _property_ |. _method_ ]
+>>>>>>> master
 The  **Object** property syntax has these parts:
 
 
@@ -27,7 +34,13 @@ The  **Object** property syntax has these parts:
 | _property_|Optional. A property that has the same name as a standard Microsoft Forms property.|
 | _method_|Optional. A method that has the same name as a standard Microsoft Forms method.|
 
+<<<<<<< HEAD
  **Remarks**
  **Object** is read-only.
+=======
+## Remarks
+
+**Object** is read-only.
+>>>>>>> master
 If you add a new control to the Microsoft Forms Toolbox, it is possible that the added control will have a property or method with the same name as a standard Microsoft Forms property or method. The  **Object** property lets you use the property or method from the added control, rather than the standard property or method.
 

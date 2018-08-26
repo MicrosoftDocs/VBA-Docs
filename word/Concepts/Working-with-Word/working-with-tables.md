@@ -43,7 +43,11 @@ Sub CreateNewTable()
  intCount = 1 
  
  For Each celTable In tblNew.Range.Cells 
+<<<<<<< HEAD
  celTable.Range.InsertAfter "Cell " &; intCount 
+=======
+ celTable.Range.InsertAfter "Cell " & intCount 
+>>>>>>> master
  intCount = intCount + 1 
  Next celTable 
  
@@ -115,7 +119,11 @@ The following example inserts tab-delimited text at the beginning of the active 
 ```vb
 Sub ConvertExistingText() 
  With Documents.Add.Content 
+<<<<<<< HEAD
  .InsertBefore "one" &; vbTab &; "two" &; vbTab &; "three" &; vbCr 
+=======
+ .InsertBefore "one" & vbTab & "two" & vbTab & "three" & vbCr 
+>>>>>>> master
  .ConvertToTable Separator:=Chr(9), NumRows:=1, NumColumns:=3 
  End With 
 End Sub

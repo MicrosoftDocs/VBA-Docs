@@ -53,7 +53,11 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the left footer. 
+<<<<<<< HEAD
  ActiveSheet.PageSetup.LeftFooter = "&;G" 
+=======
+ ActiveSheet.PageSetup.LeftFooter = "&G" 
+>>>>>>> master
  
 End Sub
 ```

@@ -41,8 +41,13 @@ Private Sub UserForm_Initialize()
  TextBox1.Height = 100 
  TextBox1.WordWrap = True 
  TextBox1.Text = "Type your text here. If " _ 
+<<<<<<< HEAD
  &; "EnterKeyBehavior is True, " _ 
  &; "press Enter to start a new line. Otherwise, press SHIFT+ENTER." 
+=======
+ & "EnterKeyBehavior is True, " _ 
+ & "press Enter to start a new line. Otherwise, press SHIFT+ENTER." 
+>>>>>>> master
 End Sub 
  
 Private Sub ToggleButton1_Click() 

@@ -11,6 +11,7 @@ ms.date: 06/08/2017
 
 # SaveSetting Statement
 
+<<<<<<< HEAD
 Saves or creates an application entry in the application's entry in the Windows [registry](../../Glossary/vbe-glossary.md) or (on the Macintosh) information in the application's initialization file.
 
  **Syntax**
@@ -18,16 +19,40 @@ Saves or creates an application entry in the application's entry in the Windows 
  **SaveSetting  _appname_,** **_section,_**_key, setting_
 
 The  **SaveSetting** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+Saves or creates an application entry in the application's entry in the Windows [registry](../../Glossary/vbe-glossary.md#registry) or (on the Macintosh) information in the application's initialization file.
+
+## Syntax
+
+**SaveSetting  _appname_,** **_section,_**_key, setting_
+
+The  **SaveSetting** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md) containing the name of the application or[project](../../Glossary/vbe-glossary.md) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is being saved.|
 |**_key_**|Required. String expression containing the name of the key setting being saved.|
 |**_setting_**|Required. [Expression](../../Glossary/vbe-glossary.md) containing the value that **_key_** is being set to.|
 
  **Remarks**
+=======
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or[project](../../Glossary/vbe-glossary.md#project) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_section_**|Required. String expression containing the name of the section where the key setting is being saved.|
+|**_key_**|Required. String expression containing the name of the key setting being saved.|
+|**_setting_**|Required. [Expression](../../Glossary/vbe-glossary.md#expression) containing the value that **_key_** is being set to.|
+
+## Remarks
+
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
+>>>>>>> master
 An error occurs if the key setting can't be saved for any reason.
 
 ## Example

@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the total space, in bytes, of a drive or network share.
+<<<<<<< HEAD
  **Syntax**
  _object_. **TotalSize**
 The  _object_ is always a **Drive** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **TotalSize**
+The  _object_ is always a **Drive** object.
+
+## Remarks
+
+>>>>>>> master
 The following code illustrates the use of the  **TotalSize** property:
 
 
@@ -30,11 +41,19 @@ Sub ShowSpaceInfo(drvpath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(fs.GetAbsolutePathName(drvpath)))
+<<<<<<< HEAD
     s = "Drive " &; d.DriveLetter &; ":"
     s = s &; vbCrLf
     s = s &; "Total Size: " &; FormatNumber(d.TotalSize/1024, 0) &; " Kbytes"
     s = s &; vbCrLf
     s = s &; "Available: " &; FormatNumber(d.AvailableSpace/1024, 0) &; " Kbytes"
+=======
+    s = "Drive " & d.DriveLetter & ":"
+    s = s & vbCrLf
+    s = s & "Total Size: " & FormatNumber(d.TotalSize/1024, 0) & " Kbytes"
+    s = s & vbCrLf
+    s = s & "Available: " & FormatNumber(d.AvailableSpace/1024, 0) & " Kbytes"
+>>>>>>> master
     MsgBox s
 End Sub
 ```

@@ -93,7 +93,11 @@ Public Sub GetRecipientFromID()
  
  
  
+<<<<<<< HEAD
  MsgBox "Recipient Name: " &; rcp1.name, vbInformation 
+=======
+ MsgBox "Recipient Name: " & rcp1.name, vbInformation 
+>>>>>>> master
  
 End Sub
 ```

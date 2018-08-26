@@ -74,15 +74,25 @@ Sub TestEnterpriseProjectCF()
     projectField = FieldNameToFieldConstant("TestEntProjText", pjProject) 
  
     ' Show the enterprise project field number and old value. 
+<<<<<<< HEAD
     message = "Enterprise project field number: " &; projectField &; vbCrLf 
     MsgBox message &; ActiveProject.ProjectSummaryTask.GetField(projectField) 
+=======
+    message = "Enterprise project field number: " & projectField & vbCrLf 
+    MsgBox message & ActiveProject.ProjectSummaryTask.GetField(projectField) 
+>>>>>>> master
  
     ActiveProject.ProjectSummaryTask.SetField FieldID:=projectField, Value:="This is a new value." 
  
     ' For a demonstration, show the field name from the field number, and verify the new value. 
     projectFieldName = FieldConstantToFieldName(projectField) 
+<<<<<<< HEAD
     message = "New value for field: " &; projectFieldName &; vbCrLf 
     MsgBox message &; ActiveProject.ProjectSummaryTask.GetField(projectField) 
+=======
+    message = "New value for field: " & projectFieldName & vbCrLf 
+    MsgBox message & ActiveProject.ProjectSummaryTask.GetField(projectField) 
+>>>>>>> master
 End Sub
 ```
 
@@ -101,6 +111,7 @@ Sub TryNewTaskConstants()
       ' The pj*Text fields return data for the date columns of automatically and manually scheduled tasks. 
     ' For example, FieldConstantToFieldName(pjTaskStartText) returns the column name for Start date strings. 
  
+<<<<<<< HEAD
     Debug.Print "pjTaskStart returns: " &; FieldConstantToFieldName(pjTaskStart) 
     Debug.Print "pjTaskStartText returns: " &; FieldConstantToFieldName(pjTaskStartText) _ 
         &; vbCrLf 
@@ -115,6 +126,22 @@ Sub TryNewTaskConstants()
  
     Debug.Print "pjTaskBaselineStart returns: " &; FieldConstantToFieldName(pjTaskBaselineStart) 
     Debug.Print "pjTaskBaselineStartText returns: " &; FieldConstantToFieldName(pjTaskBaselineStartText) 
+=======
+    Debug.Print "pjTaskStart returns: " & FieldConstantToFieldName(pjTaskStart) 
+    Debug.Print "pjTaskStartText returns: " & FieldConstantToFieldName(pjTaskStartText) _ 
+        & vbCrLf 
+ 
+    Debug.Print "pjTaskFinish returns: " & FieldConstantToFieldName(pjTaskFinish) 
+    Debug.Print "pjTaskFinishText returns: " & FieldConstantToFieldName(pjTaskFinishText) _ 
+        & vbCrLf 
+ 
+    Debug.Print "pjTaskDuration returns: " & FieldConstantToFieldName(pjTaskDuration) 
+    Debug.Print "pjTaskDurationText returns: " & FieldConstantToFieldName(pjTaskDurationText) _ 
+        & vbCrLf 
+ 
+    Debug.Print "pjTaskBaselineStart returns: " & FieldConstantToFieldName(pjTaskBaselineStart) 
+    Debug.Print "pjTaskBaselineStartText returns: " & FieldConstantToFieldName(pjTaskBaselineStartText) 
+>>>>>>> master
 End Sub
 ```
 

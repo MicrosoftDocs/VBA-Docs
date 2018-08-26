@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Wrong number of dimensions
 
+<<<<<<< HEAD
 You must reference an [array](../../Glossary/vbe-glossary.md) with indexes corresponding to the same number of dimensions as appear in the array's[declaration](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
+=======
+You must reference an [array](../../Glossary/vbe-glossary.md#array) with indexes corresponding to the same number of dimensions as appear in the array's[declaration](../../Glossary/vbe-glossary.md#declaration). This error has the following cause and solution:
+>>>>>>> master
 
 
 

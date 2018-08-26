@@ -13,10 +13,23 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Adds text to a [module](../../Glossary/vbe-glossary.md).
  **Syntax**
  _object_**.AddFromString**
 The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
 The  **AddFromString** method inserts the text starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md) in the module. If the module doesn't contain procedures, **AddFromString** places the text at the end of the module.
+=======
+Adds text to a [module](../../Glossary/vbe-glossary.md#module).
+
+## Syntax
+
+_object_**.AddFromString**
+The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+
+## Remarks
+
+The  **AddFromString** method inserts the text starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md#procedure) in the module. If the module doesn't contain procedures, **AddFromString** places the text at the end of the module.
+>>>>>>> master
 

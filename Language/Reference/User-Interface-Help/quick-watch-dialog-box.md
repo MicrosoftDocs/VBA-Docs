@@ -22,7 +22,11 @@ Displays the current value of a selected expression. This functionality is usefu
 
  **Current Context**
 
+<<<<<<< HEAD
 Lists the names of the project, [module](../../Glossary/vbe-glossary.md), and procedure where the [watch expression](../../Glossary/vbe-glossary.md) resides.
+=======
+Lists the names of the project, [module](../../Glossary/vbe-glossary.md#module), and procedure where the [watch expression](../../Glossary/vbe-glossary.md#watch-expression) resides.
+>>>>>>> master
 
  **Expression**
 

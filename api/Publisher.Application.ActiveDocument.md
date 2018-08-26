@@ -45,7 +45,11 @@ Sub NewsLetterSave()
  ' Insert the file name and supporting text after selected text. 
  Selection.TextRange.Collapse pbCollapseEnd 
  Selection.TextRange = _ 
+<<<<<<< HEAD
  " This publication has been saved as " &; strFileName 
+=======
+ " This publication has been saved as " & strFileName 
+>>>>>>> master
  
 End Sub
 ```

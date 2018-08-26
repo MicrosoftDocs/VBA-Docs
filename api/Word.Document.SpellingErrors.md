@@ -38,7 +38,11 @@ myErr = ActiveDocument.SpellingErrors.Count
 If myErr = 0 Then 
  Msgbox "No spelling errors found." 
 Else 
+<<<<<<< HEAD
  Msgbox myErr &; " spelling errors found." 
+=======
+ Msgbox myErr & " spelling errors found." 
+>>>>>>> master
 End If
 ```
 

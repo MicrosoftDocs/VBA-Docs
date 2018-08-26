@@ -13,11 +13,23 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a [Long](../../Glossary/vbe-glossary.md) specifying the current read/write position within an open file.
  **Syntax**
  **Loc(**_filenumber_**)**
 The required  _filenumber_[argument](../../Glossary/vbe-glossary.md) is any valid[Integer](../../Glossary/vbe-glossary.md)[file number](../../Glossary/vbe-glossary.md).
  **Remarks**
+=======
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the current read/write position within an open file.
+
+## Syntax
+
+**Loc(**_filenumber_**)**
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[Integer](../../Glossary/vbe-glossary.md#integer-data-type)[file number](../../Glossary/vbe-glossary.md#file-number).
+
+## Remarks
+
+>>>>>>> master
 The following describes the return value for each file access mode:
 
 
@@ -36,7 +48,11 @@ This example uses the  **Loc** function to return the current read/write positio
 Dim MyLocation, MyLine
 Open "TESTFILE" For Binary As #1    ' Open file just created.
 Do While MyLocation < LOF(1)    ' Loop until end of file.
+<<<<<<< HEAD
     MyLine = MyLine &; Input(1, #1)    ' Read character into variable.
+=======
+    MyLine = MyLine & Input(1, #1)    ' Read character into variable.
+>>>>>>> master
     MyLocation = Loc(1)    ' Get current position within file.
 ' Print to the Immediate window.
     Debug.Print MyLine; Tab; MyLocation

@@ -64,7 +64,11 @@ Private Sub mvsoDocument_ShapeAdded(ByVal vsoShape As IVShape)
  
  'Increment the count of undoable actions. 
  IncrementModuleVar 
+<<<<<<< HEAD
  Debug.Print "Original Do: GetModuleVar = " &; GetModuleVar 
+=======
+ Debug.Print "Original Do: GetModuleVar = " & GetModuleVar 
+>>>>>>> master
  
  'Instantiate clsVBUndoUnit, a 
  'class that implements Visio.IVBUndoUnit. 

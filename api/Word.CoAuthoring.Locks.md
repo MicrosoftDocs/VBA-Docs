@@ -29,8 +29,13 @@ The following code example displays the number of locks in the active document.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "There are " &; _ 
     ActiveDocument.CoAuthoring.Locks.Count &; _ 
+=======
+MsgBox "There are " & _ 
+    ActiveDocument.CoAuthoring.Locks.Count & _ 
+>>>>>>> master
     " locks in the active document."
 ```
 

@@ -10,7 +10,11 @@ ms.date: 06/08/2017
 
 ## In this section
 
+<<<<<<< HEAD
 - [VBA Glossary](../../../language/Glossary/glossary-vba.md)
+=======
+- [VBA Glossary](../../Glossary/glossary-vba.md)
+>>>>>>> master
 - [VBE Glossary](../../Glossary/vbe-glossary.md)
 
     

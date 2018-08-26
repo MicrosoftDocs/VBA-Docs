@@ -14,17 +14,38 @@ ms.date: 06/08/2017
 
 
 Returns the  **String** associated with an operating system environment variable. Not available on the Macintosh
+<<<<<<< HEAD
  **Syntax**
  **Environ(** { **_envstring_** |**_number_** } **)**
 The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+
+## Syntax
+
+**Environ(** { **_envstring_** |**_number_** } **)**
+The  **Environ** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md) containing the name of an environment variable.|
 |**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](../../Glossary/vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
 
  **Remarks**
+=======
+|**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of an environment variable.|
+|**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](../../Glossary/vbe-glossary.md#argument) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
+
+## Remarks
+
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
+>>>>>>> master
 If  **_envstring_** can't be found in the environment-string table, a zero-length string ("") is returned. Otherwise, **Environ** returns the text assigned to the specified **_envstring_**; that is, the text following the equal sign (=) in the environment-string table for that environment variable.
 If you specify  **_number_**, the string occupying that numeric position in the environment-string table is returned. In this case, **Environ** returns all of the text, including **_envstring_**. If there is no environment string in the specified position, **Environ** returns a zero-length string.
 
@@ -41,7 +62,11 @@ Do
                 ' variable.
     If Left(EnvString, 5) = "PATH=" Then    ' Check PATH entry.
         PathLen = Len(Environ("PATH"))    ' Get length.
+<<<<<<< HEAD
         Msg = "PATH entry = " &; Indx &; " and length = " &; PathLen
+=======
+        Msg = "PATH entry = " & Indx & " and length = " & PathLen
+>>>>>>> master
         Exit Do
     Else
         Indx = Indx + 1    ' Not PATH entry,

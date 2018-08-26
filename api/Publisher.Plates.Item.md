@@ -38,7 +38,11 @@ This example displays the name of the first color plate in the active publicatio
 
 ```vb
 MsgBox "Name of first color plate: " _ 
+<<<<<<< HEAD
  &; ActiveDocument.Plates.Item(1).Name
+=======
+ & ActiveDocument.Plates.Item(1).Name
+>>>>>>> master
 ```
 
 

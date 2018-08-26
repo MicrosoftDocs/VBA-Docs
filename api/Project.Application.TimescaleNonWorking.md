@@ -56,7 +56,11 @@ Sub Timescale_NonWorking()
  'Sets nonworking time behind the task bars to red. 
  
  'Activate Gantt Chart. 
+<<<<<<< HEAD
  ViewApply Name:="&;Gantt Chart" 
+=======
+ ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  TimescaleNonWorking Draw:=pjBehind, Color:=pjRed 
 End Sub
 ```

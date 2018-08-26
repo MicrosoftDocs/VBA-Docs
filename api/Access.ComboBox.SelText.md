@@ -43,7 +43,11 @@ Sub Form_Load()
  Set ctlTextToSearch = Forms!Form1!TextBox1 
  ctlTextToSearch.SetFocus ' SetFocus to text box. 
  ctlTextToSearch.SelText = "This company places large orders " _ 
+<<<<<<< HEAD
  &; "twice a year for garlic, oregano, chilies and cumin." 
+=======
+ & "twice a year for garlic, oregano, chilies and cumin." 
+>>>>>>> master
 End Sub 
  
 Sub Find_Click() 

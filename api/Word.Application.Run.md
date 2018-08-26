@@ -72,8 +72,13 @@ strTemplate = InputBox("Enter the template name")
 strModule = InputBox("Enter the module name") 
 strMacro = InputBox("Enter the macro name") 
 strParameter = InputBox("Enter a parameter value") 
+<<<<<<< HEAD
 Application.Run MacroName:=strTemplate &; "." _ 
  &; strModule &; "." &; strMacro, _ 
+=======
+Application.Run MacroName:=strTemplate & "." _ 
+ & strModule & "." & strMacro, _ 
+>>>>>>> master
  varg1:=strParameter
 ```
 

@@ -31,11 +31,19 @@ Sub ReturnOvertimeCost()
  Dim Results As String 
  
  For Each T In ActiveProject.Tasks 
+<<<<<<< HEAD
  Results = Results &; T.Name &; ": " &; ActiveProject.CurrencySymbol &; _ 
  T.RemainingOvertimeCost &; ListSeparator &; " " 
  Next T 
  
  Results = Left$(Results, Len(Results) - Len(ListSeparator &; " ")) 
+=======
+ Results = Results & T.Name & ": " & ActiveProject.CurrencySymbol & _ 
+ T.RemainingOvertimeCost & ListSeparator & " " 
+ Next T 
+ 
+ Results = Left$(Results, Len(Results) - Len(ListSeparator & " ")) 
+>>>>>>> master
  
  MsgBox Results 
  

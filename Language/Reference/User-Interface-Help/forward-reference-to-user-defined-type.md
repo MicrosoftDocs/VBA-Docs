@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Forward reference to user-defined type
 
+<<<<<<< HEAD
 A [user-defined type](../../Glossary/vbe-glossary.md) must be defined before it can be referenced. This error has the following causes and solutions:
 
 - You declared a [variable](../../Glossary/vbe-glossary.md) with a user-defined type before the definition of the user-defined type appears. In the following example, the variable `OtherVar` is declared before its type (`OtherType`) is known:
+=======
+A [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) must be defined before it can be referenced. This error has the following causes and solutions:
+
+- You declared a [variable](../../Glossary/vbe-glossary.md#variable) with a user-defined type before the definition of the user-defined type appears. In the following example, the variable `OtherVar` is declared before its type (`OtherType`) is known:
+>>>>>>> master
     
   ```vb
     Type MyType 

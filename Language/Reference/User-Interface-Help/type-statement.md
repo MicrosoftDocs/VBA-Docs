@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Type Statement
 
+<<<<<<< HEAD
 Used at [module level](../../Glossary/vbe-glossary.md) to define a user-defined[data type](../../Glossary/vbe-glossary.md) containing one or more elements.
 
  **Syntax**
+=======
+Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a user-defined[data type](../../Glossary/vbe-glossary.md#data-type) containing one or more elements.
+
+## Syntax
+>>>>>>> master
 
 [ **Private** | **Public** ] **Type** _varname_  
  _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_  
@@ -26,6 +32,7 @@ The  **Type** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**Public**|Optional. Used to declare [user-defined types](../../Glossary/vbe-glossary.md) that are available to all[procedures](../../Glossary/vbe-glossary.md) in all[modules](../../Glossary/vbe-glossary.md) in all[projects](../../Glossary/vbe-glossary.md).|
 |**Private**|Optional. Used to declare user-defined types that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md) is made.|
 | _varname_|Required. Name of the user-defined type; follows standard [variable](../../Glossary/vbe-glossary.md) naming conventions.|
@@ -38,6 +45,20 @@ The  **Type** statement syntax has these parts:
 The **Type** statement can be used only at module level. Once you have declared a user-defined type using the **Type** statement, you can declare a variable of that type anywhere within the[scope](../../Glossary/vbe-glossary.md) of the declaration. Use **Dim**, **Private**, **Public**, **ReDim**, or **Static** to declare a variable of a user-defined type.
 In [standard modules](../../Glossary/vbe-glossary.md) and[class modules](../../Glossary/vbe-glossary.md), user-defined types are public by default. This visibility can be changed using the  **Private** keyword.
 [Line numbers](../../Glossary/vbe-glossary.md) and[line labels](../../Glossary/vbe-glossary.md) aren't allowed in **Type...End Type** blocks.
+=======
+|**Public**|Optional. Used to declare [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) that are available to all[procedures](../../Glossary/vbe-glossary.md#procedure) in all[modules](../../Glossary/vbe-glossary.md#module) in all[projects](../../Glossary/vbe-glossary.md#project).|
+|**Private**|Optional. Used to declare user-defined types that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
+| _varname_|Required. Name of the user-defined type; follows standard [variable](../../Glossary/vbe-glossary.md#variable) naming conventions.|
+| _elementname_|Required. Name of an element of the user-defined type. Element names also follow standard variable naming conventions, except that [keyword](../../Glossary/vbe-glossary.md#keyword)s can be used.|
+| _subscripts_|When not explicitly stated in  _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
+| _type_|Required. Data type of the element; may be [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported),[Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](../../Glossary/vbe-glossary.md#object), [Variant](../../Glossary/vbe-glossary.md#variant-data-type), another user-defined type, or an [object type](../../Glossary/vbe-glossary.md#object-type).|
+
+## Remarks
+
+The **Type** statement can be used only at module level. Once you have declared a user-defined type using the **Type** statement, you can declare a variable of that type anywhere within the[scope](../../Glossary/vbe-glossary.md#scope) of the declaration. Use **Dim**, **Private**, **Public**, **ReDim**, or **Static** to declare a variable of a user-defined type.
+In [standard modules](../../Glossary/vbe-glossary.md#standard-module) and[class modules](../../Glossary/vbe-glossary.md#class-module), user-defined types are public by default. This visibility can be changed using the  **Private** keyword.
+[Line numbers](../../Glossary/vbe-glossary.md#line-number) and[line labels](../../Glossary/vbe-glossary.md#line-label) aren't allowed in **Type...End Type** blocks.
+>>>>>>> master
 User-defined types are often used with data records, which frequently consist of a number of related elements of different data types.
 The following example shows the use of fixed-size arrays in a user-defined type:
 
@@ -54,7 +75,11 @@ Dim Washington(1 To 100) As StateData
 ```
 
 In the preceding example,  `StateData` includes the `CityCode` static array, and the record `Washington` has the same structure as `StateData`.
+<<<<<<< HEAD
 When you declare a fixed-size array within a user-defined type, its dimensions must be declared with numeric literals or [constants](../../Glossary/vbe-glossary.md) rather than variables.
+=======
+When you declare a fixed-size array within a user-defined type, its dimensions must be declared with numeric literals or [constants](../../Glossary/vbe-glossary.md#constant) rather than variables.
+>>>>>>> master
 
 ## Example
 

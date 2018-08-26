@@ -63,15 +63,25 @@ Sub ListTemplatePaths()
 
  
 
+<<<<<<< HEAD
  templateList = templateList &; vbCrLf &; typeOfTemplate &; ": " _ 
 
  &; template.TemplatePath 
+=======
+ templateList = templateList & vbCrLf & typeOfTemplate & ": " _ 
+
+ & template.TemplatePath 
+>>>>>>> master
 
  Next template 
 
  
 
+<<<<<<< HEAD
  MsgBox "Visual Reports Templates:" &; templateList 
+=======
+ MsgBox "Visual Reports Templates:" & templateList 
+>>>>>>> master
 
  
 

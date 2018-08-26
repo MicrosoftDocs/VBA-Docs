@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Invalid use of New keyword
 
+<<<<<<< HEAD
 The **New** keyword can only be applied to a creatable object (an instance of a [class](../../Glossary/vbe-glossary.md) or [Automation object](../../Glossary/vbe-glossary.md)). This error has the following causes and solutions:
 
 - You tried to instantiate something that can have only one instance. For example, you tried to create a new instance of a [module](../../Glossary/vbe-glossary.md) by specifying `Module1` in a statement like the following:
+=======
+The **New** keyword can only be applied to a creatable object (an instance of a [class](../../Glossary/vbe-glossary.md#class) or [Automation object](../../Glossary/vbe-glossary.md#automation-object)). This error has the following causes and solutions:
+
+- You tried to instantiate something that can have only one instance. For example, you tried to create a new instance of a [module](../../Glossary/vbe-glossary.md#module) by specifying `Module1` in a statement like the following:
+>>>>>>> master
     
   ```vb
     Dim MyMod As New Module1 
@@ -32,7 +38,11 @@ The **New** keyword can only be applied to a creatable object (an instance of a 
     Set MyListBox = New ListBox 
   ```
 
+<<<<<<< HEAD
   **ListBox** and **Form** are class names, not specific object names. You can use them to specify that a [variable](../../Glossary/vbe-glossary.md) will be a reference to a certain [object type](../../Glossary/vbe-glossary.md), as with the valid **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
+=======
+  **ListBox** and **Form** are class names, not specific object names. You can use them to specify that a [variable](../../Glossary/vbe-glossary.md#variable) will be a reference to a certain [object type](../../Glossary/vbe-glossary.md#object-type), as with the valid **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
+>>>>>>> master
     
   ```vb
       ' Valid syntax to create new instance of a form or list box. 

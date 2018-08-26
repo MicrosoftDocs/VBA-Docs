@@ -13,7 +13,14 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a [Long](../../Glossary/vbe-glossary.md) indicating the minor version number of the referenced[type library](../../Glossary/vbe-glossary.md). Read-only.
  **Remarks**
+=======
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) indicating the minor version number of the referenced[type library](../../Glossary/vbe-glossary.md#type-library). Read-only.
+
+## Remarks
+
+>>>>>>> master
 The number returned by the  **Minor** property corresponds to the minor version number stored in the type library to which you have set the reference.
 

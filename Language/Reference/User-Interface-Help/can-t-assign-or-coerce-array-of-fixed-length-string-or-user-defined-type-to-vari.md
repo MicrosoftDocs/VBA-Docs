@@ -13,6 +13,7 @@ ms.date: 06/08/2017
 
 A **Variant** can only accept assignment of data having a valid **VarType**. This error has the following causes and solutions:
 
+<<<<<<< HEAD
 - You tried to pass an [array](../../Glossary/vbe-glossary.md) of fixed-length strings. When a single fixed-length string is assigned to a **Variant**, it's coerced to a variable-length string, but this can't be done for an array of fixed-length strings.
     
   If you must pass the array, use a loop to assign the individual elements of the array to the elements of a temporary array of variable-length strings. You can then assign the array to a variant and use **Erase** to deallocate the temporary array. However, you can't deallocate a fixed-size array with **Erase**.
@@ -24,6 +25,19 @@ A **Variant** can only accept assignment of data having a valid **VarType**. Thi
 - You tried to assign a user-defined type to a **Variant** variable. Although you can't directly assign a whole [variable](../../Glossary/vbe-glossary.md) of user-defined type to a **Variant**, you can use the **Array** function to assign the individual elements of a variable of user-defined type to a **Variant**. This produces a **Variant** containing an array of variants. The **VarType** of each element in this array of variants corresponds to the original type of each element of the user-defined type.
     
 - You tried to pass an [array](../../Glossary/vbe-glossary.md) of fixed-length strings or user-defined types as an argument in a procedure call that requires a **Variant** argument. Note that any time a procedure is late bound, that is, when the call must be constructed at [run time](../../Glossary/vbe-glossary.md), all arguments must be passed as **Variant** types. For example, the following code causes this error:
+=======
+- You tried to pass an [array](../../Glossary/vbe-glossary.md#array) of fixed-length strings. When a single fixed-length string is assigned to a **Variant**, it's coerced to a variable-length string, but this can't be done for an array of fixed-length strings.
+    
+  If you must pass the array, use a loop to assign the individual elements of the array to the elements of a temporary array of variable-length strings. You can then assign the array to a variant and use **Erase** to deallocate the temporary array. However, you can't deallocate a fixed-size array with **Erase**.
+    
+- You tried to pass a fixed-length string or [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) to the **VarType** function or **TypeName** function.
+    
+  An [argument](../../Glossary/vbe-glossary.md#argument) to the **VarType** or **TypeName** function must be a valid **Variant** type.
+    
+- You tried to assign a user-defined type to a **Variant** variable. Although you can't directly assign a whole [variable](../../Glossary/vbe-glossary.md#variable) of user-defined type to a **Variant**, you can use the **Array** function to assign the individual elements of a variable of user-defined type to a **Variant**. This produces a **Variant** containing an array of variants. The **VarType** of each element in this array of variants corresponds to the original type of each element of the user-defined type.
+    
+- You tried to pass an [array](../../Glossary/vbe-glossary.md#array) of fixed-length strings or user-defined types as an argument in a procedure call that requires a **Variant** argument. Note that any time a procedure is late bound, that is, when the call must be constructed at [run time](../../Glossary/vbe-glossary.md#run-time), all arguments must be passed as **Variant** types. For example, the following code causes this error:
+>>>>>>> master
     
   ```vb
     Dim MyForm As Object    ' Because MyForm is Object, binding is late. 

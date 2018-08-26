@@ -47,16 +47,26 @@ Private Sub MailMergeApp_MailMergeBeforeMerge(ByVal Doc As Document, _
  Dim intVBAnswer As Integer 
  
  'Request whether the user wants to continue with the merge 
+<<<<<<< HEAD
  intVBAnswer = MsgBox("Mail Merge for " &; _ 
  Doc.Name &; " is now starting. " &; _ 
+=======
+ intVBAnswer = MsgBox("Mail Merge for " & _ 
+ Doc.Name & " is now starting. " & _ 
+>>>>>>> master
  "Do you want to continue?", vbYesNo, "MailMergeBeforeMerge Event") 
  
  'If users response to question is No, cancel the merge process 
  'and deliver a message to the user stating the merge is canceled 
  If intVBAnswer = vbNo Then 
  Cancel = True 
+<<<<<<< HEAD
  MsgBox "You have canceled mail merge for " &; _ 
  Doc.Name &; "." 
+=======
+ MsgBox "You have canceled mail merge for " & _ 
+ Doc.Name & "." 
+>>>>>>> master
  End If 
  
 End Sub

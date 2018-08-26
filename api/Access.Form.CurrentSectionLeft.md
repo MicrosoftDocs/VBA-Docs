@@ -45,7 +45,11 @@ Private Sub Form_Current()
  
  intCurTop = Me.CurrentSectionTop 
  intCurLeft = Me.CurrentSectionLeft 
+<<<<<<< HEAD
  Me!lblStatus.Caption = intCurLeft &; " , " &; intCurTop 
+=======
+ Me!lblStatus.Caption = intCurLeft & " , " & intCurTop 
+>>>>>>> master
  
 End Sub
 ```

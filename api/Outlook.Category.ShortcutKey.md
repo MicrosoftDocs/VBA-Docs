@@ -72,7 +72,11 @@ Private Sub ListShortcutKeys()
  
  ' the output string. 
  
+<<<<<<< HEAD
  strOutput = strOutput &; objCategory.Name 
+=======
+ strOutput = strOutput & objCategory.Name 
+>>>>>>> master
  
  
  
@@ -84,6 +88,7 @@ Private Sub ListShortcutKeys()
  
  Case OlCategoryShortcutKey.olCategoryShortcutKeyNone 
  
+<<<<<<< HEAD
  strOutput = strOutput &; ": No shortcut key" &; vbCrLf 
  
  Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF2 
@@ -133,6 +138,57 @@ Private Sub ListShortcutKeys()
  Case Else 
  
  strOutput = strOutput &; ": Unknown" &; vbCrLf 
+=======
+ strOutput = strOutput & ": No shortcut key" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF2 
+ 
+ strOutput = strOutput & ": Ctrl+F2" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF3 
+ 
+ strOutput = strOutput & ": Ctrl+F3" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF4 
+ 
+ strOutput = strOutput & ": Ctrl+F4" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF5 
+ 
+ strOutput = strOutput & ": Ctrl+F5" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF6 
+ 
+ strOutput = strOutput & ": Ctrl+F6" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF7 
+ 
+ strOutput = strOutput & ": Ctrl+F7" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF8 
+ 
+ strOutput = strOutput & ": Ctrl+F8" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF9 
+ 
+ strOutput = strOutput & ": Ctrl+F9" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF10 
+ 
+ strOutput = strOutput & ": Ctrl+F10" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF11 
+ 
+ strOutput = strOutput & ": Ctrl+F11" & vbCrLf 
+ 
+ Case OlCategoryShortcutKey.olCategoryShortcutKeyCtrlF12 
+ 
+ strOutput = strOutput & ": Ctrl+F12" & vbCrLf 
+ 
+ Case Else 
+ 
+ strOutput = strOutput & ": Unknown" & vbCrLf 
+>>>>>>> master
  
  End Select 
  

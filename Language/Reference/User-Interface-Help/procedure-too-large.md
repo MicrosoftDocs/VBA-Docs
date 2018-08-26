@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Procedure too large
 
+<<<<<<< HEAD
 When compiled, the code for a [procedure](../../Glossary/vbe-glossary.md) can't exceed 64K. This error has the following cause and solution:
+=======
+When compiled, the code for a [procedure](../../Glossary/vbe-glossary.md#procedure) can't exceed 64K. This error has the following cause and solution:
+>>>>>>> master
 
 
 

@@ -13,9 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a  **Window** object representing the main window of the Visual Basic[development environment](../../Glossary/vbe-glossary.md). Read-only.
  **Remarks**
 You can use the  **Window** object returned by the **MainWindow** property to add or remove[docked windows](../../Glossary/vbe-glossary.md). You can also use the  **Window** object returned by the **MainWindow** property to maximize, minimize, hide, or restore the main window of the Visual Basic development environment.
+=======
+Returns a  **Window** object representing the main window of the Visual Basic[development environment](../../Glossary/vbe-glossary.md#development-environment). Read-only.
+
+## Remarks
+
+You can use the  **Window** object returned by the **MainWindow** property to add or remove[docked windows](../../Glossary/vbe-glossary.md#docked-window). You can also use the  **Window** object returned by the **MainWindow** property to maximize, minimize, hide, or restore the main window of the Visual Basic development environment.
+>>>>>>> master
 
 
  **Important**  Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.

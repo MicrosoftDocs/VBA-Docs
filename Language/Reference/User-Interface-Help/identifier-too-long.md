@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Identifier too long
 
+<<<<<<< HEAD
 [Identifiers](../../Glossary/vbe-glossary.md) can't be more than 255 characters long. This error has the following cause and solution:
+=======
+[Identifiers](../../Glossary/vbe-glossary.md#identifier) can't be more than 255 characters long. This error has the following cause and solution:
+>>>>>>> master
 
 
 

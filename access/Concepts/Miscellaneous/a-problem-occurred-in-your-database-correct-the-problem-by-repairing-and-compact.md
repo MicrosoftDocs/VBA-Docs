@@ -1,5 +1,5 @@
 ---
-title: A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
+title: A problem occurred in your database; correct the problem by repairing and compacting the database (Error 3428)
 keywords: jeterr40.chm5003428
 f1_keywords:
 - jeterr40.chm5003428
@@ -9,16 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
-
-
+# A problem occurred in your database; correct the problem by repairing and compacting the database (Error 3428)
 
 **Applies to:** Access 2013 | Access 2016
 
-The database you are attempting to use has an unspecified problem and, as a result, it is marked as corrupt.
+The database you are attempting to use has an unspecified problem, and as a result, is marked as corrupt.
 
-To correct the problem
-
+To correct the problem:
 
 1. Close the database.
     
@@ -27,18 +24,15 @@ To correct the problem
 3. Compact the database with the  **CompactDatabase** method.
     
 
+> [!IMPORTANT] 
+> All the steps are required.
 
 
- **Important**  All steps are required.
+## See also
 
-
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)

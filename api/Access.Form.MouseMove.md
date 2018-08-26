@@ -69,7 +69,11 @@ Private Sub Detail_MouseMove(Button As Integer, _
      Shift As Integer, X As Single, Y As Single) 
     Dim intShiftDown As Integer, intLeftButton As Integer 
  
+<<<<<<< HEAD
     Me!Coordinates.Caption = X &; ", " &; Y 
+=======
+    Me!Coordinates.Caption = X & ", " & Y 
+>>>>>>> master
     ' Use bit masks to determine state of 
     ' SHIFT key and left button. 
     intShiftDown = Shift And acShiftMask 

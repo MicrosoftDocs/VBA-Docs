@@ -23,7 +23,11 @@ Option Explicit
 Private Sub Workbook_BeforeClose(Cancel As Boolean)
    With Application.CommandBars("Worksheet Menu Bar")
       On Error Resume Next
+<<<<<<< HEAD
       .Controls("&;MyFunction").Delete
+=======
+      .Controls("&MyFunction").Delete
+>>>>>>> master
       On Error GoTo 0
    End With
 End Sub
@@ -40,7 +44,11 @@ Private Sub Workbook_Open()
          before:=.Controls.Count, _
          temporary:=True)
    End With
+<<<<<<< HEAD
    objPopUp.Caption = "&;MyFunction"
+=======
+   objPopUp.Caption = "&MyFunction"
+>>>>>>> master
    Set objBtn = objPopUp.Controls.Add
    With objBtn
       .Caption = "Formula Entry"
@@ -103,7 +111,11 @@ Sub Cbm_Active_Formula()
          intLen = Len(strRng)
          
          'Call MyFunction as a formula, with the range as the parameter.
+<<<<<<< HEAD
          .Formula = "=MyFunction(" &; strRng &; ")"
+=======
+         .Formula = "=MyFunction(" & strRng & ")"
+>>>>>>> master
             Application.SendKeys "{ENTER}"
       End If
    End With
@@ -147,12 +159,21 @@ Sub Cbm_Formula_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
+<<<<<<< HEAD
       MsgBox "Length, width and height are needed -" &; _
          vbLf &; "please select three cells!"
       Exit Sub
    End If
    'Call MyFunction in the active cell, E6.
    ActiveCell.Formula = "=MyFunction(" &; rng.Address &; ")"
+=======
+      MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
+      Exit Sub
+   End If
+   'Call MyFunction in the active cell, E6.
+   ActiveCell.Formula = "=MyFunction(" & rng.Address & ")"
+>>>>>>> master
 End Sub
 ```
 
@@ -168,8 +189,13 @@ Sub Cbm_Value_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
+<<<<<<< HEAD
      MsgBox "Length, width and height are needed -" &; _
          vbLf &; "please select three cells!"
+=======
+     MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
+>>>>>>> master
       Exit Sub
    End If
    

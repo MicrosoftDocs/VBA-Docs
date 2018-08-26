@@ -44,7 +44,11 @@ This example moves the selection forward to the end of the active paragraph and 
 
 ```vb
 x = Selection.MoveUntil(Cset:=Chr$(13), Count:=wdForward) 
+<<<<<<< HEAD
 MsgBox x-1 &; " character positions were moved"
+=======
+MsgBox x-1 & " character positions were moved"
+>>>>>>> master
 ```
 
 

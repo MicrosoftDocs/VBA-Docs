@@ -41,7 +41,11 @@ The following code example sets the checked symbol of the specified content cont
 Dim objCC As ContentControl 
  
 Set objCC = ActiveDocument.ContentControls.Add (wdContentControlCheckbox) 
+<<<<<<< HEAD
 objCC.SetCheckedSymbol CharacterNumber:=&;H2612, Font:="MS Gothic" 
+=======
+objCC.SetCheckedSymbol CharacterNumber:=&H2612, Font:="MS Gothic" 
+>>>>>>> master
 
 ```
 

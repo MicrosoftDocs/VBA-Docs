@@ -65,9 +65,15 @@ Sub HavingX()
     ' Select the job titles assigned to more than one  
     ' employee in the Washington region.  
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
+<<<<<<< HEAD
         &; "Count(Title) as Total FROM Employees " _ 
         &; "WHERE Region = 'WA' " _ 
         &; "GROUP BY Title HAVING Count(Title) > 1;") 
+=======
+        & "Count(Title) as Total FROM Employees " _ 
+        & "WHERE Region = 'WA' " _ 
+        & "GROUP BY Title HAVING Count(Title) > 1;") 
+>>>>>>> master
      
     ' Populate the Recordset. 
     rst.MoveLast 

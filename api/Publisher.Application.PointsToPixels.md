@@ -60,10 +60,17 @@ Do While True
  If Val(strInput) = 0 Then Exit Do 
  
  ' Evaluate and display result. 
+<<<<<<< HEAD
  strOutput = Trim(strInput) &; " points = " _ 
  &; Format(Application _ 
  .PointsToPixels(Value:=Val(strInput)), _ 
  "0.00") &; " pixels" 
+=======
+ strOutput = Trim(strInput) & " points = " _ 
+ & Format(Application _ 
+ .PointsToPixels(Value:=Val(strInput)), _ 
+ "0.00") & " pixels" 
+>>>>>>> master
  
  MsgBox strOutput 
 Loop 

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: DisplayControl Property
+=======
+title: DisplayControl property
+>>>>>>> master
 keywords: vbaac10.chm4334
 f1_keywords:
 - vbaac10.chm4334
@@ -11,6 +15,7 @@ ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
 # DisplayControl Property
 
   
@@ -18,17 +23,29 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
 You can use the  **DisplayControl** property in table Design view to specify the default control you want to use for displaying a field.
+=======
+# DisplayControl property
+
+**Applies to:** Access 2013 | Access 2016
+
+You can use the **DisplayControl** property in table Design view to specify the default control you want to use for displaying a field.
+>>>>>>> master
 
 
 ## Setting
 
+<<<<<<< HEAD
 You can set the  **DisplayControl** property in the table's property sheet in table Design view by clicking the **Lookup** tab in the **Field Properties** section.
+=======
+You can set the **DisplayControl** property in the table's property sheet in table Design view by clicking the **Lookup** tab in the **Field Properties** section.
+>>>>>>> master
 
 This property contains a drop-down list of the available controls for the selected field. For fields with a Text or Number data type, this property can be set to Text Box, List Box, or Combo Box. For fields with a Yes/No data type, this property can be set to Check Box, Text Box, or Combo Box.
 
 
 ## Remarks
 
+<<<<<<< HEAD
 When you select a control for this property, any additional properties needed to configure the control are also displayed on the  **Lookup** tab.
 
 Setting this property and any related control type properties will affect the field display in both Datasheet view and Form view. The field is displayed by using the control and control property settings set in table Design view. If a field had its  **DisplayControl** property set in table Design view and you drag it from the field list in form Design view, Microsoft Access copies the appropriate properties to the control's property sheet.
@@ -43,3 +60,17 @@ Setting this property and any related control type properties will affect the fi
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+When you select a control for this property, any additional properties needed to configure the control are also displayed on the **Lookup** tab.
+
+Setting this property and any related control type properties will affect the field display in both Datasheet view and Form view. The field is displayed by using the control and control property settings set in table Design view. If a field had its **DisplayControl** property set in table Design view and you drag it from the field list in form Design view, Microsoft Access copies the appropriate properties to the control's property sheet.
+
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

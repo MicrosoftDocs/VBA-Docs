@@ -27,6 +27,7 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
 The value of this property can be set to one of the following constants:
 
+<<<<<<< HEAD
 
 
 | **xlCenter**|
@@ -34,6 +35,13 @@ The value of this property can be set to one of the following constants:
 | **xlJustify**|
 | **xlLeft**|
 | **xlRight**|
+=======
+* **xlCenter**
+* **xlDistributed**
+* **xlJustify**
+* **xlLeft**
+* **xlRight**
+>>>>>>> master
 
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 

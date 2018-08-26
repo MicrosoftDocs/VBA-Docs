@@ -13,9 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a member of a [collection](../../Glossary/vbe-glossary.md), either by position or by name.
  **Syntax**
  **Set**_Object_ = _object_. **Item(**_collectionindex_**)**
+=======
+Returns a member of a [collection](../../Glossary/vbe-glossary.md#collection), either by position or by name.
+
+## Syntax
+
+**Set**_Object_ = _object_. **Item(**_collectionindex_**)**
+>>>>>>> master
 The  **Item** method syntax has these parts:
 
 
@@ -26,6 +34,12 @@ The  **Item** method syntax has these parts:
 
  **Settings**
 The  _collectionindex_ can be either a string or an integer. If it is a string, it must be a valid member name. If it is an integer, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
+<<<<<<< HEAD
  **Remarks**
+=======
+
+## Remarks
+
+>>>>>>> master
 If an invalid index or name is specified, an error occurs.
 

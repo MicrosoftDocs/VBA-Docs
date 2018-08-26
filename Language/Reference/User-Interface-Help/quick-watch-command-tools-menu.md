@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Quick Watch Command (Tools Menu)
 
+<<<<<<< HEAD
 Displays the  **Quick** **Watch** dialog box with the current value of the selected expression. Use this command to check the current value of a[variable](../../Glossary/vbe-glossary.md), [property,](../../Glossary/vbe-glossary.md) or other expression for which you have not defined a[watch expression](../../Glossary/vbe-glossary.md). Select the expression from either the  **Code** window or the Immediate window, and then choose the **Quick** **Watch** command. To add a watch expression based on the expression in the **Quick** **Watch** dialog box, choose the **Add** button.
+=======
+Displays the  **Quick** **Watch** dialog box with the current value of the selected expression. Use this command to check the current value of a[variable](../../Glossary/vbe-glossary.md#variable), [property,](../../Glossary/vbe-glossary.md#property) or other expression for which you have not defined a[watch expression](../../Glossary/vbe-glossary.md#watch-expression). Select the expression from either the  **Code** window or the Immediate window, and then choose the **Quick** **Watch** command. To add a watch expression based on the expression in the **Quick** **Watch** dialog box, choose the **Add** button.
+>>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_qwat_ZA01201733.gif). Keyboard shortcut: SHIFT+F9.

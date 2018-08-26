@@ -15,9 +15,15 @@ A compatible ActiveX component is one that you specify as a compatible ActiveX c
 
 
 
+<<<<<<< HEAD
 - Visual Basic tried to access an object you specified as a compatible ActiveX component, but the file specified wasn't an [executable file](../../Glossary/vbe-glossary.md) or[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) created by Visual Basic.
     
     Only .exe files and DLLs created by Visual Basic are valid entries in the Compatible ActiveX Component field of the  **Project Properties** dialog box accessed through the **Project** menu. If possible, load the[project](../../Glossary/vbe-glossary.md) into Visual Basic and choose the **Make Project.exe File** command from the **File** menu to create a Visual Basic executable file. If the file is already an executable file that wasn't created by Visual Basic, or if the file can't be loaded into Visual Basic, consult the documentation of the file to find out if it can be converted to a Visual Basic executable file or if the vendor can supply an executable file created by Visual Basic.
+=======
+- Visual Basic tried to access an object you specified as a compatible ActiveX component, but the file specified wasn't an [executable file](../../Glossary/vbe-glossary.md#executable-file) or[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) created by Visual Basic.
+    
+    Only .exe files and DLLs created by Visual Basic are valid entries in the Compatible ActiveX Component field of the  **Project Properties** dialog box accessed through the **Project** menu. If possible, load the[project](../../Glossary/vbe-glossary.md#project) into Visual Basic and choose the **Make Project.exe File** command from the **File** menu to create a Visual Basic executable file. If the file is already an executable file that wasn't created by Visual Basic, or if the file can't be loaded into Visual Basic, consult the documentation of the file to find out if it can be converted to a Visual Basic executable file or if the vendor can supply an executable file created by Visual Basic.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

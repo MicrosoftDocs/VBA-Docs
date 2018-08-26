@@ -13,9 +13,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Used at [module level](../../Glossary/vbe-glossary.md) to set the default[data type](../../Glossary/vbe-glossary.md) for[variables](../../Glossary/vbe-glossary.md), [arguments](../../Glossary/vbe-glossary.md) passed to[procedures](../../Glossary/vbe-glossary.md), and the return type for  **Function** and **Property** **Get** procedures whose names start with the specified characters.
  **Syntax**
  **DefBool**_letterrange_ [ **,**_letterrange_ ] **. . .**
+=======
+Used at [module level](../../Glossary/vbe-glossary.md#module-level) to set the default[data type](../../Glossary/vbe-glossary.md#data-type) for[variables](../../Glossary/vbe-glossary.md#variable), [arguments](../../Glossary/vbe-glossary.md#argument) passed to[procedures](../../Glossary/vbe-glossary.md#procedure), and the return type for  **Function** and **Property** **Get** procedures whose names start with the specified characters.
+
+## Syntax
+
+**DefBool**_letterrange_ [ **,**_letterrange_ ] **. . .**
+>>>>>>> master
  **DefByte**_letterrange_ [ **,**_letterrange_ ] **. . .**
  **DefInt**_letterrange_ [ **,**_letterrange_ ] **. . .**
  **DefLng**_letterrange_ [ **,**_letterrange_ ] **. . .**
@@ -32,12 +40,19 @@ Used at [module level](../../Glossary/vbe-glossary.md) to set the default[data t
 The required  _letterrange_ argument has the following syntax:
  _letter1_ [ **-**_letter2_ ]
 The  _letter1_ and _letter2_ arguments specify the name range for which you can set a default data type. Each argument represents the first letter of the variable, argument, **Function** procedure, or **Property Get** procedure name and can be any letter of the alphabet. The case of letters in _letterrange_ isn't significant.
+<<<<<<< HEAD
  **Remarks**
+=======
+
+## Remarks
+
+>>>>>>> master
 The statement name determines the data type:
 
 
 |**Statement**|**Data Type**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**DefBool**|[Boolean](../../Glossary/vbe-glossary.md)|
 |**DefByte**|[Byte](../../Glossary/vbe-glossary.md)|
 |**DefInt**|[Integer](../../Glossary/vbe-glossary.md)|
@@ -58,6 +73,28 @@ A  **Def**_type_ statement affects only the[module](../../Glossary/vbe-glossary.
 When you specify a letter range, it usually defines the data type for variables that begin with letters in the first 128 characters of the character set. However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the extended part of the character set (128-255).
 Once the range A-Z has been specified, you can't further redefine any subranges of variables using  **Def**_type_ statements. Once a range has been specified, if you include a previously defined letter in another **Def**_type_ statement, an error occurs. However, you can explicitly specify the data type of any variable, defined or not, using a **Dim** statement with an **As**_type_ clause. For example, you can use the following code at module level to define a variable as a **Double** even though the default data type is **Integer**:
  **Def**_type_ statements don't affect elements of[user-defined types](../../Glossary/vbe-glossary.md) because the elements must be explicitly declared.
+=======
+|**DefBool**|[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type)|
+|**DefByte**|[Byte](../../Glossary/vbe-glossary.md#byte-data-type)|
+|**DefInt**|[Integer](../../Glossary/vbe-glossary.md#integer-data-type)|
+|**DefLng**|[Long](../../Glossary/vbe-glossary.md#long-data-type)|
+|**DefLngLng**|[LongLong](../../reference/User-Interface-Help/longlong-data-type.md) (Valid on 64-bit platforms only.)|
+|**DefLngPtr**|[LongPtr](../../reference/User-Interface-Help/longptr-data-type.md)|
+|**DefCur**|[Currency](../../Glossary/vbe-glossary.md#currency-data-type)|
+|**DefSng**|[Single](../../Glossary/vbe-glossary.md#single-data-type)|
+|**DefDbl**|[Double](../../Glossary/vbe-glossary.md#double-data-type)|
+|**DefDec**|[Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported)|
+|**DefDate**|[Date](../../Glossary/vbe-glossary.md#date-data-type)|
+|**DefStr**|[String](../../Glossary/vbe-glossary.md#string-data-type)|
+|**DefObj**|[Object](../../Glossary/vbe-glossary.md#object)|
+|**DefVar**|[Variant](../../Glossary/vbe-glossary.md#variant-data-type)|
+
+For example, in the following program fragment, is a string variable:
+A  **Def**_type_ statement affects only the[module](../../Glossary/vbe-glossary.md#module) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property** **Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property** **Get** procedures is **Variant**.
+When you specify a letter range, it usually defines the data type for variables that begin with letters in the first 128 characters of the character set. However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the extended part of the character set (128-255).
+Once the range A-Z has been specified, you can't further redefine any subranges of variables using  **Def**_type_ statements. Once a range has been specified, if you include a previously defined letter in another **Def**_type_ statement, an error occurs. However, you can explicitly specify the data type of any variable, defined or not, using a **Dim** statement with an **As**_type_ clause. For example, you can use the following code at module level to define a variable as a **Double** even though the default data type is **Integer**:
+ **Def**_type_ statements don't affect elements of[user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) because the elements must be explicitly declared.
+>>>>>>> master
 
 ## Example
 

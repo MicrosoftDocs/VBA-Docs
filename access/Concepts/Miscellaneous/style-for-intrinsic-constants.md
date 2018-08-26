@@ -19,6 +19,7 @@ In Microsoft Access, all intrinsic constants are contained in type libraries and
 
 Additionally, intrinsic constants in Microsoft Access are a mix of lowercase and uppercase, and parts of the constant are concatenated rather than separated by underscores. For example, the constant A_NORMAL in versions 1. _x_ and 2.0 is now **acNormal**.
 Intrinsic constants in databases created with previous versions of Microsoft Access won't automatically be converted to the new constant format, but old constants will continue to work without errors. However, it's recommended that you use the new format when writing new code.
+<<<<<<< HEAD
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
@@ -29,3 +30,14 @@ Intrinsic constants in databases created with previous versions of Microsoft Acc
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

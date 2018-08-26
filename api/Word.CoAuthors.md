@@ -28,7 +28,11 @@ Dim i As Integer
  
 i = ActiveDocument.CoAuthoring.Authors.Count 
  
+<<<<<<< HEAD
 MsgBox "The number of co authors is " &; i
+=======
+MsgBox "The number of co authors is " & i
+>>>>>>> master
 ```
 
 

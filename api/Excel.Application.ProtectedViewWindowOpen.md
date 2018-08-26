@@ -44,7 +44,11 @@ The following code example informs the user that the workbook will be opened in 
 ```vb
 Private Sub App_ProtectedViewWindowOpen(ByVal Pvw As ProtectedViewWindow) 
  MsgBox "You are opening the following workbook in Protected View: " _ 
+<<<<<<< HEAD
  &; Pvw.Caption 
+=======
+ & Pvw.Caption 
+>>>>>>> master
 End Sub
 ```
 

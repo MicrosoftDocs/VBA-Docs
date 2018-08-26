@@ -14,8 +14,15 @@ ms.date: 06/08/2017
 
 
 Returns or sets the list entries of a  **ListBox** or **ComboBox**.
+<<<<<<< HEAD
  **Syntax**
  _object_. **List(**_row, column_**)** [= _Variant_ ]
+=======
+
+## Syntax
+
+_object_. **List(**_row, column_**)** [= _Variant_ ]
+>>>>>>> master
 The  **List** property syntax has these parts:
 
 
@@ -28,8 +35,15 @@ The  **List** property syntax has these parts:
 
  **Settings**
 Row and column numbering begins with zero. That is, the row number of the first row in the list is zero; the column number of the first column is zero. The number of the second row or column is 1, and so on.
+<<<<<<< HEAD
  **Remarks**
 The  **List** property works with the **ListCount** and **ListIndex** properties.Use **List** to access list items. A list is a variant[array](../../Glossary/vbe-glossary.md); each item in the list has a row number and a column number.
+=======
+
+## Remarks
+
+The  **List** property works with the **ListCount** and **ListIndex** properties.Use **List** to access list items. A list is a variant[array](../../Glossary/vbe-glossary.md#array); each item in the list has a row number and a column number.
+>>>>>>> master
 Initially,  **ComboBox** and **ListBox** contain an empty list.
 
  **Note**  To specify items you want to display in a  **ComboBox** or **ListBox**, use the **AddItem** method. To remove items, use the **RemoveItem** method.

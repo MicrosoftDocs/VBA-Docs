@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns an array containing all the items in a  **Dictionary** object.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Items**
 The  _object_ is always the name of a **Dictionary** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **Items**
+The  _object_ is always the name of a **Dictionary** object.
+
+## Remarks
+
+>>>>>>> master
 The following code illustrates use of the  **Items** method:
 
 

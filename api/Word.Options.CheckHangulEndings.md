@@ -35,7 +35,11 @@ This example asks the user whether to set Microsoft Word to automatically detect
 
 ```vb
 x = MsgBox("Check Hangul endings during " _ 
+<<<<<<< HEAD
  &; "conversion from Hangul to Hanja?", vbYesNo) 
+=======
+ & "conversion from Hangul to Hanja?", vbYesNo) 
+>>>>>>> master
 If x = vbYes Then 
  Options.CheckHangulEndings = True 
 Else 

@@ -15,11 +15,19 @@ The name of an  **Enum** type only appears in a statement declaring an enumerati
 
 
 
+<<<<<<< HEAD
 - An  **Enum** type name is used instead of the name of an enumeration variable of the type. Declare a[variable](../../Glossary/vbe-glossary.md) of the **Enum** type or find a previous declaration in the current[scope](../../Glossary/vbe-glossary.md) and use that variable.
     
 - An  **Enum** type name is used instead of a variable or[procedure](../../Glossary/vbe-glossary.md) name.
     
     Check the spelling of the [identifier](../../Glossary/vbe-glossary.md) that caused the error. Use the name of a variable or procedure where you specified an **Enum** type.
+=======
+- An  **Enum** type name is used instead of the name of an enumeration variable of the type. Declare a[variable](../../Glossary/vbe-glossary.md#variable) of the **Enum** type or find a previous declaration in the current[scope](../../Glossary/vbe-glossary.md#scope) and use that variable.
+    
+- An  **Enum** type name is used instead of a variable or[procedure](../../Glossary/vbe-glossary.md#procedure) name.
+    
+    Check the spelling of the [identifier](../../Glossary/vbe-glossary.md#identifier) that caused the error. Use the name of a variable or procedure where you specified an **Enum** type.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

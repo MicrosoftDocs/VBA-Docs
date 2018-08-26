@@ -29,8 +29,13 @@ This example displays the number of paragraphs in the active document.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The active document contains " &; _ 
  ActiveDocument.Paragraphs.Count &; " paragraphs."
+=======
+MsgBox "The active document contains " & _ 
+ ActiveDocument.Paragraphs.Count & " paragraphs."
+>>>>>>> master
 ```
 
 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Name conflicts with existing module, project, or object library
 
+<<<<<<< HEAD
 [Modules](../../Glossary/vbe-glossary.md), [object libraries](../../Glossary/vbe-glossary.md), and [referenced projects](../../Glossary/vbe-glossary.md) must be uniquely named within a[project](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
+=======
+[Modules](../../Glossary/vbe-glossary.md#module), [object libraries](../../Glossary/vbe-glossary.md#object-library), and [referenced projects](../../Glossary/vbe-glossary.md#referenced-project) must be uniquely named within a[project](../../Glossary/vbe-glossary.md#project). This error has the following causes and solutions:
+>>>>>>> master
 
 
 

@@ -39,7 +39,11 @@ This example displays the left margin setting, in inches.
 
 ```vb
 MsgBox PointsToInches(ActiveDocument.PageSetup.LeftMargin) _ 
+<<<<<<< HEAD
  &; " inches"
+=======
+ & " inches"
+>>>>>>> master
 ```
 
 

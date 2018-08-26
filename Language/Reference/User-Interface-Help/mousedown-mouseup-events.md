@@ -14,7 +14,13 @@ ms.date: 06/08/2017
 
 
 Occur when the user clicks a mouse button. MouseDown occurs when the user presses the mouse button; MouseUp occurs when the user releases the mouse button.
+<<<<<<< HEAD
  **Syntax**
+=======
+
+## Syntax
+
+>>>>>>> master
 For MultiPage, TabStrip **Private Sub**_object_ _**MouseDown(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
 For other controls **Private Sub**_object_ _**MouseDown( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
 The  **MouseDown** and **MouseUp** event syntaxes have these parts:
@@ -60,7 +66,12 @@ You can identify individual keyboard modifiers by using the following constants:
 | _fmCtrlMask_|2|Mask to detect CTRL.|
 | _fmAltMask_|4|Mask to detect ALT.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 For a  **MultiPage**, the MouseDown event occurs when the user presses a mouse button over the control.
 For a  **TabStrip**, the index argument identifies the tab where the user clicked. An index of -1 indicates the user did not click a tab. For example, if there are no tabs in the upper right corner of the control, clicking in the upper right corner sets the index to -1.
 For a form, the user can generate MouseDown and MouseUp events by pressing and releasing a mouse button in a blank area, record selector, or scroll bar on the form.

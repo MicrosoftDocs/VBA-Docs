@@ -17,8 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Adds a new  **Folder** to a **Folders** collection.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Add**_folderName_
+=======
+
+## Syntax
+
+_object_. **Add**_folderName_
+>>>>>>> master
 The  **Add** method has the following parts:
 
 
@@ -27,6 +34,11 @@ The  **Add** method has the following parts:
 | _object_|Required. Always the name of a  **Folders** collection.|
 | _folderName_|Required. The name of the new  **Folder** being added.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 An error occurs if the  _folderName_ already exists.
 

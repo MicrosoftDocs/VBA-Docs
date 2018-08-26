@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid property value (Error 380) [1 of 2]
 
+<<<<<<< HEAD
 Most [properties](../../Glossary/vbe-glossary.md) only accept values of a certain type, within a certain range. This error has the following cause and solution:
+=======
+Most [properties](../../Glossary/vbe-glossary.md#property) only accept values of a certain type, within a certain range. This error has the following cause and solution:
+>>>>>>> master
 
 
 

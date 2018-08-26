@@ -15,8 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Returns an expression formatted as a number.
+<<<<<<< HEAD
  **Syntax**
  **FormatNumber(**_Expression_ [ **,**_NumDigitsAfterDecimal_ [ **,**_IncludeLeadingDigit_ [ **,**_UseParensForNegativeNumbers_ [ **,**_GroupDigits_ ]]]] **)**
+=======
+
+## Syntax
+
+**FormatNumber(**_Expression_ [ **,**_NumDigitsAfterDecimal_ [ **,**_IncludeLeadingDigit_ [ **,**_UseParensForNegativeNumbers_ [ **,**_GroupDigits_ ]]]] **)**
+>>>>>>> master
 The  **FormatNumber** function syntax has these parts:
 
 
@@ -38,7 +45,12 @@ The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arg
 |**vbFalse**| 0|False|
 |**vbUseDefault**|-2|Use the setting from the computer's regional settings.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 When one or more optional arguments are omitted, the values for omitted arguments are provided by the computer's regional settings.
 
  **Note**  All settings information comes from the  **Regional Settings Number** tab.

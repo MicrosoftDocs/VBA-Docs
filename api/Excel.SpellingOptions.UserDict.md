@@ -33,7 +33,11 @@ Sub SpecialWord()
  
  Application.SpellingOptions.UserDict = "Custom1.dic" 
  MsgBox "The custom dictionary is currently set to: " _ 
+<<<<<<< HEAD
  &; Application.SpellingOptions.UserDict 
+=======
+ & Application.SpellingOptions.UserDict 
+>>>>>>> master
  
 End Sub
 ```

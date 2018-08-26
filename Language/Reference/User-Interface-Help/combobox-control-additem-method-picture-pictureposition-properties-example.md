@@ -35,7 +35,11 @@ Private Sub UserForm_Initialize()
  Label1.Height = 12 
  Label1.Width = 190 
  Label1.Caption = "Select picture placement " _ 
+<<<<<<< HEAD
  &; "relative to the caption." 
+=======
+ & "relative to the caption." 
+>>>>>>> master
  
  'Add list entries to combo box. The value of each 
  'entry matches the corresponding ListIndex value 

@@ -31,7 +31,11 @@ This example displays the complete path to Microsoft Excel.
 ```vb
 Sub TotalPath() 
  
+<<<<<<< HEAD
  MsgBox "The path is " &; Application.Path 
+=======
+ MsgBox "The path is " & Application.Path 
+>>>>>>> master
  
 End Sub
 ```

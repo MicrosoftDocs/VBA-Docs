@@ -42,7 +42,11 @@ Setting the  **StartupPaths** property replaces existing values for **StartupPat
 
 
 ```vb
+<<<<<<< HEAD
 Application.StartupPaths = Application.StartupPaths &; ";" &; "newpath ".
+=======
+Application.StartupPaths = Application.StartupPaths & ";" & "newpath ".
+>>>>>>> master
 ```
 
 
@@ -66,7 +70,11 @@ Public Sub StartupPaths_Example()
     strStartupPath = Application.StartupPaths  
     strTitle = "StartupPaths"  
     strMessage = "The current content of the Visio Start-up paths box is:"  
+<<<<<<< HEAD
     strMessage = strMessage &; vbCrLf &; strStartupPath  
+=======
+    strMessage = strMessage & vbCrLf & strStartupPath  
+>>>>>>> master
     MsgBox strMessage, vbInformation + vbOKOnly, strTitle  
     strMessage = "Type in an additional path for Visio to look for add-ons. "  
          
@@ -81,12 +89,21 @@ Public Sub StartupPaths_Example()
     ElseIf InStr(strStartupPath, strNewPath)  Then 
         strMessage = "The path you specified is already in the Start-up paths box." 
     ElseIf Len(Dir$(strNewPath, vbDirectory)) = 0 And _  
+<<<<<<< HEAD
                 Len(Dir$(Application.Path &; strNewPath, _  
                 vbDirectory)) = 0 Then 
         strMessage = "The folder you typed does not exist (or is empty)." 
     Else 
         Application.StartupPaths = strStartupPath &; ";" &; strNewPath 
         strMessage = "We just added " &; strNewPath &; _  
+=======
+                Len(Dir$(Application.Path & strNewPath, _  
+                vbDirectory)) = 0 Then 
+        strMessage = "The folder you typed does not exist (or is empty)." 
+    Else 
+        Application.StartupPaths = strStartupPath & ";" & strNewPath 
+        strMessage = "We just added " & strNewPath & _  
+>>>>>>> master
                 " to the startup paths." 
     End If 
        

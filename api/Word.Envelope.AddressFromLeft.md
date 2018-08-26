@@ -37,10 +37,17 @@ This example creates a new document and adds an envelope with a predefined deliv
 Dim strAddress As String 
 Dim strReturn As String 
  
+<<<<<<< HEAD
 strAddress = "James Allard" &; vbCr &; "123 Skye St." &; vbCr _ 
  &; "Our Town, WA 98004" 
 strReturn = "Rich Andrews" &; vbCr &; "123 Main" &; vbCr _ 
  &; "Other Town, WA 98004" 
+=======
+strAddress = "James Allard" & vbCr & "123 Skye St." & vbCr _ 
+ & "Our Town, WA 98004" 
+strReturn = "Rich Andrews" & vbCr & "123 Main" & vbCr _ 
+ & "Other Town, WA 98004" 
+>>>>>>> master
  
 With Documents.Add.Envelope 
  .Insert Address:=strAddress, ReturnAddress:=strReturn 

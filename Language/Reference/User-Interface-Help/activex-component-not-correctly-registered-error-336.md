@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # ActiveX component not correctly registered (Error 336)
 
+<<<<<<< HEAD
 The ActiveX component has not been properly registered in the system [registry](../../Glossary/vbe-glossary.md).
+=======
+The ActiveX component has not been properly registered in the system [registry](../../Glossary/vbe-glossary.md#registry).
+>>>>>>> master
 
 

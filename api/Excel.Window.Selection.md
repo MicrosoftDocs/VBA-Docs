@@ -47,7 +47,11 @@ This example displays the Visual Basic object type of the selection.
 
 ```vb
 Worksheets("Sheet1").Activate 
+<<<<<<< HEAD
 MsgBox "The selection object type is " &; TypeName(Selection)
+=======
+MsgBox "The selection object type is " & TypeName(Selection)
+>>>>>>> master
 ```
 
 

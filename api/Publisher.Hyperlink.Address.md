@@ -43,11 +43,19 @@ Sub ShowHyperlinkAddresses()
  For Each shpShape In pgsPage.Shapes 
  If shpShape.TextFrame.TextRange.Hyperlinks.Count > 0 Then 
  For Each hprLink In shpShape.TextFrame.TextRange.Hyperlinks 
+<<<<<<< HEAD
  MsgBox "This hyperlink goes to " &; hprLink.Address &; "." 
  intCount = intCount + 1 
  Next hprLink 
  ElseIf shpShape.Hyperlink.Address <> "" Then 
  MsgBox "This hyperlink goes to " &; shpShape.Hyperlink.Address &; "." 
+=======
+ MsgBox "This hyperlink goes to " & hprLink.Address & "." 
+ intCount = intCount + 1 
+ Next hprLink 
+ ElseIf shpShape.Hyperlink.Address <> "" Then 
+ MsgBox "This hyperlink goes to " & shpShape.Hyperlink.Address & "." 
+>>>>>>> master
  intCount = intCount + 1 
  End If 
  Next shpShape 
@@ -55,7 +63,11 @@ Sub ShowHyperlinkAddresses()
  If intCount < 1 Then 
  MsgBox "You don't have any hyperlinks in your publication." 
  Else 
+<<<<<<< HEAD
  MsgBox "You have " &; intCount &; " hyperlinks in " &; ThisDocument.Name &; "." 
+=======
+ MsgBox "You have " & intCount & " hyperlinks in " & ThisDocument.Name & "." 
+>>>>>>> master
  End If 
 End Sub
 ```

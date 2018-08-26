@@ -43,6 +43,7 @@ Function DisplayApplicationInfo(obj As Object) As Integer
  On Error Resume Next 
  ' Form Application property. 
  Set objApp = obj.Application 
+<<<<<<< HEAD
  MsgBox "Application Visible property = " &; objApp.Visible 
  If objApp.UserControl = True Then 
  For intI = 0 To objApp.DBEngine.Properties.Count - 1 
@@ -50,6 +51,15 @@ Function DisplayApplicationInfo(obj As Object) As Integer
  Next intI 
  End If 
  MsgBox Left(strProps, Len(strProps) - 2) &; ".", vbOK, "DBEngine Properties" 
+=======
+ MsgBox "Application Visible property = " & objApp.Visible 
+ If objApp.UserControl = True Then 
+ For intI = 0 To objApp.DBEngine.Properties.Count - 1 
+ strProps = strProps & objApp.DBEngine.Properties(intI).Name & ", " 
+ Next intI 
+ End If 
+ MsgBox Left(strProps, Len(strProps) - 2) & ".", vbOK, "DBEngine Properties" 
+>>>>>>> master
 End Function
 ```
 

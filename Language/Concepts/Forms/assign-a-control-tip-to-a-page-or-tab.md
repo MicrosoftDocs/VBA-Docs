@@ -20,7 +20,11 @@ ms.date: 06/08/2017
     
 3. From the shortcut menu, choose  **Rename**.
     
+<<<<<<< HEAD
 4. In the  **ControlTipText** field, type the string you want to use as the[control tip](../../Glossary/glossary-vba.md).
+=======
+4. In the  **ControlTipText** field, type the string you want to use as the[control tip](../../Glossary/glossary-vba.md#control-tip).
+>>>>>>> master
     
 5. Click OK.
     

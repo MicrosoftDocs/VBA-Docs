@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies whether the Clipboard contains data that the object supports.
+<<<<<<< HEAD
  **Syntax**
  _object_. **CanPaste**
+=======
+
+## Syntax
+
+_object_. **CanPaste**
+>>>>>>> master
 The  **CanPaste** property syntax has these parts:
 
 
@@ -34,7 +41,18 @@ The  **CanPaste** property return values are:
 |**True**|The object underneath the mouse pointer can receive information pasted from the Clipboard (default).|
 |**False**|The object underneath the mouse pointer cannot receive information pasted from the Clipboard.|
 
+<<<<<<< HEAD
  **Remarks**
  **CanPaste** is read-only.
 If the Clipboard data is in a [format](../../../language/Glossary/glossary-vba.md) that the current[target](../../../language/Glossary/glossary-vba.md) object does not support, the **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text, **CanPaste** will be **False**.
 
+=======
+## Remarks
+
+**CanPaste** is read-only.
+If the Clipboard data is in a format that the current [target](../../Glossary/glossary-vba.md#target) object does not support, the **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text, **CanPaste** will be **False**.
+
+## See Also
+
+- [GetFormat Method](./getformat-method.md)
+>>>>>>> master

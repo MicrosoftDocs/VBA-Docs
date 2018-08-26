@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Comparison Constants
 
+<<<<<<< HEAD
 The following [constants](../../Glossary/vbe-glossary.md) are defined in the Visual Basic for Applications[type library](../../Glossary/vbe-glossary.md) and can be used anywhere in your code in place of the actual values:
+=======
+The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications[type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values:
+>>>>>>> master
 
 
 

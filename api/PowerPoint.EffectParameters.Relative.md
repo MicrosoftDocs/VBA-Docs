@@ -61,8 +61,13 @@ Sub AddShapeSetAnimPath()
 
     effDiamond.Timing.Duration = 3
 
+<<<<<<< HEAD
     MsgBox "Is motion path relative or absolute: " &; _
         effDiamond.EffectParameters.Relative &; vbCrLf &; _
+=======
+    MsgBox "Is motion path relative or absolute: " & _
+        effDiamond.EffectParameters.Relative & vbCrLf & _
+>>>>>>> master
         "0 = Relative, -1 = Absolute"
 		
 End Sub

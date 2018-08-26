@@ -13,7 +13,14 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns or sets the value of an object returned by a [property](../../Glossary/vbe-glossary.md). Read/write.
  **Remarks**
+=======
+Returns or sets the value of an object returned by a [property](../../Glossary/vbe-glossary.md#property). Read/write.
+
+## Remarks
+
+>>>>>>> master
 If a property returns an object, you must use the  **Object** property to return or set the value of that object.
 

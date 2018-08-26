@@ -51,9 +51,15 @@ For i = 1 To 2
  elapsedTime(i) = (stopTime - startTime) * 24 * 60 * 60 
 Next i 
 Application.ScreenUpdating = True 
+<<<<<<< HEAD
 MsgBox "Elapsed time, screen updating on: " &; elapsedTime(1) &; _ 
  " sec." &; Chr(13) &; _ 
  "Elapsed time, screen updating off: " &; elapsedTime(2) &; _ 
+=======
+MsgBox "Elapsed time, screen updating on: " & elapsedTime(1) & _ 
+ " sec." & Chr(13) & _ 
+ "Elapsed time, screen updating off: " & elapsedTime(2) & _ 
+>>>>>>> master
  " sec."
 ```
 

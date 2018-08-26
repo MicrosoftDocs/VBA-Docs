@@ -16,7 +16,13 @@ ms.date: 06/08/2017
 
 
 Occurs when a control detects an error and cannot return the error information to a calling program.
+<<<<<<< HEAD
  **Syntax**
+=======
+
+## Syntax
+
+>>>>>>> master
 For MultiPage **Private Sub**_object_ _**Error(**_index_**As Long**, **ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 For other controls **Private Sub**_object_ _**Error( ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 The  **Error** event syntax has these parts:
@@ -28,6 +34,7 @@ The  **Error** event syntax has these parts:
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
 | _Number_|Required. Specifies a unique value that the control uses to identify the error.|
 | _Description_|Required. A textual description of the error.|
+<<<<<<< HEAD
 | _SCode_|Required. Specifies the [OLE status code](../../../language/Glossary/glossary-vba.md) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|
 | _Source_|Required. The string that identifies the control which initiated the event.|
 | _HelpFile_|Required. Specifies a fully qualified path name for the Help file that describes the error.|
@@ -35,6 +42,16 @@ The  **Error** event syntax has these parts:
 | _CancelDisplay_|Required. Specifies whether to display the error string in a message box.|
 
  **Remarks**
+=======
+| _SCode_|Required. Specifies the [OLE status code](../../Glossary/glossary-vba.md#ole-status-code) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|
+| _Source_|Required. The string that identifies the control which initiated the event.|
+| _HelpFile_|Required. Specifies a fully qualified path name for the Help file that describes the error.|
+| _HelpContext_|Required. Specifies the [context ID](../../Glossary/glossary-vba.md#context-id) of the Help file topic that contains a description of the error.|
+| _CancelDisplay_|Required. Specifies whether to display the error string in a message box.|
+
+## Remarks
+
+>>>>>>> master
 The code written for the Error event determines how the control responds to the error condition.
 The ability to handle error conditions varies from one application to another. The Error event is initiated when an error occurs that the application is not equipped to handle.
 

@@ -32,7 +32,11 @@ Sub SeeAllResFilters()
  Dim ResFilterNames As String 
  
  For Each Temp In ActiveProject.ResourceFilterList 
+<<<<<<< HEAD
  ResFilterNames = ResFilterNames &; vbCrLf &; Temp 
+=======
+ ResFilterNames = ResFilterNames & vbCrLf & Temp 
+>>>>>>> master
  Next Temp 
  
  MsgBox ResFilterNames 

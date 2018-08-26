@@ -43,7 +43,11 @@ The following code example flattens the hierarchies of the specified cube field,
 
 
 ```vb
+<<<<<<< HEAD
 ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&;L]"). _ 
+=======
+ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _ 
+>>>>>>> master
  FlattenHierarchies = True
 ```
 

@@ -18,7 +18,11 @@ ms.date: 06/08/2017
     
 2. In the  **Properties** window, select the **ControlTipText** property. You can also set the value of **ControlTipText** through code.
     
+<<<<<<< HEAD
 3. Enter the string you want to use as the [control tip](../../Glossary/glossary-vba.md).
+=======
+3. Enter the string you want to use as the [control tip](../../Glossary/glossary-vba.md#control-tip).
+>>>>>>> master
     
 
 

@@ -48,7 +48,11 @@ This example inserts numbers and text into the first column of the first table i
 ```vb
 num = 90 
 For Each acell In ActiveDocument.Tables(1).Columns(1).Cells 
+<<<<<<< HEAD
  acell.Range.Text = num &; " Sales" 
+=======
+ acell.Range.Text = num & " Sales" 
+>>>>>>> master
  num = num + 1 
 Next acell
 ```

@@ -36,8 +36,13 @@ This example displays the number of labels across and down the page for the firs
 ```vb
 numAcr = Application.MailingLabel.CustomLabels(1).NumberAcross 
 numDwn = Application.MailingLabel.CustomLabels(1).NumberDown 
+<<<<<<< HEAD
 MsgBox Prompt:= "Number of labels across " &; numAcr &; vbCr _ 
  &; "Number of labels down " &; numDwn &; vbCr , _ 
+=======
+MsgBox Prompt:= "Number of labels across " & numAcr & vbCr _ 
+ & "Number of labels down " & numDwn & vbCr , _ 
+>>>>>>> master
  Title:="Label Page Configuration"
 ```
 

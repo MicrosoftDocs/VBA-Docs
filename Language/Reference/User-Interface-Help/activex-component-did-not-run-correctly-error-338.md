@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # ActiveX Component did not run correctly (Error 338)
 
+<<<<<<< HEAD
 The ActiveX component's .exe file failed to run correctly. There may be a problem with the information in the [registry](../../Glossary/vbe-glossary.md).
+=======
+The ActiveX component's .exe file failed to run correctly. There may be a problem with the information in the [registry](../../Glossary/vbe-glossary.md#registry).
+>>>>>>> master
 
 

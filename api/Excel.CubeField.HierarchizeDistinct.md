@@ -43,7 +43,11 @@ The following code example sets the  **HierarchizeDistinct** property to **True*
 
 
 ```vb
+<<<<<<< HEAD
 ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&;L]"). _ 
+=======
+ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _ 
+>>>>>>> master
  HierarchizeDistinct = True
 ```
 

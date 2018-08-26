@@ -37,7 +37,11 @@ This example updates the first field in the active document. A return value of 1
 If ActiveDocument.Fields(0).Update = 1 Then 
  MsgBox "Update Successful" 
 Else 
+<<<<<<< HEAD
  MsgBox "Field " &; ActiveDocument.Fields(0).Update &; _ 
+=======
+ MsgBox "Field " & ActiveDocument.Fields(0).Update & _ 
+>>>>>>> master
  " has an error" 
 End If
 ```

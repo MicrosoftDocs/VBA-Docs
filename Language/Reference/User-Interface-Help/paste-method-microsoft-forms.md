@@ -14,8 +14,15 @@ ms.date: 06/08/2017
 
 
 Transfers the contents of the Clipboard to an object.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Paste**
+=======
+
+## Syntax
+
+_object_. **Paste**
+>>>>>>> master
 The  **Paste** method syntax has these parts:
 
 
@@ -23,7 +30,12 @@ The  **Paste** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 Data pasted into a  **ComboBox** or **TextBox** is treated as text.
 When the paste method is used with a form, you can paste any object onto the form.
 

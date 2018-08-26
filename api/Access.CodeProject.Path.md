@@ -34,7 +34,11 @@ The following example displays a message indicating the disk location of the cur
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The current database is located at " &; Application.CurrentProject.Path &; "." 
+=======
+MsgBox "The current database is located at " & Application.CurrentProject.Path & "." 
+>>>>>>> master
  
 
 ```

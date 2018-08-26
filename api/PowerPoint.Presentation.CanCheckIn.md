@@ -43,9 +43,15 @@ Sub CheckInPresentation(strPresentation As String)
 
     If Presentations(strPresentation).CanCheckIn = True Then
         Presentations(strPresentation).CheckIn
+<<<<<<< HEAD
         MsgBox strPresentation &; " has been checked in."
     Else
         MsgBox strPresentation &; " cannot be checked in " &; _
+=======
+        MsgBox strPresentation & " has been checked in."
+    Else
+        MsgBox strPresentation & " cannot be checked in " & _
+>>>>>>> master
         "at this time.  Please try again later."
     End If
 

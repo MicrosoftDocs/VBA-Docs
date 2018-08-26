@@ -42,7 +42,11 @@ Setting the  **TemplatePaths** property replaces existing values for **Templates
 
 
 ```vb
+<<<<<<< HEAD
 Application.TemplatePaths = Application.TemplatePaths &; ";" &; "newpath ".
+=======
+Application.TemplatePaths = Application.TemplatePaths & ";" & "newpath ".
+>>>>>>> master
 ```
 
 
@@ -67,7 +71,11 @@ Public Sub TemplatePaths_Example()
     strTemplatePath = Application.TemplatePaths  
     strTitle = "TemplatePaths"  
     strMessage = "The current content of the Visio Templates path box is:"  
+<<<<<<< HEAD
     strMessage = strMessage &; vbCrLf &; strTemplatePath  
+=======
+    strMessage = strMessage & vbCrLf & strTemplatePath  
+>>>>>>> master
     MsgBox strMessage, vbInformation + vbOKOnly, strTitle  
     strMessage = "Type in an additional path for Visio to look for templates. "  
     strNewPath = InputBox$(strMessage, strTitle)  
@@ -80,12 +88,21 @@ Public Sub TemplatePaths_Example()
         ElseIf InStr(strTemplatePath, strNewPath)  Then 
             strMessage = "The path you specified is already in the Templates path box."  
         ElseIf Len(Dir$(strNewPath, vbDirectory)) = 0 And _  
+<<<<<<< HEAD
                 Len(Dir$(Application.Path &; strNewPath, _  
                 vbDirectory)) = 0 Then 
             strMessage = "The folder you typed does not exist (or is blank)."  
         Else 
             Application.TemplatePaths = strTemplatePath &; ";" &; strNewPath  
             strMessage = "We just added " &; strNewPath &; _  
+=======
+                Len(Dir$(Application.Path & strNewPath, _  
+                vbDirectory)) = 0 Then 
+            strMessage = "The folder you typed does not exist (or is blank)."  
+        Else 
+            Application.TemplatePaths = strTemplatePath & ";" & strNewPath  
+            strMessage = "We just added " & strNewPath & _  
+>>>>>>> master
                 " to the Templates path box."  
     End If 
    

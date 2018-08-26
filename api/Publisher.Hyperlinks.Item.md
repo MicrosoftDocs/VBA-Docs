@@ -38,7 +38,11 @@ This example displays the address of the first hyperlink in shape one of the act
 
 ```vb
 MsgBox "Address of first hyperlink: " _ 
+<<<<<<< HEAD
  &; ActiveDocument.Pages(1).Shapes(1) _ 
+=======
+ & ActiveDocument.Pages(1).Shapes(1) _ 
+>>>>>>> master
  .TextFrame.TextRange.Hyperlinks.Item(1).Address
 ```
 

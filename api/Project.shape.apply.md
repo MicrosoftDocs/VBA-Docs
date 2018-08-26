@@ -39,7 +39,11 @@ Sub ApplyShapeFormat()
     Set theReport = ActiveProject.Reports.Add(reportName)
     Set shp1 = theReport.Shapes.AddShape(msoShapeCan, 10, 30, 100, 100)
     shp1.Name = "Shape 1"
+<<<<<<< HEAD
     shp1.Fill.ForeColor.RGB = &;H1010FF  ' Red color.
+=======
+    shp1.Fill.ForeColor.RGB = &H1010FF  ' Red color.
+>>>>>>> master
     
     Set shp2 = theReport.Shapes.AddShape(msoShapeCan, 30, 140, 100, 100)
     shp2.Name = "Shape 2"               ' Blue default color.

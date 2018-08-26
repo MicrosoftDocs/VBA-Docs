@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a value indicating the type of a specified drive.
+<<<<<<< HEAD
  **Syntax**
  _object_. **DriveType**
 The  _object_ is always a **Drive** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **DriveType**
+The  _object_ is always a **Drive** object.
+
+## Remarks
+
+>>>>>>> master
 The following code illustrates the use of the  **DriveType** property:
 
 
@@ -38,7 +49,11 @@ Sub ShowDriveType(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
+<<<<<<< HEAD
     s = "Drive " &; d.DriveLetter &; ": - " &; t
+=======
+    s = "Drive " & d.DriveLetter & ": - " & t
+>>>>>>> master
     MsgBox s
 End Sub
 ```

@@ -95,7 +95,11 @@ Public Sub AddOnName_Example()
  Set vsoMenuItem = vsoMenuItems.Add 
  
  'Set the properties for the new menu item 
+<<<<<<< HEAD
  vsoMenuItem.Caption = "&;macroname " 
+=======
+ vsoMenuItem.Caption = "&macroname " 
+>>>>>>> master
  vsoMenuItem.AddOnName = "ThisDocument.macroname " 
  vsoMenuItem.AddOnArgs = "/Arg1 = True" 
  vsoMenuItem.ActionText = "Run(macroname )" 

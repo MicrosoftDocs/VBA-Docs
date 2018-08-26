@@ -81,7 +81,11 @@ Sub GetPaperList()
         lpDevMode:=DEFAULT_VALUES) 
      
     ' List the available paper names. 
+<<<<<<< HEAD
     strMsg = "Papers available for " &; strDeviceName &; vbCrLf 
+=======
+    strMsg = "Papers available for " & strDeviceName & vbCrLf 
+>>>>>>> master
     For lngCounter = 1 To lngPaperCount 
          
         ' Parse a paper name from the string buffer. 
@@ -91,8 +95,13 @@ Sub GetPaperList()
         strPaperName = Left(String:=strPaperName, Length:=intLength) 
          
         ' Add a paper number and name to text string for the message box. 
+<<<<<<< HEAD
         strMsg = strMsg &; vbCrLf &; aintNumPaper(lngCounter) _ 
             &; vbTab &; strPaperName 
+=======
+        strMsg = strMsg & vbCrLf & aintNumPaper(lngCounter) _ 
+            & vbTab & strPaperName 
+>>>>>>> master
              
     Next lngCounter 
          
@@ -103,8 +112,13 @@ GetPaperList_End:
     Exit Sub 
      
 GetPaperList_Err: 
+<<<<<<< HEAD
     MsgBox Prompt:=Err.Description, Buttons:=vbCritical &; vbOKOnly, _ 
         Title:="Error Number " &; Err.Number &; " Occurred" 
+=======
+    MsgBox Prompt:=Err.Description, Buttons:=vbCritical & vbOKOnly, _ 
+        Title:="Error Number " & Err.Number & " Occurred" 
+>>>>>>> master
     Resume GetPaperList_End 
      
 End Sub
@@ -165,7 +179,11 @@ Sub GetBinList(strName As String)
         lpDevMode:=0) 
          
     ' List available paper bin names. 
+<<<<<<< HEAD
     strMsg = "Paper bins available for " &; strDeviceName &; vbCrLf 
+=======
+    strMsg = "Paper bins available for " & strDeviceName & vbCrLf 
+>>>>>>> master
     For lngCounter = 1 To lngBinCount 
          
         ' Parse a paper bin name from string buffer. 
@@ -178,8 +196,13 @@ Sub GetBinList(strName As String)
                 Length:=intLength) 
  
         ' Add bin name and number to text string for message box. 
+<<<<<<< HEAD
         strMsg = strMsg &; vbCrLf &; aintNumBin(lngCounter) _ 
             &; vbTab &; strBinName 
+=======
+        strMsg = strMsg & vbCrLf & aintNumBin(lngCounter) _ 
+            & vbTab & strBinName 
+>>>>>>> master
              
     Next lngCounter 
          
@@ -189,8 +212,13 @@ Sub GetBinList(strName As String)
 GetBinList_End: 
     Exit Sub 
 GetBinList_Err: 
+<<<<<<< HEAD
     MsgBox Prompt:=Err.Description, Buttons:=vbCritical &; vbOKOnly, _ 
         Title:="Error Number " &; Err.Number &; " Occurred" 
+=======
+    MsgBox Prompt:=Err.Description, Buttons:=vbCritical & vbOKOnly, _ 
+        Title:="Error Number " & Err.Number & " Occurred" 
+>>>>>>> master
     Resume GetBinList_End 
 End Sub
 ```

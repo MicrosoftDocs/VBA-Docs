@@ -37,6 +37,7 @@ Private Sub UserForm_Initialize()
  For i = 0 To TabStrip1.Count - 1 
  'Using index (numeric or string) 
  MsgBox "TabStrip1.Tabs(i).Caption = " _ 
+<<<<<<< HEAD
  &; TabStrip1.Tabs(i).Caption 
  MsgBox "TabStrip1.Tabs.Item(i).Caption = " _ 
  &; TabStrip1.Tabs.Item(i).Caption 
@@ -49,21 +50,46 @@ Private Sub UserForm_Initialize()
  MsgBox "TabStrip1.Tabs.Item(TabName)_ 
  .Caption = " _ 
  &; TabStrip1.Tabs.Item(TabName).Caption 
+=======
+ & TabStrip1.Tabs(i).Caption 
+ MsgBox "TabStrip1.Tabs.Item(i).Caption = " _ 
+ & TabStrip1.Tabs.Item(i).Caption 
+ 
+ TabName = TabStrip1.Tabs(i).Name 
+ MsgBox "TabName = " & TabName 
+ 
+ MsgBox "TabStrip1.Tabs(TabName).Caption = " _ 
+ & TabStrip1.Tabs(TabName).Caption 
+ MsgBox "TabStrip1.Tabs.Item(TabName)_ 
+ .Caption = " _ 
+ & TabStrip1.Tabs.Item(TabName).Caption 
+>>>>>>> master
  
  'Use Tab object without referring to Tabs 
  'collection 
  If i = 0 Then 
  MsgBox "TabStrip1.Tab1.Caption = " _ 
+<<<<<<< HEAD
  &; TabStrip1.Tab1.Caption 
  ElseIf i = 1 Then 
  MsgBox "TabStrip1.Tab2.Caption = " _ 
  &; TabStrip1.Tab2.Caption 
+=======
+ & TabStrip1.Tab1.Caption 
+ ElseIf i = 1 Then 
+ MsgBox "TabStrip1.Tab2.Caption = " _ 
+ & TabStrip1.Tab2.Caption 
+>>>>>>> master
  EndIf 
  
  'Use SelectedItem Property 
  TabStrip1.Value = i 
  MsgBox "TabStrip1.SelectedItem.Caption = " _ 
+<<<<<<< HEAD
  &; TabStrip1.SelectedItem.Caption 
+=======
+ & TabStrip1.SelectedItem.Caption 
+>>>>>>> master
  Next i 
 End Sub
 ```

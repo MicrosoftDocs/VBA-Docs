@@ -59,9 +59,15 @@ This example displays the current line number, moves the selection down three li
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "Line " &; Selection.Information(wdFirstCharacterLineNumber) 
 Selection.MoveDown Unit:=wdLine, Count:=3, Extend:=wdMove 
 MsgBox "Line " &; Selection.Information(wdFirstCharacterLineNumber)
+=======
+MsgBox "Line " & Selection.Information(wdFirstCharacterLineNumber) 
+Selection.MoveDown Unit:=wdLine, Count:=3, Extend:=wdMove 
+MsgBox "Line " & Selection.Information(wdFirstCharacterLineNumber)
+>>>>>>> master
 ```
 
 

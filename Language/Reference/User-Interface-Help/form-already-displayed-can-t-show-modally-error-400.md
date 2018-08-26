@@ -15,7 +15,11 @@ You can't use the  **Show** method to display a visible form as modal. This erro
 
 
 
+<<<<<<< HEAD
 - You tried to use  **Show**, with the _style_[argument](../../Glossary/vbe-glossary.md) set to 1 - **vbModal**, on an already visible form.
+=======
+- You tried to use  **Show**, with the _style_[argument](../../Glossary/vbe-glossary.md#argument) set to 1 - **vbModal**, on an already visible form.
+>>>>>>> master
     
     Use either the  **Unload** statement or the **Hide** method on the form before trying to show it as a modal form.
     

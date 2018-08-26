@@ -84,7 +84,11 @@ Sub SetVal(ByRef fldFolder As Folder, ByVal lngAns As Long)
  
  MsgBox "The View menu for the " _ 
  
+<<<<<<< HEAD
  &; fldFolder.Name &; " folder will now display only custom views." 
+=======
+ & fldFolder.Name & " folder will now display only custom views." 
+>>>>>>> master
  
  'Display all views 
  
@@ -92,7 +96,11 @@ Sub SetVal(ByRef fldFolder As Folder, ByVal lngAns As Long)
  
  MsgBox "The View menu for the " _ 
  
+<<<<<<< HEAD
  &; fldFolder.Name &; " folder will now display all views." 
+=======
+ & fldFolder.Name & " folder will now display all views." 
+>>>>>>> master
  
  End If 
  

@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Indicates whether the last user action can be undone.
+<<<<<<< HEAD
  **Syntax**
  _object_. **CanUndo**
+=======
+
+## Syntax
+
+_object_. **CanUndo**
+>>>>>>> master
 The  **CanUndo** property syntax has these parts:
 
 
@@ -34,7 +41,13 @@ The  **CanUndo** property return values are:
 |**True**|The most recent user action can be undone.|
 |**False**|The most recent user action cannot be undone.|
 
+<<<<<<< HEAD
  **Remarks**
  **CanUndo** is read-only.
+=======
+## Remarks
+
+**CanUndo** is read-only.
+>>>>>>> master
 Many user actions can be undone with the Undo command. The  **CanUndo** property indicates whether the most recent action can be undone.
 

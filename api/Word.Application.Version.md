@@ -29,7 +29,11 @@ This example displays the Word version number in a message box.
 
 
 ```vb
+<<<<<<< HEAD
 Msgbox "The version of Word is " &; Application.Version
+=======
+Msgbox "The version of Word is " & Application.Version
+>>>>>>> master
 ```
 
 

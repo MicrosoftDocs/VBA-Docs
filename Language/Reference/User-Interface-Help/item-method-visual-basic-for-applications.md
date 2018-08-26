@@ -13,18 +13,39 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a specific [member](../../Glossary/vbe-glossary.md) of a **Collection** object either by position or by key.
  **Syntax**
  _object_**.Item(**_index_**)**
+=======
+Returns a specific [member](../../Glossary/vbe-glossary.md#member) of a **Collection** object either by position or by key.
+
+## Syntax
+
+_object_**.Item(**_index_**)**
+>>>>>>> master
 The  **Item** method syntax has the following object qualifier and part:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _index_|Required. An [expression](../../Glossary/vbe-glossary.md) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](../../Glossary/vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md) specified when the member referred to was added to the collection.|
 
  **Remarks**
+=======
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _index_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md#collection). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](../../Glossary/vbe-glossary.md#string-expression),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md#argument) specified when the member referred to was added to the collection.|
+
+## Remarks
+
+<<<<<<< HEAD
+=======
+## Remarks
+
+>>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
+>>>>>>> master
 If the value provided as  _index_ doesn't match any existing member of the collection, an error occurs.
 The  **Item** method is the default method for a collection. Therefore, the following lines of code are equivalent:
 

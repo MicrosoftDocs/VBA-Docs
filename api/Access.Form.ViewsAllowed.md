@@ -55,7 +55,11 @@ The following example prints a message in the Immediate window indicating the st
 
 
 ```vb
+<<<<<<< HEAD
 Debug.Print "ViewsAllowed = " &; Forms.Item("Switchboard").ViewsAllowed
+=======
+Debug.Print "ViewsAllowed = " & Forms.Item("Switchboard").ViewsAllowed
+>>>>>>> master
 ```
 
 

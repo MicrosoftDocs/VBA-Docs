@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Item' could not be registered
 
+<<<<<<< HEAD
 The specified file couldn't be registered in the system [registry](../../Glossary/vbe-glossary.md). The error is related to [type libraries](../../Glossary/vbe-glossary.md) used by components of the Visual Basic[development environment](../../Glossary/vbe-glossary.md) and indicates that the specified file's entry in the system registry is corrupted, or that the DLL itself is missing or corrupted.
+=======
+The specified file couldn't be registered in the system [registry](../../Glossary/vbe-glossary.md#registry). The error is related to [type libraries](../../Glossary/vbe-glossary.md#type-library) used by components of the Visual Basic[development environment](../../Glossary/vbe-glossary.md#development-environment) and indicates that the specified file's entry in the system registry is corrupted, or that the DLL itself is missing or corrupted.
+>>>>>>> master
 
 

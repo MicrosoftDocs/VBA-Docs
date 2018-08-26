@@ -44,7 +44,11 @@ This example displays the number of words in the active document, including foot
 
 ```vb
 MsgBox ActiveDocument.ComputeStatistics(Statistic:=wdStatisticWords, _ 
+<<<<<<< HEAD
  IncludeFootnotesAndEndnotes:=True) &; " words"
+=======
+ IncludeFootnotesAndEndnotes:=True) & " words"
+>>>>>>> master
 ```
 
 

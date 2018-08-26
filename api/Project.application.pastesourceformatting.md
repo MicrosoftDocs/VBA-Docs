@@ -56,6 +56,7 @@ Sub CopyCostReport()
         ' List the shapes in the copied report.
         For Each oShape In myNewReport.Shapes
             numShapes = numShapes + 1
+<<<<<<< HEAD
             msg = msg &; numShapes &; ". Shape type: " &; CStr(oShape.Type) _
                 &; ", '" &; oShape.Name &; "'" &; vbCrLf
             
@@ -65,6 +66,17 @@ Sub CopyCostReport()
                 With oShape.TextFrame2.TextRange
                     .Text = newReportTitle
                     .Characters.Font.Fill.ForeColor.RGB = &;H60FF10 ' Bluish green.
+=======
+            msg = msg & numShapes & ". Shape type: " & CStr(oShape.Type) _
+                & ", '" & oShape.Name & "'" & vbCrLf
+            
+            ' Modify the report title.
+            If oShape.Name = "TextBox 1" Then
+                newReportTitle = "My " & oShape.TextFrame2.TextRange.Text
+                With oShape.TextFrame2.TextRange
+                    .Text = newReportTitle
+                    .Characters.Font.Fill.ForeColor.RGB = &H60FF10 ' Bluish green.
+>>>>>>> master
                 End With
                 
                 oShape.Reflection.Type = msoReflectionType2
@@ -73,7 +85,11 @@ Sub CopyCostReport()
             End If
         Next oShape
         
+<<<<<<< HEAD
         msgBoxTitle = "Shapes in report: '" &; myNewReport.Name &; "'"
+=======
+        msgBoxTitle = "Shapes in report: '" & myNewReport.Name & "'"
+>>>>>>> master
                 
         If numShapes > 0 Then
             MsgBox Prompt:=msg, Title:=msgBoxTitle
@@ -82,7 +98,11 @@ Sub CopyCostReport()
                 Title:=msgBoxTitle
         End If
     Else
+<<<<<<< HEAD
         MsgBox Prompt:="No custom report name: " &; reportName, _
+=======
+        MsgBox Prompt:="No custom report name: " & reportName, _
+>>>>>>> master
             Title:="ApplyReport error", Buttons:=vbExclamation
     End If
 End Sub

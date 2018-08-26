@@ -32,9 +32,15 @@ Sub ListPayRates()
  
  For Each CRT In ActiveCell.Resource.CostRateTables 
  For Each PR In CRT.PayRates 
+<<<<<<< HEAD
  Rates = Rates &; "CostRateTable " &; CRT.Name &; ": " &; _ 
  PR.StandardRate &; " (Effective " &; PR.EffectiveDate &; _ 
  ")" &; vbCrLf 
+=======
+ Rates = Rates & "CostRateTable " & CRT.Name & ": " & _ 
+ PR.StandardRate & " (Effective " & PR.EffectiveDate & _ 
+ ")" & vbCrLf 
+>>>>>>> master
  Next PR 
  Next CRT 
  

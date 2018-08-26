@@ -36,8 +36,13 @@ This example displays the contents of the active record in the data source attac
 ```vb
 For Each dataF In _ 
  Documents("Main.doc").MailMerge.DataSource.DataFields 
+<<<<<<< HEAD
  If dataF.Value <> "" Then dRecord = dRecord &; _ 
  dataF.Value &; vbCr 
+=======
+ If dataF.Value <> "" Then dRecord = dRecord & _ 
+ dataF.Value & vbCr 
+>>>>>>> master
 Next dataF 
 MsgBox dRecord
 ```

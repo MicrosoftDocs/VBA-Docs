@@ -42,8 +42,13 @@ Set dicSpelling = Languages(lngLanguage).ActiveSpellingDictionary
 If dicSpelling Is Nothing Then 
  MsgBox "No spelling dictionary installed!" 
 Else 
+<<<<<<< HEAD
  MsgBox dicSpelling.Path &; Application.PathSeparator _ 
  &; dicSpelling.Name 
+=======
+ MsgBox dicSpelling.Path & Application.PathSeparator _ 
+ & dicSpelling.Name 
+>>>>>>> master
 End If 
 
 ```

@@ -57,13 +57,21 @@ Sub ViewReminderInfo()
  
  'Add information to string 
  
+<<<<<<< HEAD
  strReport = strReport &; objRem.Caption &; vbCr 
+=======
+ strReport = strReport & objRem.Caption & vbCr 
+>>>>>>> master
  
  Next objRem 
  
  'Display report in dialog 
  
+<<<<<<< HEAD
  MsgBox strTitle &; vbCr &; vbCr &; strReport 
+=======
+ MsgBox strTitle & vbCr & vbCr & strReport 
+>>>>>>> master
  
  Else 
  

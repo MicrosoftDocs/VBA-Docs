@@ -35,7 +35,11 @@ The following example displays the current screen resolution (for example, "1024
 ```vb
 horz = System.HorizontalResolution 
 vert = System.VerticalResolution 
+<<<<<<< HEAD
 MsgBox "Resolution = " &; horz &; " x " &; vert
+=======
+MsgBox "Resolution = " & horz & " x " & vert
+>>>>>>> master
 ```
 
 

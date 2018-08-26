@@ -23,8 +23,13 @@ Private Sub Worksheet_Change(ByVal Target As Range)
 
     'If the length of the target cell's entry is greater than 31 characters, disallow the entry.
     If Len(Target.Value) > 31 Then
+<<<<<<< HEAD
         MsgBox "Worksheet tab names cannot be greater than 31 characters in length." &; vbCrLf &; _
         "You entered " &; Target.Value &; ", which has " &; Len(Target.Value) &; " characters.", , "Keep it under 31 characters"
+=======
+        MsgBox "Worksheet tab names cannot be greater than 31 characters in length." & vbCrLf & _
+        "You entered " & Target.Value & ", which has " & Len(Target.Value) & " characters.", , "Keep it under 31 characters"
+>>>>>>> master
         Application.EnableEvents = False
         Target.ClearContents
         Application.EnableEvents = True
@@ -43,8 +48,13 @@ Private Sub Worksheet_Change(ByVal Target As Range)
     IllegalCharacter(7) = ":"
     For i = 1 To 7
         If InStr(Target.Value, (IllegalCharacter(i))) > 0 Then
+<<<<<<< HEAD
             MsgBox "You used a character that violates sheet naming rules." &; vbCrLf &; vbCrLf &; _
             "Please re-enter a sheet name without the ''" &; IllegalCharacter(i) &; "'' character.", 48, "Not a possible sheet name !!"
+=======
+            MsgBox "You used a character that violates sheet naming rules." & vbCrLf & vbCrLf & _
+            "Please re-enter a sheet name without the ''" & IllegalCharacter(i) & "'' character.", 48, "Not a possible sheet name !!"
+>>>>>>> master
             Application.EnableEvents = False
             Target.ClearContents
             Application.EnableEvents = True
@@ -70,7 +80,11 @@ Private Sub Worksheet_Change(ByVal Target As Range)
     If bln = False Then
         ActiveSheet.Name = strSheetName
     Else
+<<<<<<< HEAD
         MsgBox "There is already a sheet named " &; strSheetName &; "." &; vbCrLf &; _
+=======
+        MsgBox "There is already a sheet named " & strSheetName & "." & vbCrLf & _
+>>>>>>> master
         "Please enter a unique name for this sheet."
         Application.EnableEvents = False
         Target.ClearContents

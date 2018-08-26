@@ -71,8 +71,13 @@ Use the  **[Information](Word.Selection.Information.md)** property with a **Sele
 If Selection.Information(wdWithInTable) = True Then 
  With Selection 
  .Cells(1).Width = 22 
+<<<<<<< HEAD
  MsgBox "Cell " &; .Information(wdStartOfRangeRowNumber) _ 
  &; "," &; .Information(wdStartOfRangeColumnNumber) 
+=======
+ MsgBox "Cell " & .Information(wdStartOfRangeRowNumber) _ 
+ & "," & .Information(wdStartOfRangeColumnNumber) 
+>>>>>>> master
  End With 
 End If
 ```

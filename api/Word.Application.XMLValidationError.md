@@ -38,8 +38,13 @@ The following example displays an error message to the user when a node is inval
 
 ```vb
 Private Sub Wrd_XMLValidationError(ByVal XMLNode As XMLNode) 
+<<<<<<< HEAD
  MsgBox "The " &; UCase(XMLNode.BaseName) &; " element is invalid." &; _ 
  vbCrLf &; XMLNode.ValidationErrorText 
+=======
+ MsgBox "The " & UCase(XMLNode.BaseName) & " element is invalid." & _ 
+ vbCrLf & XMLNode.ValidationErrorText 
+>>>>>>> master
 End Sub
 ```
 

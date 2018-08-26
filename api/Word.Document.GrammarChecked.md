@@ -37,7 +37,11 @@ This example determines whether grammar has been checked in the active document.
 Set myStat = ActiveDocument.ReadabilityStatistics 
 passGram = ActiveDocument.GrammarChecked 
 If passGram = True Then 
+<<<<<<< HEAD
  Msgbox myStat(1).Name &; " - " &; myStat(1).Value 
+=======
+ Msgbox myStat(1).Name & " - " & myStat(1).Value 
+>>>>>>> master
 Else 
  ActiveDocument.CheckGrammar 
 End If

@@ -37,7 +37,11 @@ Sub TotalCostPerUse()
  Next R 
  
  ' Display the total cost per use. 
+<<<<<<< HEAD
  MsgBox ("Sum of the cost per use of each resource in this project: " &; TotalCostPerUse) 
+=======
+ MsgBox ("Sum of the cost per use of each resource in this project: " & TotalCostPerUse) 
+>>>>>>> master
  
 End Sub
 ```

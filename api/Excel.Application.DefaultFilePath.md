@@ -29,7 +29,11 @@ This example displays the current default file path.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The current default file path is " &; _ 
+=======
+MsgBox "The current default file path is " & _ 
+>>>>>>> master
  Application.DefaultFilePath
 ```
 

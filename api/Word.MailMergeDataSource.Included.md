@@ -61,9 +61,15 @@ Sub CheckRecords()
  'Specify the comment attached to the record 
  'explaining why the record was excluded 
  'from the mail merge 
+<<<<<<< HEAD
  .InvalidComments = "The ZIP Code for this record " &; _ 
  "has fewer than five digits. It will be removed " _ 
  &; "from the mail merge process." 
+=======
+ .InvalidComments = "The ZIP Code for this record " & _ 
+ "has fewer than five digits. It will be removed " _ 
+ & "from the mail merge process." 
+>>>>>>> master
  
  End If 
  

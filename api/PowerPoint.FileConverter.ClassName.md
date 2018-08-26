@@ -36,8 +36,13 @@ This example displays the class name and format name of the first converter in t
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "ClassName= " &; FileConverters(1).ClassName &; vbCr _
     &; "FormatName= " &; FileConverters(1).FormatName
+=======
+MsgBox "ClassName= " & FileConverters(1).ClassName & vbCr _
+    & "FormatName= " & FileConverters(1).FormatName
+>>>>>>> master
 ```
 
 If an HTML file converter is available, this example sets the HTML format as the default save format.

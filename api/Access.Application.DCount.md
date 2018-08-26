@@ -79,7 +79,11 @@ If  _expr_ identifies multiple fields, separate the field names with a concatena
 intW = DCount("[ShipName]", "Orders") 
 intX = DCount("[ShipRegion]", "Orders") 
 intY = DCount("[ShipName] + [ShipRegion]", "Orders") 
+<<<<<<< HEAD
 intZ = DCount("[ShipName] &; [ShipRegion]", "Orders")
+=======
+intZ = DCount("[ShipName] & [ShipRegion]", "Orders")
+>>>>>>> master
 ```
 
 
@@ -96,8 +100,13 @@ Public Function OrdersCount(ByVal strCountry As String, _
                             ByVal dteShipDate As Date) As Integer 
  
     OrdersCount = DCount("[ShippedDate]", "Orders", _ 
+<<<<<<< HEAD
                   "[ShipCountry] = '" &; strCountry &; _ 
                   "' AND [ShippedDate] > #" &; dteShipDate &; "#") 
+=======
+                  "[ShipCountry] = '" & strCountry & _ 
+                  "' AND [ShippedDate] > #" & dteShipDate & "#") 
+>>>>>>> master
 End Function
 ```
 

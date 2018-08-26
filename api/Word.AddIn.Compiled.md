@@ -35,7 +35,11 @@ For Each aAddin in Addins
  count = count + 1 
  End If 
 Next aAddin 
+<<<<<<< HEAD
 MsgBox Str(count) &; " WLL's are loaded"
+=======
+MsgBox Str(count) & " WLL's are loaded"
+>>>>>>> master
 ```
 
 If the first add-in is a template, this example unloads the template and opens it.
@@ -47,8 +51,13 @@ If the first add-in is a template, this example unloads the template and opens i
 If Addins(1).Compiled = False Then 
  Addins(1).Installed = False 
  Documents.Open FileName:=AddIns(1).Path _ 
+<<<<<<< HEAD
  &; Application.PathSeparator _ 
  &; AddIns(1).Name 
+=======
+ & Application.PathSeparator _ 
+ & AddIns(1).Name 
+>>>>>>> master
 End If
 ```
 

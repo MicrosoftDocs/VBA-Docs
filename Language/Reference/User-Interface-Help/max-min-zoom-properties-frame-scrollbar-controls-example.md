@@ -40,7 +40,11 @@ Private Sub UserForm_Initialize()
  ScrollBar1.Value = 100 
  
  Label1.Caption = "10 -----Percent of " _ 
+<<<<<<< HEAD
  &; "Original Size---- 400" 
+=======
+ & "Original Size---- 400" 
+>>>>>>> master
  Label2.Caption = ScrollBar1.Value 
  
  Frame1.TextBox1.Text = "Enter your text here." 

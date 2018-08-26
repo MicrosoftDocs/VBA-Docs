@@ -70,7 +70,11 @@ Sub SupplierID_AfterUpdate()
  
     Set rst = Me.RecordsetClone 
     strSearchName = Str(Me!SupplierID) 
+<<<<<<< HEAD
     rst.FindFirst "SupplierID = " &; strSearchName 
+=======
+    rst.FindFirst "SupplierID = " & strSearchName 
+>>>>>>> master
         If rst.NoMatch Then 
             MsgBox "Record not found" 
         Else 
@@ -88,8 +92,13 @@ You can use the  **RecordCount** property to count the number of records in a **
 ```vb
 Forms!Orders.RecordsetClone.MoveLast 
 MsgBox "My form contains " _ 
+<<<<<<< HEAD
     &; Forms!Orders.RecordsetClone.RecordCount _ 
     &; " records.", vbInformation, "Record Count"
+=======
+    & Forms!Orders.RecordsetClone.RecordCount _ 
+    & " records.", vbInformation, "Record Count"
+>>>>>>> master
 ```
 
 

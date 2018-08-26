@@ -48,6 +48,7 @@ Sub UseUpdateLinks()
  
  Select Case wkbOne.UpdateLinks 
  Case xlUpdateLinksAlways 
+<<<<<<< HEAD
  MsgBox "Links will always be updated " &; _ 
  "for the specified workbook." 
  Case xlUpdateLinksNever 
@@ -55,6 +56,15 @@ Sub UseUpdateLinks()
  "for the specified workbook." 
  Case xlUpdateLinksUserSetting 
  MsgBox "Links will update according " &; _ 
+=======
+ MsgBox "Links will always be updated " & _ 
+ "for the specified workbook." 
+ Case xlUpdateLinksNever 
+ MsgBox "Links will never be updated " & _ 
+ "for the specified workbook." 
+ Case xlUpdateLinksUserSetting 
+ MsgBox "Links will update according " & _ 
+>>>>>>> master
  "to user settting for the specified workbook." 
  End Select 
  

@@ -18,7 +18,11 @@ Use the  **Documents** property to return the **Documents** collection. The foll
 
 ```vb
 For Each aDoc In Documents 
+<<<<<<< HEAD
  aName = aName &; aDoc.Name &; vbCr 
+=======
+ aName = aName & aDoc.Name & vbCr 
+>>>>>>> master
 Next aDoc 
 MsgBox aName
 ```

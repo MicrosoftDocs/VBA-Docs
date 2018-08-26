@@ -37,7 +37,11 @@ This example displays the field code for each field in the active document.
 Dim fieldLoop As Field 
  
 For Each fieldLoop In ActiveDocument.Fields 
+<<<<<<< HEAD
  MsgBox Chr(34) &; fieldLoop.Code.Text &; Chr(34) 
+=======
+ MsgBox Chr(34) & fieldLoop.Code.Text & Chr(34) 
+>>>>>>> master
 Next fieldLoop
 ```
 

@@ -53,7 +53,11 @@ Sub CopyAReport()
     oldExists = ActiveProject.Reports.IsPresent(reportName)
     newExists = ActiveProject.Reports.IsPresent(newReportName)
     
+<<<<<<< HEAD
     Debug.Print "oldExists " &; CStr(oldExists) &; "; newExists " &; newExists
+=======
+    Debug.Print "oldExists " & CStr(oldExists) & "; newExists " & newExists
+>>>>>>> master
     
     If oldExists And Not newExists Then
         Set report2Copy = ActiveProject.Reports(reportName)
@@ -66,6 +70,7 @@ Sub CopyAReport()
     End If
     
     If (oldExists = False) Then
+<<<<<<< HEAD
          MsgBox Prompt:="The requested report to copy, '" &; reportName _
             &; "', does not exist.", Title:="Report copy error"
     ElseIf newExists Then
@@ -74,6 +79,16 @@ Sub CopyAReport()
     Else
         MsgBox Prompt:="The new report '" &; newReportName &; "'" _
             &; vbCrLf &; "is copied from '" &; reportName &; "'.", _
+=======
+         MsgBox Prompt:="The requested report to copy, '" & reportName _
+            & "', does not exist.", Title:="Report copy error"
+    ElseIf newExists Then
+        MsgBox Prompt:="The new report '" & newReportName _
+            & "' already exists.", Title:="Report copy error"
+    Else
+        MsgBox Prompt:="The new report '" & newReportName & "'" _
+            & vbCrLf & "is copied from '" & reportName & "'.", _
+>>>>>>> master
             Title:="Report copy success"
     End If
 End Sub

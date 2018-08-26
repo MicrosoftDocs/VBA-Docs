@@ -10,9 +10,17 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md) when the user tabs to it.
  **Syntax**
  _object_. **TabStop** [= _Boolean_ ]
+=======
+Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md#focus) when the user tabs to it.
+
+## Syntax
+
+_object_. **TabStop** [= _Boolean_ ]
+>>>>>>> master
 The  **TabStop** property syntax has these parts:
 
 

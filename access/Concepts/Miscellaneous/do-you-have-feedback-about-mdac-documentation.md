@@ -15,7 +15,12 @@ ms.date: 06/08/2017
 The MDAC documentation team welcomes your suggestions and comments about our documentation and samples. You can send feedback quickly and directly to us via e-mail or the Universal Data Access Web site. Many of your suggestions have been implemented in this release of the documentation.
 
 
+<<<<<<< HEAD
  **Note**  If you need technical support, see "[Getting Help from Microsoft Product Support Services](getting-help-from-microsoft-help-and-support.md)." The MDAC documentation team cannot answer technical support questions, but we welcome your feedback concerning the presentation, accuracy, and thoroughness of the documentation, as well as your ideas for improving it.
+=======
+> [!NOTE] 
+> If you need technical support, see "[Getting Help from Microsoft Product Support Services](getting-help-from-microsoft-help-and-support.md)." The MDAC documentation team cannot answer technical support questions, but we welcome your feedback concerning the presentation, accuracy, and thoroughness of the documentation, as well as your ideas for improving it.
+>>>>>>> master
 
 
 ## E-mail
@@ -32,6 +37,7 @@ The MDAC documentation now includes a  **Documentation Feedback** button at the 
 |ODBC and drivers|odbcdoc@microsoft.com|
 |MDAC technical articles|datech@microsoft.com|
 |MDAC samples|dacode@microsoft.com|
+<<<<<<< HEAD
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
@@ -42,3 +48,15 @@ The MDAC documentation now includes a  **Documentation Feedback** button at the 
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
+=======
+
+
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/forum?page=1&;tab=question&;status=all&;auth=1)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

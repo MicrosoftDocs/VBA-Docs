@@ -13,7 +13,14 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Represents all the [projects](../../Glossary/vbe-glossary.md) that are open in the[development environment](../../Glossary/vbe-glossary.md).
  **Remarks**
+=======
+Represents all the [projects](../../Glossary/vbe-glossary.md#project) that are open in the[development environment](../../Glossary/vbe-glossary.md#development-environment).
+
+## Remarks
+
+>>>>>>> master
 Use the  **VBProjects** collection to access specific projects in an instance of the development environment. **VBProjects** is a standard collection that can be used in a **For** **Each** block.
 

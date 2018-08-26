@@ -52,7 +52,11 @@ Private Sub appWord_DocumentBeforePrint _
  Dim intResponse As Integer 
  
  intResponse = MsgBox("Have you checked the " _ 
+<<<<<<< HEAD
  &; "printer for letterhead?", _ 
+=======
+ & "printer for letterhead?", _ 
+>>>>>>> master
  vbYesNo) 
  
  If intResponse = vbNo Then Cancel = True 

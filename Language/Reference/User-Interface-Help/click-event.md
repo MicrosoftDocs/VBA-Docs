@@ -21,9 +21,15 @@ Occurs in one of two cases:
 - The user clicks a control with the mouse.
     
 - The user definitively selects a value for a control with more than one possible value.
+<<<<<<< HEAD
     
 
  **Syntax**
+=======
+
+## Syntax
+
+>>>>>>> master
 For MultiPage, TabStrip **Private Sub**_object_ _**Click(**_index_**As Long)**
 For all other controls **Private Sub**_object_ _**Click( )**
 The  **Click** event syntax has these parts:
@@ -34,14 +40,23 @@ The  **Click** event syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 Of the two cases where the Click event occurs, the first case applies to the  **CommandButton**, **Frame**, **Image**, **Label**, **ScrollBar**, and **SpinButton**. The second case applies to the **CheckBox**, **ComboBox**, **ListBox**, **MultiPage**, **TabStrip**, and **ToggleButton**. It also applies to an **OptionButton** when the value changes to **True**.
 The following are examples of actions that initiate the Click event:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
+<<<<<<< HEAD
 - Clicking a  **CommandButton**. If the command button doesn't already have the[focus](../../Glossary/vbe-glossary.md), the Enter event occurs before the Click event.
+=======
+- Clicking a  **CommandButton**. If the command button doesn't already have the[focus](../../Glossary/vbe-glossary.md#focus), the Enter event occurs before the Click event.
+>>>>>>> master
     
 - Pressing the SPACEBAR when a  **CommandButton** has the focus.
     
@@ -51,7 +66,11 @@ The following are examples of actions that initiate the Click event:
     
 - Pressing ESC on a form that has a command button whose  **Cancel** property is set to **True**, as long as no other command button has the focus.
     
+<<<<<<< HEAD
 - Pressing a control's [accelerator key](../../../language/Glossary/glossary-vba.md).
+=======
+- Pressing a control's [accelerator key](../../Glossary/glossary-vba.md#accelerator-key).
+>>>>>>> master
     
 
 When the Click event results from clicking a control, the sequence of events leading to the Click event is:

@@ -1,10 +1,15 @@
 ---
+<<<<<<< HEAD
 title: Option Explicit Statement
+=======
+title: Option Explicit statement
+>>>>>>> master
 keywords: vblr6.chm1008808
 f1_keywords:
 - vblr6.chm1008808
 ms.prod: office
 ms.assetid: f7871e28-9577-740b-e887-1109f52be30e
+<<<<<<< HEAD
 ms.date: 06/08/2017
 ---
 
@@ -23,11 +28,39 @@ When  **Option Explicit** appears in a module, you must explicitly declare all v
 If you don't use the  **Option Explicit** statement, all undeclared variables are of **Variant** type unless the default type is otherwise specified with a **Def**_type_ statement.
 
  **Note**  Use  **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the[scope](../../Glossary/vbe-glossary.md) of the variable is not clear.
+=======
+ms.date: 08/24/2018
+---
+
+
+# Option Explicit statement
+
+Used at [module level](../../Glossary/vbe-glossary.md#module-level) to force explicit declaration of all [variables](../../Glossary/vbe-glossary.md#variable) in that [module](../../Glossary/vbe-glossary.md#module).
+
+## Syntax
+
+**Option Explicit**
+
+## Remarks
+
+If used, the **Option Explicit** statement must appear in a module before any [procedures](../../Glossary/vbe-glossary.md#procedure).
+
+When **Option Explicit** appears in a module, you must explicitly declare all variables using the **Dim**, **Private**, **Public**, **ReDim**, or **Static** statements. If you attempt to use an undeclared variable name, an error occurs at [compile time](../../Glossary/vbe-glossary.md#compile-time).
+
+If you don't use the  **Option Explicit** statement, all undeclared variables are of **Variant** type unless the default type is otherwise specified with a **Def**_type_ statement.
+
+> [!NOTE]
+> Use  **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the [scope](../../Glossary/vbe-glossary.md#scope) of the variable is not clear.
+>>>>>>> master
 
 
 ## Example
 
+<<<<<<< HEAD
 This example uses the  **Option Explicit** statement to force explicit declaration of all variables. Attempting to use an undeclared variable causes an error at compile time. The **Option Explicit** statement is used at the module level only.
+=======
+This example uses the **Option Explicit** statement to force explicit declaration of all variables. Attempting to use an undeclared variable causes an error at compile time. The **Option Explicit** statement is used at the module level only.
+>>>>>>> master
 
 
 ```vb

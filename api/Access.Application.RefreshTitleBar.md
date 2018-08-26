@@ -65,7 +65,11 @@ ErrorHandler:
  Set obj = dbs.CreateProperty("AppTitle", dbText, "Contacts Database") 
  dbs.Properties.Append obj 
  Else 
+<<<<<<< HEAD
  MsgBox "Error: " &; Err.Number &; vbCrLf &; Err.Description 
+=======
+ MsgBox "Error: " & Err.Number & vbCrLf & Err.Description 
+>>>>>>> master
  End If 
  Resume Next 
 End Sub

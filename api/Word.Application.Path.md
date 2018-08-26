@@ -37,7 +37,11 @@ This example displays the path and file name of the active document.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox ActiveDocument.Path &; Application.PathSeparator &; _ 
+=======
+MsgBox ActiveDocument.Path & Application.PathSeparator & _ 
+>>>>>>> master
  ActiveDocument.Name
 ```
 

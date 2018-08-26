@@ -32,7 +32,11 @@ Declare Function OpenClipboard Lib "User32" (ByVal hwnd As Long) _
 Declare Function CloseClipboard Lib "User32" () As Long 
 Declare Function GetClipboardData Lib "User32" (ByVal wFormat As _ 
    Long) As Long 
+<<<<<<< HEAD
 Declare Function GlobalAlloc Lib "kernel32" (ByVal wFlags&;, ByVal _ 
+=======
+Declare Function GlobalAlloc Lib "kernel32" (ByVal wFlags&, ByVal _ 
+>>>>>>> master
    dwBytes As Long) As Long 
 Declare Function GlobalLock Lib "kernel32" (ByVal hMem As Long) _ 
    As Long 
@@ -43,7 +47,11 @@ Declare Function GlobalSize Lib "kernel32" (ByVal hMem As Long) _
 Declare Function lstrcpy Lib "kernel32" (ByVal lpString1 As Any, _ 
    ByVal lpString2 As Any) As Long 
  
+<<<<<<< HEAD
 Public Const GHND = &;H42 
+=======
+Public Const GHND = &H42 
+>>>>>>> master
 Public Const CF_TEXT = 1 
 Public Const MAXSIZE = 4096
 ```
@@ -60,7 +68,11 @@ Function ClipBoard_GetData()
    Dim MyString As String 
    Dim RetVal As Long 
  
+<<<<<<< HEAD
    If OpenClipboard(0&;) = 0 Then 
+=======
+   If OpenClipboard(0&) = 0 Then 
+>>>>>>> master
       MsgBox "Cannot open Clipboard. Another app. may have it open" 
       Exit Function 
    End If 

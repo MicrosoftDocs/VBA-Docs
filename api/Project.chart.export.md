@@ -58,7 +58,11 @@ Sub ExportChart()
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
     If (chartShape.Chart.Export(bstr:=filename, varFilterName:=fileFormat)) Then
+<<<<<<< HEAD
         Debug.Print "Exported chart: " &; filename
+=======
+        Debug.Print "Exported chart: " & filename
+>>>>>>> master
     End If
 End Sub
 ```

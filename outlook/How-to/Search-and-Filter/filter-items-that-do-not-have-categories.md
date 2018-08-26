@@ -25,9 +25,15 @@ Sub NullCategoryRestriction()
  
  'DASL Filter can test for null property. 
  'This will return all items that have no category. 
+<<<<<<< HEAD
  Filter = "@SQL=" &; Chr(34) &; _ 
  "urn:schemas-microsoft-com:office:office#Keywords" &; _ 
  Chr(34) &; " is null" 
+=======
+ Filter = "@SQL=" & Chr(34) & _ 
+ "urn:schemas-microsoft-com:office:office#Keywords" & _ 
+ Chr(34) & " is null" 
+>>>>>>> master
  Set oFolder = Application.ActiveExplorer.CurrentFolder 
  Set oItems = oFolder.Items.Restrict(Filter) 
  Debug.Print oItems.Count 

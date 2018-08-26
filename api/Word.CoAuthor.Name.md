@@ -30,8 +30,13 @@ The following code example displays the name of the first co author in the activ
 
 ```vb
 Set coAuth = ActiveDocument.CoAuthoring.Authors(1) 
+<<<<<<< HEAD
 MsgBox "The name of the user is " &; _ 
 coAuth.Name &; "."
+=======
+MsgBox "The name of the user is " & _ 
+coAuth.Name & "."
+>>>>>>> master
 ```
 
 

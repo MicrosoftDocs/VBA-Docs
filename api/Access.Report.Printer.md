@@ -36,9 +36,15 @@ Set Application.Printer = Application.Printers(0)
 Set prtDefault = Application.Printer 
  
 With prtDefault 
+<<<<<<< HEAD
  MsgBox "Device name: " &; .DeviceName &; vbCr _ 
  &; "Driver name: " &; .DriverName &; vbCr _ 
  &; "Port: " &; .Port 
+=======
+ MsgBox "Device name: " & .DeviceName & vbCr _ 
+ & "Driver name: " & .DriverName & vbCr _ 
+ & "Port: " & .Port 
+>>>>>>> master
 End With 
 
 ```

@@ -52,7 +52,11 @@ The following code example displays a message box when a new chart is added to a
 ```vb
 Private Sub App_NewChart(ByVal Wb As Workbook, _ 
  ByVal Ch As Chart) 
+<<<<<<< HEAD
  MsgBox ("A new chart was added to: " &; Wb.Name &; " of type: " &; Ch.Type) 
+=======
+ MsgBox ("A new chart was added to: " & Wb.Name & " of type: " & Ch.Type) 
+>>>>>>> master
 End Sub
 ```
 

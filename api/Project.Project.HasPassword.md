@@ -42,7 +42,11 @@ Sub ListProjectsWithPasswords()
     For Each P in Application.Projects 
         ' If a project has a password, add its name to the list. 
         If P.HasPassword Then 
+<<<<<<< HEAD
             NameList = NameList &; P.Name &; vbCrLf 
+=======
+            NameList = NameList & P.Name & vbCrLf 
+>>>>>>> master
         End If 
     Next P 
  
@@ -50,7 +54,11 @@ Sub ListProjectsWithPasswords()
     If NameList = "" Then 
         MsgBox("No open projects have passwords.") 
     Else 
+<<<<<<< HEAD
         MsgBox("The following open projects have passwords: " &; vbCrLf &; vbCrLf &; NameList) 
+=======
+        MsgBox("The following open projects have passwords: " & vbCrLf & vbCrLf & NameList) 
+>>>>>>> master
     End If 
 End Sub
 ```

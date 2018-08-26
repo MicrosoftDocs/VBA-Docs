@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Incorrect OLE version
 
+<<<<<<< HEAD
 Your versions of the OLE [dynamic-link libraries (DLL)](../../Glossary/vbe-glossary.md) (Windows) or code resource (Macintosh) don't match those expected by the[host application](../../Glossary/vbe-glossary.md). In Microsoft Windows, the application searches for the DLLs first in the current directory, then along your path settings, and then in the WINDOWS\SYSTEM directory. This error has the following cause and solution:
+=======
+Your versions of the OLE [dynamic-link libraries (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (Windows) or code resource (Macintosh) don't match those expected by the[host application](../../Glossary/vbe-glossary.md#host-application). In Microsoft Windows, the application searches for the DLLs first in the current directory, then along your path settings, and then in the WINDOWS\SYSTEM directory. This error has the following cause and solution:
+>>>>>>> master
 
 
 

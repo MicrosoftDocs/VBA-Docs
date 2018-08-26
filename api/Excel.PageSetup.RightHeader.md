@@ -29,7 +29,11 @@ This example prints the file name in the upper-right corner of every page.
 
 
 ```vb
+<<<<<<< HEAD
 Worksheets("Sheet1").PageSetup.RightHeader = "&;F"
+=======
+Worksheets("Sheet1").PageSetup.RightHeader = "&F"
+>>>>>>> master
 ```
 
 

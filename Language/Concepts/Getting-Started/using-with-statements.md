@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Using With Statements
 
+<<<<<<< HEAD
 The  **With** statement lets you specify an[object](../../Glossary/vbe-glossary.md) or[user-defined type](../../Glossary/vbe-glossary.md) once for an entire series of[statements](../../Glossary/vbe-glossary.md).  **With** statements make your procedures run faster and help you avoid repetitive typing.
+=======
+The  **With** statement lets you specify an[object](../../Glossary/vbe-glossary.md#object) or[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) once for an entire series of[statements](../../Glossary/vbe-glossary.md#statement).  **With** statements make your procedures run faster and help you avoid repetitive typing.
+>>>>>>> master
 
 The following example fills a range of cells with the number 30, applies bold formatting, and sets the interior color of the cells to yellow.
 

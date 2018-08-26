@@ -29,7 +29,11 @@ The following code example displays the number of protected view windows that ar
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "There are " &; ProtectedViewWindows.Count &; _ 
+=======
+MsgBox "There are " & ProtectedViewWindows.Count & _ 
+>>>>>>> master
  " protected view windows open."
 ```
 

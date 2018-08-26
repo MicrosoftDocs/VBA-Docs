@@ -15,8 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a string indicating the specified month.
+<<<<<<< HEAD
  **Syntax**
  **MonthName(**_month_ [ **,**_abbreviate_ ] **)**
+=======
+
+## Syntax
+
+**MonthName(**_month_ [ **,**_abbreviate_ ] **)**
+>>>>>>> master
 The  **MonthName** function syntax has these parts:
 
 

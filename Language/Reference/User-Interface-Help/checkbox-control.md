@@ -14,9 +14,17 @@ ms.date: 06/08/2017
 
 
 Displays the selection state of an item.
+<<<<<<< HEAD
  **Remarks**
 Use a  **CheckBox** to give the user a choice between two values such as _Yes_ / _No_, _True_ / _False_, or _On_ / _Off_. When the user selects a **CheckBox**, it displays a special mark (such as an X) and its current setting is _Yes_, _True_, or _On_; if the user does not select the **CheckBox**, it is empty and its setting is _No_, _False_, or _Off_. Depending on the value of the **TripleState** property, a **CheckBox** can also have a[null](../../Glossary/vbe-glossary.md) value.
 If a  **CheckBox** is[bound](../../../language/Glossary/glossary-vba.md) to a[data source](../../../language/Glossary/glossary-vba.md), changing the setting changes the value of that source. A disabled  **CheckBox** shows the current value, but is dimmed and does not allow changes to the value from the user interface.
+=======
+
+## Remarks
+
+Use a  **CheckBox** to give the user a choice between two values such as _Yes_ / _No_, _True_ / _False_, or _On_ / _Off_. When the user selects a **CheckBox**, it displays a special mark (such as an X) and its current setting is _Yes_, _True_, or _On_; if the user does not select the **CheckBox**, it is empty and its setting is _No_, _False_, or _Off_. Depending on the value of the **TripleState** property, a **CheckBox** can also have a[null](../../Glossary/vbe-glossary.md#null) value.
+If a  **CheckBox** is[bound](../../Glossary/glossary-vba.md#bound) to a[data source](../../Glossary/glossary-vba.md#data-source), changing the setting changes the value of that source. A disabled  **CheckBox** shows the current value, but is dimmed and does not allow changes to the value from the user interface.
+>>>>>>> master
 You can also use check boxes inside a group box to select one or more of a group of related items. For example, you can create an order form that contains a list of available items, with a  **CheckBox** preceding each item. The user can select a particular item or items by checking the corresponding **CheckBox**.
 The default property of a  **CheckBox** is the **Value** property.
 The default event of a  **CheckBox** is the Click event.

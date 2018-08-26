@@ -38,7 +38,11 @@ Sub SetEnabledProperty()
  Dim wizProperty As WizardProperty 
  For Each wizProperty In ActiveDocument.Wizard.Properties 
  If wizProperty.Enabled = True Then 
+<<<<<<< HEAD
  MsgBox "The name of the wizard property is " &; wizProperty.Name 
+=======
+ MsgBox "The name of the wizard property is " & wizProperty.Name 
+>>>>>>> master
  End If 
  Next 
 End Sub

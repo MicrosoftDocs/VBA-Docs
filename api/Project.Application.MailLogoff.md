@@ -34,12 +34,20 @@ The following example checks for an existing mail session and logs off it. If no
 Sub LogoffFromMail() 
  
  If Not IsNull(MailSession) Then 
+<<<<<<< HEAD
  MsgBox "Logging off mail session: " &; MailSession 
+=======
+ MsgBox "Logging off mail session: " & MailSession 
+>>>>>>> master
  Application.MailLogoff 
  Else 
  MsgBox "Logging on to mail session now." 
  Application.MailLogon DownloadNewMail:=True 
+<<<<<<< HEAD
  MsgBox "Logging off mail session: " &; MailSession 
+=======
+ MsgBox "Logging off mail session: " & MailSession 
+>>>>>>> master
  Application.MailLogoff 
  End If 
  

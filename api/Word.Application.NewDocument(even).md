@@ -7,7 +7,11 @@ ms.prod: word
 api_name:
 - Word.Application.NewDocument
 ms.assetid: afe5b924-3067-69e7-4331-a9ea2b30b9b5
+<<<<<<< HEAD
 ms.date: 06/08/2017
+=======
+ms.date: 08/20/2018
+>>>>>>> master
 ---
 
 
@@ -15,30 +19,52 @@ ms.date: 06/08/2017
 
 Occurs when a new document is created.
 
+<<<<<<< HEAD
 
 ## Syntax
 
 Private Sub Application **_NewDocument**(ByVal  **_Doc_** As Document)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
+=======
+> [!NOTE] 
+> If you are working with a document embedded within another document, this event will not occur.
+
+## Syntax
+
+Private Sub Application **_NewDocument**(ByVal **_Doc_** As Document)
+
+_expression_ A variable that represents an [Application](Word.Application.md) object that has been declared with events in a class module.
+>>>>>>> master
 
 
 ### Parameters
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The new document.|
 
 ## Remarks
 
+<<<<<<< HEAD
 For more information about using events with the  **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+=======
+For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+>>>>>>> master
 
 
 ## Example
 
+<<<<<<< HEAD
 This example asks the user whether to save all other open documents when a new document is created. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)for directions on how to accomplish this.
+=======
+This example asks the user whether to save all other open documents when a new document is created. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md) for directions on how to accomplish this.
+>>>>>>> master
 
 
 ```vb
@@ -67,6 +93,10 @@ End Sub
 
 ## See also
 
+<<<<<<< HEAD
 
 [Application Object](Word.Application.md)
+=======
+- [Application Object](Word.Application.md)
+>>>>>>> master
 

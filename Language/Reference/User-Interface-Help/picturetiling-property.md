@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Lets you tile a picture in a form or page.
+<<<<<<< HEAD
  **Syntax**
  _object_. **PictureTiling** [= _Boolean_ ]
+=======
+
+## Syntax
+
+_object_. **PictureTiling** [= _Boolean_ ]
+>>>>>>> master
 The  **PictureTiling** property syntax has these parts:
 
 
@@ -35,7 +42,12 @@ The settings for  _Boolean_ are:
 |**True**|The picture is tiled across the background.|
 |**False**|The picture is not tiled across the background (default).|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 If a picture is smaller than the form or page that contains it, you can tile the picture on the form or page.
 The tiling pattern depends on the current setting of the  **PictureAlignment** and **PictureSizeMode** properties. For example, if **PictureAlignment** is set to **fmPictureAlignmentTopLeft**, the tiling pattern starts at the upper left and repeats the picture across the form or page and down the height of the form or page. If **PictureSizeMode** is set to **fmPictureSizeModeClip**, the tiling pattern crops the last tile if it doesn't completely fit on the form or page.
 

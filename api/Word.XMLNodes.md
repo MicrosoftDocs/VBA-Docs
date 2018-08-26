@@ -52,7 +52,11 @@ Set objNode = Selection.XMLNodes.Add("example", "SimpleSample")
 objNode.Validate 
  
 If objNode.ValidationStatus < 0 Then 
+<<<<<<< HEAD
  intResponse = MsgBox("This element is invalid. " &; _ 
+=======
+ intResponse = MsgBox("This element is invalid. " & _ 
+>>>>>>> master
  "Are you sure you want to add it?", vbYesNo) 
  If intResponse = vbNo Then objNode.Delete 
 End If

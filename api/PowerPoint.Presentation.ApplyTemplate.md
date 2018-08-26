@@ -38,7 +38,11 @@ This example applies the "Professional" design template to the active presentati
 
 ```vb
 Application.ActivePresentation.ApplyTemplate _
+<<<<<<< HEAD
     "c:\program files\microsoft office\templates" &; _
+=======
+    "c:\program files\microsoft office\templates" & _
+>>>>>>> master
     "\presentation designs\professional.pot"
 ```
 

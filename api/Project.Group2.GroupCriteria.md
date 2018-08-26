@@ -44,7 +44,11 @@ Sub ListCriteria()
 
  For Each criterion In criteria 
 
+<<<<<<< HEAD
  Debug.Print "Criterion " &; criterionNum &; ", Field name: " &; criterion.FieldName 
+=======
+ Debug.Print "Criterion " & criterionNum & ", Field name: " & criterion.FieldName 
+>>>>>>> master
 
  criterionNum = criterionNum + 1 
 

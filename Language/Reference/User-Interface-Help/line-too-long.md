@@ -15,7 +15,11 @@ A physical line of Visual Basic code can contain up to 1023 characters. This err
 
 
 
+<<<<<<< HEAD
 - A line contains too many characters. You can create a longer logical line by joining physical lines with a [line-continuation character](../../Glossary/vbe-glossary.md), a space followed by an underscore ( _). Up to 25 physical lines can be joined with line-continuation characters to form a single logical line, or 24 consecutive line-continuation characters. Thus, a logical line could potentially contain a total of 10,230 characters. Beyond that, you must break the line into individual statements or assign some [expressions](../../Glossary/vbe-glossary.md) to intermediate[variables](../../Glossary/vbe-glossary.md).
+=======
+- A line contains too many characters. You can create a longer logical line by joining physical lines with a [line-continuation character](../../Glossary/vbe-glossary.md#line-continuation-character), a space followed by an underscore ( _). Up to 25 physical lines can be joined with line-continuation characters to form a single logical line, or 24 consecutive line-continuation characters. Thus, a logical line could potentially contain a total of 10,230 characters. Beyond that, you must break the line into individual statements or assign some [expressions](../../Glossary/vbe-glossary.md#expression) to intermediate[variables](../../Glossary/vbe-glossary.md#variable).
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -33,7 +33,11 @@ Dim shapeLoop As Shape
  
 For Each shapeLoop In ActiveDocument.Shapes 
  If shapeLoop.OLEFormat.DisplayAsIcon Then 
+<<<<<<< HEAD
  MsgBox shapeLoop.Name &; " is displayed as an icon." 
+=======
+ MsgBox shapeLoop.Name & " is displayed as an icon." 
+>>>>>>> master
  End If 
 Next shapeLoop
 ```
@@ -48,7 +52,11 @@ Dim objNew As Object
  
 Set objNew = ActiveDocument.Shapes.AddOLEObject _ 
  (FileName:="C:\Program Files\Microsoft Office" _ 
+<<<<<<< HEAD
  &; "\Office\Samples\samples.xls", LinkToFile:=True) 
+=======
+ & "\Office\Samples\samples.xls", LinkToFile:=True) 
+>>>>>>> master
  
 objNew.OLEFormat.DisplayAsIcon = True
 ```

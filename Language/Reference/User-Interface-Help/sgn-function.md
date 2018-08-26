@@ -14,9 +14,17 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Integer**) indicating the sign of a number.
+<<<<<<< HEAD
  **Syntax**
  **Sgn(**_number_**)**
 The required  _number_[argument](../../Glossary/vbe-glossary.md) can be any valid[numeric expression](../../Glossary/vbe-glossary.md).
+=======
+
+## Syntax
+
+**Sgn(**_number_**)**
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) can be any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+>>>>>>> master
  **Return Values**
 
 
@@ -26,7 +34,12 @@ The required  _number_[argument](../../Glossary/vbe-glossary.md) can be any vali
 |Equal to zero|0|
 |Less than zero|-1|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The sign of the  _number_ argument determines the return value of the **Sgn** function.
 
 ## Example

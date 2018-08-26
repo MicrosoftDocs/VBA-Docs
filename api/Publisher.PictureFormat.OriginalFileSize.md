@@ -52,8 +52,13 @@ For Each pgLoop In ActiveDocument.Pages
  
  With shpLoop.PictureFormat 
  
+<<<<<<< HEAD
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Original File Size: " &; .OriginalFileSize &; " bytes" 
+=======
+ Debug.Print "File Name: " & .Filename 
+ Debug.Print "Original File Size: " & .OriginalFileSize & " bytes" 
+>>>>>>> master
  
  End With 
  End If 

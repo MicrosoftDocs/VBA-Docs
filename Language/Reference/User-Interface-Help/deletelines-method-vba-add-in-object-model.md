@@ -14,17 +14,33 @@ ms.date: 06/08/2017
 
 
 Deletes a single line or a specified range of lines.
+<<<<<<< HEAD
  **Syntax**
  _object_**.DeleteLines (**_startline_ [, _count_ ] **)**
+=======
+
+## Syntax
+
+_object_**.DeleteLines (**_startline_ [, _count_ ] **)**
+>>>>>>> master
 The  **DeleteLines** syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the first line you want to delete.|
 | _count_|Optional. A  **Long** specifying the number of lines you want to delete.|
 
  **Remarks**
+=======
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the first line you want to delete.|
+| _count_|Optional. A  **Long** specifying the number of lines you want to delete.|
+
+## Remarks
+
+>>>>>>> master
 If you don't specify how many lines you want to delete,  **DeleteLines** deletes one line.
 

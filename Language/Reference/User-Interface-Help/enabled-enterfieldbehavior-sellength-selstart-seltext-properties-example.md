@@ -45,7 +45,11 @@ Private Sub UserForm_Initialize()
  fmEnterFieldBehaviorRecallSelection 
  
  TextBox1.Text = "Type your text here. Use " _ 
+<<<<<<< HEAD
  &; "CTRL+ENTER to start a new line." 
+=======
+ & "CTRL+ENTER to start a new line." 
+>>>>>>> master
 End Sub
 ```
 

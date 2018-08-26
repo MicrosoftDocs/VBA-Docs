@@ -44,9 +44,15 @@ Sub CheckInOut(strWkbCheckIn As String)
  ' Determine if workbook can be checked in. 
  If Workbooks(strWkbCheckIn).CanCheckIn = True Then 
  Workbooks(strWkbCheckIn).CheckIn 
+<<<<<<< HEAD
  MsgBox strWkbCheckIn &; " has been checked in." 
  Else 
  MsgBox "This file cannot be checked in " &; _ 
+=======
+ MsgBox strWkbCheckIn & " has been checked in." 
+ Else 
+ MsgBox "This file cannot be checked in " & _ 
+>>>>>>> master
  "at this time. Please try again later." 
  End If 
  

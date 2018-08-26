@@ -52,6 +52,7 @@ Sub DisplayModuleCounts()
  
  ' by the NavigationPane object. 
  
+<<<<<<< HEAD
  MsgBox "The Navigation Pane currently contains " &; _ 
  
  objPane.Modules.Count &; _ 
@@ -59,6 +60,15 @@ Sub DisplayModuleCounts()
  " modules, of which " &; _ 
  
  objPane.DisplayedModuleCount &; _ 
+=======
+ MsgBox "The Navigation Pane currently contains " & _ 
+ 
+ objPane.Modules.Count & _ 
+ 
+ " modules, of which " & _ 
+ 
+ objPane.DisplayedModuleCount & _ 
+>>>>>>> master
  
  " are displayed." 
  

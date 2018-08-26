@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Too many module-level variables
 
+<<<<<<< HEAD
 [Module-level](../../Glossary/vbe-glossary.md)[variables](../../Glossary/vbe-glossary.md) are those declared in the Declarations section of a[module](../../Glossary/vbe-glossary.md), before the module's [procedures](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
 
 
 
 - The sum of the memory requirements for all module-level variables in this [module](../../Glossary/vbe-glossary.md) exceeds 64K.
+=======
+[Module-level](../../Glossary/vbe-glossary.md#module-level)[variables](../../Glossary/vbe-glossary.md#variable) are those declared in the Declarations section of a[module](../../Glossary/vbe-glossary.md#module), before the module's [procedures](../../Glossary/vbe-glossary.md#procedure). This error has the following cause and solution:
+
+
+
+- The sum of the memory requirements for all module-level variables in this [module](../../Glossary/vbe-glossary.md#module) exceeds 64K.
+>>>>>>> master
     
     This is the storage limit for this module. If appropriate, you can declare some of your variables as  **Public** in another module, or if some module-level variables are used only in one procedure, you can declare them within that procedure. If you declared variables at module level because you want them to retain their value between procedure invocations, you can instead declare them as **Static** within the procedure in which they are referenced.
     

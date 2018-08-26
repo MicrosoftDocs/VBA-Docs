@@ -13,12 +13,23 @@ ms.date: 06/08/2017
 
 Sets the system time.
 
+<<<<<<< HEAD
  **Syntax**
 
  **Time =**_time_
 
 The required  _time_[argument](../../Glossary/vbe-glossary.md) is any[numeric expression](../../Glossary/vbe-glossary.md), [string expression](../../Glossary/vbe-glossary.md), or any combination, that can represent a time.
  **Remarks**
+=======
+## Syntax
+
+**Time =**_time_
+
+The required  _time_[argument](../../Glossary/vbe-glossary.md#argument) is any[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), [string expression](../../Glossary/vbe-glossary.md#string-expression), or any combination, that can represent a time.
+
+## Remarks
+
+>>>>>>> master
 If  _time_ is a string, **Time** attempts to convert it to a time using the time separators you specified for your system. If it can't be converted to a valid time, an error occurs.
 
 ## Example

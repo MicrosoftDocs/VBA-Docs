@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Returns the length, in characters, of text in the edit region of a  **TextBox** or **ComboBox**.
+<<<<<<< HEAD
  **Syntax**
  _object_. **TextLength**
+=======
+
+## Syntax
+
+_object_. **TextLength**
+>>>>>>> master
 The  **TextLength** property syntax has these parts:
 
 
@@ -25,6 +32,11 @@ The  **TextLength** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The  **TextLength** property is read-only. For a multiline **TextBox**, **TextLength** includes LF (line feed) and CR (carriage return) characters.
 

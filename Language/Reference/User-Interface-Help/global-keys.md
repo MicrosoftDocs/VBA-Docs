@@ -19,7 +19,11 @@ Use these key combinations in all Visual Basic windows:
 |:-----|:-----|
 |F5|Run a Sub/UserForm or macro.|
 |F8|Execute code one line at a time.|
+<<<<<<< HEAD
 |SHIFT+F8|Execute [statements](../../Glossary/vbe-glossary.md) one line at a time without stepping into[procedure calls](../../Glossary/vbe-glossary.md).|
+=======
+|SHIFT+F8|Execute [statements](../../Glossary/vbe-glossary.md#statement) one line at a time without stepping into[procedure calls](../../Glossary/vbe-glossary.md#procedure-call).|
+>>>>>>> master
 |CTRL+BREAK|Stop running a Visual Basic application.|
 |CTRL+G|Displays the  **Immediate** window.|
 |CTRL+TAB|Switch between windows.|

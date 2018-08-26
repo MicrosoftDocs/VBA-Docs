@@ -13,9 +13,15 @@ ms.date: 06/08/2017
 
 Conditionally compiles selected blocks of Visual Basic code.
 
+<<<<<<< HEAD
  **Syntax**
 
  **#If** _expression_ **Then**  
+=======
+## Syntax
+
+**#If** _expression_ **Then**  
+>>>>>>> master
  _statements_  
 [ **#ElseIf** _expression-n_ **Then**  
 [ _elseifstatements_ ]]  
@@ -27,15 +33,26 @@ The  **#If...Then...#Else** directive syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _expression_|Required. Any [expression](../../Glossary/vbe-glossary.md), consisting exclusively of one or more [conditional compiler constants](../../Glossary/vbe-glossary.md), literals, and operators, that evaluates to  **True** or **False**.|
+=======
+| _expression_|Required. Any [expression](../../Glossary/vbe-glossary.md#expression), consisting exclusively of one or more [conditional compiler constants](../../Glossary/vbe-glossary.md#conditional-compiler-constant), literals, and operators, that evaluates to  **True** or **False**.|
+>>>>>>> master
 | _statements_|Required. Visual Basic program lines or compiler directives that are evaluated if the associated expression is  **True**.|
 | _expression-n_|Optional. Any expression, consisting exclusively of one or more conditional compiler constants, literals, and operators, that evaluates to  **True** or **False**.|
 | _elseifstatements_|Optional. One or more program lines or compiler directives that are evaluated if  _expression-n_ is **True**.|
 | _elsestatements_|Optional. One or more program lines or compiler directives that are evaluated if no previous  _expression_ or _expression-n_ is **True**.|
 
+<<<<<<< HEAD
  **Remarks**
 The behavior of the  **#If...Then...#Else** directive is the same as the **If...Then...Else** statement, except that there is no single-line form of the **#If**, **#Else**, **#ElseIf**, and **#End If** directives; that is, no other code can appear on the same line as any of the directives. Conditional compilation is typically used to compile the same program for different platforms. It is also used to prevent debugging code from appearing in an executable file. Code excluded during conditional compilation is completely omitted from the final executable file, so it has no size or performance effect.
 Regardless of the outcome of any evaluation, all expressions are evaluated. Therefore, all [constants](../../Glossary/vbe-glossary.md) used in expressions must be defined — any undefined constant evaluates as[Empty](../../Glossary/vbe-glossary.md).
+=======
+## Remarks
+
+The behavior of the  **#If...Then...#Else** directive is the same as the **If...Then...Else** statement, except that there is no single-line form of the **#If**, **#Else**, **#ElseIf**, and **#End If** directives; that is, no other code can appear on the same line as any of the directives. Conditional compilation is typically used to compile the same program for different platforms. It is also used to prevent debugging code from appearing in an executable file. Code excluded during conditional compilation is completely omitted from the final executable file, so it has no size or performance effect.
+Regardless of the outcome of any evaluation, all expressions are evaluated. Therefore, all [constants](../../Glossary/vbe-glossary.md#constant) used in expressions must be defined — any undefined constant evaluates as[Empty](../../Glossary/vbe-glossary.md#empty).
+>>>>>>> master
 
  **Note**  The  **Option Compare** statement does not affect expressions in **#If** and **#ElseIf** statements. Expressions in a conditional-compiler directive are always evaluated with **Option Compare Text**.
 

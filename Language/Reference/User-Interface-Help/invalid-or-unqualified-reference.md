@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid or unqualified reference
 
+<<<<<<< HEAD
 An [identifier](../../Glossary/vbe-glossary.md) beginning with a period is valid only within a **With** block. This error has the following cause and solution:
+=======
+An [identifier](../../Glossary/vbe-glossary.md#identifier) beginning with a period is valid only within a **With** block. This error has the following cause and solution:
+>>>>>>> master
 
 
 

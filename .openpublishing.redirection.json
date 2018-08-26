@@ -1,0 +1,8 @@
+{
+    "redirections": [
+        {
+            "redirect_url": "/office/vba/api/overview",
+            "source_path": "index.md" 
+        }
+    ]
+}

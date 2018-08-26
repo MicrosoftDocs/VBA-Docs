@@ -35,7 +35,11 @@ You can use the  **ActiveReport** property to refer to an active report together
 ```vb
 Dim rptCurrentReport As Report 
 Set rptCurrentReport = Screen.ActiveReport 
+<<<<<<< HEAD
 MsgBox "Current report is " &; rptCurrentReport.Name
+=======
+MsgBox "Current report is " & rptCurrentReport.Name
+>>>>>>> master
 ```
 
 If no report has the focus when you use the  **ActiveReport** property, an error occurs.

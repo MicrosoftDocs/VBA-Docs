@@ -49,7 +49,11 @@ This example adds a picture created from the file Music.bmp to myDocument. The i
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1) 
+<<<<<<< HEAD
 myDocument.Shapes.AddPicture FileName:="c:\microsoft office\" &; _ 
+=======
+myDocument.Shapes.AddPicture FileName:="c:\microsoft office\" & _ 
+>>>>>>> master
     "clipart\music.bmp", LinkToFile:=msoTrue, SaveWithDocument:=msoTrue, _ 
     Left:=100, Top:=100, Width:=70, Height:=70
 ```

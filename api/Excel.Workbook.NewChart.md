@@ -50,7 +50,11 @@ This example displays a message box when a new chart is added to the workbook.
 
 ```vb
 Private Sub Workbook_NewChart(ByVal Ch As Chart) 
+<<<<<<< HEAD
  MsgBox ("A new chart of the following chart type was added: " &; Ch.ChartType) 
+=======
+ MsgBox ("A new chart of the following chart type was added: " & Ch.ChartType) 
+>>>>>>> master
 End Sub
 ```
 

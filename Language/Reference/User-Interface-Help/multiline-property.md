@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies whether a control can accept and display multiple lines of text.
+<<<<<<< HEAD
  **Syntax**
  _object_. **MultiLine** [= _Boolean_ ]
+=======
+
+## Syntax
+
+_object_. **MultiLine** [= _Boolean_ ]
+>>>>>>> master
 The  **MultiLine** property syntax has these parts:
 
 
@@ -35,7 +42,12 @@ The settings for  _Boolean_ are:
 |**True**|The text is displayed across multiple lines (default).|
 |**False**|The text is not displayed across multiple lines.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 A multiline  **TextBox** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
 A single-line  **TextBox** doesn't allow absolute line breaks and doesn't use vertical scroll bars.
 Single-line controls ignore the value of the  **WordWrap** property.

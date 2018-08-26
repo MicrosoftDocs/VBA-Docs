@@ -50,11 +50,19 @@ This example shows how the  **FindPrevious** method is used with the **Find** an
 Sub FindTest() 
  Dim fc As Range 
  Set fc = Worksheets("Sheet1").Columns("B").Find(what:="Phoenix") 
+<<<<<<< HEAD
  MsgBox "The first occurrence is in cell " &; fc.Address 
  Set fc = Worksheets("Sheet1").Columns("B").FindNext(after:=fc) 
  MsgBox "The next occurrence is in cell " &; fc.Address 
  Set fc = Worksheets("Sheet1").Columns("B").FindPrevious(after:=fc) 
  MsgBox "The previous occurrence is in cell " &; fc.Address 
+=======
+ MsgBox "The first occurrence is in cell " & fc.Address 
+ Set fc = Worksheets("Sheet1").Columns("B").FindNext(after:=fc) 
+ MsgBox "The next occurrence is in cell " & fc.Address 
+ Set fc = Worksheets("Sheet1").Columns("B").FindPrevious(after:=fc) 
+ MsgBox "The previous occurrence is in cell " & fc.Address 
+>>>>>>> master
 End Sub
 ```
 

@@ -49,7 +49,11 @@ Sub ListProperties()
  For Each proDoc In ActiveDocument.BuiltInDocumentProperties 
  With rngDoc 
  .InsertParagraphAfter 
+<<<<<<< HEAD
  .InsertAfter proDoc.Name &; "= " 
+=======
+ .InsertAfter proDoc.Name & "= " 
+>>>>>>> master
  On Error Resume Next 
  .InsertAfter proDoc.Value 
  End With 
@@ -66,7 +70,11 @@ This example displays the number of words in the active document.
 Sub DisplayTotalWords() 
  Dim intWords As Integer 
  intWords = ActiveDocument.BuiltInDocumentProperties(wdPropertyWords) 
+<<<<<<< HEAD
  MsgBox "This document contains " &; intWords &; " words." 
+=======
+ MsgBox "This document contains " & intWords & " words." 
+>>>>>>> master
 End Sub
 ```
 

@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Operation not allowed in DLL
 
+<<<<<<< HEAD
 Not all Visual Basic statements are allowed within a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
 
 
 
 - You tried to create a DLL from a [class](../../Glossary/vbe-glossary.md) that contains a statement that can't be executed from a DLL.
+=======
+Not all Visual Basic statements are allowed within a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll). This error has the following causes and solutions:
+
+
+
+- You tried to create a DLL from a [class](../../Glossary/vbe-glossary.md#class) that contains a statement that can't be executed from a DLL.
+>>>>>>> master
     
     Check your class and remove any statements that can't be executed within a DLL, for example, the  **End statement**.
     

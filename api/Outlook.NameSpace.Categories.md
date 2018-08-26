@@ -70,9 +70,15 @@ Private Sub ListCategoryIDs()
  
  ' the output string. 
  
+<<<<<<< HEAD
  strOutput = strOutput &; objCategory.Name &; _ 
  
  ": " &; objCategory.CategoryID &; vbCrLf 
+=======
+ strOutput = strOutput & objCategory.Name & _ 
+ 
+ ": " & objCategory.CategoryID & vbCrLf 
+>>>>>>> master
  
  Next 
  

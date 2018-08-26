@@ -16,15 +16,27 @@ ms.date: 06/08/2017
 
 
 Occurs before a  **UserForm** closes.
+<<<<<<< HEAD
  **Syntax**
  **Private Sub UserForm_QueryClose(**_cancel_**As Integer**, _closemode_**As Integer)**
+=======
+
+## Syntax
+
+**Private Sub UserForm_QueryClose(**_cancel_**As Integer**, _closemode_**As Integer)**
+>>>>>>> master
 The  **QueryClose** event syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
 | _closemode_|A value or [constant](../../Glossary/vbe-glossary.md) indicating the cause of the QueryClose event.|
+=======
+| _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md#argument) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
+| _closemode_|A value or [constant](../../Glossary/vbe-glossary.md#constant) indicating the cause of the QueryClose event.|
+>>>>>>> master
 
  **Return Values**
 The  _closemode_ argument returns the following values:
@@ -37,8 +49,15 @@ The  _closemode_ argument returns the following values:
 |**vbAppWindows**|2|The current Windows operating environment session is ending.|
 |**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
 
+<<<<<<< HEAD
 These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md) in the[Object Browser](../../Glossary/vbe-glossary.md). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
  **Remarks**
+=======
+These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) in the[Object Browser](../../Glossary/vbe-glossary.md#object-browser). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
+
+## Remarks
+
+>>>>>>> master
 This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any  **UserForm**, the application can prompt the user to save the data.
 When an application closes, you can use the  **QueryClose** event procedure to set the **Cancel** property to **True**, stopping the closing process.
 

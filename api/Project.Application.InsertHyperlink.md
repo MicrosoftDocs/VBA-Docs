@@ -53,7 +53,11 @@ The following example inserts a hyperlink in a Gantt Chart view.
 Sub Insert_Hyperlink() 
  
  'Activate Gantt Chart view 
+<<<<<<< HEAD
  ViewApply Name:="&;Gantt Chart" 
+=======
+ ViewApply Name:="&Gantt Chart" 
+>>>>>>> master
  
  SelectRow Row:=2, RowRelative:=False 
  InsertHyperlink Name:="https://MSDN", Address:="https://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 

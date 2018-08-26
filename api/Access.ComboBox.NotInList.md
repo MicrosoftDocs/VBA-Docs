@@ -77,7 +77,11 @@ Private Sub Colors_NotInList(NewData As String, _
         ' is being added. 
         Response = acDataErrAdded 
         ' Add string in NewData argument to row source. 
+<<<<<<< HEAD
         ctl.RowSource = ctl.RowSource &; ";" &; NewData 
+=======
+        ctl.RowSource = ctl.RowSource & ";" & NewData 
+>>>>>>> master
     Else 
     ' If user chooses Cancel, suppress error message 
     ' and undo changes. 
@@ -108,7 +112,11 @@ Private Sub cboDept_NotInList(NewData As String, Response As Integer)
         oRS.AddNew
         oRS.Fields(1) = NewData
         For i = 2 To oRS.Fields.Count - 1
+<<<<<<< HEAD
             sMsg = "What do you want for " &; oRS(i).Name
+=======
+            sMsg = "What do you want for " & oRS(i).Name
+>>>>>>> master
             oRS(i).Value = InputBox(sMsg, , oRS(i).DefaultValue)
         Next i
         oRS.Update
@@ -132,14 +140,23 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
 
     On Error GoTo Error_Handler
     Dim intAnswer As Integer
+<<<<<<< HEAD
     intAnswer = MsgBox("""" &; NewData &; """ is not an approved category. " &; vbcrlf _
         &; "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
+=======
+    intAnswer = MsgBox("""" & NewData & """ is not an approved category. " & vbcrlf _
+        & "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
+>>>>>>> master
 
     Select Case intAnswer
         Case vbYes
             DoCmd.SetWarnings False
             DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) "
+<<<<<<< HEAD
                 &; _ "Select """ &; NewData &; """;"
+=======
+                & _ "Select """ & NewData & """;"
+>>>>>>> master
             DoCmd.SetWarnings True
             Response = acDataErrAdded
         Case vbNo
@@ -154,7 +171,11 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
         Exit Sub
 
     Error_Handler:
+<<<<<<< HEAD
         MsgBox Err.Number &; ", " &; Error Description
+=======
+        MsgBox Err.Number & ", " & Error Description
+>>>>>>> master
         Resume Exit_Procedure
         Resume
 

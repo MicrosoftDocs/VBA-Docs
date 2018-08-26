@@ -30,7 +30,11 @@ This example asks the user whether to set Microsoft Word to display the most rec
 
 ```vb
 x = MsgBox("Display most recently used words " _ 
+<<<<<<< HEAD
  &; "at the top of the suggestions list?", vbYesNo) 
+=======
+ & "at the top of the suggestions list?", vbYesNo) 
+>>>>>>> master
 If x = vbYes Then 
  Options.EnableHangulHanjaRecentOrdering = True 
 Else 

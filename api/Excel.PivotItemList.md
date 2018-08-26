@@ -32,7 +32,11 @@ Once a  **PivotItemList** collection is returned, you can use the **[Item](Excel
 Sub CheckPivotItemList() 
  
  ' Identify contents associated with PivotItemList. 
+<<<<<<< HEAD
  MsgBox "Contents associated with cell B5: " &; _ 
+=======
+ MsgBox "Contents associated with cell B5: " & _ 
+>>>>>>> master
  Application.Range("B5").PivotCell.RowItems.Item(1) 
  
 End Sub

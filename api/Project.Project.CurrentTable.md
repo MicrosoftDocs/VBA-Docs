@@ -30,9 +30,15 @@ Sub ViewDetails()
  
     Dim Temp As String 
      
+<<<<<<< HEAD
     Temp = "View: " &; ActiveProject.CurrentView &; vbCrLf 
     Temp = Temp &; "Table:" &; ActiveProject.CurrentTable &; vbCrLf 
     Temp = Temp &; "Filter: " &; ActiveProject.CurrentFilter 
+=======
+    Temp = "View: " & ActiveProject.CurrentView & vbCrLf 
+    Temp = Temp & "Table:" & ActiveProject.CurrentTable & vbCrLf 
+    Temp = Temp & "Filter: " & ActiveProject.CurrentFilter 
+>>>>>>> master
     MsgBox Temp 
 End Sub
 ```

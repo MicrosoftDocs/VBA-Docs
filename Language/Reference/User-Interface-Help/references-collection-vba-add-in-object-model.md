@@ -13,7 +13,14 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Represents the set of references in the [project](../../Glossary/vbe-glossary.md).
  **Remarks**
+=======
+Represents the set of references in the [project](../../Glossary/vbe-glossary.md#project).
+
+## Remarks
+
+>>>>>>> master
 Use the  **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **References** dialog box.
 

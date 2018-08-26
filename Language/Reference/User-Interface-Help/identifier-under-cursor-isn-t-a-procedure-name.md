@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Identifier under cursor isn't a procedure name
 
+<<<<<<< HEAD
 You tried to view a [procedure](../../Glossary/vbe-glossary.md), but the [identifier](../../Glossary/vbe-glossary.md) at the insertion point was not a procedure name. This error has the following cause and solution:
+=======
+You tried to view a [procedure](../../Glossary/vbe-glossary.md#procedure), but the [identifier](../../Glossary/vbe-glossary.md#identifier) at the insertion point was not a procedure name. This error has the following cause and solution:
+>>>>>>> master
 
 
 

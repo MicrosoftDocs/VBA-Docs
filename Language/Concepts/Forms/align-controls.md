@@ -16,7 +16,11 @@ ms.date: 06/08/2017
 
 1. Select the controls to align.
     
+<<<<<<< HEAD
 2. Select the [dominant control](../../Glossary/glossary-vba.md).
+=======
+2. Select the [dominant control](../../Glossary/glossary-vba.md#dominant-control).
+>>>>>>> master
     
 3. From the  **Format** menu, choose **Align**.
     

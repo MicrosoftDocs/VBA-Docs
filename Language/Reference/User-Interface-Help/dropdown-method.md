@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Displays the list portion of a  **ComboBox**.
+<<<<<<< HEAD
  **Syntax**
  _object_. **DropDown**
+=======
+
+## Syntax
+
+_object_. **DropDown**
+>>>>>>> master
 The  **DropDown** method syntax has these parts:
 
 
@@ -25,6 +32,11 @@ The  **DropDown** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 Use the  **DropDown** method to open the list in a combo box.
 

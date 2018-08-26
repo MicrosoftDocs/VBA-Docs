@@ -16,10 +16,21 @@ ms.date: 06/08/2017
 
 
 Returns the full path name of the project file or host document.
+<<<<<<< HEAD
  **Syntax**
  _object_**.Filename**
 The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
+=======
+
+## Syntax
+
+_object_**.Filename**
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+
+## Remarks
+
+>>>>>>> master
 Projects have no name other than the file name.
 The path name returned is always provided as an absolute path (for example, "c:\projects\myproject.vba"), even if it is shown as a relative path (such as "..\projects\myproject.vba").
 

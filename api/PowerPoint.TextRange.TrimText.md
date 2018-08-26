@@ -37,8 +37,13 @@ This example inserts the string " Text to trim " at the beginning of the text in
 With Application.ActivePresentation.Slides(1).Shapes(2) _
         .TextFrame.TextRange
     With .InsertBefore("   Text to trim   ")
+<<<<<<< HEAD
         MsgBox "Untrimmed: " &; """" &; .Text &; """"
         MsgBox "Trimmed: " &; """" &; .TrimText.Text &; """"
+=======
+        MsgBox "Untrimmed: " & """" & .Text & """"
+        MsgBox "Trimmed: " & """" & .TrimText.Text & """"
+>>>>>>> master
     End With
 End With
 ```

@@ -60,8 +60,13 @@ This example opens the Excel workbook Book1.xls and retrieves the contents of ce
 Dim lngChannel As Long 
  
 lngChannel = DDEInitiate(App:="Excel", Topic:="System") 
+<<<<<<< HEAD
 DDEExecute Channel:=lngChannel, Command:="[OPEN(" &; Chr(34) _ 
  &; "C:\Documents\Book1.xls" &; Chr(34) &; ")]" 
+=======
+DDEExecute Channel:=lngChannel, Command:="[OPEN(" & Chr(34) _ 
+ & "C:\Documents\Book1.xls" & Chr(34) & ")]" 
+>>>>>>> master
 DDETerminate Channel:=lngChannel 
 lngChannel = DDEInitiate(App:="Excel", Topic:="Book1.xls") 
 MsgBox DDERequest(Channel:=lngChannel, Item:="R1C1") 

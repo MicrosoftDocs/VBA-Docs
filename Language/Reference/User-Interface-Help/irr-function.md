@@ -13,18 +13,35 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a [Double](../../Glossary/vbe-glossary.md) specifying the internal rate of return for a series of periodic cash flows (payments and receipts).
  **Syntax**
  **IRR( _values_ ()** [, **_guess_** ] **)**
 The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the internal rate of return for a series of periodic cash flows (payments and receipts).
+
+## Syntax
+
+**IRR( _values_ ()** [, **_guess_** ] **)**
+The  **IRR** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 |**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
 
  **Remarks**
+=======
+|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
+|**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
+
+## Remarks
+
+>>>>>>> master
 The internal rate of return is the interest rate received for an investment consisting of payments and receipts that occur at regular intervals.
 The  **IRR** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence. The cash flow for each period doesn't have to be fixed, as it is for an annuity.
  **IRR** is calculated by iteration. Starting with the value of **_guess_**, **IRR** cycles through the calculation until the result is accurate to within 0.00001 percent. If **IRR** can't find a result after 20 tries, it fails.
@@ -45,7 +62,11 @@ Values(1) = 22000 : Values(2) = 25000
 Values(3) = 28000 : Values(4) = 31000
 RetRate = IRR(Values(), Guess) * 100    ' Calculate internal rate.
 Msg = "The internal rate of return for these five cash flows is "
+<<<<<<< HEAD
 Msg = Msg &; Format(RetRate, Fmt) &; " percent."
+=======
+Msg = Msg & Format(RetRate, Fmt) & " percent."
+>>>>>>> master
 MsgBox Msg    ' Display internal return rate.
 
 

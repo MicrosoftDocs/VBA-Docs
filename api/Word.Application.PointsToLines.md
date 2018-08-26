@@ -43,7 +43,11 @@ This example converts the line spacing value of the first paragraph in the selec
 
 ```vb
 MsgBox PointsToLines(Selection.Paragraphs(1).LineSpacing) _ 
+<<<<<<< HEAD
  &; " lines"
+=======
+ & " lines"
+>>>>>>> master
 ```
 
 This example converts the value of the variable  `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).

@@ -67,7 +67,11 @@ Sub RemoveRec()
  
  objDstList.Display 
  
+<<<<<<< HEAD
  objDstList.Body = "Last Modified: " &; Now 
+=======
+ objDstList.Body = "Last Modified: " & Now 
+>>>>>>> master
  
 End Sub
 ```

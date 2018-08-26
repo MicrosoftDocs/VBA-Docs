@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # ActiveX control 'item' not found (Error 363)
 
+<<<<<<< HEAD
 The form being loaded contains an [ActiveX control](../../Glossary/vbe-glossary.md) that isn't part of the current[project](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
+=======
+The form being loaded contains an [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) that isn't part of the current[project](../../Glossary/vbe-glossary.md#project). This error has the following causes and solutions:
+>>>>>>> master
 
 
 

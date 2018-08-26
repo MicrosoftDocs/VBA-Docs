@@ -42,7 +42,11 @@ Setting the  **StencilPaths** property replaces existing values for **Stencils**
 
 
 ```vb
+<<<<<<< HEAD
 Application.StencilPaths = Application.StencilPaths &; ";" &; "newpath ".
+=======
+Application.StencilPaths = Application.StencilPaths & ";" & "newpath ".
+>>>>>>> master
 ```
 
 
@@ -67,7 +71,11 @@ Public Sub ShowStencilPaths_Example()
     strStencilPath = Application.StencilPaths  
     strTitle = "StencilPaths"  
     strMessage = "The current content of the Visio Stencils box is:"  
+<<<<<<< HEAD
     strMessage = strMessage &; vbCrLf &; strStencilPath  
+=======
+    strMessage = strMessage & vbCrLf & strStencilPath  
+>>>>>>> master
     MsgBox strMessage, vbInformation + vbOKOnly, strTitle  
     strMessage = "Type in an additional path for Visio to look for stencils. "  
     strNewPath = InputBox$(strMessage, strTitle)  
@@ -80,12 +88,21 @@ Public Sub ShowStencilPaths_Example()
         ElseIf InStr(strStencilPath, strNewPath)  Then 
             strMessage = "The path you specified is already in the stencil paths."  
         ElseIf Len(Dir$(strNewPath, vbDirectory)) = 0 And _  
+<<<<<<< HEAD
                 Len(Dir$(Application.Path &; strNewPath, _  
                 vbDirectory)) = 0 Then 
             strMessage = "The folder you typed does not exist (or is blank)."  
         Else 
             Application.StencilPaths = strStencilPath &; ";" &; strNewPath  
             strMessage = "We just added " &; strNewPath &; _  
+=======
+                Len(Dir$(Application.Path & strNewPath, _  
+                vbDirectory)) = 0 Then 
+            strMessage = "The folder you typed does not exist (or is blank)."  
+        Else 
+            Application.StencilPaths = strStencilPath & ";" & strNewPath  
+            strMessage = "We just added " & strNewPath & _  
+>>>>>>> master
                 " to the stencil paths."  
         End If 
    

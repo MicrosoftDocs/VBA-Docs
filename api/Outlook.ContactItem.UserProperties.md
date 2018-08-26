@@ -61,7 +61,11 @@ Sub FindContact()
  
  If TypeName(objProperty) <> "Nothing" Then 
  
+<<<<<<< HEAD
  MsgBox "Last Date Contacted: " &; objProperty.Value 
+=======
+ MsgBox "Last Date Contacted: " & objProperty.Value 
+>>>>>>> master
  
  End If 
  

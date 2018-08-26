@@ -35,8 +35,13 @@ This example displays the name and path of the template attached to the active d
 
 ```vb
 Set myTemplate = ActiveDocument.AttachedTemplate 
+<<<<<<< HEAD
 MsgBox myTemplate.Path &; Application.PathSeparator _ 
  &; myTemplate.Name
+=======
+MsgBox myTemplate.Path & Application.PathSeparator _ 
+ & myTemplate.Name
+>>>>>>> master
 ```
 
 This example inserts the contents of the Spike (a built-in AutoText entry) at the beginning of document one.

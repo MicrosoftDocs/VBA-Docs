@@ -129,7 +129,11 @@ ErrRoutine:
  
  Select Case Err.Number 
  
+<<<<<<< HEAD
  Case 287 ' &;H0000011F 
+=======
+ Case 287 ' &H0000011F 
+>>>>>>> master
  
  ' The user denied access to the Address Book. 
  
@@ -143,9 +147,15 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
+<<<<<<< HEAD
  Err.Number &; " - " &; Err.Source 
  
  Case -2147467259 ' &;H80004005 
+=======
+ Err.Number & " - " & Err.Source 
+ 
+ Case -2147467259 ' &H80004005 
+>>>>>>> master
  
  ' Export failed. 
  
@@ -159,9 +169,15 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
+<<<<<<< HEAD
  Err.Number &; " - " &; Err.Source 
  
  Case -2147221233 ' &;H8004010F 
+=======
+ Err.Number & " - " & Err.Source 
+ 
+ Case -2147221233 ' &H8004010F 
+>>>>>>> master
  
  ' Operation failed. 
  
@@ -173,7 +189,11 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
+<<<<<<< HEAD
  Err.Number &; " - " &; Err.Source 
+=======
+ Err.Number & " - " & Err.Source 
+>>>>>>> master
  
  Case Else 
  
@@ -183,7 +203,11 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
+<<<<<<< HEAD
  Err.Number &; " - " &; Err.Source 
+=======
+ Err.Number & " - " & Err.Source 
+>>>>>>> master
  
  End Select 
  

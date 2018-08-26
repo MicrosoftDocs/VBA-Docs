@@ -300,6 +300,14 @@ A window that is attached to the frame of the main window.
 Any self-contained work created with an application and given a unique file name.
 
 
+<<<<<<< HEAD
+=======
+## document design mode
+
+A design mode toggled by the host application typically via a button on the developer ribbon where mouse interactions with controls embeded in a document adjusts its placement, size and proporties instead of activating its actions.
+
+
+>>>>>>> master
 ## Double data type
 
 A data type that holds double-precision floating-point numbers as 64-bit numbers in the range -1.79769313486231E308 to -4.94065645841247E-324 for negative values; 4.94065645841247E-324 to 1.79769313486232E308 for positive values. The number sign (**#**) type-declaration character represents the **Double** in Visual Basic.

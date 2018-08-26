@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Using Arrays
 
+<<<<<<< HEAD
 You can declare an [array](../../Glossary/vbe-glossary.md) to work with a set of values of the same [data type](../../Glossary/vbe-glossary.md). An array is a single [variable](../../Glossary/vbe-glossary.md) with many compartments to store values, while a typical variable has only one storage compartment in which it can store only one value. Refer to the array as a whole when you want to refer to all the values it holds, or you can refer to its individual elements.
+=======
+You can declare an [array](../../Glossary/vbe-glossary.md#array) to work with a set of values of the same [data type](../../Glossary/vbe-glossary.md#data-type). An array is a single [variable](../../Glossary/vbe-glossary.md#variable) with many compartments to store values, while a typical variable has only one storage compartment in which it can store only one value. Refer to the array as a whole when you want to refer to all the values it holds, or you can refer to its individual elements.
+>>>>>>> master
 
 For example, to store daily expenses for each day of the year, you can declare one array variable with 365 elements, rather than declaring 365 variables. Each element in an array contains one value. The following statement declares the array variable with 365 elements. By default, an array is indexed beginning with zero, so the upper bound of the array is 364 rather than 365.
 
@@ -39,7 +43,11 @@ End Sub
 
 ## Changing the Lower Bound
 
+<<<<<<< HEAD
 You can use the  **Option Base** statement at the top of a [module](../../Glossary/vbe-glossary.md) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **Dim** statement declares the array variable with 365 elements.
+=======
+You can use the  **Option Base** statement at the top of a [module](../../Glossary/vbe-glossary.md#module) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **Dim** statement declares the array variable with 365 elements.
+>>>>>>> master
 
 
 ```vb
@@ -62,7 +70,11 @@ Dim strWeekday(7 To 13) As String
 
 ## Storing Variant Values in Arrays
 
+<<<<<<< HEAD
 There are two ways to create arrays of  **Variant** values. One way is to declare an array of [Variant data type](../../Glossary/vbe-glossary.md), as shown in the following example:
+=======
+There are two ways to create arrays of  **Variant** values. One way is to declare an array of [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type), as shown in the following example:
+>>>>>>> master
 
 
 ```vb
@@ -92,7 +104,11 @@ You identify the elements in an array of  **Variant** values by index, no matter
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "Data for " &; varData(0) &; " has been recorded." 
+=======
+MsgBox "Data for " & varData(0) & " has been recorded." 
+>>>>>>> master
 
 ```
 

@@ -27,7 +27,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 ```vb
 Private Sub TextBox1_KeyPress(ByVal KeyAscii As _ 
  MSForms.ReturnInteger) 
+<<<<<<< HEAD
  TextBox2.Text = TextBox2.Text &; Chr(KeyAscii) 
+=======
+ TextBox2.Text = TextBox2.Text & Chr(KeyAscii) 
+>>>>>>> master
  
  'To handle keyboard combinations (using SHIFT, 
  'CONTROL, OPTION, COMMAND, and another key), 

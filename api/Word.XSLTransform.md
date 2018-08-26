@@ -47,7 +47,11 @@ Sub DeleteTransform()
  .XSLTransforms.Item(1) 
  
  intResponse = MsgBox("Are you sure you want to delete the " _ 
+<<<<<<< HEAD
  &; objXSLT.Alias &; " XSLT?", vbYesNo) 
+=======
+ & objXSLT.Alias & " XSLT?", vbYesNo) 
+>>>>>>> master
  
  If intResponse = vbYes Then objXSLT.Delete 
  

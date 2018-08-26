@@ -30,7 +30,11 @@ This example displays the built-in caption label names and ID values.
 
 ```vb
 For Each cl In CaptionLabels 
+<<<<<<< HEAD
  If cl.BuiltIn = True Then MsgBox cl.Name &; " " &; cl.ID 
+=======
+ If cl.BuiltIn = True Then MsgBox cl.Name & " " & cl.ID 
+>>>>>>> master
 Next cl
 ```
 

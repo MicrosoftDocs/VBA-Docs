@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Margin Indicators
 
+<<<<<<< HEAD
 Visual Basic contains [margin indicators](../../Glossary/vbe-glossary.md) that provide visual cues to certain actions during the editing of your code. If more than one action occurs on a line, the appropriate indicators also appear.
+=======
+Visual Basic contains [margin indicators](../../Glossary/vbe-glossary.md#margin-indicator) that provide visual cues to certain actions during the editing of your code. If more than one action occurs on a line, the appropriate indicators also appear.
+>>>>>>> master
 
 The margin indicators appear in the Margin Indicator bar on left side of the  **Code** window.
 
@@ -36,5 +40,9 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 |
 ![Call stack marker](../../../images/wcallst_ZA01201809.gif)
 
+<<<<<<< HEAD
 |Call Stack Marker|Indicates lines that are currently in the call stack. The Call Stack Marker indicator appears only in [break mode](../../Glossary/vbe-glossary.md).|
+=======
+|Call Stack Marker|Indicates lines that are currently in the call stack. The Call Stack Marker indicator appears only in [break mode](../../Glossary/vbe-glossary.md#break-mode).|
+>>>>>>> master
 

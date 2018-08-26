@@ -51,7 +51,11 @@ Sub TestFormula()
  
  Set uprs = tki.UserProperties 
  
+<<<<<<< HEAD
  Set upr = uprs.Add("Total&;ActualWork", olFormula) 
+=======
+ Set upr = uprs.Add("Total&ActualWork", olFormula) 
+>>>>>>> master
  
  upr.Formula = "[Total Work] + [Actual Work]" 
  
@@ -59,7 +63,11 @@ Sub TestFormula()
  
  tki.Display 
  
+<<<<<<< HEAD
  MsgBox "The Work Hours are: " &; upr.Value / 60 
+=======
+ MsgBox "The Work Hours are: " & upr.Value / 60 
+>>>>>>> master
  
 End Sub
 ```

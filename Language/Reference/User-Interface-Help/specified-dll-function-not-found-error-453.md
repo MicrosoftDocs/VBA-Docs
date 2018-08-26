@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Specified DLL function not found (Error 453)
 
+<<<<<<< HEAD
 The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) in a user library reference was found, but the DLL function specified wasn't found within the DLL. This error has the following causes and solutions:
+=======
+The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) in a user library reference was found, but the DLL function specified wasn't found within the DLL. This error has the following causes and solutions:
+>>>>>>> master
 
 
 
@@ -21,7 +25,11 @@ The [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) in a user libra
     
 - If you are working on a 32-bit Microsoft Windows platform, both the DLL name and alias (if used) must be correct. Make sure the DLL name and alias are correct.
     
+<<<<<<< HEAD
 - Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](../../Glossary/vbe-glossary.md) and[ANSI](../../Glossary/vbe-glossary.md) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
+=======
+- Some 32-bit DLLs contain functions with slightly different versions to accommodate both [Unicode](../../Glossary/vbe-glossary.md#unicode) and [ANSI](../../Glossary/vbe-glossary.md#ansi-character-set) strings. An "A" at the end of the function name specifies the ANSI version. A "W" at the end of the function name specifies the Unicode version.
+>>>>>>> master
     
     If the function takes string-type arguments, try appending an "A" to the function name.
     

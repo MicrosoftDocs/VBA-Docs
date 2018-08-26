@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Do you want to export specified object before removing it?
 
+<<<<<<< HEAD
 You can export forms and [modules](../../Glossary/vbe-glossary.md), and reload them at another time. This error has the following cause and solution:
 
 
 
 - You are removing a form or module from the [project](../../Glossary/vbe-glossary.md).
+=======
+You can export forms and [modules](../../Glossary/vbe-glossary.md#module), and reload them at another time. This error has the following cause and solution:
+
+
+
+- You are removing a form or module from the [project](../../Glossary/vbe-glossary.md#project).
+>>>>>>> master
     
     To preserve the module, export it. You can then import it at a future time.
     

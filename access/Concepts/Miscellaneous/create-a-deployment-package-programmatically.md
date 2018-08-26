@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Create a Deployment Package Programmatically
+=======
+title: Create a deployment package programmatically
+>>>>>>> master
 ms.prod: access
 ms.assetid: 4eb23608-e976-49a8-3f0e-f3537b948bfd
 ROBOTS: INDEX
@@ -7,13 +11,18 @@ ms.date: 06/08/2017
 ---
 
 
+<<<<<<< HEAD
 # Create a Deployment Package Programmatically
+=======
+# Create a deployment package programmatically
+>>>>>>> master
 
 The **CreateInstallPackage** method enables you to create a deployment package programmatically.
 
 
 ## Syntax
 
+<<<<<<< HEAD
  _expression_. **CreateInstallPackage**(**_WizardSettingsFile_**)
 
  _expression_ A variable that represents an **AccessDeveloperExtensions** object.
@@ -21,6 +30,15 @@ The **CreateInstallPackage** method enables you to create a deployment package p
 The following table describes the arguments of the **CreateInstallPackage** method.
 
 
+=======
+_expression_. **CreateInstallPackage**(**_WizardSettingsFile_**)
+
+_expression_ A variable that represents an **AccessDeveloperExtensions** object.
+
+The following table describes the arguments of the **CreateInstallPackage** method.
+
+<br/>
+>>>>>>> master
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -32,9 +50,12 @@ You must instantiate the **AccessDeveloperExtensions** object before you call th
 
 The following code illustrates how to instantiate the **AccessDeveloperExtensions** object through the **COMAddins** collection.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> master
 ```vb
 Set objADE = Application.COMAddIns("AccessAddIn.ADE").Object 
 
@@ -42,9 +63,12 @@ Set objADE = Application.COMAddIns("AccessAddIn.ADE").Object
 
 The following code illustrates how to instantiate the **AccessDeveloperExtensions** object by using the **CreateObject** method.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> master
 ```vb
 Set objADE = CreateObject("AccessAddIn.ADE") 
 
@@ -52,9 +76,12 @@ Set objADE = CreateObject("AccessAddIn.ADE")
 
 The following example wraps the steps necessary to call the **CreateInstallPackage** method in a subroutine named **CreatePackage**. To use this example, pass the path and file name of the wizard template file to the subroutine. A deployment package will be created.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> master
 ```vb
 Sub CreatePackage(strSettingsPath As String) 
      
@@ -72,7 +99,10 @@ End Sub
 
 To use this example, you must set a reference to the Access Developer Extensions type library. To do this, follow these steps:
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 1. On the **Tools** menu, click **References**.
     
 2. Select the **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.

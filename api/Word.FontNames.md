@@ -19,7 +19,11 @@ Use the  **FontNames** , **LandscapeFontNames** , or **PortraitFontNames** prope
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox PortraitFontNames.Count &; " fonts available"
+=======
+MsgBox PortraitFontNames.Count & " fonts available"
+>>>>>>> master
 ```
 
 This example lists all the font names in the  **FontNames** object at the end of the active document.
@@ -29,7 +33,11 @@ This example lists all the font names in the  **FontNames** object at the end of
 
 ```vb
 For Each aFont In FontNames 
+<<<<<<< HEAD
  ActiveDocument.Range.InsertAfter aFont &; vbCr 
+=======
+ ActiveDocument.Range.InsertAfter aFont & vbCr 
+>>>>>>> master
 Next aFont
 ```
 

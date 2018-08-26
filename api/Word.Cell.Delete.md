@@ -40,7 +40,11 @@ This example deletes the first cell in the first table of the active document.
 Sub DeleteCells() 
  Dim intResponse As Integer 
  
+<<<<<<< HEAD
  intResponse = MsgBox("Are you sure you want " &; _ 
+=======
+ intResponse = MsgBox("Are you sure you want " & _ 
+>>>>>>> master
  "to delete the cells?", vbYesNo) 
  
  If intResponse = vbYes Then 

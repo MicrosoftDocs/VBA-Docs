@@ -16,8 +16,18 @@ ms.date: 06/08/2017
 
 
 Returns a collection of add-ins registered for VBA.
+<<<<<<< HEAD
  **Syntax**
  _object_**.AddIns**
  **Remarks**
+=======
+
+## Syntax
+
+_object_**.AddIns**
+
+## Remarks
+
+>>>>>>> master
 The  **AddIns** collection is accessed through the **VBE** object. Every add-in listed in the Add-In Manager in VBE.has an object in the **AddIns** collection.
 

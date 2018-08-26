@@ -43,7 +43,11 @@ This example displays a message when a user clicks either the  **Add Electronic 
 
 ```vb
 Private Sub AppWord_EPostagePropertyDialog(ByVal Doc As Document) 
+<<<<<<< HEAD
  MsgBox "You have clicked a button to " &; _ 
+=======
+ MsgBox "You have clicked a button to " & _ 
+>>>>>>> master
  "display the ePostage property dialog box." 
 End Sub
 ```

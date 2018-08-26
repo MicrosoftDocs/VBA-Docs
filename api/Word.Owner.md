@@ -32,8 +32,13 @@ The following code example displays the name of the owner of each lock in the ac
 Dim myLock As CoAuthLock 
  
 For Each myLock In ActiveDocument.CoAuthoring.Locks 
+<<<<<<< HEAD
     MsgBox "The owner of this lock is " &; _ 
     myLock.Owner.Name &; "." 
+=======
+    MsgBox "The owner of this lock is " & _ 
+    myLock.Owner.Name & "." 
+>>>>>>> master
 Next myLock
 ```
 

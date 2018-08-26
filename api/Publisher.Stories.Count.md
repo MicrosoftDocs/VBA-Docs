@@ -30,8 +30,13 @@ This example displays the number of pages in the active document.
 
 ```vb
 Sub CountNumberOfPages() 
+<<<<<<< HEAD
  MsgBox "Your publication contains " &; _ 
  ActiveDocument.Pages.Count &; " page(s)." 
+=======
+ MsgBox "Your publication contains " & _ 
+ ActiveDocument.Pages.Count & " page(s)." 
+>>>>>>> master
 End Sub
 ```
 
@@ -49,7 +54,11 @@ Sub CountNumberOfShapes()
  intShapes = intShapes + pg.Shapes.Count 
  Next 
  
+<<<<<<< HEAD
  MsgBox "Your publication contains " &; intShapes &; " shape(s)." 
+=======
+ MsgBox "Your publication contains " & intShapes & " shape(s)." 
+>>>>>>> master
 End Sub
 ```
 

@@ -14,14 +14,26 @@ ms.date: 06/08/2017
 
 
 Runs an executable program and returns a  **Variant** (**Double**) representing the program's task ID if successful, otherwise it returns zero.
+<<<<<<< HEAD
  **Syntax**
  **Shell( _pathname_** [ **, _windowstyle_** ] **)**
 The  **Shell** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+
+## Syntax
+
+**Shell( _pathname_** [ **, _windowstyle_** ] **)**
+The  **Shell** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 |**_pathname_**|Required;  **Variant** (**String**). Name of the program to execute and any required[arguments](../../Glossary/vbe-glossary.md) or[command-line](../../Glossary/vbe-glossary.md) switches; may include directory or folder and drive. On the Macintosh, you can use the **MacID** function to specify an application's signature instead of its name. The following example uses the signature for Microsoft Word: `Shell MacID("MSWD")`|
+=======
+|**_pathname_**|Required;  **Variant** (**String**). Name of the program to execute and any required[arguments](../../Glossary/vbe-glossary.md#argument) or[command-line](../../Glossary/vbe-glossary.md#command-line) switches; may include directory or folder and drive. On the Macintosh, you can use the **MacID** function to specify an application's signature instead of its name. The following example uses the signature for Microsoft Word: `Shell MacID("MSWD")`|
+>>>>>>> master
 |**_windowstyle_**|Optional.  **Variant** (**Integer**) corresponding to the style of the window in which the program is to be run. If **_windowstyle_** is omitted, the program is started minimized with focus. On the Macintosh (System 7.0 or later), **_windowstyle_** only determines whether or not the application gets the focus when it is run.|
 
 The  **_windowstyle_** named argument has these values:
@@ -36,7 +48,12 @@ The  **_windowstyle_** named argument has these values:
 |**vbNormalNoFocus**|4|Window is restored to its most recent size and position. The currently active window remains active.|
 |**vbMinimizedNoFocus**|6|Window is displayed as an icon. The currently active window remains active.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 If the  **Shell** function successfully executes the named file, it returns the task ID of the started program. The task ID is a unique number that identifies the running program. If the **Shell** function can't start the named program, an error occurs.
 On the Macintosh,  **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, **vbMinimizeFocus** all place the application in the background.
 

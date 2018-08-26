@@ -27,8 +27,13 @@ Sub GetSMTPAddressForRecipients(mail As Outlook.MailItem)
     Set recips = mail.Recipients 
     For Each recip In recips 
         Set pa = recip.PropertyAccessor 
+<<<<<<< HEAD
         Debug.Print recip.name &; " SMTP=" _ 
            &; pa.GetProperty(PR_SMTP_ADDRESS) 
+=======
+        Debug.Print recip.name & " SMTP=" _ 
+           & pa.GetProperty(PR_SMTP_ADDRESS) 
+>>>>>>> master
     Next 
 End Sub
 ```

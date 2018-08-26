@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies whether the user can select a line of text by clicking in the region to the left of the text.
+<<<<<<< HEAD
  **Syntax**
  _object_. **SelectionMargin** [= _Boolean_ ]
+=======
+
+## Syntax
+
+_object_. **SelectionMargin** [= _Boolean_ ]
+>>>>>>> master
 The  **SelectionMargin** property syntax has these parts:
 
 
@@ -35,7 +42,12 @@ The settings for  _Boolean_ are:
 |**True**|Clicking in margin causes selection of text (default).|
 |**False**|Clicking in margin does not cause selection of text.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 When the  **SelectionMargin** property is **True**, the selection margin occupies a thin strip along the left edge of a control's edit region. When set to **False**, the entire edit region can store text.
 If the  **SelectionMargin** property is set to **True** when a control is printed, the selection margin also prints.
 

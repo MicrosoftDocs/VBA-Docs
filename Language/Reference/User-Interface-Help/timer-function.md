@@ -14,9 +14,19 @@ ms.date: 06/08/2017
 
 
 Returns a  **Single** representing the number of seconds elapsed since midnight.
+<<<<<<< HEAD
  **Syntax**
  **Timer**
  **Remarks**
+=======
+
+## Syntax
+
+**Timer**
+
+## Remarks
+
+>>>>>>> master
 In Microsoft Windows the  **Timer** function returns fractional portions of a second. On the Macintosh, timer resolution is one second.
 
 ## Example
@@ -34,7 +44,11 @@ If (MsgBox("Press Yes to pause for 5 seconds", 4)) = vbYes Then
     Loop
     Finish = Timer    ' Set end time.
     TotalTime = Finish - Start    ' Calculate total time.
+<<<<<<< HEAD
     MsgBox "Paused for " &; TotalTime &; " seconds"
+=======
+    MsgBox "Paused for " & TotalTime & " seconds"
+>>>>>>> master
 Else
     End
 End If

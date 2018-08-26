@@ -57,7 +57,11 @@ Sub BoldRtoL()
  If .BoldBi = msoTrue Then 
  MsgBox "This story is right-to-left and is bold." 
  Else 
+<<<<<<< HEAD
  MsgBox "This story is either not right-to-left" &; _ 
+=======
+ MsgBox "This story is either not right-to-left" & _ 
+>>>>>>> master
  " or it is not bold." 
  End If 
  End With 

@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Specifies how much to change the size of a displayed object.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Zoom** [= _Integer_ ]
+=======
+
+## Syntax
+
+_object_. **Zoom** [= _Integer_ ]
+>>>>>>> master
 The  **Zoom** property syntax has these parts:
 
 
@@ -26,6 +33,11 @@ The  **Zoom** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Integer_|Optional. The percentage to increase or decrease the displayed image.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The value of the  **Zoom** property specifies a percentage of image enlargement or reduction by which an image display should change. Values from 10 to 400 are valid. The value specified is a percentage of the object's original size; thus, a setting of 400 means you want to enlarge the image to four times its original size (or 400 percent), while a setting of 10 means you want to reduce the image to one-tenth of its original size (or 10 percent).
 

@@ -45,7 +45,11 @@ This example inserts 10 lines of text into a new document.
 ```vb
 Documents.Add 
 For i = 1 To 10 
+<<<<<<< HEAD
  Selection.Text = "Line" &; Str(i) &; Chr(13) 
+=======
+ Selection.Text = "Line" & Str(i) & Chr(13) 
+>>>>>>> master
  Selection.MoveDown Unit:=wdParagraph, Count:=1 
 Next i
 ```

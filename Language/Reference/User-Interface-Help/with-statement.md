@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # With Statement
 
+<<<<<<< HEAD
 Executes a series of [statements](../../Glossary/vbe-glossary.md) on a single object or a [user-defined type](../../Glossary/vbe-glossary.md).
 
  **Syntax**
 
  **With**_object_
+=======
+Executes a series of [statements](../../Glossary/vbe-glossary.md#statement) on a single object or a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+
+## Syntax
+
+**With**_object_
+>>>>>>> master
 [ _statements_ ]
 
  **End With**
@@ -27,8 +35,14 @@ The  **With** statement syntax has these parts:
 | _object_|Required. Name of an object or a user-defined type.|
 | _statements_|Optional. One or more statements to be executed on  _object_.|
 
+<<<<<<< HEAD
  **Remarks**
 The  **With** statement allows you to perform a series of statements on a specified object without requalifying the name of the object. For example, to change a number of different[properties](../../Glossary/vbe-glossary.md) on a single object, place the property assignment statements within the **With** control structure, referring to the object once instead of referring to it with each property assignment. The following example illustrates use of the **With** statement to assign values to several properties of the same object.
+=======
+## Remarks
+
+The  **With** statement allows you to perform a series of statements on a specified object without requalifying the name of the object. For example, to change a number of different[properties](../../Glossary/vbe-glossary.md#property) on a single object, place the property assignment statements within the **With** control structure, referring to the object once instead of referring to it with each property assignment. The following example illustrates use of the **With** statement to assign values to several properties of the same object.
+>>>>>>> master
 
 
 

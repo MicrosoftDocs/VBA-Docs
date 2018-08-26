@@ -17,10 +17,21 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the short name used by programs that require the earlier 8.3 naming convention.
+<<<<<<< HEAD
  **Syntax**
  _object_. **ShortName**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
+=======
+
+## Syntax
+
+_object_. **ShortName**
+The  _object_ is always a **File** or **Folder** object.
+
+## Remarks
+
+>>>>>>> master
 The following code illustrates the use of the  **ShortName** property with a **File** object:
 
 
@@ -30,9 +41,15 @@ Sub ShowShortName(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
+<<<<<<< HEAD
     s = "The short name for " &; "" &; UCase(f.Name)
     s = s &; "" &; vbCrLf
     s = s &; "is: " &; "" &; f.ShortName &; ""
+=======
+    s = "The short name for " & "" & UCase(f.Name)
+    s = s & "" & vbCrLf
+    s = s & "is: " & "" & f.ShortName & ""
+>>>>>>> master
     MsgBox s, 0, "Short Name Info"
 End Sub
 ```

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Method or data member not found (Error 461)
 
+<<<<<<< HEAD
 The [collection](../../Glossary/vbe-glossary.md), object, or [user-defined type](../../Glossary/vbe-glossary.md) doesn't contain the referenced[member](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
+=======
+The [collection](../../Glossary/vbe-glossary.md#collection), object, or [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) doesn't contain the referenced[member](../../Glossary/vbe-glossary.md#member). This error has the following causes and solutions:
+>>>>>>> master
 
 
 

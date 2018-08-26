@@ -82,7 +82,11 @@ Private mEventSink As clsEventSink
  
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
+<<<<<<< HEAD
 Private Const visEvtAdd% = &;H8000 
+=======
+Private Const visEvtAdd% = &H8000 
+>>>>>>> master
  
 Public Sub CreateMouseDownEventObject() 
  
@@ -135,9 +139,15 @@ Private Function IVisEventProc_VisEventProc( _
  Select Case nEventCode 
  Case visEvtCodeMouseDown 
  Set vsoMouseEvent = pSubjectObj 
+<<<<<<< HEAD
  strMessage = "ToString is: " &; vsoMouseEvent.ToString 
  Case Else 
  strMessage = "Other (" &; nEventCode &; ")" 
+=======
+ strMessage = "ToString is: " & vsoMouseEvent.ToString 
+ Case Else 
+ strMessage = "Other (" & nEventCode & ")" 
+>>>>>>> master
  End Select 
  
  'Display the event name and the event code 

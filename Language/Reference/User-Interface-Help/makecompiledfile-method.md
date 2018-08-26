@@ -16,7 +16,15 @@ ms.date: 06/08/2017
 
 
 Causes the current project to be written as a DLL. The DLL name is specified by the  **BuildFileName** property.
+<<<<<<< HEAD
  **Syntax**
  _object_. **MakeCompiledFile**
 The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
+=======
+
+## Syntax
+
+_object_. **MakeCompiledFile**
+The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+>>>>>>> master
 

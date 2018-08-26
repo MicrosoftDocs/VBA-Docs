@@ -13,18 +13,34 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns a [Long](../../Glossary/vbe-glossary.md) containing the largest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md).
  **Syntax**
  **UBound(**_arrayname_ [ **,**_dimension_ ] **)**
+=======
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the largest available subscript for the indicated dimension of an[array](../../Glossary/vbe-glossary.md#array).
+
+## Syntax
+
+**UBound(**_arrayname_ [ **,**_dimension_ ] **)**
+>>>>>>> master
 The  **UBound** function syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _arrayname_|Required. Name of the array [variable](../../Glossary/vbe-glossary.md); follows standard variable naming conventions.|
 | _dimension_|Optional;  **Variant** (**Long**). Whole number indicating which dimension's upper bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
 
  **Remarks**
+=======
+| _arrayname_|Required. Name of the array [variable](../../Glossary/vbe-glossary.md#variable); follows standard variable naming conventions.|
+| _dimension_|Optional;  **Variant** (**Long**). Whole number indicating which dimension's upper bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
+
+## Remarks
+
+>>>>>>> master
 The  **UBound** function is used with the **LBound** function to determine the size of an array. Use the **LBound** function to find the lower limit of an array dimension.
  **UBound** returns the following values for an array with these dimensions:
 

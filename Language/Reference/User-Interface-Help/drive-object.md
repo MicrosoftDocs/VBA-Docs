@@ -17,7 +17,13 @@ ms.date: 06/08/2017
 
  **Description**
 Provides access to the properties of a particular disk drive or network share.
+<<<<<<< HEAD
  **Remarks**
+=======
+
+## Remarks
+
+>>>>>>> master
 The following code illustrates the use of the  **Drive** object to access drive properties:
 
 
@@ -27,10 +33,17 @@ Sub ShowFreeSpace(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(drvPath))
+<<<<<<< HEAD
     s = "Drive " &; UCase(drvPath) &; " - " 
     s = s &; d.VolumeName  &; vbCrLf
     s = s &; "Free Space: " &; FormatNumber(d.FreeSpace/1024, 0) 
     s = s &; " Kbytes"
+=======
+    s = "Drive " & UCase(drvPath) & " - " 
+    s = s & d.VolumeName  & vbCrLf
+    s = s & "Free Space: " & FormatNumber(d.FreeSpace/1024, 0) 
+    s = s & " Kbytes"
+>>>>>>> master
     MsgBox s
 End Sub
 ```

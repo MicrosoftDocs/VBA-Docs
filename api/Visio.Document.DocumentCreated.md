@@ -90,7 +90,11 @@ Private Sub Document_ShapeAdded(ByVal vsoShape As Visio.IVShape)
  
  End If 
  
+<<<<<<< HEAD
  MsgBox "Number of squares: " &; intNumberOfSquares, vbInformation, _ 
+=======
+ MsgBox "Number of squares: " & intNumberOfSquares, vbInformation, _ 
+>>>>>>> master
  "Document Created Example" 
  
 End Sub

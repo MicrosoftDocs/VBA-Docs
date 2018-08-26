@@ -101,11 +101,19 @@ Sub AllDistinctX()
     ' that have at least one order. 
  
     Set rst = dbs.OpenRecordset("SELECT DISTINCTROW " _ 
+<<<<<<< HEAD
         &; "CompanyName FROM Customers " _ 
         &; "INNER JOIN Orders " _ 
         &; "ON Customers.CustomerID = " _ 
         &; "Orders.CustomerID " _ 
         &; "ORDER BY CompanyName;") 
+=======
+        & "CompanyName FROM Customers " _ 
+        & "INNER JOIN Orders " _ 
+        & "ON Customers.CustomerID = " _ 
+        & "Orders.CustomerID " _ 
+        & "ORDER BY CompanyName;") 
+>>>>>>> master
  
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -128,4 +136,8 @@ End Sub
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+<<<<<<< HEAD
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+=======
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+>>>>>>> master

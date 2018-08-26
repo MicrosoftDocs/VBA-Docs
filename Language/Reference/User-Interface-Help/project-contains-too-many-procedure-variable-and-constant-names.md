@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Project contains too many procedure, variable, and constant names
 
+<<<<<<< HEAD
 A project's [procedure](../../Glossary/vbe-glossary.md), [variable](../../Glossary/vbe-glossary.md), [constant](../../Glossary/vbe-glossary.md), and [parameter](../../Glossary/vbe-glossary.md) names are stored in a name table. This error has the following cause and solution:
 
 
 
 - The number of names in the project's name table exceeds 32,768. The name table may contain some temporary duplicates. You can compact the name table by saving the [project](../../Glossary/vbe-glossary.md) to a disk, and then closing it. If the problem persists after you reopen the project, reduce the number of names by reusing local variable names in multiple procedures, and then recompact the table by saving the project, closing it, and reopening it.
+=======
+A project's [procedure](../../Glossary/vbe-glossary.md#procedure), [variable](../../Glossary/vbe-glossary.md#variable), [constant](../../Glossary/vbe-glossary.md#constant), and [parameter](../../Glossary/vbe-glossary.md#parameter) names are stored in a name table. This error has the following cause and solution:
+
+
+
+- The number of names in the project's name table exceeds 32,768. The name table may contain some temporary duplicates. You can compact the name table by saving the [project](../../Glossary/vbe-glossary.md#project) to a disk, and then closing it. If the problem persists after you reopen the project, reduce the number of names by reusing local variable names in multiple procedures, and then recompact the table by saving the project, closing it, and reopening it.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

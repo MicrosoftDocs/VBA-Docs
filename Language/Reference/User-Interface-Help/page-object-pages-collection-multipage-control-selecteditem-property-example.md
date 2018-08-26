@@ -37,6 +37,7 @@ Private Sub UserForm_Initialize()
  For i = 0 To MultiPage1.Count - 1 
  'Use index (numeric or string) 
  MsgBox "MultiPage1.Pages(i).Caption = " _ 
+<<<<<<< HEAD
  &; MultiPage1.Pages(i).Caption 
  MsgBox "MultiPage1.Pages.Item(i).Caption = " _ 
  &; MultiPage1.Pages.Item(i).Caption 
@@ -49,22 +50,47 @@ Private Sub UserForm_Initialize()
  &; MultiPage1.Pages(PageName).Caption 
  MsgBox "MultiPage1.Pages.Item(PageName)" _ 
  &; ".Caption = " &; MultiPage1.Pages _ 
+=======
+ & MultiPage1.Pages(i).Caption 
+ MsgBox "MultiPage1.Pages.Item(i).Caption = " _ 
+ & MultiPage1.Pages.Item(i).Caption 
+ 
+ PageName = MultiPage1.Pages(i).Name 
+ MsgBox "PageName = " & PageName 
+ 
+ MsgBox "MultiPage1.Pages(PageName)" _ 
+ & ".Caption = "_ 
+ & MultiPage1.Pages(PageName).Caption 
+ MsgBox "MultiPage1.Pages.Item(PageName)" _ 
+ & ".Caption = " & MultiPage1.Pages _ 
+>>>>>>> master
  .Item(PageName).Caption 
  
  'Use Page object without referring to 
  'Pages collection 
  If i = 0 Then 
  MsgBox "MultiPage1.Page1.Caption= " _ 
+<<<<<<< HEAD
  &; MultiPage1.Page1.Caption 
  ElseIf i = 1 Then 
  MsgBox "MultiPage1.Page2.Caption = " _ 
  &; MultiPage1.Page2.Caption 
+=======
+ & MultiPage1.Page1.Caption 
+ ElseIf i = 1 Then 
+ MsgBox "MultiPage1.Page2.Caption = " _ 
+ & MultiPage1.Page2.Caption 
+>>>>>>> master
  End If 
  
  'Use SelectedItem Property 
  MultiPage1.Value = i 
  MsgBox "MultiPage1.SelectedItem.Caption = " _ 
+<<<<<<< HEAD
  &; MultiPage1.SelectedItem.Caption 
+=======
+ & MultiPage1.SelectedItem.Caption 
+>>>>>>> master
  Next i 
 End Sub
 ```

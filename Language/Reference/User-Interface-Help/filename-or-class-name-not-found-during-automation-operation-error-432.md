@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Filename or class name not found during Automation operation (Error 432)
 
+<<<<<<< HEAD
 The  **GetObject** function requires either a valid file name with a path specification, or the name of a[class](../../Glossary/vbe-glossary.md) that is registered with the system. This error has the following cause and solution:
+=======
+The  **GetObject** function requires either a valid file name with a path specification, or the name of a[class](../../Glossary/vbe-glossary.md#class) that is registered with the system. This error has the following cause and solution:
+>>>>>>> master
 
 
 

@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Removes a row from the list in a list box or combo box.
+<<<<<<< HEAD
  **Syntax**
  _Boolean_ = _object_. **RemoveItem**_index_
+=======
+
+## Syntax
+
+_Boolean_ = _object_. **RemoveItem**_index_
+>>>>>>> master
 The  **RemoveItem** method syntax has these parts:
 
 
@@ -26,5 +33,9 @@ The  **RemoveItem** method syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. Specifies the row to delete. The number of the first row is 0; the number of the second row is 1, and so on.|
 
+<<<<<<< HEAD
 This method will not remove a row from the list if the  **ListBox** is data[bound](../../../language/Glossary/glossary-vba.md) (that is, when the **RowSource** property specifies a[data source](../../../language/Glossary/glossary-vba.md) for the **ListBox**).
+=======
+This method will not remove a row from the list if the  **ListBox** is data[bound](../../Glossary/glossary-vba.md#bound) (that is, when the **RowSource** property specifies a[data source](../../Glossary/glossary-vba.md#data-source) for the **ListBox**).
+>>>>>>> master
 

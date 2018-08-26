@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Invalid ParamArray use
 
+<<<<<<< HEAD
 The [parameter](../../Glossary/vbe-glossary.md) defined as **ParamArray** is used incorrectly in the[procedure](../../Glossary/vbe-glossary.md). This error has the following causes and solutions:
 
 
 
 - You attempted to pass  **ParamArray** as an[argument](../../Glossary/vbe-glossary.md) to another procedure that expects an[array](../../Glossary/vbe-glossary.md) or a **ByRef Variant**.
+=======
+The [parameter](../../Glossary/vbe-glossary.md#parameter) defined as **ParamArray** is used incorrectly in the[procedure](../../Glossary/vbe-glossary.md#procedure). This error has the following causes and solutions:
+
+
+
+- You attempted to pass  **ParamArray** as an[argument](../../Glossary/vbe-glossary.md#argument) to another procedure that expects an[array](../../Glossary/vbe-glossary.md#array) or a **ByRef Variant**.
+>>>>>>> master
     
     Assign the  **ParamArray** parameter to a **Variant**, and then pass the variant.
     

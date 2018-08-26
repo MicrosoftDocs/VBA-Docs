@@ -31,7 +31,11 @@ This example displays the field code of the second-to-last field in the active d
 ```vb
 Set aField = ActiveDocument _ 
  .Fields(ActiveDocument.Fields.Count).Previous 
+<<<<<<< HEAD
 MsgBox "Field code = " &; aField.Code
+=======
+MsgBox "Field code = " & aField.Code
+>>>>>>> master
 ```
 
 

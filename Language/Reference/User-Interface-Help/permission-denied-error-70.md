@@ -21,7 +21,11 @@ An attempt was made to write to a write-protected disk or to access a locked fil
     
 - You tried to write to a file that another process locked. Wait to open the file until the other process releases it.
     
+<<<<<<< HEAD
 - You attempted to access the [registry](../../Glossary/vbe-glossary.md), but your user permissions don't include this type of registry access.
+=======
+- You attempted to access the [registry](../../Glossary/vbe-glossary.md#registry), but your user permissions don't include this type of registry access.
+>>>>>>> master
     
     On 32-bit Microsoft Windows systems, a user must have the correct permissions for access to the system registry. Change your permissions or have them changed by the system administrator.
     

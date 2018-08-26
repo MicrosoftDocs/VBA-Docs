@@ -14,9 +14,17 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) indicating where a number occurs within a calculated series of ranges.
+<<<<<<< HEAD
  **Syntax**
  **Partition( _number_,** **_start_,** **_stop_,** **_interval_ )**
 The  **Partition** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
+=======
+
+## Syntax
+
+**Partition( _number_,** **_start_,** **_stop_,** **_interval_ )**
+The  **Partition** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+>>>>>>> master
 
 
 |**Part**|**Description**|
@@ -25,7 +33,12 @@ The  **Partition** function syntax has these[named arguments](../../Glossary/vbe
 |**_start_**|Required. Whole number that is the start of the overall range of numbers. The number can't be less than 0.|
 |**_stop_**|Required. Whole number that is the end of the overall range of numbers. The number can't be equal to or less than  **_start_**.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The  **Partition** function identifies the particular range in which **_number_** falls and returns a **Variant** (**String**) describing that range. The **Partition** function is most useful in queries. You can create a select query that shows how many orders fall within various ranges, for example, order values from 1 to 1000, 1001 to 2000, and so on.
 The following table shows how the ranges are determined using three sets of  **_start_**, **_stop_**, and **_interval_** parts. The First Range and Last Range columns show what **Partition** returns. The ranges are represented by _lowervalue_: _uppervalue_, where the low end ( _lowervalue_ ) of the range is separated from the high end ( _uppervalue_ ) of the range with a colon (**:**).
 
@@ -39,7 +52,11 @@ The following table shows how the ranges are determined using three sets of  **_
 In the table shown above, the third line shows the result when  **_start_** and **_stop_** define a set of numbers that can't be evenly divided by **_interval_**. The last range extends to **_stop_** (11 numbers) even though **_interval_** is 20.
 If necessary,  **Partition** returns a range with enough leading spaces so that there are the same number of characters to the left and right of the colon as there are characters in **_stop_**, plus one. This ensures that if you use **Partition** with other numbers, the resulting text will be handled properly during any subsequent sort operation.
 If  **_interval_** is 1, the range is **_number:number_**, regardless of the **_start_** and **_stop_** arguments. For example, if **_interval_** is 1, **_number_** is 100 and **_stop_** is 1000, **Partition** returns " 100: 100".
+<<<<<<< HEAD
 If any of the parts is [Null](../../Glossary/vbe-glossary.md),  **Partition** returns a **Null**.
+=======
+If any of the parts is [Null](../../Glossary/vbe-glossary.md#null),  **Partition** returns a **Null**.
+>>>>>>> master
 
 ## Example
 

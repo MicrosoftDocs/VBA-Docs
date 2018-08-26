@@ -36,7 +36,11 @@ This Microsoft Visual Basic for Applications (VBA) example displays a farewell m
 ```vb
 Private Sub Application_Quit() 
  
+<<<<<<< HEAD
  MsgBox "Goodbye, " &; Application.GetNamespace("MAPI").CurrentUser 
+=======
+ MsgBox "Goodbye, " & Application.GetNamespace("MAPI").CurrentUser 
+>>>>>>> master
  
 End Sub
 ```

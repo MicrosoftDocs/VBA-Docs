@@ -32,6 +32,7 @@ Private Sub CheckBox1_Click()
  If CheckBox1.Value = True Then 
  ComboBox1.MatchRequired = True 
  MsgBox "To move the focus from the " _ 
+<<<<<<< HEAD
  &; "ComboBox, you must match an entry in " _ 
  &; "the list or press ESC." 
  Else 
@@ -39,6 +40,15 @@ Private Sub CheckBox1_Click()
  MsgBox " To move the focus from the " _ 
  &; "ComboBox, just tab to or click " _ 
  &; "another control. Matching is optional." 
+=======
+ & "ComboBox, you must match an entry in " _ 
+ & "the list or press ESC." 
+ Else 
+ ComboBox1.MatchRequired = False 
+ MsgBox " To move the focus from the " _ 
+ & "ComboBox, just tab to or click " _ 
+ & "another control. Matching is optional." 
+>>>>>>> master
  End If 
 End Sub 
  
@@ -50,7 +60,11 @@ Private Sub ComboBox1_Change()
  MsgBox "Match Found; matching optional." 
  Else 
  MsgBox "Match not Found; matching " _ 
+<<<<<<< HEAD
  &; "optional." 
+=======
+ & "optional." 
+>>>>>>> master
  End If 
  End If 
 End Sub 
@@ -59,7 +73,11 @@ Private Sub UserForm_Initialize()
 Dim i As Integer 
  
 For i = 1 To 9 
+<<<<<<< HEAD
  ComboBox1.AddItem "Choice " &; i 
+=======
+ ComboBox1.AddItem "Choice " & i 
+>>>>>>> master
 Next i 
 ComboBox1.AddItem "Chocoholic" 
  

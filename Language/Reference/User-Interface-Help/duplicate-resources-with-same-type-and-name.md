@@ -15,7 +15,11 @@ A Microsoft Windows resource file typically contains bitmaps, text strings, and 
 
 
 
+<<<<<<< HEAD
 - The Windows resource file you are trying to use in your [project](../../Glossary/vbe-glossary.md) contains two or more resources with the same type and name, or the file contains a resource that Visual Basic automatically creates.
+=======
+- The Windows resource file you are trying to use in your [project](../../Glossary/vbe-glossary.md#project) contains two or more resources with the same type and name, or the file contains a resource that Visual Basic automatically creates.
+>>>>>>> master
     
     Use another resource file, or recreate the invalid resource file and delete one of the duplicate resources.
     

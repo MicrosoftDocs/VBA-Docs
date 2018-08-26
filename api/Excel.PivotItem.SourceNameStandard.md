@@ -45,7 +45,11 @@ Sub CheckSourceNameStandard()
  Set pvtItem = pvtField.PivotItems(6) 
  
  ' Display source name. 
+<<<<<<< HEAD
  MsgBox "The source name is: " &; pvtItem.SourceNameStandard 
+=======
+ MsgBox "The source name is: " & pvtItem.SourceNameStandard 
+>>>>>>> master
  
 End Sub
 ```

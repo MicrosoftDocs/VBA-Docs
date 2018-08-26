@@ -35,7 +35,11 @@ Set lcNew = New LetterContent
  
 With lcNew 
  .PageDesign = "C:\Program Files\Microsoft Office\" _ 
+<<<<<<< HEAD
  &; "Templates\1033\Contemporary Letter.dot" 
+=======
+ & "Templates\1033\Contemporary Letter.dot" 
+>>>>>>> master
  .IncludeHeaderFooter = True 
 End With 
  

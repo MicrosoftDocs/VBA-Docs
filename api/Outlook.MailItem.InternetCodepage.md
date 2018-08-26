@@ -110,7 +110,11 @@ Sub FindArabicUser()
  
  If objMail.InternetCodePage = cstArabic Then 
  
+<<<<<<< HEAD
  MsgBox objMail.SenderName &; " uses an Arabic code page." 
+=======
+ MsgBox objMail.SenderName & " uses an Arabic code page." 
+>>>>>>> master
  
  End If 
  

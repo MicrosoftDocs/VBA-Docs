@@ -91,7 +91,11 @@ Dim dblX As Double
 strCountry = "UK" 
  
 dblX = DVar("[Freight]", "Orders", "[ShipCountry] = '" _ 
+<<<<<<< HEAD
     &; strCountry &; "'")
+=======
+    & strCountry & "'")
+>>>>>>> master
 ```
 
 

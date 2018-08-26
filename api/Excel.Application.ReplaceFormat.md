@@ -47,7 +47,11 @@ Sub MakeBold()
  
  ' Notify user. 
  With Application.ReplaceFormat.Font 
+<<<<<<< HEAD
  MsgBox .Name &; "-" &; .FontStyle &; "-" &; .Size &; _ 
+=======
+ MsgBox .Name & "-" & .FontStyle & "-" & .Size & _ 
+>>>>>>> master
  " font is what the search criteria will replace cell formats with." 
  End With 
  

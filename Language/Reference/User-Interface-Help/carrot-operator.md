@@ -14,13 +14,21 @@ ms.date: 06/08/2017
 
 
 Used to raise a number to the power of an exponent.
+<<<<<<< HEAD
  **Syntax**
  _result_**=**_number_**^**_exponent_
+=======
+
+## Syntax
+
+_result_**=**_number_**^**_exponent_
+>>>>>>> master
 The  **^** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
+<<<<<<< HEAD
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
 | _number_|Required; any [numeric expression](../../Glossary/vbe-glossary.md).|
 | _exponent_|Required; any numeric expression.|
@@ -28,6 +36,16 @@ The  **^** operator syntax has these parts:
  **Remarks**
 A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md), the  **^** operator is evaluated as it is encountered from left to right.
 Usually, the [data type](../../Glossary/vbe-glossary.md) of _result_ is a[Double](../../Glossary/vbe-glossary.md) or a[Variant](../../Glossary/vbe-glossary.md) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](../../Glossary/vbe-glossary.md) expression, _result_ is **Null**.
+=======
+| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
+| _number_|Required; any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
+| _exponent_|Required; any numeric expression.|
+
+## Remarks
+
+A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md#expression), the  **^** operator is evaluated as it is encountered from left to right.
+Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a[Double](../../Glossary/vbe-glossary.md#double-data-type) or a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](../../Glossary/vbe-glossary.md#null) expression, _result_ is **Null**.
+>>>>>>> master
 
 ## Example
 

@@ -16,7 +16,11 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Allows you to select another application's objects that you want available in your code by setting a reference to that application's [object library](../../Glossary/vbe-glossary.md).
+=======
+Allows you to select another application's objects that you want available in your code by setting a reference to that application's [object library](../../Glossary/vbe-glossary.md#object-library).
+>>>>>>> master
 
 ## Dialog Box Options
 
@@ -27,7 +31,11 @@ Lists the references available to your project.
 
 
 
+<<<<<<< HEAD
 - After you set a reference to an object library by selecting the check box next to its name, you can find a specific object and its methods and properties in the [Object Browser](../../Glossary/vbe-glossary.md).
+=======
+- After you set a reference to an object library by selecting the check box next to its name, you can find a specific object and its methods and properties in the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).
+>>>>>>> master
     
 - If you are not using any objects in a referenced library, you should clear the check box for that reference to minimize the number of object references Visual Basic must resolve, thus reducing the time it takes your project to compile. You can't remove a reference for an item that is used in your project.
     
@@ -55,9 +63,15 @@ Displays the  **Add** **Reference** dialog box so that you can search other dire
 
 
 
+<<<<<<< HEAD
 - [Type Libraries](../../Glossary/vbe-glossary.md)(*.olb, *.tlb, *.dll)
     
 - [Executable Files](../../Glossary/vbe-glossary.md) (*.exe, *.dll)
+=======
+- [Type Libraries](../../Glossary/vbe-glossary.md#type-library)(*.olb, *.tlb, *.dll)
+    
+- [Executable Files](../../Glossary/vbe-glossary.md#executable-file) (*.exe, *.dll)
+>>>>>>> master
     
 - ActiveX Controls (*.ocx)
     

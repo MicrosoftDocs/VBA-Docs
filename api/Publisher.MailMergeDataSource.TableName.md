@@ -46,7 +46,11 @@ Sub EmployeeTable()
  Case "Shippers" 
  MsgBox "This is a Shippers mail merge publication." 
  Case Else 
+<<<<<<< HEAD
  MsgBox "This is a " &; .TableName &; " mail merge publication." 
+=======
+ MsgBox "This is a " & .TableName & " mail merge publication." 
+>>>>>>> master
  End Select 
  End With 
 End Sub

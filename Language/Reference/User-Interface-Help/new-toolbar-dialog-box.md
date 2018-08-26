@@ -18,7 +18,11 @@ ms.date: 06/08/2017
 
 Allows you to give your new toolbar a name.
 
+<<<<<<< HEAD
 ## Dialog Box Option
+=======
+## Dialog Box Options
+>>>>>>> master
 
  **Toolbar name**
 

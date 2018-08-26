@@ -101,10 +101,17 @@ Dim dblY As Double
 strCountry = "UK" 
  
 dblX = DStDev("[Freight]", "Orders", _ 
+<<<<<<< HEAD
     "[ShipCountry] = '" &; strCountry &; "'") 
  
 dblY = DStDevP("[Freight]", "Orders", _ 
     "[ShipCountry] = '" &; strCountry &; "'")
+=======
+    "[ShipCountry] = '" & strCountry & "'") 
+ 
+dblY = DStDevP("[Freight]", "Orders", _ 
+    "[ShipCountry] = '" & strCountry & "'")
+>>>>>>> master
 ```
 
 

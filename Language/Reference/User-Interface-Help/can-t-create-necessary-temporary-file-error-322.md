@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Can't create necessary temporary file (Error 322)
 
+<<<<<<< HEAD
 Creating an [executable file](../../Glossary/vbe-glossary.md) requires creation of temporary files. This error has the following cause and solution:
+=======
+Creating an [executable file](../../Glossary/vbe-glossary.md#executable-file) requires creation of temporary files. This error has the following cause and solution:
+>>>>>>> master
 
 
 

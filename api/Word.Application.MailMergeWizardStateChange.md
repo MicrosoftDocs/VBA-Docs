@@ -56,7 +56,11 @@ Private Sub MailMergeApp_MailMergeWizardStateChange(ByVal Doc As Document, _
  Handled = True 
  Else 
  'Return to step three 
+<<<<<<< HEAD
  MsgBox "Please select all recipients to whom " &; _ 
+=======
+ MsgBox "Please select all recipients to whom " & _ 
+>>>>>>> master
  "you want to send this letter." 
  Handled = False 
  End If 

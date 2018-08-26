@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Application-defined or object-defined error
 
+<<<<<<< HEAD
 This message is displayed when an error generated with the  **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for [arguments](../../Glossary/vbe-glossary.md) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](../../Glossary/vbe-glossary.md) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
+=======
+This message is displayed when an error generated with the  **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for [arguments](../../Glossary/vbe-glossary.md#argument) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](../../Glossary/vbe-glossary.md#host-application) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
+>>>>>>> master
 
 
 
@@ -32,7 +36,11 @@ Next index
 ```
 
 
+<<<<<<< HEAD
 Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](../../Glossary/vbe-glossary.md). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
+=======
+Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](../../Glossary/vbe-glossary.md#run-time-error). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
+>>>>>>> master
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

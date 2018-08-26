@@ -23,8 +23,13 @@ Use the [Comments](PowerPoint.Slide.Comments.md)property to refer to the  **Comm
 
 ```vb
 Sub CountComments()
+<<<<<<< HEAD
     MsgBox "You have " &; ActiveWindow.Selection.SlideRange(1) _
         .Comments.Count &; " comments on this slide."
+=======
+    MsgBox "You have " & ActiveWindow.Selection.SlideRange(1) _
+        .Comments.Count & " comments on this slide."
+>>>>>>> master
 End Sub
 ```
 
@@ -44,7 +49,11 @@ Sub AddComment()
 
     Set cmtNew = sldNew.Comments.Add(Left:=12, Top:=12, _
         Author:="Jeff Smith", AuthorInitials:="JS", _
+<<<<<<< HEAD
         Text:="You might consider reviewing the new specs" &; _
+=======
+        Text:="You might consider reviewing the new specs" & _
+>>>>>>> master
         "for more up-to-date information.")
 
 End Sub

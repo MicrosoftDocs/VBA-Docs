@@ -42,13 +42,22 @@ Sub CountLateAssignments()
  If a.BaselineStart < ActiveProject.CurrentDate And a.StartVariance > 0 Then 
  numLateAssignments = numLateAssignments + 1 
  daysLate = Round(a.StartVariance / 1440, 1) 
+<<<<<<< HEAD
  lateAssignments = lateAssignments &; vbCrLf &; vbTab &; t.Name _ 
  &; ": resource " &; a.Resource.Name &; ": " &; daysLate &; " days" 
+=======
+ lateAssignments = lateAssignments & vbCrLf & vbTab & t.Name _ 
+ & ": resource " & a.Resource.Name & ": " & daysLate & " days" 
+>>>>>>> master
  End If 
  Next a 
  Next t 
  
+<<<<<<< HEAD
  MsgBox "There are " &; numLateAssignments &; " late assignments in this project: " &; lateAssignments 
+=======
+ MsgBox "There are " & numLateAssignments & " late assignments in this project: " & lateAssignments 
+>>>>>>> master
  
 End Sub
 ```

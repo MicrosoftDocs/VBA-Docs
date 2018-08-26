@@ -15,7 +15,11 @@ This error can only occur on the Macintosh. This error has the following cause a
 
 
 
+<<<<<<< HEAD
 - A call was made to a [procedure](../../Glossary/vbe-glossary.md) in a code resource, but the code resource could not be found.
+=======
+- A call was made to a [procedure](../../Glossary/vbe-glossary.md#procedure) in a code resource, but the code resource could not be found.
+>>>>>>> master
     
     Check to be sure the resource is available and properly referenced.
     

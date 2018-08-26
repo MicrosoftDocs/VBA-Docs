@@ -13,10 +13,19 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns or sets a [string expression](../../Glossary/vbe-glossary.md) specifying the name of the object or application that originally generated the error. Read/write.
  **Remarks**
 The  **Source**[property](../../Glossary/vbe-glossary.md) specifies a string expression representing the object that generated the error; the[expression](../../Glossary/vbe-glossary.md) is usually the object's[class](../../Glossary/vbe-glossary.md) name or programmatic ID. Use **Source** to provide information when your code is unable to handle an error generated in an accessed object. For example, if you access Microsoft Excel and it generates a `Division by zero` error, Microsoft Excel sets **Err.Number** to its error code for that error and sets **Source** to `Excel.Application`.
 When generating an error from code,  **Source** is your application's programmatic ID. For[class modules](../../Glossary/vbe-glossary.md),  **Source** should contain a name having the form _project.class_. When an unexpected error occurs in your code, the **Source** property is automatically filled in. For errors in a[standard module](../../Glossary/vbe-glossary.md),  **Source** contains the[project](../../Glossary/vbe-glossary.md) name. For errors in a class module, **Source** contains a name with the _project.class_ form.
+=======
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the object or application that originally generated the error. Read/write.
+
+## Remarks
+
+The  **Source**[property](../../Glossary/vbe-glossary.md#property) specifies a string expression representing the object that generated the error; the[expression](../../Glossary/vbe-glossary.md#expression) is usually the object's[class](../../Glossary/vbe-glossary.md#class) name or programmatic ID. Use **Source** to provide information when your code is unable to handle an error generated in an accessed object. For example, if you access Microsoft Excel and it generates a `Division by zero` error, Microsoft Excel sets **Err.Number** to its error code for that error and sets **Source** to `Excel.Application`.
+When generating an error from code,  **Source** is your application's programmatic ID. For[class modules](../../Glossary/vbe-glossary.md#class-module),  **Source** should contain a name having the form _project.class_. When an unexpected error occurs in your code, the **Source** property is automatically filled in. For errors in a[standard module](../../Glossary/vbe-glossary.md#standard-module),  **Source** contains the[project](../../Glossary/vbe-glossary.md#project) name. For errors in a class module, **Source** contains a name with the _project.class_ form.
+>>>>>>> master
 
 ## Example
 
@@ -29,7 +38,11 @@ Dim MyClass, MyObjectID, MyHelpFile, MyHelpContext
 ' properties, including Source, which receives MyObjectID, which is a 
 ' combination of the Title property of the App object and the Name
 ' property of the MyClass object.
+<<<<<<< HEAD
 MyObjectID = App.Title &; "." &; MyClass.Name
+=======
+MyObjectID = App.Title & "." & MyClass.Name
+>>>>>>> master
 Err. Raise    Number := vbObjectError + 894, Source := MyObjectID, _
                 Description := "Was not able to complete your task", _
                 HelpFile := MyHelpFile, HelpContext := MyHelpContext 

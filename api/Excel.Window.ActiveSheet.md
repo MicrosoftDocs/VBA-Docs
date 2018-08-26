@@ -36,7 +36,11 @@ This example displays the name of the active sheet.
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The name of the active sheet is " &; ActiveSheet.Name
+=======
+MsgBox "The name of the active sheet is " & ActiveSheet.Name
+>>>>>>> master
 ```
 
 

@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Object variable not set (Error 91)
 
+<<<<<<< HEAD
 There are two steps to creating an [object variable](../../Glossary/vbe-glossary.md). First you must declare the object variable. Then you must assign a valid reference to the object variable using the **Set** statement. Similarly, a **With...End With** block must be initialized by executing the **With** statement entry point. This error has the following causes and solutions:
+=======
+There are two steps to creating an [object variable](../../Glossary/vbe-glossary.md#object-variable). First you must declare the object variable. Then you must assign a valid reference to the object variable using the **Set** statement. Similarly, a **With...End With** block must be initialized by executing the **With** statement entry point. This error has the following causes and solutions:
+>>>>>>> master
 
 - You attempted to use an object variable that isn't yet referencing a valid object.
     
@@ -32,7 +36,11 @@ There are two steps to creating an [object variable](../../Glossary/vbe-glossary
 
   Respecify a reference for the object variable. For example, use a new **Set** statement to set a new reference to the object.
     
+<<<<<<< HEAD
 - The object is a valid object, but it wasn't set because the [object library](../../Glossary/vbe-glossary.md) in which it is described hasn't been selected in the **Add References** dialog box.
+=======
+- The object is a valid object, but it wasn't set because the [object library](../../Glossary/vbe-glossary.md#object-library) in which it is described hasn't been selected in the **Add References** dialog box.
+>>>>>>> master
     
   Select the object library in the **Add References** dialog box.
     

@@ -29,8 +29,13 @@ The following code example displays the number of co authors in the active docum
 
 
 ```vb
+<<<<<<< HEAD
 MsgBox "The active document contains " &; _ 
  ActiveDocument.CoAuthoring.Authors.Count &; " authors."
+=======
+MsgBox "The active document contains " & _ 
+ ActiveDocument.CoAuthoring.Authors.Count & " authors."
+>>>>>>> master
 ```
 
 

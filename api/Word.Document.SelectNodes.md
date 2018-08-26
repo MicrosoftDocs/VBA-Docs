@@ -54,8 +54,13 @@ Dim strElement As String
 Dim strPrefix As String 
  
 strElement = "/x:catalog/x:book" 
+<<<<<<< HEAD
 strPrefix = "xmlns:x=""" &; ActiveDocument _ 
  .XMLSchemaReferences(1).NamespaceURI &; """" 
+=======
+strPrefix = "xmlns:x=""" & ActiveDocument _ 
+ .XMLSchemaReferences(1).NamespaceURI & """" 
+>>>>>>> master
  
 Set objElements = ActiveDocument _ 
  .SelectNodes(strElement, strPrefix)

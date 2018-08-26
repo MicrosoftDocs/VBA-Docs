@@ -45,7 +45,11 @@ Dim mdl As Module
  
 Set mdl = Forms!MyForm.Module 
 strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _ 
+<<<<<<< HEAD
  &; vbCrLf &; "Beep" &; vbCrLf &; "End Sub" 
+=======
+ & vbCrLf & "Beep" & vbCrLf & "End Sub" 
+>>>>>>> master
  With mdl 
  .InsertText strFormOpenCode 
  End With

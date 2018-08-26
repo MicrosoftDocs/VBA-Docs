@@ -17,8 +17,15 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a string containing the name of the drive for a specified path.
+<<<<<<< HEAD
  **Syntax**
  _object_. **GetDriveName(**_path_**)**
+=======
+
+## Syntax
+
+_object_. **GetDriveName(**_path_**)**
+>>>>>>> master
 The  **GetDriveName** method syntax has these parts:
 
 
@@ -27,7 +34,12 @@ The  **GetDriveName** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose drive name is to be returned.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The  **GetDriveName** method returns a zero-length string ("") if the drive can't be determined.
 
  **Note**  The  **GetDriveName** method works only on the provided _path_ string. It does not attempt to resolve the path, nor does it check for the existence of the specified path.

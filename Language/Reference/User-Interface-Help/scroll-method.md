@@ -16,8 +16,15 @@ ms.date: 06/08/2017
 
 
 Moves the scroll bar on an object.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Scroll(** [ _ActionX_ [, _ActionY_ ]] **)**
+=======
+
+## Syntax
+
+_object_. **Scroll(** [ _ActionX_ [, _ActionY_ ]] **)**
+>>>>>>> master
 The  **Scroll** method syntax has these parts:
 
 
@@ -41,6 +48,11 @@ The settings for  _ActionX_ and _ActionY_ are:
 | _fmScrollActionBegin_|5|Move to the top of a vertical scroll bar or to the left end of a horizontal scroll bar.|
 | _fmScrollActionEnd_|6|Move to the bottom of a vertical scroll bar or to the right end of a horizontal scroll bar.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 The  **Scroll** method applies scroll bars that appear on a form, **Frame**, or **Page** that is larger than its display area. This method does not apply to the stand-alone **ScrollBar** or to scroll bars that appear on a **TextBox**.
 

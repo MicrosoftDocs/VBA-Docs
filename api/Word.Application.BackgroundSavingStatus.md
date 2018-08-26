@@ -34,7 +34,11 @@ Documents.Add
 ActiveDocument.SaveAs 
  While Application.BackgroundSavingStatus <> 0 
  StatusBar = "Documents remaining to save: " _ 
+<<<<<<< HEAD
  &; Application.BackgroundSavingStatus 
+=======
+ & Application.BackgroundSavingStatus 
+>>>>>>> master
  DoEvents 
 Wend
 ```

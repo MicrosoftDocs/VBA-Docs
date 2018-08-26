@@ -47,10 +47,17 @@ Sub AddResources()
  
    If ActiveProject.ServerURL = "" Then 
       MsgBox "A Project Server URL has not been " _ 
+<<<<<<< HEAD
          &; "specified." &; Chr(13) &; "Click OK to select " _ 
          &; "'Collaborate Using Project Server' and " _ 
          &; "specify a valid URL in the Options dialog box " _ 
          &; "(Tools menu)." 
+=======
+         & "specified." & Chr(13) & "Click OK to select " _ 
+         & "'Collaborate Using Project Server' and " _ 
+         & "specify a valid URL in the Options dialog box " _ 
+         & "(Tools menu)." 
+>>>>>>> master
       Application.OptionsWorkgroup 
    Else 
       ActiveProject.MakeServerURLTrusted 

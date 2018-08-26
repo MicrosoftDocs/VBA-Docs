@@ -82,7 +82,11 @@ Dim strCtl As String
  
 Set ctl = Forms!Employees!LastName 
 strCtl = "Forms!Employees!LastName" 
+<<<<<<< HEAD
 MsgBox ("The current value of " &; ctl.Name &; " is " &; Eval(strCtl))
+=======
+MsgBox ("The current value of " & ctl.Name & " is " & Eval(strCtl))
+>>>>>>> master
 ```
 
 You can use the  **Eval** function to access expression operators that aren't ordinarily available in Visual Basic. For example, you can't use the SQL operators **Between...And** or **In** directly in your code, but you can use them in an expression passed to the **Eval** function.
@@ -95,7 +99,11 @@ The next example determines whether the value of a ShipRegion control on an Orde
 ```vb
 Dim intState As Integer 
 intState = Eval("Forms!Orders!ShipRegion In " _ 
+<<<<<<< HEAD
  &; "('AK', 'CA', 'ID', 'WA', 'MT', 'NM', 'OR')")
+=======
+ & "('AK', 'CA', 'ID', 'WA', 'MT', 'NM', 'OR')")
+>>>>>>> master
 ```
 
 
@@ -110,7 +118,11 @@ Sub CallSeries()
  Dim intI As Integer 
  
  For intI = 1 To 50 
+<<<<<<< HEAD
  Eval("A" &; intI &; "()") 
+=======
+ Eval("A" & intI & "()") 
+>>>>>>> master
  Next intI 
  
 End Sub

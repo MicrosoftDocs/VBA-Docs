@@ -11,7 +11,11 @@ ms.date: 06/08/2017
 
 # Not enough memory to completely save project
 
+<<<<<<< HEAD
 When a [project](../../Glossary/vbe-glossary.md) is saved, extra information is usually saved to make it possible to load the project in a later version or on a different platform. This error has the following cause and solution:
+=======
+When a [project](../../Glossary/vbe-glossary.md#project) is saved, extra information is usually saved to make it possible to load the project in a later version or on a different platform. This error has the following cause and solution:
+>>>>>>> master
 
 
 

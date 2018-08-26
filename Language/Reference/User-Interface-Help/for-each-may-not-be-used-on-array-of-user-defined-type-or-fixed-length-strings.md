@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # For Each may not be used on array of user-defined type or fixed-length strings
 
+<<<<<<< HEAD
  **For Each** constructs are only valid for[collections](../../Glossary/vbe-glossary.md) and[arrays](../../Glossary/vbe-glossary.md) of intrinsic types, including arrays of objects. Also, arrays of fixed-length strings can't be iterated using **For** **Each**. This error has the following causes and solutions:
 
 
 
 - The elements of the array in your  **For Each** construct have a[user-defined type](../../Glossary/vbe-glossary.md).
+=======
+ **For Each** constructs are only valid for[collections](../../Glossary/vbe-glossary.md#collection) and[arrays](../../Glossary/vbe-glossary.md#array) of intrinsic types, including arrays of objects. Also, arrays of fixed-length strings can't be iterated using **For** **Each**. This error has the following causes and solutions:
+
+
+
+- The elements of the array in your  **For Each** construct have a[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+>>>>>>> master
     
     Use an ordinary  **For...Next** loop to iterate the elements of the array.
     

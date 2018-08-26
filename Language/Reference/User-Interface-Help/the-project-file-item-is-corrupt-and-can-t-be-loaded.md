@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # The project file 'item' is corrupt and can't be loaded
 
+<<<<<<< HEAD
 Visual Basic can't read the [project](../../Glossary/vbe-glossary.md) file. This can occur if the file has been modified by an editor outside of Visual Basic. To fix the problem, undo any changes made to the file.
+=======
+Visual Basic can't read the [project](../../Glossary/vbe-glossary.md#project) file. This can occur if the file has been modified by an editor outside of Visual Basic. To fix the problem, undo any changes made to the file.
+>>>>>>> master
 
 

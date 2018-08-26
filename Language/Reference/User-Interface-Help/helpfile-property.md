@@ -15,8 +15,15 @@ ms.date: 06/08/2017
 
 
 
+<<<<<<< HEAD
 Returns or sets a [string expression](../../Glossary/vbe-glossary.md) the fully qualified path to a Help file. Read/write.
  **Remarks**
+=======
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) the fully qualified path to a Help file. Read/write.
+
+## Remarks
+
+>>>>>>> master
 If a Help file is specified in  **HelpFile**, it is automatically called when the user presses the **Help** button (or the F1 KEY in Windows or the HELP key on the Macintosh) in the error message dialog box. If the **HelpContext** property contains a valid context ID for the specified file, that topic is automatically displayed. If no **HelpFile** is specified, the Visual Basic Help file is displayed.
 
  **Note**  You should write routines in your application to handle typical errors. When programming with an object, you can use the object's Help file to improve the quality of your error handling, or to display a meaningful message to your user if the error isn't recoverable.
@@ -32,9 +39,15 @@ Dim Msg
 Err.Clear
 On Error Resume Next    ' Suppress errors for demonstration purposes.
 Err.Raise 6    ' Generate "Overflow" error.
+<<<<<<< HEAD
 Msg = "Press F1 or HELP to see " &; Err. HelpFile &; _
 " topic for this error"
 MsgBox Msg, , "Error: " &; Err.Description,Err. HelpFile
+=======
+Msg = "Press F1 or HELP to see " & Err. HelpFile & _
+" topic for this error"
+MsgBox Msg, , "Error: " & Err.Description,Err. HelpFile
+>>>>>>> master
 ```
 
 

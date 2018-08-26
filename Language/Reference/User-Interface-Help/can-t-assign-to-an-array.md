@@ -11,11 +11,19 @@ ms.date: 06/08/2017
 
 # Can't assign to an array
 
+<<<<<<< HEAD
 Each element of an [array](../../Glossary/vbe-glossary.md) must have its value assigned individually. This error has the following causes and solutions:
 
 - You inadvertently tried to assign a single value to an array [variable](../../Glossary/vbe-glossary.md) without specifying the element to which the value should be assigned.
     
   To assign a single value to an array element, you must specify the element in a subscript. For example, if  `MyArray` is an integer array, the [expression ](../../Glossary/vbe-glossary.md) ` MyArray = 5` is invalid, but the following expression is valid: `MyArray(UBound(MyArray)) = 5`
+=======
+Each element of an [array](../../Glossary/vbe-glossary.md#array) must have its value assigned individually. This error has the following causes and solutions:
+
+- You inadvertently tried to assign a single value to an array [variable](../../Glossary/vbe-glossary.md#variable) without specifying the element to which the value should be assigned.
+    
+  To assign a single value to an array element, you must specify the element in a subscript. For example, if  `MyArray` is an integer array, the [expression ](../../Glossary/vbe-glossary.md#expression) ` MyArray = 5` is invalid, but the following expression is valid: `MyArray(UBound(MyArray)) = 5`
+>>>>>>> master
     
 - You tried to assign a whole array to another array. 
     

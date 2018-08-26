@@ -45,7 +45,11 @@ The following example demonstrates the syntax for a subroutine that traps the Af
 ```vb
 Private Sub Form_AfterRender( _ 
  ByVal drawObject As Object, ByVal chartObject As Object) 
+<<<<<<< HEAD
  MsgBox TypeName(chartObject) &; " has been rendered." 
+=======
+ MsgBox TypeName(chartObject) & " has been rendered." 
+>>>>>>> master
 End Sub
 ```
 

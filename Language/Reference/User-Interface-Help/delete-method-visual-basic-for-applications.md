@@ -15,8 +15,15 @@ ms.date: 06/08/2017
 
  **Description**
 Deletes a specified file or folder.
+<<<<<<< HEAD
  **Syntax**
  _object_. **Delete**_force_
+=======
+
+## Syntax
+
+_object_. **Delete**_force_
+>>>>>>> master
 The  **Delete** method syntax has these parts:
 
 
@@ -25,7 +32,12 @@ The  **Delete** method syntax has these parts:
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _force_|Optional.  **Boolean** value that is **True** if files or folders with the read-only attribute set are to be deleted; **False** (default) if they are not.|
 
+<<<<<<< HEAD
  **Remarks**
+=======
+## Remarks
+
+>>>>>>> master
 An error occurs if the specified file or folder does not exist.
 The results of the  **Delete** method on a **File** or **Folder** are identical to operations performed using **FileSystemObject.DeleteFile** or **FileSystemObject.DeleteFolder**.
 The  **Delete** method does not distinguish between folders that have contents and those that do not. The specified folder is deleted regardless of whether or not it has contents.

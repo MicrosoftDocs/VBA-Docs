@@ -14,8 +14,15 @@ ms.date: 06/08/2017
 
 
 Indicates whether the object permits multiple selections.
+<<<<<<< HEAD
  **Syntax**
  _object_. **MultiSelect** [= _fmMultiSelect_ ]
+=======
+
+## Syntax
+
+_object_. **MultiSelect** [= _fmMultiSelect_ ]
+>>>>>>> master
 The  **MultiSelect** property syntax has these parts:
 
 
@@ -34,7 +41,14 @@ The settings for  _fmMultiSelect_ are:
 | _fmMultiSelectMulti_|1|Pressing the SPACEBAR or clicking selects or deselects an item in the list.|
 | _fmMultiSelectExtended_|2|Pressing SHIFT and clicking the mouse, or pressing SHIFT and one of the arrow keys, extends the selection from the previously selected item to the current item. Pressing CTRL and clicking the mouse selects or deselects an item.|
 
+<<<<<<< HEAD
  **Remarks**
 When the  **MultiSelect** property is set to _Extended_ or _Simple_, you must use the list box's **Selected** property to determine the selected items. Also, the **Value** property of the control is always **Null**.
 The  **ListIndex** property returns the index of the row with the keyboard[focus](../../Glossary/vbe-glossary.md).
+=======
+## Remarks
+
+When the  **MultiSelect** property is set to _Extended_ or _Simple_, you must use the list box's **Selected** property to determine the selected items. Also, the **Value** property of the control is always **Null**.
+The  **ListIndex** property returns the index of the row with the keyboard[focus](../../Glossary/vbe-glossary.md#focus).
+>>>>>>> master
 

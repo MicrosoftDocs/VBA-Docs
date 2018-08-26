@@ -47,7 +47,11 @@ Sub GetVerbList(frm As Form, OLE1 As Control)
  .Action = acOLEFetchVerbs 
  intNumVerbs = .ObjectVerbsCount 
  For intX = 0 To intNumVerbs - 1 
+<<<<<<< HEAD
  strVerbList = strVerbList &; .ObjectVerbs(intX) &; "; " 
+=======
+ strVerbList = strVerbList & .ObjectVerbs(intX) & "; " 
+>>>>>>> master
  Next intX 
  End With 
  

@@ -39,7 +39,11 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  
  ' reference to the Immediate window. 
  
+<<<<<<< HEAD
  Debug.Print "--- Folder: " &; FolderToCheck.Name 
+=======
+ Debug.Print "--- Folder: " & FolderToCheck.Name 
+>>>>>>> master
  
  
  
@@ -71,6 +75,7 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  
  Case OlUserPropertyType.olCombination 
  
+<<<<<<< HEAD
  strPropertyInfo = strPropertyInfo &; " (Combination)" 
  
  Case OlUserPropertyType.olCurrency 
@@ -128,6 +133,65 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  Case Else 
  
  strPropertyInfo = strPropertyInfo &; " (Unknown)" 
+=======
+ strPropertyInfo = strPropertyInfo & " (Combination)" 
+ 
+ Case OlUserPropertyType.olCurrency 
+ 
+ strPropertyInfo = strPropertyInfo & " (Currency)" 
+ 
+ Case OlUserPropertyType.olDateTime 
+ 
+ strPropertyInfo = strPropertyInfo & " (Date/Time)" 
+ 
+ Case OlUserPropertyType.olDuration 
+ 
+ strPropertyInfo = strPropertyInfo & " (Duration)" 
+ 
+ Case OlUserPropertyType.olEnumeration 
+ 
+ strPropertyInfo = strPropertyInfo & " (Enumeration)" 
+ 
+ Case OlUserPropertyType.olFormula 
+ 
+ strPropertyInfo = strPropertyInfo & " (Formula)" 
+ 
+ Case OlUserPropertyType.olInteger 
+ 
+ strPropertyInfo = strPropertyInfo & " (Integer)" 
+ 
+ Case OlUserPropertyType.olKeywords 
+ 
+ strPropertyInfo = strPropertyInfo & " (Keywords)" 
+ 
+ Case OlUserPropertyType.olNumber 
+ 
+ strPropertyInfo = strPropertyInfo & " (Number)" 
+ 
+ Case OlUserPropertyType.olOutlookInternal 
+ 
+ strPropertyInfo = strPropertyInfo & " (Outlook Internal)" 
+ 
+ Case OlUserPropertyType.olPercent 
+ 
+ strPropertyInfo = strPropertyInfo & " (Percent)" 
+ 
+ Case OlUserPropertyType.olSmartFrom 
+ 
+ strPropertyInfo = strPropertyInfo & " (Smart From)" 
+ 
+ Case OlUserPropertyType.olText 
+ 
+ strPropertyInfo = strPropertyInfo & " (Text)" 
+ 
+ Case OlUserPropertyType.olYesNo 
+ 
+ strPropertyInfo = strPropertyInfo & " (Yes/No)" 
+ 
+ Case Else 
+ 
+ strPropertyInfo = strPropertyInfo & " (Unknown)" 
+>>>>>>> master
  
  End Select 
  

@@ -14,9 +14,17 @@ ms.date: 06/08/2017
 
 
 Returns an  **Integer** representing the attributes of a file, directory, or folder.
+<<<<<<< HEAD
  **Syntax**
  **GetAttr(**_pathname_**)**
 The required  _pathname_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
+=======
+
+## Syntax
+
+**GetAttr(**_pathname_**)**
+The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
+>>>>>>> master
  **Return Values**
 The value returned by  **GetAttr** is the sum of the following attribute values:
 
@@ -31,10 +39,18 @@ The value returned by  **GetAttr** is the sum of the following attribute values:
 |**vbArchive**|32|File has changed since last backup. Not available on the Macintosh.|
 |**vbAlias**|64|Specified file name is an alias. Available only on the Macintosh.|
 
+<<<<<<< HEAD
  **Note**  These [constants](../../Glossary/vbe-glossary.md) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
  **Remarks**
 To determine which attributes are set, use the  **And** operator to perform a[bitwise comparison](../../Glossary/vbe-glossary.md) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
+=======
+ **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
+
+## Remarks
+
+To determine which attributes are set, use the  **And** operator to perform a[bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
+>>>>>>> master
 
 
 

@@ -45,7 +45,11 @@ Sub ReferenceProperties()
  If ref.IsBroken = False Then 
  Debug.Print "Name: ", ref.Name 
  Debug.Print "FullPath: ", ref.FullPath 
+<<<<<<< HEAD
  Debug.Print "Version: ", ref.Major &; "." &; ref.Minor 
+=======
+ Debug.Print "Version: ", ref.Major & "." & ref.Minor 
+>>>>>>> master
  Else 
  Debug.Print "GUIDs of broken references:" 
  Debug.Print ref.GUID 

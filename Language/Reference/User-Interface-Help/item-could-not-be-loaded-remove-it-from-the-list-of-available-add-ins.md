@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # 'Item' could not be loaded. Remove it from the list of available add-ins?
 
+<<<<<<< HEAD
 Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box. Click **Yes** to remove it from the list or click **No** to leave it on the list. In either case, you can't load it.
+=======
+Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md#add-in) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box. Click **Yes** to remove it from the list or click **No** to leave it on the list. In either case, you can't load it.
+>>>>>>> master
 
 

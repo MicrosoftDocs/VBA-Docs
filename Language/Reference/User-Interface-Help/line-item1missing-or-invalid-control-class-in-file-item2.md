@@ -11,6 +11,10 @@ ms.date: 06/08/2017
 
 # Line 'item1': Missing or invalid control class in file 'item2 '.
 
+<<<<<<< HEAD
 The ASCII file contains an unknown control [class](../../Glossary/vbe-glossary.md) in the form description, or the class name isn't a valid string in Visual Basic.
+=======
+The ASCII file contains an unknown control [class](../../Glossary/vbe-glossary.md#class) in the form description, or the class name isn't a valid string in Visual Basic.
+>>>>>>> master
 
 

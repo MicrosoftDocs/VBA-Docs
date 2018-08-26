@@ -40,7 +40,11 @@ Public Sub Sync()
  For i = 1 To sycs.Count 
 Set syc = sycs.Item(i) 
 strPrompt = MsgBox( _ 
+<<<<<<< HEAD
  "Do you wish to synchronize " &; syc.Name &;"?", vbYesNo) 
+=======
+ "Do you wish to synchronize " & syc.Name &"?", vbYesNo) 
+>>>>>>> master
 If strPrompt = vbYes Then 
  syc.Start 
 End If 

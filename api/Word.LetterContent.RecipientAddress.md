@@ -33,7 +33,11 @@ Dim oLC as New LetterContent
 With oLC 
  .ReturnAddress = Application.UserAddress 
  .RecipientName = "Amy Anderson" 
+<<<<<<< HEAD
  .RecipientAddress = "123 Main" &; vbCr &; "Bellevue, WA 98004" 
+=======
+ .RecipientAddress = "123 Main" & vbCr & "Bellevue, WA 98004" 
+>>>>>>> master
 End With 
 Documents.Add.RunLetterWizard LetterContent:=oLC, WizardMode:=True
 ```

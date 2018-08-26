@@ -20,7 +20,11 @@ ms.date: 06/08/2017
  **Note**  This feature is not available in all versions of the Visual Basic Editor.
 
 
+<<<<<<< HEAD
 Sets the attributes for the [executable file](../../Glossary/vbe-glossary.md) you make. Displays the name of the current project in the title so you can determine which project will be affected by any changes you make. The current project is the item currently selected in the Project Explorer.
+=======
+Sets the attributes for the [executable file](../../Glossary/vbe-glossary.md#executable-file) you make. Displays the name of the current project in the title so you can determine which project will be affected by any changes you make. The current project is the item currently selected in the Project Explorer.
+>>>>>>> master
 
 
 ## Tab Options

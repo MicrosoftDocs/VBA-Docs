@@ -50,7 +50,11 @@ Sub CreatePST()
  
  Set myNameSpace = Application.GetNamespace("MAPI") 
  
+<<<<<<< HEAD
  myNameSpace.AddStore "c:\" &; myNameSpace.CurrentUser &; "\.pst" 
+=======
+ myNameSpace.AddStore "c:\" & myNameSpace.CurrentUser & "\.pst" 
+>>>>>>> master
  
 End Sub
 ```

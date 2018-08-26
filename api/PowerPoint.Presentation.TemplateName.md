@@ -41,7 +41,11 @@ The following example applies the design template Professional.pot to the presen
 ```vb
 With Presentations("Pres1.ppt")
     If .TemplateName <> "Professional.pot" Then
+<<<<<<< HEAD
         .ApplyTemplate "c:\program files\microsoft office" &; _
+=======
+        .ApplyTemplate "c:\program files\microsoft office" & _
+>>>>>>> master
             "\templates\presentation designs\Professional.pot"
     End If
 End With

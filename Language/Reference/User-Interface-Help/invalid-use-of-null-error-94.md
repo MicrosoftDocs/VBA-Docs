@@ -11,9 +11,15 @@ ms.date: 06/08/2017
 
 # Invalid use of Null (Error 94)
 
+<<<<<<< HEAD
 [Null](../../Glossary/vbe-glossary.md) is a **Variant** subtype used to indicate that a data item contains no valid data. This error has the following cause and solution:
 
 - You are trying to obtain the value of a **Variant** variable or an [expression](../../Glossary/vbe-glossary.md) that is **Null**. For example:
+=======
+[Null](../../Glossary/vbe-glossary.md#null) is a **Variant** subtype used to indicate that a data item contains no valid data. This error has the following cause and solution:
+
+- You are trying to obtain the value of a **Variant** variable or an [expression](../../Glossary/vbe-glossary.md#expression) that is **Null**. For example:
+>>>>>>> master
     
   ```vb
       MyVar = Null 
@@ -22,7 +28,11 @@ ms.date: 06/08/2017
     Next Count 
   ```
 
+<<<<<<< HEAD
   Make sure the [variable](../../Glossary/vbe-glossary.md) contains a valid value.
+=======
+  Make sure the [variable](../../Glossary/vbe-glossary.md#variable) contains a valid value.
+>>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
