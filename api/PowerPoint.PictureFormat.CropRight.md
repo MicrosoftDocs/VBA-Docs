@@ -50,11 +50,7 @@ This example crops the percentage specified by the user off the right side of th
 
 
 ```vb
-<<<<<<< HEAD
-percentToCrop = InputBox("What percentage do you " &; _
-=======
 percentToCrop = InputBox("What percentage do you " & _
->>>>>>> master
     "want to crop off the right of this picture?")
 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1)

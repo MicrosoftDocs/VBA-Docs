@@ -61,11 +61,7 @@ With myDocument.Shapes(1)
 
     y1 = vertArray(1, 2)
 
-<<<<<<< HEAD
-    MsgBox "First vertex coordinates: " &; x1 &; ", " &; y1
-=======
     MsgBox "First vertex coordinates: " & x1 & ", " & y1
->>>>>>> master
 
 End With
 ```
