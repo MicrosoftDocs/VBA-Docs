@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Boolean](../../Glossary/vbe-glossary.md) value indicating whether or not the **VBComponent** object has an open[designer](../../Glossary/vbe-glossary.md). Read-only.
-=======
 Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **VBComponent** object has an open[designer](../../Glossary/vbe-glossary.md#designer). Read-only.
->>>>>>> master
  **Return Values**
 The  **HasOpenDesigner** property returns these values:
 

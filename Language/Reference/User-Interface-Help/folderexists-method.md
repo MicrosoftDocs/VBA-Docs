@@ -17,15 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Returns  **True** if a specified folder exists; **False** if it does not.
-<<<<<<< HEAD
- **Syntax**
- _object_. **FolderExists(**_folderspec_ )
-=======
 
 ## Syntax
 
 _object_. **FolderExists(**_folderspec_ )
->>>>>>> master
 The  **FolderExists** method syntax has these parts:
 
 

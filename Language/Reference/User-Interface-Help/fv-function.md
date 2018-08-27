@@ -13,34 +13,17 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the future value of an annuity based on periodic, fixed payments and a fixed interest rate.
- **Syntax**
- **FV( _rate_**, **_nper_**, **_pmt_** [, **_pv_** [, **_type_** ]] **)**
-The  **FV** function has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the future value of an annuity based on periodic, fixed payments and a fixed interest rate.
 
 ## Syntax
 
 **FV( _rate_**, **_nper_**, **_pmt_** [, **_pv_** [, **_type_** ]] **)**
 The  **FV** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_rate_**|Required.  **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
-<<<<<<< HEAD
-|**_nper_**|Required. [Integer](../../Glossary/vbe-glossary.md) specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
-|**_pmt_**|Required.  **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
-|**_pv_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying present value (or lump sum) of a series of future payments. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make. If omitted, 0 is assumed.|
-|**_type_**|Optional.  **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
-
- **Remarks**
-An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
-The  **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
-=======
 |**_nper_**|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
 |**_pmt_**|Required.  **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
 |**_pv_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying present value (or lump sum) of a series of future payments. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make. If omitted, 0 is assumed.|
@@ -50,7 +33,6 @@ The  **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md) must b
 
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
 The  **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md#argument) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
->>>>>>> master
 For all arguments, cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
 
 ## Example
@@ -70,11 +52,7 @@ PayType = MsgBox("Do you make payments at the end of month?", vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 PVal = InputBox("How much is in this savings account now?")
 FVal = FV(APR / 12, TotPmts, -Payment, -PVal, PayType)
-<<<<<<< HEAD
-MsgBox "Your savings will be worth " &; Format(FVal, Fmt) &; "."
-=======
 MsgBox "Your savings will be worth " & Format(FVal, Fmt) & "."
->>>>>>> master
 ```
 
 

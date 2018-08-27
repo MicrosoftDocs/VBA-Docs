@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # For Each...Next Statement
 
-<<<<<<< HEAD
-Repeats a group of [statements](../../Glossary/vbe-glossary.md) for each element in an[array](../../Glossary/vbe-glossary.md) or[collection](../../Glossary/vbe-glossary.md).
-
- **Syntax**
-
- **For** **Each**_element_**In**_group_
-=======
 Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) for each element in an[array](../../Glossary/vbe-glossary.md#array) or[collection](../../Glossary/vbe-glossary.md#collection).
 
 ## Syntax
 
 **For** **Each**_element_**In**_group_
->>>>>>> master
  [ _statements_ ]
  [ **Exit For** ]
  [ _statements_ ]
@@ -34,20 +26,12 @@ The  **For...Each...Next** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _element_|Required. [Variable](../../Glossary/vbe-glossary.md) used to iterate through the elements of the collection or array. For collections, _element_ can only be a[Variant](../../Glossary/vbe-glossary.md) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
-| _group_|Required. Name of an object collection or array (except an array of [user-defined types](../../Glossary/vbe-glossary.md)).|
-| _statements_|Optional. One or more statements that are executed on each item in  _group_.|
-
- **Remarks**
-=======
 | _element_|Required. [Variable](../../Glossary/vbe-glossary.md#variable) used to iterate through the elements of the collection or array. For collections, _element_ can only be a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
 | _group_|Required. Name of an object collection or array (except an array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)).|
 | _statements_|Optional. One or more statements that are executed on each item in  _group_.|
 
 ## Remarks
 
->>>>>>> master
 The  **For…Each** block is entered if there is at least one element in _group_. Once the loop has been entered, all the statements in the loop are executed for the first element in _group_. If there are more elements in _group_, the statements in the loop continue to execute for each element. When there are no more elements in _group_, the loop is exited and execution continues with the statement following the **Next** statement.
 Any number of  **Exit For** statements may be placed anywhere in the loop as an alternative way to exit. **Exit For** is often used after evaluating some condition, for example **If…Then**, and transfers control to the statement immediately following **Next**.
 You can nest  **For...Each...Next** loops by placing one **For…Each…Next** loop within another. However, each loop _element_ must be unique.

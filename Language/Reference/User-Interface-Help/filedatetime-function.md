@@ -14,17 +14,11 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) that indicates the date and time when a file was created or last modified.
-<<<<<<< HEAD
- **Syntax**
- **FileDateTime(**_pathname_**)**
-The required  _pathname_[argument](../../Glossary/vbe-glossary.md) is a[string expression](../../Glossary/vbe-glossary.md) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
-=======
 
 ## Syntax
 
 **FileDateTime(**_pathname_**)**
 The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
->>>>>>> master
 
 ## Example
 

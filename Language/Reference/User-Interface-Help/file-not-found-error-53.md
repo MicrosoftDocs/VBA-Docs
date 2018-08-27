@@ -17,19 +17,11 @@ The file was not found where specified. This error has the following causes and 
 
 - A statement, for example,  **Kill**, **Name**, or **Open**, refers to a file that doesn't exist. Check the spelling of the file name and the path specification.
     
-<<<<<<< HEAD
-- An attempt has been made to call a procedure in a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md), but the library or resource file name specified in the  **Lib** clause of the **Declare** statement can't be found.
-    
-    Check the spelling of the file name and the path specification.
-    
-- In the development environment, this error occurs if you attempt to open a [project](../../Glossary/vbe-glossary.md) or load a text file that doesn't exist.
-=======
 - An attempt has been made to call a procedure in a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), but the library or resource file name specified in the  **Lib** clause of the **Declare** statement can't be found.
     
     Check the spelling of the file name and the path specification.
     
 - In the development environment, this error occurs if you attempt to open a [project](../../Glossary/vbe-glossary.md#project) or load a text file that doesn't exist.
->>>>>>> master
     
     Check the spelling of the project name or file name and the path specification.
     
