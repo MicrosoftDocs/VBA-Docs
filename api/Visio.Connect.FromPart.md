@@ -123,21 +123,13 @@ Public Sub FromPart_Example()
  ElseIf intFromData = visEnd Then 
  strFrom = "end" 
  ElseIf intFromData >= visControlPoint Then 
-<<<<<<< HEAD
- strFrom = "controlPt_" &; _ 
-=======
  strFrom = "controlPt_" & _ 
->>>>>>> master
  Str(intFromData - visControlPoint + 1) 
  Else 
  strFrom = "???" 
  End If 
  
-<<<<<<< HEAD
- Debug.Print vsoConnectFrom.Name &; " " &; strFrom 
-=======
  Debug.Print vsoConnectFrom.Name & " " & strFrom 
->>>>>>> master
  
  Next intCounter 
  

@@ -71,11 +71,7 @@ Sub CustomMenusFile_Example()
  Set vsoUIObject = Visio.Application.CustomMenus 
  
  'Save these custom menus to a file. 
-<<<<<<< HEAD
- strPath = Visio.Application.Path &; "\CustomUI.vsu" 
-=======
  strPath = Visio.Application.Path & "\CustomUI.vsu" 
->>>>>>> master
  vsoUIObject.SaveToFile (strPath) 
  
  'Set the document to use the existing custom UI. 
@@ -85,11 +81,7 @@ Sub CustomMenusFile_Example()
  Set vsoUIObject = ThisDocument.CustomMenus 
  
  'Delete the newly created temp file. 
-<<<<<<< HEAD
- Kill Visio.Application.Path &; "\CustomUI.vsu" 
-=======
  Kill Visio.Application.Path & "\CustomUI.vsu" 
->>>>>>> master
  ThisDocument.ClearCustomMenus 
  MsgBox "Using Custom Menus", 0 
  

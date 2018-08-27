@@ -48,11 +48,7 @@ With ActiveDocument.Pages(5).ReaderSpread
  If .PageCount > 1 Then 
  Set pageTemp = .Pages(Index:=2) 
  MsgBox "The page number of the second page " _ 
-<<<<<<< HEAD
- &; "in the spread is " &; pageTemp.PageNumber 
-=======
  & "in the spread is " & pageTemp.PageNumber 
->>>>>>> master
  Else 
  MsgBox "The spread has only one page." 
  End If 

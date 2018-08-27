@@ -67,13 +67,8 @@ Sub ValidateZip()
  'Specify the comment attached to the record explaining 
  'why the record was excluded from the mail merge 
  .InvalidComments = "The ZIP code for this record is " _ 
-<<<<<<< HEAD
- &; "less than ten digits. It will be removed " _ 
- &; "from the mail merge process." 
-=======
  & "less than ten digits. It will be removed " _ 
  & "from the mail merge process." 
->>>>>>> master
  
  End If 
  

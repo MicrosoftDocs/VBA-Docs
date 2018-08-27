@@ -52,15 +52,9 @@ For Each pgLoop In ActiveDocument.Pages
  
  With shpLoop.PictureFormat 
  
-<<<<<<< HEAD
- Debug.Print "File Name: " &; .Filename 
- Debug.Print "Resolution in Publication: " &; .EffectiveResolution &; " dpi" 
- Debug.Print "Original Resolution: " &; .OriginalResolution &; " dpi" 
-=======
  Debug.Print "File Name: " & .Filename 
  Debug.Print "Resolution in Publication: " & .EffectiveResolution & " dpi" 
  Debug.Print "Original Resolution: " & .OriginalResolution & " dpi" 
->>>>>>> master
  
  End With 
  End If 

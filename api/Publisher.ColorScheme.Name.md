@@ -37,11 +37,7 @@ This example reports the name of the color scheme for the active publication.
 
 ```vb
 MsgBox "The current color scheme is " _ 
-<<<<<<< HEAD
- &; ActiveDocument.ColorScheme.Name &; "."
-=======
  & ActiveDocument.ColorScheme.Name & "."
->>>>>>> master
 ```
 
 

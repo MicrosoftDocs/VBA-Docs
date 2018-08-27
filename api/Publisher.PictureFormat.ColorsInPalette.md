@@ -51,11 +51,7 @@ For Each pgLoop In ActiveDocument.Pages
  If .IsTrueColor = msoTrue Then 
  Debug.Print "This picture is TrueColor" 
  Else 
-<<<<<<< HEAD
- Debug.Print "This picture contains " &; .ColorsInPalette &; " colors." 
-=======
  Debug.Print "This picture contains " & .ColorsInPalette & " colors." 
->>>>>>> master
  End If 
  End If 
  End With 

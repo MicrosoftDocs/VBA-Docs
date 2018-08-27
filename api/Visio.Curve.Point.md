@@ -68,42 +68,21 @@ Sub Point_Example()
  'Iterate through the Path objects in the Paths collection. 
  For intOuterLoopCounter = 1 To vsoPaths.Count 
  Set vsoPath = vsoPaths.Item(intOuterLoopCounter) 
-<<<<<<< HEAD
- Debug.Print "Path object " &; intOuterLoopCounter 
-=======
  Debug.Print "Path object " & intOuterLoopCounter 
->>>>>>> master
  
  'Iterate through the curves in the Path object. 
  For intInnerLoopCounter = 1 To vsoPath.Count 
  
  Set vsoCurve = vsoPath(intInnerLoopCounter) 
-<<<<<<< HEAD
- Debug.Print "Curve number " &; intInnerLoopCounter 
- 
- 'Display the endpoint of the curve 
- dblEndpoint = vsoCurve.End 
- Debug.Print "Endpoint= " &; dblEndpoint 
-=======
  Debug.Print "Curve number " & intInnerLoopCounter 
  
  'Display the endpoint of the curve 
  dblEndpoint = vsoCurve.End 
  Debug.Print "Endpoint= " & dblEndpoint 
->>>>>>> master
  
  'Use the Point method to determine the 
  'coordinates of an arbitrary point on the curve 
  vsoCurve.Point (dblEndpoint/2), dblXCoordinate, dblYCoordinate 
-<<<<<<< HEAD
- Debug.Print "Point= " &; dblXCoordinate, dblYCoordinate 
- 
- Next intInnerLoopCounter 
- Debug.Print "This path has " &; intInnerLoopCounter - 1 &; " curve object(s)." 
- 
- Next intOuterLoopCounter 
- Debug.Print "This shape has " &; intOuterLoopCounter - 1 &; " path object(s)." 
-=======
  Debug.Print "Point= " & dblXCoordinate, dblYCoordinate 
  
  Next intInnerLoopCounter 
@@ -111,7 +90,6 @@ Sub Point_Example()
  
  Next intOuterLoopCounter 
  Debug.Print "This shape has " & intOuterLoopCounter - 1 & " path object(s)." 
->>>>>>> master
  
 End Sub
 ```

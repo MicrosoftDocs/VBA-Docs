@@ -37,19 +37,11 @@ The following example diplays for each page whether the page is a trailing or le
 Dim objPage As Page 
 Dim strPageInfo As String 
 For Each objPage In ActiveDocument.Pages 
-<<<<<<< HEAD
- strPageInfo = "Page number " &; objPage.PageNumber 
- If objPage.IsLeading Then 
- strPageInfo = strPageInfo &; " is a leading page." &; Chr(13) 
- ElseIf objPage.IsTrailing Then 
- strPageInfo = strPageInfo &; " is a trailing page." &; Chr(13) 
-=======
  strPageInfo = "Page number " & objPage.PageNumber 
  If objPage.IsLeading Then 
  strPageInfo = strPageInfo & " is a leading page." & Chr(13) 
  ElseIf objPage.IsTrailing Then 
  strPageInfo = strPageInfo & " is a trailing page." & Chr(13) 
->>>>>>> master
  End If 
  MsgBox strPageInfo 
 Next objPage

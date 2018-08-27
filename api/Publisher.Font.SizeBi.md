@@ -43,11 +43,7 @@ Sub SizeBiIfBig()
  If .SizeBi > 12 And .ItalicBi = msoTrue Then 
  .BoldBi = msoTrue 
  Else 
-<<<<<<< HEAD
- MsgBox "The font size is 12 points or less " &; _ 
-=======
  MsgBox "The font size is 12 points or less " & _ 
->>>>>>> master
  ", not bold, or this is not in a right-to-left language." 
  End If 
  End With 

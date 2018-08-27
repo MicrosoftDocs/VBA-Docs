@@ -94,11 +94,7 @@ Implements Visio.IVisEventProc
  
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
-<<<<<<< HEAD
-Private Const visEvtAdd% = &;H8000 
-=======
 Private Const visEvtAdd% = &H8000 
->>>>>>> master
  
 Private Function IVisEventProc_VisEventProc( _ 
  ByVal nEventCode As Integer, _ 
@@ -114,15 +110,6 @@ Private Function IVisEventProc_VisEventProc( _
  'Find out which event fired 
  Select Case nEventCode 
  Case visEvtCodeDocSave 
-<<<<<<< HEAD
- strMessage = "DocumentSaved (" &; nEventCode &; ")" 
- Case (visEvtPage + visEvtAdd) 
- strMessage = "PageAdded (" &; nEventCode &; ")" 
- Case visEvtCodeShapeDelete 
- strMessage = "ShapesDeleted(" &; nEventCode &; ")" 
- Case Else 
- strMessage = "Other (" &; nEventCode &; ")" 
-=======
  strMessage = "DocumentSaved (" & nEventCode & ")" 
  Case (visEvtPage + visEvtAdd) 
  strMessage = "PageAdded (" & nEventCode & ")" 
@@ -130,7 +117,6 @@ Private Function IVisEventProc_VisEventProc( _
  strMessage = "ShapesDeleted(" & nEventCode & ")" 
  Case Else 
  strMessage = "Other (" & nEventCode & ")" 
->>>>>>> master
  End Select 
  
  

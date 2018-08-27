@@ -36,13 +36,8 @@ This example applies bold formatting to the first field in the selection. This e
 ```vb
 Sub GetFieldResults() 
  If Selection.TextRange.Fields.Count > 0 Then 
-<<<<<<< HEAD
- MsgBox "The result of the first field is " &; _ 
- Selection.TextRange.Fields(1).Result &; "." 
-=======
  MsgBox "The result of the first field is " & _ 
  Selection.TextRange.Fields(1).Result & "." 
->>>>>>> master
  End If 
 End Sub
 ```

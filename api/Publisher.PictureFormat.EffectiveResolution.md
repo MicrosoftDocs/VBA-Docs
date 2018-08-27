@@ -54,13 +54,8 @@ Sub ListLowResolutionPictures()
  If .IsEmpty = msoFalse Then 
  If .EffectiveResolution < 100 Then 
  Debug.Print .Filename 
-<<<<<<< HEAD
- Debug.Print "Page " &; pgLoop.PageNumber 
- Debug.Print "Resolution in publication: " &; .EffectiveResolution 
-=======
  Debug.Print "Page " & pgLoop.PageNumber 
  Debug.Print "Resolution in publication: " & .EffectiveResolution 
->>>>>>> master
  End If 
  End If 
  End With 

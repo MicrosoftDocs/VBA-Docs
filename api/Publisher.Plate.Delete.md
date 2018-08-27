@@ -67,11 +67,7 @@ With ActiveDocument.Plates
  For intCount = .Count To 1 Step -1 
  With .Item(intCount) 
  If .InUse = False Then 
-<<<<<<< HEAD
- Debug.Print "Name: " &; .Name 
-=======
  Debug.Print "Name: " & .Name 
->>>>>>> master
  .Delete 
  End If 
  End With 

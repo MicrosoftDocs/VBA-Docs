@@ -56,11 +56,7 @@ Sub ItalicRtoL()
  If .ItalicBi = msoTrue Then 
  MsgBox "This story is right-to-left and is formatted as italic." 
  Else 
-<<<<<<< HEAD
- MsgBox "This story is either not right-to-left" &; _ 
-=======
  MsgBox "This story is either not right-to-left" & _ 
->>>>>>> master
  " or it is not formatted as italic" 
  End If 
  End With 

@@ -60,17 +60,10 @@ Do While True
  If Val(strInput) = 0 Then Exit Do 
  
  ' Evaluate and display result. 
-<<<<<<< HEAD
- strOutput = Trim(strInput) &; " points = " _ 
- &; Format(Application _ 
- .PointsToEmus(Value:=Val(strInput)), _ 
- "0.00") &; " emus" 
-=======
  strOutput = Trim(strInput) & " points = " _ 
  & Format(Application _ 
  .PointsToEmus(Value:=Val(strInput)), _ 
  "0.00") & " emus" 
->>>>>>> master
  
  MsgBox strOutput 
 Loop 
