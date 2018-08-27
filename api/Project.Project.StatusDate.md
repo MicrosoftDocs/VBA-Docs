@@ -36,25 +36,15 @@ Sub SpreadPercentComplete()
  If .StatusDate = "NA" And .SpreadPercentCompleteToStatusDate Then 
  NewStatus = InputBox("Enter a status date for the project: ") 
  .StatusDate = NewStatus 
-<<<<<<< HEAD
- MsgBox "The status date was set to " &; .StatusDate &; "." 
- ElseIf .SpreadPercentCompleteToStatusDate = False Then 
- AskToSpread = MsgBox("Should changes to total task percent complete" &; _ 
-=======
  MsgBox "The status date was set to " & .StatusDate & "." 
  ElseIf .SpreadPercentCompleteToStatusDate = False Then 
  AskToSpread = MsgBox("Should changes to total task percent complete" & _ 
->>>>>>> master
  " be spread to a status date?", vbYesNo) 
  If AskToSpread = vbYes Then 
  NewStatus = InputBox("Enter a status date for the project: ") 
  .StatusDate = NewStatus 
  .SpreadPercentCompleteToStatusDate = True 
-<<<<<<< HEAD
- MsgBox "The status date was set to " &; .StatusDate &; "." 
-=======
  MsgBox "The status date was set to " & .StatusDate & "." 
->>>>>>> master
  End If 
  End If 
  End With 

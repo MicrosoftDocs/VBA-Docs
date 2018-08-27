@@ -37,11 +37,7 @@ Sub SeeAllReports()
  Dim ReportNames As String 
  
  For Each Temp In ActiveProject.ReportList 
-<<<<<<< HEAD
- ReportNames = ReportNames &; vbCrLf &; Temp 
-=======
  ReportNames = ReportNames & vbCrLf & Temp 
->>>>>>> master
  Next Temp 
  
  MsgBox ReportNames 

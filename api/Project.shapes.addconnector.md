@@ -70,11 +70,7 @@ Sub ConnectClouds()
         
     With connectorShape
         .Line.Weight = 2
-<<<<<<< HEAD
-        .Line.ForeColor.RGB = &;HAAFF00
-=======
         .Line.ForeColor.RGB = &HAAFF00
->>>>>>> master
     End With
 End Sub
 ```

@@ -40,21 +40,12 @@ Sub CountLateTasks()
  If t.BaselineStart < ActiveProject.CurrentDate And t.StartVariance > 0 Then 
  numLateTasks = numLateTasks + 1 
  daysLate = Round(t.StartVariance / 1440, 1) 
-<<<<<<< HEAD
- lateTasks = lateTasks &; vbCrLf &; vbTab &; t.Name _ 
- &; ": " &; daysLate &; " days" 
- End If 
- Next t 
- 
- MsgBox "There are " &; numLateTasks &; " late tasks in this project: " &; lateTasks 
-=======
  lateTasks = lateTasks & vbCrLf & vbTab & t.Name _ 
  & ": " & daysLate & " days" 
  End If 
  Next t 
  
  MsgBox "There are " & numLateTasks & " late tasks in this project: " & lateTasks 
->>>>>>> master
  
 End Sub
 ```

@@ -32,11 +32,7 @@ Sub FormatSideWall()
     reportName = "Simple 3-D chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
     
-<<<<<<< HEAD
-    chartShape.Chart.SideWall.Fill.ForeColor.RGB = &;HFF0000
-=======
     chartShape.Chart.SideWall.Fill.ForeColor.RGB = &HFF0000
->>>>>>> master
 End Sub
 ```
 

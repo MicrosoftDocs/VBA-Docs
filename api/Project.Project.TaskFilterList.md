@@ -32,11 +32,7 @@ Sub SeeAllFilters()
  Dim TaskFilterNames As String 
  
  For Each Temp In ActiveProject.TaskFilterList 
-<<<<<<< HEAD
- TaskFilterNames = TaskFilterNames &; vbCrLf &; Temp 
-=======
  TaskFilterNames = TaskFilterNames & vbCrLf & Temp 
->>>>>>> master
  Next Temp 
  
  MsgBox TaskFilterNames 

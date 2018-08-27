@@ -60,11 +60,7 @@ Sub ImportXMLProject()
     Set fsObject = CreateObject("Scripting.FileSystemObject") 
  
     If Not fsObject.FileExists(fileName) Then 
-<<<<<<< HEAD
-        MsgBox "The file does not exist: " &; vbCrLf &; fileName 
-=======
         MsgBox "The file does not exist: " & vbCrLf & fileName 
->>>>>>> master
     Else 
         ' Open a text stream. 
         Set txtStream = fsObject.OpenTextFile(fileName:=fileName, IOMode:=ForReading) 

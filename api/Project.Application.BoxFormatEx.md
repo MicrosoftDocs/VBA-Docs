@@ -67,11 +67,7 @@ Sub BoxFormat_Color()
 
     BoxFormatEx TaskID:="2", bordershape:=pjBoxRoundedRectangle, VerticalGridlines:=False, _
         BorderWidth:=3, backgroundpattern:=pjBackgroundLightDither, _
-<<<<<<< HEAD
-        BackgroundColor:=&;HFF0000, BorderColor:=&;HFF
-=======
         BackgroundColor:=&HFF0000, BorderColor:=&HFF
->>>>>>> master
 End Sub
 ```
 

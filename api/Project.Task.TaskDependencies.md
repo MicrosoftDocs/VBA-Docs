@@ -36,11 +36,7 @@ Sub FindHighPriPreds()
  
  For Each TaskDep In ActiveProject.Tasks("Write Requirements Brief").TaskDependencies 
  If TaskDep.From.Priority > 500 Then 
-<<<<<<< HEAD
- MsgBox "Task #" &; TaskDep.From.ID &; " (" &; TaskDep.From.Name &; ") " &; _ 
-=======
  MsgBox "Task #" & TaskDep.From.ID & " (" & TaskDep.From.Name & ") " & _ 
->>>>>>> master
  "has a priority higher than medium." 
  End If 
  Next TaskDep 

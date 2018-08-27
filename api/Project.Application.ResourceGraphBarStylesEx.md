@@ -72,11 +72,7 @@ The following line of code sets proposed resources in the Resource Graph view as
 
 
 ```vb
-<<<<<<< HEAD
-Application.ResourceGraphBarStylesEx ProposedRightShowAs:=pjStepLine, ProposedRightColor:=&;HD0FF00 
-=======
 Application.ResourceGraphBarStylesEx ProposedRightShowAs:=pjStepLine, ProposedRightColor:=&HD0FF00 
->>>>>>> master
 
 ```
 

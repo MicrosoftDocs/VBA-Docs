@@ -60,15 +60,9 @@ The following example formats monthly titles in red for printing.
 Sub File_PageSetupCalendarText() 
  
     'Activate the Calandar view. 
-<<<<<<< HEAD
-    ViewApply Name:="&;Calendar" 
- 
-    FilePageSetupCalendarTextEx Item:=pjMonthlyTitles, Color:=&;0101FF 
-=======
     ViewApply Name:="&Calendar" 
  
     FilePageSetupCalendarTextEx Item:=pjMonthlyTitles, Color:=&0101FF 
->>>>>>> master
     FilePrint 
 End Sub
 ```

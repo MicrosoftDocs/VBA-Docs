@@ -35,27 +35,16 @@ Sub PriceOfOvertime()
  If Not (T Is Nothing) Then 
  If T.ActualOvertimeWork <> 0 Then 
  Price = Price + T.ActualOvertimeCost 
-<<<<<<< HEAD
- Breakdown = Breakdown &; T.Name &; ": " &; _ 
- ActiveProject.CurrencySymbol &; _ 
- T.ActualOvertimeCost &; vbCrLf 
-=======
  Breakdown = Breakdown & T.Name & ": " & _ 
  ActiveProject.CurrencySymbol & _ 
  T.ActualOvertimeCost & vbCrLf 
->>>>>>> master
  End If 
  End If 
  Next T 
  
  If Breakdown <> "" Then 
-<<<<<<< HEAD
- MsgBox Breakdown &; vbCrLf &; "Total: " &; _ 
- ActiveProject.CurrencySymbol &; Price 
-=======
  MsgBox Breakdown & vbCrLf & "Total: " & _ 
  ActiveProject.CurrencySymbol & Price 
->>>>>>> master
  End If 
  
 End Sub

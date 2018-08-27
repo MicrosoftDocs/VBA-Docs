@@ -45,11 +45,7 @@ Sub DeleteResourcesInGroup()
  Next R 
  
  ' Display the number of resources that were deleted. 
-<<<<<<< HEAD
- MsgBox(Deletions &; " resources were deleted.") 
-=======
  MsgBox(Deletions & " resources were deleted.") 
->>>>>>> master
  
 End Sub
 ```

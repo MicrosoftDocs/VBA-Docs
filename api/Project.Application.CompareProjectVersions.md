@@ -46,11 +46,7 @@ Sub CompareVersions ()
  
     ElseIf ActiveProject.Tasks.Count = 0 Then 
         If ActiveProject.ResourceCount = 0 Then 
-<<<<<<< HEAD
-            MsgBox "There are no task or resources in the current project." &; vbCrLf &; _ 
-=======
             MsgBox "There are no task or resources in the current project." & vbCrLf & _ 
->>>>>>> master
                 "Open a project with either tasks or resources before creating a comparison report.", _ 
                 vbInformation 
             Exit Sub 

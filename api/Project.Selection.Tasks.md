@@ -31,11 +31,7 @@ Sub TaskNames()
  Dim T As Task, Names As String 
  
  For Each T In ActiveSelection.Tasks 
-<<<<<<< HEAD
- Names = Names &; T.Name &; vbCrLf 
-=======
  Names = Names & T.Name & vbCrLf 
->>>>>>> master
  Next T 
  
  MsgBox Names 

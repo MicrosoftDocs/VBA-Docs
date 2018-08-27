@@ -32,11 +32,7 @@ The following line of code prints  `Open in Backstage: True` in the **Immediate*
 
 
 ```vb
-<<<<<<< HEAD
-Debug.Print "Open in Backstage: " &; Application.FileOpenUsingBackstage()
-=======
 Debug.Print "Open in Backstage: " & Application.FileOpenUsingBackstage()
->>>>>>> master
 ```
 
 

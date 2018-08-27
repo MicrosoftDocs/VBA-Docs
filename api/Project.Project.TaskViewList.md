@@ -35,11 +35,7 @@ Sub SeeAllViews()
  Dim TaskViewNames As String 
  
  For Each Temp In ActiveProject.TaskViewList 
-<<<<<<< HEAD
- TaskViewNames = TaskViewNames &; vbCrLf &; Temp 
-=======
  TaskViewNames = TaskViewNames & vbCrLf & Temp 
->>>>>>> master
  Next Temp 
  
  MsgBox TaskViewNames 

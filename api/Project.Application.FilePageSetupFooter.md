@@ -84,11 +84,7 @@ Sub SetLegend()
  Dim strLegend As String 
  
  strLegend = GetFontFormatCode("Arial") 
-<<<<<<< HEAD
- strLegend = strLegend &; "&;BThis text will appear in the legend.&;B" 
-=======
  strLegend = strLegend & "&BThis text will appear in the legend.&B" 
->>>>>>> master
  
  Application.FilePageSetupLegend Text:=strLegend, _ 
  Alignment:=pjCenter, LegendOn:=pjOnEveryPage 
@@ -96,11 +92,7 @@ End Sub
  
 Public Function GetFontFormatCode(strFontName As String) As String 
  
-<<<<<<< HEAD
- GetFontFormatCode = "&;" &; Chr(34) &; strFontName &; Chr(34) 
-=======
  GetFontFormatCode = "&" & Chr(34) & strFontName & Chr(34) 
->>>>>>> master
 End Function
 ```
 

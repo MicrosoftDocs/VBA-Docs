@@ -135,11 +135,7 @@ Sub TestGetChartElements()
     
     chartShape.Chart.GetChartElement x, y, idNum, a, b
     
-<<<<<<< HEAD
-    Debug.Print "idNum: " &; idNum &; ", a: " &; a &; ", b: " &; b
-=======
     Debug.Print "idNum: " & idNum & ", a: " & a & ", b: " & b
->>>>>>> master
 End Sub
 ```
 
