@@ -7,43 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Range.Text
 ms.assetid: e38c15b1-5941-0a28-1acf-328bc214a2e0
-<<<<<<< HEAD
-ms.date: 06/08/2017
-=======
 ms.date: 08/24/2018
->>>>>>> master
 ---
 
 
 # Range.Text Property (Excel)
 
-<<<<<<< HEAD
-Returns or sets the text for the specified object. Read-only  **String** .
-=======
 Returns the formatted text for the specified object. Read-only **String** .
->>>>>>> master
 
 
 ## Syntax
 
  _expression_. `Text`
 
-<<<<<<< HEAD
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
-
-
-## Example
-
-This example illustrates the difference between the  **Text** and **Value** properties of cells that contain formatted numbers.
-
-
-```vb
-Set c = Worksheets("Sheet1").Range("B14") 
-c.Value = 1198.3 
-c.NumberFormat = "$#,##0_);($#,##0)" 
-MsgBox c.Value 
-MsgBox c.Text
-=======
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
@@ -63,16 +39,10 @@ c.NumberFormat = "$#,##0_);($#,##0)" 	c.Value = 1198.3
 MsgBox c.Value 	c.NumberFormat = "$#,##0_);($#,##0)"
 MsgBox c.Text	MsgBox c.Value & " is the value." 'Returns "1198.3 is the value."
 MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
->>>>>>> master
 ```
 
 
 ## See also
 
-<<<<<<< HEAD
-
-[Range Object](Excel.Range(object).md)
-=======
 - [Range Object](Excel.Range(object).md)
->>>>>>> master
 
