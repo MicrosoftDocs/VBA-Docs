@@ -13,34 +13,21 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns [String](../../Glossary/vbe-glossary.md) containing characters from a file opened in **Input** or **Binary** mode.
- **Syntax**
- **Input(**_number_, [ **#** ] _filenumber_ )
-=======
 Returns [String](../../Glossary/vbe-glossary.md#string-data-type) containing characters from a file opened in **Input** or **Binary** mode.
 
 ## Syntax
 
 **Input(**_number_, [ **#** ] _filenumber_ )
->>>>>>> master
 The  **Input** function syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md) specifying the number of characters to return.|
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
-
- **Remarks**
-=======
 | _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) specifying the number of characters to return.|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 
 ## Remarks
 
->>>>>>> master
 Data read with the  **Input** function is usually written to a file with **Print #** or **Put**. Use this function only with files opened in **Input** or **Binary** mode.
 Unlike the  **Input #** statement, the **Input** function returns all of the characters it reads, including commas, carriage returns, linefeeds, quotation marks, and leading spaces.
 With files opened for  **Binary** access, an attempt to read through the file using the **Input** function until **EOF** returns **True** generates an error. Use the **LOF** and **Loc** functions instead of **EOF** when reading binary files with **Input**, or use **Get** when using the **EOF** function.

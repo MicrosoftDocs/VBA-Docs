@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns  **True** if the specified folder is the root folder; **False** if it is not.
-<<<<<<< HEAD
- **Syntax**
- _object_. **IsRootFolder**
-The  _object_ is always a **Folder** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,7 +25,6 @@ The  _object_ is always a **Folder** object.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates the use of the  **IsRootFolder** property:
 
 
@@ -49,11 +42,7 @@ Sub DisplayLevelDepth(pathspec)
             Set f = f.ParentFolder
             n = n + 1
         Loop
-<<<<<<< HEAD
-        MsgBox "The specified folder is nested " &; n &; " levels deep."
-=======
         MsgBox "The specified folder is nested " & n & " levels deep."
->>>>>>> master
     End If
 End Sub
 ```

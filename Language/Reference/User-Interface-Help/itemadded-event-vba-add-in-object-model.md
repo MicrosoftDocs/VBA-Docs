@@ -14,12 +14,6 @@ ms.date: 06/08/2017
 
 
 Occurs after a reference is added.
-<<<<<<< HEAD
- **Syntax**
- **Sub**_object_**_ItemAdded(ByVal**_item_**As Reference)**
-The required  _item_[argument](../../Glossary/vbe-glossary.md) specifies the item that was added.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -28,6 +22,5 @@ The required  _item_[argument](../../Glossary/vbe-glossary.md#argument) specifie
 
 ## Remarks
 
->>>>>>> master
 The ItemAdded event occurs when a  **Reference** is added to the **References** collection.
 

@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid property value (Error 380) [2 of 2]
 
-<<<<<<< HEAD
-An inappropriate value is assigned to a [property](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
-=======
 An inappropriate value is assigned to a [property](../../Glossary/vbe-glossary.md#property). This error has the following cause and solution:
->>>>>>> master
 
 
 

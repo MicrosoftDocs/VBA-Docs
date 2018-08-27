@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid picture (Error 481) [2 of 2]
 
-<<<<<<< HEAD
-Only a picture can be assigned to the  **Picture**[property](../../Glossary/vbe-glossary.md) or **Picture** object. This error has the following cause and solution:
-=======
 Only a picture can be assigned to the  **Picture**[property](../../Glossary/vbe-glossary.md#property) or **Picture** object. This error has the following cause and solution:
->>>>>>> master
 
 
 

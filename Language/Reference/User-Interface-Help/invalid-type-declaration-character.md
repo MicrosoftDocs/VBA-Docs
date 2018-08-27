@@ -11,30 +11,18 @@ ms.date: 06/08/2017
 
 # Invalid type-declaration character
 
-<<<<<<< HEAD
-[Type-declaration characters](../../Glossary/vbe-glossary.md) are valid, but don't exist for all[data types](../../Glossary/vbe-glossary.md); they aren't permitted in some situations. This error has the following causes and solutions:
-
-
-
-- A type-declaration character is appended to a [variable](../../Glossary/vbe-glossary.md) declared in a **Private**, **Public**, or **Static** statement with an **As** clause.
-=======
 [Type-declaration characters](../../Glossary/vbe-glossary.md#type-declaration-character) are valid, but don't exist for all[data types](../../Glossary/vbe-glossary.md#data-type); they aren't permitted in some situations. This error has the following causes and solutions:
 
 
 
 - A type-declaration character is appended to a [variable](../../Glossary/vbe-glossary.md#variable) declared in a **Private**, **Public**, or **Static** statement with an **As** clause.
->>>>>>> master
     
     Remove the type-declaration character.
     
 - A type-declaration character is appended to an inconsistent literal. For example, since the ampersand (**&;**) is the type-declaration character for a **Long** integer, appending it to a literal of a different type causes this error:
     
   ```vb
-<<<<<<< HEAD
-  10.253&; 
-=======
   10.253& 
->>>>>>> master
 
   ```
 
