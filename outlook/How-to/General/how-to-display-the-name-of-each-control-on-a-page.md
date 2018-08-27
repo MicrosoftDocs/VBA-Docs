@@ -21,11 +21,7 @@ To use this example, copy this sample code to the Script Editor of a form. Make 
 Sub CommandButton1_Click() 
  Set Controls = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls 
  For i = 0 to Controls.Count - 1 
-<<<<<<< HEAD
- MsgBox "MyControl.Name = " &; Controls.Item(i).Name 
-=======
  MsgBox "MyControl.Name = " & Controls.Item(i).Name 
->>>>>>> master
  Next 
 End Sub
 ```

@@ -25,13 +25,8 @@ is the return character.
 
 
 ```vb
-<<<<<<< HEAD
-MessageString = "This letter is sent to " &; Item.To &; Chr(13) 
-MessageString = MessageString &; "second line goes here" 
-=======
 MessageString = "This letter is sent to " & Item.To & Chr(13) 
 MessageString = MessageString & "second line goes here" 
->>>>>>> master
 Item.Body = MessageString
 ```
 

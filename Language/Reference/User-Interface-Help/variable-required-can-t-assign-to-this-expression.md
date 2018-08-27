@@ -29,19 +29,11 @@ This error typically occurs when you attempt to assign a value to something that
     
 - You tried to use a nonvariable as a loop counter in a  **For...Next** construction. Use a variable as the counter.
     
-<<<<<<< HEAD
-- You tried to assign a value to a read-only [property](../../Glossary/vbe-glossary.md) or to an expression that consists of more than one variable (such as X + Y). An assignment places a value at a memory location. The specified expression must represent a single, writable location.
-    
-    Rewrite the assignment to a single variable name that can accept the data.
-    
-- You tried to use an undeclared variable that is defined as a constant in a [type library](../../Glossary/vbe-glossary.md).
-=======
 - You tried to assign a value to a read-only [property](../../Glossary/vbe-glossary.md#property) or to an expression that consists of more than one variable (such as X + Y). An assignment places a value at a memory location. The specified expression must represent a single, writable location.
     
     Rewrite the assignment to a single variable name that can accept the data.
     
 - You tried to use an undeclared variable that is defined as a constant in a [type library](../../Glossary/vbe-glossary.md#type-library).
->>>>>>> master
     
     Either use a different name for the variable, or declare it explicitly.
     

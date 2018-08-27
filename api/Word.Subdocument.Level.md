@@ -32,13 +32,8 @@ This example looks through each subdocument in the active document and displays 
 i = 1 
 If ActiveDocument.Subdocuments.Count > = 1 Then 
  For each s in ActiveDocument.Subdocuments 
-<<<<<<< HEAD
- MsgBox "The heading level for SubDoc " &; i _ 
- &; " is " &; s.Level 
-=======
  MsgBox "The heading level for SubDoc " & i _ 
  & " is " & s.Level 
->>>>>>> master
  i = i + 1 
  Next s 
 Else 

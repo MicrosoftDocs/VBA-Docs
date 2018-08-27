@@ -51,11 +51,7 @@ If mySynInfo.MeaningCount <> 0 Then
  Case Else 
  pos = "other" 
  End Select 
-<<<<<<< HEAD
- MsgBox myList(i) &; " found as " &; pos 
-=======
  MsgBox myList(i) & " found as " & pos 
->>>>>>> master
  Next i 
 Else 
  MsgBox "There were no meanings found." 

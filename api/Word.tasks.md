@@ -24,11 +24,7 @@ If Tasks.Exists("Microsoft Excel") = True Then
  Tasks("Microsoft Excel").Activate 
  Tasks("Microsoft Excel").WindowState = wdWindowStateMaximize 
 Else 
-<<<<<<< HEAD
- Shell "C:\Program Files\" &; _ 
-=======
  Shell "C:\Program Files\" & _ 
->>>>>>> master
  "Microsoft Office\Office10\Excel.exe" 
 End If
 ```

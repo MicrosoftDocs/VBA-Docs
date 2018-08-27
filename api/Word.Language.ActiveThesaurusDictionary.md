@@ -42,13 +42,8 @@ Set dicThesaurus = Languages(lngLanguage).ActiveThesaurusDictionary
 If dicThesaurus Is Nothing Then 
  MsgBox "No thesaurus dictionary installed!" 
 Else 
-<<<<<<< HEAD
- MsgBox dicThesaurus.Path &; Application.PathSeparator _ 
- &; dicThesaurus.Name 
-=======
  MsgBox dicThesaurus.Path & Application.PathSeparator _ 
  & dicThesaurus.Name 
->>>>>>> master
 End If 
 
 ```

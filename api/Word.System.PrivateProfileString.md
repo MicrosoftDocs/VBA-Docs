@@ -67,11 +67,7 @@ This example displays the value of the EmailName entry from the Windows registry
 ```vb
 aName = System.PrivateProfileString("", _ 
  "HKEY_CURRENT_USER\Software\Microsoft\" _ 
-<<<<<<< HEAD
- &; "Windows\CurrentVersion\Internet Settings", "EmailName") 
-=======
  & "Windows\CurrentVersion\Internet Settings", "EmailName") 
->>>>>>> master
 MsgBox aName
 ```
 

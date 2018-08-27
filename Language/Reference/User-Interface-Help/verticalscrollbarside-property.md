@@ -37,11 +37,7 @@ The settings for  _fmVerticalScrollbarSide_ are:
 | _fmVerticalScrollbarSideRight_|0|Puts the scroll bar on the right side (default).|
 | _fmVerticalScrollBarSideLeft_|1|Puts the scroll bar on the left side.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The  **VerticalScrollBarSide** property is is particularly useful if the form will be used in an environment where reading occurs from right to left.
 

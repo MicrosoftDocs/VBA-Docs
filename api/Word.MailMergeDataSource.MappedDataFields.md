@@ -48,11 +48,7 @@ Sub MappedFields()
  
  'Insert heading paragraph for tabbed columns 
  docNew.Content.InsertAfter "Word Mapped Data Field" _ 
-<<<<<<< HEAD
- &; vbTab &; "Data Source Field" 
-=======
  & vbTab & "Data Source Field" 
->>>>>>> master
  
  Do 
  intCount = intCount + 1 
@@ -60,11 +56,7 @@ Sub MappedFields()
  'Insert Word mapped data field name and the 
  'corresponding data source field name 
  docNew.Content.InsertAfter .MappedDataFields( _ 
-<<<<<<< HEAD
- Index:=intCount).Name &; vbTab &; _ 
-=======
  Index:=intCount).Name & vbTab & _ 
->>>>>>> master
  .MappedDataFields(Index:=intCount) _ 
  .DataFieldName 
  

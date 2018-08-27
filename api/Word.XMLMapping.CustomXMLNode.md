@@ -35,13 +35,8 @@ Dim objNode As CustomXMLNode
 Dim objMap As XMLMapping 
  
 Set objCC = ActiveDocument.ContentControls.Add(wdContentControlText) 
-<<<<<<< HEAD
-Set objPart = ActiveDocument.CustomXMLParts.Add("<books><book>" &; _ 
- "<author></author><title></title><genre></genre><price></price>" &; _ 
-=======
 Set objPart = ActiveDocument.CustomXMLParts.Add("<books><book>" & _ 
  "<author></author><title></title><genre></genre><price></price>" & _ 
->>>>>>> master
  "<pub_date></pub_date><abstract></abstract></book></books>") 
  
 Set objMap = objCC.XMLMapping 

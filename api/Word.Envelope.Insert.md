@@ -67,17 +67,10 @@ This example adds a Size 10 envelope to the active document by using the address
 Sub InsertEnvelope() 
  Dim strAddr As String 
  Dim strReturnAddr As String 
-<<<<<<< HEAD
- strAddr = "Max Benson" &; vbCr &; "123 Skye St." _ 
- &; vbCr &; "OurTown, WA 98107" 
- strReturnAddr = "Paul Borm" &; vbCr &; "456 Erde Lane" _ 
- &; vbCr &; "OurTown, WA 98107" 
-=======
  strAddr = "Max Benson" & vbCr & "123 Skye St." _ 
  & vbCr & "OurTown, WA 98107" 
  strReturnAddr = "Paul Borm" & vbCr & "456 Erde Lane" _ 
  & vbCr & "OurTown, WA 98107" 
->>>>>>> master
  ActiveDocument.Envelope.Insert Address:=strAddr, _ 
  ReturnAddress:=strReturnAddr, Size:="Size 10" 
 End Sub

@@ -65,11 +65,7 @@ Sub CountCells()
  Set tblNew = ActiveDocument.Tables(1) 
  Set rowNew = tblNew.Rows.Add(BeforeRow:=tblNew.Rows(1)) 
  For Each celTable In rowNew.Cells 
-<<<<<<< HEAD
- celTable.Range.InsertAfter Text:="Cell " &; intCount 
-=======
  celTable.Range.InsertAfter Text:="Cell " & intCount 
->>>>>>> master
  intCount = intCount + 1 
  Next celTable 
 End Sub

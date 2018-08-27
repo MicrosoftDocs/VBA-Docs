@@ -32,11 +32,7 @@ This example extends the selection from the beginning of the document to the fir
 Selection.HomeKey Unit:=wdStory, Extend:=wdMove 
 Selection.SelectCurrentColor 
 n = Len(Selection.Text) 
-<<<<<<< HEAD
-MsgBox "Contiguous characters with the same color: " &; n
-=======
 MsgBox "Contiguous characters with the same color: " & n
->>>>>>> master
 ```
 
 

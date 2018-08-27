@@ -32,11 +32,7 @@ This example splits the active window and then activates the next pane after the
 With ActiveDocument.ActiveWindow 
  .Split = True 
  .ActivePane.Next.Activate 
-<<<<<<< HEAD
- MsgBox "Pane " &; .ActivePane.Index &; " is active" 
-=======
  MsgBox "Pane " & .ActivePane.Index & " is active" 
->>>>>>> master
 End With
 ```
 

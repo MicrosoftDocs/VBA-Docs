@@ -34,11 +34,7 @@ This example displays the number of the bookmark that encloses the beginning of 
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "Bookmark " &; Selection.BookmarkID
-=======
 MsgBox "Bookmark " & Selection.BookmarkID
->>>>>>> master
 ```
 
 

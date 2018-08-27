@@ -37,11 +37,7 @@ This example creates a new custom label named "AdminAddress" and then creates a 
 Dim strAddress As String 
 Dim labelNew As CustomLabel 
  
-<<<<<<< HEAD
-strAddress = "Administration" &; vbCr &; "Mail Stop 22-16" 
-=======
 strAddress = "Administration" & vbCr & "Mail Stop 22-16" 
->>>>>>> master
  
 Set labelNew = Application.MailingLabel _ 
  .CustomLabels.Add(Name:="AdminAddress", DotMatrix:= False) 

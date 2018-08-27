@@ -58,11 +58,7 @@ The  **_buttons_**[argument](../../Glossary/vbe-glossary.md#argument) settings a
 
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the  **_buttons_** argument, use only one number from each group.
 
-<<<<<<< HEAD
- **Note**  These [constants](../../Glossary/vbe-glossary.md) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
-=======
  **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
->>>>>>> master
 
  **Return Values**
 
@@ -77,20 +73,12 @@ The first group of values (0-5) describes the number and type of buttons display
 |**vbYes**|6|**Yes**|
 |**vbNo**|7|**No**|
 
-<<<<<<< HEAD
- **Remarks**
-When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
-If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
-
- **Note**  To specify more than the first named argument, you must use  **MsgBox** in an[expression](../../Glossary/vbe-glossary.md). To omit some positional [arguments](../../Glossary/vbe-glossary.md), you must include the corresponding comma delimiter.
-=======
 ## Remarks
 
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
 
  **Note**  To specify more than the first named argument, you must use  **MsgBox** in an[expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
->>>>>>> master
 
 
 ## Example

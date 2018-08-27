@@ -15,11 +15,7 @@ The  **DataObject** and the Clipboard both provide a means to move data from one
 
 
 
-<<<<<<< HEAD
-- You can store more than one piece of data at a time on either a  **DataObject** or the Clipboard as long as each piece of data has a different[data format](../../Glossary/glossary-vba.md). If you store data with a format that is already in use, the new data is saved and the old data is discarded.
-=======
 - You can store more than one piece of data at a time on either a  **DataObject** or the Clipboard as long as each piece of data has a different[data format](../../Glossary/glossary-vba.md#data-format). If you store data with a format that is already in use, the new data is saved and the old data is discarded.
->>>>>>> master
     
 - The Clipboard supports picture formats and text formats. A  **DataObject** currently supports only text formats.
     

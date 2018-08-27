@@ -51,11 +51,7 @@ This example selects and deletes the contents of the active document.
 Sub DeleteSelection() 
  Dim intResponse As Integer 
  
-<<<<<<< HEAD
- intResponse = MsgBox("Are you sure you want to " &; _ 
-=======
  intResponse = MsgBox("Are you sure you want to " & _ 
->>>>>>> master
  "delete the contents of the document?", vbYesNo) 
  
  If intResponse = vbYes Then 

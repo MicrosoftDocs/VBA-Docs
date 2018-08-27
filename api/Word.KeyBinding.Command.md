@@ -34,11 +34,7 @@ Dim kbLoop As KeyBinding
 For Each kbLoop In KeyBindings 
  If kbLoop.KeyCategory = wdKeyCategoryFont Then 
  Count = Count + 1 
-<<<<<<< HEAD
- MsgBox kbLoop.Command &; vbCr &; kbLoop.KeyString 
-=======
  MsgBox kbLoop.Command & vbCr & kbLoop.KeyString 
->>>>>>> master
  End If 
 Next kbLoop 
  

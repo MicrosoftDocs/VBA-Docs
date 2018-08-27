@@ -40,18 +40,8 @@ Dim Label2
 Sub CommandButton1_Click() 
  'Must first give TextBox1 the focus to get line count 
  TextBox1.SetFocus 
-<<<<<<< HEAD
- Label1.Caption = "LineCount = " &; TextBox1.LineCount 
- Label2.Caption = "TextLength = " &; TextBox1.TextLength 
-=======
- Label1.Caption = "LineCount = " & TextBox1.LineCount 
- Label2.Caption = "TextLength = " & TextBox1.TextLength 
->>>>>>> master
-End Sub 
- 
 Sub Item_Open() 
  Set TextBox1 = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls("TextBox1") 
- Set Label1 = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls("Label1") 
  Set Label2 = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls("Label2") 
  Set CommandButton1 = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls("CommandButton1") 
  

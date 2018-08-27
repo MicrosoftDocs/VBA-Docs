@@ -25,11 +25,7 @@ The Visual Basic object library file name is constructed as follows:
 - Macintosh: Application Name Language Code [Version] OLB. For example: The French Visual Basic for Applications object library for version 2 was VA FR 2 OLB.
     
 
-<<<<<<< HEAD
-If you can't find a missing project or object library on your system, contact the [referencing project's](../../Glossary/vbe-glossary.md) author. If the missing library is a Microsoft application object library, you can obtain it as follows:
-=======
 If you can't find a missing project or object library on your system, contact the [referencing project's](../../Glossary/vbe-glossary.md#referencing-project) author. If the missing library is a Microsoft application object library, you can obtain it as follows:
->>>>>>> master
 
 
 - If you have access to Microsoft electronic technical support services, refer to the technical support section of this Help file. Under electronic services, you will find instructions on how to use the appropriate service option.

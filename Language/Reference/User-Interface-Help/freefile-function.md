@@ -34,11 +34,7 @@ Dim MyIndex, FileNumber
 For MyIndex = 1 To 5    ' Loop 5 times.
     FileNumber = FreeFile    ' Get unused file
         ' number.
-<<<<<<< HEAD
-    Open "TEST" &; MyIndex For Output As #FileNumber    ' Create file name.
-=======
     Open "TEST" & MyIndex For Output As #FileNumber    ' Create file name.
->>>>>>> master
     Write #FileNumber, "This is a sample."    ' Output text.
     Close #FileNumber    ' Close file.
 Next MyIndex

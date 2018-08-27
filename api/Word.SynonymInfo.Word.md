@@ -42,13 +42,8 @@ Sub Syn()
  Set mySynObj = ActiveDocument.Words(3).SynonymInfo 
  SList = mySynObj.SynonymList(1) 
  For i = 1 To UBound(SList) 
-<<<<<<< HEAD
- MsgBox "A synonym for " &; mySynObj.Word _ 
- &; " is " &; SList(i) 
-=======
  MsgBox "A synonym for " & mySynObj.Word _ 
  & " is " & SList(i) 
->>>>>>> master
  Next i 
 End Sub
 ```
@@ -70,13 +65,8 @@ Sub SelectWord()
  Else 
  SList = mySynObj.SynonymList(1) 
  For i = 1 To UBound(SList) 
-<<<<<<< HEAD
- MsgBox "A synonym for " &; mySynObj.Word _ 
- &; " is " &; SList(i) 
-=======
  MsgBox "A synonym for " & mySynObj.Word _ 
  & " is " & SList(i) 
->>>>>>> master
  Next i 
  End If 
 End Sub

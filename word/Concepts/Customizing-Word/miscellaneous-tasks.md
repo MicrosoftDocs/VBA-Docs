@@ -64,11 +64,7 @@ Sub AddFooterText()
     With rngFooter 
         .Delete 
         .Fields.Add Range:=rngFooter, Type:=wdFieldFileName, Text:="\p" 
-<<<<<<< HEAD
-        .InsertAfter Text:=vbTab &; vbTab 
-=======
         .InsertAfter Text:=vbTab & vbTab 
->>>>>>> master
         .Collapse Direction:=wdCollapseStart 
         .Fields.Add Range:=rngFooter, Type:=wdFieldAuthor 
     End With 

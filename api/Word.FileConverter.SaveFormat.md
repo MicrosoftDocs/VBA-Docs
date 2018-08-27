@@ -45,19 +45,11 @@ Sub FileConverterList()
  
  'List all the converters in the FileConverters collection 
  With docNew.Content 
-<<<<<<< HEAD
- .InsertAfter "Name" &; vbTab &; "Number" 
- .InsertParagraphAfter 
- For Each cnvFile In FileConverters 
- If cnvFile.CanSave = True Then 
- .InsertAfter cnvFile.FormatName &; vbTab &; _ 
-=======
  .InsertAfter "Name" & vbTab & "Number" 
  .InsertParagraphAfter 
  For Each cnvFile In FileConverters 
  If cnvFile.CanSave = True Then 
  .InsertAfter cnvFile.FormatName & vbTab & _ 
->>>>>>> master
  cnvFile.SaveFormat 
  .InsertParagraphAfter 
  End If 

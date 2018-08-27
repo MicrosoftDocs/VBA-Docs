@@ -49,11 +49,7 @@ Rows = 2
  
 For j = 0 To ListBox1.ColumnCount - 1 
  For i = 0 To Rows - 1 
-<<<<<<< HEAD
- MyArray(i, j) = "Row " &; i &; ", Column " &; j 
-=======
  MyArray(i, j) = "Row " & i & ", Column " & j 
->>>>>>> master
  Next 
 Next 
  
@@ -67,11 +63,7 @@ End Sub
  
 Sub CommandButton1_Click() 
  'ColumnWidths requires a value for each column separated by semicolons 
-<<<<<<< HEAD
- ListBox1.ColumnWidths = TextBox1.Text &; ";" &; TextBox2.Text &; ";" &; TextBox3.Text 
-=======
  ListBox1.ColumnWidths = TextBox1.Text & ";" & TextBox2.Text & ";" & TextBox3.Text 
->>>>>>> master
 End Sub 
  
 Sub Item_CustomPropertyChange(ByVal Name) 
@@ -80,29 +72,17 @@ Select Case Name
 Case "Text1" 
  'ColumnWidths accepts points (no units), inches or centimeters; make inches the default 
  If Not (InStr(TextBox1.Text, "in") > 0 Or InStr(TextBox1.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox1.Text = TextBox1.Text &; " in" 
-=======
  TextBox1.Text = TextBox1.Text & " in" 
->>>>>>> master
  End If 
 Case "Text2" 
  'ColumnWidths accepts points (no units), inches or centimeters; make inches the default 
  If Not (InStr(TextBox2.Text, "in") > 0 Or InStr(TextBox2.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox2.Text = TextBox2.Text &; " in" 
-=======
  TextBox2.Text = TextBox2.Text & " in" 
->>>>>>> master
  End If 
 Case "Text3" 
  'ColumnWidths accepts points (no units), inches or centimeters; make inches the default 
  If Not (InStr(TextBox3.Text, "in") > 0 Or InStr(TextBox3.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox3.Text = TextBox3.Text &; " in" 
-=======
  TextBox3.Text = TextBox3.Text & " in" 
->>>>>>> master
  End If 
 End Select 
 End Sub

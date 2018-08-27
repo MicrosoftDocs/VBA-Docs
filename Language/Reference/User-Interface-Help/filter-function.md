@@ -40,12 +40,5 @@ The  **_compare_** argument can have the following values:
 |**vbTextCompare**| 1|Performs a textual comparison.|
 |**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
-## Remarks
-
->>>>>>> master
-If no matches of  **_match_** are found within **_sourcearray_**, **Filter** returns an empty array. An error occurs if **_sourcearray_** is **Null** or is not a one-dimensional array.
 The array returned by the  **Filter** function contains only enough elements to contain the number of matched items.
 

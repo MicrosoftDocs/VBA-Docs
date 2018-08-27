@@ -35,14 +35,8 @@ The settings for  _Boolean_ are:
 |**True**|Object is visible (default).|
 |**False**|Object is hidden.|
 
-<<<<<<< HEAD
- **Remarks**
-Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
-All controls are visible at [design time](../../Glossary/vbe-glossary.md).
-=======
 ## Remarks
 
 Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
 All controls are visible at [design time](../../Glossary/vbe-glossary.md#design-time).
->>>>>>> master
 

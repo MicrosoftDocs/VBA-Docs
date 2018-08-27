@@ -40,13 +40,8 @@ Set kbNew = KeyBindings.Add(KeyCategory:=wdKeyCategoryCommand, _
  Command:="FontSize", _ 
  KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, wdKeyS), _ 
  CommandParameter:="8") 
-<<<<<<< HEAD
-MsgBox kbNew.Command &; Chr$(32) &; kbNew.CommandParameter _ 
- &; vbCr &; kbNew.KeyString
-=======
 MsgBox kbNew.Command & Chr$(32) & kbNew.CommandParameter _ 
  & vbCr & kbNew.KeyString
->>>>>>> master
 ```
 
 

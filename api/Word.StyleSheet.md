@@ -37,17 +37,10 @@ Sub CSSTable()
  Dim styCSS As StyleSheet 
  
  With ActiveDocument.Range(Start:=0, End:=0) 
-<<<<<<< HEAD
- .InsertAfter "CSS Name" &; vbTab &; "Index" 
- .InsertParagraphAfter 
- For Each styCSS In ActiveDocument.StyleSheets 
- .InsertAfter styCSS.Name &; vbTab &; styCSS.Index 
-=======
  .InsertAfter "CSS Name" & vbTab & "Index" 
  .InsertParagraphAfter 
  For Each styCSS In ActiveDocument.StyleSheets 
  .InsertAfter styCSS.Name & vbTab & styCSS.Index 
->>>>>>> master
  .InsertParagraphAfter 
  Next styCSS 
  .ConvertToTable 

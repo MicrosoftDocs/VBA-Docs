@@ -15,29 +15,17 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
 These content indexer keywords provide prefix and phrase matching respectively for items in an indexed store. For example, the following DASL query creates a filter for last name starting with "Smith" and uses a content indexer keyword to return the results:
     
 ```vb
-<<<<<<< HEAD
-  criteria = "@SQL=" &; Chr(34) _ 
-&; "urn:schemas:contacts:sn" &; Chr(34) _ 
-&; " ci_startswith 'Smith'"
-=======
   criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:contacts:sn" & Chr(34) _ 
 & " ci_startswith 'Smith'"
->>>>>>> master
 ```
 
 The following DASL query creates a filter for last name being exactly "Smith" and uses a content indexer keyword to return the results: 
 
 ```vb
-<<<<<<< HEAD
-  criteria = "@SQL=" &; Chr(34) _ 
-&; "urn:schemas:contacts:sn" &; Chr(34) _ 
-&; " ci_phrasematch 'Smith'"
-=======
   criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas:contacts:sn" & Chr(34) _ 
 & " ci_phrasematch 'Smith'"
->>>>>>> master
 ```
 
 ## Is Null

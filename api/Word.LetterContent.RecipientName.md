@@ -30,11 +30,7 @@ This example displays the salutation and recipient name for the active document.
 
 ```vb
 MsgBox ActiveDocument.GetLetterContent.Salutation _ 
-<<<<<<< HEAD
- &; Space(1) &; ActiveDocument.GetLetterContent.RecipientName
-=======
  & Space(1) & ActiveDocument.GetLetterContent.RecipientName
->>>>>>> master
 ```
 
 
