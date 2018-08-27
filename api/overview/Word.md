@@ -1,14 +1,16 @@
+---
+title: Word Visual Basic for Applications (VBA) reference
+ms.prod: word
+description: Conceptual overviews, programming tasks, samples, and references to help you develop Word solutions.
+ms.date: 08/24/2018
+---
 
 # Word VBA reference
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Word.
 
 > [!NOTE] 
-<<<<<<< HEAD
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
-=======
 > Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).
->>>>>>> master
 
 - [Getting Started with VBA in Office](../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
     
