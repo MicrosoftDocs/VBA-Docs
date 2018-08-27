@@ -110,22 +110,14 @@ Sub FindAddress()
     
     'Turn off screen updating, and then open the target workbook.
     Application.ScreenUpdating = False
-<<<<<<< HEAD
-    Workbooks.Open FileName:=MyPath &; MyWB
-=======
     Workbooks.Open FileName:=MyPath & MyWB
->>>>>>> master
     
     'Search for the specified text
     Set GCell = ActiveSheet.Cells.Find(Txt)
     
     'Record the address of the data, along with the date, in the current workbook.
     With ThisWorkbook.ActiveSheet.Range("D10")
-<<<<<<< HEAD
-        .Value = "Address of " &; Txt &; ":"
-=======
         .Value = "Address of " & Txt & ":"
->>>>>>> master
         .Offset(0, 1).Value = "Date:"
         .Offset(1, 0).Value = GCell.Address
         .Offset(1, 1).Value = Date
@@ -145,11 +137,7 @@ Select Case Err.Number
         Case 1004
             Range("D10:E11").ClearContents
             Application.ScreenUpdating = True
-<<<<<<< HEAD
-            MsgBox "The workbook " &; MyWB &; " could not be found in the path" &; vbCrLf &; MyPath &; "."
-=======
             MsgBox "The workbook " & MyWB & " could not be found in the path" & vbCrLf & MyPath & "."
->>>>>>> master
         Exit Sub
         
         'Common error #2: the specified text wasn't in the target workbook.
@@ -157,11 +145,7 @@ Select Case Err.Number
             ThisWorkbook.Sheets(MySheet).Range("D10:E11").ClearContents
             Workbooks(MyWB).Close False
             Application.ScreenUpdating = True
-<<<<<<< HEAD
-            MsgBox "The value " &; Txt &; " was not found."
-=======
             MsgBox "The value " & Txt & " was not found."
->>>>>>> master
         Exit Sub
         
         'General case: turn screenupdating back on, and exit.

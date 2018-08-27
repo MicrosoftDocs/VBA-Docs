@@ -37,15 +37,9 @@ With Worksheets(1).PivotTables(1).PivotFields("salesman")
  Else 
  rn = "bottom" 
  End If 
-<<<<<<< HEAD
- MsgBox "PivotTable report is showing " &; rn &; " " &; _ 
- .AutoShowCount &; " items in " &; .Name &; _ 
- " field by " &; .AutoShowField 
-=======
  MsgBox "PivotTable report is showing " & rn & " " & _ 
  .AutoShowCount & " items in " & .Name & _ 
  " field by " & .AutoShowField 
->>>>>>> master
  Else 
  MsgBox "PivotTable report is not using AutoShow for this field" 
  End If 

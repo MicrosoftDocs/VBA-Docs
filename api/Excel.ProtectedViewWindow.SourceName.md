@@ -39,13 +39,8 @@ The following example returns the path and name of the workbook associated with 
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox ActiveProtectedViewWindow.SourcePath &; "\" _ 
- &; ActiveProtectedViewWindow.SourceName
-=======
 MsgBox ActiveProtectedViewWindow.SourcePath & "\" _ 
  & ActiveProtectedViewWindow.SourceName
->>>>>>> master
 ```
 
 

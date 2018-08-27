@@ -81,11 +81,7 @@ For TheYear = 1 To 5
     Cells(1, TheYear + 1).Value = 1990 + TheYear 
 Next TheYear 
 For TheQuarter = 1 To 4 
-<<<<<<< HEAD
-    Cells(TheQuarter + 1, 1).Value = "Q" &amp; TheQuarter 
-=======
     Cells(TheQuarter + 1, 1).Value = "Q" & TheQuarter 
->>>>>>> master
 Next TheQuarter 
 End Sub
 ```
@@ -148,21 +144,13 @@ If you work with selections that contain more than one area, the  **[Areas](./Ex
 Sub NoMultiAreaSelection() 
     NumberOfSelectedAreas = Selection.Areas.Count 
     If NumberOfSelectedAreas > 1 Then 
-<<<<<<< HEAD
-        MsgBox "You cannot carry out this command " &amp; _ 
-=======
         MsgBox "You cannot carry out this command " & _ 
->>>>>>> master
             "on multi-area selections" 
     End If 
 End Sub
 ```
 
-<<<<<<< HEAD
- **Sample code provided by:** Dennis Wallentin,[VSTO &amp; .NET &amp; Excel](https://xldennis.wordpress.com/)
-=======
  **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](https://xldennis.wordpress.com/)
->>>>>>> master
 
 This example uses the  **AdvancedFilter** method of the **Range** object to create a list of the unique values, and the number of times those unique values occur, in the range of column A.
 
@@ -217,15 +205,9 @@ Sub Create_Unique_List_Count()
     'and list it next to its relevant value.
     For lnCount = 1 To UBound(vaUnique)
         rnUnique(lnCount, 1).Offset(0, 1).Value = _
-<<<<<<< HEAD
-            Application.Evaluate("COUNTIF(" &amp; _
-            rnSource.Address(External:=True) &amp; _
-            ",""" &amp; rnUnique(lnCount, 1).Text &amp; """)")
-=======
             Application.Evaluate("COUNTIF(" & _
             rnSource.Address(External:=True) & _
             ",""" & rnUnique(lnCount, 1).Text & """)")
->>>>>>> master
     Next lnCount
     
     'Label the column of occurrences with "Occurrences"
@@ -445,10 +427,6 @@ The following properties and methods for returning a  **Range** object are descr
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-<<<<<<< HEAD
-Dennis Wallentin is the author of VSTO &amp; .NET &amp; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
-=======
 Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
->>>>>>> master
 
 

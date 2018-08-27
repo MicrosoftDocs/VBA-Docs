@@ -35,11 +35,7 @@ This example displays the number of panes in the active window in Book1.xls.
 
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
-<<<<<<< HEAD
-MsgBox "There are " &; ActiveWindow.Panes.Count &; _ 
-=======
 MsgBox "There are " & ActiveWindow.Panes.Count & _ 
->>>>>>> master
  " panes in the active window"
 ```
 

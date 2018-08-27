@@ -45,11 +45,7 @@ The following sample code demonstrates a single-level drill up on a PivotTable
 ActiveSheet.PivotTables("PivotTable1").DrillUp ActiveSheet.PivotTables( _
       "PivotTable1").PivotFields("[Customer].[Customer Geography].[Postal Code]"). _
       PivotItems( _
-<<<<<<< HEAD
-      "[Customer].[Customer Geography].[Postal Code].&;[2450]&;[Coffs Harbour]"), _
-=======
       "[Customer].[Customer Geography].[Postal Code].&[2450]&[Coffs Harbour]"), _
->>>>>>> master
       ActiveSheet.PivotTables("PivotTable1").PivotRowAxis.PivotLines(1)
 ```
 
@@ -61,11 +57,7 @@ The following sample code demonstrates a level drill up on a PivotChart
 ```vb
 ActiveChart.PivotLayout.PivotTable.DrillUp ActiveChart.PivotLayout.PivotTable. _
       PivotFields("[Customer].[Customer Geography].[Postal Code]").PivotItems( _
-<<<<<<< HEAD
-      "[Customer].[Customer Geography].[Postal Code].&;[2450]&;[Coffs Harbour]"), _
-=======
       "[Customer].[Customer Geography].[Postal Code].&[2450]&[Coffs Harbour]"), _
->>>>>>> master
       ActiveChart.PivotLayout.PivotTable.PivotRowAxis.PivotLines(1)
 ```
 
@@ -77,11 +69,7 @@ The following sample code demonstrates multi-level drill up on a PivotTable
 ```vb
 ActiveSheet.PivotTables("PivotTable1").DrillUp ActiveSheet.PivotTables( _
      "PivotTable1").PivotFields("[Customer].[Customer Geography].[City]").PivotItems _
-<<<<<<< HEAD
-     ("[Customer].[Customer Geography].[City].&;[Coffs Harbour]&;[NSW]"), ActiveSheet. _
-=======
      ("[Customer].[Customer Geography].[City].&[Coffs Harbour]&[NSW]"), ActiveSheet. _
->>>>>>> master
      PivotTables("PivotTable1").PivotRowAxis.PivotLines(1), _
      "[Customer].[Customer Geography].[Country]"
 ```
@@ -94,11 +82,7 @@ The following sample code demonstrates multi-level drill up on a PivotChart
 ```vb
 ActiveChart.PivotLayout.PivotTable.DrillUp ActiveChart.PivotLayout.PivotTable. _
      PivotFields("[Customer].[Customer Geography].[Postal Code]").PivotItems( _
-<<<<<<< HEAD
-     "[Customer].[Customer Geography].[Postal Code].&;[2450]&;[Coffs Harbour]"), _
-=======
      "[Customer].[Customer Geography].[Postal Code].&[2450]&[Coffs Harbour]"), _
->>>>>>> master
      ActiveChart.PivotLayout.PivotTable.PivotRowAxis.PivotLines(1) , _
      "[Customer].[Customer Geography].[Country]"
 ```

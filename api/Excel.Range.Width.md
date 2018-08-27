@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Width Property (Excel)
 
-<<<<<<< HEAD
-Returns a  **Variant** value that represents the width, in units, of the range.
-=======
 Returns a **Double** value that represents the width of a range in points. Read-only.
->>>>>>> master
 
 
 ## Syntax
@@ -26,12 +22,9 @@ Returns a **Double** value that represents the width of a range in points. Read-
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
-<<<<<<< HEAD
-=======
 ## Remarks
 
 To set the width, use the **[ColumnWidth](excel.range.columnwidth.md)** Property.
->>>>>>> master
 
 ## See also
 

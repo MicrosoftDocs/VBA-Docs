@@ -43,11 +43,7 @@ The following sample code demonstrates the  **DrillDown** method as used on a Pi
 ```vb
 ActiveSheet.PivotTables("PivotTable1").DrillDown ActiveSheet.PivotTables( _
       "PivotTable1").PivotFields("[Customer].[Customer Geography].[Country]"). _
-<<<<<<< HEAD
-      PivotItems("[Customer].[Customer Geography].[Country].&;[Australia]"), _
-=======
       PivotItems("[Customer].[Customer Geography].[Country].&[Australia]"), _
->>>>>>> master
       ActiveSheet.PivotTables("PivotTable1").PivotRowAxis.PivotLines(1)
 ```
 
@@ -59,11 +55,7 @@ The following sample code demonstrates the  **DrillDown** method as used on a Pi
 ```vb
 ActiveChart.PivotLayout.PivotTable.DrillDown ActiveChart.PivotLayout.PivotTable _
       .PivotFields("[Customer].[Customer Geography].[Country]").PivotItems( _
-<<<<<<< HEAD
-      "[Customer].[Customer Geography].[Country].&;[Australia]"), ActiveChart. _
-=======
       "[Customer].[Customer Geography].[Country].&[Australia]"), ActiveChart. _
->>>>>>> master
       PivotLayout.PivotTable.PivotRowAxis.PivotLines(1)
 ```
 

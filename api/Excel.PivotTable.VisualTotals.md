@@ -49,11 +49,7 @@ Sub CheckVisualTotals()
  
  ' Determine if visual totals is enabled for OLAP PivotTables. 
  If pvtTable.VisualTotals = True Then 
-<<<<<<< HEAD
- MsgBox "Ability enabled to re-total after an item " &; _ 
-=======
  MsgBox "Ability enabled to re-total after an item " & _ 
->>>>>>> master
  "has been hidden from view." 
  Else 
  MsgBox "Unable to re-total items not hidden from view." 

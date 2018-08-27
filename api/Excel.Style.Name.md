@@ -30,13 +30,8 @@ This example displays the name of style one in the active workbook, first in the
 
 ```vb
 With ActiveWorkbook.Styles(1) 
-<<<<<<< HEAD
- MsgBox "The name of the style: " &; .Name 
- MsgBox "The localized name of the style: " &; .NameLocal 
-=======
  MsgBox "The name of the style: " & .Name 
  MsgBox "The localized name of the style: " & .NameLocal 
->>>>>>> master
 End With
 ```
 

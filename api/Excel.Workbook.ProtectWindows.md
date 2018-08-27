@@ -30,11 +30,7 @@ This example displays a message if the windows in the active workbook are protec
 
 ```vb
 If ActiveWorkbook.ProtectWindows = True Then 
-<<<<<<< HEAD
- MsgBox "Remember, you cannot rearrange any" &; _ 
-=======
  MsgBox "Remember, you cannot rearrange any" & _ 
->>>>>>> master
  " window in this workbook." 
 End If 
 

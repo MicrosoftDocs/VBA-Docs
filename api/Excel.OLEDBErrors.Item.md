@@ -43,13 +43,8 @@ This example displays an OLE DB error.
 
 ```vb
 Set objEr = Application.OLEDBErrors.Item(1) 
-<<<<<<< HEAD
-MsgBox "The following error occurred:" &; _ 
- objEr.ErrorString &; " : " &; objEr.SqlState
-=======
 MsgBox "The following error occurred:" & _ 
  objEr.ErrorString & " : " & objEr.SqlState
->>>>>>> master
 ```
 
 

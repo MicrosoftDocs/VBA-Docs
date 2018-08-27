@@ -34,17 +34,6 @@ This example shows manual, inclusive filtering in an OLAP PivotTable.
 
 
 ```vb
-<<<<<<< HEAD
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
-.[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&;[Australia]") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
-.[State-Province]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
-.[City]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
-.[Postal Code]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
-=======
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
 .[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&[Australia]") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
@@ -54,7 +43,6 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
 .[Postal Code]").VisibleItemsList = Array("") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
->>>>>>> master
 .[Full Name]").VisibleItemsList = Array("") 
 
 ```

@@ -49,11 +49,7 @@ This example returns the AutoComplete match for the string segment ?Ap." An Auto
 ```vb
 s = Worksheets(1).Range("A5").AutoComplete("Ap") 
 If Len(s) > 0 Then 
-<<<<<<< HEAD
- MsgBox "Completes to " &; s 
-=======
  MsgBox "Completes to " & s 
->>>>>>> master
 Else 
  MsgBox "Has no completion" 
 End If

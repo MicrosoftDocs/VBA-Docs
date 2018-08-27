@@ -30,11 +30,7 @@ This example displays the name of the field that's the group parent of the field
 
 ```vb
 Worksheets("Sheet1").Activate 
-<<<<<<< HEAD
-MsgBox "The active field is a child of the field " &; _ 
-=======
 MsgBox "The active field is a child of the field " & _ 
->>>>>>> master
  ActiveCell.PivotField.ParentField.Name
 ```
 
