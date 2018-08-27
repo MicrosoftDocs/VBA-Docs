@@ -61,11 +61,7 @@ Shifts all lines in the selection to the previous tab stop.
 
 ![Toggle breakpoint](../../../images/tbr_bkpt_ZA01201681.gif) **Toggle Breakpoint**
 
-<<<<<<< HEAD
-Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md) at the current line.
-=======
 Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint) at the current line.
->>>>>>> master
 
 
 ![Comment block](../../../images/tbr_comt_ZA01201691.gif) **Comment Block**

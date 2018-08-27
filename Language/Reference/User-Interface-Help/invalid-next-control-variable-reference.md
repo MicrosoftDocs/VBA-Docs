@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid Next control variable reference
 
-<<<<<<< HEAD
-The numeric [variable](../../Glossary/vbe-glossary.md) in the **Next** part of a **For...Next** loop must match the variable in the **For** part. This error has the following cause and solution:
-=======
 The numeric [variable](../../Glossary/vbe-glossary.md#variable) in the **Next** part of a **For...Next** loop must match the variable in the **For** part. This error has the following cause and solution:
->>>>>>> master
 
 - The variable in the **Next** part of a **For...Next** loop differs from the variable in the **For** part. For example:
     

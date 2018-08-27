@@ -17,15 +17,10 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a string containing the base name of the last component, less any file extension, in a path.
-<<<<<<< HEAD
- **Syntax**
- _object_. **GetBaseName(**_path_**)**
-=======
 
 ## Syntax
 
 _object_. **GetBaseName(**_path_**)**
->>>>>>> master
 The  **GetBaseName** method syntax has these parts:
 
 
@@ -34,12 +29,8 @@ The  **GetBaseName** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose base name is to be returned.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The  **GetBaseName** method returns a zero-length string ("") if no component matches the _path_ argument.
 
  **Note**  The  **GetBaseName** method works only on the provided _path_ string. It does not attempt to resolve the path, nor does it check for the existence of the specified path.

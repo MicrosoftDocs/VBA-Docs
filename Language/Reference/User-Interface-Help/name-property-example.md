@@ -22,11 +22,7 @@ Private Sub CommandButton1_Click()
  Dim MyControl As Control 
  
  For Each MyControl In Controls 
-<<<<<<< HEAD
- MsgBox "MyControl.Name = " &; MyControl.Name 
-=======
  MsgBox "MyControl.Name = " & MyControl.Name 
->>>>>>> master
  Next 
 End Sub
 ```

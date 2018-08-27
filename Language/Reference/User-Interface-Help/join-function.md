@@ -14,19 +14,12 @@ ms.date: 06/08/2017
 
 
  **Description**
-<<<<<<< HEAD
-Returns a string created by joining a number of substrings contained in an [array](../../Glossary/vbe-glossary.md).
- **Syntax**
- **Join( _sourcearray_** [, **_delimiter_** ] **)**
-The  **Join** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 Returns a string created by joining a number of substrings contained in an [array](../../Glossary/vbe-glossary.md#array).
 
 ## Syntax
 
 **Join( _sourcearray_** [, **_delimiter_** ] **)**
 The  **Join** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|

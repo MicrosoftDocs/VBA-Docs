@@ -13,15 +13,6 @@ ms.date: 06/08/2017
 
 Concludes input/output (I/O) to a file opened using the  **Open** statement.
 
-<<<<<<< HEAD
- **Syntax**
-
- **Close** [ _filenumberlist_ ]
-
-The optional  _filenumberlist_[argument](../../Glossary/vbe-glossary.md) can be one or more[file numbers](../../Glossary/vbe-glossary.md) using the following syntax, where _filenumber_ is any valid file number:
-[[ **#** ] _filenumber_ ] [ **,** [ **#** ] _filenumber_ ] **. . .**
- **Remarks**
-=======
 ## Syntax
 
 **Close** [ _filenumberlist_ ]
@@ -31,7 +22,6 @@ The optional  _filenumberlist_[argument](../../Glossary/vbe-glossary.md#argument
 
 ## Remarks
 
->>>>>>> master
 If you omit  _filenumberlist_, all active files opened by the **Open** statement are closed.
 When you close files that were opened for  **Output** or **Append**, the final buffer of output is written to the operating system buffer for that file. All buffer space associated with the closed file is released.
 When the  **Close** statement is executed, the association of a file with its file number ends.
@@ -44,11 +34,7 @@ This example uses the  **Close** statement to close all three files opened for *
 ```vb
 Dim I, FileName 
 For I = 1 To 3 ' Loop 3 times. 
-<<<<<<< HEAD
- FileName = "TEST" &; I ' Create file name. 
-=======
  FileName = "TEST" & I ' Create file name. 
->>>>>>> master
  Open FileName For Output As #I ' Open file. 
  Print #I, "This is a test." ' Write string to file. 
 Next I 

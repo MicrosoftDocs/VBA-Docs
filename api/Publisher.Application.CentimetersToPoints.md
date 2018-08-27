@@ -60,17 +60,10 @@ Do While True
  If Val(strInput) = 0 Then Exit Do 
  
  ' Evaluate and display result. 
-<<<<<<< HEAD
- strOutput = Trim(strInput) &; " cm = " _ 
- &; Format(Application _ 
- .CentimetersToPoints(Value:=Val(strInput)), _ 
- "0.00") &; " points" 
-=======
  strOutput = Trim(strInput) & " cm = " _ 
  & Format(Application _ 
  .CentimetersToPoints(Value:=Val(strInput)), _ 
  "0.00") & " points" 
->>>>>>> master
  
  MsgBox strOutput 
 Loop 

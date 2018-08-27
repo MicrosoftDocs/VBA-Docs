@@ -14,15 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns an object representing the code behind the component. Read-only.
-<<<<<<< HEAD
- **Remarks**
-The  **CodeModule** property returns **Nothing** if the component doesn't have a[code module](../../Glossary/vbe-glossary.md) associated with it.
-=======
 
 ## Remarks
 
 The  **CodeModule** property returns **Nothing** if the component doesn't have a[code module](../../Glossary/vbe-glossary.md#code-module) associated with it.
->>>>>>> master
 
  **Note**  The  **CodePane** object represents a visible code window. A given component can have several **CodePane** objects. The **CodeModule** object represents the code within a component. A component can only have one **CodeModule** object.
 

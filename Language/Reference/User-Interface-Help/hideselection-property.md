@@ -15,17 +15,11 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Specifies whether selected text remains highlighted when a control does not have the [focus](../../Glossary/vbe-glossary.md).
- **Syntax**
- _object_. **HideSelection** [= _Boolean_ ]
-=======
 Specifies whether selected text remains highlighted when a control does not have the [focus](../../Glossary/vbe-glossary.md#focus).
 
 ## Syntax
 
 _object_. **HideSelection** [= _Boolean_ ]
->>>>>>> master
 The  **HideSelection** property syntax has these parts:
 
 
@@ -43,11 +37,7 @@ The settings for  _Boolean_ are:
 |**True**|Selected text is not highlighted unless the control has the focus (default).|
 |**False**|Selected text always appears highlighted.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 You can use the  **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
 

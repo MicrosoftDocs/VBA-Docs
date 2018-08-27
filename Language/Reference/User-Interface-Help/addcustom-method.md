@@ -16,24 +16,15 @@ ms.date: 06/08/2017
 
 
 Returns a  **VBComponent** object, or creates a new custom component and adds it to the project.
-<<<<<<< HEAD
- **Syntax**
- _object_**.AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
-=======
 
 ## Syntax
 
 _object_**.AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
->>>>>>> master
 The  **AddCustom** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _object_|An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
-=======
 | _object_|An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
->>>>>>> master
 | _progid_|Required. The ProgID of the custom component to be created.|
 

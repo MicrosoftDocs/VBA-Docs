@@ -17,13 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Read-only collection of all available drives.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 Removable-media drives need not have media inserted for them to appear in the  **Drives** collection.
 The following code illustrates how to get the  **Drives** collection and iterate the collection using the **For Each...Next** statement:
 
@@ -35,21 +31,13 @@ Sub ShowDriveList
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set dc = fs.Drives
     For Each d in dc
-<<<<<<< HEAD
-        s = s &; d.DriveLetter &; " - " 
-=======
         s = s & d.DriveLetter & " - " 
->>>>>>> master
         If d.DriveType = Remote Then
             n = d.ShareName
         Else
             n = d.VolumeName
         End If
-<<<<<<< HEAD
-        s = s &; n &; vbCrLf
-=======
         s = s & n & vbCrLf
->>>>>>> master
     Next
     MsgBox s
 End Sub

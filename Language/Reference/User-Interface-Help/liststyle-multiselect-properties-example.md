@@ -35,11 +35,7 @@ Private Sub UserForm_Initialize()
  Dim i As Integer 
  
  For i = 1 To 8 
-<<<<<<< HEAD
- ListBox1.AddItem "Choice" &; (ListBox1.ListCount + 1) 
-=======
  ListBox1.AddItem "Choice" & (ListBox1.ListCount + 1) 
->>>>>>> master
  Next i 
  
  Label1.Caption = "MultiSelect Choices" 
@@ -75,11 +71,7 @@ Private Sub ToggleButton1_Click()
  ListBox1.ListStyle = fmListStylePlain 
  Else 
  ToggleButton1.Caption = "OptionButton " _ 
-<<<<<<< HEAD
- &; "or CheckBox" 
-=======
  & "or CheckBox" 
->>>>>>> master
  ListBox1.ListStyle = fmListStyleOption 
  End If 
 End Sub

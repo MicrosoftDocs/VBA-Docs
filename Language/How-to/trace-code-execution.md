@@ -15,11 +15,7 @@ You trace code execution because it may not always be obvious which statement is
 
 
 
-<<<<<<< HEAD
--  **Step Into**: Traces through each line of code and steps into[procedures](../Glossary/vbe-glossary.md). This allows you to view the effect of each statement on [variables](../Glossary/vbe-glossary.md).
-=======
 -  **Step Into**: Traces through each line of code and steps into[procedures](../Glossary/vbe-glossary.md#procedure). This allows you to view the effect of each statement on [variables](../Glossary/vbe-glossary.md#variable).
->>>>>>> master
     
 -  **Step Over**: Executes each procedure as if it were a single statement. Use this instead of **Step Into** to step across procedure calls rather than into the called procedure.
     

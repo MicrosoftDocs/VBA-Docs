@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns  **True** if the specified drive is ready; **False** if it is not.
-<<<<<<< HEAD
- **Syntax**
-object. **IsReady**
-The object is always a  **Drive** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,7 +25,6 @@ The object is always a  **Drive** object.
 
 ## Remarks
 
->>>>>>> master
 For removable-media drives and CD-ROM drives,  **IsReady** returns **True** only when the appropriate media is inserted and ready for access.
 The following code illustrates the use of the  **IsReady** property:
 
@@ -50,19 +43,11 @@ Sub ShowDriveInfo(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
-<<<<<<< HEAD
-    s = "Drive " &; d.DriveLetter &; ": - " &; t
-    If d.IsReady Then 
-        s = s &; vbCrLf &; "Drive is Ready."
-    Else
-        s = s &; vbCrLf &; "Drive is not Ready."
-=======
     s = "Drive " & d.DriveLetter & ": - " & t
     If d.IsReady Then 
         s = s & vbCrLf & "Drive is Ready."
     Else
         s = s & vbCrLf & "Drive is not Ready."
->>>>>>> master
     End If
     MsgBox s
 End Sub

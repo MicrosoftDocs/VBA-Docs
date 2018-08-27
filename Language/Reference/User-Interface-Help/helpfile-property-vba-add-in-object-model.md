@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns or sets a [String](../../Glossary/vbe-glossary.md) specifying the Microsoft Windows Help file for a[project](../../Glossary/vbe-glossary.md). Read/write.
-=======
 Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) specifying the Microsoft Windows Help file for a[project](../../Glossary/vbe-glossary.md#project). Read/write.
->>>>>>> master
 

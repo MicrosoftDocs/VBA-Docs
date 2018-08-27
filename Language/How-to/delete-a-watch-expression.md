@@ -15,11 +15,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-- Select the [watch expression](../Glossary/vbe-glossary.md) and press DELETE.
-=======
 - Select the [watch expression](../Glossary/vbe-glossary.md#watch-expression) and press DELETE.
->>>>>>> master
     
 - Select the expression and choose  **Clear** from the **Edit** menu.
     

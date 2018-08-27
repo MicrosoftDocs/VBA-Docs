@@ -14,18 +14,6 @@ ms.date: 06/08/2017
 
 
 Closes and destroys a window.
-<<<<<<< HEAD
- **Syntax**
- _object_**.Close**
-The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.
- **Remarks**
-The following types of windows respond to the  **Close** method in different ways:
-
-
-- For a window that is a [code pane](../../Glossary/vbe-glossary.md),  **Close** destroys the code pane.
-    
-- For a window that is a [designer](../../Glossary/vbe-glossary.md),  **Close** destroys the contained designer.
-=======
 
 ## Syntax
 
@@ -40,7 +28,6 @@ The following types of windows respond to the  **Close** method in different way
 - For a window that is a [code pane](../../Glossary/vbe-glossary.md#code-pane),  **Close** destroys the code pane.
     
 - For a window that is a [designer](../../Glossary/vbe-glossary.md#designer),  **Close** destroys the contained designer.
->>>>>>> master
     
 - For windows that are always available on the  **View** menu, **Close** hides the window.
     

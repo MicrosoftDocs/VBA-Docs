@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies whether the control has more than one row of tabs.
-<<<<<<< HEAD
- **Syntax**
- _object_. **MultiRow** [= _Boolean_ ]
-=======
 
 ## Syntax
 
 _object_. **MultiRow** [= _Boolean_ ]
->>>>>>> master
 The  **MultiRow** property syntax has these parts:
 
 

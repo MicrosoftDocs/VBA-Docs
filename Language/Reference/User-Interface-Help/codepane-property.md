@@ -16,13 +16,8 @@ ms.date: 06/08/2017
 
 
 Returns a  **CodePane** object. Read-only.
-<<<<<<< HEAD
- **Remarks**
-If a [code pane](../../Glossary/vbe-glossary.md) exists, it becomes the active code pane, and the window that contains it becomes the active window. If a code pane doesn't exist for the[module](../../Glossary/vbe-glossary.md), the  **CodePane** property creates one.
-=======
 
 ## Remarks
 
 If a [code pane](../../Glossary/vbe-glossary.md#code-pane) exists, it becomes the active code pane, and the window that contains it becomes the active window. If a code pane doesn't exist for the[module](../../Glossary/vbe-glossary.md#module), the  **CodePane** property creates one.
->>>>>>> master
 

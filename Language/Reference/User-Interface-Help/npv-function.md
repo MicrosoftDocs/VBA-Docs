@@ -13,34 +13,21 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
- **Syntax**
- **NPV( _rate_**, **_values_ ())**
-The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the net present value of an investment based on a series of periodic cash flows (payments and receipts) and a discount rate.
 
 ## Syntax
 
 **NPV( _rate_**, **_values_ ())**
 The  **NPV** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_rate_**|Required.  **Double** specifying discount rate over the length of the period, expressed as a decimal.|
-<<<<<<< HEAD
-|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
-
- **Remarks**
-=======
 |**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 
 ## Remarks
 
->>>>>>> master
 The net present value of an investment is the current value of a future series of payments and receipts.
 The  **NPV** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence.
 The  **NPV** investment begins one period before the date of the first cash flow value and ends with the last cash flow value in the array.
@@ -64,11 +51,7 @@ Values(1) = 22000 : Values(2) = 25000
 Values(3) = 28000 : Values(4) = 31000
 NetPVal = NPV(RetRate, Values())    ' Calculate net present value.
 Msg = "The net present value of these cash flows is "
-<<<<<<< HEAD
-Msg = Msg &; Format(NetPVal, Fmt) &; "."
-=======
 Msg = Msg & Format(NetPVal, Fmt) & "."
->>>>>>> master
 MsgBox Msg    ' Display net present value.
 ```
 

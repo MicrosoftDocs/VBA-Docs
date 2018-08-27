@@ -54,11 +54,7 @@ Private Sub PubApp_DocumentBeforeClose(ByVal Doc As Document, Cancel As Boolean)
  Dim intResponse As Integer 
  
  intResponse = MsgBox("Do you really want to close " _ 
-<<<<<<< HEAD
- &; "the document?", vbYesNo) 
-=======
  & "the document?", vbYesNo) 
->>>>>>> master
  
  If intResponse = vbNo Then Cancel = True 
  

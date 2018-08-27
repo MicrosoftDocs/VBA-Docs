@@ -13,19 +13,12 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the depreciation of an asset for a specific time period using the double-declining balance method or some other method you specify.
- **Syntax**
- **DDB( _cost_,** **_salvage_**, **_life_**, **_period_** [, **_factor_** ] **)**
-The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the depreciation of an asset for a specific time period using the double-declining balance method or some other method you specify.
 
 ## Syntax
 
 **DDB( _cost_,** **_salvage_**, **_life_**, **_period_** [, **_factor_** ] **)**
 The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
@@ -34,20 +27,12 @@ The  **DDB** function has these[named arguments](../../Glossary/vbe-glossary.md#
 |**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
 |**_life_**|Required.  **Double** specifying length of useful life of the asset.|
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
-<<<<<<< HEAD
-|**_factor_**|Optional. [Variant](../../Glossary/vbe-glossary.md) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
-
- **Remarks**
-The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods.
-The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
-=======
 |**_factor_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
 
 ## Remarks
 
 The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods.
 The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
->>>>>>> master
 The  **DDB** function uses the following formula to calculate depreciation for a given period:
 Depreciation /  **_period_** = ((**_cost_** - **_salvage_**) * **_factor_**) / **_life_**
 
@@ -73,21 +58,12 @@ If LifeTime <> Int(MonthLife / YRMOS) Then
 End If 
 DepYear = CInt(InputBox("Enter year for depreciation calculation."))
 Do While DepYear < 1 Or DepYear > LifeTime
-<<<<<<< HEAD
-    MsgBox "You must enter at least 1 but not more than " &; LifeTime
-    DepYear = InputBox("Enter year for depreciation calculation.")
-Loop
-Depr = DDB(InitCost, SalvageVal, LifeTime, DepYear)
-MsgBox "The depreciation for year " &; DepYear &; " is " &; _
-Format(Depr, Fmt) &; "."
-=======
     MsgBox "You must enter at least 1 but not more than " & LifeTime
     DepYear = InputBox("Enter year for depreciation calculation.")
 Loop
 Depr = DDB(InitCost, SalvageVal, LifeTime, DepYear)
 MsgBox "The depreciation for year " & DepYear & " is " & _
 Format(Depr, Fmt) & "."
->>>>>>> master
 ```
 
 

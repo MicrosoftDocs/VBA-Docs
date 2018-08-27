@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Check or Add an Object Library Reference
 
-<<<<<<< HEAD
-If you use the objects in other applications as part of your Visual Basic application, you may want to establish a reference to the [object libraries](../Glossary/vbe-glossary.md) of those applications. Before you can do that, you must first be sure that the application provides an object library.
-=======
 If you use the objects in other applications as part of your Visual Basic application, you may want to establish a reference to the [object libraries](../Glossary/vbe-glossary.md#object-library) of those applications. Before you can do that, you must first be sure that the application provides an object library.
->>>>>>> master
 
  **To see if an application provides an object library**
 
@@ -24,21 +20,13 @@ If you use the objects in other applications as part of your Visual Basic applic
 
 1. From the  **Tools** menu, choose **References** to display the **References** dialog box.
     
-<<<<<<< HEAD
-2. The  **References** dialog box shows all object libraries registered with the operating system. Scroll through the list for the application whose object library you want to reference. If the application isn't listed, you can use the **Browse** button to search for object libraries (*.olb and *.tlb) or[executable files](../Glossary/vbe-glossary.md) (*.exe and *.dll on Windows). References whose check boxes are checked are used by your[project](../Glossary/vbe-glossary.md); those that aren't checked are not used, but can be added.
-=======
 2. The  **References** dialog box shows all object libraries registered with the operating system. Scroll through the list for the application whose object library you want to reference. If the application isn't listed, you can use the **Browse** button to search for object libraries (*.olb and *.tlb) or[executable files](../Glossary/vbe-glossary.md#executable-file) (*.exe and *.dll on Windows). References whose check boxes are checked are used by your[project](../Glossary/vbe-glossary.md#project); those that aren't checked are not used, but can be added.
->>>>>>> master
     
 
  **To add a object library reference to your project**
 
 
-<<<<<<< HEAD
-- Select the object library reference in the  **Available References** box in the **References** dialog box and click **OK**. Your Visual Basic project now has a reference to the application's object library. If you open the[Object Browser](../Glossary/vbe-glossary.md) (press F2) and select the application's library, it displays the objects provided by the selected object library, as well as each object's[methods](../Glossary/vbe-glossary.md) and[properties](../Glossary/vbe-glossary.md). In the  **Object Browser**, you can select a[class](../Glossary/vbe-glossary.md) in the **Classes** box and select a method or property in the **Members** box. Use copy and paste to add the syntax to your code.
-=======
 - Select the object library reference in the  **Available References** box in the **References** dialog box and click **OK**. Your Visual Basic project now has a reference to the application's object library. If you open the[Object Browser](../Glossary/vbe-glossary.md#object-browser) (press F2) and select the application's library, it displays the objects provided by the selected object library, as well as each object's[methods](../Glossary/vbe-glossary.md#method) and[properties](../Glossary/vbe-glossary.md#property). In the  **Object Browser**, you can select a[class](../Glossary/vbe-glossary.md#class) in the **Classes** box and select a method or property in the **Members** box. Use copy and paste to add the syntax to your code.
->>>>>>> master
     
 
 

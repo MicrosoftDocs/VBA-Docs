@@ -35,11 +35,7 @@ Private Sub CommandButton1_Click()
  Mycmd.Top = 150 
  Mycmd.Width = 175 
  Mycmd.Height = 20 
-<<<<<<< HEAD
- Mycmd.Caption = "This is fun." &; Mycmd.Name 
-=======
  Mycmd.Caption = "This is fun." & Mycmd.Name 
->>>>>>> master
  
 End Sub 
  

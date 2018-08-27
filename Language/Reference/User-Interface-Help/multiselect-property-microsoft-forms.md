@@ -14,15 +14,10 @@ ms.date: 06/08/2017
 
 
 Indicates whether the object permits multiple selections.
-<<<<<<< HEAD
- **Syntax**
- _object_. **MultiSelect** [= _fmMultiSelect_ ]
-=======
 
 ## Syntax
 
 _object_. **MultiSelect** [= _fmMultiSelect_ ]
->>>>>>> master
 The  **MultiSelect** property syntax has these parts:
 
 

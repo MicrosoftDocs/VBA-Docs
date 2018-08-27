@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Can't call Friend procedure on an object that isn't an instance of the defining class (Error 97)
 
-<<<<<<< HEAD
-A  **Friend** procedure is callable from a[module](../../Glossary/vbe-glossary.md) that is outside the[class](../../Glossary/vbe-glossary.md), but part of the [project](../../Glossary/vbe-glossary.md) within which the class is defined. This error has the following causes and solutions:
-=======
 A  **Friend** procedure is callable from a[module](../../Glossary/vbe-glossary.md#module) that is outside the[class](../../Glossary/vbe-glossary.md#class), but part of the [project](../../Glossary/vbe-glossary.md#project) within which the class is defined. This error has the following causes and solutions:
->>>>>>> master
 
 
 

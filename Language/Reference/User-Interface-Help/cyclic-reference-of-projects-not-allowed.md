@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Cyclic reference of projects not allowed
 
-<<<<<<< HEAD
-Circular references to [projects](../../Glossary/vbe-glossary.md) aren't allowed. For example, if `MyProj` references `YourProj`, then  `YourProj` (or a project that references `YourProj`) can't reference references  `YourProj`, then  `YourProj` (or a project that references `YourProj`) can't reference  `MyProj`. This error has the following cause and solution:
-=======
 Circular references to [projects](../../Glossary/vbe-glossary.md#project) aren't allowed. For example, if `MyProj` references `YourProj`, then  `YourProj` (or a project that references `YourProj`) can't reference references  `YourProj`, then  `YourProj` (or a project that references `YourProj`) can't reference  `MyProj`. This error has the following cause and solution:
->>>>>>> master
 
 
 

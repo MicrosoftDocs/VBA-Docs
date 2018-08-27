@@ -14,31 +14,19 @@ ms.date: 06/08/2017
 
 
 Returns a reference to an object provided by an ActiveX component.
-<<<<<<< HEAD
- **Syntax**
- **GetObject(** [ **_pathname_** ] [ **,  _class_** ] **)**
-The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 
 ## Syntax
 
 **GetObject(** [ **_pathname_** ] [ **,  _class_** ] **)**
 The  **GetObject** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_pathname_**|Optional;  **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-<<<<<<< HEAD
-|**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md) of the object.|
-
-The  **_class_**[argument](../../Glossary/vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
-=======
 |**_class_**|Optional;  **Variant** (**String**). A string representing the[class](../../Glossary/vbe-glossary.md#class) of the object.|
 
 The  **_class_**[argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_**.**_objecttype_ and has these parts:
->>>>>>> master
 
 
 |**Part**|**Description**|
@@ -46,14 +34,9 @@ The  **_class_**[argument](../../Glossary/vbe-glossary.md#argument) uses the syn
 | _appname_|Required;  **Variant** (**String**). The name of the application providing the object.|
 | _objecttype_|Required;  **Variant** (**String**). The type or class of object to create.|
 
-<<<<<<< HEAD
- **Remarks**
-Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](../../Glossary/vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
-=======
 ## Remarks
 
 Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](../../Glossary/vbe-glossary.md#object-variable). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
->>>>>>> master
 
 
 
@@ -83,11 +66,7 @@ Set MyObject = GetObject("C:\DRAWINGS\SAMPLE.DRW", "FIGMENT.DRAWING")
 ```
 
 In the example,  `FIGMENT` is the name of a drawing application and `DRAWING` is one of the object types it supports.
-<<<<<<< HEAD
-Once an object is activated, you reference it in code using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md) and[methods](../../Glossary/vbe-glossary.md) of the new object using the object variable `MyObject`. For example:
-=======
 Once an object is activated, you reference it in code using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and[methods](../../Glossary/vbe-glossary.md#method) of the new object using the object variable `MyObject`. For example:
->>>>>>> master
 
 
 

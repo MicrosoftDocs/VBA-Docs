@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Edit Watch Command (Debug Menu)
 
-<<<<<<< HEAD
-Displays the  **Edit Watch** dialog box in which you can edit or delete a[watch expression](../../Glossary/vbe-glossary.md). Available when the watch is set even if the  **Watch** window is hidden.
-=======
 Displays the  **Edit Watch** dialog box in which you can edit or delete a[watch expression](../../Glossary/vbe-glossary.md#watch-expression). Available when the watch is set even if the  **Watch** window is hidden.
->>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_edtw_ZA01201700.gif). Keyboard shortcut: CTRL+W.

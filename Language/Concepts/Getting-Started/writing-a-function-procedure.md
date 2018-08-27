@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Writing a Function Procedure
 
-<<<<<<< HEAD
-A  **Function** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md) enclosed by the **Function** and **End Function** statements. A **Function** procedure is similar to a **Sub** procedure, but a function can also return a value. A **Function** procedure can take[arguments](../../Glossary/vbe-glossary.md), such as [constants](../../Glossary/vbe-glossary.md), [variables](../../Glossary/vbe-glossary.md), or [expressions](../../Glossary/vbe-glossary.md) that are passed to it by a calling procedure. If a **Function** procedure has no arguments, its **Function** statement must include an empty set of parentheses. A function returns a value by assigning a value to its name in one or more statements of the procedure.
-=======
 A  **Function** procedure is a series of Visual Basic[statements](../../Glossary/vbe-glossary.md#statement) enclosed by the **Function** and **End Function** statements. A **Function** procedure is similar to a **Sub** procedure, but a function can also return a value. A **Function** procedure can take[arguments](../../Glossary/vbe-glossary.md#argument), such as [constants](../../Glossary/vbe-glossary.md#constant), [variables](../../Glossary/vbe-glossary.md#variable), or [expressions](../../Glossary/vbe-glossary.md#expression) that are passed to it by a calling procedure. If a **Function** procedure has no arguments, its **Function** statement must include an empty set of parentheses. A function returns a value by assigning a value to its name in one or more statements of the procedure.
->>>>>>> master
 
 In the following example, the  **Celsius** function calculates degrees Celsius from degrees Fahrenheit. When the function is called from the **Main** procedure, a variable containing the argument value is passed to the function. The result of the calculation is returned to the calling procedure and displayed in a message box.
 
@@ -25,11 +21,7 @@ In the following example, the  **Celsius** function calculates degrees Celsius f
 Sub Main() 
  temp = Application.InputBox(Prompt:= _ 
  "Please enter the temperature in degrees F.", Type:=1) 
-<<<<<<< HEAD
- MsgBox "The temperature is " &; Celsius(temp) &; " degrees C." 
-=======
  MsgBox "The temperature is " & Celsius(temp) & " degrees C." 
->>>>>>> master
 End Sub 
  
 Function Celsius(fDegrees) 

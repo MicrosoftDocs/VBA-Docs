@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Expected procedure, not module
 
-<<<<<<< HEAD
-There is no [procedure](../../Glossary/vbe-glossary.md) by this name in the current[scope](../../Glossary/vbe-glossary.md), but there is a [module](../../Glossary/vbe-glossary.md) by this name. You can call a procedure, but not a module. This error has the following cause and solution:
-=======
 There is no [procedure](../../Glossary/vbe-glossary.md#procedure) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [module](../../Glossary/vbe-glossary.md#module) by this name. You can call a procedure, but not a module. This error has the following cause and solution:
->>>>>>> master
 
 
 

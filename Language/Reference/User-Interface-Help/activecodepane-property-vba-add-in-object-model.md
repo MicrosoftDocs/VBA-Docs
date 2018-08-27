@@ -14,13 +14,9 @@ ms.date: 06/08/2017
 
 
 Returns the active or last active  **CodePane** object or sets the active **CodePane** object. Read/write.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 You can set the  **ActiveCodePane** property to any valid **CodePane** object, as shown in the following example:
 
 
@@ -30,9 +26,5 @@ Set MyApp.VBE. ActiveCodePane = MyApp.VBE.CodePanes(1)
 
 ```
 
-<<<<<<< HEAD
-The preceding example sets the first [code pane](../../Glossary/vbe-glossary.md) in a[collection](../../Glossary/vbe-glossary.md) of code panes to be the active code pane. You can also activate a code pane using the **Set** method.
-=======
 The preceding example sets the first [code pane](../../Glossary/vbe-glossary.md#code-pane) in a[collection](../../Glossary/vbe-glossary.md#collection) of code panes to be the active code pane. You can also activate a code pane using the **Set** method.
->>>>>>> master
 

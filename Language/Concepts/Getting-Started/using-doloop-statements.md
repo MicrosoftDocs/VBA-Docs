@@ -11,20 +11,12 @@ ms.date: 06/08/2017
 
 # Using Do...Loop Statements
 
-<<<<<<< HEAD
-You can use  **Do...Loop** statements to run a block of[statements](../../Glossary/vbe-glossary.md) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
-=======
 You can use  **Do...Loop** statements to run a block of[statements](../../Glossary/vbe-glossary.md#statement) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
->>>>>>> master
 
 
 ## Repeating Statements While a Condition is True
 
-<<<<<<< HEAD
-There are two ways to use the  **While**[keyword](../../Glossary/vbe-glossary.md) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop , or you can check it after the loop has run at least once.
-=======
 There are two ways to use the  **While**[keyword](../../Glossary/vbe-glossary.md#keyword) to check a condition in a **Do...Loop** statement. You can check the condition before you enter the loop , or you can check it after the loop has run at least once.
->>>>>>> master
 
 In the following  `ChkFirstWhile` procedure, you check the condition before you enter the loop. If `myNum` is set to 9 instead of 20, the statements inside the loop will never run. In the `ChkLastWhile` procedure, the statements inside the loop run only once before the condition becomes **False**.
 
@@ -39,11 +31,7 @@ Sub ChkFirstWhile()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop 
-<<<<<<< HEAD
-    MsgBox "The loop made " &; counter &; " repetitions." 
-=======
     MsgBox "The loop made " & counter & " repetitions." 
->>>>>>> master
 End Sub 
  
 Sub ChkLastWhile() 
@@ -53,11 +41,7 @@ Sub ChkLastWhile()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop While myNum > 10 
-<<<<<<< HEAD
-    MsgBox "The loop made " &; counter &; " repetitions." 
-=======
     MsgBox "The loop made " & counter & " repetitions." 
->>>>>>> master
 End Sub
 ```
 
@@ -75,11 +59,7 @@ Sub ChkFirstUntil()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop 
-<<<<<<< HEAD
-    MsgBox "The loop made " &; counter &; " repetitions." 
-=======
     MsgBox "The loop made " & counter & " repetitions." 
->>>>>>> master
 End Sub 
  
 Sub ChkLastUntil() 
@@ -89,11 +69,7 @@ Sub ChkLastUntil()
         myNum = myNum + 1 
         counter = counter + 1 
     Loop Until myNum = 10 
-<<<<<<< HEAD
-    MsgBox "The loop made " &; counter &; " repetitions." 
-=======
     MsgBox "The loop made " & counter & " repetitions." 
->>>>>>> master
 End Sub
 ```
 
@@ -116,11 +92,7 @@ Sub ExitExample()
         counter = counter + 1 
         If myNum < 10 Then Exit Do 
     Loop 
-<<<<<<< HEAD
-    MsgBox "The loop made " &; counter &; " repetitions." 
-=======
     MsgBox "The loop made " & counter & " repetitions." 
->>>>>>> master
 End Sub
 ```
 

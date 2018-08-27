@@ -87,11 +87,7 @@ TextBox6.BackColor = RGB(0, 255, 0)
  
 ToggleButton1.Caption = "Swap styles" 
 ToggleButton2.Caption = "Transparent/Opaque " _ 
-<<<<<<< HEAD
- &; "background" 
-=======
  & "background" 
->>>>>>> master
 End Sub 
  
 Private Sub ToggleButton1_Click() 

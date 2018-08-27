@@ -14,15 +14,10 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) specifying the current date and time according your computer's system date and time.
-<<<<<<< HEAD
- **Syntax**
- **Now**
-=======
 
 ## Syntax
 
 **Now**
->>>>>>> master
 
 ## Example
 

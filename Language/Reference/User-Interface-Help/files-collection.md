@@ -17,13 +17,9 @@ ms.date: 06/08/2017
 
  **Description**
 Collection of all  **File** objects within a folder.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates how to get a  **Files** collection and iterate the collection using the **For Each...Next** statement:
 
 
@@ -35,13 +31,8 @@ Sub ShowFolderList(folderspec)
     Set f = fs.GetFolder(folderspec)
     Set fc = f.Files
     For Each f1 in fc
-<<<<<<< HEAD
-        s = s &; f1.name 
-        s = s &; vbCrLf
-=======
         s = s & f1.name 
         s = s & vbCrLf
->>>>>>> master
     Next
     MsgBox s
 End Sub

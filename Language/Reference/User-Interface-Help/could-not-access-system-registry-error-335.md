@@ -11,10 +11,6 @@ ms.date: 06/08/2017
 
 # Could not access system registry (Error 335)
 
-<<<<<<< HEAD
-An attempt to read from or write to the system [registry](../../Glossary/vbe-glossary.md) failed.
-=======
 An attempt to read from or write to the system [registry](../../Glossary/vbe-glossary.md#registry) failed.
->>>>>>> master
 
 

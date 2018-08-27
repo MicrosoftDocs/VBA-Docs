@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Understanding Objects, Properties, Methods, and Events
 
-<<<<<<< HEAD
-An object represents an element of an application, such as a worksheet, a cell, a chart, a form, or a report. In Visual Basic code, you must identify an object before you can apply one of the object's [methods](../../Glossary/vbe-glossary.md) or change the value of one of its [properties](../../Glossary/vbe-glossary.md).
-
-A collection is an object that contains several other objects, usually, but not always, of the same type. In Microsoft Excel, for example, the  **Workbooks** object contains all the open **Workbook** objects. In Visual Basic, the **Forms** collection contains all the **Form** objects in an application.
-
-Items in a collection can be identified by number or by name. For example, in the following [procedure](../../Glossary/vbe-glossary.md), identifies the first open  **Workbook** object.
-=======
 An object represents an element of an application, such as a worksheet, a cell, a chart, a form, or a report. In Visual Basic code, you must identify an object before you can apply one of the object's [methods](../../Glossary/vbe-glossary.md#method) or change the value of one of its [properties](../../Glossary/vbe-glossary.md#property).
 
 A collection is an object that contains several other objects, usually, but not always, of the same type. In Microsoft Excel, for example, the  **Workbooks** object contains all the open **Workbook** objects. In Visual Basic, the **Forms** collection contains all the **Form** objects in an application.
 
 Items in a collection can be identified by number or by name. For example, in the following [procedure](../../Glossary/vbe-glossary.md#procedure), identifies the first open  **Workbook** object.
->>>>>>> master
 
 
 
@@ -44,11 +36,7 @@ Sub CloseForm()
 End Sub
 ```
 
-<<<<<<< HEAD
-You can also manipulate an entire collection of objects if the objects share common [methods](../../Glossary/vbe-glossary.md). For example, the following procedure closes all open forms.
-=======
 You can also manipulate an entire collection of objects if the objects share common [methods](../../Glossary/vbe-glossary.md#method). For example, the following procedure closes all open forms.
->>>>>>> master
 
 
 

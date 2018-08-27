@@ -13,36 +13,22 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Used to perform a logical implication on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **Imp** _expression2_.
-=======
 Used to perform a logical implication on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
 _result_**=**_expression1_ **Imp** _expression2_.
->>>>>>> master
 The  **Imp** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
-| _expression1_|Required; any expression.|
-| _expression2_|Required; any expression.|
-
- **Remarks**
-=======
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
 
 ## Remarks
 
->>>>>>> master
 The following table illustrates how  _result_ is determined:
 
 
@@ -50,11 +36,7 @@ The following table illustrates how  _result_ is determined:
 |:-----|:-----|:-----|
 |**True**|**True**|**True**|
 |**True**|**False**|**False**|
-<<<<<<< HEAD
-|**True**|[Null](../../Glossary/vbe-glossary.md)|**Null**|
-=======
 |**True**|[Null](../../Glossary/vbe-glossary.md#null)|**Null**|
->>>>>>> master
 |**False**|**True**|**True**|
 |**False**|**False**|**True**|
 |**False**|**Null**|**True**|
@@ -62,11 +44,7 @@ The following table illustrates how  _result_ is determined:
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
 
-<<<<<<< HEAD
-The  **Imp** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
-=======
 The  **Imp** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
->>>>>>> master
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|

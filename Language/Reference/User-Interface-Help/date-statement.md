@@ -13,15 +13,9 @@ ms.date: 06/08/2017
 
 Sets the current system date.
 
-<<<<<<< HEAD
- **Syntax**
-
- **Date** **=**_date_
-=======
 ## Syntax
 
 **Date** **=**_date_
->>>>>>> master
 
 For systems running Microsoft Windows 95, the required  _date_ specification must be a date from January 1, 1980 through December 31, 2099. For systems running Microsoft Windows NT, _date_ must be a date from January 1, 1980 through December 31, 2079. For the Macintosh, _date_ must be a date from January 1, 1904 through February 5, 2040.
 

@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Can't place conditional breakpoint on an array
 
-<<<<<<< HEAD
-An [array](../../Glossary/vbe-glossary.md) has no single value associated with it. This error has the following cause and solution:
-
-
-
-- You tried to set a conditional [breakpoint](../../Glossary/vbe-glossary.md) (sometimes called a watchpoint) that would suspend program execution when the value of a whole array changed.
-=======
 An [array](../../Glossary/vbe-glossary.md#array) has no single value associated with it. This error has the following cause and solution:
 
 
 
 - You tried to set a conditional [breakpoint](../../Glossary/vbe-glossary.md#breakpoint) (sometimes called a watchpoint) that would suspend program execution when the value of a whole array changed.
->>>>>>> master
     
     Set the conditional breakpoint on a specific element of the array.
     

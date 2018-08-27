@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Long](../../Glossary/vbe-glossary.md) (long integer) containing the number of objects in a[collection](../../Glossary/vbe-glossary.md). Read-only.
-=======
 Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) (long integer) containing the number of objects in a[collection](../../Glossary/vbe-glossary.md#collection). Read-only.
->>>>>>> master
 
 ## Example
 

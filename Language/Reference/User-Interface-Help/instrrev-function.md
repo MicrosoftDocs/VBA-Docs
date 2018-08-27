@@ -15,30 +15,18 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the position of an occurrence of one string within another, from the end of string.
-<<<<<<< HEAD
- **Syntax**
- **InstrRev( _stringcheck_,** **_stringmatch_** [ **,** **_start_** [ **,** **_compare_** ]] **)**
-The  **InstrRev** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 
 ## Syntax
 
 **InstrRev( _stringcheck_,** **_stringmatch_** [ **,** **_start_** [ **,** **_compare_** ]] **)**
 The  **InstrRev** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-|**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md) being searched.|
-|**_stringmatch_**|Required. String expression being searched for.|
-|**_start_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md), an error occurs.|
-=======
 |**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
 |**_stringmatch_**|Required. String expression being searched for.|
 |**_start_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, -1 is used, which means that the search begins at the last character position. If **_start_** contains[Null](../../Glossary/vbe-glossary.md#null), an error occurs.|
->>>>>>> master
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. If omitted, a binary comparison is performed. See Settings section for values.|
 
  **Settings**
@@ -66,11 +54,7 @@ The  **_compare_** argument can have the following values:
 |**_stringmatch_** is found within **_stringcheck_**|Position at which match is found|
 |**_start_** > **Len( _stringmatch_ )**|0|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 Note that the syntax for the  **InstrRev** function is not the same as the syntax for the **Instr** function.
 

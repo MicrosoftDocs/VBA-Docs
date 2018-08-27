@@ -15,17 +15,11 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a system error code produced by a call to a [dynamic-link library](../../Glossary/vbe-glossary.md) (DLL). Read-only. LastDLLError always returns zero on the Macintosh.
- **Remarks**
-The  **LastDLLError**[property](../../Glossary/vbe-glossary.md) applies only to DLL calls made from Visual Basic code. When such a call is made, the called function usually returns a code indicating success or failure, and the **LastDLLError** property is filled. Check the documentation for the DLL's functions to determine the return values that indicate success or failure. Whenever the failure code is returned, the Visual Basic application should immediately check the **LastDLLError** property. No exception is raised when the **LastDLLError** property is set.
-=======
 Returns a system error code produced by a call to a [dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL). Read-only. LastDLLError always returns zero on the Macintosh.
 
 ## Remarks
 
 The  **LastDLLError**[property](../../Glossary/vbe-glossary.md#property) applies only to DLL calls made from Visual Basic code. When such a call is made, the called function usually returns a code indicating success or failure, and the **LastDLLError** property is filled. Check the documentation for the DLL's functions to determine the return values that indicate success or failure. Whenever the failure code is returned, the Visual Basic application should immediately check the **LastDLLError** property. No exception is raised when the **LastDLLError** property is set.
->>>>>>> master
 
 ## Example
 
@@ -39,19 +33,11 @@ Private Declare Function SQLCancel Lib "ODBC32.dll" _
 Private Sub UserForm_Click()
     Dim RetVal
     ' Call with invalid argument.
-<<<<<<< HEAD
-    RetVal = SQLCancel(myhandle&;)
-    ' Check for SQL error code.    
-    If RetVal = -2 Then
-        'Display the information code.
-        MsgBox "Error code is :" &; Err. LastDllError 
-=======
     RetVal = SQLCancel(myhandle&)
     ' Check for SQL error code.    
     If RetVal = -2 Then
         'Display the information code.
         MsgBox "Error code is :" & Err. LastDllError 
->>>>>>> master
     End If
 End Sub
 ```

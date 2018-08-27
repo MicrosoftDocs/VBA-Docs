@@ -15,17 +15,11 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns an integer value indicating whether a specific [format](../../../language/Glossary/glossary-vba.md) is on the **DataObject**.
- **Syntax**
- _Boolean_ = _object_. **GetFormat(**_format_**)**
-=======
 Returns an integer value indicating whether a specific format is on the **DataObject**.
 
 ## Syntax
 
 _Boolean_ = _object_. **GetFormat(**_format_**)**
->>>>>>> master
 The  **GetFormat** method syntax has these parts:
 
 
@@ -43,12 +37,6 @@ The settings for  _format_ are:
 |1|Text format.|
 |A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
 
-<<<<<<< HEAD
- **Remarks**
-The  **GetFormat** method searches for a format in the current list of formats on the **DataObject**. If the format is on the **DataObject**, **GetFormat** returns **True**; if not, **GetFormat** returns **False**.
-The  **DataObject** currently supports only text formats.
-
-=======
 ## Remarks
 
 The  **GetFormat** method searches for a format in the current list of formats on the **DataObject**. If the format is on the **DataObject**, **GetFormat** returns **True**; if not, **GetFormat** returns **False**.
@@ -59,4 +47,3 @@ The  **DataObject** currently supports only text formats.
 - [Standard Clipboard Formats](https://msdn.microsoft.com/f0af4e61-7ef1-4263-b2c5-e4114515124f)
 
 - [Registered Clipboard Formats](https://msdn.microsoft.com/en-us/library/ms649013.aspx)
->>>>>>> master

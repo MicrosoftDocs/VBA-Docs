@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # For...Next Statement
 
-<<<<<<< HEAD
-Repeats a group of [statements](../../Glossary/vbe-glossary.md) a specified number of times.
-
- **Syntax**
-
- **For**_counter_**=**_start_**To**_end_ [ **Step**_step_ ]
-=======
 Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) a specified number of times.
 
 ## Syntax
 
 **For**_counter_**=**_start_**To**_end_ [ **Step**_step_ ]
->>>>>>> master
 [ _statements_ ]
 [ **Exit For** ]
 [ _statements_ ]
@@ -34,24 +26,15 @@ The  **For…Next** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md) used as a loop counter. The variable can't be a[Boolean](../../Glossary/vbe-glossary.md) or an[array](../../Glossary/vbe-glossary.md) element.|
-=======
 | _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md#variable) used as a loop counter. The variable can't be a[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) or an[array](../../Glossary/vbe-glossary.md#array) element.|
->>>>>>> master
 | _start_|Required. Initial value of  _counter_.|
 | _end_|Required. Final value of  _counter_.|
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
 | _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
 
-<<<<<<< HEAD
- **Remarks**
-The  _step_[argument](../../Glossary/vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
-=======
 ## Remarks
 
 The  _step_[argument](../../Glossary/vbe-glossary.md#argument) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
->>>>>>> master
 
 
 |**Value**|**Loop executes if**|
@@ -92,15 +75,9 @@ This example uses the  **For...Next** statement to create a string that contains
 Dim Words, Chars, MyString 
 For Words = 10 To 1 Step -1 ' Set up 10 repetitions. 
  For Chars = 0 To 9 ' Set up 10 repetitions. 
-<<<<<<< HEAD
- MyString = MyString &; Chars ' Append number to string. 
- Next Chars ' Increment counter 
- MyString = MyString &; " " ' Append a space. 
-=======
  MyString = MyString & Chars ' Append number to string. 
  Next Chars ' Increment counter 
  MyString = MyString & " " ' Append a space. 
->>>>>>> master
 Next Words 
 
 ```

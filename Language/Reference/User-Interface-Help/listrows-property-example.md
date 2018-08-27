@@ -33,30 +33,18 @@ Private Sub UserForm_Initialize()
  Dim i As Integer 
  
  For i = 1 To 20 
-<<<<<<< HEAD
- ComboBox1.AddItem "Choice " &; (ComboBox1.ListCount + 1) 
-=======
  ComboBox1.AddItem "Choice " & (ComboBox1.ListCount + 1) 
->>>>>>> master
  Next i 
  
  SpinButton1.Min = 0 
  SpinButton1.Max = 12 
  SpinButton1.Value = ComboBox1.ListRows 
-<<<<<<< HEAD
- Label1.Caption = "ListRows = " &; SpinButton1.Value 
-=======
  Label1.Caption = "ListRows = " & SpinButton1.Value 
->>>>>>> master
 End Sub 
  
 Private Sub SpinButton1_Change() 
  ComboBox1.ListRows = SpinButton1.Value 
-<<<<<<< HEAD
- Label1.Caption = "ListRows = " &; SpinButton1.Value 
-=======
  Label1.Caption = "ListRows = " & SpinButton1.Value 
->>>>>>> master
 End Sub
 ```
 

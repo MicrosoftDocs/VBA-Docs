@@ -13,12 +13,6 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns the [argument](../../Glossary/vbe-glossary.md) portion of the[command line](../../Glossary/vbe-glossary.md) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
- **Syntax**
- **Command**
- **Remarks**
-=======
 Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the[command line](../../Glossary/vbe-glossary.md#command-line) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
 
 ## Syntax
@@ -27,7 +21,6 @@ Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the[c
 
 ## Remarks
 
->>>>>>> master
 When Visual Basic is launched from the command line, any portion of the command line that follows  `/cmd` is passed to the program as the command-line argument. In the following example, is passed to the program as the command-line argument. In the following command line example, `cmdlineargs` represents the argument information returned by the **Command** function.
 
 

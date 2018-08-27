@@ -17,11 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Provides access to a computer's file system.
-<<<<<<< HEAD
- **Syntax**
- **Scripting.FileSystemObject**
- **Remarks**
-=======
 
 ## Syntax
 
@@ -29,7 +24,6 @@ Provides access to a computer's file system.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates how the  **FileSystemObject** is used to return a **TextStream** object that can be read from or written to:
 
 
