@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Method not valid without suitable object
 
-<<<<<<< HEAD
-Not all [methods](../../Glossary/vbe-glossary.md) can be performed by all objects. This error has the following cause and solution:
-
-
-
-- You called a method without specifying an object, and the method isn't valid for the implicit object. For example, you can't use the  **Line** method in a[standard module](../../Glossary/vbe-glossary.md) without a valid object qualifier because a standard module can't display the output of the **Line** method.
-=======
 Not all [methods](../../Glossary/vbe-glossary.md#method) can be performed by all objects. This error has the following cause and solution:
 
 
 
 - You called a method without specifying an object, and the method isn't valid for the implicit object. For example, you can't use the  **Line** method in a[standard module](../../Glossary/vbe-glossary.md#standard-module) without a valid object qualifier because a standard module can't display the output of the **Line** method.
->>>>>>> master
     
     Explicitly qualify the method call with an object that can accept the method. For example, you can specify a form or picture box with the  **Line** method.
     

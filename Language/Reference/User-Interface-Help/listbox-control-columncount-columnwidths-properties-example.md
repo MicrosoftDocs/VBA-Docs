@@ -35,13 +35,8 @@ Dim MyArray(2, 3) As String
 Private Sub CommandButton1_Click() 
  'ColumnWidths requires a value for each column 
  'separated by semicolons 
-<<<<<<< HEAD
- ListBox1.ColumnWidths = TextBox1.Text &; ";" _ 
- &; TextBox2.Text &; ";" &; TextBox3.Text 
-=======
  ListBox1.ColumnWidths = TextBox1.Text & ";" _ 
  & TextBox2.Text & ";" & TextBox3.Text 
->>>>>>> master
 End Sub
 ```
 
@@ -55,11 +50,7 @@ Private Sub TextBox1_Exit(ByVal Cancel As _
  'or centimeters; make inches the default 
  If Not (InStr(TextBox1.Text, "in") > 0 Or _ 
  InStr(TextBox1.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox1.Text = TextBox1.Text &; " in" 
-=======
  TextBox1.Text = TextBox1.Text & " in" 
->>>>>>> master
  End If 
 End Sub
 ```
@@ -74,11 +65,7 @@ Private Sub TextBox2_Exit(ByVal Cancel As _
  'or centimeters; make inches the default 
  If Not (InStr(TextBox2.Text, "in") > 0 Or _ 
  InStr(TextBox2.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox2.Text = TextBox2.Text &; " in" 
-=======
  TextBox2.Text = TextBox2.Text & " in" 
->>>>>>> master
  End If 
 End Sub
 ```
@@ -92,11 +79,7 @@ Private Sub TextBox3_Exit(ByVal Cancel as MSForms.ReturnBoolean)
  'centimeters; make inches the default 
  If Not (InStr(TextBox3.Text, "in") > 0 Or _ 
  InStr(TextBox3.Text, "cm") > 0) Then 
-<<<<<<< HEAD
- TextBox3.Text = TextBox3.Text &; " in" 
-=======
  TextBox3.Text = TextBox3.Text & " in" 
->>>>>>> master
  End If 
 End Sub
 ```
@@ -113,11 +96,7 @@ Rows = 2
  
 For j = 0 To ListBox1.ColumnCount - 1 
  For i = 0 To Rows - 1 
-<<<<<<< HEAD
- MyArray(i, j) = "Row " &; i &; ", Column " &; j 
-=======
  MyArray(i, j) = "Row " & i & ", Column " & j 
->>>>>>> master
  Next i 
 Next j 
 'Load MyArray into ListBox1 

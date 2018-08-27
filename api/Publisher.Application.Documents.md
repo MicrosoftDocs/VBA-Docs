@@ -37,11 +37,7 @@ The following example lists all of the open publications.
 Dim objDocument As Document 
 Dim strMsg As String 
 For Each objDocument In Documents 
-<<<<<<< HEAD
- strMsg = strMsg &; objDocument.Name &; vbCrLf 
-=======
  strMsg = strMsg & objDocument.Name & vbCrLf 
->>>>>>> master
 Next objDocument 
 MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 ```

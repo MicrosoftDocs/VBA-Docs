@@ -57,11 +57,7 @@ Private Sub UserForm_Layout()
  End If 
  
  MsgBoxResult = MsgBox("In Layout event " _ 
-<<<<<<< HEAD
- &; "- Continue move?", vbYesNo) 
-=======
  & "- Continue move?", vbYesNo) 
->>>>>>> master
  If MsgBoxResult = vbNo Then 
  ComboBox1.Move ComboBox1.OldLeft, _ 
  ComboBox1.OldTop, ComboBox1.OldWidth, _ 

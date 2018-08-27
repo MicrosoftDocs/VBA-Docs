@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Returns the number of text lines in a  **TextBox** or **ComboBox**.
-<<<<<<< HEAD
- **Syntax**
- _object_. **LineCount**
-=======
 
 ## Syntax
 
 _object_. **LineCount**
->>>>>>> master
 The  **LineCount** property syntax has these parts:
 
 
@@ -32,12 +27,8 @@ The  **LineCount** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The  **LineCount** property is read-only.
 
  **Note**  A  **ComboBox** will only have one line.

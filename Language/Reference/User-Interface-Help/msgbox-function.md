@@ -14,38 +14,23 @@ ms.date: 06/08/2017
 
 
 Displays a message in a dialog box, waits for the user to click a button, and returns an  **Integer** indicating which button the user clicked.
-<<<<<<< HEAD
- **Syntax**
- **MsgBox( _prompt_** [, **_buttons_** ] [, **_title_** ] [, **_helpfile_**, **_context_** ] **)**
-The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 
 ## Syntax
 
 **MsgBox( _prompt_** [, **_buttons_** ] [, **_title_** ] [, **_helpfile_**, **_context_** ] **)**
 The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-|**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return - linefeed character combination (**Chr(** 13 **)** &; **Chr(** 10 **)**) between each line.|
-|**_buttons_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
-=======
 |**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return - linefeed character combination (**Chr(** 13 **)** &; **Chr(** 10 **)**) between each line.|
 |**_buttons_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
->>>>>>> master
 |**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit  **_title_**, the application name is placed in the title bar.|
 |**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
 |**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
 
  **Settings**
-<<<<<<< HEAD
-The  **_buttons_**[argument](../../Glossary/vbe-glossary.md) settings are:
-=======
 The  **_buttons_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
->>>>>>> master
 
 
 |**Constant**|**Value**|**Description**|

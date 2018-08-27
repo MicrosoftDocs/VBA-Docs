@@ -48,11 +48,7 @@ Private Sub ListBox1_Click()
  fmMousePointerCustom Then 
  CommandButton1.MouseIcon = _ 
  LoadPicture("c:\msvc20\cdk32\" _ 
-<<<<<<< HEAD
- &; "samples\circ1\bix.ico") 
-=======
  & "samples\circ1\bix.ico") 
->>>>>>> master
  End If 
  End If 
 End Sub 
@@ -112,11 +108,7 @@ Private Sub UserForm_Initialize()
  ListBox1.BoundColumn = 2 
  ListBox1.Value = fmMousePointerDefault 
  
-<<<<<<< HEAD
- MsgBox "ListBox1.Value =" &; ListBox1.Value &; "." 
-=======
  MsgBox "ListBox1.Value =" & ListBox1.Value & "." 
->>>>>>> master
  CommandButton1.MousePointer = ListBox1.Value 
 End Sub
 ```

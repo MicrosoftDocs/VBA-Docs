@@ -11,10 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': Property 'item2' in 'item3' could not be set.
 
-<<<<<<< HEAD
-Visual Basic can't set the [property](../../Glossary/vbe-glossary.md) of the specified[control](../../Glossary/vbe-glossary.md) as indicated by the form description in the ASCII file.
-=======
 Visual Basic can't set the [property](../../Glossary/vbe-glossary.md#property) of the specified[control](../../Glossary/vbe-glossary.md#control) as indicated by the form description in the ASCII file.
->>>>>>> master
 
 
