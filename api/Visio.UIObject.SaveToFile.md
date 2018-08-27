@@ -62,11 +62,7 @@ Public Sub SaveMenusToFile_Example()
  'Save the Menus object to a file. 
  strPath = "path\filename.vsu " 
  vsoUIObject.SaveToFile (strPath) 
-<<<<<<< HEAD
- MsgBox ("Menus successfully saved to " &; strPath) 
-=======
  MsgBox ("Menus successfully saved to " & strPath) 
->>>>>>> master
  
 End Sub
 ```

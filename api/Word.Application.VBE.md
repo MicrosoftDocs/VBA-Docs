@@ -29,11 +29,7 @@ This example displays the number of references available for the active project.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "References = " &; VBE.ActiveVBProject.References.Count
-=======
 MsgBox "References = " & VBE.ActiveVBProject.References.Count
->>>>>>> master
 ```
 
 

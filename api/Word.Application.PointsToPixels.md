@@ -44,15 +44,9 @@ This example displays the height and width in pixels of an object measured in po
 
 ```vb
 MsgBox "180x120 points is equivalent to " _ 
-<<<<<<< HEAD
- &; PointsToPixels(180, False) &; "x" _ 
- &; PointsToPixels(120, True) _ 
- &; " pixels on this display."
-=======
  & PointsToPixels(180, False) & "x" _ 
  & PointsToPixels(120, True) _ 
  & " pixels on this display."
->>>>>>> master
 ```
 
 

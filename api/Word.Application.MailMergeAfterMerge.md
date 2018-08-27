@@ -41,15 +41,6 @@ This example displays a message stating that all records in the specified docume
 Private Sub MailMergeApp_MailMergeAfterMerge(ByVal Doc As Document, _ 
  ByVal DocResult As Document) 
  If DocResult Is Nothing Then 
-<<<<<<< HEAD
- MsgBox "Your mail merge on " &; _ 
- Doc.Name &; " is now finished." 
- 
- Else 
- MsgBox "Your mail merge on " &; _ 
- Doc.Name &; " is now finished and " &; _ 
- DocResult.Name &; " has been created." 
-=======
  MsgBox "Your mail merge on " & _ 
  Doc.Name & " is now finished." 
  
@@ -57,7 +48,6 @@ Private Sub MailMergeApp_MailMergeAfterMerge(ByVal Doc As Document, _
  MsgBox "Your mail merge on " & _ 
  Doc.Name & " is now finished and " & _ 
  DocResult.Name & " has been created." 
->>>>>>> master
  End If 
 End Sub
 ```

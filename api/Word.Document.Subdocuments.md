@@ -45,13 +45,8 @@ This example displays the path and file name of each subdocument in the active d
 ```vb
 For Each subdoc In ActiveDocument.Subdocuments 
  If subdoc.HasFile = True Then 
-<<<<<<< HEAD
- MsgBox subdoc.Path &; Application.PathSeparator _ 
- &; subdoc.Name 
-=======
  MsgBox subdoc.Path & Application.PathSeparator _ 
  & subdoc.Name 
->>>>>>> master
  Else 
  MsgBox "This subdocument has not been saved." 
  End If 

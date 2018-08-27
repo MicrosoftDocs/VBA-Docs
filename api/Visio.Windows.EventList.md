@@ -47,11 +47,7 @@ Public Sub EventList_Example()
  Dim vsoAddon As Visio.Addon 
  
  'Prevent overflow error. 
-<<<<<<< HEAD
- Const visEvtAdd% = &;H8000 
-=======
  Const visEvtAdd% = &H8000 
->>>>>>> master
  
  'Add the specified add-on to the Addons collection. 
  Set vsoAddons = Visio.Addons 

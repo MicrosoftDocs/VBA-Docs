@@ -29,13 +29,8 @@ If the settings for the custom label named "My Labels" are valid, this example c
 
 
 ```vb
-<<<<<<< HEAD
-addr = "James Allard" &; vbCr &; "123 Main St." &; vbCr _ 
- &; "Seattle, WA 98040" 
-=======
 addr = "James Allard" & vbCr & "123 Main St." & vbCr _ 
  & "Seattle, WA 98040" 
->>>>>>> master
 If Application.MailingLabel.CustomLabels("My Labels") _ 
  .Valid = True Then Application.MailingLabel.CreateNewDocument _ 
  Name:="My Labels", Address:=addr 

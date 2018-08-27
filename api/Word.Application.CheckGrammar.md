@@ -43,11 +43,7 @@ This example displays the result of a grammar check on the selection.
 
 ```vb
 strPass = Application.CheckGrammar(String:=Selection.Text) 
-<<<<<<< HEAD
-MsgBox "Selection is grammatically correct: " &; strPass
-=======
 MsgBox "Selection is grammatically correct: " & strPass
->>>>>>> master
 ```
 
 

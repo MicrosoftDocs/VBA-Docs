@@ -45,11 +45,7 @@ Private Sub App_ProtectedViewWindowOpen(ByVal PvWindow As ProtectedViewWindow)
 Dim intResponse As Integer 
  
  MsgBox "You are opening a document in " _ 
-<<<<<<< HEAD
- &; "protected view window mode." 
-=======
  & "protected view window mode." 
->>>>>>> master
  
 End Sub
 ```
