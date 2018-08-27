@@ -11,8 +11,6 @@ ms.date: 06/08/2017
 
 # And operator
 
-
-
 Used to perform a logical conjunction on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
@@ -32,7 +30,6 @@ The  **And** operator syntax has these parts:
 
 If both expressions evaluate to  **True**, _result_ is **True**. If either expression evaluates to **False**, _result_ is **False.** The following table illustrates how _result_ is determined:
 
-
 |**If  _expression1_ is**|**And  _expression2_ is**|**The  _result_ is**|
 |:-----|:-----|:-----|
 |**True**|**False**|**False**|
@@ -46,9 +43,8 @@ If both expressions evaluate to  **True**, _result_ is **True**. If either expre
 
 The **And** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
 
-
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|
-|:-----|:-----|:-----|
+|:-----:|:-----:|:-----:|
 |0|0|0|
 |0|1|0|
 |1|0|0|
