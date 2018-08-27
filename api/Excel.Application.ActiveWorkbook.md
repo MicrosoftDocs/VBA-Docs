@@ -32,11 +32,7 @@ This example displays the name of the active workbook.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The name of the active workbook is " &; ActiveWorkbook.Name
-=======
 MsgBox "The name of the active workbook is " & ActiveWorkbook.Name
->>>>>>> master
 ```
 
 

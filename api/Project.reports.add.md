@@ -61,19 +61,11 @@ Sub DeleteAReport()
     
     If ActiveProject.Reports.IsPresent(reportName) Then
         ' To delete the active report, change to another view.
-<<<<<<< HEAD
-        ViewApplyEx Name:="&;Gantt Chart"
-        
-        ActiveProject.Reports(reportName).Delete
-    Else
-        MsgBox Prompt:="No report name: " &; reportName, Title:="Report delete error"
-=======
         ViewApplyEx Name:="&Gantt Chart"
         
         ActiveProject.Reports(reportName).Delete
     Else
         MsgBox Prompt:="No report name: " & reportName, Title:="Report delete error"
->>>>>>> master
     End If
 End Sub
 ```

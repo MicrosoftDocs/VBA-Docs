@@ -55,15 +55,9 @@ With ActivePresentation
                 ColCount = .Slides(sl).Shapes(sh) _
                     .Table.Columns.Count
 
-<<<<<<< HEAD
-                MsgBox "Shape " &; sh &; " on slide " &; sl &; _
-                    " contains the first table and has " &; _
-                    ColCount &; " columns."
-=======
                 MsgBox "Shape " & sh & " on slide " & sl & _
                     " contains the first table and has " & _
                     ColCount & " columns."
->>>>>>> master
 
                 Exit Sub
             End If

@@ -33,11 +33,7 @@ Set newSheet = ActiveWorkbook.Worksheets.Add
 i = 1 
 For Each nm In ActiveWorkbook.Names 
  newSheet.Cells(i, 1).Value = nm.NameLocal 
-<<<<<<< HEAD
- newSheet.Cells(i, 2).Value = "'" &; nm.RefersToR1C1Local 
-=======
  newSheet.Cells(i, 2).Value = "'" & nm.RefersToR1C1Local 
->>>>>>> master
  i = i + 1 
 Next
 ```

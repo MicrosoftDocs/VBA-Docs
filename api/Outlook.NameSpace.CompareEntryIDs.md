@@ -230,11 +230,7 @@ EndRoutine:
  
 ErrRoutine: 
  
-<<<<<<< HEAD
- Debug.Print Err.Number &; " - " &; Err.Description, _ 
-=======
  Debug.Print Err.Number & " - " & Err.Description, _ 
->>>>>>> master
  
  vbOKOnly Or vbCritical, _ 
  

@@ -60,15 +60,9 @@ Private Sub pApp_ProjectBeforeClearBaseline(ByVal pj As Project, _
  ByVal AllTasks As Boolean, ByVal Info As EventInfo) 
  
  MsgBox "Click OK to clear the baseline for the following " _ 
-<<<<<<< HEAD
- &; "project:" &; vbCrLf &; "Baseline: " &; CStr(bl) _ 
- &; vbCrLf &; "Project: " &; pj.Name &; vbCrLf _ 
- &; "Clear interim plan: " &; CStr(Interim) 
-=======
  & "project:" & vbCrLf & "Baseline: " & CStr(bl) _ 
  & vbCrLf & "Project: " & pj.Name & vbCrLf _ 
  & "Clear interim plan: " & CStr(Interim) 
->>>>>>> master
 End Sub
   ```
 

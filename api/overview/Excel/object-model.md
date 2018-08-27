@@ -1,21 +1,18 @@
 ---
-title: Object model (Excel)
+title: Excel object model for Visual Basic for Applications (VBA)
+description: This section of the Excel VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Excel object model.
 ms.prod: excel
 ms.assetid: 11ea8598-8a20-92d5-f98b-0da04263bf2c
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Excel)
+# Object model (Excel) 
 
 This section of the Excel VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Excel object model.
 
 > [!NOTE] 
-<<<<<<< HEAD
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
-=======
 > Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).
->>>>>>> master
 
 ## Related topics
 

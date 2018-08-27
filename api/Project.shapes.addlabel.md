@@ -57,11 +57,7 @@ Sub AddHelloLabel()
 
     With labelShape
         With .Fill
-<<<<<<< HEAD
-            .BackColor.RGB = RGB(red:=&;H20, green:=&;HFF, blue:=&;H20)
-=======
             .BackColor.RGB = RGB(red:=&H20, green:=&HFF, blue:=&H20)
->>>>>>> master
             .Visible = msoTrue
         End With
         

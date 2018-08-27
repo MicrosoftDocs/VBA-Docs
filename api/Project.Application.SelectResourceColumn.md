@@ -53,11 +53,7 @@ The following example selects the  **Indicators** column and the next two column
 Sub Select_ResourceColumn() 
  
  'Activate Resource Sheet 
-<<<<<<< HEAD
- ViewApply Name:="&;Resource Sheet" 
-=======
  ViewApply Name:="&Resource Sheet" 
->>>>>>> master
  SelectResourceColumn Column:="Indicators", Additional:=2 
 End Sub
 ```

@@ -65,11 +65,7 @@ Exit_AddPage:
  Exit Function 
  
 Error_AddPage: 
-<<<<<<< HEAD
- MsgBox Err &; ": " &; Err.Description 
-=======
  MsgBox Err & ": " & Err.Description 
->>>>>>> master
  AddPage = False 
  Resume Exit_AddPage 
 End Function

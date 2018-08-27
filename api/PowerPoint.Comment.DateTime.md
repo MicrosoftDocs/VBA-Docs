@@ -46,15 +46,9 @@ Sub ListComments()
 
     For Each cmtExisting In ActivePresentation.Slides(1).Comments
         With cmtExisting
-<<<<<<< HEAD
-            strAuthorInfo = strAuthorInfo &; .Author &; "'s comment #" &; _
-                .AuthorIndex &; " (" &; .Text &; ") was created on " &; _
-                .DateTime &; vbCrLf
-=======
             strAuthorInfo = strAuthorInfo & .Author & "'s comment #" & _
                 .AuthorIndex & " (" & .Text & ") was created on " & _
                 .DateTime & vbCrLf
->>>>>>> master
         End With
     Next
 

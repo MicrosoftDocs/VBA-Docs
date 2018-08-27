@@ -36,11 +36,7 @@ This example displays the name of the active sheet.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The name of the active sheet is " &; ActiveSheet.Name
-=======
 MsgBox "The name of the active sheet is " & ActiveSheet.Name
->>>>>>> master
 ```
 
  **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
@@ -59,11 +55,7 @@ Sub PrintSheets()
    iRowL = Cells(Rows.Count, 1).End(xlUp).Row
    
    'Define the print area as the range containing all the data in the first two columns of the current worksheet.
-<<<<<<< HEAD
-   ActiveSheet.PageSetup.PrintArea = Range("A1:B" &; iRowL).Address
-=======
    ActiveSheet.PageSetup.PrintArea = Range("A1:B" & iRowL).Address
->>>>>>> master
    
    'Select all the rows containing data.
    Rows(iRowL).Select
@@ -75,11 +67,7 @@ Sub PrintSheets()
    'After each page break, go to the next cell in column B and write out the page number.
    For iPage = 1 To ActiveSheet.HPageBreaks.Count
       ActiveSheet.HPageBreaks(iPage) _
-<<<<<<< HEAD
-         .Location.Offset(0, 1).Value = "Page " &; iPage + 1
-=======
          .Location.Offset(0, 1).Value = "Page " & iPage + 1
->>>>>>> master
    Next iPage
    
    'Show the print preview, and afterwards remove the page numbers from column B.

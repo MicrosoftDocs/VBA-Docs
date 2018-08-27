@@ -54,11 +54,7 @@ Sub AlignTableCells(reportName As String, alignment As String)
     On Error GoTo 0
     
     For Each shp In theReport.Shapes
-<<<<<<< HEAD
-        Debug.Print "Shape: " &; shp.Type &; ", " &; shp.Name
-=======
         Debug.Print "Shape: " & shp.Type & ", " & shp.Name
->>>>>>> master
         
         If shp.HasTable Then
             shp.Select
@@ -71,13 +67,8 @@ Sub AlignTableCells(reportName As String, alignment As String)
                 Case "bottom"
                     AlignTableCellBottom
                 Case Else
-<<<<<<< HEAD
-                    Debug.Print "AlignTableCells error: " &; vbCrLf _
-                        &; "alignment must be top, center, or bottom."
-=======
                     Debug.Print "AlignTableCells error: " & vbCrLf _
                         & "alignment must be top, center, or bottom."
->>>>>>> master
                 End Select
         End If
     Next shp

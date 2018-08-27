@@ -106,11 +106,7 @@ Exit Sub
  
 ErrRoutine: 
  
-<<<<<<< HEAD
- MsgBox Err.Description, vbOKOnly, Err.Number &; " - " &; Err.Source 
-=======
  MsgBox Err.Description, vbOKOnly, Err.Number & " - " & Err.Source 
->>>>>>> master
  
  GoTo EndRoutine 
  

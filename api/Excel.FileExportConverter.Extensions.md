@@ -32,11 +32,7 @@ The following example displays the file extensions for the first file converter 
 Dim fcTemp As FileExportConverter 
 Set fcTemp = FileExportConverters(1) 
  
-<<<<<<< HEAD
-MsgBox "The file name extensions for the file converter are: " &; fcTemp.Extensions
-=======
 MsgBox "The file name extensions for the file converter are: " & fcTemp.Extensions
->>>>>>> master
 ```
 
 

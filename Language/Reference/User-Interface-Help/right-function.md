@@ -1,5 +1,5 @@
 ---
-title: Right Function
+title: Right function
 keywords: vblr6.chm1011365
 f1_keywords:
 - vblr6.chm1011365
@@ -9,61 +9,39 @@ ms.date: 06/08/2017
 ---
 
 
-# Right Function
+# Right function
 
-
-
-Returns a  **Variant** (**String**) containing a specified number of characters from the right side of a string.
-<<<<<<< HEAD
- **Syntax**
- **Right** (**_string_**, **_length_**)
-The  **Right** function syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
+Returns a **Variant** (**String**) containing a specified number of characters from the right side of a string.
 
 ## Syntax
 
 **Right** (**_string_**, **_length_**)
-The  **Right** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
+The **Right** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) from which the rightmost characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md),  **Null** is returned.|
-|**_length_**|Required;  **Variant** (**Long**).[Numeric expression](../../Glossary/vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
-
- **Remarks**
-=======
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which the rightmost characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.|
-|**_length_**|Required;  **Variant** (**Long**).[Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which the rightmost characters are returned. If **_string_** contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.|
+|**_length_**|Required; **Variant** (**Long**). [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
+To determine the number of characters in **_string_**, use the **Len** function.
 
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
->>>>>>> master
-To determine the number of characters in  **_string_**, use the **Len** function.
-
- **Note**  Use the  **RightB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.
-
+> [!NOTE] 
+> Use the **RightB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.
 
 ## Example
 
-This example uses the  **Right** function to return a specified number of characters from the right side of a string.
+This example uses the **Right** function to return a specified number of characters from the right side of a string.
 
 
 ```vb
 Dim AnyString, MyStr
-AnyString = "Hello World"    ' Define string.
+AnyString = "Hello World"      ' Define string.
 MyStr = Right(AnyString, 1)    ' Returns "d".
 MyStr = Right(AnyString, 6)    ' Returns " World".
-MyStr = Right(AnyString, 20)    ' Returns "Hello World".
-
-
+MyStr = Right(AnyString, 20)   ' Returns "Hello World".
 ```
 
 

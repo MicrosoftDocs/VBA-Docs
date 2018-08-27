@@ -39,17 +39,10 @@ With Pres.PublishObjects(1)
     .SourceType = ppPublishAll
     .FileName = "C:\HTMLPres\mallard.htm"
     .HTMLVersion = ppHTMLVersion4
-<<<<<<< HEAD
-    MsgBox ("Saving presentation " &; "'" _
-        &; PresName &; "'" &; " in PowerPoint" _
-        &; Chr(10) &; Chr(13) _
-        &; " format and HTML version 4.0 format")
-=======
     MsgBox ("Saving presentation " & "'" _
         & PresName & "'" & " in PowerPoint" _
         & Chr(10) & Chr(13) _
         & " format and HTML version 4.0 format")
->>>>>>> master
     .Publish
 End With
 ```

@@ -40,11 +40,7 @@ Public blnSearchComp As Boolean
  
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
  
-<<<<<<< HEAD
- MsgBox "The AdvancedSearchComplete Event fired for " &; SearchObject.Tag &; " and the scope was " &; SearchObject.Scope 
-=======
  MsgBox "The AdvancedSearchComplete Event fired for " & SearchObject.Tag & " and the scope was " & SearchObject.Scope 
->>>>>>> master
  
  blnSearchComp = True 
  

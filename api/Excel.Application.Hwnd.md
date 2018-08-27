@@ -31,11 +31,7 @@ In this example, Microsoft Excel notifies the user of the top-level window handl
 ```vb
 Sub CheckHwnd() 
  
-<<<<<<< HEAD
- MsgBox "The top-level window handle is: " &; _ 
-=======
  MsgBox "The top-level window handle is: " & _ 
->>>>>>> master
  Application.Hwnd 
  
 End Sub

@@ -71,11 +71,7 @@ The following example displays a red diamond shape for the start of the task wit
 Sub GanttBar_Format() 
  
  'Activate Gantt Chart view 
-<<<<<<< HEAD
- ViewApply Name:="&;Gantt Chart" 
-=======
  ViewApply Name:="&Gantt Chart" 
->>>>>>> master
  GanttBarFormat TaskID:=3, StartShape:=pjDiamond, StartType:=pjSolid, StartColor:=pjRed 
  
 End Sub

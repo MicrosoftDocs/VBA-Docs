@@ -65,11 +65,7 @@ With Application.ActivePresentation.Slides(1).Shapes(2).TextFrame
 
 End With
 
-<<<<<<< HEAD
-MsgBox "Current line spacing: " &; ls &; lsUnits
-=======
 MsgBox "Current line spacing: " & ls & lsUnits
->>>>>>> master
 ```
 
 

@@ -75,17 +75,10 @@ Sub AddOctagon()
     
     With polylineShape.Line
         .Weight = 2
-<<<<<<< HEAD
-        .ForeColor.RGB = &;HFF0090    ' Violet color.
-    End With
-    
-    polylineShape.Fill.ForeColor.RGB = &;H10D0D0    ' Gold color.
-=======
         .ForeColor.RGB = &HFF0090    ' Violet color.
     End With
     
     polylineShape.Fill.ForeColor.RGB = &H10D0D0    ' Gold color.
->>>>>>> master
 End Sub
 ```
 

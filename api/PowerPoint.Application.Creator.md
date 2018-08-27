@@ -41,11 +41,7 @@ This example displays a message about the creator of myObject.
 ```vb
 Set myObject = Application.ActivePresentation.Slides(1).Shapes(1)
 
-<<<<<<< HEAD
-If myObject.Creator = &;h50575054 Then
-=======
 If myObject.Creator = &h50575054 Then
->>>>>>> master
 
     MsgBox "This is a PowerPoint object"
 

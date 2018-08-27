@@ -67,11 +67,7 @@ With myChart.Application.DataSheet
         .Cells(1, theYear + 1).Value = 1990 + theYear 
     Next theYear 
     For theQuarter = 1 To 4 
-<<<<<<< HEAD
-        .Cells(theQuarter + 1, 1).Value = "Q" &; theQuarter 
-=======
         .Cells(theQuarter + 1, 1).Value = "Q" & theQuarter 
->>>>>>> master
     Next theQuarter 
 End With 
 End Sub

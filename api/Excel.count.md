@@ -20,13 +20,8 @@ This example displays the number of chart groups in the chart.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The chart contains " &; _ 
- myChart.ChartGroups.Count &; _ 
-=======
 MsgBox "The chart contains " & _ 
  myChart.ChartGroups.Count & _ 
->>>>>>> master
  " chart groups."
 ```
 

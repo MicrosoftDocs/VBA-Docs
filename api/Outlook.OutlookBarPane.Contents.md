@@ -45,11 +45,7 @@ Sub ListGroups()
  
  For x = 1 To myOlGroups.Count 
  
-<<<<<<< HEAD
- myMsg = myMsg &; Chr(13) &; myOlGroups.Item(x) 
-=======
  myMsg = myMsg & Chr(13) & myOlGroups.Item(x) 
->>>>>>> master
  
  Next x 
  

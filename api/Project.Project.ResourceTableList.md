@@ -32,11 +32,7 @@ Sub SeeAllResTables()
  Dim ResTableNames As String 
  
  For Each Temp In ActiveProject.ResourceTableList 
-<<<<<<< HEAD
- ResTableNames = ResTableNames &; vbCrLf &; Temp 
-=======
  ResTableNames = ResTableNames & vbCrLf & Temp 
->>>>>>> master
  Next Temp 
  
  MsgBox ResTableNames 

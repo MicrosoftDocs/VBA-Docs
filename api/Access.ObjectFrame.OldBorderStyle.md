@@ -53,20 +53,6 @@ The following example demonstrates the effect of changing a control's  **BorderS
 With Forms("Order Entry").Controls("Zip Code")
     .BorderStyle = 3 ' Short dashed border. 
   
-<<<<<<< HEAD
-    MsgBox "BorderStyle = " &; .BorderStyle &; vbCrLf &; _ 
-        "OldBorderStyle = " &; .OldBorderStyle  ' Prints 3, 1. 
- 
-    .BorderStyle = 2 ' Dashed border. 
-  
-    MsgBox "BorderStyle = " &; .BorderStyle &; vbCrLf &; _ 
-        "OldBorderStyle = " &; .OldBorderStyle  ' Prints 2, 1 
-  
-    .BorderStyle = .OldBorderStyle ' Solid (default) border. 
-         
-    MsgBox "BorderStyle = " &; .BorderStyle &; vbCrLf &; _ 
-        "OldBorderStyle = " &; .OldBorderStyle  ' Prints 1, 1 
-=======
     MsgBox "BorderStyle = " & .BorderStyle & vbCrLf & _ 
         "OldBorderStyle = " & .OldBorderStyle  ' Prints 3, 1. 
  
@@ -79,7 +65,6 @@ With Forms("Order Entry").Controls("Zip Code")
          
     MsgBox "BorderStyle = " & .BorderStyle & vbCrLf & _ 
         "OldBorderStyle = " & .OldBorderStyle  ' Prints 1, 1 
->>>>>>> master
 End With
 ```
 

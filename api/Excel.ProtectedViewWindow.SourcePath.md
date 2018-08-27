@@ -37,13 +37,8 @@ The path does not include a trailing character (for example, "C:\MSOffice"). Use
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox ActiveProtectedViewWindow.SourcePath &; Application.PathSeparator _ 
- &; ActiveProtectedViewWindow.SourceName 
-=======
 MsgBox ActiveProtectedViewWindow.SourcePath & Application.PathSeparator _ 
  & ActiveProtectedViewWindow.SourceName 
->>>>>>> master
 
 ```
 

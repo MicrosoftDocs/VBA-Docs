@@ -58,13 +58,8 @@ Scope = "'Inbox', 'Sent Items'"
 
 
 ```vb
-<<<<<<< HEAD
-Scope = "'" &; Application.Session.GetDefaultFolder(olFolderInbox).FolderPath _  
-    &; "','" &; Application.Session.GetDefaultFolder(olFolderSentMail).FolderPath &; "'"
-=======
 Scope = "'" & Application.Session.GetDefaultFolder(olFolderInbox).FolderPath _  
     & "','" & Application.Session.GetDefaultFolder(olFolderSentMail).FolderPath & "'"
->>>>>>> master
 ```
 
 The  _Filter_ parameter can be any valid DASL query. For additional information on DASL queries, see[Filtering Items](../outlook/How-to/Search-and-Filter/filtering-items.md) and[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md). Note that you cannot use a JET query for the  _Filter_ parameter of Advanced Search. If Instant Search is enabled on a store that contains a folder specified in the _Scope_ parameter, you can use Instant Search keywords to improve the performance of your search. If you use Instant Search keywords and Instant Search is not enabled, Outlook will return an error and your search will fail.
@@ -126,19 +121,6 @@ Sub TestSearchForMultipleFolders()
     Dim nextRow As Outlook.Row  
     m_SearchComplete = False  
     'Establish scope for multiple folders  
-<<<<<<< HEAD
-    Scope = "'" &; Application.Session.GetDefaultFolder( _  
-    olFolderInbox).FolderPath _  
-    &; "','" &; Application.Session.GetDefaultFolder( _  
-    olFolderSentMail).FolderPath &; "'"  
-    'Establish filter  
-    If Application.Session.DefaultStore.IsInstantSearchEnabled Then  
-        Filter = Chr(34) &; "urn:schemas:httpmail:subject" _  
-        &; Chr(34) &; " ci_phrasematch 'Office'"  
-    Else  
-        Filter = Chr(34) &; "urn:schemas:httpmail:subject" _  
-        &; Chr(34) &; " like '%Office%'"  
-=======
     Scope = "'" & Application.Session.GetDefaultFolder( _  
     olFolderInbox).FolderPath _  
     & "','" & Application.Session.GetDefaultFolder( _  
@@ -150,7 +132,6 @@ Sub TestSearchForMultipleFolders()
     Else  
         Filter = Chr(34) & "urn:schemas:httpmail:subject" _  
         & Chr(34) & " like '%Office%'"  
->>>>>>> master
     End If  
     Set MySearch = Application.AdvancedSearch( _  
     Scope, Filter, True, "MySearch")  

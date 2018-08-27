@@ -51,11 +51,7 @@ Sub CreateUnicodePST()
  
  Set myNameSpace = Application.GetNamespace("MAPI") 
  
-<<<<<<< HEAD
- myNameSpace.AddStoreEx "c:\" &; myNameSpace.CurrentUser &; "\.pst",olStoreUnicode 
-=======
  myNameSpace.AddStoreEx "c:\" & myNameSpace.CurrentUser & "\.pst",olStoreUnicode 
->>>>>>> master
  
 End Sub
 ```

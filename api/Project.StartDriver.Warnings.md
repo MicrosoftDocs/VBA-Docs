@@ -79,11 +79,7 @@ Function CheckWarnings(warnings As Long) As String
 
  If partial < warnings Then _ 
 
-<<<<<<< HEAD
- warningResult = warningResult &; "The assignment is more than the maximum resource units available." &; vbCrLf 
-=======
  warningResult = warningResult & "The assignment is more than the maximum resource units available." & vbCrLf 
->>>>>>> master
 
  
 
@@ -91,11 +87,7 @@ Function CheckWarnings(warnings As Long) As String
 
  If partial < warnings Then _ 
 
-<<<<<<< HEAD
- warningResult = warningResult &; "The resource is overallocated." &; vbCrLf 
-=======
  warningResult = warningResult & "The resource is overallocated." & vbCrLf 
->>>>>>> master
 
  
 
@@ -103,11 +95,7 @@ Function CheckWarnings(warnings As Long) As String
 
  If partial < warnings Then _ 
 
-<<<<<<< HEAD
- warningResult = warningResult &; "The shadow task finishes earlier because of a predecessor link." &; vbCrLf 
-=======
  warningResult = warningResult & "The shadow task finishes earlier because of a predecessor link." & vbCrLf 
->>>>>>> master
 
  
 

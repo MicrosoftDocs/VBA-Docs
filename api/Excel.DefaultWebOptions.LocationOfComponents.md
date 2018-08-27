@@ -36,11 +36,7 @@ This example sets the path to the location from which users can download Microso
 ```vb
 Application.DefaultWebOptions.DownloadComponents = True 
 Application.DefaultWebOptions.LocationOfComponents = _ 
-<<<<<<< HEAD
- Application.Path &; Application.PathSeparator &; "foo"
-=======
  Application.Path & Application.PathSeparator & "foo"
->>>>>>> master
 ```
 
 

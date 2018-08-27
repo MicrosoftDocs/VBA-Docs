@@ -78,11 +78,7 @@ Sub DisplayYourDLNames()
  
  If myDistList.GetMember(y).Name = myNameSpace.CurrentUser.Name Then 
  
-<<<<<<< HEAD
- MsgBox "Your are a member of " &; myDistList.DLName 
-=======
  MsgBox "Your are a member of " & myDistList.DLName 
->>>>>>> master
  
  End If 
  

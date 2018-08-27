@@ -29,11 +29,7 @@ Returns a single object from a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-<<<<<<< HEAD
-| _Index_|Required| **Variant**|The name or index number of the object.|
-=======
 | _Index_|Required| **Integer**|The index number of the object.|
->>>>>>> master
 
 ## Example
 
@@ -53,11 +49,7 @@ Sub CheckCustomProperties()
  
  ' Display metadata. 
  With wksSheet1.CustomProperties.Item(1) 
-<<<<<<< HEAD
- MsgBox .Name &; vbTab &; .Value 
-=======
  MsgBox .Name & vbTab & .Value 
->>>>>>> master
  End With 
  
 End Sub

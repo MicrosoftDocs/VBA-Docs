@@ -35,11 +35,7 @@ Sub AddAndSave(pptPres As Presentation)
 
     pptPres.Slides.Add 1, 1
 
-<<<<<<< HEAD
-    pptPres.SaveAs pptPres.Application.Path &; "\Added Slide"
-=======
     pptPres.SaveAs pptPres.Application.Path & "\Added Slide"
->>>>>>> master
 
 End Sub
 ```

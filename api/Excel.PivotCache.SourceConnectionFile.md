@@ -37,11 +37,7 @@ Sub CheckSourceConnection()
  
  On Error GoTo No_Connection 
  
-<<<<<<< HEAD
- MsgBox "The source connection is: " &; pvtCache.SourceConnectionFile 
-=======
  MsgBox "The source connection is: " & pvtCache.SourceConnectionFile 
->>>>>>> master
  Exit Sub 
  
 No_Connection: 

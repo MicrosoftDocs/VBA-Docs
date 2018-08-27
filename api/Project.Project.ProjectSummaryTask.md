@@ -38,11 +38,7 @@ Sub AddEnterpriseProjectCost1Value()
     ActiveProject.ProjectSummaryTask.Cost1 = "500.00" 
  
     MsgBox "The Cost1 custom field for the project is: " _
-<<<<<<< HEAD
-       &; ActiveProject.ProjectSummaryTask.Cost1 
-=======
        & ActiveProject.ProjectSummaryTask.Cost1 
->>>>>>> master
 End Sub
 ```
 

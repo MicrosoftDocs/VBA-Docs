@@ -49,19 +49,11 @@ For Each usedFont In Presentations(1).Fonts
 
     If usedFont.Embedded Then
 
-<<<<<<< HEAD
-        MsgBox usedFont.Name &; ": Embedded"
-
-    Else
-
-        MsgBox usedFont.Name &; ": Not embedded"
-=======
         MsgBox usedFont.Name & ": Embedded"
 
     Else
 
         MsgBox usedFont.Name & ": Not embedded"
->>>>>>> master
 
     End If
 

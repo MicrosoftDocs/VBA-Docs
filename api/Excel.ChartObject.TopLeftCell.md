@@ -29,11 +29,7 @@ This example displays the address of the cell beneath the upper-left corner of e
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The top left corner is over cell " &; _ 
-=======
 MsgBox "The top left corner is over cell " & _ 
->>>>>>> master
  Worksheets("Sheet1").ChartObjects(1).TopLeftCell.Address
 ```
 

@@ -52,11 +52,7 @@ Sub UseAddIn()
  
  Set myAddIn = AddIns.Add(Filename:="A:\MYADDIN.XLA", _ 
  CopyFile:=True) 
-<<<<<<< HEAD
- MsgBox myAddIn.Title &; " has been added to the list" 
-=======
  MsgBox myAddIn.Title & " has been added to the list" 
->>>>>>> master
  
 End Sub
 ```

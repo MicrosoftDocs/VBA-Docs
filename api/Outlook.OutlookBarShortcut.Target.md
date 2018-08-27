@@ -53,11 +53,7 @@ Sub DeleteShortcuts()
  count = count + 1 
  End If 
  Next x 
-<<<<<<< HEAD
- MsgBox ("Number of shortcuts that are Outlook folders:" &; count) 
-=======
  MsgBox ("Number of shortcuts that are Outlook folders:" & count) 
->>>>>>> master
 End Sub
 ```
 

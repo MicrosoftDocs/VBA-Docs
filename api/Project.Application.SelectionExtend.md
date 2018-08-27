@@ -45,11 +45,7 @@ The following example adds active item to the selection.
 ```vb
 Sub Selection_Extend() 
  
-<<<<<<< HEAD
- ViewApply Name:="&;Gantt Chart" 
-=======
  ViewApply Name:="&Gantt Chart" 
->>>>>>> master
  SelectionExtend Extend:=False, Add:=True 
  End Sub
 ```

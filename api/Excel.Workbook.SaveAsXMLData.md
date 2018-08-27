@@ -52,11 +52,7 @@ Sub ExportAsXMLData()
  
  ActiveWorkbook.SaveAsXMLData "Customer Data.xml", objMapToExport 
  Else 
-<<<<<<< HEAD
- MsgBox "Cannot use " &; objMapToExport.Name &; _ 
-=======
  MsgBox "Cannot use " & objMapToExport.Name & _ 
->>>>>>> master
  "to export the contents of the worksheet to XML data." 
  End If 
 End Sub

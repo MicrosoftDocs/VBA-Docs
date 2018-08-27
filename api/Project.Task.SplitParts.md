@@ -33,11 +33,7 @@ Sub CountTaskPortions()
  HowMany = 0 
  If Not (T Is Nothing) Then 
  HowMany = HowMany + T.SplitParts.Count 
-<<<<<<< HEAD
- MsgBox T.Name &; ": " &; HowMany &; " task portion(s)" 
-=======
  MsgBox T.Name & ": " & HowMany & " task portion(s)" 
->>>>>>> master
  End If 
  
  Next T 

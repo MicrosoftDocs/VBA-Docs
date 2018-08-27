@@ -32,11 +32,7 @@ Sub SeeAllResViews()
  Dim ResViewNames As String 
  
  For Each Temp In ActiveProject.ResourceViewList 
-<<<<<<< HEAD
- ResViewNames = ResViewNames &; vbCrLf &; Temp 
-=======
  ResViewNames = ResViewNames & vbCrLf & Temp 
->>>>>>> master
  Next Temp 
  
  MsgBox ResViewNames 

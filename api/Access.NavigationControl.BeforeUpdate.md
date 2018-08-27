@@ -84,11 +84,7 @@ To try the example, add the following event procedure to a form named Products t
 Private Sub ProductName_BeforeUpdate(Cancel As Integer) 
  If(Not IsNull(DLookup("[ProductName]", _ 
  "Products", "[ProductName] ='" _ 
-<<<<<<< HEAD
- &; Me!ProductName &; "'"))) Then 
-=======
  & Me!ProductName & "'"))) Then 
->>>>>>> master
  MsgBox "Product has already been entered in the database." 
  Cancel = True 
  Me!ProductName.Undo 

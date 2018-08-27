@@ -45,11 +45,7 @@ Sub GetActualCostsForTasks()
  If T.Resources.Count = 0 Then 
  
  Do While 1 
-<<<<<<< HEAD
- Entry = InputBox$("Enter the cost for " &; T.Name &; ":") 
-=======
  Entry = InputBox$("Enter the cost for " & T.Name & ":") 
->>>>>>> master
  
  ' Exit loop if user enters number or clicks Cancel. 
  If IsNumeric(Entry) Or Entry = Empty Then 

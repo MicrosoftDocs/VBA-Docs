@@ -1,5 +1,5 @@
 ---
-title: Remove Method (Visual Basic for Applications)
+title: Remove method (Visual Basic for Applications)
 keywords: vblr6.chm1014020
 f1_keywords:
 - vblr6.chm1014020
@@ -9,48 +9,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Remove Method (Visual Basic for Applications)
+# Remove method (Visual Basic for Applications)
 
-
-
-<<<<<<< HEAD
-Removes a [member](../../Glossary/vbe-glossary.md) from a **Collection** object.
- **Syntax**
- _object_**.Remove**_index_
-=======
 Removes a [member](../../Glossary/vbe-glossary.md#member) from a **Collection** object.
 
 ## Syntax
 
 _object_**.Remove**_index_
->>>>>>> master
-The  **Remove** method syntax has the following object qualifier and part:
 
+The **Remove** method syntax has the following object qualifier and part:
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _index_|Required. An [expression](../../Glossary/vbe-glossary.md) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md). If a [numeric expression](../../Glossary/vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count**[property](../../Glossary/vbe-glossary.md). If a [string expression](../../Glossary/vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md) specified when the member referred to was added to the collection.|
-
- **Remarks**
-=======
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _index_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that specifies the position of a member of the[collection](../../Glossary/vbe-glossary.md#collection). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression),  _index_ must be a number from 1 to the value of the collection's **Count**[property](../../Glossary/vbe-glossary.md#property). If a [string expression](../../Glossary/vbe-glossary.md#string-expression),  _index_ must correspond to the **_key_**[argument](../../Glossary/vbe-glossary.md#argument) specified when the member referred to was added to the collection.|
+| _index_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that specifies the position of a member of the [collection](../../Glossary/vbe-glossary.md#collection). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression),  _index_ must be a number from 1 to the value of the collection's **Count** [property](../../Glossary/vbe-glossary.md#property). If a [string expression](../../Glossary/vbe-glossary.md#string-expression),  _index_ must correspond to the **_key_** [argument](../../Glossary/vbe-glossary.md#argument) specified when the member referred to was added to the collection.|
 
 ## Remarks
 
-<<<<<<< HEAD
-=======
-## Remarks
-
->>>>>>> 54e0a75f224118db0d26fc9363ad519ad35ec788
->>>>>>> master
 If the value provided as  _index_ doesn't match an existing member of the collection, an error occurs.
 
 ## Example
 
-This example illustrates the use of the  **Remove** method to remove objects from a **Collection** object, `MyClasses`. This code removes the object whose index is 1 on each iteration of the loop.
+This example illustrates the use of the **Remove** method to remove objects from a **Collection** object, `MyClasses`. This code removes the object whose index is 1 on each iteration of the loop.
 
 
 ```vb

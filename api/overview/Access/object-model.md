@@ -1,21 +1,18 @@
 ---
-title: Object model (Access)
+title: Access object model for Visual Basic for Applications (VBA)
 ms.prod: access
 ms.assetid: 2de134a4-6c5c-d2a3-8377-f4dd973ba650
+description: This section of the Access VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Access object model.
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Access)
+# Object model (Access) 
 
 This section of the Access VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Access object model.
 
 > [!NOTE] 
-<<<<<<< HEAD
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
-=======
 > Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).
->>>>>>> master
 
 ## Related topics
 

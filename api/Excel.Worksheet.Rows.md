@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Rows Property (Excel)
 
-<<<<<<< HEAD
-Returns a  **[Range](Excel.Range(object).md)** object that represents all the rows on the specified worksheet. Read-only **Range** object.
-=======
 Returns a **[Range](Excel.Range(object).md)** object that represents all the rows on the specified worksheet. 
->>>>>>> master
 
 
 ## Syntax
@@ -29,16 +25,9 @@ Returns a **[Range](Excel.Range(object).md)** object that represents all the row
 
 ## Remarks
 
-<<<<<<< HEAD
-Using this property without an object qualifier is equivalent to using  `ActiveSheet.Rows`.
-
-When applied to a  **Range** object that's a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object has two areas — A1:B2 and C3:D4 — `Selection.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test `Areas.Count` to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
-
-=======
 Using the `Rows` property without an object qualifier is equivalent to using  `ActiveSheet.Rows`. If the active document isn't a worksheet, the `Rows` property fails.
 
 To return a single row, include an index in parentheses. For example, `Rows(1)` returns the first row.
->>>>>>> master
 
 ## Example
 
@@ -71,15 +60,6 @@ This example displays the number of rows in the selection on Sheet1. If more tha
 Worksheets("Sheet1").Activate 
 areaCount = Selection.Areas.Count 
 If areaCount <= 1 Then 
-<<<<<<< HEAD
- MsgBox "The selection contains " &; _ 
- Selection.Rows.Count &; " rows." 
-Else 
- i = 1 
- For Each a In Selection.Areas 
- MsgBox "Area " &; i &; " of the selection contains " &; _ 
- a.Rows.Count &; " rows." 
-=======
  MsgBox "The selection contains " & _ 
  Selection.Rows.Count & " rows." 
 Else 
@@ -87,7 +67,6 @@ Else
  For Each a In Selection.Areas 
  MsgBox "Area " & i & " of the selection contains " & _ 
  a.Rows.Count & " rows." 
->>>>>>> master
  i = i + 1 
  Next a 
 End If

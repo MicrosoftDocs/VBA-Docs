@@ -60,11 +60,7 @@ The following example makes overallocations stand out from other information in 
 Sub HighlightOverallocations() 
     DetailStylesAdd pjOverallocation 
     DetailStylesFormatEx Item:=pjOverallocation, Font:="Arial", Size:=10, _ 
-<<<<<<< HEAD
-        Bold:=True, Color:=&;HA0, CellColor:=&;HFFB0B0, Pattern:=pjSolidFill 
-=======
         Bold:=True, Color:=&HA0, CellColor:=&HFFB0B0, Pattern:=pjSolidFill 
->>>>>>> master
 End Sub
 ```
 

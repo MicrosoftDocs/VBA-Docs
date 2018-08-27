@@ -29,11 +29,7 @@ This example displays the registered organization name.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The registered organization is " &; _ 
-=======
 MsgBox "The registered organization is " & _ 
->>>>>>> master
  Application.OrganizationName
 ```
 

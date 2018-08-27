@@ -45,17 +45,6 @@ Sub EnumerateSuccessors()
  Count = 1 
  
  If SuccTasks.Count = 0 Then 
-<<<<<<< HEAD
- List = "Task " &; Task.UniqueID &; ", " &; Task.Name &; ", has no successors." 
- Else 
- List = "Successors to task " &; Task.UniqueID &; ", " &; Task.Name &; ":" &; vbCrLf &; vbCrLf 
- Do While InStr(Successors, ListSeparator) <> 0 
- List = List &; SuccTasks(Count).Name &; ": " &; Mid$(Successors, 1, InStr(Successors, ListSeparator) - 1) &; vbCrLf 
- Successors = Right$(Successors, Len(Successors) - InStr(Successors, ListSeparator)) 
- Count = Count + 1 
- Loop 
- List = List &; SuccTasks(Count).Name &; ": " &; Successors 
-=======
  List = "Task " & Task.UniqueID & ", " & Task.Name & ", has no successors." 
  Else 
  List = "Successors to task " & Task.UniqueID & ", " & Task.Name & ":" & vbCrLf & vbCrLf 
@@ -65,7 +54,6 @@ Sub EnumerateSuccessors()
  Count = Count + 1 
  Loop 
  List = List & SuccTasks(Count).Name & ": " & Successors 
->>>>>>> master
  End If 
  
  MsgBox List 

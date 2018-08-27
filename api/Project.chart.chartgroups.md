@@ -42,13 +42,8 @@ Sub ToggleDropLines()
     Set chartGroup = chartShape.Chart.ChartGroups(1)
     dropLines = chartGroup.HasDropLines
     
-<<<<<<< HEAD
-    MsgBox "Chart group in " &; reportName &; ": " _
-        &; vbCrLf &; "Drop lines: " &; dropLines
-=======
     MsgBox "Chart group in " & reportName & ": " _
         & vbCrLf & "Drop lines: " & dropLines
->>>>>>> master
         
     chartGroup.HasDropLines = Not dropLines
 End Sub

@@ -29,11 +29,7 @@ This example displays the name of the current user.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "Current user is " &; Application.UserName
-=======
 MsgBox "Current user is " & Application.UserName
->>>>>>> master
 ```
 
 

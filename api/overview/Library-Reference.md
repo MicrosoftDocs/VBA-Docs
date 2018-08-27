@@ -1,15 +1,15 @@
+---
+title: Library reference for Visual Basic for Applications (VBA)
+description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Office. 
+ms.date: 08/24/2018
+---
 
 # Library reference VBA
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Office. 
 
-<<<<<<< HEAD
-
- **Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/overview/office-add-ins).
-=======
 > [!NOTE] 
 > Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).
->>>>>>> master
 
 
 This documentation contains: 

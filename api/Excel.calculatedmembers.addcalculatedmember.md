@@ -52,11 +52,7 @@ The **Formula** argument must have a valid MDX (multidimensional expression) syn
 ```vb
      OLEDBConnection.CalculatedMembers.AddCalculatedMember Name:="[UK+US]", _
      Formula:= _
-<<<<<<< HEAD
-    "[Customer].[Customer Geography].[Country].&;[United Kingdom] + [Customer].[Customer Geography].[Country].&;[United States] " _
-=======
     "[Customer].[Customer Geography].[Country].&[United Kingdom] + [Customer].[Customer Geography].[Country].&[United States] " _
->>>>>>> master
      , Type:=xlCalculatedMember, SolveOrder:=0, ParentHierarchy:= _
      "[Account].[Accounts]", ParentMember:= _
     "[Customer].[Customer Geography].[Australia]", NumberFormat:= _
@@ -110,11 +106,7 @@ Dim strParentMember As String
 
 Set pvt = Sheet1.PivotTables("PivotTable1")
 strName = "[Customer].[Customer Geography].[All Customers].[North America]"
-<<<<<<< HEAD
-strFormula = "[Customer].[Customer Geography].[Country].&;[United States] + [Customer].[Customer Geography].[Country].&;[Canada]"
-=======
 strFormula = "[Customer].[Customer Geography].[Country].&[United States] + [Customer].[Customer Geography].[Country].&[Canada]"
->>>>>>> master
 strParentHierarchy = "[Customer].[Customer Geography]"
 strParentMember = "[Customer].[Customer Geography].[All Customers]"
 

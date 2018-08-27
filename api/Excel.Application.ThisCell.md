@@ -35,11 +35,7 @@ In this example, a function called "UseThisCell" contains the  **ThisCell** prop
 
 ```vb
 Function UseThisCell() 
-<<<<<<< HEAD
- MsgBox "The cell address is: " &; _ 
-=======
  MsgBox "The cell address is: " & _ 
->>>>>>> master
  Application.ThisCell.Address 
 End Function
 ```

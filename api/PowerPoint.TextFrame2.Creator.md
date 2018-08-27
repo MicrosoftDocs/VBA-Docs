@@ -44,11 +44,7 @@ Public Sub Creator_Example()
 
     Set pptTextFrame2 = Application.ActivePresentation.Slides(1).Shapes(1).TextFrame2
 
-<<<<<<< HEAD
-    If pptTextFrame2.Creator = &;H50575054 Then
-=======
     If pptTextFrame2.Creator = &H50575054 Then
->>>>>>> master
 
         MsgBox "This is a PowerPoint object"
 

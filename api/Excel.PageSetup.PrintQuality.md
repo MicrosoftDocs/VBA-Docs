@@ -46,11 +46,7 @@ This example displays the current setting for horizontal print quality.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "Horizontal Print Quality is " &; _ 
-=======
 MsgBox "Horizontal Print Quality is " & _ 
->>>>>>> master
  Worksheets("Sheet1").PageSetup.PrintQuality(1)
 ```
 

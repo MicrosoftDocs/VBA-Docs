@@ -147,11 +147,7 @@ Public Sub cmdExample()
  
  'for this exception. 
  
-<<<<<<< HEAD
- MsgBox myException.OriginalDate &; ": " &; saveSubject 
-=======
  MsgBox myException.OriginalDate & ": " & saveSubject 
->>>>>>> master
  
  
  
@@ -159,11 +155,7 @@ Public Sub cmdExample()
  
  'for this exception. 
  
-<<<<<<< HEAD
- MsgBox myException.AppointmentItem.Start &; ": " &; _ 
-=======
  MsgBox myException.AppointmentItem.Start & ": " & _ 
->>>>>>> master
  
  myException.AppointmentItem.Subject 
  
