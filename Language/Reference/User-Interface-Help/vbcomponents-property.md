@@ -16,13 +16,9 @@ ms.date: 06/08/2017
 
 
 Returns a collection of the components contained in a project.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 Use the  **VBComponents** collection to access, add, or remove components in a project. A component can be a form, module, or class. The **VBComponents** collection is a standard collection that can be used in a **For… Each** block.
 You can use the  **Parent** property to return the project the **VBComponents** collection is in.
 In Visual Basic for Applications, you can use the  **Import** method to add a component to a project from a file.

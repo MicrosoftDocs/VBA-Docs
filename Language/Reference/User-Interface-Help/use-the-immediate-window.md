@@ -34,19 +34,6 @@ Use the  **Immediate** window to:
 
 - Test problematic or newly written code.
     
-<<<<<<< HEAD
-- Query or change the value of a [variable](../../Glossary/vbe-glossary.md) while running an application. While execution is halted, assign the variable a new value as you would in code.
-    
-- Query or change a property value while running an application.
-    
-- Call [procedures](../../Glossary/vbe-glossary.md) as you would in code.
-    
-- View debugging output while the program is running.
-    
-     **Note**   **Immediate** window statements are executed in a context — that is, as if they are entered in a specific[module](../../Glossary/vbe-glossary.md).
-
-If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md), or [methods](../../Glossary/vbe-glossary.md) while working in the **Immediate** window, select the[keyword](../../Glossary/vbe-glossary.md), the property name, or the method name, and press F1.
-=======
 - Query or change the value of a [variable](../../Glossary/vbe-glossary.md#variable) while running an application. While execution is halted, assign the variable a new value as you would in code.
     
 - Query or change a property value while running an application.
@@ -58,5 +45,4 @@ If you need help on syntax for functions, statements, [properties](../../Glossar
      **Note**   **Immediate** window statements are executed in a context — that is, as if they are entered in a specific[module](../../Glossary/vbe-glossary.md#module).
 
 If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md#property), or [methods](../../Glossary/vbe-glossary.md#method) while working in the **Immediate** window, select the[keyword](../../Glossary/vbe-glossary.md#keyword), the property name, or the method name, and press F1.
->>>>>>> master
 

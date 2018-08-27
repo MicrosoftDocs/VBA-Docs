@@ -15,11 +15,7 @@ The process of breaking execution is useful, but if left unhandled, it results i
 
 
 
-<<<<<<< HEAD
-- A user pressed CTRL+BREAK or another interrupt key. In the [development environment](../../Glossary/vbe-glossary.md), continue execution. To provide for the occurrence of this condition at [run time](../../Glossary/vbe-glossary.md), handle the error in an appropriate way.
-=======
 - A user pressed CTRL+BREAK or another interrupt key. In the [development environment](../../Glossary/vbe-glossary.md#development-environment), continue execution. To provide for the occurrence of this condition at [run time](../../Glossary/vbe-glossary.md#run-time), handle the error in an appropriate way.
->>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Save <host document> Command (File Menu)
 
-<<<<<<< HEAD
-Saves the current project and all of its components - forms and [modules](../../Glossary/vbe-glossary.md) - with your document. A standalone project is saved separately as a project file with a .vba extension.
-=======
 Saves the current project and all of its components - forms and [modules](../../Glossary/vbe-glossary.md#module) - with your document. A standalone project is saved separately as a project file with a .vba extension.
->>>>>>> master
 
 The  **Save** command displays the **Save As** dialog box if this is the first time the project is being saved.
 

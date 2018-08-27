@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 Not all types are supported in Visual Basic. This error has the following cause and solution:
 
-<<<<<<< HEAD
-- You tried to use a type in your program that has no equivalent in Visual Basic for Applications. For example, Visual Basic has no pointer or unsigned integer type, so if you try to create a [variable](../../Glossary/vbe-glossary.md) of one of those types from an [object library](../../Glossary/vbe-glossary.md), this error occurs. 
-=======
 - You tried to use a type in your program that has no equivalent in Visual Basic for Applications. For example, Visual Basic has no pointer or unsigned integer type, so if you try to create a [variable](../../Glossary/vbe-glossary.md#variable) of one of those types from an [object library](../../Glossary/vbe-glossary.md#object-library), this error occurs. 
->>>>>>> master
 
   In the following example, even though  `Rainbow` may be a valid structure, Visual Basic can't create a variable of that type if it contains a type Visual Basic doesn't recognize:
     
@@ -25,11 +21,7 @@ Not all types are supported in Visual Basic. This error has the following cause 
     Dim MyVar As Rainbow    ' Causes error. 
   ```
 
-<<<<<<< HEAD
-  If the type is a valid [parameter](../../Glossary/vbe-glossary.md) type for a function in an object library, this error means only that you can't create a variable of that type in your own code. Although you can't always declare variables with a [data type](../../Glossary/vbe-glossary.md) specified in an object's documentation, there is often a Visual Basic equivalent. 
-=======
   If the type is a valid [parameter](../../Glossary/vbe-glossary.md#parameter) type for a function in an object library, this error means only that you can't create a variable of that type in your own code. Although you can't always declare variables with a [data type](../../Glossary/vbe-glossary.md#data-type) specified in an object's documentation, there is often a Visual Basic equivalent. 
->>>>>>> master
   
   For example, although Visual Basic has no pointer type, you can pass a pointer to a function to an API function by using the **AddressOf** operator. Also, check the **Variant** type's subtypes. You can often use them as equivalents of types not offered directly in Visual Basic. In some cases, however, Visual Basic simply has no equivalent. For example, data pointers aren't available.
     

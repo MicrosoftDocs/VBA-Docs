@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Use the Project Explorer
 
-<<<<<<< HEAD
-The  **Project Explorer** displays a hierarchical list of the[projects](../../Glossary/vbe-glossary.md) and all of the items contained and referenced by each project.
-=======
 The  **Project Explorer** displays a hierarchical list of the[projects](../../Glossary/vbe-glossary.md#project) and all of the items contained and referenced by each project.
->>>>>>> master
 
  **To navigate the Project Explorer**
 

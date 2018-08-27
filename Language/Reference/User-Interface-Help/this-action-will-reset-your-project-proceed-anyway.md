@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # This action will reset your project, proceed anyway?
 
-<<<<<<< HEAD
-You can edit code in [break mode](../../Glossary/vbe-glossary.md), but some edits prevent continuing execution. This error has the following cause and solution:
-
-
-
-- You attempted an edit that prevents continued execution, for example, you declared a static [variable](../../Glossary/vbe-glossary.md).
-=======
 You can edit code in [break mode](../../Glossary/vbe-glossary.md#break-mode), but some edits prevent continuing execution. This error has the following cause and solution:
 
 
 
 - You attempted an edit that prevents continued execution, for example, you declared a static [variable](../../Glossary/vbe-glossary.md#variable).
->>>>>>> master
     
     If you choose  **Yes**, execution will terminate and you can edit your code. If you choose **No**, you can continue running the code from the point at which it was suspended.
     

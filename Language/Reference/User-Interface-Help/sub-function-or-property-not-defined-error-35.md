@@ -13,19 +13,11 @@ ms.date: 06/08/2017
 
 A **Sub**, **Function**, or **Property** procedure must be defined to be called. This error has the following causes and solutions:
 
-<<<<<<< HEAD
-- You misspelled the name of your [procedure](../../Glossary/vbe-glossary.md).
-    
-  Check the spelling and correct it.
-    
-- You tried to call a procedure from another [project](../../Glossary/vbe-glossary.md) without explicitly adding a reference to that project in the **References** dialog box.
-=======
 - You misspelled the name of your [procedure](../../Glossary/vbe-glossary.md#procedure).
     
   Check the spelling and correct it.
     
 - You tried to call a procedure from another [project](../../Glossary/vbe-glossary.md#project) without explicitly adding a reference to that project in the **References** dialog box.
->>>>>>> master
     
   **To add a reference**
     
@@ -38,15 +30,9 @@ A **Sub**, **Function**, or **Property** procedure must be defined to be called.
   4. Click **OK**.
     
  
-<<<<<<< HEAD
-- The specified procedure isn't visible to the calling procedure. Procedures declared **Private** in one [module](../../Glossary/vbe-glossary.md) can't be called from procedures outside the module. If **Option Private Module** is in effect, procedures in the module aren't available to other projects. Search to locate the procedure.
-    
-- You declared a Windows [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md) routine or Macintosh code-resource routine, but the routine isn't in the specified library or code resource.
-=======
 - The specified procedure isn't visible to the calling procedure. Procedures declared **Private** in one [module](../../Glossary/vbe-glossary.md#module) can't be called from procedures outside the module. If **Option Private Module** is in effect, procedures in the module aren't available to other projects. Search to locate the procedure.
     
 - You declared a Windows [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) routine or Macintosh code-resource routine, but the routine isn't in the specified library or code resource.
->>>>>>> master
     
 - Check the ordinal (if you used one) or the name of the routine. Make sure your version of the DLL or Macintosh code-resource is the correct one. The routine may only exist in later versions of the DLL or Macintosh code-resource. If the directory containing the wrong version precedes the directory containing the correct one in your path, the wrong DLL or Macintosh code-resource is accessed. You gave the right DLL name or Macintosh code-resource, but it isn't the version that contains the specified function.
     

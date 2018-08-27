@@ -13,19 +13,12 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Double](../../Glossary/vbe-glossary.md) specifying the sum-of-years' digits depreciation of an asset for a specified period.
- **Syntax**
- **SYD( _cost_**, **_salvage_**, **_life_**, **_period_ )**
-The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the sum-of-years' digits depreciation of an asset for a specified period.
 
 ## Syntax
 
 **SYD( _cost_**, **_salvage_**, **_life_**, **_period_ )**
 The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
@@ -35,14 +28,9 @@ The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md#
 |**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
 
-<<<<<<< HEAD
- **Remarks**
-The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
-=======
 ## Remarks
 
 The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
->>>>>>> master
 
 ## Example
 
@@ -66,19 +54,11 @@ If LifeTime <> Int(MonthLife / YEARMONTHS) Then
 End If 
 DepYear = CInt(InputBox("For which year do you want depreciation?"))
 Do While DepYear < 1 Or DepYear > LifeTime
-<<<<<<< HEAD
-    MsgBox "You must enter at least 1 but not more than " &; LifeTime
-    DepYear = CInt(InputBox("For what year do you want depreciation?"))
-Loop
-PDepr = SYD(InitCost, SalvageVal, LifeTime, DepYear)
-MsgBox "The depreciation for year " &; DepYear &; " is " &; Format(PDepr, Fmt) &; "."
-=======
     MsgBox "You must enter at least 1 but not more than " & LifeTime
     DepYear = CInt(InputBox("For what year do you want depreciation?"))
 Loop
 PDepr = SYD(InitCost, SalvageVal, LifeTime, DepYear)
 MsgBox "The depreciation for year " & DepYear & " is " & Format(PDepr, Fmt) & "."
->>>>>>> master
 ```
 
 

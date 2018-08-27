@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Size to Fit Command (Format Menu)
 
-<<<<<<< HEAD
-Changes the height and width of an [object](../../Glossary/vbe-glossary.md) to fit its contents.
-=======
 Changes the height and width of an [object](../../Glossary/vbe-glossary.md#object) to fit its contents.
->>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_sfit_ZA01201742.gif).

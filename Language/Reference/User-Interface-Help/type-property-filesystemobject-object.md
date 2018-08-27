@@ -15,12 +15,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns information about the type of a file or folder. For example, for files ending in .TXT, "Text Document" is returned.
-<<<<<<< HEAD
- **Syntax**
- _object_. **Type**
-The  _object_ is always a **File** or **Folder** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -29,7 +23,6 @@ The  _object_ is always a **File** or **Folder** object.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates the use of the  **Type** property to return a folder type. In this example, try providing the path of the Recycle Bin or other unique folder to the procedure.
 
 
@@ -39,11 +32,7 @@ Sub ShowFileSize(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(filespec)
-<<<<<<< HEAD
-    s = UCase(f.Name) &; " is a " &; f.Type 
-=======
     s = UCase(f.Name) & " is a " & f.Type 
->>>>>>> master
     MsgBox s, 0, "File Size Info"
 End Sub
 ```

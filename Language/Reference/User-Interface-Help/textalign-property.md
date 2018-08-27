@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies how text is aligned in a control.
-<<<<<<< HEAD
- **Syntax**
- _object_. **TextAlign** [= _fmTextAlign_ ]
-=======
 
 ## Syntax
 
 _object_. **TextAlign** [= _fmTextAlign_ ]
->>>>>>> master
 The  **TextAlign** property syntax has these parts:
 
 
@@ -43,11 +38,7 @@ The settings for  _fmTextAlign_ are:
 | _fmTextAlignCenter_|2|Centers the text in the control's display or edit area.|
 | _fmTextAlignRight_|3|Aligns the last character of displayed text with the right edge of the control's display or edit area.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 For a  **ComboBox**, the **TextAlign** property only affects the edit region; this property has no effect on the alignment of text in the list. For stand-alone labels, **TextAlign** determines the alignment of the label's caption.
 

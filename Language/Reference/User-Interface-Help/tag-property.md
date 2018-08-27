@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Stores additional information about an object.
-<<<<<<< HEAD
- **Syntax**
- _object_. **Tag** [= _String_ ]
-=======
 
 ## Syntax
 
 _object_. **Tag** [= _String_ ]
->>>>>>> master
 The  **Tag** property syntax has these parts:
 
 
@@ -33,12 +28,8 @@ The  **Tag** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression identifying the object. The default is a zero-length string ("").|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 Use the  **Tag** property to assign an identification string to an object without affecting other property settings or attributes.
 For example, you can use  **Tag** to check the identity of a form or control that is passed as a variable to a procedure.
 

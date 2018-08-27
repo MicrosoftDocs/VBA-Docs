@@ -16,12 +16,6 @@ ms.date: 06/08/2017
 
 
 Occurs when a user form is resized.
-<<<<<<< HEAD
- **Syntax**
- **Private Sub UserForm_Resize()**
- **Remarks**
-Use a Resize event [procedure](../../Glossary/vbe-glossary.md) to move or resize[controls](../../Glossary/vbe-glossary.md) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](../../Glossary/vbe-glossary.md) or[properties](../../Glossary/vbe-glossary.md).
-=======
 
 ## Syntax
 
@@ -30,7 +24,6 @@ Use a Resize event [procedure](../../Glossary/vbe-glossary.md) to move or resize
 ## Remarks
 
 Use a Resize event [procedure](../../Glossary/vbe-glossary.md#procedure) to move or resize[controls](../../Glossary/vbe-glossary.md#control) when the parent **UserForm** is resized. You can also use this event procedure to recalculate[variables](../../Glossary/vbe-glossary.md#variable) or[properties](../../Glossary/vbe-glossary.md#property).
->>>>>>> master
 
 ## Example
 
@@ -59,11 +52,7 @@ End Sub
 
 ' Resize event for UserForm1
 Private Sub UserForm_Resize()
-<<<<<<< HEAD
-    UserForm1.Caption = "New Height: " &; Height &; "  " &; "Click to resize me!"
-=======
     UserForm1.Caption = "New Height: " & Height & "  " & "Click to resize me!"
->>>>>>> master
 End Sub
 ```
 

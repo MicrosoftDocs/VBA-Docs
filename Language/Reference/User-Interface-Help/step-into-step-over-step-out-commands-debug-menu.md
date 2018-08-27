@@ -15,15 +15,9 @@ ms.date: 06/08/2017
 
 Executes code one statement at a time.
 
-<<<<<<< HEAD
-When not in design mode,  **Step Into** enters[break mode](../../Glossary/vbe-glossary.md) at the current line of execution. If the statement is a call to a procedure, the next statement displayed is the first statement in the procedure.
-
-At [design time](../../Glossary/vbe-glossary.md), this menu item begins execution and enters break mode before the first line of code is executed.
-=======
 When not in design mode,  **Step Into** enters[break mode](../../Glossary/vbe-glossary.md#break-mode) at the current line of execution. If the statement is a call to a procedure, the next statement displayed is the first statement in the procedure.
 
 At [design time](../../Glossary/vbe-glossary.md#design-time), this menu item begins execution and enters break mode before the first line of code is executed.
->>>>>>> master
 If there is no current execution point, the  **Step Into** command may appear to do nothing until you do something that triggers code, for example click on a document.
 Toolbar button: 
 ![Toolbar button](../../../images/tbr_stpi_ZA01201749.gif). Keyboard shortcut: F8.

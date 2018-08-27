@@ -14,12 +14,6 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**String**) consisting of the specified number of spaces.
-<<<<<<< HEAD
- **Syntax**
- **Space** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md) is the number of spaces you want in the string.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -28,7 +22,6 @@ The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is the
 
 ## Remarks
 
->>>>>>> master
 The  **Space** function is useful for formatting output and clearing data in fixed-length strings.
 
 ## Example
@@ -42,11 +35,7 @@ Dim MyString
 MyString = Space(10)
 
 ' Insert 10 spaces between two strings.
-<<<<<<< HEAD
-MyString = "Hello" &; Space(10) &; "World"
-=======
 MyString = "Hello" & Space(10) & "World"
->>>>>>> master
 
 
 ```

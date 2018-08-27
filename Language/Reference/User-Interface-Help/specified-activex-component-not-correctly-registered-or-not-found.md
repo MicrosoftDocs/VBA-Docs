@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Specified ActiveX component not correctly registered or not found
 
-<<<<<<< HEAD
-A component should be registered in the system [registry](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
-=======
 A component should be registered in the system [registry](../../Glossary/vbe-glossary.md#registry). This error has the following cause and solution:
->>>>>>> master
 
 
 
