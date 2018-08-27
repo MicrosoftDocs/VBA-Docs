@@ -67,11 +67,7 @@ Sub SortByDueDate()
  Set myItems = myFolder.Items 
  myItems.Sort "[DueDate]", False 
  For Each myItem In myItems 
-<<<<<<< HEAD
- MsgBox myItem.Subject &; "-- " &; myItem.DueDate 
-=======
  MsgBox myItem.Subject & "-- " & myItem.DueDate 
->>>>>>> master
  Next myItem 
 End Sub
 ```

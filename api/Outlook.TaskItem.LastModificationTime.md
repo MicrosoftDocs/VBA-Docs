@@ -56,11 +56,7 @@ Public Sub ContactDateCheck()
  
  If (myItem.Class = olContact) Then 
  
-<<<<<<< HEAD
- MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime 
-=======
  MsgBox myItem.FullName & ": " & myItem.LastModificationTime 
->>>>>>> master
  
  End If 
  
@@ -97,11 +93,7 @@ Public Sub ContactDateCheck2()
  
  DateStart = #01/1/2003# 
  
-<<<<<<< HEAD
- DateToCheck = "[LastModificationTime] >= """ &; DateStart &; """" 
-=======
  DateToCheck = "[LastModificationTime] >= """ & DateStart & """" 
->>>>>>> master
  
  Set myRestrictItems = myContacts.Restrict(DateToCheck) 
  
@@ -109,11 +101,7 @@ Public Sub ContactDateCheck2()
  
  If (myItem.Class = olContact) Then 
  
-<<<<<<< HEAD
- MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime 
-=======
  MsgBox myItem.FullName & ": " & myItem.LastModificationTime 
->>>>>>> master
  
  End If 
  

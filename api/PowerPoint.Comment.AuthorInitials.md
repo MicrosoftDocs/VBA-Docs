@@ -46,11 +46,7 @@ Sub GetAuthorName()
             AuthorInitials:="JS", _
             Text:="This is a new comment added to the first slide."
 
-<<<<<<< HEAD
-        MsgBox .Comments(1).Author &; .Comments(1).AuthorInitials
-=======
         MsgBox .Comments(1).Author & .Comments(1).AuthorInitials
->>>>>>> master
     End With
 
 End Sub

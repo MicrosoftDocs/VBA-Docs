@@ -107,11 +107,7 @@ Private Sub DoAutoDiscoverBasedWork()
  
  displayName = Mid(LastAutoDiscoverXml, posStartTag + 13, posEndTag - posStartTag - 13) 
  
-<<<<<<< HEAD
- Debug.Print "DisplayName = " &; displayName 
-=======
  Debug.Print "DisplayName = " & displayName 
->>>>>>> master
  
  End If 
  

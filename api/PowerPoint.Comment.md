@@ -42,11 +42,7 @@ Sub ShowComment()
 
         If .Count > 0 Then
 
-<<<<<<< HEAD
-            MsgBox "The first comment on this slide is by " &; .Item(1).Author
-=======
             MsgBox "The first comment on this slide is by " & .Item(1).Author
->>>>>>> master
 
         Else
 
@@ -75,17 +71,10 @@ Sub SlideComments()
 
     If cmtAll.Count > 0 Then
         For Each cmtExisting In cmtAll
-<<<<<<< HEAD
-            strComments = strComments &; cmtExisting.Author &; vbTab &; _
-                cmtExisting.DateTime &; vbTab &; cmtExisting.Text &; vbLf
-        Next
-        MsgBox "The comments in your document are as follows:" &; vbLf &; strComments
-=======
             strComments = strComments & cmtExisting.Author & vbTab & _
                 cmtExisting.DateTime & vbTab & cmtExisting.Text & vbLf
         Next
         MsgBox "The comments in your document are as follows:" & vbLf & strComments
->>>>>>> master
     Else
         MsgBox "This slide doesn't have any comments."
     End If

@@ -53,11 +53,7 @@ Private Sub objReminders_ReminderChange(ByVal ReminderObject As Reminder)
  
  'Occurs when reminder is changed 
  
-<<<<<<< HEAD
- MsgBox "The reminder " &; ReminderObject.Caption &; " has changed." 
-=======
  MsgBox "The reminder " & ReminderObject.Caption & " has changed." 
->>>>>>> master
  
 End Sub
 ```

@@ -66,11 +66,7 @@ Sub TestEntryIDs()
  EntryID2 = oPA.BinaryToString(oPA.GetProperty(EntryIDProperty)) 
  'The string equivalents of the two Entry IDs should be the same 
  If EntryID1 <> EntryID2 Then 
-<<<<<<< HEAD
- Debug.Print "Error obtaining EntryID for " &; oMsg.Subject 
-=======
  Debug.Print "Error obtaining EntryID for " & oMsg.Subject 
->>>>>>> master
  End If 
  Next 
 End Sub

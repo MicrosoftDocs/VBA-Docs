@@ -60,13 +60,8 @@ Private Sub app_PresentationSync(ByVal Pres As Presentation, _
     If SyncEventType = msoSyncEventDownloadFailed Or _
             SyncEventType = msoSyncEventUploadFailed Then
 
-<<<<<<< HEAD
-        MsgBox "Synchronization failed. " &; _
-            "Please contact your administrator, " &; vbCrLf &; _
-=======
         MsgBox "Synchronization failed. " & _
             "Please contact your administrator, " & vbCrLf & _
->>>>>>> master
             "or try again later."
 
     End If

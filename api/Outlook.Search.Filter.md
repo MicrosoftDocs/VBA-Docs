@@ -47,11 +47,7 @@ sFilter = "[CompanyName] = ""Microsoft"""
 
 
 ```vb
-<<<<<<< HEAD
-sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
-=======
 sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
->>>>>>> master
 ```
 
 
@@ -94,15 +90,9 @@ Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search)
  
  Dim Item as Outlook.MailItem 
  
-<<<<<<< HEAD
- MsgBox "The search " &; SearchObject.Tag &; "has finished. The filter used was " &; _ 
- 
- SearchObject.Filter &; "." 
-=======
  MsgBox "The search " & SearchObject.Tag & "has finished. The filter used was " & _ 
  
  SearchObject.Filter & "." 
->>>>>>> master
  
  Set objRsts = SearchObject.Results 
  

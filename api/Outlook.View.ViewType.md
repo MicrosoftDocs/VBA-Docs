@@ -56,25 +56,15 @@ Sub DisplayViewMode()
  
  For Each objView In objViews 
  
-<<<<<<< HEAD
- strTypes = strTypes &; objView.Name &; vbTab &; vbTab &; objView.ViewType &; vbCr 
-=======
  strTypes = strTypes & objView.Name & vbTab & vbTab & objView.ViewType & vbCr 
->>>>>>> master
  
  Next objView 
  
  'Display message box 
  
-<<<<<<< HEAD
- MsgBox "Current Inbox Views and Viewtypes:" &; vbCr &; _ 
- 
- vbCr &; strTypes 
-=======
  MsgBox "Current Inbox Views and Viewtypes:" & vbCr & _ 
  
  vbCr & strTypes 
->>>>>>> master
  
 End Sub
 ```

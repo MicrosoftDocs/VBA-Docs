@@ -39,11 +39,7 @@ This example displays the name of the active printer.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The name of the active printer is " &; Application.ActivePrinter
-=======
 MsgBox "The name of the active printer is " & Application.ActivePrinter
->>>>>>> master
 ```
 
 
