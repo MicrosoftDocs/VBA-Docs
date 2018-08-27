@@ -11,21 +11,13 @@ ms.date: 06/08/2017
 
 # Understanding Visual Basic Syntax
 
-<<<<<<< HEAD
-The syntax in a Visual Basic Help topic for a [method](../../Glossary/vbe-glossary.md), [statement](../../Glossary/vbe-glossary.md), or [function](../../Glossary/vbe-glossary.md) shows all the elements necessary to use the method, statement, or function correctly. The examples in this topic explain how to interpret the most common syntax elements.
-=======
 The syntax in a Visual Basic Help topic for a [method](../../Glossary/vbe-glossary.md#method), [statement](../../Glossary/vbe-glossary.md#statement), or [function](../../Glossary/vbe-glossary.md#function-procedure) shows all the elements necessary to use the method, statement, or function correctly. The examples in this topic explain how to interpret the most common syntax elements.
->>>>>>> master
 
  **Activate Method Syntax**
 
  _object_. **Activate**
 
-<<<<<<< HEAD
-In the  **Activate** method syntax, the italic word "object" is a placeholder for information you supply — in this case, code that returns an [object](../../Glossary/vbe-glossary.md). Words that are bold should be typed exactly as they appear. For example, the following [procedure](../../Glossary/vbe-glossary.md) activates the second window in the active document.
-=======
 In the  **Activate** method syntax, the italic word "object" is a placeholder for information you supply — in this case, code that returns an [object](../../Glossary/vbe-glossary.md#object). Words that are bold should be typed exactly as they appear. For example, the following [procedure](../../Glossary/vbe-glossary.md#procedure) activates the second window in the active document.
->>>>>>> master
 
 
 
@@ -37,11 +29,7 @@ End Sub
 
  **MsgBox Function Syntax**
  **MsgBox(**_prompt_ [ _, buttons_ ] [ _, title_ ] [ _, helpfile, context_ ] **)**
-<<<<<<< HEAD
-In the  **MsgBox** function syntax, the italic words are[named arguments](../../Glossary/vbe-glossary.md) of the function.  [Arguments](../../Glossary/vbe-glossary.md) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
-=======
 In the  **MsgBox** function syntax, the italic words are [named arguments](../../Glossary/vbe-glossary.md#named-argument) of the function.  [Arguments](../../Glossary/vbe-glossary.md#argument) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
->>>>>>> master
 Arguments for functions and methods can be specified in code either by position or by name. To specify arguments by position, follow the order presented in the syntax, separating each argument with a comma, for example:
 
 
@@ -75,11 +63,7 @@ End Sub
 
  **Option Statement Syntax**
  **Option** **Compare** { **Binary** |**Text** |**Database** }
-<<<<<<< HEAD
-In the  **Option** **Compare** statement syntax, the braces and vertical bar indicate a mandatory choice between three items. (Do not type the braces in the Visual Basic statement). For example, the following statement specifies that within the [module](../../Glossary/vbe-glossary.md), strings will be compared in a [sort order](../../Glossary/vbe-glossary.md) that is not case-sensitive.
-=======
 In the  **Option** **Compare** statement syntax, the braces and vertical bar indicate a mandatory choice between three items. (Do not type the braces in the Visual Basic statement). For example, the following statement specifies that within the [module](../../Glossary/vbe-glossary.md#module), strings will be compared in a [sort order](../../Glossary/vbe-glossary.md#sort-order) that is not case-sensitive.
->>>>>>> master
 
 
 
@@ -90,11 +74,7 @@ Option Compare Text
 
  **Dim Statement Syntax**
  **Dim**_varname_ [ **(** [ _subscripts_ ] **)** ] [ **As**_type_ ] [ **,**_varname_ [ **(** [ _subscripts_ ] **)** ] [ **As**_type_ ]] **. . .**
-<<<<<<< HEAD
-In the  **Dim** statement syntax, the word **Dim** is a required[keyword](../../Glossary/vbe-glossary.md). The only required element is  _varname_ (the variable name). For example, the following statement creates three variables: `myVar` , `nextVar` , and `thirdVar` . These are automatically declared as **Variant** variables.
-=======
 In the  **Dim** statement syntax, the word **Dim** is a required[keyword](../../Glossary/vbe-glossary.md#keyword). The only required element is  _varname_ (the variable name). For example, the following statement creates three variables: `myVar` , `nextVar` , and `thirdVar` . These are automatically declared as **Variant** variables.
->>>>>>> master
 
 
 
@@ -103,11 +83,7 @@ Dim myVar, nextVar, thirdVar
 
 ```
 
-<<<<<<< HEAD
-The following example declares a variable as a  **String**. Including a [data type](../../Glossary/vbe-glossary.md) saves memory and can help you find errors in your code.
-=======
 The following example declares a variable as a  **String**. Including a [data type](../../Glossary/vbe-glossary.md#data-type) saves memory and can help you find errors in your code.
->>>>>>> master
 
 
 
@@ -134,11 +110,7 @@ Dim x, y, z As Integer
 
 ```
 
-<<<<<<< HEAD
-If you are declaring an [array](../../Glossary/vbe-glossary.md) variable, you must include parentheses. The subscripts are optional. The following statement dimensions a dynamic array, `myArray`.
-=======
 If you are declaring an [array](../../Glossary/vbe-glossary.md#array) variable, you must include parentheses. The subscripts are optional. The following statement dimensions a dynamic array, `myArray`.
->>>>>>> master
 
 
 

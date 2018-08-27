@@ -11,15 +11,9 @@ ms.date: 06/08/2017
 
 # Declaring Variables
 
-<<<<<<< HEAD
-When declaring [variables](../../Glossary/vbe-glossary.md), you usually use a **Dim** statement. A declaration statement can be placed within a procedure to create a [procedure-level](../../Glossary/vbe-glossary.md) variable. Or it may be placed at the top of a [module](../../Glossary/vbe-glossary.md), in the Declarations section, to create a [module-level](../../Glossary/vbe-glossary.md) variable.
-
-The following example creates the variable and specifies the [String data type](../../Glossary/vbe-glossary.md).
-=======
 When declaring [variables](../../Glossary/vbe-glossary.md#variable), you usually use a **Dim** statement. A declaration statement can be placed within a procedure to create a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable. Or it may be placed at the top of a [module](../../Glossary/vbe-glossary.md#module), in the Declarations section, to create a [module-level](../../Glossary/vbe-glossary.md#module-level) variable.
 
 The following example creates the variable and specifies the [String data type](../../Glossary/vbe-glossary.md#string-data-type).
->>>>>>> master
 
 
 
@@ -27,11 +21,7 @@ The following example creates the variable and specifies the [String data type](
 Dim strName As String 
 ```
 
-<<<<<<< HEAD
-If this statement appears within a procedure, the variable `strName` can be used only in that procedure. If the statement appears in the Declarations section of the module, the variable `strName` is available to all procedures within the module, but not to procedures in other modules in the [project](../../Glossary/vbe-glossary.md). To make this variable available to all procedures in the project, precede it with the **Public** statement, as in the following example:
-=======
 If this statement appears within a procedure, the variable `strName` can be used only in that procedure. If the statement appears in the Declarations section of the module, the variable `strName` is available to all procedures within the module, but not to procedures in other modules in the [project](../../Glossary/vbe-glossary.md#project). To make this variable available to all procedures in the project, precede it with the **Public** statement, as in the following example:
->>>>>>> master
 
 
 
@@ -40,11 +30,7 @@ Public strName As String
 ```
 
 For information about naming your variables, see "Visual Basic Naming Rules" in Visual Basic Help.
-<<<<<<< HEAD
-Variables can be declared as one of the following data types: **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String ***_length_ (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md) using the **Type** statement. For more information on data types, see "Data Type Summary" in Visual Basic Help.
-=======
 Variables can be declared as one of the following data types: **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String ***_length_ (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) using the **Type** statement. For more information on data types, see "Data Type Summary" in Visual Basic Help.
->>>>>>> master
 You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. In the following statement, the variables `intX`, `intY`, and `intZ` are declared as type **Integer**.
 
 
@@ -72,11 +58,7 @@ You can use the **Public** statement to declare public module-level variables.
 Public strName As String 
 ```
 
-<<<<<<< HEAD
-Public variables can be used in any procedures in the project. If a public variable is declared in a [standard module](../../Glossary/vbe-glossary.md) or a [class module](../../Glossary/vbe-glossary.md), it can also be used in any projects that reference the project where the public variable is declared.
-=======
 Public variables can be used in any procedures in the project. If a public variable is declared in a [standard module](../../Glossary/vbe-glossary.md#standard-module) or a [class module](../../Glossary/vbe-glossary.md#class-module), it can also be used in any projects that reference the project where the public variable is declared.
->>>>>>> master
 
 
 ## Using the Private Statement
@@ -103,11 +85,7 @@ When you use the **Static** statement instead of a **Dim** statement to declare 
 
 You can implicitly declare a variable in Visual Basic simply by using it in an assignment statement. All variables that are implicitly declared are of type **Variant**. Variables of type **Variant** require more memory resources than most other variables. Your application will be more efficient if you declare variables explicitly and with a specific data type. Explicitly declaring all variables reduces the incidence of naming-conflict errors and spelling mistakes.
 
-<<<<<<< HEAD
-If you don't want Visual Basic to make implicit declarations, you can place the **Option Explicit** statement in a module before any procedures. This statement requires you to explicitly declare all variables within the module. If a module includes the **Option Explicit** statement, a [compile-time](../../Glossary/vbe-glossary.md) error will occur when Visual Basic encounters a variable name that has not been previously declared, or that has been spelled incorrectly.
-=======
 If you don't want Visual Basic to make implicit declarations, you can place the **Option Explicit** statement in a module before any procedures. This statement requires you to explicitly declare all variables within the module. If a module includes the **Option Explicit** statement, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error will occur when Visual Basic encounters a variable name that has not been previously declared, or that has been spelled incorrectly.
->>>>>>> master
 
 You can set an option in your Visual Basic programming environment to automatically include the **Option Explicit** statement in all new modules. See your application's documentation for help on how to change Visual Basic environment options. Note that this option does not change existing code you have written.
 
@@ -117,11 +95,7 @@ You can set an option in your Visual Basic programming environment to automatica
 
 ## Declaring an Object Variable for Automation
 
-<<<<<<< HEAD
-When you use one application to control another application's objects, you should set a reference to the other application's [type library](../../Glossary/vbe-glossary.md). Once you set a reference, you can declare [object variables](../../Glossary/vbe-glossary.md) according to their most specific type. For example, if you are in Microsoft Word when you set a reference to the Microsoft Excel type library, you can declare a variable of type **Worksheet** from within Microsoft Word to represent a Microsoft Excel **Worksheet** object.
-=======
 When you use one application to control another application's objects, you should set a reference to the other application's [type library](../../Glossary/vbe-glossary.md#type-library). Once you set a reference, you can declare [object variables](../../Glossary/vbe-glossary.md#object-variable) according to their most specific type. For example, if you are in Microsoft Word when you set a reference to the Microsoft Excel type library, you can declare a variable of type **Worksheet** from within Microsoft Word to represent a Microsoft Excel **Worksheet** object.
->>>>>>> master
 
 If you are using another application to control Microsoft Access objects, in most cases, you can declare object variables according to their most specific type. You can also use the **New** keyword to create a new instance of an object automatically. However, you may have to indicate that it is a Microsoft Access object. For example, when you declare an object variable to represent a Microsoft Access form from within Microsoft Visual Basic, you must distinguish the Microsoft Access **Form** object from a Visual Basic **Form** object. Include the name of the type library in the variable declaration, as in the following example:
 

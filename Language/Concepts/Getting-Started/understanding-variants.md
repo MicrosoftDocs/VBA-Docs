@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Understanding Variants
 
-<<<<<<< HEAD
-The  **Variant** data type is automatically specified if you don't specify a [data type](../../Glossary/vbe-glossary.md) when you declare a [constant](../../Glossary/vbe-glossary.md), [variable](../../Glossary/vbe-glossary.md), or [argument](../../Glossary/vbe-glossary.md). Variables declared as the  **Variant** data type can contain string, date, time, Boolean, or numeric values, and can convert the values they contain automatically. Numeric **Variant** values require 16 bytes of memory (which is significant only in large [procedures](../../Glossary/vbe-glossary.md) or complex [modules](../../Glossary/vbe-glossary.md)) and they are slower to access than explicitly typed variables of any other type. You rarely use the  **Variant** data type for a constant. String **Variant** values require 22 bytes of memory.
-=======
 The  **Variant** data type is automatically specified if you don't specify a [data type](../../Glossary/vbe-glossary.md#data-type) when you declare a [constant](../../Glossary/vbe-glossary.md#constant), [variable](../../Glossary/vbe-glossary.md#variable), or [argument](../../Glossary/vbe-glossary.md#argument). Variables declared as the  **Variant** data type can contain string, date, time, Boolean, or numeric values, and can convert the values they contain automatically. Numeric **Variant** values require 16 bytes of memory (which is significant only in large [procedures](../../Glossary/vbe-glossary.md#procedure) or complex [modules](../../Glossary/vbe-glossary.md#module)) and they are slower to access than explicitly typed variables of any other type. You rarely use the  **Variant** data type for a constant. String **Variant** values require 22 bytes of memory.
->>>>>>> master
 
 The following statements create  **Variant** variables:
 

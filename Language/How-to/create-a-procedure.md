@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Create a Procedure
 
-<<<<<<< HEAD
-Code within a [module](../Glossary/vbe-glossary.md) is organized into[procedures](../Glossary/vbe-glossary.md). A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units.
-=======
 Code within a [module](../Glossary/vbe-glossary.md#module) is organized into[procedures](../Glossary/vbe-glossary.md#procedure). A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units.
->>>>>>> master
 
  **To create a procedure by writing code**
 
@@ -44,11 +40,7 @@ Code within a [module](../Glossary/vbe-glossary.md#module) is organized into[pro
     
 5. Set the procedure's scope to either Public or Private.
     
-<<<<<<< HEAD
-6. You can select the  **All Local Variables as Statics** to add the **Static**[keyword](../Glossary/vbe-glossary.md) to the procedure definition.
-=======
 6. You can select the  **All Local Variables as Statics** to add the **Static**[keyword](../Glossary/vbe-glossary.md#keyword) to the procedure definition.
->>>>>>> master
     
 7. Click  **OK**.
     

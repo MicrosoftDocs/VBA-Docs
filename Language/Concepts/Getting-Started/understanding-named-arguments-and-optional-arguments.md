@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Understanding Named Arguments and Optional Arguments
 
-<<<<<<< HEAD
-When you call a  **Sub** or **Function** [procedure](../../Glossary/vbe-glossary.md), you can supply [arguments](../../Glossary/vbe-glossary.md) positionally, in the order they appear in the procedure's definition, or you can supply the arguments by name without regard to position.
-=======
 When you call a  **Sub** or **Function** [procedure](../../Glossary/vbe-glossary.md#procedure), you can supply [arguments](../../Glossary/vbe-glossary.md#argument) positionally, in the order they appear in the procedure's definition, or you can supply the arguments by name without regard to position.
->>>>>>> master
 
 For example, the following  **Sub** procedure takes three arguments:
 
@@ -36,11 +32,7 @@ PassArgs "Mary", 29, #2-21-69#
 
 ```
 
-<<<<<<< HEAD
-You can also call this procedure by supplying [named arguments](../../Glossary/vbe-glossary.md), delimiting each with a comma.
-=======
 You can also call this procedure by supplying [named arguments](../../Glossary/vbe-glossary.md#named-argument), delimiting each with a comma.
->>>>>>> master
 
 
 
@@ -51,11 +43,7 @@ PassArgs intAge:=29, dteBirth:=#2/21/69#, strName:="Mary"
 
 A named argument consists of an argument name followed by a colon and an equal sign (**:=**), followed by the argument value.
 Named arguments are especially useful when you are calling a procedure that has optional arguments. If you use named arguments, you don't have to include commas to denote missing positional arguments. Using named arguments makes it easier to keep track of which arguments you passed and which you omitted.
-<<<<<<< HEAD
-Optional arguments are preceded by the  **Optional** [keyword](../../Glossary/vbe-glossary.md) in the procedure definition. You can also specify a default value for the optional argument in the procedure definition. For example:
-=======
 Optional arguments are preceded by the  **Optional** [keyword](../../Glossary/vbe-glossary.md#keyword) in the procedure definition. You can also specify a default value for the optional argument in the procedure definition. For example:
->>>>>>> master
 
 
 

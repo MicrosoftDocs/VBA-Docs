@@ -11,15 +11,9 @@ ms.date: 06/08/2017
 
 # Using For...Next Statements
 
-<<<<<<< HEAD
-You can use  **For...Next** statements to repeat a block of[statements](../../Glossary/vbe-glossary.md) a specific number of times. **For** loops use a counter[variable](../../Glossary/vbe-glossary.md) whose value is increased or decreased with each repetition of the loop.
-
-The following [procedure](../../Glossary/vbe-glossary.md) makes the computer beep 50 times. The **For** statement specifies the counter variable and its start and end values. The **Next** statement increments the counter variable by 1.
-=======
 You can use  **For...Next** statements to repeat a block of[statements](../../Glossary/vbe-glossary.md#statement) a specific number of times. **For** loops use a counter[variable](../../Glossary/vbe-glossary.md#variable) whose value is increased or decreased with each repetition of the loop.
 
 The following [procedure](../../Glossary/vbe-glossary.md#procedure) makes the computer beep 50 times. The **For** statement specifies the counter variable and its start and end values. The **Next** statement increments the counter variable by 1.
->>>>>>> master
 
 
 
@@ -31,11 +25,7 @@ Sub Beeps()
 End Sub
 ```
 
-<<<<<<< HEAD
-Using the  **Step**[keyword](../../Glossary/vbe-glossary.md), you can increase or decrease the counter variable by the value you specify. In the following example, the counter variable  `j` is incremented by 2 each time the loop repeats. When the loop is finished, `total` is the sum of 2, 4, 6, 8, and 10.
-=======
 Using the  **Step**[keyword](../../Glossary/vbe-glossary.md#keyword), you can increase or decrease the counter variable by the value you specify. In the following example, the counter variable  `j` is incremented by 2 each time the loop repeats. When the loop is finished, `total` is the sum of 2, 4, 6, 8, and 10.
->>>>>>> master
 
 
 
@@ -44,11 +34,7 @@ Sub TwosTotal()
     For j = 2 To 10 Step 2 
         total = total + j 
     Next j 
-<<<<<<< HEAD
-    MsgBox "The total is " &; total 
-=======
     MsgBox "The total is " & total 
->>>>>>> master
 End Sub
 ```
 
@@ -61,11 +47,7 @@ Sub NewTotal()
     For myNum = 16 To 2 Step -2 
         total = total + myNum 
     Next myNum 
-<<<<<<< HEAD
-    MsgBox "The total is " &; total 
-=======
     MsgBox "The total is " & total 
->>>>>>> master
 End Sub
 ```
 

@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Copy Example Code from Help
 
-<<<<<<< HEAD
-Sometimes you may want to copy a useful example from Visual Basic Help. While many of the examples require more code to work correctly, some examples are useful to see how a particular [procedure](../Glossary/vbe-glossary.md) or control flow technique behaves.
-=======
 Sometimes you may want to copy a useful example from Visual Basic Help. While many of the examples require more code to work correctly, some examples are useful to see how a particular [procedure](../Glossary/vbe-glossary.md#procedure) or control flow technique behaves.
->>>>>>> master
 
  **To copy example code from Help to your application**
 

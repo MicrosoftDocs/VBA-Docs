@@ -13,14 +13,9 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns the active [project](../../Glossary/vbe-glossary.md) in the[Project window](../../Glossary/vbe-glossary.md). Read-only.
- **Remarks**
-=======
 Returns the active [project](../../Glossary/vbe-glossary.md#project) in the[Project window](../../Glossary/vbe-glossary.md#project-window). Read-only.
 
 ## Remarks
 
->>>>>>> master
 The  **ActiveVBProject** property returns the project that is selected in the **Project** window or the project in which the components are selected. In the latter case, the project itself isn't necessarily selected. Whether or not the project is explicitly selected, there is always an active project.
 

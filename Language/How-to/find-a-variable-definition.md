@@ -15,11 +15,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-1. In the  **Code** window, select the[variable](../Glossary/vbe-glossary.md) whose definition you want to see.
-=======
 1. In the  **Code** window, select the[variable](../Glossary/vbe-glossary.md#variable) whose definition you want to see.
->>>>>>> master
     
 2. From the  **View** menu, choose **Definition** (SHIFT+F2).
     

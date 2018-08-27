@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Import a Text File into Code
 
-<<<<<<< HEAD
-You can import a text file containing code into the current [module](../Glossary/vbe-glossary.md) and use it in your code.
-=======
 You can import a text file containing code into the current [module](../Glossary/vbe-glossary.md#module) and use it in your code.
->>>>>>> master
 
  **To import a text file into a module**
 
