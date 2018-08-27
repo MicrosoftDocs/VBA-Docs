@@ -90,11 +90,7 @@ Function FindAndReplace(strModuleName As String, _
  ' Store characters to right of search text. 
  strRight = Right$(strLine, intAfter) 
  ' Construct string with replacement text. 
-<<<<<<< HEAD
- strNewLine = strLeft &; strNewText &; strRight 
-=======
  strNewLine = strLeft & strNewText & strRight 
->>>>>>> master
  ' Replace original line. 
  mdl.ReplaceLine lngSLine, strNewLine 
  FindAndReplace = True 
@@ -108,11 +104,7 @@ Exit_FindAndReplace:
  
 Error_FindAndReplace: 
  
-<<<<<<< HEAD
-MsgBox Err &; ": " &; Err.Description 
-=======
 MsgBox Err & ": " & Err.Description 
->>>>>>> master
  FindAndReplace = False 
  Resume Exit_FindAndReplace 
 End Function

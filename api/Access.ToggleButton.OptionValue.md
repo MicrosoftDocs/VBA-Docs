@@ -52,11 +52,7 @@ End Sub
  
 Private Sub Ship_Method_Group_Click() 
  
-<<<<<<< HEAD
- MsgBox "The ID for the selected shipper is " &; Me.Controls("Ship Method Group").Value 
-=======
  MsgBox "The ID for the selected shipper is " & Me.Controls("Ship Method Group").Value 
->>>>>>> master
  
 End Sub
 ```

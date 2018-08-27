@@ -59,11 +59,7 @@ This example runs when the position of the mouse pointer changes over a chart.
 
 ```vb
 Private Sub Chart_MouseMove(ByVal Button As Long, ByVal Shift As Long, ByVal X As Long, ByVal Y As Long) 
-<<<<<<< HEAD
- MsgBox "X = " &; X &; " Y = " &; Y 
-=======
  MsgBox "X = " & X & " Y = " & Y 
->>>>>>> master
 End Sub
 ```
 

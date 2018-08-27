@@ -75,11 +75,7 @@ Exit_Procedure:
     Exit Sub
 
 Error_Handler:
-<<<<<<< HEAD
-    MsgBox Err.Number &; ": " &; Err.Description
-=======
     MsgBox Err.Number & ": " & Err.Description
->>>>>>> master
     Resume Exit_Procedure
     Resume
 

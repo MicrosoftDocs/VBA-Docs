@@ -46,11 +46,7 @@ The following code example displays a message box if the workbook was successful
 Private Sub App_WorkbookAfterSave(ByVal Wb As Workbook, _ 
  ByVal Success As Boolean) 
 If Success Then 
-<<<<<<< HEAD
- MsgBox ("The " &; Wb.Name &; " workbook was successfully saved.") 
-=======
  MsgBox ("The " & Wb.Name & " workbook was successfully saved.") 
->>>>>>> master
 End If 
 End Sub
 ```
@@ -61,8 +57,4 @@ End Sub
 
 [Application Object](Excel.Application(object).md)
 
-<<<<<<< HEAD
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
-=======
-[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
->>>>>>> master

@@ -34,11 +34,7 @@ This example displays the number of Microsoft Excel 4.0 macro sheets in the acti
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "There are " &; ActiveWorkbook.Excel4MacroSheets.Count &; _ 
-=======
 MsgBox "There are " & ActiveWorkbook.Excel4MacroSheets.Count & _ 
->>>>>>> master
  " Microsoft Excel 4.0 macro sheets in this workbook."
 ```
 

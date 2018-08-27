@@ -82,13 +82,8 @@ Dim strProc As String
 strForm = "Products" 
 strProc = "Form_Activate" 
  
-<<<<<<< HEAD
-MsgBox "The procedure " &; strProc &; " starts on line " &; _ 
- Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) &; "."
-=======
 MsgBox "The procedure " & strProc & " starts on line " & _ 
  Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) & "."
->>>>>>> master
 ```
 
 

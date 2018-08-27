@@ -52,13 +52,8 @@ Sub CreateHyperlink(ctlSelected As Control, _
  .SubAddress = "" 
  End With 
  Case Else 
-<<<<<<< HEAD
- MsgBox "The control '" &; ctlSelected.Name _ 
- &; "' does not support hyperlinks." 
-=======
  MsgBox "The control '" & ctlSelected.Name _ 
  & "' does not support hyperlinks." 
->>>>>>> master
  End Select 
 End Sub
 ```

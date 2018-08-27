@@ -55,11 +55,7 @@ Sub CheckCustomProperties()
  
  ' Display metadata. 
  With wksSheet1.CustomProperties.Item(1) 
-<<<<<<< HEAD
- MsgBox .Name &; vbTab &; .Value 
-=======
  MsgBox .Name & vbTab & .Value 
->>>>>>> master
  End With 
  
 End Sub

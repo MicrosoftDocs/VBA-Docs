@@ -50,14 +50,6 @@ Sub CreateColorScaleCF()
 End Sub
 ```
 
-<<<<<<< HEAD
-
-## See also
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
-
-=======
 ## Properties
 
 |**Name**|
@@ -73,5 +65,4 @@ End Sub
 ## See also
 
 [ColorScaleCriterion.FormatColor Property](excel.colorscalecriterion.formatcolor.md)
->>>>>>> master
 

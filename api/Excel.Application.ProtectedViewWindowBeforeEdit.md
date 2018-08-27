@@ -47,11 +47,7 @@ Private Sub App_ProtectedViewWindowBeforeEdit(ByVal Pvw As ProtectedViewWindow, 
  Dim intResponse As Integer 
  
  intResponse = MsgBox("Do you really " _ 
-<<<<<<< HEAD
- &; "want to edit the workbook?", _ 
-=======
  & "want to edit the workbook?", _ 
->>>>>>> master
  vbYesNo) 
  
  If intResponse = vbNo Then Cancel = True 

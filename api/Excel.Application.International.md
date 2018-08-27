@@ -129,11 +129,7 @@ This example displays the international decimal separator.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The decimal separator is " &; _ 
-=======
 MsgBox "The decimal separator is " & _ 
->>>>>>> master
  Application.International(xlDecimalSeparator)
 ```
 

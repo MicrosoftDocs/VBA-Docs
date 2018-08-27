@@ -29,11 +29,7 @@ This example displays the name (**Caption** property) of the active window.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "The name of the active window is " &; ActiveWindow.Caption
-=======
 MsgBox "The name of the active window is " & ActiveWindow.Caption
->>>>>>> master
 ```
 
 

@@ -49,15 +49,6 @@ To try this example, add the following event procedure to a report. Try running 
 
 ```vb
 Private Sub Report_NoData(Cancel As Integer) 
-<<<<<<< HEAD
-    MsgBox "The report has no data." &; _ 
-         chr(13) &; "Printing is canceled. " &; _ 
-         chr(13) &; "Check the data source for the " &; _ 
-         chr(13) &; "report. Make sure you entered " &; _ 
-         chr(13) &; "the correct criteria (for " &; _ 
-         chr(13) &; "example, a valid range of " &; _ 
-         chr(13) &; "dates),." vbOKOnly + vbInformation 
-=======
     MsgBox "The report has no data." & _ 
          chr(13) & "Printing is canceled. " & _ 
          chr(13) & "Check the data source for the " & _ 
@@ -65,7 +56,6 @@ Private Sub Report_NoData(Cancel As Integer)
          chr(13) & "the correct criteria (for " & _ 
          chr(13) & "example, a valid range of " & _ 
          chr(13) & "dates),." vbOKOnly + vbInformation 
->>>>>>> master
     Cancel = True 
 End Sub 
 ```
@@ -81,11 +71,7 @@ Private Sub Report_NoData(Cancel As Integer)
 
     'Add code here that will be executed if no data
     'was returned by the Report's RecordSource
-<<<<<<< HEAD
-    MsgBox "No customers ordered this product this month. " &; _
-=======
     MsgBox "No customers ordered this product this month. " & _
->>>>>>> master
         "The report will now close."
     Cancel = True
 

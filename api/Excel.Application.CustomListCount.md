@@ -29,11 +29,7 @@ This example displays the number of custom lists that are currently defined.
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "There are currently " &; Application.CustomListCount &; _ 
-=======
 MsgBox "There are currently " & Application.CustomListCount & _ 
->>>>>>> master
  " defined custom lists."
 ```
 

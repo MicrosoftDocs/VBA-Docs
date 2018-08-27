@@ -33,11 +33,7 @@ Set newSheet = Worksheets.Add
 i = 1 
 For Each nm In ActiveWorkbook.Names 
  newSheet.Cells(i, 1).Value = nm.Name 
-<<<<<<< HEAD
- newSheet.Cells(i, 2).Value = "'" &; nm.RefersTo 
-=======
  newSheet.Cells(i, 2).Value = "'" & nm.RefersTo 
->>>>>>> master
  i = i + 1 
 Next 
 newSheet.Columns("A:B").AutoFit
