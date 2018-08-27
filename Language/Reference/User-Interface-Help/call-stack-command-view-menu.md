@@ -11,15 +11,9 @@ ms.date: 06/08/2017
 
 # Call Stack Command (View Menu)
 
-<<<<<<< HEAD
-Displays the  **Call Stack** dialog box, which lists the procedures that have started but are not completed. Available only in[break mode](../../Glossary/vbe-glossary.md).
-
-When Visual Basic is executing the code in a procedure, that procedure is added to a list of active procedure calls. If that procedure then calls another procedure, there are two procedures on the list of active procedure calls. Each time a procedure calls another [Sub](../../Glossary/vbe-glossary.md), [Function](../../Glossary/vbe-glossary.md), or  **Property** procedure, it is added to the list. Each procedure is removed from the list as execution is returned to the calling procedure. Procedures called from the **Immediate** window are also added to the calls list.
-=======
 Displays the  **Call Stack** dialog box, which lists the procedures that have started but are not completed. Available only in [break mode](../../Glossary/vbe-glossary.md#break-mode).
 
 When Visual Basic is executing the code in a procedure, that procedure is added to a list of active procedure calls. If that procedure then calls another procedure, there are two procedures on the list of active procedure calls. Each time a procedure calls another [Sub](../../Glossary/vbe-glossary.md#sub-procedure), [Function](../../Glossary/vbe-glossary.md#function-procedure), or [Property](../../Glossary/vbe-glossary.md#property-procedure) procedure, it is added to the list. Each procedure is removed from the list as execution is returned to the calling procedure. Procedures called from the **Immediate** window are also added to the calls list.
->>>>>>> master
 
 You can also display the  **Call Stack** dialog box by clicking the **Calls** button (...) next to the Procedure box in the **Locals** window.
 

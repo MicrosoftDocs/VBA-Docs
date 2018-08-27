@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Can't display hidden procedure
 
-<<<<<<< HEAD
-Everything in a hidden [module](../../Glossary/vbe-glossary.md) is hidden. This error has the following cause and solution:
-
-
-
-- You tried to view a [procedure](../../Glossary/vbe-glossary.md) in a hidden module.
-=======
 Everything in a hidden [module](../../Glossary/vbe-glossary.md#module) is hidden. This error has the following cause and solution:
 
 
 
 - You tried to view a [procedure](../../Glossary/vbe-glossary.md#procedure) in a hidden module.
->>>>>>> master
     
     Unhide the module to view the procedure. To view a line that generated an error in a hidden procedure, run the code after unhiding the module to view the error.
     

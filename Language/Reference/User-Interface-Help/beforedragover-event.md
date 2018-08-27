@@ -16,13 +16,9 @@ ms.date: 06/08/2017
 
 
 Occurs when a drag-and-drop operation is in progress.
-<<<<<<< HEAD
- **Syntax**
-=======
 
 ## Syntax
 
->>>>>>> master
 For Frame **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For MultiPage **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For TabStrip **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
@@ -39,11 +35,7 @@ The  **BeforeDragOver** event syntax has these parts:
 | _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a  **DataObject**.|
 | _X, Y_|Required. The horizontal and vertical coordinates of the control's position. Both coordinates are measured in points.  _X_ is measured from the left edge of the control; _Y_ is measured from the top of the control..|
 | _DragState_|Required. Transition state of the data being dragged.|
-<<<<<<< HEAD
-| _Effect_|Required. Operations supported by the [drop source](../../../language/Glossary/glossary-vba.md).|
-=======
 | _Effect_|Required. Operations supported by the [drop source](../../Glossary/glossary-vba.md#drop-source).|
->>>>>>> master
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 
  **Settings**

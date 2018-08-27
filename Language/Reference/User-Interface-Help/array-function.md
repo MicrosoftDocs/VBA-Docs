@@ -13,14 +13,6 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [Variant](../../Glossary/vbe-glossary.md) containing an[array](../../Glossary/vbe-glossary.md).
- **Syntax**
- **Array(**_arglist_**)**
-The required  _arglist_[argument](../../Glossary/vbe-glossary.md) is a comma-delimited list of values that are assigned to the elements of the array contained within the **Variant**. If no arguments are specified, an array of zero length is created.
- **Remarks**
-The notation used to refer to an element of an array consists of the [variable](../../Glossary/vbe-glossary.md) name followed by parentheses containing an index number indicating the desired element. In the following example, the first[statement](../../Glossary/vbe-glossary.md) creates a variable named `A` as a **Variant**. The second statement assigns an array to variable `A`. The last statement assigns the value contained in the second array element to another variable.
-=======
 Returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing an[array](../../Glossary/vbe-glossary.md#array).
 
 ## Syntax
@@ -31,7 +23,6 @@ The required  _arglist_[argument](../../Glossary/vbe-glossary.md#argument) is a 
 ## Remarks
 
 The notation used to refer to an element of an array consists of the [variable](../../Glossary/vbe-glossary.md#variable) name followed by parentheses containing an index number indicating the desired element. In the following example, the first[statement](../../Glossary/vbe-glossary.md#statement) creates a variable named `A` as a **Variant**. The second statement assigns an array to variable `A`. The last statement assigns the value contained in the second array element to another variable.
->>>>>>> master
 
 
 
@@ -49,11 +40,7 @@ Next i
 
 The lower bound of an array created using the  **Array** function is determined by the lower bound specified with the **Option Base** statement, unless **Array** is qualified with the name of the type library (for example **VBA.Array**). If qualified with the type-library name, **Array** is unaffected by **Option Base**.
 
-<<<<<<< HEAD
- **Note**  A  **Variant** that is not declared as an array can still contain an array. A **Variant** variable can contain an array of any type, except fixed-length strings and[user-defined types](../../Glossary/vbe-glossary.md). Although a  **Variant** containing an array is conceptually different from an array whose elements are of type **Variant**, the array elements are accessed in the same way.
-=======
  **Note**  A  **Variant** that is not declared as an array can still contain an array. A **Variant** variable can contain an array of any type, except fixed-length strings and[user-defined types](../../Glossary/vbe-glossary.md#user-defined-type). Although a  **Variant** containing an array is conceptually different from an array whose elements are of type **Variant**, the array elements are accessed in the same way.
->>>>>>> master
 
 
 ## Example

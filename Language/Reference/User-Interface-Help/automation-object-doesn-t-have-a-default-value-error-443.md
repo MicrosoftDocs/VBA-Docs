@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Automation object doesn't have a default value (Error 443)
 
-<<<<<<< HEAD
-When you specify an object name without a [property](../../Glossary/vbe-glossary.md) or[method](../../Glossary/vbe-glossary.md), Visual Basic assumes you are referencing the object's default [member](../../Glossary/vbe-glossary.md) (property or method). However, not all objects expose a default member. This error has the following cause and solution:
-=======
 When you specify an object name without a [property](../../Glossary/vbe-glossary.md#property) or[method](../../Glossary/vbe-glossary.md#method), Visual Basic assumes you are referencing the object's default [member](../../Glossary/vbe-glossary.md#member) (property or method). However, not all objects expose a default member. This error has the following cause and solution:
->>>>>>> master
 
 
 

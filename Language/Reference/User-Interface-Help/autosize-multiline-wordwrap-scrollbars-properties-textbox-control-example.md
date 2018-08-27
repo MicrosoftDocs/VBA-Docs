@@ -34,11 +34,7 @@ Private Sub UserForm_Initialize()
 'Initialize TextBox properties and toggle buttons 
  
  TextBox1.Text = "Type your text here. " 
-<<<<<<< HEAD
- &; "Enter SHIFT+ENTER to move to a new line." 
-=======
  & "Enter SHIFT+ENTER to move to a new line." 
->>>>>>> master
  
  TextBox1.AutoSize = False 
  ToggleButton1.Caption = "AutoSize Off" 

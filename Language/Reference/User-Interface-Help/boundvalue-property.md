@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Contains the value of a control when that control receives the focus.
-<<<<<<< HEAD
- **Syntax**
- _object_. **BoundValue** [= _Variant_ ]
-=======
 
 ## Syntax
 
 _object_. **BoundValue** [= _Variant_ ]
->>>>>>> master
 The  **BoundValue** property syntax has these parts:
 
 
@@ -39,11 +34,7 @@ The  **BoundValue** property syntax has these parts:
 |**Control**|**Description**|
 |:-----|:-----|
 |**CheckBox**|An integer value indicating whether the item is selected:|
-<<<<<<< HEAD
-||Null Indicates the item is in a null state, neither selected nor [cleared](../../../language/Glossary/glossary-vba.md).|
-=======
 ||Null Indicates the item is in a null state, neither selected nor [cleared](../../Glossary/glossary-vba.md#clear).|
->>>>>>> master
 ||-1 True. Indicates the item is selected.|
 ||0 False. Indicates the item is cleared.|
 |**OptionButton**|Same as  **CheckBox**.|
@@ -56,14 +47,9 @@ The  **BoundValue** property syntax has these parts:
 ||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
 |**TextBox**|The text in the edit region.|
 
-<<<<<<< HEAD
- **Remarks**
- **BoundValue** applies to the control that has the focus.
-=======
 ## Remarks
 
 **BoundValue** applies to the control that has the focus.
->>>>>>> master
 The contents of the  **BoundValue** and **Value** properties are identical most of the time. When the user edits a control so that its value changes, the contents of **BoundValue** and **Value** are different until the change is final.
 Several things occur when the user changes the value of a control. For example, if a user changes the text in a  **TextBox**, the following things occur:
 
