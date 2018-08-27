@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Occurs when the  **Value** property changes.
-<<<<<<< HEAD
- **Syntax**
- **Private Sub**_object_ _**Change( )**
-=======
 
 ## Syntax
 
 **Private Sub**_object_ _**Change( )**
->>>>>>> master
 The  **Change** event syntax has these parts:
 
 
@@ -48,15 +43,9 @@ Here are some examples of actions that change the  **Value** property:
 - Clicking the up arrow or down arrow on a  **SpinButton**.
     
 - Selecting a different page on a  **MultiPage**.
-<<<<<<< HEAD
-    
-
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 The Change event procedure can synchronize or coordinate data displayed among controls. For example, you can use the Change event procedure of a  **ScrollBar** to update the contents of a **TextBox** that displays the value of the **ScrollBar**. Or you can use a Change event procedure to display data and formulas in a work area and results in another area.
 
  **Note**  In some cases, the Click event may also occur when the  **Value** property changes. However, using the Change event is the preferred technique for detecting a new value for a property.

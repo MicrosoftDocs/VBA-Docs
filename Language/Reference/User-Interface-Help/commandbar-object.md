@@ -13,13 +13,8 @@ ms.date: 06/08/2017
 
 
 The  **CommandBar** object contains other **CommandBar** objects, which can act as either buttons or menu commands.
-<<<<<<< HEAD
- **Syntax**
- **CommandBar**
-=======
 
 ## Syntax
 
 **CommandBar**
->>>>>>> master
 

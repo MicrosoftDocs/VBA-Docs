@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 During remote access (that is, when accessing an object that is part of another process or is running on another machine), the connection to the library containing object information was broken. This error has the following cause and solution:
 
-<<<<<<< HEAD
-- You lost your connection to the remote process's [object library](../../Glossary/vbe-glossary.md) or [type library](../../Glossary/vbe-glossary.md).
-=======
 - You lost your connection to the remote process's [object library](../../Glossary/vbe-glossary.md#object-library) or [type library](../../Glossary/vbe-glossary.md#type-library).
->>>>>>> master
     
   To reconnect, follow these steps:
     

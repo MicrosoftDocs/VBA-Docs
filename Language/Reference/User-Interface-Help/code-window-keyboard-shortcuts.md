@@ -18,11 +18,7 @@ You can use the following shortcut keys to access commands in the  **Code** wind
 |**Description**|**Shortcut Keys**|
 |:-----|:-----|
 |View  **Code** window|F7|
-<<<<<<< HEAD
-|View [Object Browser](../../Glossary/vbe-glossary.md)|F2|
-=======
 |View [Object Browser](../../Glossary/vbe-glossary.md#object-browser)|F2|
->>>>>>> master
 |Find|CTRL+F|
 |Replace|CTRL+H|
 |Find Next|F3|
@@ -33,11 +29,7 @@ You can use the following shortcut keys to access commands in the  **Code** wind
 |Shift one screen down|CTRL+PAGE DOWN|
 |Shift one screen up|CTRL+PAGE UP|
 |Go to last position|CTRL+SHIFT+F2|
-<<<<<<< HEAD
-|Beginning of [module](../../Glossary/vbe-glossary.md)|CTRL+HOME|
-=======
 |Beginning of [module](../../Glossary/vbe-glossary.md#module)|CTRL+HOME|
->>>>>>> master
 |End of module|CTRL+END|
 |Move one word to right|CTRL+RIGHT ARROW|
 |Move one word to left|CTRL+LEFT ARROW|
@@ -48,10 +40,6 @@ You can use the following shortcut keys to access commands in the  **Code** wind
 |Delete to end of word|CTRL+DELETE|
 |Indent|TAB|
 |Outdent|SHIFT+TAB|
-<<<<<<< HEAD
-|Clear all [breakpoints](../../Glossary/vbe-glossary.md)|CTRL+SHIFT+F9|
-=======
 |Clear all [breakpoints](../../Glossary/vbe-glossary.md#breakpoint)|CTRL+SHIFT+F9|
->>>>>>> master
 |View shortcut menu|SHIFT+F10|
 
