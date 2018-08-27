@@ -13,30 +13,16 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Used to perform a logical equivalence on two [expressions](../../Glossary/vbe-glossary.md).
- **Syntax**
- _result_**=**_expression1_ **Eqv** _expression2_
-=======
 Used to perform a logical equivalence on two [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
 _result_**=**_expression1_ **Eqv** _expression2_
->>>>>>> master
 The  **Eqv** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
-| _expression1_|Required; any expression.|
-| _expression2_|Required; any expression.|
-
- **Remarks**
-If either expression is [Null](../../Glossary/vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
-=======
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
@@ -44,7 +30,6 @@ If either expression is [Null](../../Glossary/vbe-glossary.md),  _result_ is als
 ## Remarks
 
 If either expression is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
->>>>>>> master
 
 
 |**If  _expression1_ is**|**And  _expression2_ is**|**The  _result_ is**|
@@ -54,11 +39,7 @@ If either expression is [Null](../../Glossary/vbe-glossary.md#null),  _result_ i
 |**False**|**True**|**False**|
 |**False**|**False**|**True**|
 
-<<<<<<< HEAD
-The  **Eqv** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
-=======
 The  **Eqv** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
->>>>>>> master
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|

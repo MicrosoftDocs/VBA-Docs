@@ -16,13 +16,9 @@ ms.date: 06/08/2017
 
 
 Occurs when the user points to an object and then clicks a mouse button twice.
-<<<<<<< HEAD
- **Syntax**
-=======
 
 ## Syntax
 
->>>>>>> master
 For MultiPage, TabStrip **Private Sub**_object_ _**DblClick(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean)**
 For other controls **Private Sub**_object_ _**DblClick( ByVal**_Cancel_**As MSForms.ReturnBoolean)**
 The  **DblClick** event syntax has these parts:
@@ -34,12 +30,8 @@ The  **DblClick** event syntax has these parts:
 | _index_|Required. The position of a  **Page** or **Tab** object within a **Pages** or **Tabs** collection.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 For this event to occur, the two clicks must occur within the time span specified by the system's double-click speed setting.
 For controls that support Click, the following sequence of events leads to the DblClick event:
 

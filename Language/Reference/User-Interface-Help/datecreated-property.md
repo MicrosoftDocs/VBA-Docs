@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the date and time that the specified file or folder was created. Read-only.
-<<<<<<< HEAD
- **Syntax**
- _object_. **DateCreated**
-The  _object_ is always a **File** or **Folder** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,7 +25,6 @@ The  _object_ is always a **File** or **Folder** object.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates the use of the  **DateCreated** property with a file:
 
 
@@ -41,11 +34,7 @@ Sub ShowFileInfo(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-<<<<<<< HEAD
-    s = "Created: " &; f.DateCreated
-=======
     s = "Created: " & f.DateCreated
->>>>>>> master
     MsgBox s
 End Sub
 ```

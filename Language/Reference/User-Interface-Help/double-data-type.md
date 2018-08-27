@@ -11,10 +11,6 @@ ms.date: 06/08/2017
 
 # Double Data Type
 
-<<<<<<< HEAD
-[Double (double-precision floating-point) variables](../../Glossary/vbe-glossary.md) are stored as IEEE 64-bit (8-byte) floating-point numbers ranging in value from -1.79769313486231E308 to -4.94065645841247E-324 for negative values and from 4.94065645841247E-324 to 1.79769313486232E308 for positive values. The[type-declaration character](../../Glossary/vbe-glossary.md) for **Double** is the number sign (**#**).
-=======
 [Double (double-precision floating-point) variables](../../Glossary/vbe-glossary.md#double-data-type) are stored as IEEE 64-bit (8-byte) floating-point numbers ranging in value from -1.79769313486231E308 to -4.94065645841247E-324 for negative values and from 4.94065645841247E-324 to 1.79769313486232E308 for positive values. The[type-declaration character](../../Glossary/vbe-glossary.md#type-declaration-character) for **Double** is the number sign (**#**).
->>>>>>> master
 
 

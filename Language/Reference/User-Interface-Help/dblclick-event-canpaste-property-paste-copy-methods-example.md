@@ -39,11 +39,7 @@ Private Sub UserForm_Initialize()
  ComboBox1.AddItem "It's a beautiful day!" 
  
  CommandButton1.Caption = "Copy ComboBox to " _ 
-<<<<<<< HEAD
- &; "Clipboard" 
-=======
  & "Clipboard" 
->>>>>>> master
  CommandButton1.AutoSize = True 
 End Sub 
  

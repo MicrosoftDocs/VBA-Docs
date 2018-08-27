@@ -15,10 +15,6 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-The  **Debug** object has two methods, _.Print_ and _.Assert_. _.Print_ string expr sends string expr as output to the **Immediate** window at **Debug**[run time](../../Glossary/vbe-glossary.md).
-=======
 The  **Debug** object has two methods, _.Print_ and _.Assert_. _.Print_ string expr sends string expr as output to the **Immediate** window at **Debug**[run time](../../Glossary/vbe-glossary.md#run-time).
->>>>>>> master
  _.Assert_ expression evaluates expression and, if false, breakpoints in the debugger.
 

@@ -11,17 +11,6 @@ ms.date: 06/08/2017
 
 # Erase Statement
 
-<<<<<<< HEAD
-Reinitializes the elements of fixed-size [arrays](../../Glossary/vbe-glossary.md) and releases dynamic-array storage space.
-
- **Syntax**
-
- **Erase**_arraylist_
-
-The required  _arraylist_[argument](../../Glossary/vbe-glossary.md) is one or more comma-delimited array[variables](../../Glossary/vbe-glossary.md) to be erased.
- **Remarks**
- **Erase** behaves differently depending on whether an array is fixed-size (ordinary) or dynamic. **Erase** recovers no memory for fixed-size arrays. **Erase** sets the elements of a fixed array as follows:
-=======
 Reinitializes the elements of fixed-size [arrays](../../Glossary/vbe-glossary.md#array) and releases dynamic-array storage space.
 
 ## Syntax
@@ -33,7 +22,6 @@ The required  _arraylist_[argument](../../Glossary/vbe-glossary.md#argument) is 
 ## Remarks
 
 **Erase** behaves differently depending on whether an array is fixed-size (ordinary) or dynamic. **Erase** recovers no memory for fixed-size arrays. **Erase** sets the elements of a fixed array as follows:
->>>>>>> master
 
 
 |**Type of Array**|**Effect of Erase on Fixed-Array Elements**|
@@ -41,13 +29,8 @@ The required  _arraylist_[argument](../../Glossary/vbe-glossary.md#argument) is 
 |Fixed numeric array|Sets each element to zero.|
 |Fixed string array (variable length)|Sets each element to a zero-length string ("").|
 |Fixed string array (fixed length)|Sets each element to zero.|
-<<<<<<< HEAD
-|Fixed [Variant](../../Glossary/vbe-glossary.md) array|Sets each element to [Empty](../../Glossary/vbe-glossary.md).|
-|Array of [user-defined types](../../Glossary/vbe-glossary.md)|Sets each element as if it were a separate variable.|
-=======
 |Fixed [Variant](../../Glossary/vbe-glossary.md#variant-data-type) array|Sets each element to [Empty](../../Glossary/vbe-glossary.md#empty).|
 |Array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)|Sets each element as if it were a separate variable.|
->>>>>>> master
 |Array of objects|Sets each element to the special value  **Nothing**.|
 
  **Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions using a **ReDim** statement.

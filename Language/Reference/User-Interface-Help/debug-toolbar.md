@@ -36,11 +36,7 @@ Runs the current procedure if the cursor is in a procedure, runs the  **UserForm
 
 ![Break](../../../images/tbr_brk_ZA01201682.gif) **Break**
 
-<<<<<<< HEAD
-Stops execution of a program while it is running and switches to [break mode](../../Glossary/vbe-glossary.md).
-=======
 Stops execution of a program while it is running and switches to [break mode](../../Glossary/vbe-glossary.md#break-mode).
->>>>>>> master
 
 
 ![Reset](../../../images/tbr_end_ZA01201701.gif) **Reset**
@@ -50,11 +46,7 @@ Clears the execution stack and module level variables and resets the project.
 
 ![Toggle breakpoint](../../../images/tbr_bkpt_ZA01201681.gif) **Toggle Breakpoint**
 
-<<<<<<< HEAD
-Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md) at the current line.
-=======
 Sets or removes a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint) at the current line.
->>>>>>> master
 
 
 ![Step into](../../../images/tbr_stpi_ZA01201749.gif) **Step Into**

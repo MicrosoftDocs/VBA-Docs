@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Expression too complex (Error 16)
 
-<<<<<<< HEAD
-The number of subexpressions allowed in a floating-point [expression](../../Glossary/vbe-glossary.md) varies among platforms. For example, on 32-bit Microsoft Windows operating systems, the limit is 8 levels of nested floating-point expressions. This error has the following cause and solution:
-=======
 The number of subexpressions allowed in a floating-point [expression](../../Glossary/vbe-glossary.md#expression) varies among platforms. For example, on 32-bit Microsoft Windows operating systems, the limit is 8 levels of nested floating-point expressions. This error has the following cause and solution:
->>>>>>> master
 
 
 
