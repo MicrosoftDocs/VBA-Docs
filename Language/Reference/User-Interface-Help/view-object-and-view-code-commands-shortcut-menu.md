@@ -18,9 +18,5 @@ Allows you to view either the  **Design** window or the **Code** window.
 Displays or activates the selected item.
 
  **View Code**
-<<<<<<< HEAD
-Displays or activates the  **Code** window for a currently selected[object](../../Glossary/vbe-glossary.md).
-=======
 Displays or activates the  **Code** window for a currently selected[object](../../Glossary/vbe-glossary.md#object).
->>>>>>> master
 

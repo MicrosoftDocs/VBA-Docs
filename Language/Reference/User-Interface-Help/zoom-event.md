@@ -16,13 +16,9 @@ ms.date: 06/08/2017
 
 
 Occurs when the value of the  **Zoom** property changes.
-<<<<<<< HEAD
- **Syntax**
-=======
 
 ## Syntax
 
->>>>>>> master
 For Frame **Private Sub**_object_ _**Zoom(**_Percent_**As Integer)**
 For MultiPage **Private Sub**_object_ _**Zoom(**_index_**As Long**, _Percent_**As Integer)**
 The  **Zoom** event syntax has these parts:
@@ -34,12 +30,8 @@ The  **Zoom** event syntax has these parts:
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
 | _Percent_|Required. The percentage the form is to be zoomed. Valid values range from 10 percent to 400 percent.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The value of the  **Zoom** property identifies how the size of the form or **Page** changes. The value of the property indicates how the size of the control should change relative to its current size. Values less than 100 reduce the displayed size of the form; values greater than 100 increase the displayed size of the form.
 You can set this property to any integer from 10 to 400.
 

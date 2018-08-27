@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Vertical Spacing Commands (Format Menu)
 
-<<<<<<< HEAD
-Changes the vertical space between the selected [objects](../../Glossary/vbe-glossary.md), based on the object with focus. When an object has focus, white handles appear on its borders.
-=======
 Changes the vertical space between the selected [objects](../../Glossary/vbe-glossary.md#object), based on the object with focus. When an object has focus, white handles appear on its borders.
->>>>>>> master
 
  **Make Equal**
 

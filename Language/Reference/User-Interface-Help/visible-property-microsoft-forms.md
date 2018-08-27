@@ -14,15 +14,10 @@ ms.date: 06/08/2017
 
 
 Specifies whether an object is visible or hidden.
-<<<<<<< HEAD
- **Syntax**
- _object_. **Visible** [= _Boolean_ ]
-=======
 
 ## Syntax
 
 _object_. **Visible** [= _Boolean_ ]
->>>>>>> master
 The  **Visible** property syntax has these parts:
 
 

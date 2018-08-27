@@ -16,12 +16,6 @@ ms.date: 06/08/2017
 
 
 Causes the mouse pointer to change to the  **What's This** pointer and prepares the application to display Help on a selected object. This method exists on the Macintosh, but there is no pointer functionality.
-<<<<<<< HEAD
- **Syntax**
- _object_. **WhatsThisMode**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the[focus](../../Glossary/vbe-glossary.md) is assumed to be _object_.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -30,7 +24,6 @@ The  _object_ placeholder represents an[object expression](../../Glossary/vbe-gl
 
 ## Remarks
 
->>>>>>> master
 Executing the  **WhatsThisMode** method places the application in the same state as clicking the **What's This** button on the title bar. The mouse pointer changes to the **What's This** pointer. When the user clicks an object, the **WhatsThisHelpID** property of the clicked object is used to invoke the context-sensitive Help.
 
 ## Example

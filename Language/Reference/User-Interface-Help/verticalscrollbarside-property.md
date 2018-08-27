@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies whether a vertical scroll bar appears on the right or left side of a form or page.
-<<<<<<< HEAD
- **Syntax**
- _object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
-=======
 
 ## Syntax
 
 _object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
->>>>>>> master
 The  **VerticalScrollbarSide** property syntax has these parts:
 
 
