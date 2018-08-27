@@ -13,17 +13,11 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Specify the distance, in [points](../../Glossary/vbe-glossary.md), of the left or top edge of the visible form from the left or top edge of the logical form, page, or control.
- **Syntax**
- _object_. **ScrollLeft** [= _Single_ ]
-=======
 Specify the distance, in [points](../../Glossary/vbe-glossary.md#point), of the left or top edge of the visible form from the left or top edge of the logical form, page, or control.
 
 ## Syntax
 
 _object_. **ScrollLeft** [= _Single_ ]
->>>>>>> master
  _object_. **ScrollTop** [= _Single_ ]
 The  **ScrollLeft** and **ScrollTop** property syntaxes have these parts:
 
@@ -33,11 +27,7 @@ The  **ScrollLeft** and **ScrollTop** property syntaxes have these parts:
 | _object_|Required. A valid object.|
 | _Single_|Optional. The distance from the edge of the form.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The minimum value is zero; the maximum value is the difference between the value of the  **ScrollWidth** property and the value of the **Width** property for the form or page.
 

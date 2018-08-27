@@ -38,11 +38,7 @@ Set hypTemp = ActiveDocument.Pages(1).Shapes(1).Hyperlink
 lngID = hypTemp.PageID 
 strPage = ActiveDocument.Pages.FindByPageID(PageID:=lngID).PageNumber 
  
-<<<<<<< HEAD
-MsgBox "This hyperlink goes to the page " &; strPage &; "."
-=======
 MsgBox "This hyperlink goes to the page " & strPage & "."
->>>>>>> master
 ```
 
 

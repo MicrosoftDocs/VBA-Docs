@@ -11,21 +11,13 @@ ms.date: 06/08/2017
 
 # Too many dimensions
 
-<<<<<<< HEAD
-[Arrays](../../Glossary/vbe-glossary.md) can have no more than 60 dimensions. This error has the following causes and solutions:
-=======
 [Arrays](../../Glossary/vbe-glossary.md#array) can have no more than 60 dimensions. This error has the following causes and solutions:
->>>>>>> master
 
 
 
 - You tried to declare an array with more than 60 dimensions. Reduce the number of dimensions.
     
-<<<<<<< HEAD
-- Your array declaration is within the specified limits, but there isn't enough memory to actually create the array. Either make more memory available or reduce the number of dimensions. If your array is an array of  **Variant** type or an array contained within a **Variant**, you may be able to create the array with the same number of dimensions by redeclaring it with the[data type](../../Glossary/vbe-glossary.md) of its elements. For example, if it contains only integers, declaring it as an array of **Integer** type uses less memory than if each element is a **Variant**.
-=======
 - Your array declaration is within the specified limits, but there isn't enough memory to actually create the array. Either make more memory available or reduce the number of dimensions. If your array is an array of  **Variant** type or an array contained within a **Variant**, you may be able to create the array with the same number of dimensions by redeclaring it with the[data type](../../Glossary/vbe-glossary.md#data-type) of its elements. For example, if it contains only integers, declaring it as an array of **Integer** type uses less memory than if each element is a **Variant**.
->>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

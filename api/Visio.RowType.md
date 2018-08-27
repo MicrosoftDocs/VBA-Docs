@@ -124,11 +124,7 @@ Public Sub RowType_Example()
  
  vsoShape.RowType(visSectionFirstComponent, visRowVertex + intCounter) = visTagArcTo 
  Set vsoCell = vsoShape.CellsSRC(visSectionFirstComponent, visRowVertex + intCounter, 2) 
-<<<<<<< HEAD
- vsoCell.formula = "-" &; strBowCell 
-=======
  vsoCell.formula = "-" & strBowCell 
->>>>>>> master
  
  Next intCounter 
  

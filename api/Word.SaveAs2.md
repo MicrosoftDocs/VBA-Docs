@@ -82,21 +82,13 @@ Sub SaveAsTextFile()
  
         ' If the document has not yet been saved 
         ' Ask the user to provide a file name 
-<<<<<<< HEAD
-        strDocName = InputBox("Please enter the name " &; _ 
-=======
         strDocName = InputBox("Please enter the name " & _ 
->>>>>>> master
             "of your document.") 
     Else 
  
         ' Strip off extension and add ".txt" extension 
         strDocName = Left(strDocName, intPos - 1) 
-<<<<<<< HEAD
-        strDocName = strDocName &; ".txt" 
-=======
         strDocName = strDocName & ".txt" 
->>>>>>> master
     End If 
  
     ' Save file with new extension 

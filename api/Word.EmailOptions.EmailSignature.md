@@ -32,19 +32,11 @@ This example displays the signature Word appends to new outgoing e-mail messages
 With Application.EmailOptions.EmailSignature 
  If .NewMessageSignature = "" Then 
  MsgBox "There is no signature for new " _ 
-<<<<<<< HEAD
- &; "e-mail messages!" 
- Else 
- MsgBox "The signature for new e-mail" _ 
- &; "messages is: " &; vbLf &; vbLf _ 
- &; .NewMessageSignature 
-=======
  & "e-mail messages!" 
  Else 
  MsgBox "The signature for new e-mail" _ 
  & "messages is: " & vbLf & vbLf _ 
  & .NewMessageSignature 
->>>>>>> master
  End If 
 End With
 ```

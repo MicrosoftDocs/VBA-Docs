@@ -14,27 +14,16 @@ ms.date: 06/08/2017
 
 
 Replaces an existing line of code with a specified line of code.
-<<<<<<< HEAD
- **Syntax**
- _object_**.ReplaceLine(**_line_, _code_**)**
-=======
 
 ## Syntax
 
 _object_**.ReplaceLine(**_line_, _code_**)**
->>>>>>> master
 The  **ReplaceLine** syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _line_|Required. A [Long](../../Glossary/vbe-glossary.md) specifying the location of the line you want to replace.|
-| _code_|Required. A [String](../../Glossary/vbe-glossary.md) containing the code you want to insert.|
-=======
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _line_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the location of the line you want to replace.|
 | _code_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the code you want to insert.|
->>>>>>> master
 

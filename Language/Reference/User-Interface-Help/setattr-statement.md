@@ -13,36 +13,20 @@ ms.date: 06/08/2017
 
 Sets attribute information for a file.
 
-<<<<<<< HEAD
- **Syntax**
-
- **SetAttr** **_pathname_, _attributes_**
-
-The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 ## Syntax
 
 **SetAttr** **_pathname_, _attributes_**
 
 The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-|**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
-|**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md) or[numeric expression](../../Glossary/vbe-glossary.md), whose sum specifies file attributes.|
-
- **Settings**
-The  **_attributes_**[argument](../../Glossary/vbe-glossary.md) settings are:
-=======
 |**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
 |**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md#constant) or[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes.|
 
  **Settings**
 The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
->>>>>>> master
 
 
 |**Constant**|**Value**|**Description**|
@@ -56,14 +40,9 @@ The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) setting
 
  **Note**  These constants are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
-<<<<<<< HEAD
- **Remarks**
-A [run-time error](../../Glossary/vbe-glossary.md) occurs if you try to set the attributes of an open file.
-=======
 ## Remarks
 
 A [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs if you try to set the attributes of an open file.
->>>>>>> master
 
 ## Example
 

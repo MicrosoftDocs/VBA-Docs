@@ -13,31 +13,15 @@ ms.date: 06/08/2017
 
 Sends one or more keystrokes to the active window as if typed at the keyboard.
 
-<<<<<<< HEAD
- **Syntax**
-
- **SendKeys** **_string_** [, **_wait_** ]
-
-The  **SendKeys** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md):
-=======
 ## Syntax
 
 **SendKeys** **_string_** [, **_wait_** ]
 
 The  **SendKeys** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
->>>>>>> master
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md) specifying the keystrokes to send.|
-|**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md) value specifying the wait mode. If **False** (default), control is returned to the[procedure](../../Glossary/vbe-glossary.md) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
-
- **Remarks**
-Each key is represented by one or more characters. To specify a single keyboard character, use the character itself. For example, to represent the letter A, use  `"A"` for **_string_**. To represent more than one character, append each additional character to the one preceding it. To represent the letters A, B, and C, use `"ABC"` for **_string_**.
-The plus sign (**+**), caret (**^**), percent sign (**%**), tilde (**~**), and parentheses **( )** have special meanings to **SendKeys**. To specify one of these characters, enclose it within braces ( `{}`). For example, to specify the plus sign, use  `{+}`. Brackets ([ ]) have no special meaning to  **SendKeys**, but you must enclose them in braces. In other applications, brackets do have a special meaning that may be significant when[dynamic data exchange](../../Glossary/vbe-glossary.md) (DDE) occurs. To specify brace characters, use `{{}` and `{}}`.
-=======
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) specifying the keystrokes to send.|
 |**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value specifying the wait mode. If **False** (default), control is returned to the[procedure](../../Glossary/vbe-glossary.md#procedure) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|
 
@@ -45,7 +29,6 @@ The plus sign (**+**), caret (**^**), percent sign (**%**), tilde (**~**), and p
 
 Each key is represented by one or more characters. To specify a single keyboard character, use the character itself. For example, to represent the letter A, use  `"A"` for **_string_**. To represent more than one character, append each additional character to the one preceding it. To represent the letters A, B, and C, use `"ABC"` for **_string_**.
 The plus sign (**+**), caret (**^**), percent sign (**%**), tilde (**~**), and parentheses **( )** have special meanings to **SendKeys**. To specify one of these characters, enclose it within braces ( `{}`). For example, to specify the plus sign, use  `{+}`. Brackets ([ ]) have no special meaning to  **SendKeys**, but you must enclose them in braces. In other applications, brackets do have a special meaning that may be significant when[dynamic data exchange](../../Glossary/vbe-glossary.md#dynamic-data-exchange-dde) (DDE) occurs. To specify brace characters, use `{{}` and `{}}`.
->>>>>>> master
 To specify characters that aren't displayed when you press a key, such as ENTER or TAB, and keys that represent actions rather than characters, use the codes shown below:
 
 
@@ -113,11 +96,7 @@ Dim ReturnValue, I
 ReturnValue = Shell("CALC.EXE", 1)    ' Run Calculator. 
 AppActivate ReturnValue     ' Activate the Calculator. 
 For I = 1 To 100    ' Set up counting loop. 
-<<<<<<< HEAD
-    SendKeys I &; "{+}", True    ' Send keystrokes to Calculator 
-=======
     SendKeys I & "{+}", True    ' Send keystrokes to Calculator 
->>>>>>> master
 Next I    ' to add each value of I. 
 SendKeys "=", True    ' Get grand total. 
 SendKeys "%{F4}", True    ' Send ALT+F4 to close Calculator. 

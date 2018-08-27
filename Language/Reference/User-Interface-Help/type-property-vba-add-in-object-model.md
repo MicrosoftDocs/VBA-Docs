@@ -21,16 +21,6 @@ The  **Type** property settings for the **Window** object are described in the f
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**vbext_wt_CodeWindow**|0|**Code** window|
-<<<<<<< HEAD
-|**vbext_wt_Designer**|1|[Designer](../../Glossary/vbe-glossary.md)|
-|**vbext_wt_Browser**|2|**Object Browser**|
-|**vbext_wt_Immediate**|5|**Immediate** window|
-|**vbext_wt_ProjectWindow**|6|[Project window](../../Glossary/vbe-glossary.md)|
-|**vbext_wt_PropertyWindow**|7|[Properties window](../../Glossary/vbe-glossary.md)|
-|**vbext_wt_Find**|8|**Find** dialog box|
-|**vbext_wt_FindReplace**|9|**Search and Replace** dialog box|
-|**vbext_wt_LinkedWindowFrame**|11|[Linked window frame](../../Glossary/vbe-glossary.md)|
-=======
 |**vbext_wt_Designer**|1|[Designer](../../Glossary/vbe-glossary.md#designer)|
 |**vbext_wt_Browser**|2|**Object Browser**|
 |**vbext_wt_Immediate**|5|**Immediate** window|
@@ -39,7 +29,6 @@ The  **Type** property settings for the **Window** object are described in the f
 |**vbext_wt_Find**|8|**Find** dialog box|
 |**vbext_wt_FindReplace**|9|**Search and Replace** dialog box|
 |**vbext_wt_LinkedWindowFrame**|11|[Linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame)|
->>>>>>> master
 |**vbext_wt_MainWindow**|12|Main window|
 |**vbext_wt_Watch**|3|**Watch** window|
 |**vbext_wt_Locals**|4|**Locals** window|
@@ -55,13 +44,8 @@ The  **Type** property settings for the **VBComponent** object are described in 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-<<<<<<< HEAD
-|**vbext_ct_StdModule**|1|[Standard module](../../Glossary/vbe-glossary.md)|
-|**vbext_ct_ClassModule**|2|[Class module](../../Glossary/vbe-glossary.md)|
-=======
 |**vbext_ct_StdModule**|1|[Standard module](../../Glossary/vbe-glossary.md#standard-module)|
 |**vbext_ct_ClassModule**|2|[Class module](../../Glossary/vbe-glossary.md#class-module)|
->>>>>>> master
 |**vbext_ct_MSForm**|3|Microsoft Form|
 |**vbext_ct_ActiveXDesigner**|11|ActiveX Designer|
 |**vbext_ct_Document**|100|Document Module|
@@ -71,13 +55,8 @@ The  **Type** property settings for the **Reference** object are described in th
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-<<<<<<< HEAD
-|**vbext_rk_TypeLib**|0|[Type library](../../Glossary/vbe-glossary.md)|
-|**vbext_rk_Project**|1|[Project](../../Glossary/vbe-glossary.md)|
-=======
 |**vbext_rk_TypeLib**|0|[Type library](../../Glossary/vbe-glossary.md#type-library)|
 |**vbext_rk_Project**|1|[Project](../../Glossary/vbe-glossary.md#project)|
->>>>>>> master
 
 The  **Type** property settings for the **VBProject** object are described in the following table:
 

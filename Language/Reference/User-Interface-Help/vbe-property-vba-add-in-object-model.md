@@ -14,12 +14,8 @@ ms.date: 06/08/2017
 
 
 Returns the root of the  **VBE** object. Read-only.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 All objects have a  **VBE** property that points to the root of the **VBE** object.
 

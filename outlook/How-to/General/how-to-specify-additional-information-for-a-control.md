@@ -58,19 +58,11 @@ Sub Item_Open()
  
  ScrollBar1.Max = 100 
  ScrollBar1.Min = -273 
-<<<<<<< HEAD
- ScrollBar1.Tag = "Max = " &; ScrollBar1.Max &; " , Min = " &; ScrollBar1.Min 
- 
- MultiPage1.Pages.Add 
- MultiPage1.Pages.Add 
- MultiPage1.Tag = "This MultiPage has " &; MultiPage1.Pages.Count &; " pages." 
-=======
  ScrollBar1.Tag = "Max = " & ScrollBar1.Max & " , Min = " & ScrollBar1.Min 
  
  MultiPage1.Pages.Add 
  MultiPage1.Pages.Add 
  MultiPage1.Tag = "This MultiPage has " & MultiPage1.Pages.Count & " pages." 
->>>>>>> master
 End Sub
 ```
 

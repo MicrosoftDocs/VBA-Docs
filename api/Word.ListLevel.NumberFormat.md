@@ -42,11 +42,7 @@ For x = 1 To 9
  .NumberStyle = wdListNumberStyleArabic 
  .NumberPosition = InchesToPoints(0.25 * (x - 1)) 
  .TextPosition = InchesToPoints(0.25 * x) 
-<<<<<<< HEAD
- .NumberFormat = "%" &; x &; "." 
-=======
  .NumberFormat = "%" & x & "." 
->>>>>>> master
  End With 
 Next x 
 Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=LT

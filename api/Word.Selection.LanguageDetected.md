@@ -39,13 +39,8 @@ This example checks the active document to determine the language it's written i
 With Selection 
  If .LanguageDetected = True Then 
  x = MsgBox("This document has already " _ 
-<<<<<<< HEAD
- &; "been checked. Do you want to check " _ 
- &; "it again?", vbYesNo) 
-=======
  & "been checked. Do you want to check " _ 
  & "it again?", vbYesNo) 
->>>>>>> master
  If x = vbYes Then 
  .LanguageDetected = False 
  .DetectLanguage 

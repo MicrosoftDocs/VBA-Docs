@@ -43,11 +43,7 @@ This example changes the caption of the Word application window to include the u
 
 
 ```vb
-<<<<<<< HEAD
-Application.Caption = UserName &; "'s copy of Word"
-=======
 Application.Caption = UserName & "'s copy of Word"
->>>>>>> master
 ```
 
 

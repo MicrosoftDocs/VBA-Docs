@@ -52,11 +52,7 @@ This example inserts an index entry after the selection in the active document. 
 ```vb
 If Selection.Type = wdSelectionNormal Then 
  ActiveDocument.Indexes.MarkEntry Range:=Selection.Range, _ 
-<<<<<<< HEAD
- Entry:="Introduction:" &; Selection.Range.Text, Italic:=True 
-=======
  Entry:="Introduction:" & Selection.Range.Text, Italic:=True 
->>>>>>> master
 End If
 ```
 

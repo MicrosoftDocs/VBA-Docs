@@ -13,15 +13,9 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Represents a [project](../../Glossary/vbe-glossary.md).
- **Remarks**
-Use the  **VBProject** object to set[properties](../../Glossary/vbe-glossary.md) for the project, to access the **VBComponents** collection, and to access the **References** collection.
-=======
 Represents a [project](../../Glossary/vbe-glossary.md#project).
 
 ## Remarks
 
 Use the  **VBProject** object to set[properties](../../Glossary/vbe-glossary.md#property) for the project, to access the **VBComponents** collection, and to access the **References** collection.
->>>>>>> master
 

@@ -37,11 +37,7 @@ Sub UsingDAOWithWord()
  Set docNew = Documents.Add 
  Set dbNorthwind = OpenDatabase _ 
  (Name:="C:\Program Files\Microsoft Office\Office11\" _ 
-<<<<<<< HEAD
- &; "Samples\Northwind.mdb") 
-=======
  & "Samples\Northwind.mdb") 
->>>>>>> master
  Set rdShippers = dbNorthwind.OpenRecordset(Name:="Shippers") 
  For intRecords = 0 To rdShippers.RecordCount - 1 
  docNew.Content.InsertAfter Text:=rdShippers.Fields(1).Value 

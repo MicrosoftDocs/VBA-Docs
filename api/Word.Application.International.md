@@ -38,11 +38,7 @@ This example displays the currency format in the status bar.
 
 ```vb
 StatusBar = "Currency Format: " _ 
-<<<<<<< HEAD
- &; Application.International(wdCurrencyCode)
-=======
  & Application.International(wdCurrencyCode)
->>>>>>> master
 ```
 
 

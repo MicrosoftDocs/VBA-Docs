@@ -16,15 +16,10 @@ ms.date: 06/08/2017
 
 
 Specifies the amount of movement that occurs when the user clicks either scroll arrow in a  **ScrollBar** or **SpinButton**.
-<<<<<<< HEAD
- **Syntax**
- _object_. **SmallChange** [= _Long_ ]
-=======
 
 ## Syntax
 
 _object_. **SmallChange** [= _Long_ ]
->>>>>>> master
 The  **SmallChange** property syntax has these parts:
 
 
@@ -33,12 +28,8 @@ The  **SmallChange** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer that specifies the amount of change to the  **Value** property.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 The  **SmallChange** property does not have units.
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 

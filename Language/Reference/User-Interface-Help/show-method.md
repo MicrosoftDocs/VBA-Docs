@@ -16,24 +16,16 @@ ms.date: 06/08/2017
 
 
 Displays a  **UserForm** object.
-<<<<<<< HEAD
- **Syntax**
-=======
 
 ## Syntax
 
->>>>>>> master
 [ _object_**.** ] **Show**_modal_
 The  **Show** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](../../Glossary/vbe-glossary.md) is assumed to be _object._|
-=======
 | _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](../../Glossary/vbe-glossary.md#module) is assumed to be _object._|
->>>>>>> master
 | _modal_|Optional. Variant value that determines if the  **UserForm** is modal or modeless.|
 
  **Settings**
@@ -45,12 +37,8 @@ The settings for  _modal_ are:
 |**vbModal**|1|**UserForm** is modal. Default.|
 |**vbModeless**|0|**UserForm** is modeless.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 If the specified object isn't loaded when the  **Show** method is invoked, Visual Basic automatically loads it.
 
  **Note**  In Microsoft Office 97, if a  **UserForm** is set to display as modeless, it causes a run-time error; Office 97 **UserForms** are always modal.

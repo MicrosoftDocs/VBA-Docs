@@ -14,11 +14,6 @@ ms.date: 06/08/2017
 
 
 Returns a  **Variant** (**Date**) indicating the current system time.
-<<<<<<< HEAD
- **Syntax**
- **Time**
- **Remarks**
-=======
 
 ## Syntax
 
@@ -26,7 +21,6 @@ Returns a  **Variant** (**Date**) indicating the current system time.
 
 ## Remarks
 
->>>>>>> master
 To set the system time, use the  **Time** statement.
 
 ## Example

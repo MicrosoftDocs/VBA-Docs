@@ -35,11 +35,7 @@ This example displays each readability statistic, along with its value, for docu
 
 ```vb
 For Each rs In Documents(1).ReadabilityStatistics 
-<<<<<<< HEAD
- Msgbox rs.Name &; " - " &; rs.Value 
-=======
  Msgbox rs.Name & " - " & rs.Value 
->>>>>>> master
 Next rs
 ```
 

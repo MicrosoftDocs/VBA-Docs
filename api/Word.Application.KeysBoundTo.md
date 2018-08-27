@@ -47,11 +47,7 @@ CustomizationContext = ActiveDocument.AttachedTemplate
 For Each kbLoop In _ 
  KeysBoundTo(KeyCategory:=wdKeyCategoryCommand, _ 
  Command:="FileOpen") 
-<<<<<<< HEAD
- strOutput = strOutput &; kbLoop.KeyString &; vbCr 
-=======
  strOutput = strOutput & kbLoop.KeyString & vbCr 
->>>>>>> master
 Next kbLoop 
  
 MsgBox strOutput

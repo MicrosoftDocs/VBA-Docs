@@ -7,19 +7,11 @@ ms.date: 06/08/2017
 
 
 # Object library for Visual Basic for Applications not found
-<<<<<<< HEAD
-The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md) is no longer a standalone file; it is integrated into the[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md).
-Under unusual circumstances a previous version of the object library (vaxxx.olb or vaxxxx.olb) corresponding to the language of the [project](../../Glossary/vbe-glossary.md) might be needed, but not found. This error has the following causes and solutions:
-
-
-- The object library is missing completely, isn't in the expected directory, or is an incorrect version. Search your disk to make sure the object library is in the correct directory, as specified in the [host-application](../../Glossary/vbe-glossary.md) documentation.
-=======
 The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
 Under unusual circumstances a previous version of the object library (vaxxx.olb or vaxxxx.olb) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) might be needed, but not found. This error has the following causes and solutions:
 
 
 - The object library is missing completely, isn't in the expected directory, or is an incorrect version. Search your disk to make sure the object library is in the correct directory, as specified in the [host-application](../../Glossary/vbe-glossary.md#host-application) documentation.
->>>>>>> master
     
 
 If the missing library is a language version that is installed by the host application, it may be easiest to simply rerun the setup program. If a project requires a different language object library than the one that accompanies your host application (for example, if someone sends you a project written on a machine set up for a different language), make sure the correct language version of the Visual Basic object library is included with the project and it is installed in the expected location.
@@ -33,11 +25,7 @@ The Visual Basic object library file name is constructed as follows:
 - Macintosh: Application Name Language Code [Version] OLB. For example: The French Visual Basic for Applications object library for version 2 was VA FR 2 OLB.
     
 
-<<<<<<< HEAD
-If you can't find a missing project or object library on your system, contact the [referencing project's](../../Glossary/vbe-glossary.md) author. If the missing library is a Microsoft application object library, you can obtain it as follows:
-=======
 If you can't find a missing project or object library on your system, contact the [referencing project's](../../Glossary/vbe-glossary.md#referencing-project) author. If the missing library is a Microsoft application object library, you can obtain it as follows:
->>>>>>> master
 
 
 - If you have access to Microsoft electronic technical support services, refer to the technical support section of this Help file. Under electronic services, you will find instructions on how to use the appropriate service option.

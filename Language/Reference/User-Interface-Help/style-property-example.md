@@ -39,11 +39,7 @@ Private Sub UserForm_Initialize()
  Dim i As Integer 
  
  For i = 1 To 10 
-<<<<<<< HEAD
- ComboBox1.AddItem "Choice " &; i 
-=======
  ComboBox1.AddItem "Choice " & i 
->>>>>>> master
  Next i 
  
  OptionButton1.Caption = "Select like ComboBox" 

@@ -36,11 +36,7 @@ This example displays the number of words in the selection. Paragraphs marks, pa
 
 
 ```vb
-<<<<<<< HEAD
-MsgBox "There are " &; Selection.Words.Count &; " words."
-=======
 MsgBox "There are " & Selection.Words.Count & " words."
->>>>>>> master
 ```
 
 This example steps through the words in  _myRange_ (which spans from the beginning of the active document to the end of the selection) and deletes the word "Franklin" (including the trailing space) wherever it occurs in the range.

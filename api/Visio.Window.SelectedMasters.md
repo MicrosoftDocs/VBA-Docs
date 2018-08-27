@@ -79,15 +79,9 @@ Sub SelectedMasters_Example()
  Next 
  
  If (intNumberMasters > 0 Or intNumberMasterShortCuts > 0) Then 
-<<<<<<< HEAD
- Debug.Print "The stencil " &; vsoWindow.Document.Name 
- Debug.Print "has" &; Str(intNumberMasters) &; " masters selected and " 
- Debug.Print Str(intNumberMasterShortCuts) &; " master shortcuts selected." 
-=======
  Debug.Print "The stencil " & vsoWindow.Document.Name 
  Debug.Print "has" & Str(intNumberMasters) & " masters selected and " 
  Debug.Print Str(intNumberMasterShortCuts) & " master shortcuts selected." 
->>>>>>> master
  Exit For 
  End If 
  

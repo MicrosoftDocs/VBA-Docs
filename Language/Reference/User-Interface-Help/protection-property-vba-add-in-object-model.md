@@ -13,11 +13,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a value indicating the state of protection of a [project](../../Glossary/vbe-glossary.md). Read-only.
-=======
 Returns a value indicating the state of protection of a [project](../../Glossary/vbe-glossary.md#project). Read-only.
->>>>>>> master
  **Return Values**
 The  **Protection** property return values are:
 

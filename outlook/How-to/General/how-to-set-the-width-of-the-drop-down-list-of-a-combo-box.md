@@ -31,11 +31,7 @@ Sub Item_Open()
  Set Label1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label1") 
  
  For i = 1 To 20 
-<<<<<<< HEAD
- ComboBox1.AddItem "Choice " &; (ComboBox1.ListCount + 1) 
-=======
  ComboBox1.AddItem "Choice " & (ComboBox1.ListCount + 1) 
->>>>>>> master
  Next 
  SpinButton1.Min = 0 
  SpinButton1.Max = 130 
@@ -45,11 +41,7 @@ Sub Item_Open()
  intwidth = left(combobox1.listwidth,intpos-1) 
  SpinButton1.Value = intwidth 
  SpinButton1.SmallChange = 5 
-<<<<<<< HEAD
- Label1.Caption = "ListWidth = " &; SpinButton1.Value 
-=======
  Label1.Caption = "ListWidth = " & SpinButton1.Value 
->>>>>>> master
 End Sub 
  
 Sub Item_CustomPropertyChange(byval pname) 
@@ -59,11 +51,7 @@ Sub Item_CustomPropertyChange(byval pname)
  Set Label1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label1") 
  
  ComboBox1.ListWidth = SpinButton1.Value 
-<<<<<<< HEAD
- Label1.Caption = "ListWidth = " &; SpinButton1.Value 
-=======
  Label1.Caption = "ListWidth = " & SpinButton1.Value 
->>>>>>> master
  End If 
 End Sub
 ```

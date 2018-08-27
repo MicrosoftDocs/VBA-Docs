@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Ways to create an option group
 
-<<<<<<< HEAD
-By default, all  **OptionButton** controls on a[container](../../Glossary/vbe-glossary.md) (such as a form, a **MultiPage**, or a **Frame**) are part of a single option group. This means that selecting one of the buttons automatically sets all other option buttons on the form to **False**.
-=======
 By default, all  **OptionButton** controls on a[container](../../Glossary/vbe-glossary.md#container) (such as a form, a **MultiPage**, or a **Frame**) are part of a single option group. This means that selecting one of the buttons automatically sets all other option buttons on the form to **False**.
->>>>>>> master
 
 If you want more than one option group on the form, there are two ways to create additional groups:
 

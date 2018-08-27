@@ -15,15 +15,9 @@ When you click the  **Find Next** and **Replace** buttons in the **Replace** dia
 
 
 
-<<<<<<< HEAD
-- When doing a search and replace operation, you can specify the region to be covered: a selection, a [procedure](../../Glossary/vbe-glossary.md), a [module](../../Glossary/vbe-glossary.md), or a [project](../../Glossary/vbe-glossary.md).
-    
-    If a region is selected, it is the default search region. If no region is selected, the current module is the default search region. To change the [scope](../../Glossary/vbe-glossary.md) of a search, select a different option in the **Replace** dialog box.
-=======
 - When doing a search and replace operation, you can specify the region to be covered: a selection, a [procedure](../../Glossary/vbe-glossary.md#procedure), a [module](../../Glossary/vbe-glossary.md#module), or a [project](../../Glossary/vbe-glossary.md#project).
     
     If a region is selected, it is the default search region. If no region is selected, the current module is the default search region. To change the [scope](../../Glossary/vbe-glossary.md#scope) of a search, select a different option in the **Replace** dialog box.
->>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -55,15 +55,9 @@ Sub LaunchSalesPersonForm()
  If blnCancelled = True Then 
  MsgBox "Operation Cancelled!", vbExclamation 
  Else 
-<<<<<<< HEAD
- MsgBox "The Salesperson's ID is: " &; _ 
- intSalesPersonID &; _ 
- "The Region is: " &; strRegion 
-=======
  MsgBox "The Salesperson's ID is: " & _ 
  intSalesPersonID & _ 
  "The Region is: " & strRegion 
->>>>>>> master
  End If 
 End Sub
 ```

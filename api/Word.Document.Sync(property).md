@@ -36,13 +36,8 @@ eStatus = ActiveDocument.Sync.Status
  
 If eStatus = msoSyncStatusLatest Then 
  strLastUser = ActiveDocument.Sync.WorkspaceLastChangedBy 
-<<<<<<< HEAD
- MsgBox "You have the most up-to-date copy." &; _ 
- "This file was last modified by " &; strLastUser 
-=======
  MsgBox "You have the most up-to-date copy." & _ 
  "This file was last modified by " & strLastUser 
->>>>>>> master
 End If
 ```
 

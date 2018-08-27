@@ -57,13 +57,8 @@ Sub FindApptsInTimeFrame()
     oItems.IncludeRecurrences = True
     oItems.Sort "[Start]"
      
-<<<<<<< HEAD
-    strRestriction = "[Start] <= '" &; Format$(myEnd, "mm/dd/yyyy hh:mm AMPM") _
-    &; "' AND [End] >= '" &; Format(myStart, "mm/dd/yyyy hh:mm AMPM") &; "'"
-=======
     strRestriction = "[Start] <= '" & Format$(myEnd, "mm/dd/yyyy hh:mm AMPM") _
     & "' AND [End] >= '" & Format(myStart, "mm/dd/yyyy hh:mm AMPM") & "'"
->>>>>>> master
     Debug.Print strRestriction
      
     'Restrict the Items collection

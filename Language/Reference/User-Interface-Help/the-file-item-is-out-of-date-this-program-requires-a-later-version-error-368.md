@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # The file 'item' is out of date. This program requires a later version (Error 368)
 
-<<<<<<< HEAD
-An [ActiveX control](../../Glossary/vbe-glossary.md) was found to be out of date. This error has the following cause and solution:
-
-
-
-- The number of [properties](../../Glossary/vbe-glossary.md) in the current version of the ActiveX control don't match the expected number of properties.
-=======
 An [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) was found to be out of date. This error has the following cause and solution:
 
 
 
 - The number of [properties](../../Glossary/vbe-glossary.md#property) in the current version of the ActiveX control don't match the expected number of properties.
->>>>>>> master
     
     Replace the ActiveX control with a later version.
     

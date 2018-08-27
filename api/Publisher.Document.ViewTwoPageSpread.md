@@ -36,11 +36,7 @@ This example opens a message box and displays if the current publication should 
 ```vb
 Sub ViewTwoPage() 
  
-<<<<<<< HEAD
- MsgBox "View Two Page Spread = " &; _ 
-=======
  MsgBox "View Two Page Spread = " & _ 
->>>>>>> master
  Application.ActiveDocument.ViewTwoPageSpread 
  
 End Sub

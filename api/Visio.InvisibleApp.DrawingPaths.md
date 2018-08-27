@@ -42,11 +42,7 @@ Setting the  **DrawingPaths** property replaces existing values for **DrawingPat
 
 
 ```vb
-<<<<<<< HEAD
-Application.DrawingPaths = Application.DrawingPaths &; ";" &; "newpath ".
-=======
 Application.DrawingPaths = Application.DrawingPaths & ";" & "newpath ".
->>>>>>> master
 ```
 
 

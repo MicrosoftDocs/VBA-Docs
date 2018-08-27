@@ -74,11 +74,7 @@ Sub ControlWord()
         ' Tell Word to paste the contents of the clipboard into the new document.
         appWD.Selection.Paste
         ' Save the new document with a sequential file name.
-<<<<<<< HEAD
-        appWD.ActiveDocument.SaveAs Filename:="File" &; i
-=======
         appWD.ActiveDocument.SaveAs Filename:="File" & i
->>>>>>> master
         ' Close the new Word document.
         appWD.ActiveDocument.Close
     Next i
@@ -116,11 +112,7 @@ vaData = wsSheet.Range("W_Data").Value
 
 ' Instatiate the Word Objects.
 Set wdApp = New Word.Application
-<<<<<<< HEAD
-Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\Test.docx")
-=======
 Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\Test.docx")
->>>>>>> master
 
 With wdDoc
     Set wdRange1 = .Bookmarks("td1").Range

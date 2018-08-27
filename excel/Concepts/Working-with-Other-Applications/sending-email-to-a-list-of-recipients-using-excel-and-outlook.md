@@ -34,11 +34,7 @@ Sub Sample()
            If SDest = "" Then
                SDest = Cells(iCounter, 1).Value
            Else
-<<<<<<< HEAD
-               SDest = SDest &; ";" &; Cells(iCounter, 1).Value
-=======
                SDest = SDest & ";" & Cells(iCounter, 1).Value
->>>>>>> master
            End If
        Next iCounter
        

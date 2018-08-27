@@ -32,11 +32,7 @@ This example loads a document called "Temp.doc" and tests to see whether or not 
 Documents.Open FileName:="C:\My Documents\Temp.doc" 
 If ActiveDocument.VBASigned = False Then 
  MsgBox "Warning! This document " _ 
-<<<<<<< HEAD
- &; "has not been digitally signed.", _ 
-=======
  & "has not been digitally signed.", _ 
->>>>>>> master
  vbCritical, "Digital Signature Warning" 
 End If
 ```

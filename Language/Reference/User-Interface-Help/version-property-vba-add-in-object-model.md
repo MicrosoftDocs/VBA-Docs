@@ -13,14 +13,9 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Returns a [String](../../Glossary/vbe-glossary.md) containing the version of Visual Basic for Applications that the application is using. Read-only.
- **Remarks**
-=======
 Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the version of Visual Basic for Applications that the application is using. Read-only.
 
 ## Remarks
 
->>>>>>> master
 The  **Version** property value is a string beginning with one or two digits, a period, and two digits; the rest of the string is undefined and may contain text or numbers.
 

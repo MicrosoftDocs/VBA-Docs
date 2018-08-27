@@ -11,19 +11,6 @@ ms.date: 06/08/2017
 
 # Type mismatch (Error 13)
 
-<<<<<<< HEAD
-Visual Basic is able to convert and coerce many values to accomplish [data type](../../Glossary/vbe-glossary.md) assignments that weren't possible in earlier versions. However, this error can still occur and has the following causes and solutions:
-
-- **Cause:** The [variable](../../Glossary/vbe-glossary.md) or [property](../../Glossary/vbe-glossary.md) isn't of the correct type. For example, a variable that requires an integer value can't accept a string value unless the whole string can be recognized as an integer.
-    
-  **Solution:** Try to make assignments only between compatible [data types](../../Glossary/vbe-glossary.md). For example, an **Integer** can always be assigned to a **Long**, a **Single** can always be assigned to a **Double**, and any type (except a [user-defined type](../../Glossary/vbe-glossary.md)) can be assigned to a **Variant**.
-    
-- **Cause:** An object was passed to a [procedure](../../Glossary/vbe-glossary.md) that is expecting a single property or value.
-    
-  **Solution:** Pass the appropriate single property or call a [method](../../Glossary/vbe-glossary.md) appropriate to the object.
-    
-- **Cause:** A [module](../../Glossary/vbe-glossary.md) or [project](../../Glossary/vbe-glossary.md) name was used where an [expression](../../Glossary/vbe-glossary.md) was expected, for example:
-=======
 Visual Basic is able to convert and coerce many values to accomplish [data type](../../Glossary/vbe-glossary.md#data-type) assignments that weren't possible in earlier versions. However, this error can still occur and has the following causes and solutions:
 
 - **Cause:** The [variable](../../Glossary/vbe-glossary.md#variable) or [property](../../Glossary/vbe-glossary.md#property) isn't of the correct type. For example, a variable that requires an integer value can't accept a string value unless the whole string can be recognized as an integer.
@@ -35,7 +22,6 @@ Visual Basic is able to convert and coerce many values to accomplish [data type]
   **Solution:** Pass the appropriate single property or call a [method](../../Glossary/vbe-glossary.md#method) appropriate to the object.
     
 - **Cause:** A [module](../../Glossary/vbe-glossary.md#module) or [project](../../Glossary/vbe-glossary.md#project) name was used where an [expression](../../Glossary/vbe-glossary.md#expression) was expected, for example:
->>>>>>> master
     
   ```vb
     Debug.Print MyModule 
@@ -59,11 +45,7 @@ Visual Basic is able to convert and coerce many values to accomplish [data type]
 
   **Solution:** Use a **Select Case** statement or some similar construct to map the return of **CVErr** to such a value.
     
-<<<<<<< HEAD
-- **Cause:** At [run time](../../Glossary/vbe-glossary.md), this error typically indicates that a **Variant** used in an expression has an incorrect subtype, or a **Variant** containing an [array](../../Glossary/vbe-glossary.md) appears in a **Print #** statement.
-=======
 - **Cause:** At [run time](../../Glossary/vbe-glossary.md#run-time), this error typically indicates that a **Variant** used in an expression has an incorrect subtype, or a **Variant** containing an [array](../../Glossary/vbe-glossary.md#array) appears in a **Print #** statement.
->>>>>>> master
     
   **Solution:** To print arrays, create a loop that displays each element individually.
     

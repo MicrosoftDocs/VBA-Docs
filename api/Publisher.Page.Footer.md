@@ -51,11 +51,7 @@ The  **HeaderFooter** object returned by the **Footer** property can be used to 
 ```vb
 With ActiveDocument.masterPages(1) 
  With .Header 
-<<<<<<< HEAD
- .TextRange.Text = "Windows" &; Chr(13) &; "Office" &; Chr(13) &; "Internet Explorer" 
-=======
  .TextRange.Text = "Windows" & Chr(13) & "Office" & Chr(13) & "Internet Explorer" 
->>>>>>> master
  With .TextRange.ParagraphFormat 
  .SetListType Value:=pbListTypeBullet, BulletText:="*" 
  .Alignment = pbParagraphAlignmentLeft 

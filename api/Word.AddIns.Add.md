@@ -48,11 +48,7 @@ Sub AddTemplate()
  ' path is correct and the file exists. 
  
  AddIns.Add FileName:="C:\Program Files\Microsoft Office" _ 
-<<<<<<< HEAD
- &; "\Templates\Letters &; Faxes\MyFax.dot", Install:=True 
-=======
  & "\Templates\Letters & Faxes\MyFax.dot", Install:=True 
->>>>>>> master
 End Sub
 ```
 

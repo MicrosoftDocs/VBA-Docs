@@ -36,11 +36,7 @@ Sub WritingStyles()
  WrStyles = Languages(wdEnglishUS).WritingStyleList 
  For i = 1 To UBound(WrStyles) 
  MsgBox WrStyles(i) 
-<<<<<<< HEAD
- Debug.Print WrStyles(i) &; " [" &; Trim(Str$(i)) &; "]" 
-=======
  Debug.Print WrStyles(i) & " [" & Trim(Str$(i)) & "]" 
->>>>>>> master
  Next i 
 End Sub
 ```

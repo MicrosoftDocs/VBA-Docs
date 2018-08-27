@@ -32,11 +32,7 @@ The following example adds a tab stop positioned at 2.5 inches to the selected p
 Selection.Paragraphs.TabStops.Add Position:=InchesToPoints(2.5) 
 For Each aTab In Selection.Paragraphs.TabStops 
  MsgBox "Position = " _ 
-<<<<<<< HEAD
- &; PointsToInches(aTab.Position) &; " inches" 
-=======
  & PointsToInches(aTab.Position) & " inches" 
->>>>>>> master
 Next aTab
 ```
 

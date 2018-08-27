@@ -52,11 +52,7 @@ Sub VerticalText()
  .TextRange.ParagraphFormat.Alignment _ 
  = pbParagraphAlignmentCenter 
  .TextRange.Text = "Column Heading " _ 
-<<<<<<< HEAD
- &; celTable.Column 
-=======
  & celTable.Column 
->>>>>>> master
  End With 
  Next 
  End With 

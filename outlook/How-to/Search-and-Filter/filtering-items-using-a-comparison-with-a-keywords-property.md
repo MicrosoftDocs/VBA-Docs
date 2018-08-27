@@ -30,15 +30,9 @@ To overcome the limitations of keywords restrictions using the Jet query syntax,
 
 
 ```vb
-<<<<<<< HEAD
-criteria = "@SQL=" &; Chr(34) _ 
-&; "urn:schemas-microsoft-com:office:office#Keywords" _ 
-&; Chr(34) &; " ci_startswith 'Partner'"
-=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas-microsoft-com:office:office#Keywords" _ 
 & Chr(34) & " ci_startswith 'Partner'"
->>>>>>> master
 ```
 
 You can also use a DASL query for equivalence matching in a multi-valued string property. Consider an example where items have one or more of the following four categories: 
@@ -58,15 +52,9 @@ The DASL equivalence query:
 
 
 ```vb
-<<<<<<< HEAD
-criteria = "@SQL=" &; Chr(34) _ 
-&; "urn:schemas-microsoft-com:office:office#Keywords" &; Chr(34) _ 
-&; " = 'Book'"
-=======
 criteria = "@SQL=" & Chr(34) _ 
 & "urn:schemas-microsoft-com:office:office#Keywords" & Chr(34) _ 
 & " = 'Book'"
->>>>>>> master
 ```
 
 returns any item that has  **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that do not have **Book** as a category.

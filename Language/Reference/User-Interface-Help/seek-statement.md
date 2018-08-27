@@ -13,33 +13,20 @@ ms.date: 06/08/2017
 
 Sets the position for the next read/write operation within a file opened using the  **Open** statement.
 
-<<<<<<< HEAD
- **Syntax**
-
- **Seek** [ **#** ] _filenumber_, _position_
-=======
 ## Syntax
 
 **Seek** [ **#** ] _filenumber_, _position_
->>>>>>> master
 
 The  **Seek** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md).|
-| _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
-
- **Remarks**
-=======
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
 
 ## Remarks
 
->>>>>>> master
 Record numbers specified in  **Get** and **Put** statements override file positioning performed by **Seek**.
 Performing a file-write operation after a  **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
 

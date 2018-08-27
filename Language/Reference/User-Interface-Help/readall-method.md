@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Reads an entire  **TextStream** file and returns the resulting string.
-<<<<<<< HEAD
- **Syntax**
- _object_. **ReadAll**
-The  _object_ is always the name of a **TextStream** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,6 +25,5 @@ The  _object_ is always the name of a **TextStream** object.
 
 ## Remarks
 
->>>>>>> master
 For large files, using the  **ReadAll** method wastes memory resources. Other techniques should be used to input a file, such as reading a file line by line.
 

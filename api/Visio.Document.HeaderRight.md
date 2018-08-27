@@ -47,11 +47,7 @@ Sub HeaderRight_Example()
     Dim strHeader as String 
  
     'Build header string.  
-<<<<<<< HEAD
-    strHeader = "The date is " &; "&;D"  
-=======
     strHeader = "The date is " & "&D"  
->>>>>>> master
  
     'Set header of the current document.  
     ThisDocument.HeaderRight = strHeader  

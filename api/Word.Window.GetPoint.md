@@ -53,17 +53,10 @@ Dim pHeight As Long
  
 ActiveWindow.GetPoint pLeft, pTop, pWidth, pHeight, _ 
  Selection.Range 
-<<<<<<< HEAD
-MsgBox "Left = " &; pLeft &; vbLf _ 
- &; "Top = " &; pTop &; vbLf _ 
- &; "Width = " &; pWidth &; vbLf _ 
- &; "Height = " &; pHeight
-=======
 MsgBox "Left = " & pLeft & vbLf _ 
  & "Top = " & pTop & vbLf _ 
  & "Width = " & pWidth & vbLf _ 
  & "Height = " & pHeight
->>>>>>> master
 ```
 
 

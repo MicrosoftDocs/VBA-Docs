@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-ï»¿---
-=======
 ---
->>>>>>> master
 title: CustomProperty Object (Word)
 keywords: vbawd10.chm3552
 f1_keywords:
@@ -22,11 +18,7 @@ Represents a single instance of a custom property for a smart tag. The  **Custom
 
 ## Remarks
 
-<<<<<<< HEAD
-Use the  **[Item](Word.CustomProperties.Item.md)** methodâ€”or **[Properties](./overview/Word.md)** (Index), where Index is the number of the propertyâ€”of the **CustomProperties** collection to return a **CustomProperty** object.
-=======
-Use the  **[Item](Word.CustomProperties.Item.md)** method—or **[Properties](./overview/Word.md)** (Index), where Index is the number of the property—of the **CustomProperties** collection to return a **CustomProperty** object.
->>>>>>> master
+Use the  **[Item](Word.CustomProperties.Item.md)** methodï¿½or **[Properties](./overview/Word.md)** (Index), where Index is the number of the propertyï¿½of the **CustomProperties** collection to return a **CustomProperty** object.
 
 Use the  **[Name](Word.CustomProperty.Name.md)** and **[Value](Word.CustomProperty.Value.md)** properties to return the information related to a custom property for a smart tag. This example displays a message containing the name and value of the first custom property of the first smart tag in the current document. This example assumes that the current document contains at least one smart tag and that the first smart tag has at least one custom property.
 
@@ -36,13 +28,8 @@ Use the  **[Name](Word.CustomProperty.Name.md)** and **[Value](Word.CustomProper
 ```vb
 Sub SmartTagsProps() 
  With ActiveDocument.SmartTags(Index:=1).Properties.Item(Index:=1) 
-<<<<<<< HEAD
- MsgBox "Smart Tag Name: " &; .Name &; vbLf &; _ 
- "Smart Tag Value: " &; .Value 
-=======
  MsgBox "Smart Tag Name: " & .Name & vbLf & _ 
  "Smart Tag Value: " & .Value 
->>>>>>> master
  End With 
 End Sub
 ```

@@ -43,21 +43,12 @@ Set wizTemp = ActiveDocument.Wizard
 With wizTemp 
  Set wizproAll = .Properties 
  Debug.Print "Publication Design associated with " _ 
-<<<<<<< HEAD
- &; "current publication: " _ 
- &; .Name 
- For Each wizproTemp In wizproAll 
- With wizproTemp 
- Debug.Print " Wizard property: " _ 
- &; .Name &; " = " &; .CurrentValueId 
-=======
  & "current publication: " _ 
  & .Name 
  For Each wizproTemp In wizproAll 
  With wizproTemp 
  Debug.Print " Wizard property: " _ 
  & .Name & " = " & .CurrentValueId 
->>>>>>> master
  End With 
  Next wizproTemp 
 End With

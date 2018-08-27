@@ -67,14 +67,9 @@ The settings for  _Shift_ are:
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
 
-<<<<<<< HEAD
- **Remarks**
-Use this event to monitor the mouse pointer as it enters, leaves, or rests directly over a valid [target](../../../language/Glossary/glossary-vba.md). When a drag-and-drop operation is in progress, the system initiates this event when the user moves the mouse, or presses or releases the mouse button or buttons. The mouse pointer position determines the target object that receives this event. You can determine the state of the mouse pointer by examining the  _DragState_ argument.
-=======
 ## Remarks
 
 Use this event to monitor the mouse pointer as it enters, leaves, or rests directly over a valid [target](../../Glossary/glossary-vba.md#target). When a drag-and-drop operation is in progress, the system initiates this event when the user moves the mouse, or presses or releases the mouse button or buttons. The mouse pointer position determines the target object that receives this event. You can determine the state of the mouse pointer by examining the  _DragState_ argument.
->>>>>>> master
 When a control handles this event, you can use the  _Effect_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, the drop source supports a copy (**fmDropEffectCopy**), move (**fmDropEffectMove**), or a cancel (**fmDropEffectNone**) operation.
 When  _Effect_ is set to **fmDropEffectCopy**, the drop source supports a copy or a cancel (**fmDropEffectNone**) operation.
 When  _Effect_ is set to **fmDropEffectMove**, the drop source supports a move or a cancel (**fmDropEffectNone**) operation.

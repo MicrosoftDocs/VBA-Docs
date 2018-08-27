@@ -54,11 +54,7 @@ Private Sub appWord_DocumentBeforeSave _
  Dim intResponse As Integer 
  
  intResponse = MsgBox("Do you really want to " _ 
-<<<<<<< HEAD
- &; "save the document?", _ 
-=======
  & "save the document?", _ 
->>>>>>> master
  vbYesNo) 
  
  If intResponse = vbNo Then Cancel = True 
@@ -71,8 +67,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
-<<<<<<< HEAD
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
-=======
-[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
->>>>>>> master

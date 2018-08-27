@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns the short path used by programs that require the earlier 8.3 file naming convention.
-<<<<<<< HEAD
- **Syntax**
- _object_. **ShortPath**
-The  _object_ is always a **File** or **Folder** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,7 +25,6 @@ The  _object_ is always a **File** or **Folder** object.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates the use of the  **ShortName** property with a **File** object:
 
 
@@ -41,15 +34,9 @@ Sub ShowShortPath(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-<<<<<<< HEAD
-    s = "The short path for " &; "" &; UCase(f.Name)
-    s = s &; "" &; vbCrLf
-    s = s &; "is: " &; "" &; f.ShortPath &; ""
-=======
     s = "The short path for " & "" & UCase(f.Name)
     s = s & "" & vbCrLf
     s = s & "is: " & "" & f.ShortPath & ""
->>>>>>> master
     MsgBox s, 0, "Short Path Info"
 End Sub
 ```

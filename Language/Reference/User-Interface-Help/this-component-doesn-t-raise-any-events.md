@@ -11,21 +11,13 @@ ms.date: 06/08/2017
 
 # This component doesn't raise any events
 
-<<<<<<< HEAD
-An event [procedure](../../Glossary/vbe-glossary.md) must correspond to an event that can be raised by an object. This error has the following cause and solution:
-=======
 An event [procedure](../../Glossary/vbe-glossary.md#procedure) must correspond to an event that can be raised by an object. This error has the following cause and solution:
->>>>>>> master
 
 
 
 - You wrote an event procedure for an object that doesn't raise events. You can't write an event procedure that doesn't correspond to an event.
     
-<<<<<<< HEAD
-- You tried to use  **WithEvents** on a[class](../../Glossary/vbe-glossary.md) that doesn't raise events.
-=======
 - You tried to use  **WithEvents** on a[class](../../Glossary/vbe-glossary.md#class) that doesn't raise events.
->>>>>>> master
     
     You can't use  **WithEvents** on a class that doesn't raise events.
     

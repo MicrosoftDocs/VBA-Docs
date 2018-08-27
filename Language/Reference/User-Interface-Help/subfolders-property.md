@@ -17,12 +17,6 @@ ms.date: 06/08/2017
 
  **Description**
 Returns a  **Folders** collection consisting of all folders contained in a specified folder, including those with Hidden and System file attributes set.
-<<<<<<< HEAD
- **Syntax**
- _object_. **SubFolders**
-The  _object_ is always a **Folder** object.
- **Remarks**
-=======
 
 ## Syntax
 
@@ -31,7 +25,6 @@ The  _object_ is always a **Folder** object.
 
 ## Remarks
 
->>>>>>> master
 The following code illustrates the use of the  **SubFolders** property:
 
 
@@ -43,13 +36,8 @@ Sub ShowFolderList(folderspec)
     Set f = fs.GetFolder(folderspec)
     Set sf = f.SubFolders
     For Each f1 in sf
-<<<<<<< HEAD
-        s = s &; f1.name 
-        s = s &;  vbCrLf
-=======
         s = s & f1.name 
         s = s &  vbCrLf
->>>>>>> master
     Next
     MsgBox s
 End Sub

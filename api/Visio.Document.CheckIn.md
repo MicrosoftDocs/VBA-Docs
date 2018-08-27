@@ -55,17 +55,10 @@ Sub CheckDocIn(varDocCheckIn As Variant)
   
     If Documents.Item(varDocCheckIn).CanCheckin = True Then  
         Documents.Item(varDocCheckIn).CheckIn  
-<<<<<<< HEAD
-        MsgBox varDocCheckIn &; " has been checked in."  
-    Else  
-        MsgBox "This file cannot be checked in " _  
-            &; "at this time. Please try again later."  
-=======
         MsgBox varDocCheckIn & " has been checked in."  
     Else  
         MsgBox "This file cannot be checked in " _  
             & "at this time. Please try again later."  
->>>>>>> master
     End If   
   
 End Sub

@@ -50,13 +50,8 @@ Sub ReturnAddrLabel()
  Set ml = Application.MailingLabel.CustomLabels _ 
  .Add(Name:="Return Address", DotMatrix:=False) 
  ml.PageSize = wdCustomLabelLetter 
-<<<<<<< HEAD
- addr = "Dave Edson" &; vbCr &; "123 Skye St." &; vbCr _ 
- &; "Our Town, WA 98004" 
-=======
  addr = "Dave Edson" & vbCr & "123 Skye St." & vbCr _ 
  & "Our Town, WA 98004" 
->>>>>>> master
  Application.MailingLabel.CreateNewDocument _ 
  Name:="Return Address", Address:=addr, ExtractAddress:=False 
 End Sub

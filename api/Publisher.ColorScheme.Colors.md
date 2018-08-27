@@ -54,15 +54,9 @@ For Each cscLoop In Application.ColorSchemes
  With cscLoop 
  Set colTemp = .Colors(ColorIndex:=pbSchemeColorFollowedHyperlink) 
  If colTemp.RGB = RGB(128, 0, 0) Then 
-<<<<<<< HEAD
- Debug.Print "Color scheme '" &; .Name _ 
- &; "' has a followed hyperlink " _ 
- &; "color matching RGB(128, 0, 0)" 
-=======
  Debug.Print "Color scheme '" & .Name _ 
  & "' has a followed hyperlink " _ 
  & "color matching RGB(128, 0, 0)" 
->>>>>>> master
  End If 
  End With 
 Next cscLoop

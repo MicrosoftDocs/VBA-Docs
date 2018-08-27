@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # ParamArray must be declared as an array of Variant
 
-<<<<<<< HEAD
-Each [argument](../../Glossary/vbe-glossary.md) to a **ParamArray**[parameter](../../Glossary/vbe-glossary.md) can be of a different[data type](../../Glossary/vbe-glossary.md). Therefore, the parameter itself must be declared as an [array](../../Glossary/vbe-glossary.md) of **Variant** type. You can also supply any number of arguments to a **ParamArray**. When the call is made, each argument supplied in the call becomes a corresponding element of the **Variant** array. For example:
-=======
 Each [argument](../../Glossary/vbe-glossary.md#argument) to a **ParamArray**[parameter](../../Glossary/vbe-glossary.md#parameter) can be of a different[data type](../../Glossary/vbe-glossary.md#data-type). Therefore, the parameter itself must be declared as an [array](../../Glossary/vbe-glossary.md#array) of **Variant** type. You can also supply any number of arguments to a **ParamArray**. When the call is made, each argument supplied in the call becomes a corresponding element of the **Variant** array. For example:
->>>>>>> master
 
 
 ```vb
@@ -31,11 +27,7 @@ This error has the following causes and solutions:
 
 
 
-<<<<<<< HEAD
-- In the definition of the [procedure](../../Glossary/vbe-glossary.md), the  **ParamArray** parameter is defined as an array of a type other than **Variant**.
-=======
 - In the definition of the [procedure](../../Glossary/vbe-glossary.md#procedure), the  **ParamArray** parameter is defined as an array of a type other than **Variant**.
->>>>>>> master
     
     Redeclare the parameter type as an array of  **Variant** elements.
     

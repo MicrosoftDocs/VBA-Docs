@@ -50,11 +50,7 @@ End Sub
 
 In this example,  `ActiveDocument` refers to the document in the active window in Word. The name of that document is assigned to the variable refers to the document in the active window in Word. The name of that document is assigned to the variable `strDocName`.
 
-<<<<<<< HEAD
-**Remarks**
-=======
 ## Remarks
->>>>>>> master
 
 The Help topic for each property indicates whether you can set that property (read/write), only read the property (read-only), or only write the property (write-only). Also, the Object Browser in the Visual Basic Editor displays the read/write status at the bottom of the browser window when the property is selected.
 

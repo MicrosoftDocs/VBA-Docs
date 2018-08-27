@@ -47,11 +47,7 @@ Sub FooterCenter_Example()
     Dim strFooter as String 
  
     'Build the footer string.  
-<<<<<<< HEAD
-    strFooter = "Page &;p of &;P"  
-=======
     strFooter = "Page &p of &P"  
->>>>>>> master
  
     'Set the footer of the current document.  
      ThisDocument.FooterCenter = strFooter 

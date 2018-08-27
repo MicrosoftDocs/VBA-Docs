@@ -240,11 +240,7 @@ The following section provides workarounds for issues you may encounter when usi
     End Sub
 
     Sub SayHello()
-<<<<<<< HEAD
-        MsgBox "Hello from '" &; ActiveWorkbook.Name &; "'"
-=======
         MsgBox "Hello from '" & ActiveWorkbook.Name & "'"
->>>>>>> master
     End Sub
   ```
 

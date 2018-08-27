@@ -48,11 +48,7 @@ Lists the expression type.
 
 Lists the context of the watch expression.
 
-<<<<<<< HEAD
-If the context of the expression isn't in [scope](../../Glossary/vbe-glossary.md) when going to break mode, the current value isn't displayed.
-=======
 If the context of the expression isn't in [scope](../../Glossary/vbe-glossary.md#scope) when going to break mode, the current value isn't displayed.
->>>>>>> master
 
 You can close the window by clicking the Close box. If the Close box is not visible, double-click the  **Title** bar to make the Close box visible, then click it.
 

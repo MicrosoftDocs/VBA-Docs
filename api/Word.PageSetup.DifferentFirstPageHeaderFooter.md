@@ -34,13 +34,8 @@ Dim secLoop As Section
 For Each secLoop In ActiveDocument.Sections 
  If secLoop.PageSetup _ 
  .DifferentFirstPageHeaderFooter = True Then 
-<<<<<<< HEAD
- Msgbox "Section " &; secLoop.Index _ 
- &; " has different first page headers &; footers." 
-=======
  Msgbox "Section " & secLoop.Index _ 
  & " has different first page headers & footers." 
->>>>>>> master
  End If 
 Next secLoop
 ```

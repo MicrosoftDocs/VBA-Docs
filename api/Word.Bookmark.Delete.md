@@ -36,11 +36,7 @@ Sub DeleteBookmark()
  strBookmark = "temp" 
  
  intResponse = MsgBox("Are you sure you want to delete " _ 
-<<<<<<< HEAD
- &; "the bookmark named """ &; strBookmark &; """?", vbYesNo) 
-=======
  & "the bookmark named """ & strBookmark & """?", vbYesNo) 
->>>>>>> master
  
  If intResponse = vbYes Then 
  If ActiveDocument.Bookmarks.Exists(Name:=strBookmark) Then 

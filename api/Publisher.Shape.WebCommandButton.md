@@ -47,11 +47,7 @@ With wcbTemp
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
  .ActionURL = "https://www.tailspintoys.com/" _ 
-<<<<<<< HEAD
- &; "scripts/ispscript.cgi" 
-=======
  & "scripts/ispscript.cgi" 
->>>>>>> master
 End With
 ```
 

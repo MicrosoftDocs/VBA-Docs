@@ -47,11 +47,7 @@ Set shapeTextbox1 = ActiveDocument.Shapes.AddTextbox _
  Width:=InchesToPoints(1), _ 
  Height:=InchesToPoints(0.5)) 
 shapeTextbox1.TextFrame.TextRange = "This is some text. " _ 
-<<<<<<< HEAD
- &; "This is some more text. This is even more text." 
-=======
  & "This is some more text. This is even more text." 
->>>>>>> master
  
 Set shapeTextbox2 = ActiveDocument.Shapes.AddTextbox _ 
  (Orientation:=msoTextOrientationHorizontal, _ 

@@ -53,11 +53,7 @@ This example returns the bottom margin for section 1 in the selection. The  **[P
 Dim sngMargin As Single 
  
 sngMargin = Selection.Sections(1).PageSetup.BottomMargin 
-<<<<<<< HEAD
-MsgBox PointsToInches(sngMargin) &; " inches"
-=======
 MsgBox PointsToInches(sngMargin) & " inches"
->>>>>>> master
 ```
 
 

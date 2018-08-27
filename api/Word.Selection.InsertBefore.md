@@ -45,11 +45,7 @@ This example inserts the text "Hamlet" (enclosed in quotation marks) before the 
 
 ```vb
 With Selection 
-<<<<<<< HEAD
- .InsertBefore Chr(34) &; "Hamlet" &; Chr(34) &; Chr(32) 
-=======
  .InsertBefore Chr(34) & "Hamlet" & Chr(34) & Chr(32) 
->>>>>>> master
  .Collapse Direction:=wdCollapseEnd 
 End With
 ```
