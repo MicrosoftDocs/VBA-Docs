@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Properties Window Command (View Menu)
 
-<<<<<<< HEAD
-Displays the  **Properties** window, which lists the design-time properties for a selected [form](../../Glossary/vbe-glossary.md), [control](../../Glossary/vbe-glossary.md), [class](../../Glossary/vbe-glossary.md), [project](../../Glossary/vbe-glossary.md) or [module](../../Glossary/vbe-glossary.md).
-=======
 Displays the  **Properties** window, which lists the design-time properties for a selected [form](../../Glossary/vbe-glossary.md#form), [control](../../Glossary/vbe-glossary.md#control), [class](../../Glossary/vbe-glossary.md#class), [project](../../Glossary/vbe-glossary.md#project) or [module](../../Glossary/vbe-glossary.md#module).
->>>>>>> master
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_prop_ZA01201727.gif). Keyboard shortcut: F6.

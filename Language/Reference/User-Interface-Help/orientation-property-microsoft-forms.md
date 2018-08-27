@@ -14,15 +14,10 @@ ms.date: 06/08/2017
 
 
 Specifies whether the  **SpinButton** or **ScrollBar** is oriented vertically or horizontally.
-<<<<<<< HEAD
- **Syntax**
- _object_. **Orientation** [= _fmOrientation_ ]
-=======
 
 ## Syntax
 
 _object_. **Orientation** [= _fmOrientation_ ]
->>>>>>> master
 The  **Orientation** property syntax has these parts:
 
 
@@ -41,11 +36,7 @@ The settings for  _fmOrientation_ are:
 | _FmOrientationVertical_|0|Control is rendered vertically.|
 | _FmOrientationHorizontal_|1|Control is rendered horizontally.|
 
-<<<<<<< HEAD
- **Remarks**
-=======
 ## Remarks
 
->>>>>>> master
 If you specify automatic orientation, the height and width of the control determine whether it appears horizontally or vertically. For example, if the control is wider than it is tall, it appears horizontally; if it is taller than it is wide, the control appears vertically.
 

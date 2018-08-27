@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Object already loaded (Error 360)
 
-<<<<<<< HEAD
-The control in the [control array](../../Glossary/vbe-glossary.md) has already been loaded. This error has the following cause and solution:
-
-
-
-- You tried to add a control to a control array at [run time](../../Glossary/vbe-glossary.md) with the **Load** statement but the index value you referred to already exists.
-=======
 The control in the [control array](../../Glossary/vbe-glossary.md#control-array) has already been loaded. This error has the following cause and solution:
 
 
 
 - You tried to add a control to a control array at [run time](../../Glossary/vbe-glossary.md#run-time) with the **Load** statement but the index value you referred to already exists.
->>>>>>> master
     
     Change the index reference to a new value or check whether your code is executing the same  **Load** statement with the same index value reference more than once.
     

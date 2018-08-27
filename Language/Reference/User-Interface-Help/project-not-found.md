@@ -11,11 +11,7 @@ ms.date: 06/08/2017
 
 # Project not found
 
-<<<<<<< HEAD
-The [project](../../Glossary/vbe-glossary.md) was not found. This error has the following cause and solution:
-=======
 The [project](../../Glossary/vbe-glossary.md#project) was not found. This error has the following cause and solution:
->>>>>>> master
 
 
 

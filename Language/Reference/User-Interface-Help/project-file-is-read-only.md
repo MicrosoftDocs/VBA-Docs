@@ -11,10 +11,6 @@ ms.date: 06/08/2017
 
 # Project file is read-only
 
-<<<<<<< HEAD
-The [project](../../Glossary/vbe-glossary.md) file is not writable. To change it, you must save it under a different name or remove the read-only attribute.
-=======
 The [project](../../Glossary/vbe-glossary.md#project) file is not writable. To change it, you must save it under a different name or remove the read-only attribute.
->>>>>>> master
 
 

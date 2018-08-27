@@ -14,28 +14,15 @@ ms.date: 06/08/2017
 
 
 Used to multiply two numbers.
-<<<<<<< HEAD
- **Syntax**
- _result_**=**_number1_ * _number2_
-=======
 
 ## Syntax
 
 _result_**=**_number1_ * _number2_
->>>>>>> master
 The  **\*** operator syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-<<<<<<< HEAD
-| _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md).|
-| _number1_|Required; any [numeric expression](../../Glossary/vbe-glossary.md).|
-| _number2_|Required; any numeric expression.|
-
- **Remarks**
-The [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md), [Integer](../../Glossary/vbe-glossary.md), [Long](../../Glossary/vbe-glossary.md), [Single](../../Glossary/vbe-glossary.md), [Currency](../../Glossary/vbe-glossary.md), [Double](../../Glossary/vbe-glossary.md), and [Decimal](../../Glossary/vbe-glossary.md). The following are exceptions to this order:
-=======
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _number1_|Required; any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
 | _number2_|Required; any numeric expression.|
@@ -43,7 +30,6 @@ The [data type](../../Glossary/vbe-glossary.md) of _result_ is usually the same 
 ## Remarks
 
 The [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise[expression](../../Glossary/vbe-glossary.md#expression). The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), and [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type). The following are exceptions to this order:
->>>>>>> master
 
 
 |**If**|**Then  _result_ is**|
@@ -53,11 +39,7 @@ The [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually
 |The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
 |the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
 
-<<<<<<< HEAD
-If one or both expressions are [Null](../../Glossary/vbe-glossary.md) expressions, _result_ is **Null**. If an expression is[Empty](../../Glossary/vbe-glossary.md), it is treated as 0.
-=======
 If one or both expressions are [Null](../../Glossary/vbe-glossary.md#null) expressions, _result_ is **Null**. If an expression is[Empty](../../Glossary/vbe-glossary.md#empty), it is treated as 0.
->>>>>>> master
 
  **Note**  The order of precision used by multiplication is not the same as the order of precision used by addition and subtraction.
 

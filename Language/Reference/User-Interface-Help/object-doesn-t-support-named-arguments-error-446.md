@@ -11,15 +11,6 @@ ms.date: 06/08/2017
 
 # Object doesn't support named arguments (Error 446)
 
-<<<<<<< HEAD
-Not all objects support [named arguments](../../Glossary/vbe-glossary.md). This error has the following cause and solution:
-
-
-
-- You tried to access an object whose [methods](../../Glossary/vbe-glossary.md) don't support named arguments.
-    
-    Specify [arguments](../../Glossary/vbe-glossary.md) positionally when performing methods on this object. See the object's documentation for more information on argument positions and types.
-=======
 Not all objects support [named arguments](../../Glossary/vbe-glossary.md#named-argument). This error has the following cause and solution:
 
 
@@ -27,7 +18,6 @@ Not all objects support [named arguments](../../Glossary/vbe-glossary.md#named-a
 - You tried to access an object whose [methods](../../Glossary/vbe-glossary.md#method) don't support named arguments.
     
     Specify [arguments](../../Glossary/vbe-glossary.md#argument) positionally when performing methods on this object. See the object's documentation for more information on argument positions and types.
->>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

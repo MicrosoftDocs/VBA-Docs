@@ -16,11 +16,7 @@ ms.date: 06/08/2017
 
 
 
-<<<<<<< HEAD
-Lists the design-time properties for selected objects and their current settings. You can change these properties at [design time](../../Glossary/vbe-glossary.md). When you select multiple controls, the  **Properties** window contains a list of the properties common to all the selected controls.
-=======
 Lists the design-time properties for selected objects and their current settings. You can change these properties at [design time](../../Glossary/vbe-glossary.md#design-time). When you select multiple controls, the  **Properties** window contains a list of the properties common to all the selected controls.
->>>>>>> master
 
 ## Window Elements
 

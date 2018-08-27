@@ -14,12 +14,8 @@ ms.date: 06/08/2017
 
 
 Returns the properties of an object. Read-only.
-<<<<<<< HEAD
- **Remarks**
-=======
 
 ## Remarks
 
->>>>>>> master
 The  **Properties** property is an accessor property (that is, a property that returns an object of the same type as the property name).
 

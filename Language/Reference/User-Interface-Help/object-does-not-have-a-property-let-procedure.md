@@ -11,19 +11,11 @@ ms.date: 06/08/2017
 
 # Object does not have a Property Let procedure
 
-<<<<<<< HEAD
-You can't assign a value to a [property](../../Glossary/vbe-glossary.md) unless it has exposed a **Property Let** method. This error has the following causes and solutions:
-
-
-
-- You tried to assign a value to a property that hasn't exposed a  **Property Let** method. You can't directly assign a value to this property. If you created the[class](../../Glossary/vbe-glossary.md), you can modify the interface by exposing a  **Property Let** method. Otherwise, check the component's documentation to determine if there is an indirect method for assigning the value.
-=======
 You can't assign a value to a [property](../../Glossary/vbe-glossary.md#property) unless it has exposed a **Property Let** method. This error has the following causes and solutions:
 
 
 
 - You tried to assign a value to a property that hasn't exposed a  **Property Let** method. You can't directly assign a value to this property. If you created the[class](../../Glossary/vbe-glossary.md#class), you can modify the interface by exposing a  **Property Let** method. Otherwise, check the component's documentation to determine if there is an indirect method for assigning the value.
->>>>>>> master
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

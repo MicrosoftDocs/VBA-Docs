@@ -15,15 +15,9 @@ You are using one kind of  **Property** procedure where a different kind is expe
 
 
 
-<<<<<<< HEAD
-- You are trying to write to a [property](../../Glossary/vbe-glossary.md) that is read-only.
-    
-    If the only [property procedure](../../Glossary/vbe-glossary.md) defined for the property is a **Property Get**, you can't assign a value to the property. Either write an appropriate **Property Let** procedure, or don't attempt to write to the property.
-=======
 - You are trying to write to a [property](../../Glossary/vbe-glossary.md#property) that is read-only.
     
     If the only [property procedure](../../Glossary/vbe-glossary.md#property-procedure) defined for the property is a **Property Get**, you can't assign a value to the property. Either write an appropriate **Property Let** procedure, or don't attempt to write to the property.
->>>>>>> master
     
 - You are trying to read a property that is write-only. If the only property procedure defined for the property is a  **Property Let**, you can't read the value of the property. Either write an appropriate **Property Get** procedure, or don't attempt to write to the property.
     

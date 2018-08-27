@@ -11,19 +11,6 @@ ms.date: 06/08/2017
 
 # Option Private Statement
 
-<<<<<<< HEAD
-When used in host applications that allow references across multiple [projects](../../Glossary/vbe-glossary.md),  **Option Private Module** prevents a[module's](../../Glossary/vbe-glossary.md) contents from being referenced outside its project. In host applications that don't permit such references, for example, standalone versions of Visual Basic, **Option Private** has no effect.
-
- **Syntax**
-
- **Option Private Module**
-
- **Remarks**
-If used, the  **Option** **Private** statement must appear at[module level](../../Glossary/vbe-glossary.md), before any [procedures](../../Glossary/vbe-glossary.md).
-When a module contains  **Option Private Module**, the public parts, for example,[variables](../../Glossary/vbe-glossary.md), [objects](../../Glossary/vbe-glossary.md), and [user-defined types](../../Glossary/vbe-glossary.md) declared at module level, are still available within the[project](../../Glossary/vbe-glossary.md) containing the module, but they are not available to other applications or projects.
-
- **Note**   **Option Private** is only useful for[host applications](../../Glossary/vbe-glossary.md) that support simultaneous loading of multiple projects and permit references between the loaded projects. For example, Microsoft Excel permits loading of multiple projects and **Option Private Module** can be used to restrict cross-project visibility. Although Visual Basic permits loading of multiple projects, references between projects are never permitted in Visual Basic.
-=======
 When used in host applications that allow references across multiple [projects](../../Glossary/vbe-glossary.md#project),  **Option Private Module** prevents a[module's](../../Glossary/vbe-glossary.md#module) contents from being referenced outside its project. In host applications that don't permit such references, for example, standalone versions of Visual Basic, **Option Private** has no effect.
 
 ## Syntax
@@ -36,7 +23,6 @@ If used, the  **Option** **Private** statement must appear at[module level](../.
 When a module contains  **Option Private Module**, the public parts, for example,[variables](../../Glossary/vbe-glossary.md#variable), [objects](../../Glossary/vbe-glossary.md#object), and [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) declared at module level, are still available within the[project](../../Glossary/vbe-glossary.md#project) containing the module, but they are not available to other applications or projects.
 
  **Note**   **Option Private** is only useful for[host applications](../../Glossary/vbe-glossary.md#host-application) that support simultaneous loading of multiple projects and permit references between the loaded projects. For example, Microsoft Excel permits loading of multiple projects and **Option Private Module** can be used to restrict cross-project visibility. Although Visual Basic permits loading of multiple projects, references between projects are never permitted in Visual Basic.
->>>>>>> master
 
 
 ## Example
