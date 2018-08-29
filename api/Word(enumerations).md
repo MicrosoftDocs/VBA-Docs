@@ -5,9 +5,10 @@ ms.assetid: 22173213-5004-4e53-874c-0b60962d58d6
 ms.date: 08/28/2018
 ---
 
-
 # Enumerations (Word)
+
 This section contains documentation for the enumerations in the Word object model.
+
 |**Enumerations**|
 |:---|
 |[WdAlertLevel](wdalertlevel-enumeration-word.md)|
@@ -362,6 +363,8 @@ This section contains documentation for the enumerations in the Word object mode
 |[XlUnderlineStyle](xlunderlinestyle-enumeration-word.md)|
 |[XlVAlign](xlvalign-enumeration-word.md)|
 
- ## See Also
- [Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
+
+ ## See also
+ 
+ - [Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
 
