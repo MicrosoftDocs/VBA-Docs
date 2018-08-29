@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction
 ms.assetid: 7b1d5639-363d-632c-2cf0-2232562646b6
-ms.date: 06/08/2017
+ms.date: 08/28/2018
 ---
 
 
@@ -18,7 +18,7 @@ Used as a container for Microsoft Excel worksheet functions that can be called f
 
 ## Example
 
-Use the  **[WorksheetFunction](Excel.Application.WorksheetFunction.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
+Use the **[WorksheetFunction](Excel.Application.WorksheetFunction.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
 
 
 ```vb
@@ -475,10 +475,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 |[Parent](Excel.WorksheetFunction.Parent.md)|
 
 ## See also
-<a name="AboutContributor"> </a>
 
-
-
-
-
+[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/en-us/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
 [Excel Object Model Reference](./overview/Excel/object-model.md)
