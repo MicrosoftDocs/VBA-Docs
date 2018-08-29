@@ -58,6 +58,7 @@ If you don't specify a data type or object type, and there is no **Def**_type_ s
 You can also use the **Private** statement with empty parentheses to declare a dynamic array. After declaring a dynamic array, use the **ReDim** statement within a procedure to define the number of dimensions and elements in the array. If you try to redeclare a dimension for an array variable whose size was explicitly specified in a **Private**, **Public**, or **Dim** statement, an error occurs.
 When variables are initialized, a numeric variable is initialized to 0, a variable-length string is initialized to a zero-length string (""), and a fixed-length string is filled with zeros. **Variant** variables are initialized to [Empty](../../Glossary/vbe-glossary.md#empty). Each element of a user-defined type variable is initialized as if it were a separate variable.
 
+
 > [!NOTE] 
 > When you use the **Private** statement in a procedure, you generally put the **Private** statement at the beginning of the procedure.
 

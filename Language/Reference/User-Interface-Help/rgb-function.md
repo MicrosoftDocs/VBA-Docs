@@ -20,7 +20,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) whole number rep
 **RGB( _red_, _green_, _blue_ )**
 The **RGB** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-
 |**Part**|**Description**|
 |:-----|:-----|
 |**_red_**|Required;  **Variant** (**Integer**). Number in the range 0-255, inclusive, that represents the red component of the color.|

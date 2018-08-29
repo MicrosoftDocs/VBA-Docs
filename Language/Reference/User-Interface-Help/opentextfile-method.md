@@ -18,6 +18,7 @@ ms.date: 08/28/2018
  **Description**
 Opens a specified file and returns a **TextStream** object that can be used to read from or append to the file.
 
+
 ## Syntax
 
 _object_. **OpenTextFile(**_filename_ [ **,**_iomode_ [ **,**_create_ [ **,**_format_ ]]] **)**
@@ -34,7 +35,6 @@ The  **OpenTextFile** method has these parts:
 
  **Settings**
 The  _iomode_ argument can have any of the following settings:
-
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
