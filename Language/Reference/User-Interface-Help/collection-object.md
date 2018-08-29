@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.Collection
 ms.assetid: 1bc5c060-34c7-84e7-c99c-f20266a2d071
-ms.date: 06/08/2017
+ms.date: 08/28/2018
 ---
 
 
 # Collection object
 
-A  **Collection** object is an ordered set of items that can be referred to as a unit.
+A **Collection** object is an ordered set of items that can be referred to as a unit.
 
 ## Remarks
 
@@ -46,7 +46,7 @@ Sub ClassNamer()
     Do
         Dim Inst As New Class1    ' Create a new instance of Class1.
         Num = Num + 1    ' Increment Num, then get a name.
-        Msg = "Please enter a name for this object." & Chr(13) _
+        Msg = "Please enter a name for this object." & vbNewLine _
          & "Press Cancel to see names in collection."
         TheName = InputBox(Msg, "Name the Collection Items")
         Inst.InstanceName = TheName    ' Put name in object instance.
@@ -59,7 +59,7 @@ Sub ClassNamer()
         Set Inst = Nothing
     Loop Until TheName = ""
     For Each MyObject In MyClasses    ' Create list of names.
-        NameList = NameList & MyObject.InstanceName & Chr(13)
+        NameList = NameList & MyObject.InstanceName & vbNewLine
     Next MyObject
     ' Display the list of names in a message box.
     MsgBox NameList, , "Instance Names In MyClasses Collection"

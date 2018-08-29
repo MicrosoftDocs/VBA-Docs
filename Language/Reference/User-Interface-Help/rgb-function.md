@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009005
 ms.prod: office
 ms.assetid: 5e9956de-ba18-56cd-0556-715774055cf4
-ms.date: 06/08/2017
+ms.date: 08/28/2018
 ---
 
 
@@ -18,7 +18,7 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) whole number rep
 ## Syntax
 
 **RGB( _red_, _green_, _blue_ )**
-The  **RGB** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+The **RGB** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Part**|**Description**|
@@ -29,10 +29,9 @@ The  **RGB** function syntax has these[named arguments](../../Glossary/vbe-gloss
 
 ## Remarks
 
-Application [methods](../../Glossary/vbe-glossary.md#method) and[properties](../../Glossary/vbe-glossary.md#property) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
+Application [methods](../../Glossary/vbe-glossary.md#method) and [properties](../../Glossary/vbe-glossary.md#property) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
 The value for any [argument](../../Glossary/vbe-glossary.md#argument) to **RGB** that exceeds 255 is assumed to be 255.
 The following table lists some standard colors and the red, green, and blue values they include:
-
 
 |**Color**|**Red Value**|**Green Value**|**Blue Value**|
 |:-----|:-----|:-----|:-----|
@@ -53,7 +52,7 @@ This example shows how the  **RGB** function is used to return a whole number re
 
 
 ```vb
-Dim RED, I, RGBValue, MyObject
+Dim Red, I, RGBValue, MyObject
 Red = RGB(255, 0, 0)    ' Return the value for Red.
 I = 75    ' Initialize offset.
 RGBValue = RGB(I, 64 + I, 128 + I)     ' Same as RGB(75, 139, 203).
@@ -62,4 +61,6 @@ MyObject.Color = RGB(255, 0, 0)    ' Set the Color property of
 
 ```
 
+## See also
+ [Color Constants](color-constants.md)
 
