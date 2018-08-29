@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008925
 ms.prod: office
 ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
-ms.date: 06/08/2017
+ms.date: 08/28/2018
 ---
 
 
@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns a  **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
+Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
 
 ## Syntax
 
@@ -213,8 +213,8 @@ The following table identifies characters you can use to create user-defined dat
 |c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
 |d|Display the day as a number without a leading zero (1 - 31).|
 |dd|Display the day as a number with a leading zero (01 - 31).|
-|ddd|Display the day as an abbreviation (Sun - Sat).|
-|dddd|Display the day as a full name (Sunday - Saturday).|
+|ddd|Display the day as an abbreviation (Sun - Sat). Localized.|
+|dddd|Display the day as a full name (Sunday - Saturday). Localized.|
 |ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is  `m/d/yy`.|
 |dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is  `mmmm dd, yyyy`.|
 |aaaa|The same as dddd, only it's the localized version of the string.|
@@ -222,8 +222,8 @@ The following table identifies characters you can use to create user-defined dat
 |ww|Display the week of the year as a number (1 - 54).|
 |m|Display the month as a number without a leading zero (1 - 12). If  `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
 |mm|Display the month as a number with a leading zero (01 - 12). If  `m` immediately follows `h` or `hh`, the minute rather than the month is displayed. |
-|mmm|Display the month as an abbreviation (Jan - Dec).|
-|mmmm|Display the month as a full month name (January - December).|
+|mmm|Display the month as an abbreviation (Jan - Dec). Localized.|
+|mmmm|Display the month as a full month name (January - December). Localized.|
 |oooo|The same as mmmm, only it's the localized version of the string.|
 |q|Display the quarter of the year as a number (1 - 4).|
 |y|Display the day of the year as a number (1 - 366).|

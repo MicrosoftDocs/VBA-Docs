@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.OpenTextFile
 ms.assetid: f44f7bc5-e48b-05f2-eb22-5b02701d449e
-ms.date: 06/08/2017
+ms.date: 08/28/2018
 ---
 
 
@@ -16,7 +16,8 @@ ms.date: 06/08/2017
 
 
  **Description**
-Opens a specified file and returns a  **TextStream** object that can be used to read from or append to the file.
+Opens a specified file and returns a **TextStream** object that can be used to read from or append to the file.
+
 
 ## Syntax
 
@@ -28,18 +29,18 @@ The  **OpenTextFile** method has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filename_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that identifies the file to open.|
-| _iomode_|Optional. Indicates input/output mode. Can be one of two constants, either  **ForReading** or **ForAppending**.|
+| _iomode_|Optional. Indicates input/output mode. Can be one of three constants: **ForReading**, **ForWriting**, or **ForAppending**.|
 | _create_|Optional.  **Boolean** value that indicates whether a new file can be created if the specified _filename_ doesn't exist. The value is **True** if a new file is created; **False** if it isn't created. The default is **False**.|
 | _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
  **Settings**
-The  _iomode_ argument can have either of the following settings:
-
+The  _iomode_ argument can have any of the following settings:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
-|**ForAppending**|8|Open a file and write to the end of the file.|
+|**ForWriting**|2|Open a file for writing only. Use this mode to replace an existing file with new data. You can't read from this file.|
+|**ForAppending**|8|Open a file and write to the end of the file. You can't read from this file.|
 
 The  _format_ argument can have any of the following settings:
 

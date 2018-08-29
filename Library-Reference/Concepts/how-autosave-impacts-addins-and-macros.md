@@ -1,13 +1,13 @@
 ---
 title: How AutoSave impacts add-ins and macros
 ms.prod: office
-ms.date: 07/28/2017
+ms.date: 08/28/2018
 ---
 
 
 # How AutoSave impacts add-ins and macros
 
-Learn about how AutoSave works in Excel, PowerPoint, and Word, and how it can impact add-ins or macros. For more information about how AutoSave works in general, see ["What is AutoSave?"][AutoSaveArticle].
+Learn about how AutoSave works in Excel, PowerPoint, and Word, and how it can impact add-ins or macros. 
 
 ## Overview of AutoSave
 
@@ -17,9 +17,11 @@ Currently, Excel, Word, and PowerPoint provide a **BeforeSave** event that allow
 
 When AutoSave is enabled, these events fire automatically on a periodic basis without user interaction. Because of this, add-ins and macros that leverage these events may experience problems when AutoSave is on.
 
-In general, these issues can be avoided if the user chooses to disable AutoSave. You can do this on the user’s behalf by using the **AutoSaveOn** property in [Word][AutoSaveOn_Word], [Excel][AutoSaveOn_Excel], and [PowerPoint][AutoSaveOn_PowerPoint] if it's available (see the following example). You can also take steps as a developer to mitigate these problems so that your add-ins and macros work smoothly, even if AutoSave is enabled.
+In general, these issues can be avoided if the user chooses to disable AutoSave. You can do this on the user’s behalf by using the **AutoSaveOn** property in [Word](../../api/word.document.autosaveon.md), [Excel](../../api/excel.workbook.autosaveon.md), and [PowerPoint](../../api/powerpoint.presentation.autosaveon.md) if it's available (see the following example). You can also take steps as a developer to mitigate these problems so that your add-ins and macros work smoothly, even if AutoSave is enabled.
 
-### <a name="example"></a>Example
+<a name="example"></a>
+
+### Example
 
 This example turns off AutoSave and notifies the user that the workbook is not being automatically saved.
 
@@ -32,19 +34,21 @@ End Sub
 
 <br/>
 
-## <a name="IssuesWithSaveEventsAndAutoSave"></a>Potential issues with save events and AutoSave
+<a name="IssuesWithSaveEventsAndAutoSave"></a>
+
+## Potential issues with save events and AutoSave
 
 You may need to handle one or more of the following issues regarding the interaction between save events and AutoSave:
 
-1. Code in **BeforeSave** or **AfterSave** events runs too long
-2. Code in save events surfaces a modal dialog
-3. Code in save events clears the undo stack (Excel only)
-4. Code in **AfterSave** dirties the workbook (Excel only)
-5. Code in **BeforeSave** cancels the file save (by setting Cancel argument to True)
+1. [Code in **BeforeSave** or **AfterSave** events runs too long](#Issue1)
+2. [Code in save events surfaces a modal dialog](#Issue2)
+3. [Code in save events clears the undo stack (Excel only)](#Issue3)
+4. [Code in **AfterSave** dirties the workbook (Excel only)](#Issue4)
+5. [Code in **BeforeSave** cancels the file save (by setting Cancel argument to True)](#Issue5)
 
-<br/>
+<a name="Issue1"></a>
 
-### <a name="Issue1"></a>Issue 1: Code in BeforeSave or AfterSave events runs too long
+### Issue 1: Code in BeforeSave or AfterSave events runs too long
 
 In general, Word, Excel and PowerPoint are not responsive to user interaction while add-in or macro code is being run. Therefore, if your code in a **BeforeSave** or **AfterSave** event handler takes too long to run, it may significantly degrade the user experience. 
 
@@ -66,7 +70,9 @@ Add-ins should try to avoid long-running operations inside of a save event. In t
 
 <br/>
 
-### <a name="Issue2"></a>Issue 2: Code in save events surfaces a modal dialog
+<a name="Issue2"></a>
+
+### Issue 2: Code in save events surfaces a modal dialog
 
 Any code that runs in a save event that displays UI such as a modal dialog has the potential to seriously degrade the user experience when AutoSave is on. Because the **BeforeSave** and **AfterSave** events run automatically on a periodic basis, these dialog boxes may interrupt the user's normal workflow.
 
@@ -82,7 +88,9 @@ If you want validation code to trigger only on the first save from a new documen
 
 <br/>
 
-### <a name="Issue3"></a>Issue 3: Code in save events clears the undo stack (Excel only)
+<a name="Issue3"></a>
+
+### Issue 3: Code in save events clears the undo stack (Excel only)
 
 In general, if you run certain VBA statements in Excel, the undo stack will be cleared. For example, if you change the value of a cell by running `ActiveCell.Value = "myValue"`, the undo stack is cleared. If such code is present in the **BeforeSave** or **AfterSave** event for a macro or add-in, and AutoSave is on, a user of that macro or add-in will frequently not be able to undo normal user actions as expected.
 
@@ -96,7 +104,9 @@ Consider removing code that writes to the workbook in **BeforeSave** or **AfterS
 
 <br/>
 
-### <a name="Issue4"></a>Issue 4: Code in **AfterSave** dirties the workbook (Excel only)
+<a name="Issue4"></a>
+ 
+### Issue 4: Code in **AfterSave** dirties the workbook (Excel only)
 
 When AutoSave is on, the **BeforeSave** and **AfterSave** events will only trigger if there has been a change in the workbook since the last time they were triggered. If code in the **AfterSave** event dirties the workbook (that is, makes additional changes), that could potentially trigger events to fire again for the same change, and then queue up the events to fire again indefinitely. This could waste system resources and affect battery life.
 
@@ -106,7 +116,9 @@ Code that dirties the workbook in **AfterSave** should be moved to **BeforeSave*
 
 <br/>
 
-### <a name="Issue5"></a>Issue 5: Code in **BeforeSave** cancels the file save (by setting Cancel argument to True)
+<a name="Issue5"></a>
+
+### Issue 5: Code in **BeforeSave** cancels the file save (by setting Cancel argument to True)
 
 Today, it is possible to cancel the save in the **BeforeSave** event by setting `Cancel` to True:
 
@@ -115,8 +127,6 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean) 
     Cancel = True
 End Sub
 ```
-
-<br/>
 
 When AutoSave is enabled, the application (that is, Excel, Word, or PowerPoint) triggers saves automatically on a continuous basis until the file has no more unsaved changes. After the user makes a single change to the file, the application attempts to save it. 
 
@@ -136,13 +146,9 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 - [Document object](../../api/Word.Document.md)
 - [Presentation object](../../api/PowerPoint.Presentation.md)
 - [Workbook object](../../api/Excel.Workbook.md)
-- [What is AutoSave?][AutoSaveArticle]
-- [**AutoSaveOn** property in Excel][AutoSaveOn_Excel]
 - [**AfterSave** event in Excel](../../api/Excel.Application.WorkbookAfterSave.md)
 - [**BeforeSave** event in Excel](../../api/Excel.Application.WorkbookBeforeSave.md)
-- [**AutoSaveOn** property in PowerPoint][AutoSaveOn_PowerPoint]
 - [**BeforeSave** event in PowerPoint](../../api/PowerPoint.Application.PresentationBeforeSave.md)
-- [**AutoSaveOn** property in Word][AutoSaveOn_Word]
 - [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
-[comment]: # (../../api/Word.Document.AutoSaveOn.md
+
