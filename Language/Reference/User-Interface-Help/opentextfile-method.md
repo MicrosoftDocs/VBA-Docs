@@ -16,7 +16,7 @@ ms.date: 08/28/2018
 
 
  **Description**
-Opens a specified file and returns a **TextStream** object that can be used to read from or append to the file.
+Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
 
 
 ## Syntax
