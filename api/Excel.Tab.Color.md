@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Tab.Color
 ms.assetid: f1ae9dad-2476-8594-9a89-6cf126854169
-ms.date: 06/08/2017
+ms.date: 08/29/2018
 ---
 
 
@@ -32,7 +32,7 @@ Returns or sets the primary color of the object, as shown in the table in the re
 |**Object**|**Color**|
 |:-----|:-----|
 | **Border**|The color of the border.|
-| **Borders**|The color of all four borders of a range. If they're not all the same color,  **Color** returns 0 (zero).|
+| **Borders**|The color of all four borders of a range. If they're not all the same color, **Color** returns 0 (zero).|
 | **Font**|The color of the font.|
 | **Interior**|The cell shading color or the drawing object fill color.|
 | **Tab**|The color of the tab.|

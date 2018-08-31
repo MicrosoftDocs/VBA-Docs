@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008898
 ms.prod: office
 ms.assetid: eaf6fe6e-342a-5038-3914-bb5e58fcad5a
-ms.date: 08/24/2018
+ms.date: 08/29/2018
 ---
 
 
@@ -26,7 +26,7 @@ The **Dir** function syntax has these parts.
 
 ## Settings
 
-The  _attributes_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
+The _attributes_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -59,9 +59,9 @@ Dir("")
 
 If you use the **MacID** function with **Dir** in Microsoft Windows, an error occurs.
 
-Any  _attribute_ value greater than 256 is considered a **MacID** value.
+Any _attribute_ value greater than 256 is considered a **MacID** value.
 
-You must specify  _pathname_ the first time you call the **Dir** function, or an error occurs. If you also specify file attributes, _pathname_ must be included.
+You must specify _pathname_ the first time you call the **Dir** function, or an error occurs. If you also specify file attributes, _pathname_ must be included.
 
 **Dir** returns the first file name that matches _pathname_. To get any additional file names that match _pathname_, call **Dir** again with no arguments. When no more file names match, **Dir** returns a zero-length string (""). Once a zero-length string is returned, you must specify _pathname_ in subsequent calls or an error occurs. 
 
