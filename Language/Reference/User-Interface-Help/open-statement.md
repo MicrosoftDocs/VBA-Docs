@@ -15,9 +15,9 @@ Enables input/output (I/O) to a file.
 
 ## Syntax
 
-**Open**_pathname_**For**_mode_ [ **Access**_access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
+**Open** _pathname_ **For** _mode_ [ **Access**_access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
 
-The  **Open** statement syntax has these parts:
+The **Open** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -31,19 +31,20 @@ The  **Open** statement syntax has these parts:
 
 ## Remarks
 
-You must open a file before any I/O operation can be performed on it.  **Open** allocates a buffer for I/O to the file and determines the mode of access to use with the buffer.
-If the file specified by  _pathname_ doesn't exist, it is created when a file is opened for **Append**, **Binary**, **Output**, or **Random** modes.
+You must open a file before any I/O operation can be performed on it. **Open** allocates a buffer for I/O to the file and determines the mode of access to use with the buffer.
+
+If the file specified by _pathname_ doesn't exist, it is created when a file is opened for **Append**, **Binary**, **Output**, or **Random** modes.
+
 If the file is already opened by another process and the specified type of access is not allowed, the  **Open** operation fails and an error occurs.
-The  **Len** clause is ignored if _mode_ is **Binary**.
+The **Len** clause is ignored if _mode_ is **Binary**.
 
-
- **Important**  In  **Binary**, **Input**, and **Random** modes, you can open a file using a different file number without first closing the file. In **Append** and **Output** modes, you must close a file before opening it with a different file number.
-
+> [!IMPORTANT]
+> In **Binary**, **Input**, and **Random** modes, you can open a file using a different file number without first closing the file. In **Append** and **Output** modes, you must close a file before opening it with a different file number.
 
 
 ## Example
 
-This example illustrates various uses of the  **Open** statement to enable input and output to a file.
+This example illustrates various uses of the **Open** statement to enable input and output to a file.
 
 The following code opens the file in sequential-input mode.
 

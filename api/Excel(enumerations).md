@@ -11,6 +11,7 @@ This section contains documentation for the enumerations in the Excel object mod
 
 | Name / Link                                                                                   |
 |-----------------------------------------------------------------------------------------------|
+| **[Constants Enumeration](constants-enumeration-excel.md)**                       |
 | **[XlAboveBelow Enumeration](Excel.XlAboveBelow.md)**                             |
 | **[XlActionType Enumeration](Excel.XlActionType.md)**                             |
 | **[XlAllocation Enumeration](Excel.XlAllocation.md)**                             |
@@ -278,3 +279,6 @@ This section contains documentation for the enumerations in the Excel object mod
 | **[XlXmlImportResult Enumeration](Excel.XlXmlImportResult.md)**                   |
 | **[XlXmlLoadOption Enumeration](Excel.XlXmlLoadOption.md)**                       |
 | **[XlYesNoGuess Enumeration](Excel.XlYesNoGuess.md)**                             |
+
+## See Also
+ [Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)

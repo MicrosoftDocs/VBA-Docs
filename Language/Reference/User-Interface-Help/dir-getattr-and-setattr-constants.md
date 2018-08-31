@@ -17,7 +17,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-|**vbNormal**|0|Normal (default for  **Dir** and **SetAttr**)|
+|**vbNormal**|0|Normal (default for **Dir** and **SetAttr**)|
 |**vbReadOnly**|1|Read-only|
 |**vbHidden**|2|Hidden|
 |**vbSystem**|4|System file|
@@ -26,6 +26,12 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbArchive**|32|File has changed since last backup|
 |**vbAlias**|64|On the Macintosh, identifier is an alias.|
 
-Only  **VbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available on the Macintosh.
+Only **VbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available on the Macintosh.
+
+## See also
+
+[Dir Function](dir-function.md)
+[GetAttr Function](getattr-function.md)
+[SetAttr Statement](setattr-statement.md)
 
 
