@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OnUndo Method (Excel)
 
-Sets the text of the  **Undo** command and the name of the procedure that?s run if you choose the **Undo** command after running the procedure that sets this property.
+Sets the text of the  **Undo** command and the name of the procedure that's run if you choose the **Undo** command after running the procedure that sets this property.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Sets the text of the  **Undo** command and the name of the procedure that?s run 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The text that appears with the  **Undo** command.|
-| _Procedure_|Required| **String**|The name of the procedure that?s run when you choose the  **Undo** command.|
+| _Procedure_|Required| **String**|The name of the procedure that's run when you choose the  **Undo** command.|
 
 ## Remarks
 
