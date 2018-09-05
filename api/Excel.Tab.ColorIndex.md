@@ -7,11 +7,11 @@ ms.prod: excel
 api_name:
 - Excel.Tab.ColorIndex
 ms.assetid: 4c257c58-613e-dbc9-095f-3609feffe64c
-ms.date: 08/29/2018
+ms.date: 09/05/2018
 ---
 
 
-# Tab.ColorIndex Property (Excel)
+# Tab.ColorIndex property (Excel)
 
 Returns or sets a **Variant** value that represents the color of the specified worksheet tab or chart tab.
 
@@ -20,14 +20,14 @@ Returns or sets a **Variant** value that represents the color of the specified w
 
  _expression_. `ColorIndex`
 
- _expression_ A variable that represents a [Tab](./Excel.Tab.md) object.
+ _expression_ A variable that represents a [Tab](Excel.Tab.md) object.
 
 
 ## Remarks
 
 Once a **Tab** object is returned, you can use the **ColorIndex** property to determine the settings of a tab for a chart or worksheet.
 
-The color is specified as an index value in the current color palette from 1 to 56 or **[xlColorIndexNone](xlcolorindex-enumeration-excel.md)**.
+The color is specified as an index value in the current color palette from 1 to 56 or **[xlColorIndexNone](Excel.XlColorIndex.md)**.
 
 ## Example
 
@@ -48,7 +48,5 @@ Sub CheckTab()
 End Sub
 ```
 
-## See also
 
-[Tab Object](Excel.Tab.md)
 
