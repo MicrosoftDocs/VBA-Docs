@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1009036
 ms.prod: office
 ms.assetid: 1c16e27a-ea31-cdbd-adbf-c9a7c81cc81c
-ms.date: 06/08/2017
+ms.date: 08/29/2018
 ---
 
 
@@ -32,9 +32,21 @@ A double-quotation-mark can be embedded within a [string literal](../../Glossary
     Dim s As String
     s = "This string literal has an embedded "" in it."
   ```
+
 - Use the Chr function; character code 34 is a double-quotation-mark:
 
   ```vb
     Dim s As String
     s = "This string literal has an embedded " & Chr(34) & " in it."
   ```
+
+	A fixed-length string includes appended spaces or truncates as necessary: 
+
+ ```vb
+    Dim s As String * 3
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [   ]
+    s = "a"
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [a  ]
+    s = "abcdefghijklmnopqrstuvwxyz"
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [abc]
+```

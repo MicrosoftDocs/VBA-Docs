@@ -1,280 +1,285 @@
 ---
 title: Enumerations (Excel)
+description: Documentation for the enumerations in the VBA Excel object model.
 ms.prod: excel
 ms.assetid: c4e092c8-b843-44e1-bd87-419e545d1d10
-ms.date: 06/08/2017
+ms.date: 09/05/2018
 ---
 
 
 # Enumerations (Excel)
+
 This section contains documentation for the enumerations in the Excel object model.
 
-| Name / Link                                                                                   |
-|-----------------------------------------------------------------------------------------------|
-| **[XlAboveBelow Enumeration](Excel.XlAboveBelow.md)**                             |
-| **[XlActionType Enumeration](Excel.XlActionType.md)**                             |
-| **[XlAllocation Enumeration](Excel.XlAllocation.md)**                             |
-| **[XlAllocationMethod Enumeration](Excel.XlAllocationMethod.md)**                 |
-| **[XlAllocationValue Enumeration](Excel.XlAllocationValue.md)**                   |
-| **[XlApplicationInternational Enumeration](Excel.XlApplicationInternational.md)** |
-| **[XlApplyNamesOrder Enumeration](Excel.XlApplyNamesOrder.md)**                   |
-| **[XlArabicModes Enumeration](Excel.XlArabicModes.md)**                           |
-| **[XlArrangeStyle Enumeration](Excel.XlArrangeStyle.md)**                         |
-| **[XlArrowHeadLength Enumeration](Excel.XlArrowHeadLength.md)**                   |
-| **[XlArrowHeadStyle Enumeration](Excel.XlArrowHeadStyle.md)**                     |
-| **[XlArrowHeadWidth Enumeration](Excel.XlArrowHeadWidth.md)**                     |
-| **[XlAutoFillType Enumeration](Excel.XlAutoFillType.md)**                         |
-| **[XlAutoFilterOperator Enumeration](Excel.XlAutoFilterOperator.md)**             |
-| **[XlAxisCrosses Enumeration](Excel.XlAxisCrosses.md)**                           |
-| **[XlAxisGroup Enumeration](Excel.XlAxisGroup.md)**                               |
-| **[XlAxisType Enumeration](Excel.XlAxisType.md)**                                 |
-| **[XlBackground Enumeration](Excel.XlBackground.md)**                             |
-| **[XlBarShape Enumeration](Excel.XlBarShape.md)**                                 |
-| **[XlBinsType Enumeration](Excel.xlbinstype.md)**                                 |
-| **[XlBorderWeight Enumeration](Excel.XlBorderWeight.md)**                         |
-| **[XlBordersIndex Enumeration](Excel.XlBordersIndex.md)**                         |
-| **[XlBuiltInDialog Enumeration](Excel.XlBuiltInDialog.md)**                       |
-| **[XlCVError Enumeration](Excel.XlCVError.md)**                                   |
-| **[XlCalcFor Enumeration](Excel.XlCalcFor.md)**                                   |
-| **[XlCalcMemNumberFormatType Enumeration](Excel.xlcalcmemnumberformattype.md)**   |
-| **[XlCalculatedMemberType Enumeration](Excel.XlCalculatedMemberType.md)**         |
-| **[XlCalculation Enumeration](Excel.XlCalculation.md)**                           |
-| **[XlCalculationInterruptKey Enumeration](Excel.XlCalculationInterruptKey.md)**   |
-| **[XlCalculationState Enumeration](Excel.XlCalculationState.md)**                 |
-| **[XlCategoryLabelLevel Enumeration](Excel.xlcategorylabellevel.md)**             |
-| **[XlCategoryType Enumeration](Excel.XlCategoryType.md)**                         |
-| **[XlCellChangedState Enumeration](Excel.XlCellChangedState.md)**                 |
-| **[XlCellInsertionMode Enumeration](Excel.XlCellInsertionMode.md)**               |
-| **[XlCellType Enumeration](Excel.XlCellType.md)**                                 |
-| **[XlChartElementPosition Enumeration](Excel.XlChartElementPosition.md)**         |
-| **[XlChartGallery Enumeration](Excel.XlChartGallery.md)**                         |
-| **[XlChartItem Enumeration](Excel.XlChartItem.md)**                               |
-| **[XlChartLocation Enumeration](Excel.XlChartLocation.md)**                       |
-| **[XlChartPicturePlacement Enumeration](Excel.XlChartPicturePlacement.md)**       |
-| **[XlChartPictureType Enumeration](Excel.XlChartPictureType.md)**                 |
-| **[XlChartSplitType Enumeration](Excel.XlChartSplitType.md)**                     |
-| **[XlChartType Enumeration](Excel.XlChartType.md)**                               |
-| **[XlCheckInVersionType Enumeration](Excel.XlCheckInVersionType.md)**             |
-| **[XlClipboardFormat Enumeration](Excel.XlClipboardFormat.md)**                   |
-| **[XlCmdType Enumeration](Excel.XlCmdType.md)**                                   |
-| **[XlColorIndex Enumeration](Excel.XlColorIndex.md)**                             |
-| **[XlColumnDataType Enumeration](Excel.XlColumnDataType.md)**                     |
-| **[XlCommandUnderlines Enumeration](Excel.XlCommandUnderlines.md)**               |
-| **[XlCommentDisplayMode Enumeration](Excel.XlCommentDisplayMode.md)**             |
-| **[XlConditionValueTypes Enumeration](Excel.XlConditionValueTypes.md)**           |
-| **[XlConnectionType Enumeration](Excel.XlConnectionType.md)**                     |
-| **[XlConsolidationFunction Enumeration](Excel.XlConsolidationFunction.md)**       |
-| **[XlContainsOperator Enumeration](Excel.XlContainsOperator.md)**                 |
-| **[XlCopyPictureFormat Enumeration](Excel.XlCopyPictureFormat.md)**               |
-| **[XlCorruptLoad Enumeration](Excel.XlCorruptLoad.md)**                           |
-| **[XlCreator Enumeration](Excel.XlCreator.md)**                                   |
-| **[XlCredentialsMethod Enumeration](Excel.XlCredentialsMethod.md)**               |
-| **[XlCubeFieldSubType Enumeration](Excel.XlCubeFieldSubType.md)**                 |
-| **[XlCubeFieldType Enumeration](Excel.XlCubeFieldType.md)**                       |
-| **[XlCutCopyMode Enumeration](Excel.XlCutCopyMode.md)**                           |
-| **[XlDVAlertStyle Enumeration](Excel.XlDVAlertStyle.md)**                         |
-| **[XlDVType Enumeration](Excel.XlDVType.md)**                                     |
-| **[XlDataBarAxisPosition Enumeration](Excel.XlDataBarAxisPosition.md)**           |
-| **[XlDataBarBorderType Enumeration](Excel.XlDataBarBorderType.md)**               |
-| **[XlDataBarFillType Enumeration](Excel.XlDataBarFillType.md)**                   |
-| **[XlDataBarNegativeColorType Enumeration](Excel.XlDataBarNegativeColorType.md)** |
-| **[XlDataLabelPosition Enumeration](Excel.XlDataLabelPosition.md)**               |
-| **[XlDataLabelSeparator Enumeration](Excel.XlDataLabelSeparator.md)**             |
-| **[XlDataLabelsType Enumeration](Excel.XlDataLabelsType.md)**                     |
-| **[XlDataSeriesDate Enumeration](Excel.XlDataSeriesDate.md)**                     |
-| **[XlDataSeriesType Enumeration](Excel.XlDataSeriesType.md)**                     |
-| **[XlDeleteShiftDirection Enumeration](Excel.XlDeleteShiftDirection.md)**         |
-| **[XlDirection Enumeration](Excel.XlDirection.md)**                               |
-| **[XlDisplayBlanksAs Enumeration](Excel.XlDisplayBlanksAs.md)**                   |
-| **[XlDisplayDrawingObjects Enumeration](Excel.XlDisplayDrawingObjects.md)**       |
-| **[XlDisplayUnit Enumeration](Excel.XlDisplayUnit.md)**                           |
-| **[XlDupeUnique Enumeration](Excel.XlDupeUnique.md)**                             |
-| **[XlDynamicFilterCriteria Enumeration](Excel.XlDynamicFilterCriteria.md)**       |
-| **[XlEditionFormat Enumeration](Excel.XlEditionFormat.md)**                       |
-| **[XlEditionOptionsOption Enumeration](Excel.XlEditionOptionsOption.md)**         |
-| **[XlEditionType Enumeration](Excel.XlEditionType.md)**                           |
-| **[XlEnableCancelKey Enumeration](Excel.XlEnableCancelKey.md)**                   |
-| **[XlEnableSelection Enumeration](Excel.XlEnableSelection.md)**                   |
-| **[XlEndStyleCap Enumeration](Excel.XlEndStyleCap.md)**                           |
-| **[XlErrorBarDirection Enumeration](Excel.XlErrorBarDirection.md)**               |
-| **[XlErrorBarInclude Enumeration](Excel.XlErrorBarInclude.md)**                   |
-| **[XlErrorBarType Enumeration](Excel.XlErrorBarType.md)**                         |
-| **[XlErrorChecks Enumeration](Excel.XlErrorChecks.md)**                           |
-| **[XlFileAccess Enumeration](Excel.XlFileAccess.md)**                             |
-| **[XlFileFormat Enumeration](Excel.XlFileFormat.md)**                             |
-| **[XlFileValidationPivotMode Enumeration](Excel.XlFileValidationPivotMode.md)**   |
-| **[XlFillWith Enumeration](Excel.XlFillWith.md)**                                 |
-| **[XlFilterAction Enumeration](Excel.XlFilterAction.md)**                         |
-| **[XlFilterAllDatesInPeriod Enumeration](Excel.XlFilterAllDatesInPeriod.md)**     |
-| **[XlFilterStatus Enumeration](Excel.xlfilterstatus.md)**                         |
-| **[XlFindLookIn Enumeration](Excel.XlFindLookIn.md)**                             |
-| **[XlFixedFormatQuality Enumeration](Excel.XlFixedFormatQuality.md)**             |
-| **[XlFixedFormatType Enumeration](Excel.XlFixedFormatType.md)**                   |
-| **[XlForecastAggregation Enumeration](Excel.xlforecastaggregation.md)**           |
-| **[XlForecastChartType Enumeration](Excel.xlforecastcharttype.md)**               |
-| **[XlForecastDataCompletion Enumeration](Excel.xlforecastdatacompletion.md)**     |
-| **[XlFormControl Enumeration](Excel.XlFormControl.md)**                           |
-| **[XlFormatConditionOperator Enumeration](Excel.XlFormatConditionOperator.md)**   |
-| **[XlFormatConditionType Enumeration](Excel.XlFormatConditionType.md)**           |
-| **[XlFormatFilterTypes Enumeration](Excel.XlFormatFilterTypes.md)**               |
-| **[XlFormulaLabel Enumeration](Excel.XlFormulaLabel.md)**                         |
-| **[XlGenerateTableRefs Enumeration](Excel.XlGenerateTableRefs.md)**               |
-| **[XlGradientFillType Enumeration](Excel.XlGradientFillType.md)**                 |
-| **[XlHAlign Enumeration](Excel.XlHAlign.md)**                                     |
-| **[XlHebrewModes Enumeration](Excel.XlHebrewModes.md)**                           |
-| **[XlHighlightChangesTime Enumeration](Excel.XlHighlightChangesTime.md)**         |
-| **[XlHtmlType Enumeration](Excel.XlHtmlType.md)**                                 |
-| **[XlIMEMode Enumeration](Excel.XlIMEMode.md)**                                   |
-| **[XlIcon Enumeration](Excel.XlIcon.md)**                                         |
-| **[XlIconSet Enumeration](Excel.XlIconSet.md)**                                   |
-| **[XlImportDataAs Enumeration](Excel.XlImportDataAs.md)**                         |
-| **[XlInsertFormatOrigin Enumeration](Excel.XlInsertFormatOrigin.md)**             |
-| **[XlInsertShiftDirection Enumeration](Excel.XlInsertShiftDirection.md)**         |
-| **[XlLayoutFormType Enumeration](Excel.XlLayoutFormType.md)**                     |
-| **[XlLayoutRowType Enumeration](Excel.XlLayoutRowType.md)**                       |
-| **[XlLegendPosition Enumeration](Excel.XlLegendPosition.md)**                     |
-| **[XlLineStyle Enumeration](Excel.XlLineStyle.md)**                               |
-| **[XlLink Enumeration](Excel.XlLink.md)**                                         |
-| **[XlLinkInfo Enumeration](Excel.XlLinkInfo.md)**                                 |
-| **[XlLinkInfoType Enumeration](Excel.XlLinkInfoType.md)**                         |
-| **[XlLinkStatus Enumeration](Excel.XlLinkStatus.md)**                             |
-| **[XlLinkType Enumeration](Excel.XlLinkType.md)**                                 |
-| **[XlListConflict Enumeration](Excel.XlListConflict.md)**                         |
-| **[XlListDataType Enumeration](Excel.XlListDataType.md)**                         |
-| **[XlListObjectSourceType Enumeration](Excel.XlListObjectSourceType.md)**         |
-| **[XlLocationInTable Enumeration](Excel.XlLocationInTable.md)**                   |
-| **[XlLookAt Enumeration](Excel.XlLookAt.md)**                                     |
-| **[XlLookFor Enumeration](Excel.XlLookFor.md)**                                   |
-| **[XlMSApplication Enumeration](Excel.XlMSApplication.md)**                       |
-| **[XlMailSystem Enumeration](Excel.XlMailSystem.md)**                             |
-| **[XlMarkerStyle Enumeration](Excel.XlMarkerStyle.md)**                           |
-| **[XlMeasurementUnits Enumeration](Excel.XlMeasurementUnits.md)**                 |
-| **[XlModelChangeSource Enumeration](Excel.xlmodelchangesource.md)**               |
-| **[XlMouseButton Enumeration](Excel.XlMouseButton.md)**                           |
-| **[XlMousePointer Enumeration](Excel.XlMousePointer.md)**                         |
-| **[XlOLEType Enumeration](Excel.XlOLEType.md)**                                   |
-| **[XlOLEVerb Enumeration](Excel.XlOLEVerb.md)**                                   |
-| **[XlOartHorizontalOverflow Enumeration](Excel.XlOartHorizontalOverflow.md)**     |
-| **[XlOartVerticalOverflow Enumeration](Excel.XlOartVerticalOverflow.md)**         |
-| **[XlObjectSize Enumeration](Excel.XlObjectSize.md)**                             |
-| **[XlOrder Enumeration](Excel.XlOrder.md)**                                       |
-| **[XlOrientation Enumeration](Excel.XlOrientation.md)**                           |
-| **[XlPTSelectionMode Enumeration](Excel.XlPTSelectionMode.md)**                   |
-| **[XlPageBreak Enumeration](Excel.XlPageBreak.md)**                               |
-| **[XlPageBreakExtent Enumeration](Excel.XlPageBreakExtent.md)**                   |
-| **[XlPageOrientation Enumeration](Excel.XlPageOrientation.md)**                   |
-| **[XlPaperSize Enumeration](Excel.XlPaperSize.md)**                               |
-| **[XlParameterDataType Enumeration](Excel.XlParameterDataType.md)**               |
-| **[XlParameterType Enumeration](Excel.XlParameterType.md)**                       |
-| **[XlParentDataLabelOptions Enumeration](Excel.xlparentdatalabeloptions.md)**     |
-| **[XlPasteSpecialOperation Enumeration](Excel.XlPasteSpecialOperation.md)**       |
-| **[XlPasteType Enumeration](Excel.XlPasteType.md)**                               |
-| **[XlPattern Enumeration](Excel.XlPattern.md)**                                   |
-| **[XlPhoneticAlignment Enumeration](Excel.XlPhoneticAlignment.md)**               |
-| **[XlPhoneticCharacterType Enumeration](Excel.XlPhoneticCharacterType.md)**       |
-| **[XlPictureAppearance Enumeration](Excel.XlPictureAppearance.md)**               |
-| **[XlPictureConvertorType Enumeration](Excel.XlPictureConvertorType.md)**         |
-| **[XlPieSliceIndex Enumeration](Excel.XlPieSliceIndex.md)**                       |
-| **[XlPieSliceLocation Enumeration](Excel.XlPieSliceLocation.md)**                 |
-| **[XlPivotCellType Enumeration](Excel.XlPivotCellType.md)**                       |
-| **[XlPivotConditionScope Enumeration](Excel.XlPivotConditionScope.md)**           |
-| **[XlPivotFieldCalculation Enumeration](Excel.XlPivotFieldCalculation.md)**       |
-| **[XlPivotFieldDataType Enumeration](Excel.XlPivotFieldDataType.md)**             |
-| **[XlPivotFieldOrientation Enumeration](Excel.XlPivotFieldOrientation.md)**       |
-| **[XlPivotFieldRepeatLabels Enumeration](Excel.XlPivotFieldRepeatLabels.md)**     |
-| **[XlPivotFilterType Enumeration](Excel.XlPivotFilterType.md)**                   |
-| **[XlPivotFormatType Enumeration](Excel.XlPivotFormatType.md)**                   |
-| **[XlPivotLineType Enumeration](Excel.XlPivotLineType.md)**                       |
-| **[XlPivotTableMissingItems Enumeration](Excel.XlPivotTableMissingItems.md)**     |
-| **[XlPivotTableSourceType Enumeration](Excel.XlPivotTableSourceType.md)**         |
-| **[XlPivotTableVersionList Enumeration](Excel.XlPivotTableVersionList.md)**       |
-| **[XlPlacement Enumeration](Excel.XlPlacement.md)**                               |
-| **[XlPlatform Enumeration](Excel.XlPlatform.md)**                                 |
-| **[XlPortugueseReform Enumeration](Excel.XlPortugueseReform.md)**                 |
-| **[XlPrintErrors Enumeration](Excel.XlPrintErrors.md)**                           |
-| **[XlPrintLocation Enumeration](Excel.XlPrintLocation.md)**                       |
-| **[XlPriority Enumeration](Excel.XlPriority.md)**                                 |
-| **[XlPropertyDisplayedIn Enumeration](Excel.XlPropertyDisplayedIn.md)**           |
-| **[XlProtectedViewCloseReason Enumeration](Excel.XlProtectedViewCloseReason.md)** |
-| **[XlProtectedViewWindowState Enumeration](Excel.XlProtectedViewWindowState.md)** |
-| **[XlQueryType Enumeration](Excel.XlQueryType.md)**                               |
-| **[XlQuickAnalysisMode Enumeration](Excel.xlquickanalysismode.md)**               |
-| **[XlRangeAutoFormat Enumeration](Excel.XlRangeAutoFormat.md)**                   |
-| **[XlRangeValueDataType Enumeration](Excel.XlRangeValueDataType.md)**             |
-| **[XlReferenceStyle Enumeration](Excel.XlReferenceStyle.md)**                     |
-| **[XlReferenceType Enumeration](Excel.XlReferenceType.md)**                       |
-| **[XlRemoveDocInfoType Enumeration](Excel.XlRemoveDocInfoType.md)**               |
-| **[XlRgbColor Enumeration](Excel.XlRgbColor.md)**                                 |
-| **[XlRobustConnect Enumeration](Excel.XlRobustConnect.md)**                       |
-| **[XlRoutingSlipDelivery Enumeration](Excel.XlRoutingSlipDelivery.md)**           |
-| **[XlRoutingSlipStatus Enumeration](Excel.XlRoutingSlipStatus.md)**               |
-| **[XlRowCol Enumeration](Excel.XlRowCol.md)**                                     |
-| **[XlRunAutoMacro Enumeration](Excel.XlRunAutoMacro.md)**                         |
-| **[XlSaveAction Enumeration](Excel.XlSaveAction.md)**                             |
-| **[XlSaveAsAccessMode Enumeration](Excel.XlSaveAsAccessMode.md)**                 |
-| **[XlSaveConflictResolution Enumeration](Excel.XlSaveConflictResolution.md)**     |
-| **[XlScaleType Enumeration](Excel.XlScaleType.md)**                               |
-| **[XlSearchDirection Enumeration](Excel.XlSearchDirection.md)**                   |
-| **[XlSearchOrder Enumeration](Excel.XlSearchOrder.md)**                           |
-| **[XlSearchWithin Enumeration](Excel.XlSearchWithin.md)**                         |
-| **[XlSeriesNameLevel Enumeration](Excel.xlseriesnamelevel.md)**                   |
-| **[XlSheetType Enumeration](Excel.XlSheetType.md)**                               |
-| **[XlSheetVisibility Enumeration](Excel.XlSheetVisibility.md)**                   |
-| **[XlSizeRepresents Enumeration](Excel.XlSizeRepresents.md)**                     |
-| **[XlSlicerCacheType Enumeration](Excel.xlslicercachetype.md)**                   |
-| **[XlSlicerCrossFilterType Enumeration](Excel.XlSlicerCrossFilterType.md)**       |
-| **[XlSlicerSort Enumeration](Excel.XlSlicerSort.md)**                             |
-| **[XlSmartTagControlType Enumeration](Excel.XlSmartTagControlType.md)**           |
-| **[XlSmartTagDisplayMode Enumeration](Excel.XlSmartTagDisplayMode.md)**           |
-| **[XlSortDataOption Enumeration](Excel.XlSortDataOption.md)**                     |
-| **[XlSortMethod Enumeration](Excel.XlSortMethod.md)**                             |
-| **[XlSortMethodOld Enumeration](Excel.XlSortMethodOld.md)**                       |
-| **[XlSortOn Enumeration](Excel.XlSortOn.md)**                                     |
-| **[XlSortOrder Enumeration](Excel.XlSortOrder.md)**                               |
-| **[XlSortOrientation Enumeration](Excel.XlSortOrientation.md)**                   |
-| **[XlSortType Enumeration](Excel.XlSortType.md)**                                 |
-| **[XlSourceType Enumeration](Excel.XlSourceType.md)**                             |
-| **[XlSpanishModes Enumeration](Excel.XlSpanishModes.md)**                         |
-| **[XlSparkScale Enumeration](Excel.XlSparkScale.md)**                             |
-| **[XlSparkType Enumeration](Excel.XlSparkType.md)**                               |
-| **[XlSparklineRowCol Enumeration](Excel.XlSparklineRowCol.md)**                   |
-| **[XlSpeakDirection Enumeration](Excel.XlSpeakDirection.md)**                     |
-| **[XlSpecialCellsValue Enumeration](Excel.XlSpecialCellsValue.md)**               |
-| **[XlStdColorScale Enumeration](Excel.XlStdColorScale.md)**                       |
-| **[XlSubscribeToFormat Enumeration](Excel.XlSubscribeToFormat.md)**               |
-| **[XlSubtototalLocationType Enumeration](Excel.XlSubtototalLocationType.md)**     |
-| **[XlSummaryColumn Enumeration](Excel.XlSummaryColumn.md)**                       |
-| **[XlSummaryReportType Enumeration](Excel.XlSummaryReportType.md)**               |
-| **[XlSummaryRow Enumeration](Excel.XlSummaryRow.md)**                             |
-| **[XlTabPosition Enumeration](Excel.XlTabPosition.md)**                           |
-| **[XlTableStyleElementType Enumeration](Excel.XlTableStyleElementType.md)**       |
-| **[XlTextParsingType Enumeration](Excel.XlTextParsingType.md)**                   |
-| **[XlTextQualifier Enumeration](Excel.XlTextQualifier.md)**                       |
-| **[XlTextVisualLayoutType Enumeration](Excel.XlTextVisualLayoutType.md)**         |
-| **[XlThemeColor Enumeration](Excel.XlThemeColor.md)**                             |
-| **[XlThemeFont Enumeration](Excel.XlThemeFont.md)**                               |
-| **[XlThreadMode Enumeration](Excel.XlThreadMode.md)**                             |
-| **[XlTickLabelOrientation Enumeration](Excel.XlTickLabelOrientation.md)**         |
-| **[XlTickLabelPosition Enumeration](Excel.XlTickLabelPosition.md)**               |
-| **[XlTickMark Enumeration](Excel.XlTickMark.md)**                                 |
-| **[XlTimePeriods Enumeration](Excel.XlTimePeriods.md)**                           |
-| **[XlTimeUnit Enumeration](Excel.XlTimeUnit.md)**                                 |
-| **[XlTimelineLevel Enumeration](Excel.xltimelinelevel.md)**                       |
-| **[XlToolbarProtection Enumeration](Excel.XlToolbarProtection.md)**               |
-| **[XlTopBottom Enumeration](Excel.XlTopBottom.md)**                               |
-| **[XlTotalsCalculation Enumeration](Excel.XlTotalsCalculation.md)**               |
-| **[XlTrendlineType Enumeration](Excel.XlTrendlineType.md)**                       |
-| **[XlUnderlineStyle Enumeration](Excel.XlUnderlineStyle.md)**                     |
-| **[XlUpdateLinks Enumeration](Excel.XlUpdateLinks.md)**                           |
-| **[XlVAlign Enumeration](Excel.XlVAlign.md)**                                     |
-| **[XlWBATemplate Enumeration](Excel.XlWBATemplate.md)**                           |
-| **[XlWebFormatting Enumeration](Excel.XlWebFormatting.md)**                       |
-| **[XlWebSelectionType Enumeration](Excel.XlWebSelectionType.md)**                 |
-| **[XlWindowState Enumeration](Excel.XlWindowState.md)**                           |
-| **[XlWindowType Enumeration](Excel.XlWindowType.md)**                             |
-| **[XlWindowView Enumeration](Excel.XlWindowView.md)**                             |
-| **[XlXLMMacroType Enumeration](Excel.XlXLMMacroType.md)**                         |
-| **[XlXmlExportResult Enumeration](Excel.XlXmlExportResult.md)**                   |
-| **[XlXmlImportResult Enumeration](Excel.XlXmlImportResult.md)**                   |
-| **[XlXmlLoadOption Enumeration](Excel.XlXmlLoadOption.md)**                       |
-| **[XlYesNoGuess Enumeration](Excel.XlYesNoGuess.md)**                             |
+- [Constants enumeration](Excel.Constants.md)
+- [XlAboveBelow enumeration](Excel.XlAboveBelow.md)                             
+- [XlActionType enumeration](Excel.XlActionType.md)                             
+- [XlAllocation enumeration](Excel.XlAllocation.md)                             
+- [XlAllocationMethod enumeration](Excel.XlAllocationMethod.md)                 
+- [XlAllocationValue enumeration](Excel.XlAllocationValue.md)                   
+- [XlApplicationInternational enumeration](Excel.XlApplicationInternational.md) 
+- [XlApplyNamesOrder enumeration](Excel.XlApplyNamesOrder.md)                   
+- [XlArabicModes enumeration](Excel.XlArabicModes.md)                           
+- [XlArrangeStyle enumeration](Excel.XlArrangeStyle.md)                         
+- [XlArrowHeadLength enumeration](Excel.XlArrowHeadLength.md)                   
+- [XlArrowHeadStyle enumeration](Excel.XlArrowHeadStyle.md)                     
+- [XlArrowHeadWidth enumeration](Excel.XlArrowHeadWidth.md)                     
+- [XlAutoFillType enumeration](Excel.XlAutoFillType.md)                         
+- [XlAutoFilterOperator enumeration](Excel.XlAutoFilterOperator.md)             
+- [XlAxisCrosses enumeration](Excel.XlAxisCrosses.md)                           
+- [XlAxisGroup enumeration](Excel.XlAxisGroup.md)                               
+- [XlAxisType enumeration](Excel.XlAxisType.md)                                 
+- [XlBackground enumeration](Excel.XlBackground.md)                             
+- [XlBarShape enumeration](Excel.XlBarShape.md)                                 
+- [XlBinsType enumeration](Excel.xlbinstype.md)                                 
+- [XlBorderWeight enumeration](Excel.XlBorderWeight.md)                         
+- [XlBordersIndex enumeration](Excel.XlBordersIndex.md)                         
+- [XlBuiltInDialog enumeration](Excel.XlBuiltInDialog.md)                       
+- [XlCVError enumeration](Excel.XlCVError.md)                                   
+- [XlCalcFor enumeration](Excel.XlCalcFor.md)                                   
+- [XlCalcMemNumberFormatType enumeration](Excel.xlcalcmemnumberformattype.md)   
+- [XlCalculatedMemberType enumeration](Excel.XlCalculatedMemberType.md)         
+- [XlCalculation enumeration](Excel.XlCalculation.md)                           
+- [XlCalculationInterruptKey enumeration](Excel.XlCalculationInterruptKey.md)   
+- [XlCalculationState enumeration](Excel.XlCalculationState.md)                 
+- [XlCategoryLabelLevel enumeration](Excel.xlcategorylabellevel.md)             
+- [XlCategoryType enumeration](Excel.XlCategoryType.md)                         
+- [XlCellChangedState enumeration](Excel.XlCellChangedState.md)                 
+- [XlCellInsertionMode enumeration](Excel.XlCellInsertionMode.md)               
+- [XlCellType enumeration](Excel.XlCellType.md)                                 
+- [XlChartElementPosition enumeration](Excel.XlChartElementPosition.md)         
+- [XlChartGallery enumeration](Excel.XlChartGallery.md)                         
+- [XlChartItem enumeration](Excel.XlChartItem.md)                               
+- [XlChartLocation enumeration](Excel.XlChartLocation.md)                       
+- [XlChartPicturePlacement enumeration](Excel.XlChartPicturePlacement.md)       
+- [XlChartPictureType enumeration](Excel.XlChartPictureType.md)                 
+- [XlChartSplitType enumeration](Excel.XlChartSplitType.md)                     
+- [XlChartType enumeration](Excel.XlChartType.md)                               
+- [XlCheckInVersionType enumeration](Excel.XlCheckInVersionType.md)             
+- [XlClipboardFormat enumeration](Excel.XlClipboardFormat.md)                   
+- [XlCmdType enumeration](Excel.XlCmdType.md)                                   
+- [XlColorIndex enumeration](Excel.XlColorIndex.md)                             
+- [XlColumnDataType enumeration](Excel.XlColumnDataType.md)                     
+- [XlCommandUnderlines enumeration](Excel.XlCommandUnderlines.md)               
+- [XlCommentDisplayMode enumeration](Excel.XlCommentDisplayMode.md)             
+- [XlConditionValueTypes enumeration](Excel.XlConditionValueTypes.md)           
+- [XlConnectionType enumeration](Excel.XlConnectionType.md)                     
+- [XlConsolidationFunction enumeration](Excel.XlConsolidationFunction.md)       
+- [XlContainsOperator enumeration](Excel.XlContainsOperator.md)                 
+- [XlCopyPictureFormat enumeration](Excel.XlCopyPictureFormat.md)               
+- [XlCorruptLoad enumeration](Excel.XlCorruptLoad.md)                           
+- [XlCreator enumeration](Excel.XlCreator.md)                                   
+- [XlCredentialsMethod enumeration](Excel.XlCredentialsMethod.md)               
+- [XlCubeFieldSubType enumeration](Excel.XlCubeFieldSubType.md)                 
+- [XlCubeFieldType enumeration](Excel.XlCubeFieldType.md)                       
+- [XlCutCopyMode enumeration](Excel.XlCutCopyMode.md)                           
+- [XlDVAlertStyle enumeration](Excel.XlDVAlertStyle.md)                         
+- [XlDVType enumeration](Excel.XlDVType.md)                                     
+- [XlDataBarAxisPosition enumeration](Excel.XlDataBarAxisPosition.md)           
+- [XlDataBarBorderType enumeration](Excel.XlDataBarBorderType.md)               
+- [XlDataBarFillType enumeration](Excel.XlDataBarFillType.md)                   
+- [XlDataBarNegativeColorType enumeration](Excel.XlDataBarNegativeColorType.md) 
+- [XlDataLabelPosition enumeration](Excel.XlDataLabelPosition.md)               
+- [XlDataLabelSeparator enumeration](Excel.XlDataLabelSeparator.md)             
+- [XlDataLabelsType enumeration](Excel.XlDataLabelsType.md)                     
+- [XlDataSeriesDate enumeration](Excel.XlDataSeriesDate.md)                     
+- [XlDataSeriesType enumeration](Excel.XlDataSeriesType.md)                     
+- [XlDeleteShiftDirection enumeration](Excel.XlDeleteShiftDirection.md)         
+- [XlDirection enumeration](Excel.XlDirection.md)                               
+- [XlDisplayBlanksAs enumeration](Excel.XlDisplayBlanksAs.md)                   
+- [XlDisplayDrawingObjects enumeration](Excel.XlDisplayDrawingObjects.md)       
+- [XlDisplayUnit enumeration](Excel.XlDisplayUnit.md)                           
+- [XlDupeUnique enumeration](Excel.XlDupeUnique.md)                             
+- [XlDynamicFilterCriteria enumeration](Excel.XlDynamicFilterCriteria.md)       
+- [XlEditionFormat enumeration](Excel.XlEditionFormat.md)                       
+- [XlEditionOptionsOption enumeration](Excel.XlEditionOptionsOption.md)         
+- [XlEditionType enumeration](Excel.XlEditionType.md)                           
+- [XlEnableCancelKey enumeration](Excel.XlEnableCancelKey.md)                   
+- [XlEnableSelection enumeration](Excel.XlEnableSelection.md)                   
+- [XlEndStyleCap enumeration](Excel.XlEndStyleCap.md)                           
+- [XlErrorBarDirection enumeration](Excel.XlErrorBarDirection.md)               
+- [XlErrorBarInclude enumeration](Excel.XlErrorBarInclude.md)                   
+- [XlErrorBarType enumeration](Excel.XlErrorBarType.md)                         
+- [XlErrorChecks enumeration](Excel.XlErrorChecks.md)                           
+- [XlFileAccess enumeration](Excel.XlFileAccess.md)                             
+- [XlFileFormat enumeration](Excel.XlFileFormat.md)                             
+- [XlFileValidationPivotMode enumeration](Excel.XlFileValidationPivotMode.md)   
+- [XlFillWith enumeration](Excel.XlFillWith.md)                                 
+- [XlFilterAction enumeration](Excel.XlFilterAction.md)                         
+- [XlFilterAllDatesInPeriod enumeration](Excel.XlFilterAllDatesInPeriod.md)     
+- [XlFilterStatus enumeration](Excel.xlfilterstatus.md)                         
+- [XlFindLookIn enumeration](Excel.XlFindLookIn.md)                             
+- [XlFixedFormatQuality enumeration](Excel.XlFixedFormatQuality.md)             
+- [XlFixedFormatType enumeration](Excel.XlFixedFormatType.md)                   
+- [XlForecastAggregation enumeration](Excel.xlforecastaggregation.md)           
+- [XlForecastChartType enumeration](Excel.xlforecastcharttype.md)               
+- [XlForecastDataCompletion enumeration](Excel.xlforecastdatacompletion.md)     
+- [XlFormControl enumeration](Excel.XlFormControl.md)                           
+- [XlFormatConditionOperator enumeration](Excel.XlFormatConditionOperator.md)   
+- [XlFormatConditionType enumeration](Excel.XlFormatConditionType.md)           
+- [XlFormatFilterTypes enumeration](Excel.XlFormatFilterTypes.md)               
+- [XlFormulaLabel enumeration](Excel.XlFormulaLabel.md)                         
+- [XlGenerateTableRefs enumeration](Excel.XlGenerateTableRefs.md)               
+- [XlGradientFillType enumeration](Excel.XlGradientFillType.md)                 
+- [XlHAlign enumeration](Excel.XlHAlign.md)                                     
+- [XlHebrewModes enumeration](Excel.XlHebrewModes.md)                           
+- [XlHighlightChangesTime enumeration](Excel.XlHighlightChangesTime.md)         
+- [XlHtmlType enumeration](Excel.XlHtmlType.md)                                 
+- [XlIMEMode enumeration](Excel.XlIMEMode.md)                                   
+- [XlIcon enumeration](Excel.XlIcon.md)                                         
+- [XlIconSet enumeration](Excel.XlIconSet.md)                                   
+- [XlImportDataAs enumeration](Excel.XlImportDataAs.md)                         
+- [XlInsertFormatOrigin enumeration](Excel.XlInsertFormatOrigin.md)             
+- [XlInsertShiftDirection enumeration](Excel.XlInsertShiftDirection.md)         
+- [XlLayoutFormType enumeration](Excel.XlLayoutFormType.md)                     
+- [XlLayoutRowType enumeration](Excel.XlLayoutRowType.md)                       
+- [XlLegendPosition enumeration](Excel.XlLegendPosition.md)                     
+- [XlLineStyle enumeration](Excel.XlLineStyle.md)                               
+- [XlLink enumeration](Excel.XlLink.md)                                         
+- [XlLinkInfo enumeration](Excel.XlLinkInfo.md)                                 
+- [XlLinkInfoType enumeration](Excel.XlLinkInfoType.md)                         
+- [XlLinkStatus enumeration](Excel.XlLinkStatus.md)                             
+- [XlLinkType enumeration](Excel.XlLinkType.md)                                 
+- [XlListConflict enumeration](Excel.XlListConflict.md)                         
+- [XlListDataType enumeration](Excel.XlListDataType.md)                         
+- [XlListObjectSourceType enumeration](Excel.XlListObjectSourceType.md)         
+- [XlLocationInTable enumeration](Excel.XlLocationInTable.md)                   
+- [XlLookAt enumeration](Excel.XlLookAt.md)                                     
+- [XlLookFor enumeration](Excel.XlLookFor.md)                                   
+- [XlMSApplication enumeration](Excel.XlMSApplication.md)                       
+- [XlMailSystem enumeration](Excel.XlMailSystem.md)                             
+- [XlMarkerStyle enumeration](Excel.XlMarkerStyle.md)                           
+- [XlMeasurementUnits enumeration](Excel.XlMeasurementUnits.md)                 
+- [XlModelChangeSource enumeration](Excel.xlmodelchangesource.md)               
+- [XlMouseButton enumeration](Excel.XlMouseButton.md)                           
+- [XlMousePointer enumeration](Excel.XlMousePointer.md)                         
+- [XlOLEType enumeration](Excel.XlOLEType.md)                                   
+- [XlOLEVerb enumeration](Excel.XlOLEVerb.md)                                   
+- [XlOartHorizontalOverflow enumeration](Excel.XlOartHorizontalOverflow.md)     
+- [XlOartVerticalOverflow enumeration](Excel.XlOartVerticalOverflow.md)         
+- [XlObjectSize enumeration](Excel.XlObjectSize.md)                             
+- [XlOrder enumeration](Excel.XlOrder.md)                                       
+- [XlOrientation enumeration](Excel.XlOrientation.md)                           
+- [XlPTSelectionMode enumeration](Excel.XlPTSelectionMode.md)                   
+- [XlPageBreak enumeration](Excel.XlPageBreak.md)                               
+- [XlPageBreakExtent enumeration](Excel.XlPageBreakExtent.md)                   
+- [XlPageOrientation enumeration](Excel.XlPageOrientation.md)                   
+- [XlPaperSize enumeration](Excel.XlPaperSize.md)                               
+- [XlParameterDataType enumeration](Excel.XlParameterDataType.md)               
+- [XlParameterType enumeration](Excel.XlParameterType.md)                       
+- [XlParentDataLabelOptions enumeration](Excel.xlparentdatalabeloptions.md)     
+- [XlPasteSpecialOperation enumeration](Excel.XlPasteSpecialOperation.md)       
+- [XlPasteType enumeration](Excel.XlPasteType.md)                               
+- [XlPattern enumeration](Excel.XlPattern.md)                                   
+- [XlPhoneticAlignment enumeration](Excel.XlPhoneticAlignment.md)               
+- [XlPhoneticCharacterType enumeration](Excel.XlPhoneticCharacterType.md)       
+- [XlPictureAppearance enumeration](Excel.XlPictureAppearance.md)               
+- [XlPictureConvertorType enumeration](Excel.XlPictureConvertorType.md)         
+- [XlPieSliceIndex enumeration](Excel.XlPieSliceIndex.md)                       
+- [XlPieSliceLocation enumeration](Excel.XlPieSliceLocation.md)                 
+- [XlPivotCellType enumeration](Excel.XlPivotCellType.md)                       
+- [XlPivotConditionScope enumeration](Excel.XlPivotConditionScope.md)           
+- [XlPivotFieldCalculation enumeration](Excel.XlPivotFieldCalculation.md)       
+- [XlPivotFieldDataType enumeration](Excel.XlPivotFieldDataType.md)             
+- [XlPivotFieldOrientation enumeration](Excel.XlPivotFieldOrientation.md)       
+- [XlPivotFieldRepeatLabels enumeration](Excel.XlPivotFieldRepeatLabels.md)     
+- [XlPivotFilterType enumeration](Excel.XlPivotFilterType.md)                   
+- [XlPivotFormatType enumeration](Excel.XlPivotFormatType.md)                   
+- [XlPivotLineType enumeration](Excel.XlPivotLineType.md)                       
+- [XlPivotTableMissingItems enumeration](Excel.XlPivotTableMissingItems.md)     
+- [XlPivotTableSourceType enumeration](Excel.XlPivotTableSourceType.md)         
+- [XlPivotTableVersionList enumeration](Excel.XlPivotTableVersionList.md)       
+- [XlPlacement enumeration](Excel.XlPlacement.md)                               
+- [XlPlatform enumeration](Excel.XlPlatform.md)                                 
+- [XlPortugueseReform enumeration](Excel.XlPortugueseReform.md)                 
+- [XlPrintErrors enumeration](Excel.XlPrintErrors.md)                           
+- [XlPrintLocation enumeration](Excel.XlPrintLocation.md)                       
+- [XlPriority enumeration](Excel.XlPriority.md)                                 
+- [XlPropertyDisplayedIn enumeration](Excel.XlPropertyDisplayedIn.md)           
+- [XlProtectedViewCloseReason enumeration](Excel.XlProtectedViewCloseReason.md) 
+- [XlProtectedViewWindowState enumeration](Excel.XlProtectedViewWindowState.md) 
+- [XlQueryType enumeration](Excel.XlQueryType.md)                               
+- [XlQuickAnalysisMode enumeration](Excel.xlquickanalysismode.md)               
+- [XlRangeAutoFormat enumeration](Excel.XlRangeAutoFormat.md)                   
+- [XlRangeValueDataType enumeration](Excel.XlRangeValueDataType.md)             
+- [XlReferenceStyle enumeration](Excel.XlReferenceStyle.md)                     
+- [XlReferenceType enumeration](Excel.XlReferenceType.md)                       
+- [XlRemoveDocInfoType enumeration](Excel.XlRemoveDocInfoType.md)               
+- [XlRgbColor enumeration](Excel.XlRgbColor.md)                                 
+- [XlRobustConnect enumeration](Excel.XlRobustConnect.md)                       
+- [XlRoutingSlipDelivery enumeration](Excel.XlRoutingSlipDelivery.md)           
+- [XlRoutingSlipStatus enumeration](Excel.XlRoutingSlipStatus.md)               
+- [XlRowCol enumeration](Excel.XlRowCol.md)                                     
+- [XlRunAutoMacro enumeration](Excel.XlRunAutoMacro.md)                         
+- [XlSaveAction enumeration](Excel.XlSaveAction.md)                             
+- [XlSaveAsAccessMode enumeration](Excel.XlSaveAsAccessMode.md)                 
+- [XlSaveConflictResolution enumeration](Excel.XlSaveConflictResolution.md)     
+- [XlScaleType enumeration](Excel.XlScaleType.md)                               
+- [XlSearchDirection enumeration](Excel.XlSearchDirection.md)                   
+- [XlSearchOrder enumeration](Excel.XlSearchOrder.md)                           
+- [XlSearchWithin enumeration](Excel.XlSearchWithin.md)                         
+- [XlSeriesNameLevel enumeration](Excel.xlseriesnamelevel.md)                   
+- [XlSheetType enumeration](Excel.XlSheetType.md)                               
+- [XlSheetVisibility enumeration](Excel.XlSheetVisibility.md)                   
+- [XlSizeRepresents enumeration](Excel.XlSizeRepresents.md)                     
+- [XlSlicerCacheType enumeration](Excel.xlslicercachetype.md)                   
+- [XlSlicerCrossFilterType enumeration](Excel.XlSlicerCrossFilterType.md)       
+- [XlSlicerSort enumeration](Excel.XlSlicerSort.md)                             
+- [XlSmartTagControlType enumeration](Excel.XlSmartTagControlType.md)           
+- [XlSmartTagDisplayMode enumeration](Excel.XlSmartTagDisplayMode.md)           
+- [XlSortDataOption enumeration](Excel.XlSortDataOption.md)                     
+- [XlSortMethod enumeration](Excel.XlSortMethod.md)                             
+- [XlSortMethodOld enumeration](Excel.XlSortMethodOld.md)                       
+- [XlSortOn enumeration](Excel.XlSortOn.md)                                     
+- [XlSortOrder enumeration](Excel.XlSortOrder.md)                               
+- [XlSortOrientation enumeration](Excel.XlSortOrientation.md)                   
+- [XlSortType enumeration](Excel.XlSortType.md)                                 
+- [XlSourceType enumeration](Excel.XlSourceType.md)                             
+- [XlSpanishModes enumeration](Excel.XlSpanishModes.md)                         
+- [XlSparkScale enumeration](Excel.XlSparkScale.md)                             
+- [XlSparkType enumeration](Excel.XlSparkType.md)                               
+- [XlSparklineRowCol enumeration](Excel.XlSparklineRowCol.md)                   
+- [XlSpeakDirection enumeration](Excel.XlSpeakDirection.md)                     
+- [XlSpecialCellsValue enumeration](Excel.XlSpecialCellsValue.md)               
+- [XlStdColorScale enumeration](Excel.XlStdColorScale.md)                       
+- [XlSubscribeToFormat enumeration](Excel.XlSubscribeToFormat.md)               
+- [XlSubtototalLocationType enumeration](Excel.XlSubtototalLocationType.md)     
+- [XlSummaryColumn enumeration](Excel.XlSummaryColumn.md)                       
+- [XlSummaryReportType enumeration](Excel.XlSummaryReportType.md)               
+- [XlSummaryRow enumeration](Excel.XlSummaryRow.md)                             
+- [XlTabPosition enumeration](Excel.XlTabPosition.md)                           
+- [XlTableStyleElementType enumeration](Excel.XlTableStyleElementType.md)       
+- [XlTextParsingType enumeration](Excel.XlTextParsingType.md)                   
+- [XlTextQualifier enumeration](Excel.XlTextQualifier.md)                       
+- [XlTextVisualLayoutType enumeration](Excel.XlTextVisualLayoutType.md)         
+- [XlThemeColor enumeration](Excel.XlThemeColor.md)                             
+- [XlThemeFont enumeration](Excel.XlThemeFont.md)                               
+- [XlThreadMode enumeration](Excel.XlThreadMode.md)                             
+- [XlTickLabelOrientation enumeration](Excel.XlTickLabelOrientation.md)         
+- [XlTickLabelPosition enumeration](Excel.XlTickLabelPosition.md)               
+- [XlTickMark enumeration](Excel.XlTickMark.md)                                 
+- [XlTimePeriods enumeration](Excel.XlTimePeriods.md)                           
+- [XlTimeUnit enumeration](Excel.XlTimeUnit.md)                                 
+- [XlTimelineLevel enumeration](Excel.xltimelinelevel.md)                       
+- [XlToolbarProtection enumeration](Excel.XlToolbarProtection.md)               
+- [XlTopBottom enumeration](Excel.XlTopBottom.md)                               
+- [XlTotalsCalculation enumeration](Excel.XlTotalsCalculation.md)               
+- [XlTrendlineType enumeration](Excel.XlTrendlineType.md)                       
+- [XlUnderlineStyle enumeration](Excel.XlUnderlineStyle.md)                     
+- [XlUpdateLinks enumeration](Excel.XlUpdateLinks.md)                           
+- [XlVAlign enumeration](Excel.XlVAlign.md)                                     
+- [XlWBATemplate enumeration](Excel.XlWBATemplate.md)                           
+- [XlWebFormatting enumeration](Excel.XlWebFormatting.md)                       
+- [XlWebSelectionType enumeration](Excel.XlWebSelectionType.md)                 
+- [XlWindowState enumeration](Excel.XlWindowState.md)                           
+- [XlWindowType enumeration](Excel.XlWindowType.md)                             
+- [XlWindowView enumeration](Excel.XlWindowView.md)                             
+- [XlXLMMacroType enumeration](Excel.XlXLMMacroType.md)                         
+- [XlXmlExportResult enumeration](Excel.XlXmlExportResult.md)                   
+- [XlXmlImportResult enumeration](Excel.XlXmlImportResult.md)                   
+- [XlXmlLoadOption enumeration](Excel.XlXmlLoadOption.md)                       
+- [XlYesNoGuess enumeration](Excel.XlYesNoGuess.md)                             
+
+## See also
+
+- [Visual Basic Constants](../language/reference/user-interface-help/visual-basic-constants.md)
