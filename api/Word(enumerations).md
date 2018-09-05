@@ -1,370 +1,369 @@
 ---
 title: Enumerations (Word)
+description: Documentation for the enumerations in the VBA Word object model. 
 ms.prod: word
 ms.assetid: 22173213-5004-4e53-874c-0b60962d58d6
-ms.date: 08/28/2018
+ms.date: 09/05/2018
 ---
 
 # Enumerations (Word)
 
 This section contains documentation for the enumerations in the Word object model.
 
-|**Enumerations**|
-|:---|
-|[WdAlertLevel](wdalertlevel-enumeration-word.md)|
-|[WdAlignmentTabAlignment](wdalignmenttabalignment-enumeration-word.md)|
-|[WdAlignmentTabRelative](wdalignmenttabrelative-enumeration-word.md)|
-|[WdApplyQuickStyleSets](wdapplyquickstylesets-enumeration-word.md)|
-|[WdArabicNumeral](wdarabicnumeral-enumeration-word.md)|
-|[WdAraSpeller](wdaraspeller-enumeration-word.md)|
-|[WdArrangeStyle](wdarrangestyle-enumeration-word.md)|
-|[WdAutoFitBehavior](wdautofitbehavior-enumeration-word.md)|
-|[WdAutoMacros](wdautomacros-enumeration-word.md)|
-|[WdAutoVersions](wdautoversions-enumeration-word.md)|
-|[WdBaselineAlignment](wdbaselinealignment-enumeration-word.md)|
-|[WdBookmarkSortBy](wdbookmarksortby-enumeration-word.md)|
-|[WdBorderDistanceFrom](wdborderdistancefrom-enumeration-word.md)|
-|[WdBorderType](wdbordertype-enumeration-word.md)|
-|[WdBreakType](wdbreaktype-enumeration-word.md)|
-|[WdBrowserLevel](wdbrowserlevel-enumeration-word.md)|
-|[WdBrowseTarget](wdbrowsetarget-enumeration-word.md)|
-|[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)|
-|[WdBuiltInProperty](wdbuiltinproperty-enumeration-word.md)|
-|[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)|
-|[WdCalendarType](wdcalendartype-enumeration-word.md)|
-|[WdCalendarTypeBi](wdcalendartypebi-enumeration-word.md)|
-|[WdCaptionLabelID](wdcaptionlabelid-enumeration-word.md)|
-|[WdCaptionNumberStyle](wdcaptionnumberstyle-enumeration-word.md)|
-|[WdCaptionPosition](wdcaptionposition-enumeration-word.md)|
-|[WdCellColor](wdcellcolor-enumeration-word.md)|
-|[WdCellVerticalAlignment](wdcellverticalalignment-enumeration-word.md)|
-|[WdCharacterCase](wdcharactercase-enumeration-word.md)|
-|[WdCharacterWidth](wdcharacterwidth-enumeration-word.md)|
-|[WdCheckInVersionType](wdcheckinversiontype-enumeration-word.md)|
-|[WdChevronConvertRule](wdchevronconvertrule-enumeration-word.md)|
-|[WdCollapseDirection](wdcollapsedirection-enumeration-word.md)|
-|[WdColor](wdcolor-enumeration-word.md)|
-|[WdColorIndex](wdcolorindex-enumeration-word.md)|
-|[WdColumnWidth](wdcolumnwidth-enumeration-word.md)|
-|[WdCompareDestination](wdcomparedestination-enumeration-word.md)|
-|[WdCompareTarget](wdcomparetarget-enumeration-word.md)|
-|[WdCompatibility](wdcompatibility-enumeration-word.md)|
-|[WdCompatibilityMode](wdcompatibilitymode-enumeration-word.md)|
-|[WdConditionCode](wdconditioncode-enumeration-word.md)|
-|[WdConstants](wdconstants-enumeration-word.md)|
-|[WdContentControlAppearance](wdcontentcontrolappearance-enumeration-word.md)|
-|[WdContentControlDateStorageFormat](wdcontentcontroldatestorageformat-enumeration-word.md)|
-|[WdContentControlLevel](wdcontentcontrollevel-enumeration-word.md)|
-|[WdContentControlType](wdcontentcontroltype-enumeration-word.md)|
-|[WdContinue](wdcontinue-enumeration-word.md)|
-|[WdCountry](wdcountry-enumeration-word.md)|
-|[WdCursorMovement](wdcursormovement-enumeration-word.md)|
-|[WdCursorType](wdcursortype-enumeration-word.md)|
-|[WdCustomLabelPageSize](wdcustomlabelpagesize-enumeration-word.md)|
-|[WdDateLanguage](wddatelanguage-enumeration-word.md)|
-|[WdDefaultFilePath](wddefaultfilepath-enumeration-word.md)|
-|[WdDefaultListBehavior](wddefaultlistbehavior-enumeration-word.md)|
-|[WdDefaultTableBehavior](wddefaulttablebehavior-enumeration-word.md)|
-|[WdDeleteCells](wddeletecells-enumeration-word.md)|
-|[WdDeletedTextMark](wddeletedtextmark-enumeration-word.md)|
-|[WdDiacriticColor](wddiacriticcolor-enumeration-word.md)|
-|[WdDictionaryType](wddictionarytype-enumeration-word.md)|
-|[WdDisableFeaturesIntroducedAfter](wddisablefeaturesintroducedafter-enumeration-word.md)|
-|[WdDocPartInsertOptions](wddocpartinsertoptions-enumeration-word.md)|
-|[WdDocumentDirection](wddocumentdirection-enumeration-word.md)|
-|[WdDocumentKind](wddocumentkind-enumeration-word.md)|
-|[WdDocumentMedium](wddocumentmedium-enumeration-word.md)|
-|[WdDocumentType](wddocumenttype-enumeration-word.md)|
-|[WdDocumentViewDirection](wddocumentviewdirection-enumeration-word.md)|
-|[WdDropPosition](wddropposition-enumeration-word.md)|
-|[WdEditionOption](wdeditionoption-enumeration-word.md)|
-|[WdEditionType](wdeditiontype-enumeration-word.md)|
-|[WdEditorType](wdeditortype-enumeration-word.md)|
-|[WdEmailHTMLFidelity](wdemailhtmlfidelity-enumeration-word.md)|
-|[WdEmphasisMark](wdemphasismark-enumeration-word.md)|
-|[WdEnableCancelKey](wdenablecancelkey-enumeration-word.md)|
-|[WdEncloseStyle](wdenclosestyle-enumeration-word.md)|
-|[WdEnclosureType](wdenclosuretype-enumeration-word.md)|
-|[WdEndnoteLocation](wdendnotelocation-enumeration-word.md)|
-|[WdEnvelopeOrientation](wdenvelopeorientation-enumeration-word.md)|
-|[WdExportCreateBookmarks](wdexportcreatebookmarks-enumeration-word.md)|
-|[WdExportFormat](wdexportformat-enumeration-word.md)|
-|[WdExportItem](wdexportitem-enumeration-word.md)|
-|[WdExportOptimizeFor](wdexportoptimizefor-enumeration-word.md)|
-|[WdExportRange](wdexportrange-enumeration-word.md)|
-|[WdFarEastLineBreakLanguageID](wdfareastlinebreaklanguageid-enumeration-word.md)|
-|[WdFarEastLineBreakLevel](wdfareastlinebreaklevel-enumeration-word.md)|
-|[WdFieldKind](wdfieldkind-enumeration-word.md)|
-|[WdFieldShading](wdfieldshading-enumeration-word.md)|
-|[WdFieldType](wdfieldtype-enumeration-word.md)|
-|[WdFindMatch](wdfindmatch-enumeration-word.md)|
-|[WdFindWrap](wdfindwrap-enumeration-word.md)|
-|[WdFlowDirection](wdflowdirection-enumeration-word.md)|
-|[WdFontBias](wdfontbias-enumeration-word.md)|
-|[WdFootnoteLocation](wdfootnotelocation-enumeration-word.md)|
-|[WdFramePosition](wdframeposition-enumeration-word.md)|
-|[WdFramesetNewFrameLocation](wdframesetnewframelocation-enumeration-word.md)|
-|[WdFramesetSizeType](wdframesetsizetype-enumeration-word.md)|
-|[WdFramesetType](wdframesettype-enumeration-word.md)|
-|[WdFrameSizeRule](wdframesizerule-enumeration-word.md)|
-|[WdFrenchSpeller](wdfrenchspeller-enumeration-word.md)|
-|[WdGoToDirection](wdgotodirection-enumeration-word.md)|
-|[WdGoToItem](wdgotoitem-enumeration-word.md)|
-|[WdGranularity](wdgranularity-enumeration-word.md)|
-|[WdGutterStyle](wdgutterstyle-enumeration-word.md)|
-|[WdGutterStyleOld](wdgutterstyleold-enumeration-word.md)|
-|[WdHeaderFooterIndex](wdheaderfooterindex-enumeration-word.md)|
-|[WdHeadingSeparator](wdheadingseparator-enumeration-word.md)|
-|[WdHebSpellStart](wdhebspellstart-enumeration-word.md)|
-|[WdHelpType](wdhelptype-enumeration-word.md)|
-|[WdHighAnsiText](wdhighansitext-enumeration-word.md)|
-|[WdHorizontalInVerticalType](wdhorizontalinverticaltype-enumeration-word.md)|
-|[WdHorizontalLineAlignment](wdhorizontallinealignment-enumeration-word.md)|
-|[WdHorizontalLineWidthType](wdhorizontallinewidthtype-enumeration-word.md)|
-|[WdIMEMode](wdimemode-enumeration-word.md)|
-|[WdIndexFilter](wdindexfilter-enumeration-word.md)|
-|[WdIndexFormat](wdindexformat-enumeration-word.md)|
-|[WdIndexSortBy](wdindexsortby-enumeration-word.md)|
-|[WdIndexType](wdindextype-enumeration-word.md)|
-|[WdInformation](wdinformation-enumeration-word.md)|
-|[WdInlineShapeType](wdinlineshapetype-enumeration-word.md)|
-|[WdInsertCells](wdinsertcells-enumeration-word.md)|
-|[WdInsertedTextMark](wdinsertedtextmark-enumeration-word.md)|
-|[WdInternationalIndex](wdinternationalindex-enumeration-word.md)|
-|[WdJustificationMode](wdjustificationmode-enumeration-word.md)|
-|[WdKana](wdkana-enumeration-word.md)|
-|[WdKey](wdkey-enumeration-word.md)|
-|[WdKeyCategory](wdkeycategory-enumeration-word.md)|
-|[WdLanguageID](wdlanguageid-enumeration-word.md)|
-|[WdLayoutMode](wdlayoutmode-enumeration-word.md)|
-|[WdLetterheadLocation](wdletterheadlocation-enumeration-word.md)|
-|[WdLetterStyle](wdletterstyle-enumeration-word.md)|
-|[WdLigatures](wdligatures-enumeration-word.md)|
-|[WdLineEndingType](wdlineendingtype-enumeration-word.md)|
-|[WdLineSpacing](wdlinespacing-enumeration-word.md)|
-|[WdLineStyle](wdlinestyle-enumeration-word.md)|
-|[WdLineType](wdlinetype-enumeration-word.md)|
-|[WdLineWidth](wdlinewidth-enumeration-word.md)|
-|[WdLinkType](wdlinktype-enumeration-word.md)|
-|[WdListApplyTo](wdlistapplyto-enumeration-word.md)|
-|[WdListGalleryType](wdlistgallerytype-enumeration-word.md)|
-|[WdListLevelAlignment](wdlistlevelalignment-enumeration-word.md)|
-|[WdListNumberStyle](wdlistnumberstyle-enumeration-word.md)|
-|[WdListType](wdlisttype-enumeration-word.md)|
-|[WdLockType](wdlocktype-enumeration-word.md)|
-|[WdMailerPriority](wdmailerpriority-enumeration-word.md)|
-|[WdMailMergeActiveRecord](wdmailmergeactiverecord-enumeration-word.md)|
-|[WdMailMergeComparison](wdmailmergecomparison-enumeration-word.md)|
-|[WdMailMergeDataSource](wdmailmergedatasource-enumeration-word.md)|
-|[WdMailMergeDefaultRecord](wdmailmergedefaultrecord-enumeration-word.md)|
-|[WdMailMergeDestination](wdmailmergedestination-enumeration-word.md)|
-|[WdMailMergeMailFormat](wdmailmergemailformat-enumeration-word.md)|
-|[WdMailMergeMainDocType](wdmailmergemaindoctype-enumeration-word.md)|
-|[WdMailMergeState](wdmailmergestate-enumeration-word.md)|
-|[WdMailSystem](wdmailsystem-enumeration-word.md)|
-|[WdMappedDataFields](wdmappeddatafields-enumeration-word.md)|
-|[WdMeasurementUnits](wdmeasurementunits-enumeration-word.md)|
-|[WdMergeFormatFrom](wdmergeformatfrom-enumeration-word.md)|
-|[WdMergeSubType](wdmergesubtype-enumeration-word.md)|
-|[WdMergeTarget](wdmergetarget-enumeration-word.md)|
-|[WdMonthNames](wdmonthnames-enumeration-word.md)|
-|[WdMoveFromTextMark](wdmovefromtextmark-enumeration-word.md)|
-|[WdMovementType](wdmovementtype-enumeration-word.md)|
-|[WdMoveToTextMark](wdmovetotextmark-enumeration-word.md)|
-|[WdMultipleWordConversionsMode](wdmultiplewordconversionsmode-enumeration-word.md)|
-|[WdNewDocumentType](wdnewdocumenttype-enumeration-word.md)|
-|[WdNoteNumberStyle](wdnotenumberstyle-enumeration-word.md)|
-|[WdNumberForm](wdnumberform-enumeration-word.md)|
-|[WdNumberingRule](wdnumberingrule-enumeration-word.md)|
-|[WdNumberSpacing](wdnumberspacing-enumeration-word.md)|
-|[WdNumberStyleWordBasicBiDi](wdnumberstylewordbasicbidi-enumeration-word.md)|
-|[WdNumberType](wdnumbertype-enumeration-word.md)|
-|[WdOLEPlacement](wdoleplacement-enumeration-word.md)|
-|[WdOLEType](wdoletype-enumeration-word.md)|
-|[WdOLEVerb](wdoleverb-enumeration-word.md)|
-|[WdOMathBreakBin](wdomathbreakbin-enumeration-word.md)|
-|[WdOMathBreakSub](wdomathbreaksub-enumeration-word.md)|
-|[WdOMathFracType](wdomathfractype-enumeration-word.md)|
-|[WdOMathFunctionType](wdomathfunctiontype-enumeration-word.md)|
-|[WdOMathHorizAlignType](wdomathhorizaligntype-enumeration-word.md)|
-|[WdOMathJc](wdomathjc-enumeration-word.md)|
-|[WdOMathShapeType](wdomathshapetype-enumeration-word.md)|
-|[WdOMathSpacingRule](wdomathspacingrule-enumeration-word.md)|
-|[WdOMathType](wdomathtype-enumeration-word.md)|
-|[WdOMathVertAlignType](wdomathvertaligntype-enumeration-word.md)|
-|[WdOpenFormat](wdopenformat-enumeration-word.md)|
-|[WdOrganizerObject](wdorganizerobject-enumeration-word.md)|
-|[WdOrientation](wdorientation-enumeration-word.md)|
-|[WdOriginalFormat](wdoriginalformat-enumeration-word.md)|
-|[WdOutlineLevel](wdoutlinelevel-enumeration-word.md)|
-|[WdPageBorderArt](wdpageborderart-enumeration-word.md)|
-|[WdPageColor](wdpagecolor-enumeration-word.md)|
-|[WdPageFit](wdpagefit-enumeration-word.md)|
-|[WdPageMovementType](wdpagemovementtype-enumeration-word.md)|
-|[WdPageNumberAlignment](wdpagenumberalignment-enumeration-word.md)|
-|[WdPageNumberStyle](wdpagenumberstyle-enumeration-word.md)|
-|[WdPaperSize](wdpapersize-enumeration-word.md)|
-|[WdPaperTray](wdpapertray-enumeration-word.md)|
-|[WdParagraphAlignment](wdparagraphalignment-enumeration-word.md)|
-|[WdPartOfSpeech](wdpartofspeech-enumeration-word.md)|
-|[WdPasteDataType](wdpastedatatype-enumeration-word.md)|
-|[WdPasteOptions](wdpasteoptions-enumeration-word.md)|
-|[WdPhoneticGuideAlignmentType](wdphoneticguidealignmenttype-enumeration-word.md)|
-|[WdPictureLinkType](wdpicturelinktype-enumeration-word.md)|
-|[WdPortugueseReform](wdportuguesereform-enumeration-word.md)|
-|[WdPreferredWidthType](wdpreferredwidthtype-enumeration-word.md)|
-|[WdPrintOutItem](wdprintoutitem-enumeration-word.md)|
-|[WdPrintOutPages](wdprintoutpages-enumeration-word.md)|
-|[WdPrintOutRange](wdprintoutrange-enumeration-word.md)|
-|[WdProofreadingErrorType](wdproofreadingerrortype-enumeration-word.md)|
-|[WdProtectedViewCloseReason](wdprotectedviewclosereason-enumeration-word.md)|
-|[WdProtectionType](wdprotectiontype-enumeration-word.md)|
-|[WdReadingLayoutMargin](wdreadinglayoutmargin-enumeration-word.md)|
-|[WdReadingOrder](wdreadingorder-enumeration-word.md)|
-|[WdRecoveryType](wdrecoverytype-enumeration-word.md)|
-|[WdRectangleType](wdrectangletype-enumeration-word.md)|
-|[WdReferenceKind](wdreferencekind-enumeration-word.md)|
-|[WdReferenceType](wdreferencetype-enumeration-word.md)|
-|[WdRelativeHorizontalPosition](wdrelativehorizontalposition-enumeration-word.md)|
-|[WdRelativeHorizontalSize](wdrelativehorizontalsize-enumeration-word.md)|
-|[WdRelativeVerticalPosition](wdrelativeverticalposition-enumeration-word.md)|
-|[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration-word.md)|
-|[WdRelocate](wdrelocate-enumeration-word.md)|
-|[WdRemoveDocInfoType](wdremovedocinfotype-enumeration-word.md)|
-|[WdReplace](wdreplace-enumeration-word.md)|
-|[WdRevisedLinesMark](wdrevisedlinesmark-enumeration-word.md)|
-|[WdRevisedPropertiesMark](wdrevisedpropertiesmark-enumeration-word.md)|
-|[WdRevisionsBalloonMargin](wdrevisionsballoonmargin-enumeration-word.md)|
-|[WdRevisionsBalloonPrintOrientation](wdrevisionsballoonprintorientation-enumeration-word.md)|
-|[WdRevisionsBalloonWidthType](wdrevisionsballoonwidthtype-enumeration-word.md)|
-|[WdRevisionsMarkup](wdrevisionsmarkup-enumeration-word.md)|
-|[WdRevisionsMode](wdrevisionsmode-enumeration-word.md)|
-|[WdRevisionsView](wdrevisionsview-enumeration-word.md)|
-|[WdRevisionsWrap](wdrevisionswrap-enumeration-word.md)|
-|[WdRevisionType](wdrevisiontype-enumeration-word.md)|
-|[WdRowAlignment](wdrowalignment-enumeration-word.md)|
-|[WdRowHeightRule](wdrowheightrule-enumeration-word.md)|
-|[WdRulerStyle](wdrulerstyle-enumeration-word.md)|
-|[WdSalutationGender](wdsalutationgender-enumeration-word.md)|
-|[WdSalutationType](wdsalutationtype-enumeration-word.md)|
-|[WdSaveFormat](wdsaveformat-enumeration-word.md)|
-|[WdSaveOptions](wdsaveoptions-enumeration-word.md)|
-|[WdScrollbarType](wdscrollbartype-enumeration-word.md)|
-|[WdSectionDirection](wdsectiondirection-enumeration-word.md)|
-|[WdSectionStart](wdsectionstart-enumeration-word.md)|
-|[WdSeekView](wdseekview-enumeration-word.md)|
-|[WdSelectionFlags](wdselectionflags-enumeration-word.md)|
-|[WdSelectionType](wdselectiontype-enumeration-word.md)|
-|[WdSeparatorType](wdseparatortype-enumeration-word.md)|
-|[WdShapePosition](wdshapeposition-enumeration-word.md)|
-|[WdShapePositionRelative](wdshapepositionrelative-enumeration-word.md)|
-|[WdShapeSizeRelative](wdshapesizerelative-enumeration-word.md)|
-|[WdShowFilter](wdshowfilter-enumeration-word.md)|
-|[WdShowSourceDocuments](wdshowsourcedocuments-enumeration-word.md)|
-|[WdSmartTagControlType](wdsmarttagcontroltype-enumeration-word.md)|
-|[WdSortFieldType](wdsortfieldtype-enumeration-word.md)|
-|[WdSortOrder](wdsortorder-enumeration-word.md)|
-|[WdSortSeparator](wdsortseparator-enumeration-word.md)|
-|[WdSpanishSpeller](wdspanishspeller-enumeration-word.md)|
-|[WdSpecialPane](wdspecialpane-enumeration-word.md)|
-|[WdSpellingErrorType](wdspellingerrortype-enumeration-word.md)|
-|[WdSpellingWordType](wdspellingwordtype-enumeration-word.md)|
-|[WdStatistic](wdstatistic-enumeration-word.md)|
-|[WdStoryType](wdstorytype-enumeration-word.md)|
-|[WdStyleSheetLinkType](wdstylesheetlinktype-enumeration-word.md)|
-|[WdStyleSheetPrecedence](wdstylesheetprecedence-enumeration-word.md)|
-|[WdStyleSort](wdstylesort-enumeration-word.md)|
-|[WdStyleType](wdstyletype-enumeration-word.md)|
-|[WdStylisticSet](wdstylisticset-enumeration-word.md)|
-|[WdSubscriberFormats](wdsubscriberformats-enumeration-word.md)|
-|[WdTabAlignment](wdtabalignment-enumeration-word.md)|
-|[WdTabLeader](wdtableader-enumeration-word.md)|
-|[WdTableDirection](wdtabledirection-enumeration-word.md)|
-|[WdTableFieldSeparator](wdtablefieldseparator-enumeration-word.md)|
-|[WdTableFormat](wdtableformat-enumeration-word.md)|
-|[WdTableFormatApply](wdtableformatapply-enumeration-word.md)|
-|[WdTablePosition](wdtableposition-enumeration-word.md)|
-|[WdTaskPanes](wdtaskpanes-enumeration-word.md)|
-|[WdTCSCConverterDirection](wdtcscconverterdirection-enumeration-word.md)|
-|[WdTemplateType](wdtemplatetype-enumeration-word.md)|
-|[WdTextboxTightWrap](wdtextboxtightwrap-enumeration-word.md)|
-|[WdTextFormFieldType](wdtextformfieldtype-enumeration-word.md)|
-|[WdTextOrientation](wdtextorientation-enumeration-word.md)|
-|[WdTextureIndex](wdtextureindex-enumeration-word.md)|
-|[WdThemeColorIndex](wdthemecolorindex-enumeration-word.md)|
-|[WdToaFormat](wdtoaformat-enumeration-word.md)|
-|[WdTocFormat](wdtocformat-enumeration-word.md)|
-|[WdTofFormat](wdtofformat-enumeration-word.md)|
-|[WdTrailingCharacter](wdtrailingcharacter-enumeration-word.md)|
-|[WdTwoLinesInOneType](wdtwolinesinonetype-enumeration-word.md)|
-|[WdUnderline](wdunderline-enumeration-word.md)|
-|[WdUnits](wdunits-enumeration-word.md)|
-|[WdUpdateStyleListBehavior](wdupdatestylelistbehavior-enumeration-word.md)|
-|[WdUseFormattingFrom](wduseformattingfrom-enumeration-word.md)|
-|[WdVerticalAlignment](wdverticalalignment-enumeration-word.md)|
-|[WdViewType](wdviewtype-enumeration-word.md)|
-|[WdVisualSelection](wdvisualselection-enumeration-word.md)|
-|[WdWindowState](wdwindowstate-enumeration-word.md)|
-|[WdWindowType](wdwindowtype-enumeration-word.md)|
-|[WdWordDialog](wdworddialog-enumeration-word.md)|
-|[WdWordDialogTab](wdworddialogtab-enumeration-word.md)|
-|[WdWrapSideType](wdwrapsidetype-enumeration-word.md)|
-|[WdWrapType](wdwraptype-enumeration-word.md)|
-|[WdWrapTypeMerged](wdwraptypemerged-enumeration-word.md)|
-|[XlAxisCrosses](xlaxiscrosses-enumeration-word.md)|
-|[XlAxisGroup](xlaxisgroup-enumeration-word.md)|
-|[XlAxisType](xlaxistype-enumeration-word.md)|
-|[XlBackground](xlbackground-enumeration-word.md)|
-|[XlBarShape](xlbarshape-enumeration-word.md)|
-|[XlBinsType](xlbinstype-enumeration-word.md)|
-|[XlBorderWeight](xlborderweight-enumeration-word.md)|
-|[XlCategoryLabelLevel](xlcategorylabellevel-enumeration-word.md)|
-|[XlCategoryType](xlcategorytype-enumeration-word.md)|
-|[XlChartElementPosition](xlchartelementposition-enumeration-word.md)|
-|[XlChartGallery](xlchartgallery-enumeration-word.md)|
-|[XlChartItem](xlchartitem-enumeration-word.md)|
-|[XlChartPicturePlacement](xlchartpictureplacement-enumeration-word.md)|
-|[XlChartPictureType](xlchartpicturetype-enumeration-word.md)|
-|[XlChartSplitType](xlchartsplittype-enumeration-word.md)|
-|[XlColorIndex](xlcolorindex-enumeration-word.md)|
-|[XlConstants](xlconstants-enumeration-word.md)|
-|[XlCopyPictureFormat](xlcopypictureformat-enumeration-word.md)|
-|[XlDataLabelPosition](xldatalabelposition-enumeration-word.md)|
-|[XlDataLabelSeparator](xldatalabelseparator-enumeration-word.md)|
-|[XlDataLabelsType](xldatalabelstype-enumeration-word.md)|
-|[XlDisplayBlanksAs](xldisplayblanksas-enumeration-word.md)|
-|[XlDisplayUnit](xldisplayunit-enumeration-word.md)|
-|[XlEndStyleCap](xlendstylecap-enumeration-word.md)|
-|[XlErrorBarDirection](xlerrorbardirection-enumeration-word.md)|
-|[XlErrorBarInclude](xlerrorbarinclude-enumeration-word.md)|
-|[XlErrorBarType](xlerrorbartype-enumeration-word.md)|
-|[XlHAlign](xlhalign-enumeration-word.md)|
-|[XlLegendPosition](xllegendposition-enumeration-word.md)|
-|[XlLineStyle](xllinestyle-enumeration-word.md)|
-|[XlMarkerStyle](xlmarkerstyle-enumeration-word.md)|
-|[XlOrientation](xlorientation-enumeration-word.md)|
-|[XlParentDataLabelOptions](xlparentdatalabeloptions-enumeration-word.md)|
-|[XlPattern](xlpattern-enumeration-word.md)|
-|[XlPictureAppearance](xlpictureappearance-enumeration-word.md)|
-|[XlPieSliceIndex](xlpiesliceindex-enumeration-word.md)|
-|[XlPieSliceLocation](xlpieslicelocation-enumeration-word.md)|
-|[XlPivotFieldOrientation](xlpivotfieldorientation-enumeration-word.md)|
-|[XlReadingOrder](xlreadingorder-enumeration-word.md)|
-|[XlRgbColor](xlrgbcolor-enumeration-word.md)|
-|[XlRowCol](xlrowcol-enumeration-word.md)|
-|[XlScaleType](xlscaletype-enumeration-word.md)|
-|[XlSeriesNameLevel](xlseriesnamelevel-enumeration-word.md)|
-|[XlSizeRepresents](xlsizerepresents-enumeration-word.md)|
-|[XlTickLabelOrientation](xlticklabelorientation-enumeration-word.md)|
-|[XlTickLabelPosition](xlticklabelposition-enumeration-word.md)|
-|[XlTickMark](xltickmark-enumeration-word.md)|
-|[XlTimeUnit](xltimeunit-enumeration-word.md)|
-|[XlTrendlineType](xltrendlinetype-enumeration-word.md)|
-|[XlUnderlineStyle](xlunderlinestyle-enumeration-word.md)|
-|[XlVAlign](xlvalign-enumeration-word.md)|
+- [WdAlertLevel enumeration](Word.WdAlertLevel.md)
+- [WdAlignmentTabAlignment enumeration](Word.WdAlignmentTabAlignment.md)
+- [WdAlignmentTabRelative enumeration](Word.WdAlignmentTabRelative.md)
+- [WdApplyQuickStyleSets enumeration](Word.WdApplyQuickStyleSets.md)
+- [WdArabicNumeral enumeration](Word.WdArabicNumeral.md)
+- [WdAraSpeller enumeration](Word.WdAraSpeller.md)
+- [WdArrangeStyle enumeration](Word.WdArrangeStyle.md)
+- [WdAutoFitBehavior enumeration](Word.WdAutoFitBehavior.md)
+- [WdAutoMacros enumeration](Word.WdAutoMacros.md)
+- [WdAutoVersions enumeration](Word.WdAutoVersions.md)
+- [WdBaselineAlignment enumeration](Word.WdBaselineAlignment.md)
+- [WdBookmarkSortBy enumeration](Word.WdBookmarkSortBy.md)
+- [WdBorderDistanceFrom enumeration](Word.WdBorderDistanceFrom.md)
+- [WdBorderType enumeration](Word.WdBorderType.md)
+- [WdBreakType enumeration](Word.WdBreakType.md)
+- [WdBrowserLevel enumeration](Word.WdBrowserLevel.md)
+- [WdBrowseTarget enumeration](Word.WdBrowseTarget.md)
+- [WdBuildingBlockTypes enumeration](Word.WdBuildingBlockTypes.md)
+- [WdBuiltInProperty enumeration](Word.WdBuiltInProperty.md)
+- [WdBuiltinStyle enumeration](Word.WdBuiltinStyle.md)
+- [WdCalendarType enumeration](Word.WdCalendarType.md)
+- [WdCalendarTypeBi enumeration](Word.WdCalendarTypeBi.md)
+- [WdCaptionLabelID enumeration](Word.WdCaptionLabelID.md)
+- [WdCaptionNumberStyle enumeration](Word.WdCaptionNumberStyle.md)
+- [WdCaptionPosition enumeration](Word.WdCaptionPosition.md)
+- [WdCellColor enumeration](Word.WdCellColor.md)
+- [WdCellVerticalAlignment enumeration](Word.WdCellVerticalAlignment.md)
+- [WdCharacterCase enumeration](Word.WdCharacterCase.md)
+- [WdCharacterWidth enumeration](Word.WdCharacterWidth.md)
+- [WdCheckInVersionType enumeration](Word.WdCheckInVersionType.md)
+- [WdChevronConvertRule enumeration](Word.WdChevronConvertRule.md)
+- [WdCollapseDirection enumeration](Word.WdCollapseDirection.md)
+- [WdColor enumeration](Word.WdColor.md)
+- [WdColorIndex enumeration](Word.WdColorIndex.md)
+- [WdColumnWidth enumeration](Word.wdcolumnwidth.md)
+- [WdCompareDestination enumeration](Word.WdCompareDestination.md)
+- [WdCompareTarget enumeration](Word.WdCompareTarget.md)
+- [WdCompatibility enumeration](Word.WdCompatibility.md)
+- [WdCompatibilityMode enumeration](Word.WdCompatibilityMode.md)
+- [WdConditionCode enumeration](Word.WdConditionCode.md)
+- [WdConstants enumeration](Word.WdConstants.md)
+- [WdContentControlAppearance enumeration](Word.wdcontentcontrolappearance.md)
+- [WdContentControlDateStorageFormat enumeration](Word.WdContentControlDateStorageFormat.md)
+- [WdContentControlLevel enumeration](Word.wdcontentcontrollevel.md)
+- [WdContentControlType enumeration](Word.WdContentControlType.md)
+- [WdContinue enumeration](Word.WdContinue.md)
+- [WdCountry enumeration](Word.WdCountry.md)
+- [WdCursorMovement enumeration](Word.WdCursorMovement.md)
+- [WdCursorType enumeration](Word.WdCursorType.md)
+- [WdCustomLabelPageSize enumeration](Word.WdCustomLabelPageSize.md)
+- [WdDateLanguage enumeration](Word.WdDateLanguage.md)
+- [WdDefaultFilePath enumeration](Word.WdDefaultFilePath.md)
+- [WdDefaultListBehavior enumeration](Word.WdDefaultListBehavior.md)
+- [WdDefaultTableBehavior enumeration](Word.WdDefaultTableBehavior.md)
+- [WdDeleteCells enumeration](Word.WdDeleteCells.md)
+- [WdDeletedTextMark enumeration](Word.WdDeletedTextMark.md)
+- [WdDiacriticColor enumeration](Word.WdDiacriticColor.md)
+- [WdDictionaryType enumeration](Word.WdDictionaryType.md)
+- [WdDisableFeaturesIntroducedAfter enumeration](Word.WdDisableFeaturesIntroducedAfter.md)
+- [WdDocPartInsertOptions enumeration](Word.WdDocPartInsertOptions.md)
+- [WdDocumentDirection enumeration](Word.WdDocumentDirection.md)
+- [WdDocumentKind enumeration](Word.WdDocumentKind.md)
+- [WdDocumentMedium enumeration](Word.WdDocumentMedium.md)
+- [WdDocumentType enumeration](Word.WdDocumentType.md)
+- [WdDocumentViewDirection enumeration](Word.WdDocumentViewDirection.md)
+- [WdDropPosition enumeration](Word.WdDropPosition.md)
+- [WdEditionOption enumeration](Word.WdEditionOption.md)
+- [WdEditionType enumeration](Word.WdEditionType.md)
+- [WdEditorType enumeration](Word.WdEditorType.md)
+- [WdEmailHTMLFidelity enumeration](Word.WdEmailHTMLFidelity.md)
+- [WdEmphasisMark enumeration](Word.WdEmphasisMark.md)
+- [WdEnableCancelKey enumeration](Word.WdEnableCancelKey.md)
+- [WdEncloseStyle enumeration](Word.WdEncloseStyle.md)
+- [WdEnclosureType enumeration](Word.WdEnclosureType.md)
+- [WdEndnoteLocation enumeration](Word.WdEndnoteLocation.md)
+- [WdEnvelopeOrientation enumeration](Word.WdEnvelopeOrientation.md)
+- [WdExportCreateBookmarks enumeration](Word.WdExportCreateBookmarks.md)
+- [WdExportFormat enumeration](Word.WdExportFormat.md)
+- [WdExportItem enumeration](Word.WdExportItem.md)
+- [WdExportOptimizeFor enumeration](Word.WdExportOptimizeFor.md)
+- [WdExportRange enumeration](Word.WdExportRange.md)
+- [WdFarEastLineBreakLanguageID enumeration](Word.WdFarEastLineBreakLanguageID.md)
+- [WdFarEastLineBreakLevel enumeration](Word.WdFarEastLineBreakLevel.md)
+- [WdFieldKind enumeration](Word.WdFieldKind.md)
+- [WdFieldShading enumeration](Word.WdFieldShading.md)
+- [WdFieldType enumeration](Word.WdFieldType.md)
+- [WdFindMatch enumeration](Word.WdFindMatch.md)
+- [WdFindWrap enumeration](Word.WdFindWrap.md)
+- [WdFlowDirection enumeration](Word.WdFlowDirection.md)
+- [WdFontBias enumeration](Word.WdFontBias.md)
+- [WdFootnoteLocation enumeration](Word.WdFootnoteLocation.md)
+- [WdFramePosition enumeration](Word.WdFramePosition.md)
+- [WdFramesetNewFrameLocation enumeration](Word.WdFramesetNewFrameLocation.md)
+- [WdFramesetSizeType enumeration](Word.WdFramesetSizeType.md)
+- [WdFramesetType enumeration](Word.WdFramesetType.md)
+- [WdFrameSizeRule enumeration](Word.WdFrameSizeRule.md)
+- [WdFrenchSpeller enumeration](Word.WdFrenchSpeller.md)
+- [WdGoToDirection enumeration](Word.WdGoToDirection.md)
+- [WdGoToItem enumeration](Word.WdGoToItem.md)
+- [WdGranularity enumeration](Word.WdGranularity.md)
+- [WdGutterStyle enumeration](Word.WdGutterStyle.md)
+- [WdGutterStyleOld enumeration](Word.WdGutterStyleOld.md)
+- [WdHeaderFooterIndex enumeration](Word.WdHeaderFooterIndex.md)
+- [WdHeadingSeparator enumeration](Word.WdHeadingSeparator.md)
+- [WdHebSpellStart enumeration](Word.WdHebSpellStart.md)
+- [WdHelpType enumeration](Word.WdHelpType.md)
+- [WdHighAnsiText enumeration](Word.WdHighAnsiText.md)
+- [WdHorizontalInVerticalType enumeration](Word.WdHorizontalInVerticalType.md)
+- [WdHorizontalLineAlignment enumeration](Word.WdHorizontalLineAlignment.md)
+- [WdHorizontalLineWidthType enumeration](Word.WdHorizontalLineWidthType.md)
+- [WdIMEMode enumeration](Word.WdIMEMode.md)
+- [WdIndexFilter enumeration](Word.WdIndexFilter.md)
+- [WdIndexFormat enumeration](Word.WdIndexFormat.md)
+- [WdIndexSortBy enumeration](Word.WdIndexSortBy.md)
+- [WdIndexType enumeration](Word.WdIndexType.md)
+- [WdInformation enumeration](Word.WdInformation.md)
+- [WdInlineShapeType enumeration](Word.WdInlineShapeType.md)
+- [WdInsertCells enumeration](Word.WdInsertCells.md)
+- [WdInsertedTextMark enumeration](Word.WdInsertedTextMark.md)
+- [WdInternationalIndex enumeration](Word.WdInternationalIndex.md)
+- [WdJustificationMode enumeration](Word.WdJustificationMode.md)
+- [WdKana enumeration](Word.WdKana.md)
+- [WdKey enumeration](Word.WdKey.md)
+- [WdKeyCategory enumeration](Word.WdKeyCategory.md)
+- [WdLanguageID enumeration](Word.WdLanguageID.md)
+- [WdLayoutMode enumeration](Word.WdLayoutMode.md)
+- [WdLetterheadLocation enumeration](Word.WdLetterheadLocation.md)
+- [WdLetterStyle enumeration](Word.WdLetterStyle.md)
+- [WdLigatures enumeration](Word.WdLigatures.md)
+- [WdLineEndingType enumeration](Word.WdLineEndingType.md)
+- [WdLineSpacing enumeration](Word.WdLineSpacing.md)
+- [WdLineStyle enumeration](Word.WdLineStyle.md)
+- [WdLineType enumeration](Word.WdLineType.md)
+- [WdLineWidth enumeration](Word.WdLineWidth.md)
+- [WdLinkType enumeration](Word.WdLinkType.md)
+- [WdListApplyTo enumeration](Word.WdListApplyTo.md)
+- [WdListGalleryType enumeration](Word.WdListGalleryType.md)
+- [WdListLevelAlignment enumeration](Word.WdListLevelAlignment.md)
+- [WdListNumberStyle enumeration](Word.WdListNumberStyle.md)
+- [WdListType enumeration](Word.WdListType.md)
+- [WdLockType enumeration](Word.WdLockType.md)
+- [WdMailerPriority enumeration](Word.WdMailerPriority.md)
+- [WdMailMergeActiveRecord enumeration](Word.WdMailMergeActiveRecord.md)
+- [WdMailMergeComparison enumeration](Word.WdMailMergeComparison.md)
+- [WdMailMergeDataSource enumeration](Word.WdMailMergeDataSource.md)
+- [WdMailMergeDefaultRecord enumeration](Word.WdMailMergeDefaultRecord.md)
+- [WdMailMergeDestination enumeration](Word.WdMailMergeDestination.md)
+- [WdMailMergeMailFormat enumeration](Word.WdMailMergeMailFormat.md)
+- [WdMailMergeMainDocType enumeration](Word.WdMailMergeMainDocType.md)
+- [WdMailMergeState enumeration](Word.WdMailMergeState.md)
+- [WdMailSystem enumeration](Word.WdMailSystem.md)
+- [WdMappedDataFields enumeration](Word.WdMappedDataFields.md)
+- [WdMeasurementUnits enumeration](Word.WdMeasurementUnits.md)
+- [WdMergeFormatFrom enumeration](Word.WdMergeFormatFrom.md)
+- [WdMergeSubType enumeration](Word.WdMergeSubType.md)
+- [WdMergeTarget enumeration](Word.WdMergeTarget.md)
+- [WdMonthNames enumeration](Word.WdMonthNames.md)
+- [WdMoveFromTextMark enumeration](Word.WdMoveFromTextMark.md)
+- [WdMovementType enumeration](Word.WdMovementType.md)
+- [WdMoveToTextMark enumeration](Word.WdMoveToTextMark.md)
+- [WdMultipleWordConversionsMode enumeration](Word.WdMultipleWordConversionsMode.md)
+- [WdNewDocumentType enumeration](Word.WdNewDocumentType.md)
+- [WdNoteNumberStyle enumeration](Word.WdNoteNumberStyle.md)
+- [WdNumberForm enumeration](Word.WdNumberForm.md)
+- [WdNumberingRule enumeration](Word.WdNumberingRule.md)
+- [WdNumberSpacing enumeration](Word.WdNumberSpacing.md)
+- [WdNumberStyleWordBasicBiDi enumeration](Word.WdNumberStyleWordBasicBiDi.md)
+- [WdNumberType enumeration](Word.WdNumberType.md)
+- [WdOLEPlacement enumeration](Word.WdOLEPlacement.md)
+- [WdOLEType enumeration](Word.WdOLEType.md)
+- [WdOLEVerb enumeration](Word.WdOLEVerb.md)
+- [WdOMathBreakBin enumeration](Word.WdOMathBreakBin.md)
+- [WdOMathBreakSub enumeration](Word.WdOMathBreakSub.md)
+- [WdOMathFracType enumeration](Word.WdOMathFracType.md)
+- [WdOMathFunctionType enumeration](Word.WdOMathFunctionType.md)
+- [WdOMathHorizAlignType enumeration](Word.WdOMathHorizAlignType.md)
+- [WdOMathJc enumeration](Word.WdOMathJc.md)
+- [WdOMathShapeType enumeration](Word.WdOMathShapeType.md)
+- [WdOMathSpacingRule enumeration](Word.WdOMathSpacingRule.md)
+- [WdOMathType enumeration](Word.WdOMathType.md)
+- [WdOMathVertAlignType enumeration](Word.WdOMathVertAlignType.md)
+- [WdOpenFormat enumeration](Word.WdOpenFormat.md)
+- [WdOrganizerObject enumeration](Word.WdOrganizerObject.md)
+- [WdOrientation enumeration](Word.WdOrientation.md)
+- [WdOriginalFormat enumeration](Word.WdOriginalFormat.md)
+- [WdOutlineLevel enumeration](Word.WdOutlineLevel.md)
+- [WdPageBorderArt enumeration](Word.WdPageBorderArt.md)
+- [WdPageColor enumeration](Word.wdpagecolor.md)
+- [WdPageFit enumeration](Word.WdPageFit.md)
+- [WdPageMovementType enumeration](Word.WdPageMovementType.md)
+- [WdPageNumberAlignment enumeration](Word.WdPageNumberAlignment.md)
+- [WdPageNumberStyle enumeration](Word.WdPageNumberStyle.md)
+- [WdPaperSize enumeration](Word.WdPaperSize.md)
+- [WdPaperTray enumeration](Word.WdPaperTray.md)
+- [WdParagraphAlignment enumeration](Word.WdParagraphAlignment.md)
+- [WdPartOfSpeech enumeration](Word.WdPartOfSpeech.md)
+- [WdPasteDataType enumeration](Word.WdPasteDataType.md)
+- [WdPasteOptions enumeration](Word.WdPasteOptions.md)
+- [WdPhoneticGuideAlignmentType enumeration](Word.WdPhoneticGuideAlignmentType.md)
+- [WdPictureLinkType enumeration](Word.WdPictureLinkType.md)
+- [WdPortugueseReform enumeration](Word.WdPortugueseReform.md)
+- [WdPreferredWidthType enumeration](Word.WdPreferredWidthType.md)
+- [WdPrintOutItem enumeration](Word.WdPrintOutItem.md)
+- [WdPrintOutPages enumeration](Word.WdPrintOutPages.md)
+- [WdPrintOutRange enumeration](Word.WdPrintOutRange.md)
+- [WdProofreadingErrorType enumeration](Word.WdProofreadingErrorType.md)
+- [WdProtectedViewCloseReason enumeration](Word.WdProtectedViewCloseReason.md)
+- [WdProtectionType enumeration](Word.WdProtectionType.md)
+- [WdReadingLayoutMargin enumeration](Word.WdReadingLayoutMargin.md)
+- [WdReadingOrder enumeration](Word.WdReadingOrder.md)
+- [WdRecoveryType enumeration](Word.WdRecoveryType.md)
+- [WdRectangleType enumeration](Word.WdRectangleType.md)
+- [WdReferenceKind enumeration](Word.WdReferenceKind.md)
+- [WdReferenceType enumeration](Word.WdReferenceType.md)
+- [WdRelativeHorizontalPosition enumeration](Word.WdRelativeHorizontalPosition.md)
+- [WdRelativeHorizontalSize enumeration](Word.WdRelativeHorizontalSize.md)
+- [WdRelativeVerticalPosition enumeration](Word.WdRelativeVerticalPosition.md)
+- [WdRelativeVerticalSize enumeration](Word.WdRelativeVerticalSize.md)
+- [WdRelocate enumeration](Word.WdRelocate.md)
+- [WdRemoveDocInfoType enumeration](Word.WdRemoveDocInfoType.md)
+- [WdReplace enumeration](Word.WdReplace.md)
+- [WdRevisedLinesMark enumeration](Word.WdRevisedLinesMark.md)
+- [WdRevisedPropertiesMark enumeration](Word.WdRevisedPropertiesMark.md)
+- [WdRevisionsBalloonMargin enumeration](Word.WdRevisionsBalloonMargin.md)
+- [WdRevisionsBalloonPrintOrientation enumeration](Word.WdRevisionsBalloonPrintOrientation.md)
+- [WdRevisionsBalloonWidthType enumeration](Word.WdRevisionsBalloonWidthType.md)
+- [WdRevisionsMarkup enumeration](Word.wdrevisionsmarkup.md)
+- [WdRevisionsMode enumeration](Word.WdRevisionsMode.md)
+- [WdRevisionsView enumeration](Word.WdRevisionsView.md)
+- [WdRevisionsWrap enumeration](Word.WdRevisionsWrap.md)
+- [WdRevisionType enumeration](Word.WdRevisionType.md)
+- [WdRowAlignment enumeration](Word.WdRowAlignment.md)
+- [WdRowHeightRule enumeration](Word.WdRowHeightRule.md)
+- [WdRulerStyle enumeration](Word.WdRulerStyle.md)
+- [WdSalutationGender enumeration](Word.WdSalutationGender.md)
+- [WdSalutationType enumeration](Word.WdSalutationType.md)
+- [WdSaveFormat enumeration](Word.WdSaveFormat.md)
+- [WdSaveOptions enumeration](Word.WdSaveOptions.md)
+- [WdScrollbarType enumeration](Word.WdScrollbarType.md)
+- [WdSectionDirection enumeration](Word.WdSectionDirection.md)
+- [WdSectionStart enumeration](Word.WdSectionStart.md)
+- [WdSeekView enumeration](Word.WdSeekView.md)
+- [WdSelectionFlags enumeration](Word.WdSelectionFlags.md)
+- [WdSelectionType enumeration](Word.WdSelectionType.md)
+- [WdSeparatorType enumeration](Word.WdSeparatorType.md)
+- [WdShapePosition enumeration](Word.WdShapePosition.md)
+- [WdShapePositionRelative enumeration](Word.WdShapePositionRelative.md)
+- [WdShapeSizeRelative enumeration](Word.WdShapeSizeRelative.md)
+- [WdShowFilter enumeration](Word.WdShowFilter.md)
+- [WdShowSourceDocuments enumeration](Word.WdShowSourceDocuments.md)
+- [WdSmartTagControlType enumeration](Word.WdSmartTagControlType.md)
+- [WdSortFieldType enumeration](Word.WdSortFieldType.md)
+- [WdSortOrder enumeration](Word.WdSortOrder.md)
+- [WdSortSeparator enumeration](Word.WdSortSeparator.md)
+- [WdSpanishSpeller enumeration](Word.WdSpanishSpeller.md)
+- [WdSpecialPane enumeration](Word.WdSpecialPane.md)
+- [WdSpellingErrorType enumeration](Word.WdSpellingErrorType.md)
+- [WdSpellingWordType enumeration](Word.WdSpellingWordType.md)
+- [WdStatistic enumeration](Word.WdStatistic.md)
+- [WdStoryType enumeration](Word.WdStoryType.md)
+- [WdStyleSheetLinkType enumeration](Word.WdStyleSheetLinkType.md)
+- [WdStyleSheetPrecedence enumeration](Word.WdStyleSheetPrecedence.md)
+- [WdStyleSort enumeration](Word.WdStyleSort.md)
+- [WdStyleType enumeration](Word.WdStyleType.md)
+- [WdStylisticSet enumeration](Word.WdStylisticSet.md)
+- [WdSubscriberFormats enumeration](Word.WdSubscriberFormats.md)
+- [WdTabAlignment enumeration](Word.WdTabAlignment.md)
+- [WdTabLeader enumeration](Word.WdTabLeader.md)
+- [WdTableDirection enumeration](Word.WdTableDirection.md)
+- [WdTableFieldSeparator enumeration](Word.WdTableFieldSeparator.md)
+- [WdTableFormat enumeration](Word.WdTableFormat.md)
+- [WdTableFormatApply enumeration](Word.WdTableFormatApply.md)
+- [WdTablePosition enumeration](Word.WdTablePosition.md)
+- [WdTaskPanes enumeration](Word.WdTaskPanes.md)
+- [WdTCSCConverterDirection enumeration](Word.WdTCSCConverterDirection.md)
+- [WdTemplateType enumeration](Word.WdTemplateType.md)
+- [WdTextboxTightWrap enumeration](Word.WdTextboxTightWrap.md)
+- [WdTextFormFieldType enumeration](Word.WdTextFormFieldType.md)
+- [WdTextOrientation enumeration](Word.WdTextOrientation.md)
+- [WdTextureIndex enumeration](Word.WdTextureIndex.md)
+- [WdThemeColorIndex enumeration](Word.WdThemeColorIndex.md)
+- [WdToaFormat enumeration](Word.WdToaFormat.md)
+- [WdTocFormat enumeration](Word.WdTocFormat.md)
+- [WdTofFormat enumeration](Word.WdTofFormat.md)
+- [WdTrailingCharacter enumeration](Word.WdTrailingCharacter.md)
+- [WdTwoLinesInOneType enumeration](Word.WdTwoLinesInOneType.md)
+- [WdUnderline enumeration](Word.WdUnderline.md)
+- [WdUnits enumeration](Word.WdUnits.md)
+- [WdUpdateStyleListBehavior enumeration](Word.WdUpdateStyleListBehavior.md)
+- [WdUseFormattingFrom enumeration](Word.WdUseFormattingFrom.md)
+- [WdVerticalAlignment enumeration](Word.WdVerticalAlignment.md)
+- [WdViewType enumeration](Word.WdViewType.md)
+- [WdVisualSelection enumeration](Word.WdVisualSelection.md)
+- [WdWindowState enumeration](Word.WdWindowState.md)
+- [WdWindowType enumeration](Word.WdWindowType.md)
+- [WdWordDialog enumeration](Word.WdWordDialog.md)
+- [WdWordDialogTab enumeration](Word.WdWordDialogTab.md)
+- [WdWrapSideType enumeration](Word.WdWrapSideType.md)
+- [WdWrapType enumeration](Word.WdWrapType.md)
+- [WdWrapTypeMerged enumeration](Word.WdWrapTypeMerged.md)
+- [XlAxisCrosses enumeration](Word.xlaxiscrosses.md)
+- [XlAxisGroup enumeration](Word.xlaxisgroup.md)
+- [XlAxisType enumeration](Word.xlaxistype.md)
+- [XlBackground enumeration](Word.xlbackground.md)
+- [XlBarShape enumeration](Word.xlbarshape.md)
+- [XlBinsType enumeration](Word.xlbinstype.md)
+- [XlBorderWeight enumeration](Word.xlborderweight.md)
+- [XlCategoryLabelLevel enumeration](Word.xlcategorylabellevel.md)
+- [XlCategoryType enumeration](Word.xlcategorytype.md)
+- [XlChartElementPosition enumeration](Word.xlchartelementposition.md)
+- [XlChartGallery enumeration](Word.xlchartgallery.md)
+- [XlChartItem enumeration](Word.xlchartitem.md)
+- [XlChartPicturePlacement enumeration](Word.xlchartpictureplacement.md)
+- [XlChartPictureType enumeration](Word.xlchartpicturetype.md)
+- [XlChartSplitType enumeration](Word.xlchartsplittype.md)
+- [XlColorIndex enumeration](Word.xlcolorindex.md)
+- [XlConstants enumeration](Word.XlConstants.md)
+- [XlCopyPictureFormat enumeration](Word.xlcopypictureformat.md)
+- [XlDataLabelPosition enumeration](Word.xldatalabelposition.md)
+- [XlDataLabelSeparator enumeration](Word.xldatalabelseparator.md)
+- [XlDataLabelsType enumeration](Word.xldatalabelstype.md)
+- [XlDisplayBlanksAs enumeration](Word.xldisplayblanksas.md)
+- [XlDisplayUnit enumeration](Word.xldisplayunit.md)
+- [XlEndStyleCap enumeration](Word.xlendstylecap.md)
+- [XlErrorBarDirection enumeration](Word.xlerrorbardirection.md)
+- [XlErrorBarInclude enumeration](Word.xlerrorbarinclude.md)
+- [XlErrorBarType enumeration](Word.xlerrorbartype.md)
+- [XlHAlign enumeration](Word.xlhalign.md)
+- [XlLegendPosition enumeration](Word.xllegendposition.md)
+- [XlLineStyle enumeration](Word.xllinestyle.md)
+- [XlMarkerStyle enumeration](Word.xlmarkerstyle.md)
+- [XlOrientation enumeration](Word.xlorientation.md)
+- [XlParentDataLabelOptions enumeration](Word.xlparentdatalabeloptions.md)
+- [XlPattern enumeration](Word.xlpattern.md)
+- [XlPictureAppearance enumeration](Word.xlpictureappearance.md)
+- [XlPieSliceIndex enumeration](Word.xlpiesliceindex.md)
+- [XlPieSliceLocation enumeration](Word.xlpieslicelocation.md)
+- [XlPivotFieldOrientation enumeration](Word.xlpivotfieldorientation.md)
+- [XlReadingOrder enumeration](Word.XlReadingOrder.md)
+- [XlRgbColor enumeration](Word.xlrgbcolor.md)
+- [XlRowCol enumeration](Word.xlrowcol.md)
+- [XlScaleType enumeration](Word.xlscaletype.md)
+- [XlSeriesNameLevel enumeration](Word.xlseriesnamelevel.md)
+- [XlSizeRepresents enumeration](Word.xlsizerepresents.md)
+- [XlTickLabelOrientation enumeration](Word.xlticklabelorientation.md)
+- [XlTickLabelPosition enumeration](Word.xlticklabelposition.md)
+- [XlTickMark enumeration](Word.xltickmark.md)
+- [XlTimeUnit enumeration](Word.xltimeunit.md)
+- [XlTrendlineType enumeration](Word.xltrendlinetype.md)
+- [XlUnderlineStyle enumeration](Word.xlunderlinestyle.md)
+- [XlVAlign enumeration](Word.xlvalign.md)
 
 
  ## See also
  
- - [Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
+ - [Visual Basic Constants](../language/reference/user-interface-help/visual-basic-constants.md)
 
