@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.Type Property (Excel)
 
-Returns a  **[MsoFillType](./Office.MsoFillType.md)** value that represents the fill type.
+Returns a  **[MsoFillType](Office.MsoFillType.md)** value that represents the fill type.
 
 
 ## Syntax
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

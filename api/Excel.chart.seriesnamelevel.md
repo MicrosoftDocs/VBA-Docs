@@ -18,7 +18,7 @@ Returns a  **[XlSeriesNameLevel Enumeration (Excel)](Excel.xlseriesnamelevel.md)
 
  _expression_. `SeriesNameLevel`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ For an  **Application** object, returns a **[Sheets](Excel.Sheets.md)** collecti
 
  _expression_. `Worksheets`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks
@@ -64,5 +64,5 @@ newSheet.Name = "current Budget"
 ## See also
 
 
-[Application Object](./Excel.Application(object).md)
+[Application Object](Excel.Application(object).md)
 

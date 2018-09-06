@@ -20,7 +20,7 @@ Transfers the entire specified Microsoft SQL Server database to another SQL Serv
 
  _expression_. `TransferSQLDatabase`( ` _Server_`, ` _Database_`, ` _UseTrustedConnection_`, ` _Login_`, ` _Password_`, ` _TransferCopyData_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

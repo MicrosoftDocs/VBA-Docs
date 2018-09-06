@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified button. Read/write 
 
  _expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

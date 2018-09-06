@@ -50,8 +50,8 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 |**Name**|
 |:-----|
-|[GetDependencyInfo](./Access.AccessObject.GetDependencyInfo.md)|
-|[IsDependentUpon](./Access.AccessObject.IsDependentUpon.md)|
+|[GetDependencyInfo](Access.AccessObject.GetDependencyInfo.md)|
+|[IsDependentUpon](Access.AccessObject.IsDependentUpon.md)|
 
 ## Properties
 
@@ -59,18 +59,18 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 |**Name**|
 |:-----|
-|[CurrentView](./Access.AccessObject.CurrentView.md)|
-|[DateCreated](./Access.AccessObject.DateCreated.md)|
-|[DateModified](./Access.AccessObject.DateModified.md)|
-|[FullName](./Access.AccessObject.FullName.md)|
-|[IsLoaded](./Access.AccessObject.IsLoaded.md)|
-|[IsWeb](./Access.AccessObject.IsWeb.md)|
-|[Name](./Access.AccessObject.Name.md)|
-|[Parent](./Access.AccessObject.Parent.md)|
-|[Properties](./Access.AccessObject.Properties.md)|
-|[Type](./Access.AccessObject.Type.md)|
+|[CurrentView](Access.AccessObject.CurrentView.md)|
+|[DateCreated](Access.AccessObject.DateCreated.md)|
+|[DateModified](Access.AccessObject.DateModified.md)|
+|[FullName](Access.AccessObject.FullName.md)|
+|[IsLoaded](Access.AccessObject.IsLoaded.md)|
+|[IsWeb](Access.AccessObject.IsWeb.md)|
+|[Name](Access.AccessObject.Name.md)|
+|[Parent](Access.AccessObject.Parent.md)|
+|[Properties](Access.AccessObject.Properties.md)|
+|[Type](Access.AccessObject.Type.md)|
 
 ## See also
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[Access Object Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[Access Object Object Members](overview/Access.md)

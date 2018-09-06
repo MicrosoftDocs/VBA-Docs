@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the control and its bottom 
 
  _expression_. `BottomPadding`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## See also

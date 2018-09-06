@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `PrintObject`
 
- _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
+ _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ You can use the  **OrderByOn** property to specify whether an object's **OrderBy
 
  _expression_. `OrderByOn`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the color of the gridline for the specified text box. Read/write  *
 
  _expression_. `GridlineColor`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

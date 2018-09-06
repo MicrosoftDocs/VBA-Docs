@@ -20,7 +20,7 @@ Returns a  **Long** value that specifies the number of criteria for an icon set 
 
  _expression_. `Count`
 
- _expression_ A variable that represents an [IconCriteria](./Excel.IconCriteria.md) object.
+ _expression_ A variable that represents an [IconCriteria](Excel.IconCriteria.md) object.
 
 
 ## Remarks

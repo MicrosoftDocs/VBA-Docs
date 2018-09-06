@@ -20,7 +20,7 @@ You can use the  **Connection** property to return a reference to the current Ac
 
  _expression_. `Connection`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

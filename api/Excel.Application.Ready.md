@@ -20,7 +20,7 @@ Returns  **True** when the Microsoft Excel application is ready; **False** when 
 
  _expression_. `Ready`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

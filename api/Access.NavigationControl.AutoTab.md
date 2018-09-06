@@ -20,7 +20,7 @@ You can use the  **AutoTab** property to specify whether an automatic tab occurs
 
  _expression_. `AutoTab`
 
- _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
+ _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

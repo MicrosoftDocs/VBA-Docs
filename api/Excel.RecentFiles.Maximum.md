@@ -20,7 +20,7 @@ Returns or sets the maximum number of files in the list of recently used files. 
 
  _expression_. `Maximum`
 
- _expression_ A variable that represents a [RecentFiles](./Excel.RecentFiles.md) object.
+ _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 
 
 ## Example

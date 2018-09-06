@@ -20,7 +20,7 @@ You can use the  **Modules** property to access the **[Modules](Access.Modules.m
 
  _expression_. `Modules`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

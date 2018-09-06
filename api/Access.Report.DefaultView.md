@@ -20,7 +20,7 @@ You can use the  **DefaultView** property to specify the opening view of a repor
 
  _expression_. `DefaultView`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

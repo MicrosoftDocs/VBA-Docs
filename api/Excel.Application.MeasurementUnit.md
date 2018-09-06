@@ -20,7 +20,7 @@ Specifies the measurement unit used in the application. Read/write  **xlMeasurem
 
  _expression_. `MeasurementUnit`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

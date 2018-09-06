@@ -20,7 +20,7 @@ You can use the  **Form** property to refer to a form or to refer to the form as
 
  _expression_. `Form`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

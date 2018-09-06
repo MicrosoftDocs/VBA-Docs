@@ -20,7 +20,7 @@ You can use the  **HyperlinkSubAddress** property to specify or determine a loca
 
  _expression_. `HyperlinkSubAddress`
 
- _expression_ A variable that represents an [Image](./Access.Image.md) object.
+ _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

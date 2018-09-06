@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlac
 
  _expression_. `Placement`
 
- _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
+ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## See also

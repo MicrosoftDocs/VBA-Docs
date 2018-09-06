@@ -22,7 +22,7 @@ Returns or sets whether lines are drawn inside the specified shape's boundaries.
 
 ### Return Value
 
- **[MsoTriState](./Office.MsoTriState.md)**
+ **[MsoTriState](Office.MsoTriState.md)**
 
 
 ## Remarks

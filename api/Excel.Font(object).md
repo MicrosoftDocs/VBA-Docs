@@ -59,4 +59,4 @@ Worksheets("Sheet1").Range("A1:C5").Font.Bold = True
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

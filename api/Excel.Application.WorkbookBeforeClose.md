@@ -20,7 +20,7 @@ Occurs immediately before any open workbook closes.
 
  _expression_. `WorkbookBeforeClose`( `_Wb_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

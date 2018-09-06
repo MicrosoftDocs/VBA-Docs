@@ -20,7 +20,7 @@ You can use the  **AllowAutoCorrect** property to specify whetherthe specified c
 
  _expression_. `AllowAutoCorrect`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

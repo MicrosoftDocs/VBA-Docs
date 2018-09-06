@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.FeatureInstall Property (Excel)
 
-Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](./Office.MsoFeatureInstall.md)** constants listed in the following table. Read/write **MsoFeatureInstall** .
+Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](Office.MsoFeatureInstall.md)** constants listed in the following table. Read/write **MsoFeatureInstall** .
 
 
 ## Syntax
 
  _expression_. `FeatureInstall`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

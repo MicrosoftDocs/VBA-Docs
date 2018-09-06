@@ -20,7 +20,7 @@ Returns a  **String** value that represents the label text for the cube field.
 
  _expression_. `Caption`
 
- _expression_ A variable that represents a [CubeField](./Excel.CubeField.md) object.
+ _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## See also

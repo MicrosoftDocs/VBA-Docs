@@ -20,7 +20,7 @@ Gets or sets the shade that is applied to the theme color in the  **PressedColor
 
  _expression_. `PressedShade`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

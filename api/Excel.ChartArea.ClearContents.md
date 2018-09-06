@@ -20,7 +20,7 @@ Clears the data from a chart but leaves the formatting.
 
  _expression_. `ClearContents`
 
- _expression_ A variable that represents a [ChartArea](./Excel.ChartArea(Graph property).md) object.
+ _expression_ A variable that represents a [ChartArea](Excel.ChartArea(Graph property).md) object.
 
 
 ### Return Value

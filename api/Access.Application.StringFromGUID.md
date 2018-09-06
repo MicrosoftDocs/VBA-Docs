@@ -20,7 +20,7 @@ The  **StringFromGUID** function converts a GUID, which is an array of type **By
 
  _expression_. `StringFromGUID`( ` _Guid_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

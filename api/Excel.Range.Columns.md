@@ -20,7 +20,7 @@ Returns a **[Range](Excel.Range(object).md)** object that represents the columns
 
  _expression_. `Columns`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks

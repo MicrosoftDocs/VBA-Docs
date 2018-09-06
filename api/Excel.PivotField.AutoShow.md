@@ -20,7 +20,7 @@ Displays the number of top or bottom items for a row, page, or column field in t
 
  _expression_. `AutoShow`( `_Type_` , `_Range_` , `_Count_` , `_Field_` )
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ### Parameters

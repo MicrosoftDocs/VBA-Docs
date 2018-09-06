@@ -20,7 +20,7 @@ You can use the  **SizeToFit** method to size a control so it fits the text or i
 
  _expression_. `SizeToFit`
 
- _expression_ A variable that represents a [PageBreak](./Access.PageBreak.md) object.
+ _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

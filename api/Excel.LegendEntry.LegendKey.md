@@ -20,7 +20,7 @@ Returns a  **[LegendKey](Excel.LegendKey(object).md)** object that represents th
 
  _expression_. `LegendKey`
 
- _expression_ A variable that represents a [LegendEntry](./Excel.LegendEntry(Graph object).md) object.
+ _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry(Graph object).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets or sets the color displayed on alternate rows of a form's datasheet. Read/w
 
  _expression_. `DatasheetAlternateBackColor`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

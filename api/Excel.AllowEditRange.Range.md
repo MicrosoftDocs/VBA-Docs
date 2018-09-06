@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents a subset o
 
  _expression_. `Range`
 
- _expression_ A variable that represents an [AllowEditRange](./Excel.AllowEditRange.md) object.
+ _expression_ A variable that represents an [AllowEditRange](Excel.AllowEditRange.md) object.
 
 
 ## See also

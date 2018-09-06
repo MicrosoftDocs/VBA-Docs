@@ -20,7 +20,7 @@ When the  **[Range](Excel.Range(object).md)** object represents a single cell in
 
  _expression_. `Group`( `_Start_` , `_End_` , `_By_` , `_Periods_` )
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Parameters

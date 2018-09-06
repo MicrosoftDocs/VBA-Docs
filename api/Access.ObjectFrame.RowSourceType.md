@@ -20,7 +20,7 @@ You can use the  **RowSourceType** property (along with the **RowSource** proper
 
  _expression_. `RowSourceType`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use this property to set or return the unedited value of the  **BorderSt
 
  _expression_. `OldBorderStyle`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

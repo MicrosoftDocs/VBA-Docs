@@ -20,7 +20,7 @@ Finds specified text in a standard module or class module.
 
  _expression_. `Find`( ` _Target_`, ` _StartLine_`, ` _StartColumn_`, ` _EndLine_`, ` _EndColumn_`, ` _WholeWord_`, ` _MatchCase_`, ` _PatternSearch_` )
 
- _expression_ A variable that represents a [Module](./Access.Module.md) object.
+ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters

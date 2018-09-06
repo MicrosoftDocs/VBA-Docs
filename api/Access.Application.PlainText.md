@@ -20,7 +20,7 @@ Strips the rich text formatting from a string and returns an unformatted text st
 
  _expression_. `PlainText`( ` _RichText_`, ` _Length_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

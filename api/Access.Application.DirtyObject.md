@@ -20,7 +20,7 @@ Marks a form or report as dirty.
 
  _expression_. `DirtyObject`( ` _ObjectType_`, ` _ObjectName_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

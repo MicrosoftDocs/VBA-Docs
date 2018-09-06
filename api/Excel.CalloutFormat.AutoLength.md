@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutoLength Property (Excel)
 
-Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read/write **[MsoTriState](Office.MsoTriState.md)** .
 
 
 ## Syntax
 
  _expression_. `AutoLength`
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## Remarks

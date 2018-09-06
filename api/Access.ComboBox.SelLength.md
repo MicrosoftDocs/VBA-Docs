@@ -20,7 +20,7 @@ The  **SelLength** property specifies or determines the number of characters sel
 
  _expression_. `SelLength`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

@@ -68,4 +68,4 @@ With myDocument.Shapes(1).PictureFormat
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

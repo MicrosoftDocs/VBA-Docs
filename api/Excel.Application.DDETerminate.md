@@ -20,7 +20,7 @@ Closes a channel to another application.
 
  _expression_. `DDETerminate`( `_Channel_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

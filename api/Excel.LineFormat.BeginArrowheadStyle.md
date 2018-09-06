@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.BeginArrowheadStyle Property (Excel)
 
-Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](./Office.MsoArrowheadStyle.md)** .
+Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** .
 
 
 ## Syntax
 
  _expression_. `BeginArrowheadStyle`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Example

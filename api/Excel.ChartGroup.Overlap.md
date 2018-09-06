@@ -20,7 +20,7 @@ Specifies how bars and columns are positioned. Can be a value between - 100 and 
 
  _expression_. `Overlap`
 
- _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
+ _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
 
 
 ## Remarks

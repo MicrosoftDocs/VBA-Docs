@@ -20,7 +20,7 @@ Returns or sets the type of underline applied to the font. Read/write **Variant*
 
  _expression_. `Underline`
 
- _expression_ A variable that represents a [Font](./Excel.Font(Graph property).md) object.
+ _expression_ A variable that represents a [Font](Excel.Font(Graph property).md) object.
 
 
 ## Remarks

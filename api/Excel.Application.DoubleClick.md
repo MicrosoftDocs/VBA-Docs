@@ -20,7 +20,7 @@ Equivalent to double-clicking the active cell.
 
  _expression_. `DoubleClick`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

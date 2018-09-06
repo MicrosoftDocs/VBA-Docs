@@ -51,4 +51,4 @@ To return the collection of actions available for the smart tag, use the  **[Sma
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

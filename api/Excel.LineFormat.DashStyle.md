@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.DashStyle Property (Excel)
 
-Returns or sets the dash style for the specified line. Can be one of the  **[MsoLineDashStyle](./Office.MsoLineDashStyle.md)** contants. Read/write **Long** .
+Returns or sets the dash style for the specified line. Can be one of the  **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** contants. Read/write **Long** .
 
 
 ## Syntax
 
  _expression_. `DashStyle`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Example

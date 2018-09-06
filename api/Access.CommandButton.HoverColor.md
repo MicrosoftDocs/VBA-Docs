@@ -20,7 +20,7 @@ Gets or sets the color displayed on the control when the user rests the mouse cu
 
  _expression_. `HoverColor`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

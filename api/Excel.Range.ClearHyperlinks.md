@@ -20,7 +20,7 @@ Removes all hyperlinks from the specified range.
 
  _expression_. `ClearHyperlinks`
 
- _expression_ A variable that returns a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that returns a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Return Value

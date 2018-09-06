@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the perspective for the 3-D ch
 
  _expression_. `Perspective`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

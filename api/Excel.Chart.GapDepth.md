@@ -20,7 +20,7 @@ Returns or sets the distance between the data series in a 3-D chart, as a percen
 
  _expression_. `GapDepth`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Example

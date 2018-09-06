@@ -20,7 +20,7 @@ The  **DefaultControl** property returns a **[Control](Access.Control.md)** obje
 
  _expression_. `DefaultControl`( ` _ControlType_` )
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

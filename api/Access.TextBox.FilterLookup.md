@@ -20,7 +20,7 @@ You can use the  **FilterLookup** property to specify whether values appear in a
 
  _expression_. `FilterLookup`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the width of the right gridline for the specified control. Read/wri
 
  _expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

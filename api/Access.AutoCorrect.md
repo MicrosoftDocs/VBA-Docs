@@ -36,4 +36,4 @@ To enable or disable AutoCorrect functionality for a particular  **TextBox** or 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

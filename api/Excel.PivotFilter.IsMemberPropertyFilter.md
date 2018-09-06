@@ -20,7 +20,7 @@ Specifies whether the label filter is based on the PivotItem captions of a membe
 
  _expression_. `IsMemberPropertyFilter`
 
- _expression_ A variable that represents a [PivotFilter](./Excel.PivotFilter.md) object.
+ _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks

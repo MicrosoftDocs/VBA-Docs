@@ -20,7 +20,7 @@ You can use the  **ListIndex** property to determine which item is selected in a
 
  _expression_. `ListIndex`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

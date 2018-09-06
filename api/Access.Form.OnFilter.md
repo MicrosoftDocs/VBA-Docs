@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Filter** box in the **Properties** window
 
  _expression_. `OnFilter`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

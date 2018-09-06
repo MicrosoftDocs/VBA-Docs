@@ -20,7 +20,7 @@ You can use the  **BorderWidth** property to specify the width of a control's bo
 
  _expression_. `BorderWidth`
 
- _expression_ A variable that represents an [Image](./Access.Image.md) object.
+ _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

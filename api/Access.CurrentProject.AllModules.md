@@ -20,7 +20,7 @@ You can use the  **AllModules** property to reference the **[AllModules](Access.
 
  _expression_. `AllModules`
 
- _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
+ _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

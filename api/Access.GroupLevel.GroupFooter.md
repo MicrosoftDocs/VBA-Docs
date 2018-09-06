@@ -20,7 +20,7 @@ You can use the  **GroupFooter** property to create a group footer for a selecte
 
  _expression_. `GroupFooter`
 
- _expression_ A variable that represents a [GroupLevel](./Access.GroupLevel.md) object.
+ _expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
 
 
 ## Remarks

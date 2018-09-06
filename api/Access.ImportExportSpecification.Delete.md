@@ -20,7 +20,7 @@ Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecific
 
  _expression_. `Delete`
 
- _expression_ A variable that represents an [ImportExportSpecification](./Access.ImportExportSpecification.md) object.
+ _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## See also

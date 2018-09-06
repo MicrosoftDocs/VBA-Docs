@@ -20,7 +20,7 @@ You can use the  **LanguageSettings** property to return a read-only reference t
 
  _expression_. `LanguageSettings`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

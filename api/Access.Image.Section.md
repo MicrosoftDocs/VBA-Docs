@@ -20,7 +20,7 @@ You can identify these controls by the section of a form or report where the con
 
  _expression_. `Section`
 
- _expression_ A variable that represents an [Image](./Access.Image.md) object.
+ _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

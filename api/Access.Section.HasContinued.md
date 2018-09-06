@@ -20,7 +20,7 @@ You can use the  **HasContinued** property to determine if part of the current s
 
  _expression_. `HasContinued`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

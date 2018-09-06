@@ -20,7 +20,7 @@ Checks the spelling of a single word.
 
  _expression_. `CheckSpelling`( `_Word_` , `_CustomDictionary_` , `_IgnoreUppercase_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

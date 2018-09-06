@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetGradientType Property (Excel)
 
-Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](./Office.MsoPresetGradientType.md)** .
+Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](Office.MsoPresetGradientType.md)** .
 
 
 ## Syntax
 
  _expression_. `PresetGradientType`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

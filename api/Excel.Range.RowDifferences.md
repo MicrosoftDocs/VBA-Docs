@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
  _expression_. `RowDifferences`( `_Comparison_` )
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Parameters

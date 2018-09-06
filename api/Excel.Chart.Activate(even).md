@@ -20,7 +20,7 @@ Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
  _expression_. `Activate`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

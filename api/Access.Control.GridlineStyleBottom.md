@@ -20,7 +20,7 @@ Gets or sets the bottom gridline style of the specified control. Read/write  **B
 
  _expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

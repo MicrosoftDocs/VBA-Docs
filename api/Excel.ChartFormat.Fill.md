@@ -20,7 +20,7 @@ Returns a  **[FillFormat](Excel.FillFormat.md)** object for the parent chart ele
 
  _expression_. `Fill`
 
- _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
+ _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## See also

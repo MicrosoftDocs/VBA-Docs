@@ -20,7 +20,7 @@ You can use the  **InSelection** property to determine or specify whether a cont
 
  _expression_. `InSelection`
 
- _expression_ A variable that represents a [PageBreak](./Access.PageBreak.md) object.
+ _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

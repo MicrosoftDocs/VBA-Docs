@@ -30,7 +30,7 @@ Use the  **[Charts](Excel.Workbook.Charts.md)** property to return the **Charts*
 Charts.PrintOut
 ```
 
-Use the  **[Add](./overview/Excel.md)** method to create a new chart sheet and add it to the workbook. The following example adds a new chart sheet to the active workbook and places the new chart sheet immediately after the worksheet named Sheet1.
+Use the  **[Add](overview/Excel.md)** method to create a new chart sheet and add it to the workbook. The following example adds a new chart sheet to the active workbook and places the new chart sheet immediately after the worksheet named Sheet1.
 
 
 
@@ -95,4 +95,4 @@ The  **[Sheets](Excel.Sheets.md)** collection contains all the sheets in the wor
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

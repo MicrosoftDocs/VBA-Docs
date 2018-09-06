@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.Crop Property (Excel)
 
-Returns an  **[Crop](./Office.Crop.md)** object that represents the cropping settings for the specified **[PictureFormat](Excel.PictureFormat.md)** object. Read-only
+Returns an  **[Crop](Office.Crop.md)** object that represents the cropping settings for the specified **[PictureFormat](Excel.PictureFormat.md)** object. Read-only
 
 
 ## Syntax
 
  _expression_. `Crop`
 
- _expression_ A variable that represents a [PictureFormat](./Excel.PictureFormat.md) object.
+ _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
  _expression_. `Left`
 
- _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
+ _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ## Example

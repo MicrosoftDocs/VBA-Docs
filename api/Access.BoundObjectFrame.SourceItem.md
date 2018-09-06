@@ -20,7 +20,7 @@ You can use the  **SourceItem** property to specify the data within a file to be
 
  _expression_. `SourceItem`
 
- _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
+ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

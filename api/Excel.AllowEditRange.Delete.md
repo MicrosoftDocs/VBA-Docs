@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents an [AllowEditRange](./Excel.AllowEditRange.md) object.
+ _expression_ A variable that represents an [AllowEditRange](Excel.AllowEditRange.md) object.
 
 
 ## See also

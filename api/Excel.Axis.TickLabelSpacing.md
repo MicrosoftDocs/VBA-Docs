@@ -20,7 +20,7 @@ Returns or sets the number of categories or series between tick-mark labels. App
 
  _expression_. `TickLabelSpacing`
 
- _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
 
 
 ## Remarks

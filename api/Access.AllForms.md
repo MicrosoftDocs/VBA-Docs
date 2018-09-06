@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllForms Object (Access)
 
-The  **AllForms** collection contains an **[AccessObject](Access.AccessObject.md)** object for each form in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](./Access.CodeProject.md)** object.
+The  **AllForms** collection contains an **[AccessObject](Access.AccessObject.md)** object for each form in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ You can refer to an individual  **AccessObject** object in the **AllForms** coll
 The  **AllForms** collection is indexed beginning with zero. If you refer to a form by its index, the first form is AllForms(0), the second form is AllForms(1), and so on.
 
 
- **Note**  To list all open forms in the database, use the  **[IsLoaded](./Access.AccessObject.IsLoaded.md)** property of each **AccessObject** object in the **AllForms** collection. You can then use the **Name** property of each individual **AccessObject** object to return the name of a form.
+ **Note**  To list all open forms in the database, use the  **[IsLoaded](Access.AccessObject.IsLoaded.md)** property of each **AccessObject** object in the **AllForms** collection. You can then use the **Name** property of each individual **AccessObject** object to return the name of a form.
 
 You can't add or delete an  **AccessObject** object from the **AllForms** collection.
 
@@ -71,10 +71,10 @@ End If
 
 |**Name**|
 |:-----|
-|[Application](./Access.AllForms.Application.md)|
-|[Count](./Access.AllForms.Count.md)|
-|[Item](./Access.AllForms.Item.md)|
-|[Parent](./Access.AllForms.Parent.md)|
+|[Application](Access.AllForms.Application.md)|
+|[Count](Access.AllForms.Count.md)|
+|[Item](Access.AllForms.Item.md)|
+|[Parent](Access.AllForms.Parent.md)|
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
@@ -89,5 +89,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[AllForms Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[AllForms Object Members](overview/Access.md)

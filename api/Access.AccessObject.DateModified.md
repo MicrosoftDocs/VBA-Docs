@@ -20,7 +20,7 @@ Returns a  **Date** indicating the date and time when the design of the specifie
 
  _expression_. `DateModified`
 
- _expression_ A variable that represents an [AccessObject](./Access.AccessObject.md) object.
+ _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Example

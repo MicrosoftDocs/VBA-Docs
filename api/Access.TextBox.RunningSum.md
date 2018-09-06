@@ -20,7 +20,7 @@ You can use the  **RunningSum** property to calculate record-by-record or group-
 
  _expression_. `RunningSum`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

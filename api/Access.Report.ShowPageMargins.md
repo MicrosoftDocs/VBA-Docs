@@ -20,7 +20,7 @@ Gets or sets whether page margins are displayed when the specified report is in 
 
  _expression_. `ShowPageMargins`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

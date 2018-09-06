@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Dbl Click** box in the **Properties** win
 
  _expression_. `OnDblClick`
 
- _expression_ A variable that represents an [Image](./Access.Image.md) object.
+ _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

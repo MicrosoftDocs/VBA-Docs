@@ -1,13 +1,14 @@
 ---
-title: Enumerations (Access)|bla|
-
+title: Enumerations (Access)
+description: Documentation for the enumerations in the VBA Access object model.
 ms.assetid: ae409681-908e-f4d2-a891-a39d504a7983
-ms.date: 06/08/2017
+ms.date: 09/05/2018
 ms.prod: access
 ---
 
 
 # Enumerations (Access)
+
 This section contains documentation for the enumerations in the Access object model.
 
 |Enumeration|Description|
@@ -42,7 +43,7 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcHorizontalAnchor Enumeration](Access.AcHorizontalAnchor.md)|Used with the  **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.|
 | [AcHyperlinkPart Enumeration](Access.AcHyperlinkPart.md)|Specifies the the information you want returned by the  **HyperlinkPart** method.|
 | [AcImeMode Enumeration](Access.AcImeMode.md)|Specifies the default startup mode for the Japanese Input Method Editor (IME). |
-| [AcImeSentenceMode Enumeration](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](./overview/Access.md) property to specify the IME sentence mode for the IMM.|
+| [AcImeSentenceMode Enumeration](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](overview/Access.md) property to specify the IME sentence mode for the IMM.|
 | [AcImportXMLOption Enumeration](Access.AcImportXMLOption.md)|Specifies the action to take when using the [Application.ImportXML Method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.|
 | [AcLayoutType Enumeration](Access.AcLayoutType.md)|Specifies the type of layout that the control is part of.|
 | [AcModuleType Enumeration](Access.AcModuleType.md)|Returns the type of the specified Visual Basic module.|

@@ -20,7 +20,7 @@ Loads XML markup that represents a customized ribbon.
 
  _expression_. `LoadCustomUI`( ` _CustomUIName_`, ` _CustomUIXML_` )
 
- _expression_ An expression that returns a [Application](./Access.Application.md) object.
+ _expression_ An expression that returns a [Application](Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Indicates whether the GUID specified in the  _ServiceID_ parameter corresponds t
 
  _expression_. `IsResearchService`( `_ServiceID_` )
 
- _expression_ A variable that represents a [Research](./Excel.Research.md) object.
+ _expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
 ### Parameters

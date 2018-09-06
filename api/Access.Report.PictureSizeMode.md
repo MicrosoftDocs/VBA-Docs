@@ -20,7 +20,7 @@ You can use the  **PictureSizeMode** property to specify how a picture for a for
 
  _expression_. `PictureSizeMode`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

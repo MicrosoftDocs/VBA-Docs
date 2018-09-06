@@ -20,7 +20,7 @@ Specifies whether a report opens as a pop-up window. Read/write  **Boolean**.
 
  _expression_. `PopUp`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

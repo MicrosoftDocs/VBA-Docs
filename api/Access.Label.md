@@ -44,11 +44,11 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 |**Name**|
 |:-----|
-|[Click](./Access.Label.Click.md)|
-|[DblClick](./Access.Label.DblClick.md)|
-|[MouseDown](./Access.Label.MouseDown.md)|
-|[MouseMove](./Access.Label.MouseMove.md)|
-|[MouseUp](./Access.Label.MouseUp.md)|
+|[Click](Access.Label.Click.md)|
+|[DblClick](Access.Label.DblClick.md)|
+|[MouseDown](Access.Label.MouseDown.md)|
+|[MouseMove](Access.Label.MouseMove.md)|
+|[MouseUp](Access.Label.MouseUp.md)|
 
 ## Methods
 
@@ -56,8 +56,8 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 |**Name**|
 |:-----|
-|[Move](./Access.Label.Move.md)|
-|[SizeToFit](./Access.Label.SizeToFit.md)|
+|[Move](Access.Label.Move.md)|
+|[SizeToFit](Access.Label.SizeToFit.md)|
 
 ## Properties
 
@@ -65,91 +65,91 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 |**Name**|
 |:-----|
-|[Application](./Access.Label.Application.md)|
-|[BackColor](./Access.Label.BackColor.md)|
-|[BackShade](./Access.Label.BackShade.md)|
-|[BackStyle](./Access.Label.BackStyle.md)|
-|[BackThemeColorIndex](./Access.Label.BackThemeColorIndex.md)|
-|[BackTint](./Access.Label.BackTint.md)|
-|[BorderColor](./Access.Label.BorderColor.md)|
-|[BorderShade](./Access.Label.BorderShade.md)|
-|[BorderStyle](./Access.Label.BorderStyle.md)|
-|[BorderThemeColorIndex](./Access.Label.BorderThemeColorIndex.md)|
-|[BorderTint](./Access.Label.BorderTint.md)|
-|[BorderWidth](./Access.Label.BorderWidth.md)|
-|[BottomMargin](./Access.Label.BottomMargin.md)|
-|[BottomPadding](./Access.Label.BottomPadding.md)|
-|[Caption](./Access.Label.Caption.md)|
-|[ControlTipText](./Access.Label.ControlTipText.md)|
-|[ControlType](./Access.Label.ControlType.md)|
-|[DisplayWhen](./Access.Label.DisplayWhen.md)|
-|[EventProcPrefix](./Access.Label.EventProcPrefix.md)|
-|[FontBold](./Access.Label.FontBold.md)|
-|[FontItalic](./Access.Label.FontItalic.md)|
-|[FontName](./Access.Label.FontName.md)|
-|[FontSize](./Access.Label.FontSize.md)|
-|[FontUnderline](./Access.Label.FontUnderline.md)|
-|[FontWeight](./Access.Label.FontWeight.md)|
-|[ForeColor](./Access.Label.ForeColor.md)|
-|[ForeShade](./Access.Label.ForeShade.md)|
-|[ForeThemeColorIndex](./Access.Label.ForeThemeColorIndex.md)|
-|[ForeTint](./Access.Label.ForeTint.md)|
-|[GridlineColor](./Access.Label.GridlineColor.md)|
-|[GridlineShade](./Access.Label.GridlineShade.md)|
-|[GridlineStyleBottom](./Access.Label.GridlineStyleBottom.md)|
-|[GridlineStyleLeft](./Access.Label.GridlineStyleLeft.md)|
-|[GridlineStyleRight](./Access.Label.GridlineStyleRight.md)|
-|[GridlineStyleTop](./Access.Label.GridlineStyleTop.md)|
-|[GridlineThemeColorIndex](./Access.Label.GridlineThemeColorIndex.md)|
-|[GridlineTint](./Access.Label.GridlineTint.md)|
-|[GridlineWidthBottom](./Access.Label.GridlineWidthBottom.md)|
-|[GridlineWidthLeft](./Access.Label.GridlineWidthLeft.md)|
-|[GridlineWidthRight](./Access.Label.GridlineWidthRight.md)|
-|[GridlineWidthTop](./Access.Label.GridlineWidthTop.md)|
-|[Height](./Access.Label.Height.md)|
-|[HelpContextId](./Access.Label.HelpContextId.md)|
-|[HorizontalAnchor](./Access.Label.HorizontalAnchor.md)|
-|[Hyperlink](./Access.Label.Hyperlink.md)|
-|[HyperlinkAddress](./Access.Label.HyperlinkAddress.md)|
-|[HyperlinkSubAddress](./Access.Label.HyperlinkSubAddress.md)|
-|[InSelection](./Access.Label.InSelection.md)|
-|[IsVisible](./Access.Label.IsVisible.md)|
-|[Layout](./Access.Label.Layout.md)|
-|[LayoutID](./Access.Label.LayoutID.md)|
-|[Left](./Access.Label.Left.md)|
-|[LeftMargin](./Access.Label.LeftMargin.md)|
-|[LeftPadding](./Access.Label.LeftPadding.md)|
-|[LineSpacing](./Access.Label.LineSpacing.md)|
-|[Name](./Access.Label.Name.md)|
-|[NumeralShapes](./Access.Label.NumeralShapes.md)|
-|[OldBorderStyle](./Access.Label.OldBorderStyle.md)|
-|[OnClick](./Access.Label.OnClick.md)|
-|[OnDblClick](./Access.Label.OnDblClick.md)|
-|[OnMouseDown](./Access.Label.OnMouseDown.md)|
-|[OnMouseMove](./Access.Label.OnMouseMove.md)|
-|[OnMouseUp](./Access.Label.OnMouseUp.md)|
-|[Parent](./Access.Label.Parent.md)|
-|[Properties](./Access.Label.Properties.md)|
-|[ReadingOrder](./Access.Label.ReadingOrder.md)|
-|[RightMargin](./Access.Label.RightMargin.md)|
-|[RightPadding](./Access.Label.RightPadding.md)|
-|[Section](./Access.Label.Section.md)|
-|[ShortcutMenuBar](./Access.Label.ShortcutMenuBar.md)|
-|[SmartTags](./Access.Label.SmartTags.md)|
-|[SpecialEffect](./Access.Label.SpecialEffect.md)|
-|[Tag](./Access.Label.Tag.md)|
-|[TextAlign](./Access.Label.TextAlign.md)|
-|[ThemeFontIndex](./Access.Label.ThemeFontIndex.md)|
-|[Top](./Access.Label.Top.md)|
-|[TopMargin](./Access.Label.TopMargin.md)|
-|[TopPadding](./Access.Label.TopPadding.md)|
-|[Vertical](./Access.Label.Vertical.md)|
-|[VerticalAnchor](./Access.Label.VerticalAnchor.md)|
-|[Visible](./Access.Label.Visible.md)|
-|[Width](./Access.Label.Width.md)|
+|[Application](Access.Label.Application.md)|
+|[BackColor](Access.Label.BackColor.md)|
+|[BackShade](Access.Label.BackShade.md)|
+|[BackStyle](Access.Label.BackStyle.md)|
+|[BackThemeColorIndex](Access.Label.BackThemeColorIndex.md)|
+|[BackTint](Access.Label.BackTint.md)|
+|[BorderColor](Access.Label.BorderColor.md)|
+|[BorderShade](Access.Label.BorderShade.md)|
+|[BorderStyle](Access.Label.BorderStyle.md)|
+|[BorderThemeColorIndex](Access.Label.BorderThemeColorIndex.md)|
+|[BorderTint](Access.Label.BorderTint.md)|
+|[BorderWidth](Access.Label.BorderWidth.md)|
+|[BottomMargin](Access.Label.BottomMargin.md)|
+|[BottomPadding](Access.Label.BottomPadding.md)|
+|[Caption](Access.Label.Caption.md)|
+|[ControlTipText](Access.Label.ControlTipText.md)|
+|[ControlType](Access.Label.ControlType.md)|
+|[DisplayWhen](Access.Label.DisplayWhen.md)|
+|[EventProcPrefix](Access.Label.EventProcPrefix.md)|
+|[FontBold](Access.Label.FontBold.md)|
+|[FontItalic](Access.Label.FontItalic.md)|
+|[FontName](Access.Label.FontName.md)|
+|[FontSize](Access.Label.FontSize.md)|
+|[FontUnderline](Access.Label.FontUnderline.md)|
+|[FontWeight](Access.Label.FontWeight.md)|
+|[ForeColor](Access.Label.ForeColor.md)|
+|[ForeShade](Access.Label.ForeShade.md)|
+|[ForeThemeColorIndex](Access.Label.ForeThemeColorIndex.md)|
+|[ForeTint](Access.Label.ForeTint.md)|
+|[GridlineColor](Access.Label.GridlineColor.md)|
+|[GridlineShade](Access.Label.GridlineShade.md)|
+|[GridlineStyleBottom](Access.Label.GridlineStyleBottom.md)|
+|[GridlineStyleLeft](Access.Label.GridlineStyleLeft.md)|
+|[GridlineStyleRight](Access.Label.GridlineStyleRight.md)|
+|[GridlineStyleTop](Access.Label.GridlineStyleTop.md)|
+|[GridlineThemeColorIndex](Access.Label.GridlineThemeColorIndex.md)|
+|[GridlineTint](Access.Label.GridlineTint.md)|
+|[GridlineWidthBottom](Access.Label.GridlineWidthBottom.md)|
+|[GridlineWidthLeft](Access.Label.GridlineWidthLeft.md)|
+|[GridlineWidthRight](Access.Label.GridlineWidthRight.md)|
+|[GridlineWidthTop](Access.Label.GridlineWidthTop.md)|
+|[Height](Access.Label.Height.md)|
+|[HelpContextId](Access.Label.HelpContextId.md)|
+|[HorizontalAnchor](Access.Label.HorizontalAnchor.md)|
+|[Hyperlink](Access.Label.Hyperlink.md)|
+|[HyperlinkAddress](Access.Label.HyperlinkAddress.md)|
+|[HyperlinkSubAddress](Access.Label.HyperlinkSubAddress.md)|
+|[InSelection](Access.Label.InSelection.md)|
+|[IsVisible](Access.Label.IsVisible.md)|
+|[Layout](Access.Label.Layout.md)|
+|[LayoutID](Access.Label.LayoutID.md)|
+|[Left](Access.Label.Left.md)|
+|[LeftMargin](Access.Label.LeftMargin.md)|
+|[LeftPadding](Access.Label.LeftPadding.md)|
+|[LineSpacing](Access.Label.LineSpacing.md)|
+|[Name](Access.Label.Name.md)|
+|[NumeralShapes](Access.Label.NumeralShapes.md)|
+|[OldBorderStyle](Access.Label.OldBorderStyle.md)|
+|[OnClick](Access.Label.OnClick.md)|
+|[OnDblClick](Access.Label.OnDblClick.md)|
+|[OnMouseDown](Access.Label.OnMouseDown.md)|
+|[OnMouseMove](Access.Label.OnMouseMove.md)|
+|[OnMouseUp](Access.Label.OnMouseUp.md)|
+|[Parent](Access.Label.Parent.md)|
+|[Properties](Access.Label.Properties.md)|
+|[ReadingOrder](Access.Label.ReadingOrder.md)|
+|[RightMargin](Access.Label.RightMargin.md)|
+|[RightPadding](Access.Label.RightPadding.md)|
+|[Section](Access.Label.Section.md)|
+|[ShortcutMenuBar](Access.Label.ShortcutMenuBar.md)|
+|[SmartTags](Access.Label.SmartTags.md)|
+|[SpecialEffect](Access.Label.SpecialEffect.md)|
+|[Tag](Access.Label.Tag.md)|
+|[TextAlign](Access.Label.TextAlign.md)|
+|[ThemeFontIndex](Access.Label.ThemeFontIndex.md)|
+|[Top](Access.Label.Top.md)|
+|[TopMargin](Access.Label.TopMargin.md)|
+|[TopPadding](Access.Label.TopPadding.md)|
+|[Vertical](Access.Label.Vertical.md)|
+|[VerticalAnchor](Access.Label.VerticalAnchor.md)|
+|[Visible](Access.Label.Visible.md)|
+|[Width](Access.Label.Width.md)|
 
 ## See also
 
 
-[Label Object Members](./overview/Access.md)<br/>
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Label Object Members](overview/Access.md)<br/>
+[Access Object Model Reference](overview/Access/object-model.md)

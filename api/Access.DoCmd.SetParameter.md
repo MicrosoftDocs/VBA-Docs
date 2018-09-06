@@ -20,7 +20,7 @@ Use the  **SetParameter** method to create a parameter for use by the **[BrowseT
 
  _expression_. `SetParameter`( ` _Name_`, ` _Expression_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

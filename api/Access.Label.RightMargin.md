@@ -20,7 +20,7 @@ Along with the  **TopMargin**, **Left Margin**, and **BottomMargin** properties,
 
  _expression_. `RightMargin`
 
- _expression_ A variable that represents a [Label](./Access.Label.md) object.
+ _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

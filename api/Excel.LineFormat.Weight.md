@@ -20,7 +20,7 @@ Returns or sets a  **Single** value that represents the weight of the line.
 
  _expression_. `Weight`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also

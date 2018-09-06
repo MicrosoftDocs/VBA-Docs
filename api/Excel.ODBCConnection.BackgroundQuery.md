@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `BackgroundQuery`
 
- _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
+ _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## See also

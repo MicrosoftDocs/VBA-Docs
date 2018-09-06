@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified check box. Read/wri
 
  _expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

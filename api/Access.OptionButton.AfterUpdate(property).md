@@ -20,7 +20,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
  _expression_. `AfterUpdate`
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

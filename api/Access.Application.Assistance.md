@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Access)
 
-Returns an  **[IAssistance](./Office.IAssistance.md)** object that represents the Microsoft Office Help Viewer. Read-only.
+Returns an  **[IAssistance](Office.IAssistance.md)** object that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax
 
  _expression_. `Assistance`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -18,12 +18,12 @@ Returns or sets the concurrent calculation mode.
 
 ## Syntax
 
- _expression_ . [MultiThreadedCalculation](./Excel.MultiThreadedCalculation.md)
+ _expression_ . [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md)
 
 
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 
 

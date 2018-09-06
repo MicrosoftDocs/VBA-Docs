@@ -20,7 +20,7 @@ The  **Major** property of a **[Reference](Access.Reference.md)** object returns
 
  _expression_. `Major`
 
- _expression_ A variable that represents a [Reference](./Access.Reference.md) object.
+ _expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

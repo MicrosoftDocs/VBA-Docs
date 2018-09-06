@@ -20,7 +20,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
  _expression_. `Click`
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

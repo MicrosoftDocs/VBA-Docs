@@ -19,6 +19,6 @@ The  **PivotLines** object is a collection of lines in a PivotTable, containing 
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 
 

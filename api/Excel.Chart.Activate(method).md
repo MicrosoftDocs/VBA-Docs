@@ -20,7 +20,7 @@ Makes the current chart the active chart.
 
  _expression_. `Activate`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## See also

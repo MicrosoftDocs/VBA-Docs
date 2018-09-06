@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates if the range can be edited on a prot
 
  _expression_. `AllowEdit`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Example

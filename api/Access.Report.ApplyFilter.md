@@ -20,7 +20,7 @@ Occurs when a filter is applied to a report.
 
  _expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

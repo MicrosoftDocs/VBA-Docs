@@ -20,7 +20,7 @@ You can use the  **NewRowOrCol** property to specify whether a section and its a
 
  _expression_. `NewRowOrCol`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

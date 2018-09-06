@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified toggle button. Read/write  
 
  _expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

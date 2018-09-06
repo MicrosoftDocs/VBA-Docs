@@ -20,7 +20,7 @@ Returns or sets a  **String** representing version and copyright information for
 
  _expression_. `About`
 
- _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
+ _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

@@ -37,4 +37,4 @@ The  **RetunVars** collection can store up to 255 **ReturnVar** objects.
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

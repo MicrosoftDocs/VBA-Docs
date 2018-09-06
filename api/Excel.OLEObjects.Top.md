@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
  _expression_. `Top`
 
- _expression_ A variable that represents an [OLEObjects](./Excel.OLEObjects.md) object.
+ _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
 ## See also

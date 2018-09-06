@@ -21,7 +21,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
  _expression_. `LabelX`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

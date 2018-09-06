@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.NewWorkbook Property (Excel)
 
-Returns a  **[NewFile](./Office.NewFile.md)** object.
+Returns a  **[NewFile](Office.NewFile.md)** object.
 
 
 ## Syntax
 
  _expression_. `NewWorkbook`
 
- _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
+ _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
 ### Return Value

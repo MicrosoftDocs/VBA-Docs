@@ -20,7 +20,7 @@ Adds a point in the current shape and then draws a line from the current node to
 
  _expression_. `AddNodes`( `_SegmentType_` , `_EditingType_` , `_X1_` , `_Y1_` , `_X2_` , `_Y2_` , `_X3_` , `_Y3_` )
 
- _expression_ A variable that represents a [FreeformBuilder](./Excel.FreeformBuilder.md) object.
+ _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
 
 
 ### Parameters
@@ -29,8 +29,8 @@ Adds a point in the current shape and then draws a line from the current node to
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SegmentType_|Required| **[MsoSegmentType](./Office.MsoSegmentType.md)**|The type of segment to be added.|
-| _EditingType_|Required| **[MsoEditingType](./Office.MsoEditingType.md)**|The editing property of the vertex.|
+| _SegmentType_|Required| **[MsoSegmentType](Office.MsoSegmentType.md)**|The type of segment to be added.|
+| _EditingType_|Required| **[MsoEditingType](Office.MsoEditingType.md)**|The editing property of the vertex.|
 | _X1_|Required| **Single**|If the  _EditingType_ of the new segment is **msoEditingAuto** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the end point of the new segment. If the _EditingType_ of the new node is **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
 | _Y1_|Required| **Single**|If the  _EditingType_ of the new segment is **msoEditingAuto** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the end point of the new segment. If the _EditingType_ of the new node is **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the first control point for the new segment.|
 | _X2_|Optional| **Variant**|If the  _EditingType_ of the new segment is **msoEditingCorner** , this argument specifies the horizontal distance (in points) from the upper-left corner of the document to the second control point for the new segment. If the _EditingType_ of the new segment is **msoEditingAuto** , don't specify a value for this argument.|

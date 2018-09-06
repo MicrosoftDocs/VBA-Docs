@@ -20,7 +20,7 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 
  _expression_. `WorkbookBeforeXmlExport`( `_Wb_` , `_Map_` , `_Url_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters
@@ -48,5 +48,5 @@ Use the  **[BeforeXmlExport](Excel.Workbook.BeforeXmlImport.md)** event if you w
 
 
 [Workbook Object](Excel.Workbook.md)
-[Application Object](./Excel.Application(object).md)
+[Application Object](Excel.Application(object).md)
 

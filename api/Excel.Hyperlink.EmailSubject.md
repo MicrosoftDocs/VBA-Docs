@@ -20,7 +20,7 @@ Returns or sets the text string of the specified hyperlink's e-mail subject line
 
  _expression_. `EmailSubject`
 
- _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
+ _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Remarks

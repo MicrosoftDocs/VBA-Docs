@@ -20,7 +20,7 @@ Returns an object that represents either a single legend entry (a  **[LegendEntr
 
  _expression_. `LegendEntries`( `_Index_` )
 
- _expression_ A variable that represents a [Legend](./Excel.Legend(Graph property).md) object.
+ _expression_ A variable that represents a [Legend](Excel.Legend(Graph property).md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ You can use the  **DDETerminateAll** statement to close all open dynamic data ex
 
  _expression_. `DDETerminateAll`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

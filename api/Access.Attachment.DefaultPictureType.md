@@ -20,7 +20,7 @@ Gets or sets the method used to store the image specified by the  **[DefaultPict
 
  _expression_. `DefaultPictureType`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

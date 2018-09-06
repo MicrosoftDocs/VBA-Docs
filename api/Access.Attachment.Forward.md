@@ -20,7 +20,7 @@ Moves the focus to the next file in the specified  **Attachment** control.
 
  _expression_. `Forward`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
  _expression_. `HorizontalAlignment`
 
- _expression_ A variable that represents a [DisplayUnitLabel](./Excel.DisplayUnitLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel(Graph property).md) object.
 
 
 ## Remarks

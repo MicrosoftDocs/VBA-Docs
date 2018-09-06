@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. `Select`
 
- _expression_ A variable that represents an [AxisTitle](./Excel.AxisTitle(Graph property).md) object.
+ _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle(Graph property).md) object.
 
 
 ### Return Value

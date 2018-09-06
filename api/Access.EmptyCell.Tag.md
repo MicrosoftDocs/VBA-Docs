@@ -20,7 +20,7 @@ Stores extra information about a form, report, section, or control needed by a M
 
  _expression_. `Tag`
 
- _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
+ _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The  **Quit** method quits Microsoft Access. You can select one of several optio
 
  _expression_. `Quit`( ` _Options_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

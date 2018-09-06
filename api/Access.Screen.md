@@ -29,7 +29,7 @@ For example, you can use the  **Screen** object with the **ActiveForm** property
 MsgBox Screen.ActiveForm.Name
 ```
 
-Referring to the  **Screen** object doesn't make a form, report, or control active. To make a form, report, or control active, you must use the **SelectObject** method of the **[DoCmd](./Access.DoCmd.md)** object.
+Referring to the  **Screen** object doesn't make a form, report, or control active. To make a form, report, or control active, you must use the **SelectObject** method of the **[DoCmd](Access.DoCmd.md)** object.
 
 If you refer to the  **Screen** object when there's no active form, report, or control, Microsoft Access returns a run-time error. For example, if a standard module is in the active window, the code in the preceding example would return an error.
 
@@ -58,17 +58,17 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ActiveControl](./Access.Screen.ActiveControl.md)|
-|[ActiveDatasheet](./Access.Screen.ActiveDatasheet.md)|
-|[ActiveForm](./Access.Screen.ActiveForm.md)|
-|[ActiveReport](./Access.Screen.ActiveReport.md)|
-|[Application](./Access.Screen.Application.md)|
-|[MousePointer](./Access.Screen.MousePointer.md)|
-|[Parent](./Access.Screen.Parent.md)|
-|[PreviousControl](./Access.Screen.PreviousControl.md)|
+|[ActiveControl](Access.Screen.ActiveControl.md)|
+|[ActiveDatasheet](Access.Screen.ActiveDatasheet.md)|
+|[ActiveForm](Access.Screen.ActiveForm.md)|
+|[ActiveReport](Access.Screen.ActiveReport.md)|
+|[Application](Access.Screen.Application.md)|
+|[MousePointer](Access.Screen.MousePointer.md)|
+|[Parent](Access.Screen.Parent.md)|
+|[PreviousControl](Access.Screen.PreviousControl.md)|
 
 ## See also
 
 
-[Screen Object Members](./overview/Access.md)
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Screen Object Members](overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)

@@ -73,4 +73,4 @@ End Sub
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

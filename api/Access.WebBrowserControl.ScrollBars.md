@@ -20,7 +20,7 @@ You can use the  **ScrollBars** property to specify whether scroll bars appear o
 
  _expression_. `ScrollBars`
 
- _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
+ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

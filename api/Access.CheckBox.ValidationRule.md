@@ -20,7 +20,7 @@ You can use the  **ValidationRule** property to specify requirements for data en
 
  _expression_. `ValidationRule`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

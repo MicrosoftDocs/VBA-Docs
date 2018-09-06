@@ -20,7 +20,7 @@ The  **Resize** event occurs when a report is opened and whenever the size of a 
 
  _expression_. `Resize`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

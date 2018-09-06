@@ -20,7 +20,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
  _expression_. `Enclosures`
 
- _expression_ A variable that represents a [Mailer](./Excel.Mailer.md) object.
+ _expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
 
 
 ## See also

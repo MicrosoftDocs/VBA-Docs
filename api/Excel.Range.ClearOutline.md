@@ -20,7 +20,7 @@ Clears the outline for the specified range.
 
  _expression_. `ClearOutline`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Return Value

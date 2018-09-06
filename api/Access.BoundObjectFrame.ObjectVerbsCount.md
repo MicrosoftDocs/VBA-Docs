@@ -20,7 +20,7 @@ You can use the  **ObjectVerbsCount** property in Visual Basic to determine the 
 
  _expression_. `ObjectVerbsCount`
 
- _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
+ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the option button and its b
 
  _expression_. `BottomPadding`
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## See also

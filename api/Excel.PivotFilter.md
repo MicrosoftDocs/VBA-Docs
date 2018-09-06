@@ -24,6 +24,6 @@ Developers have the option of naming filters for reference since the index is no
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 
 

@@ -20,14 +20,14 @@ You can use the  **AllowEdits** property to specify whether a user can edit save
 
  _expression_. `AllowEdits`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
 
 You can use the  **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](Access.Form.AllowAdditions.md)**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](./overview/Access.md)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](Access.Form.AllowAdditions.md)**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
 
 When the  **AllowEdits** property is set to No, the **Delete Record** and **Data Entry** menu commands aren't available for existing records. (They may still be available for new records if the **AllowAdditions** property is set to Yes.)
 

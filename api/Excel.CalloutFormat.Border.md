@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Border Property (Excel)
 
-Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that represents the visibility options for the border of the object.
+Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that represents the visibility options for the border of the object.
 
 
 ## Syntax
 
  _expression_. `Border`
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## Remarks

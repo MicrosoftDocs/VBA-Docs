@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Exit** box in the **Properties** window o
 
  _expression_. `OnExit`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

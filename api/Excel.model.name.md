@@ -26,6 +26,6 @@ Returns a  **String** value representing the name of the **Model** object. Read-
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

@@ -20,7 +20,7 @@ You can use the  **CodeContextObject** property to determine the object in which
 
  _expression_. `CodeContextObject`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

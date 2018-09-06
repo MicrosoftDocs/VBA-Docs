@@ -189,4 +189,4 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

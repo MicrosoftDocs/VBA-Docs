@@ -20,14 +20,14 @@ You can use the  **AllowDeletions** property to specify whether a user can delet
 
  _expression_. `AllowDeletions`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
 
 You can set this property to No to allow users to view and edit existing records but not to delete them. When  **AllowDeletions** is set to Yes, records may be deleted so long as existing referential integrity rules aren't broken.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](Access.Form.AllowAdditions.md)**, **AllowDeletions**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](./overview/Access.md)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](Access.Form.AllowAdditions.md)**, **AllowDeletions**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
 
 When the  **AllowDeletions** property is set to No, the **Delete Record** command on the **Edit** menu isn't available.
 

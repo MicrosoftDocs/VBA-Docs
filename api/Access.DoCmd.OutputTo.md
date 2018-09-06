@@ -20,7 +20,7 @@ The **OutputTo** method carries out the OutputTo action in Visual Basic.
 
  _expression_. `OutputTo`( ` _ObjectType_`, ` _ObjectName_`, ` _OutputFormat_`, ` _OutputFile_`, ` _AutoStart_`, ` _TemplateFile_`, ` _Encoding_`, ` _OutputQuality_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

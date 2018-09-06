@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
+ _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ### Return Value

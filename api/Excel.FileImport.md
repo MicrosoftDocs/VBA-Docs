@@ -17,7 +17,7 @@ Imports a specified file or range, or an entire sheet of data.
 
  _expression_. `FileImport( _FileName, Password, ImportRange, WorksheetName, OverwriteCells_)`
 
- _expression_ Required. An expression that returns an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ Required. An expression that returns an [Application](Excel.Application(Graph property).md) object.
 
  **FileName** Required **String**. The file that contains the data to be imported.
  **_Password_** Optional **Variant**. The password for the file to be imported, if the file is password protected.

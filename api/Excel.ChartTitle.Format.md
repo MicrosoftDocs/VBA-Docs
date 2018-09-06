@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. `Format`
 
- _expression_ A variable that represents a [ChartTitle](./Excel.ChartTitle(Graph property).md) object.
+ _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle(Graph property).md) object.
 
 
 ## Remarks
@@ -31,5 +31,5 @@ The  **[ChartFormat](Excel.ChartFormat.md)** object contains the line, fill, eff
 ## See also
 
 
-[ChartTitle Object](./Excel.ChartTitle(object).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

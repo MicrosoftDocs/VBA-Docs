@@ -20,7 +20,7 @@ Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line forma
 
  _expression_. `Line`
 
- _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
+ _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## Remarks

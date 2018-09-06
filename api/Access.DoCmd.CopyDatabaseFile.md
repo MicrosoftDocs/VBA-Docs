@@ -20,7 +20,7 @@ Copies the database connected to the current project to a Microsoft SQL Server d
 
  _expression_. `CopyDatabaseFile`( ` _DatabaseFileName_`, ` _OverwriteExistingFile_`, ` _DisconnectAllUsers_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

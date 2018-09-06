@@ -20,7 +20,7 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
  _expression_. `StatusBarText`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

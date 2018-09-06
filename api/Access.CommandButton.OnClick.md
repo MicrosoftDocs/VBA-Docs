@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Click** box in the **Properties** window.
 
  _expression_. `OnClick`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

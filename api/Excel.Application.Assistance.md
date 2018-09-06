@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Excel)
 
-Returns an  **[IAssistance](./Office.IAssistance.md)** object for Microsoft Excel that represents the Microsoft Office Help Viewer. Read-only.
+Returns an  **[IAssistance](Office.IAssistance.md)** object for Microsoft Excel that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax
 
  _expression_. `Assistance`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

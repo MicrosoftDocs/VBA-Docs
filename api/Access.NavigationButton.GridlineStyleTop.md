@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified text box. Read/write  **Byt
 
  _expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
+ _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified button. Read/wri
 
  _expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

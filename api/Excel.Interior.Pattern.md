@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value, containing an **[xlPattern](Excel.XlPatter
 
  _expression_. `Pattern`
 
- _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
 
 
 ## Example

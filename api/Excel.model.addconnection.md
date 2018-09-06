@@ -39,6 +39,6 @@ This method only works on legacy/non-model external connections and will fail wi
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

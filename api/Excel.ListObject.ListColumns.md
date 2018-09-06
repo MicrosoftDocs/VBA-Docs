@@ -20,7 +20,7 @@ Returns a  **[ListColumns](Excel.ListColumns.md)** collection that represents al
 
  _expression_. `ListColumns`
 
- _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
+ _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example

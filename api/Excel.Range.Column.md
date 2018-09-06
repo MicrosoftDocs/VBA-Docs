@@ -20,7 +20,7 @@ Returns the number of the first column in the first area in the specified range.
 
  _expression_. `Column`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks

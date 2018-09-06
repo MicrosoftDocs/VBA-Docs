@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified combo box. Read/write  **
 
  _expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

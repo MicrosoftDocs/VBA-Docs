@@ -20,7 +20,7 @@ You can use the  **RowSource** property (along with the **RowSourceType** proper
 
  _expression_. `RowSource`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

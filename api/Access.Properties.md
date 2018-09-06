@@ -18,7 +18,7 @@ The  **Properties** collection contains all of the built-in properties in an ins
 
 ## Remarks
 
-Use the  **Properties** collection in[Visual Basic](./overview/Access.md)or in an expression to refer to form, report, or control properties on forms or reports that are currently open.
+Use the  **Properties** collection in[Visual Basic](overview/Access.md)or in an expression to refer to form, report, or control properties on forms or reports that are currently open.
 
 You can use the  **Properties** collection of an object to enumerate the object's built-in properties. You don't need to know beforehand exactly which properties exist or what their characteristics (**Name** and **Value** properties) are to manipulate them.
 
@@ -63,4 +63,4 @@ End Sub
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

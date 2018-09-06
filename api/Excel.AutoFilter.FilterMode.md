@@ -20,7 +20,7 @@ Returns  **True** if the worksheet is in the AutoFilter filter mode. Read-only *
 
  _expression_. `FilterMode`
 
- _expression_ A variable that represents an [AutoFilter](./Excel.AutoFilter.md) object.
+ _expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
 
 
 ## See also

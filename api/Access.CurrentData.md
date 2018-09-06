@@ -60,4 +60,4 @@ For example, an  **AccessObject** representing a table is a member of the **AllT
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

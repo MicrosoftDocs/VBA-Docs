@@ -20,7 +20,7 @@ Returns or sets a  **Byte** indicating the line style to use for horizontal grid
 
  _expression_. `HorizontalDatasheetGridlineStyle`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the path separator character ("\\"). Read-only  **String** .
 
  _expression_. `PathSeparator`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

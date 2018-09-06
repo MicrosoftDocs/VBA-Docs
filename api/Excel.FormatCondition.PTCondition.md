@@ -20,7 +20,7 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
  _expression_. `PTCondition`
 
- _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## See also

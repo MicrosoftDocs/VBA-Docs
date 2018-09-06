@@ -20,7 +20,7 @@ Displays the object.
 
  _expression_. `Show`
 
- _expression_ A variable that represents a [CustomView](./Excel.CustomView.md) object.
+ _expression_ A variable that represents a [CustomView](Excel.CustomView.md) object.
 
 
 ## See also

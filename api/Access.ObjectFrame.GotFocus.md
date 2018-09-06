@@ -20,7 +20,7 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
  _expression_. `GotFocus`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

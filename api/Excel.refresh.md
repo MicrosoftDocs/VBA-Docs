@@ -15,7 +15,7 @@ Causes the specified chart to be redrawn immediately.
 
  _expression_. `Refresh`
 
- _expression_ Required. An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Example

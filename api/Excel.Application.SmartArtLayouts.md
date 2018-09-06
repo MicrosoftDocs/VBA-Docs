@@ -25,7 +25,7 @@ Returns the set of SmartArt layouts that are currently loaded in the application
 
 ### Return Value
 
- **[SmartArtLayouts](./Office.SmartArtLayouts.md)**
+ **[SmartArtLayouts](Office.SmartArtLayouts.md)**
 
 
 ## See also

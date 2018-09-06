@@ -20,7 +20,7 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
  _expression_. `ScopeType`
 
- _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
+ _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## Remarks

@@ -67,4 +67,4 @@ You can use the  **BorderWidth** property to change the line width. You can use 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

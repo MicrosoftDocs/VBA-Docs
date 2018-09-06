@@ -17,7 +17,7 @@ Returns the end point for the gradient fill. Read-only.
 
  _expression_. `GradientStops`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

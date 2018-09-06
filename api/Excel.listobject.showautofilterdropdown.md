@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `ShowAutoFilterDropDown`
 
- _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
+ _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Property value

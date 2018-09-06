@@ -20,7 +20,7 @@ Resets the tab order of the controls in the specified  **Page** to their default
 
  _expression_. `SetTabOrder`
 
- _expression_ A variable that represents a [Page](./Access.Page.md) object.
+ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## See also

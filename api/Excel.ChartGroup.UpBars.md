@@ -20,7 +20,7 @@ Returns an  **[UpBars](Excel.UpBars(object).md)** object that represents the up 
 
  _expression_. `UpBars`
 
- _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
+ _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
 
 
 ## Example

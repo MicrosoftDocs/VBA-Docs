@@ -20,7 +20,7 @@ The  **KeyUp** event occurs when the user releases a key while a report has the 
 
  _expression_. `KeyUp`( ` _KeyCode_`, ` _Shift_` )
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

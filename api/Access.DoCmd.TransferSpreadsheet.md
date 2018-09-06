@@ -20,7 +20,7 @@ The **TransferSpreadsheet** method carries out the TransferSpreadsheet action in
 
  _expression_. `TransferSpreadsheet` (`_TransferType_`, `_SpreadsheetType_`, `_TableName_`, `_FileName_`, `_HasFieldNames_`, `_Range_`, `_UseOA_`)
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

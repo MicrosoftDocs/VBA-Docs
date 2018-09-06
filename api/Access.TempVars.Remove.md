@@ -20,7 +20,7 @@ Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempV
 
  _expression_. `Remove`( ` _var_` )
 
- _expression_ A variable that represents a [TempVars](./Access.TempVars.md) object.
+ _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 
 ### Parameters

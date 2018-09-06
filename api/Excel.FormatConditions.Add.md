@@ -20,7 +20,7 @@ Adds a new conditional format.
 
  _expression_. `Add`( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
 
- _expression_ A variable that represents a [FormatConditions](./Excel.FormatConditions.md) object.
+ _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ### Parameters

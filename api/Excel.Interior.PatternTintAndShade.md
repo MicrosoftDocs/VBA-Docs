@@ -20,7 +20,7 @@ Returns or sets a tint and shade pattern for an  **Interior** object. Read/write
 
  _expression_. `PatternTintAndShade`
 
- _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **Long** value indicating which threshold the criteria represents. Re
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [ColorScaleCriterion](./Excel.ColorScaleCriterion.md) object.
+ _expression_ A variable that represents a [ColorScaleCriterion](Excel.ColorScaleCriterion.md) object.
 
 
 ## Remarks

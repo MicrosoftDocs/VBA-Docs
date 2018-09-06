@@ -25,7 +25,7 @@ Returns the set of SmartArt quick styles which are currently loaded in the appli
 
 ### Return Value
 
- **[SmartArtQuickStyles](./Office.SmartArtQuickStyles.md)**
+ **[SmartArtQuickStyles](Office.SmartArtQuickStyles.md)**
 
 
 ## See also

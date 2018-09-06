@@ -32,7 +32,7 @@ Returns a single object from the [FullSeriesCollection Object (Excel)](Excel.ful
 
 ### Return value
 
-A [Series Object (Excel)](./Excel.Series(object).md) object contained in the collection.
+A [Series Object (Excel)](Excel.Series(object).md) object contained in the collection.
 
 
 ## See also

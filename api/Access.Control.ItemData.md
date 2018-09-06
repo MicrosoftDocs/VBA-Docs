@@ -20,7 +20,7 @@ The  **ItemData** property returns the data in the bound column for the specifie
 
  _expression_. `ItemData`( ` _Index_` )
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Specifies a custom menu to display for a Microsoft Access database. Read/write  
 
  _expression_. `MenuBar`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The **KeyDown** event occurs when the user presses a key while a form or control
 
  _expression_. `KeyDown`( ` _KeyCode_`, ` _Shift_` )
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters

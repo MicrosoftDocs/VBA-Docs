@@ -20,7 +20,7 @@ Applies names to the cells in the specified range.
 
  _expression_. `ApplyNames`( `_Names_` , `_IgnoreRelativeAbsolute_` , `_UseRowColumnNames_` , `_OmitColumn_` , `_OmitRow_` , `_Order_` , `_AppendLast_` )
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Parameters

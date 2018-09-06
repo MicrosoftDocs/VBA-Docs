@@ -20,7 +20,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 
  _expression_. `LayoutForm`
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureTile Property (Excel)
 
-Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](./Office.MsoTriState.md)** .
+Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](Office.MsoTriState.md)** .
 
 
 ## Syntax
 
  _expression_. `TextureTile`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

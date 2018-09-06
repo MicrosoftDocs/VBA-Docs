@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
+ _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
 ### Return Value

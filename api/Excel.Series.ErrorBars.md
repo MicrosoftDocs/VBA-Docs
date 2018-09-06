@@ -20,7 +20,7 @@ Returns an  **[ErrorBars](Excel.ErrorBars(object).md)** object that represents t
 
  _expression_. `ErrorBars`
 
- _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
 ## Example
