@@ -78,8 +78,7 @@ End Sub
 ```
 
 
-## About the contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 *Holy Macro! Books* publishes entertaining books for people who use Office. See the complete catalog at MrExcel.com. 
 
@@ -87,4 +86,5 @@ End Sub
 ## See also
 
 [Range Object](Excel.Range(object).md)
+
 

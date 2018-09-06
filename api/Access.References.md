@@ -62,17 +62,16 @@ Individual  **Reference** objects in the **References** collection are indexed b
 |[Count](Access.References.Count.md)|
 |[Parent](Access.References.Parent.md)|
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
 
 
 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+

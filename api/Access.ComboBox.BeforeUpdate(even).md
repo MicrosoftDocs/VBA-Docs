@@ -94,8 +94,7 @@ End Sub
 ```
 
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
@@ -104,4 +103,5 @@ Luke Chung is the founder and president of FMS, Inc., a leading provider of cust
 
 
 [ComboBox Object](Access.ComboBox.md)
+
 

@@ -115,12 +115,12 @@ Function MyFunction(rng As Range) As Double
 End Function
 ```
 
-## About the contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 *Holy Macro! Books* publishes entertaining books for people who use Office. See the complete catalog at MrExcel.com. 
 
 ## See also
 
 [Application Object](Excel.Application(object).md)
+
 

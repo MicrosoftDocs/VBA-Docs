@@ -236,17 +236,16 @@ End Sub
 |[Visible](./Excel.Worksheet.Visible.md)|
 |[VPageBreaks](./Excel.Worksheet.VPageBreaks.md)|
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
-<a name="AboutContributor"> </a>
 
 
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
+
 
