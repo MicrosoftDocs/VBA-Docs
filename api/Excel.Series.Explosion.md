@@ -20,7 +20,7 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Ret
 
  _expression_. `Explosion`
 
- _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns the unique identifier for the layout that contains the specified toggle 
 
  _expression_. `LayoutID`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

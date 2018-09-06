@@ -20,7 +20,7 @@ Gets or sets whether the user can edit records in the datasheet when a form is d
 
  _expression_. `SplitFormDatasheet`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

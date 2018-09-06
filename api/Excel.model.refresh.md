@@ -29,6 +29,6 @@ Refreshes all data sources associated with the model, fully reprocesses the mode
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

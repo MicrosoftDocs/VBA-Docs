@@ -20,7 +20,7 @@ Returns or sets an  **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value th
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## See also

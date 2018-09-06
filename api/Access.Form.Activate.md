@@ -20,7 +20,7 @@ The Activate event occurs when a form receives the focus and becomes the active 
 
  _expression_. `Activate`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Return Value

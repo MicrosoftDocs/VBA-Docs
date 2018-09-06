@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllTables Object (Access)
 
-The  **AllTables** collection contains an **[AccessObject](Access.AccessObject.md)** for each table in the **[CurrentData](./Access.CurrentData.md)** or **[CodeData](./Access.CodeData.md)** object.
+The  **AllTables** collection contains an **[AccessObject](Access.AccessObject.md)** for each table in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ You can refer to an individual  **AccessObject** object in the **AllTables** col
 The  **AllTables** collection is indexed beginning with zero. If you refer to a table by its index, the first table is AllTables(0), the second table is AllTables(1), and so on.
 
 
- **Note**   To list all open tables in the database, use the **[IsLoaded](./Access.AccessObject.IsLoaded.md)** property of each **AccessObject** object in the **AllTables** collection. You can then use the **Name** property of each individual **AccessObject** object to return the name of a table.
+ **Note**   To list all open tables in the database, use the **[IsLoaded](Access.AccessObject.IsLoaded.md)** property of each **AccessObject** object in the **AllTables** collection. You can then use the **Name** property of each individual **AccessObject** object to return the name of a table.
 
 You can't add or delete an  **AccessObject** object from the **AllTables** collection.
 
@@ -53,13 +53,13 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](./Access.AllTables.Application.md)|
-|[Count](./Access.AllTables.Count.md)|
-|[Item](./Access.AllTables.Item.md)|
-|[Parent](./Access.AllTables.Parent.md)|
+|[Application](Access.AllTables.Application.md)|
+|[Count](Access.AllTables.Count.md)|
+|[Item](Access.AllTables.Item.md)|
+|[Parent](Access.AllTables.Parent.md)|
 
 ## See also
 
 
-[AllTables Object Members](./overview/Access.md)
-[Access Object Model Reference](./overview/Access/object-model.md)
+[AllTables Object Members](overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)

@@ -22,7 +22,7 @@ Microsoft Access includes class modules that are not associated with any object,
 
 To determine whether a  **Module** object represents a standard module or a class module from code, check the **Module** object's **Type** property.
 
-The  **[Modules](./Access.Modules.md)** collection contains all open **Module** objects, regardless of their type. Modules in the **Modules** collection can be compiled or uncompiled.
+The  **[Modules](Access.Modules.md)** collection contains all open **Module** objects, regardless of their type. Modules in the **Modules** collection can be compiled or uncompiled.
 
 To return a reference to a particular standard or class  **Module** object in the **Modules** collection, use any of the following syntax forms.
 
@@ -56,7 +56,7 @@ Dim mdl As Module
 Set mdl = Modules!Form_Employees
 ```
 
-To refer to a specific form or report module, you can also use the  **[Form](./Access.Form.md)** or **[Report](Access.Report.md)** object's **Module** property:
+To refer to a specific form or report module, you can also use the  **[Form](Access.Form.md)** or **[Report](Access.Report.md)** object's **Module** property:
 
 
 
@@ -84,14 +84,14 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 |**Name**|
 |:-----|
-|[AddFromFile](./Access.Module.AddFromFile.md)|
-|[AddFromString](./Access.Module.AddFromString.md)|
-|[CreateEventProc](./Access.Module.CreateEventProc.md)|
-|[DeleteLines](./Access.Module.DeleteLines.md)|
-|[Find](./Access.Module.Find.md)|
-|[InsertLines](./Access.Module.InsertLines.md)|
-|[InsertText](./Access.Module.InsertText.md)|
-|[ReplaceLine](./Access.Module.ReplaceLine.md)|
+|[AddFromFile](Access.Module.AddFromFile.md)|
+|[AddFromString](Access.Module.AddFromString.md)|
+|[CreateEventProc](Access.Module.CreateEventProc.md)|
+|[DeleteLines](Access.Module.DeleteLines.md)|
+|[Find](Access.Module.Find.md)|
+|[InsertLines](Access.Module.InsertLines.md)|
+|[InsertText](Access.Module.InsertText.md)|
+|[ReplaceLine](Access.Module.ReplaceLine.md)|
 
 ## Properties
 
@@ -99,20 +99,20 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 |**Name**|
 |:-----|
-|[Application](./Access.Module.Application.md)|
-|[CountOfDeclarationLines](./Access.Module.CountOfDeclarationLines.md)|
-|[CountOfLines](./Access.Module.CountOfLines.md)|
-|[Lines](./Access.Module.Lines.md)|
-|[Name](./Access.Module.Name.md)|
-|[Parent](./Access.Module.Parent.md)|
-|[ProcBodyLine](./Access.Module.ProcBodyLine.md)|
-|[ProcCountLines](./Access.Module.ProcCountLines.md)|
-|[ProcOfLine](./Access.Module.ProcOfLine.md)|
-|[ProcStartLine](./Access.Module.ProcStartLine.md)|
-|[Type](./Access.Module.Type.md)|
+|[Application](Access.Module.Application.md)|
+|[CountOfDeclarationLines](Access.Module.CountOfDeclarationLines.md)|
+|[CountOfLines](Access.Module.CountOfLines.md)|
+|[Lines](Access.Module.Lines.md)|
+|[Name](Access.Module.Name.md)|
+|[Parent](Access.Module.Parent.md)|
+|[ProcBodyLine](Access.Module.ProcBodyLine.md)|
+|[ProcCountLines](Access.Module.ProcCountLines.md)|
+|[ProcOfLine](Access.Module.ProcOfLine.md)|
+|[ProcStartLine](Access.Module.ProcStartLine.md)|
+|[Type](Access.Module.Type.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[Module Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[Module Object Members](overview/Access.md)

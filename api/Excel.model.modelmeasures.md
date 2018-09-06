@@ -21,6 +21,6 @@ Returns a [ModelMeasures Object (Excel)](Excel.modelmeasures.md) object that rep
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

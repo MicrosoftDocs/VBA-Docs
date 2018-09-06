@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `FlashFillMode`
 
- _expression_ A variable that represents a [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents a [Application](Excel.Application(Graph property).md) object.
 
 
 ## Property value

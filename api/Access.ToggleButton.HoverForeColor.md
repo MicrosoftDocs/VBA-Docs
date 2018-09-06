@@ -20,7 +20,7 @@ Gets or sets the color of the text displayed on the control when the user rests 
 
  _expression_. `HoverForeColor`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

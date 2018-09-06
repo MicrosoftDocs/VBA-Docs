@@ -45,6 +45,6 @@ Windows(1).Panes(1).LargeScroll down:=1
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 
 

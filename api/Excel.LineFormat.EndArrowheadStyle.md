@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.EndArrowheadStyle Property (Excel)
 
-Returns or sets the style of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadStyle](./Office.MsoArrowheadStyle.md)** .
+Returns or sets the style of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** .
 
 
 ## Syntax
 
  _expression_. `EndArrowheadStyle`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Remarks

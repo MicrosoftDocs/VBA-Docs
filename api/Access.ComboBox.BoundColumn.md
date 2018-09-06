@@ -20,7 +20,7 @@ When you make a selection from a combo box, the  **BoundColumn** property tells 
 
  _expression_. `BoundColumn`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

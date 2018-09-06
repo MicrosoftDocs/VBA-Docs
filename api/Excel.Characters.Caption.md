@@ -20,7 +20,7 @@ Returns a  **String** value that represents the text of this range of characters
 
  _expression_. `Caption`
 
- _expression_ A variable that represents a [Characters](./Excel.Characters.md) object.
+ _expression_ A variable that represents a [Characters](Excel.Characters.md) object.
 
 
 ## See also

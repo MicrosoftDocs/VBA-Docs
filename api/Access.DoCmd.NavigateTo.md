@@ -20,7 +20,7 @@ You can use the  **NavigateTo** method to control the display of database object
 
  _expression_. `NavigateTo`( ` _Category_`, ` _Group_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

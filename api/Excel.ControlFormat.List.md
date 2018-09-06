@@ -20,7 +20,7 @@ Returns or sets the text entries in the specified list box or a combo box, as an
 
  _expression_. `List`( `_Index_` )
 
- _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
+ _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 
 
 ### Parameters

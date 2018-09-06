@@ -20,7 +20,7 @@ Returns the value or expression associated with the second part of a conditional
 
  _expression_. `Formula2`
 
- _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Example

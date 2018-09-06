@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified toggle button. Rea
 
  _expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

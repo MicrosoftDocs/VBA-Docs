@@ -20,7 +20,7 @@ Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlCondition
 
  _expression_. `Type`
 
- _expression_ A variable that represents an [IconCriterion](./Excel.IconCriterion.md) object.
+ _expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
 
 
 ## Remarks

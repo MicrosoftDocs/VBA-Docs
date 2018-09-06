@@ -20,7 +20,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
  _expression_. `PresetDrop`( `_DropType_` )
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DropType_|Required| **[MsoCalloutDropType](./Office.MsoCalloutDropType.md)**|The starting position of the callout line relative to the text bounding box.|
+| _DropType_|Required| **[MsoCalloutDropType](Office.MsoCalloutDropType.md)**|The starting position of the callout line relative to the text bounding box.|
 
 ## Example
 

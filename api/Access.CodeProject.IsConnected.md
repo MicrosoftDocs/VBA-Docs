@@ -20,7 +20,7 @@ You can use the  **IsConnected** property to determine if the **[CodeProject](Ac
 
  _expression_. `IsConnected`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

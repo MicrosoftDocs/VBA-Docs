@@ -20,7 +20,7 @@ Returns a single member of the  **[Error](Excel.Error.md)** object.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [Errors](./Excel.Errors.md) object.
+ _expression_ A variable that represents an [Errors](Excel.Errors.md) object.
 
 
 ### Parameters

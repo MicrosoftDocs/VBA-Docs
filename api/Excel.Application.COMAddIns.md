@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.COMAddIns Property (Excel)
 
-Returns the  **[COMAddIns](./Office.COMAddIns.md)** collection for Microsoft Excel, which represents the currently installed COM add-ins. Read-only.
+Returns the  **[COMAddIns](Office.COMAddIns.md)** collection for Microsoft Excel, which represents the currently installed COM add-ins. Read-only.
 
 
 ## Syntax
 
  _expression_. `COMAddIns`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

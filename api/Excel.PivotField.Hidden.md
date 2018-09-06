@@ -20,7 +20,7 @@ This property is used to hide the individual levels of an OLAP hierarchy. Read/w
 
  _expression_. `Hidden`
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

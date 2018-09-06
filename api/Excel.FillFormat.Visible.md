@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.Visible Property (Excel)
 
-Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
+Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

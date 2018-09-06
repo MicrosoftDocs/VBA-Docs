@@ -20,7 +20,7 @@ Fills up from the bottom cell or cells in the specified range to the top of the 
 
  _expression_. `FillUp`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Return Value

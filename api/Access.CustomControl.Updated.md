@@ -20,7 +20,7 @@ The  **Updated** event occurs when an OLE object's data has been modified.
 
  _expression_. `Updated`( ` _Code_` )
 
- _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
+ _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

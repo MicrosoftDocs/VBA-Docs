@@ -34,4 +34,4 @@ Use the  **[Operations](Access.Entity.Operations.md)** property of the **[Entity
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

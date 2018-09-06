@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified label. Read/writ
 
  _expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [Label](./Access.Label.md) object.
+ _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

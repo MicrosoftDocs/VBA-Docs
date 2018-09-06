@@ -20,7 +20,7 @@ You can use the  **TabIndex** property to specify a control's place in the tab o
 
  _expression_. `TabIndex`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

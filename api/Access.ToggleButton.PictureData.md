@@ -20,7 +20,7 @@ You can use the  **PictureData** property to copy the picture to another object 
 
  _expression_. `PictureData`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

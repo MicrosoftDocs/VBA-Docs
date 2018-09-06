@@ -43,4 +43,4 @@ The  **MacroError** object does not contain information about run-time errors th
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

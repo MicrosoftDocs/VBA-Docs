@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetTexture Property (Excel)
 
-Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](./Office.MsoPresetTexture.md)** .
+Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](Office.MsoPresetTexture.md)** .
 
 
 ## Syntax
 
  _expression_. `PresetTexture`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets a numeric expression that specifies the value of the longest bar of
 
  _expression_. `LongestBarValue`
 
- _expression_ A variable that represents a [FormatCondition](./Access.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

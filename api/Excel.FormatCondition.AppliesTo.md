@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
  _expression_. `AppliesTo`
 
- _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Adds a hyperlink to the specified range or shape.
 
  _expression_. `Add`( `_Anchor_` , `_Address_` , `_SubAddress_` , `_ScreenTip_` , `_TextToDisplay_` )
 
- _expression_ A variable that represents a [Hyperlinks](./Excel.Hyperlinks.md) object.
+ _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) object.
 
 
 ### Parameters

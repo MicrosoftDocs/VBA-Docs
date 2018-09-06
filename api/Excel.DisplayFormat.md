@@ -52,4 +52,4 @@ Actions such as changing the conditional formatting or table style of a range ca
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `ShowBubbleSize`
 
- _expression_ An expression that returns a [DataLabel](./Excel.DataLabel(Graph property).md) object.
+ _expression_ An expression that returns a [DataLabel](Excel.DataLabel(Graph property).md) object.
 
 
 ## Remarks

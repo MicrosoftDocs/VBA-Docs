@@ -20,7 +20,7 @@ Returns a Boolean that indicates whether the specified calculated member has bee
 
  _expression_. `IsValid`
 
- _expression_ A variable that represents a [CalculatedMember](./Excel.CalculatedMember.md) object.
+ _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
 
 
 ## Remarks

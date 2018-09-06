@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.Pattern Property (Excel)
 
-Returns or sets an  **[MsoPatternType](./Office.MsoPatternType.md)** value that represents the fill pattern.
+Returns or sets an  **[MsoPatternType](Office.MsoPatternType.md)** value that represents the fill pattern.
 
 
 ## Syntax
 
  _expression_. `Pattern`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset
 
  _expression_. `Range`( `_Index_` )
 
- _expression_ A variable that represents a [GroupShapes](./Excel.GroupShapes.md) object.
+ _expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets or sets the interior color of the specified object. Read/write  **Long**.
 
  _expression_. `BackColor`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

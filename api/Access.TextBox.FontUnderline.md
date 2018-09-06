@@ -28,7 +28,7 @@ You can use the  **FontUnderline** property to specify whether text is underline
 
  _expression_. `FontUnderline`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

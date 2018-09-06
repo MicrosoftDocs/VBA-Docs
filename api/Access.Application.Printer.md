@@ -20,7 +20,7 @@ Returns or sets a  **[Printer](Access.Printer.md)** object representing the defa
 
  _expression_. `Printer`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

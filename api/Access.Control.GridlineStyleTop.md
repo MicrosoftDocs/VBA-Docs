@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified control. Read/write  **Byte
 
  _expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

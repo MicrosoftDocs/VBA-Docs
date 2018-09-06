@@ -18,7 +18,7 @@ This setting controls whether the series has been filtered out from the chart. T
 
  _expression_. `IsFiltered`
 
- _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
 ## Remarks

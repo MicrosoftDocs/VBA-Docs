@@ -25,9 +25,9 @@ The  **CurrentProject** object has several collections that contain specific **[
 |**Collections**|**Object type**|
 |:-----|:-----|
 |**[AllForms](Access.AllForms.md)**|All forms|
-|**[AllReports](./Access.AllReports.md)**|All reports|
-|**[AllMacros](./Access.allmacros.md)**|All macros|
-|**[AllModules](./Access.AllModules.md)**|All modules|
+|**[AllReports](Access.AllReports.md)**|All reports|
+|**[AllMacros](Access.allmacros.md)**|All macros|
+|**[AllModules](Access.AllModules.md)**|All modules|
 
  **Note**  The collections in the preceding table contain all of the respective objects in the database regardless if they are opened or closed.
 
@@ -109,10 +109,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[AddSharedImage](./Access.CurrentProject.AddSharedImage.md)|
-|[CloseConnection](./Access.CurrentProject.CloseConnection.md)|
-|[OpenConnection](./Access.CurrentProject.OpenConnection.md)|
-|[UpdateDependencyInfo](./Access.CurrentProject.UpdateDependencyInfo.md)|
+|[AddSharedImage](Access.CurrentProject.AddSharedImage.md)|
+|[CloseConnection](Access.CurrentProject.CloseConnection.md)|
+|[OpenConnection](Access.CurrentProject.OpenConnection.md)|
+|[UpdateDependencyInfo](Access.CurrentProject.UpdateDependencyInfo.md)|
 
 ## Properties
 
@@ -120,32 +120,32 @@ End Sub
 
 |**Name**|
 |:-----|
-|[AccessConnection](./Access.CurrentProject.AccessConnection.md)|
-|[AllForms](./Access.CurrentProject.AllForms.md)|
-|[AllMacros](./Access.CurrentProject.AllMacros.md)|
-|[AllModules](./Access.CurrentProject.AllModules.md)|
-|[AllReports](./Access.CurrentProject.AllReports.md)|
-|[Application](./Access.CurrentProject.Application.md)|
-|[BaseConnectionString](./Access.CurrentProject.BaseConnectionString.md)|
-|[Connection](./Access.CurrentProject.Connection.md)|
-|[FileFormat](./Access.CurrentProject.FileFormat.md)|
-|[FullName](./Access.CurrentProject.FullName.md)|
-|[ImportExportSpecifications](./Access.CurrentProject.ImportExportSpecifications.md)|
-|[IsConnected](./Access.CurrentProject.IsConnected.md)|
-|[IsTrusted](./Access.CurrentProject.IsTrusted.md)|
-|[IsWeb](./Access.CurrentProject.IsWeb.md)|
-|[Name](./Access.CurrentProject.Name.md)|
-|[Parent](./Access.CurrentProject.Parent.md)|
-|[Path](./Access.CurrentProject.Path.md)|
-|[ProjectType](./Access.CurrentProject.ProjectType.md)|
-|[Properties](./Access.CurrentProject.Properties.md)|
-|[RemovePersonalInformation](./Access.CurrentProject.RemovePersonalInformation.md)|
-|[Resources](./Access.CurrentProject.Resources.md)|
-|[WebSite](./Access.CurrentProject.WebSite.md)|
-|[IsSQLBackend](./overview/Access.md)|
+|[AccessConnection](Access.CurrentProject.AccessConnection.md)|
+|[AllForms](Access.CurrentProject.AllForms.md)|
+|[AllMacros](Access.CurrentProject.AllMacros.md)|
+|[AllModules](Access.CurrentProject.AllModules.md)|
+|[AllReports](Access.CurrentProject.AllReports.md)|
+|[Application](Access.CurrentProject.Application.md)|
+|[BaseConnectionString](Access.CurrentProject.BaseConnectionString.md)|
+|[Connection](Access.CurrentProject.Connection.md)|
+|[FileFormat](Access.CurrentProject.FileFormat.md)|
+|[FullName](Access.CurrentProject.FullName.md)|
+|[ImportExportSpecifications](Access.CurrentProject.ImportExportSpecifications.md)|
+|[IsConnected](Access.CurrentProject.IsConnected.md)|
+|[IsTrusted](Access.CurrentProject.IsTrusted.md)|
+|[IsWeb](Access.CurrentProject.IsWeb.md)|
+|[Name](Access.CurrentProject.Name.md)|
+|[Parent](Access.CurrentProject.Parent.md)|
+|[Path](Access.CurrentProject.Path.md)|
+|[ProjectType](Access.CurrentProject.ProjectType.md)|
+|[Properties](Access.CurrentProject.Properties.md)|
+|[RemovePersonalInformation](Access.CurrentProject.RemovePersonalInformation.md)|
+|[Resources](Access.CurrentProject.Resources.md)|
+|[WebSite](Access.CurrentProject.WebSite.md)|
+|[IsSQLBackend](overview/Access.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[CurrentProject Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[CurrentProject Object Members](overview/Access.md)

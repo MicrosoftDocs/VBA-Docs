@@ -66,4 +66,4 @@ Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

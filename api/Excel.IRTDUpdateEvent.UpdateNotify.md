@@ -20,7 +20,7 @@ The real-time data (RTD) server uses this method to notify Microsoft Excel that 
 
  _expression_. `UpdateNotify`
 
- _expression_ A variable that represents an [IRTDUpdateEvent](./Excel.IRTDUpdateEvent.md) object.
+ _expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **AllTables** property to reference the **[AllTables](Access.Al
 
  _expression_. `AllTables`
 
- _expression_ A variable that represents a [CodeData](./Access.CodeData.md) object.
+ _expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
 
 
 ## See also

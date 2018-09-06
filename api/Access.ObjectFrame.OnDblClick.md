@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Dbl Click** box in the **Properties** win
 
  _expression_. `OnDblClick`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

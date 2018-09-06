@@ -26,7 +26,7 @@ Worksheets("Sheet1").Range("A5").Value = _
     Worksheets("Sheet1").Range("A1").Value
 ```
 
-The following example fills the range A1:H8 with random numbers by setting the formula for each cell in the range. When it's used without an object qualifier (an object to the left of the period), the  **Range** property returns a range on the active sheet. If the active sheet isn't a worksheet, the method fails. Use the **[Activate](./Excel.Worksheet.Activate(method).md)** method to activate a worksheet before you use the **Range** property without an explicit object qualifier.
+The following example fills the range A1:H8 with random numbers by setting the formula for each cell in the range. When it's used without an object qualifier (an object to the left of the period), the  **Range** property returns a range on the active sheet. If the active sheet isn't a worksheet, the method fails. Use the **[Activate](Excel.Worksheet.Activate(method).md)** method to activate a worksheet before you use the **Range** property without an explicit object qualifier.
 
 
 
@@ -86,7 +86,7 @@ Next TheQuarter
 End Sub
 ```
 
-Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expression that returns a [Range](./Excel.Range(Graph property).md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the formula for cell C5.
+Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expression that returns a [Range](Excel.Range(Graph property).md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the formula for cell C5.
 
 
 
@@ -135,7 +135,7 @@ Set myMultiAreaRange = Union(r1, r2)
 myMultiAreaRange.Select
 ```
 
-If you work with selections that contain more than one area, the  **[Areas](./Excel.Range.Areas.md)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. You can use the **[Count](./Excel.Range.Count.md)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
+If you work with selections that contain more than one area, the  **[Areas](Excel.Range.Areas.md)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. You can use the **[Count](Excel.Range.Count.md)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
 
 
 
@@ -225,15 +225,15 @@ End Sub
 The following properties and methods for returning a  **Range** object are described in the examples section:
 
 
--  **[Range](./Excel.Worksheet.Range.md)** property
+-  **[Range](Excel.Worksheet.Range.md)** property
     
--  **[Cells](./Excel.Worksheet.Cells.md)** property
+-  **[Cells](Excel.Worksheet.Cells.md)** property
     
 -  **Range** and **Cells**
     
--  **[Offset](./Excel.Range.Offset.md)** property
+-  **[Offset](Excel.Range.Offset.md)** property
     
--  **[Union](./Excel.Application.Union.md)** method
+-  **[Union](Excel.Application.Union.md)** method
     
 
 ## Methods
@@ -242,84 +242,84 @@ The following properties and methods for returning a  **Range** object are descr
 
 |**Name**|
 |:-----|
-|[Activate](./Excel.Range.Activate.md)|
-|[AddComment](./Excel.Range.AddComment.md)|
-|[AdvancedFilter](./Excel.Range.AdvancedFilter.md)|
-|[AllocateChanges](./Excel.Range.AllocateChanges.md)|
-|[ApplyNames](./Excel.Range.ApplyNames.md)|
-|[ApplyOutlineStyles](./Excel.Range.ApplyOutlineStyles.md)|
-|[AutoComplete](./Excel.Range.AutoComplete.md)|
-|[AutoFill](./Excel.Range.AutoFill.md)|
-|[AutoFilter](./Excel.Range.AutoFilter.md)|
-|[AutoFit](./Excel.Range.AutoFit.md)|
-|[AutoOutline](./Excel.Range.AutoOutline.md)|
-|[BorderAround](./Excel.Range.BorderAround.md)|
-|[Calculate](./Excel.Range.Calculate.md)|
-|[CalculateRowMajorOrder](./Excel.Range.CalculateRowMajorOrder.md)|
-|[CheckSpelling](./Excel.Range.CheckSpelling.md)|
-|[Clear](./Excel.Range.Clear.md)|
-|[ClearComments](./Excel.Range.ClearComments.md)|
-|[ClearContents](./Excel.Range.ClearContents.md)|
-|[ClearFormats](./Excel.Range.ClearFormats.md)|
-|[ClearHyperlinks](./Excel.Range.ClearHyperlinks.md)|
-|[ClearNotes](./Excel.Range.ClearNotes.md)|
-|[ClearOutline](./Excel.Range.ClearOutline.md)|
-|[ColumnDifferences](./Excel.Range.ColumnDifferences.md)|
-|[Consolidate](./Excel.Range.Consolidate.md)|
-|[Copy](./Excel.Range.Copy.md)|
-|[CopyFromRecordset](./Excel.Range.CopyFromRecordset.md)|
-|[CopyPicture](./Excel.Range.CopyPicture.md)|
-|[CreateNames](./Excel.Range.CreateNames.md)|
-|[Cut](./Excel.Range.Cut.md)|
-|[DataSeries](./Excel.Range.DataSeries.md)|
-|[Delete](./Excel.Range.Delete.md)|
-|[DialogBox](./Excel.Range.DialogBox.md)|
-|[Dirty](./Excel.Range.Dirty.md)|
-|[DiscardChanges](./Excel.Range.DiscardChanges.md)|
-|[EditionOptions](./Excel.Range.EditionOptions.md)|
-|[ExportAsFixedFormat](./Excel.Range.ExportAsFixedFormat.md)|
-|[FillDown](./Excel.Range.FillDown.md)|
-|[FillLeft](./Excel.Range.FillLeft.md)|
-|[FillRight](./Excel.Range.FillRight.md)|
-|[FillUp](./Excel.Range.FillUp.md)|
-|[Find](./Excel.Range.Find.md)|
-|[FindNext](./Excel.Range.FindNext.md)|
-|[FindPrevious](./Excel.Range.FindPrevious.md)|
-|[FlashFill](./Excel.range.flashfill.md)|
-|[FunctionWizard](./Excel.Range.FunctionWizard.md)|
-|[Group](./Excel.Range.Group.md)|
-|[Insert](./Excel.Range.Insert.md)|
-|[InsertIndent](./Excel.Range.InsertIndent.md)|
-|[Justify](./Excel.Range.Justify.md)|
-|[ListNames](./Excel.Range.ListNames.md)|
-|[Merge](./Excel.Range.Merge.md)|
-|[NavigateArrow](./Excel.Range.NavigateArrow.md)|
-|[NoteText](./Excel.Range.NoteText.md)|
-|[Parse](./Excel.Range.Parse.md)|
-|[PasteSpecial](./Excel.Range.PasteSpecial.md)|
-|[PrintOut](./Excel.Range.PrintOut.md)|
-|[PrintPreview](./Excel.Range.PrintPreview.md)|
-|[RemoveDuplicates](./Excel.Range.RemoveDuplicates.md)|
-|[RemoveSubtotal](./Excel.Range.RemoveSubtotal.md)|
-|[Replace](./Excel.Range.Replace.md)|
-|[RowDifferences](./Excel.Range.RowDifferences.md)|
-|[Run](./Excel.Range.Run.md)|
-|[Select](./Excel.Range.Select.md)|
-|[SetPhonetic](./Excel.Range.SetPhonetic.md)|
-|[Show](./Excel.Range.Show.md)|
-|[ShowDependents](./Excel.Range.ShowDependents.md)|
-|[ShowErrors](./Excel.Range.ShowErrors.md)|
-|[ShowPrecedents](./Excel.Range.ShowPrecedents.md)|
-|[Sort](./Excel.Range.Sort.md)|
-|[SortSpecial](./Excel.Range.SortSpecial.md)|
-|[Speak](./Excel.Range.Speak.md)|
-|[SpecialCells](./Excel.Range.SpecialCells.md)|
-|[SubscribeTo](./Excel.Range.SubscribeTo.md)|
-|[Subtotal](./Excel.Range.Subtotal.md)|
-|[Table](./Excel.Range.Table.md)|
-|[TextToColumns](./Excel.Range.TextToColumns.md)|
-|[Ungroup](./Excel.Range.Ungroup.md)|
-|[UnMerge](./Excel.Range.UnMerge.md)|
+|[Activate](Excel.Range.Activate.md)|
+|[AddComment](Excel.Range.AddComment.md)|
+|[AdvancedFilter](Excel.Range.AdvancedFilter.md)|
+|[AllocateChanges](Excel.Range.AllocateChanges.md)|
+|[ApplyNames](Excel.Range.ApplyNames.md)|
+|[ApplyOutlineStyles](Excel.Range.ApplyOutlineStyles.md)|
+|[AutoComplete](Excel.Range.AutoComplete.md)|
+|[AutoFill](Excel.Range.AutoFill.md)|
+|[AutoFilter](Excel.Range.AutoFilter.md)|
+|[AutoFit](Excel.Range.AutoFit.md)|
+|[AutoOutline](Excel.Range.AutoOutline.md)|
+|[BorderAround](Excel.Range.BorderAround.md)|
+|[Calculate](Excel.Range.Calculate.md)|
+|[CalculateRowMajorOrder](Excel.Range.CalculateRowMajorOrder.md)|
+|[CheckSpelling](Excel.Range.CheckSpelling.md)|
+|[Clear](Excel.Range.Clear.md)|
+|[ClearComments](Excel.Range.ClearComments.md)|
+|[ClearContents](Excel.Range.ClearContents.md)|
+|[ClearFormats](Excel.Range.ClearFormats.md)|
+|[ClearHyperlinks](Excel.Range.ClearHyperlinks.md)|
+|[ClearNotes](Excel.Range.ClearNotes.md)|
+|[ClearOutline](Excel.Range.ClearOutline.md)|
+|[ColumnDifferences](Excel.Range.ColumnDifferences.md)|
+|[Consolidate](Excel.Range.Consolidate.md)|
+|[Copy](Excel.Range.Copy.md)|
+|[CopyFromRecordset](Excel.Range.CopyFromRecordset.md)|
+|[CopyPicture](Excel.Range.CopyPicture.md)|
+|[CreateNames](Excel.Range.CreateNames.md)|
+|[Cut](Excel.Range.Cut.md)|
+|[DataSeries](Excel.Range.DataSeries.md)|
+|[Delete](Excel.Range.Delete.md)|
+|[DialogBox](Excel.Range.DialogBox.md)|
+|[Dirty](Excel.Range.Dirty.md)|
+|[DiscardChanges](Excel.Range.DiscardChanges.md)|
+|[EditionOptions](Excel.Range.EditionOptions.md)|
+|[ExportAsFixedFormat](Excel.Range.ExportAsFixedFormat.md)|
+|[FillDown](Excel.Range.FillDown.md)|
+|[FillLeft](Excel.Range.FillLeft.md)|
+|[FillRight](Excel.Range.FillRight.md)|
+|[FillUp](Excel.Range.FillUp.md)|
+|[Find](Excel.Range.Find.md)|
+|[FindNext](Excel.Range.FindNext.md)|
+|[FindPrevious](Excel.Range.FindPrevious.md)|
+|[FlashFill](Excel.range.flashfill.md)|
+|[FunctionWizard](Excel.Range.FunctionWizard.md)|
+|[Group](Excel.Range.Group.md)|
+|[Insert](Excel.Range.Insert.md)|
+|[InsertIndent](Excel.Range.InsertIndent.md)|
+|[Justify](Excel.Range.Justify.md)|
+|[ListNames](Excel.Range.ListNames.md)|
+|[Merge](Excel.Range.Merge.md)|
+|[NavigateArrow](Excel.Range.NavigateArrow.md)|
+|[NoteText](Excel.Range.NoteText.md)|
+|[Parse](Excel.Range.Parse.md)|
+|[PasteSpecial](Excel.Range.PasteSpecial.md)|
+|[PrintOut](Excel.Range.PrintOut.md)|
+|[PrintPreview](Excel.Range.PrintPreview.md)|
+|[RemoveDuplicates](Excel.Range.RemoveDuplicates.md)|
+|[RemoveSubtotal](Excel.Range.RemoveSubtotal.md)|
+|[Replace](Excel.Range.Replace.md)|
+|[RowDifferences](Excel.Range.RowDifferences.md)|
+|[Run](Excel.Range.Run.md)|
+|[Select](Excel.Range.Select.md)|
+|[SetPhonetic](Excel.Range.SetPhonetic.md)|
+|[Show](Excel.Range.Show.md)|
+|[ShowDependents](Excel.Range.ShowDependents.md)|
+|[ShowErrors](Excel.Range.ShowErrors.md)|
+|[ShowPrecedents](Excel.Range.ShowPrecedents.md)|
+|[Sort](Excel.Range.Sort.md)|
+|[SortSpecial](Excel.Range.SortSpecial.md)|
+|[Speak](Excel.Range.Speak.md)|
+|[SpecialCells](Excel.Range.SpecialCells.md)|
+|[SubscribeTo](Excel.Range.SubscribeTo.md)|
+|[Subtotal](Excel.Range.Subtotal.md)|
+|[Table](Excel.Range.Table.md)|
+|[TextToColumns](Excel.Range.TextToColumns.md)|
+|[Ungroup](Excel.Range.Ungroup.md)|
+|[UnMerge](Excel.Range.UnMerge.md)|
 
 ## Properties
 
@@ -327,102 +327,102 @@ The following properties and methods for returning a  **Range** object are descr
 
 |**Name**|
 |:-----|
-|[AddIndent](./Excel.Range.AddIndent.md)|
-|[Address](./Excel.Range.Address.md)|
-|[AddressLocal](./Excel.Range.AddressLocal.md)|
-|[AllowEdit](./Excel.Range.AllowEdit.md)|
-|[Application](./Excel.Range.Application.md)|
-|[Areas](./Excel.Range.Areas.md)|
-|[Borders](./Excel.Range.Borders.md)|
-|[Cells](./Excel.Range.Cells.md)|
-|[Characters](./Excel.Range.Characters.md)|
-|[Column](./Excel.Range.Column.md)|
-|[Columns](./Excel.Range.Columns.md)|
-|[ColumnWidth](./Excel.Range.ColumnWidth.md)|
-|[Comment](./Excel.Range.Comment.md)|
-|[Count](./Excel.Range.Count.md)|
-|[CountLarge](./Excel.Range.CountLarge.md)|
-|[Creator](./Excel.Range.Creator.md)|
-|[CurrentArray](./Excel.Range.CurrentArray.md)|
-|[CurrentRegion](./Excel.Range.CurrentRegion.md)|
-|[Dependents](./Excel.Range.Dependents.md)|
-|[DirectDependents](./Excel.Range.DirectDependents.md)|
-|[DirectPrecedents](./Excel.Range.DirectPrecedents.md)|
-|[DisplayFormat](./Excel.Range.DisplayFormat.md)|
-|[End](./Excel.Range.End.md)|
-|[EntireColumn](./Excel.Range.EntireColumn.md)|
-|[EntireRow](./Excel.Range.EntireRow.md)|
-|[Errors](./Excel.Range.Errors.md)|
-|[Font](./Excel.Range.Font.md)|
-|[FormatConditions](./Excel.Range.FormatConditions.md)|
-|[Formula](./Excel.Range.Formula.md)|
-|[FormulaArray](./Excel.Range.FormulaArray.md)|
-|[FormulaHidden](./Excel.Range.FormulaHidden.md)|
-|[FormulaLocal](./Excel.Range.FormulaLocal.md)|
-|[FormulaR1C1](./Excel.Range.FormulaR1C1.md)|
-|[FormulaR1C1Local](./Excel.Range.FormulaR1C1Local.md)|
-|[HasArray](./Excel.Range.HasArray.md)|
-|[HasFormula](./Excel.Range.HasFormula.md)|
-|[Height](./Excel.Range.Height.md)|
-|[Hidden](./Excel.Range.Hidden.md)|
-|[HorizontalAlignment](./Excel.Range.HorizontalAlignment.md)|
-|[Hyperlinks](./Excel.Range.Hyperlinks.md)|
-|[ID](./Excel.Range.ID.md)|
-|[IndentLevel](./Excel.Range.IndentLevel.md)|
-|[Interior](./Excel.Range.Interior.md)|
-|[Item](./Excel.Range.Item.md)|
-|[Left](./Excel.Range.Left.md)|
-|[ListHeaderRows](./Excel.Range.ListHeaderRows.md)|
-|[ListObject](./Excel.Range.ListObject.md)|
-|[LocationInTable](./Excel.Range.LocationInTable.md)|
-|[Locked](./Excel.Range.Locked.md)|
-|[MDX](./Excel.Range.MDX.md)|
-|[MergeArea](./Excel.Range.MergeArea.md)|
-|[MergeCells](./Excel.Range.MergeCells.md)|
-|[Name](./Excel.Range.Name.md)|
-|[Next](./Excel.Range.Next.md)|
-|[NumberFormat](./Excel.Range.NumberFormat.md)|
-|[NumberFormatLocal](./Excel.Range.NumberFormatLocal.md)|
-|[Offset](./Excel.Range.Offset.md)|
-|[Orientation](./Excel.Range.Orientation.md)|
-|[OutlineLevel](./Excel.Range.OutlineLevel.md)|
-|[PageBreak](./Excel.Range.PageBreak.md)|
-|[Parent](./Excel.Range.Parent.md)|
-|[Phonetic](./Excel.Range.Phonetic.md)|
-|[Phonetics](./Excel.Range.Phonetics.md)|
-|[PivotCell](./Excel.Range.PivotCell.md)|
-|[PivotField](./Excel.Range.PivotField.md)|
-|[PivotItem](./Excel.Range.PivotItem.md)|
-|[PivotTable](./Excel.Range.PivotTable.md)|
-|[Precedents](./Excel.Range.Precedents.md)|
-|[PrefixCharacter](./Excel.Range.PrefixCharacter.md)|
-|[Previous](./Excel.Range.Previous.md)|
-|[QueryTable](./Excel.Range.QueryTable.md)|
-|[Range](./Excel.Range.Range.md)|
-|[ReadingOrder](./Excel.Range.ReadingOrder.md)|
-|[Resize](./Excel.Range.Resize.md)|
-|[Row](./Excel.Range.Row.md)|
-|[RowHeight](./Excel.Range.RowHeight.md)|
-|[Rows](./Excel.Range.Rows.md)|
-|[ServerActions](./Excel.Range.ServerActions.md)|
-|[ShowDetail](./Excel.Range.ShowDetail.md)|
-|[ShrinkToFit](./Excel.Range.ShrinkToFit.md)|
-|[SoundNote](./Excel.Range.SoundNote.md)|
-|[SparklineGroups](./Excel.Range.SparklineGroups.md)|
-|[Style](./Excel.Range.Style.md)|
-|[Summary](./Excel.Range.Summary.md)|
-|[Text](./Excel.Range.Text.md)|
-|[Top](./Excel.Range.Top.md)|
-|[UseStandardHeight](./Excel.Range.UseStandardHeight.md)|
-|[UseStandardWidth](./Excel.Range.UseStandardWidth.md)|
-|[Validation](./Excel.Range.Validation.md)|
-|[Value](./Excel.Range.Value.md)|
-|[Value2](./Excel.Range.Value2.md)|
-|[VerticalAlignment](./Excel.Range.VerticalAlignment.md)|
-|[Width](./Excel.Range.Width.md)|
-|[Worksheet](./Excel.Range.Worksheet.md)|
-|[WrapText](./Excel.Range.WrapText.md)|
-|[XPath](./Excel.Range.XPath.md)|
+|[AddIndent](Excel.Range.AddIndent.md)|
+|[Address](Excel.Range.Address.md)|
+|[AddressLocal](Excel.Range.AddressLocal.md)|
+|[AllowEdit](Excel.Range.AllowEdit.md)|
+|[Application](Excel.Range.Application.md)|
+|[Areas](Excel.Range.Areas.md)|
+|[Borders](Excel.Range.Borders.md)|
+|[Cells](Excel.Range.Cells.md)|
+|[Characters](Excel.Range.Characters.md)|
+|[Column](Excel.Range.Column.md)|
+|[Columns](Excel.Range.Columns.md)|
+|[ColumnWidth](Excel.Range.ColumnWidth.md)|
+|[Comment](Excel.Range.Comment.md)|
+|[Count](Excel.Range.Count.md)|
+|[CountLarge](Excel.Range.CountLarge.md)|
+|[Creator](Excel.Range.Creator.md)|
+|[CurrentArray](Excel.Range.CurrentArray.md)|
+|[CurrentRegion](Excel.Range.CurrentRegion.md)|
+|[Dependents](Excel.Range.Dependents.md)|
+|[DirectDependents](Excel.Range.DirectDependents.md)|
+|[DirectPrecedents](Excel.Range.DirectPrecedents.md)|
+|[DisplayFormat](Excel.Range.DisplayFormat.md)|
+|[End](Excel.Range.End.md)|
+|[EntireColumn](Excel.Range.EntireColumn.md)|
+|[EntireRow](Excel.Range.EntireRow.md)|
+|[Errors](Excel.Range.Errors.md)|
+|[Font](Excel.Range.Font.md)|
+|[FormatConditions](Excel.Range.FormatConditions.md)|
+|[Formula](Excel.Range.Formula.md)|
+|[FormulaArray](Excel.Range.FormulaArray.md)|
+|[FormulaHidden](Excel.Range.FormulaHidden.md)|
+|[FormulaLocal](Excel.Range.FormulaLocal.md)|
+|[FormulaR1C1](Excel.Range.FormulaR1C1.md)|
+|[FormulaR1C1Local](Excel.Range.FormulaR1C1Local.md)|
+|[HasArray](Excel.Range.HasArray.md)|
+|[HasFormula](Excel.Range.HasFormula.md)|
+|[Height](Excel.Range.Height.md)|
+|[Hidden](Excel.Range.Hidden.md)|
+|[HorizontalAlignment](Excel.Range.HorizontalAlignment.md)|
+|[Hyperlinks](Excel.Range.Hyperlinks.md)|
+|[ID](Excel.Range.ID.md)|
+|[IndentLevel](Excel.Range.IndentLevel.md)|
+|[Interior](Excel.Range.Interior.md)|
+|[Item](Excel.Range.Item.md)|
+|[Left](Excel.Range.Left.md)|
+|[ListHeaderRows](Excel.Range.ListHeaderRows.md)|
+|[ListObject](Excel.Range.ListObject.md)|
+|[LocationInTable](Excel.Range.LocationInTable.md)|
+|[Locked](Excel.Range.Locked.md)|
+|[MDX](Excel.Range.MDX.md)|
+|[MergeArea](Excel.Range.MergeArea.md)|
+|[MergeCells](Excel.Range.MergeCells.md)|
+|[Name](Excel.Range.Name.md)|
+|[Next](Excel.Range.Next.md)|
+|[NumberFormat](Excel.Range.NumberFormat.md)|
+|[NumberFormatLocal](Excel.Range.NumberFormatLocal.md)|
+|[Offset](Excel.Range.Offset.md)|
+|[Orientation](Excel.Range.Orientation.md)|
+|[OutlineLevel](Excel.Range.OutlineLevel.md)|
+|[PageBreak](Excel.Range.PageBreak.md)|
+|[Parent](Excel.Range.Parent.md)|
+|[Phonetic](Excel.Range.Phonetic.md)|
+|[Phonetics](Excel.Range.Phonetics.md)|
+|[PivotCell](Excel.Range.PivotCell.md)|
+|[PivotField](Excel.Range.PivotField.md)|
+|[PivotItem](Excel.Range.PivotItem.md)|
+|[PivotTable](Excel.Range.PivotTable.md)|
+|[Precedents](Excel.Range.Precedents.md)|
+|[PrefixCharacter](Excel.Range.PrefixCharacter.md)|
+|[Previous](Excel.Range.Previous.md)|
+|[QueryTable](Excel.Range.QueryTable.md)|
+|[Range](Excel.Range.Range.md)|
+|[ReadingOrder](Excel.Range.ReadingOrder.md)|
+|[Resize](Excel.Range.Resize.md)|
+|[Row](Excel.Range.Row.md)|
+|[RowHeight](Excel.Range.RowHeight.md)|
+|[Rows](Excel.Range.Rows.md)|
+|[ServerActions](Excel.Range.ServerActions.md)|
+|[ShowDetail](Excel.Range.ShowDetail.md)|
+|[ShrinkToFit](Excel.Range.ShrinkToFit.md)|
+|[SoundNote](Excel.Range.SoundNote.md)|
+|[SparklineGroups](Excel.Range.SparklineGroups.md)|
+|[Style](Excel.Range.Style.md)|
+|[Summary](Excel.Range.Summary.md)|
+|[Text](Excel.Range.Text.md)|
+|[Top](Excel.Range.Top.md)|
+|[UseStandardHeight](Excel.Range.UseStandardHeight.md)|
+|[UseStandardWidth](Excel.Range.UseStandardWidth.md)|
+|[Validation](Excel.Range.Validation.md)|
+|[Value](Excel.Range.Value.md)|
+|[Value2](Excel.Range.Value2.md)|
+|[VerticalAlignment](Excel.Range.VerticalAlignment.md)|
+|[Width](Excel.Range.Width.md)|
+|[Worksheet](Excel.Range.Worksheet.md)|
+|[WrapText](Excel.Range.WrapText.md)|
+|[XPath](Excel.Range.XPath.md)|
 
 ## About the Contributor
 <a name="AboutContributor"> </a>

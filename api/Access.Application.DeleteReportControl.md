@@ -20,7 +20,7 @@ The  **DeleteReportControl** method deletes a specified control from a report.
 
  _expression_. `DeleteReportControl`( ` _ReportName_`, ` _ControlName_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

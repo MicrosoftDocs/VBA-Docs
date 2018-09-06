@@ -36,13 +36,13 @@ You can't add or delete a  **Form** object from the **Forms** collection.
 
 |**Name**|
 |:-----|
-|[Application](./Access.Forms.Application.md)|
-|[Count](./Access.Forms.Count.md)|
-|[Item](./Access.Forms.Item.md)|
-|[Parent](./Access.Forms.Parent.md)|
+|[Application](Access.Forms.Application.md)|
+|[Count](Access.Forms.Count.md)|
+|[Item](Access.Forms.Item.md)|
+|[Parent](Access.Forms.Parent.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[Forms Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[Forms Object Members](overview/Access.md)

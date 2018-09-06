@@ -20,7 +20,7 @@ Returns a  **SmartTagProperties** collection that represents the collection of p
 
  _expression_. `Properties`
 
- _expression_ A variable that represents a [SmartTag](./Access.SmartTag.md) object.
+ _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## See also

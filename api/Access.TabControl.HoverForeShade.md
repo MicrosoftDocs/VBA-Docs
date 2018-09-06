@@ -20,7 +20,7 @@ Gets or sets the shade applied to the theme color in the  **HoverForeColor** pro
 
  _expression_. `HoverForeShade`
 
- _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
+ _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

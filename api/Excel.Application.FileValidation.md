@@ -25,7 +25,7 @@ Returns or sets how Excel will validate files before opening them. Read/write
 
 ### Return Value
 
- **[MsoFileValidationMode](./Office.MsoFileValidationMode.md)**
+ **[MsoFileValidationMode](Office.MsoFileValidationMode.md)**
 
 
 ## Remarks

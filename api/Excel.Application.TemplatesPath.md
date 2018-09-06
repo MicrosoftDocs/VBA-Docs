@@ -20,7 +20,7 @@ Returns the local path where templates are stored. Read-only  **String** .
 
  _expression_. `TemplatesPath`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

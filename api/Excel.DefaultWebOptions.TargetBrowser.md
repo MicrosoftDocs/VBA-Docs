@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.TargetBrowser Property (Excel)
 
-Returns or sets an  **[MsoTargetBrowser](./Office.MsoTargetBrowser.md)** constant indicating the browser version. Read/write.
+Returns or sets an  **[MsoTargetBrowser](Office.MsoTargetBrowser.md)** constant indicating the browser version. Read/write.
 
 
 ## Syntax
 
  _expression_. `TargetBrowser`
 
- _expression_ A variable that represents a [DefaultWebOptions](./Excel.DefaultWebOptions.md) object.
+ _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks

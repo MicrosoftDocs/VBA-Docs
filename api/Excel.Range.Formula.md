@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the object's formula in A1-
 
  _expression_. `Formula`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks

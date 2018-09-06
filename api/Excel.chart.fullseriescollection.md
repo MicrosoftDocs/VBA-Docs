@@ -18,7 +18,7 @@ Enables retrieving the filtered out series specified by the Index argument.
 
  _expression_. `FullSeriesCollection`_(Index)_
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

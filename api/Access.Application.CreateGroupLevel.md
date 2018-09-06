@@ -20,7 +20,7 @@ You can use the  **CreateGroupLevel** method to specify a field or expression on
 
  _expression_. `CreateGroupLevel`( ` _ReportName_`, ` _Expression_`, ` _Header_`, ` _Footer_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

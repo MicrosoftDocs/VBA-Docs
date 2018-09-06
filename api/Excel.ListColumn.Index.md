@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the index number of the **[ListColumn]
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
+ _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## See also

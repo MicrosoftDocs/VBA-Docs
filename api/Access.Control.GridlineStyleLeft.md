@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified control. Read/wr
 
  _expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

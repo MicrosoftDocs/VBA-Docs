@@ -20,7 +20,7 @@ Deletes the  **[ListObject](Excel.ListObject.md)** object and clears the cell da
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
+ _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks

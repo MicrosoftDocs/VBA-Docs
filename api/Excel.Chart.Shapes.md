@@ -20,7 +20,7 @@ Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shap
 
  _expression_. `Shapes`
 
- _expression_ An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## See also

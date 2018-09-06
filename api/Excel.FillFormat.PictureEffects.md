@@ -22,7 +22,7 @@ Returns an object that represents the picture or texture fill for the specified 
 
 ### Return Value
 
-[PictureEffects](./Office.PictureEffects.md)
+[PictureEffects](Office.PictureEffects.md)
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object, which specifies the c
 
  _expression_. `FormatColor`
 
- _expression_ A variable that represents a [ColorScaleCriterion](./Excel.ColorScaleCriterion.md) object.
+ _expression_ A variable that represents a [ColorScaleCriterion](Excel.ColorScaleCriterion.md) object.
 
 
 ## Remarks

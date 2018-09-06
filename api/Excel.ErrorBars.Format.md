@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. `Format`
 
- _expression_ A variable that represents an [ErrorBars](./Excel.ErrorBars(Graph property).md) object.
+ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars(Graph property).md) object.
 
 
 ## See also

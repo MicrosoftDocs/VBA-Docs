@@ -20,7 +20,7 @@ Returns or sets the shortcut key for a name defined as a custom Microsoft Excel 
 
  _expression_. `ShortcutKey`
 
- _expression_ A variable that represents a [Name](./Excel.Name.md) object.
+ _expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example

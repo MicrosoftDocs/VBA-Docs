@@ -20,7 +20,7 @@ Returns or sets the theme color in the applied color scheme that is associated w
 
  _expression_. `ThemeColor`
 
- _expression_ A variable that represents a [Border](./Excel.Border(Graph property).md) object.
+ _expression_ A variable that represents a [Border](Excel.Border(Graph property).md) object.
 
 
 ## Remarks

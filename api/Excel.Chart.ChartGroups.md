@@ -20,7 +20,7 @@ Returns an object that represents either a single chart group (a  **[ChartGroup]
 
  _expression_. `ChartGroups`( `_Index_` )
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

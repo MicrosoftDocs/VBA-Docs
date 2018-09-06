@@ -20,7 +20,7 @@ Adds a new connction to the workbook.
 
  _expression_. `Add`( `_Name_` , `_Description_` , `_ConnectionString_` , `_CommandText_` , `_lCmdtype_` ), `_CreateModelConnection_` , `_ImportRelationships_`
 
- _expression_ A variable that represents a [Connections](./Excel.Connections.md) object.
+ _expression_ A variable that represents a [Connections](Excel.Connections.md) object.
 
 
 ### Parameters

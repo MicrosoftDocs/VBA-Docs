@@ -18,11 +18,11 @@ Represents the collection of  **[TempVar](Access.TempVar.md)** objects.
 
 ## Remarks
 
-Use the  **[Add](./Access.TempVars.Add.md)** method or the[SetTempVar](./overview/Access.md) macro action to create a **TempVar** object.
+Use the  **[Add](Access.TempVars.Add.md)** method or the[SetTempVar](overview/Access.md) macro action to create a **TempVar** object.
 
-Use the  **[Remove](./Access.TempVars.Remove.md)** method or the[RemoveTempVar](./overview/Access.md) macro action to delete a **TempVar** object from the **TempVars** collection.
+Use the  **[Remove](Access.TempVars.Remove.md)** method or the[RemoveTempVar](overview/Access.md) macro action to delete a **TempVar** object from the **TempVars** collection.
 
-Use the  **[RemoveAll](./Access.TempVars.RemoveAll.md)** method or[RemoveAllTempVars](./overview/Access.md) macro action to delete all **TempVar** objects from the **TempVars** collection.
+Use the  **[RemoveAll](Access.TempVars.RemoveAll.md)** method or[RemoveAllTempVars](overview/Access.md) macro action to delete all **TempVar** objects from the **TempVars** collection.
 
 The  **TempVars** collection can store up to 255 **TempVar** objects. If you do not remove a **TempVar** object, it will remain in memory until you close the database. It is a good practice to remove **TempVar** object variables when you are finished using them.
 
@@ -38,9 +38,9 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 |**Name**|
 |:-----|
-|[Add](./Access.TempVars.Add.md)|
-|[Remove](./Access.TempVars.Remove.md)|
-|[RemoveAll](./Access.TempVars.RemoveAll.md)|
+|[Add](Access.TempVars.Add.md)|
+|[Remove](Access.TempVars.Remove.md)|
+|[RemoveAll](Access.TempVars.RemoveAll.md)|
 
 ## Properties
 
@@ -48,13 +48,13 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 |**Name**|
 |:-----|
-|[Application](./Access.TempVars.Application.md)|
-|[Count](./Access.TempVars.Count.md)|
-|[Item](./Access.TempVars.Item.md)|
-|[Parent](./Access.TempVars.Parent.md)|
+|[Application](Access.TempVars.Application.md)|
+|[Count](Access.TempVars.Count.md)|
+|[Item](Access.TempVars.Item.md)|
+|[Parent](Access.TempVars.Parent.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[TempVars Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[TempVars Object Members](overview/Access.md)

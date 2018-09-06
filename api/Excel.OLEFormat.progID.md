@@ -20,7 +20,7 @@ Returns the programmatic identifiers for the object. Read-only  **String** .
 
  _expression_. `progID`
 
- _expression_ A variable that represents an [OLEFormat](./Excel.OLEFormat.md) object.
+ _expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
 
 
 ## Example

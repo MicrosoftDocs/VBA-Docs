@@ -20,7 +20,7 @@ The  **AfterUpdate** event occurs after changed data in a control or record is u
 
  _expression_. `AfterUpdate`
 
- _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
+ _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the name of the standard font. Read/write  **String** .
 
  _expression_. `StandardFont`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

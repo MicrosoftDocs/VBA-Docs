@@ -78,4 +78,4 @@ An  **OLEDBConnection** object contains information related to the connection, s
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

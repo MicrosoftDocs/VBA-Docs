@@ -20,7 +20,7 @@ Determines or specifies the text in the text box. Read/write  **Variant**.
 
  _expression_. `Value`
 
- _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
+ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

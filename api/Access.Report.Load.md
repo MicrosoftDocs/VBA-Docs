@@ -20,7 +20,7 @@ Occurs when a report is opened and its records are displayed.
 
  _expression_. `Load`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

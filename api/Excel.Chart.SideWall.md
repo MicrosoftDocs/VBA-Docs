@@ -20,7 +20,7 @@ Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to in
 
  _expression_. `SideWall`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## See also

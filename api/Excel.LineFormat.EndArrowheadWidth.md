@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.EndArrowheadWidth Property (Excel)
 
-Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadWidth](./Office.MsoArrowheadWidth.md)** .
+Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** .
 
 
 ## Syntax
 
  _expression_. `EndArrowheadWidth`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Remarks

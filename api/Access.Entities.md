@@ -38,4 +38,4 @@ For more information about external content types, see [What Are External Conten
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

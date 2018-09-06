@@ -20,7 +20,7 @@ You can use the  **ControlTipText** property to specify the text that appears in
 
  _expression_. `ControlTipText`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

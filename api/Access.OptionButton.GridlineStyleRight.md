@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified option button. Read/write
 
  _expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

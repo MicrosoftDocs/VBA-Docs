@@ -20,7 +20,7 @@ Copies the sheet to another location in the workbook.
 
  _expression_. `Copy`( `_Before_` , `_After_` )
 
- _expression_ A variable that represents a [Charts](./Excel.Charts.md) object.
+ _expression_ A variable that represents a [Charts](Excel.Charts.md) object.
 
 
 ### Parameters

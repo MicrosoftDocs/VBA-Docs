@@ -20,7 +20,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [Floor](./Excel.Floor(Graph property).md) object.
+ _expression_ A variable that represents a [Floor](Excel.Floor(Graph property).md) object.
 
 
 ## See also

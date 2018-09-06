@@ -20,7 +20,7 @@ You can use the  **KeyPreview** property to specify whether the form-level keybo
 
  _expression_. `KeyPreview`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

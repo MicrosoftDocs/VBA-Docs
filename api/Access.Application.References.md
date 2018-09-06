@@ -20,7 +20,7 @@ You can use the  **References** property to access the **[References](Access.Ref
 
  _expression_. `References`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

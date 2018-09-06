@@ -20,7 +20,7 @@ Returns or sets the marker foreground color as an index into the current color p
 
  _expression_. `MarkerForegroundColorIndex`
 
- _expression_ A variable that represents a [LegendKey](./Excel.LegendKey(Graph property).md) object.
+ _expression_ A variable that represents a [LegendKey](Excel.LegendKey(Graph property).md) object.
 
 
 ## See also

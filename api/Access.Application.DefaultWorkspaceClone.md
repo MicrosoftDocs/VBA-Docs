@@ -20,7 +20,7 @@ You can use the  **DefaultWorkspaceClone** method to create a new **Workspace** 
 
  _expression_. `DefaultWorkspaceClone`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

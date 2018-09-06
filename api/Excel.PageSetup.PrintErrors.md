@@ -20,7 +20,7 @@ Sets or returns an  **[XlPrintErrors](Excel.XlPrintErrors.md)** contstant specif
 
  _expression_. `PrintErrors`
 
- _expression_ A variable that represents a [PageSetup](./Excel.PageSetup.md) object.
+ _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.EndConnected Property (Excel)
 
- **msoTrue** if the end of the specified connector is connected to a shape. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
+ **msoTrue** if the end of the specified connector is connected to a shape. Read-only **[MsoTriState](Office.MsoTriState.md)** .
 
 
 ## Syntax
 
  _expression_. `EndConnected`
 
- _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
+ _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
 
 
 ## Remarks

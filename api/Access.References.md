@@ -75,4 +75,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

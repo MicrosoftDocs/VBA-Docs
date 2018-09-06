@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureType Property (Excel)
 
-Returns the texture type for the specified fill. Read-only  **[MsoTextureType](./Office.MsoTextureType.md)** .
+Returns the texture type for the specified fill. Read-only  **[MsoTextureType](Office.MsoTextureType.md)** .
 
 
 ## Syntax
 
  _expression_. `TextureType`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

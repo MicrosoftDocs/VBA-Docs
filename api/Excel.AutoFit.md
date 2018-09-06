@@ -17,7 +17,7 @@ Changes the width of the columns in the specified range to achieve the best fit.
 
  _expression_. `AutoFit`
 
- _expression_ Required. An expression that returns a [Range](./Excel.Range(Graph property).md) object. Must be a row or a range of rows, or a column or a range of columns. Otherwise, this method causes an error.
+ _expression_ Required. An expression that returns a [Range](Excel.Range(Graph property).md) object. Must be a row or a range of rows, or a column or a range of columns. Otherwise, this method causes an error.
 
 
 ## Remarks

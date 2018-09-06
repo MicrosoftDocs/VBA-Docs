@@ -20,7 +20,7 @@ Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only *
 
  _expression_. `TempVars`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Gets whether or not macros and Visual Basic for Applications (VBA) code have bee
 
  _expression_. `IsTrusted`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

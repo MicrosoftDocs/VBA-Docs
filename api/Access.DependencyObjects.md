@@ -37,4 +37,4 @@ To return a single  **AccessObject** object, use the **Item** method of the **De
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

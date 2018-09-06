@@ -20,7 +20,7 @@ Gets the  **[SharedResources](Access.SharedResources.md)** collection for the sp
 
  _expression_. `Resources`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

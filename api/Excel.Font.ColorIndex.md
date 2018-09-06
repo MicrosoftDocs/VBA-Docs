@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the color of the font.
 
  _expression_. `ColorIndex`
 
- _expression_ A variable that represents a [Font](./Excel.Font(Graph property).md) object.
+ _expression_ A variable that represents a [Font](Excel.Font(Graph property).md) object.
 
 
 ## Remarks

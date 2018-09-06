@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified text box. Read/write  **Byt
 
  _expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
+ _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

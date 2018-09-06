@@ -43,4 +43,4 @@ To return the  **SmartTagProperties** collection for a smart tag, use the **[Pro
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

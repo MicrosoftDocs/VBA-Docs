@@ -20,7 +20,7 @@ Returns or sets the command string for the specified data source. Read/write  **
 
  _expression_. `CommandText`
 
- _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
+ _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks

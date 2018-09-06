@@ -20,7 +20,7 @@ The  **ImportXML** method allows developers to import XML data and/or schema inf
 
  _expression_. `ImportXML`( ` _DataSource_`, ` _ImportOptions_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

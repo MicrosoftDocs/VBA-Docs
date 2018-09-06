@@ -20,7 +20,7 @@ You can use the  **RepeatSection** property to specify whether a group header is
 
  _expression_. `RepeatSection`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

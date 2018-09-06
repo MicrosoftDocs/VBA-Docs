@@ -20,7 +20,7 @@ Returns or sets the threshold value for an icon in a conditional format. Read/wr
 
  _expression_. `Value`
 
- _expression_ A variable that represents an [IconCriterion](./Excel.IconCriterion.md) object.
+ _expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use this property for linked unbound object frames to determine the comp
 
  _expression_. `SourceObject`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

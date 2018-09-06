@@ -20,7 +20,7 @@ Returns or sets a  **String** value that indicates the source data file for a qu
 
  _expression_. `SourceDataFile`
 
- _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
+ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks

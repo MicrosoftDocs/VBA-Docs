@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates if the object is locked.
 
  _expression_. `Locked`
 
- _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
+ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (Excel)
 
-Returns a  **[FileDialog](./Office.FileDialog.md)** object representing an instance of the file dialog.
+Returns a  **[FileDialog](Office.FileDialog.md)** object representing an instance of the file dialog.
 
 
 ## Syntax
 
  _expression_. `FileDialog`( `_fileDialogType_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[FileDialog](./Office.FileDialog.md)** object representing an insta
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _fileDialogType_|Required| **[MsoFileDialogType](./Office.MsoFileDialogType.md)**|The type of file dialog.|
+| _fileDialogType_|Required| **[MsoFileDialogType](Office.MsoFileDialogType.md)**|The type of file dialog.|
 
 ## Remarks
 

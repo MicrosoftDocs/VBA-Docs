@@ -20,7 +20,7 @@ Cancels all refresh operations in progress for the specified OLE DB connection.
 
  _expression_. `CancelRefresh`
 
- _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
+ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks

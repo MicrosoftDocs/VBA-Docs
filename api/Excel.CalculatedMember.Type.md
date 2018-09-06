@@ -20,7 +20,7 @@ Returns a  **[XlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value t
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [CalculatedMember](./Excel.CalculatedMember.md) object.
+ _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
 
 
 ## See also

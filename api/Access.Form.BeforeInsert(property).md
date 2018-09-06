@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating which macro, event procedure, or user-d
 
  _expression_. `BeforeInsert`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

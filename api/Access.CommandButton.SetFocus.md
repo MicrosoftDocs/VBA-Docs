@@ -20,7 +20,7 @@ The  **SetFocus** method moves the focus to the specified form, the specified co
 
  _expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ### Return Value

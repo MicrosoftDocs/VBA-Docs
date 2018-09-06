@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `ProtectionMode`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Example

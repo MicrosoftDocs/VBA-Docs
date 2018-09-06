@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified text box. Read/write  **B
 
  _expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
+ _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

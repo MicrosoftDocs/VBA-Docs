@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the attachment and its bott
 
  _expression_. `BottomPadding`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

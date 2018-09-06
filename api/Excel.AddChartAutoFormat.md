@@ -17,7 +17,7 @@ Adds a custom chart autoformat to the list of available chart autoformats.
 
  _expression_. `AddChartAutoFormat( _Name_`,  `_Description_)`
 
- _expression_ Required. An expression that returns an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ Required. An expression that returns an [Application](Excel.Application(Graph property).md) object.
 
  **Name** Required **String**. The name of the autoformat.
  **Description** Optional **String**. A description of the custom autoformat.

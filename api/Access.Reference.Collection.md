@@ -20,7 +20,7 @@ The  **Collection** property returns a reference to the collection that contains
 
  _expression_. `Collection`
 
- _expression_ A variable that represents a [Reference](./Access.Reference.md) object.
+ _expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

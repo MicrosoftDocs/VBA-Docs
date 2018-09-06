@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the comment associated with 
 
  _expression_. `Comment`
 
- _expression_ A variable that represents a [Scenario](./Excel.Scenario.md) object.
+ _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Remarks

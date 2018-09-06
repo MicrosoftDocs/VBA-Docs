@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** to indicate the series name display behavior for 
 
  _expression_. `ShowSeriesName`
 
- _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
+ _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the type of layout for the specified combo box. Read-only  **[AcLayoutTy
 
  _expression_. `Layout`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## See also

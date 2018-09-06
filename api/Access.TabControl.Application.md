@@ -20,7 +20,7 @@ You can use the  **Application** property to access the active Microsoft Access 
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
+ _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

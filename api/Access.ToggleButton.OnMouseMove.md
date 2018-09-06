@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Mouse Move** box in the **Properties** wi
 
  _expression_. `OnMouseMove`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `DisplayNoteIndicator`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

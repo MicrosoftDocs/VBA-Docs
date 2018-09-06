@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `ShowCategoryName`
 
- _expression_ An expression that returns a [DataLabels](./Excel.DataLabels(object).md) object.
+ _expression_ An expression that returns a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

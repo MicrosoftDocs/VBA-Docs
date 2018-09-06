@@ -20,7 +20,7 @@ Carries out the Echo action in Visual Basic.
 
  _expression_. `Echo`( ` _EchoOn_`, ` _StatusBarText_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

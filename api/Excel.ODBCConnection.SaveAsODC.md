@@ -20,7 +20,7 @@ Saves the ODBC connection as a Microsoft Office Data Connection file.
 
  _expression_. `SaveAsODC`( `_ODCFileName_` , `_Description_` , `_Keywords_` )
 
- _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
+ _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ### Parameters

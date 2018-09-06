@@ -20,7 +20,7 @@ Displays a Help topic.
 
  _expression_. `Help`( `_HelpFile_` , `_HelpContextID_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

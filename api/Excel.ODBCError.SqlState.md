@@ -20,7 +20,7 @@ Returns the SQL state error. Read-only  **String** .
 
  _expression_. `SqlState`
 
- _expression_ A variable that represents an [ODBCError](./Excel.ODBCError.md) object.
+ _expression_ A variable that represents an [ODBCError](Excel.ODBCError.md) object.
 
 
 ## Remarks

@@ -27,14 +27,14 @@ Use the  **Hyperlink** property to return a reference to a hyperlink object.
 
 |**Name**|
 |:-----|
-|[Address](./Access.Hyperlink.Address.md)|
-|[EmailSubject](./Access.Hyperlink.EmailSubject.md)|
-|[ScreenTip](./Access.Hyperlink.ScreenTip.md)|
-|[SubAddress](./Access.Hyperlink.SubAddress.md)|
-|[TextToDisplay](./Access.Hyperlink.TextToDisplay.md)|
+|[Address](Access.Hyperlink.Address.md)|
+|[EmailSubject](Access.Hyperlink.EmailSubject.md)|
+|[ScreenTip](Access.Hyperlink.ScreenTip.md)|
+|[SubAddress](Access.Hyperlink.SubAddress.md)|
+|[TextToDisplay](Access.Hyperlink.TextToDisplay.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[Hyperlink Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[Hyperlink Object Members](overview/Access.md)

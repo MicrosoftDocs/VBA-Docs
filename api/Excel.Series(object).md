@@ -18,7 +18,7 @@ Represents a series in a chart.
 
 ## Remarks
 
- The **Series** object is a member of the **[SeriesCollection](./Excel.SeriesCollection.md)** collection.
+ The **Series** object is a member of the **[SeriesCollection](Excel.SeriesCollection.md)** collection.
 
 
 ## Example
@@ -107,4 +107,4 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

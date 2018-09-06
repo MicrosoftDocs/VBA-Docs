@@ -20,7 +20,7 @@ Creates a new scenario and adds it to the list of scenarios that are available f
 
  _expression_. `Add`( `_Name_` , `_ChangingCells_` , `_Values_` , `_Comment_` , `_Locked_` , `_Hidden_` )
 
- _expression_ A variable that represents a [Scenarios](./Excel.Scenarios.md) object.
+ _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
 ### Parameters

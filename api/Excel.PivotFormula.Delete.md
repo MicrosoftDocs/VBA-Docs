@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [PivotFormula](./Excel.PivotFormula.md) object.
+ _expression_ A variable that represents a [PivotFormula](Excel.PivotFormula.md) object.
 
 
 ## See also

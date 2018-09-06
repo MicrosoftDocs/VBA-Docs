@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Mouse Up** box in the **Properties** wind
 
  _expression_. `OnMouseUp`
 
- _expression_ A variable that represents a [Page](./Access.Page.md) object.
+ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

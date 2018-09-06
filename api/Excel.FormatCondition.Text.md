@@ -20,7 +20,7 @@ Returns or sets a  **String** value specifying the text string used by the condi
 
  _expression_. `Text`
 
- _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks

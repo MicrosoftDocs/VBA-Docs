@@ -20,7 +20,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
  _expression_. `MajorTickMark`
 
- _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
 
 
 ## Remarks

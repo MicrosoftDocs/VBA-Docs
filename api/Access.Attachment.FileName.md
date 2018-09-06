@@ -20,7 +20,7 @@ Returns the full file name of the specified attachment. Read-only  **String**.
 
  _expression_. `FileName`( ` _var_` )
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters

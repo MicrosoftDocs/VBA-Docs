@@ -39,6 +39,6 @@ This type of connection can only be used by query tables in Excel
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

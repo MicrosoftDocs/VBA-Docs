@@ -20,7 +20,7 @@ The  **BeforeUpdate** event occurs before changed data in a control or record is
 
  _expression_. `BeforeUpdate`( ` _Cancel_` )
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ### Parameters

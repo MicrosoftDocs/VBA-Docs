@@ -20,7 +20,7 @@ You can use the  **DefaultView** property to specify the opening view of a form.
 
  _expression_. `DefaultView`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use the  **Count** property to determine the number of items in a specif
 
  _expression_. `Count`
 
- _expression_ A variable that represents an [AllStoredProcedures](./Access.AllStoredProcedures.md) object.
+ _expression_ A variable that represents an [AllStoredProcedures](Access.AllStoredProcedures.md) object.
 
 
 ## See also

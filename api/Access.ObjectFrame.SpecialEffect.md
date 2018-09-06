@@ -20,7 +20,7 @@ You can use the  **SpecialEffect** property to specify whether special formattin
 
  _expression_. `SpecialEffect`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -94,4 +94,4 @@ You can move a rectangle and the controls in it as a single unit by dragging the
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

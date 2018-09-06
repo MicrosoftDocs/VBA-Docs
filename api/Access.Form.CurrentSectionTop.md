@@ -20,7 +20,7 @@ You can use this property to determine the distance in twips from the top edge o
 
  _expression_. `CurrentSectionTop`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

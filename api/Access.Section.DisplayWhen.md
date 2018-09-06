@@ -20,7 +20,7 @@ You can use the  **DisplayWhen** property to specify which of a form's sections 
 
  _expression_. `DisplayWhen`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

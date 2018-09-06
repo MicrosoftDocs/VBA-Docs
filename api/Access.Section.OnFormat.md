@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Format** box in the **Properties** window
 
  _expression_. `OnFormat`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

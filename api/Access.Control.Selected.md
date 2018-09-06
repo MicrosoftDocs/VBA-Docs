@@ -20,7 +20,7 @@ You can use the  **Selected** property in Visual Basic to determine if an item i
 
  _expression_. `Selected`( ` _lRow_` )
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ### Parameters

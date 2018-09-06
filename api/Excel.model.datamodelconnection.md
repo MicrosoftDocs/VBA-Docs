@@ -26,6 +26,6 @@ Returns the model workbook connection object from the workbook connections colle
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

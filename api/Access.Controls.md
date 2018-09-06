@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Controls Object (Access)
 
-The  **Controls** collection contains all of the controls on a form, report, or subform, within another control, or attached to another control. The **Controls** collection is a member of a **[Form](./Access.Form.md)**, **[Report](Access.Report.md)**, and **[SubForm](Access.SubForm.md)** objects.
+The  **Controls** collection contains all of the controls on a form, report, or subform, within another control, or attached to another control. The **Controls** collection is a member of a **[Form](Access.Form.md)**, **[Report](Access.Report.md)**, and **[SubForm](Access.SubForm.md)** objects.
 
 
 ## Remarks
@@ -89,7 +89,7 @@ To work with the controls on a section of a form or report, use the  **Section**
 
 Two types of  **Control** objects, the tab control and option group control, have **Controls** collections that can contain multiple controls. The **Controls** collection belonging to the option group control contains any option button, check box, toggle button, or label controls in the option group.
 
-The tab control contains a  **[Pages](./Access.Pages.md)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](./Access.Page.md)** objects. **Page** objects are also controls. The **[ControlType](./Access.Page.ControlType.md)** property constant for a **Page** control is **acPage**. A **Page** object, in turn, has its own **Controls** collection, which contains all the controls on an individual page.
+The tab control contains a  **[Pages](Access.Pages.md)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](Access.Page.md)** objects. **Page** objects are also controls. The **[ControlType](Access.Page.ControlType.md)** property constant for a **Page** control is **acPage**. A **Page** object, in turn, has its own **Controls** collection, which contains all the controls on an individual page.
 
 Other  **Control** objects have a **Controls** collection that can contain an attached label. These controls include the text box, option group, option button, toggle button, check box, combo box, list box, command button, bound object frame, and unbound object frame controls.
 
@@ -100,13 +100,13 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 |**Name**|
 |:-----|
-|[Application](./Access.Controls.Application.md)|
-|[Count](./Access.Controls.Count.md)|
-|[Item](./Access.Controls.Item.md)|
-|[Parent](./Access.Controls.Parent.md)|
+|[Application](Access.Controls.Application.md)|
+|[Count](Access.Controls.Count.md)|
+|[Item](Access.Controls.Item.md)|
+|[Parent](Access.Controls.Parent.md)|
 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
-[Controls Object Members](./overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)
+[Controls Object Members](overview/Access.md)

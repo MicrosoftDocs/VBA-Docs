@@ -20,7 +20,7 @@ Gets or sets the shade that is applied to the theme color in the  **BorderColor*
 
  _expression_. `BorderShade`
 
- _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
+ _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

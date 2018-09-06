@@ -20,7 +20,7 @@ Returns or sets a  **Single** value that represents the height, in points, of th
 
  _expression_. `Height`
 
- _expression_ A variable that represents a [Graphic](./Excel.Graphic.md) object.
+ _expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
 
 
 ## See also

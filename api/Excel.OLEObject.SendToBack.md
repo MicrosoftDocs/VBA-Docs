@@ -20,7 +20,7 @@ Sends the object to the back of the z-order.
 
  _expression_. `SendToBack`
 
- _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
+ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ### Return Value

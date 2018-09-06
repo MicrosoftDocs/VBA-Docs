@@ -20,7 +20,7 @@ For callouts with an explicitly set drop value, this property returns the vertic
 
  _expression_. `Drop`
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Type Property (Excel)
 
-Returns or sets a  **[MsoCalloutType](./Office.MsoCalloutType.md)** value that represents the callout format type.
+Returns or sets a  **[MsoCalloutType](Office.MsoCalloutType.md)** value that represents the callout format type.
 
 
 ## Syntax
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## See also

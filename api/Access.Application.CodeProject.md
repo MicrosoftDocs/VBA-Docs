@@ -20,7 +20,7 @@ You can use the  **CodeProject** property to access the **[CodeProject](Access.C
 
  _expression_.CodeProject
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

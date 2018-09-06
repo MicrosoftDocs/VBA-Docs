@@ -20,7 +20,7 @@ You can use the  **DatasheetFontItalic** property to specify an italicized appea
 
  _expression_. `DatasheetFontItalic`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

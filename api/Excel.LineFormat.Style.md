@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.Style Property (Excel)
 
-Returns or sets a  **[MsoLineStyle](./Office.MsoLineStyle.md)** value that represents the style of the line.
+Returns or sets a  **[MsoLineStyle](Office.MsoLineStyle.md)** value that represents the style of the line.
 
 
 ## Syntax
 
  _expression_. `Style`
 
- _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
+ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also

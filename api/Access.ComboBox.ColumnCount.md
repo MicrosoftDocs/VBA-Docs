@@ -20,7 +20,7 @@ You can use the  **ColumnCount** property to specify the number of columns displ
 
  _expression_. `ColumnCount`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

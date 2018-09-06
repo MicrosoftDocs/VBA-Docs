@@ -20,7 +20,7 @@ Adds a file to the list of recently used files.
 
  _expression_. `Add`( `_Name_` )
 
- _expression_ A variable that represents a [RecentFiles](./Excel.RecentFiles.md) object.
+ _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 
 
 ### Parameters

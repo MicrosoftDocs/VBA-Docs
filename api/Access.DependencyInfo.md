@@ -37,4 +37,4 @@ To return the dependency information for an  **AccessObject** object, use the **
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

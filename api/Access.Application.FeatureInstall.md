@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.FeatureInstall Property (Access)
 
-You can use the  **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](./Office.MsoFeatureInstall.md)**.
+You can use the  **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](Office.MsoFeatureInstall.md)**.
 
 
 ## Syntax
 
  _expression_. `FeatureInstall`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

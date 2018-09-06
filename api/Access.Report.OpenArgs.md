@@ -20,7 +20,7 @@ Determines the string expression specified by the  _OpenArgs_ argument of the **
 
  _expression_. `OpenArgs`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

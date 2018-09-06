@@ -20,7 +20,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
  _expression_. `AfterUpdate`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

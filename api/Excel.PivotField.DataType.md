@@ -20,7 +20,7 @@ Returns a  **[XlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that 
 
  _expression_. `DataType`
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Example

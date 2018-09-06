@@ -20,7 +20,7 @@ Returns a  **Long** indicating the top-level window handle of the Microsoft Exce
 
  _expression_. `Hwnd`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

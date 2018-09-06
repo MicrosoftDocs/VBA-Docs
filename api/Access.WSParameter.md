@@ -29,4 +29,4 @@ Represents a parameter defined for an [Operation](Access.Operation.md).
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

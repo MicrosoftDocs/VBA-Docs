@@ -20,7 +20,7 @@ Saves an item or a collection of items in a document to a Web page.
 
  _expression_. `Publish`( `_Create_` )
 
- _expression_ A variable that represents a [PublishObject](./Excel.PublishObject.md) object.
+ _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md) object.
 
 
 ### Parameters

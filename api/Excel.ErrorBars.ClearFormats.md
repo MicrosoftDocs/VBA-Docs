@@ -20,7 +20,7 @@ Clears the formatting of the object.
 
  _expression_. `ClearFormats`
 
- _expression_ A variable that represents an [ErrorBars](./Excel.ErrorBars(Graph property).md) object.
+ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars(Graph property).md) object.
 
 
 ### Return Value

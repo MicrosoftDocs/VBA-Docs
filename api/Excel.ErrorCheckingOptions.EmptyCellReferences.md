@@ -20,7 +20,7 @@ When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorre
 
  _expression_. `EmptyCellReferences`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](./Excel.ErrorCheckingOptions.md) object.
+ _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Example

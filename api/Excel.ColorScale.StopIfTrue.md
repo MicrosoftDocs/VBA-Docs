@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
  _expression_. `StopIfTrue`
 
- _expression_ A variable that represents a [ColorScale](./Excel.ColorScale.md) object.
+ _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
 
 
 ## Remarks

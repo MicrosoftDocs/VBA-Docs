@@ -20,7 +20,7 @@ Returns or sets an array of strings corresponding to the list of items included 
 
  _expression_. `CurrentPageList`
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

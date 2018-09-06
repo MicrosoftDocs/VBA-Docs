@@ -20,7 +20,7 @@ Returns the folder suffix that Microsoft Excel uses when you save a document as 
 
  _expression_. `FolderSuffix`
 
- _expression_ A variable that represents a [DefaultWebOptions](./Excel.DefaultWebOptions.md) object.
+ _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Graphic.LockAspectRatio Property (Excel)
 
- **True** if the specified shape retains its original proportions when you resize it. **False** if you can change the height and width of the shape independently of one another when you resize it. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the specified shape retains its original proportions when you resize it. **False** if you can change the height and width of the shape independently of one another when you resize it. Read/write **[MsoTriState](Office.MsoTriState.md)** .
 
 
 ## Syntax
 
  _expression_. `LockAspectRatio`
 
- _expression_ A variable that represents a [Graphic](./Excel.Graphic.md) object.
+ _expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
 
 
 ## Remarks

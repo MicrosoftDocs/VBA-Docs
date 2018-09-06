@@ -20,7 +20,7 @@ You can use the **IsLoaded** property to determine if an **[AccessObject](Access
 
  _expression_. `IsLoaded`
 
- _expression_ A variable that represents an [AccessObject](./Access.AccessObject.md) object.
+ _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Remarks

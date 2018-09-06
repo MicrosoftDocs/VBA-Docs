@@ -20,7 +20,7 @@ The  **CreateControl** method creates a control on a specified open form. For ex
 
  _expression_. `CreateControl`( ` _FormName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Adds a new [ImportExportSpecification](Access.ImportExportSpecification.md) obje
 
  _expression_. `Add`( ` _Name_`, ` _SpecificationDefinition_` )
 
- _expression_ A variable that represents an [ImportExportSpecifications](./Access.ImportExportSpecifications.md) object.
+ _expression_ A variable that represents an [ImportExportSpecifications](Access.ImportExportSpecifications.md) object.
 
 
 ### Parameters

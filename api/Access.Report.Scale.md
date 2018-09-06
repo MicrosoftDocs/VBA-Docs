@@ -20,7 +20,7 @@ The  **Scale** method defines the coordinate system for a **[Report](Access.Repo
 
  _expression_. `Scale`( ` _flags_`, ` _x1_`, ` _y1_`, ` _x2_`, ` _y2_` )
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

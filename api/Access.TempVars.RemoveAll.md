@@ -20,7 +20,7 @@ Removes all of the  **[TempVar](Access.TempVar.md)** objects from the **[TempVar
 
  _expression_. `RemoveAll`
 
- _expression_ A variable that represents a [TempVars](./Access.TempVars.md) object.
+ _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 
 ## See also

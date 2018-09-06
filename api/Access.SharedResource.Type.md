@@ -20,7 +20,7 @@ Gets the type of the  **[SharedResource](Access.SharedResource.md)** object. Rea
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [SharedResource](./Access.SharedResource.md) object.
+ _expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
 
 
 ## See also

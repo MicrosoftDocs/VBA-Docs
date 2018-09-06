@@ -20,7 +20,7 @@ Cuts the object to the Clipboard.
 
  _expression_. `Cut`
 
- _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
+ _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ### Return Value

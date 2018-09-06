@@ -20,7 +20,7 @@ Occurs whenever the specified PivotTable view is data-bound and the data set cha
 
  _expression_. `DataSetChange`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Return Value

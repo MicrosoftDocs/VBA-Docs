@@ -20,7 +20,7 @@ Determines if the real-time data server is still active. Returns a  **Long** val
 
  _expression_. `Heartbeat`
 
- _expression_ A variable that represents an [IRtdServer](./Excel.IRtdServer.md) object.
+ _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
 ### Return Value

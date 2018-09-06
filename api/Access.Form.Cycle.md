@@ -20,7 +20,7 @@ You can use the  **Cycle** property to specify what happens when you press the T
 
  _expression_. `Cycle`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

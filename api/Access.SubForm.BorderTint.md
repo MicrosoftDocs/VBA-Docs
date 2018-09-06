@@ -20,7 +20,7 @@ Gets or sets the tint that is applied to the theme color in the  **BorderColor**
 
  _expression_. `BorderTint`
 
- _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
+ _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

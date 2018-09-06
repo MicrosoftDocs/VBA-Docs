@@ -20,7 +20,7 @@ Returns or sets the position of the axis title on the chart. Read/write  **[XlCh
 
  _expression_. `Position`
 
- _expression_ A variable that represents an [AxisTitle](./Excel.AxisTitle(Graph property).md) object.
+ _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle(Graph property).md) object.
 
 
 ## See also

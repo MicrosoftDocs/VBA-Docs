@@ -20,7 +20,7 @@ The  **Print** method prints text on a **[Report](Access.Report.md)** object usi
 
  _expression_. `Print`( ` _Expr_` )
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
