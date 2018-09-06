@@ -162,8 +162,7 @@ The following examples show how to use various types of criteria with the  **DSt
 ```
 
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
@@ -172,4 +171,5 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 [Application Object](Access.Application.md)
+
 

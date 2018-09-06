@@ -76,14 +76,12 @@ End If
 |[Item](Access.AllForms.Item.md)|
 |[Parent](Access.AllForms.Parent.md)|
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
 
 
 
@@ -91,3 +89,4 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [AllForms Object Members](overview/Access.md)
+

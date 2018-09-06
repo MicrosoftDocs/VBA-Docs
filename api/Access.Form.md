@@ -472,8 +472,7 @@ End Sub
 |[WindowTop](Access.Form.WindowTop.md)|
 |[WindowWidth](Access.Form.WindowWidth.md)|
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
@@ -484,5 +483,6 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 [Access Object Model Reference](overview/Access/object-model.md)
+
 
 

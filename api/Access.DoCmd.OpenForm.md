@@ -77,8 +77,7 @@ End Sub
 
 <br/>
 
-## About the contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 *Holy Macro! Books* publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
@@ -88,4 +87,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 ## See also
 
 [DoCmd Object](Access.DoCmd.md)
+
 

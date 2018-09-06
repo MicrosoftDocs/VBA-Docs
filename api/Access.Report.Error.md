@@ -78,8 +78,7 @@ End Sub
 ```
 
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
@@ -88,4 +87,5 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 [Report Object](Access.Report.md)
+
 
