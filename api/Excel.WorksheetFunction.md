@@ -62,14 +62,12 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## Methods
-<a name="AboutContributor"> </a>
 
 
 
@@ -464,7 +462,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 |[Forecast_Linear](Excel.worksheetfunction.forecast_linear.md)|
 
 ## Properties
-<a name="AboutContributor"> </a>
 
 
 
@@ -478,3 +475,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/en-us/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
 [Excel Object Model Reference](./overview/Excel/object-model.md)
+

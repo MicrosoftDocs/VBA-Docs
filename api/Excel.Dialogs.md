@@ -58,14 +58,12 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
 
 
 ## Properties
-<a name="AboutContributor"> </a>
 
 
 
@@ -78,10 +76,6 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 |[Parent](Excel.Dialogs.Parent.md)|
 
 ## See also
-<a name="AboutContributor"> </a>
-
-
-
-
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+

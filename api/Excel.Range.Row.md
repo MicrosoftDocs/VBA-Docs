@@ -126,8 +126,7 @@ End Sub
 ```
 
 
-## About the Contributors
-<a name="AboutContributor"> </a>
+### About the contributors
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
@@ -138,4 +137,5 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 
 
 [Range Object](Excel.Range(object).md)
+
 

@@ -130,14 +130,13 @@ Instead of creating the main form, and then adding the subform control to it, yo
 |[Visible](Access.SubForm.Visible.md)|
 |[Width](Access.SubForm.Width.md)|
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
 
 
 
@@ -145,3 +144,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 [Access Object Model Reference](overview/Access/object-model.md)<br/>
 [SubForm Object Members](overview/Access.md)
+

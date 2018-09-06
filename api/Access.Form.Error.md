@@ -104,8 +104,7 @@ End Sub
 ```
 
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 UtterAccess is the premier Microsoft Access wiki and help forum. 
 
@@ -116,4 +115,5 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 [Form Object](Access.Form.md)
+
 

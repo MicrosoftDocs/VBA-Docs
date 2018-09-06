@@ -65,8 +65,7 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
 
@@ -75,4 +74,5 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 
 [Range Object](Excel.Range(object).md)
+
 

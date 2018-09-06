@@ -141,8 +141,7 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
@@ -151,4 +150,5 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 
 
 [Range Object](Excel.Range(object).md)
+
 

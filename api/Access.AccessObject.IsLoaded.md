@@ -49,12 +49,12 @@ If Not CurrentProject.AllForms(cFormUsage).IsLoaded Then
 End If
 ```
 
-## About the contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 ## See also
 
 [AccessObject Object](Access.AccessObject.md)
+
 

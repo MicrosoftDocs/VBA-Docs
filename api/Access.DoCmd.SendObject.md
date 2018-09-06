@@ -149,8 +149,7 @@ End Function
 ```
 
 
-## About the contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
@@ -162,4 +161,5 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 ## See also
 
 [DoCmd Object](Access.DoCmd.md)
+
 

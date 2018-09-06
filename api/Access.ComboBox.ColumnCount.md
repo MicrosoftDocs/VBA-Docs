@@ -100,8 +100,7 @@ End Sub
 ```
 
 
-## About the Contributors
-<a name="AboutContributors"> </a>
+### About the contributors
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
@@ -110,4 +109,5 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 [ComboBox Object](Access.ComboBox.md)
+
 

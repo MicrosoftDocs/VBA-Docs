@@ -56,14 +56,12 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## Properties
-<a name="AboutContributor"> </a>
 
 
 
@@ -85,10 +83,10 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 |[TintAndShade](Excel.Interior.TintAndShade.md)|
 
 ## See also
-<a name="AboutContributor"> </a>
 
 
 
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+

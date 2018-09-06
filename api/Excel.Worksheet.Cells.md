@@ -100,8 +100,7 @@ End Sub
 ```
 
 
-## About the Contributor
-<a name="AboutContributor"> </a>
+### About the contributor
 
 MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the co author of "Holy Macro! It's 2,500 Excel VBA Examples." 
 
@@ -110,4 +109,5 @@ MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Mic
 
 
 [Worksheet Object](Excel.Worksheet.md)
+
 

@@ -16,7 +16,7 @@ ms.date: 08/28/2018
 
 
  **Description**
-Opens a specified file and returns a **TextStream** object that can be used to read from or append to the file.
+Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
 
 
 ## Syntax
@@ -59,10 +59,10 @@ The following code illustrates the use of the  **OpenTextFile** method to open a
 
 ```vb
 Sub OpenTextFileTest
-    Const ForReading = 1, ForWriting = 2, ForAppending = 3
+    Const ForReading = 1, ForWriting = 2, ForAppending = 8
     Dim fs, f
     Set fs = CreateObject("Scripting.FileSystemObject")
-    Set f = fs.OpenTextFile("c:\testfile.txt", ForAppending,TristateFalse)
+    Set f = fs.OpenTextFile("c:\testfile.txt", ForAppending, TristateFalse)
     f.Write "Hello world!"
     f.Close
 End Sub
