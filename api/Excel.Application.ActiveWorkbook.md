@@ -23,7 +23,7 @@ Returns a  **[Workbook](Excel.Workbook.md)** object that represents the workbook
 
  _expression_. `ActiveWorkbook`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

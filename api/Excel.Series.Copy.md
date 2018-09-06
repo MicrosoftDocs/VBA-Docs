@@ -20,7 +20,7 @@ If the series has a picture fill, then this method copies the picture to the Cli
 
  _expression_. `Copy`
 
- _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
 ### Return Value

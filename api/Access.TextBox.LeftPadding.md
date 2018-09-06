@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the text box and its left g
 
  _expression_. `LeftPadding`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

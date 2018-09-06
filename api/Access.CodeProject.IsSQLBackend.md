@@ -18,10 +18,10 @@ Returns  **true** if the code project was created in Access 2013 and onwards and
 
  _expression_. `IsSQLBackend`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also
 
-- [CodeProject Object](./Access.CodeProject.md)
+- [CodeProject Object](Access.CodeProject.md)
 

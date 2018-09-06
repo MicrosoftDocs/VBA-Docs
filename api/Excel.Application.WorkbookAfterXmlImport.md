@@ -20,7 +20,7 @@ Occurs after an existing XML data connection is refreshed, or new XML data is im
 
  _expression_. `WorkbookAfterXmlImport`( `_Wb_` , `_Map_` , `_IsRefresh_` , `_Result_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters
@@ -55,5 +55,5 @@ Use the  **[AfterXmlImport](Excel.Workbook.AfterXmlImport.md)** event if you wan
 
 
 [Workbook Object](Excel.Workbook.md)
-[Application Object](./Excel.Application(object).md)
+[Application Object](Excel.Application(object).md)
 

@@ -20,7 +20,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
  _expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

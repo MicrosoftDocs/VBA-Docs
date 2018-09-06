@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ChartFormat.Glow Property (Excel)
 
-Returns a  **[GlowFormat](./Office.GlowFormat.md)** object for a specified chart that contains glow formatting properties for the chart element. Read-only.
+Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified chart that contains glow formatting properties for the chart element. Read-only.
 
 
 ## Syntax
 
  _expression_. `Glow`
 
- _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
+ _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## Remarks

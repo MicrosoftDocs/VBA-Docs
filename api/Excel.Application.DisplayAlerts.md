@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `DisplayAlerts`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks
@@ -66,5 +66,5 @@ Application.DisplayAlerts = True
 ## See also
 
 
-[Application Object](./Excel.Application(object).md)
+[Application Object](Excel.Application(object).md)
 

@@ -17,7 +17,7 @@ Deletes an entry from the array of AutoCorrect replacements.
 
  _expression_. `DeleteReplacement( _What_)`
 
- _expression_ Required. An expression that returns an [AutoCorrect](./Excel.AutoCorrect(Graph property).md) object.
+ _expression_ Required. An expression that returns an [AutoCorrect](Excel.AutoCorrect(Graph property).md) object.
 
  **What** Required **String**. The text to be replaced, as it appears in the row to be deleted from the array of AutoCorrect replacements. If this string doesn't exist in the array of AutoCorrect replacements, this method fails.
 

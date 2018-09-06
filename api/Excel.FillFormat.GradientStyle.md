@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientStyle Property (Excel)
 
-Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](./Office.MsoGradientStyle.md)** .
+Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](Office.MsoGradientStyle.md)** .
 
 
 ## Syntax
 
  _expression_. `GradientStyle`
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

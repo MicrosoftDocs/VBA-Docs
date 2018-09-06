@@ -20,7 +20,7 @@ Returns an  **[ODBCErrors](Excel.Application.ODBCErrors.md)** collection that co
 
  _expression_. `ODBCErrors`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next s
 
  _expression_. `Next`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

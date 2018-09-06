@@ -44,4 +44,4 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

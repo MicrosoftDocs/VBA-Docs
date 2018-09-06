@@ -20,7 +20,7 @@ Used for specifying whether or not check boxes are present in the filter drop-do
 
  _expression_. `EnableMultiplePageItems`
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

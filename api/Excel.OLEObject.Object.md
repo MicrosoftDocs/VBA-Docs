@@ -20,7 +20,7 @@ Returns the OLE Automation object associated with this OLE object. Read-only  **
 
  _expression_. `Object`
 
- _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
+ _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## Example

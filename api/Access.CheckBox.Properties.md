@@ -20,7 +20,7 @@ Returns a reference to a control's **[Properties](Access.Properties.md)** collec
 
  _expression_. `Properties`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

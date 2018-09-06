@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified attachment. Read/w
 
  _expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

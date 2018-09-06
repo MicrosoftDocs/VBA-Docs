@@ -20,7 +20,7 @@ You can use the  **AllowFilters** property to specify whether records in a form 
 
  _expression_. `AllowFilters`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use the  **PictureTiling** property to specify whether a background pict
 
  _expression_. `PictureTiling`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

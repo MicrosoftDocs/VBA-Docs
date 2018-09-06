@@ -20,7 +20,7 @@ Deletes the column of data in the list.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
+ _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## Remarks

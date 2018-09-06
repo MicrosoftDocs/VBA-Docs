@@ -20,7 +20,7 @@ Occurs whenever the user makes a new selection in a PivotChart view or PivotTabl
 
  _expression_. `SelectionChange`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Return Value

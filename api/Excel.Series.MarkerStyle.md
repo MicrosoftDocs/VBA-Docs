@@ -20,7 +20,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
  _expression_. `MarkerStyle`
 
- _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
 ## Remarks

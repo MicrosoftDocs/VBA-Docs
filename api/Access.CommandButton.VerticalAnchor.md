@@ -20,7 +20,7 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
  _expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

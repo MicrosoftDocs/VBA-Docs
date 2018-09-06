@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorFormat.Type Property (Excel)
 
-Returns a  **[MsoColorType](./Office.MsoColorType.md)** value that represents the color format type.
+Returns a  **[MsoColorType](Office.MsoColorType.md)** value that represents the color format type.
 
 
 ## Syntax
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
+ _expression_ A variable that represents a [ColorFormat](Excel.ColorFormat.md) object.
 
 
 ## See also

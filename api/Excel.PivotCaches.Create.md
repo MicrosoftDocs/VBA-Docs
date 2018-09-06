@@ -20,7 +20,7 @@ Creates a new PivotCache.
 
  _expression_. `Create`( `_SourceType_` , `_SourceData_` , `_Version_` )
 
- _expression_ A variable that represents a [PivotCaches](./Excel.PivotCaches.md) object.
+ _expression_ A variable that represents a [PivotCaches](Excel.PivotCaches.md) object.
 
 
 ### Parameters

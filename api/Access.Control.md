@@ -111,7 +111,7 @@ Set txt = Forms!Employees!LastName
 
 The option group control can contain other controls within its  **Controls** collection, including option button, check box, toggle button, and label controls.
 
-The tab control contains a  **[Pages](./Access.Pages.md)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](./Access.Page.md)** objects, which are controls. Each **Page** object in turn contains a **Controls** collection, which contains all of the controls on that page.
+The tab control contains a  **[Pages](Access.Pages.md)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](Access.Page.md)** objects, which are controls. Each **Page** object in turn contains a **Controls** collection, which contains all of the controls on that page.
 
 Other  **Control** objects have a **Controls** collection that can contain an attached label. These controls include the text box, option group, option button, toggle button, check box, combo box, list box, command button, bound object frame, and unbound object frame controls.
 
@@ -122,12 +122,12 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 |**Name**|
 |:-----|
-|[Dropdown](./Access.Control.Dropdown.md)|
-|[Move](./Access.Control.Move.md)|
-|[Requery](./Access.Control.Requery.md)|
-|[SetFocus](./Access.Control.SetFocus.md)|
-|[SizeToFit](./Access.Control.SizeToFit.md)|
-|[Undo](./Access.Control.Undo.md)|
+|[Dropdown](Access.Control.Dropdown.md)|
+|[Move](Access.Control.Move.md)|
+|[Requery](Access.Control.Requery.md)|
+|[SetFocus](Access.Control.SetFocus.md)|
+|[SizeToFit](Access.Control.SizeToFit.md)|
+|[Undo](Access.Control.Undo.md)|
 
 ## Properties
 
@@ -135,43 +135,43 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 |**Name**|
 |:-----|
-|[Application](./Access.Control.Application.md)|
-|[BottomPadding](./Access.Control.BottomPadding.md)|
-|[Column](./Access.Control.Column.md)|
-|[Controls](./Access.Control.Controls.md)|
-|[Form](./Access.Control.Form.md)|
-|[GridlineColor](./Access.Control.GridlineColor.md)|
-|[GridlineStyleBottom](./Access.Control.GridlineStyleBottom.md)|
-|[GridlineStyleLeft](./Access.Control.GridlineStyleLeft.md)|
-|[GridlineStyleRight](./Access.Control.GridlineStyleRight.md)|
-|[GridlineStyleTop](./Access.Control.GridlineStyleTop.md)|
-|[GridlineWidthBottom](./Access.Control.GridlineWidthBottom.md)|
-|[GridlineWidthLeft](./Access.Control.GridlineWidthLeft.md)|
-|[GridlineWidthRight](./Access.Control.GridlineWidthRight.md)|
-|[GridlineWidthTop](./Access.Control.GridlineWidthTop.md)|
-|[HorizontalAnchor](./Access.Control.HorizontalAnchor.md)|
-|[Hyperlink](./Access.Control.Hyperlink.md)|
-|[ItemData](./Access.Control.ItemData.md)|
-|[ItemsSelected](./Access.Control.ItemsSelected.md)|
-|[Layout](./Access.Control.Layout.md)|
-|[LayoutID](./Access.Control.LayoutID.md)|
-|[LeftPadding](./Access.Control.LeftPadding.md)|
-|[Name](./Access.Control.Name.md)|
-|[Object](./Access.Control.Object.md)|
-|[ObjectVerbs](./Access.Control.ObjectVerbs.md)|
-|[OldValue](./Access.Control.OldValue.md)|
-|[Pages](./Access.Control.Pages.md)|
-|[Parent](./Access.Control.Parent.md)|
-|[Properties](./Access.Control.Properties.md)|
-|[Report](./Access.Control.Report.md)|
-|[RightPadding](./Access.Control.RightPadding.md)|
-|[Selected](./Access.Control.Selected.md)|
-|[SmartTags](./Access.Control.SmartTags.md)|
-|[TopPadding](./Access.Control.TopPadding.md)|
-|[VerticalAnchor](./Access.Control.VerticalAnchor.md)|
+|[Application](Access.Control.Application.md)|
+|[BottomPadding](Access.Control.BottomPadding.md)|
+|[Column](Access.Control.Column.md)|
+|[Controls](Access.Control.Controls.md)|
+|[Form](Access.Control.Form.md)|
+|[GridlineColor](Access.Control.GridlineColor.md)|
+|[GridlineStyleBottom](Access.Control.GridlineStyleBottom.md)|
+|[GridlineStyleLeft](Access.Control.GridlineStyleLeft.md)|
+|[GridlineStyleRight](Access.Control.GridlineStyleRight.md)|
+|[GridlineStyleTop](Access.Control.GridlineStyleTop.md)|
+|[GridlineWidthBottom](Access.Control.GridlineWidthBottom.md)|
+|[GridlineWidthLeft](Access.Control.GridlineWidthLeft.md)|
+|[GridlineWidthRight](Access.Control.GridlineWidthRight.md)|
+|[GridlineWidthTop](Access.Control.GridlineWidthTop.md)|
+|[HorizontalAnchor](Access.Control.HorizontalAnchor.md)|
+|[Hyperlink](Access.Control.Hyperlink.md)|
+|[ItemData](Access.Control.ItemData.md)|
+|[ItemsSelected](Access.Control.ItemsSelected.md)|
+|[Layout](Access.Control.Layout.md)|
+|[LayoutID](Access.Control.LayoutID.md)|
+|[LeftPadding](Access.Control.LeftPadding.md)|
+|[Name](Access.Control.Name.md)|
+|[Object](Access.Control.Object.md)|
+|[ObjectVerbs](Access.Control.ObjectVerbs.md)|
+|[OldValue](Access.Control.OldValue.md)|
+|[Pages](Access.Control.Pages.md)|
+|[Parent](Access.Control.Parent.md)|
+|[Properties](Access.Control.Properties.md)|
+|[Report](Access.Control.Report.md)|
+|[RightPadding](Access.Control.RightPadding.md)|
+|[Selected](Access.Control.Selected.md)|
+|[SmartTags](Access.Control.SmartTags.md)|
+|[TopPadding](Access.Control.TopPadding.md)|
+|[VerticalAnchor](Access.Control.VerticalAnchor.md)|
 
 ## See also
 
 
-[Control Object Members](./overview/Access.md)
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Control Object Members](overview/Access.md)
+[Access Object Model Reference](overview/Access/object-model.md)

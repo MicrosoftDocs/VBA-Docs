@@ -20,7 +20,7 @@ You can use the  **ControlSource** property to specify what data appears in the 
 
  _expression_. `ControlSource`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

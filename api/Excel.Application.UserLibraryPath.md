@@ -20,7 +20,7 @@ Returns the path to the location on the user's computer where the COM add-ins ar
 
  _expression_. `UserLibraryPath`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

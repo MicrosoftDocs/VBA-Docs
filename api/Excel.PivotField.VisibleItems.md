@@ -20,7 +20,7 @@ Returns an object that represents either a single visible PivotTable item (a  **
 
  _expression_. `VisibleItems`( `_Index_` )
 
- _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
+ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ### Parameters

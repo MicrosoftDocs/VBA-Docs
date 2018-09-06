@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Lost Focus** box in the **Properties** wi
 
  _expression_. `OnLostFocus`
 
- _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
+ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

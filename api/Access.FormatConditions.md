@@ -46,4 +46,4 @@ You can use the  **Modify** method to change one of the formats, or the **[Delet
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

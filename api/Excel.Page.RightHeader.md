@@ -20,7 +20,7 @@ Specifies a picture or text to be right aligned in the page header.
 
  _expression_. `RightHeader`
 
- _expression_ A variable that represents a [Page](./Excel.Page.md) object.
+ _expression_ A variable that represents a [Page](Excel.Page.md) object.
 
 
 ## See also

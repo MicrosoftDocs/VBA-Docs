@@ -20,7 +20,7 @@ Returns a  **[Filters](Excel.Filters.md)** collection that represents all the fi
 
  _expression_. `Filters`
 
- _expression_ A variable that represents an [AutoFilter](./Excel.AutoFilter.md) object.
+ _expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
 
 
 ## Example

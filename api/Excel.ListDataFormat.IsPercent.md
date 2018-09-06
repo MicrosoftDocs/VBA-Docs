@@ -20,7 +20,7 @@ Returns a  **Boolean** value. Returns **True** only if the number data for the *
 
  _expression_. `IsPercent`
 
- _expression_ A variable that represents a [ListDataFormat](./Excel.ListDataFormat.md) object.
+ _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks

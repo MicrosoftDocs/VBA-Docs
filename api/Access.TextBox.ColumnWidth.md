@@ -20,7 +20,7 @@ You can use the  **ColumnWidth** property to specify the width of a column in Da
 
  _expression_. `ColumnWidth`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

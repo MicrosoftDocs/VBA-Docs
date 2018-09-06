@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutoAttach Property (Excel)
 
- **True** if the place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box. Read/write **[MsoTriState](Office.MsoTriState.md)** .
 
 
 ## Syntax
 
  _expression_. `AutoAttach`
 
- _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
+ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## Remarks

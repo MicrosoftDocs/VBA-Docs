@@ -20,7 +20,7 @@ Returns or sets the color of the interior pattern as an RGB value. Read/write  *
 
  _expression_. `PatternColor`
 
- _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
 
 
 ## Example

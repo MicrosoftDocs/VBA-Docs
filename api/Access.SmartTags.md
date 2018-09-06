@@ -46,4 +46,4 @@ To return a single  **[SmartTag](Access.SmartTag.md)** object, use the **Item** 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

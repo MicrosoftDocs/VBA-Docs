@@ -20,7 +20,7 @@ You can use the  **PrtMip** property in Visual Basic to set or return the device
 
  _expression_. `PrtMip`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents 
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [ListDataFormat](./Excel.ListDataFormat.md) object.
+ _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks

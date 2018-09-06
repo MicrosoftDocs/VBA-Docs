@@ -20,7 +20,7 @@ You can use the  **DataEntry** property to specify whether a bound form opens to
 
  _expression_. `DataEntry`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

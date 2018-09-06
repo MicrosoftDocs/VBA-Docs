@@ -20,7 +20,7 @@ Returns the file extension of the specifed attachment. Read-only  **String**.
 
  _expression_. `FileType`( ` _var_` )
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters

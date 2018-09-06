@@ -20,7 +20,7 @@ Returns or sets a  **Text** object that represents text included in the specifie
 
  _expression_. `Text`
 
- _expression_ A variable that represents a [HeaderFooter](./Excel.HeaderFooter.md) object.
+ _expression_ A variable that represents a [HeaderFooter](Excel.HeaderFooter.md) object.
 
 
 ## See also

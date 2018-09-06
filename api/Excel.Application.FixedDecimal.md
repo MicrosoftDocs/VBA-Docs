@@ -20,7 +20,7 @@ All data entered after this property is set to  **True** will be formatted with 
 
  _expression_. `FixedDecimal`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

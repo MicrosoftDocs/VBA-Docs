@@ -20,7 +20,7 @@ You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabas
 
  _expression_. `AllDatabaseDiagrams`
 
- _expression_ A variable that represents a [CurrentData](./Access.CurrentData.md) object.
+ _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

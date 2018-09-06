@@ -20,14 +20,14 @@ You can use the  **AllowAdditions** property to specify whether a user can add a
 
  _expression_. `AllowAdditions`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
 
 Set the  **AllowAdditions** property to No to allow users to view or edit existing records but not add new records.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **AllowAdditions**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](./overview/Access.md)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the  **AllowAdditions**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
 
 If you want to open a form for data entry only, set the form's  **[DataEntry](Access.Form.DataEntry.md)** property to Yes.
 

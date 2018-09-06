@@ -20,7 +20,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
  _expression_. `Visible`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
  _expression_. `OnKeyUp`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

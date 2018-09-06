@@ -20,7 +20,7 @@ You can use the  **Hyperlink** property to return a reference to a **Hyperlink**
 
  _expression_. `Hyperlink`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Example

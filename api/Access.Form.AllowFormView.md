@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether the specified form may be view
 
  _expression_. `AllowFormView`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

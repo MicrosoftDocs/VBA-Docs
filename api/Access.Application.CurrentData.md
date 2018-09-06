@@ -20,7 +20,7 @@ You can use the  **CurrentData** property to access the **[CurrentData](Access.C
 
  _expression_. `CurrentData`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

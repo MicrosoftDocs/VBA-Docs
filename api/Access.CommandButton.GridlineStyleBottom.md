@@ -20,7 +20,7 @@ Gets or sets the bottom gridline style of the specified button. Read/write  **By
 
  _expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -46,4 +46,4 @@ You can't add or delete a  **Report** object from the **Reports** collection.
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

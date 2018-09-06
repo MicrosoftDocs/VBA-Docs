@@ -17,7 +17,7 @@ Cancels the selection for the chart.
 
  _expression_. `Deselect`
 
- _expression_ Required. An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Example

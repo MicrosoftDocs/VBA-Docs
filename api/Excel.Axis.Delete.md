@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
 
 
 ### Return Value

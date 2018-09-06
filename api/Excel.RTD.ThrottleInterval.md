@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating the time interval between updates. Read/w
 
  _expression_. `ThrottleInterval`
 
- _expression_ A variable that represents a [RTD](./Excel.RTD.md) object.
+ _expression_ A variable that represents a [RTD](Excel.RTD.md) object.
 
 
 ## Remarks

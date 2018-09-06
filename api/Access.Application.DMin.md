@@ -20,7 +20,7 @@ You can use  **DMin** function to determine minnimum value in a specified set of
 
  _expression_. `DMin`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [HPageBreak](./Excel.HPageBreak.md) object.
+ _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## See also

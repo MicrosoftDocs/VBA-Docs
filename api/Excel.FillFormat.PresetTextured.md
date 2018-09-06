@@ -20,7 +20,7 @@ Sets the specified fill format to a preset texture.
 
  _expression_. `PresetTextured`( `_PresetTexture_` )
 
- _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
+ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Sets the specified fill format to a preset texture.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetTexture_|Required| **[MsoPresetTexture](./Office.MsoPresetTexture.md)**|The type of texture to apply.|
+| _PresetTexture_|Required| **[MsoPresetTexture](Office.MsoPresetTexture.md)**|The type of texture to apply.|
 
 ## Example
 

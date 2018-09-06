@@ -20,7 +20,7 @@ Sets the default workgroup file to the specified file.
 
  _expression_. `SetDefaultWorkgroupFile`( ` _Path_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

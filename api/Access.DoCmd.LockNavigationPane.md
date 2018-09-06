@@ -20,7 +20,7 @@ You can use the  **LockNavigationPane** action to prevent users from deleting da
 
  _expression_. `LockNavigationPane`( ` _Lock_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

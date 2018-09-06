@@ -21,7 +21,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
  _expression_. `LabelX`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

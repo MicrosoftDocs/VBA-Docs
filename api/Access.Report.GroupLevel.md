@@ -20,7 +20,7 @@ You can use the  **GroupLevel** property in Visual Basic to refer to the group l
 
  _expression_. `GroupLevel`( ` _Index_` )
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

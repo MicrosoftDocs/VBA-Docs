@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Dbl Click** box in the **Properties** win
 
  _expression_. `OnDblClick`
 
- _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
+ _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

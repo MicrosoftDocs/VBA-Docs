@@ -87,4 +87,4 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

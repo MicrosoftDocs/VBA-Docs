@@ -20,7 +20,7 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 
  _expression_. `AddColon`
 
- _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
+ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## See also

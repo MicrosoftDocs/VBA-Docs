@@ -20,7 +20,7 @@ Gets or sets the width of the right gridline for the specified combo box. Read/w
 
  _expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

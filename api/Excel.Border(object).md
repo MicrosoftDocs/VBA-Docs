@@ -74,4 +74,4 @@ Worksheets("Sheet1").Range("A1:G1"). _
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

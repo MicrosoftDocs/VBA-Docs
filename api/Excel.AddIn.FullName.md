@@ -20,7 +20,7 @@ Returns the name of the object, including its path on disk, as a string. Read-on
 
  _expression_. `FullName`
 
- _expression_ A variable that represents an [AddIn](./Excel.AddIn.md) object.
+ _expression_ A variable that represents an [AddIn](Excel.AddIn.md) object.
 
 
 ## Example

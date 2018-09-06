@@ -20,7 +20,7 @@ Sets the evaluation order for this conditional formatting rule so it is evaluate
 
  _expression_. `SetLastPriority`
 
- _expression_ A variable that represents a [ColorScale](./Excel.ColorScale.md) object.
+ _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
 
 
 ## Remarks

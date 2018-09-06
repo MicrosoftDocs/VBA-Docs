@@ -20,7 +20,7 @@ Occurs whenever the specified PivotTable view field, field set, or total is adde
 
  _expression_. `PivotTableChange`( ` _Reason_` )
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

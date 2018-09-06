@@ -106,4 +106,4 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

@@ -20,7 +20,7 @@ Gets or sets the tint applied to the theme color in the  **AlternateBackColor** 
 
  _expression_. `AlternateBackTint`
 
- _expression_ A variable that represents a [Section](./Access.Section.md) object.
+ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

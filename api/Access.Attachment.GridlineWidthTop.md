@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified attachment. Read/wr
 
  _expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

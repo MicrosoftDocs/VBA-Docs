@@ -59,5 +59,5 @@ Worksheets(1).Comments(2).Visible = False
 
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 

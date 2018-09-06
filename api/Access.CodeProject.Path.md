@@ -20,7 +20,7 @@ You can use the  **Path** property to determine the location where data is store
 
  _expression_. `Path`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

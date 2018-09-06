@@ -20,7 +20,7 @@ Returns the height of a form in twips. Read-only  **Integer**.
 
  _expression_. `WindowWidth`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

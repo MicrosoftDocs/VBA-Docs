@@ -20,7 +20,7 @@ Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the c
 
  _expression_. `SmartTags`
 
- _expression_ A variable that represents a [Control](./Access.Control.md) object.
+ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

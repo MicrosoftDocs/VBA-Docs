@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the merged range containing the spec
 
  _expression_. `MergeArea`
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ## Remarks

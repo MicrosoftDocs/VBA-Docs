@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the combo box and its botto
 
  _expression_. `BottomPadding`
 
- _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
+ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## See also

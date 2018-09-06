@@ -20,7 +20,7 @@ You can use the  **Left** property to specify an object's location on a form or 
 
  _expression_. `Left`
 
- _expression_ A variable that represents a [Page](./Access.Page.md) object.
+ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

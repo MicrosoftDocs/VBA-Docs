@@ -20,7 +20,7 @@ You can use the  **AllQueries** property to reference the **[AllQueries](Access.
 
  _expression_. `AllQueries`
 
- _expression_ A variable that represents a [CurrentData](./Access.CurrentData.md) object.
+ _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

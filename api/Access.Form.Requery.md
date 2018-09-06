@@ -20,7 +20,7 @@ The  **Requery** method updates the data underlying a specified form by requeryi
 
  _expression_. `Requery`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

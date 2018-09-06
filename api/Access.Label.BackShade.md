@@ -20,7 +20,7 @@ Gets or sets the shade applied to the theme color in the  **BackColor** property
 
  _expression_. `BackShade`
 
- _expression_ A variable that represents a [Label](./Access.Label.md) object.
+ _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

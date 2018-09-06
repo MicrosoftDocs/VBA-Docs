@@ -20,7 +20,7 @@ The  **Open** event occurs when a form is opened, but before the first record is
 
  _expression_. `Open`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

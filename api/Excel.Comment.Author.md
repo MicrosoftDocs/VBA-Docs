@@ -20,7 +20,7 @@ Returns or sets the author of the comment. Read-only  **String** .
 
  _expression_. `Author`
 
- _expression_ A variable that represents a [Comment](./Excel.Comment.md) object.
+ _expression_ A variable that represents a [Comment](Excel.Comment.md) object.
 
 
 ## Example

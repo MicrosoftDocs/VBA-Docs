@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the format code for the obje
 
  _expression_. `NumberFormat`
 
- _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
+ _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

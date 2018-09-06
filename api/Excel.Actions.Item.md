@@ -20,7 +20,7 @@ Returns a  **Actions** object that represents a collection of actions in a workb
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [Actions](./Excel.Actions.md) object.
+ _expression_ A variable that represents an [Actions](Excel.Actions.md) object.
 
 
 ### Parameters

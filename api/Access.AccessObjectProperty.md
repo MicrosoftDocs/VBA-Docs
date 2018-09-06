@@ -81,4 +81,4 @@ With the same syntax forms, you can also refer to the  **Value** property of a *
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

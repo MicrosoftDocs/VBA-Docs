@@ -20,7 +20,7 @@ Adds a new add-in file to the list of add-ins. Returns an  **[AddIn](Excel.AddIn
 
  _expression_. `Add`( `_FileName_` , `_CopyFile_` )
 
- _expression_ A variable that represents an [AddIns](./Excel.AddIns.md) object.
+ _expression_ A variable that represents an [AddIns](Excel.AddIns.md) object.
 
 
 ### Parameters

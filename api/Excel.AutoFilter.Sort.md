@@ -20,7 +20,7 @@ Gets the sort column or columns, and sort order for the  **AutoFilter** collecti
 
  _expression_. `Sort`
 
- _expression_ A variable that represents an [AutoFilter](./Excel.AutoFilter.md) object.
+ _expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `AutoText`
 
- _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DataLabel](Excel.DataLabel(Graph property).md) object.
 
 
 ## Example

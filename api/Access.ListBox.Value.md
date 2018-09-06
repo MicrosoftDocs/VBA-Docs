@@ -20,7 +20,7 @@ Determines or specifies which value or option in the list box is selected. Read/
 
  _expression_. `Value`
 
- _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
+ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
  _expression_. `SourceConnectionFile`
 
- _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
+ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## See also

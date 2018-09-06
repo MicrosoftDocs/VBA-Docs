@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified attachment. Read/write  **B
 
  _expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
+ _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

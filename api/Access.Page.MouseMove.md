@@ -20,7 +20,7 @@ The  **MouseMove** event occurs when the user moves the mouse.
 
  _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [Page](./Access.Page.md) object.
+ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ### Parameters

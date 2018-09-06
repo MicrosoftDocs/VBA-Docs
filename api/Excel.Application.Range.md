@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents a cell or 
 
  _expression_. `Range`( `_Cell1_` , `_Cell2_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

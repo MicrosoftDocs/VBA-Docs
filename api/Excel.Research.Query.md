@@ -20,7 +20,7 @@ Specifies a research query.
 
  _expression_. `Query`( `_ServiceID_` , `_QueryString_` , `_QueryLanguage_` , `_UseSelection_` , `_RequeryContextXML_` , `_NewQueryContextXML_` , `_LaunchQuery_` )
 
- _expression_ A variable that represents a [Research](./Excel.Research.md) object.
+ _expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
 ### Parameters

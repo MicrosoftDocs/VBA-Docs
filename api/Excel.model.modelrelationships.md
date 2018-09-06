@@ -29,6 +29,6 @@ Returns a collection of relationships between Data Model tables. Read-only
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

@@ -20,7 +20,7 @@ You can use the  **BorderColor** property to specify the color of a control's bo
 
  _expression_. `BorderColor`
 
- _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
+ _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

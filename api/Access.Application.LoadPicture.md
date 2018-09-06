@@ -20,7 +20,7 @@ The  **LoadPicture** method loads a graphic into an ActiveX control.
 
  _expression_. `LoadPicture`( ` _FileName_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

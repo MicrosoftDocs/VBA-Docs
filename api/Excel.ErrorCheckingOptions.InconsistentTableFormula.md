@@ -20,7 +20,7 @@ Returns  **True** if the table formula is inconsistent. Read/write **Boolean** .
 
  _expression_. `InconsistentTableFormula`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](./Excel.ErrorCheckingOptions.md) object.
+ _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## See also

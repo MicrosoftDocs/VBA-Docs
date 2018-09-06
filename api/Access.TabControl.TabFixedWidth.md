@@ -20,7 +20,7 @@ You can use the  **TabFixedWidth** property to specify or determine the width of
 
  _expression_. `TabFixedWidth`
 
- _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
+ _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

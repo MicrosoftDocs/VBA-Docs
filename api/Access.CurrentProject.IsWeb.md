@@ -20,7 +20,7 @@ Gets whether the database is a Web database. Read-only  **Boolean**.
 
  _expression_. `IsWeb`
 
- _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
+ _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

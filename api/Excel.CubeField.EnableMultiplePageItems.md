@@ -20,7 +20,7 @@ Set to  **True** to allow multiple items in the page field area for OLAP PivotTa
 
  _expression_. `EnableMultiplePageItems`
 
- _expression_ A variable that represents a [CubeField](./Excel.CubeField.md) object.
+ _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Example

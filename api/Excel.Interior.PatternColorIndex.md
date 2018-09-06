@@ -20,7 +20,7 @@ Returns or sets the color of the interior pattern as an index into the current c
 
  _expression_. `PatternColorIndex`
 
- _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
 
 
 ## Remarks

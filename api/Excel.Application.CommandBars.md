@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.CommandBars Property (Excel)
 
-Returns a  **[CommandBars](./Office.CommandBars.md)** object that represents the Microsoft Excel command bars. Read-only.
+Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the Microsoft Excel command bars. Read-only.
 
 
 ## Syntax
 
  _expression_. `CommandBars`
 
- _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
+ _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the color of the gridline for the specified list box. Read/write  *
 
  _expression_. `GridlineColor`
 
- _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
+ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

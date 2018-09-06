@@ -20,7 +20,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that specifies the formatt
 
  _expression_. `Borders`
 
- _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
+ _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## Remarks

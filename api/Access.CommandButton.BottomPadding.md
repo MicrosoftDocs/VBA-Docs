@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the button and its bottom g
 
  _expression_. `BottomPadding`
 
- _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
+ _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## See also

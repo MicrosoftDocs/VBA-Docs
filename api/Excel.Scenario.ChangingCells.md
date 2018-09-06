@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the changi
 
  _expression_. `ChangingCells`
 
- _expression_ A variable that represents a [Scenario](./Excel.Scenario.md) object.
+ _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the name that appears in the
 
  _expression_. `Caption`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

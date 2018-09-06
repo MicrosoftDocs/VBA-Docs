@@ -20,7 +20,7 @@ You can use the  **FastLaserPrinting** property to specify whether lines and rec
 
  _expression_. `FastLaserPrinting`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

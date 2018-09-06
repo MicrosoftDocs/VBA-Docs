@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Current** property on the Report. Read/wr
 
  _expression_. `OnCurrent`
 
- _expression_ A variable that represents a [Report](./Access.Report.md) object.
+ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

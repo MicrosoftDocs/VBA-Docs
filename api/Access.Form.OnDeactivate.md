@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Deactivate** box in the **Properties** wi
 
  _expression_. `OnDeactivate`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

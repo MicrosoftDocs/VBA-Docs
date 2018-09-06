@@ -20,7 +20,7 @@ The  **Follow** method opens the document or Web page specified by a hyperlink a
 
  _expression_. `Follow`( ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Method_`, ` _HeaderInfo_` )
 
- _expression_ A variable that represents a [Hyperlink](./Access.Hyperlink.md) object.
+ _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
 ### Parameters
@@ -32,7 +32,7 @@ The  **Follow** method opens the document or Web page specified by a hyperlink a
 | _NewWindow_|Optional|**Boolean**|**True** (?1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
 | _AddHistory_|Optional|**Boolean**|**True** adds the hyperlink to the History folder and **False** doesn't add the hyperlink to the History folder. The default is **True**.|
 | _ExtraInfo_|Optional|**Variant**|A string or an array of Byte data that specifies additional information for navigating to a hyperlink. For example, this argument may be used to specify a search parameter for an .ASP or .IDC file. In your Web browser, the  _extrainfo_ argument may appear after the hyperlink address, separated from the address by a question mark (?). You don't need to include the question mark when you specify the _extrainfo_ argument.|
-| _Method_|Optional|**MsoExtraInfoMethod**|A  **[MsoExtraInfoMethod](./Office.MsoExtraInfoMethod.md)** constant that specifies how the _extrainfo_ argument is attached. The default is **msoMethodGet**.|
+| _Method_|Optional|**MsoExtraInfoMethod**|A  **[MsoExtraInfoMethod](Office.MsoExtraInfoMethod.md)** constant that specifies how the _extrainfo_ argument is attached. The default is **msoMethodGet**.|
 | _HeaderInfo_|Optional|**String**|Specifies header information. By default the  _headerinfo_ argument is a zero-length string (" ").|
 
 ## Remarks

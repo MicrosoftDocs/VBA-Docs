@@ -34,6 +34,6 @@ Worksheets(1).Shapes(1).OLEFormat.Activate
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 
 

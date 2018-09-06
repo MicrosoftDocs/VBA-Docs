@@ -27,5 +27,5 @@ PivotLines always have a PivotItem in all positions. This means that the PivotLi
 
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)
 

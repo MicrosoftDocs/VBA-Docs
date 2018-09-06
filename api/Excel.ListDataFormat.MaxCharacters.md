@@ -20,7 +20,7 @@ Returns a  **Long** containing the maximum number of characters allowed in the *
 
  _expression_. `MaxCharacters`
 
- _expression_ A variable that represents a [ListDataFormat](./Excel.ListDataFormat.md) object.
+ _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks

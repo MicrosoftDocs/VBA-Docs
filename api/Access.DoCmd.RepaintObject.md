@@ -20,7 +20,7 @@ The  **RepaintObject** method carries out the RepaintObject action in Visual Bas
 
  _expression_. `RepaintObject`( ` _ObjectType_`, ` _ObjectName_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

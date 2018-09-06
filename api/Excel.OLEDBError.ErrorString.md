@@ -20,7 +20,7 @@ Returns a  **String** value that represents the ODBC error string.
 
  _expression_. `ErrorString`
 
- _expression_ A variable that represents an [OLEDBError](./Excel.OLEDBError.md) object.
+ _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
 
 
 ## See also

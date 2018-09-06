@@ -20,7 +20,7 @@ You can use the  **Verb** property to specify the operation to perform when an O
 
  _expression_. `Verb`
 
- _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
+ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.AutomationSecurity Property (Excel)
 
-Returns or sets an  **[MsoAutomationSecurity](./Office.MsoAutomationSecurity.md)** constant that represents the security mode Microsoft Excel uses when programmatically opening files. Read/write.
+Returns or sets an  **[MsoAutomationSecurity](Office.MsoAutomationSecurity.md)** constant that represents the security mode Microsoft Excel uses when programmatically opening files. Read/write.
 
 
 ## Syntax
 
  _expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Remarks

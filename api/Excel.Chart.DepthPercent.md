@@ -20,7 +20,7 @@ Returns or sets the depth of a 3-D chart as a percentage of the chart width (bet
 
  _expression_. `DepthPercent`
 
- _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Example

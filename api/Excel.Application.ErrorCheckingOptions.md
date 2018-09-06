@@ -20,7 +20,7 @@ Returns an  **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object, wh
 
  _expression_. `ErrorCheckingOptions`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ You can use the  **Painting** property to specify whether a form is repainted. R
 
  _expression_. `Painting`
 
- _expression_ A variable that represents a [Form](./Access.Form.md) object.
+ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

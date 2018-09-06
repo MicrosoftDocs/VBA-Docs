@@ -20,7 +20,7 @@ The  **Exit** event occurs just before a control loses the focus to another cont
 
  _expression_. `Exit`( ` _Cancel_` )
 
- _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
+ _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ### Parameters

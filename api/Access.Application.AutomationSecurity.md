@@ -20,7 +20,7 @@ Returns or sets an **MsoAutomationSecurity** constant that represents the securi
 
  _expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

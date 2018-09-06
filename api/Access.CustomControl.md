@@ -148,4 +148,4 @@ You can also view the custom properties dialog box by clicking the **Properties*
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

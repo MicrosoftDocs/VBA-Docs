@@ -20,7 +20,7 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that represents the
 
  _expression_. `Interior`
 
- _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
+ _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## See also

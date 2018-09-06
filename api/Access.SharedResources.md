@@ -41,4 +41,4 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](A
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

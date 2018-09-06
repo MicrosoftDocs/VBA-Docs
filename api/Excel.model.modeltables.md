@@ -29,6 +29,6 @@ Returns a collection of tables inside the Data Model. Read-only
 ## See also
 
 
-[Model Object Members](./overview/Excel.md)
+[Model Object Members](overview/Excel.md)
 
 

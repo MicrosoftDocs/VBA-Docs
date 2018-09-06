@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the value of the specified 
 
  _expression_. `Value`( `_RangeValueDataType_` )
 
- _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Parameters

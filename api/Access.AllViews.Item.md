@@ -20,7 +20,7 @@ The  **Item** property returns a specific member of a collection either by posit
 
  _expression_. `Item`( ` _var_` )
 
- _expression_ A variable that represents an [AllViews](./Access.AllViews.md) object.
+ _expression_ A variable that represents an [AllViews](Access.AllViews.md) object.
 
 
 ### Parameters

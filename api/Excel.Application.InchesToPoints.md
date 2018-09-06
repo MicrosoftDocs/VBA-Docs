@@ -20,7 +20,7 @@ Converts a measurement from inches to points.
 
  _expression_. `InchesToPoints`( `_Inches_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

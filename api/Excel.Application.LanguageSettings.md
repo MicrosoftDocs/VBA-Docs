@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.LanguageSettings Property (Excel)
 
-Returns the  **[LanguageSettings](./Office.LanguageSettings.md)** object, which contains information about the language settings in Microsoft Excel. Read-only.
+Returns the  **[LanguageSettings](Office.LanguageSettings.md)** object, which contains information about the language settings in Microsoft Excel. Read-only.
 
 
 ## Syntax
 
  _expression_. `LanguageSettings`
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ## Example

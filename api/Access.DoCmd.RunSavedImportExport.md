@@ -20,7 +20,7 @@ Run a saved import or export specification.
 
  _expression_. `RunSavedImportExport`( ` _SavedImportExportName_` )
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

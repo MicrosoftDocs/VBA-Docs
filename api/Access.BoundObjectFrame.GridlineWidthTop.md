@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified frame. Read/write  
 
  _expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
+ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

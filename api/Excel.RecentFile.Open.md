@@ -20,7 +20,7 @@ Opens a recent workbook.
 
  _expression_. `Open`
 
- _expression_ A variable that represents a [RecentFile](./Excel.RecentFile.md) object.
+ _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ### Return Value

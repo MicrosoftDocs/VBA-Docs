@@ -20,7 +20,7 @@ The  **Locked** property specifies whether you can edit data in a control in For
 
  _expression_. `Locked`
 
- _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
+ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

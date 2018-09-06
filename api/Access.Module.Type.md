@@ -20,7 +20,7 @@ Indicates whether a module is a standard module or a class module. Read-only  **
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [Module](./Access.Module.md) object.
+ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ## Example

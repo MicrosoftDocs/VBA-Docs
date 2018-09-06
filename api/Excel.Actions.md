@@ -31,4 +31,4 @@ A collection of all [Action](Excel.Action.md) objects for the specified series.
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+[Excel Object Model Reference](overview/Excel/object-model.md)

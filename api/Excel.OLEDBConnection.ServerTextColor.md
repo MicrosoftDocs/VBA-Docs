@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `ServerTextColor`
 
- _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
+ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## See also

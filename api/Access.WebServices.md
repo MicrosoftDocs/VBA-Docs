@@ -48,4 +48,4 @@ Use the following steps to install a Data Services data connection in your datab
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

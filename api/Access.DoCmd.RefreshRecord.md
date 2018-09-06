@@ -20,12 +20,12 @@ The  **RefreshRecord** method performs the **RefreshRecord** macro operation fro
 
  _expression_. `RefreshRecord`
 
- _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
+ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks
 
-In a client database, the  **RefreshRecord** method is equivalent to the **[Refresh](Access.Form.Refresh.md)** method of the **Form** object. In a web database, see the **[RefreshRecord](./overview/Access.md)** macro action.
+In a client database, the  **RefreshRecord** method is equivalent to the **[Refresh](Access.Form.Refresh.md)** method of the **Form** object. In a web database, see the **[RefreshRecord](overview/Access.md)** macro action.
 
 
 ## See also

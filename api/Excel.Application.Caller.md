@@ -20,7 +20,7 @@ Returns information about how Visual Basic was called (for more information, see
 
  _expression_. `Caller`( `_Index_` )
 
- _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
 ### Parameters

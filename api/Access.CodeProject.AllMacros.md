@@ -20,7 +20,7 @@ You can use the  **AllMacros** property to reference the **[AllMacros](Access.al
 
  _expression_. `AllMacros`
 
- _expression_ A variable that represents a [CodeProject](./Access.CodeProject.md) object.
+ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

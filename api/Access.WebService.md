@@ -36,4 +36,4 @@ A Data Service data connection may contain one or more entities. Each entity spe
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)

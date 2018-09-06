@@ -20,7 +20,7 @@ You can use the  **UpdateOptions** property to specify how a linkedOLE object is
 
  _expression_. `UpdateOptions`
 
- _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
+ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a read-only unique identifier, or CLSID, identifying an object, as a  **
 
  _expression_. `CLSID`
 
- _expression_ A variable that represents an [AddIn](./Excel.AddIn.md) object.
+ _expression_ A variable that represents an [AddIn](Excel.AddIn.md) object.
 
 
 ## See also

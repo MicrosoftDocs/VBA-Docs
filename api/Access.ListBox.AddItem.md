@@ -20,7 +20,7 @@ Adds a new item to the list of values displayed by the specified list box contro
 
  _expression_. `AddItem`( ` _Item_`, ` _Index_` )
 
- _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
+ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ### Parameters

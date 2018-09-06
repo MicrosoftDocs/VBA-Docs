@@ -20,7 +20,7 @@ Specifies how a control's border appears.Read/write  **Byte**.
 
  _expression_. `BorderStyle`
 
- _expression_ A variable that represents a [Label](./Access.Label.md) object.
+ _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

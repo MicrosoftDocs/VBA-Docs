@@ -20,7 +20,7 @@ Creates a new calculated item. Returns a  **[PivotItem](Excel.PivotItem.md)** ob
 
  _expression_. `Add`( `_Name_` , `_Formula_` , `_UseStandardFormula_` )
 
- _expression_ A variable that represents a [CalculatedItems](./Excel.CalculatedItems.md) object.
+ _expression_ A variable that represents a [CalculatedItems](Excel.CalculatedItems.md) object.
 
 
 ### Parameters

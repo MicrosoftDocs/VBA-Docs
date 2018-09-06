@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 
  _expression_. `NumeralShapes`
 
- _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
+ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

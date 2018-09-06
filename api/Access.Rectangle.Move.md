@@ -20,7 +20,7 @@ Moves the specified object to the coordinates specified by the argument values.
 
  _expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents a [Rectangle](./Access.Rectangle.md) object.
+ _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ### Parameters

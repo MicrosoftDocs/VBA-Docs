@@ -20,7 +20,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
  _expression_. `FileDialog`( ` _dialogType_` )
 
- _expression_ A variable that represents an [Application](./Access.Application.md) object.
+ _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](./Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
+| _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
 
 ## Remarks
 

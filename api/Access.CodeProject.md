@@ -86,4 +86,4 @@ For example, an  **AccessObject** object representing a form is a member of the 
 ## See also
 
 
-[Access Object Model Reference](./overview/Access/object-model.md)
+[Access Object Model Reference](overview/Access/object-model.md)
