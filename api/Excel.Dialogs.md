@@ -77,9 +77,5 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 ## See also
 
-
-
-
-
 [Excel Object Model Reference](overview/Excel/object-model.md)
 

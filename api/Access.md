@@ -6,7 +6,6 @@ ms.date: 09/06/2018
 ms.prod: access
 ---
 
-
 # Enumerations (Access)
 
 This section contains documentation for the enumerations in the Access object model.
@@ -89,3 +88,4 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcWebUserGroupsDisplay](Access.AcWebUserGroupsDisplay.md)|Specifies the type of information to return about the group membership of the current user of a Web database.|
 | [AcWindowMode](Access.AcWindowMode.md)|Specifies the mode in which a form or report is opened.|
 | [OldConstants](Access.oldconstants.md)|Legacy constants|
+

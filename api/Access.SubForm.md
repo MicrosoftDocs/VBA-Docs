@@ -132,6 +132,7 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 ### About the contributors
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 

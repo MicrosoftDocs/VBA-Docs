@@ -251,11 +251,11 @@ End Sub
 
 ### About the contributors
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
-
 
 [Access Object Model Reference](overview/Access/object-model.md)
 
