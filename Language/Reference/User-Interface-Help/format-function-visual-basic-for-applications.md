@@ -1,27 +1,23 @@
 ---
-title: Format Function (Visual Basic for Applications)
+title: Format function (Visual Basic for Applications)
 keywords: vblr6.chm1008925
 f1_keywords:
 - vblr6.chm1008925
 ms.prod: office
 ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
-ms.date: 08/28/2018
+ms.date: 09/07/2018
 ---
 
 
-# Format Function (Visual Basic for Applications)
+# Format function (Visual Basic for Applications)
 
-
-
- **Description**
 Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
 
 ## Syntax
 
-**Format(**_Expression_ [ **,**_Format_ [ **,**_FirstDayOfWeek_ [ **,**_FirstWeekOfYear_ ]]] **)**
+**Format(**_Expression_ [ ,_Format_ [ ,_FirstDayOfWeek_ [ ,_FirstWeekOfYear_ ]]])
 
-The  **Format** function syntax has these parts:
-
+The **Format** function syntax has these parts.
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -30,10 +26,9 @@ The  **Format** function syntax has these parts:
 |_FirstDayOfWeek_|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week.|
 |_FirstWeekOfYear_|Optional. A constant that specifies the first week of the year.|
 
- **Settings**
+### Settings
 
-The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings:
-
+The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings.
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -46,8 +41,7 @@ The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
-The  _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings:
-
+The _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings.
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -58,21 +52,23 @@ The  _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has t
 
 ## Remarks
 
-|**To Format**|**Do This**|
+|**To format**|**Do this**|
 |:-----|:-----|
 |Numbers|Use predefined named numeric formats or create user-defined numeric formats.|
 |Dates and times|Use predefined named date/time formats or create user-defined date/time formats.|
 |Date and time serial numbers|Use date and time formats or numeric formats.|
 |Strings|Create your own user-defined string formats.|
 
-If you try to format a number without specifying  _format_, **Format** provides functionality similar to the **Str** function, although it is internationally aware. However, positive numbers formatted as strings using **Format** don't include a leading space reserved for the sign of the value; those converted using **Str** retain the leading space.
+If you try to format a number without specifying _format_, **Format** provides functionality similar to the **Str** function, although it is internationally aware. However, positive numbers formatted as strings using **Format** don't include a leading space reserved for the sign of the value; those converted using **Str** retain the leading space.
+
 If you are formatting a non-localized numeric string, you should use a user-defined numeric format to ensure that you get the look you want.
 
- **Note**  If the  **Calendar** property setting is `Gregorian` and _format_ specifies date formatting, the supplied _expression_ must be `Gregorian`. If the Visual Basic  **Calendar** property setting is `Hijri`, the supplied  _expression_ must be `Hijri`.
+> [!NOTE] 
+> If the **Calendar** property setting is `Gregorian` and _format_ specifies date formatting, the supplied _expression_ must be `Gregorian`. If the Visual Basic **Calendar** property setting is `Hijri`, the supplied  _expression_ must be `Hijri`.
 
-If the calendar is Gregorian, the meaning of  _format_ expression symbols is unchanged. If the calendar is Hijri, all date format symbols (for example, _dddd_, _mmmm_, _yyyy_ ) have the same meaning but apply to the Hijri calendar. Format symbols remain in English; symbols that result in text display (for example, AM and PM) display the string (English or Arabic) associated with that symbol. The range of certain symbols changes when the calendar is Hijri.
+If the calendar is Gregorian, the meaning of _format_ expression symbols is unchanged. If the calendar is Hijri, all date format symbols (for example, _dddd_, _mmmm_, _yyyy_ ) have the same meaning but apply to the Hijri calendar. Format symbols remain in English; symbols that result in text display (for example, AM and PM) display the string (English or Arabic) associated with that symbol. The range of certain symbols changes when the calendar is Hijri.
 
-**Date Symbols**
+### Date symbols
 
 |**Symbol**|**Range**|
 |:-----|:-----|
@@ -88,12 +84,12 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 | _yy_ |00-99 (Last two digits of year)|
 | _yyyy_ |100-9999 (Three- or Four-digit year)|
 
-**Time Symbols**
+### Time symbols
 
-|**Symbol**|**Range**
+|**Symbol**|**Range**|
 |:-----|:-----|
 | _h_ |0-23 (1-12 with "AM" or "PM" appended) (Hour of day, with no leading zero)|
-| _hh_ |00-23 (01-12 with "AM" or "Mm" appended) (Hour of day, with a leading zero)|
+| _hh_ |00-23 (01-12 with "AM" or "PM" appended) (Hour of day, with a leading zero)|
 | _n_ |0-59 (Minute of hour, with no leading zero)|
 | _nn_ |00-59 (Minute of hour, with a leading zero)|
 | _m_ |0-59 (Minute of hour, with no leading zero). Only if preceded by _h_ or _hh_|
@@ -103,9 +99,7 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 
 ## Example
 
-This example shows various uses of the  **Format** function to format values using both named formats and user-defined formats. For the date separator (**/**), time separator (**:**), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
-
-
+This example shows various uses of the **Format** function to format values using both named formats and user-defined formats. For the date separator (**/**), time separator (**:**), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
 
 ```vb
 Dim MyTime, MyDate, MyStr
@@ -133,7 +127,7 @@ MyStr = Format("HELLO", "<")    ' Returns "hello".
 MyStr = Format("This is it", ">")    ' Returns "THIS IS IT".
 ```
 
- **Different Formats for Different Numeric Values (Format Function)**
+### Different formats for different numeric values (Format function)
 
 A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) for numbers can have from one to four sections separated by semicolons. If the format [argument](../../Glossary/vbe-glossary.md#argument) contains one of the named numeric formats, only one section is allowed.
 
@@ -151,16 +145,13 @@ A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) fo
 
 If you include semicolons with nothing between them, the missing section is printed using the format of the positive value. For example, the following format displays positive and negative values using the format in the first section and displays "Zero" if the value is zero.
 
-
-
 ```vb
 "$#,##0;;\Z\e\r\o"
 ```
 
-**Different Formats for Different String Values (Format Function)**
+### Different formats for different string values (Format function)
  
 A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can have one section or two sections separated by a semicolon (**;**).
-
 
 |**If you use**|**The result is**|
 |:-----|:-----|
@@ -168,11 +159,11 @@ A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can
 |Two sections|The first section applies to string data, the second to [Null](../../Glossary/vbe-glossary.md#null) values and zero-length strings ("").|
 
 
-**Named Date/Time Formats (Format Function)**
+### Named date/time formats (Format function)
 
-The following table identifies the predefined date and time format names:
+The following table identifies the predefined date and time format names.
 
-|**Format Name**|**Description**|
+|**Format name**|**Description**|
 |:-----|:-----|
 |**General Date**|Display a date and/or time. For real numbers, display a date and time, for example, 4/3/93 05:34 PM. If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
 |**Long Date**|Display a date according to your system's long date format.|
@@ -182,9 +173,9 @@ The following table identifies the predefined date and time format names:
 |**Medium Time**|Display time in 12-hour format using hours and minutes and the AM/PM designator.|
 |**Short Time**|Display a time using the 24-hour format, for example, 17:45.|
 
-**Named Numeric Formats (Format Function)**
+### Named numeric formats (Format function)
  
-The following table identifies the predefined numeric format names:
+The following table identifies the predefined numeric format names.
 
 |**Format name**|**Description**|
 |:-----|:-----|
@@ -195,13 +186,12 @@ The following table identifies the predefined numeric format names:
 |**Percent**|Display number multiplied by 100 with a percent sign (**%**) appended to the right; always display two digits to the right of the decimal separator.|
 |**Scientific**|Use standard scientific notation.|
 |**Yes/No**|Display No if number is 0; otherwise, display Yes.|
-|**True/False**|Display  **False** if number is 0; otherwise, display **True**.|
+|**True/False**|Display **False** if number is 0; otherwise, display **True**.|
 |**On/Off**|Display Off if number is 0; otherwise, display On.|
 
-**User-Defined String Formats (Format Function)**
+### User-defined string formats (Format function)
  
-You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings:
-
+You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings.
 
 |**Character**|**Description**|
 |:-----|:-----|
@@ -211,13 +201,12 @@ You can use any of the following characters to create a format [expression](../.
 |**&gt;**|Force uppercase. Display all characters in uppercase format.|
 |**!**|Force left to right fill of placeholders. The default is to fill placeholders from right to left.|
 
-**User-Defined Date/Time Formats (Format Function)**
+### User-defined date/time formats (Format function)
 
-The following table identifies characters you can use to create user-defined date/time formats:
+The following table identifies characters you can use to create user-defined date/time formats.
 
-|||
-|:-----|:-----|
 |**Character**|**Description**|
+|:-----|:-----|
 |(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
 |(**/**)|[Date separator](../../Glossary/vbe-glossary.md#date-separators). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
@@ -251,13 +240,12 @@ The following table identifies characters you can use to create user-defined dat
 |a/p|Use the 12-hour clock and display a lowercase A with any hour before noon; display a lowercase P with any hour between noon and 11:59 P.M.|
 |AMPM|Use the 12-hour clock and display the AM [string literal](../../Glossary/vbe-glossary.md#string-literal) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM. If your system is set to 24-hour clock, the string is typical set to a zero-length string.|
 
-**User-Defined Numeric Formats (Format Function)**
+### User-defined numeric formats (Format function)
 
-The following table identifies characters you can use to create user-defined number formats:
+The following table identifies characters you can use to create user-defined number formats.
 
-|||
+|**Character**|**Description**|
 |:-----|:-----|
-|Character|Description|
 |None|Display the number with no formatting.|
 |(**0**)|Digit placeholder. Display a digit or a zero. If the [expression](../../Glossary/vbe-glossary.md#expression) has a digit in the position where the 0 appears in the format string, display it; otherwise, display a zero in that position.If the number has fewer digits than there are zeros (on either side of the decimal) in the format expression, display leading or trailing zeros. If the number has more digits to the right of the decimal separator than there are zeros to the right of the decimal separator in the format expression, round the number to as many decimal places as there are zeros. If the number has more digits to the left of the decimal separator than there are zeros to the left of the decimal separator in the format expression, display the extra digits without modification.|
 |(**#**)|Digit placeholder. Display a digit or nothing. If the expression has a digit in the position where the # appears in the format string, display it; otherwise, display nothing in that position. This symbol works like the 0 digit placeholder, except that leading and trailing zeros aren't displayed if the number has the same or fewer digits than there are # characters on either side of the decimal separator in the format expression.|
@@ -268,7 +256,7 @@ The following table identifies characters you can use to create user-defined num
 |(**/**)|[Date separator](../../Glossary/vbe-glossary.md#date-separators). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |(**E- E+ e- e+**)|Scientific format. If the format expression contains at least one digit placeholder (**0** or **#**) to the right of E-, E+, e-, or e+, the number is displayed in scientific format and E or e is inserted between the number and its exponent. The number of digit placeholders to the right determines the number of digits in the exponent. Use E- or e- to place a minus sign next to negative exponents. Use E+ or e+ to place a minus sign next to negative exponents and a plus sign next to positive exponents.|
 |**- + $** ( )|Display a literal character. To display a character other than one of those listed, precede it with a backslash (\) or enclose it in double quotation marks (" ").|
-|(**\**)|Display the next character in the format string. To display a character that has special meaning as a literal character, precede it with a backslash (\). The backslash itself isn't displayed. Using a backslash is the same as enclosing the next character in double quotation marks. To display a backslash, use two backslashes (\\). Examples of characters that can't be displayed as literal characters are the date-formatting and time-formatting characters (a, c, d, h, m, n, p, q, s, t, w, y, / and :), the numeric-formatting characters (#, 0, %, E, e, comma, and period), and the string-formatting characters (@, &;, <, >, and !).|
-|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(34)** to enclose the text (34 is the [character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
+|(**\\**)|Display the next character in the format string. To display a character that has special meaning as a literal character, precede it with a backslash (\). The backslash itself isn't displayed. Using a backslash is the same as enclosing the next character in double quotation marks. To display a backslash, use two backslashes (\\). Examples of characters that can't be displayed as literal characters are the date-formatting and time-formatting characters (a, c, d, h, m, n, p, q, s, t, w, y, / and :), the numeric-formatting characters (#, 0, %, E, e, comma, and period), and the string-formatting characters (@, &;, <, >, and !).|
+|("ABC")|Display the string inside the double quotation marks (" "). To include a string in **_format_** from within code, you must use **Chr(34)** to enclose the text (34 is the [character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
 
 
