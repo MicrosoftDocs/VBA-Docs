@@ -18,19 +18,21 @@ Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glo
 
 ## Syntax
 
-**Format(**_expression_ [ **,**_format_ [ **,**_firstdayofweek_ [ **,**_firstweekofyear_ ]]] **)**
+**Format(**_Expression_ [ **,**_Format_ [ **,**_FirstDayOfWeek_ [ **,**_FirstWeekOfYear_ ]]] **)**
+
 The  **Format** function syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _expression_|Required. Any valid expression.|
-| _format_|Optional. A valid named or user-defined format expression.|
-| _firstdayofweek_|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week.|
-| _firstweekofyear_|Optional. A constant that specifies the first week of the year.|
+|_Expression_|Required. Any valid expression.|
+|_Format_|Optional. A valid named or user-defined format expression.|
+|_FirstDayOfWeek_|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week.|
+|_FirstWeekOfYear_|Optional. A constant that specifies the first week of the year.|
 
  **Settings**
-The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md#argument) has these settings:
+
+The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings:
 
 
 |**Constant**|**Value**|**Description**|
@@ -44,7 +46,7 @@ The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md#argument) has the
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
-The  _firstweekofyear_ argument has these settings:
+The  _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings:
 
 
 |**Constant**|**Value**|**Description**|
@@ -74,26 +76,30 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 
 |**Symbol**|**Range**|
 |:-----|:-----|
-| _d_|1-31 (Day of month, with no leading zero).|
-| _dd_|01-31 (Day of month, with a leading zero).|
-| _w_ |1-7 (Day of week, starting with Sunday = 1)
-| _ww_|1-53 (Week of year, with no leading zero; Week 1 starts on Jan 1).|
-| _mmm_|Displays abbreviated month names (Hijri month names have no abbreviations).|
-| _mmmm_|Displays full month names.|
+| _d_|1-31 (Day of month, with no leading zero)|
+| _dd_|01-31 (Day of month, with a leading zero)|
+| _w_ |1-7 (Day of week, starting with Sunday = 1)|
+| _ww_|1-53 (Week of year, with no leading zero; Week 1 starts on Jan 1)|
+| _m_ |1-12 (Month of year, with no leading zero, starting with January = 1)|
+| _mm_|01-12 (Month of year, with a leading zero, starting with January = 01)|
+| _mmm_|Displays abbreviated month names (Hijri month names have no abbreviations)|
+| _mmmm_|Displays full month names|
 | _y_|1-366 (Day of year)|
 | _yy_ |00-99 (Last two digits of year)|
-| _yyyy_ |100-9666 (Three- or Four-digit year)|
+| _yyyy_ |100-9999 (Three- or Four-digit year)|
 
 **Time Symbols**
 
 |**Symbol**|**Range**
 |:-----|:-----|
-| _h_ |0-23 (1-12 with "Am" or "Pm" appended) (Hour of day, with no leading zero)|
-| _hh_ |0-23 (01-12 with "Am" or "Pm" appended) (Hour of day, with no leading zero)|
+| _h_ |0-23 (1-12 with "AM" or "PM" appended) (Hour of day, with no leading zero)|
+| _hh_ |00-23 (01-12 with "AM" or "Mm" appended) (Hour of day, with a leading zero)|
 | _n_ |0-59 (Minute of hour, with no leading zero)|
-| _nn_ |0-59 (Minute of hour, with a leading zero)|
+| _nn_ |00-59 (Minute of hour, with a leading zero)|
+| _m_ |0-59 (Minute of hour, with no leading zero). Only if preceded by _h_ or _hh_|
+| _mm_ |00-59 (Minute of hour, with a leading zero). Only if preceded by _h_ or _hh_|
 | _s_ |0-59 (Second of minute, with no leading zero)|
-| _ss_ |0-59 (Second of minute, with a leading zero)|
+| _ss_ |00-59 (Second of minute, with a leading zero)|
 
 ## Example
 
@@ -113,9 +119,9 @@ MyStr = Format(Time, "Long Time")
 MyStr = Format(Date, "Long Date")
 
 MyStr = Format(MyTime, "h:m:s")    ' Returns "17:4:23".
-MyStr = Format(MyTime, "hh:mm:ss AMPM")    ' Returns "05:04:23 PM".
-MyStr = Format(MyDate, "dddd, mmm d yyyy")    ' Returns "Wednesday,
-    ' Jan 27 1993".
+MyStr = Format(MyTime, "hh:mm:ss am/pm")    ' Returns "05:04:23 pm".
+MyStr = Format(MyTime, "hh:mm:ss AM/PM")    ' Returns "05:04:23 PM".
+MyStr = Format(MyDate, "dddd, mmm d yyyy")    ' Returns "Wednesday, Jan 27 1993".
 ' If format is not supplied, a string is returned.
 MyStr = Format(23)    ' Returns "23".
 
@@ -128,7 +134,8 @@ MyStr = Format("This is it", ">")    ' Returns "THIS IS IT".
 ```
 
  **Different Formats for Different Numeric Values (Format Function)**
-A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) for numbers can have from one to four sections separated by semicolons. If the format[argument](../../Glossary/vbe-glossary.md#argument) contains one of the named numeric formats, only one section is allowed.
+
+A user-defined format [expression](../../Glossary/vbe-glossary.md#expression) for numbers can have from one to four sections separated by semicolons. If the format [argument](../../Glossary/vbe-glossary.md#argument) contains one of the named numeric formats, only one section is allowed.
 
 
 |**If you use**|**The result is**|
@@ -150,7 +157,8 @@ If you include semicolons with nothing between them, the missing section is prin
 "$#,##0;;\Z\e\r\o"
 ```
 
- **Different Formats for Different String Values (Format Function)**
+**Different Formats for Different String Values (Format Function)**
+ 
 A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can have one section or two sections separated by a semicolon (**;**).
 
 
@@ -161,12 +169,12 @@ A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can
 
 
 **Named Date/Time Formats (Format Function)**
-The following table identifies the predefined date and time format names:
 
+The following table identifies the predefined date and time format names:
 
 |**Format Name**|**Description**|
 |:-----|:-----|
-|**General Date**|Display a date and/or time. For real numbers, display a date and time, for example, 4/3/93 05:34 PM.If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
+|**General Date**|Display a date and/or time. For real numbers, display a date and time, for example, 4/3/93 05:34 PM. If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
 |**Long Date**|Display a date according to your system's long date format.|
 |**Medium Date**|Display a date using the medium date format appropriate for the language version of the [host application](../../Glossary/vbe-glossary.md#host-application).|
 |**Short Date**|Display a date using your system's short date format.|
@@ -174,9 +182,9 @@ The following table identifies the predefined date and time format names:
 |**Medium Time**|Display time in 12-hour format using hours and minutes and the AM/PM designator.|
 |**Short Time**|Display a time using the 24-hour format, for example, 17:45.|
 
- **Named Numeric Formats (Format Function)**
+**Named Numeric Formats (Format Function)**
+ 
 The following table identifies the predefined numeric format names:
-
 
 |**Format name**|**Description**|
 |:-----|:-----|
@@ -190,7 +198,8 @@ The following table identifies the predefined numeric format names:
 |**True/False**|Display  **False** if number is 0; otherwise, display **True**.|
 |**On/Off**|Display Off if number is 0; otherwise, display On.|
 
- **User-Defined String Formats (Format Function)**
+**User-Defined String Formats (Format Function)**
+ 
 You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings:
 
 
@@ -202,13 +211,14 @@ You can use any of the following characters to create a format [expression](../.
 |**&gt;**|Force uppercase. Display all characters in uppercase format.|
 |**!**|Force left to right fill of placeholders. The default is to fill placeholders from right to left.|
 
- **User-Defined Date/Time Formats (Format Function)**
+**User-Defined Date/Time Formats (Format Function)**
+
 The following table identifies characters you can use to create user-defined date/time formats:
 
 |||
 |:-----|:-----|
 |**Character**|**Description**|
-|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
+|(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
 |(**/**)|[Date separator](../../Glossary/vbe-glossary.md#date-separators). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
 |d|Display the day as a number without a leading zero (1 - 31).|
@@ -220,29 +230,29 @@ The following table identifies characters you can use to create user-defined dat
 |aaaa|The same as dddd, only it's the localized version of the string.|
 |w|Display the day of the week as a number (1 for Sunday through 7 for Saturday).|
 |ww|Display the week of the year as a number (1 - 54).|
-|m|Display the month as a number without a leading zero (1 - 12). If  `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
-|mm|Display the month as a number with a leading zero (01 - 12). If  `m` immediately follows `h` or `hh`, the minute rather than the month is displayed. |
+|m|Display the month as a number without a leading zero (1 - 12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
+|mm|Display the month as a number with a leading zero (01 - 12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed. |
 |mmm|Display the month as an abbreviation (Jan - Dec). Localized.|
 |mmmm|Display the month as a full month name (January - December). Localized.|
-|oooo|The same as mmmm, only it's the localized version of the string.|
 |q|Display the quarter of the year as a number (1 - 4).|
 |y|Display the day of the year as a number (1 - 366).|
 |yy|Display the year as a 2-digit number (00 - 99).|
 |yyyy|Display the year as a 4-digit number (100 - 9999).|
-|h|Display the hour as a number without leading zeros (0 - 23).|
-|Hh|Display the hour as a number with leading zeros (00 - 23).|
-|N|Display the minute as a number without leading zeros (0 - 59).|
-|Nn|Display the minute as a number with leading zeros (00 - 59).|
-|S|Display the second as a number without leading zeros (0 - 59).|
-|Ss|Display the second as a number with leading zeros (00 - 59).|
-|t t t t t|Display a time as a complete time (including hour, minute, and second), formatted using the time separator defined by the time format recognized by your system. A leading zero is displayed if the leading zero option is selected and the time is before 10:00 A.M. or P.M. The default time format is  `h:mm:ss`.|
+|h|Display the hour as a number without a leading zero (0 - 23).|
+|Hh|Display the hour as a number with a leading zero (00 - 23).|
+|N|Display the minute as a number without a leading zero (0 - 59).|
+|Nn|Display the minute as a number with a leading zero (00 - 59).|
+|S|Display the second as a number without a leading zero (0 - 59).|
+|Ss|Display the second as a number with a leading zero (00 - 59).|
+|ttttt|Display a time as a complete time (including hour, minute, and second), formatted using the time separator defined by the time format recognized by your system. A leading zero is displayed if the leading zero option is selected and the time is before 10:00 A.M. or P.M. The default time format is `h:mm:ss`.|
 |AM/PM|Use the 12-hour clock and display an uppercase AM with any hour before noon; display an uppercase PM with any hour between noon and 11:59 P.M.|
 |am/pm|Use the 12-hour clock and display a lowercase AM with any hour before noon; display a lowercase PM with any hour between noon and 11:59 P.M.|
 |A/P|Use the 12-hour clock and display an uppercase A with any hour before noon; display an uppercase P with any hour between noon and 11:59 P.M.|
 |a/p|Use the 12-hour clock and display a lowercase A with any hour before noon; display a lowercase P with any hour between noon and 11:59 P.M.|
-|AMPM|Use the 12-hour clock and display the AM [string literal](../../Glossary/vbe-glossary.md#string-literal) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM.|
+|AMPM|Use the 12-hour clock and display the AM [string literal](../../Glossary/vbe-glossary.md#string-literal) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM. If your system is set to 24-hour clock, the string is typical set to a zero-length string.|
 
 **User-Defined Numeric Formats (Format Function)**
+
 The following table identifies characters you can use to create user-defined number formats:
 
 |||
@@ -259,6 +269,6 @@ The following table identifies characters you can use to create user-defined num
 |(**E- E+ e- e+**)|Scientific format. If the format expression contains at least one digit placeholder (**0** or **#**) to the right of E-, E+, e-, or e+, the number is displayed in scientific format and E or e is inserted between the number and its exponent. The number of digit placeholders to the right determines the number of digits in the exponent. Use E- or e- to place a minus sign next to negative exponents. Use E+ or e+ to place a minus sign next to negative exponents and a plus sign next to positive exponents.|
 |**- + $** ( )|Display a literal character. To display a character other than one of those listed, precede it with a backslash (\) or enclose it in double quotation marks (" ").|
 |(**\**)|Display the next character in the format string. To display a character that has special meaning as a literal character, precede it with a backslash (\). The backslash itself isn't displayed. Using a backslash is the same as enclosing the next character in double quotation marks. To display a backslash, use two backslashes (\\). Examples of characters that can't be displayed as literal characters are the date-formatting and time-formatting characters (a, c, d, h, m, n, p, q, s, t, w, y, / and :), the numeric-formatting characters (#, 0, %, E, e, comma, and period), and the string-formatting characters (@, &;, <, >, and !).|
-|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(** 34 **)** to enclose the text (34 is the[character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
+|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(34)** to enclose the text (34 is the [character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
 
 
