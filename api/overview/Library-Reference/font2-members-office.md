@@ -1,25 +1,22 @@
 ---
-title: Font2 Members (Office)
+title: Font2 members (Office)
 ms.prod: office
 ms.assetid: 8c91a433-b474-486a-4c03-eb9f7b44ecb0
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# Font2 Members (Office)
-Contains font attributes (for example, font name, font size, and color) for an object.
+# Font2 members (Office)
 
 Contains font attributes (for example, font name, font size, and color) for an object.
 
 
 ## Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |[Allcaps](../../Office.Font2.Allcaps.md)|True if the font is formatted as all capital letters. Read/write.|
-|[Application](../../Office.Font2.Application.md)|Gets an object that represents the application the  **Font2** object is used in. Read-only.|
+|[Application](../../Office.Font2.Application.md)|Gets an object that represents the application the **Font2** object is used in. Read-only.|
 |[AutorotateNumbers](../../Office.Font2.AutorotateNumbers.md)|Gets or sets a value that specifies whether the numbers in a numbered list should be rotated when the text is rotated. Read/write.|
 |[BaselineOffset](../../Office.Font2.BaselineOffset.md)|Gets or sets a value specifying the horizontaol offset of the selected font. Read/write.|
 |[Bold](../../Office.Font2.Bold.md)|Gets or sets a value specifying whether the font should be bold. Read/write.|
@@ -40,7 +37,7 @@ Contains font attributes (for example, font name, font size, and color) for an o
 |[NameComplexScript](../../Office.Font2.NameComplexScript.md)|Gets or sets the complex script font name. Used for mixed language text. Read/write.|
 |[NameFarEast](../../Office.Font2.NameFarEast.md)|Gets or sets an East Asian font name. Read/write.|
 |[NameOther](../../Office.Font2.NameOther.md)|Gets or sets the font used for characters whose character set numbers are greater than 127. Read/write.|
-|[Parent](../../Office.Font2.Parent.md)|Gets the parent of the  **Font2** object. Read-only.|
+|[Parent](../../Office.Font2.Parent.md)|Gets the parent of the **Font2** object. Read-only.|
 |[Reflection](../../Office.Font2.Reflection.md)|Gets a value specifying the type of reflection format for the selection of text. Read-only.|
 |[Shadow](../../Office.Font2.Shadow.md)|Gets the value specifying the type of shadow effect for the selection of text. Read-only.|
 |[Size](../../Office.Font2.Size.md)|Gets or sets a value specifying the size of the font. Read/write.|

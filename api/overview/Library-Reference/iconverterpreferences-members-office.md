@@ -1,20 +1,17 @@
 ---
-title: IConverterPreferences Members (Office)
+title: IConverterPreferences members (Office)
 ms.prod: office
 ms.assetid: 4c3f024c-25c5-aa02-1bff-7ec9e8c2d2b3
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# IConverterPreferences Members (Office)
-This feature is only available in the Open XML Format SDK.
+# IConverterPreferences members (Office)
 
 This feature is only available in the Open XML Format SDK.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

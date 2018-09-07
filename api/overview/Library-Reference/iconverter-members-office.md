@@ -1,20 +1,17 @@
 ---
-title: IConverter Members (Office)
+title: IConverter members (Office)
 ms.prod: office
 ms.assetid: c8396dba-f980-18a2-0b17-29164446dc5b
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# IConverter Members (Office)
-This feature is only available in the Open XML Format SDK.
+# IConverter members (Office)
 
 This feature is only available in the Open XML Format SDK.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Show](../../Office.WorkflowTask.Show.md)|Displays a workflow task edit user interface for the specified  **WorkflowTask** object.|
+|[Show](../../Office.WorkflowTask.Show.md)|Displays a workflow task edit user interface for the specified **WorkflowTask** object.|
 
