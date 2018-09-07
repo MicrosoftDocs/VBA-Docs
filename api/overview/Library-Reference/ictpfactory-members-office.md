@@ -1,20 +1,17 @@
 ---
-title: ICTPFactory Members (Office)
+title: ICTPFactory members (Office)
 ms.prod: office
 ms.assetid: 34359a03-163f-40e5-88fe-ba7af0d73a14
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# ICTPFactory Members (Office)
-Used to create a custom task pane.
+# ICTPFactory members (Office)
 
 Used to create a custom task pane.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

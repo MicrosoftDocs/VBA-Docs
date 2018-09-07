@@ -1,20 +1,17 @@
 ---
-title: IRibbonExtensibility Members (Office)
+title: IRibbonExtensibility members (Office)
 ms.prod: office
 ms.assetid: 8d8ecf4f-5502-1876-46af-381078c7710e
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# IRibbonExtensibility Members (Office)
-The interface through which the Ribbon user interface (UI) communicates with a COM add-in to customize the UI.
+# IRibbonExtensibility members (Office)
 
 The interface through which the Ribbon user interface (UI) communicates with a COM add-in to customize the UI.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

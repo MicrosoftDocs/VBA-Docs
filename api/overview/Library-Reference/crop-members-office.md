@@ -1,25 +1,22 @@
 ---
-title: Crop Members (Office)
+title: Crop members (Office)
 ms.prod: office
 ms.assetid: bd31aced-3364-657b-a5cd-1edf21d67029
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# Crop Members (Office)
-An object used to remove a portion of an image.
+# Crop members (Office)
 
 An object used to remove a portion of an image.
 
 
 ## Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../../Office.Crop.Application.md)|Gets the  **Application** object of the host application. Read-only.|
-|[Creator](../../Office.Crop.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **Crop** object was created. Read-only.|
+|[Application](../../Office.Crop.Application.md)|Gets the **Application** object of the host application. Read-only.|
+|[Creator](../../Office.Crop.Creator.md)|Gets a 32-bit integer that indicates the application in which the **Crop** object was created. Read-only.|
 |[PictureHeight](../../Office.Crop.PictureHeight.md)|Gets or sets the height of the image that is to be cropped. Read/write.|
 |[PictureOffsetX](../../Office.Crop.PictureOffsetX.md)|Gets or sets the x-axis offset of the image that is to be cropped. Read/write.|
 |[PictureOffsetY](../../Office.Crop.PictureOffsetY.md)|Gets or sets the y-axis offset of the image that is to be cropped. Read/write.|

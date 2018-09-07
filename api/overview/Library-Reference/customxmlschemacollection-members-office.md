@@ -1,20 +1,17 @@
 ---
-title: CustomXMLSchemaCollection Members (Office)
+title: CustomXMLSchemaCollection members (Office)
 ms.prod: office
 ms.assetid: 68e492da-a554-0cf3-beec-78619036348d
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# CustomXMLSchemaCollection Members (Office)
-Represents a collection of  **CustomXMLSchema** objects attached to a data stream.
+# CustomXMLSchemaCollection members (Office)
 
-Represents a collection of  **CustomXMLSchema** objects attached to a data stream.
+Represents a collection of **CustomXMLSchema** objects attached to a data stream.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,16 +19,15 @@ Represents a collection of  **CustomXMLSchema** objects attached to a data strea
 |[AddCollection](../../Office.CustomXMLSchemaCollection.AddCollection.md)|Adds an existing schema collection to the current schema collection. |
 |[Validate](../../Office.CustomXMLSchemaCollection.Validate.md)|Specifies whether the schemas in a schema collection are valid (conforms to the syntactic rules of XML and the rules for a specified vocabulary; a standard for structuring XML).|
 
+
 ## Properties
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../../Office.CustomXMLSchemaCollection.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.|
-|[Count](../../Office.CustomXMLSchemaCollection.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.|
-|[Creator](../../Office.CustomXMLSchemaCollection.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLSchemaCollection** object was created. Read-only.|
-|[Item](../../Office.CustomXMLSchemaCollection.Item.md)|Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.|
-|[NamespaceURI](../../Office.CustomXMLSchemaCollection.NamespaceURI.md)|Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCollection** object. Read-only.|
-|[Parent](../../Office.CustomXMLSchemaCollection.Parent.md)|Gets the  **Parent** object for the **CustomXMLSchemaCollection** object. Read-only.|
+|[Application](../../Office.CustomXMLSchemaCollection.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.|
+|[Count](../../Office.CustomXMLSchemaCollection.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.|
+|[Creator](../../Office.CustomXMLSchemaCollection.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLSchemaCollection** object was created. Read-only.|
+|[Item](../../Office.CustomXMLSchemaCollection.Item.md)|Gets a **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.|
+|[NamespaceURI](../../Office.CustomXMLSchemaCollection.NamespaceURI.md)|Gets the unique address identifier for the namespace of the **CustomXMLSchemaCollection** object. Read-only.|
+|[Parent](../../Office.CustomXMLSchemaCollection.Parent.md)|Gets the **Parent** object for the **CustomXMLSchemaCollection** object. Read-only.|
 

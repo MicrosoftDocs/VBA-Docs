@@ -1,20 +1,17 @@
 ---
-title: IConverterUICallback Members (Office)
+title: IConverterUICallback members (Office)
 ms.prod: office
 ms.assetid: ec3f2d9a-1b1a-ebb1-f003-e725dccc440d
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# IConverterUICallback Members (Office)
-This feature is only available in the Open XML Format SDK.
+# IConverterUICallback members (Office)
 
 This feature is only available in the Open XML Format SDK.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
