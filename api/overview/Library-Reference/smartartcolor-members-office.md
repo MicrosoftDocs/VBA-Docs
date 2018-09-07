@@ -1,24 +1,22 @@
 ---
-title: SmartArtColor Members (Office)
+title: SmartArtColor members (Office)
+description: Chooses the color scheme for the SmartArt diagram.
 ms.prod: office
 ms.assetid: b1a82f2e-ccd5-c98e-36a6-74642bc63e68
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# SmartArtColor Members (Office)
-Chooses the color scheme for the SmartArt diagram.
+# SmartArtColor members (Office)
 
 Chooses the color scheme for the SmartArt diagram.
 
 
 ## Properties
 
-
-
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../../Office.SmartArtColor.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtColor** object. Read-only|
+|[Application](../../Office.SmartArtColor.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtColor** object. Read-only|
 |[Category](../../Office.SmartArtColor.Category.md)|Retrieves the primary category name associated with the SmartArt color style. Read-only|
 |[Creator](../../Office.SmartArtColor.Creator.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only|
 |[Description](../../Office.SmartArtColor.Description.md)|Retrieves the description of the SmartArt color style. Read-only|

@@ -1,20 +1,18 @@
 ---
-title: IRibbonUI Members (Office)
+title: IRibbonUI members (Office)
+description: The object that is returned by the onLoad procedure specified on the customUI tag.
 ms.prod: office
 ms.assetid: c6f6ec3b-3132-da29-ea08-70f20923d013
-ms.date: 06/08/2017
+ms.date: 09/07/2018
 ---
 
 
-# IRibbonUI Members (Office)
-The object that is returned by the  **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
+# IRibbonUI members (Office)
 
-The object that is returned by the  **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
+The object that is returned by the **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
 
 
 ## Methods
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
