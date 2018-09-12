@@ -1,24 +1,18 @@
 ---
-title: ConnectionEvents (Visual C++ Syntax Index with import)
+title: ConnectionEvents (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: f69253dc-5997-8e2c-fdce-2aa76f841f98
 ms.date: 06/08/2017
 ---
 
 
-# ConnectionEvents (Visual C++ Syntax Index with #import)
-
-  
+# ConnectionEvents (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Events**
+## Events
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtinfomessage_HV10294445.xml( struct Error * pError , enum 
  EventStatusEnum * adStatus , struct _Connection * pConnection ); 
  

@@ -1,24 +1,18 @@
 ---
-title: Recordset (Visual C++ Syntax Index with import)
+title: Recordset (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 807e0ce2-2f28-cb4f-41ae-fa4834504a01
 ms.date: 06/08/2017
 ---
 
 
-# Recordset (Visual C++ Syntax Index with #import)
-
-  
+# Recordset (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthaddnew_HV10294007.xml( const _variant_t &; FieldList  = vtMissing, 
  const _variant_t &; Values  =vtMissing); 
  
@@ -80,12 +74,9 @@ VARIANT_BOOL Invalid DDUE based on source, error:link not allowed in code, link 
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 enum PositionEnum GetAbsolutePage( ); 
 void PutAbsolutePage( enum PositionEnum pl ); 
 __declspec(property(get=GetAbsolutePage,put=PutAbsolutePage)) enum 

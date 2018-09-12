@@ -1,24 +1,18 @@
 ---
-title: Record (Visual C++ Syntax Index with import)
+title: Record (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 87c6d242-4977-2e81-c829-227e6dd326e5
 ms.date: 06/08/2017
 ---
 
 
-# Record (Visual C++ Syntax Index with #import)
-
-  
+# Record (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclose_HV10294173.xml( ); 
@@ -42,12 +36,9 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactivecon_HV10293988.xml( ); 
 void PutActiveConnection( _bstr_t pvar ); 
 void PutRefActiveConnection( struct _Connection * pvar ); 

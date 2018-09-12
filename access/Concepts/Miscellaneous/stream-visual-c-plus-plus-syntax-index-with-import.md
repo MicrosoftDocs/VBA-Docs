@@ -1,24 +1,18 @@
 ---
-title: Stream (Visual C++ Syntax Index with import)
+title: Stream (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: a3188858-9c0d-aff6-c893-2111aee77383
 ms.date: 06/08/2017
 ---
 
 
-# Stream (Visual C++ Syntax Index with #import)
-
-  
+# Stream (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclose_HV10294173.xml( ); 
@@ -49,12 +43,9 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 _bstr_t GetCharset( ); 
 void PutCharset( _bstr_t pbstrCharset ); 
 __declspec(property(get=GetCharset,put=PutCharset)) _bstr_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocharset_HV10294162.xml; 

@@ -1,25 +1,20 @@
 ---
-title: Field (ADO/WFC Syntax)
+title: Field (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 61d7028f-ed13-2a20-643d-68d43df91163
 ms.date: 06/08/2017
 ---
 
 
-# Field (ADO/WFC Syntax)
-
-  
+# Field (ADO/WFC syntax)
 
 **Applies to:** Access 2013 | Access 2016
 
- **package com.ms.wfc.data**
+**package com.ms.wfc.data**
 
- **Methods**
+## Methods
 
-
-
-```
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml(byte[] bytes ) 
 public void appendChunk(char[] chars ) 
 public void appendChunk(String chars ) 
@@ -29,12 +24,9 @@ public String getStringChunk(int len )
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```
- 
+```vb
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactualsize_HV10293998.xml() 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproattributes_HV10294098.xml() 
 public void setAttributes(int pl ) 
@@ -45,10 +37,7 @@ public void setDataFormat(com.ms.com.IUnknown format )
 
 (For more information, see the Microsoft Visual J++ WFC Reference documentation for the com.ms.wfc.data.IDataFormat interface.)
 
-
-
-```
- 
+```vb
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprodefinedsize_HV10294289.xml() 
 public void setDefinedSize(int pl ) 
 public String Invalid DDUE based on source, error:link not allowed in code, link filename:mdproname_HV10294535.xml() 
@@ -66,16 +55,17 @@ public AdoProperties Invalid DDUE based on source, error:link not allowed in cod
 
 ```
 
- **Field Accessor Methods**
-The [Value](http://msdn.microsoft.com/library/ff21d122-98e3-2b48-d92f-e696b8079fc5%28Office.15%29.aspx) property of a[Field](http://msdn.microsoft.com/library/1dbd535e-48ad-a5c8-a1b2-6776c1e3e19d%28Office.15%29.aspx) object gets or sets the content of that object. The content is represented as a VARIANT, a type of object that can be assigned a value and any of several data types.
-ADO/WFC implements the  **Value** property with the **getValue** method, which returns a VARIANT object; and the **setValue** method, which takes a VARIANT as an argument. VARIANTs are highly efficient in certain languages, such as Microsoft Visual Basic. However, you can attain better performance in Microsoft Visual J++ by using native Java data types.
-In addition to the  **Value** property, ADO/WFC provides _accessor_ methods that use Java data types to get and set the content of **Field** objects. Most of these methods have names of the form **get** _DataType_ or **set** _DataType_.
-There are two noteworthy exceptions: One of the  **getObject** methods returns an object coerced into a specified class. There is no **getNull** property; instead, there is an **isNull** property that returns a Boolean value indicating whether the field is null.
+## Field accessor methods
 
+The [Value](http://msdn.microsoft.com/library/ff21d122-98e3-2b48-d92f-e696b8079fc5%28Office.15%29.aspx) property of a [Field](http://msdn.microsoft.com/library/1dbd535e-48ad-a5c8-a1b2-6776c1e3e19d%28Office.15%29.aspx) object gets or sets the content of that object. The content is represented as a VARIANT, a type of object that can be assigned a value and any of several data types.
 
+ADO/WFC implements the **Value** property with the **getValue** method, which returns a VARIANT object; and the **setValue** method, which takes a VARIANT as an argument. VARIANTs are highly efficient in certain languages, such as Microsoft Visual Basic. However, you can attain better performance in Microsoft Visual J++ by using native Java data types.
 
-```js
- 
+In addition to the **Value** property, ADO/WFC provides _accessor_ methods that use Java data types to get and set the content of **Field** objects. Most of these methods have names of the form **get** _DataType_ or **set** _DataType_.
+
+There are two noteworthy exceptions: One of the **getObject** methods returns an object coerced into a specified class. There is no **getNull** property; instead, there is an **isNull** property that returns a Boolean value indicating whether the field is null.
+
+```vb
 public native boolean getBoolean(); 
 public void setBoolean(boolean v ) 
 public native byte getByte(); 
