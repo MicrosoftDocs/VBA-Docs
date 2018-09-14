@@ -1,21 +1,16 @@
 ---
-title: DataSpace Object and CreateObject Method Example (VBScript)
+title: DataSpace object and CreateObject method example (VBScript)
 ms.prod: access
 ms.assetid: 0132996b-e3e1-4dbe-95dc-4313824669b7
 ms.date: 06/08/2017
 ---
 
 
-# DataSpace Object and CreateObject Method Example (VBScript)
-
-  
+# DataSpace object and CreateObject method example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following example shows how to use the [CreateObject](http://msdn.microsoft.com/library/130debe5-31cf-4ab0-5f78-9adaec7d7126%28Office.15%29.aspx) method of the[RDS.DataSpace](http://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) with the default business object,[RDSServer.DataFactory](http://msdn.microsoft.com/library/1de76cdd-34dc-8547-29aa-48ad6067bdea%28Office.15%29.aspx). To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **DataSpaceVBS.asp**. ASP script will identify your server.
-
-
-
+The following example shows how to use the [CreateObject](http://msdn.microsoft.com/library/130debe5-31cf-4ab0-5f78-9adaec7d7126%28Office.15%29.aspx) method of the [RDS.DataSpace](http://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) with the default business object, [RDSServer.DataFactory](http://msdn.microsoft.com/library/1de76cdd-34dc-8547-29aa-48ad6067bdea%28Office.15%29.aspx). To test this example, cut and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **DataSpaceVBS.asp**. ASP script will identify your server.
 
 ```vb
 
@@ -68,9 +63,8 @@ End Sub</Script>
 ```
 
 The following example shows how to use the  **CreateObject** method to create an instance of a custom business object, VbBusObj.VbBusObjCls. It also uses the Active Server Pages scripting to identify the Web server name.
+
 To see the complete example, open the sample applications selector. In the  **Client Tier** column, select **VBScript in Internet Explorer**. In the **Middle Tier** column, select **Custom Visual Basic Business Object**.
-
-
 
 ```vb
  

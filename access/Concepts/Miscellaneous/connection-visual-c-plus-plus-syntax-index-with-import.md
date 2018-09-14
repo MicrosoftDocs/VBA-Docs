@@ -1,24 +1,18 @@
 ---
-title: Connection (Visual C++ Syntax Index with import)
+title: Connection (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 3217a7d7-1c70-89f7-74a4-172371521358
 ms.date: 06/08/2017
 ---
 
 
-# Connection (Visual C++ Syntax Index with #import)
-
-  
+# Connection (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclose_HV10294173.xml( ); 
@@ -39,12 +33,9 @@ _RecordsetPtr Invalid DDUE based on source, error:link not allowed in code, link
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 _bstr_t GetConnectionString( ); 
 void PutConnectionString( _bstr_t pbstr ); 
 __declspec(property(get=GetConnectionString,put=PutConnectionString)) 

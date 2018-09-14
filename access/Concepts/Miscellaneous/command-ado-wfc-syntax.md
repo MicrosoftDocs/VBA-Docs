@@ -1,36 +1,27 @@
 ---
-title: Command (ADO/WFC Syntax)
+title: Command (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: fd244794-8831-883a-7892-3ad04d732790
 ms.date: 06/08/2017
 ---
 
 
-# Command (ADO/WFC Syntax)
-
-  
+# Command (ADO/WFC syntax)
 
 **Applies to:** Access 2013 | Access 2016
 
- **package com.ms.wfc.data**
+**package com.ms.wfc.data**
 
- **Constructor**
+## Constructor
 
-
-
-```
- 
+```vb
 public Invalid DDUE based on source, error:link not allowed in code, link filename:mdobjcommand_HV10294191.xml() 
 public Command(String commandtext ) 
-
 ```
 
- **Methods**
+### Methods
 
-
-
-```
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml() 
 public com.ms.wfc.data.Parameter Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcreateparam_HV10294243.xml(String 
  Name , int Type , int Direction , int Size , Object Value ) 
@@ -40,16 +31,13 @@ public Recordset execute(Object[] parameters , int options )
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcmdexecute_HV10294344.xml(Object[] parameters ) 
 public int executeUpdate(Object[] parameters , int options ) 
 public int executeUpdate() 
-
 ```
 
-The  **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
- **Properties**
+The **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
 
+### Properties
 
-
-```js
- 
+```vb
 public com.ms.wfc.data.Connection Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactivecon_HV10293988.xml() 
 public void setActiveConnection(com.ms.wfc.data.Connection con ) 
 public void setActiveConnection(String conString ) 
@@ -68,7 +56,6 @@ public com.ms.wfc.data.Parameter Invalid DDUE based on source, error:link not al
 public com.ms.wfc.data.Parameter getParameter(String n ) 
 public com.ms.wfc.data.Parameters Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolparameters_HV10294594.xml() 
 public AdoProperties Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolproperties_HV10294633.xml() 
-
 ```
 
 ## See also

@@ -1,24 +1,18 @@
 ---
-title: CubeDef Example (VBScript)
+title: CubeDef example (VBScript)
 ms.prod: access
 ms.assetid: bcd50cc6-fe2b-d47a-a402-cd2ba4662b2d
 ms.date: 06/08/2017
 ---
 
 
-# CubeDef Example (VBScript)
-
-  
+# CubeDef example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
 This example displays cube metadata on a web page.
 
-
-
-
 ```vb
- 
 <%@ Language=VBScript %> 
 <% 
 Response.Buffer=True 

@@ -1,24 +1,18 @@
 ---
-title: RecordsetEvents (Visual C++ Syntax Index with import)
+title: RecordsetEvents (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: aa99a006-3968-3853-030d-ef143c4ef7b0
 ms.date: 06/08/2017
 ---
 
 
-# RecordsetEvents (Visual C++ Syntax Index with #import)
-
-  
+# RecordsetEvents (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Events**
+## Events
 
-
-
-
-```c#
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtwillchangefield_HV10294950.xml( long cFields , const 
  _variant_t &; Fields , enum EventStatusEnum * adStatus , struct 
  _Recordset * pRecordset ); 

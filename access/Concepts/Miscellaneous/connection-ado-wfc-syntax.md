@@ -1,36 +1,27 @@
 ---
-title: Connection (ADO/WFC Syntax)
+title: Connection (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: adead04c-7a49-40b8-6d15-5d19c559b1b2
 ms.date: 06/08/2017
 ---
 
 
-# Connection (ADO/WFC Syntax)
-
-  
+# Connection (ADO/WFC syntax)
 
 **Applies to:** Access 2013 | Access 2016
 
- **package com.ms.wfc.data**
+**package com.ms.wfc.data**
 
- **Constructor**
+## Constructor
 
-
-
-```
- 
+```vb
 public Invalid DDUE based on source, error:link not allowed in code, link filename:mdobjconnection_HV10294216.xml() 
 public Connection(String connectionstring ) 
-
 ```
 
- **Methods**
+### Methods
 
-
-
-```
- 
+```vb
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthbegintrans_HV10294108.xml() 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthbegintrans_HV10294108.xml() 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthbegintrans_HV10294108.xml() 
@@ -40,15 +31,11 @@ public com.ms.wfc.data.Recordset Invalid DDUE based on source, error:link not al
 public com.ms.wfc.data.Recordset execute(String commandText , int options ) 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcnnexecute_HV10294345.xml(String commandText ) 
 public int executeUpdate(String commandText , int options ) 
-
 ```
 
-The  **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
+The **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
 
-
-
-```
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcnnopen_HV10294563.xml() 
 public void open(String connectionString ) 
 public void open(String connectionString , String userID ) 
@@ -58,15 +45,11 @@ public Recordset Invalid DDUE based on source, error:link not allowed in code, l
  restrictions , String schemaID ) 
 public Recordset openSchema(int schema) 
 public Recordset openSchema(int schema, Object[] restrictions ) 
-
 ```
 
- **Properties**
+### Properties
 
-
-
-```
- 
+```vb
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproattributes_HV10294098.xml() 
 public void setAttributes(int attr ) 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocommandtimeout_HV10294196.xml() 
@@ -92,13 +75,11 @@ public com.ms.wfc.data.Errors Invalid DDUE based on source, error:link not allow
 
 ```
 
- **Events**
+## Events
+
 For more information about ADO/WFC events, see [ADO Event Instantiation by Language](ado-event-instantiation-by-language.md).
 
-
-
-```
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtbegintranscomplete_HV10294112.xml(ConnectionEventHandler handler ) 
 public void removeOnBeginTransComplete(ConnectionEventHandler handler ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtbegintranscomplete_HV10294112.xml(ConnectionEventHandler handler ) 

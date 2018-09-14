@@ -1,36 +1,28 @@
 ---
-title: Recordset (ADO/WFC Syntax)
+title: Recordset (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 28314537-2585-6e29-2014-e7fd8ae78542
 ms.date: 06/08/2017
 ---
 
 
-# Recordset (ADO/WFC Syntax)
-
-  
+# Recordset (ADO/WFC syntax)
 
 **Applies to:** Access 2013 | Access 2016
 
- **package com.ms.wfc.data**
+**package com.ms.wfc.data**
 
- **Constructors**
+## Constructors
 
-
-
-```
- 
+```vb
 public Invalid DDUE based on source, error:link not allowed in code, link filename:mdobjodbrec_HV10294709.xml() 
 public Recordset(Object r ) 
 
 ```
 
- **Methods**
+## Methods
 
-
-
-```js
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthaddnew_HV10294007.xml(Object[] fieldList , Object[] valueList ) 
 public void addNew(Object[] valueList ) 
 public void addNew() 
@@ -79,12 +71,9 @@ public void updateBatch(int affectRecords )
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```js
- 
+```vb
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproabpage_HV10293970.xml() 
 public void setAbsolutePage(int page ) 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproabpos_HV10293979.xml() 
@@ -136,13 +125,11 @@ public AdoProperties Invalid DDUE based on source, error:link not allowed in cod
 
 ```
 
- **Events**
+## Events
+
 For more information about ADO/WFC events, see [ADO Event Instantiation by Language](ado-event-instantiation-by-language.md).
 
-
-
-```
- 
+```vb
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtendofrecordset_HV10294329.xml(RecordsetEventHandler handler ) 
 public void removeOnEndOfRecordset(RecordsetEventHandler handler ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtfetchcomplete_HV10294356.xml(RecordsetEventHandler handler ) 
