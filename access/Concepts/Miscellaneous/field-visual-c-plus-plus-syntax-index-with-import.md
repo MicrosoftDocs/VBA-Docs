@@ -1,36 +1,27 @@
 ---
-title: Field (Visual C++ Syntax Index with import)
+title: Field (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 7d70d127-76a3-4ede-08ff-9699b2c200b8
 ms.date: 06/08/2017
 ---
 
 
-# Field (Visual C++ Syntax Index with #import)
-
-  
+# Field (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t &; Data ); 
  
 _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthgetchunk_HV10294391.xml( long Length ); 
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 long GetActualSize( ); 
 __declspec(property(get=GetActualSize)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactualsize_HV10293998.xml; 
  

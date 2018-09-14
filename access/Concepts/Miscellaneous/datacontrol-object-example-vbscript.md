@@ -1,23 +1,19 @@
 ---
-title: DataControl Object Example (VBScript)
+title: DataControl object example (VBScript)
 ms.prod: access
 ms.assetid: 8e7b613c-6dfc-5c47-5f96-67b7c18d294f
 ms.date: 06/08/2017
 ---
 
 
-# DataControl Object Example (VBScript)
-
-  
+# DataControl object example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameters at design time and bind them to a data-aware control. Cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **DataControlDesignVBS.asp**. ASP script will identify your server.
+The following code shows how to set the [RDS.DataControl](https://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameters at design time and bind them to a data-aware control. Cut and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **DataControlDesignVBS.asp**. ASP script will identify your server.
 
 
-
-
-```js
+```vb
 
 <!-- BeginDataControlDesignVBS --><%@ Language=VBScript %>
 <HTML><HEAD>
@@ -52,8 +48,7 @@ font-size: x-small;}
 <!-- EndDataControlDesignVBS -->
 ```
 
-The following example shows how to set the necessary parameters of  **RDS.DataControl** at run time. To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **DataControlRuntimeVBS.asp**. ASP script will identify your server.
-
+The following example shows how to set the necessary parameters of **RDS.DataControl** at run time. To test this example, cut and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **DataControlRuntimeVBS.asp**. ASP script will identify your server.
 
 
 ```vb

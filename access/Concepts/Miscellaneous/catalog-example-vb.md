@@ -1,24 +1,19 @@
 ---
-title: Catalog Example (VB)
+title: Catalog example (VB)
 ms.prod: access
 ms.assetid: fcd982a8-0033-8643-99b0-a1b065e445f4
 ms.date: 06/08/2017
 ---
 
 
-# Catalog Example (VB)
-
-  
+# Catalog example (VB)
 
 **Applies to:** Access 2013 | Access 2016
 
 This Visual Basic project creates a new cube using MDX. Then, it documents the structure of a cube in a Microsoft Word document.
 
 
-
-
 ```vb
- 
 Sub cmdCreateDocForCube_Click() 
  On Error GoTo Error_cmdCreateDocForCube_Click 
  

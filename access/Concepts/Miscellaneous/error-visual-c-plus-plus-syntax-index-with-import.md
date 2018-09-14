@@ -1,24 +1,18 @@
 ---
-title: Error (Visual C++ Syntax Index with import)
+title: Error (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 830be489-5362-4f60-ac3a-537662938e80
 ms.date: 06/08/2017
 ---
 
 
-# Error (Visual C++ Syntax Index with #import)
-
-  
+# Error (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Properties**
+## Properties
 
-
-
-
-```
- 
+```cs
 _bstr_t GetDescription( ); 
 __declspec(property(get=GetDescription)) _bstr_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprodescription_HV10294309.xml; 
  

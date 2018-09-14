@@ -1,24 +1,18 @@
 ---
-title: Command (Visual C++ Syntax Index with import)
+title: Command (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 9c3763f1-6242-a69c-bc2a-9d885f2b122a
 ms.date: 06/08/2017
 ---
 
 
-# Command (Visual C++ Syntax Index with #import)
-
-  
+# Command (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+### Methods
 
-
-
-
-```c#
- 
+```csharp
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
  
 _RecordsetPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcmdexecute_HV10294344.xml( VARIANT * RecordsAffected , VARIANT 
@@ -30,12 +24,9 @@ _ParameterPtr Invalid DDUE based on source, error:link not allowed in code, link
 
 ```
 
- **Properties**
+### Properties
 
-
-
-```c#
- 
+```cs
 _ConnectionPtr GetActiveConnection( ); 
 void PutRefActiveConnection( struct _Connection * ppvObject ); 
 void PutActiveConnection( const _variant_t &; ppvObject ); 

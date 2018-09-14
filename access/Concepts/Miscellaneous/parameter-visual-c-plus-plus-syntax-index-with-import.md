@@ -1,34 +1,25 @@
 ---
-title: Parameter (Visual C++ Syntax Index with import)
+title: Parameter (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 3c6db776-619b-f815-25cc-25f42d5fab8b
 ms.date: 06/08/2017
 ---
 
 
-# Parameter (Visual C++ Syntax Index with #import)
-
-  
+# Parameter (Visual C++ syntax index with #import)
 
 **Applies to:** Access 2013 | Access 2016
 
- **Methods**
+## Methods
 
-
-
-
-```
- 
+```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t &; Val ); 
 
 ```
 
- **Properties**
+## Properties
 
-
-
-```c#
- 
+```cs
 long GetAttributes( ); 
 void PutAttributes( long plParmAttribs ); 
 __declspec(property(get=GetAttributes,put=PutAttributes)) long 

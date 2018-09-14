@@ -1,25 +1,20 @@
 ---
-title: Recordset and SourceRecordset Properties Example (VBScript)
+title: Recordset and SourceRecordset properties example (VBScript)
 ms.prod: access
 ms.assetid: 235118ce-8468-18b1-ff49-8739fde69427
 ms.date: 06/08/2017
 ---
 
 
-# Recordset and SourceRecordset Properties Example (VBScript)
-
-  
+# Recordset and SourceRecordset properties example (VBScript)
 
 **Applies to:** Access 2013 | Access 2016
 
 The following example shows how to set the necessary parameters of the [RDSServer.DataFactory](http://msdn.microsoft.com/library/1de76cdd-34dc-8547-29aa-48ad6067bdea%28Office.15%29.aspx) default business rules at run time.
 
-To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **RecordsetVBS.asp**. ASP script will identify your server.
-
-
+To test this example, cut and paste this code between the `<Body>` and `</Body>` tags in a normal HTML document and name it **RecordsetVBS.asp**. ASP script will identify your server.
 
 ```vb
-
 <!-- BeginRecordSetVBS --><%@ Language=VBScript %>
 <html><head>
 <meta name="VI60_DefaultClientScript" content=VBScript><meta name="GENERATOR" content="Microsoft Visual Studio 6.0">

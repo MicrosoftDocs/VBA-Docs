@@ -1,20 +1,20 @@
 ---
-title: Using Source Code Control In Your Development Environment
+title: Using source code control in your development environment
 ms.prod: access
 ms.assetid: 3d5d4d78-d569-28ce-6e6d-1c8dcdc8fbda
 ms.date: 06/08/2017
 ---
 
 
-# Using Source Code Control In Your Development Environment
-
-  
+# Using source code control in your development environment
 
 **Applies to:** Access 2013 | Access 2016
 
-
+> [!NOTE] 
+> This feature has been deprecated.
 
 Source code control, also known as version control, is ideal for team development of software applications, publications, manufacturing procedures, or any work that benefits from keeping up with each new version of an object or document. Source code control systems track and store changes to files developed over time. By using Microsoft Visual SourceSafe or another source code control program, team members can review an object's history, revert to earlier versions of an object, and develop applications concurrently. 
+
 Visual SourceSafe (and most other source code control programs) provides the following services:
 
 - Displays differences between two versions of an object.
