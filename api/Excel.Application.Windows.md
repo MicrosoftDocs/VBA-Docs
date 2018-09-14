@@ -35,7 +35,7 @@ This property returns a collection of both visible and hidden windows.
 This example closes the first open or hidden window in Microsoft Excel.
 
 
-```vb
+```vba
 Application.Windows(1).Close
 ```
 
@@ -44,7 +44,7 @@ This example names window one in the active workbook "Consolidated Balance Sheet
 
 
 
-```vb
+```vba
 ActiveWorkbook.Windows(1).Caption = "Consolidated Balance Sheet" 
 ActiveWorkbook.Windows("Consolidated Balance Sheet") _ 
  .ActiveSheet.Calculate
