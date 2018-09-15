@@ -34401,7 +34401,7 @@
 ###### [VBComponents](../Language/Reference/User-Interface-Help/vbcomponents-collection-vba-add-in-object-model.md)
 ###### [VBNewProjects](../Language/Reference/User-Interface-Help/vbnewprojects-collection-vba-add-in-object-model.md)
 ###### [VBProjects](../Language/Reference/User-Interface-Help/vbprojects-collection-vba-add-in-object-model.md)
-###### [Windows](../Language/Reference/User-Interface-Help/windows-collection-vba-add-in-object-model.md
+###### [Windows](../Language/Reference/User-Interface-Help/windows-collection-vba-add-in-object-model.md)
 ##### [Events](../Language/Reference/Visual-Basic-Add-in-Model/events-visual-basic-add-in-model.md)
 ###### [Click](../Language/Reference/User-Interface-Help/click-event-vba-add-in-object-model.md)
 ###### [ItemAdded](../Language/Reference/User-Interface-Help/itemadded-event-vba-add-in-object-model.md)
