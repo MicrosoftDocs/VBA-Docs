@@ -1,5 +1,5 @@
 ---
-title: Range.DataTypeToText Method (Excel)
+title: Range.DataTypeToText method (Excel)
 keywords: vbaxl10.chm144266
 f1_keywords:
 - vbaxl10.chm144266
@@ -10,9 +10,9 @@ ms.date: 09/12/2018
 ---
 
 
-# Range.DataTypeToText Method (Excel)
+# Range.DataTypeToText method (Excel)
 
-If any of the cells in the range are a Linked Data Type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this call will convert their values to text. 
+If any of the cells in the range are a Linked data type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this call will convert their values to text. 
 
 ## Syntax
 
@@ -22,7 +22,7 @@ If any of the cells in the range are a Linked Data Type such as [Stocks or Geogr
 
 ## Remarks
 
-The call can fail if _none_ of the cells in the range are a Linked Data Type. In this case, it will throw runtime exception '1004'.
+The call can fail if _none_ of the cells in the range are a Linked data type. In this case, it will throw runtime exception '1004'.
 
 ## Example
 
@@ -34,13 +34,8 @@ Worksheets(1).Range("E5:G10").DataTypeToText
 
 ## See also
 
-
-[Range.ConvertToLinkedDataType](Excel.Range.ConvertToLinkedDataType.md)
-
-[Range.SetCellDataTypeFromCell](Excel.Range.SetCellDataTypeFromCell.md)
-
-[Range.HasRichDataType](Excel.Range.HasRichDataType.md)
-
-[Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
-
-[Range.ShowCard](Excel.Range.ShowCard.md)
+- [Range.ConvertToLinkedDataType](Excel.Range.ConvertToLinkedDataType.md)
+- [Range.SetCellDataTypeFromCell](Excel.Range.SetCellDataTypeFromCell.md)
+- [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
+- [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
+- [Range.ShowCard](Excel.Range.ShowCard.md)
