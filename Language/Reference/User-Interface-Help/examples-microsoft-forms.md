@@ -2,173 +2,92 @@
 title: Examples (Microsoft Forms)
 ms.prod: office
 ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
-ms.date: 06/08/2017
+ms.date: 09/17/2018
 ---
 
 
 # Examples (Microsoft Forms)
 
-## In this section
+- [Add, Cut, Paste methods, Page object, MultiPage control example](add-cut-paste-methods-page-object-multipage-control-example.md)
+- [AddControl event, Add method example](addcontrol-event-add-method-example.md)
+- [Alignment property example](alignment-property-example.md)
+- [AutoSize, MultiLine, WordWrap, ScrollBars properties, TextBox control example](autosize-multiline-wordwrap-scrollbars-properties-textbox-control-example.md)
+- [BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect properties example](backcolor-backstyle-bordercolor-borderstyle-forecolor-specialeffect-properties-e.md)
+- [CanUndo, CanRedo properties, UndoAction, RedoAction methods example](canundo-canredo-properties-undoaction-redoaction-methods-example.md)
+- [CheckBox control, Enabled, Locked properties example](checkbox-control-enabled-locked-properties-example.md)
+- [Click event, CommandButton control, Accelerator, Caption properties example](click-event-commandbutton-control-accelerator-caption-properties-example.md)
+- [ComboBox control, AddItem method, Picture, PicturePosition properties example](combobox-control-additem-method-picture-pictureposition-properties-example.md)
+- [Controls collection, Move method example](controls-collection-move-method-example.md)
+- [Copy, GetFromClipboard, GetText methods, DataObject object example](copy-getfromclipboard-gettext-methods-dataobject-object-example.md)
+- [Count property example](count-property-example.md)
+- [Cut, Paste methods, TextBox control example](cut-paste-methods-textbox-control-example.md)
+- [Cycle property example](cycle-property-example.md)
+- [DblClick event, CanPaste property, Paste, Copy methods example](dblclick-event-canpaste-property-paste-copy-methods-example.md)
+- [DragBehavior, EnterFieldBehavior properties example](dragbehavior-enterfieldbehavior-properties-example.md)
+- [DropDown method example](dropdown-method-example.md)
+- [Enabled, EnterFieldBehavior, SelLength, SelStart, SelText properties example](enabled-enterfieldbehavior-sellength-selstart-seltext-properties-example.md)
+- [Enter, Exit Events, ActiveControl property example](enter-exit-events-activecontrol-property-example.md)
+- [EnterKeyBehavior, MultiLine property example](enterkeybehavior-multiline-property-example.md)
+- [Font object, Bold, Italic, Size, StrikeThrough, Underline, Weight properties example](font-object-bold-italic-size-strikethrough-underline-weight-properties-example.md)
+- [GetFormat, GetText, SetText methods example](getformat-gettext-settext-methods-example.md)
+- [GroupName property example](groupname-property-example.md)
+- [Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop properties, TabStrip, Image control example](height-width-left-top-clientheight-clientwidth-clientleft-clienttop-properties-t.md)
+- [Index property example](index-property-example.md)
+- [InsideHeight, InsideWidth properties example](insideheight-insidewidth-properties-example.md)
+- [Item method, OptionButton control example](item-method-optionbutton-control-example.md)
+- [KeyDown event, TextBox control, CurLine, CurTargetX, CurX, Text properties example](keydown-event-textbox-control-curline-curtargetx-curx-text-properties-example.md)
+- [KeyPress event example](keypress-event-example.md)
+- [LargeChange, SmallChange properties example](largechange-smallchange-properties-example.md)
+- [Layout event, LayoutEffect property, Move method example](layout-event-layouteffect-property-move-method-example.md)
+- [Layout event, OldLeft, OldTop, OldHeight, OldWidth properties example](layout-event-oldleft-oldtop-oldheight-oldwidth-properties-example.md)
+- [ListBox control, AddItem, RemoveItem methods, ListIndex, ListCount properties example](listbox-control-additem-removeitem-methods-listindex-listcount-properties-exampl.md)
+- [ListBox control, BoundColumn property example](listbox-control-boundcolumn-property-example.md)
+- [ListBox control, BoundColumn, ControlSource, RowSource properties example](listbox-control-boundcolumn-controlsource-rowsource-properties-example.md)
+- [ListBox control, Column, ColumnCount, List properties example](listbox-control-column-columncount-list-properties-example.md)
+- [ListBox control, ColumnCount, ColumnWidths properties example](listbox-control-columncount-columnwidths-properties-example.md)
+- [ListBox control, DataObject object, MouseMove event, StartDrag, SetText methods example](listbox-control-dataobject-object-mousemove-event-startdrag-settext-methods-exam.md)
+- [ListBox control, List property example](listbox-control-list-property-example.md)
+- [ListRows property example](listrows-property-example.md)
+- [ListStyle, MultiSelect properties example](liststyle-multiselect-properties-example.md)
+- [ListWidth property example](listwidth-property-example.md)
+- [Locked, DropButtonStyle, ShowDropButtonWhen properties example](locked-dropbuttonstyle-showdropbuttonwhen-properties-example.md)
+- [MatchEntry property, OptionButton control example](matchentry-property-optionbutton-control-example.md)
+- [MatchFound, MatchRequired properties, Change event, CheckBox control example](matchfound-matchrequired-properties-change-event-checkbox-control-example.md)
+- [Max, Min, MaxLength properties example](max-min-maxlength-properties-example.md)
+- [Max, Min, Zoom properties, Frame, ScrollBar Controls example](max-min-zoom-properties-frame-scrollbar-controls-example.md)
+- [MouseIcon, MousePointer properties example](mouseicon-mousepointer-properties-example.md)
+- [Move method example](move-method-example.md)
+- [MultiSelect, Selected properties example](multiselect-selected-properties-example.md)
+- [Name property example](name-property-example.md)
+- [Object property example](object-property-example.md)
+- [Page object, CommandButton, MultiPage Controls, ControlTipText property example](page-object-commandbutton-multipage-controls-controltiptext-property-example.md)
+- [Page object, MultiPage control, Add, Clear, Remove methods example](page-object-multipage-control-add-clear-remove-methods-example.md)
+- [Page object, Pages collection, MultiPage control, SelectedItem property example](page-object-pages-collection-multipage-control-selecteditem-property-example.md)
+- [Parent property example](parent-property-example.md)
+- [Paste, PutInClipboard, SetText methods example](paste-putinclipboard-settext-methods-example.md)
+- [PictureAlignment property example](picturealignment-property-example.md)
+- [PictureSizeMode property example](picturesizemode-property-example.md)
+- [ScrollBar control, Scroll event example](scrollbar-control-scroll-event-example.md)
+- [ScrollBars, KeepScrollBarsVisible properties example](scrollbars-keepscrollbarsvisible-properties-example.md)
+- [ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth properties example](scrollheight-scrollleft-scrolltop-scrollwidth-properties-example.md)
+- [SelectedItem property, TabStrip control, Tab object, Tabs collection example](selecteditem-property-tabstrip-control-tab-object-tabs-collection-example.md)
+- [SetFocus method, LineCount, TextLength properties example](setfocus-method-linecount-textlength-properties-example.md)
+- [SpinDown, SpinUp Events, Delay property example](spindown-spinup-events-delay-property-example.md)
+- [Style property example](style-property-example.md)
+- [Style property, Label control example](style-property-label-control-example.md)
+- [TabFixedHeight, TabFixedWidth properties example](tabfixedheight-tabfixedwidth-properties-example.md)
+- [TabIndex property example](tabindex-property-example.md)
+- [TabStop property example](tabstop-property-example.md)
+- [Tag property example](tag-property-example.md)
+- [TakeFocusOnClick property example](takefocusonclick-property-example.md)
+- [TextBox control, AutoSize, Text properties example](textbox-control-autosize-text-properties-example.md)
+- [TextBox control, SetFocus method, EnterFieldBehavior, HideSelection, MultiLine, Value properties example](textbox-control-setfocus-method-enterfieldbehavior-hideselection-multiline-value.md)
+- [TextColumn property example](textcolumn-property-example.md)
+- [TopIndex property example](topindex-property-example.md)
+- [TripleState property, ToggleButton control example](triplestate-property-togglebutton-control-example.md)
+- [Value property example](value-property-example.md)
+- [Zoom event, Zoom property, Label control example](zoom-event-zoom-property-label-control-example.md)
+- [ZOrder method, TextBox control example](zorder-method-textbox-control-example.md)
 
-
-- [Add, Cut, Paste Methods, Page Object, MultiPage Control Example](add-cut-paste-methods-page-object-multipage-control-example.md)
-    
-- [AddControl Event, Add Method Example](addcontrol-event-add-method-example.md)
-    
-- [Alignment Property Example](alignment-property-example.md)
-    
-- [AutoSize, MultiLine, WordWrap, ScrollBars Properties, TextBox Control Example](autosize-multiline-wordwrap-scrollbars-properties-textbox-control-example.md)
-    
-- [BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example](backcolor-backstyle-bordercolor-borderstyle-forecolor-specialeffect-properties-e.md)
-    
-- [CanUndo, CanRedo Properties, UndoAction, RedoAction Methods Example](canundo-canredo-properties-undoaction-redoaction-methods-example.md)
-    
-- [CheckBox Control, Enabled, Locked Properties Example](checkbox-control-enabled-locked-properties-example.md)
-    
-- [Click Event, CommandButton Control, Accelerator, Caption Properties Example](click-event-commandbutton-control-accelerator-caption-properties-example.md)
-    
-- [ComboBox Control, AddItem Method, Picture, PicturePosition Properties Example](combobox-control-additem-method-picture-pictureposition-properties-example.md)
-    
-- [Controls Collection, Move Method Example](controls-collection-move-method-example.md)
-    
-- [Copy, GetFromClipboard, GetText Methods, DataObject Object Example](copy-getfromclipboard-gettext-methods-dataobject-object-example.md)
-    
-- [Count Property Example](count-property-example.md)
-    
-- [Cut, Paste Methods, TextBox Control Example](cut-paste-methods-textbox-control-example.md)
-    
-- [Cycle Property Example](cycle-property-example.md)
-    
-- [DblClick Event, CanPaste Property, Paste, Copy Methods Example](dblclick-event-canpaste-property-paste-copy-methods-example.md)
-    
-- [DragBehavior, EnterFieldBehavior Properties Example](dragbehavior-enterfieldbehavior-properties-example.md)
-    
-- [DropDown Method Example](dropdown-method-example.md)
-    
-- [Enabled, EnterFieldBehavior, SelLength, SelStart, SelText Properties Example](enabled-enterfieldbehavior-sellength-selstart-seltext-properties-example.md)
-    
-- [Enter, Exit Events, ActiveControl Property Example](enter-exit-events-activecontrol-property-example.md)
-    
-- [EnterKeyBehavior, MultiLine Property Example](enterkeybehavior-multiline-property-example.md)
-    
-- [Font Object, Bold, Italic, Size, StrikeThrough, Underline, Weight Properties Example](font-object-bold-italic-size-strikethrough-underline-weight-properties-example.md)
-    
-- [GetFormat, GetText, SetText Methods Example](getformat-gettext-settext-methods-example.md)
-    
-- [GroupName Property Example](groupname-property-example.md)
-    
-- [Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example](height-width-left-top-clientheight-clientwidth-clientleft-clienttop-properties-t.md)
-    
-- [Index Property Example](index-property-example.md)
-    
-- [InsideHeight, InsideWidth Properties Example](insideheight-insidewidth-properties-example.md)
-    
-- [Item Method, OptionButton Control Example](item-method-optionbutton-control-example.md)
-    
-- [KeyDown Event, TextBox Control, CurLine, CurTargetX, CurX, Text Properties Example](keydown-event-textbox-control-curline-curtargetx-curx-text-properties-example.md)
-    
-- [KeyPress Event Example](keypress-event-example.md)
-    
-- [LargeChange, SmallChange Properties Example](largechange-smallchange-properties-example.md)
-    
-- [Layout Event, LayoutEffect Property, Move Method Example](layout-event-layouteffect-property-move-method-example.md)
-    
-- [Layout Event, OldLeft, OldTop, OldHeight, OldWidth Properties Example](layout-event-oldleft-oldtop-oldheight-oldwidth-properties-example.md)
-    
-- [ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example](listbox-control-additem-removeitem-methods-listindex-listcount-properties-exampl.md)
-    
-- [ListBox Control, BoundColumn Property Example](listbox-control-boundcolumn-property-example.md)
-    
-- [ListBox Control, BoundColumn, ControlSource, RowSource Properties Example](listbox-control-boundcolumn-controlsource-rowsource-properties-example.md)
-    
-- [ListBox Control, Column, ColumnCount, List Properties Example](listbox-control-column-columncount-list-properties-example.md)
-    
-- [ListBox Control, ColumnCount, ColumnWidths Properties Example](listbox-control-columncount-columnwidths-properties-example.md)
-    
-- [ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText Methods Example](listbox-control-dataobject-object-mousemove-event-startdrag-settext-methods-exam.md)
-    
-- [ListBox Control, List Property Example](listbox-control-list-property-example.md)
-    
-- [ListRows Property Example](listrows-property-example.md)
-    
-- [ListStyle, MultiSelect Properties Example](liststyle-multiselect-properties-example.md)
-    
-- [ListWidth Property Example](listwidth-property-example.md)
-    
-- [Locked, DropButtonStyle, ShowDropButtonWhen Properties Example](locked-dropbuttonstyle-showdropbuttonwhen-properties-example.md)
-    
-- [MatchEntry Property, OptionButton Control Example](matchentry-property-optionbutton-control-example.md)
-    
-- [MatchFound, MatchRequired Properties, Change Event, CheckBox Control Example](matchfound-matchrequired-properties-change-event-checkbox-control-example.md)
-    
-- [Max, Min, MaxLength Properties Example](max-min-maxlength-properties-example.md)
-    
-- [Max, Min, Zoom Properties, Frame, ScrollBar Controls Example](max-min-zoom-properties-frame-scrollbar-controls-example.md)
-    
-- [MouseIcon, MousePointer Properties Example](mouseicon-mousepointer-properties-example.md)
-    
-- [Move Method Example](move-method-example.md)
-    
-- [MultiSelect, Selected Properties Example](multiselect-selected-properties-example.md)
-    
-- [Name Property Example](name-property-example.md)
-    
-- [Object Property Example](object-property-example.md)
-    
-- [Page Object, CommandButton, MultiPage Controls, ControlTipText Property Example](page-object-commandbutton-multipage-controls-controltiptext-property-example.md)
-    
-- [Page Object, MultiPage Control, Add, Clear, Remove Methods Example](page-object-multipage-control-add-clear-remove-methods-example.md)
-    
-- [Page Object, Pages Collection, MultiPage Control, SelectedItem Property Example](page-object-pages-collection-multipage-control-selecteditem-property-example.md)
-    
-- [Parent Property Example](parent-property-example.md)
-    
-- [Paste, PutInClipboard, SetText Methods Example](paste-putinclipboard-settext-methods-example.md)
-    
-- [PictureAlignment Property Example](picturealignment-property-example.md)
-    
-- [PictureSizeMode Property Example](picturesizemode-property-example.md)
-    
-- [ScrollBar Control, Scroll Event Example](scrollbar-control-scroll-event-example.md)
-    
-- [ScrollBars, KeepScrollBarsVisible Properties Example](scrollbars-keepscrollbarsvisible-properties-example.md)
-    
-- [ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth Properties Example](scrollheight-scrollleft-scrolltop-scrollwidth-properties-example.md)
-    
-- [SelectedItem Property, TabStrip Control, Tab Object, Tabs Collection Example](selecteditem-property-tabstrip-control-tab-object-tabs-collection-example.md)
-    
-- [SetFocus Method, LineCount, TextLength Properties Example](setfocus-method-linecount-textlength-properties-example.md)
-    
-- [SpinDown, SpinUp Events, Delay Property Example](spindown-spinup-events-delay-property-example.md)
-    
-- [Style Property Example](style-property-example.md)
-    
-- [Style Property, Label Control Example](style-property-label-control-example.md)
-    
-- [TabFixedHeight, TabFixedWidth Properties Example](tabfixedheight-tabfixedwidth-properties-example.md)
-    
-- [TabIndex Property Example](tabindex-property-example.md)
-    
-- [TabStop Property Example](tabstop-property-example.md)
-    
-- [Tag Property Example](tag-property-example.md)
-    
-- [TakeFocusOnClick Property Example](takefocusonclick-property-example.md)
-    
-- [TextBox Control, AutoSize, Text Properties Example](textbox-control-autosize-text-properties-example.md)
-    
-- [TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example](textbox-control-setfocus-method-enterfieldbehavior-hideselection-multiline-value.md)
-    
-- [TextColumn Property Example](textcolumn-property-example.md)
-    
-- [TopIndex Property Example](topindex-property-example.md)
-    
-- [TripleState Property, ToggleButton Control Example](triplestate-property-togglebutton-control-example.md)
-    
-- [Value Property Example](value-property-example.md)
-    
-- [Zoom Event, Zoom Property, Label Control Example](zoom-event-zoom-property-label-control-example.md)
-    
-- [ZOrder Method, TextBox Control Example](zorder-method-textbox-control-example.md)
     
 
