@@ -34210,7 +34210,7 @@
 ##### [XlVAlign](Word.xlvalign.md)
 ## [Language reference](./overview/Language-Reference.md)
 ### Concepts
-#### Getting started
+#### [Getting started](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [64-bit Visual Basic for Applications overview](../Language/Concepts/Getting-Started/64-bit-visual-basic-for-applications-overview.md)
 ##### [Avoid naming conflicts](../Language/Concepts/Getting-Started/avoiding-naming-conflicts.md)
 ##### [Call procedures with the same name](../Language/Concepts/Getting-Started/calling-procedures-with-the-same-name.md)
@@ -34342,7 +34342,7 @@
 ##### [What is a ToolTip?](../Language/Concepts/Forms/what-is-a-tooltip.md)
 ##### [What is the difference between the DataObject and the Clipboard?](../Language/Concepts/Forms/what-is-the-difference-between-the-dataobject-and-the-clipboard.md) 
 ##### [What is the Toolbox?](../Language/Concepts/Forms/what-is-the-toolbox.md)
-### How-to topics
+### [How-to topics](../Language/Reference/User-Interface-Help/visual-basic-how-to-topics.md)
 #### [Add a Watch expression](../Language/Concepts/Forms/add-a-watch-expression.md)
 #### [Check or add an Object Library Reference](../Language/How-to/check-or-add-an-object-library-reference.md)
 #### [Continue code execution](../Language/How-to/continue-code-execution.md)
@@ -34375,7 +34375,7 @@
 #### [User-defined type may not be passed ByVal](../Language/How-to/user-defined-type-may-not-be-passed-byval.md)
 #### [User-defined type not defined](../Language/How-to/user-defined-type-not-defined.md)
 #### [User-defined type without members not allowed](../Language/How-to/user-defined-type-without-members-not-allowed.md)
-### Reference
+### [Reference](../Language/Reference/User-Interface-Help/visual-basic-language-reference.md)
 #### [Ambiguous selection](../Language/Reference/ambiguous-selection.md)
 ##### [Code window](../Language/Reference/User-Interface-Help/code-window.md)
 ##### [Immediate window](../Language/Reference/User-Interface-Help/immediate-window.md)
@@ -34824,7 +34824,7 @@
 ##### [Write #](../Language/Reference/User-Interface-Help/writestatement.md)
 #### [Strings](../Language/Reference/strings.md)
 ##### [Returns for CStr](../Language/Reference/User-Interface-Help/returns-for-cstr.md)
-#### Visual Basic Add-in Model
+#### [Visual Basic Add-in Model](../Language/Reference/User-Interface-Help/visual-basic-add-in-model-reference.md)
 ##### [Collections](../Language/Reference/Visual-Basic-Add-in-Model/collections-visual-basic-add-in-model.md)
 ###### [AddIns](../Language/Reference/User-Interface-Help/addins-collection-vba-add-in-object-model.md)
 ###### [CodePanes](../Language/Reference/User-Interface-Help/codepanes-collection-vba-add-in-object-model.md)
@@ -35978,11 +35978,7 @@
 ##### [Version numbers must be in the range 0 to 9999](../Language/Reference/User-Interface-Help/version-numbers-must-be-in-the-range-0-to-9999.md)
 ##### [View Definition command (Object Browser Shortcut menu)](../Language/Reference/User-Interface-Help/view-definition-command-object-browser-shortcut-menu.md)
 ##### [View menu](../Language/Reference/User-Interface-Help/view-menu.md)
-##### [Visual Basic add-in model reference](../Language/Reference/User-Interface-Help/visual-basic-add-in-model-reference.md)
-##### [Visual Basic conceptual topics](../Language/Reference/User-Interface-Help/visual-basic-conceptual-topics.md)
 ##### [Visual Basic definitions](../Language/Reference/User-Interface-Help/visual-basic-definitions.md)
-##### [Visual Basic how-to topics](../Language/Reference/User-Interface-Help/visual-basic-how-to-topics.md)
-##### [Visual Basic language reference](../Language/Reference/User-Interface-Help/visual-basic-language-reference.md)
 ##### [Visual Basic menus](../Language/Reference/User-Interface-Help/visual-basic-menus.md)
 ##### [Visual Basic user interface Help](../Language/Reference/User-Interface-Help/visual-basic-user-interface-help.md)
 ##### [Warning: custom language settings not portable](../Language/Reference/User-Interface-Help/warning-custom-language-settings-not-portable.md)
