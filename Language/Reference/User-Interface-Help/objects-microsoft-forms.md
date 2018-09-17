@@ -2,51 +2,31 @@
 title: Objects (Microsoft Forms)
 ms.prod: office
 ms.assetid: dafc5e84-6a80-4822-86f5-f502b402b3c2
-ms.date: 06/08/2017
+ms.date: 09/17/2018
 ---
 
 
 # Objects (Microsoft Forms)
 
-## In this section
+- [CheckBox control](checkbox-control.md)
+- [ComboBox control](combobox-control.md)
+- [CommandButton control](commandbutton-control.md)
+- [DataObject object](dataobject-object.md)
+- [Font object](font-object-microsoft-forms.md)
+- [Frame control](frame-control.md)
+- [Image control](image-control.md)
+- [Label control](label-control.md)
+- [ListBox control](listbox-control.md)
+- [MultiPage control](multipage-control.md)
+- [OptionButton control](optionbutton-control.md)
+- [Page object](page-object.md)
+- [ScrollBar control](scrollbar-control.md)
+- [SpinButton control](spinbutton-control.md)
+- [Tab object](tab-object.md)
+- [TabStrip control](tabstrip-control.md)
+- [TextBox control](textbox-control.md)
+- [ToggleButton control](togglebutton-control.md)
+- [UserForm window](userform-window.md)
 
-
-- [CheckBox Control](checkbox-control.md)
-    
-- [ComboBox Control](combobox-control.md)
-    
-- [CommandButton Control](commandbutton-control.md)
-    
-- [DataObject Object](dataobject-object.md)
-    
-- [Font Object (Microsoft Forms)](font-object-microsoft-forms.md)
-    
-- [Frame Control](frame-control.md)
-    
-- [Image Control](image-control.md)
-    
-- [Label Control](label-control.md)
-    
-- [ListBox Control](listbox-control.md)
-    
-- [MultiPage Control](multipage-control.md)
-    
-- [OptionButton Control](optionbutton-control.md)
-    
-- [Page Object](page-object.md)
-    
-- [ScrollBar Control](scrollbar-control.md)
-    
-- [SpinButton Control](spinbutton-control.md)
-    
-- [Tab Object](tab-object.md)
-    
-- [TabStrip Control](tabstrip-control.md)
-    
-- [TextBox Control](textbox-control.md)
-    
-- [ToggleButton Control](togglebutton-control.md)
-    
-- [UserForm Window](userform-window.md)
     
 

@@ -2,53 +2,32 @@
 title: Events (Microsoft Forms)
 ms.prod: office
 ms.assetid: 248411ff-6063-41d6-bac9-656afad0b63d
-ms.date: 06/08/2017
+ms.date: 09/17/2018
 ---
 
 
 # Events (Microsoft Forms)
 
-## In this section
+- [AddControl](addcontrol-event.md)
+- [AfterUpdate](afterupdate-event.md)
+- [BeforeDragOver](beforedragover-event.md)
+- [BeforeDropOrPaste](beforedroporpaste-event.md)
+- [BeforeUpdate](beforeupdate-event.md)
+- [Change](change-event.md)
+- [Click](click-event.md)
+- [DblClick](dblclick-event.md)
+- [DropButtonClick](dropbuttonclick-event.md)
+- [Enter, Exit](enter-exit-events.md)
+- [Error](error-event.md)
+- [KeyDown, KeyUp](keydown-keyup-events.md)
+- [KeyPress](keypress-event.md)
+- [Layout](layout-event.md)
+- [MouseDown, MouseUp](mousedown-mouseup-events.md)
+- [MouseMove](mousemove-event.md)
+- [RemoveControl](removecontrol-event.md)
+- [Scroll](scroll-event.md)
+- [SpinDown, SpinUp](spindown-spinup-events.md)
+- [Zoom](zoom-event.md)
 
-
-- [AddControl Event](addcontrol-event.md)
-    
-- [AfterUpdate Event](afterupdate-event.md)
-    
-- [BeforeDragOver Event](beforedragover-event.md)
-    
-- [BeforeDropOrPaste Event](beforedroporpaste-event.md)
-    
-- [BeforeUpdate Event](beforeupdate-event.md)
-    
-- [Change Event](change-event.md)
-    
-- [Click Event](click-event.md)
-    
-- [DblClick Event](dblclick-event.md)
-    
-- [DropButtonClick Event](dropbuttonclick-event.md)
-    
-- [Enter, Exit Events](enter-exit-events.md)
-    
-- [Error Event](error-event.md)
-    
-- [KeyDown, KeyUp Events](keydown-keyup-events.md)
-    
-- [KeyPress Event](keypress-event.md)
-    
-- [Layout Event](layout-event.md)
-    
-- [MouseDown, MouseUp Events](mousedown-mouseup-events.md)
-    
-- [MouseMove Event](mousemove-event.md)
-    
-- [RemoveControl Event](removecontrol-event.md)
-    
-- [Scroll Event](scroll-event.md)
-    
-- [SpinDown, SpinUp Events](spindown-spinup-events.md)
-    
-- [Zoom Event](zoom-event.md)
     
 

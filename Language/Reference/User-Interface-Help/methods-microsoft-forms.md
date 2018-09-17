@@ -2,61 +2,36 @@
 title: Methods (Microsoft Forms)
 ms.prod: office
 ms.assetid: 808a998e-ef9f-4848-b03c-1d48cb355b5e
-ms.date: 06/08/2017
+ms.date: 09/17/2018
 ---
 
 
 # Methods (Microsoft Forms)
 
-## In this section
+- [Add](add-method-microsoft-forms.md)
+- [AddItem](additem-method.md)
+- [Clear](clear-method-microsoft-forms.md)
+- [Copy](copy-method-microsoft-forms.md)
+- [Cut](cut-method-microsoft-forms.md)
+- [DropDown](dropdown-method.md)
+- [GetFormat](getformat-method.md)
+- [GetFromClipboard](getfromclipboard-method.md)
+- [GetText](gettext-method-microsoft-forms.md)
+- [Item](item-method-microsoft-forms.md)
+- [Move](move-method.md)
+- [Paste](paste-method-microsoft-forms.md)
+- [PutInClipboard](putinclipboard-method.md)
+- [RedoAction](redoaction-method.md)
+- [Remove](remove-method.md)
+- [RemoveItem](removeitem-method.md)
+- [Repaint](repaint-method.md)
+- [Scroll](scroll-method.md)
+- [SetDefaultTabOrder](setdefaulttaborder-method.md)
+- [SetFocus](setfocus-method.md)
+- [SetText](settext-method.md)
+- [StartDrag](startdrag-method.md)
+- [UndoAction](undoaction-method.md)
+- [ZOrder](zorder-method.md)
 
-
-- [Add Method (Microsoft Forms)](add-method-microsoft-forms.md)
-    
-- [AddItem Method](additem-method.md)
-    
-- [Clear Method (Microsoft Forms)](clear-method-microsoft-forms.md)
-    
-- [Copy Method (Microsoft Forms)](copy-method-microsoft-forms.md)
-    
-- [Cut Method (Microsoft Forms)](cut-method-microsoft-forms.md)
-    
-- [DropDown Method](dropdown-method.md)
-    
-- [GetFormat Method](getformat-method.md)
-    
-- [GetFromClipboard Method](getfromclipboard-method.md)
-    
-- [GetText Method (Microsoft Forms)](gettext-method-microsoft-forms.md)
-    
-- [Item Method (Microsoft Forms)](item-method-microsoft-forms.md)
-    
-- [Move Method](move-method.md)
-    
-- [Paste Method (Microsoft Forms)](paste-method-microsoft-forms.md)
-    
-- [PutInClipboard Method](putinclipboard-method.md)
-    
-- [RedoAction Method](redoaction-method.md)
-    
-- [Remove Method](remove-method.md)
-    
-- [RemoveItem Method](removeitem-method.md)
-    
-- [Repaint Method](repaint-method.md)
-    
-- [Scroll Method](scroll-method.md)
-    
-- [SetDefaultTabOrder Method](setdefaulttaborder-method.md)
-    
-- [SetFocus Method](setfocus-method.md)
-    
-- [SetText Method](settext-method.md)
-    
-- [StartDrag Method](startdrag-method.md)
-    
-- [UndoAction Method](undoaction-method.md)
-    
-- [ZOrder Method](zorder-method.md)
     
 
