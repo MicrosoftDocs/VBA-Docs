@@ -15,7 +15,7 @@ Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glo
 
 ## Syntax
 
-**Format(**_Expression_ [ ,_Format_ [ ,_FirstDayOfWeek_ [ ,_FirstWeekOfYear_ ]]])
+**Format**(_Expression_, [_Format_], [_FirstDayOfWeek_], [_FirstWeekOfYear_])
 
 The **Format** function syntax has these parts.
 
