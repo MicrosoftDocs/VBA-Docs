@@ -8,18 +8,15 @@ ms.date: 09/17/2018
 
 # Functions (Visual Basic for Applications)
 
-[Conversion functions](User-Interface-Help/conversion-functions.md)
-- [Asc](User-Interface-Help/asc-function.md)
-- [Chr](User-Interface-Help/chr-function.md)
-- [CVErr](User-Interface-Help/cverr-function.md)
-- [Format](User-Interface-Help/format-function-visual-basic-for-applications.md)
-- [Hex](User-Interface-Help/hex-function.md)
-- [Oct](User-Interface-Help/oct-function.md)
-- [Str](User-Interface-Help/str-function.md)
-- [Val](User-Interface-Help/val-function.md)
-
-<br/>
-
+- [Conversion functions](User-Interface-Help/conversion-functions.md)
+    - [Asc](User-Interface-Help/asc-function.md)
+    - [Chr](User-Interface-Help/chr-function.md)
+    - [CVErr](User-Interface-Help/cverr-function.md)
+    - [Format](User-Interface-Help/format-function-visual-basic-for-applications.md)
+    - [Hex](User-Interface-Help/hex-function.md)
+    - [Oct](User-Interface-Help/oct-function.md)
+    - [Str](User-Interface-Help/str-function.md)
+    - [Val](User-Interface-Help/val-function.md)
 - [Derived math functions](User-Interface-Help/derived-math-functions.md)
 - [Type conversion functions](../Concepts/Getting-Started/type-conversion-functions.md)
 - [Abs](User-Interface-Help/abs-function.md)
