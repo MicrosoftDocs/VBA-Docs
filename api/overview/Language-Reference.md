@@ -1,10 +1,10 @@
 ---
 title: Language reference for Visual Basic for Applications (VBA)
 description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Visual Basic for Applications. 
-ms.date: 08/24/2018
+ms.date: 09/17/2018
 ---
 
-# Language reference VBA
+# Language reference for Visual Basic for Applications (VBA)
 
 Welcome to the Visual Basic for Applications (VBA) language reference for Office. This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on VBA.
 

@@ -1,59 +1,39 @@
 ---
-title: VBA Operators
+title: VBA operators
 ms.prod: office
 ms.assetid: 6b2abc26-ad22-4b28-9a2b-d178d32538ed
-ms.date: 06/08/2017
+ms.date: 09/17/2018
 ---
 
 
-# VBA Operators
+# VBA operators
 
-- [Operator Summary](User-Interface-Help/operator-summary.md)
-    
-- [Operator Precedence](User-Interface-Help/operator-precedence.md)
-    
-- [- Operator](User-Interface-Help/operator.md)
-    
-- [&; Operator](User-Interface-Help/operator.md)
-    
-- [* Operator](User-Interface-Help/operator.md)
-    
-- [/ Operator](User-Interface-Help/operator.md)
-    
-- [\ Operator](User-Interface-Help/operator.md)
-    
-- [^ Operator](User-Interface-Help/carrot-operator.md)
-    
-- [+ Operator](User-Interface-Help/plus-operator.md)
-    
-- [= Operator](User-Interface-Help/equals-operator.md)
-    
-- [AddressOf Operator](User-Interface-Help/addressof-operator.md)
-    
-- [And Operator](User-Interface-Help/and-operator.md)
-    
-- [Arithmetic Operators](User-Interface-Help/arithmetic-operators.md)
-    
-- [Comparison Operators](User-Interface-Help/comparison-operators.md)
-    
-- [Concatenation Operators](User-Interface-Help/concatenation-operators.md)
-    
-- [Eqv Operator](User-Interface-Help/eqv-operator.md)
-    
-- [Imp Operator](User-Interface-Help/imp-operator.md)
-    
-- [Is Operator](User-Interface-Help/is-operator.md)
-    
-- [Like Operator](User-Interface-Help/like-operator.md)
-    
-- [Logical Operators](User-Interface-Help/logical-operators.md)
-    
-- [Mod Operator](User-Interface-Help/mod-operator.md)
-    
-- [Not Operator](User-Interface-Help/not-operator.md)
-    
-- [Or Operator](User-Interface-Help/or-operator.md)
-    
-- [Xor Operator](User-Interface-Help/xor-operator.md)
+- [Operator summary](User-Interface-Help/operator-summary.md)   
+- [Operator precedence](User-Interface-Help/operator-precedence.md)
+
+- [Arithmetic operators](User-Interface-Help/arithmetic-operators.md)     
+    - [* operator](User-Interface-Help/operator.md)
+    - [^ operator](User-Interface-Help/carrot-operator.md)
+
+- [Comparison operators](User-Interface-Help/comparison-operators.md)   
+    - [= operator](User-Interface-Help/equals-operator.md)
+
+- [Concatenation operators](User-Interface-Help/concatenation-operators.md)
+    - [+ operator](User-Interface-Help/plus-operator.md)
+  
+- [Logical operators](User-Interface-Help/logical-operators.md)   
+    - [And operator](User-Interface-Help/and-operator.md)    
+    - [Eqv operator](User-Interface-Help/eqv-operator.md)   
+    - [Imp operator](User-Interface-Help/imp-operator.md)
+    - [Not operator](User-Interface-Help/not-operator.md) 
+    - [Or operator](User-Interface-Help/or-operator.md)   
+    - [Xor operator](User-Interface-Help/xor-operator.md)
+
+- [AddressOf operator](User-Interface-Help/addressof-operator.md) 
+- [Is operator](User-Interface-Help/is-operator.md)    
+- [Like operator](User-Interface-Help/like-operator.md)      
+- [Mod operator](User-Interface-Help/mod-operator.md)   
+  
+
     
 
