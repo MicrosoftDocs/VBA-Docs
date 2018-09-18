@@ -12,7 +12,7 @@ ms.date: 09/12/2018
 
 # Range.ConvertToLinkedDataType method (Excel)
 
-Attempts to convert all the cells in the range to a Linked Data Type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877).
+Attempts to convert all the cells in the range to a Linked data type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877).
 
 ## Syntax
 
