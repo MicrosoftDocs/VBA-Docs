@@ -20,7 +20,6 @@ ms.date: 09/17/2018
 
 - [Derived math functions](User-Interface-Help/derived-math-functions.md)
 - [Type conversion functions](../Concepts/Getting-Started/type-conversion-functions.md)
-
 - [Abs](User-Interface-Help/abs-function.md)
 - [Array](User-Interface-Help/array-function.md)
 - [Atn](User-Interface-Help/atn-function.md)
