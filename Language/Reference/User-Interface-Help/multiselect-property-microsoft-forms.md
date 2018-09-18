@@ -38,6 +38,6 @@ The settings for  _fmMultiSelect_ are:
 
 ## Remarks
 
-When the  **MultiSelect** property is set to _Extended_ or _Simple_, you must use the list box's **Selected** property to determine the selected items. Also, the **Value** property of the control is always **Null**.
+When the  **MultiSelect** property is set to _Extended_ or _Multi_, you must use the list box's **Selected** property to determine the selected items. Also, the **Value** property of the control is always **Null**.
 The  **ListIndex** property returns the index of the row with the keyboard[focus](../../Glossary/vbe-glossary.md#focus).
 
