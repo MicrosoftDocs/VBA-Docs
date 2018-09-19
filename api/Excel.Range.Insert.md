@@ -30,12 +30,31 @@ Inserts a cell or a range of cells into the worksheet or macro sheet and shifts 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Shift_|Optional| **Variant**|Specifies which way to shift the cells. Can be one of the following  **[XlInsertShiftDirection](Excel.XlInsertShiftDirection.md)** constants: **xlShiftToRight** or **xlShiftDown** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
-| _CopyOrigin_|Optional| **Variant**|The copy origin.|
+| _CopyOrigin_|Optional| **Variant**|The copy origin, i.e., from where to copy the format for inserted cells.  Can be one of the following  **[XlInsertFormatOrigin](Excel.XlInsertFormatOrigin.md)** constants: **xlFormatFromLeftOrAbove** (default) or **xlFormatFromRightOrBelow**.|
 
 ### Return Value
 
 Variant
 
+## Remarks
+
+There is not a value for _CopyOrigin_ that is equivalent to _Clear Formatting_ when inserting cells interactively in Excel. To achieve this, use the **[ClearFormats](Excel.Range.ClearFormats.md)** Method:
+
+```vb
+With Range("B2:E5")
+    .Insert xlShiftDown
+    .ClearFormats
+End With
+```
+
+## Example
+
+This example inserts a row above row 2, copying the format from the row below (row 3) instead of from the header row.
+
+
+```vb
+Range("2:2").Insert CopyOrigin:=xlFormatFromRightOrBelow
+```
 
 ## See also
 
