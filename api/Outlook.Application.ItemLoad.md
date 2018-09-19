@@ -37,6 +37,8 @@ This event occurs when the Outlook item begins to load into memory. Data for the
 
 The  **ItemLoad** event should typically be implemented as a means to hook up item-level event handlers such as **BeforeRead**,  **Open**,  **Send**, and  **Write**.
 
+The _Item_ object passed in this event should not be cached for any use outside the scope of this event.
+
 This event is not raised when the following conditions occur:
 
 
