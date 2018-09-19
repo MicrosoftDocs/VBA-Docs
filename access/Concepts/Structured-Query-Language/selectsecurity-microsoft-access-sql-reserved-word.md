@@ -1,23 +1,22 @@
 ---
-title: ALL (Microsoft Access SQL reserved word)
-keywords: jetsql40.chm5277606
+title: SELECTSECURITY (Microsoft Access SQL reserved word)
+keywords: jetsql40.chm5277492
 f1_keywords:
-- jetsql40.chm5277606
+- jetsql40.chm5277492
 ms.prod: access
-ms.assetid: 1361f1c1-f99d-8952-a885-d13dcdd7cb1d
+ms.assetid: 29e48ab2-e93b-ada9-7e4c-6aca74a81560
 ms.date: 06/08/2017
 ---
 
 
-# ALL (Microsoft Access SQL reserved word)
+# SELECTSECURITY (Microsoft Access SQL reserved word)
 
 **Applies to:** Access 2013 | Access 2016
 
-The ALL keyword is used in these contexts:
+The SELECTSECURITY keyword is used in these contexts:
 
-- [ALL, DISTINCT, DISTINCTROW, TOP predicates](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)
-- [SQL subqueries](https://msdn.microsoft.com/library/3B6C0A5D-AB24-E1CF-0175-3F8E68C2DFBF%28Office.15%29.aspx)
-- [UNION operation](https://msdn.microsoft.com/library/A5139921-51E5-7D96-74E3-11C3FD5F7EAA%28Office.15%29.aspx)
+- [GRANT statement](http://msdn.microsoft.com/library/50AE97AE-D5BE-57E5-D9DA-F3FC42F01D83%28Office.15%29.aspx)
+- [REVOKE statement](http://msdn.microsoft.com/library/69399FD6-C4E8-F2E2-E5F4-48AE779323F5%28Office.15%29.aspx)
 
 
 ## See also

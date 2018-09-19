@@ -1,5 +1,5 @@
 ---
-title: Use International Date Formats in SQL Statements
+title: Use international date formats in SQL statements
 keywords: vbaac10.chm5188229
 f1_keywords:
 - vbaac10.chm5188229
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Use International Date Formats in SQL Statements
+# Use international date formats in SQL statements
 
 You must use English (United States) date formats in SQL statements in Visual Basic. However, you can use international date formats in the query design grid.
 
