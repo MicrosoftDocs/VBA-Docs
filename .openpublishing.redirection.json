@@ -3,6 +3,114 @@
         {
             "redirect_url": "/office/vba/api/overview",
             "source_path": "index.md" 
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/alter-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/alter-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/asc-desc-microsoft-access-sql-reserved-words.md",
+            "redirect_url": "/office/vba/access/concepts/structured-query-language/asc-desc-microsoft-access-sql-reserved-words"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/by-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/by-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/container-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/container-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/create-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/create-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/delete-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/delete-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/drop-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/drop-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/first-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/first-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/from-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/from-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/index-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/index-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/in-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/structured-query-language/in-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/insert-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/insert-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/into-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/into-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/last-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/last-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/on-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/on-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/schema-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/schema-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/select-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/select-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/selectschema-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/selectschema-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/selectsecurity-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/selectsecurity-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/to-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/to-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/updateidentity-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/updateidentity-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/update-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/update-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/updateowner-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/updateowner-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/updatesecurity-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/updatesecurity-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/user-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/user-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/view-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/view-microsoft-access-sql-reserved-word"
+        },
+        {
+            "source_path": "access/Concepts/Miscellaneous/with-microsoft-access-sql-reserved-word.md",
+            "redirect_url": "/office/vba/access/concepts/Structured-Query-Language/with-microsoft-access-sql-reserved-word"
         }
     ]
 }
