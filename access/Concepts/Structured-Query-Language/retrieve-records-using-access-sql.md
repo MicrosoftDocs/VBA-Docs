@@ -1,12 +1,12 @@
 ---
-title: Retrieve Records Using Access SQL
+title: Retrieve records using Access SQL
 ms.prod: access
 ms.assetid: b613a24a-2fc4-ac18-501f-c44b5cc2a45d
 ms.date: 06/08/2017
 ---
 
 
-# Retrieve Records Using Access SQL
+# Retrieve records using Access SQL
 
 The most basic and most often used SQL statement is the **[SELECT](../../../api/overview/Access.md)** statement. **SELECT** statements are the workhorses of all SQL statements, and they are commonly referred to as select queries. You use the **SELECT** statement to retrieve data from the database tables, and the results are usually returned in a set of records (or rows) made up of any number of fields (or columns). You must use the **[FROM](from-clause-microsoft-access-sql.md)** clause to designate which table or tables to select from. The basic structure of a **SELECT** statement is:
 
@@ -49,7 +49,7 @@ SELECT CustomerID AS [Customer Number]
 ```
 
 
-## Restricting the Result Set
+## Restrict the result set
 
 More often than not, you will not want to retrieve all records from a table. You will want only a subset of those records based on some qualifying criteria. To qualify a **SELECT** statement, you must use a **[WHERE](where-clause-microsoft-access-sql.md)** clause, which will allow you to specify exactly which records you want to retrieve.
 
@@ -109,7 +109,7 @@ There are a number of wildcard characters to choose from, and the following tabl
 |[ _charlist_ ]|Any single character in  _charlist_|
 |[! _charlist_ ]|Any single character not in  _charlist_|
 
-## Sorting the Result Set
+## Sort the result set
 
 To specify a particular sort order on one or more fields in the result set, use the optional **[ORDER BY](order-by-clause-microsoft-access-sql.md)** clause. Records can be sorted in either ascending (**ASC**) or descending (**DESC**) order; ascending is the default.
 

@@ -1,23 +1,22 @@
 ---
-title: ALL (Microsoft Access SQL reserved word)
-keywords: jetsql40.chm5277606
+title: WITH (Microsoft Access SQL reserved word)
+keywords: jetsql40.chm5277616
 f1_keywords:
-- jetsql40.chm5277606
+- jetsql40.chm5277616
 ms.prod: access
-ms.assetid: 1361f1c1-f99d-8952-a885-d13dcdd7cb1d
+ms.assetid: 3defe4ed-e0ad-8821-3a6e-7b0fcf837a2c
 ms.date: 06/08/2017
 ---
 
 
-# ALL (Microsoft Access SQL reserved word)
+# WITH (Microsoft Access SQL reserved word)
 
 **Applies to:** Access 2013 | Access 2016
 
-The ALL keyword is used in these contexts:
+The WITH keyword is used in these contexts:
 
-- [ALL, DISTINCT, DISTINCTROW, TOP predicates](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)
-- [SQL subqueries](https://msdn.microsoft.com/library/3B6C0A5D-AB24-E1CF-0175-3F8E68C2DFBF%28Office.15%29.aspx)
-- [UNION operation](https://msdn.microsoft.com/library/A5139921-51E5-7D96-74E3-11C3FD5F7EAA%28Office.15%29.aspx)
+- [CREATE INDEX statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
+- [WITH OWNERACCESS OPTION declaration](http://msdn.microsoft.com/library/82e51071-12b2-e97e-07b4-27ffceda831e%28Office.15%29.aspx)
 
 
 ## See also

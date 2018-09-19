@@ -1,5 +1,5 @@
 ---
-title: Application.ItemLoad Event (Outlook)
+title: Application.ItemLoad event (Outlook)
 keywords: vbaol11.chm446
 f1_keywords:
 - vbaol11.chm446
@@ -7,25 +7,23 @@ ms.prod: outlook
 api_name:
 - Outlook.Application.ItemLoad
 ms.assetid: aed0656d-4e5a-550a-1116-76773215a897
-ms.date: 06/08/2017
+ms.date: 09/19/2018
 ---
 
 
-# Application.ItemLoad Event (Outlook)
+# Application.ItemLoad event (Outlook)
 
 Occurs when an Outlook item is loaded into memory.
 
 
 ## Syntax
 
- _expression_. `ItemLoad`( `_Item_` , )
+_expression_. `ItemLoad`( `_Item_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -33,12 +31,16 @@ Occurs when an Outlook item is loaded into memory.
 
 ## Remarks
 
-This event occurs when the Outlook item begins to load into memory. Data for the item is not yet available, other than the values for the  **Class** and **MessageClass** properties of the Outlook item, so an error occurs when calling any property other than **Class** or **MessageClass** for the Outlook item returned in _Item_. Similarly, an error occurs if you attempt to call any method from the Outlook item, or if you call the  **[GetObjectReference](Outlook.Application.GetObjectReference.md)** method of the **[Application](Outlook.Application.md)** object on the Outlook item returned in _Item_.
+This event occurs when the Outlook item begins to load into memory. Data for the item is not yet available, other than the values for the **Class** and **MessageClass** properties of the Outlook item, so an error occurs when calling any property other than **Class** or **MessageClass** for the Outlook item returned in _Item_. 
 
-The  **ItemLoad** event should typically be implemented as a means to hook up item-level event handlers such as **BeforeRead**,  **Open**,  **Send**, and  **Write**.
+Similarly, an error occurs if you attempt to call any method from the Outlook item, or if you call the **[GetObjectReference](Outlook.Application.GetObjectReference.md)** method of the **[Application](Outlook.Application.md)** object on the Outlook item returned in _Item_.
+
+The **ItemLoad** event should typically be implemented as a means to hook up item-level event handlers such as **BeforeRead**, **Open**, **Send**, and **Write**.
+
+> [!WARNING] 
+> The _Item_ object passed in this event should not be cached for any use outside the scope of this event.
 
 This event is not raised when the following conditions occur:
-
 
 - An Outlook item is synchronized with a folder.
     
@@ -51,6 +53,5 @@ This event is not raised when the following conditions occur:
 
 ## See also
 
-
-[Application Object](Outlook.Application.md)
+- [Application object](Outlook.Application.md)
 

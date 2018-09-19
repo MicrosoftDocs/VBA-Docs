@@ -1,12 +1,12 @@
 ---
-title: FROM Clause (Microsoft Access SQL)
+title: FROM clause (Microsoft Access SQL)
 ms.prod: access
 ms.assetid: f3c5931e-2768-198e-d69c-095a01c23bb5
 ms.date: 06/08/2017
 ---
 
 
-# FROM Clause (Microsoft Access SQL)
+# FROM clause (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -44,7 +44,7 @@ FROM Employees;
 ## Example
 Some of the following examples assume the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
-This example creates a dynaset-type  **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
+This example creates a dynaset-type **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
 
 ```vb
 Sub SelectX1() 
@@ -213,11 +213,8 @@ End Sub
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)

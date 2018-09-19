@@ -1,5 +1,5 @@
 ---
-title: GROUP BY Clause (Microsoft Access SQL)
+title: GROUP BY clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277569
 f1_keywords:
 - jetsql40.chm5277569
@@ -8,14 +8,13 @@ ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 ms.date: 06/08/2017
 ---
 
-# GROUP BY Clause (Microsoft Access SQL)
+# GROUP BY clause (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
-Combines records with identical values in the specified field list into a single record. A summary value is created for each record if you include an [SQL aggregate function](https://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), such as  **Sum** or **Count**, in the[SELECT](https://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
+Combines records with identical values in the specified field list into a single record. A summary value is created for each record if you include an [SQL aggregate function](https://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), such as **Sum** or **Count**, in the [SELECT](https://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
 SELECT  _fieldlist_ FROM _table_ WHERE _criteria_ [GROUP BY _groupfieldlist_ ]
 
@@ -29,7 +28,6 @@ A SELECT statement containing a GROUP BY clause has these parts:
 | _groupfieldlist_|The names of up to 10 fields used to group records. The order of the field names in  _groupfieldlist_ determines the grouping levels from the highest to the lowest level of grouping.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 GROUP BY is optional.
 
@@ -45,7 +43,6 @@ All fields in the SELECT field list must either be included in the GROUP BY clau
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates a list of unique job titles and the number of employees with each title. It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
@@ -115,12 +112,8 @@ End Sub
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-

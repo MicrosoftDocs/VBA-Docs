@@ -1,5 +1,5 @@
 ---
-title: ORDER BY Clause (Microsoft Access SQL)
+title: ORDER BY clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277571
 f1_keywords:
 - jetsql40.chm5277571
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# ORDER BY Clause (Microsoft Access SQL)
+# ORDER BY clause (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
 Sorts a query's resulting records on a specified field or fields in ascending or descending order.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
 SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ [ORDER BY _field1_ [ASC | DESC ][, _field2_ [ASC | DESC ]][, …]]]
 
@@ -32,7 +31,6 @@ A SELECT statement containing an ORDER BY clause has these parts:
 | _field1_, _field2_|The names of the fields on which to sort records.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 ORDER BY is optional. However, if you want your data displayed in sorted order, then you must use ORDER BY.
 
@@ -62,14 +60,13 @@ ORDER BY is usually the last item in an SQL statement.
 You can include additional fields in the ORDER BY clause. Records are sorted first by the first field listed after ORDER BY. Records that have equal values in that field are then sorted by the value in the second field listed, and so on.
 
 **Link provided by:**
-![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community |[About the contributors](#AboutContributors)
 
 
 - [Record Order](https://www.utteraccess.com/wiki/index.php/Record_Order)
     
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The SQL statement shown in the following example uses the ORDER BY clause to sort records by last name in descending order (Z-A). It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
@@ -100,20 +97,16 @@ Sub OrderByX()
 End Sub
 ```
 
-
-## About the Contributors
 <a name="AboutContributors"> </a>
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+### About the contributors
+
+UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-
