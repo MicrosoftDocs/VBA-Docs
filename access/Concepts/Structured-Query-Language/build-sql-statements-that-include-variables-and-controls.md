@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 When working with Data Access Objects (DAO) or ActiveX Data Objects (ADO), you may need to construct an SQL statement in code. This is sometimes referred to as taking your SQL code "inline." 
 
-For example, if you are creating a new [QueryDef](../../../api/overview/Access.md) object, you must set its [SQL](../../../api/overview/Access.md) property to a valid SQL string. But if you are using an ADO[Recordset](../../../api/overview/Access.md) object, you must set its [Source](../../../api/overview/Access.md) property to a valid SQL string.
+For example, if you are creating a new [QueryDef](../../../api/overview/Access.md) object, you must set its [SQL](../../../api/overview/Access.md) property to a valid SQL string. But if you are using an ADO [Recordset](../../../api/overview/Access.md) object, you must set its [Source](../../../api/overview/Access.md) property to a valid SQL string.
 
 To construct an SQL statement, create a query in the query design grid, switch to SQL view, and copy and paste the corresponding SQL statement into your code.
 
 Often a query must be based on values that the user supplies, or values that change in different situations. If this is the case, you need to include variables or control values in your query. The Access database engine processes all SQL statements, but not variables or controls. Therefore, you must construct your SQL statement so that Access first determines these values and then concatenates them into the SQL statement that is passed to the Access database engine.
 
 
-## Building SQL statements with DAO
+## Build SQL statements with DAO
 
 The following example shows how to create a **QueryDef** object with a simple SQL statement. This query returns all orders from an Orders table that were placed after March 31, 2006.
 
@@ -59,7 +59,7 @@ Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
 
-## Building SQL statements with ADO
+## Build SQL statements with ADO
 
 In this section, you will build the same statements as in the previous section, but this time using ADO as the data access method.
 
