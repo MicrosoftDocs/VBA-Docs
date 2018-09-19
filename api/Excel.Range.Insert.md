@@ -1,5 +1,5 @@
 ---
-title: Range.Insert Method (Excel)
+title: Range.Insert method (Excel)
 keywords: vbaxl10.chm144149
 f1_keywords:
 - vbaxl10.chm144149
@@ -7,38 +7,36 @@ ms.prod: excel
 api_name:
 - Excel.Range.Insert
 ms.assetid: e612bbc8-3942-3349-f157-c0459805794a
-ms.date: 06/08/2017
+ms.date: 09/19/2018
 ---
 
 
-# Range.Insert Method (Excel)
+# Range.Insert method (Excel)
 
 Inserts a cell or a range of cells into the worksheet or macro sheet and shifts other cells away to make space.
 
 
 ## Syntax
 
- _expression_. `Insert`( `_Shift_` , `_CopyOrigin_` )
+_expression_. `Insert`( `_Shift_` , `_CopyOrigin_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Shift_|Optional| **Variant**|Specifies which way to shift the cells. Can be one of the following  **[XlInsertShiftDirection](Excel.XlInsertShiftDirection.md)** constants: **xlShiftToRight** or **xlShiftDown** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
-| _CopyOrigin_|Optional| **Variant**|The copy origin, i.e., from where to copy the format for inserted cells.  Can be one of the following  **[XlInsertFormatOrigin](Excel.XlInsertFormatOrigin.md)** constants: **xlFormatFromLeftOrAbove** (default) or **xlFormatFromRightOrBelow**.|
+| _Shift_|Optional| **Variant**|Specifies which way to shift the cells. Can be one of the following **[XlInsertShiftDirection](Excel.XlInsertShiftDirection.md)** constants: **xlShiftToRight** or **xlShiftDown**. If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
+| _CopyOrigin_|Optional| **Variant**|The copy origin; that is, from where to copy the format for inserted cells. Can be one of the following **[XlInsertFormatOrigin](Excel.XlInsertFormatOrigin.md)** constants: **xlFormatFromLeftOrAbove** (default) or **xlFormatFromRightOrBelow**.|
 
-### Return Value
+### Return value
 
 Variant
 
 ## Remarks
 
-There is not a value for _CopyOrigin_ that is equivalent to _Clear Formatting_ when inserting cells interactively in Excel. To achieve this, use the **[ClearFormats](Excel.Range.ClearFormats.md)** Method:
+There is not a value for _CopyOrigin_ that is equivalent to _Clear Formatting_ when inserting cells interactively in Excel. To achieve this, use the **[ClearFormats](Excel.Range.ClearFormats.md)** method:
 
 ```vb
 With Range("B2:E5")
@@ -58,6 +56,5 @@ Range("2:2").Insert CopyOrigin:=xlFormatFromRightOrBelow
 
 ## See also
 
-
-[Range Object](Excel.Range(object).md)
+- [Range Object](Excel.Range(object).md)
 
