@@ -93,7 +93,6 @@
 ##### [Modify a table's design](../access/Concepts/Structured-Query-Language/modify-a-table-s-design-using-access-sql.md)
 ##### [Perform joins](../access/Concepts/Structured-Query-Language/perform-joins-using-access-sql.md)
 ##### [Retrieve records](../access/Concepts/Structured-Query-Language/retrieve-records-using-access-sql.md)
-##### [Use aggregate functions to work with values](../access/Concepts/Structured-Query-Language/use-aggregate-functions-to-work-with-values-in-access-sql.md)
 ##### [Use international date formats in SQL statements](../access/Concepts/Structured-Query-Language/use-international-date-formats-in-sql-statements.md)
 #### Data Access Objects (DAO)
 ##### [Add a record to a DAO recordset](../access/Concepts/Data-Access-Objects/add-a-record-to-a-dao-recordset.md)

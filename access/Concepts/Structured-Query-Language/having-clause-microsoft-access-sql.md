@@ -1,5 +1,5 @@
 ---
-title: HAVING Clause (Microsoft Access SQL)
+title: HAVING clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277570
 f1_keywords:
 - jetsql40.chm5277570
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# HAVING Clause (Microsoft Access SQL)
+# HAVING clause (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
-Specifies which grouped records are displayed in a [SELECT](https://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement with a GROUP BY clause. After[GROUP BY](group-by-clause-microsoft-access-sql.md) combines records, HAVING displays any records grouped by the GROUP BY clause that satisfy the conditions of the HAVING clause.
+Specifies which grouped records are displayed in a [SELECT](https://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement with a GROUP BY clause. After [GROUP BY](group-by-clause-microsoft-access-sql.md) combines records, HAVING displays any records grouped by the GROUP BY clause that satisfy the conditions of the HAVING clause.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
 SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ GROUP BY _groupfieldlist_ [HAVING _groupcriteria_ ]
 
@@ -31,7 +30,6 @@ A SELECT statement containing a HAVING clause has these parts:
 | _groupcriteria_|An expression that determines which grouped records to display.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 HAVING is optional.
 
@@ -45,11 +43,10 @@ GROUP BY CategoryID
 HAVING Sum(UnitsInStock) > 100 And Like "BOS*";
 ```
 
-A HAVING clause can contain up to 40 expressions linked by logical operators, such as  **And** and **Or**.
+A HAVING clause can contain up to 40 expressions linked by logical operators, such as **And** and **Or**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example selects the job titles assigned to more than one employee in the Washington region. It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
@@ -83,12 +80,8 @@ End Sub
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-
