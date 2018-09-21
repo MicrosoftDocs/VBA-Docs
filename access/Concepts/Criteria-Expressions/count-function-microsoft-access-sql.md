@@ -1,36 +1,35 @@
 ---
-title: Count Function (Microsoft Access SQL)
+title: Count function (Microsoft Access SQL)
 keywords: jetsql40.chm5278824
 f1_keywords:
 - jetsql40.chm5278824
 ms.prod: access
 ms.assetid: 01743d33-d7de-12b5-eb0f-eb775b0bcffd
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Count Function (Microsoft Access SQL)
+# Count function (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
 Calculates the number of records returned by a query.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
 **Count(** _expr_ **)**
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the data you want to count or an expression that performs a calculation using the data in the field. Operands in _expr_ can include the name of a table field or function (which can be either intrinsic or user-defined but not other SQL aggregate functions). You can count any kind of data, including text.
 
-
 ## Remarks
-<a name="sectionSection1"> </a>
 
-You can use  **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
+You can use **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
 
 Although  _expr_ can perform a calculation on a field, **Count** simply tallies the number of records. It does not matter what values are stored in the records.
 
-The  **Count** function does not count records that have **Null** fields unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, **Count** calculates the total number of records, including those that contain **Null** fields. **Count(** * **)** is considerably faster than **Count(** [ _Column Name_ ] **)**. Do not enclose the asterisk in quotation marks (' '). The following example calculates the number of records in the Orders table:
+The **Count** function does not count records that have **Null** fields unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, **Count** calculates the total number of records, including those that contain **Null** fields. **Count(** * **)** is considerably faster than **Count(** [ _Column Name_ ] **)**. Do not enclose the asterisk in quotation marks (' '). 
+
+The following example calculates the number of records in the Orders table:
 
 ```sql
 SELECT Count(*) 
@@ -45,11 +44,10 @@ Count('ShippedDate & Freight')
 AS [Not Null] FROM Orders;
 ```
 
-You can use  **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
+You can use **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example uses the Orders table to calculate the number of orders shipped to the United Kingdom.
 
@@ -87,12 +85,8 @@ End Sub
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-

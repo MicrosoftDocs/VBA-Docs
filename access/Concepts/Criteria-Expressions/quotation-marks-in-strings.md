@@ -1,5 +1,5 @@
 ---
-title: Quotation Marks in Strings
+title: Quotation marks in strings
 keywords: vbaac10.chm5187927
 f1_keywords:
 - vbaac10.chm5187927
@@ -8,17 +8,23 @@ ms.assetid: a25474eb-4451-1cb7-aa05-223bd83cf18c
 ms.date: 06/08/2017
 ---
 
+<!--Duplicates the following topic, so removing this one from the TOC and redirecting from the master redirection file:
 
-# Quotation Marks in Strings
+title: Include quotation marks in string expressions
+ms.prod: access
+ms.assetid: bb4d42ee-37cb-8fbf-0489-62fdf0706b91
+
+
+# Quotation marks in strings
 
 In situations where you must construct strings to be concatenated, you may need to embed a string within another string, or a string variable within a string. Situations in which you might need to nest one string within another include:
 
 
 - When specifying criteria for domain aggregate functions .
     
-- When specifying criteria for the  **Find** methods.
+- When specifying criteria for the **Find** methods.
     
-- When specifying criteria for the  **Filter** or **ServerFilter** property of a form.
+- When specifying criteria for the **Filter** or **ServerFilter** property of a form.
     
 - When building SQL strings.
     
@@ -61,8 +67,8 @@ When the variable is evaluated and concatenated into the  _criteria_ string, the
 "[LastName] = 'Smith'"
 ```
 
-
- **Note**  This syntax does not permit the use of apostrophes (') within the value of the variable itself. If the value of the string variable includes an apostrophe, Access generates a run-time error. If your variable may represent values containing apostrophes, consider using one of the other syntax forms discussed in the following sections.
+> [!NOTE] 
+> This syntax does not permit the use of apostrophes (') within the value of the variable itself. If the value of the string variable includes an apostrophe, Access generates a run-time error. If your variable may represent values containing apostrophes, consider using one of the other syntax forms discussed in the following sections.
 
 
 ## Include Double Quotation Marks
@@ -104,4 +110,4 @@ When the variables are evaluated and concatenated into the  _criteria_ argument,
 [LastName] = "Smith"
 ```
 
-
+-->

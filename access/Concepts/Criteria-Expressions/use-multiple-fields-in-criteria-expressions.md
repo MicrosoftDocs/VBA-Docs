@@ -1,21 +1,29 @@
 ---
-title: Use Multiple Fields in Criteria Expressions
+title: Use multiple fields in criteria expressions
 ms.prod: access
 ms.assetid: b0bd588b-b25a-f433-3642-7b06936377e2
 ms.date: 06/08/2017
 ---
 
+# Use multiple fields in criteria expressions
 
-# Use Multiple Fields in Criteria Expressions
+<!--This is a duplicate of the following topic; removing this one from the TOC and redirecting to the following:
+
+title: Multiple fields in criteria expressions
+keywords: vbaac10.chm5187501
+f1_keywords:
+- vbaac10.chm5187501
+ms.prod: access
+ms.assetid: 6ed0992f-912f-10ca-27de-4e3c9d6a2f71
+ms.date: 06/08/2017 -->
+
+
 
 You can specify multiple fields in a  _criteria_ argument.
 
 To specify multiple fields in the  _criteria_ argument, you must ensure that multiple string expressions are concatenated correctly to form a valid SQL WHERE clause. In an SQL WHERE clause with multiple fields, fields may be joined with one of three keywords: **AND**, **OR**, or **NOT**. Your expression must evaluate to a string that includes one of these keywords.
 
-For example, suppose that you want to set the  **[Filter](../../../api/Access.Form.Filter(property).md)** property of an Employees form to display records restricted by two sets of criteria. The following example filters the form so that it displays only those employees whose title is "Sales Representative" and who were hired since January 1, 1993:
-
-
-
+For example, suppose that you want to set the **[Filter](../../../api/Access.Form.Filter(property).md)** property of an Employees form to display records restricted by two sets of criteria. The following example filters the form so that it displays only those employees whose title is "Sales Representative" and who were hired since January 1, 1993:
 
 ```vb
 Dim datHireDate As Date 
@@ -31,11 +39,10 @@ Forms!Employees.FilterOn = True
 
 The  _criteria_ argument evaluates to the following string:
 
-
-
 ```sql
 "[HireDate] >= #1-1-93# AND [Title] = 'Sales Representative'"
 ```
 
-To troubleshoot an expression in the  _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.
+> [!TIP] 
+> To troubleshoot an expression in the  _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.
 
