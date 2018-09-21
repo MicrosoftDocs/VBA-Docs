@@ -13,12 +13,12 @@ ms.date: 09/21/2018
 
 # SortFields.Add Method (Excel)
 
-Creates a new sort field and returns a  **SortFields** object.
+Creates a new sort field and returns a  **SortFields** object which can optionally sort Data Types with the SubField defined.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Key_` , `_SortOn_` , `_Order_` , `_CustomOrder_` , `_DataOption_` )
+ _expression_. `Add2`( `_Key_` , `_SortOn_` , `_Order_` , `_CustomOrder_` , `_DataOption_`, `_SubField_` )
 
  _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
 
@@ -34,6 +34,7 @@ Creates a new sort field and returns a  **SortFields** object.
 | _Order_|Optional| **Variant**|Specifies the sort order.|
 | _CustomOrder_|Optional| **Variant**|Specifies if a custom sort order should be used.|
 | _DataOption_|Optional| **Variant**|Specifies the data option.|
+| _SubField_|Optional| **Variant**|Specifies the Field to sort on for a Data Type (Such as Population for Geography or Volume for Stocks).|
 
 ### Return Value
 
