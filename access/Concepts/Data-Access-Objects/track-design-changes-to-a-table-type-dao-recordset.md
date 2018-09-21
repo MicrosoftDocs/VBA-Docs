@@ -1,16 +1,16 @@
 ---
-title: Track Design Changes to a Table-Type DAO Recordset
+title: Track design changes to a table-type DAO Recordset
 ms.prod: access
 ms.assetid: 540bfd6d-14f1-e0a2-8a2e-e09cb1a31d52
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Track Design Changes to a Table-Type DAO Recordset
+# Track design changes to a table-type DAO Recordset
 
-You may need to determine when the underlying  **[TableDef](../../../api/overview/Access.md)** object of a table-type **[Recordset](../../../api/overview/Access.md)** was created, or the last time it was modified. The **[DateCreated](../../../api/overview/Access.md)** and **[LastUpdated](../../../api/overview/Access.md)** properties, respectively, give you this information. Both properties return the date stamp applied to the table by the machine on which the table resided at the time it was stamped. These properties are updated only when the table's design changes; they are not affected by changes to records in the table.
+You may need to determine when the underlying **[TableDef](../../../api/overview/Access.md)** object of a table-type **[Recordset](../../../api/overview/Access.md)** was created, or the last time it was modified. The **[DateCreated](../../../api/overview/Access.md)** and **[LastUpdated](../../../api/overview/Access.md)** properties, respectively, give you this information. Both properties return the date stamp applied to the table by the machine on which the table resided at the time it was stamped. These properties are updated only when the table's design changes; they are not affected by changes to records in the table.
 
-The following code example shows the  **DateCreated** and **LastUpdated** properties by adding a new **[Field](../../../api/overview/Access.md)** to an existing **TableDef** and by creating a new **TableDef**. The **DateOutput** function is required for this procedure to run.
+The following code example shows the **DateCreated** and **LastUpdated** properties by adding a new **[Field](../../../api/overview/Access.md)** to an existing **TableDef** and by creating a new **TableDef**. The **DateOutput** function is required for this procedure to run.
 
 
 

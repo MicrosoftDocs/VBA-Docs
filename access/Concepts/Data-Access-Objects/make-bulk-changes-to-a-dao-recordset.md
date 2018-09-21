@@ -1,18 +1,16 @@
 ---
-title: Make Bulk Changes to a DAO Recordset
+title: Make bulk changes to a DAO Recordset
 ms.prod: access
 ms.assetid: b66c857a-42ed-15c9-e01d-99c451651f3b
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Make Bulk Changes to a DAO Recordset
+# Make bulk changes to a DAO Recordset
 
-After you have created a table-type or dynaset-type  **[Recordset](../../../api/overview/Access.md)** object, you can change, delete, or add new records. You cannot change, delete, or add records to a snapshot-type or forward-only-type **Recordset** object.
+After you have created a table-type or dynaset-type **[Recordset](../../../api/overview/Access.md)** object, you can change, delete, or add new records. You cannot change, delete, or add records to a snapshot-type or forward-only-type **Recordset** object.
 
-Many of the changes you may otherwise perform in a loop can be done more efficiently with an update or delete query using SQL. The following example creates a  **[QueryDef](../../../api/overview/Access.md)** object to update the Employees table and then runs the query.
-
-
+Many of the changes you may otherwise perform in a loop can be done more efficiently with an update or delete query using SQL. The following example creates a **[QueryDef](../../../api/overview/Access.md)** object to update the Employees table and then runs the query.
 
 ```vb
 Dim dbsNorthwind As DAO.Database 
@@ -66,6 +64,7 @@ Dim strNew As String
 ```
 
 
- **Note**  A delete query is much more efficient than code that loops through a  **Recordset**, modifying or deleting one record at a time.
+> [!NOTE] 
+> A delete query is much more efficient than code that loops through a **Recordset**, modifying or deleting one record at a time.
 
 
