@@ -8,14 +8,16 @@ ms.assetid: a25474eb-4451-1cb7-aa05-223bd83cf18c
 ms.date: 06/08/2017
 ---
 
+# Quotation marks in strings
+
 <!--Duplicates the following topic, so removing this one from the TOC and redirecting from the master redirection file:
 
 title: Include quotation marks in string expressions
 ms.prod: access
-ms.assetid: bb4d42ee-37cb-8fbf-0489-62fdf0706b91
+ms.assetid: bb4d42ee-37cb-8fbf-0489-62fdf0706b91-->
 
 
-# Quotation marks in strings
+
 
 In situations where you must construct strings to be concatenated, you may need to embed a string within another string, or a string variable within a string. Situations in which you might need to nest one string within another include:
 
@@ -110,4 +112,4 @@ When the variables are evaluated and concatenated into the  _criteria_ argument,
 [LastName] = "Smith"
 ```
 
--->
+

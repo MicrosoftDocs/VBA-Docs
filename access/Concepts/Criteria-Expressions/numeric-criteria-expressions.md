@@ -13,7 +13,7 @@ ms.date: 09/21/2018
 
 To specify numeric criteria for an operation, you supply a numeric value as part of the string expression that forms the  _criteria_ argument.
 
-Suppose that you are performing the **[DLookup](../../../api/Access.Application.DLookup.md) function on an Employees table to find the last name of a particular employee, and you want to use a value from the EmployeeID field in the function's _criteria_ argument. You could construct a _criteria_ argument like the following example, which returns the last name of the employee whose EmployeeID is 7:
+Suppose that you are performing the **[DLookup](../../../api/Access.Application.DLookup.md)** function on an Employees table to find the last name of a particular employee, and you want to use a value from the EmployeeID field in the function's _criteria_ argument. You could construct a _criteria_ argument like the following example, which returns the last name of the employee whose EmployeeID is 7:
 
 ```vb
 =DLookup("[LastName]", "Employees", "[EmployeeID] = 7")
