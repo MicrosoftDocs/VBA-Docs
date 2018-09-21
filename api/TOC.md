@@ -1,5 +1,5 @@
 # [Office VBA Reference](./overview/Index.md)
-## [Access](./overview/Access.md)
+## [Access](./overview/Access.md) 
 ### Concepts
 #### Settings
 ##### [ActiveX Data Objects (ADO)](../access/Concepts/Settings/activex-data-objects-ado.md)
@@ -124,8 +124,8 @@
 ##### [Use transactions in a DAO recordset](../access/Concepts/Data-Access-Objects/use-transactions-in-a-dao-recordset.md)
 #### ActiveX Data Objects (ADO)
 ##### [Bind a form to an ADO recordset](../access/Concepts/ActiveX-Data-Objects/bind-a-form-to-an-ado-recordset.md)
-##### [Set properties of ActiveX Data Objects in Visual Basic](../access/Concepts/ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
 ##### [Create an ADO connection string](../access/Concepts/ActiveX-Data-Objects/create-an-ado-connection-string.md)
+##### [Set properties of ActiveX Data Objects in Visual Basic](../access/Concepts/ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
 #### XML
 ##### [Export a report to XML](../access/Concepts/XML/export-a-report-to-xml.md)
 ##### [Export data, schema, and related tables to XML](../access/Concepts/XML/export-data-schema-and-related-tables-to-xml.md)
