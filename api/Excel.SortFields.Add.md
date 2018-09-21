@@ -10,11 +10,9 @@ ms.assetid: 9dd69850-29e8-6c29-186a-be8303b26390
 ms.date: 09/21/2018
 ---
 
-
 # SortFields.Add Method (Excel)
 
 Creates a new sort field and returns a  **SortFields** object.
-
 
 ## Syntax
 
@@ -22,10 +20,7 @@ Creates a new sort field and returns a  **SortFields** object.
 
  _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
 
-
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -39,10 +34,40 @@ Creates a new sort field and returns a  **SortFields** object.
 
 SortField
 
+## Remarks
+
+This API does not include support for Data Types, such as Geography or Stocks. Please reference [SortFields.Add2](Excel.SortFields.Add2.md) to define a sort order based off a SubField of one of these types.
+
+## Examples
+
+This example sorts a Table, "Table1" on "Sheet1" by "Column1", in ascending order.
+
+[SortFields.Clear](Excel.SortFields.Clear.md) is called before to ensure the previous sort is cleared so a new one can be applied.
+
+[Sort](Excel.Sort.md) is called to apply the added sort to "Table1".
+
+```vb
+ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort.SortFields.Clear
+ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort.SortFields.Add _
+ Key:=Range("Table1[[#All],[Column1]]"), _
+ SortOn:=xlSortOnValues, _
+ Order:=xlAscending, _
+ DataOption:=xlSortNormal
+With ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort
+ .Header = xlYes
+ .MatchCase = False
+ .Orientation = xlTopToBottom
+ .SortMethod = xlPinYin
+ .Apply
+End With
+```
 
 ## See also
 
-[Excel.SortFields.Add2](Excel.SortFields.Add2.md)
+[SortFields.Add2](Excel.SortFields.Add2.md)
+
+[SortFields.Clear](Excel.SortFields.Clear.md)
+
+[Sort](Excel.Sort.md)
 
 [SortFields Object](Excel.SortFields.md)
-
