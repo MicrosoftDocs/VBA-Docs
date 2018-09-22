@@ -126,7 +126,7 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 ### About the contributors
 
-**Links provided by** ![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Create a Subform with Alternating Color Rows](https://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
     
