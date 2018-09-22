@@ -1,25 +1,17 @@
 ---
-title: Bind a Form to an ADO Recordset
+title: Bind a form to an ADO Recordset
 ms.prod: access
 ms.assetid: de85b07c-aa2d-7cf6-e0da-70b682f1bdd0
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Bind a Form to an ADO Recordset
+# Bind a form to an ADO Recordset
 
-To bind an Access form to a recordset, you must set the form's  **Recordset** property to an open ADO **Recordset** object. A form must meet two general requirements for the form to be updatable when it is bound to an ADO recordset. The general requirements are:
+To bind an Access form to a recordset, you must set the form's **Recordset** property to an open ADO **Recordset** object. A form must meet two general requirements for the form to be updatable when it is bound to an ADO recordset. The general requirements are:
 
-
-- The underlying ADO recordset must be updatable via ADO.
-    
+- The underlying ADO recordset must be updatable via ADO.   
 - The recordset must contain one or more fields that are uniquely indexed, such as a table's primary key.
-    
-
-
-
-
-
 
 ```vb
  Private Sub Form_Open(Cancel As Integer) 

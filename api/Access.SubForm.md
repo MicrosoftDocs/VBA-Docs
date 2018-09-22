@@ -28,14 +28,6 @@ This object corresponds to a subform control. The subform control embeds a form 
  > For example, you can use a form with a subform to present one-to-many relationships, such as one product category with the items that fall into that category. In this case, the main form can display the category ID, name, and description; the subform can display the available products in that category.
 
 Instead of creating the main form, and then adding the subform control to it, you can simultaneously create the main form and subform with a wizard . You can also create a subform by dragging an existing form or report from the Database window to the main form.
-
- **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
-
-
-- [Create a Subform with Alternating Color Rows](https://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
-    
-- [Referring To Properties And Controls On Subforms](https://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
     
 
 ## Events
@@ -130,18 +122,26 @@ Instead of creating the main form, and then adding the subform control to it, yo
 |[Visible](Access.SubForm.Visible.md)|
 |[Width](Access.SubForm.Width.md)|
 
+
+
 ### About the contributors
 
+**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+- [Create a Subform with Alternating Color Rows](https://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
+    
+- [Referring To Properties And Controls On Subforms](https://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
+
+UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 
 ## See also
 
-
-
-
-
-[Access Object Model Reference](overview/Access/object-model.md)<br/>
-[SubForm Object Members](overview/Access.md)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+- [Access object model reference](overview/Access/object-model.md)
+- [SubForm object members](overview/Access.md)
 

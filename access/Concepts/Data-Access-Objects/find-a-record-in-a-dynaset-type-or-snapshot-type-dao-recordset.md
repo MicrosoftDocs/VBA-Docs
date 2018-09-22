@@ -1,33 +1,34 @@
 ---
-title: Find a Record in a Dynaset-Type or Snapshot-Type DAO Recordset
+title: Find a record in a dynaset-type or snapshot-type DAO Recordset
 ms.prod: access
 ms.assetid: f79f47e1-63a9-774d-4d07-32759ac30c8b
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Find a Record in a Dynaset-Type or Snapshot-Type DAO Recordset
+# Find a record in a dynaset-type or snapshot-type DAO Recordset
 
-You can use the Find methods to locate a record in a dynaset-type or snapshot-type  **[Recordset](../../../api/overview/Access.md)** object. DAO provides the following Find methods:
+You can use the Find methods to locate a record in a dynaset-type or snapshot-type **[Recordset](../../../api/overview/Access.md)** object. DAO provides the following Find methods:
 
 
-- The  **[FindFirst](../../../api/overview/Access.md)** method finds the first record that satisfies the specified criteria.
+- The **[FindFirst](../../../api/overview/Access.md)** method finds the first record that satisfies the specified criteria.
     
-- The  **[FindLast](../../../api/overview/Access.md)** method finds the last record that satisfies the specified criteria.
+- The **[FindLast](../../../api/overview/Access.md)** method finds the last record that satisfies the specified criteria.
     
-- The  **[FindNext](../../../api/overview/Access.md)** method finds the next record that satisfies the specified criteria.
+- The **[FindNext](../../../api/overview/Access.md)** method finds the next record that satisfies the specified criteria.
     
-- The  **[FindPrevious](../../../api/overview/Access.md)** method finds the previous record that satisfies the specified criteria.
+- The **[FindPrevious](../../../api/overview/Access.md)** method finds the previous record that satisfies the specified criteria.
     
 
 When you use the Find methods, you specify the search criteria, which is typically an expression that equates a field name with a specific value.
 
-You can locate the matching records in reverse order by finding the last occurrence with the  **FindLast** method and then using the **FindPrevious** method instead of the **FindNext** method.
-DAO sets the  **[NoMatch](../../../api/overview/Access.md)** property to **True** when a Find method fails and the current record position is undefined. There may be a current record, but there is no way to tell which one. To return to the previous current record following a failed Find method, use a bookmark.
-The  **NoMatch** property is **False** when the operation succeeds. In this case, the current record position is the record found by one of the Find methods.
-The following example illustrates how you can use the  **FindNext** method to find all orders in the Orders table that have no corresponding records in the Order Details table. The function searches for missing orders and, if it finds one, it adds the value in the OrderID field to the array aryOrders().
+You can locate the matching records in reverse order by finding the last occurrence with the **FindLast** method and then using the **FindPrevious** method instead of the **FindNext** method.
 
+DAO sets the **[NoMatch](../../../api/overview/Access.md)** property to **True** when a Find method fails and the current record position is undefined. There may be a current record, but there is no way to tell which one. To return to the previous current record following a failed Find method, use a bookmark.
 
+The **NoMatch** property is **False** when the operation succeeds. In this case, the current record position is the record found by one of the Find methods.
+
+The following example illustrates how you can use the **FindNext** method to find all orders in the Orders table that have no corresponding records in the Order Details table. The function searches for missing orders and, if it finds one, it adds the value in the OrderID field to the array aryOrders().
 
 ```vb
 Function FindOrders() As Variant 

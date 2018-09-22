@@ -1,21 +1,18 @@
 ---
-title: Add "(All)" to a Combo Box or List Box
+title: Add "(All)" to a combo box or list box
 ms.prod: access
 ms.assetid: f246db25-84b1-736f-8a79-16b9eea9cbda
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Add "(All)" to a Combo Box or List Box
+# Add "(All)" to a combo box or list box
 
-When you use a list box or combo box to enter selection criteria, you might want to be able to specify all records. The AddAllToList procedure illustrates how to add an  **(All)** entry at the top of a combo box.
+When you use a list box or combo box to enter selection criteria, you might want to be able to specify all records. The AddAllToList procedure illustrates how to add an **(All)** entry at the top of a combo box.
 
-To utilize the AddAllToList procedure, you must set the  **RowSourceType** property of the combo box or list box to **AddAllToList**.
+To utilize the AddAllToList procedure, you must set the **RowSourceType** property of the combo box or list box to **AddAllToList**.
 
-You can specify a different item than  **(All)** to add to the list by setting the **Tag** property of the combo box or list box. For example, you can add **<None>** to the top of the list by setting the value of the **Tag** property to `1;<None>`.
-
-
-
+You can specify a different item than **(All)** to add to the list by setting the **Tag** property of the combo box or list box. For example, you can add `<None>` to the top of the list by setting the value of the **Tag** property to `1;<None>`.
 
 ```vb
 Function AddAllToList(ctl As Control, lngID As Long, lngRow As Long, _ 

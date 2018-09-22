@@ -58,12 +58,6 @@ If you specify a field containing Memo or OLE Object data in the ORDER BY clause
 ORDER BY is usually the last item in an SQL statement.
 
 You can include additional fields in the ORDER BY clause. Records are sorted first by the first field listed after ORDER BY. Records that have equal values in that field are then sorted by the value in the second field listed, and so on.
-
-**Link provided by:**
-![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community |[About the contributors](#AboutContributors)
-
-
-- [Record Order](https://www.utteraccess.com/wiki/index.php/Record_Order)
     
 
 ## Example
@@ -97,9 +91,11 @@ Sub OrderByX()
 End Sub
 ```
 
-<a name="AboutContributors"> </a>
-
 ### About the contributors
+
+**Link provided by** ![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+
+- [Record Order](https://www.utteraccess.com/wiki/index.php/Record_Order)
 
 UtterAccess is the premier Microsoft Access wiki and help forum. 
 

@@ -1,22 +1,21 @@
 ---
-title: Sum Function (Microsoft Access SQL)
+title: Sum function (Microsoft Access SQL)
 keywords: jetsql40.chm5278828
 f1_keywords:
 - jetsql40.chm5278828
 ms.prod: access
 ms.assetid: 02498420-f177-521c-ef81-e2f7ea02b231
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Sum Function (Microsoft Access SQL)
+# Sum function (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 
 Returns the sum of a set of values contained in a specified field on a query.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
 **Sum(_expr_)**
 
@@ -24,11 +23,10 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
-The  **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
+The **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
 
-The  **Sum** function ignores records that contain **Null** fields. The following example shows how you can calculate the sum of the products of UnitPrice and Quantity fields:
+The **Sum** function ignores records that contain **Null** fields. The following example shows how you can calculate the sum of the products of UnitPrice and Quantity fields:
 
 ```sql
 SELECT 
@@ -36,11 +34,10 @@ Sum(UnitPrice * Quantity)
 AS [Total Revenue] FROM [Order Details];
 ```
 
-You can use the  **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
+You can use the **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example uses the Orders table to calculate the total sales for orders shipped to the United Kingdom.
 
@@ -77,14 +74,11 @@ Sub SumX()
 End Sub
 ```
 
+
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-- [Search for specific Access error codes on Bing](https://www.bing.com/)<br>
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)<br>
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)<br>
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)<br>
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-

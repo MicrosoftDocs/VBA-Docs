@@ -1,14 +1,14 @@
 ---
-title: Manipulate Multivalued Fields With DAO
+title: Manipulate multivalued fields with DAO
 ms.prod: access
 ms.assetid: a3c02fcd-ad48-c3fb-afa1-aabb43fc5bbf
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Manipulate Multivalued Fields With DAO
+# Manipulate multivalued fields with DAO
 
-Multivalued fields are represented as  **[Recordset](../../../api/overview/Access.md)** objects in DAO. The recordset for a field is a child of the recordset for the table that contains the multivalued field. To instantiate the child recordset, use the **Value** property of the multivalued field as follows.
+Multivalued fields are represented as **[Recordset](../../../api/overview/Access.md)** objects in DAO. The recordset for a field is a child of the recordset for the table that contains the multivalued field. To instantiate the child recordset, use the **Value** property of the multivalued field as follows.
 
 
 ```vb
@@ -18,19 +18,15 @@ Set childRs = rs.<multi-valued field>.Value
 
 The following code example shows how to instantiate the child recordset of the AssignedTo field of the Tasks table.
 
-
-
-
 ```vb
 Set rs  = db.OpenRecordSet("Tasks") 
 Set childRs = rs.AssignedTo.Value 
 
 ```
 
-The child recordset has the same functionality as any DAO  **Recordset** object.
+The child recordset has the same functionality as any DAO **Recordset** object.
+
 The following code example shows how to iterate through a parent recordset and its child recordset. The example prints the tasks in the Tasks table along with the people assigned to the tasks to the Immediate window.
-
-
 
 ```vb
 Sub BrowseMultiValueField() 
