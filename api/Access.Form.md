@@ -63,12 +63,12 @@ Forms!OrderForm.ctlSubForm.Form!Controls.NewData
 Forms!OrderForm.ctlSubForm!NewData
 ```
 
-**Links provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
+**Links provided by** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
 
 - [Microsoft Access Form Tips and Avoiding Common Mistakes](https://www.fmsinc.com/tpapers/genaccess/formtips.html)  
 - [Microsoft Office Access 2007 Form Design Tips](https://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.html)
     
-**Links provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Display Pictures on a Form](https://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)   
 - [Display Related Data](https://www.utteraccess.com/wiki/index.php/Display_Related_Data)   
@@ -83,7 +83,7 @@ The following example shows how to use  **TextBox** controls to supply date crit
 
 UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
-**Sample code provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+**Sample code provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 
 

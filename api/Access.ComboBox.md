@@ -36,7 +36,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 
 - [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
-**Links provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Combo Box](https://www.utteraccess.com/wiki/index.php/Combo_Box)   
 - [Cascading Combo Boxes](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)   
@@ -49,7 +49,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 
 The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
 
-**Sample code provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
+**Sample code provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
