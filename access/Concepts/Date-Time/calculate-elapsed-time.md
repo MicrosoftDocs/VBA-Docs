@@ -134,8 +134,7 @@ var2 = DateAdd("n", 10, var1)
 
 ### About the contributors
 
-**Link provided by:**
-![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Link provided by** ![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Summing elapsed time that could go over 24 hours](https://www.utteraccess.com/wiki/index.php/Summing_elapsed_time_that_could_go_over_24_hours)
 

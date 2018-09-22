@@ -32,23 +32,16 @@ The setting of the  **LimitToList** property determines whether you can enter va
 
 The list can be single- or multiple-column, and the columns can appear with or without headings.
 
- **Link provided by:** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
-
+**Link provided by** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
 
 - [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
- **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Links provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
 
-
-- [Combo Box](https://www.utteraccess.com/wiki/index.php/Combo_Box)
-    
-- [Cascading Combo Boxes](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)
-    
-- [Cascading Combo Boxes: Demo](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes:_Demo)
-    
-- [Cascading Combo Boxes - Leaving Null Values](https://www.utteraccess.com/wiki/index.php/Cascade_Combo_Leaving_Null_Values)
-    
+- [Combo Box](https://www.utteraccess.com/wiki/index.php/Combo_Box)   
+- [Cascading Combo Boxes](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)   
+- [Cascading Combo Boxes: Demo](https://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes:_Demo)   
+- [Cascading Combo Boxes - Leaving Null Values](https://www.utteraccess.com/wiki/index.php/Cascade_Combo_Leaving_Null_Values)   
 - [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
     
 
@@ -56,8 +49,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 
 The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
 
- **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Sample code provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
 
 UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
@@ -103,8 +95,7 @@ End Sub
 
 The following example shows how to set the  **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
- **Sample code provided by:**
-![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
+**Sample code provided by** ![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](https://www.mrexcel.com/).
 
 
 
@@ -127,8 +118,7 @@ The following example show how to create a combo box that is bound to one column
 
 The  **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 
- **Sample code provided by:**
-![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
+**Sample code provided by** ![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](https://www.mrexcel.com/).
 
 
 
@@ -146,7 +136,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+**Sample code provided by** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html).
 
 
 ```vb
@@ -379,11 +369,12 @@ End Sub
 |[Visible](Access.ComboBox.Visible.md)|
 |[Width](Access.ComboBox.Width.md)|
 
+
 ### About the contributors
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
@@ -392,10 +383,6 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 
-
-
-
-
-[Access Object Model Reference](overview/Access/object-model.md)<br/>
-[ComboBox Object Members](overview/Access.md)
+- [Access Object Model Reference](overview/Access/object-model.md)<br/>
+- [ComboBox Object Members](overview/Access.md)
 

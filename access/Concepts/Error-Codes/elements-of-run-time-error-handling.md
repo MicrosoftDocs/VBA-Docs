@@ -19,7 +19,7 @@ If you've implemented no error handling, then Visual Basic halts execution and d
 
 When adding error handling to a procedure, you should consider how the procedure will route execution when an error occurs. The first step in routing execution to an error handler is to enable an error handler by including some form of the **On Error** statement within the procedure. The **On Error** statement directs execution in event of an error. If there's no **On Error** statement, Visual Basic simply halts execution and displays an error message when an error occurs.
 
-When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO **Error** object, the Visual Basic [Err Object](../../../language/reference/User-Interface-Help/err-object.md) **Err** object, and the DAO **Error** object.
+When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO **Error** object, the Visual Basic **[Err](../../../language/reference/User-Interface-Help/err-object.md)** object, and the DAO **Error** object.
 
 
 ## Routing execution when an error occurs
@@ -113,15 +113,15 @@ After execution has passed to the error-handling routine, your code must determi
 
 The language elements available for error handling include:
 
-- The **Err** object.
+- **Err** object
     
-- The ADO **Error** object and **Errors** collection
+- ADO **Error** object and **Errors** collection
     
-- The DAO **Error** object and **Errors** collection.
+- DAO **Error** object and **Errors** collection
     
-- The **AccessError** method.
+- **AccessError** method
     
-- The **Error** event.
+- **Error** event
     
 ### Err object
 
@@ -183,20 +183,15 @@ You can use the Error event to trap errors that occur on an Access form or repor
 The Error event procedure takes an integer argument, DataErr. When an Error event procedure runs, the DataErr argument contains the number of the Access error that occurred. Checking the value of the DataErr argument within the event procedure is the only way to determine the number of the error that occurred. The **Err** object isn't populated with error information after the Error event occurs. You can use the value of the DataErr argument together with the **AccessError** method to determine the number of the error and its descriptive string.
 
 > [!NOTE] 
-> The **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.
-
-**Link provided by:** The[UtterAccess](https://www.utteraccess.com) community
-
-- [Handling Access Errors with VBA](https://www.utteraccess.com/wiki/index.php/Error_Handling)
-    
+> The **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.  
 
 ### About the contributors
 
-**Link provided by:** The [UtterAccess](https://www.utteraccess.com) community
+**Link provided by** ![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Handling Access Errors with VBA](https://www.utteraccess.com/wiki/index.php/Error_Handling)
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 ## See also
 
