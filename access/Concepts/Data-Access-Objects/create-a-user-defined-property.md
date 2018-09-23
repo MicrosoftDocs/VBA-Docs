@@ -1,14 +1,14 @@
 ---
-title: Create a User-Defined Property
+title: Create a user-defined property
 ms.prod: access
 ms.assetid: 49d2fede-2fb5-0b1b-42cd-6147756ea1ca
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Create a User-Defined Property
+# Create a user-defined property
 
-The following example attempts to set the value of a user-defined property. If the property does not exist, it uses the  **[CreateProperty](../../../api/overview/Access.md)** method to create and set the value of the new property.
+The following example attempts to set the value of a user-defined property. If the property does not exist, it uses the **[CreateProperty](../../../api/overview/Access.md)** method to create and set the value of the new property.
 
 
 ```vb

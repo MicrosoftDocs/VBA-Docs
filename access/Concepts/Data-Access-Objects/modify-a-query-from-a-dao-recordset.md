@@ -1,16 +1,16 @@
 ---
-title: Modify a Query from a DAO Recordset
+title: Modify a query from a DAO Recordset
 ms.prod: access
 ms.assetid: b5679ca8-9bcd-2d28-15af-2640db727dd4
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Modify a Query from a DAO Recordset
+# Modify a query from a DAO Recordset
 
-You can use the  **[Requery](../../../api/overview/Access.md)** method on a dynaset-type or snapshot-type **[Recordset](../../../api/overview/Access.md)** object when you want to run the underlying query again after changing a parameter. This is more convenient than opening a new **Recordset**, and it runs faster.
+You can use the **[Requery](../../../api/overview/Access.md)** method on a dynaset-type or snapshot-type **[Recordset](../../../api/overview/Access.md)** object when you want to run the underlying query again after changing a parameter. This is more convenient than opening a new **Recordset**, and it runs faster.
 
-The following code example creates a  **Recordset** object and passes it to a function that uses the **[CopyQueryDef](../../../api/overview/Access.md)** method to extract the equivalent SQL string. It then prompts the user to add an additional constraint clause to the query. The code uses the **Requery** method to run the modified query.
+The following code example creates a **Recordset** object and passes it to a function that uses the **[CopyQueryDef](../../../api/overview/Access.md)** method to extract the equivalent SQL string. It then prompts the user to add an additional constraint clause to the query. The code uses the **Requery** method to run the modified query.
 
 
 
@@ -91,7 +91,7 @@ ErrorHandler:
 End Sub
 ```
 
-
- **Note**  To use the  **Requery** method, the **[Restartable](../../../api/overview/Access.md)** property of the **Recordset** object must be set to **True**. The **Restartable** property is always set to **True** when the **Recordset** is created from a query other than a crosstab query against tables in an Access database. You cannot restart SQL pass-through queries. You may or may not be able to restart queries against linked tables in another database format. To determine whether a **Recordset** object can rerun its query, check the **Restartable** property.
+> [!NOTE] 
+> To use the **Requery** method, the **[Restartable](../../../api/overview/Access.md)** property of the **Recordset** object must be set to **True**. The **Restartable** property is always set to **True** when the **Recordset** is created from a query other than a crosstab query against tables in an Access database. You cannot restart SQL pass-through queries. You may or may not be able to restart queries against linked tables in another database format. To determine whether a **Recordset** object can rerun its query, check the **Restartable** property.
 
 

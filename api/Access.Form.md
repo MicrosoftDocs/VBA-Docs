@@ -63,26 +63,17 @@ Forms!OrderForm.ctlSubForm.Form!Controls.NewData
 Forms!OrderForm.ctlSubForm!NewData
 ```
 
- **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
+**Links provided by** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
 
-
-- [Microsoft Access Form Tips and Avoiding Common Mistakes](https://www.fmsinc.com/tpapers/genaccess/formtips.html)
-    
+- [Microsoft Access Form Tips and Avoiding Common Mistakes](https://www.fmsinc.com/tpapers/genaccess/formtips.html)  
 - [Microsoft Office Access 2007 Form Design Tips](https://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.html)
     
- **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
-
-- [Display Pictures on a Form](https://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)
-    
-- [Display Related Data](https://www.utteraccess.com/wiki/index.php/Display_Related_Data)
-    
-- [Opening a Detail Form to Related Information](https://www.utteraccess.com/wiki/index.php/Forms:_Open_a_Detail_Form_to_Related_Information)
-    
-- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
+- [Display Pictures on a Form](https://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)   
+- [Display Related Data](https://www.utteraccess.com/wiki/index.php/Display_Related_Data)   
+- [Opening a Detail Form to Related Information](https://www.utteraccess.com/wiki/index.php/Forms:_Open_a_Detail_Form_to_Related_Information)   
+- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)   
 - [Referring To Properties And Controls On Subforms](https://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
     
 
@@ -92,8 +83,7 @@ The following example shows how to use  **TextBox** controls to supply date crit
 
 UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
- **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Sample code provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 
 
@@ -146,7 +136,7 @@ End Sub
 
 The following example shows how to use the  **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+**Sample code provided by** the [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html).
 
 
 
@@ -483,7 +473,8 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 
 ## See also
-[Access Object Model Reference](overview/Access/object-model.md)
+
+- [Access Object Model Reference](overview/Access/object-model.md)
 
 
 

@@ -64,12 +64,12 @@ Modules can be sent only in MS-DOS Text format, so if you specify **acSendModule
 > [!NOTE]
 > You can save as a PDF or XPS file from a 2007 Microsoft Office system program only after you install an add-in. For more information, search for "Enable support for other file formats, such as PDF and XPS" on the Office Web site.
 
-**Link provided by:**  ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
+**Link provided by** Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
 
 - [Features and Limits of Using the SendObject Method to Send Emails](https://www.fmsinc.com/microsoftaccess/email/sendobject.html)
     
 
-**Link provided by:**  ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Link provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Email from Access](https://www.utteraccess.com/forum/Email-Access-t130485.html)
     
@@ -87,7 +87,7 @@ DoCmd.SendObject acSendTable, "Employees", acFormatXLS, _
 
 The following example shows how to create an email message with Microsoft Outlook and display it to the user.
 
-**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+**Sample code provided by** the [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html).
 
 
 ```vb
@@ -155,11 +155,11 @@ Luke Chung is the founder and president of FMS, Inc., a leading provider of cust
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Microsoft Access wiki and help forum.  
 
 
 ## See also
 
-[DoCmd Object](Access.DoCmd.md)
+- [DoCmd Object](Access.DoCmd.md)
 
 

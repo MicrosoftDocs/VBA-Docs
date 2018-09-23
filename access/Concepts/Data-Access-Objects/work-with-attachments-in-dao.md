@@ -1,31 +1,29 @@
 ---
-title: Work With Attachments In DAO
+title: Work with attachments in DAO
 ms.prod: access
 ms.assetid: e175a47a-4d97-b93b-c152-809314ac5ba0
-ms.date: 06/08/2017
+ms.date: 09/21/2018
 ---
 
 
-# Work With Attachments In DAO
+# Work with attachments in DAO
 
-In DAO, Attachment fields function just like other multi-valued fields. The field that contains the attachment contains a recordset that is a child to the table's recordset. There are two new DAO methods,  **[LoadFromFile](../../../api/overview/Access.md)** and **[SaveToFile](../../../api/overview/Access.md)**, that deal exclusively with attachments.
+In DAO, Attachment fields function just like other multi-valued fields. The field that contains the attachment contains a recordset that is a child to the table's recordset. There are two new DAO methods, **[LoadFromFile](../../../api/overview/Access.md)** and **[SaveToFile](../../../api/overview/Access.md)**, that deal exclusively with attachments.
 
 
-## Add an Attachment to a Record
+## Add an attachment to a record
 
-The  **LoadFromFile** method loads a file from disk and adds the file as an attachment to the specified record. The following code example shows the syntax of the **LoadFromFile** method.
+The **LoadFromFile** method loads a file from disk and adds the file as an attachment to the specified record. The following code example shows the syntax of the **LoadFromFile** method.
 
 
 ```vb
 Recordset.Fields("FileData").LoadFromFile(<filename>)
 ```
 
+> [!NOTE] 
+> The **FileData** field is reserved internally by the Access database engine to store the binary attachment data.
 
- **Note**  The  **FileData** field is reserved internally by the Access database engine to store the binary attachment data.
-
-The following code example uses the  **LoadFromFile** method to load an employee's picture from disk.
-
-
+The following code example uses the **LoadFromFile** method to load an employee's picture from disk.
 
 
 ```vb
@@ -51,9 +49,9 @@ The following code example uses the  **LoadFromFile** method to load an employee
 ```
 
 
-## Save an Attachment to Disk
+## Save an attachment to disk
 
-The following code example shows how to use the  **SaveToFile** method to save all of the attachments for a specific employee to disk.
+The following code example shows how to use the **SaveToFile** method to save all of the attachments for a specific employee to disk.
 
 
 ```vb

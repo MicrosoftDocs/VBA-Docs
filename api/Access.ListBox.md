@@ -37,10 +37,7 @@ You can use an unbound list box to store a value that you can use with another c
 
 If you don't have room on your form to display a list box, or if you want to be able to type new values as well as select values from a list, use a combo box instead of a list box.
 
- **Links provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
-
-
+ **Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 - [Create a Query that uses a Multi-select Listbox as Criteria](https://www.utteraccess.com/forum/Creating-Query-Multi-t414388.html)
     
@@ -59,8 +56,7 @@ In this example, a list box named ColorID displays a list of colors stored in th
 
 To do this, use the Change event of the text box to build a SQL statement that will serve as the new RowSource of the list box.
 
- **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](https://www.utteraccess.com) community
+**Sample code provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
 
 
@@ -249,14 +245,19 @@ End Sub
 |[Visible](Access.ListBox.Visible.md)|
 |[Width](Access.ListBox.Width.md)|
 
+
 ### About the contributors
 
-
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
-
+UtterAccess is the premier Microsoft Access wiki and help forum.
 
 ## See also
 
-[Access Object Model Reference](overview/Access/object-model.md)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+- [Access object model reference](overview/Access/object-model.md)
+- [SubForm object members](overview/Access.md)
 
 
