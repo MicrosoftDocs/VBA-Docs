@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.WarpFormat Property (Excel)
 
-Returns or sets the warp type for the specified text frame. Read/write  **[MsoWarpFormat](Excel.TextFrame2.WarpFormat.md)** .
+Returns or sets the warp type for the specified text frame. Read/write  **[MsoWarpFormat](./Office.MsoWarpFormat.md)** .
 
 
 ## Syntax
