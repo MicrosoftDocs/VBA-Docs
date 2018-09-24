@@ -116,7 +116,7 @@ Dynamic ranges have the following advantages and disadvantages:
 
 ## Improve lookup calculation time
 
-In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before when looking up multiple columns (or rows with HLOOKUP) from the same table range.
+In Office 365 version 1809 and later, Excel's VLOOKUP, HLOOKUP, and MATCH for exact match on unsorted data is much faster than ever before when looking up multiple columns (or rows with HLOOKUP) from the same table range.
 
 That said, for earlier Excel versions, Lookups continue to be frequently significant calculation obstructions. Fortunately, there are many ways of improving lookup calculation time. If you use the exact match option, the calculation time for the function is proportional to the number of cells scanned before a match is found. For lookups over large ranges, this time can be significant.
 
