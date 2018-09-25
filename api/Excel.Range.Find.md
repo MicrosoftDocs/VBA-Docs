@@ -50,7 +50,7 @@ This method returns  **Nothing** if no match is found. The **Find** method does 
 
 The settings for  _LookIn_,  _LookAt_,  _SearchOrder_, and  _MatchByte_ are saved each time you use this method. If you do not specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 
-You can use the [FindNext](Excel.Range.FindNext.md) and[FindPrevious](Excel.Range.FindPrevious.md) methods to repeat the search.
+You can use the [FindNext](Excel.Range.FindNext.md) and [FindPrevious](Excel.Range.FindPrevious.md) methods to repeat the search.
 
 When the search reaches the end of the specified search range, it wraps around to the beginning of the range. To stop a search when this wraparound occurs, save the address of the first found cell, and then test each successive found-cell address against this saved address.
 
@@ -79,7 +79,7 @@ With Worksheets(1).Range("a1:a500")
 End With
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
 This example takes a path and name of a workbook and a search term, and searches the specified workbook for the search term. If the search term is found, the address of the result is stored in cell D10 of the current workbook.
 

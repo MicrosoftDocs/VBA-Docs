@@ -18,7 +18,7 @@ Returns the rank of a value in a data set as a percentage of the data set. This 
 
  **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 
-For more information about the new functions, see the [Percentile_Inc](Excel.WorksheetFunction.Percentile_Inc.md) and[Percentile_Exc](Excel.WorksheetFunction.Percentile_Exc.md) method.
+For more information about the new functions, see the [Percentile_Inc](Excel.WorksheetFunction.Percentile_Inc.md) and [Percentile_Exc](Excel.WorksheetFunction.Percentile_Exc.md) method.
 
 ## Syntax
 

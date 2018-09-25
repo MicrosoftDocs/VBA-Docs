@@ -18,7 +18,7 @@ Returns a single object from the [FullSeriesCollection Object (Excel)](Excel.ful
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a[FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
+ _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
 
 
 ### Parameters

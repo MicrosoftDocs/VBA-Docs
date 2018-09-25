@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Expected array
 
-A [variable](../../Glossary/vbe-glossary.md#variable) name with a subscript indicates the variable is an[array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
+A [variable](../../Glossary/vbe-glossary.md#variable) name with a subscript indicates the variable is an [array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
 
 
 

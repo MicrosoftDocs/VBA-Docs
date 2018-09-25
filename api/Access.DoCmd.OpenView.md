@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.OpenView Method (Access)
 
-The  **OpenView** method carries out the[OpenView](overview/Access.md) action in Visual Basic.
+The  **OpenView** method carries out the [OpenView](overview/Access.md) action in Visual Basic.
 
 
 ## Syntax

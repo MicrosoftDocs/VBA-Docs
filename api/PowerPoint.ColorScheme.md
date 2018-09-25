@@ -55,7 +55,7 @@ Set newStandardScheme = _
 ActivePresentation.SlideMaster.ColorScheme = newStandardScheme
 ```
 
-Use the [Colors](PowerPoint.ColorScheme.Colors.md)method to return an  **RGBColor** object that represents the color of a single slide-element type. You can set an **RGBColor** object to another **RGBColor** object, or you can use the[RGB](PowerPoint.ColorFormat.RGB.md)property to set or return the explicit red-green-blue (RGB) value for an  **RGBColor** object. The following example sets the background color in color scheme one to red and sets the title color to the title color that's defined for color scheme two.
+Use the [Colors](PowerPoint.ColorScheme.Colors.md)method to return an  **RGBColor** object that represents the color of a single slide-element type. You can set an **RGBColor** object to another **RGBColor** object, or you can use the [RGB](PowerPoint.ColorFormat.RGB.md)property to set or return the explicit red-green-blue (RGB) value for an  **RGBColor** object. The following example sets the background color in color scheme one to red and sets the title color to the title color that's defined for color scheme two.
 
 
 

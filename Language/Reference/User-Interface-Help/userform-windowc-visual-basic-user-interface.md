@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Allows you to create the windows or dialog boxes in your project. You draw and view [controls](../../Glossary/vbe-glossary.md#control) on a[form](../../Glossary/vbe-glossary.md#form).
+Allows you to create the windows or dialog boxes in your project. You draw and view [controls](../../Glossary/vbe-glossary.md#control) on a [form](../../Glossary/vbe-glossary.md#form).
 
 While you are designing a form:
 

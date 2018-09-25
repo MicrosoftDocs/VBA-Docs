@@ -39,7 +39,7 @@ With ActivePresentation
 End With
 ```
 
-Use the [RangeType](PowerPoint.PrintOptions.RangeType.md) property to specify whether to print the entire presentation or only a specified part of it. If you want to print only certain slides, set the **RangeType** property to **ppPrintSlideRange**, and use the[Ranges](PowerPoint.PrintOptions.Ranges.md) property to specify which pages to print. The following example prints slides 1, 4, 5, and 6 in the active presentation
+Use the [RangeType](PowerPoint.PrintOptions.RangeType.md) property to specify whether to print the entire presentation or only a specified part of it. If you want to print only certain slides, set the **RangeType** property to **ppPrintSlideRange**, and use the [Ranges](PowerPoint.PrintOptions.Ranges.md) property to specify which pages to print. The following example prints slides 1, 4, 5, and 6 in the active presentation
 
 
 

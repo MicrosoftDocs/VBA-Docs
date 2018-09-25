@@ -24,7 +24,7 @@ The  **CreateEventProc** syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
-| _eventname_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the event you want to add to the[module](../../Glossary/vbe-glossary.md#module).|
+| _eventname_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the event you want to add to the [module](../../Glossary/vbe-glossary.md#module).|
 | _objectname_|Required. A string expression specifying the name of the object that is the source of the event.|
 
 ## Remarks
@@ -37,5 +37,5 @@ Use the  **CreateEventProc** method to create an event procedure. For example, t
 TextLocation = CM.CreateEventProc("Click", "Command1")
 ```
 
-The  **CreateEventProc** method returns the line at which the body of the event procedure starts. **CreateEventProc** fails if the[arguments](../../Glossary/vbe-glossary.md#argument) refer to a nonexistent event.
+The  **CreateEventProc** method returns the line at which the body of the event procedure starts. **CreateEventProc** fails if the [arguments](../../Glossary/vbe-glossary.md#argument) refer to a nonexistent event.
 

@@ -30,6 +30,6 @@ Repeats the last search and returns  **True** if the search value is found.
 
 ## Remarks
 
-The  **FindPrevious** method is functionally identical to the[FindNext method](Project.Application.FindNext.md). It is retained for compatibility with previous versions of Project.
+The  **FindPrevious** method is functionally identical to the [FindNext method](Project.Application.FindNext.md). It is retained for compatibility with previous versions of Project.
 
 

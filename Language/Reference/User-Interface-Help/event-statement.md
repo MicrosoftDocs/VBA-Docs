@@ -22,7 +22,7 @@ The  **Event** statement has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**Public**|Optional. Specifies that the  **Event** visible throughout the[project](../../Glossary/vbe-glossary.md#project).  **Events** types are **Public** by default. Note that events can only be raised in the[module](../../Glossary/vbe-glossary.md#module) in which they are declared.|
+|**Public**|Optional. Specifies that the  **Event** visible throughout the [project](../../Glossary/vbe-glossary.md#project).  **Events** types are **Public** by default. Note that events can only be raised in the [module](../../Glossary/vbe-glossary.md#module) in which they are declared.|
 | _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
 
 The  _arglist_ argument has the following syntax and parts:
@@ -31,14 +31,14 @@ The  _arglist_ argument has the following syntax and parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**ByVal**|Optional. Indicates that the [argument](../../Glossary/vbe-glossary.md#argument) is passed[by value](../../Glossary/vbe-glossary.md#by-value).|
+|**ByVal**|Optional. Indicates that the [argument](../../Glossary/vbe-glossary.md#argument) is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
 |**ByRef**|Optional. Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference).  **ByRef** is the default in Visual Basic.|
 | _varname_|Required. Name of the variable representing the argument being passed to the [procedure](../../Glossary/vbe-glossary.md#procedure); follows standard variable naming conventions.|
-| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the argument passed to the procedure; may be[Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported),[Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only),[Object](../../Glossary/vbe-glossary.md#object), [Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an object type.|
+| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the argument passed to the procedure; may be [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported), [Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only), [Object](../../Glossary/vbe-glossary.md#object), [Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an object type.|
 
 ## Remarks
 
-Once the event has been declared, use the  **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a[standard module](../../Glossary/vbe-glossary.md#standard-module). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
+Once the event has been declared, use the  **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a [standard module](../../Glossary/vbe-glossary.md#standard-module). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
 
 
 

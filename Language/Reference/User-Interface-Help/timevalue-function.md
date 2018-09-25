@@ -18,7 +18,7 @@ Returns a  **Variant** (**Date**) containing the time.
 ## Syntax
 
 **TimeValue(**_time_**)**
-The required  _time_[argument](../../Glossary/vbe-glossary.md#argument) is normally a[string expression](../../Glossary/vbe-glossary.md#string-expression) representing a time from 0:00:00 (12:00:00 A.M.) to 23:59:59 (11:59:59 P.M.), inclusive. However, _time_ can also be any[expression](../../Glossary/vbe-glossary.md#expression) that represents a time in that range. If _time_ contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.
+The required  _time_[argument](../../Glossary/vbe-glossary.md#argument) is normally a [string expression](../../Glossary/vbe-glossary.md#string-expression) representing a time from 0:00:00 (12:00:00 A.M.) to 23:59:59 (11:59:59 P.M.), inclusive. However, _time_ can also be any[expression](../../Glossary/vbe-glossary.md#expression) that represents a time in that range. If _time_ contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.
 
 ## Remarks
 

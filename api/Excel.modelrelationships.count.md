@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelRelationships.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of a[ModelRelationship Object (Excel)](Excel.modelrelationship.md) objects in a[ModelRelationships Object (Excel)](Excel.modelrelationships.md) object. Read-only.
+Returns a  **Long** value that represents the number of a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) objects in a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Count`
 
- _expression_ A variable that represents a[ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
+ _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
 
 
 ## Property value

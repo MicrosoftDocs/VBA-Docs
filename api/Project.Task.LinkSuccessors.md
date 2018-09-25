@@ -27,7 +27,7 @@ Adds one or more successors to the task.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Tasks_|Required|**Object**|The  **Task** or **Tasks** object specified becomes a successor of the task specified with **expression**.|
-| _Link_|Optional|**Long**| A constant that specifies the relationship between tasks that become linked. Can be one of the[PjTaskLinkType](Project.PjTaskLinkType.md) constants. The default value is **pjFinishToStart**.|
+| _Link_|Optional|**Long**| A constant that specifies the relationship between tasks that become linked. Can be one of the [PjTaskLinkType](Project.PjTaskLinkType.md) constants. The default value is **pjFinishToStart**.|
 | _Lag_|Optional|**Variant**|A string that specifies the duration of lag time between linked tasks. To specify lead time between tasks, use an expression for  **Lag** that evaluates to a negative value.|
 
 ### Return Value

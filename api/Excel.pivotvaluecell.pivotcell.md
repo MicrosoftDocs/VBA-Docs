@@ -18,7 +18,7 @@ Returns the [PivotCell Object (Excel)](Excel.PivotCell.md) that specifies the lo
 
  _expression_. `PivotCell`
 
- _expression_ A variable that represents a[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+ _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
 
 
 ## Example

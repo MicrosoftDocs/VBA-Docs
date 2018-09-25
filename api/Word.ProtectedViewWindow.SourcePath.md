@@ -25,7 +25,7 @@ Returns the path of the source file for the specified protected view window. Rea
 
 ## Remarks
 
-The path does not include a trailing character (for example, "C:\MSOffice"). Use the [PathSeparator](Word.Application.PathSeparator.md) property to add the character that separates folders and drive letters. Use the[SourceName](Word.LinkFormat.SourceName.md) property to return the file name without the path.
+The path does not include a trailing character (for example, "C:\MSOffice"). Use the [PathSeparator](Word.Application.PathSeparator.md) property to add the character that separates folders and drive letters. Use the [SourceName](Word.LinkFormat.SourceName.md) property to return the file name without the path.
 
 
 ## Example

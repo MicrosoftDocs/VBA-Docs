@@ -42,6 +42,6 @@ Dim appXL As Object
 
 ```
 
-If you set a reference to an application's type library, all of its objects and their [methods](../Glossary/vbe-glossary.md#method) and[properties](../Glossary/vbe-glossary.md#property) are listed in the **Object Browser**. This makes it easy to determine what properties and methods are available to each object.
+If you set a reference to an application's type library, all of its objects and their [methods](../Glossary/vbe-glossary.md#method) and [properties](../Glossary/vbe-glossary.md#property) are listed in the **Object Browser**. This makes it easy to determine what properties and methods are available to each object.
 For Microsoft applications that can also serve as Automation servers, you can set references to their type libraries from another application, and control their objects from that application.
 

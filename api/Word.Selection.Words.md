@@ -25,7 +25,7 @@ Returns a  **[Words](Word.words.md)** collection that represents all the words i
 
 ## Remarks
 
-Punctuation and paragraph marks in a document are included in the  **[Words](Word.words.md)** collection. For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Punctuation and paragraph marks in a document are included in the  **[Words](Word.words.md)** collection. For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

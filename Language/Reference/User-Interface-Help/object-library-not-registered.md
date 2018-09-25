@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object library not registered
 
-The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
+The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
 
 In earlier versions, when you started an application that uses Visual Basic for Applications, certain object libraries were loaded. This error has the following cause and solution:
 

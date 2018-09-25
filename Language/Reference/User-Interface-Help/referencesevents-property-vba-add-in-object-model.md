@@ -24,5 +24,5 @@ The setting for the [argument](../../Glossary/vbe-glossary.md#argument) you pass
 
 ## Remarks
 
-The  **ReferencesEvents** property takes an argument and returns an[event source object](../../Glossary/vbe-glossary.md#event-source-object). The  **ReferencesEvents** object is the source for events that are triggered when references are added or removed.
+The  **ReferencesEvents** property takes an argument and returns an [event source object](../../Glossary/vbe-glossary.md#event-source-object). The  **ReferencesEvents** object is the source for events that are triggered when references are added or removed.
 

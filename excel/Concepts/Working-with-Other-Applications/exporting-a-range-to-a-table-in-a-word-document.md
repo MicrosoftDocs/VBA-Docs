@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 
 This example takes the range A1:A10 on Sheet 1 and exports it to the first table in an existing Word document named &;quot;Table Report&;quot;.
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 
 

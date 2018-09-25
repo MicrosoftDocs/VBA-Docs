@@ -20,7 +20,7 @@ Returns the replacement shape to drop. Read-only.
 
 ## Remarks
 
-The replacement shape is an object of type [Master](Visio.Master.md) or[MasterShortcut](Visio.MasterShortcut.md).
+The replacement shape is an object of type [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md).
 
 
 ## Property value

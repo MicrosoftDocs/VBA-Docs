@@ -18,7 +18,7 @@ Returns the associated measure group.  **String** Read-only
 
  _expression_. `MeasureGroup`
 
- _expression_ A variable that represents a[CalculatedMember](Excel.CalculatedMember.md) object.
+ _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
 
 
 ## Property value

@@ -21,7 +21,7 @@ You can use the chart control to embed a chart that displays Microsoft Access da
 When you place a chart control on a form or report, Microsoft Access displays the Chart Wizard to help you create the chart.
 
 > [!NOTE] 
-> To embed or link a chart containing data from other applications, use an [unbound object frame](unbound-object-frame-control.md) or[bound object frame](bound-object-frame-control.md) control.
+> To embed or link a chart containing data from other applications, use an [unbound object frame](unbound-object-frame-control.md) or [bound object frame](bound-object-frame-control.md) control.
 
 ## See also
 

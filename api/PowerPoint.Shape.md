@@ -109,11 +109,11 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
     .TextRange.Font.Italic = True
 ```
 
-To return a  **Shape** object that represents one of the shapes attached by a connector, use the[BeginConnectedShape](./PowerPoint.ConnectorFormat.BeginConnectedShape.md)or [EndConnectedShape](./PowerPoint.ConnectorFormat.EndConnectedShape.md)property.
+To return a  **Shape** object that represents one of the shapes attached by a connector, use the [BeginConnectedShape](./PowerPoint.ConnectorFormat.BeginConnectedShape.md) or [EndConnectedShape](./PowerPoint.ConnectorFormat.EndConnectedShape.md)property.
 
 
 
-To return a  **Shape** object that represents the default shape for a presentation, use the[DefaultShape](./PowerPoint.Presentation.DefaultShape.md)property.
+To return a  **Shape** object that represents the default shape for a presentation, use the [DefaultShape](./PowerPoint.Presentation.DefaultShape.md)property.
 
 
 
@@ -121,7 +121,7 @@ Use the [BuildFreeform](./PowerPoint.Shapes.BuildFreeform.md)and [AddNodes](./Po
 
 Use  **GroupItems** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
 
-Use the [Group](./PowerPoint.ShapeRange.Group.md)or [Regroup](./PowerPoint.ShapeRange.Regroup.md)method to group a range of shapes and return a single  **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
+Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.ShapeRange.Regroup.md)method to group a range of shapes and return a single  **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
 
 
 ## Methods

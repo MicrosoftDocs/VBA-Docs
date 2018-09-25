@@ -45,7 +45,7 @@ For Each col In Worksheets("Sheet1").Columns
 Next col
 ```
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
 
 This example deletes the empty columns from a selected range.
 

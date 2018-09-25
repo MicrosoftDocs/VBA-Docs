@@ -19,7 +19,7 @@ A collection of all the  **[PivotTable](Excel.PivotTable.md)** objects in the sp
 ## Remarks
 
 
- **Note**  The [Workbook.PivotTables](Excel.workbook.pivottables.md) property (which is new for Office) does not return all the **PivotTable** objects in the workbook; instead it returns only those associated with decoupled PivotCharts. However,[Worksheet.PivotTables](Excel.Worksheet.PivotTables.md) returns all the **PivotTable** objects in the worksheet, irrespective of whether they are associated with decoupled PivotCharts.
+ **Note**  The [Workbook.PivotTables](Excel.workbook.pivottables.md) property (which is new for Office) does not return all the **PivotTable** objects in the workbook; instead it returns only those associated with decoupled PivotCharts. However, [Worksheet.PivotTables](Excel.Worksheet.PivotTables.md) returns all the **PivotTable** objects in the worksheet, irrespective of whether they are associated with decoupled PivotCharts.
 
 Because PivotTable report programming can be complex, it's generally easiest to record PivotTable report actions and then revise the recorded code.
 

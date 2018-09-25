@@ -30,7 +30,7 @@ The  **^** operator syntax has these parts:
 ## Remarks
 
 A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md#expression), the  **^** operator is evaluated as it is encountered from left to right.
-Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a[Double](../../Glossary/vbe-glossary.md#double-data-type) or a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](../../Glossary/vbe-glossary.md#null) expression, _result_ is **Null**.
+Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a **Double**. However, if either _number_ or _exponent_ is a [Null](../../Glossary/vbe-glossary.md#null) expression, _result_ is **Null**.
 
 ## Example
 

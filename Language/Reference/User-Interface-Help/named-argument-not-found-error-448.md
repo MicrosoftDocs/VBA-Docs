@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Named argument not found (Error 448)
 
-A [named argument](../../Glossary/vbe-glossary.md#named-argument) may not be used in a procedure invocation unless it appears in the[procedure](../../Glossary/vbe-glossary.md#procedure) definition. This error has the following cause and solution:
+A [named argument](../../Glossary/vbe-glossary.md#named-argument) may not be used in a procedure invocation unless it appears in the [procedure](../../Glossary/vbe-glossary.md#procedure) definition. This error has the following cause and solution:
 
 
 

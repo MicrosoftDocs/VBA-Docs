@@ -25,7 +25,7 @@ Private Sub Application_**Quit**()
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+For information about using events with the  **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Example

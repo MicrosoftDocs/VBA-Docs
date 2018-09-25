@@ -29,5 +29,5 @@ The Click event syntax has these [named arguments](../../Glossary/vbe-glossary.m
 
 ## Remarks
 
-The Click event is specific to the  **CommandBarEvents** object. Use a[variable](../../Glossary/vbe-glossary.md#variable) declared using the **WithEvents** keyword to receive the Click event for a **CommandBar** control. This variable should be set to the return value of the **CommandBarEvents** property of the **Events** object. The **CommandBarEvents** property takes the **CommandBar** control as an[argument](../../Glossary/vbe-glossary.md#argument). When the  **CommandBar** control is clicked (for the variable you declared using the **WithEvents** keyword), the code is executed.
+The Click event is specific to the  **CommandBarEvents** object. Use a [variable](../../Glossary/vbe-glossary.md#variable) declared using the **WithEvents** keyword to receive the Click event for a **CommandBar** control. This variable should be set to the return value of the **CommandBarEvents** property of the **Events** object. The **CommandBarEvents** property takes the **CommandBar** control as an [argument](../../Glossary/vbe-glossary.md#argument). When the  **CommandBar** control is clicked (for the variable you declared using the **WithEvents** keyword), the code is executed.
 

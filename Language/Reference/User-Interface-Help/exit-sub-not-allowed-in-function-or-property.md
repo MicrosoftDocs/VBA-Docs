@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Exit Sub not allowed in Function or Property
 
-An  **Exit** statement must match the[procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
+An  **Exit** statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
 
 
 

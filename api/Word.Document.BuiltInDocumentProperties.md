@@ -27,7 +27,7 @@ Returns a  **DocumentProperties** collection that represents all the built-in do
 
 To return a single  **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
 
- For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+ For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 Use the  **CustomDocumentProperties** property to return the collection of custom document properties.
 

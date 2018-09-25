@@ -34,7 +34,7 @@ The  **DocumentCreated** event is often added to the **EventList** collection of
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](../visio/Concepts/event-codesvisio.md).
+If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 You can add  **DocumentCreated** events to the **EventList** collection of an **Application** object, **Documents** collection, or **Document** object. The first two are straightforward; if a document is opened or created in the scope of the **Application** object or its **Documents** collection, the **DocumentCreated** event occurs.
 

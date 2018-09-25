@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-For the  **References** collection, adds a reference to a[project](../../Glossary/vbe-glossary.md#project) from a file. For the **CodeModule** object, adds the contents of a file to a[module](../../Glossary/vbe-glossary.md#module).
+For the  **References** collection, adds a reference to a [project](../../Glossary/vbe-glossary.md#project) from a file. For the **CodeModule** object, adds the contents of a file to a [module](../../Glossary/vbe-glossary.md#module).
 
 ## Syntax
 
@@ -28,5 +28,5 @@ The  **AddFromFile** syntax has these parts:
 
 ## Remarks
 
-For the  **CodeModule** object, the **AddFromFile** method inserts the contents of the file starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md#procedure) in the[code module](../../Glossary/vbe-glossary.md#code-module). If the module doesn't contain procedures,  **AddFromFile** places the contents of the file at the end of the module.
+For the  **CodeModule** object, the **AddFromFile** method inserts the contents of the file starting on the line preceding the first[procedure](../../Glossary/vbe-glossary.md#procedure) in the [code module](../../Glossary/vbe-glossary.md#code-module). If the module doesn't contain procedures,  **AddFromFile** places the contents of the file at the end of the module.
 

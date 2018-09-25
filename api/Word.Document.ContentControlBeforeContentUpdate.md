@@ -37,7 +37,7 @@ Private Sub  _expression_ _'ContentControlBeforeContentUpdate'(**_ContentControl
 
  **Note**  This event does not occur for repeating content controls.
 
-For information about using events with the  **Document** object, see[Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+For information about using events with the  **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## See also

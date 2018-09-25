@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Represents all the [projects](../../Glossary/vbe-glossary.md#project) that are open in the[development environment](../../Glossary/vbe-glossary.md#development-environment).
+Represents all the [projects](../../Glossary/vbe-glossary.md#project) that are open in the [development environment](../../Glossary/vbe-glossary.md#development-environment).
 
 ## Remarks
 

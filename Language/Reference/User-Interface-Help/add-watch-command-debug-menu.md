@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Add Watch Command (Debug Menu)
 
-Displays the  **Add** **Watch** dialog box in which you enter a[watch expression](../../Glossary/vbe-glossary.md#watch-expression). The expression can be any valid Basic expression. Watch expressions are updated in the  **Watch** window each time you enter[break mode](../../Glossary/vbe-glossary.md#break-mode).
+Displays the  **Add** **Watch** dialog box in which you enter a [watch expression](../../Glossary/vbe-glossary.md#watch-expression). The expression can be any valid Basic expression. Watch expressions are updated in the  **Watch** window each time you enter[break mode](../../Glossary/vbe-glossary.md#break-mode).
 
 Toolbar shortcut: 
 ![Toolbar button](../../../images/tbr_addw_ZA01201668.gif).

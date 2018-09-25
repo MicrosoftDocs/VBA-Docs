@@ -17,7 +17,7 @@ Executes a method of an object, or sets or returns a property of an [object](../
 
 ## Syntax
 
-**CallByName( _object_**_, procname, calltype,[args()]_**)**
+**CallByName( _object_**_, procname, calltype, [args()]_**)**
 The  **CallByName** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 

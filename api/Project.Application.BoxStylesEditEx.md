@@ -66,6 +66,6 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the _BorderColor_ or _BackgroundColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLinksEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the[BoxStylesEdit](Project.Application.BoxStylesEdit.md) method.
+ **Note**  If you use any of the  **PjColor** enumeration constants for the _BorderColor_ or _BackgroundColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLinksEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the [BoxStylesEdit](Project.Application.BoxStylesEdit.md) method.
 
 

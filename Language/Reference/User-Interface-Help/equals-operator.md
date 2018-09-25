@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
  **Description**
-Used to assign a value to a [variable](../../Glossary/vbe-glossary.md#variable) or[property](../../Glossary/vbe-glossary.md#property).
+Used to assign a value to a [variable](../../Glossary/vbe-glossary.md#variable) or [property](../../Glossary/vbe-glossary.md#property).
 
 ## Syntax
 

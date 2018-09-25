@@ -36,7 +36,7 @@ To get information about the object returned by the  **VBProject** property, fol
 ### To get information about the object returned by the VBProject property
 
 
-1. In the  **Code** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
+1. In the  **Code** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
     
 2. In the Visual Basic Editor, on the  **Tools** menu, click **References**.
     

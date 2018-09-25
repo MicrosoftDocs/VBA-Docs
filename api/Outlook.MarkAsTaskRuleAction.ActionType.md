@@ -25,7 +25,7 @@ Returns a constant,  **olRuleActionMarkAsTask** , from the **[OlRuleActionType](
 
 ## Remarks
 
- The task marking rule action is supported only by rules for receiving messages. For more information, see[Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
+ The task marking rule action is supported only by rules for receiving messages. For more information, see [Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## See also

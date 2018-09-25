@@ -27,6 +27,6 @@ Specifies the location of a selection in the Microsoft Outlook user interface.
 
 ## Remark
 
-Used by the [Location](Outlook.Selection.Location.md) property of the[Selection](Outlook.Selection.md) object.
+Used by the [Location](Outlook.Selection.Location.md) property of the [Selection](Outlook.Selection.md) object.
 
 

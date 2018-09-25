@@ -19,10 +19,10 @@ A  **Property** procedure is a series of Visual Basic[statements](../../Glossary
     
 -  **Property** procedures should be used instead of **Public** variables in code that must be executed when the property value is set.
     
-- Unlike  **Public** variables, **Property** procedures can have Help strings assigned to them in the[Object Browser](../../Glossary/vbe-glossary.md#object-browser).
+- Unlike  **Public** variables, **Property** procedures can have Help strings assigned to them in the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).
     
 
-When you create a  **Property** procedure, it becomes a property of the[module](../../Glossary/vbe-glossary.md#module) containing the procedure. Visual Basic provides the following three types of **Property** procedures:
+When you create a  **Property** procedure, it becomes a property of the [module](../../Glossary/vbe-glossary.md#module) containing the procedure. Visual Basic provides the following three types of **Property** procedures:
 
 
 |**Procedure**|**Description**|
@@ -61,5 +61,5 @@ End Property
 
 ```
 
-The data type of the final argument in a  **Property Set** declaration must be either an[object type](../../Glossary/vbe-glossary.md#object-type) or a **Variant**.
+The data type of the final argument in a  **Property Set** declaration must be either an [object type](../../Glossary/vbe-glossary.md#object-type) or a **Variant**.
 

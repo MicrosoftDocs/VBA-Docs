@@ -26,7 +26,7 @@ If your application doesn't run, it may be because:
 
 - A [syntax error](../Glossary/vbe-glossary.md#syntax-error) or some other error exists in your code.
     
-- A [logic error](../Glossary/vbe-glossary.md#logic-error) exists in your code, which may result in a[run-time error](../Glossary/vbe-glossary.md#run-time-error).
+- A [logic error](../Glossary/vbe-glossary.md#logic-error) exists in your code, which may result in a [run-time error](../Glossary/vbe-glossary.md#run-time-error).
     
 
 To get Help, click the  **Help** button or press F1 while the error message is displayed. Consider the suggestions provided to correct the error before you run your code again.

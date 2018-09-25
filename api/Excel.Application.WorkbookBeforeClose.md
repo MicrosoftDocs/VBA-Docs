@@ -39,7 +39,7 @@ Nothing
 
 ## Example
 
-This example prompts the user for a yes or no response before closing any workbook. For more information about how to use event procedures with the  **Application** object, see[Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+This example prompts the user for a yes or no response before closing any workbook. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb

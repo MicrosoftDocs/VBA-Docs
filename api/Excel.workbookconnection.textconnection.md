@@ -18,7 +18,7 @@ Returns a [TextConnection Object (Excel)](Excel.textconnection.md) object that c
 
  _expression_. `TextConnection`
 
- _expression_ A variable that represents a[WorkbookConnection](Excel.WorkbookConnection.md) object.
+ _expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Property value

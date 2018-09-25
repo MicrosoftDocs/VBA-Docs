@@ -29,6 +29,6 @@ Describes the nature of the address.
 
 ## Remarks
 
-Used by the  **DisplayType** property of the[ExchangeDistributionList](Outlook.ExchangeDistributionList.md), [ExchangeUser](Outlook.ExchangeUser.md), and [Recipient](Outlook.Recipient.md) objects.
+Used by the  **DisplayType** property of the [ExchangeDistributionList](Outlook.ExchangeDistributionList.md), [ExchangeUser](Outlook.ExchangeUser.md), and [Recipient](Outlook.Recipient.md) objects.
 
 

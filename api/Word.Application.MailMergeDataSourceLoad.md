@@ -20,7 +20,7 @@ Occurs when the data source is loaded for a mail merge.
 
  _expression_. `Private Sub object_MailMergeDataSourceLoad`( `_ByVal Doc As Document_` )
 
- _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Generates a [run-time error](../../Glossary/vbe-glossary.md#run-time-error).
 ## Syntax
 
 _object_**.Raise  _number_,** **_source_, _description_, _helpfile_, _helpcontext_**
-The  **Raise** method has the following object qualifier and[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+The  **Raise** method has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
 |**Argument**|**Description**|

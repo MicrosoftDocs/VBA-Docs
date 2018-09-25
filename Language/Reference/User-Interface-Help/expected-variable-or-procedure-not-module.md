@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Expected variable or procedure, not module
 
-There is no [variable](../../Glossary/vbe-glossary.md#variable) or[procedure](../../Glossary/vbe-glossary.md#procedure) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [module](../../Glossary/vbe-glossary.md#module) by this name. This error has the following cause and solution:
+There is no [variable](../../Glossary/vbe-glossary.md#variable) or [procedure](../../Glossary/vbe-glossary.md#procedure) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [module](../../Glossary/vbe-glossary.md#module) by this name. This error has the following cause and solution:
 
 
 

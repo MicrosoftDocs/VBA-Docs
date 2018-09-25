@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `ColumnName`
 
- _expression_ A variable that represents a[ModelColumnChange](Excel.modelcolumnchange.md) object.
+ _expression_ A variable that represents a [ModelColumnChange](Excel.modelcolumnchange.md) object.
 
 
 ## Property value

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You tried to use the  **RSet** statement on a[variable](../../Glossary/vbe-glossary.md#variable) that isn't a string.
+- You tried to use the  **RSet** statement on a [variable](../../Glossary/vbe-glossary.md#variable) that isn't a string.
     
     If appropriate, try converting the variable to a string. Otherwise, don't use  **RSet**.
     

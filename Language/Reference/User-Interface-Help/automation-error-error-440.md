@@ -15,7 +15,7 @@ When you access [Automation objects](../../Glossary/vbe-glossary.md#automation-o
 
 
 
-- An error occurred while executing a [method](../../Glossary/vbe-glossary.md#method) or getting or setting a[property](../../Glossary/vbe-glossary.md#property) of an[object variable](../../Glossary/vbe-glossary.md#object-variable). The error was reported by the application that created the object.
+- An error occurred while executing a [method](../../Glossary/vbe-glossary.md#method) or getting or setting a [property](../../Glossary/vbe-glossary.md#property) of an [object variable](../../Glossary/vbe-glossary.md#object-variable). The error was reported by the application that created the object.
     
     Check the properties of the  **Err** object to determine the source and nature of the error. Also try using the **On Error Resume Next** statement immediately before the accessing statement, and then check for errors immediately following the accessing statement.
     

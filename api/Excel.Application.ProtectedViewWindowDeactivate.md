@@ -38,7 +38,7 @@ Occurs when a  **Protected View** window is deactivated.
 
 ## Example
 
-The following code example minimizes any  **Protected View** window when it is deactivated. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see[Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example minimizes any  **Protected View** window when it is deactivated. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb

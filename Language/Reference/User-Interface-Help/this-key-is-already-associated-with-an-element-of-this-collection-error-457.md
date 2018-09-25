@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This key is already associated with an element of this collection (Error 457)
 
-A key is a string specified in the  **Add** method that uniquely identifies a specific[member](../../Glossary/vbe-glossary.md#member) of a[collection](../../Glossary/vbe-glossary.md#collection). This error has the following cause and solution:
+A key is a string specified in the  **Add** method that uniquely identifies a specific[member](../../Glossary/vbe-glossary.md#member) of a [collection](../../Glossary/vbe-glossary.md#collection). This error has the following cause and solution:
 
 
 

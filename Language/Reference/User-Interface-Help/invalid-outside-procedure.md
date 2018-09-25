@@ -15,7 +15,7 @@ The statement must occur within a  **Sub** or **Function**, or a property proced
 
 
 
-- An executable statement,  **Static** or **ReDim**, appears at[module level](../../Glossary/vbe-glossary.md#module-level).
+- An executable statement,  **Static** or **ReDim**, appears at [module level](../../Glossary/vbe-glossary.md#module-level).
     
      **Static** is unnecessary at module level, since all module-level[variables](../../Glossary/vbe-glossary.md#variable) are static. Use **Dim** instead of **ReDim** at module level. To create a dynamic[array](../../Glossary/vbe-glossary.md#array) at module level, declare it with **Dim** using empty parentheses.
     

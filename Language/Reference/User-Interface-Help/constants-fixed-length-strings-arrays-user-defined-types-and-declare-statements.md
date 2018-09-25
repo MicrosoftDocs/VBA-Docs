@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Constants, fixed-length strings, arrays, user-defined types, and Declare statements not allowed as Public members of an object module
 
-Not all [variables](../../Glossary/vbe-glossary.md#variable) in an[object module](../../Glossary/vbe-glossary.md#object-module) can be declared as **Public**. However, procedures are **Public** by default, and **Property** procedures can be used to simulate variables syntactically. This error has the following causes and solutions:
+Not all [variables](../../Glossary/vbe-glossary.md#variable) in an [object module](../../Glossary/vbe-glossary.md#object-module) can be declared as **Public**. However, procedures are **Public** by default, and **Property** procedures can be used to simulate variables syntactically. This error has the following causes and solutions:
 
 
 

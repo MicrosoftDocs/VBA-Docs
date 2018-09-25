@@ -23,7 +23,7 @@ Returns the [NameSpace](Outlook.NameSpace.md) for the current session. Read-only
 
 ## Remarks
 
-The  **Session** property and the[GetNamespace](Outlook.Application.GetNamespace.md) method can be used interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements do the same function:
+The  **Session** property and the [GetNamespace](Outlook.Application.GetNamespace.md) method can be used interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements do the same function:
 
  `Set objNamespace = Application.Getnamespace("MAPI")`
 

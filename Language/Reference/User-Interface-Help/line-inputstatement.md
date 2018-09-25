@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Line Input # Statement
 
-Reads a single line from an open sequential file and assigns it to a [String](../../Glossary/vbe-glossary.md#string-data-type)[variable](../../Glossary/vbe-glossary.md#variable).
+Reads a single line from an open sequential file and assigns it to a [String](../../Glossary/vbe-glossary.md#string-data-type) [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 

@@ -60,7 +60,7 @@ With Worksheets("Sheet1").Cells.Font
 End With
 ```
 
- **Sample code provided by:** Tom Urtis,[Atlas Programming Management](https://www.atlaspm.com/)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/)
 
 This example toggles a sort between ascending and descending order when you double-click any cell in the data range. The data is sorted based on the column of the cell that is double-clicked.
 

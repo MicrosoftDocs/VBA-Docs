@@ -25,7 +25,7 @@ Returns an  **[AutoCorrectEntries](Word.autocorrectentries.md)** collection that
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect entries on the  **AutoCorrect** tab in the **AutoCorrect** dialog box. Read-only. For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+This list corresponds to the list of AutoCorrect entries on the  **AutoCorrect** tab in the **AutoCorrect** dialog box. Read-only. For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

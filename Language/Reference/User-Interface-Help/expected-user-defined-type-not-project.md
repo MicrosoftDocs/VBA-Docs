@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Expected user-defined type, not project
 
-There is no [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [project](../../Glossary/vbe-glossary.md#project) by this name. You can define a[variable](../../Glossary/vbe-glossary.md#variable) as having user-defined type, but not project type. This error has the following cause and solution:
+There is no [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [project](../../Glossary/vbe-glossary.md#project) by this name. You can define a [variable](../../Glossary/vbe-glossary.md#variable) as having user-defined type, but not project type. This error has the following cause and solution:
 
 
 

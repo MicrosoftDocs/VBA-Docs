@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # 'Item' property can't be set at run time (Error 382)
 
-The [property](../../Glossary/vbe-glossary.md#property) is read-only at[run time](../../Glossary/vbe-glossary.md#run-time). This error has the following cause and solution:
+The [property](../../Glossary/vbe-glossary.md#property) is read-only at [run time](../../Glossary/vbe-glossary.md#run-time). This error has the following cause and solution:
 
 
 

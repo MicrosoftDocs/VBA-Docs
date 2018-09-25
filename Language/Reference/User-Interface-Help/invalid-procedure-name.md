@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 There are restrictions in procedure-naming beyond the rules for naming [identifiers](../../Glossary/vbe-glossary.md#identifier). This error has the following cause and solution:
 
 
-- [procedure](../../Glossary/vbe-glossary.md#procedure)[host application](../../Glossary/vbe-glossary.md#host-application)
+- [procedure](../../Glossary/vbe-glossary.md#procedure) [host application](../../Glossary/vbe-glossary.md#host-application)
     
     Choose another name for the procedure.
     

@@ -39,7 +39,7 @@ The following are the fundamental distinctions between run mode and design mode:
     
 - Visio doesn't source events from any object whose document is in design mode.
     
-The run/design mode of a Visio document is reported in the Visio user interface by the  **Design Mode** control on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab. The appearance of this control is the same as that of the **Design Mode** button in the Visual Basic Editor window. If the control appears pressed, the document (project) is in design mode. If it does not appear pressed, the document (project) is in run mode.
+The run/design mode of a Visio document is reported in the Visio user interface by the  **Design Mode** control on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab. The appearance of this control is the same as that of the **Design Mode** button in the Visual Basic Editor window. If the control appears pressed, the document (project) is in design mode. If it does not appear pressed, the document (project) is in run mode.
 
 The run/design mode of a Visio document is synchronized with the run/design state of the document's Visual Basic for Applications (VBA) project, provided the document has a project. If the document transitions to or from run mode, the project's mode switches, and vice versa. This means that if code in a document's project sets the document's mode to design mode (**ThisDocument.Mode** = **visDocModeDesign**), the project in which the code runs transitions to design mode and any statements following the mode-assignment statement are not executed. However, code in a document can put another document (project) into design mode and keep running.
 

@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelR
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

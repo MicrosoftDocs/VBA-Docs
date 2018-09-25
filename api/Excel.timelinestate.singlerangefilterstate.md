@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `SingleRangeFilterState`
 
- _expression_ A variable that represents a[TimelineState](Excel.timelinestate.md) object.
+ _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value

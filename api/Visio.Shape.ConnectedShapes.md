@@ -61,7 +61,7 @@ If no qualifying connected shapes exist, the  **ConnectedShapes** method returns
 The following Visual Basic for Applications (VBA) macro shows how to use the  **ConnectedShapes** method to find the names of all the shapes at the other end of outgoing connections from a selected shape.
 
  **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png)[Fred Diggs](https://www.visiozone.com)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) [Fred Diggs](https://www.visiozone.com)
 
 
 
@@ -93,7 +93,7 @@ End Sub
 The following VBA macro shows how to use the  **ConnectedShapes** method to find the names of all the shapes at the other end of incoming connections to a selected shape.
 
  **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png)[Fred Diggs](https://www.visiozone.com)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) [Fred Diggs](https://www.visiozone.com)
 
 
 

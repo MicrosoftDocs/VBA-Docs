@@ -29,7 +29,7 @@ The following statement prints 166 in the  **Immediate** pane of the VBE. The va
 Print ActiveProject.Calendar.Years.Count
 ```
 
-Use of the  **Count** property in most collection objects is similar. For an example that uses the **Years** collection, see[Years Object](Project.years.md).
+Use of the  **Count** property in most collection objects is similar. For an example that uses the **Years** collection, see [Years Object](Project.years.md).
 
 
 ## See also

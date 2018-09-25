@@ -31,7 +31,7 @@ Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object 
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new user-defined property.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new user-defined property.|
-| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see[DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
+| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
 | _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula** .|
 
 ### Return Value

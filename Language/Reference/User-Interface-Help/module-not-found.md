@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Module not found
 
-[Modules](../../Glossary/vbe-glossary.md#module) aren't loaded from a code reference — they must be part of the[project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
+[Modules](../../Glossary/vbe-glossary.md#module) aren't loaded from a code reference — they must be part of the [project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
 
 
 

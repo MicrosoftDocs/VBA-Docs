@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 
 # Declare Statement
 
-Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare references to external[procedures](../../Glossary/vbe-glossary.md#procedure) in a[dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL).
+Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare references to external[procedures](../../Glossary/vbe-glossary.md#procedure) in a [dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL).
 
 
- **Note**  Declare statements with the [PtrSafe](ptrsafe-keyword.md) keyword is the recommended syntax. Declare statements that include **PtrSafe** work correctly in the VBA7 development environment on both 32-bit and 64-bit platforms only after all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities are updated to use[LongLong](longlong-data-type.md) for 64-bit integrals or[LongPtr](longptr-data-type.md) for pointers and handles. To ensure backwards compatibility with VBA version 6 and earlier use the following construct:
+ **Note**  Declare statements with the [PtrSafe](ptrsafe-keyword.md) keyword is the recommended syntax. Declare statements that include **PtrSafe** work correctly in the VBA7 development environment on both 32-bit and 64-bit platforms only after all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities are updated to use[LongLong](longlong-data-type.md) for 64-bit integrals or [LongPtr](longptr-data-type.md) for pointers and handles. To ensure backwards compatibility with VBA version 6 and earlier use the following construct:
 
 
 ```vb
@@ -31,7 +31,7 @@ Declare Sub...
 [ **Public** |**Private** ] **Declare** **Function**_name_**Lib** **"**_libname_**"** [ **Alias** **"**_aliasname_**"** ] [ **(** [ _arglist_ ] **)** ] [ **As**_type_ ]
 VBA7 Declare Statement Syntax
 
- **Note**  For code to run in 64-bit versions of Microsoft Office all Declare statements must include the  **PtrSafe** keyword, and all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities must be updated to use[LongLong](longlong-data-type.md) for 64-bit integrals or[LongPtr](longptr-data-type.md) for pointers and handles.
+ **Note**  For code to run in 64-bit versions of Microsoft Office all Declare statements must include the  **PtrSafe** keyword, and all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities must be updated to use[LongLong](longlong-data-type.md) for 64-bit integrals or [LongPtr](longptr-data-type.md) for pointers and handles.
 
  **Syntax 1 (Sub)**
 [ **Public** |**Private** ] **Declare** **PtrSafe** ** Sub**_name_**Lib** **"**_libname_**"** [ **Alias** **"**_aliasname_**"** ] [ **(** [ _arglist_ ] **)** ]
@@ -45,14 +45,14 @@ VBA7 Declare Statement Syntax
 |**Private**|Optional. Used to declare procedures that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
 |**PtrSafe**|Required on 64-bit. The  **[PtrSafe](ptrsafe-keyword.md)** keyword asserts that a **Declare** statement is safe to run in 64-bit versions of Microsoft Office|
 |**Sub**|Optional (either  **Sub** or **Function** must appear). Indicates that the procedure doesn't return a value.|
-|**Function**|Optional (either  **Sub** or **Function** must appear). Indicates that the procedure returns a value that can be used in an[expression](../../Glossary/vbe-glossary.md#expression).|
+|**Function**|Optional (either  **Sub** or **Function** must appear). Indicates that the procedure returns a value that can be used in an [expression](../../Glossary/vbe-glossary.md#expression).|
 | _name_|Required. Any valid procedure name. Note that DLL entry points are case sensitive.|
 |**Lib**|Required. Indicates that a DLL or code resource contains the procedure being declared. The  **Lib** clause is required for all declarations.|
 | _libname_|Required. Name of the DLL or code resource that contains the declared procedure.|
 |**Alias**|Optional. Indicates that the procedure being called has another name in the DLL. This is useful when the external procedure name is the same as a keyword. You can also use  **Alias** when a DLL procedure has the same name as a public[variable](../../Glossary/vbe-glossary.md#variable), [constant](../../Glossary/vbe-glossary.md#constant), or any other procedure in the same [scope](../../Glossary/vbe-glossary.md#scope).  **Alias** is also useful if any characters in the DLL procedure name aren't allowed by the DLL naming convention.|
 | _aliasname_|Optional. Name of the procedure in the DLL or code resource. If the first character is not a number sign (**#**), _aliasname_ is the name of the procedure's entry point in the DLL. If (**#**) is the first character, all characters that follow must indicate the ordinal number of the procedure's entry point.|
 | _arglist_|Optional. List of variables representing [arguments](../../Glossary/vbe-glossary.md#argument) that are passed to the procedure when it is called.|
-| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the value returned by a **Function** procedure; may be[Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported),[Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only), or[Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an [object type](../../Glossary/vbe-glossary.md#object-type). (**LongLong** is a valid declared type only on 64-bit platforms.)|
+| _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the value returned by a **Function** procedure; may be [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported), [Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only), or [Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an [object type](../../Glossary/vbe-glossary.md#object-type). (**LongLong** is a valid declared type only on 64-bit platforms.)|
 
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ]

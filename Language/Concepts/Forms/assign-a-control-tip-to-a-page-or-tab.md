@@ -20,7 +20,7 @@ ms.date: 06/08/2017
     
 3. From the shortcut menu, choose  **Rename**.
     
-4. In the  **ControlTipText** field, type the string you want to use as the[control tip](../../Glossary/glossary-vba.md#control-tip).
+4. In the  **ControlTipText** field, type the string you want to use as the [control tip](../../Glossary/glossary-vba.md#control-tip).
     
 5. Click OK.
     

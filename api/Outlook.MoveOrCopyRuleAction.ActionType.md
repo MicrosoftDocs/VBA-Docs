@@ -25,7 +25,7 @@ Returns a constant,  **olRuleActionMoveToFolder** , from the **[OlRuleActionType
 
 ## Remarks
 
- The moving or copying rule action is supported only by rules for receiving messages. For more information, see[Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
+ The moving or copying rule action is supported only by rules for receiving messages. For more information, see [Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## See also

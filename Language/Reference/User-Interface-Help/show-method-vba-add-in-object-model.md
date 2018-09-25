@@ -18,9 +18,9 @@ Makes the specified [code pane](../../Glossary/vbe-glossary.md#code-pane) the vi
 ## Syntax
 
 _object_**.Show**
-The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder is an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 
-The  **Show** method makes the specified code pane the pane with the[focus](../../Glossary/vbe-glossary.md#focus) in its window.
+The  **Show** method makes the specified code pane the pane with the [focus](../../Glossary/vbe-glossary.md#focus) in its window.
 

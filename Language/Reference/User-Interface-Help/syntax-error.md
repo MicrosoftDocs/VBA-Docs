@@ -15,7 +15,7 @@ Visual Basic can't determine what action to take. This error has the following c
 
 
 
-- A [keyword](../../Glossary/vbe-glossary.md#keyword) or[argument](../../Glossary/vbe-glossary.md#argument) is misspelled.
+- A [keyword](../../Glossary/vbe-glossary.md#keyword) or [argument](../../Glossary/vbe-glossary.md#argument) is misspelled.
     
     Keywords and the names of [named arguments](../../Glossary/vbe-glossary.md#named-argument) must exactly match those specified in their syntax specifications. Check online Help, and then correct the spelling.
     

@@ -18,7 +18,7 @@ Contains the [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object
 
  _expression_. `PrimaryKeyColumn`
 
- _expression_ A variable that represents a[ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

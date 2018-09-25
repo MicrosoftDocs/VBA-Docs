@@ -32,7 +32,7 @@ To address this problem and enable VBA code to work correctly in both 32-bit and
 
 All [Declare Statements](../../reference/User-Interface-Help/../../reference/User-Interface-Help/declare-statement.md) must now include the **PtrSafe** keyword when running in 64-bit versions of Office. It is important to understand that simply adding the **PtrSafe** keyword to a **Declare** statement only signifies the **Declare** statement explicitly targets 64-bits, all data types within the statement that need to store 64-bits (including return values and parameters) must still be modified to hold 64-bit quantities.
 
- **Note**   **Declare** statements with the[PtrSafe](../../reference/User-Interface-Help/../../reference/User-Interface-Help/ptrsafe-keyword.md) keyword is the recommended syntax. **Declare** statements that include **PtrSafe** work correctly in the VBA7 development environment on both 32-bit and 64-bit platforms. To ensure backwards compatibility in VBA7 and earlier use the following construct:
+ **Note**   **Declare** statements with the [PtrSafe](../../reference/User-Interface-Help/../../reference/User-Interface-Help/ptrsafe-keyword.md) keyword is the recommended syntax. **Declare** statements that include **PtrSafe** work correctly in the VBA7 development environment on both 32-bit and 64-bit platforms. To ensure backwards compatibility in VBA7 and earlier use the following construct:
 
 
 

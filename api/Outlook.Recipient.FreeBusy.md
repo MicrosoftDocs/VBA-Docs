@@ -20,7 +20,7 @@ Returns free/busy information for the recipient.
 
  _expression_. `FreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ A variable that represents a[Recipient](Outlook.Recipient.md) object.
+ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ### Parameters
@@ -44,7 +44,7 @@ A  **String** value that represents the free/busy information.
 
 If the optional argument  _CompleteFormat_ is omitted or **False** , then "free" is indicated by the character 0 and all other states by the character 1.
 
-If  _CompleteFormat_ is **True** , then the same length string is returned as defined above, but the characters now correspond to the[OlBusyStatus](Outlook.OlBusyStatus.md) constants.
+If  _CompleteFormat_ is **True** , then the same length string is returned as defined above, but the characters now correspond to the [OlBusyStatus](Outlook.OlBusyStatus.md) constants.
 
 
 ## Example

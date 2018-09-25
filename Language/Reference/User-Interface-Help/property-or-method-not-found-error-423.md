@@ -15,7 +15,7 @@ The spelling of an object name must exactly match the definition in its [object 
 
 
 
-- You referred to an  _object_. _method_ or _object_. _property_, but _method_ or _property_ isn't defined. You may have misspelled the name of the _object_. To see what[properties](../../Glossary/vbe-glossary.md#property) and[methods](../../Glossary/vbe-glossary.md#method) are defined for an _object_, display the[Object Browser](../../Glossary/vbe-glossary.md#object-browser). Select the appropriate object library to view a list of available properties and methods.
+- You referred to an  _object_. _method_ or _object_. _property_, but _method_ or _property_ isn't defined. You may have misspelled the name of the _object_. To see what[properties](../../Glossary/vbe-glossary.md#property) and [methods](../../Glossary/vbe-glossary.md#method) are defined for an _object_, display the [Object Browser](../../Glossary/vbe-glossary.md#object-browser). Select the appropriate object library to view a list of available properties and methods.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

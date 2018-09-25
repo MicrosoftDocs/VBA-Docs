@@ -18,7 +18,7 @@ Closes and destroys a window.
 ## Syntax
 
 _object_**.Close**
-The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder is an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

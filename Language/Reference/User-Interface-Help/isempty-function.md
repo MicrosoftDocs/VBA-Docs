@@ -18,7 +18,7 @@ Returns a  **Boolean** value indicating whether a [variable](../../Glossary/vbe-
 ## Syntax
 
 **IsEmpty(**_expression_**)**
-The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a [numeric](../../Glossary/vbe-glossary.md#numeric-data-type) or[string expression](../../Glossary/vbe-glossary.md#string-expression). However, because  **IsEmpty** is used to determine if individual variables are initialized, the _expression_ argument is most often a single variable name.
+The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a [numeric](../../Glossary/vbe-glossary.md#numeric-data-type) or [string expression](../../Glossary/vbe-glossary.md#string-expression). However, because  **IsEmpty** is used to determine if individual variables are initialized, the _expression_ argument is most often a single variable name.
 
 ## Remarks
 

@@ -18,7 +18,7 @@ Returns or sets the text qualifier when you import a text file into a query tabl
 
  _expression_. `TextFileTextQualifier`
 
- _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

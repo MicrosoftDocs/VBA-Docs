@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # LSet not allowed
 
- **LSet** is used to left-align data within strings and[variables](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following cause and solution:
+ **LSet** is used to left-align data within strings and [variables](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following cause and solution:
 
 
 

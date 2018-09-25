@@ -77,7 +77,7 @@ Outlook raises the E_INVALIDARG error when you pass any of the following  **OlAd
 
  The following code sample in Microsoft Visual Basic for Applications (VBA) displays a Contact Card for the current user defined by the **[CurrentUser](Outlook.NameSpace.CurrentUser.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object.
 
-You cannot run this code directly from the VBA window. To run the code, click the  **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the  **Developer** tab, see[Run in Developer Mode in Outlook](../outlook/How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+You cannot run this code directly from the VBA window. To run the code, click the  **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the  **Developer** tab, see [Run in Developer Mode in Outlook](../outlook/How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
 
 
