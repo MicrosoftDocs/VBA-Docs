@@ -4,11 +4,11 @@
 #### Settings
 ##### [ActiveX Data Objects (ADO)](../access/Concepts/Settings/activex-data-objects-ado.md)
 ##### [Data Access Objects (DAO)](../access/Concepts/Settings/data-access-objects-dao.md)
-##### [Set form, report, and control properties in Visual Basic](../access/Concepts/Settings/set-form-report-and-control-properties-in-visual-basic.md)
-##### [Set references to type libraries](../access/Concepts/Settings/set-references-to-type-libraries.md)
 ##### [Set a reference to a Visual Basic project in another Access database or project](../access/Concepts/Settings/set-a-reference-to-a-visual-basic-project-in-another-microsoft-access-database-o.md)
+##### [Set form, report, and control properties in Visual Basic](../access/Concepts/Settings/set-form-report-and-control-properties-in-visual-basic.md)
 ##### [Set options from Visual Basic](../access/Concepts/Settings/set-options-from-visual-basic.md)
 ##### [Set properties by using Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)
+##### [Set references to type libraries](../access/Concepts/Settings/set-references-to-type-libraries.md)
 ##### [Set startup properties and options in code](../access/Concepts/Settings/set-startup-properties-and-options-in-code.md)
 #### Criteria expressions
 ##### [Avg function (Access SQL)](../access/Concepts/Criteria-Expressions/avg-function-microsoft-access-sql.md)
@@ -143,25 +143,25 @@
 ##### [Prevent the accidental erasure of data when moving between controls on a form](../access/Concepts/Controls/prevent-the-accidental-erasure-of-data-when-moving-between-controls-on-a-form.md)
 ##### [Refer to tab control objects in VBA](../access/Concepts/Controls/refer-to-tab-control-objects-in-vba.md)
 #### Forms design
-##### [Create multiple instances of a form](../access/Concepts/Forms-Design/create-multiple-instances-of-a-form.md)
-##### [Synchronize two combo boxes on a form](../access/Concepts/Forms-Design/synchronize-two-combo-boxes-on-a-form.md)
-##### [Use date and time criteria from a control on a form](../access/Concepts/Forms-Design/use-date-and-time-criteria-from-a-control-on-a-form.md)
 ##### [Apply a filter when opening a form or report](../access/Concepts/Forms-Design/apply-a-filter-when-opening-a-form-or-report.md)
 ##### [Cancel an event](../access/Concepts/Forms-Design/cancel-an-event.md)
 ##### [Cancel the deletion of a record by using custom criteria](../access/Concepts/Forms-Design/cancel-the-deletion-of-a-record-by-using-custom-criteria.md)
 ##### [Change the filter or sort order of a form or report](../access/Concepts/Forms-Design/change-the-filter-or-sort-order-of-a-form-or-report.md)
+##### [Create multiple instances of a form](../access/Concepts/Forms-Design/create-multiple-instances-of-a-form.md)
 ##### [Disable PAGE UP and PAGE DOWN keys in a form](../access/Concepts/Forms-Design/disable-page-up-and-page-down-keys-in-a-form.md)
 ##### [Prompt a user before closing a form](../access/Concepts/Forms-Design/prompt-a-user-before-closing-a-form.md)
 ##### [Suspend code execution until a pop-up form is closed](../access/Concepts/Forms-Design/suspend-code-execution-until-a-pop-up-form-is-closed.md)
+##### [Synchronize two combo boxes on a form](../access/Concepts/Forms-Design/synchronize-two-combo-boxes-on-a-form.md)
+##### [Use date and time criteria from a control on a form](../access/Concepts/Forms-Design/use-date-and-time-criteria-from-a-control-on-a-form.md)
 #### Reports
 ##### [Create alternating row colors on a report](../access/Concepts/Reports/create-alternating-row-colors-on-a-report.md)
 ##### [Set form, report, and control properties in code](../access/Concepts/Reports/set-form-report-and-control-properties-in-code.md)
 #### Printing
+##### [Close a report automatically if it does not contain any records](../access/Concepts/Printing/close-a-report-automatically-if-it-does-not-contain-any-records.md)
+##### [Filter a report using a form's filter](../access/Concepts/Printing/filter-a-report-using-a-form-s-filter.md)
 ##### [Programmatically retrieve printer capabilities](../access/Concepts/Printing/programmatically-retrieve-printer-capabilities.md)
 ##### [Retrieve a list of installed printers](../access/Concepts/Printing/retrieve-a-list-of-installed-printers.md)
 ##### [Work with form and report printer settings](../access/Concepts/Printing/work-with-form-and-report-printer-settings.md)
-##### [Close a report automatically if it does not contain any records](../access/Concepts/Printing/close-a-report-automatically-if-it-does-not-contain-any-records.md)
-##### [Filter a report using a form's filter](../access/Concepts/Printing/filter-a-report-using-a-form-s-filter.md)
 #### Date/Time
 ##### [Calculate age](../access/Concepts/Date-Time/calculate-age.md)
 ##### [Calculate and display specific date values](../access/Concepts/Date-Time/calculate-and-display-specific-date-values.md)
@@ -171,9 +171,9 @@
 ##### [Specify date and time in criteria expressions](../access/Concepts/Date-Time/specify-date-and-time-in-criteria-expressions.md)
 #### Windows API
 ##### [Determine when a shelled process ends](../access/Concepts/Windows-API/determine-when-a-shelled-process-ends.md)
-##### [Retrieve information from the Clipboard](../access/Concepts/Windows-API/retrieve-information-from-the-clipboard.md)
-##### [Send information to the Clipboard](../access/Concepts/Windows-API/send-information-to-the-clipboard.md)
-##### [Retrieve the name of the user signed on to the network](../access/Concepts/Windows-API/retrieve-the-name-of-the-user-logged-on-to-the-network.md)
+##### [Retrieve information from Clipboard](../access/Concepts/Windows-API/retrieve-information-from-the-clipboard.md)
+##### [Retrieve name of user signed in to network](../access/Concepts/Windows-API/retrieve-the-name-of-the-user-logged-on-to-the-network.md)
+##### [Send information to Clipboard](../access/Concepts/Windows-API/send-information-to-the-clipboard.md)
 #### Miscellaneous
 ##### [0 Database Engine driver](../access/concepts/miscellaneous/0-database-engine-driver.md)
 ##### [5 Database Engine driver (1 of 2)](../access/concepts/miscellaneous/5-database-engine-driver-1-of-2.md)
@@ -313,11 +313,11 @@
 #### [AccessObjectProperties object](Access.AccessObjectProperties.md)
 ##### Methods
 ###### [Add](Access.AccessObjectProperties.Add.md)
-###### [Remove](Access.AccessObjectProperties.Remove.md)
 ###### [Application](Access.AccessObjectProperties.Application.md)
 ###### [Count](Access.AccessObjectProperties.Count.md)
 ###### [Item](Access.AccessObjectProperties.Item.md)
 ###### [Parent](Access.AccessObjectProperties.Parent.md)
+###### [Remove](Access.AccessObjectProperties.Remove.md)
 #### [AccessObjectProperty object](Access.AccessObjectProperty.md)
 ##### Properties
 ###### [Name](Access.AccessObjectProperty.Name.md)
