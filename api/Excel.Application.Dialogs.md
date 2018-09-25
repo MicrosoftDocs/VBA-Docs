@@ -34,7 +34,7 @@ Application.Dialogs(xlDialogOpen).Show
 
 
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 
 

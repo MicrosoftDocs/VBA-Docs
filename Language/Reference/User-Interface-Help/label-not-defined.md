@@ -15,7 +15,7 @@ This error has the following cause and solution:
 
 
 
-- A [line label](../../Glossary/vbe-glossary.md#line-label) or[line number](../../Glossary/vbe-glossary.md#line-number) is referred to (for example in a **GoTo** statement), but doesn't occur within the[scope](../../Glossary/vbe-glossary.md#scope) of the reference.
+- A [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number) is referred to (for example in a **GoTo** statement), but doesn't occur within the [scope](../../Glossary/vbe-glossary.md#scope) of the reference.
     
     The label must be within the [procedure](../../Glossary/vbe-glossary.md#procedure) that contains the reference. Line labels are visible only in their own procedures.
     

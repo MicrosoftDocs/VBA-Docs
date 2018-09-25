@@ -30,7 +30,7 @@ The  **Assert** method syntax has the following object qualifier and argument:
 
 ## Remarks
 
-**Assert** invocations work only within the[development environment](../../Glossary/vbe-glossary.md#development-environment). When the [module](../../Glossary/vbe-glossary.md#module) is compiled into an executable, the method calls on the **Debug** object are omitted.
+**Assert** invocations work only within the [development environment](../../Glossary/vbe-glossary.md#development-environment). When the [module](../../Glossary/vbe-glossary.md#module) is compiled into an executable, the method calls on the **Debug** object are omitted.
 All of  _booleanexpression_ is always evaluated. For example, even if the first part of an **And** expression evaluates **False**, the entire expression is evaluated.
 
 ## Example

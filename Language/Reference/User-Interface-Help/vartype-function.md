@@ -37,7 +37,7 @@ The required  _varname_[argument](../../Glossary/vbe-glossary.md#argument) is a 
 |**vbObject**|9|Object|
 |**vbError**|10|Error value|
 |**vbBoolean**|11|Boolean value|
-|**vbVariant**|12|**Variant** (used only with[arrays](../../Glossary/vbe-glossary.md#array) of variants)|
+|**vbVariant**|12|**Variant** (used only with [arrays](../../Glossary/vbe-glossary.md#array) of variants)|
 |**vbDataObject**|13|A data access object|
 |**vbDecimal**|14|Decimal value|
 |**vbByte**|17|Byte value|

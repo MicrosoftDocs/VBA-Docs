@@ -18,7 +18,7 @@ Returns the internal connection string to the object in Excel.  **Variant** Read
 
  _expression_. `Connection`
 
- _expression_ A variable that represents a[WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
+ _expression_ A variable that represents a [WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
 
 
 ## Property value

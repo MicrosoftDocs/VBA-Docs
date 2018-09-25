@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Conflicts Object (Word)
 
- A collection of[Conflict](Word.Conflict.md) objects that represents the conflicts in a document. The type of a **Conflict** object is specified by the[WdRevisionType](Word.WdRevisionType.md) enumeration.
+ A collection of[Conflict](Word.Conflict.md) objects that represents the conflicts in a document. The type of a **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
 
 
 ## Remarks

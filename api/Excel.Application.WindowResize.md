@@ -34,7 +34,7 @@ Occurs when any workbook window is resized.
 
 ## Remarks
 
-For information about how to use event procedures with the  **Application** object, see[Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+For information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ## See also

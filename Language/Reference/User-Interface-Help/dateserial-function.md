@@ -23,7 +23,7 @@ The  **DateSerial** function syntax has these[named arguments](../../Glossary/vb
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_year_**|Required;  **Integer**. Number between 100 and 9999, inclusive, or a[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
+|**_year_**|Required;  **Integer**. Number between 100 and 9999, inclusive, or a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
 |**_month_**|Required;  **Integer**. Any numeric expression.|
 |**_day_**|Required;  **Integer**. Any numeric expression.|
 

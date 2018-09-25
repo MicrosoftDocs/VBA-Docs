@@ -18,7 +18,7 @@ Represents the calculated fields, calculated items, and named sets for PivotTabl
 
 ## Remarks
 
-Use the  **[Add](Excel.CalculatedMembers.Add.md)** method or the[Item](Excel.CalculatedMembers.Item.md) property of the **[CalculatedMembers](Excel.CalculatedMembers.md)** collection to return a **CalculatedMember** object.
+Use the  **[Add](Excel.CalculatedMembers.Add.md)** method or the [Item](Excel.CalculatedMembers.Item.md) property of the **[CalculatedMembers](Excel.CalculatedMembers.md)** collection to return a **CalculatedMember** object.
 
 With a  **CalculatedMember** object you can check the validity of a calculated field or item in a PivotTable using the **[IsValid](Excel.CalculatedMember.IsValid.md)** property.
 

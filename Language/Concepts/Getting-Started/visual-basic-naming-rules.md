@@ -23,7 +23,7 @@ Use the following rules when you name [procedures](../../Glossary/vbe-glossary.m
     
 - Generally, you shouldn't use any names that are the same as the function, statement, method, and [intrinsic constant](../../Glossary/vbe-glossary.md#intrinsic-constants) names used in Visual Basic or by the [host application](../../Glossary/vbe-glossary.md#host-application). Otherwise you end up shadowing the same [keywords](../../Glossary/vbe-glossary.md#keyword) in the language. To use an intrinsic language function, statement, or method that conflicts with an assigned name, you must explicitly identify it. Precede the intrinsic function, statement, or method name with the name of the associated [type library](../../Glossary/vbe-glossary.md#type-library). For example, if you have a variable called  `Left`, you can only invoke the  **Left** function using `VBA.Left`.
     
-- You can't repeat names within the same level of [scope](../../Glossary/vbe-glossary.md#scope). For example, you can't declare two variables named  `age` within the same procedure. However, you can declare a private variable named `age` and a[procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable named `age` within the same module.
+- You can't repeat names within the same level of [scope](../../Glossary/vbe-glossary.md#scope). For example, you can't declare two variables named  `age` within the same procedure. However, you can declare a private variable named `age` and a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable named `age` within the same module.
     
      **Note**  Visual Basic isn't case-sensitive, but it preserves the capitalization in the statement where the name is declared.
 

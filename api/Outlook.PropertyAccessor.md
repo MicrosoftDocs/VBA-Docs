@@ -22,7 +22,7 @@ Use the  **PropertyAccessor** object to get and set item-level properties that a
 
 To get or set multiple custom properties, use the  **PropertyAccessor** object instead of the **[UserProperties](Outlook.UserProperties.md)** object for better performance.
 
-For more information on using the  **PropertyAccessor** object, see[Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
+For more information on using the  **PropertyAccessor** object, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 
 
 ## Example

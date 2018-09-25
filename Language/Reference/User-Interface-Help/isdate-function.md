@@ -18,7 +18,7 @@ Returns  **True** if the expression is a date or is recognizable as a valid date
 ## Syntax
 
 **IsDate(**_expression_**)**
-The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a[date expression](../../Glossary/vbe-glossary.md#date-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression) recognizable as a date or time.
+The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a [date expression](../../Glossary/vbe-glossary.md#date-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) recognizable as a date or time.
 
 ## Remarks
 

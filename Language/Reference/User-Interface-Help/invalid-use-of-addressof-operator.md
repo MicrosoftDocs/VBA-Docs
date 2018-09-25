@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Invalid use of AddressOf operator
 
-The  **AddressOf** operator modifies an[argument](../../Glossary/vbe-glossary.md#argument) to pass the address of a function rather than passing the result of the function call. This error has the following cause and solution:
+The  **AddressOf** operator modifies an [argument](../../Glossary/vbe-glossary.md#argument) to pass the address of a function rather than passing the result of the function call. This error has the following cause and solution:
 
 
 
 - You tried to use  **AddressOf** with the name of a class method. Only the names of Visual Basic procedures in a .bas module can be modified with **AddressOf**. You can't specify a class method.
     
-- The procedure name modified by  **AddressOf** is defined in a[module](../../Glossary/vbe-glossary.md#module) in a different[project](../../Glossary/vbe-glossary.md#project).
+- The procedure name modified by  **AddressOf** is defined in a [module](../../Glossary/vbe-glossary.md#module) in a different[project](../../Glossary/vbe-glossary.md#project).
     
 - You tried to modify the name a DLL function or a function defined in a [type library](../../Glossary/vbe-glossary.md#type-library) with **AddressOf**.
     

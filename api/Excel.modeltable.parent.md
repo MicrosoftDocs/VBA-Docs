@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
+ _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

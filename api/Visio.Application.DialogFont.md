@@ -39,7 +39,7 @@ COM (Component Object Model) provides a standard implementation of a font object
 
 
 
-1. In the  **Code** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
+1. In the  **Code** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
     
 2. On the  **View** menu, click **Object Browser**.
     

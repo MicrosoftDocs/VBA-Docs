@@ -30,7 +30,7 @@ MsoTextureType
 
 ## Remarks
 
-This property is read-only. Use the  [PresetTextured](Publisher.FillFormat.PresetTextured.md)or  **[UserTextured](Publisher.FillFormat.UserTextured.md)** method to set the texture type for the fill.
+This property is read-only. Use the  [PresetTextured](Publisher.FillFormat.PresetTextured.md) or  **[UserTextured](Publisher.FillFormat.UserTextured.md)** method to set the texture type for the fill.
 
 The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 

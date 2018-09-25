@@ -73,7 +73,7 @@ The  **_firstweekofyear_** argument has these settings:
 
 You can use the  **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 The  **_firstdayofweek_** argument affects calculations that use the "w" and "ww" interval symbols.
-If  _date_ is a[date literal](../../Glossary/vbe-glossary.md#date-literal), the specified year becomes a permanent part of that date. However, if  _date_ is enclosed in double quotation marks (" "), and you omit the year, the current year is inserted in your code each time the _date_ expression is evaluated. This makes it possible to write code that can be used in different years.
+If  _date_ is a [date literal](../../Glossary/vbe-glossary.md#date-literal), the specified year becomes a permanent part of that date. However, if  _date_ is enclosed in double quotation marks (" "), and you omit the year, the current year is inserted in your code each time the _date_ expression is evaluated. This makes it possible to write code that can be used in different years.
 
  **Note**  For  _date_, if the **Calendar** property setting is Gregorian, the supplied date must be Gregorian. If the calendar is Hijri, the supplied date must be Hijri.
 

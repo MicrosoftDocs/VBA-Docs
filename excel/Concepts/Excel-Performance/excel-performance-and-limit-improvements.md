@@ -108,7 +108,7 @@ The 64-bit version of Excel 2010 is not constrained to 2 GB of RAM like the 32-b
 
 In addition, because the 64-bit version of Excel enables larger data sets, both the 32-bit and 64-bit versions of Excel 2010 introduce improvements to common large data set tasks such as entering and filling down data, sorting, filtering, and copying and pasting data. Memory usage is also optimized to be more efficient in both the 32-bit and 64-bit versions of Excel. 
 
-For more information about the 64-bit version of Office 2010, see [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](../../../api/overview/Excel.md) and for choosing between 64-bit and 32-bit, see [Choose between the 64-bit or 32-bit version of Office](https://support.office.com/en-us/article/Choose-between-the-64-bit-or-32-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#32or64Bit&32or64Bit).
+For more information about the 64-bit version of Office 2010, see [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](../../../api/overview/Excel.md) and for choosing between 64-bit and 32-bit, see [Choose between the 64-bit or 32-bit version of Office](https://support.office.com/article/Choose-between-the-64-bit-or-32-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#32or64Bit&32or64Bit).
 
 ### Shapes
 <a name="Shapes"> </a>
@@ -164,7 +164,7 @@ Excel 2016 introduces performance and limitation improvements focused on increas
 
 - [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)   
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
-- [Excel Developer Portal](https://msdn.microsoft.com/en-us/office/aa905411.aspx)   
-- [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/en-US/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
+- [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)   
+- [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
     
   

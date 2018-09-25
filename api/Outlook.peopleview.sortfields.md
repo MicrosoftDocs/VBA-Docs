@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.SortFields Property (Outlook)
-Returns an [OrderFields](Outlook.OrderFields.md) object that represents the set of fields by which the items displayed in the[PeopleView](Outlook.peopleview.md) object are ordered. Read-only.
+Returns an [OrderFields](Outlook.OrderFields.md) object that represents the set of fields by which the items displayed in the [PeopleView](Outlook.peopleview.md) object are ordered. Read-only.
 
 ## Version information
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Type mismatch: array or user-defined type expected
 
-The type of an [argument](../../Glossary/vbe-glossary.md#argument) or[parameter](../../Glossary/vbe-glossary.md#parameter) includes whether or not it is an[array](../../Glossary/vbe-glossary.md#array) or a[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following cause and solution:
+The type of an [argument](../../Glossary/vbe-glossary.md#argument) or [parameter](../../Glossary/vbe-glossary.md#parameter) includes whether or not it is an [array](../../Glossary/vbe-glossary.md#array) or a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following cause and solution:
 
 
 

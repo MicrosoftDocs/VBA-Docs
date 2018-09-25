@@ -18,7 +18,7 @@ Returns the start of the filtering date range.  **Variant** Read-only
 
  _expression_. `StartDate`
 
- _expression_ A variable that represents a[TimelineState](Excel.timelinestate.md) object.
+ _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Remarks

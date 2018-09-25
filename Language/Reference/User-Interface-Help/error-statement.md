@@ -22,7 +22,7 @@ The required  _errornumber_ can be any valid[error number](../../Glossary/vbe-gl
 ## Remarks
 
 The  **Error** statement is supported for backward compatibility. In new code, especially when creating objects, use the **Err** object's **Raise** method to generate[run-time errors](../../Glossary/vbe-glossary.md#run-time-error).
-If  _errornumber_ is defined, the **Error** statement calls the error handler after the[properties](../../Glossary/vbe-glossary.md#property) of **Err** object are assigned the following default values:
+If  _errornumber_ is defined, the **Error** statement calls the error handler after the [properties](../../Glossary/vbe-glossary.md#property) of **Err** object are assigned the following default values:
 
 
 |**Property**|**Value**|

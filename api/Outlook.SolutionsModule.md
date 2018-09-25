@@ -33,7 +33,7 @@ If no solutions have been added to the  **Solutions** module, it is not visible 
 
 ## Example
 
-To see an example of an add-in that adds folders to the  **Solutions** module, see the article[Programming the Outlook 2010 Solutions Module](https://msdn.microsoft.com/en-us/library/ee692173%28office.14%29.aspx) on MSDN. The add-in in the article renames the **Solutions** module as **Solution Demo**, adds calendar, contacts, and tasks folders as subfolders to the solution root folder, sets custom icons for each of the subfolders, and customizes the Navigation Pane to move and enlarge the button for the  **Solution Demo** module.
+To see an example of an add-in that adds folders to the  **Solutions** module, see the article[Programming the Outlook 2010 Solutions Module](https://msdn.microsoft.com/library/ee692173%28office.14%29.aspx) on MSDN. The add-in in the article renames the **Solutions** module as **Solution Demo**, adds calendar, contacts, and tasks folders as subfolders to the solution root folder, sets custom icons for each of the subfolders, and customizes the Navigation Pane to move and enlarge the button for the  **Solution Demo** module.
 
 
 ## Methods

@@ -27,7 +27,7 @@ Occurs when Outlook has completed reading the properties of the item.
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](Outlook.AppointmentItem.BeforeRead.md) event and before the[Read](Outlook.AppointmentItem.Read.md) event for the item.
+The  **ReadComplete** event occurs after the [BeforeRead](Outlook.AppointmentItem.BeforeRead.md) event and before the [Read](Outlook.AppointmentItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.AppointmentItem.Unload.md) event.
 

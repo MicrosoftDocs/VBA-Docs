@@ -44,7 +44,7 @@ The  **GetArray** method offers a conceptually simple means to get values from a
 
 After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table** , if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
 
-The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see[Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
+The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
 
 ## Example

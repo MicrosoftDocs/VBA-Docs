@@ -39,7 +39,7 @@ The [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually
 |The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
 |the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
 
-If one or both expressions are [Null](../../Glossary/vbe-glossary.md#null) expressions, _result_ is **Null**. If an expression is[Empty](../../Glossary/vbe-glossary.md#empty), it is treated as 0.
+If one or both expressions are [Null](../../Glossary/vbe-glossary.md#null) expressions, _result_ is **Null**. If an expression is [Empty](../../Glossary/vbe-glossary.md#empty), it is treated as 0.
 
  **Note**  The order of precision used by multiplication is not the same as the order of precision used by addition and subtraction.
 

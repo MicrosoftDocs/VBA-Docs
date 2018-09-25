@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Type Property (Project)
-Gets the the type of shape in the shape range. Read-only  **[MsoShapeType](https://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)**.
+Gets the the type of shape in the shape range. Read-only  **[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets the the type of shape in the shape range. Read-only  **[MsoShapeType](https
 
 
 [ShapeRange Object](Project.shaperange.md)
-[MsoShapeType](https://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)
+[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)

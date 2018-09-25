@@ -41,7 +41,7 @@ Your program handles this event to add a custom property page. The property page
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a new property page to the Outlook  **Options** dialog box. The sample code must be placed in a class module of a Component Object Model (COM) add-in. For information about COM add-ins, see[Customizing Outlook using COM add-ins](../outlook/Concepts/Getting-Started/customizing-outlook-using-com-add-ins.md).
+This Microsoft Visual Basic for Applications (VBA) example adds a new property page to the Outlook  **Options** dialog box. The sample code must be placed in a class module of a Component Object Model (COM) add-in. For information about COM add-ins, see [Customizing Outlook using COM add-ins](../outlook/Concepts/Getting-Started/customizing-outlook-using-com-add-ins.md).
 
 
 ```vb

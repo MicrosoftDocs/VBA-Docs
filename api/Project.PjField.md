@@ -1357,12 +1357,9 @@ Contains constants that specify a resource or task field in Project.
 
 ## Remarks
 
-Many properties, methods, and events use the  **PjField** enumeration. For example, see the **GetField** method and **SetField** method of the **Resource** object and **Task** object, the[SetResourceFieldByID](Project.Application.SetResourceFieldByID.md) method, and the[SetTaskFieldByID](Project.Application.SetTaskFieldByID.md) method. To convert between a field name and the field constant value, see the[FieldConstantToFieldName](Project.Application.FieldConstantToFieldName.md) method and the[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md) method.
+Many properties, methods, and events use the  **PjField** enumeration. For example, see the **GetField** method and **SetField** method of the **Resource** object and **Task** object, the [SetResourceFieldByID](Project.Application.SetResourceFieldByID.md) method, and the [SetTaskFieldByID](Project.Application.SetTaskFieldByID.md) method. To convert between a field name and the field constant value, see the [FieldConstantToFieldName](Project.Application.FieldConstantToFieldName.md) method and the [FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md) method.
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 
 
-## See also
 
-
-[Available fields reference](https://office.microsoft.com/en-us/project-help/available-fields-reference-HA102749299.aspx?CTT=1)

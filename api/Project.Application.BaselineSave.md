@@ -30,7 +30,7 @@ Creates a baseline plan.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if the baseline plan is set for all tasks. **False** if the baseline plan is set only for the selected tasks. The default value is **True**.|
-| _Copy_|Optional|**Long**| The fields to copy. Can be one of the[PjSaveBaselineFrom](Project.PjSaveBaselineFrom.md) constants.|
+| _Copy_|Optional|**Long**| The fields to copy. Can be one of the [PjSaveBaselineFrom](Project.PjSaveBaselineFrom.md) constants.|
 | _Into_|Optional|**Long**|Where the fields should be copied. Can be one of the [PjSaveBaselineTo](Project.PjSaveBaselineTo.md) constants.|
 | _RollupToSummaryTasks_|Optional|**Boolean**|**True** if parent summary task baseline data are rolled up from selected summary tasks.|
 | _RollupFromSubtasks_|Optional|**Boolean**|**True** if summary task baseline data are rolled up from subtasks.|

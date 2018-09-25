@@ -66,7 +66,7 @@ DoCmd.ApplyFilter , "LastName = 'King'"
 
 The following example shows how to use the  **ApplyFilter** property to filter the records displayed when a toggle button named tglFilter is clicked.
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 
 

@@ -33,8 +33,8 @@ For more information about good security design practices and technologies, sear
 ## Additional Visio resources
 
 
-- To learn more about Visio add-ons and COM add-ins, see the MSDN article,  [Overview of Add-ons and COM Add-ins in Visio 2007](https://msdn.microsoft.com/en-us/library/bb851468.aspx).
+- To learn more about Visio add-ons and COM add-ins, see the MSDN article,  [Overview of Add-ons and COM Add-ins in Visio 2007](https://msdn.microsoft.com/library/bb851468.aspx).
     
-- To learn more about the RUNADDON function and the  **AddonName** property, see the MSDN article [Changes in the RUNADDON Function and the AddOnName Property for Visio 2002](https://msdn.microsoft.com/en-us/library/aa140368%28office.10%29.aspx).
+- To learn more about the RUNADDON function and the  **AddonName** property, see the MSDN article [Changes in the RUNADDON Function and the AddOnName Property for Visio 2002](https://msdn.microsoft.com/library/aa140368%28office.10%29.aspx).
     
 

@@ -18,7 +18,7 @@ Returns a value that you can use to construct a confidence interval for a popula
 
  **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 
-For more information about the new functions, see the [Confidence_Norm](Excel.WorksheetFunction.Confidence_Norm.md) and[Confidence_T](Excel.WorksheetFunction.Confidence_T.md) methods.
+For more information about the new functions, see the [Confidence_Norm](Excel.WorksheetFunction.Confidence_Norm.md) and [Confidence_T](Excel.WorksheetFunction.Confidence_T.md) methods.
 
 ## Syntax
 

@@ -15,7 +15,7 @@ Your call to a [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynam
 
 
 
-- An attempt to convert the  _num_ expression to an ordinal failed. Make sure the[expression](../../Glossary/vbe-glossary.md#expression) represents a valid number or call the[procedure](../../Glossary/vbe-glossary.md#procedure) by name.
+- An attempt to convert the  _num_ expression to an ordinal failed. Make sure the [expression](../../Glossary/vbe-glossary.md#expression) represents a valid number or call the [procedure](../../Glossary/vbe-glossary.md#procedure) by name.
     
 - The  _num_ specified doesn't specify any function in the DLL. Make sure _num_ identifies a valid function in the DLL.
     

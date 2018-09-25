@@ -38,7 +38,7 @@ Adds a new column in a specified position, in views where columns can be added.
 
 ## Remarks
 
-If the  _Column_ parameter is omitted, **AddNewColumn** inserts a column to the left of the active column, and displays **[Type Column Name]** in the column heading. By comparison, the[ColumnInsert](Project.Application.ColumnInsert.md) method displays the **Field Settings** dialog box for the new column.
+If the  _Column_ parameter is omitted, **AddNewColumn** inserts a column to the left of the active column, and displays **[Type Column Name]** in the column heading. By comparison, the [ColumnInsert](Project.Application.ColumnInsert.md) method displays the **Field Settings** dialog box for the new column.
 
 
 ## Example

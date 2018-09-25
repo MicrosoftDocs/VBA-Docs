@@ -35,7 +35,7 @@ The  **InputBox** function syntax has these[named arguments](../../Glossary/vbe-
 
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **_context_**. Some[host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box. If the user clicks **OK** or presses ENTER , the **InputBox** function returns whatever is in the text box. If the user clicks **Cancel**, the function returns a zero-length string ("").
 
- **Note**  To specify more than the first named argument, you must use  **InputBox** in an[expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
+ **Note**  To specify more than the first named argument, you must use  **InputBox** in an [expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
 
 
 ## InputBox Function Example

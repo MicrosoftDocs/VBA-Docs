@@ -12,7 +12,7 @@ ms.date: 09/12/2018
 
 # Range.SetCellDataTypeFromCell method (Excel)
 
-Creates another instance of a Linked data type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877) that exists in another cell. The new instance will be linked to the data source in the same way as the original, so it will refresh from the service if you call [Workbook.RefreshAll](Excel.Workbook.RefreshAll.md).
+Creates another instance of a Linked data type such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877) that exists in another cell. The new instance will be linked to the data source in the same way as the original, so it will refresh from the service if you call [Workbook.RefreshAll](Excel.Workbook.RefreshAll.md).
 
 ## Syntax
 

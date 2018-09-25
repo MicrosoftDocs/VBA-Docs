@@ -44,7 +44,7 @@ Custom number formats can have one to four sections with semicolons (;) as the l
 For example, you could use the following custom Currency format:
 
 ```vb
-$#,##0.00[Green];($#,##0.00)[Red];"Zero";"Null"
+$#,##0.00[Green];($#,##0.00) [Red];"Zero";"Null"
 ```
 
 This number format contains four sections separated by semicolons and uses a different format for each section.
@@ -95,9 +95,9 @@ The following are examples of custom number formats.
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)

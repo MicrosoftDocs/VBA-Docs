@@ -38,7 +38,7 @@ An  **Object** value that represents an Outlook item if the call succeeds; retur
 
 ## Remarks
 
-To use content indexing search in the  **[Items](Outlook.Items.md)** collection, use the **[Restrict](Outlook.Items.Restrict.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see[Filtering Items Using Query Keywords](../outlook/How-to/Search-and-Filter/filtering-items-using-query-keywords.md).
+To use content indexing search in the  **[Items](Outlook.Items.md)** collection, use the **[Restrict](Outlook.Items.Restrict.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see [Filtering Items Using Query Keywords](../outlook/How-to/Search-and-Filter/filtering-items-using-query-keywords.md).
 
 The method will return an error with the following properties in the  _Filter_ :
 

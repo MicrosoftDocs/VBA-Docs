@@ -30,7 +30,7 @@ Set WordBasic = CreateObject("Word.Basic")
 ```
 
 Most applications provide an  **Exit** or **Quit** method that closes the application whether or not it is visible. For more information on the objects, methods, and properties an application provides, see the application's documentation.
-Some applications allow you to use the  **New**[keyword](../../Glossary/vbe-glossary.md#keyword) to create an object of any class that exists in its[type library](../../Glossary/vbe-glossary.md#type-library). For example:
+Some applications allow you to use the  **New**[keyword](../../Glossary/vbe-glossary.md#keyword) to create an object of any class that exists in its [type library](../../Glossary/vbe-glossary.md#type-library). For example:
 
 
 

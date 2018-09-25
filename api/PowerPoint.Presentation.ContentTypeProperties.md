@@ -30,7 +30,7 @@ MetaProperties
 
 ## Remarks
 
-For more information about Content Types, see [Introduction to Content Types](https://msdn.microsoft.com/en-us/library/ms472236%28v=office.14%29.aspx(Office.15).aspx) on MSDN, the Microsoft Developer Netowrk.
+For more information about Content Types, see [Introduction to Content Types](https://msdn.microsoft.com/library/ms472236%28v=office.14%29.aspx(Office.15).aspx) on MSDN, the Microsoft Developer Netowrk.
 
 
 ## See also

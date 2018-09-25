@@ -26,7 +26,7 @@ The  **For…Next** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md#variable) used as a loop counter. The variable can't be a[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) or an[array](../../Glossary/vbe-glossary.md#array) element.|
+| _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md#variable) used as a loop counter. The variable can't be a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) or an [array](../../Glossary/vbe-glossary.md#array) element.|
 | _start_|Required. Initial value of  _counter_.|
 | _end_|Required. Final value of  _counter_.|
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|

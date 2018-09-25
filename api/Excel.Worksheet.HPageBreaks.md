@@ -47,7 +47,7 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 
 
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](https://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
 The following code example adds a page break when the value of a cell in column A changes.
 

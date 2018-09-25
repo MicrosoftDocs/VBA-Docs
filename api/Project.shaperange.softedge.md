@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.SoftEdge Property (Project)
-Gets soft edge formatting properties for the shape range. Read-only  **[SoftEdgeFormat](https://msdn.microsoft.com/en-us/library/office/ff863361%28v=office.15%29)**.
+Gets soft edge formatting properties for the shape range. Read-only  **[SoftEdgeFormat](https://msdn.microsoft.com/library/office/ff863361%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets soft edge formatting properties for the shape range. Read-only  **[SoftEdge
 
 
 [ShapeRange Object](Project.shaperange.md)
-[SoftEdgeFormat](https://msdn.microsoft.com/en-us/library/office/ff863361%28v=office.15%29)
+[SoftEdgeFormat](https://msdn.microsoft.com/library/office/ff863361%28v=office.15%29)

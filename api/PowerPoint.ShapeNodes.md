@@ -18,7 +18,7 @@ A collection of all the  **[ShapeNode](PowerPoint.ShapeNode.md)** objects in the
 
 ## Remarks
 
- Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform. You can create a freeform manually or by using the[BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)and [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)methods.
+ Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform. You can create a freeform manually or by using the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)and [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)methods.
 
 
 ## Example

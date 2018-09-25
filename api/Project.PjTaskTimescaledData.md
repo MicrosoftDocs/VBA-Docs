@@ -128,7 +128,7 @@ Contains constants that specify the type of field for task timescaled data in th
 
 ## Remarks
 
-The  **PjTaskTimescaledData** enumeration is used by the[Task.TimeScaleData](Project.Task.TimeScaleData.md) method.
+The  **PjTaskTimescaledData** enumeration is used by the [Task.TimeScaleData](Project.Task.TimeScaleData.md) method.
 
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 
@@ -136,4 +136,4 @@ For more information about working with fields in Project, see the  _Available f
 ## See also
 
 
-[Available fields reference](https://office.microsoft.com/en-us/project-help/available-fields-reference-HA102749299.aspx?CTT=1)
+[Available fields reference](https://support.office.com/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)

@@ -50,7 +50,7 @@ The  **ControlType** property setting is an intrinsic constant that specifies th
 |**acSubform**|[Subform/subreport](overview/subform-subreport-control.md)|
 |**acTabCtl**|[Tab](overview/tab-control.md)|
 |**acTextBox**|[Text box](overview/text-box-control.md)|
-|**acToggleButton**|[Toggle button](overview/toggle-button-control.md)[Toggle button](overview/toggle-button-control.md)|
+|**acToggleButton**|[Toggle button](overview/toggle-button-control.md) [Toggle button](overview/toggle-button-control.md)|
 
  **Note**  The  **ControlType** property can only be set by using Visual Basic in form Design view or report Design view, but it can be read in all views.
 

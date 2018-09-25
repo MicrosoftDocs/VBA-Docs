@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 This section of the Access VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Access object model.
 
 > [!NOTE] 
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins).
+> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins).
 
 ## Related topics
 

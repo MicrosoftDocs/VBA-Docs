@@ -117,7 +117,7 @@ Displays the [Object Browser](../../Glossary/vbe-glossary.md#object-browser), wh
 
 ![Toolbox](../../../images/tbr_tbx_ZA01201755.gif) **Toolbox**
 
-Displays or hides the  **Toolbox** which contains all of the[controls](../../Glossary/vbe-glossary.md#control) and[insertable objects](../../Glossary/vbe-glossary.md#insertable-object) (such as a Microsoft Excel Chart) available to your application. This is only available when a **UserForm** is active.
+Displays or hides the  **Toolbox** which contains all of the [controls](../../Glossary/vbe-glossary.md#control) and [insertable objects](../../Glossary/vbe-glossary.md#insertable-object) (such as a Microsoft Excel Chart) available to your application. This is only available when a **UserForm** is active.
 
 
 ![Microsoft VBA Help](../../../images/tbr_ahlp_ZA01201669.gif) **Microsoft Visual Basic for Applications Help**

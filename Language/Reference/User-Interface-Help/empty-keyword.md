@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Empty <keyword>
 
-The  **Empty**[keyword](../../Glossary/vbe-glossary.md#keyword) is used as a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) subtype. It indicates an uninitialized[variable](../../Glossary/vbe-glossary.md#variable) value.
+The  **Empty**[keyword](../../Glossary/vbe-glossary.md#keyword) is used as a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) subtype. It indicates an uninitialized[variable](../../Glossary/vbe-glossary.md#variable) value.
 
 

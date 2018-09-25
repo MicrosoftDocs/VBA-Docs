@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[Timeli
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[TimelineState Object (Excel)](Excel.timelinestate.md) object.
+ _expression_ A variable that represents a [TimelineState Object (Excel)](Excel.timelinestate.md) object.
 
 
 ## Property value

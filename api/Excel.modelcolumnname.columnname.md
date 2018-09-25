@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelColumnName.ColumnName Property (Excel)
 
- **String** representing the name of a column of the table identified by the[ModelColumnName.TableName Property (Excel)](Excel.modelcolumnname.tablename.md) property. Read-only.
+ **String** representing the name of a column of the table identified by the [ModelColumnName.TableName Property (Excel)](Excel.modelcolumnname.tablename.md) property. Read-only.
 
 
 ## Syntax
 
  _expression_. `ColumnName`
 
- _expression_ A variable that represents a[ModelColumnName](Excel.modelcolumnname.md) object.
+ _expression_ A variable that represents a [ModelColumnName](Excel.modelcolumnname.md) object.
 
 
 ## Property value

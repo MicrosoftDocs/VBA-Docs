@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Type Property (Project)
-Gets the shape type. Read-only  **[MsoShapeType](https://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)**.
+Gets the shape type. Read-only  **[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets the shape type. Read-only  **[MsoShapeType](https://msdn.microsoft.com/en-u
 
 
 [Shape Object](Project.shape.md)
-[MsoShapeType](https://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)
+[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)

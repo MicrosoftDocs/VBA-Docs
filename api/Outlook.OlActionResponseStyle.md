@@ -25,6 +25,6 @@ Specifies the response style.
 
 ## Remarks
 
-Used by the [ResponseStyle](Outlook.Action.ResponseStyle.md) property of an[Action](Outlook.Action.md) to specify the response style that will be used when the **Action** is executed.
+Used by the [ResponseStyle](Outlook.Action.ResponseStyle.md) property of an [Action](Outlook.Action.md) to specify the response style that will be used when the **Action** is executed.
 
 

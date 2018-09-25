@@ -18,7 +18,7 @@ The  **ListDataFormat** object holds all the data type properties of the **[List
 
 ## Remarks
 
-Use the [ListDataFormat](Excel.ListObject.ListColumns.md) property of the[ListColumn](Excel.ListObject.md) object to return a **ListDataFormat** object. The default property of the ListDataFormat object is the **[Type](Excel.ListDataFormat.Type.md)** property which indicates the data type of the list column. This allows the user to write code without specifying the **Type** property.
+Use the [ListDataFormat](Excel.ListObject.ListColumns.md) property of the [ListColumn](Excel.ListObject.md) object to return a **ListDataFormat** object. The default property of the ListDataFormat object is the **[Type](Excel.ListDataFormat.Type.md)** property which indicates the data type of the list column. This allows the user to write code without specifying the **Type** property.
 
 
 ## Example

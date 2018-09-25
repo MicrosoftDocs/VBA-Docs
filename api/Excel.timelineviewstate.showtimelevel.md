@@ -18,7 +18,7 @@ Get or set whether the control's time level drop-down is displayed.  **Boolean**
 
  _expression_. `ShowTimeLevel`
 
- _expression_ A variable that represents a[TimelineViewState](Excel.timelineviewstate.md) object.
+ _expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
 
 
 ## Property value

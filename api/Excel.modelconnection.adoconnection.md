@@ -18,7 +18,7 @@ The ADO Connection Object is used to create an open connection to a data source.
 
  _expression_. `ADOConnection`
 
- _expression_ A variable that represents a[ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+ _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Property value

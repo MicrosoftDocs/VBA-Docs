@@ -18,7 +18,7 @@ Returns or sets the character used as the delimiter when you import a text file 
 
  _expression_. `TextFileOtherDelimiter`
 
- _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This topic shows how to obtain an **[Application](../../../api/Outlook.Application.md)** object that represents an active instance of Outlook, if there is one running on the local computer, or to create a new instance of Outlook, log on to the default profile, and return that instance of Outlook.
 
-Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
+Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
 
 The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. 
 

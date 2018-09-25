@@ -29,7 +29,7 @@ Deletes the properties specified in the array  _SchemaNames_ .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties that are to be deleted for the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. These properties are referenced by namespace. For more information, see[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
+| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties that are to be deleted for the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 
 ### Return Value
 

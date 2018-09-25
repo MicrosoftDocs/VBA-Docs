@@ -38,7 +38,7 @@ The following table lists the four basic values for ligatures.
 |Historical|Older, ornamental ligatures that may look archaic to the modern reader. Not specifically designed for readability.|
 |Discretional|Designed to be ornamental and not designed to be readable.|
 
- Combinations of these four basic values form the set of available values for the **Ligatures** property. This set of values is represented in the[WdLigatures](Word.WdLigatures.md) enumeration.
+ Combinations of these four basic values form the set of available values for the **Ligatures** property. This set of values is represented in the [WdLigatures](Word.WdLigatures.md) enumeration.
 
 
 ## Example

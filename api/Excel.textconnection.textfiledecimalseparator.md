@@ -18,7 +18,7 @@ Returns or sets the decimal separator character that Microsoft Excel uses when y
 
  _expression_. `TextFileDecimalSeparator`
 
- _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

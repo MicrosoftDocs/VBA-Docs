@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using Parentheses in Code
 
- **Sub** procedures, built-in[statements](../../Glossary/vbe-glossary.md#statement), and some [methods](../../Glossary/vbe-glossary.md#method) don't return a value, so the[arguments](../../Glossary/vbe-glossary.md#argument) aren't enclosed in parentheses. For example:
+ **Sub** procedures, built-in [statements](../../Glossary/vbe-glossary.md#statement), and some [methods](../../Glossary/vbe-glossary.md#method) don't return a value, so the [arguments](../../Glossary/vbe-glossary.md#argument) aren't enclosed in parentheses. For example:
 
 
 ```vb

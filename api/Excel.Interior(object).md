@@ -25,7 +25,7 @@ Use the  **[Interior](Excel.Range.Interior.md)** property to return the **Interi
 Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
 This example gets the value of the color of a cell in column A using the  **ColorIndex** property, and then uses that value to sort the range by color.
 

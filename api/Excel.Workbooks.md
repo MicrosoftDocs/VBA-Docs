@@ -18,7 +18,7 @@ A collection of all the  **[Workbook](Excel.Workbook.md)** objects that are curr
 
 ## Remarks
 
-For more information about using a single  **Workbook** object, see the[Workbook](Excel.Workbook.md) object.
+For more information about using a single  **Workbook** object, see the [Workbook](Excel.Workbook.md) object.
 
 
 ## Example

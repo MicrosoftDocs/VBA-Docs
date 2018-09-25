@@ -25,7 +25,7 @@ Returns a  **[Dictionaries](Word.dictionaries.md)** object that represents the c
 
 ## Remarks
 
-Active custom dictionaries are marked with a check in the  **Custom Dictionaries** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Active custom dictionaries are marked with a check in the  **Custom Dictionaries** dialog box. For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

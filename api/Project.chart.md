@@ -16,7 +16,7 @@ The  **Chart** object represents a chart on a report in Project.
 
 The  **Chart** object in Project includes the standard members that other Office applications implement for Office Art. For example, see the **Chart** object in the VBA object model for Word, Excel, and PowerPoint.
 
-In Project, a chart is represented by a  **Chart** object, which is contained by a **[Shape](./Project.shape.md)** object or a **[ShapeRange](./Project.shaperange.md)** collection in a **[Report](./Project.report.md)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see[Application and Projects object map](../project/Concepts/application-and-projects-object-map-project.md).
+In Project, a chart is represented by a  **Chart** object, which is contained by a **[Shape](./Project.shape.md)** object or a **[ShapeRange](./Project.shaperange.md)** collection in a **[Report](./Project.report.md)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see [Application and Projects object map](../project/Concepts/application-and-projects-object-map-project.md).
 
 
  **Note**  Macro recording for the  **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.

@@ -18,7 +18,7 @@ Specifies if row numbers are added as the first column of the specified query ta
 
  _expression_. `RowNumbers`
 
- _expression_ A variable that represents a[TableObject](Excel.modeltable.md)object.
+ _expression_ A variable that represents a [TableObject](Excel.modeltable.md)object.
 
 
 ## Property value

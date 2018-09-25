@@ -22,7 +22,7 @@ The  **DeleteSetting** statement syntax has these[named arguments](../../Glossar
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or[project](../../Glossary/vbe-glossary.md#project) to which the section or key setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
+|**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or [project](../../Glossary/vbe-glossary.md#project) to which the section or key setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is being deleted. If only  **_appname_** and **_section_** are provided, the specified section is deleted along with all related key settings.|
 |**_key_**|Optional. String expression containing the name of the key setting being deleted.|
 

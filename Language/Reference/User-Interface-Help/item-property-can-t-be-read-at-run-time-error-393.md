@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # 'Item' property can't be read at run time (Error 393)
 
-The [property](../../Glossary/vbe-glossary.md#property) is only available at[design time](../../Glossary/vbe-glossary.md#design-time). This error has the following cause and solution:
+The [property](../../Glossary/vbe-glossary.md#property) is only available at [design time](../../Glossary/vbe-glossary.md#design-time). This error has the following cause and solution:
 
 
 

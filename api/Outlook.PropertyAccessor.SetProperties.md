@@ -29,7 +29,7 @@ Sets the properties specified by the array  _SchemaNames_ to the values specifie
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaNames_|Required| **Variant**|An array of names of properties whose values are to be set as specified by the  _Values_ parameter. These properties are referenced by namespace. For more information, see[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
+| _SchemaNames_|Required| **Variant**|An array of names of properties whose values are to be set as specified by the  _Values_ parameter. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 | _Values_|Required| **Variant**|An array of values that are to be set for the properties specified by the  _SchemaNames_ parameter.|
 
 ### Return Value
@@ -64,7 +64,7 @@ Use caution and ensure that all exceptions are handled correctly. Conditions whe
     
 
 
-For more information on setting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
+For more information on setting properties using the  **PropertyAccessor** object, see [Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
 
 
 ## Example

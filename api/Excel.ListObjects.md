@@ -18,7 +18,7 @@ A collection of all the  **[ListObject](Excel.ListObject.md)** objects on a work
 
 ## Remarks
 
-Use the  **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the[Worksheet](Excel.Worksheet.md) object to return the **ListObjects** collection.
+Use the  **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the [Worksheet](Excel.Worksheet.md) object to return the **ListObjects** collection.
 
 
 ## Example

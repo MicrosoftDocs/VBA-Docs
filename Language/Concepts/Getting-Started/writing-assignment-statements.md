@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing Assignment Statements
 
-Assignment statements assign a value or [expression](../../Glossary/vbe-glossary.md#expression) to a[variable](../../Glossary/vbe-glossary.md#variable) or[constant](../../Glossary/vbe-glossary.md#constant). Assignment statements always include an equal sign (**=**). The following example assigns the return value of the **InputBox** function to the variable .
+Assignment statements assign a value or [expression](../../Glossary/vbe-glossary.md#expression) to a [variable](../../Glossary/vbe-glossary.md#variable) or [constant](../../Glossary/vbe-glossary.md#constant). Assignment statements always include an equal sign (**=**). The following example assigns the return value of the **InputBox** function to the variable .
 
 
 ```vb

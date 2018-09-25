@@ -43,7 +43,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Procedure Separator**|Display separator bars at the end of each procedure in the  **Code** window.|
 |**Auto List Members**|At the insertion point, Visual Basic displays information that logically completes a statement.|
 |**Auto Quick Info**|Information about functions and their [arguments](../Glossary/vbe-glossary.md#argument) is displayed as you type.|
-|**Auto Data Tips**|Automatically display the value of any [variable](../Glossary/vbe-glossary.md#variable) on which you place the mouse pointer. Available only in[break mode](../Glossary/vbe-glossary.md#break-mode).|
+|**Auto Data Tips**|Automatically display the value of any [variable](../Glossary/vbe-glossary.md#variable) on which you place the mouse pointer. Available only in [break mode](../Glossary/vbe-glossary.md#break-mode).|
 |**Drag-Drop in Text Editing**|Code elements can be dragged from the  **Code** window into the **Immediate** or **Watch** windows.|
 
  **Editor Format**
@@ -67,7 +67,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Height**|The height of the grid cells on a form.|
 |**Align Controls to Grid**|Automatically position the outer edge of controls on the closest grid lines.|
 |**Show ToolTips**|Display ToolTips for toolbar buttons.|
-|**Collapse Proj. Hides Windows**|Automatically close the project,  **UserForm**, object, or module windows when a[project](../Glossary/vbe-glossary.md#project) is collapsed in the **Project Explorer**.|
+|**Collapse Proj. Hides Windows**|Automatically close the project,  **UserForm**, object, or module windows when a [project](../Glossary/vbe-glossary.md#project) is collapsed in the **Project Explorer**.|
 |**Notify Before State Loss**|Display a message that a requested action will cause all module-level variables to be reset for a running project.|
 |**Break on All Errors**|Any error causes the project to enter break mode, whether or not an error handler is active, and whether or not the code is in a [class module](../Glossary/vbe-glossary.md#class-module).|
 |**Break in Class Module**|Any unhandled error produced in a class module causes the project to enter break mode at the line of code which produced the error.|

@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Use the  **Data2** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data2** property is equivalent to entering information in the **Data 2** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md)tab).
+Use the  **Data2** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data2** property is equivalent to entering information in the **Data 2** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md)tab).
 
 
 ## Example

@@ -18,7 +18,7 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the
 ## Syntax
 
 **LOF(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an[Integer](../../Glossary/vbe-glossary.md#integer-data-type) containing a valid[file number](../../Glossary/vbe-glossary.md#file-number).
+The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) containing a valid[file number](../../Glossary/vbe-glossary.md#file-number).
 
  **Note**  Use the  **FileLen** function to obtain the length of a file that is not open.
 

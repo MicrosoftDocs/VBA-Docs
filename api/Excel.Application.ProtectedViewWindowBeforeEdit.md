@@ -39,7 +39,7 @@ Nothing
 
 ## Example
 
-The following code example prompts the user for a yes or no response before enabling editing on a workbook in a  **Protected View** window. This code must be placed in a class module, and an instance of the class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see[Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
+The following code example prompts the user for a yes or no response before enabling editing on a workbook in a  **Protected View** window. This code must be placed in a class module, and an instance of the class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 
 ```vb

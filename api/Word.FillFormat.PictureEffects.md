@@ -25,7 +25,7 @@ Returns a [PictureEffects](./Office.PictureEffects.md) object that can be used t
 
 ## Remarks
 
-You use the [Insert](./Office.PictureEffects.Insert.md) method of the[PictureEffects](./Office.PictureEffects.md) object to apply picture effects. The[Insert](./Office.PictureEffects.Insert.md) takes an[MsoPictureEffectType](./Office.MsoPictureEffectType.md) enumeration constant as an argument to specify what type of picture effect to apply.
+You use the [Insert](./Office.PictureEffects.Insert.md) method of the [PictureEffects](./Office.PictureEffects.md) object to apply picture effects. The[Insert](./Office.PictureEffects.Insert.md) takes an [MsoPictureEffectType](./Office.MsoPictureEffectType.md) enumeration constant as an argument to specify what type of picture effect to apply.
 
 
 ## See also

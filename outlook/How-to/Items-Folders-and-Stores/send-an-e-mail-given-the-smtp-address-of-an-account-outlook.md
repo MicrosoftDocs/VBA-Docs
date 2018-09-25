@@ -15,8 +15,7 @@ This topic shows how to create an e-mail and send it from a Microsoft Outlook ac
 |
 ![MVP Logo](../../../images/MVPLogo_Small_ZA10349011.jpg)
 
-|Helmut Obertanner provided the following code samples. Helmut is a  [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx
-) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
+|Helmut Obertanner provided the following code samples. Helmut is a  [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
 
 
 

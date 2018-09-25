@@ -29,6 +29,6 @@ The  **AfterUpdate** event syntax has these parts:
 
 ## Remarks
 
-The AfterUpdate event occurs regardless of whether the control is [bound](../../Glossary/glossary-vba.md#bound) (that is, when the **RowSource** property specifies a[data source](../../Glossary/glossary-vba.md#data-source) for the control). This event cannot be canceled. If you want to cancel the update (to restore the previous value of the control), use the BeforeUpdate event and set the _Cancel_ argument to **True**.
+The AfterUpdate event occurs regardless of whether the control is [bound](../../Glossary/glossary-vba.md#bound) (that is, when the **RowSource** property specifies a [data source](../../Glossary/glossary-vba.md#data-source) for the control). This event cannot be canceled. If you want to cancel the update (to restore the previous value of the control), use the BeforeUpdate event and set the _Cancel_ argument to **True**.
 The AfterUpdate event occurs after the BeforeUpdate event and before the Exit event for the current control and before the Enter event for the next control in the [tab order](../../Glossary/vbe-glossary.md#tab-order).
 

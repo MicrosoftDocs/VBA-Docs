@@ -44,5 +44,5 @@ Use the  **Immediate** window to:
     
      **Note**   **Immediate** window statements are executed in a context — that is, as if they are entered in a specific[module](../../Glossary/vbe-glossary.md#module).
 
-If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md#property), or [methods](../../Glossary/vbe-glossary.md#method) while working in the **Immediate** window, select the[keyword](../../Glossary/vbe-glossary.md#keyword), the property name, or the method name, and press F1.
+If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md#property), or [methods](../../Glossary/vbe-glossary.md#method) while working in the **Immediate** window, select the [keyword](../../Glossary/vbe-glossary.md#keyword), the property name, or the method name, and press F1.
 

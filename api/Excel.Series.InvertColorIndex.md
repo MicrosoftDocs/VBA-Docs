@@ -30,7 +30,7 @@ Returns or sets the fill color for negative data points in a series. Read/write
 
 ## Remarks
 
-The  **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. For more information about color index values, see[Adding Color to Excel 2007 Worksheets by Using the ColorIndex Property](https://msdn.microsoft.com/en-us/library/cc296089.aspx). Instead of using the  **InvertColorIndex** property, you can use the **[InvertColor](Excel.Series.InvertColor.md)** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
+The  **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. For more information about color index values, see [Adding Color to Excel 2007 Worksheets by Using the ColorIndex Property](https://msdn.microsoft.com/library/cc296089.aspx). Instead of using the  **InvertColorIndex** property, you can use the **[InvertColor](Excel.Series.InvertColor.md)** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
 
 For the  **InvertColorIndex** property to have an effect, the **[InvertIfNegative](Excel.Series.InvertIfNegative.md)** property of the **Series** object must also be set to **True** .
 

@@ -69,7 +69,7 @@ If objcc.Type = wdContentControlComboBox Or _
 End If
 ```
 
-Use the  **ContentControl** object to work with individual content controls. For more information, see[Working with Content Controls](../word/Concepts/Working-with-Word/working-with-content-controls.md).
+Use the  **ContentControl** object to work with individual content controls. For more information, see [Working with Content Controls](../word/Concepts/Working-with-Word/working-with-content-controls.md).
 
 
 ## Methods

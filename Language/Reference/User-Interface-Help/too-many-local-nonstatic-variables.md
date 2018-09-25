@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Too many local, nonstatic variables
 
-Local, nonstatic [variables](../../Glossary/vbe-glossary.md#variable) are variables that are defined within a[procedure](../../Glossary/vbe-glossary.md#procedure) and reinitialized each time the procedure is called. This error has the following cause and solution:
+Local, nonstatic [variables](../../Glossary/vbe-glossary.md#variable) are variables that are defined within a [procedure](../../Glossary/vbe-glossary.md#procedure) and reinitialized each time the procedure is called. This error has the following cause and solution:
 
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Expected End Sub
 
-An  **End**_procedure_ statement must match the[procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
+An  **End**_procedure_ statement must match the [procedure](../../Glossary/vbe-glossary.md#procedure) in which it occurs. This error has the following cause and solution:
 
 
 

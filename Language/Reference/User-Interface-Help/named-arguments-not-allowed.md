@@ -33,7 +33,7 @@ ms.date: 06/08/2017
   ```
 
 
-     Use a variable or constant expression if the object requires an[argument](../../Glossary/vbe-glossary.md#argument). For example, if the default for an object is a [method](../../Glossary/vbe-glossary.md#method), the object's name represents the default method. If it needs arguments, specify them positionally.
+     Use a variable or constant expression if the object requires an [argument](../../Glossary/vbe-glossary.md#argument). For example, if the default for an object is a [method](../../Glossary/vbe-glossary.md#method), the object's name represents the default method. If it needs arguments, specify them positionally.
     
 - You tried to specify a named argument with an external name:
     

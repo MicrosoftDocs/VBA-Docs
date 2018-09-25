@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Can't change data types of array elements
 
-**ReDim** can only be used to change the number of elements in an[array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
+**ReDim** can only be used to change the number of elements in an [array](../../Glossary/vbe-glossary.md#array). This error has the following cause and solution:
 
 - You tried to redeclare the [data type](../../Glossary/vbe-glossary.md#data-type) of an array using **ReDim**.
     

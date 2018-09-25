@@ -581,8 +581,8 @@ The PowerPivot add-in enables you to build your own cubes instead of using the d
 
 ## See also
 
--  [PowerPivot for Excel Tutorial Introduction](https://technet.microsoft.com/en-us/library/gg413497.aspx)   
--  [PowerPivot for Excel Tutorial Sample Data](https://powerpivotsdr.codeplex.com/releases/view/35438)   
--  [Using PowerPivot with Excel 2010](https://blogs.office.com/b/microsoft-excel/archive/2009/10/23/using-powerpivot-with-excel-2010.aspx)
+-  [PowerPivot for Excel Tutorial Introduction](https://docs.microsoft.com/previous-versions/sql/sql-server-2012/gg413497(v=sql.110))   
+-  [PowerPivot for Excel Tutorial Sample Data](https://archive.codeplex.com/?p=powerpivotsdr)   
+
     
 

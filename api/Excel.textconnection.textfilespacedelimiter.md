@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `TextFileSpaceDelimiter`
 
- _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

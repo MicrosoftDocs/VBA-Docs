@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Module too large
 
-A [module](../../Glossary/vbe-glossary.md#module) contains code within the[project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
+A [module](../../Glossary/vbe-glossary.md#module) contains code within the [project](../../Glossary/vbe-glossary.md#project). This error has the following cause and solution:
 
 
 

@@ -18,7 +18,7 @@ Returns an  **Integer** representing the attributes of a file, directory, or fol
 ## Syntax
 
 **GetAttr(**_pathname_**)**
-The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
+The required  _pathname_[argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
  **Return Values**
 The value returned by  **GetAttr** is the sum of the following attribute values:
 
@@ -37,7 +37,7 @@ The value returned by  **GetAttr** is the sum of the following attribute values:
 
 ## Remarks
 
-To determine which attributes are set, use the  **And** operator to perform a[bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
+To determine which attributes are set, use the  **And** operator to perform a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
 
 
 
