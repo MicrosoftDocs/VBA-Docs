@@ -174,10 +174,6 @@
 ##### [Retrieve information from the Clipboard](../access/Concepts/Windows-API/retrieve-information-from-the-clipboard.md)
 ##### [Send information to the Clipboard](../access/Concepts/Windows-API/send-information-to-the-clipboard.md)
 ##### [Retrieve the name of the user signed on to the network](../access/Concepts/Windows-API/retrieve-the-name-of-the-user-logged-on-to-the-network.md)
-#### Maintenance
-##### [Compact and repair a database](../access/Concepts/Maintenance/compact-and-repair-a-database.md)
-##### [Recover tables deleted from a database](../access/Concepts/Maintenance/recover-tables-deleted-from-a-database.md)
-##### [Handle run-time errors in VBA](../access/Concepts/Maintenance/handle-run-time-errors-in-vba.md)
 #### Miscellaneous
 ##### [0 Database Engine driver](../access/concepts/miscellaneous/0-database-engine-driver.md)
 ##### [5 Database Engine driver (1 of 2)](../access/concepts/miscellaneous/5-database-engine-driver-1-of-2.md)
@@ -266,6 +262,7 @@
 ##### [Recordset (Visual C++)](../access/concepts/miscellaneous/recordset-visual-c-plus-plus-syntax-index-with-import.md)
 ##### [Recordset and SourceRecordset properties example (VBScript)](../access/concepts/miscellaneous/recordset-and-sourcerecordset-properties-example-vbscript.md)
 ##### [RecordsetEvents (Visual C++)](../access/concepts/miscellaneous/recordsetevents-visual-c-plus-plus-syntax-index-with-import.md)
+##### [Recover tables deleted from a database](../access/Concepts/miscellaneous/recover-tables-deleted-from-a-database.md)
 ##### [Refresh method example (VBScript)](../access/concepts/miscellaneous/refresh-method-example-vbscript.md)
 ##### [Register custom business object](../access/concepts/miscellaneous/registering-a-custom-business-object.md)
 ##### [Required client settings](../access/concepts/miscellaneous/required-client-settings.md)
@@ -400,7 +397,6 @@
 ###### [CloseCurrentDatabase](Access.Application.CloseCurrentDatabase.md)
 ###### [CodeDb](Access.Application.CodeDb.md)
 ###### [ColumnHistory](Access.Application.ColumnHistory.md)
-###### [CompactRepair](Access.Application.CompactRepair.md)
 ###### [ConvertAccessProject](Access.Application.ConvertAccessProject.md)
 ###### [CreateAccessProject](Access.Application.CreateAccessProject.md)
 ###### [CreateAdditionalData](Access.Application.CreateAdditionalData.md)

@@ -1,14 +1,14 @@
 ---
-title: Cancel the Deletion of a Record by Using Custom Criteria
+title: Cancel the deletion of a record by using custom criteria
 ms.prod: access
 ms.assetid: 0445765f-4629-5970-776c-5bd30e2d72a1
-ms.date: 06/08/2017
+ms.date: 09/25/2018
 ---
 
 
-# Cancel the Deletion of a Record by Using Custom Criteria
+# Cancel the deletion of a record by using custom criteria
 
-The following example illutrates how to use a form's  **[Delete](../../../api/Access.Form.Delete.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
+The following example illutrates how to use a form's **[Delete](../../../api/Access.Form.Delete.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
 
 
 ```vb

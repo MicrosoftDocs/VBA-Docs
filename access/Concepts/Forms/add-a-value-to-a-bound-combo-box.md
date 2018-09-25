@@ -1,20 +1,20 @@
 ---
-title: Add a Value to a Bound Combo Box
+title: Add a value to a bound combo box
 ms.prod: access
 ms.assetid: a34fddd2-eef6-10e2-c141-609053d1dd90
-ms.date: 06/08/2017
+ms.date: 09/25/2018
 ---
 
 
-# Add a Value to a Bound Combo Box
+# Add a value to a bound combo box
 
 Combo boxes are commonly used to display a list of values in a table or query. By responding to the [NotInList](../../../api/Access.ComboBox.NotInList.md) event, you can provide a way for the user to add values that are not in the list.
 
 Often the value displayed in a combo box is looked up from a record in a related table. Because the list is derived from a table or query, you must provide a way for the user to enter a new record in the underlying table. Then you can use the [Requery](../../../api/Access.ComboBox.Requery.md) method to requery the list, so it contains the new value.
 
-When a user types a value in a combo box that is not in the list, the  **NotInList** event of the combo box occurs as long as the combo box's [LimitToList](../../../api/Access.ComboBox.LimitToList.md) property is set to **Yes**, or a column other than the combo box's bound column is displayed in the box. You can write an event procedure for the **NotInList** event that provides a way for the user to add a new record to the table that supplies the list's values. The **NotInList** event procedure includes a string argument named _NewData_ that Access uses to pass the text the user enters to the event procedure.
+When a user types a value in a combo box that is not in the list, the **NotInList** event of the combo box occurs as long as the combo box's [LimitToList](../../../api/Access.ComboBox.LimitToList.md) property is set to **Yes**, or a column other than the combo box's bound column is displayed in the box. You can write an event procedure for the **NotInList** event that provides a way for the user to add a new record to the table that supplies the list's values. The **NotInList** event procedure includes a string argument named _NewData_ that Access uses to pass the text the user enters to the event procedure.
 
-The  **NotInList** event procedure also has a _Response_ argument, in which you tell Access what to do after the procedure runs. Depending on what action you take in the event procedure, you set the _Response_ argument to one of three predefined constant values:
+The **NotInList** event procedure also has a _Response_ argument, in which you tell Access what to do after the procedure runs. Depending on what action you take in the event procedure, you set the _Response_ argument to one of three predefined constant values:
 
 
 |**Constant**|**Description**|
