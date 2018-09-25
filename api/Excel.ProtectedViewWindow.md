@@ -33,7 +33,7 @@ A  **Protected View** window is used to display a workbook from a potentially un
     
 
 
-Workbooks displayed in a  **Protected View** window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections. For more information about **Protected View** windows, see[What is Protected View?](https://office.microsoft.com/en-us/excel-help/what-is-protected-view-HA010355931.aspx?CTT=1)
+Workbooks displayed in a  **Protected View** window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections. For more information about **Protected View** windows, see[What is Protected View?](https://support.office.com/article/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653?ocmsassetID=HA010355931&CTT=1&CorrelationId=ad189265-115e-4f59-bdf0-ee99038a5bb0&ui=en-US&rs=en-US&ad=US)
 
  To return a single **ProtectedViewWindow** object from the **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection, use `ProtectedViewWindows(Index)`, where  _Index_ is the index number of the window you want to open. You can also access the **ProtectedViewWindow** object that represents the active **Protected View** window by using the **[ActiveProtectedViewWindow](Excel.Application.ActiveProtectedViewWindow.md)** property of the **[Application](Excel.Application(object).md)** object.
 

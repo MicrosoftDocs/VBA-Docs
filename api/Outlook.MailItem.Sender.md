@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Sender Property (Outlook)
 
-Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that corresponds to the user of the account from which the[MailItem](Outlook.MailItem.md) is sent. Read/write.
+Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that corresponds to the user of the account from which the [MailItem](Outlook.MailItem.md) is sent. Read/write.
 
 
 ## Syntax
@@ -25,15 +25,14 @@ Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that correspon
 
 ## Remarks
 
-In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the[CurrentUser](Outlook.Account.CurrentUser.md) property of a specific account.
+In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the [CurrentUser](Outlook.Account.CurrentUser.md) property of a specific account.
 
 If you set the  **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
 
 
 ## Example
 
-Michael Bauer provided the following code example. Michael is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx
-) with expertise in developing Outlook solutions in Visual Basic and Visual Basic for Applications (VBA). Michael maintains a professional site at[VBOffice.net](https://www.vboffice.net/index.html?lang=en).
+Michael Bauer provided the following code example. Michael is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in developing Outlook solutions in Visual Basic and Visual Basic for Applications (VBA). Michael maintains a professional site at [VBOffice.net](https://www.vboffice.net/index.html?lang=en).
 
 The following VBA code example shows how to display the details of the sender of an e-mail. If the sender corresponds to a contact in the user's Outlook Contacts Address Book (CAB), the code example displays information about that contact in an inspector. If the sender is not a contact in the user's CAB, the code example displays details from the user's address entry (taken from the transport provider's address book container) in a dialog box. 
 

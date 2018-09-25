@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Shadow Property (Project)
-Gets or sets the shadow formatting properties for the shape. Read-only  **[ShadowFormat](https://msdn.microsoft.com/en-us/library/office/ff195339%28v=office.15%29)**.
+Gets or sets the shadow formatting properties for the shape. Read-only  **[ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets or sets the shadow formatting properties for the shape. Read-only  **[Shado
 
 
 [Shape Object](Project.shape.md)
-[ShadowFormat](https://msdn.microsoft.com/en-us/library/office/ff195339%28v=office.15%29)
+[ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)

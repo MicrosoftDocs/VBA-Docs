@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This reference contains information about the collections, objects, methods, properties, and enumerations of the Excel Graph object model.
 
-Note: If you are looking for information about Microsoft Graph, the unified API endpoint, see [Microsoft Graph Overview](https://graph.microsoft.io/en-us/docs).
+Note: If you are looking for information about Microsoft Graph, the unified API endpoint, see [Microsoft Graph Overview](https://developer.microsoft.com/graph).
 
 -  **[Concepts](../Excel.md)** Provides important concepts about developing custom Excel Graph solutions.
     

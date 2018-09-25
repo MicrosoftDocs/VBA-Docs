@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 The Microsoft Access database engine supports up to 255 fields per table, but the other database supports fewer fields. A SELECT...INTO statement created a table with more fields than the remote database can support. Reduce the number of columns produced by the SELECT INTO statement, and then try the operation again.
 
  **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](https://answers.microsoft.com/)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

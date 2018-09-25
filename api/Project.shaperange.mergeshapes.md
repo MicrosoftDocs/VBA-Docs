@@ -22,7 +22,7 @@ The  **MergeShapes** method is not implemented in Project.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MergeCmd_|Required|**[MsoMergeCmd](https://msdn.microsoft.com/en-us/library/office/jj227893%28v=office.15%29)**|The type of merge to perform.|
+| _MergeCmd_|Required|**[MsoMergeCmd](https://msdn.microsoft.com/library/office/jj227893%28v=office.15%29)**|The type of merge to perform.|
 | _PrimaryShape_|Optional|**Shape**|The primary shape for the merge.|
 | _MergeCmd_|Required|MSOMERGECMD||
 | _PrimaryShape_|Optional|SHAPE||
@@ -41,4 +41,4 @@ In general for applications that implement Office Art, the  **MergeShapes** meth
 
 
 [ShapeRange Object](Project.shaperange.md)
-[MsoMergeCmd](https://msdn.microsoft.com/en-us/library/office/jj227893%28v=office.15%29)
+[MsoMergeCmd](https://msdn.microsoft.com/library/office/jj227893%28v=office.15%29)

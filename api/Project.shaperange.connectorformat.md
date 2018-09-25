@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.ConnectorFormat Property (Project)
-Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **ShapeRange** object that represents one or more connectors. Read-only **[ConnectorFormat](https://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)**.
+Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **ShapeRange** object that represents one or more connectors. Read-only **[ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)**.
 
 ## Syntax
 
@@ -47,4 +47,4 @@ End With
 
 [ShapeRange Object](Project.shaperange.md)
 [AddConnector Method](Project.shapes.addconnector.md)
-[ConnectorFormat Object](https://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)
+[ConnectorFormat Object](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)

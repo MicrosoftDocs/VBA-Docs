@@ -473,6 +473,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 ## See also
 
-[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/en-us/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
+[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 

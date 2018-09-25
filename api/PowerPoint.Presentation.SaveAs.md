@@ -34,7 +34,7 @@ Saves a presentation that's never been saved, or saves a previously saved presen
 
 ## Remarks
 
-The  _FileFormat_ parameter value can be one of these **PpSaveAsFileType** constants. The default is **ppSaveAsDefault**. For a complete list of constants, see [PpSaveAsFileType Enumeration](https://msdn.microsoft.com/en-us/library/microsoft.office.interop.powerpoint.ppsaveasfiletype.aspx).
+The  _FileFormat_ parameter value can be one of these **PpSaveAsFileType** constants. The default is **ppSaveAsDefault**. For a complete list of constants, see [PpSaveAsFileType Enumeration](https://msdn.microsoft.com/library/microsoft.office.interop.powerpoint.ppsaveasfiletype.aspx).
 
 ||
 |:-----|

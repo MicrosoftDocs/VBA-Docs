@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Working with the Active Cell
 
-The  **[ActiveCell](../../../api/Excel.Application.ActiveCell.md)** property returns a  **[Range](https://msdn.microsoft.com/en-us/library/office/ff838238.aspx)** object that represents the cell that is active. You can apply any of the properties or methods of a **Range** object to the active cell, as in the following example. While one or more worksheet cells may be selected, only one of the cells in the selection can be the **ActiveCell**.
+The  **[ActiveCell](../../../api/Excel.Application.ActiveCell.md)** property returns a  **[Range](https://msdn.microsoft.com/library/office/ff838238.aspx)** object that represents the cell that is active. You can apply any of the properties or methods of a **Range** object to the active cell, as in the following example. While one or more worksheet cells may be selected, only one of the cells in the selection can be the **ActiveCell**.
 
 
 ```vb
@@ -27,7 +27,7 @@ End Sub
 
 ## Moving the Active Cell
 
-You can use the  **[Range .Activate](https://msdn.microsoft.com/en-us/library/office/aa221681(v=office.11).aspx)** method to designate which cell is the active cell. For example, the following procedure makes B5 the active cell and then formats it as bold.
+You can use the  **[Range .Activate](https://msdn.microsoft.com/library/office/aa221681(v=office.11).aspx)** method to designate which cell is the active cell. For example, the following procedure makes B5 the active cell and then formats it as bold.
 
 
 ```vb

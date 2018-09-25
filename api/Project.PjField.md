@@ -1362,7 +1362,4 @@ Many properties, methods, and events use the  **PjField** enumeration. For examp
 For more information about working with fields in Project, see the  _Available fields reference_ topic. In Project Help, search for _Available fields_.
 
 
-## See also
 
-
-[Available fields reference](https://office.microsoft.com/en-us/project-help/available-fields-reference-HA102749299.aspx?CTT=1)

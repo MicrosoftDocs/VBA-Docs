@@ -46,4 +46,4 @@ The  **DataObject** currently supports only text formats.
 
 - [Standard Clipboard Formats](https://msdn.microsoft.com/f0af4e61-7ef1-4263-b2c5-e4114515124f)
 
-- [Registered Clipboard Formats](https://msdn.microsoft.com/en-us/library/ms649013.aspx)
+- [Registered Clipboard Formats](https://msdn.microsoft.com/library/ms649013.aspx)

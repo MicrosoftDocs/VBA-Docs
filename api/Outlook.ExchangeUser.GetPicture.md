@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetPicture Method (Outlook)
 
-Obtains an  **[IPictureDisp](https://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
+Obtains an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
 
 
 ## Syntax

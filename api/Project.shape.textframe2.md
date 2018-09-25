@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.TextFrame2 Property (Project)
-Gets a  **TextFrame2** object that contains the text in a text frame and the members that control the alignment, anchoring, and other features of the text frame. Read-only **[TextFrame2](https://msdn.microsoft.com/en-us/library/office/ff822136%28v=office.15%29)**.
+Gets a  **TextFrame2** object that contains the text in a text frame and the members that control the alignment, anchoring, and other features of the text frame. Read-only **[TextFrame2](https://msdn.microsoft.com/library/office/ff822136%28v=office.15%29)**.
 
 ## Syntax
 
@@ -77,4 +77,4 @@ End Sub
 
 
 [Shape Object](Project.shape.md)
-[TextFrame2](https://msdn.microsoft.com/en-us/library/office/ff822136%28v=office.15%29)
+[TextFrame2](https://msdn.microsoft.com/library/office/ff822136%28v=office.15%29)

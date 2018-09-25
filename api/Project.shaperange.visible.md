@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Visible Property (Project)
-Gets or sets a value that determines whether all of the shapes in the shape range are visible. Read/write  **[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
+Gets or sets a value that determines whether all of the shapes in the shape range are visible. Read/write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
@@ -30,4 +30,4 @@ The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
 
 
 [ShapeRange Object](Project.shaperange.md)
-[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
+[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)

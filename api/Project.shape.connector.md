@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Connector Property (Project)
-Gets a value that indicates whether the shape is a connector. Read-only  **[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**
+Gets a value that indicates whether the shape is a connector. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets a value that indicates whether the shape is a connector. Read-only  **[MsoT
 
 
 [Shape Object](Project.shape.md)
-[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
+[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)

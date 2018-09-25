@@ -52,7 +52,7 @@ You can use Office Fluent UI extensibility to customize the following types of s
     
 - View and view user interface shortcut menus.
     
-For more information about customizing shortcut menus, including examples, see  [Extending the User Interface in Outlook 2010](https://msdn.microsoft.com/en-us/library/ee692172%28office.14%29.aspx) on the MSDN Web site.
+For more information about customizing shortcut menus, including examples, see  [Extending the User Interface in Outlook 2010](https://msdn.microsoft.com/library/ee692172%28office.14%29.aspx) on the MSDN Web site.
 
 
 ## See also
