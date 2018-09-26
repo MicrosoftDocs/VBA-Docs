@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Range.AutoFilter
-ms.assetid: 0f773dbf-63e8-f714-d246-f803a74d366c
 ms.date: 09/20/2018
 ---
 
@@ -41,6 +40,8 @@ If you omit all the arguments, this method simply toggles the display of the Aut
 
 Excel for Mac does not support this method. Similar methods on Selection and ListObject are supported.
 
+Unlike in formulas, Subfields do not require brackets to include spaces.
+
 ## Examples
 
 This example filters a list starting in cell A1 on Sheet1 to display only the entries in which field one is equal to the string "Otis". The drop-down arrow for field one will be hidden.
@@ -66,7 +67,7 @@ This example filters a Table, "Table1", on Sheet1 to display only the entries in
 ```vb
 Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  Field:=1, _
- Criteria1:=Array("1", "3", "Redmond", "Seattle"), _
+ Criteria1:=Array("1", "3", "Seattle", "Redmond"), _
  Operator:=xlFilterValues
 ```
 

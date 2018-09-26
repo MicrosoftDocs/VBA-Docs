@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.SortFields.Add
-ms.assetid: 9dd69850-29e8-6c29-186a-be8303b26390
 ms.date: 09/21/2018
 ---
 

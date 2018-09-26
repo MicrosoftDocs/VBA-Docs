@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.SortFields.Add2
-ms.assetid: 
 ms.date: 09/21/2018
 ---
 
@@ -38,6 +37,8 @@ SortField
 ## Remarks
 
 This API includes support for sorting off a SubField from Data Types, such as Geography or Stocks. [SortFields.Add](Excel.SortFields.Add.md) can also be used if sorting by a Data Type is not needed.
+
+Unlike in formulas, SubFields do not require brackets to include spaces.
 
 ## Examples
 
