@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Activate** box in the **Properties** wind
 
 ## Syntax
 
- _expression_. `OnActivate`
+_expression_. `OnActivate`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Activate** event occurs when the form or report receives the focus and be
 The  **OnActivate** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Activate** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

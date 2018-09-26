@@ -18,9 +18,9 @@ Specifies how a control's border appears. Read/write  **Byte**.
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

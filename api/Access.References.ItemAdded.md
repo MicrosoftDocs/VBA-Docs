@@ -18,9 +18,9 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 
 ## Syntax
 
- _expression_. `ItemAdded`( ` _Reference_`, )
+_expression_. `ItemAdded`( ` _Reference_`, )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters

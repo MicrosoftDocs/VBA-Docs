@@ -18,9 +18,9 @@ Returns or sets the shape of the specifiednavigation button. Read/write  **Long*
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

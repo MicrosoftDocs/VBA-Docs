@@ -18,9 +18,9 @@ Gets or sets how the specified button's caption is arranged in relation to its p
 
 ## Syntax
 
- _expression_. `PictureCaptionArrangement`
+_expression_. `PictureCaptionArrangement`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Gets or sets the shade applied to the theme color in the  **AlternateBackColor**
 
 ## Syntax
 
- _expression_. `AlternateBackShade`
+_expression_. `AlternateBackShade`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

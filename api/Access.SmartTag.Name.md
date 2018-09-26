@@ -18,9 +18,9 @@ You can use the  **Name** property to determine the string expression that ident
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
+_expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## Remarks

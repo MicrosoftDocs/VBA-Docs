@@ -18,9 +18,9 @@ Gets or sets the Quick Style that is applied to the specified object. Read/write
 
 ## Syntax
 
- _expression_. `QuickStyle`
+_expression_. `QuickStyle`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

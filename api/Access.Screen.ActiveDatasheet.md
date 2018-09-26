@@ -18,9 +18,9 @@ You can use the  **ActiveDatasheet** property together with the **[Screen](Acces
 
 ## Syntax
 
- _expression_. `ActiveDatasheet`
+_expression_. `ActiveDatasheet`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## Remarks

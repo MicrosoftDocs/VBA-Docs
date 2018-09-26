@@ -18,9 +18,9 @@ Returns a  **String** indicating the version number of the currently installed c
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

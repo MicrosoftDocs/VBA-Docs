@@ -18,9 +18,9 @@ You can use the  **Name** property to specify or determine the string expression
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

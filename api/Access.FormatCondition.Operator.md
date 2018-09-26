@@ -18,9 +18,9 @@ You can use the  **Operator** property to return the operator value for the cond
 
 ## Syntax
 
- _expression_. `Operator`
+_expression_. `Operator`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

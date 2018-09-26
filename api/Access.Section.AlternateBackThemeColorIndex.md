@@ -18,9 +18,9 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 ## Syntax
 
- _expression_. `AlternateBackThemeColorIndex`
+_expression_. `AlternateBackThemeColorIndex`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

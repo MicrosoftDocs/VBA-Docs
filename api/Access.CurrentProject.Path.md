@@ -18,9 +18,9 @@ You can use the  **Path** property to determine the location where data is store
 
 ## Syntax
 
- _expression_. `Path`
+_expression_. `Path`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

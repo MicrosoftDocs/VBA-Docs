@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** indicating whether the specified report can be mo
 
 ## Syntax
 
- _expression_. `Moveable`
+_expression_. `Moveable`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

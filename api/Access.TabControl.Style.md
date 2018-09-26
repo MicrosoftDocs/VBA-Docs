@@ -18,9 +18,9 @@ You can use the  **Style** property to specify or determine the appearance of ta
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets or sets the bottom gridline style of the specified toggle button. Read/writ
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

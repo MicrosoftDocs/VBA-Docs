@@ -18,9 +18,9 @@ The  **Unload** event occurs after a report is closed but before it's removed fr
 
 ## Syntax
 
- _expression_. `Unload`( ` _Cancel_`, )
+_expression_. `Unload`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

@@ -18,9 +18,9 @@ Gets or sets the width of the bottom gridline for the specified image. Read/writ
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

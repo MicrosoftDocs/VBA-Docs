@@ -18,9 +18,9 @@ Specifies whether labels are automatically created and attached to new controls.
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## See also

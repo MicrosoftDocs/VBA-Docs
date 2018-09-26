@@ -18,9 +18,9 @@ Returns the unique identifier for the layout that contains the specified image. 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Specifies whether labels are automatically created and attached to new controls.
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ The  **Rename** method carries out the Rename action in Visual Basic.
 
 ## Syntax
 
- _expression_. `Rename`( ` _NewName_`, ` _ObjectType_`, ` _OldName_` )
+_expression_. `Rename`( ` _NewName_`, ` _ObjectType_`, ` _OldName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

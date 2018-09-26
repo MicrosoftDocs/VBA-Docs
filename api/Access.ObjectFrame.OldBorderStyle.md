@@ -18,9 +18,9 @@ You can use this property to set or returns the unedited value of the  **BorderS
 
 ## Syntax
 
- _expression_. `OldBorderStyle`
+_expression_. `OldBorderStyle`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

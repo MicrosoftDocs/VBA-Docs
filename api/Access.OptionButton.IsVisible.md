@@ -18,9 +18,9 @@ You can use the  **IsVisible** property in to determine whether a control on a r
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

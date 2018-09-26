@@ -18,9 +18,9 @@ Returns a  **String** that represents the related XML code for a smart tag. Read
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
+_expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## See also

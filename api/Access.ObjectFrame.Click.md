@@ -18,9 +18,9 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

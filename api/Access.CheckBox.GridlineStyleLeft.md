@@ -18,9 +18,9 @@ Gets or sets the width of the bottom gridline for the specified check box. Read/
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

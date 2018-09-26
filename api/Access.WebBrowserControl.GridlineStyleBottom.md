@@ -18,9 +18,9 @@ Gets or sets the bottom gridline style of the specified list box. Read/write  **
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **hWnd** property to determine the handle (a unique **Long Inte
 
 ## Syntax
 
- _expression_. `Hwnd`
+_expression_. `Hwnd`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

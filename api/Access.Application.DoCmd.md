@@ -18,9 +18,9 @@ You can use the  **DoCmd** property to access the read-only **[DoCmd](Access.DoC
 
 ## Syntax
 
- _expression_. `DoCmd`
+_expression_. `DoCmd`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

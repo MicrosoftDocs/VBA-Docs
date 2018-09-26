@@ -18,9 +18,9 @@ You can use the  **DatasheetFontName** property to specify the font used to disp
 
 ## Syntax
 
- _expression_. `DatasheetFontName`
+_expression_. `DatasheetFontName`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **HyperlinkAddress** property to specify or determine the path 
 
 ## Syntax
 
- _expression_. `HyperlinkAddress`
+_expression_. `HyperlinkAddress`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

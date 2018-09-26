@@ -18,9 +18,9 @@ You can use the  **Hyperlink** property to return a reference to a **Hyperlink**
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_. `Hyperlink`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Example

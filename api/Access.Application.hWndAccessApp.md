@@ -18,9 +18,9 @@ You can use the  **hWndAccessApp** method to determine the handle assigned by Mi
 
 ## Syntax
 
- _expression_. `hWndAccessApp`
+_expression_. `hWndAccessApp`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

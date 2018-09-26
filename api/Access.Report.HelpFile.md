@@ -18,9 +18,9 @@ The name of a help file associated with a report. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `HelpFile`
+_expression_. `HelpFile`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Example

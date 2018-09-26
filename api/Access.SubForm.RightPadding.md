@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the subform and its right g
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## See also

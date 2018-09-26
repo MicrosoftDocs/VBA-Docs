@@ -18,9 +18,9 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 
 ## Syntax
 
- _expression_. `ColumnHidden`
+_expression_. `ColumnHidden`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

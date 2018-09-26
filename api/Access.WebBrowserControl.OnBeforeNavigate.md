@@ -18,9 +18,9 @@ Gets or sets the value of the  **On Before Navigate** box in the property sheet 
 
 ## Syntax
 
- _expression_. `OnBeforeNavigate`
+_expression_. `OnBeforeNavigate`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

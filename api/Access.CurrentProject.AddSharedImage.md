@@ -18,9 +18,9 @@ Imports the the specified image into the database and adds it to the  **[SharedR
 
 ## Syntax
 
- _expression_. `AddSharedImage`( ` _SharedImageName_`, ` _FileName_` )
+_expression_. `AddSharedImage`( ` _SharedImageName_`, ` _FileName_` )
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ### Parameters

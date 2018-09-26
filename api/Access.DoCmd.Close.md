@@ -18,9 +18,9 @@ The  **Close** method carries out the Close action in Visual Basic.
 
 ## Syntax
 
- _expression_. `Close`( ` _ObjectType_`, ` _ObjectName_`, ` _Save_` )
+_expression_. `Close`( ` _ObjectType_`, ` _ObjectName_`, ` _Save_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

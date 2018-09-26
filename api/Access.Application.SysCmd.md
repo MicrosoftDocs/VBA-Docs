@@ -18,9 +18,9 @@ You can use the  **SysCmd** method to, display a progress meter or optional spec
 
 ## Syntax
 
- _expression_. `SysCmd`( ` _Action_`, ` _Argument2_`, ` _Argument3_` )
+_expression_. `SysCmd`( ` _Action_`, ` _Argument2_`, ` _Argument3_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

@@ -18,9 +18,9 @@ The  **RunSQL** method carries out the RunSQL action in Visual Basic.
 
 ## Syntax
 
- _expression_. `RunSQL`( ` _SQLStatement_`, ` _UseTransaction_` )
+_expression_. `RunSQL`( ` _SQLStatement_`, ` _UseTransaction_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

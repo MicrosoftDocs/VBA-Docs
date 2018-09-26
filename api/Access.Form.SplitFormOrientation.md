@@ -18,9 +18,9 @@ Gets or sets the position of the datasheet relative to the form when the form is
 
 ## Syntax
 
- _expression_. `SplitFormOrientation`
+_expression_. `SplitFormOrientation`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

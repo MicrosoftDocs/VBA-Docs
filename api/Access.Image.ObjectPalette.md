@@ -18,9 +18,9 @@ The  **ObjectPalette** property specifies the palette in the application used to
 
 ## Syntax
 
- _expression_. `ObjectPalette`
+_expression_. `ObjectPalette`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

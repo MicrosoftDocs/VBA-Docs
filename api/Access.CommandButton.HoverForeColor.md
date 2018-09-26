@@ -18,9 +18,9 @@ Gets or sets the color of the text displayed on the control when the user rests 
 
 ## Syntax
 
- _expression_. `HoverForeColor`
+_expression_. `HoverForeColor`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

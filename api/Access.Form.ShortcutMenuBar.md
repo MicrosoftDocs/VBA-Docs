@@ -18,9 +18,9 @@ You can use the  **ShortcutMenuBar** property to specify the shortcut menu that 
 
 ## Syntax
 
- _expression_. `ShortcutMenuBar`
+_expression_. `ShortcutMenuBar`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

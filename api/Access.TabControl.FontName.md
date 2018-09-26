@@ -26,9 +26,9 @@ Read/write  **String**.
 
 ## Syntax
 
- _expression_. `FontName`
+_expression_. `FontName`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

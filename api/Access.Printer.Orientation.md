@@ -18,9 +18,9 @@ Gets or sets an  **[AcPrintOrientation](Access.AcPrintOrientation.md)** constant
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_. `Orientation`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## See also

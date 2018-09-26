@@ -18,9 +18,9 @@ Gets or sets the color of the gridline for the specified subform. Read/write  **
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

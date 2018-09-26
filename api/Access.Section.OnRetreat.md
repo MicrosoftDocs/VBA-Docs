@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Retreat** box in the **Properties** windo
 
 ## Syntax
 
- _expression_. `OnRetreat`
+_expression_. `OnRetreat`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Retreat** event occurs when Microsoft Access returns to a previous report
 The  **OnRetreat** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Retreat** box in the report section's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

@@ -18,9 +18,9 @@ You can use the  **VBE** property to return a reference to the current **VBE** o
 
 ## Syntax
 
- _expression_. `VBE`
+_expression_. `VBE`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

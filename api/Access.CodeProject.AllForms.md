@@ -18,9 +18,9 @@ You can use the  **AllForms** property to reference the **[AllForms](Access.AllF
 
 ## Syntax
 
- _expression_. `AllForms`
+_expression_. `AllForms`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

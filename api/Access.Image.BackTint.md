@@ -18,9 +18,9 @@ Gets or sets the tint that is applied to the theme color in the  **BackColor** p
 
 ## Syntax
 
- _expression_. `BackTint`
+_expression_. `BackTint`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

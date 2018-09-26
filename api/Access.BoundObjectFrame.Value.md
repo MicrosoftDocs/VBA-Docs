@@ -18,9 +18,9 @@ Gets of sets the value of the field that the control is bound to. Read/write  **
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

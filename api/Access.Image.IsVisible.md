@@ -18,9 +18,9 @@ You can use the  **IsVisible** property in to determine whether a control on a r
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

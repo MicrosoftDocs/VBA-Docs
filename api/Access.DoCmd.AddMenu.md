@@ -18,9 +18,9 @@ The  **AddMenu** method carries out the AddMenu action in Visual Basic.
 
 ## Syntax
 
- _expression_. `AddMenu`( ` _MenuName_`, ` _MenuMacroName_`, ` _StatusBarText_` )
+_expression_. `AddMenu`( ` _MenuName_`, ` _MenuMacroName_`, ` _StatusBarText_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

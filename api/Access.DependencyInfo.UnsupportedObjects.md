@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `UnsupportedObjects`
+_expression_. `UnsupportedObjects`
 
- _expression_ A variable that represents a [DependencyInfo](Access.DependencyInfo.md) object.
+_expression_ A variable that represents a [DependencyInfo](Access.DependencyInfo.md) object.
 
 
 ## Remarks

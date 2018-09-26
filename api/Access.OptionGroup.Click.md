@@ -18,9 +18,9 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Imports the object defined in an Application XML (AXL) file into the database.
 
 ## Syntax
 
- _expression_. `LoadFromAXL`( ` _ObjectType_`, ` _ObjectName_`, ` _FileName_` )
+_expression_. `LoadFromAXL`( ` _ObjectType_`, ` _ObjectName_`, ` _FileName_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

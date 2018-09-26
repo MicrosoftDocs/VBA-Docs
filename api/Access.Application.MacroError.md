@@ -18,9 +18,9 @@ Returns a  **[MacroError](Access.MacroError.md)** object that contains informati
 
 ## Syntax
 
- _expression_. `MacroError`
+_expression_. `MacroError`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ You can use the  **CurrentView** property to determine how a report is currently
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

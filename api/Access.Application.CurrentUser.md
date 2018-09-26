@@ -18,9 +18,9 @@ You can use the  **CurrentUser** method to return the name of the current user o
 
 ## Syntax
 
- _expression_. `CurrentUser`
+_expression_. `CurrentUser`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

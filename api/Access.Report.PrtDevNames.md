@@ -18,9 +18,9 @@ You can use the  **PrtDevNames** property to set or return information about the
 
 ## Syntax
 
- _expression_. `PrtDevNames`
+_expression_. `PrtDevNames`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

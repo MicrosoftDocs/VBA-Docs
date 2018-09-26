@@ -18,9 +18,9 @@ You can use the  **AccessError** method to return the descriptive string associa
 
 ## Syntax
 
- _expression_. `AccessError`( ` _ErrorNumber_` )
+_expression_. `AccessError`( ` _ErrorNumber_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

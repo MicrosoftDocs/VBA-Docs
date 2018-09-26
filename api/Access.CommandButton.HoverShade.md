@@ -18,9 +18,9 @@ Gets or sets the shade that is applied to the theme color in the  **HoverColor**
 
 ## Syntax
 
- _expression_. `HoverShade`
+_expression_. `HoverShade`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

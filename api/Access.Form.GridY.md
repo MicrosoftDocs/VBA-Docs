@@ -18,9 +18,9 @@ You can use the  **GridY** property (along with the **GridX** property) to speci
 
 ## Syntax
 
- _expression_. `GridY`
+_expression_. `GridY`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

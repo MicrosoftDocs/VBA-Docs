@@ -18,9 +18,9 @@ You can use the  **Dirty** property to determine whether the current record has 
 
 ## Syntax
 
- _expression_. `Dirty`
+_expression_. `Dirty`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

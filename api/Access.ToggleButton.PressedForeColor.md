@@ -18,9 +18,9 @@ Gets or sets the color of the text displayed on the control when the user clicks
 
 ## Syntax
 
- _expression_. `PressedForeColor`
+_expression_. `PressedForeColor`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

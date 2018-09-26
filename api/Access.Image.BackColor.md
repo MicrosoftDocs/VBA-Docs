@@ -18,9 +18,9 @@ Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

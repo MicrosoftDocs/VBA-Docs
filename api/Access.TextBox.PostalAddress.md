@@ -18,9 +18,9 @@ You can use the  **PostalAddress Property** property to specify or determine the
 
 ## Syntax
 
- _expression_. `PostalAddress`
+_expression_. `PostalAddress`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

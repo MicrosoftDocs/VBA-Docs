@@ -18,9 +18,9 @@ Returns the type of layout for the specified list box. Read-only  **[AcLayoutTyp
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## See also

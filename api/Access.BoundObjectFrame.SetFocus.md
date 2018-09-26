@@ -18,9 +18,9 @@ The  **SetFocus** method moves the focus to the specified form, the specified co
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ### Return Value

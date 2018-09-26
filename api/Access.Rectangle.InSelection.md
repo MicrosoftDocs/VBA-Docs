@@ -18,9 +18,9 @@ You can use the  **InSelection** property to determine or specify whether a cont
 
 ## Syntax
 
- _expression_. `InSelection`
+_expression_. `InSelection`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

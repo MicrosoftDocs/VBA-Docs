@@ -18,9 +18,9 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

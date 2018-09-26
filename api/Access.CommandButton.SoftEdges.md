@@ -18,9 +18,9 @@ Gets or sets the  **Soft Edges** effect applied to the specified object. Read/wr
 
 ## Syntax
 
- _expression_. `SoftEdges`
+_expression_. `SoftEdges`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

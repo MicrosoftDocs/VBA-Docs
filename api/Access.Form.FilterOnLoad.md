@@ -18,9 +18,9 @@ Gets or sets whether the filter specified by the  **[Filter](Access.Form.Filter(
 
 ## Syntax
 
- _expression_. `FilterOnLoad`
+_expression_. `FilterOnLoad`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

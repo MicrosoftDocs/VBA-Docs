@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Current** property on the Report. Read/wr
 
 ## Syntax
 
- _expression_. `OnCurrent`
+_expression_. `OnCurrent`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -34,7 +34,7 @@ If you set the form's  **On Current** property in the UI, it gets it value based
 
 - If you select  **Code Builder**, then the value will be  _[Event Procedure]_.
     
-- If you select  **Expression Builder**, then the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If you select  **Expression Builder**, then the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If you select  **Macro Builder**, then the value will be the name of the macro.
     

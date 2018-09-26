@@ -18,9 +18,9 @@ The  **Execute** method performs the specified smart tag action.
 
 ## Syntax
 
- _expression_. `Execute`
+_expression_. `Execute`
 
- _expression_ A variable that represents a [SmartTagAction](Access.SmartTagAction.md) object.
+_expression_ A variable that represents a [SmartTagAction](Access.SmartTagAction.md) object.
 
 
 ## Remarks

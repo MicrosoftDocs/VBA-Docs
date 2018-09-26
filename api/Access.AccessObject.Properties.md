@@ -18,9 +18,9 @@ Returns a reference to a  **[AccessObject](Access.AccessObject.md)** object's **
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **ColumnWidths** property to specify the width of each column i
 
 ## Syntax
 
- _expression_. `ColumnWidths`
+_expression_. `ColumnWidths`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

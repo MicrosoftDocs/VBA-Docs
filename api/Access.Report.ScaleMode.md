@@ -18,9 +18,9 @@ You can use the  **ScaleMode** property in Visual Basic to specify the unit of m
 
 ## Syntax
 
- _expression_. `ScaleMode`
+_expression_. `ScaleMode`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

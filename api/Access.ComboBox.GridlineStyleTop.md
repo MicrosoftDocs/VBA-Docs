@@ -18,9 +18,9 @@ Gets or sets the top gridline style of the specified combo box. Read/write  **By
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

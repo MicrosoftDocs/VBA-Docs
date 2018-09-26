@@ -18,9 +18,9 @@ The **DblClick** event occurs when the user presses and releases the left mouse 
 
 ## Syntax
 
- _expression_. `DblClick`(*Cancel*)
+_expression_. `DblClick`(*Cancel*)
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters

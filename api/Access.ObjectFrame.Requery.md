@@ -18,9 +18,9 @@ The  **Requery** method updates the data underlying a specified control that's o
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

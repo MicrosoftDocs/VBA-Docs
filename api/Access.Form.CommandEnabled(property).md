@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating which macro, event procedure, or user-d
 
 ## Syntax
 
- _expression_. `CommandEnabled`
+_expression_. `CommandEnabled`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

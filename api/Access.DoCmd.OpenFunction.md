@@ -18,9 +18,9 @@ Opens a user-defined function in a Microsoft SQL Server database for viewing in 
 
 ## Syntax
 
- _expression_. `OpenFunction`( ` _FunctionName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenFunction`( ` _FunctionName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

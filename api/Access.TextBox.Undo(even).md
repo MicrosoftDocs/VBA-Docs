@@ -18,9 +18,9 @@ Occurs when the user undoes a change.
 
 ## Syntax
 
- _expression_. `Undo`( ` _Cancel_`, )
+_expression_. `Undo`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ### Parameters

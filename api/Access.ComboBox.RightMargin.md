@@ -18,9 +18,9 @@ Along with the  **TopMargin**, **Left Margin**, and **BottomMargin** properties,
 
 ## Syntax
 
- _expression_. `RightMargin`
+_expression_. `RightMargin`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

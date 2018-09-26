@@ -18,9 +18,9 @@ Gets or sets the shade that is applied to the theme color in the  **BackColor** 
 
 ## Syntax
 
- _expression_. `BackShade`
+_expression_. `BackShade`
 
- _expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
+_expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
 
 
 ## Remarks

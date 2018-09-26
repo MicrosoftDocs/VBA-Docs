@@ -18,9 +18,9 @@ Returns a  **[ImportExportSpecifications](Access.ImportExportSpecifications.md)*
 
 ## Syntax
 
- _expression_. `ImportExportSpecifications`
+_expression_. `ImportExportSpecifications`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

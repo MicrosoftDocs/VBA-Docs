@@ -18,9 +18,9 @@ Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the c
 
 ## Syntax
 
- _expression_. `SmartTags`
+_expression_. `SmartTags`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -19,9 +19,9 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelY`
+_expression_. `LabelY`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

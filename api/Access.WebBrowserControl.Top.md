@@ -18,9 +18,9 @@ You can use the  **Top** property to specify an object's location on a form or r
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

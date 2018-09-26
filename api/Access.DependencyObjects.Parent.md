@@ -18,9 +18,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
+_expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
 
 
 ## See also

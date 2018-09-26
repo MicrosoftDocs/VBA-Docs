@@ -18,9 +18,9 @@ You can use the  **Verb** property to specify the operation to perform when an O
 
 ## Syntax
 
- _expression_. `Verb`
+_expression_. `Verb`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

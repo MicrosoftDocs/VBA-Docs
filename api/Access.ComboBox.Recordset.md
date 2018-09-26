@@ -18,9 +18,9 @@ Returns or sets the ADO  **Recordset** or DAO **[Recordset](overview/Access.md)*
 
 ## Syntax
 
- _expression_. `Recordset`
+_expression_. `Recordset`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

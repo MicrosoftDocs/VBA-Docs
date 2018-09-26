@@ -18,9 +18,9 @@ Gets or sets the text that appears in the title bar in Form view. Read/write  **
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

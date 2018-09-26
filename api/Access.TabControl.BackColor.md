@@ -18,9 +18,9 @@ Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

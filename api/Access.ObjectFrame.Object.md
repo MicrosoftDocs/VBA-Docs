@@ -18,9 +18,9 @@ You can use the  **Object** property in Visual Basic to return a reference to th
 
 ## Syntax
 
- _expression_. `Object`
+_expression_. `Object`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

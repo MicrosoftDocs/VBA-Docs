@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IMEMode`
+_expression_. `IMEMode`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

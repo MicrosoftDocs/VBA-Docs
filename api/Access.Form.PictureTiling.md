@@ -18,9 +18,9 @@ You can use the  **PictureTiling** property to specify whether a background pict
 
 ## Syntax
 
- _expression_. `PictureTiling`
+_expression_. `PictureTiling`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

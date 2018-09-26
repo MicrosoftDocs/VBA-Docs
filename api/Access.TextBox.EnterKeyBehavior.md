@@ -18,9 +18,9 @@ You can use the  **EnterKeyBehavior** property to specify what happens when you 
 
 ## Syntax
 
- _expression_. `EnterKeyBehavior`
+_expression_. `EnterKeyBehavior`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

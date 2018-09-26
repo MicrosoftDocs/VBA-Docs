@@ -18,9 +18,9 @@ You can use the  **ProjectType** property to determine the type of project that 
 
 ## Syntax
 
- _expression_. `ProjectType`
+_expression_. `ProjectType`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

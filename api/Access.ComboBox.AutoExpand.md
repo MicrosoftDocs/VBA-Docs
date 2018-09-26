@@ -18,9 +18,9 @@ You can use the  **AutoExpand** property to specify whether Microsoft Access aut
 
 ## Syntax
 
- _expression_. `AutoExpand`
+_expression_. `AutoExpand`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

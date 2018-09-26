@@ -18,9 +18,9 @@ The  **Hourglass** method carries out the Hourglass action in Visual Basic.
 
 ## Syntax
 
- _expression_. `Hourglass`( ` _HourglassOn_` )
+_expression_. `Hourglass`( ` _HourglassOn_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

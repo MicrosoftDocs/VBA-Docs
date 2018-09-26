@@ -16,9 +16,9 @@ Returns the  **[ReturnVars](Access.ReturnVars.md)** collection representing all 
 
 ## Syntax
 
- _expression_. `ReturnVars`
+_expression_. `ReturnVars`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Property value

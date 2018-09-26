@@ -18,9 +18,9 @@ The  **GoToRecord** method carries out the GoToRecord action in Visual Basic.
 
 ## Syntax
 
- _expression_. `GoToRecord`( ` _ObjectType_`, ` _ObjectName_`, ` _Record_`, ` _Offset_` )
+_expression_. `GoToRecord`( ` _ObjectType_`, ` _ObjectName_`, ` _Record_`, ` _Offset_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

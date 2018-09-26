@@ -18,9 +18,9 @@ Gets the name of the macro action that was executing when an error occurred. Rea
 
 ## Syntax
 
- _expression_. `ActionName`
+_expression_. `ActionName`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

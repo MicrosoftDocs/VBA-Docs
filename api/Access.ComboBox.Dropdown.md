@@ -18,9 +18,9 @@ You can use the  **Dropdown** method to force the list in the specified combo bo
 
 ## Syntax
 
- _expression_. `Dropdown`
+_expression_. `Dropdown`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ### Return Value

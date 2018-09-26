@@ -18,9 +18,9 @@ You can use the  **RecordsetClone** property to refer to a form's **Recordset** 
 
 ## Syntax
 
- _expression_. `RecordsetClone`
+_expression_. `RecordsetClone`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

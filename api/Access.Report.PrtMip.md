@@ -18,9 +18,9 @@ You can use the  **PrtMip** property in Visual Basic to set or return the device
 
 ## Syntax
 
- _expression_. `PrtMip`
+_expression_. `PrtMip`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

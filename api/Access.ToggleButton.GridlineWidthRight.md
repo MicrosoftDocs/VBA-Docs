@@ -18,9 +18,9 @@ Gets or sets the width of the right gridline for the specified toggle button. Re
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

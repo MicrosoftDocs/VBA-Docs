@@ -18,9 +18,9 @@ You can use the  **PictureType** property to specify whether Microsoft Access st
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Occurs when a filter is applied to a form.
 
 ## Syntax
 
- _expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
+_expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

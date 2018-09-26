@@ -18,9 +18,9 @@ Gets or sets the tint applied to the theme color in the  **PressedForeColor** pr
 
 ## Syntax
 
- _expression_. `PressedForeTint`
+_expression_. `PressedForeTint`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

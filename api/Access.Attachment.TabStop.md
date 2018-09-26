@@ -18,9 +18,9 @@ You can use the  **TabStop** property to specify whether you can use the TAB key
 
 ## Syntax
 
- _expression_. `TabStop`
+_expression_. `TabStop`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

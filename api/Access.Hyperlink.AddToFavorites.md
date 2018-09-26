@@ -18,9 +18,9 @@ The  **AddToFavorites** method adds a hyperlink address to the Favorites folder.
 
 ## Syntax
 
- _expression_. `AddToFavorites`
+_expression_. `AddToFavorites`
 
- _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
 ### Return Value

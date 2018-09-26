@@ -18,9 +18,9 @@ The  **NextRecord** property specifies whether a section should advance to the n
 
 ## Syntax
 
- _expression_. `NextRecord`
+_expression_. `NextRecord`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **Left** property to specify an object's location on a form or 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

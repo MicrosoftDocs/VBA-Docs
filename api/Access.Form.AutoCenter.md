@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** indicating whether a form will be centered automa
 
 ## Syntax
 
- _expression_. `AutoCenter`
+_expression_. `AutoCenter`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

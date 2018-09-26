@@ -18,9 +18,9 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

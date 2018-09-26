@@ -18,9 +18,9 @@ You can use the  **FilterOn** property to specify or determine whether the **Fil
 
 ## Syntax
 
- _expression_. `FilterOn`
+_expression_. `FilterOn`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

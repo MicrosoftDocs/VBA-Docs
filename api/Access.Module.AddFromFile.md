@@ -18,9 +18,9 @@ The  **AddFromFile** method adds the contents of a text file to a **Module** obj
 
 ## Syntax
 
- _expression_. `AddFromFile`( ` _FileName_` )
+_expression_. `AddFromFile`( ` _FileName_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters

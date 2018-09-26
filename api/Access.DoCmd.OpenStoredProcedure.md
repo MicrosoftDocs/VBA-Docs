@@ -18,9 +18,9 @@ The  **OpenStoredProcedure** method carries out the OpenStoredProcedure action i
 
 ## Syntax
 
- _expression_. `OpenStoredProcedure`( ` _ProcedureName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenStoredProcedure`( ` _ProcedureName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

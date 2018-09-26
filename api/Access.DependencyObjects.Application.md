@@ -18,9 +18,9 @@ You can use the  **Application** property to access the active Microsoft Access 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
+_expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
 
 
 ## Remarks

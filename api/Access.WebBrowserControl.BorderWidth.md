@@ -18,9 +18,9 @@ You can use the  **BorderWidth** property to specify the width of a control's bo
 
 ## Syntax
 
- _expression_. `BorderWidth`
+_expression_. `BorderWidth`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

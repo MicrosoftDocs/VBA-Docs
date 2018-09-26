@@ -18,9 +18,9 @@ Gets or sets the bottom gridline style of the specified check box. Read/write  *
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

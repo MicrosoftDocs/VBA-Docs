@@ -18,9 +18,9 @@ Gets the history of values that have been stored in a Memo field.
 
 ## Syntax
 
- _expression_. `ColumnHistory`( ` _TableName_`, ` _ColumnName_`, ` _queryString_` )
+_expression_. `ColumnHistory`( ` _TableName_`, ` _ColumnName_`, ` _queryString_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

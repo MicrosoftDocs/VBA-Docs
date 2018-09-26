@@ -18,9 +18,9 @@ You can use the  **Format** property to customize the way numbers, dates, times,
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

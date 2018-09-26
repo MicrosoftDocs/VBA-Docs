@@ -18,7 +18,7 @@ The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** obj
 
 ## Syntax
 
- _expression_. **Circle** (** _Step_** (** _x, y_**), ** _radius_**, ** _color_**, ** _start_**, ** _end_**, ** _aspect_**)
+_expression_. **Circle** (** _Step_** (** _x, y_**), ** _radius_**, ** _color_**, ** _start_**, ** _end_**, ** _aspect_**)
 
 
 ### Parameters

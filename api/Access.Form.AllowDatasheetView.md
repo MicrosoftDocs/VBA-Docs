@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** indicating whether the specified form may be view
 
 ## Syntax
 
- _expression_. `AllowDatasheetView`
+_expression_. `AllowDatasheetView`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

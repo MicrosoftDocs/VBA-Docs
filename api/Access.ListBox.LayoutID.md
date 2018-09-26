@@ -18,9 +18,9 @@ Returns the unique identifier for the layout that contains the specified list bo
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

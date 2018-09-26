@@ -18,9 +18,9 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 ## Syntax
 
- _expression_. `BackThemeColorIndex`
+_expression_. `BackThemeColorIndex`
 
- _expression_ A variable that represents a '[BoundObjectFrame](Access.BoundObjectFrame.md)' object.
+_expression_ A variable that represents a '[BoundObjectFrame](Access.BoundObjectFrame.md)' object.
 
 
 ## Remarks

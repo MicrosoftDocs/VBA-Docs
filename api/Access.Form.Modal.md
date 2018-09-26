@@ -18,9 +18,9 @@ You can use the  **Modal** property to specify whether a form opens as a modal w
 
 ## Syntax
 
- _expression_. `Modal`
+_expression_. `Modal`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

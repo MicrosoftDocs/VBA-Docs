@@ -26,9 +26,9 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

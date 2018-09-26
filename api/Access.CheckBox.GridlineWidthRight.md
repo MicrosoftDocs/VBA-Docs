@@ -18,9 +18,9 @@ Gets or sets the width of the right gridline for the specified check box. Read/w
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

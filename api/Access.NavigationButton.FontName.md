@@ -26,9 +26,9 @@ Read/write  **String**.
 
 ## Syntax
 
- _expression_. `FontName`
+_expression_. `FontName`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

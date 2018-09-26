@@ -18,9 +18,9 @@ You can use the  **CommandBars** property to return a reference to the **Command
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

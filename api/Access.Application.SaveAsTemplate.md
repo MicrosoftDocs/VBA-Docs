@@ -18,9 +18,9 @@ Converts an existing Access database file to a database template (*.accdt) forma
 
 ## Syntax
 
- _expression_. `SaveAsTemplate`( ` _Path_`, ` _Title_`, ` _IconPath_`, ` _CoreTable_`, ` _Category_`, ` _PreviewPath_`, ` _Description_`, ` _InstantiationForm_`, ` _ApplicationPart_`, ` _IncludeData_` )
+_expression_. `SaveAsTemplate`( ` _Path_`, ` _Title_`, ` _IconPath_`, ` _CoreTable_`, ` _Category_`, ` _PreviewPath_`, ` _Description_`, ` _InstantiationForm_`, ` _ApplicationPart_`, ` _IncludeData_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

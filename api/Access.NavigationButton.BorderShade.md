@@ -18,9 +18,9 @@ Gets or sets the shade applied to the theme color in the  **BorderColor** proper
 
 ## Syntax
 
- _expression_. `BorderShade`
+_expression_. `BorderShade`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -13,18 +13,14 @@ ms.date: 06/08/2017
 
 # AccessObject.CurrentView property (Access)
 
-Returns the current view for the specified Access object. Read-only  **[AcCurrentView](Access.AcCurrentView.md)**.
+Returns the current view for the specified Access object. Read-only **[AcCurrentView](Access.AcCurrentView.md)**.
 
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
-
-
-## See also
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
-[AccessObject Object](Access.AccessObject.md)
 

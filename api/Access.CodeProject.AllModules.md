@@ -18,9 +18,9 @@ You can use the  **AllModules** property to reference the **[AllModules](Access.
 
 ## Syntax
 
- _expression_. `AllModules`
+_expression_. `AllModules`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

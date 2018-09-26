@@ -18,9 +18,9 @@ The  **TextAlign** property specifies the text alignment in new controls. Read/w
 
 ## Syntax
 
- _expression_. `TextAlign`
+_expression_. `TextAlign`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

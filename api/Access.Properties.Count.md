@@ -18,9 +18,9 @@ Returns the number of objects in the specified collection. Read-only.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [Properties](Access.Properties.md) object.
+_expression_ A variable that represents a [Properties](Access.Properties.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **SpecialEffect** property to specify whether special formattin
 
 ## Syntax
 
- _expression_. `SpecialEffect`
+_expression_. `SpecialEffect`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

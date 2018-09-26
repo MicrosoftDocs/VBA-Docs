@@ -18,9 +18,9 @@ You can use the  **DatasheetForeColor** property in Visual Basic to specify or d
 
 ## Syntax
 
- _expression_. `DatasheetForeColor`
+_expression_. `DatasheetForeColor`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

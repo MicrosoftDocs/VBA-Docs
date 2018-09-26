@@ -18,9 +18,9 @@ You can use the  **Undo** method to reset a control or form when its value has b
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

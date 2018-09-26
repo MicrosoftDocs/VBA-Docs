@@ -18,9 +18,9 @@ You can use the  **IsVisible** property in to determine whether a control on a r
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

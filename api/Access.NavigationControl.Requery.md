@@ -18,9 +18,9 @@ The  **Requery** method updates the data underlying a specified control that's o
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

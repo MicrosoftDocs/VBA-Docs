@@ -18,9 +18,9 @@ You can use the  **CurrentObjectName** property with the **[Application](Access.
 
 ## Syntax
 
- _expression_. `CurrentObjectName`
+_expression_. `CurrentObjectName`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

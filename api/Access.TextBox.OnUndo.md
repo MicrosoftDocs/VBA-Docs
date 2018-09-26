@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating which macro, event procedure, or user-d
 
 ## Syntax
 
- _expression_. `OnUndo`
+_expression_. `OnUndo`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

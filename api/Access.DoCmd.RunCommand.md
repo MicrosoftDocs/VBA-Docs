@@ -18,9 +18,9 @@ The  **RunCommand** method runs a built-in command.
 
 ## Syntax
 
- _expression_. `RunCommand`( ` _Command_` )
+_expression_. `RunCommand`( ` _Command_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

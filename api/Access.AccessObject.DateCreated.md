@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AccessObject.DateCreated property (Access)
 
-Returns a  **Date** indicating the date and time when the design of the specified object was last modified. Read-only.
+Returns a **Date** indicating the date and time when the design of the specified object was last modified. Read-only.
 
 
 ## Syntax
 
- _expression_. `DateCreated`
+_expression_. `DateCreated`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Example

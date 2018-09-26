@@ -26,9 +26,9 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
 ## Syntax
 
- _expression_. `FontBold`
+_expression_. `FontBold`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

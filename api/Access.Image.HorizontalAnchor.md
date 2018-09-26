@@ -18,9 +18,9 @@ Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant
 
 ## Syntax
 
- _expression_. `HorizontalAnchor`
+_expression_. `HorizontalAnchor`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

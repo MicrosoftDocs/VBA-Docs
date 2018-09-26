@@ -18,9 +18,9 @@ You can use the  **SourceObject** property to identify the form or report that i
 
 ## Syntax
 
- _expression_. `SourceObject`
+_expression_. `SourceObject`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

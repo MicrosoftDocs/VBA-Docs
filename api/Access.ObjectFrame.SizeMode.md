@@ -18,9 +18,9 @@ You can use the  **SizeMode** property to specify how to size a picture or other
 
 ## Syntax
 
- _expression_. `SizeMode`
+_expression_. `SizeMode`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

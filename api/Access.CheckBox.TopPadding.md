@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the check box and its top g
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## See also

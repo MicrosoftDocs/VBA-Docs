@@ -18,9 +18,9 @@ You can use the  **DLookup** function to get the value of a particular field fro
 
 ## Syntax
 
- _expression_. `DLookup`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
+_expression_. `DLookup`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

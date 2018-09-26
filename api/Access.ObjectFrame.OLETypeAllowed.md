@@ -18,9 +18,9 @@ You can use the  **OLETypeAllowed** property to specify the type of OLE object a
 
 ## Syntax
 
- _expression_. `OLETypeAllowed`
+_expression_. `OLETypeAllowed`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

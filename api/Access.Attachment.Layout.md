@@ -18,9 +18,9 @@ Returns the type of layout for the specified attachment. Read-only  **[AcLayoutT
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

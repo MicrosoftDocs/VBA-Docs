@@ -18,9 +18,9 @@ Occurs after the object represented by the  _chartObject_ argument has been rend
 
 ## Syntax
 
- _expression_. `AfterRender`( ` _drawObject_`, ` _chartObject_` )
+_expression_. `AfterRender`( ` _drawObject_`, ` _chartObject_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

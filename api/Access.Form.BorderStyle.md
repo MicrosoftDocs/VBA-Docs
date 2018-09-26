@@ -18,9 +18,9 @@ Specifies the type of border and border elements (title bar,  **Control** menu, 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

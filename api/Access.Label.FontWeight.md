@@ -18,9 +18,9 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
 ## Syntax
 
- _expression_. `FontWeight`
+_expression_. `FontWeight`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

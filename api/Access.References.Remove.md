@@ -18,9 +18,9 @@ The  **Remove** method removes a **[Reference](Access.Reference.md)** object fro
 
 ## Syntax
 
- _expression_. `Remove`( ` _Reference_` )
+_expression_. `Remove`( ` _Reference_` )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters

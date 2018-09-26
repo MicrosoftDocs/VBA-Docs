@@ -18,9 +18,9 @@ Returns or sets a **String** representing the custom properties dialog box for a
 
 ## Syntax
 
- _expression_. `Custom`
+_expression_. `Custom`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

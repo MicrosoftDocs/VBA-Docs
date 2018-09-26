@@ -18,9 +18,9 @@ You can use the  **CloseConnection** method to close the current connection betw
 
 ## Syntax
 
- _expression_. `CloseConnection`
+_expression_. `CloseConnection`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ### Return Value

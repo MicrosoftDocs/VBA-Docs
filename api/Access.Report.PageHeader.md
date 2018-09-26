@@ -18,9 +18,9 @@ You can use the  **PageHeader** property to specify whether a report's page head
 
 ## Syntax
 
- _expression_. `PageHeader`
+_expression_. `PageHeader`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

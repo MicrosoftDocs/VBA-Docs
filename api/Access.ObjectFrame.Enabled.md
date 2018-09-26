@@ -18,9 +18,9 @@ You can use the  **Enabled** property to set or return the status of the conditi
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

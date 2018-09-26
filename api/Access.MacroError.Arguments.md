@@ -18,9 +18,9 @@ Gets the arguments specified for the macro action that was executing when an err
 
 ## Syntax
 
- _expression_. `Arguments`
+_expression_. `Arguments`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

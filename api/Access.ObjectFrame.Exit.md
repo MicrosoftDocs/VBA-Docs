@@ -18,9 +18,9 @@ The  **Exit** event occurs just before a control loses the focus to another cont
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_` )
+_expression_. `Exit`( ` _Cancel_` )
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ### Parameters

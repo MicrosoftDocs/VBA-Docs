@@ -18,9 +18,9 @@ Adds a smart tag to a form or control.
 
 ## Syntax
 
- _expression_. `Add`( ` _Name_` )
+_expression_. `Add`( ` _Name_` )
 
- _expression_ A variable that represents a [SmartTags](Access.SmartTags.md) object.
+_expression_ A variable that represents a [SmartTags](Access.SmartTags.md) object.
 
 
 ### Parameters

@@ -18,9 +18,9 @@ You can use the  **Picture** property to specify a bitmap or other type of graph
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

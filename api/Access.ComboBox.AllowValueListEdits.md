@@ -18,9 +18,9 @@ Gets or sets whether the  **Edit List Items** command is available when the user
 
 ## Syntax
 
- _expression_. `AllowValueListEdits`
+_expression_. `AllowValueListEdits`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

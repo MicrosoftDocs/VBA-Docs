@@ -18,9 +18,9 @@ Pauses macro execution and opens the  **Macro Single Step** dialog box.
 
 ## Syntax
 
- _expression_. `SingleStep`
+_expression_. `SingleStep`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

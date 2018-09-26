@@ -18,9 +18,9 @@ The  **KeyPress** event occurs when the user presses and releases a key or key c
 
 ## Syntax
 
- _expression_. `KeyPress`( ` _KeyAscii_` )
+_expression_. `KeyPress`( ` _KeyAscii_` )
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ### Parameters

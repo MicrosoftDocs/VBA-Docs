@@ -18,9 +18,9 @@ You can use the  **Application** property to access the active Microsoft Access 
 
 ## Syntax
 
- _expression_.
+_expression_.
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

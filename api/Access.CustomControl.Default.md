@@ -18,9 +18,9 @@ You can use the  **Default** property to specify whether a command button is the
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

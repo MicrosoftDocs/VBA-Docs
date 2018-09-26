@@ -18,9 +18,9 @@ Returns the type of layout for the specified text box. Read-only  **[AcLayoutTyp
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the SQL Server owner name of the record
 
 ## Syntax
 
- _expression_. `RecordSourceQualifier`
+_expression_. `RecordSourceQualifier`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

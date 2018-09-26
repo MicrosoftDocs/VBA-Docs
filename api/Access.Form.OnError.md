@@ -18,9 +18,9 @@ Sets or returns the value of the  **OnError** box in the **Properties** window o
 
 ## Syntax
 
- _expression_. `OnError`
+_expression_. `OnError`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Error** event occurs when a run-time error is produced in Microsoft Acces
 The  **OnError** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **OnError** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

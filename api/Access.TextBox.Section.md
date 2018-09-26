@@ -18,9 +18,9 @@ You can identify these controls by the section of a form or report where the con
 
 ## Syntax
 
- _expression_. `Section`
+_expression_. `Section`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

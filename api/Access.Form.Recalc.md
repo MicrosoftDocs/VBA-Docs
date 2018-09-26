@@ -18,9 +18,9 @@ The  **Recalc** method immediately updates all calculated controls on a form.
 
 ## Syntax
 
- _expression_. `Recalc`
+_expression_. `Recalc`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Return Value

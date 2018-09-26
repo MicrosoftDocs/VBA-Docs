@@ -18,9 +18,9 @@ You can use the  **ColumnHeads** property to display a single row of column head
 
 ## Syntax
 
- _expression_. `ColumnHeads`
+_expression_. `ColumnHeads`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

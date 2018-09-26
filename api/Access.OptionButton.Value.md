@@ -18,9 +18,9 @@ Determines or specifies whether or not the specified option button is selected. 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

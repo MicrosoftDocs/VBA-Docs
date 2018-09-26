@@ -18,9 +18,9 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

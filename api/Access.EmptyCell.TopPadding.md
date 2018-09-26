@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the text box and its top gr
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## See also

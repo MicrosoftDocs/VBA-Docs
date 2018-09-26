@@ -18,9 +18,9 @@ Returns a reference to a control's **[Properties](Access.Properties.md)** collec
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

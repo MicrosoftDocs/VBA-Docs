@@ -18,9 +18,9 @@ You can use the  **Transparent** property to specify whether a command button is
 
 ## Syntax
 
- _expression_. `Transparent`
+_expression_. `Transparent`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

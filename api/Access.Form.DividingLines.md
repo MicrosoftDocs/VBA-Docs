@@ -18,9 +18,9 @@ You can use the  **DividingLines** property to specify whether dividing lines wi
 
 ## Syntax
 
- _expression_. `DividingLines`
+_expression_. `DividingLines`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

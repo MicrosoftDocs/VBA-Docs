@@ -18,9 +18,9 @@ Gets or set the name of the customized ribbon to be displayed when the specified
 
 ## Syntax
 
- _expression_. `RibbonName`
+_expression_. `RibbonName`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

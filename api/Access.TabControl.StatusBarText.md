@@ -18,9 +18,9 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
 ## Syntax
 
- _expression_. `StatusBarText`
+_expression_. `StatusBarText`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

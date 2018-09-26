@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating which macro, event procedure, or user-d
 
 ## Syntax
 
- _expression_. `MouseWheel`
+_expression_. `MouseWheel`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

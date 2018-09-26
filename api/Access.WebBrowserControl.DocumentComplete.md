@@ -18,9 +18,9 @@ Occurs when a document is completely loaded and initialized.
 
 ## Syntax
 
- _expression_. `DocumentComplete`( ` _pDisp_`, ` _URL_` )
+_expression_. `DocumentComplete`( ` _pDisp_`, ` _URL_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters

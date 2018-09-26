@@ -18,9 +18,9 @@ You can use the  **ForeColor** property to specify the color for text in a contr
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

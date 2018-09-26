@@ -18,9 +18,9 @@ Specifies whether labels are automatically created and attached to new controls.
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## See also

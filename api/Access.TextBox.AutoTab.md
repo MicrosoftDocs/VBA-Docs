@@ -18,9 +18,9 @@ You can use the  **AutoTab** property to specify whether an automatic tab occurs
 
 ## Syntax
 
- _expression_. `AutoTab`
+_expression_. `AutoTab`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

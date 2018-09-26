@@ -18,9 +18,9 @@ Returns the value of an  **[AccessObject](Access.AccessObject.md)** object type.
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ You can use the  **FillStyle** property to specify whether a circle or line draw
 
 ## Syntax
 
- _expression_. `FillStyle`
+_expression_. `FillStyle`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

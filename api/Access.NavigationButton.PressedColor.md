@@ -18,9 +18,9 @@ Gets or sets the color displayed on the control when the user clicks it. Read/wr
 
 ## Syntax
 
- _expression_. `PressedColor`
+_expression_. `PressedColor`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

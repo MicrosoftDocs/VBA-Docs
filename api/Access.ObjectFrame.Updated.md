@@ -18,9 +18,9 @@ The  **Updated** event occurs when an OLE object's data has been modified.
 
 ## Syntax
 
- _expression_. `Updated`( ` _Code_` )
+_expression_. `Updated`( ` _Code_` )
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

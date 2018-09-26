@@ -18,9 +18,9 @@ Gets the Uniform Resource Locator (URL) of the current document. Read-only  **St
 
 ## Syntax
 
- _expression_. `LocationURL`
+_expression_. `LocationURL`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## See also

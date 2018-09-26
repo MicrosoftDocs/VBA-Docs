@@ -18,9 +18,9 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
 ## Syntax
 
- _expression_. `GotFocus`
+_expression_. `GotFocus`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

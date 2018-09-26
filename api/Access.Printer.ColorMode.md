@@ -18,9 +18,9 @@ Returns or sets an  **[AcPrintColor](Access.AcPrintColor.md)** constant represen
 
 ## Syntax
 
- _expression_. `ColorMode`
+_expression_. `ColorMode`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

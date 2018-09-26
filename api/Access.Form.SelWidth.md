@@ -18,9 +18,9 @@ You can use the  **SelWidth** property to specify or determine the number of sel
 
 ## Syntax
 
- _expression_. `SelWidth`
+_expression_. `SelWidth`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

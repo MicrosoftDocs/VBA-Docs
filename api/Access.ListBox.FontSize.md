@@ -26,9 +26,9 @@ Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

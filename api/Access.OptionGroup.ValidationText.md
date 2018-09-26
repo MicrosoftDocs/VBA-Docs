@@ -18,9 +18,9 @@ Use the  **ValidationText** property to specify a message to be displayed to the
 
 ## Syntax
 
- _expression_. `ValidationText`
+_expression_. `ValidationText`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

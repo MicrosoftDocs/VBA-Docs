@@ -18,9 +18,9 @@ The  **ApplyFilter** method carries out the **ApplyFilter** action in Visual Bas
 
 ## Syntax
 
- _expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
+_expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

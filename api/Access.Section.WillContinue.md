@@ -18,9 +18,9 @@ Determines if the current section will continue on the following page. Read/writ
 
 ## Syntax
 
- _expression_. `WillContinue`
+_expression_. `WillContinue`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

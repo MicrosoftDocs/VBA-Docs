@@ -18,9 +18,9 @@ The  **LostFocus** event occurs when the specified object loses the focus.
 
 ## Syntax
 
- _expression_. `LostFocus`
+_expression_. `LostFocus`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

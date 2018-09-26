@@ -18,9 +18,9 @@ You use the  **SortOrder** property to specify the sort order for fields and exp
 
 ## Syntax
 
- _expression_. `SortOrder`
+_expression_. `SortOrder`
 
- _expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
 
 
 ## Remarks

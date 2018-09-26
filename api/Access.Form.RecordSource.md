@@ -18,9 +18,9 @@ You can use the  **RecordSource** property to specify the source of the data for
 
 ## Syntax
 
- _expression_. `RecordSource`
+_expression_. `RecordSource`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

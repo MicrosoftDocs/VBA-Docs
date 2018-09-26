@@ -18,9 +18,9 @@ Executes the specfied import or export specification.
 
 ## Syntax
 
- _expression_. `Execute`( ` _OverwritePrompt_` )
+_expression_. `Execute`( ` _OverwritePrompt_` )
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ### Parameters

@@ -18,9 +18,9 @@ You can use the  **ControlType** property in Visual Basic to determine the type 
 
 ## Syntax
 
- _expression_. `ControlType`
+_expression_. `ControlType`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

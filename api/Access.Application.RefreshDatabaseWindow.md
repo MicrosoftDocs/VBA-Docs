@@ -18,9 +18,9 @@ The  **RefreshDatabaseWindow** method updates the Database window after a databa
 
 ## Syntax
 
- _expression_. `RefreshDatabaseWindow`
+_expression_. `RefreshDatabaseWindow`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

@@ -18,9 +18,9 @@ The Error event occurs when a run-time error is produced in Microsoft Access whe
 
 ## Syntax
 
- _expression_. `Error`( ` _DataErr_`, ` _Response_` )
+_expression_. `Error`( ` _DataErr_`, ` _Response_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

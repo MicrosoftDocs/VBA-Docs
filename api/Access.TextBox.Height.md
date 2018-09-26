@@ -18,9 +18,9 @@ Gets or sets the height of the specified object in twips. Read/write  **Integer*
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

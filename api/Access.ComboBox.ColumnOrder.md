@@ -18,9 +18,9 @@ You can use the  **ColumnOrder** property to specify the order of the columns in
 
 ## Syntax
 
- _expression_. `ColumnOrder`
+_expression_. `ColumnOrder`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

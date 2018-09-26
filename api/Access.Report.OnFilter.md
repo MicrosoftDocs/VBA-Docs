@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Filter** box in the **Properties** window
 
 ## Syntax
 
- _expression_. `OnFilter`
+_expression_. `OnFilter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Filter** event occurs when a report is opened and its records are display
 The  **OnFilter** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Filter** box in the report's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

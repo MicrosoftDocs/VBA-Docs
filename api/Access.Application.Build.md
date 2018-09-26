@@ -18,9 +18,9 @@ Returns as a  **Long** representing the build number of the currently installed 
 
 ## Syntax
 
- _expression_. `Build`
+_expression_. `Build`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

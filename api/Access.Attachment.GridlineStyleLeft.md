@@ -18,9 +18,9 @@ Gets or sets the width of the bottom gridline for the specified attachment. Read
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

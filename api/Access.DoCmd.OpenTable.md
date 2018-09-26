@@ -18,9 +18,9 @@ The  **OpenTable** method carries out the OpenTable action in Visual Basic.
 
 ## Syntax
 
- _expression_. `OpenTable`( ` _TableName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenTable`( ` _TableName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

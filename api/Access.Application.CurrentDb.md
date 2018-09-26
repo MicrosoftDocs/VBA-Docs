@@ -18,9 +18,9 @@ The  **CurrentDb** method returns an object variable of type **Database** that r
 
 ## Syntax
 
- _expression_. `CurrentDb`
+_expression_. `CurrentDb`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

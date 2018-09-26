@@ -18,9 +18,9 @@ Gets or sets the font index that represents a font in the applied theme associat
 
 ## Syntax
 
- _expression_. `ThemeFontIndex`
+_expression_. `ThemeFontIndex`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

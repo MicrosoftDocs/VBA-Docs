@@ -18,9 +18,9 @@ The  **Change** event occurs when when you move from one page to another page.
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

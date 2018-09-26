@@ -18,9 +18,9 @@ You can use the  **FormatConditions** property to return a read-only reference t
 
 ## Syntax
 
- _expression_. `FormatConditions`
+_expression_. `FormatConditions`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Example

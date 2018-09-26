@@ -18,9 +18,9 @@ You can use the  **PicturePages** property to specify on which page or pages of 
 
 ## Syntax
 
- _expression_. `PicturePages`
+_expression_. `PicturePages`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

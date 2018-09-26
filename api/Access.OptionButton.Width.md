@@ -18,9 +18,9 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

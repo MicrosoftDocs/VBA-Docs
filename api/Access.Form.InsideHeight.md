@@ -18,9 +18,9 @@ You can use the  **InsideHeight** property (along with the **InsideWidth** prope
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets or sets the width of the left gridline for the specified label. Read/write 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

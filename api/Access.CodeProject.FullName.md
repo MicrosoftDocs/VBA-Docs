@@ -18,9 +18,9 @@ Sets or returns the full path (including file name) of a specific object. Read-o
 
 ## Syntax
 
- _expression_. `FullName`
+_expression_. `FullName`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

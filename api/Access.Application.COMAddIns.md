@@ -18,9 +18,9 @@ You can use the  **COMAddIns** property to return a reference to the current **C
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

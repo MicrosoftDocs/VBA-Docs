@@ -18,9 +18,9 @@ You can use the  **ScrollBars** property to specify whether scroll bars appear o
 
 ## Syntax
 
- _expression_. `ScrollBars`
+_expression_. `ScrollBars`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

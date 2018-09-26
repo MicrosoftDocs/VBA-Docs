@@ -19,9 +19,9 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelY`
+_expression_. `LabelY`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

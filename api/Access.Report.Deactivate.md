@@ -18,9 +18,9 @@ The  **Deactivate** event occurs when a report loses the focus to a Table, Query
 
 ## Syntax
 
- _expression_. `Deactivate`
+_expression_. `Deactivate`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

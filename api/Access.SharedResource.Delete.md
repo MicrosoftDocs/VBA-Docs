@@ -18,9 +18,9 @@ Deletes the specified object.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
+_expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
 
 
 ## See also

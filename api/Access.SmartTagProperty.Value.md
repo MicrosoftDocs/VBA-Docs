@@ -18,9 +18,9 @@ Gets or sets the value of the specified object. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [SmartTagProperty](Access.SmartTagProperty.md) object.
+_expression_ A variable that represents a [SmartTagProperty](Access.SmartTagProperty.md) object.
 
 
 ## Remarks

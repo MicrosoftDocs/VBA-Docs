@@ -18,9 +18,9 @@ Returns an  **[IAssistance](Office.IAssistance.md)** object that represents the 
 
 ## Syntax
 
- _expression_. `Assistance`
+_expression_. `Assistance`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -18,8 +18,8 @@ Gets the name of the specified  **[ReturnVar](Access.ReturnVar.md)**. Read-only 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
+_expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
 
 

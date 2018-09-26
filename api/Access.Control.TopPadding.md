@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the control and its top gri
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## See also

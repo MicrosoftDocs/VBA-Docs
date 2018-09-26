@@ -18,9 +18,9 @@ The  **IsCompiled** property returns a **Boolean** value indicating whether the 
 
 ## Syntax
 
- _expression_. `IsCompiled`
+_expression_. `IsCompiled`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

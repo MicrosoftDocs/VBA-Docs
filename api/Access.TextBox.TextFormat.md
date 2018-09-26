@@ -18,9 +18,9 @@ Gets or sets whether rich text is displayed in the specified text box. Read/writ
 
 ## Syntax
 
- _expression_. `TextFormat`
+_expression_. `TextFormat`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

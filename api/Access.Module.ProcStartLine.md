@@ -18,9 +18,9 @@ The  **ProcStartLine** property returns avalue identifying the line at which a s
 
 ## Syntax
 
- _expression_. `ProcStartLine`( ` _ProcName_`, ` _ProcKind_` )
+_expression_. `ProcStartLine`( ` _ProcName_`, ` _ProcKind_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters

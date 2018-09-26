@@ -18,9 +18,9 @@ You can use the  **ControlSource** property to specify what data appears in a co
 
 ## Syntax
 
- _expression_. `ControlSource`
+_expression_. `ControlSource`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

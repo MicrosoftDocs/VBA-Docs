@@ -18,9 +18,9 @@ Gets or sets the right gridline style of the specified text box. Read/write  **B
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

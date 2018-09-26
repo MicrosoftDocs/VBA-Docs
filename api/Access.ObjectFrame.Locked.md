@@ -18,9 +18,9 @@ The  **Locked** property specifies whether you can edit data in a control in For
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

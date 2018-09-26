@@ -18,9 +18,9 @@ You can use the  **NewRecord** property to determine whether the current record 
 
 ## Syntax
 
- _expression_. `NewRecord`
+_expression_. `NewRecord`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

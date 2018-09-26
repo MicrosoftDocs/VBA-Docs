@@ -18,9 +18,9 @@ You can use the  **Section** property to identify a section of a form and provid
 
 ## Syntax
 
- _expression_. `Section`( ` _Index_` )
+_expression_. `Section`( ` _Index_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters

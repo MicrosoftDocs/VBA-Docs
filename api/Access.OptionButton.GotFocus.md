@@ -18,9 +18,9 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
 ## Syntax
 
- _expression_. `GotFocus`
+_expression_. `GotFocus`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

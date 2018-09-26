@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Change** box in the **Properties** window
 
 ## Syntax
 
- _expression_. `OnChange`
+_expression_. `OnChange`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Change** event occurs when the contents of a text box or the text portion
 The  **OnChange** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Change** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

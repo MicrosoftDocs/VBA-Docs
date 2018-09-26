@@ -18,9 +18,9 @@ You can use the  **ControlTipText** property to specify the text that appears in
 
 ## Syntax
 
- _expression_. `ControlTipText`
+_expression_. `ControlTipText`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

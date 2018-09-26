@@ -18,9 +18,9 @@ You can use the  **BorderColor** property to specify the color of a control's bo
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

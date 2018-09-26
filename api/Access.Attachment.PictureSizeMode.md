@@ -18,9 +18,9 @@ You can use the  **PictureSizeMode** property to specify how a picture for an at
 
 ## Syntax
 
- _expression_. `PictureSizeMode`
+_expression_. `PictureSizeMode`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

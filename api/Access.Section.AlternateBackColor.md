@@ -18,9 +18,9 @@ Gets or sets the background color to display on alternate rows of the specified 
 
 ## Syntax
 
- _expression_. `AlternateBackColor`
+_expression_. `AlternateBackColor`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

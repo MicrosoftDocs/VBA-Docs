@@ -18,9 +18,9 @@ Gets or sets the shade that is applied to the theme color in the  **BorderColor*
 
 ## Syntax
 
- _expression_. `BorderShade`
+_expression_. `BorderShade`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

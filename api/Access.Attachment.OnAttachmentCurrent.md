@@ -18,9 +18,9 @@ Sets or gets the value of the  **On Attachment Current** box in the Properties w
 
 ## Syntax
 
- _expression_. `OnAttachmentCurrent`
+_expression_. `OnAttachmentCurrent`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

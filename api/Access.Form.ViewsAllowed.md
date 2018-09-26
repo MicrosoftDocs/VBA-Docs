@@ -18,9 +18,9 @@ You can use the  **ViewsAllowed** property to specify whether users can switch b
 
 ## Syntax
 
- _expression_. `ViewsAllowed`
+_expression_. `ViewsAllowed`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Updates the dependency information for the database.
 
 ## Syntax
 
- _expression_. `UpdateDependencyInfo`
+_expression_. `UpdateDependencyInfo`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ### Return Value

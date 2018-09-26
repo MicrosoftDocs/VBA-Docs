@@ -26,9 +26,9 @@ You can use the  **FontUnderline** property to specify whether text is underline
 
 ## Syntax
 
- _expression_. `FontUnderline`
+_expression_. `FontUnderline`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

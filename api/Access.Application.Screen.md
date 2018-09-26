@@ -18,9 +18,9 @@ You can use the  **Screen** property to return a reference the **[Screen](Access
 
 ## Syntax
 
- _expression_. `Screen`
+_expression_. `Screen`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

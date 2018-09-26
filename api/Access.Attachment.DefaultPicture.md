@@ -18,9 +18,9 @@ Gets or sets the path and file name of the graphic to be used as a background pi
 
 ## Syntax
 
- _expression_. `DefaultPicture`
+_expression_. `DefaultPicture`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

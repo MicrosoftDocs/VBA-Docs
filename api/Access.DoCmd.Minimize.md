@@ -18,9 +18,9 @@ The  **Minimize** method carries out the Minimize action in Visual Basic.
 
 ## Syntax
 
- _expression_. `Minimize`
+_expression_. `Minimize`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

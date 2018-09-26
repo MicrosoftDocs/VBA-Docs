@@ -18,9 +18,9 @@ You can use the  **Count** property to determine the number of items in a specif
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [AllReports](Access.AllReports.md) object.
+_expression_ A variable that represents an [AllReports](Access.AllReports.md) object.
 
 
 ## Example

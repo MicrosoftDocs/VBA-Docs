@@ -18,9 +18,9 @@ Gets or sets the color of the gridline for the specified label. Read/write  **Lo
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

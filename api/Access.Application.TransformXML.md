@@ -18,9 +18,9 @@ Applies an Extensible Stylesheet Language (XSL) stylesheet to an XML data file a
 
 ## Syntax
 
- _expression_. `TransformXML`( ` _DataSource_`, ` _TransformSource_`, ` _OutputTarget_`, ` _WellFormedXMLOutput_`, ` _ScriptOption_` )
+_expression_. `TransformXML`( ` _DataSource_`, ` _TransformSource_`, ` _OutputTarget_`, ` _WellFormedXMLOutput_`, ` _ScriptOption_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

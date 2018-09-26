@@ -18,9 +18,9 @@ You can use the  **CurrentProject** property to access the **[CurrentProject](Ac
 
 ## Syntax
 
- _expression_. `CurrentProject`
+_expression_. `CurrentProject`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

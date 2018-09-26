@@ -18,9 +18,9 @@ You can use the  **DDERequest** function over an open dynamic data exchange (DDE
 
 ## Syntax
 
- _expression_. `DDERequest`( ` _ChanNum_`, ` _Item_` )
+_expression_. `DDERequest`( ` _ChanNum_`, ` _Item_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

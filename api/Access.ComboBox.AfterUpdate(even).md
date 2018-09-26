@@ -18,9 +18,9 @@ The  **AfterUpdate** event occurs after changed data in a control or record is u
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_. `AfterUpdate`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

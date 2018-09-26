@@ -18,9 +18,9 @@ Gets the number of  **[TempVar](Access.TempVar.md)** objects in the **[TempVars]
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 
 ## See also

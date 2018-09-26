@@ -18,9 +18,9 @@ You can use the  **AllTables** property to reference the **[AllTables](Access.Al
 
 ## Syntax
 
- _expression_. `AllTables`
+_expression_. `AllTables`
 
- _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

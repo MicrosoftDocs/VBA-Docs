@@ -18,9 +18,9 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

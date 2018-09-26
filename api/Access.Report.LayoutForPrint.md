@@ -18,9 +18,9 @@ You can use the  **LayoutForPrint** property to specify whether the report uses 
 
 ## Syntax
 
- _expression_. `LayoutForPrint`
+_expression_. `LayoutForPrint`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

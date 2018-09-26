@@ -18,9 +18,9 @@ Returns or sets a  **Long** indicating the number of copies to be printed. Read/
 
 ## Syntax
 
- _expression_. `Copies`
+_expression_. `Copies`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ You can use the  **Filter** property to specify a subset of records to be displa
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

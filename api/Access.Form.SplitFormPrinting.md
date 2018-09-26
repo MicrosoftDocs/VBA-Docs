@@ -18,9 +18,9 @@ Gets or sets whether the contents of the form or the datasheet are printed when 
 
 ## Syntax
 
- _expression_. `SplitFormPrinting`
+_expression_. `SplitFormPrinting`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

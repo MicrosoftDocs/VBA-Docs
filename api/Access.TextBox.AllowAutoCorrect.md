@@ -18,9 +18,9 @@ You can use the  **AllowAutoCorrect** property to specify whetherthe specified c
 
 ## Syntax
 
- _expression_. `AllowAutoCorrect`
+_expression_. `AllowAutoCorrect`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

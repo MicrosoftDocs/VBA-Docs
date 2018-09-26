@@ -18,9 +18,9 @@ You can use the  **ActiveReport** property together with the **[Screen](Access.S
 
 ## Syntax
 
- _expression_. `ActiveReport`
+_expression_. `ActiveReport`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## Remarks

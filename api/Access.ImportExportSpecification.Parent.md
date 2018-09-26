@@ -18,9 +18,9 @@ Returns the parent object for the specified object. Read-only  **Object**.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## See also

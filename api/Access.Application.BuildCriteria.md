@@ -18,9 +18,9 @@ The  **BuildCriteria** method returns a parsed criteria string as it would appea
 
 ## Syntax
 
- _expression_. `BuildCriteria`( ` _Field_`, ` _FieldType_`, ` _Expression_` )
+_expression_. `BuildCriteria`( ` _Field_`, ` _FieldType_`, ` _Expression_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
@@ -40,7 +40,7 @@ String
 
 ## Remarks
 
-The  **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the _expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in Filter By Form or Server Filter By Form mode.
+The  **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the_expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in Filter By Form or Server Filter By Form mode.
 
 For example, a user creating a query on an Orders table might restrict the result set to orders placed after January 1, 1995, by setting criteria on an OrderDate field. The user might enter an expression such as the following one in the  **Criteria** row beneath the OrderDate field:
 

@@ -18,9 +18,9 @@ The  **RefreshRecord** method performs the **RefreshRecord** macro operation fro
 
 ## Syntax
 
- _expression_. `RefreshRecord`
+_expression_. `RefreshRecord`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets the Uniform Resource Locator (URL) of the Web site to which the database ha
 
 ## Syntax
 
- _expression_. `WebSite`
+_expression_. `WebSite`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

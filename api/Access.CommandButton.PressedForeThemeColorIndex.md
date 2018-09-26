@@ -18,9 +18,9 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 ## Syntax
 
- _expression_. `PressedForeThemeColorIndex`
+_expression_. `PressedForeThemeColorIndex`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

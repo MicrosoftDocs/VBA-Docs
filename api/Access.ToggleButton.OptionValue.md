@@ -18,9 +18,9 @@ Each control in an option group has a numeric value that you can set with the  *
 
 ## Syntax
 
- _expression_. `OptionValue`
+_expression_. `OptionValue`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

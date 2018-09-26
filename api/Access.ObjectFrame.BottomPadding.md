@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the object frame and its bo
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## See also

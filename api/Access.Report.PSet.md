@@ -18,9 +18,9 @@ The  **PSet** method sets a point on a **[Report](Access.Report.md)** object to 
 
 ## Syntax
 
- _expression_. `PSet`( ` _flags_`, ` _X_`, ` _Y_`, ` _color_` )
+_expression_. `PSet`( ` _flags_`, ` _X_`, ` _Y_`, ` _color_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

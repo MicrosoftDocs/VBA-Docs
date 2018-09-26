@@ -18,9 +18,9 @@ You can use the  **ListCount** property to determine the number of rows in the l
 
 ## Syntax
 
- _expression_. `ListCount`
+_expression_. `ListCount`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

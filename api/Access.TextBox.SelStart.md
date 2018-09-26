@@ -18,9 +18,9 @@ The  **SelStart** property specifies or determines the starting point of the sel
 
 ## Syntax
 
- _expression_. `SelStart`
+_expression_. `SelStart`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

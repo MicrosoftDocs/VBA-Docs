@@ -18,9 +18,9 @@ The  **OpenQuery** method carries out the **OpenQuery** action in Visual Basic.
 
 ## Syntax
 
- _expression_. `OpenQuery`( ` _QueryName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenQuery`( ` _QueryName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters

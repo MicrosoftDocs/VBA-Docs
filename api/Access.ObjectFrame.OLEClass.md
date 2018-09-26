@@ -18,9 +18,9 @@ You can use the  **OLEClass** property to obtain a description of the kind of OL
 
 ## Syntax
 
- _expression_. `OLEClass`
+_expression_. `OLEClass`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

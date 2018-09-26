@@ -16,9 +16,9 @@ Gets or sets modifications to the Quick Style that is applied to the specified o
 
 ## Syntax
 
- _expression_. `QuickStyle`
+_expression_. `QuickStyle`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

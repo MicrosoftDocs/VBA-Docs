@@ -18,9 +18,9 @@ Returns the type of layout for the specified object frame. Read-only  **[AcLayou
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## See also

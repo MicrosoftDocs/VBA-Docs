@@ -18,9 +18,9 @@ You can use the  **Name** property to determine the string expression that ident
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Remarks

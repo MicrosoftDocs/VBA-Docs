@@ -18,9 +18,9 @@ The  **AddFromGUID** method creates a **[Reference](Access.Reference.md)** objec
 
 ## Syntax
 
- _expression_. `AddFromGuid`( ` _Guid_`, ` _Major_`, ` _Minor_` )
+_expression_. `AddFromGuid`( ` _Guid_`, ` _Major_`, ` _Minor_` )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters

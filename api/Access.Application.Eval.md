@@ -18,9 +18,9 @@ You can use the  **Eval** function to evaluate an expression that results in a t
 
 ## Syntax
 
- _expression_. `Eval`( ` _StringExpr_` )
+_expression_. `Eval`( ` _StringExpr_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters

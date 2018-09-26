@@ -18,9 +18,9 @@ Gets or sets a  **String** that describes the specified **[ImportExportSpecifica
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## Remarks

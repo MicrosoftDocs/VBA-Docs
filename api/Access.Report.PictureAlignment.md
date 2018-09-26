@@ -18,9 +18,9 @@ You can use the  **PictureAlignment** property to specify where a background pic
 
 ## Syntax
 
- _expression_. `PictureAlignment`
+_expression_. `PictureAlignment`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Specifies the amount of total progress of a download operation. Read-only  **Lon
 
 ## Syntax
 
- _expression_. `Progress`
+_expression_. `Progress`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

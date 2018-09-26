@@ -18,9 +18,9 @@ Gets or sets the amount of space (in inches) between the text box and its left g
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_. `LeftPadding`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

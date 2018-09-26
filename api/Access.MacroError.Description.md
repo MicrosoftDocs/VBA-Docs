@@ -18,9 +18,9 @@ Gets the text that represents the current error message. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

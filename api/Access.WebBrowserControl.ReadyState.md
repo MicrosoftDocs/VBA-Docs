@@ -18,9 +18,9 @@ Gets the status of the specified Web Browser control. Read-only [AcWebBrowserSta
 
 ## Syntax
 
- _expression_. `ReadyState`
+_expression_. `ReadyState`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ You can use the  **LinkChildFields** property (along with the **LinkMasterFields
 
 ## Syntax
 
- _expression_. `LinkChildFields`
+_expression_. `LinkChildFields`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

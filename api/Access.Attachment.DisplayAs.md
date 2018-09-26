@@ -18,9 +18,9 @@ Gets or sets an  **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifie
 
 ## Syntax
 
- _expression_. `DisplayAs`
+_expression_. `DisplayAs`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ You can use the  **HyperlinkAddress** property to specify or determine the path 
 
 ## Syntax
 
- _expression_. `HyperlinkAddress`
+_expression_. `HyperlinkAddress`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets or sets whether the location of the splitter bar is saved when a form that'
 
 ## Syntax
 
- _expression_. `SplitFormSplitterBarSave`
+_expression_. `SplitFormSplitterBarSave`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

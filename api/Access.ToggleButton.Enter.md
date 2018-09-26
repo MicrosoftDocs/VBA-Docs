@@ -18,9 +18,9 @@ The  **Enter** event occurs before a control actually receives the focus from a 
 
 ## Syntax
 
- _expression_. `Enter`
+_expression_. `Enter`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

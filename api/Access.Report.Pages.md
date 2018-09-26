@@ -18,9 +18,9 @@ You can use the  **Pages** property to return information needed to print page n
 
 ## Syntax
 
- _expression_. `Pages`
+_expression_. `Pages`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Long** representing the vertical space between detail secti
 
 ## Syntax
 
- _expression_. `ColumnSpacing`
+_expression_. `ColumnSpacing`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

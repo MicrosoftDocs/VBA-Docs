@@ -18,9 +18,9 @@ You can use the  **ForeColor** property to specify the color for text in a contr
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

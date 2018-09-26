@@ -18,9 +18,9 @@ Occurs when the user rolls the mouse wheel in Report view or Layout view.
 
 ## Syntax
 
- _expression_. `MouseWheel`( ` _Page_`, ` _Count_` )
+_expression_. `MouseWheel`( ` _Page_`, ` _Count_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters

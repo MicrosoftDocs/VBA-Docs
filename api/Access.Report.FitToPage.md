@@ -18,9 +18,9 @@ Gets or sets whether the width of the specified report is sized to automatically
 
 ## Syntax
 
- _expression_. `FitToPage`
+_expression_. `FitToPage`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

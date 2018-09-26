@@ -18,9 +18,9 @@ Creates an  **[AdditionalData](Access.AdditionalData.md)** object that can be us
 
 ## Syntax
 
- _expression_. `CreateAdditionalData`
+_expression_. `CreateAdditionalData`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Return Value

@@ -18,9 +18,9 @@ Sets or returns the value of the  **On Resize** box in the **Properties** window
 
 ## Syntax
 
- _expression_. `OnResize`
+_expression_. `OnResize`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Resize** event occurs when a form is opened and whenever the size of a fo
 The  **OnResize** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Resize** box in the form's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

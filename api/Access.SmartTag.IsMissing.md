@@ -18,9 +18,9 @@ Returns  **True** if the specified smart tag is not installed or is installed in
 
 ## Syntax
 
- _expression_. `IsMissing`
+_expression_. `IsMissing`
 
- _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
+_expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns the type of layout for the specified check box. Read-only  **[AcLayoutTy
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## See also

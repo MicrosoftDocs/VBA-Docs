@@ -18,9 +18,9 @@ You can use the  **Orientation** property to specify or determine the view orien
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_. `Orientation`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

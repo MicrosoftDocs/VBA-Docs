@@ -18,9 +18,9 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
 ## Syntax
 
- _expression_. `StatusBarText`
+_expression_. `StatusBarText`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

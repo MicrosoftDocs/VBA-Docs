@@ -18,9 +18,9 @@ Adds an add table or query that will be included when the  **ExportXML** method 
 
 ## Syntax
 
- _expression_. `Add`( ` _var_` )
+_expression_. `Add`( ` _var_` )
 
- _expression_ A variable that represents an [AdditionalData](Access.AdditionalData.md) object.
+_expression_ A variable that represents an [AdditionalData](Access.AdditionalData.md) object.
 
 
 ### Parameters

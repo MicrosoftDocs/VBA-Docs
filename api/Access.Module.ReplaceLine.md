@@ -18,9 +18,9 @@ The  **ReplaceLine** method replaces a specified line in a standard module or a 
 
 ## Syntax
 
- _expression_. `ReplaceLine`( ` _Line_`, ` _String_` )
+_expression_. `ReplaceLine`( ` _Line_`, ` _String_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters

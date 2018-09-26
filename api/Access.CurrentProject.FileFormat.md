@@ -18,9 +18,9 @@ Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the M
 
 ## Syntax
 
- _expression_. `FileFormat`
+_expression_. `FileFormat`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks
