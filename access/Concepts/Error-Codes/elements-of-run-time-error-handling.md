@@ -19,12 +19,12 @@ If you've implemented no error handling, then Visual Basic halts execution and d
 
 When adding error handling to a procedure, you should consider how the procedure will route execution when an error occurs. The first step in routing execution to an error handler is to enable an error handler by including some form of the **On Error** statement within the procedure. The **On Error** statement directs execution in event of an error. If there's no **On Error** statement, Visual Basic simply halts execution and displays an error message when an error occurs.
 
-When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO **Error** object, the Visual Basic **[Err](../../../language/reference/User-Interface-Help/err-object.md)** object, and the DAO **Error** object.
+When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO **Error** object, the Visual Basic **[Err](../../../language/reference/User-Interface-Help/err-object.md)** object, and the DAO **[Error](../../../api/overview/Access.md)** object.
 
 
 ## Routing execution when an error occurs
 
-An error handler specifies what happens within a procedure when an error occurs. For example, you may want the procedure to end if a certain error occurs, or you may want to correct the condition that caused the error and resume execution. The **On Error** and **Resume** statements determine how execution proceeds in the event of an error.
+An error handler specifies what happens within a procedure when an error occurs. For example, you may want the procedure to end if a certain error occurs, or you may want to correct the condition that caused the error and resume execution. The **On Error** and **[Resume](../../../language/reference/User-Interface-Help/resume-statement.md)** statements determine how execution proceeds in the event of an error.
 
 ### On Error statement
 
@@ -50,7 +50,7 @@ Error_MayCauseAnError:
 End Function
 ```
 
-The **On Error GoTo 0** statement disables error handling within a procedure. It doesn't specify line 0 as the start of the error-handling code, even if the procedure contains a line numbered 0. If there's no **On Error GoTo 0** statement in your code, the error handler is automatically disabled when the procedure has run completely. The **On Error GoTo 0** statement resets the properties of the **Err** object, having the same effect as the **Clear** method of the **Err** object.
+The **On Error GoTo 0** statement disables error handling within a procedure. It doesn't specify line 0 as the start of the error-handling code, even if the procedure contains a line numbered 0. If there's no **On Error GoTo 0** statement in your code, the error handler is automatically disabled when the procedure has run completely. The **On Error GoTo 0** statement resets the properties of the **Err** object, having the same effect as the **[Clear](../../../language/reference/User-Interface-Help/clear-method-visual-basic-for-applications.md)** method of the **Err** object.
 
 The **On Error Resume Next** statement ignores the line that causes an error and routes execution to the line following the line that caused the error. Execution isn't interrupted. You can use the **On Error Resume Next** statement if you want to check the properties of the **Err** object immediately after a line at which you anticipate an error will occur, and handle the error within the procedure rather than in an error handler.
 
@@ -94,7 +94,7 @@ End Function
 
 When an error occurs in a nested procedure that doesn't have an enabled error handler, Visual Basic searches backward through the calls list for an enabled error handler in another procedure, rather than simply halting execution. This provides your code with an opportunity to correct the error within another procedure. For example, suppose Procedure A calls Procedure B, and Procedure B calls Procedure C. If an error occurs in Procedure C and there's no enabled error handler, Visual Basic checks Procedure B, then Procedure A, for an enabled error handler. If one exists, execution passes to that error handler. If not, execution halts and an error message is displayed.
 
-Visual Basic also searches backward through the calls list for an enabled error handler when an error occurs within an active error handler. You can force Visual Basic to search backward through the calls list by raising an error within an active error handler with the **Raise** method of the **Err** object. This is useful for handling errors that you don't anticipate within an error handler. If an unanticipated error occurs, and you regenerate that error within the error handler, then execution passes back up the calls list to find another error handler, which may be set up to handle the error.
+Visual Basic also searches backward through the calls list for an enabled error handler when an error occurs within an active error handler. You can force Visual Basic to search backward through the calls list by raising an error within an active error handler with the **[Raise](../../../language/reference/User-Interface-Help/raise-method.md)** method of the **Err** object. This is useful for handling errors that you don't anticipate within an error handler. If an unanticipated error occurs, and you regenerate that error within the error handler, then execution passes back up the calls list to find another error handler, which may be set up to handle the error.
 
 For example, suppose Procedure C has an enabled error handler, but the error handler doesn't correct for the error that has occurred. Once the error handler has checked for all the errors that you've anticipated, it can regenerate the original error. Execution then passes back up the calls list to the error handler in Procedure B, if one exists, providing an opportunity for this error handler to correct the error. If no error handler exists in Procedure B, or if it fails to correct for the error and regenerates it again, then execution passes to the error handler in Procedure A, assuming one exists.
 
@@ -117,17 +117,22 @@ The language elements available for error handling include:
     
 - ADO **Error** object and **Errors** collection
     
-- DAO **Error** object and **Errors** collection
+- DAO **Error** object and **[Errors](../../../api/overview/Access.md)** collection
     
-- **AccessError** method
+- **[AccessError](../../../api/Access.Application.AccessError.md)** method
     
-- **Error** event
+- **[Error](../../../api/Access.Form.Error.md)** event
     
 ### Err object
 
 The **Err** object is provided by Visual Basic. When a Visual Basic error occurs, information about that error is stored in the **Err** object. The **Err** object maintains information about only one error at a time. When a new error occurs, the **Err** object is updated to include information about that error instead.
 
-To get information about a particular error, you can use the properties and methods of the **Err** object. The **Number** property is the default property of the **Err** object; it returns the identifying number of the error that occurred. The **Err** object's **Description** property returns the descriptive string associated with a Visual Basic error. The **Clear** method clears the current error information from the **Err** object. The **Raise** method generates a specific error and populates the properties of the **Err** object with information about that error.
+To get information about a particular error, you can use the properties and methods of the **Err** object:
+
+- The **[Number](../../../api/overview/Access.md)** property is the default property of the **Err** object; it returns the identifying number of the error that occurred. 
+- The **Err** object's **[Description](../../../language/reference/User-Interface-Help/description-property-visual-basic-for-applications.md)** property  returns the descriptive string associated with a Visual Basic error. 
+- The **Clear** method clears the current error information from the **Err** object. 
+- The **Raise** method generates a specific error and populates the properties of the **Err** object with information about that error.
 
 The following example shows how to use the **Err** object in a procedure that may cause a type mismatch error:
 
@@ -195,7 +200,7 @@ UtterAccess is the premier Microsoft Access wiki and help forum.
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)

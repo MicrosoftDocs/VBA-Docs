@@ -119,16 +119,22 @@
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-multiple-fields-in-criteria-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/multiple-fields-in-criteria-expressions"
-        },
-            
+        },    
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-numeric-criteria-in-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/numeric-criteria-expressions"
-        },
-            
+        },  
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-textual-criteria-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/textual-criteria-expressions"
+        },
+        {
+            "source_path": "access/Concepts/Maintenance/handle-run-time-errors-in-vba.md",
+            "redirect_url": "/office/vba/access/concepts/error-codes/elements-of-run-time-error-handling"
+        },
+        {
+            "source_path": "access/Concepts/Maintenance/recover-tables-deleted-from-a-database.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/recover-tables-deleted-from-a-database"
         }
                 
     ]
