@@ -5,7 +5,7 @@ f1_keywords:
 - vbaac10.chm5188061
 ms.prod: access
 ms.assetid: 1f5b5f6b-b424-f35e-4add-21c45b5d74c4
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 **[Form](../../../api/Access.Form.md)**, **[Report](../../../api/Access.Report.md)**, and **[Control](../../../api/Access.Control.md)** objects are Microsoft Access objects. You can set properties for these objects from within a **Sub**, **Function**, or event procedure. You can also set properties for form and report sections.
 
-## To set a property of a form or report
+## Set a property of a form or report
 
 Refer to the individual form or report within the **[Forms](../../../api/Access.Forms.md)** or **[Reports](../../../api/Access.Reports.md)** collection, followed by the name of the property and its value. For example, to set the **Visible** property of the Customers form to **True** (-1), use the following line of code:
 
@@ -29,7 +29,7 @@ Me.RecordSource = "SELECT * FROM Customers " _
 ```
 
 
-## To set a property of a control
+## Set a property of a control
 
 Refer to the control in the **[Controls](../../../api/Access.Controls.md)** collection of the **Form** or **Report** object on which it resides. You can refer to the **Controls** collection either implicitly or explicitly, but the code executes faster if you use an implicit reference. The following examples set the **Visible** property of a text box called CustomerID on the Customers form:
 
@@ -57,7 +57,7 @@ End With
 ```
 
 
-## To set a property of a form or report section
+## Set a property of a form or report section
 
 Refer to the form or report within the **Forms** or **Reports** collection, followed by the **Section** property and the integer or constant that identifies the section. The following examples set the **Visible** property of the page header section of the Customers form to **False**:
 
