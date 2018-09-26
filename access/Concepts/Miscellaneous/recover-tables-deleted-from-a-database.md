@@ -1,29 +1,25 @@
 ---
-title: Recover Tables Deleted from a Database
+title: Recover tables deleted from a database
 ms.prod: access
 ms.assetid: 4d370adb-741f-269d-8def-bccec1f335f1
-ms.date: 06/08/2017
+ms.date: 09/25/2018
 ---
 
 
-# Recover Tables Deleted from a Database
+# Recover tables deleted from a database
 
 This topic shows how to create a sample Visual Basic for Applications (VBA) function that you can use to recover tables deleted from an Access database under the following conditions: 
-
 
 - The database has not been closed since the tables were deleted.
     
 - The database has not been compacted since the tables were deleted.
     
-- The tables were deleted using the Access user interface.
+- The tables were deleted by using the Access user interface.
     
 - The table does not contain any multivalue or Attachment fields.
     
 
 Paste the following procedure into a standard module. 
-
-
-
 
 ```vb
 Sub RecoverDeletedTable() 

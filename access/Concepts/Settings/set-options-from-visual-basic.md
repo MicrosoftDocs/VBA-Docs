@@ -1,12 +1,12 @@
 ---
-title: Set Options from Visual Basic
+title: Set options from Visual Basic
 ms.prod: access
 ms.assetid: c85ab081-6522-f851-a0d7-3d6612af26ab
 ms.date: 06/08/2017
 ---
 
 
-# Set Options from Visual Basic
+# Set options from Visual Basic
 
 You can use the **[SetOption](../../../api/Access.Application.SetOption.md)** and **[GetOption](../../../api/Access.Application.GetOption.md)** methods to set and return option values in the **Access Options** dialog box from code. To view the **Access Options** dialog box, click the Microsoft Office Button and then click **Access Options**.
 
@@ -22,9 +22,9 @@ The value that you pass to the **SetOption** method as the _setting_ argument de
 The following tables list the names of all options that can be set or returned from code and the tabs on which they can be found in the **Access Options** dialog box, followed by the corresponding string argument that you must pass to the **SetOption** or **GetOption** method.
 
 
-## Popular Tab
+## Popular tab
 
-**Creating Databases Section**
+### Creating databases section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -32,9 +32,9 @@ The following tables list the names of all options that can be set or returned f
 |**Default database folder**|Default Database Directory|
 |**Default file format**|Default File Format|
 
-## Current Database Tab
+## Current Database tab
 
-**Application Options section**
+### Application options section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -45,7 +45,7 @@ The following tables list the names of all options that can be set or returned f
 |**Check for truncated number fields**|CheckTruncatedNumFields|
 |**Picture Property Storage Format**|Picture Property Storage Format|
 
-**Name AutoCorrect Options section**
+### Name autoCorrect options section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -53,7 +53,7 @@ The following tables list the names of all options that can be set or returned f
 |**Perform name AutoCorrect**|Perform Name AutoCorrect|
 |**Log name AutoCorrect changes**|Log Name AutoCorrect Changes|
 
-**Filter Lookup options for <Database Name> Database section**
+### Filter lookup options for `<Database Name>` Database section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -64,9 +64,9 @@ The following tables list the names of all options that can be set or returned f
 |**Show list of values in, Records at server**|Show Values in Server|
 |**Don't display lists where more than this number of records read**|Show Values Limit|
 
-## Datasheet Tab
+## Datasheet tab
 
-**Default colors section**
+### Default colors section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -75,7 +75,7 @@ The following tables list the names of all options that can be set or returned f
 |**Alternate background color**|_64|
 |**Gridlines color**|Default Gridlines Color|
 
-**Gridlines and cell effects section**
+### Gridlines and cell effects section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -84,7 +84,7 @@ The following tables list the names of all options that can be set or returned f
 |**Default cell effect**|Default Cell Effect|
 |**Default column width**|Default Column Width|
 
- **Default font section**
+### Default font section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -94,9 +94,9 @@ The following tables list the names of all options that can be set or returned f
 |**Underline**|Default Font Underline|
 |**Italic**|Default Font Italic|
 
-## Object Designers Tab
+## Object Designers tab
 
-**Table design section**
+### Table design section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -106,7 +106,7 @@ The following tables list the names of all options that can be set or returned f
 |**AutoIndex on Import/Create**|AutoIndex on Import/Create|
 |**Show Property Update Option Buttons**|Show Property Update Options Buttons|
 
-**Query design section**
+### Query design section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -118,7 +118,7 @@ The following tables list the names of all options that can be set or returned f
 |**Query design font, Font**|Query Design Font Name|
 |**Query design font, Size**|Query Design Font Size|
 
-**Forms/Reports section**
+### Forms/Reports section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -127,7 +127,7 @@ The following tables list the names of all options that can be set or returned f
 |**Report template**|Report Template|
 |**Always use event procedures**|Always Use Event Procedures|
 
-**Error checking section**
+### Error checking section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -139,9 +139,9 @@ The following tables list the names of all options that can be set or returned f
 |**Check for invalid control properties**|Invalid Control Properties Error Checking|
 |**Check for common report errors**|Common Report Errors Error Checking|
 
-## Proofing Tab
+## Proofing tab
 
-**When correcting spelling in Microsoft Office programs section**
+### When correcting spelling in Microsoft Office programs section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -151,9 +151,9 @@ The following tables list the names of all options that can be set or returned f
 |**Suggest from main dictionary only**|Spelling suggest from main dictionary only|
 |**Dictionary Language**|Spelling dictionary language|
 
-## Advanced Tab
+## Advanced tab
 
-**Editing section**
+### Editing section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -171,7 +171,7 @@ The following tables list the names of all options that can be set or returned f
 |**Datasheet IME control**|Datasheet Ime Control|
 |**Use Hijri Calendar**|Use Hijri Calendar|
 
-**Display section**
+### Display section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -183,8 +183,7 @@ The following tables list the names of all options that can be set or returned f
 |**Show in Macro Design, Names column**|Show Macro Names Column|
 |**Show in Macro Design, Conditions column**|Show Conditions Column|
 
-**Printing section**
-
+### Printing section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -193,7 +192,7 @@ The following tables list the names of all options that can be set or returned f
 |**Top margin**|Top Margin|
 |**Bottom margin**|Bottom Margin|
 
-**General section**
+### General section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -201,7 +200,7 @@ The following tables list the names of all options that can be set or returned f
 |**Use four-year digit year formatting, This database**|Four-Digit Year Formatting|
 |**Use four-year digit year formatting, All databases**|Four-Digit Year Formatting All Databases|
 
-**Advanced Section**
+### Advanced section
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|

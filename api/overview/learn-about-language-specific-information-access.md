@@ -17,7 +17,7 @@ Language-specific Help topics apply only if the language-specific feature is ava
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)

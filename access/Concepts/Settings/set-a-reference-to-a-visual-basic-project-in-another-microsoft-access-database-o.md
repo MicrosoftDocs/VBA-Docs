@@ -1,5 +1,5 @@
 ---
-title: Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project
+title: Set a reference to a Visual Basic project in another Access database or project
 keywords: vbaac10.chm102162
 f1_keywords:
 - vbaac10.chm102162
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project
+# Set a reference to a Visual Basic project in another Access database or project
 
 Each Access database includes a Visual Basic project. The Visual Basic project is the set of all modules in the project, including both standard modules and class modules. Every Access database, library database, or add-in contained in an .mde file includes a Visual Basic project.
 
