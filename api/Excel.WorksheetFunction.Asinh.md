@@ -31,7 +31,7 @@ Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is 
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number.|
 
-### Return Value
+### Return value
 
 Double
 

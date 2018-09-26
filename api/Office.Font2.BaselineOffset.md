@@ -20,7 +20,7 @@ Gets or sets a value specifying the horizontaol offset of the selected font. Rea
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

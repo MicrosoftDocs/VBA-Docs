@@ -31,7 +31,7 @@ Returns the  **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds 
 |:-----|:-----|:-----|:-----|
 | _DefaultFolderGroup_|Required| **[OlGroupType](Outlook.OlGroupType.md)**|The type of navigation group to be retrieved.|
 
-### Return Value
+### Return value
 
 A  **NavigationGroup** object that represents the selected default folder group.
 

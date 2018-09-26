@@ -23,7 +23,7 @@ Returns or sets the left indent for the specified outline level, in points. Read
  _expression_ A variable that represents a [RulerLevel](./PowerPoint.RulerLevel.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

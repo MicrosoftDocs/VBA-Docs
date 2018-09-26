@@ -26,7 +26,7 @@ Returns a member of a collection, either by position or by name.
 |:-----|:-----|:-----|:-----|
 |varg|Required| **Variant**|A member's name or index within a collection.|
 
-### Return Value
+### Return value
 
 An Object that corresponds to the specified member in the collection.
 

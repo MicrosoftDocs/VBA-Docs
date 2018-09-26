@@ -23,7 +23,7 @@ Gets the name of the document library associated with the workflow template. Rea
  _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

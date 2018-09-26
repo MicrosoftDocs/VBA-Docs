@@ -28,7 +28,7 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
-### Return Value
+### Return value
 
  **String**
 

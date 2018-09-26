@@ -38,7 +38,7 @@ Adds a new  **Shape** object representing a table to the specified **Shapes** co
 |FixedSize|Optional| **Boolean**| **True** if Microsoft Publisher reduces the number of rows and columns of the table to fit the specified width and height. **False** if Publisher automatically increases the width and height of the table frame to accommodate the number of rows and columns in the table. Default is **False**.|
 |Direction|Optional| **PbTableDirectionType**|The direction in which table columns are numbered. The default depends on the current language setting.|
 
-### Return Value
+### Return value
 
 Shape
 

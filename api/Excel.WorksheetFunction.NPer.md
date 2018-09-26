@@ -35,7 +35,7 @@ Returns the number of periods for an investment based on periodic, constant paym
 | _Arg4_|Optional| **Variant**|Fv - the future value, or a cash balance you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (the future value of a loan, for example, is 0).|
 | _Arg5_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due.|
 
-### Return Value
+### Return value
 
 Double
 

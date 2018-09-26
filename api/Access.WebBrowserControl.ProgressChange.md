@@ -32,7 +32,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 | _Progress_|Required|**Long**|Specifies the amount of total progress to show, or -1 when progress is complete.|
 | _ProgressMax_|Required|**Long**|Specifies the maximum progress value. |
 
-### Return Value
+### Return value
 
 nothing
 

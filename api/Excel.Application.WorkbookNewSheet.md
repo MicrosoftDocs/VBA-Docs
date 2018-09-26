@@ -32,7 +32,7 @@ Occurs when a new sheet is created in any open workbook.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Sh_|Required| **Object**|The new sheet.|
 
-### Return Value
+### Return value
 
 Nothing
 

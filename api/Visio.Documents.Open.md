@@ -31,7 +31,7 @@ Opens an existing file so that it can be edited.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of a file to open.|
 
-### Return Value
+### Return value
 
 Document
 

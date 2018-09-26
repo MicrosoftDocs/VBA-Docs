@@ -29,7 +29,7 @@ Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, 
 |X|Required| **Long**|The x-coordinate, in pixels, of the point.|
 |Y|Required| **Long**|The y-coordinate, in pixels, of the point.|
 
-### Return Value
+### Return value
 
  **Long**
 

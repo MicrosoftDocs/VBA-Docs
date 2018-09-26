@@ -34,7 +34,7 @@ Adds a SKIPIF field to a mail merge main document. Returns a  **MailMergeField**
 | _Comparison_|Required| **WdMailMergeComparison**|The operator used in the comparison.|
 | _CompareTo_|Optional| **Variant**|The text to compare with the contents of MergeField.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

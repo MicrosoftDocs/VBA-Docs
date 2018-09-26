@@ -38,7 +38,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 | _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the  **PjFillPattern** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

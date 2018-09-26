@@ -31,7 +31,7 @@ Returns an object from a collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|Contains the universal name, unique ID, or index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 MasterShortcut
 

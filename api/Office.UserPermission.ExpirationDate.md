@@ -23,7 +23,7 @@ Gets or sets the optional expiration date of the permissions on the active docum
  _expression_ A variable that represents a '[UserPermission](Office.UserPermission.md)' object.
 
 
-### Return Value
+### Return value
 
 Variant
 

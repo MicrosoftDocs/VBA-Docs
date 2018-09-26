@@ -36,7 +36,7 @@ Sets the value of a resource field.
 | _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is  **True**, ResourceID is ignored.|
 | _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the resource specified by ResourceID . If ResourceID is not specified, ProjectName is ignored. The default value is the name of the active project.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistribut
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Return Value
+### Return value
 
  **Null** (**Nothing** in Visual Basic) because the **ExchangeDistributionList** object does not correspond to a contact in a Contacts Address Book.
 

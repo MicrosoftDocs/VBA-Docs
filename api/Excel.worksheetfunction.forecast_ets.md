@@ -33,7 +33,7 @@ Calculates or predicts a future value based on existing (historical) values by u
 | _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
 | _Arg6_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS** aggregates multiple points that have the same time stamp. See Remarks.|
 
-### Return Value
+### Return value
 
  **Double**
 

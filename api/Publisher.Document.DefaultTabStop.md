@@ -23,7 +23,7 @@ Returns or sets a  **Variant** corresponding to the default tab stop for all tex
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

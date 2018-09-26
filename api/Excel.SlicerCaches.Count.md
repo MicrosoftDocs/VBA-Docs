@@ -23,7 +23,7 @@ Returns the number of objects in the collection.
  _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
-### Return Value
+### Return value
 
  **Long**
 

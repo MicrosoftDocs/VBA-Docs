@@ -31,7 +31,7 @@ Pastes the contents of the Clipboard into an object.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the paste operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

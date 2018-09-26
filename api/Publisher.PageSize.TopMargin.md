@@ -23,7 +23,7 @@ Specifies the distance between the top edge of the printer sheet and the top edg
  _expression_ A variable that represents a  **PageSize** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

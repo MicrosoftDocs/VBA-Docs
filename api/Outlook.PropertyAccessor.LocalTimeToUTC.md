@@ -31,7 +31,7 @@ Converts a date-time value specified by  _Value_ from the local time format to C
 |:-----|:-----|:-----|:-----|
 | _Value_|Required| **Date**|The date-time value to be converted from local time to UTC.|
 
-### Return Value
+### Return value
 
 A  **Date** value that represents _Value_ after being converted from local time to UTC.
 

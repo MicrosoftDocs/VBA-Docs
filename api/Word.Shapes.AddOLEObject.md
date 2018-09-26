@@ -38,7 +38,7 @@ Creates an OLE object. Returns the  **InlineShape** object that represents the n
 | _IconLabel_|Optional| **Variant**|A label (caption) to be displayed beneath the icon.|
 | _Range_|Optional| **Variant**|The range where the OLE object will be placed in the text. The OLE object replaces the range, unless the range is collapsed. If this argument is omitted, the object is placed automatically.|
 
-### Return Value
+### Return value
 
 InlineShape
 

@@ -23,7 +23,7 @@ Gets or sets the name of the file that defines custom menus and accelerators for
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

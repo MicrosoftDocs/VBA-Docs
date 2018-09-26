@@ -31,7 +31,7 @@ Adds a horizontal page break.
 |:-----|:-----|:-----|:-----|
 | _Before_|Required| **Object**|A  **[Range](Excel.Range(object).md)** object. The range above which the new page break will be added.|
 
-### Return Value
+### Return value
 
 A  **[HPageBreak](Excel.HPageBreak.md)** object that represents the new horizontal page break.
 

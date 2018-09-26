@@ -33,7 +33,7 @@ Responds to a meeting request.
 | _fNoUI_|Optional| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
 | _fAdditionalTextDialog_|Optional| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if **fNoUI** is **False** .|
 
-### Return Value
+### Return value
 
 A  **[MeetingItem](Outlook.MeetingItem.md)** object that represents the response to the meeting request.
 

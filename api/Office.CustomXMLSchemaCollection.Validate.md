@@ -23,7 +23,7 @@ Specifies whether the schemas in a schema collection are valid (conforms to the 
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Returns the collection of  **[WorkflowTask](./Office.WorkflowTask.md)** objects 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return Value
+### Return value
 
 WorkFlowTasks
 

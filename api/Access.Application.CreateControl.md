@@ -37,7 +37,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Left,Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in twips.|
 | _Width, Height_|Optional|**Variant**|Numeric expressions indicating the width and height of the control in twips.|
 
-### Return Value
+### Return value
 
 Control
 

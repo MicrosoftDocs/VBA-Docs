@@ -23,7 +23,7 @@ Gets or sets information about the  **CommandBarPopup** control, such as data th
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

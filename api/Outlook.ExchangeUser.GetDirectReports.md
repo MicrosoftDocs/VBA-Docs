@@ -23,7 +23,7 @@ Obtains an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Return Value
+### Return value
 
 An  **AddressEntries** collection object that contains the users directly reporting to the Exchange user. The **AddressEntries** object will have a count of zero (0) if there is no direct report represented by an **[AddressEntry](Outlook.AddressEntry.md)** in the current session, or if direct reports have not been implemented in the Exchange directory.
 

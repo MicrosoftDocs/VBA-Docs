@@ -31,7 +31,7 @@ Checks a string for grammatical errors. Returns a  **Boolean** to indicate wheth
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string you want to check for grammatical errors.|
 
-### Return Value
+### Return value
 
 Boolean
 

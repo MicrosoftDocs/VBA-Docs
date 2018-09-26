@@ -32,7 +32,7 @@ Rounds a number down, toward zero.
 | _Arg1_|Required| **Double**|Number - any real number that you want rounded down.|
 | _Arg2_|Required| **Double**|Num_digits - the number of digits to which you want to round number.|
 
-### Return Value
+### Return value
 
 Double
 

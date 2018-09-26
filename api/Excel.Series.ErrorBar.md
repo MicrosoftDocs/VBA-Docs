@@ -35,7 +35,7 @@ Applies error bars to the series.  **Variant** .
 | _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when  _Type_ is **xlErrorBarTypeCustom** .|
 | _MinusValues_|Optional| **Variant**|The negative error amount when  _Type_ is **xlErrorBarTypeCustom** .|
 
-### Return Value
+### Return value
 
 Variant
 

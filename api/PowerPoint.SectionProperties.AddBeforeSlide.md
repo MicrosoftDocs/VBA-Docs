@@ -32,7 +32,7 @@ Adds a section immediately before the specified slide index, and returns the ind
 | _SlideIndex_|Required|**Integer**|The index of the slide before which to add the section.|
 | _sectionName_|Required|**String**|The name of the new section.|
 
-### Return Value
+### Return value
 
 Integer
 

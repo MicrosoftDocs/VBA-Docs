@@ -23,7 +23,7 @@ Returns the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Return Value
+### Return value
 
 The parent  **ExchangeDistributionList** object.
 

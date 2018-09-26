@@ -23,7 +23,7 @@ Returns a reference to the slide master object that is the parent of the specifi
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

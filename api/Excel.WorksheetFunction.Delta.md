@@ -32,7 +32,7 @@ Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 ot
 | _Arg1_|Required| **Variant**|Number1 - the first number.|
 | _Arg2_|Optional| **Variant**|Number2 - the second number. If omitted, number2 is assumed to be zero.|
 
-### Return Value
+### Return value
 
 Double
 

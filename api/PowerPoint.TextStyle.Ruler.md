@@ -23,7 +23,7 @@ Returns a  **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for
  _expression_ A variable that represents a [TextStyle](./PowerPoint.TextStyle.md) object.
 
 
-### Return Value
+### Return value
 
 Ruler
 

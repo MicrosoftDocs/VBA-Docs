@@ -38,7 +38,7 @@ Adds a mail routing slip for the active project.
 | _Clear_|Optional|**Boolean**|**True** if the list of user names in the **Routing Slip** dialog box is cleared. The default value is **False**.|
 | _SendNow_|Optional|**Boolean**|**True** if the project is sent. **False** if the mail slip is edited without sending the project. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -20,7 +20,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
  _expression_ An expression that returns a 'TaskGroups2' object.
 
 
-### Return Value
+### Return value
 
 Application
 

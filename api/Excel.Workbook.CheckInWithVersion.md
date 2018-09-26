@@ -34,7 +34,7 @@ Saves a workbook to a server from a local computer, and sets the local workbook 
 | _MakePublic_|Optional| **Variant**| **True** to allow the user to publish the workbook after it is checked in.|
 | _VersionType_|Optional| **Variant**|Specifies versioning information for the workbook. |
 
-### Return Value
+### Return value
 
 Nothing
 

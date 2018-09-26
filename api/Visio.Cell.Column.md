@@ -23,7 +23,7 @@ Returns the column index of a cell. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

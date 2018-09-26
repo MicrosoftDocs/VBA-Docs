@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](Excel.Trendline(object).md)** object contained by the collection.
 

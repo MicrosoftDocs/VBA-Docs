@@ -31,7 +31,7 @@ Loads a Microsoft Visio application  **UIObject** object from a file.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to load.|
 
-### Return Value
+### Return value
 
 Nothing
 

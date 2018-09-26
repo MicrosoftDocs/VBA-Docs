@@ -23,7 +23,7 @@ Determines whether the view is zoomed to fit the dimensions of the document wind
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

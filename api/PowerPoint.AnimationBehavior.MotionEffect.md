@@ -23,7 +23,7 @@ Returns a  **[MotionEffect](PowerPoint.MotionEffect.md)** object that represents
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return Value
+### Return value
 
 MotionEffect
 

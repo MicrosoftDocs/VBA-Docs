@@ -33,7 +33,7 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 | _Arg2_|Required| **Double**|The probability of a success on each trial.|
 | _Arg3_|Required| **Double**|The criterion value.|
 
-### Return Value
+### Return value
 
 Double
 

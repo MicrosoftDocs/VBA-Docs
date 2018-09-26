@@ -23,7 +23,7 @@ The full path, including file name, of the Microsoft Visio file used to initiali
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

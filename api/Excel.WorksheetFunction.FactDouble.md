@@ -31,7 +31,7 @@ Returns the double factorial of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the value for which to return the double factorial. If number is not an integer, it is truncated.|
 
-### Return Value
+### Return value
 
 Double
 

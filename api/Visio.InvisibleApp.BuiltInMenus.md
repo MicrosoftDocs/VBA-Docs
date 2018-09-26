@@ -23,7 +23,7 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 UIObject
 

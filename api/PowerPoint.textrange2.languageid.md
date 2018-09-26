@@ -18,7 +18,7 @@ Gets or sets the  **MsoLanguageID** value of the **TextRange2** object. Read/wri
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return Value
+### Return value
 
 MsoLanguageID
 

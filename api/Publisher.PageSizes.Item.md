@@ -31,7 +31,7 @@ Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified nam
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The name or index position of a  **PageSize** object.|
 
-### Return Value
+### Return value
 
 PageSize
 

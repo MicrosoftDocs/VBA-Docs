@@ -35,7 +35,7 @@ Returns a  **SpellingSuggestions** collection that represents the words suggeste
 | _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **WdSpellingWordType** constants. The default value is **wdSpellword** .|
 | _CustomDictionary2 ? CustomDictionary10_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary. You can specify as many as nine additional dictionaries.|
 
-### Return Value
+### Return value
 
 SpellingSuggestions
 

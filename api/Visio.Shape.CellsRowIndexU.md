@@ -31,7 +31,7 @@ Returns the index of a row to which a cell belongs. Read-only.
 |:-----|:-----|:-----|:-----|
 | _localeIndependentCellName_|Required| **String**|The universal name of a ShapeSheet cell.|
 
-### Return Value
+### Return value
 
 Integer
 

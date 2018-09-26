@@ -23,7 +23,7 @@ Adds the specified shape or shapes to the publication page's catalog merge area.
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

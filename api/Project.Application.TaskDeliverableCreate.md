@@ -31,7 +31,7 @@ Creates or removes a deliverable for the selected task. Available only in Projec
 |:-----|:-----|:-----|:-----|
 | _Create_|Optional|**Variant**|If the selected task has no associated deliverable,  **True** creates a deliverable. If the selected task does have an associated deliverable, **False** removes the deliverable. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

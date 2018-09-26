@@ -41,7 +41,7 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
 | _IconLabel_|Optional|**String**|A label (caption) to be displayed beneath the icon.|
 | _Link_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
 
-### Return Value
+### Return value
 
 Shape
 

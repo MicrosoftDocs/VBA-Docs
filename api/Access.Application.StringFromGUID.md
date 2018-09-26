@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _Guid_|Required|**Variant**|An array of  **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
 
-### Return Value
+### Return value
 
 Variant
 

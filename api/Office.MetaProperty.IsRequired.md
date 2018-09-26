@@ -23,7 +23,7 @@ Gets a  **Boolean** value that specifies whether the meta property is required. 
  _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

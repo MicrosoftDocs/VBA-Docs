@@ -28,7 +28,7 @@ Indicates which document to save as a Web page.
 |:-----|:-----|:-----|:-----|
 |docObj |Required| **Document**|An Automation object that supports the  **IVDocument** interface.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

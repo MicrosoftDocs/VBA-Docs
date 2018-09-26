@@ -31,7 +31,7 @@ Converts half-width (single-byte) letters within a character string to full-widt
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The text or a reference to a cell that contains the text that you want to change. |
 
-### Return Value
+### Return value
 
 String
 

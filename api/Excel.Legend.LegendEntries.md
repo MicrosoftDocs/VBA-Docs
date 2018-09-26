@@ -31,7 +31,7 @@ Returns an object that represents either a single legend entry (a  **[LegendEntr
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The number of the legend entry.|
 
-### Return Value
+### Return value
 
 Object
 

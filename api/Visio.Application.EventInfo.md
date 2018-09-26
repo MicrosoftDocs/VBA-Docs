@@ -31,7 +31,7 @@ Gets additional information associated with an event, if any exists. Read-only.
 |:-----|:-----|:-----|:-----|
 | _eventSeqNum_|Required| **Long**| **visEvtIDMostRecent** (0) for information about the most recently fired event, or the sequence number of the event to examine.|
 
-### Return Value
+### Return value
 
 String
 

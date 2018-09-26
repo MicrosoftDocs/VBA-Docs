@@ -32,7 +32,7 @@ Creates a formatted AutoCorrect entry, preserving all text attributes of the spe
 | _Name_|Required| **String**|The text to replace automatically with Range.|
 | _Range_|Required| **Range**|The formatted text that Word will insert automatically whenever Name is typed.|
 
-### Return Value
+### Return value
 
 AutoCorrectEntry
 

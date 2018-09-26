@@ -20,7 +20,7 @@ Gets the prefix for a  **CustomXMLPrefixMapping** object. Read-only.
  _expression_ An expression that returns a [CustomXMLPrefixMapping](./Office.CustomXMLPrefixMapping.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

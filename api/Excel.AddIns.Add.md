@@ -32,7 +32,7 @@ Adds a new add-in file to the list of add-ins. Returns an  **[AddIn](Excel.AddIn
 | _Filename_|Required| **String**|The name of the file that contains the add-in or the ProgID of the automation add-in that you want to add to the list in the add-in manager.|
 | _CopyFile_|Optional| **Variant**|Ignored if the add-in file is on a hard disk.  **True** to copy the add-in to your hard disk, if the add-in is on a removable medium (a floppy disk or compact disc). **False** to have the add-in remain on the removable medium. If this argument is omitted, Microsoft Excel displays a dialog box and asks you to choose.|
 
-### Return Value
+### Return value
 
 An  **AddIn** object that represents the new add-in.
 

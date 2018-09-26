@@ -35,7 +35,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
 | _Members_|Optional| **Variant**|An array of string arrays. The elements correspond, in order, to the hierarchies represented in the  _Levels_ array. Each element is an array of string arrays that consists of the unique names of the top level members in the dimension that are to be included in the slice.|
 | _Properties_|Optional| **Variant**| **False** results in no member properties being included in the slice. The default value is **True** .|
 
-### Return Value
+### Return value
 
 String
 

@@ -28,7 +28,7 @@ Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
 |:-----|:-----|:-----|:-----|
 |TopicID|Required| **Long**|The ID of the Help topic to display.|
 
-### Return Value
+### Return value
 
 Nothing
 

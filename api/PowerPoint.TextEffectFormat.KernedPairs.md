@@ -23,7 +23,7 @@ Determines whether the character pairs in the specified WordArt are kerned. Read
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

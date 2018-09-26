@@ -36,7 +36,7 @@ Adds a table shape to a slide.
 | _Width_|Optional|**Single**|The width (in points) of the new table.|
 | _Height_|Optional|**Single**|The height (in points) of the new table.|
 
-### Return Value
+### Return value
 
 Shape
 

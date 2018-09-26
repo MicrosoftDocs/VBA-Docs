@@ -23,7 +23,7 @@ Specifies whether an entry into a Web text box control is required. Read/write.
  _expression_ A variable that represents a  **WebTextBox** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

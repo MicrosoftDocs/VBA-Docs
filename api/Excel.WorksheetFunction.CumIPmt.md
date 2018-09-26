@@ -36,7 +36,7 @@ Returns the cumulative interest paid on a loan between start_period and end_peri
 | _Arg5_|Required| **Variant**|The last period in the calculation.|
 | _Arg6_|Required| **Variant**|The timing of the payment.|
 
-### Return Value
+### Return value
 
 Double
 

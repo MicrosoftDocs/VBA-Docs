@@ -31,7 +31,7 @@ Converts a Microsoft Excel name to an object or a value.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **Variant**|The name of the object, using the naming convention of Microsoft Excel.|
 
-### Return Value
+### Return value
 
 Variant
 

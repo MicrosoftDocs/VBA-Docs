@@ -23,7 +23,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object that repre
  _expression_ A variable that represents a  **DropCap** object.
 
 
-### Return Value
+### Return value
 
 ColorFormat
 

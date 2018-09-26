@@ -23,7 +23,7 @@ Returns a  **PbPublicationType** constant that represents the type of the specif
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 PbPublicationType
 

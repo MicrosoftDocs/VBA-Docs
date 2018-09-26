@@ -32,7 +32,7 @@ Returns the inverse of the left-tailed probability of the chi-squared distributi
 | _Arg1_|Required| **Double**|Probability - A probability associated with the chi-squared distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom - The number of degrees of freedom.|
 
-### Return Value
+### Return value
 
 Double
 

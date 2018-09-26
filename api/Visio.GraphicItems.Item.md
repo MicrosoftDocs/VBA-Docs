@@ -34,7 +34,7 @@ Returns the  **GraphicItem** object at the specified index position in the **Gra
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 GraphicItem
 

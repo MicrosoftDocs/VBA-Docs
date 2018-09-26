@@ -23,7 +23,7 @@ _expression_. `CloseConnection`
 _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -36,7 +36,7 @@ Customizes headings in the Calendar.
 | _DaysPerWeek_|Optional|**Integer**|The number of days per week to display. Can be set to 5 or 7.|
 | _ShowTitleBeginningEndDates_|Optional|**Boolean**|**True** if the beginning and end date titles are shown.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -31,7 +31,7 @@ Creates a deliverable for a published project that has a project workspace.
 | _DeliverableFinishDate_|Required|**Variant**|Finish date for the deliverable.|
 | _TaskGuid_|Required|**String**|GUID of the task to which to link the deliverable.|
 
-### Return Value
+### Return value
 
  **String**
 

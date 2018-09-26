@@ -32,7 +32,7 @@ Allows you to add a new  **CustomXMLPart** to a file.
 | _XML_|Optional|**String**|Contains the XML to add to the newly created  **CustomXMLPart**.|
 | _SchemaCollection_|Optional|**CustomXMLSchemaCollection**|Represents the set of schemas to be used to validate this stream.|
 
-### Return Value
+### Return value
 
 CustomXMLPart
 

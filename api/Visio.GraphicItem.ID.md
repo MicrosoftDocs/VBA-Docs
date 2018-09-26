@@ -26,7 +26,7 @@ Gets the unique identifier of the  **GraphicItem** object. Read-only.
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

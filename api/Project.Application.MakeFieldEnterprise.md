@@ -33,7 +33,7 @@ Adds a local custom field to Project Server as an enterprise custom field.
 | _FieldName_|Required|**String**|Name of the enterprise custom field to create.|
 | _LookupTableName_|Optional|**String**|Name of the lookup table to create. The default value is an empty string ("").|
 
-### Return Value
+### Return value
 
  **Boolean**
 

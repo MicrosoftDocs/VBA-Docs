@@ -31,7 +31,7 @@ Draws tracer arrows to the direct precedents of the range.
 |:-----|:-----|:-----|:-----|
 | _Remove_|Optional| **Variant**| **True** to remove one level of tracer arrows to direct precedents. **False** to expand one level of tracer arrows. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Variant
 

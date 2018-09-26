@@ -33,7 +33,7 @@ Occurs after an existing XML data connection is refreshed or after new XML data 
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data; **False** if the event was triggered by importing from a different data source.|
 | _Result_|Required| **[XlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

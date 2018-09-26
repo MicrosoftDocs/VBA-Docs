@@ -21,7 +21,7 @@ Submits all selected engagements in the project to the resource manager for revi
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **BOOL**
 

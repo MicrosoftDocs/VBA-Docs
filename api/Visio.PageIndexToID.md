@@ -28,7 +28,7 @@ Gets the ID of the page at the specified index in the collection of pages in the
 |:-----|:-----|:-----|:-----|
 |PageIndex|Required| **Long**|The index of the page whose ID you want to get.|
 
-### Return Value
+### Return value
 
  **Long**
 

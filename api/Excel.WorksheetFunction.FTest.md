@@ -36,7 +36,7 @@ For more information about the new function, see the [F_Test](Excel.WorksheetFun
 | _Arg1_|Required| **Variant**|Array1 - the first array or range of data.|
 | _Arg2_|Required| **Variant**|Array2 - the second array or range of data.|
 
-### Return Value
+### Return value
 
 Double
 

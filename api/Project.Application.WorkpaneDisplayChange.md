@@ -28,7 +28,7 @@ Occurs when the Project Guide is hidden or shown.
 |:-----|:-----|:-----|:-----|
 | _DisplayState_|Required|**Boolean**|**True** if the **Project Guide** is shown. **False** if the **Project Guide** is hidden.|
 
-### Return Value
+### Return value
 
 nothing
 

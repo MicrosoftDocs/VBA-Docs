@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _ErrorNumber_|Required|**Variant**|The number of the error for which you wish to return a descriptive string.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Gets the ID of a server policy. Read-only.
  _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -20,7 +20,7 @@ Returns the number of objects in the specified collection. Read-only.
  _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

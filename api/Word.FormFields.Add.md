@@ -32,7 +32,7 @@ Returns a  **FormField** object that represents a new form field added at a rang
 | _Range_|Required| **Range object**|The range where you want to add the form field. If the range isn't collapsed, the form field replaces the range.|
 | _Type_|Required| **WdFieldType**|The type of form field to add.|
 
-### Return Value
+### Return value
 
 FormField
 

@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CustomXMLSchemaCollection** object. Read-o
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

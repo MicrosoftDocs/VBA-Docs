@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 | _StartLine_|Required|**Long**| The number of the line from which to begin deleting.|
 | _Count_|Required|**Long**|The number of lines to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns or sets the speed, in seconds, of the specified animation. Read/write.
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

@@ -31,7 +31,7 @@ Returns the custom list number for an array of strings. You can use this method 
 |:-----|:-----|:-----|:-----|
 | _ListArray_|Required| **Variant**|An array of strings.|
 
-### Return Value
+### Return value
 
 Long
 

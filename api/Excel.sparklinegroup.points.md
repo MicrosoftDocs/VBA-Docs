@@ -21,7 +21,7 @@ Returns the associated  **[SparkPoints](Excel.SparkPoints.md)** object for the s
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Return Value
+### Return value
 
 SparkPoints
 

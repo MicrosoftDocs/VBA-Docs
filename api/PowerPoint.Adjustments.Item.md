@@ -31,7 +31,7 @@ Returns or sets the adjustment value specified by the Index argument. Read/write
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the adjustment.|
 
-### Return Value
+### Return value
 
 Single
 

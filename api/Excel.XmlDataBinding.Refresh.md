@@ -23,7 +23,7 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
  _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
 
 
-### Return Value
+### Return value
 
 An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 

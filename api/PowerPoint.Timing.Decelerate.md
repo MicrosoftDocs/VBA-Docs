@@ -23,7 +23,7 @@ Sets or returns the percentageof the duration over which a timing deceleration s
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

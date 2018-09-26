@@ -31,7 +31,7 @@ Converts a string specified by  _Value_ to an array of bytes.
 |:-----|:-----|:-----|:-----|
 | _Value_|Required| **String**|A hexadecimal string value that is to be converted to an array of bytes.|
 
-### Return Value
+### Return value
 
 A  **Variant** value that represents an array of bytes returned from the conversion.
 

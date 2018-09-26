@@ -23,7 +23,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLNode** o
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

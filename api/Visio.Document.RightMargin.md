@@ -31,7 +31,7 @@ Specifies the right margin, which is used when printing. Read/write.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Optional| **Variant**|The units to use when retrieving or setting the margin value.|
 
-### Return Value
+### Return value
 
 Double
 

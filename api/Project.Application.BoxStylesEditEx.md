@@ -39,7 +39,7 @@ Sets the style of boxes in the Network Diagram view, where colors can be hexadec
 | _BackgroundColor_|Optional|**Long**|The color of the box background. Can be a hexadecimal value for the RGB color.|
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the [PjBackgroundPattern](Project.PjBackgroundPattern.md) constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

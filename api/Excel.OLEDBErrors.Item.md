@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number for the object.|
 
-### Return Value
+### Return value
 
 An  **[OLEDBError](Excel.OLEDBError.md)** object contained by the collection.
 

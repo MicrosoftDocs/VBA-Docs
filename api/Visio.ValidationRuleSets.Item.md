@@ -31,7 +31,7 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has
 |:-----|:-----|:-----|:-----|
 | _NameUOrIndex_|Required| **Variant**|The universal name of the object, or the index number of the object in its collection.|
 
-### Return Value
+### Return value
 
  **ValidationRuleSet**
 

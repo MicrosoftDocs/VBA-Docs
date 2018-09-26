@@ -34,7 +34,7 @@ Sets the format of nonworking times.
 | _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 | _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -29,7 +29,7 @@ Occurs before a resource is deleted. Uses the  **EventInfo** object parameter.
 | _res_|Required|**Resource**| The resource that is being deleted.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the resource is not deleted.|
 
-### Return Value
+### Return value
 
 nothing
 

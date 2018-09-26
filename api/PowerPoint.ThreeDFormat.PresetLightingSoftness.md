@@ -23,7 +23,7 @@ Returns or sets the intensity of the extrusion lighting. Read/write.
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoPresetLightingSoftness
 

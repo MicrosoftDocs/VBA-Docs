@@ -31,7 +31,7 @@ Runs the add-on represented by an  **Addon** object.
 |:-----|:-----|:-----|:-----|
 | _ArgString_|Required| **String**|The argument string to pass to the add-on.|
 
-### Return Value
+### Return value
 
 Nothing
 

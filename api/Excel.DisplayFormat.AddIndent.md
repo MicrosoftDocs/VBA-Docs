@@ -23,7 +23,7 @@ Returns a value that indicates if Microsoft Excel automatically indents text of 
  _expression_ A variable that represents a [DisplayFormat](Excel.DisplayFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

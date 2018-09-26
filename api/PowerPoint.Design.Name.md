@@ -23,7 +23,7 @@ Returns or sets the name of the specified object. Read/write.
  _expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

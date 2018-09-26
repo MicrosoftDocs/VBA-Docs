@@ -38,7 +38,7 @@ Sets up view-specific options for printing.
 | _PrintColumnTotals_|Optional|**Variant**|NOT available at this time.|
 | _PrintRowTotals_|Optional|**Variant**|NOT available at this time.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

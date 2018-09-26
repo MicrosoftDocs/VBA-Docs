@@ -23,7 +23,7 @@ _expression_. `SetFocus`
 _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

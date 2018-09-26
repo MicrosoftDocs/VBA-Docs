@@ -23,7 +23,7 @@ Gets or sets the type of mail merge represented by the parent  **MailMerge** obj
  _expression_An expression that returns a  **MailMerge** object.
 
 
-### Return Value
+### Return value
 
  **PbMergeType**
 

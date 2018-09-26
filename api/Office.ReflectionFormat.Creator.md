@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **ReflectionF
  _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

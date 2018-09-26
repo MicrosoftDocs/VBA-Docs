@@ -23,7 +23,7 @@ Creates a new series. Returns a  **[Series](Excel.Series(object).md)** object th
  _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
-### Return Value
+### Return value
 
 Series
 

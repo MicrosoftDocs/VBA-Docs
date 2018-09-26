@@ -31,7 +31,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 |:-----|:-----|:-----|:-----|
 | _Tag_|Required| **String**|The tag value of the content controls to return.|
 
-### Return Value
+### Return value
 
 ContentControls
 

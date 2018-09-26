@@ -33,7 +33,7 @@ Adds a connection from the specified file.
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create the connection to the model.|
 | _ImportRelationships_|Optional| **Boolean**|Specifies whether to import the connection relationship.|
 
-### Return Value
+### Return value
 
 WorkbookConnection
 

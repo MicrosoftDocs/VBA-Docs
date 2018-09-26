@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _StringExpr_|Required|**String**|An expression that evaluates to an alphanumeric text string. For example,  _stringexpr_ can be a function that returns a string or a numeric value. Or it can be a reference to a control on a form. The _stringexpr_ argument must evaluate to a string or numeric value; it can't evaluate to a Microsoft Access object.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -31,7 +31,7 @@ Returns an object that represents either a single chart group (a  **[ChartGroup]
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The chart group number.|
 
-### Return Value
+### Return value
 
 Object
 

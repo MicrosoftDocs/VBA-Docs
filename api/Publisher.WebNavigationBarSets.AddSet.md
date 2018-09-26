@@ -33,7 +33,7 @@ Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set
 |Design|Optional| **PbWizardNavBarDesign**|Specifies the navigation bar design scheme.|
 |AutoUpdate|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True**are added as links to the navigation bar and the navigation bar is kept updated.|
 
-### Return Value
+### Return value
 
 WebNavigationBarSet
 

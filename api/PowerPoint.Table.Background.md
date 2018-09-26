@@ -23,7 +23,7 @@ Returns the  **TableBackground** object associated with the specified table. Rea
  _expression_ An expression that returns a [Table](./PowerPoint.Table.md) object.
 
 
-### Return Value
+### Return value
 
 TableBackground
 

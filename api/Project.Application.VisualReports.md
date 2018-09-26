@@ -31,7 +31,7 @@ Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 |:-----|:-----|:-----|:-----|
 | _PjVisualReportsTab_|Optional|**Long**|Specifies which tab to display. Can be one of the  **[PjVisualReportsTab](Project.PjVisualReportsTab.md)** constants. The default is **pjTabAll**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -34,7 +34,7 @@ Sets the format of details in a usage view.
 | _ShortLabels_|Optional|**Boolean**|**True** if Project displays short details header names. The default value is **True**.|
 | _DisplayDetailsColumn_|Optional|**Long**|Specifies whether a details column displays. Can be one of the following  **PjYesNoAutomatic** constants: **pjAuto**, **pjNo**, or **pjYes**. The default value is **pjYes**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -31,7 +31,7 @@ Performs some action on specific information items or document properties by usi
 | _Status_|Required|**MsoDocInspectorStatus**|An enumeration that indicates the status of the action.|
 | _Result_|Required|**String**|Contains the results of the action.|
 
-### Return Value
+### Return value
 
 [HRESULT]
 

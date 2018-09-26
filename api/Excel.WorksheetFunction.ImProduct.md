@@ -31,7 +31,7 @@ Returns the product of 2 to 29 complex numbers in x + yi or x + yj text format.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,? - 1 to 29 complex numbers to multiply.|
 
-### Return Value
+### Return value
 
 String
 

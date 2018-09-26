@@ -30,7 +30,7 @@ Inserts a symbol from the specified font set into the range of text represented 
 | _CharNumber_|Required|**Long**|The number of the symbol.|
 | _Unicode_|Optional|**MsoTriState**|Indicates whether the value of the symbol is specified as a unicode value.|
 
-### Return Value
+### Return value
 
 TextRange2
 

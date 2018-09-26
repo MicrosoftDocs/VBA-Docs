@@ -31,7 +31,7 @@ Gets a property's value specifying its name as opposed to its index value.
 |:-----|:-----|:-----|:-----|
 | _InternalName_|Required|**String**|Contains the name of the property.|
 
-### Return Value
+### Return value
 
 MetaProperty
 

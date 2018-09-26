@@ -35,7 +35,7 @@ Returns the amount received at maturity for a fully invested security.
 | _Arg4_|Required| **Variant**|Discount - the security's discount rate.|
 | _Arg5_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

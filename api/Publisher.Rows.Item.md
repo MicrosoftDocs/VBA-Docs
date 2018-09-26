@@ -31,7 +31,7 @@ Returns an individual object in a specified collection.
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 
-### Return Value
+### Return value
 
 Row
 

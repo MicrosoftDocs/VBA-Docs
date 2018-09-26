@@ -23,7 +23,7 @@ After the  **[Find](Outlook.Items.Find.md)** method runs, this method finds and 
  _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
-### Return Value
+### Return value
 
 An  **Object** value that represents the next Outlook item found in the collection.
 

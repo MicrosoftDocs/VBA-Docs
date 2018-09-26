@@ -23,7 +23,7 @@ Gets a  **String** that represents the location of a schema on a computer. Read-
  _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

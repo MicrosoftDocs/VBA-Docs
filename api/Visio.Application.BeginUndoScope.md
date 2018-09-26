@@ -31,7 +31,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 |:-----|:-----|:-----|:-----|
 | _bstrUndoScopeName_|Required| **String**|The name of the scope; could appear in the Visio user interface.|
 
-### Return Value
+### Return value
 
 Long
 

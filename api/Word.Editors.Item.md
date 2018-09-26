@@ -31,7 +31,7 @@ Returns an  **Editor** object that represents a specific user or a group of user
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**| Can be either a **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users.|
 
-### Return Value
+### Return value
 
 Editor
 

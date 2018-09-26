@@ -31,7 +31,7 @@ Opens or closes the connection to Project Server.
 |:-----|:-----|:-----|:-----|
 | _fOffline_|Optional|**Boolean**|**True** closes the connection to Project Server. **False** opens the connection to Project Server.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

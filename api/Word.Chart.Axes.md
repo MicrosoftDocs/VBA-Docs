@@ -32,7 +32,7 @@ Returns a collection of axes on the chart.
 
 |
 
-### Return Value
+### Return value
 
 An [Axes](Word.Axes.md) object that contains the selected axes from the chart.
 

@@ -34,7 +34,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 |:-----|:-----|:-----|:-----|
 | _NewDataAsXML_|Required| **String**|An XML string that contains new data to refresh the data recordset and that conforms to the classic ADO schema.|
 
-### Return Value
+### Return value
 
 Nothing
 

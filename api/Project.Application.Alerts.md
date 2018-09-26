@@ -31,7 +31,7 @@ Determines whether alerts appear when a macro runs.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if Project displays error messages when a macro runs. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

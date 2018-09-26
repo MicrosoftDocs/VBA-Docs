@@ -23,7 +23,7 @@ Returns whether the specified shape has a text frame. Read-only.
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

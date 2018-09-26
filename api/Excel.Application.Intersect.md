@@ -59,7 +59,7 @@ Returns a [Range](Excel.Range(object).md) object that represents the rectangular
 | _Arg29_|Optional| **Variant**|An intersecting range.|
 | _Arg30_|Optional| **Variant**|An intersecting range.|
 
-### Return Value
+### Return value
 
 Range
 

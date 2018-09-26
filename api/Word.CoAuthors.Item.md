@@ -31,7 +31,7 @@ Returns an individual  **CoAuthor** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned.|
 
-### Return Value
+### Return value
 
 CoAuthor
 

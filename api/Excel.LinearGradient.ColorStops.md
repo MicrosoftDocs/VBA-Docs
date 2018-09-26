@@ -23,7 +23,7 @@ Returns the  **[ColorStops](Excel.ColorStops.md)** for the **LinearGradient** ob
  _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
-### Return Value
+### Return value
 
 ColorStops
 

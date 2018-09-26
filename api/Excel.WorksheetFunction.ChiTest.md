@@ -34,7 +34,7 @@ For more information about the new function, see the [ChiSq_Test](Excel.Workshee
 | _Arg1_|Required| **Variant**|The range of data that contains observations to test against expected values.|
 | _Arg2_|Required| **Variant**|The range of data that contains the ratio of the product of row totals and column totals to the grand total.|
 
-### Return Value
+### Return value
 
 Double
 

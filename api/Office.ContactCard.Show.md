@@ -34,7 +34,7 @@ Displays the contact card at the specified x-coordinate position outside the spe
 | _xcord_|Required|**Long**|Specifies the x-coordinate position of the left edge of the card.|
 | _fDelay_|Required|**Boolean**|Determines if there is a delay before the card is displayed. |
 
-### Return Value
+### Return value
 
 Nothing
 

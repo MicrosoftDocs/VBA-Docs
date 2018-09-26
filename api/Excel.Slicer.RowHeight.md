@@ -23,7 +23,7 @@ Returns or sets the height, in points, of each row in the specified slicer. Read
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return Value
+### Return value
 
 Double
 

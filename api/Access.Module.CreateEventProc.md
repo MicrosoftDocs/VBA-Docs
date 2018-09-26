@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 | _EventName_|Required|**String**|The name of an event.|
 | _ObjectName_|Required|**String**|An object that has the event specified by the  _eventname_ argument. If the event procedure is being added to a **[Form](Access.Form.md)**, the word "Form" should be specified for this argument. If the event procedure is being added to a **[Report](Access.Report.md)**, the word "Report" should be specified for this argument. If the event procedure is being added to a **[Control](Access.Control.md)**, the name of the control should be specified for this argument.|
 
-### Return Value
+### Return value
 
 Long
 

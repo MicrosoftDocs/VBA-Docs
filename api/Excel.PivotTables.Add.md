@@ -35,7 +35,7 @@ Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** o
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The version of Microsoft Excel the PivotTable was originally created in.|
 
-### Return Value
+### Return value
 
 A  **[PivotTable](Excel.PivotTable.md)** object that represents the new PivotTable report.
 

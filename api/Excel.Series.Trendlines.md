@@ -31,7 +31,7 @@ Returns an object that represents a single trendline (a  **[Trendline](Excel.Tre
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the trendline.|
 
-### Return Value
+### Return value
 
 Object
 

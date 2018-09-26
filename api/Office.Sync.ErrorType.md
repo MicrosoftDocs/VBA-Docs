@@ -26,7 +26,7 @@ Gets a  **MsoSyncErrorType** constant which indicates the type of the most recen
  _expression_ A variable that returns a '[Sync](Office.Sync.md)' object.
 
 
-### Return Value
+### Return value
 
 MsoSyncErrorType
 

@@ -33,7 +33,7 @@ Returns a  **TabStop** object that represents a custom tab stop added to a docum
 | _Alignment_|Optional| **Variant**|The alignment of the tab stop. Can be one of the  **WdTabAlignment** constants.|
 | _Leader_|Optional| **Variant**|The type of leader for the tab stop. Can be one of the  **WdTabLeader** constants. If this argument is omitted, **wdTabLeaderSpaces** is used.|
 
-### Return Value
+### Return value
 
 TabStop
 

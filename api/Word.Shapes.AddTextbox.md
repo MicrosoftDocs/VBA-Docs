@@ -35,7 +35,7 @@ Adds a text box to a drawing canvas.
 | _Width_|Required| **Single**|The width, measured in points, of the text box.|
 | _Height_|Required| **Single**|The height, measured in points, of the text box.|
 
-### Return Value
+### Return value
 
  **Shape**
 

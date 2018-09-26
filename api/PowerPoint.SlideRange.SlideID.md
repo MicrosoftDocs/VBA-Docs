@@ -23,7 +23,7 @@ Returns a unique ID number for the specified slide. Read-only.
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

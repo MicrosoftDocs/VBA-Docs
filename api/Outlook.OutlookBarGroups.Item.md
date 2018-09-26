@@ -31,7 +31,7 @@ Returns an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the co
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return Value
+### Return value
 
 An  **OutlookBarGroup** object that represents the specified object.
 

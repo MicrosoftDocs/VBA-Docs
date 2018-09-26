@@ -31,7 +31,7 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object from a collection. Read-
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the  **SlicerItem** object.|
 
-### Return Value
+### Return value
 
 SlicerItem
 

@@ -23,7 +23,7 @@ Returns or sets a  **PbPrintGraphics** constant representing the resolution at w
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
 
-### Return Value
+### Return value
 
 PbPrintGraphics
 

@@ -31,7 +31,7 @@ Moves a given shape into the text flow defined by  ** [TextRange Object](Publish
 |:-----|:-----|:-----|:-----|
 |Range|Required| **TextRange**|The range of text before which the given shape is inserted.|
 
-### Return Value
+### Return value
 
 Nothing
 

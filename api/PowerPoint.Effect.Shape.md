@@ -23,7 +23,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents an animated s
  _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

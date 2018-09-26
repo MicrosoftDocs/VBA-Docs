@@ -32,7 +32,7 @@ Adds a user access list.
 | _Name_|Required| **String**|The name of the user access list.|
 | _AllowEdit_|Required| **Boolean**| **True** allows users on the access list to edit the editable ranges on a protected worksheet.|
 
-### Return Value
+### Return value
 
 A  **[UserAccess](Excel.UserAccess.md)** object that represents the new user access list.
 

@@ -31,7 +31,7 @@ Sets the value of a cell to an integer value. Read/write.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting the cell's value.|
 
-### Return Value
+### Return value
 
 Long
 

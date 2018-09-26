@@ -28,7 +28,7 @@ Returns the number of minutes in a duration.
 |:-----|:-----|:-----|:-----|
 | _Duration_|Required|**String**|The duration to be expressed in minutes.|
 
-### Return Value
+### Return value
 
  **Variant**
 

@@ -31,7 +31,7 @@ Returns a  **MenuItem** object from the **MenuItems** collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Contains the index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 MenuItem
 

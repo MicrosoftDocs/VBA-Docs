@@ -31,7 +31,7 @@ Returns a  **BuildingBlockType** object that represents the specified item in th
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBuildingBlockTypes**|Specifies the building block type of the item in the collection.|
 
-### Return Value
+### Return value
 
 BuildingBlockType
 

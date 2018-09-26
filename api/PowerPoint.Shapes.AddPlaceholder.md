@@ -35,7 +35,7 @@ Restores a previously deleted placeholder on a slide. Returns a  **[Shape](Power
 | _Width_|Optional|**Single**|The width of the placeholder, in points.|
 | _Height_|Optional|**Single**|The height of the placeholder, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

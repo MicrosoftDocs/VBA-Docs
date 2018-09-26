@@ -26,7 +26,7 @@ Gets the  **Parent** object for the **SharedWorkspaceFile** object. Read-only.
  _expression_ A variable that represents a [SharedWorkspaceFile](./Office.SharedWorkspaceFile.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

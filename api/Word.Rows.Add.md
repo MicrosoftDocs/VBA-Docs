@@ -31,7 +31,7 @@ Returns a  **Row** object that represents a row added to a table.
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Optional| **Variant**|A  **Row** object that represents the row that will appear immediately below the new row.|
 
-### Return Value
+### Return value
 
 Row
 

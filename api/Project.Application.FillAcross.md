@@ -31,7 +31,7 @@ Fills the selected cells or columns with the values in the specified cell or col
 |:-----|:-----|:-----|:-----|
 | _Right_|Optional|**Boolean**|**True** if values in the leftmost cell or column of the selection are copied right to the other selected cells or columns. **False** if values in the rightmost cell or column are copied left to the other selected cells or columns. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

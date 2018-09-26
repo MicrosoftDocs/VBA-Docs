@@ -32,7 +32,7 @@ Adds a lookup table entry to a  **[LookupTable](Project.lookuptable.md)** collec
 | _Name_|Required|**String**|The name of the lookup table entry.|
 | _ParentUniqueID_|Optional|**Long**|If this value is not specified, the entry is inserted at the top level. Otherwise, the entry is inserted as the child of the entry with the specified unique identifier (UID). The method ensures that the entry with the specified UID is in the correct lookup table.|
 
-### Return Value
+### Return value
 
  **LookupTableEntry**
 

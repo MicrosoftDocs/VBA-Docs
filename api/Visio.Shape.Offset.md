@@ -31,7 +31,7 @@ Offsets a shape a specified amount.
 |:-----|:-----|:-----|:-----|
 | _Distance_|Required| **Double**|Specifies the distance to offset the shape.|
 
-### Return Value
+### Return value
 
 Nothing
 

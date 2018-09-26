@@ -23,7 +23,7 @@ Returns the unique identity of the current Microsoft Visio process. Read-only.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

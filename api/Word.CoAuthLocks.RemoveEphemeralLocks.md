@@ -23,7 +23,7 @@ Removes ephemeral locks from the document.
  _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns a  **[CellRange](PowerPoint.CellRange.md)** collection that represents t
  _expression_ A variable that represents a [Column](./PowerPoint.Column.md) object.
 
 
-### Return Value
+### Return value
 
 CellRange
 

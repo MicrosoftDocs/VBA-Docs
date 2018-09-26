@@ -23,7 +23,7 @@ Returns the next object in the  **[Conflicts](Outlook.Conflicts.md)** collection
  _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[Conflict](Outlook.Conflict.md)** object that represents the next object contained by the collection.
 

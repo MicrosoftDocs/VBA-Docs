@@ -29,7 +29,7 @@ Returns a TextRange2 object that represents the specified subset of text lines. 
 | _Start_|Optional|**Long**|The first line in the returned range.|
 | _Length_|Optional|**Long**|The number of lines to be returned.|
 
-### Return Value
+### Return value
 
 TextRange2
 

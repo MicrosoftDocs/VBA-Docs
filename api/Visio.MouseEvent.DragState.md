@@ -23,7 +23,7 @@ Returns information about the state of mouse movement as it relates to dragging 
  _expression_ An expression that returns a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

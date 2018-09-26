@@ -31,7 +31,7 @@ Returns  **True** if the range to which the method is applied is contained in th
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified  **Range** object.|
 
-### Return Value
+### Return value
 
 Boolean
 

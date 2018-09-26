@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to check out.|
 
-### Return Value
+### Return value
 
 Boolean
 

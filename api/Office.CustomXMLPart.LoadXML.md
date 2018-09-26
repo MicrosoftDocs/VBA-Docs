@@ -31,7 +31,7 @@ Allows the template author to populate a  **CustomXMLPart** object from an XML s
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Contains the XML to load.|
 
-### Return Value
+### Return value
 
 Boolean
 

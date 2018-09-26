@@ -23,7 +23,7 @@ Returns  **True** if the specified page is a Microsoft Publisher wizard page. Re
  _expression_ A variable that represents an  **Page** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

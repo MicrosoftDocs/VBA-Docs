@@ -34,7 +34,7 @@ Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField**
 | _DefaultFillinText_|Optional| **Variant**|The default response, which appears in the text box when the dialog box is displayed. Corresponds to the \d switch for an FILLIN field.|
 | _AskOnce_|Optional| **Variant**| **True** to display the prompt only once instead of each time a new record is merged. Corresponds to the \o switch for a FILLIN field. The default value is **False** .|
 
-### Return Value
+### Return value
 
 MailMergeField
 

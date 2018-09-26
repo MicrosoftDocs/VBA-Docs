@@ -23,7 +23,7 @@ Displays the  **More Tables** dialog box, which prompts the user to manage table
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

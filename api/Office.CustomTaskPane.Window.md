@@ -23,7 +23,7 @@ Gets the parent window object of the  **CustomTaskPane** object. Read-only.
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

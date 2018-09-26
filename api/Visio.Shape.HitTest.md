@@ -33,7 +33,7 @@ Determines if a given  _x,y_ position hits outside, inside, or on the boundary o
 | _yPos_|Required| **Double**|The y-coordinate to be tested for a hit.|
 | _Tolerance_|Required| **Double**|How close  _xPos,yPos_ must be to a shape for a hit to occur.|
 
-### Return Value
+### Return value
 
 Integer
 

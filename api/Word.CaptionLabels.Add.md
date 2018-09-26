@@ -31,7 +31,7 @@ Returns a  **CaptionLabel** object that represents a custom caption label.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom caption label.|
 
-### Return Value
+### Return value
 
 CaptionLabel
 

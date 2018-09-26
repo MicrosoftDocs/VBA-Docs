@@ -31,7 +31,7 @@ Sets the associated  **[Range](./Excel.Range(Graph object).md)** object to modif
 |:-----|:-----|:-----|:-----|
 | _Location_|Required| **Range**|The  **Range** that represents the location of the sparkline group.|
 
-### Return Value
+### Return value
 
 Nothing
 

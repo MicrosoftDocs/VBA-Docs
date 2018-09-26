@@ -31,7 +31,7 @@ Deletes the named SolutionXML element.
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML data element.|
 
-### Return Value
+### Return value
 
 Nothing
 

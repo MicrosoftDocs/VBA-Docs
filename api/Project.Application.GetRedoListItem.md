@@ -31,7 +31,7 @@ Returns the label of the specified item in the redo list.
 |:-----|:-----|:-----|:-----|
 | _ItemIndex_|Required|**Long**|Index of the item in the redo list.|
 
-### Return Value
+### Return value
 
  **String**
 

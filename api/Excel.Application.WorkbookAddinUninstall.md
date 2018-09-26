@@ -31,7 +31,7 @@ Occurs when any add-in workbook is uninstalled.
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The uninstalled workbook.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **WebPageFonts** object. 
  _expression_ A variable that represents a [WebPageFonts](./Office.WebPageFonts.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

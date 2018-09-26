@@ -23,7 +23,7 @@ Gets the data type of a  **MetaProperty** object. Read-only.
  _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
 
 
-### Return Value
+### Return value
 
 MsoMetaPropertyType
 

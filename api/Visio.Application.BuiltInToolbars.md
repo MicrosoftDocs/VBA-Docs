@@ -31,7 +31,7 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 |:-----|:-----|:-----|:-----|
 | _fIgnored_|Required| **Integer**| Required **Integer** . Required for backward compatibility, but ignored. It is suggested that you pass zero (0).|
 
-### Return Value
+### Return value
 
 UIObject
 

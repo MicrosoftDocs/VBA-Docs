@@ -31,7 +31,7 @@ Returns a  **Paragraph** object that represents the next paragraph.
 |:-----|:-----|:-----|:-----|
 | _Count_|Optional| **Variant**|The number of paragraphs by which you want to move ahead. The default value is one.|
 
-### Return Value
+### Return value
 
 Paragraph
 

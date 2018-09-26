@@ -31,7 +31,7 @@ Merges the styles from another workbook into the  **[Styles](Excel.Styles.md)** 
 |:-----|:-----|:-----|:-----|
 | _Workbook_|Required| **Variant**|A  **[Workbook](Excel.Workbook.md)** object that represents the workbook containing styles to be merged.|
 
-### Return Value
+### Return value
 
 Variant
 

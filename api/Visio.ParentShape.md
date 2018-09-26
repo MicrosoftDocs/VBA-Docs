@@ -28,7 +28,7 @@ Gets the index number of the parent shape of the specified shape in the drawing 
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the shape whose parent you want to find.|
 
-### Return Value
+### Return value
 
  **Long**
 

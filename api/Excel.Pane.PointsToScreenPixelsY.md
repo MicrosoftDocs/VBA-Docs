@@ -31,7 +31,7 @@ Returns or sets the location of the pixel on the screen.
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|Location of the starting point.|
 
-### Return Value
+### Return value
 
 Long
 

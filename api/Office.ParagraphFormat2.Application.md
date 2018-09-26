@@ -20,7 +20,7 @@ Gets an object that represents the application that contains the object. Read-on
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

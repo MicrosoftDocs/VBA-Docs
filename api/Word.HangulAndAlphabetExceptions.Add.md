@@ -31,7 +31,7 @@ Returns a  **HangulAndAlphabetException** object that represents a new exception
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word that you don't want Microsoft Word to correct automatically.|
 
-### Return Value
+### Return value
 
 HangulAndAlphabetException
 

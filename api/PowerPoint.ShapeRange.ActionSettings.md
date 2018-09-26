@@ -23,7 +23,7 @@ Returns an  **[ActionSettings](PowerPoint.ActionSettings.md)** object that conta
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 ActionSettings
 

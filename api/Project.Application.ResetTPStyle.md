@@ -31,7 +31,7 @@ Resets the specified Team Planner style to the default values.
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

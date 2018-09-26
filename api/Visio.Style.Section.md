@@ -31,7 +31,7 @@ Returns the requested  **Section** object belonging to a style. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|A section index.|
 
-### Return Value
+### Return value
 
 Section
 

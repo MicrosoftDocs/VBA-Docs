@@ -32,7 +32,7 @@ Occurs after a PivotTable report connection has been opened.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The selected workbook.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 
-### Return Value
+### Return value
 
 Nothing
 

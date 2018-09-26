@@ -31,7 +31,7 @@ Returns the  **MenuSet** object with the specified ID within the **MenuSets** co
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**|The Visio context ID of the object to retrieve.|
 
-### Return Value
+### Return value
 
 MenuSet
 

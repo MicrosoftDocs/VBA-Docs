@@ -41,7 +41,7 @@ Formats individual boxes in the Network Diagram view (PERT chart).
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the  **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
 | _Reset_|Optional|**Boolean**|**True** if the box formatting is reset to the default style as shown in the **Box Styles** dialog box. If **Reset** is **True**, all arguments except **ProjectName** and **TaskID** are ignored.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

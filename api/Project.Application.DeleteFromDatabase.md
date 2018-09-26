@@ -41,7 +41,7 @@ Deletes a project stored in a database.
 |"MSProject.mdb"|Microsoft Access database|
 |
 
-### Return Value
+### Return value
 
  **Boolean**
 

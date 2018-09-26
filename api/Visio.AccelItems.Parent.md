@@ -23,7 +23,7 @@ Determines the parent of an object. Read-only.
  _expression_ A variable that represents a [AccelItems](./Visio.AccelItems.md) object.
 
 
-### Return Value
+### Return value
 
 AccelTable
 

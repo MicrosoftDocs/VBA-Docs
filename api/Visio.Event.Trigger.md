@@ -31,7 +31,7 @@ Causes an event's action to be performed.
 |:-----|:-----|:-----|:-----|
 | _ContextString_|Required| **String**| The string to send to the target of the event.|
 
-### Return Value
+### Return value
 
 Nothing
 

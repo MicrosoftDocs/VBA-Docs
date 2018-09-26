@@ -34,7 +34,7 @@ Gets the value of the specified data-column property.
 |:-----|:-----|:-----|:-----|
 | _Property_|Required| **VisDataColumnProperties**|The data column property to get. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Variant
 

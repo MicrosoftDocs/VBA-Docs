@@ -23,7 +23,7 @@ Returns the range of text represented by a  **Characters** object, which may be 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

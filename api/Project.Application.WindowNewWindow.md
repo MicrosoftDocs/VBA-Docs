@@ -34,7 +34,7 @@ Creates a window.
 | _AllProjects_|Optional|**Boolean**|**True** if the new window contains data from all open projects. When **True**, AllProjects overrides Projects. The default value is **False**.|
 | _ShowDialog_|Optional|**Boolean**|**True** if the **New Window** dialog box is displayed so that a view or project can be selected. The default value is **False.**|
 
-### Return Value
+### Return value
 
  **Boolean**
 

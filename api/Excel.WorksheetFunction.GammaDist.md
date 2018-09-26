@@ -38,7 +38,7 @@ For more information about the new function, see the [Gamma_Dist](Excel.Workshee
 | _Arg3_|Required| **Double**|Beta - a parameter to the distribution. If beta = 1, GAMMADIST returns the standard gamma distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, GAMMADIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return Value
+### Return value
 
 Double
 

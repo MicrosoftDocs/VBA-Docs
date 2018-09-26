@@ -23,7 +23,7 @@ Gets or sets the Help context Id number for the Help topic attached to the  **Co
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

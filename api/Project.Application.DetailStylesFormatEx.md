@@ -41,7 +41,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough style.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -33,7 +33,7 @@ FIND and FINDB locate one text string within a second text string, and return th
 | _Arg2_|Required| **String**|Within_text - the text containing the text you want to find.|
 | _Arg3_|Optional| **Variant**|Start_num - specifies the character at which to start the search. The first character in within_text is character number 1. If you omit start_num, it is assumed to be 1.|
 
-### Return Value
+### Return value
 
 Double
 

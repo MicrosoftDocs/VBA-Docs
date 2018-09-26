@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ThemeFontScheme** object. Read-only.
  _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

@@ -23,7 +23,7 @@ Gets or sets a  **String** value that represents the formula of the object using
  _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 String
 

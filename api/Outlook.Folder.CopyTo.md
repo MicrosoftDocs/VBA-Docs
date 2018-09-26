@@ -31,7 +31,7 @@ Copies the current folder in its entirety to the destination folder.
 |:-----|:-----|:-----|:-----|
 | _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required  **Folder** object that represents the destination folder.|
 
-### Return Value
+### Return value
 
 A  **Folder** object that represents the new copy of the current folder.
 

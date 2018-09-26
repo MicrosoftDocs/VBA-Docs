@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _ViewName_|Required| **Variant**|The name or index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[CustomView](Excel.CustomView.md)** object contained by the collection.
 

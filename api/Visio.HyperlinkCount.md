@@ -28,7 +28,7 @@ Gets the count of hyperlinks associated with the shape at the specified index in
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the specified shape in the collection of shapes in the drawing open in Visio Viewer.|
 
-### Return Value
+### Return value
 
  **Long**
 

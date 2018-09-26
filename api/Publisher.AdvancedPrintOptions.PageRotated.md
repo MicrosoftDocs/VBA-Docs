@@ -23,7 +23,7 @@ Gets or sets whether the printed page is rotated 180 degrees. Read/write.
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

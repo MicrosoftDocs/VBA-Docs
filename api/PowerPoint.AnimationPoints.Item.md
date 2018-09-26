@@ -31,7 +31,7 @@ Returns a single  **AnimationPoint** object from the specified **AnimationPoints
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **AnimationPoint** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 AnimationPoint
 

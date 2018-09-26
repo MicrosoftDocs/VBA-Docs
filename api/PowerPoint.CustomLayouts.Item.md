@@ -31,7 +31,7 @@ Returns a single object from the specified collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 CustomLayout
 

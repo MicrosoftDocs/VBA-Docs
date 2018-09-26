@@ -29,7 +29,7 @@ Places the friendly name of the output format specified by the index passed to t
 |nIndex |Required| **Long**|The zero-based index of the output format within the list of output formats on the user's computer.|
 |pVal |Required| **String**|Variable that will hold the display name of the output format. The  **GetFormatName** method places the name in this variable.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

@@ -23,7 +23,7 @@ Deletes an object.
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

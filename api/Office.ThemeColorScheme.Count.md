@@ -20,7 +20,7 @@ Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** c
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

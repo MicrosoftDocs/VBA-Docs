@@ -39,7 +39,7 @@ Prints the object.
 | _PrToFileName_|Optional| **Variant**|If  _PrintToFile_ is set to **True** , this argument specifies the name of the file you want to print to.|
 | _IgnorePrintAreas_|Optional| **Variant**| **True** to ignore print areas and print the entire object.|
 
-### Return Value
+### Return value
 
 Variant
 

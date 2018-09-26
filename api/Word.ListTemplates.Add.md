@@ -32,7 +32,7 @@ Returns a  **ListTemplate** object that represents a new list template.
 | _OutlineNumbered_|Optional| **Variant**| **True** to apply outline numbering to the new list template.|
 | _Name_|Optional| **Variant**|An optional name used for linking the list template to a LISTNUM field. You can use this name to index the list template in the collection.|
 
-### Return Value
+### Return value
 
 ListTemplate
 

@@ -31,7 +31,7 @@ Renumbers work breakdown structure (WBS) codes for either the active project or 
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project should be renumbered. **False** if only the selected tasks should be renumbered.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

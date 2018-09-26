@@ -31,7 +31,7 @@ Returns a single  **ResampleMediaTask** object from the specified **ResampleMedi
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the single  **ResampleMediaTask** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 ResampleMediaTask
 

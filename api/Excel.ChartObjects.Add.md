@@ -32,7 +32,7 @@ Creates a new embedded chart.
 | _Left_|Required| **Double**|The initial coordinates of the new object (in points), relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
 | _Width_|Required| **Double**|The initial size of the new object, in points.|
 
-### Return Value
+### Return value
 
 A  **[ChartObject](Excel.ChartObject.md)** object that represents the new embedded chart.
 

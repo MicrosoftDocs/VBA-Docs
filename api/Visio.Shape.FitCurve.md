@@ -32,7 +32,7 @@ Reduces the number of geometry segments in a shape or shapes by replacing them w
 | _Tolerance_|Required| **Double**|How closely the resulting paths must match the shape's original paths.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|
 
-### Return Value
+### Return value
 
 Nothing
 

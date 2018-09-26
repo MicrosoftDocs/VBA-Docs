@@ -31,7 +31,7 @@ Returns the name of the specified section as a  **String**.
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** colleciton.|
 
-### Return Value
+### Return value
 
 String
 

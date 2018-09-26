@@ -20,7 +20,7 @@ Gets or sets the type of the  **SoftEdgeFormat** object. Read/write.
  _expression_ An expression that returns a [SoftEdgeFormat](./Office.SoftEdgeFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoSoftEdgeType
 

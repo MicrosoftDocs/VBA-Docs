@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Exclusive_|Optional|**Boolean**|Specifies whether you want to open the database in exclusive mode. The default value is  **False**, which specifies that the database should be opened in shared mode.|
 | _bstrPassword_|Optional|**String**|The password to open the specified database.|
 
-### Return Value
+### Return value
 
 Nothing
 

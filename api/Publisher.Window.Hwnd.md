@@ -23,7 +23,7 @@ Returns a  **Long** indicating the handle to the Microsoft Publisher application
  _expression_ A variable that represents a  **Window** object.
 
 
-### Return Value
+### Return value
 
 Long
 

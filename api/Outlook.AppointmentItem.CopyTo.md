@@ -32,7 +32,7 @@ Copies the  **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that
 | _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Specifies the folder to which the  **AppointmentItem** object is copied.|
 | _CopyOptions_|Required| **[OlAppointmentCopyOptions](Outlook.OlAppointmentCopyOptions.md)**|Specifies the user experience of the copy operation.|
 
-### Return Value
+### Return value
 
 Returns an  **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
 

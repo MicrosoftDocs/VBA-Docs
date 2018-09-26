@@ -31,7 +31,7 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of a report for which to show an on-screen preview. |
 
-### Return Value
+### Return value
 
  **Boolean**
 

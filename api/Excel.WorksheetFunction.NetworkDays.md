@@ -33,7 +33,7 @@ Returns the number of whole working days between start_date and end_date. Workin
 | _Arg2_|Required| **Variant**|End_date - a date that represents the end date.|
 | _Arg3_|Optional| **Variant**|Holidays - an optional range of one or more dates to exclude from the working calendar, such as state and federal holidays and floating holidays. The list can be either a range of cells that contains the dates or an array constant of the serial numbers that represent the dates.|
 
-### Return Value
+### Return value
 
 Double
 

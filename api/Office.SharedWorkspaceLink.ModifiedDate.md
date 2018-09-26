@@ -26,7 +26,7 @@ Gets the date and time when the  **SharedWorkspaceLink** object was last modifie
  _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

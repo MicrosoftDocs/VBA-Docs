@@ -23,7 +23,7 @@ Returns the number of the first slide in the range of slides to be printed. Read
  _expression_ A variable that represents a [PrintRange](./PowerPoint.PrintRange.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -31,7 +31,7 @@ Displays a specified detail related to a digital certificate.
 |:-----|:-----|:-----|:-----|
 | _certdet_|Required|**CertificateDetail**|An enumerated value specifying which certificate detail to display.|
 
-### Return Value
+### Return value
 
 Variant
 

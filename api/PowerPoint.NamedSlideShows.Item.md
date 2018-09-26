@@ -31,7 +31,7 @@ Returns a single  **NamedSlideShow** object from the specified **NamedSlideShows
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **NamedSlideShow** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 NamedSlideShow
 

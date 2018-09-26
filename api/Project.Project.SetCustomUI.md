@@ -31,7 +31,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 |:-----|:-----|:-----|:-----|
 | _CustomUIXML_|Required|**String**|Valid XML data for modifying the ribbon.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

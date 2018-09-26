@@ -31,7 +31,7 @@ Extracts the phonetic (furigana) characters from a text string.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|Reference - a text string or a reference to a single cell or a range of cells that contain a furigana text string.|
 
-### Return Value
+### Return value
 
 String
 

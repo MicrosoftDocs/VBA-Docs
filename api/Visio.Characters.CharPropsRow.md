@@ -31,7 +31,7 @@ Returns the index of the row in the Character section of a ShapeSheet window tha
 |:-----|:-----|:-----|:-----|
 | _BiasLorR_|Required| **Integer**|The direction of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

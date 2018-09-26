@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _ColumnName_|Required|**String**|The name of the field to display the history for.|
 | _queryString_|Required|**String**|A  **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
 
-### Return Value
+### Return value
 
 String
 

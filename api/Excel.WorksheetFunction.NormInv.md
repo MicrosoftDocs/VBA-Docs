@@ -37,7 +37,7 @@ For more information about the new function, see the [Norm_Inv](Excel.WorksheetF
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
 
-### Return Value
+### Return value
 
 Double
 

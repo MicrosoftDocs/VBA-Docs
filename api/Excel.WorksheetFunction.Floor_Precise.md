@@ -32,7 +32,7 @@ Rounds the specified number to the nearest multiple of significance.
 | _Arg1_|Required| **Double**|Number - the numeric value you want to round.|
 | _Arg2_|Optional| **Variant**|Significance - the multiple to which you want to round.|
 
-### Return Value
+### Return value
 
 Double
 

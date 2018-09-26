@@ -31,7 +31,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Required| **Variant**|The name of the window.|
 
-### Return Value
+### Return value
 
  **Boolean** .
 

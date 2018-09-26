@@ -23,7 +23,7 @@ Adds a new object to a collection.
  _expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) collection.
 
 
-### Return Value
+### Return value
 
 Toolbar
 

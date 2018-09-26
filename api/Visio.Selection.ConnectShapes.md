@@ -23,7 +23,7 @@ Connects two or more selected shapes with a dynamic connector. Returns **Nothing
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

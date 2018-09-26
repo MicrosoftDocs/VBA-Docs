@@ -23,7 +23,7 @@ Determines whether the container is a normal container or a list container. Read
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisContainerTypes](Visio.VisContainerTypes.md)**
 

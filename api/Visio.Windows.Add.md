@@ -40,7 +40,7 @@ Adds a new  **Window** object to the **Windows** collection.
 | _bstrMergeClass_|Optional| **Variant**|Merge class of the window.|
 | _nMergePosition_|Optional| **Variant**|Merge position of the window.|
 
-### Return Value
+### Return value
 
 Window
 

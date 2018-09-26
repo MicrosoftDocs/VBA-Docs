@@ -33,7 +33,7 @@ Pastes the shape to the specified location on the page.
 | _yPos_|Required| **Double**|The y-coordinate at which to place the center of the object?s height or PinY, in inches.|
 | _Flags_|Required| **Long**|The default is zero.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

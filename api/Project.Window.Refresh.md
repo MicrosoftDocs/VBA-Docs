@@ -23,7 +23,7 @@ Refreshes the window.
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
-### Return Value
+### Return value
 
  **Nothing**
 

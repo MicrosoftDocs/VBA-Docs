@@ -33,7 +33,7 @@ Adds new topics from a real-time data server. The  **ConnectData** method is cal
 | _Strings()_|Required| **Variant**|A single-dimensional array of strings identifying the topic.|
 | _GetNewValues_|Required| **Boolean**| **True** to determine if new values are to be acquired.|
 
-### Return Value
+### Return value
 
 Variant
 

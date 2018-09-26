@@ -23,7 +23,7 @@ Gets or sets the number of sheets of paper on which a drawing is printed vertica
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

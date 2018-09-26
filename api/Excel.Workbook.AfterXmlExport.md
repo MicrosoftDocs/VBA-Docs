@@ -33,7 +33,7 @@ Occurs after Microsoft Excel saves or exports XML data from the specified workbo
 | _Url_|Required| **String**|The location of the XML file that was exported.|
 | _Result_|Required| **XlXmlExportResult**|Indicates the results of the save or export operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

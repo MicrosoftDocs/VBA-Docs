@@ -23,7 +23,7 @@ Returns or sets the bullet style. Read/write.
  _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
-### Return Value
+### Return value
 
 [PpNumberedBulletStyle](PowerPoint.PpNumberedBulletStyle.md)
 

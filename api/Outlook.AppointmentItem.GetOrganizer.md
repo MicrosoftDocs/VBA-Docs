@@ -23,7 +23,7 @@ Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains in
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
-### Return Value
+### Return value
 
 An  **AddressEntry** object that represents the organizer of the **AppointmentItem** .
 

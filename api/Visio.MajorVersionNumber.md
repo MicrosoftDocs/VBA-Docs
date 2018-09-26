@@ -20,7 +20,7 @@ ms.date: 06/08/2017
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

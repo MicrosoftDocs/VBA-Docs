@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **ScopeFolder
  _expression_ A variable that represents a [ScopeFolders](./Office.ScopeFolders.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

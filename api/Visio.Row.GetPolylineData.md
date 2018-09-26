@@ -32,7 +32,7 @@ Returns the points recorded in a polyline row.
 | _Flags_|Required| **Integer**|Flags that influence the points returned.|
 | _xyArray()_|Required| **Double**|Out parameter. Returns an array of alternating  _x_ and _y_ values specifying the points recorded in the row.|
 
-### Return Value
+### Return value
 
 Nothing
 

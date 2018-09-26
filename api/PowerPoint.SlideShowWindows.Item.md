@@ -31,7 +31,7 @@ Returns a single  **SlideShowWindow** object from the specified **SlideShowWindo
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **SlideShowWindow** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 SlideShowWindow
 

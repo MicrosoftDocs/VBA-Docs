@@ -28,7 +28,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[Point](PowerPoint.Point.md)** object that the collection contains.
 

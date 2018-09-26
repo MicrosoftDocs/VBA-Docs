@@ -23,7 +23,7 @@ Returns the key associated with  **KeyDown** and **KeyUp** events. Read-only.
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

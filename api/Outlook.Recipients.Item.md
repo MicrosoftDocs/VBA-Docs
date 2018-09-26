@@ -31,7 +31,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return Value
+### Return value
 
 A  **Recipient** object that represents the specified object.
 

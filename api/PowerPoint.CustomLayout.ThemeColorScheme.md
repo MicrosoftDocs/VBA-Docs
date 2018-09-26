@@ -23,7 +23,7 @@ Returns a  **ThemeColorScheme** object that represents the color scheme of the t
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return Value
+### Return value
 
 ThemeColorScheme
 

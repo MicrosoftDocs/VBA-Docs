@@ -34,7 +34,7 @@ Adds a line to the  **Shapes** collection of a master.
 | _xEnd_|Required| **Double**|The x-coordinate of the line's endpoint.|
 | _yEnd_|Required| **Double**|The y-coordinate of the line's endpoint.|
 
-### Return Value
+### Return value
 
 Shape
 

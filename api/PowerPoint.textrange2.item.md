@@ -26,7 +26,7 @@ Gets the range of text specified by the index number from the  **TextRange2** ob
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number of the text range.|
 
-### Return Value
+### Return value
 
 TextRange2
 

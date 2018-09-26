@@ -31,7 +31,7 @@ Creates a new  **Toolbar** object at a specified index in the **Toolbars** colle
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index at which to add the object.|
 
-### Return Value
+### Return value
 
 Toolbar
 

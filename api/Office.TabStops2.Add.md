@@ -29,7 +29,7 @@ Adds a new tab stop to the specified  **TabStops2** object.
 | _Type_|Required|**MsoTabStopType**|The type of tab stop to add.|
 | _Position_|Required|**Single**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in points; strings are evaluated in the units specified and can be in any measurement unit supported by the Microsoft Office product. |
 
-### Return Value
+### Return value
 
 TabStop2
 

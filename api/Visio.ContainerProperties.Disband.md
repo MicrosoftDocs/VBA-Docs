@@ -23,7 +23,7 @@ Removes all member shapes from the container and deletes the container shape.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return Value
+### Return value
 
  **Nothing**
 

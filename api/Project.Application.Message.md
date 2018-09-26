@@ -34,7 +34,7 @@ Displays a message in a message box.
 | _YesText_|Optional|**String**|The text to be displayed on the  **Yes** button. The YesText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "Yes".|
 | _NoText_|Optional|**String**|The text to be displayed on the  **No** button. The NoText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "No".|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -28,7 +28,7 @@ Returns an  **OMath** object that represents the specified item in the collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 
-### Return Value
+### Return value
 
 OMath
 

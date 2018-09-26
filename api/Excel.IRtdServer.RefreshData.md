@@ -31,7 +31,7 @@ This method is called by Microsoft Excel to get new data. Returns a  **Variant**
 |:-----|:-----|:-----|:-----|
 | _TopicCount_|Required| **Long**|The RTD server must change the value of the  **TopicCount** to the number of elements in the array returned.|
 
-### Return Value
+### Return value
 
 A Variant array that contains the new data.
 

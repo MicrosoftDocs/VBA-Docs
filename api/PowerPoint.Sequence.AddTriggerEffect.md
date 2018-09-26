@@ -36,7 +36,7 @@ Adds a trigger effect to the animation in a  **Sequence** object.
 | _bookmark_|Optional|**String**|The bookmark.|
 | _Level_|Optional|**MsoAnimateByLevel**|The level of animation.|
 
-### Return Value
+### Return value
 
 Effect
 

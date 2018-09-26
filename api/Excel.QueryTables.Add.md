@@ -33,7 +33,7 @@ Creates a new query table.
 | _Destination_|Required| **Range**|The cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **QueryTables** object specified by expression.|
 | _Sql_|Optional| **Variant**|The SQL query string to be run on the ODBC data source. This argument is optional when you're using an ODBC data source (if you don't specify it here, you should set it by using the  **Sql** property of the query table before the table is refreshed). You cannot use this argument when a **QueryTable** object, text file, or ADO or DAO **Recordset** object is specified as the data source.|
 
-### Return Value
+### Return value
 
 A  **[QueryTable](Excel.QueryTable.md)** object that represents the new query table.
 

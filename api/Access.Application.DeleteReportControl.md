@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _ReportName_|Required|**String**|The name of the report containing the control you want to delete.|
 | _ControlName_|Required|**String**|The name of the control you want to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

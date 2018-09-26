@@ -32,7 +32,7 @@ Returns the number of combinations for a given number of items. Use Combin to de
 | _Arg1_|Required| **Double**|The number of items.|
 | _Arg2_|Required| **Double**|The number of items in each combination.|
 
-### Return Value
+### Return value
 
 Double
 

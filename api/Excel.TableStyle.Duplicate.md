@@ -31,7 +31,7 @@ Duplicates the  **TableStyle** object and returns a reference to the new copy.
 |:-----|:-----|:-----|:-----|
 | _NewTableStyleName_|Optional| **Variant**|The name of the new table style.|
 
-### Return Value
+### Return value
 
 TableStyle
 

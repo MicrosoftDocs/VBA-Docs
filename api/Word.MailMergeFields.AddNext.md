@@ -31,7 +31,7 @@ Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** o
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the NEXT field.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

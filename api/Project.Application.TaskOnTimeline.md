@@ -34,7 +34,7 @@ Manages tasks on the Timeline pane or for a specified custom timeline.
 | _TimelineViewName_|Optional|**String**|Specifies the name of a timeline to use. The name can be the built-in "Timeline" or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
 | _ShowDialog_|Optional|**Boolean**|**True** if Project displays the **Add Tasks to Timeline** dialog box; otherwise, **False**. Any tasks that are already on the timeline have a check by their names. If _ShowDialog_ is **True**, Project ignores the _TaskID_ and _Remove_ arguments. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

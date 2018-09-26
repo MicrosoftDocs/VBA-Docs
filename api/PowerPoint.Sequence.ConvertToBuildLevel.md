@@ -32,7 +32,7 @@ Changes the build level information for a specified animation effect. Returns an
 | _Effect_|Required|**Effect**| The specified animation effect.|
 | _Level_|Required|**[MsoAnimateByLevel](PowerPoint.MsoAnimateByLevel.md)**|The animation build level.|
 
-### Return Value
+### Return value
 
 Effect
 

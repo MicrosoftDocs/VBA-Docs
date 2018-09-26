@@ -32,7 +32,7 @@ Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that r
 | _Name_|Required| **String**|The name of the e-mail entry.|
 | _Range_|Required| **Range**|The range in the document that will be added as the signature.|
 
-### Return Value
+### Return value
 
 EmailSignatureEntry
 

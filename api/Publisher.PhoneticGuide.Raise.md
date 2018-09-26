@@ -23,7 +23,7 @@ Returns a  **Variant** indicating the distance between the top of the base text 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

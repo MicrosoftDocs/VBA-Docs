@@ -33,7 +33,7 @@ Adds a row that has the specified name to the specified ShapeSheet section.
 | _RowName_|Required| **String**|The name of the new row.|
 | _RowTag_|Required| **Integer**| The type of row to be added.|
 
-### Return Value
+### Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that specifies whether a Web publication wi
  _expression_ A variable that represents an  **WebOptions** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

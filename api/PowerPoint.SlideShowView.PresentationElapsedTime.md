@@ -23,7 +23,7 @@ Returns the number of seconds that have elapsed since the beginning of the speci
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

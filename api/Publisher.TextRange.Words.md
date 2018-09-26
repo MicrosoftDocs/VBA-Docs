@@ -32,7 +32,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 |Start|Required| **Long**|The first word in the returned range.|
 |Length|Optional| **Long**|The number of words to be returned. Default is 1.|
 
-### Return Value
+### Return value
 
 TextRange
 

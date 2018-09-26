@@ -31,7 +31,7 @@ This method creates a connection item.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the item.|
 
-### Return Value
+### Return value
 
 WorkbookConnection
 

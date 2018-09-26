@@ -31,7 +31,7 @@ Levels overallocated resources.
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Variant**|**True** if all resources are leveled. **False** if only selected resources are leveled.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

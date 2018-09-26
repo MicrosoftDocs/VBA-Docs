@@ -46,7 +46,7 @@ Compares two documents and returns a  **Document** object that represents the do
 | _RevisedAuthor_|Optional| **String**|Specifies the name of the person to use for unattributed changes after merging two documents.|
 | _FormatFrom_|Optional| **WdMergeFormatFrom**|Specifies the document from which to retain formatting.|
 
-### Return Value
+### Return value
 
 Document
 

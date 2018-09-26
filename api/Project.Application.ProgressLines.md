@@ -23,7 +23,7 @@ Displays the  **Progress Lines** dialog box.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

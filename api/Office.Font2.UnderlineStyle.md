@@ -20,7 +20,7 @@ Gets or sets a value specifying the underline style for the selected text. Read/
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTextUnderlineType
 

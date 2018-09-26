@@ -32,7 +32,7 @@ Moves the chart to a new location.
 | _Where_|Required| **[XlChartLocation](Excel.XlChartLocation.md)**|Where to move the chart.|
 | _Name_|Optional| **Variant**|Required if  _Where_ is **xlLocationAsObject** . The name of the sheet where the chart will be embedded if _Where_ is **xlLocationAsObject** or the name of the new sheet if _Where_ is **xlLocationAsNewSheet** .|
 
-### Return Value
+### Return value
 
 Chart
 

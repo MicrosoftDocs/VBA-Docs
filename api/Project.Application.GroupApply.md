@@ -31,7 +31,7 @@ Sets the current group.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the group to use.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

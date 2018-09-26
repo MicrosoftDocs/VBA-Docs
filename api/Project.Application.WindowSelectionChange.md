@@ -30,7 +30,7 @@ Occurs when the selection handle is changed within a window in Project.
 | _sel_|Required|**Selection**|The selection.|
 | _selType_|Required|**Long**|The type of data included in the selection. Can be one of the following  **PjItemType** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.|
 
-### Return Value
+### Return value
 
 nothing
 

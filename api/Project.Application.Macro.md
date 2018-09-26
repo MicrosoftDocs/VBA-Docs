@@ -31,7 +31,7 @@ Runs a macro.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the macro to run. If  **Name** is omitted, the **Macros** dialog box appears.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

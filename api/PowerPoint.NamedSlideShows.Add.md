@@ -32,7 +32,7 @@ Creates a new named slide show and adds it to the collection of named slide show
 | _Name_|Required|**String**|The name of the slide show.|
 | _safeArrayOfSlideIDs_|Required|**Variant**|Contains the unique slide IDs of the slides to be displayed in a slide show.|
 
-### Return Value
+### Return value
 
 NamedSlideShow
 

@@ -31,7 +31,7 @@ Converts a vertical measurement from points (document coordinates) to screen pix
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|The number of points vertically along the left edge of the document window, starting from the top.|
 
-### Return Value
+### Return value
 
 Long
 

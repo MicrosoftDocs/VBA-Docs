@@ -31,7 +31,7 @@ Groups the selected sparklines.
 |:-----|:-----|:-----|:-----|
 | _Location_|Required| **[Range](Excel.Range(object).md)**|The location of the first cell in the group.|
 
-### Return Value
+### Return value
 
 Nothing
 

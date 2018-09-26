@@ -33,7 +33,7 @@ Occurs immediately before a  **Protected View** window or a workbook in a **Prot
 | _Reason_|Required| **[XlProtectedViewCloseReason](Excel.XlProtectedViewCloseReason.md)**|A constant that specifies the reason the  **Protected View** window is closed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the window does not close when the procedure is finished.|
 
-### Return Value
+### Return value
 
 Nothing
 

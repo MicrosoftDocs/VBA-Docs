@@ -33,7 +33,7 @@ Determines which calendar is used when determining when and how dates are shaded
 | _ResourceUniqueID_|Optional|**Long**|The unique identification number of a resource. The corresponding resource calendar is used for shading.|
 | _ProjectIndex_|Optional|**Variant**|Due to changes in the Project object model, this argument no longer has an effect. It has been retained for backward compatibility.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

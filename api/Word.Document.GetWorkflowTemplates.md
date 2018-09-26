@@ -23,7 +23,7 @@ Returns a  **WorkflowTemplates** collection that represents the workflow templat
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Return Value
+### Return value
 
 WorkflowTemplates
 

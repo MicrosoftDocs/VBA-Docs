@@ -31,7 +31,7 @@ Sets the display picture from a picture file.
 |:-----|:-----|:-----|:-----|
 | _FilePath_|Required|**String**|The path to the display picture file. |
 
-### Return Value
+### Return value
 
 Nothing
 

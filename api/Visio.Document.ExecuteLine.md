@@ -31,7 +31,7 @@ Executes a line of Microsoft Visual Basic code.
 |:-----|:-----|:-----|:-----|
 | _Line_|Required| **String**|A string that will be interpreted as Microsoft Visual Basic for Applications (VBA) code.|
 
-### Return Value
+### Return value
 
 Nothing
 

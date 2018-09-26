@@ -32,7 +32,7 @@ Returns an array that contains the identifiers (IDs) of the shapes that are conn
 | _Flags_|Required| **[VisConnectedShapesFlags](Visio.VisConnectedShapesFlags.md)**|Filters the array of returned shape IDs by the directionality of the connectors. See Remarks for possible values.|
 | _CategoryFilter_|Required| **String**|Filters the array of returned shape IDs by limiting it to the IDs of shapes that match the specified category.|
 
-### Return Value
+### Return value
 
  **Long()**
 

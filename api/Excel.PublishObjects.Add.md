@@ -37,7 +37,7 @@ Creates an object that represents an item in a document saved to a Web page. Suc
 | _DivID_|Optional| **Variant**|The unique identifier used in the HTML DIV tag to identify the item on the Web page.|
 | _Title_|Optional| **Variant**|The title of the Web page.|
 
-### Return Value
+### Return value
 
 A  **[PublishObject](Excel.PublishObject.md)** object that represents the new item.
 

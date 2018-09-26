@@ -23,7 +23,7 @@ Reverses an object by flipping it both horizontally and vertically.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

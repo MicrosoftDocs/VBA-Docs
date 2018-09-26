@@ -36,7 +36,7 @@ Creates a shape whose path consists of an arc defined by the three points passed
 | _xControl_|Required| **Double**|The x-coordinate of the control point of the arc.|
 | _yControl_|Required| **Double**|The y-coordinate of the control point of the arc.|
 
-### Return Value
+### Return value
 
 Shape
 

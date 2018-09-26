@@ -23,7 +23,7 @@ Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that contains
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 PictureFormat
 

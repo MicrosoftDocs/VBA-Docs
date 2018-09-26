@@ -29,7 +29,7 @@ Occurs before a project is printed. Uses the  **EventInfo** object parameter.
 | _pj_|Required|**Project**|The project to be printed.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be printed.|
 
-### Return Value
+### Return value
 
 nothing
 

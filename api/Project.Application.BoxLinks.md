@@ -36,7 +36,7 @@ Specifies the appearance of link lines in the active Network Diagram view.
 | _CriticalColor_|Optional|**Long**|The color of link lines between critical tasks. The default value is  **pjRed**. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 | _NoncriticalColor_|Optional|**Long**| The color of link lines between noncritical tasks. Can be one of the **[PjColor](Project.PjColor.md)** constants. The default value is **pjBlack**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

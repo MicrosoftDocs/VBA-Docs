@@ -36,7 +36,7 @@ For more information about the new functions, see the [Percentile_Inc](Excel.Wor
 | _Arg1_|Required| **Variant**|Array - the array or range of data that defines relative standing.|
 | _Arg2_|Required| **Double**|K - the percentile value in the range 0..1, inclusive.|
 
-### Return Value
+### Return value
 
 Double
 

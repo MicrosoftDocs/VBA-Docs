@@ -31,7 +31,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType** .
 |:-----|:-----|:-----|:-----|
 | _Element_|Required| **MsoChartElementType**|Specifies the chart element type.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -30,7 +30,7 @@ Adds one or more successors to the task.
 | _Link_|Optional|**Long**| A constant that specifies the relationship between tasks that become linked. Can be one of the [PjTaskLinkType](Project.PjTaskLinkType.md) constants. The default value is **pjFinishToStart**.|
 | _Lag_|Optional|**Variant**|A string that specifies the duration of lag time between linked tasks. To specify lead time between tasks, use an expression for  **Lag** that evaluates to a negative value.|
 
-### Return Value
+### Return value
 
 Nothing
 

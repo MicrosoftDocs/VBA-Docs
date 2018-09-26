@@ -31,7 +31,7 @@ Occurs after a PivotTable report is updated on a worksheet.
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 
-### Return Value
+### Return value
 
 Nothing
 

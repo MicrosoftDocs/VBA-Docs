@@ -32,7 +32,7 @@ Opens the pool of enterprise resources for viewing in a temporary project. Avail
 | _EUID_|Optional|**Variant**|A comma-delimited list of unique IDs of the enterprise resource.|
 | _OpenType_|Optional|**Long**|Specifies how the enterprise resources are to be checked out. Can be one of the following  **PjCheckOutType** constants: **pjReadOnly** or **pjReadWrite**. The default value is **pjReadWrite**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

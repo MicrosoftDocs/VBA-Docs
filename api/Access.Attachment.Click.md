@@ -23,7 +23,7 @@ _expression_. `Click`
 _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

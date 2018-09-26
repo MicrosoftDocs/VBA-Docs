@@ -31,7 +31,7 @@ Sets the title row height of the active view.
 |:-----|:-----|:-----|:-----|
 | _TitleHeight_|Optional|**Integer**|The height of the title row of the active view.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

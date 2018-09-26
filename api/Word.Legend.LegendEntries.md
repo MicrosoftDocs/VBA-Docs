@@ -23,7 +23,7 @@ Returns a collection of legend entries for the legend.
  _expression_ A variable that represents a '[Legend](Word.Legend.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **[LegendEntries](Word.LegendEntries.md)** object that represents the legend entries for the legend.
 

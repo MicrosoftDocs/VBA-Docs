@@ -31,7 +31,7 @@ Moves the specified shape or shape range vertically by the specified distance.
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Variant**|The vertical distance to move the shape or shape range. A positive value moves the shape or shape range down; a negative value moves it up. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 
-### Return Value
+### Return value
 
 Nothing
 

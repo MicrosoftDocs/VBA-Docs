@@ -36,7 +36,7 @@ This feature is only available in the Open XML Format SDK.
 | _ppcp_|Required|**IConverterPreferences**||
 | _pcuic_|Required|**IConverterUICallback**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

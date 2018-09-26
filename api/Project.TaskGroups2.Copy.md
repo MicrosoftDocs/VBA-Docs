@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
 | _Name_|Required|**String**|The name of the group to copy.|
 | _NewName_|Required|**String**|The name of the new group.|
 
-### Return Value
+### Return value
 
  **Group2**
 

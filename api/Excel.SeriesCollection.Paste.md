@@ -35,7 +35,7 @@ Pastes data from the Clipboard into the specified series collection.
 | _Replace_|Optional| **Variant**| **True** to apply categories while replacing existing categories with information from the copied range. **False** to insert new categories without replacing any old ones. The default value is **True** .|
 | _NewSeries_|Optional| **Variant**| **True** to paste the data as a new series. **False** to paste the data as new points in an existing series. The default value is **True** .|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -37,7 +37,7 @@ Applies names to the cells in the specified range.
 | _Order_|Optional| **[XlApplyNamesOrder](Excel.XlApplyNamesOrder.md)**|Determines which range name is listed first when a cell reference is replaced by a row-oriented and column-oriented range name.|
 | _AppendLast_|Optional| **Variant**| **True** to replace the definitions of the names in _Names_ and also replace the definitions of the last names that were defined. **False** to replace the definitions of the names in _Names_ only. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Variant
 

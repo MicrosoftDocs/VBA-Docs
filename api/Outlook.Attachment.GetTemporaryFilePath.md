@@ -23,7 +23,7 @@ Returns the full path to the attached file that is in a temporary files folder. 
  _expression_ A variable that represents an '[Attachment](Outlook.Attachment.md)' object.
 
 
-### Return Value
+### Return value
 
 Returns a  **String** that represents the full path to the temporary attachment file.
 

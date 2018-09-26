@@ -32,7 +32,7 @@ Returns the identifiers (IDs) of the data recordsets that are set to be publishe
 | _PublishDataRecordsets_|Required| **[VisPublishDataRecordsets](Visio.VisPublishDataRecordsets.md)**|Out parameter. Returns whether all, no, or selected data recordsets are set to be published. See Remarks for possible values.|
 | _DataRecordsetIDs()_|Required| **Long**|Out parameter. Returns the IDs of the data recordsets that are set to be published.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

@@ -32,7 +32,7 @@ Creates a new validation issue that is based on the validation rule, and adds it
 | _TargetPage_|Optional| **[Page](Visio.Page.md)**|The page that has the issue. May be  **Nothing** .|
 | _TargetShape_|Optional| **[Shape](Visio.Shape.md)**|The shape that has the issue. May be  **Nothing** .|
 
-### Return Value
+### Return value
 
  **[ValidationIssue](Visio.ValidationIssue.md)**
 

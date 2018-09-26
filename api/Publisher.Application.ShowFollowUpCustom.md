@@ -23,7 +23,7 @@ Gets or sets the string, if any, that appears as the fourth item under  **Prepar
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return Value
+### Return value
 
 String
 

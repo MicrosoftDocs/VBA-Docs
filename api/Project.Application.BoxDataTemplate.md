@@ -34,7 +34,7 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 | _NewName_|Optional|**String**|Required when specifying a new name for an existing data template (**action** is **pjDataTemplateNew**) or naming a copied data template (**action** is **pjDataTemplateCopy**). If **action** is **pjDataTemplateRename** or **pjDataTemplateDelete**, **NewName** is ignored.|
 | _Overwrite_|Optional|**Boolean**|**True** if an existing template should be replaced with one of the same name. If **action** is **pjDataTemplateRename** or **pjDataTemplateDelete**, **Overwrite** is ignored. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

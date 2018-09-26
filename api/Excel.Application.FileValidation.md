@@ -23,7 +23,7 @@ Returns or sets how Excel will validate files before opening them. Read/write
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **[MsoFileValidationMode](Office.MsoFileValidationMode.md)**
 

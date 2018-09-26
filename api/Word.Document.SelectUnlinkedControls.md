@@ -31,7 +31,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 |:-----|:-----|:-----|:-----|
 | _Stream_|Optional| **CustomXMLPart**|A custom XML part reference. Setting this parameter filters the returned content controls to include only content controls that reference this  **CustomXMLPart** in their **XMLMapping** definition.|
 
-### Return Value
+### Return value
 
 ContentControls
 

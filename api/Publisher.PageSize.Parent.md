@@ -23,7 +23,7 @@ Returns the parent of the  **[PageSize](Publisher.PageSizes.md)** object. Read-o
  _expression_ A variable that represents a  **PageSize** object.
 
 
-### Return Value
+### Return value
 
 Object
 

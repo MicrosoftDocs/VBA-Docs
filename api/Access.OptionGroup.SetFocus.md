@@ -23,7 +23,7 @@ _expression_. `SetFocus`
 _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

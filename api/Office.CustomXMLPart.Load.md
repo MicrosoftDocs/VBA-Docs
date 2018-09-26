@@ -31,7 +31,7 @@ Allows the template author to populate a  **CustomXMLPart** from an existing fil
 |:-----|:-----|:-----|:-----|
 | _FilePath_|Required|**String**|Points to the file on the user's computer or on a network containing the XML to be loaded.|
 
-### Return Value
+### Return value
 
 Boolean
 

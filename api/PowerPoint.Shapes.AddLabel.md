@@ -35,7 +35,7 @@ Creates a label. Returns a  **[Shape](PowerPoint.Shape.md)** object that represe
 | _Width_|Required|**Single**|The width of the label, measured in points.|
 | _Height_|Required|**Single**|The height of the label, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

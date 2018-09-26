@@ -31,7 +31,7 @@ Returns the hyperbolic sine of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number is any real number.|
 
-### Return Value
+### Return value
 
 Double
 

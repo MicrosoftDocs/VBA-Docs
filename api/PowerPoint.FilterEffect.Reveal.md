@@ -23,7 +23,7 @@ Determines how the embedded objects will be revealed. Read/write.
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

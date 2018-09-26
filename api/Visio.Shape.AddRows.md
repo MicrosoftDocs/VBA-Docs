@@ -34,7 +34,7 @@ Adds the specified number of rows to a ShapeSheet section at a specified positio
 | _RowTag_|Required| **Integer**|The type of rows to add.|
 | _RowCount_|Required| **Integer**|The number of rows to add.|
 
-### Return Value
+### Return value
 
 Integer
 

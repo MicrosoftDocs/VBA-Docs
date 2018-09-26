@@ -32,7 +32,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the s
 | _Start_|Optional|**Long**|The first character in the returned range.|
 | _Length_|Optional|**Long**|The number of characters to be returned.|
 
-### Return Value
+### Return value
 
 TextRange
 

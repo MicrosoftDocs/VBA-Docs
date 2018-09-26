@@ -30,7 +30,7 @@ Adds an  **Availability** object to an **Availabilities** collection.
 | _AvailableTo_|Required|**Variant**| The latest date the resource is available for work on the project.|
 | _AvailableUnit_|Required|**Double**|The unit value for the availability period.|
 
-### Return Value
+### Return value
 
  **Availability**
 

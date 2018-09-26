@@ -20,7 +20,7 @@ Returns  **True** if any of the Office task panes are visible.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

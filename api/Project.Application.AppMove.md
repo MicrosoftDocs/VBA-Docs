@@ -33,7 +33,7 @@ Moves the main Project window.
 | _YPosition_|Optional|**Long**|A number that specifies the distance of the main window from the top edge of the screen.|
 | _Points_|Optional|**Boolean**|**True** if **XPosition** and **YPosition** are measured in points. **False** if they are measured in pixels. The default value is **False**|
 
-### Return Value
+### Return value
 
  **Boolean**
 

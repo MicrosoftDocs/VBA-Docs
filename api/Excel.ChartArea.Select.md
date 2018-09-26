@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [ChartArea](Excel.ChartArea(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 A Variant value that represents the selected object.
 

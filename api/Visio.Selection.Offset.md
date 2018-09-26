@@ -31,7 +31,7 @@ Offsets a selection a specified amount.
 |:-----|:-----|:-----|:-----|
 | _Distance_|Required| **Double**|Specifies the distance to offset the selection.|
 
-### Return Value
+### Return value
 
 Nothing
 

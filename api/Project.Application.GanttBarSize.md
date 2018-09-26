@@ -31,7 +31,7 @@ Sets the height, in points, of the Gantt bars in the active Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _Size_|Required|**Long**|A constant specifying the height, in points, of the Gantt bars in the active Gantt Chart. Can be one of the following  **[PjBarSize](Project.PjBarSize.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

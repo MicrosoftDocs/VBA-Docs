@@ -33,7 +33,7 @@ Obtains a  **String** representing the availability of the **[ExchangeUser](Outl
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. Default is 30 minutes.|
 | _CompleteFormat_|Optional| **Variant**|A value of  **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
 
-### Return Value
+### Return value
 
 A  **String** that represents the availability of the Exchange user for a period of 30 days from the start date, beginning at midnight of the date specified. Each character in the **String** is a value indicating if the user is available (0), and optionally, whether a busy time is marked tentative (1), out of office (3), or other (2).
 

@@ -31,7 +31,7 @@ Instructs the active object to perform an action.
 |:-----|:-----|:-----|:-----|
 | _Verb_|Optional|**Long**|The action that the active object should perform.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

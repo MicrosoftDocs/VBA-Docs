@@ -23,7 +23,7 @@ Gets or sets the caption for an object. Read/write.
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

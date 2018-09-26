@@ -31,7 +31,7 @@ Returns the factorial of a number. The factorial of a number is equal to 1*2*3*.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the nonnegative number you want the factorial of. If number is not an integer, it is truncated.|
 
-### Return Value
+### Return value
 
 Double
 

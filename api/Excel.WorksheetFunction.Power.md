@@ -32,7 +32,7 @@ Returns the result of a number raised to a power.
 | _Arg1_|Required| **Double**|Number - the base number. It can be any real number.|
 | _Arg2_|Required| **Double**|Power - the exponent to which the base number is raised.|
 
-### Return Value
+### Return value
 
 Double
 

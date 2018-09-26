@@ -33,7 +33,7 @@ SEARCH and SEARCHB locate one text string within a second text string, and retur
 | _Arg2_|Required| **String**|Within_text - the text in which you want to search for find_text.|
 | _Arg3_|Optional| **Variant**|Start_num - the character number in within_text at which you want to start searching.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -34,7 +34,7 @@ Adds a rectangle to the  **Shapes** collection of a page, master, or group.
 | _x2_|Required| **Double**|The  _x_-coordinate of the other corner of the rectangle's width-height box.|
 | _y2_|Required| **Double**|The  _y_-coordinate of the other corner of the rectangle's width-height box.|
 
-### Return Value
+### Return value
 
 Shape
 

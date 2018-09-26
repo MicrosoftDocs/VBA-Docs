@@ -31,7 +31,7 @@ Returns an  **Object** that represents the value of the property specified by _S
 |:-----|:-----|:-----|:-----|
 | _SchemaName_|Required| **String**|The name of the property whose value is to be returned. The property is referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 
-### Return Value
+### Return value
 
 A  **Variant** value that represents the value of the requested property as specified by _SchemaName_ .
 

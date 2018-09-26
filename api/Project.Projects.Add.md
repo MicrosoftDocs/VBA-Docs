@@ -30,7 +30,7 @@ Adds a  **Project** object to a **Projects** collection.
 | _Template_|Optional|**String**|A path and file name for a template to use when creating the project. If Template is omitted, a blank project is created.|
 | _FileNewDialog_|Optional|**Boolean**|**True** if the **Templates** dialog box is displayed when creating the project. If Template is specified, FileNewDialog is ignored.|
 
-### Return Value
+### Return value
 
  **Project**
 

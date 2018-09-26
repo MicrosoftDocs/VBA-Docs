@@ -37,7 +37,7 @@ Adds a picture to a drawing canvas. Returns a  **Shape** object that represents 
 | _Width_|Optional| **Variant**|The width of the picture, in points.|
 | _Height_|Optional| **Variant**|The height of the picture, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

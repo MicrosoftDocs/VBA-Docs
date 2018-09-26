@@ -34,7 +34,7 @@ Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a
 |:-----|:-----|:-----|:-----|
 | _GraphicItem_|Required| **[IVGRAPHICITEM]**|The  **GraphicItem** object to copy.|
 
-### Return Value
+### Return value
 
 GraphicItem
 

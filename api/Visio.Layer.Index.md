@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Layer** object in the **Layers** collection. R
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

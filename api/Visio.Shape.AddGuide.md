@@ -33,7 +33,7 @@ Adds a guide to a group shape.
 | _xPos_|Required| **Double**|The x-coordinate of a point on the guide.|
 | _yPos_|Required| **Double**|The y-coordinate of a point on the guide.|
 
-### Return Value
+### Return value
 
 Shape
 

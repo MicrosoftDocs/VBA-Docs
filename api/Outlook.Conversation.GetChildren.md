@@ -31,7 +31,7 @@ Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|A conversation node that is part of a conversation.|
 
-### Return Value
+### Return value
 
 A  **SimpleItems** collection that represents the set of child items in the conversation under the node specified by the _Item_ parameter.
 

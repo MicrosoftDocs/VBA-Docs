@@ -23,7 +23,7 @@ Specifies the name of an object. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

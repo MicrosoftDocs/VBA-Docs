@@ -31,7 +31,7 @@ Redoes the last action or a specified number of actions. Corresponds to the list
 |:-----|:-----|:-----|:-----|
 |Count|Optional| **Long**|Specifies the number of actions to be redone. Default is 1, meaning that if omitted, only the last action will be redone.|
 
-### Return Value
+### Return value
 
 Nothing
 

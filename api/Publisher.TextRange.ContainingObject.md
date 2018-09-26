@@ -23,7 +23,7 @@ Returns an  **Object** that represents the object that contains the text range. 
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 Object
 

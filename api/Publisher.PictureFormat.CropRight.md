@@ -23,7 +23,7 @@ Returns or sets a  **Variant** indicating the amount by which the right edge of 
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

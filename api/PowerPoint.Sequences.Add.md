@@ -31,7 +31,7 @@ Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents a new s
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Long**|The position of the sequence in relation to other sequences. The default value is -1, which means that if you omit the Index parameter, the new sequence is added to the end of the existing sequences.|
 
-### Return Value
+### Return value
 
 Sequence
 

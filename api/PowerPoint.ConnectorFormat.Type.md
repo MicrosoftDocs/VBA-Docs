@@ -23,7 +23,7 @@ Represents the type of connector. Read/write.
  _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoConnectorType
 

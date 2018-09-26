@@ -31,7 +31,7 @@ Selects a collection of nodes from a custom XML part.
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains the XPath expression.|
 
-### Return Value
+### Return value
 
 CustomXMLNodes
 

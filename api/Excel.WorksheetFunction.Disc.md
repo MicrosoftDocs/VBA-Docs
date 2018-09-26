@@ -35,7 +35,7 @@ Returns the discount rate for a security.
 | _Arg4_|Required| **Variant**|Redemption - the security's redemption value per $100 face value.|
 | _Arg5_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

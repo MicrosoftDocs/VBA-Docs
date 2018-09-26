@@ -28,7 +28,7 @@ Deletes the deliverable.
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable to delete.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

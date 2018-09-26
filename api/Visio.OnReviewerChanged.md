@@ -29,7 +29,7 @@ Occurs when the visibility of a particular reviewer's markup (comments) is chang
 |ReviewerIndex|Required| **Long**|The index of the reviewer.|
 |ReviewerVisible|Required| **Boolean**|Indicates whether markup of the reviewer is visible in the user interface.|
 
-### Return Value
+### Return value
 
 Nothing
 

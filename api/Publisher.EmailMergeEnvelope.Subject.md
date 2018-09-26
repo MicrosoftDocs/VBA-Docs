@@ -23,7 +23,7 @@ Gets or sets the subject line of the merged e-mail message. Read/write.
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
-### Return Value
+### Return value
 
 String
 

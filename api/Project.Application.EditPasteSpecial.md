@@ -33,7 +33,7 @@ Copies or links data from the Clipboard into the active selection.
 | _Type_|Optional|**Integer**|A numeric value specifying the type of object to paste or link. The  **Type** argument can be one of the **[PjPasteSpecialType](Project.PjPasteSpecialType.md)** constants.|
 | _DisplayAsIcon_|Optional|**Boolean**|**True** if the object appears as an icon.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

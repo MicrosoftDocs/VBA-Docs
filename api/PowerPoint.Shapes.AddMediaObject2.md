@@ -37,7 +37,7 @@ Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](PowerPoint.Shape
 | _Width_|Optional|**Single**|The width, in points, of the media object. Default value is -1.|
 | _Height_|Optional|**Single**|The height, in points, of the media object. Default value is -1.|
 
-### Return Value
+### Return value
 
  **Shape** object
 

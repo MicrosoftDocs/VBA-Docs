@@ -34,7 +34,7 @@ Sets the results or formulas of one or more cells.
 | _resultArray()_|Required| **Variant**|Out parameter. Results or formulas to be assigned to identified cells.|
 | _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetResults** .|
 
-### Return Value
+### Return value
 
 Integer
 

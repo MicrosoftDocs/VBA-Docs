@@ -28,7 +28,7 @@ Gets the name of the shape at the specified index in the collection of shapes in
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the shape in the collection of shapes.|
 
-### Return Value
+### Return value
 
 String
 

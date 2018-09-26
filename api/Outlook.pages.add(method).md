@@ -28,7 +28,7 @@ Adds a  **[Page](Outlook.page.md)** to a **[Pages](Outlook.pages(object).md)** c
 |bstrCaption|Optional| **Variant**|Specifies the caption to appear on a page. If a caption is not specified, the system generates a default caption based on the rules of the application where the form is used.|
 |lIndex|Optional| **Variant**|Identifies the position of a page within a  **Pages** collection. If an index is not specified, the system appends the page to the end of the **Pages** collection and assigns the appropriate index value.|
 
-### Return Value
+### Return value
 
 A  **Page** object that represents the added page.
 

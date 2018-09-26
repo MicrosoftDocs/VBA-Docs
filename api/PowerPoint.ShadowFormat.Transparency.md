@@ -23,7 +23,7 @@ Returns or sets the degree of transparency of the specified fill, shadow, or lin
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

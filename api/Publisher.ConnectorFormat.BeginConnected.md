@@ -23,7 +23,7 @@ Returns an  **MsoTriState**constant indicating whether the beginning of the spec
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

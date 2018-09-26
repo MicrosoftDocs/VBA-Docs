@@ -29,7 +29,7 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the **WorkflowTemplate** object to be returned.|
 
-### Return Value
+### Return value
 
 WorkflowTemplate
 

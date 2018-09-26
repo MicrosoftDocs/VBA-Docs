@@ -31,7 +31,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
 |:-----|:-----|:-----|:-----|
 | _nCmdID_|Required| **Long**|The scope ID.|
 
-### Return Value
+### Return value
 
 Boolean
 

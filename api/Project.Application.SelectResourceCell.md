@@ -33,7 +33,7 @@ Selects a cell containing resource information.
 | _Column_|Optional|**String**|The field name of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

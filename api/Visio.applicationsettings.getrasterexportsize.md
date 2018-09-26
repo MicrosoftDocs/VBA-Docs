@@ -37,7 +37,7 @@ Gets the raster export size.
 | _pSizeUnits_|Required|VISRASTEREXPORTSIZEUNITS||
 |Name|Required/Optional|Data type|Description|
 
-### Return Value
+### Return value
 
 Nothing
 

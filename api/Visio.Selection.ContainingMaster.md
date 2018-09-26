@@ -23,7 +23,7 @@ Returns the  **Master** object that contains an object. Read-only.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Master
 

@@ -31,7 +31,7 @@ Deletes additional shapes associated with the selection, such as connectors and 
 |:-----|:-----|:-----|:-----|
 | _DelFlags_|Required| **Long**|The additional shapes to delete. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

@@ -28,7 +28,7 @@ Occurs after firing of events is resumed.
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio in which firing of events resumed.|
 
-### Return Value
+### Return value
 
 nothing
 

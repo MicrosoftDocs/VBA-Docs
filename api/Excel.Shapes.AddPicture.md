@@ -37,7 +37,7 @@ Creates a picture from an existing file. Returns a  **Shape** object that repres
 | _Width_|Required| **Single**|The width of the picture, in points (enter -1 to retain the width of the existing file).|
 | _Height_|Required| **Single**|The height of the picture, in points (enter -1 to retain the height of the existing file).|
 
-### Return Value
+### Return value
 
 Shape
 

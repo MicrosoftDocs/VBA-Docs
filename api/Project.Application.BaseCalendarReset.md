@@ -31,7 +31,7 @@ Resets a base calendar.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to reset.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

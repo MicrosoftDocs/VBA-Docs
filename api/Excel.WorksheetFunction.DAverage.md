@@ -33,7 +33,7 @@ Averages the values in a column of a list or database that match conditions you 
 | _Arg2_|Required| **Variant**|Indicates which column is used in the function. Enter the column label enclosed between double quotation marks, such as "Age" or "Yield," or a number (without quotation marks) that represents the position of the column within the list: 1 for the first column, 2 for the second column, and so on.|
 | _Arg3_|Required| **Variant**|The range of cells that contains the conditions you specify. You can use any range for the criteria argument, as long as it includes at least one column label and at least one cell below the column label in which you specify a condition for the column.|
 
-### Return Value
+### Return value
 
 Double
 

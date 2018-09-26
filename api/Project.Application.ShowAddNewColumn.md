@@ -31,7 +31,7 @@ Shows or hides the  **Add New Column** column at the right side of the active sh
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if the **Show 'Add New Column' interface** option is selected. **False** if the option is cleared. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

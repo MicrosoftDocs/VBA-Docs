@@ -23,7 +23,7 @@ Returns a  **String** that represents the path to the specified **[Application](
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

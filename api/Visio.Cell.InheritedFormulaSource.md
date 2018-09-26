@@ -23,7 +23,7 @@ Returns the cell from which this cell inherited its formula. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 Cell
 

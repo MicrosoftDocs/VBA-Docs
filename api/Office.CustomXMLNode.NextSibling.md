@@ -23,7 +23,7 @@ Gets the next sibling node (element, comment, or processing instruction) of the 
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 CustomXMLNode
 

@@ -31,7 +31,7 @@ Returns the length of the repetitive pattern Excel detects for the specified tim
 | _Arg3_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_Seasonality** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
 | _Arg4_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_Seasonality** aggregates multiple points that have the same time stamp. See Remarks.|
 
-### Return Value
+### Return value
 
  **Double**
 

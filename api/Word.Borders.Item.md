@@ -31,7 +31,7 @@ Returns a border in a range or selection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBorderType**|The border to be returned.|
 
-### Return Value
+### Return value
 
 Border
 

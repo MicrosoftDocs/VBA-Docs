@@ -20,7 +20,7 @@ Gets or sets the East Asian line break control level for the specified paragraph
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

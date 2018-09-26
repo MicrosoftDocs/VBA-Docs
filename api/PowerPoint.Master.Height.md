@@ -23,7 +23,7 @@ Returns or sets the height of the specified object, in points. Read-only.
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

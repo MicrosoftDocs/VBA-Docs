@@ -23,7 +23,7 @@ Determines whether lines of text break automatically to fit inside the shape. Re
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

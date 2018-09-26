@@ -23,7 +23,7 @@ Sets or returns a  **Long** representing the number of buttons in each row of bu
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Return Value
+### Return value
 
 Long
 

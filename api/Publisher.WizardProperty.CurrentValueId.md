@@ -23,7 +23,7 @@ Returns or sets a  **Long** indicating the value of a setting in the specified p
  _expression_ A variable that represents a  **WizardProperty** object.
 
 
-### Return Value
+### Return value
 
 Long
 

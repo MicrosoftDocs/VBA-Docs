@@ -31,7 +31,7 @@ Occurs before any refreshes of the query table. This includes refreshes resultin
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the refresh doesn't occur when the procedure is finished.|
 
-### Return Value
+### Return value
 
 Nothing
 

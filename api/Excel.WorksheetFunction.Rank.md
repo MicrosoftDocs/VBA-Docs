@@ -41,7 +41,7 @@ For more information about the new functions, see the [Rank_Eq](Excel.WorksheetF
 | _Arg2_|Required| **Range**|Ref - an array of, or a reference to, a list of numbers. Nonnumeric values in ref are ignored.|
 | _Arg3_|Optional| **Variant**|Order - a number specifying how to rank number.|
 
-### Return Value
+### Return value
 
 Double
 

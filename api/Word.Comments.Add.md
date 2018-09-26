@@ -32,7 +32,7 @@ Returns a  **Comment** object that represents a comment added to a range.
 | _Range_|Required| **Range object**|The range to have a comment added to it.|
 | _Text_|Optional| **Variant**|The text of the comment.|
 
-### Return Value
+### Return value
 
 Comment
 

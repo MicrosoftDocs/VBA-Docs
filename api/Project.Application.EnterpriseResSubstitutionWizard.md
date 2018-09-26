@@ -39,7 +39,7 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 | _AssignProposedResources_|Optional|**Variant**||
 | _LevelProposedBookings_|Optional|**Variant**||
 
-### Return Value
+### Return value
 
  **Boolean**
 

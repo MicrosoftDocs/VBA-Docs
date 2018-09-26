@@ -33,7 +33,7 @@ Returns the chi-squared distribution.
 | _Arg2_|Required| **Double**|Deg_freedom - The number of degrees of freedom.|
 | _Arg3_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, CHISQ_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function. |
 
-### Return Value
+### Return value
 
 Double
 

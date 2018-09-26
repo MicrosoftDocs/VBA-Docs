@@ -23,7 +23,7 @@ Returns the number of objects in a collection. Read-only.
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

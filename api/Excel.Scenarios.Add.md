@@ -36,7 +36,7 @@ Creates a new scenario and adds it to the list of scenarios that are available f
 | _Locked_|Optional| **Variant**| **True** to lock the scenario to prevent changes. The default value is **True** .|
 | _Hidden_|Optional| **Variant**| **True** to hide the scenario. The default value is **False** .|
 
-### Return Value
+### Return value
 
 A  **[Scenario](Excel.Scenario.md)** object that represents the new scenario.
 

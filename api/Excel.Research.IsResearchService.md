@@ -31,7 +31,7 @@ Indicates whether the GUID specified in the  _ServiceID_ parameter corresponds t
 |:-----|:-----|:-----|:-----|
 | _ServiceID_|Required| **String**|Specifies a GUID that identifies the research service.|
 
-### Return Value
+### Return value
 
 Boolean
 

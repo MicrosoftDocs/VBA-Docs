@@ -23,7 +23,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object that contains line 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 LineFormat
 

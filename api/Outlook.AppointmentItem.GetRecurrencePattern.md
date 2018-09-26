@@ -23,7 +23,7 @@ Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that rep
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
-### Return Value
+### Return value
 
 A  **RecurrencePattern** object that represents the recurrence attributes of an appointment.
 

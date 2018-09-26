@@ -37,7 +37,7 @@ Returns the depreciation for each accounting period. This function is provided f
 | _Arg6_|Required| **Variant**|The rate of depreciation.|
 | _Arg7_|Optional| **Variant**|The year basis to be used.|
 
-### Return Value
+### Return value
 
 Double
 

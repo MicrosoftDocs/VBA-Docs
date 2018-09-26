@@ -37,7 +37,7 @@ Returns the price per $100 face value of a security that pays periodic interest.
 | _Arg6_|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg7_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

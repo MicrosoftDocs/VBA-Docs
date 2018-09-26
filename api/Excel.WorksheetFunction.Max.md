@@ -31,7 +31,7 @@ Returns the largest value in a set of values.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 numbers for which you want to find the maximum value.|
 
-### Return Value
+### Return value
 
 Double
 

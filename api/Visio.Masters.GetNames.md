@@ -31,7 +31,7 @@ Returns the names of all items in a collection.
 |:-----|:-----|:-----|:-----|
 | _localeSpecificNameArray()_|Required| **STring**|Out parameter. An array that receives names of members of the indicated object.|
 
-### Return Value
+### Return value
 
 Nothing
 

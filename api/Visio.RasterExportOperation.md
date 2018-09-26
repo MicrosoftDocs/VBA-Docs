@@ -23,7 +23,7 @@ Determines the export operation that is applied to the exported image when you c
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisRasterExportOperation](Visio.VisRasterExportOperation.md)**
 

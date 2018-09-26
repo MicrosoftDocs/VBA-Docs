@@ -33,7 +33,7 @@ Converts a date/time value from one time zone to another time zone.
 | _SourceTimeZone_|Required| **[TimeZone](Outlook.TimeZone.md)**|The original time zone of the date/time value that is to be converted.|
 | _DestinationTimeZone_|Required| **TimeZone**|The target time zone to which the date/time value is to be converted.|
 
-### Return Value
+### Return value
 
 A  **Date** value that represents the date and time expressed in the _DestinationTimeZone_ .
 

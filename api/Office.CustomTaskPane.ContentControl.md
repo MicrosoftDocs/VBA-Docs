@@ -23,7 +23,7 @@ Gets the Microsoft ActiveX® control instance displayed in the custom task pane 
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

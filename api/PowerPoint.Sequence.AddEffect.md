@@ -35,7 +35,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new anim
 | _trigger_|Optional|**[MsoAnimTriggerType](PowerPoint.MsoAnimateByLevel.md)**|The action that triggers the animation effect. The default value is  **msoAnimTriggerOnPageClick**.|
 | _Index_|Optional|**Long**|The position at which the effect will be placed in the collection of animation effects. The default value is -1 (added to the end). |
 
-### Return Value
+### Return value
 
 Effect
 

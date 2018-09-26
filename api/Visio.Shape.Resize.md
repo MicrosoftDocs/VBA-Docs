@@ -33,7 +33,7 @@ Resizes the shape by moving shape handles as specified.
 | _Distance_|Required| **Double**|The distance to move the shape edge or corner; positive values move outward and negative values move inward.|
 | _UnitCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units of measure to use for the resize distance.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

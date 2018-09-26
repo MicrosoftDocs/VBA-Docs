@@ -29,7 +29,7 @@ Returns the display name of an object.
 | _ObjectType_|Required|**Long**|The type of object. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants.|
 | _MatchingID_|Required|**String**|String specifying the matching name of the object.|
 
-### Return Value
+### Return value
 
  **String**
 

@@ -46,7 +46,7 @@ Sets calculation options.
 | _EVMethod_|Optional|**Long**|The default method for calculating earned value. Can be one of the following  **[PJEarnedValueMethod](Project.PjEarnedValueMethod.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.|
 | _EVBaseline_|Optional|**Long**|The baseline to use when calculating earned value. Can be one of the following  **[PjBaselines](Project.PjBaselines.md)** constants: **pjBaseline**, or **pjBaseline1**. . . **pjBaseline10**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

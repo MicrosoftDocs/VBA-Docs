@@ -34,7 +34,7 @@ Adds a new conditional format.
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the second part of the conditional format when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored). Can be a constant value, a string value, a cell reference, or a formula.|
 
-### Return Value
+### Return value
 
 A  **[FormatCondition](Excel.FormatCondition.md)** object that represents the new conditional format.
 

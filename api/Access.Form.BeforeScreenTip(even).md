@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 | _ScreenTipText_|Required|**Object**|Set the Value property of this object to the ScreenTip that you want to display. Changing this argument to an empty string effectively hides the ScreenTip.|
 | _SourceObject_|Required|**Object**|The object that generates the ScreenTip.|
 
-### Return Value
+### Return value
 
 nothing
 

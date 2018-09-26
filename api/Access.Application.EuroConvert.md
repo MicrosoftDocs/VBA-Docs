@@ -35,7 +35,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _FullPrecision_|Optional|**Variant**|A  **Boolean** value where **True** (1) ignores the currency-specific rounding rules (called display precision in _sourcecurrency_ argument description) and uses the 6-significant-digit conversion factor with no follow-up rounding. **False** (0) uses the currency-specific rounding rules to display the result. If the parameter is omitted, the default value is **False**.|
 | _TriangulationPrecision_|Optional|**Variant**|An  **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national currencies.|
 
-### Return Value
+### Return value
 
 Double
 

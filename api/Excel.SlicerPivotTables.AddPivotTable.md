@@ -31,7 +31,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
 |:-----|:-----|:-----|:-----|
 | _PivotTable_|Required| **PivotTable**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to add.|
 
-### Return Value
+### Return value
 
 Nothing
 

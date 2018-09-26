@@ -23,7 +23,7 @@ Lays out the shapes or reroutes the connectors (or both) for the page, master, g
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

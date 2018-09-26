@@ -23,7 +23,7 @@ Returns the number of objects in the collection.
  _expression_ A variable that returns a '[SlicerPivotTables](Excel.SlicerPivotTables.md)' object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

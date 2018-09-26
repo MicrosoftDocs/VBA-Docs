@@ -31,7 +31,7 @@ Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to millimeters.|
 
-### Return Value
+### Return value
 
 Single
 

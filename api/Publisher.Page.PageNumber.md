@@ -23,7 +23,7 @@ Returns a  **String** that represents the current page number. Read-only.
  _expression_ A variable that represents a  **Page** object.
 
 
-### Return Value
+### Return value
 
 String
 

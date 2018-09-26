@@ -31,7 +31,7 @@ Edits an enterprise calendar. Available in Project Professional only.
 |:-----|:-----|:-----|:-----|
 | _UniqueID_|Optional|**Variant**|GUID of the enterprise calendar to edit.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -31,7 +31,7 @@ Occurs when a protected view window is deactivated.
 |:-----|:-----|:-----|:-----|
 | _ProtViewWindow_|Required|**ProtectedViewWindow**|The deactivated protected view window.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -31,7 +31,7 @@ Adds a file to the list of recently used files.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The file name.|
 
-### Return Value
+### Return value
 
 A  **[RecentFile](Excel.RecentFile.md)** object contained by the collection.
 

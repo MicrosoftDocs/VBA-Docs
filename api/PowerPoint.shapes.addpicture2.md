@@ -33,7 +33,7 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
 | _Height_|Optional|**Single**|The height of the picture, measured in points.|
 | _compress_|Optional|[MsoPictureCompress](./overview/Library-Reference/msopicturecompress-enumeration-office.md)|Determines whether the picture should be compressed when inserted.|
 
-### Return Value
+### Return value
 
 Shape
 

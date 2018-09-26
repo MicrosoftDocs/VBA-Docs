@@ -31,7 +31,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|If  **False**, hides the critical path style. If **True**, shows the critical task style.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

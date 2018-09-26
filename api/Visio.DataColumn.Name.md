@@ -26,7 +26,7 @@ Gets the unique name of the data column in its parent data recordset. Read-only.
  _expression_ A variable that represents a [DataColumn](./Visio.DataColumn.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

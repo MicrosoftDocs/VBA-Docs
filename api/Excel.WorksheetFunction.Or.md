@@ -31,7 +31,7 @@ Returns TRUE if any argument is TRUE; returns FALSE if all arguments are FALSE.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Logical1,logical2,... - 1 to 30 conditions you want to test that can be either TRUE or FALSE.|
 
-### Return Value
+### Return value
 
 Boolean
 

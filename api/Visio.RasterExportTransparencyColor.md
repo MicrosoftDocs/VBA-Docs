@@ -23,7 +23,7 @@ Determines the transparency color that is applied to the exported image when you
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
  **OLE_COLOR**
 

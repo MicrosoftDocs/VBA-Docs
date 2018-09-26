@@ -48,7 +48,7 @@ Creates, edits, or copies a table.
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

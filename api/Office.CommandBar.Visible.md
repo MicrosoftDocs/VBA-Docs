@@ -26,7 +26,7 @@ Gets or sets the  **Visible** property of the command bar. **True** if the comma
  _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

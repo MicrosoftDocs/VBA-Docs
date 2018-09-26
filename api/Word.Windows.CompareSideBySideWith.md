@@ -31,7 +31,7 @@ Opens two windows in side by side mode. Returns a **Boolean** .
 |:-----|:-----|:-----|:-----|
 | _Document_|Required| **Variant**| The document to view in side by side windows.|
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ When used without an object qualifier, this property returns an  **[Application]
  _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
-### Return Value
+### Return value
 
  **Application**
 

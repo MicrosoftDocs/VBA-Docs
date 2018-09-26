@@ -31,7 +31,7 @@ Selects the specified task in the Team Planner view.
 |:-----|:-----|:-----|:-----|
 | _TaskUniqueID_|Optional|**Variant**|Unique ID of the task to select.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

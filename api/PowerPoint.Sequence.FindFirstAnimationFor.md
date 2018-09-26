@@ -31,7 +31,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required|**[Shape](PowerPoint.Shape.md)**|The shape for which to find the first animation.|
 
-### Return Value
+### Return value
 
 Effect
 

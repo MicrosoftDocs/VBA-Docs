@@ -33,7 +33,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 | _Code_|Required| **Integer**| **VisFieldCodes** . The code for the new field.|
 | _Format_|Required| **Integer**| **VisFieldFormats** . The format for the new field.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -20,7 +20,7 @@ Specifies a cascading stylesheet (CSS) provided by Microsoft Visio, or one that 
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **String**
 

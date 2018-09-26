@@ -31,7 +31,7 @@ Occurs when a workbook is opened.
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 
-### Return Value
+### Return value
 
 Nothing
 

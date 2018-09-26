@@ -32,7 +32,7 @@ _expression_ A variable that represents a [NavigationButton](Access.NavigationBu
 | _KeyCode_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

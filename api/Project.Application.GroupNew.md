@@ -23,7 +23,7 @@ Displays the  **Group Definition** dialog box.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 | _Command_|Required|**Variant**| The command that has been verified as being checked.|
 | _Checked_|Required|**Object**| Set the **Value** property of this object to **False** to uncheck the command.|
 
-### Return Value
+### Return value
 
 nothing
 

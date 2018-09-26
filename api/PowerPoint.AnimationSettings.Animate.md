@@ -23,7 +23,7 @@ Determines whether the specified shape is animated during a slide show. Read/wri
  _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

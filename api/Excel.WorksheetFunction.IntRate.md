@@ -35,7 +35,7 @@ Returns the interest rate for a fully invested security.
 | _Arg4_|Required| **Variant**|Redemption - the amount to be received at maturity.|
 | _Arg5_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

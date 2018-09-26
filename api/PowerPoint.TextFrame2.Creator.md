@@ -20,7 +20,7 @@ Returns a  **Long** that represents the four-character creator code for the appl
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

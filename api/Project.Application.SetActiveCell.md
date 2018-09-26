@@ -32,7 +32,7 @@ Sets the value of the active cell.
 | _Value_|Required|**String**| The new value for the active cell.|
 | _Create_|Optional|**Boolean**|**True** if a new assignment, resource, or task should be created when setting the value of the active cell, if one doesn't already exist. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

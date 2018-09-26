@@ -33,7 +33,7 @@ Performs the specified action on a local resource pool.
 | _Filename_|Optional|**String**|The file name of the resource pool on which to perform the action.|
 | _ReadOnly_|Optional|**Boolean**|**True** if the files specified with **FileName** are opened read-only.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

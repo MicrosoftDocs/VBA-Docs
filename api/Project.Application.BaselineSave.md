@@ -36,7 +36,7 @@ Creates a baseline plan.
 | _RollupFromSubtasks_|Optional|**Boolean**|**True** if summary task baseline data are rolled up from subtasks.|
 | _SetDefaults_|Optional|**Boolean**|**True** if the values of **RollupToSummaryTasks** or **RollupFromSubtasks** are used as default values for new projects.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

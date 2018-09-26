@@ -23,7 +23,7 @@ Returns or sets a  **String** that represents the resolution, in dots per inch (
  _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
 
-### Return Value
+### Return value
 
 String
 

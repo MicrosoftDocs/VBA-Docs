@@ -31,7 +31,7 @@ Returns the universal names of all items in a collection.
 |:-----|:-----|:-----|:-----|
 | _localeIndependentNameArray()_|Required| **String**|Out parameter. An array that receives the names of members of the indicated object.|
 
-### Return Value
+### Return value
 
 Nothing
 

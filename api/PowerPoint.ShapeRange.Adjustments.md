@@ -23,7 +23,7 @@ Returns an  **[Adjustments](PowerPoint.Adjustments.md)** object that contains ad
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 Adjustments
 

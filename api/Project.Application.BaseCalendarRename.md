@@ -32,7 +32,7 @@ Renames a base calendar.
 | _FromName_|Required|**String**|**String**. The name of the base calendar to rename.|
 | _ToName_|Required|**String**|**String**. The new name of the base calendar.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

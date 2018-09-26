@@ -23,7 +23,7 @@ Creates a reply to all original recipients from the original message.
  _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[MailItem](Outlook.MailItem.md)** that represents the reply.
 

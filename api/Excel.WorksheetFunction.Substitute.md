@@ -34,7 +34,7 @@ Substitutes new_text for old_text in a text string. Use SUBSTITUTE when you want
 | _Arg3_|Required| **String**|New_text - the text you want to replace old_text with.|
 | _Arg4_|Optional| **Variant**|Instance_num - specifies which occurrence of old_text you want to replace with new_text. If you specify instance_num, only that instance of old_text is replaced. Otherwise, every occurrence of old_text in text is changed to new_text.|
 
-### Return Value
+### Return value
 
 String
 

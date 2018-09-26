@@ -33,7 +33,7 @@ Returns the inverse of the gamma cumulative distribution. If p = GAMMA_DIST(x,..
 | _Arg2_|Required| **Double**|Alpha - a parameter to the distribution.|
 | _Arg3_|Required| **Double**|Beta - a parameter to the distribution. If beta = 1, GAMMA_INV returns the standard gamma distribution.|
 
-### Return Value
+### Return value
 
 Double
 

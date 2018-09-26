@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

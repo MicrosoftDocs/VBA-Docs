@@ -38,7 +38,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
 |Left|Required| **Variant**|The position of the left edge of the shape representing the WordArt object.|
 |Top|Required| **Variant**|The position of the top edge of the shape representing the WordArt object.|
 
-### Return Value
+### Return value
 
 Shape
 

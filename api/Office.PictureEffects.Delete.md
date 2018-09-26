@@ -28,7 +28,7 @@ Deletes a  **PictureEffect** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Integer**|The index number of the  **PictureEffect** object to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

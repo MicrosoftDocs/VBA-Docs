@@ -29,7 +29,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collecti
 | _Name_|Required|**String**|The name of a group definition.|
 | _FieldName_|Required|**String**|The name of the first field to group by.|
 
-### Return Value
+### Return value
 
  **Group2**
 

@@ -28,7 +28,7 @@ Returns the local task identification number (ID) for the specified task.
 |:-----|:-----|:-----|:-----|
 | _TaskGuid_|Required|**String**|The GUID of the task.|
 
-### Return Value
+### Return value
 
  **Long**
 

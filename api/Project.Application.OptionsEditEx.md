@@ -50,7 +50,7 @@ Sets options for Project, where colors can be hexadecimal values, or opens the  
 | _SetDefaultsHyperlink_|Optional|**Boolean**|**True** if the hyperlink options specified in the **Display options for this project**section (**Advanced** tab) are used as the default values for new projects. The default value is **False**, which means that the hyperlink options are set only for the active project.|
 | _InCellEditing_|Optional|**Boolean**|**True** if in-cell editing is enabled; otherwise, **False**. Corresponds to the **Edit directly in cell** option in the **Edit** section of the **Advanced** tab.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

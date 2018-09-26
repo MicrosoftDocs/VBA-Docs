@@ -23,7 +23,7 @@ Returns an object that specifies the color of the border of data bars specified 
  _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
 
 
-### Return Value
+### Return value
 
  **[FormatColor](Excel.FormatColor.md)**
 

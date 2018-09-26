@@ -23,7 +23,7 @@ Activates the specified window and then activates the window at the back of the 
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

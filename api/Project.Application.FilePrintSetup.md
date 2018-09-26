@@ -31,7 +31,7 @@ Specifies the active printer.
 |:-----|:-----|:-----|:-----|
 | _Printer_|Optional|**String**|The full name or port name of the active printer.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

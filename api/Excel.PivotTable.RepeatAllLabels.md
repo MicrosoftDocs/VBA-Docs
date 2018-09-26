@@ -31,7 +31,7 @@ Specifies whether to repeat item labels for all PivotFields in the specified Piv
 |:-----|:-----|:-----|:-----|
 | _Repeat_|Required| **[XlPivotFieldRepeatLabels](Excel.XlPivotFieldRepeatLabels.md)**||
 
-### Return Value
+### Return value
 
 Nothing
 

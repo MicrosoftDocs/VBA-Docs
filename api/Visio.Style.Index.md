@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Style** object in the **Styles** collection. R
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

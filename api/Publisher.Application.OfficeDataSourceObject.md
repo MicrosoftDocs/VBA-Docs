@@ -23,7 +23,7 @@ Returns an  **OfficeDataSourceObject** object representing the data source in a 
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return Value
+### Return value
 
 OfficeDataSourceObject
 

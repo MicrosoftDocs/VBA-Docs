@@ -31,7 +31,7 @@ Returns a single  **Column** object from the specified **Columns** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Column** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 Column
 

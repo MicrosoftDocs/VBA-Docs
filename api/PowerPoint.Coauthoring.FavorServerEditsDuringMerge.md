@@ -23,7 +23,7 @@ Gets or sets whether the merged document favors server-side edits when conflicts
  _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

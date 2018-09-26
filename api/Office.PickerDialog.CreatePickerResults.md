@@ -23,7 +23,7 @@ Creates an empty  **PickerResults** object.
  _expression_ An expression that returns a [PickerDialog](./Office.PickerDialog.md) object.
 
 
-### Return Value
+### Return value
 
 PickerResults
 

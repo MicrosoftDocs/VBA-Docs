@@ -34,7 +34,7 @@ Returns the label of the control identified by the  **idMso** parameter as a Str
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return Value
+### Return value
 
 String
 

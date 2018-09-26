@@ -33,7 +33,7 @@ Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 | _AllTasks_|Required|**Boolean**|**True** if clearing the entire project.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the baseline is not cleared.|
 
-### Return Value
+### Return value
 
 nothing
 

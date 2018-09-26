@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NavigationButton](Access.NavigationBu
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
 
-### Return Value
+### Return value
 
 nothing
 

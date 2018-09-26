@@ -23,7 +23,7 @@ Represents the active window containing the Ribbon user interface that triggers 
  _expression_ An expression that returns a [IRibbonControl](./Office.IRibbonControl.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

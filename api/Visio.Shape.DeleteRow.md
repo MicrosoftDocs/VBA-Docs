@@ -32,7 +32,7 @@ Deletes a row from a section in a ShapeSheet spreadsheet.
 | _Section_|Required| **Integer**|The index of the section that contains the row.|
 | _Row_|Required| **Integer**|The index of the row to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

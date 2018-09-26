@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 |Width|Required| **Variant**|The width of the shape representing the line callout.|
 |Height|Required| **Variant**|The height of the shape representing the line callout.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -31,7 +31,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
 |:-----|:-----|:-----|:-----|
 | _elementType_|Required|**Long**|A valid theme element type. Can be one of the constants in the  **[PjThemeElement](Project.PjThemeElement.md)** enumeration.|
 
-### Return Value
+### Return value
 
  **Long**
 

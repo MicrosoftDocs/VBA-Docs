@@ -23,7 +23,7 @@ Returns a picture that represents an enhanced metafile (EMF) contained in a mast
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 IPictureDisp
 

@@ -31,7 +31,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 |:-----|:-----|:-----|:-----|
 | _Node_|Required| **CustomXMLNode**|The XML node in the document's data store to which the content controls are linked.|
 
-### Return Value
+### Return value
 
 ContentControls
 

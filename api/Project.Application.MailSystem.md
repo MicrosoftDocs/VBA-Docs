@@ -20,7 +20,7 @@ Returns the type of e-mail system installed on the host machine.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
 [PjMailSystem](Project.PjMailSystem.md)
 

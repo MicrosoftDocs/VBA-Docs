@@ -39,7 +39,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 | _AutoLinkBehavior_|Required| **Long**|A combination of one or more constants from the  **VisAutoLinkBehavior** enumeration that specify how the linking will occur. See Remarks for possible values.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long**) that were linked by the method.|
 
-### Return Value
+### Return value
 
 Long
 

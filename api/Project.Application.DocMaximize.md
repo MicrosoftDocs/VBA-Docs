@@ -23,7 +23,7 @@ Maximizes the window of the active project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

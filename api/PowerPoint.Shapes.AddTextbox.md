@@ -35,7 +35,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
 | _Width_|Required|**Single**|The width of the text box, measured in points.|
 | _Height_|Required|**Single**| The height of the text box, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

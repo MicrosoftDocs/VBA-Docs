@@ -34,7 +34,7 @@ Gets the data in all columns in the specified row.
 |:-----|:-----|:-----|:-----|
 | _DataRowID_|Required| **Long**|The ID of the row in the data recordset from which you want to retrieve data.|
 
-### Return Value
+### Return value
 
 Variant()
 

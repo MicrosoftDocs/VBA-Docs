@@ -28,7 +28,7 @@ Indicates whether the resource belongs to the project.  **True** if the resource
 |:-----|:-----|:-----|:-----|
 | _Project_|Required|**Object**|The  **Project** object against which the expression is checked. For example, **ActiveProject**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

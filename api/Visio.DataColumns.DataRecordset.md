@@ -26,7 +26,7 @@ Returns the  **[DataRecordset](Visio.DataRecordset.md)** object that contains th
  _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 
 
-### Return Value
+### Return value
 
 DataRecordset
 

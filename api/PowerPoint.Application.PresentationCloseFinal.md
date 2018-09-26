@@ -31,7 +31,7 @@ Represents closing the final  **Presentation** object.
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The  **Presentation** object.|
 
-### Return Value
+### Return value
 
 Nothing
 

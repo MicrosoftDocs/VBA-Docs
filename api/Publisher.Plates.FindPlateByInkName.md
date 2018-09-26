@@ -31,7 +31,7 @@ Returns a  **Plate** object that represents the plate of the specified ink name.
 |:-----|:-----|:-----|:-----|
 |InkName|Required| **PbInkName**|Specifies the plate to return.|
 
-### Return Value
+### Return value
 
 Plate
 

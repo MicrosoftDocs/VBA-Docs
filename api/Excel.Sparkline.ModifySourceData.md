@@ -31,7 +31,7 @@ Modifies the source data for a single sparkline.
 |:-----|:-----|:-----|:-----|
 | _Formula_|Required| **String**| The range that contains the source data.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -32,7 +32,7 @@ Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder
 | _StorageIdentifier_|Required| **String**|An identifier for the  **StorageItem** object; depending on the identifier type, the value can represent an Entry ID, a message class, or a subject.|
 | _StorageIdentifierType_|Required| **[OlStorageIdentifierType](Outlook.OlStorageIdentifierType.md)**|Specifies the type of identifier for the  **StorageItem** object.|
 
-### Return Value
+### Return value
 
 A  **StorageItem** object that is used to store data for a solution.
 

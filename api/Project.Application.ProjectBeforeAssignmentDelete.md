@@ -29,7 +29,7 @@ Occurs before an assignment is removed or replaced.
 | _asg_|Required|**Assignment**| The assignment that is being removed.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the assignment is not removed. If the assignment is being removed because the associated resource has been deleted, Cancel is ignored.|
 
-### Return Value
+### Return value
 
 nothing
 

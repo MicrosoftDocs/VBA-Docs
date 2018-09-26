@@ -34,7 +34,7 @@ Scrolls the contents of the window by rows or columns.
 | _ToRight_|Optional| **Variant**|The number of columns to scroll the contents to the right.|
 | _ToLeft_|Optional| **Variant**|The number of columns to scroll the contents to the left.|
 
-### Return Value
+### Return value
 
 Variant
 

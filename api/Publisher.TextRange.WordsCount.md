@@ -23,7 +23,7 @@ Returns the number of words in the text range represented by the parent  **TextR
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 Long
 

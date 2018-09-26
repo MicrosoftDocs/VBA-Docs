@@ -34,7 +34,7 @@ Returns the lognormal distribution of x, where ln(x) is normally distributed wit
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of ln(x).|
 | _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, LOGNORM_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -37,7 +37,7 @@ Returns the depreciation of an asset for any period you specify, including parti
 | _Arg6_|Optional| **Variant**|Factor - the rate at which the balance declines. If factor is omitted, it is assumed to be 2 (the double-declining balance method). Change factor if you do not want to use the double-declining balance method. For a description of the double-declining balance method, see DDB.|
 | _Arg7_|Optional| **Variant**|No_switch - a logical value specifying whether to switch to straight-line depreciation when depreciation is greater than the declining balance calculation.|
 
-### Return Value
+### Return value
 
 Double
 

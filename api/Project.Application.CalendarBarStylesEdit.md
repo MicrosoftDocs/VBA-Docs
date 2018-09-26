@@ -43,7 +43,7 @@ Changes the style of the specified type of bar in the Calendar view.
 | _Field5_|Optional|**String**|The fifth field to display in the bar.|
 | _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following  **[PjLineType](Project.PjLineType.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

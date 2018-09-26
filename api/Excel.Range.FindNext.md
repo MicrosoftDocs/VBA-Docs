@@ -31,7 +31,7 @@ Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** meth
 |:-----|:-----|:-----|:-----|
 | _After_|Optional| **Variant**|The cell after which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Be aware that  _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell is not searched until the method wraps back around to this cell. If this argument is not specified, the search starts after the cell in the upper-left corner of the range.|
 
-### Return Value
+### Return value
 
 Range
 

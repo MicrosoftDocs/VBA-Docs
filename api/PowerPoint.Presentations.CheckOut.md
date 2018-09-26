@@ -31,7 +31,7 @@ Copies a specified presentation from a server to a local computer for editing. R
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The server path and name of the presentation.|
 
-### Return Value
+### Return value
 
 Nothing
 

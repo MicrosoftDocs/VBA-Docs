@@ -31,7 +31,7 @@ Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
 |:-----|:-----|:-----|:-----|
 | _Position_|Required| **Double**|Represents the position in which to apply the  **ColorStop** .|
 
-### Return Value
+### Return value
 
 ColorStop
 

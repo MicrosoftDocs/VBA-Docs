@@ -23,7 +23,7 @@ Activates a single cell, which must be inside the current selection. To select a
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

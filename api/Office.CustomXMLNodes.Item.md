@@ -31,7 +31,7 @@ Gets a  **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-on
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the  **CustomXMLNode** object to be returned.|
 
-### Return Value
+### Return value
 
 CustomXMLNode
 

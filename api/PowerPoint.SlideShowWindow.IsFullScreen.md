@@ -23,7 +23,7 @@ Returns whether the specified slide show window occupies the entire screen. Read
  _expression_ A variable that represents an [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

@@ -31,7 +31,7 @@ Inserts a break into an equation and returns an  **OMathBreak** object that repr
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The position at which to insert the break in the equation.|
 
-### Return Value
+### Return value
 
 OMathBreak
 

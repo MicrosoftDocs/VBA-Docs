@@ -23,7 +23,7 @@ Returns the previous object in the  **[Folders](Outlook.Folders.md)** collection
  _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[Folder](Outlook.Folder.md)** object that represents the previous object contained by the collection.
 

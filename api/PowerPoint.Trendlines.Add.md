@@ -42,7 +42,7 @@ Creates a new trendline.
 | _DisplayRSquared_|Optional|**Variant**|**True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default is **False**.|
 | _Name_|Optional|**Variant**|The name of the trendline. If omitted, Microsoft Word generates a name, and the  **[NameIsAuto](PowerPoint.Trendline.NameIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
 

@@ -31,7 +31,7 @@ Prints a single tile of a drawing page.
 |:-----|:-----|:-----|:-----|
 | _nTile_|Required| **Long**|The number of tiles.|
 
-### Return Value
+### Return value
 
 Nothing
 

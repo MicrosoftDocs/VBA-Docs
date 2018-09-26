@@ -31,7 +31,7 @@ Returns the index of the row in the Tabs section of the ShapeSheet that contains
 |:-----|:-----|:-----|:-----|
 | _BiasLorR_|Required| **Integer**|The direction of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

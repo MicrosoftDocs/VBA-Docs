@@ -31,7 +31,7 @@ Reschedules the specified task to the next available time.
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|Unique ID of the task to reschedule.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

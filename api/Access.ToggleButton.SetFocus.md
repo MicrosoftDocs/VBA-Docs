@@ -23,7 +23,7 @@ _expression_. `SetFocus`
 _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

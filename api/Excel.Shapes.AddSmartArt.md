@@ -35,7 +35,7 @@ Creates a new SmartArt graphic with the specified layout.
 | _Width_|Optional| **Variant**|The width, in points, of the object.|
 | _Height_|Optional| **Variant**|The width, in points, of the object.|
 
-### Return Value
+### Return value
 
 Shape
 

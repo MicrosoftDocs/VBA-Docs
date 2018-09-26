@@ -32,7 +32,7 @@ Adds a new content control, of the type specified, into the active document and 
 | _Type_|Optional| **[WdContentControlType](Word.WdContentControlType.md)**|Specifies the type of content control to insert into the active document. If omitted, Microsoft Word inserts a rich-text content control.|
 | _Range_|Optional| **Variant**|Specifies where in the active document to place the content control. If omitted, Word places the content control at the position of the insertion point or replaces the current selection.|
 
-### Return Value
+### Return value
 
 ContentControl
 

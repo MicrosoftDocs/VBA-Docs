@@ -37,7 +37,7 @@ Creates a new label document using either the default label options or ones that
 | _PrintEPostageLabel_|Optional| **Variant**| **True** to print postage using an Internet e-postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** formats text vertically on the label. Used for Asian-language mailing labels.|
 
-### Return Value
+### Return value
 
 Document
 

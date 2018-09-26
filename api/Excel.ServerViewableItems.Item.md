@@ -31,7 +31,7 @@ Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableIt
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to be returned.|
 
-### Return Value
+### Return value
 
 Object
 

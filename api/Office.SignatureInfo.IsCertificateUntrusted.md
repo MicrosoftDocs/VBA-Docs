@@ -23,7 +23,7 @@ Gets a  **Boolean** value indicating whether the digital certificate used to dig
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

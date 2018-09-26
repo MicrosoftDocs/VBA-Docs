@@ -31,7 +31,7 @@ Returns a single text style from the specified  **[TextStyles](PowerPoint.TextSt
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PpTextStyleType**|The text style type.|
 
-### Return Value
+### Return value
 
 TextStyle
 

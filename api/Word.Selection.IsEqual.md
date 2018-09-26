@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range to compare with the current selection.|
 
-### Return Value
+### Return value
 
 Boolean
 

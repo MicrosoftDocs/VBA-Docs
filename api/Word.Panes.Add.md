@@ -31,7 +31,7 @@ Returns a  **Pane** object that represents a new pane to a window.
 |:-----|:-----|:-----|:-----|
 | _SplitVertical_|Optional| **Variant**|A number that represents the percentage of the window, from top to bottom, you want to appear above the split.|
 
-### Return Value
+### Return value
 
 Pane
 

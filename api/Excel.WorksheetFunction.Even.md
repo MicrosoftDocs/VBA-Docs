@@ -31,7 +31,7 @@ Returns number rounded up to the nearest even integer. You can use this function
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the value to round.|
 
-### Return Value
+### Return value
 
 Double
 

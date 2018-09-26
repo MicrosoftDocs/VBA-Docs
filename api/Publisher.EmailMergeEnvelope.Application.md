@@ -23,7 +23,7 @@ Returns an  **Application** object that represents the creator of the parent **E
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
-### Return Value
+### Return value
 
 Application
 

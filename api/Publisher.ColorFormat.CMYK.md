@@ -23,7 +23,7 @@ Returns a  **ColorCMYK** object that represents CMYK color properties.
  _expression_ A variable that represents a  **ColorFormat** object.
 
 
-### Return Value
+### Return value
 
 ColorCMYK
 

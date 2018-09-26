@@ -31,7 +31,7 @@ Returns a  **[Sparkline](Excel.Sparkline.md)** object. Read-only
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the sparkline.|
 
-### Return Value
+### Return value
 
 Sparkline
 

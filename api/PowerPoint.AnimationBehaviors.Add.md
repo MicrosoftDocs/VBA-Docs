@@ -32,7 +32,7 @@ Returns an  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object that
 | _Type_|Required|**MsoAnimType**|The type of the animation behavior.|
 | _Index_|Optional|**Long**|The position of the animation behaviorce in relation to other animation behaviors. The default value is -1, which means that if you omit the  _Index_ parameter, the new animation behavior is added at the end of the existing animation behaviors.|
 
-### Return Value
+### Return value
 
 AnimationBehavior
 

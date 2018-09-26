@@ -31,7 +31,7 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
 |:-----|:-----|:-----|:-----|
 | _varIndex_|Required|**Variant**|The index number of the item.|
 
-### Return Value
+### Return value
 
 Object
 

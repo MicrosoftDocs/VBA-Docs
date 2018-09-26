@@ -31,7 +31,7 @@ This feature is only available in the Open XML Format SDK.
 |:-----|:-----|:-----|:-----|
 | _uPercentComplete_|Required|**[UINT]**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

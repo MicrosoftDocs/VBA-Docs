@@ -35,7 +35,7 @@ Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents t
 | _Width_|Required| **Single**|The width of the label, in points.|
 | _Height_|Required| **Single**|The height of the label, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

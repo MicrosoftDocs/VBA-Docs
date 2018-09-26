@@ -31,7 +31,7 @@ Loads the XML markup, either from an XML customization file or from XML markup e
 |:-----|:-----|:-----|:-----|
 | _RibbonID_|Required|**String**|The ID for the RibbonX UI. |
 
-### Return Value
+### Return value
 
 String
 

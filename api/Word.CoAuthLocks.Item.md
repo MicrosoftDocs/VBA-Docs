@@ -31,7 +31,7 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned.|
 
-### Return Value
+### Return value
 
  **[CoAuthLock](Word.CoAuthLock.md)**
 

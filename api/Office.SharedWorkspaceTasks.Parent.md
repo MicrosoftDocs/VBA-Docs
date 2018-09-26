@@ -26,7 +26,7 @@ Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.
  _expression_ A variable that represents a [SharedWorkspaceTasks](./Office.SharedWorkspaceTasks.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

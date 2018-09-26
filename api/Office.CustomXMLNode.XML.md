@@ -23,7 +23,7 @@ Gets the XML representation of the current node and its children, if any exist. 
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -23,7 +23,7 @@ Copies the object to the Clipboard.
  _expression_ A variable that represents a [ChartArea](Excel.ChartArea(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

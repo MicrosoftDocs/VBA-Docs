@@ -26,7 +26,7 @@ Returns the number of  **DataRecordset** objects in the **DataRecordsets** colle
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

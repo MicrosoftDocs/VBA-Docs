@@ -33,7 +33,7 @@ Returns the rank of a value in a data set as a percentage (0..1, exclusive) of t
 | _Arg2_|Required| **Double**|X - The value for which you want to know the rank.|
 | _Arg3_|Optional| **Variant**|Significance - A value that identifies the number of significant digits for the returned percentage value. If omitted, PERCENTRANK.EXC uses three digits (0.xxx).|
 
-### Return Value
+### Return value
 
 Double
 

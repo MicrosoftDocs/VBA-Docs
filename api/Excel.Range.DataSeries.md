@@ -36,7 +36,7 @@ Creates a data series in the specified range.  **Variant** .
 | _Stop_|Optional| **Variant**|The stop value for the series. If this argument is omitted, Microsoft Excel fills to the end of the range.|
 | _Trend_|Optional| **Variant**| **True** to create a linear trend or growth trend. **False** to create a standard data series. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Variant
 

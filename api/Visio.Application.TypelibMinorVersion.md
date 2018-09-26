@@ -23,7 +23,7 @@ Returns the minor version number of the Microsoft Visio type library. Read-only.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

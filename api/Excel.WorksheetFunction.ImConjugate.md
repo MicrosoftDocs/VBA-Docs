@@ -31,7 +31,7 @@ Returns the complex conjugate of a complex number in x + yi or x + yj text forma
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the conjugate.|
 
-### Return Value
+### Return value
 
 String
 

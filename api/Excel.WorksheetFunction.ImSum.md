@@ -31,7 +31,7 @@ Returns the sum of two or more complex numbers in x + yi or x + yj text format.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Inumber1,inumber2,... - 1 to 29 complex numbers to add.|
 
-### Return Value
+### Return value
 
 String
 

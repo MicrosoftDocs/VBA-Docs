@@ -31,7 +31,7 @@ Converts a measurement from points to inches (1 in = 72 points). Returns the con
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to inches.|
 
-### Return Value
+### Return value
 
 Single
 

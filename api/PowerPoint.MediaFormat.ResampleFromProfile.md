@@ -31,7 +31,7 @@ Adds the current media object to the queue and begins resampling base on the spe
 |:-----|:-----|:-----|:-----|
 | _profile_|Optional|**PpResampleMediaProfile**|The resample media profile to use.|
 
-### Return Value
+### Return value
 
 Nothing
 

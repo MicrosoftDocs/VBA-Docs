@@ -31,7 +31,7 @@ Returns the height of a document's printed page. Read-only.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving the paper height.|
 
-### Return Value
+### Return value
 
 Double
 

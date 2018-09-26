@@ -31,7 +31,7 @@ Returns the common logarithm (base 10) of a complex number in x + yi or x + yj t
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the common logarithm.|
 
-### Return Value
+### Return value
 
 String
 

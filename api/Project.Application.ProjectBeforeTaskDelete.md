@@ -29,7 +29,7 @@ Occurs before a task is deleted.
 | _tsk_|Required|**Task**| The task that is being deleted.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the task is not deleted.|
 
-### Return Value
+### Return value
 
 nothing
 

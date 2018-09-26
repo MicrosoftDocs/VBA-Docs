@@ -31,7 +31,7 @@ Clears the constraint on a specified task.
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Required|**Long**|Identification number of the task.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

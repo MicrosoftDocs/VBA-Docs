@@ -23,7 +23,7 @@ Returns an  **OMathAutoCorrect** object that represents the auto correct entries
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
-### Return Value
+### Return value
 
 OMathAutoCorrect
 

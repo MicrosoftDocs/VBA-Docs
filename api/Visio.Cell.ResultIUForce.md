@@ -23,7 +23,7 @@ Sets a cell's value in internal units, even if the cell's formula is protected w
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

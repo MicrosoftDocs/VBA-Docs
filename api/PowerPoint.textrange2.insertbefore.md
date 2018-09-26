@@ -26,7 +26,7 @@ Inserts text to the left of the existing text in the  **TextRange2** object.
 |:-----|:-----|:-----|:-----|
 | _NewText_|Optional|**String**|Contains the text to be inserted.|
 
-### Return Value
+### Return value
 
 TextRange2
 

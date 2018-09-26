@@ -38,7 +38,7 @@ Sorts the tasks or resources in the active pane.
 | _Renumber_|Optional|**Boolean**|**True** if Project renumbers tasks after sorting them. For task views, Renumber can be **True** only if Outline is **True**. If Outline is **True**, then Renumber defaults to the current setting in the **Sort** dialog box. If Outline is **False**, Renumber is ignored.|
 | _Outline_|Optional|**Boolean**|**True** if the outline level of tasks or resources will be preserved after sorting them. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

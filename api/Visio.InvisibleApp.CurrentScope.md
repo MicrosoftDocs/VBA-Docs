@@ -23,7 +23,7 @@ Determines the ID of the scope that causes an event to fire. Read-only.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

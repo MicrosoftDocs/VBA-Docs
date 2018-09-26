@@ -34,7 +34,7 @@ Returns a value indicating whether the toggleButton control identified by the  *
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return Value
+### Return value
 
 Boolean
 

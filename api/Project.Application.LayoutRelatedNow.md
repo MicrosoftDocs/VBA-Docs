@@ -23,7 +23,7 @@ Positions all task boxes in the active Network Diagram that are successors or su
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

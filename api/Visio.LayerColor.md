@@ -28,7 +28,7 @@ Gets or sets the color of the layer at the specified index position in the curre
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
-### Return Value
+### Return value
 
  **[OLE_COLOR]**
 

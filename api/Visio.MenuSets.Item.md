@@ -31,7 +31,7 @@ Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|Contains the index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 MenuSet
 

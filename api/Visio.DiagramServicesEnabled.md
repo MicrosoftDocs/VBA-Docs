@@ -23,7 +23,7 @@ Determines which, if any, diagram services are enabled for the document. Read/wr
  _expression_ An expression that returns a '[Document](Visio.Document.md)' object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

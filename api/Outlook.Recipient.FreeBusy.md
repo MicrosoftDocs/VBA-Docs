@@ -33,7 +33,7 @@ Returns free/busy information for the recipient.
 | _MinPerChar_|Required| **Long**|The number of minutes per character represented in the returned free/busy string.|
 | _CompleteFormat_|Optional| **Variant**| **True** if the returned string should contain not only free/busy information, but also values for each character according to the **[OlBusyStatus](Outlook.OlBusyStatus.md)** constants.|
 
-### Return Value
+### Return value
 
 A  **String** value that represents the free/busy information.
 

@@ -33,7 +33,7 @@ Checks the spelling of a single word.
 | _CustomDictionary_|Optional| **Variant**|A string that indicates the file name of the custom dictionary to be examined if the word isn't found in the main dictionary. If this argument is omitted, the currently specified dictionary is used.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** to have Microsoft Excel ignore words that are all uppercase. **False** to have Microsoft Excel check words that are all uppercase. If this argument is omitted, the current setting will be used.|
 
-### Return Value
+### Return value
 
  **True** if the word is found in one of the dictionaries; otherwise **False** .
 

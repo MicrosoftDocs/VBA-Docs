@@ -31,7 +31,7 @@ Uses the local name or index of a cell to return the cell. Read-only.
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|The local name or index of the cell.|
 
-### Return Value
+### Return value
 
 Cell
 

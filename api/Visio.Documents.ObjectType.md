@@ -23,7 +23,7 @@ Returns an object's type. Read-only.
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

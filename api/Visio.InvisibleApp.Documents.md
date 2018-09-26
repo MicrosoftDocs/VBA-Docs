@@ -23,7 +23,7 @@ Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Documents
 

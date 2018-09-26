@@ -26,7 +26,7 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
 |:-----|:-----|:-----|:-----|
 |||||
 
-### Return Value
+### Return value
 
  **STRING**
 

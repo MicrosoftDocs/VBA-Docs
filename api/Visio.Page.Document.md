@@ -23,7 +23,7 @@ Gets the  **Document** object that is associated with an object. Read-only.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Return Value
+### Return value
 
 Document
 

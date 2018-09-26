@@ -35,7 +35,7 @@ Moves an item in the Organizer.
 | _Name_|Optional|**String**|The name of the item to move. The default is to move all items specified with  **Type**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

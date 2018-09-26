@@ -37,7 +37,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a  **[Calcul
 | _DisplayFolder_|Optional| **String**|The name of the display folder for the calculated member.|
 | _HierarchizeDistinct_|Optional| **Boolean**|Specifies whether to order and remove duplicates when displaying the hierarchy of the calculated member in a PivotTable report based on an OLAP cube.|
 
-### Return Value
+### Return value
 
 A  **CalculatedMember** object that represents the new calculated field or calculated item.
 

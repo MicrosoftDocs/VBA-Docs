@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to t
 |EndX|Required| **Variant**|The x-coordinate of the ending point of the connector.|
 |EndY|Required| **Variant**|The y-coordinate of the ending point of the connector.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -23,7 +23,7 @@ _expression_. `Dropdown`
 _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

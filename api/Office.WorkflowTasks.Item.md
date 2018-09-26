@@ -31,7 +31,7 @@ Gets a  **WorkflowTask** object from the **WorkflowTasks** collection. Read-only
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the  **WorkflowTask** object to be returned.|
 
-### Return Value
+### Return value
 
 WorkflowTask
 

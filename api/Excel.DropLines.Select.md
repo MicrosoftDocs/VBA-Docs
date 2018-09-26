@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [DropLines](Excel.DropLines(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

@@ -23,7 +23,7 @@ _expression_. `Delete`
 _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

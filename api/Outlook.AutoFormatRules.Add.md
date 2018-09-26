@@ -31,7 +31,7 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and append
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new formatting rule.|
 
-### Return Value
+### Return value
 
 An  **AutoFormatRule** object that represents the new formatting rule.
 

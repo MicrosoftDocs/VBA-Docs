@@ -33,7 +33,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
 | _Row_|Required| **Integer**|The cell's row index.|
 | _Column_|Required| **Integer**|The cell's column index.|
 
-### Return Value
+### Return value
 
 Cell
 

@@ -32,7 +32,7 @@ Synchronizes a local project in Project Professional with a SharePoint 2013 task
 | _SiteURL_|Optional|**String**|URL of the SharePoint site.|
 | _ListName_|Optional|**String**|Name of the tasks list. For a local project, Project Professional creates the tasks list if it does not exist.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

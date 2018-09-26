@@ -42,7 +42,7 @@ Specifies leveling options for the active project, including leveling of manuall
 | _LevelProposedBookings_|Optional|**Boolean**|**True** if leveling includes proposed resource bookings; otherwise, **False**. The default value is **False**.|
 | _LevelPinnedTasks_|Optional|**Boolean**|**True** if manually scheduled tasks are leveled; otherwise, **False**. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -36,7 +36,7 @@ Adds a link to the list of links in a shared workspace.
 | _Description_|Optional|**String**|Description of the link.|
 | _Notes_|Optional|**String**|Notes about the link.|
 
-### Return Value
+### Return value
 
 SharedWorkspaceLink
 

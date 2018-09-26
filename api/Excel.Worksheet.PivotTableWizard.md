@@ -46,7 +46,7 @@ Creates a new PivotTable report. This method doesn?t display the PivotTable Wiza
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. If _ReadData_ is **False** , you can set some of the fields asserver-based page fields before the data is actually read.|
 | _Connection_|Optional| **Variant**|A string that contains ODBC settings that allow Excel to connect to an ODBC data source. The connection string has the form "ODBC;<connection string>". This argument overrides any previous setting for the  **[PivotCache](Excel.PivotCache.md)** object?s **[Connection](Excel.PivotCache.Connection.md)** property.|
 
-### Return Value
+### Return value
 
 A  **[PivotTable](Excel.PivotTable.md)** object that represents the new PivotTable report.
 

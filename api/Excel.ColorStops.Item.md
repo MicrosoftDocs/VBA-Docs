@@ -31,7 +31,7 @@ Returns a single object from the represented collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
-### Return Value
+### Return value
 
 A  **ColorStops** object contained by the collection.
 

@@ -35,7 +35,7 @@ Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that re
 | _Width_|Required|**Single**|The width of the AutoShape, measured in points.|
 | _Height_|Required|**Single**|The height of the AutoShape, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

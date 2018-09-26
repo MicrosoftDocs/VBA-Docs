@@ -20,7 +20,7 @@ Determines whether dialog boxes are displayed in the Visio user interface when y
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

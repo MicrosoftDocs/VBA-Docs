@@ -38,7 +38,7 @@ Returns the yield of a security that has an odd (short or long) last period.
 | _Arg7_|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg8_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -34,7 +34,7 @@ Gets an array of the IDs of all the rows in the data recordset.
 |:-----|:-----|:-----|:-----|
 | _CriteriaString_|Required| **String**|A string that conforms to the guidelines specified in the Microsoft ActiveX Data Object (ADO) API for setting the  **ADO.Filter** property|
 
-### Return Value
+### Return value
 
 Long()
 

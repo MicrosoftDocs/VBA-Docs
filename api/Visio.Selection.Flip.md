@@ -36,7 +36,7 @@ Flips selected shapes either as a group or individually about their pins. Return
 | _PinY_|Optional| **Double**|When  _FlipType_ is **visFlipSelectionWithPin** , specifies the Y-position of the pin about which the selection is to be flipped.|
 | _PinUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _PinX_ and _PinY_. See Remarks for possible values. The default is inches.|
 
-### Return Value
+### Return value
 
 Nothing
 

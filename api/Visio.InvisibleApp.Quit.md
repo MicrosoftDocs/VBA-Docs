@@ -23,7 +23,7 @@ Closes the indicated instance of Microsoft Visio.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

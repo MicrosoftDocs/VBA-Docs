@@ -23,7 +23,7 @@ Gets or sets the duration of the fade in of the media, in milliseconds. Read/wri
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

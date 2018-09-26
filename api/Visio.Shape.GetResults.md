@@ -34,7 +34,7 @@ Gets the results or formulas of many cells.
 | _UnitsNamesOrCodes()_|Required| **Variant**| An array of measurement units that results are to be returned in.|
 | _resultArray()_|Required| **Variant**|Out parameter. An array that receives results or formulas of queried cells.|
 
-### Return Value
+### Return value
 
 Nothing
 

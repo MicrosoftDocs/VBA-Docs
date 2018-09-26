@@ -31,7 +31,7 @@ Returns the greatest common divisor of two or more integers. The greatest common
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 29 values. If any value is not an integer, it is truncated.|
 
-### Return Value
+### Return value
 
 Double
 

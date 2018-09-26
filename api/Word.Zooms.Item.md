@@ -31,7 +31,7 @@ Returns the specified  **Zoom** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdViewType**|The specified zoom type.|
 
-### Return Value
+### Return value
 
 Zoom
 

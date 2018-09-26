@@ -29,7 +29,7 @@ Occurs before one or more resources are created. Uses the  **EventInfo** object 
 | _pj_|Required|**Project**|The project in which the resource or resources are being created.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the new resource or resources are not created.|
 
-### Return Value
+### Return value
 
 nothing
 

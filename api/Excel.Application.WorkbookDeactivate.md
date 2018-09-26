@@ -31,7 +31,7 @@ Occurs when any open workbook is deactivated.
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 
-### Return Value
+### Return value
 
 Nothing
 

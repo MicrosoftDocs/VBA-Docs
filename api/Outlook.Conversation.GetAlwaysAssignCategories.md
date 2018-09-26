@@ -31,7 +31,7 @@ Returns a  **String** that indicates the category or categories that are assigne
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store to which categories of items that belong to the conversation should be returned.|
 
-### Return Value
+### Return value
 
 A  **String** that contains one or more categories that are assigned to items in the conversation.
 

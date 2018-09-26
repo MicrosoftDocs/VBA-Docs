@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for a 
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

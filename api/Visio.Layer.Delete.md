@@ -31,7 +31,7 @@ Deletes a  **Layer** object. Can also delete shapes assigned to the deleted laye
 |:-----|:-----|:-----|:-----|
 | _fDeleteShapes_|Required| **Integer**|1 (**True**) to delete shapes assigned to the layer; otherwise, 0 (**False**).|
 
-### Return Value
+### Return value
 
 Nothing
 

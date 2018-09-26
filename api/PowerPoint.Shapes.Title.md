@@ -23,7 +23,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the slide tit
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

@@ -31,7 +31,7 @@ Sets the date format for text around bars on the Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following  **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

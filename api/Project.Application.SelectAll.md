@@ -23,7 +23,7 @@ Selects all cells on the active sheet.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

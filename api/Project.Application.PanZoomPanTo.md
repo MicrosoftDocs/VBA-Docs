@@ -28,7 +28,7 @@ Pans the Gantt chart in the active view to the specified start date.
 |:-----|:-----|:-----|:-----|
 | _Start_|Required|**Variant**|Specifies the start date for the left side of the Gantt chart.|
 
-### Return Value
+### Return value
 
 Nothing
 

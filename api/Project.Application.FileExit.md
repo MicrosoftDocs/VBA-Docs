@@ -31,7 +31,7 @@ Quits Project.
 |:-----|:-----|:-----|:-----|
 | _Save_|Optional|**Long**|Can be one of the [PjSaveType](Project.PjSaveType.md) constants. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

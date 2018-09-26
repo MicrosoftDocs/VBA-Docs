@@ -31,7 +31,7 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that is being considered for selection.|
 
-### Return Value
+### Return value
 
 A  **Boolean** value that indicates whether the specified item can be selected in the current view.
 

@@ -31,7 +31,7 @@ Toggles the box link style between rectilinear links and straight links.
 |:-----|:-----|:-----|:-----|
 | _StraightLinks_|Optional|**Boolean**|**True** if straight links are used. **False** if rectilinear links are used. The default value is to switch the current setting from one style to the other.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

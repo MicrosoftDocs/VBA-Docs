@@ -32,7 +32,7 @@ Removes an item from the value list for a custom field.
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Index_|Required|**Integer**|The row number of the value list item to delete from the  **Value List** dialog box.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

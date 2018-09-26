@@ -23,7 +23,7 @@ Gets the style that contains a  **Section** object. Read-only.
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
-### Return Value
+### Return value
 
 Style
 

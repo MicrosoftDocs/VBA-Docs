@@ -32,7 +32,7 @@ Searches the contents of the specified mail merge data source for text in a part
 |FindText|Required| **String**|The text to look for.|
 |Field|Optional| **String**|The name of the field to be searched.|
 
-### Return Value
+### Return value
 
 Boolean
 

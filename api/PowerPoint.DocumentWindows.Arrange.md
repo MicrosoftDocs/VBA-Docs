@@ -31,7 +31,7 @@ Arranges all open document windows in the workspace.
 |:-----|:-----|:-----|:-----|
 | _arrangeStyle_|Optional|**[PpArrangeStyle](PowerPoint.PpArrangeStyle.md)**|Specifies whether to cascade or tile the windows.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -32,7 +32,7 @@ Returns a  **Long** value for a local custom field or an enterprise custom field
 | _FieldName_|Required|**String**|The name of the local or enterprise custom field.|
 | _FieldType_|Optional|**Long**|The type of field. Can be one of the following  **[PjFieldType](Project.PjFieldType.md)** constants: **pjProject**, **pjResource**, or **pjTask**. The default value is **pjTask**.|
 
-### Return Value
+### Return value
 
  **Long**
 

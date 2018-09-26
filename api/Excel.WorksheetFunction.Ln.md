@@ -31,7 +31,7 @@ Returns the natural logarithm of a number. Natural logarithms are based on the c
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the positive real number for which you want the natural logarithm.|
 
-### Return Value
+### Return value
 
 Double
 

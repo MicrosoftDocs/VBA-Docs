@@ -23,7 +23,7 @@ Returns or sets whether to display axis field buttons on a PivotChart. Read/writ
  _expression_ A variable that represents a '[Chart](Excel.Chart(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

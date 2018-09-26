@@ -31,7 +31,7 @@ Allows access to playback controls for the associated view in the current window
 |:-----|:-----|:-----|:-----|
 | _ShapeId_|Required|**Variant**|The playback control.|
 
-### Return Value
+### Return value
 
 Player
 

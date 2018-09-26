@@ -23,7 +23,7 @@ Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which pr
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

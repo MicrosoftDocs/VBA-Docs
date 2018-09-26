@@ -23,7 +23,7 @@ Returns a  **String** indicating the Microsoft Publisher globally unique identif
  _expression_ A variable that represents a  **Application** object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -23,7 +23,7 @@ Gets or sets page orientation (landscape or portrait) for the printer. Read/writ
  _expression_ A variable that represents a  **Printer** object.
 
 
-### Return Value
+### Return value
 
 PbOrientationType
 

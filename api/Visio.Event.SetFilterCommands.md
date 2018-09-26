@@ -31,7 +31,7 @@ Specifies an array of command ranges and a  **True** or **False** value indicati
 |:-----|:-----|:-----|:-----|
 | _Commands()_|Required| **Long**|An array of command ranges and a  **True** or **False** value specifying how to filter events for each command range.|
 
-### Return Value
+### Return value
 
 Nothing
 

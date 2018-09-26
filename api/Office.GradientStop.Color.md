@@ -20,7 +20,7 @@ Gets a value representing the color of the gradient stop. Read-only.
  _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
 
 
-### Return Value
+### Return value
 
 ColorFormat
 

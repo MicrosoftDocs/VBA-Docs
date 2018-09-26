@@ -23,7 +23,7 @@ Returns or sets a  **Single** that represents the ending height of a **[ScaleEff
  _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

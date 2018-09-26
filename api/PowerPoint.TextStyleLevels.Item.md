@@ -31,7 +31,7 @@ Returns a single text style level from the specified  **TextStyleLevels** collec
 |:-----|:-----|:-----|:-----|
 | _Level_|Required|**Long**|The index number of the text style level in the collection to be returned.|
 
-### Return Value
+### Return value
 
 TextStyleLevel
 

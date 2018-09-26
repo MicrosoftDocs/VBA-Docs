@@ -31,7 +31,7 @@ Gets an  **Application** object that represents the container application for th
 |:-----|:-----|:-----|:-----|
 | _ppidisp_|Required|**Object**|Represents the identifier for a document property.|
 
-### Return Value
+### Return value
 
 [HRESULT]
 

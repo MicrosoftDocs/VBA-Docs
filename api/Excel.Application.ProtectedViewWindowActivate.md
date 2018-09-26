@@ -31,7 +31,7 @@ Occurs when a  **Protected View** window is activated.
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**| The activated **Protected View** window.|
 
-### Return Value
+### Return value
 
 Nothing
 

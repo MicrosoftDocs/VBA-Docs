@@ -35,7 +35,7 @@ Returns the hypergeometric distribution. HYPGEOM_DIST returns the probability of
 | _Arg4_|Required| **Double**|Number_population - the population size.|
 | _Arg5_|Optional| **Variant**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, then HYPGEOM_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return Value
+### Return value
 
 Double
 

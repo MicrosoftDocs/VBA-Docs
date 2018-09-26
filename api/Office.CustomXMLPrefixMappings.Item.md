@@ -31,7 +31,7 @@ Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** c
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **CustomXMLPrefixMapping** object to be returned.|
 
-### Return Value
+### Return value
 
 CustomXMLPrefixMapping
 

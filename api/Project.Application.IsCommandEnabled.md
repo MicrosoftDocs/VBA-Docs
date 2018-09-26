@@ -31,7 +31,7 @@ Shows whether the specified command is enabled.
 |:-----|:-----|:-----|:-----|
 | _CommandName_|Required|**String**|The name of a valid command.|
 
-### Return Value
+### Return value
 
  **Long**
 

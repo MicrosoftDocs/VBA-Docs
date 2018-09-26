@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **ODSOFilters
  _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

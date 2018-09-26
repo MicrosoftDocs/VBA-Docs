@@ -23,7 +23,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarComboBox** cont
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

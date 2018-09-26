@@ -38,7 +38,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 | _MatchCase_|Optional|**Boolean**|**True** results in a search for words with case matching the _Target_ argument. The default is **False**.|
 | _PatternSearch_|Optional|**Boolean**|**True** results in a search in which the _Target_ argument may contain wildcard characters such as an asterisk (*) or a question mark (?). The default is **False**.|
 
-### Return Value
+### Return value
 
 Boolean
 

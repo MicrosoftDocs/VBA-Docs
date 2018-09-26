@@ -23,7 +23,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the shape tha
  _expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

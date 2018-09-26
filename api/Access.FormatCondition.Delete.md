@@ -23,7 +23,7 @@ _expression_. `Delete`
 _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

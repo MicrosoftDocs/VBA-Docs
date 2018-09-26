@@ -32,7 +32,7 @@ Opens a project from a task list in SharePoint 2013.
 | _SiteURL_|Optional|**String**|Specifies the URL of the SharePoint site.|
 | _ListName_|Optional|**String**|Specifies the name of the task list.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

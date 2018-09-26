@@ -20,7 +20,7 @@ Gets or sets the value (in points) for a first line or hanging indent. Read/writ
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

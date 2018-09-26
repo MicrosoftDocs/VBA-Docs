@@ -32,7 +32,7 @@ Gets the cell object at the specified coordinates.
 | _x_|Required|**Long**|Horizontal coordinate on the grid.|
 | _y_|Required|**Long**|Vertical coordinate on the grid.|
 
-### Return Value
+### Return value
 
 Cell
 

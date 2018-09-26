@@ -34,7 +34,7 @@ Occurs before changes to a PivotTable are discarded.
 | _ValueChangeStart_|Required| **Long**|The index to the first change in the associated  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object. The index is specified by the **[Order](Excel.ValueChange.Order.md)** property of the **[ValueChange](Excel.ValueChange.md)** object in the **PivotTableChangeList** collection.|
 | _ValueChangeEnd_|Required| **Long**|The index to the last change in the associated  **PivotTableChangeList** object. The index is specified by the **Order** property of the **ValueChange** object in the **PivotTableChangeList** collection.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

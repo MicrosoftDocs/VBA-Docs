@@ -20,7 +20,7 @@ Determines whether the  **Pan and Zoom** control for zooming in and out of the p
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

@@ -39,7 +39,7 @@ Adds new filters to the  **PivotFilters** collection.
 | _MemberPropertyField_|Optional| **Variant**|Specifies the member property field on which the label filter is based.|
 | _WholeDayFilter_|Optional| **Variant**|Specifies a filter based on days.|
 
-### Return Value
+### Return value
 
 PivotFilter
 

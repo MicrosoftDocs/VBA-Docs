@@ -20,7 +20,7 @@ Saves the current Web page settings to the registry.
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Nothing**
 

@@ -32,7 +32,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
 | _nxFlags_|Required| **Long**|Indicates how to scroll horizontally.|
 | _nyFlags_|Required| **Long**|Indicates how to scroll vertically.|
 
-### Return Value
+### Return value
 
 Nothing
 

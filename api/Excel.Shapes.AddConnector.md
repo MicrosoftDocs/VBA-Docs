@@ -35,7 +35,7 @@ Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represen
 | _EndX_|Required| **Single**|The horizontal position (in points) of the connector's end point relative to the upper-left corner of the document.|
 | _EndY_|Required| **Single**|The veritcal position (in points) of the connector's end point relative to the upper-left corner of the document.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Returns or sets the distance (in points) between the bottom of the text frame an
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

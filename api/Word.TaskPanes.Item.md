@@ -31,7 +31,7 @@ Returns the specified task pane as a  **TaskPane** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdTaskPanes**|The specified task pane.|
 
-### Return Value
+### Return value
 
 TaskPane
 

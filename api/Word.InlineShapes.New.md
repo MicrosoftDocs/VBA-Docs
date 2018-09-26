@@ -31,7 +31,7 @@ Inserts an empty, 1-inch-square Word picture object surrounded by a border. This
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location of the new graphic.|
 
-### Return Value
+### Return value
 
 InlineShape
 

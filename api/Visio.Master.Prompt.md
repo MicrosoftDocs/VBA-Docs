@@ -23,7 +23,7 @@ Gets or sets the prompt string for a master or master shortcut. Read/write.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

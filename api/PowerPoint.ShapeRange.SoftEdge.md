@@ -23,7 +23,7 @@ Returns the soft edge format for the specified range of shapes. Read-only.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 MsoSoftEdgeType
 

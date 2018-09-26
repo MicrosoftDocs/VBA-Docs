@@ -31,7 +31,7 @@ Adds a reference to the  **[ServerViewableItems](Excel.ServerViewableItems.md)**
 |:-----|:-----|:-----|:-----|
 | _Obj_|Required| **Variant**|The reference to an object. The object can be a reference to sheets or named items (for example, named ranges, charts, tables, and PivotTables). You cannot have both sheets and named items in the same collection.|
 
-### Return Value
+### Return value
 
 Object
 

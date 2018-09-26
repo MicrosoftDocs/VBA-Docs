@@ -31,7 +31,7 @@ Creates a new  **MenuItem** object at a specified index in the **MenuItems** col
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index at which to add the object.|
 
-### Return Value
+### Return value
 
 MenuItem
 

@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **FileDialogF
  _expression_ A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

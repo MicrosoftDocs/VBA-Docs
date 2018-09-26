@@ -40,7 +40,7 @@ Returns the probability associated with a Student's t-Test. Use TTEST to determi
 | _Arg3_|Required| **Double**|Tails - specifies the number of distribution tails. If tails = 1, TTEST uses the one-tailed distribution. If tails = 2, TTEST uses the two-tailed distribution.|
 | _Arg4_|Required| **Double**|Type - the kind of t-Test to perform.|
 
-### Return Value
+### Return value
 
 Double
 

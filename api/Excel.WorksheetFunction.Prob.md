@@ -34,7 +34,7 @@ Returns the probability that values in a range are between two limits. If upper_
 | _Arg3_|Required| **Double**|Lower_limit - the lower bound on the value for which you want a probability.|
 | _Arg4_|Optional| **Variant**|Upper_limit - the optional upper bound on the value for which you want a probability.|
 
-### Return Value
+### Return value
 
 Double
 

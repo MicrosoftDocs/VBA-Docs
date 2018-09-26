@@ -31,7 +31,7 @@ Creates a signature packet when digitally signing a document.
 |:-----|:-----|:-----|:-----|
 | _varSigProv_|Optional|**Variant**|Represents the ID of the signature provider.|
 
-### Return Value
+### Return value
 
 Signature
 

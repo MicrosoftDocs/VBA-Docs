@@ -31,7 +31,7 @@ Loads an XLL code resource and automatically registers the functions and command
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Specifies the name of the XLL to be loaded.|
 
-### Return Value
+### Return value
 
 Boolean
 

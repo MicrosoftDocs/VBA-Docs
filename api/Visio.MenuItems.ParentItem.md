@@ -23,7 +23,7 @@ Returns the parent object of a hierarchical menu. Read-only.
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) object.
 
 
-### Return Value
+### Return value
 
 MenuItem
 

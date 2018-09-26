@@ -32,7 +32,7 @@ Rounds a number to a specified number of digits.
 | _Arg1_|Required| **Double**|Number - the number you want to round.|
 | _Arg2_|Required| **Double**|Num_digits - specifies the number of digits to which you want to round number.|
 
-### Return Value
+### Return value
 
 Double
 

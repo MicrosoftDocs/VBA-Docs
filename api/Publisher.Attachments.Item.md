@@ -31,7 +31,7 @@ Returns the  **[Attachment](Publisher.Attachment.md)** object at the specified i
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Long**|The index position of the attachment to be returned.|
 
-### Return Value
+### Return value
 
 Attachment
 

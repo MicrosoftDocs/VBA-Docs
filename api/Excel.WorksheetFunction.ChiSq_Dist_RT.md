@@ -32,7 +32,7 @@ Returns the right-tailed probability of the chi-squared distribution.
 | _Arg1_|Required| **Double**|The value at which you want to evaluate the distribution.|
 | _Arg2_|Required| **Double**|The number of degrees of freedom.|
 
-### Return Value
+### Return value
 
 Double
 

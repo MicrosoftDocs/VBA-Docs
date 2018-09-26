@@ -23,7 +23,7 @@ Returns the total number of resources in the project, including both local and e
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

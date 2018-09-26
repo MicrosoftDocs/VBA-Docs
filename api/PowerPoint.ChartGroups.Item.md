@@ -28,7 +28,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[ChartGroup](PowerPoint.ChartGroup.md)** object contained by the collection.
 

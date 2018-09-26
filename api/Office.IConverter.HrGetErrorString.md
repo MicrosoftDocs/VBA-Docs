@@ -33,7 +33,7 @@ This feature is only available in the Open XML Format SDK.
 | _pbstrErrorMsg_|Required|**String**||
 | _pcap_|Required|**IConverterApplicationPreferences**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

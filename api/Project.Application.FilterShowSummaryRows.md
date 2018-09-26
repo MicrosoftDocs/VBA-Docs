@@ -31,7 +31,7 @@ Shows or hides the related summary rows.
 |:-----|:-----|:-----|:-----|
 | _On_|Required|**Boolean**|**True** if summary rows are shown; otherwise, **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

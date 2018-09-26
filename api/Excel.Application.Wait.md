@@ -31,7 +31,7 @@ Pauses a running macro until a specified time. Returns  **True** if the specifie
 |:-----|:-----|:-----|:-----|
 | _Time_|Required| **Variant**|The time at which you want the macro to resume, in Microsoft Excel date format.|
 
-### Return Value
+### Return value
 
 Boolean
 

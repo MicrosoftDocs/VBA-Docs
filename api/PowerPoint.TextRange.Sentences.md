@@ -32,7 +32,7 @@ Returns a  **TextRange** object that represents the specified subset of text sen
 | _Start_|Optional|**Long**|The first sentence in the returned range.|
 | _Length_|Optional|**Long**|The number of sentences to be returned.|
 
-### Return Value
+### Return value
 
 TextRange
 

@@ -23,7 +23,7 @@ Returns an  **MsoGradientStyle** constant indicating the gradient style for the 
  _expression_ A variable that represents a  **FillFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoGradientStyle
 

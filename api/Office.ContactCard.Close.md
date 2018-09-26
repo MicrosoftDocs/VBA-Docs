@@ -20,7 +20,7 @@ Closes the contact card.
  _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -31,7 +31,7 @@ Returns the gap between adjacent member shapes in the list.
 |:-----|:-----|:-----|:-----|
 | _SpacingUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the gap.|
 
-### Return Value
+### Return value
 
  **Double**
 

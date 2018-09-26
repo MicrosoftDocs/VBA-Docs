@@ -31,7 +31,7 @@ Repeats the most recent editing action one or more times. Returns  **True** if t
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of times you want to repeat the last command.|
 
-### Return Value
+### Return value
 
 Boolean
 

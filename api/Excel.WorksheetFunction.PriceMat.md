@@ -36,7 +36,7 @@ Returns the price per $100 face value of a security that pays interest at maturi
 | _Arg5_|Required| **Variant**|Yld - the security's annual yield.|
 | _Arg6_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

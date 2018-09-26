@@ -23,7 +23,7 @@ Determines the background color of the Microsoft Visio drawing window for the cu
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 OLE_COLOR
 

@@ -31,7 +31,7 @@ Adds a new  **Addon** object to an **Addons** collection.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the add-on.|
 
-### Return Value
+### Return value
 
 Addon
 

@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **Ruler2** ob
  _expression_ An expression that returns a [Ruler2](./Office.Ruler2.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

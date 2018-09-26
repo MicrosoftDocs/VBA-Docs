@@ -23,7 +23,7 @@ Determines the zoom behavior for all new Microsoft Visio documents and drawing w
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 VisZoomBehavior
 

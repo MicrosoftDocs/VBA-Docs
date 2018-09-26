@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-onl
  _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

@@ -23,7 +23,7 @@ Determines whether Microsoft Visio uses an animated transition to show certain s
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

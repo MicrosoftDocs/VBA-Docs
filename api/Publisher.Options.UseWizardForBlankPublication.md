@@ -23,7 +23,7 @@ Gets or sets whether to use a wizard for blank publications. Read/Write.
  _expression_ A variable that represents an  **Options** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

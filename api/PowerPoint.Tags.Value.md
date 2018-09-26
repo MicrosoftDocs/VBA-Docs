@@ -31,7 +31,7 @@ Returns the value of the specified tag as a  **String**.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The tag number.|
 
-### Return Value
+### Return value
 
 String
 

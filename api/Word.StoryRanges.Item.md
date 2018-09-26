@@ -31,7 +31,7 @@ Returns a single story of a range or selection as a  **Range** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdStoryType**|The specified story type.|
 
-### Return Value
+### Return value
 
 Range
 

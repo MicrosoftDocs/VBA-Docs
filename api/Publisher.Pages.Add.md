@@ -34,7 +34,7 @@ Adds a new  **Page** object to the specified **Pages** object and returns the ne
 |DuplicateObjectsOnPage|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: do not duplicate pages.|
 |AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether links to the new pages will be added to the automatic navigation bars of existing pages. If  **True**, links to the new pages will be added to the automatic navigation bars of existing pages only. If  **False**, links to the new pages will not be added to the automatic navigation bars of existing pages or new pages added in the future. Default is  **False**.|
 
-### Return Value
+### Return value
 
 Page
 

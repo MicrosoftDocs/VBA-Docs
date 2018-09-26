@@ -31,7 +31,7 @@ Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whos
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The sine of the angle you want and must be from -1 to 1.|
 
-### Return Value
+### Return value
 
 Double
 

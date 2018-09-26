@@ -32,7 +32,7 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 | _Source_|Required|**String**|The name of the table to copy.|
 | _NewName_|Required|**String**|The name of the new table.|
 
-### Return Value
+### Return value
 
  **Table**
 

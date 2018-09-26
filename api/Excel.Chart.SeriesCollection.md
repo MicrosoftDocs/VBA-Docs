@@ -31,7 +31,7 @@ Returns an object that represents either a single series (a  **[Series](Excel.Se
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the series.|
 
-### Return Value
+### Return value
 
 Object
 

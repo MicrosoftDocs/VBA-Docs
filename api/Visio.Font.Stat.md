@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

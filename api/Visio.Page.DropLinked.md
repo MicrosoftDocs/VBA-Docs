@@ -39,7 +39,7 @@ Returns a new shape on the drawing page linked to data in a data recordset.
 | _DataRowID_|Required| **Long**|The ID of the data row that contains the data to link to.|
 | _ApplyDataGraphicAfterLink_|Required| **Boolean**|Whether to apply the current data graphic to the linked shape. The default is not to apply a data graphic. See Remarks for more information.|
 
-### Return Value
+### Return value
 
 Shape
 

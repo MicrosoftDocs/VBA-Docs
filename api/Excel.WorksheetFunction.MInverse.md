@@ -31,7 +31,7 @@ Returns the inverse matrix for the matrix stored in an array.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 
-### Return Value
+### Return value
 
 Variant
 

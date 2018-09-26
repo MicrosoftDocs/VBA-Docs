@@ -23,7 +23,7 @@ Returns a  **[CustomXMLParts](./Office.CustomXMLParts.md)** object that represen
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 CustomXMLParts
 

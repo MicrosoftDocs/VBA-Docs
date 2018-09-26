@@ -31,7 +31,7 @@ Converts a horizontal measurement from points to pixels. Used to return a horizo
 |:-----|:-----|:-----|:-----|
 | _Points_|Required|**Single**|The horizontal measurement (in points) to be converted to pixels.|
 
-### Return Value
+### Return value
 
 Single
 

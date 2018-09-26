@@ -31,7 +31,7 @@ Gets a  **Long** indicating the number of items in the **DocumentProperties** co
 |:-----|:-----|:-----|:-----|
 | _pc_|Required|**Long**|Represents the index of the document property.|
 
-### Return Value
+### Return value
 
 Long
 

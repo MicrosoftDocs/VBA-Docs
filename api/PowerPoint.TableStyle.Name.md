@@ -23,7 +23,7 @@ Returns the name of the table style. Read-only.
  _expression_ A variable that represents a [TableStyle](./PowerPoint.TableStyle.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

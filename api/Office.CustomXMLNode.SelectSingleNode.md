@@ -31,7 +31,7 @@ Selects a single node from a collection matching an XPath expression. This metho
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains an XPath expression.|
 
-### Return Value
+### Return value
 
 CustomXMLNode
 

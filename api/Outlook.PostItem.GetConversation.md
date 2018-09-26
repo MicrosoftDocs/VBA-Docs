@@ -23,7 +23,7 @@ Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents th
  _expression_ A variable that represents a '[PostItem](Outlook.PostItem.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **Conversation** object that represents the conversation to which this item belongs.
 

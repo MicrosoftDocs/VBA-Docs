@@ -23,7 +23,7 @@ Determines whether a menu item shows an icon, a caption, or some combination. Re
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -31,7 +31,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IUnknown**|Specifies the window that is called to display the encryption settings.|
 
-### Return Value
+### Return value
 
 Long
 

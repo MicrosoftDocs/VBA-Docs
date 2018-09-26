@@ -31,7 +31,7 @@ Creates a new recognized function and returns an  **OMathRecognizedFunction** ob
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the recognized function.|
 
-### Return Value
+### Return value
 
 OMathRecognizedFunction
 

@@ -35,7 +35,7 @@ Renames an item in the Organizer.
 | _NewName_|Required|**String**|The new name for the item specified by  **Name**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -36,7 +36,7 @@ Creates a test condition against the value of a custom field to determine which 
 | _CriteriaList_|Optional|**Long**|The criteria list to which the test condition should be added. Can be one of the  **[PjCriteriaList](Project.PjCriteriaList.md)** constants. The default value is **pjCriteriaNonSummary**.|
 | _Index_|Optional|**Integer**|The position to add the test condition in the list specified by  **CriteriaList**. Tests are evaluated in ascending **Index** order. If **Index** is n + 2 or greater, where n is the number of existing tests, the test is added at n + 1. The default value is n + 1.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

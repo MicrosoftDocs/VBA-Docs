@@ -34,7 +34,7 @@ This feature is only available in the Open XML Format SDK.
 | _uType_|Required|**[UINT]**||
 | _pidResult_|Required|**[INT]**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

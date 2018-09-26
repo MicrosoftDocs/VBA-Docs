@@ -32,7 +32,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 | _Index_|Optional|**Integer**|The index number of the gradient stop.|
 | _Brightness_|Optional|**Single**|Specifies the brightness of the color at the gradient stop.|
 
-### Return Value
+### Return value
 
 Nothing
 

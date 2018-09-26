@@ -28,7 +28,7 @@ Occurs before a project is closed.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that will be closed.|
 
-### Return Value
+### Return value
 
 nothing
 

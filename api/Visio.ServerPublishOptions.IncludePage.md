@@ -32,7 +32,7 @@ Includes the specified page for publication when the document is published as a 
 | _PageName_|Required| **String**|The name of the page to be published.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Indicates whether a universal or local page name is specified in PageName. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

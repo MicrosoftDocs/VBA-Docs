@@ -37,7 +37,7 @@ For more information about the new functions, see the [F_Dist_RT](Excel.Workshee
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Degrees_freedom2 - the denominator degrees of freedom.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -31,7 +31,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the s
 |:-----|:-----|:-----|:-----|
 | _NameUOrIndex_|Required| **Variant**|The index number of the object in its collection.|
 
-### Return Value
+### Return value
 
  **ValidationRule**
 

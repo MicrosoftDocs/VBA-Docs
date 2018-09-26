@@ -36,7 +36,7 @@ Returns the Macauley duration for an assumed par value of $100. Duration is defi
 | _Arg5_|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg6_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

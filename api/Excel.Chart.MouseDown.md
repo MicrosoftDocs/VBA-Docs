@@ -34,7 +34,7 @@ Occurs when a mouse button is pressed while the pointer is over a chart.
 | _x_|Required| **Long**|The X coordinate of the mouse pointer in chart object client coordinates.|
 | _y_|Required| **Long**|The Y coordinate of the mouse pointer in chart object client coordinates.|
 
-### Return Value
+### Return value
 
 Nothing
 

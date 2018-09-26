@@ -20,7 +20,7 @@ Gets or sets a value representing the opacity of the gradient fill expressed as 
  _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

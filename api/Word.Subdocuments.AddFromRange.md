@@ -31,7 +31,7 @@ Creates one or more subdocuments from the text in the specified range and return
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range used to create one or more subdocuments.|
 
-### Return Value
+### Return value
 
 SubDocument
 

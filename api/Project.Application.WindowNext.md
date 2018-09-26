@@ -31,7 +31,7 @@ Activates the next window in the order in which windows were opened.
 |:-----|:-----|:-----|:-----|
 | _NoWrap_|Optional|**Boolean**|**True** if using **WindowNext** on the last opened window doesn't wrap around to the first opened window. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

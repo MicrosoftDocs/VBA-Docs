@@ -32,7 +32,7 @@ Imports the specified deliverable into a project.
 | _CommitmentDate_|Optional|**Variant**|The commitment date of the deliverable.|
 | _CommitmentGuid_|Optional|**Variant**|The class identifier of the deliverable.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

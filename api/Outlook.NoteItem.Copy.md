@@ -23,7 +23,7 @@ Creates another instance of an object.
  _expression_ An expression that returns a [NoteItem](./Outlook.NoteItem.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[NoteItem](Outlook.NoteItem.md)** object that represents a copy of the specified note.
 

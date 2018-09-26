@@ -31,7 +31,7 @@ Adds the specified  **[Folder](Outlook.Folder.md)** , as a **[NavigationFolder](
 |:-----|:-----|:-----|:-----|
 | _Folder_|Required| **Folder**|The folder to add.|
 
-### Return Value
+### Return value
 
 A  **NavigationFolder** object that represents the new navigation folder.
 

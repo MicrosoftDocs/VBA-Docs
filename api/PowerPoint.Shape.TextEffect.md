@@ -23,7 +23,7 @@ Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that co
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 TextEffectFormat
 

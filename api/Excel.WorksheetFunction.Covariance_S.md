@@ -32,7 +32,7 @@ Returns the sample covariance, the average of the products of deviations for eac
 | _Arg1_|Required| **Variant**|Array1 - The first cell range of integers.|
 | _Arg2_|Required| **Variant**|Array2 - The second cell range of integers.|
 
-### Return Value
+### Return value
 
 Double
 

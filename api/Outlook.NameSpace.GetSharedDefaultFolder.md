@@ -32,7 +32,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified 
 | _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The owner of the folder. Note that the  **Recipient** object must be resolved.|
 | _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of folder.|
 
-### Return Value
+### Return value
 
 A  **Folder** object that represents the specified default folder for the specified user.
 

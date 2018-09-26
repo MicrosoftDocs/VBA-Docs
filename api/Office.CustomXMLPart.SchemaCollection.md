@@ -23,7 +23,7 @@ Gets or sets a  **CustomXMLSchemaCollection** object representing the set of sch
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Return Value
+### Return value
 
 CustomXMLSchemaCollection
 

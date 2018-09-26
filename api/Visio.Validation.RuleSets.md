@@ -23,7 +23,7 @@ Returns the collection of all the validation rule sets in the document. Read-onl
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
-### Return Value
+### Return value
 
  **[ValidationRuleSets](Visio.ValidationRuleSets.md)**
 

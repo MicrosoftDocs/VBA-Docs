@@ -20,7 +20,7 @@ Gets or sets the default spacing between tab stops. Read/write.
  _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

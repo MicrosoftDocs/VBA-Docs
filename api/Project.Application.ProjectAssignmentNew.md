@@ -29,7 +29,7 @@ Occurs when a new assignment is created.
 | _pj_|Required|**Project**|The project where the assignment was just created.|
 | _ID_|Required|**Long**|The ID of the assignment that was just created.|
 
-### Return Value
+### Return value
 
 nothing
 

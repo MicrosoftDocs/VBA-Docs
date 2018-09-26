@@ -31,7 +31,7 @@ Converts a measurement from points to twips (20 twips = 1 point). Returns the co
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to twips.|
 
-### Return Value
+### Return value
 
 Single
 

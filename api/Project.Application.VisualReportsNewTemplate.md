@@ -34,7 +34,7 @@ Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 | _ReportAlLFields_|Optional|**Boolean**|If  **True**, all noncustom fields are included in the report.|
 | _PjVisualReportsDataLevel_|Optional|**Long**|Data level. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

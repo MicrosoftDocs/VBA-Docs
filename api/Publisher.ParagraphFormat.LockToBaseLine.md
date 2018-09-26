@@ -23,7 +23,7 @@ Returns an  **MsoTristate** that represents whether or not text will be position
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTristate
 

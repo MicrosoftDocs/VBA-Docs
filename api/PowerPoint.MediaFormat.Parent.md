@@ -23,7 +23,7 @@ Returns the parent object for the specified object. Read-only.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

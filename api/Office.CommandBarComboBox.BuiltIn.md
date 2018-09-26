@@ -23,7 +23,7 @@ Gets  **True** if the specified command bar control is a built-in control of the
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

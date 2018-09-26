@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
-### Return Value
+### Return value
 
 An Object value that represents an object contained by the collection.
 

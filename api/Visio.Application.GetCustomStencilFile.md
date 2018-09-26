@@ -31,7 +31,7 @@ Returns the path to the specified custom stencil used to populate certain galler
 |:-----|:-----|:-----|:-----|
 | _StencilType_|Required| **[VisBuiltInStencilTypes](Visio.VisBuiltInStencilTypes.md)**|The stencil to retrieve. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **String**
 

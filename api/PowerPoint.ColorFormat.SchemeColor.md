@@ -23,7 +23,7 @@ Returns or sets the color in the applied color scheme that's associated with the
  _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
-### Return Value
+### Return value
 
 PpColorSchemeIndex
 

@@ -23,7 +23,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
  _expression_ An expression that returns a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 CustomerData
 

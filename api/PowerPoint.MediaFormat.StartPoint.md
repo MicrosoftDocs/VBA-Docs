@@ -23,7 +23,7 @@ Gets or sets the start point of the trim region. Read/write.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

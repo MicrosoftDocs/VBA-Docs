@@ -35,7 +35,7 @@ Adds a new  **Shape** object representing an AutoShape to the specified **Shapes
 |Width|Required| **Variant**|The width of the shape representing the AutoShape.|
 |Height|Required| **Variant**|The height of the shape representing the AutoShape.|
 
-### Return Value
+### Return value
 
 Shape
 

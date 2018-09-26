@@ -45,7 +45,7 @@ Sets the properties of an individual cell in a data template for a Network Diagr
 | _Label_|Optional|**String**|Specifies the cell label.|
 | _DateFormat_|Optional|**Long**|Specifies the date format for the cell when  **FieldName** is a date field. Can be one of the **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

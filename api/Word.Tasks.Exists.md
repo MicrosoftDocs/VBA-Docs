@@ -31,7 +31,7 @@ Determines whether the specified task exists. Returns  **True** if the task exis
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the task.|
 
-### Return Value
+### Return value
 
 Boolean
 

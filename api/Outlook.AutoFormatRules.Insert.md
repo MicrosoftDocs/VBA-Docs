@@ -32,7 +32,7 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and insert
 | _Name_|Required| **String**|The name of the new object.|
 | _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the  **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection at where the new object is to be inserted.|
 
-### Return Value
+### Return value
 
 An  **AutoFormatRule** object that represents the new formatting rule.
 

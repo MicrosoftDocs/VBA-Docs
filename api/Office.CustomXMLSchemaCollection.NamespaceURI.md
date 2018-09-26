@@ -31,7 +31,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCo
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the  **CustomXMLSchema** object.|
 
-### Return Value
+### Return value
 
 String
 

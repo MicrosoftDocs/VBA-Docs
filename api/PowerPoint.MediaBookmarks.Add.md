@@ -32,7 +32,7 @@ Adds a new  **MediaBookmark** at the specified time and using the specified name
 | _Position_|Required|**Long**|The position of the  **MediaBookmark**.|
 | _Name_|Required|**String**|The name of the  **MediaBookmark**.|
 
-### Return Value
+### Return value
 
 MediaBookmark
 

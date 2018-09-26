@@ -32,7 +32,7 @@ Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collecti
 | _Index_|Required|**Int**|The index of the slide to be added.|
 | _pCustomLayout_|Required|**CustomLayout**|The layout of the slide.|
 
-### Return Value
+### Return value
 
 Slide
 

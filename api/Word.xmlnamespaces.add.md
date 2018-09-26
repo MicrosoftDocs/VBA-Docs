@@ -32,7 +32,7 @@ ms.date: 06/08/2017
 | _Alias_|Optional| **String**|The name of the schema as it appears on the  **Schemas** tab in the **Templates and Add-ins** dialog box.|
 | _InstallForAllUsers_|Optional| **Boolean**| **True** if all users that log on to a computer can access and use the new schema. The default is **False** .|
 
-### Return Value
+### Return value
 
 XMLNamespace
 

@@ -33,7 +33,7 @@ Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collect
 | _Name_|Optional| **Variant**|The name of the new entry.|
 | _Address_|Optional| **Variant**|The address.|
 
-### Return Value
+### Return value
 
 An  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the new entry.
 

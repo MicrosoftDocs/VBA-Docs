@@ -33,7 +33,7 @@ Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotF
 | _Caption_|Optional| **Variant**|The label used in the PivotTable report to identify this data field.|
 | _Function_|Optional| **Variant**|The function performed in the added data field.|
 
-### Return Value
+### Return value
 
 PivotField
 

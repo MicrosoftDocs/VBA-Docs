@@ -23,7 +23,7 @@ Gets or sets the caption text for a command bar control. Read/write.
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

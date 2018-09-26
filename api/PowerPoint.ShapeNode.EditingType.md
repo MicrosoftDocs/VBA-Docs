@@ -23,7 +23,7 @@ If the specified node is a vertex, this property returns a value that indicates 
  _expression_ A variable that represents an [ShapeNode](./PowerPoint.ShapeNode.md) object.
 
 
-### Return Value
+### Return value
 
 MsoEditingType
 

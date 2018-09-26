@@ -31,7 +31,7 @@ Returns the names of all items in a collection.
 |:-----|:-----|:-----|:-----|
 | _NameArray()_|Required| **String**|Out paramter. An array that receives the names of members of the indicated object.|
 
-### Return Value
+### Return value
 
 Nothing
 

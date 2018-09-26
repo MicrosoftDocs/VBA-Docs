@@ -28,7 +28,7 @@ Occurs when the OLAP cube-building process completes.
 |:-----|:-----|:-----|:-----|
 | _CubeFileName_|Required|**String**|Name of the cube file.|
 
-### Return Value
+### Return value
 
 nothing
 

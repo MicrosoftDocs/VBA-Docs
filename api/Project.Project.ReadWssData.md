@@ -31,7 +31,7 @@ Returns the Project Workspace URLs for the active enterprise project as an XML s
 |:-----|:-----|:-----|:-----|
 | _ProjectGuid_|Required|**String**|A valid Project GUID.|
 
-### Return Value
+### Return value
 
  **Variant**
 

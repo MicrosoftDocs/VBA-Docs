@@ -32,7 +32,7 @@ Occurs after changes to a PivotTable.
 | _Sh_|Required| **Object**|The worksheet that contains the PivotTable.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that was changed.|
 
-### Return Value
+### Return value
 
 Nothing
 

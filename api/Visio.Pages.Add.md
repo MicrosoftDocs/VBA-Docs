@@ -23,7 +23,7 @@ Adds a new object to a collection.
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Return Value
+### Return value
 
 Page
 

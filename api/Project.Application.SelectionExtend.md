@@ -32,7 +32,7 @@ Turns selection extension on or off.
 | _Extend_|Optional|**Boolean**|**True** if extend mode is active. (If extend mode is active, all items between the selection and the active item become part of the selection.) If **Extend** is **True**, **Add** is ignored. The default value is **False**.|
 | _Add_|Optional|**Boolean**|**True** if add mode is active. (If add mode is active, only the active item is added to the selection.) The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

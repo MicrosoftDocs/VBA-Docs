@@ -23,7 +23,7 @@ Gets or sets the value of the image used to sign the document. Read/write.
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Return Value
+### Return value
 
 IPictDisp
 

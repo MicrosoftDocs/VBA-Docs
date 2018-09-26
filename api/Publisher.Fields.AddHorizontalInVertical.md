@@ -32,7 +32,7 @@ Inserts horizontal text into a stream of vertical text and returns the new horiz
 |Range|Required| **TextRange**|The text range at which to insert the horizontal text.|
 |Text|Required| **String**|The text to be horizontally inserted.|
 
-### Return Value
+### Return value
 
 Field
 

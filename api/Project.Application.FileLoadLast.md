@@ -31,7 +31,7 @@ Opens one of the recently used files.
 |:-----|:-----|:-----|:-----|
 | _Number_|Optional|**Integer**|A number that specifies which of the most recently used files to open. The maximum value is 17 in a default installation of Project.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

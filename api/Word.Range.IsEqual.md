@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range to compare with the  **Range** object defined by expression.|
 
-### Return Value
+### Return value
 
 Boolean
 

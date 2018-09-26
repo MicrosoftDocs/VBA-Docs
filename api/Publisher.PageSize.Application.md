@@ -23,7 +23,7 @@ Returns an  **Application** object that represents the creator of the parent **P
  _expression_ A variable that represents a  **PageSize** object.
 
 
-### Return Value
+### Return value
 
 Application
 

@@ -41,7 +41,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
 | _IncludeCategoryHeader_|Optional| **Variant**| **True** to have the category name for each group of entries appear in the table of authorities (for example, Cases). Corresponds to the \h switch for a Table of Authorities (TOA) field. If this argument is omitted, IncludeCategoryHeader is assumed to be **True** .|
 | _PageNumberSeparator_|Optional| **Variant**|The characters (up to five) that separate individual page numbers within page references in the table of authorities. Corresponds to the \l switch for a Table of Authorities (TOA) field. If this argument is omitted, a comma and a space are used.|
 
-### Return Value
+### Return value
 
 TableOfAuthorities
 

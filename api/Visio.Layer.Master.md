@@ -23,7 +23,7 @@ Returns the master that contains the  **Layer** object. Read-only.
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Return Value
+### Return value
 
 Master
 

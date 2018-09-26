@@ -23,7 +23,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
  _expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

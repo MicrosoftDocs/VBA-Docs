@@ -41,7 +41,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 | _X_|Required|**Single**|The x coordinate for the current location of the mouse pointer, in twips. |
 | _Y_|Required|**Single**|The y coordinate for the current location of the mouse pointer, in twips. |
 
-### Return Value
+### Return value
 
 nothing
 

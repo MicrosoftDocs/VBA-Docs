@@ -23,7 +23,7 @@ Creates an enterprise calendar. Available in Project Professional only.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

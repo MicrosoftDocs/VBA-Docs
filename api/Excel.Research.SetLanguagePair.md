@@ -32,7 +32,7 @@ Sets the languages for the translation service.
 | _LanguageFrom_|Required| **Long**|Specifies the language to translate from.|
 | _LanguageTo_|Required| **Long**|Specifies the langauge to translate to.|
 
-### Return Value
+### Return value
 
 Variant
 

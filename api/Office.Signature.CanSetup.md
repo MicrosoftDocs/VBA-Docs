@@ -23,7 +23,7 @@ Gets a  **Boolean** value indicating whether the user can set properties of the 
  _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

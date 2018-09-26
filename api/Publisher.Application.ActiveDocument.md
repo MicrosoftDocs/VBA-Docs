@@ -23,7 +23,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the acti
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return Value
+### Return value
 
 Document
 

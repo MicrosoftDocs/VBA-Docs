@@ -31,7 +31,7 @@ Deletes an object or selection and places it on the Clipboard.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the cut operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

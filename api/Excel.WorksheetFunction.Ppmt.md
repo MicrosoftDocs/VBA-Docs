@@ -36,7 +36,7 @@ Returns the payment on the principal for a given period for an investment based 
 | _Arg5_|Optional| **Variant**|Fv - the future value, or a cash balance you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (zero), that is, the future value of a loan is 0.|
 | _Arg6_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due.|
 
-### Return Value
+### Return value
 
 Double
 

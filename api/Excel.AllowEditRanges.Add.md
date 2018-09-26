@@ -33,7 +33,7 @@ Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEdi
 | _Range_|Required| **Range**| **Range** object. The range allowed to be edited.|
 | _Password_|Optional| **Variant**|The password for the range.|
 
-### Return Value
+### Return value
 
 An  **AllowEditRange** object that represents the range.
 

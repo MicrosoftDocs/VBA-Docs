@@ -33,7 +33,7 @@ Adds a new  **Page** object to the specified **MasterPages** object and returns 
 |Abbreviation|Optional| **String**|The abbreviation, or short name, for the master page. An error occurs if this is not unique.|
 |Description|Optional| **String**|The description for the master page.|
 
-### Return Value
+### Return value
 
 Page
 

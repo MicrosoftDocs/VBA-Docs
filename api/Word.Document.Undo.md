@@ -31,7 +31,7 @@ Undoes the last action or a sequence of actions, which are displayed in the  **U
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of actions to be undone.|
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -31,7 +31,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**PpMouseActivation**|The action setting for a  **MouseClick** or **MouseOver** event.|
 
-### Return Value
+### Return value
 
 ActionSetting
 

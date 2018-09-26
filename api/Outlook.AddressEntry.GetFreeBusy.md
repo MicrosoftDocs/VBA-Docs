@@ -33,7 +33,7 @@ Returns a  **String** value that represents the availability of the individual u
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. The default value is 30.|
 | _CompleteFormat_|Optional| **Variant**|Specifies a  **Boolean** value that represents the level of information returned for each time slot. The default value is **False** .|
 
-### Return Value
+### Return value
 
 A String value that represents the availability of the user for the specified period. The string value contains one character for each time slot within the specified period.
 

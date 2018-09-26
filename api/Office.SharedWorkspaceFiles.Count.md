@@ -26,7 +26,7 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceFiles** 
  _expression_ A variable that represents a [SharedWorkspaceFiles](./Office.SharedWorkspaceFiles.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

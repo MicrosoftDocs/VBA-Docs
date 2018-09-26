@@ -23,7 +23,7 @@ Returns the parent object for the specified object.
  _expression_ A variable that represents a [Hyperlinks](./PowerPoint.Hyperlinks.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

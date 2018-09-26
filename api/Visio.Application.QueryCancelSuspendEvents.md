@@ -28,7 +28,7 @@ Private Sub  _expression_ _'QueryCancelSuspendEvents'(**_ByVal app As [IVAPPLICA
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio in which firing of events is going to be suspended.|
 
-### Return Value
+### Return value
 
 nothing
 

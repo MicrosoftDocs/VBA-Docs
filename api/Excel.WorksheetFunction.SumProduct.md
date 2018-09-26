@@ -31,7 +31,7 @@ Multiplies corresponding components in the given arrays, and returns the sum of 
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Array1, array2, array3, ... - 2 to 30 arrays whose components you want to multiply and then add.|
 
-### Return Value
+### Return value
 
 Double
 

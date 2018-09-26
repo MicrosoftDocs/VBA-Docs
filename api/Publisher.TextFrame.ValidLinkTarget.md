@@ -31,7 +31,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
 |:-----|:-----|:-----|:-----|
 |LinkTarget|Required| **Shape**|The shape with the target text frame to which you want to link the text frame returned by expression.|
 
-### Return Value
+### Return value
 
 Boolean
 

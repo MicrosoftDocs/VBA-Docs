@@ -31,7 +31,7 @@ Occurs when a new chart is created in the workbook.
 |:-----|:-----|:-----|:-----|
 | _Ch_|Required| **[Chart](Excel.Chart(object).md)**|The new chart.|
 
-### Return Value
+### Return value
 
 Nothing
 

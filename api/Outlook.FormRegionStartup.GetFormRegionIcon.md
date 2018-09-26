@@ -33,7 +33,7 @@ Obtains an icon image that will be displayed for a particular type of icon for t
 | _LCID_|Required| **Long**|The locale ID that identifies the language that Outlook is currently using. This value is used to obtain the localization strings corresponding to this language for the form region.|
 | _Icon_|Required| **[OlFormRegionIcon](Outlook.OlFormRegionIcon.md)**|A constant that identifies the type of icon.|
 
-### Return Value
+### Return value
 
 A Variant that is either a byte-array that represents the original bytes of the image file or an  **IPictureDisp** object.
 

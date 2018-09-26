@@ -34,7 +34,7 @@ Returns an aggregate in a list or database.
 | _Arg3_|Required| **Range**|Ref1 - The first numeric argument for functions that take multiple numeric arguments for which you want the aggregate value.|
 | _Arg4 - Arg 30_|Optional| **Variant**|Ref2 - Ref30 - Numeric arguments 2 to 30 for which you want the aggregate value.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -34,7 +34,7 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
 | _Column_|Required| **Integer**|The cell's column index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

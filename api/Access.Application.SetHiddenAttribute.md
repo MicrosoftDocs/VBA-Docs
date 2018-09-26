@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _ObjectName_|Required|**String**|The name of the Access object.|
 | _fHidden_|Required|**Boolean**|**True** sets the hidden attribute and **False** clears the attribute.|
 
-### Return Value
+### Return value
 
 Nothing
 

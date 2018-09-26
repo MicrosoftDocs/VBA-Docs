@@ -28,7 +28,7 @@ Gets or sets a value that indicates whether markup of the specified reviewer is 
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

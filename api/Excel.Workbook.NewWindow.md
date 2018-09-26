@@ -23,7 +23,7 @@ Creates a new window or a copy of the specified window.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return Value
+### Return value
 
 Window
 

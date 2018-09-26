@@ -23,7 +23,7 @@ Determines whether when the user zooms in, the selection appears in the center o
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

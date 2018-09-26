@@ -31,7 +31,7 @@ Applies or removes italic formatting from the selected text.
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Boolean**|**True** if italic formatting is applied to the selected text. **False** if italic formatting is removed from the selected text. The default value is **False** if the selected text is italic and **True** if the selected text is not italic.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

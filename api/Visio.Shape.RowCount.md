@@ -31,7 +31,7 @@ Returns the number of rows in a ShapeSheet section. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section whose rows to count.|
 
-### Return Value
+### Return value
 
 Integer
 

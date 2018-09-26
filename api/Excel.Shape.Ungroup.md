@@ -23,7 +23,7 @@ Ungroups any grouped shapes in the specified shape or range of shapes. Disassemb
  _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[ShapeRange](Excel.ShapeRange.md)** object that represents the ungrouped shapes.
 

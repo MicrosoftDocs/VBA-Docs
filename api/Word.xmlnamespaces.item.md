@@ -29,7 +29,7 @@ Returns an individual  **XMLNamespace** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
-### Return Value
+### Return value
 
 XMLNamespace
 

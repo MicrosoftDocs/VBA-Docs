@@ -23,7 +23,7 @@ Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in th
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

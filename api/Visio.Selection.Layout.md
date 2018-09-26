@@ -23,7 +23,7 @@ Lays out the shapes and/or reroutes the connectors for the page, master, group, 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

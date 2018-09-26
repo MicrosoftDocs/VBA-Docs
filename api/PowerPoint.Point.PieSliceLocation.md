@@ -32,7 +32,7 @@ Returns the vertical or horizontal position, in points, of a point on a chart it
 | _loc_|Required|**[XlPieSliceLocation](./Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
 | _Index_|Optional|**[XlPieSliceIndex](./Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default is  **xlOuterCenterPoint**.|
 
-### Return Value
+### Return value
 
 Double
 

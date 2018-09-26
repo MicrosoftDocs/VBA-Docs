@@ -31,7 +31,7 @@ Converts a vertical measurement from points to pixels. Used to return a vertical
 |:-----|:-----|:-----|:-----|
 | _Points_|Required|**Single**|The vertical measurement (in points) to be converted to pixels.|
 
-### Return Value
+### Return value
 
 Single
 

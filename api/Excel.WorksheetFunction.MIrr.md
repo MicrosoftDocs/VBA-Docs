@@ -33,7 +33,7 @@ Returns the modified internal rate of return for a series of periodic cash flows
 | _Arg2_|Required| **Double**|Finance_rate - the interest rate you pay on the money used in the cash flows.|
 | _Arg3_|Required| **Double**|Reinvest_rate - the interest rate you receive on the cash flows as you reinvest them.|
 
-### Return Value
+### Return value
 
 Double
 

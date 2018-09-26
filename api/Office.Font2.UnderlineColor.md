@@ -20,7 +20,7 @@ Gets a value specifying the color of the underline for the selected text. Read-o
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return Value
+### Return value
 
 ColorFormat
 

@@ -23,7 +23,7 @@ Returns the name of the algorithm encryption provider that Microsoft PowerPoint 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

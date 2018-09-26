@@ -31,7 +31,7 @@ Returns the value for the a data filed in a PivotTable.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Describes a single cell in the PivotTable report, using syntax similar to the  **[PivotSelect](Excel.PivotTable.PivotSelect.md)** method or the PivotTable report references in calculated item formulas.|
 
-### Return Value
+### Return value
 
 Double
 

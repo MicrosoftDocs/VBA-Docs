@@ -29,7 +29,7 @@ Occurs when Project Professional successfully puts the  **Project Save** job in 
 | _bstrName_|Required|**String**|Name of the project.|
 | _bstrprojGuid_|Required|**String**|GUID of the project|
 
-### Return Value
+### Return value
 
 nothing
 

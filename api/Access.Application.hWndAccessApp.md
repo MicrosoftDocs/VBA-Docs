@@ -23,7 +23,7 @@ _expression_. `hWndAccessApp`
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

@@ -31,7 +31,7 @@ Creates an instance of a  **[ContactCard](./Office.ContactCard.md)** object for 
 |:-----|:-----|:-----|:-----|
 | _AddressEntry_|Required| **AddressEntry**|The  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the user for whom the contact card is to be created.|
 
-### Return Value
+### Return value
 
 The  **Office.ContactCard** object that is created for the specified user.
 

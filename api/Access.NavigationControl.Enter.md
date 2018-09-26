@@ -23,7 +23,7 @@ _expression_. `Enter`
 _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

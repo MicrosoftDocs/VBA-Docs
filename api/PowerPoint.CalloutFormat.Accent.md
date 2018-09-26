@@ -23,7 +23,7 @@ Determines whether a vertical accent bar separates the callout text from the cal
  _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

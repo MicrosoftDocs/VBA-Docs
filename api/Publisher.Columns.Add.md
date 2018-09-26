@@ -31,7 +31,7 @@ Adds a new  **Column** object to the specified **Columns** collection and return
 |:-----|:-----|:-----|:-----|
 |BeforeColumn|Optional| **Long**|The number of the column before which to insert the new column. If this argument is omitted, the new column is added after the existing columns. An error occurs if the value of this argument does not correspond to an existing column in the table.|
 
-### Return Value
+### Return value
 
 Column
 

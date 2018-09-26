@@ -35,7 +35,7 @@ Gets the label of the shape data item (custom property) that the  **GraphicItem*
 | _Field_|Required| **VisGraphicField**|Out parameter. A constant value from the  **VisGraphicField** enumeration specifying whether Expression is a shape-data-item label or the formula in the ShapeSheet spreadsheet of the primary data field (column) assigned to the **GraphicItem** . See Remarks for possible values.|
 | _Expression_|Required| **String**|Out parameter. The ShapeSheet expression associated with the Field parameter.|
 
-### Return Value
+### Return value
 
 Nothing
 

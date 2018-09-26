@@ -23,7 +23,7 @@ Displays the  **Select Names** dialog box.
  _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
-### Return Value
+### Return value
 
 A  **Boolean** value that is **True** if the user has clicked **OK**, and  **False** if the user has clicked **Cancel** or the Close icon.
 

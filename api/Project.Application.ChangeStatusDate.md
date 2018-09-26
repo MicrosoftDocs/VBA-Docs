@@ -31,7 +31,7 @@ Changes the project status date.
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|New date for the project status date.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

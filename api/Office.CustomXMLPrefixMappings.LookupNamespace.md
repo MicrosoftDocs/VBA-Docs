@@ -31,7 +31,7 @@ Allows you to get the namespace corresponding to the specified prefix.
 |:-----|:-----|:-----|:-----|
 | _Prefix_|Required|**String**|Contains a prefix in the prefix mapping list.|
 
-### Return Value
+### Return value
 
 String
 

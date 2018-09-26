@@ -23,7 +23,7 @@ Returns a  **ShapeRange** object that represents the collection of surplus shape
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 ShapeRange
 

@@ -39,7 +39,7 @@ Creates a new trendline.
 | _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False** .|
 | _Name_|Optional| **Variant**|The name of the trendline as text. If this argument is omitted, Microsoft Excel generates a name.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](Excel.Trendline(object).md)** object that represents the new trendline.
 

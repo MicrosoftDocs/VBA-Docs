@@ -23,7 +23,7 @@ When used without an object qualifier, this property returns an  **[Application]
  _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

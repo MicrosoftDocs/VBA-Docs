@@ -31,7 +31,7 @@ Deletes the specified project file from the local cache. Available only in Proje
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**String**|Name of the project file to delete from the cache.|
 
-### Return Value
+### Return value
 
 Boolean
 

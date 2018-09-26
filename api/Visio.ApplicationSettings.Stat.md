@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Returns a  **[Font](PowerPoint.Font.md)** object that represents character forma
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return Value
+### Return value
 
 Font
 

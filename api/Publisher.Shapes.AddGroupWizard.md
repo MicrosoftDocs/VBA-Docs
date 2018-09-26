@@ -36,7 +36,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
 |Height|Optional| **Variant**|The height of the new Design Gallery object.|
 |Design|Optional| **Long**|The design of the object to be added.|
 
-### Return Value
+### Return value
 
 Shape
 

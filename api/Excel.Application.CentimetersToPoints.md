@@ -31,7 +31,7 @@ Converts a measurement from centimeters to points (one point equals 0.035 centim
 |:-----|:-----|:-----|:-----|
 | _Centimeters_|Required| **Double**|Specifies the centimeter value to be converted to points.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -31,7 +31,7 @@ Returns a single color from the specified  **ExtraColors** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 MsoRGBType
 

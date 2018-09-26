@@ -46,7 +46,7 @@ Changes one or more days in a base calendar.
 | _From5_|Optional|**Variant**|The start time of the fifth shift.|
 | _To5_|Optional|**Variant**|The end time of the fifth shift.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

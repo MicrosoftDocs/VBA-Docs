@@ -31,7 +31,7 @@ Returns the complementary error function integrated between the specified value 
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The value to compute against.|
 
-### Return Value
+### Return value
 
 Double
 

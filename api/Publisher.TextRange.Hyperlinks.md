@@ -23,7 +23,7 @@ Returns a  **[Hyperlinks](Publisher.Hyperlinks.md)** collection representing all
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 Hyperlinks
 

@@ -23,7 +23,7 @@ Determines whether a master icon is updated manually or automatically. Read/writ
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

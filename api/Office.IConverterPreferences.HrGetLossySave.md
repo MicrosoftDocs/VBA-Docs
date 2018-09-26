@@ -31,7 +31,7 @@ This feature is only available in the Open XML Format SDK.
 |:-----|:-----|:-----|:-----|
 | _pfLossySave_|Required|**[INT]**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

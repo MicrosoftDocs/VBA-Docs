@@ -34,7 +34,7 @@ Zooms in on or out from the Gantt Chart, Resource Graph, Resource Usage, or Task
 | _Selection_|Optional|**Boolean**|**True** if the view resizes to fit only the selected tasks onto the screen. The default value is **False**.|
 | _Reset_|Optional|**Boolean**|**True** if the view is reset to its default size. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

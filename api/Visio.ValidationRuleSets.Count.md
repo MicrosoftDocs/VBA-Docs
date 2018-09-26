@@ -23,7 +23,7 @@ Returns the number of  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** objec
  _expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

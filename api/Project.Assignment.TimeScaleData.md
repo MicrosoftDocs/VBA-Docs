@@ -32,7 +32,7 @@ Sets options for displaying timephased data.
 | _TimeScaleUnit_|Optional|**Long**|Can be one of the  **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** constants. The default value is **pjTimescaleWeeks**.|
 | _Count_|Optional|**Long**|The number of timescale units to group together. The default value is 1. |
 
-### Return Value
+### Return value
 
  **TimeScaleValues**
 

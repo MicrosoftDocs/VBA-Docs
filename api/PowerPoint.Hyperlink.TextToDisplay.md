@@ -23,7 +23,7 @@ Returns or sets the display text for a hyperlink not associated with a graphic. 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **WorkflowTasks** collect
  _expression_ An expression that returns a [WorkflowTasks](./Office.WorkflowTasks.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

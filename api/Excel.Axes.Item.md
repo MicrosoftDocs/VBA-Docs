@@ -32,7 +32,7 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
 | _Type_|Required| **[XlAxisType](Excel.XlAxisType.md)**|The axis type.|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
 
-### Return Value
+### Return value
 
 Axis
 

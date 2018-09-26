@@ -31,7 +31,7 @@ Selects the first cell in the active table or view.
 |:-----|:-----|:-----|:-----|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the first cell. If the active view is the Network Diagram or Resource Graph, Extend is ignored. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 
