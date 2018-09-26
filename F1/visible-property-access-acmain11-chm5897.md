@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[EmptyCell.Visible Property (Access)](http://msdn.microsoft.com/library/b4418ac0-fd50-e5d2-9af4-0e66a403790f%28Office.15%29.aspx)
+[EmptyCell.Visible property (Access)](http://msdn.microsoft.com/library/b4418ac0-fd50-e5d2-9af4-0e66a403790f%28Office.15%29.aspx)
 

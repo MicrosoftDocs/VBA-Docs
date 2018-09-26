@@ -1,5 +1,5 @@
 ---
-title: CommandButton.GridlineWidthRight Property (Access)
+title: CommandButton.GridlineWidthRight property (Access)
 keywords: vbaac10.chm10534
 f1_keywords:
 - vbaac10.chm10534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.GridlineWidthRight Property (Access)
+# CommandButton.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified button. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineWidthBottom Property (Access)
+title: Attachment.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm13999
 f1_keywords:
 - vbaac10.chm13999
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineWidthBottom Property (Access)
+# Attachment.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified attachment. Read/write  **Byte**.
 

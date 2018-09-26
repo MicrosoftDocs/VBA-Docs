@@ -1,5 +1,5 @@
 ---
-title: Report.OnKeyUp Property (Access)
+title: Report.OnKeyUp property (Access)
 keywords: vbaac10.chm13867
 f1_keywords:
 - vbaac10.chm13867
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnKeyUp Property (Access)
+# Report.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

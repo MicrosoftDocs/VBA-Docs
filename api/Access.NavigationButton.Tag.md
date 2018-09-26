@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Tag Property (Access)
+title: NavigationButton.Tag property (Access)
 keywords: vbaac10.chm10489
 f1_keywords:
 - vbaac10.chm10489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Tag Property (Access)
+# NavigationButton.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

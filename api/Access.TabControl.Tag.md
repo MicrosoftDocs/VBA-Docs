@@ -1,5 +1,5 @@
 ---
-title: TabControl.Tag Property (Access)
+title: TabControl.Tag property (Access)
 keywords: vbaac10.chm12101
 f1_keywords:
 - vbaac10.chm12101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Tag Property (Access)
+# TabControl.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

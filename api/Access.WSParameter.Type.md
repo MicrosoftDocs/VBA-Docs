@@ -1,5 +1,5 @@
 ---
-title: WSParameter.Type Property (Access)
+title: WSParameter.Type property (Access)
 keywords: vbaac10.chm12747
 f1_keywords:
 - vbaac10.chm12747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WSParameter.Type Property (Access)
+# WSParameter.Type property (Access)
 
 Get the data type of the specified parameter.  **Read-only** Integer.
 

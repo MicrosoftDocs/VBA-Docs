@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineWidthBottom Property (Access)
+title: TabControl.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm14547
 f1_keywords:
 - vbaac10.chm14547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineWidthBottom Property (Access)
+# TabControl.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 

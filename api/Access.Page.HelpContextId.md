@@ -1,5 +1,5 @@
 ---
-title: Page.HelpContextId Property (Access)
+title: Page.HelpContextId property (Access)
 keywords: vbaac10.chm12161
 f1_keywords:
 - vbaac10.chm12161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.HelpContextId Property (Access)
+# Page.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 

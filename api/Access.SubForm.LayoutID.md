@@ -1,5 +1,5 @@
 ---
-title: SubForm.LayoutID Property (Access)
+title: SubForm.LayoutID property (Access)
 keywords: vbaac10.chm11982
 f1_keywords:
 - vbaac10.chm11982
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.LayoutID Property (Access)
+# SubForm.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified subform. Read-only  **Long**.
 

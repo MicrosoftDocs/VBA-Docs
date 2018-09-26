@@ -1,5 +1,5 @@
 ---
-title: ListBox.ControlTipText Property (Access)
+title: ListBox.ControlTipText property (Access)
 keywords: vbaac10.chm11261
 f1_keywords:
 - vbaac10.chm11261
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ControlTipText Property (Access)
+# ListBox.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 

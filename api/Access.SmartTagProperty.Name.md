@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperty.Name Property (Access)
+title: SmartTagProperty.Name property (Access)
 keywords: vbaac10.chm13304
 f1_keywords:
 - vbaac10.chm13304
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperty.Name Property (Access)
+# SmartTagProperty.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.InSelection Property (Access)
+title: TabControl.InSelection property (Access)
 keywords: vbaac10.chm12103
 f1_keywords:
 - vbaac10.chm12103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.InSelection Property (Access)
+# TabControl.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 

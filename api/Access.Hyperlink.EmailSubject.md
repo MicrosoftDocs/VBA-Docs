@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.EmailSubject Property (Access)
+title: Hyperlink.EmailSubject property (Access)
 keywords: vbaac10.chm10118
 f1_keywords:
 - vbaac10.chm10118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.EmailSubject Property (Access)
+# Hyperlink.EmailSubject property (Access)
 
 You can use the  **EmailSubject** property to specify or determine return the email subject line of a hyperlink to an object, document, Web page or other destination for a command button, image control, or label control. Read/write **String**.
 

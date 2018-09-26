@@ -1,5 +1,5 @@
 ---
-title: Section.AlternateBackTint Property (Access)
+title: Section.AlternateBackTint property (Access)
 keywords: vbaac10.chm14608
 f1_keywords:
 - vbaac10.chm14608
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.AlternateBackTint Property (Access)
+# Section.AlternateBackTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **AlternateBackColor** property of the section. Read/write **Single**.
 

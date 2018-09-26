@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Parent Property (Access)
+title: WebBrowserControl.Parent property (Access)
 keywords: vbaac10.chm14348
 f1_keywords:
 - vbaac10.chm14348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Parent Property (Access)
+# WebBrowserControl.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

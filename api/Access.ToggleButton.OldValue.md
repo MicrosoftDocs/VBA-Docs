@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OldValue Property (Access)
+title: ToggleButton.OldValue property (Access)
 keywords: vbaac10.chm11690
 f1_keywords:
 - vbaac10.chm11690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OldValue Property (Access)
+# ToggleButton.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

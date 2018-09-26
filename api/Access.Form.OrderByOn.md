@@ -1,5 +1,5 @@
 ---
-title: Form.OrderByOn Property (Access)
+title: Form.OrderByOn property (Access)
 keywords: vbaac10.chm13349
 f1_keywords:
 - vbaac10.chm13349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OrderByOn Property (Access)
+# Form.OrderByOn property (Access)
 
 You can use the  **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
 

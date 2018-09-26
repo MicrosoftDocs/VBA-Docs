@@ -1,5 +1,5 @@
 ---
-title: Application.ShortcutMenuBar Property (Access)
+title: Application.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm12512
 f1_keywords:
 - vbaac10.chm12512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShortcutMenuBar Property (Access)
+# Application.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.
 

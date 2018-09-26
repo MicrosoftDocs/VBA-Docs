@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.VerticalAnchor Property (Access)
+title: BoundObjectFrame.VerticalAnchor property (Access)
 keywords: vbaac10.chm11009
 f1_keywords:
 - vbaac10.chm11009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.VerticalAnchor Property (Access)
+# BoundObjectFrame.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified object frame is anchored vertically within its layout. Read/write.
 

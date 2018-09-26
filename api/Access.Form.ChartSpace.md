@@ -1,5 +1,5 @@
 ---
-title: Form.ChartSpace Property (Access)
+title: Form.ChartSpace property (Access)
 keywords: vbaac10.chm13522
 f1_keywords:
 - vbaac10.chm13522
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ChartSpace Property (Access)
+# Form.ChartSpace property (Access)
 
 Returns a  **ChartSpace** object. Read-only.
 

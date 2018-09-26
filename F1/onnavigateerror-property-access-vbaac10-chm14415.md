@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[WebBrowserControl.OnNavigateError Property (Access)](http://msdn.microsoft.com/library/aeb415fb-3dcf-f656-db0d-71db2a72433c%28Office.15%29.aspx)
+[WebBrowserControl.OnNavigateError property (Access)](http://msdn.microsoft.com/library/aeb415fb-3dcf-f656-db0d-71db2a72433c%28Office.15%29.aspx)
 

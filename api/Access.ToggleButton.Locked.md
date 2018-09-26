@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Locked Property (Access)
+title: ToggleButton.Locked property (Access)
 keywords: vbaac10.chm11713
 f1_keywords:
 - vbaac10.chm11713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Locked Property (Access)
+# ToggleButton.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

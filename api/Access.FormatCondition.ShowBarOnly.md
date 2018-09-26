@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.ShowBarOnly Property (Access)
+title: FormatCondition.ShowBarOnly property (Access)
 keywords: vbaac10.chm14534
 f1_keywords:
 - vbaac10.chm14534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.ShowBarOnly Property (Access)
+# FormatCondition.ShowBarOnly property (Access)
 
 Gets or sets whether the data bar or the data bar and its value are displayed. Set to  **True** to display only the data bar. Read/write ** Boolean**.
 

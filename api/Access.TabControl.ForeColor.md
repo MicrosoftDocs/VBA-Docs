@@ -1,5 +1,5 @@
 ---
-title: TabControl.ForeColor Property (Access)
+title: TabControl.ForeColor property (Access)
 keywords: vbaac10.chm11083
 f1_keywords:
 - vbaac10.chm11083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.ForeColor Property (Access)
+# TabControl.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 

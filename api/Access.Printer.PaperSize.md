@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperSize Property (Access)
+title: Printer.PaperSize property (Access)
 keywords: vbaac10.chm12864
 f1_keywords:
 - vbaac10.chm12864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.PaperSize Property (Access)
+# Printer.PaperSize property (Access)
 
 Returns or sets an  **[AcPrintPaperSize](Access.AcPrintPaperSize.md)** constant indicating the paper size to use when printing. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineWidthRight Property (Access)
+title: SubForm.GridlineWidthRight property (Access)
 keywords: vbaac10.chm11976
 f1_keywords:
 - vbaac10.chm11976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineWidthRight Property (Access)
+# SubForm.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified subform. Read/write  **Byte**.
 

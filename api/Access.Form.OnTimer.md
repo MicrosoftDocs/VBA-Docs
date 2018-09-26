@@ -1,5 +1,5 @@
 ---
-title: Form.OnTimer Property (Access)
+title: Form.OnTimer property (Access)
 keywords: vbaac10.chm13461
 f1_keywords:
 - vbaac10.chm13461
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnTimer Property (Access)
+# Form.OnTimer property (Access)
 
 Sets or returns the value of the  **On Timer** box in the **Properties** window of a form. Read/write **String**.
 

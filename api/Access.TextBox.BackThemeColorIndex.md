@@ -1,5 +1,5 @@
 ---
-title: TextBox.BackThemeColorIndex Property (Access)
+title: TextBox.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BackThemeColorIndex Property (Access)
+# TextBox.BackThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
 

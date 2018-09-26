@@ -1,5 +1,5 @@
 ---
-title: TextBox.TopMargin Property (Access)
+title: TextBox.TopMargin property (Access)
 keywords: vbaac10.chm11139
 f1_keywords:
 - vbaac10.chm11139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.TopMargin Property (Access)
+# TextBox.TopMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.FileType Property (Access)
+title: Attachment.FileType property (Access)
 keywords: vbaac10.chm13982
 f1_keywords:
 - vbaac10.chm13982
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.FileType Property (Access)
+# Attachment.FileType property (Access)
 
 Returns the file extension of the specifed attachment. Read-only  **String**.
 

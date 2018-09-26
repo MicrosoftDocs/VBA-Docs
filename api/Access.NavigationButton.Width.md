@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Width Property (Access)
+title: NavigationButton.Width property (Access)
 keywords: vbaac10.chm10469
 f1_keywords:
 - vbaac10.chm10469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Width Property (Access)
+# NavigationButton.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.SelWidth Property (Access)
+title: Form.SelWidth property (Access)
 keywords: vbaac10.chm13471
 f1_keywords:
 - vbaac10.chm13471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelWidth Property (Access)
+# Form.SelWidth property (Access)
 
 You can use the  **SelWidth** property to specify or determine the number of selected columns (fields) in the current selection rectangle. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.Parent Property (Access)
+title: TabControl.Parent property (Access)
 keywords: vbaac10.chm12066
 f1_keywords:
 - vbaac10.chm12066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Parent Property (Access)
+# TabControl.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

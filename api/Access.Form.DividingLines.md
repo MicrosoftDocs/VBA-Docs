@@ -1,5 +1,5 @@
 ---
-title: Form.DividingLines Property (Access)
+title: Form.DividingLines property (Access)
 keywords: vbaac10.chm13366,vbaac10.chm4337
 f1_keywords:
 - vbaac10.chm13366,vbaac10.chm4337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DividingLines Property (Access)
+# Form.DividingLines property (Access)
 
 You can use the  **DividingLines** property to specify whether dividing lines will separate sections on a form or records displayed on a continuous form. Read/write **Boolean**.
 

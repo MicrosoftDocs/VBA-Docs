@@ -1,5 +1,5 @@
 ---
-title: CheckBox.AutoLabel Property (Access)
+title: CheckBox.AutoLabel property (Access)
 keywords: vbaac10.chm10725
 f1_keywords:
 - vbaac10.chm10725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.AutoLabel Property (Access)
+# CheckBox.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

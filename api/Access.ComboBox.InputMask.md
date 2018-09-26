@@ -1,5 +1,5 @@
 ---
-title: ComboBox.InputMask Property (Access)
+title: ComboBox.InputMask property (Access)
 keywords: vbaac10.chm11377
 f1_keywords:
 - vbaac10.chm11377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.InputMask Property (Access)
+# ComboBox.InputMask property (Access)
 
 You can use the  **InputMask** property to make data entry easier and to control the values users can enter in a combo box control. Read/write **String**.
 

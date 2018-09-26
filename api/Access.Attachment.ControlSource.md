@@ -1,5 +1,5 @@
 ---
-title: Attachment.ControlSource Property (Access)
+title: Attachment.ControlSource property (Access)
 keywords: vbaac10.chm14011
 f1_keywords:
 - vbaac10.chm14011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.ControlSource Property (Access)
+# Attachment.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in the specified **[Attachment](Access.Attachment.md)** control. Read/write **String**.
 

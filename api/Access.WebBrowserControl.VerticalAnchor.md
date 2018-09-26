@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.VerticalAnchor Property (Access)
+title: WebBrowserControl.VerticalAnchor property (Access)
 keywords: vbaac10.chm14403
 f1_keywords:
 - vbaac10.chm14403
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.VerticalAnchor Property (Access)
+# WebBrowserControl.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified text box is anchored vertically within its layout. Read/write.
 

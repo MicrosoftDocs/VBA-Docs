@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.LabelX Property (Access)
+title: OptionGroup.LabelX property (Access)
 keywords: vbaac10.chm10854
 f1_keywords:
 - vbaac10.chm10854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.LabelX Property (Access)
+# OptionGroup.LabelX property (Access)
 
 The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

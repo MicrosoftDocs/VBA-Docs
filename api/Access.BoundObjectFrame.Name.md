@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Name Property (Access)
+title: BoundObjectFrame.Name property (Access)
 keywords: vbaac10.chm10976
 f1_keywords:
 - vbaac10.chm10976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Name Property (Access)
+# BoundObjectFrame.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

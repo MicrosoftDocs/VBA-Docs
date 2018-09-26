@@ -1,5 +1,5 @@
 ---
-title: Report.OnMouseDown Property (Access)
+title: Report.OnMouseDown property (Access)
 keywords: vbaac10.chm13863
 f1_keywords:
 - vbaac10.chm13863
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnMouseDown Property (Access)
+# Report.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

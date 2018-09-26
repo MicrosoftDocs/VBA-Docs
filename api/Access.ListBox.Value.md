@@ -1,5 +1,5 @@
 ---
-title: ListBox.Value Property (Access)
+title: ListBox.Value property (Access)
 keywords: vbaac10.chm11217
 f1_keywords:
 - vbaac10.chm11217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Value Property (Access)
+# ListBox.Value property (Access)
 
 Determines or specifies which value or option in the list box is selected. Read/write  **Variant**.
 

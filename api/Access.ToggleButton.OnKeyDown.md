@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnKeyDown Property (Access)
+title: ToggleButton.OnKeyDown property (Access)
 keywords: vbaac10.chm11758
 f1_keywords:
 - vbaac10.chm11758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnKeyDown Property (Access)
+# ToggleButton.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

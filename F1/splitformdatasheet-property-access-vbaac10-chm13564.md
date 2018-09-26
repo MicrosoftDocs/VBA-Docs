@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.SplitFormDatasheet Property (Access)](http://msdn.microsoft.com/library/765eacb5-ef79-3b1d-6511-501ec0def22c%28Office.15%29.aspx)
+[Form.SplitFormDatasheet property (Access)](http://msdn.microsoft.com/library/765eacb5-ef79-3b1d-6511-501ec0def22c%28Office.15%29.aspx)
 

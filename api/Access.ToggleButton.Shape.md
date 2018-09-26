@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Shape Property (Access)
+title: ToggleButton.Shape property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Shape Property (Access)
+# ToggleButton.Shape property (Access)
 
 Returns or sets the shape of the specified toggle button. Read/write  **Long**.
 

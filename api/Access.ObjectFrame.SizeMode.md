@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.SizeMode Property (Access)
+title: ObjectFrame.SizeMode property (Access)
 keywords: vbaac10.chm11560
 f1_keywords:
 - vbaac10.chm11560
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.SizeMode Property (Access)
+# ObjectFrame.SizeMode property (Access)
 
 You can use the  **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Tabs Property (Access)
+title: NavigationControl.Tabs property (Access)
 keywords: vbaac10.chm14643
 f1_keywords:
 - vbaac10.chm14643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Tabs Property (Access)
+# NavigationControl.Tabs property (Access)
 
 Gets the collection of navigation buttons for the specified navigation control. Read-only  **Children**.
 

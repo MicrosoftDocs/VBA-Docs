@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.SplitFormSplitterBar Property (Access)](http://msdn.microsoft.com/library/80b7c812-2382-ea12-9aff-fb83e5baa7ea%28Office.15%29.aspx)
+[Form.SplitFormSplitterBar property (Access)](http://msdn.microsoft.com/library/80b7c812-2382-ea12-9aff-fb83e5baa7ea%28Office.15%29.aspx)
 

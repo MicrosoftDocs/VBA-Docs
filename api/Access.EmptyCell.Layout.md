@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Layout Property (Access)
+title: EmptyCell.Layout property (Access)
 keywords: vbaac10.chm14326
 f1_keywords:
 - vbaac10.chm14326
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Layout Property (Access)
+# EmptyCell.Layout property (Access)
 
 Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

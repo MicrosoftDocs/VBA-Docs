@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo.Dependencies Property (Access)
+title: DependencyInfo.Dependencies property (Access)
 keywords: vbaac10.chm13275
 f1_keywords:
 - vbaac10.chm13275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo.Dependencies Property (Access)
+# DependencyInfo.Dependencies property (Access)
 
 Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that represents the objects that the specified **[AccessObject](Access.AccessObject.md)** object depends upon. Read-only.
 

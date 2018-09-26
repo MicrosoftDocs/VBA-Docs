@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineStyleBottom Property (Access)
+title: ToggleButton.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11787
 f1_keywords:
 - vbaac10.chm11787
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineStyleBottom Property (Access)
+# ToggleButton.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified toggle button. Read/write  **Byte**.
 

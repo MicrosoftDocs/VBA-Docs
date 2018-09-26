@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.SmartTags Property (Access)
+title: NavigationControl.SmartTags property (Access)
 keywords: vbaac10.chm11148
 f1_keywords:
 - vbaac10.chm11148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.SmartTags Property (Access)
+# NavigationControl.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 

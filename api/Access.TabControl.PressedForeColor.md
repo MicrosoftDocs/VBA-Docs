@@ -1,5 +1,5 @@
 ---
-title: TabControl.PressedForeColor Property (Access)
+title: TabControl.PressedForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.PressedForeColor Property (Access)
+# TabControl.PressedForeColor property (Access)
 
 Gets or sets the color of the text displayed on the control when the user clicks it. Read/write  **Long**.
 

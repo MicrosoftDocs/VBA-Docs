@@ -1,5 +1,5 @@
 ---
-title: PageBreak.EventProcPrefix Property (Access)
+title: PageBreak.EventProcPrefix property (Access)
 keywords: vbaac10.chm11671
 f1_keywords:
 - vbaac10.chm11671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.EventProcPrefix Property (Access)
+# PageBreak.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

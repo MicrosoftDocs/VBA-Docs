@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineStyleRight Property (Access)
+title: Image.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10419
 f1_keywords:
 - vbaac10.chm10419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineStyleRight Property (Access)
+# Image.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified image control. Read/write  **Byte**.
 

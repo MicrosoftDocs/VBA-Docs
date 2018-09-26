@@ -1,5 +1,5 @@
 ---
-title: Control.Selected Property (Access)
+title: Control.Selected property (Access)
 keywords: vbaac10.chm10137
 f1_keywords:
 - vbaac10.chm10137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Selected Property (Access)
+# Control.Selected property (Access)
 
 You can use the  **Selected** property in Visual Basic to determine if an item is selected. Read/write **Long**.
 

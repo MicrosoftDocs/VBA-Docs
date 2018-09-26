@@ -1,5 +1,5 @@
 ---
-title: TextBox.DisplayWhen Property (Access)
+title: TextBox.DisplayWhen property (Access)
 keywords: vbaac10.chm11057
 f1_keywords:
 - vbaac10.chm11057
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.DisplayWhen Property (Access)
+# TextBox.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 

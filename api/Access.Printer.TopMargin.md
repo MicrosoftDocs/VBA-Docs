@@ -1,5 +1,5 @@
 ---
-title: Printer.TopMargin Property (Access)
+title: Printer.TopMargin property (Access)
 keywords: vbaac10.chm12869
 f1_keywords:
 - vbaac10.chm12869
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.TopMargin Property (Access)
+# Printer.TopMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **BottomMargin** properties, specifies the margins for a printed page. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.BaseConnectionString Property (Access)
+title: CurrentProject.BaseConnectionString property (Access)
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.BaseConnectionString Property (Access)
+# CurrentProject.BaseConnectionString property (Access)
 
 You can use the  **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
 

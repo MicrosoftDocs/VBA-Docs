@@ -1,5 +1,5 @@
 ---
-title: Form.OnLostFocus Property (Access)
+title: Form.OnLostFocus property (Access)
 keywords: vbaac10.chm13448
 f1_keywords:
 - vbaac10.chm13448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnLostFocus Property (Access)
+# Form.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

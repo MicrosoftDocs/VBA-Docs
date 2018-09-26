@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.StatusBarText Property (Access)
+title: NavigationButton.StatusBarText property (Access)
 keywords: vbaac10.chm10458
 f1_keywords:
 - vbaac10.chm10458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.StatusBarText Property (Access)
+# NavigationButton.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

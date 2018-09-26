@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BeforeUpdate Property (Access)
+title: OptionGroup.BeforeUpdate property (Access)
 keywords: vbaac10.chm10862
 f1_keywords:
 - vbaac10.chm10862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BeforeUpdate Property (Access)
+# OptionGroup.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 

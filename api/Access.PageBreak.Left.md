@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Left Property (Access)
+title: PageBreak.Left property (Access)
 keywords: vbaac10.chm11674
 f1_keywords:
 - vbaac10.chm11674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Left Property (Access)
+# PageBreak.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

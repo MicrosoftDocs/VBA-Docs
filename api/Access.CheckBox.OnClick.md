@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnClick Property (Access)
+title: CheckBox.OnClick property (Access)
 keywords: vbaac10.chm10741
 f1_keywords:
 - vbaac10.chm10741
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnClick Property (Access)
+# CheckBox.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

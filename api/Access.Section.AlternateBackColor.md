@@ -1,5 +1,5 @@
 ---
-title: Section.AlternateBackColor Property (Access)
+title: Section.AlternateBackColor property (Access)
 keywords: vbaac10.chm12226
 f1_keywords:
 - vbaac10.chm12226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.AlternateBackColor Property (Access)
+# Section.AlternateBackColor property (Access)
 
 Gets or sets the background color to display on alternate rows of the specified section. Read/write  **Long**.
 

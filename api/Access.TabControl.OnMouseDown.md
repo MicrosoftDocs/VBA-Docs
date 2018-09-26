@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnMouseDown Property (Access)
+title: TabControl.OnMouseDown property (Access)
 keywords: vbaac10.chm12107
 f1_keywords:
 - vbaac10.chm12107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnMouseDown Property (Access)
+# TabControl.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

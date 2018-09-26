@@ -1,5 +1,5 @@
 ---
-title: Report.ScaleHeight Property (Access)
+title: Report.ScaleHeight property (Access)
 keywords: vbaac10.chm13743
 f1_keywords:
 - vbaac10.chm13743
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ScaleHeight Property (Access)
+# Report.ScaleHeight property (Access)
 
 You can use the  **ScaleHeight** property to specify the number of units for the vertical measurement of the page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
 

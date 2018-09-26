@@ -1,5 +1,5 @@
 ---
-title: Control.GridlineStyleBottom Property (Access)
+title: Control.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10163
 f1_keywords:
 - vbaac10.chm10163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.GridlineStyleBottom Property (Access)
+# Control.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified control. Read/write  **Byte**.
 

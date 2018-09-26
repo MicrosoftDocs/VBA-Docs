@@ -1,5 +1,5 @@
 ---
-title: Control.TopPadding Property (Access)
+title: Control.TopPadding property (Access)
 keywords: vbaac10.chm10157
 f1_keywords:
 - vbaac10.chm10157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.TopPadding Property (Access)
+# Control.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the control and its top gridline. Read/write  **Integer**.
 

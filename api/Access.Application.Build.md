@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Access)
+title: Application.Build property (Access)
 keywords: vbaac10.chm12600
 f1_keywords:
 - vbaac10.chm12600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Build Property (Access)
+# Application.Build property (Access)
 
 Returns as a  **Long** representing the build number of the currently installed copy of Microsoft Access. Read-only.
 

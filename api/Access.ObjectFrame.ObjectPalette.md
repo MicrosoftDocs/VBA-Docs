@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.ObjectPalette Property (Access)
+title: ObjectFrame.ObjectPalette property (Access)
 keywords: vbaac10.chm11607
 f1_keywords:
 - vbaac10.chm11607
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.ObjectPalette Property (Access)
+# ObjectFrame.ObjectPalette property (Access)
 
 The  **ObjectPalette** property specifies the palette in the application used to create an OLE object. Read/write **Variant**.
 

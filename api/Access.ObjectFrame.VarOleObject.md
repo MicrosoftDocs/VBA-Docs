@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.VarOleObject Property (Access)
+title: ObjectFrame.VarOleObject property (Access)
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.VarOleObject Property (Access)
+# ObjectFrame.VarOleObject property (Access)
 
  Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant**.
 

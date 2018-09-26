@@ -1,5 +1,5 @@
 ---
-title: Form.AllowDatasheetView Property (Access)
+title: Form.AllowDatasheetView property (Access)
 keywords: vbaac10.chm13533
 f1_keywords:
 - vbaac10.chm13533
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowDatasheetView Property (Access)
+# Form.AllowDatasheetView property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified form may be viewed in Datasheet View. **True** if Datasheet View is allowed. Read/write.
 

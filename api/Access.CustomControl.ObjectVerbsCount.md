@@ -1,5 +1,5 @@
 ---
-title: CustomControl.ObjectVerbsCount Property (Access)
+title: CustomControl.ObjectVerbsCount property (Access)
 keywords: vbaac10.chm12037
 f1_keywords:
 - vbaac10.chm12037
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.ObjectVerbsCount Property (Access)
+# CustomControl.ObjectVerbsCount property (Access)
 
 You can use the  **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.UseTheme Property (Access)
+title: ToggleButton.UseTheme property (Access)
 keywords: vbaac10.chm14627
 f1_keywords:
 - vbaac10.chm14627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.UseTheme Property (Access)
+# ToggleButton.UseTheme property (Access)
 
 Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write  **Boolean**.
 

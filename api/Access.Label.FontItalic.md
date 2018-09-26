@@ -1,5 +1,5 @@
 ---
-title: Label.FontItalic Property (Access)
+title: Label.FontItalic property (Access)
 keywords: vbaac10.chm10213
 f1_keywords:
 - vbaac10.chm10213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontItalic Property (Access)
+# Label.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

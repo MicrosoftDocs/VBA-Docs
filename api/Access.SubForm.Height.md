@@ -1,5 +1,5 @@
 ---
-title: SubForm.Height Property (Access)
+title: SubForm.Height property (Access)
 keywords: vbaac10.chm11941
 f1_keywords:
 - vbaac10.chm11941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Height Property (Access)
+# SubForm.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.HideDuplicates Property (Access)
+title: CheckBox.HideDuplicates property (Access)
 keywords: vbaac10.chm10708
 f1_keywords:
 - vbaac10.chm10708
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.HideDuplicates Property (Access)
+# CheckBox.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 

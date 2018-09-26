@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Controls Property (Access)
+title: ToggleButton.Controls property (Access)
 keywords: vbaac10.chm11695
 f1_keywords:
 - vbaac10.chm11695
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Controls Property (Access)
+# ToggleButton.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

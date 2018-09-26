@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.SourceDoc Property (Access)
+title: ObjectFrame.SourceDoc property (Access)
 keywords: vbaac10.chm11575
 f1_keywords:
 - vbaac10.chm11575
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.SourceDoc Property (Access)
+# ObjectFrame.SourceDoc property (Access)
 
 You can use the  **SourceDoc** property to specify the file to create a link to or to embed when you create a linked object or embedded object by using the **Action** property in Visual Basic. Read/write **String**.
 

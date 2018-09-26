@@ -1,5 +1,5 @@
 ---
-title: CodeData.AllFunctions Property (Access)
+title: CodeData.AllFunctions property (Access)
 keywords: vbaac10.chm12737
 f1_keywords:
 - vbaac10.chm12737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData.AllFunctions Property (Access)
+# CodeData.AllFunctions property (Access)
 
 You can use the  **AllFunctions** property to reference the **[AllFunctions](Access.AllFunctions.md)** collection and its related properties. Read-only **AllFunctions** object.
 

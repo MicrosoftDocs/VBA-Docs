@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineWidthBottom Property (Access)
+title: ComboBox.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm11492
 f1_keywords:
 - vbaac10.chm11492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineWidthBottom Property (Access)
+# ComboBox.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified combo box. Read/write  **Byte**.
 

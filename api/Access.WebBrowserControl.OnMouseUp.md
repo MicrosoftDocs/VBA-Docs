@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnMouseUp Property (Access)
+title: WebBrowserControl.OnMouseUp property (Access)
 keywords: vbaac10.chm14382
 f1_keywords:
 - vbaac10.chm14382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnMouseUp Property (Access)
+# WebBrowserControl.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

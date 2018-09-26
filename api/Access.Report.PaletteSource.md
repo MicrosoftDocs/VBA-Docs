@@ -1,5 +1,5 @@
 ---
-title: Report.PaletteSource Property (Access)
+title: Report.PaletteSource property (Access)
 keywords: vbaac10.chm13759
 f1_keywords:
 - vbaac10.chm13759
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PaletteSource Property (Access)
+# Report.PaletteSource property (Access)
 
 You can use the  **PaletteSource** property to specify the palette for a report. Read/write **String**.
 

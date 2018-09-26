@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnEnter Property (Access)
+title: OptionGroup.OnEnter property (Access)
 keywords: vbaac10.chm10864
 f1_keywords:
 - vbaac10.chm10864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnEnter Property (Access)
+# OptionGroup.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

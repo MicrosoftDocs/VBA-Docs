@@ -1,5 +1,5 @@
 ---
-title: CustomControl.OnEnter Property (Access)
+title: CustomControl.OnEnter property (Access)
 keywords: vbaac10.chm12041
 f1_keywords:
 - vbaac10.chm12041
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.OnEnter Property (Access)
+# CustomControl.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

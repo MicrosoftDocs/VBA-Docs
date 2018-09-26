@@ -1,5 +1,5 @@
 ---
-title: Report.ControlBox Property (Access)
+title: Report.ControlBox property (Access)
 keywords: vbaac10.chm13801
 f1_keywords:
 - vbaac10.chm13801
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ControlBox Property (Access)
+# Report.ControlBox property (Access)
 
 Specifies whether a report has a  **Control** menu in Report view. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.FontItalic Property (Access)
+title: Report.FontItalic property (Access)
 keywords: vbaac10.chm13749
 f1_keywords:
 - vbaac10.chm13749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FontItalic Property (Access)
+# Report.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

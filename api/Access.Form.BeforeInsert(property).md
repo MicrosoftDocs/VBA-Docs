@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeInsert Property (Access)
+title: Form.BeforeInsert property (Access)
 keywords: vbaac10.chm13432
 f1_keywords:
 - vbaac10.chm13432
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeInsert Property (Access)
+# Form.BeforeInsert property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[BeforeInsert](Access.Form.BeforeInsert(even).md)** event occurs. Read/write.
 

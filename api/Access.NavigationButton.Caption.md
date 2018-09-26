@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Caption Property (Access)
+title: NavigationButton.Caption property (Access)
 keywords: vbaac10.chm10450
 f1_keywords:
 - vbaac10.chm10450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Caption Property (Access)
+# NavigationButton.Caption property (Access)
 
 Gets or sets the text that appears in the control. Read/write  **String**.
 

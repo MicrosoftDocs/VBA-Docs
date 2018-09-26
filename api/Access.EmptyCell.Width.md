@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Width Property (Access)
+title: EmptyCell.Width property (Access)
 keywords: vbaac10.chm14309
 f1_keywords:
 - vbaac10.chm14309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Width Property (Access)
+# EmptyCell.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

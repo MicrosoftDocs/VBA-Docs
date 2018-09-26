@@ -1,5 +1,5 @@
 ---
-title: TabControl.VerticalAnchor Property (Access)
+title: TabControl.VerticalAnchor property (Access)
 keywords: vbaac10.chm12126
 f1_keywords:
 - vbaac10.chm12126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.VerticalAnchor Property (Access)
+# TabControl.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified tab control is anchored vertically within its layout. Read/write.
 

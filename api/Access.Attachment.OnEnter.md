@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnEnter Property (Access)
+title: Attachment.OnEnter property (Access)
 keywords: vbaac10.chm13939
 f1_keywords:
 - vbaac10.chm13939
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnEnter Property (Access)
+# Attachment.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of the specified object. Read/write **String**. .
 

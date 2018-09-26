@@ -1,5 +1,5 @@
 ---
-title: CodeData.AllQueries Property (Access)
+title: CodeData.AllQueries property (Access)
 keywords: vbaac10.chm12733
 f1_keywords:
 - vbaac10.chm12733
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData.AllQueries Property (Access)
+# CodeData.AllQueries property (Access)
 
 You can use the  **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
 

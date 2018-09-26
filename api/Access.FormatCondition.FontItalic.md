@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.FontItalic Property (Access)
+title: FormatCondition.FontItalic property (Access)
 keywords: vbaac10.chm10055
 f1_keywords:
 - vbaac10.chm10055
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.FontItalic Property (Access)
+# FormatCondition.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

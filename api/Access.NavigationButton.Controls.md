@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Controls Property (Access)
+title: NavigationButton.Controls property (Access)
 keywords: vbaac10.chm10445
 f1_keywords:
 - vbaac10.chm10445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Controls Property (Access)
+# NavigationButton.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

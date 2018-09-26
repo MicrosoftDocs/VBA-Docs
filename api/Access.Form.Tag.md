@@ -1,5 +1,5 @@
 ---
-title: Form.Tag Property (Access)
+title: Form.Tag property (Access)
 keywords: vbaac10.chm13425
 f1_keywords:
 - vbaac10.chm13425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Tag Property (Access)
+# Form.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

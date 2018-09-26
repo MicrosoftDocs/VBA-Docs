@@ -1,5 +1,5 @@
 ---
-title: AccessObject.FullName Property (Access)
+title: AccessObject.FullName property (Access)
 keywords: vbaac10.chm12751
 f1_keywords:
 - vbaac10.chm12751
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.FullName Property (Access)
+# AccessObject.FullName property (Access)
 
 Sets or returns the full path (including file name) of a specific object. Read/write  **String**.
 

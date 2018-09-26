@@ -1,5 +1,5 @@
 ---
-title: Form.Controls Property (Access)
+title: Form.Controls property (Access)
 keywords: vbaac10.chm13508
 f1_keywords:
 - vbaac10.chm13508
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Controls Property (Access)
+# Form.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.CanGrow Property (Access)
+title: ComboBox.CanGrow property (Access)
 keywords: vbaac10.chm11496
 f1_keywords:
 - vbaac10.chm11496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.CanGrow Property (Access)
+# ComboBox.CanGrow property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
 

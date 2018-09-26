@@ -1,5 +1,5 @@
 ---
-title: Page.Height Property (Access)
+title: Page.Height property (Access)
 keywords: vbaac10.chm12158
 f1_keywords:
 - vbaac10.chm12158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Height Property (Access)
+# Page.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Label.LineSpacing Property (Access)
+title: Label.LineSpacing property (Access)
 keywords: vbaac10.chm10236
 f1_keywords:
 - vbaac10.chm10236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.LineSpacing Property (Access)
+# Label.LineSpacing property (Access)
 
 You can use the  **LineSpacing** property to specify or determine the location of information displayed within a label or text box control. Read/write **Integer**.
 

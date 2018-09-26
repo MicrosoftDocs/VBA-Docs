@@ -1,5 +1,5 @@
 ---
-title: Rectangle.SpecialEffect Property (Access)
+title: Rectangle.SpecialEffect property (Access)
 keywords: vbaac10.chm10289
 f1_keywords:
 - vbaac10.chm10289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.SpecialEffect Property (Access)
+# Rectangle.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 

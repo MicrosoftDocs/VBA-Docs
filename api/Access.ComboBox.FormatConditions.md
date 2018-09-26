@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FormatConditions Property (Access)
+title: ComboBox.FormatConditions property (Access)
 keywords: vbaac10.chm11369
 f1_keywords:
 - vbaac10.chm11369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FormatConditions Property (Access)
+# ComboBox.FormatConditions property (Access)
 
 You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OldValue Property (Access)
+title: BoundObjectFrame.OldValue property (Access)
 keywords: vbaac10.chm10898
 f1_keywords:
 - vbaac10.chm10898
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OldValue Property (Access)
+# BoundObjectFrame.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

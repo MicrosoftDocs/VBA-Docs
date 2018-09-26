@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnClick Property (Access)
+title: OptionGroup.OnClick property (Access)
 keywords: vbaac10.chm10866
 f1_keywords:
 - vbaac10.chm10866
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnClick Property (Access)
+# OptionGroup.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.TopPadding Property (Access)
+title: OptionButton.TopPadding property (Access)
 keywords: vbaac10.chm10642
 f1_keywords:
 - vbaac10.chm10642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.TopPadding Property (Access)
+# OptionButton.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the option button and its top gridline. Read/write  **Integer**.
 

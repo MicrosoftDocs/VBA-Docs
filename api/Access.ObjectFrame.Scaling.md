@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Scaling Property (Access)
+title: ObjectFrame.Scaling property (Access)
 keywords: vbaac10.chm11611
 f1_keywords:
 - vbaac10.chm11611
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Scaling Property (Access)
+# ObjectFrame.Scaling property (Access)
 
 Controls how the contents of an object frame control are displayed. Read/write  **Byte**.
 

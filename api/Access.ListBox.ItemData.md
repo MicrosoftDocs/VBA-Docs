@@ -1,5 +1,5 @@
 ---
-title: ListBox.ItemData Property (Access)
+title: ListBox.ItemData property (Access)
 keywords: vbaac10.chm11209
 f1_keywords:
 - vbaac10.chm11209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ItemData Property (Access)
+# ListBox.ItemData property (Access)
 
 The  **ItemData** property returns the data in the bound column for the specified row in a list box. Read-only **Variant**.
 

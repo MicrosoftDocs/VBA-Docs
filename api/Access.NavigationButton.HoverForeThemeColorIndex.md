@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HoverForeThemeColorIndex Property (Access)
+title: NavigationButton.HoverForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14616
 f1_keywords:
 - vbaac10.chm14616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HoverForeThemeColorIndex Property (Access)
+# NavigationButton.HoverForeThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **HoverForeColor** property of the specified object. Read/write **Long**.
 

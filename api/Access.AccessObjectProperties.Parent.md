@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperties.Parent Property (Access)
+title: AccessObjectProperties.Parent property (Access)
 keywords: vbaac10.chm12700
 f1_keywords:
 - vbaac10.chm12700
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperties.Parent Property (Access)
+# AccessObjectProperties.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

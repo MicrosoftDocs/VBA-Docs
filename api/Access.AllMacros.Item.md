@@ -1,5 +1,5 @@
 ---
-title: AllMacros.Item Property (Access)
+title: AllMacros.Item property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllMacros.Item Property (Access)
+# AllMacros.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **AccessObject**.
 

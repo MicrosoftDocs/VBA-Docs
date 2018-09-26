@@ -1,5 +1,5 @@
 ---
-title: CodeProject.ProjectType Property (Access)
+title: CodeProject.ProjectType property (Access)
 keywords: vbaac10.chm12712
 f1_keywords:
 - vbaac10.chm12712
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.ProjectType Property (Access)
+# CodeProject.ProjectType property (Access)
 
 You can use the  **ProjectType** property to determine the type of project that is currently open. Read-only **[AcProjectType](Access.AcProjectType.md)**.
 

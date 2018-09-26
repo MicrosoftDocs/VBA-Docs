@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.BorderWidth Property (Access)
+title: NavigationControl.BorderWidth property (Access)
 keywords: vbaac10.chm11081
 f1_keywords:
 - vbaac10.chm11081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.BorderWidth Property (Access)
+# NavigationControl.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 

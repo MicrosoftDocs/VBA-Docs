@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Application Property (Access)
+title: CheckBox.Application property (Access)
 keywords: vbaac10.chm10682
 f1_keywords:
 - vbaac10.chm10682
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Application Property (Access)
+# CheckBox.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

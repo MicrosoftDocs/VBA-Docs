@@ -1,5 +1,5 @@
 ---
-title: Report.OnDblClick Property (Access)
+title: Report.OnDblClick property (Access)
 keywords: vbaac10.chm13862
 f1_keywords:
 - vbaac10.chm13862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnDblClick Property (Access)
+# Report.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

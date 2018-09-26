@@ -1,5 +1,5 @@
 ---
-title: CurrentData.AllDatabaseDiagrams Property (Access)
+title: CurrentData.AllDatabaseDiagrams property (Access)
 keywords: vbaac10.chm12736
 f1_keywords:
 - vbaac10.chm12736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData.AllDatabaseDiagrams Property (Access)
+# CurrentData.AllDatabaseDiagrams property (Access)
 
 You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
 

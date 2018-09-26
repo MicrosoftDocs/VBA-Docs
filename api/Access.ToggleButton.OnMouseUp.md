@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnMouseUp Property (Access)
+title: ToggleButton.OnMouseUp property (Access)
 keywords: vbaac10.chm11757
 f1_keywords:
 - vbaac10.chm11757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnMouseUp Property (Access)
+# ToggleButton.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

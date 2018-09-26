@@ -1,5 +1,5 @@
 ---
-title: Image.HyperlinkAddress Property (Access)
+title: Image.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10372
 f1_keywords:
 - vbaac10.chm10372
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.HyperlinkAddress Property (Access)
+# Image.HyperlinkAddress property (Access)
 
 You can use the  **HyperlinkAddress** property to specify or determine the path to an object, document, Web page or other destination for a hyperlink associated with a the specified control. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Printers.Item Property (Access)
+title: Printers.Item property (Access)
 keywords: vbaac10.chm12884
 f1_keywords:
 - vbaac10.chm12884
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printers.Item Property (Access)
+# Printers.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Printer**.
 

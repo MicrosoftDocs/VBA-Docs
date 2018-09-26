@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.ControlSource Property (Access)
+title: GroupLevel.ControlSource property (Access)
 keywords: vbaac10.chm12239
 f1_keywords:
 - vbaac10.chm12239
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.ControlSource Property (Access)
+# GroupLevel.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 

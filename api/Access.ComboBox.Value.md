@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Value Property (Access)
+title: ComboBox.Value property (Access)
 keywords: vbaac10.chm11370
 f1_keywords:
 - vbaac10.chm11370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Value Property (Access)
+# ComboBox.Value property (Access)
 
 Determines or specifies which value or option in the combo box is selected. Read/write  **Variant**.
 

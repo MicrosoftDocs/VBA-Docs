@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnKeyDown Property (Access)
+title: WebBrowserControl.OnKeyDown property (Access)
 keywords: vbaac10.chm14383
 f1_keywords:
 - vbaac10.chm14383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnKeyDown Property (Access)
+# WebBrowserControl.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

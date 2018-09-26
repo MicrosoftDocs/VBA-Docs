@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.FontUnderline Property (Access)
+title: ToggleButton.FontUnderline property (Access)
 keywords: vbaac10.chm11727
 f1_keywords:
 - vbaac10.chm11727
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.FontUnderline Property (Access)
+# ToggleButton.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 

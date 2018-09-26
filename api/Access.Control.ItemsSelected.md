@@ -1,5 +1,5 @@
 ---
-title: Control.ItemsSelected Property (Access)
+title: Control.ItemsSelected property (Access)
 keywords: vbaac10.chm10147
 f1_keywords:
 - vbaac10.chm10147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.ItemsSelected Property (Access)
+# Control.ItemsSelected property (Access)
 
 You can use the  **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect list box control.
 

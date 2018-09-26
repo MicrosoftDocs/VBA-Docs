@@ -1,5 +1,5 @@
 ---
-title: Attachment.BeforeUpdate Property (Access)
+title: Attachment.BeforeUpdate property (Access)
 keywords: vbaac10.chm13937
 f1_keywords:
 - vbaac10.chm13937
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BeforeUpdate Property (Access)
+# Attachment.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 

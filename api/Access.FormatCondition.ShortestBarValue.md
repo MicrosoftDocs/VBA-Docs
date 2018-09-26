@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.ShortestBarValue Property (Access)
+title: FormatCondition.ShortestBarValue property (Access)
 keywords: vbaac10.chm14531
 f1_keywords:
 - vbaac10.chm14531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.ShortestBarValue Property (Access)
+# FormatCondition.ShortestBarValue property (Access)
 
 Gets or sets a numeric expression that specifies the value of the shortest bar of a  **[FormatCondition](Access.FormatCondition.md)**. Read/write **String**.
 

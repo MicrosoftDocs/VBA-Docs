@@ -1,5 +1,5 @@
 ---
-title: TextBox.BorderWidth Property (Access)
+title: TextBox.BorderWidth property (Access)
 keywords: vbaac10.chm11081
 f1_keywords:
 - vbaac10.chm11081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BorderWidth Property (Access)
+# TextBox.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 

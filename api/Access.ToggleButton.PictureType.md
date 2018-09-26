@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.PictureType Property (Access)
+title: ToggleButton.PictureType property (Access)
 keywords: vbaac10.chm11703
 f1_keywords:
 - vbaac10.chm11703
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.PictureType Property (Access)
+# ToggleButton.PictureType property (Access)
 
 You can use the  **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 

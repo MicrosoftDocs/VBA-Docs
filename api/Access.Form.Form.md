@@ -1,5 +1,5 @@
 ---
-title: Form.Form Property (Access)
+title: Form.Form property (Access)
 keywords: vbaac10.chm13499
 f1_keywords:
 - vbaac10.chm13499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Form Property (Access)
+# Form.Form property (Access)
 
 You can use the  **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
 

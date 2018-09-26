@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineStyleBottom Property (Access)
+title: NavigationButton.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10531
 f1_keywords:
 - vbaac10.chm10531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineStyleBottom Property (Access)
+# NavigationButton.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified list box. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.AfterUpdate Property (Access)
+title: CheckBox.AfterUpdate property (Access)
 keywords: vbaac10.chm10736
 f1_keywords:
 - vbaac10.chm10736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.AfterUpdate Property (Access)
+# CheckBox.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

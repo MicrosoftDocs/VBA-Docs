@@ -1,5 +1,5 @@
 ---
-title: Form.HelpFile Property (Access)
+title: Form.HelpFile property (Access)
 keywords: vbaac10.chm13393
 f1_keywords:
 - vbaac10.chm13393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.HelpFile Property (Access)
+# Form.HelpFile property (Access)
 
 The name of a help file associated with a form. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.OnKeyPress Property (Access)
+title: Form.OnKeyPress property (Access)
 keywords: vbaac10.chm13456
 f1_keywords:
 - vbaac10.chm13456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnKeyPress Property (Access)
+# Form.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

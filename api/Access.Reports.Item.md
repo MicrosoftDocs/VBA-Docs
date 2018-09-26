@@ -1,5 +1,5 @@
 ---
-title: Reports.Item Property (Access)
+title: Reports.Item property (Access)
 keywords: vbaac10.chm12481
 f1_keywords:
 - vbaac10.chm12481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reports.Item Property (Access)
+# Reports.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Report**.
 

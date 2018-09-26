@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnEnter Property (Access)
+title: ToggleButton.OnEnter property (Access)
 keywords: vbaac10.chm11749
 f1_keywords:
 - vbaac10.chm11749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnEnter Property (Access)
+# ToggleButton.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

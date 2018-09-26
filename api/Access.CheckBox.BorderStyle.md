@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BorderStyle Property (Access)
+title: CheckBox.BorderStyle property (Access)
 keywords: vbaac10.chm10714
 f1_keywords:
 - vbaac10.chm10714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BorderStyle Property (Access)
+# CheckBox.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 

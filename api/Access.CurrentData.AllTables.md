@@ -1,5 +1,5 @@
 ---
-title: CurrentData.AllTables Property (Access)
+title: CurrentData.AllTables property (Access)
 keywords: vbaac10.chm12732
 f1_keywords:
 - vbaac10.chm12732
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData.AllTables Property (Access)
+# CurrentData.AllTables property (Access)
 
 You can use the  **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
 

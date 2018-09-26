@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Controls Property (Access)
+title: OptionButton.Controls property (Access)
 keywords: vbaac10.chm10563
 f1_keywords:
 - vbaac10.chm10563
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Controls Property (Access)
+# OptionButton.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

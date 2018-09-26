@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Object Property (Access)
+title: CustomControl.Object property (Access)
 keywords: vbaac10.chm11998
 f1_keywords:
 - vbaac10.chm11998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Object Property (Access)
+# CustomControl.Object property (Access)
 
 You can use the  **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
 

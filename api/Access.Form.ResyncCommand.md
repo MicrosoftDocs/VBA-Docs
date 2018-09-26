@@ -1,5 +1,5 @@
 ---
-title: Form.ResyncCommand Property (Access)
+title: Form.ResyncCommand property (Access)
 keywords: vbaac10.chm13486
 f1_keywords:
 - vbaac10.chm13486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ResyncCommand Property (Access)
+# Form.ResyncCommand property (Access)
 
 You can use the  **ResyncCommand** property to specify or determine the SQL statement or stored procedure that will be used in an updateable snapshot of a table. Read/write **String**.
 

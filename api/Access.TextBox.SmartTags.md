@@ -1,5 +1,5 @@
 ---
-title: TextBox.SmartTags Property (Access)
+title: TextBox.SmartTags property (Access)
 keywords: vbaac10.chm11148
 f1_keywords:
 - vbaac10.chm11148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.SmartTags Property (Access)
+# TextBox.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 

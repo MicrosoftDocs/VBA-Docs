@@ -1,5 +1,5 @@
 ---
-title: Form.PopUp Property (Access)
+title: Form.PopUp property (Access)
 keywords: vbaac10.chm13369
 f1_keywords:
 - vbaac10.chm13369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PopUp Property (Access)
+# Form.PopUp property (Access)
 
 Specifies whether a form opens as a pop-up window. Read/write  **Boolean**.
 

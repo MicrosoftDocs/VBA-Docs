@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Tag Property (Access)
+title: NavigationControl.Tag property (Access)
 keywords: vbaac10.chm11105
 f1_keywords:
 - vbaac10.chm11105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Tag Property (Access)
+# NavigationControl.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

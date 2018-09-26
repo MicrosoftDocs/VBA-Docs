@@ -1,5 +1,5 @@
 ---
-title: CommandButton.RightPadding Property (Access)
+title: CommandButton.RightPadding property (Access)
 keywords: vbaac10.chm10526
 f1_keywords:
 - vbaac10.chm10526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.RightPadding Property (Access)
+# CommandButton.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the button and its right gridline. Read/write  **Integer**.
 

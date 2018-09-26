@@ -1,5 +1,5 @@
 ---
-title: Form.Cycle Property (Access)
+title: Form.Cycle property (Access)
 keywords: vbaac10.chm13384
 f1_keywords:
 - vbaac10.chm13384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Cycle Property (Access)
+# Form.Cycle property (Access)
 
 You can use the  **Cycle** property to specify what happens when you press the TAB key and the focus is in the last control on a bound form. Read/write **Byte**.
 

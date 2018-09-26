@@ -1,5 +1,5 @@
 ---
-title: WSParameters.Item Property (Access)
+title: WSParameters.Item property (Access)
 keywords: vbaac10.chm14579
 f1_keywords:
 - vbaac10.chm14579
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WSParameters.Item Property (Access)
+# WSParameters.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 

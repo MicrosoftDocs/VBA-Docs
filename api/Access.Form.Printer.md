@@ -1,5 +1,5 @@
 ---
-title: Form.Printer Property (Access)
+title: Form.Printer property (Access)
 keywords: vbaac10.chm13523
 f1_keywords:
 - vbaac10.chm13523
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Printer Property (Access)
+# Form.Printer property (Access)
 
 Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 

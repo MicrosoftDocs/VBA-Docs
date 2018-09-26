@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperties.Parent Property (Access)
+title: SmartTagProperties.Parent property (Access)
 keywords: vbaac10.chm13312
 f1_keywords:
 - vbaac10.chm13312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperties.Parent Property (Access)
+# SmartTagProperties.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

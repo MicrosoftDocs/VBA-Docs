@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.AutoLabel Property (Access)
+title: BoundObjectFrame.AutoLabel property (Access)
 keywords: vbaac10.chm10945
 f1_keywords:
 - vbaac10.chm10945
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.AutoLabel Property (Access)
+# BoundObjectFrame.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

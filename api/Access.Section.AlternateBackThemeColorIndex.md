@@ -1,5 +1,5 @@
 ---
-title: Section.AlternateBackThemeColorIndex Property (Access)
+title: Section.AlternateBackThemeColorIndex property (Access)
 keywords: vbaac10.chm14607
 f1_keywords:
 - vbaac10.chm14607
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.AlternateBackThemeColorIndex Property (Access)
+# Section.AlternateBackThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **AlternateBackColor** property of the section. Read/write **Long**.
 

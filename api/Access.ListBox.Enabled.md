@@ -1,5 +1,5 @@
 ---
-title: ListBox.Enabled Property (Access)
+title: ListBox.Enabled property (Access)
 keywords: vbaac10.chm11235
 f1_keywords:
 - vbaac10.chm11235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Enabled Property (Access)
+# ListBox.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.DecimalPlaces Property (Access)
+title: ComboBox.DecimalPlaces property (Access)
 keywords: vbaac10.chm11376
 f1_keywords:
 - vbaac10.chm11376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.DecimalPlaces Property (Access)
+# ComboBox.DecimalPlaces property (Access)
 
 You can use the  **DecimalPlaces** property to specify the number of decimal places Microsoft Access uses to display numbers. Read/write **Byte**.
 

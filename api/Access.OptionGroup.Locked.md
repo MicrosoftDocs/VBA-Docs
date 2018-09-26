@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Locked Property (Access)
+title: OptionGroup.Locked property (Access)
 keywords: vbaac10.chm10830
 f1_keywords:
 - vbaac10.chm10830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Locked Property (Access)
+# OptionGroup.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

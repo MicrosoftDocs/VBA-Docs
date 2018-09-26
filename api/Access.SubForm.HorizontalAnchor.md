@@ -1,5 +1,5 @@
 ---
-title: SubForm.HorizontalAnchor Property (Access)
+title: SubForm.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11979
 f1_keywords:
 - vbaac10.chm11979
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.HorizontalAnchor Property (Access)
+# SubForm.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the subform is anchored horizontally within its layout. Read/write.
 

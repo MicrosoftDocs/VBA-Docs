@@ -1,5 +1,5 @@
 ---
-title: CommandButton.OnExit Property (Access)
+title: CommandButton.OnExit property (Access)
 keywords: vbaac10.chm10494
 f1_keywords:
 - vbaac10.chm10494
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.OnExit Property (Access)
+# CommandButton.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

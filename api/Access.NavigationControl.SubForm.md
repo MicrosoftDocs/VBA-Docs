@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.SubForm Property (Access)
+title: NavigationControl.SubForm property (Access)
 keywords: vbaac10.chm14640
 f1_keywords:
 - vbaac10.chm14640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.SubForm Property (Access)
+# NavigationControl.SubForm property (Access)
 
 Gets or sets the name of the  **[SubForm](Access.SubForm.md)** object used to display forms. Read/write **String**.
 

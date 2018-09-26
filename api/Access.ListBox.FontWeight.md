@@ -1,5 +1,5 @@
 ---
-title: ListBox.FontWeight Property (Access)
+title: ListBox.FontWeight property (Access)
 keywords: vbaac10.chm11255
 f1_keywords:
 - vbaac10.chm11255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.FontWeight Property (Access)
+# ListBox.FontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 

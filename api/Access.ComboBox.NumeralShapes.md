@@ -1,5 +1,5 @@
 ---
-title: ComboBox.NumeralShapes Property (Access)
+title: ComboBox.NumeralShapes property (Access)
 keywords: vbaac10.chm11467
 f1_keywords:
 - vbaac10.chm11467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.NumeralShapes Property (Access)
+# ComboBox.NumeralShapes property (Access)
 
 
 

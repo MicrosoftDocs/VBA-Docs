@@ -1,5 +1,5 @@
 ---
-title: WebService.Parent Property (Access)
+title: WebService.Parent property (Access)
 keywords: vbaac10.chm14557
 f1_keywords:
 - vbaac10.chm14557
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebService.Parent Property (Access)
+# WebService.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

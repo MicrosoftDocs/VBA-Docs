@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnKeyUp Property (Access)
+title: CheckBox.OnKeyUp property (Access)
 keywords: vbaac10.chm10747
 f1_keywords:
 - vbaac10.chm10747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnKeyUp Property (Access)
+# CheckBox.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

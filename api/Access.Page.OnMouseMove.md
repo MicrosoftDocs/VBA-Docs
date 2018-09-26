@@ -1,5 +1,5 @@
 ---
-title: Page.OnMouseMove Property (Access)
+title: Page.OnMouseMove property (Access)
 keywords: vbaac10.chm12170
 f1_keywords:
 - vbaac10.chm12170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnMouseMove Property (Access)
+# Page.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

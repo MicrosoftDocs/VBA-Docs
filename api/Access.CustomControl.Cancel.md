@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Cancel Property (Access)
+title: CustomControl.Cancel property (Access)
 keywords: vbaac10.chm12046
 f1_keywords:
 - vbaac10.chm12046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Cancel Property (Access)
+# CustomControl.Cancel property (Access)
 
 You can use the  **Cancel** property to specify whether a command button is also the Cancel button on a form. Read/write **Boolean**.
 

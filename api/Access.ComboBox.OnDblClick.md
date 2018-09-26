@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnDblClick Property (Access)
+title: ComboBox.OnDblClick property (Access)
 keywords: vbaac10.chm11456
 f1_keywords:
 - vbaac10.chm11456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnDblClick Property (Access)
+# ComboBox.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

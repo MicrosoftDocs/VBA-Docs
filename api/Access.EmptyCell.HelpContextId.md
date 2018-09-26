@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.HelpContextId Property (Access)
+title: EmptyCell.HelpContextId property (Access)
 keywords: vbaac10.chm14314
 f1_keywords:
 - vbaac10.chm14314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.HelpContextId Property (Access)
+# EmptyCell.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: AllTables.Application Property (Access)
+title: AllTables.Application property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllTables.Application Property (Access)
+# AllTables.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

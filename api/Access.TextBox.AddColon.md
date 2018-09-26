@@ -1,5 +1,5 @@
 ---
-title: TextBox.AddColon Property (Access)
+title: TextBox.AddColon property (Access)
 keywords: vbaac10.chm11099
 f1_keywords:
 - vbaac10.chm11099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AddColon Property (Access)
+# TextBox.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ListBox.HorizontalAnchor Property (Access)
+title: ListBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11319
 f1_keywords:
 - vbaac10.chm11319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.HorizontalAnchor Property (Access)
+# ListBox.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the list box is anchored horizontally within its layout. Read/write.
 

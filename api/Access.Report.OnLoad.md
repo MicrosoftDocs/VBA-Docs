@@ -1,5 +1,5 @@
 ---
-title: Report.OnLoad Property (Access)
+title: Report.OnLoad property (Access)
 keywords: vbaac10.chm13856
 f1_keywords:
 - vbaac10.chm13856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnLoad Property (Access)
+# Report.OnLoad property (Access)
 
 Sets or returns the value of the  **On Load** box in the **Properties** window of a report. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.BottomPadding Property (Access)
+title: TabControl.BottomPadding property (Access)
 keywords: vbaac10.chm14539
 f1_keywords:
 - vbaac10.chm14539
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.BottomPadding Property (Access)
+# TabControl.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
 

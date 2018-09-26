@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineStyleLeft Property (Access)
+title: OptionButton.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm10645
 f1_keywords:
 - vbaac10.chm10645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineStyleLeft Property (Access)
+# OptionButton.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified option button. Read/write  **Byte**.
 

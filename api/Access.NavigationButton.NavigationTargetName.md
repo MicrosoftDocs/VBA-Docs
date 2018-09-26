@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.NavigationTargetName Property (Access)
+title: NavigationButton.NavigationTargetName property (Access)
 keywords: vbaac10.chm14641
 f1_keywords:
 - vbaac10.chm14641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.NavigationTargetName Property (Access)
+# NavigationButton.NavigationTargetName property (Access)
 
 Gets or sets the name of the form or report to be displayed when the user click the specified navigation button. Read/write  **String**.
 

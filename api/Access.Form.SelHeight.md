@@ -1,5 +1,5 @@
 ---
-title: Form.SelHeight Property (Access)
+title: Form.SelHeight property (Access)
 keywords: vbaac10.chm13472
 f1_keywords:
 - vbaac10.chm13472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelHeight Property (Access)
+# Form.SelHeight property (Access)
 
 You can use the  **SelHeight** property to specify or determine the number of selected rows (records) in the current selection rectangle in a table, query, or form datasheet, or the number of selected records in a continuous form. Read/write **Long**.
 

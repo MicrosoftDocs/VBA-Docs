@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnEnter Property (Access)
+title: TextBox.OnEnter property (Access)
 keywords: vbaac10.chm11118
 f1_keywords:
 - vbaac10.chm11118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnEnter Property (Access)
+# TextBox.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

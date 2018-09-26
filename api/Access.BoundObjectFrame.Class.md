@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Class Property (Access)
+title: BoundObjectFrame.Class property (Access)
 keywords: vbaac10.chm10912
 f1_keywords:
 - vbaac10.chm10912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Class Property (Access)
+# BoundObjectFrame.Class property (Access)
 
 You can use the  **Class** property to specify or determine the class name of an embeddedOLE object. Read/write **String**.
 

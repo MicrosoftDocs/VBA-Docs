@@ -1,5 +1,5 @@
 ---
-title: Application.Forms Property (Access)
+title: Application.Forms property (Access)
 keywords: vbaac10.chm12508
 f1_keywords:
 - vbaac10.chm12508
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Forms Property (Access)
+# Application.Forms property (Access)
 
 You can use the  **Forms** property to return a read-only reference to the **[Forms](Access.Forms.md)** collection and its related properties.
 

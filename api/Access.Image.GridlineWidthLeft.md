@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineWidthLeft Property (Access)
+title: Image.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm10421
 f1_keywords:
 - vbaac10.chm10421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineWidthLeft Property (Access)
+# Image.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified image control. Read/write  **Byte**.
 

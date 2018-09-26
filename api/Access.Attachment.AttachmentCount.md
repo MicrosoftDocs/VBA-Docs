@@ -1,5 +1,5 @@
 ---
-title: Attachment.AttachmentCount Property (Access)
+title: Attachment.AttachmentCount property (Access)
 keywords: vbaac10.chm13979
 f1_keywords:
 - vbaac10.chm13979
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.AttachmentCount Property (Access)
+# Attachment.AttachmentCount property (Access)
 
 Gets the number of documents attached to the specified  **Attachment** control. Read-only **Long**.
 

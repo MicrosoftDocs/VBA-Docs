@@ -1,5 +1,5 @@
 ---
-title: ComboBox.LeftMargin Property (Access)
+title: ComboBox.LeftMargin property (Access)
 keywords: vbaac10.chm11520
 f1_keywords:
 - vbaac10.chm11520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.LeftMargin Property (Access)
+# ComboBox.LeftMargin property (Access)
 
 Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**. .
 

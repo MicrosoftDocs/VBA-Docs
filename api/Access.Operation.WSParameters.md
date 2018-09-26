@@ -1,5 +1,5 @@
 ---
-title: Operation.WSParameters Property (Access)
+title: Operation.WSParameters property (Access)
 keywords: vbaac10.chm14577
 f1_keywords:
 - vbaac10.chm14577
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Operation.WSParameters Property (Access)
+# Operation.WSParameters property (Access)
 
 Gets the collection of parameters defined for the specified operation. Read-only [WSParameters](Access.WSParameters.md).
 

@@ -1,5 +1,5 @@
 ---
-title: Application.NewFileTaskPane Property (Access)
+title: Application.NewFileTaskPane property (Access)
 keywords: vbaac10.chm12605
 f1_keywords:
 - vbaac10.chm12605
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NewFileTaskPane Property (Access)
+# Application.NewFileTaskPane property (Access)
 
 Returns a  **NewFile** object that represents a document listed on the **New File** task pane. Read-only **NewFile** object.
 

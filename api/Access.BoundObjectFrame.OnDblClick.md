@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnDblClick Property (Access)
+title: BoundObjectFrame.OnDblClick property (Access)
 keywords: vbaac10.chm10969
 f1_keywords:
 - vbaac10.chm10969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnDblClick Property (Access)
+# BoundObjectFrame.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

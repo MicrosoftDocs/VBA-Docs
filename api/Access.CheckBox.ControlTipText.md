@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ControlTipText Property (Access)
+title: CheckBox.ControlTipText property (Access)
 keywords: vbaac10.chm10720
 f1_keywords:
 - vbaac10.chm10720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ControlTipText Property (Access)
+# CheckBox.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.HorizontalAnchor Property (Access)
+title: WebBrowserControl.HorizontalAnchor property (Access)
 keywords: vbaac10.chm14402
 f1_keywords:
 - vbaac10.chm14402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.HorizontalAnchor Property (Access)
+# WebBrowserControl.HorizontalAnchor property (Access)
 
 Gets or sets an [AcHorizontalAnchor](Access.AcHorizontalAnchor.md) constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 

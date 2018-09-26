@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnEnter Property (Access)
+title: ListBox.OnEnter property (Access)
 keywords: vbaac10.chm11280
 f1_keywords:
 - vbaac10.chm11280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnEnter Property (Access)
+# ListBox.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

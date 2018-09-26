@@ -1,5 +1,5 @@
 ---
-title: TextBox.GridlineWidthTop Property (Access)
+title: TextBox.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11161
 f1_keywords:
 - vbaac10.chm11161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GridlineWidthTop Property (Access)
+# TextBox.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 

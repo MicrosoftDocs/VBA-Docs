@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineStyleRight Property (Access)
+title: NavigationControl.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11158
 f1_keywords:
 - vbaac10.chm11158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineStyleRight Property (Access)
+# NavigationControl.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
 

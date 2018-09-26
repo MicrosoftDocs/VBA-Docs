@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnKeyDown Property (Access)
+title: CheckBox.OnKeyDown property (Access)
 keywords: vbaac10.chm10746
 f1_keywords:
 - vbaac10.chm10746
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnKeyDown Property (Access)
+# CheckBox.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

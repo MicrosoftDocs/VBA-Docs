@@ -1,5 +1,5 @@
 ---
-title: Form.CommandEnabled Property (Access)
+title: Form.CommandEnabled property (Access)
 keywords: vbaac10.chm13544,vbaac10.chm5108
 f1_keywords:
 - vbaac10.chm13544,vbaac10.chm5108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandEnabled Property (Access)
+# Form.CommandEnabled property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[CommandEnabled](Access.Form.CommandEnabled(even).md)** event occurs. Read/write.
 

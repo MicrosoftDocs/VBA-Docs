@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ColumnOrder Property (Access)
+title: CheckBox.ColumnOrder property (Access)
 keywords: vbaac10.chm10723
 f1_keywords:
 - vbaac10.chm10723
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ColumnOrder Property (Access)
+# CheckBox.ColumnOrder property (Access)
 
 You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 

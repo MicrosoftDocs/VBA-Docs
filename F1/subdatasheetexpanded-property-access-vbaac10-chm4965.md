@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.SubdatasheetExpanded Property (Access)](http://msdn.microsoft.com/library/543f2398-ca70-5261-0f9f-e1d864c442e0%28Office.15%29.aspx)
+[Form.SubdatasheetExpanded property (Access)](http://msdn.microsoft.com/library/543f2398-ca70-5261-0f9f-e1d864c442e0%28Office.15%29.aspx)
 

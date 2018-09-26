@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ListItemsEditForm Property (Access)
+title: ComboBox.ListItemsEditForm property (Access)
 keywords: vbaac10.chm11518
 f1_keywords:
 - vbaac10.chm11518
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ListItemsEditForm Property (Access)
+# ComboBox.ListItemsEditForm property (Access)
 
 Gets or sets the name of the form that is displayed when the user clicks  **Edit List Items**. Read/write  **String**.
 

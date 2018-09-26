@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnExit Property (Access)
+title: ComboBox.OnExit property (Access)
 keywords: vbaac10.chm11452
 f1_keywords:
 - vbaac10.chm11452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnExit Property (Access)
+# ComboBox.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

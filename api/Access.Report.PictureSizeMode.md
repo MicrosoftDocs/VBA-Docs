@@ -1,5 +1,5 @@
 ---
-title: Report.PictureSizeMode Property (Access)
+title: Report.PictureSizeMode property (Access)
 keywords: vbaac10.chm13706
 f1_keywords:
 - vbaac10.chm13706
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PictureSizeMode Property (Access)
+# Report.PictureSizeMode property (Access)
 
 You can use the  **PictureSizeMode** property to specify how a picture for a form or report is sized. Read/write **Byte**.
 

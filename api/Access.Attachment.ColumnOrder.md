@@ -1,5 +1,5 @@
 ---
-title: Attachment.ColumnOrder Property (Access)
+title: Attachment.ColumnOrder property (Access)
 keywords: vbaac10.chm14009
 f1_keywords:
 - vbaac10.chm14009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.ColumnOrder Property (Access)
+# Attachment.ColumnOrder property (Access)
 
 You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 

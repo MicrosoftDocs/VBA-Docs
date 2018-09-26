@@ -1,5 +1,5 @@
 ---
-title: Attachment.Name Property (Access)
+title: Attachment.Name property (Access)
 keywords: vbaac10.chm13974
 f1_keywords:
 - vbaac10.chm13974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Name Property (Access)
+# Attachment.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

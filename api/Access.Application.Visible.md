@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (Access)
+title: Application.Visible property (Access)
 keywords: vbaac10.chm12513
 f1_keywords:
 - vbaac10.chm12513
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Visible Property (Access)
+# Application.Visible property (Access)
 
 Returns or sets whether a Microsoft Access application is minimized. Read/write  **Boolean**.
 

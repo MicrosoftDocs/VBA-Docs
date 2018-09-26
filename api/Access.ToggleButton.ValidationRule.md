@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ValidationRule Property (Access)
+title: ToggleButton.ValidationRule property (Access)
 keywords: vbaac10.chm11707
 f1_keywords:
 - vbaac10.chm11707
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ValidationRule Property (Access)
+# ToggleButton.ValidationRule property (Access)
 
 You can use the  **ValidationRule** property to specify requirements for data entered into a record, field, or control. When data is entered that violates the **ValidationRule** setting, you can use the **ValidationText** property to specify the message to be displayed to the user. Read/write **String**.
 

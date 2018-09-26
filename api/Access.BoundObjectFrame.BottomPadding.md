@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BottomPadding Property (Access)
+title: BoundObjectFrame.BottomPadding property (Access)
 keywords: vbaac10.chm10998
 f1_keywords:
 - vbaac10.chm10998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BottomPadding Property (Access)
+# BoundObjectFrame.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the object frame and its bottom gridline. Read/write  **Integer**.
 

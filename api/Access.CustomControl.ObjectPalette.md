@@ -1,5 +1,5 @@
 ---
-title: CustomControl.ObjectPalette Property (Access)
+title: CustomControl.ObjectPalette property (Access)
 keywords: vbaac10.chm12035
 f1_keywords:
 - vbaac10.chm12035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.ObjectPalette Property (Access)
+# CustomControl.ObjectPalette property (Access)
 
 The  **ObjectPalette** property specifies the palette in the application used to create an OLE object. Read/write **Variant**.
 

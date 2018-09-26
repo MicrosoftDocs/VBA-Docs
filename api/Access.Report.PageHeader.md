@@ -1,5 +1,5 @@
 ---
-title: Report.PageHeader Property (Access)
+title: Report.PageHeader property (Access)
 keywords: vbaac10.chm13697,vbaac10.chm5495
 f1_keywords:
 - vbaac10.chm13697,vbaac10.chm5495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PageHeader Property (Access)
+# Report.PageHeader property (Access)
 
 You can use the  **PageHeader** property to specify whether a report's page header is printed on the same page as a report header. Read/write **Byte**.
 

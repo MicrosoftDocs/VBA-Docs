@@ -1,5 +1,5 @@
 ---
-title: ListBox.AllowValueListEdits Property (Access)
+title: ListBox.AllowValueListEdits property (Access)
 keywords: vbaac10.chm11335
 f1_keywords:
 - vbaac10.chm11335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.AllowValueListEdits Property (Access)
+# ListBox.AllowValueListEdits property (Access)
 
 Gets or sets whether the  **Edit List Items** command is available when the user right-clicks a list box. Read/write **Boolean**.
 

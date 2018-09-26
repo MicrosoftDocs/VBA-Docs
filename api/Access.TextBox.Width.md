@@ -1,5 +1,5 @@
 ---
-title: TextBox.Width Property (Access)
+title: TextBox.Width property (Access)
 keywords: vbaac10.chm11073
 f1_keywords:
 - vbaac10.chm11073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Width Property (Access)
+# TextBox.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

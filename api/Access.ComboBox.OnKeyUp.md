@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnKeyUp Property (Access)
+title: ComboBox.OnKeyUp property (Access)
 keywords: vbaac10.chm11461
 f1_keywords:
 - vbaac10.chm11461
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnKeyUp Property (Access)
+# ComboBox.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Printer.ItemSizeHeight Property (Access)
+title: Printer.ItemSizeHeight property (Access)
 keywords: vbaac10.chm12877
 f1_keywords:
 - vbaac10.chm12877
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.ItemSizeHeight Property (Access)
+# Printer.ItemSizeHeight property (Access)
 
 Returns or sets a  **Long** indicating the height of the detail section of a form or report in twips. Read/write.
 

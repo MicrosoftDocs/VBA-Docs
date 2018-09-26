@@ -1,5 +1,5 @@
 ---
-title: Form.PaintPalette Property (Access)
+title: Form.PaintPalette property (Access)
 keywords: vbaac10.chm13426
 f1_keywords:
 - vbaac10.chm13426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PaintPalette Property (Access)
+# Form.PaintPalette property (Access)
 
 You can use the  **PaintPalette** property to specify a palette to be used by a form. Read/write **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.Text Property (Access)
+title: TextBox.Text property (Access)
 keywords: vbaac10.chm11106
 f1_keywords:
 - vbaac10.chm11106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Text Property (Access)
+# TextBox.Text property (Access)
 
 You can use the  **Text** property to set or return the text **Value** contained in a text box. Read/write **String**.
 

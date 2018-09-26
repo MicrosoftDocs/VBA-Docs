@@ -1,5 +1,5 @@
 ---
-title: Module.ProcStartLine Property (Access)
+title: Module.ProcStartLine property (Access)
 keywords: vbaac10.chm12280
 f1_keywords:
 - vbaac10.chm12280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcStartLine Property (Access)
+# Module.ProcStartLine property (Access)
 
 The  **ProcStartLine** property returns avalue identifying the line at which a specified procedure begins in a standard module or a class module. Read-only **Long**.
 

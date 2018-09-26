@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Alignment Property (Access)
+title: CommandButton.Alignment property (Access)
 keywords: vbaac10.chm14292
 f1_keywords:
 - vbaac10.chm14292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Alignment Property (Access)
+# CommandButton.Alignment property (Access)
 
 Gets or sets how the specified button's caption and picture are aligned. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.GridY Property (Access)
+title: Report.GridY property (Access)
 keywords: vbaac10.chm13714
 f1_keywords:
 - vbaac10.chm13714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.GridY Property (Access)
+# Report.GridY property (Access)
 
 You can use the  **GridY** property (along with the **GridX** property) to specify the horizontal and vertical divisions of the alignment grid in report Design view. Read/write **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.TabIndex Property (Access)
+title: ToggleButton.TabIndex property (Access)
 keywords: vbaac10.chm11716
 f1_keywords:
 - vbaac10.chm11716
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.TabIndex Property (Access)
+# ToggleButton.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 

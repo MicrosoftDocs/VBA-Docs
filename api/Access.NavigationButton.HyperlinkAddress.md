@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HyperlinkAddress Property (Access)
+title: NavigationButton.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10460
 f1_keywords:
 - vbaac10.chm10460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HyperlinkAddress Property (Access)
+# NavigationButton.HyperlinkAddress property (Access)
 
 You can use the  **HyperlinkAddress** property to specify or determine the path to an object, document, Web page or other destination for a hyperlink associated with a the specified control. Read/write **String**.
 

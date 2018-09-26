@@ -1,5 +1,5 @@
 ---
-title: Form.KeyPreview Property (Access)
+title: Form.KeyPreview property (Access)
 keywords: vbaac10.chm13457
 f1_keywords:
 - vbaac10.chm13457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.KeyPreview Property (Access)
+# Form.KeyPreview property (Access)
 
 You can use the  **KeyPreview** property to specify whether the form-level keyboard event procedures are invoked before a control's keyboard event procedures. Read/write **Boolean**.
 

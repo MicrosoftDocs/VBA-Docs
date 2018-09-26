@@ -1,5 +1,5 @@
 ---
-title: Label.Height Property (Access)
+title: Label.Height property (Access)
 keywords: vbaac10.chm10200
 f1_keywords:
 - vbaac10.chm10200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Height Property (Access)
+# Label.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

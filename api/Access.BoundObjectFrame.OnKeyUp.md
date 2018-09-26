@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnKeyUp Property (Access)
+title: BoundObjectFrame.OnKeyUp property (Access)
 keywords: vbaac10.chm10974
 f1_keywords:
 - vbaac10.chm10974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnKeyUp Property (Access)
+# BoundObjectFrame.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineWidthTop Property (Access)
+title: Label.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10254
 f1_keywords:
 - vbaac10.chm10254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineWidthTop Property (Access)
+# Label.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified label. Read/write  **Byte**.
 

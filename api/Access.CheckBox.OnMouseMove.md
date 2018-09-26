@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnMouseMove Property (Access)
+title: CheckBox.OnMouseMove property (Access)
 keywords: vbaac10.chm10744
 f1_keywords:
 - vbaac10.chm10744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnMouseMove Property (Access)
+# CheckBox.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

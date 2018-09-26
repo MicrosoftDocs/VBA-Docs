@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.EventProcPrefix Property (Access)
+title: OptionGroup.EventProcPrefix property (Access)
 keywords: vbaac10.chm10819
 f1_keywords:
 - vbaac10.chm10819
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.EventProcPrefix Property (Access)
+# OptionGroup.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

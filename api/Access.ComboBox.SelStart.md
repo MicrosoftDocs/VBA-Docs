@@ -1,5 +1,5 @@
 ---
-title: ComboBox.SelStart Property (Access)
+title: ComboBox.SelStart property (Access)
 keywords: vbaac10.chm11438
 f1_keywords:
 - vbaac10.chm11438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.SelStart Property (Access)
+# ComboBox.SelStart property (Access)
 
 The  **SelStart** property specifies or determines the starting point of the selected text or the position of the insertion point if no text is selected. Read/write **Integer**.
 

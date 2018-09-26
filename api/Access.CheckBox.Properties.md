@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Properties Property (Access)
+title: CheckBox.Properties property (Access)
 keywords: vbaac10.chm10686
 f1_keywords:
 - vbaac10.chm10686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Properties Property (Access)
+# CheckBox.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

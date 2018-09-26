@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecification.XML Property (Access)
+title: ImportExportSpecification.XML property (Access)
 keywords: vbaac10.chm13333
 f1_keywords:
 - vbaac10.chm13333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecification.XML Property (Access)
+# ImportExportSpecification.XML property (Access)
 
 Gets or sets the Extensible Markup Language (XML) string that defines an  **[ImportExportSpecification](Access.ImportExportSpecification.md)** object. Read/write **String**.
 

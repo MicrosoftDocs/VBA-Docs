@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnDocumentComplete Property (Access)
+title: WebBrowserControl.OnDocumentComplete property (Access)
 keywords: vbaac10.chm14414
 f1_keywords:
 - vbaac10.chm14414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnDocumentComplete Property (Access)
+# WebBrowserControl.OnDocumentComplete property (Access)
 
 Gets or sets the value of the  **On Document Complete** box in the property sheet os a Web Browser control. Read/write **String**.
 

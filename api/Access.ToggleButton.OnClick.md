@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnClick Property (Access)
+title: ToggleButton.OnClick property (Access)
 keywords: vbaac10.chm11753
 f1_keywords:
 - vbaac10.chm11753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnClick Property (Access)
+# ToggleButton.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

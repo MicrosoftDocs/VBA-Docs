@@ -1,5 +1,5 @@
 ---
-title: Form.FilterOnLoad Property (Access)
+title: Form.FilterOnLoad property (Access)
 keywords: vbaac10.chm13561
 f1_keywords:
 - vbaac10.chm13561
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.FilterOnLoad Property (Access)
+# Form.FilterOnLoad property (Access)
 
 Gets or sets whether the filter specified by the  **[Filter](Access.Form.Filter(property).md)** property is applied when the form is loaded. Read/write **Boolean**.
 

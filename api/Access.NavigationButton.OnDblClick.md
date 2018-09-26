@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnDblClick Property (Access)
+title: NavigationButton.OnDblClick property (Access)
 keywords: vbaac10.chm10498
 f1_keywords:
 - vbaac10.chm10498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnDblClick Property (Access)
+# NavigationButton.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.OnDblClick Property (Access)
+title: Form.OnDblClick property (Access)
 keywords: vbaac10.chm13450
 f1_keywords:
 - vbaac10.chm13450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnDblClick Property (Access)
+# Form.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

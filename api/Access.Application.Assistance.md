@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Access)
+title: Application.Assistance property (Access)
 keywords: vbaac10.chm12621
 f1_keywords:
 - vbaac10.chm12621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Assistance Property (Access)
+# Application.Assistance property (Access)
 
 Returns an  **[IAssistance](Office.IAssistance.md)** object that represents the Microsoft Office Help Viewer. Read-only.
 

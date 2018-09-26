@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.AllForms Property (Access)
+title: CurrentProject.AllForms property (Access)
 keywords: vbaac10.chm12707
 f1_keywords:
 - vbaac10.chm12707
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.AllForms Property (Access)
+# CurrentProject.AllForms property (Access)
 
 You can use the  **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
 

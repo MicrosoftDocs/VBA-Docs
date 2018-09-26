@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineStyleRight Property (Access)
+title: CheckBox.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10774
 f1_keywords:
 - vbaac10.chm10774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineStyleRight Property (Access)
+# CheckBox.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified check box. Read/write  **Byte**.
 

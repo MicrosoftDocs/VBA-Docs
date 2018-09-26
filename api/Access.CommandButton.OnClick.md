@@ -1,5 +1,5 @@
 ---
-title: CommandButton.OnClick Property (Access)
+title: CommandButton.OnClick property (Access)
 keywords: vbaac10.chm10497
 f1_keywords:
 - vbaac10.chm10497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.OnClick Property (Access)
+# CommandButton.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

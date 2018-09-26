@@ -1,5 +1,5 @@
 ---
-title: Module.CountOfDeclarationLines Property (Access)
+title: Module.CountOfDeclarationLines property (Access)
 keywords: vbaac10.chm12284
 f1_keywords:
 - vbaac10.chm12284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.CountOfDeclarationLines Property (Access)
+# Module.CountOfDeclarationLines property (Access)
 
 The  **CountOfDeclarationLines** property returns a **Long** value indicating the number of lines of code in the Declarations section in a standard module or class module. Read-only **Long**.
 

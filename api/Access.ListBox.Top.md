@@ -1,5 +1,5 @@
 ---
-title: ListBox.Top Property (Access)
+title: ListBox.Top property (Access)
 keywords: vbaac10.chm11242
 f1_keywords:
 - vbaac10.chm11242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Top Property (Access)
+# ListBox.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

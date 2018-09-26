@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineWidthBottom Property (Access)
+title: ListBox.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm11317
 f1_keywords:
 - vbaac10.chm11317
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineWidthBottom Property (Access)
+# ListBox.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified list box. Read/write  **Byte**.
 

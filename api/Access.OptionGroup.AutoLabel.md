@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.AutoLabel Property (Access)
+title: OptionGroup.AutoLabel property (Access)
 keywords: vbaac10.chm10852
 f1_keywords:
 - vbaac10.chm10852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.AutoLabel Property (Access)
+# OptionGroup.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

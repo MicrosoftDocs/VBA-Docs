@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnDblClick Property (Access)
+title: ListBox.OnDblClick property (Access)
 keywords: vbaac10.chm11285
 f1_keywords:
 - vbaac10.chm11285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnDblClick Property (Access)
+# ListBox.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OnOpen Property (Access)
+title: Report.OnOpen property (Access)
 keywords: vbaac10.chm13763
 f1_keywords:
 - vbaac10.chm13763
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnOpen Property (Access)
+# Report.OnOpen property (Access)
 
 Sets or returns the value of the  **On Open** box in the **Properties** window of a form or report. Read/write **String**.
 

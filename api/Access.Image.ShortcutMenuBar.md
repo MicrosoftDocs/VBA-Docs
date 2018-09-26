@@ -1,5 +1,5 @@
 ---
-title: Image.ShortcutMenuBar Property (Access)
+title: Image.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm10399
 f1_keywords:
 - vbaac10.chm10399
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.ShortcutMenuBar Property (Access)
+# Image.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.
 

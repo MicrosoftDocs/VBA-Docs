@@ -1,5 +1,5 @@
 ---
-title: Label.BackShade Property (Access)
+title: Label.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.BackShade Property (Access)
+# Label.BackShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 

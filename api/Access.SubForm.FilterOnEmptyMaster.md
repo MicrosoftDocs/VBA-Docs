@@ -1,5 +1,5 @@
 ---
-title: SubForm.FilterOnEmptyMaster Property (Access)
+title: SubForm.FilterOnEmptyMaster property (Access)
 keywords: vbaac10.chm11981
 f1_keywords:
 - vbaac10.chm11981
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.FilterOnEmptyMaster Property (Access)
+# SubForm.FilterOnEmptyMaster property (Access)
 
 Gets or sets whether all records are displayed when the subform's master field is  **Null**. Read/write **Boolean**.
 

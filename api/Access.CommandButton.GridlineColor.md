@@ -1,5 +1,5 @@
 ---
-title: CommandButton.GridlineColor Property (Access)
+title: CommandButton.GridlineColor property (Access)
 keywords: vbaac10.chm10536
 f1_keywords:
 - vbaac10.chm10536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.GridlineColor Property (Access)
+# CommandButton.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified command button. Read/write  **Long**.
 

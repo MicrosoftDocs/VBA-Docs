@@ -1,5 +1,5 @@
 ---
-title: Entity.Name Property (Access)
+title: Entity.Name property (Access)
 keywords: vbaac10.chm14567
 f1_keywords:
 - vbaac10.chm14567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Entity.Name Property (Access)
+# Entity.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

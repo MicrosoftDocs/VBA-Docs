@@ -1,5 +1,5 @@
 ---
-title: Image.LeftPadding Property (Access)
+title: Image.LeftPadding property (Access)
 keywords: vbaac10.chm10413
 f1_keywords:
 - vbaac10.chm10413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.LeftPadding Property (Access)
+# Image.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the image control and its left gridline. Read/write  **Integer**.
 

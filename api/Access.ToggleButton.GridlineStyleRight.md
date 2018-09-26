@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineStyleRight Property (Access)
+title: ToggleButton.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11786
 f1_keywords:
 - vbaac10.chm11786
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineStyleRight Property (Access)
+# ToggleButton.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified toggle button. Read/write  **Byte**.
 

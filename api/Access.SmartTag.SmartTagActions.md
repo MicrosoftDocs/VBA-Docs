@@ -1,5 +1,5 @@
 ---
-title: SmartTag.SmartTagActions Property (Access)
+title: SmartTag.SmartTagActions property (Access)
 keywords: vbaac10.chm13322
 f1_keywords:
 - vbaac10.chm13322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag.SmartTagActions Property (Access)
+# SmartTag.SmartTagActions property (Access)
 
 Returns a  **[SmartTagActions](Access.SmartTagActions.md)** collection that represents the actions available for a specific smart tag. Read-only.
 

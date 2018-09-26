@@ -1,5 +1,5 @@
 ---
-title: Page.InSelection Property (Access)
+title: Page.InSelection property (Access)
 keywords: vbaac10.chm12166
 f1_keywords:
 - vbaac10.chm12166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.InSelection Property (Access)
+# Page.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ListBox.LeftPadding Property (Access)
+title: ListBox.LeftPadding property (Access)
 keywords: vbaac10.chm11306
 f1_keywords:
 - vbaac10.chm11306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.LeftPadding Property (Access)
+# ListBox.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its left gridline. Read/write  **Integer**.
 

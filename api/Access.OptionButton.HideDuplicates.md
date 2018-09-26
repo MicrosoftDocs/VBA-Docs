@@ -1,5 +1,5 @@
 ---
-title: OptionButton.HideDuplicates Property (Access)
+title: OptionButton.HideDuplicates property (Access)
 keywords: vbaac10.chm10581
 f1_keywords:
 - vbaac10.chm10581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.HideDuplicates Property (Access)
+# OptionButton.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 

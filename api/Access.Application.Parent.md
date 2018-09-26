@@ -1,5 +1,5 @@
 ---
-title: Application.Parent Property (Access)
+title: Application.Parent property (Access)
 keywords: vbaac10.chm12496
 f1_keywords:
 - vbaac10.chm12496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Parent Property (Access)
+# Application.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

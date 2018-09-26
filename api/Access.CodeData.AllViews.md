@@ -1,5 +1,5 @@
 ---
-title: CodeData.AllViews Property (Access)
+title: CodeData.AllViews property (Access)
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData.AllViews Property (Access)
+# CodeData.AllViews property (Access)
 
 You can use the  **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
 

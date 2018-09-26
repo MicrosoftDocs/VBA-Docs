@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Parent Property (Access)
+title: FormatConditions.Parent property (Access)
 keywords: vbaac10.chm10068
 f1_keywords:
 - vbaac10.chm10068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.Parent Property (Access)
+# FormatConditions.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

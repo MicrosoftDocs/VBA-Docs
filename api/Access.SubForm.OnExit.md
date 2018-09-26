@@ -1,5 +1,5 @@
 ---
-title: SubForm.OnExit Property (Access)
+title: SubForm.OnExit property (Access)
 keywords: vbaac10.chm11959
 f1_keywords:
 - vbaac10.chm11959
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.OnExit Property (Access)
+# SubForm.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

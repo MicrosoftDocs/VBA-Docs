@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ControlType Property (Access)
+title: CheckBox.ControlType property (Access)
 keywords: vbaac10.chm10694
 f1_keywords:
 - vbaac10.chm10694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ControlType Property (Access)
+# CheckBox.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

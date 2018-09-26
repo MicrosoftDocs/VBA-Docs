@@ -1,5 +1,5 @@
 ---
-title: Label.NumeralShapes Property (Access)
+title: Label.NumeralShapes property (Access)
 keywords: vbaac10.chm10232
 f1_keywords:
 - vbaac10.chm10232
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.NumeralShapes Property (Access)
+# Label.NumeralShapes property (Access)
 
 
 

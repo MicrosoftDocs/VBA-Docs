@@ -1,5 +1,5 @@
 ---
-title: TabControl.Application Property (Access)
+title: TabControl.Application property (Access)
 keywords: vbaac10.chm12065
 f1_keywords:
 - vbaac10.chm12065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Application Property (Access)
+# TabControl.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

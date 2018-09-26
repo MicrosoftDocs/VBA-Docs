@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetAlternateBackColor Property (Access)
+title: Form.DatasheetAlternateBackColor property (Access)
 keywords: vbaac10.chm13628
 f1_keywords:
 - vbaac10.chm13628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetAlternateBackColor Property (Access)
+# Form.DatasheetAlternateBackColor property (Access)
 
 Gets or sets the color displayed on alternate rows of a form's datasheet. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnDblClick Property (Access)
+title: OptionGroup.OnDblClick property (Access)
 keywords: vbaac10.chm10867
 f1_keywords:
 - vbaac10.chm10867
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnDblClick Property (Access)
+# OptionGroup.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

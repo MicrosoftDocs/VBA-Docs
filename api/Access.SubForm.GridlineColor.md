@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineColor Property (Access)
+title: SubForm.GridlineColor property (Access)
 keywords: vbaac10.chm11978
 f1_keywords:
 - vbaac10.chm11978
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineColor Property (Access)
+# SubForm.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified subform. Read/write  **Long**.
 

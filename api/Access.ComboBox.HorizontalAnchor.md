@@ -1,5 +1,5 @@
 ---
-title: ComboBox.HorizontalAnchor Property (Access)
+title: ComboBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11499
 f1_keywords:
 - vbaac10.chm11499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.HorizontalAnchor Property (Access)
+# ComboBox.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the combo box is anchored horizontally within its layout. Read/write.
 

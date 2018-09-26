@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Controls Property (Access)
+title: CheckBox.Controls property (Access)
 keywords: vbaac10.chm10690
 f1_keywords:
 - vbaac10.chm10690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Controls Property (Access)
+# CheckBox.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

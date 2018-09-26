@@ -1,5 +1,5 @@
 ---
-title: CheckBox.HorizontalAnchor Property (Access)
+title: CheckBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10781
 f1_keywords:
 - vbaac10.chm10781
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.HorizontalAnchor Property (Access)
+# CheckBox.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the check box is anchored horizontally within its layout. Read/write.
 

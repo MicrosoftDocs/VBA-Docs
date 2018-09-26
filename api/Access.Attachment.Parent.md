@@ -1,5 +1,5 @@
 ---
-title: Attachment.Parent Property (Access)
+title: Attachment.Parent property (Access)
 keywords: vbaac10.chm13904
 f1_keywords:
 - vbaac10.chm13904
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Parent Property (Access)
+# Attachment.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

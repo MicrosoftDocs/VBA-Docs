@@ -1,5 +1,5 @@
 ---
-title: TextBox.Format Property (Access)
+title: TextBox.Format property (Access)
 keywords: vbaac10.chm11044
 f1_keywords:
 - vbaac10.chm11044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Format Property (Access)
+# TextBox.Format property (Access)
 
 You can use the  **Format** property to customize the way numbers, dates, times, and text are displayed and printed. Read/write **String**.
 

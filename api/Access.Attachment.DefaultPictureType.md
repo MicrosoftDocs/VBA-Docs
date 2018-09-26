@@ -1,5 +1,5 @@
 ---
-title: Attachment.DefaultPictureType Property (Access)
+title: Attachment.DefaultPictureType property (Access)
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.DefaultPictureType Property (Access)
+# Attachment.DefaultPictureType property (Access)
 
 Gets or sets the method used to store the image specified by the  **[DefaultPicture](Access.Attachment.DefaultPicture.md)** property in the database. Read/write **Byte**.
 

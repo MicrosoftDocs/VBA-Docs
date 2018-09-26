@@ -1,5 +1,5 @@
 ---
-title: OptionButton.EventProcPrefix Property (Access)
+title: OptionButton.EventProcPrefix property (Access)
 keywords: vbaac10.chm10565
 f1_keywords:
 - vbaac10.chm10565
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.EventProcPrefix Property (Access)
+# OptionButton.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

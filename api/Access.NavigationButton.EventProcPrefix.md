@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.EventProcPrefix Property (Access)
+title: NavigationButton.EventProcPrefix property (Access)
 keywords: vbaac10.chm10447
 f1_keywords:
 - vbaac10.chm10447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.EventProcPrefix Property (Access)
+# NavigationButton.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

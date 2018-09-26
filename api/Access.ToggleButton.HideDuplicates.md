@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.HideDuplicates Property (Access)
+title: ToggleButton.HideDuplicates property (Access)
 keywords: vbaac10.chm11717
 f1_keywords:
 - vbaac10.chm11717
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.HideDuplicates Property (Access)
+# ToggleButton.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.TopPadding Property (Access)
+title: BoundObjectFrame.TopPadding property (Access)
 keywords: vbaac10.chm10996
 f1_keywords:
 - vbaac10.chm10996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.TopPadding Property (Access)
+# BoundObjectFrame.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the object frame and its top gridline. Read/write  **Integer**.
 

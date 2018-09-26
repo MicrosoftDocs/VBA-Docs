@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.LayoutID Property (Access)
+title: NavigationButton.LayoutID property (Access)
 keywords: vbaac10.chm10539
 f1_keywords:
 - vbaac10.chm10539
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.LayoutID Property (Access)
+# NavigationButton.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
 

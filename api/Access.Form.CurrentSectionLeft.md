@@ -1,5 +1,5 @@
 ---
-title: Form.CurrentSectionLeft Property (Access)
+title: Form.CurrentSectionLeft property (Access)
 keywords: vbaac10.chm13468
 f1_keywords:
 - vbaac10.chm13468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CurrentSectionLeft Property (Access)
+# Form.CurrentSectionLeft property (Access)
 
 You can use this property to determine the distance in twips from the left side of the current section to the left side of the form. Read/write  **Integer**.
 

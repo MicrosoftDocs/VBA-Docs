@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnLostFocus Property (Access)
+title: ComboBox.OnLostFocus property (Access)
 keywords: vbaac10.chm11454
 f1_keywords:
 - vbaac10.chm11454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnLostFocus Property (Access)
+# ComboBox.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

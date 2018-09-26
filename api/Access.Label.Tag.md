@@ -1,5 +1,5 @@
 ---
-title: Label.Tag Property (Access)
+title: Label.Tag property (Access)
 keywords: vbaac10.chm10230
 f1_keywords:
 - vbaac10.chm10230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Tag Property (Access)
+# Label.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

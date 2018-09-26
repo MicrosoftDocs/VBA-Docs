@@ -1,5 +1,5 @@
 ---
-title: Form.SplitFormSize Property (Access)
+title: Form.SplitFormSize property (Access)
 keywords: vbaac10.chm13630
 f1_keywords:
 - vbaac10.chm13630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SplitFormSize Property (Access)
+# Form.SplitFormSize property (Access)
 
 Gets or sets the size in twips of the form when it's displayed in Split Form view. Read/write  **Long**.
 

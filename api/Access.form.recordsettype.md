@@ -1,5 +1,5 @@
 ---
-title: Form.RecordsetType Property (Access)
+title: Form.RecordsetType property (Access)
 keywords: vbaac10.chm13361
 f1_keywords:
 - vbaac10.chm13361
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.RecordsetType Property (Access)
+# Form.RecordsetType property (Access)
 
 You can use the  **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.
 

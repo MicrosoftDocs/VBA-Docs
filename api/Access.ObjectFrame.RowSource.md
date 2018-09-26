@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.RowSource Property (Access)
+title: ObjectFrame.RowSource property (Access)
 keywords: vbaac10.chm11564
 f1_keywords:
 - vbaac10.chm11564
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.RowSource Property (Access)
+# ObjectFrame.RowSource property (Access)
 
 You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.
 

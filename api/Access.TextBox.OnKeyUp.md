@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnKeyUp Property (Access)
+title: TextBox.OnKeyUp property (Access)
 keywords: vbaac10.chm11128
 f1_keywords:
 - vbaac10.chm11128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnKeyUp Property (Access)
+# TextBox.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

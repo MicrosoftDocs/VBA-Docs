@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ControlTipText Property (Access)
+title: ToggleButton.ControlTipText property (Access)
 keywords: vbaac10.chm11731
 f1_keywords:
 - vbaac10.chm11731
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ControlTipText Property (Access)
+# ToggleButton.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 

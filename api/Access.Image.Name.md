@@ -1,5 +1,5 @@
 ---
-title: Image.Name Property (Access)
+title: Image.Name property (Access)
 keywords: vbaac10.chm10404
 f1_keywords:
 - vbaac10.chm10404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Name Property (Access)
+# Image.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

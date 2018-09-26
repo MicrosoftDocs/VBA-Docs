@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Height Property (Access)
+title: ToggleButton.Height property (Access)
 keywords: vbaac10.chm11721
 f1_keywords:
 - vbaac10.chm11721
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Height Property (Access)
+# ToggleButton.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

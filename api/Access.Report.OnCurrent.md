@@ -1,5 +1,5 @@
 ---
-title: Report.OnCurrent Property (Access)
+title: Report.OnCurrent property (Access)
 keywords: vbaac10.chm13823
 f1_keywords:
 - vbaac10.chm13823
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnCurrent Property (Access)
+# Report.OnCurrent property (Access)
 
 Sets or returns the value of the  **On Current** property on the Report. Read/write **String**.
 

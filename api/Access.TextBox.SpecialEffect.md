@@ -1,5 +1,5 @@
 ---
-title: TextBox.SpecialEffect Property (Access)
+title: TextBox.SpecialEffect property (Access)
 keywords: vbaac10.chm11077
 f1_keywords:
 - vbaac10.chm11077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.SpecialEffect Property (Access)
+# TextBox.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 

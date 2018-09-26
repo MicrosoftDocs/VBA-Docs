@@ -1,5 +1,5 @@
 ---
-title: Attachment.FileURL Property (Access)
+title: Attachment.FileURL property (Access)
 keywords: vbaac10.chm13983
 f1_keywords:
 - vbaac10.chm13983
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.FileURL Property (Access)
+# Attachment.FileURL property (Access)
 
 Returns the Uniform Resource Locator (URL) of the specified attachment. Read-only  **String**.
 

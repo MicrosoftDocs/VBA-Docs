@@ -1,5 +1,5 @@
 ---
-title: TabControl.BorderStyle Property (Access)
+title: TabControl.BorderStyle property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.BorderStyle Property (Access)
+# TabControl.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 

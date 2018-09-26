@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineWidthLeft Property (Access)
+title: ListBox.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11314
 f1_keywords:
 - vbaac10.chm11314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineWidthLeft Property (Access)
+# ListBox.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified list box. Read/write  **Byte**.
 

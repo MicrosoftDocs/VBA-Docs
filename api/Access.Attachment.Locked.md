@@ -1,5 +1,5 @@
 ---
-title: Attachment.Locked Property (Access)
+title: Attachment.Locked property (Access)
 keywords: vbaac10.chm14016
 f1_keywords:
 - vbaac10.chm14016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Locked Property (Access)
+# Attachment.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

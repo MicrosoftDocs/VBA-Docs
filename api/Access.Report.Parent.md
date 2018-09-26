@@ -1,5 +1,5 @@
 ---
-title: Report.Parent Property (Access)
+title: Report.Parent property (Access)
 keywords: vbaac10.chm13779
 f1_keywords:
 - vbaac10.chm13779
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Parent Property (Access)
+# Report.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

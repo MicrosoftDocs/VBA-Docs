@@ -1,5 +1,5 @@
 ---
-title: Printer.DeviceName Property (Access)
+title: Printer.DeviceName property (Access)
 keywords: vbaac10.chm12859
 f1_keywords:
 - vbaac10.chm12859
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.DeviceName Property (Access)
+# Printer.DeviceName property (Access)
 
 Returns a  **String** indicating name of the specified printer device. Read-only.
 

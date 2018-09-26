@@ -1,5 +1,5 @@
 ---
-title: Report.NextRecord Property (Access)
+title: Report.NextRecord property (Access)
 keywords: vbaac10.chm13731
 f1_keywords:
 - vbaac10.chm13731
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.NextRecord Property (Access)
+# Report.NextRecord property (Access)
 
 The  **NextRecord** property specifies whether a section should advance to the next record. Read/write **Boolean**.
 

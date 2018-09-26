@@ -1,5 +1,5 @@
 ---
-title: CommandButton.AutoRepeat Property (Access)
+title: CommandButton.AutoRepeat property (Access)
 keywords: vbaac10.chm10457,vbaac10.chm4276
 f1_keywords:
 - vbaac10.chm10457,vbaac10.chm4276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.AutoRepeat Property (Access)
+# CommandButton.AutoRepeat property (Access)
 
 You can use the  **AutoRepeat** property to specify whether an event procedure or macro runs repeatedly while a command button on a form remains pressed in. Read/write **Boolean**.
 

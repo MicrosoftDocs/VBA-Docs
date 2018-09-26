@@ -1,5 +1,5 @@
 ---
-title: TextBox.Vertical Property (Access)
+title: TextBox.Vertical property (Access)
 keywords: vbaac10.chm11058
 f1_keywords:
 - vbaac10.chm11058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Vertical Property (Access)
+# TextBox.Vertical property (Access)
 
 You can use the  **Vertical** property to set a form control for vertical display and editing or set a report control for vertical display and printing. Read/write **Boolean**.
 

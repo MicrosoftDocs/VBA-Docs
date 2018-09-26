@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Action Property (Access)
+title: ObjectFrame.Action property (Access)
 keywords: vbaac10.chm11610
 f1_keywords:
 - vbaac10.chm11610
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Action Property (Access)
+# ObjectFrame.Action property (Access)
 
 You can use the  **Action** property in Visual Basic to specify the operation to perform on an OLE object. Read/write **Integer**.
 

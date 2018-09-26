@@ -1,5 +1,5 @@
 ---
-title: Properties.Count Property (Access)
+title: Properties.Count property (Access)
 keywords: vbaac10.chm10050
 f1_keywords:
 - vbaac10.chm10050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Properties.Count Property (Access)
+# Properties.Count property (Access)
 
 Returns the number of objects in the specified collection. Read-only.
 

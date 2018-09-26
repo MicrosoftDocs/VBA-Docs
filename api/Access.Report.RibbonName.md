@@ -1,5 +1,5 @@
 ---
-title: Report.RibbonName Property (Access)
+title: Report.RibbonName property (Access)
 keywords: vbaac10.chm13875
 f1_keywords:
 - vbaac10.chm13875
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.RibbonName Property (Access)
+# Report.RibbonName property (Access)
 
 Gets or set the name of the customized ribbon to be displayed when the specified report is loaded. Read/write  **String**.
 

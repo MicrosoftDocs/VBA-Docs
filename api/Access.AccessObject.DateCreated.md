@@ -1,5 +1,5 @@
 ---
-title: AccessObject.DateCreated Property (Access)
+title: AccessObject.DateCreated property (Access)
 keywords: vbaac10.chm12752
 f1_keywords:
 - vbaac10.chm12752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.DateCreated Property (Access)
+# AccessObject.DateCreated property (Access)
 
 Returns a  **Date** indicating the date and time when the design of the specified object was last modified. Read-only.
 

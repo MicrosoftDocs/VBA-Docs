@@ -1,5 +1,5 @@
 ---
-title: Report.Module Property (Access)
+title: Report.Module property (Access)
 keywords: vbaac10.chm13792
 f1_keywords:
 - vbaac10.chm13792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Module Property (Access)
+# Report.Module property (Access)
 
 You can use the  **Module** property to specify a report module. Read-only **Module** object.
 

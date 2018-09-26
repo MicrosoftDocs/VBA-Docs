@@ -1,5 +1,5 @@
 ---
-title: ListBox.IMESentenceMode Property (Access)
+title: ListBox.IMESentenceMode property (Access)
 keywords: vbaac10.chm11298
 f1_keywords:
 - vbaac10.chm11298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.IMESentenceMode Property (Access)
+# ListBox.IMESentenceMode property (Access)
 
 
 

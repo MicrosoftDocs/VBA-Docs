@@ -1,5 +1,5 @@
 ---
-title: SubForm.TopPadding Property (Access)
+title: SubForm.TopPadding property (Access)
 keywords: vbaac10.chm11967
 f1_keywords:
 - vbaac10.chm11967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.TopPadding Property (Access)
+# SubForm.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the subform and its top gridline. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.BorderStyle Property (Access)
+title: Form.BorderStyle property (Access)
 keywords: vbaac10.chm13371
 f1_keywords:
 - vbaac10.chm13371
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BorderStyle Property (Access)
+# Form.BorderStyle property (Access)
 
 Specifies the type of border and border elements (title bar,  **Control** menu, **Minimize** and **Maximize** buttons, or **Close** button) to use for the form. You typically use different border styles for normal forms, pop-up forms, and custom dialog boxes. Read/write **Byte**.
 

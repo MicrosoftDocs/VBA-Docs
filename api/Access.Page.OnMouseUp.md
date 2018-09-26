@@ -1,5 +1,5 @@
 ---
-title: Page.OnMouseUp Property (Access)
+title: Page.OnMouseUp property (Access)
 keywords: vbaac10.chm12171
 f1_keywords:
 - vbaac10.chm12171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnMouseUp Property (Access)
+# Page.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineColor Property (Access)
+title: Attachment.GridlineColor property (Access)
 keywords: vbaac10.chm14000
 f1_keywords:
 - vbaac10.chm14000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineColor Property (Access)
+# Attachment.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified attachment. Read/write  **Long**.
 

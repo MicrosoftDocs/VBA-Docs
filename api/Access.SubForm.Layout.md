@@ -1,5 +1,5 @@
 ---
-title: SubForm.Layout Property (Access)
+title: SubForm.Layout property (Access)
 keywords: vbaac10.chm11965
 f1_keywords:
 - vbaac10.chm11965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Layout Property (Access)
+# SubForm.Layout property (Access)
 
 Returns the type of layout for the specified subform. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

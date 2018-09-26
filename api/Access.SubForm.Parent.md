@@ -1,5 +1,5 @@
 ---
-title: SubForm.Parent Property (Access)
+title: SubForm.Parent property (Access)
 keywords: vbaac10.chm11915
 f1_keywords:
 - vbaac10.chm11915
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Parent Property (Access)
+# SubForm.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

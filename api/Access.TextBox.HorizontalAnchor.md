@@ -1,5 +1,5 @@
 ---
-title: TextBox.HorizontalAnchor Property (Access)
+title: TextBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11165
 f1_keywords:
 - vbaac10.chm11165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.HorizontalAnchor Property (Access)
+# TextBox.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 

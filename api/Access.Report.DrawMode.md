@@ -1,5 +1,5 @@
 ---
-title: Report.DrawMode Property (Access)
+title: Report.DrawMode property (Access)
 keywords: vbaac10.chm13753
 f1_keywords:
 - vbaac10.chm13753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DrawMode Property (Access)
+# Report.DrawMode property (Access)
 
 You can use the  **DrawMode** property to specify how the pen (the color used in drawing) interacts with existing background colors on a report when the **[Line](Access.Report.Line.md)**, **[Circle](Access.Report.Circle.md)**, or **[Pset](Access.Report.PSet.md)** method is used to draw on a report when printing. Read/write **Integer**.
 

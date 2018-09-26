@@ -1,5 +1,5 @@
 ---
-title: Attachment.IsVisible Property (Access)
+title: Attachment.IsVisible property (Access)
 keywords: vbaac10.chm13936
 f1_keywords:
 - vbaac10.chm13936
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.IsVisible Property (Access)
+# Attachment.IsVisible property (Access)
 
 You can use the  **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
 

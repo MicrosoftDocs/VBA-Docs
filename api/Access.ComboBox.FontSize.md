@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FontSize Property (Access)
+title: ComboBox.FontSize property (Access)
 keywords: vbaac10.chm11415
 f1_keywords:
 - vbaac10.chm11415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FontSize Property (Access)
+# ComboBox.FontSize property (Access)
 
 You can use the  **FontSize** property to specify the point size for text in the following situations:
 

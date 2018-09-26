@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AddColon Property (Access)
+title: ComboBox.AddColon property (Access)
 keywords: vbaac10.chm11429
 f1_keywords:
 - vbaac10.chm11429
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AddColon Property (Access)
+# ComboBox.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.OldValue Property (Access)
+title: TabControl.OldValue property (Access)
 keywords: vbaac10.chm12067
 f1_keywords:
 - vbaac10.chm12067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OldValue Property (Access)
+# TabControl.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.ValidationRule Property (Access)
+title: OptionButton.ValidationRule property (Access)
 keywords: vbaac10.chm10571
 f1_keywords:
 - vbaac10.chm10571
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.ValidationRule Property (Access)
+# OptionButton.ValidationRule property (Access)
 
 You can use the  **ValidationRule** property to specify requirements for data entered into a record, field, or control. When data is entered that violates the **ValidationRule** setting, you can use the **ValidationText** property to specify the message to be displayed to the user. Read/write **String**.
 

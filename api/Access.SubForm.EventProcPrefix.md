@@ -1,5 +1,5 @@
 ---
-title: SubForm.EventProcPrefix Property (Access)
+title: SubForm.EventProcPrefix property (Access)
 keywords: vbaac10.chm11923
 f1_keywords:
 - vbaac10.chm11923
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.EventProcPrefix Property (Access)
+# SubForm.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

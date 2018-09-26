@@ -1,5 +1,5 @@
 ---
-title: Label.BackColor Property (Access)
+title: Label.BackColor property (Access)
 keywords: vbaac10.chm10202
 f1_keywords:
 - vbaac10.chm10202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.BackColor Property (Access)
+# Label.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 

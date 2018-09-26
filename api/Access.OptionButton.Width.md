@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Width Property (Access)
+title: OptionButton.Width property (Access)
 keywords: vbaac10.chm10584
 f1_keywords:
 - vbaac10.chm10584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Width Property (Access)
+# OptionButton.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

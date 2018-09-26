@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineWidthTop Property (Access)
+title: Attachment.GridlineWidthTop property (Access)
 keywords: vbaac10.chm13997
 f1_keywords:
 - vbaac10.chm13997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineWidthTop Property (Access)
+# Attachment.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified attachment. Read/write  **Byte**.
 

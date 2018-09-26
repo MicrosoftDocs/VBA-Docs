@@ -1,5 +1,5 @@
 ---
-title: Attachment.EventProcPrefix Property (Access)
+title: Attachment.EventProcPrefix property (Access)
 keywords: vbaac10.chm13912
 f1_keywords:
 - vbaac10.chm13912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.EventProcPrefix Property (Access)
+# Attachment.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

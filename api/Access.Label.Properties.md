@@ -1,5 +1,5 @@
 ---
-title: Label.Properties Property (Access)
+title: Label.Properties property (Access)
 keywords: vbaac10.chm10185
 f1_keywords:
 - vbaac10.chm10185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Properties Property (Access)
+# Label.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

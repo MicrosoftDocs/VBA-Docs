@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Layout Property (Access)
+title: CommandButton.Layout property (Access)
 keywords: vbaac10.chm10523
 f1_keywords:
 - vbaac10.chm10523
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Layout Property (Access)
+# CommandButton.Layout property (Access)
 
 Returns the type of layout for the specified button. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

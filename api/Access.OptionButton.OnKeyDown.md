@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnKeyDown Property (Access)
+title: OptionButton.OnKeyDown property (Access)
 keywords: vbaac10.chm10619
 f1_keywords:
 - vbaac10.chm10619
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnKeyDown Property (Access)
+# OptionButton.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

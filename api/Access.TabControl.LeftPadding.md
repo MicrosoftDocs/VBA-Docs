@@ -1,5 +1,5 @@
 ---
-title: TabControl.LeftPadding Property (Access)
+title: TabControl.LeftPadding property (Access)
 keywords: vbaac10.chm14536
 f1_keywords:
 - vbaac10.chm14536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.LeftPadding Property (Access)
+# TabControl.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer**.
 

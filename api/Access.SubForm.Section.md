@@ -1,5 +1,5 @@
 ---
-title: SubForm.Section Property (Access)
+title: SubForm.Section property (Access)
 keywords: vbaac10.chm11953
 f1_keywords:
 - vbaac10.chm11953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Section Property (Access)
+# SubForm.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

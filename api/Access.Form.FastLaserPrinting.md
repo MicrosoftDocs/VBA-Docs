@@ -1,5 +1,5 @@
 ---
-title: Form.FastLaserPrinting Property (Access)
+title: Form.FastLaserPrinting property (Access)
 keywords: vbaac10.chm13392
 f1_keywords:
 - vbaac10.chm13392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.FastLaserPrinting Property (Access)
+# Form.FastLaserPrinting property (Access)
 
 You can use the  **FastLaserPrinting** property to specify whether lines and rectangles are replaced by text character lines — similar to the underscore (_) and vertical bar (|) characters — when you print a form using most laser printers. Replacing lines and rectangles with text character lines can make printing much faster. Read/write **Boolean**.
 

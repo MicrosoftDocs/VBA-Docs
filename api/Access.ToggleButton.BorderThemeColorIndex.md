@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.BorderThemeColorIndex Property (Access)
+title: ToggleButton.BorderThemeColorIndex property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.BorderThemeColorIndex Property (Access)
+# ToggleButton.BorderThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BorderColor** property of the specified object. Read/write **Long**.
 

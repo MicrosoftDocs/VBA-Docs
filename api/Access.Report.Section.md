@@ -1,5 +1,5 @@
 ---
-title: Report.Section Property (Access)
+title: Report.Section property (Access)
 keywords: vbaac10.chm13874
 f1_keywords:
 - vbaac10.chm13874
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Section Property (Access)
+# Report.Section property (Access)
 
 You can use the  **Section** property to identify a section of a report and provide access to the properties of that section. Read-only **Section** object.
 

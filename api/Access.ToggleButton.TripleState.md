@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.TripleState Property (Access)
+title: ToggleButton.TripleState property (Access)
 keywords: vbaac10.chm11714
 f1_keywords:
 - vbaac10.chm11714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.TripleState Property (Access)
+# ToggleButton.TripleState property (Access)
 
 You can use the  **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
 

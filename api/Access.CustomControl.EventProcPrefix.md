@@ -1,5 +1,5 @@
 ---
-title: CustomControl.EventProcPrefix Property (Access)
+title: CustomControl.EventProcPrefix property (Access)
 keywords: vbaac10.chm12006
 f1_keywords:
 - vbaac10.chm12006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.EventProcPrefix Property (Access)
+# CustomControl.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: AllReports.Parent Property (Access)
+title: AllReports.Parent property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllReports.Parent Property (Access)
+# AllReports.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

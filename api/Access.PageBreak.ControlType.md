@@ -1,5 +1,5 @@
 ---
-title: PageBreak.ControlType Property (Access)
+title: PageBreak.ControlType property (Access)
 keywords: vbaac10.chm11673
 f1_keywords:
 - vbaac10.chm11673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.ControlType Property (Access)
+# PageBreak.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

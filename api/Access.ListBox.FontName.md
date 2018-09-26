@@ -1,5 +1,5 @@
 ---
-title: ListBox.FontName Property (Access)
+title: ListBox.FontName property (Access)
 keywords: vbaac10.chm11253
 f1_keywords:
 - vbaac10.chm11253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.FontName Property (Access)
+# ListBox.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 

@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo.InsufficientPermissions Property (Access)
+title: DependencyInfo.InsufficientPermissions property (Access)
 keywords: vbaac10.chm13277
 f1_keywords:
 - vbaac10.chm13277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo.InsufficientPermissions Property (Access)
+# DependencyInfo.InsufficientPermissions property (Access)
 
 Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that contains a collection of objects to which you don't have sufficient permissions to check for dependencies. Read-only.
 

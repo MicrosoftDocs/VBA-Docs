@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.StatusBarText Property (Access)
+title: OptionGroup.StatusBarText property (Access)
 keywords: vbaac10.chm10826
 f1_keywords:
 - vbaac10.chm10826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.StatusBarText Property (Access)
+# OptionGroup.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

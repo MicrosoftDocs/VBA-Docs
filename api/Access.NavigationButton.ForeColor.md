@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.ForeColor Property (Access)
+title: NavigationButton.ForeColor property (Access)
 keywords: vbaac10.chm10471
 f1_keywords:
 - vbaac10.chm10471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.ForeColor Property (Access)
+# NavigationButton.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 

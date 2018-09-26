@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Visible Property (Access)
+title: PageBreak.Visible property (Access)
 keywords: vbaac10.chm11678
 f1_keywords:
 - vbaac10.chm11678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Visible Property (Access)
+# PageBreak.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Modules Property (Access)
+title: Application.Modules property (Access)
 keywords: vbaac10.chm12565
 f1_keywords:
 - vbaac10.chm12565
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Modules Property (Access)
+# Application.Modules property (Access)
 
 You can use the  **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
 

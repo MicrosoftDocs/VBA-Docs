@@ -1,5 +1,5 @@
 ---
-title: Label.OnMouseUp Property (Access)
+title: Label.OnMouseUp property (Access)
 keywords: vbaac10.chm10228
 f1_keywords:
 - vbaac10.chm10228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.OnMouseUp Property (Access)
+# Label.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

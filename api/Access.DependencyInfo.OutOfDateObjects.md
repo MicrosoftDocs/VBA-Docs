@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo.OutOfDateObjects Property (Access)
+title: DependencyInfo.OutOfDateObjects property (Access)
 keywords: vbaac10.chm13276
 f1_keywords:
 - vbaac10.chm13276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo.OutOfDateObjects Property (Access)
+# DependencyInfo.OutOfDateObjects property (Access)
 
 Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that represents the **[AccessObject](Access.AccessObject.md)** objects for which the dependency information is outdated. Read-only.
 

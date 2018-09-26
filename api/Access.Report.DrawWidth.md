@@ -1,5 +1,5 @@
 ---
-title: Report.DrawWidth Property (Access)
+title: Report.DrawWidth property (Access)
 keywords: vbaac10.chm13755
 f1_keywords:
 - vbaac10.chm13755
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DrawWidth Property (Access)
+# Report.DrawWidth property (Access)
 
 You can use the  **DrawWidth** property to specify the line width for the **[Line](Access.Report.Line.md)**, **[Circle](Access.Report.Circle.md)**, and **[Pset](Access.Report.PSet.md)** methods to print lines on reports. Read/write **Integer**.
 

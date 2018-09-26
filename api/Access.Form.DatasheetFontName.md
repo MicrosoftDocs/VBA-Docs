@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetFontName Property (Access)
+title: Form.DatasheetFontName property (Access)
 keywords: vbaac10.chm13396
 f1_keywords:
 - vbaac10.chm13396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetFontName Property (Access)
+# Form.DatasheetFontName property (Access)
 
 You can use the  **DatasheetFontName** property to specify the font used to display and print field names and data in Datasheet view. Read/write **String**.
 

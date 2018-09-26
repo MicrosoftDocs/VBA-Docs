@@ -1,5 +1,5 @@
 ---
-title: Control.Layout Property (Access)
+title: Control.Layout property (Access)
 keywords: vbaac10.chm10155
 f1_keywords:
 - vbaac10.chm10155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Layout Property (Access)
+# Control.Layout property (Access)
 
 Returns the type of layout for the specified control. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

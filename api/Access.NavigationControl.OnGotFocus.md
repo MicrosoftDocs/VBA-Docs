@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.OnGotFocus Property (Access)
+title: NavigationControl.OnGotFocus property (Access)
 keywords: vbaac10.chm11120
 f1_keywords:
 - vbaac10.chm11120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.OnGotFocus Property (Access)
+# NavigationControl.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

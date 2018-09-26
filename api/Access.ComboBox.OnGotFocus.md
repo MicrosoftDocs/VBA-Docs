@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnGotFocus Property (Access)
+title: ComboBox.OnGotFocus property (Access)
 keywords: vbaac10.chm11453
 f1_keywords:
 - vbaac10.chm11453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnGotFocus Property (Access)
+# ComboBox.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

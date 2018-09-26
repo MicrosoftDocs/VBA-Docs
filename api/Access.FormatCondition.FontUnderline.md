@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.FontUnderline Property (Access)
+title: FormatCondition.FontUnderline property (Access)
 keywords: vbaac10.chm10056
 f1_keywords:
 - vbaac10.chm10056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.FontUnderline Property (Access)
+# FormatCondition.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 

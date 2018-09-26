@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Enabled Property (Access)
+title: OptionButton.Enabled property (Access)
 keywords: vbaac10.chm10576
 f1_keywords:
 - vbaac10.chm10576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Enabled Property (Access)
+# OptionButton.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

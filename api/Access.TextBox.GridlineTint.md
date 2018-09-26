@@ -1,5 +1,5 @@
 ---
-title: TextBox.GridlineTint Property (Access)
+title: TextBox.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GridlineTint Property (Access)
+# TextBox.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 

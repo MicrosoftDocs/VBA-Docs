@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.IsVisible Property (Access)
+title: NavigationControl.IsVisible property (Access)
 keywords: vbaac10.chm11113
 f1_keywords:
 - vbaac10.chm11113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.IsVisible Property (Access)
+# NavigationControl.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 

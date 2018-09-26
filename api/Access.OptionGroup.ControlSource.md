@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.ControlSource Property (Access)
+title: OptionGroup.ControlSource property (Access)
 keywords: vbaac10.chm10822
 f1_keywords:
 - vbaac10.chm10822
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.ControlSource Property (Access)
+# OptionGroup.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 

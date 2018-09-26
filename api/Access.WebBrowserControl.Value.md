@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Value Property (Access)
+title: WebBrowserControl.Value property (Access)
 keywords: vbaac10.chm14358
 f1_keywords:
 - vbaac10.chm14358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Value Property (Access)
+# WebBrowserControl.Value property (Access)
 
 Determines or specifies the text in the text box. Read/write  **Variant**.
 

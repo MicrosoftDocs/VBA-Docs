@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnEnter Property (Access)
+title: CheckBox.OnEnter property (Access)
 keywords: vbaac10.chm10737
 f1_keywords:
 - vbaac10.chm10737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnEnter Property (Access)
+# CheckBox.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

@@ -1,5 +1,5 @@
 ---
-title: Control.GridlineStyleRight Property (Access)
+title: Control.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10162
 f1_keywords:
 - vbaac10.chm10162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.GridlineStyleRight Property (Access)
+# Control.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified control. Read/write  **Byte**.
 

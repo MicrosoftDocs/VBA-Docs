@@ -1,5 +1,5 @@
 ---
-title: TextBox.LayoutID Property (Access)
+title: TextBox.LayoutID property (Access)
 keywords: vbaac10.chm11182
 f1_keywords:
 - vbaac10.chm11182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.LayoutID Property (Access)
+# TextBox.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnMouseUp Property (Access)
+title: BoundObjectFrame.OnMouseUp property (Access)
 keywords: vbaac10.chm10972
 f1_keywords:
 - vbaac10.chm10972
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnMouseUp Property (Access)
+# BoundObjectFrame.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

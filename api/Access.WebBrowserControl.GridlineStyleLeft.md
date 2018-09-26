@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GridlineStyleLeft Property (Access)
+title: WebBrowserControl.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm14394
 f1_keywords:
 - vbaac10.chm14394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GridlineStyleLeft Property (Access)
+# WebBrowserControl.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 

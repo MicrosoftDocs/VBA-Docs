@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.LongestBarLimit Property (Access)
+title: FormatCondition.LongestBarLimit property (Access)
 keywords: vbaac10.chm14532
 f1_keywords:
 - vbaac10.chm14532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.LongestBarLimit Property (Access)
+# FormatCondition.LongestBarLimit property (Access)
 
 Gets or sets how the longest data bar is evaluated for the specified  **[FormatCondition](Access.FormatCondition.md)**. Read/write **[AcFormatBarLimits](Access.AcFormatBarLimits.md)**.
 

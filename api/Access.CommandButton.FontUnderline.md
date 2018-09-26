@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontUnderline Property (Access)
+title: CommandButton.FontUnderline property (Access)
 keywords: vbaac10.chm10476
 f1_keywords:
 - vbaac10.chm10476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontUnderline Property (Access)
+# CommandButton.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 

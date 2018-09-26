@@ -1,5 +1,5 @@
 ---
-title: TextBox.IsHyperlink Property (Access)
+title: TextBox.IsHyperlink property (Access)
 keywords: vbaac10.chm11143
 f1_keywords:
 - vbaac10.chm11143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.IsHyperlink Property (Access)
+# TextBox.IsHyperlink property (Access)
 
 You can use the  **IsHyperlink** property to specify or determine if the data contained in a text box is a hyperlink. Read/write **Boolean**.
 

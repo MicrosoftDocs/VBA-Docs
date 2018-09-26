@@ -1,5 +1,5 @@
 ---
-title: Line.Name Property (Access)
+title: Line.Name property (Access)
 keywords: vbaac10.chm10347
 f1_keywords:
 - vbaac10.chm10347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Name Property (Access)
+# Line.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

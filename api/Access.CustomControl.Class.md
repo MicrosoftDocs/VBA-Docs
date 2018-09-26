@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Class Property (Access)
+title: CustomControl.Class property (Access)
 keywords: vbaac10.chm12012
 f1_keywords:
 - vbaac10.chm12012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Class Property (Access)
+# CustomControl.Class property (Access)
 
 You can use the  **Class** property to specify or determine the class name of an embeddedOLE object. Read/write **String**.
 

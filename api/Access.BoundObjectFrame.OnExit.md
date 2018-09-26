@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnExit Property (Access)
+title: BoundObjectFrame.OnExit property (Access)
 keywords: vbaac10.chm10965
 f1_keywords:
 - vbaac10.chm10965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnExit Property (Access)
+# BoundObjectFrame.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

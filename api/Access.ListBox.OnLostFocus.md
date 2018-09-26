@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnLostFocus Property (Access)
+title: ListBox.OnLostFocus property (Access)
 keywords: vbaac10.chm11283
 f1_keywords:
 - vbaac10.chm11283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnLostFocus Property (Access)
+# ListBox.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

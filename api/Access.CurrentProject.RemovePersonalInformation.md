@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.RemovePersonalInformation Property (Access)
+title: CurrentProject.RemovePersonalInformation property (Access)
 keywords: vbaac10.chm12724
 f1_keywords:
 - vbaac10.chm12724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.RemovePersonalInformation Property (Access)
+# CurrentProject.RemovePersonalInformation property (Access)
 
 Returns or sets a  **Boolean** indicating whether personal information about the user is stored in the specified project. **True** if personal information is removed. Read-write.
 

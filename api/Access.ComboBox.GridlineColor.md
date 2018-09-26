@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineColor Property (Access)
+title: ComboBox.GridlineColor property (Access)
 keywords: vbaac10.chm11493
 f1_keywords:
 - vbaac10.chm11493
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineColor Property (Access)
+# ComboBox.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified combo box. Read/write  **Long**.
 

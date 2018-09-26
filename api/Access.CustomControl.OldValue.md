@@ -1,5 +1,5 @@
 ---
-title: CustomControl.OldValue Property (Access)
+title: CustomControl.OldValue property (Access)
 keywords: vbaac10.chm11997
 f1_keywords:
 - vbaac10.chm11997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.OldValue Property (Access)
+# CustomControl.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

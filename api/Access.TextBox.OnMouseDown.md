@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnMouseDown Property (Access)
+title: TextBox.OnMouseDown property (Access)
 keywords: vbaac10.chm11124
 f1_keywords:
 - vbaac10.chm11124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnMouseDown Property (Access)
+# TextBox.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

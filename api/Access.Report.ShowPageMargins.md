@@ -1,5 +1,5 @@
 ---
-title: Report.ShowPageMargins Property (Access)
+title: Report.ShowPageMargins property (Access)
 keywords: vbaac10.chm13853,vbaac10.chm5788
 f1_keywords:
 - vbaac10.chm13853,vbaac10.chm5788
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ShowPageMargins Property (Access)
+# Report.ShowPageMargins property (Access)
 
 Gets or sets whether page margins are displayed when the specified report is in Layout view. Read/write  **Boolean**.
 

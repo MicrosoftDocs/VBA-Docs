@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.OnClick Property (Access)
+title: NavigationControl.OnClick property (Access)
 keywords: vbaac10.chm11122
 f1_keywords:
 - vbaac10.chm11122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.OnClick Property (Access)
+# NavigationControl.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

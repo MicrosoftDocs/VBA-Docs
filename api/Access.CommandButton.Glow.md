@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Glow Property (Access)
+title: CommandButton.Glow property (Access)
 keywords: vbaac10.chm14630
 f1_keywords:
 - vbaac10.chm14630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Glow Property (Access)
+# CommandButton.Glow property (Access)
 
 Gets or sets the Glow effect applied to the specified object. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OnActivate Property (Access)
+title: Report.OnActivate property (Access)
 keywords: vbaac10.chm13765
 f1_keywords:
 - vbaac10.chm13765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnActivate Property (Access)
+# Report.OnActivate property (Access)
 
 Sets or returns the value of the  **On Activate** box in the **Properties** window of a form or report. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Image.TopPadding Property (Access)
+title: Image.TopPadding property (Access)
 keywords: vbaac10.chm10414
 f1_keywords:
 - vbaac10.chm10414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.TopPadding Property (Access)
+# Image.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the image control and its top gridline. Read/write  **Integer**.
 

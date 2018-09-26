@@ -1,5 +1,5 @@
 ---
-title: Image.RightPadding Property (Access)
+title: Image.RightPadding property (Access)
 keywords: vbaac10.chm10415
 f1_keywords:
 - vbaac10.chm10415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.RightPadding Property (Access)
+# Image.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the image control and its right gridline. Read/write  **Integer**.
 

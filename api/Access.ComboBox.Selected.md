@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Selected Property (Access)
+title: ComboBox.Selected property (Access)
 keywords: vbaac10.chm11494
 f1_keywords:
 - vbaac10.chm11494
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Selected Property (Access)
+# ComboBox.Selected property (Access)
 
 You can use the  **Selected** property in Visual Basic to determine if an item in a combo box is selected. Read/write **Long**.
 

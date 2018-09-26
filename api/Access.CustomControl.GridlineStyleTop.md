@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GridlineStyleTop Property (Access)
+title: CustomControl.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10529
 f1_keywords:
 - vbaac10.chm10529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GridlineStyleTop Property (Access)
+# CustomControl.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
 

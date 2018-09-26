@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnDirty Property (Access)
+title: ComboBox.OnDirty property (Access)
 keywords: vbaac10.chm11473
 f1_keywords:
 - vbaac10.chm11473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnDirty Property (Access)
+# ComboBox.OnDirty property (Access)
 
 Sets or returns the value of the  **On Dirty** box in the **Properties** window of a form or report. Read/write **String**.
 

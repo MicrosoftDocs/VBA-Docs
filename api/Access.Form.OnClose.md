@@ -1,5 +1,5 @@
 ---
-title: Form.OnClose Property (Access)
+title: Form.OnClose property (Access)
 keywords: vbaac10.chm13444
 f1_keywords:
 - vbaac10.chm13444
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnClose Property (Access)
+# Form.OnClose property (Access)
 
 Sets or returns the value of the  **On Close** box in the **Properties** window of a form or report. Read/write **String**.
 

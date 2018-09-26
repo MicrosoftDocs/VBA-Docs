@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.TopPadding Property (Access)
+title: ToggleButton.TopPadding property (Access)
 keywords: vbaac10.chm11781
 f1_keywords:
 - vbaac10.chm11781
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.TopPadding Property (Access)
+# ToggleButton.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the toggle button and its top gridline. Read/write  **Integer**.
 

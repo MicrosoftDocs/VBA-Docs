@@ -1,5 +1,5 @@
 ---
-title: AllForms.Application Property (Access)
+title: AllForms.Application property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllForms.Application Property (Access)
+# AllForms.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

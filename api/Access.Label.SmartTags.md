@@ -1,5 +1,5 @@
 ---
-title: Label.SmartTags Property (Access)
+title: Label.SmartTags property (Access)
 keywords: vbaac10.chm10242
 f1_keywords:
 - vbaac10.chm10242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.SmartTags Property (Access)
+# Label.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 

@@ -1,5 +1,5 @@
 ---
-title: Printer.ItemsAcross Property (Access)
+title: Printer.ItemsAcross property (Access)
 keywords: vbaac10.chm12872
 f1_keywords:
 - vbaac10.chm12872
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.ItemsAcross Property (Access)
+# Printer.ItemsAcross property (Access)
 
 Returns or sets a  **Long** indicating the number of columns to print across a page for multiple-column reports or labels. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Left Property (Access)
+title: CustomControl.Left property (Access)
 keywords: vbaac10.chm12020
 f1_keywords:
 - vbaac10.chm12020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Left Property (Access)
+# CustomControl.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.AddColon Property (Access)
+title: Attachment.AddColon property (Access)
 keywords: vbaac10.chm14004
 f1_keywords:
 - vbaac10.chm14004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.AddColon Property (Access)
+# Attachment.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 

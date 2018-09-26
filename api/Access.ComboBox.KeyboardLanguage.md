@@ -1,5 +1,5 @@
 ---
-title: ComboBox.KeyboardLanguage Property (Access)
+title: ComboBox.KeyboardLanguage property (Access)
 keywords: vbaac10.chm11464
 f1_keywords:
 - vbaac10.chm11464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.KeyboardLanguage Property (Access)
+# ComboBox.KeyboardLanguage property (Access)
 
 
 

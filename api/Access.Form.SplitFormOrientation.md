@@ -1,5 +1,5 @@
 ---
-title: Form.SplitFormOrientation Property (Access)
+title: Form.SplitFormOrientation property (Access)
 keywords: vbaac10.chm13563
 f1_keywords:
 - vbaac10.chm13563
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SplitFormOrientation Property (Access)
+# Form.SplitFormOrientation property (Access)
 
 Gets or sets the position of the datasheet relative to the form when the form is displayed in Split Form view. Read/write [AcSplitFormOrientation](Access.AcSplitFormOrientation.md).
 

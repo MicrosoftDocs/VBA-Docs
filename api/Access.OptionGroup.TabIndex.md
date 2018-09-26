@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.TabIndex Property (Access)
+title: OptionGroup.TabIndex property (Access)
 keywords: vbaac10.chm10832
 f1_keywords:
 - vbaac10.chm10832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.TabIndex Property (Access)
+# OptionGroup.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 

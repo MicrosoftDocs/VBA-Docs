@@ -1,5 +1,5 @@
 ---
-title: Section.OnMouseDown Property (Access)
+title: Section.OnMouseDown property (Access)
 keywords: vbaac10.chm12209
 f1_keywords:
 - vbaac10.chm12209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnMouseDown Property (Access)
+# Section.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

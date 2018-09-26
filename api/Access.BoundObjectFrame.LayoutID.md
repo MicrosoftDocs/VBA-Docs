@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.LayoutID Property (Access)
+title: BoundObjectFrame.LayoutID property (Access)
 keywords: vbaac10.chm11010
 f1_keywords:
 - vbaac10.chm11010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.LayoutID Property (Access)
+# BoundObjectFrame.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified object frame. Read-only  **Long**.
 

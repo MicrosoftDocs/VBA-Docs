@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Bevel Property (Access)
+title: NavigationButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Bevel Property (Access)
+# NavigationButton.Bevel property (Access)
 
 Gets or sets the bevel effect applied to the specified object. Read/write  **Long**.
 

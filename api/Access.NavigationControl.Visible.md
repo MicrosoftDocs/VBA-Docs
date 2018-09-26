@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Visible Property (Access)
+title: NavigationControl.Visible property (Access)
 keywords: vbaac10.chm11056
 f1_keywords:
 - vbaac10.chm11056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Visible Property (Access)
+# NavigationControl.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

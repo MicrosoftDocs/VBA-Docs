@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineStyleTop Property (Access)
+title: SubForm.GridlineStyleTop property (Access)
 keywords: vbaac10.chm11971
 f1_keywords:
 - vbaac10.chm11971
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineStyleTop Property (Access)
+# SubForm.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified subform. Read/write  **Byte**.
 

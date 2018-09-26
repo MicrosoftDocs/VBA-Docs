@@ -1,5 +1,5 @@
 ---
-title: Screen.MousePointer Property (Access)
+title: Screen.MousePointer property (Access)
 keywords: vbaac10.chm12492
 f1_keywords:
 - vbaac10.chm12492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.MousePointer Property (Access)
+# Screen.MousePointer property (Access)
 
 You can use the  **MousePointer** property together with the **[Screen](Access.Screen.md)** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
 

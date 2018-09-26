@@ -1,5 +1,5 @@
 ---
-title: Image.BackStyle Property (Access)
+title: Image.BackStyle property (Access)
 keywords: vbaac10.chm10380
 f1_keywords:
 - vbaac10.chm10380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BackStyle Property (Access)
+# Image.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

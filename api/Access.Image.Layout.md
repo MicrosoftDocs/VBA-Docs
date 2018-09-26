@@ -1,5 +1,5 @@
 ---
-title: Image.Layout Property (Access)
+title: Image.Layout property (Access)
 keywords: vbaac10.chm10412
 f1_keywords:
 - vbaac10.chm10412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Layout Property (Access)
+# Image.Layout property (Access)
 
 Returns the type of layout for the specified image. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

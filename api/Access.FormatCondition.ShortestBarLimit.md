@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.ShortestBarLimit Property (Access)
+title: FormatCondition.ShortestBarLimit property (Access)
 keywords: vbaac10.chm14530
 f1_keywords:
 - vbaac10.chm14530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.ShortestBarLimit Property (Access)
+# FormatCondition.ShortestBarLimit property (Access)
 
 Gets or sets how the shortest data bar is evaluated for the specified  **[FormatCondition](Access.FormatCondition.md)**. Read/write **[AcFormatBarLimits](Access.AcFormatBarLimits.md)**.
 

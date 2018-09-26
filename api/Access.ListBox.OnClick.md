@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnClick Property (Access)
+title: ListBox.OnClick property (Access)
 keywords: vbaac10.chm11284
 f1_keywords:
 - vbaac10.chm11284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnClick Property (Access)
+# ListBox.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

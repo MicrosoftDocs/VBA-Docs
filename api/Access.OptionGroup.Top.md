@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Top Property (Access)
+title: OptionGroup.Top property (Access)
 keywords: vbaac10.chm10835
 f1_keywords:
 - vbaac10.chm10835
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Top Property (Access)
+# OptionGroup.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

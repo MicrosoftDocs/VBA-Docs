@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BorderColor Property (Access)
+title: WebBrowserControl.BorderColor property (Access)
 keywords: vbaac10.chm14376
 f1_keywords:
 - vbaac10.chm14376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BorderColor Property (Access)
+# WebBrowserControl.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 

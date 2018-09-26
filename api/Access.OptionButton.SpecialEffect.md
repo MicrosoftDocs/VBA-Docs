@@ -1,5 +1,5 @@
 ---
-title: OptionButton.SpecialEffect Property (Access)
+title: OptionButton.SpecialEffect property (Access)
 keywords: vbaac10.chm10586
 f1_keywords:
 - vbaac10.chm10586
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.SpecialEffect Property (Access)
+# OptionButton.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 

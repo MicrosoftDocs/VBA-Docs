@@ -1,5 +1,5 @@
 ---
-title: ListBox.BorderShade Property (Access)
+title: ListBox.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BorderShade Property (Access)
+# ListBox.BorderShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 

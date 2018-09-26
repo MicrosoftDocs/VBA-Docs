@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnDirty Property (Access)
+title: TextBox.OnDirty property (Access)
 keywords: vbaac10.chm11145
 f1_keywords:
 - vbaac10.chm11145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnDirty Property (Access)
+# TextBox.OnDirty property (Access)
 
 Sets or returns the value of the  **On Dirty** box in the **Properties** window of a form or report. Read/write **String**.
 

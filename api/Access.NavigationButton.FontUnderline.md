@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.FontUnderline Property (Access)
+title: NavigationButton.FontUnderline property (Access)
 keywords: vbaac10.chm10476
 f1_keywords:
 - vbaac10.chm10476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.FontUnderline Property (Access)
+# NavigationButton.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 

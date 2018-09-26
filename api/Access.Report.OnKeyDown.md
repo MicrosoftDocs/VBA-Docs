@@ -1,5 +1,5 @@
 ---
-title: Report.OnKeyDown Property (Access)
+title: Report.OnKeyDown property (Access)
 keywords: vbaac10.chm13866
 f1_keywords:
 - vbaac10.chm13866
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnKeyDown Property (Access)
+# Report.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.OrderBy Property (Access)](http://msdn.microsoft.com/library/1939157c-12ad-2e58-bf4c-22c04a6c4366%28Office.15%29.aspx)
+[Report.OrderBy property (Access)](http://msdn.microsoft.com/library/1939157c-12ad-2e58-bf4c-22c04a6c4366%28Office.15%29.aspx)
 
-[Form.OrderBy Property (Access)](http://msdn.microsoft.com/library/6ca9c25e-9f16-1f08-1ac3-6f19761f9f55%28Office.15%29.aspx)
+[Form.OrderBy property (Access)](http://msdn.microsoft.com/library/6ca9c25e-9f16-1f08-1ac3-6f19761f9f55%28Office.15%29.aspx)
 
 

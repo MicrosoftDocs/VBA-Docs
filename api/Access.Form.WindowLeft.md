@@ -1,5 +1,5 @@
 ---
-title: Form.WindowLeft Property (Access)
+title: Form.WindowLeft property (Access)
 keywords: vbaac10.chm13517
 f1_keywords:
 - vbaac10.chm13517
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.WindowLeft Property (Access)
+# Form.WindowLeft property (Access)
 
 Returns an  **Integer** indicating the screen position in twips of the left edge of a form relative to the left edge of the Microsoft Access window. Read-only.
 

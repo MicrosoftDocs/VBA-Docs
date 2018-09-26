@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BackColor Property (Access)
+title: ComboBox.BackColor property (Access)
 keywords: vbaac10.chm11406
 f1_keywords:
 - vbaac10.chm11406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BackColor Property (Access)
+# ComboBox.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 

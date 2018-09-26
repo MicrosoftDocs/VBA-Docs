@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineStyleBottom Property (Access)
+title: Image.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10420
 f1_keywords:
 - vbaac10.chm10420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineStyleBottom Property (Access)
+# Image.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified image control. Read/write  **Byte**.
 

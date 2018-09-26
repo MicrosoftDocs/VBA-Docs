@@ -1,5 +1,5 @@
 ---
-title: Label.OnMouseMove Property (Access)
+title: Label.OnMouseMove property (Access)
 keywords: vbaac10.chm10227
 f1_keywords:
 - vbaac10.chm10227
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.OnMouseMove Property (Access)
+# Label.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

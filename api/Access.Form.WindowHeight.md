@@ -1,5 +1,5 @@
 ---
-title: Form.WindowHeight Property (Access)
+title: Form.WindowHeight property (Access)
 keywords: vbaac10.chm13465
 f1_keywords:
 - vbaac10.chm13465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.WindowHeight Property (Access)
+# Form.WindowHeight property (Access)
 
 Returns the height of a form in twips. Read-only  **Integer**.
 

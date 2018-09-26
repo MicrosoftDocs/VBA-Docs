@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.SourceItem Property (Access)
+title: ObjectFrame.SourceItem property (Access)
 keywords: vbaac10.chm11576
 f1_keywords:
 - vbaac10.chm11576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.SourceItem Property (Access)
+# ObjectFrame.SourceItem property (Access)
 
 You can use the  **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
 

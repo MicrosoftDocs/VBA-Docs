@@ -1,5 +1,5 @@
 ---
-title: Section.OnMouseUp Property (Access)
+title: Section.OnMouseUp property (Access)
 keywords: vbaac10.chm12211
 f1_keywords:
 - vbaac10.chm12211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnMouseUp Property (Access)
+# Section.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

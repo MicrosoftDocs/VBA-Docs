@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentData Property (Access)
+title: Application.CurrentData property (Access)
 keywords: vbaac10.chm12577
 f1_keywords:
 - vbaac10.chm12577
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentData Property (Access)
+# Application.CurrentData property (Access)
 
 You can use the  **CurrentData** property to access the **[CurrentData](Access.CurrentData.md)** object and its related collections. Read-only **CurrentData** object.
 

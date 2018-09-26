@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.StatusBarText Property (Access)
+title: EmptyCell.StatusBarText property (Access)
 keywords: vbaac10.chm14341
 f1_keywords:
 - vbaac10.chm14341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.StatusBarText Property (Access)
+# EmptyCell.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

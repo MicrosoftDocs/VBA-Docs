@@ -1,5 +1,5 @@
 ---
-title: TextBox.ForeThemeColorIndex Property (Access)
+title: TextBox.ForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ForeThemeColorIndex Property (Access)
+# TextBox.ForeThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **ForeColor** property of the specified object. Read/write **Long**.
 

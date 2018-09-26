@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Expression2 Property (Access)
+title: FormatCondition.Expression2 property (Access)
 keywords: vbaac10.chm10061
 f1_keywords:
 - vbaac10.chm10061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Expression2 Property (Access)
+# FormatCondition.Expression2 property (Access)
 
 You can use the  **Expression2** property to return the values of a conditional format within a **[FormatCondition](Access.FormatCondition.md)** object. Read-only **String**.
 

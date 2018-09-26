@@ -1,5 +1,5 @@
 ---
-title: Report.OnKeyPress Property (Access)
+title: Report.OnKeyPress property (Access)
 keywords: vbaac10.chm13868
 f1_keywords:
 - vbaac10.chm13868
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnKeyPress Property (Access)
+# Report.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

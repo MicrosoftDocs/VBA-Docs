@@ -1,5 +1,5 @@
 ---
-title: TabControl.HoverForeShade Property (Access)
+title: TabControl.HoverForeShade property (Access)
 keywords: vbaac10.chm14618
 f1_keywords:
 - vbaac10.chm14618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.HoverForeShade Property (Access)
+# TabControl.HoverForeShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **HoverForeColor** property of the specified object. Read/write **Single**.
 

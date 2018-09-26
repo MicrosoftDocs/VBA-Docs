@@ -1,5 +1,5 @@
 ---
-title: SubForm.TabStop Property (Access)
+title: SubForm.TabStop property (Access)
 keywords: vbaac10.chm11934
 f1_keywords:
 - vbaac10.chm11934
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.TabStop Property (Access)
+# SubForm.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 

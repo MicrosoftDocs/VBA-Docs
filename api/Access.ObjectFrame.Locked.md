@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Locked Property (Access)
+title: ObjectFrame.Locked property (Access)
 keywords: vbaac10.chm11584
 f1_keywords:
 - vbaac10.chm11584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Locked Property (Access)
+# ObjectFrame.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.LabelX Property (Access)
+title: ToggleButton.LabelX property (Access)
 keywords: vbaac10.chm11738
 f1_keywords:
 - vbaac10.chm11738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.LabelX Property (Access)
+# ToggleButton.LabelX property (Access)
 
 The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

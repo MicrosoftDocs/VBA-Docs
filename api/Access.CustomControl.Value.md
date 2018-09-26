@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Value Property (Access)
+title: CustomControl.Value property (Access)
 keywords: vbaac10.chm12005
 f1_keywords:
 - vbaac10.chm12005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Value Property (Access)
+# CustomControl.Value property (Access)
 
 Gets or sets the value displayed in the specified control. Read/write  **Variant**.
 

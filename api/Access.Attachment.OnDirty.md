@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnDirty Property (Access)
+title: Attachment.OnDirty property (Access)
 keywords: vbaac10.chm13941
 f1_keywords:
 - vbaac10.chm13941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnDirty Property (Access)
+# Attachment.OnDirty property (Access)
 
 Sets or returns the value of the  **On Dirty** box in the **Properties** window of a form or report. Read/write **String**.
 

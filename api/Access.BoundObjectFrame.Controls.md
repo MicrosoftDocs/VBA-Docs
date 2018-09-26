@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Controls Property (Access)
+title: BoundObjectFrame.Controls property (Access)
 keywords: vbaac10.chm10905
 f1_keywords:
 - vbaac10.chm10905
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Controls Property (Access)
+# BoundObjectFrame.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnClick Property (Access)
+title: Attachment.OnClick property (Access)
 keywords: vbaac10.chm13945
 f1_keywords:
 - vbaac10.chm13945
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnClick Property (Access)
+# Attachment.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

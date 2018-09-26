@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BackShade Property (Access)
+title: OptionGroup.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BackShade Property (Access)
+# OptionGroup.BackShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 

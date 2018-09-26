@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Span Property (Access)
+title: NavigationControl.Span property (Access)
 keywords: vbaac10.chm14675
 f1_keywords:
 - vbaac10.chm14675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Span Property (Access)
+# NavigationControl.Span property (Access)
 
 Gets or sets the orientation of the navigation buttons. Read/write  **[AcNavigationSpan](Access.AcNavigationSpan.md)**.
 

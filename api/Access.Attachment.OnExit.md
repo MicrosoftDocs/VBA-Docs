@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnExit Property (Access)
+title: Attachment.OnExit property (Access)
 keywords: vbaac10.chm13940
 f1_keywords:
 - vbaac10.chm13940
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnExit Property (Access)
+# Attachment.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of the specified object. Read/write **String**. .
 

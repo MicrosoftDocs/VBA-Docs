@@ -1,5 +1,5 @@
 ---
-title: Image.PictureAlignment Property (Access)
+title: Image.PictureAlignment property (Access)
 keywords: vbaac10.chm10370
 f1_keywords:
 - vbaac10.chm10370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.PictureAlignment Property (Access)
+# Image.PictureAlignment property (Access)
 
 You can use the  **PictureAlignment** property to specify where a background picture will appear in an image control or on a form or report. Read/write **Byte**.Read/write.
 

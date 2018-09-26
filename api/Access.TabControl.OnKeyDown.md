@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnKeyDown Property (Access)
+title: TabControl.OnKeyDown property (Access)
 keywords: vbaac10.chm12110
 f1_keywords:
 - vbaac10.chm12110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnKeyDown Property (Access)
+# TabControl.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

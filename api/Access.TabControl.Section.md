@@ -1,5 +1,5 @@
 ---
-title: TabControl.Section Property (Access)
+title: TabControl.Section property (Access)
 keywords: vbaac10.chm12099
 f1_keywords:
 - vbaac10.chm12099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Section Property (Access)
+# TabControl.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

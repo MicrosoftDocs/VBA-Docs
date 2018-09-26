@@ -1,5 +1,5 @@
 ---
-title: TextBox.VerticalAnchor Property (Access)
+title: TextBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm11166
 f1_keywords:
 - vbaac10.chm11166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.VerticalAnchor Property (Access)
+# TextBox.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified text box is anchored vertically within its layout. Read/write.
 

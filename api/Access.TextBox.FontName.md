@@ -1,5 +1,5 @@
 ---
-title: TextBox.FontName Property (Access)
+title: TextBox.FontName property (Access)
 keywords: vbaac10.chm11084
 f1_keywords:
 - vbaac10.chm11084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FontName Property (Access)
+# TextBox.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 

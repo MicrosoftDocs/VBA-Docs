@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineStyleBottom Property (Access)
+title: BoundObjectFrame.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11002
 f1_keywords:
 - vbaac10.chm11002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineStyleBottom Property (Access)
+# BoundObjectFrame.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified frame. Read/write  **Byte**.
 

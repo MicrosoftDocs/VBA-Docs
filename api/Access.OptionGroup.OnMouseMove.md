@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnMouseMove Property (Access)
+title: OptionGroup.OnMouseMove property (Access)
 keywords: vbaac10.chm10869
 f1_keywords:
 - vbaac10.chm10869
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnMouseMove Property (Access)
+# OptionGroup.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

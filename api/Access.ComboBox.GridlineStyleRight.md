@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineStyleRight Property (Access)
+title: ComboBox.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11487
 f1_keywords:
 - vbaac10.chm11487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineStyleRight Property (Access)
+# ComboBox.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified combo box. Read/write  **Byte**.
 

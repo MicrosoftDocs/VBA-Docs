@@ -1,5 +1,5 @@
 ---
-title: Section.OnRetreat Property (Access)
+title: Section.OnRetreat property (Access)
 keywords: vbaac10.chm12206,vbaac10.chm4105
 f1_keywords:
 - vbaac10.chm12206,vbaac10.chm4105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnRetreat Property (Access)
+# Section.OnRetreat property (Access)
 
 Sets or returns the value of the  **On Retreat** box in the **Properties** window of a report section. Read/write **String**.
 

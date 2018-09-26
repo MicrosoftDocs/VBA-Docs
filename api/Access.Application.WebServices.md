@@ -1,5 +1,5 @@
 ---
-title: Application.WebServices Property (Access)
+title: Application.WebServices property (Access)
 keywords: vbaac10.chm14555
 f1_keywords:
 - vbaac10.chm14555
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.WebServices Property (Access)
+# Application.WebServices property (Access)
 
 Gets the collection of installed Data Service data connections. Read-only  **[WebServices](Access.WebServices.md)**.
 

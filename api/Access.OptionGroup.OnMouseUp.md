@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnMouseUp Property (Access)
+title: OptionGroup.OnMouseUp property (Access)
 keywords: vbaac10.chm10870
 f1_keywords:
 - vbaac10.chm10870
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnMouseUp Property (Access)
+# OptionGroup.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

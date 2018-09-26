@@ -1,5 +1,5 @@
 ---
-title: TempVars.Count Property (Access)
+title: TempVars.Count property (Access)
 keywords: vbaac10.chm14068
 f1_keywords:
 - vbaac10.chm14068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVars.Count Property (Access)
+# TempVars.Count property (Access)
 
 Gets the number of  **[TempVar](Access.TempVar.md)** objects in the **[TempVars](Access.TempVars.md)** collection. Read-only **Long**.
 

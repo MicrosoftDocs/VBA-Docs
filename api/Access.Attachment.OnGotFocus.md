@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnGotFocus Property (Access)
+title: Attachment.OnGotFocus property (Access)
 keywords: vbaac10.chm13943
 f1_keywords:
 - vbaac10.chm13943
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnGotFocus Property (Access)
+# Attachment.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

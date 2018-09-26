@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnKeyPress Property (Access)
+title: ListBox.OnKeyPress property (Access)
 keywords: vbaac10.chm11291
 f1_keywords:
 - vbaac10.chm11291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnKeyPress Property (Access)
+# ListBox.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

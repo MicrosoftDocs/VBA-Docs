@@ -1,5 +1,5 @@
 ---
-title: ListBox.BorderWidth Property (Access)
+title: ListBox.BorderWidth property (Access)
 keywords: vbaac10.chm11249
 f1_keywords:
 - vbaac10.chm11249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BorderWidth Property (Access)
+# ListBox.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 

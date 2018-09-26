@@ -1,5 +1,5 @@
 ---
-title: Controls.Item Property (Access)
+title: Controls.Item property (Access)
 keywords: vbaac10.chm10179
 f1_keywords:
 - vbaac10.chm10179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Controls.Item Property (Access)
+# Controls.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 

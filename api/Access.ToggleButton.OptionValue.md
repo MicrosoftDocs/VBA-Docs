@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OptionValue Property (Access)
+title: ToggleButton.OptionValue property (Access)
 keywords: vbaac10.chm11705
 f1_keywords:
 - vbaac10.chm11705
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OptionValue Property (Access)
+# ToggleButton.OptionValue property (Access)
 
 Each control in an option group has a numeric value that you can set with the  **OptionValue** property. Read/write **Long**.
 

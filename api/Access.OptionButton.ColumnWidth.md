@@ -1,5 +1,5 @@
 ---
-title: OptionButton.ColumnWidth Property (Access)
+title: OptionButton.ColumnWidth property (Access)
 keywords: vbaac10.chm10595
 f1_keywords:
 - vbaac10.chm10595
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.ColumnWidth Property (Access)
+# OptionButton.ColumnWidth property (Access)
 
 You can use the  **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
 

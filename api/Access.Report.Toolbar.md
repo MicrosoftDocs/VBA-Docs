@@ -1,5 +1,5 @@
 ---
-title: Report.Toolbar Property (Access)
+title: Report.Toolbar property (Access)
 keywords: vbaac10.chm13711
 f1_keywords:
 - vbaac10.chm13711
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Toolbar Property (Access)
+# Report.Toolbar property (Access)
 
 Specifies a custom toolbar to display for a report. Read/write  **String**.
 

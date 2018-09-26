@@ -1,5 +1,5 @@
 ---
-title: TabControl.Value Property (Access)
+title: TabControl.Value property (Access)
 keywords: vbaac10.chm12071
 f1_keywords:
 - vbaac10.chm12071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Value Property (Access)
+# TabControl.Value property (Access)
 
 Determines or specifies the selected  **[Page](Access.Page.md)** object. Read/write **Variant**.
 

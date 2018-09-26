@@ -1,5 +1,5 @@
 ---
-title: Form.UniqueTable Property (Access)
+title: Form.UniqueTable property (Access)
 keywords: vbaac10.chm13485
 f1_keywords:
 - vbaac10.chm13485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.UniqueTable Property (Access)
+# Form.UniqueTable property (Access)
 
 Specifies the table to be updateable when A form is bound to a multiple table view or stored procedure within a Microsoft Access project (.adp).
 

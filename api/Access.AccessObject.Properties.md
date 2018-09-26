@@ -1,5 +1,5 @@
 ---
-title: AccessObject.Properties Property (Access)
+title: AccessObject.Properties property (Access)
 keywords: vbaac10.chm12749
 f1_keywords:
 - vbaac10.chm12749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.Properties Property (Access)
+# AccessObject.Properties property (Access)
 
 Returns a reference to a  **[AccessObject](Access.AccessObject.md)** object's **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection. Read-only.
 

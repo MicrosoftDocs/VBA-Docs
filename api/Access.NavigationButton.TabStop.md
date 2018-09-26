@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.TabStop Property (Access)
+title: NavigationButton.TabStop property (Access)
 keywords: vbaac10.chm10465
 f1_keywords:
 - vbaac10.chm10465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.TabStop Property (Access)
+# NavigationButton.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 

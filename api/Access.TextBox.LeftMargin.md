@@ -1,5 +1,5 @@
 ---
-title: TextBox.LeftMargin Property (Access)
+title: TextBox.LeftMargin property (Access)
 keywords: vbaac10.chm11138
 f1_keywords:
 - vbaac10.chm11138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.LeftMargin Property (Access)
+# TextBox.LeftMargin property (Access)
 
 Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties. specifies the location of information displayed within a text box control. Read/write **Integer**. .
 

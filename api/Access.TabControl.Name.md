@@ -1,5 +1,5 @@
 ---
-title: TabControl.Name Property (Access)
+title: TabControl.Name property (Access)
 keywords: vbaac10.chm12113
 f1_keywords:
 - vbaac10.chm12113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Name Property (Access)
+# TabControl.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

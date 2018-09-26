@@ -1,5 +1,5 @@
 ---
-title: Image.Application Property (Access)
+title: Image.Application property (Access)
 keywords: vbaac10.chm10354
 f1_keywords:
 - vbaac10.chm10354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Application Property (Access)
+# Image.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

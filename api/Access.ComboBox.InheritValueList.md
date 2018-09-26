@@ -1,5 +1,5 @@
 ---
-title: ComboBox.InheritValueList Property (Access)
+title: ComboBox.InheritValueList property (Access)
 keywords: vbaac10.chm11519
 f1_keywords:
 - vbaac10.chm11519
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.InheritValueList Property (Access)
+# ComboBox.InheritValueList property (Access)
 
 Gets or sets whether a combo box's value list is inherited from its field. Read/write  **Boolean**.
 

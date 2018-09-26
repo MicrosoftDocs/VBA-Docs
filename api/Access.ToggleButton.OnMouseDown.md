@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnMouseDown Property (Access)
+title: ToggleButton.OnMouseDown property (Access)
 keywords: vbaac10.chm11755
 f1_keywords:
 - vbaac10.chm11755
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnMouseDown Property (Access)
+# ToggleButton.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

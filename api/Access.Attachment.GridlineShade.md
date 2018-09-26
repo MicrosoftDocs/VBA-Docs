@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineShade Property (Access)
+title: Attachment.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineShade Property (Access)
+# Attachment.GridlineShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 

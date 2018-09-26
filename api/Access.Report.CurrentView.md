@@ -1,5 +1,5 @@
 ---
-title: Report.CurrentView Property (Access)
+title: Report.CurrentView property (Access)
 keywords: vbaac10.chm13826
 f1_keywords:
 - vbaac10.chm13826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.CurrentView Property (Access)
+# Report.CurrentView property (Access)
 
 You can use the  **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
 

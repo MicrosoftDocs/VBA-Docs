@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Top Property (Access)
+title: ComboBox.Top property (Access)
 keywords: vbaac10.chm11402
 f1_keywords:
 - vbaac10.chm11402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Top Property (Access)
+# ComboBox.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

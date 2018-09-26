@@ -1,5 +1,5 @@
 ---
-title: Attachment.OldValue Property (Access)
+title: Attachment.OldValue property (Access)
 keywords: vbaac10.chm13905
 f1_keywords:
 - vbaac10.chm13905
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OldValue Property (Access)
+# Attachment.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

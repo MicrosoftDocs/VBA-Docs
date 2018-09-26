@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.OnMouseDown Property (Access)
+title: OptionGroup.OnMouseDown property (Access)
 keywords: vbaac10.chm10868
 f1_keywords:
 - vbaac10.chm10868
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.OnMouseDown Property (Access)
+# OptionGroup.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnKeyUp Property (Access)
+title: OptionButton.OnKeyUp property (Access)
 keywords: vbaac10.chm10620
 f1_keywords:
 - vbaac10.chm10620
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnKeyUp Property (Access)
+# OptionButton.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

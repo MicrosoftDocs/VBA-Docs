@@ -1,5 +1,5 @@
 ---
-title: Report.OnError Property (Access)
+title: Report.OnError property (Access)
 keywords: vbaac10.chm13769
 f1_keywords:
 - vbaac10.chm13769
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnError Property (Access)
+# Report.OnError property (Access)
 
 Sets or returns the value of the  **OnError** box in the **Properties** window of a form or report. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnClick Property (Access)
+title: TabControl.OnClick property (Access)
 keywords: vbaac10.chm12105
 f1_keywords:
 - vbaac10.chm12105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnClick Property (Access)
+# TabControl.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

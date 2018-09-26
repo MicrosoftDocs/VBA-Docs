@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineColor Property (Access)
+title: NavigationButton.GridlineColor property (Access)
 keywords: vbaac10.chm10536
 f1_keywords:
 - vbaac10.chm10536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineColor Property (Access)
+# NavigationButton.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 

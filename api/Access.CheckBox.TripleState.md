@@ -1,5 +1,5 @@
 ---
-title: CheckBox.TripleState Property (Access)
+title: CheckBox.TripleState property (Access)
 keywords: vbaac10.chm10705
 f1_keywords:
 - vbaac10.chm10705
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.TripleState Property (Access)
+# CheckBox.TripleState property (Access)
 
 You can use the  **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
 

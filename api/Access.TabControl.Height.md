@@ -1,5 +1,5 @@
 ---
-title: TabControl.Height Property (Access)
+title: TabControl.Height property (Access)
 keywords: vbaac10.chm12084
 f1_keywords:
 - vbaac10.chm12084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Height Property (Access)
+# TabControl.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

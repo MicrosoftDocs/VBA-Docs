@@ -1,5 +1,5 @@
 ---
-title: Form.RecordsetClone Property (Access)
+title: Form.RecordsetClone property (Access)
 keywords: vbaac10.chm13496
 f1_keywords:
 - vbaac10.chm13496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.RecordsetClone Property (Access)
+# Form.RecordsetClone property (Access)
 
 You can use the  **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](Access.Form.RecordSource.md)** property. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Image.InSelection Property (Access)
+title: Image.InSelection property (Access)
 keywords: vbaac10.chm10402
 f1_keywords:
 - vbaac10.chm10402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.InSelection Property (Access)
+# Image.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 

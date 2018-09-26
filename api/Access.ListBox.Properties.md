@@ -1,5 +1,5 @@
 ---
-title: ListBox.Properties Property (Access)
+title: ListBox.Properties property (Access)
 keywords: vbaac10.chm11210
 f1_keywords:
 - vbaac10.chm11210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Properties Property (Access)
+# ListBox.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

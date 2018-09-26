@@ -1,5 +1,5 @@
 ---
-title: Report.PrintCount Property (Access)
+title: Report.PrintCount property (Access)
 keywords: vbaac10.chm13734
 f1_keywords:
 - vbaac10.chm13734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PrintCount Property (Access)
+# Report.PrintCount property (Access)
 
 You can use the  **PrintCount** property to identify the number of times the **OnPrint** property has been evaluated for the current section of a report. Read/write **Integer**.
 

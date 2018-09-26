@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineStyleBottom Property (Access)
+title: ListBox.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11313
 f1_keywords:
 - vbaac10.chm11313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineStyleBottom Property (Access)
+# ListBox.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified list box. Read/write  **Byte**.
 

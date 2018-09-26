@@ -1,5 +1,5 @@
 ---
-title: SubForm.OnEnter Property (Access)
+title: SubForm.OnEnter property (Access)
 keywords: vbaac10.chm11958
 f1_keywords:
 - vbaac10.chm11958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.OnEnter Property (Access)
+# SubForm.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

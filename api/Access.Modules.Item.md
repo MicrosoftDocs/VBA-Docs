@@ -1,5 +1,5 @@
 ---
-title: Modules.Item Property (Access)
+title: Modules.Item property (Access)
 keywords: vbaac10.chm12292
 f1_keywords:
 - vbaac10.chm12292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Modules.Item Property (Access)
+# Modules.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Module**.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (Access)
+title: Hyperlink.TextToDisplay property (Access)
 keywords: vbaac10.chm10120
 f1_keywords:
 - vbaac10.chm10120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.TextToDisplay Property (Access)
+# Hyperlink.TextToDisplay property (Access)
 
 You can use the  **TextToDisplay** property to specify or determine the display text for a hyperlink. Read/write **String**.
 

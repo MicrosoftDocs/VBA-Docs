@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnLostFocus Property (Access)
+title: Attachment.OnLostFocus property (Access)
 keywords: vbaac10.chm13944
 f1_keywords:
 - vbaac10.chm13944
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnLostFocus Property (Access)
+# Attachment.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnLostFocus Property (Access)
+title: ToggleButton.OnLostFocus property (Access)
 keywords: vbaac10.chm11752
 f1_keywords:
 - vbaac10.chm11752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnLostFocus Property (Access)
+# ToggleButton.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

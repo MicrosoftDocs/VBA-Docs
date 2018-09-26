@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Property (Access)
+title: Application.AutoCorrect property (Access)
 keywords: vbaac10.chm12608
 f1_keywords:
 - vbaac10.chm12608
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoCorrect Property (Access)
+# Application.AutoCorrect property (Access)
 
 Returns an  **[AutoCorrect](Access.AutoCorrect.md)** object that represents the AutoCorrect settings for Microsoft Access. Read-only.
 

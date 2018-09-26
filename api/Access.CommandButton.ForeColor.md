@@ -1,5 +1,5 @@
 ---
-title: CommandButton.ForeColor Property (Access)
+title: CommandButton.ForeColor property (Access)
 keywords: vbaac10.chm10471
 f1_keywords:
 - vbaac10.chm10471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.ForeColor Property (Access)
+# CommandButton.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 

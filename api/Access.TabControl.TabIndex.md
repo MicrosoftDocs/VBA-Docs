@@ -1,5 +1,5 @@
 ---
-title: TabControl.TabIndex Property (Access)
+title: TabControl.TabIndex property (Access)
 keywords: vbaac10.chm12080
 f1_keywords:
 - vbaac10.chm12080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.TabIndex Property (Access)
+# TabControl.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 

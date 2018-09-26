@@ -1,5 +1,5 @@
 ---
-title: Attachment.LeftPadding Property (Access)
+title: Attachment.LeftPadding property (Access)
 keywords: vbaac10.chm13988
 f1_keywords:
 - vbaac10.chm13988
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LeftPadding Property (Access)
+# Attachment.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the attachment and its left gridline. Read/write  **Integer**.
 

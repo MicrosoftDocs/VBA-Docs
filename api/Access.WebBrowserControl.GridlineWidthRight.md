@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GridlineWidthRight Property (Access)
+title: WebBrowserControl.GridlineWidthRight property (Access)
 keywords: vbaac10.chm14400
 f1_keywords:
 - vbaac10.chm14400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GridlineWidthRight Property (Access)
+# WebBrowserControl.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
 

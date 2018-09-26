@@ -1,5 +1,5 @@
 ---
-title: Label.Top Property (Access)
+title: Label.Top property (Access)
 keywords: vbaac10.chm10198
 f1_keywords:
 - vbaac10.chm10198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Top Property (Access)
+# Label.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

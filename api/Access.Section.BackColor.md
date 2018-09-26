@@ -1,5 +1,5 @@
 ---
-title: Section.BackColor Property (Access)
+title: Section.BackColor property (Access)
 keywords: vbaac10.chm12201
 f1_keywords:
 - vbaac10.chm12201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.BackColor Property (Access)
+# Section.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 

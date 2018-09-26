@@ -1,5 +1,5 @@
 ---
-title: Image.ControlType Property (Access)
+title: Image.ControlType property (Access)
 keywords: vbaac10.chm10365
 f1_keywords:
 - vbaac10.chm10365
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.ControlType Property (Access)
+# Image.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

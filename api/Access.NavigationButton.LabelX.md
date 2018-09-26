@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.LabelX Property (Access)
+title: NavigationButton.LabelX property (Access)
 keywords: vbaac10.chm10484
 f1_keywords:
 - vbaac10.chm10484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.LabelX Property (Access)
+# NavigationButton.LabelX property (Access)
 
 The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

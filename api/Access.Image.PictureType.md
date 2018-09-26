@@ -1,5 +1,5 @@
 ---
-title: Image.PictureType Property (Access)
+title: Image.PictureType property (Access)
 keywords: vbaac10.chm10367
 f1_keywords:
 - vbaac10.chm10367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.PictureType Property (Access)
+# Image.PictureType property (Access)
 
 You can use the  **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 

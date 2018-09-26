@@ -1,5 +1,5 @@
 ---
-title: Page.PageIndex Property (Access)
+title: Page.PageIndex property (Access)
 keywords: vbaac10.chm12151,vbaac10.chm4455
 f1_keywords:
 - vbaac10.chm12151,vbaac10.chm4455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.PageIndex Property (Access)
+# Page.PageIndex property (Access)
 
 You can use the  **PageIndex** property to specify or determine the position of a **[Page](Access.Page.md)** object within a **[Pages](Access.Pages.md)** collection. The **PageIndex** property specifies the order in which the pages on a tab control appear. Read/write **Integer**.
 

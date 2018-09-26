@@ -1,5 +1,5 @@
 ---
-title: Image.VerticalAnchor Property (Access)
+title: Image.VerticalAnchor property (Access)
 keywords: vbaac10.chm10427
 f1_keywords:
 - vbaac10.chm10427
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.VerticalAnchor Property (Access)
+# Image.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified image is anchored vertically within its layout. Read/write.
 

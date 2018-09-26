@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Value Property (Access)
+title: NavigationControl.Value property (Access)
 keywords: vbaac10.chm11039
 f1_keywords:
 - vbaac10.chm11039
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Value Property (Access)
+# NavigationControl.Value property (Access)
 
 Determines or specifies the text in the text box. Read/write  **Variant**.
 

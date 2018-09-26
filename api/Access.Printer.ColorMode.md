@@ -1,5 +1,5 @@
 ---
-title: Printer.ColorMode Property (Access)
+title: Printer.ColorMode property (Access)
 keywords: vbaac10.chm12857
 f1_keywords:
 - vbaac10.chm12857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.ColorMode Property (Access)
+# Printer.ColorMode property (Access)
 
 Returns or sets an  **[AcPrintColor](Access.AcPrintColor.md)** constant representing whether the specified printer should print output in color or monochrome. Read/write.
 

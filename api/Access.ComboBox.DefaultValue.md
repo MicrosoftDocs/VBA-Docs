@@ -1,5 +1,5 @@
 ---
-title: ComboBox.DefaultValue Property (Access)
+title: ComboBox.DefaultValue property (Access)
 keywords: vbaac10.chm11389
 f1_keywords:
 - vbaac10.chm11389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.DefaultValue Property (Access)
+# ComboBox.DefaultValue property (Access)
 
 Specifies a value that is automatically entered in a field when a new record is created. For example, in an Addresses table you can set the default value for the City field to New York. When users add a record to the table, they can either accept this value or enter the name of a different city. Read/write  **String**.
 

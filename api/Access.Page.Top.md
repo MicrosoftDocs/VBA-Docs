@@ -1,5 +1,5 @@
 ---
-title: Page.Top Property (Access)
+title: Page.Top property (Access)
 keywords: vbaac10.chm12156
 f1_keywords:
 - vbaac10.chm12156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Top Property (Access)
+# Page.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

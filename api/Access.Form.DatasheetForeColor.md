@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetForeColor Property (Access)
+title: Form.DatasheetForeColor property (Access)
 keywords: vbaac10.chm13405
 f1_keywords:
 - vbaac10.chm13405
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetForeColor Property (Access)
+# Form.DatasheetForeColor property (Access)
 
 You can use the  **DatasheetForeColor** property in Visual Basic to specify or determine the color of all text in a table, query, or form in Datasheet view within an Access database. Read/write **Long**.
 

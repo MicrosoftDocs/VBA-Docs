@@ -1,5 +1,5 @@
 ---
-title: Image.BorderColor Property (Access)
+title: Image.BorderColor property (Access)
 keywords: vbaac10.chm10385
 f1_keywords:
 - vbaac10.chm10385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BorderColor Property (Access)
+# Image.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 

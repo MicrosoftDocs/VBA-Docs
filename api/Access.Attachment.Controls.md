@@ -1,5 +1,5 @@
 ---
-title: Attachment.Controls Property (Access)
+title: Attachment.Controls property (Access)
 keywords: vbaac10.chm13910
 f1_keywords:
 - vbaac10.chm13910
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Controls Property (Access)
+# Attachment.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

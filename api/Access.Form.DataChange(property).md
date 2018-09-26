@@ -1,5 +1,5 @@
 ---
-title: Form.DataChange Property (Access)
+title: Form.DataChange property (Access)
 keywords: vbaac10.chm13554
 f1_keywords:
 - vbaac10.chm13554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DataChange Property (Access)
+# Form.DataChange property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[DataChange](Access.Form.DataChange(even).md)** event occurs. Read/write.
 

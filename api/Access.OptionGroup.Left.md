@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Left Property (Access)
+title: OptionGroup.Left property (Access)
 keywords: vbaac10.chm10834
 f1_keywords:
 - vbaac10.chm10834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Left Property (Access)
+# OptionGroup.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

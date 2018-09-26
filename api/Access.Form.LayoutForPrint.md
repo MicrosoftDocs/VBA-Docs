@@ -1,5 +1,5 @@
 ---
-title: Form.LayoutForPrint Property (Access)
+title: Form.LayoutForPrint property (Access)
 keywords: vbaac10.chm13391
 f1_keywords:
 - vbaac10.chm13391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.LayoutForPrint Property (Access)
+# Form.LayoutForPrint property (Access)
 
 You can use the  **LayoutForPrint** property to specify whether the form uses printer or screen fonts. Read/write **Boolean**.
 

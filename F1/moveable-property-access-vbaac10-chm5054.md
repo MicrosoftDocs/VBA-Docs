@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.Moveable Property (Access)](http://msdn.microsoft.com/library/77e682a5-7a0f-f55e-a469-2770bb2de844%28Office.15%29.aspx)
+[Report.Moveable property (Access)](http://msdn.microsoft.com/library/77e682a5-7a0f-f55e-a469-2770bb2de844%28Office.15%29.aspx)
 
-[Form.Moveable Property (Access)](http://msdn.microsoft.com/library/ad0db2eb-9905-15d9-7a96-e61cefd12842%28Office.15%29.aspx)
+[Form.Moveable property (Access)](http://msdn.microsoft.com/library/ad0db2eb-9905-15d9-7a96-e61cefd12842%28Office.15%29.aspx)
 
 

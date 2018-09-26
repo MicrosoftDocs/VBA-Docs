@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Controls Property (Access)
+title: ComboBox.Controls property (Access)
 keywords: vbaac10.chm11367
 f1_keywords:
 - vbaac10.chm11367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Controls Property (Access)
+# ComboBox.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

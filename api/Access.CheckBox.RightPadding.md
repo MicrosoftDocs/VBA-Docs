@@ -1,5 +1,5 @@
 ---
-title: CheckBox.RightPadding Property (Access)
+title: CheckBox.RightPadding property (Access)
 keywords: vbaac10.chm10770
 f1_keywords:
 - vbaac10.chm10770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.RightPadding Property (Access)
+# CheckBox.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the check box and its right gridline. Read/write  **Integer**.
 

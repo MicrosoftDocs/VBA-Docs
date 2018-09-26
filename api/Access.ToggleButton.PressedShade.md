@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.PressedShade Property (Access)
+title: ToggleButton.PressedShade property (Access)
 keywords: vbaac10.chm14622
 f1_keywords:
 - vbaac10.chm14622
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.PressedShade Property (Access)
+# ToggleButton.PressedShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **PressedColor** property of the specified object. Read/write **Single**.
 

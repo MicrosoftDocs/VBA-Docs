@@ -1,5 +1,5 @@
 ---
-title: Label.FontWeight Property (Access)
+title: Label.FontWeight property (Access)
 keywords: vbaac10.chm10212
 f1_keywords:
 - vbaac10.chm10212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontWeight Property (Access)
+# Label.FontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 

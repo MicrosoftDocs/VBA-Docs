@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineStyleRight Property (Access)
+title: ListBox.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11312
 f1_keywords:
 - vbaac10.chm11312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineStyleRight Property (Access)
+# ListBox.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified list box. Read/write  **Byte**.
 

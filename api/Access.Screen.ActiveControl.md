@@ -1,5 +1,5 @@
 ---
-title: Screen.ActiveControl Property (Access)
+title: Screen.ActiveControl property (Access)
 keywords: vbaac10.chm12488
 f1_keywords:
 - vbaac10.chm12488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.ActiveControl Property (Access)
+# Screen.ActiveControl property (Access)
 
 You can use the  **ActiveControl** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
 

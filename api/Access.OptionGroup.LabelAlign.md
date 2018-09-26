@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.LabelAlign Property (Access)
+title: OptionGroup.LabelAlign property (Access)
 keywords: vbaac10.chm10856
 f1_keywords:
 - vbaac10.chm10856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.LabelAlign Property (Access)
+# OptionGroup.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 

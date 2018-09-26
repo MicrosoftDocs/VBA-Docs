@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.BeforeDelConfirm Property (Access)](http://msdn.microsoft.com/library/8926afb1-5a86-eddd-5b3f-68abe83fb076%28Office.15%29.aspx)
+[Form.BeforeDelConfirm property (Access)](http://msdn.microsoft.com/library/8926afb1-5a86-eddd-5b3f-68abe83fb076%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OnLostFocus Property (Access)
+title: Report.OnLostFocus property (Access)
 keywords: vbaac10.chm13860
 f1_keywords:
 - vbaac10.chm13860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnLostFocus Property (Access)
+# Report.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified report. Read/write **String**.
 

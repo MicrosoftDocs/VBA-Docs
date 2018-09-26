@@ -1,5 +1,5 @@
 ---
-title: CommandButton.HyperlinkAddress Property (Access)
+title: CommandButton.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10460
 f1_keywords:
 - vbaac10.chm10460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.HyperlinkAddress Property (Access)
+# CommandButton.HyperlinkAddress property (Access)
 
 You can use the  **HyperlinkAddress** property to specify or determine the path to an object, document, Web page or other destination for a hyperlink associated with a the specified control. Read/write **String**.
 

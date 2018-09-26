@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Verb Property (Access)
+title: BoundObjectFrame.Verb property (Access)
 keywords: vbaac10.chm10918
 f1_keywords:
 - vbaac10.chm10918
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Verb Property (Access)
+# BoundObjectFrame.Verb property (Access)
 
 You can use the  **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate**. Read/write **Long**.
 

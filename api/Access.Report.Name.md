@@ -1,5 +1,5 @@
 ---
-title: Report.Name Property (Access)
+title: Report.Name property (Access)
 keywords: vbaac10.chm13795
 f1_keywords:
 - vbaac10.chm13795
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Name Property (Access)
+# Report.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

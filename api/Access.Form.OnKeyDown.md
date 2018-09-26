@@ -1,5 +1,5 @@
 ---
-title: Form.OnKeyDown Property (Access)
+title: Form.OnKeyDown property (Access)
 keywords: vbaac10.chm13454
 f1_keywords:
 - vbaac10.chm13454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnKeyDown Property (Access)
+# Form.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

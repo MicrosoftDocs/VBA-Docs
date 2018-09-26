@@ -1,5 +1,5 @@
 ---
-title: Form.FrozenColumns Property (Access)
+title: Form.FrozenColumns property (Access)
 keywords: vbaac10.chm13420
 f1_keywords:
 - vbaac10.chm13420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.FrozenColumns Property (Access)
+# Form.FrozenColumns property (Access)
 
 You can use the  **FrozenColumns** property to determine how many columns in a datasheet are frozen. Read/write **Integer**.
 

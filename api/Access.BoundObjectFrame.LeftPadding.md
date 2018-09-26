@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.LeftPadding Property (Access)
+title: BoundObjectFrame.LeftPadding property (Access)
 keywords: vbaac10.chm10995
 f1_keywords:
 - vbaac10.chm10995
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.LeftPadding Property (Access)
+# BoundObjectFrame.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the object frame and its left gridline. Read/write  **Integer**.
 

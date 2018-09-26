@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Parent Property (Access)
+title: PageBreak.Parent property (Access)
 keywords: vbaac10.chm11668
 f1_keywords:
 - vbaac10.chm11668
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Parent Property (Access)
+# PageBreak.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

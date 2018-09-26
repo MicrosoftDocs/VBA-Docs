@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.BackStyle Property (Access)
+title: EmptyCell.BackStyle property (Access)
 keywords: vbaac10.chm14311
 f1_keywords:
 - vbaac10.chm14311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.BackStyle Property (Access)
+# EmptyCell.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.ServerFilterByForm Property (Access)
+title: Form.ServerFilterByForm property (Access)
 keywords: vbaac10.chm13483
 f1_keywords:
 - vbaac10.chm13483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ServerFilterByForm Property (Access)
+# Form.ServerFilterByForm property (Access)
 
 You can use the  **ServerFilterByForm** property to specify or determine whether a form is opened in the Server Filter By Form window. Read/write **Boolean**.
 

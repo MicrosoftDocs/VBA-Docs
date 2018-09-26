@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Gradient Property (Access)
+title: ToggleButton.Gradient property (Access)
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Gradient Property (Access)
+# ToggleButton.Gradient property (Access)
 
 Gets or sets the gradient fill applied to the specified object. Read/write  **Long**.
 

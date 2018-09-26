@@ -1,5 +1,5 @@
 ---
-title: Report.AllowLayoutView Property (Access)
+title: Report.AllowLayoutView property (Access)
 keywords: vbaac10.chm13855
 f1_keywords:
 - vbaac10.chm13855
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.AllowLayoutView Property (Access)
+# Report.AllowLayoutView property (Access)
 
 Gets or sets whether the specified report can be used in Layout View. Read/write  **Boolean**.
 

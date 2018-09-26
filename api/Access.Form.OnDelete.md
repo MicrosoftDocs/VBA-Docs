@@ -1,5 +1,5 @@
 ---
-title: Form.OnDelete Property (Access)
+title: Form.OnDelete property (Access)
 keywords: vbaac10.chm13437,vbaac10.chm5427
 f1_keywords:
 - vbaac10.chm13437,vbaac10.chm5427
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnDelete Property (Access)
+# Form.OnDelete property (Access)
 
 Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String**.
 

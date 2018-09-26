@@ -1,5 +1,5 @@
 ---
-title: Report.OnUnload Property (Access)
+title: Report.OnUnload property (Access)
 keywords: vbaac10.chm13858
 f1_keywords:
 - vbaac10.chm13858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnUnload Property (Access)
+# Report.OnUnload property (Access)
 
 Sets or returns the value of the  **On Unload** box in the **Properties** window of a form. Read/write **String**.
 

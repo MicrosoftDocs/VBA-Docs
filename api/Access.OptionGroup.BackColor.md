@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BackColor Property (Access)
+title: OptionGroup.BackColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BackColor Property (Access)
+# OptionGroup.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.FontUnderline Property (Access)
+title: TextBox.FontUnderline property (Access)
 keywords: vbaac10.chm11088
 f1_keywords:
 - vbaac10.chm11088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FontUnderline Property (Access)
+# TextBox.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 

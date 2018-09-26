@@ -1,5 +1,5 @@
 ---
-title: Application.IsCompiled Property (Access)
+title: Application.IsCompiled property (Access)
 keywords: vbaac10.chm12567
 f1_keywords:
 - vbaac10.chm12567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IsCompiled Property (Access)
+# Application.IsCompiled property (Access)
 
 The  **IsCompiled** property returns a **Boolean** value indicating whether the Visual Basic project is in a compiled state. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Tag Property (Access)
+title: Rectangle.Tag property (Access)
 keywords: vbaac10.chm10297
 f1_keywords:
 - vbaac10.chm10297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Tag Property (Access)
+# Rectangle.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

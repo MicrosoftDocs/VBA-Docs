@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.InSelection Property (Access)
+title: EmptyCell.InSelection property (Access)
 keywords: vbaac10.chm14319
 f1_keywords:
 - vbaac10.chm14319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.InSelection Property (Access)
+# EmptyCell.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 

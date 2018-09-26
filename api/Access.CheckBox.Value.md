@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Value Property (Access)
+title: CheckBox.Value property (Access)
 keywords: vbaac10.chm10691
 f1_keywords:
 - vbaac10.chm10691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Value Property (Access)
+# CheckBox.Value property (Access)
 
 Determines or specifies whether or not the specifed check box is checked. Read /write  **Variant**.
 

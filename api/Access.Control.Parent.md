@@ -1,5 +1,5 @@
 ---
-title: Control.Parent Property (Access)
+title: Control.Parent property (Access)
 keywords: vbaac10.chm10133
 f1_keywords:
 - vbaac10.chm10133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Parent Property (Access)
+# Control.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

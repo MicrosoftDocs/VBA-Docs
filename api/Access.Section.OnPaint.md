@@ -1,5 +1,5 @@
 ---
-title: Section.OnPaint Property (Access)
+title: Section.OnPaint property (Access)
 keywords: vbaac10.chm12227,vbaac10.chm5808
 f1_keywords:
 - vbaac10.chm12227,vbaac10.chm5808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnPaint Property (Access)
+# Section.OnPaint property (Access)
 
 Sets or returns the value of the  **On Paint** box in the **Properties** window of a form or report. Read/write **String**.
 

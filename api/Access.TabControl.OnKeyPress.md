@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnKeyPress Property (Access)
+title: TabControl.OnKeyPress property (Access)
 keywords: vbaac10.chm12112
 f1_keywords:
 - vbaac10.chm12112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnKeyPress Property (Access)
+# TabControl.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

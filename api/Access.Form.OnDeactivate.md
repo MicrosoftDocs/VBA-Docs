@@ -1,5 +1,5 @@
 ---
-title: Form.OnDeactivate Property (Access)
+title: Form.OnDeactivate property (Access)
 keywords: vbaac10.chm13446
 f1_keywords:
 - vbaac10.chm13446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnDeactivate Property (Access)
+# Form.OnDeactivate property (Access)
 
 Sets or returns the value of the  **On Deactivate** box in the **Properties** window of a form or report. Read/write **String**.
 

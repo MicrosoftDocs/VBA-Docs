@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.GroupHeader Property (Access)
+title: GroupLevel.GroupHeader property (Access)
 keywords: vbaac10.chm12241
 f1_keywords:
 - vbaac10.chm12241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.GroupHeader Property (Access)
+# GroupLevel.GroupHeader property (Access)
 
 You can use the  **GroupHeader** property to create a group header for a selected field or expression in a report. Read/write **Boolean**.
 

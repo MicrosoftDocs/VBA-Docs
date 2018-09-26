@@ -1,5 +1,5 @@
 ---
-title: SmartTags.Item Property (Access)
+title: SmartTags.Item property (Access)
 keywords: vbaac10.chm13284
 f1_keywords:
 - vbaac10.chm13284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTags.Item Property (Access)
+# SmartTags.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **SmartTag**.
 

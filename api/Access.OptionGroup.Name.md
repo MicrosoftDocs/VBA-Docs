@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Name Property (Access)
+title: OptionGroup.Name property (Access)
 keywords: vbaac10.chm10871
 f1_keywords:
 - vbaac10.chm10871
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Name Property (Access)
+# OptionGroup.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

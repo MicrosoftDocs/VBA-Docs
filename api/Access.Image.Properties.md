@@ -1,5 +1,5 @@
 ---
-title: Image.Properties Property (Access)
+title: Image.Properties property (Access)
 keywords: vbaac10.chm10357
 f1_keywords:
 - vbaac10.chm10357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Properties Property (Access)
+# Image.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

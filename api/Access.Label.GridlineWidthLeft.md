@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineWidthLeft Property (Access)
+title: Label.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm10253
 f1_keywords:
 - vbaac10.chm10253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineWidthLeft Property (Access)
+# Label.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified label. Read/write  **Byte**.
 

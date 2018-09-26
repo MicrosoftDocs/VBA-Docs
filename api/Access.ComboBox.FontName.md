@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FontName Property (Access)
+title: ComboBox.FontName property (Access)
 keywords: vbaac10.chm11414
 f1_keywords:
 - vbaac10.chm11414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FontName Property (Access)
+# ComboBox.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 

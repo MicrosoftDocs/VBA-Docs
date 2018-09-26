@@ -1,5 +1,5 @@
 ---
-title: TabControl.TabFixedHeight Property (Access)
+title: TabControl.TabFixedHeight property (Access)
 keywords: vbaac10.chm12088,vbaac10.chm4517
 f1_keywords:
 - vbaac10.chm12088,vbaac10.chm4517
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.TabFixedHeight Property (Access)
+# TabControl.TabFixedHeight property (Access)
 
 You can use the  **TabFixedHeight** property to specify or determine the height of the tabs on a tab control. Read/write **Integer**.
 

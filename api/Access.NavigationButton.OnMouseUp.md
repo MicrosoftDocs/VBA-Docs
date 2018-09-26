@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnMouseUp Property (Access)
+title: NavigationButton.OnMouseUp property (Access)
 keywords: vbaac10.chm10501
 f1_keywords:
 - vbaac10.chm10501
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnMouseUp Property (Access)
+# NavigationButton.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

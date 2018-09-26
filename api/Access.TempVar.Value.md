@@ -1,5 +1,5 @@
 ---
-title: TempVar.Value Property (Access)
+title: TempVar.Value property (Access)
 keywords: vbaac10.chm14061
 f1_keywords:
 - vbaac10.chm14061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVar.Value Property (Access)
+# TempVar.Value property (Access)
 
 Gets or sets the value of the specified  **[TempVar](Access.TempVar.md)**. Read/write **Variant**.
 

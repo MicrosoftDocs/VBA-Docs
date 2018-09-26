@@ -1,5 +1,5 @@
 ---
-title: Report.AllowReportView Property (Access)
+title: Report.AllowReportView property (Access)
 keywords: vbaac10.chm13819
 f1_keywords:
 - vbaac10.chm13819
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.AllowReportView Property (Access)
+# Report.AllowReportView property (Access)
 
 Gets or sets whether the user is allowed to enter Report view while using the specified report. Read/write  **Boolean**.
 

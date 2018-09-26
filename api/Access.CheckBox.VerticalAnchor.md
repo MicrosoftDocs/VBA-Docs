@@ -1,5 +1,5 @@
 ---
-title: CheckBox.VerticalAnchor Property (Access)
+title: CheckBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm10782
 f1_keywords:
 - vbaac10.chm10782
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.VerticalAnchor Property (Access)
+# CheckBox.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified check box is anchored vertically within its layout. Read/write.
 

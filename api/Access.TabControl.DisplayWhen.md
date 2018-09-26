@@ -1,5 +1,5 @@
 ---
-title: TabControl.DisplayWhen Property (Access)
+title: TabControl.DisplayWhen property (Access)
 keywords: vbaac10.chm12077
 f1_keywords:
 - vbaac10.chm12077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.DisplayWhen Property (Access)
+# TabControl.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 

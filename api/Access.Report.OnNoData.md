@@ -1,5 +1,5 @@
 ---
-title: Report.OnNoData Property (Access)
+title: Report.OnNoData property (Access)
 keywords: vbaac10.chm13767,vbaac10.chm4135
 f1_keywords:
 - vbaac10.chm13767,vbaac10.chm4135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnNoData Property (Access)
+# Report.OnNoData property (Access)
 
 Sets or returns the value of the  **On No Data** box in the **Properties** window of a report. Read/write **String**.
 

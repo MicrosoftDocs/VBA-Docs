@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Application Property (Access)
+title: CommandButton.Application property (Access)
 keywords: vbaac10.chm10438
 f1_keywords:
 - vbaac10.chm10438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Application Property (Access)
+# CommandButton.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

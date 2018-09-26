@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.SpecialEffect Property (Access)
+title: EmptyCell.SpecialEffect property (Access)
 keywords: vbaac10.chm14313
 f1_keywords:
 - vbaac10.chm14313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.SpecialEffect Property (Access)
+# EmptyCell.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 

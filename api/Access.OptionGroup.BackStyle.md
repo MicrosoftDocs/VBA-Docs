@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BackStyle Property (Access)
+title: OptionGroup.BackStyle property (Access)
 keywords: vbaac10.chm10838
 f1_keywords:
 - vbaac10.chm10838
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BackStyle Property (Access)
+# OptionGroup.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

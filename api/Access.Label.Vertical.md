@@ -1,5 +1,5 @@
 ---
-title: Label.Vertical Property (Access)
+title: Label.Vertical property (Access)
 keywords: vbaac10.chm10196
 f1_keywords:
 - vbaac10.chm10196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Vertical Property (Access)
+# Label.Vertical property (Access)
 
 You can use the  **Vertical** property to set a form control for vertical display and editing or set a report control for vertical display and printing. Read/write **Boolean**.
 

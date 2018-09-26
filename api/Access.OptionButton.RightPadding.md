@@ -1,5 +1,5 @@
 ---
-title: OptionButton.RightPadding Property (Access)
+title: OptionButton.RightPadding property (Access)
 keywords: vbaac10.chm10643
 f1_keywords:
 - vbaac10.chm10643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.RightPadding Property (Access)
+# OptionButton.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the option button and its right gridline. Read/write  **Integer**.
 

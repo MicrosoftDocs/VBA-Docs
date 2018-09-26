@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.EventProcPrefix Property (Access)
+title: BoundObjectFrame.EventProcPrefix property (Access)
 keywords: vbaac10.chm10907
 f1_keywords:
 - vbaac10.chm10907
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.EventProcPrefix Property (Access)
+# BoundObjectFrame.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

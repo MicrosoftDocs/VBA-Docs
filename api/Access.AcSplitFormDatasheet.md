@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcSplitFormDatasheet enumeration (Access)
 
-Used with the [Form.SplitFormDatasheet Property (Access)](Access.Form.SplitFormDatasheet.md) property to specify whether the user can edit contents of the datasheet while a form is displayed in Split Form view.
+Used with the [Form.SplitFormDatasheet property (Access)](Access.Form.SplitFormDatasheet.md) property to specify whether the user can edit contents of the datasheet while a form is displayed in Split Form view.
 
 
 

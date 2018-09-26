@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.AllReports Property (Access)
+title: CurrentProject.AllReports property (Access)
 keywords: vbaac10.chm12708
 f1_keywords:
 - vbaac10.chm12708
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.AllReports Property (Access)
+# CurrentProject.AllReports property (Access)
 
 You can use the  **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
 

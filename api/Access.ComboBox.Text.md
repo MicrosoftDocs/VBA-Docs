@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Text Property (Access)
+title: ComboBox.Text property (Access)
 keywords: vbaac10.chm11436
 f1_keywords:
 - vbaac10.chm11436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Text Property (Access)
+# ComboBox.Text property (Access)
 
 You can use the  **Text** property to set or return the text contained in the text box portion of a combo box. Read/write **String**.
 

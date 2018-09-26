@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnAttachmentCurrent Property (Access)
+title: Attachment.OnAttachmentCurrent property (Access)
 keywords: vbaac10.chm13953,vbaac10.chm5830
 f1_keywords:
 - vbaac10.chm13953,vbaac10.chm5830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnAttachmentCurrent Property (Access)
+# Attachment.OnAttachmentCurrent property (Access)
 
 Sets or gets the value of the  **On Attachment Current** box in the Properties window of the specified **Attachment**. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OnMouseMove Property (Access)
+title: Report.OnMouseMove property (Access)
 keywords: vbaac10.chm13864
 f1_keywords:
 - vbaac10.chm13864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnMouseMove Property (Access)
+# Report.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

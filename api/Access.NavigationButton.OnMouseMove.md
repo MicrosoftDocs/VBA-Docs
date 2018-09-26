@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnMouseMove Property (Access)
+title: NavigationButton.OnMouseMove property (Access)
 keywords: vbaac10.chm10500
 f1_keywords:
 - vbaac10.chm10500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnMouseMove Property (Access)
+# NavigationButton.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

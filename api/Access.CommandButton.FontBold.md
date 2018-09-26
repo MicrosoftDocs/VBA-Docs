@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontBold Property (Access)
+title: CommandButton.FontBold property (Access)
 keywords: vbaac10.chm10478
 f1_keywords:
 - vbaac10.chm10478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontBold Property (Access)
+# CommandButton.FontBold property (Access)
 
 You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
 

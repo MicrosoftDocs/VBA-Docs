@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Application Property (Access)
+title: ObjectFrame.Application property (Access)
 keywords: vbaac10.chm11547
 f1_keywords:
 - vbaac10.chm11547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Application Property (Access)
+# ObjectFrame.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

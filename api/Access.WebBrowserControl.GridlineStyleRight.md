@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GridlineStyleRight Property (Access)
+title: WebBrowserControl.GridlineStyleRight property (Access)
 keywords: vbaac10.chm14396
 f1_keywords:
 - vbaac10.chm14396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GridlineStyleRight Property (Access)
+# WebBrowserControl.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
 

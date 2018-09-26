@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineWidthLeft Property (Access)
+title: NavigationControl.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11160
 f1_keywords:
 - vbaac10.chm11160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineWidthLeft Property (Access)
+# NavigationControl.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified text box. Read/write  **Byte**.
 

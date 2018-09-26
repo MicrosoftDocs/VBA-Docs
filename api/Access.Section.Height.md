@@ -1,5 +1,5 @@
 ---
-title: Section.Height Property (Access)
+title: Section.Height property (Access)
 keywords: vbaac10.chm12200
 f1_keywords:
 - vbaac10.chm12200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Height Property (Access)
+# Section.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

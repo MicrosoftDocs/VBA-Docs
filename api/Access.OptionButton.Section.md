@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Section Property (Access)
+title: OptionButton.Section property (Access)
 keywords: vbaac10.chm10603
 f1_keywords:
 - vbaac10.chm10603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Section Property (Access)
+# OptionButton.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

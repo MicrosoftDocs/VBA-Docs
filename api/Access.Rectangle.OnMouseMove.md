@@ -1,5 +1,5 @@
 ---
-title: Rectangle.OnMouseMove Property (Access)
+title: Rectangle.OnMouseMove property (Access)
 keywords: vbaac10.chm10303
 f1_keywords:
 - vbaac10.chm10303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.OnMouseMove Property (Access)
+# Rectangle.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

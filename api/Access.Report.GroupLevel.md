@@ -1,5 +1,5 @@
 ---
-title: Report.GroupLevel Property (Access)
+title: Report.GroupLevel property (Access)
 keywords: vbaac10.chm13790
 f1_keywords:
 - vbaac10.chm13790
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.GroupLevel Property (Access)
+# Report.GroupLevel property (Access)
 
 You can use the  **GroupLevel** property in Visual Basic to refer to the group level you are grouping or sorting on in a report. Read-only **GroupLevel** object.
 

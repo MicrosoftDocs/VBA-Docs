@@ -1,5 +1,5 @@
 ---
-title: TextBox.StatusBarText Property (Access)
+title: TextBox.StatusBarText property (Access)
 keywords: vbaac10.chm11053
 f1_keywords:
 - vbaac10.chm11053
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.StatusBarText Property (Access)
+# TextBox.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

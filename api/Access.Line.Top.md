@@ -1,5 +1,5 @@
 ---
-title: Line.Top Property (Access)
+title: Line.Top property (Access)
 keywords: vbaac10.chm10333
 f1_keywords:
 - vbaac10.chm10333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Top Property (Access)
+# Line.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

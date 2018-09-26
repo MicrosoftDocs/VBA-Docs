@@ -1,5 +1,5 @@
 ---
-title: Form.ViewsAllowed Property (Access)
+title: Form.ViewsAllowed property (Access)
 keywords: vbaac10.chm13353
 f1_keywords:
 - vbaac10.chm13353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ViewsAllowed Property (Access)
+# Form.ViewsAllowed property (Access)
 
 You can use the  **ViewsAllowed** property to specify whether users can switch between Datasheet view and Form view by clicking the **Form View** or **Datasheet View** command on the **View** menu or by clicking the arrow next to the **View** button and clicking **Form View** or **Datasheet View**. Read/write **Byte**.
 

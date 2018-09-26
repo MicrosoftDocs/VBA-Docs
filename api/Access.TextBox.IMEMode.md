@@ -1,5 +1,5 @@
 ---
-title: TextBox.IMEMode Property (Access)
+title: TextBox.IMEMode property (Access)
 keywords: vbaac10.chm11135
 f1_keywords:
 - vbaac10.chm11135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.IMEMode Property (Access)
+# TextBox.IMEMode property (Access)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.RightPadding Property (Access)
+title: ObjectFrame.RightPadding property (Access)
 keywords: vbaac10.chm11641
 f1_keywords:
 - vbaac10.chm11641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.RightPadding Property (Access)
+# ObjectFrame.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the object frame and its right gridline. Read/write  **Integer**.
 

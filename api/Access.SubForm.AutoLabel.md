@@ -1,5 +1,5 @@
 ---
-title: SubForm.AutoLabel Property (Access)
+title: SubForm.AutoLabel property (Access)
 keywords: vbaac10.chm11948
 f1_keywords:
 - vbaac10.chm11948
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.AutoLabel Property (Access)
+# SubForm.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

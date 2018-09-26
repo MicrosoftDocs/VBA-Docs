@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Parent Property (Access)
+title: ToggleButton.Parent property (Access)
 keywords: vbaac10.chm11688
 f1_keywords:
 - vbaac10.chm11688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Parent Property (Access)
+# ToggleButton.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

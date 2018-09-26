@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AllowFilters Property (Access)](http://msdn.microsoft.com/library/ca2998b5-d5e0-f1ba-f9da-d89ef24a3701%28Office.15%29.aspx)
+[Form.AllowFilters property (Access)](http://msdn.microsoft.com/library/ca2998b5-d5e0-f1ba-f9da-d89ef24a3701%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GridlineWidthRight Property (Access)
+title: CustomControl.GridlineWidthRight property (Access)
 keywords: vbaac10.chm10534
 f1_keywords:
 - vbaac10.chm10534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GridlineWidthRight Property (Access)
+# CustomControl.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
 

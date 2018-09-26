@@ -1,5 +1,5 @@
 ---
-title: CustomControl.ControlType Property (Access)
+title: CustomControl.ControlType property (Access)
 keywords: vbaac10.chm12008
 f1_keywords:
 - vbaac10.chm12008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.ControlType Property (Access)
+# CustomControl.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

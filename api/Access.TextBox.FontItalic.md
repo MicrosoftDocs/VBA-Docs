@@ -1,5 +1,5 @@
 ---
-title: TextBox.FontItalic Property (Access)
+title: TextBox.FontItalic property (Access)
 keywords: vbaac10.chm11087
 f1_keywords:
 - vbaac10.chm11087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FontItalic Property (Access)
+# TextBox.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineStyleLeft Property (Access)
+title: ComboBox.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm11485
 f1_keywords:
 - vbaac10.chm11485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineStyleLeft Property (Access)
+# ComboBox.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified combo box. Read/write  **Byte**.
 

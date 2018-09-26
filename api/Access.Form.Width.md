@@ -1,5 +1,5 @@
 ---
-title: Form.Width Property (Access)
+title: Form.Width property (Access)
 keywords: vbaac10.chm13378
 f1_keywords:
 - vbaac10.chm13378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Width Property (Access)
+# Form.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

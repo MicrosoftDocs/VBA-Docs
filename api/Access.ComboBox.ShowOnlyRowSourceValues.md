@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ShowOnlyRowSourceValues Property (Access)
+title: ComboBox.ShowOnlyRowSourceValues property (Access)
 keywords: vbaac10.chm11525
 f1_keywords:
 - vbaac10.chm11525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ShowOnlyRowSourceValues Property (Access)
+# ComboBox.ShowOnlyRowSourceValues property (Access)
 
 Gets or sets whether the combo box can display values that aren't specified by the  **RowSource** property. Read/write **Boolean**.
 

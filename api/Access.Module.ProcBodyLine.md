@@ -1,5 +1,5 @@
 ---
-title: Module.ProcBodyLine Property (Access)
+title: Module.ProcBodyLine property (Access)
 keywords: vbaac10.chm12282
 f1_keywords:
 - vbaac10.chm12282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcBodyLine Property (Access)
+# Module.ProcBodyLine property (Access)
 
 The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
 

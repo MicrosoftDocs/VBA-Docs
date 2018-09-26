@@ -1,5 +1,5 @@
 ---
-title: Form.NavigationCaption Property (Access)
+title: Form.NavigationCaption property (Access)
 keywords: vbaac10.chm13568,vbaac10.chm5683
 f1_keywords:
 - vbaac10.chm13568,vbaac10.chm5683
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.NavigationCaption Property (Access)
+# Form.NavigationCaption property (Access)
 
 Gets or sets the text that appears to the left of the form's navigation buttons. Read/write  **String**.
 

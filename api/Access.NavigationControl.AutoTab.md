@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.AutoTab Property (Access)
+title: NavigationControl.AutoTab property (Access)
 keywords: vbaac10.chm11063
 f1_keywords:
 - vbaac10.chm11063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.AutoTab Property (Access)
+# NavigationControl.AutoTab property (Access)
 
 You can use the  **AutoTab** property to specify whether an automatic tab occurs when the last character permitted by a text box control's input mask is entered. An automatic tab moves the focus to the next control in the form's tab order. Read/write **Boolean**.
 

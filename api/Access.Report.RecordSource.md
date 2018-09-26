@@ -1,5 +1,5 @@
 ---
-title: Report.RecordSource Property (Access)
+title: Report.RecordSource property (Access)
 keywords: vbaac10.chm13689
 f1_keywords:
 - vbaac10.chm13689
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# Report.RecordSource Property (Access)
+# Report.RecordSource property (Access)
 
 You can use the **RecordSource** property to specify the source of the data for a report. Read/write **String**.
 

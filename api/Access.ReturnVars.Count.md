@@ -1,5 +1,5 @@
 ---
-title: ReturnVars.Count Property (Access)
+title: ReturnVars.Count property (Access)
 keywords: vbaac10.chm14696
 f1_keywords:
 - vbaac10.chm14696
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVars.Count Property (Access)
+# ReturnVars.Count property (Access)
 
 Gets the number of  **[ReturnVar](Access.ReturnVar.md)** objects in the **[ReturnVars](Access.ReturnVars.md)** collection. Read-only **Long**.
 

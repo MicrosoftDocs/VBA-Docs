@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OLEType Property (Access)
+title: BoundObjectFrame.OLEType property (Access)
 keywords: vbaac10.chm10958
 f1_keywords:
 - vbaac10.chm10958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OLEType Property (Access)
+# BoundObjectFrame.OLEType property (Access)
 
 You can use the  **OLEType** property to determine if a control contains an OLE object, and, if so, whether the object is linked or embedded. Read/write **Byte**.
 

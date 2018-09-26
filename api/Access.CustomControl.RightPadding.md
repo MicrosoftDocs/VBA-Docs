@@ -1,5 +1,5 @@
 ---
-title: CustomControl.RightPadding Property (Access)
+title: CustomControl.RightPadding property (Access)
 keywords: vbaac10.chm10526
 f1_keywords:
 - vbaac10.chm10526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.RightPadding Property (Access)
+# CustomControl.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
 

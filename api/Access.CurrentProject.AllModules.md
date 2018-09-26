@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.AllModules Property (Access)
+title: CurrentProject.AllModules property (Access)
 keywords: vbaac10.chm12710
 f1_keywords:
 - vbaac10.chm12710
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.AllModules Property (Access)
+# CurrentProject.AllModules property (Access)
 
 You can use the  **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.Controls Property (Access)
+title: TextBox.Controls property (Access)
 keywords: vbaac10.chm11036
 f1_keywords:
 - vbaac10.chm11036
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Controls Property (Access)
+# TextBox.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

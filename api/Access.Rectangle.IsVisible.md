@@ -1,5 +1,5 @@
 ---
-title: Rectangle.IsVisible Property (Access)
+title: Rectangle.IsVisible property (Access)
 keywords: vbaac10.chm10298
 f1_keywords:
 - vbaac10.chm10298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.IsVisible Property (Access)
+# Rectangle.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 

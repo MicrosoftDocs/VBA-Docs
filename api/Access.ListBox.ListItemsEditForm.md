@@ -1,5 +1,5 @@
 ---
-title: ListBox.ListItemsEditForm Property (Access)
+title: ListBox.ListItemsEditForm property (Access)
 keywords: vbaac10.chm11336
 f1_keywords:
 - vbaac10.chm11336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ListItemsEditForm Property (Access)
+# ListBox.ListItemsEditForm property (Access)
 
 Gets or sets the name of the form that is displayed when the user clicks  **Edit List Items**. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.AfterUpdate Property (Access)
+title: BoundObjectFrame.AfterUpdate property (Access)
 keywords: vbaac10.chm10962
 f1_keywords:
 - vbaac10.chm10962
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.AfterUpdate Property (Access)
+# BoundObjectFrame.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

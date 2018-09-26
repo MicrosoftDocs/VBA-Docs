@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Height Property (Access)
+title: CommandButton.Height property (Access)
 keywords: vbaac10.chm10470
 f1_keywords:
 - vbaac10.chm10470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Height Property (Access)
+# CommandButton.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

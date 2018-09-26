@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnClick Property (Access)
+title: TextBox.OnClick property (Access)
 keywords: vbaac10.chm11122
 f1_keywords:
 - vbaac10.chm11122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnClick Property (Access)
+# TextBox.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

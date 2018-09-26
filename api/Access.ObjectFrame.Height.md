@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Height Property (Access)
+title: ObjectFrame.Height property (Access)
 keywords: vbaac10.chm11591
 f1_keywords:
 - vbaac10.chm11591
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Height Property (Access)
+# ObjectFrame.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Filter Property (Access)
+title: Form.Filter property (Access)
 keywords: vbaac10.chm13346
 f1_keywords:
 - vbaac10.chm13346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Filter Property (Access)
+# Form.Filter property (Access)
 
 You can use the  **Filter** property to specify a subset of records to be displayed when a filter is applied to a form, reportquery, or table. Read/write **String**.
 

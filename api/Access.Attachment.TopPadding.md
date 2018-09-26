@@ -1,5 +1,5 @@
 ---
-title: Attachment.TopPadding Property (Access)
+title: Attachment.TopPadding property (Access)
 keywords: vbaac10.chm13989
 f1_keywords:
 - vbaac10.chm13989
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.TopPadding Property (Access)
+# Attachment.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the attachment and its top gridline. Read/write  **Integer**.
 

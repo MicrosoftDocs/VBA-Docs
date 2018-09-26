@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineStyleTop Property (Access)
+title: BoundObjectFrame.GridlineStyleTop property (Access)
 keywords: vbaac10.chm11000
 f1_keywords:
 - vbaac10.chm11000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineStyleTop Property (Access)
+# BoundObjectFrame.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified frame. Read/write  **Byte**.
 

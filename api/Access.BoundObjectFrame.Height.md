@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Height Property (Access)
+title: BoundObjectFrame.Height property (Access)
 keywords: vbaac10.chm10930
 f1_keywords:
 - vbaac10.chm10930
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Height Property (Access)
+# BoundObjectFrame.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

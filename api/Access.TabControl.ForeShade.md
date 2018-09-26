@@ -1,5 +1,5 @@
 ---
-title: TabControl.ForeShade Property (Access)
+title: TabControl.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.ForeShade Property (Access)
+# TabControl.ForeShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
 

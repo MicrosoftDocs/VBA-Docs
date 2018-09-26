@@ -1,5 +1,5 @@
 ---
-title: CommandButton.PictureData Property (Access)
+title: CommandButton.PictureData property (Access)
 keywords: vbaac10.chm10453
 f1_keywords:
 - vbaac10.chm10453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.PictureData Property (Access)
+# CommandButton.PictureData property (Access)
 
 You can use the  **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
 

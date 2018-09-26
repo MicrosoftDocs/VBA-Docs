@@ -1,5 +1,5 @@
 ---
-title: Form.OrderByOnLoad Property (Access)
+title: Form.OrderByOnLoad property (Access)
 keywords: vbaac10.chm13562
 f1_keywords:
 - vbaac10.chm13562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OrderByOnLoad Property (Access)
+# Form.OrderByOnLoad property (Access)
 
 Gets or sets whether the sorting specified by the  **[OrderBy](Access.Form.OrderBy.md)** property is applied when the form is loaded. Read/write **Boolean**.
 

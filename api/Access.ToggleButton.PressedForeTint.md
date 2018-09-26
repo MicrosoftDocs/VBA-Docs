@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.PressedForeTint Property (Access)
+title: ToggleButton.PressedForeTint property (Access)
 keywords: vbaac10.chm14625
 f1_keywords:
 - vbaac10.chm14625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.PressedForeTint Property (Access)
+# ToggleButton.PressedForeTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **PressedForeColor** property of the specified object. Read/write **Single**.
 

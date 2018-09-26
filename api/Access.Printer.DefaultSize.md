@@ -1,5 +1,5 @@
 ---
-title: Printer.DefaultSize Property (Access)
+title: Printer.DefaultSize property (Access)
 keywords: vbaac10.chm12875
 f1_keywords:
 - vbaac10.chm12875
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.DefaultSize Property (Access)
+# Printer.DefaultSize property (Access)
 
  **True** if the size of the detail section in Design View is used for printing; otherwise, the values of the **[ItemSizeHeight](Access.Printer.ItemSizeHeight.md)** and **[ItemSizeWidth](Access.Printer.ItemSizeWidth.md)** properties are used. Read/write **Boolean**.
 

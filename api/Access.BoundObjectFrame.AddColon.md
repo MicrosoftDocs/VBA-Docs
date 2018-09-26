@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.AddColon Property (Access)
+title: BoundObjectFrame.AddColon property (Access)
 keywords: vbaac10.chm10946
 f1_keywords:
 - vbaac10.chm10946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.AddColon Property (Access)
+# BoundObjectFrame.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 

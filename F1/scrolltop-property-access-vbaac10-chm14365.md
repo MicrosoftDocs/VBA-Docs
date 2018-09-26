@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[WebBrowserControl.ScrollTop Property (Access)](http://msdn.microsoft.com/library/adc0ee0f-1262-373f-a0db-de7bba917e13%28Office.15%29.aspx)
+[WebBrowserControl.ScrollTop property (Access)](http://msdn.microsoft.com/library/adc0ee0f-1262-373f-a0db-de7bba917e13%28Office.15%29.aspx)
 

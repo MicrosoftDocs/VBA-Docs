@@ -1,5 +1,5 @@
 ---
-title: Attachment.DisplayAs Property (Access)
+title: Attachment.DisplayAs property (Access)
 keywords: vbaac10.chm13975,vbaac10.chm5817
 f1_keywords:
 - vbaac10.chm13975,vbaac10.chm5817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.DisplayAs Property (Access)
+# Attachment.DisplayAs property (Access)
 
 Gets or sets an  **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifies how a file should be displayed in the **Attachment** control. Read/write.
 

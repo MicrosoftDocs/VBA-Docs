@@ -1,5 +1,5 @@
 ---
-title: CommandButton.HoverColor Property (Access)
+title: CommandButton.HoverColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.HoverColor Property (Access)
+# CommandButton.HoverColor property (Access)
 
 Gets or sets the color displayed on the control when the user rests the mouse cursor over it. Read/write  **Long**.
 

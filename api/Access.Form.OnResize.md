@@ -1,5 +1,5 @@
 ---
-title: Form.OnResize Property (Access)
+title: Form.OnResize property (Access)
 keywords: vbaac10.chm13442
 f1_keywords:
 - vbaac10.chm13442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnResize Property (Access)
+# Form.OnResize property (Access)
 
 Sets or returns the value of the  **On Resize** box in the **Properties** window of a form. Read/write **String**.
 

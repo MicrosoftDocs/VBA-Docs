@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Visible Property (Access)
+title: WebBrowserControl.Visible property (Access)
 keywords: vbaac10.chm14528
 f1_keywords:
 - vbaac10.chm14528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Visible Property (Access)
+# WebBrowserControl.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

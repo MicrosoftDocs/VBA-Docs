@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.FileFormat Property (Access)
+title: CurrentProject.FileFormat property (Access)
 keywords: vbaac10.chm12725
 f1_keywords:
 - vbaac10.chm12725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.FileFormat Property (Access)
+# CurrentProject.FileFormat property (Access)
 
 Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
 

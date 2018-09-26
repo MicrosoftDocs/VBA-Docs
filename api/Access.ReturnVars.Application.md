@@ -1,5 +1,5 @@
 ---
-title: ReturnVars.Application Property (Access)
+title: ReturnVars.Application property (Access)
 keywords: vbaac10.chm14693
 f1_keywords:
 - vbaac10.chm14693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVars.Application Property (Access)
+# ReturnVars.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

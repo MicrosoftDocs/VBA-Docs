@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.FormatConditions Property (Access)](http://msdn.microsoft.com/library/20e921d6-e800-fc75-c93a-981815d694ab%28Office.15%29.aspx)
+[NavigationControl.FormatConditions property (Access)](http://msdn.microsoft.com/library/20e921d6-e800-fc75-c93a-981815d694ab%28Office.15%29.aspx)
 
-[TextBox.FormatConditions Property (Access)](http://msdn.microsoft.com/library/6c643d8b-9b90-2b50-2ba0-c46bb821d38d%28Office.15%29.aspx)
+[TextBox.FormatConditions property (Access)](http://msdn.microsoft.com/library/6c643d8b-9b90-2b50-2ba0-c46bb821d38d%28Office.15%29.aspx)
 
 

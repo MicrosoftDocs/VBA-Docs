@@ -1,5 +1,5 @@
 ---
-title: Form.AllowLayoutView Property (Access)
+title: Form.AllowLayoutView property (Access)
 keywords: vbaac10.chm13627
 f1_keywords:
 - vbaac10.chm13627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowLayoutView Property (Access)
+# Form.AllowLayoutView property (Access)
 
 Gets or sets whether the specified form can be used in Layout View. Read/write  **Boolean**.
 

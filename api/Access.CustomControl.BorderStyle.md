@@ -1,5 +1,5 @@
 ---
-title: CustomControl.BorderStyle Property (Access)
+title: CustomControl.BorderStyle property (Access)
 keywords: vbaac10.chm12025
 f1_keywords:
 - vbaac10.chm12025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.BorderStyle Property (Access)
+# CustomControl.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 

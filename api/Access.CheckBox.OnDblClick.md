@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnDblClick Property (Access)
+title: CheckBox.OnDblClick property (Access)
 keywords: vbaac10.chm10742
 f1_keywords:
 - vbaac10.chm10742
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnDblClick Property (Access)
+# CheckBox.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

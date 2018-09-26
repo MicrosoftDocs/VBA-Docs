@@ -1,5 +1,5 @@
 ---
-title: Label.IsVisible Property (Access)
+title: Label.IsVisible property (Access)
 keywords: vbaac10.chm10222
 f1_keywords:
 - vbaac10.chm10222
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.IsVisible Property (Access)
+# Label.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Controls Property (Access)
+title: WebBrowserControl.Controls property (Access)
 keywords: vbaac10.chm14355
 f1_keywords:
 - vbaac10.chm14355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Controls Property (Access)
+# WebBrowserControl.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

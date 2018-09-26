@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Parent Property (Access)
+title: BoundObjectFrame.Parent property (Access)
 keywords: vbaac10.chm10897
 f1_keywords:
 - vbaac10.chm10897
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Parent Property (Access)
+# BoundObjectFrame.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Orientation Property (Access)
+title: Form.Orientation property (Access)
 keywords: vbaac10.chm13480
 f1_keywords:
 - vbaac10.chm13480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Orientation Property (Access)
+# Form.Orientation property (Access)
 
 You can use the  **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 

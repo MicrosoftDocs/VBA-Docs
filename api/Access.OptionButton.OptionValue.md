@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OptionValue Property (Access)
+title: OptionButton.OptionValue property (Access)
 keywords: vbaac10.chm10568
 f1_keywords:
 - vbaac10.chm10568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OptionValue Property (Access)
+# OptionButton.OptionValue property (Access)
 
 Each control in an option group has a numeric value that you can set with the  **OptionValue** property. Read/write **Long**.
 

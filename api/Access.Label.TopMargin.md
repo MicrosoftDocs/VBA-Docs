@@ -1,5 +1,5 @@
 ---
-title: Label.TopMargin Property (Access)
+title: Label.TopMargin property (Access)
 keywords: vbaac10.chm10235
 f1_keywords:
 - vbaac10.chm10235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.TopMargin Property (Access)
+# Label.TopMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**.
 

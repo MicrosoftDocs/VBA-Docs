@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Section Property (Access)
+title: ToggleButton.Section property (Access)
 keywords: vbaac10.chm11741
 f1_keywords:
 - vbaac10.chm11741
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Section Property (Access)
+# ToggleButton.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

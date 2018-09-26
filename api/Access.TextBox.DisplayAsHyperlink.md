@@ -1,5 +1,5 @@
 ---
-title: TextBox.DisplayAsHyperlink Property (Access)
+title: TextBox.DisplayAsHyperlink property (Access)
 keywords: vbaac10.chm11183
 f1_keywords:
 - vbaac10.chm11183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.DisplayAsHyperlink Property (Access)
+# TextBox.DisplayAsHyperlink property (Access)
 
 Gets or sets an  **[AcDisplayAsHyperlink](Access.AcDisplayAsHyperlink.md)** constant that specifies whether to display the contents of the specified text box as a hyperlink. Read/write.
 

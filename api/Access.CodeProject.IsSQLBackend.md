@@ -1,5 +1,5 @@
 ---
-title: CodeProject.IsSQLBackend Property (Access)
+title: CodeProject.IsSQLBackend property (Access)
 keywords: vbaac10.chm14747
 f1_keywords:
 - vbaac10.chm14747
@@ -9,7 +9,7 @@ ms.prod: access
 ---
 
 
-# CodeProject.IsSQLBackend Property (Access)
+# CodeProject.IsSQLBackend property (Access)
 
 Returns  **true** if the code project was created in Access 2013 and onwards and **false** if the code project was created prior to Access 2013 . Read-only **Boolean** Introduced in Office 2016.
 

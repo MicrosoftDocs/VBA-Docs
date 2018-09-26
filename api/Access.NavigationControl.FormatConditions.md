@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.FormatConditions Property (Access)
+title: NavigationControl.FormatConditions property (Access)
 keywords: vbaac10.chm11038
 f1_keywords:
 - vbaac10.chm11038
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.FormatConditions Property (Access)
+# NavigationControl.FormatConditions property (Access)
 
 You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
 

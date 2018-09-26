@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.ScrollBarAlign Property (Access)
+title: NavigationControl.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11133
 f1_keywords:
 - vbaac10.chm11133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.ScrollBarAlign Property (Access)
+# NavigationControl.ScrollBarAlign property (Access)
 
 You can use the  **ScrollBarAlign** to specify or determine the alignment of a vertical scroll bar. Read/write **Byte**.
 

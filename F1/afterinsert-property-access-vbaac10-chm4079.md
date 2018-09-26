@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AfterInsert Property (Access)](http://msdn.microsoft.com/library/95bc1f0d-a0fa-ffdd-ef5a-e6eb2a854feb%28Office.15%29.aspx)
+[Form.AfterInsert property (Access)](http://msdn.microsoft.com/library/95bc1f0d-a0fa-ffdd-ef5a-e6eb2a854feb%28Office.15%29.aspx)
 

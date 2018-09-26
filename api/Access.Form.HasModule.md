@@ -1,5 +1,5 @@
 ---
-title: Form.HasModule Property (Access)
+title: Form.HasModule property (Access)
 keywords: vbaac10.chm13478
 f1_keywords:
 - vbaac10.chm13478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.HasModule Property (Access)
+# Form.HasModule property (Access)
 
 You can use the  **HasModule** property to specify or determine whether a form or report has a class module. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Layout Property (Access)
+title: OptionButton.Layout property (Access)
 keywords: vbaac10.chm10640
 f1_keywords:
 - vbaac10.chm10640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Layout Property (Access)
+# OptionButton.Layout property (Access)
 
 Returns the type of layout for the specified option button. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

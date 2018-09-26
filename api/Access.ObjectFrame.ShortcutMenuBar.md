@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.ShortcutMenuBar Property (Access)
+title: ObjectFrame.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm11600
 f1_keywords:
 - vbaac10.chm11600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.ShortcutMenuBar Property (Access)
+# ObjectFrame.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.
 

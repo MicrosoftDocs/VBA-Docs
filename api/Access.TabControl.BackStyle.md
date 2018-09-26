@@ -1,5 +1,5 @@
 ---
-title: TabControl.BackStyle Property (Access)
+title: TabControl.BackStyle property (Access)
 keywords: vbaac10.chm12085
 f1_keywords:
 - vbaac10.chm12085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.BackStyle Property (Access)
+# TabControl.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

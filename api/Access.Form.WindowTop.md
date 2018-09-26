@@ -1,5 +1,5 @@
 ---
-title: Form.WindowTop Property (Access)
+title: Form.WindowTop property (Access)
 keywords: vbaac10.chm13516
 f1_keywords:
 - vbaac10.chm13516
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.WindowTop Property (Access)
+# Form.WindowTop property (Access)
 
 Returns an  **Integer** indicating the screen position in twips of the top edge of a form relative to the top of the Microsoft Access window. Read-only.
 

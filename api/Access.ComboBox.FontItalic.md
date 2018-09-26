@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FontItalic Property (Access)
+title: ComboBox.FontItalic property (Access)
 keywords: vbaac10.chm11417
 f1_keywords:
 - vbaac10.chm11417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FontItalic Property (Access)
+# ComboBox.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

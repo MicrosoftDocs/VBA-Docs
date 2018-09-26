@@ -1,5 +1,5 @@
 ---
-title: Page.OnClick Property (Access)
+title: Page.OnClick property (Access)
 keywords: vbaac10.chm12167
 f1_keywords:
 - vbaac10.chm12167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnClick Property (Access)
+# Page.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.FitToScreen Property (Access)
+title: Form.FitToScreen property (Access)
 keywords: vbaac10.chm14290,vbaac10.chm5882
 f1_keywords:
 - vbaac10.chm14290,vbaac10.chm5882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.FitToScreen Property (Access)
+# Form.FitToScreen property (Access)
 
 Gets or sets whether the width of the form is reduced to fit the width of the screen. Read/write  **Boolean**.
 

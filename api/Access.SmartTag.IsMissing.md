@@ -1,5 +1,5 @@
 ---
-title: SmartTag.IsMissing Property (Access)
+title: SmartTag.IsMissing property (Access)
 keywords: vbaac10.chm13325
 f1_keywords:
 - vbaac10.chm13325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag.IsMissing Property (Access)
+# SmartTag.IsMissing property (Access)
 
 Returns  **True** if the specified smart tag is not installed or is installed incorrectly. Read-only **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: SubForm.StatusBarText Property (Access)
+title: SubForm.StatusBarText property (Access)
 keywords: vbaac10.chm11929
 f1_keywords:
 - vbaac10.chm11929
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.StatusBarText Property (Access)
+# SubForm.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

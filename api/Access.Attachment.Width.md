@@ -1,5 +1,5 @@
 ---
-title: Attachment.Width Property (Access)
+title: Attachment.Width property (Access)
 keywords: vbaac10.chm13922
 f1_keywords:
 - vbaac10.chm13922
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Width Property (Access)
+# Attachment.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

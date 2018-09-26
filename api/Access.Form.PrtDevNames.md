@@ -1,5 +1,5 @@
 ---
-title: Form.PrtDevNames Property (Access)
+title: Form.PrtDevNames property (Access)
 keywords: vbaac10.chm13419
 f1_keywords:
 - vbaac10.chm13419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PrtDevNames Property (Access)
+# Form.PrtDevNames property (Access)
 
 You can use the  **PrtDevNames** property to set or return information about the printer selected in the **Print** dialog box for a form or report. Read/write **Variant**.
 

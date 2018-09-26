@@ -1,5 +1,5 @@
 ---
-title: OptionButton.LeftPadding Property (Access)
+title: OptionButton.LeftPadding property (Access)
 keywords: vbaac10.chm10641
 f1_keywords:
 - vbaac10.chm10641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.LeftPadding Property (Access)
+# OptionButton.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the option button and its left gridline. Read/write  **Integer**.
 

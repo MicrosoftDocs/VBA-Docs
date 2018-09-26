@@ -1,5 +1,5 @@
 ---
-title: Rectangle.BorderColor Property (Access)
+title: Rectangle.BorderColor property (Access)
 keywords: vbaac10.chm10292
 f1_keywords:
 - vbaac10.chm10292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.BorderColor Property (Access)
+# Rectangle.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 

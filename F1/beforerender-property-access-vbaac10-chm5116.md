@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.BeforeRender Property (Access)](http://msdn.microsoft.com/library/f80035ac-4ce6-ac8a-203f-c36afab5cd01%28Office.15%29.aspx)
+[Form.BeforeRender property (Access)](http://msdn.microsoft.com/library/f80035ac-4ce6-ac8a-203f-c36afab5cd01%28Office.15%29.aspx)
 

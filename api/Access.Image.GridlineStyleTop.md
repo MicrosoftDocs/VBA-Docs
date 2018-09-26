@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineStyleTop Property (Access)
+title: Image.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10418
 f1_keywords:
 - vbaac10.chm10418
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineStyleTop Property (Access)
+# Image.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified image control. Read/write  **Byte**.
 

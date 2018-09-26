@@ -1,5 +1,5 @@
 ---
-title: Rectangle.OnClick Property (Access)
+title: Rectangle.OnClick property (Access)
 keywords: vbaac10.chm10300
 f1_keywords:
 - vbaac10.chm10300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.OnClick Property (Access)
+# Rectangle.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

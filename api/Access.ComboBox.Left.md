@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Left Property (Access)
+title: ComboBox.Left property (Access)
 keywords: vbaac10.chm11401
 f1_keywords:
 - vbaac10.chm11401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Left Property (Access)
+# ComboBox.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

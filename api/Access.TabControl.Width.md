@@ -1,5 +1,5 @@
 ---
-title: TabControl.Width Property (Access)
+title: TabControl.Width property (Access)
 keywords: vbaac10.chm12083
 f1_keywords:
 - vbaac10.chm12083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Width Property (Access)
+# TabControl.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

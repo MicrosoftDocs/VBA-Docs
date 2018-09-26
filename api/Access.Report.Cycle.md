@@ -1,5 +1,5 @@
 ---
-title: Report.Cycle Property (Access)
+title: Report.Cycle property (Access)
 keywords: vbaac10.chm13821
 f1_keywords:
 - vbaac10.chm13821
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Cycle Property (Access)
+# Report.Cycle property (Access)
 
 You can use the  **Cycle** property to specify what happens when you press the TAB key and the focus is in the last control on a report. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Control.Pages Property (Access)
+title: Control.Pages property (Access)
 keywords: vbaac10.chm10149
 f1_keywords:
 - vbaac10.chm10149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Pages Property (Access)
+# Control.Pages property (Access)
 
 Returns a  **[Pages](Access.Pages.md)** collection that represents the pages in the specified control that supports tabbed pages (for example, a **TabControl** object). Read-only.
 

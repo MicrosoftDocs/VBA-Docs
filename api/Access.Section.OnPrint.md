@@ -1,5 +1,5 @@
 ---
-title: Section.OnPrint Property (Access)
+title: Section.OnPrint property (Access)
 keywords: vbaac10.chm12205
 f1_keywords:
 - vbaac10.chm12205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnPrint Property (Access)
+# Section.OnPrint property (Access)
 
 Sets or returns the value of the  **On Print** box in the **Properties** window of a report section. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Reference.Kind Property (Access)
+title: Reference.Kind property (Access)
 keywords: vbaac10.chm12637
 f1_keywords:
 - vbaac10.chm12637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Kind Property (Access)
+# Reference.Kind property (Access)
 
 The  **Kind** property indicates the type of reference that a **[Reference](Access.Reference.md)** object represents. Read-only **vbext_RefKind**.
 

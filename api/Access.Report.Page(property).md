@@ -1,5 +1,5 @@
 ---
-title: Report.Page Property (Access)
+title: Report.Page property (Access)
 keywords: vbaac10.chm13721
 f1_keywords:
 - vbaac10.chm13721
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Page Property (Access)
+# Report.Page property (Access)
 
 The  **Page** property specifies the current page number when a report is being printed. Read/write **Long**.
 

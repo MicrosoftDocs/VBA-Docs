@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineTint Property (Access)
+title: BoundObjectFrame.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineTint Property (Access)
+# BoundObjectFrame.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 

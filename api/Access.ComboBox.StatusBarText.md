@@ -1,5 +1,5 @@
 ---
-title: ComboBox.StatusBarText Property (Access)
+title: ComboBox.StatusBarText property (Access)
 keywords: vbaac10.chm11386
 f1_keywords:
 - vbaac10.chm11386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.StatusBarText Property (Access)
+# ComboBox.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Parent Property (Access)
+title: EmptyCell.Parent property (Access)
 keywords: vbaac10.chm14298
 f1_keywords:
 - vbaac10.chm14298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Parent Property (Access)
+# EmptyCell.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

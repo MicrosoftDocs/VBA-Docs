@@ -1,5 +1,5 @@
 ---
-title: Entities.Count Property (Access)
+title: Entities.Count property (Access)
 keywords: vbaac10.chm14563
 f1_keywords:
 - vbaac10.chm14563
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Entities.Count Property (Access)
+# Entities.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 

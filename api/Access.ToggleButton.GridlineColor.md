@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineColor Property (Access)
+title: ToggleButton.GridlineColor property (Access)
 keywords: vbaac10.chm11792
 f1_keywords:
 - vbaac10.chm11792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineColor Property (Access)
+# ToggleButton.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified toggle button. Read/write  **Long**.
 

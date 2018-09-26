@@ -1,5 +1,5 @@
 ---
-title: TextBox.NumeralShapes Property (Access)
+title: TextBox.NumeralShapes property (Access)
 keywords: vbaac10.chm11134
 f1_keywords:
 - vbaac10.chm11134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.NumeralShapes Property (Access)
+# TextBox.NumeralShapes property (Access)
 
 
 

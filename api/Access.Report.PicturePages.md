@@ -1,5 +1,5 @@
 ---
-title: Report.PicturePages Property (Access)
+title: Report.PicturePages property (Access)
 keywords: vbaac10.chm13709,vbaac10.chm4464
 f1_keywords:
 - vbaac10.chm13709,vbaac10.chm4464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PicturePages Property (Access)
+# Report.PicturePages property (Access)
 
 You can use the  **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Section Property (Access)
+title: Form.Section property (Access)
 keywords: vbaac10.chm13631
 f1_keywords:
 - vbaac10.chm13631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Section Property (Access)
+# Form.Section property (Access)
 
 You can use the  **Section** property to identify a section of a form and provide access to the properties of that section. Read-only **Section** object.
 

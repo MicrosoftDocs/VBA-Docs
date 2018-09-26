@@ -1,5 +1,5 @@
 ---
-title: TempVars.Item Property (Access)
+title: TempVars.Item property (Access)
 keywords: vbaac10.chm14067
 f1_keywords:
 - vbaac10.chm14067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVars.Item Property (Access)
+# TempVars.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **TempVar**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BorderWidth Property (Access)
+title: OptionGroup.BorderWidth property (Access)
 keywords: vbaac10.chm10844
 f1_keywords:
 - vbaac10.chm10844
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BorderWidth Property (Access)
+# OptionGroup.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineColor Property (Access)
+title: OptionButton.GridlineColor property (Access)
 keywords: vbaac10.chm10653
 f1_keywords:
 - vbaac10.chm10653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineColor Property (Access)
+# OptionButton.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified option button. Read/write  **Long**.
 

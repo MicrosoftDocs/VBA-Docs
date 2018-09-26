@@ -1,5 +1,5 @@
 ---
-title: SubForm.Properties Property (Access)
+title: SubForm.Properties property (Access)
 keywords: vbaac10.chm11918
 f1_keywords:
 - vbaac10.chm11918
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Properties Property (Access)
+# SubForm.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

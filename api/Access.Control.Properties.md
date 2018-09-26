@@ -1,5 +1,5 @@
 ---
-title: Control.Properties Property (Access)
+title: Control.Properties property (Access)
 keywords: vbaac10.chm10144
 f1_keywords:
 - vbaac10.chm10144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Properties Property (Access)
+# Control.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

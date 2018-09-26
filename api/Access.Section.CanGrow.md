@@ -1,5 +1,5 @@
 ---
-title: Section.CanGrow Property (Access)
+title: Section.CanGrow property (Access)
 keywords: vbaac10.chm12197
 f1_keywords:
 - vbaac10.chm12197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.CanGrow Property (Access)
+# Section.CanGrow property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
 

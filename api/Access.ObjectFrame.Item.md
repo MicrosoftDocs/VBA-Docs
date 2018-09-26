@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Item Property (Access)
+title: ObjectFrame.Item property (Access)
 keywords: vbaac10.chm11562
 f1_keywords:
 - vbaac10.chm11562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Item Property (Access)
+# ObjectFrame.Item property (Access)
 
 The  **Item** property returns or sets a specific member of a collection. Read/write **String**.
 

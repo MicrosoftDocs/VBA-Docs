@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BottomPadding Property (Access)
+title: CheckBox.BottomPadding property (Access)
 keywords: vbaac10.chm10771
 f1_keywords:
 - vbaac10.chm10771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BottomPadding Property (Access)
+# CheckBox.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the check box and its bottom gridline. Read/write  **Integer**.
 

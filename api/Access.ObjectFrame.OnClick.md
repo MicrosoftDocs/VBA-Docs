@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.OnClick Property (Access)
+title: ObjectFrame.OnClick property (Access)
 keywords: vbaac10.chm11619
 f1_keywords:
 - vbaac10.chm11619
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.OnClick Property (Access)
+# ObjectFrame.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

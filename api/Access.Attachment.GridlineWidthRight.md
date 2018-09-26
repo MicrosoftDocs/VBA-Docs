@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineWidthRight Property (Access)
+title: Attachment.GridlineWidthRight property (Access)
 keywords: vbaac10.chm13998
 f1_keywords:
 - vbaac10.chm13998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineWidthRight Property (Access)
+# Attachment.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified attachment. Read/write  **Byte**.
 

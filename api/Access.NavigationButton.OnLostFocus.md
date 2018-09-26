@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnLostFocus Property (Access)
+title: NavigationButton.OnLostFocus property (Access)
 keywords: vbaac10.chm10496
 f1_keywords:
 - vbaac10.chm10496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnLostFocus Property (Access)
+# NavigationButton.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

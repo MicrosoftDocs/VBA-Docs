@@ -1,5 +1,5 @@
 ---
-title: Form.PicturePalette Property (Access)
+title: Form.PicturePalette property (Access)
 keywords: vbaac10.chm13477
 f1_keywords:
 - vbaac10.chm13477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PicturePalette Property (Access)
+# Form.PicturePalette property (Access)
 
 You can use the  **PicturePalette** property to specify a palette to be used by a form. Read/write **Variant**.
 

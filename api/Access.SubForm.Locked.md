@@ -1,5 +1,5 @@
 ---
-title: SubForm.Locked Property (Access)
+title: SubForm.Locked property (Access)
 keywords: vbaac10.chm11933
 f1_keywords:
 - vbaac10.chm11933
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Locked Property (Access)
+# SubForm.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

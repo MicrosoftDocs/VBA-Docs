@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BottomPadding Property (Access)
+title: ComboBox.BottomPadding property (Access)
 keywords: vbaac10.chm11484
 f1_keywords:
 - vbaac10.chm11484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BottomPadding Property (Access)
+# ComboBox.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the combo box and its bottom gridline. Read/write  **Integer**.
 

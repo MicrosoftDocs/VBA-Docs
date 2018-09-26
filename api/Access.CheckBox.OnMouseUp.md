@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnMouseUp Property (Access)
+title: CheckBox.OnMouseUp property (Access)
 keywords: vbaac10.chm10745
 f1_keywords:
 - vbaac10.chm10745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnMouseUp Property (Access)
+# CheckBox.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

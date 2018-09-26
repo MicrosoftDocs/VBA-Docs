@@ -1,5 +1,5 @@
 ---
-title: Control.ItemData Property (Access)
+title: Control.ItemData property (Access)
 keywords: vbaac10.chm10141
 f1_keywords:
 - vbaac10.chm10141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.ItemData Property (Access)
+# Control.ItemData property (Access)
 
 The  **ItemData** property returns the data in the bound column for the specified row in a combo box or list box. Read-only **Variant**.
 

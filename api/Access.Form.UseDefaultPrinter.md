@@ -1,5 +1,5 @@
 ---
-title: Form.UseDefaultPrinter Property (Access)
+title: Form.UseDefaultPrinter property (Access)
 keywords: vbaac10.chm13559
 f1_keywords:
 - vbaac10.chm13559
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.UseDefaultPrinter Property (Access)
+# Form.UseDefaultPrinter property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified form uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
 

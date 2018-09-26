@@ -1,5 +1,5 @@
 ---
-title: Form.MenuBar Property (Access)
+title: Form.MenuBar property (Access)
 keywords: vbaac10.chm13385
 f1_keywords:
 - vbaac10.chm13385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MenuBar Property (Access)
+# Form.MenuBar property (Access)
 
 Specifies a custom menu to display for a form. Read/write  **String**.
 

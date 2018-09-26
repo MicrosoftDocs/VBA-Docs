@@ -1,5 +1,5 @@
 ---
-title: ComboBox.CanShrink Property (Access)
+title: ComboBox.CanShrink property (Access)
 keywords: vbaac10.chm11497
 f1_keywords:
 - vbaac10.chm11497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.CanShrink Property (Access)
+# ComboBox.CanShrink property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
 

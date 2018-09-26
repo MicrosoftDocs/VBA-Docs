@@ -1,5 +1,5 @@
 ---
-title: Form.RibbonName Property (Access)
+title: Form.RibbonName property (Access)
 keywords: vbaac10.chm13632
 f1_keywords:
 - vbaac10.chm13632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.RibbonName Property (Access)
+# Form.RibbonName property (Access)
 
 Gets or set the name of the customized ribbon to be displayed when the specified form is loaded. Read/write  **String**.
 

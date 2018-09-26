@@ -1,5 +1,5 @@
 ---
-title: SharedResources.Parent Property (Access)
+title: SharedResources.Parent property (Access)
 keywords: vbaac10.chm14650
 f1_keywords:
 - vbaac10.chm14650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResources.Parent Property (Access)
+# SharedResources.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnUpdated Property (Access)
+title: WebBrowserControl.OnUpdated property (Access)
 keywords: vbaac10.chm14417
 f1_keywords:
 - vbaac10.chm14417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnUpdated Property (Access)
+# WebBrowserControl.OnUpdated property (Access)
 
 Sets or returns the value of the  **On Updated** box in the **Properties** window of a form or report. Read/write **String**.
 

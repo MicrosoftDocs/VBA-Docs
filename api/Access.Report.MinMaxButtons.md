@@ -1,5 +1,5 @@
 ---
-title: Report.MinMaxButtons Property (Access)
+title: Report.MinMaxButtons property (Access)
 keywords: vbaac10.chm13802
 f1_keywords:
 - vbaac10.chm13802
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MinMaxButtons Property (Access)
+# Report.MinMaxButtons property (Access)
 
 You can use the  **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a report. Read/write **Byte**.
 

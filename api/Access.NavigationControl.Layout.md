@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Layout Property (Access)
+title: NavigationControl.Layout property (Access)
 keywords: vbaac10.chm11150
 f1_keywords:
 - vbaac10.chm11150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Layout Property (Access)
+# NavigationControl.Layout property (Access)
 
 Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

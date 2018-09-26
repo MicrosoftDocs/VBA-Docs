@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnDblClick Property (Access)
+title: TabControl.OnDblClick property (Access)
 keywords: vbaac10.chm12106
 f1_keywords:
 - vbaac10.chm12106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnDblClick Property (Access)
+# TabControl.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

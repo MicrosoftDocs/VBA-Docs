@@ -1,5 +1,5 @@
 ---
-title: TextBox.SelLength Property (Access)
+title: TextBox.SelLength property (Access)
 keywords: vbaac10.chm11109
 f1_keywords:
 - vbaac10.chm11109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.SelLength Property (Access)
+# TextBox.SelLength property (Access)
 
 The  **SelLength** property specifies or determines the number of characters selected in a text box. Read/write **Integer**.
 

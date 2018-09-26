@@ -1,5 +1,5 @@
 ---
-title: Control.GridlineWidthLeft Property (Access)
+title: Control.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm10164
 f1_keywords:
 - vbaac10.chm10164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.GridlineWidthLeft Property (Access)
+# Control.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified control. Read/write  **Byte**.
 

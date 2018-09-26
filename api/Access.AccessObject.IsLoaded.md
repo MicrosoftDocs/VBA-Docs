@@ -1,5 +1,5 @@
 ---
-title: AccessObject.IsLoaded Property (Access)
+title: AccessObject.IsLoaded property (Access)
 keywords: vbaac10.chm12750
 f1_keywords:
 - vbaac10.chm12750
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# AccessObject.IsLoaded Property (Access)
+# AccessObject.IsLoaded property (Access)
 
 You can use the **IsLoaded** property to determine if an **[AccessObject](Access.AccessObject.md)** is currently loaded. Read-only **Boolean**.
 

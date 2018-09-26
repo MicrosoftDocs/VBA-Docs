@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Name Property (Access)
+title: WebBrowserControl.Name property (Access)
 keywords: vbaac10.chm14386
 f1_keywords:
 - vbaac10.chm14386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Name Property (Access)
+# WebBrowserControl.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

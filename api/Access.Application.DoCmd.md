@@ -1,5 +1,5 @@
 ---
-title: Application.DoCmd Property (Access)
+title: Application.DoCmd property (Access)
 keywords: vbaac10.chm12511
 f1_keywords:
 - vbaac10.chm12511
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DoCmd Property (Access)
+# Application.DoCmd property (Access)
 
 You can use the  **DoCmd** property to access the read-only **[DoCmd](Access.DoCmd.md)** object and its related methods. Read-only **DoCmd**.
 

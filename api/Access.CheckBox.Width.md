@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Width Property (Access)
+title: CheckBox.Width property (Access)
 keywords: vbaac10.chm10711
 f1_keywords:
 - vbaac10.chm10711
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Width Property (Access)
+# CheckBox.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Screen Property (Access)
+title: Application.Screen property (Access)
 keywords: vbaac10.chm12510
 f1_keywords:
 - vbaac10.chm12510
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Screen Property (Access)
+# Application.Screen property (Access)
 
 You can use the  **Screen** property to return a reference the **[Screen](Access.Screen.md)** object and its related properties. Read-only.
 

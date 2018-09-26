@@ -1,5 +1,5 @@
 ---
-title: Report.OnTimer Property (Access)
+title: Report.OnTimer property (Access)
 keywords: vbaac10.chm13871
 f1_keywords:
 - vbaac10.chm13871
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnTimer Property (Access)
+# Report.OnTimer property (Access)
 
 Sets or returns the value of the  **On Timer** box in the **Properties** window of a form. Read/write **String**.
 

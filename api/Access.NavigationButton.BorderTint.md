@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.BorderTint Property (Access)
+title: NavigationButton.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.BorderTint Property (Access)
+# NavigationButton.BorderTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 

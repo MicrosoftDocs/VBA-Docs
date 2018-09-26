@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnChange Property (Access)
+title: ComboBox.OnChange property (Access)
 keywords: vbaac10.chm11449
 f1_keywords:
 - vbaac10.chm11449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnChange Property (Access)
+# ComboBox.OnChange property (Access)
 
 Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the Applies To list. Read/write **String**.
 

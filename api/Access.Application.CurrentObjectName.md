@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentObjectName Property (Access)
+title: Application.CurrentObjectName property (Access)
 keywords: vbaac10.chm12502
 f1_keywords:
 - vbaac10.chm12502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentObjectName Property (Access)
+# Application.CurrentObjectName property (Access)
 
 You can use the  **CurrentObjectName** property with the **[Application](Access.Application.md)** object to determine the name of the active database object. The active database object is the object that has the focus or in which code is running. Read-only **String**.
 

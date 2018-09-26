@@ -1,5 +1,5 @@
 ---
-title: Report.OnFilter Property (Access)
+title: Report.OnFilter property (Access)
 keywords: vbaac10.chm13869
 f1_keywords:
 - vbaac10.chm13869
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnFilter Property (Access)
+# Report.OnFilter property (Access)
 
 Sets or returns the value of the  **On Filter** box in the **Properties** window of a report. Read/write **String**.
 

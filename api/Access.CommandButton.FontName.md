@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontName Property (Access)
+title: CommandButton.FontName property (Access)
 keywords: vbaac10.chm10472
 f1_keywords:
 - vbaac10.chm10472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontName Property (Access)
+# CommandButton.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 

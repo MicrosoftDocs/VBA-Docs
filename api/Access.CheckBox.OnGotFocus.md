@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnGotFocus Property (Access)
+title: CheckBox.OnGotFocus property (Access)
 keywords: vbaac10.chm10739
 f1_keywords:
 - vbaac10.chm10739
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnGotFocus Property (Access)
+# CheckBox.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

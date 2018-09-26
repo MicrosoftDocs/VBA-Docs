@@ -1,5 +1,5 @@
 ---
-title: SharedResource.Name Property (Access)
+title: SharedResource.Name property (Access)
 keywords: vbaac10.chm14656
 f1_keywords:
 - vbaac10.chm14656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResource.Name Property (Access)
+# SharedResource.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

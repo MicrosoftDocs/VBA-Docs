@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Name Property (Access)
+title: EmptyCell.Name property (Access)
 keywords: vbaac10.chm14321
 f1_keywords:
 - vbaac10.chm14321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Name Property (Access)
+# EmptyCell.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

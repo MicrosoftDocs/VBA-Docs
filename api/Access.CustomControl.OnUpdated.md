@@ -1,5 +1,5 @@
 ---
-title: CustomControl.OnUpdated Property (Access)
+title: CustomControl.OnUpdated property (Access)
 keywords: vbaac10.chm12040
 f1_keywords:
 - vbaac10.chm12040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.OnUpdated Property (Access)
+# CustomControl.OnUpdated property (Access)
 
 Sets or returns the value of the  **On Updated** box in the **Properties** window of a form or report. Read/write **String**.
 

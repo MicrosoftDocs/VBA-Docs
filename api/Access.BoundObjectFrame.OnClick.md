@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnClick Property (Access)
+title: BoundObjectFrame.OnClick property (Access)
 keywords: vbaac10.chm10968
 f1_keywords:
 - vbaac10.chm10968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnClick Property (Access)
+# BoundObjectFrame.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

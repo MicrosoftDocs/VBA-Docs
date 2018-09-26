@@ -1,5 +1,5 @@
 ---
-title: Entities.Item Property (Access)
+title: Entities.Item property (Access)
 keywords: vbaac10.chm14562
 f1_keywords:
 - vbaac10.chm14562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Entities.Item Property (Access)
+# Entities.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 

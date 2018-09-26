@@ -1,5 +1,5 @@
 ---
-title: OptionButton.ControlType Property (Access)
+title: OptionButton.ControlType property (Access)
 keywords: vbaac10.chm10567
 f1_keywords:
 - vbaac10.chm10567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.ControlType Property (Access)
+# OptionButton.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Forms.Item Property (Access)
+title: Forms.Item property (Access)
 keywords: vbaac10.chm12358
 f1_keywords:
 - vbaac10.chm12358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Forms.Item Property (Access)
+# Forms.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Form**.
 

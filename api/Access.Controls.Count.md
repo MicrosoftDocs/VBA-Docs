@@ -1,5 +1,5 @@
 ---
-title: Controls.Count Property (Access)
+title: Controls.Count property (Access)
 keywords: vbaac10.chm10180
 f1_keywords:
 - vbaac10.chm10180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Controls.Count Property (Access)
+# Controls.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 

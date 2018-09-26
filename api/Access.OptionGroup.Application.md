@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Application Property (Access)
+title: OptionGroup.Application property (Access)
 keywords: vbaac10.chm10809
 f1_keywords:
 - vbaac10.chm10809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Application Property (Access)
+# OptionGroup.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

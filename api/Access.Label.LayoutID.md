@@ -1,5 +1,5 @@
 ---
-title: Label.LayoutID Property (Access)
+title: Label.LayoutID property (Access)
 keywords: vbaac10.chm10265
 f1_keywords:
 - vbaac10.chm10265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.LayoutID Property (Access)
+# Label.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified label. Read-only  **Long**.
 

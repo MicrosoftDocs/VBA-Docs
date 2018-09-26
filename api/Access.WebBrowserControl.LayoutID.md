@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.LayoutID Property (Access)
+title: WebBrowserControl.LayoutID property (Access)
 keywords: vbaac10.chm14412
 f1_keywords:
 - vbaac10.chm14412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.LayoutID Property (Access)
+# WebBrowserControl.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
 

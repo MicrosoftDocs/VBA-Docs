@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ReadingOrder Property (Access)
+title: CheckBox.ReadingOrder property (Access)
 keywords: vbaac10.chm10749
 f1_keywords:
 - vbaac10.chm10749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ReadingOrder Property (Access)
+# CheckBox.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 

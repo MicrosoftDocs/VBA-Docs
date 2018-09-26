@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Name Property (Access)
+title: ComboBox.Name property (Access)
 keywords: vbaac10.chm11469
 f1_keywords:
 - vbaac10.chm11469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Name Property (Access)
+# ComboBox.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

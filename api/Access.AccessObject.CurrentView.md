@@ -1,5 +1,5 @@
 ---
-title: AccessObject.CurrentView Property (Access)
+title: AccessObject.CurrentView property (Access)
 keywords: vbaac10.chm12754
 f1_keywords:
 - vbaac10.chm12754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.CurrentView Property (Access)
+# AccessObject.CurrentView property (Access)
 
 Returns the current view for the specified Access object. Read-only  **[AcCurrentView](Access.AcCurrentView.md)**.
 

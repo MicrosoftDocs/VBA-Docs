@@ -1,5 +1,5 @@
 ---
-title: ListBox.ColumnCount Property (Access)
+title: ListBox.ColumnCount property (Access)
 keywords: vbaac10.chm11224
 f1_keywords:
 - vbaac10.chm11224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ColumnCount Property (Access)
+# ListBox.ColumnCount property (Access)
 
 You can use the  **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame . Read/write **Integer**.
 

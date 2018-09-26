@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DisplayAutoCorrectOptions Property (Access)
+title: AutoCorrect.DisplayAutoCorrectOptions property (Access)
 keywords: vbaac10.chm13262
 f1_keywords:
 - vbaac10.chm13262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.DisplayAutoCorrectOptions Property (Access)
+# AutoCorrect.DisplayAutoCorrectOptions property (Access)
 
 Returns or sets a  **Boolean** value that specifies whether the **AutoCorrect Options** button is displayed for the specified control. The default value is **True**. Read/write.
 

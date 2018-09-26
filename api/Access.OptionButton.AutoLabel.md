@@ -1,5 +1,5 @@
 ---
-title: OptionButton.AutoLabel Property (Access)
+title: OptionButton.AutoLabel property (Access)
 keywords: vbaac10.chm10598
 f1_keywords:
 - vbaac10.chm10598
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.AutoLabel Property (Access)
+# OptionButton.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

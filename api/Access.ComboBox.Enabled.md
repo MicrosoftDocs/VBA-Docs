@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Enabled Property (Access)
+title: ComboBox.Enabled property (Access)
 keywords: vbaac10.chm11395
 f1_keywords:
 - vbaac10.chm11395
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Enabled Property (Access)
+# ComboBox.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

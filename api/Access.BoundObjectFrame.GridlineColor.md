@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineColor Property (Access)
+title: BoundObjectFrame.GridlineColor property (Access)
 keywords: vbaac10.chm11007
 f1_keywords:
 - vbaac10.chm11007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineColor Property (Access)
+# BoundObjectFrame.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified object frame. Read/write  **Long**.
 

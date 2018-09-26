@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnChange Property (Access)
+title: TextBox.OnChange property (Access)
 keywords: vbaac10.chm11117
 f1_keywords:
 - vbaac10.chm11117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnChange Property (Access)
+# TextBox.OnChange property (Access)
 
 Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the Applies To list. Read/write **String**.
 

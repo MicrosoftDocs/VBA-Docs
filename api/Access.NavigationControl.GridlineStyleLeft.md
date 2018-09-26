@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineStyleLeft Property (Access)
+title: NavigationControl.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm11156
 f1_keywords:
 - vbaac10.chm11156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineStyleLeft Property (Access)
+# NavigationControl.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 

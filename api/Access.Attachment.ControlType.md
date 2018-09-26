@@ -1,5 +1,5 @@
 ---
-title: Attachment.ControlType Property (Access)
+title: Attachment.ControlType property (Access)
 keywords: vbaac10.chm13914
 f1_keywords:
 - vbaac10.chm13914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.ControlType Property (Access)
+# Attachment.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

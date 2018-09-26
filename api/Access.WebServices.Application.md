@@ -1,5 +1,5 @@
 ---
-title: WebServices.Application Property (Access)
+title: WebServices.Application property (Access)
 keywords: vbaac10.chm14551
 f1_keywords:
 - vbaac10.chm14551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebServices.Application Property (Access)
+# WebServices.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access[Application](Access.Application.md)object and its related properties. Read-only  **Application** object.
 

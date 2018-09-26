@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.PivotTableChange Property (Access)](http://msdn.microsoft.com/library/d8d6a7eb-2bc1-e441-95fe-aefaec7fde9d%28Office.15%29.aspx)
+[Form.PivotTableChange property (Access)](http://msdn.microsoft.com/library/d8d6a7eb-2bc1-e441-95fe-aefaec7fde9d%28Office.15%29.aspx)
 

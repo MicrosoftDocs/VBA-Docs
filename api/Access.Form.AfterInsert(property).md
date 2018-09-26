@@ -1,5 +1,5 @@
 ---
-title: Form.AfterInsert Property (Access)
+title: Form.AfterInsert property (Access)
 keywords: vbaac10.chm13433
 f1_keywords:
 - vbaac10.chm13433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterInsert Property (Access)
+# Form.AfterInsert property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[AfterInsert](Access.Form.AfterInsert(even).md)** event occurs. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ListBox.ForeColor Property (Access)
+title: ListBox.ForeColor property (Access)
 keywords: vbaac10.chm11252
 f1_keywords:
 - vbaac10.chm11252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ForeColor Property (Access)
+# ListBox.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 

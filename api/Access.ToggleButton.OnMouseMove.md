@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnMouseMove Property (Access)
+title: ToggleButton.OnMouseMove property (Access)
 keywords: vbaac10.chm11756
 f1_keywords:
 - vbaac10.chm11756
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnMouseMove Property (Access)
+# ToggleButton.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

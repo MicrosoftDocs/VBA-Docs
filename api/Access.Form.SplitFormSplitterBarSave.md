@@ -1,5 +1,5 @@
 ---
-title: Form.SplitFormSplitterBarSave Property (Access)
+title: Form.SplitFormSplitterBarSave property (Access)
 keywords: vbaac10.chm13567
 f1_keywords:
 - vbaac10.chm13567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SplitFormSplitterBarSave Property (Access)
+# Form.SplitFormSplitterBarSave property (Access)
 
 Gets or sets whether the location of the splitter bar is saved when a form that's displayed in Split Form mode is closed. Read/write  **Boolean**.
 

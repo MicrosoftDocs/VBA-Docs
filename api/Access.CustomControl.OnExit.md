@@ -1,5 +1,5 @@
 ---
-title: CustomControl.OnExit Property (Access)
+title: CustomControl.OnExit property (Access)
 keywords: vbaac10.chm12042
 f1_keywords:
 - vbaac10.chm12042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.OnExit Property (Access)
+# CustomControl.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

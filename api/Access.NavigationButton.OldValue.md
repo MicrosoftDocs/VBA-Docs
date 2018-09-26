@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OldValue Property (Access)
+title: NavigationButton.OldValue property (Access)
 keywords: vbaac10.chm10440
 f1_keywords:
 - vbaac10.chm10440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OldValue Property (Access)
+# NavigationButton.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

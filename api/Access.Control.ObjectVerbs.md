@@ -1,5 +1,5 @@
 ---
-title: Control.ObjectVerbs Property (Access)
+title: Control.ObjectVerbs property (Access)
 keywords: vbaac10.chm10143
 f1_keywords:
 - vbaac10.chm10143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.ObjectVerbs Property (Access)
+# Control.ObjectVerbs property (Access)
 
 You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ControlType Property (Access)
+title: ToggleButton.ControlType property (Access)
 keywords: vbaac10.chm11699
 f1_keywords:
 - vbaac10.chm11699
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ControlType Property (Access)
+# ToggleButton.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 

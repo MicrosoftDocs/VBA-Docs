@@ -1,5 +1,5 @@
 ---
-title: Printer.Duplex Property (Access)
+title: Printer.Duplex property (Access)
 keywords: vbaac10.chm12861
 f1_keywords:
 - vbaac10.chm12861
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.Duplex Property (Access)
+# Printer.Duplex property (Access)
 
 Returns or sets an  **[AcPrintDuplex](Access.AcPrintDuplex.md)** constant indicating how the specified printer handles duplex printing. Read/write.
 

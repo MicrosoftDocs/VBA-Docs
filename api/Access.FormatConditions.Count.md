@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Count Property (Access)
+title: FormatConditions.Count property (Access)
 keywords: vbaac10.chm10070
 f1_keywords:
 - vbaac10.chm10070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.Count Property (Access)
+# FormatConditions.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 

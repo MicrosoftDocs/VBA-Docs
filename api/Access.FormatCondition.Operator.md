@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Operator Property (Access)
+title: FormatCondition.Operator property (Access)
 keywords: vbaac10.chm10059
 f1_keywords:
 - vbaac10.chm10059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Operator Property (Access)
+# FormatCondition.Operator property (Access)
 
 You can use the  **Operator** property to return the operator value for the conditional format or data validation of a **[FormatCondition](Access.FormatCondition.md)** object. Read-only **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**.
 

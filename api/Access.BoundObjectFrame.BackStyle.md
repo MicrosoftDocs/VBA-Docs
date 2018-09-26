@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BackStyle Property (Access)
+title: BoundObjectFrame.BackStyle property (Access)
 keywords: vbaac10.chm10931
 f1_keywords:
 - vbaac10.chm10931
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BackStyle Property (Access)
+# BoundObjectFrame.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

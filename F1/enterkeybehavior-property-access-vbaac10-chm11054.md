@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.EnterKeyBehavior Property (Access)](http://msdn.microsoft.com/library/b7830316-a1aa-ddc1-094f-5976c5298bc1%28Office.15%29.aspx)
+[TextBox.EnterKeyBehavior property (Access)](http://msdn.microsoft.com/library/b7830316-a1aa-ddc1-094f-5976c5298bc1%28Office.15%29.aspx)
 

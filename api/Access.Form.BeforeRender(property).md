@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeRender Property (Access)
+title: Form.BeforeRender property (Access)
 keywords: vbaac10.chm13551
 f1_keywords:
 - vbaac10.chm13551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeRender Property (Access)
+# Form.BeforeRender property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[BeforeRender](Access.Form.BeforeRender(even).md)** event occurs. Read/write.
 

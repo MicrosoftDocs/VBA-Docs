@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineStyleTop Property (Access)
+title: NavigationControl.GridlineStyleTop property (Access)
 keywords: vbaac10.chm11157
 f1_keywords:
 - vbaac10.chm11157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineStyleTop Property (Access)
+# NavigationControl.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
 

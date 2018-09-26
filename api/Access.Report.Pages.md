@@ -1,5 +1,5 @@
 ---
-title: Report.Pages Property (Access)
+title: Report.Pages property (Access)
 keywords: vbaac10.chm13722
 f1_keywords:
 - vbaac10.chm13722
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Pages Property (Access)
+# Report.Pages property (Access)
 
 You can use the  **Pages** property to return information needed to print page numbers in a report. Read/write **Integer**.
 

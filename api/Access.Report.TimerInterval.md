@@ -1,5 +1,5 @@
 ---
-title: Report.TimerInterval Property (Access)
+title: Report.TimerInterval property (Access)
 keywords: vbaac10.chm13825
 f1_keywords:
 - vbaac10.chm13825
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.TimerInterval Property (Access)
+# Report.TimerInterval property (Access)
 
 You can use the  **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Report.Timer.md)** events on a report. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.TabIndex Property (Access)
+title: CheckBox.TabIndex property (Access)
 keywords: vbaac10.chm10707
 f1_keywords:
 - vbaac10.chm10707
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.TabIndex Property (Access)
+# CheckBox.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineWidthBottom Property (Access)
+title: NavigationControl.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm11163
 f1_keywords:
 - vbaac10.chm11163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineWidthBottom Property (Access)
+# NavigationControl.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 

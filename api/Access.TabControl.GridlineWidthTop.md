@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineWidthTop Property (Access)
+title: TabControl.GridlineWidthTop property (Access)
 keywords: vbaac10.chm14545
 f1_keywords:
 - vbaac10.chm14545
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineWidthTop Property (Access)
+# TabControl.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.HorizontalAnchor Property (Access)
+title: EmptyCell.HorizontalAnchor property (Access)
 keywords: vbaac10.chm14324
 f1_keywords:
 - vbaac10.chm14324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.HorizontalAnchor Property (Access)
+# EmptyCell.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 

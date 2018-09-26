@@ -1,5 +1,5 @@
 ---
-title: TabControl.Visible Property (Access)
+title: TabControl.Visible property (Access)
 keywords: vbaac10.chm12076
 f1_keywords:
 - vbaac10.chm12076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Visible Property (Access)
+# TabControl.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

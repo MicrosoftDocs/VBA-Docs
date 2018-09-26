@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BorderStyle Property (Access)
+title: ComboBox.BorderStyle property (Access)
 keywords: vbaac10.chm11408
 f1_keywords:
 - vbaac10.chm11408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BorderStyle Property (Access)
+# ComboBox.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 

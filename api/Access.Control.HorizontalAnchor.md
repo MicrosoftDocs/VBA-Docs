@@ -1,5 +1,5 @@
 ---
-title: Control.HorizontalAnchor Property (Access)
+title: Control.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10169
 f1_keywords:
 - vbaac10.chm10169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.HorizontalAnchor Property (Access)
+# Control.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the control is anchored horizontally within its layout. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AutoLabel Property (Access)
+title: ComboBox.AutoLabel property (Access)
 keywords: vbaac10.chm11428
 f1_keywords:
 - vbaac10.chm11428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AutoLabel Property (Access)
+# ComboBox.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 

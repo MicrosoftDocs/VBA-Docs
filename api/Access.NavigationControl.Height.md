@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Height Property (Access)
+title: NavigationControl.Height property (Access)
 keywords: vbaac10.chm11074
 f1_keywords:
 - vbaac10.chm11074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Height Property (Access)
+# NavigationControl.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Section Property (Access)
+title: NavigationButton.Section property (Access)
 keywords: vbaac10.chm10487
 f1_keywords:
 - vbaac10.chm10487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Section Property (Access)
+# NavigationButton.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

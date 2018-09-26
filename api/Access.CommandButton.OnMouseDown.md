@@ -1,5 +1,5 @@
 ---
-title: CommandButton.OnMouseDown Property (Access)
+title: CommandButton.OnMouseDown property (Access)
 keywords: vbaac10.chm10499
 f1_keywords:
 - vbaac10.chm10499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.OnMouseDown Property (Access)
+# CommandButton.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

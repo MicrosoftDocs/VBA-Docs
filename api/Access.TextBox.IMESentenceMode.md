@@ -1,5 +1,5 @@
 ---
-title: TextBox.IMESentenceMode Property (Access)
+title: TextBox.IMESentenceMode property (Access)
 keywords: vbaac10.chm11137
 f1_keywords:
 - vbaac10.chm11137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.IMESentenceMode Property (Access)
+# TextBox.IMESentenceMode property (Access)
 
 
 

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.OnFormat Property (Access)](http://msdn.microsoft.com/library/061652a9-0253-8dc2-a8c0-02daa40d132d%28Office.15%29.aspx)
+[Section.OnFormat property (Access)](http://msdn.microsoft.com/library/061652a9-0253-8dc2-a8c0-02daa40d132d%28Office.15%29.aspx)
 

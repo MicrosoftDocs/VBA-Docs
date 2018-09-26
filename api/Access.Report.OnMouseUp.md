@@ -1,5 +1,5 @@
 ---
-title: Report.OnMouseUp Property (Access)
+title: Report.OnMouseUp property (Access)
 keywords: vbaac10.chm13865
 f1_keywords:
 - vbaac10.chm13865
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnMouseUp Property (Access)
+# Report.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

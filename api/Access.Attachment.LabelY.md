@@ -1,5 +1,5 @@
 ---
-title: Attachment.LabelY Property (Access)
+title: Attachment.LabelY property (Access)
 keywords: vbaac10.chm14006
 f1_keywords:
 - vbaac10.chm14006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LabelY Property (Access)
+# Attachment.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

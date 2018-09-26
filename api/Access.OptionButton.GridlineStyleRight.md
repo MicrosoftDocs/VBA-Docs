@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineStyleRight Property (Access)
+title: OptionButton.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10647
 f1_keywords:
 - vbaac10.chm10647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineStyleRight Property (Access)
+# OptionButton.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified option button. Read/write  **Byte**.
 

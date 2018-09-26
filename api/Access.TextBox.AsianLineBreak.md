@@ -1,5 +1,5 @@
 ---
-title: TextBox.AsianLineBreak Property (Access)
+title: TextBox.AsianLineBreak property (Access)
 keywords: vbaac10.chm11147
 f1_keywords:
 - vbaac10.chm11147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AsianLineBreak Property (Access)
+# TextBox.AsianLineBreak property (Access)
 
 Returns or sets a  **Boolean** indicating whether line breaks in text boxes follow rules governing East Asian languages. **True** to control line breaks based on East Asian language rules. Read/write.
 

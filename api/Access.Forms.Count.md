@@ -1,5 +1,5 @@
 ---
-title: Forms.Count Property (Access)
+title: Forms.Count property (Access)
 keywords: vbaac10.chm12359
 f1_keywords:
 - vbaac10.chm12359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Forms.Count Property (Access)
+# Forms.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 

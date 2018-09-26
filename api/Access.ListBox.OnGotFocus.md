@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnGotFocus Property (Access)
+title: ListBox.OnGotFocus property (Access)
 keywords: vbaac10.chm11282
 f1_keywords:
 - vbaac10.chm11282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnGotFocus Property (Access)
+# ListBox.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.AutoHeight Property (Access)](http://msdn.microsoft.com/library/e3398f5c-cf1c-1d3e-1a70-8233adbb0c85%28Office.15%29.aspx)
+[Section.AutoHeight property (Access)](http://msdn.microsoft.com/library/e3398f5c-cf1c-1d3e-1a70-8233adbb0c85%28Office.15%29.aspx)
 

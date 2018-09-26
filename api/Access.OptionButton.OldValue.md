@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OldValue Property (Access)
+title: OptionButton.OldValue property (Access)
 keywords: vbaac10.chm10558
 f1_keywords:
 - vbaac10.chm10558
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OldValue Property (Access)
+# OptionButton.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

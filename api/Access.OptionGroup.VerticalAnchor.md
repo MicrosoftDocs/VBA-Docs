@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.VerticalAnchor Property (Access)
+title: OptionGroup.VerticalAnchor property (Access)
 keywords: vbaac10.chm10884
 f1_keywords:
 - vbaac10.chm10884
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.VerticalAnchor Property (Access)
+# OptionGroup.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified option group is anchored vertically within its layout. Read/write.
 

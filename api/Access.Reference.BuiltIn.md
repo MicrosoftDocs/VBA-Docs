@@ -1,5 +1,5 @@
 ---
-title: Reference.BuiltIn Property (Access)
+title: Reference.BuiltIn property (Access)
 keywords: vbaac10.chm12635
 f1_keywords:
 - vbaac10.chm12635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.BuiltIn Property (Access)
+# Reference.BuiltIn property (Access)
 
 The  **BuiltIn** property returns a **Boolean** value indicating whether a **[Reference](Access.Reference.md)** object points to a default reference that's necessary for Microsoft Access to function properly. Read-only **Boolean**.
 

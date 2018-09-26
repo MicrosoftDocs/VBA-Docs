@@ -1,5 +1,5 @@
 ---
-title: SubForm.LabelAlign Property (Access)
+title: SubForm.LabelAlign property (Access)
 keywords: vbaac10.chm11952
 f1_keywords:
 - vbaac10.chm11952
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.LabelAlign Property (Access)
+# SubForm.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 

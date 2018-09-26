@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnKeyPress Property (Access)
+title: WebBrowserControl.OnKeyPress property (Access)
 keywords: vbaac10.chm14385
 f1_keywords:
 - vbaac10.chm14385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnKeyPress Property (Access)
+# WebBrowserControl.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BrokenReference Property (Access)
+title: Application.BrokenReference property (Access)
 keywords: vbaac10.chm12593
 f1_keywords:
 - vbaac10.chm12593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.BrokenReference Property (Access)
+# Application.BrokenReference property (Access)
 
 Returns a  **Boolean** indicating whether the current database has any broken references to databases or type libraries. **True** if there are any broken references. Read-only.
 

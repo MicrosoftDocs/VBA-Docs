@@ -1,5 +1,5 @@
 ---
-title: ListBox.BottomPadding Property (Access)
+title: ListBox.BottomPadding property (Access)
 keywords: vbaac10.chm11309
 f1_keywords:
 - vbaac10.chm11309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BottomPadding Property (Access)
+# ListBox.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
 

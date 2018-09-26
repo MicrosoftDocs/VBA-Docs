@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ColumnHidden Property (Access)
+title: ToggleButton.ColumnHidden property (Access)
 keywords: vbaac10.chm11735
 f1_keywords:
 - vbaac10.chm11735
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ColumnHidden Property (Access)
+# ToggleButton.ColumnHidden property (Access)
 
 You can use the  **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ColumnHidden Property (Access)
+title: CheckBox.ColumnHidden property (Access)
 keywords: vbaac10.chm10724
 f1_keywords:
 - vbaac10.chm10724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ColumnHidden Property (Access)
+# CheckBox.ColumnHidden property (Access)
 
 You can use the  **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 

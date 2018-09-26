@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecifications.Parent Property (Access)
+title: ImportExportSpecifications.Parent property (Access)
 keywords: vbaac10.chm13339
 f1_keywords:
 - vbaac10.chm13339
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecifications.Parent Property (Access)
+# ImportExportSpecifications.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only  **Object**.
 

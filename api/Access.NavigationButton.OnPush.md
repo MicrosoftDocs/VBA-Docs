@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnPush Property (Access)
+title: NavigationButton.OnPush property (Access)
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnPush Property (Access)
+# NavigationButton.OnPush property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window of a command button. Read/write **String**.
 

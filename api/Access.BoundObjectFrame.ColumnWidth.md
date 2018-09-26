@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.ColumnWidth Property (Access)
+title: BoundObjectFrame.ColumnWidth property (Access)
 keywords: vbaac10.chm10942
 f1_keywords:
 - vbaac10.chm10942
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.ColumnWidth Property (Access)
+# BoundObjectFrame.ColumnWidth property (Access)
 
 You can use the  **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
 

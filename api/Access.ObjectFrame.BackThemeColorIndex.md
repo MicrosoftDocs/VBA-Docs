@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.BackThemeColorIndex Property (Access)
+title: ObjectFrame.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.BackThemeColorIndex Property (Access)
+# ObjectFrame.BackThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
 

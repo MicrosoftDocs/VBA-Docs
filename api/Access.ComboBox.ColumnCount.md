@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ColumnCount Property (Access)
+title: ComboBox.ColumnCount property (Access)
 keywords: vbaac10.chm11380
 f1_keywords:
 - vbaac10.chm11380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ColumnCount Property (Access)
+# ComboBox.ColumnCount property (Access)
 
 You can use the  **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame . Read/write **Integer**.
 

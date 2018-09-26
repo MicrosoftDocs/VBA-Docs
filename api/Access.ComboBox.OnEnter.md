@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnEnter Property (Access)
+title: ComboBox.OnEnter property (Access)
 keywords: vbaac10.chm11451
 f1_keywords:
 - vbaac10.chm11451
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnEnter Property (Access)
+# ComboBox.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 

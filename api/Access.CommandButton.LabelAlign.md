@@ -1,5 +1,5 @@
 ---
-title: CommandButton.LabelAlign Property (Access)
+title: CommandButton.LabelAlign property (Access)
 keywords: vbaac10.chm10486
 f1_keywords:
 - vbaac10.chm10486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.LabelAlign Property (Access)
+# CommandButton.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 

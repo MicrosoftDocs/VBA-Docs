@@ -1,5 +1,5 @@
 ---
-title: TabControl.BorderShade Property (Access)
+title: TabControl.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.BorderShade Property (Access)
+# TabControl.BorderShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 

@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo.UnsupportedObjects Property (Access)
+title: DependencyInfo.UnsupportedObjects property (Access)
 keywords: vbaac10.chm13278
 f1_keywords:
 - vbaac10.chm13278
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo.UnsupportedObjects Property (Access)
+# DependencyInfo.UnsupportedObjects property (Access)
 
  Returns a **[DependencyObjects](Access.DependencyObjects.md)** collection that contains objects that cannot be searched for dependency. Read-only.
 

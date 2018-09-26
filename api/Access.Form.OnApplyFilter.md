@@ -1,5 +1,5 @@
 ---
-title: Form.OnApplyFilter Property (Access)
+title: Form.OnApplyFilter property (Access)
 keywords: vbaac10.chm13460
 f1_keywords:
 - vbaac10.chm13460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnApplyFilter Property (Access)
+# Form.OnApplyFilter property (Access)
 
 Sets or returns the value of the  **On Apply Filter** box in the **Properties** window of a form. Read/write **String**.
 

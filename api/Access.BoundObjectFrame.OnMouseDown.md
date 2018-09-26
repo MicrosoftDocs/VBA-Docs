@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnMouseDown Property (Access)
+title: BoundObjectFrame.OnMouseDown property (Access)
 keywords: vbaac10.chm10970
 f1_keywords:
 - vbaac10.chm10970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnMouseDown Property (Access)
+# BoundObjectFrame.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

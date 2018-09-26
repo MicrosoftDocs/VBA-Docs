@@ -1,5 +1,5 @@
 ---
-title: CodeProject.WebSite Property (Access)
+title: CodeProject.WebSite property (Access)
 keywords: vbaac10.chm14663
 f1_keywords:
 - vbaac10.chm14663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.WebSite Property (Access)
+# CodeProject.WebSite property (Access)
 
 Gets the Uniform Resource Locator (URL) of the Web site to which the database has been published. Read-only  **String**.
 

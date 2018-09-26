@@ -1,5 +1,5 @@
 ---
-title: Screen.Application Property (Access)
+title: Screen.Application property (Access)
 keywords: vbaac10.chm12485
 f1_keywords:
 - vbaac10.chm12485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.Application Property (Access)
+# Screen.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Control.LeftPadding Property (Access)
+title: Control.LeftPadding property (Access)
 keywords: vbaac10.chm10156
 f1_keywords:
 - vbaac10.chm10156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.LeftPadding Property (Access)
+# Control.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the control and its left gridline. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.BeforeUpdate Property (Access)
+title: ToggleButton.BeforeUpdate property (Access)
 keywords: vbaac10.chm11747
 f1_keywords:
 - vbaac10.chm11747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.BeforeUpdate Property (Access)
+# ToggleButton.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 

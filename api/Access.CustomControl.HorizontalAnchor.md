@@ -1,5 +1,5 @@
 ---
-title: CustomControl.HorizontalAnchor Property (Access)
+title: CustomControl.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10537
 f1_keywords:
 - vbaac10.chm10537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.HorizontalAnchor Property (Access)
+# CustomControl.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 

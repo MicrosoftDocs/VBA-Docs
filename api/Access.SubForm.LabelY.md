@@ -1,5 +1,5 @@
 ---
-title: SubForm.LabelY Property (Access)
+title: SubForm.LabelY property (Access)
 keywords: vbaac10.chm11951
 f1_keywords:
 - vbaac10.chm11951
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.LabelY Property (Access)
+# SubForm.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

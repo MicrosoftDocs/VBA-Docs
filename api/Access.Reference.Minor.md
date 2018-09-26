@@ -1,5 +1,5 @@
 ---
-title: Reference.Minor Property (Access)
+title: Reference.Minor property (Access)
 keywords: vbaac10.chm12633
 f1_keywords:
 - vbaac10.chm12633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Minor Property (Access)
+# Reference.Minor property (Access)
 
 The  **Minor** property of a **[Reference](Access.Reference.md)** object returns a **Long** value indicating the minor version number of the application to which you have set a reference.
 

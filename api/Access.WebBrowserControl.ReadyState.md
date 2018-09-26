@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ReadyState Property (Access)
+title: WebBrowserControl.ReadyState property (Access)
 keywords: vbaac10.chm14362
 f1_keywords:
 - vbaac10.chm14362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ReadyState Property (Access)
+# WebBrowserControl.ReadyState property (Access)
 
 Gets the status of the specified Web Browser control. Read-only [AcWebBrowserState](Access.AcWebBrowserState.md).
 

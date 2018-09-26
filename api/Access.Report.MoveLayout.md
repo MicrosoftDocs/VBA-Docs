@@ -1,5 +1,5 @@
 ---
-title: Report.MoveLayout Property (Access)
+title: Report.MoveLayout property (Access)
 keywords: vbaac10.chm13732
 f1_keywords:
 - vbaac10.chm13732
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MoveLayout Property (Access)
+# Report.MoveLayout property (Access)
 
 The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean**.
 

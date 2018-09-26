@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnExit Property (Access)
+title: TextBox.OnExit property (Access)
 keywords: vbaac10.chm11119
 f1_keywords:
 - vbaac10.chm11119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnExit Property (Access)
+# TextBox.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

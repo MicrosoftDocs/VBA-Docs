@@ -1,5 +1,5 @@
 ---
-title: CommandButton.OnGotFocus Property (Access)
+title: CommandButton.OnGotFocus property (Access)
 keywords: vbaac10.chm10495
 f1_keywords:
 - vbaac10.chm10495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.OnGotFocus Property (Access)
+# CommandButton.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

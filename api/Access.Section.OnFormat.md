@@ -1,5 +1,5 @@
 ---
-title: Section.OnFormat Property (Access)
+title: Section.OnFormat property (Access)
 keywords: vbaac10.chm12204,vbaac10.chm4089
 f1_keywords:
 - vbaac10.chm12204,vbaac10.chm4089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnFormat Property (Access)
+# Section.OnFormat property (Access)
 
 Sets or returns the value of the  **On Format** box in the **Properties** window of a report section. Read/write **String**.
 

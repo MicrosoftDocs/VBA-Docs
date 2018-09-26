@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineWidthRight Property (Access)
+title: ComboBox.GridlineWidthRight property (Access)
 keywords: vbaac10.chm11491
 f1_keywords:
 - vbaac10.chm11491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineWidthRight Property (Access)
+# ComboBox.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified combo box. Read/write  **Byte**.
 

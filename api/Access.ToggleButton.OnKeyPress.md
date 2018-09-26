@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnKeyPress Property (Access)
+title: ToggleButton.OnKeyPress property (Access)
 keywords: vbaac10.chm11760
 f1_keywords:
 - vbaac10.chm11760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnKeyPress Property (Access)
+# ToggleButton.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

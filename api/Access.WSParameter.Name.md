@@ -1,5 +1,5 @@
 ---
-title: WSParameter.Name Property (Access)
+title: WSParameter.Name property (Access)
 keywords: vbaac10.chm14584
 f1_keywords:
 - vbaac10.chm14584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WSParameter.Name Property (Access)
+# WSParameter.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Access)
+title: Application.FileDialog property (Access)
 keywords: vbaac10.chm12592
 f1_keywords:
 - vbaac10.chm12592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileDialog Property (Access)
+# Application.FileDialog property (Access)
 
 Returns a  **FileDialog** object which represents a single instance of a file dialog box. Read-only.
 

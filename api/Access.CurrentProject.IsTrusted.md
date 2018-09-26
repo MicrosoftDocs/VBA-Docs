@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.IsTrusted Property (Access)
+title: CurrentProject.IsTrusted property (Access)
 keywords: vbaac10.chm12730
 f1_keywords:
 - vbaac10.chm12730
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.IsTrusted Property (Access)
+# CurrentProject.IsTrusted property (Access)
 
 Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only  **Boolean**.
 

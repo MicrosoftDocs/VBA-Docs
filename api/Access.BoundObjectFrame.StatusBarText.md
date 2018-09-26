@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.StatusBarText Property (Access)
+title: BoundObjectFrame.StatusBarText property (Access)
 keywords: vbaac10.chm10920
 f1_keywords:
 - vbaac10.chm10920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.StatusBarText Property (Access)
+# BoundObjectFrame.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 

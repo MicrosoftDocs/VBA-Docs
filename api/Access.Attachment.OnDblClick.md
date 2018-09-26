@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnDblClick Property (Access)
+title: Attachment.OnDblClick property (Access)
 keywords: vbaac10.chm13946
 f1_keywords:
 - vbaac10.chm13946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnDblClick Property (Access)
+# Attachment.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

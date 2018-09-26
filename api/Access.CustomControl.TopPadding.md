@@ -1,5 +1,5 @@
 ---
-title: CustomControl.TopPadding Property (Access)
+title: CustomControl.TopPadding property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.TopPadding Property (Access)
+# CustomControl.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its top gridline. Read/write  **Integer**.
 

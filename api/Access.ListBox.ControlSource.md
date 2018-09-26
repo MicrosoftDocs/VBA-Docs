@@ -1,5 +1,5 @@
 ---
-title: ListBox.ControlSource Property (Access)
+title: ListBox.ControlSource property (Access)
 keywords: vbaac10.chm11221
 f1_keywords:
 - vbaac10.chm11221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ControlSource Property (Access)
+# ListBox.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 

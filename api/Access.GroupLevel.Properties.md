@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.Properties Property (Access)
+title: GroupLevel.Properties property (Access)
 keywords: vbaac10.chm12238
 f1_keywords:
 - vbaac10.chm12238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.Properties Property (Access)
+# GroupLevel.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.LabelAlign Property (Access)
+title: TextBox.LabelAlign property (Access)
 keywords: vbaac10.chm11102
 f1_keywords:
 - vbaac10.chm11102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.LabelAlign Property (Access)
+# TextBox.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Label.OnDblClick Property (Access)
+title: Label.OnDblClick property (Access)
 keywords: vbaac10.chm10225
 f1_keywords:
 - vbaac10.chm10225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.OnDblClick Property (Access)
+# Label.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

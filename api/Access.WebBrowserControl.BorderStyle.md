@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BorderStyle Property (Access)
+title: WebBrowserControl.BorderStyle property (Access)
 keywords: vbaac10.chm14375
 f1_keywords:
 - vbaac10.chm14375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BorderStyle Property (Access)
+# WebBrowserControl.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 

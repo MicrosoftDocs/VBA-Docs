@@ -1,5 +1,5 @@
 ---
-title: Image.Section Property (Access)
+title: Image.Section property (Access)
 keywords: vbaac10.chm10390
 f1_keywords:
 - vbaac10.chm10390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Section Property (Access)
+# Image.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

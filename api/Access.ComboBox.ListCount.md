@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ListCount Property (Access)
+title: ComboBox.ListCount property (Access)
 keywords: vbaac10.chm11443
 f1_keywords:
 - vbaac10.chm11443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ListCount Property (Access)
+# ComboBox.ListCount property (Access)
 
 You can use the  **ListCount** property to determine the number of rows in the list box portion of a combo box. Read/write **Long**.
 

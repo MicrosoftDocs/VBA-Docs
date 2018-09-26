@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Name Property (Access)
+title: CustomControl.Name property (Access)
 keywords: vbaac10.chm12049
 f1_keywords:
 - vbaac10.chm12049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Name Property (Access)
+# CustomControl.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

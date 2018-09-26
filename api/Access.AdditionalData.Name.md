@@ -1,5 +1,5 @@
 ---
-title: AdditionalData.Name Property (Access)
+title: AdditionalData.Name property (Access)
 keywords: vbaac10.chm13255
 f1_keywords:
 - vbaac10.chm13255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AdditionalData.Name Property (Access)
+# AdditionalData.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

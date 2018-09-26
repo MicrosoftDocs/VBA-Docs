@@ -1,5 +1,5 @@
 ---
-title: Report.OrderBy Property (Access)
+title: Report.OrderBy property (Access)
 keywords: vbaac10.chm13692
 f1_keywords:
 - vbaac10.chm13692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OrderBy Property (Access)
+# Report.OrderBy property (Access)
 
 You can use the  **OrderBy** property to specify how you want to sort records in a report. Read/write **String**.
 

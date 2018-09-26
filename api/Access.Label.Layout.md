@@ -1,5 +1,5 @@
 ---
-title: Label.Layout Property (Access)
+title: Label.Layout property (Access)
 keywords: vbaac10.chm10244
 f1_keywords:
 - vbaac10.chm10244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Layout Property (Access)
+# Label.Layout property (Access)
 
 Returns the type of layout for the specified label. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

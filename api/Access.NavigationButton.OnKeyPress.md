@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnKeyPress Property (Access)
+title: NavigationButton.OnKeyPress property (Access)
 keywords: vbaac10.chm10504
 f1_keywords:
 - vbaac10.chm10504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnKeyPress Property (Access)
+# NavigationButton.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

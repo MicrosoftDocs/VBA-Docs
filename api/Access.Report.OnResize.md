@@ -1,5 +1,5 @@
 ---
-title: Report.OnResize Property (Access)
+title: Report.OnResize property (Access)
 keywords: vbaac10.chm13857
 f1_keywords:
 - vbaac10.chm13857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnResize Property (Access)
+# Report.OnResize property (Access)
 
 Sets or returns the value of the  **On Resize** box in the **Properties** window of a report. Read/write **String**.
 

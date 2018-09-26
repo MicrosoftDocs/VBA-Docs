@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.OnDblClick Property (Access)
+title: ToggleButton.OnDblClick property (Access)
 keywords: vbaac10.chm11754
 f1_keywords:
 - vbaac10.chm11754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.OnDblClick Property (Access)
+# ToggleButton.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

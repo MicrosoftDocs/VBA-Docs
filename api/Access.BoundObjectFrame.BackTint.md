@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BackTint Property (Access)
+title: BoundObjectFrame.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BackTint Property (Access)
+# BoundObjectFrame.BackTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 

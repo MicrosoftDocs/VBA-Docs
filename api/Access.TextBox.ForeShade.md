@@ -1,5 +1,5 @@
 ---
-title: TextBox.ForeShade Property (Access)
+title: TextBox.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ForeShade Property (Access)
+# TextBox.ForeShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
 

@@ -1,5 +1,5 @@
 ---
-title: Image.Width Property (Access)
+title: Image.Width property (Access)
 keywords: vbaac10.chm10378
 f1_keywords:
 - vbaac10.chm10378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Width Property (Access)
+# Image.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

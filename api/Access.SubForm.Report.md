@@ -1,5 +1,5 @@
 ---
-title: SubForm.Report Property (Access)
+title: SubForm.Report property (Access)
 keywords: vbaac10.chm11917
 f1_keywords:
 - vbaac10.chm11917
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Report Property (Access)
+# SubForm.Report property (Access)
 
 You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
 

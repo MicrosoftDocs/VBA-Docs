@@ -1,5 +1,5 @@
 ---
-title: Report.Hwnd Property (Access)
+title: Report.Hwnd property (Access)
 keywords: vbaac10.chm13719
 f1_keywords:
 - vbaac10.chm13719
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Hwnd Property (Access)
+# Report.Hwnd property (Access)
 
 You can use the  **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Microsoft Windows to the current window. Read/write **Long**.
 

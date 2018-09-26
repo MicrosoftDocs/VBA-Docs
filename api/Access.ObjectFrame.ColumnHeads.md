@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.ColumnHeads Property (Access)
+title: ObjectFrame.ColumnHeads property (Access)
 keywords: vbaac10.chm11578
 f1_keywords:
 - vbaac10.chm11578
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.ColumnHeads Property (Access)
+# ObjectFrame.ColumnHeads property (Access)
 
 You can use the  **ColumnHeads** property to display a single row of column headings for list boxes, combo boxes, and OLE objects that accept column headings. You can also use this property to create a label for each entry in a chart control . What is actually displayed as the first-row column heading depends on the object's **RowSourceType** property setting. Read/write **Boolean**.
 

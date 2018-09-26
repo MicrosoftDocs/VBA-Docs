@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.OnUpdated Property (Access)
+title: ObjectFrame.OnUpdated property (Access)
 keywords: vbaac10.chm11614
 f1_keywords:
 - vbaac10.chm11614
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.OnUpdated Property (Access)
+# ObjectFrame.OnUpdated property (Access)
 
 Sets or returns the value of the  **On Updated** box in the **Properties** window of a form or report. Read/write **String**.
 

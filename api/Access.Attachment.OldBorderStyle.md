@@ -1,5 +1,5 @@
 ---
-title: Attachment.OldBorderStyle Property (Access)
+title: Attachment.OldBorderStyle property (Access)
 keywords: vbaac10.chm13928
 f1_keywords:
 - vbaac10.chm13928
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OldBorderStyle Property (Access)
+# Attachment.OldBorderStyle property (Access)
 
 You can use this property to set or return the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 

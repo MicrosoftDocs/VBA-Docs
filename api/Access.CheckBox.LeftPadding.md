@@ -1,5 +1,5 @@
 ---
-title: CheckBox.LeftPadding Property (Access)
+title: CheckBox.LeftPadding property (Access)
 keywords: vbaac10.chm10768
 f1_keywords:
 - vbaac10.chm10768
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.LeftPadding Property (Access)
+# CheckBox.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the check box and its left gridline. Read/write  **Integer**.
 

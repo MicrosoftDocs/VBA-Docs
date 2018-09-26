@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Properties Property (Access)
+title: OptionGroup.Properties property (Access)
 keywords: vbaac10.chm10813
 f1_keywords:
 - vbaac10.chm10813
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Properties Property (Access)
+# OptionGroup.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

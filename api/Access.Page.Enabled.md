@@ -1,5 +1,5 @@
 ---
-title: Page.Enabled Property (Access)
+title: Page.Enabled property (Access)
 keywords: vbaac10.chm12154
 f1_keywords:
 - vbaac10.chm12154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Enabled Property (Access)
+# Page.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

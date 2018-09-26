@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.BottomPadding Property (Access)
+title: NavigationButton.BottomPadding property (Access)
 keywords: vbaac10.chm10527
 f1_keywords:
 - vbaac10.chm10527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.BottomPadding Property (Access)
+# NavigationButton.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
 

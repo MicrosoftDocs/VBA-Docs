@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Properties Property (Access)
+title: CommandButton.Properties property (Access)
 keywords: vbaac10.chm10441
 f1_keywords:
 - vbaac10.chm10441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Properties Property (Access)
+# CommandButton.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

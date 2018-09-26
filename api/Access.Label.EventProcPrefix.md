@@ -1,5 +1,5 @@
 ---
-title: Label.EventProcPrefix Property (Access)
+title: Label.EventProcPrefix property (Access)
 keywords: vbaac10.chm10188
 f1_keywords:
 - vbaac10.chm10188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.EventProcPrefix Property (Access)
+# Label.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

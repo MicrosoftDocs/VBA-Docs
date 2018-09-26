@@ -1,5 +1,5 @@
 ---
-title: Report.ServerFilter Property (Access)
+title: Report.ServerFilter property (Access)
 keywords: vbaac10.chm13694
 f1_keywords:
 - vbaac10.chm13694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ServerFilter Property (Access)
+# Report.ServerFilter property (Access)
 
 You can use the  **ServerFilter** property to specify a subset of records to be displayed when a server filter is applied to a report within a Microsoft Access project (.adp) or database. Read/write **String**.
 

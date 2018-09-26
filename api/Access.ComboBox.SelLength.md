@@ -1,5 +1,5 @@
 ---
-title: ComboBox.SelLength Property (Access)
+title: ComboBox.SelLength property (Access)
 keywords: vbaac10.chm11439
 f1_keywords:
 - vbaac10.chm11439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.SelLength Property (Access)
+# ComboBox.SelLength property (Access)
 
 The  **SelLength** property specifies or determines the number of characters selected in the text box portion of a combo box. Read/write **Integer**.
 

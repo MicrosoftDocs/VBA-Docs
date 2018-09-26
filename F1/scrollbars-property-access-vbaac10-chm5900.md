@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[WebBrowserControl.ScrollBars Property (Access)](http://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
+[WebBrowserControl.ScrollBars property (Access)](http://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
 

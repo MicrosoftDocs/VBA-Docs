@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Left Property (Access)
+title: NavigationButton.Left property (Access)
 keywords: vbaac10.chm10467
 f1_keywords:
 - vbaac10.chm10467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Left Property (Access)
+# NavigationButton.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

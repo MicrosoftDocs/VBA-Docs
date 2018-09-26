@@ -1,5 +1,5 @@
 ---
-title: Printer.ItemLayout Property (Access)
+title: Printer.ItemLayout property (Access)
 keywords: vbaac10.chm12878
 f1_keywords:
 - vbaac10.chm12878
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.ItemLayout Property (Access)
+# Printer.ItemLayout property (Access)
 
 Returns or sets an  **[AcPrintItemLayout](Access.AcPrintItemLayout.md)** constant indicating whether the printer lays columns across, then down, or down, then across. Read/write.
 

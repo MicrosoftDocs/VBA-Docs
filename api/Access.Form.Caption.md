@@ -1,5 +1,5 @@
 ---
-title: Form.Caption Property (Access)
+title: Form.Caption property (Access)
 keywords: vbaac10.chm13351
 f1_keywords:
 - vbaac10.chm13351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Caption Property (Access)
+# Form.Caption property (Access)
 
 Gets or sets the text that appears in the title bar in Form view. Read/write  **String**.
 

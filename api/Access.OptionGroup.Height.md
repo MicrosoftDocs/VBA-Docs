@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Height Property (Access)
+title: OptionGroup.Height property (Access)
 keywords: vbaac10.chm10837
 f1_keywords:
 - vbaac10.chm10837
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Height Property (Access)
+# OptionGroup.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

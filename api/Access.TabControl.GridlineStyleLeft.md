@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineStyleLeft Property (Access)
+title: TabControl.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm14540
 f1_keywords:
 - vbaac10.chm14540
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineStyleLeft Property (Access)
+# TabControl.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 

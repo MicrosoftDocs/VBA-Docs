@@ -1,5 +1,5 @@
 ---
-title: Form.Visible Property (Access)
+title: Form.Visible property (Access)
 keywords: vbaac10.chm13415
 f1_keywords:
 - vbaac10.chm13415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Visible Property (Access)
+# Form.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

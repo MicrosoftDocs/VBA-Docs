@@ -1,5 +1,5 @@
 ---
-title: Label.TopPadding Property (Access)
+title: Label.TopPadding property (Access)
 keywords: vbaac10.chm10246
 f1_keywords:
 - vbaac10.chm10246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.TopPadding Property (Access)
+# Label.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the label and its top gridline. Read/write  **Integer**.
 

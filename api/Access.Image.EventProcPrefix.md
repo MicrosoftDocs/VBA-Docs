@@ -1,5 +1,5 @@
 ---
-title: Image.EventProcPrefix Property (Access)
+title: Image.EventProcPrefix property (Access)
 keywords: vbaac10.chm10363
 f1_keywords:
 - vbaac10.chm10363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.EventProcPrefix Property (Access)
+# Image.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

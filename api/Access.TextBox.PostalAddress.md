@@ -1,5 +1,5 @@
 ---
-title: TextBox.PostalAddress Property (Access)
+title: TextBox.PostalAddress property (Access)
 keywords: vbaac10.chm11050
 f1_keywords:
 - vbaac10.chm11050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.PostalAddress Property (Access)
+# TextBox.PostalAddress property (Access)
 
 You can use the  **PostalAddress Property** property to specify or determine the postal code and the Customer Barcode data corresponding to the address information displayed in a specified field/textbox. The PostalAddress Property wizard enables the setting of these properties. Read/write **String**.
 

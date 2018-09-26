@@ -1,5 +1,5 @@
 ---
-title: Form.OnMouseDown Property (Access)
+title: Form.OnMouseDown property (Access)
 keywords: vbaac10.chm13451
 f1_keywords:
 - vbaac10.chm13451
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnMouseDown Property (Access)
+# Form.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

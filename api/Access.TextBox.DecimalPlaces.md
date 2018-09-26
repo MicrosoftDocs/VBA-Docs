@@ -1,5 +1,5 @@
 ---
-title: TextBox.DecimalPlaces Property (Access)
+title: TextBox.DecimalPlaces property (Access)
 keywords: vbaac10.chm11045
 f1_keywords:
 - vbaac10.chm11045
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.DecimalPlaces Property (Access)
+# TextBox.DecimalPlaces property (Access)
 
 You can use the  **DecimalPlaces** property to specify the number of decimal places Microsoft Access uses to display numbers. Read/write **Byte**.
 

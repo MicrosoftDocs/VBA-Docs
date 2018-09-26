@@ -1,5 +1,5 @@
 ---
-title: CommandButton.VerticalAnchor Property (Access)
+title: CommandButton.VerticalAnchor property (Access)
 keywords: vbaac10.chm10538
 f1_keywords:
 - vbaac10.chm10538
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.VerticalAnchor Property (Access)
+# CommandButton.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified button is anchored vertically within its layout. Read/write.
 

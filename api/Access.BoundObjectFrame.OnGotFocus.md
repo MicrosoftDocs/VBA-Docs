@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnGotFocus Property (Access)
+title: BoundObjectFrame.OnGotFocus property (Access)
 keywords: vbaac10.chm10966
 f1_keywords:
 - vbaac10.chm10966
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnGotFocus Property (Access)
+# BoundObjectFrame.OnGotFocus property (Access)
 
 Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

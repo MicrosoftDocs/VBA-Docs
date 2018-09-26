@@ -1,5 +1,5 @@
 ---
-title: Report.FilterOnLoad Property (Access)
+title: Report.FilterOnLoad property (Access)
 keywords: vbaac10.chm13816
 f1_keywords:
 - vbaac10.chm13816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FilterOnLoad Property (Access)
+# Report.FilterOnLoad property (Access)
 
 Gets or sets whether the filter specified by the  **[Filter](Access.Report.Filter(property).md)** property is applied when the report is loaded. Read/write **Boolean**.
 

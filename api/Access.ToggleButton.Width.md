@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Width Property (Access)
+title: ToggleButton.Width property (Access)
 keywords: vbaac10.chm11720
 f1_keywords:
 - vbaac10.chm11720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Width Property (Access)
+# ToggleButton.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

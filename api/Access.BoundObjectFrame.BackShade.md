@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BackShade Property (Access)
+title: BoundObjectFrame.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BackShade Property (Access)
+# BoundObjectFrame.BackShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 

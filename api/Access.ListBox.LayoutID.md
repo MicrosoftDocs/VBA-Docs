@@ -1,5 +1,5 @@
 ---
-title: ListBox.LayoutID Property (Access)
+title: ListBox.LayoutID property (Access)
 keywords: vbaac10.chm11338
 f1_keywords:
 - vbaac10.chm11338
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.LayoutID Property (Access)
+# ListBox.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified list box. Read-only  **Long**.
 

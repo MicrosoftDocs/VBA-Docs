@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.MouseWheel Property (Access)](http://msdn.microsoft.com/library/ea9d6443-abfd-6140-e167-548f4aafd342%28Office.15%29.aspx)
+[Report.MouseWheel property (Access)](http://msdn.microsoft.com/library/ea9d6443-abfd-6140-e167-548f4aafd342%28Office.15%29.aspx)
 
-[Form.MouseWheel Property (Access)](http://msdn.microsoft.com/library/364f7854-d7d5-5fe2-effa-6154e86376b4%28Office.15%29.aspx)
+[Form.MouseWheel property (Access)](http://msdn.microsoft.com/library/364f7854-d7d5-5fe2-effa-6154e86376b4%28Office.15%29.aspx)
 
 

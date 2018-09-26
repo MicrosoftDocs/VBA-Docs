@@ -1,5 +1,5 @@
 ---
-title: Label.FontSize Property (Access)
+title: Label.FontSize property (Access)
 keywords: vbaac10.chm10211
 f1_keywords:
 - vbaac10.chm10211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontSize Property (Access)
+# Label.FontSize property (Access)
 
 You can use the  **FontSize** property to specify the point size for text in the following situations:
 

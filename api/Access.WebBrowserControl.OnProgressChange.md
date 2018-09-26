@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnProgressChange Property (Access)
+title: WebBrowserControl.OnProgressChange property (Access)
 keywords: vbaac10.chm14416
 f1_keywords:
 - vbaac10.chm14416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnProgressChange Property (Access)
+# WebBrowserControl.OnProgressChange property (Access)
 
 Gets or sets the value of the  **On Progress Change** box in the property sheet os a Web Browser control. Read/write **String**.
 

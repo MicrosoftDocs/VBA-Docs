@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcSeparatorCharacters enumeration (Access)
 
-Used with the [ComboBox.SeparatorCharacters Property (Access)](Access.ComboBox.SeparatorCharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.
+Used with the [ComboBox.SeparatorCharacters property (Access)](Access.ComboBox.SeparatorCharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.
 
 
 

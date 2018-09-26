@@ -1,5 +1,5 @@
 ---
-title: Form.OnInsert Property (Access)
+title: Form.OnInsert property (Access)
 keywords: vbaac10.chm13431
 f1_keywords:
 - vbaac10.chm13431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnInsert Property (Access)
+# Form.OnInsert property (Access)
 
 Sets or returns the value of the  **Before Insert** box in the **Properties** window of a form. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.Locked Property (Access)
+title: TextBox.Locked property (Access)
 keywords: vbaac10.chm11061
 f1_keywords:
 - vbaac10.chm11061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Locked Property (Access)
+# TextBox.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 

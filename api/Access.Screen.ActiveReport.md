@@ -1,5 +1,5 @@
 ---
-title: Screen.ActiveReport Property (Access)
+title: Screen.ActiveReport property (Access)
 keywords: vbaac10.chm12491
 f1_keywords:
 - vbaac10.chm12491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.ActiveReport Property (Access)
+# Screen.ActiveReport property (Access)
 
 You can use the  **ActiveReport** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the report that has the focus. Read-only **Report** object.
 

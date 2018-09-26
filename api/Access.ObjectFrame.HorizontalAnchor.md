@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.HorizontalAnchor Property (Access)
+title: ObjectFrame.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11652
 f1_keywords:
 - vbaac10.chm11652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.HorizontalAnchor Property (Access)
+# ObjectFrame.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the object frame is anchored horizontally within its layout. Read/write.
 

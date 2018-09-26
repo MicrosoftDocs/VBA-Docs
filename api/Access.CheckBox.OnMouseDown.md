@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnMouseDown Property (Access)
+title: CheckBox.OnMouseDown property (Access)
 keywords: vbaac10.chm10743
 f1_keywords:
 - vbaac10.chm10743
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnMouseDown Property (Access)
+# CheckBox.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

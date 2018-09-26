@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.NumeralShapes Property (Access)
+title: NavigationControl.NumeralShapes property (Access)
 keywords: vbaac10.chm11134
 f1_keywords:
 - vbaac10.chm11134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.NumeralShapes Property (Access)
+# NavigationControl.NumeralShapes property (Access)
 
 
 

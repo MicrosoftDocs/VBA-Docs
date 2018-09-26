@@ -1,5 +1,5 @@
 ---
-title: Form.Bookmark Property (Access)
+title: Form.Bookmark property (Access)
 keywords: vbaac10.chm13421
 f1_keywords:
 - vbaac10.chm13421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Bookmark Property (Access)
+# Form.Bookmark property (Access)
 
 You can use the  **Bookmark** property with forms to set a bookmark that uniquely identifies a particular record in the form's underlying table, query, or SQL statement. Read/write **Variant**.
 

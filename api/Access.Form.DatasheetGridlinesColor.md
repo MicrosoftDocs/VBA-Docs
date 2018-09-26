@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetGridlinesColor Property (Access)
+title: Form.DatasheetGridlinesColor property (Access)
 keywords: vbaac10.chm13403
 f1_keywords:
 - vbaac10.chm13403
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetGridlinesColor Property (Access)
+# Form.DatasheetGridlinesColor property (Access)
 
 You can use the  **DatasheetGridlinesColor** property to specify the color of gridlines in a datasheet. Read/write **Long**.
 

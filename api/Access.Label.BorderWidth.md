@@ -1,5 +1,5 @@
 ---
-title: Label.BorderWidth Property (Access)
+title: Label.BorderWidth property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.BorderWidth Property (Access)
+# Label.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 

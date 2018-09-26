@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetFontUnderline Property (Access)
+title: Form.DatasheetFontUnderline property (Access)
 keywords: vbaac10.chm13400
 f1_keywords:
 - vbaac10.chm13400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetFontUnderline Property (Access)
+# Form.DatasheetFontUnderline property (Access)
 
 You can use the  **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
 

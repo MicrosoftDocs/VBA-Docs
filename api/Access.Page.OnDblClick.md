@@ -1,5 +1,5 @@
 ---
-title: Page.OnDblClick Property (Access)
+title: Page.OnDblClick property (Access)
 keywords: vbaac10.chm12168
 f1_keywords:
 - vbaac10.chm12168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnDblClick Property (Access)
+# Page.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ReadingOrder Property (Access)
+title: ComboBox.ReadingOrder property (Access)
 keywords: vbaac10.chm11463
 f1_keywords:
 - vbaac10.chm11463
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ReadingOrder Property (Access)
+# ComboBox.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 

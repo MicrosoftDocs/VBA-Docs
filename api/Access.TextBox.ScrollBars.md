@@ -1,5 +1,5 @@
 ---
-title: TextBox.ScrollBars Property (Access)
+title: TextBox.ScrollBars property (Access)
 keywords: vbaac10.chm11066
 f1_keywords:
 - vbaac10.chm11066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ScrollBars Property (Access)
+# TextBox.ScrollBars property (Access)
 
 You can use the  **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
 

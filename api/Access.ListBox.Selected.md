@@ -1,5 +1,5 @@
 ---
-title: ListBox.Selected Property (Access)
+title: ListBox.Selected property (Access)
 keywords: vbaac10.chm11207
 f1_keywords:
 - vbaac10.chm11207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Selected Property (Access)
+# ListBox.Selected property (Access)
 
 You can use the  **Selected** property in Visual Basic to determine if an item in a list box is selected. Read/write **Long**.
 

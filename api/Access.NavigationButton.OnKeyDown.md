@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnKeyDown Property (Access)
+title: NavigationButton.OnKeyDown property (Access)
 keywords: vbaac10.chm10502
 f1_keywords:
 - vbaac10.chm10502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnKeyDown Property (Access)
+# NavigationButton.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

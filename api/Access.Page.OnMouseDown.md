@@ -1,5 +1,5 @@
 ---
-title: Page.OnMouseDown Property (Access)
+title: Page.OnMouseDown property (Access)
 keywords: vbaac10.chm12169
 f1_keywords:
 - vbaac10.chm12169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnMouseDown Property (Access)
+# Page.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

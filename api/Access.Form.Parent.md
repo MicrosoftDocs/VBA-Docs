@@ -1,5 +1,5 @@
 ---
-title: Form.Parent Property (Access)
+title: Form.Parent property (Access)
 keywords: vbaac10.chm13490
 f1_keywords:
 - vbaac10.chm13490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Parent Property (Access)
+# Form.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

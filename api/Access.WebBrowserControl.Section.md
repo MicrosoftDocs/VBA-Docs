@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Section Property (Access)
+title: WebBrowserControl.Section property (Access)
 keywords: vbaac10.chm14379
 f1_keywords:
 - vbaac10.chm14379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Section Property (Access)
+# WebBrowserControl.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

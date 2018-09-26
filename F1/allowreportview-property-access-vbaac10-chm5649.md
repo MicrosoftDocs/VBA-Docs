@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.AllowReportView Property (Access)](http://msdn.microsoft.com/library/43db97fa-bdc0-883c-7b83-a7bbe7c62c07%28Office.15%29.aspx)
+[Report.AllowReportView property (Access)](http://msdn.microsoft.com/library/43db97fa-bdc0-883c-7b83-a7bbe7c62c07%28Office.15%29.aspx)
 

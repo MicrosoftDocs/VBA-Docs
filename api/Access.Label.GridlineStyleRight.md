@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineStyleRight Property (Access)
+title: Label.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10251
 f1_keywords:
 - vbaac10.chm10251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineStyleRight Property (Access)
+# Label.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified label. Read/write  **Byte**.
 

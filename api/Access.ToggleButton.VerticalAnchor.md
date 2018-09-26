@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.VerticalAnchor Property (Access)
+title: ToggleButton.VerticalAnchor property (Access)
 keywords: vbaac10.chm11794
 f1_keywords:
 - vbaac10.chm11794
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.VerticalAnchor Property (Access)
+# ToggleButton.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified toggle button is anchored vertically within its layout. Read/write.
 

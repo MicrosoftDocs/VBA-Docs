@@ -1,5 +1,5 @@
 ---
-title: ComboBox.SmartTags Property (Access)
+title: ComboBox.SmartTags property (Access)
 keywords: vbaac10.chm11478
 f1_keywords:
 - vbaac10.chm11478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.SmartTags Property (Access)
+# ComboBox.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 

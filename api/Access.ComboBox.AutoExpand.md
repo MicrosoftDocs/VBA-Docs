@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AutoExpand Property (Access)
+title: ComboBox.AutoExpand property (Access)
 keywords: vbaac10.chm11388,vbaac10.chm4275
 f1_keywords:
 - vbaac10.chm11388,vbaac10.chm4275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AutoExpand Property (Access)
+# ComboBox.AutoExpand property (Access)
 
 You can use the  **AutoExpand** property to specify whether Microsoft Access automatically fills the text box portion of a combo box with a value from the combo box list that matches the characters you enter as you type in the combo box. This lets you quickly enter an existing value in a combo box without displaying the list box portion of the combo box. Read/write **Boolean**.
 

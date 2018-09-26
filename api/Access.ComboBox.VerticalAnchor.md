@@ -1,5 +1,5 @@
 ---
-title: ComboBox.VerticalAnchor Property (Access)
+title: ComboBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm11500
 f1_keywords:
 - vbaac10.chm11500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.VerticalAnchor Property (Access)
+# ComboBox.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified combo box is anchored vertically within its layout. Read/write.
 

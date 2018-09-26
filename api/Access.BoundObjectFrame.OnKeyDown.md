@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnKeyDown Property (Access)
+title: BoundObjectFrame.OnKeyDown property (Access)
 keywords: vbaac10.chm10973
 f1_keywords:
 - vbaac10.chm10973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnKeyDown Property (Access)
+# BoundObjectFrame.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

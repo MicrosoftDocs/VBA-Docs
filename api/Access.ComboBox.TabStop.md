@@ -1,5 +1,5 @@
 ---
-title: ComboBox.TabStop Property (Access)
+title: ComboBox.TabStop property (Access)
 keywords: vbaac10.chm11398
 f1_keywords:
 - vbaac10.chm11398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.TabStop Property (Access)
+# ComboBox.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 

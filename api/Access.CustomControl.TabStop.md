@@ -1,5 +1,5 @@
 ---
-title: CustomControl.TabStop Property (Access)
+title: CustomControl.TabStop property (Access)
 keywords: vbaac10.chm12018
 f1_keywords:
 - vbaac10.chm12018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.TabStop Property (Access)
+# CustomControl.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 

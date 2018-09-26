@@ -1,5 +1,5 @@
 ---
-title: Form.OnKeyUp Property (Access)
+title: Form.OnKeyUp property (Access)
 keywords: vbaac10.chm13455
 f1_keywords:
 - vbaac10.chm13455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnKeyUp Property (Access)
+# Form.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

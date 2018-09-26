@@ -1,5 +1,5 @@
 ---
-title: Page.Visible Property (Access)
+title: Page.Visible property (Access)
 keywords: vbaac10.chm12153
 f1_keywords:
 - vbaac10.chm12153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Visible Property (Access)
+# Page.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 

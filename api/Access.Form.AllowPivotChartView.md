@@ -1,5 +1,5 @@
 ---
-title: Form.AllowPivotChartView Property (Access)
+title: Form.AllowPivotChartView property (Access)
 keywords: vbaac10.chm13535
 f1_keywords:
 - vbaac10.chm13535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowPivotChartView Property (Access)
+# Form.AllowPivotChartView property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified form may be viewed in PivotChart View. **True** if PivotChart View is allowed. Read/write.
 

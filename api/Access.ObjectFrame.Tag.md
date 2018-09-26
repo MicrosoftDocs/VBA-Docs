@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Tag Property (Access)
+title: ObjectFrame.Tag property (Access)
 keywords: vbaac10.chm11606
 f1_keywords:
 - vbaac10.chm11606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Tag Property (Access)
+# ObjectFrame.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

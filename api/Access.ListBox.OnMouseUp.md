@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnMouseUp Property (Access)
+title: ListBox.OnMouseUp property (Access)
 keywords: vbaac10.chm11288
 f1_keywords:
 - vbaac10.chm11288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnMouseUp Property (Access)
+# ListBox.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

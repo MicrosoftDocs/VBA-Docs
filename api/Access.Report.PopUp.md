@@ -1,5 +1,5 @@
 ---
-title: Report.PopUp Property (Access)
+title: Report.PopUp property (Access)
 keywords: vbaac10.chm13798
 f1_keywords:
 - vbaac10.chm13798
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PopUp Property (Access)
+# Report.PopUp property (Access)
 
 Specifies whether a report opens as a pop-up window. Read/write  **Boolean**.
 

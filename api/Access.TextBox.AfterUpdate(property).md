@@ -1,5 +1,5 @@
 ---
-title: TextBox.AfterUpdate Property (Access)
+title: TextBox.AfterUpdate property (Access)
 keywords: vbaac10.chm11116
 f1_keywords:
 - vbaac10.chm11116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AfterUpdate Property (Access)
+# TextBox.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Image.Top Property (Access)
+title: Image.Top property (Access)
 keywords: vbaac10.chm10377
 f1_keywords:
 - vbaac10.chm10377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Top Property (Access)
+# Image.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 

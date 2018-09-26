@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnKeyUp Property (Access)
+title: Attachment.OnKeyUp property (Access)
 keywords: vbaac10.chm13951
 f1_keywords:
 - vbaac10.chm13951
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnKeyUp Property (Access)
+# Attachment.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 

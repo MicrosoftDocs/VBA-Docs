@@ -1,5 +1,5 @@
 ---
-title: Label.FontName Property (Access)
+title: Label.FontName property (Access)
 keywords: vbaac10.chm10210
 f1_keywords:
 - vbaac10.chm10210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontName Property (Access)
+# Label.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 

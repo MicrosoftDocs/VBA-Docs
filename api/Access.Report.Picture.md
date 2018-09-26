@@ -1,5 +1,5 @@
 ---
-title: Report.Picture Property (Access)
+title: Report.Picture property (Access)
 keywords: vbaac10.chm13704
 f1_keywords:
 - vbaac10.chm13704
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Picture Property (Access)
+# Report.Picture property (Access)
 
 You can use the  **Picture** property to specify a bitmap or other type of graphic to be used as a background picture on a report. Read/write **String**.
 

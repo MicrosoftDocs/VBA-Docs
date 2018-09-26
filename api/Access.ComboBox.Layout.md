@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Layout Property (Access)
+title: ComboBox.Layout property (Access)
 keywords: vbaac10.chm11480
 f1_keywords:
 - vbaac10.chm11480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Layout Property (Access)
+# ComboBox.Layout property (Access)
 
 Returns the type of layout for the specified combo box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

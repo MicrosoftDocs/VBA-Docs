@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.RightPadding Property (Access)
+title: ToggleButton.RightPadding property (Access)
 keywords: vbaac10.chm11782
 f1_keywords:
 - vbaac10.chm11782
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.RightPadding Property (Access)
+# ToggleButton.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the toggle button and its right gridline. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.AllowFormView Property (Access)
+title: Form.AllowFormView property (Access)
 keywords: vbaac10.chm13532
 f1_keywords:
 - vbaac10.chm13532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowFormView Property (Access)
+# Form.AllowFormView property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified form may be viewed in Form View. **True** if Form View is allowed. Read/write.
 

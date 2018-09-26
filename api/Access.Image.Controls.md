@@ -1,5 +1,5 @@
 ---
-title: Image.Controls Property (Access)
+title: Image.Controls property (Access)
 keywords: vbaac10.chm10361
 f1_keywords:
 - vbaac10.chm10361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Controls Property (Access)
+# Image.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

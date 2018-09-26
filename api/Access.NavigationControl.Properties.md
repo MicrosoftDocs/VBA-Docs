@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Properties Property (Access)
+title: NavigationControl.Properties property (Access)
 keywords: vbaac10.chm11032
 f1_keywords:
 - vbaac10.chm11032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Properties Property (Access)
+# NavigationControl.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

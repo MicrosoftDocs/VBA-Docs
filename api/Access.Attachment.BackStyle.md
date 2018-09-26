@@ -1,5 +1,5 @@
 ---
-title: Attachment.BackStyle Property (Access)
+title: Attachment.BackStyle property (Access)
 keywords: vbaac10.chm13924
 f1_keywords:
 - vbaac10.chm13924
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BackStyle Property (Access)
+# Attachment.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 

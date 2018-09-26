@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.Parent Property (Access)
+title: CurrentProject.Parent property (Access)
 keywords: vbaac10.chm12723
 f1_keywords:
 - vbaac10.chm12723
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.Parent Property (Access)
+# CurrentProject.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

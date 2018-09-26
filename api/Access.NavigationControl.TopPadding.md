@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.TopPadding Property (Access)
+title: NavigationControl.TopPadding property (Access)
 keywords: vbaac10.chm11153
 f1_keywords:
 - vbaac10.chm11153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.TopPadding Property (Access)
+# NavigationControl.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its top gridline. Read/write  **Integer**.
 

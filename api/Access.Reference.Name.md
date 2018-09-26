@@ -1,5 +1,5 @@
 ---
-title: Reference.Name Property (Access)
+title: Reference.Name property (Access)
 keywords: vbaac10.chm12630
 f1_keywords:
 - vbaac10.chm12630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Name Property (Access)
+# Reference.Name property (Access)
 
 You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 

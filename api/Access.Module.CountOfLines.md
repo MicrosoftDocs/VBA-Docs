@@ -1,5 +1,5 @@
 ---
-title: Module.CountOfLines Property (Access)
+title: Module.CountOfLines property (Access)
 keywords: vbaac10.chm12276
 f1_keywords:
 - vbaac10.chm12276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.CountOfLines Property (Access)
+# Module.CountOfLines property (Access)
 
 The  **CountOfLines** property returns a **Long** value indicating the number of lines of code in a standard module or class module. Read-only **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.PictureTiling Property (Access)
+title: Form.PictureTiling property (Access)
 keywords: vbaac10.chm13383
 f1_keywords:
 - vbaac10.chm13383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PictureTiling Property (Access)
+# Form.PictureTiling property (Access)
 
 You can use the  **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
 

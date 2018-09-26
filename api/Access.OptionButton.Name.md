@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Name Property (Access)
+title: OptionButton.Name property (Access)
 keywords: vbaac10.chm10623
 f1_keywords:
 - vbaac10.chm10623
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Name Property (Access)
+# OptionButton.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 

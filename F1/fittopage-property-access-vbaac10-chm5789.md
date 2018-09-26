@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.FitToPage Property (Access)](http://msdn.microsoft.com/library/e2210e28-273b-8eb5-0229-5f6513cf5ae2%28Office.15%29.aspx)
+[Report.FitToPage property (Access)](http://msdn.microsoft.com/library/e2210e28-273b-8eb5-0229-5f6513cf5ae2%28Office.15%29.aspx)
 

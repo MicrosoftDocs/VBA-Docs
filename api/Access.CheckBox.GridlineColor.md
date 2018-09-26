@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineColor Property (Access)
+title: CheckBox.GridlineColor property (Access)
 keywords: vbaac10.chm10780
 f1_keywords:
 - vbaac10.chm10780
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineColor Property (Access)
+# CheckBox.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified check box. Read/write  **Long**.
 

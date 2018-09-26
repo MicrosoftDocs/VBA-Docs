@@ -1,5 +1,5 @@
 ---
-title: Form.OnCurrent Property (Access)
+title: Form.OnCurrent property (Access)
 keywords: vbaac10.chm13430
 f1_keywords:
 - vbaac10.chm13430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnCurrent Property (Access)
+# Form.OnCurrent property (Access)
 
 Sets or returns the value of the  **On Current** box in the **Properties** window of a form. Read/write **String**.
 

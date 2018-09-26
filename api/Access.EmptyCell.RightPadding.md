@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.RightPadding Property (Access)
+title: EmptyCell.RightPadding property (Access)
 keywords: vbaac10.chm14329
 f1_keywords:
 - vbaac10.chm14329
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.RightPadding Property (Access)
+# EmptyCell.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperties.Application Property (Access)
+title: SmartTagProperties.Application property (Access)
 keywords: vbaac10.chm13310
 f1_keywords:
 - vbaac10.chm13310
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperties.Application Property (Access)
+# SmartTagProperties.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 

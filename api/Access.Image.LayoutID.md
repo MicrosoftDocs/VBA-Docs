@@ -1,5 +1,5 @@
 ---
-title: Image.LayoutID Property (Access)
+title: Image.LayoutID property (Access)
 keywords: vbaac10.chm10428
 f1_keywords:
 - vbaac10.chm10428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.LayoutID Property (Access)
+# Image.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified image. Read-only  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Properties Property (Access)
+title: EmptyCell.Properties property (Access)
 keywords: vbaac10.chm14299
 f1_keywords:
 - vbaac10.chm14299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Properties Property (Access)
+# EmptyCell.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 

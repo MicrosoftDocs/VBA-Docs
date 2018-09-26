@@ -1,5 +1,5 @@
 ---
-title: Image.OldValue Property (Access)
+title: Image.OldValue property (Access)
 keywords: vbaac10.chm10356
 f1_keywords:
 - vbaac10.chm10356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.OldValue Property (Access)
+# Image.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 

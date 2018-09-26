@@ -1,5 +1,5 @@
 ---
-title: CheckBox.LabelY Property (Access)
+title: CheckBox.LabelY property (Access)
 keywords: vbaac10.chm10728
 f1_keywords:
 - vbaac10.chm10728
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.LabelY Property (Access)
+# CheckBox.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 

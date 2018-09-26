@@ -1,5 +1,5 @@
 ---
-title: Report.Report Property (Access)
+title: Report.Report property (Access)
 keywords: vbaac10.chm13791
 f1_keywords:
 - vbaac10.chm13791
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Report Property (Access)
+# Report.Report property (Access)
 
 You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
 

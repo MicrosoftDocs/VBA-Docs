@@ -1,5 +1,5 @@
 ---
-title: Form.AfterDelConfirm Property (Access)
+title: Form.AfterDelConfirm property (Access)
 keywords: vbaac10.chm13439,vbaac10.chm4085
 f1_keywords:
 - vbaac10.chm13439,vbaac10.chm4085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterDelConfirm Property (Access)
+# Form.AfterDelConfirm property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[AfterDelConfirm](Access.Form.AfterDelConfirm(even).md)** event occurs. Read/write.
 

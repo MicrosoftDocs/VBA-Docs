@@ -1,5 +1,5 @@
 ---
-title: Printer.Copies Property (Access)
+title: Printer.Copies property (Access)
 keywords: vbaac10.chm12858
 f1_keywords:
 - vbaac10.chm12858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.Copies Property (Access)
+# Printer.Copies property (Access)
 
 Returns or sets a  **Long** indicating the number of copies to be printed. Read/write.
 

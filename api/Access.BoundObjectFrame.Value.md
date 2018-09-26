@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Value Property (Access)
+title: BoundObjectFrame.Value property (Access)
 keywords: vbaac10.chm10906
 f1_keywords:
 - vbaac10.chm10906
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Value Property (Access)
+# BoundObjectFrame.Value property (Access)
 
 Gets of sets the value of the field that the control is bound to. Read/write  **Variant**.
 

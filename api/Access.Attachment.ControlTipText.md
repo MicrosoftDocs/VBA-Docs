@@ -1,5 +1,5 @@
 ---
-title: Attachment.ControlTipText Property (Access)
+title: Attachment.ControlTipText property (Access)
 keywords: vbaac10.chm13932
 f1_keywords:
 - vbaac10.chm13932
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.ControlTipText Property (Access)
+# Attachment.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 

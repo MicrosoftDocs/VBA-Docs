@@ -1,5 +1,5 @@
 ---
-title: TabControl.Shape Property (Access)
+title: TabControl.Shape property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Shape Property (Access)
+# TabControl.Shape property (Access)
 
 Returns or sets the shape of the specified tab control. Read/write  **Long**.
 

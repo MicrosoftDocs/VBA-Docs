@@ -1,5 +1,5 @@
 ---
-title: CheckBox.LayoutID Property (Access)
+title: CheckBox.LayoutID property (Access)
 keywords: vbaac10.chm10783
 f1_keywords:
 - vbaac10.chm10783
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.LayoutID Property (Access)
+# CheckBox.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified check box. Read-only  **Long**.
 

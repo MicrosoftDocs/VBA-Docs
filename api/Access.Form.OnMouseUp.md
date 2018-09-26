@@ -1,5 +1,5 @@
 ---
-title: Form.OnMouseUp Property (Access)
+title: Form.OnMouseUp property (Access)
 keywords: vbaac10.chm13453
 f1_keywords:
 - vbaac10.chm13453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnMouseUp Property (Access)
+# Form.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

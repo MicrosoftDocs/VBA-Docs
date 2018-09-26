@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Enabled Property (Access)
+title: NavigationControl.Enabled property (Access)
 keywords: vbaac10.chm11060
 f1_keywords:
 - vbaac10.chm11060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Enabled Property (Access)
+# NavigationControl.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

@@ -15,6 +15,6 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AcNavigationSpan enumeration (Access)](http://msdn.microsoft.com/library/355a6133-aceb-d412-07f9-842b65a03a0f%28Office.15%29.aspx)
 
-[NavigationControl.Span Property (Access)](http://msdn.microsoft.com/library/a1a26d1c-5c3d-8f3f-c12c-88a0dc40aa0f%28Office.15%29.aspx)
+[NavigationControl.Span property (Access)](http://msdn.microsoft.com/library/a1a26d1c-5c3d-8f3f-c12c-88a0dc40aa0f%28Office.15%29.aspx)
 
 

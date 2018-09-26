@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineStyleTop Property (Access)
+title: OptionButton.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10646
 f1_keywords:
 - vbaac10.chm10646
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineStyleTop Property (Access)
+# OptionButton.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified option button. Read/write  **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnMouseUp Property (Access)
+title: Attachment.OnMouseUp property (Access)
 keywords: vbaac10.chm13949
 f1_keywords:
 - vbaac10.chm13949
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnMouseUp Property (Access)
+# Attachment.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

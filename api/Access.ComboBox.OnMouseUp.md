@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnMouseUp Property (Access)
+title: ComboBox.OnMouseUp property (Access)
 keywords: vbaac10.chm11459
 f1_keywords:
 - vbaac10.chm11459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnMouseUp Property (Access)
+# ComboBox.OnMouseUp property (Access)
 
 Sets or returns the value of the  **On Mouse Up** box in the **Properties** window. Read/write **String**.
 

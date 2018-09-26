@@ -1,5 +1,5 @@
 ---
-title: Page.Left Property (Access)
+title: Page.Left property (Access)
 keywords: vbaac10.chm12155
 f1_keywords:
 - vbaac10.chm12155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Left Property (Access)
+# Page.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 

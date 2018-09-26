@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Parent Property (Access)
+title: CustomControl.Parent property (Access)
 keywords: vbaac10.chm11996
 f1_keywords:
 - vbaac10.chm11996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Parent Property (Access)
+# CustomControl.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.ParentTab Property (Access)
+title: NavigationButton.ParentTab property (Access)
 keywords: vbaac10.chm14645
 f1_keywords:
 - vbaac10.chm14645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.ParentTab Property (Access)
+# NavigationButton.ParentTab property (Access)
 
 Gets the top-level navigation button associated with the specified navigation button. Read-only  **NavigationButton**.
 

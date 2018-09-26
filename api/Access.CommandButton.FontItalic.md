@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontItalic Property (Access)
+title: CommandButton.FontItalic property (Access)
 keywords: vbaac10.chm10475
 f1_keywords:
 - vbaac10.chm10475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontItalic Property (Access)
+# CommandButton.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 

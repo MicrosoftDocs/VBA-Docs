@@ -1,5 +1,5 @@
 ---
-title: CommandButton.GridlineStyleBottom Property (Access)
+title: CommandButton.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10531
 f1_keywords:
 - vbaac10.chm10531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.GridlineStyleBottom Property (Access)
+# CommandButton.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified button. Read/write  **Byte**.
 

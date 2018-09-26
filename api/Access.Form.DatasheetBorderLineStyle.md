@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetBorderLineStyle Property (Access)
+title: Form.DatasheetBorderLineStyle property (Access)
 keywords: vbaac10.chm13512
 f1_keywords:
 - vbaac10.chm13512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetBorderLineStyle Property (Access)
+# Form.DatasheetBorderLineStyle property (Access)
 
 Returns or sets a  **Byte** indicating the line style to use for the border of the specified datasheet. Read/write.
 

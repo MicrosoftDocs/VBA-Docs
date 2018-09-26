@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnMouseDown Property (Access)
+title: ComboBox.OnMouseDown property (Access)
 keywords: vbaac10.chm11457
 f1_keywords:
 - vbaac10.chm11457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnMouseDown Property (Access)
+# ComboBox.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

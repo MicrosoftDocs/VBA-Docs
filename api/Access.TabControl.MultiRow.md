@@ -1,5 +1,5 @@
 ---
-title: TabControl.MultiRow Property (Access)
+title: TabControl.MultiRow property (Access)
 keywords: vbaac10.chm12086
 f1_keywords:
 - vbaac10.chm12086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.MultiRow Property (Access)
+# TabControl.MultiRow property (Access)
 
 You can use the  **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
 

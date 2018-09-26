@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineWidthTop Property (Access)
+title: OptionButton.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10650
 f1_keywords:
 - vbaac10.chm10650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineWidthTop Property (Access)
+# OptionButton.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified option button. Read/write  **Byte**.
 

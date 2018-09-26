@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnNotInList Property (Access)
+title: ComboBox.OnNotInList property (Access)
 keywords: vbaac10.chm11450,vbaac10.chm4100
 f1_keywords:
 - vbaac10.chm11450,vbaac10.chm4100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnNotInList Property (Access)
+# ComboBox.OnNotInList property (Access)
 
 Sets or returns the value of the  **On Not in List** box in the **Properties** window of a combo box. Read/write **String**.
 

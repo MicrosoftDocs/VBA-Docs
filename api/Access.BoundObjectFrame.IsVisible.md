@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.IsVisible Property (Access)
+title: BoundObjectFrame.IsVisible property (Access)
 keywords: vbaac10.chm10959
 f1_keywords:
 - vbaac10.chm10959
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.IsVisible Property (Access)
+# BoundObjectFrame.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 

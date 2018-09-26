@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnExit Property (Access)
+title: OptionButton.OnExit property (Access)
 keywords: vbaac10.chm10611
 f1_keywords:
 - vbaac10.chm10611
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnExit Property (Access)
+# OptionButton.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
 

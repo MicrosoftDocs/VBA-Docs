@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Access)
+title: Application.LanguageSettings property (Access)
 keywords: vbaac10.chm12588
 f1_keywords:
 - vbaac10.chm12588
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LanguageSettings Property (Access)
+# Application.LanguageSettings property (Access)
 
 You can use the  **LanguageSettings** property to return a read-only reference to the current **LanguageSettings** object and its related properties.
 

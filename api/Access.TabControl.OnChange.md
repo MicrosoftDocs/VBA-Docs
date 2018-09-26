@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnChange Property (Access)
+title: TabControl.OnChange property (Access)
 keywords: vbaac10.chm12104
 f1_keywords:
 - vbaac10.chm12104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnChange Property (Access)
+# TabControl.OnChange property (Access)
 
 Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the Applies To list. Read/write **String**.
 

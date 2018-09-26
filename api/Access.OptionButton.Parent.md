@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Parent Property (Access)
+title: OptionButton.Parent property (Access)
 keywords: vbaac10.chm10557
 f1_keywords:
 - vbaac10.chm10557
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Parent Property (Access)
+# OptionButton.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

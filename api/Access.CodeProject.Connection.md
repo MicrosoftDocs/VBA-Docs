@@ -1,5 +1,5 @@
 ---
-title: CodeProject.Connection Property (Access)
+title: CodeProject.Connection property (Access)
 keywords: vbaac10.chm12720
 f1_keywords:
 - vbaac10.chm12720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.Connection Property (Access)
+# CodeProject.Connection property (Access)
 
 You can use the  **Connection** property to return a reference to the current ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 

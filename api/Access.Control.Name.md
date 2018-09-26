@@ -1,5 +1,5 @@
 ---
-title: Control.Name Property (Access)
+title: Control.Name property (Access)
 keywords: vbaac10.chm10173
 f1_keywords:
 - vbaac10.chm10173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Name Property (Access)
+# Control.Name property (Access)
 
 You can use the Name property to determine the string expression that identifies the name of an object. Read-only  **String**.
 

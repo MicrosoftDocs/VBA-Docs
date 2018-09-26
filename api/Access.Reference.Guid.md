@@ -1,5 +1,5 @@
 ---
-title: Reference.Guid Property (Access)
+title: Reference.Guid property (Access)
 keywords: vbaac10.chm12631
 f1_keywords:
 - vbaac10.chm12631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Guid Property (Access)
+# Reference.Guid property (Access)
 
 The  **GUID** property of a **[Reference](Access.Reference.md)** object returns a GUID that identifies a type library in the Windows Registry. Read-only **String**.
 

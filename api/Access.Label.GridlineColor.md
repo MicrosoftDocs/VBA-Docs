@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineColor Property (Access)
+title: Label.GridlineColor property (Access)
 keywords: vbaac10.chm10257
 f1_keywords:
 - vbaac10.chm10257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineColor Property (Access)
+# Label.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified label. Read/write  **Long**.
 

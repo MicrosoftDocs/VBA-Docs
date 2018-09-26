@@ -1,5 +1,5 @@
 ---
-title: Image.OnMouseMove Property (Access)
+title: Image.OnMouseMove property (Access)
 keywords: vbaac10.chm10397
 f1_keywords:
 - vbaac10.chm10397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.OnMouseMove Property (Access)
+# Image.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

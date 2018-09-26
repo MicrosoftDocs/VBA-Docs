@@ -1,5 +1,5 @@
 ---
-title: Label.Width Property (Access)
+title: Label.Width property (Access)
 keywords: vbaac10.chm10199
 f1_keywords:
 - vbaac10.chm10199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Width Property (Access)
+# Label.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.UseTheme Property (Access)
+title: TabControl.UseTheme property (Access)
 keywords: vbaac10.chm14627
 f1_keywords:
 - vbaac10.chm14627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.UseTheme Property (Access)
+# TabControl.UseTheme property (Access)
 
 Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PageBreak.InSelection Property (Access)
+title: PageBreak.InSelection property (Access)
 keywords: vbaac10.chm11680
 f1_keywords:
 - vbaac10.chm11680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.InSelection Property (Access)
+# PageBreak.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 

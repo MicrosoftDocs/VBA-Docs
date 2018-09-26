@@ -1,5 +1,5 @@
 ---
-title: Report.ScaleWidth Property (Access)
+title: Report.ScaleWidth property (Access)
 keywords: vbaac10.chm13747
 f1_keywords:
 - vbaac10.chm13747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ScaleWidth Property (Access)
+# Report.ScaleWidth property (Access)
 
 You can use the  **ScaleWidth** property to specify the number of units for the horizontal measurement of the page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OrderByOnLoad Property (Access)
+title: Report.OrderByOnLoad property (Access)
 keywords: vbaac10.chm13817
 f1_keywords:
 - vbaac10.chm13817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OrderByOnLoad Property (Access)
+# Report.OrderByOnLoad property (Access)
 
 Gets or sets whether the sorting specified by the  **[OrderBy](Access.Report.OrderBy.md)** property is applied when the report is loaded. Read/write **Boolean**.
 

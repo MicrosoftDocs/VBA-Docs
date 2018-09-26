@@ -1,5 +1,5 @@
 ---
-title: ListBox.AfterUpdate Property (Access)
+title: ListBox.AfterUpdate property (Access)
 keywords: vbaac10.chm11279
 f1_keywords:
 - vbaac10.chm11279
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.AfterUpdate Property (Access)
+# ListBox.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

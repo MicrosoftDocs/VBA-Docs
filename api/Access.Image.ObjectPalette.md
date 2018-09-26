@@ -1,5 +1,5 @@
 ---
-title: Image.ObjectPalette Property (Access)
+title: Image.ObjectPalette property (Access)
 keywords: vbaac10.chm10392
 f1_keywords:
 - vbaac10.chm10392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.ObjectPalette Property (Access)
+# Image.ObjectPalette property (Access)
 
 The  **ObjectPalette** property specifies the palette in the application used to create A bitmap or other graphic that is loaded into the specified control by using the **Picture** property. Read/write **Variant**.
 

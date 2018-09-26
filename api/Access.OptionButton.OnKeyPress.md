@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnKeyPress Property (Access)
+title: OptionButton.OnKeyPress property (Access)
 keywords: vbaac10.chm10621
 f1_keywords:
 - vbaac10.chm10621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnKeyPress Property (Access)
+# OptionButton.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.HelpContextId Property (Access)
+title: Report.HelpContextId property (Access)
 keywords: vbaac10.chm13718
 f1_keywords:
 - vbaac10.chm13718
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.HelpContextId Property (Access)
+# Report.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 

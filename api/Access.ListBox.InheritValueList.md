@@ -1,5 +1,5 @@
 ---
-title: ListBox.InheritValueList Property (Access)
+title: ListBox.InheritValueList property (Access)
 keywords: vbaac10.chm11337
 f1_keywords:
 - vbaac10.chm11337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.InheritValueList Property (Access)
+# ListBox.InheritValueList property (Access)
 
 Gets or sets whether a list box's value list is inherited from its field. Read/write  **Boolean**.
 

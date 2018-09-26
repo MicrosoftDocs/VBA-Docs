@@ -1,5 +1,5 @@
 ---
-title: Form.Toolbar Property (Access)
+title: Form.Toolbar property (Access)
 keywords: vbaac10.chm13386
 f1_keywords:
 - vbaac10.chm13386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Toolbar Property (Access)
+# Form.Toolbar property (Access)
 
 Specifies a custom toolbar to display for a form. Read/write  **String**.
 

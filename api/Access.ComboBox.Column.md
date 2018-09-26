@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Column Property (Access)
+title: ComboBox.Column property (Access)
 keywords: vbaac10.chm11360
 f1_keywords:
 - vbaac10.chm11360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Column Property (Access)
+# ComboBox.Column property (Access)
 
 You can use the  **Column** property to refer to a specific column, or column and row combination, in a multiple-column combo box or list box. Read-only **Variant**.
 

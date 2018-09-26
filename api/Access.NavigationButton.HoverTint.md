@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HoverTint Property (Access)
+title: NavigationButton.HoverTint property (Access)
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HoverTint Property (Access)
+# NavigationButton.HoverTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **HoverColor** property of the specified object. Read/write **Single**.
 

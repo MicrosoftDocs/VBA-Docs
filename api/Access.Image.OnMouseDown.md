@@ -1,5 +1,5 @@
 ---
-title: Image.OnMouseDown Property (Access)
+title: Image.OnMouseDown property (Access)
 keywords: vbaac10.chm10396
 f1_keywords:
 - vbaac10.chm10396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.OnMouseDown Property (Access)
+# Image.OnMouseDown property (Access)
 
 Sets or returns the value of the  **On Mouse Down** box in the **Properties** window. Read/write **String**.
 

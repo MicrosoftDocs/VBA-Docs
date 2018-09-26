@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnMouseMove Property (Access)
+title: WebBrowserControl.OnMouseMove property (Access)
 keywords: vbaac10.chm14381
 f1_keywords:
 - vbaac10.chm14381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnMouseMove Property (Access)
+# WebBrowserControl.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

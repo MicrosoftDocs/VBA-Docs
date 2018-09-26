@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Controls Property (Access)
+title: OptionGroup.Controls property (Access)
 keywords: vbaac10.chm10817
 f1_keywords:
 - vbaac10.chm10817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Controls Property (Access)
+# OptionGroup.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 

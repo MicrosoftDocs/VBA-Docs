@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.KeepTogether Property (Access)
+title: GroupLevel.KeepTogether property (Access)
 keywords: vbaac10.chm12245
 f1_keywords:
 - vbaac10.chm12245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.KeepTogether Property (Access)
+# GroupLevel.KeepTogether property (Access)
 
 You can use the  **KeepTogether** property for a group in a report to keep parts of a group ? including the group header, detail section, and group footer ? together on the same page. For example, you might want a group header to always be printed on the same page with the first detail section. Read/write **Byte**.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontWeight Property (Access)
+title: CommandButton.FontWeight property (Access)
 keywords: vbaac10.chm10474
 f1_keywords:
 - vbaac10.chm10474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontWeight Property (Access)
+# CommandButton.FontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 

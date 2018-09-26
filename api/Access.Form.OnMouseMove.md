@@ -1,5 +1,5 @@
 ---
-title: Form.OnMouseMove Property (Access)
+title: Form.OnMouseMove property (Access)
 keywords: vbaac10.chm13452
 f1_keywords:
 - vbaac10.chm13452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnMouseMove Property (Access)
+# Form.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 

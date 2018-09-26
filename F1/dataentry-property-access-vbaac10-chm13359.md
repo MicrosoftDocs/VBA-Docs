@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.DataEntry Property (Access)](http://msdn.microsoft.com/library/0a970904-10f9-d0c3-24d1-0b988725bb38%28Office.15%29.aspx)
+[Form.DataEntry property (Access)](http://msdn.microsoft.com/library/0a970904-10f9-d0c3-24d1-0b988725bb38%28Office.15%29.aspx)
 

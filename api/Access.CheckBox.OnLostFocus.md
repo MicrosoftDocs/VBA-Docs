@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnLostFocus Property (Access)
+title: CheckBox.OnLostFocus property (Access)
 keywords: vbaac10.chm10740
 f1_keywords:
 - vbaac10.chm10740
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnLostFocus Property (Access)
+# CheckBox.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 

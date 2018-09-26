@@ -1,5 +1,5 @@
 ---
-title: Label.LeftPadding Property (Access)
+title: Label.LeftPadding property (Access)
 keywords: vbaac10.chm10245
 f1_keywords:
 - vbaac10.chm10245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.LeftPadding Property (Access)
+# Label.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the label and its left gridline. Read/write  **Integer**.
 

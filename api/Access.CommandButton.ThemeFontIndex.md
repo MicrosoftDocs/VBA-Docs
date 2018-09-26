@@ -1,5 +1,5 @@
 ---
-title: CommandButton.ThemeFontIndex Property (Access)
+title: CommandButton.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.ThemeFontIndex Property (Access)
+# CommandButton.ThemeFontIndex property (Access)
 
 Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.Connection Property (Access)
+title: CurrentProject.Connection property (Access)
 keywords: vbaac10.chm12720
 f1_keywords:
 - vbaac10.chm12720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.Connection Property (Access)
+# CurrentProject.Connection property (Access)
 
 You can use the  **Connection** property to return a reference to the current ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 

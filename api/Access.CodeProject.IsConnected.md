@@ -1,5 +1,5 @@
 ---
-title: CodeProject.IsConnected Property (Access)
+title: CodeProject.IsConnected property (Access)
 keywords: vbaac10.chm12714
 f1_keywords:
 - vbaac10.chm12714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.IsConnected Property (Access)
+# CodeProject.IsConnected property (Access)
 
 You can use the  **IsConnected** property to determine if the **[CodeProject](Access.CodeProject.md)** object is currently connected. Read-only **Boolean**.
 

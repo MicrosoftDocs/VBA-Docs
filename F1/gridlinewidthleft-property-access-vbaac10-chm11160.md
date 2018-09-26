@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationControl.GridlineWidthLeft Property (Access)](http://msdn.microsoft.com/library/884b81e2-4941-364f-b195-1731706bbd3d%28Office.15%29.aspx)
+[NavigationControl.GridlineWidthLeft property (Access)](http://msdn.microsoft.com/library/884b81e2-4941-364f-b195-1731706bbd3d%28Office.15%29.aspx)
 
-[TextBox.GridlineWidthLeft Property (Access)](http://msdn.microsoft.com/library/0794df4f-88e2-5c75-13ba-88bbb8d7eb40%28Office.15%29.aspx)
+[TextBox.GridlineWidthLeft property (Access)](http://msdn.microsoft.com/library/0794df4f-88e2-5c75-13ba-88bbb8d7eb40%28Office.15%29.aspx)
 
 

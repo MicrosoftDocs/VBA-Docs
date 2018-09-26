@@ -1,5 +1,5 @@
 ---
-title: Attachment.Enabled Property (Access)
+title: Attachment.Enabled property (Access)
 keywords: vbaac10.chm14015
 f1_keywords:
 - vbaac10.chm14015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Enabled Property (Access)
+# Attachment.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 

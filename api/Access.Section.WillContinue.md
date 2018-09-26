@@ -1,5 +1,5 @@
 ---
-title: Section.WillContinue Property (Access)
+title: Section.WillContinue property (Access)
 keywords: vbaac10.chm12213
 f1_keywords:
 - vbaac10.chm12213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.WillContinue Property (Access)
+# Section.WillContinue property (Access)
 
 Determines if the current section will continue on the following page. Read/write  **Boolean**.
 

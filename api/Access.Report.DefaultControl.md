@@ -1,5 +1,5 @@
 ---
-title: Report.DefaultControl Property (Access)
+title: Report.DefaultControl property (Access)
 keywords: vbaac10.chm13781
 f1_keywords:
 - vbaac10.chm13781
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DefaultControl Property (Access)
+# Report.DefaultControl property (Access)
 
 The  **DefaultControl** property returns a **[Control](Access.Control.md)** object with which you can set the default properties for a particular type of control on a particular report. Read-only.
 

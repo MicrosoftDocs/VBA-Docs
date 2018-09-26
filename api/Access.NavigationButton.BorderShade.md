@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.BorderShade Property (Access)
+title: NavigationButton.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.BorderShade Property (Access)
+# NavigationButton.BorderShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 

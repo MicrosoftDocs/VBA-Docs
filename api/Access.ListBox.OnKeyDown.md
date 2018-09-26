@@ -1,5 +1,5 @@
 ---
-title: ListBox.OnKeyDown Property (Access)
+title: ListBox.OnKeyDown property (Access)
 keywords: vbaac10.chm11289
 f1_keywords:
 - vbaac10.chm11289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.OnKeyDown Property (Access)
+# ListBox.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 

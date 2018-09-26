@@ -1,5 +1,5 @@
 ---
-title: ComboBox.TopPadding Property (Access)
+title: ComboBox.TopPadding property (Access)
 keywords: vbaac10.chm11482
 f1_keywords:
 - vbaac10.chm11482
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.TopPadding Property (Access)
+# ComboBox.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the combo box and its top gridline. Read/write  **Integer**.
 

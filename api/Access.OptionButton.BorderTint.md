@@ -1,5 +1,5 @@
 ---
-title: OptionButton.BorderTint Property (Access)
+title: OptionButton.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.BorderTint Property (Access)
+# OptionButton.BorderTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 

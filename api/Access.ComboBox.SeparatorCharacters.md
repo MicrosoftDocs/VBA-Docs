@@ -1,5 +1,5 @@
 ---
-title: ComboBox.SeparatorCharacters Property (Access)
+title: ComboBox.SeparatorCharacters property (Access)
 keywords: vbaac10.chm11498
 f1_keywords:
 - vbaac10.chm11498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.SeparatorCharacters Property (Access)
+# ComboBox.SeparatorCharacters property (Access)
 
 Gets or sets the separator displayed between values when the combo box is bound to a multi-valued field. Read/write [AcSeparatorCharacters](Access.AcSeparatorCharacters.md).
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnClick Property (Access)
+title: OptionButton.OnClick property (Access)
 keywords: vbaac10.chm10614
 f1_keywords:
 - vbaac10.chm10614
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnClick Property (Access)
+# OptionButton.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 

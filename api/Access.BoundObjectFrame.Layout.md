@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Layout Property (Access)
+title: BoundObjectFrame.Layout property (Access)
 keywords: vbaac10.chm10994
 f1_keywords:
 - vbaac10.chm10994
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Layout Property (Access)
+# BoundObjectFrame.Layout property (Access)
 
 Returns the type of layout for the specified object frame. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 

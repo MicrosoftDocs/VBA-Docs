@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Section Property (Access)
+title: CheckBox.Section property (Access)
 keywords: vbaac10.chm10730
 f1_keywords:
 - vbaac10.chm10730
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Section Property (Access)
+# CheckBox.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 

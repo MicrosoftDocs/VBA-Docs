@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.TabStop Property (Access)
+title: ObjectFrame.TabStop property (Access)
 keywords: vbaac10.chm11586
 f1_keywords:
 - vbaac10.chm11586
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.TabStop Property (Access)
+# ObjectFrame.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 

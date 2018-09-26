@@ -1,5 +1,5 @@
 ---
-title: Report.Count Property (Access)
+title: Report.Count property (Access)
 keywords: vbaac10.chm13720
 f1_keywords:
 - vbaac10.chm13720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Count Property (Access)
+# Report.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Integer**.
 

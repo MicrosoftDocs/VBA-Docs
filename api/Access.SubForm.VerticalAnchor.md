@@ -1,5 +1,5 @@
 ---
-title: SubForm.VerticalAnchor Property (Access)
+title: SubForm.VerticalAnchor property (Access)
 keywords: vbaac10.chm11980
 f1_keywords:
 - vbaac10.chm11980
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.VerticalAnchor Property (Access)
+# SubForm.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified subform is anchored vertically within its layout. Read/write.
 

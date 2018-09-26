@@ -1,5 +1,5 @@
 ---
-title: ComboBox.IMEHold Property (Access)
+title: ComboBox.IMEHold property (Access)
 keywords: vbaac10.chm11390
 f1_keywords:
 - vbaac10.chm11390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.IMEHold Property (Access)
+# ComboBox.IMEHold property (Access)
 
 [Language-specific information](overview/learn-about-language-specific-information-access.md)You can use the  **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
 

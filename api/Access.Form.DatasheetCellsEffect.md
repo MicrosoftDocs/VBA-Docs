@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetCellsEffect Property (Access)
+title: Form.DatasheetCellsEffect property (Access)
 keywords: vbaac10.chm13404
 f1_keywords:
 - vbaac10.chm13404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetCellsEffect Property (Access)
+# Form.DatasheetCellsEffect property (Access)
 
 You can use the  **DatasheetCellsEffect** property to specify whether special effects are applied to cells in a datasheet. Read/write **Byte**.
 

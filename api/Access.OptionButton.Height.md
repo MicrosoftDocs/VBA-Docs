@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Height Property (Access)
+title: OptionButton.Height property (Access)
 keywords: vbaac10.chm10585
 f1_keywords:
 - vbaac10.chm10585
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Height Property (Access)
+# OptionButton.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 

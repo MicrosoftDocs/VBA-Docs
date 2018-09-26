@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Tag Property (Access)
+title: ComboBox.Tag property (Access)
 keywords: vbaac10.chm11435
 f1_keywords:
 - vbaac10.chm11435
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Tag Property (Access)
+# ComboBox.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 

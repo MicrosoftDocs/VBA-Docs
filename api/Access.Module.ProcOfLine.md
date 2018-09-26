@@ -1,5 +1,5 @@
 ---
-title: Module.ProcOfLine Property (Access)
+title: Module.ProcOfLine property (Access)
 keywords: vbaac10.chm12283
 f1_keywords:
 - vbaac10.chm12283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcOfLine Property (Access)
+# Module.ProcOfLine property (Access)
 
 The  **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
 

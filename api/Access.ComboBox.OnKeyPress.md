@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnKeyPress Property (Access)
+title: ComboBox.OnKeyPress property (Access)
 keywords: vbaac10.chm11462
 f1_keywords:
 - vbaac10.chm11462
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnKeyPress Property (Access)
+# ComboBox.OnKeyPress property (Access)
 
 Sets or returns the value of the  **On Key Press** box in the **Properties** window. Read/write **String**.
 

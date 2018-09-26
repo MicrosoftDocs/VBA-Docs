@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Width Property (Access)
+title: Rectangle.Width property (Access)
 keywords: vbaac10.chm10285
 f1_keywords:
 - vbaac10.chm10285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Width Property (Access)
+# Rectangle.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 

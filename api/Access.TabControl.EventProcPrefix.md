@@ -1,5 +1,5 @@
 ---
-title: TabControl.EventProcPrefix Property (Access)
+title: TabControl.EventProcPrefix property (Access)
 keywords: vbaac10.chm12072
 f1_keywords:
 - vbaac10.chm12072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.EventProcPrefix Property (Access)
+# TabControl.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 

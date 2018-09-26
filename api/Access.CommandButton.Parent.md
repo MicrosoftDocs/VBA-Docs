@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Parent Property (Access)
+title: CommandButton.Parent property (Access)
 keywords: vbaac10.chm10439
 f1_keywords:
 - vbaac10.chm10439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Parent Property (Access)
+# CommandButton.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 

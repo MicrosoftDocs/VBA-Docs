@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AfterUpdate Property (Access)
+title: ComboBox.AfterUpdate property (Access)
 keywords: vbaac10.chm11448
 f1_keywords:
 - vbaac10.chm11448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AfterUpdate Property (Access)
+# ComboBox.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

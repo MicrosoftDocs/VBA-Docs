@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.UpdateMethod Property (Access)
+title: ObjectFrame.UpdateMethod property (Access)
 keywords: vbaac10.chm11582
 f1_keywords:
 - vbaac10.chm11582
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.UpdateMethod Property (Access)
+# ObjectFrame.UpdateMethod property (Access)
 
 This property has been deprecated. Use the  **[UpdateOptions](Access.ObjectFrame.UpdateOptions.md)** property to specify how a linkedOLE object is updated.
 

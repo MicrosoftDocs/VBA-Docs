@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Shadow Property (Access)
+title: CommandButton.Shadow property (Access)
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Shadow Property (Access)
+# CommandButton.Shadow property (Access)
 
 Gets or sets the  **Shadow** effect applied to the specified object. Read/write **Long**.
 
