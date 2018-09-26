@@ -27,7 +27,7 @@ Occurs when the user clicks  **Previous** to move within the current slide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required|**SlideShowWindow**|The active slideshow window.|
 

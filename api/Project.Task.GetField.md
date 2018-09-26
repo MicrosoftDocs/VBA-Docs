@@ -24,7 +24,7 @@ Returns the value of the specified task custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|For a local custom field, can be one of the  **[PjField](Project.PjField.md)** constants for task custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method to get the _FieldID_.|
 

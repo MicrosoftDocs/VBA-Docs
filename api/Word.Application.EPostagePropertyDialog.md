@@ -27,7 +27,7 @@ Occurs when a user clicks the  **E-postage Properties** (**Labels and Envelopes*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The name of the document to which to add electronic postage.|
 

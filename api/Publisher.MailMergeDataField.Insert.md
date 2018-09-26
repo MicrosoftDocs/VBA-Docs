@@ -27,7 +27,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Range|Optional| **TextRange**|The text range to insert.|
 

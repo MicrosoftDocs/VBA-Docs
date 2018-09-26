@@ -27,7 +27,7 @@ Rounds a number to a specified number of digits.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the number you want to round.|
 | _Arg2_|Required| **Double**|Num_digits - specifies the number of digits to which you want to round number.|

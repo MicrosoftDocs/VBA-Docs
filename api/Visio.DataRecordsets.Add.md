@@ -30,7 +30,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConnectionIDOrString_|Required| **Variant**|The ID of an existing  **[DataConnection](Visio.DataConnection.md)** object or the connection string to specify a new data-source connection.|
 | _CommandString_|Required| **String**|Query string that specifies the database table or Excel worksheet and the fields (columns) within the table or worksheet that contain the data you want to query.|

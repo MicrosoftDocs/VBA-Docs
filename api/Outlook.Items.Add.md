@@ -27,7 +27,7 @@ Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a  **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem** , **olContactItem** , **olJournalItem** , **olMailItem** , **olNoteItem** , **olPostItem** , or **olTaskItem,** , or any valid message class.|
 

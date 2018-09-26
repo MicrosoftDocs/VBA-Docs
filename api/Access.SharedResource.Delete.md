@@ -1,5 +1,5 @@
 ---
-title: SharedResource.Delete Method (Access)
+title: SharedResource.Delete method (Access)
 keywords: vbaac10.chm14661
 f1_keywords:
 - vbaac10.chm14661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResource.Delete Method (Access)
+# SharedResource.Delete method (Access)
 
 Deletes the specified object.
 

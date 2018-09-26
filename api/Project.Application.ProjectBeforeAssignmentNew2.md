@@ -24,7 +24,7 @@ Occurs before one or more assignments are created. Uses the  **EventInfo** objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project in which an assignment or assignments are being created.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the new assignment(s) are not created.|

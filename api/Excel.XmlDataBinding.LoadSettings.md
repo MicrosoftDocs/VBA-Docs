@@ -27,7 +27,7 @@ Initializes the specified data binding with settings from an XML data file or a 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data file. The path is specified in the Uniform Resource Locator (URL) or universal naming convention (UNC) format.|
 

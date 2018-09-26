@@ -27,7 +27,7 @@ Counts empty cells in a specified range of cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The range from which you want to count the blank cells.|
 

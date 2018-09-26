@@ -27,7 +27,7 @@ Displays the Mail Merge Wizard in a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _InitialState_|Required| **Variant**|The number of the Mail Merge Wizard step to display.|
 | _ShowDocumentStep_|Optional| **Variant**| **True** keeps the "Select document type" step in the sequence of mail merge steps. **False** removes step one.|

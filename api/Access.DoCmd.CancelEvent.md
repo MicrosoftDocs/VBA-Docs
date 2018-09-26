@@ -1,5 +1,5 @@
 ---
-title: DoCmd.CancelEvent Method (Access)
+title: DoCmd.CancelEvent method (Access)
 keywords: vbaac10.chm4144
 f1_keywords:
 - vbaac10.chm4144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.CancelEvent Method (Access)
+# DoCmd.CancelEvent method (Access)
 
 The  **CancelEvent** method carries out the CancelEvent action in Visual Basic.
 

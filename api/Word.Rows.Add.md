@@ -27,7 +27,7 @@ Returns a  **Row** object that represents a row added to a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Optional| **Variant**|A  **Row** object that represents the row that will appear immediately below the new row.|
 

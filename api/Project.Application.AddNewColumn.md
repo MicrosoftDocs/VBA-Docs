@@ -27,7 +27,7 @@ Adds a new column in a specified position, in views where columns can be added.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Variant**|Specifies the absolute column location. A value of 0 adds a column in the left-most position.|
 

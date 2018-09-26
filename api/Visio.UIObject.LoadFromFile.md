@@ -27,7 +27,7 @@ Loads a Microsoft Visio application  **UIObject** object from a file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to load.|
 

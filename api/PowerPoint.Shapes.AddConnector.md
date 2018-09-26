@@ -27,7 +27,7 @@ Creates a connector. Returns a  **[Shape](PowerPoint.Shape.md)** object that rep
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[MsoConnectorType](./Office.MsoConnectorType.md)**|The type of connector.|
 | _BeginX_|Required|**Single**|The horizontal position, measured in points, of the connector's starting point relative to the left edge of the slide.|

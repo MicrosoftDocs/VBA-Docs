@@ -1,5 +1,5 @@
 ---
-title: Form.Refresh Method (Access)
+title: Form.Refresh method (Access)
 keywords: vbaac10.chm13504
 f1_keywords:
 - vbaac10.chm13504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Refresh Method (Access)
+# Form.Refresh method (Access)
 
 The  **Refresh** method immediately updates the records in the underlying record source for a specified form or datasheet to reflect changes made to the data by you and other users in a multiuser environment.
 

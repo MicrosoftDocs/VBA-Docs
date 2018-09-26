@@ -27,7 +27,7 @@ Returns the number of days from the settlement date to the next coupon date.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
 | _Arg2_|Required| **Variant**|The security's maturity date. The maturity date is the date when the security expires.|

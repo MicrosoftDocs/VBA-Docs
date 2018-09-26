@@ -27,7 +27,7 @@ Redoes the top item on the redo stack.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fRedo_|Optional|**Integer**|Specifies the number of items to redo. If the total number of items on the redo stack is less than fRedo,  **EditRedo** redoes all items.|
 

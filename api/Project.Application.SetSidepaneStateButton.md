@@ -24,7 +24,7 @@ Sets the state of the  **Toggle** button in the Project Guide. Deprecated in Pro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayState_|Required|**Boolean**|**False** if the button should be in normal state, indicating the side pane is hidden. **True** if the button should be in depressed state, indicating the side pane is showing.|
 

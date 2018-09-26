@@ -27,7 +27,7 @@ Adds a new  **Tag** object to the specified **Tags** object and returns the new 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the tag to add. If a tag already exists with the same name, an error occurs.|
 |Value|Required| **Variant**|The value to assign to the tag.|

@@ -27,7 +27,7 @@ Returns a  **CaptionLabel** object that represents a custom caption label.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom caption label.|
 

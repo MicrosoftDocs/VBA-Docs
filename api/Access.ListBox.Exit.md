@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set to  **True** to cancel the event.|
 

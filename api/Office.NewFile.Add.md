@@ -27,7 +27,7 @@ Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to add to the list of files on the task pane.|
 | _Section_|Optional|**Variant**|The section to which to add the file. Can be any  **msoFileNew** constant.|

@@ -27,7 +27,7 @@ Sets the gap between adjacent member shapes in the list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SpacingUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the gap.|
 | _SpacingSize_|Required| **Double**|The size of the gap.|

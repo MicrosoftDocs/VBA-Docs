@@ -27,7 +27,7 @@ Sets the results or formulas of one or more cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|An array identifying cells to be modified.|
 | _UnitsNamesOrCodes()_|Required| **Variant**|Measurement units to be attributed to entries in results array.|

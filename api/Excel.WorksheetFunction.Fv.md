@@ -27,7 +27,7 @@ Returns the future value of an investment based on periodic, constant payments a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate per period.|
 | _Arg2_|Required| **Double**|Nper - the total number of payment periods in an annuity.|

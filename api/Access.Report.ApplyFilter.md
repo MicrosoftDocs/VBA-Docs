@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the report.|
 | _ApplyType_|Required|**Integer**|Returns the type of filter that was applied.|

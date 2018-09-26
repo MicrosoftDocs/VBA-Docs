@@ -1,5 +1,5 @@
 ---
-title: Report.Circle Method (Access)
+title: Report.Circle method (Access)
 keywords: vbaac10.chm13782
 f1_keywords:
 - vbaac10.chm13782
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Circle Method (Access)
+# Report.Circle method (Access)
 
 The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** object when the Print event occurs.
 

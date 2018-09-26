@@ -27,7 +27,7 @@ Adds a table shape to a slide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumRows_|Required|**Long**|The number of rows in the table.|
 | _NumColumns_|Required|**Long**|The number of columns in the table.|

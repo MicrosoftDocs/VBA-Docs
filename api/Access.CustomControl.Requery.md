@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Requery Method (Access)
+title: CustomControl.Requery method (Access)
 keywords: vbaac10.chm12002
 f1_keywords:
 - vbaac10.chm12002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Requery Method (Access)
+# CustomControl.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

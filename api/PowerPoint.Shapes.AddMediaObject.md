@@ -27,7 +27,7 @@ Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 Method (PowerPoint)](
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**| Required **String**. The file from which the media object is to be created. If the path isn't specified, the current working folder is used.|
 | _Left_|Optional|**Single**|The position (in points) of the upper-left corner of the media object's bounding box relative to the upper-left corner of the document.|

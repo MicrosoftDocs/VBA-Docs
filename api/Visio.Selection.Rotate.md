@@ -27,7 +27,7 @@ Rotates selected shapes either as a group or individually about their pins.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Angle_|Required| **Double**|Specifies the angle to rotate the selection. See Remarks for possible values.|
 | _AngleUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _Angle_. See Remarks for possible values. The default is degrees.|

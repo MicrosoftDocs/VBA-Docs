@@ -27,7 +27,7 @@ Occurs before the workbook closes. If the workbook has been changed, this event 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the close operation stops and the workbook is left open.|
 

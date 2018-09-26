@@ -27,7 +27,7 @@ Adds an entry to the array of AutoCorrect replacements.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **String**|The text to be replaced. If this string already exists in the array of AutoCorrect replacements, the existing substitute text is replaced by the new text.|
 | _Replacement_|Required| **String**|The replacement text.|

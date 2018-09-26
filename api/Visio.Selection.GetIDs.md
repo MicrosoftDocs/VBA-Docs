@@ -30,7 +30,7 @@ Gets the shape IDs of the shapes in the selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of shape IDs of type  **Long** corresponding to the shapes in the selection.|
 

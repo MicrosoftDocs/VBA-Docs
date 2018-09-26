@@ -27,7 +27,7 @@ Returns the lognormal distribution of x, where ln(x) is normally distributed wit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Mean - The mean of ln(x).|

@@ -27,7 +27,7 @@ Returns the chi-squared distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which you want to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom - The number of degrees of freedom.|

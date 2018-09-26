@@ -27,7 +27,7 @@ Adds a connection from the specified file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Name of the file.|
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create the connection to the model.|

@@ -27,7 +27,7 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EntryIDItem_|Required| **String**| The **[EntryID](Outlook.Folder.EntryID.md)** of the item.|
 | _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|

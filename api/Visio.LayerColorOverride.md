@@ -24,7 +24,7 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 

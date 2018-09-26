@@ -31,7 +31,7 @@ For more information about the new function, see the [GammaLn_Precise](Excel.Wor
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value for which you want to calculate GAMMALN.|
 

@@ -27,7 +27,7 @@ Returns an object that represents either a single axis or a collection of the ax
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|

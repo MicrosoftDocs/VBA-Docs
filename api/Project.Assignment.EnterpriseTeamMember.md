@@ -24,7 +24,7 @@ Indicates whether the specified assignment belongs to the project.  **True** if 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Required|**Object**|The  **Project** object against which the expression is checked. For example, **ActiveProject**.|
 

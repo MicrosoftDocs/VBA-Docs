@@ -27,7 +27,7 @@ Returns an array of links in the workbook. The names in the array are the names 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** which specifies the type of link to return.|
 

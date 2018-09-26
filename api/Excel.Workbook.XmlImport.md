@@ -27,7 +27,7 @@ Imports an XML data file into the current workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|A uniform resource locator (URL) or a uniform naming convention (UNC) path to a XML data file.|
 | _ImportMap_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply when importing the file. If the data was previously imported, contains a reference to the  **XmlMap** object containing the data.|

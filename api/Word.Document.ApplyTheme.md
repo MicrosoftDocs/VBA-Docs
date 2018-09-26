@@ -27,7 +27,7 @@ Applies a theme to an open document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the theme plus any theme formatting options you want to apply. The format of this string is "themennn" where theme and nnn are defined as follows:
 

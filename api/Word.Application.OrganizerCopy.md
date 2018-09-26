@@ -27,7 +27,7 @@ Copies the specified AutoText entry, toolbar, style, or macro project item from 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **String**|The document or template file name that contains the item you want to copy.|
 | _Destination_|Required| **String**|The document or template file name to which you want to copy an item.|

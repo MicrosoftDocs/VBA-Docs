@@ -27,7 +27,7 @@ Inserts the date and time in the specified text range. Returns a  **TextRange** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateTimeFormat_|Required|**PpDateTimeFormat**|A format for the date and time.|
 | _InsertAsField_|Optional|**MsoTriState**|Determines whether the inserted date and time will be updated each time the presentation is opened.|

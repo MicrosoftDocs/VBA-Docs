@@ -27,7 +27,7 @@ Occurs when a new sheet is created in the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The new sheet. Can be a  **[Worksheet](Excel.Worksheet.md)** or **[Chart](Excel.Chart(object).md)** object.|
 

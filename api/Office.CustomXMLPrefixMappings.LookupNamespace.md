@@ -27,7 +27,7 @@ Allows you to get the namespace corresponding to the specified prefix.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Prefix_|Required|**String**|Contains a prefix in the prefix mapping list.|
 

@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|A long integer that can range from 0 to the setting of the  **ColumnCount** property minus one.|
 | _Row_|Optional|**Variant**|An integer that can range from 0 to the setting of the  **ListCount** property minus 1.|

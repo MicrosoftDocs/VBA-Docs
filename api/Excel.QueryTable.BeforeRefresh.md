@@ -27,7 +27,7 @@ Occurs before any refreshes of the query table. This includes refreshes resultin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the refresh doesn't occur when the procedure is finished.|
 

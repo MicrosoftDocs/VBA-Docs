@@ -27,7 +27,7 @@ Sets the global  **Show Suggestions** option for tasks.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|If  **True**, turns on the **Show Suggestions** option. The default value is **False**.|
 

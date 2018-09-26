@@ -27,7 +27,7 @@ Sets the display picture at the specified time position.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Required|**Long**|The time position in the media to set the display picture.|
 

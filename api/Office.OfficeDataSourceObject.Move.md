@@ -27,7 +27,7 @@ Moves a record in a return set from a  **OfficeDataSourceObject** object from on
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MsoMoveRow_|Required|**MsoMoveRow**|A constant specifying which row to move.|
 | _RowNbr_|Optional|**Integer**|The number of the destination row.|

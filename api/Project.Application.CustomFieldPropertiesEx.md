@@ -27,7 +27,7 @@ Sets attributes associated with a custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Attribute_|Optional|**Long**|The attribute to associate with the field specified with FieldID. Can be one of the following  **[PjCustomFieldAttribute](Project.PjCustomFieldAttribute.md)** constants: **pjFieldAttributeNone**, **pjFieldAttributeFormula**, or **pjFieldAttributeValueList**.|

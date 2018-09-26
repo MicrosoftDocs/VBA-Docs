@@ -27,7 +27,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FolderType_|Required| **[OlSpecialFolders](Outlook.OlSpecialFolders.md)**|A constant in the  **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
 

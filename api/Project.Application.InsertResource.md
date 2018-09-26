@@ -27,7 +27,7 @@ Inserts a new resource in a resource view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**PjResourceTypes**|Specifies whether the type is a cost, material, or work resource. Can be one of the  **[PjResourceTypes](Project.PjResourceTypes.md)** constants. The default is **pjResourceTypeWork**.|
 

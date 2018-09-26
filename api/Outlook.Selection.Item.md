@@ -27,7 +27,7 @@ Returns a Microsoft Outlook item or conversation header from the selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 

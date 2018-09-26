@@ -27,7 +27,7 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to open.|
 | _ReadPassword_|Optional|**String**|The password to use for the protected file.|

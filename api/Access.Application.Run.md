@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (Access)
+title: Application.Run method (Access)
 keywords: vbaac10.chm12553
 f1_keywords:
 - vbaac10.chm12553
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Run Method (Access)
+# Application.Run method (Access)
 
 You can use the  **Run** method to carry out a specified Microsoft Access or user-defined **Function** or **Sub** procedure. **Variant**.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Procedure_|Required|**String**|The name of the  **Function** or **Sub** procedure to be run. If you are calling a procedure in another database use the project name and the procedure name separated by a dot in the form: " _projectname_. _procedurename_". If you execute Visual Basic code containing the  **Run** method in a library database, Microsoft Access looks for the procedure first in the library database, then in the current database.|
 | _Arg1, Arg2, ...Arg30_|Optional|**Variant**|The arguments that should be passed to the  **Function** or **Sub** specified in the _Procedure_ argument.|

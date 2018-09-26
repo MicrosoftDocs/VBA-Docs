@@ -27,7 +27,7 @@ Checks a string for spelling errors. Returns a  **Boolean** to indicate whether 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The text whose spelling is to be checked.|
 | _CustomDictionary_|Optional| **Variant**| Either an expression that returns a Dictionary object or the file name of the custom dictionary.|

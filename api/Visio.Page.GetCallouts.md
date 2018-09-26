@@ -27,7 +27,7 @@ Returns the list of identifiers of the callout shapes on the page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NestedOptions_|Required| **[VisContainerNested](Visio.VisContainerNested.md)**|A constant that indicates whether to exclude shapes on the page that are contained by containers or lists. See Remarks for possible values.|
 

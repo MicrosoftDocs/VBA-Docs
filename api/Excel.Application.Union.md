@@ -27,7 +27,7 @@ Returns the union of two or more ranges.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|At least two **[Range](Excel.Range(object).md)** objects must be specified.|
 | _Arg2_|Required| **Range**|At least two **Range** objects must be specified.|

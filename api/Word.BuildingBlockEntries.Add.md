@@ -27,7 +27,7 @@ Creates a new building block entry in a template and returns a  **[BuildingBlock
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Specifies the name of the building block entry. Corresponds to the  **[Name](Word.BuildingBlock.Name.md)** property of the **BuildingBlock** object.|
 | _Type_|Required| **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)**|Specifies the type of building block to create. Corresponds to the  **[Type](Word.BuildingBlock.Type.md)** property of the **BuildingBlock** object.|

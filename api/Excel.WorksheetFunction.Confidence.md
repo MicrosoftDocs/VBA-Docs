@@ -31,7 +31,7 @@ For more information about the new functions, see the [Confidence_Norm](Excel.Wo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The significance level used to compute the confidence level. The confidence level equals 100*(1 - alpha)%, or in other words, an alpha of 0.05 indicates a 95 percent confidence level.|
 | _Arg2_|Required| **Double**|The population standard deviation for the data range and is assumed to be known.|

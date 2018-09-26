@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SelectObject Method (Access)
+title: DoCmd.SelectObject method (Access)
 keywords: vbaac10.chm4178
 f1_keywords:
 - vbaac10.chm4178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SelectObject Method (Access)
+# DoCmd.SelectObject method (Access)
 
 The  **SelectObject** method carries out the SelectObject action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|A  **[AcObjectType](Access.AcObjectType.md)** constant that specifies the type of object you want to select.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument. This is a required argument, unless you specify **True** (?1) for the _InNavigationPane_ argument.|

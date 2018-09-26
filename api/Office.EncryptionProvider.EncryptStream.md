@@ -27,7 +27,7 @@ Encrypts and returns a stream of data for a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 | _StreamName_|Required|**String**|The name of the encrypted stream of document data.|

@@ -1,5 +1,5 @@
 ---
-title: Application.CreateReportControl Method (Access)
+title: Application.CreateReportControl method (Access)
 keywords: vbaac10.chm12623
 f1_keywords:
 - vbaac10.chm12623
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateReportControl Method (Access)
+# Application.CreateReportControl method (Access)
 
 The  **CreateReportControl** method creates a control on a specified open report. For more information, see the **[CreateControl](Access.Application.CreateControl.md)** method.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**|The name of the open report on which you want to create the control.|
 | _ControlType_|Required|**AcControlType**|An  **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.TransferSQLDatabase Method (Access)
+title: DoCmd.TransferSQLDatabase method (Access)
 keywords: vbaac10.chm5085
 f1_keywords:
 - vbaac10.chm5085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.TransferSQLDatabase Method (Access)
+# DoCmd.TransferSQLDatabase method (Access)
 
 Transfers the entire specified Microsoft SQL Server database to another SQL Server database.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Server_|Required|**Variant**|The name of the SQL Server to which the database will be transferred.|
 | _Database_|Required|**Variant**|The name of the new database on the specified server.|

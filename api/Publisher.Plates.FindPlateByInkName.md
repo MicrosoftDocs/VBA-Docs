@@ -27,7 +27,7 @@ Returns a  **Plate** object that represents the plate of the specified ink name.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |InkName|Required| **PbInkName**|Specifies the plate to return.|
 

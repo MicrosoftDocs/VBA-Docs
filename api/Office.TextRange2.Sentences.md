@@ -24,7 +24,7 @@ Returns a  **TextRange2** object that represents the specified subset of text se
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Long**|The first sentence in the returned range.|
 | _Length_|Optional|**Long**|The number of sentences to be returned.|

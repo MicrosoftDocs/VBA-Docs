@@ -27,7 +27,7 @@ Inserts the current date or time, or both, either as text or as a TIME field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateTimeFormat_|Optional| **Variant**|The format to be used for displaying the date or time, or both. If this argument is omitted, Microsoft Word uses the short-date style from the Windows Control Panel (**Regional Settings** icon).|
 | _InsertAsField_|Optional| **Variant**| **True** to insert the specified information as a TIME field. The default value is **True** .|

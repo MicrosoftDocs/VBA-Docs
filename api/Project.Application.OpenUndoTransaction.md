@@ -24,7 +24,7 @@ Create an undo transaction set for a series of operations.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Label_|Required|**String**|Name that appears in the drop-down list for the  **Undo Transaction** command.|
 | _guid_|Optional|**Variant**|GUID that uniquely identifies Label.|

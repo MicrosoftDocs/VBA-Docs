@@ -27,7 +27,7 @@ Creates a new validation issue that is based on the validation rule, and adds it
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TargetPage_|Optional| **[Page](Visio.Page.md)**|The page that has the issue. May be  **Nothing** .|
 | _TargetShape_|Optional| **[Shape](Visio.Shape.md)**|The shape that has the issue. May be  **Nothing** .|

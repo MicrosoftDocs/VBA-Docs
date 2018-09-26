@@ -30,7 +30,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XMLString_|Required| **String**|An XML string that conforms to the Microsoft ActiveX? Data Objects (ADO) classic XML schema and that describes the data you want to import.|
 | _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|

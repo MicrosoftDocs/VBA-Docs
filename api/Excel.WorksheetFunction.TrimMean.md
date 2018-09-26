@@ -27,7 +27,7 @@ Returns the mean of the interior of a data set. TRIMMEAN calculates the mean tak
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - the array or range of values to trim and average.|
 | _Arg2_|Required| **Double**|Percent - the fractional number of data points to exclude from the calculation. For example, if percent = 0.2, 4 points are trimmed from a data set of 20 points (20 x 0.2): 2 from the top and 2 from the bottom of the set.|

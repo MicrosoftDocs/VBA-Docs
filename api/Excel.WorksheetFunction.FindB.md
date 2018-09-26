@@ -27,7 +27,7 @@ FIND and FINDB locate one text string within a second text string, and return th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Find_text - the text you want to find.|
 | _Arg2_|Required| **String**|Within_text - the text containing the text you want to find.|

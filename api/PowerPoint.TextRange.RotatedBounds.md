@@ -27,7 +27,7 @@ Returns the coordinates of the vertices of the text bounding box for the specifi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _X1, Y1_|Required|**Single**|Returns the position (in points) of the first vertex of the bounding box for the text within the specified text range.|
 | _X2, Y2_|Required|**Single**|Returns the position (in points) of the second vertex of the bounding box for the text within the specified text range.|

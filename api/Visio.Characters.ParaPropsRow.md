@@ -27,7 +27,7 @@ Returns the index of the row in the Paragraph section of a ShapeSheet window tha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BiasLorR_|Required| **Integer**|The direction of the search.|
 

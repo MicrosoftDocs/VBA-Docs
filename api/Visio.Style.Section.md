@@ -27,7 +27,7 @@ Returns the requested  **Section** object belonging to a style. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|A section index.|
 

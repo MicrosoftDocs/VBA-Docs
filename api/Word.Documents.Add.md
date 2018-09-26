@@ -27,7 +27,7 @@ Returns a  **Document** object that represents a new, empty document added to th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Template_|Optional| **Variant**|The name of the template to be used for the new document. If this argument is omitted, the Normal template is used.|
 | _NewTemplate_|Optional| **Variant**| **True** to open the document as a template. The default value is **False** .|

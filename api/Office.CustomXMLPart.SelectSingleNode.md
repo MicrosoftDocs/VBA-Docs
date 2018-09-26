@@ -27,7 +27,7 @@ Selects a single node within a custom XML part matching an XPath expression.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains an XPath expression.|
 

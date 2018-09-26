@@ -27,7 +27,7 @@ Runs the add-on represented by an  **Addon** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ArgString_|Required| **String**|The argument string to pass to the add-on.|
 

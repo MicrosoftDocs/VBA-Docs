@@ -27,7 +27,7 @@ Saves a Visual Reports cube to the default directory or to a specified directory
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the cube file (.cub).|
 | _PjVisualReportsCubeType_|Optional|**Long**|Save cube type. Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** consants. Default is **pjTaskTP**.|

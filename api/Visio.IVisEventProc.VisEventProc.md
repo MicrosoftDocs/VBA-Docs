@@ -27,7 +27,7 @@ Private member function of  **IVisEventProc** that handles event notifications p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nEventCode_|Required| **Integer**|The event or events that occurred. |
 | _pSourceObj_|Required| **Object**|The object whose  **EventList** collection contains the **Event** object that sent the notification.|

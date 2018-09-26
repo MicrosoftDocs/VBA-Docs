@@ -27,7 +27,7 @@ Returns an individual  **Column** object in the specified **Columns** collection
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 

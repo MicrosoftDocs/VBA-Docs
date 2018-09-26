@@ -27,7 +27,7 @@ Creates, selects, or moves a task in the Network Diagram view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _action_|Optional|**Long**|The operation to perform on the specified task(s). The default value is  **pjBoxSelect**. Can be one of the **[PjBoxSet](Project.PjBoxSet.md)** constants.|
 | _TaskID_|Optional|**Long**|The identification number of the task. If  **action** is **pjBoxCreate**, **TaskID** is ignored.|

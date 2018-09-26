@@ -27,7 +27,7 @@ Searches the contents of the specified mail merge data source for text in a part
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindText_|Required| **String**|The text to be looked for.|
 | _Field_|Required| **Variant**|The name of the field to be searched.|

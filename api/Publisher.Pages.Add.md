@@ -27,7 +27,7 @@ Adds a new  **Page** object to the specified **Pages** object and returns the ne
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Count|Required| **Long**|The number of new pages to add.|
 |After|Required| **Long**|The page index of the page after which to add the new pages. A zero for this argument adds new pages at the beginning of the publication.|

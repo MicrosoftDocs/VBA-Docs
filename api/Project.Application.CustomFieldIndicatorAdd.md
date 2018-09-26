@@ -27,7 +27,7 @@ Creates a test condition against the value of a custom field to determine which 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Test_|Required|**Long**|The type of comparison to perform between  **Value** and the custom field specified by **FieldID**. Can be one of the **[PjComparison](Project.PjComparison.md)** constants.|

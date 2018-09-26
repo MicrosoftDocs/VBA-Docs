@@ -27,7 +27,7 @@ Creates a second, working copy of the  **EncryptionProvider** object's encryptio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the cloned session.|
 

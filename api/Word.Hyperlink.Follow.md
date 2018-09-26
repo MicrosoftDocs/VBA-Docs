@@ -27,7 +27,7 @@ Displays a cached document associated with the specified  **Hyperlink** object, 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewWindow_|Optional| **Variant**| **True** to display the target document in a new window. The default value is **False** .|
 | _AddHistory_|Optional| **Variant**|This argument is reserved for future use.|

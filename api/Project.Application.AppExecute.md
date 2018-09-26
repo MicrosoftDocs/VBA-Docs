@@ -27,7 +27,7 @@ Starts an application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Optional|**String**|The caption of the application to activate.|
 | _Command_|Optional|**String**|The command to start the application. Required if  **Window** is omitted. If the application is running, **Command** is ignored.|

@@ -27,7 +27,7 @@ Deletes a project from the Project Server database. Available in Project Profess
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project to be deleted from the Project Server database.|
 

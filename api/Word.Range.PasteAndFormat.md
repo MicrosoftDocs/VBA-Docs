@@ -27,7 +27,7 @@ Pastes the selected table cells and formats them as specified.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdRecoveryType**|The type of formatting to use when pasting the selected table cells.|
 

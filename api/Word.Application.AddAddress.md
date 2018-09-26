@@ -24,7 +24,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TagID_|Required|**String array**|The tag ID values for the new address entry. Each element in the array can contain one of the strings listed in the [following table](#tag-ids). Only the display name is required; the remaining entries are optional.|
 | _Value_|Required|**String array**|The values for the new address entry. Each element corresponds to an element in the TagID array. For more information, see the [example](#example).|

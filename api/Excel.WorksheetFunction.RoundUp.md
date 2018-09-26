@@ -27,7 +27,7 @@ Rounds a number up, away from 0 (zero).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - any real number that you want rounded up.|
 | _Arg2_|Required| **Double**|Num_digits - the number of digits to which you want to round number.|

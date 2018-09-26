@@ -27,7 +27,7 @@ Returns the inverse hyperbolic cosine of a number. Number must be greater than o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number equal to or greater than 1.|
 

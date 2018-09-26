@@ -27,7 +27,7 @@ Creates a new shape whose path consists of an elliptical arc defined by the two 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xBegin_|Required| **Double**|The  _x_-coordinate of the begin point of the arc.|
 | _yBegin_|Required| **Double**|The  _y_-coordinate of the begin point of the arc.|

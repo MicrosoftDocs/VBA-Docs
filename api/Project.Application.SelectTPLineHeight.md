@@ -27,7 +27,7 @@ Sets the number of text lines for assignment rows in the Team Planner.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LineMultiple_|Required|**Integer**|Number of text lines.|
 

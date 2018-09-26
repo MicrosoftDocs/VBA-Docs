@@ -27,7 +27,7 @@ Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotCache_|Required| **[PivotCache](Excel.PivotCache.md)**|The PivotTable cache on which the new PivotTable report is based. The cache provides data for the report.|
 | _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by _expression_.|

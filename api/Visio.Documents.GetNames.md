@@ -27,7 +27,7 @@ Returns the names of all items in a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameArray()_|Required| **String**|Out paramter. An array that receives the names of members of the indicated object.|
 

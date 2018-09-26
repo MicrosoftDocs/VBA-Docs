@@ -27,7 +27,7 @@ Returns a  **String** value that represents the availability of the individual u
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|Specifies the date.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. The default value is 30.|

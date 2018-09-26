@@ -27,7 +27,7 @@ This object, member, or enumeration is deprecated and is not intended to be used
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional| **Variant**||
 

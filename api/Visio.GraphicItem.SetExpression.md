@@ -30,7 +30,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem** . See Remarks for possible values.|
 | _Expression_|Required| **String**|The ShapeSheet expression associated with the Field parameter.|

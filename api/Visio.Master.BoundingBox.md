@@ -27,7 +27,7 @@ Returns a rectangle that tightly encloses the shapes of a master.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Required| **Integer**|Flags that influence the bounding box calculated for each shape that contributes to the resulting bounding box.|
 | _lpr8Left_|Required| **Double**|Returns the x-coordinate of the left edge of the bounding box.|

@@ -24,7 +24,7 @@ Occurs when any window within Project is activated. The  **WindowActivate** even
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _activatedWindow_|Required|**Window**|The activated window.|
 

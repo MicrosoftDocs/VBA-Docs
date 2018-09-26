@@ -27,7 +27,7 @@ Creates an equation row and adds it to a matrix and returns an  **OMathMatRow** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Optional| **Variant**|An existing row in the matrix before which to place the new row.|
 

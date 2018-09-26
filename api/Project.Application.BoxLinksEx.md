@@ -27,7 +27,7 @@ Specifies the appearance of link lines in the active Network Diagram view, where
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Long**|Specifies the style of link lines. Can be one of the following  **[PjLinkStyle](Project.PjLinkStyle.md)** constants: **pjLinkStraight** or **pjLinkRectilinear**.|
 | _ShowArrows_|Optional|**Boolean**|**True** if link lines have arrows showing the direction of the link; otherwise, **False**.|

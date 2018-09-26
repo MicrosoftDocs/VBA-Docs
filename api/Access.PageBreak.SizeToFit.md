@@ -1,5 +1,5 @@
 ---
-title: PageBreak.SizeToFit Method (Access)
+title: PageBreak.SizeToFit method (Access)
 keywords: vbaac10.chm11670
 f1_keywords:
 - vbaac10.chm11670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.SizeToFit Method (Access)
+# PageBreak.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

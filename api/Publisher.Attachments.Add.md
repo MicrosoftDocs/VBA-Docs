@@ -27,7 +27,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|File name of the attachment.|
 

@@ -27,7 +27,7 @@ Adds lines to a document where signatures are collected.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSigProv_|Optional|**Variant**|Represents the ID of the signature provider.|
 

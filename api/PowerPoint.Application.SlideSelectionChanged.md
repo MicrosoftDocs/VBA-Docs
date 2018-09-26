@@ -27,7 +27,7 @@ Occurs at different times depending on the current view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SldRange_|Required|**SlideRange**|The selection of slides. In most cases this would be a single slide (for example, in Slide View you navigate to the next slide), but in some cases this could be multiple slides (for example, a marquee selection in Slide Sorter View).|
 

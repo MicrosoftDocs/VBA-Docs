@@ -27,7 +27,7 @@ Creates a new object with a specified ID in a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**| The window context for the new object.|
 

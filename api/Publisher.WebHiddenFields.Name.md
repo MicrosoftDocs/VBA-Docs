@@ -27,7 +27,7 @@ Returns a  **String** that represents the name of a hidden Web field for a Web c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The index number of the hidden field.|
 

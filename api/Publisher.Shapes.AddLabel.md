@@ -27,7 +27,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a text label to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Orientation|Required| **PbTextOrientation**|The orientation of the label.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the text label.|

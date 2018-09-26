@@ -27,7 +27,7 @@ Returns a  **RecentFile** object that represents a file added to the list of rec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Document_|Required| **Variant**|The document you want to add to the list of recently used files. You can specify this argument by using either the string name for the document or a  **Document** object.|
 | _ReadOnly_|Optional| **Variant**| **True** to make the document read-only.|

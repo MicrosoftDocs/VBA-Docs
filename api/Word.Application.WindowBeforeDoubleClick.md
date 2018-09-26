@@ -27,7 +27,7 @@ Occurs when the editing area of a document window is double-clicked, before the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The current selection.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default double-click action does not occur when the procedure is finished.|

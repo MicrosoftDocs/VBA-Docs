@@ -24,7 +24,7 @@ Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**| The project displayed in the deactivated window.|
 | _Interim_|Required|**Boolean**|**True** if clearing an interim baseline plan. **False** if clearing a full baseline plan.|

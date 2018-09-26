@@ -27,7 +27,7 @@ Returns the link date and update status.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the link.|
 | _LinkInfo_|Required| **[XlLinkInfo](Excel.XlLinkInfo.md)**|The type of information to be returned.|

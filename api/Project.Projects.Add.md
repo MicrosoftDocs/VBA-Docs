@@ -24,7 +24,7 @@ Adds a  **Project** object to a **Projects** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayProjectInfo_|Optional|**Boolean**|**True** if the ** Project Information** dialog box appears when a new project is created. The default value is **False**.|
 | _Template_|Optional|**String**|A path and file name for a template to use when creating the project. If Template is omitted, a blank project is created.|

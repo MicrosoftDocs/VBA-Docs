@@ -27,7 +27,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents how text s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|The animation effect to which the text unit effect applies.|
 | _unitEffect_|Required|**[MsoAnimTextUnitEffect](PowerPoint.MsoAnimTextUnitEffect.md)**|How the text should be animated.|

@@ -27,7 +27,7 @@ Returns the serial number of the date before or after a specified number of work
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - The start date, truncated to integer.|
 | _Arg2_|Required| **Variant**|Days - The number of workdays before or after the start_date. A positive value yields a future date; a negative value yields a past date; a 0 (zero) value yields the start_date. Day-offset is truncated to an integer.|

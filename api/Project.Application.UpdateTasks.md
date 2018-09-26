@@ -27,7 +27,7 @@ Updates the selected tasks.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PercentComplete_|Optional|**Variant**|The percent complete of the active tasks.|
 | _ActualDuration_|Optional|**Variant**|The actual duration of the selected tasks.|

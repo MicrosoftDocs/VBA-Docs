@@ -25,7 +25,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The name of the field to set.|
 | _Value_|Required|**String**|The value to which the field is set.|

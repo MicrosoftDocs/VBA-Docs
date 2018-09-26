@@ -27,7 +27,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**PpMouseActivation**|The action setting for a  **MouseClick** or **MouseOver** event.|
 

@@ -27,7 +27,7 @@ Returns an individual  **Document** object in a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long** or **String**|The position within the collection of the object to be returned (**Long**), or the name of the object (**String**).|
 

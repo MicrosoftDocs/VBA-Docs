@@ -30,7 +30,7 @@ Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GraphicItem_|Required| **[IVGRAPHICITEM]**|The  **GraphicItem** object to copy.|
 

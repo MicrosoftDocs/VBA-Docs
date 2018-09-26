@@ -27,7 +27,7 @@ Creates a new label document using either the default label options or ones that
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The mailing label name.|
 | _Address_|Optional| **Variant**|The text for the mailing label.|

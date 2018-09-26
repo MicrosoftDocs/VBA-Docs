@@ -27,7 +27,7 @@ Performs an action on specific information items or document properties dependin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required|**MsoDocInspectorStatus**|An enumeration representing that staus of the document.  _Status_ is an output parameter, which means that its value is returned when the method has completed its purpose.|
 | _Results_|Required|**String**|Contains the results of the action.  _Results_ is an output parameter.|

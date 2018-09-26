@@ -27,7 +27,7 @@ Creates a signature packet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSigImg_|Optional|**Variant**|The signature line graphic image.|
 | _varDelSuggSigner_|Optional|**Variant**|The suggested signer.|

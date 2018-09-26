@@ -27,7 +27,7 @@ Creates a shortcut to the file that contains the list of recipients or products 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|Name of the mailing list or product list file for which the shortcut should be created.|
 

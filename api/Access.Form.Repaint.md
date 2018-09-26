@@ -1,5 +1,5 @@
 ---
-title: Form.Repaint Method (Access)
+title: Form.Repaint method (Access)
 keywords: vbaac10.chm13505
 f1_keywords:
 - vbaac10.chm13505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Repaint Method (Access)
+# Form.Repaint method (Access)
 
 The  **Repaint** method completes any pending screen updates for a specified form. When performed on a form, the **Repaint** method also completes any pending recalculations of the form's controls.
 

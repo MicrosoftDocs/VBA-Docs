@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlBeforeContentUpdate'(**_ContentControl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContentControl_|Required| **ContentControl**|The content control being updated.|
 | _Content_|Required| **String**|The updated content for a control. Use this parameter to change the contents of the XML data and format it for display.|

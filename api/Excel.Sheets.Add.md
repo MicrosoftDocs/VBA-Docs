@@ -27,7 +27,7 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional| **Variant**|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional| **Variant**|An object that specifies the sheet after which the new sheet is added.|

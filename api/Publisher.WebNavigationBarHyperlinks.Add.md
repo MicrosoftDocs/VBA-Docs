@@ -27,7 +27,7 @@ Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Address|Optional| **String**|The address of the new hyperlink. If RelativePage is  **pbHlinkTargetTypeURL** (default) or **pbHlinkTargetTypeEmail**, Address must be specified or an error occurs.|
 |RelativePage|Optional| **PbHlinkTargetType**|The type of hyperlink to add.|

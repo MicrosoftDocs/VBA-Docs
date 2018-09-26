@@ -27,7 +27,7 @@ Responds to a meeting request.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **[OlMeetingResponse](Outlook.OlMeetingResponse.md)**|The response to the request.|
 | _fNoUI_|Optional| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|

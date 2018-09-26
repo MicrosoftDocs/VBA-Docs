@@ -27,7 +27,7 @@ Returns the distance from one shape to another, measured between the closest poi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|

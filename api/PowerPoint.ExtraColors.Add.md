@@ -27,7 +27,7 @@ Adds a color to the extra colors available to a presentation, if the color hasn'
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoRGBType**|The red-green-blue (RGB) value of the color to be added.|
 

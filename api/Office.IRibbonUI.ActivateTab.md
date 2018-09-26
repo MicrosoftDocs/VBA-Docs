@@ -27,7 +27,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**|Specifies the Id of the custom Ribbon tab to be activated.|
 

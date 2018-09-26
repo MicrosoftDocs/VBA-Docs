@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _drawObject_|Required|**Object**|A reference to the  **ChChartDraw** object. Use the **DrawType** property of the returned object to determine what type of rendering is about to occur.|
 | _chartObject_|Required|**Object**| The object that is to be rendered. Use the **TypeName** function to determine the type of the object.|

@@ -27,7 +27,7 @@ Specifies the extensions to the  **MouseMove** event that Visio reports.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filterActionStream()_|Required| **Long**|An array of action/value pairs. For more information, see Remarks.|
 

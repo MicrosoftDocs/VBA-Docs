@@ -22,7 +22,7 @@ The following table describes the arguments of the **CreateInstallPackage** meth
 
 <br/>
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WizardSettingsFile_|Required|**String**|The path and file name of the wizard template file that contains the settings to use when creating the deployment package. To create a wizard template (.adepsws), click **Save Wizard Settings** on any Package Solution Wizard page.|
 

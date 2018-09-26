@@ -27,7 +27,7 @@ Groups the selected sparklines.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Location_|Required| **[Range](Excel.Range(object).md)**|The location of the first cell in the group.|
 

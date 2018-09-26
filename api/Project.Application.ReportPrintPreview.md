@@ -27,7 +27,7 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of a report for which to show an on-screen preview. |
 

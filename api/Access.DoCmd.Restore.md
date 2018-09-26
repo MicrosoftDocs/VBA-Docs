@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Restore Method (Access)
+title: DoCmd.Restore method (Access)
 keywords: vbaac10.chm4171
 f1_keywords:
 - vbaac10.chm4171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Restore Method (Access)
+# DoCmd.Restore method (Access)
 
 The  **Restore** method carries out the Restore action in Visual Basic.
 

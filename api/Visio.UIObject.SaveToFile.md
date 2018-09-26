@@ -27,7 +27,7 @@ Saves the user interface represented by a  **UIObject** object in a file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file in which to save the  **UIObject** object.|
 

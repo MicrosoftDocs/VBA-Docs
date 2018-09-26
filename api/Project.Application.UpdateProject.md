@@ -27,7 +27,7 @@ Updates progress information and reschedules work for tasks in a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project are updated. **False** if only the selected tasks are updated. The default value is **True**.|
 | _UpdateDate_|Optional|**Variant**|The update date to use for the specified action. |

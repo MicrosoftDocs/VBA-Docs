@@ -27,7 +27,7 @@ Changes the project status date.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|New date for the project status date.|
 

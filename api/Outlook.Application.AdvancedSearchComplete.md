@@ -27,7 +27,7 @@ Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** met
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SearchObject_|Required| **[Search](Outlook.Search.md)**|The  **Search** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
 

@@ -30,7 +30,7 @@ Clears information about a conflict for a data-linked shape from the current doc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeInConflict_|Required| **[IVSHAPE]**|A shape linked to data that has a conflict after the data recordset is refreshed.|
 

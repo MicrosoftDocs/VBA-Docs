@@ -27,7 +27,7 @@ Applies custom formatting to the first letters of paragraphs in a text frame.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |LinesUp|Optional| **Long**|The number of lines to move up the drop cap. The default is 0. The maximum number cannot be more than the number entered for the Size argument less one.|
 |Size|Optional| **Long**|The size of the drop cap letters in number of lines high. The default is 5.|

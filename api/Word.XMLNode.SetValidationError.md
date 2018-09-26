@@ -27,7 +27,7 @@ Changes the validation error text displayed to a user for a specified node and f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required| **WdXMLValidationStatus**|Specifies whether to set the validation status error text (**wdXMLValidationStatusCustom**) or to clear the validation status error text (**wdXMLValidationStatusOK**).|
 | _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to  **wdXMLValidationStatusOK** .|

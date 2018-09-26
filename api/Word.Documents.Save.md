@@ -27,7 +27,7 @@ Saves all the documents in the  **Documents** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NoPrompt_|Optional| **Variant**| **True** to have Word automatically save all documents. **False** to have Word prompt the user to save each document that has changed since it was last saved.|
 | _OriginalFormat_|Optional| **Variant**|Specifies the way the documents are saved. Can be one of the  **WdOriginalFormat** constants.|

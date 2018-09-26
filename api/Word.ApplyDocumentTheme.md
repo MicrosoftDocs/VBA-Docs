@@ -27,7 +27,7 @@ Applies a document theme to a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the theme to apply.|
 

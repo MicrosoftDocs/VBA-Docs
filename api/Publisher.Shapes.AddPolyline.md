@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing an open polyline or a closed polygon t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |SafeArrayOfPoints|Required| **Variant**|An array of coordinate pairs that specifies the polyline's or polygon's vertices.|
 

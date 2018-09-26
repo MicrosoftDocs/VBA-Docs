@@ -27,7 +27,7 @@ Expands or collapses the specified resource row in the Team Planner view, when t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ResourceUniqueID_|Optional|**Long**|Unique identification number of the resource.|
 

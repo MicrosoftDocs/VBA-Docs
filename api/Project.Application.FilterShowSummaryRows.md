@@ -27,7 +27,7 @@ Shows or hides the related summary rows.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _On_|Required|**Boolean**|**True** if summary rows are shown; otherwise, **False**.|
 

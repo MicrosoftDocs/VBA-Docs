@@ -1,5 +1,5 @@
 ---
-title: Application.LoadFromAXL Method (Access)
+title: Application.LoadFromAXL method (Access)
 keywords: vbaac10.chm14665
 f1_keywords:
 - vbaac10.chm14665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LoadFromAXL Method (Access)
+# Application.LoadFromAXL method (Access)
 
 Imports the object defined in an Application XML (AXL) file into the database. 
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|Specifies the type of object to create.|
 | _ObjectName_|Required|**String**|Specifies the name of the object.|

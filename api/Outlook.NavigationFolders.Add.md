@@ -27,7 +27,7 @@ Adds the specified  **[Folder](Outlook.Folder.md)** , as a **[NavigationFolder](
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Folder_|Required| **Folder**|The folder to add.|
 

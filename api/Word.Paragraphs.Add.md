@@ -27,7 +27,7 @@ Returns a  **Paragraph** object that represents a new, blank paragraph added to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Variant**|The range before which you want the new paragraph to be added. The new paragraph doesn't replace the range.|
 

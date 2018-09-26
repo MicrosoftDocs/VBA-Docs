@@ -30,7 +30,7 @@ Returns the  **GraphicItem** object at the specified index position in the **Gra
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to retrieve.|
 

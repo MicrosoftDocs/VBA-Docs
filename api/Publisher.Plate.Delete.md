@@ -27,7 +27,7 @@ Deletes the specified plate.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PlateReplaceWith|Optional| **Variant**| **Plate**. The plate with which to replace the deleted plate.|
 |ReplaceTint|Optional| **PbReplaceTint**|How to replace tints.|

@@ -27,7 +27,7 @@ Divides an existing subdocument into two subdocuments at the same level in maste
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range that, when the subdocument is split, becomes a separate subdocument.|
 

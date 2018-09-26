@@ -27,7 +27,7 @@ Shows or hides the late tasks style on the active Gantt chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|If  **False**, hides the late tasks style. If **True**, shows the late tasks style.|
 

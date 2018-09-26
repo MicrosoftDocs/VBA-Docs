@@ -1,5 +1,5 @@
 ---
-title: Application.HyperlinkPart Method (Access)
+title: Application.HyperlinkPart method (Access)
 keywords: vbaac10.chm12569
 f1_keywords:
 - vbaac10.chm12569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.HyperlinkPart Method (Access)
+# Application.HyperlinkPart method (Access)
 
 The  **HyperlinkPart** method returns information about data stored as a Hyperlink data type. .
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Hyperlink_|Required|**Variant**|The data stored in a Hyperlink field.|
 | _Part_|Optional|**AcHyperlinkPart**|A  **[AcHyperlinkPart](Access.AcHyperlinkPart.md)** constant representing the information you want returned by the **HyperlinkPart** method.|

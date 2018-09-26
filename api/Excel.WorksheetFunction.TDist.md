@@ -35,7 +35,7 @@ For more information about the new functions, see the [T_Dist_RT](Excel.Workshee
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the numeric value at which to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom - an integer indicating the number of degrees of freedom.|

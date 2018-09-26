@@ -27,7 +27,7 @@ Specifies an array of command ranges and a  **True** or **False** value indicati
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Commands()_|Required| **Long**|An array of command ranges and a  **True** or **False** value specifying how to filter events for each command range.|
 

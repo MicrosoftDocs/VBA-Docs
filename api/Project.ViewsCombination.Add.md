@@ -27,7 +27,7 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the combination view.|
 | _TopView_|Required|**Variant**|The view that appears in the top pane of a combination view.|

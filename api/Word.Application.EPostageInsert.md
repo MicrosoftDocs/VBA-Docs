@@ -27,7 +27,7 @@ Occurs when a user inserts electronic postage into a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The name of the document to which to add electronic postage.|
 

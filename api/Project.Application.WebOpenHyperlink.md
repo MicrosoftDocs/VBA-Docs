@@ -27,7 +27,7 @@ Opens the document specified by a hyperlink address.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Optional|**String**|The address of the target document. If  **Address** is omitted, the text of the selected field is used.|
 | _SubAddress_|Optional|**String**|A location within the target document.|

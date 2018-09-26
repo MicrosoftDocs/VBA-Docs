@@ -27,7 +27,7 @@ Occurs when a new item is received in the Inbox.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EntryIDCollection_|Required| **String**|A string representing an Entry ID of an item received in the  **Inbox**.|
 

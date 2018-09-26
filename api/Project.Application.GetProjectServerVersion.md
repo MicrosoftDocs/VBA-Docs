@@ -27,7 +27,7 @@ This method checks the version of the Project Server for the active project. The
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ServerURL_|Required|**String**|A string representing the URL of the Project Server whose version needs to be checked.|
 

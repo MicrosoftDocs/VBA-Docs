@@ -27,7 +27,7 @@ Gets the value of a cell expressed as an integer. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving the cell's value.|
 | _fRound_|Required| **Integer**|Zero (0) to truncate the value; non-zero to round it.|

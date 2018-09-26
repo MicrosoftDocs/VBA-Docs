@@ -27,7 +27,7 @@ This method is used for simultaneously setting layout options for all existing P
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowLayout_|Required| **XlLayoutRowType**|Can be  **xlCompactRow** , **xlTabularRow** , or **xlOutlineRow** .|
 

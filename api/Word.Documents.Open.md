@@ -27,7 +27,7 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **Variant**|The name of the document (paths are accepted).|
 | _ConfirmConversions_|Optional| **Variant**| **True** to display the **Convert File** dialog box if the file isn't in Microsoft Word format.|

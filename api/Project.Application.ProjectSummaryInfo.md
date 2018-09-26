@@ -27,7 +27,7 @@ Sets information about a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Optional|**String**|The file name of the project that should have its project information edited.|
 | _Title_|Optional|**String**|The title of the project.|

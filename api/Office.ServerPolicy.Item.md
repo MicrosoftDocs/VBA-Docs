@@ -27,7 +27,7 @@ Gets a  **PolicyItem** object from the **ServerPolicy** collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **PolicyItem** object to be returned.|
 

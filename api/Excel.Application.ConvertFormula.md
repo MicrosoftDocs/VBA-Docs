@@ -27,7 +27,7 @@ Converts cell references in a formula between the A1 and R1C1 reference styles, 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Formula_|Required| **Variant**|A string that containis the formula you want to convert. This must be a valid formula, and it must begin with an equal sign.|
 | _FromReferenceStyle_|Required| **[XlReferenceStyle](Excel.XlReferenceStyle.md)**|The reference style of the formula.|

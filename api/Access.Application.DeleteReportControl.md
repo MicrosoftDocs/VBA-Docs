@@ -1,5 +1,5 @@
 ---
-title: Application.DeleteReportControl Method (Access)
+title: Application.DeleteReportControl method (Access)
 keywords: vbaac10.chm12523
 f1_keywords:
 - vbaac10.chm12523
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DeleteReportControl Method (Access)
+# Application.DeleteReportControl method (Access)
 
 The  **DeleteReportControl** method deletes a specified control from a report.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**|The name of the report containing the control you want to delete.|
 | _ControlName_|Required|**String**|The name of the control you want to delete.|

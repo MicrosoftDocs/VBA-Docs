@@ -30,7 +30,7 @@ Creates a new command bar and adds it to the collection of command bars.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**Variant**|The name of the new command bar. If this argument is omitted, a default name is assigned to the command bar (such as Custom 1).|
 | _Position_|Optional|**Variant**|The position or type of the new command bar. Can be one of the  **MsoBarPosition** constants.|

@@ -27,7 +27,7 @@ Changes the mode of the selected tasks, to manually scheduled or automatically s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Manual_|Optional|**Boolean**|If  **true**, changes the selected tasks to manually scheduled. If **false**, changes the tasks to automatically scheduled.|
 | _IsStickyDates_|Optional|**Boolean**|If  **true**, when a manually scheduled task is changed to automatically scheduled, the constraint type is set to **Start No Earlier Than** and the constraint date is set to the previous start date.|

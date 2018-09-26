@@ -27,7 +27,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OutlineNumber_|Optional|**Long**|The outline level to display. Higher outline levels are expanded to show this level. The level specified with  **OutlineNumber** and lower (if any) are collapsed. Can be one of the **[PjTaskOutlineShowLevel](Project.PJTaskOutlineShowLevel.md)** constants.|
 | _ExpandInsertedProjects_|Optional|**Boolean**|**True** if tasks from subprojects are affected by the value specified with **OutlineNumber**. The default value is **False**.|

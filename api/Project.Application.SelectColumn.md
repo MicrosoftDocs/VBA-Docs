@@ -27,7 +27,7 @@ Selects one or more columns.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Integer**| The number of the column to select. (Columns are numbered from left to right, starting with 2.) The default is the active column.|
 | _Additional_|Optional|**Integer**|The number of columns to select in addition to the active column.|

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.FullName
 ms.assetid: 9e6d2249-893e-8b0f-87b8-c427e6d89927
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
@@ -23,8 +23,5 @@ _expression_. `FullName`
 _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
-## See also
 
-
-[AccessObject Object](Access.AccessObject.md)
 

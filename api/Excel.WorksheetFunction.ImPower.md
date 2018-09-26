@@ -27,7 +27,7 @@ Returns a complex number in x + yi or x + yj text format raised to a power.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number you want to raise to a power.|
 | _Arg2_|Required| **Variant**|Number - the power to which you want to raise the complex number.|

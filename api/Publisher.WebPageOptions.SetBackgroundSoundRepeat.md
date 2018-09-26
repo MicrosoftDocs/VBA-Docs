@@ -27,7 +27,7 @@ Specifies whether the background sound attached to a Web page should be played i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |RepeatForever|Required| **Boolean**|Specifies whether the background sound should be played infinitely. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopForever Property](Publisher.WebPageOptions.BackgroundSoundLoopForever.md)** property.|
 |RepeatTimes|Optional| **Long**|Specifies how many times the background sound should be played. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopCount Property](Publisher.WebPageOptions.BackgroundSoundLoopCount.md)** property.|

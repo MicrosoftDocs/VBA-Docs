@@ -27,7 +27,7 @@ Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to whic
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveToFolder_|Required| **Folder**|Specifies the folder to which all existing items and new items that arrive in the conversation are always moved.|
 | _Store_|Required| **Store**|Specifies the store that contains the folder to which items of the conversation are moved.|

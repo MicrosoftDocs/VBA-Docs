@@ -27,7 +27,7 @@ Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **Columns** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column** .|
 

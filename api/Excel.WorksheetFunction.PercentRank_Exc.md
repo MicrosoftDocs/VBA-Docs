@@ -27,7 +27,7 @@ Returns the rank of a value in a data set as a percentage (0..1, exclusive) of t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - The array or range of data with numeric values that defines relative standing.|
 | _Arg2_|Required| **Double**|X - The value for which you want to know the rank.|

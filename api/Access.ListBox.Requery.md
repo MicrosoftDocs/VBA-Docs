@@ -1,5 +1,5 @@
 ---
-title: ListBox.Requery Method (Access)
+title: ListBox.Requery method (Access)
 keywords: vbaac10.chm11212
 f1_keywords:
 - vbaac10.chm11212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Requery Method (Access)
+# ListBox.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

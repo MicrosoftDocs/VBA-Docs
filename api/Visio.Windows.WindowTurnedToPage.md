@@ -27,7 +27,7 @@ Private Sub  _expression_ _'WindowTurnedToPage'(**_ByVal Window As [IVWINDOW]_**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window that shows a different page.|
 

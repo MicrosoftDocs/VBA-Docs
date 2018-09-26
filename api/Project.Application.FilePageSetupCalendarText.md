@@ -27,7 +27,7 @@ Formats the text of calendar views for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the calendar to edit.|
 | _Item_|Optional|**Long**|The text item to format. Can be one of the  **[PjPageSetupCalendarItem](Project.PjPageSetupCalendarItem.md)** constants.|

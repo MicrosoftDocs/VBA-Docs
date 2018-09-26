@@ -27,7 +27,7 @@ Sets calculation options.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Automatic_|Optional|**Boolean**|**True** if the calculation mode is automatic.|
 | _AutoTrack_|Optional|**Boolean**|**True** if task tracking fields automatically update resource assignments.|

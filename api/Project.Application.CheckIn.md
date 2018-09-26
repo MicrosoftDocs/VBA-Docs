@@ -27,7 +27,7 @@ Checks in the active project file if it is stored in a SharePoint library.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fSaveChanges_|Optional|**Boolean**|**True** saves changes and checks in the project document. **False** returns the document to a checked-in status without saving revision.|
 | _Comments_|Optional|**String**| Allows the user to enter check-in comments for the revision of the project being checked in (applies only if fSaveChanges equals **True**).|

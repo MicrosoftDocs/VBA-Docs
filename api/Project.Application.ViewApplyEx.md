@@ -24,7 +24,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view to display in the active window.|
 | _SinglePane_|Optional|**Boolean**|**True** if an existing split is removed and the active window displays a single-pane view. The default value is **False**.|

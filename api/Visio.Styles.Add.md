@@ -27,7 +27,7 @@ Adds a new  **Style** object to a **Styles** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StyleName_|Required| **String**|The new style name.|
 | _BasedOn_|Required| **String**|The name of the style on which to base the new style.|

@@ -27,7 +27,7 @@ Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowProgress_|Optional| **Boolean**| **True** to display the progress dialog box, **False** to save rules without showing the progress.|
 

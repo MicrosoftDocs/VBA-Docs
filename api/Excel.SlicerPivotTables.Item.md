@@ -27,7 +27,7 @@ Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number of the object.|
 

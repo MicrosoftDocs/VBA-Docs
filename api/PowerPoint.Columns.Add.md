@@ -27,7 +27,7 @@ Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeColumn_|Optional|**Long**|The index number that specifies the table column before which the new column will be inserted. |
 

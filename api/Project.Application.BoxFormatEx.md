@@ -27,7 +27,7 @@ Formats individual boxes in the Network Diagram view (PERT chart), where colors 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Optional|**String**|The name of the project containing  **TaskID** when working with consolidated projects. The default value is the name of the active project.|
 | _TaskID_|Optional|**Long**|The identification number of the task represented by the box to change. The default behavior is to change the boxes that represent one or more selected tasks.|

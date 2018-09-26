@@ -1,5 +1,5 @@
 ---
-title: TextBox.Requery Method (Access)
+title: TextBox.Requery method (Access)
 keywords: vbaac10.chm11034
 f1_keywords:
 - vbaac10.chm11034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Requery Method (Access)
+# TextBox.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

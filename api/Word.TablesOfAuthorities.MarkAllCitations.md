@@ -27,7 +27,7 @@ Inserts a TA (Table of Authorities Entry) field after all instances of the  **Sh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the  **Mark Citation** dialog box (**Insert** menu, **Index and Tables** command).|
 | _LongCitation_|Optional| **Variant**|The long citation string for the entry as it will appear in the table of authorities.|

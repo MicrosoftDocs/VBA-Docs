@@ -25,7 +25,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project file, source file, or data source to open. If _Name_ is not specified, Project displays the **Open** dialog box.|
 | _ReadOnly_|Optional|**Boolean**|**True** if the file is opened read-only. If selectively importing data instead of loading a complete project, _ReadOnly_ is ignored.|

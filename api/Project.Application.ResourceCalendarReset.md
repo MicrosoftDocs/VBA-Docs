@@ -27,7 +27,7 @@ Resets a resource calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of the project containing the resource calendar to reset.|
 | _ResourceName_|Required|**String**|The name of the resource for the calendar to reset.|

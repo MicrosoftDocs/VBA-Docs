@@ -27,7 +27,7 @@ Returns the Poisson distribution. A common application of the Poisson distributi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The number of events.|
 | _Arg2_|Required| **Double**|Mean - The expected numeric value.|

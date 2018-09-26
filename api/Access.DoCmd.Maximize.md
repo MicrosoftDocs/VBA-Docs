@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Maximize Method (Access)
+title: DoCmd.Maximize method (Access)
 keywords: vbaac10.chm4156
 f1_keywords:
 - vbaac10.chm4156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Maximize Method (Access)
+# DoCmd.Maximize method (Access)
 
 The  **Maximize** method carries out the Maximize action in Visual Basic.
 

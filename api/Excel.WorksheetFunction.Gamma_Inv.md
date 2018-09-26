@@ -27,7 +27,7 @@ Returns the inverse of the gamma cumulative distribution. If p = GAMMA_DIST(x,..
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - the probability associated with the gamma distribution.|
 | _Arg2_|Required| **Double**|Alpha - a parameter to the distribution.|

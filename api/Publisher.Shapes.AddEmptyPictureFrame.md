@@ -27,7 +27,7 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the picture.|
 |Top|Required| **Variant**|The position of the top edge of the shape representing the picture.|

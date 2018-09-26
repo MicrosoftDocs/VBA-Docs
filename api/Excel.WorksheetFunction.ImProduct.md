@@ -27,7 +27,7 @@ Returns the product of 2 to 29 complex numbers in x + yi or x + yj text format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Inumber1, inumber2,? - 1 to 29 complex numbers to multiply.|
 

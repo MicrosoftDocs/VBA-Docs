@@ -24,7 +24,7 @@ Highlights a specified task in the Project Guide. Deprecated in Project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Required|**Long**|The Task ID you wish to highlight.|
 

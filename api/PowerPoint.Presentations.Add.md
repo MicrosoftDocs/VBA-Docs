@@ -27,7 +27,7 @@ Creates a presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WithWindow_|Optional|**MsoTriState**|Whether the presentation appears in a visible window.|
 

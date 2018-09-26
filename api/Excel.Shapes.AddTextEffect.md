@@ -27,7 +27,7 @@ Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that rep
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetTextEffect_|Required| **[MsoPresetTextEffect](./Office.MsoPresetTextEffect.md)**|The preset text effect.|
 | _Text_|Required| **String**|The text in the WordArt.|

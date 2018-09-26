@@ -27,7 +27,7 @@ Creates an object that represents an item in a document saved to a Web page. Suc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Required| **[XlSourceType](Excel.XlSourceType.md)**|The source type.|
 | _Filename_|Optional| **Variant**| **String** . The URL (on the intranet or the Web) or path (local or network) to which the source object was saved.|

@@ -27,7 +27,7 @@ Sets options for a value list for a custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _ListDefault_|Optional|**Boolean**|**True** if a value in the list functions as the default for the custom field.|

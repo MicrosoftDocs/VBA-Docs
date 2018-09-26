@@ -27,7 +27,7 @@ The function described in this Help topic converts a number to text format and a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - a number, a reference to a cell containing a number, or a formula that evaluates to a number.|
 | _Arg2_|Optional| **Variant**|Decimals - the number of digits to the right of the decimal point. If decimals is negative, number is rounded to the left of the decimal point. If you omit decimals, it is assumed to be 2.|

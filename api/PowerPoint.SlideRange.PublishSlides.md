@@ -27,7 +27,7 @@ Creates a Web presentation (in HTML format) from any loaded presentation. You ca
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlideLibraryUrl_|Required|**String**|URL to the slide library.|
 | _Overwrite_|Optional|**Boolean**|**True** if the original presentation should be overwritten.|

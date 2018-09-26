@@ -27,7 +27,7 @@ Returns the left-tailed inverse of the Student t-distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - The probability associated with the Student t-distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom - The number of degrees of freedom with which to characterize the distribution.|

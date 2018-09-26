@@ -27,7 +27,7 @@ Returns the standard error of the predicted y-value for each x in the regression
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - an array or range of dependent data points.|
 | _Arg2_|Required| **Variant**|Known_x's - an array or range of independent data points.|

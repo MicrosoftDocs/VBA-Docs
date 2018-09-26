@@ -30,7 +30,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The value of the  **ID** property of the **DataRecordset** object that contains the data rows to link to.|
 | _ColumnNames()_|Required| **String**|An array of strings that correspond to names of columns in the data recordset. |

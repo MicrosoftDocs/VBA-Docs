@@ -27,7 +27,7 @@ Adds a new, empty group to the  **Shortcuts** pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the group being created.|
 | _Index_|Optional| **Long**|The position at which the new group will be inserted in the  **Shortcuts** pane. Position one is at the top of the bar.|

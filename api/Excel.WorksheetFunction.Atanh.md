@@ -27,7 +27,7 @@ Returns the inverse hyperbolic tangent of a number. Number must be between -1 an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number between 1 and -1.|
 

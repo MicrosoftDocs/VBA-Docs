@@ -1,5 +1,5 @@
 ---
-title: SmartTag.Delete Method (Access)
+title: SmartTag.Delete method (Access)
 keywords: vbaac10.chm13324
 f1_keywords:
 - vbaac10.chm13324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag.Delete Method (Access)
+# SmartTag.Delete method (Access)
 
 Deletes the specified object.
 

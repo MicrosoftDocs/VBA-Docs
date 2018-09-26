@@ -24,7 +24,7 @@ Occurs when the status of the connection with Project Server changes. Available 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _online_|Required|**Boolean**|**True** if Project Professional is connected with Project Server; otherwise, **False**.|
 

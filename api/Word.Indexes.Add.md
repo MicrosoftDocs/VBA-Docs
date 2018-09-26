@@ -27,7 +27,7 @@ Returns an  **Index** object that represents a new index added to a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range where you want the index to appear. The index replaces the range, if the range is not collapsed.|
 | _HeadingSeparator_|Optional| **Variant**|The text between alphabetical groups (entries that start with the same letter) in the index. Can be one of the  **WdHeadingSeparator** constants.|

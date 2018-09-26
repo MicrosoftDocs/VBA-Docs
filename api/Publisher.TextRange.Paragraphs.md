@@ -27,7 +27,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Start|Required| **Long**|The first paragraph in the returned range.|
 |Length|Optional| **Long**|The number of paragraphs to be returned. Default is 1.|

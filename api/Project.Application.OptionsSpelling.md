@@ -27,7 +27,7 @@ Sets options for the spelling checker.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskName_|Optional|**Boolean**|**True** if task names are checked.|
 | _TaskNotes_|Optional|**Boolean**|**True** if task notes are checked.|

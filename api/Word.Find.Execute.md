@@ -27,7 +27,7 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindText_|Optional| **Variant**|The text to be searched for. Use an empty string ("") to search for formatting only. You can search for special characters by specifying appropriate character codes. For example, "^p" corresponds to a paragraph mark and "^t" corresponds to a tab character.|
 | _MatchCase_|Optional| **Variant**| **True** to specify that the find text be case sensitive. Corresponds to the **Match case** check box in the **Find and Replace** dialog box (**Edit** menu).|

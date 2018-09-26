@@ -27,7 +27,7 @@ Returns the number of whole working days between start_date and end_date. Workin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - a date that represents the start date.|
 | _Arg2_|Required| **Variant**|End_date - a date that represents the end date.|

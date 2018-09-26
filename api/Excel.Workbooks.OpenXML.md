@@ -27,7 +27,7 @@ Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to open.|
 | _Stylesheets_|Optional| **Variant**|Either a single value or an array of values that specify which XSL Transformation (XSLT) stylesheet processing instructions to apply.|

@@ -27,7 +27,7 @@ Applies error bars to the series.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[XlErrorBarDirection](Word.xlerrorbardirection.md)**|One of the enumeration values that specifies the error bar direction.|
 | _Include_|Required| **[XlErrorBarInclude](Word.xlerrorbarinclude.md)**|One of the enumeration values that specifies the error bar parts to include.|

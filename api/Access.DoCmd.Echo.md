@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Echo Method (Access)
+title: DoCmd.Echo method (Access)
 keywords: vbaac10.chm4149
 f1_keywords:
 - vbaac10.chm4149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Echo Method (Access)
+# DoCmd.Echo method (Access)
 
 Carries out the Echo action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EchoOn_|Required|**Variant**|Use  **True** to turn echo on and **False** to turn it off.|
 | _StatusBarText_|Optional|**Variant**|A string expression indicating the text that appears in the status bar.|

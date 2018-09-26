@@ -27,7 +27,7 @@ Returns the normal distribution for the specified mean and standard deviation. T
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - The arithmetic mean of the distribution.|

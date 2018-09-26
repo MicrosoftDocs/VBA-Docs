@@ -27,7 +27,7 @@ Queries the signature provider add-in for various details.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sigprovdet_|Required|**SignatureProviderDetail**|Contains an enumerated value representing the type of information to query the add-in for.|
 

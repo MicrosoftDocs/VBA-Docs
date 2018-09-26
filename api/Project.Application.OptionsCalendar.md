@@ -27,7 +27,7 @@ Sets options for the calendar of the active project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartWeekOnMonday_|Optional|**Boolean**|**True** if the calendar week starts on Monday. **False** if the calendar week starts on Sunday. If _StartWeekOn_ is specified, _StartWeekOnMonday_ is ignored. (The _StartWeekOn_ argument is a better way to specify the start of the week.)|
 | _StartYearIn_|Optional|**Long**|The first month of the fiscal year. Can be one of the  **[PjMonth](Project.PjMonth.md)** constants.|

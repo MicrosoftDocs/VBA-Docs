@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Dropdown Method (Access)
+title: ComboBox.Dropdown method (Access)
 keywords: vbaac10.chm11359
 f1_keywords:
 - vbaac10.chm11359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Dropdown Method (Access)
+# ComboBox.Dropdown method (Access)
 
 You can use the  **Dropdown** method to force the list in the specified combo box to drop down.
 

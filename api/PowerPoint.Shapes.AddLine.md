@@ -27,7 +27,7 @@ Creates a line. Returns a  **[Shape](PowerPoint.Shape.md)** object that represen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeginX_|Required|**Single**|The horizontal position, measured in points, of the line's starting point relative to the left edge of the slide.|
 | _BeginY_|Required|**Single**|The vertical position, measured in points, of the line's starting point relative to the top edge of the slide.|

@@ -27,7 +27,7 @@ Inserts an argument into an equation with variable number of arguments (**OMathD
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeArg_|Optional| **Variant**|An existing argument before which to add the new argument.|
 

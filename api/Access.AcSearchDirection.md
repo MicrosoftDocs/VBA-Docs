@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcSearchDirection enumeration (Access)
 
-Used with the [DoCmd.FindRecord Method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
+Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
 
 
 

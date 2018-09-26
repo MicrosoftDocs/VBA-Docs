@@ -1,5 +1,5 @@
 ---
-title: DoCmd.GoToRecord Method (Access)
+title: DoCmd.GoToRecord method (Access)
 keywords: vbaac10.chm4154
 f1_keywords:
 - vbaac10.chm4154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.GoToRecord Method (Access)
+# DoCmd.GoToRecord method (Access)
 
 The  **GoToRecord** method carries out the GoToRecord action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcDataObjectType**|A  **AcDataObjectType** constant that specifies the type of object that contains the record you want to make current.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument.|

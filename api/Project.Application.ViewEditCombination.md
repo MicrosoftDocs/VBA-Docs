@@ -27,7 +27,7 @@ Creates, edits, or copies a combination view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of a two-pane view to edit, create, or copy. The default is the name of the active view.|
 | _Create_|Optional|**Boolean**|**True** if Project creates a two-pane view. If NewName is an empty string (""), the new view is given the name specified with Name. Otherwise, the new view is a copy of the view specified with Name and is given the name specified with NewName. The default value is **False.**|

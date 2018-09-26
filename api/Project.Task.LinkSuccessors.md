@@ -24,7 +24,7 @@ Adds one or more successors to the task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tasks_|Required|**Object**|The  **Task** or **Tasks** object specified becomes a successor of the task specified with **expression**.|
 | _Link_|Optional|**Long**| A constant that specifies the relationship between tasks that become linked. Can be one of the [PjTaskLinkType](Project.PjTaskLinkType.md) constants. The default value is **pjFinishToStart**.|

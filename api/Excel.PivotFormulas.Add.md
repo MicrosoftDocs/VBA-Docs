@@ -27,7 +27,7 @@ Creates a new PivotTable formula.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Formula_|Required| **String**|The new PivotTable formula.|
 | _UseStandardFormula_|Optional| **Variant**|A standard PivotTable formula.|

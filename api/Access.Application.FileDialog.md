@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminate Method (Access)
+title: Application.DDETerminate method (Access)
 keywords: vbaac10.chm12543
 f1_keywords:
 - vbaac10.chm12543
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDETerminate Method (Access)
+# Application.DDETerminate method (Access)
 
 You can use the  **DDETerminate** statement to close a specified dynamic data exchange (DDE) channel.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChanNum_|Required|**Variant**|A channel number to close, refers to a channel opened by the  **[DDEInitiate](Access.Application.DDEInitiate.md)** function.|
 

@@ -27,7 +27,7 @@ Sets the width of columns in a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ColumnWidth_|Required| **Single**|The width of the specified column or columns, in points.|
 | _RulerStyle_|Required| **[WdRulerStyle](Word.WdRulerStyle.md)**|Controls the way Word adjusts cell widths.|

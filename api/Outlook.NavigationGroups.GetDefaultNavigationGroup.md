@@ -27,7 +27,7 @@ Returns the  **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DefaultFolderGroup_|Required| **[OlGroupType](Outlook.OlGroupType.md)**|The type of navigation group to be retrieved.|
 

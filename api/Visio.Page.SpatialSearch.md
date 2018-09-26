@@ -27,7 +27,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|The x-coordinate.|
 | _y_|Required| **Double**|The y-coordinate.|

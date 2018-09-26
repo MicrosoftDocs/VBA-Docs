@@ -27,7 +27,7 @@ Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path and file name of the iCalendar file.|
 

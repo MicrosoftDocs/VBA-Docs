@@ -27,7 +27,7 @@ Inserts an empty paragraph immediately above the specified row in the table, and
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Required| **Variant**|The row that the table is to be split before. Can be a row number or a  **Row** object.|
 

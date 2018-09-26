@@ -1,5 +1,5 @@
 ---
-title: SmartTags.Add Method (Access)
+title: SmartTags.Add method (Access)
 keywords: vbaac10.chm13286
 f1_keywords:
 - vbaac10.chm13286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTags.Add Method (Access)
+# SmartTags.Add method (Access)
 
 Adds a smart tag to a form or control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [SmartTags](Access.SmartTags.md) objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the smart tag to add.|
 

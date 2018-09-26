@@ -27,7 +27,7 @@ Returns a  **[ConditionalStyle](Word.ConditionalStyle.md)** object that represen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConditionCode_|Required| [**WdConditionCode**](Word.WdConditionCode.md)|The area of the table to which to apply the formatting.|
 

@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlOnEnter'(**_ContentControl_** , )
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContentControl_|Required| **ContentControl**|The content control that the user is entering.|
 

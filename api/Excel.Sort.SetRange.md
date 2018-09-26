@@ -27,7 +27,7 @@ Sets the range over which the sort occurs.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Rng_|Required| **Range**|Specifies the range over which the sort represented by the  **Sort** object occurs.|
 

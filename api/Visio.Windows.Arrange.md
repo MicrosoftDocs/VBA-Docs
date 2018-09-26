@@ -27,7 +27,7 @@ Arranges the windows in a  **Windows** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nArrangeFlags_|Optional| **Variant**|A flag that specifies how to arrange the windows; by default, the windows are arranged vertically.|
 

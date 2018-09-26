@@ -27,7 +27,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a  **[Calcul
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the calculated member.|
 | _Formula_|Required| **String**|The formula of the calculated member.|

@@ -27,7 +27,7 @@ Adds a borderless line callout to a drawing canvas. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **MsoCalloutType**|The type of callout.|
 | _Left_|Required| **Single**|The position, in points, of the left edge of the callout's bounding box.|

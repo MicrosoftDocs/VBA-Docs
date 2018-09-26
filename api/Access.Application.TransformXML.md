@@ -1,5 +1,5 @@
 ---
-title: Application.TransformXML Method (Access)
+title: Application.TransformXML method (Access)
 keywords: vbaac10.chm12606
 f1_keywords:
 - vbaac10.chm12606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TransformXML Method (Access)
+# Application.TransformXML method (Access)
 
 Applies an Extensible Stylesheet Language (XSL) stylesheet to an XML data file and writes the resulting XML to an XML data file.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataSource_|Required|**String**|The name and path of the XML file to import.|
 | _TransformSource_|Required|**String**|The name and path to the XSL file to apply to the XML data file.|

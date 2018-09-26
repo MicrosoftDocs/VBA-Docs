@@ -27,7 +27,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number of the member to be retrieved.|
 

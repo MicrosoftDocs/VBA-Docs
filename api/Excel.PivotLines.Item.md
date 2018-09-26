@@ -27,7 +27,7 @@ Returns a specific element of the  **PivotLines** collection object by its posit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element of the collection. |
 

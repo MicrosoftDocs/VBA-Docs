@@ -30,7 +30,7 @@ Resolves conflicts between the local and the server copies of a shared document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SyncConflictResolution_|Required|** MsoSyncConflictResolutionType**|Specifies how conflicts should be resolved.|
 

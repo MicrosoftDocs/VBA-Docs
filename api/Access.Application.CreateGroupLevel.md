@@ -1,5 +1,5 @@
 ---
-title: Application.CreateGroupLevel Method (Access)
+title: Application.CreateGroupLevel method (Access)
 keywords: vbaac10.chm12524
 f1_keywords:
 - vbaac10.chm12524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateGroupLevel Method (Access)
+# Application.CreateGroupLevel method (Access)
 
 You can use the  **CreateGroupLevel** method to specify a field or expression on which to group or sort data in a report. .
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**| the name of the report that will contain the new group level.|
 | _Expression_|Required|**String**|The field or expression to sort or group on.|

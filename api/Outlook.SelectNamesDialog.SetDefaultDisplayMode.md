@@ -27,7 +27,7 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _defaultMode_|Required| **[OlDefaultSelectNamesDisplayMode](Outlook.OlDefaultSelectNamesDisplayMode.md)**|A constant in the  **OlDefaultSelectNamesDisplayMode** enumeration that determines the default caption and button labels for the **Select Names** dialog box.|
 

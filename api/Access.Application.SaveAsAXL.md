@@ -1,5 +1,5 @@
 ---
-title: Application.SaveAsAXL Method (Access)
+title: Application.SaveAsAXL method (Access)
 keywords: vbaac10.chm14664
 f1_keywords:
 - vbaac10.chm14664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SaveAsAXL Method (Access)
+# Application.SaveAsAXL method (Access)
 
 Exports the specified object to an Application XML (AXL) file.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|Specifies the type of object to export.|
 | _ObjectName_|Required|**String**|Specifies the name of the object to export. |

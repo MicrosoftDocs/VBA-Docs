@@ -27,7 +27,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **CustomXMLPart** object to be returned.|
 

@@ -27,7 +27,7 @@ Locates and returns the next tracked change as a  **Revision** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wrap_|Optional| **Variant**| **True** to continue searching for a revision at the beginning of the document when the end of the document is reached. The default value is **False** .|
 

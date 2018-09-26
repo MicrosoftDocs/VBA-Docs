@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that indicates the selection state of items in a 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |pvargIndex|Required| **Variant**|An integer with a range from 0 to one less than the number of items in the list.|
 

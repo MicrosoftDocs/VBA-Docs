@@ -27,7 +27,7 @@ Establishes automatic field-sorting rules for PivotTable reports.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Order_|Required| **Long**|One of the constants of  **[XlSortOrder](Excel.XlSortOrder.md)** specifying the sort order.|
 | _Field_|Required| **String**|The name of the sort key field. You must specify the unique name (as returned from the  **[SourceName](Excel.PivotField.SourceName.md)** property), and not the displayed name.|

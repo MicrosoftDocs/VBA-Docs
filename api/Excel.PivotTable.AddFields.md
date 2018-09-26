@@ -27,7 +27,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as rows, or to be added to the category axis.|
 | _ColumnFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as columns, or to be added to the series axis.|

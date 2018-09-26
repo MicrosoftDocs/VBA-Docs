@@ -24,7 +24,7 @@ Adds an account  **[Profile](Project.Profile.md)** object to the **Profiles** co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of the profile.|
 | _Server_|Required|**String**|A string representing the URL of the Project Server.|

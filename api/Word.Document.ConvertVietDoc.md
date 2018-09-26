@@ -27,7 +27,7 @@ Reconverts a Vietnamese document to Unicode using a code page other than the def
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CodePageOrigin_|Required| **Long**|The original code page used to encode the document.|
 

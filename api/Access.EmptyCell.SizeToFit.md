@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.SizeToFit Method (Access)
+title: EmptyCell.SizeToFit method (Access)
 keywords: vbaac10.chm14300
 f1_keywords:
 - vbaac10.chm14300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.SizeToFit Method (Access)
+# EmptyCell.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

@@ -27,7 +27,7 @@ Adds a new  **MediaBookmark** at the specified time and using the specified name
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Required|**Long**|The position of the  **MediaBookmark**.|
 | _Name_|Required|**String**|The name of the  **MediaBookmark**.|

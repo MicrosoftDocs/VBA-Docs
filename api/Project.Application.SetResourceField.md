@@ -27,7 +27,7 @@ Sets the value of a resource field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The name of the resource field to set.|
 | _Value_|Required|**String**|The value of the resource field.|

@@ -1,5 +1,5 @@
 ---
-title: CodeProject.AddSharedImage Method (Access)
+title: CodeProject.AddSharedImage method (Access)
 keywords: vbaac10.chm14660
 f1_keywords:
 - vbaac10.chm14660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.AddSharedImage Method (Access)
+# CodeProject.AddSharedImage method (Access)
 
 Imports the specified image into the database and adds it to the  **[SharedResources](Access.SharedResources.md)** collection.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SharedImageName_|Required|**String**|Specifies the string used to identify the image in the collection.|
 | _FileName_|Required|**String**|Specifies the full name and path to the image file.|

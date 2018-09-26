@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewData_|Required|**String**|A string that Microsoft Access uses to pass the text the user entered in the text box portion of the combo box to the event procedure.|
 | _Response_|Required|**Integer**|The setting indicates how the  **NotInList** event was handled. The _Response_ argument can be one of the following intrinsic constants: <ul><li>**acDataErrDisplay** (Default) Displays the default message to the user. You can use this when you don't want to allow the user to add a new value to the combo box list.</li><li>**acDataErrContinue** Doesn't display the default message to the user. You can use this when you want to display a custom message to the user. For example, the event procedure could display a custom dialog box asking if the user wanted to save the new entry. If the response is Yes, the event procedure would add the new entry to the list and set the **Response** argument to **acDataErrAdded**. If the response is No, the event procedure would set the **Response** argument to **acDataErrContinue**.</li><li>**acDataErrAdded** Doesn't display a message to the user but enables you to add the entry to the combo box list in the **NotInList**  event procedure. After the entry is added, Microsoft Access updates the list by re-querying the combo box. Microsoft Access then rechecks the string against the combo box list, and saves the value in the **NewData** argument in the field the combo box is bound to. If the string is not in the list, then Microsoft Access displays an error message.</li></ul>|

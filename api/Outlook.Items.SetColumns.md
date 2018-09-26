@@ -27,7 +27,7 @@ Caches certain properties for extremely fast access to those particular properti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Columns_|Required| **String**|A string that contains the names of the properties to cache. The property names are delimited by commas in this string.|
 

@@ -27,7 +27,7 @@ Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[L
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LineStyle_|Optional| **Variant**|One of the constants of  **[XlLineStyle](Excel.XlLineStyle.md)** specifying the line style for the border.|
 | _Weight_|Optional| **[XlBorderWeight](Excel.XlBorderWeight.md)**|The border weight.|

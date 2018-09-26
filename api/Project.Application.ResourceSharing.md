@@ -27,7 +27,7 @@ Controls resource sharing, for local resources and projects.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Share_|Optional|**Boolean**|**True** if local resources are shared. If **Name** is specified, **Share** is ignored.|
 | _Name_|Optional|**String**|The file name of the project that contains the local resource pool.|

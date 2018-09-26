@@ -25,7 +25,7 @@ For a single-column  **[ComboBox](Outlook.combobox.md)**, the  **AddItem** metho
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |pvargItem|Optional| **Variant**|Specifies the item or row to add. The number of the first item or row is 0; the number of the second item or row is 1, and so on.|
 |pvargIndex|Optional| **Variant**|Integer specifying the position within the object where the new item or row is placed.|

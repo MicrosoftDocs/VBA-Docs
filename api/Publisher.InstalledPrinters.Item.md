@@ -27,7 +27,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The name or index position of the installed printer.|
 

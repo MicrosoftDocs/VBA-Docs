@@ -27,7 +27,7 @@ Returns a single text style from the specified  **[TextStyles](PowerPoint.TextSt
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PpTextStyleType**|The text style type.|
 

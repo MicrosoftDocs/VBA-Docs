@@ -1,5 +1,5 @@
 ---
-title: Report.Line Method (Access)
+title: Report.Line method (Access)
 keywords: vbaac10.chm13783
 f1_keywords:
 - vbaac10.chm13783
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Line Method (Access)
+# Report.Line method (Access)
 
 The  **Line** method draws lines and rectangles on a **Report** object when the Print event occurs.
 

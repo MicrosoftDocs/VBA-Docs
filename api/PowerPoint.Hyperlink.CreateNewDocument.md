@@ -27,7 +27,7 @@ Creates a new Web presentation associated with the specified hyperlink.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The path and file name of the document.|
 | _EditNow_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the document is opened immediately in its associated editor.|

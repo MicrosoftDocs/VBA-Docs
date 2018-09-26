@@ -27,7 +27,7 @@ Gets the cell object at the specified coordinates.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required|**Long**|Horizontal coordinate on the grid.|
 | _y_|Required|**Long**|Vertical coordinate on the grid.|

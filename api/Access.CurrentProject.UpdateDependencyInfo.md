@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.UpdateDependencyInfo Method (Access)
+title: CurrentProject.UpdateDependencyInfo method (Access)
 keywords: vbaac10.chm12727
 f1_keywords:
 - vbaac10.chm12727
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.UpdateDependencyInfo Method (Access)
+# CurrentProject.UpdateDependencyInfo method (Access)
 
 Updates the dependency information for the database.
 

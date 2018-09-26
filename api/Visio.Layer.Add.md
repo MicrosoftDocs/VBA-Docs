@@ -27,7 +27,7 @@ Adds a  **Shape** object to a **Layer** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SheetObject_|Required| **[IVSHAPE]**|The new  **Shape** object added to the **Layer** object.|
 | _fPresMems_|Required| **Integer**|Zero to remove subshapes from any previous layer assignments; non-zero to preserve layer assignments.|

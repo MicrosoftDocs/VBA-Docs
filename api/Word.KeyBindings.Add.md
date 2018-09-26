@@ -27,7 +27,7 @@ Returns a  **KeyBinding** object that represents a new shortcut key for a macro,
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The category of the key assignment.|
 | _Command_|Required| **String**|The command that the specified key combination executes.|

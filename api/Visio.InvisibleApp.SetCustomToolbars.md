@@ -27,7 +27,7 @@ Replaces the current built-in or custom toolbars of an application or document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ToolbarsObject_|Required| **[IVUIOBJECT]**|An expression that returns a  **UIObject** object that represents the new custom toolbars.|
 

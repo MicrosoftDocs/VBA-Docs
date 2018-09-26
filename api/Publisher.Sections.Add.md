@@ -27,7 +27,7 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |StartPageIndex|Required| **Long**|The page number of the publication page that the new section begins on.|
 

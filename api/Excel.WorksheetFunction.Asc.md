@@ -27,7 +27,7 @@ For Double-byte character set (DBCS) languages, changes full-width (double-byte)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The text or a reference to a cell that contains the text you want to change. If text does not contain any full-width letters, text is not changed.|
 

@@ -27,7 +27,7 @@ Runs a command or performs some other action or actions in another application b
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
 | _String_|Required| **String**|The message defined in the receiving application.|

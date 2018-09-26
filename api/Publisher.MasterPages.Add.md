@@ -27,7 +27,7 @@ Adds a new  **Page** object to the specified **MasterPages** object and returns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |IsTwoPageMaster|Optional| **Boolean**| **True** if the master page will be part of a two page spread.|
 |Abbreviation|Optional| **String**|The abbreviation, or short name, for the master page. An error occurs if this is not unique.|

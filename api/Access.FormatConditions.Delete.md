@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Delete Method (Access)
+title: FormatConditions.Delete method (Access)
 keywords: vbaac10.chm10072
 f1_keywords:
 - vbaac10.chm10072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.Delete Method (Access)
+# FormatConditions.Delete method (Access)
 
 Deletes the specified object.
 

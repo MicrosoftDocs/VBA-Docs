@@ -1,5 +1,5 @@
 ---
-title: Application.Eval Method (Access)
+title: Application.Eval method (Access)
 keywords: vbaac10.chm12537
 f1_keywords:
 - vbaac10.chm12537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Eval Method (Access)
+# Application.Eval method (Access)
 
 You can use the  **Eval** function to evaluate an expression that results in a text string or a numeric value.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StringExpr_|Required|**String**|An expression that evaluates to an alphanumeric text string. For example,  _stringexpr_ can be a function that returns a string or a numeric value. Or it can be a reference to a control on a form. The _stringexpr_ argument must evaluate to a string or numeric value; it can't evaluate to a Microsoft Access object.|
 

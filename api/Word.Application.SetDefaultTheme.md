@@ -24,7 +24,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the theme you want to assign as the default theme plus any theme formatting options you want to apply. The format of this string is "themennn" where _theme_ and _nnn_ are defined in the [Themes](#themes) table.|
 | _DocumentType_|Required|**WdDocumentMedium**|The type of new document to which you are assigning a default theme.|

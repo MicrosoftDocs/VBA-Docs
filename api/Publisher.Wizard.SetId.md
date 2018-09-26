@@ -27,7 +27,7 @@ Specifies the type of the wizard (template) to which to convert the current publ
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ID|Required| **Long**|ID of the wizard (template) to which to convert the current publication.|
 

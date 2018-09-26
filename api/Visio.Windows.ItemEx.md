@@ -27,7 +27,7 @@ Returns a  **Window** object from a collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CaptionOrIndex_|Required| **Variant**|Contains the caption or index of the window to retrieve. See Remarks for details.|
 

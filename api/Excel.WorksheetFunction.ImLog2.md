@@ -27,7 +27,7 @@ Returns the base-2 logarithm of a complex number in x + yi or x + yj text format
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the base-2 logarithm.|
 

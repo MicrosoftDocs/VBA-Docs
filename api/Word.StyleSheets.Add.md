@@ -27,7 +27,7 @@ Returns a  **StyleSheet** object that represents a new style sheet added to a We
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the cascading style sheet.|
 | _LinkType_|Required| **WdStyleSheetLinkType**|Indicates whether the style sheet should be added as a link or imported into the Web document.|

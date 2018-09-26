@@ -27,7 +27,7 @@ Exports a Microsoft Visio document as a file in a fixed format, either PDF or XP
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FixedFormat_|Required| **VisFixedFormatTypes**|The format type in which to export the document. See Remarks for possible values.|
 | _OutputFileName_|Optional| **String**|The name and path of the file to which to output, enclosed in quotation marks.|

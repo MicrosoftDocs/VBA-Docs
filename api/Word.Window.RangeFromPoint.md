@@ -27,7 +27,7 @@ Returns the  **Range** or **Shape** object that is located at the point specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Long**|The horizontal distance (in pixels) from the left edge of the screen to the point.|
 | _y_|Required| **Long**|The vertical distance (in pixels) from the top of the screen to the point.|

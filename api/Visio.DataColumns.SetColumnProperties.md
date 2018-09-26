@@ -30,7 +30,7 @@ Sets one or more data-column properties for one or more data columns.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ColumnNames()_|Required| **String**|An array of strings that represent data column names.|
 | _Properties()_|Required| **Long**|An array of data-column properties, as  **VisDataColumnProperties** . See Remarks for possible values.|

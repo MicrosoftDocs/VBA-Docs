@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (Access)
+title: Hyperlink.Follow method (Access)
 keywords: vbaac10.chm10117
 f1_keywords:
 - vbaac10.chm10117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Follow Method (Access)
+# Hyperlink.Follow method (Access)
 
 The  **Follow** method opens the document or Web page specified by a hyperlink address associated with a control on a form or report.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewWindow_|Optional|**Boolean**|**True** (?1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
 | _AddHistory_|Optional|**Boolean**|**True** adds the hyperlink to the History folder and **False** doesn't add the hyperlink to the History folder. The default is **True**.|

@@ -27,7 +27,7 @@ Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayMode_|Optional| **Variant**|The display mode of the folder. Can be one of the constants in the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** enumeration.|
 

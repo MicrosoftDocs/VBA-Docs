@@ -27,7 +27,7 @@ Creates a new PivotTable report for each item in the page field. Each new report
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageField_|Optional| **Variant**|A string that names a single page field in the report.|
 

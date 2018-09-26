@@ -27,7 +27,7 @@ Returns a  **TabStop** object that represents a custom tab stop added to a docum
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Required| **Single**|The position of the tab stop (in points) relative to the left margin.|
 | _Alignment_|Optional| **Variant**|The alignment of the tab stop. Can be one of the  **WdTabAlignment** constants.|

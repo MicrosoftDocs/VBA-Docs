@@ -24,7 +24,7 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldName_|Required|**String**|The name of the field being grouped by.|
 | _Ascending_|Optional|**Boolean**|**True** if the field in a group definition should be grouped in ascending order. **False** if the field should be grouped in descending order. The default value is **True**.|

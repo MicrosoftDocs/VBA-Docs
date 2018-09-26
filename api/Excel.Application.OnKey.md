@@ -27,7 +27,7 @@ Runs a specified procedure when a particular key or key combination is pressed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key_|Required| **String**|A string indicating the key to be pressed.|
 | _Procedure_|Optional| **Variant**|A string indicating the name of the procedure to be run. If  _Procedure_ is "" (empty text), nothing happens when _Key_ is pressed. This form of **OnKey** changes the normal result of keystrokes in Microsoft Excel. If _Procedure_ is omitted, _Key_ reverts to its normal result in Microsoft Excel, and any special key assignments made with previous **OnKey** methods are cleared.|

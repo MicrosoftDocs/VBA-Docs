@@ -27,7 +27,7 @@ Returns  **True** if Microsoft PowerPoint can check out a specified presentation
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The server path and name of the presentation.|
 

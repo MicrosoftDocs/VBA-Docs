@@ -30,7 +30,7 @@ Adds a folder to the document library in a shared workspace. Returns a  **[Share
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FolderName_|Required|**String**|The name of the folder to be added to the current shared workspace.|
 | _ParentFolder_|Optional|**SharedWorkspaceFolder**|The subfolder in which to place the new folder, if not the main document library folder within the shared workspace. Add the folder to the main document library folder by leaving this optional argument empty.|

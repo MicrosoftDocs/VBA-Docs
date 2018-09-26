@@ -27,7 +27,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemaNames_|Required| **Variant**|An array that contains the names of the properties whose values are to be returned. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 

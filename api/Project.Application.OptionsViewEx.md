@@ -27,7 +27,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DefaultView_|Optional|**String**|The name of the default view.|
 | _DateFormat_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](Project.PjDateFormat.md)** constants.|

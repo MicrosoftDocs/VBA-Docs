@@ -27,7 +27,7 @@ Returns free/busy information for the recipient.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The start date for the returned period of free/busy information.|
 | _MinPerChar_|Required| **Long**|The number of minutes per character represented in the returned free/busy string.|

@@ -27,7 +27,7 @@ Determines if a given  _x,y_ position hits outside, inside, or on the boundary o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xPos_|Required| **Double**|The x-coordinate to be tested for a hit.|
 | _yPos_|Required| **Double**|The y-coordinate to be tested for a hit.|

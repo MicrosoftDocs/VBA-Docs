@@ -27,7 +27,7 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The mail merge main document.|
 | _FromState_|Required| **Long**|The Mail Merge Wizard step from which a user is moving.|

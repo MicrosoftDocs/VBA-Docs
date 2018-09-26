@@ -27,7 +27,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the new AutoShape 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[MsoAutoShapeType](./Office.MsoAutoShapeType.md)**|Specifies the type of AutoShape to create.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the AutoShape's bounding box relative to the upper-left corner of the document.|

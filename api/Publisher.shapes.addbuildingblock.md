@@ -25,7 +25,7 @@ Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Required| **BuildingBlock**|The building block to return as a shape.|
 |Left|Required| **Variant**|The position of the left edge of the shape that represents the building block.|

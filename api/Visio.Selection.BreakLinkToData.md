@@ -30,7 +30,7 @@ Breaks links between all shapes in the selection and data rows in the specified 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data rows with which to break links.|
 

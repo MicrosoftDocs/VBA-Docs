@@ -27,7 +27,7 @@ Returns the index of the first slide in the specified section, or returns -1 if 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section.|
 

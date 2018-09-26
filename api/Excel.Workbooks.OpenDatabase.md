@@ -27,7 +27,7 @@ Returns a  **Workbook** object representing a database.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The connection string which contains the location and filename of the database.|
 | _CommandText_|Optional| **Variant**|The command text of the query.|

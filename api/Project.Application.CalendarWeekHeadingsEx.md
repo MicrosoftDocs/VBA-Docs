@@ -27,7 +27,7 @@ Customizes headings in the Calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MonthTitle_|Optional|**Long**|The format of the month title. Can be one of the [PjMonthLabel](Project.PjMonthLabel.md) constants.|
 | _WeekTitle_|Optional|**Long**|The format of week titles. Can be one of the [PjDateLabel](Project.PjDateLabel.md) constants.|

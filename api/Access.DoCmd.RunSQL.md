@@ -1,5 +1,5 @@
 ---
-title: DoCmd.RunSQL Method (Access)
+title: DoCmd.RunSQL method (Access)
 keywords: vbaac10.chm4176
 f1_keywords:
 - vbaac10.chm4176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.RunSQL Method (Access)
+# DoCmd.RunSQL method (Access)
 
 The  **RunSQL** method carries out the RunSQL action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SQLStatement_|Required|**Variant**|A string expression that's a valid SQL statement for an action query or a data-definition query. It uses an INSERT INTO, DELETE, SELECT...INTO, UPDATE, CREATE TABLE, ALTER TABLE, DROP TABLE, CREATE INDEX, or DROP INDEX statement. Include an IN clause if you want to access another database.|
 | _UseTransaction_|Optional|**Variant**|Use  **True** (?1) to include this query in a transaction. Use **False** (0) if you don't want to use a transaction. If you leave this argument blank, the default (**True**) is assumed.|

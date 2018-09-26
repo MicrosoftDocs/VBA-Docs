@@ -27,7 +27,7 @@ Deletes a filter object from the  **ODSOFilters** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The number of the filter to delete.|
 | _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is  **False**.|

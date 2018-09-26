@@ -27,7 +27,7 @@ Sets options for graphical indicators for a custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _SummaryInheritsNonsummary_|Optional|**Boolean**|**True** if summary rows use the same test criteria for displaying graphical indicators and use the same images as nonsummary rows. **False** if graphical indicators for summary rows are based on a different set of comparison tests and values and use different images than nonsummary rows.|

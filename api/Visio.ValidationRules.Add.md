@@ -27,7 +27,7 @@ Adds a new, empty  **[ValidationRule](Visio.ValidationRule.md)** object to the *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameU_|Required| **String**|The universal name to assign to the new validation rule.|
 

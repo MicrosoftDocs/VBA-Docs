@@ -27,7 +27,7 @@ Creates a new calculated item. Returns a  **[PivotItem](Excel.PivotItem.md)** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the item.|
 | _Formula_|Required| **String**|The formula for the item.|

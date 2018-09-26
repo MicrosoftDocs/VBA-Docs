@@ -27,7 +27,7 @@ Moves the specified page to the specified index in the  **Pages** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Page|Required| **Long**|The index number of the  **Pages** collection where the specified page will be moved.|
 |After|Optional| **Boolean**| **True** if the page will be inserted after the specified index number of the Pages collection specified by the Page parameter. Deafult is **True**.|

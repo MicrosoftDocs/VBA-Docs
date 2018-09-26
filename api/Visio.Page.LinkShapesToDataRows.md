@@ -30,7 +30,7 @@ Links multiple rows in the specified data recordset, as specified by their data 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document containing the data to link to.|
 | _DataRowIDs()_|Required| **Long**|An array of type  **Long** of data row IDs of rows in the data recordset specified in DataRecordsetID, to be linked to the shapes specified in ShapeIDs().|

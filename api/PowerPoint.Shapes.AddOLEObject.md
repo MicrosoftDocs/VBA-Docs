@@ -27,7 +27,7 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Optional|**Single**|The position (in points) of the upper-left corner of the new object relative to the upper-left corner of the slide. The default value is 0 (zero).|
 | _Top_|Optional|**Single**|The position (in points) of the upper-left corner of the new object relative to the upper-left corner of the slide. The default value is 0 (zero).|

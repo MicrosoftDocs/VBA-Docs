@@ -27,7 +27,7 @@ Returns the complementary error function integrated between the specified value 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The value to compute against.|
 

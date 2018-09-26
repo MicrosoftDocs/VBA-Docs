@@ -27,7 +27,7 @@ Glues one shape to another from a cell in the first shape to an  _x_, _y_ positi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SheetObject_|Required| **[IVSHAPE]**|An expression that returns the  **Shape** object to be glued to.|
 | _xPercent_|Required| **Double**|The x-coordinate of the position to glue to.|

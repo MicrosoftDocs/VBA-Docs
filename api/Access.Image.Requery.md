@@ -1,5 +1,5 @@
 ---
-title: Image.Requery Method (Access)
+title: Image.Requery method (Access)
 keywords: vbaac10.chm10359
 f1_keywords:
 - vbaac10.chm10359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Requery Method (Access)
+# Image.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

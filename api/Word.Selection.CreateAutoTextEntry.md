@@ -27,7 +27,7 @@ Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoText
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text the user must type to call the new AutoText entry.|
 | _StyleName_|Required| **String**|The category in which the new AutoText entry will be listed on the  **AutoText** menu.|

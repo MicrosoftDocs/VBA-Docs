@@ -27,7 +27,7 @@ Offsets a shape a specified amount.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Distance_|Required| **Double**|Specifies the distance to offset the shape.|
 

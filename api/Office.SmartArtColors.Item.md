@@ -24,7 +24,7 @@ Retrieves a  **SmartArtColor** object at the specified index or with the specifi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the Id of the Smart Art color.|
 

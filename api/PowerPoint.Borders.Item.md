@@ -27,7 +27,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified b
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BorderType_|Required|**PpBorderType**|Specifies which border of a cell or cell range is to be returned.|
 

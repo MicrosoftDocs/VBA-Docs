@@ -27,7 +27,7 @@ Displays the data from one or more projects in a single window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filenames_|Optional|**String**|One or more file names of projects to consolidate.|
 | _NewWindow_|Optional|**Boolean**|**True** if projects are inserted (consolidated) into a new project. **False** if projects are inserted into the active project at the selection point. The default value is **False**.|

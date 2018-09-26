@@ -27,7 +27,7 @@ Copies or links data from the Clipboard into the active selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Link_|Optional|**Boolean**|**True** if the data is linked to its source application.|
 | _Type_|Optional|**Integer**|A numeric value specifying the type of object to paste or link. The  **Type** argument can be one of the **[PjPasteSpecialType](Project.PjPasteSpecialType.md)** constants.|

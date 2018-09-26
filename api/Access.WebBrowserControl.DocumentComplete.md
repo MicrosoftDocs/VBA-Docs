@@ -27,7 +27,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pDisp_|Required|**Object**| pointer to the **IDispatch** interface of the window or frame in which the document is loaded.|
 | _URL_|Required|**Variant**|Contains the URL of the loaded document.|

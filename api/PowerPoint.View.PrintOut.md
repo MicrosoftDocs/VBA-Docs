@@ -27,7 +27,7 @@ Prints the specified presentation.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Optional|**Long**|The number of the first page to be printed. If this argument is omitted, printing starts at the beginning of the presentation. Specifying the  **To** and **From** arguments sets the contents of the **[PrintRanges](PowerPoint.PrintRanges.md)** object and sets the value of the **RangeType** property for the presentation.|
 | _To_|Optional|**Long**|The number of the last page to be printed. If this argument is omitted, printing continues to the end of the presentation. Specifying the  **To** and **From** arguments sets the contents of the **[PrintRanges](PowerPoint.PrintRanges.md)** object and sets the value of the **RangeType** property for the presentation.|

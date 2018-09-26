@@ -24,7 +24,7 @@ Occurs before the queue job is put on the server queue. Project Professional onl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrName_|Required|**String**|Name of the project whose queue job was completed.|
 | _bstrprojGuid_|Required|**String**|GUID of the project whose queue job was completed.|

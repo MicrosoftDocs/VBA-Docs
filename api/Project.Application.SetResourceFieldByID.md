@@ -27,7 +27,7 @@ Sets the value of a resource field specified by the field identification number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a  **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
 | _Value_|Required|**String**|The value of the resource field.|

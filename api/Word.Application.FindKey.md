@@ -27,7 +27,7 @@ Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the speci
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
 | _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|

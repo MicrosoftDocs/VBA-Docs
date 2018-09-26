@@ -27,7 +27,7 @@ Returns a single  **Row** object from the specified **Rows** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Row** object in the collection to be returned.|
 

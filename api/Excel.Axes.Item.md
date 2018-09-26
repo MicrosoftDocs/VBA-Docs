@@ -27,7 +27,7 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlAxisType](Excel.XlAxisType.md)**|The axis type.|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|

@@ -27,7 +27,7 @@ Occurs before the explorer changes to a new view, either as a result of user act
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewView_|Required| **Variant**|The name of the view the explorer is switching to.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the switch is cancelled and the current view is not changed.|

@@ -25,7 +25,7 @@ Moves a control to the specified location.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Optional| **Variant**|Single-precision value, in points, indicating the horizontal coordinate for the left edge of the object.|
 |Top|Optional| **Variant**|Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.|

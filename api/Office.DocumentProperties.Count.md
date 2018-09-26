@@ -27,7 +27,7 @@ Gets a  **Long** indicating the number of items in the **DocumentProperties** co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pc_|Required|**Long**|Represents the index of the document property.|
 

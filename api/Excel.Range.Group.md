@@ -27,7 +27,7 @@ When the  **[Range](Excel.Range(object).md)** object represents a single cell in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional| **Variant**|The first value to be grouped. If this argument is omitted or  **True** , the first value in the field is used.|
 | _End_|Optional| **Variant**|The last value to be grouped. If this argument is omitted or  **True** , the last value in the field is used.|

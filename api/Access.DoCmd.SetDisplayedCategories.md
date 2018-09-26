@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetDisplayedCategories Method (Access)
+title: DoCmd.SetDisplayedCategories method (Access)
 keywords: vbaac10.chm5851
 f1_keywords:
 - vbaac10.chm5851
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetDisplayedCategories Method (Access)
+# DoCmd.SetDisplayedCategories method (Access)
 
 Specifies which categories are displayed under  **Navigate to Category** in the title bar of the Navigation Pane. .
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Required|**Variant**|Set to Yes to show the category or categories. Set to No to hide them.|
 | _Category_|Optional|**Variant**|The name of the category you want to show or hide. Leave blank to show or hide all categories.|

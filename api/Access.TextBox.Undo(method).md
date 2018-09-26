@@ -1,5 +1,5 @@
 ---
-title: TextBox.Undo Method (Access)
+title: TextBox.Undo method (Access)
 keywords: vbaac10.chm11030
 f1_keywords:
 - vbaac10.chm11030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Undo Method (Access)
+# TextBox.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 

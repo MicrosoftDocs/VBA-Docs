@@ -27,7 +27,7 @@ Returns an  **OtherCorrectionsException** object that represents a new exception
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word that you want Word to overlook.|
 

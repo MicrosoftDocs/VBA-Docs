@@ -27,7 +27,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Wizard|Required| **PbWizardGroup**|The type of Design Gallery object to add to the publication.|
 |Left|Required| **Variant**|The position of the Design Gallery object's left edge relative to the left edge of the page, measured in points.|

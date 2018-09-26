@@ -25,7 +25,7 @@ Moves the scroll bar on an object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |xAction|Optional| **Variant**|Identifies the action to occur in the horizontal direction.|
 |yAction|Optional| **Variant**|Identifies the action to occur in the vertical direction.|

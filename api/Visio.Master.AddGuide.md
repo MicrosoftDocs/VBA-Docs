@@ -27,7 +27,7 @@ Adds a guide to a master.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **Integer**|The type of guide to add.|
 | _xPos_|Required| **Double**|The x-coordinate of a point on the guide.|

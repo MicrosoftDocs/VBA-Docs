@@ -27,7 +27,7 @@ Quits Microsoft Word and optionally saves or routes the open documents.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**|Specifies whether Word saves changed documents before closing. Can be one of the  **WdSaveOptions** constants.|
 | _OriginalFormat_|Optional| **Variant**|Specifies the way Word saves documents whose original format was not Word Document format. Can be one of the  **WdOriginalFormat** constants.|

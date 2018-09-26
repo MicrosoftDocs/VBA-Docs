@@ -27,7 +27,7 @@ Saves the group of quick styles currently in use.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name for the quick style set file.|
 

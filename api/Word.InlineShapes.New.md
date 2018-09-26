@@ -27,7 +27,7 @@ Inserts an empty, 1-inch-square Word picture object surrounded by a border. This
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location of the new graphic.|
 

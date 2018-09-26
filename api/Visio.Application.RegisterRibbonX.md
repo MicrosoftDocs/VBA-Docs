@@ -27,7 +27,7 @@ Registers the  **[IRibbonExtensibility](./Office.IRibbonExtensibility.md)** inte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceAddOn_|Required| **IRibbonExtensibilty**|The add-on to register.|
 | _TargetDocument_|Required| **[Document](Visio.Document.md)**|The document that uses the custom UI.|

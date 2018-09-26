@@ -27,7 +27,7 @@ Returns the Weibull distribution. Use this distribution in reliability analysis,
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Alpha - A parameter to the distribution.|

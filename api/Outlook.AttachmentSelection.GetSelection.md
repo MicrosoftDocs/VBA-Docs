@@ -27,7 +27,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SelectionContents_|Required| **OlSelectionContents**|Specifies the kind of objects in the selection to return.|
 

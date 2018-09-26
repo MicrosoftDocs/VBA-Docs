@@ -27,7 +27,7 @@ Returns a  **String** that indicates the category or categories that are assigne
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store to which categories of items that belong to the conversation should be returned.|
 

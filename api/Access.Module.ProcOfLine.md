@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required|**Long**|The number of a line in the module.|
 | _pprockind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|

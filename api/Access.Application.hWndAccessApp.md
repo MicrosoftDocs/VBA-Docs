@@ -1,5 +1,5 @@
 ---
-title: Application.hWndAccessApp Method (Access)
+title: Application.hWndAccessApp method (Access)
 keywords: vbaac10.chm12552
 f1_keywords:
 - vbaac10.chm12552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.hWndAccessApp Method (Access)
+# Application.hWndAccessApp method (Access)
 
 You can use the  **hWndAccessApp** method to determine the handle assigned by Microsoft Windows to the main Microsoft Access window.
 

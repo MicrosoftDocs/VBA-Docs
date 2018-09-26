@@ -27,7 +27,7 @@ Returns 1 if number ? step; returns 0 (zero) otherwise. Use this function to fil
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the value to test against step.|
 | _Arg2_|Optional| **Variant**|Step - the threshold value. If you omit a value for step, GESTEP uses zero.|

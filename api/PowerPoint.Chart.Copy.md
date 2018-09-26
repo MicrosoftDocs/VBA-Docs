@@ -27,7 +27,7 @@ Not supported for this object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional|**Variant**|Not supported for this object.|
 | _After_|Optional|**Variant**|Not supported for this object.|

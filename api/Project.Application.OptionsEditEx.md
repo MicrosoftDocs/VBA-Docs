@@ -27,7 +27,7 @@ Sets options for Project, where colors can be hexadecimal values, or opens the  
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveAfterReturn_|Optional|**Boolean**|**True** if the next cell or field becomes active when ENTER is pressed. **False** if the current cell or field remains active. The **Move selection after enter** option is on the **Advanced** tab of the **Project Options** dialog box.|
 | _DragAndDrop_|Optional|**Boolean**|**True** if cells may be copied or moved by dragging them; otherwise, **False**. The **Allow cell drag and drop** option is on the **Advanced** tab.|

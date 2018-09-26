@@ -27,7 +27,7 @@ Returns an  **AddIn** object that represents an add-in file added to the list of
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The full name of the file (including the path and file name extension) that contains the add-in you want to add to the list of add-ins.|
 

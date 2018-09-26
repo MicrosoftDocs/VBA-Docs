@@ -27,7 +27,7 @@ Sets the vertical distance from the edge of the text bounding box to the place w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Drop|Required| **Variant**|The drop distance. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 

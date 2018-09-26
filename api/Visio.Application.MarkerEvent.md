@@ -24,7 +24,7 @@ Private Sub  _expression_ _'MarkerEvent'(**_ByVal app As [IVAPPLICATION]_** , **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The active instance of Microsoft Visio.|
 | _SequenceNum_|Required| **Long**|The ordinal position of this event with respect to past events.|

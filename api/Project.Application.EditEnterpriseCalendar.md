@@ -27,7 +27,7 @@ Edits an enterprise calendar. Available in Project Professional only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UniqueID_|Optional|**Variant**|GUID of the enterprise calendar to edit.|
 

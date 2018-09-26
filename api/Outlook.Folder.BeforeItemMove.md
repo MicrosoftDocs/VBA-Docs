@@ -27,7 +27,7 @@ Occurs when an item is about to be moved or deleted from a folder, either as a r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|Represents the Outlook item that is to be moved or deleted.|
 | _MoveTo_|Required| **[Folder](Outlook.Folder.md)**|Represents the folder to which the item is being moved. |

@@ -24,7 +24,7 @@ Occurs before a project is saved. Uses the  **EventInfo** object parameter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project to be saved.|
 | _SaveAsUi_|Required|**Boolean**|**True** if the **Save As** dialog box is displayed.|

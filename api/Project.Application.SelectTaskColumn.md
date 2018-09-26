@@ -27,7 +27,7 @@ Selects a column containing task information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**String**|The field name of the column to select. The default is the column containing the active cell.|
 | _Additional_|Optional|**Integer**|The number of additional columns to select to the right of  **Column**. If **Extend** is **True**, **Additional** is ignored. The default value is 0.|

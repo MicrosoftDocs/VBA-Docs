@@ -27,7 +27,7 @@ Plays an animation associated with a specified mouse click and any animations th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the mouse click that initiates an animation. |
 

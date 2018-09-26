@@ -27,7 +27,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotTable_|Required| **PivotTable**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to add.|
 

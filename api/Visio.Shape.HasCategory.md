@@ -27,7 +27,7 @@ Returns  **True** if the specified category is in the shape categories list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Category_|Required| **String**|The name of the category.|
 

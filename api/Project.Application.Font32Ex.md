@@ -27,7 +27,7 @@ Sets the font for the text in the active cells, where the text color can be a he
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points.|

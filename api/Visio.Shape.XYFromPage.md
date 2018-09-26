@@ -27,7 +27,7 @@ Transforms a point expressed in the local coordinate system of its  **Page** or 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**| _x_-coordinate corresponding to  _x_ in the **Page** or **Master** object's coordinate system.|
 | _y_|Required| **Double**| _y_-coordinate corresponding to  _y_ in the **Page** or **Master** object's coordinate system.|

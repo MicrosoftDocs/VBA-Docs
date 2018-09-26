@@ -27,7 +27,7 @@ Edits the hyperlink of the selected assignment, resource, or task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the hyperlink as it appears in the Hyperlink field.|
 | _Address_|Optional|**String**|The address of the target document.|

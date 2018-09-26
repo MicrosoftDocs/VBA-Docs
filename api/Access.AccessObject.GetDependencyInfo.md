@@ -1,5 +1,5 @@
 ---
-title: AccessObject.GetDependencyInfo Method (Access)
+title: AccessObject.GetDependencyInfo method (Access)
 keywords: vbaac10.chm12756
 f1_keywords:
 - vbaac10.chm12756
@@ -7,13 +7,13 @@ ms.prod: access
 api_name:
 - Access.AccessObject.GetDependencyInfo
 ms.assetid: 33feb9c9-abac-cbe4-acf9-989957f41b7a
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
-# AccessObject.GetDependencyInfo Method (Access)
+# AccessObject.GetDependencyInfo method (Access)
 
- Returns a **[DependencyInfo](Access.DependencyInfo.md)** object that represents the database objects that are dependent upon the specified object.
+Returns a **[DependencyInfo](Access.DependencyInfo.md)** object that represents the database objects that are dependent upon the specified object.
 
 
 ## Syntax
@@ -44,8 +44,4 @@ This method will return a run-time error if any of the following conditions are 
 Access does not search Visual Basic for Applications (VBA) code, macros, or data access pages for dependencies.
 
 
-## See also
-
-
-[AccessObject Object](Access.AccessObject.md)
 

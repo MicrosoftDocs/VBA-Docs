@@ -27,7 +27,7 @@ Allows the template author to populate a  **CustomXMLPart** object from an XML s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Contains the XML to load.|
 

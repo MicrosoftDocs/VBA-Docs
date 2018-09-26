@@ -27,7 +27,7 @@ Returns the square of the Pearson product moment correlation coefficient through
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - an array or range of data points.|
 | _Arg2_|Required| **Variant**|Known_x's - an array or range of data points.|

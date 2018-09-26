@@ -27,7 +27,7 @@ Removes the specified child node from the tree.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Child_|Required|**CustomXMLNode**|Represents the child node of the context node.|
 

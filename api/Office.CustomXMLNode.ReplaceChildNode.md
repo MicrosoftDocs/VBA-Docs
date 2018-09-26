@@ -27,7 +27,7 @@ Removes the specified child node (and its subtree) from the main tree, and repla
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OldNode_|Required|**CustomXMLNode**|Represents the child node to be replaced.|
 | _Name_|Optional|**String**|Represents the base name of the element to be added.|

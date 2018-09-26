@@ -27,7 +27,7 @@ Selects a cell.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Optional|**Long**|The row number (**RowRelative** is **False**) or the relative row position (**RowRelative** is **True**) of the cell to select.|
 | _Column_|Optional|**Integer**|The column number of the cell to select.|

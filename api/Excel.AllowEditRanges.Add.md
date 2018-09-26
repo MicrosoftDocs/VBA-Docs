@@ -27,7 +27,7 @@ Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEdi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Title_|Required| **String**|The title of range.|
 | _Range_|Required| **Range**| **Range** object. The range allowed to be edited.|

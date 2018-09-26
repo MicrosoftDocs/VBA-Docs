@@ -27,7 +27,7 @@ Returns a  **Document** object that represents a new publication.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Wizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
 |Design|Optional| **Long**|The design to apply to the new publication.|

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.FindRecord Method (Access)
+title: DoCmd.FindRecord method (Access)
 keywords: vbaac10.chm4151
 f1_keywords:
 - vbaac10.chm4151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.FindRecord Method (Access)
+# DoCmd.FindRecord method (Access)
 
 The **FindRecord** method carries out the FindRecord action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindWhat_|Required|**Variant**|An expression that evaluates to text, a number, or a date. The expression contains the data to search for.|
 | _Match_|Optional|**AcFindMatch**|An **[AcFindMatch](Access.AcFindMatch.md)** constant that specifies where to search for the match. The default value is **acEntire**.|

@@ -27,7 +27,7 @@ Moves a selection a specified distance.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _dx_|Required| **Double**|Specifies the amount to move in the x-direction.|
 | _dy_|Required| **Double**|Specifies the amount to move in the y-direction.|

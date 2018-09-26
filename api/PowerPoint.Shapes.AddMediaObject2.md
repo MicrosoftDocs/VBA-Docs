@@ -27,7 +27,7 @@ Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](PowerPoint.Shape
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to be added.|
 | _LinkToFile_|Optional|**[MSOTRISTATE]**|Indicates whether to link to the file.|

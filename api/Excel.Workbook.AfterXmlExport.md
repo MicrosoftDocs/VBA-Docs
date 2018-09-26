@@ -27,7 +27,7 @@ Occurs after Microsoft Excel saves or exports XML data from the specified workbo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map that was used to save or export data.|
 | _Url_|Required| **String**|The location of the XML file that was exported.|

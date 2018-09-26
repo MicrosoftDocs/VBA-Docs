@@ -27,7 +27,7 @@ Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the one-based index number of the object, or a value used to match the default property of an object in the collection.|
 

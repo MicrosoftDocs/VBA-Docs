@@ -27,7 +27,7 @@ Adds a mail routing slip for the active project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _To_|Optional|**String**|The user names of the recipients of the message, separated by commas.|
 | _Subject_|Optional|**String**| The subject of the message.|

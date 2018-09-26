@@ -27,7 +27,7 @@ Used to sign the XMLDSIG template.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the verification operation.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies configuration information about a signature line.|

@@ -27,7 +27,7 @@ Moves the sheet to another location in the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional| **Variant**|The sheet before which the moved sheet will be placed. You cannot specify  _Before_ if you specify _After_.|
 | _After_|Optional| **Variant**| The sheet after which the moved sheet will be placed. You cannot specify _After_ if you specify _Before_.|

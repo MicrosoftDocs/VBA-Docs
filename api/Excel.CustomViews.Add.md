@@ -27,7 +27,7 @@ Creates a new custom view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ViewName_|Required| **String**|The name of the new view.|
 | _PrintSettings_|Optional| **Variant**| **True** to include print settings in the custom view.|

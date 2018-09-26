@@ -27,7 +27,7 @@ Returns a document from a local computer to a Microsoft SharePoint Server comput
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Boolean**| **True** (non-zero) to save document changes before check-in; **False** (0) to check the document in without saving changes. The default is **True** .|
 | _Comments_|Optional| **Variant**|Any comments to be stored with this revision of the document (applies only if  _SaveChanges_ equals **True**).|

@@ -27,7 +27,7 @@ Returns a  **Variant** array that contains the current values of the changing ce
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The position of the value.|
 

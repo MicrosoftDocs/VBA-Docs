@@ -1,5 +1,5 @@
 ---
-title: Application.DVarP Method (Access)
+title: Application.DVarP method (Access)
 keywords: vbaac10.chm12532
 f1_keywords:
 - vbaac10.chm12532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DVarP Method (Access)
+# Application.DVarP method (Access)
 
 Calculates the variance of a population in a specified set of records (a domain).
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the numeric field on which you want to find the variance. It can be a string expression identifying a field from a table or query, or it can be an expression that performs a [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md) . In _expr_, you can include the name field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function. Any field included in _expr_ must be a numeric field.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|

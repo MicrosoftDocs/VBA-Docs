@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Hourglass Method (Access)
+title: DoCmd.Hourglass method (Access)
 keywords: vbaac10.chm4155
 f1_keywords:
 - vbaac10.chm4155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Hourglass Method (Access)
+# DoCmd.Hourglass method (Access)
 
 The  **Hourglass** method carries out the Hourglass action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HourglassOn_|Required|**Variant**|Use  **True** (?1) to display the hourglass icon (or another icon you've chosen). Use **False** (0) to display the normal mouse pointer.|
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SetDefaultWorkgroupFile Method (Access)
+title: Application.SetDefaultWorkgroupFile method (Access)
 keywords: vbaac10.chm12595
 f1_keywords:
 - vbaac10.chm12595
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SetDefaultWorkgroupFile Method (Access)
+# Application.SetDefaultWorkgroupFile method (Access)
 
 Sets the default workgroup file to the specified file.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The full path and file name of the workgroup file to use as the default.|
 

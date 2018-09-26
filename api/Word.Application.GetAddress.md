@@ -25,7 +25,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**Variant**|The name of the addressee, as specified in the **Search Name** dialog box in the address book.|
 | _AddressProperties_|Optional|**Variant**|If _UseAutoText_ is **True**, this argument denotes the name of an AutoText entry that defines a sequence of address book properties. If _UseAutoText_ is **False** or omitted, this argument defines a custom layout.<br/><br/>Valid address book property names or sets of property names are surrounded by angle brackets (`"<" and ">"`) and separated by a space or a paragraph mark (for example, `"<PR_GIVEN_NAME> <PR_SURNAME>" &; vbCr &; "<PR_OFFICE_TELEPHONE_NUMBER>"`).<br/><br/>If the _AddressProperties_ parameter is omitted, a default AutoText entry named "AddressLayout" is used. If "AddressLayout" hasn't been defined, the following address layout definition is used: `"<PR_GIVEN_NAME> <PR_SURNAME>" &; vbCr &; "<PR_STREET_ADDRESS>" &; vbCr &; "<PR_LOCALITY>" &; ", " &; "<PR_STATE_OR_PROVINCE>" &; " " &; "<PR_POSTAL_CODE>" &; vbCr &; "<PR_COUNTRY>"`.<br/><br/>For a list of the valid address book property names, see the **AddAddress** method.|

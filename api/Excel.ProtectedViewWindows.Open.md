@@ -27,7 +27,7 @@ Opens the specified workbook in a new  **Protected View** window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the workbook (paths are accepted).|
 | _Password_|Optional| **Variant**|The password for opening the workbook.|

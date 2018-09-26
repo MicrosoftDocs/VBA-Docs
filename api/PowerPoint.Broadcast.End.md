@@ -27,7 +27,7 @@ Elevates to the system to delete the document from the Broadcast Documents libra
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Required| _FileID_|**String**|The file to be removed from the Broadcast Documents library.|
 

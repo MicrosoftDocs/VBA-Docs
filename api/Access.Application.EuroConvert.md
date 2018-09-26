@@ -1,5 +1,5 @@
 ---
-title: Application.EuroConvert Method (Access)
+title: Application.EuroConvert method (Access)
 keywords: vbaac10.chm12591
 f1_keywords:
 - vbaac10.chm12591
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EuroConvert Method (Access)
+# Application.EuroConvert method (Access)
 
 You can use the  **EuroConvert** function to convert a number to euro or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Number_|Required|**Double**|The number you want to convert, or a reference to a field containing the number.|
 | _SourceCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the International Standards Organization (ISO) acronym for the currency you want to convert. Can be one of the ISO codes listed in the Remarks section.|

@@ -27,7 +27,7 @@ Occurs whenever a new explorer window is opened, either as a result of user acti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Explorer_|Required| **[Explorer](Outlook.Explorer.md)**|The explorer that was opened.|
 

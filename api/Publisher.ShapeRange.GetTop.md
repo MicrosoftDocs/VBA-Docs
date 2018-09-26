@@ -27,7 +27,7 @@ Returns the distance of the shape's or shape range's top edge from the top edge 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbUnitType**|The units in which to return the distance.|
 

@@ -27,7 +27,7 @@ Returns the future value of an initial principal after applying a series of comp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Principal - the present value.|
 | _Arg2_|Required| **Variant**|Schedule - an array of interest rates to apply.|

@@ -27,7 +27,7 @@ Specifies a document as the Search Page in Microsoft Internet Explorer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Optional|**String**|The address to use as a Search Page. If  **Address** is omitted, the current document is set as the Search Page.|
 

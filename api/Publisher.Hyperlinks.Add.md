@@ -27,7 +27,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Text|Required| **TextRange**| **TextRange** object. The text range to be converted into a hyperlink.|
 |Address|Optional| **String**|The address of the new hyperlink. If RelativePage is  **pbHlinkTargetTypeURL** (default) or **pbHlinkTargetTypeEmail**, Address must be specified or an error occurs.|

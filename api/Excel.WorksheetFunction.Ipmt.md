@@ -27,7 +27,7 @@ Returns the interest payment for a given period for an investment based on perio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate per period.|
 | _Arg2_|Required| **Double**|Per - the period for which you want to find the interest and must be in the range 1 to nper.|

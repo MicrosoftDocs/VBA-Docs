@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path and file name of the schema. This may be a local file path, a network path, or an Internet address.|
 | _NamespaceURI_|Optional| **String**|The namespace Uniform Resource Indicator as specified in the schema. The NamespaceURI parameter is case-sensitive and must be spelled exactly as specified in schema.|

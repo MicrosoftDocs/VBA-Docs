@@ -24,7 +24,7 @@ Occurs before a task is deleted.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**| The task that is being deleted.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the task is not deleted.|

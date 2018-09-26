@@ -1,5 +1,5 @@
 ---
-title: Module.Find Method (Access)
+title: Module.Find method (Access)
 keywords: vbaac10.chm12286
 f1_keywords:
 - vbaac10.chm12286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Find Method (Access)
+# Module.Find method (Access)
 
 Finds specified text in a standard module or class module.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required|**String**|The text that you want to find.|
 | _StartLine_|Required|**Long**|The line on which to begin searching. If a match is found, the value of the  _StartLine_ argument is set to the line on which the beginning character of the matching text is found.|

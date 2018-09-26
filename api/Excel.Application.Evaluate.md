@@ -27,7 +27,7 @@ Converts a Microsoft Excel name to an object or a value.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **Variant**|A formula or the name of the object, using the naming convention of Microsoft Excel. The length of the name must be less than or equal to 255 characters.|
 

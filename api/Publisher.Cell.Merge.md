@@ -27,7 +27,7 @@ Merges the specified table cell with another cell. The result is a single table 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |MergeTo|Required| **Cell**|The cell to be merged with; must be adjacent to the specified cell or an error occurs.|
 

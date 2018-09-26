@@ -27,7 +27,7 @@ Creates a new  **[OrderField](Outlook.OrderField.md)** object and inserts it at 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated.|
 | _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property value of an object in the collection at where the new object is to be inserted.|

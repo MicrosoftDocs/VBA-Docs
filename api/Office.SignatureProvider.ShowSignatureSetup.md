@@ -27,7 +27,7 @@ Provides a signature provider add-in the opportunity to display the  **Signature
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the  **Signature Setup** dialog box.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider.|

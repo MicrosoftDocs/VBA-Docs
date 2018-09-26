@@ -27,7 +27,7 @@ Automatically draws multiple connections in the specified directions between the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FromShapeIDs()_|Required| **Long**|An array of identifers of the shapes from which to draw a connection.|
 | _ToShapeIDs()_|Required| **Long**|An array of identifers of the shapes to which to draw a connection.|

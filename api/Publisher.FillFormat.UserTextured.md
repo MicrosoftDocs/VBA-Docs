@@ -27,7 +27,7 @@ Fills the specified shape with small tiles of an image.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |TextureFile|Required| **String**|The name of the texture file.|
 

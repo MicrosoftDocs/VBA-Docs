@@ -27,7 +27,7 @@ Selects one or more rows.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Optional|**Long**|The number of the row to select. The default is the active row.|
 | _RowRelative_|Optional|**Boolean**|**True** if the location of the new selection is relative to the active selection. The default value is **True**.|

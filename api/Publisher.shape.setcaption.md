@@ -22,7 +22,7 @@ Sets the caption style for the shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **CaptionStyle**|Specifies the style of the caption.|
 

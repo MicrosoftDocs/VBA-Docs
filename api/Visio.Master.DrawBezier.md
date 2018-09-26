@@ -27,7 +27,7 @@ Creates a shape whose path is defined by the supplied sequence of Bezier control
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xyArray()_|Required| **Double**|An array of alternating  _x_ and _y_ values that define the Bezier control points for the new shape.|
 | _degree_|Required| **Integer**|The degree of the Bezier curve.|

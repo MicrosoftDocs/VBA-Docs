@@ -27,7 +27,7 @@ Displays the  **New Call** dialog box that allows users to dial the primary phon
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContactItem_|Optional| **Variant**|The  **[ContactItem](Outlook.ContactItem.md)** object of the contact you want to dial.|
 

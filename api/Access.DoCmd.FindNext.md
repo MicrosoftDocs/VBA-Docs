@@ -1,5 +1,5 @@
 ---
-title: DoCmd.FindNext Method (Access)
+title: DoCmd.FindNext method (Access)
 keywords: vbaac10.chm4150
 f1_keywords:
 - vbaac10.chm4150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.FindNext Method (Access)
+# DoCmd.FindNext method (Access)
 
 The  **FindNext** method carries out the FindNext action in Visual Basic.
 

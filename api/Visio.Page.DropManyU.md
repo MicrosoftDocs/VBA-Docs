@@ -27,7 +27,7 @@ Creates one or more new  **Shape** objects on a page, in a master, or in a group
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectsToInstance()_|Required| **Variant**|Identifies masters or other objects from which to make shapes by their universal names.|
 | _xyArray()_|Required| **Double**|An array of alternating  _x_ and _y_ values that specify the positions for the new shapes.|

@@ -30,7 +30,7 @@ Deletes the current shared workspace folder and all data within it.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeleteEvenIfFolderContainsFiles_|Optional|**Boolean**|**True** to delete the folder without warning even if the folder contains files. Default is **False**.The Delete method will fail if the user does not have permission to delete the current folder from the shared workspace.|
 

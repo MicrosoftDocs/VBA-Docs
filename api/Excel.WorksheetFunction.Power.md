@@ -27,7 +27,7 @@ Returns the result of a number raised to a power.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the base number. It can be any real number.|
 | _Arg2_|Required| **Double**|Power - the exponent to which the base number is raised.|

@@ -1,5 +1,5 @@
 ---
-title: Application.CreateAdditionalData Method (Access)
+title: Application.CreateAdditionalData method (Access)
 keywords: vbaac10.chm12607
 f1_keywords:
 - vbaac10.chm12607
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateAdditionalData Method (Access)
+# Application.CreateAdditionalData method (Access)
 
 Creates an  **[AdditionalData](Access.AdditionalData.md)** object that can be used to add additional tables and queries to the parent table that is being exported by the **[ExportXML](Access.Application.ExportXML.md)** method.
 

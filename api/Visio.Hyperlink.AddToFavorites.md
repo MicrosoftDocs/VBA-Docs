@@ -27,7 +27,7 @@ Adds a shortcut for a hyperlink address in the presently registered Favorites fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FavoritesTitle_|Optional| **Variant**|The title to assign to the new shortcut.|
 

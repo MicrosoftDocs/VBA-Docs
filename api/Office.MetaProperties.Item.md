@@ -27,7 +27,7 @@ Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-onl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **MetaProperty** object to be returned.|
 

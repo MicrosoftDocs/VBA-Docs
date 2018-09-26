@@ -27,7 +27,7 @@ Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|Contains the index of the object to retrieve.|
 

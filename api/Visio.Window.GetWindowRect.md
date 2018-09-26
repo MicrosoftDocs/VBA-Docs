@@ -27,7 +27,7 @@ Gets the size and position of the client area of a window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pnLeft_|Required| **Long**|The coordinate of the left side of the window.|
 | _pnTop_|Required| **Long**|The coordinate of the top of the window.|

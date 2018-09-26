@@ -27,7 +27,7 @@ Sets some options that are on the  **General**,  **Schedule**, and  **Advanced**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PlanningWizard_|Optional|**Boolean**|**True** if the Planning Wizard is active. Planning Wizard settings are on the **Advanced** tab ofn the **Project Options** dialog box.|
 | _WizardUsage_|Optional|**Boolean**|**True** if the Planning Wizard displays tips about using Project more effectively.|

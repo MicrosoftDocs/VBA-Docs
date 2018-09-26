@@ -27,7 +27,7 @@ Returns the negative binomial distribution. NEGBINOM_DIST returns the probabilit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number_f - the number of failures.|
 | _Arg2_|Required| **Double**|Number_s - the threshold number of successes.|

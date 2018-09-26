@@ -27,7 +27,7 @@ Occurs before an existing XML data connection is refreshed or before new XML dat
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to import data.|
 | _Url_|Required| **String**|The location of the XML file to be imported.|

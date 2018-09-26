@@ -27,7 +27,7 @@ Creates a new PivotCache.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Required| **XlPivotTableSourceType**| _SourceType_ can be one of these **xlPivotTableSourceType** constants: **xlConsolidation** , **xlDatabase** , or **xlExternal** .|
 | _SourceData_|Optional| **Variant**|The data for the new PivotTable cache.|

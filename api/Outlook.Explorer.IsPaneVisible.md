@@ -27,7 +27,7 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pane_|Required| **[OlPane](Outlook.OlPane.md)**|The pane to check.|
 

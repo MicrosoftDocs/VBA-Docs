@@ -27,7 +27,7 @@ Creates names in the specified range, based on text labels in the sheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Top_|Optional| **Variant**| **True** to create names by using labels in the top row. The default value is **False** .|
 | _Left_|Optional| **Variant**| **True** to create names by using labels in the left column. The default value is **False** .|

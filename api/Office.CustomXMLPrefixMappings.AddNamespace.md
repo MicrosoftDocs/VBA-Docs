@@ -27,7 +27,7 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Prefix_|Required|**String**|Contains the prefix to add to the prefix mapping list.|
 | _NamespaceURI_|Required|**String**|Contains the namespace to assign to the newly added prefix.|

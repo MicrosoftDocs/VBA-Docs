@@ -27,7 +27,7 @@ Deletes a base calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to delete.|
 

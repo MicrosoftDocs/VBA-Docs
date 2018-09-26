@@ -27,7 +27,7 @@ Shows or hides the task data fields of the active Network Diagram.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if the fields of Network Diagram boxes are displayed in the active Network Diagram. **False** if only task ID numbers are displayed. The default value is **True** if the active Network Diagram isn't showing fields and **False** if it is.|
 

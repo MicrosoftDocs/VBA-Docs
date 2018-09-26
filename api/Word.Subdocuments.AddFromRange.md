@@ -27,7 +27,7 @@ Creates one or more subdocuments from the text in the specified range and return
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range used to create one or more subdocuments.|
 

@@ -27,7 +27,7 @@ Returns or sets a pixel point on the screen.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|Location of the pixel on the screen.|
 

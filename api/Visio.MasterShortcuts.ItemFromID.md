@@ -27,7 +27,7 @@ Returns an item of a collection using the ID of the item. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nID_|Required| **Long**|The ID of the object to retrieve.|
 

@@ -27,7 +27,7 @@ Allows the template author to populate a  **CustomXMLPart** from an existing fil
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FilePath_|Required|**String**|Points to the file on the user's computer or on a network containing the XML to be loaded.|
 

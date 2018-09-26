@@ -27,7 +27,7 @@ Deletes a custom number format from the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumberFormat_|Required| **String**|Names the number format to be deleted.|
 

@@ -27,7 +27,7 @@ Sets a cell's value, even if the cell's formula is protected with the GUARD func
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting the cell's value.|
 

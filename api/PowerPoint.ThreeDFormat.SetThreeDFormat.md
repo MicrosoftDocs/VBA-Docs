@@ -27,7 +27,7 @@ Sets the preset extrusion format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetThreeDFormat_|Required|**MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D Rotation** submenu on the **Shape Effects** menu.|
 

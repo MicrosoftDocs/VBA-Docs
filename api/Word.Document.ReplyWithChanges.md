@@ -27,7 +27,7 @@ Sends an e-mail message to the author of a document that has been sent out for r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowMessage_|Optional| **Variant**| **True** to display the message prior to sending. **False** to automatically send the message without displaying it first. The default value is **True** .|
 

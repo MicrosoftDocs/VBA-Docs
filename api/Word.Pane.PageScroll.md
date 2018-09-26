@@ -27,7 +27,7 @@ Scrolls through the specified window page by page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional| **Variant**|The number of pages to be scrolled down. If this argument is omitted, this value is assumed to be 1.|
 | _Up_|Optional| **Variant**|The number of pages to be scrolled up.|

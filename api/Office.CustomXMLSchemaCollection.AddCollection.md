@@ -27,7 +27,7 @@ Adds an existing schema collection to the current schema collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemaCollection_|Required|**CustomXMLSchemaCollection**|Represents a collection of schemas to be imported into the current schema collection.|
 

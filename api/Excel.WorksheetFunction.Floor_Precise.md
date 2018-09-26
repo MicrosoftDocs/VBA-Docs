@@ -27,7 +27,7 @@ Rounds the specified number to the nearest multiple of significance.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the numeric value you want to round.|
 | _Arg2_|Optional| **Variant**|Significance - the multiple to which you want to round.|

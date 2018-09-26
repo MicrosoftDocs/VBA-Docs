@@ -24,7 +24,7 @@ Gets a  **TextRange2** object that represents the specified subset of text words
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Long**|The first word in the returned range.|
 | _Length_|Optional|**Long**|The number of words to be returned.|

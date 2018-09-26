@@ -24,7 +24,7 @@ Zooms to display a rectanglular section, specified by the parameters, of the dra
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Required| **Long**|The x-coordinate of the top left corner of the rectangle to zoom to.|
 |Top|Required| **Long**|The y-coordinate of the top left corner of the rectangle to zoom to.|

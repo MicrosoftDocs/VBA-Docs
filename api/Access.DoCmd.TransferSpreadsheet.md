@@ -1,5 +1,5 @@
 ---
-title: DoCmd.TransferSpreadsheet Method (Access)
+title: DoCmd.TransferSpreadsheet method (Access)
 keywords: vbaac10.chm4189
 f1_keywords:
 - vbaac10.chm4189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.TransferSpreadsheet Method (Access)
+# DoCmd.TransferSpreadsheet method (Access)
 
 The **TransferSpreadsheet** method carries out the TransferSpreadsheet action in Visual Basic.
 
@@ -25,7 +25,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TransferType_|Optional|[AcDataTransferType](Access.AcDataTransferType.md)|The type of transfer you want to make. The default value is  **acImport**.|
 | _SpreadsheetType_|Optional|[AcSpreadSheetType](Access.AcSpreadSheetType.md)|The type of spreadsheet to import from, export to, or link to. |

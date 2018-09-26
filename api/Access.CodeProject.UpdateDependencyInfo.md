@@ -1,5 +1,5 @@
 ---
-title: CodeProject.UpdateDependencyInfo Method (Access)
+title: CodeProject.UpdateDependencyInfo method (Access)
 keywords: vbaac10.chm12727
 f1_keywords:
 - vbaac10.chm12727
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.UpdateDependencyInfo Method (Access)
+# CodeProject.UpdateDependencyInfo method (Access)
 
 Updates the dependency information for the database.
 

@@ -27,7 +27,7 @@ Specifies a research query.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ServiceID_|Required|**String**|Specifies a GUID that identifies the research service.|
 | _QueryString_|Optional|**Variant**|Specifies the query string.|

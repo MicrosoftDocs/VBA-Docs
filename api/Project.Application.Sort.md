@@ -27,7 +27,7 @@ Sorts the tasks or resources in the active pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key1_|Optional|**String**|The name of a primary field to sort. If Key1 is omitted, Project displays the  **Sort** dialog box.|
 | _Ascending1_|Optional|**Boolean**|**True** if the primary field will be sorted in ascending order. The default value is **True**.|

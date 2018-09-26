@@ -27,7 +27,7 @@ Applies data labels to all the series in a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[XlDataLabelsType](Word.xldatalabelstype.md)**|One of the enumeration values that specifies the type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default is **False** .|

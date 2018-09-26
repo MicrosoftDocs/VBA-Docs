@@ -27,7 +27,7 @@ Sorts the specified table column.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ExcludeHeader_|Optional| **Variant**| **True** to exclude the first row or paragraph header from the sort operation. The default value is **False** .|
 | _SortFieldType_|Optional| **Variant**|The sort type for the column. Can be one of the  **[WdSortFieldType](Word.WdSortFieldType.md)** constants.|

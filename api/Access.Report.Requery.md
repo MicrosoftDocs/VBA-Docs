@@ -1,5 +1,5 @@
 ---
-title: Report.Requery Method (Access)
+title: Report.Requery method (Access)
 keywords: vbaac10.chm13827
 f1_keywords:
 - vbaac10.chm13827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Requery Method (Access)
+# Report.Requery method (Access)
 
 The  **Requery** method updates the data underlying the specified report by requerying the source of data for the control.
 

@@ -20,7 +20,7 @@ Gets the state of a specified job that the active cache in Project Professional 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of the project; can be the active project or a different project that is open.|
 | _ProjectJobType_|Required|**PjJobType**|Can be one of the [PjJobType](Project.pjjobtype.md) constants for the save, publish, or check-in operation.|

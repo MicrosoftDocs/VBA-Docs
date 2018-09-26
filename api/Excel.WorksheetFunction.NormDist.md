@@ -31,7 +31,7 @@ For more information about the new function, see the [Norm_Dist](Excel.Worksheet
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|

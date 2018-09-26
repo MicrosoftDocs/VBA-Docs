@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Minimize Method (Access)
+title: DoCmd.Minimize method (Access)
 keywords: vbaac10.chm4157
 f1_keywords:
 - vbaac10.chm4157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Minimize Method (Access)
+# DoCmd.Minimize method (Access)
 
 The  **Minimize** method carries out the Minimize action in Visual Basic.
 

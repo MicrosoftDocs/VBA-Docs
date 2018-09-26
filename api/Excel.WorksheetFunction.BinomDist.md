@@ -27,7 +27,7 @@ Returns the individual term binomial distribution probability.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|the number of successes in trials.|
 | _Arg2_|Required| **Double**|the number of independent trials.|

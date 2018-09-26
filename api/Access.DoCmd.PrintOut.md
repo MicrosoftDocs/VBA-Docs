@@ -1,5 +1,5 @@
 ---
-title: DoCmd.PrintOut Method (Access)
+title: DoCmd.PrintOut method (Access)
 keywords: vbaac10.chm4166
 f1_keywords:
 - vbaac10.chm4166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.PrintOut Method (Access)
+# DoCmd.PrintOut method (Access)
 
 The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PrintRange_|Optional|**AcPrintRange**|A  **[AcPrintRange](Access.AcPrintRange.md)** constant that specifies the range to print. The default value is **acPrintAll**.|
 | _PageFrom_|Optional|**Variant**|The first page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for the _printrange_ argument.|

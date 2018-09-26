@@ -27,7 +27,7 @@ Creates a new attachment in the  **[Attachments](Outlook.Attachments.md)** colle
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The source of the attachment. This can be a file (represented by the full file system path with a file name) or an Outlook item that constitutes the attachment.|
 | _Type_|Optional| **Long**|The type of the attachment. Can be one of the  **[OlAttachmentType](Outlook.OlAttachmentType.md)** constants.|

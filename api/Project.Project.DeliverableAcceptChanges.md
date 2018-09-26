@@ -24,7 +24,7 @@ Accepts the changes on the server for a deliverable.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable for which to accept changes.|
 

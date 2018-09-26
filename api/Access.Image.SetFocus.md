@@ -1,5 +1,5 @@
 ---
-title: Image.SetFocus Method (Access)
+title: Image.SetFocus method (Access)
 keywords: vbaac10.chm10360
 f1_keywords:
 - vbaac10.chm10360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.SetFocus Method (Access)
+# Image.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

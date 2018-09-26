@@ -24,7 +24,7 @@ Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[XlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
 | _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|

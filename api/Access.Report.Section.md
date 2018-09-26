@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The section number or name.|
 

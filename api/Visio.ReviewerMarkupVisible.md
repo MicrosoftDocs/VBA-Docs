@@ -24,7 +24,7 @@ Gets or sets a value that indicates whether markup of the specified reviewer is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 

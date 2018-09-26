@@ -27,7 +27,7 @@ Returns a  **String** representing a specified workbook from a server to a local
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to check out.|
 

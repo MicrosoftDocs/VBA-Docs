@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Add Method (Access)
+title: FormatConditions.Add method (Access)
 keywords: vbaac10.chm10071
 f1_keywords:
 - vbaac10.chm10071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.Add Method (Access)
+# FormatConditions.Add method (Access)
 
 You can use the  **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [FormatConditions](Access.FormatCondit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**AcFormatConditionType**|An  **[AcFormatConditionType](Access.AcFormatConditionType.md)** constant that specifies the type of format condition to be added.|
 | _Operator_|Optional|**AcFormatConditionOperator**|An  **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)** constant that specified the operator. If the _Type_ argument is **acExpression**, the _Operator_ argument is ignored. If you leave this argument blank, the default constant (**acBetween**) is assumed.|

@@ -24,7 +24,7 @@ Gets the name of the specified page in the drawing that is open in Microsoft Vis
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageIndex|Required| **Long**|The index of the page whose name you want to get.|
 

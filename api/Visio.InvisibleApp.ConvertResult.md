@@ -27,7 +27,7 @@ Converts a string or number into an equivalent number in different measurement u
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StringOrNumber_|Required| **Variant**|String or number to be converted; can be a string, floating point number, or integer.|
 | _UnitsIn_|Required| **Variant**|Measurement units to attribute to  _StringOrNumber_.|

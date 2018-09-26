@@ -27,7 +27,7 @@ Prints the contents of the active document and provides various printing options
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PrintRange_|Required| **VisPrintOutRange**|The range of document pages to be printed. See Remarks for possible values.|
 | _FromPage_|Optional| **Long**| If PrintRange is **visPrintFromTo** , the first page in the range to be printed. The default is 1, which indicates the first page of the drawing.|

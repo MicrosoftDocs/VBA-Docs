@@ -27,7 +27,7 @@ Sets save options for project files.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DefaultSaveFormat_|Optional|**String**|Specifies the default format when saving a file. Can be one of the following strings: "MSProject.mpp", "MSProject.mpt", "MSProject.mpp12", or "MSProject.mpp9".|
 | _DefaultProjectsPath_|Optional|**String**|Specifies the default location for project files.|

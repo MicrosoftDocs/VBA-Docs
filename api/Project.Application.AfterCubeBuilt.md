@@ -24,7 +24,7 @@ Occurs when the OLAP cube-building process completes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CubeFileName_|Required|**String**|Name of the cube file.|
 

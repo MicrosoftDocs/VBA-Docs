@@ -24,7 +24,7 @@ Occurs before a project is saved.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that will be saved.|
 

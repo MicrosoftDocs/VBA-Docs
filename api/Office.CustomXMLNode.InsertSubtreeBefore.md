@@ -27,7 +27,7 @@ Inserts the specified subtree into the location just before the context node.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Represents the subtree to be added. |
 | _NextSibling_|Optional|**CustomXMLNode**|Specifies the context node.|

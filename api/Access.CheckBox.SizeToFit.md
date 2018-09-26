@@ -1,5 +1,5 @@
 ---
-title: CheckBox.SizeToFit Method (Access)
+title: CheckBox.SizeToFit method (Access)
 keywords: vbaac10.chm10687
 f1_keywords:
 - vbaac10.chm10687
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.SizeToFit Method (Access)
+# CheckBox.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcShowToolbar enumeration (Access)
 
-Used with the [DoCmd.ShowToolbar Method (Access)](Access.DoCmd.ShowToolbar.md) method to specify whether to display a particular custom toolbar.
+Used with the [DoCmd.ShowToolbar method (Access)](Access.DoCmd.ShowToolbar.md) method to specify whether to display a particular custom toolbar.
 
 
 

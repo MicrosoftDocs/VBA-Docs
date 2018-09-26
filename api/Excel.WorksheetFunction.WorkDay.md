@@ -27,7 +27,7 @@ Returns a number that represents a date that is the indicated number of working 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - a date that represents the start date.|
 | _Arg2_|Required| **Variant**|Days - the number of nonweekend and nonholiday days before or after start_date. A positive value for days yields a future date; a negative value yields a past date.|

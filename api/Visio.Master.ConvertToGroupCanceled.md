@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ConvertToGroupCanceled'(**_ByVal Selection As [IVSEL
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that was going to be grouped.|
 

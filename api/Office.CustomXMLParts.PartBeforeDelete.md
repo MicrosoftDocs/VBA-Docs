@@ -27,7 +27,7 @@ Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLPa
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OldPart_|Required|**CustomXMLPart**|The part that is about to be deleted.|
 

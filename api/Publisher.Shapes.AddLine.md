@@ -27,7 +27,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the sp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |BeginX|Required| **Variant**|The x-coordinate of the beginning point of the line.|
 |BeginY|Required| **Variant**|The y-coordinate of the beginning point of the line.|

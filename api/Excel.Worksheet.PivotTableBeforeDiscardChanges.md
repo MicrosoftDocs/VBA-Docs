@@ -27,7 +27,7 @@ Occurs before changes to a PivotTable are discarded.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the changes to discard.|
 | _ValueChangeStart_|Required| **Long**|The index to the first change in the associated  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object. The index is specified by the **[Order](Excel.ValueChange.Order.md)** property of the **[ValueChange](Excel.ValueChange.md)** object in the **PivotTableChangeList** collection.|

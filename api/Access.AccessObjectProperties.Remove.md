@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperties.Remove Method (Access)
+title: AccessObjectProperties.Remove method (Access)
 keywords: vbaac10.chm12704
 f1_keywords:
 - vbaac10.chm12704
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperties.Remove Method (Access)
+# AccessObjectProperties.Remove method (Access)
 
-You can use the  **Remove** method to remove an **AccessObjectProperty** object from the **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection of an **[AccessObject](Access.AccessObject.md)** object.
+You can use the **Remove** method to remove an **AccessObjectProperty** object from the **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection of an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ _expression_ A variable that represents an [AccessObjectProperties](Access.Acces
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the object argument. If a numeric expression, the index argument must be a number from 0 to the value of the collection's  **Count** property minus 1. If a string expression, the index argument must be the name of a member of the collection.|
+| _Item_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the object argument. If a numeric expression, the index argument must be a number from 0 to the value of the collection's **Count** property minus 1. If a string expression, the index argument must be the name of a member of the collection.|
 
 ## See also
 

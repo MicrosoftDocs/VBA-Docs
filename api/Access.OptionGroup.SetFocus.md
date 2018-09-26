@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.SetFocus Method (Access)
+title: OptionGroup.SetFocus method (Access)
 keywords: vbaac10.chm10816
 f1_keywords:
 - vbaac10.chm10816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.SetFocus Method (Access)
+# OptionGroup.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

@@ -27,7 +27,7 @@ Obtains appropriate storage for a form region based on the specified information
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormRegionName_|Required| **String**|The internal name of the form region. This can be indicated by the <name> tag in the corresponding form region XML manifest.|
 | _Item_|Required| **Object**|The Outlook item object that caused the loading of the form region.|

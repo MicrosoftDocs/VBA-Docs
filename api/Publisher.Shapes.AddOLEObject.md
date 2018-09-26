@@ -27,7 +27,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing an OLE object to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the OLE object.|
 |Top|Required| **Variant**|The position of the top edge of the shape representing the OLE object.|

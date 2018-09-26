@@ -27,7 +27,7 @@ Returns information about installed file converters. Returns  **null** if there 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index1_|Optional| **Variant**|The long name of the converter, including the file-type search string in Windows (for example, "Lotus 1-2-3 Files (*.wk*)").|
 | _Index2_|Optional| **Variant**|The path of the converter DLL or code resource.|

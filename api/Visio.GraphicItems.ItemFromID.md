@@ -30,7 +30,7 @@ Returns a  **GraphicItem** object from the **GraphicItems** collection by using 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectID_|Required| **Long**|The unique ID of the  **GraphicItem** object to retrieve.|
 

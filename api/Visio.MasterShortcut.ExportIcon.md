@@ -27,7 +27,7 @@ Exports the icon for a  **Master** object to a named file or the Clipboard.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file to which to export the icon.|
 | _Flags_|Required| **Integer**|The format in which to write the exported file.|

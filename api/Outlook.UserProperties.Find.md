@@ -27,7 +27,7 @@ Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the requested property.|
 | _Custom_|Optional| **Variant**| **True** if custom properties on the item should be searched, **False** if built-in properties should be searched.|

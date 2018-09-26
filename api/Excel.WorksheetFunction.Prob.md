@@ -27,7 +27,7 @@ Returns the probability that values in a range are between two limits. If upper_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|X_range - the range of numeric values of x with which there are associated probabilities.|
 | _Arg2_|Required| **Variant**|Prob_range - a set of probabilities associated with values in x_range.|

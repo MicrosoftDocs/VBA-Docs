@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Requery Method (Access)
+title: DoCmd.Requery method (Access)
 keywords: vbaac10.chm4170
 f1_keywords:
 - vbaac10.chm4170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Requery Method (Access)
+# DoCmd.Requery method (Access)
 
 Carries out the Requery action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlName_|Optional|**Variant**|A string expression that's the name of a control on the active object.|
 

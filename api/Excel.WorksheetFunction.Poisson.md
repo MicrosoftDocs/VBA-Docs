@@ -35,7 +35,7 @@ For more information about the new function, see the [Poisson_Dist](Excel.Worksh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the number of events.|
 | _Arg2_|Required| **Double**|Mean - the expected numeric value.|

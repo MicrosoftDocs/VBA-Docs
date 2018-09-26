@@ -1,5 +1,5 @@
 ---
-title: Attachment.SetFocus Method (Access)
+title: Attachment.SetFocus method (Access)
 keywords: vbaac10.chm13909
 f1_keywords:
 - vbaac10.chm13909
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.SetFocus Method (Access)
+# Attachment.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

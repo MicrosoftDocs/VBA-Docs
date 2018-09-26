@@ -27,7 +27,7 @@ Returns the modified internal rate of return for a series of periodic cash flows
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Values - an array or a reference to cells that contain numbers. These numbers represent a series of payments (negative values) and income (positive values) occurring at regular periods.|
 | _Arg2_|Required| **Double**|Finance_rate - the interest rate you pay on the money used in the cash flows.|

@@ -24,7 +24,7 @@ Returns a single  **[Axis](Word.Axis.md)** object from an **Axes** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlAxisType](Word.xlaxistype.md)**|One of the enumeration values that specifies the axis type.|
 | _AxisGroup_|Optional| **[XlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis.|

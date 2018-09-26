@@ -27,7 +27,7 @@ Sets the date format for text around bars on the Gantt Chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following  **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 

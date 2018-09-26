@@ -24,7 +24,7 @@ Gets the range of text specified by the index number from the  **TextRange2** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number of the text range.|
 

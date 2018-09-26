@@ -27,7 +27,7 @@ Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or the value used to match the default property of an object in the collection.|
 

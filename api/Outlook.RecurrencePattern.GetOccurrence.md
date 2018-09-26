@@ -27,7 +27,7 @@ Returns a specific instance of the  **[AppointmentItem](Outlook.AppointmentItem.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required| **Date**|A  **Date** value that represents local time.|
 

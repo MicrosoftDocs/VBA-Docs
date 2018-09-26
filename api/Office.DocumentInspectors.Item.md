@@ -27,7 +27,7 @@ Gets the  **DocumentInspector** object specified by the index. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the object. |
 

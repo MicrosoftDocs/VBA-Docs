@@ -1,5 +1,5 @@
 ---
-title: Application.NewAccessProject Method (Access)
+title: Application.NewAccessProject method (Access)
 keywords: vbaac10.chm12580
 f1_keywords:
 - vbaac10.chm12580
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NewAccessProject Method (Access)
+# Application.NewAccessProject method (Access)
 
 You can use the  **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Microsoft Access window.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|the name of the new Access project, including the path name and the file name extension.|
 | _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO  **ConnectionString** property for details about this string.|

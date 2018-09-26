@@ -27,7 +27,7 @@ Finds the placeholder in the  **[Placeholders](PowerPoint.Placeholders.md)** col
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index of the placeholder to be found.|
 

@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PresetTextEffect|Required| **MsoPresetTextEffect**|The preset text effect to use. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
 |Text|Required| **String**|The text to use for the WordArt object.|

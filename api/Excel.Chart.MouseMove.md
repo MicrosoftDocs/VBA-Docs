@@ -27,7 +27,7 @@ Occurs when the position of the mouse pointer changes over a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required| **Long**|The mouse button that was released. Can be one of the following  **[XlMouseButton](Excel.XlMouseButton.md)** constants: **xlNoButton** , **xlPrimaryButton** , or **xlSecondaryButton** .|
 | _Shift_|Required| **Long**|The state of the SHIFT, CTRL, and ALT keys when the event occurred. Can be one of or a sum of values.|

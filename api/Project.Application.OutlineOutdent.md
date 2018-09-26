@@ -27,7 +27,7 @@ Promotes a task in the outline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Levels_|Optional|**Long**|A number that specifies how many levels to indent the task. Applies to  **Application** object only. The default value is 1.|
 

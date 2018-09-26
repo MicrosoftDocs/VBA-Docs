@@ -24,7 +24,7 @@ Private Sub  _expression_ _'SuspendEventsCanceled'(**_ByVal app As_** , )
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio in which firing of events was going to be suspended.|
 

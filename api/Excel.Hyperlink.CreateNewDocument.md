@@ -27,7 +27,7 @@ Creates a new document linked to the specified hyperlink.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The file name of the specified document.|
 | _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment.. The default value is **True** .|

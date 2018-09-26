@@ -27,7 +27,7 @@ Selects a custom XML part matching a GUID.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|Contains the GUID for the custom XML part. |
 

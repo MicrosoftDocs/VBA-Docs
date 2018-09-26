@@ -27,7 +27,7 @@ Returns the quartile of the data set, based on percentile values from 0..1, excl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - The array or cell range of numeric values for which you want the quartile value.|
 | _Arg2_|Required| **Double**|Quart - The value to return.|

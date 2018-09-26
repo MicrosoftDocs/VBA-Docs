@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlType_|Required|**Long**|An  **[AcControlType](Access.AcControlType.md)** constant that indicates the type of control for which default property settings are to be set.|
 

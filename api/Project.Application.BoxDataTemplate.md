@@ -27,7 +27,7 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the template to edit, create, copy or delete.|
 | _action_|Required|**Long**|The operation to perform on the template. Can be one of the following  **[PjDataTemplate](Project.PjDataTemplate.md)** constants: **pjDataTemplateCopy**, **pjDataTemplateDelete**, **pjDataTemplateNew**, or **pjDataTemplateRename**.|

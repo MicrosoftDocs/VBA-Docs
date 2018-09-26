@@ -27,7 +27,7 @@ Applies or removes bold formatting from the selected text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Boolean**|**True** if bold formatting is applied to the selected text. **False** if bold formatting is removed from the selected text. The default value is **False** if the selected text is bold and **True** if the selected text is not bold.|
 

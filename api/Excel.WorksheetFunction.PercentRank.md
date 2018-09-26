@@ -31,7 +31,7 @@ For more information about the new functions, see the [Percentile_Inc](Excel.Wor
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - the array or range of data with numeric values that defines relative standing.|
 | _Arg2_|Required| **Double**|X - the value for which you want to know the rank.|

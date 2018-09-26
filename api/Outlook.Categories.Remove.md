@@ -27,7 +27,7 @@ Removes an object from the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the **[Name](Outlook.Category.Name.md)** or **[CategoryID](Outlook.Category.CategoryID.md)** property value of an object in the collection.|
 

@@ -27,7 +27,7 @@ Copies the  **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Specifies the folder to which the  **AppointmentItem** object is copied.|
 | _CopyOptions_|Required| **[OlAppointmentCopyOptions](Outlook.OlAppointmentCopyOptions.md)**|Specifies the user experience of the copy operation.|

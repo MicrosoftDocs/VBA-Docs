@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ScreenTipText_|Required|**Object**|Set the Value property of this object to the ScreenTip that you want to display. Changing this argument to an empty string effectively hides the ScreenTip.|
 | _SourceObject_|Required|**Object**|The object that generates the ScreenTip.|

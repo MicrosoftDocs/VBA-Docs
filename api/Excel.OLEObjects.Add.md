@@ -27,7 +27,7 @@ Adds a new OLE object to a sheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|(you must specify either  _ClassType_ or _FileName_). A string that contains the programmatic identifier for the object to be created. If  _ClassType_ is specified, _FileName_ and _Link_ are ignored.|
 | _FileName_|Optional| **Variant**|(you must specify either  _ClassType_ or _FileName_). A string that specifies the file to be used to create the OLE object.|

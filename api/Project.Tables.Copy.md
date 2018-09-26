@@ -27,7 +27,7 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The name of the table to copy.|
 | _NewName_|Required|**String**|The name of the new table.|

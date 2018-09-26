@@ -27,7 +27,7 @@ Returns an  **[OrderField](Outlook.OrderField.md)** object from the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The value can be a one-based integer that indexes an  **OrderField** object in the **[OrderFields](Outlook.OrderFields.md)** collection, a string that matches the **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property value of an **OrderField** object in the collection, or a field name as displayed in the Field Chooser.|
 

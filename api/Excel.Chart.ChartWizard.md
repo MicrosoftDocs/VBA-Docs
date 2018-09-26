@@ -27,7 +27,7 @@ Modifies the properties of the given chart. You can use this method to quickly f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Optional| **Variant**|The range that contains the source data for the new chart. If this argument is omitted, Microsoft Excel edits the active chart sheet or the selected chart on the active worksheet.|
 | _Gallery_|Optional| **Variant**|One of the constants of  **[XlChartType](Excel.XlChartType.md)** specifying the chart type.|

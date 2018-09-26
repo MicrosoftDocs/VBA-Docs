@@ -27,7 +27,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The cell's section index.|
 | _Row_|Required| **Integer**|The cell's row index.|

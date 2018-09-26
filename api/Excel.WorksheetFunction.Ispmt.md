@@ -27,7 +27,7 @@ Calculates the interest paid during a specific period of an investment. This fun
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate for the investment.|
 | _Arg2_|Required| **Double**|Per - the period for which you want to find the interest, and must be between 1 and nper.|

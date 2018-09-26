@@ -30,7 +30,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document.|
 | _DataRowID_|Required| **Long**|The ID of a data row in the data recordset specified in DataRecordsetID.|

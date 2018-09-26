@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenQuery Method (Access)
+title: DoCmd.OpenQuery method (Access)
 keywords: vbaac10.chm4162
 f1_keywords:
 - vbaac10.chm4162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenQuery Method (Access)
+# DoCmd.OpenQuery method (Access)
 
 The  **OpenQuery** method carries out the **OpenQuery** action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _QueryName_|Required|**Variant**|A string expression that's the valid name of a query in the current database. If you execute Visual Basic code containing the  **OpenQuery** method in a library database, Microsoft Access looks for the query with this name first in the library database, then in the current database.|
 | _View_|Optional|**AcView**|A  **[AcView](Access.AcView.md)** constant that specifies the view in which the query will open. The default value is **acViewNormal**.|

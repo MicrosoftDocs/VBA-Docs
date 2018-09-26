@@ -27,7 +27,7 @@ Returns the integer portion of a division. Use this function when you want to di
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Numerator - the dividend.|
 | _Arg2_|Required| **Variant**|Denominator - the divisor.|

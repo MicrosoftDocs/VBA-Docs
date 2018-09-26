@@ -27,7 +27,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CustomUIXML_|Required|**String**|Valid XML data for modifying the ribbon.|
 

@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlBeforeDelete'(**_OldContentControl_** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OldContentControl_|Required| **ContentControl**|The content control being deleted.|
 | _InUndoRedo_|Required| **Boolean**| Specifies whether the removal is taking place as part an undo or redo action.|

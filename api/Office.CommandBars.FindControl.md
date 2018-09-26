@@ -30,7 +30,7 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|The type of control.|
 | _Id_|Optional|**Variant**|The identifier of the control.|

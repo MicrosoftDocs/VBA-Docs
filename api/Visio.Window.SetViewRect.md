@@ -27,7 +27,7 @@ Sets the page coordinates of a window's borders by adjusting the zoom level and 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _dLeft_|Required| **Double**|The page coordinate of the left side of the window.|
 | _dTop_|Required| **Double**|The page coordinate of the top of the window.|

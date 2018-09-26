@@ -27,7 +27,7 @@ Changes the brightness of the picture by the specified amount.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies how much to change the value of the  **Brightness** property for the picture. A positive value makes the picture brighter; a negative value makes the picture darker.|
 

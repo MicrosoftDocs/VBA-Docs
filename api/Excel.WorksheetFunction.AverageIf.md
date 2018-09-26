@@ -27,7 +27,7 @@ Returns the average (arithmetic mean) of all the cells in a range that meet a gi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|One or more cells to average.|
 | _Arg2_|Required| **Variant**|The criteria in the form of a number, expression, cell reference, or text that defines which cells are averaged. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|

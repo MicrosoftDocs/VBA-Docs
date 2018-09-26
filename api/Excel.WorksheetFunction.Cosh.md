@@ -27,7 +27,7 @@ Returns the hyperbolic cosine of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number for which you want to find the hyperbolic cosine.|
 

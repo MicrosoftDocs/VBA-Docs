@@ -30,7 +30,7 @@ Returns the sum of a power series based on the formula:
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|X - the input value to the power series.|
 | _Arg2_|Required| **Variant**|N - the initial power to which you want to raise x.|

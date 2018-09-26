@@ -24,7 +24,7 @@ Occurs before Project exits.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Info_|Required|**EventInfo**|**EventInfo.Cancel** is **False** when the event occurs. If the event procedure sets this argument to **True**, Project does not close when the procedure is finished.|
 

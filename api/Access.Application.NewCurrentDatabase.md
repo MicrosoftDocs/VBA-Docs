@@ -1,5 +1,5 @@
 ---
-title: Application.NewCurrentDatabase Method (Access)
+title: Application.NewCurrentDatabase method (Access)
 keywords: vbaac10.chm12612
 f1_keywords:
 - vbaac10.chm12612
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NewCurrentDatabase Method (Access)
+# Application.NewCurrentDatabase method (Access)
 
 Creates a new Microsoft Access database.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|A string expression that is the name of a new database file, including the path name and the file name extension. If your network supports it, you can also specify a network path in the following form: \\Server\Share\Folder\Filename|
 | _FileFormat_|Optional|**AcNewDatabaseFormat**|A  **[AcNewDatabaseFormat](Access.AcNewDatabaseFormat.md)** constant that specifes the file format to use for the newly created database.|

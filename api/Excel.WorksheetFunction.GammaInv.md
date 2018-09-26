@@ -31,7 +31,7 @@ For more information about the new function, see the [Gamma_Inv](Excel.Worksheet
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - the probability associated with the gamma distribution.|
 | _Arg2_|Required| **Double**|Alpha - a parameter to the distribution.|

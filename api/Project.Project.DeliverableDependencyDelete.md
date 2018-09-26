@@ -24,7 +24,7 @@ Deletes the dependency on the deliverable.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable from which to delete the dependency.|
 

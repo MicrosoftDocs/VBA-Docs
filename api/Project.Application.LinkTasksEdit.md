@@ -27,7 +27,7 @@ Edits task dependencies (task links).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Required|**Long**|**Long**. The identification number of a predecessor task.|
 | _To_|Required|**Long**|**Long**. The identification number of a successor task.|

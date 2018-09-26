@@ -27,7 +27,7 @@ Sets the location of the node specified by  _Index_. Note that, depending on the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The node whose position is to be set.|
 | _X1_|Required| **Single**|The position (in points) of the new node relative to the upper-left corner of the document.|

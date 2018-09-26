@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminateAll Method (Access)
+title: Application.DDETerminateAll method (Access)
 keywords: vbaac10.chm12544
 f1_keywords:
 - vbaac10.chm12544
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDETerminateAll Method (Access)
+# Application.DDETerminateAll method (Access)
 
 You can use the  **DDETerminateAll** statement to close all open dynamic data exchange (DDE) channels.
 

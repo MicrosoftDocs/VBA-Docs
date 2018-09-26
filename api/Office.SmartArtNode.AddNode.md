@@ -22,7 +22,7 @@ _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.m
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example, **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
 | _Type_|Optional|**MsoSmartArtNodeType**|Specifies the type of the added SmartArtNode. For example,  **msoSmartArtNodeTypeAssistant** or **msoSmartArtNodeTypeDefault**.|

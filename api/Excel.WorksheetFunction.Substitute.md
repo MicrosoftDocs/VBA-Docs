@@ -27,7 +27,7 @@ Substitutes new_text for old_text in a text string. Use SUBSTITUTE when you want
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text - the text or the reference to a cell containing text for which you want to substitute characters.|
 | _Arg2_|Required| **String**|Old_text - the text you want to replace.|

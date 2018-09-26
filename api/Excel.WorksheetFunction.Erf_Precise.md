@@ -27,7 +27,7 @@ Returns the error function integrated between zero and lower_limit.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lower_limit - the lower bound for integrating ERF.|
 

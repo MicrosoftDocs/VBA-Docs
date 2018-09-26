@@ -27,7 +27,7 @@ Sets the properties of an individual cell in a data template for a Network Diagr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of the data template containing the cell to edit.|
 | _Cell_|Required|**Long**|The cell to edit. Can be one of the  **[PjCell](Project.PjCell.md)** constants.|

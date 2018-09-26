@@ -27,7 +27,7 @@ Sets a custom icon file for a menu or toolbar item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _IconFileName_|Required| **String**|The path and name of the ICO, EXE, DLL, or VSL file to load.|
 

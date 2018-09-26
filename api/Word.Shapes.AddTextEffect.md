@@ -27,7 +27,7 @@ Adds a WordArt shape to a drawing canvas. Returns a  **Shape** object that repre
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetTextEffect_|Required| **MsoPresetTextEffect**|A preset text effect. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
 | _Text_|Required| **String**|The text in the WordArt.|

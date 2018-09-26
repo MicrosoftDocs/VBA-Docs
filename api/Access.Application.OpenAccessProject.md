@@ -1,5 +1,5 @@
 ---
-title: Application.OpenAccessProject Method (Access)
+title: Application.OpenAccessProject method (Access)
 keywords: vbaac10.chm12581
 f1_keywords:
 - vbaac10.chm12581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OpenAccessProject Method (Access)
+# Application.OpenAccessProject method (Access)
 
 You can use the  **OpenAccessProject** method to open an existing Microsoft Access project (.adp) as the current Access project in the Microsoft Access window.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|The name of the existing Access project, including the path name and the file name extension.|
 | _Exclusive_|Optional|**Boolean**|Specifies whether you want to open the Access project in exclusive mode. The default value is  **False**, which specifies that the Access project should be opened in shared mode.|

@@ -31,7 +31,7 @@ Returns the argument
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber is a complex number for which you want the argument theta.|
 

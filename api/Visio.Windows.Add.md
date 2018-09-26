@@ -27,7 +27,7 @@ Adds a new  **Window** object to the **Windows** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrCaption_|Optional| **Variant**|The title of window; default is "Untitled".|
 | _nFlags_|Optional| **Variant**| Initial window state. Can contain any combination of **[VisWindowStates](Visio.viswindowstates.md)** constants declared in the Visio type library; default varies based on the _nType_.|

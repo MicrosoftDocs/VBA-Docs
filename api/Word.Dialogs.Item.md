@@ -27,7 +27,7 @@ Returns a dialog in Microsoft Word.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdWordDialog**|A constant that specifies the dialog.|
 

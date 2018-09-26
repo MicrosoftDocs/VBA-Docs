@@ -1,5 +1,5 @@
 ---
-title: Application.RefreshDatabaseWindow Method (Access)
+title: Application.RefreshDatabaseWindow method (Access)
 keywords: vbaac10.chm12563
 f1_keywords:
 - vbaac10.chm12563
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RefreshDatabaseWindow Method (Access)
+# Application.RefreshDatabaseWindow method (Access)
 
 The  **RefreshDatabaseWindow** method updates the Database window after a database object has been created, deleted, or renamed.
 

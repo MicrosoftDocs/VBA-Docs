@@ -20,7 +20,7 @@ Scales the width of the shape by a specified factor.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|The ratio between the width of the shape after you resize it and the current width. For example, to make a rectangle 50 percent wider, specify 1.5 for the  _Factor_ parameter.|
 | _RelativeToOriginalSize_|Required|**[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**|**msoFalse** scales the shape relative to its current size. For Project, the value must be **msoFalse**.|

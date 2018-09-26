@@ -27,7 +27,7 @@ Determines whether the specified object variable references a valid object and r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Object|Required| **Object**|A variable that references an object.|
 

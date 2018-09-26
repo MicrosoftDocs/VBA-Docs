@@ -27,7 +27,7 @@ Returns the square root of (number * pi).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the number by which pi is multiplied.|
 

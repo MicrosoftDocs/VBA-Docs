@@ -27,7 +27,7 @@ Displays the  **Project Statistics** dialog box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Optional|**String**|The name of a project.|
 

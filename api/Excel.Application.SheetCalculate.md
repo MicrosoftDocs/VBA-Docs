@@ -27,7 +27,7 @@ Occurs after any worksheet is recalculated or after any changed data is plotted 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|Can be a  **[Chart](Excel.Chart(object).md)** or **[Worksheet](Excel.Worksheet.md)** object.|
 

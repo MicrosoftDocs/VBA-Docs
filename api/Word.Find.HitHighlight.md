@@ -24,7 +24,7 @@ _expression_ An expression that returns a **Find** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindText_|Required| **Variant**|Specifies the text to find. Use an empty string ("") to search for formatting only. You can search for special characters by specifying appropriate character codes. For example, `"^p"` corresponds to a paragraph mark and `"^t"` corresponds to a tab character.|
 | _HighlightColor_|Optional| **Variant**|Specifies the highlight color for the text. Can be any RGB color or one of the **[WdColor](Word.WdColor.md)** constants.|

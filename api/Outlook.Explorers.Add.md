@@ -27,7 +27,7 @@ Creates a new instance of the explorer window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Folder_|Required| **Variant**|The  **Variant** object to display in the explorer window when it is created.|
 | _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** constants.|

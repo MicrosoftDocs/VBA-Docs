@@ -27,7 +27,7 @@ Edits a local outline code custom field definition.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**PjCustomField**|Specifies the custom outline code to edit. Can be one of the non-enterprise  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Level_|Optional|**Long**|The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.|

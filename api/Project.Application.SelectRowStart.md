@@ -27,7 +27,7 @@ Selects the first cell in the row containing the active cell.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the first cell. The default value is **False**.|
 

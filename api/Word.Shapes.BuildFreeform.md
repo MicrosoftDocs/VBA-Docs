@@ -27,7 +27,7 @@ Builds a freeform object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EditingType_|Required| **MsoEditingType**|The editing property of the first node.|
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the left edge of the document.|

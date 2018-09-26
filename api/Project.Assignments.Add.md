@@ -24,7 +24,7 @@ Adds an  **Assignment** object to an **Assignments** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|The identification number of a task. Required if the parent object is a resource. The task is assigned the resource specified by ResourceID. The default value of  **TaskID** is the identification number of the parent object of the **Assignments** collection if the parent object is a **Task** object.|
 | _ResourceID_|Optional|**Long**|The identification number of a resource. Required if the parent object is a task. The resource is assigned the task specified with the TaskID argument. The default value of ResourceID is the identification number of the parent object of the  **Assignments** collection if the parent object is a **Resource** object.|

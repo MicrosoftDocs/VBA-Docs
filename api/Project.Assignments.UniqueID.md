@@ -24,7 +24,7 @@ Gets an  **[Assignment](Project.Assignment.md)** object from its containing coll
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The position of the object within its containing collection.|
 

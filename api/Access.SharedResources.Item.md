@@ -27,7 +27,7 @@ _expression_ A variable that represents a [SharedResources](Access.SharedResourc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**||
 

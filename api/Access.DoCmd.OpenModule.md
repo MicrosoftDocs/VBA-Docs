@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenModule Method (Access)
+title: DoCmd.OpenModule method (Access)
 keywords: vbaac10.chm4161
 f1_keywords:
 - vbaac10.chm4161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenModule Method (Access)
+# DoCmd.OpenModule method (Access)
 
 The  **OpenModule** method carries out the OpenModule action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ModuleName_|Optional|**Variant**| A string expression that's the valid name of the Visual Basic module you want to open. If you leave this argument blank, Microsoft Access searches all the standard modules in the database for the procedure you selected with the _procedurename_ argument and opens the module containing the procedure to that procedure. If you execute Visual Basic code containing the **OpenModule** method in a library database, Microsoft Access looks for the module with this name first in the library database, then in the current database.|
 | _ProcedureName_|Optional|**Variant**|A string expression that's the valid name for the procedure you want to open the module to. If you leave this argument blank, the module opens to the Declarations section.|

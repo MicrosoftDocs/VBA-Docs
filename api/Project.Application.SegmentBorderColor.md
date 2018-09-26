@@ -27,7 +27,7 @@ Sets the border color for the assignment segments of a selected task in the Team
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Color_|Required|**Long**|Border color of the assignment segments. The color is a hexadecimal RGB value, where red is the last byte.|
 

@@ -24,7 +24,7 @@ Removes one or more predecessors from the task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tasks_|Required|**Object**|Can be a **Task** or **Tasks** object, which specifies one or more tasks that are removed as predecessors.|
 

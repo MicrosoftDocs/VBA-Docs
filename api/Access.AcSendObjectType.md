@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcSendObjectType enumeration (Access)
 
-Used with the [DoCmd.SendObject Method (Access)](Access.DoCmd.SendObject.md) method to specify the type of object to send.
+Used with the [DoCmd.SendObject method (Access)](Access.DoCmd.SendObject.md) method to specify the type of object to send.
 
 
 

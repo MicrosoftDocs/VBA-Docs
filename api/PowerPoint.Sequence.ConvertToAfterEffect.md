@@ -27,7 +27,7 @@ Specifies what an effect should do after it is finished. Returns an  **[Effect](
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|The effect to which the after effect will be added.|
 | _After_|Required|**[MsoAnimAfterEffect](PowerPoint.MsoAnimAfterEffect.md)**|The behavior of the after effect.|

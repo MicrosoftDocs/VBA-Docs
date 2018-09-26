@@ -27,7 +27,7 @@ Returns a  **[FileDialog](Office.FileDialog.md)** object representing an instanc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fileDialogType_|Required| **[MsoFileDialogType](Office.MsoFileDialogType.md)**|The type of file dialog.|
 

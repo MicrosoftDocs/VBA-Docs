@@ -27,7 +27,7 @@ Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTabl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specfied **PivotTable** .|
 

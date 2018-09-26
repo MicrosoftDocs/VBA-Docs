@@ -1,5 +1,5 @@
 ---
-title: TempVars.RemoveAll Method (Access)
+title: TempVars.RemoveAll method (Access)
 keywords: vbaac10.chm14071
 f1_keywords:
 - vbaac10.chm14071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVars.RemoveAll Method (Access)
+# TempVars.RemoveAll method (Access)
 
 Removes all of the  **[TempVar](Access.TempVar.md)** objects from the **[TempVars](Access.TempVars.md)** collection.
 

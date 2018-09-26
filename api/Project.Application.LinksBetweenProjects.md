@@ -27,7 +27,7 @@ Specifies whether the  **Links between Projects** dialog box appears when openin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AcceptAll_|Optional|**Boolean**|**True** if all changes to external predecessors and successors are accepted. **False** if the **Links between Projects** dialog box appears. The default value is **False**.|
 

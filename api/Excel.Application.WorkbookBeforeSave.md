@@ -28,7 +28,7 @@ Occurs before any open workbook is saved.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box will be displayed due to changes made that need to be saved in the workbook.|

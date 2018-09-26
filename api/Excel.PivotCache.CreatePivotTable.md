@@ -27,7 +27,7 @@ Creates a PivotTable report based on a  **[PivotCache](Excel.PivotCache.md)** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report?s destination range (the range on the worksheet where the resulting PivotTable report will be placed). The destination range must be on a worksheet in the workbook that contains the  **PivotCache** object specified by _expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|

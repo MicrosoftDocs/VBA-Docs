@@ -27,7 +27,7 @@ Draws a new shape that represents the region containing a given point.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tolerance_|Required| **Double**|Error tolerance when determining the coincidence of points. A distance expressed in internal units in the coordinate space of the  **Selection** object's containing shape; the maximum gap between paths that is tolerated when constructing the boundaries of a region.|
 | _Flags_|Required| **Integer**|A constant or integer that specifies how to draw the region.|

@@ -27,7 +27,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** object that represents the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |TagName|Required| **String**|The name of the tag.|
 

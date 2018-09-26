@@ -27,7 +27,7 @@ Sets the display picture from a picture file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FilePath_|Required|**String**|The path to the display picture file. |
 

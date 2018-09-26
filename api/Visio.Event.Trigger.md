@@ -27,7 +27,7 @@ Causes an event's action to be performed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContextString_|Required| **String**| The string to send to the target of the event.|
 

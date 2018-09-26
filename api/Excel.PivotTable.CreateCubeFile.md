@@ -27,7 +27,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _File_|Required| **String**|The name of the cube file to be created. It will overwrite the file if it already exists.|
 | _Measures_|Optional| **Variant**|An array of unique names of measures that are to be part of the slice.|

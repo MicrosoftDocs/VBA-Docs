@@ -27,7 +27,7 @@ Appends a single node as the last child under the context element node in the tr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Represents the base name of the element to be appended.|
 | _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be appended. This parameter is required to append nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|

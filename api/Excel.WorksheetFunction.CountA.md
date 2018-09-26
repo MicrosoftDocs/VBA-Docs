@@ -27,7 +27,7 @@ Counts the number of cells that are not empty and the values within the list of 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|1 to 30 arguments representing the values you want to count.|
 

@@ -27,7 +27,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to complete.|
 

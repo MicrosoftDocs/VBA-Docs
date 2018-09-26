@@ -27,7 +27,7 @@ Occurs after a PivotTable report is updated on a worksheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 

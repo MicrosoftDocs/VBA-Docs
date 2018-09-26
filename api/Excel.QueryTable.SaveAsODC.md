@@ -27,7 +27,7 @@ Saves the QueryTable cache source as an Microsoft Office Data Connection file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ODCFileName_|Required| **String**|Location to save the file.|
 | _Description_|Optional| **Variant**|Description that will be saved in the file.|

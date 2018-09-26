@@ -27,7 +27,7 @@ Automatically adds XE (Index Entry) fields to the specified document, using the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConcordanceFileName_|Required| **String**|The concordance file name that includes a list of items to be indexed.|
 

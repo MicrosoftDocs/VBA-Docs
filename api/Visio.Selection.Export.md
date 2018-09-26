@@ -27,7 +27,7 @@ Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The fully qualified path and name of the file to receive the exported object.|
 

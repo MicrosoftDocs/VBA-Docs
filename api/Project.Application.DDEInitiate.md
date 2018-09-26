@@ -27,7 +27,7 @@ Opens a dynamic data exchange (DDE) channel to an application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _App_|Required|**String**| The name of the application to which you want to send commands.|
 | _Topic_|Required|**String**|A document in the application to which you want to send commands.|

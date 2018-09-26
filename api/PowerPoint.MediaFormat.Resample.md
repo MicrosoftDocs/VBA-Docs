@@ -27,7 +27,7 @@ Adds the current media object to the queue and begins resampling, based on the s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Trim_|Optional|**Boolean**|Whether to trim the sample.|
 | _SampleHeight_|Optional|**Integer**|The sample resolution height.|

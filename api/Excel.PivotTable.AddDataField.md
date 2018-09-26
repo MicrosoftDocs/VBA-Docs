@@ -27,7 +27,7 @@ Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotF
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required| **Object**|The unique field on the server. If the source data is Online Analytical Processing (OLAP), the unique field is a cube field. If the source data is non-OLAP (non-OLAP source data), the unique field is a PivotTable field.|
 | _Caption_|Optional| **Variant**|The label used in the PivotTable report to identify this data field.|

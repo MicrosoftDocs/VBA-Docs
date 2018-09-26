@@ -27,7 +27,7 @@ Saves the workbook and protects it for sharing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional| **Variant**|A string indicating the name of the saved file. You can include a full path; if you don?t, Microsoft Excel saves the file in the current folder.|
 | _Password_|Optional| **Variant**|A case-sensitive string indicating the protection password to be given to the file. Should be no longer than 15 characters.|

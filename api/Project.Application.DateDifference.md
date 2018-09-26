@@ -27,7 +27,7 @@ Returns the duration between two dates in minutes, for an automatically schedule
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|The date used as the beginning of the duration.|
 | _FinishDate_|Required|**Variant**|The date used as the end of the duration.|

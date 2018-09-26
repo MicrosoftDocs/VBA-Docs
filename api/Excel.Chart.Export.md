@@ -27,7 +27,7 @@ Exports the chart in a graphic format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the exported file.|
 | _FilterName_|Optional| **Variant**|The language-independent name of the graphic filter as it appears in the registry.|

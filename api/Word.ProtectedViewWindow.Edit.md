@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PasswordTemplate_|Optional| **Variant**|The password for opening the template.|
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|

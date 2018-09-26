@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SendObject Method (Access)
+title: DoCmd.SendObject method (Access)
 keywords: vbaac10.chm4180
 f1_keywords:
 - vbaac10.chm4180
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# DoCmd.SendObject Method (Access)
+# DoCmd.SendObject method (Access)
 
 The **SendObject** method carries out the **SendObject** action in Visual Basic.
 
@@ -25,7 +25,7 @@ _expression_ A variable that represents a **DoCmd** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcSendObjectType**|A **[AcSendObjectType](Access.AcSendObjectType.md)** constant that specifies the type of object to send.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _ObjectType_ argument. If you want to include the active object in the mail message, specify the object's type with the _ObjectType_ argument and leave this argument blank. If you leave both the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acSendNoObject**, is assumed for the _ObjectType_ argument), Microsoft Access sends a message to the electronic mail application without an included database object. If you run Visual Basic code containing the **SendObject** method in a library database, Microsoft Access looks for the object with this name first in the library database, then in the current database.|

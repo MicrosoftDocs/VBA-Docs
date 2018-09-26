@@ -24,7 +24,7 @@ Private Sub  _expression_ _'QueryCancelDocumentClose'(**_ByVal doc As [IVDOCUMEN
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _doc_|Required| **[IVDOCUMENT]**|The document that is going to be closed.|
 

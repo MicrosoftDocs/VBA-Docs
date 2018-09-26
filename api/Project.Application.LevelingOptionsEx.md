@@ -27,7 +27,7 @@ Specifies leveling options for the active project, including leveling of manuall
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Automatic_|Optional|**Boolean**|**True** if Project automatically levels tasks in the active project. **False** if leveling is manual. The default value is **False**.|
 | _DelayInSlack_|Optional|**Boolean**|**True** if the active project can be leveled only within the available slack time. **False** if the project can be delayed to level resources. The default value is **False**.|

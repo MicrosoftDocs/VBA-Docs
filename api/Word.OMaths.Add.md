@@ -27,7 +27,7 @@ Creates an equation, from the text equation contained within the specified range
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|Specifies a range that contains a text equation.|
 

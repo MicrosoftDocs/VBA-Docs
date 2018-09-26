@@ -27,7 +27,7 @@ Sets the date range for the sparkline group.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateRange_|Required| **String**|The date range for the sparkline group.|
 

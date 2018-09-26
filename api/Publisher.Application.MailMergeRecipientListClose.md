@@ -27,7 +27,7 @@ Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The current publication.|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcTextTransferType enumeration (Access)
 
-Used with the [DoCmd.TransferText Method (Access)](Access.DoCmd.TransferText.md) method to specify the type of transfer you want to make.
+Used with the [DoCmd.TransferText method (Access)](Access.DoCmd.TransferText.md) method to specify the type of transfer you want to make.
 
 
 

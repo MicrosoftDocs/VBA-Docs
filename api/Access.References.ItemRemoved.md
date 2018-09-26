@@ -27,7 +27,7 @@ _expression_ A variable that represents a [References](Access.References.md) obj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reference_|Required|**Reference**|The reference that was removed from the project.|
 

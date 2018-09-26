@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Move Method (Access)
+title: ComboBox.Move method (Access)
 keywords: vbaac10.chm11472
 f1_keywords:
 - vbaac10.chm11472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Move Method (Access)
+# ComboBox.Move method (Access)
 
 Moves the specified object to the coordinates specified by the argument values.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Variant**|The screen position in twips for the left edge of the object relative to the left edge of the Microsoft Access window.|
 | _Top_|Optional|**Variant**|The screen position in twips for the top edge of the object relative to the top edge of the Microsoft Access window.|

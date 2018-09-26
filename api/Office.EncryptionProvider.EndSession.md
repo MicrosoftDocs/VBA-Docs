@@ -27,7 +27,7 @@ Ends the current encryption session.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 

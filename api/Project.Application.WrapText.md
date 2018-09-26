@@ -27,7 +27,7 @@ Toggles the  **Wrap Text** setting in a column.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Integer**|The target column identifier. If omitted, the  **WrapText** method is applied to the column containing the active cell.|
 

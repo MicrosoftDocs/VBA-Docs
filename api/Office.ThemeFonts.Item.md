@@ -24,7 +24,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**MsoFontLanguageIndex**|The index value of the  **ThemeFont** object.|
 

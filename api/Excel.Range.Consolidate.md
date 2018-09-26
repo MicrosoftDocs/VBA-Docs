@@ -27,7 +27,7 @@ Consolidates data from multiple ranges on multiple worksheets into a single rang
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sources_|Optional| **Variant**|The sources of the consolidation as an array of text reference strings in R1C1-style notation. The references must include the full path of sheets to be consolidated.|
 | _Function_|Optional| **Variant**|One of the constants of  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** which specifies the type of consolidation.|

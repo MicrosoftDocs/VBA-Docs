@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Move Method (Access)
+title: NavigationButton.Move method (Access)
 keywords: vbaac10.chm10507
 f1_keywords:
 - vbaac10.chm10507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Move Method (Access)
+# NavigationButton.Move method (Access)
 
 Moves the specified object to the coordinates specified by the argument values.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [NavigationButton](Access.NavigationBu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Variant**||
 | _Top_|Optional|**Variant**||

@@ -27,7 +27,7 @@ Manages tasks on the Timeline pane or for a specified custom timeline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|Specifies the identification number of a task to add to the timeline or remove from the timeline. If  _TaskID_ is specified, selected tasks are ignored.|
 | _Remove_|Optional|**Boolean**|**True** if the task specified by _TaskID_ or the selected tasks are removed from the timeline; otherwise, **False**. The default value is **False**.|

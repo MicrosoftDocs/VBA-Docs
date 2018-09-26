@@ -27,7 +27,7 @@ Starts a Help file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**String**|The file name (with either .hlp or .chm extension) of the Help file to start. If FileName is not specified and Search is  **False**, the Project **Help** window appears with the navigation pane expanded.|
 | _ContextNumber_|Optional|**Long**|The context number of a topic to display.|

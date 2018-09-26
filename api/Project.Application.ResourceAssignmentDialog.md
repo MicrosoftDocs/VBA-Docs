@@ -27,7 +27,7 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowResourceListOptions_|Optional|**Boolean**|**True** if Project expands the **Resource list options**. The default value is  **False**.|
 | _ResourceListFields_|Optional|**Long**|The fields listing data from the active project. Can be one of the following  **PjAssignResourcesListFields** constants: **pjAllColumns** or **pjBasic**. The default value is **pjAllColumns**.|

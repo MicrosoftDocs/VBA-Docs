@@ -27,7 +27,7 @@ Returns an array naming the folders Microsoft Visio would search, given a list o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PathsString_|Required| **String**|A string of full or partial paths separated by semicolons.|
 | _NameArray()_|Required| **String**|Out parameter. An array that receives the enumerated folder names.|

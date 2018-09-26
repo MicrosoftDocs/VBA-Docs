@@ -27,7 +27,7 @@ Returns an individual  **[FileExportConverter](Excel.FileExportConverter.md)** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|An integer that represents the individual object to be returned.|
 

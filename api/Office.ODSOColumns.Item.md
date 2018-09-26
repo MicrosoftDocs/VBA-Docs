@@ -27,7 +27,7 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varIndex_|Required|**Variant**|The index number of the item.|
 

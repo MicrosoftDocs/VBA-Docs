@@ -27,7 +27,7 @@ Deletes a tag.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|Tthe name of the tag to be deleted.|
 

@@ -27,7 +27,7 @@ Gets, deletes, or makes the GUID that uniquely identifies the shape within the s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fUniqueID_|Required| **Integer**|Gets, deletes, or makes the unique ID of a  **Shape** object. See Remarks for possible values.|
 

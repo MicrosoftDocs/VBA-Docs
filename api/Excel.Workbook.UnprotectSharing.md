@@ -27,7 +27,7 @@ Turns off protection for sharing and saves the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SharingPassword_|Optional| **Variant**|The workbook password.|
 

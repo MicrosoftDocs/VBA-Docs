@@ -27,7 +27,7 @@ Locates and returns a Microsoft Outlook item object that satisfies the given  _F
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|A string that specifies the criteria that the returned object must satisfy.|
 

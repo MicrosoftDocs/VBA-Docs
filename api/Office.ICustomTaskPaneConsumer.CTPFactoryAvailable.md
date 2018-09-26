@@ -27,7 +27,7 @@ Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then use
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CTPFactoryInst_|Required|**ICTPFactory**|The object is used by an add-in to create a task pane.|
 

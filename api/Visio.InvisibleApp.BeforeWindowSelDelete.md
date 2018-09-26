@@ -24,7 +24,7 @@ Private Sub  _expression_ _'BeforeWindowSelDelete'(**_ByVal Window As [IVWINDOW]
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window that contains the selection that is going to be deleted.|
 

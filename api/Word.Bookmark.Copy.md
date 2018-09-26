@@ -27,7 +27,7 @@ Copies a bookmark to the new bookmark specified in the Name argument, and return
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new bookmark.|
 

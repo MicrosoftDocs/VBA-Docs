@@ -27,7 +27,7 @@ Returns the correlation coefficient of the  _Arg1_ and _Arg2_ cell ranges.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|A cell range of values.|
 | _Arg2_|Required| **Variant**|A second cell range of values.|

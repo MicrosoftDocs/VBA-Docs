@@ -27,7 +27,7 @@ Builds a freeform object. Returns a  [FreeformBuilder](Publisher.FreeformBuilder
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |EditingType|Required| **MsoEditingType**|Specifies the editing type of the first node.|
 |X1|Required| **Variant**|The horizontal position of the first node in the freeform drawing relative to the upper-left corner of the page.|

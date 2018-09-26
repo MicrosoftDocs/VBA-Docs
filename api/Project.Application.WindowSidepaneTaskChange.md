@@ -24,7 +24,7 @@ Occurs when a user selects different items in the  **Next Steps and Related Acti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
 | _ID_|Required|**Long**|The ID of the task in the  **Project Guide** you are trying to display.|

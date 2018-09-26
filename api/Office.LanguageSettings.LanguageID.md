@@ -27,7 +27,7 @@ Gets a  **MsoAppLanguageID** constant representing the locale identifier (LCID) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**MsoAppLanguageID**|Returns one of the  **MsoAppLanguageID** enumerations.|
 

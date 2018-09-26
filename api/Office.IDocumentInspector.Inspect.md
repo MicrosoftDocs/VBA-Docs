@@ -24,7 +24,7 @@ Inspects a document for specific information items or document properties by usi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required|**Object**|An object representing the container document.|
 | _Status_|Required|**MsoDocInspectorStatus**|An enumeration that represents the results of the inspection.|

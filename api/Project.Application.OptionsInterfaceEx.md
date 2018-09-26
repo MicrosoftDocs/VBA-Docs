@@ -27,7 +27,7 @@ Sets some display options and Project Guide options.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowResourceAssignmentIndicators_|Optional|**Boolean**|**True** if Project displays indicators and options buttons for resource assignments. The default value is **False**.|
 | _ShowEditToStartFinishDates_|Optional|**Boolean**|**True** if Project displays actions on the undo stack for edits to start and finish dates. The default value is **False**.|

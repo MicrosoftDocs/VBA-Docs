@@ -27,7 +27,7 @@ Activates a window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Optional|**String**|The name of the window to activate. The name of a window is the exact text that appears in the title bar of the window. The default is the name of the active window.|
 | _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following  **[PjDialog](Project.PjDialog.md)** constant: **pjResourceAssignment**.|

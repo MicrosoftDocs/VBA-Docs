@@ -27,7 +27,7 @@ Creates a new trendline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[XlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
 | _Order_|Optional| **Variant**| **Variant** . if _Type_ is **xlPolynomial** . The trendline order. Must be an integer from 2 to 6, inclusive.|

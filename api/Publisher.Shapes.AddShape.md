@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing an AutoShape to the specified **Shapes
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Required| **MsoAutoShapeType**|The type of AutoShape to draw. For a complete list of MsoAutoShapeType constants, see the Object Browser.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the AutoShape.|

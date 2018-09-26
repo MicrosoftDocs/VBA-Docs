@@ -27,7 +27,7 @@ Moves the active drawing object forward or backward in the drawing layers.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Forward_|Optional|**Boolean**|**True** if the active drawing object moves forward in the drawing layers. The default value is **False**.|
 | _Full_|Optional|**Boolean**|**True** if the active drawing object moves the full extent of the direction specified with **Forward**. **False** if the object moves only one layer. The default value is **False**.|

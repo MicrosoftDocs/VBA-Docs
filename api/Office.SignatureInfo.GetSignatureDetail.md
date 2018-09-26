@@ -27,7 +27,7 @@ Displays a specified detail related to a signature.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sigdet_|Required|**SignatureDetail**|An enumerated value specifying which signature detail to display.|
 

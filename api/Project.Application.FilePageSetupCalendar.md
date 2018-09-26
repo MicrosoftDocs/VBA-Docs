@@ -27,7 +27,7 @@ Sets up the Calendar for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**Variant**|Sets up the Calendar for printing.|
 | _MonthsPerPage_|Optional|**Integer**|The number of months to print on each page. Can be 1 or 2. The  **MonthsPerPage** argument is required if **OnlyDaysInMonth** or **OnlyWeeksInMonth** is specified.|

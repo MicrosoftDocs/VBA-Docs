@@ -27,7 +27,7 @@ Returns a  **[Store](Outlook.Store.md)** object that represents the store specif
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **String**|A string value identifying a store.|
 

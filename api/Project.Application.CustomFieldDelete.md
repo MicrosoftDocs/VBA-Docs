@@ -27,7 +27,7 @@ Deletes the specified custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**Long**|A value representing a  **[PjField](Project.PjField.md)** constant.|
 

@@ -27,7 +27,7 @@ Loads an XLL code resource and automatically registers the functions and command
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Specifies the name of the XLL to be loaded.|
 

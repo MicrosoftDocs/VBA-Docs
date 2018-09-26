@@ -27,7 +27,7 @@ Returns an object that represents a single point (a  **[Point](Excel.Point(objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the point.|
 

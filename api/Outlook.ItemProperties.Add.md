@@ -27,7 +27,7 @@ Adds an  **ItemProperty** object to the **ItemProperties** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new item property object.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new  **ItemProperty** .|

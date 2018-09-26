@@ -30,7 +30,7 @@ Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**| The list item to be set.|
 

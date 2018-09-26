@@ -27,7 +27,7 @@ Occurs before changes are applied to a PivotTable.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the changes to apply.|
 | _ValueChangeStart_|Required| **Long**|The index to the first change in the associated  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection. The index is specified by the **[Order](Excel.ValueChange.Order.md)** property of the **[ValueChange](Excel.ValueChange.md)** object in the **PivotTableChangeList** collection.|

@@ -27,7 +27,7 @@ Flips selected shapes either as a group or individually about their pins. Return
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FlipDirection_|Required| **VisFlipDirection**|Specifies the direction in which to flip the selection. See Remarks for possible values.|
 | _FlipType_|Optional| **VisFlipTypes**|Specifes how selection is to be flipped. See Remarks for possible values.|

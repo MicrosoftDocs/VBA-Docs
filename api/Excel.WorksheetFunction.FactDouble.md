@@ -27,7 +27,7 @@ Returns the double factorial of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the value for which to return the double factorial. If number is not an integer, it is truncated.|
 

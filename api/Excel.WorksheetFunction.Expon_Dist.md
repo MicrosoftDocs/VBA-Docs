@@ -27,7 +27,7 @@ Returns the exponential distribution. Use EXPON_DIST to model the time between e
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value of the function.|
 | _Arg2_|Required| **Double**|Lambda - the parameter value.|

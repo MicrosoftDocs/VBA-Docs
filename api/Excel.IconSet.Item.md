@@ -27,7 +27,7 @@ Returns an  **[Icon](Excel.Icon.md)** object that represents a single icon from 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number of the  **Icon** object.|
 

@@ -27,7 +27,7 @@ Closes all projects.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Save_|Optional|**Long**|Can be one of the following  **PjSave** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
 | _CheckIn_|Optional|**Variant**|**True** if files are checked in after closing.|

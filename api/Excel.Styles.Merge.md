@@ -27,7 +27,7 @@ Merges the styles from another workbook into the  **[Styles](Excel.Styles.md)** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Workbook_|Required| **Variant**|A  **[Workbook](Excel.Workbook.md)** object that represents the workbook containing styles to be merged.|
 

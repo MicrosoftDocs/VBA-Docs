@@ -27,7 +27,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fRenumberPages_|Required| **Integer**|1 (**True**) to renumber remaining pages; otherwise, 0 (**False**).|
 

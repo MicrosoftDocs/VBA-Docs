@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lRow_|Required|**Long**|The item in the combo box. The first item is represented by a zero (0), the second by a one (1), and so on.|
 

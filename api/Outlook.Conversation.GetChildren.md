@@ -27,7 +27,7 @@ Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|A conversation node that is part of a conversation.|
 

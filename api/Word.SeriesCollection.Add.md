@@ -27,7 +27,7 @@ Adds one or more new series to the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data as a string representation of a range contained in the  **[Workbook](Word.ChartData.Workbook.md)** property of the **[ChartData](Word.ChartData.md)** object for the chart.|
 | _Rowcol_|Optional| **[XlRowCol](Word.xlrowcol.md)**|One of the enumeration values that specifies whether the new values are in the rows or columns of the specified range.|

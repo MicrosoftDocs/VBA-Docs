@@ -27,7 +27,7 @@ Creates a new  **Master** object by dropping an object onto a receiving object s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToDrop_|Required| **[UNKNOWN]**|The object to drop. While this is typically a Visio object such as a  **Master** , **Shape** , or **Selection** object, it can be any OLE object that provides an **IDataObject** interface.|
 | _xPos_|Required| **Integer**|The x-coordinate at which to place the center of the shape's width or PinX.|

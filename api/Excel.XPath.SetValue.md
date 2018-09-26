@@ -27,7 +27,7 @@ Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The map info that the mapped range will be associated with.|
 | _XPath_|Required| **String**|A valid XPath expression that tells Excel what XML data should appear in this mapped range. The XPath string can also contain valid filters, in which case, only a subset of the data that the XPath points to will ever appear in this mapped range.|

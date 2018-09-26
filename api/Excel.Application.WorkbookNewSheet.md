@@ -27,7 +27,7 @@ Occurs when a new sheet is created in any open workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Sh_|Required| **Object**|The new sheet.|

@@ -27,7 +27,7 @@ Creates a new scenario and adds it to the list of scenarios that are available f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The scenario name.|
 | _ChangingCells_|Required| **Variant**|A  **[Range](Excel.Range(object).md)** object that refers to the changing cells for the scenario.|

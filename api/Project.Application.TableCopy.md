@@ -27,7 +27,7 @@ Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Name of the copied table.|
 

@@ -27,7 +27,7 @@ Occurs when a protected view window is deactivated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PvWindow_|Required| **[ProtectedViewWindow](Word.ProtectedViewWindow.md)**|The deactivated protected view window.|
 

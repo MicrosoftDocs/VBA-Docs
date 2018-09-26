@@ -27,7 +27,7 @@ Returns the previous paragraph as a  **Paragraph** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Count_|Optional| **Variant**|The number of paragraphs by which you want to move back. The default value is 1.|
 

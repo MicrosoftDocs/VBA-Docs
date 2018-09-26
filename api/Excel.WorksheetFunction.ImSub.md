@@ -27,7 +27,7 @@ Returns the difference of two complex numbers in x + yi or x + yj text format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber1 - the complex number from which to subtract inumber2.|
 | _Arg2_|Required| **Variant**|Inumber2 - the complex number to subtract from inumber1.|

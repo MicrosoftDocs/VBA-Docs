@@ -27,7 +27,7 @@ _expression_ A variable that represents a [NavigationControl](Access.NavigationC
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required|**Integer**||
 

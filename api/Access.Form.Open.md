@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the opening of the form or report occurs. Setting the Cancel argument to True (?1) cancels the opening of the form or report.|
 

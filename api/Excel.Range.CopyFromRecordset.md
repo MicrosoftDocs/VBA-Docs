@@ -27,7 +27,7 @@ Copies the contents of an ADO or DAO  **Recordset** object onto a worksheet, beg
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **Variant**|The  **Recordset** object to copy into the range.|
 | _MaxRows_|Optional| **Variant**|The maximum number of records to copy onto the worksheet. If this argument is omitted, all the records in the  **Recordset** object are copied.|

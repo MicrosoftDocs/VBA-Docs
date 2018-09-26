@@ -27,7 +27,7 @@ Inserts an XE (Index Entry) field after the specified range. The method returns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location of the entry. The XE field is inserted after Range.|
 | _Entry_|Optional| **Variant**|The text that appears in the index. To indicate a subentry, include the main entry text and the subentry text, separated by a colon (:) (for example, "Introduction:The Product").|

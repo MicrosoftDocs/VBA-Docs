@@ -27,7 +27,7 @@ Occurs when the user changes the docking position of the active custom task pane
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CustomTaskPaneInst_|Required|**Object**|The active custom task pane.|
 

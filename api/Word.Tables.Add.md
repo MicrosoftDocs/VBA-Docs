@@ -27,7 +27,7 @@ Returns a  **Table** object that represents a new, blank table added to a docume
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table to appear. The table replaces the range, if the range isn't collapsed.|
 | _NumRows_|Required| **Long**|The number of rows you want to include in the table.|

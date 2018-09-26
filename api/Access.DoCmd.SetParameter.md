@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetParameter Method (Access)
+title: DoCmd.SetParameter method (Access)
 keywords: vbaac10.chm5977
 f1_keywords:
 - vbaac10.chm5977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetParameter Method (Access)
+# DoCmd.SetParameter method (Access)
 
 Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo ](Access.DoCmd.BrowseTo.md)**, **[OpenForm](Access.DoCmd.OpenForm.md)**, **[OpenQuery](Access.DoCmd.OpenQuery.md)**, **[OpenReport](Access.DoCmd.OpenReport.md)**, or **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** methods.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**Variant**|The name of the parameter. The name must match the name of the parameter expected by the  **BrowseTo**, **OpenForm**, **OpenQuery**, **OpenReport**, or **RunDataMacro** method.|
 | _Expression_|Required|**Variant**|An expression that evaluates to a value to assign to the parameter.|

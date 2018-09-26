@@ -27,7 +27,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |NewText|Required| **String**|The text to be inserted.|
 

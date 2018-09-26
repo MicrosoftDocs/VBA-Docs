@@ -27,7 +27,7 @@ Returns the inverse of the normal cumulative distribution for the specified mean
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - A probability corresponding to the normal distribution.|
 | _Arg2_|Required| **Double**|Mean - The arithmetic mean of the distribution.|

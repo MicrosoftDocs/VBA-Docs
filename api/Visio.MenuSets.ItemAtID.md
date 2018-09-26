@@ -27,7 +27,7 @@ Returns the  **MenuSet** object with the specified ID within the **MenuSets** co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**|The Visio context ID of the object to retrieve.|
 

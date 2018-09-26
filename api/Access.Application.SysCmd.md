@@ -1,5 +1,5 @@
 ---
-title: Application.SysCmd Method (Access)
+title: Application.SysCmd method (Access)
 keywords: vbaac10.chm12515
 f1_keywords:
 - vbaac10.chm12515
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SysCmd Method (Access)
+# Application.SysCmd method (Access)
 
 You can use the  **SysCmd** method to, display a progress meter or optional specified text in the status bar, return information about Microsoft Access and its associated files, or return the state of a specified database object (to indicate whether the object is open, is a new object, or has been changed but not saved). **Variant**.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Action_|Required|**AcSysCmdAction**|A  **[AcSysCmdAction](Access.AcSysCmdAction.md)** constant that identifies the type of action to take. This set of constants applies to a progress meter. The **SysCmd** method returns a **null** if these actions are successful. Otherwise, Microsoft Access generates a run-time error.|
 | _Argument2_|Optional|**Variant**|The text to be displayed left-aligned in the status bar. This argument is required when the action argument is  **acSysCmdInitMeter**, **acSysCmdUpdateMeter**, or **acSysCmdSetStatus**; this argument isn't valid for other action argument values.

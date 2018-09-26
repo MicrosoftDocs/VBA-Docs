@@ -27,7 +27,7 @@ Adds a new section to a ShapeSheet spreadsheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The type of section to add.|
 

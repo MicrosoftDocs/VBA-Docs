@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SearchForRecord Method (Access)
+title: DoCmd.SearchForRecord method (Access)
 keywords: vbaac10.chm5765
 f1_keywords:
 - vbaac10.chm5765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SearchForRecord Method (Access)
+# DoCmd.SearchForRecord method (Access)
 
 You can use the **SearchForRecord** method to search for a specific record in a table, query, form, or report.
 
@@ -25,7 +25,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcDataObjectType**|An **[AcDataObjectType](Access.AcDataObjectType.md)** constant that specifies the type of database object in which you are searching. The default value is **acActiveDataObject**.|
 | _ObjectName_|Optional|**Variant**|The name of the database object that contains the record to search for.|

@@ -27,7 +27,7 @@ Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the col
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number of the object.|
 

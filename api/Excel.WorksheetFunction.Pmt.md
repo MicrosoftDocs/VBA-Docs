@@ -27,7 +27,7 @@ Calculates the payment for a loan based on constant payments and a constant inte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate for the loan.|
 | _Arg2_|Required| **Double**|Nper - the total number of payments for the loan.|

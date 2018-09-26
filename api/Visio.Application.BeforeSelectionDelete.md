@@ -24,7 +24,7 @@ Private Sub  _expression_ _'BeforeSelectionDelete'(**_ByVal Selection As [IVSELE
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selected objects that are going to be deleted.|
 

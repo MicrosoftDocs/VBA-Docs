@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing a text box to the specified **Shapes**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Orientation|Required| **PbTextOrientation**|The orientation of the text box.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the text box.|

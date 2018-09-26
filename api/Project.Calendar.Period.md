@@ -24,7 +24,7 @@ Gets a  **[Period](Project.Period.md)** object representing a period of time in 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required|**Variant**|The start date of the desired period.|
 | _Finish_|Optional|**Variant**| The finish date of the desired period. The default value is the same date as Start.|

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenStoredProcedure Method (Access)
+title: DoCmd.OpenStoredProcedure method (Access)
 keywords: vbaac10.chm4651
 f1_keywords:
 - vbaac10.chm4651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenStoredProcedure Method (Access)
+# DoCmd.OpenStoredProcedure method (Access)
 
 The  **OpenStoredProcedure** method carries out the OpenStoredProcedure action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProcedureName_|Required|**Variant**|A string expression that's the valid name of a stored procedure in the current database. If you execute Visual Basic code containing the  **OpenStoredProcedure** method in a library database, Microsoft Access looks for the stored procedure with this name first in the library database, then in the current database.|
 | _View_|Optional|**AcView**|A  **[AcView](Access.AcView.md)** constant that specifies the view in which the stored procedure will open. The default value is **acViewNormal**.|

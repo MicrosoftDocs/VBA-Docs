@@ -24,7 +24,7 @@ Gets a single  **Assignment** object from the **OverAllocatedAssignments** colle
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the  **Assignment** to return.|
 

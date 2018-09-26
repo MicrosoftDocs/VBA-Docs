@@ -27,7 +27,7 @@ Returns the shape identifiers (IDs) of all members of the container, as specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContainerFlags_|Required| **Long**|Specifies which container member shape IDs to return.|
 

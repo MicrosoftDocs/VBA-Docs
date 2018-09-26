@@ -27,7 +27,7 @@ Returns a Student t-distribution where a numeric value (x) is a calculated value
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The numeric value at which to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom - An integer that indicates the number of degrees of freedom.|

@@ -27,7 +27,7 @@ Private Sub  _expression_ _'DocumentBeforeSave'(**_ByVal DocAs Document_** , **_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document that is being saved.|
 | _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box is displayed, whether to save a new document, in response to the **Save** command; or in response to the **Save As** command; or in response to the **SaveAs** or **SaveAs2** method.|

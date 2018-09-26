@@ -27,7 +27,7 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The target workbook.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to save or export data.|

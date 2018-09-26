@@ -27,7 +27,7 @@ Returns the day of the week corresponding to a date. The day is given as an inte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Serial_number - a sequential number that represents the date of the day you are trying to find. Dates should be entered by using the DATE function, or as results of other formulas or functions. For example, use DATE(2008,5,23) for the 23rd day of May, 2008. Problems can occur if dates are entered as text.|
 | _Arg2_|Optional| **Variant**|Return_type - a number that determines the type of return value.|

@@ -27,7 +27,7 @@ Saves a copy of the workbook to a file but doesn't modify the open workbook in m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **Variant**|Specifies the file name for the copy.|
 

@@ -1,5 +1,5 @@
 ---
-title: Application.IsCurrentWebUserInGroup Method (Access)
+title: Application.IsCurrentWebUserInGroup method (Access)
 keywords: vbaac10.chm14601
 f1_keywords:
 - vbaac10.chm14601
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IsCurrentWebUserInGroup Method (Access)
+# Application.IsCurrentWebUserInGroup method (Access)
 
 Gets whether or not the current user of a Web databse is a member of the specified Microsoft SharePoint Foundation 2010 group.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GroupNameOrID_|Required|**Variant**| The name or identifier (ID) of the group.|
 

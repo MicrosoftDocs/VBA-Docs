@@ -27,7 +27,7 @@ Obtains a two-dimensional array that contains a set of row and column values fro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MaxRows_|Required| **Long**|Specifies the maximum number of rows to return from the  **Table** .|
 

@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecifications.Add Method (Access)
+title: ImportExportSpecifications.Add method (Access)
 keywords: vbaac10.chm13341
 f1_keywords:
 - vbaac10.chm13341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecifications.Add Method (Access)
+# ImportExportSpecifications.Add method (Access)
 
 Adds a new [ImportExportSpecification](Access.ImportExportSpecification.md) object to the [ImportExportSpecifications](Access.ImportExportSpecifications.md) collection.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [ImportExportSpecifications](Access.I
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name to use for the  **ImportExportSpecification**.|
 | _SpecificationDefinition_|Required|**String**|The XML markup that represents the settings to save for the import or export operation.|

@@ -27,7 +27,7 @@ Returns the average (arithmetic mean) of the arguments.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|1 to 30 numeric arguments for which you want the average.|
 

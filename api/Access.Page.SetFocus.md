@@ -1,5 +1,5 @@
 ---
-title: Page.SetFocus Method (Access)
+title: Page.SetFocus method (Access)
 keywords: vbaac10.chm12143
 f1_keywords:
 - vbaac10.chm12143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.SetFocus Method (Access)
+# Page.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

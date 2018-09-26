@@ -22,7 +22,7 @@ Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Long**|The first character in the returned range.|
 | _Length_|Optional|**Long**|The number of characters to be returned.|

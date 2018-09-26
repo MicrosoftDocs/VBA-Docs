@@ -27,7 +27,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table of authorities to appear. The table of authorities replaces the range, if the range isn't collapsed.|
 | _Category_|Optional| **Variant**|The category of entries you want to include in the table of authorities. Corresponds to the \c switch for a Table of Authorities (TOA) field. Values 0 through 16 correspond to the items listed in the  **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box (**Reference** command, **Insert** menu). The default value is 1.|

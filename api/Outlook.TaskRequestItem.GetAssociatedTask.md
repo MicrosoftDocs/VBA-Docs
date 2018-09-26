@@ -27,7 +27,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AddToTaskList_|Required| **Boolean**| **True** if the task is added to the default **Tasks** folder.|
 

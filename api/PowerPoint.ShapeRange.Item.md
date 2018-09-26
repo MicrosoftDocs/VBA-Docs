@@ -27,7 +27,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Shape** object in the collection to be returned.|
 

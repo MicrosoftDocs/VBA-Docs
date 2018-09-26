@@ -27,7 +27,7 @@ Publishes the specified slide to the specified location.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlideLibraryUrl_|Required|**String**|The URL to which to publish the slide library.|
 | _Overwrite_|Optional|**Boolean**|Whether to overwrite existing content at SlideLibraryURL. The default is  **False**.|

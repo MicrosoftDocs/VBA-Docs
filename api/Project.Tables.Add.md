@@ -24,7 +24,7 @@ Adds a  **Table** object to a **Tables** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the table.|
 | _Field_|Required|**Long**|The name of the field. Can be one of the  **[PjField](Project.PjField.md)** constants.|

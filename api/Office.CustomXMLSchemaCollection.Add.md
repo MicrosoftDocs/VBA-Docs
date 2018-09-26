@@ -27,7 +27,7 @@ Allows you to add one or more schemas to a schema collection that can then be ad
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Optional|**String**|Contains the namespace of the schema to be added to the collection. If the schema already exists in the Schema Library, the method will retrieve it from there.|
 | _Alias_|Optional|**String**|Contains the alias of the schema to be added to the collection. If the alias already exists in the Schema Library, the method can find it using this argument.|

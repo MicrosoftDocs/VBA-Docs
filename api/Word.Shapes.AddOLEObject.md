@@ -27,7 +27,7 @@ Creates an OLE object. Returns the  **InlineShape** object that represents the n
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|The name of the application used to activate the specified OLE object.|
 | _FileName_|Optional| **Variant**|The file from which the object is to be created. If this argument is omitted, the current folder is used. You must specify either the ClassType or FileName argument for the object, but not both.|

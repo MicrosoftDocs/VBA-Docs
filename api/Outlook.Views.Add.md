@@ -27,7 +27,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new view.|
 | _ViewType_|Required| **[OlViewType](Outlook.OlViewType.md)**|The type of the new view.|

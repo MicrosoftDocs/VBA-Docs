@@ -27,7 +27,7 @@ Saves a workbook to a server from a local computer, and sets the local workbook 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**| **True** to save the workbook to the server location. The default is **True** .|
 | _Comments_|Optional| **Variant**|Comments for the revision of the workbook being checked in (applies only if  _SaveChanges_ is set to **True**).|

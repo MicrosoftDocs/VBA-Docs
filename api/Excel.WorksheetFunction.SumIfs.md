@@ -27,7 +27,7 @@ Adds the cells in a range that meet multiple criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|Sum_range - the range to sum.|
 | _Arg2_|Required| **Range**|Criteria_range1, criteria_range2, ? - one or more ranges in which to evaluate the associated criteria.|

@@ -24,7 +24,7 @@ Private Sub  _expression_ _'StyleDeleteCanceled'(**_ByVal Style As [IVSTYLE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **[IVSTYLE]**|The style that was going to be deleted.|
 

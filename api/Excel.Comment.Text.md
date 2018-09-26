@@ -27,7 +27,7 @@ Sets comment text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The text to be added.|
 | _Start_|Optional| **Variant**|The character number where the added text will be placed. If this argument is omitted, any existing text in the comment is deleted.|

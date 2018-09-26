@@ -24,7 +24,7 @@ Returns the local task identification number (ID) for the specified task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskGuid_|Required|**String**|The GUID of the task.|
 

@@ -27,7 +27,7 @@ Creates a new  **Menu** object at a specified index in the **Menus** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index at which to add the object.|
 

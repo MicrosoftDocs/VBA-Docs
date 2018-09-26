@@ -27,7 +27,7 @@ Reschedules the specified task to the next available time.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Long**|Unique ID of the task to reschedule.|
 

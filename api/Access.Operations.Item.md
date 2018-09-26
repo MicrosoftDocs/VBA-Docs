@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Operations](Access.Operations.md) ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**||
 

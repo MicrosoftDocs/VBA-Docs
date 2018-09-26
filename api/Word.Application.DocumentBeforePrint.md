@@ -27,7 +27,7 @@ Private Sub  _expression_ _'DocumentBeforePrint'(**_ByVal Doc As Document_** , *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document that's being printed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the document isn't printed when the procedure is finished.|

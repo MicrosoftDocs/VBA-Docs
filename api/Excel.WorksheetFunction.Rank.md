@@ -35,7 +35,7 @@ For more information about the new functions, see the [Rank_Eq](Excel.WorksheetF
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the number whose rank you want to find.|
 | _Arg2_|Required| **Range**|Ref - an array of, or a reference to, a list of numbers. Nonnumeric values in ref are ignored.|

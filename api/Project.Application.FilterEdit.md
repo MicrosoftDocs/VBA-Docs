@@ -24,7 +24,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of a filter to edit, create, or copy.|
 | _TaskFilter_|Required|**Boolean**|**True** if the filter specified with Name contains task information. **False** if the filter contains resource information.|

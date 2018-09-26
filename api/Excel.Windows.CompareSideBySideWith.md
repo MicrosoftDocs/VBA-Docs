@@ -27,7 +27,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Required| **Variant**|The name of the window.|
 

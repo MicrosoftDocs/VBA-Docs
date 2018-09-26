@@ -27,7 +27,7 @@ Returns or sets a  **Variant** indicating the adjustment value specified by the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Integer**|The index number of the adjustment.|
 

@@ -27,7 +27,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nxFlags_|Required| **Long**|Indicates how to scroll horizontally.|
 | _nyFlags_|Required| **Long**|Indicates how to scroll vertically.|

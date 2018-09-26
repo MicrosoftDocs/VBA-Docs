@@ -23,7 +23,7 @@ Sets or clears task driving predecessor highlighting for the task path feature.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** to set task driving predecessor highlighting; **False** to clear the task driving predecessor highlighting.|
 | _Set_|Optional|VARIANT||

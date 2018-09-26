@@ -27,7 +27,7 @@ Creates a new Microsoft Outlook item from an Outlook template (.oft) and returns
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TemplatePath_|Required| **String**|The path and file name of the Outlook template for the new item.|
 | _InFolder_|Optional| **Variant**|The folder in which the item is to be created. If this argument is omitted, the default folder for the item type will be used.|

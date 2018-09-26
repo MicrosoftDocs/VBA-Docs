@@ -27,7 +27,7 @@ Returns a custom list (an array of strings).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListNum_|Required| **Long**|The list number.|
 

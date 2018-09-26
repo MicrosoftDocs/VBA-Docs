@@ -27,7 +27,7 @@ Creates a  **[Recipient](Outlook.Recipient.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RecipientName_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.|
 

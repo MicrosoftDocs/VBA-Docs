@@ -27,7 +27,7 @@ Converts real and imaginary coefficients into a complex number of the form x + y
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The real coefficient of the complex number.|
 | _Arg2_|Required| **Variant**|The imaginary coefficient of the complex number.|

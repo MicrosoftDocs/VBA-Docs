@@ -27,7 +27,7 @@ Adds a single resource from the enterprise resource pool to the active project. 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EUID_|Optional|**Variant**|The unique ID of the enterprise resource; required if there is more than one resource.|
 | _RUID_|Optional|**Variant**|The unique ID that will be assigned to the resource in the active project. If omitted, the next valid resource UID is assigned.|

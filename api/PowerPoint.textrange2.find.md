@@ -22,7 +22,7 @@ Searches a  **TextRange2** object for a subset of text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindWhat_|Required|**String**|Contains the text to find.|
 | _After_|Optional|**Long**|Specifies the point in the text range to start the search.|

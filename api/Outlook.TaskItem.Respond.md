@@ -27,7 +27,7 @@ Responds to a task request.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **[OlTaskResponse](Outlook.OlTaskResponse.md)**| The response to the request.|
 | _fNoUI_|Required| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|

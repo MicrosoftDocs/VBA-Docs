@@ -27,7 +27,7 @@ Occurs when the application window is deactivated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Wn|Required| **Window**|The window that is being deactivated.|
 

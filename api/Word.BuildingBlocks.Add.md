@@ -24,7 +24,7 @@ Creates a new building block and returns a  **BuildingBlock** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Specifies the name of the building block entry. Corresponds to the  **[Name](Word.BuildingBlock.Name.md)** property of the **BuildingBlock** object.|
 | _Range_|Required| **Range**|Specifies the value of the buildling block entry. Corresponds to the  **[Value](Word.BuildingBlock.Value.md)** property of the **BuildingBlock** object.|

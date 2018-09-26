@@ -27,7 +27,7 @@ Opens the specified document in a new protected view window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **Variant**|The name of the document (paths are accepted).|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the File menu.|

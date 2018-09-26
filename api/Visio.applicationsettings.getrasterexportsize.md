@@ -25,7 +25,7 @@ Gets the raster export size.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pSize_|Required| **VisRasterExportSize**|Out parameter. The raster export size. See Remarks for possible values.|
 | _pWidth_|Required| **Double**|Out parameter. The raster export size width. |

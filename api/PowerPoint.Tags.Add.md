@@ -27,7 +27,7 @@ Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the tag.|
 | _Value_|Required|**String**|The value of the tag.|

@@ -27,7 +27,7 @@ Occurs when a transaction is undone or redone.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrLabel_|Required|**String**|Label of the transaction just undone or redone.|
 | _bstrGUID_|Required|**String**|GUID of the transaction or NULL.|

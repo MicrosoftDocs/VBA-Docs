@@ -27,7 +27,7 @@ Private Sub  _expression_ _'SelectionChanged'(**_ByVal Window As [IVWINDOW]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window in which the selection changed.|
 

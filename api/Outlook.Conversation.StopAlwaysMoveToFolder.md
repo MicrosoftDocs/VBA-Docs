@@ -27,7 +27,7 @@ Stops the action of always moving conversation items in the specified store to a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|The store where the conversation items to be cleaned up reside.|
 

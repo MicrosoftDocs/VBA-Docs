@@ -27,7 +27,7 @@ _expression_ A variable that represents an [AllDatabaseDiagrams](Access.AllDatab
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument. If a numeric expression, the _index_ argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the _index_ argument must be the name of a member of the collection|
 

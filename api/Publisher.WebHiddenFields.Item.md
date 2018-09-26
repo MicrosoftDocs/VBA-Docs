@@ -27,7 +27,7 @@ Returns a  **String** corresponding to the value of a hidden field in a Web form
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The number or name of the field or list box item to return.|
 

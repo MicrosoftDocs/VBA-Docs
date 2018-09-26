@@ -27,7 +27,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Required| **[VisGluedShapesFlags](Visio.VisGluedShapesFlags.md)**|The dimensionality and directionality of the connection points of the shapes to return.|
 | _CategoryFilter_|Required| **String**|The category of shapes to return. See Remarks for more information|

@@ -27,7 +27,7 @@ Selects one or more cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Required|**Long**|The number of the row containing the cell to select.|
 | _Column_|Required|**Integer**|The number of the column containing the cell to select. (Columns are numbered from left to right, starting with 2.)|

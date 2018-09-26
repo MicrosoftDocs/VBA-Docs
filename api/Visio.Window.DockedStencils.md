@@ -27,7 +27,7 @@ Returns the names of all stencils docked in a Microsoft Visio drawing window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameArray()_|Required| **String**|Out parameter. An array that receives the names of stencils docked in a window.|
 

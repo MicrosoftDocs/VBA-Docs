@@ -27,7 +27,7 @@ Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _In
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule condition within the  **RuleConditions** collection. For example, the index value of the first rule condition in the collection is 1, and the index value of the second rule condition is 2.|
 

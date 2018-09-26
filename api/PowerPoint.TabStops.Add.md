@@ -27,7 +27,7 @@ Creates a tab stop and adds it to the  **TabStops** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PpTabStopType**|The type of the tab stop to be added.|
 | _Position_|Required|**Single**|The position of the tab stop in the tab stops collection.|

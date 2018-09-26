@@ -31,7 +31,7 @@ For more information about the new function, see the [Norm_S_Dist](Excel.Workshe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Z - the value for which you want the distribution.|
 

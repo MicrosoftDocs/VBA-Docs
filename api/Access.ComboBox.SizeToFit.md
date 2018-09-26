@@ -1,5 +1,5 @@
 ---
-title: ComboBox.SizeToFit Method (Access)
+title: ComboBox.SizeToFit method (Access)
 keywords: vbaac10.chm11364
 f1_keywords:
 - vbaac10.chm11364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.SizeToFit Method (Access)
+# ComboBox.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

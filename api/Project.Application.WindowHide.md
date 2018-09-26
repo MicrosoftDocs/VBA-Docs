@@ -27,7 +27,7 @@ Hides a window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the window to hide. The name of a window is the exact text that appears in the title bar of the window. The default is the active window.|
 

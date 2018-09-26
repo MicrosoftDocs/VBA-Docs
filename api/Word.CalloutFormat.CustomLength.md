@@ -27,7 +27,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Length_|Required| **Single**|The length of the first segment of the callout, in points.|
 

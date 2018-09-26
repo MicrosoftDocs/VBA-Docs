@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Close Method (Access)
+title: DoCmd.Close method (Access)
 keywords: vbaac10.chm4145
 f1_keywords:
 - vbaac10.chm4145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Close Method (Access)
+# DoCmd.Close method (Access)
 
 The  **Close** method carries out the Close action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcObjectType**|A  **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of object to close.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument.|

@@ -24,7 +24,7 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageIndex|Required| **Long**|The index of the new page.|
 

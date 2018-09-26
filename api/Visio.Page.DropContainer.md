@@ -27,7 +27,7 @@ Creates a new container  **[Shape](Visio.Shape.md)** object on the page, places 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToDrop_|Required| **[UNKNOWN]**|The container shape to add to the page. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **Shape** , or **IDataObject** object.|
 | _TargetShapes_|Required| **[UNKNOWN]**|The shapes that the container should contain. Can be a  **Shape** or a **[Selection](Visio.Selection.md)** object. The shapes or selection must already be on the page.|

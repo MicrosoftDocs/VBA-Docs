@@ -27,7 +27,7 @@ Returns a  **ListEntry** object that represents an item added to a drop-down for
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the drop-down form field item.|
 | _Index_|Optional| **Variant**|A number that represents the position of the item in the list.|

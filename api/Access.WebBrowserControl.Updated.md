@@ -27,7 +27,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Code_|Required|**Integer**||
 

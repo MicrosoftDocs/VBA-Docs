@@ -27,7 +27,7 @@ Occurs when a view is added to the collection. Microsoft Outlook creates the new
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _View_|Required| **[View](Outlook.View.md)**|The new view added to the collection prior to this event.|
 

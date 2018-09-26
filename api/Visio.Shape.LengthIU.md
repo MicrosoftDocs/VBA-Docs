@@ -27,7 +27,7 @@ Returns the length (perimeter) of the shape in internal units. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fIncludeSubShapes_|Optional| **Boolean**| **False** to exclude the length of subshapes. Length of subshapes is included by default.|
 

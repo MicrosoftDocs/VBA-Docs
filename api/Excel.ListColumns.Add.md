@@ -27,7 +27,7 @@ Adds a new column to the list object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Optional| **Variant**| **Integer** . Specifies the relative position of the new column that starts at 1. The previous column at this position is shifted outward.|
 

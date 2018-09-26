@@ -24,7 +24,7 @@ Occurs when the Project Guide is hidden or shown.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayState_|Required|**Boolean**|**True** if the **Project Guide** is shown. **False** if the **Project Guide** is hidden.|
 

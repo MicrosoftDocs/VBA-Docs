@@ -27,7 +27,7 @@ Returns the hypergeometric distribution. HYPGEOM_DIST returns the probability of
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Sample_s - the number of successes in the sample.|
 | _Arg2_|Required| **Double**|Number_sample - the size of the sample.|

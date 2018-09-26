@@ -27,7 +27,7 @@ Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[MsoCalloutType](./Office.MsoCalloutType.md)**|The type of callout line.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the callout's bounding box relative to the left edge of the slide.|

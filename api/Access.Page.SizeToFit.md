@@ -1,5 +1,5 @@
 ---
-title: Page.SizeToFit Method (Access)
+title: Page.SizeToFit method (Access)
 keywords: vbaac10.chm12141
 f1_keywords:
 - vbaac10.chm12141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.SizeToFit Method (Access)
+# Page.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

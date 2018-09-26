@@ -27,7 +27,7 @@ Searches for a value in the top row of a table or an array of values, and then r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lookup_value - the value to be found in the first row of the table. Lookup_value can be a value, a reference, or a text string.|
 | _Arg2_|Required| **Variant**|Table_array - a table of information in which data is looked up. Use a reference to a range or a range name.|

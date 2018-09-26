@@ -27,7 +27,7 @@ Returns the k-th percentile of values in a range, where k is in the range 0..1, 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - The array or range of data that defines relative standing.|
 | _Arg2_|Required| **Double**|K - The percentile value in the range 0..1, exclusive.|

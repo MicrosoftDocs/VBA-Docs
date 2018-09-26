@@ -27,7 +27,7 @@ Returns the cumulative interest paid on a loan between start_period and end_peri
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The interest rate.|
 | _Arg2_|Required| **Variant**| The total number of payment periods.|

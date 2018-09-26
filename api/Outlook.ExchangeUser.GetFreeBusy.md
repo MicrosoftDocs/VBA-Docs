@@ -27,7 +27,7 @@ Obtains a  **String** representing the availability of the **[ExchangeUser](Outl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The date of availability, starting at midnight.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. Default is 30 minutes.|

@@ -1,5 +1,5 @@
 ---
-title: References.Remove Method (Access)
+title: References.Remove method (Access)
 keywords: vbaac10.chm12644
 f1_keywords:
 - vbaac10.chm12644
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# References.Remove Method (Access)
+# References.Remove method (Access)
 
 The  **Remove** method removes a **[Reference](Access.Reference.md)** object from the **[References](Access.References.md)** collection.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [References](Access.References.md) obj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reference_|Required|**Reference**|The  **Reference** object that represents the reference you wish to remove.|
 

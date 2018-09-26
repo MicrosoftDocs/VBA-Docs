@@ -27,7 +27,7 @@ Used to determine whether the user has the proper permissions to open the encryp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IUnknown**|Specifies the window that is called to display the encryption settings.|
 | _EncryptionData_|Required|**IUnknown**|Contains the encrypted data for the current document.|

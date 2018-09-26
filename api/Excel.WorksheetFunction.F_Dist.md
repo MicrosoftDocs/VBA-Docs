@@ -27,7 +27,7 @@ Returns the F probability distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Deg_freedom1 - The numerator degrees of freedom.|

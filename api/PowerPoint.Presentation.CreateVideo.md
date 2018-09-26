@@ -27,7 +27,7 @@ Creates a video in a  **Presentation** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the video file to create.|
 | _UseTimingsAndNarrations_|Optional|**Boolean**|Indicates whether to use timings and narrations.|

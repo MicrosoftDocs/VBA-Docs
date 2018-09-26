@@ -27,7 +27,7 @@ Returns a  **String** that represents the description for a validation error on 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Advanced_|Optional| **Boolean**|Indicates that the error text displayed is the advanced version of the validation error description, which comes from the MSXML 5.0 component included with Microsoft Word.|
 

@@ -27,7 +27,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required| **String**|The XPath to query for.|
 | _SelectionNamespaces_|Optional| **Variant**|A space-delimited  **String** that contains the namespaces referenced in the XPath parameter. A run-time error will be generated if one of the specified namespaces cannot be resolved.|

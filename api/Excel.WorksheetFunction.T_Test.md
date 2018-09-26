@@ -27,7 +27,7 @@ Returns the probability associated with a Student t-Test. Use T_TEST to determin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array1 - The first data set.|
 | _Arg2_|Required| **Variant**|Array2 - The second data set.|

@@ -27,7 +27,7 @@ Toggles the state of a task between inactive and active.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MakeActive_|Optional|**Variant**|Specifies whether to make the task active. If the task is active,  **True** has no effect. If the task is inactive, **True** makes the task active.|
 

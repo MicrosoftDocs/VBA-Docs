@@ -27,7 +27,7 @@ Pauses a running macro until a specified time. Returns  **True** if the specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Time_|Required| **Variant**|The time at which you want the macro to resume, in Microsoft Excel date format.|
 

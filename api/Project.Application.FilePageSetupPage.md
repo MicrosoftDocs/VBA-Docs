@@ -27,7 +27,7 @@ Sets up pages for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up pages for printing.|
 | _Portrait_|Optional|**Boolean**|**True** if the page orientation is portrait. **False** if the page orientation is landscape.|

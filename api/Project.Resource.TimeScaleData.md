@@ -24,7 +24,7 @@ Sets options for displaying timephased data for the resource.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|The start date for the timephased data. If the start date falls within an interval, it is "rounded" to the start of the interval. For example, if  _TimeScaleUnit_ is **pjTimescaleWeeks** and _StartDate_ specifies a Wednesday, the start date is rounded to the preceding Monday (assuming that the work week started on a Monday).|
 | _EndDate_|Required|**Variant**|The end date for the timephased data. If the end date falls within an interval, it is "rounded" to the end of the interval.|

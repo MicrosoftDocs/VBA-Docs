@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.DateCreated
 ms.assetid: 68a6fd13-2831-386f-0328-274e43219578
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
@@ -39,9 +39,4 @@ For Each acobjLoop In CurrentProject.AllReports
 Next acobjLoop
 ```
 
-
-## See also
-
-
-[AccessObject Object](Access.AccessObject.md)
 

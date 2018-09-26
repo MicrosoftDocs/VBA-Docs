@@ -27,7 +27,7 @@ Zooms in on or out from the Calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumWeeks_|Optional|**Long**|The number of weeks to display. If StartDate and EndDate are specified, NumWeeks is ignored.|
 | _StartDate_|Optional|**Variant**|The first date to display.|

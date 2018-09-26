@@ -27,7 +27,7 @@ Returns an individual object from a specified collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |varDocument|Required| **Variant**| **Long**. The number of the object to return.|
 

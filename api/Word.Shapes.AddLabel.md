@@ -27,7 +27,7 @@ Adds a text label to a drawing canvas.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required| **MsoTextOrientation**|The orientation of the text.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the label relative to the left edge of the drawing canvas.|

@@ -27,7 +27,7 @@ Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new user-defined property.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new user-defined property.|

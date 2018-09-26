@@ -27,7 +27,7 @@ Clears the constraint on a specified task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Required|**Long**|Identification number of the task.|
 

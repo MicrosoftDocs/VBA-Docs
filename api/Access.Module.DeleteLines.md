@@ -1,5 +1,5 @@
 ---
-title: Module.DeleteLines Method (Access)
+title: Module.DeleteLines method (Access)
 keywords: vbaac10.chm12278
 f1_keywords:
 - vbaac10.chm12278
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.DeleteLines Method (Access)
+# Module.DeleteLines method (Access)
 
 The  **DeleteLines** method deletes lines from a standard module or a class module.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartLine_|Required|**Long**| The number of the line from which to begin deleting.|
 | _Count_|Required|**Long**|The number of lines to delete.|

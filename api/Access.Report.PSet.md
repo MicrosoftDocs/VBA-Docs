@@ -1,5 +1,5 @@
 ---
-title: Report.PSet Method (Access)
+title: Report.PSet method (Access)
 keywords: vbaac10.chm13784
 f1_keywords:
 - vbaac10.chm13784
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PSet Method (Access)
+# Report.PSet method (Access)
 
 The  **PSet** method sets a point on a **[Report](Access.Report.md)** object to a specified color when the **Print** event occurs.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _flags_|Required|**Integer**| A keyword that indicates the coordinates are relative to the current graphics position given by the settings for the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** properties of the _object_ argument.|
 | _X_|Required|**Single**|The horizontal coordinate of the point to set.|

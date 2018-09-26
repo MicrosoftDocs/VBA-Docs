@@ -27,7 +27,7 @@ Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The zero-based index number of the object in the  **SimpleItems** collection.|
 

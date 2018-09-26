@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The group level, starting with 0. The first field or expression you group on is group level 0, the second is group level 1, and so on.|
 

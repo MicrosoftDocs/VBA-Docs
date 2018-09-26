@@ -27,7 +27,7 @@ Removes a test condition from a custom field graphical indicator criteria list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Index_|Required|**Integer**|The position of the test condition to delete from the list specified by  **CriteriaList**.|

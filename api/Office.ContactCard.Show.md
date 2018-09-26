@@ -24,7 +24,7 @@ Displays the contact card at the specified x-coordinate position outside the spe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**MsoContactCardStyle**|Determines whether the card is displayed as a hover card or as a fully expanded card. See Remarks for possible values.|
 | _Left_|Required|**Long**|Specifies the x-coordinate of the left side of the rectangle where the card is not displayed.|

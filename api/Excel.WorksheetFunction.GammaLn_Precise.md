@@ -27,7 +27,7 @@ Returns the natural logarithm of the gamma function, ?(x).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value for which you want to calculate GAMMALN.|
 

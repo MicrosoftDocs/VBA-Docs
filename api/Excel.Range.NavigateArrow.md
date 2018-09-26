@@ -27,7 +27,7 @@ Navigates a tracer arrow for the specified range to the precedent, dependent, or
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TowardPrecedent_|Optional| **Variant**|Specifies the direction to navigate:  **True** to navigate toward precedents, **False** to navigate toward dependent.|
 | _ArrowNumber_|Optional| **Variant**|Specifies the arrow number to navigate; corresponds to the numbered reference in the cell's formula.|

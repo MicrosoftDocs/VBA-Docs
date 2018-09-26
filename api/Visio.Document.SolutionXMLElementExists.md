@@ -27,7 +27,7 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML element.|
 

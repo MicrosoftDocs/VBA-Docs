@@ -27,7 +27,7 @@ Adds an  **Event** object to the **EventList** collection of the source object w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventCode_|Required| **Integer**|The event(s) that generate notifications.|
 | _SinkIUnkOrIDisp_|Required| **Variant**|A reference to a COM interface on the object that is to receive event notifications.|

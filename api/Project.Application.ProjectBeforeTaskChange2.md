@@ -22,7 +22,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**|The task whose field is being changed.|
 | _Field_|Required|**PjField**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the **[PjField constants](#pjfield-constants)**.|

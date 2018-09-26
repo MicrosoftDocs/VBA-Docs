@@ -27,7 +27,7 @@ Merges the scenarios from another sheet into the  **[Scenarios](Excel.Scenarios.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The name of the sheet that contains scenarios to be merged, or a  **[Worksheet](Excel.Worksheet.md)** object that represents that sheet.|
 

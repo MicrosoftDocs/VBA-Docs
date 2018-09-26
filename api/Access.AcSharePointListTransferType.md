@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcSharePointListTransferType enumeration (Access)
 
-Used with the [DoCmd.TransferSharePointList Method (Access)](Access.DoCmd.TransferSharePointList.md) method to specify whether to import or link to a SharePoint list.
+Used with the [DoCmd.TransferSharePointList method (Access)](Access.DoCmd.TransferSharePointList.md) method to specify whether to import or link to a SharePoint list.
 
 
 

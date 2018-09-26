@@ -27,7 +27,7 @@ Moves the active window within the application window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPosition_|Optional|**Long**| A number that specifies the distance of the active window from the left edge of the application.|
 | _YPosition_|Optional|**Long**| A number that specifies the distance of the active window from the top edge of the application.|

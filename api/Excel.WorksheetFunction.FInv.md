@@ -31,7 +31,7 @@ For more information about the new functions, see the [F_Inv_RT](Excel.Worksheet
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - a probability associated with the F cumulative distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|

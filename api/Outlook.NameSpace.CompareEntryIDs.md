@@ -27,7 +27,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FirstEntryID_|Required| **String**|The first entry ID to be compared.|
 | _SecondEntryID_|Required| **String**|The second entry ID to be compared.|

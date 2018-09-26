@@ -27,7 +27,7 @@ Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ID|Required| **Long**|The ID of the the wizard property to return; corresponds to the  **[ID](Publisher.WizardProperty.ID.md)** property of the **WizardProperty** object.|
 

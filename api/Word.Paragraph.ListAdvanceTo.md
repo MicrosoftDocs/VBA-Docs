@@ -27,7 +27,7 @@ Sets the list levels for a paragraph in a list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level1 to Level9_|Optional| **Integer**|Specifies the list level.|
 

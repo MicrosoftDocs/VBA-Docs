@@ -27,7 +27,7 @@ Returns the label of the specified undo list item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ItemIndex_|Required|**Long**|Index of the item in the undo list .|
 

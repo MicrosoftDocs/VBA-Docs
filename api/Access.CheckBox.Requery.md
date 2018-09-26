@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Requery Method (Access)
+title: CheckBox.Requery method (Access)
 keywords: vbaac10.chm10688
 f1_keywords:
 - vbaac10.chm10688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Requery Method (Access)
+# CheckBox.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages.Add Method (Access)
+title: Pages.Add method (Access)
 keywords: vbaac10.chm10128
 f1_keywords:
 - vbaac10.chm10128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Add Method (Access)
+# Pages.Add method (Access)
 
 The  **Add** method adds a new **[Page](Access.Page.md)** object to the **[Pages](Access.Pages.md)** collection of a tab control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Pages](Access.Pages.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional|**Variant**|An  **Integer** that specifies the index of the **Page** object before which the new **Page** object should be added. The index of the **Page** object corresponds to the value of the **PageIndex** property for that **Page** object. If you omit this argument, the new **Page** object is added to the end of the collection.|
 

@@ -27,7 +27,7 @@ Returns a  **[Page](Publisher.Page.md)** object representing one of the pages th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The page from the reader spread to return. Can be either 1 or 2.|
 

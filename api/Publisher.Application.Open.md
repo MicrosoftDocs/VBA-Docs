@@ -27,7 +27,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|The name of the publication (paths are accepted).|
 |ReadOnly|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|

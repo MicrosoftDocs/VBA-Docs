@@ -27,7 +27,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data as a  **[Range](Excel.Range(object).md)** object.|
 | _Rowcol_|Optional| **[XlRowCol](Excel.XlRowCol.md)**|. Specifies whether the new values are in the rows or columns of the specified range.|

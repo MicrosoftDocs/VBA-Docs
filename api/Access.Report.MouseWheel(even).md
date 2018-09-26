@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required|**Boolean**|**True** if the page was changed.|
 | _Count_|Required|**Long**|The number of lines by which the view was scrolled with the mouse wheel.|

@@ -27,7 +27,7 @@ Returns the inverse of the right-tailed F probability distribution. If p = F_DIS
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - a probability associated with the F cumulative distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|

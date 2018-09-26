@@ -1,5 +1,5 @@
 ---
-title: Attachment.Back Method (Access)
+title: Attachment.Back method (Access)
 keywords: vbaac10.chm13978
 f1_keywords:
 - vbaac10.chm13978
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Back Method (Access)
+# Attachment.Back method (Access)
 
 Moves the focus to the previous file in the specified  **Attachment** control.
 

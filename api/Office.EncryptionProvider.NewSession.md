@@ -27,7 +27,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IUnknown**|Specifies the window that is called to display the encryption settings.|
 

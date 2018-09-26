@@ -27,7 +27,7 @@ Scrolls the contents of the window by pages.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional| **Variant**|The number of pages to scroll the contents down.|
 | _Up_|Optional| **Variant**|The number of pages to scroll the contents up.|

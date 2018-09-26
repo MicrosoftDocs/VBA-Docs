@@ -27,7 +27,7 @@ Changes the access permissions for the workbook. This may require an updated ver
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Mode_|Required| **[XlFileAccess](Excel.XlFileAccess.md)**|Specifies the new access mode.|
 | _WritePassword_|Optional| **Variant**|Specifies the write-reserved password if the file is write reserved and  _Mode_ is **xlReadWrite** . Ignored if there's no password for the file or if _Mode_ is **xlReadOnly** .|

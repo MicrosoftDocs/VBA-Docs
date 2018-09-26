@@ -27,7 +27,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|Represents an identifier of the PickerResult.|
 | _DisplayName_|Required|**String**|Represents a display name of the PickerResult. |

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.CloseDatabase Method (Access)
+title: DoCmd.CloseDatabase method (Access)
 keywords: vbaac10.chm5621
 f1_keywords:
 - vbaac10.chm5621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.CloseDatabase Method (Access)
+# DoCmd.CloseDatabase method (Access)
 
 Closes the current database.
 

@@ -27,7 +27,7 @@ Occurs when any add-in workbook is uninstalled.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The uninstalled workbook.|
 

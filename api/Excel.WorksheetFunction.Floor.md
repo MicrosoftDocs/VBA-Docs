@@ -31,7 +31,7 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the numeric value you want to round.|
 | _Arg2_|Required| **Double**|Significance - the multiple to which you want to round.|

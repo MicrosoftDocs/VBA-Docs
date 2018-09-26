@@ -24,7 +24,7 @@ Occurs when the selection handle is changed within a window in Project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the selection occurs.|
 | _sel_|Required|**Selection**|The selection.|

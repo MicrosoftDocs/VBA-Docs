@@ -27,7 +27,7 @@ Returns a single  **Presentation** object from the specified **Presentations** c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Presentation** object in the collection to be returned.|
 

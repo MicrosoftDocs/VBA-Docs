@@ -27,7 +27,7 @@ Creates a new shape whose path consists of a circular arc defined by its center,
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xCenter_|Required| **Double**|The x-coordinate of the center of the arc.|
 | _yCenter_|Required| **Double**|The y-coordinate of the center of the arc.|

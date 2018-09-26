@@ -27,7 +27,7 @@ Adds an AutoShape to a document. Returns a  **[Shape](Word.Shape.md)** object th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **Long**|The type of shape to be returned. Can be any  **MsoAutoShapeType** constant.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the AutoShape.|

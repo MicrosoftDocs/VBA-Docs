@@ -27,7 +27,7 @@ Prints an envelope without adding the envelope to the active document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the "EnvelopeAddress" bookmark (a user-defined bookmark) as the recipient's address.|
 | _Address_|Optional| **Variant**|A string that specifies the recipient's address (ignored if ExtractAddress is  **True**).|

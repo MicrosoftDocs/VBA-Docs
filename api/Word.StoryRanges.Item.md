@@ -27,7 +27,7 @@ Returns a single story of a range or selection as a  **Range** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdStoryType**|The specified story type.|
 

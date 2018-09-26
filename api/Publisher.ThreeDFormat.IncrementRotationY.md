@@ -27,7 +27,7 @@ Changes the rotation of the specified shape around the y-axis (vertical) by the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Single**|Specifies by how many degrees to rotate the shape around the y-axis. Can be a value from - 90 through 90. A positive value tilts the shape to the left; a negative value tilts it to the right.|
 

@@ -27,7 +27,7 @@ Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RemoveFromList_|Required| **Boolean**| **True** to remove the unloaded add-ins from the **AddIns** collection (the names are removed from the **Templates and Add-ins** dialog box). **False** to leave the unloaded add-ins in the collection. If the **Autoload** property for an unloaded add-in returns **True** , **Unload** cannot remove that add-in from the **AddIns** collection, regardless of the value of RemoveFromList.|
 

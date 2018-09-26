@@ -27,7 +27,7 @@ Positions the vertical split bar in a sheet view to display the specified number
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowColumns_|Optional|**Long**|Specifies the number of columns to display, including the locked  **ID** column. The value can be 1 through 75. The default value is the total number of columns currently displayed, including any partially hidden column.|
 

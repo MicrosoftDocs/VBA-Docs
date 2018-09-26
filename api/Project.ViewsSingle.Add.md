@@ -27,7 +27,7 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the view.|
 | _Screen_|Optional|**Long**| The project view. Can be one of the **[PjViewScreen](Project.PjViewScreen.md)** constants. The default value is **pjGantt**.|

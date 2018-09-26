@@ -27,7 +27,7 @@ Used to invalidate a built-in control.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**||
 

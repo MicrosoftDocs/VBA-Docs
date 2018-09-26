@@ -1,5 +1,5 @@
 ---
-title: Application.RunCommand Method (Access)
+title: Application.RunCommand method (Access)
 keywords: vbaac10.chm12568
 f1_keywords:
 - vbaac10.chm12568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RunCommand Method (Access)
+# Application.RunCommand method (Access)
 
 The  **RunCommand** method runs a built-in command.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Command_|Required|**AcCommand**|An  **[AcCommand](Access.AcCommand.md)** constant that specifies the commend to run.|
 

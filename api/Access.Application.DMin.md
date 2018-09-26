@@ -1,5 +1,5 @@
 ---
-title: Application.DMin Method (Access)
+title: Application.DMin method (Access)
 keywords: vbaac10.chm12525
 f1_keywords:
 - vbaac10.chm12525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DMin Method (Access)
+# Application.DMin method (Access)
 
 You can use  **DMin** function to determine minnimum value in a specified set of records (a domain). .
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the field for which you want to find the minimum or maximum value. It can be a string expression identifying a field in a table or query, or it can be an expression that performs [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md) . In _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|

@@ -27,7 +27,7 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Drop_|Required|**Single**|The drop distance, in points.|
 

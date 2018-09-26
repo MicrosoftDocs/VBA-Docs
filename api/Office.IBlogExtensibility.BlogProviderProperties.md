@@ -27,7 +27,7 @@ Contains information about the provider.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BlogProvider_|Required|**String**|The name of the blog provider.|
 | _FriendlyName_|Required|**String**|Represents the name displayed in the user interface.|

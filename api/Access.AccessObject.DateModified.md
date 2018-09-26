@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.DateModified
 ms.assetid: a5392776-febe-de09-103d-2d2683f2d0bf
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
@@ -40,8 +40,4 @@ Next acobjLoop
 ```
 
 
-## See also
-
-
-[AccessObject Object](Access.AccessObject.md)
 

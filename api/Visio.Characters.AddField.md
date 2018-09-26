@@ -27,7 +27,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Category_|Required| **Integer**| **VisFieldCategories** . The category for the new field.|
 | _Code_|Required| **Integer**| **VisFieldCodes** . The code for the new field.|

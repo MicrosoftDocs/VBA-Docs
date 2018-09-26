@@ -27,7 +27,7 @@ Inserts a new node just before the context node in the tree.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Represents the base name of the node to be added.|
 | _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|

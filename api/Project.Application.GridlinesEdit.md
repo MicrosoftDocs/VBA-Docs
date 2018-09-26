@@ -27,7 +27,7 @@ Edits gridlines.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**Integer**|The gridline to edit. Can be one of the following  **[PjGridline](Project.PjGridline.md)** constants:
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>If the Gantt Chart is active: <b>pjBarRows</b> , <b>pjGanttCurrentDate</b> , <b>pjGanttPageBreaks</b> , <b>pjGanttProjectFinish</b> , <b>pjGanttProjectStart</b> , <b>pjGanttRows</b> , <b>pjGanttSheetColumns</b> , <b>pjGanttSheetRows</b> , <b>pjGanttStatusDate</b> , <b>pjGanttTitleHorizontal</b> , <b>pjGanttTitleVertical</b> ,  <b>pjMajorColumns</b> , or <b>pjMinorColumns</b> .</p></li><li><p>If the Calendar view is active: <b>pjCalendarDays</b> , <b>pjCalendarWeeks</b> , <b>pjTitleHorizontal</b> , <b>pjTitleVertical</b> , <b>pjDateBoxTop</b> , or <b>pjDateBoxBottom</b> . 

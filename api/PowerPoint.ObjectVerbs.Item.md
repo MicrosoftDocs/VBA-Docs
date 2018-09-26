@@ -27,7 +27,7 @@ Returns a single object from the specified  **ObjectVerbs** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single object in the collection to be returned.|
 

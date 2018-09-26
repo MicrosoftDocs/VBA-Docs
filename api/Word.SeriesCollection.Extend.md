@@ -27,7 +27,7 @@ Adds new data points to an existing series collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data to be added to the  **SeriesCollection** object, represented as an A1-style range reference.|
 | _Rowcol_|Optional| **Variant**|One of the  **[XlRowCol](Word.xlrowcol.md)** enumeration values that specifies whether the new values are in the rows or columns of the given range source. If this argument is omitted, Microsoft Word attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|

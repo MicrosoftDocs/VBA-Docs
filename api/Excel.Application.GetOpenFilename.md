@@ -27,7 +27,7 @@ Displays the standard  **Open** dialog box and gets a file name from the user wi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileFilter_|Optional| **Variant**|A string specifying file filtering criteria.|
 | _FilterIndex_|Optional| **Variant**|Specifies the index numbers of the default file filtering criteria, from 1 to the number of filters specified in  _FileFilter_. If this argument is omitted or greater than the number of filters present, the first file filter is used.|

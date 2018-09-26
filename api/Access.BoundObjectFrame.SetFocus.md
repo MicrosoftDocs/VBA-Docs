@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.SetFocus Method (Access)
+title: BoundObjectFrame.SetFocus method (Access)
 keywords: vbaac10.chm10904
 f1_keywords:
 - vbaac10.chm10904
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.SetFocus Method (Access)
+# BoundObjectFrame.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

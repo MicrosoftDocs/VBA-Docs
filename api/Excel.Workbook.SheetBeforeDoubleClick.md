@@ -27,7 +27,7 @@ Occurs when any worksheet is double-clicked, before the default double-click act
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**| A **[Worksheet](Excel.Worksheet.md)** object that represents the sheet.|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the double-click occurred.|

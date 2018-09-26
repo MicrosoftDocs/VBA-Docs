@@ -27,7 +27,7 @@ Adds a new shortcut to a group in the  **Shortcuts** pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Variant**|The target of the shortcut being created.|
 | _Name_|Required| **String**|The name of the shortcut being created.|

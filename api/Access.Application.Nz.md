@@ -1,5 +1,5 @@
 ---
-title: Application.Nz Method (Access)
+title: Application.Nz method (Access)
 keywords: vbaac10.chm12554
 f1_keywords:
 - vbaac10.chm12554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Nz Method (Access)
+# Application.Nz method (Access)
 
 You can use the  **Nz** function to return zero, a zero-length string (" "), or another specified value when a **Variant** is **Null**. For example, you can use this function to convert a **Null** value to another value and prevent it from propagating through an expression.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Value_|Required|**Variant**|A variable of data type **Variant**.|
 | _ValueIfNull_|Optional|**Variant**|Optional (unless used in a query). A  **Variant** that supplies a value to be returned if the variant argument is **Null**. This argument enables you to return a value other than zero or a zero-length string.<table><tr><th>**Note**</th></tr><tr><td>If you use the  **Nz** function in an expression in a query without using the _valueifnull_ argument, the results will be a zero-length string in the fields that contain null values.</td></tr></table>|

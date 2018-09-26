@@ -27,7 +27,7 @@ Moves a style sheet's order of precedence.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Precedence_|Required| **WdStyleSheetPrecedence**|The precedence level.|
 

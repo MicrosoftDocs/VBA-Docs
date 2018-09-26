@@ -27,7 +27,7 @@ Sizes the specified task window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Width_|Required| **Long**|The width of the window, in points.|
 | _Height_|Required| **Long**|The height of the window, in points.|

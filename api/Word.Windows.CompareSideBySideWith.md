@@ -27,7 +27,7 @@ Opens two windows in side by side mode. Returns a **Boolean** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Document_|Required| **Variant**| The document to view in side by side windows.|
 

@@ -27,7 +27,7 @@ Occurs when a new shortcut is added to a  **Shortcuts** pane group.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewShortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The shortcut that is being added.|
 

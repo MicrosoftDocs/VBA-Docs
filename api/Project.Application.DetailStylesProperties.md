@@ -27,7 +27,7 @@ Sets the format of details in a usage view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AlignCellData_|Optional|**Long**|Specifies the alignment of data in cells. Can be one of the following  **PjAlignment** constants: **pjCenter**, **pjLeft**, or **pjRight**. The default value is **pjRight**.|
 | _RepeatRowLabel_|Optional|**Boolean**|**True** if details headers are repeated on all assignment rows. The default value is **True**.|

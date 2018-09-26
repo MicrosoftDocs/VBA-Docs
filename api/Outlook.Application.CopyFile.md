@@ -27,7 +27,7 @@ Copies a file from a specified location into a Microsoft Outlook store.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FilePath_|Required| **String**|The path name of the object you want to copy.|
 | _DestFolderPath_|Required| **String**|The location you want to copy the file to.|

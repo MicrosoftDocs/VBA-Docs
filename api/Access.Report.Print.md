@@ -1,5 +1,5 @@
 ---
-title: Report.Print Method (Access)
+title: Report.Print method (Access)
 keywords: vbaac10.chm13788
 f1_keywords:
 - vbaac10.chm13788
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Print Method (Access)
+# Report.Print method (Access)
 
 The  **Print** method prints text on a **[Report](Access.Report.md)** object using the current color and font.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|The string expressions to print. If this argument is omitted, the  **Print** method prints a blank line. Multiple expressions can be separated with a space, a semicolon (;), or a comma. A space has the same effect as a semicolon.|
 

@@ -27,7 +27,7 @@ Moves the specified object to a specific location within the same collection, re
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _toPos_|Required|**Long**|The index position to which to move the animation effect.|
 

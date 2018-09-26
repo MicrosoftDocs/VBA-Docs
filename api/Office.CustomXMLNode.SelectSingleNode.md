@@ -27,7 +27,7 @@ Selects a single node from a collection matching an XPath expression. This metho
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains an XPath expression.|
 

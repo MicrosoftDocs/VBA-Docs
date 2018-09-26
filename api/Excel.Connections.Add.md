@@ -27,7 +27,7 @@ Adds a new connction to the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Name of the connection.|
 | _Description_|Required| **String**|Brief description about the connection.|

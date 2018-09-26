@@ -27,7 +27,7 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that has the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number of the object in its collection.|
 

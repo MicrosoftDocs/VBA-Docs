@@ -27,7 +27,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameUOrIndex_|Required| **Variant**|The index number of the object in its collection.|
 

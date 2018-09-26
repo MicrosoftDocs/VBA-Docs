@@ -27,7 +27,7 @@ Private Sub  _expression_ _'DocumentOpen'(**_ByVal Doc As Document_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document that's being opened.|
 

@@ -27,7 +27,7 @@ Attaches a data source to the specified publication, which becomes a main public
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |bstrDataSource|Optional| **String**|The data source path and file name. You can specify a Microsoft Query (.qry) file instead of specifying a data source, a connection string, and a table name string; values in a Microsoft Query file override values for bstrConnect and bstrTable.|
 |bstrConnect|Optional| **String**|A connection string.|

@@ -27,7 +27,7 @@ Returns the value, description, or phonetic spelling of an item in the value lis
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Item_|Required|**Long**|The information to return. Can be one of the following  **PjValueListItem** constants: **pjValueListValue**, **pjValueListDescription**, or **pjValueListPhonetics**. The default value is **pjValueListValue**.|

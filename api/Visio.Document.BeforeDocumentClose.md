@@ -27,7 +27,7 @@ Private Sub  _expression_ _'BeforeDocumentClose'(**_ByVal doc As [IVDOCUMENT]_**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _doc_|Required| **[IVDOCUMENT]**|The document that is going to be closed.|
 

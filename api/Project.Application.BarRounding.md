@@ -27,7 +27,7 @@ Controls whether the start times of tasks are reflected by their corresponding t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _On_|Optional|**Boolean**|**True** if bars round to the nearest day. The default value is **True**.|
 

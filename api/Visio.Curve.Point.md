@@ -27,7 +27,7 @@ Returns a point at a position along a curve.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _t_|Required| **Double**|The value in the curve's parameter domain to evaluate.|
 | _x_|Required| **Double**|Returns  _x_ value of curve at _t_.|

@@ -24,7 +24,7 @@ Gets the date and time that precedes another date by a specified duration, using
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Required|**Variant**|Arbitrary date and time, for example, "7/10/2010" or "7/10/2010 2:00:00 PM".|
 | _Duration_|Required|**Variant**|Duration to subtract, for example, "3d" or "2w".|

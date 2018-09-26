@@ -27,7 +27,7 @@ Scrolls the document window so that items within a specified rectangular area ar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Long**|The horizontal distance (in points) from the left edge of the document window to the rectangle.|
 | _Top_|Required|**Long**|The vertical distance (in points) from the upper part of the document window to the rectangle.|

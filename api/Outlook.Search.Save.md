@@ -27,7 +27,7 @@ Saves the search results to a Search Folder.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchFldrName_|Required| **String**|A string that represents the Search Folder name.|
 

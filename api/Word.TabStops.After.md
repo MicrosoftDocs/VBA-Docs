@@ -27,7 +27,7 @@ Returns the next  **TabStop** object to the right of Position.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Required| **Single**|A location on the ruler, in points.|
 

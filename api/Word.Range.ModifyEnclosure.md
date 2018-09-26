@@ -27,7 +27,7 @@ Adds, modifies, or removes an enclosure around the specified character or charac
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **Variant**|The style of the enclosure. Can be any  **WdEncloseStyle** constant.|
 | _Symbol_|Optional| **Variant**|The symbol in which to enclose the specified range. Can be any  **WdEnclosureType** constant.|

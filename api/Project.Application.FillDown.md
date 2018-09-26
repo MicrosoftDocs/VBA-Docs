@@ -27,7 +27,7 @@ Fills the selected cells or rows with the values in the specified cell or row of
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional|**Boolean**|**True** if values in the top cell or row of the selection are copied down to the other selected cells or rows. **False** if values in the bottom cell or row of the selection are copied up to the other selected cells or rows. The default value is **True**.|
 

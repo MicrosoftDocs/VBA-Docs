@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetOrderBy Method (Access)
+title: DoCmd.SetOrderBy method (Access)
 keywords: vbaac10.chm5980
 f1_keywords:
 - vbaac10.chm5980
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetOrderBy Method (Access)
+# DoCmd.SetOrderBy method (Access)
 
 Use the  **SetOrderBy** method to apply a sort to the active datasheet, form, report, or table.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OrderBy_|Required|**Variant**|A string expression that includes the name of the field or fields on which to sort records and the optional ASC or DESC keywords.|
 | _ControlName_|Optional|**Variant**|If provided and the active object is a form or report, the name of the control that corresponds to the subform or subreport that will be sorted. If empty and the active object is a form or report, the parent form or report is sorted.|

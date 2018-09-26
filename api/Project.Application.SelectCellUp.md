@@ -27,7 +27,7 @@ Selects cells upward from the current selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumCells_|Optional|**Long**|The number of cells to select upward from the current selection. The default value is 1.|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the specified cell. The default value is **False**.|

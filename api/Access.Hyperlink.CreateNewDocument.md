@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (Access)
+title: Hyperlink.CreateNewDocument method (Access)
 keywords: vbaac10.chm10121
 f1_keywords:
 - vbaac10.chm10121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.CreateNewDocument Method (Access)
+# Hyperlink.CreateNewDocument method (Access)
 
 You can use the  **CreateNewDocument** method to create a new document associated with a specified hyperlink.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**| The name and path of the document. The type of document format you want used can be determine by the extension used with the filename. to output the data. You can create HTML (*.htm), Microsoft Active Server Pages (*.asp), Microsoft Excel (*.xls), Microsoft IIS (*.htx, *.idc), MS-DOS Text (*.txt), or Rich Text Format (*.rtf). Modules can be output only to MS-DOS text format. Microsoft Internet Information Server and Microsoft Active Server formats are available only for tables, queries, and forms.|
 | _EditNow_|Required|**Boolean**|**True** opens the document in design view and **False** stores the new document in the specified database directory. The default is **True**.|

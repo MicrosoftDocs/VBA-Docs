@@ -27,7 +27,7 @@ Adds fields to the  **Details** pane and option menu for the Task Usage or Resou
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CurIndex_|Optional|**Integer**|Current zero-based index of fields in the  **Show these fields** list in the **Detail Styles** dialog box. Values greater than the number of fields currently shown are reduced to the next highest value in the actual list. For example, if there are two fields showing and _CurIndex_ = 8, the value of _CurIndex_ is reduced to 2. The default value is 0.|
 | _Order_|Optional|**Integer**|Order of the field in an internal array of fields. For valid values, see the table of field names in the Remarks section.|

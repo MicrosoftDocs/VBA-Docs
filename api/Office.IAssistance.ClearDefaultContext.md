@@ -27,7 +27,7 @@ Clears the default help topic previously defined in the  **SetDefaultContext** m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpId_|Required|**String**|The ID of the default help topic.|
 

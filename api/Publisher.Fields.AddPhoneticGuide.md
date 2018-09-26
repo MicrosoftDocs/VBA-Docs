@@ -27,7 +27,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Range|Required| **TextRange**|The text in the publication over which the phonetic text is displayed.|
 |Text|Required| **String**|The phonetic text to add.|

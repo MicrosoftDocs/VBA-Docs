@@ -1,5 +1,5 @@
 ---
-title: Application.SetOption Method (Access)
+title: Application.SetOption method (Access)
 keywords: vbaac10.chm12504
 f1_keywords:
 - vbaac10.chm12504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SetOption Method (Access)
+# Application.SetOption method (Access)
 
 The  **SetOption** method sets the current value of an option in the **Access Options** dialog box.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OptionName_|Required|**String**|The name of the option. For a list of optionname argument strings, see [Set Options from Visual Basic](../access/Concepts/Settings/set-options-from-visual-basic.md).|
 | _Setting_|Required|**Variant**|A value corresponding to the option setting. The value of the setting argument depends on the possible settings for a particular option.|

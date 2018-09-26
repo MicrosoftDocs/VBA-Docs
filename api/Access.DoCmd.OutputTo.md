@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OutputTo Method (Access)
+title: DoCmd.OutputTo method (Access)
 keywords: vbaac10.chm4165
 f1_keywords:
 - vbaac10.chm4165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OutputTo Method (Access)
+# DoCmd.OutputTo method (Access)
 
 The **OutputTo** method carries out the OutputTo action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcOutputObjectType**|An [AcOutputObjectType](Access.AcOutputObjectType.md) constant that specifies the type of object to output.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _ObjectType_ argument. If you want to output the active object, specify the object's type for the _ObjectType_ argument and leave this argument blank. If you run Visual Basic code containing the **OutputTo** method in a library database, Microsoft Office Access searches for the object with this name, first in the library database, then in the current database.|

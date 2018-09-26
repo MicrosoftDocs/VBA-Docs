@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentWebUser Method (Access)
+title: Application.CurrentWebUser method (Access)
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentWebUser Method (Access)
+# Application.CurrentWebUser method (Access)
 
 Gets information about the current user of a Web database on Microsoft SharePoint Foundation 2010.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayOption_|Required|**AcWebUserDisplay**|Specifies the type of information to return about the user.|
 

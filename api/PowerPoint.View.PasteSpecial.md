@@ -27,7 +27,7 @@ Pastes the current contents of the Clipboard into the view represented by the  *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataType_|Optional|**PpPasteDataType**|A format for the Clipboard contents when they're inserted into the document. The default value varies, depending on the contents in the Clipboard. An error occurs if the specified data type in the DataType argument is not supported by the clipboard contents.|
 | _DisplayAsIcon_|Optional|**MsoTriState**|**msoTrue** to display the embedded object (or link) as an icon.|

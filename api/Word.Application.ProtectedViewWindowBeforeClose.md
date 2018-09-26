@@ -27,7 +27,7 @@ Occurs immediately before a protected view window or a document in a protected v
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PvWindow_|Required| **ProtectedViewWindow**|The protected view window that is closed.|
 | _CloseReason_|Required| **[INT]**|A constant in the [WdProtectedViewCloseReason](Word.WdProtectedViewCloseReason.md) enumeration that specifies the reason the protected view window is closed.|

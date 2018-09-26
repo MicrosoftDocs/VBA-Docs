@@ -27,7 +27,7 @@ Returns a single  **Hyperlink** object from the specified **Hyperlinks** collect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Hyperlink** object in the collection to be returned.|
 

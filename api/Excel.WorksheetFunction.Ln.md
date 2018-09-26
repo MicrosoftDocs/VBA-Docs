@@ -27,7 +27,7 @@ Returns the natural logarithm of a number. Natural logarithms are based on the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the positive real number for which you want the natural logarithm.|
 

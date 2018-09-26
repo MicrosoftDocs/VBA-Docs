@@ -1,5 +1,5 @@
 ---
-title: Application.DDEPoke Method (Access)
+title: Application.DDEPoke method (Access)
 keywords: vbaac10.chm12541
 f1_keywords:
 - vbaac10.chm12541
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEPoke Method (Access)
+# Application.DDEPoke method (Access)
 
 You can use the  **DDEPoke** statement to supply text data from a client application to a server application over an open dynamic data exchange (DDE) channel.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChanNum_|Required|**Variant**| A channel number, an integer returned by the **[DDEInitiate](Access.Application.DDEInitiate.md)** function.|
 | _Item_|Required|**String**|The name of a data item recognized by the application specified by the  **DDEInitiate** function. Check the application's documentation for a list of possible items.|

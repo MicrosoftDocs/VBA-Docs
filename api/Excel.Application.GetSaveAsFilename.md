@@ -27,7 +27,7 @@ Displays the standard  **Save As** dialog box and gets a file name from the user
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _InitialFilename_|Optional| **Variant**|Specifies the suggested file name. If this argument is omitted, Microsoft Excel uses the active workbook's name.|
 | _FileFilter_|Optional| **Variant**|A string specifying file filtering criteria.|

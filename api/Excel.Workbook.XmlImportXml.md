@@ -27,7 +27,7 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **String**|The data to import.|
 | _ImportMap_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply when importing the file.|

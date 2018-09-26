@@ -27,7 +27,7 @@ Moves the selection up and returns the number of units that it has been moved.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|The unit by which to move the selection. Can be one of the following  **WdUnits** constants: **wdLine** , **wdParagraph** , **wdWindow** or **wdScreen** . The default value is **wdLine** . You can use the **wdWindow** constant for the Unit argument to move to the top or bottom of the active window. Regardless of the value of Count (greater than 1 or less than ? 1), the **wdWindow** constant moves only one unit. Use the **wdScreen** constant to move more than one screen.|
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|

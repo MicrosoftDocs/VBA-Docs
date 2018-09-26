@@ -27,7 +27,7 @@ Sets a value for the percent complete field of one or more tasks in the Team Pla
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The  _Field_ argument can be only "% Complete". You can also use the **FieldConstantToFieldName** method with **pjTaskPercentComplete**, as in the example.|
 | _Value_|Required|**String**|Value of the  _Field_ argument. Values can range from "0" to "100" for percent complete.|

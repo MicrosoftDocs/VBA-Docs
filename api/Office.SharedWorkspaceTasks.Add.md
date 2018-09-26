@@ -30,7 +30,7 @@ Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorks
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Title_|Required|**String**|The title of the new task.|
 | _Status_|Optional|**msoSharedWorkspaceTask**|The status of the new task. Default is  **msoSharedWorkspaceTaskNotStarted**.|

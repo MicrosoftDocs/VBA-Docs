@@ -24,7 +24,7 @@ Gets a single  **Assignment** object from an **ActualStartDrivers** collection. 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the object to return.|
 

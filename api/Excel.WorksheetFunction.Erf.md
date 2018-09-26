@@ -31,7 +31,7 @@ For more information about the new function, see the [Erf_Precise](Excel.Workshe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lower_limit - the lower bound for integrating ERF.|
 | _Arg2_|Optional| **Variant**|Upper_limit - the upper bound for integrating ERF. If omitted, ERF integrates between zero and lower_limit.|

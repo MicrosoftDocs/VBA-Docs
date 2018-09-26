@@ -27,7 +27,7 @@ Returns an array of shape identifiers (IDs) of the container shapes on the page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NestedOptions_|Required| **[VisContainerNested](Visio.VisContainerNested.md)**|Indicates whether to exclude shapes in nested containers. See Remarks for possible values.|
 

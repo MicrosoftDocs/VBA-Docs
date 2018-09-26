@@ -27,7 +27,7 @@ Sets scheduling options.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ScheduleMessages_|Optional|**Variant**|**Boolean**. **True** if messages display when scheduling problems occur; otherwise, **False**.|
 | _StartOnCurrentDate_|Optional|**Boolean**|**True** if new tasks start on the current date. **False** if new tasks start on the project start date (projects scheduled from the start date) or on the project finish date (projects scheduled from the finish date).|

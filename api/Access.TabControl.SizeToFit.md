@@ -1,5 +1,5 @@
 ---
-title: TabControl.SizeToFit Method (Access)
+title: TabControl.SizeToFit method (Access)
 keywords: vbaac10.chm12069
 f1_keywords:
 - vbaac10.chm12069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.SizeToFit Method (Access)
+# TabControl.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 

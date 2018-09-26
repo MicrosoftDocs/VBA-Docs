@@ -27,7 +27,7 @@ Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** meth
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _After_|Optional| **Variant**|The cell before which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Note that  _After_ must be a single cell in the range. Remember that the search begins before this cell; the specified cell isn?t searched until the method wraps back around to this cell. If this argument isn?t specified, the search starts before the upper- left cell in the range.|
 

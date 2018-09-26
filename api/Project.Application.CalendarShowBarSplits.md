@@ -27,7 +27,7 @@ Shows or hides task splits on the Calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Boolean**|**True** if task splits appear on the Calendar. The default value is **True**.|
 

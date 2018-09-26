@@ -27,7 +27,7 @@ Returns a  **Design** object that represents a design loaded into the master lis
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TemplateName_|Required|**String**|The path to the design template.|
 | _Index_|Optional|**Long**|The index number of the design template in the collection of design templates. The default is -1, which means the design template is added to the end of the list of designs in the presentation.|

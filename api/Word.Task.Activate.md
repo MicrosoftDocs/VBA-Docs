@@ -27,7 +27,7 @@ Activates the  **Task** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wait_|Optional| **Variant**| **True** to wait until the user has activated Word before activating the task. **False** to immediately activate the task, even if Word isn't active.|
 

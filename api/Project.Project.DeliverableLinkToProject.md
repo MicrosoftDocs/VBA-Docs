@@ -24,7 +24,7 @@ Links a deliverable or a dependency to a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|GUID of the deliverable or the dependency to the link.|
 

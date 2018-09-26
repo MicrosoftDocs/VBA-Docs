@@ -1,5 +1,5 @@
 ---
-title: Form.Requery Method (Access)
+title: Form.Requery method (Access)
 keywords: vbaac10.chm13503
 f1_keywords:
 - vbaac10.chm13503
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Requery Method (Access)
+# Form.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified form by requerying the source of data for the form.
 

@@ -27,7 +27,7 @@ Adds a MERGESEQ field to a mail merge main document. Returns a  **MailMergeField
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the MERGESEQ field.|
 

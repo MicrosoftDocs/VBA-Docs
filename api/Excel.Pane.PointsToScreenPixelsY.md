@@ -27,7 +27,7 @@ Returns or sets the location of the pixel on the screen.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|Location of the starting point.|
 

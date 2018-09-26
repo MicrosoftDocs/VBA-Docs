@@ -27,7 +27,7 @@ Returns a  **Comment** object that represents a comment added to a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range to have a comment added to it.|
 | _Text_|Optional| **Variant**|The text of the comment.|

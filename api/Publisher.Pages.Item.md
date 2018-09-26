@@ -27,7 +27,7 @@ Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Long**|The number of the page to return. For  **MasterPages** collections, Item can either be 1 or 2 for the left and right master pages, respectively. For **Pages** collections, Item corresponds to a **Page** object's **[PageIndex](Publisher.Page.PageIndex.md)** property.|
 

@@ -24,7 +24,7 @@ Occurs before a baseline is saved. Uses the  **EventInfo** object parameter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project displayed in the window.|
 | _Interim_|Required|**Boolean**|**True** if saving an interim baseline. **False** if saving a full baseline.|

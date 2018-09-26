@@ -27,7 +27,7 @@ Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ModuleType_|Required| **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)**|The type of navigation module to be retrieved.|
 

@@ -27,7 +27,7 @@ Returns a list of supported functionality and the maximum allowed file size.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _serverUrl_|Required|**String**|The URL of the hosting Web service.|
 

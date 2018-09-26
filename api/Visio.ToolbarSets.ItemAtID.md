@@ -27,7 +27,7 @@ Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**|The Visio context ID of the object to retrieve.|
 

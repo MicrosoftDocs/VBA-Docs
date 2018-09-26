@@ -24,7 +24,7 @@ Private Sub  _expression_ _'RuleSetValidated'(**_ByVal RuleSet As ValidationRule
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RuleSet_|Required| **[ValidationRuleSet](Visio.ValidationRuleSet.md)**|The rule set that was validated.|
 

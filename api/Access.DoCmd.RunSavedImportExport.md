@@ -1,5 +1,5 @@
 ---
-title: DoCmd.RunSavedImportExport Method (Access)
+title: DoCmd.RunSavedImportExport method (Access)
 keywords: vbaac10.chm5878
 f1_keywords:
 - vbaac10.chm5878
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.RunSavedImportExport Method (Access)
+# DoCmd.RunSavedImportExport method (Access)
 
 Run a saved import or export specification.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SavedImportExportName_|Required|**Variant**| The name of a saved import or export specification to run.|
 

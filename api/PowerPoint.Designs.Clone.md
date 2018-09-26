@@ -27,7 +27,7 @@ Creates a copy of a  **[Design](PowerPoint.Design.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pOriginal_|Required|**Design**|**Design** object. The original design.|
 | _Index_|Optional|**Long**|The index location in the  **Designs** collection into which the design will be copied. If Index is omitted, the cloned design is added to the end of the **Designs** collection.|

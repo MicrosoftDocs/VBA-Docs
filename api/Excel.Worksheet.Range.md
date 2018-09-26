@@ -27,7 +27,7 @@ Returns a **[Range](Excel.Range(object).md)** object that represents a cell or a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cell1_|Required| **Variant**|A **String** that is a range reference when one argument is used. Either a **String** that is a range reference or a **Range** object when two arguments are used.|
 | _Cell2_|Optional| **Variant**|Either a **String** that is a range reference or a **Range** object. _Cell2_ defines another extremity of the range returned by the property.|

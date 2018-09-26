@@ -27,7 +27,7 @@ Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|Specifies the criteria for rows in the  **Table** object.|
 

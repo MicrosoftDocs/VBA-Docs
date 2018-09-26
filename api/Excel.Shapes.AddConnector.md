@@ -27,7 +27,7 @@ Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[MsoConnectorType](./Office.MsoConnectorType.md)**|The connector type to add.|
 | _BeginX_|Required| **Single**|The horizontal position (in points) of the connector's starting point relative to the upper-left corner of the document.|

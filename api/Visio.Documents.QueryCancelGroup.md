@@ -27,7 +27,7 @@ Private Sub  _expression_ _'QueryCancelGroup'(**_ByVal Selection As [IVSELECTION
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that is going to be grouped.|
 

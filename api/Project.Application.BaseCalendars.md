@@ -27,7 +27,7 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**String**|The calendar index number or calendar name.|
 | _Locked_|Optional|**Boolean**|**True** if Project disables the **New** and **Options** buttons in the **Change Working Time** dialog box.|

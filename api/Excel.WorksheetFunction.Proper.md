@@ -27,7 +27,7 @@ Capitalizes the first letter in a text string and any other letters in text that
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text - text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing the text you want to partially capitalize.|
 

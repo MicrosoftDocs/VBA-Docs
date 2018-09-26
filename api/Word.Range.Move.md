@@ -27,7 +27,7 @@ Collapses the specified range to its start or end position and then moves the co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **WdUnits**|The unit by which to move the range.|
 | _Count_|Optional| **Variant**|The number of units by which the specified range is to be moved. If Count is a positive number, the object is collapsed to its end position and moved backward in the document by the specified number of units. If Count is a negative number, the object is collapsed to its start position and moved forward by the specified number of units. The default value is 1. You can also control the collapse direction by using the  **Collapse** method before using the **Move** method. If the range is in the middle of a unit or isn't collapsed, moving it to the beginning or end of the unit counts as moving it one full unit.|

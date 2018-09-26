@@ -30,7 +30,7 @@ Returns an array of the row IDs of data-recordset rows linked to a shape that ar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeInConflict_|Required| **Shape**|A shape linked to data that has a conflict after the data recordset is refreshed.|
 

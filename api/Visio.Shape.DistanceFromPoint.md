@@ -27,7 +27,7 @@ Returns the distance from a shape to a point. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|An x-coordinate.|
 | _y_|Required| **Double**|A y-coordinate.|

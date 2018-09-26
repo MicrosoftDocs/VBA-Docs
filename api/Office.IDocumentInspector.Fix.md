@@ -24,7 +24,7 @@ Performs some action on specific information items or document properties by usi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required|**Object**|An object representing the container object.|
 | _Hwnd_|Required|**Long**|Unique identifier of the active document window.|

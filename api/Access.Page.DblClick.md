@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **DblClick** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **DblClick** event.|
 

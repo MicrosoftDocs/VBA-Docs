@@ -27,7 +27,7 @@ Adds a  **[Field](Word.Field.md)** object to the **Fields** collection. Returns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want to add the field. If the range isn't collapsed, the field replaces the range.|
 | _Type_|Optional| **Variant**|Can be any  **WdFieldType** constant. For a list of valid constants, consult the Object Browser. The default value is **wdFieldEmpty** .|

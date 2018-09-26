@@ -27,7 +27,7 @@ Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property. The maximum length is 64 characters. The characters, '[', ']', '_' and '#', are not permitted in the name.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new property.|

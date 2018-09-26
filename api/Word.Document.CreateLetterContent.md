@@ -27,7 +27,7 @@ Creates and returns a  **LetterContent** object based on the specified letter el
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DateFormat_|Required| **String**|The date for the letter.|
 | _IncludeHeaderFooter_|Required| **Boolean**| **True** to include the header and footer from the page design template.|

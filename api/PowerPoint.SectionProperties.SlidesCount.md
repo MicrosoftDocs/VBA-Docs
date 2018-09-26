@@ -27,7 +27,7 @@ Returns the number of slides in the specified section.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section.|
 

@@ -27,7 +27,7 @@ Selects or cancels the selection of an item in a Web list box control.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the Web list box item.|
 |SelectState|Required| **Boolean**| **True** to select the list item.|

@@ -27,7 +27,7 @@ Exports the active project as a document in PDF or XPS format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**String**|Specifies the file name of the exported document. The default value is the name of the active project as a PDF file.|
 | _FileType_|Optional|**[PjDocExportType](Project.PjDocExportType.md)**|Specifies whether to export the project as a PDF or an XPS document. The default value is  **pjPDF** (0).|

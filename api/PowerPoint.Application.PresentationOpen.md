@@ -27,7 +27,7 @@ Occurs after an existing presentation is opened, as it is added to the  **[Prese
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation that is opened.|
 

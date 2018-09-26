@@ -27,7 +27,7 @@ Creates an instance of a custom task pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CTPAxID_|Required|**String**|The CLSID or ProgID of a Microsoft ActiveX® object. |
 | _CTPTitle_|Required|**String**|The title for the task pane.|

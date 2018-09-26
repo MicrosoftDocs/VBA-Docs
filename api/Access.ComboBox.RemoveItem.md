@@ -1,5 +1,5 @@
 ---
-title: ComboBox.RemoveItem Method (Access)
+title: ComboBox.RemoveItem method (Access)
 keywords: vbaac10.chm11477
 f1_keywords:
 - vbaac10.chm11477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.RemoveItem Method (Access)
+# ComboBox.RemoveItem method (Access)
 
 Removes an item from the list of values displayed by the specified combo box control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The item to be removed from the list, expressed as either an item number or the list item text.|
 

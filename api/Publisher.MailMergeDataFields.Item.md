@@ -27,7 +27,7 @@ Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The number or name of the field to return.|
 

@@ -27,7 +27,7 @@ Returns an  **[RGBColor](PowerPoint.RGBColor.md)** object that represents a sing
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemeColor_|Required|**[PpColorSchemeIndex](PowerPoint.PpColorSchemeIndex.md)**|The individual color in the specified color scheme.|
 

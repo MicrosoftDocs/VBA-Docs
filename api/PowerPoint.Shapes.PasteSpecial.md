@@ -27,7 +27,7 @@ Pastes the contents of the Clipboard, using a special format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataType_|Optional|**PpPasteDataType**|A format for the Clipboard contents when they're inserted into the document. The default value varies, depending on the contents in the Clipboard. An error occurs if the specified data type in the DataType argument is not supported by the clipboard contents.|
 | _DisplayAsIcon_|Optional|**MsoTriState**|**MsoTrue** to display the embedded object (or link) as an icon.|

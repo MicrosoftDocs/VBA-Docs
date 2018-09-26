@@ -27,7 +27,7 @@ Selects the last cell in the active table that contains a resource or task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the last cell. If the active view is the Network Diagram or Resource Graph, **Extend** is ignored. The default value is **False**.|
 

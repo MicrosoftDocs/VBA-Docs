@@ -1,5 +1,5 @@
 ---
-title: SubForm.SetFocus Method (Access)
+title: SubForm.SetFocus method (Access)
 keywords: vbaac10.chm11920
 f1_keywords:
 - vbaac10.chm11920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.SetFocus Method (Access)
+# SubForm.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 

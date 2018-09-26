@@ -27,7 +27,7 @@ Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide wit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlideID_|Required|**Long**|Specifies the ID number of the slide you want to return. Microsoft PowerPoint assigns this number when the slide is created.|
 

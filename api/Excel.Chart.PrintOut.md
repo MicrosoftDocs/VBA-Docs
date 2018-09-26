@@ -27,7 +27,7 @@ Prints the object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Optional| **Variant**|The number of the page at which to start printing. If this argument is omitted, printing starts at the beginning.|
 | _To_|Optional| **Variant**|The number of the last page to print. If this argument is omitted, printing ends with the last page.|

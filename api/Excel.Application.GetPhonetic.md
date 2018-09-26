@@ -27,7 +27,7 @@ Returns the Japanese phonetic text of the specified text string. This method is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|Specifies the text to be converted to phonetic text. If you omit this argument, the next possible phonetic text string (if any) of the previously specified  _Text_ is returned. If there are no more possible phonetic text strings, an empty string is returned.|
 

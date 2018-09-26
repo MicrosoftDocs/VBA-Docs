@@ -1,5 +1,5 @@
 ---
-title: DoCmd.DeleteObject Method (Access)
+title: DoCmd.DeleteObject method (Access)
 keywords: vbaac10.chm4147
 f1_keywords:
 - vbaac10.chm4147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.DeleteObject Method (Access)
+# DoCmd.DeleteObject method (Access)
 
 The **DeleteObject** method carries out the DeleteObject action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcObjectType**|A **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of object to delete.|
 | _ObjectName_|Optional|**Variant**| string expression that's the valid name of an object of the type selected by the _objecttype_ argument. If you run Visual Basic code containing the **DeleteObject** method in a library database, Microsoft Access looks for the object with this name first in the library database, then in the current database.|

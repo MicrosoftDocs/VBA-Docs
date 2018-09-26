@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **BeforeDelConfirm** event occurs. Setting the _Cancel_ argument to **True** cancels the **BeforeDelConfirm** event and prevents the **Delete Confirm** dialog box from being displayed. If the event is canceled, the original records are restored, but the **AfterDelConfirm** event still occurs. If _Cancel_ is set to **True**, the _Response_ argument is ignored. If _Cancel_ is set to **False** (0), which it is by default, the value in the _Response_ argument is used by Microsoft Access to determine the type of response to the delete event.|
 | _Response_|Required|**Integer**|An intrinsic constant that determines whether Microsoft Access displays the Delete Confirm dialog box asking if the record should be deleted.  **acDataErrContinue** continues without displaying the **Delete Confirm** dialog box. Setting the _Cancel_ argument to **False** and the _Response_ argument to **acDataErrContinue** enables Microsoft Access to delete records without prompting the user. **acDataErrDisplay** displays the **Delete Confirm** dialog box. The default value is **acDataErrDisplay**.|

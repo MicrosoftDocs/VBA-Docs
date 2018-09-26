@@ -27,7 +27,7 @@ Used to display a dialog of the encryption settings for the current document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 | _ParentWindow_|Required|**IUnknown**|Specifies the window that is called to display the encryption settings.|

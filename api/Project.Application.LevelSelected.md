@@ -27,7 +27,7 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a  **[PjLevelSelectedOption](Project.PjLevelSelectedOption.md)** constant. The default is **pjResolveSelectedTasks**.|
 

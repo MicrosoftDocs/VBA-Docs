@@ -27,7 +27,7 @@ Returns a  **Boolean** that indicates if the indexed item is currently selected.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value that specifies the location of an item in the list.|
 

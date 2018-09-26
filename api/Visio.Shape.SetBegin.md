@@ -27,7 +27,7 @@ Moves the begin point of a one-dimensional (1-D) shape to the coordinates repres
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xPos_|Required| **Double**|The new x-coordinate of the begin point.|
 | _yPos_|Required| **Double**|The new y-coordinate of the begin point.|

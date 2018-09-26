@@ -27,7 +27,7 @@ Gets or sets the source of a linked custom document property. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pbstrSourceRetVal_|Required|**String**|Represents the name of the source of the document property.|
 

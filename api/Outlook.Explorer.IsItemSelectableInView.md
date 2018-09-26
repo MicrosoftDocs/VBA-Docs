@@ -27,7 +27,7 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that is being considered for selection.|
 

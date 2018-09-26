@@ -27,7 +27,7 @@ Zooms in on or out from the Gantt Chart, Resource Graph, Resource Usage, or Task
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Duration_|Optional|**Variant**|The duration to display in the view.|
 | _Entire_|Optional|**Boolean**|**True** if the view resizes to fit the entire project onto the screen. The default value is **False**.|

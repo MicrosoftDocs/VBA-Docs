@@ -27,7 +27,7 @@ Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) fi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|The name of the file that will contain the list of recipients.|
 |FileType|Optional| **PbRecipientListFileType**|The type of file to save. See Remarks for possible values.|

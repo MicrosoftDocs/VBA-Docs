@@ -27,7 +27,7 @@ Sets up margins for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up margins for printing.|
 | _Top_|Optional|**Long**|The size of the top margin in inches or centimeters.|

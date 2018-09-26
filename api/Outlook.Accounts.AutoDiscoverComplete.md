@@ -27,7 +27,7 @@ Occurs after Microsoft Outlook has finished accessing the auto-discovery service
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Account_|Required| **Account**|The account whose auto-discovery of the associated Exchange Server is complete.|
 

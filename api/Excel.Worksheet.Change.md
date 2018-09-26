@@ -27,7 +27,7 @@ Occurs when cells on the worksheet are changed by the user or by an external lin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[Range](Excel.Range(object).md)**|The changed range. Can be more than one cell.|
 

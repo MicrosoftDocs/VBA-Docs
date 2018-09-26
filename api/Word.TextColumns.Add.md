@@ -27,7 +27,7 @@ Returns a  **TextColumn** object that represents a new text column added to a se
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Width_|Optional| **Variant**|The width of the new text column in the document, in points.|
 | _Spacing_|Optional| **Variant**|The spacing between the text columns in the document, in points.|

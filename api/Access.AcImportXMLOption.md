@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcImportXMLOption enumeration (Access)
 
-Specifies the action to take when using the [Application.ImportXML Method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.
+Specifies the action to take when using the [Application.ImportXML method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.
 
 
 

@@ -27,7 +27,7 @@ Returns a  **CustomLayout** object that represents a new custom layout.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the custom layout. The default value is -1, which means that if the Index argument is omitted, the new custom layout is added at the end of existing custom layouts.|
 

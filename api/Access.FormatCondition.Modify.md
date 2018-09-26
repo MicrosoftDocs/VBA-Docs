@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Modify Method (Access)
+title: FormatCondition.Modify method (Access)
 keywords: vbaac10.chm10062
 f1_keywords:
 - vbaac10.chm10062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Modify Method (Access)
+# FormatCondition.Modify method (Access)
 
 You can use the  **Modify** method to change the format conditions of a **[FormatCondition](Access.FormatCondition.md)** object in the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [FormatCondition](Access.FormatConditi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**AcFormatConditionType**|A  **[AcFormatConditionType](Access.AcFormatConditionType.md)** constant that specifies the type of condition to be modified.|
 | _Operator_|Optional|**AcFormatConditionOperator**|A  **[AcFormatConditionOperator](access.acformatconditionoperator.md)** constant that specifies the type of operator to be used.<br/>**Note:** If the type argument is  **acExpression**, the operator argument is ignored. If you leave this argument blank, the default constant ( **acBetween** ) is assumed. |

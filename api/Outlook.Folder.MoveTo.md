@@ -27,7 +27,7 @@ Moves a folder to the specified destination folder.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DestinationFolder_|Required| **Folder**|The destination  **Folder** for the **Folder** that is being moved.|
 

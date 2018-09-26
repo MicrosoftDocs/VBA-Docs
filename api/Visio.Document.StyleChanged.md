@@ -27,7 +27,7 @@ Private Sub  _expression_ _'StyleChanged'(**_ByVal Style As [IVSTYLE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _style_|Required| **[IVSTYLE]**|The style that changed.|
 

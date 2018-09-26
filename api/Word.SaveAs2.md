@@ -27,7 +27,7 @@ Saves the specified document with a new name or format. Some of the arguments fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Optional| **Variant**|The name for the document. The default is the current folder and file name. If the document has never been saved, the default name is used (for example, Doc1.doc). If a document with the specified file name already exists, the document is overwritten without prompting the user.|
 | _FileFormat_|Optional| **Variant**|The format in which the document is saved. Can be any  **[WdSaveFormat](Word.WdSaveFormat.md)** constant. To save a document in another format, specify the appropriate value for the **[SaveFormat](Word.FileConverter.SaveFormat.md)** property of the **[FileConverter](Word.FileConverter.md)** object.|

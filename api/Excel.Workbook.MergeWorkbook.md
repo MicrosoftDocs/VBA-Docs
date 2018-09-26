@@ -27,7 +27,7 @@ Merges changes from one workbook into an open workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **Variant**|The file name of the workbook that contains the changes to be merged into the open workbook.|
 

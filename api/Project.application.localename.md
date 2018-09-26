@@ -22,7 +22,7 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 

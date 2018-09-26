@@ -1,5 +1,5 @@
 ---
-title: ListBox.RemoveItem Method (Access)
+title: ListBox.RemoveItem method (Access)
 keywords: vbaac10.chm11302
 f1_keywords:
 - vbaac10.chm11302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.RemoveItem Method (Access)
+# ListBox.RemoveItem method (Access)
 
 Removes an item from the list of values displayed by the specified list box control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The item to be removed from the list, expressed as either an item number or the list item text.|
 

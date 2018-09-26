@@ -1,5 +1,5 @@
 ---
-title: Pages.Remove Method (Access)
+title: Pages.Remove method (Access)
 keywords: vbaac10.chm10129
 f1_keywords:
 - vbaac10.chm10129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Remove Method (Access)
+# Pages.Remove method (Access)
 
 The  **Remove** method removes a **[Page](Access.Page.md)** object from the **[Pages](Access.Pages.md)** collection of a tab control.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Pages](Access.Pages.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Variant**|An integer that specifies the index of the  **Page** object to be removed. The index of the **Page** object corresponds to the value of the **PageIndex** property for that **Page** object. If you omit this argument, the last **Page** object in the collection is removed.|
 

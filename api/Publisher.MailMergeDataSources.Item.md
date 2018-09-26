@@ -27,7 +27,7 @@ Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The index number or name of the object to return.|
 

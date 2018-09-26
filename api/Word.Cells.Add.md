@@ -27,7 +27,7 @@ Returns a  **Cell** object that represents a cell added to a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeCell_|Optional| **Variant**|A  **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
 

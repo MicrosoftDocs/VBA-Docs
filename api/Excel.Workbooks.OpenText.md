@@ -27,7 +27,7 @@ Loads and parses a text file as a new workbook with a single sheet that contains
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Specifies the file name of the text file to be opened and parsed.|
 | _Origin_|Optional| **Variant**|Specifies the origin of the text file. Can be one of the following  **XlPlatform** constants: **xlMacintosh** , **xlWindows** , or **xlMSDOS** . Additionally, this could be an integer representing the code page number of the desired code page. For example, "1256" would specify that the encoding of the source text file is Arabic (Windows). If this argument is omitted, the method uses the current setting of the **File Origin** option in the **Text Import Wizard**.|

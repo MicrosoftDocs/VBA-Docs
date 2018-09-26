@@ -27,7 +27,7 @@ Private Sub  _expression_ _'XMLValidationError'(**_XMLNode As XMLNode_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XMLNode_|Required| **XMLNode**|The XML element that is invalid.|
 

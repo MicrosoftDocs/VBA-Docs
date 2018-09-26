@@ -27,7 +27,7 @@ Adds a new conditional format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|. Specifies whether the conditional format is based on a cell value or an expression.|
 | _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following  **XlFormatConditionOperator** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual** . If _Type_ is **xlExpression** , the _Operator_ argument is ignored.|

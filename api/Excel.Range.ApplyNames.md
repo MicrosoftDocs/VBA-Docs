@@ -27,7 +27,7 @@ Applies names to the cells in the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Names_|Optional| **Variant**| An array of the names to be applied. If this argument is omitted, all names on the sheet are applied to the range.|
 | _IgnoreRelativeAbsolute_|Optional| **Variant**| **True** to replace references with names, regardless of the reference types of either the names or references. **False** to replace absolute references only with absolute names, relative references only with relative names, and mixed references only with mixed names. The default value is **True** .|

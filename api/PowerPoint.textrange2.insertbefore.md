@@ -22,7 +22,7 @@ Inserts text to the left of the existing text in the  **TextRange2** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewText_|Optional|**String**|Contains the text to be inserted.|
 

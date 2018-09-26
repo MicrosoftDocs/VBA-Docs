@@ -1,5 +1,5 @@
 ---
-title: Attachment.Forward Method (Access)
+title: Attachment.Forward method (Access)
 keywords: vbaac10.chm13977
 f1_keywords:
 - vbaac10.chm13977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Forward Method (Access)
+# Attachment.Forward method (Access)
 
 Moves the focus to the next file in the specified  **Attachment** control.
 

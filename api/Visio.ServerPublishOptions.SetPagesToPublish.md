@@ -27,7 +27,7 @@ Specifies the pages to publish to a server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PublishPages_|Required| **[VisPublishPages](Visio.VisPublishPages.md)**|Indicates whether all pages or selected pages are to be published. See Remarks for possible values.|
 | _NamesArray()_|Required| **String**|The names of the pages to be published, if  _PublishPages_ is **visPublishPageSelect** .|

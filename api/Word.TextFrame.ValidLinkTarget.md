@@ -27,7 +27,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TargetTextFrame_|Required| **TextFrame**|The target text frame to which you want to link the text frame returned by expression.|
 

@@ -27,7 +27,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pDisp_|Required|**Object**|A pointer to an  **IDispatch** interface for the WebBrowser object that represents the window or frame in which the navigation error occurred.|
 | _URL_|Required|**Variant**|Contains the URL for which navigation failed.|

@@ -27,7 +27,7 @@ Adds a new  **[SlicerCache](Excel.SlicerCache.md)** object to the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The data source that the new  **SlicerCache** will be based on. The argument passed to the _Source_ parameter can be a **[WorkbookConnection](Excel.WorkbookConnection.md)** object, a **[PivotTable](Excel.PivotTable.md)** object, or a string. If a **PivotTable** object is passed, the associated **[PivotCache](Excel.PivotCache.md)** object is used as the data source. If a string is passed, it is interpreted as the name of a **WorkbookConnection** object, and if no such **WorkbookConnection** object exists, a run-time error is generated.|
 | _SourceField_|Required| **Variant**|The name of the field in the data source to filter by. For non-OLAP data sources, use the  **[PivotField](Excel.PivotField.md)** object from the **PivotCache** object that the slicer is based on, or the unique name of that object (the value of the **PivotField** . **[Name](Excel.PivotField.Name.md)** property). For OLAP data sources, use the MDX unique name of the hierarchy that the **SlicerCache** is based on. You can also specify a level of the OLAP hierarchy, and Excel will use the corresponding hierarchy.|

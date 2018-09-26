@@ -1,5 +1,5 @@
 ---
-title: Module.AddFromFile Method (Access)
+title: Module.AddFromFile method (Access)
 keywords: vbaac10.chm12274
 f1_keywords:
 - vbaac10.chm12274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.AddFromFile Method (Access)
+# Module.AddFromFile method (Access)
 
 The  **AddFromFile** method adds the contents of a text file to a **Module** object. The **Module** object may represent a standard module or a class module.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name and full path of a text (.txt) file or another file that stores text in an ANSI format.|
 

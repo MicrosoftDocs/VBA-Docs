@@ -27,7 +27,7 @@ Occurs when you click any hyperlink on a worksheet. For application- and workboo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Hyperlink**|A  **[Hyperlink](Excel.Hyperlink.md)** object that represents the destination of the hyperlink.|
 

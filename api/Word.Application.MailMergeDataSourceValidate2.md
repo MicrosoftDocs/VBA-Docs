@@ -27,7 +27,7 @@ Occurs when a user validates mail merge recipients by clicking the  **Validate a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The mail merge main document.|
 | _Handled_|Required| **Boolean**| **True** if the add-in has handled the validation event.|

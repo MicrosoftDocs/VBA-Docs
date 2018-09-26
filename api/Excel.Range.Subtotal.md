@@ -27,7 +27,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GroupBy_|Required| **Long**|The field to group by, as a one-based integer offset. For more information, see the example.|
 | _Function_|Required| **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**|. The subtotal function.|

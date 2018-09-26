@@ -27,7 +27,7 @@ Parses a column of cells that contain text into several columns.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|A  **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
 | _DataType_|Optional| **[XlTextParsingType](Excel.XlTextParsingType.md)**|The format of the text to be split into columns.|

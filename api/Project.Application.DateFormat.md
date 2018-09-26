@@ -27,7 +27,7 @@ Returns a date in the specified format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Required|**Variant**|The date to format.|
 | _Format_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](Project.PjDateFormat.md)** constants. The default value is **pjDateDefault**.|

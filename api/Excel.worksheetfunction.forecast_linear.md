@@ -25,7 +25,7 @@ Calculates, or predicts, a future value by using existing values. The predicted 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|x - the data point for which you want to predict a value.|
 | _Arg2_|Required| **Variant**|known_y's - the dependent array or range of data.|

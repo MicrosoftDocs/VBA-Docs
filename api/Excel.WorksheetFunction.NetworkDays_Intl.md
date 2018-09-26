@@ -25,7 +25,7 @@ Returns the number of whole workdays between two dates using parameters to indic
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - The start date for which the difference is to be computed. The start_date can be earlier than, the same as, or later than the end_date.|
 | _Arg2_|Required| **Variant**|End_date - The end date for which the difference is to be computed. The start_date can be earlier than, the same as, or later than the end_date.|

@@ -27,7 +27,7 @@ Removes a file dialog filter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filter_|Optional|**Variant**|The filter to be removed.|
 

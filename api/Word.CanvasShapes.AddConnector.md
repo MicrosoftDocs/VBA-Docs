@@ -27,7 +27,7 @@ Returns a  **[Shape](Word.Shape.md)** object that represents a connecting line b
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **MsoConnectorType**|The type of connector.|
 | _BeginX_|Required| **Single**|The horizontal position that marks the beginning of the connector.|

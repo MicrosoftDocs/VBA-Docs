@@ -27,7 +27,7 @@ Returns a  **Dictionary** object that represents a new custom spelling or conver
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The string name of the dictionary file. If no path is specified in the string, the proofing tools path is used.|
 

@@ -27,7 +27,7 @@ Converts degrees to radians.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Angle - an angle in degrees that you want to convert.|
 

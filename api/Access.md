@@ -43,7 +43,7 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcHyperlinkPart](Access.AcHyperlinkPart.md)|Specifies the the information you want returned by the  **HyperlinkPart** method.|
 | [AcImeMode](Access.AcImeMode.md)|Specifies the default startup mode for the Japanese Input Method Editor (IME). |
 | [AcImeSentenceMode](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](overview/Access.md) property to specify the IME sentence mode for the IMM.|
-| [AcImportXMLOption](Access.AcImportXMLOption.md)|Specifies the action to take when using the [Application.ImportXML Method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.|
+| [AcImportXMLOption](Access.AcImportXMLOption.md)|Specifies the action to take when using the [Application.ImportXML method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.|
 | [AcLayoutType](Access.AcLayoutType.md)|Specifies the type of layout that the control is part of.|
 | [AcModuleType](Access.AcModuleType.md)|Returns the type of the specified Visual Basic module.|
 | [AcNavigationSpan](Access.AcNavigationSpan.md)|Specifies the orientation of navigation buttons.|
@@ -66,19 +66,19 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcQuitOption](Access.AcQuitOption.md)|Used with the [Quit](Access.Application.Quit.md) method to specify whether or not to save changes to the database when quitting Microsoft Access.|
 | [AcRecord](Access.AcRecord.md)|Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which record to make the current record.|
 | [AcResourceType](Access.AcResourceType.md)|Specifies the type of a [SharedResource](Access.SharedResource.md) object.|
-| [AcSearchDirection](Access.AcSearchDirection.md)|Used with the [DoCmd.FindRecord Method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.|
+| [AcSearchDirection](Access.AcSearchDirection.md)|Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.|
 | [AcSection](Access.AcSection.md)|Specifies the section that will contain the new control.|
-| [AcSendObjectType](Access.AcSendObjectType.md)|Used with the [DoCmd.SendObject Method (Access)](Access.docmd.sendobject.md) method to specify the type of object to send.|
+| [AcSendObjectType](Access.AcSendObjectType.md)|Used with the [DoCmd.SendObject method (Access)](Access.docmd.sendobject.md) method to specify the type of object to send.|
 | [AcSeparatorCharacters](Access.AcSeparatorCharacters.md)|Used with the [ComboBox.SeparatorCharacters property (Access)](Access.combobox.separatorcharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.|
-| [AcSharePointListTransferType](Access.AcSharePointListTransferType.md)|Used with the [DoCmd.TransferSharePointList Method (Access)](Access.docmd.transfersharepointlist.md) method to specify whether to import or link to a SharePoint list.|
-| [AcShowToolbar](Access.AcShowToolbar.md)|Used with the [DoCmd.ShowToolbar Method (Access)](Access.docmd.showtoolbar.md) method to specify whether to display a particular custom toolbar.|
+| [AcSharePointListTransferType](Access.AcSharePointListTransferType.md)|Used with the [DoCmd.TransferSharePointList method (Access)](Access.docmd.transfersharepointlist.md) method to specify whether to import or link to a SharePoint list.|
+| [AcShowToolbar](Access.AcShowToolbar.md)|Used with the [DoCmd.ShowToolbar method (Access)](Access.docmd.showtoolbar.md) method to specify whether to display a particular custom toolbar.|
 | [AcSplitFormDatasheet](Access.AcSplitFormDatasheet.md)|Used with the [Form.SplitFormDatasheet property (Access)](Access.form.splitformdatasheet.md) property to specify whether the user can edit contents of the datasheet while a form is displayed in Split Form view.|
 | [AcSplitFormOrientation](Access.AcSplitFormOrientation.md)|Used with the [SplitFormOrientation](Access.Form.SplitFormOrientation.md) property to specify the orientation of the datasheet in relation to the form while in Split Form view.|
 | [AcSplitFormPrinting](Access.AcSplitFormPrinting.md)|Used with the [SplitFormPrinting](Access.Form.SplitFormPrinting.md) property to specify what to print when a form is in Split Form view.|
 | [AcSpreadSheetType](Access.AcSpreadSheetType.md)|Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method to specify the type of spreadsheet to import from, export to, or link to.|
 | [AcSysCmdAction](Access.AcSysCmdAction.md)|Used with the  **SysCmd** method to specify an action to take.|
 | [AcTextFormat](Access.AcTextFormat.md)|Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whether or not rich text is displayed in a Text Box.|
-| [AcTextTransferType](Access.AcTextTransferType.md)|Used with the [DoCmd.TransferText Method (Access)](Access.docmd.transfertext.md) method to specify the type of transfer you want to make.|
+| [AcTextTransferType](Access.AcTextTransferType.md)|Used with the [DoCmd.TransferText method (Access)](Access.docmd.transfertext.md) method to specify the type of transfer you want to make.|
 | [AcTransformXMLScriptOption](Access.AcTransformXMLScriptOption.md)|Used with the [TransformXML](Access.Application.TransformXML.md) method to specify the action taken if the XSL file contains scripting code.|
 | [AcVerticalAnchor](Access.AcVerticalAnchor.md)|Used with the  **VerticalAnchor** property to specify how a control is anchored vertically within its layout.|
 | [AcView](Access.AcView.md)|Specifies an object's view.|

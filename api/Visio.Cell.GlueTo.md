@@ -27,7 +27,7 @@ Glues one shape to another, from a cell in the first shape to a cell in the seco
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CellObject_|Required| **[IVCELL]**|An expression that returns a  **Cell** object that represents the part of the shape to glue to.|
 

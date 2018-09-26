@@ -27,7 +27,7 @@ Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Icon_|Required| **Variant**|The path of the icon.|
 

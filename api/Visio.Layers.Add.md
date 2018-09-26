@@ -27,7 +27,7 @@ Adds a new  **Layer** object to a **Layers** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LayerName_|Required| **String**|The name of the new layer.|
 

@@ -30,7 +30,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectsToInstance()_|Required| **Variant**|An array of type  **Variant** of objects to create instances of.|
 | _XYs()_|Required| **Double**|An array of type  **Double**|

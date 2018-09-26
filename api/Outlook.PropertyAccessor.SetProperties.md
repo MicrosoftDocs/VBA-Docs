@@ -27,7 +27,7 @@ Sets the properties specified by the array  _SchemaNames_ to the values specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemaNames_|Required| **Variant**|An array of names of properties whose values are to be set as specified by the  _Values_ parameter. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 | _Values_|Required| **Variant**|An array of values that are to be set for the properties specified by the  _SchemaNames_ parameter.|

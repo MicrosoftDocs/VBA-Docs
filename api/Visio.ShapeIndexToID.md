@@ -24,7 +24,7 @@ Gets the ID of the shape at the specified index position in the collection of sh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index position of the shape in the collection of shapes.|
 

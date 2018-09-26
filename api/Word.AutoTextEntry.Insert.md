@@ -27,7 +27,7 @@ Inserts the AutoText entry in place of the specified range. Returns a  **Range**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Where_|Required| **Range**|The location for the AutoText entry.|
 | _RichText_|Optional| **Variant**| **True** to insert the AutoText entry with its original formatting.|

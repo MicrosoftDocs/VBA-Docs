@@ -27,7 +27,7 @@ Binds a built-in property or custom property to a control in an inspector.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Control_|Required| **Object**|The control that will be bound to a property.|
 | _PropertyName_|Required| **String**|The name of the property that will be bound to the control.|

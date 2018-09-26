@@ -27,7 +27,7 @@ Horizontally rotates a shape on the x-axis using the specified incrementation va
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies the incrementation value.|
 

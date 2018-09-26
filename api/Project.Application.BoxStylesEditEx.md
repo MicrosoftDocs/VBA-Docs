@@ -27,7 +27,7 @@ Sets the style of boxes in the Network Diagram view, where colors can be hexadec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**Long**|The box style to change. Can be one of the  **[PjBoxStyle](Project.PjBoxStyle.md)** constants.|
 | _DataTemplate_|Optional|**String**|The name of the data template to use for the style.|

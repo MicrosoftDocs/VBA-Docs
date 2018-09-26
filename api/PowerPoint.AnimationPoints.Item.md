@@ -27,7 +27,7 @@ Returns a single  **AnimationPoint** object from the specified **AnimationPoints
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **AnimationPoint** object in the collection to be returned.|
 

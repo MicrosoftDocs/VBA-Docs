@@ -27,7 +27,7 @@ Creates a new style and adds it to the list of styles that are available for the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The new style name.|
 

@@ -24,7 +24,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Forward_|Required| **Object**|The new item being forwarded.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the forward operation is not completed and the new item is not displayed.|

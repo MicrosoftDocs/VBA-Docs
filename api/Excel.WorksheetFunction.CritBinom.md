@@ -27,7 +27,7 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The number of Bernoulli trials.|
 | _Arg2_|Required| **Double**|The probability of a success on each trial.|

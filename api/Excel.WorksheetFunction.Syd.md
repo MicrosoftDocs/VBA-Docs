@@ -27,7 +27,7 @@ Returns the sum-of-years' digits depreciation of an asset for a specified period
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
 | _Arg2_|Required| **Double**|Salvage - the value at the end of the depreciation (sometimes called the salvage value of the asset).|

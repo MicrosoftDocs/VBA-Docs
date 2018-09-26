@@ -24,7 +24,7 @@ Occurs when the user shows or hides the Project Guide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**| The window where the **Project Guide** is shown or hidden.|
 | _Close_|Required|**Boolean**|**False** if the user is closing the **Project Guide**.  **True** if the user is showing the **Project Guide**.|

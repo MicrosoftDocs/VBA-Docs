@@ -27,7 +27,7 @@ Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Variant**|Contains an array of  **String** values, as described in the Remarks section.|
 | _LinkSource_|Required| **Boolean**||

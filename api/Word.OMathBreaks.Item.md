@@ -27,7 +27,7 @@ Returns an  **OMathBreak** object that represents the specified item in the coll
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 

@@ -27,7 +27,7 @@ Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whos
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The sine of the angle you want and must be from -1 to 1.|
 

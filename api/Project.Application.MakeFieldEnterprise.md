@@ -27,7 +27,7 @@ Adds a local custom field to Project Server as an enterprise custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|Identification number of the local custom field. Use the  **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method to get the FieldID argument.|
 | _FieldName_|Required|**String**|Name of the enterprise custom field to create.|

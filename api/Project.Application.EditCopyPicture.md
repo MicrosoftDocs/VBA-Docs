@@ -27,7 +27,7 @@ Copies the active view as a picture or an OLE object, or exports the active view
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Object_|Optional|**Boolean**|**True** if the view should be copied as an OLE object. The default value is **False**.|
 | _ForPrinter_|Optional|**Long**|Specifies where to copy the view. Can be one of the following  **PjCopyPictureFor** constants: **pjScreen**, **pjPrinter**, or **pjGIF**. If **Object** is **True**, **ForPrinter** is ignored. The default value is **pjScreen**.|

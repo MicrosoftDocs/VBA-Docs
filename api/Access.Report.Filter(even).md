@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines whether to open the filter window. Setting the  _Cancel_ argument to **True** (?1) prevents the filter window from opening. You can also use the **CancelEvent** method of the **DoCmd** object to cancel opening the filter window.|
 | _FilterType_|Required|**Integer**|The filter window the user is trying to open. The  _FilterType_ argument can be **acFilterAdvanced**.|

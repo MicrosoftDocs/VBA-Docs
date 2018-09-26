@@ -27,7 +27,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Required|**String**|The address of the target document.|
 | _SubAddress_|Optional|**String**|The location in the target document. By default, this argument is an empty string.|

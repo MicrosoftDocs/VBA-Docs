@@ -27,7 +27,7 @@ Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the defined name to be returned.|
 | _IndexLocal_|Optional| **Variant**|The name of the defined name, in the language of the user. No names will be translated if you use this argument.|

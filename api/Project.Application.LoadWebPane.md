@@ -24,7 +24,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window from where the  **LoadWebBrowserControl** method was called.|
 | _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|

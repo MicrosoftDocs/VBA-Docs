@@ -27,7 +27,7 @@ Maps a field (column) in a particular data source represented by the parent  **M
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |bstrValue|Optional| **String**|The name of the recipient field that the data source column is to be mapped to.|
 

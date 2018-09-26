@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Quit Method (Access)
+title: DoCmd.Quit method (Access)
 keywords: vbaac10.chm4167
 f1_keywords:
 - vbaac10.chm4167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Quit Method (Access)
+# DoCmd.Quit method (Access)
 
 The  **Quit** method quits Microsoft Access. You can select one of several options for saving a database object before quitting.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Options_|Optional|**AcQuitOption**|An  **[AcQuitOption](Access.AcQuitOption.md)** constant that indicates the action to take when quitting Access. The default value is **acQuitSaveAll**.|
 

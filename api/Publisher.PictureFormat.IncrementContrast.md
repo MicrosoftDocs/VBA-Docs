@@ -27,7 +27,7 @@ Changes the contrast of the picture by the specified amount.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Single**|Specifies how much to change the value of the  **[Contrast](Publisher.PictureFormat.Contrast.md)** property for the picture. A positive value increases the contrast; a negative value decreases the contrast. Valid values are between - 1 and 1.|
 

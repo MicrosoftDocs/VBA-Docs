@@ -27,7 +27,7 @@ Specifies the active printer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Printer_|Optional|**String**|The full name or port name of the active printer.|
 

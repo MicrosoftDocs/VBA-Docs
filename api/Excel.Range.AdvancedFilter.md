@@ -27,7 +27,7 @@ Filters or copies data from a list based on a criteria range. If the initial sel
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Action_|Required| **[XlFilterAction](Excel.XlFilterAction.md)**|One of the constants of  **XlFilterAction** specifying whether to make a copy or filter the list in place.|
 | _CriteriaRange_|Optional| **Variant**|The criteria range. If this argument is omitted, there are no criteria.|

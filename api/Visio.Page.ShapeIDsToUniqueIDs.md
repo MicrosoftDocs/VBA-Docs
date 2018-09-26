@@ -27,7 +27,7 @@ Returns an array of unique IDs of shapes on the page, as specified by their shap
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeIDs()_|Required| **Long**|An array of type  **Long** of shape IDs corresponding to a set of shapes on the active drawing page.|
 | _UniqueIDArgs_|Required| **VisUniqueIDArgs**|Gets, deletes, or makes the unique ID of a  **Shape** object. See Remarks for possible values.|

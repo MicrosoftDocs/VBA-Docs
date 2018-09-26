@@ -1,5 +1,5 @@
 ---
-title: Application.CreateAccessProject Method (Access)
+title: Application.CreateAccessProject method (Access)
 keywords: vbaac10.chm12582
 f1_keywords:
 - vbaac10.chm12582
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateAccessProject Method (Access)
+# Application.CreateAccessProject method (Access)
 
 You can use the  **CreateAccessProject** method to create a new Microsoft Access project (.adp) on disk.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|A string expression that is the name of the new Access project, including the path name and the file name extension. If your network supports it, you can also specify a network path in the following form: \\Server\Share\Folder\Filename.adp|
 | _Connect_|Optional|**Variant**|A string expression that's the valid connection string for the Access project. See the ADO  **ConnectionString** property for details about this string.|

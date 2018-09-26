@@ -27,7 +27,7 @@ Displays a message in a message box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Message_|Required|**String**|The message to display in the dialog box.|
 | _Type_|Optional|**Long**|The buttons to include in the message dialog box. Can be one of the  **[PjMessageType](Project.PjMessageType.md)** constants. The default value is **pjOKOnly**.|

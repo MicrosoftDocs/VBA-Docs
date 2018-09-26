@@ -27,7 +27,7 @@ Navigates to an arbitrary hyperlink.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Required| **String**|The address to which you want to navigate. If you pass an incorrect or non-existent path or filename for  _Address_, Visio displays an error message.|
 | _SubAddress_|Required| **String**|The secondary address to which you want to navigate; if you don't need this information, pass an empty string. If  _Address_ is the full path of a Visio document that contains multiple pages, for example, you can use _SubAddress_ to specify the page.|

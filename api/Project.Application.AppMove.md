@@ -27,7 +27,7 @@ Moves the main Project window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPosition_|Optional|**Long**|A number that specifies the distance of the main window from the left edge of the screen.|
 | _YPosition_|Optional|**Long**|A number that specifies the distance of the main window from the top edge of the screen.|

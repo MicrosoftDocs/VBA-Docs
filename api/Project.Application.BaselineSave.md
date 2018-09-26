@@ -27,7 +27,7 @@ Creates a baseline plan.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if the baseline plan is set for all tasks. **False** if the baseline plan is set only for the selected tasks. The default value is **True**.|
 | _Copy_|Optional|**Long**| The fields to copy. Can be one of the [PjSaveBaselineFrom](Project.PjSaveBaselineFrom.md) constants.|

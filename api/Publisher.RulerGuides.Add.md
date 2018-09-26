@@ -27,7 +27,7 @@ Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Position|Required| **Variant**|The position relative to the left edge or top edge of the page where the new ruler guide will be added. Numeric values are evaluated in points; strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
 |Type|Required| **PbRulerGuideType**|The type of ruler guide to add.|

@@ -27,7 +27,7 @@ Returns the  **[Attachment](Publisher.Attachment.md)** object at the specified i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Long**|The index position of the attachment to be returned.|
 

@@ -27,7 +27,7 @@ Converts half-width (single-byte) letters within a character string to full-widt
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The text or a reference to a cell that contains the text that you want to change. |
 

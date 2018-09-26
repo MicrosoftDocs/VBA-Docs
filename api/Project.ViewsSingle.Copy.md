@@ -24,7 +24,7 @@ Makes a copy of a group definition for the  **ViewsSingle** collection and retur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**Variant**|The name of view to copy.|
 | _NewName_|Required|**String**|The name of the new view.|

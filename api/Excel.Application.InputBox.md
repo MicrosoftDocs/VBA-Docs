@@ -25,7 +25,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a Boolean value (Microsoft Excel automatically coerces the value to a **String** before it is displayed).|
 | _Title_|Optional| **Variant**|The title for the input box. If this argument is omitted, the default title is "Input."|

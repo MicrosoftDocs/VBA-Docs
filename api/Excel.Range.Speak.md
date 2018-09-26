@@ -27,7 +27,7 @@ Causes the cells of the range to be spoken in row order or column order.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SpeakDirection_|Optional| **Variant**|The speak direction, by rows or columns.|
 | _SpeakFormulas_|Optional| **Variant**| **True** will cause formulas to be sent to the Text-To-Speech (TTS) engine for cells that have formulas. The value is sent if the cells do not have formulas. **False** (default) will cause values to always be sent to the TTS engine.|

@@ -27,7 +27,7 @@ Returns the rank of a number in a list of numbers. The rank of a number is its s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - The number whose rank you want to find.|
 | _Arg2_|Required| **Range**|Ref - An array of, or a reference to, a list of numbers. Non-numeric values in reference are ignored.|

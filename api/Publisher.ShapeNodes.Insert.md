@@ -27,7 +27,7 @@ Inserts a new segment after the specified node of the freeform drawing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the node after which the new node is to be inserted.|
 |SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|

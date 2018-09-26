@@ -1,5 +1,5 @@
 ---
-title: Application.CloseCurrentDatabase Method (Access)
+title: Application.CloseCurrentDatabase method (Access)
 keywords: vbaac10.chm12506
 f1_keywords:
 - vbaac10.chm12506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CloseCurrentDatabase Method (Access)
+# Application.CloseCurrentDatabase method (Access)
 
 You can use the  **CloseCurrentDatabase** method to close the current database (either a Microsoft Access database or an Access project (.adp) from another application that has opened a database through Automation.
 

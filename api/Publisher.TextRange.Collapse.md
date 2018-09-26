@@ -27,7 +27,7 @@ Collapses a range or selection to the starting position or ending position. Afte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Direction|Required| **PbCollapseDirection**|The direction in which to collapse the range or selection.|
 

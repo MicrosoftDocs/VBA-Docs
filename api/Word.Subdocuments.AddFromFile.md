@@ -27,7 +27,7 @@ Adds the specified subdocument to the master document at the start of the select
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The file name of the subdocument to be inserted into the master document.|
 | _ConfirmConversions_|Optional| **Variant**| **True** to confirm file conversion in the **Convert File** dialog box if the file isn't in Word format.|

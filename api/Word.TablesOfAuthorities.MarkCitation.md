@@ -27,7 +27,7 @@ Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Fi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The location of the table of authorities entry. The TA field is inserted after Range.|
 | _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the  **Mark Citation** dialog box (**Insert** menu, **Index and Tables** command).|

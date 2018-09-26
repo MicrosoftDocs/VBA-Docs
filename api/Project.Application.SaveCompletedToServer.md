@@ -24,7 +24,7 @@ Occurs when Project Professional successfully puts the  **Project Save** job in 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrName_|Required|**String**|Name of the project.|
 | _bstrprojGuid_|Required|**String**|GUID of the project|

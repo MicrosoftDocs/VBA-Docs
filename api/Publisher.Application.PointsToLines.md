@@ -27,7 +27,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to lines.|
 

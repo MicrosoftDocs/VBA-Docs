@@ -27,7 +27,7 @@ Converts a measurement from points to emus (12700 emus = 1 point). Returns the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to emus.|
 

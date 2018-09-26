@@ -31,7 +31,7 @@ For more information about the new functions, see the [LogNorm_Dist](Excel.Works
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Mean - the mean of ln(x).|

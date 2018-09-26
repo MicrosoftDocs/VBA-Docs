@@ -27,7 +27,7 @@ Rejects all changes in the specified shared workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _When_|Optional| **Variant**|Specifies when all the changes are rejected.|
 | _Who_|Optional| **Variant**|Specifies by whom all the changes are rejected.|

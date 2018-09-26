@@ -27,7 +27,7 @@ Returns a point and its derivatives at a position along a curve's path.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _t_|Required| **Double**|The value in the curve's parameter domain to evaluate.|
 | _n_|Required| **Integer**|0: get point; 1: point and 1st derivative; 2: point plus first and second derivative.|

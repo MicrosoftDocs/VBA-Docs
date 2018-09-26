@@ -27,7 +27,7 @@ Deletes the specified project file from the local cache. Available only in Proje
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**String**|Name of the project file to delete from the cache.|
 

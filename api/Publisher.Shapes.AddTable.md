@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing a table to the specified **Shapes** co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |NumRows|Required| **Long**|The number of rows in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|
 |NumColumns|Required| **Long**|The number of columns in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|

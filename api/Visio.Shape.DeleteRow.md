@@ -27,7 +27,7 @@ Deletes a row from a section in a ShapeSheet spreadsheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The index of the section that contains the row.|
 | _Row_|Required| **Integer**|The index of the row to delete.|

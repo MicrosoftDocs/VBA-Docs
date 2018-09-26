@@ -27,7 +27,7 @@ Applies the specified Quick Style set to the document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **Variant**|Can be either a  **String** that specifies the name of the set to use (corresponds to the name listed in the **Style Set** list) or a constant from the [WdApplyQuickStyleSets](Word.WdApplyQuickStyleSets.md) enumeration.|
 

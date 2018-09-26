@@ -27,7 +27,7 @@ Finds specific information in a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
 | _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface. Notice that  _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell. If you do no specify this argument, the search starts after the cell in the upper-left corner of the range.|

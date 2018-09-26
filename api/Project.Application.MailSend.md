@@ -27,7 +27,7 @@ Sends a mail message.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _To_|Optional|**String**|The user names of the primary recipients of the message, separated by commas.|
 | _Cc_|Optional|**String**|The user names of the secondary recipients of the message, separated by commas.|

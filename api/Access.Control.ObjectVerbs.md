@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|An element in the array of supported verbs. This is a zero-based index, meaning zero (0) represents the first verb in the array, one (1) represents the second verb in the array, and so on.|
 

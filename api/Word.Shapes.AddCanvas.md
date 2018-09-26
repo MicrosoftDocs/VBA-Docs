@@ -27,7 +27,7 @@ Adds a drawing canvas to a document. Returns a  **[Shape](Word.Shape.md)** objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required| **Single**|The position, in points, of the left edge of the drawing canvas, relative to the anchor.|
 | _Top_|Required| **Single**|The position, in points, of the top edge of the drawing canvas, relative to the anchor.|

@@ -27,7 +27,7 @@ Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PjVisualReportsTemplateType_|Optional|**Long**|Template type. Can be one of the  **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants. Default is **pjExcel**.|
 | _PjVisualReportsCubeType_|Optional|**Long**|Cube type. Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants. Default is **pjTaskTP**.|

@@ -27,7 +27,7 @@ Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Present
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to open.|
 | _ReadOnly_|Optional|**MsoTriState**|Specifies whether the file is opened with read/write or read-only status.|

@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified  **Range** object.|
 

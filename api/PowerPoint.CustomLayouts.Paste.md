@@ -27,7 +27,7 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Long**|The index number of the custom layout before which the new custom layout is pasted. If this argument is omitted, the new custom layout is pasted at the end of the  **CustomLayouts** collection.|
 

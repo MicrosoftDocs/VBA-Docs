@@ -27,7 +27,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **String**|The variable to export the data to.|
 

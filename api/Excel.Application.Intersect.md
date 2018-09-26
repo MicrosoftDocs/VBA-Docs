@@ -26,7 +26,7 @@ Returns a [Range](Excel.Range(object).md) object that represents the rectangular
 ### Parameters
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|
 | _Arg2_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|

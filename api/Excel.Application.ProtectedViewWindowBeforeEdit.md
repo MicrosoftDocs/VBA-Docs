@@ -27,7 +27,7 @@ Occurs immediately before editing is enabled on the workbook in the specified  *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|The  **Protected View** window that contains the workbook that is enabled for editing.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , editing is not enabled on the workbook.|

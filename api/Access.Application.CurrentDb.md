@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentDb Method (Access)
+title: Application.CurrentDb method (Access)
 keywords: vbaac10.chm12546
 f1_keywords:
 - vbaac10.chm12546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentDb Method (Access)
+# Application.CurrentDb method (Access)
 
 The  **CurrentDb** method returns an object variable of type **Database** that represents the database currently open in the Microsoft Access window.
 

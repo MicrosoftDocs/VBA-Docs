@@ -27,7 +27,7 @@ Adds a picture bullet based on an image file to the current document. Returns an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name of the image you want to use for the picture bullet.|
 | _Range_|Optional| **Variant**|The range to which Microsoft Word adds the picture bullet. Word adds the picture bullet to each paragraph in the range. If this argument is omitted, Word adds the picture bullet to each paragraph in the current selection.|

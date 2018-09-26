@@ -27,7 +27,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Length|Required| **Variant**|The length of the first segment of the callout. Numeric values are evaluated in points; strings can be in any unit supported by Microsoft Publisher (for example, "2.5 in").|
 

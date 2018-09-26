@@ -27,7 +27,7 @@ Parses a line of Microsoft Visual Basic code.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required| **String**|A string interpreted as Visual Basic code.|
 

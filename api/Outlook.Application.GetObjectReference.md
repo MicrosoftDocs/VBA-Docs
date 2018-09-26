@@ -27,7 +27,7 @@ Creates a strong or weak object reference for a specified Outlook object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The object from which to obtain a strong or weak object reference.|
 | _ReferenceType_|Required| **[OlReferenceType](Outlook.OlReferenceType.md)**|The type of object reference.|

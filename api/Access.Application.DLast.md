@@ -1,5 +1,5 @@
 ---
-title: Application.DLast Method (Access)
+title: Application.DLast method (Access)
 keywords: vbaac10.chm12530
 f1_keywords:
 - vbaac10.chm12530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DLast Method (Access)
+# Application.DLast method (Access)
 
 You can use the  **DLast** function to return a random record from a particular field in a table or query when you simply need any value from that field. .
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md). In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain.|

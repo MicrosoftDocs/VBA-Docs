@@ -27,7 +27,7 @@ Shows or hides item hierarchy in task views or resource views where a group is a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _On_|Required|**Boolean**|**True** if hierarchy in the current group is maintained. **False** if hierarchy is not maintained.|
 

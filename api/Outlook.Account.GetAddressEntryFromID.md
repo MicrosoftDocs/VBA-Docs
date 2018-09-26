@@ -27,7 +27,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **String**|Used to identify an address entry that is maintained for the session.|
 

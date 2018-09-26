@@ -27,7 +27,7 @@ Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the NEXTIF field.|
 | _MergeField_|Required| **String**|The merge field name.|

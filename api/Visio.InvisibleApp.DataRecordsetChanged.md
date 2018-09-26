@@ -27,7 +27,7 @@ Private Sub  _expression_ _'DataRecordsetChanged'(**_ByVal DataRecordsetChanged 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetChanged_|Required| **[IVDATARECORDSETCHANGEDEVENT]**|The data recordset that changed.|
 

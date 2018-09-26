@@ -27,7 +27,7 @@ Occurs when the selection changes on any worksheet (doesn't occur if the selecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The worksheet that contains the new selection.|
 | _Target_|Required| **Range**|The new selected range.|

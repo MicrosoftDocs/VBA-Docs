@@ -27,7 +27,7 @@ Copies a selection to the Clipboard.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the copy operation.|
 

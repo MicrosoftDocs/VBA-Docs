@@ -27,7 +27,7 @@ Saves a Microsoft Publisher publication in PDF or XPS format. The conversion rea
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Format|Required| **PbFixedFormatType**|The format in which you want to export the publication. See Remarks for possible values.|
 |Filename|Required| **String**|The file name for the exported file.|

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.CurrentView
 ms.assetid: d957f544-9619-be5c-dfce-c6962ba24655
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 

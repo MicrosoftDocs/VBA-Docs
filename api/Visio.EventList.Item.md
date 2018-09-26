@@ -27,7 +27,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|The index number of the object in its collection.|
 

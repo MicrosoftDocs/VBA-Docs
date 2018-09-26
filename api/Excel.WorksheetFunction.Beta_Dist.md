@@ -27,7 +27,7 @@ Returns the beta cumulative distribution function.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The value between A and B at which to evaluate the function.|
 | _Arg2_|Required| **Double**|The Alpha parameter of the distribution.|

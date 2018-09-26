@@ -27,7 +27,7 @@ Adds a new filter to the  **ODSOFilters** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Required|**String**|The name of the table in the data source.|
 | _Comparison_|Required|**MsoFilterComparison**|How the data in the table is filtered.|

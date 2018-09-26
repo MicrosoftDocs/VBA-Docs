@@ -30,7 +30,7 @@ Gets the IDs of all the data recordsets that contain data rows linked to the sha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetIDs()_|Required| **Long**|Out parameter. An array of IDs of data recordsets containing data rows linked to the shape.|
 

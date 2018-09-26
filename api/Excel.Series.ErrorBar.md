@@ -27,7 +27,7 @@ Applies error bars to the series.  **Variant** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[XlErrorBarDirection](Excel.XlErrorBarDirection.md)**|The error bar direction.|
 | _Include_|Required| **[XlErrorBarInclude](Excel.XlErrorBarInclude.md)**|The error bar parts to include.|

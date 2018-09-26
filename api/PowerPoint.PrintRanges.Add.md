@@ -27,7 +27,7 @@ Returns a  **[PrintRange](PowerPoint.PrintRange.md)** object that represents a n
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required|**Long**|The number of the slide that is the starting slide in the range.|
 | _End_|Required|**Long**|The number of the slide that is the ending slide in the range.|

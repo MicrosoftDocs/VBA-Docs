@@ -27,7 +27,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The text to add to the note (up to 255 characters). The text is inserted starting at position  _Start_, replacing  _Length_ characters of the existing note. If this argument is omitted, this method returns the current text of the note starting at position _Start_, for  _Length_ characters.|
 | _Start_|Optional| **Variant**|The starting position for the text that?s set or returned. If this argument is omitted, this method starts at the first character. To append text to the note, specify a number larger than the number of characters in the existing note.|

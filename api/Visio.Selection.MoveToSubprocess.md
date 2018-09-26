@@ -27,7 +27,7 @@ Moves the selection to the specified page, and drops a replacement shape on the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required| **[Page](Visio.Page.md)**|The subprocess page to which the selection should be moved. You cannot pass the current page.|
 | _ObjectToDrop_|Required| **[UNKNOWN]**|The replacement shape to drop.|

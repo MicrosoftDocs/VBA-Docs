@@ -24,7 +24,7 @@ Occurs when the top pane view is changed within a window in Project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the view change occurs.|
 | _prevView_|Required|**View**|The previous view (top pane) the user is in. If the user was not in a project view before applying the current view, this value will return  **Null**.|

@@ -27,7 +27,7 @@ Returns a  **[Range](Excel.Range(object).md)** object with information about a d
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataField_|Optional| **Variant**|The name of the field containing the data for the PivotTable.|
 | _Field1_|Optional| **Variant**|The name of a column or row field in the PivotTable report.|

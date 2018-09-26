@@ -27,7 +27,7 @@ Formats the line spacing of specified paragraphs.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Rule|Required| **PbLineSpacingRule**|The line spacing to use for the specified paragraphs.|
 |Spacing|Optional| **Variant**|The spacing (in points) for the specified paragraphs.|

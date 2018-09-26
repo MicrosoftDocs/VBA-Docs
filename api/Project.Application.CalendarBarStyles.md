@@ -27,7 +27,7 @@ Turns bar rounding on or off in the Calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BarRounding_|Optional|**Boolean**|**True** if bars in the Calendar round to midnight if their start times are less than or equal to the default start time, or if their end times are greater than or equal to the default end time. If **BarRounding** is omitted, the **Bar Styles** dialog box appears.|
 

@@ -27,7 +27,7 @@ Scrolls a window to a particular page coordinate.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|The x-coordinate to which to scroll.|
 | _y_|Required| **Double**|The y-coordinate to which to scroll.|

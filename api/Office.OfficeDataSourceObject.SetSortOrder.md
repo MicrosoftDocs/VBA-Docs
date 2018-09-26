@@ -27,7 +27,7 @@ Sets the sort order for mail merge data.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SortField1_|Required|**String**|The first field on which to sort the mail merge data.|
 | _SortAscending1_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField1;  **False** to perform a descending sort.|

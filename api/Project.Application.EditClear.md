@@ -27,7 +27,7 @@ Clears the selected cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Contents_|Optional|**Boolean**|**True** if the contents of the selected cells are cleared. The default value is **True**.|
 | _Formats_|Optional|**Boolean**|**True** if the formats of the selected cells are cleared. The default value is **False**.|

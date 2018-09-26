@@ -27,7 +27,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required|**Integer**|An intrinsic constant that indicates whether a record has been deleted.  **acDeleteOK** indicates the deletion was successful. **acDeleteCancel** indicates the deletion was canceled in Visual Basic. **acDeleteUserCancel** indicates the deletion was canceled by the user.|
 

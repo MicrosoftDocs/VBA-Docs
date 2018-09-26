@@ -27,7 +27,7 @@ Inserts the specified number of new rows above the row that contains the selecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumRows_|Optional| **Variant**|The number of rows to be added.|
 

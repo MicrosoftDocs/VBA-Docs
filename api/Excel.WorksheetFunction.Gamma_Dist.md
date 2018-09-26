@@ -27,7 +27,7 @@ Returns the gamma distribution. You can use this function to study variables tha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value at which you want to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Alpha - a parameter to the distribution.|

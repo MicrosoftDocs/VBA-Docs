@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Requery Method (Access)
+title: ObjectFrame.Requery method (Access)
 keywords: vbaac10.chm11554
 f1_keywords:
 - vbaac10.chm11554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Requery Method (Access)
+# ObjectFrame.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 

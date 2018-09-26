@@ -24,7 +24,7 @@ Gets an object that represents a color in the color scheme of a Microsoft Office
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**MsoThemeColorSchemeIndex**|The index value of the  **ThemeColor** object.|
 

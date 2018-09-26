@@ -27,7 +27,7 @@ Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **String**|The type of the new entry.|
 | _Name_|Optional| **Variant**|The name of the new entry.|

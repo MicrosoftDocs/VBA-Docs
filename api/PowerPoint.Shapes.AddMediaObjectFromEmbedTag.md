@@ -27,7 +27,7 @@ Adds a media object from an embedded tag to a  **Shapes** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EmbedTag_|Required|**String**|The embed tag.|
 | _Left_|Optional|**Single**|The distance, in points, from the left edge of the slide to the left edge of the media object.|

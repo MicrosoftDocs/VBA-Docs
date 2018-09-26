@@ -27,7 +27,7 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Invalid_|Required| **Boolean**| **True** marks all records in the data source of a mail merge as invalid.|
 | _InvalidComment_|Required| **String**|Text describing the invalid setting.|

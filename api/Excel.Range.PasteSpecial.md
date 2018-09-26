@@ -27,7 +27,7 @@ Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the spec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Paste_|Optional| **[XlPasteType](Excel.XlPasteType.md)**| The part of the range to be pasted, such as **xlPasteAll** or **xlPasteValues**.|
 | _Operation_|Optional| **[XlPasteSpecialOperation](Excel.XlPasteSpecialOperation.md)**| The paste operation, such as **xlPasteSpecialOperationAdd**.|

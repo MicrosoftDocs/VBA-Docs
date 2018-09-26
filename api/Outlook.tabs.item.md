@@ -25,7 +25,7 @@ Returns a member of a collection, either by position or by name.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |varg|Required| **Variant**|A member's name or index within a collection.|
 

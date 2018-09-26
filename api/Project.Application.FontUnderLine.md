@@ -27,7 +27,7 @@ Applies or removes underlining from the selected text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** if underlining is applied to the selected text. **False** if underlining is removed from the selected text. The default value is **False** if the selected text is underlined and **True** if the selected text is not underlined.|
 

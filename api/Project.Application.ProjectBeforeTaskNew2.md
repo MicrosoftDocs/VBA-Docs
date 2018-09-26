@@ -24,7 +24,7 @@ Occurs before one or more tasks are created. Uses the  **EventInfo** object para
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project in which a task or tasks are being created.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the new task or tasks are not created.|

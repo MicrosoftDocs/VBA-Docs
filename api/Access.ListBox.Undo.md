@@ -1,5 +1,5 @@
 ---
-title: ListBox.Undo Method (Access)
+title: ListBox.Undo method (Access)
 keywords: vbaac10.chm11205
 f1_keywords:
 - vbaac10.chm11205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Undo Method (Access)
+# ListBox.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 

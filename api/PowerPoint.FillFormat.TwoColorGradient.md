@@ -27,7 +27,7 @@ Sets the specified fill to a two-color gradient.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**MsoGradientStyle**|The gradient style.|
 | _Variant_|Required|**Long**|The gradient variant. |

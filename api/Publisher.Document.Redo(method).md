@@ -27,7 +27,7 @@ Redoes the last action or a specified number of actions. Corresponds to the list
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Count|Optional| **Long**|Specifies the number of actions to be redone. Default is 1, meaning that if omitted, only the last action will be redone.|
 

@@ -24,7 +24,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**Long**|Exception type. Can be one of the  **[PjExceptionType](Project.PjExceptionType.md)** constants.|
 | _Start_|Required|**Variant**|Start date of the exception.|

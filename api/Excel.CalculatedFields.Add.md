@@ -27,7 +27,7 @@ Creates a new calculated field. Returns a  **[PivotField](Excel.PivotField.md)**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the field.|
 | _Formula_|Required| **String**|The formula for the field.|

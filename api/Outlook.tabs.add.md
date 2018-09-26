@@ -25,7 +25,7 @@ Adds a  **[Tab](Outlook.tab.md)** to a **[Tabs](Outlook.tabs.md)** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |bstrName|Optional| **Variant**|Specifies the name of the object being added. If a name is not specified, the system generates a default name based on the rules of the application where the form is used.|
 |bstrCaption|Optional| **Variant**|Specifies the caption to appear on a tab. If a caption is not specified, the system generates a default caption based on the rules of the application where the form is used.|

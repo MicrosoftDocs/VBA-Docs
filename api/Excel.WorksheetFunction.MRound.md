@@ -27,7 +27,7 @@ Returns a number rounded to the desired multiple.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the value to round.|
 | _Arg2_|Required| **Variant**|Multiple - the multiple to which you want to round number.|

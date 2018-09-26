@@ -27,7 +27,7 @@ Returns the height of the shape or shape range as a  **Single** in the specified
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbUnitType**|The units in which to return the height.|
 

@@ -27,7 +27,7 @@ Arranges the windows on the screen.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ArrangeStyle_|Optional| **[XlArrangeStyle](Excel.XlArrangeStyle.md)**|One of the constants of  **XlArrangeStyle** specifying how the windows are arranged.|
 | _ActiveWorkbook_|Optional| **Variant**| **True** to arrange only the visible windows of the active workbook. **False** to arrange all windows. The default value is **False** .|

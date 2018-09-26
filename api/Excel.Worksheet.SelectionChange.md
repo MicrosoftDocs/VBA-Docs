@@ -27,7 +27,7 @@ Occurs when the selection changes on a worksheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[Range](Excel.Range(object).md)**|The new selected range.|
 

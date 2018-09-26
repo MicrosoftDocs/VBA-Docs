@@ -24,7 +24,7 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The index number in the collection of the caption style to return.|
 

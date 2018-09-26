@@ -24,7 +24,7 @@ Returns a  **[ContentControl](Word.ContentControl.md)** object that represents t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the ordinal position of the content control to return.|
 

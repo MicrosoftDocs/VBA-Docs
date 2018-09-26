@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetMenuItem Method (Access)
+title: DoCmd.SetMenuItem method (Access)
 keywords: vbaac10.chm4181
 f1_keywords:
 - vbaac10.chm4181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetMenuItem Method (Access)
+# DoCmd.SetMenuItem method (Access)
 
 The  **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MenuIndex_|Required|**Variant**|An integer, counting from 0, that's the valid index of a menu on the custom menu bar or global menu bar for the active window, as defined in the menu bar macro for the custom menu bar or global menu bar. If you select a menu with this argument and leave the commandindex and subcommandindex arguments blank (or set them to ?1), you can enable or disable the menu name itself. You can't, however, check or uncheck a menu name (Microsoft Access ignores the  **acMenuCheck** and **acMenuUncheck** settings for the flag argument for menu names).|
 | _CommandIndex_|Optional|**Variant**|An integer, counting from 0, that's the valid index of a command on the menu selected by the menuindex argument, as defined in the macro group that defines the selected menu for the custom menu bar or global menu bar for the active window.|

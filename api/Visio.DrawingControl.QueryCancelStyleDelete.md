@@ -24,7 +24,7 @@ Private Sub  _expression_ _'QueryCancelStyleDelete'(**_ByVal style As [IVSTYLE]_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _style_|Required| **[IVSTYLE]**|The style that is going to be deleted.|
 

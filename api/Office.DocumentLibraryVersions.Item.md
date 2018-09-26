@@ -27,7 +27,7 @@ Gets a  **DocumentLibraryVersion** object from the **DocumentLibraryVersions** c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the DocumentLibraryVersion returned.|
 

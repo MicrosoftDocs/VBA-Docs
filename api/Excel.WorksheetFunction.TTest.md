@@ -33,7 +33,7 @@ Returns the probability associated with a Student's t-Test. Use TTEST to determi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array1 - the first data set.|
 | _Arg2_|Required| **Variant**|Array2 - the second data set.|

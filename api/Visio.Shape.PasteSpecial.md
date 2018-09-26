@@ -27,7 +27,7 @@ Inserts the contents of the Clipboard, allowing you to control the format of the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Required| **Long**|The internal Clipboard format.|
 | _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data; otherwise, **False** (the default). Ignored if the source data is not suitable for, or doesn't support, linking.|

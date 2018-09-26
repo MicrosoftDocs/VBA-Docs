@@ -27,7 +27,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tuple_|Required| **String**|The MDX tuple of the value to change in the OLAP data source.|
 | _Value_|Required| **Double**|The value to commit.|

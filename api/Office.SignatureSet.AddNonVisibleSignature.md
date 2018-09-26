@@ -27,7 +27,7 @@ Creates a signature packet when digitally signing a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSigProv_|Optional|**Variant**|Represents the ID of the signature provider.|
 

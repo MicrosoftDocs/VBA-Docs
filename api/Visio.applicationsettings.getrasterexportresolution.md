@@ -25,7 +25,7 @@ Returns the raster export resolution settings.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pResolution_|Required| **VisRasterExportResolution**|Out parameter. The raster export resolution. See Remarks for possible values.|
 | _pWidth_|Required| **Double**|Out parameter. The raster export resolution width.|

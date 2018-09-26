@@ -27,7 +27,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|The store where the folder to which conversation items are moved resides.|
 

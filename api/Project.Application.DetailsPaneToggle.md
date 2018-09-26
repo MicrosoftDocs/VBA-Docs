@@ -27,7 +27,7 @@ Shows or hides the task or resource  **Details** pane for the selected item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Timeline_|Optional|**Variant**|If the value is  **True** or 1, the method shows or hides the project Timeline pane. The default value is **False**.|
 

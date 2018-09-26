@@ -27,7 +27,7 @@ Displays the built-in dialog box, waits for the user to input data and returns a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1-Arg30_|Optional| **Variant**|For built-in dialog boxes only, the initial arguments for the command.|
 

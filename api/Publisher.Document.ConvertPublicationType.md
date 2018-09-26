@@ -27,7 +27,7 @@ Converts the specified publication to the specified publication type.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Value|Required| **PbPublicationType**|The type of publication to which you want the publication converted.|
 

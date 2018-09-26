@@ -27,7 +27,7 @@ Sets the format of nonworking times, where color values can be hexadecimal RGB v
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following  **[PjNonWorkingPlacement](Project.PjNonWorkingPlacement.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
 | _Calendar_|Optional|**String**|The name of the calendar to format.|

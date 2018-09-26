@@ -27,7 +27,7 @@ Creates a shape whose path is a polyline along a given set of points.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xyArray()_|Required| **Double**| An array of alternating _x_ and _y_ values that defines points in the new shape's path.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|

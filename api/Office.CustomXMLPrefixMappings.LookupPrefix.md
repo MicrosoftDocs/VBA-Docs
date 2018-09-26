@@ -27,7 +27,7 @@ Allows you to get a prefix corresponding to the specified namespace.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Required|**String**|Contains the namespace URI.|
 

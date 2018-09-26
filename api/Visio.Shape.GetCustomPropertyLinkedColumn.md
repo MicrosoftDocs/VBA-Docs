@@ -30,7 +30,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data column linked to the shape's custom property.|
 | _CustomPropertyIndex_|Required| **Long**|The index of the shape data item (custom property) linked to the data column in the data recordset.|

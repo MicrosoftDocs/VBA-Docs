@@ -24,7 +24,7 @@ Adds a  **PayRate** object to a **PayRates** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EffectiveDate_|Required|**Variant**|The date the new rate comes into effect.|
 | _StdRate_|Optional|**Variant**|The new standard rate. If not specified, the rate is the same as for the previous date period.|
