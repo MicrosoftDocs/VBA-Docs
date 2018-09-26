@@ -17,7 +17,7 @@ Describes the nature of the address.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAgent**|3|Agent address|
 | **olDistList**|1|Exchange distribution list|

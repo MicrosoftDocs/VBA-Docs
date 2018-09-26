@@ -14,7 +14,7 @@ Specifies the layout of a letter created by the Letter Wizard.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFullBlock**|0|Full block.|
 | **wdModifiedBlock**|1|Modified block.|

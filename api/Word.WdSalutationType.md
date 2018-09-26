@@ -14,7 +14,7 @@ Specifies the type of salutation to use for a letter.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSalutationBusiness**|2|Business salutation|
 | **wdSalutationFormal**|1|Format salutation.|

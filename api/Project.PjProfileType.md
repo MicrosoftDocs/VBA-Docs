@@ -14,7 +14,7 @@ Contains constants that specify the type of profile.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLocalProfile**|0|Local profile.|
 |**pjServerProfile**|1|Server profile.|

@@ -17,7 +17,7 @@ Indicates the format used to display duration Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatDurationLong**|2|Displays duration values using full names for time period descriptions.|
 | **olFormatDurationLongBusiness**|4|Displays duration values, taking into consideration specified calendar work week settings and using full names for time period descriptions.|

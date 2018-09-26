@@ -17,7 +17,7 @@ Constants specifying the list type of a  **ParagraphFormat** object, passed to t
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbListTypeAiueo**|12|Aiueo|
 | **pbListTypeArabic**|0|Arabic|

@@ -1,5 +1,5 @@
 ---
-title: AcCursorOnHover Enumeration (Access)
+title: AcCursorOnHover enumeration (Access)
 keywords: vbaac10.chm14076
 f1_keywords:
 - vbaac10.chm14076
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcCursorOnHover Enumeration (Access)
+# AcCursorOnHover enumeration (Access)
 
 Used with the  **CursorOnHover** property to specify the type of cursor displayed when a user rests the pointer on a button.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCursorOnHoverDefault**|0|The default cursor is displayed.|
 |**acCursorOnHoverHyperlinkHand**|1|The hyperlink hand cursor is displayed.|

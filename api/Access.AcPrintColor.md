@@ -1,5 +1,5 @@
 ---
-title: AcPrintColor Enumeration (Access)
+title: AcPrintColor enumeration (Access)
 keywords: vbaac10.chm13242
 f1_keywords:
 - vbaac10.chm13242
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintColor Enumeration (Access)
+# AcPrintColor enumeration (Access)
 
 Used with the  **ColorMode** property to specify whether the printer should print output in color or monochrome.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRCMColor**|2|The printer should print in color. |
 |**acPRCMMonochrome**|1|The printer should print in monochrome. |

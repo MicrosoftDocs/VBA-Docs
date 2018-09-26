@@ -17,7 +17,7 @@ Indicates the view object type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olBusinessCardView**|5|Represents a  **[BusinessCardView](Outlook.businessCardView.md)** object.|
 | **olCalendarView**|2|Represents a  **[CalendarView](Outlook.CalendarView.md)** object.|

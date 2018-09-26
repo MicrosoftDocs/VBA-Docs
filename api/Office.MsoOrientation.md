@@ -14,7 +14,7 @@ Specifies orientation of an object when it is displayed or printed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrientationHorizontal**|1|Horizontal (landscape) orientation.|
 |**msoOrientationMixed**|-2|Mixed orientation.|

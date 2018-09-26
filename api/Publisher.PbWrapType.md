@@ -17,7 +17,7 @@ Indicates how text wraps around the specified shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWrapTypeMixed**|-1|Mixed|
 | **pbWrapTypeNone**|0|None|

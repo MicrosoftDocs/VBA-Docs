@@ -14,7 +14,7 @@ Indicates how to sort styles in the  **Styles** task pane.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStyleSortByBasedOn**|3|Sorts styles based on the item indicated in the  **Sort Styles Based On** option.|
 | **wdStyleSortByFont**|2|Sorts styles based on the name of the font used.|

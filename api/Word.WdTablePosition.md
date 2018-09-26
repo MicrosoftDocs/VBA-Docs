@@ -14,7 +14,7 @@ Specifies the relative position of a table in the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTableBottom**|-999997|At the bottom of the document.|
 | **wdTableCenter**|-999995|Centered.|

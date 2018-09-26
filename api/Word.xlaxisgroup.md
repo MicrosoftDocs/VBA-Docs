@@ -12,7 +12,7 @@ Specifies the type of axis group.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPrimary**|1|The primary axis group.|
 | **xlSecondary**|2|The secondary axis group.|

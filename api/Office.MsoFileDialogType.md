@@ -14,7 +14,7 @@ Specifies the type of a  **FileDialog** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileDialogFilePicker**|3|**File picker** dialog box.|
 |**msoFileDialogFolderPicker**|4|**Folder picker** dialog box.|

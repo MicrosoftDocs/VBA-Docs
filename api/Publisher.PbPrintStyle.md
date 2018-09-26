@@ -17,7 +17,7 @@ Constants specifying the print style and passed to the  **PrintOutEx** and **Exp
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPrintStyleBookletSideFold**|5|Prints the publication in the booklet style with a side fold.|
 | **pbPrintStyleBookletTopFold**|6|Prints the publication in the booklet style with a top fold.|

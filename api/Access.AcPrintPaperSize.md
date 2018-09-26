@@ -1,5 +1,5 @@
 ---
-title: AcPrintPaperSize Enumeration (Access)
+title: AcPrintPaperSize enumeration (Access)
 keywords: vbaac10.chm13247
 f1_keywords:
 - vbaac10.chm13247
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintPaperSize Enumeration (Access)
+# AcPrintPaperSize enumeration (Access)
 
 Used with the  **PaperSize** property to indicate the paper size to use when printing.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRPS10x14**|16|10 x 14 in.|
 |**acPRPS11x17**|17|11 x 17 in. |

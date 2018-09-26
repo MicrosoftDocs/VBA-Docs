@@ -15,7 +15,7 @@ Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](Vi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 | **visSVGExcludeVisioElements**| **1**|Include SVG elements only.|

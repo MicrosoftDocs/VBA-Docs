@@ -14,7 +14,7 @@ Specifies the data source for a mail merge operation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMergeInfoFromAccessDDE**|1|From Microsoft Access using Dynamic Data Exchange (DDE).|
 | **wdMergeInfoFromExcelDDE**|2|From Microsoft Excel using DDE.|

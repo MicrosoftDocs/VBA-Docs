@@ -14,7 +14,7 @@ Specifies the story type of a selection or item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCommentsStory**|4|Comments story.|
 | **wdEndnoteContinuationNoticeStory**|17|Endnote continuation notice story.|

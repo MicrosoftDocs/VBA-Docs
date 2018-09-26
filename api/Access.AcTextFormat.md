@@ -1,5 +1,5 @@
 ---
-title: AcTextFormat Enumeration (Access)
+title: AcTextFormat enumeration (Access)
 keywords: vbaac10.chm14041
 f1_keywords:
 - vbaac10.chm14041
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcTextFormat Enumeration (Access)
+# AcTextFormat enumeration (Access)
 
 Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whether or not rich text is displayed in a Text Box.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acTextFormatHTMLRichText**|1|Rich text can be displayed.|
 |**acTextFormatPlain**|0| (Default) Plain text is displayed.|

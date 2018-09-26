@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSoftEdgeType1**|1|Soft Edge Type 1|
 |**msoSoftEdgeType2**|2|Soft Edge Type 2|

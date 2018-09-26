@@ -14,7 +14,7 @@ Specifies the placement for an OLE object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFloatOverText**|1|Float over text.|
 | **wdInLine**|0|In line with text.|

@@ -20,7 +20,7 @@ Specifies constants that identify shapes by the directionality of their connecto
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectedShapesAllNodes**|0|The shapes that are connected by using either incoming or outgoing connections.|
 | **visConnectedShapesIncomingNodes**|1|The shapes that are connected by using incoming connections.|

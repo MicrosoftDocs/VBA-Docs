@@ -14,7 +14,7 @@ Specifies the icon for a criterion in an icon set conditional formatting rule.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlIcon0Bars**|37| **Signal Meter With No Filled Bars**|
 | **xlIcon0FilledBoxes**|52| **0 Filled Boxes**|

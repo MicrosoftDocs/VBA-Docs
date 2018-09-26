@@ -17,7 +17,7 @@ Represents the preset tracking type for characters in the specified font in a te
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTrackingCustom**|-1|Custom|
 | **pbTrackingLoose**|1|Loose|

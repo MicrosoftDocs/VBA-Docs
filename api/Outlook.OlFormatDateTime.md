@@ -17,7 +17,7 @@ Indicates the format used to display date/time Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatDateTimeBestFit**|17|Displays the date/time value using the best fit for the data contained in the column.|
 | **olFormatDateTimeLongDate**|6|Displays a long date, without the day name, according to your locale's format.|

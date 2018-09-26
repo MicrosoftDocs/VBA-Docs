@@ -14,7 +14,7 @@ Indicates how to paste copied text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdKeepSourceFormatting**|0|Keeps formatting from the source document.|
 | **wdKeepTextOnly**|2|Keeps text only, without formatting.|

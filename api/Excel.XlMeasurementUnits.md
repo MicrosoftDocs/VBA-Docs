@@ -14,7 +14,7 @@ Specifies the measurement units.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCentimeters**|1|Centimeters|
 | **xlInches**|0|Inches|

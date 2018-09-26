@@ -14,7 +14,7 @@ Specifies the value of the  **CommandText** property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCmdCube**|1|Contains a cube name for an OLAP data source.|
 | **xlCmdDAX**|8|Contains a Data Analysis Expressions (DAX) formula.|

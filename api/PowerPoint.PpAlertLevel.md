@@ -14,7 +14,7 @@ Specifies whether Microsoft PowerPoint displays alerts while running a macro.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAlertsAll**|2|All alerts displayed.|
 |**ppAlertsNone**|1|No alerts displayed.|

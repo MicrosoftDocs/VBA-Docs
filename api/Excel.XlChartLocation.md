@@ -14,7 +14,7 @@ Specifies where to relocate a chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLocationAsNewSheet**|1|Chart is moved to a new sheet.|
 | **xlLocationAsObject**|2|Chart is to be embedded in an existing sheet.|

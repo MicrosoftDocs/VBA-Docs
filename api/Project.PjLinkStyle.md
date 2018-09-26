@@ -14,7 +14,7 @@ Contains constants that specify the style of link lines between boxes in a Netwo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLinkRectilinear**|2|Lines follow paths along 90? angles.|
 |**pjLinkStraight**|1|Lines are straight between boxes.|

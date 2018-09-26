@@ -17,7 +17,7 @@ Specifies the scale of time periods used to display Outlook items in a  **[Calen
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTimeScale10Minutes**|2|Indicates that each time period represents 10 minutes.|
 | **olTimeScale15Minutes**|3|Indicates that each time period represents 15 minutes.|

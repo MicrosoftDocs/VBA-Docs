@@ -14,7 +14,7 @@ Specifies the type of an OLE object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOLEControl**|2|OLE control.|
 | **wdOLEEmbed**|1|Embedded OLE object.|

@@ -17,7 +17,7 @@ The type of wizard page to add.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWizardPageTypeCatalogBlank**|35|CatalogBlank|
 | **pbWizardPageTypeCatalogCalendar**|22|Calendar|

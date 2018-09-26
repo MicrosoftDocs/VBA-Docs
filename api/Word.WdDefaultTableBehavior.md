@@ -14,7 +14,7 @@ Specifies whether Microsoft Word automatically resizes cells in a table to fit t
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWord8TableBehavior**|0|Disables AutoFit. Default.|
 | **wdWord9TableBehavior**|1|Enables AutoFit.|

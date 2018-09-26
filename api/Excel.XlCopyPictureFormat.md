@@ -14,7 +14,7 @@ Specifies the format of the picture being copied.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBitmap**|2|Bitmap (.bmp, .jpg, .gif).|
 | **xlPicture**|-4147|Drawn picture (.png, .wmf, .mix).|

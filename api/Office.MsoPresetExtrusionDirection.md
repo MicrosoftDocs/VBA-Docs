@@ -14,7 +14,7 @@ Specifies the direction that the extrusion's sweep path takes away from the extr
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoExtrusionBottom**|2|Lower part.|
 |**msoExtrusionBottomLeft**|3|Lower left.|

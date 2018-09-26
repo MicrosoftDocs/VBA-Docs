@@ -17,7 +17,7 @@ Identifies the group type of a  **[NavigationGroup](Outlook.NavigationGroup.md)*
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCustomFoldersGroup**|0|Identifies a user-defined navigation group, added using either the Outlook user interface or an add-in.|
 | **olFavoriteFoldersGroup**|4|Identifies the  **Favorite Folders** navigation group. This navigation group exists only within the **[NavigationGroups](Outlook.MailModule.NavigationGroups.md)** collection of a **[MailModule](Outlook.MailModule.md)** object and cannot be created in or accessed from other modules.|

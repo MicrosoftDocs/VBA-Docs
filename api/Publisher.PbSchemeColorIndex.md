@@ -17,7 +17,7 @@ Represents the specified color of the current color scheme.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbSchemeColorAccent1**|2|Sets the color to Accent1 scheme color.|
 | **pbSchemeColorAccent2**|3|Sets the color to Accent2 scheme color.|

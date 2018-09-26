@@ -14,7 +14,7 @@ Specifies the values displayed in the second chart in a pie chart or a bar of pi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlSplitByCustomSplit**|4|The second chart displays arbitrary slides.|
 |**xlSplitByPercentValue**|3|The second chart displays values less than a percentage of the total value. The percentage is specified by the  **[SplitValue](PowerPoint.ChartGroup.SplitValue.md)** property.|

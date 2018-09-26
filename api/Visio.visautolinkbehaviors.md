@@ -18,7 +18,7 @@ Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Sele
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoLinkDontReplaceExistingLinks**|16|Do not replace existing links.|
 | **visAutoLinkGenericProgressBar**|2|Show generic progress bar instead of more detailed one.|

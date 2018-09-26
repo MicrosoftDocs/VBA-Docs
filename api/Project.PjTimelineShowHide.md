@@ -14,7 +14,7 @@ Contains constants that toggle the visibility of parts of the Project timeline.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTimelineShowHidePanZoom**|1|Shows or hides the timeline pan and zoom functionality.|
 |**pjTimelineShowHideTaskDates**|4|Shows or hides task dates on the timeline.|

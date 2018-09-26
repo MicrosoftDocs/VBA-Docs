@@ -14,7 +14,7 @@ Specifies Clipboard formats.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoClipboardFormatHTML**|2|HTML format.|
 |**msoClipboardFormatMixed**|-2|Return value only; indicates a combination of the other states. |

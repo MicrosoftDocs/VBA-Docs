@@ -15,7 +15,7 @@ Constants that represent background page color in reading mode, returned by and 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPageColorInverse**|2|Inverse page color. Renders the document content in a manner that resembles high-contrast black, although not necessarily exactly so. Some figures are rendered in full color on a black background.|
 | **wdPageColorNone**|0|No page color, the default. The page background is rendered in white. Any assigned page background colors are ignored.|

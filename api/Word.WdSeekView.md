@@ -14,7 +14,7 @@ Specifies the document element to display in the print layout view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSeekCurrentPageFooter**|10|The current page footer.|
 | **wdSeekCurrentPageHeader**|9|The current page header.|

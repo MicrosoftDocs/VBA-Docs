@@ -14,7 +14,7 @@ Specifies whether status is Copy mode or Cut mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCopy**|1|In Copy mode|
 | **xlCut**|2|In Cut mode|

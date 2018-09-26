@@ -14,7 +14,7 @@ This enumeration groups together constants used with various Microsoft Word meth
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoPosition**|0|Represents the Auto value for the specified setting.|
 | **wdBackward**|-1073741823|Indicates that selection will be extended backward using the  **MoveStartUntil** or **MoveStartWhile** method of the **Range** or **Selection** object.|

@@ -14,7 +14,7 @@ Specifies constants that define the types of SmartArt nodes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSmartArtNodeTypeAssistant**|2|Defines an assistant node, which can be used within hierarchical diagrams.|
 |**msoSmartArtNodeTypeDefault**|1|The default node type.|

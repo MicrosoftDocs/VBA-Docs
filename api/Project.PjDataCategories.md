@@ -14,7 +14,7 @@ Contains constants that specify the category of data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMapAssignments**|2|Map assignments.|
 |**pjMapResources**|1|Map resources.|

@@ -14,7 +14,7 @@ Specifies properties of a signature.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigtypeMax**|3|Specifies the maximum number of the signature types available in the current version of Office.|
 |**sigtypeNonVisible**|1|A signature that is not visible in the content of the document.|

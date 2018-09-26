@@ -14,7 +14,7 @@ Indicates the type of content control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdContentControlBuildingBlockGallery**|5|Specifies a building block gallery content control.|
 | **wdContentControlCheckbox**|8|Specifies a checkbox content control.|

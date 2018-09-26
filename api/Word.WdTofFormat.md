@@ -14,7 +14,7 @@ Specifies the type of formatting to apply to the table of figures in the active 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTOFCentered**|3|Centered formatting.|
 | **wdTOFClassic**|1|Classic formatting.|

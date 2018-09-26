@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define the raster export color formats; passed to and returned by the RasterExportColorFormat property.
 
 
-|**Name**|**Value**|**Description**|**Applicable File Formats**|
+|Name|Value|Description|**Applicable File Formats**|
 |:-----|:-----|:-----|:-----|
 | **visRasterBiLevel**|0|Bi-level color format|BMP, PNG, TIFF|
 | **visRaster16Color**|1|16-color format|BMP, PNG, TIFF|

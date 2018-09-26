@@ -14,7 +14,7 @@ Contains constants that specify the type of resource request.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResourceRequestTypeDemand**|2|Demand.|
 |**pjResourceRequestTypeNone**|0|None.|

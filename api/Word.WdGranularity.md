@@ -14,7 +14,7 @@ Specifies the granularity of changes to track when comparing two documents.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGranularityCharLevel**|0|Tracks character-level changes.|
 | **wdGranularityWordLevel**|1|Tracks word-level changes.|

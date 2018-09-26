@@ -15,7 +15,7 @@ Defines the different types of engagement violation types triggering indicators 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjEngagementViolationTypeAssignmentWorkingAboveEngagedTime**|**16384**||
 |**pjEngagementViolationTypeAssignmentWorkingInDraftEngagedTime**|**65536**||

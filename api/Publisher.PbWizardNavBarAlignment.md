@@ -17,7 +17,7 @@ Represents the horizontal alignment of the buttons in a Web navigation bar set.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbnbAlignCenter**|2|Center-aligned|
 | **pbnbAlignLeft**|1|Left-aligned|

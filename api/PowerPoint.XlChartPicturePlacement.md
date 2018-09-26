@@ -14,7 +14,7 @@ Specifies the placement of a user-selected picture on a bar in a 3-D bar or colu
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlAllFaces**|7|Display on all faces.|
 |**xlEnd**|2|Display on end.|

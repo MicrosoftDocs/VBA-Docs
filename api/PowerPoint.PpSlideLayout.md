@@ -14,7 +14,7 @@ Constants that specify the layout of the slide, passed to and returned by the  *
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppLayoutBlank**|12|Blank|
 |**ppLayoutChart**|8|Chart|

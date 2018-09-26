@@ -15,7 +15,7 @@ Specifies the type of join where two lines connect.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineJoinBevel**|**2**|Specifies a beveled join.|
 |**msoLineJoinMiter**|**3**|Specifies a mitered join.|

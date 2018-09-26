@@ -14,7 +14,7 @@ Indicates the line and shape style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineStyle1**|10001|Line Style 1|
 |**msoLineStyle10**|10010|Line Style 10|

@@ -17,7 +17,7 @@ Represents the shape color type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbColorTypeCMS**|4|CMS|
 | **pbColorTypeCMYK**|3|CMYK|

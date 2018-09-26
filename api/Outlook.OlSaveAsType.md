@@ -17,7 +17,7 @@ Specifies the file format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDoc**|4|Microsoft Office Word format (.doc)|
 | **olHTML**|5|HTML format (.html)|

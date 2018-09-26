@@ -14,7 +14,7 @@ Specifies constants that define the styles of the slabs on the  **File** tab.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**OutSpaceSlabStyleError**|2|Error style.|
 |**OutSpaceSlabStyleNormal**|0|Normal style.|

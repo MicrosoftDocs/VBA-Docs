@@ -14,7 +14,7 @@ Contains constants that specify the type of task link for a deliverable.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjNoLink**|0|No task link.|
 |**pjTargetFinish**|2|A link that targets the date the task deliverable ends.|

@@ -14,7 +14,7 @@ Specifies where and what type of cells to add to an existing table.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdInsertCellsEntireColumn**|3|Inserts an entire column to the left of the column that contains the selection.|
 | **wdInsertCellsEntireRow**|2|Inserts an entire row above the row that contains the selection.|

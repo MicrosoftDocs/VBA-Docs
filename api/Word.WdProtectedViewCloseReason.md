@@ -14,7 +14,7 @@ Specifies how the [Protected View](Word.ProtectedViewWindow.md) window was close
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdProtectedViewCloseEdit**|1|The window was closed when the user clicked the  **Enable Editing** or **Edit Anyway** button while in Protected View.|
 | **wdProtectedViewCloseForced**|2|The window was closed because the application shut it down forcefully or it stopped responding.|

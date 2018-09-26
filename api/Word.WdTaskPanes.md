@@ -14,7 +14,7 @@ Specifies the type of task pane.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTaskPaneApplyStyles**|17|Apply styles pane.|
 | **wdTaskPaneDocumentActions**|7|Document actions pane.|

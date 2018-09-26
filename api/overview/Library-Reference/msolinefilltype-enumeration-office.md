@@ -15,7 +15,7 @@ Specifies the type of fill for a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineFillBackground**|**5**|Specifies the same fill as the background|
 |**msoLineFillGradient**|**3**|Specifies a gradient line fill.|

@@ -17,7 +17,7 @@ Represents the alignment for the specified tab stop.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTabAlignmentCenter**|1|Centeral tab alignment|
 | **pbTabAlignmentDecimal**|3|Decimal tab alignment|

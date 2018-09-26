@@ -1,5 +1,5 @@
 ---
-title: AcSeparatorCharacters Enumeration (Access)
+title: AcSeparatorCharacters enumeration (Access)
 keywords: vbaac10.chm14042
 f1_keywords:
 - vbaac10.chm14042
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSeparatorCharacters Enumeration (Access)
+# AcSeparatorCharacters enumeration (Access)
 
 Used with the [ComboBox.SeparatorCharacters Property (Access)](Access.ComboBox.SeparatorCharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSeparatorCharactersComma**|3|A comma (,) is used as the separator character.|
 |**acSeparatorCharactersNewLine**|1|Each value appears on its own line.|

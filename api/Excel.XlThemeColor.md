@@ -14,7 +14,7 @@ Specifies the theme color to be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlThemeColorAccent1**|5|Accent1|
 | **xlThemeColorAccent2**|6|Accent2|

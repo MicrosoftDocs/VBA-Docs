@@ -14,7 +14,7 @@ Specifies the character to use to separate text into cells when converting text 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSeparateByCommas**|2|A comma.|
 | **wdSeparateByDefaultListSeparator**|3|The default list separator.|

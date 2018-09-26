@@ -14,7 +14,7 @@ Contains constants that specify the task outline levels to display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTaskOutlineShowLevel1**|1|Display level 1.|
 |**pjTaskOutlineShowLevel2**|2|Display levels 1 and 2.|

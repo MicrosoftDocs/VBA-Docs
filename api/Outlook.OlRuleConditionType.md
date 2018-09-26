@@ -17,7 +17,7 @@ Specifies the type of rule condition or exception condition of a rule.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olConditionAccount**|3| **Account** is the account specified in **[AccountRuleCondition.Account](Outlook.AccountRuleCondition.Account.md)** .|
 | **olConditionAnyCategory**|29|Message is assigned to any category.|

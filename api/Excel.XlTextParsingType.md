@@ -14,7 +14,7 @@ Specifies the column format for the data in the text file that you are importing
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDelimited**|1|Default. Indicates that the file is delimited by delimiter characters.|
 | **xlFixedWidth**|2|Indicates that the data in the file is arranged in columns of fixed widths.|

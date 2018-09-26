@@ -14,7 +14,7 @@ Specifies the horizontal or vertical position of a point on a pie chart, in poin
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlHorizontalCoordinate**|1|The horizontal coordinate (x)|
 | **xlVerticalCoordinate**|2|The vertical coordinate (y)|

@@ -14,7 +14,7 @@ Specifies the types of condition values that can be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlConditionValueAutomaticMax**|7|The longest data bar is proportional to the maximum value in the range.|
 | **xlConditionValueAutomaticMin**|6|The shortest data bar is proportional to the minimum value in the range.|

@@ -14,7 +14,7 @@ Represents an animation property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimColor**|7|Color|
 |**msoAnimHeight**|4|Height|

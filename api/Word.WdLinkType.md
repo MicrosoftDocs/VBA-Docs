@@ -14,7 +14,7 @@ Specifies the type of link.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLinkTypeChart**|8|Microsoft Excel chart.|
 | **wdLinkTypeDDE**|6|Dynamic Data Exchange.|

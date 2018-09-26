@@ -14,7 +14,7 @@ Specifies the type of item assigned to the key binding.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdKeyCategoryAutoText**|4|Key is assigned to autotext.|
 | **wdKeyCategoryCommand**|1|Key is assigned to a command|

@@ -17,7 +17,7 @@ Represents the orientation used to print envelopes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbOrientationLandscape**|2|Landscape orientation|
 | **pbOrientationPortrait**|1|Portrait orientation|

@@ -15,7 +15,7 @@ Defines the different types of warnings that may appear on resources triggering 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResourceWarningAssignmentEngagementViolation**|**1**||
 |**pjResourceWarningAssignmentWorkingInDraftEngagedTime**|**4**||

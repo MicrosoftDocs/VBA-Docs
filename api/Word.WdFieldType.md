@@ -14,7 +14,7 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFieldAddin**|81|Add-in field. Not available through the  **Field** dialog box. Used to store data that is hidden from the user interface.|
 | **wdFieldAddressBlock**|93|AddressBlock field.|

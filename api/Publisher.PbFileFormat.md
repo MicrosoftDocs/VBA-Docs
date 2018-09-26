@@ -17,7 +17,7 @@ Constants that indicate the file format of the specified document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbFileHTMLFiltered**|7|The file was saved in HTML Filtered format.|
 | **pbFilePlainText**|8|The file was saved in plain text format.|

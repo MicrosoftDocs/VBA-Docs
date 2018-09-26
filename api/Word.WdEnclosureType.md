@@ -14,7 +14,7 @@ Specifies the type of symbol to use as an enclosure.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEnclosureCircle**|0|A circle.|
 | **wdEnclosureDiamond**|3|A diamond.|

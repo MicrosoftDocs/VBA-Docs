@@ -14,7 +14,7 @@ Indicates whether an after effect appears dimmed, hidden, or unchanged after it 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimAfterEffectDim**|1|Dimmed|
 |**msoAnimAfterEffectHide**|2|Hidden|

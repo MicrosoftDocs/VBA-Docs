@@ -14,7 +14,7 @@ Specifies the view showing in the window.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlNormalView**|1|Normal.|
 | **xlPageBreakPreview**|2|Page break preview.|

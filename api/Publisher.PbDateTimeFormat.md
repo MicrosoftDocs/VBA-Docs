@@ -17,7 +17,7 @@ A format for the date and time.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbDateEnglish**|8|English|
 | **pbDateISO**|4|ISO|

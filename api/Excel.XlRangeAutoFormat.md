@@ -14,7 +14,7 @@ Specifies the predefined format when a range is automatically formatted.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlRangeAutoFormat3DEffects1**|13|3-D effects 1.|
 | **xlRangeAutoFormat3DEffects2**|14|3-D effects 2.|

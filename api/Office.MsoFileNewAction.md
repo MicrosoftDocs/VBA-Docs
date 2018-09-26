@@ -14,7 +14,7 @@ Specifies action to take when a user clicks an item in the task pane. Used with 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCreateNewFile**|1|Create a new file.|
 |**msoEditFile**|0|Edit file.|

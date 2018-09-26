@@ -17,7 +17,7 @@ Indicates the download state.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFullItem**|1|Full item has been downloaded.|
 | **olHeaderOnly**|0|Only the header has been downloaded.|

@@ -14,7 +14,7 @@ Specifies retrictions on the docking behavior of the custom task pane.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTPDockPositionRestrictNoChange**|1|There is no change from the current restriction setting for the task pane.|
 |**msoCTPDockPositionRestrictNoHorizontal**|2|Task pane can't be docked to either the right or the left side of the document window.|

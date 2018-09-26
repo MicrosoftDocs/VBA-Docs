@@ -14,7 +14,7 @@ Specifies whether to export the document with markup.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdExportDocumentContent**|0|Exports the document without markup.|
 | **wdExportDocumentWithMarkup**|7|Exports the document with markup.|

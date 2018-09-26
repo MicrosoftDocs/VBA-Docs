@@ -17,7 +17,7 @@ Indicates the synchronization state.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olSyncStarted**|1|Synchronization started|
 | **olSyncStopped**|0|Synchronization stopped|

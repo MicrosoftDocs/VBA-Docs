@@ -14,7 +14,7 @@ Specifies the alignment of a horizontal line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHorizontalLineAlignCenter**|1|Centered.|
 | **wdHorizontalLineAlignLeft**|0|Aligned to the left.|

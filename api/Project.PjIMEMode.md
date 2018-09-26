@@ -14,7 +14,7 @@ Contains constants that specify the Input Method Editor (IME) mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjIMEModeAlpha**|8|Alpha mode.|
 |**pjIMEModeAlphaFull**|7|Full alpha mode.|

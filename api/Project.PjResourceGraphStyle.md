@@ -14,7 +14,7 @@ Contains constants that specify the resource graph style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjArea**|1|Area.|
 |**pjBar**|0|Bar.|

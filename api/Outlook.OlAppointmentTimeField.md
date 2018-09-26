@@ -17,7 +17,7 @@ Specifies the time field in an appointment that the control is bound to.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAppointmentTimeFieldEnd**|3|The control is bound to the end time of the appointment. |
 | **olAppointmentTimeFieldNone**|1|The control is not bound. |

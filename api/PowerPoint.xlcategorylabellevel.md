@@ -15,7 +15,7 @@ Constants that represent chart category-label levels, passed to and returned by 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlCategoryLabelLevelAll**|-1|Use all category label levels within range on the chart. The default.|
 |**xlCategoryLabelLevelCustom**|-2|Indicates literal data in the category labels.|

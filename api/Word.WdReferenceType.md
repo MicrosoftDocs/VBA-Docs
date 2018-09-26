@@ -14,7 +14,7 @@ Specifies the type of item to be cross referenced.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRefTypeBookmark**|2|Bookmark.|
 | **wdRefTypeEndnote**|4|Endnote.|

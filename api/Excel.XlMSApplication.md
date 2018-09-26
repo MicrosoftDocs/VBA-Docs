@@ -14,7 +14,7 @@ Specifies a Microsoft application.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlMicrosoftAccess**|4|Microsoft Office Access|
 | **xlMicrosoftFoxPro**|5|Microsoft FoxPro|

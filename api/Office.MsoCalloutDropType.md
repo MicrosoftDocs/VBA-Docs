@@ -14,7 +14,7 @@ Specifies starting position of the callout line relative to the text bounding bo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutDropBottom**|4|Bottom.|
 |**msoCalloutDropCenter**|3|Center.|

@@ -14,7 +14,7 @@ Specifies where to add the line break based upon Asian character level.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppFarEastLineBreakLevelCustom**|3|Custom level|
 |**ppFarEastLineBreakLevelNormal**|1|Normal level|

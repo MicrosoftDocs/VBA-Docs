@@ -1,5 +1,5 @@
 ---
-title: AcFormatBarLimits Enumeration (Access)
+title: AcFormatBarLimits enumeration (Access)
 keywords: vbaac10.chm14529
 f1_keywords:
 - vbaac10.chm14529
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFormatBarLimits Enumeration (Access)
+# AcFormatBarLimits enumeration (Access)
 
 Specifies how the threshhold values for a Data Bar is determined.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAutomatic**|0|For the shortest bar, the lowest value is used. For the highest bar, the highest value is used.|
 |**acNumber**|1|A number is used.|

@@ -14,7 +14,7 @@ Contains constants that specify the type of grouping.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjGroupOnDateDay**|13|Group on date by day.|
 |**pjDateEachValue**|10|Group on date for each value.|

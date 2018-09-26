@@ -15,7 +15,7 @@ Specifies the current state of a document or presentation broadcast.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**BroadcastPaused**|**2**|The broadcast is paused.|
 |**BroadcastStarted**|**1**|The broadcast has been started.|

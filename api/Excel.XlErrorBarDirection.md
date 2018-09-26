@@ -14,7 +14,7 @@ Specifies which axis values are to receive error bars.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlX**|-4168|Bars run parallel to the Y axis for X-axis values.|
 | **xlY**|1|Bars run parallel to the X axis for Y-axis values.|

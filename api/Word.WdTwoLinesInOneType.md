@@ -14,7 +14,7 @@ Specifies the character to use to enclose two lines being written into one.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTwoLinesInOneAngleBrackets**|4|Enclose the lines using angle brackets.|
 | **wdTwoLinesInOneCurlyBrackets**|5|Enclose the lines using curly brackets.|

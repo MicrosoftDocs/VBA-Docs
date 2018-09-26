@@ -14,7 +14,7 @@ Contains constants that specify the window state.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMaximized**|3|Maximized.|
 |**pjMinimized**|2|Minimized.|

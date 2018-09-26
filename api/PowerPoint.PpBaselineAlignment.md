@@ -14,7 +14,7 @@ Specifies the base line alignment for a paragraph.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppBaselineAlignBaseline**|1|Aligned to the baseline.|
 |**ppBaselineAlignCenter**|3|Aligned to the center.|

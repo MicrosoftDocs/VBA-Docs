@@ -17,7 +17,7 @@ Constants that represent colors.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAutoColor**|0|Color is based on system preferences|
 | **olColorAqua**|15|Aqua|

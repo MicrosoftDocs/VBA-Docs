@@ -14,7 +14,7 @@ Constants that specify the point in a slide show to navigate to, relative to the
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoClickStateAfterAllAnimations**|-2|After all animations.|
 |**msoClickStateBeforeAutomaticAnimations**|-1|Before automatic animations.|

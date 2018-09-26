@@ -14,7 +14,7 @@ Constants that specify the window state, passed to and returned by the  **Window
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppWindowMaximized**|3|Maximized|
 |**ppWindowMinimized**|2|Minimized|

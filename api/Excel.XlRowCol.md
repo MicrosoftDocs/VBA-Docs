@@ -14,7 +14,7 @@ Specifies whether the values corresponding to a particular data series are in ro
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlColumns**|2|Data series is in a row.|
 | **xlRows**|1|Data series is in a column.|

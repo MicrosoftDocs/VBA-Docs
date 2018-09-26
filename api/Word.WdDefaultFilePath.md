@@ -14,7 +14,7 @@ Specifies a default folder for files related to Microsoft Word.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoRecoverPath**|5|Path for Auto Recover files.|
 | **wdBorderArtPath**|19|Border art path.|

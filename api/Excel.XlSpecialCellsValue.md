@@ -14,7 +14,7 @@ Specifies cells with a particular type of value to include in the result.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlErrors**|16|Cells with errors.|
 | **xlLogical**|4|Cells with logical values.|

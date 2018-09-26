@@ -17,5 +17,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.PictureCaptionArrangement Property (Access)](http://msdn.microsoft.com/library/4b9a87a0-3e9f-5a95-cab0-90427c714c12%28Office.15%29.aspx)
 
-[AcPictureCaptionArrangement Enumeration (Access)](http://msdn.microsoft.com/library/e77a758f-4139-343f-9f1c-5e29db3fe5a3%28Office.15%29.aspx)
+[AcPictureCaptionArrangement enumeration (Access)](http://msdn.microsoft.com/library/e77a758f-4139-343f-9f1c-5e29db3fe5a3%28Office.15%29.aspx)
 

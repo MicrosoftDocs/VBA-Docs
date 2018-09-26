@@ -14,7 +14,7 @@ Specifies the way Microsoft Word makes spelling suggestions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAnagram**|2|Anagram searching.|
 | **wdSpellword**|0|Spellword searching.|

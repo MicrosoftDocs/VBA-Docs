@@ -14,7 +14,7 @@ Indicates the number of times a character is printed to darken the image.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDoubleStrike**|2|Specifies that the character is printed twice.|
 |**msoNoStrike**|0|Specifies that the character is not printed.|

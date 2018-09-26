@@ -17,7 +17,7 @@ Represents the way data from a Web form is processed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbSubmitDataRetrievalEmail**|2|Processes form data by sending an e-mail message to a specified e-mail address.|
 | **pbSubmitDataRetrievalProgram**|3|Processes form data using a script program provided by your Internet service provider.|

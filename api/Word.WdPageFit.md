@@ -14,7 +14,7 @@ Specifies the view setting for a page.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPageFitBestFit**|2|Best fit the page to the active window.|
 | **wdPageFitFullPage**|1|View the full page.|

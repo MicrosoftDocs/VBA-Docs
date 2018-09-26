@@ -17,7 +17,7 @@ Indicates the format used to display yes/no Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatYesNoIcon**|4|Displays a check box icon.|
 | **olFormatYesNoOnOff**|2|Displays "On" or "Off".|

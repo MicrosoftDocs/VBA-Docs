@@ -14,7 +14,7 @@ Specifies the operator to use to compare a formula against the value in a cell o
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBetween**|1|Between. Can be used only if two formulas are provided.|
 | **xlEqual**|3|Equal.|

@@ -1,5 +1,5 @@
 ---
-title: AcSection Enumeration (Access)
+title: AcSection enumeration (Access)
 keywords: vbaac10.chm10010
 f1_keywords:
 - vbaac10.chm10010
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSection Enumeration (Access)
+# AcSection enumeration (Access)
 
 Specifies the section that will contain the new control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDetail**|0|(Default) Detail section|
 |**acFooter**|2|Form or report footer|

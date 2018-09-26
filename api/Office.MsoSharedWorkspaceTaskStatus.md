@@ -14,7 +14,7 @@ Specifies the status of a shared workspace task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSharedWorkspaceTaskStatusCompleted**|3|Completed.|
 |**msoSharedWorkspaceTaskStatusDeferred**|4|Deferred.|

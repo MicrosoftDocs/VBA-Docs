@@ -17,7 +17,7 @@ Represents the page type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPageLeftPage**|1|Left page|
 | **pbPageMasterPage**|4|Master page|

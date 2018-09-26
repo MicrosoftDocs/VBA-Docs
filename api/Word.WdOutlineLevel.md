@@ -14,7 +14,7 @@ Specifies the outline level to apply to a paragraph.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOutlineLevel1**|1|Outline level 1.|
 | **wdOutlineLevel2**|2|Outline level 2.|

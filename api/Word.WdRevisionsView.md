@@ -14,7 +14,7 @@ Specifies whether Word displays the original version of a document or a version 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRevisionsViewFinal**|0|Displays the document with formatting and content changes applied.|
 | **wdRevisionsViewOriginal**|1|Displays the document before changes were made.|

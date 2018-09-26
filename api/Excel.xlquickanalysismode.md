@@ -15,7 +15,7 @@ Indicates for which top level button the callout user interface is displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLensOnly**|0|Show the button but no callout user interface|
 | **xlFormatConditions**|1|Conditional Formatting|

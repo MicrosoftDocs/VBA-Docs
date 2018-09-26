@@ -14,7 +14,7 @@ Specifies the type of index.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIndexIndent**|0|An indented index.|
 | **wdIndexRunin**|1|A run-in index.|

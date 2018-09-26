@@ -17,7 +17,7 @@ Represents the color model of the picture.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbColorModelCMYK**|2|CMYK|
 | **pbColorModelGreyScale**|3|GreyScale|

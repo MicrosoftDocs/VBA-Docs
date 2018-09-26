@@ -14,7 +14,7 @@ Specifies how text is laid out in the layout mode for the current document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLayoutModeDefault**|0|No grid is used to lay out text.|
 | **wdLayoutModeGenko**|3|Text is laid out on a grid; the user specifies the number of lines and the number of characters per line. As the user types, Microsoft Word automatically aligns characters with gridlines.|

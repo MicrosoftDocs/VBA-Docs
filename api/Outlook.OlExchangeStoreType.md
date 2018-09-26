@@ -17,7 +17,7 @@ Specifies the type of Exchange store.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olExchangeMailbox**|1|Specifies an Exchange delegate mailbox store.|
 | **olExchangePublicFolder**|2|Specifies an Exchange Public Folder store.|

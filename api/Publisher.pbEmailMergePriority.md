@@ -17,7 +17,7 @@ Constants for merged e-mail message priority passed to and returned by the  ** [
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPriorityHigh**|1|High priority|
 | **pbPriorityLow**|2|Low priority|

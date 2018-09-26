@@ -14,7 +14,7 @@ Specifies properties of a signature provider.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigprovdetHashAlgorithm**|1|Hash algorithm used to hash the data in the file.|
 |**sigprovdetUIOnly**|2|Indicates that the signature provider only uses a custom user interface.|

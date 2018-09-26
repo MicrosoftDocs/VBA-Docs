@@ -14,7 +14,7 @@ Specifies the mail system that is installed on the host computer.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlMAPI**|1|MAPI-complaint system|
 | **xlNoMailSystem**|0|No mail system|

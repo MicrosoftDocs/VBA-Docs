@@ -14,7 +14,7 @@ Specifies the size of the paper.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPaper10x14**|16|10 in. x 14 in.|
 | **xlPaper11x17**|17|11 in. x 17 in.|

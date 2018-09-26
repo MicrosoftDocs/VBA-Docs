@@ -14,7 +14,7 @@ Specifies the way that conflicts are to be resolved whenever a shared workbook i
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLocalSessionChanges**|2|The local user's changes are always accepted.|
 | **xlOtherSessionChanges**|3|The local user's changes are always rejected.|

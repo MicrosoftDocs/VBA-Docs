@@ -17,7 +17,7 @@ Indicates the format used to display the  **From** Outlook item property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatSmartFromFromOnly**|2|Display the value of the  **From** Outlook item property. If no value is available, display an empty string.|
 | **olFormatSmartFromFromTo**|1|Display the value of the  **From** Outlook item property. If no value is available, display instead the value of the **To** Outlook item property.|

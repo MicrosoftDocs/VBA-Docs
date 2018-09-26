@@ -17,7 +17,7 @@ Specifies the type of connection to the Exchange server for the auto-discovery s
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAutoDiscoverConnectionExternal**|1|Connection is over the Internet.|
 | **olAutoDiscoverConnectionInternal**|2|Connection is over the Intranet.|

@@ -14,7 +14,7 @@ Contains constants that specify the pattern of a resource graph.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDarkFill**|4|Dark fill.|
 |**pjDashDot**|4|Dash dot.|

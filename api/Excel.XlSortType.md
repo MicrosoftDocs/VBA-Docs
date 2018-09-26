@@ -14,7 +14,7 @@ Specifies which elements are to be sorted. Use this argument only when sorting P
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSortLabels**|2|Sorts the PivotTable report by labels.|
 | **xlSortValues**|1|Sorts the PivotTable report by values.|

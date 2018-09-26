@@ -14,7 +14,7 @@ Specifies the part of speech that a word represents when returned by the Word th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAdjective**|0|An adjective.|
 | **wdAdverb**|2|An adverb.|

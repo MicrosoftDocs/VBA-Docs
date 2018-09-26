@@ -15,7 +15,7 @@ Specifies the type of data field to be inserted into a data label in a chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoChartFieldBubbleSize**|**1**|Specifies the Bubble size of the data point.|
 |**msoChartFieldCategoryName**|**2**|Specifies the category name size of the data point.|

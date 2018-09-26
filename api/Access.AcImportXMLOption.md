@@ -1,5 +1,5 @@
 ---
-title: AcImportXMLOption Enumeration (Access)
+title: AcImportXMLOption enumeration (Access)
 keywords: vbaac10.chm13249
 f1_keywords:
 - vbaac10.chm13249
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcImportXMLOption Enumeration (Access)
+# AcImportXMLOption enumeration (Access)
 
 Specifies the action to take when using the [Application.ImportXML Method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAppendData**|2|Imports the data into an existing table.|
 |**acStructureAndData**|1|Imports the data into a new table based on the structure of the specified XML file.|

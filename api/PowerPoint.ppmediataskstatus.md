@@ -15,7 +15,7 @@ Indicates the status of the media resampling task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppMediaTaskStatusNone**|0|No status|
 |**ppMediaTaskStatusInProgress**|1|In progress|

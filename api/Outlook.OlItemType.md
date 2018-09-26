@@ -17,7 +17,7 @@ Indicates the Outlook item type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAppointmentItem**|1|An  **[AppointmentItem](Outlook.AppointmentItem.md)** object.|
 | **olContactItem**|2|A  **[ContactItem](Outlook.ContactItem.md)** object.|

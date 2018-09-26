@@ -14,7 +14,7 @@ Specifies the state of the current document window or task window.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWindowStateMaximize**|1|Maximized.|
 | **wdWindowStateMinimize**|2|Minimized.|

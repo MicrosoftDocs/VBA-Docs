@@ -15,7 +15,7 @@ Specifies the reason why protected view is being closed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppProtectedViewCloseNormal**|0|Protected view is being closed normally.|
 |**ppProtectedViewCloseEdit**|1|Protected view is being closed so that the presentation can be edited.|

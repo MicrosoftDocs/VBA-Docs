@@ -17,7 +17,7 @@ Specifies constants that determine whether new items of the conversation are alw
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAlwaysDelete**|1|New items of the conversation are always moved to the Deleted Items folder for the store that contains the items|
 | **olAlwaysDeleteUnsupported**|2|The specified store does not support the action of always moving items to the Deleted Items folder of that store.|

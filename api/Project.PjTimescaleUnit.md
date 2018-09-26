@@ -14,7 +14,7 @@ Contains constants that specify the unit of time for any tier of a timescale in 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTimescaleDays**|4|Days.|
 |**pjTimescaleHalfYears**|8|Half years.|

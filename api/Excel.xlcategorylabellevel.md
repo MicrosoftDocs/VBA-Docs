@@ -15,7 +15,7 @@ Specifies the category labels for the category label levels.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **XlCategoryLabelLevelAll** (default)|-1 (&;HFFFFFFFF)|Set category labels to all category label levels w/in range on the chart.|
 | **XlCategoryLabelLevelCustom**|-2 (&;HFFFFFFFE)|Indicates literal data in the category labels.|

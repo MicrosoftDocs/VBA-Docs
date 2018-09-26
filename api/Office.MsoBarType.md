@@ -14,7 +14,7 @@ Specifies the type of the command bar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarTypeMenuBar**|1|Menu bar.|
 |**msoBarTypeNormal**|0|Default command bar.|

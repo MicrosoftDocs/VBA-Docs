@@ -14,7 +14,7 @@ Specifies the style of a command bar button.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoButtonAutomatic**|0|Default behavior.|
 |**msoButtonCaption**|2|Text only.|

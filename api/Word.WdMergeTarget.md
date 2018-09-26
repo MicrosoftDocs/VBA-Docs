@@ -14,7 +14,7 @@ Specifies the target for a Compare and Merge Documents process.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMergeTargetCurrent**|1|Merge into current document.|
 | **wdMergeTargetNew**|2|Merge into new document.|

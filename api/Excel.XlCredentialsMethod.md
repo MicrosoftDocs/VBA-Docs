@@ -14,7 +14,7 @@ Specifies the type of credentials method used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **CredentialsMethodIntegrated**|0|Integrated|
 | **CredentialsMethodNone**|1|No credentials used|

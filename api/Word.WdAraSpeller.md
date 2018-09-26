@@ -14,7 +14,7 @@ Specifies spelling rules for the Arabic spelling checker.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBoth**|3|The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|
 | **wdFinalYaa**|2|The spelling checker uses spelling rules regarding Arabic words ending with the letter yaa.|

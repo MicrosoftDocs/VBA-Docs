@@ -14,7 +14,7 @@ Specifies the type of field separator.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSortSeparateByCommas**|1|Comma.|
 | **wdSortSeparateByDefaultTableSeparator**|2|Default table separator.|

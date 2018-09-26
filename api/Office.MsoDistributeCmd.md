@@ -14,7 +14,7 @@ Specifies how to evenly distribute a collection of shapes. Used with the  **Dist
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDistributeHorizontally**|0|Distribute horizontally.|
 |**msoDistributeVertically**|1|Distribute vertically.|

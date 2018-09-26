@@ -17,7 +17,7 @@ Represents the vertical alignment of text in a text box.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbVerticalTextAlignmentBottom**|2|Text is aligned to the bottom.|
 | **pbVerticalTextAlignmentCenter**|1|Text is aligned to the center.|

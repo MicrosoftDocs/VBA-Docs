@@ -14,7 +14,7 @@ Specifies the interior pattern of a chart or interior object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPatternAutomatic**|-4105|Excel controls the pattern.|
 | **xlPatternChecker**|9|Checkerboard.|

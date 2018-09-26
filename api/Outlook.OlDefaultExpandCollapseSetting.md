@@ -17,7 +17,7 @@ Specifies the expand/collapse default value specified in the  **[DefaultExpandCo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAllCollapsed**|1|All groups are collapsed when the view is initially displayed.|
 | **olAllExpanded**|0|All groups are expanded when the view is initially displayed.|

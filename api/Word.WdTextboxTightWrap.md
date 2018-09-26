@@ -14,7 +14,7 @@ Specifies how Microsoft Word tightly wraps text around text boxes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTightAll**|1|Wraps text around the text box tightly to the contents of the text box on all lines.|
 | **wdTightFirstAndLastLines**|2|Wraps text tightly only on first and last lines.|

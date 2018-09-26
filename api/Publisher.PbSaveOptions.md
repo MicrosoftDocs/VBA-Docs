@@ -17,7 +17,7 @@ Specifies what Microsoft Publisher should do if there is already an open publica
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbDoNotSaveChanges**|3|Close the open publication without saving any changes.|
 | **pbPromptToSaveChanges**|1|Default. Prompt the user whether to save changes in the open publication.|

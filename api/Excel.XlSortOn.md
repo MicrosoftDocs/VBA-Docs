@@ -14,7 +14,7 @@ Specifies the parameter on which the data should be sorted.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **SortOnCellColor**|1|Cell color.|
 | **SortOnFontColor**|2|Font color.|

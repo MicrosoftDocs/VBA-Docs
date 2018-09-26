@@ -14,7 +14,7 @@ Marks the moved-to text when text in a document with tracked changes is moved fr
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMoveToTextMarkBold**|1|Marks moved text with bold formatting.|
 | **wdMoveToTextMarkColorOnly**|5|Marks moved text with color only. Use the  **[MoveToTextColor](Word.Options.MoveToTextColor.md)** property to set the color of moved text.|

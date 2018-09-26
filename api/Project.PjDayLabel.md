@@ -14,7 +14,7 @@ Contains constants that specify the display format for days in a timescale.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDayLabelDay_ddd**|19|Examples: Mon, Tue|
 |**pjDayLabelDay_dddd**|18|Examples: Monday, Tuesday|

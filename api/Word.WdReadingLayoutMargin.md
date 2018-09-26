@@ -14,7 +14,7 @@ Specifies whether margins are visible or hidden when a document is viewed in Ful
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutomaticMargin**|0|Shows the pages without margins.|
 | **wdFullMargin**|2|Shows the pages with margins.|

@@ -14,7 +14,7 @@ Specifies the format for the automatically updated date and time.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppDateTimeddddMMMMddyyyy**|2|ddddMMMMddyyyy|
 |**ppDateTimedMMMMyyyy**|3|dMMMMyyyy|

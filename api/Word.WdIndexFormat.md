@@ -14,7 +14,7 @@ Specifies the formatting for indexes in a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIndexBulleted**|4|Bulleted.|
 | **wdIndexClassic**|1|Classic.|

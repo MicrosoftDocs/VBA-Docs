@@ -14,7 +14,7 @@ Contains constants that specify which tab in the  **Visual Reports - Create Repo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTabAll**|0|Show the  **All** tab, which contains all report types.|
 |**pjTabAssignmentNTP**|6|Show the tab for nontimephased assignment reports (the  **Assignment Summary** tab).|

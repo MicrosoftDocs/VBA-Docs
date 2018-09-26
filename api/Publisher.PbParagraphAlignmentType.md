@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbParagraphAlignmentCenter**|1|Center alignment|
 | **pbParagraphAlignmentDistribute**|4|Distribute alignment|

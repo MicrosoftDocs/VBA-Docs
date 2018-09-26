@@ -14,7 +14,7 @@ Indicates the position of data labels relative to the data markers.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlLabelPositionAbove**|0|Data label positioned above point.|
 |**xlLabelPositionBelow**|1|Data label positioned below point.|

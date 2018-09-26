@@ -1,5 +1,5 @@
 ---
-title: AcSplitFormOrientation Enumeration (Access)
+title: AcSplitFormOrientation enumeration (Access)
 keywords: vbaac10.chm14038
 f1_keywords:
 - vbaac10.chm14038
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSplitFormOrientation Enumeration (Access)
+# AcSplitFormOrientation enumeration (Access)
 
 Used with the [SplitFormOrientation](Access.Form.SplitFormOrientation.md) property to specify the orientation of the datasheet in relation to the form while in Split Form view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDatasheetOnBottom**|1|The datasheet is displayed below the form.|
 |**acDatasheetOnLeft**|2|The datasheet is displayed to the left of the form.|

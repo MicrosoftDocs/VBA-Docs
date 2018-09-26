@@ -1,5 +1,5 @@
 ---
-title: AcHyperlinkPart Enumeration (Access)
+title: AcHyperlinkPart enumeration (Access)
 keywords: vbaac10.chm10035
 f1_keywords:
 - vbaac10.chm10035
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcHyperlinkPart Enumeration (Access)
+# AcHyperlinkPart enumeration (Access)
 
 Specifies the the information you want returned by the  **HyperlinkPart** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAddress**|2|The address part of a Hyperlink field.|
 |**acDisplayedValue**|0|The underlined text displayed in a hyperlink.|

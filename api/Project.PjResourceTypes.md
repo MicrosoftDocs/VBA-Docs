@@ -14,7 +14,7 @@ Contains constants that specify the type of resource.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResourceTypeCost**|2|Resource type is  **Cost**.|
 |**pjResourceTypeMaterial**|1|Resource type is  **Material**.|

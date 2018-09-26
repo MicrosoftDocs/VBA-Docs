@@ -14,7 +14,7 @@ Specifies which rules the Hebrew spelling checker will follow.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFullScript**|0|The spelling checker follows rules for the conventional script required by the Hebrew Language Academy for writing text without diacritics.|
 | **wdMixedAuthorizedScript**|3|The spelling checker follows rules for full and partial script, but highlights as potential mistakes any spelling variations not permitted within either system and any completely unrecognized words.|

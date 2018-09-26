@@ -17,7 +17,7 @@ Represents the alignment of the navigation bar; vertical or horizontal.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbNavBarOrientHorizontal**|1|Horizontal orientation|
 | **pbNavBarOrientVertical**|2|Vertical orientation|

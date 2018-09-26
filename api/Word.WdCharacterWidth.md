@@ -14,7 +14,7 @@ Specifies the character width of the specified range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWidthFullWidth**|7|Characters are displayed in full character width.|
 | **wdWidthHalfWidth**|6|Characters are displayed in half the character width.|

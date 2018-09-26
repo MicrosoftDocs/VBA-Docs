@@ -14,7 +14,7 @@ Specifies a printer paper tray.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPrinterAutomaticSheetFeed**|7|Automatic sheet feed.|
 | **wdPrinterDefaultBin**|0|Default bin.|

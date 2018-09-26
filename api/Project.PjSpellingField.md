@@ -14,7 +14,7 @@ Contains constants that specify the field for spelling check.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjSpellAssignmentEnterpriseText1**|255853045|Enterprise Text1 (Assignment) field.|
 |**pjSpellAssignmentEnterpriseText10**|255853054|Enterprise Text10 (Assignment) field.|

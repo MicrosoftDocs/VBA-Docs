@@ -14,7 +14,7 @@ Contains constants that specify warnings for tasks or assignments.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTaskWarningAssnOverallocatedInNonWorkingTime**|16384|The assignment is in overallocated non-working time.|
 |**pjTaskWarningResourceBeyondMaxUnit**|64|The assignment is more than the maximum resource units available.|

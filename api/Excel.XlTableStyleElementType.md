@@ -14,7 +14,7 @@ Specifies the table style element used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBlankRow**|19|Blank row|
 | **xlColumnStripe1**|7|Column Stripe1|

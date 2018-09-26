@@ -14,7 +14,7 @@ Specifies the layout direction for text, table cells , or user interface.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppDirectionLeftToRight**|1|Left-to-right layout|
 |**ppDirectionMixed**|-2|Mixed layout|

@@ -14,7 +14,7 @@ Specifies the direction used for an animation effect.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimDirectionAcross**|18|Across|
 |**msoAnimDirectionBottom**|11|Bottom|

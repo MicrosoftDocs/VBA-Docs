@@ -14,7 +14,7 @@ Contains constants that specify how to set the automatic filter.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAutoFilter1DayOrLess**|22|Filter for items that are one day or shorter.|
 |**pjAutoFilter1WeekOrLonger**|24|Filter for items that are one week or longer.|

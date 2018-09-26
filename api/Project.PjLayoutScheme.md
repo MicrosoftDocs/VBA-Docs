@@ -14,7 +14,7 @@ Contains constants that specify the positioning scheme to use for display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLayoutCenteredFromLeft**|5|Layout centered from left.|
 |**pjLayoutCenteredFromTop**|6|Layout centered from top.|

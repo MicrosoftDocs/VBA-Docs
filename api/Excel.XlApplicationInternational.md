@@ -14,7 +14,7 @@ Specifies country/region and international settings.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xl24HourClock**|33|True if you?re using 24-hour time; False if you?re using 12-hour time.|
 | **xl4DigitYears**|43|True if you?re using four-digit years; False if you?re using two-digit years.|

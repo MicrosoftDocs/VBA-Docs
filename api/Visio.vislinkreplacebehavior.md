@@ -18,7 +18,7 @@ Link replacement behavior constants passed to and returned by the  **[DataRecord
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLinkReplaceAlways**|1|Always replace links when linking to a shape that has existing links.|
 | **visLinkReplaceNever**|0|Never replace links when linking to a shape that has existing links.|

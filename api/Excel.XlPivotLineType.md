@@ -14,7 +14,7 @@ Specifies the type of the PivotLine.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPivotLineBlank**|3|Blank line after each group.|
 | **xlPivotLineGrandTotal**|2|Grand Total line.|

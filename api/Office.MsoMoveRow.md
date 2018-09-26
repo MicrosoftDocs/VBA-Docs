@@ -14,7 +14,7 @@ This enumeration has been deprecated and should not be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMoveRowFirst**|-4|Internal use only.|
 |**msoMoveRowNbr**|-1|Internal use only.|

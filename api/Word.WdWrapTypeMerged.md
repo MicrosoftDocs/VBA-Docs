@@ -14,7 +14,7 @@ Specifies how Microsoft Word wraps text around pictures.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWrapMergeBehind**|3|Behind text.|
 | **wdWrapMergeFront**|4|In front of text.|

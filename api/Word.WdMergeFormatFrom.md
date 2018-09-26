@@ -14,7 +14,7 @@ Specifies the document from which to retain formatting during a document compare
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMergeFormatFromOriginal**|0|Retains formatting from the original document.|
 | **wdMergeFormatFromPrompt**|2|Prompt the user for the document to use for formatting.|

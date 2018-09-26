@@ -14,7 +14,7 @@ Specifies the type of callout line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutFour**|4|Callout line made up of two line segments. Callout line is attached on right side of text bounding box.|
 |**msoCalloutMixed**|-2|Return value only; indicates a combination of the other states. |

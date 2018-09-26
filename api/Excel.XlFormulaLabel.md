@@ -14,7 +14,7 @@ Specifies the formula label type for the specified range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlColumnLabels**|2|Column labels only.|
 | **xlMixedLabels**|3|Row and column labels.|

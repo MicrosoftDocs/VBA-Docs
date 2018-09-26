@@ -14,7 +14,7 @@ Specifies the maximum number of unique items allowed per PivotField.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlMissingItemsDefault**|-1|The default number of unique items per PivotField allowed.|
 | **xlMissingItemsMax**|32500|The maximum number of unique items per PivotField allowed (32,500) for a pre-Excel 2007 PivotTable.|

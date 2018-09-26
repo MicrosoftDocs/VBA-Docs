@@ -14,7 +14,7 @@ Specifies the horizontal alignment for an equation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathHorizAlignCenter**|0|Centered.|
 | **wdOMathHorizAlignLeft**|1|Left alignment.|

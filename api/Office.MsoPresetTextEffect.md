@@ -14,7 +14,7 @@ Specifies what text effect to use on a  **WordArt** object. Refer to the **WordA
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffect1**|0|First text effect.|
 |**msoTextEffect10**|9|Tenth text effect.|

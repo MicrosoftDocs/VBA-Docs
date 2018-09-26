@@ -15,7 +15,7 @@ Specifies the series labels for the series label levels.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **XlSeriesNameLevelAll** (default)|-1 (&;HFFFFFFFF)|Set series names to all series name levels w/in range on the chart.|
 | **xlSeriesNameLevelCustom**|-2 (&;HFFFFFFFE)|Indicates literal data in the series names.|

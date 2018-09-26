@@ -1,5 +1,5 @@
 ---
-title: AcSearchDirection Enumeration (Access)
+title: AcSearchDirection enumeration (Access)
 keywords: vbaac10.chm10026
 f1_keywords:
 - vbaac10.chm10026
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSearchDirection Enumeration (Access)
+# AcSearchDirection enumeration (Access)
 
 Used with the [DoCmd.FindRecord Method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDown**|1|Search all records below the current record.|
 |**acSearchAll**|2|Search all records.|

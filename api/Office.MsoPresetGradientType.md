@@ -14,7 +14,7 @@ Specifies which predefined gradient to use to fill a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientBrass**|20|Brass gradient.|
 |**msoGradientCalmWater**|8|Calm Water gradient.|

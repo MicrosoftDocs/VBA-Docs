@@ -14,7 +14,7 @@ Specifies how conflicts should be resolved when synchronizing a shared document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncConflictClientWins**|0|Replace the server copy with the local copy.|
 |**msoSyncConflictMerge**|2|Merge changes made to the server copy into the local copy. To resolve the conflict with the merged changes winning, you must save the active document after merging changes, then call the  **ResolveConflict** method again with the **msoSyncConflictClientWins** option.|

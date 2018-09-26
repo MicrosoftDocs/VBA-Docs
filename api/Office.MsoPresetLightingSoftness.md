@@ -14,7 +14,7 @@ Specifies the intensity of light used on a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightingBright**|3|Bright light.|
 |**msoLightingDim**|1|Dim light.|

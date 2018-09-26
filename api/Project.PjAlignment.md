@@ -14,7 +14,7 @@ Contains constants that specify how data is aligned in a container, for example 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCenter**|1|Align data in the center.|
 |**pjLeft**|0|Align data at the left.|

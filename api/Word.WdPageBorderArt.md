@@ -14,7 +14,7 @@ Specifies the graphical page border setting of a page.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdArtApples**|1|An apple border.|
 | **wdArtArchedScallops**|97|An arched scalloped border.|

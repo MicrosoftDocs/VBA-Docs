@@ -14,7 +14,7 @@ Contains constants that specify the resource pooling option.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResSubstitutionResInList**|2|Use resources specified in the list of resources in the  **EnterpriseResSubstitutionWizard** method.|
 |**pjResSubstitutionResInProject**|0|Use resources already specified in the project.|

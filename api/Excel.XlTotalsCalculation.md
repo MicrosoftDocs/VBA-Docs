@@ -14,7 +14,7 @@ Specifies the type of calculation in the Totals row of a list column.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTotalsCalculationAverage**|2|Average|
 | **xlTotalsCalculationCount**|3|Count of non-empty cells|

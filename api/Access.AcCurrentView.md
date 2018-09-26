@@ -1,5 +1,5 @@
 ---
-title: AcCurrentView Enumeration (Access)
+title: AcCurrentView enumeration (Access)
 keywords: vbaac10.chm13237
 f1_keywords:
 - vbaac10.chm13237
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcCurrentView Enumeration (Access)
+# AcCurrentView enumeration (Access)
 
 Used with the  **CurrentView** property to determine the current view of an object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCurViewDatasheet**|2|The object is in Datasheet view.|
 |**acCurViewDesign**|0|The object is in Design view.|

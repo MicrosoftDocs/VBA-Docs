@@ -14,7 +14,7 @@ Specifies how to validate the data caches for PivotTable reports.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFileValidationPivotDefault**|0|Validate the contents of data caches as specified by the  **PivotOptions** registry setting (default).|
 | **xlFileValidationPivotRun**|1|Validate the contents of all data caches regardless of the registry setting.|

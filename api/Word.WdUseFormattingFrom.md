@@ -14,7 +14,7 @@ Specifies a source to copy formatting from.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFormattingFromCurrent**|0|Copy source formatting from the current item.|
 | **wdFormattingFromPrompt**|2|Prompt the user for formatting to use.|

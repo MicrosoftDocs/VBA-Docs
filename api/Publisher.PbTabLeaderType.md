@@ -17,7 +17,7 @@ Represents the leader character for a tab stop.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTabLeaderBullet**|5|Leader bullet tab|
 | **pbTabLeaderDashes**|2|Leader dashes tab|

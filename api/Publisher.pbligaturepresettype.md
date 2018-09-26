@@ -15,7 +15,7 @@ Constants passed to and returned by the  ** [Font.Ligature](Publisher.font.ligat
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbLigatureAll**|3|Ligature applied to all characters|
 | **pbLigatureMixed**|-1|Ligature applied to some characters, but not others|

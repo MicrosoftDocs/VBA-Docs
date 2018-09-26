@@ -14,7 +14,7 @@ Specifies the default list behavior for a list.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWord10ListBehavior**|2|Use formatting compatible with Microsoft Word 2002.|
 | **wdWord8ListBehavior**|0|Use formatting compatible with Microsoft Word 97.|

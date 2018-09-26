@@ -14,7 +14,7 @@ Contains constants that specify the type of Gnatt bar links.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjNoGanttBarLinks**|0|No Gantt bar links.|
 |**pjToEnd**|2|At the end.|

@@ -14,7 +14,7 @@ Contains constants that specify whether a command is enabled.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCommandDisabled**|1|The command is disabled.|
 |**pjCommandEnabled**|0|The command is enabled.|

@@ -17,7 +17,7 @@ Indicates the sharing provider associated with a  **[SharingItem](Outlook.Sharin
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olProviderExchange**|1|Represents the Exchange sharing provider.|
 | **olProviderFederate**|7|Represents a federated sharing provider. A  **SharingItem** object with this type of provider is used for sharing relationships across organizational boundares (for example, between two organizations using Microsoft Exchange Server 2010).|

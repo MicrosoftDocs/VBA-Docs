@@ -14,7 +14,7 @@ Indicates how to format the child nodes in an organization chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrgChartLayoutBothHanging**|2|Places child nodes vertically below the parent node on both the left and the right side.|
 |**msoOrgChartLayoutLeftHanging**|3|Places child nodes vertically below the parent node on the left side.|

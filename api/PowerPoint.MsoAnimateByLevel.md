@@ -14,7 +14,7 @@ Specifies for charts, diagrams, or text, the level to which the animation effect
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimateChartAllAtOnce**|7|Animate chart all at once|
 |**msoAnimateChartByCategory**|8|Animate chart by category|

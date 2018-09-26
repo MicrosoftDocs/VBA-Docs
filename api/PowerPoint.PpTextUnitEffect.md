@@ -14,7 +14,7 @@ Constants that specify how text-unit effects are animated, passed to and returne
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAnimateByCharacter**|2|Text-unit effects are animated by character.|
 |**ppAnimateByParagraph**|0|Text-unit effects are animated by paragraph.|

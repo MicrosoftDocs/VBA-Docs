@@ -17,7 +17,7 @@ Specifies constants that define the different ways to incrementally align a shap
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutVertAlignNone**|0|Do not align vertically.|
 | **visLayoutVertAlignDefault**|1|Let Visio choose how to align vertically.|

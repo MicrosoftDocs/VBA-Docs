@@ -1,5 +1,5 @@
 ---
-title: AcPrintPaperBin Enumeration (Access)
+title: AcPrintPaperBin enumeration (Access)
 keywords: vbaac10.chm13246
 f1_keywords:
 - vbaac10.chm13246
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintPaperBin Enumeration (Access)
+# AcPrintPaperBin enumeration (Access)
 
 Used with the  **PaperBin** property to indicate which paper bin the specified printer should use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRBNAuto**|7|(Default) Use paper from the current default bin. |
 |**acPRBNCassette**|14|Use paper from the attached cassette cartridge. |

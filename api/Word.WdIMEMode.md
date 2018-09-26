@@ -14,7 +14,7 @@ Specifies the default start-up mode for the Japanese Input Method Editor (IME).
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIMEModeAlpha**|8|Activates the IME in half-width Latin mode.|
 | **wdIMEModeAlphaFull**|7|Activates the IME in full-width Latin mode.|

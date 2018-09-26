@@ -14,7 +14,7 @@ Contains constants that specify how nonworking times are denoted in relation to 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBehind**|0|Behind the Gantt bars.|
 |**pjDoNotDraw**|2|Do not draw.|

@@ -14,7 +14,7 @@ Contains constants that specify the calculation mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAutomatic**|-1|Automatic.|
 |**pjManual**|0|Manual.|

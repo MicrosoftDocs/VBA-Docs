@@ -14,7 +14,7 @@ Contains constants that specify which fields to copy into.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjIntoBaseline**|0|All baseline information in the active project.|
 |**pjIntoBaseline1**|11|Baseline1 start and Baseline1 finish dates.|

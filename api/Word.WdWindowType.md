@@ -14,7 +14,7 @@ Specifies the type of window.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWindowDocument**|0|A document window.|
 | **wdWindowTemplate**|1|A template window.|

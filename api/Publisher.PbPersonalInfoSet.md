@@ -17,7 +17,7 @@ Indicates the current identity set.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPersonalInfoHome**|4|Home|
 | **pbPersonalInfoOtherOrganization**|3|Other organization|

@@ -14,7 +14,7 @@ Contains constants that specify the week in a month in which an exception occurs
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFirst**|0|First week of the month.|
 |**pjFourth**|3|Fourth week of the month.|

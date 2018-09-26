@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define which type of raster export resolution to use; passed to the SetRasterExportResolution method and returned by the GetRasterExportResolution method.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterUseScreenResolution**|0|Use screen resolution.|
 | **visRasterUsePrinterResolution**|1|Use printer resolution.|

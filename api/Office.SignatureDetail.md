@@ -14,7 +14,7 @@ Indicates additional information about a signature.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigdetApplicationName**|1|Specifies the application name.|
 |**sigdetApplicationVersion**|2|Specifies the application version.|

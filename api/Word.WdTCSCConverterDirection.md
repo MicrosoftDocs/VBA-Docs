@@ -14,7 +14,7 @@ Specifies how to convert between Traditional Chinese and Simplified Chinese.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTCSCConverterDirectionAuto**|2|Convert in the appropriate direction based on the detected language of the specified range.|
 | **wdTCSCConverterDirectionSCTC**|0|Convert from Simplified Chinese to Traditional Chinese.|

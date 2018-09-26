@@ -14,7 +14,7 @@ Specifies how dates should be filtered in the specified period.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFilterAllDatesInPeriodDay**|2|Filter all dates for the specified date.|
 | **xlFilterAllDatesInPeriodHour**|3|Filter all dates for the specified hour.|

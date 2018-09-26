@@ -14,7 +14,7 @@ Specifies the type of calculation performed by a data PivotField when a custom c
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDifferenceFrom**|2|The difference from the value of the Base item in the Base field.|
 | **xlIndex**|9|Data calculated as ((value in cell) x (Grand Total of Grand Totals)) / ((Grand Row Total) x (Grand Column Total)).|

@@ -17,7 +17,7 @@ Represents the resolution at which the inserted graphics are to be printed in th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPrintHighResolution**|1|Default. Print linked graphics using the full-resolution linked version.|
 | **pbPrintLowResolution**|2|Print linked graphics using the low-resolution placeholder version that is stored in the publication.|

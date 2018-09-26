@@ -14,7 +14,7 @@ Not used in PowerPoint.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppIndentControlMixed**|-2|Mixed control.|
 |**ppIndentKeepAttr**|2|Keep attribute.|

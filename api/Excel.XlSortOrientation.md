@@ -14,7 +14,7 @@ Specifies the sort orientation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSortColumns**|1|Sorts by column.|
 | **xlSortRows**|2|Sorts by row. This is the default value.|

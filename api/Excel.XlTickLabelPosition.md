@@ -14,7 +14,7 @@ Specifies the position of tick-mark labels on the specified axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTickLabelPositionHigh**|-4127|Top or right side of the chart.|
 | **xlTickLabelPositionLow**|-4134|Bottom or left side of the chart.|

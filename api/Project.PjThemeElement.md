@@ -14,7 +14,7 @@ Contains constants that specify the theme element in Project Guide pages.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjThemeElementWPBkgd**|32 (&;H20)|Page background.|
 |**pjThemeElementWPCtlBdr**|40 (&;H28)|Control builder element.|

@@ -14,7 +14,7 @@ Specifies the dash style for a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineDash**|4|Line consists of dashes only.|
 |**msoLineDashDot**|5|Line is a dash-dot pattern.|

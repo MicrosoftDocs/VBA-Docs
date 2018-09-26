@@ -17,7 +17,7 @@ Specifies how many replacements are to be made: one, all, or none.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbReplaceScopeAll**|2|All need to be replaced.|
 | **pbReplaceScopeNone**|0|None need to be replaced.|

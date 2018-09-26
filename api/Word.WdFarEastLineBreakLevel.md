@@ -14,7 +14,7 @@ Specifies the line break control level for the specified document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFarEastLineBreakLevelCustom**|2|Custom line break control.|
 | **wdFarEastLineBreakLevelNormal**|0|Normal line break control.|

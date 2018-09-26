@@ -14,7 +14,7 @@ Specifies how pending changes should be handled.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDoNotSaveChanges**|0|Do not save pending changes.|
 | **wdPromptToSaveChanges**|-2|Prompt the user to save pending changes.|

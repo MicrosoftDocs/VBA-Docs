@@ -14,7 +14,7 @@ Specifies the type of shadow displayed with a shape.The  **msoShadowType** const
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShadow1**|1|First shadow type.|
 |**msoShadow10**|10|Tenth shadow type.|

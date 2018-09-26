@@ -14,7 +14,7 @@ Contains constants that specify actions to perform on the resource pool.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjOpenAllSharers**|4|Opens all sharers into a consolidated project.|
 |**pjOpenSharer**|3|Opens the specified sharer.|

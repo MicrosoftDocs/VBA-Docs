@@ -17,7 +17,7 @@ Indicates where newly inserted pictures appear in relation to the specified fram
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbVerticalLockingBottom**|2|New pictures are inserted along the bottom edge of the frame.|
 | **pbVerticalLockingNone**|0|New pictures are inserted in the center between the top and bottom edges of the frame.|

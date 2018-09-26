@@ -14,7 +14,7 @@ Specifies the direction to flow the text in a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLeftToRight**|0|Left to right.|
 | **wdRightToLeft**|1|Right to left.|

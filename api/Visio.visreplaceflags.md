@@ -15,7 +15,7 @@ Shape-replacement flags sent to the [Shape.ReplaceShape](Visio.shape.replaceshap
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 | **visReplaceShapeDefault**| **0**|Use the behavior specified by the ShapeSheet cells ReplaceLockText, ReplaceLockShapeData, and ReplaceLockFormat, all in the Change Shape Behavior section.|

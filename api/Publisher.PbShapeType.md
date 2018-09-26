@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbAutoShape**|1|AutoShape|
 | **pbCallout**|2|Callout|

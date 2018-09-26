@@ -14,7 +14,7 @@ Specifies the mode for the Brazilian or European Portuguese spellers. Read/write
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPortugueseBoth**|3|Use both the pre-reform and post-reform spelling rules.|
 | **wdPortuguesePostReform**|2|Use the post-reform spelling rules.|

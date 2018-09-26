@@ -1,5 +1,5 @@
 ---
-title: AcWebBrowserState Enumeration (Access)
+title: AcWebBrowserState enumeration (Access)
 keywords: vbaac10.chm14344
 f1_keywords:
 - vbaac10.chm14344
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcWebBrowserState Enumeration (Access)
+# AcWebBrowserState enumeration (Access)
 
 Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to determine the state of the Web Browser control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acComplete**|3|The Web Browser control has finished loading the new document and all its contents.|
 |**acInteractive**|3|The Web Browser control has loaded enough of the document to allow limited user interaction, such as clicking hyperlinks that have been displayed.|

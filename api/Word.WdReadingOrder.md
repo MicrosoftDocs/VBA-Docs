@@ -14,7 +14,7 @@ Specifies the text flow and reading order of the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdReadingOrderLtr**|1|Left-to-right reading order.|
 | **wdReadingOrderRtl**|0|Right-to-left reading order.|

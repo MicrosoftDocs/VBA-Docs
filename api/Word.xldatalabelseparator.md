@@ -12,7 +12,7 @@ Specifies the separator used with data labels.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDataLabelSeparatorDefault**|1|Word selects the separator.|
 

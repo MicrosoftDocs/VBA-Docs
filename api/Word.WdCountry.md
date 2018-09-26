@@ -14,7 +14,7 @@ Specifies the country/region setting of the current system.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdArgentina**|54|Argentina|
 | **wdBrazil**|55|Brazil|

@@ -1,5 +1,5 @@
 ---
-title: AcBrowseToObjectType Enumeration (Access)
+title: AcBrowseToObjectType enumeration (Access)
 keywords: vbaac10.chm14598
 f1_keywords:
 - vbaac10.chm14598
@@ -11,13 +11,11 @@ ms.date: 06/08/2017
 ---
 
 
-# AcBrowseToObjectType Enumeration (Access)
+# AcBrowseToObjectType enumeration (Access)
 
 Specifies the type of object to browse to.
 
-
-
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBrowseToForm**|2|Open a form.|
 |**acBrowseToReport**|3|Open a report.|

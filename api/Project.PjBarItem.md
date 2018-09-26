@@ -17,7 +17,7 @@ Contains constants that specify a bar item type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBarCritical**|1|Critical bar item.|
 |**pjBarExternalTask**|8|External task bar item.|

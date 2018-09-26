@@ -1,5 +1,5 @@
 ---
-title: AcPrintRange Enumeration (Access)
+title: AcPrintRange enumeration (Access)
 keywords: vbaac10.chm10024
 f1_keywords:
 - vbaac10.chm10024
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintRange Enumeration (Access)
+# AcPrintRange enumeration (Access)
 
 Used with the  **PrintOut** method to specify the range to print.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPages**|2|A specific range of pages will be printed. Use the PageFrom and PageTo arguments to specify the range of pages to print.|
 |**acPrintAll**|0|Prints all of the object.|

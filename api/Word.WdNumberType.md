@@ -14,7 +14,7 @@ Specifies the type of number.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNumberAllNumbers**|3|Default value for all other cases.|
 | **wdNumberListNum**|2|Default value for LISTNUM fields.|

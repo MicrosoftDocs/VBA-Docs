@@ -14,7 +14,7 @@ Specifies the types of format filters.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **FilterBottom**|0|Bottom.|
 | **FilterBottomPercent**|2|Bottom Percent.|

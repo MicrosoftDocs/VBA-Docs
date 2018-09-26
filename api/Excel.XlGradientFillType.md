@@ -14,7 +14,7 @@ Specifies the type of  **gradient fill** .
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **GradientFillLinear**|0|Gradient is filled in a straight line.|
 | **GradientFillPath**|1|Gradient is filled in a non-linear or curved path.|

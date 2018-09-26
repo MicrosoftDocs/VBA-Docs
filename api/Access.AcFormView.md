@@ -1,5 +1,5 @@
 ---
-title: AcFormView Enumeration (Access)
+title: AcFormView enumeration (Access)
 keywords: vbaac10.chm10018
 f1_keywords:
 - vbaac10.chm10018
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFormView Enumeration (Access)
+# AcFormView enumeration (Access)
 
 Specifies the view when opeing a form.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDesign**|1|The form opens in Design view.|
 |**acFormDS**|3|The form opens in Datasheet view.|

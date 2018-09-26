@@ -1,5 +1,5 @@
 ---
-title: AcImeMode Enumeration (Access)
+title: AcImeMode enumeration (Access)
 keywords: vbaac10.chm10033
 f1_keywords:
 - vbaac10.chm10033
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcImeMode Enumeration (Access)
+# AcImeMode enumeration (Access)
 
 Specifies the default startup mode for the Japanese Input Method Editor (IME). 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acImeModeAlpha**|8|Activates the IME in half-width Latin mode.|
 |**acImeModeAlphaFull**|7|Activates the IME in full-width Latin mode.|

@@ -14,7 +14,7 @@ Specifies a range of cells to be deleted from a table in a delete cells action o
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDeleteCellsEntireColumn**|3|Delete the entire column of cells from the table.|
 | **wdDeleteCellsEntireRow**|2|Delete the entire row of cells from the table.|

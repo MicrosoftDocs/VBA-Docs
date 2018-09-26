@@ -14,7 +14,7 @@ Contains constants that specify the size of a row or a column.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjSizeBestFit**|0|Best fit.|
 |**pjSizeFixed**|1|Fixed.|

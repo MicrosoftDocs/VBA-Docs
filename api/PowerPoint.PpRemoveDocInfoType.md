@@ -14,7 +14,7 @@ Constants that specify the type of document information, passed to the  **Remove
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppRDIAll**|99|Remove all document information.|
 |**ppRDIComments**|1|Remove comments.|

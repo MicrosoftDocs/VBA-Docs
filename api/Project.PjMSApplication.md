@@ -14,7 +14,7 @@ Contains constants that specify the Microsoft application to activate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMicrosoftAccess**|3|Microsoft Access.|
 |**pjMicrosoftExcel**|5|Microsoft Excel.|

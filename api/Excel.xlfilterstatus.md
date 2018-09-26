@@ -15,7 +15,7 @@ Used to return a status from filter functions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFilterStatusOK**|0|Signifies OK or successful.|
 | **xlFilterStatusDateWrongOrder**|1|SetFilterDateRange(?): StartDate > EndDate|

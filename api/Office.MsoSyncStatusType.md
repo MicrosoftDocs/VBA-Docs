@@ -15,7 +15,7 @@ Specifies the status of the synchronization of the local copy of the active docu
 Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncStatusConflict**|4|Both the local and the server copies have changes.|
 |**msoSyncStatusError**|6|An error occurred. Use  **ErrorType** property of **Sync** object to determine exact error.|

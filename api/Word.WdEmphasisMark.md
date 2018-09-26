@@ -14,7 +14,7 @@ Specifies the type of emphasis mark to use for a character or designated charact
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEmphasisMarkNone**|0|No emphasis mark.|
 | **wdEmphasisMarkOverComma**|2|A comma.|

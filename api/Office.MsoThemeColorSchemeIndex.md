@@ -14,7 +14,7 @@ Indicates the color scheme for an Office theme.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoThemeAccent1**|5|Specifies color scheme Accent 1.|
 |**msoThemeAccent2**|6|Specifies color scheme Accent 2.|

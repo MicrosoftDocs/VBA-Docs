@@ -17,7 +17,7 @@ Specifies the permission service used when sending an Information Rights Managem
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olPassport**|2|Microsoft Passport Network permissions will be used.|
 | **olUnknown**|0|Permission service is unknown.|

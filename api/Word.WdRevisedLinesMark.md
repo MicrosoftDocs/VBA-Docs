@@ -14,7 +14,7 @@ Specifies where revisions are displayed when change tracking is enabled.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRevisedLinesMarkLeftBorder**|1|In the left border.|
 | **wdRevisedLinesMarkNone**|0|Not displayed.|

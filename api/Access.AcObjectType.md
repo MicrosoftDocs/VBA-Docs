@@ -1,5 +1,5 @@
 ---
-title: AcObjectType Enumeration (Access)
+title: AcObjectType enumeration (Access)
 keywords: vbaac10.chm10015
 f1_keywords:
 - vbaac10.chm10015
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcObjectType Enumeration (Access)
+# AcObjectType enumeration (Access)
 
 Specifies the type of object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDatabaseProperties**|11|Database property|
 |**acDefault**|-1||

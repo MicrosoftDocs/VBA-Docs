@@ -1,5 +1,5 @@
 ---
-title: AcPrintQuality Enumeration (Access)
+title: AcPrintQuality enumeration (Access)
 keywords: vbaac10.chm10023
 f1_keywords:
 - vbaac10.chm10023
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintQuality Enumeration (Access)
+# AcPrintQuality enumeration (Access)
 
 Used with the  **PrintOut** method to specify the print quality of a particular print job.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDraft**|3|Draft quality|
 |**acHigh**|0|(Default) High quality|

@@ -14,7 +14,7 @@ Specifies which part of the shape retains its position when the shape is scaled.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoScaleFromBottomRight**|2|Shape's lower right corner retains its position.|
 |**msoScaleFromMiddle**|1|Shape's midpoint retains its position.|

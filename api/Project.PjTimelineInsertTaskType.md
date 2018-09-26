@@ -14,7 +14,7 @@ Contains constants that specify the type of task to insert on the Timeline view 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTimelineInsertCalloutTask**|2|Insert a callout task, where the task information is shown in a callout box attached to the timeline.|
 |**pjTimelineInsertMilestone**|1|Insert a milestone (a task with 0 days duration).|

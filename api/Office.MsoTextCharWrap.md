@@ -14,7 +14,7 @@ Indicates the type of text wrap.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCharWrapMixed**|-2|Specifies a mixed text wrap.|
 |**msoCustomCharWrap**|3|Specifies a custom text wrap scheme.|

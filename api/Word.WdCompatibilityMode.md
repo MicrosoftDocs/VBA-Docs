@@ -14,7 +14,7 @@ Specifies the compatibility mode that Word uses when opening a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCurrent**|65535|Compatibility mode equivalent to the latest version of Word. |
 | **wdWord2003**|11|Word is put into a mode that is most compatible with Word 2003. Features new to Word are disabled in this mode.|

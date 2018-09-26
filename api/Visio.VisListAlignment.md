@@ -17,7 +17,7 @@ Specifies constants that define different ways to align shapes; passed to and re
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visListAlignLeftOrTop**|0|Left-align or top-align shapes.|
 | **visListAlignCenterOrMiddle**|1|Center-align or middle-align shapes.|

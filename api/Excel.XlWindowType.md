@@ -14,7 +14,7 @@ Specifies how the chart is displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlChartAsWindow**|5|The chart will open in a new window.|
 | **xlChartInPlace**|4|The chart will be displayed on the current worksheet.|

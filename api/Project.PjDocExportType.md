@@ -14,7 +14,7 @@ Contains constants that specify the type of document export.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjPDF**|0|Export to a PDF document.|
 |**pjXPS**|1|Export to an XPS document.|

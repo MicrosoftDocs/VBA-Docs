@@ -17,7 +17,7 @@ Specifies constants that define particular sets of instruction to apply to a del
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visDeleteNormal**|0|Match the deletion behavior in the user interface.|
 | **visDeleteHealConnectors**|1|Delete connectors attached to deleted shapes.|

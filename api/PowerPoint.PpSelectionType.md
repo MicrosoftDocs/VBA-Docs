@@ -14,7 +14,7 @@ Constants that specify the type of selection, returned by the  **Type** property
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSelectionNone**|0|None|
 |**ppSelectionShapes**|2|Shapes|

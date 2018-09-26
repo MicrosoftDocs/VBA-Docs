@@ -17,7 +17,7 @@ The wizard to use to create the new publication.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWizardAdvertisements**|12|Creates advertisements|
 | **pbWizardAirplanes**|23|Creates airplanes|

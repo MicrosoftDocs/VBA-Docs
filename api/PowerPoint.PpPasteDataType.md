@@ -14,7 +14,7 @@ Specifies a format for the Clipboard contents when they are inserted into the do
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPasteBitmap**|1|Paste bitmap.|
 |**ppPasteDefault**|0|Paste the default content of the clipboard.|

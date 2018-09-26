@@ -17,7 +17,7 @@ Indicates the line style used to display grid lines for  **[TableView](Outlook.T
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olGridLineDashes**|3|Dashed lines are used to draw the grid. |
 | **olGridLineLargeDots**|2|Lines using large dots are used to draw the grid.|

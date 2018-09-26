@@ -14,7 +14,7 @@ Specifies the way the case of the specified text will be changed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppCaseLower**|2|Change to lowercase.|
 |**ppCaseSentence**|1|Change to lowercase.|

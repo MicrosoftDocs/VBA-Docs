@@ -15,7 +15,7 @@ Constants that represent the extent of markup visible in the document, returned 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRevisionsMarkupAll**|2|Displays the final document with all markup visible.|
 | **wdRevisionsMarkupNone**|0|Displays the final document with no markup visible.|

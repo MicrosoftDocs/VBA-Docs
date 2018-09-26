@@ -14,7 +14,7 @@ Specifies the size of the angle between the callout line and the side of the cal
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutAngle30**|2|30° angle.|
 |**msoCalloutAngle45**|3|45° angle.|

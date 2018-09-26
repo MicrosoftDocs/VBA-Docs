@@ -14,7 +14,7 @@ Specifies how revisions are displayed when change tracking is enabled.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRevisedPropertiesMarkBold**|1|In bold.|
 | **wdRevisedPropertiesMarkColorOnly**|5|In the designated color.|

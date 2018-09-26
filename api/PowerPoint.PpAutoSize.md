@@ -14,7 +14,7 @@ Specifies whether the size of the specified shape is changed automatically to fi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAutoSizeMixed**|-2|Mixed size.|
 |**ppAutoSizeNone**|0|Does not change size.|

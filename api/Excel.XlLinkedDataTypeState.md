@@ -12,7 +12,7 @@ ms.date: 09/12/2018
 Indicates the state of cells that may contain Linked data types such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877). These are the possible values of the [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md) property.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLinkedDataTypeStateNone**|0|The cell does not contain any Linked data types.|
 | **xlLinkedDataTypeStateValidLinkedData**|1|The cell contains a Linked data type.|

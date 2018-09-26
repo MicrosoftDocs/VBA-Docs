@@ -14,7 +14,7 @@ Specifies the item to print.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPrintAutoTextEntries**|4|Autotext entries in the current document.|
 | **wdPrintComments**|2|Comments in the current document.|

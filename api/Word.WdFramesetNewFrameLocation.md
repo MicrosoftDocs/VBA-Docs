@@ -14,7 +14,7 @@ Specifies the position of a new frame in relation to an existing frame.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFramesetNewFrameAbove**|0|Above existing frame.|
 | **wdFramesetNewFrameBelow**|1|Below existing frame.|

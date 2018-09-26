@@ -14,7 +14,7 @@ Specifies whether and how to display chart elements.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoElementChartFloorNone**|1200|Do not display chart floor.|
 |**msoElementChartFloorShow**|1201|Display chart floor.|

@@ -1,5 +1,5 @@
 ---
-title: AcFilterType Enumeration (Access)
+title: AcFilterType enumeration (Access)
 keywords: vbaac10.chm10031
 f1_keywords:
 - vbaac10.chm10031
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFilterType Enumeration (Access)
+# AcFilterType enumeration (Access)
 
 Not supported in Access.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFilterNormal**|0||
 |**acServerFilter**|1||

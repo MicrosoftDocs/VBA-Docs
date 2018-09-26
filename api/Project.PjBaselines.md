@@ -14,7 +14,7 @@ Contains constants that specify a baseline.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBaseline**|0|Baseline.|
 |**pjBaseline1**|1|Baseline1.|

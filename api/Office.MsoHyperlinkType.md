@@ -14,7 +14,7 @@ Specifies the type of hyperlink.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoHyperlinkInlineShape**|2|Hyperlink applies to an inline shape. Used only with Microsoft Word.|
 |**msoHyperlinkRange**|0|Hyperlink applies to a  **Range** object.|

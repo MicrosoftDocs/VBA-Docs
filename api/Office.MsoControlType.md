@@ -14,7 +14,7 @@ Specifies the type of the command bar control. Used with the  **Add** method of 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoControlActiveX**|22|ActiveX control.|
 |**msoControlAutoCompleteCombo**|26|Combo box in which the first matching choice is automatically filled in as the user types. Cannot be created through the object model.|

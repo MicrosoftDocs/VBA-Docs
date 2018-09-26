@@ -17,7 +17,7 @@ The destination of the mail merge or catalog merge results.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbMergeToExistingPublication**|3| **Default** Merge to an exisiting presentation.|
 | **pbMergeToNewPublication**|2|Merge to a new presentation.|

@@ -14,7 +14,7 @@ Specifies whether the  **LeftRelative** or **TopRelative** property for a **[Sha
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdShapePositionRelativeNone**|-999999|Specifies that the  **LeftRelative** or **TopRelative** property is not currently valid, so the shape is positioned according to the value specified in the **Left** or **Top** property, respectively.|
 

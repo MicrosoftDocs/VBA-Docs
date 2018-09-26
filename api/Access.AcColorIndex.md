@@ -1,5 +1,5 @@
 ---
-title: AcColorIndex Enumeration (Access)
+title: AcColorIndex enumeration (Access)
 keywords: vbaac10.chm10041
 f1_keywords:
 - vbaac10.chm10041
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcColorIndex Enumeration (Access)
+# AcColorIndex enumeration (Access)
 
 Specifies the color to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acColorIndexAqua**|14|Aqua color.|
 |**acColorIndexBlack**|0|Black color.|

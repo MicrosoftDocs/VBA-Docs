@@ -14,7 +14,7 @@ Specifies the character spacing adjustment for a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdJustificationModeCompress**|1|Compress.|
 | **wdJustificationModeCompressKana**|2|Compress, using rules of the kana syllabaries, Hiragana and Katakana.|

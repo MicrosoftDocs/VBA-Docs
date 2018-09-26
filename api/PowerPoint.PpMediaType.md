@@ -14,7 +14,7 @@ Indicates the OLE media type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppMediaTypeMixed**|-2|Mixed|
 |**ppMediaTypeMovie**|3|Movie|

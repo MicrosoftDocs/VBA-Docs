@@ -17,7 +17,7 @@ Specifies a document synchronization error.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncErrorCouldNotCompare**|13|Source and destination files could not be compared.|
 |**msoSyncErrorCouldNotConnect**|2|Could not connect.|

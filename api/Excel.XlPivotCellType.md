@@ -14,7 +14,7 @@ Specifies the  **PivotTable** entity to which the cell corresponds.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPivotCellBlankCell**|9|A structural blank cell in the PivotTable.|
 | **xlPivotCellCustomSubtotal**|7|A cell in the row or column area that is a custom subtotal.|

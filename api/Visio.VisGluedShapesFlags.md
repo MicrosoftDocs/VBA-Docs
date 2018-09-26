@@ -17,7 +17,7 @@ Specifies constants that identify which shapes to return, based on the dimension
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visGluedShapesAll1D**|0|Return all 1-D shapes that are glued to this shape.|
 | **visGluedShapesIncoming1D**|1|Return the 1-D shapes whose end points are glued to this shape.|

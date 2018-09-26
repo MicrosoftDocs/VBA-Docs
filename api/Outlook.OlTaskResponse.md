@@ -17,7 +17,7 @@ Indicates the response to a task request.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTaskAccept**|2|Task accepted.|
 | **olTaskAssign**|1|Task reassigned.|

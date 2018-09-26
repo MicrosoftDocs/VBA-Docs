@@ -15,7 +15,7 @@ Specifies the media mobilization profile for a media asset.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppResampleMediaProfileCustom**|1|Custom profile|
 |**ppResampleMediaProfileSmall**|2|Small profile|

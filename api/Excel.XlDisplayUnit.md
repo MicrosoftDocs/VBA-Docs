@@ -14,7 +14,7 @@ Specifies the display unit label for an axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlHundredMillions**|-8|Hundreds of millions.|
 | **xlHundreds**|-2|Hundreds.|

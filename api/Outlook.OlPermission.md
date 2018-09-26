@@ -17,7 +17,7 @@ Indicates the permission restrictions on an  **Item**.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDoNotForward**|1| **Item** cannot be forwarded.|
 | **olPermissionTemplate**|2|Outlook will use an Information Rights Management (IRM) template to determine the access and usage permissions for the item. See  **[MailItem.PermissionService](Outlook.MailItem.PermissionService.md)** and **[SharingItem.PermissionService](Outlook.SharingItem.PermissionService.md)** properties.|

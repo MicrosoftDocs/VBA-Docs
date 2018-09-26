@@ -17,7 +17,7 @@ Specifies the alignment of controls in the vertical direction.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olVerticalLayoutAlignBottom**|2|Align controls vertically by the bottom edge of each control.|
 | **olVerticalLayoutAlignGrow**|3|Resize control vertically with the form.|

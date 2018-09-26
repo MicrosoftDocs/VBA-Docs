@@ -18,7 +18,7 @@ Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](Vi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | ** visKeyComposite**|3|Use multiple columns as primary key columns.|
 | **visKeyRowOrder**|1|Use row order as the primary key.|

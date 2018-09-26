@@ -14,7 +14,7 @@ Specifies the style of the arrowhead at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadDiamond**|5|Diamond-shaped.|
 |**msoArrowheadNone**|1|No arrowhead.|

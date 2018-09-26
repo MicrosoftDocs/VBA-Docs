@@ -17,7 +17,7 @@ Specifies the type of an  **[Account](Outlook.Account.md)** .
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olEas**|4|An account that uses Exchange ActiveSync (EAS) on mobile devices.|
 | **olExchange**|0|An Exchange account.|

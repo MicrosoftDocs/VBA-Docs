@@ -17,7 +17,7 @@ Represents the type of the specified publication.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTypePrint**|1|Print publication|
 | **pbTypeWeb**|2|Web publication|

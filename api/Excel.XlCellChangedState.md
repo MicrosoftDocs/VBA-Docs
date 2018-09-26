@@ -14,7 +14,7 @@ Specifies whether a PivotTable value cell has been edited or recalculated since 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCellChangeApplied**|3|The value in the cell has been edited or recalculated, and that change has been applied to the data source. (Applies only PivotTable reports with OLAP data sources)|
 | **xlCellChanged**|2|The value in the cell has been edited or recalculated.|

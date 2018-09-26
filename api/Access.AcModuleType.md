@@ -1,5 +1,5 @@
 ---
-title: AcModuleType Enumeration (Access)
+title: AcModuleType enumeration (Access)
 keywords: vbaac10.chm10007
 f1_keywords:
 - vbaac10.chm10007
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcModuleType Enumeration (Access)
+# AcModuleType enumeration (Access)
 
 Returns the type of the specified Visual Basic module.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acClassModule**|1|The specified module is a class module.|
 |**acStandardModule**|0|The specified module is a standard module.|

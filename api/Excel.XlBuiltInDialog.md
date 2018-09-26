@@ -14,7 +14,7 @@ Specifies which dialog box to display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDialogActivate**|103| **Activate** dialog box|
 | **xlDialogActiveCellFont**|476| **Active Cell Font** dialog box|

@@ -14,7 +14,7 @@ Specifies the delimiter to use to specify text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTextQualifierDoubleQuote**|1|Double quotation mark (").|
 | **xlTextQualifierNone**|-4142|No delimiter.|

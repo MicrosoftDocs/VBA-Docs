@@ -14,7 +14,7 @@ Specifies how to wrap text around a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWrapInline**|7|Places shapes in line with text.|
 | **wdWrapNone**|3|Places shape in front of text. See also  **wdWrapFront** .|

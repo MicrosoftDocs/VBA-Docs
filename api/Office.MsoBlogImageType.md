@@ -14,7 +14,7 @@ Specifies blog image types.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlogImageTypeGIF**|2|GIF image.|
 |**msoBlogImageTypeJPEG**|1|JPEG image.|

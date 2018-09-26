@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies contants that define whether to populate the legend; passed to the DropLegend method.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLegendPopulate**|0|Drop the legend and populate it.|
 | **visLegendNoContents**|1|Drop the legend and do not populate it.|

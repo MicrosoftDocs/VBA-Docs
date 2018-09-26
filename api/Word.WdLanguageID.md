@@ -14,7 +14,7 @@ Specifies the language to use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAfrikaans**|1078|African language.|
 | **wdAlbanian**|1052|Albanian language.|

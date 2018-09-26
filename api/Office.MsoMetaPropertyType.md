@@ -14,7 +14,7 @@ Specifies the metadata property type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMetaPropertyTypeBoolean**|1|Represents a Boolean value.|
 |**msoMetaPropertyTypeCalculated**|3|Represents a calculated value.|

@@ -17,7 +17,7 @@ Indicates the status of an item after it is received by a remote user.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMarkedForCopy**|3| **Item** is marked to be copied.|
 | **olMarkedForDelete**|4| **Item** is marked for deletion.|

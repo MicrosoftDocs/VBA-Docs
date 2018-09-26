@@ -27,7 +27,7 @@ The  **Capabilities** property can return the following[MSOBroadcastCapabilities
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **MSOBroadcastCapFileSizeLimited**|1|File size limited|
 | **MSOBroadcastCapSupportsMeetingNotes**|2|Supports meeting notes|

@@ -47,7 +47,7 @@ If  _TargetDocument_ is null, the custom UI is defined at the level of the appli
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRxModeNone**|0|Display the custom UI when no documents are open.|
 | **visRxModeDrawing**|1|Display the custom UI in Drawing mode.|

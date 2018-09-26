@@ -14,7 +14,7 @@ Not used with PowerPoint.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimEffectAfterFreeze**|1|After freeze.|
 |**msoAnimEffectAfterHold**|3|After hold.|

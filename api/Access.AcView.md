@@ -1,5 +1,5 @@
 ---
-title: AcView Enumeration (Access)
+title: AcView enumeration (Access)
 keywords: vbaac10.chm10029
 f1_keywords:
 - vbaac10.chm10029
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcView Enumeration (Access)
+# AcView enumeration (Access)
 
 Specifies an object's view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acViewDesign**|1|Design view|
 |**acViewLayout**|6|Layout view|

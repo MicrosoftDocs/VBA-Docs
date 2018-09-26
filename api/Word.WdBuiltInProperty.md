@@ -14,7 +14,7 @@ Specifies a built-in document property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPropertyAppName**|9|Name of application.|
 | **wdPropertyAuthor**|3|Author.|

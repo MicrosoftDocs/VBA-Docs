@@ -1,5 +1,5 @@
 ---
-title: AcPrintOrientation Enumeration (Access)
+title: AcPrintOrientation enumeration (Access)
 keywords: vbaac10.chm13244
 f1_keywords:
 - vbaac10.chm13244
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintOrientation Enumeration (Access)
+# AcPrintOrientation enumeration (Access)
 
 Used with the  **Orientation** property to specify a printer's print orientation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRORLandscape**|2|Landscape orientation|
 |**acPRORPortrait**|1|Portrait orientation|

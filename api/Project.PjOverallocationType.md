@@ -14,7 +14,7 @@ Contains constants that specify the type of resource overallocation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjOverallocationTypeAboveMaxUnits**|1|The resource allocation is above the maximum resource units.|
 |**pjOverallocationTypeNone**|0|There is no overallocation.|

@@ -14,7 +14,7 @@ Contains constants that specify the type of driver that affects task recalculati
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDriverActuals**|1|The task driver is actual work.|
 |**pjDriverCalendar**|32|The task driver is a resource calendar.|

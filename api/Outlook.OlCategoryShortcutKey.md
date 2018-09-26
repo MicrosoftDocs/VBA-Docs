@@ -17,7 +17,7 @@ Identifies the shortcut key specified for the  **[ShortcutKey](Outlook.Category.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCategoryShortcutKeyCtrlF10**|10| **CTRL+F10**|
 | **olCategoryShortcutKeyCtrlF11**|11| **CTRL+F11**|

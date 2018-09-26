@@ -17,7 +17,7 @@ Indicates the task recipient type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFinalStatus**|3|Indicates that the recipient will receive completion reports for the task.|
 | **olUpdate**|2|Indicates that the recipient will receive status updates for the task.|

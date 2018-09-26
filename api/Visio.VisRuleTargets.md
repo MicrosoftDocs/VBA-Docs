@@ -17,7 +17,7 @@ Specifies contants that define the target of the validation rule; passed to and 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRuleTargetDocument**|2|The rule applies to the document itself.|
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|

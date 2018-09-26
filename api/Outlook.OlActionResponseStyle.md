@@ -17,7 +17,7 @@ Specifies the response style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olOpen**|0|Indicates that a form will be opened.|
 | **olPrompt**|2|Indicates that the user will be prompted to open or send the form.|

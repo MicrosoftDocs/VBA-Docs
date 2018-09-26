@@ -14,7 +14,7 @@ Specifies how to interpret the height or width of a specified frame on a frames 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFramesetSizeTypeFixed**|1|Microsoft Word interprets the height or width of the specified frame as a fixed value (in points).|
 | **wdFramesetSizeTypePercent**|0|Word interprets the height or width of the specified frame as a percentage of the screen height or width.|

@@ -15,7 +15,7 @@ Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlSeriesNameLevelAll**|-1|Sets series names to all series name levels within range on the chart. The default.|
 |**xlSeriesNameLevelCustom**|-2|Indicates literal data in the series names.|

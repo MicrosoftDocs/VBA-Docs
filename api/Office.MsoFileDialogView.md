@@ -14,7 +14,7 @@ Specifies the view presented to the user in a file dialog box.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileDialogViewDetails**|2|Files displayed in a list with detail information.|
 |**msoFileDialogViewLargeIcons**|6|Files displayed as large icons.|

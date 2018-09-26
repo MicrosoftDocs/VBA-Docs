@@ -14,7 +14,7 @@ Specifies the vertical alignment of text in one or more cells of a table.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCellAlignVerticalBottom**|3|Text is aligned to the bottom border of the cell.|
 | **wdCellAlignVerticalCenter**|1|Text is aligned to the center of the cell.|

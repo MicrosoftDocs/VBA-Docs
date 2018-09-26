@@ -14,7 +14,7 @@ Contains constants that specify shading in the Calendar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBaseNondefaultWorking**|2|In a base calendar, working days for which the working hours differ from the default working hours.|
 |**pjBaseNonworking**|1|Nonworking days in a base calendar.|

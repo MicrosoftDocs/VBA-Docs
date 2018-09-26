@@ -14,7 +14,7 @@ Specifies the way Word adjusts the table when the left indent is changed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAdjustFirstColumn**|2|Adjusts the left edge of the first column only, preserving the positions of the other columns and the right edge of the table.|
 | **wdAdjustNone**|0|Adjusts the left edge of row or rows, preserving the width of all columns by shifting them to the left or right. This is the default value.|

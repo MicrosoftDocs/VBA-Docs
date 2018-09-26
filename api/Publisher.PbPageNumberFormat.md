@@ -17,7 +17,7 @@ Reperesents the formatting of the page numbering.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPageNumberFormatAiueo**|12|Aiueo|
 | **pbPageNumberFormatArabic**|0|Arabic|

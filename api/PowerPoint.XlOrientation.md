@@ -14,7 +14,7 @@ Specifies the text orientation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDownward**|-4170|Text runs downward.|
 |**xlHorizontal**|-4128|Text runs horizontally.|

@@ -14,7 +14,7 @@ Contains constants that specify the type of links between tasks.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFinishToFinish**|0|Link tasks from finish to finish.|
 |**pjFinishToStart**|1|Link tasks from finish to start.|

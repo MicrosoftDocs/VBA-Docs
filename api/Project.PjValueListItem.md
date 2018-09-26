@@ -14,7 +14,7 @@ Contains constants that specify the type of information in the list item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjValueListDescription**|1|Description.|
 |**pjValueListPhonetics**|2|Phonetics.|

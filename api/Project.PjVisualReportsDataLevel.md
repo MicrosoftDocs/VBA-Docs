@@ -14,7 +14,7 @@ Contains constants that specify the time level of data to use in Visual Reports.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLevelAutomatic**|5|Automatically determine the time level based on the data time range.|
 |**pjLevelDays**|4|The time level is days.|

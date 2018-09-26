@@ -14,7 +14,7 @@ Specifies the relative height of a shape using the value specified in the  **Hei
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRelativeVerticalSizeBottomMarginArea**|3|Height is relative to the size of the bottom margin.|
 | **wdRelativeVerticalSizeInnerMarginArea**|4|Height is relative to the size of the inside margin?to the size of the top margin for odd pages, and to the size of the bottom margin for even pages.|

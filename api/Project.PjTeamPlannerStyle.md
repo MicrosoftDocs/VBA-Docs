@@ -14,7 +14,7 @@ Contains constants that specify the Team Planner style to edit in Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTPActualWork**|1|Set the  **Actual Work** style in the Team Planner.|
 |**pjTPLateTask**|3|Set the  ** Late Task** style in the Team Planner.|

@@ -17,7 +17,7 @@ Specifies the type of items in a folder.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olHiddenItems**|1|Only the hidden items in the folder.|
 | **olUserItems**|0|Only the non-hidden user items in the folder.|

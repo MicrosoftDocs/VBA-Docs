@@ -14,7 +14,7 @@ Specifies paragraph alignment for a text block.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlignCenter**|1|Specifies that the center of each line of text is aligned to the midpoint of the right and left text box margins, and the left and right edges of each line are ragged.|
 |**msoAlignDistribute**|4|Specifies that the first and last characters of each line (except the last) are aligned to the left and right margins, and lines are filled by adding or subtracting the same amount from each character. The last line of the paragraph is aligned to the left margin if text direction is left-to-right, or to the right margin if text direction is right-to-left.|

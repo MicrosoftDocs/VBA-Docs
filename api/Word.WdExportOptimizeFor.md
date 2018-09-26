@@ -14,7 +14,7 @@ Specifies the resolution and quality of the exported document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdExportOptimizeForOnScreen**|1|Export for screen, which is a lower quality and results in a smaller file size.|
 | **wdExportOptimizeForPrint**|0|Export for print, which is higher quailty and results in a larger file size.|

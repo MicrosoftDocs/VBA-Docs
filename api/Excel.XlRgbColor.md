@@ -14,7 +14,7 @@ Specifies the RGB color.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **rgbAliceBlue**|16775408|Alice Blue|
 | **rgbAntiqueWhite**|14150650|Antique White|

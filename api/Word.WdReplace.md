@@ -14,7 +14,7 @@ Specifies the number of replacements to be made when find and replace is used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdReplaceAll**|2|Replace all occurrences.|
 | **wdReplaceNone**|0|Replace no occurrences.|

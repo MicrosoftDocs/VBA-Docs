@@ -15,7 +15,7 @@ Represents the type of catalog merge field.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCatalogMergeFieldTypeText**|0|Text field.|
 | **pbCatalogMergeFieldTypePicture**|1|Picture field.|

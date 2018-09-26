@@ -14,7 +14,7 @@ Specifies the color transformation applied to a picture.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPictureAutomatic**|1|Default color transformation.|
 |**msoPictureBlackAndWhite**|3|Black-and-white transformation.|

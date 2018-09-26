@@ -14,7 +14,7 @@ Specifies the sort type to apply when sorting a column.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSortFieldAlphanumeric**|0|Alphanumeric order.|
 | **wdSortFieldDate**|2|Date order.|

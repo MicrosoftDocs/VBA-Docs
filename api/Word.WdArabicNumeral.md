@@ -14,7 +14,7 @@ Specifies the numeral style for an Arabic-language document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNumeralArabic**|0|Arabic shape is used for numerals.|
 | **wdNumeralContext**|2|Numeral shape depends on text surrounding it.|

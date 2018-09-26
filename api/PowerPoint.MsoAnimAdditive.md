@@ -14,7 +14,7 @@ Specifies whether the current animation behavior is combined with other running 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimAdditiveAddBase**|1|Uses the animation behavior of the base animations.|
 |**msoAnimAdditiveAddSum**|2|Adds together the animation behavior of multiple animations.|

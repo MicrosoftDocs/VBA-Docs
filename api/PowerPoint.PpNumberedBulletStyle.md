@@ -14,7 +14,7 @@ Specifies the bullet style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppBulletAlphaLCParenBoth**|8|Lowercase alphabetical characters with both parentheses.|
 |**ppBulletAlphaLCParenRight**|9|Lowercase alphabetical characters with closing parenthesis.|

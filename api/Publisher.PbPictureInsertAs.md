@@ -17,7 +17,7 @@ The manner in which you want the picture file inserted into the document: linked
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPictureInsertAsEmbedded**|1|Embed all images.|
 | **pbPictureInsertAsLinked**|2|Images can either be linked externally or internally.|

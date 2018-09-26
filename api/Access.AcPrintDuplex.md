@@ -1,5 +1,5 @@
 ---
-title: AcPrintDuplex Enumeration (Access)
+title: AcPrintDuplex enumeration (Access)
 keywords: vbaac10.chm13243
 f1_keywords:
 - vbaac10.chm13243
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcPrintDuplex Enumeration (Access)
+# AcPrintDuplex enumeration (Access)
 
 Used with the  **Duplex** property to specify how the printer handles duplex printing.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRDPHorizontal**|2|Double-sided printing using a horizontal page turn.|
 |**acPRDPSimplex**|1|Single-sided printing with the current orientation setting.|

@@ -14,7 +14,7 @@ Specifies a statistic to return from a selection or item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStatisticCharacters**|3|Count of characters.|
 | **wdStatisticCharactersWithSpaces**|5|Count of characters including spaces.|

@@ -14,7 +14,7 @@ Contains constants that specify the placement of a symbol.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAfter**|1|After.|
 |**pjAfterWithSpace**|3|After with a space.|

@@ -17,7 +17,7 @@ Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be display
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olShowNone**|0|No edit box will be displayed.|
 | **olShowTo**|1|Only an edit box for  **To** recipients will be displayed.|

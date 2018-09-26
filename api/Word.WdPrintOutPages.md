@@ -14,7 +14,7 @@ Specifies the type of pages to print.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPrintAllPages**|0|All pages.|
 | **wdPrintEvenPagesOnly**|2|Even-numbered pages only.|

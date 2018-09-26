@@ -15,7 +15,7 @@ Auto-connect direction constants passed to the  **Shape.AutoConnect** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoConnectDirDown**|2|Place shape below.|
 | **visAutoConnectDirLeft**|3|Place shape to the left.|

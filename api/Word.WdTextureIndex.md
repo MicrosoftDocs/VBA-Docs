@@ -14,7 +14,7 @@ Specifies the shading texture to use for a selected item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTexture10Percent**|100|10 percent shading.|
 | **wdTexture12Pt5Percent**|125|12.5 percent shading.|

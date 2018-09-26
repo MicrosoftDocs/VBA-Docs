@@ -14,7 +14,7 @@ Constants that specify the type of animation filter effect, passed to and return
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimFilterEffectTypeBarn**|1|Barn|
 |**msoAnimFilterEffectTypeBlinds**|2|Blinds|

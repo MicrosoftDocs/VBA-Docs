@@ -14,7 +14,7 @@ Specifies the state of the command underlines in Microsoft Excel for the Macinto
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCommandUnderlinesAutomatic**|-4105|Excel controls the display of command underlines.|
 | **xlCommandUnderlinesOff**|-4146|Command underlines are not displayed.|

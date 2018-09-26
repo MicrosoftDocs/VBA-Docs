@@ -17,7 +17,7 @@ Specifies the type of Web form control to add.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWebControlCheckBox**|100|Adds a check box.|
 | **pbWebControlCommandButton**|101|Adds a command button.|

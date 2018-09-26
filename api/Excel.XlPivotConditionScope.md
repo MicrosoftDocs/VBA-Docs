@@ -14,7 +14,7 @@ This enumeration specifies the conditional formatting applied for filtering valu
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDataFieldScope**|2|Based on the data in the specified fields.|
 | **xlFieldsScope**|1|Based on the specified fields.|

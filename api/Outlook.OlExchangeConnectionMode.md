@@ -17,7 +17,7 @@ Specifies whether the account is connected to an Exchange server and if so, the 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCachedConnectedDrizzle**|600|The account is using cached Exchange mode such that headers are downloaded first, followed by the bodies and attachments of full items.|
 | **olCachedConnectedFull**|700|The account is using cached Exchange mode on a Local Area Network or a fast connection with the Exchange server. The user can also select this state manually, disabling auto-detect logic and always downloading full items regardless of connection speed.|

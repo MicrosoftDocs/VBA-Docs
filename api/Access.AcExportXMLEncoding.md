@@ -1,5 +1,5 @@
 ---
-title: AcExportXMLEncoding Enumeration (Access)
+title: AcExportXMLEncoding enumeration (Access)
 keywords: vbaac10.chm13241
 f1_keywords:
 - vbaac10.chm13241
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcExportXMLEncoding Enumeration (Access)
+# AcExportXMLEncoding enumeration (Access)
 
 Use with the  **ExportXML** method to specify the text encoding to use for exporting XML data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acUTF16**|1|UTF16 encoding.|
 |**acUTF8**|0|(Default) UTF8 encoding.|

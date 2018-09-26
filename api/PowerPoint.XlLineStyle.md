@@ -14,7 +14,7 @@ Specifies the line style for the border.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlContinuous**|1|A continuous line.|
 |**xlDash**|-4115|A dashed line.|

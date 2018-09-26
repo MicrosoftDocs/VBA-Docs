@@ -14,7 +14,7 @@ Specifies the width of an object's border.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLineWidth025pt**|2|0.25 point.|
 | **wdLineWidth050pt**|4|0.50 point.|

@@ -15,7 +15,7 @@ Defines the different types of warnings that may appear on assignments triggerin
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssignmentWarningNoOverlappingCommittedEngagement**|**1**||
 |**pjAssignmentWarningOverlappingDraftEngagement**|**16**||

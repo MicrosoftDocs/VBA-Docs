@@ -12,7 +12,7 @@ Drag-state extensions of the  **MouseMove** event to filter, corresponding to us
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visFilterMouseMoveDragBegin**|1|Filter the  **DragBegin** extension of the **MouseMove** event.|
 | **visFilterMouseMoveDragDrop**|5|Filter the  **DragDrop** extension of the **MouseMove** event.|

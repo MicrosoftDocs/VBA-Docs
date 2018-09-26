@@ -14,7 +14,7 @@ Specifies the alignment of a paragraph.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlignParagraphCenter**|1|Center-aligned.|
 | **wdAlignParagraphDistribute**|4|Paragraph characters are distributed to fill the entire width of the paragraph.|

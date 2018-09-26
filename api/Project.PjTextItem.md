@@ -14,7 +14,7 @@ Contains constants that specify the text item in the Project database. For more 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAll**|0|Represents the All text item.|
 |**pjAllocated**|1|Represents the Allocated text item.|
