@@ -1,15 +1,16 @@
 ---
-title: Retrieve a List of Installed Printers
+title: Retrieve a list of installed printers
 ms.prod: access
 ms.assetid: e3162c3e-6b5b-77c3-32f9-1fdfa64cdefc
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
-# Retrieve a List of Installed Printers
+# Retrieve a list of installed printers
 
-You use the  **[Printers](../../../api/Access.Application.Printers.md)** property of the **[Application](../../../api/Access.Application.md)** object to return the **[Printers](../../../api/Access.Printers.md)** collection. The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
+You use the **[Printers](../../../api/Access.Application.Printers.md)** property of the **[Application](../../../api/Access.Application.md)** object to return the **[Printers](../../../api/Access.Printers.md)** collection.
 
+The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
 
 ```vb
 Sub ShowPrinters() 

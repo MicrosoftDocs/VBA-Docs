@@ -1,17 +1,18 @@
 ---
-title: Retrieve Information from the Clipboard
+title: Retrieve information from the Clipboard
 ms.prod: access
 ms.assetid: 593d3047-c6c8-ab22-cdeb-aadc8b56ca81
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
-# Retrieve Information from the Clipboard
+# Retrieve information from the Clipboard
 
-## Using the RunCommand Method
+## Use the RunCommand method
 
-You can use the  **[RunCommand](../../../api/Access.DoCmd.RunCommand.md)** method with the **acCmdPaste** constant to paste the contents of the Clipboard into the active control on a form or report. The following example illustrates how to paste the contents of the Clipboard into a text box named txtNotes.
+You can use the **[RunCommand](../../../api/Access.DoCmd.RunCommand.md)** method with the **acCmdPaste** constant to paste the contents of the Clipboard into the active control on a form or report. 
 
+The following example illustrates how to paste the contents of the Clipboard into a text box named txtNotes.
 
 ```vb
 Private Sub cmdPaste_Click() 
@@ -21,10 +22,9 @@ End Sub
 ```
 
 
-## Using the Windows API
+## Use the Windows API
 
 To use API calls to retrieve information from the Clipboard, paste the following code into the Declarations section of a standard module.
-
 
 ```vb
 Declare Function OpenClipboard Lib "User32" (ByVal hwnd As Long) _ 
@@ -48,10 +48,9 @@ Public Const CF_TEXT = 1
 Public Const MAXSIZE = 4096
 ```
 
+<br/>
+
 Paste the following code into a standard module.
-
-
-
 
 ```vb
 Function ClipBoard_GetData() 
