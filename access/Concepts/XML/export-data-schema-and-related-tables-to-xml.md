@@ -1,21 +1,18 @@
 ---
-title: Export Data, Schema, and Related Tables to XML
+title: Export data, schema, and related tables to XML
 ms.prod: access
 ms.assetid: 4f84813a-bc39-ac03-f04f-624f74eed190
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
-# Export Data, Schema, and Related Tables to XML
+# Export data, schema, and related tables to XML
 
-The  **[ExportXML](../../../api/Access.Application.ExportXML.md)** method can be used to export the data and formatting contained in a table, along with any additonal data that you specify.
+The **[ExportXML](../../../api/Access.Application.ExportXML.md)** method can be used to export the data and formatting contained in a table, along with any additional data that you specify.
 
-To specify the additional data to export, you must must use the  **[CreateAdditionalData](../../../api/Access.Application.CreateAdditionalData.md)** method to create an **[AdditionalData](../../../api/Access.AdditionalData.md)** object. Then, use the **[Add](../../../api/Access.AdditionalData.Add.md)** method to add additonal tables to export along with the main table.
+To specify the additional data to export, you must must use the **[CreateAdditionalData](../../../api/Access.Application.CreateAdditionalData.md)** method to create an **[AdditionalData](../../../api/Access.AdditionalData.md)** object. Then, use the **[Add](../../../api/Access.AdditionalData.Add.md)** method to add additional tables to export along with the main table.
 
 The following procedure illustrates how to include additional data when exporting a table to XML. The Orders table is exported along with several other tables. The schema and the formatting are also exported as separate .xsd and .xsl files, respectively.
-
-
-
 
 ```vb
 Private Sub ExportRelTables() 
@@ -43,7 +40,7 @@ Private Sub ExportRelTables()
       .Add "Categories" 
    End With 
  
-   ' Export the Orders table along with the addtional data. 
+   ' Export the Orders table along with the additional data. 
    Application.ExportXml acExportTable, "Orders", _ 
        "C:\Orders.xml", "C:\OrdersSchema.xsd", _ 
        "C:\OrdersStyle.xsl", AdditionalData:= objAD 

@@ -1,14 +1,14 @@
 ---
-title: Filter a Report Using a Form's Filter
+title: Filter a report using a form's filter
 ms.prod: access
 ms.assetid: 2b029c13-5abd-4865-cd05-25d094a97b9f
-ms.date: 06/08/2017
+ms.date: 09/26/2018
 ---
 
 
-# Filter a Report Using a Form's Filter
+# Filter a report using a form's filter
 
-The following example illustrates how to open a report based on the filtered contents of a form. To do this, specify the form's  **[Filter](../../../api/Access.Form.Filter(property).md)** property as the value of the **[OpenReport](../../../api/Access.DoCmd.OpenReport.md)** method's _WhereCondition_ argument.
+The following example illustrates how to open a report based on the filtered contents of a form. To do this, specify the form's **[Filter](../../../api/Access.Form.Filter(property).md)** property as the value of the **[OpenReport](../../../api/Access.DoCmd.OpenReport.md)** method's _WhereCondition_ argument.
 
 
 ```vb
