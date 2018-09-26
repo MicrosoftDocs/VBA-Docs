@@ -32,5 +32,5 @@ The  **Key** property has the following parts:
 
 ## Remarks
 
-If  _key_ is not found when changing a _key_, a[run-time error](../../Glossary/vbe-glossary.md#run-time-error) will occur.
+If  _key_ is not found when changing a _key_, a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) will occur.
 

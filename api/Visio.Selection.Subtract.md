@@ -30,6 +30,6 @@ Nothing
 
 ## Remarks
 
-Calling the  **Subtract** method is equivalent to clicking **Subtract** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The first selected shape is the one that will have the other selected shapes subtracted from it. The other shapes will be deleted and no shapes are selected when the operation is complete.
+Calling the  **Subtract** method is equivalent to clicking **Subtract** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The first selected shape is the one that will have the other selected shapes subtracted from it. The other shapes will be deleted and no shapes are selected when the operation is complete.
 
 

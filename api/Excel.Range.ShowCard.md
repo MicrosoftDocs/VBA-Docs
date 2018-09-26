@@ -12,7 +12,7 @@ ms.date: 09/12/2018
 
 # Range.ShowCard method (Excel)
 
-For a cell containing a Linked data type such as [Stocks or Geography](https://support.office.com/en-us/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this method will cause a card to appear that shows details about the cell (that is, the same card that the user can view by clicking on the cell icon).
+For a cell containing a Linked data type such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877), this method will cause a card to appear that shows details about the cell (that is, the same card that the user can view by clicking on the cell icon).
 
 ## Syntax
 

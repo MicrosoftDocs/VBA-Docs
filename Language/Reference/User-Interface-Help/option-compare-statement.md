@@ -19,9 +19,9 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare t
 
 ## Remarks
 
-If used, the  **Option** **Compare** statement must appear in a[module](../../Glossary/vbe-glossary.md#module) before any[procedures](../../Glossary/vbe-glossary.md#procedure).
-The  **Option Compare** statement specifies the[string comparison](../../Glossary/vbe-glossary.md#string-comparison) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
- **Option Compare Binary** results in string comparisons based on a[sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
+If used, the  **Option** **Compare** statement must appear in a [module](../../Glossary/vbe-glossary.md#module) before any[procedures](../../Glossary/vbe-glossary.md#procedure).
+The  **Option Compare** statement specifies the [string comparison](../../Glossary/vbe-glossary.md#string-comparison) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option** **Compare** statement, the default text comparison method is **Binary**.
+ **Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: Apply a Filter When Opening a Form or Report
+title: Apply a filter when opening a form or report
 ms.prod: access
 ms.assetid: d7a43e62-3003-d411-2128-dffe0536e119
-ms.date: 06/08/2017
+ms.date: 09/25/2018
 ---
 
 
-# Apply a Filter When Opening a Form or Report
+# Apply a filter when opening a form or report
 
 When you use Visual Basic for Applications (VBA) code to open a form or report, you may want to specify which records to display. You can specify the records to display in the form or report in several ways. A common approach is to display a custom dialog box in which the user enters criteria for the underlying query of the form or report. To get the criteria, you refer to the controls in the dialog box. The following sections describe three ways you can use criteria entered in a custom dialog box to filter records.
 
@@ -28,7 +28,7 @@ The  _wherecondition_ argument is applied only by the event procedure specified 
 You can use the  _wherecondition_ argument to set criteria for more than one field, but if you do, the argument setting quickly becomes long and complicated. In those situations, specifying criteria in a query may be easier.
 
 
-## Using a Query as a Filter
+## Using a query as a filter
 
 A separate query, sometimes called a filter query, can refer to the controls on your dialog box to get its criteria. Using this approach, you filter the records in a form or report by setting the  _filtername_ argument of the **OpenForm** or **OpenReport** method or action to the name of the filter query you create. The filter query must include all tables in the record source of the form or report you are opening. Additionally, the filter query must either include all the fields in the form or report you are opening, or you must set its **OutputAllFields** property to **Yes**.
 
@@ -37,8 +37,8 @@ After you create and save the query to use as a filter, set the  _filtername_ ar
 Using a query as a filter to set the criteria has advantages similar to using the  _wherecondition_ argument of the **OpenForm** or **OpenReport** method. A filter query gives you the same flexibility of using more than one dialog box to open the same form or report and applying different sets of criteria depending on what a user wants to do.
 
 
-## Directly Referring to Dialog Box Controls in the Underlying Query of a Form or Report
+## Directly referring to dialog box controls in the underlying query of a form or report
 
-You can also refer to the dialog box controls directly in the underlying query of a form or report instead of through the arguments of the  **OpenForm** or **OpenReport** method. Using this approach, the **OpenForm** or **OpenReport** method or action requires no _wherecondition_ or _filtername_ argument. Instead, each time you open a form or report, its underlying query looks for the dialog box to get its criteria. However, if a user opens the form or report in the Database window rather than through your dialog box, Access displays a parameter box that prompts the user for the dialog box value.
+You can also refer to the dialog box controls directly in the underlying query of a form or report instead of through the arguments of the **OpenForm** or **OpenReport** method. Using this approach, the **OpenForm** or **OpenReport** method or action requires no _wherecondition_ or _filtername_ argument. Instead, each time you open a form or report, its underlying query looks for the dialog box to get its criteria. However, if a user opens the form or report in the Database window rather than through your dialog box, Access displays a parameter box that prompts the user for the dialog box value.
 
 

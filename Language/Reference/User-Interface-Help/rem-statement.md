@@ -23,7 +23,7 @@ The optional  _comment_[argument](../../Glossary/vbe-glossary.md#argument) is th
 
 ## Remarks
 
-If you use [line numbers](../../Glossary/vbe-glossary.md#line-number) or[line labels](../../Glossary/vbe-glossary.md#line-label), you can branch from a  **GoTo** or **GoSub**[statement](../../Glossary/vbe-glossary.md#statement) to a line containing a **Rem** statement. Execution continues with the first executable statement following the **Rem** statement. If the **Rem** keyword follows other statements on a line, it must be separated from the statements by a colon (**:**).
+If you use [line numbers](../../Glossary/vbe-glossary.md#line-number) or [line labels](../../Glossary/vbe-glossary.md#line-label), you can branch from a  **GoTo** or **GoSub**[statement](../../Glossary/vbe-glossary.md#statement) to a line containing a **Rem** statement. Execution continues with the first executable statement following the **Rem** statement. If the **Rem** keyword follows other statements on a line, it must be separated from the statements by a colon (**:**).
 You can use an apostrophe (**'**) instead of the **Rem** keyword. When you use an apostrophe, the colon is not required after other statements.
 
 ## Example

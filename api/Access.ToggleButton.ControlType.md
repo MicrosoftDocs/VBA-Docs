@@ -40,7 +40,7 @@ The  **ControlType** property setting is an intrinsic constant that specifies th
 |**acLabel**|[Label](overview/label-control-access.md)|
 |**acLine**|[Line](overview/line-control.md)|
 |**acListBox**|[List box](overview/list-box-control.md)|
-|**acObjectFrame**|[Unbound object frame](overview/unbound-object-frame-control.md)or [Chart](overview/chart-control.md)|
+|**acObjectFrame**|[Unbound object frame](overview/unbound-object-frame-control.md) or [Chart](overview/chart-control.md)|
 |**acOptionButton**|[Option button](overview/option-button-control.md)|
 |**acOptionGroup**|[Option group](overview/option-group-control.md)|
 |**acPage**|[Page](overview/page.md)|
@@ -49,7 +49,7 @@ The  **ControlType** property setting is an intrinsic constant that specifies th
 |**acSubform**|[Subform/subreport](overview/subform-subreport-control.md)|
 |**acTabCtl**|[Tab](overview/tab-control.md)|
 |**acTextBox**|[Text box](overview/text-box-control.md)|
-|**acToggleButton**|[Toggle button](overview/toggle-button-control.md)[Toggle button](overview/toggle-button-control.md)|
+|**acToggleButton**|[Toggle button](overview/toggle-button-control.md) [Toggle button](overview/toggle-button-control.md)|
 
  **Note**  The  **ControlType** property can only be set by using Visual Basic in form Design view or report Design view, but it can be read in all views.
 

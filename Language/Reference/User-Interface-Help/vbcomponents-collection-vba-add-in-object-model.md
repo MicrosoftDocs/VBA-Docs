@@ -17,7 +17,7 @@ Represents the components contained in a [project](../../Glossary/vbe-glossary.m
 
 ## Remarks
 
-Use the  **VBComponents** collection to access, add, or remove components in a project. A component can be a[form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), or [class](../../Glossary/vbe-glossary.md#class). The  **VBComponents** collection is a standard[collection](../../Glossary/vbe-glossary.md#collection) that can be used in a **For** **Each** block.
+Use the  **VBComponents** collection to access, add, or remove components in a project. A component can be a [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), or [class](../../Glossary/vbe-glossary.md#class). The  **VBComponents** collection is a standard[collection](../../Glossary/vbe-glossary.md#collection) that can be used in a **For** **Each** block.
 You can use the  **Parent** property to return the project the **VBComponents** collection is in.
 In Visual Basic for Applications, you can use  **Import** method to add a component to a project from a file.
 

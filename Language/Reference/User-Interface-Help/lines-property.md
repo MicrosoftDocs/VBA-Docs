@@ -31,5 +31,5 @@ The  **Lines** syntax has these parts:
 
 ## Remarks
 
-The [line numbers](../../Glossary/vbe-glossary.md#line-number) in a[code module](../../Glossary/vbe-glossary.md#code-module) begin at 1.
+The [line numbers](../../Glossary/vbe-glossary.md#line-number) in a [code module](../../Glossary/vbe-glossary.md#code-module) begin at 1.
 

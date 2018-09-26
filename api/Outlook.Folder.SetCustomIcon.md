@@ -29,7 +29,7 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](https://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 
@@ -48,7 +48,7 @@ You can set a custom icon for a search folder and for all folders that do not re
     
 - Hidden folders
     
-You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. For more details, see[An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. For more details, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
 
 The custom folder icon that this method provides does not persist beyond the running Outlook session. Add-ins therefore must set the custom folder icon every time that Outlook boots.
 

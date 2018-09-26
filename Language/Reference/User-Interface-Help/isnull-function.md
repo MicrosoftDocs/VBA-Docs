@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value that indicates whether an[expression](../../Glossary/vbe-glossary.md#expression) contains no valid data ([Null](../../Glossary/vbe-glossary.md#null)).
+Returns a  **Boolean** value that indicates whether an [expression](../../Glossary/vbe-glossary.md#expression) contains no valid data ([Null](../../Glossary/vbe-glossary.md#null)).
 
 ## Syntax
 
 **IsNull(**_expression_**)**
-The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or[string expression](../../Glossary/vbe-glossary.md#string-expression).
+The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
 
 ## Remarks
 

@@ -28,6 +28,6 @@ Indicates the response to a meeting request.
 
 ## Remarks
 
-Used by [Recipient.MeetingResponseStatus Property (Outlook)](Outlook.Recipient.MeetingResponseStatus.md) and[AppointmentItem.ResponseStatus Property (Outlook)](Outlook.AppointmentItem.ResponseStatus.md).
+Used by [Recipient.MeetingResponseStatus Property (Outlook)](Outlook.Recipient.MeetingResponseStatus.md) and [AppointmentItem.ResponseStatus Property (Outlook)](Outlook.AppointmentItem.ResponseStatus.md).
 
 

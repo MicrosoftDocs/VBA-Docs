@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The edit may make the object module incompatible with the previously specified compatible ActiveX component
 
-If a Compatible ActiveX component already exists as a previously distributed [executable file](../../Glossary/vbe-glossary.md#executable-file) or[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), you must be careful not to change its interface. This warning has the following cause and solution:
+If a Compatible ActiveX component already exists as a previously distributed [executable file](../../Glossary/vbe-glossary.md#executable-file) or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll), you must be careful not to change its interface. This warning has the following cause and solution:
 
 
 

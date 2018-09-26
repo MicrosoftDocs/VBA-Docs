@@ -42,7 +42,7 @@ The following are examples of actions that initiate the Click event:
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **CommandButton**. If the command button doesn't already have the[focus](../../Glossary/vbe-glossary.md#focus), the Enter event occurs before the Click event.
+- Clicking a  **CommandButton**. If the command button doesn't already have the [focus](../../Glossary/vbe-glossary.md#focus), the Enter event occurs before the Click event.
     
 - Pressing the SPACEBAR when a  **CommandButton** has the focus.
     

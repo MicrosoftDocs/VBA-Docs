@@ -32,6 +32,6 @@ A shortcut menu is a menu that appears when you right-click an object. In Micros
 
 The commands on a shortcut menu vary depending on the object you select. For example, if you select multiple controls that aren't in a group, the shortcut menu will include the  **Group** command; the shortcut menu for the Toolbox will not.
 To display the shortcut menu for a control or container, right-click the object.
-For more information on displaying the shortcut menu for a  **MultiPage** or a **Page**, see[Display the shortcut menu for a MultiPage or Page](display-the-shortcut-menu-for-a-multipage-or-page.md).
-For more information on displaying the shortcut menu for a  **TabStrip** or a **Tab**, see[Display the shortcut menu for a TabStrip or Tab](display-the-shortcut-menu-for-a-tabstrip-or-tab.md).
+For more information on displaying the shortcut menu for a  **MultiPage** or a **Page**, see [Display the shortcut menu for a MultiPage or Page](display-the-shortcut-menu-for-a-multipage-or-page.md).
+For more information on displaying the shortcut menu for a  **TabStrip** or a **Tab**, see [Display the shortcut menu for a TabStrip or Tab](display-the-shortcut-menu-for-a-tabstrip-or-tab.md).
 

@@ -18,7 +18,7 @@ The name of the default slicer style of the workbook.  **Variant**. Read/Write
 
  _expression_. `DefaultTimelineStyle`
 
- _expression_ A variable that represents a[Workbook Object (Excel)](Excel.Workbook.md) object.
+ _expression_ A variable that represents a [Workbook Object (Excel)](Excel.Workbook.md) object.
 
 
 ## Property value

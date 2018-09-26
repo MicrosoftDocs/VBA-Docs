@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Bad DLL calling convention (Error 49)
 
-[Arguments](../../Glossary/vbe-glossary.md#argument) passed to a[dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resource routine must exactly match those expected by the routine. Calling conventions deal with number, type, and order of arguments. This error has the following causes and solutions:
+[Arguments](../../Glossary/vbe-glossary.md#argument) passed to a [dynamic-link library](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resource routine must exactly match those expected by the routine. Calling conventions deal with number, type, and order of arguments. This error has the following causes and solutions:
 
 
 

@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[DataFe
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

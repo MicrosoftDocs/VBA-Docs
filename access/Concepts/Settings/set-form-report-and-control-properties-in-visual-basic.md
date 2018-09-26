@@ -1,5 +1,5 @@
 ---
-title: Set Form, Report, and Control Properties in Visual Basic
+title: Set form, report, and control properties in Visual Basic
 keywords: vbaac10.chm5188061
 f1_keywords:
 - vbaac10.chm5188061
@@ -9,14 +9,11 @@ ms.date: 06/08/2017
 ---
 
 
-# Set Form, Report, and Control Properties in Visual Basic
-
-**Applies to:** Access 2013 | Access 2016
+# Set form, report, and control properties in Visual Basic
 
 **[Form](../../../api/Access.Form.md)**, **[Report](../../../api/Access.Report.md)**, and **[Control](../../../api/Access.Control.md)** objects are Microsoft Access objects. You can set properties for these objects from within a **Sub**, **Function**, or event procedure. You can also set properties for form and report sections.
 
 ## To set a property of a form or report
-<a name="sectionSection0"> </a>
 
 Refer to the individual form or report within the **[Forms](../../../api/Access.Forms.md)** or **[Reports](../../../api/Access.Reports.md)** collection, followed by the name of the property and its value. For example, to set the **Visible** property of the Customers form to **True** (-1), use the following line of code:
 
@@ -33,7 +30,6 @@ Me.RecordSource = "SELECT * FROM Customers " _
 
 
 ## To set a property of a control
-<a name="sectionSection1"> </a>
 
 Refer to the control in the **[Controls](../../../api/Access.Controls.md)** collection of the **Form** or **Report** object on which it resides. You can refer to the **Controls** collection either implicitly or explicitly, but the code executes faster if you use an implicit reference. The following examples set the **Visible** property of a text box called CustomerID on the Customers form:
 
@@ -62,7 +58,6 @@ End With
 
 
 ## To set a property of a form or report section
-<a name="sectionSection2"> </a>
 
 Refer to the form or report within the **Forms** or **Reports** collection, followed by the **Section** property and the integer or constant that identifies the section. The following examples set the **Visible** property of the page header section of the Customers form to **False**:
 
@@ -78,12 +73,9 @@ Me!Section(acPageHeader).Visible = False
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-

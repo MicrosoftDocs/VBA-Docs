@@ -19,7 +19,7 @@ Fixed and static data include nonautomatic [variables](../../Glossary/vbe-glossa
     
     Reduce the amount of declared data. Note that although the size limit for module-level data is 64K, module-level variable-length strings and arrays can exceed this limit.
     
-- You attempted to allocate more than 64K of static [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) data in the[module](../../Glossary/vbe-glossary.md#module).
+- You attempted to allocate more than 64K of static [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) data in the [module](../../Glossary/vbe-glossary.md#module).
     
     Reduce the amount of this type of data declared. Static data from all [procedures](../../Glossary/vbe-glossary.md#procedure) in a module is limited to a total of 64K (not 64K per procedure). Note that static variable-length strings and arrays can exceed this limit.
     

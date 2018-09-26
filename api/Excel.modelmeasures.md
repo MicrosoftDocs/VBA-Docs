@@ -16,7 +16,7 @@ Represents: a collection of  **ModelMeasure** objects.
 
 ## Remarks
 
-Each measure is represented by a [ModelMeasure](Excel.modelmeasure.md) object. Use the[Model.ModelMeasures](Excel.model.modelmeasures.md) property to return the **ModelMeasures** collection.
+Each measure is represented by a [ModelMeasure](Excel.modelmeasure.md) object. Use the [Model.ModelMeasures](Excel.model.modelmeasures.md) property to return the **ModelMeasures** collection.
 
 
 ## See also

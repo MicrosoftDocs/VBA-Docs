@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupShapes Object (PowerPoint)
 
-Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](PowerPoint.Shape.md)** object. Using the[Item](PowerPoint.GroupShapes.Item.md)method with this object, you can work with single shapes within a group without having to ungroup them.
+Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](PowerPoint.Shape.md)** object. Using the [Item](PowerPoint.GroupShapes.Item.md)method with this object, you can work with single shapes within a group without having to ungroup them.
 
 
 ## Example

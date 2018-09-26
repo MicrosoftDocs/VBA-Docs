@@ -31,7 +31,7 @@ The  **Mid** function syntax has these[named arguments](../../Glossary/vbe-gloss
 
 To determine the number of characters in  **_string_**, use the **Len** function.
 
- **Note**  Use the  **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the[arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
+ **Note**  Use the  **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the [arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
 
 
 ## Example

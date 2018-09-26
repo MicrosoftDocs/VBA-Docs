@@ -25,7 +25,7 @@ Returns a [CoAuthoring](Word.CoAuthoring.md) object that provides the entry poin
 
 ## Remarks
 
-The [CoAuthoring](Word.CoAuthoring.md) object provides information about co authoring at the document level. For example, the[CoAuthoring](Word.CoAuthoring.md) object can provide information about whether there are any locks in the document, which users have current locks on the document, or whether or not updates to the document content is available from the server. Use the **CoAuthoring** property to return the[CoAuthoring](Word.CoAuthoring.md) object.
+The [CoAuthoring](Word.CoAuthoring.md) object provides information about co authoring at the document level. For example, the [CoAuthoring](Word.CoAuthoring.md) object can provide information about whether there are any locks in the document, which users have current locks on the document, or whether or not updates to the document content is available from the server. Use the **CoAuthoring** property to return the [CoAuthoring](Word.CoAuthoring.md) object.
 
 
 ## Example

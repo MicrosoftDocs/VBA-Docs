@@ -15,7 +15,7 @@ You are not a licensed user of the [ActiveX control](../../Glossary/vbe-glossary
 
 
 
-- You tried to place an ActiveX control on a form at [design time](../../Glossary/vbe-glossary.md#design-time) or tried to add a form with an ActiveX control on it to a[project](../../Glossary/vbe-glossary.md#project), but the associated information in the [registry](../../Glossary/vbe-glossary.md#registry) could not be found.
+- You tried to place an ActiveX control on a form at [design time](../../Glossary/vbe-glossary.md#design-time) or tried to add a form with an ActiveX control on it to a [project](../../Glossary/vbe-glossary.md#project), but the associated information in the [registry](../../Glossary/vbe-glossary.md#registry) could not be found.
     
     The information in the registry may have been deleted or become corrupted. Reinstall the ActiveX control or contact the control vendor.
     

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Use Quick Watch
 
-In [break mode](../Glossary/vbe-glossary.md#break-mode), you may want to check the current value of a [variable](../Glossary/vbe-glossary.md#variable) or[expression](../Glossary/vbe-glossary.md#expression) for which you haven't defined a[watch expression](../Glossary/vbe-glossary.md#watch-expression). Do this using the  **Quick Watch** command.
+In [break mode](../Glossary/vbe-glossary.md#break-mode), you may want to check the current value of a [variable](../Glossary/vbe-glossary.md#variable) or [expression](../Glossary/vbe-glossary.md#expression) for which you haven't defined a [watch expression](../Glossary/vbe-glossary.md#watch-expression). Do this using the  **Quick Watch** command.
 
  **To display a Quick Watch**
 

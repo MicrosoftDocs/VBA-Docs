@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) object.
+ _expression_ A variable that represents a [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) object.
 
 
 ## Property value

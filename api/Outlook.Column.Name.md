@@ -27,7 +27,7 @@ Returns a  **String** value that represents the name of the **[Column](Outlook.C
 
 The  **Name** property is the default member of the **Column** object.
 
-If the  **Column** is a default column in the **[Table](Outlook.Table.md)** , or if it has been added to the **Table** with the explicit built-in name for the property, the value of **Name** is the explicit built-in name (without any enclosing brackets) for the property. If the **Column** has been added to the **Table** with a property name referencing a namespace, the value of **Name** will be the property name referenced by namespace. For more information on referencing properties by namespace, see[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
+If the  **Column** is a default column in the **[Table](Outlook.Table.md)** , or if it has been added to the **Table** with the explicit built-in name for the property, the value of **Name** is the explicit built-in name (without any enclosing brackets) for the property. If the **Column** has been added to the **Table** with a property name referencing a namespace, the value of **Name** will be the property name referenced by namespace. For more information on referencing properties by namespace, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 
 
 ## See also

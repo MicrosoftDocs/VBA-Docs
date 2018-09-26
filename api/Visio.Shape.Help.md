@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Using the  **Help** property is equivalent to entering a value in the **Help** box for a shape in the **Special** dialog box (in the **Shape Design** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md)tab, click  **Shape Name**).
+Using the  **Help** property is equivalent to entering a value in the **Help** box for a shape in the **Special** dialog box (in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md)tab, click  **Shape Name**).
 
 

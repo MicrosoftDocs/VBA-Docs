@@ -18,7 +18,7 @@ Returns the type of the slicer cache - slicer or timeline. Read-only
 
  _expression_. `SlicerCacheType`
 
- _expression_ A variable that represents a[SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
+ _expression_ A variable that represents a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Returns

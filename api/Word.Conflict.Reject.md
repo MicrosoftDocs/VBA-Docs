@@ -46,7 +46,7 @@ For Each conf In ActiveDocument.CoAuthoring.Conflicts
 Next conf
 ```
 
-Alternatively, you can use the [RejectAll](Word.Conflicts.RejectAll.md) method of the[Conflicts](Word.Conflicts.md) collection object to reject all the conflicts in a document, as shown in the following code example.
+Alternatively, you can use the [RejectAll](Word.Conflicts.RejectAll.md) method of the [Conflicts](Word.Conflicts.md) collection object to reject all the conflicts in a document, as shown in the following code example.
 
 
 

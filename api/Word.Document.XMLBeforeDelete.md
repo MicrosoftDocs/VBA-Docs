@@ -20,7 +20,7 @@ Occurs when a user deletes an XML element from a document. If more than one elem
 
 Private Sub  _expression_ _'XMLBeforeDelete'(**_DeletedRange_** , **_OldXMLNode_** , **_InUndoRedo_**)
 
- _expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see[Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ### Parameters

@@ -113,10 +113,6 @@ This page links to help on widely used miscellaneous tasks. To view other catego
 
 ## Maintenance
 
-
-- [How to: Compact and Repair a Database](../Maintenance/compact-and-repair-a-database.md)
-    
-      - Describes how to compact and repair a database.
     
 - [How to: Recover Tables Deleted from a Database](../Maintenance/recover-tables-deleted-from-a-database.md)
     

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Remove <Item> Command (File Menu)
 
-Permanently deletes the active [form](../../Glossary/vbe-glossary.md#form) or[module](../../Glossary/vbe-glossary.md#module) from the project. Not available when an item is not selected in the **Project** **Explorer**.
+Permanently deletes the active [form](../../Glossary/vbe-glossary.md#form) or [module](../../Glossary/vbe-glossary.md#module) from the project. Not available when an item is not selected in the **Project** **Explorer**.
 
 When removing a module from a project, make sure the remaining code doesn't refer to the removed item.
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ReplaceShapesEvent Object (Visio)
 
-Represents a shape-replacement operation initiated by the [Selection.ReplaceShape](Visio.selection.replaceshape.md) or the[Shape.ReplaceShape](Visio.shape.replaceshape.md) method.
+Represents a shape-replacement operation initiated by the [Selection.ReplaceShape](Visio.selection.replaceshape.md) or the [Shape.ReplaceShape](Visio.shape.replaceshape.md) method.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType
 
 The  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object is used by rules of types **olRuleSend** and **olRuleReceive** . If the rule is created as an **olRuleSend** rule, then the type of the associated **AddressRuleCondition** object will be **olConditionSenderAddress** . If the rule is created as an **olRuleReceive** rule, then the type of the associated **AddressRuleCondition** object will be **olConditionRecipientAddress** .
 
-This however does not mean that the rule always has a defined rule condition for sender or recipient addresses. Regardless of whether there exists such a defined or enabled rule condition, the  **AddressRuleCondition.ConditionType** property is always initialized once the associated rule is created. For more information on rule conditions, see[Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
+This however does not mean that the rule always has a defined rule condition for sender or recipient addresses. Regardless of whether there exists such a defined or enabled rule condition, the  **AddressRuleCondition.ConditionType** property is always initialized once the associated rule is created. For more information on rule conditions, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

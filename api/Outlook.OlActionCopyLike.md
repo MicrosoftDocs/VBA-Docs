@@ -27,6 +27,6 @@ Specifies how item properties will be copied.
 
 ## Remarks
 
-Used by the [CopyLike](Outlook.Action.CopyLike.md) property of an[Action](Outlook.Action.md) to specify how item properties will be copied to the new item that is created when the **Action** is executed.
+Used by the [CopyLike](Outlook.Action.CopyLike.md) property of an [Action](Outlook.Action.md) to specify how item properties will be copied to the new item that is created when the **Action** is executed.
 
 

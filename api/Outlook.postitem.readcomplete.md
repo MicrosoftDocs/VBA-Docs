@@ -32,7 +32,7 @@ Version Added: Outlook 2013
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](Outlook.PostItem.BeforeRead.md) event and before the[Read](Outlook.PostItem.Read.md) event for the item.
+The  **ReadComplete** event occurs after the [BeforeRead](Outlook.PostItem.BeforeRead.md) event and before the [Read](Outlook.PostItem.Read.md) event for the item.
 
 To determine when the item is unloaded from memory, use the [Unload](Outlook.PostItem.Unload.md) event.
 

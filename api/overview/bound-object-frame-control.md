@@ -24,13 +24,13 @@ A bound object frame is bound to a field in an underlying table.
 
 The field in the underlying table to which the bound object frame is bound must be of the OLE Object data type.
 
-The object in a bound object frame is different for each record. The bound object frame can display linked or embedded objects. If you want to display objects not stored in an underlying table, use an [unbound object frame](unbound-object-frame-control.md)or an [image control](image-control-misc.md).
+The object in a bound object frame is different for each record. The bound object frame can display linked or embedded objects. If you want to display objects not stored in an underlying table, use an [unbound object frame](unbound-object-frame-control.md) or an [image control](image-control-misc.md).
 
 ## See also
 
-- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access wiki on UtterAcess](https://www.utteraccess.com/forum/index.php?act=idx)

@@ -18,7 +18,7 @@ Get or set whether the control's filter selection label is displayed.  **Boolean
 
  _expression_. `ShowSelectionLabel`
 
- _expression_ A variable that represents a[TimelineViewState](Excel.timelineviewstate.md) object.
+ _expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
 
 
 ## Property value

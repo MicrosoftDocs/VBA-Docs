@@ -1,12 +1,12 @@
 ---
-title: Prompt a User Before Saving a Record
+title: Prompt a user before saving a record
 ms.prod: access
 ms.assetid: 4b47967c-a043-cc8a-774f-1df0b529f29b
-ms.date: 06/08/2017
+ms.date: 09/25/2018
 ---
 
 
-# Prompt a User Before Saving a Record
+# Prompt a user before saving a record
 
 The following example illustrates how to use the [BeforeUpdate](../../../api/Access.Form.BeforeUpdate(even).md) event to prompt users to confirm their changes each time they save a record in a form.
 

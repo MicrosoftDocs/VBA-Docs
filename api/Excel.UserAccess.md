@@ -18,7 +18,7 @@ Represents the user access for a protected range.
 
 ## Example
 
-Use the  **[Add](Excel.UserAccessList.Add.md)** method or the[Item](Excel.UserAccessList.Item.md) property of the[UserAccessList](Excel.UserAccessList.md) collection to return a **UserAccess** object.
+Use the  **[Add](Excel.UserAccessList.Add.md)** method or the [Item](Excel.UserAccessList.Item.md) property of the [UserAccessList](Excel.UserAccessList.md) collection to return a **UserAccess** object.
 
 
 

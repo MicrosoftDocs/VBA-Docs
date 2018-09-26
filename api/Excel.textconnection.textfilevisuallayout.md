@@ -18,7 +18,7 @@ Returns or sets a [XlTextVisualLayoutType Enumeration (Excel)](Excel.XlTextVisua
 
  _expression_. `TextFileVisualLayout`
 
- _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

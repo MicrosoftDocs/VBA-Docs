@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid property-array index (Error 381)
 
-A [property](../../Glossary/vbe-glossary.md#property) value may consist of an[array](../../Glossary/vbe-glossary.md#array) of values. This error has the following cause and solution:
+A [property](../../Glossary/vbe-glossary.md#property) value may consist of an [array](../../Glossary/vbe-glossary.md#array) of values. This error has the following cause and solution:
 
 
 

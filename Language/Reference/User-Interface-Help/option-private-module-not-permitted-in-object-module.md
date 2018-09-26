@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Option Private Module not permitted in object module
 
- **Option Private Module** makes the contents of a[module](../../Glossary/vbe-glossary.md#module) unavailable to other[projects](../../Glossary/vbe-glossary.md#project), while preserving their availability to your project. This error has the following cause and solution:
+ **Option Private Module** makes the contents of a [module](../../Glossary/vbe-glossary.md#module) unavailable to other[projects](../../Glossary/vbe-glossary.md#project), while preserving their availability to your project. This error has the following cause and solution:
 
 
 
-- The statement  **Option Private Module** appears in an[object module](../../Glossary/vbe-glossary.md#object-module).
+- The statement  **Option Private Module** appears in an [object module](../../Glossary/vbe-glossary.md#object-module).
     
     Remove the  **Option Private Module** statement from the module. Object modules have the characteristic of **Option Private Module** by default. Changing the default can't be done from code. See your[host application's](../../Glossary/vbe-glossary.md#host-application) documentation for information on giving object module members wider visibility.
     

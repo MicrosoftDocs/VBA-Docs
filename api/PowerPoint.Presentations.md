@@ -28,7 +28,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 
 ## Example
 
-Use the [Presentations](./PowerPoint.Application.Presentations.md) property to return the **Presentations** collection. Use the[Add](./PowerPoint.Presentations.Add.md) method to create a new presentation and add it to the collection. The following example creates a new presentation, adds a slide to the presentation, and then saves the presentation.
+Use the [Presentations](./PowerPoint.Application.Presentations.md) property to return the **Presentations** collection. Use the [Add](./PowerPoint.Presentations.Add.md) method to create a new presentation and add it to the collection. The following example creates a new presentation, adds a slide to the presentation, and then saves the presentation.
 
 
 ```vb

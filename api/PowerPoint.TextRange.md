@@ -36,7 +36,7 @@ The following examples describe how to:
 
 ## Example
 
-Use the [TextRange](./PowerPoint.TextFrame.TextRange.md)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the[Text](./PowerPoint.TextRange.Text.md)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
+Use the [TextRange](./PowerPoint.TextFrame.TextRange.md)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the [Text](./PowerPoint.TextRange.Text.md)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
 
 
 ```vb

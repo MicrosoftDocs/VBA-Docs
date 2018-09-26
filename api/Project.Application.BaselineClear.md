@@ -30,7 +30,7 @@ Clears the baseline data from the baseline fields or clears the data from a  **S
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project should be cleared. **False** if only the selected tasks should be cleared. The default value is **True**.|
-| _From_|Optional|**Long**|The fields to be cleared. The default value is  **pjIntoBaseline**. Can be one of the[PjSaveBaselineTo](Project.PjSaveBaselineTo.md) constants.|
+| _From_|Optional|**Long**|The fields to be cleared. The default value is  **pjIntoBaseline**. Can be one of the [PjSaveBaselineTo](Project.PjSaveBaselineTo.md) constants.|
 
 ### Return Value
 

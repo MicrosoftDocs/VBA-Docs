@@ -25,7 +25,7 @@ Returns a [CoAuthUpdates](./overview/Word.md) collection object that represents 
 
 ## Remarks
 
-Use the  **Updates** property to return the[CoAuthUpdates](./overview/Word.md) collection.
+Use the  **Updates** property to return the [CoAuthUpdates](./overview/Word.md) collection.
 
 
  **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.

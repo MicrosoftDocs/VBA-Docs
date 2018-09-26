@@ -51,7 +51,7 @@ When the  **LimitToList** property is set to Yes and the user clicks the arrow n
 Combo boxes accept  **null** values when the **LimitToList** property is set to Yes or **True**, whether or not the list contains **null** values. If you want to prevent users from entering a **null** value in a combo box, set the **Required** property of the field in the table to which the combo box is bound to Yes.
 
  **Link provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](https://www.fmsinc.com/)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)

@@ -27,7 +27,7 @@ Returns a  **Boolean** value that indicates whether the rule condition is enable
 
 After you enable a rule condition, you must also save the rule by using  **[Rules.Save](Outlook.Rules.Save.md)** so that the rule condition and its enabled state will persist beyond the current session. A rule condition is only enabled after it have been saved successfully.
 
-Returns an error if you attempt to enable a rule condition that is supported only on a rule of type  **olRuleSend** for a rule of type **olRuleReceive** , or vice versa. For more information on suppport by rules for receiving messages or rules for sending messages, see[Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
+Returns an error if you attempt to enable a rule condition that is supported only on a rule of type  **olRuleSend** for a rule of type **olRuleReceive** , or vice versa. For more information on suppport by rules for receiving messages or rules for sending messages, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

@@ -18,7 +18,7 @@ Returns a  **Double** specifying the sine of an angle.
 ## Syntax
 
 **Sin(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a[Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that expresses an angle in radians.
+The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that expresses an angle in radians.
 
 ## Remarks
 

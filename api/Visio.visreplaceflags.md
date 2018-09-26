@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # VisReplaceFlags Enumeration (Visio)
 
-Shape-replacement flags sent to the [Shape.ReplaceShape](Visio.shape.replaceshape.md) and[Selection.ReplaceShape](Visio.selection.replaceshape.md) methods and returned by the[ReplaceShapesEvent.ReplaceFlags](Visio.replaceshapesevent.replaceflags.md) property, singly or in combination.
+Shape-replacement flags sent to the [Shape.ReplaceShape](Visio.shape.replaceshape.md) and [Selection.ReplaceShape](Visio.selection.replaceshape.md) methods and returned by the [ReplaceShapesEvent.ReplaceFlags](Visio.replaceshapesevent.replaceflags.md) property, singly or in combination.
 
 
 ## Members

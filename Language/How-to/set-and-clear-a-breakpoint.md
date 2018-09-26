@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set and Clear a Breakpoint
 
-You set a [breakpoint](../Glossary/vbe-glossary.md#breakpoint) to suspend execution at a specific statement in a[procedure](../Glossary/vbe-glossary.md#procedure); for example, where you suspect problems may exist. You clear breakpoints when you no longer need them to stop execution.
+You set a [breakpoint](../Glossary/vbe-glossary.md#breakpoint) to suspend execution at a specific statement in a [procedure](../Glossary/vbe-glossary.md#procedure); for example, where you suspect problems may exist. You clear breakpoints when you no longer need them to stop execution.
 
  **To set a breakpoint**
 

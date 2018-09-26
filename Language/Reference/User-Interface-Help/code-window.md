@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Use the  **Code** window to write, display, and edit Visual Basic code. You can open as many **Code** windows as you have modules, so you can easily view the code in different forms or[modules](../../Glossary/vbe-glossary.md#module), and copy and paste between them.
+Use the  **Code** window to write, display, and edit Visual Basic code. You can open as many **Code** windows as you have modules, so you can easily view the code in different forms or [modules](../../Glossary/vbe-glossary.md#module), and copy and paste between them.
 
 You can open a  **Code** window from:
 
@@ -21,7 +21,7 @@ You can open a  **Code** window from:
 
 - The  **Project** window, by selecting a form or module, and choosing the **View** **Code** button.
     
-- A  **UserForm** window, by double-clicking a[control](../../Glossary/vbe-glossary.md#control) or form, choosing **Code** from the **View** menu, or pressing F7.
+- A  **UserForm** window, by double-clicking a [control](../../Glossary/vbe-glossary.md#control) or form, choosing **Code** from the **View** menu, or pressing F7.
     
 
 You can drag selected text to:

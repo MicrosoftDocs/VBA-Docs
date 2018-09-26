@@ -78,7 +78,7 @@ The first group of values (0-5) describes the number and type of buttons display
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
 
- **Note**  To specify more than the first named argument, you must use  **MsgBox** in an[expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
+ **Note**  To specify more than the first named argument, you must use  **MsgBox** in an [expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
 
 
 ## Example

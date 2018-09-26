@@ -12,9 +12,9 @@ Use VBA add-ins and macros that you developed for Office for Windows with Office
 
 If you're authoring Macros for Office for Mac, you can use most of the same objects that are available in VBA for Office. For information about VBA for Excel, PowerPoint, and Word, see the following:
 
-- [Excel VBA reference](https://msdn.microsoft.com/EN-US/library/ee861528.aspx)
-- [PowerPoint VBA reference](https://msdn.microsoft.com/EN-US/library/ee861525.aspx)
-- [Word VBA reference](https://msdn.microsoft.com/EN-US/library/ee861527.aspx)
+- [Excel VBA reference](https://msdn.microsoft.com/library/ee861528.aspx)
+- [PowerPoint VBA reference](https://msdn.microsoft.com/library/ee861525.aspx)
+- [Word VBA reference](https://msdn.microsoft.com/library/ee861527.aspx)
 
 > [!NOTE] 
 > Outlook for Mac and OneNote for Mac do not support VBA. 

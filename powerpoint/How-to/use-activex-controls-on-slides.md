@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 You can add controls to your slides to provide a sophisticated way to exchange information with the user while a slide show is running. For example, you could use controls on slides to allow viewers of a show designed to be run in a kiosk a way to choose options and then run a custom show based on the viewer's choices.
 
-For general information on adding and working with controls, see [How to: Use ActiveX Controls on Documents](use-activex-controls-on-documents.md) and[How to: Create Custom Dialog Boxes](create-custom-dialog-boxes.md).
+For general information on adding and working with controls, see [How to: Use ActiveX Controls on Documents](use-activex-controls-on-documents.md) and [How to: Create Custom Dialog Boxes](create-custom-dialog-boxes.md).
 
 Keep the following points in mind when you are working with controls on slides.
 

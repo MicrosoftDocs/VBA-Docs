@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document Object (Word)
 
-Represents a document. The  **Document** object is a member of the **[Documents](https://msdn.microsoft.com/en-us/vba/word-vba/articles/documents-object-word)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
+Represents a document. The  **Document** object is a member of the **[Documents](https://msdn.microsoft.com/vba/word-vba/articles/documents-object-word)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ Documents(1).Activate
 
 ### Using ActiveDocument
 
-You can use the  **[ActiveDocument](https://msdn.microsoft.com/en-us/vba/word-vba/articles/application-activedocument-property-word)** property to refer to the document with the focus. The following example uses the **[Activate](https://msdn.microsoft.com/en-us/vba/word-vba/articles/document-activate-method-word)** method to activate the document named "Document 1." The example also sets the page orientation to landscape mode and then prints the document.
+You can use the  **[ActiveDocument](https://msdn.microsoft.com/vba/word-vba/articles/application-activedocument-property-word)** property to refer to the document with the focus. The following example uses the **[Activate](https://msdn.microsoft.com/vba/word-vba/articles/document-activate-method-word)** method to activate the document named "Document 1." The example also sets the page orientation to landscape mode and then prints the document.
 
 
 

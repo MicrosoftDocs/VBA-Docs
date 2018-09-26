@@ -18,6 +18,6 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. `Application`
 
- _expression_ A variable that represents a[Guides](PowerPoint.guides.md) object.
+ _expression_ A variable that represents a [Guides](PowerPoint.guides.md) object.
 
 

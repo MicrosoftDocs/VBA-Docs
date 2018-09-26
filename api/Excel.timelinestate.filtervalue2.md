@@ -18,7 +18,7 @@ Returns the 2nd value associated with the date filter (semantics vary by filter 
 
  _expression_. `FilterValue2`
 
- _expression_ A variable that represents a[TimelineState](Excel.timelinestate.md) object.
+ _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value

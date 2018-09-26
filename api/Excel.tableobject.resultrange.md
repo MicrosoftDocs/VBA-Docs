@@ -18,7 +18,7 @@ Returns a [Range Object (Excel)](Excel.Range(object).md) object that represents 
 
  _expression_. `ResultRange`
 
- _expression_ A variable that represents a[TableObject](Excel.modeltable.md)object.
+ _expression_ A variable that represents a [TableObject](Excel.modeltable.md)object.
 
 
 ## Property value

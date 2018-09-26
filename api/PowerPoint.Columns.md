@@ -53,7 +53,7 @@ With ActivePresentation.Slides(2).Shapes(5).Table
 End With
 ```
 
-Use  **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the[TableDirection](PowerPoint.Table.TableDirection.md)property can reverse this). This example selects the first column of the table in shape five on the second slide.
+Use  **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the [TableDirection](PowerPoint.Table.TableDirection.md)property can reverse this). This example selects the first column of the table in shape five on the second slide.
 
 
 

@@ -27,7 +27,7 @@ answer = Application.WorksheetFunction.Min(myRange)
 MsgBox answer
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
 This example uses the  **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
 
@@ -473,6 +473,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 ## See also
 
-[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/en-us/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
+[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 

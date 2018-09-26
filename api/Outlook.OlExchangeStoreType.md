@@ -27,6 +27,6 @@ Specifies the type of Exchange store.
 
 ## Remarks
 
-Used by the [ExchangeStoreType](Outlook.Store.ExchangeStoreType.md) property of the[Store](Outlook.Store.md) object.
+Used by the [ExchangeStoreType](Outlook.Store.ExchangeStoreType.md) property of the [Store](Outlook.Store.md) object.
 
 

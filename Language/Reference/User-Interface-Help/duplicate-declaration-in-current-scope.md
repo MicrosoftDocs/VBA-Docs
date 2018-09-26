@@ -25,7 +25,7 @@ The specified name is already used at this level of [scope](../../Glossary/vbe-g
 
   Check the current procedure, [module](../../Glossary/vbe-glossary.md#module), or [project](../../Glossary/vbe-glossary.md#project) and remove any duplicate declarations.
     
-- A **Const** statement uses the same name as an existing variable or procedure. Remove or rename the[constant](../../Glossary/vbe-glossary.md#constant) in question.
+- A **Const** statement uses the same name as an existing variable or procedure. Remove or rename the [constant](../../Glossary/vbe-glossary.md#constant) in question.
     
 - You declared a fixed [array](../../Glossary/vbe-glossary.md#array) more than once.
     

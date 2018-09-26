@@ -29,7 +29,7 @@ To return a single  **DocumentProperty** object that represents a specific built
 
 Use the  **CustomDocumentProperties** property to return the collection of custom document properties.
 
- For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+ For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## See also

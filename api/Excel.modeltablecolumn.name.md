@@ -18,7 +18,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a[ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
+ _expression_ A variable that represents a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
 
 
 ## Property value

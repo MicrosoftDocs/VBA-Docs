@@ -18,7 +18,7 @@ Represents an individual animation point for an animation behavior. The  **Anima
 
 ## Example
 
-To add or reference an  **AnimationPoint** object, use the[Add](PowerPoint.AnimationPoints.Add.md)or [Item](PowerPoint.AnimationPoints.Item.md)method, respectively. Use the [Time](PowerPoint.AnimationPoint.Time.md)property of an  **AnimationPoint** object to set timing between animation points. Use the **[Value](PowerPoint.AnimationPoint.Value.md)** property to set other animation point properties, such as color. The following example adds three animation points to the first behavior in the active presentation's main animation sequence, and then it changes colors at each animation point.
+To add or reference an  **AnimationPoint** object, use the [Add](PowerPoint.AnimationPoints.Add.md) or [Item](PowerPoint.AnimationPoints.Item.md)method, respectively. Use the [Time](PowerPoint.AnimationPoint.Time.md)property of an  **AnimationPoint** object to set timing between animation points. Use the **[Value](PowerPoint.AnimationPoint.Value.md)** property to set other animation point properties, such as color. The following example adds three animation points to the first behavior in the active presentation's main animation sequence, and then it changes colors at each animation point.
 
 
 ```vb

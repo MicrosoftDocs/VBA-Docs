@@ -18,7 +18,7 @@ Represents a complete or partial loaded presentation that is available for publi
 
 ## Remarks
 
-You can specify the content and attributes of the published presentation by setting various properties of the  **PublishObject** object. For example, the[SourceType](PowerPoint.PublishObject.SourceType.md)property defines the portion of a loaded presentation to be published. The [RangeStart](PowerPoint.PublishObject.RangeStart.md)property and the [RangeEnd](PowerPoint.PublishObject.RangeEnd.md)property specify the range of slides to publish, and the [SpeakerNotes](PowerPoint.PublishObject.SpeakerNotes.md)property designates whether or not to publish the speaker's notes.
+You can specify the content and attributes of the published presentation by setting various properties of the  **PublishObject** object. For example, the [SourceType](PowerPoint.PublishObject.SourceType.md)property defines the portion of a loaded presentation to be published. The [RangeStart](PowerPoint.PublishObject.RangeStart.md)property and the [RangeEnd](PowerPoint.PublishObject.RangeEnd.md)property specify the range of slides to publish, and the [SpeakerNotes](PowerPoint.PublishObject.SpeakerNotes.md)property designates whether or not to publish the speaker's notes.
 
 
 ## Example

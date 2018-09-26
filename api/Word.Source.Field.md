@@ -33,7 +33,7 @@ Returns a  **String** that represents the value of a field in a bibliography sou
 
 ## Remarks
 
-The name of the field corresponds to the name of the corresponding XML element in the resulting XML for a bibliography source. You can use the  **[XML](Word.Source.XML.md)** property to return the XML for a bibliography source. For more information, see[Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
+The name of the field corresponds to the name of the corresponding XML element in the resulting XML for a bibliography source. You can use the  **[XML](Word.Source.XML.md)** property to return the XML for a bibliography source. For more information, see [Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
 
 
 ## See also

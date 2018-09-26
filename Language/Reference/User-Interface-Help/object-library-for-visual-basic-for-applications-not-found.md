@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Object library for Visual Basic for Applications not found
-The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the[dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
+The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) is no longer a standalone file; it is integrated into the [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll).
 Under unusual circumstances a previous version of the object library (vaxxx.olb or vaxxxx.olb) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) might be needed, but not found. This error has the following causes and solutions:
 
 

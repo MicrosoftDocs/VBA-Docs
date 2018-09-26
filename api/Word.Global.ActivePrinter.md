@@ -25,7 +25,7 @@ Returns or sets the name of the active printer. Read/write  **String** .
 
 ## Remarks
 
-Setting the printer using the  **ActivePrinter** property changes the default printer. For more information, see[Setting ActivePrinter Changes System Default Printer](https://go.microsoft.com/fwlink/?LinkId=61996).
+Setting the printer using the  **ActivePrinter** property changes the default printer. For more information, see [Setting ActivePrinter Changes System Default Printer](https://go.microsoft.com/fwlink/?LinkId=61996).
 
 
 ## Example

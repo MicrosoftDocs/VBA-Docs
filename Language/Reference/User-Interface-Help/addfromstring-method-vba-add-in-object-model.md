@@ -18,7 +18,7 @@ Adds text to a [module](../../Glossary/vbe-glossary.md#module).
 ## Syntax
 
 _object_**.AddFromString**
-The  _object_ placeholder is an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder is an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

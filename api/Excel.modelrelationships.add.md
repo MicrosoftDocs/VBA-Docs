@@ -18,7 +18,7 @@ Adds a new relationship to the model.
 
  _expression_. `Add`_(ForeignKeyColumn,_ _PrimaryKeyColumn)_
 
- _expression_ A variable that represents a[ModelRelationships Object (Excel)](Excel.modelrelationships.md) object (Excel).
+ _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object (Excel).
 
 
 ### Parameters

@@ -17,5 +17,5 @@ Contains all of the command bars in a [project](../../Glossary/vbe-glossary.md#p
 
 ## Remarks
 
-Use the  **CommandBars** collection to enable[add-ins](../../Glossary/vbe-glossary.md#add-in) to add command bars and[controls](../../Glossary/vbe-glossary.md#control), or to add controls to existing, built-in, command bars.
+Use the  **CommandBars** collection to enable[add-ins](../../Glossary/vbe-glossary.md#add-in) to add command bars and [controls](../../Glossary/vbe-glossary.md#control), or to add controls to existing, built-in, command bars.
 

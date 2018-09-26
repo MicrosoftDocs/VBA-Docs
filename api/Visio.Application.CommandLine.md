@@ -47,6 +47,6 @@ The following table includes other command line switches you can use to start th
 |/u|Unregisters Visio.|
 |/r|Registers Visio.|
 |/s|Silently registers Visio.|
-|/pt filename,[printername, drivername, portname]|Directs the file to print on a particular printer. (Added in Visio version 5.0c.)|
+|/pt filename, [printername, drivername, portname]|Directs the file to print on a particular printer. (Added in Visio version 5.0c.)|
 |::ODMA|Visio uses ODMA to open a file.|
 

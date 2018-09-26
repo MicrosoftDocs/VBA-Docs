@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) representing the current path.
 ## Syntax
 
 **CurDir** [ **(**_drive_**)** ]
-The optional  _drive_[argument](../../Glossary/vbe-glossary.md#argument) is a[string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies an existing drive. If no drive is specified or if _drive_ is a zero-length string (""), **CurDir** returns the path for the current drive. On the Macintosh, **CurDir** ignores any _drive_ specified and simply returns the path for the current drive.
+The optional  _drive_[argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies an existing drive. If no drive is specified or if _drive_ is a zero-length string (""), **CurDir** returns the path for the current drive. On the Macintosh, **CurDir** ignores any _drive_ specified and simply returns the path for the current drive.
 
 ## Example
 

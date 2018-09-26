@@ -21,7 +21,7 @@ An object reference is temporary and can easily become invalid between closing a
     
 - The [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) variable in your **Get** or **Put** statement contains an element that is an object reference.
     
-    If the variable's  **Type** statement contains an element representing an object (for example, it is defined in a[class module](../../Glossary/vbe-glossary.md#class-module), has [Object data type](../../Glossary/vbe-glossary.md#object-data-type), is a form or a control, and so on), remove it from the definition, or define a new type for use with the  **Get** and **Put** statements that has no **Object** type element in its definition.
+    If the variable's  **Type** statement contains an element representing an object (for example, it is defined in a [class module](../../Glossary/vbe-glossary.md#class-module), has [Object data type](../../Glossary/vbe-glossary.md#object-data-type), is a form or a control, and so on), remove it from the definition, or define a new type for use with the  **Get** and **Put** statements that has no **Object** type element in its definition.
     
     If you have elements in the user-defined type with  **Variant** type, make sure no object reference is assigned to that element. A **Variant** can accept such an assignment, but will cause this error if its user-defined type is used in a **Get** or **Put**.
     

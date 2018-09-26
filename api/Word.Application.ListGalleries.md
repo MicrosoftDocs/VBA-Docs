@@ -25,7 +25,7 @@ Returns a  **[ListGalleries](Word.listgalleries.md)** collection that represents
 
 ## Remarks
 
-Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the  **Bullets and Numbering** dialog box (**Format** menu). For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
+Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the  **Bullets and Numbering** dialog box (**Format** menu). For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

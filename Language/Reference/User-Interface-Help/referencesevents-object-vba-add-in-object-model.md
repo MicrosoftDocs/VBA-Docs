@@ -17,5 +17,5 @@ Returned by the  **ReferencesEvents** property.
 
 ## Remarks
 
-The  **ReferencesEvents** object is the source of events that occur when a reference is added to or removed from a[project](../../Glossary/vbe-glossary.md#project). The ItemAdded event is triggered after a reference is added to a project. The ItemRemoved event is triggered after a reference is removed from a project.
+The  **ReferencesEvents** object is the source of events that occur when a reference is added to or removed from a [project](../../Glossary/vbe-glossary.md#project). The ItemAdded event is triggered after a reference is added to a project. The ItemRemoved event is triggered after a reference is removed from a project.
 

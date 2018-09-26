@@ -18,7 +18,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) represent
 ## Syntax
 
 **FreeFile** [ **(**_rangenumber_**)** ]
-The optional  _rangenumber_ argument is a[Variant](../../Glossary/vbe-glossary.md#variant-data-type) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
+The optional  _rangenumber_ argument is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
 
 ## Remarks
 

@@ -77,7 +77,7 @@ The following example duplicates all the slides in the selection (if you're in s
 ActiveWindow.Selection.SlideRange.Duplicate
 ```
 
-If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the  **ShapeRange** property when there are no shapes selected), an error occurs. Use the[Type](./PowerPoint.Selection.Type.md)property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
+If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the  **ShapeRange** property when there are no shapes selected), an error occurs. Use the [Type](./PowerPoint.Selection.Type.md)property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
 
 
 

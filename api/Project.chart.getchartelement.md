@@ -27,9 +27,9 @@ Returns information about the chart element at specified X and Y coordinates. Th
 |:-----|:-----|:-----|:-----|
 | _x_|Required|**Long**|The X coordinate of the chart element.|
 | _y_|Required|**Long**|The Y coordinate of the chart element.|
-| _ElementID_|Required|**Long**|When the  **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
-| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
-| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
+| _ElementID_|Required|**Long**|When the  **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
+| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
+| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _x_|Required|INT32||
 | _y_|Required|INT32||
 | _ElementID_|Required|INT32||

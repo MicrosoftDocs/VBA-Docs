@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
+ _expression_ A variable that represents a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Property value

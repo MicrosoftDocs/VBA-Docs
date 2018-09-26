@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Mid statement
 
-Replaces a specified number of characters in a **Variant** (**String**)[variable](../../Glossary/vbe-glossary.md#variable) with characters from another string.
+Replaces a specified number of characters in a **Variant** (**String**) [variable](../../Glossary/vbe-glossary.md#variable) with characters from another string.
 
 ## Syntax
 

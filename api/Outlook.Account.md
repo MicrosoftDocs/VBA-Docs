@@ -21,8 +21,8 @@ The  **Account** object represents an account that is defined for the current pr
 The purpose of the [Accounts](Outlook.Accounts.md) collection object and the **Account** object is to provide the capacity to enumerate **Account** objects in a given profile, to identify the type of **Account**, and to use a specific **Account** object to send mail.
 
 
- **Note**  Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx
-) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
+> [!NOTE] 
+> Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
 
 
 ## Example

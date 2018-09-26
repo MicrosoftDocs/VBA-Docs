@@ -46,7 +46,7 @@ The  **_conversion_**[argument](../../Glossary/vbe-glossary.md#argument) setting
 *Applies to East Asia locales.
 **Applies to Japan only.
 
- **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, they may be used anywhere in your code in place of the actual values. Most can be combined, for example, **vbUpperCase + vbWide**, except when they are mutually exclusive, for example, **vbUnicode + vbFromUnicode**. The constants **vbWide**, **vbNarrow**, **vbKatakana**, and **vbHiragana** cause[run-time errors](../../Glossary/vbe-glossary.md#run-time-error) when used in[locales](../../Glossary/vbe-glossary.md#locale) where they do not apply.
+ **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, they may be used anywhere in your code in place of the actual values. Most can be combined, for example, **vbUpperCase + vbWide**, except when they are mutually exclusive, for example, **vbUnicode + vbFromUnicode**. The constants **vbWide**, **vbNarrow**, **vbKatakana**, and **vbHiragana** cause[run-time errors](../../Glossary/vbe-glossary.md#run-time-error) when used in [locales](../../Glossary/vbe-glossary.md#locale) where they do not apply.
 
 The following are valid word separators for proper casing: [Null](../../Glossary/vbe-glossary.md#null) (**Chr$(** 0 **)**), horizontal tab (**Chr$(** 9 **)**), linefeed (**Chr$(** 10 **)**), vertical tab (**Chr$(** 11 **)**), form feed (**Chr$(** 12 **)**), carriage return (**Chr$(** 13 **)**), space (SBCS) (**Chr$(** 32 **)**). The actual value for a space varies by country/region for[DBCS](../../Glossary/vbe-glossary.md#dbcs).
 

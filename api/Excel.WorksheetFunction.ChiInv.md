@@ -18,7 +18,7 @@ Returns the inverse of the one-tailed probability of the chi-squared distributio
 
  **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.
 
-For more information about the new functions, see the [ChiSq_Inv_RT](Excel.WorksheetFunction.ChiSq_Inv_RT.md) and[ChiSq_Inv](Excel.WorksheetFunction.ChiSq_Inv.md) methods.
+For more information about the new functions, see the [ChiSq_Inv_RT](Excel.WorksheetFunction.ChiSq_Inv_RT.md) and [ChiSq_Inv](Excel.WorksheetFunction.ChiSq_Inv.md) methods.
 
 ## Syntax
 

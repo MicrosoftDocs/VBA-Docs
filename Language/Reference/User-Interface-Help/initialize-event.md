@@ -20,7 +20,7 @@ Occurs after an object is loaded, but before it's shown.
 ## Syntax
 
 **Private Sub**_object_**_Initialize()**
-The  _object_ placeholder represents an[object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
 
 ## Remarks
 

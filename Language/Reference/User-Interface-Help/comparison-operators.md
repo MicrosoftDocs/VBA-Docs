@@ -34,7 +34,7 @@ _result_**=**_expression1_ _comparisonoperator_ _expression2_
 
 ## Remarks
 
-The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or[Null](../../Glossary/vbe-glossary.md#null):
+The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or [Null](../../Glossary/vbe-glossary.md#null):
 
 
 |**Operator**|**True if**|**False if**|**Null if**|

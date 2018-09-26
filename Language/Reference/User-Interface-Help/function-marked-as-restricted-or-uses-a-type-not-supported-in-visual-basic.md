@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Function marked as restricted or uses a type not supported in Visual Basic
 
-Not every [procedure](../../Glossary/vbe-glossary.md#procedure) that appears in a[type library](../../Glossary/vbe-glossary.md#type-library) or[object library](../../Glossary/vbe-glossary.md#object-library) can be accessed by every programming language. The creator of a type or object library can designate some functions as restricted to prevent their use by macro languages. This error has the following causes and solutions:
+Not every [procedure](../../Glossary/vbe-glossary.md#procedure) that appears in a [type library](../../Glossary/vbe-glossary.md#type-library) or [object library](../../Glossary/vbe-glossary.md#object-library) can be accessed by every programming language. The creator of a type or object library can designate some functions as restricted to prevent their use by macro languages. This error has the following causes and solutions:
 
 
 

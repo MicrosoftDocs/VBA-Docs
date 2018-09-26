@@ -33,7 +33,7 @@ Private Sub  _expression_ _'DocumentOpen'(**_ByVal Doc As Document_**)
 
 ## Remarks
 
- For more information about using events with the **Application** object, see[Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
+ For more information about using events with the **Application** object, see [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md).
 
 
 ## Example

@@ -23,8 +23,8 @@ Scales the width of the shape by a specified factor.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|The ratio between the width of the shape after you resize it and the current width. For example, to make a rectangle 50 percent wider, specify 1.5 for the  _Factor_ parameter.|
-| _RelativeToOriginalSize_|Required|**[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**|**msoFalse** scales the shape relative to its current size. For Project, the value must be **msoFalse**.|
-| _fScale_|Optional|**[MsoScaleFrom](https://msdn.microsoft.com/en-us/library/office/ff863348%28v=office.15%29)**|Specifies which part of the shape retains its position when the shape is scaled.|
+| _RelativeToOriginalSize_|Required|**[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**|**msoFalse** scales the shape relative to its current size. For Project, the value must be **msoFalse**.|
+| _fScale_|Optional|**[MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)**|Specifies which part of the shape retains its position when the shape is scaled.|
 | _Factor_|Required|FLOAT||
 | _RelativeToOriginalSize_|Required|MSOTRISTATE||
 | _fScale_|Optional|MSOSCALEFROM||
@@ -72,5 +72,5 @@ End Sub
 
 
 [Shape Object](Project.shape.md)
-[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
-[MsoScaleFrom](https://msdn.microsoft.com/en-us/library/office/ff863348%28v=office.15%29)
+[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
+[MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)

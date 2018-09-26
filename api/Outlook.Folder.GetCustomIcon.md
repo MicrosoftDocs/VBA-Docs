@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.GetCustomIcon Method (Outlook)
 
-Returns an  **[IPictureDisp](https://msdn.microsoft.com/en-us/library/ms680762%28VS.85%29.aspx)** object that represents the custom icon for the folder.
+Returns an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)** object that represents the custom icon for the folder.
 
 
 ## Syntax
@@ -45,7 +45,7 @@ The returned  **IPictureDisp** object has its **Type** property equal to **PICTY
     
 - Hidden folders
     
-You can only call  **GetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **GetCustomIcon** from out-of-process code, an exception occurs. For more information, see[An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **GetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **GetCustomIcon** from out-of-process code, an exception occurs. For more information, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
 
 
 ## See also

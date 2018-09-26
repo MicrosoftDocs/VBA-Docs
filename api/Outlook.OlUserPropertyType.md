@@ -36,6 +36,6 @@ Indicates the user property type.
 
 ## Remarks
 
-Used by the [ItemProperties.Add](Outlook.ItemProperties.Add.md), [UserDefinedProperties.Add](Outlook.UserDefinedProperties.Add.md), and [UserProperties.Add](Outlook.UserProperties.Add.md) methods, and[ColumnFormat.FieldType](Outlook.ColumnFormat.FieldType.md), [ItemProperty.Type](Outlook.ItemProperty.Type.md), and [UserDefinedProperty.Type](Outlook.UserDefinedProperty.Type.md) properties.
+Used by the [ItemProperties.Add](Outlook.ItemProperties.Add.md), [UserDefinedProperties.Add](Outlook.UserDefinedProperties.Add.md), and [UserProperties.Add](Outlook.UserProperties.Add.md) methods, and [ColumnFormat.FieldType](Outlook.ColumnFormat.FieldType.md), [ItemProperty.Type](Outlook.ItemProperty.Type.md), and [UserDefinedProperty.Type](Outlook.UserDefinedProperty.Type.md) properties.
 
 

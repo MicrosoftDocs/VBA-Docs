@@ -27,6 +27,6 @@ The  **Cut** method syntax has these parts:
 
 ## Remarks
 
-For a  **ComboBox** or **TextBox**, the **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the[focus](../../Glossary/vbe-glossary.md#focus).
-On a  **Page**, **Frame**, or form, **Cut** removes currently selected controls to the Clipboard. This method only removes controls created at[run time](../../Glossary/vbe-glossary.md#run-time).
+For a  **ComboBox** or **TextBox**, the **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the [focus](../../Glossary/vbe-glossary.md#focus).
+On a  **Page**, **Frame**, or form, **Cut** removes currently selected controls to the Clipboard. This method only removes controls created at [run time](../../Glossary/vbe-glossary.md#run-time).
 

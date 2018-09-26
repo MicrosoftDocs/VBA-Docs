@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Nodes Property (Project)
-Gets the geometric description of nodes or control points in the shape range. Read-only  **[ShapeNodes](https://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)**.
+Gets the geometric description of nodes or control points in the shape range. Read-only  **[ShapeNodes](https://msdn.microsoft.com/library/office/ff822109%28v=office.15%29)**.
 
 ## Syntax
 
@@ -25,4 +25,4 @@ Gets the geometric description of nodes or control points in the shape range. Re
 
 
 [ShapeRange Object](Project.shaperange.md)
-[ShapeNodes](https://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)
+[ShapeNodes](https://msdn.microsoft.com/library/office/ff822109%28v=office.15%29)

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Execute a Specific Statement
 
-While execution of your code is halted, you can control the execution sequence of [statements](../Glossary/vbe-glossary.md#statement) within a[procedure](../Glossary/vbe-glossary.md#procedure). You can resume execution at a statement you choose without executing any intervening code.
+While execution of your code is halted, you can control the execution sequence of [statements](../Glossary/vbe-glossary.md#statement) within a [procedure](../Glossary/vbe-glossary.md#procedure). You can resume execution at a statement you choose without executing any intervening code.
 
  **To set the next statement to be executed**
 
@@ -20,7 +20,7 @@ While execution of your code is halted, you can control the execution sequence o
 
 1. In the  **Code** window, position the insertion point anywhere within the statement.
     
-2. On the  **Debug** menu, click **Set Next Statement** (CTRL+F9). - or on Windows - Position the mouse pointer in the[margin indicator](../Glossary/vbe-glossary.md#margin-indicator) next to the current execution point.
+2. On the  **Debug** menu, click **Set Next Statement** (CTRL+F9). - or on Windows - Position the mouse pointer in the [margin indicator](../Glossary/vbe-glossary.md#margin-indicator) next to the current execution point.
     
 3. Drag the yellow arrow in the margin indicator to the statement you want to execute next.
     

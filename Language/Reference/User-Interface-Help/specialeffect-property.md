@@ -49,7 +49,7 @@ Note that only  _Flat_ and _Sunken_ (0 and 2) are acceptable values for **CheckB
 
 You can use either the  **SpecialEffect** or the **BorderStyle** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to **fmSpecialEffectRaised**, the system sets **BorderStyle** to zero (**fmBorderStyleNone**).
 For a  **Frame**, **BorderStyle** is ignored if **SpecialEffect** is **fmSpecialEffectFlat**.
- **SpecialEffect** uses the[system colors](../../Glossary/glossary-vba.md#system-colors) to define its borders.
+ **SpecialEffect** uses the [system colors](../../Glossary/glossary-vba.md#system-colors) to define its borders.
 
  **Note**  Although the  **SpecialEffect** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton**.
 

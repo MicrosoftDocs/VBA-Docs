@@ -23,7 +23,7 @@ Determines if the object is a unified group.
 
 ### Return Value
 
-Returns the  **Outlook.Folder** object associated with the group using the[GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md) and[GetUnifiedGroupFromStore](Outlook.exchangeuser.getunifiedgroupfromstore.md) methods.
+Returns the  **Outlook.Folder** object associated with the group using the [GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md) and [GetUnifiedGroupFromStore](Outlook.exchangeuser.getunifiedgroupfromstore.md) methods.
 
 
 ## See also

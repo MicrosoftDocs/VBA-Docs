@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Variable uses a type not supported in Visual Basic (Error 458)
 
-Not every [variable](../../Glossary/vbe-glossary.md#variable) that appears in a[type library](../../Glossary/vbe-glossary.md#type-library) or[object library](../../Glossary/vbe-glossary.md#object-library) can be used by every programming language. This error has the following cause and solution:
+Not every [variable](../../Glossary/vbe-glossary.md#variable) that appears in a [type library](../../Glossary/vbe-glossary.md#type-library) or [object library](../../Glossary/vbe-glossary.md#object-library) can be used by every programming language. This error has the following cause and solution:
 
 
 

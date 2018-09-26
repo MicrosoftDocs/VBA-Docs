@@ -37,7 +37,7 @@ The following examples describe how to:
 
 ## Example
 
-Use the [Slides](PowerPoint.Presentation.Slides.md) property to return a **Slides** collection. Use the[Add](PowerPoint.Presentations.Add.md) method to create a new slide and add it to the collection. The following example adds a new slide to the active presentation.
+Use the [Slides](PowerPoint.Presentation.Slides.md) property to return a **Slides** collection. Use the [Add](PowerPoint.Presentations.Add.md) method to create a new slide and add it to the collection. The following example adds a new slide to the active presentation.
 
 
 ```vb

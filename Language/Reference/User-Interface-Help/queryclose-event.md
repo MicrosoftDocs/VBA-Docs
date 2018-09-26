@@ -39,7 +39,7 @@ The  _closemode_ argument returns the following values:
 |**vbAppWindows**|2|The current Windows operating environment session is ending.|
 |**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
 
-These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) in the[Object Browser](../../Glossary/vbe-glossary.md#object-browser). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
+These constants are listed in the Visual Basic for Applications [object library](../../Glossary/vbe-glossary.md#object-library) in the [Object Browser](../../Glossary/vbe-glossary.md#object-browser). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
 
 ## Remarks
 

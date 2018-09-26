@@ -30,5 +30,5 @@ The  **AddFromGuid** syntax has these parts:
 
 ## Remarks
 
-The  **AddFromGuid** method searches the[registry](../../Glossary/vbe-glossary.md#registry) to find the reference you want to add. The GUID can be a[type library](../../Glossary/vbe-glossary.md#type-library), [control](../../Glossary/vbe-glossary.md#control), class identifier, and so on.
+The  **AddFromGuid** method searches the [registry](../../Glossary/vbe-glossary.md#registry) to find the reference you want to add. The GUID can be a [type library](../../Glossary/vbe-glossary.md#type-library), [control](../../Glossary/vbe-glossary.md#control), class identifier, and so on.
 

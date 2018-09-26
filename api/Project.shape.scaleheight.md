@@ -72,5 +72,5 @@ End Sub
 
 
 [Shape Object](Project.shape.md)
-[MsoTriState](https://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
-[MsoScaleFrom](https://msdn.microsoft.com/en-us/library/office/ff863348%28v=office.15%29)
+[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
+[MsoScaleFrom](https://msdn.microsoft.com/library/office/ff863348%28v=office.15%29)

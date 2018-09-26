@@ -18,7 +18,7 @@ Returns or sets the command string for the specified data source.  **Variant** R
 
  _expression_. `CommandText`
 
- _expression_ A variable that represents a[WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
+ _expression_ A variable that represents a [WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
 
 
 ## Property value

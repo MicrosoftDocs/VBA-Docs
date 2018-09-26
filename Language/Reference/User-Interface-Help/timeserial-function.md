@@ -23,7 +23,7 @@ The  **TimeSerial** function syntax has these[named arguments](../../Glossary/vb
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_hour_**|Required;  **Variant** (**Integer**). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
+|**_hour_**|Required;  **Variant** (**Integer**). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
 |**_minute_**|Required;  **Variant** (**Integer**). Any numeric expression.|
 |**_second_**|Required;  **Variant** (**Integer**). Any numeric expression.|
 

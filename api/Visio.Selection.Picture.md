@@ -42,7 +42,7 @@ Currently, only in-process solutions can use the  **Picture** property because t
 
 
 
-1. In the  **Code** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
+1. In the  **Code** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
     
 2. On the  **View** menu, click **Object Browser**.
     
