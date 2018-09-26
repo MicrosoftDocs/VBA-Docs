@@ -108,8 +108,6 @@
 ##### [Create alternating row colors on a report](../access/Concepts/Reports/create-alternating-row-colors-on-a-report.md)
 ##### [Set form, report, and control properties in code](../access/Concepts/Reports/set-form-report-and-control-properties-in-code.md)
 #### Settings
-##### [ActiveX Data Objects (ADO)](../access/Concepts/Settings/activex-data-objects-ado.md)
-##### [Data Access Objects (DAO)](../access/Concepts/Settings/data-access-objects-dao.md)
 ##### [Set a reference to a Visual Basic project in another Access database or project](../access/Concepts/Settings/set-a-reference-to-a-visual-basic-project-in-another-microsoft-access-database-o.md)
 ##### [Set form, report, and control properties in Visual Basic](../access/Concepts/Settings/set-form-report-and-control-properties-in-visual-basic.md)
 ##### [Set options from Visual Basic](../access/Concepts/Settings/set-options-from-visual-basic.md)
