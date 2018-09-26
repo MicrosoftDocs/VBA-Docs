@@ -1,5 +1,5 @@
 ---
-title: References.ItemAdded Event (Access)
+title: References.ItemAdded event (Access)
 keywords: vbaac10.chm12646
 f1_keywords:
 - vbaac10.chm12646
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# References.ItemAdded Event (Access)
+# References.ItemAdded event (Access)
 
 The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.LostFocus Event (Access)
+title: ComboBox.LostFocus event (Access)
 keywords: vbaac10.chm14218
 f1_keywords:
 - vbaac10.chm14218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.LostFocus Event (Access)
+# ComboBox.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

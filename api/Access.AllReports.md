@@ -1,5 +1,5 @@
 ---
-title: AllReports Object (Access)
+title: AllReports object (Access)
 keywords: vbaac10.chm12684
 f1_keywords:
 - vbaac10.chm12684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllReports Object (Access)
+# AllReports object (Access)
 
 The  **AllReports** collection contains an **[AccessObject](Access.AccessObject.md)** for each report in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 

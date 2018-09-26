@@ -1,5 +1,5 @@
 ---
-title: Report.MouseUp Event (Access)
+title: Report.MouseUp event (Access)
 keywords: vbaac10.chm13893
 f1_keywords:
 - vbaac10.chm13893
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MouseUp Event (Access)
+# Report.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

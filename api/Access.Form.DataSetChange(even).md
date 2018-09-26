@@ -1,5 +1,5 @@
 ---
-title: Form.DataSetChange Event (Access)
+title: Form.DataSetChange event (Access)
 keywords: vbaac10.chm13677
 f1_keywords:
 - vbaac10.chm13677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DataSetChange Event (Access)
+# Form.DataSetChange event (Access)
 
 Occurs whenever the specified PivotTable view is data-bound and the data set changes — for example, when a filter operation takes place. This event also occurs when initial data is available from the data source.
 

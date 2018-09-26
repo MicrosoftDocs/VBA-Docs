@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.MouseMove Event (Access)
+title: ToggleButton.MouseMove event (Access)
 keywords: vbaac10.chm14156
 f1_keywords:
 - vbaac10.chm14156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.MouseMove Event (Access)
+# ToggleButton.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

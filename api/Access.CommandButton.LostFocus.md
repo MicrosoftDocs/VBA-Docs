@@ -1,5 +1,5 @@
 ---
-title: CommandButton.LostFocus Event (Access)
+title: CommandButton.LostFocus event (Access)
 keywords: vbaac10.chm14081
 f1_keywords:
 - vbaac10.chm14081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.LostFocus Event (Access)
+# CommandButton.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.MouseUp Event (Access)
+title: WebBrowserControl.MouseUp event (Access)
 keywords: vbaac10.chm143136
 f1_keywords:
 - vbaac10.chm143136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.MouseUp Event (Access)
+# WebBrowserControl.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

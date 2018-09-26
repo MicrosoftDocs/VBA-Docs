@@ -1,5 +1,5 @@
 ---
-title: ListBox.Click Event (Access)
+title: ListBox.Click event (Access)
 keywords: vbaac10.chm14177
 f1_keywords:
 - vbaac10.chm14177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Click Event (Access)
+# ListBox.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

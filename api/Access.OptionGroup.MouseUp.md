@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.MouseUp Event (Access)
+title: OptionGroup.MouseUp event (Access)
 keywords: vbaac10.chm14193
 f1_keywords:
 - vbaac10.chm14193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.MouseUp Event (Access)
+# OptionGroup.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

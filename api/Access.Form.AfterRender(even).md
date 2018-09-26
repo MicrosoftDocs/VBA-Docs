@@ -1,5 +1,5 @@
 ---
-title: Form.AfterRender Event (Access)
+title: Form.AfterRender event (Access)
 keywords: vbaac10.chm13680
 f1_keywords:
 - vbaac10.chm13680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterRender Event (Access)
+# Form.AfterRender event (Access)
 
 Occurs after the object represented by the  _chartObject_ argument has been rendered.
 

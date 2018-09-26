@@ -1,5 +1,5 @@
 ---
-title: TextBox Object (Access)
+title: TextBox object (Access)
 keywords: vbaac10.chm11201
 f1_keywords:
 - vbaac10.chm11201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox Object (Access)
+# TextBox object (Access)
 
 This object represents a text box control on a form or report. Text boxes are used to either display data from a record source, or to display the results of a calculation, or to accept input from a user.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.MouseDown Event (Access)
+title: NavigationButton.MouseDown event (Access)
 keywords: vbaac10.chm14083
 f1_keywords:
 - vbaac10.chm14083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.MouseDown Event (Access)
+# NavigationButton.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

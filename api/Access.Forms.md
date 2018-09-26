@@ -1,5 +1,5 @@
 ---
-title: Forms Object (Access)
+title: Forms object (Access)
 keywords: vbaac10.chm12355
 f1_keywords:
 - vbaac10.chm12355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Forms Object (Access)
+# Forms object (Access)
 
 The  **Forms** collection contains all of the currently open forms in a Microsoft Access database.
 

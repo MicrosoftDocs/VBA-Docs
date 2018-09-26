@@ -1,5 +1,5 @@
 ---
-title: Operation Object (Access)
+title: Operation object (Access)
 keywords: vbaac10.chm14574
 f1_keywords:
 - vbaac10.chm14574
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Operation Object (Access)
+# Operation object (Access)
 
 Represents an operation defined for an [Entity](Access.Entity.md).
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.AfterUpdate Event (Access)
+title: NavigationControl.AfterUpdate event (Access)
 keywords: vbaac10.chm14195
 f1_keywords:
 - vbaac10.chm14195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.AfterUpdate Event (Access)
+# NavigationControl.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 

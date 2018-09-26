@@ -1,5 +1,5 @@
 ---
-title: References.ItemRemoved Event (Access)
+title: References.ItemRemoved event (Access)
 keywords: vbaac10.chm12647
 f1_keywords:
 - vbaac10.chm12647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# References.ItemRemoved Event (Access)
+# References.ItemRemoved event (Access)
 
 The  **ItemRemoved** event occurs when a reference is removed from the project.
 

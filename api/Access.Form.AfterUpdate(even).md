@@ -1,5 +1,5 @@
 ---
-title: Form.AfterUpdate Event (Access)
+title: Form.AfterUpdate event (Access)
 keywords: vbaac10.chm13638
 f1_keywords:
 - vbaac10.chm13638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterUpdate Event (Access)
+# Form.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 

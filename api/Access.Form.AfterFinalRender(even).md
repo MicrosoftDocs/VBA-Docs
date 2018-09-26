@@ -1,5 +1,5 @@
 ---
-title: Form.AfterFinalRender Event (Access)
+title: Form.AfterFinalRender event (Access)
 keywords: vbaac10.chm13681
 f1_keywords:
 - vbaac10.chm13681
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterFinalRender Event (Access)
+# Form.AfterFinalRender event (Access)
 
 Occurs after all elements in the specified PivotChart view have been rendered.
 

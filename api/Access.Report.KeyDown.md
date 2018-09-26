@@ -1,5 +1,5 @@
 ---
-title: Report.KeyDown Event (Access)
+title: Report.KeyDown event (Access)
 keywords: vbaac10.chm13894
 f1_keywords:
 - vbaac10.chm13894
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.KeyDown Event (Access)
+# Report.KeyDown event (Access)
 
 The  **KeyDown** event occurs when the user presses a key while a report has the focus. This event also occurs if you send a keystroke to a report by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

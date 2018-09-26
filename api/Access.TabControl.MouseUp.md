@@ -1,5 +1,5 @@
 ---
-title: TabControl.MouseUp Event (Access)
+title: TabControl.MouseUp event (Access)
 keywords: vbaac10.chm14274
 f1_keywords:
 - vbaac10.chm14274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.MouseUp Event (Access)
+# TabControl.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.LostFocus Event (Access)
+title: ToggleButton.LostFocus event (Access)
 keywords: vbaac10.chm14153
 f1_keywords:
 - vbaac10.chm14153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.LostFocus Event (Access)
+# ToggleButton.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

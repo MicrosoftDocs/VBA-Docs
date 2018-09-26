@@ -1,5 +1,5 @@
 ---
-title: SharedResources Object (Access)
+title: SharedResources object (Access)
 keywords: vbaac10.chm14648
 f1_keywords:
 - vbaac10.chm14648
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResources Object (Access)
+# SharedResources object (Access)
 
 Represents the collection of shared resources in the database.
 

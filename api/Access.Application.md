@@ -1,5 +1,5 @@
 ---
-title: Application Object (Access)
+title: Application object (Access)
 keywords: vbaac10.chm12627
 f1_keywords:
 - vbaac10.chm12627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application Object (Access)
+# Application object (Access)
 
 The  **Application** object refers to the active Microsoft Access application.
 

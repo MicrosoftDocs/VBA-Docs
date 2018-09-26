@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.LostFocus Event (Access)
+title: NavigationButton.LostFocus event (Access)
 keywords: vbaac10.chm14081
 f1_keywords:
 - vbaac10.chm14081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.LostFocus Event (Access)
+# NavigationButton.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

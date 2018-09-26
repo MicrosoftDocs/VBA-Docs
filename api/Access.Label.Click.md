@@ -1,5 +1,5 @@
 ---
-title: Label.Click Event (Access)
+title: Label.Click event (Access)
 keywords: vbaac10.chm14284
 f1_keywords:
 - vbaac10.chm14284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Click Event (Access)
+# Label.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

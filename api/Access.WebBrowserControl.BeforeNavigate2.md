@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BeforeNavigate2 Event (Access)
+title: WebBrowserControl.BeforeNavigate2 event (Access)
 keywords: vbaac10.chm143140
 f1_keywords:
 - vbaac10.chm143140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BeforeNavigate2 Event (Access)
+# WebBrowserControl.BeforeNavigate2 event (Access)
 
 Occurs before navigation occurs in the given  **WebBrowserControl**.
 

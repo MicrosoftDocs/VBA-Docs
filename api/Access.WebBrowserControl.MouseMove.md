@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.MouseMove Event (Access)
+title: WebBrowserControl.MouseMove event (Access)
 keywords: vbaac10.chm143135
 f1_keywords:
 - vbaac10.chm143135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.MouseMove Event (Access)
+# WebBrowserControl.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

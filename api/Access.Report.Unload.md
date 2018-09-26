@@ -1,5 +1,5 @@
 ---
-title: Report.Unload Event (Access)
+title: Report.Unload event (Access)
 keywords: vbaac10.chm13886
 f1_keywords:
 - vbaac10.chm13886
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Unload Event (Access)
+# Report.Unload event (Access)
 
 The  **Unload** event occurs after a report is closed but before it's removed from the screen.
 

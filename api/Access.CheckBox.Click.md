@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Click Event (Access)
+title: CheckBox.Click event (Access)
 keywords: vbaac10.chm14119
 f1_keywords:
 - vbaac10.chm14119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Click Event (Access)
+# CheckBox.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

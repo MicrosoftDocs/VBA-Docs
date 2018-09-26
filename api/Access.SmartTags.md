@@ -1,5 +1,5 @@
 ---
-title: SmartTags Object (Access)
+title: SmartTags object (Access)
 keywords: vbaac10.chm13280
 f1_keywords:
 - vbaac10.chm13280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTags Object (Access)
+# SmartTags object (Access)
 
 Represents the collection of smart tags for a control on a form, report, or data access page.
 

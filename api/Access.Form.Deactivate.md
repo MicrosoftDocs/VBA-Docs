@@ -1,5 +1,5 @@
 ---
-title: Form.Deactivate Event (Access)
+title: Form.Deactivate event (Access)
 keywords: vbaac10.chm13647
 f1_keywords:
 - vbaac10.chm13647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Deactivate Event (Access)
+# Form.Deactivate event (Access)
 
 The  **Deactivate** event occurs when a form loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.Current Event (Access)
+title: Report.Current event (Access)
 keywords: vbaac10.chm13883
 f1_keywords:
 - vbaac10.chm13883
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Current Event (Access)
+# Report.Current event (Access)
 
 Occurs when the focus moves to a record, making it the current record, or when the report is refreshed or requeried.
 

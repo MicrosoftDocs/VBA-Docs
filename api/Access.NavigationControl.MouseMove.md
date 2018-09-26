@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.MouseMove Event (Access)
+title: NavigationControl.MouseMove event (Access)
 keywords: vbaac10.chm14204
 f1_keywords:
 - vbaac10.chm14204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.MouseMove Event (Access)
+# NavigationControl.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

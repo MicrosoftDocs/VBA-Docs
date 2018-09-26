@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame Object (Access)
+title: ObjectFrame object (Access)
 keywords: vbaac10.chm11665
 f1_keywords:
 - vbaac10.chm11665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame Object (Access)
+# ObjectFrame object (Access)
 
 This object corresponds to an unbound object frame. The unbound object frame control displays a picture, chart, or any OLE object not stored in a table.
 

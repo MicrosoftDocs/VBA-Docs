@@ -1,5 +1,5 @@
 ---
-title: AllForms Object (Access)
+title: AllForms object (Access)
 keywords: vbaac10.chm12683
 f1_keywords:
 - vbaac10.chm12683
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllForms Object (Access)
+# AllForms object (Access)
 
 The  **AllForms** collection contains an **[AccessObject](Access.AccessObject.md)** object for each form in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 

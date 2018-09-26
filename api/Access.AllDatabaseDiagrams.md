@@ -1,5 +1,5 @@
 ---
-title: AllDatabaseDiagrams Object (Access)
+title: AllDatabaseDiagrams object (Access)
 keywords: vbaac10.chm12692
 f1_keywords:
 - vbaac10.chm12692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllDatabaseDiagrams Object (Access)
+# AllDatabaseDiagrams object (Access)
 
 The  **AllDatabaseDiagrams** collection contains an **[AccessObject](Access.AccessObject.md)** for each database diagram in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

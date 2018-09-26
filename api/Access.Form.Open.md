@@ -1,5 +1,5 @@
 ---
-title: Form.Open Event (Access)
+title: Form.Open event (Access)
 keywords: vbaac10.chm13642
 f1_keywords:
 - vbaac10.chm13642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Open Event (Access)
+# Form.Open event (Access)
 
 The  **Open** event occurs when a form is opened, but before the first record is displayed.
 

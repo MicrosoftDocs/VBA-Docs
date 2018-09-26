@@ -1,5 +1,5 @@
 ---
-title: ListBox.AfterUpdate Event (Access)
+title: ListBox.AfterUpdate event (Access)
 keywords: vbaac10.chm14172
 f1_keywords:
 - vbaac10.chm14172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.AfterUpdate Event (Access)
+# ListBox.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 

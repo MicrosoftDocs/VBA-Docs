@@ -1,5 +1,5 @@
 ---
-title: ListBox.MouseDown Event (Access)
+title: ListBox.MouseDown event (Access)
 keywords: vbaac10.chm14179
 f1_keywords:
 - vbaac10.chm14179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.MouseDown Event (Access)
+# ListBox.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

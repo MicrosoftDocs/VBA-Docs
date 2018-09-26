@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Change Event (Access)
+title: WebBrowserControl.Change event (Access)
 keywords: vbaac10.chm143129
 f1_keywords:
 - vbaac10.chm143129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Change Event (Access)
+# WebBrowserControl.Change event (Access)
 
 The  **Change** event occurs when the contents of the specified control changes.
 

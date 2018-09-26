@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Dirty Event (Access)
+title: ComboBox.Dirty event (Access)
 keywords: vbaac10.chm14227
 f1_keywords:
 - vbaac10.chm14227
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Dirty Event (Access)
+# ComboBox.Dirty event (Access)
 
 The Dirty event occurs when the contents of the specified control changes.
 

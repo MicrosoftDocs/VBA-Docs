@@ -1,5 +1,5 @@
 ---
-title: CheckBox.LostFocus Event (Access)
+title: CheckBox.LostFocus event (Access)
 keywords: vbaac10.chm14125
 f1_keywords:
 - vbaac10.chm14125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.LostFocus Event (Access)
+# CheckBox.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

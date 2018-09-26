@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.MouseDown Event (Access)
+title: BoundObjectFrame.MouseDown event (Access)
 keywords: vbaac10.chm14098
 f1_keywords:
 - vbaac10.chm14098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.MouseDown Event (Access)
+# BoundObjectFrame.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

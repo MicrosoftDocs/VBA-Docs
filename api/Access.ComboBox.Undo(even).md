@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Undo Event (Access)
+title: ComboBox.Undo event (Access)
 keywords: vbaac10.chm14228
 f1_keywords:
 - vbaac10.chm14228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Undo Event (Access)
+# ComboBox.Undo event (Access)
 
 Occurs when the user undoes a change.
 

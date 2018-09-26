@@ -1,5 +1,5 @@
 ---
-title: Attachment.MouseMove Event (Access)
+title: Attachment.MouseMove event (Access)
 keywords: vbaac10.chm14030
 f1_keywords:
 - vbaac10.chm14030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.MouseMove Event (Access)
+# Attachment.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

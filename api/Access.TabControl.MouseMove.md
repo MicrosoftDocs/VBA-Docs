@@ -1,5 +1,5 @@
 ---
-title: TabControl.MouseMove Event (Access)
+title: TabControl.MouseMove event (Access)
 keywords: vbaac10.chm14273
 f1_keywords:
 - vbaac10.chm14273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.MouseMove Event (Access)
+# TabControl.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

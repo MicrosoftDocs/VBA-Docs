@@ -1,5 +1,5 @@
 ---
-title: OptionButton.MouseUp Event (Access)
+title: OptionButton.MouseUp event (Access)
 keywords: vbaac10.chm14143
 f1_keywords:
 - vbaac10.chm14143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.MouseUp Event (Access)
+# OptionButton.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

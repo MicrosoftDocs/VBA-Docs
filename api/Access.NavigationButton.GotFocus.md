@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GotFocus Event (Access)
+title: NavigationButton.GotFocus event (Access)
 keywords: vbaac10.chm14080
 f1_keywords:
 - vbaac10.chm14080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GotFocus Event (Access)
+# NavigationButton.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

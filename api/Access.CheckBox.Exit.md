@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Exit Event (Access)
+title: CheckBox.Exit event (Access)
 keywords: vbaac10.chm14123
 f1_keywords:
 - vbaac10.chm14123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Exit Event (Access)
+# CheckBox.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 

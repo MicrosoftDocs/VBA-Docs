@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.MouseUp Event (Access)
+title: NavigationButton.MouseUp event (Access)
 keywords: vbaac10.chm14085
 f1_keywords:
 - vbaac10.chm14085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.MouseUp Event (Access)
+# NavigationButton.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

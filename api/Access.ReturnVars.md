@@ -1,5 +1,5 @@
 ---
-title: ReturnVars Object (Access)
+title: ReturnVars object (Access)
 keywords: vbaac10.chm14688
 f1_keywords:
 - vbaac10.chm14688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVars Object (Access)
+# ReturnVars object (Access)
 
 Represents the collection of  **[ReturnVar](Access.ReturnVar.md)** objects.
 

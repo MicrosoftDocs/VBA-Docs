@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.MouseDown Event (Access)
+title: ToggleButton.MouseDown event (Access)
 keywords: vbaac10.chm14155
 f1_keywords:
 - vbaac10.chm14155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.MouseDown Event (Access)
+# ToggleButton.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.CommandBeforeExecute Event (Access)
+title: Form.CommandBeforeExecute event (Access)
 keywords: vbaac10.chm13673
 f1_keywords:
 - vbaac10.chm13673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandBeforeExecute Event (Access)
+# Form.CommandBeforeExecute event (Access)
 
 Occurs before a specified command is executed. Use this event when you want to impose certain restrictions before a particular command is executed.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.MouseUp Event (Access)
+title: TextBox.MouseUp event (Access)
 keywords: vbaac10.chm14205
 f1_keywords:
 - vbaac10.chm14205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.MouseUp Event (Access)
+# TextBox.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Change Event (Access)
+title: NavigationControl.Change event (Access)
 keywords: vbaac10.chm14196
 f1_keywords:
 - vbaac10.chm14196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Change Event (Access)
+# NavigationControl.Change event (Access)
 
 The  **Change** event occurs when the contents of the specified control changes.
 

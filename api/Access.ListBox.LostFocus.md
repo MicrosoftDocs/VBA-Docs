@@ -1,5 +1,5 @@
 ---
-title: ListBox.LostFocus Event (Access)
+title: ListBox.LostFocus event (Access)
 keywords: vbaac10.chm14176
 f1_keywords:
 - vbaac10.chm14176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.LostFocus Event (Access)
+# ListBox.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

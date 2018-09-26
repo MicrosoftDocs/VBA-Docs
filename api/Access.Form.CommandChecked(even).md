@@ -1,5 +1,5 @@
 ---
-title: Form.CommandChecked Event (Access)
+title: Form.CommandChecked event (Access)
 keywords: vbaac10.chm13674
 f1_keywords:
 - vbaac10.chm13674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandChecked Event (Access)
+# Form.CommandChecked event (Access)
 
 Occurs when the specified Microsoft Office Web Component determines whether the specified command is checked.
 

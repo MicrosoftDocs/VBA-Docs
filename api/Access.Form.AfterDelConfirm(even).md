@@ -1,5 +1,5 @@
 ---
-title: Form.AfterDelConfirm Event (Access)
+title: Form.AfterDelConfirm event (Access)
 keywords: vbaac10.chm13641
 f1_keywords:
 - vbaac10.chm13641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterDelConfirm Event (Access)
+# Form.AfterDelConfirm event (Access)
 
 The  **AfterDelConfirm** event occurs after the user confirms the deletions and the records are actually deleted or when the deletions are canceled.
 

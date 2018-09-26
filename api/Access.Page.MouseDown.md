@@ -1,5 +1,5 @@
 ---
-title: Page.MouseDown Event (Access)
+title: Page.MouseDown event (Access)
 keywords: vbaac10.chm14281
 f1_keywords:
 - vbaac10.chm14281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.MouseDown Event (Access)
+# Page.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

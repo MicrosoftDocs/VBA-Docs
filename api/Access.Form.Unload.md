@@ -1,5 +1,5 @@
 ---
-title: Form.Unload Event (Access)
+title: Form.Unload event (Access)
 keywords: vbaac10.chm13644
 f1_keywords:
 - vbaac10.chm13644
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Unload Event (Access)
+# Form.Unload event (Access)
 
 The  **Unload** event occurs after a form is closed but before it's removed from the screen. When the form is reloaded, Microsoft Access redisplays the form and reinitializes the contents of all its controls.
 

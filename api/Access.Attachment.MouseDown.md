@@ -1,5 +1,5 @@
 ---
-title: Attachment.MouseDown Event (Access)
+title: Attachment.MouseDown event (Access)
 keywords: vbaac10.chm14029
 f1_keywords:
 - vbaac10.chm14029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.MouseDown Event (Access)
+# Attachment.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

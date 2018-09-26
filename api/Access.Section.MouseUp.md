@@ -1,5 +1,5 @@
 ---
-title: Section.MouseUp Event (Access)
+title: Section.MouseUp event (Access)
 keywords: vbaac10.chm14237
 f1_keywords:
 - vbaac10.chm14237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.MouseUp Event (Access)
+# Section.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

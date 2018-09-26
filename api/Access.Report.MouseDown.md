@@ -1,5 +1,5 @@
 ---
-title: Report.MouseDown Event (Access)
+title: Report.MouseDown event (Access)
 keywords: vbaac10.chm13891
 f1_keywords:
 - vbaac10.chm13891
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MouseDown Event (Access)
+# Report.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

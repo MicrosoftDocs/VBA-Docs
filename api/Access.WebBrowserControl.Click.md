@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Click Event (Access)
+title: WebBrowserControl.Click event (Access)
 keywords: vbaac10.chm143132
 f1_keywords:
 - vbaac10.chm143132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Click Event (Access)
+# WebBrowserControl.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

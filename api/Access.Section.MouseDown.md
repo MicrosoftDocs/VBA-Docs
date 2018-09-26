@@ -1,5 +1,5 @@
 ---
-title: Section.MouseDown Event (Access)
+title: Section.MouseDown event (Access)
 keywords: vbaac10.chm14235
 f1_keywords:
 - vbaac10.chm14235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.MouseDown Event (Access)
+# Section.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

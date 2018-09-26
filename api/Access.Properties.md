@@ -1,5 +1,5 @@
 ---
-title: Properties Object (Access)
+title: Properties object (Access)
 keywords: vbaac10.chm10046
 f1_keywords:
 - vbaac10.chm10046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Properties Object (Access)
+# Properties object (Access)
 
 The  **Properties** collection contains all of the built-in properties in an instance of an open form, report, or control. These properties uniquely characterize that instance of the object.
 

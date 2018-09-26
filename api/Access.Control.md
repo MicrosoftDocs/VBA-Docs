@@ -1,5 +1,5 @@
 ---
-title: Control Object (Access)
+title: Control object (Access)
 keywords: vbaac10.chm10174
 f1_keywords:
 - vbaac10.chm10174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Control Object (Access)
+# Control object (Access)
 
 The  **Control** object represents a control on a form, report, or section, within another control, or attached to another control.
 

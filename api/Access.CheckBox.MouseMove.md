@@ -1,5 +1,5 @@
 ---
-title: CheckBox.MouseMove Event (Access)
+title: CheckBox.MouseMove event (Access)
 keywords: vbaac10.chm14128
 f1_keywords:
 - vbaac10.chm14128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.MouseMove Event (Access)
+# CheckBox.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

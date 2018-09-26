@@ -1,5 +1,5 @@
 ---
-title: Report.LostFocus Event (Access)
+title: Report.LostFocus event (Access)
 keywords: vbaac10.chm13888
 f1_keywords:
 - vbaac10.chm13888
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.LostFocus Event (Access)
+# Report.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

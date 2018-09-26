@@ -1,5 +1,5 @@
 ---
-title: Page.MouseMove Event (Access)
+title: Page.MouseMove event (Access)
 keywords: vbaac10.chm14282
 f1_keywords:
 - vbaac10.chm14282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.MouseMove Event (Access)
+# Page.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

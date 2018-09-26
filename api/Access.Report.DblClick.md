@@ -1,5 +1,5 @@
 ---
-title: Report.DblClick Event (Access)
+title: Report.DblClick event (Access)
 keywords: vbaac10.chm13890
 f1_keywords:
 - vbaac10.chm13890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DblClick Event (Access)
+# Report.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an report within the double-click time limit of the system.
 

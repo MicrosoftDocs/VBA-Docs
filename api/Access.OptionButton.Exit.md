@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Exit Event (Access)
+title: OptionButton.Exit event (Access)
 keywords: vbaac10.chm14137
 f1_keywords:
 - vbaac10.chm14137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Exit Event (Access)
+# OptionButton.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 

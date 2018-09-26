@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GotFocus Event (Access)
+title: OptionButton.GotFocus event (Access)
 keywords: vbaac10.chm14138
 f1_keywords:
 - vbaac10.chm14138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GotFocus Event (Access)
+# OptionButton.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

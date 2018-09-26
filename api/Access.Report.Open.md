@@ -1,5 +1,5 @@
 ---
-title: Report.Open Event (Access)
+title: Report.Open event (Access)
 keywords: vbaac10.chm13876
 f1_keywords:
 - vbaac10.chm13876
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# Report.Open Event (Access)
+# Report.Open event (Access)
 
 The **Open** occurs before a report is previewed or printed.
 

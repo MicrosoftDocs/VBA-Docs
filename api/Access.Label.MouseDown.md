@@ -1,5 +1,5 @@
 ---
-title: Label.MouseDown Event (Access)
+title: Label.MouseDown event (Access)
 keywords: vbaac10.chm14286
 f1_keywords:
 - vbaac10.chm14286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.MouseDown Event (Access)
+# Label.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

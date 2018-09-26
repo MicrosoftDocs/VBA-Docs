@@ -1,5 +1,5 @@
 ---
-title: Report.MouseWheel Event (Access)
+title: Report.MouseWheel event (Access)
 keywords: vbaac10.chm13900
 f1_keywords:
 - vbaac10.chm13900
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MouseWheel Event (Access)
+# Report.MouseWheel event (Access)
 
 Occurs when the user rolls the mouse wheel in Report view or Layout view.
 

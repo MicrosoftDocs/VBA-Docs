@@ -1,5 +1,5 @@
 ---
-title: Report.KeyUp Event (Access)
+title: Report.KeyUp event (Access)
 keywords: vbaac10.chm13896
 f1_keywords:
 - vbaac10.chm13896
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.KeyUp Event (Access)
+# Report.KeyUp event (Access)
 
 The  **KeyUp** event occurs when the user releases a key while a report has the focus. This event also occurs if you send a keystroke to a report by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

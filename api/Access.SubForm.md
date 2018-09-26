@@ -1,5 +1,5 @@
 ---
-title: SubForm Object (Access)
+title: SubForm object (Access)
 keywords: vbaac10.chm11985
 f1_keywords:
 - vbaac10.chm11985
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm Object (Access)
+# SubForm object (Access)
 
 This object corresponds to a subform control. The subform control embeds a form in a form.
 

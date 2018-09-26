@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeUpdate Event (Access)
+title: Form.BeforeUpdate event (Access)
 keywords: vbaac10.chm13637
 f1_keywords:
 - vbaac10.chm13637
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# Form.BeforeUpdate Event (Access)
+# Form.BeforeUpdate event (Access)
 
 The **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

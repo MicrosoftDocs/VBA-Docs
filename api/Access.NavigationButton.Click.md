@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Click Event (Access)
+title: NavigationButton.Click event (Access)
 keywords: vbaac10.chm14077
 f1_keywords:
 - vbaac10.chm14077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Click Event (Access)
+# NavigationButton.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

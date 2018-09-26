@@ -1,5 +1,5 @@
 ---
-title: Modules Object (Access)
+title: Modules object (Access)
 keywords: vbaac10.chm12289
 f1_keywords:
 - vbaac10.chm12289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Modules Object (Access)
+# Modules object (Access)
 
 The  **Modules** collection contains all open standard modules and class modules in a Microsoft Access database.
 

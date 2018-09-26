@@ -1,5 +1,5 @@
 ---
-title: Attachment.Dirty Event (Access)
+title: Attachment.Dirty event (Access)
 keywords: vbaac10.chm14023
 f1_keywords:
 - vbaac10.chm14023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Dirty Event (Access)
+# Attachment.Dirty event (Access)
 
 The  **Dirty** event occurs when the content of the specified control changes.
 

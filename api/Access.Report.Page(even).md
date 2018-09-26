@@ -1,5 +1,5 @@
 ---
-title: Report.Page Event (Access)
+title: Report.Page event (Access)
 keywords: vbaac10.chm13882
 f1_keywords:
 - vbaac10.chm13882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Page Event (Access)
+# Report.Page event (Access)
 
 The  **Page** event occurs after Microsoft Access formats a page of a report for printing, but before the page is printed. You can use this event to draw a border around the page, or add other graphic elements to the page.
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Enter Event (Access)
+title: ToggleButton.Enter event (Access)
 keywords: vbaac10.chm14150
 f1_keywords:
 - vbaac10.chm14150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Enter Event (Access)
+# ToggleButton.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 

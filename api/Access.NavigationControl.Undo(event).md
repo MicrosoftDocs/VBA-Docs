@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Undo Event (Access)
+title: NavigationControl.Undo event (Access)
 keywords: vbaac10.chm14210
 f1_keywords:
 - vbaac10.chm14210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Undo Event (Access)
+# NavigationControl.Undo event (Access)
 
 Occurs when the user undoes a change.
 

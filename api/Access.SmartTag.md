@@ -1,5 +1,5 @@
 ---
-title: SmartTag Object (Access)
+title: SmartTag object (Access)
 keywords: vbaac10.chm13316
 f1_keywords:
 - vbaac10.chm13316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag Object (Access)
+# SmartTag object (Access)
 
 Represents a smart tag that has been added to a control on a form or report. The  **SmartTag** object is a member of the **[SmartTags](Access.SmartTags.md)** collection.
 

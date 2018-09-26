@@ -1,5 +1,5 @@
 ---
-title: Attachment.AfterUpdate Event (Access)
+title: Attachment.AfterUpdate event (Access)
 keywords: vbaac10.chm14020
 f1_keywords:
 - vbaac10.chm14020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.AfterUpdate Event (Access)
+# Attachment.AfterUpdate event (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 

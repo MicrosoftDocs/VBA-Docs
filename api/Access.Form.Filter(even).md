@@ -1,5 +1,5 @@
 ---
-title: Form.Filter Event (Access)
+title: Form.Filter event (Access)
 keywords: vbaac10.chm13660
 f1_keywords:
 - vbaac10.chm13660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Filter Event (Access)
+# Form.Filter event (Access)
 
 Occurs when the user opens a filter window by clicking  **Filter by Form**,  **Advanced Filter/Sort**, or  **Server Filter By Form**.
 

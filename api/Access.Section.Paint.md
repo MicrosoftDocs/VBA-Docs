@@ -1,5 +1,5 @@
 ---
-title: Section.Paint Event (Access)
+title: Section.Paint event (Access)
 keywords: vbaac10.chm14238
 f1_keywords:
 - vbaac10.chm14238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Paint Event (Access)
+# Section.Paint event (Access)
 
 Occurs when the specified section is redrawn.
 

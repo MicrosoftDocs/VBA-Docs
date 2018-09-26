@@ -1,5 +1,5 @@
 ---
-title: CustomControl.LostFocus Event (Access)
+title: CustomControl.LostFocus event (Access)
 keywords: vbaac10.chm14118
 f1_keywords:
 - vbaac10.chm14118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.LostFocus Event (Access)
+# CustomControl.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 

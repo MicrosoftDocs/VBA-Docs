@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Updated Event (Access)
+title: BoundObjectFrame.Updated event (Access)
 keywords: vbaac10.chm14089
 f1_keywords:
 - vbaac10.chm14089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Updated Event (Access)
+# BoundObjectFrame.Updated event (Access)
 
 The  **Updated** event occurs when an OLE object's data has been modified.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.MouseMove Event (Access)
+title: Form.MouseMove event (Access)
 keywords: vbaac10.chm13653
 f1_keywords:
 - vbaac10.chm13653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseMove Event (Access)
+# Form.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

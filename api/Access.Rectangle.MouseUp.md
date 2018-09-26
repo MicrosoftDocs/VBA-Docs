@@ -1,5 +1,5 @@
 ---
-title: Rectangle.MouseUp Event (Access)
+title: Rectangle.MouseUp event (Access)
 keywords: vbaac10.chm14165
 f1_keywords:
 - vbaac10.chm14165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.MouseUp Event (Access)
+# Rectangle.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

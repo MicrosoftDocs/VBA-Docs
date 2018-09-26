@@ -1,5 +1,5 @@
 ---
-title: Report.Filter Event (Access)
+title: Report.Filter event (Access)
 keywords: vbaac10.chm13898
 f1_keywords:
 - vbaac10.chm13898
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Filter Event (Access)
+# Report.Filter event (Access)
 
 Occurs when the user opens a filter window by clicking  **Advanced Filter/Sort**.
 

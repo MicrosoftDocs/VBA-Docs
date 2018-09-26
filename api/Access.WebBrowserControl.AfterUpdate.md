@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.AfterUpdate Event (Access)
+title: WebBrowserControl.AfterUpdate event (Access)
 keywords: vbaac10.chm143125
 f1_keywords:
 - vbaac10.chm143125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.AfterUpdate Event (Access)
+# WebBrowserControl.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 

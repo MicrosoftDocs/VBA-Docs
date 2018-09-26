@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ProgressChange Event (Access)
+title: WebBrowserControl.ProgressChange event (Access)
 keywords: vbaac10.chm143142
 f1_keywords:
 - vbaac10.chm143142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ProgressChange Event (Access)
+# WebBrowserControl.ProgressChange event (Access)
 
 Occurs when the progress of a download operation is updated.
 

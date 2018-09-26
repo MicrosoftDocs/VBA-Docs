@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.MouseMove Event (Access)
+title: BoundObjectFrame.MouseMove event (Access)
 keywords: vbaac10.chm14099
 f1_keywords:
 - vbaac10.chm14099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.MouseMove Event (Access)
+# BoundObjectFrame.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

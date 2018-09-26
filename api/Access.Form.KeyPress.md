@@ -1,5 +1,5 @@
 ---
-title: Form.KeyPress Event (Access)
+title: Form.KeyPress event (Access)
 keywords: vbaac10.chm13656
 f1_keywords:
 - vbaac10.chm13656
@@ -11,7 +11,7 @@ ms.date: 11/24/2017
 ---
 
 
-# Form.KeyPress Event (Access)
+# Form.KeyPress event (Access)
 
 The **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

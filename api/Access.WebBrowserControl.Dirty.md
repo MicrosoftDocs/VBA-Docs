@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Dirty Event (Access)
+title: WebBrowserControl.Dirty event (Access)
 keywords: vbaac10.chm143128
 f1_keywords:
 - vbaac10.chm143128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Dirty Event (Access)
+# WebBrowserControl.Dirty event (Access)
 
 The  **Dirty** event occurs when the contents of the specified control changes.
 

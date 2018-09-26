@@ -1,5 +1,5 @@
 ---
-title: Report.KeyPress Event (Access)
+title: Report.KeyPress event (Access)
 keywords: vbaac10.chm13895
 f1_keywords:
 - vbaac10.chm13895
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.KeyPress Event (Access)
+# Report.KeyPress event (Access)
 
 The  **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a report has the focus. This event also occurs if you send an ANSI keystroke to a report by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.NavigateError Event (Access)
+title: WebBrowserControl.NavigateError event (Access)
 keywords: vbaac10.chm143143
 f1_keywords:
 - vbaac10.chm143143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.NavigateError Event (Access)
+# WebBrowserControl.NavigateError event (Access)
 
 Occurs when an error occurs during navigation.
 

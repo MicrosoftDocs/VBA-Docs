@@ -1,5 +1,5 @@
 ---
-title: Page.MouseUp Event (Access)
+title: Page.MouseUp event (Access)
 keywords: vbaac10.chm14283
 f1_keywords:
 - vbaac10.chm14283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.MouseUp Event (Access)
+# Page.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecification Object (Access)
+title: ImportExportSpecification object (Access)
 keywords: vbaac10.chm13327
 f1_keywords:
 - vbaac10.chm13327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecification Object (Access)
+# ImportExportSpecification object (Access)
 
 Represents a saved import or export operation.
 

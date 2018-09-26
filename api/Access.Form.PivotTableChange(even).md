@@ -1,5 +1,5 @@
 ---
-title: Form.PivotTableChange Event (Access)
+title: Form.PivotTableChange event (Access)
 keywords: vbaac10.chm13669
 f1_keywords:
 - vbaac10.chm13669
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PivotTableChange Event (Access)
+# Form.PivotTableChange event (Access)
 
 Occurs whenever the specified PivotTable view field, field set, or total is added or deleted.
 

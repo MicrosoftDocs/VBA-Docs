@@ -1,5 +1,5 @@
 ---
-title: Form.ViewChange Event (Access)
+title: Form.ViewChange event (Access)
 keywords: vbaac10.chm13684
 f1_keywords:
 - vbaac10.chm13684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ViewChange Event (Access)
+# Form.ViewChange event (Access)
 
 Occurs whenever the specified PivotChart view or PivotTable view is redrawn.
 

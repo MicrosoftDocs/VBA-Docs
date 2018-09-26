@@ -1,5 +1,5 @@
 ---
-title: Report.NoData Event (Access)
+title: Report.NoData event (Access)
 keywords: vbaac10.chm13881
 f1_keywords:
 - vbaac10.chm13881
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# Report.NoData Event (Access)
+# Report.NoData event (Access)
 
 The **NoData** event occurs after Microsoft Access formats a report for printing that has no data (the report is bound to an empty recordset), but before the report is printed. You can use this event to cancel printing of a blank report.
 

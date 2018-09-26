@@ -1,5 +1,5 @@
 ---
-title: TextBox.DblClick Event (Access)
+title: TextBox.DblClick event (Access)
 keywords: vbaac10.chm14202
 f1_keywords:
 - vbaac10.chm14202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.DblClick Event (Access)
+# TextBox.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 

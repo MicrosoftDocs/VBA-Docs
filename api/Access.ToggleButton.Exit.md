@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Exit Event (Access)
+title: ToggleButton.Exit event (Access)
 keywords: vbaac10.chm14151
 f1_keywords:
 - vbaac10.chm14151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Exit Event (Access)
+# ToggleButton.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 

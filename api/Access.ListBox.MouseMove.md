@@ -1,5 +1,5 @@
 ---
-title: ListBox.MouseMove Event (Access)
+title: ListBox.MouseMove event (Access)
 keywords: vbaac10.chm14180
 f1_keywords:
 - vbaac10.chm14180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.MouseMove Event (Access)
+# ListBox.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

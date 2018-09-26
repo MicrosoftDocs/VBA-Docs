@@ -1,5 +1,5 @@
 ---
-title: ToggleButton Object (Access)
+title: ToggleButton object (Access)
 keywords: vbaac10.chm11810
 f1_keywords:
 - vbaac10.chm11810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton Object (Access)
+# ToggleButton object (Access)
 
 This object corresponds to a toggle button. A toggle button on a form is a stand-alone control used to display a Yes/No value from an underlying record source.
 

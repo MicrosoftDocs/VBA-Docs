@@ -1,5 +1,5 @@
 ---
-title: Image.MouseUp Event (Access)
+title: Image.MouseUp event (Access)
 keywords: vbaac10.chm14170
 f1_keywords:
 - vbaac10.chm14170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.MouseUp Event (Access)
+# Image.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

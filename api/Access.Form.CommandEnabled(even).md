@@ -1,5 +1,5 @@
 ---
-title: Form.CommandEnabled Event (Access)
+title: Form.CommandEnabled event (Access)
 keywords: vbaac10.chm13675
 f1_keywords:
 - vbaac10.chm13675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandEnabled Event (Access)
+# Form.CommandEnabled event (Access)
 
 Occurs when the specified Microsoft Office Web Component determines whether the specified command is enabled.
 

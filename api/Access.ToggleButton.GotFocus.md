@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GotFocus Event (Access)
+title: ToggleButton.GotFocus event (Access)
 keywords: vbaac10.chm14152
 f1_keywords:
 - vbaac10.chm14152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GotFocus Event (Access)
+# ToggleButton.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

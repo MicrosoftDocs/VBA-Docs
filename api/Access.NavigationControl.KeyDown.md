@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.KeyDown Event (Access)
+title: NavigationControl.KeyDown event (Access)
 keywords: vbaac10.chm14206
 f1_keywords:
 - vbaac10.chm14206
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.KeyDown Event (Access)
+# NavigationControl.KeyDown event (Access)
 
 The  **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

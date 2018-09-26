@@ -1,5 +1,5 @@
 ---
-title: CheckBox.MouseUp Event (Access)
+title: CheckBox.MouseUp event (Access)
 keywords: vbaac10.chm14129
 f1_keywords:
 - vbaac10.chm14129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.MouseUp Event (Access)
+# CheckBox.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

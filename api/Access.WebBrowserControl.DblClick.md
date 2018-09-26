@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.DblClick Event (Access)
+title: WebBrowserControl.DblClick event (Access)
 keywords: vbaac10.chm143133
 f1_keywords:
 - vbaac10.chm143133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.DblClick Event (Access)
+# WebBrowserControl.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeScreenTip Event (Access)
+title: Form.BeforeScreenTip event (Access)
 keywords: vbaac10.chm13678
 f1_keywords:
 - vbaac10.chm13678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeScreenTip Event (Access)
+# Form.BeforeScreenTip event (Access)
 
 Occurs before a ScreenTip is displayed for an element in a PivotChart view or PivotTable view.
 

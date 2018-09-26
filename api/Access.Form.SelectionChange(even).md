@@ -1,5 +1,5 @@
 ---
-title: Form.SelectionChange Event (Access)
+title: Form.SelectionChange event (Access)
 keywords: vbaac10.chm13672
 f1_keywords:
 - vbaac10.chm13672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelectionChange Event (Access)
+# Form.SelectionChange event (Access)
 
 Occurs whenever the user makes a new selection in a PivotChart view or PivotTable view.
 

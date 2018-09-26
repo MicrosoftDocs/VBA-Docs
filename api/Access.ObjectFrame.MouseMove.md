@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.MouseMove Event (Access)
+title: ObjectFrame.MouseMove event (Access)
 keywords: vbaac10.chm14112
 f1_keywords:
 - vbaac10.chm14112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.MouseMove Event (Access)
+# ObjectFrame.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

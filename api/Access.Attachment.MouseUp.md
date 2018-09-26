@@ -1,5 +1,5 @@
 ---
-title: Attachment.MouseUp Event (Access)
+title: Attachment.MouseUp event (Access)
 keywords: vbaac10.chm14031
 f1_keywords:
 - vbaac10.chm14031
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.MouseUp Event (Access)
+# Attachment.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

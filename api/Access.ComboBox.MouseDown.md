@@ -1,5 +1,5 @@
 ---
-title: ComboBox.MouseDown Event (Access)
+title: ComboBox.MouseDown event (Access)
 keywords: vbaac10.chm14221
 f1_keywords:
 - vbaac10.chm14221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.MouseDown Event (Access)
+# ComboBox.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

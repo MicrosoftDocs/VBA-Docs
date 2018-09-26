@@ -1,5 +1,5 @@
 ---
-title: Form.AfterLayout Event (Access)
+title: Form.AfterLayout event (Access)
 keywords: vbaac10.chm13682
 f1_keywords:
 - vbaac10.chm13682
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterLayout Event (Access)
+# Form.AfterLayout event (Access)
 
 Occurs after all charts in the specfied PivotChart view have been laid out, but before they have been rendered.
 

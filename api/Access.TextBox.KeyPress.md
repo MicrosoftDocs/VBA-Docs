@@ -1,5 +1,5 @@
 ---
-title: TextBox.KeyPress Event (Access)
+title: TextBox.KeyPress event (Access)
 keywords: vbaac10.chm14207
 f1_keywords:
 - vbaac10.chm14207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.KeyPress Event (Access)
+# TextBox.KeyPress event (Access)
 
 The  **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

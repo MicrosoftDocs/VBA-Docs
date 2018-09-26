@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Click Event (Access)
+title: OptionGroup.Click event (Access)
 keywords: vbaac10.chm14189
 f1_keywords:
 - vbaac10.chm14189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Click Event (Access)
+# OptionGroup.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

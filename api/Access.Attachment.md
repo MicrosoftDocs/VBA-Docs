@@ -1,5 +1,5 @@
 ---
-title: Attachment Object (Access)
+title: Attachment object (Access)
 keywords: vbaac10.chm14036
 f1_keywords:
 - vbaac10.chm14036
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment Object (Access)
+# Attachment object (Access)
 
 This object corresponds to an attachment control. Use an attachment control when you want to manipulate the contents fields of the attachment data type.
 

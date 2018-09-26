@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Enter Event (Access)
+title: OptionGroup.Enter event (Access)
 keywords: vbaac10.chm14187
 f1_keywords:
 - vbaac10.chm14187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Enter Event (Access)
+# OptionGroup.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 

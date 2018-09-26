@@ -1,5 +1,5 @@
 ---
-title: Form.Dirty Event (Access)
+title: Form.Dirty event (Access)
 keywords: vbaac10.chm13662
 f1_keywords:
 - vbaac10.chm13662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Dirty Event (Access)
+# Form.Dirty event (Access)
 
 The Dirty event occurs when the contents of the specified control changes.
 

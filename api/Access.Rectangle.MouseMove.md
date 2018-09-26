@@ -1,5 +1,5 @@
 ---
-title: Rectangle.MouseMove Event (Access)
+title: Rectangle.MouseMove event (Access)
 keywords: vbaac10.chm14164
 f1_keywords:
 - vbaac10.chm14164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.MouseMove Event (Access)
+# Rectangle.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.Click Event (Access)
+title: Page.Click event (Access)
 keywords: vbaac10.chm14279
 f1_keywords:
 - vbaac10.chm14279
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Click Event (Access)
+# Page.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

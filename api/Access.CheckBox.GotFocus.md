@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GotFocus Event (Access)
+title: CheckBox.GotFocus event (Access)
 keywords: vbaac10.chm14124
 f1_keywords:
 - vbaac10.chm14124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GotFocus Event (Access)
+# CheckBox.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

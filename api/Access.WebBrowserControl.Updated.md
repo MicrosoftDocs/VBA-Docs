@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Updated Event (Access)
+title: WebBrowserControl.Updated event (Access)
 keywords: vbaac10.chm143123
 f1_keywords:
 - vbaac10.chm143123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Updated Event (Access)
+# WebBrowserControl.Updated event (Access)
 
 The  **Updated** event occurs when an OLE object's data has been modified.
 

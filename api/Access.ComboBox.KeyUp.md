@@ -1,5 +1,5 @@
 ---
-title: ComboBox.KeyUp Event (Access)
+title: ComboBox.KeyUp event (Access)
 keywords: vbaac10.chm14226
 f1_keywords:
 - vbaac10.chm14226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.KeyUp Event (Access)
+# ComboBox.KeyUp event (Access)
 
 The **KeyUp** event occurs when the user releases a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

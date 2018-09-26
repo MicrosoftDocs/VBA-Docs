@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Click Event (Access)
+title: BoundObjectFrame.Click event (Access)
 keywords: vbaac10.chm14096
 f1_keywords:
 - vbaac10.chm14096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Click Event (Access)
+# BoundObjectFrame.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Enter Event (Access)
+title: ObjectFrame.Enter event (Access)
 keywords: vbaac10.chm14105
 f1_keywords:
 - vbaac10.chm14105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Enter Event (Access)
+# ObjectFrame.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 

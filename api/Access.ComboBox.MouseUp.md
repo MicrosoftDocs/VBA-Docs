@@ -1,5 +1,5 @@
 ---
-title: ComboBox.MouseUp Event (Access)
+title: ComboBox.MouseUp event (Access)
 keywords: vbaac10.chm14223
 f1_keywords:
 - vbaac10.chm14223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.MouseUp Event (Access)
+# ComboBox.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

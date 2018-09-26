@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Change Event (Access)
+title: ComboBox.Change event (Access)
 keywords: vbaac10.chm14213
 f1_keywords:
 - vbaac10.chm14213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Change Event (Access)
+# ComboBox.Change event (Access)
 
 The  **Change** event occurs when the contents of the specified control changes.
 

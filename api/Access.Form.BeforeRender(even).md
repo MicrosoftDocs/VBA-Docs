@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeRender Event (Access)
+title: Form.BeforeRender event (Access)
 keywords: vbaac10.chm13679
 f1_keywords:
 - vbaac10.chm13679
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeRender Event (Access)
+# Form.BeforeRender event (Access)
 
 Occurs before any object in the specified PivotChart view has been rendered.
 

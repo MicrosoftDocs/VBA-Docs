@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GotFocus Event (Access)
+title: CustomControl.GotFocus event (Access)
 keywords: vbaac10.chm14117
 f1_keywords:
 - vbaac10.chm14117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GotFocus Event (Access)
+# CustomControl.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

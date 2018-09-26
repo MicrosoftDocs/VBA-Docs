@@ -1,5 +1,5 @@
 ---
-title: Section.DblClick Event (Access)
+title: Section.DblClick event (Access)
 keywords: vbaac10.chm14234
 f1_keywords:
 - vbaac10.chm14234
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.DblClick Event (Access)
+# Section.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 

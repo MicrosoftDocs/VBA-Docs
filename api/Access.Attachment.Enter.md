@@ -1,5 +1,5 @@
 ---
-title: Attachment.Enter Event (Access)
+title: Attachment.Enter event (Access)
 keywords: vbaac10.chm14021
 f1_keywords:
 - vbaac10.chm14021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Enter Event (Access)
+# Attachment.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form.
 

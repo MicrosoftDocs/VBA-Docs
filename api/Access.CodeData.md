@@ -1,5 +1,5 @@
 ---
-title: CodeData Object (Access)
+title: CodeData object (Access)
 keywords: vbaac10.chm12742
 f1_keywords:
 - vbaac10.chm12742
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData Object (Access)
+# CodeData object (Access)
 
 The  **CodeData** object refers to objects stored within the code database by the source (server) application.
 

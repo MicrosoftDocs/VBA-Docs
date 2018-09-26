@@ -1,5 +1,5 @@
 ---
-title: ListBox.MouseUp Event (Access)
+title: ListBox.MouseUp event (Access)
 keywords: vbaac10.chm14181
 f1_keywords:
 - vbaac10.chm14181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.MouseUp Event (Access)
+# ListBox.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

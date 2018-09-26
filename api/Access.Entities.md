@@ -1,5 +1,5 @@
 ---
-title: Entities Object (Access)
+title: Entities object (Access)
 keywords: vbaac10.chm14560
 f1_keywords:
 - vbaac10.chm14560
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Entities Object (Access)
+# Entities object (Access)
 
 Represents the collection of entities defined in a Data Service data connection.
 

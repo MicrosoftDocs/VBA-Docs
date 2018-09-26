@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeInsert Event (Access)
+title: Form.BeforeInsert event (Access)
 keywords: vbaac10.chm13635
 f1_keywords:
 - vbaac10.chm13635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeInsert Event (Access)
+# Form.BeforeInsert event (Access)
 
 The BeforeInsert event occurs when the user types the first character in a new record, but before the record is actually created.
 

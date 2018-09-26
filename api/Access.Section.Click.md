@@ -1,5 +1,5 @@
 ---
-title: Section.Click Event (Access)
+title: Section.Click event (Access)
 keywords: vbaac10.chm14233
 f1_keywords:
 - vbaac10.chm14233
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Click Event (Access)
+# Section.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

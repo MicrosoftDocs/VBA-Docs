@@ -1,5 +1,5 @@
 ---
-title: Label.MouseMove Event (Access)
+title: Label.MouseMove event (Access)
 keywords: vbaac10.chm14287
 f1_keywords:
 - vbaac10.chm14287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.MouseMove Event (Access)
+# Label.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

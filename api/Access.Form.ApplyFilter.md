@@ -1,5 +1,5 @@
 ---
-title: Form.ApplyFilter Event (Access)
+title: Form.ApplyFilter event (Access)
 keywords: vbaac10.chm13661
 f1_keywords:
 - vbaac10.chm13661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ApplyFilter Event (Access)
+# Form.ApplyFilter event (Access)
 
 Occurs when a filter is applied to a form.
 

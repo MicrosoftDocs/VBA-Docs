@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BeforeUpdate Event (Access)
+title: BoundObjectFrame.BeforeUpdate event (Access)
 keywords: vbaac10.chm14090
 f1_keywords:
 - vbaac10.chm14090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BeforeUpdate Event (Access)
+# BoundObjectFrame.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AfterUpdate Event (Access)
+title: ComboBox.AfterUpdate event (Access)
 keywords: vbaac10.chm14212
 f1_keywords:
 - vbaac10.chm14212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AfterUpdate Event (Access)
+# ComboBox.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 

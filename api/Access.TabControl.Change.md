@@ -1,5 +1,5 @@
 ---
-title: TabControl.Change Event (Access)
+title: TabControl.Change event (Access)
 keywords: vbaac10.chm14278
 f1_keywords:
 - vbaac10.chm14278
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Change Event (Access)
+# TabControl.Change event (Access)
 
 The  **Change** event occurs when when you move from one page to another page.
 

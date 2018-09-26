@@ -1,5 +1,5 @@
 ---
-title: TextBox.GotFocus Event (Access)
+title: TextBox.GotFocus event (Access)
 keywords: vbaac10.chm14199
 f1_keywords:
 - vbaac10.chm14199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GotFocus Event (Access)
+# TextBox.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

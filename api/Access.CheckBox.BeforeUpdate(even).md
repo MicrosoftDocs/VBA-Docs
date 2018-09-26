@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BeforeUpdate Event (Access)
+title: CheckBox.BeforeUpdate event (Access)
 keywords: vbaac10.chm14120
 f1_keywords:
 - vbaac10.chm14120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BeforeUpdate Event (Access)
+# CheckBox.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

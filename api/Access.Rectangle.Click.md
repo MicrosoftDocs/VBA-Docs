@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Click Event (Access)
+title: Rectangle.Click event (Access)
 keywords: vbaac10.chm14161
 f1_keywords:
 - vbaac10.chm14161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Click Event (Access)
+# Rectangle.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

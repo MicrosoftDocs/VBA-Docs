@@ -1,5 +1,5 @@
 ---
-title: Form.CommandExecute Event (Access)
+title: Form.CommandExecute event (Access)
 keywords: vbaac10.chm13676
 f1_keywords:
 - vbaac10.chm13676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandExecute Event (Access)
+# Form.CommandExecute event (Access)
 
 Occurs after the specified command is executed. Use this event when you want to execute a set of commands after a particular command is executed.
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.BeforeUpdate Event (Access)
+title: TextBox.BeforeUpdate event (Access)
 keywords: vbaac10.chm14194
 f1_keywords:
 - vbaac10.chm14194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BeforeUpdate Event (Access)
+# TextBox.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

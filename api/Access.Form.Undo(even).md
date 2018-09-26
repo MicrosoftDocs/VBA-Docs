@@ -1,5 +1,5 @@
 ---
-title: Form.Undo Event (Access)
+title: Form.Undo event (Access)
 keywords: vbaac10.chm13663
 f1_keywords:
 - vbaac10.chm13663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Undo Event (Access)
+# Form.Undo event (Access)
 
 Occurs when the user undoes a change.
 

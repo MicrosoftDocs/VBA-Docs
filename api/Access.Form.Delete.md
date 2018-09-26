@@ -1,5 +1,5 @@
 ---
-title: Form.Delete Event (Access)
+title: Form.Delete event (Access)
 keywords: vbaac10.chm13639
 f1_keywords:
 - vbaac10.chm13639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Delete Event (Access)
+# Form.Delete event (Access)
 
 Occurs when the user performs some action, such as pressing the DEL key, to delete a record, but before the record is actually deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.MouseDown Event (Access)
+title: Rectangle.MouseDown event (Access)
 keywords: vbaac10.chm14163
 f1_keywords:
 - vbaac10.chm14163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.MouseDown Event (Access)
+# Rectangle.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

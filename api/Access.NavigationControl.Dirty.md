@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Dirty Event (Access)
+title: NavigationControl.Dirty event (Access)
 keywords: vbaac10.chm14209
 f1_keywords:
 - vbaac10.chm14209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Dirty Event (Access)
+# NavigationControl.Dirty event (Access)
 
 The Dirty event occurs when the contents of the specified control changes.
 

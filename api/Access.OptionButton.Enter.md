@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Enter Event (Access)
+title: OptionButton.Enter event (Access)
 keywords: vbaac10.chm14136
 f1_keywords:
 - vbaac10.chm14136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Enter Event (Access)
+# OptionButton.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GotFocus Event (Access)
+title: ComboBox.GotFocus event (Access)
 keywords: vbaac10.chm14217
 f1_keywords:
 - vbaac10.chm14217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GotFocus Event (Access)
+# ComboBox.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

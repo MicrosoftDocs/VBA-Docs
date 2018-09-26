@@ -1,5 +1,5 @@
 ---
-title: Form.Query Event (Access)
+title: Form.Query event (Access)
 keywords: vbaac10.chm13670
 f1_keywords:
 - vbaac10.chm13670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Query Event (Access)
+# Form.Query event (Access)
 
 Occurs whenever the specified PivotTable view query becomes necessary. The query may not occur immediately; it may be delayed until the new data is displayed.
 

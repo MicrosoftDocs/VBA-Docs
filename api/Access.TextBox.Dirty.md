@@ -1,5 +1,5 @@
 ---
-title: TextBox.Dirty Event (Access)
+title: TextBox.Dirty event (Access)
 keywords: vbaac10.chm14209
 f1_keywords:
 - vbaac10.chm14209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Dirty Event (Access)
+# TextBox.Dirty event (Access)
 
 The Dirty event occurs when the contents of the specified control changes.
 

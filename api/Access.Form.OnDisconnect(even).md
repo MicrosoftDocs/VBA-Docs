@@ -1,5 +1,5 @@
 ---
-title: Form.OnDisconnect Event (Access)
+title: Form.OnDisconnect event (Access)
 keywords: vbaac10.chm13668
 f1_keywords:
 - vbaac10.chm13668
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnDisconnect Event (Access)
+# Form.OnDisconnect event (Access)
 
 Occurs when the specified PivotTable view disconnects from a data source.
 

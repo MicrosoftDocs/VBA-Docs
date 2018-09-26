@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperty Object (Access)
+title: AccessObjectProperty object (Access)
 keywords: vbaac10.chm12693
 f1_keywords:
 - vbaac10.chm12693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperty Object (Access)
+# AccessObjectProperty object (Access)
 
 An  **AccessObjectProperty** object represents a built-in or user-defined characteristic of an **AccessObject** object.
 

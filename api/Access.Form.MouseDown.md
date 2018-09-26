@@ -1,5 +1,5 @@
 ---
-title: Form.MouseDown Event (Access)
+title: Form.MouseDown event (Access)
 keywords: vbaac10.chm13652
 f1_keywords:
 - vbaac10.chm13652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseDown Event (Access)
+# Form.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

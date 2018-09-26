@@ -1,5 +1,5 @@
 ---
-title: Report.MouseMove Event (Access)
+title: Report.MouseMove event (Access)
 keywords: vbaac10.chm13892
 f1_keywords:
 - vbaac10.chm13892
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MouseMove Event (Access)
+# Report.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

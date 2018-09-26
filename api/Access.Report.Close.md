@@ -1,5 +1,5 @@
 ---
-title: Report.Close Event (Access)
+title: Report.Close event (Access)
 keywords: vbaac10.chm13877
 f1_keywords:
 - vbaac10.chm13877
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Close Event (Access)
+# Report.Close event (Access)
 
 The  **Close** event occurs when a report is closed and removed from the screen.
 

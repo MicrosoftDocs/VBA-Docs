@@ -1,5 +1,5 @@
 ---
-title: Report.Activate Event (Access)
+title: Report.Activate event (Access)
 keywords: vbaac10.chm13878
 f1_keywords:
 - vbaac10.chm13878
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Activate Event (Access)
+# Report.Activate event (Access)
 
 The Activate event occurs when a report receives the focus and becomes the active window.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Exit Event (Access)
+title: CustomControl.Exit event (Access)
 keywords: vbaac10.chm14116
 f1_keywords:
 - vbaac10.chm14116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Exit Event (Access)
+# CustomControl.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 

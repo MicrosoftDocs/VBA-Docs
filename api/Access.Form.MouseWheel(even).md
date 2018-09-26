@@ -1,5 +1,5 @@
 ---
-title: Form.MouseWheel Event (Access)
+title: Form.MouseWheel event (Access)
 keywords: vbaac10.chm13683
 f1_keywords:
 - vbaac10.chm13683
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseWheel Event (Access)
+# Form.MouseWheel event (Access)
 
 Occurs when the user rolls the mouse wheel in Form View, Split Form View, Datasheet View, Layout View, PivotChart View, or PivotTable View.
 

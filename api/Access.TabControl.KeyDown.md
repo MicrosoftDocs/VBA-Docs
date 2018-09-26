@@ -1,5 +1,5 @@
 ---
-title: TabControl.KeyDown Event (Access)
+title: TabControl.KeyDown event (Access)
 keywords: vbaac10.chm14275
 f1_keywords:
 - vbaac10.chm14275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.KeyDown Event (Access)
+# TabControl.KeyDown event (Access)
 
 The  **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

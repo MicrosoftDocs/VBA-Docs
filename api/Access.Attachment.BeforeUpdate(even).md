@@ -1,5 +1,5 @@
 ---
-title: Attachment.BeforeUpdate Event (Access)
+title: Attachment.BeforeUpdate event (Access)
 keywords: vbaac10.chm14019
 f1_keywords:
 - vbaac10.chm14019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BeforeUpdate Event (Access)
+# Attachment.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

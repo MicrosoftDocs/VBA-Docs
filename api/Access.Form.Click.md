@@ -1,5 +1,5 @@
 ---
-title: Form.Click Event (Access)
+title: Form.Click event (Access)
 keywords: vbaac10.chm13650
 f1_keywords:
 - vbaac10.chm13650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Click Event (Access)
+# Form.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 

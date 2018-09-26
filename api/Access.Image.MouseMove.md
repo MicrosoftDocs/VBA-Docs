@@ -1,5 +1,5 @@
 ---
-title: Image.MouseMove Event (Access)
+title: Image.MouseMove event (Access)
 keywords: vbaac10.chm14169
 f1_keywords:
 - vbaac10.chm14169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.MouseMove Event (Access)
+# Image.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

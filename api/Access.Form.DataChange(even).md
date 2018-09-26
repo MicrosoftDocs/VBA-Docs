@@ -1,5 +1,5 @@
 ---
-title: Form.DataChange Event (Access)
+title: Form.DataChange event (Access)
 keywords: vbaac10.chm13685
 f1_keywords:
 - vbaac10.chm13685
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DataChange Event (Access)
+# Form.DataChange event (Access)
 
 Occurs when certain properties are changed or when certain methods are executed in the specified PivotTable view.
 

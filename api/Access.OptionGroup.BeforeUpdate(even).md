@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BeforeUpdate Event (Access)
+title: OptionGroup.BeforeUpdate event (Access)
 keywords: vbaac10.chm14185
 f1_keywords:
 - vbaac10.chm14185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BeforeUpdate Event (Access)
+# OptionGroup.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 

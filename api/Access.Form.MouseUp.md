@@ -1,5 +1,5 @@
 ---
-title: Form.MouseUp Event (Access)
+title: Form.MouseUp event (Access)
 keywords: vbaac10.chm13654
 f1_keywords:
 - vbaac10.chm13654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseUp Event (Access)
+# Form.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

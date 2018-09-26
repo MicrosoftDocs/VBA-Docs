@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.MouseUp Event (Access)
+title: BoundObjectFrame.MouseUp event (Access)
 keywords: vbaac10.chm14100
 f1_keywords:
 - vbaac10.chm14100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.MouseUp Event (Access)
+# BoundObjectFrame.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

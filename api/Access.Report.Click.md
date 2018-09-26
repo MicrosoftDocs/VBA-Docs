@@ -1,5 +1,5 @@
 ---
-title: Report.Click Event (Access)
+title: Report.Click event (Access)
 keywords: vbaac10.chm13889
 f1_keywords:
 - vbaac10.chm13889
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Click Event (Access)
+# Report.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over a report.
 

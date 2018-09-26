@@ -1,5 +1,5 @@
 ---
-title: Section.MouseMove Event (Access)
+title: Section.MouseMove event (Access)
 keywords: vbaac10.chm14236
 f1_keywords:
 - vbaac10.chm14236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.MouseMove Event (Access)
+# Section.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

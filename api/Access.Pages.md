@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Access)
+title: Pages object (Access)
 keywords: vbaac10.chm10125
 f1_keywords:
 - vbaac10.chm10125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages Object (Access)
+# Pages object (Access)
 
 The  **Pages** collection contains all **[Page](Access.Page.md)** objects in a tab control.
 

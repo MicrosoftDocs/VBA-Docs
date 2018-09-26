@@ -1,5 +1,5 @@
 ---
-title: CheckBox.MouseDown Event (Access)
+title: CheckBox.MouseDown event (Access)
 keywords: vbaac10.chm14127
 f1_keywords:
 - vbaac10.chm14127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.MouseDown Event (Access)
+# CheckBox.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

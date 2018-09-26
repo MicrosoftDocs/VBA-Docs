@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeDelConfirm Event (Access)
+title: Form.BeforeDelConfirm event (Access)
 keywords: vbaac10.chm13640
 f1_keywords:
 - vbaac10.chm13640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeDelConfirm Event (Access)
+# Form.BeforeDelConfirm event (Access)
 
 The  **BeforeDelConfirm** event occurs after the user deletes to the buffer one or more records, but before Microsoft Access displays a dialog box asking the user to confirm the deletions.
 

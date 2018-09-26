@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.MouseUp Event (Access)
+title: ObjectFrame.MouseUp event (Access)
 keywords: vbaac10.chm14113
 f1_keywords:
 - vbaac10.chm14113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.MouseUp Event (Access)
+# ObjectFrame.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 

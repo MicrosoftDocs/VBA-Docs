@@ -1,5 +1,5 @@
 ---
-title: ComboBox.NotInList Event (Access)
+title: ComboBox.NotInList event (Access)
 keywords: vbaac10.chm14214
 f1_keywords:
 - vbaac10.chm14214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.NotInList Event (Access)
+# ComboBox.NotInList event (Access)
 
 The  **NotInList** event occurs when the user enters a value in the text box portion of a combo box that isn't in the combo box list.
 

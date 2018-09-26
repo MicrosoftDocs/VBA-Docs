@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.DocumentComplete Event (Access)
+title: WebBrowserControl.DocumentComplete event (Access)
 keywords: vbaac10.chm143141
 f1_keywords:
 - vbaac10.chm143141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.DocumentComplete Event (Access)
+# WebBrowserControl.DocumentComplete event (Access)
 
 Occurs when a document is completely loaded and initialized.
 

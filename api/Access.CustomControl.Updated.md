@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Updated Event (Access)
+title: CustomControl.Updated event (Access)
 keywords: vbaac10.chm14114
 f1_keywords:
 - vbaac10.chm14114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Updated Event (Access)
+# CustomControl.Updated event (Access)
 
 The  **Updated** event occurs when an OLE object's data has been modified.
 

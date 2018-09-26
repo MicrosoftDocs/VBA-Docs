@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo Object (Access)
+title: DependencyInfo object (Access)
 keywords: vbaac10.chm13271
 f1_keywords:
 - vbaac10.chm13271
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo Object (Access)
+# DependencyInfo object (Access)
 
 Represents the dependency information for an  **[AccessObject](Access.AccessObject.md)** object.
 

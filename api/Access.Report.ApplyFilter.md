@@ -1,5 +1,5 @@
 ---
-title: Report.ApplyFilter Event (Access)
+title: Report.ApplyFilter event (Access)
 keywords: vbaac10.chm13899
 f1_keywords:
 - vbaac10.chm13899
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ApplyFilter Event (Access)
+# Report.ApplyFilter event (Access)
 
 Occurs when a filter is applied to a report.
 

@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.MouseMove Event (Access)
+title: OptionGroup.MouseMove event (Access)
 keywords: vbaac10.chm14192
 f1_keywords:
 - vbaac10.chm14192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.MouseMove Event (Access)
+# OptionGroup.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 

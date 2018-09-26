@@ -1,5 +1,5 @@
 ---
-title: Reference Object (Access)
+title: Reference object (Access)
 keywords: vbaac10.chm12628
 f1_keywords:
 - vbaac10.chm12628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference Object (Access)
+# Reference object (Access)
 
 The  **Reference** object refers to a reference set to another application's or project's type library.
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.KeyUp Event (Access)
+title: NavigationButton.KeyUp event (Access)
 keywords: vbaac10.chm14088
 f1_keywords:
 - vbaac10.chm14088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.KeyUp Event (Access)
+# NavigationButton.KeyUp event (Access)
 
 The  **KeyUp** event occurs when the user releases a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 

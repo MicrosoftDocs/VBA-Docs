@@ -1,5 +1,5 @@
 ---
-title: Form.Current Event (Access)
+title: Form.Current event (Access)
 keywords: vbaac10.chm13634
 f1_keywords:
 - vbaac10.chm13634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Current Event (Access)
+# Form.Current event (Access)
 
 Occurs when the focus moves to a record, making it the current record, or when the form is refreshed or requeried.
 

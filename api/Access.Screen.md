@@ -1,5 +1,5 @@
 ---
-title: Screen Object (Access)
+title: Screen object (Access)
 keywords: vbaac10.chm12484
 f1_keywords:
 - vbaac10.chm12484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen Object (Access)
+# Screen object (Access)
 
 The  **Screen** object refers to the particular form, report, or control that currently has the focus.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Timer Event (Access)
+title: Form.Timer event (Access)
 keywords: vbaac10.chm13659
 f1_keywords:
 - vbaac10.chm13659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Timer Event (Access)
+# Form.Timer event (Access)
 
 The  **Timer** event occurs for a form at regular intervals as specified by the form's **[TimerInterval](Access.Form.TimerInterval.md)** property.
 

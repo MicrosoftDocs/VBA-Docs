@@ -1,5 +1,5 @@
 ---
-title: Form.GotFocus Event (Access)
+title: Form.GotFocus event (Access)
 keywords: vbaac10.chm13648
 f1_keywords:
 - vbaac10.chm13648
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.GotFocus Event (Access)
+# Form.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

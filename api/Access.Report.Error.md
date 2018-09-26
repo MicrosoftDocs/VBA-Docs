@@ -1,5 +1,5 @@
 ---
-title: Report.Error Event (Access)
+title: Report.Error event (Access)
 keywords: vbaac10.chm13880
 f1_keywords:
 - vbaac10.chm13880
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Error Event (Access)
+# Report.Error event (Access)
 
 The Error event occurs when a run-time error is produced in Microsoft Access when a report has the focus.
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.LostFocus Event (Access)
+title: Attachment.LostFocus event (Access)
 keywords: vbaac10.chm14026
 f1_keywords:
 - vbaac10.chm14026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LostFocus Event (Access)
+# Attachment.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object receives the focus.
 

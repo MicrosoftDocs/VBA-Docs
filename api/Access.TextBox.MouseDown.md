@@ -1,5 +1,5 @@
 ---
-title: TextBox.MouseDown Event (Access)
+title: TextBox.MouseDown event (Access)
 keywords: vbaac10.chm14203
 f1_keywords:
 - vbaac10.chm14203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.MouseDown Event (Access)
+# TextBox.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 

@@ -1,5 +1,5 @@
 ---
-title: PageBreak Object (Access)
+title: PageBreak object (Access)
 keywords: vbaac10.chm11685
 f1_keywords:
 - vbaac10.chm11685
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak Object (Access)
+# PageBreak object (Access)
 
 This object corresponds to a page break control. The page break control marks the start of a new screen or printed page on a form or report.
 

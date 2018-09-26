@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Exit Event (Access)
+title: ComboBox.Exit event (Access)
 keywords: vbaac10.chm14216
 f1_keywords:
 - vbaac10.chm14216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Exit Event (Access)
+# ComboBox.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 

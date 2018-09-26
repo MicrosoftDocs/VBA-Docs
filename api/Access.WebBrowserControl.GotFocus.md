@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GotFocus Event (Access)
+title: WebBrowserControl.GotFocus event (Access)
 keywords: vbaac10.chm143130
 f1_keywords:
 - vbaac10.chm143130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GotFocus Event (Access)
+# WebBrowserControl.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 

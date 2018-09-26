@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeQuery Event (Access)
+title: Form.BeforeQuery event (Access)
 keywords: vbaac10.chm13671
 f1_keywords:
 - vbaac10.chm13671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeQuery Event (Access)
+# Form.BeforeQuery event (Access)
 
 Occurs when the specified PivotTable view queries its data source.
 
