@@ -8371,6 +8371,7 @@
 #### [SortFields object](Excel.SortFields.md)
 ##### Methods
 ###### [Add](Excel.SortFields.Add.md)
+###### [Add2](Excel.SortFields.Add2.md)
 ###### [Clear](Excel.SortFields.Clear.md)
 ###### [Delete](Excel.soundnote.delete.md)
 ###### [Import](Excel.soundnote.import.md)
