@@ -17,7 +17,7 @@ Filters a list using the AutoFilter.
 
 _expression_. `AutoFilter`( `Field` , `Criteria1` , `Operator` , `Criteria2` , `SubField` , `VisibleDropDown`)
 
-_expression_ An expression that returns a **[Range](Excel.Range(Graph property).md)** object.
+_expression_ An expression that returns a **[Range](Excel.Range(object).md)** object.
 
 
 
@@ -105,6 +105,3 @@ Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  SubField:="Population"
 ```
 
-## See also
-
-- [Range object](Excel.Range(object).md)
