@@ -19,6 +19,8 @@ _expression_. `AutoFilter`( `Field` , `Criteria1` , `Operator` , `Criteria2` , `
 
 _expression_ An expression that returns a **[Range](Excel.Range(Graph property).md)** object.
 
+
+
 ### Parameters
 
 |Name |Required/Optional |Data type |Description|
