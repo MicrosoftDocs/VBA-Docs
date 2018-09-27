@@ -27,11 +27,11 @@ Returns a single object from a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **XlTableStyleElementType**|A table style element.|
 
-### Return Value
+### Return value
 
 TableStyleElement
 

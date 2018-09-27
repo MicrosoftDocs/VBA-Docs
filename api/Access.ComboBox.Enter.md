@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Enter Event (Access)
+title: ComboBox.Enter event (Access)
 keywords: vbaac10.chm14215
 f1_keywords:
 - vbaac10.chm14215
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Enter Event (Access)
+# ComboBox.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Enter`
+_expression_. `Enter`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

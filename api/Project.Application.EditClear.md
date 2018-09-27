@@ -27,14 +27,14 @@ Clears the selected cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Contents_|Optional|**Boolean**|**True** if the contents of the selected cells are cleared. The default value is **True**.|
 | _Formats_|Optional|**Boolean**|**True** if the formats of the selected cells are cleared. The default value is **False**.|
 | _Notes_|Optional|**Boolean**|**True** if the notes of the assignment, resource, or task in the selected cells are cleared. The default value is **False**.|
 | _Hyperlinks_|Optional|**Boolean**|**True** if the hyperlinks associated with the selected cells are removed. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

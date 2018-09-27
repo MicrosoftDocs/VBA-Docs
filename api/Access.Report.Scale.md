@@ -1,5 +1,5 @@
 ---
-title: Report.Scale Method (Access)
+title: Report.Scale method (Access)
 keywords: vbaac10.chm13785
 f1_keywords:
 - vbaac10.chm13785
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Scale Method (Access)
+# Report.Scale method (Access)
 
 The  **Scale** method defines the coordinate system for a **[Report](Access.Report.md)** object.
 
 
 ## Syntax
 
- _expression_. `Scale`( ` _flags_`, ` _x1_`, ` _y1_`, ` _x2_`, ` _y2_` )
+_expression_. `Scale`( ` _flags_`, ` _x1_`, ` _y1_`, ` _x2_`, ` _y2_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _flags_|Required|**Integer**||
 | _x1_|Required|**Single**| A value for the horizontal coordinate that defines the position of the upper-left corner of the object.|
@@ -35,7 +35,7 @@ The  **Scale** method defines the coordinate system for a **[Report](Access.Repo
 | _x2_|Required|**Single**|A value for the horizontal coordinate that defines the position of the lower-right corner of the object.|
 | _y2_|Required|**Single**|A value for the vertical coordinate that defines the position of the lower-right corner of the object.|
 
-### Return Value
+### Return value
 
 Nothing
 

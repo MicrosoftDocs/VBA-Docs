@@ -24,7 +24,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**Long**|Exception type. Can be one of the  **[PjExceptionType](Project.PjExceptionType.md)** constants.|
 | _Start_|Required|**Variant**|Start date of the exception.|
@@ -38,7 +38,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
 | _Month_|Optional|**Long**|Specifies the month, if the Type argument is  **pjYearlyMonthDay** or **pjYearlyPositional**. Can be one of the **[pjMonth](Project.PjMonth.md)** constants.|
 | _MonthDay_|Optional|**Long**|Day of month for  **ByMonthDay** type exceptions.|
 
-### Return Value
+### Return value
 
  **Exception**
 

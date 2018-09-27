@@ -27,14 +27,14 @@ Occurs when a mouse button is pressed while the pointer is over a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required| **Long**|The mouse button that was released. Can be one of the following  **[XlMouseButton](Excel.XlMouseButton.md)** constants: **xlNoButton** , **xlPrimaryButton** , or **xlSecondaryButton** .|
 | _Shift_|Required| **Long**|The state of the SHIFT, CTRL, and ALT keys when the event occurred. Can be one of or a sum of values.|
 | _x_|Required| **Long**|The X coordinate of the mouse pointer in chart object client coordinates.|
 | _y_|Required| **Long**|The Y coordinate of the mouse pointer in chart object client coordinates.|
 
-### Return Value
+### Return value
 
 Nothing
 

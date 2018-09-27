@@ -14,7 +14,7 @@ Contains constants that specify the type of gridline.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBarRows**|1|Bar rows.|
 |**pjCalendarDays**|0|Calendar days.|

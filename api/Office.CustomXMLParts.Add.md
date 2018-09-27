@@ -27,12 +27,12 @@ Allows you to add a new  **CustomXMLPart** to a file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Optional|**String**|Contains the XML to add to the newly created  **CustomXMLPart**.|
 | _SchemaCollection_|Optional|**CustomXMLSchemaCollection**|Represents the set of schemas to be used to validate this stream.|
 
-### Return Value
+### Return value
 
 CustomXMLPart
 

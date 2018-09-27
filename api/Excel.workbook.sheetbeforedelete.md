@@ -25,7 +25,7 @@ Occurs when any sheet is deleted.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The sheet. Can be a  **[Chart](Excel.Chart(object).md)** or **[Worksheet](Excel.Worksheet.md)** object.|
 

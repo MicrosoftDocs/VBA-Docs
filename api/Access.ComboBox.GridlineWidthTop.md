@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineWidthTop Property (Access)
+title: ComboBox.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11490
 f1_keywords:
 - vbaac10.chm11490
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineWidthTop Property (Access)
+# ComboBox.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified combo box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

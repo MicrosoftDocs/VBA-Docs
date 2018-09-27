@@ -14,7 +14,7 @@ Specifies the priority of a SendMailer message.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPriorityHigh**|-4127|High|
 | **xlPriorityLow**|-4134|Low|

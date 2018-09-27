@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BorderWidth Property (Access)
+title: BoundObjectFrame.BorderWidth property (Access)
 keywords: vbaac10.chm10937
 f1_keywords:
 - vbaac10.chm10937
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BorderWidth Property (Access)
+# BoundObjectFrame.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderWidth`
+_expression_. `BorderWidth`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

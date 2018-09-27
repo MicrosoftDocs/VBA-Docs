@@ -27,13 +27,13 @@ Sets the formulas of one or more cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be modified.|
 | _formulaArray()_|Required| **Variant**|Formulas to be assigned to identified cells.|
 | _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas** .|
 
-### Return Value
+### Return value
 
 Integer
 

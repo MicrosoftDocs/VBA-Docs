@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.GrpKeepTogether Property (Access)](http://msdn.microsoft.com/library/605e8999-d184-b8d9-3f55-9926cd0ceefd%28Office.15%29.aspx)
+[Report.GrpKeepTogether property (Access)](http://msdn.microsoft.com/library/605e8999-d184-b8d9-3f55-9926cd0ceefd%28Office.15%29.aspx)
 

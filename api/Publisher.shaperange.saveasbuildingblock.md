@@ -25,7 +25,7 @@ Saves a single shape range as a building block. Returns the resulting  **[Buildi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the new building block you want to create.|
 

@@ -27,12 +27,12 @@ Returns a  **Range** object by using the specified starting and ending character
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional| **Variant**|The starting character position.|
 | _End_|Optional| **Variant**|The ending character position.|
 
-### Return Value
+### Return value
 
 Range
 

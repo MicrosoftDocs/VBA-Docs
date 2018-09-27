@@ -17,7 +17,7 @@ Specifies the kinds of objects selected in the active explorer.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olConversationHeaders**|1|Conversation header or headers in a selection.|
 

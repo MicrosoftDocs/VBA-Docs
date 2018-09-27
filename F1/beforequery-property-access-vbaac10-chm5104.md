@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.BeforeQuery Property (Access)](http://msdn.microsoft.com/library/40e763fd-897a-a0b1-72a9-d73ec628e397%28Office.15%29.aspx)
+[Form.BeforeQuery property (Access)](http://msdn.microsoft.com/library/40e763fd-897a-a0b1-72a9-d73ec628e397%28Office.15%29.aspx)
 

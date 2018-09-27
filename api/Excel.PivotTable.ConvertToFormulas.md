@@ -27,7 +27,7 @@ The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is u
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConvertFilters_|Required| **Boolean**|Contains  **True** or **False** to indicate the state of the **ReportFilter** area.|
 

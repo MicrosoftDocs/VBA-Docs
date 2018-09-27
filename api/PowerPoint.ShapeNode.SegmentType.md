@@ -23,7 +23,7 @@ Returns a value that indicates whether the segment associated with the specified
  _expression_ A variable that represents a [ShapeNode](./PowerPoint.ShapeNode.md) object.
 
 
-### Return Value
+### Return value
 
 MsoSegmentType
 

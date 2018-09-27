@@ -17,7 +17,7 @@ Indicates the format used to display percent Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatPercent1Decimal**|2|Displays formatted number values, including one fixed decimal place, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010.2%".|
 | **olFormatPercent2Decimal**|3|Displays formatted number values, including two fixed decimal places, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010.16%"|

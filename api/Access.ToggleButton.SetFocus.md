@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.SetFocus Method (Access)
+title: ToggleButton.SetFocus method (Access)
 keywords: vbaac10.chm11694
 f1_keywords:
 - vbaac10.chm11694
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.SetFocus Method (Access)
+# ToggleButton.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

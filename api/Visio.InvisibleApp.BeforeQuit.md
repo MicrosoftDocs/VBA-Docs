@@ -24,7 +24,7 @@ Private Sub  _expression_ _'BeforeQuit'(**_ByVal app As [IVAPPLICATION]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Visio that is going to terminate.|
 

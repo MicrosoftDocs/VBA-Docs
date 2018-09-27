@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Cancel Property (Access)
+title: CommandButton.Cancel property (Access)
 keywords: vbaac10.chm10456
 f1_keywords:
 - vbaac10.chm10456
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Cancel Property (Access)
+# CommandButton.Cancel property (Access)
 
 You can use the  **Cancel** property to specify whether a command button is also the Cancel button on a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Cancel`
+_expression_. `Cancel`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

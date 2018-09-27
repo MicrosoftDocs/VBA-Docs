@@ -27,11 +27,11 @@ Calculates variance based on the entire population.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments that correspond to a population.|
 
-### Return Value
+### Return value
 
 Double
 

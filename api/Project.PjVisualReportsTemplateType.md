@@ -14,7 +14,7 @@ Contains constants that specify the type of report template for the Visual Repor
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjExcel**|1|Microsoft Excel report template.|
 |**pjVisioMetric**|2|Microsoft Visio template with metric units.|

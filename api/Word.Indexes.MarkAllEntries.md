@@ -27,7 +27,7 @@ Inserts an XE (Index Entry) field after all instances of the text in  **Range** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range whose text is marked with an XE field throughout the document.|
 | _Entry_|Optional| **Variant**|The text you want to appear in the index, in the form MainEntry[:Subentry].|

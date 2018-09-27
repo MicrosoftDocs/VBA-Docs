@@ -18,7 +18,7 @@ Gets a  **Long** indicating the number of items in the **TextRange2** collection
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return Value
+### Return value
 
 Long
 

@@ -27,7 +27,7 @@ Applies the specified theme to the current workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Name of the theme.|
 

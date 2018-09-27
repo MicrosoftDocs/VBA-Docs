@@ -27,11 +27,11 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.Slicer
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotTable_|Required| **Variant**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to remove, or the name or index of the PivotTable in the collection.|
 
-### Return Value
+### Return value
 
 Nothing
 

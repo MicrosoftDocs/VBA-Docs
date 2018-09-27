@@ -14,7 +14,7 @@ Specifies the version of Web browser at which you want to target new Web pages c
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBrowserLevelMicrosoftInternetExplorer5**|1|Microsoft Internet Explorer 5.|
 | **wdBrowserLevelMicrosoftInternetExplorer6**|2|Microsoft Internet Explorer 6.|

@@ -1,5 +1,5 @@
 ---
-title: CommandButton.PictureType Property (Access)
+title: CommandButton.PictureType property (Access)
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.PictureType Property (Access)
+# CommandButton.PictureType property (Access)
 
 You can use the  **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GridlineColor Property (Access)
+title: WebBrowserControl.GridlineColor property (Access)
 keywords: vbaac10.chm143144
 f1_keywords:
 - vbaac10.chm143144
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GridlineColor Property (Access)
+# WebBrowserControl.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

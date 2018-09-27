@@ -23,7 +23,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarControl**. Read
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

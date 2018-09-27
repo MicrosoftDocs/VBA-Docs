@@ -1,5 +1,5 @@
 ---
-title: Report.WindowTop Property (Access)
+title: Report.WindowTop property (Access)
 keywords: vbaac10.chm13806
 f1_keywords:
 - vbaac10.chm13806
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.WindowTop Property (Access)
+# Report.WindowTop property (Access)
 
 Returns an  **Integer** indicating the screen position in twips of the top edge of a report relative to the top of the Microsoft Access window. Read-only.
 
 
 ## Syntax
 
- _expression_. `WindowTop`
+_expression_. `WindowTop`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

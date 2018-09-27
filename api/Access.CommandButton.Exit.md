@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Exit Event (Access)
+title: CommandButton.Exit event (Access)
 keywords: vbaac10.chm14079
 f1_keywords:
 - vbaac10.chm14079
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Exit Event (Access)
+# CommandButton.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_` )
+_expression_. `Exit`( ` _Cancel_` )
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set to  **True** to cancel the event.|
 

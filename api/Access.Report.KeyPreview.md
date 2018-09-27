@@ -1,5 +1,5 @@
 ---
-title: Report.KeyPreview Property (Access)
+title: Report.KeyPreview property (Access)
 keywords: vbaac10.chm13824
 f1_keywords:
 - vbaac10.chm13824
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.KeyPreview Property (Access)
+# Report.KeyPreview property (Access)
 
 You can use the  **KeyPreview** property to specify whether the report-level keyboard event procedures are invoked before a control's keyboard event procedures. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `KeyPreview`
+_expression_. `KeyPreview`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

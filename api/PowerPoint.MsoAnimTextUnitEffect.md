@@ -14,7 +14,7 @@ Specifies how special effects are applied to the animation for the specified tex
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimTextUnitEffectByCharacter**|1|By character.|
 |**msoAnimTextUnitEffectByParagraph**|0|By paragraph.|

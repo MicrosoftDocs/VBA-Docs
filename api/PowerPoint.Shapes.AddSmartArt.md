@@ -27,7 +27,7 @@ Adds a SmartArt diagram to the  **Shapes** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**[SMARTARTLAYOUT]**|The SmartArt diagram to add.|
 | _Left_|Optional|**Single**|The distance, in points, from the left edge of the slide to the left edge of the SmartArt diagram.|
@@ -35,7 +35,7 @@ Adds a SmartArt diagram to the  **Shapes** object.
 | _Width_|Optional|**Single**|The width of the SmartArt diagram.|
 | _Height_|Optional|**Single**|The height of the SmartArt diagram.|
 
-### Return Value
+### Return value
 
 Shape
 

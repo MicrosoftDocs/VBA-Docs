@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that indicates whether private details for 
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
-### Return Value
+### Return value
 
  **True** if private details for calendar items should be included; otherwise, **False** .
 

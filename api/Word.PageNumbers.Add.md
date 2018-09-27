@@ -27,7 +27,7 @@ Returns a  **PageNumber** object that represents page numbers added to a header 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageNumberAlignment_|Optional| **Variant**|Can be any  **WdPageNumberAlignment** constant.|
 | _FirstPage_|Optional| **Variant**| **False** to make the first-page header and the first-page footer different from the headers and footers on all subsequent pages in the document. If FirstPage is set to **False** , a page number isn't added to the first page. If this argument is omitted, the setting is controlled by the **DifferentFirstPageHeaderFooter** property.|

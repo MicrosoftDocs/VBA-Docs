@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdCompatibility**|The compatibility option.|
 

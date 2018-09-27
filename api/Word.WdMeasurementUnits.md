@@ -14,7 +14,7 @@ Specifies a unit of measure to use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCentimeters**|1|Centimeters.|
 | **wdInches**|0|Inches.|

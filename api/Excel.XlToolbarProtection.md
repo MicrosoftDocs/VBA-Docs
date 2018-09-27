@@ -14,7 +14,7 @@ Specifies which properties of a toolbar are restricted. Options can be combined 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlNoButtonChanges**|1|No button changes permitted.|
 | **xlNoChanges**|4|No changes of any kind.|

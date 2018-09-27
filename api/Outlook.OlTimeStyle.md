@@ -17,7 +17,7 @@ Specifies how time values are displayed and how entries of time values are inter
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTimeStyleShortDuration**|4|The drop-down portion of the time control displays only duration values with the interval set by the  **[OlkTimeControl.IntervalTime](Outlook.OlkTimeControl.IntervalTime.md)** property.|
 | **olTimeStyleTimeDuration**|1|The drop-down portion of the time control displays time values starting from the  **[ReferenceTime](Outlook.OlkTimeControl.ReferenceTime.md)** and uses the **OlkTimeControl.IntervalTime** property as the increment. The edit box of the time control displays the duration from the **ReferenceTime** to the selected time.|

@@ -14,7 +14,7 @@ Contains constants that specify the bar type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDashed**|2|Dashed.|
 |**pjFramed**|1|Framed.|

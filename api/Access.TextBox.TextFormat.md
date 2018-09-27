@@ -1,5 +1,5 @@
 ---
-title: TextBox.TextFormat Property (Access)
+title: TextBox.TextFormat property (Access)
 keywords: vbaac10.chm11151,vbaac10.chm5650
 f1_keywords:
 - vbaac10.chm11151,vbaac10.chm5650
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.TextFormat Property (Access)
+# TextBox.TextFormat property (Access)
 
 Gets or sets whether rich text is displayed in the specified text box. Read/write [AcTextFormat](Access.AcTextFormat.md).
 
 
 ## Syntax
 
- _expression_. `TextFormat`
+_expression_. `TextFormat`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

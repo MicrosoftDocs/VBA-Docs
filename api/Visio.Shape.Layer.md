@@ -27,11 +27,11 @@ Returns the layer to which a shape is assigned. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|The ordinal of the layer to get.|
 
-### Return Value
+### Return value
 
 Layer
 

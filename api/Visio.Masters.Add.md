@@ -23,7 +23,7 @@ Adds a new object to a collection.
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Return Value
+### Return value
 
 Master
 

@@ -14,7 +14,7 @@ Specifies the capitalization of text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCaseLower**|2|Display the text as lowercase characters.|
 |**msoCaseSentence**|1|Display the text as sentence case characters. Sentence case specifies that the first letter of the sentence is capitalized and that all others should be lowercase (with some exceptions such as proper nouns, and acronyms).|

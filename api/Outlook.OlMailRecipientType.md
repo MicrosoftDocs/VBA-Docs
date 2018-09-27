@@ -17,7 +17,7 @@ Indicates the recipient type for the  **Item**.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olBCC**|3|The recipient is specified in the  **BCC** property of the **Item**. |
 | **olCC**|2|The recipient is specified in the  **CC** property of the **Item**.|

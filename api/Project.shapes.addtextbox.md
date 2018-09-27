@@ -20,7 +20,7 @@ Adds a text box to the report, and returns a  **Shape** object that represents t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|**MsoTextOrientation**|The orientation of the text box. Some constants may not be available, depending on the language that is installed.|
 | _Left_|Required|**Single**|The position, in points, of the left edge of the text box.|

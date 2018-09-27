@@ -24,7 +24,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** to be saved.|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be saved.|

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Controls Property (Access)
+title: NavigationControl.Controls property (Access)
 keywords: vbaac10.chm11036
 f1_keywords:
 - vbaac10.chm11036
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Controls Property (Access)
+# NavigationControl.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

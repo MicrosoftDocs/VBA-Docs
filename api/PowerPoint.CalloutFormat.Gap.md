@@ -23,7 +23,7 @@ Returns or sets the horizontal distance (in points) between the end of the callo
  _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

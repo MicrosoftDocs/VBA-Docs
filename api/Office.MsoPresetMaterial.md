@@ -14,7 +14,7 @@ Specifies the extrusion surface material. Used with the  **PresetMaterial** prop
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMaterialClear**|13|Clear|
 |**msoMaterialDarkEdge**|11|DarkEdge|

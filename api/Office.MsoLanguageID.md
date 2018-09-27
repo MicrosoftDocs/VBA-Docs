@@ -14,7 +14,7 @@ Specifies the language identifier.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLanguageIDAfrikaans**|1078|The Afrikaans language.|
 |**msoLanguageIDAlbanian**|1052|The Albanian language.|

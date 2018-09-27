@@ -17,7 +17,7 @@ Specifies the format of the body text of an item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatHTML**|2|HTML format|
 | **olFormatPlain**|1|Plain format|

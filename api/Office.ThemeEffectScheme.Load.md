@@ -24,7 +24,7 @@ Loads the effects scheme of a Microsoft Office theme from a file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the effect scheme file.|
 

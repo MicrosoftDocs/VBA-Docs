@@ -27,7 +27,7 @@ Prints all or part of the specified publication.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |From|Optional| **Long**|The starting page number.|
 |To|Optional| **Long**|The ending page number.|

@@ -23,7 +23,7 @@ Occurs when an ActiveX control gets input focus.
  _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -14,7 +14,7 @@ Specifies which error-bar parts to include.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlErrorBarIncludeBoth**|1|Both positive and negative error range.|
 | **xlErrorBarIncludeMinusValues**|3|Only negative error range.|

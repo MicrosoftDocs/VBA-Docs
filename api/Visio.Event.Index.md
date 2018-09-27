@@ -23,7 +23,7 @@ Gets the ordinal position of an  **Event** object in the **EventList** collectio
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -27,7 +27,7 @@ Adds a new custom property page to the Microsoft Outlook **Options** dialog box 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required| **Variant**|The property page being added to the dialog box.|
 | _Title_|Optional| **String**|The caption to be displayed on the property-page tab.|

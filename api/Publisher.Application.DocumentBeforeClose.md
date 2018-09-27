@@ -27,7 +27,7 @@ Occurs immediately before any open document closes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The document that is being closed.|
 |Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document does not close when the procedure is finished.|

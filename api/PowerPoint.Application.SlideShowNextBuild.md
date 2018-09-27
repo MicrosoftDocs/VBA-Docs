@@ -27,7 +27,7 @@ Occurs upon mouse-click or timing animation, but before the animated object beco
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required|**SlideShowWindow**|The active slide show window.|
 

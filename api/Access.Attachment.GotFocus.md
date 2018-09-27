@@ -1,5 +1,5 @@
 ---
-title: Attachment.GotFocus Event (Access)
+title: Attachment.GotFocus event (Access)
 keywords: vbaac10.chm14025
 f1_keywords:
 - vbaac10.chm14025
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GotFocus Event (Access)
+# Attachment.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 
 
 ## Syntax
 
- _expression_. `GotFocus`
+_expression_. `GotFocus`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

@@ -27,11 +27,11 @@ Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pUndoUnit_|Required| **[UNKNOWN]**|A reference to an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface.|
 
-### Return Value
+### Return value
 
 Nothing
 

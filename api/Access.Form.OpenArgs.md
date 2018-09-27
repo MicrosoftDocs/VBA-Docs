@@ -1,5 +1,5 @@
 ---
-title: Form.OpenArgs Property (Access)
+title: Form.OpenArgs property (Access)
 keywords: vbaac10.chm13428
 f1_keywords:
 - vbaac10.chm13428
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OpenArgs Property (Access)
+# Form.OpenArgs property (Access)
 
 Determines the string expression specified by the  _OpenArgs_ argument of the **OpenForm** method that opened a form. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `OpenArgs`
+_expression_. `OpenArgs`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

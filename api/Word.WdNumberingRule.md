@@ -14,7 +14,7 @@ Specifies the numbering rule to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRestartContinuous**|0|Numbers are assigned continuously.|
 | **wdRestartPage**|2|Numbers are reset for each page.|

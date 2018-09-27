@@ -17,7 +17,7 @@ Specifies whether there is any restriction on the type of attachments for an ite
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAttachmentBlockLevelNone**|0|There is no restriction on the type of the attachment based on its file extension.|
 | **olAttachmentBlockLevelOpen**|1|There is a restriction on the type of the attachment based on its file extension such that users must first save the attachment to disk before opening it.|

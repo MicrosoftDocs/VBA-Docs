@@ -14,7 +14,7 @@ Contains constants that specify the type of filter for a view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFilterViewTypeResource**|1|Resource view type.|
 |**pjFilterViewTypeTask**|0|Task view type.|

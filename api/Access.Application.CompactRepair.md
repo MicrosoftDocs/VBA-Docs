@@ -1,5 +1,5 @@
 ---
-title: Application.CompactRepair Method (Access)
+title: Application.CompactRepair method (Access)
 keywords: vbaac10.chm12602
 f1_keywords:
 - vbaac10.chm12602
@@ -11,5 +11,5 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CompactRepair Method (Access)
+# Application.CompactRepair method (Access)
 

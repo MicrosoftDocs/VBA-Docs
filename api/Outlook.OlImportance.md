@@ -17,7 +17,7 @@ Specifies the level of importance for an item marked by the creator of the item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olImportanceHigh**|2|Item is marked as high importance.|
 | **olImportanceLow**|0|Item is marked as low importance.|

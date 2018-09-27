@@ -1,5 +1,5 @@
 ---
-title: Form.Recordset Property (Access)
+title: Form.Recordset property (Access)
 keywords: vbaac10.chm13497
 f1_keywords:
 - vbaac10.chm13497
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Recordset Property (Access)
+# Form.Recordset property (Access)
 
 Returns or sets the ADO  **Recordset** or DAO **[Recordset](overview/Access.md)** object representing the record source for the specified object. Read/write **Object**.
 
 
 ## Syntax
 
- _expression_. `Recordset`
+_expression_. `Recordset`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

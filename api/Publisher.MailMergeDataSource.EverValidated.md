@@ -23,7 +23,7 @@ Indicates whether the list of recipient addresses in the parent  **MailMergeData
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

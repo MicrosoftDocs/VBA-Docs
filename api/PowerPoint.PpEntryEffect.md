@@ -14,7 +14,7 @@ Specifies the special effect applied to the animation for the specified shape or
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppEffectAppear**|3844|Appear|
 |**ppEffectBlindsHorizontal**|769|Blinds Horizontal|

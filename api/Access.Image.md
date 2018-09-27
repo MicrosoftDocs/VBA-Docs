@@ -1,5 +1,5 @@
 ---
-title: Image Object (Access)
+title: Image object (Access)
 keywords: vbaac10.chm10436
 f1_keywords:
 - vbaac10.chm10436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Image Object (Access)
+# Image object (Access)
 
 This object corresponds to an image control. The image control can add a picture to a form or report. For example, you could include an image control for a logo on an Invoice report.
 

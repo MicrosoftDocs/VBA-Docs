@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.GroupFooter Property (Access)
+title: GroupLevel.GroupFooter property (Access)
 keywords: vbaac10.chm12242
 f1_keywords:
 - vbaac10.chm12242
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.GroupFooter Property (Access)
+# GroupLevel.GroupFooter property (Access)
 
 You can use the  **GroupFooter** property to create a group footer for a selected field or expression in a report. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `GroupFooter`
+_expression_. `GroupFooter`
 
- _expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
 
 
 ## Remarks

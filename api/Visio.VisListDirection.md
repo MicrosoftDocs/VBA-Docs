@@ -17,7 +17,7 @@ Specifies constants that identify the list direction; passed to and returned by 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visListDirLeftToRight**|0|Shapes are arranged horizontally, from left to right.|
 | **visListDirRightToLeft**|1|Shapes are arranged horizontally, from right to left.|

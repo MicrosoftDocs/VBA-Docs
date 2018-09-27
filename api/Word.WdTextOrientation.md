@@ -14,7 +14,7 @@ Specifies the text direction in a range or selection.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTextOrientationDownward**|3|Text flows downward on a slope.|
 | **wdTextOrientationHorizontal**|0|Text flows horizontally. Default.|

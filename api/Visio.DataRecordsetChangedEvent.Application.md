@@ -26,7 +26,7 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordsetChange
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

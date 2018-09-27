@@ -17,7 +17,7 @@ Indicates the ownership state of the task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDelegatedTask**|1|Task has been delegated to another user.|
 | **olNewTask**|0|Task has not yet been assigned to a user.|

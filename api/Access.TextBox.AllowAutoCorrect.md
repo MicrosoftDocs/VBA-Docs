@@ -1,5 +1,5 @@
 ---
-title: TextBox.AllowAutoCorrect Property (Access)
+title: TextBox.AllowAutoCorrect property (Access)
 keywords: vbaac10.chm11055
 f1_keywords:
 - vbaac10.chm11055
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AllowAutoCorrect Property (Access)
+# TextBox.AllowAutoCorrect property (Access)
 
 You can use the  **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowAutoCorrect`
+_expression_. `AllowAutoCorrect`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

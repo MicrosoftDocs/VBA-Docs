@@ -14,7 +14,7 @@ Contains constants that specify the display format for weeks in a timescale.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjWeekLabelNoDateFormat**|35|No date is displayed.|
 |**pjWeekLabelWeek_ddd_dd**|88|Examples: Mon 30, Tue 1|

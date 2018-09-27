@@ -20,7 +20,7 @@ Returns or sets the bullet size relative to the size of the first text character
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

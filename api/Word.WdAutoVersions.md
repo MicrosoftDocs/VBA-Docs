@@ -14,7 +14,7 @@ Specifies the state of the option for automatically saving document versions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoVersionOff**|0|No document version is saved.|
 | **wdAutoVersionOnClose**|1|A document version is saved automatically when the document is closed.|

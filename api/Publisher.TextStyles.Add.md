@@ -27,14 +27,14 @@ Adds a new  **TextStyle** object to the specified **TextStyles** object and retu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |StyleName|Required| **String**|The name of the new text style. If the name matches an existing text style, the existing text style is overwritten.|
 |BasedOn|Optional| **String**|The name of the text style on which the new text style is based. If the name does not match an existing text style, an error occurs.|
 |Font|Optional| **Font**|The font settings to apply to the new text style.|
 |ParagraphFormat|Optional| **ParagraphFormat**|The paragraph formatting to apply to the new text style.|
 
-### Return Value
+### Return value
 
 TextStyle
 

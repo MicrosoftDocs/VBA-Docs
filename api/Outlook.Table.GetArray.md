@@ -27,11 +27,11 @@ Obtains a two-dimensional array that contains a set of row and column values fro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MaxRows_|Required| **Long**|Specifies the maximum number of rows to return from the  **Table** .|
 
-### Return Value
+### Return value
 
 A  **Variant** value that is a two-dimensional array representing a set of row and column values from the **Table** . The array is zero-based; an array index (i, j) indexes into the i-th column and j-th row in the array. Columns in the array correspond to columns in the **Table** , and rows in the array correspond to rows in the **Table** . The number of rows in the returned array is the lesser value of _MaxRows_ and the actual number of rows in the **Table**.
 

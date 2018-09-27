@@ -27,11 +27,11 @@ Revises the layout of a set of connected shapes on the page, by rotating or flip
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[VisLayoutDirection](Visio.VisLayoutDirection.md)**|The action to take. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

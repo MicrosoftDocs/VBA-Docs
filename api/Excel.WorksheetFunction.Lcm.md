@@ -27,11 +27,11 @@ Returns the least common multiple of integers. The least common multiple is the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number1, number2,... - 1 to 29 values for which you want the least common multiple. If value is not an integer, it is truncated.|
 
-### Return Value
+### Return value
 
 Double
 

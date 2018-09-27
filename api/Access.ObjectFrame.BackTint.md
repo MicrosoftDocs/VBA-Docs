@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.BackTint Property (Access)
+title: ObjectFrame.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.BackTint Property (Access)
+# ObjectFrame.BackTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackTint`
+_expression_. `BackTint`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

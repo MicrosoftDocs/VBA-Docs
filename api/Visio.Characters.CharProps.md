@@ -27,11 +27,11 @@ Sets a character property of a  **Characters** object to a new value. Write-only
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CellIndex_|Required| **Integer**|The index of the cell in the Character section to set. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Integer
 

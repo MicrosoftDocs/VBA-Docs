@@ -27,12 +27,12 @@ Renames a base calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FromName_|Required|**String**|**String**. The name of the base calendar to rename.|
 | _ToName_|Required|**String**|**String**. The new name of the base calendar.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -14,7 +14,7 @@ Specifies the status of a link.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLinkStatusCopiedValues**|10|Copied values.|
 | **xlLinkStatusIndeterminate**|5|Unable to determine status.|

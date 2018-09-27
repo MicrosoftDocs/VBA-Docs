@@ -1,5 +1,5 @@
 ---
-title: Application.CreateReport Method (Access)
+title: Application.CreateReport method (Access)
 keywords: vbaac10.chm12517
 f1_keywords:
 - vbaac10.chm12517
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateReport Method (Access)
+# Application.CreateReport method (Access)
 
 The  **CreateReport** method creates a report and returns a **[Report](Access.Report.md)** object. For example, suppose you are building a custom wizard to create a sales report. You can use the **CreateReport** method in your wizard to create a new report based on a specified report template.
 
 
 ## Syntax
 
- _expression_. `CreateReport`( ` _Database_`, ` _ReportTemplate_` )
+_expression_. `CreateReport`( ` _Database_`, ` _ReportTemplate_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Database_|Optional|**Variant**|The name of the database that contains the report template you want to use to create a report. If you want the current database, omit this argument. If you want to use an open library database, specify the library database with this argument.|
 | _ReportTemplate_|Optional|**Variant**| The name of the report you want to use as a template to create a new report.|
 
-### Return Value
+### Return value
 
 Report
 

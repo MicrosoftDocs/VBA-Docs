@@ -1,5 +1,5 @@
 ---
-title: TabControl.ShortcutMenuBar Property (Access)
+title: TabControl.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm12097
 f1_keywords:
 - vbaac10.chm12097
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.ShortcutMenuBar Property (Access)
+# TabControl.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ShortcutMenuBar`
+_expression_. `ShortcutMenuBar`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

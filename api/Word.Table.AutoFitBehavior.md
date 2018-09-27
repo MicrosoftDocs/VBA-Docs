@@ -27,7 +27,7 @@ Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Behavior_|Required| **WdAutoFitBehavior**|How Word resizes the specified table with the AutoFit feature is used.|
 

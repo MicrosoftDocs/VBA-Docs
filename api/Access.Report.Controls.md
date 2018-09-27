@@ -1,5 +1,5 @@
 ---
-title: Report.Controls Property (Access)
+title: Report.Controls property (Access)
 keywords: vbaac10.chm13794
 f1_keywords:
 - vbaac10.chm13794
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Controls Property (Access)
+# Report.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Workbook
 

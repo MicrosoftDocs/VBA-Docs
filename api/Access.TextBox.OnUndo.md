@@ -1,5 +1,5 @@
 ---
-title: TextBox.OnUndo Property (Access)
+title: TextBox.OnUndo property (Access)
 keywords: vbaac10.chm11146
 f1_keywords:
 - vbaac10.chm11146
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OnUndo Property (Access)
+# TextBox.OnUndo property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **Undo** event occurs. Read/write..
 
 
 ## Syntax
 
- _expression_. `OnUndo`
+_expression_. `OnUndo`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

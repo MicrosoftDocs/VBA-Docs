@@ -27,11 +27,11 @@ Occurs after a query is completed or canceled.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Success_|Required| **Boolean**| **True** if the query was completed successfully.|
 
-### Return Value
+### Return value
 
 Nothing
 

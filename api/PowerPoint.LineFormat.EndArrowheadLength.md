@@ -23,7 +23,7 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoArrowheadLength
 

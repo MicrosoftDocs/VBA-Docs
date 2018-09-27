@@ -27,12 +27,12 @@ Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RuleSet_|Required| **ValidationRuleSet**|The existing rule set to copy and add to the collection of rule sets.|
 | _NameU_|Optional| **String**|The universal name to assign to the new validation rule set.|
 
-### Return Value
+### Return value
 
  **ValidationRuleSet**
 

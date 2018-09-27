@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ProgressChange Event (Access)
+title: WebBrowserControl.ProgressChange event (Access)
 keywords: vbaac10.chm143142
 f1_keywords:
 - vbaac10.chm143142
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ProgressChange Event (Access)
+# WebBrowserControl.ProgressChange event (Access)
 
 Occurs when the progress of a download operation is updated.
 
 
 ## Syntax
 
- _expression_. `ProgressChange`( ` _Progress_`, ` _ProgressMax_` )
+_expression_. `ProgressChange`( ` _Progress_`, ` _ProgressMax_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Progress_|Required|**Long**|Specifies the amount of total progress to show, or -1 when progress is complete.|
 | _ProgressMax_|Required|**Long**|Specifies the maximum progress value. |
 
-### Return Value
+### Return value
 
 nothing
 

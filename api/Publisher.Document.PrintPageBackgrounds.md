@@ -23,7 +23,7 @@ Returns or sets  **True** to include page backgrounds when printing pages from t
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

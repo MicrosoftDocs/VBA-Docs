@@ -27,7 +27,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following  **[PjBarItem](Project.PjBarItem.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
 | _Bar_|Optional|**Long**|The bar type. Can be one of the following  **[PjCalendarBarType](Project.PjCalendarBarType.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
@@ -43,7 +43,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 | _Field5_|Optional|**String**|The fifth field to display in the bar.|
 | _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following  **[PjLineType](Project.PjLineType.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

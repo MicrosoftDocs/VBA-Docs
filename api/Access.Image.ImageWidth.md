@@ -1,5 +1,5 @@
 ---
-title: Image.ImageWidth Property (Access)
+title: Image.ImageWidth property (Access)
 keywords: vbaac10.chm10401
 f1_keywords:
 - vbaac10.chm10401
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.ImageWidth Property (Access)
+# Image.ImageWidth property (Access)
 
 You can use the  **ImageWidth** property to determine the width in twips of a picture in an image control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ImageWidth`
+_expression_. `ImageWidth`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

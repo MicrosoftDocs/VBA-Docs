@@ -27,14 +27,14 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CalendarName_|Optional|**String**|The name of the calendar.|
 | _Locked_|Optional|**Boolean**|**True** if Project disables the **New** and **Options** buttons in the **Change Working Time** dialog box. The default value is **False**.|
 | _SelectedDate_|Optional|**Variant**||
 | _ProjectName_|Optional|**Variant**|Name of the project to change. The default is the active project.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

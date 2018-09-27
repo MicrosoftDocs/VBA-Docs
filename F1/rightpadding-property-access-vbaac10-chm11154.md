@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.RightPadding Property (Access)](http://msdn.microsoft.com/library/7f9e2e21-1e36-01c1-f4e7-b3373644f9e5%28Office.15%29.aspx)
+[TextBox.RightPadding property (Access)](http://msdn.microsoft.com/library/7f9e2e21-1e36-01c1-f4e7-b3373644f9e5%28Office.15%29.aspx)
 
-[NavigationControl.RightPadding Property (Access)](http://msdn.microsoft.com/library/8c2cd0df-f629-e8d1-a2df-ba0f6203ec07%28Office.15%29.aspx)
+[NavigationControl.RightPadding property (Access)](http://msdn.microsoft.com/library/8c2cd0df-f629-e8d1-a2df-ba0f6203ec07%28Office.15%29.aspx)
 
 

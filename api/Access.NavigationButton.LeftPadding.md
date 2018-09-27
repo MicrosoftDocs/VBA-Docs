@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.LeftPadding Property (Access)
+title: NavigationButton.LeftPadding property (Access)
 keywords: vbaac10.chm10524
 f1_keywords:
 - vbaac10.chm10524
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.LeftPadding Property (Access)
+# NavigationButton.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_. `LeftPadding`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

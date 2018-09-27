@@ -27,11 +27,11 @@ Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Pro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _goalArea_|Required|**Integer**|An integer that corresponds to the new goal area to which you are changing. For example, setting the  _goalArea_ argument to 1 will switch to the first goal area in the Project Guide.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

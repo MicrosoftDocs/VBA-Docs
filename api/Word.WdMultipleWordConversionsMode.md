@@ -14,7 +14,7 @@ Specifies the direction for conversion between Hangul and Hanja.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHangulToHanja**|0|Hangul to Hanja.|
 | **wdHanjaToHangul**|1|Hanja to Hangul.|

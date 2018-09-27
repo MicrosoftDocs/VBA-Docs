@@ -27,11 +27,11 @@ Occurs when any  **Protected View** window is resized.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized  **Protected View** window.|
 
-### Return Value
+### Return value
 
 Nothing
 

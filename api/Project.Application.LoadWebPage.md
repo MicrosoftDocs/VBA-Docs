@@ -24,12 +24,12 @@ Occurs after the  **LoadWebBrowserControl** method is called. The method loads t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window from where the LoadWebBrowserControl method was called.|
 | _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the LoadWebBrowserControl method.|
 
-### Return Value
+### Return value
 
 nothing
 

@@ -14,7 +14,7 @@ Specifies where the gutter appears in the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGutterPosLeft**|0|On the left side.|
 | **wdGutterPosRight**|2|On the right side.|

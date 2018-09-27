@@ -14,7 +14,7 @@ Specifies the type of print range for the presentation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPrintAll**|1|Print all slides in the presentation.|
 |**ppPrintCurrent**|3|Print the current slide from the presentation.|

@@ -14,7 +14,7 @@ Specifies the bullet type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBulletMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoBulletNone**|0|No bullets.|

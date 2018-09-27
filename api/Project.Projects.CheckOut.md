@@ -27,11 +27,11 @@ Checks out the specified file if it is stored in a SharePoint document library.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|The name of the file to check out.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

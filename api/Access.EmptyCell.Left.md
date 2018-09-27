@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Left Property (Access)
+title: EmptyCell.Left property (Access)
 keywords: vbaac10.chm14307
 f1_keywords:
 - vbaac10.chm14307
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Left Property (Access)
+# EmptyCell.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

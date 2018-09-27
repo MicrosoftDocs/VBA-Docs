@@ -24,13 +24,13 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageXAtViewCenter|Required| **Double**|The x-coordinate, in drawing units, of the center of the page.|
 |PageYAtViewCenter|Required| **Double**|The y-coordinate, in drawing units, of the center of the page.|
 |ZoomFactor|Required| **Double**|The factor by which the zoom (the page size) is multiplied. |
 
-### Return Value
+### Return value
 
 Nothing
 

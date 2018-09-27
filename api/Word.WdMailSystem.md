@@ -14,7 +14,7 @@ Specifies the type of mail system.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMAPI**|1|Standard Messaging Application Programming Interface (MAPI) mail system.|
 | **wdMAPIandPowerTalk**|3|Both a standard Messaging Application Programming Interface (MAPI) mail system and a PowerTalk mail system.|

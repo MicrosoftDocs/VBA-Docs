@@ -20,7 +20,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices of the polyline.|
 | _SafeArrayOfPoints_|Required|VARIANT||

@@ -27,7 +27,7 @@ Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pages_|Required| **[PropertyPages](Outlook.PropertyPages.md)**|The collection of property pages that have been added to the dialog box. This collection includes only custom property pages. It does not include standard Microsoft Outlook property pages.|
 | _Folder_|Required| **PropertyPages**|This argument is only used with the  **[Folder](Outlook.Folder.md)** object. The **Folder** object for which the **Properties** dialog box is being opened.|

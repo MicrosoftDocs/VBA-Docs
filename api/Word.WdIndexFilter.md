@@ -14,7 +14,7 @@ Specifies how Microsoft Word classifies the first character of entries in the sp
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIndexFilterAiueo**|1|Japanese words use the AIUEO method of alphabetizing.|
 | **wdIndexFilterAkasatana**|2|Japanese words use Akasatana.|

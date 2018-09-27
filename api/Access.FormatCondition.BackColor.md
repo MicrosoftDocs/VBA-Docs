@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.BackColor Property (Access)
+title: FormatCondition.BackColor property (Access)
 keywords: vbaac10.chm10053
 f1_keywords:
 - vbaac10.chm10053
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.BackColor Property (Access)
+# FormatCondition.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

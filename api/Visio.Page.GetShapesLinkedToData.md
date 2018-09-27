@@ -30,12 +30,12 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of type  **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data recordset specified in DataRecordsetID.|
 
-### Return Value
+### Return value
 
 Nothing
 

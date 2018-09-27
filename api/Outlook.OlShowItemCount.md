@@ -17,7 +17,7 @@ Indicates which type of Microsoft Outlook item count is displayed for folders in
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olNoItemCount**|0|No item count displayed.|
 | **olShowTotalItemCount**|2|Shows count of total number of items.|

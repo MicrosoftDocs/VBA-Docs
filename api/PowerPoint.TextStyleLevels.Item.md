@@ -27,11 +27,11 @@ Returns a single text style level from the specified  **TextStyleLevels** collec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level_|Required|**Long**|The index number of the text style level in the collection to be returned.|
 
-### Return Value
+### Return value
 
 TextStyleLevel
 

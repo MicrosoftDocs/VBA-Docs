@@ -14,7 +14,7 @@ Contains constants that specify how the cost of a resource is accrued.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjEnd**|2|Task accrues the resource cost when the task ends.|
 |**pjProrated**|3|Task accrues the resource cost as the task progresses.|

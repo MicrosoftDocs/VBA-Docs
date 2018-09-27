@@ -27,13 +27,13 @@ Performs operations that involve the Microsoft Visio Help system.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrHelpFileName_|Required| **String**|Specifies an HTML file, a URL, a compiled HTML file, or an optional window definition (preceded with a ">" character). If the command being used does not require a file or URL, this value may be "".|
 | _Command_|Required| **Long**|The action to perform.|
 | _Data_|Required| **Long**|Any data that is required based on the value of the command argument.|
 
-### Return Value
+### Return value
 
 Nothing
 

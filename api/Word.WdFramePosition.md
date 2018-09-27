@@ -14,7 +14,7 @@ Specifies the reference point against which the frame position is calculated.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFrameBottom**|-999997|Bottom margin.|
 | **wdFrameCenter**|-999995|Center of document.|

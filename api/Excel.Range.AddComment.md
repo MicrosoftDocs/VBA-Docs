@@ -27,11 +27,11 @@ Adds a comment to the range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The comment text.|
 
-### Return Value
+### Return value
 
 Comment
 

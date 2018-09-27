@@ -14,7 +14,7 @@ Contains constants that specify the type of calculation to be performed for summ
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCalcFormula**|11|Use formula.|
 |**pjCalcNone**|10|No calculation.|

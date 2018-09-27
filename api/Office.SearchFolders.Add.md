@@ -27,7 +27,7 @@ Adds a search folder to a file search.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ScopeFolder_|Required|** object**|The folder to add to the search.|
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Visible Property (Access)
+title: BoundObjectFrame.Visible property (Access)
 keywords: vbaac10.chm10921
 f1_keywords:
 - vbaac10.chm10921
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Visible Property (Access)
+# BoundObjectFrame.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

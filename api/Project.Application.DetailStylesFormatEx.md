@@ -27,7 +27,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the  **[PjTaskTimescaledData](Project.PjTaskTimescaledData.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](Project.PjResourceTimescaledData.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
@@ -41,7 +41,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough style.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

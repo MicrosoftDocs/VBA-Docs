@@ -1,5 +1,5 @@
 ---
-title: Application.MacroError Property (Access)
+title: Application.MacroError property (Access)
 keywords: vbaac10.chm12615
 f1_keywords:
 - vbaac10.chm12615
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MacroError Property (Access)
+# Application.MacroError property (Access)
 
 Returns a  **[MacroError](Access.MacroError.md)** object that contains information about the latest error to occur in a macro. Read-only.
 
 
 ## Syntax
 
- _expression_. `MacroError`
+_expression_. `MacroError`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## See also

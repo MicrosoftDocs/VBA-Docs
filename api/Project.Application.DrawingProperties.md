@@ -27,11 +27,11 @@ Displays the  **Format Drawing** dialog box, which prompts the user to customize
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SizePositionTab_|Optional|**Boolean**|**True** if the **Size &; Position** tab of the **Format Drawing** dialog box appears. **False** if the **Line &; Fill** tab appears.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

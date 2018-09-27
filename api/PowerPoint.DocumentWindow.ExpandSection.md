@@ -27,7 +27,7 @@ Expands the section in the current  **DocumentWindow**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**[INT]**|The index of the section to be expanded.|
 | _Expand_|Required|**Boolean**|Indicates whether the section was expanded.|

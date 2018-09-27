@@ -27,7 +27,7 @@ Returns information about how Visual Basic was called (for more information, see
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|An index to the array. This argument is used only when the property returns an array (for more information, see the Remarks section).|
 

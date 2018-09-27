@@ -1,5 +1,5 @@
 ---
-title: Report.PrtDevNames Property (Access)
+title: Report.PrtDevNames property (Access)
 keywords: vbaac10.chm13739
 f1_keywords:
 - vbaac10.chm13739
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PrtDevNames Property (Access)
+# Report.PrtDevNames property (Access)
 
 You can use the  **PrtDevNames** property to set or return information about the printer selected in the **Print** dialog box for a form or report. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PrtDevNames`
+_expression_. `PrtDevNames`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

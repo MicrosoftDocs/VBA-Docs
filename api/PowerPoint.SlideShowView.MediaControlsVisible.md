@@ -23,7 +23,7 @@ Indicates whether the media controls are visible. Read-only.
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
  **[MsoTriState](./Office.MsoTriState.md)**
 

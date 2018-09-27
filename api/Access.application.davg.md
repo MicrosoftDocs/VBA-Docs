@@ -1,5 +1,5 @@
 ---
-title: Application.DAvg Method (Access)
+title: Application.DAvg method (Access)
 keywords: vbaac10.chm12528
 f1_keywords:
 - vbaac10.chm12528
@@ -9,29 +9,29 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DAvg Method (Access)
+# Application.DAvg method (Access)
 
 You can use the  **DAvg** function to calculate the average of a set of values in a specified set of records (a domain).
 
 
 ## Syntax
 
- _expression_. `DAvg`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
+_expression_. `DAvg`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the field containing the numeric data you want to average. It can be a string expression identifying a field in a table or query, or it can be an expression that performs a calculation on data in that field. In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|
 | _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DAvg** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DAvg** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise the  **DAvg** function returns a **Null**.|
 
-### Return Value
+### Return value
 
 Variant
 

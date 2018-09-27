@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Hyperlink Property (Access)
+title: NavigationButton.Hyperlink property (Access)
 keywords: vbaac10.chm10446
 f1_keywords:
 - vbaac10.chm10446
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Hyperlink Property (Access)
+# NavigationButton.Hyperlink property (Access)
 
 You can use the  **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_. `Hyperlink`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Example

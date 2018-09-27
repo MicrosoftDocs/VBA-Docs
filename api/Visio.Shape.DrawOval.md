@@ -27,14 +27,14 @@ Adds an oval (ellipse) to the  **Shapes** collection of a group shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x1_|Required| **Double**|The x-coordinate of one corner of the ellipse's width-height box.|
 | _y1_|Required| **Double**|The y-coordinate of one corner of the ellipse's width-height box.|
 | _x2_|Required| **Double**|The x-coordinate of the other corner of the ellipse's width-height box.|
 | _y2_|Required| **Double**|The y-coordinate of the other corner of the ellipse's width-height box.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -1,5 +1,5 @@
 ---
-title: Page.IsVisible Property (Access)
+title: Page.IsVisible property (Access)
 keywords: vbaac10.chm12165
 f1_keywords:
 - vbaac10.chm12165
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.IsVisible Property (Access)
+# Page.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

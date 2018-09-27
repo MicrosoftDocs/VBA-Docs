@@ -14,7 +14,7 @@ Specifies the type of shadowing effect.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShadowStyleInnerShadow**|1|Specifies the inner shadow effect.|
 |**msoShadowStyleMixed**|-2|Specifies a combination of inner and outer shadow effects.|

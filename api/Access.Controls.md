@@ -1,5 +1,5 @@
 ---
-title: Controls Object (Access)
+title: Controls object (Access)
 keywords: vbaac10.chm10176
 f1_keywords:
 - vbaac10.chm10176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Controls Object (Access)
+# Controls object (Access)
 
 The  **Controls** collection contains all of the controls on a form, report, or subform, within another control, or attached to another control. The **Controls** collection is a member of a **[Form](Access.Form.md)**, **[Report](Access.Report.md)**, and **[SubForm](Access.SubForm.md)** objects.
 

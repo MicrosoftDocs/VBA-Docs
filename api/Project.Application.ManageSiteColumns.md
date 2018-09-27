@@ -23,7 +23,7 @@ Displays the  **Manage Fields** dialog box, which enables synchronizing built-in
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

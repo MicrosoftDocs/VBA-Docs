@@ -1,5 +1,5 @@
 ---
-title: Form.GridX Property (Access)
+title: Form.GridX property (Access)
 keywords: vbaac10.chm13389
 f1_keywords:
 - vbaac10.chm13389
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.GridX Property (Access)
+# Form.GridX property (Access)
 
 You can use the  **GridX** property (along with the **GridY** property) to specify the horizontal and vertical divisions of the alignment grid in form Design view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `GridX`
+_expression_. `GridX`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

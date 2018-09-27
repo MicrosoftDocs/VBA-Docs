@@ -14,7 +14,7 @@ Constants that specify the type of the animation command, passed to and returned
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimCommandTypeCall**|1|Call|
 |**msoAnimCommandTypeEvent**|0|Event|

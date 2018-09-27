@@ -14,7 +14,7 @@ Indicates various image warping formats.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoWarpFormat1**|0|Specifies Warp Format 1.|
 |**msoWarpFormat10**|9|Specifies Warp Format 10.|

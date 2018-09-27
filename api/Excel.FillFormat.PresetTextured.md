@@ -27,7 +27,7 @@ Sets the specified fill format to a preset texture.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetTexture_|Required| **[MsoPresetTexture](Office.MsoPresetTexture.md)**|The type of texture to apply.|
 

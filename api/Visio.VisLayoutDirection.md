@@ -17,7 +17,7 @@ Specifies constants that define the layout directions for a diagram or selection
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutDirRotateRight**|0|Rotates the diagram or selection 90 degrees clockwise.|
 | **visLayoutDirRotateLeft**|1|Rotates the diagram or selection 90 degrees counter-clockwise.|

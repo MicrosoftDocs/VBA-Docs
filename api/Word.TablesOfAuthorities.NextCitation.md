@@ -27,7 +27,7 @@ Finds and selects the next instance of the text specified by the ShortCitation p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShortCitation_|Required| **String**|The text of the short citation.|
 

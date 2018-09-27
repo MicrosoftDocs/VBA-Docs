@@ -1,5 +1,5 @@
 ---
-title: CodeProject.IsTrusted Property (Access)
+title: CodeProject.IsTrusted property (Access)
 keywords: vbaac10.chm12730
 f1_keywords:
 - vbaac10.chm12730
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.IsTrusted Property (Access)
+# CodeProject.IsTrusted property (Access)
 
 Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsTrusted`
+_expression_. `IsTrusted`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

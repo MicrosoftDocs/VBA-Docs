@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisStatCodes](Visio.visstatcodes.md)**
 

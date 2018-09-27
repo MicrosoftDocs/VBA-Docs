@@ -23,7 +23,7 @@ Creates a new shape by joining selected shapes.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

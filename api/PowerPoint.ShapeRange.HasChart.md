@@ -23,7 +23,7 @@ Returns whether the shape range represented by the specified object contains a c
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

@@ -27,13 +27,13 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents a sym
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FontName_|Required|**String**|The font name.|
 | _CharNumber_|Required|**Long**|The Unicode or ASCII character number.|
 | _Unicode_|Optional|**MsoTriState**|Specifies whether the CharNumber argument represents an ASCII or Unicode character.|
 
-### Return Value
+### Return value
 
 TextRange
 

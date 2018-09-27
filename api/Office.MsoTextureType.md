@@ -14,7 +14,7 @@ Specifies the texture type for the selected fill.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTexturePreset**|1|Preset texture type.|
 |**msoTextureTypeMixed**|-2|Return value only; indicates a combination of the other states. |

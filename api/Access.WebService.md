@@ -1,5 +1,5 @@
 ---
-title: WebService Object (Access)
+title: WebService object (Access)
 keywords: vbaac10.chm14556
 f1_keywords:
 - vbaac10.chm14556
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebService Object (Access)
+# WebService object (Access)
 
 Represents a Data Service data connection.
 

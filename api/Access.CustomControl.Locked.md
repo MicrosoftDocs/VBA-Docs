@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Locked Property (Access)
+title: CustomControl.Locked property (Access)
 keywords: vbaac10.chm12016
 f1_keywords:
 - vbaac10.chm12016
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Locked Property (Access)
+# CustomControl.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

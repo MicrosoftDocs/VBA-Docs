@@ -14,7 +14,7 @@ Specifies the current source of the list.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSrcExternal**|0|External data source (Microsoft SharePoint Foundation site).|
 | **xlSrcModel**|4|PowerPivot Model|

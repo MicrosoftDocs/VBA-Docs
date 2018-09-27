@@ -27,7 +27,7 @@ Adds a picture to a contact item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
 

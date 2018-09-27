@@ -27,7 +27,7 @@ Allows an add-in to update the user interface of a form region before it is disp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormRegion_|Required| **[FormRegion](Outlook.FormRegion.md)**|The  **FormRegion** object representing the form region that is to be displayed.|
 

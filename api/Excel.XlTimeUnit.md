@@ -14,7 +14,7 @@ Specifies the unit of time for chart axes and data series.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDays**|0|Days|
 | **xlMonths**|1|Months|

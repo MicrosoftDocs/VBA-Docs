@@ -17,7 +17,7 @@ Driver-type constants returned by the  ** [Printer.DriverType](Publisher.Printer
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbDriverTypeNonPostScript**|1|Non PostScript|
 | **pbDriverTypePostScript1**|2|PostScript 1|

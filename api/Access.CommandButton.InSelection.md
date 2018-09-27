@@ -1,5 +1,5 @@
 ---
-title: CommandButton.InSelection Property (Access)
+title: CommandButton.InSelection property (Access)
 keywords: vbaac10.chm10492
 f1_keywords:
 - vbaac10.chm10492
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.InSelection Property (Access)
+# CommandButton.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `InSelection`
+_expression_. `InSelection`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

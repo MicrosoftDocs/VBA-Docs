@@ -20,7 +20,7 @@ Adds a  **Hyperlink** object to a Microsoft Visio shape.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Hyperlink
 

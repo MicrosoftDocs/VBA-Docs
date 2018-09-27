@@ -25,7 +25,7 @@ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.m
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StringOrNumber_|Required| **Variant**|String or number to be formatted; can be passed as a string, floating point number, or integer.|
 | _UnitsIn_|Required| **Variant**|Measurement units to attribute to _StringOrNumber_.|

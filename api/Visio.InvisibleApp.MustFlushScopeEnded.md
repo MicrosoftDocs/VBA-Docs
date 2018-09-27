@@ -24,7 +24,7 @@ Private Sub  _expression_ _'MustFlushScopeEnded'(**_ByVal app As [IVAPPLICATION]
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Visio that is forced to flush its event queue.|
 

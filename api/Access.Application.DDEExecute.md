@@ -1,5 +1,5 @@
 ---
-title: Application.DDEExecute Method (Access)
+title: Application.DDEExecute method (Access)
 keywords: vbaac10.chm12540
 f1_keywords:
 - vbaac10.chm12540
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEExecute Method (Access)
+# Application.DDEExecute method (Access)
 
 You can use the  **DDEExecute** statement to send a command from a client application to a server application over an open dynamic data exchange (DDE) channel.
 
 
 ## Syntax
 
- _expression_. `DDEExecute`( ` _ChanNum_`, ` _Command_` )
+_expression_. `DDEExecute`( ` _ChanNum_`, ` _Command_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChanNum_|Required|**Variant**|A channel number, the long integer returned by the  **[DDEInitiate](Access.Application.DDEInitiate.md)** function.|
 | _Command_|Required|**String**|a command recognized by the server application. Check the server application's documentation for a list of these commands.|

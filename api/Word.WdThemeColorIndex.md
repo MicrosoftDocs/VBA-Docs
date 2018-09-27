@@ -14,7 +14,7 @@ Specifies the theme colors for document themes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNotThemeColor**|-1|No color.|
 | **wdThemeColorAccent1**|4|Accent color 1.|

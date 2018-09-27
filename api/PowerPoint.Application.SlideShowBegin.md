@@ -27,7 +27,7 @@ Occurs when you start a slide show.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required|**SlideShowWindow**|The slide show window initialized prior to this event.|
 

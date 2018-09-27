@@ -23,7 +23,7 @@ Gets or sets the e-mail address of the signer of the document. Read/write.
  _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

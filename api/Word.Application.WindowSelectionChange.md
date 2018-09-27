@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Word.Application.md) ob
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The text selected. If no text is selected, the Sel parameter returns either nothing or the first character to the right of the insertion point.|
 

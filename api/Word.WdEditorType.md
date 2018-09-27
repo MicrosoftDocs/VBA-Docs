@@ -14,7 +14,7 @@ Specifies a user or group of users for a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEditorCurrent**|-6|Represents the current user of the document.|
 | **wdEditorEditors**|-5|Represents the Editors group for documents that use Information Rights Management.|

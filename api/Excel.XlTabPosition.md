@@ -14,7 +14,7 @@ Specifies the first or last tab position.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTabPositionFirst**|0|First tab position.|
 | **xlTabPositionLast**|1|Last tab position.|

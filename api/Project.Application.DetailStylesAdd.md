@@ -27,12 +27,12 @@ Adds another timescale data field to a usage view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Long**|The timescale data field to add. The default value is  **pjWork**.If the active view is the Resource Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants.|
 | _Position_|Optional|**Integer**|The position to add the field, relative to other fields. If  **Position** is n + 2 or greater, where n is the number of fields displayed, the field is added at n + 1. The default value is n + 1.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

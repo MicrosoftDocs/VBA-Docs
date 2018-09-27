@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.ColumnOrder Property (Access)
+title: BoundObjectFrame.ColumnOrder property (Access)
 keywords: vbaac10.chm10943
 f1_keywords:
 - vbaac10.chm10943
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.ColumnOrder Property (Access)
+# BoundObjectFrame.ColumnOrder property (Access)
 
 You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `ColumnOrder`
+_expression_. `ColumnOrder`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

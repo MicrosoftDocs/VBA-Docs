@@ -24,7 +24,7 @@ Gets overallocated assignments for a task start driver. Read-only  **OverAllocat
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _overallocationType_|Required|**PjOverallocationType**|Can be one of the  **[PjOverallocationType](Project.PjOverallocationType.md)** constants, which determines the type of overallocation.|
 

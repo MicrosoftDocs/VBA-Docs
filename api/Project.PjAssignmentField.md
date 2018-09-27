@@ -14,7 +14,7 @@ Contains constants that specify an assignment field in the Project database. For
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssignmentActualCost**|255852572|Represents the Actual Cost (Assignment) field.|
 |**pjAssignmentActualFinish**|255852567|Represents the Actual Finish (Assignment) field.|

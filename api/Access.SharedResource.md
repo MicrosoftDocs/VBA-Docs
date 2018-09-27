@@ -1,5 +1,5 @@
 ---
-title: SharedResource Object (Access)
+title: SharedResource object (Access)
 keywords: vbaac10.chm14654
 f1_keywords:
 - vbaac10.chm14654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResource Object (Access)
+# SharedResource object (Access)
 
 Represents a Microsoft Office theme or image that is available as a shared resource in the database.
 

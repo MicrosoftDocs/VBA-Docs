@@ -1,5 +1,5 @@
 ---
-title: TextBox.FilterLookup Property (Access)
+title: TextBox.FilterLookup property (Access)
 keywords: vbaac10.chm11062,vbaac10.chm4353
 f1_keywords:
 - vbaac10.chm11062,vbaac10.chm4353
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FilterLookup Property (Access)
+# TextBox.FilterLookup property (Access)
 
 You can use the  **FilterLookup** property to specify whether values appear in a bound text box control when using the Filter By Form or Server Filter By Form window. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `FilterLookup`
+_expression_. `FilterLookup`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

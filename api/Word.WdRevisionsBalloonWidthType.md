@@ -14,7 +14,7 @@ Specifies how Microsoft Word measures the width of revision balloons.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBalloonWidthPercent**|0|Measured as a percentage of the width of the document.|
 | **wdBalloonWidthPoints**|1|Measured in points.|

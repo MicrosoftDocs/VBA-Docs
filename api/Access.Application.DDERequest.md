@@ -1,5 +1,5 @@
 ---
-title: Application.DDERequest Method (Access)
+title: Application.DDERequest method (Access)
 keywords: vbaac10.chm12542
 f1_keywords:
 - vbaac10.chm12542
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDERequest Method (Access)
+# Application.DDERequest method (Access)
 
 You can use the  **DDERequest** function over an open dynamic data exchange (DDE) channel to request an item of information from a DDE server application.
 
 
 ## Syntax
 
- _expression_. `DDERequest`( ` _ChanNum_`, ` _Item_` )
+_expression_. `DDERequest`( ` _ChanNum_`, ` _Item_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChanNum_|Required|**Variant**|A channel number, the integer returned by the  **DDEInitiate** function.|
 | _Item_|Required|**String**|A string expression that's the name of a data item recognized by the application specified by the  **DDEInitiate** function. Check the application's documentation for a list of possible items.|
 
-### Return Value
+### Return value
 
 String
 

@@ -24,7 +24,7 @@ Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Gro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or number of the item in the collection.|
 

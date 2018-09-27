@@ -27,7 +27,7 @@ Flips a shape horizontally or vertically.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FlipCmd_|Required| **MsoFlipCmd**|The flip orientation.|
 

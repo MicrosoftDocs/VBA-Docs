@@ -1,5 +1,5 @@
 ---
-title: AllQueries Object (Access)
+title: AllQueries object (Access)
 keywords: vbaac10.chm12689
 f1_keywords:
 - vbaac10.chm12689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllQueries Object (Access)
+# AllQueries object (Access)
 
 The  **AllQueries** collection contains an **[AccessObject](Access.AccessObject.md)** for each query in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

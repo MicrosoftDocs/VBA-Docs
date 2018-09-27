@@ -27,11 +27,11 @@ The  **ServerStart** method is called immediately after a real-time data server 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CallbackObject_|Required| **IRTDUpdateEvent**|The callback object.|
 
-### Return Value
+### Return value
 
 Long
 

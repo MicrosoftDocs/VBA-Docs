@@ -27,12 +27,12 @@ Opens a DDE channel to an application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _App_|Required| **String**|The application name.|
 | _Topic_|Required| **String**|Describes something in the application to which you're opening a channel ? usually a document of that application.|
 
-### Return Value
+### Return value
 
 Long
 

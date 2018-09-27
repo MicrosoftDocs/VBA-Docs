@@ -23,7 +23,7 @@ Determines whether large toolbar buttons are shown. Read/write.
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

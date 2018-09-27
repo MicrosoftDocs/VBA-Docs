@@ -27,7 +27,7 @@ Gets a value that indicates which file type will be searched for. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the object to be returned.|
 

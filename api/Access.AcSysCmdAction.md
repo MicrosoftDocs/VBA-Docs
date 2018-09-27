@@ -1,5 +1,5 @@
 ---
-title: AcSysCmdAction Enumeration (Access)
+title: AcSysCmdAction enumeration (Access)
 keywords: vbaac10.chm10027
 f1_keywords:
 - vbaac10.chm10027
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSysCmdAction Enumeration (Access)
+# AcSysCmdAction enumeration (Access)
 
 Used with the  **SysCmd** method to specify an action to take.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSysCmdAccessDir**|9|Returns the name of the directory where Msaccess.exe is located.|
 |**acSysCmdAccessVer**|7|Returns the version number of Microsoft Access.|

@@ -1,5 +1,5 @@
 ---
-title: Application.ImportXML Method (Access)
+title: Application.ImportXML method (Access)
 keywords: vbaac10.chm12604
 f1_keywords:
 - vbaac10.chm12604
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ImportXML Method (Access)
+# Application.ImportXML method (Access)
 
 The  **ImportXML** method allows developers to import XML data and/or schema information into Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 7.0 or later, or the Microsoft Access database engine.
 
 
 ## Syntax
 
- _expression_. `ImportXML`( ` _DataSource_`, ` _ImportOptions_` )
+_expression_. `ImportXML`( ` _DataSource_`, ` _ImportOptions_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataSource_|Required|**String**|The name and path of the XML file to import.|
 | _ImportOptions_|Optional|**AcImportXMLOption**|An [AcImportXMLOption](Access.AcImportXMLOption.md) constant that specifies the option to use when importing XML files. The default value is **acStructureAndData**.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -27,12 +27,12 @@ Converts an arabic numeral to roman, as text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the Arabic numeral you want converted.|
 | _Arg2_|Optional| **Variant**|Form - a number specifying the type of roman numeral you want. The roman numeral style ranges from Classic to Simplified, becoming more concise as the value of form increases.|
 
-### Return Value
+### Return value
 
 String
 

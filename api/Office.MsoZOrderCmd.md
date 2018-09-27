@@ -14,7 +14,7 @@ Specifies where in the z-order a shape should be moved relative to other shapes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBringForward**|2|Bring shape forward.|
 |**msoBringInFrontOfText**|4|Bring shape in front of text.|

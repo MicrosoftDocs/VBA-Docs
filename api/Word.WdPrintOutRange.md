@@ -14,7 +14,7 @@ Specifies a range to print.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPrintAllDocument**|0|The entire document.|
 | **wdPrintCurrentPage**|2|The current page.|

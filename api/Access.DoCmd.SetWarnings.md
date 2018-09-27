@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetWarnings Method (Access)
+title: DoCmd.SetWarnings method (Access)
 keywords: vbaac10.chm4183
 f1_keywords:
 - vbaac10.chm4183
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetWarnings Method (Access)
+# DoCmd.SetWarnings method (Access)
 
 The  **SetWarnings** method carries out the SetWarnings action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `SetWarnings`( ` _WarningsOn_` )
+_expression_. `SetWarnings`( ` _WarningsOn_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WarningsOn_|Required|**Variant**|Use  **True** (?1) to turn on the display of system messages and **False** (0) to turn it off.|
 

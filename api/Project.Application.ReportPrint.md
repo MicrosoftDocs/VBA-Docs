@@ -27,7 +27,7 @@ Deprecated in Project. Prints a report.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the report to print|
 | _FromPage_|Optional|**Integer**|A number that specifies the first page to print.|
@@ -40,7 +40,7 @@ Deprecated in Project. Prints a report.
 | _Preview_|Optional|**Boolean**|**True** if Project previews the active view rather than printing it. The default value is **False**.|
 | _Color_|Optional|**Boolean**|**True** if Project prints the report in color. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

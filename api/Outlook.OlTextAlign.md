@@ -17,7 +17,7 @@ Specifies the alignment of text in a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTextAlignCenter**|2|Text rendered in the control will be aligned to the center of the control.|
 | **olTextAlignLeft**|1|Text rendered in the control will be aligned to the left edge of the control.|

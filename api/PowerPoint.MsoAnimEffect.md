@@ -14,7 +14,7 @@ Specifies the type of animation effect.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimEffectAppear**|1|Appears|
 |**msoAnimEffectArcUp**|47|Arcs Up|

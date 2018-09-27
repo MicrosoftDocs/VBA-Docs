@@ -17,7 +17,7 @@ The type of Design Gallery object to add to the publication.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWizardGroupAccentBox**|151|Accent Box|
 | **pbWizardGroupAccessoryBar**|154|Accessory Bar|

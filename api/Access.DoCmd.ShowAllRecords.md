@@ -1,5 +1,5 @@
 ---
-title: DoCmd.ShowAllRecords Method (Access)
+title: DoCmd.ShowAllRecords method (Access)
 keywords: vbaac10.chm4184
 f1_keywords:
 - vbaac10.chm4184
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.ShowAllRecords Method (Access)
+# DoCmd.ShowAllRecords method (Access)
 
 The  **ShowAllRecords** method carries out the ShowAllRecords action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `ShowAllRecords`
+_expression_. `ShowAllRecords`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

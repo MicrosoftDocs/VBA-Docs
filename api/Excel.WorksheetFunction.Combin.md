@@ -27,12 +27,12 @@ Returns the number of combinations for a given number of items. Use Combin to de
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The number of items.|
 | _Arg2_|Required| **Double**|The number of items in each combination.|
 
-### Return Value
+### Return value
 
 Double
 

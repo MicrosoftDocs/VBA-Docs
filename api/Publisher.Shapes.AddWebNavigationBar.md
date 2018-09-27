@@ -27,14 +27,14 @@ Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the  **WebNavigationBarSet** object to add to the specified **Shape**.|
 |Left|Required| **Variant**|The position of the left edge of the shape that represents the Web navigation bar set.|
 |Top|Required| **Variant**|The position of the top edge of the shape that represents the Web navigation bar set.|
 |Width|Optional| **Variant**|The width of the shape that represents the Web navigation bar set.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.FontSize Property (Access)
+title: TabControl.FontSize property (Access)
 keywords: vbaac10.chm12091
 f1_keywords:
 - vbaac10.chm12091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.FontSize Property (Access)
+# TabControl.FontSize property (Access)
 
 You can use the  **FontSize** property to specify the point size for text in the following situations:
 
@@ -26,9 +26,9 @@ Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

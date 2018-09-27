@@ -27,7 +27,7 @@ Moves the current position to the start of the specified section in the  **Slide
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _toSection_|Required|**[INT]**|The section to move to.|
 

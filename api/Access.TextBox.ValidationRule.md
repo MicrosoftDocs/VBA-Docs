@@ -1,5 +1,5 @@
 ---
-title: TextBox.ValidationRule Property (Access)
+title: TextBox.ValidationRule property (Access)
 keywords: vbaac10.chm11051
 f1_keywords:
 - vbaac10.chm11051
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ValidationRule Property (Access)
+# TextBox.ValidationRule property (Access)
 
 You can use the  **ValidationRule** property to specify requirements for data entered into a record, field, or control. When data is entered that violates the **ValidationRule** setting, you can use the **ValidationText** property to specify the message to be displayed to the user. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ValidationRule`
+_expression_. `ValidationRule`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

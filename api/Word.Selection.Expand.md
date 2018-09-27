@@ -27,7 +27,7 @@ Expands the specified range or selection. Returns the number of characters added
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|A  **[WdUnits](Word.WdUnits.md)** constant that represents the unit by which to expand the range. The default value is **wdWord** .|
 

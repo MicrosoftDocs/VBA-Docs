@@ -14,7 +14,7 @@ Specifies the type of file format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTypePDF**|0|"PDF" ? Portable Document Format file (.pdf).|
 | **xlTypeXPS**|1|"XPS" ? XPS Document (.xps).|

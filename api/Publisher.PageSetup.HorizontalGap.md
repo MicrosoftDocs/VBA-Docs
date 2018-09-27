@@ -23,7 +23,7 @@ Returns a  **Variant** that represents the distance between the right edge of on
  _expression_ A variable that represents a  **PageSetup** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

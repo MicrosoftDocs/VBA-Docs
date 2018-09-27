@@ -1,5 +1,5 @@
 ---
-title: OptionButton.SetFocus Method (Access)
+title: OptionButton.SetFocus method (Access)
 keywords: vbaac10.chm10562
 f1_keywords:
 - vbaac10.chm10562
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.SetFocus Method (Access)
+# OptionButton.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

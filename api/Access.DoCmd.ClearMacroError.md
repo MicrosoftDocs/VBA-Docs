@@ -1,5 +1,5 @@
 ---
-title: DoCmd.ClearMacroError Method (Access)
+title: DoCmd.ClearMacroError method (Access)
 keywords: vbaac10.chm5773
 f1_keywords:
 - vbaac10.chm5773
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.ClearMacroError Method (Access)
+# DoCmd.ClearMacroError method (Access)
 
 Removes information about an error that is stored in the  **MacroError** object.
 
 
 ## Syntax
 
- _expression_. `ClearMacroError`
+_expression_. `ClearMacroError`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

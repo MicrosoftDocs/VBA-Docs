@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BoundColumn Property (Access)
+title: ComboBox.BoundColumn property (Access)
 keywords: vbaac10.chm11383
 f1_keywords:
 - vbaac10.chm11383
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BoundColumn Property (Access)
+# ComboBox.BoundColumn property (Access)
 
 When you make a selection from a combo box, the  **BoundColumn** property tells Microsoft Access which column's values to use as the value of the control. If the control is bound to a field, the value in the column specified by the **BoundColumn** property is stored in the field named in the **ControlSource** property. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BoundColumn`
+_expression_. `BoundColumn`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

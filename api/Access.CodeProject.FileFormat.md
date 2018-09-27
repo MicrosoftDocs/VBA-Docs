@@ -1,5 +1,5 @@
 ---
-title: CodeProject.FileFormat Property (Access)
+title: CodeProject.FileFormat property (Access)
 keywords: vbaac10.chm12725
 f1_keywords:
 - vbaac10.chm12725
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.FileFormat Property (Access)
+# CodeProject.FileFormat property (Access)
 
 Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
 
 
 ## Syntax
 
- _expression_. `FileFormat`
+_expression_. `FileFormat`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

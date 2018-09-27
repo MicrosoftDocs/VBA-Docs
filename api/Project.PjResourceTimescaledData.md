@@ -14,7 +14,7 @@ Contains constants that specify a resource field for timescaled data in the Proj
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResourceTimescaledActualCost**|11|Actual Cost (resource) field.|
 |**pjResourceTimescaledActualOvertimeWork**|39|Actual Overtime Work (resource) field.|

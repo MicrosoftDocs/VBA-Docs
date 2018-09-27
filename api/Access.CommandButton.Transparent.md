@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Transparent Property (Access)
+title: CommandButton.Transparent property (Access)
 keywords: vbaac10.chm10454,vbaac10.chm4526
 f1_keywords:
 - vbaac10.chm10454,vbaac10.chm4526
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Transparent Property (Access)
+# CommandButton.Transparent property (Access)
 
 You can use the  **Transparent** property to specify whether a command button is solid or transparent. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Transparent`
+_expression_. `Transparent`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Occurs when a  **[Store](Outlook.Store.md)** is about to be removed from the cur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **Store**|The  **Store** object to be removed from the current session.|
 | _Cancel_|Required| **Boolean**| **True** to cancel the removal of the specified store, **False** otherwise.|

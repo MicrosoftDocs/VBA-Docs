@@ -24,14 +24,14 @@ Adds an account  **[Profile](Project.Profile.md)** object to the **Profiles** co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of the profile.|
 | _Server_|Required|**String**|A string representing the URL of the Project Server.|
 | _LoginType_|Optional|**Long**|The login type for the Project Server. Can be one of the  **[PjLoginType](Project.PjLoginType.md)** constants. The default value is **pjWindowsLogin**.|
 | _UserName_|Optional|**String**| A string representing the user name.|
 
-### Return Value
+### Return value
 
  **Profile**
 

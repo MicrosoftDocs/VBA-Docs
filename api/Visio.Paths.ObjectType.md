@@ -23,7 +23,7 @@ Returns an object's type. Read-only.
  _expression_ A variable that represents a [Paths](./Visio.Paths.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

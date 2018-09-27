@@ -27,12 +27,12 @@ Returns the net present value for a schedule of cash flows that is not necessari
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|A series of cash flows that corresponds to a schedule of payments in dates. The first payment is optional and corresponds to a cost or payment that occurs at the beginning of the investment.|
 | _Arg2_|Required| **Variant**|A schedule of payment dates that corresponds to the cash flow payments. The first payment date indicates the beginning of the schedule of payments. All other dates must be later than this date, but they may occur in any order.|
 
-### Return Value
+### Return value
 
 Double
 

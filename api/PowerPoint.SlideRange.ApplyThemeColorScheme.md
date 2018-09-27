@@ -27,7 +27,7 @@ Applies a color scheme to the specified range of slides.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _themeColorSchemeName_|Required|**String**|The path and name of the color scheme file to apply to the range of slides.|
 

@@ -27,13 +27,13 @@ Returns an integer that represents the spatial relationship of one shape to anot
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
 | _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the  **Shape** object's parent.|
 | _Flags_|Required| **Integer**|Flags that influence the result. See Remarks for the values of this argument.|
 
-### Return Value
+### Return value
 
 Integer
 

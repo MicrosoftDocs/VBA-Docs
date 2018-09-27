@@ -27,11 +27,11 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The name or index number of the  **CustomXMLValidationError** object to be returned.|
 
-### Return Value
+### Return value
 
 CustomXMLValidationError
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.StatusBarText Property (Access)
+title: Attachment.StatusBarText property (Access)
 keywords: vbaac10.chm14012
 f1_keywords:
 - vbaac10.chm14012
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.StatusBarText Property (Access)
+# Attachment.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `StatusBarText`
+_expression_. `StatusBarText`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

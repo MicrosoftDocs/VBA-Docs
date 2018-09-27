@@ -27,7 +27,7 @@ In outline view, moves the paragraphs within the specified range after the next 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **WdRelocate**|The direction of the move.|
 

@@ -27,7 +27,7 @@ Inserts an = (Formula) field that contains the specified formula into a table ce
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Formula_|Optional| **Variant**|The mathematical formula you want the = (Formula) field to evaluate. Spreadsheet-type references to table cells are valid. For example, "=SUM(A4:C4)" specifies the first three values in the fourth row. For more information about the = (Formula) field, see Field codes:= (Formula) field.|
 | _NumFormat_|Optional| **Variant**|A format for the result of the = (Formula) field. For information about the types of formats you can apply, see Numeric Picture (\#) field switch.|

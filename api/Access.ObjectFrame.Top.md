@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Top Property (Access)
+title: ObjectFrame.Top property (Access)
 keywords: vbaac10.chm11589
 f1_keywords:
 - vbaac10.chm11589
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Top Property (Access)
+# ObjectFrame.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

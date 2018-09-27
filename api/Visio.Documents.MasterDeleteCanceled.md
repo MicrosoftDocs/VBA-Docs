@@ -27,7 +27,7 @@ Private Sub  _expression_ _'MasterDeleteCanceled'(**_ByVal Master As [IVMASTER]_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Master_|Required| **[IVMASTER]**|The master that was going to be deleted.|
 

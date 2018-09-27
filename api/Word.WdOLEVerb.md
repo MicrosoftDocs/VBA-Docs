@@ -14,7 +14,7 @@ Specifies the action associated with the verb that the OLE object should perform
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOLEVerbDiscardUndoState**|-6|Forces the object to discard any undo state that it might be maintaining; note that the object remains active, however.|
 | **wdOLEVerbHide**|-3|Removes the object's user interface from view.|

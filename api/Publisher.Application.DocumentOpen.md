@@ -27,7 +27,7 @@ Occurs when opening a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The document that's being opened.|
 

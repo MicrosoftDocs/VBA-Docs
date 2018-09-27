@@ -1,5 +1,5 @@
 ---
-title: Form.Module Property (Access)
+title: Form.Module property (Access)
 keywords: vbaac10.chm13500
 f1_keywords:
 - vbaac10.chm13500
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Module Property (Access)
+# Form.Module property (Access)
 
 You can use the  **Module** property to specify a form module. Read-only **Module** object.
 
 
 ## Syntax
 
- _expression_. `Module`
+_expression_. `Module`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

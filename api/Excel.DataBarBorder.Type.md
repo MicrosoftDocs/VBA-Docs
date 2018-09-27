@@ -23,7 +23,7 @@ Returns or sets the type of border for data bars specified by a conditional form
  _expression_ A variable that represents a '[DataBarBorder](Excel.DataBarBorder.md)' object.
 
 
-### Return Value
+### Return value
 
  **[XlDataBarBorderType](Excel.XlDataBarBorderType.md)**
 

@@ -21,7 +21,7 @@ Returns  **True** if the current instance of Visio is 32-bit. Returns **False** 
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

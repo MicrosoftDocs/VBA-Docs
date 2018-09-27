@@ -27,7 +27,7 @@ Sets the list level for one or more items in a numbered list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level_|Required| **Integer**|A number that indicates the new list level.|
 

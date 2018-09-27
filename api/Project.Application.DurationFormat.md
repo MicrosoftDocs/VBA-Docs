@@ -27,12 +27,12 @@ Returns a duration in the specified units.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Duration_|Required|**Variant**|The duration to be expressed.|
 | _Units_|Optional|**Long**|The units used to express the duration. Can be one of the  **[PjFormatUnit](Project.PjFormatUnit.md)** constants.|
 
-### Return Value
+### Return value
 
  **String**
 

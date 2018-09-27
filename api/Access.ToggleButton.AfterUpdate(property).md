@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.AfterUpdate Property (Access)
+title: ToggleButton.AfterUpdate property (Access)
 keywords: vbaac10.chm11748
 f1_keywords:
 - vbaac10.chm11748
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.AfterUpdate Property (Access)
+# ToggleButton.AfterUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_. `AfterUpdate`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

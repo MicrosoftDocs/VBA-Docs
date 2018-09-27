@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **RulerLevel2
  _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

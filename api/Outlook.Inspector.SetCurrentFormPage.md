@@ -27,7 +27,7 @@ Displays the specified form page or form region in the inspector.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageName_|Required| **String**|The display name of the form page, or the internal name of a form region.|
 

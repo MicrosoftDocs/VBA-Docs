@@ -17,7 +17,7 @@ Indicates the color that is specified for a category or a font in a view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCategoryColorBlack**|15|Black|
 | **olCategoryColorBlue**|8|Blue|

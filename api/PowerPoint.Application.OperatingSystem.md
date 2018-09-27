@@ -23,7 +23,7 @@ Returns the name of the operating system. Read-only.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

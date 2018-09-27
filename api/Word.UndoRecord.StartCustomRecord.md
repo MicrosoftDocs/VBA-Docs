@@ -27,7 +27,7 @@ Initiates the creation of a custom undo record.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **String**|Specifies the name of the custom undo record. This string is limited to 64 characters. If a longer string is supplied, the string is truncated to 64 characters. 
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that identify the varieties of raster export operations; passed to and returned by the ApplicationSettings.RasterExportOperation property.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterBaseline**|0|Baseline operation; the default.|
 | **visRasterProgressive**|1|Progressive operation.|

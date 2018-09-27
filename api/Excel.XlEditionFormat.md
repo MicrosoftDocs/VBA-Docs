@@ -14,7 +14,7 @@ Specifies the format of the published edition. This enumeration is only for Maci
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBIFF**|2|Binary Interchange file format.|
 | **xlPICT**|1|Metafile picture structure (.wmf).|

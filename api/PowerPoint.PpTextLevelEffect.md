@@ -14,7 +14,7 @@ Constants that specify the paragraph level by which text effects are animated, p
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAnimateByAllLevels**|16|By all levels|
 |**ppAnimateByFifthLevel**|5|By fifth level|

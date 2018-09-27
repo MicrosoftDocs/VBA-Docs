@@ -1,5 +1,5 @@
 ---
-title: ComboBox.LayoutID Property (Access)
+title: ComboBox.LayoutID property (Access)
 keywords: vbaac10.chm11524
 f1_keywords:
 - vbaac10.chm11524
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.LayoutID Property (Access)
+# ComboBox.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified combo box. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

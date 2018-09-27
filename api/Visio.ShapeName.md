@@ -24,11 +24,11 @@ Gets the name of the shape at the specified index in the collection of shapes in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the shape in the collection of shapes.|
 
-### Return Value
+### Return value
 
 String
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BeforeUpdate Property (Access)
+title: CheckBox.BeforeUpdate property (Access)
 keywords: vbaac10.chm10735
 f1_keywords:
 - vbaac10.chm10735
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BeforeUpdate Property (Access)
+# CheckBox.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

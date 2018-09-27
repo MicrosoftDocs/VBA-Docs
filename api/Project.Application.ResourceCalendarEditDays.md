@@ -27,7 +27,7 @@ Edits days in a resource calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of the project containing the resource calendar to edit.|
 | _ResourceName_|Required|**String**|The name of the resource to edit.|
@@ -47,7 +47,7 @@ Edits days in a resource calendar.
 | _From5_|Optional|**Variant**|The start time of the fifth shift.|
 | _To5_|Optional|**Variant**|The end time of the fifth shift.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

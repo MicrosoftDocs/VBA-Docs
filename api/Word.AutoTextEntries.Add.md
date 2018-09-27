@@ -27,7 +27,7 @@ Returns an  **AutoTextEntry** object that represents an AutoText entry added to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text that, when typed, initiates an AutoText entry.|
 | _Range_|Required| **Range**|A range of text that will be inserted whenever Name is typed.|

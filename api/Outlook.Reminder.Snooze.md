@@ -27,7 +27,7 @@ Delays the reminder by a specified time.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SnoozeTime_|Optional| **Variant**|Indicates the amount of time (in minutes) to delay the reminder. The default value is 5 minutes.|
 

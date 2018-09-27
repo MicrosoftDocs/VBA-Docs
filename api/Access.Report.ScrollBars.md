@@ -1,5 +1,5 @@
 ---
-title: Report.ScrollBars Property (Access)
+title: Report.ScrollBars property (Access)
 keywords: vbaac10.chm13820
 f1_keywords:
 - vbaac10.chm13820
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ScrollBars Property (Access)
+# Report.ScrollBars property (Access)
 
 Gets or sets whether scroll bars appear on a report. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `ScrollBars`
+_expression_. `ScrollBars`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

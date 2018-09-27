@@ -27,7 +27,7 @@ Adds an item to the value list for a custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Value_|Optional|**String**|The value to add to the list.|
@@ -36,7 +36,7 @@ Adds an item to the value list for a custom field.
 | _Index_|Optional|**Integer**|The position to add the item specified with  **Value**, relative to other items in the value list. If **Index** is n + 2 or greater, where n is the number of existing items, the item is added at n + 1. The default value is n + 1.|
 | _FieldDefault_|Optional|**Boolean**|**True** if the value specified with **Value** functions as the default for the custom field. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

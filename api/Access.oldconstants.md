@@ -1,5 +1,5 @@
 ---
-title: OldConstants Enumeration (Access)
+title: OldConstants enumeration (Access)
 keywords: vbaac10.chm10005
 f1_keywords:
 - vbaac10.chm10005
@@ -9,13 +9,13 @@ ms.prod: access
 ---
 
 
-# OldConstants Enumeration (Access)
+# OldConstants enumeration (Access)
 
 ## Members
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 |**A_ADD**|**0**||

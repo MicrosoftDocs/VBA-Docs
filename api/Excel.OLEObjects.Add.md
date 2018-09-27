@@ -27,7 +27,7 @@ Adds a new OLE object to a sheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|(you must specify either  _ClassType_ or _FileName_). A string that contains the programmatic identifier for the object to be created. If  _ClassType_ is specified, _FileName_ and _Link_ are ignored.|
 | _FileName_|Optional| **Variant**|(you must specify either  _ClassType_ or _FileName_). A string that specifies the file to be used to create the OLE object.|
@@ -41,7 +41,7 @@ Adds a new OLE object to a sheet.
 | _Height_|Optional| **Variant**|The initial height of the new object, in points.|
 | _Top_|Optional| **Variant**|The initial coordinates of the new object in points, relative to the upper-left corner of cell A1 on a worksheet, or to the upper-left corner of a chart.|
 
-### Return Value
+### Return value
 
 An  **[OLEObject](Excel.OLEObject.md)** object that represents the new OLE object.
 

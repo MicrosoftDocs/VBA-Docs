@@ -14,7 +14,7 @@ Specifies the type of version for the document checked in when using the  **Chec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCheckInMajorVersion**|1|Major version.|
 | **wdCheckInMinorVersion**|0|Minor version.|

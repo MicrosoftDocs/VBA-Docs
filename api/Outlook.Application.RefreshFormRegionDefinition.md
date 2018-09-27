@@ -27,7 +27,7 @@ Refreshes the cache by obtaining the current definition from the Windows registr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RegionName_|Required| **String**|The internal name of the form region whose definition you want to refresh in the cache. To refresh all form region definitions, specify an empty string.|
 

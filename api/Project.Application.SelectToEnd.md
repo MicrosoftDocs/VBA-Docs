@@ -23,7 +23,7 @@ For the selected assignment in the Team Planner view, selects from the beginning
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,7 +27,7 @@ Applies a predefined look to a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Optional| **Variant**|The format to apply. This parameter can be a  **[WdTableFormat](Word.WdTableFormat.md)** constant, a **[WdTableFormatApply](Word.WdTableFormatApply.md)** constant, or a **TableStyle** object.|
 | _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True** .|

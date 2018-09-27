@@ -27,12 +27,12 @@ Resolves the token using the Picker Dialog and retrieves the results.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TokenText_|Required|**String**|The text string to resolve.|
 | _duplicateDlgMode_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 PickerResults
 

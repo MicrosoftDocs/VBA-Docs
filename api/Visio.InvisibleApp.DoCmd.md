@@ -27,11 +27,11 @@ Performs the command that has the indicated command ID.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CommandID_|Required| **Integer**|The command to perform.|
 
-### Return Value
+### Return value
 
 nothing
 

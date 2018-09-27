@@ -14,7 +14,7 @@ Specifies a line spacing format to be applied to a paragraph.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLineSpace1pt5**|1|Space-and-a-half line spacing. Spacing is equivalent to the current font size plus 6 points.|
 | **wdLineSpaceAtLeast**|3|Line spacing is always at least a specified amount. The amount is specified separately.|

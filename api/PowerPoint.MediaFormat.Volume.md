@@ -23,7 +23,7 @@ Gets or sets the volume of the media. Read/write.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

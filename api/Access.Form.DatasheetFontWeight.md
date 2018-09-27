@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetFontWeight Property (Access)
+title: Form.DatasheetFontWeight property (Access)
 keywords: vbaac10.chm13398
 f1_keywords:
 - vbaac10.chm13398
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetFontWeight Property (Access)
+# Form.DatasheetFontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `DatasheetFontWeight`
+_expression_. `DatasheetFontWeight`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

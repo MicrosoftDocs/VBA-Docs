@@ -14,7 +14,7 @@ Specifies whether or not the first row contains headers. Cannot be used when sor
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlGuess**|0|Excel determines whether there is a header, and where it is, if there is one.|
 | **xlNo**|2|Default. The entire range should be sorted.|

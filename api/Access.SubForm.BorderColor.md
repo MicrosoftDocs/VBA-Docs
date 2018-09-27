@@ -1,5 +1,5 @@
 ---
-title: SubForm.BorderColor Property (Access)
+title: SubForm.BorderColor property (Access)
 keywords: vbaac10.chm11947
 f1_keywords:
 - vbaac10.chm11947
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.BorderColor Property (Access)
+# SubForm.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

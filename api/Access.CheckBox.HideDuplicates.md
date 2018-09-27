@@ -1,5 +1,5 @@
 ---
-title: CheckBox.HideDuplicates Property (Access)
+title: CheckBox.HideDuplicates property (Access)
 keywords: vbaac10.chm10708
 f1_keywords:
 - vbaac10.chm10708
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.HideDuplicates Property (Access)
+# CheckBox.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HideDuplicates`
+_expression_. `HideDuplicates`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Screen.PreviousControl Property (Access)
+title: Screen.PreviousControl property (Access)
 keywords: vbaac10.chm12489
 f1_keywords:
 - vbaac10.chm12489
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.PreviousControl Property (Access)
+# Screen.PreviousControl property (Access)
 
 You can use the  **PreviousControl** property with the **[Screen](Access.Screen.md)** object to return a reference to the control that last received the focus. Read-only.
 
 
 ## Syntax
 
- _expression_. `PreviousControl`
+_expression_. `PreviousControl`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## Remarks

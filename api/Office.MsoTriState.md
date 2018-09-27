@@ -14,7 +14,7 @@ Specifies a tri-state value.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTrue**|1|Not supported.|
 |**msoFalse**|0|False.|

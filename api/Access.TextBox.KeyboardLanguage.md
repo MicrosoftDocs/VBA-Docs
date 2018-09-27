@@ -1,5 +1,5 @@
 ---
-title: TextBox.KeyboardLanguage Property (Access)
+title: TextBox.KeyboardLanguage property (Access)
 keywords: vbaac10.chm11131
 f1_keywords:
 - vbaac10.chm11131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.KeyboardLanguage Property (Access)
+# TextBox.KeyboardLanguage property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `KeyboardLanguage`
+_expression_. `KeyboardLanguage`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

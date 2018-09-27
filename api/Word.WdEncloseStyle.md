@@ -14,7 +14,7 @@ Specifies the relative size of an enclosure.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEncloseStyleLarge**|2|The enclosure is larger.|
 | **wdEncloseStyleNone**|0|The enclosure assumes the default size.|

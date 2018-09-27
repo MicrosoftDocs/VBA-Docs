@@ -27,7 +27,7 @@ Creates a shape whose path consists of an arc defined by the three points passed
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xBegin_|Required| **Double**|The x-coordinate of the begin point of the arc.|
 | _yBegin_|Required| **Double**|The y-coordinate of the begin point of the arc.|
@@ -36,7 +36,7 @@ Creates a shape whose path consists of an arc defined by the three points passed
 | _xControl_|Required| **Double**|The x-coordinate of the control point of the arc.|
 | _yControl_|Required| **Double**|The y-coordinate of the control point of the arc.|
 
-### Return Value
+### Return value
 
 Shape
 

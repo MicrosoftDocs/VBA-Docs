@@ -17,7 +17,7 @@ Indicates the recipient type for the meeting.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olOptional**|2|Optional attendee|
 | **olOrganizer**|0|Meeting organizer|

@@ -27,11 +27,11 @@ Arranges all open document windows in the workspace.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _arrangeStyle_|Optional|**[PpArrangeStyle](PowerPoint.PpArrangeStyle.md)**|Specifies whether to cascade or tile the windows.|
 
-### Return Value
+### Return value
 
 Nothing
 

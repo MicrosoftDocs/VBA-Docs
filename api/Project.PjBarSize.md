@@ -14,7 +14,7 @@ Contains constants that specify the height of a bar in points.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBarSize10**|10|Bar size 10 points.|
 |**pjBarSize12**|12|Bar size 12 points.|

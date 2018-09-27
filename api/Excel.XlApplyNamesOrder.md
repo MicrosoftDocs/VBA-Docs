@@ -14,7 +14,7 @@ Specifies which range name is listed first when a cell reference is replaced by 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlColumnThenRow**|2|Columns listed before rows.|
 | **xlRowThenColumn**|1|Rows listed before columns.|

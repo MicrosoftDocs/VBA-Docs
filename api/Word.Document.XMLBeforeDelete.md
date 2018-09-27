@@ -27,7 +27,7 @@ Private Sub  _expression_ _'XMLBeforeDelete'(**_DeletedRange_** , **_OldXMLNode_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeletedRange_|Required| **[Range](Word.Range.md)**|The contents of the XML element being deleted. If only an element is deleted and not associated text, the DeletedRange parameter will not exist and will, therefore, be set to  **Nothing** .|
 | _OldXMLNode_|Required| **[XMLNode](Word.XMLNode.md)**|The node that is being deleted.|

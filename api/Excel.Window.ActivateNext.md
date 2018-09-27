@@ -23,7 +23,7 @@ Activates the specified window and then sends it to the back of the window z-ord
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

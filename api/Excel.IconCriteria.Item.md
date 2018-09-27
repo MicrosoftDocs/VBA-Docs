@@ -27,7 +27,7 @@ Returns a single  **[IconCriterion](Excel.IconCriterion.md)** object from the **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number of the  **IconCriterion** object.|
 

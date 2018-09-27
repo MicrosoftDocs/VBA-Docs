@@ -17,7 +17,7 @@ Indicates the view mode specified in the  **[CalendarViewMode](Outlook.CalendarV
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCalendarView5DayWeek**|4|Displays a 5-day week.|
 | **olCalendarViewDay**|0|Displays a single day.|

@@ -27,14 +27,14 @@ Creates a Visual Reports template for Microsoft Excel or Microsoft Visio.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PjVisualReportsTemplateType_|Optional|**Long**|Template type. Can be one of the  **[PjVisualReportsTemplateType](Project.PjVisualReportsTemplateType.md)** constants. Default is **pjExcel**.|
 | _PjVisualReportsCubeType_|Optional|**Long**|Cube type. Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** constants. Default is **pjTaskTP**.|
 | _ReportAlLFields_|Optional|**Boolean**|If  **True**, all noncustom fields are included in the report.|
 | _PjVisualReportsDataLevel_|Optional|**Long**|Data level. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

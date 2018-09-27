@@ -1,5 +1,5 @@
 ---
-title: Attachment.AttachmentCurrent Event (Access)
+title: Attachment.AttachmentCurrent event (Access)
 keywords: vbaac10.chm14035
 f1_keywords:
 - vbaac10.chm14035
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.AttachmentCurrent Event (Access)
+# Attachment.AttachmentCurrent event (Access)
 
 Occurs when the focus moves to or from a file contained in the specified  **Attachment** control, making it the current attachment, or when the form is refreshed or requeried.
 
 
 ## Syntax
 
- _expression_. `AttachmentCurrent`
+_expression_. `AttachmentCurrent`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

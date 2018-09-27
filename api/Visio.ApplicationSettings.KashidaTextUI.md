@@ -23,7 +23,7 @@ Gets the current setting for display of Kashida text-justification in certain cu
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 VisRegionalUIOptions
 

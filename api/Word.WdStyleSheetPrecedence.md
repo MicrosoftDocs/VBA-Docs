@@ -14,7 +14,7 @@ Specifies the level of importance of a style sheet compared with other cascading
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStyleSheetPrecedenceHigher**|-1|Raise precedence.|
 | **wdStyleSheetPrecedenceHighest**|1|Highest precedence.|

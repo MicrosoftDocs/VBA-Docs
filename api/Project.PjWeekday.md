@@ -14,7 +14,7 @@ Contains constants that specify the day of the week.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFriday**|6|Friday.|
 |**pjMonday**|2|Monday.|

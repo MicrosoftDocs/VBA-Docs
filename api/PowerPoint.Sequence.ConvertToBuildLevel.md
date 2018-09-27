@@ -27,12 +27,12 @@ Changes the build level information for a specified animation effect. Returns an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**| The specified animation effect.|
 | _Level_|Required|**[MsoAnimateByLevel](PowerPoint.MsoAnimateByLevel.md)**|The animation build level.|
 
-### Return Value
+### Return value
 
 Effect
 

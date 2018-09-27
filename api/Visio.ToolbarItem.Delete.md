@@ -23,7 +23,7 @@ Deletes an object.
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

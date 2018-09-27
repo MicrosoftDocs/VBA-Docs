@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Enabled Property (Access)
+title: WebBrowserControl.Enabled property (Access)
 keywords: vbaac10.chm14361
 f1_keywords:
 - vbaac10.chm14361
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Enabled Property (Access)
+# WebBrowserControl.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the [FormatCondition](Access.FormatCondition.md)object. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

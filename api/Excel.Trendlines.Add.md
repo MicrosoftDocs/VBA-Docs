@@ -27,7 +27,7 @@ Creates a new trendline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[XlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
 | _Order_|Optional| **Variant**| **Variant** . if _Type_ is **xlPolynomial** . The trendline order. Must be an integer from 2 to 6, inclusive.|
@@ -39,7 +39,7 @@ Creates a new trendline.
 | _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False** .|
 | _Name_|Optional| **Variant**|The name of the trendline as text. If this argument is omitted, Microsoft Excel generates a name.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](Excel.Trendline(object).md)** object that represents the new trendline.
 

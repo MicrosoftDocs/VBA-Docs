@@ -1,5 +1,5 @@
 ---
-title: Report.CurrentX Property (Access)
+title: Report.CurrentX property (Access)
 keywords: vbaac10.chm13741
 f1_keywords:
 - vbaac10.chm13741
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.CurrentX Property (Access)
+# Report.CurrentX property (Access)
 
 You can use the  **CurrentX** property (along with the **CurrentY** property) to specify the horizontal and vertical coordinates for the starting position of the next printing and drawing method on a report. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `CurrentX`
+_expression_. `CurrentX`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Replaces a range with the value of the specified AutoCorrect entry.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **[Range](Word.Range.md)**|The range to which to apply the AutoCorrect entry.|
 

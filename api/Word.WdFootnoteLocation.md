@@ -14,7 +14,7 @@ Specifies the position of footnotes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBeneathText**|1|Beneath current text.|
 | **wdBottomOfPage**|0|At bottom of current page.|

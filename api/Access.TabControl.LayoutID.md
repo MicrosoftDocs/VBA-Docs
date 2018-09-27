@@ -1,5 +1,5 @@
 ---
-title: TabControl.LayoutID Property (Access)
+title: TabControl.LayoutID property (Access)
 keywords: vbaac10.chm14548
 f1_keywords:
 - vbaac10.chm14548
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.LayoutID Property (Access)
+# TabControl.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

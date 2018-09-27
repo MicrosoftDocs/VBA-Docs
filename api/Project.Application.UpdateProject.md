@@ -27,13 +27,13 @@ Updates progress information and reschedules work for tasks in a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project are updated. **False** if only the selected tasks are updated. The default value is **True**.|
 | _UpdateDate_|Optional|**Variant**|The update date to use for the specified action. |
 | _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following  **[PjProjectUpdate](Project.PjProjectUpdate.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

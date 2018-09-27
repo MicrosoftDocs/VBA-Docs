@@ -1,5 +1,5 @@
 ---
-title: Report.UseDefaultPrinter Property (Access)
+title: Report.UseDefaultPrinter property (Access)
 keywords: vbaac10.chm13812
 f1_keywords:
 - vbaac10.chm13812
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.UseDefaultPrinter Property (Access)
+# Report.UseDefaultPrinter property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified report uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
 
 
 ## Syntax
 
- _expression_. `UseDefaultPrinter`
+_expression_. `UseDefaultPrinter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

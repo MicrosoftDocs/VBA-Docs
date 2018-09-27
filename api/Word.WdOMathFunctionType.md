@@ -14,7 +14,7 @@ Specifies the type of equation function.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathFunctionAcc**|1|Equation accent mark.|
 | **wdOMathFunctionBar**|2|Equation fraction bar.|

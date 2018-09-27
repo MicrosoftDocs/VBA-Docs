@@ -27,7 +27,7 @@ Occurs when a new publication is created.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The new document.|
 

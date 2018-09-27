@@ -14,7 +14,7 @@ Contains constants that specify a fill pattern.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDarkFillPattern**|4|Dark fill pattern.|
 |**pjDiagonalCrossPattern**|7|Diagonal cross pattern.|

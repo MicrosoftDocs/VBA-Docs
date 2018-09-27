@@ -14,7 +14,7 @@ Specifies the file validation mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileValidationDefault**|0|Validate the file (default).|
 |**msoFileValidationSkip**|1|Do not validate the file.|

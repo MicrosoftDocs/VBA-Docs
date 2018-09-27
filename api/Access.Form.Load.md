@@ -1,5 +1,5 @@
 ---
-title: Form.Load Event (Access)
+title: Form.Load event (Access)
 keywords: vbaac10.chm13633
 f1_keywords:
 - vbaac10.chm13633
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Load Event (Access)
+# Form.Load event (Access)
 
 Occurs when a form is opened and its records are displayed.
 
 
 ## Syntax
 
- _expression_. `Load`
+_expression_. `Load`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

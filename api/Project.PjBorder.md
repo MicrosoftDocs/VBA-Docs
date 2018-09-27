@@ -14,7 +14,7 @@ Contains constants that specify the type borders.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAroundEveryPage**|1|Around every page.|
 |**pjNoBorder**|0|No border.|

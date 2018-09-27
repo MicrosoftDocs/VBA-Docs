@@ -27,11 +27,11 @@ Gets additional information associated with an event, if any exists. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _eventSeqNum_|Required| **Long**| **visEvtIDMostRecent** (0) for information about the most recently fired event, or the sequence number of the event to examine.|
 
-### Return Value
+### Return value
 
 String
 

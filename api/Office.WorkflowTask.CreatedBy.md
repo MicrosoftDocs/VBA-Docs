@@ -23,7 +23,7 @@ Gets the name of the person that created the workflow task. Read-only.
  _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

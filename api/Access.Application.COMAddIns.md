@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Access)
+title: Application.COMAddIns property (Access)
 keywords: vbaac10.chm12585
 f1_keywords:
 - vbaac10.chm12585
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.COMAddIns Property (Access)
+# Application.COMAddIns property (Access)
 
 You can use the  **COMAddIns** property to return a reference to the current **COMAddIns** collection object and its related properties. Read-only **COMAddIns** object.
 
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

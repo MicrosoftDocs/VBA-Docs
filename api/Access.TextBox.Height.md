@@ -1,5 +1,5 @@
 ---
-title: TextBox.Height Property (Access)
+title: TextBox.Height property (Access)
 keywords: vbaac10.chm11074
 f1_keywords:
 - vbaac10.chm11074
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Height Property (Access)
+# TextBox.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Removes entries from the change log for the specified workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Days_|Required| **Long**|The number of days that changes in the change log are to be retained.|
 | _SharingPassword_|Optional| **Variant**|The password that unprotects the workbook for sharing. If the workbook is protected for sharing with a password and this argument is omitted, the user is prompted for the password.|

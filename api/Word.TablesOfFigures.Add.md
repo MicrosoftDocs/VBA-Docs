@@ -27,7 +27,7 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table of figures to appear.|
 | _Caption_|Optional| **Variant**|The label that identifies the items you want to include in the table of figures. Corresponds to the \c switch for a Table of Contents (TOC) field. The default value is "Figure."|
@@ -43,7 +43,7 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
 | _UseHyperlinks_|Optional| **Variant**| **True** if entries in a table of figures should be formatted as hyperlinks when publishing to the Web. The default value is **True** .|
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of figures should be hidden when publishing to the Web. The default value is **True** .|
 
-### Return Value
+### Return value
 
 TableOfFigures
 

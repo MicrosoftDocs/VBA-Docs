@@ -27,11 +27,11 @@ Adds a new  **Master** object of the specified type to the **Masters** collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **VisMasterTypes**|A master type from the  **VisMasterTypes** enumeration. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Master
 

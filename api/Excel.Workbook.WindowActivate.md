@@ -27,7 +27,7 @@ Occurs when any workbook window is activated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required| **Window**| The activated window.|
 

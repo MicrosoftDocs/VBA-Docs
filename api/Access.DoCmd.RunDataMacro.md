@@ -1,5 +1,5 @@
 ---
-title: DoCmd.RunDataMacro Method (Access)
+title: DoCmd.RunDataMacro method (Access)
 keywords: vbaac10.chm5978
 f1_keywords:
 - vbaac10.chm5978
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.RunDataMacro Method (Access)
+# DoCmd.RunDataMacro method (Access)
 
 Use the  **RunDataMacro** method to run a named data macro from Visual Basic.
 
 
 ## Syntax
 
- _expression_. `RunDataMacro`( ` _MacroName_` )
+_expression_. `RunDataMacro`( ` _MacroName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MacroName_|Required|**Variant**|Name of the saved macro. The name must include the name of the table to which the data macro is attached (for example, "Comments.AddComment").|
 

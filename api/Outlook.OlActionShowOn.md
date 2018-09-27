@@ -17,7 +17,7 @@ Identifies where an  **[Action](Outlook.Action.md)** is displayed as an availabl
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDontShow**|0|Indicates that the action will not be displayed on the menu or toolbar.|
 | **olMenu**|1|Indicates that the action will be displayed as an available action on the menu.|

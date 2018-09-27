@@ -14,7 +14,7 @@ Specifies the state (shape) of the cursor.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCursorIBeam**|1|I-beam cursor shape. |
 | **wdCursorNormal**|2|Normal cursor shape. Default; cursor takes shape designated by Microsoft Windows or the application.|

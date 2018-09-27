@@ -27,12 +27,12 @@ Opens an existing Microsoft Visio file, using extra information passed in as an 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to open.|
 | _Flags_|Required| **Integer**|Flags that indicate how to open the file.|
 
-### Return Value
+### Return value
 
 Document
 

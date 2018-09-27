@@ -14,7 +14,7 @@ Specifies the position of endnotes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEndOfDocument**|1|At end of active document.|
 | **wdEndOfSection**|0|At end of current section.|

@@ -27,7 +27,7 @@ Specifies the appearance of link lines in the active Network Diagram view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Long**|Specifies the style of link lines. Can be one of the following  **[PjLinkStyle](Project.PjLinkStyle.md)** constants: **pjLinkStraight** or **pjLinkRectilinear**.|
 | _ShowArrows_|Optional|**Boolean**|**True** if link lines have arrows showing the direction of the link; otherwise, **False**.|
@@ -36,7 +36,7 @@ Specifies the appearance of link lines in the active Network Diagram view.
 | _CriticalColor_|Optional|**Long**|The color of link lines between critical tasks. The default value is  **pjRed**. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 | _NoncriticalColor_|Optional|**Long**| The color of link lines between noncritical tasks. Can be one of the **[PjColor](Project.PjColor.md)** constants. The default value is **pjBlack**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -14,7 +14,7 @@ Specifies the direction in which to shift cells during an insertion.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlShiftDown**|-4121|Shift cells down.|
 | **xlShiftToRight**|-4161|Shift cells to the right.|

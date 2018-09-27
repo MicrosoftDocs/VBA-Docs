@@ -14,7 +14,7 @@ Constants that specify how hyperlinks in presentaitons should be updated, passed
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppUpdateOptionAutomatic**|2|Link will be updated each time the presentation is opened or the source file changes.|
 |**ppUpdateOptionManual**|1|Link will be updated only when the user specifically asks to update the presentation.|

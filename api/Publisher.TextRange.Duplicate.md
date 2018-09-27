@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a dupl
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 TextRange
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Height Property (Access)
+title: BoundObjectFrame.Height property (Access)
 keywords: vbaac10.chm10930
 f1_keywords:
 - vbaac10.chm10930
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Height Property (Access)
+# BoundObjectFrame.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

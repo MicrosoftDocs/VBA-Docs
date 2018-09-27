@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeQuery Property (Access)
+title: Form.BeforeQuery property (Access)
 keywords: vbaac10.chm13540
 f1_keywords:
 - vbaac10.chm13540
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeQuery Property (Access)
+# Form.BeforeQuery property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[BeforeQuery](Access.Form.BeforeQuery(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `BeforeQuery`
+_expression_. `BeforeQuery`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

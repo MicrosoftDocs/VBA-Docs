@@ -14,7 +14,7 @@ Specifies which icon, if any, to display with an alert.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlertIconCritical**|1|Displays the  **Critica**l icon.|
 |**msoAlertIconInfo**|4|Displays the  **Info** icon.|

@@ -14,7 +14,7 @@ Specifies the background type for text in charts.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlBackgroundAutomatic**|-4105|Word controls the background.|
 |**xlBackgroundOpaque**|3|An opaque background.|

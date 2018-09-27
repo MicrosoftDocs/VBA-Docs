@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BottomPadding Property (Access)
+title: WebBrowserControl.BottomPadding property (Access)
 keywords: vbaac10.chm14393
 f1_keywords:
 - vbaac10.chm14393
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BottomPadding Property (Access)
+# WebBrowserControl.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## See also

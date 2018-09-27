@@ -1,5 +1,5 @@
 ---
-title: CommandButton.SetFocus Method (Access)
+title: CommandButton.SetFocus method (Access)
 keywords: vbaac10.chm10444
 f1_keywords:
 - vbaac10.chm10444
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.SetFocus Method (Access)
+# CommandButton.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

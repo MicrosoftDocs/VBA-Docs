@@ -27,7 +27,7 @@ Removes the specified node (and its subtree) from the main tree, and replaces it
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Represents the subtree to be added.|
 | _OldNode_|Required|**CustomXMLNode**|Represents the child node to be replaced.|

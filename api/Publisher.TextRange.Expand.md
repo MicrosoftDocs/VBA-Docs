@@ -27,11 +27,11 @@ Expands the specified range or selection. Returns or sets a  **Long** that repre
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbTextUnit**|The unit by which to expand the range.|
 
-### Return Value
+### Return value
 
 Long
 

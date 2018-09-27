@@ -20,7 +20,7 @@ Adds a table to the report, and returns a  **Shape** object that represents the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumRows_|Required|**Long**|The number of rows in the table.  _NumRows_ is ignored when creating a table.|
 | _NumColumns_|Required|**Long**|The number of columns in the table.  _NumColumns_ is ignored when creating a table.|

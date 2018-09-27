@@ -24,7 +24,7 @@ Gets a  **[Resource](Project.Resource.md)** object from its containing collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The position of the object within its containing collection.|
 

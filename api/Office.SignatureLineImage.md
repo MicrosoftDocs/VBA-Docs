@@ -14,7 +14,7 @@ Indicates the signature line image.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**siglnimgSignedInvalid**|3|The SignedInvalid image.|
 |**siglnimgSignedValid**|2|The SignedValid image.|

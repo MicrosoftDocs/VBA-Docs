@@ -1,5 +1,5 @@
 ---
-title: AcDisplayAs Enumeration (Access)
+title: AcDisplayAs enumeration (Access)
 keywords: vbaac10.chm14054
 f1_keywords:
 - vbaac10.chm14054
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcDisplayAs Enumeration (Access)
+# AcDisplayAs enumeration (Access)
 
 Use with the  **DisplayAs** property to specify what is displayed in an Attachment control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDisplayAsIcon**|1|The attachment is displayed as the icon for that file type.|
 |**acDisplayAsImageIcon**|0|If the attachment is a supported image format, then the image is displayed. If the attachment is not a supported image format, then the icon for that file type is displayed.|

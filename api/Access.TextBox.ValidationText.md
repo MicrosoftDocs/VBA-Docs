@@ -1,5 +1,5 @@
 ---
-title: TextBox.ValidationText Property (Access)
+title: TextBox.ValidationText property (Access)
 keywords: vbaac10.chm11052
 f1_keywords:
 - vbaac10.chm11052
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ValidationText Property (Access)
+# TextBox.ValidationText property (Access)
 
 Use the  **ValidationText** property to specify a message to be displayed to the user when data is entered that violates a **ValidationRule** setting for a record, field, or control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ValidationText`
+_expression_. `ValidationText`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

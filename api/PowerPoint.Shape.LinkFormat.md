@@ -23,7 +23,7 @@ Returns a  **[LinkFormat](PowerPoint.LinkFormat.md)** object that contains the p
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 LinkFormat
 

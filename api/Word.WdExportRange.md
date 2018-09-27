@@ -14,7 +14,7 @@ Specifies how much of the document to export.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdExportAllDocument**|0|Exports the entire document.|
 | **wdExportCurrentPage**|2|Exports the current page.|

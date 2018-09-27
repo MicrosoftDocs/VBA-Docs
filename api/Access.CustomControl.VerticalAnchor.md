@@ -1,5 +1,5 @@
 ---
-title: CustomControl.VerticalAnchor Property (Access)
+title: CustomControl.VerticalAnchor property (Access)
 keywords: vbaac10.chm10538
 f1_keywords:
 - vbaac10.chm10538
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.VerticalAnchor Property (Access)
+# CustomControl.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified text box is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

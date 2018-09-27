@@ -27,11 +27,11 @@ Returns an object that represents either a single embedded chart (a  **[ChartObj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the chart. This argument can be an array, to specify more than one chart.|
 
-### Return Value
+### Return value
 
 Object
 

@@ -27,7 +27,7 @@ Gets a member of the specified  **COMAddIns** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Represents the location of the member within the collection.|
 

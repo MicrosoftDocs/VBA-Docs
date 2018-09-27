@@ -1,5 +1,5 @@
 ---
-title: Report.PrtDevMode Property (Access)
+title: Report.PrtDevMode property (Access)
 keywords: vbaac10.chm13738
 f1_keywords:
 - vbaac10.chm13738
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PrtDevMode Property (Access)
+# Report.PrtDevMode property (Access)
 
 You can use the  **PrtDevMode** property to set or return printing device mode information specified for a form or report in the **Print** dialog box. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PrtDevMode`
+_expression_. `PrtDevMode`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

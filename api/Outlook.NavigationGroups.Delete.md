@@ -27,7 +27,7 @@ Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Group_|Required| **NavigationGroup**|The navigation group to be deleted.|
 

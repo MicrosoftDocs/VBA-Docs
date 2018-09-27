@@ -27,7 +27,7 @@ Returns the interest payment for a given period for an investment based on perio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate per period.|
 | _Arg2_|Required| **Double**|Per - the period for which you want to find the interest and must be in the range 1 to nper.|
@@ -36,7 +36,7 @@ Returns the interest payment for a given period for an investment based on perio
 | _Arg5_|Optional| **Variant**|Fv - the future value, or a cash balance you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (the future value of a loan, for example, is 0).|
 | _Arg6_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due. If type is omitted, it is assumed to be 0.|
 
-### Return Value
+### Return value
 
 Double
 

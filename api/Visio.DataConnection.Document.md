@@ -26,7 +26,7 @@ Gets the  **Document** object that contains the **DataConnection** object. Read-
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 
 
-### Return Value
+### Return value
 
 Document
 

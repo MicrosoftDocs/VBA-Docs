@@ -27,12 +27,12 @@ Calculates the net present value of an investment by using a discount rate and a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the rate of discount over the length of one period.|
 | _Arg2 - Arg30_|Required| **Variant**|Value1, value2, ... - 1 to 29 arguments representing the payments and income.|
 
-### Return Value
+### Return value
 
 Double
 

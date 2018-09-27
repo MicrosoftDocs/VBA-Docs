@@ -24,11 +24,11 @@ Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Vie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
-### Return Value
+### Return value
 
  **Long**
 

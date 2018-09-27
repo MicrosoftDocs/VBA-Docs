@@ -27,11 +27,11 @@ Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** obj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GroupDisplayName_|Required| **String**|The value of the  **[Name](Outlook.NavigationGroup.Name.md)** property for the new **NavigationGroup** object.|
 
-### Return Value
+### Return value
 
 A  **NavigationGroup** object that represents the new navigation group.
 

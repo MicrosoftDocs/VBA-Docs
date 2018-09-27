@@ -1,5 +1,5 @@
 ---
-title: TextBox.ColumnHidden Property (Access)
+title: TextBox.ColumnHidden property (Access)
 keywords: vbaac10.chm11097
 f1_keywords:
 - vbaac10.chm11097
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ColumnHidden Property (Access)
+# TextBox.ColumnHidden property (Access)
 
 You can use the  **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ColumnHidden`
+_expression_. `ColumnHidden`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

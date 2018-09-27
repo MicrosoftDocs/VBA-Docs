@@ -14,7 +14,7 @@ Specifies the type of arrowhead to apply at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlArrowHeadStyleClosed**|3|Small arrowhead with curved edge at connection to line.|
 | **xlArrowHeadStyleDoubleClosed**|5|Large diamond-shaped arrowhead.|

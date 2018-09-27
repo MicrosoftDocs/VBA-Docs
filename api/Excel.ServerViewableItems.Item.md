@@ -27,11 +27,11 @@ Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableIt
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to be returned.|
 
-### Return Value
+### Return value
 
 Object
 

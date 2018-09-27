@@ -1,5 +1,5 @@
 ---
-title: Application.DDEInitiate Method (Access)
+title: Application.DDEInitiate method (Access)
 keywords: vbaac10.chm12539
 f1_keywords:
 - vbaac10.chm12539
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEInitiate Method (Access)
+# Application.DDEInitiate method (Access)
 
 You can use the  **DDEInitiate** function to begin a dynamic data exchange (DDE) conversation with another application. The **DDEInitiate** function opens a DDE channel for transfer of data between a DDE server and client application.
 
 
 ## Syntax
 
- _expression_. `DDEInitiate`( ` _Application_`, ` _Topic_` )
+_expression_. `DDEInitiate`( ` _Application_`, ` _Topic_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Application_|Required|**String**|A string expression identifying an application that can participate in a DDE conversation. Usually, the  _application_ argument is the name of an .exe file (without the .exe extension) for a Microsoft Windows?based application, such as Microsoft Excel.|
 | _Topic_|Required|**String**|A string expression that is the name of a topic recognized by the  _application_ argument. Check the application's documentation for a list of topics.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Application Property (Access)
+title: EmptyCell.Application property (Access)
 keywords: vbaac10.chm14297
 f1_keywords:
 - vbaac10.chm14297
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Application Property (Access)
+# EmptyCell.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

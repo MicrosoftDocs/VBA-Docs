@@ -27,7 +27,7 @@ Switches to the specified slide during a slide show. You can specify whether you
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The number of the slide to switch to.|
 | _ResetSlide_|Optional|**MsoTriState**|Whether animation effects should be rerun when returning to the first slide. See Remarks for more information.|

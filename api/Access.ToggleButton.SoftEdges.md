@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.SoftEdges Property (Access)
+title: ToggleButton.SoftEdges property (Access)
 keywords: vbaac10.chm14639
 f1_keywords:
 - vbaac10.chm14639
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.SoftEdges Property (Access)
+# ToggleButton.SoftEdges property (Access)
 
 Gets or sets the  **Soft Edges** effect applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `SoftEdges`
+_expression_. `SoftEdges`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

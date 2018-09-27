@@ -27,7 +27,7 @@ Returns a  **Long** that represents a statistic based on the contents of the spe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Statistic_|Required| **[WdStatistic](Word.WdStatistic.md)**|The type of statistic to compute.|
 

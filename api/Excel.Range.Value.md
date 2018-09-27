@@ -27,7 +27,7 @@ Returns or sets a  **Variant** value that represents the value of the specified 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[xlRangeValueDataType](Excel.XlRangeValueDataType.md)** constant.|
 

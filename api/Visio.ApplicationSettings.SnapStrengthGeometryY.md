@@ -23,7 +23,7 @@ Specifies the distance in pixels along the  _y_ -axis that shape geometry pulls 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

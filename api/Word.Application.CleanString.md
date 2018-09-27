@@ -27,7 +27,7 @@ Removes nonprinting characters (character codes 1 ? 29) and special Word charact
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The source string.|
 

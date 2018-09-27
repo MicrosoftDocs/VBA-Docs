@@ -1,5 +1,5 @@
 ---
-title: Rectangle.BorderTint Property (Access)
+title: Rectangle.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.BorderTint Property (Access)
+# Rectangle.BorderTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderTint`
+_expression_. `BorderTint`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

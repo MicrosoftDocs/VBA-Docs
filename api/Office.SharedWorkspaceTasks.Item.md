@@ -30,7 +30,7 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Returns the  **SharedWorkspaceTask** at the position specified. The returned **SharedWorkspaceTask** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
 

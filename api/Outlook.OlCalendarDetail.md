@@ -17,7 +17,7 @@ Indicates the level of detail for calendar items that will be exported to an iCa
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFreeBusyAndSubject**|1|Free/busy information and the appointment subjects are exported to the iCalendar file. |
 | **olFreeBusyOnly**|0|Only free/busy information is exported to the iCalendar file.|

@@ -23,7 +23,7 @@ Returns or sets the slide width, in points. Read/write.
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

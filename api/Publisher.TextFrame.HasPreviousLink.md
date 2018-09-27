@@ -23,7 +23,7 @@ Returns  **msoTrue** if the specified text frame has a valid link to a backward 
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

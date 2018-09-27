@@ -1,5 +1,5 @@
 ---
-title: Report.HelpFile Property (Access)
+title: Report.HelpFile property (Access)
 keywords: vbaac10.chm13717
 f1_keywords:
 - vbaac10.chm13717
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.HelpFile Property (Access)
+# Report.HelpFile property (Access)
 
 The name of a help file associated with a report. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `HelpFile`
+_expression_. `HelpFile`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Example

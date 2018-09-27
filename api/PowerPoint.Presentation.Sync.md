@@ -23,7 +23,7 @@ Returns a  **Sync** object that enables you to manage the synchronization of the
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 Sync
 

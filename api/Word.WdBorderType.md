@@ -14,7 +14,7 @@ Specifies the type of border to be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBorderBottom**|-3|A bottom border.|
 | **wdBorderDiagonalDown**|-7|A diagonal border starting in the upper-left corner.|

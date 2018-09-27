@@ -1,5 +1,5 @@
 ---
-title: Image.BackThemeColorIndex Property (Access)
+title: Image.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BackThemeColorIndex Property (Access)
+# Image.BackThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BackThemeColorIndex`
+_expression_. `BackThemeColorIndex`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

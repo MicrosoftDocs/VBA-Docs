@@ -1,5 +1,5 @@
 ---
-title: SubForm.IsVisible Property (Access)
+title: SubForm.IsVisible property (Access)
 keywords: vbaac10.chm11956
 f1_keywords:
 - vbaac10.chm11956
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.IsVisible Property (Access)
+# SubForm.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

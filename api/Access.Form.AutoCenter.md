@@ -1,5 +1,5 @@
 ---
-title: Form.AutoCenter Property (Access)
+title: Form.AutoCenter property (Access)
 keywords: vbaac10.chm13368
 f1_keywords:
 - vbaac10.chm13368
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AutoCenter Property (Access)
+# Form.AutoCenter property (Access)
 
 Returns or sets a  **Boolean** indicating whether a form will be centered automatically in the application window when the form is opened. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoCenter`
+_expression_. `AutoCenter`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

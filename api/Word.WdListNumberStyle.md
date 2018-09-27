@@ -14,7 +14,7 @@ Specifies the numeric style to apply to a list.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdListNumberStyleAiueo**|20|Aiueo numeric style.|
 | **wdListNumberStyleAiueoHalfWidth**|12|Aiueo half-width numeric style.|

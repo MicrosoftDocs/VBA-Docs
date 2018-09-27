@@ -23,7 +23,7 @@ Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Return Value
+### Return value
 
 An  **AddressEntries** collection object that represents the Exchange distribution lists to which the **[ExchangeUser](Outlook.ExchangeUser.md)** belongs. Returns an **AddressEntries** collection object with a count of zero (0) if the **ExchangeUser** is not a member of any Exchange distribution list.
 

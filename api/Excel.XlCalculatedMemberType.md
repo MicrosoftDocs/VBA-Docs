@@ -14,7 +14,7 @@ Specifies the type of a calculated member in a PivotTable.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCalculatedMeasure**|2|The member is a Multidimensional Expressions (MDX) expression that defines the measure.|
 | **xlCalculatedMember**|0|The member uses a Multidimensional Expression (MDX) formula.|

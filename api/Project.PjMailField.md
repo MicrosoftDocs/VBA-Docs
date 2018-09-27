@@ -14,7 +14,7 @@ Contains constants that specify the mail field. Obsolete.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMailActualWork**|32773|Represents the Actual Work field. |
 |**pjMailComments**|32769|Represents the Comments field.|

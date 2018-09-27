@@ -1,5 +1,5 @@
 ---
-title: Operations.Item Property (Access)
+title: Operations.Item property (Access)
 keywords: vbaac10.chm14571
 f1_keywords:
 - vbaac10.chm14571
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Operations.Item Property (Access)
+# Operations.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_. `Item`( ` _Index_` )
 
- _expression_ A variable that represents an [Operations](Access.Operations.md) object.
+_expression_ A variable that represents an [Operations](Access.Operations.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**||
 

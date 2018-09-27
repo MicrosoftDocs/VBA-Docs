@@ -27,11 +27,11 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Comparison_|Required| **Variant**|A single cell to compare with the specified range.|
 
-### Return Value
+### Return value
 
 Range
 

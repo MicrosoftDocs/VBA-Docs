@@ -17,7 +17,7 @@ Constants passed to the  **Plate.Delete** method specifying how to replace the c
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbReplaceTintKeepTints**|1|Maintain the same tint percentage in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with a 100% tint of blue.|
 | **pbReplaceTintMaintainLuminosity**|2|Maintain the same lightness value in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with an approximately 10% tint of blue.|

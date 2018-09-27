@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.IsVisible Property (Access)
+title: OptionGroup.IsVisible property (Access)
 keywords: vbaac10.chm10860
 f1_keywords:
 - vbaac10.chm10860
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.IsVisible Property (Access)
+# OptionGroup.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

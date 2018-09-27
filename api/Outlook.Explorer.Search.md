@@ -27,7 +27,7 @@ Performs a Microsoft Instant Search on the current folder displayed in the Explo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Query_|Required| **String**|A search string that can contain any valid keywords supported in Instant Search.|
 | _SearchScope_|Optional| **[OlSearchScope](Outlook.OlSearchScope.md)**|Specifies the scope in terms of folders for the search.|

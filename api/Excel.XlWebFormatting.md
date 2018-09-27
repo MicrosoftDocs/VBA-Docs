@@ -14,7 +14,7 @@ Specifies how much formatting from a Web page, if any, is applied when a Web pag
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlWebFormattingAll**|1|All formatting is imported.|
 | **xlWebFormattingNone**|3|No formatting is imported.|

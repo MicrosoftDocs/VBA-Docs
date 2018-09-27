@@ -1,5 +1,5 @@
 ---
-title: ListBox.BorderColor Property (Access)
+title: ListBox.BorderColor property (Access)
 keywords: vbaac10.chm11251
 f1_keywords:
 - vbaac10.chm11251
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BorderColor Property (Access)
+# ListBox.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

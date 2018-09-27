@@ -17,7 +17,7 @@ Specifies the resize directions that correspond to the shape handles to move; pa
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visResizeDirE**|0|Middle right.|
 | **visResizeDirNE**|1|Top right.|

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.LabelAlign Property (Access)
+title: NavigationButton.LabelAlign property (Access)
 keywords: vbaac10.chm10486
 f1_keywords:
 - vbaac10.chm10486
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.LabelAlign Property (Access)
+# NavigationButton.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `LabelAlign`
+_expression_. `LabelAlign`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

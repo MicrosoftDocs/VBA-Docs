@@ -17,7 +17,7 @@ Specifies constants that define the different ways to center the view; passed to
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visCenterViewDefault**|0|Display the page that contains the specified shape, and center the view on the shape.|
 | **visCenterViewIfOffScreen**|1|Center the view only if the shape is currently off screen.|

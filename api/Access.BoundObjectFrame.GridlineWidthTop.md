@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineWidthTop Property (Access)
+title: BoundObjectFrame.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11004
 f1_keywords:
 - vbaac10.chm11004
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineWidthTop Property (Access)
+# BoundObjectFrame.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

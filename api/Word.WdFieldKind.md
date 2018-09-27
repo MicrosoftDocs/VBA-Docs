@@ -14,7 +14,7 @@ Specifies the type of field for a  **Field** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFieldKindCold**|3|A field that does not have a result, for example, an Index Entry (XE), Table of Contents Entry (TC), or Private field.|
 | **wdFieldKindHot**|1|A field that's automatically updated each time it is displayed or each time the page is reformatted, but which can also be manually updated (for example, INCLUDEPICTURE or FORMDROPDOWN).|

@@ -14,7 +14,7 @@ Specifies the type of fraction bar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathFracBar**|0|Normal fraction bar.|
 | **wdOMathFracLin**|3|Show fraction inline.|

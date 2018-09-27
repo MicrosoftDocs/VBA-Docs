@@ -1,5 +1,5 @@
 ---
-title: TabControl.Layout Property (Access)
+title: TabControl.Layout property (Access)
 keywords: vbaac10.chm14535
 f1_keywords:
 - vbaac10.chm14535
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Layout Property (Access)
+# TabControl.Layout property (Access)
 
 Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## See also

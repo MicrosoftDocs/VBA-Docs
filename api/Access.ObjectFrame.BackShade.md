@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.BackShade Property (Access)
+title: ObjectFrame.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.BackShade Property (Access)
+# ObjectFrame.BackShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackShade`
+_expression_. `BackShade`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

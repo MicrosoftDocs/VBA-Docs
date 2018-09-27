@@ -23,7 +23,7 @@ Returns the width, in points, of the object. Read-only.
  _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

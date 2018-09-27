@@ -1,5 +1,5 @@
 ---
-title: Printer.PrintQuality Property (Access)
+title: Printer.PrintQuality property (Access)
 keywords: vbaac10.chm12866
 f1_keywords:
 - vbaac10.chm12866
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.PrintQuality Property (Access)
+# Printer.PrintQuality property (Access)
 
 Returns or sets an  **[AcPrintObjQuality](Access.AcPrintObjQuality.md)** constant indicating the resolution at which the specified printer should print jobs. Read/write.
 
 
 ## Syntax
 
- _expression_. `PrintQuality`
+_expression_. `PrintQuality`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

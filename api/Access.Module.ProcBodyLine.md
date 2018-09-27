@@ -1,5 +1,5 @@
 ---
-title: Module.ProcBodyLine Property (Access)
+title: Module.ProcBodyLine property (Access)
 keywords: vbaac10.chm12282
 f1_keywords:
 - vbaac10.chm12282
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcBodyLine Property (Access)
+# Module.ProcBodyLine property (Access)
 
 The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `ProcBodyLine`( ` _ProcName_`, ` _ProcKind_` )
+_expression_. `ProcBodyLine`( ` _ProcName_`, ` _ProcKind_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProcName_|Required|**String**|The name of a procedure in the module.|
 | _ProcKind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|

@@ -14,7 +14,7 @@ Constants that specify the action for loading legacy files.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDoNotLoadLegacyFiles**|0|Do not load legacy files.|
 |**pjEnableLegacyFilesLoad**|2|Load legacy files.|

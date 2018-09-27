@@ -1,5 +1,5 @@
 ---
-title: ListBox.Selected Property (Access)
+title: ListBox.Selected property (Access)
 keywords: vbaac10.chm11207
 f1_keywords:
 - vbaac10.chm11207
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Selected Property (Access)
+# ListBox.Selected property (Access)
 
 You can use the  **Selected** property in Visual Basic to determine if an item in a list box is selected. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Selected`( ` _lRow_` )
+_expression_. `Selected`( ` _lRow_` )
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lRow_|Required|**Long**|The item in the list box. The first item is represented by a zero (0), the second by a one (1), and so on.|
 

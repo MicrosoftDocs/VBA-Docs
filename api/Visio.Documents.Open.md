@@ -27,11 +27,11 @@ Opens an existing file so that it can be edited.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of a file to open.|
 
-### Return Value
+### Return value
 
 Document
 

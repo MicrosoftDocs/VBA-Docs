@@ -27,7 +27,7 @@ Links the specified style to a list template so that the style's formatting can 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **ListTemplate object**|The list template that the style is to be linked to.|
 | _ListLevelNumber_|Optional| **Variant**|An integer corresponding to the list level that the style is to be linked to. If this argument is omitted, then the level of the style is used.|

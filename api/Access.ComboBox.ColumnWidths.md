@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ColumnWidths Property (Access)
+title: ComboBox.ColumnWidths property (Access)
 keywords: vbaac10.chm11382
 f1_keywords:
 - vbaac10.chm11382
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ColumnWidths Property (Access)
+# ComboBox.ColumnWidths property (Access)
 
 You can use the  **ColumnWidths** property to specify the width of each column in a multiple-column combo box. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ColumnWidths`
+_expression_. `ColumnWidths`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

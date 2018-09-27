@@ -24,11 +24,11 @@ Occurs when a change is made to data in the project. An action affecting several
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that changed.|
 
-### Return Value
+### Return value
 
 nothing
 

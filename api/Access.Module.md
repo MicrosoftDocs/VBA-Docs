@@ -1,5 +1,5 @@
 ---
-title: Module Object (Access)
+title: Module object (Access)
 keywords: vbaac10.chm12268
 f1_keywords:
 - vbaac10.chm12268
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Module Object (Access)
+# Module object (Access)
 
 A  **Module** object refers to a standard module or a class module.
 

@@ -27,12 +27,12 @@ Moves the project start date to a new date.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|Specifies the new project start date.|
 | _MoveDeadline_|Optional|**Boolean**|**True** if deadlines are also moved; otherwise **false**. The default is **true**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

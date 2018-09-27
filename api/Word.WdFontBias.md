@@ -14,7 +14,7 @@ Specifies the font bias for symbols.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFontBiasDefault**|0|Default font bias.|
 | **wdFontBiasDontCare**|255|No font bias specified.|

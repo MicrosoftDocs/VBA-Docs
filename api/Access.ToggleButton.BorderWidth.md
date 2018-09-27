@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.BorderWidth Property (Access)
+title: ToggleButton.BorderWidth property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.BorderWidth Property (Access)
+# ToggleButton.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderWidth`
+_expression_. `BorderWidth`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

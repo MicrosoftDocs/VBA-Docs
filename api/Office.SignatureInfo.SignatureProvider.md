@@ -20,7 +20,7 @@ Gets a value identifying an installed signature provider add-in. Read-only.
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -14,7 +14,7 @@ Specifies whether to repeat all field item labels in a PivotTable report.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDoNotRepeatLabels**|1|Do not repeat item labels.|
 | **xlRepeatLabels**|2|Repeat all item labels.|

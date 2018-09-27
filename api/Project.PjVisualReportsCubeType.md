@@ -14,7 +14,7 @@ Contains constants that specify the type of report cube on which to operate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssignmentNTP**|6|Nontimephased assignment cube.|
 |**pjAssignmentTP**|3|Timephased assignment cube.|

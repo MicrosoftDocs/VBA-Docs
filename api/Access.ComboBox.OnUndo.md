@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnUndo Property (Access)
+title: ComboBox.OnUndo property (Access)
 keywords: vbaac10.chm11474
 f1_keywords:
 - vbaac10.chm11474
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnUndo Property (Access)
+# ComboBox.OnUndo property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **Undo** event occurs. Read/write..
 
 
 ## Syntax
 
- _expression_. `OnUndo`
+_expression_. `OnUndo`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

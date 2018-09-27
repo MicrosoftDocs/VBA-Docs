@@ -27,12 +27,12 @@ Occurs immediately before any open workbook closes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook that's being closed|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook doesn't close when the procedure is finished.|
 
-### Return Value
+### Return value
 
 Nothing
 

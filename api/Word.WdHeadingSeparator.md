@@ -14,7 +14,7 @@ Specifies the type of text separator to place between headings in an index.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHeadingSeparatorBlankLine**|1|A blank line.|
 | **wdHeadingSeparatorLetter**|2|A designated letter.|

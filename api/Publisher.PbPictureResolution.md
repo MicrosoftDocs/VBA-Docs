@@ -17,7 +17,7 @@ Constants passed to the  **SaveAsPicture** method and specifying the resolution 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPictureResolutionCommercialPrint_300dpi**|3|300 dpi|
 | **pbPictureResolutionDefault**|0|Default|

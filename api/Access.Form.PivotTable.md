@@ -1,5 +1,5 @@
 ---
-title: Form.PivotTable Property (Access)
+title: Form.PivotTable property (Access)
 keywords: vbaac10.chm13521
 f1_keywords:
 - vbaac10.chm13521
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PivotTable Property (Access)
+# Form.PivotTable property (Access)
 
 Returns a  **PivotTable** object representing a PivotTable View on a form. Read-only.
 
 
 ## Syntax
 
- _expression_. `PivotTable`
+_expression_. `PivotTable`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Example

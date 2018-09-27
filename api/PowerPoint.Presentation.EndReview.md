@@ -23,7 +23,7 @@ Ends the review cycle.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 None
 

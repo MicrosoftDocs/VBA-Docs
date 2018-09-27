@@ -14,7 +14,7 @@ Specifies wrap behavior if a selection or range is specified for a find operatio
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFindAsk**|2|After searching the selection or range, Microsoft Word displays a message asking whether to search the remainder of the document.|
 | **wdFindContinue**|1|The find operation continues if the beginning or end of the search range is reached.|

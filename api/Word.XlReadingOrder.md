@@ -14,7 +14,7 @@ Specifies the reading order for the specified object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlContext**|-5002|According to context.|
 | **xlLTR**|-5003|Left-to-right.|

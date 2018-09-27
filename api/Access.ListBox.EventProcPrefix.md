@@ -1,5 +1,5 @@
 ---
-title: ListBox.EventProcPrefix Property (Access)
+title: ListBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm11218
 f1_keywords:
 - vbaac10.chm11218
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.EventProcPrefix Property (Access)
+# ListBox.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

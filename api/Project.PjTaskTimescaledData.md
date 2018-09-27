@@ -14,7 +14,7 @@ Contains constants that specify the type of field for task timescaled data in th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTaskTimescaledActualCost**|7|Actual Cost (task) field.|
 |**pjTaskTimescaledActualFixedCost**|171|Actual Fixed Cost (task) field.|

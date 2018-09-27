@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.SelectedTab Property (Access)
+title: NavigationControl.SelectedTab property (Access)
 keywords: vbaac10.chm14644
 f1_keywords:
 - vbaac10.chm14644
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.SelectedTab Property (Access)
+# NavigationControl.SelectedTab property (Access)
 
 Gets the active tab of the navigation control. Read-only  **[NavigationButton](Access.NavigationButton.md)**.
 
 
 ## Syntax
 
- _expression_. `SelectedTab`
+_expression_. `SelectedTab`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## See also

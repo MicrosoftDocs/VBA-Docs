@@ -27,7 +27,7 @@ Moves a shape to the specified page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Page|Required| **Long**|Page to which the shape should be moved.|
 |Left|Optional| **Variant**|Left position of the shape on the page.|

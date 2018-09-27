@@ -27,11 +27,11 @@ Returns the specified task pane as a  **TaskPane** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdTaskPanes**|The specified task pane.|
 
-### Return Value
+### Return value
 
 TaskPane
 

@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeEffect
  _expression_ An expression that returns a [ThemeEffectScheme](./Office.ThemeEffectScheme.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

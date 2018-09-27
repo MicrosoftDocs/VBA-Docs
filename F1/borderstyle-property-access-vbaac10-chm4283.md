@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Attachment.BorderStyle Property (Access)](http://msdn.microsoft.com/library/a1156f6c-5649-ddef-619d-d15a57bb581a%28Office.15%29.aspx)
+[Attachment.BorderStyle property (Access)](http://msdn.microsoft.com/library/a1156f6c-5649-ddef-619d-d15a57bb581a%28Office.15%29.aspx)
 

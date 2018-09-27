@@ -24,12 +24,12 @@ Occurs after the  **LoadWebBrowserControl** method is called with the third para
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrFunctionality_|Required|**String**|Name of the functionality.|
 | _Info_|Required|**EventInfo**|EventInfo object.|
 
-### Return Value
+### Return value
 
 nothing
 

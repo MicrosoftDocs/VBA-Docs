@@ -23,7 +23,7 @@ Determines whether an object is visible. Read/write.
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

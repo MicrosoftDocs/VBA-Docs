@@ -25,7 +25,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of a project file.|
 | _Format_|Optional|**PjFileFormat**|Specifies the file format. The format of the file. The _FormatID_ argument should be used in place of _Format_, which is included primarily for backwards compatibility. If _FormatID_ is specified, _Format_ is ignored. Can be one of the **[PjFileFormat](Project.PjFileFormat.md)** constants. The default is **pjMPP**.|

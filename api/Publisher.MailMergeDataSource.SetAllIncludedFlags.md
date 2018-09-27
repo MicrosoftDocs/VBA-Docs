@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Included|Required| **Boolean**| **True** to include all data source records in a mail merge. **False** to exclude all data source records from a mail merge.|
 

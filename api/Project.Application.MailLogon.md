@@ -24,7 +24,7 @@ Logs on to a MAPI mail system and establishes a mail session. A mail session mus
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The mail account name.|
 | _Password_|Optional|**String**|The mail account password.|

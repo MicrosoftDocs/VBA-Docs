@@ -25,7 +25,7 @@ _expression_ A variable that represents an [Application](./Outlook.Application.m
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|A weak object reference for the loaded Outlook item.|
 

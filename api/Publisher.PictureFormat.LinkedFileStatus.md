@@ -23,7 +23,7 @@ Returns a  **PbLinkedFileStatus** constant that indicates the status of the file
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 PbLinkedFileStatus
 

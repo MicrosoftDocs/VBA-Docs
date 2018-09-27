@@ -27,7 +27,7 @@ Adds a member property field to the display for the cube field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Property_|Required| **String**|The unique name of the member property. For balanced hierarchies, a unique name can be created by appending the "quoted" member property name to the unique name of the level with which the member property is associated. For unbalanced hierarchies, a unique name can be created by appending the "quoted" member property name to the unique name of the hierarchy.|
 | _PropertyOrder_|Optional| **Variant**|Sets the  **[PropertyOrder](Excel.PivotField.PropertyOrder.md)** property value for a **CubeField** object. The actual position in the collection will be immediately before the PivotTable field that currently has the same **PropertyOrder** value that is given in the argument. If no field has the given property order value, the range of acceptable values is 1 to the number of member properties already showing for the hierarchy plus one. This argument is one-based. If omitted, the property goes to the end of the list.|

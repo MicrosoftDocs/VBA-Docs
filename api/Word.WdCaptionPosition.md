@@ -14,7 +14,7 @@ Specifies the position of the caption label text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCaptionPositionAbove**|0|The caption label is added above.|
 | **wdCaptionPositionBelow**|1|The caption label is added below.|

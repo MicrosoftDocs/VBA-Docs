@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.SubdatasheetHeight Property (Access)](http://msdn.microsoft.com/library/0db2e4b5-e64b-6f55-ebfa-bcce98734491%28Office.15%29.aspx)
+[Form.SubdatasheetHeight property (Access)](http://msdn.microsoft.com/library/0db2e4b5-e64b-6f55-ebfa-bcce98734491%28Office.15%29.aspx)
 

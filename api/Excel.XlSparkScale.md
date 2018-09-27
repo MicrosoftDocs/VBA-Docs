@@ -14,7 +14,7 @@ Specifies how the minimum or maximum value of the vertical axis of the sparkline
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSparkScaleCustom**|3|The minimum or maximum value for the vertical axis of the sparkline has a user-defined value.|
 | **xlSparkScaleGroup**|1|The minimum or maximum value for the vertical axes of all of the sparklines in the group have the same value.|

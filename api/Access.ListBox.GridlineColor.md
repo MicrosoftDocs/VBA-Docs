@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineColor Property (Access)
+title: ListBox.GridlineColor property (Access)
 keywords: vbaac10.chm11318
 f1_keywords:
 - vbaac10.chm11318
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineColor Property (Access)
+# ListBox.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

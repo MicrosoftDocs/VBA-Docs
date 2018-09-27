@@ -24,13 +24,13 @@ Returns the date and time that precedes another date by a specified duration, fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FinishDate_|Required|**Variant**|The date used as the end of the duration.|
 | _Duration_|Required|**Variant**|The duration to subtract from the finish date.|
 | _Calendar_|Optional|**Object**|A resource, task, or base calendar object. The default value is the calendar of the active project.|
 
-### Return Value
+### Return value
 
  **Variant**
 

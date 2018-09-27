@@ -1,5 +1,5 @@
 ---
-title: DoCmd.BrowseTo Method (Access)
+title: DoCmd.BrowseTo method (Access)
 keywords: vbaac10.chm5973
 f1_keywords:
 - vbaac10.chm5973
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.BrowseTo Method (Access)
+# DoCmd.BrowseTo method (Access)
 
 The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `BrowseTo`( ` _ObjectType_`, ` _ObjectName_`, ` _PathtoSubformControl_`, ` _WhereCondition_`, ` _Page_`, ` _DataMode_` )
+_expression_. `BrowseTo`( ` _ObjectType_`, ` _ObjectName_`, ` _PathtoSubformControl_`, ` _WhereCondition_`, ` _Page_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**[AcBrowseToObjectType](Access.AcBrowseToObjectType.md)**|The object type to which to browse.|
 | _ObjectName_|Required|**Variant**|The object that loads inside the subform control referenced by the PathtoSubformControl argument. |

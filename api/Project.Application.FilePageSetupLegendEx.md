@@ -25,7 +25,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up legends for printing.|
 | _TextWidth_|Optional|**Integer**|The width of the text, in inches or centimeters.|

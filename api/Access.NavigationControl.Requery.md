@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Requery Method (Access)
+title: NavigationControl.Requery method (Access)
 keywords: vbaac10.chm11034
 f1_keywords:
 - vbaac10.chm11034
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Requery Method (Access)
+# NavigationControl.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

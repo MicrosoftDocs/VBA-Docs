@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required|**[Page](Visio.Page.md)**|The sub-process page to which the shape should be moved. You cannot pass the current page.|
 | _ObjectToDrop_|Required|**[UNKNOWN]**|The replacement shape to drop.|

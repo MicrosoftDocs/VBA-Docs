@@ -27,11 +27,11 @@ Instructs the active object to perform an action.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Verb_|Optional|**Long**|The action that the active object should perform.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

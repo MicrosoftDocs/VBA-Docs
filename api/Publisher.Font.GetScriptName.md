@@ -27,11 +27,11 @@ Returns a  **String** that represents the name of the font script being used in 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Script|Required| **PbFontScriptType**|The script name.|
 
-### Return Value
+### Return value
 
 String
 

@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GridlineWidthTop Property (Access)
+title: CustomControl.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10533
 f1_keywords:
 - vbaac10.chm10533
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GridlineWidthTop Property (Access)
+# CustomControl.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

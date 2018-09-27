@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineWidthRight Property (Access)
+title: BoundObjectFrame.GridlineWidthRight property (Access)
 keywords: vbaac10.chm11005
 f1_keywords:
 - vbaac10.chm11005
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineWidthRight Property (Access)
+# BoundObjectFrame.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

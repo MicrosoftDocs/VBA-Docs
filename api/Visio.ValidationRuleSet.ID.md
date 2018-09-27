@@ -23,7 +23,7 @@ Gets the unique identifier of the  **[ValidationRuleSet](Visio.ValidationRuleSet
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

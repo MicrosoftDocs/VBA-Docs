@@ -27,12 +27,12 @@ Returns the k-th percentile of values in a range. You can use this function to e
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - The array or range of data that defines relative standing.|
 | _Arg2_|Required| **Double**|K - The percentile value in the range 0..1, inclusive.|
 
-### Return Value
+### Return value
 
 Double
 

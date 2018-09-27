@@ -27,7 +27,7 @@ Occurs before a presentation is saved.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation being saved.|
 | _Cancel_|Required|**Boolean**|**True** to cancel the save process.|

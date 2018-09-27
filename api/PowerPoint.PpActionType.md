@@ -14,7 +14,7 @@ Specifies the type of action that will occur when the specified shape is clicked
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppActionEndShow**|6|Slide show ends.|
 |**ppActionFirstSlide**|3|Returns to the first slide.|

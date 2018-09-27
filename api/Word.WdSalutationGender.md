@@ -14,7 +14,7 @@ Specifies the gender to use in a salutation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGenderFemale**|0|Female gender.|
 | **wdGenderMale**|1|Male gender.|

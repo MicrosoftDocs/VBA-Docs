@@ -1,5 +1,5 @@
 ---
-title: Report.Shape Property (Access)
+title: Report.Shape property (Access)
 keywords: vbaac10.chm13815
 f1_keywords:
 - vbaac10.chm13815
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Shape Property (Access)
+# Report.Shape property (Access)
 
 Returns a  **String** representing the shape command corresponding to the sorting and grouping of the specified report. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

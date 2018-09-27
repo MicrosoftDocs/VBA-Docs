@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Undo Event (Access)
+title: ComboBox.Undo event (Access)
 keywords: vbaac10.chm14228
 f1_keywords:
 - vbaac10.chm14228
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Undo Event (Access)
+# ComboBox.Undo event (Access)
 
 Occurs when the user undoes a change.
 
 
 ## Syntax
 
- _expression_. `Undo`( ` _Cancel_`, )
+_expression_. `Undo`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set this argument to  **True** to cancel the undo operation and leave the control or form in its edited state.|
 

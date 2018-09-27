@@ -27,12 +27,12 @@ Sets the languages for the translation service.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LanguageFrom_|Required| **[WdLanguageID](Word.WdLanguageID.md)**|Specifies the language to translate from.|
 | _LanguageTo_|Required| **WdLanguageID**|Specifies the langauge to translate to.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -1,5 +1,5 @@
 ---
-title: Reference.IsBroken Property (Access)
+title: Reference.IsBroken property (Access)
 keywords: vbaac10.chm12636
 f1_keywords:
 - vbaac10.chm12636
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.IsBroken Property (Access)
+# Reference.IsBroken property (Access)
 
 The  **IsBroken** property returns a **Boolean** value indicating whether a **[Reference](Access.Reference.md)** object points to a valid reference in the Windows Registry. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsBroken`
+_expression_. `IsBroken`
 
- _expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

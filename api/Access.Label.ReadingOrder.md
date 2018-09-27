@@ -1,5 +1,5 @@
 ---
-title: Label.ReadingOrder Property (Access)
+title: Label.ReadingOrder property (Access)
 keywords: vbaac10.chm10231
 f1_keywords:
 - vbaac10.chm10231
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.ReadingOrder Property (Access)
+# Label.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+_expression_. `ReadingOrder`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

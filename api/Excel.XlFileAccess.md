@@ -14,7 +14,7 @@ Specifies the new access mode for the object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlReadOnly**|3|Read only.|
 | **xlReadWrite**|2|Read/write.|

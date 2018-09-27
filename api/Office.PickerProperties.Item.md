@@ -27,7 +27,7 @@ Retrieves a  **PickerProperty** object at the specified index. Read-only
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|Specifies an integer representing the index of the  **PickerProperty** object.|
 

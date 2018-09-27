@@ -23,7 +23,7 @@ Returns a  **String** that represents the file name of the specified picture or 
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 String
 

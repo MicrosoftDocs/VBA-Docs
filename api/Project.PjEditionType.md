@@ -14,7 +14,7 @@ Contains constants that specify the edition of Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjEditionProfessional**|1|Professional edition.|
 |**pjEditionStandard**|0|Standard edition.|

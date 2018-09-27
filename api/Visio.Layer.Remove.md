@@ -27,12 +27,12 @@ Removes a shape from a layer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SheetObject_|Required| **[IVSHAPE]**|An expression that returns the  **Shape** object to remove.|
 | _fPresMems_|Required| **Integer**|Flag that indicates whether to remove members of a group.|
 
-### Return Value
+### Return value
 
 Nothing
 

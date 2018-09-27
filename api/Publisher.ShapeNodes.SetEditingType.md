@@ -27,7 +27,7 @@ Sets the editing type of the specified node. If the node is a control point for 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The node whose editing type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
 |EditingType|Required| **MsoEditingType**|The editing property of the node.|

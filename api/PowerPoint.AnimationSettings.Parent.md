@@ -23,7 +23,7 @@ Returns the parent object for the specified object.
  _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

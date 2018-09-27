@@ -27,11 +27,11 @@ Aligns the specified part of the selected boxes in the active Network Diagram vi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Alignment_|Required|**Long**|Specifies which side or portion of a box to use for the alignment. Can be one of the  **[PjAlign](Project.PjAlign.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

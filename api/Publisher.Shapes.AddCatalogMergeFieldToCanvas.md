@@ -27,7 +27,7 @@ Adds a catalog merge field of the specified type to the canvas. Returns nothing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |CanvasId|Required| **[INT]**|The ID of the canvas to which to add the catalog merge field.|
 |CatalogMergeFieldType|Required| **pbCatalogMergeFieldType**|The type (picture or text) of the catalog merge field to add.|

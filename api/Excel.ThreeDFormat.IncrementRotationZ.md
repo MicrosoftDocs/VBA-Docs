@@ -24,7 +24,7 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies how much (in degrees) the rotation of the shape around the z-axis is to be changed. Can be a value from ? 90 through 90. A positive value tilts the shape to the left; a negative value tilts it to the right.|
 

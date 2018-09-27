@@ -1,5 +1,5 @@
 ---
-title: Report.Unload Event (Access)
+title: Report.Unload event (Access)
 keywords: vbaac10.chm13886
 f1_keywords:
 - vbaac10.chm13886
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Unload Event (Access)
+# Report.Unload event (Access)
 
 The  **Unload** event occurs after a report is closed but before it's removed from the screen.
 
 
 ## Syntax
 
- _expression_. `Unload`( ` _Cancel_`, )
+_expression_. `Unload`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 

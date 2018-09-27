@@ -1,5 +1,5 @@
 ---
-title: Properties.Parent Property (Access)
+title: Properties.Parent property (Access)
 keywords: vbaac10.chm10048
 f1_keywords:
 - vbaac10.chm10048
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Properties.Parent Property (Access)
+# Properties.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Properties](Access.Properties.md) object.
+_expression_ A variable that represents a [Properties](Access.Properties.md) object.
 
 
 ## See also

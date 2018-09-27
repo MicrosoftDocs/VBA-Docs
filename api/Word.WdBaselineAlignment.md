@@ -14,7 +14,7 @@ Specifies the vertical position of fonts on a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBaselineAlignAuto**|4|Microsoft Word automatically adjusts the baseline font alignment.|
 | **wdBaselineAlignBaseline**|2|Align to a baseline for the paragraph.|

@@ -20,7 +20,7 @@ Pastes the contents of the Clipboard into the  **TextRange2** object.
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Return Value
+### Return value
 
 TextRange2
 

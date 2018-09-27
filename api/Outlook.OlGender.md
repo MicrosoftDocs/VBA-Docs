@@ -17,7 +17,7 @@ Constants representing gender.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFemale**|1|Female|
 | **olMale**|2|Male|

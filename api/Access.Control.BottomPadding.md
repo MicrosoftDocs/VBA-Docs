@@ -1,5 +1,5 @@
 ---
-title: Control.BottomPadding Property (Access)
+title: Control.BottomPadding property (Access)
 keywords: vbaac10.chm10159
 f1_keywords:
 - vbaac10.chm10159
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.BottomPadding Property (Access)
+# Control.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the control and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## See also

@@ -27,7 +27,7 @@ Occurs when a  **[Store](Outlook.Store.md)** has been added to the current sessi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **Store**|The  **Store** to be added to the current session.|
 

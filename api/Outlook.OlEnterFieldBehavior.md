@@ -17,7 +17,7 @@ Specifies the behavior when focus enters a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olEnterFieldBehaviorRecallSelection**|1|The previous selection is displayed.|
 | **olEnterFieldBehaviorSelectAll**|0|The contents of the control are selected and any previous selection is ignored.|

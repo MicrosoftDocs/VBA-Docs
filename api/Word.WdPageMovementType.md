@@ -10,7 +10,7 @@ ms.date: 08/15/2017
 
 Specifies the the page movement type.
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdVertical**|1|Document page movement type vertical.|
 | **wdSideToSide**|2|Document page movement type side-to-side.|

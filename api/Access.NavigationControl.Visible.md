@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Visible Property (Access)
+title: NavigationControl.Visible property (Access)
 keywords: vbaac10.chm11056
 f1_keywords:
 - vbaac10.chm11056
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Visible Property (Access)
+# NavigationControl.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

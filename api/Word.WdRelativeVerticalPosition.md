@@ -14,7 +14,7 @@ Specifies to what the vertical position of a frame, a shape, or a group of rows 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRelativeVerticalPositionLine**|3|Relative to line.|
 | **wdRelativeVerticalPositionMargin**|0|Relative to margin.|

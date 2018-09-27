@@ -23,7 +23,7 @@ Scrolls the Gantt Chart, Resource Usage, or Task Usage view to display the start
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

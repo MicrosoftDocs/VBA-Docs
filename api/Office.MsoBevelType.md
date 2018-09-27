@@ -14,7 +14,7 @@ Indicates the bevel type of a  **ThreeDFormat** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBevelAngle**|6|Specifies an Angle bevel.|
 |**msoBevelArtDeco**|13|Specifies an ArtDeco bevel.|

@@ -12,7 +12,7 @@ Specifies the folder type for a specified folder.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFolderCalendar**|9|The Calendar folder.|
 | **olFolderContacts**|10|The Contacts folder.|

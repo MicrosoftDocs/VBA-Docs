@@ -27,13 +27,13 @@ Returns the inverse of the F probability distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - A probability associated with the F cumulative distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom1 - The numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Deg_freedom2 - The denominator degrees of freedom.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -27,11 +27,11 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that matches t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RuleID_|Required| **Long**|The ID of the object to retrieve.|
 
-### Return Value
+### Return value
 
  **ValidationRule**
 

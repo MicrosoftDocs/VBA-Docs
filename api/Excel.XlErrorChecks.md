@@ -14,7 +14,7 @@ Specifies the type of error object to be retrieved from the  **Errors** collecti
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlEmptyCellReferences**|7|The cell contains a formula referring to empty cells.|
 | **xlEvaluateToError**|1|The cell evaluates to an error value.|

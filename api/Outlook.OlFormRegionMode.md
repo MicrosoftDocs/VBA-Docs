@@ -17,7 +17,7 @@ Identifies the mode that the form region is being loaded into, which corresponds
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormRegionCompose**|1|The form region is in a compose page of a message or any unsendable item such as a contact item. |
 | **olFormRegionPreview**|2|The form region is in the Reading Pane.|

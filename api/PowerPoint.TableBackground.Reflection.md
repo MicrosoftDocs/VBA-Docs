@@ -23,7 +23,7 @@ Returns an  **[ReflectionFormat](./Office.ReflectionFormat.md)** object that rep
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 
 
-### Return Value
+### Return value
 
 ReflectionFormat
 

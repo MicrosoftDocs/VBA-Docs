@@ -20,7 +20,7 @@ Gets a value indicating whether the font is displayed as a glow effect. Read-onl
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return Value
+### Return value
 
 GlowFormat
 

@@ -35,13 +35,13 @@ For more information about the new functions, see the [T_Dist_RT](Excel.Workshee
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the numeric value at which to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom - an integer indicating the number of degrees of freedom.|
 | _Arg3_|Required| **Double**|Tails - specifies the number of distribution tails to return. If tails = 1, TDIST returns the one-tailed distribution. If tails = 2, TDIST returns the two-tailed distribution.|
 
-### Return Value
+### Return value
 
 Double
 

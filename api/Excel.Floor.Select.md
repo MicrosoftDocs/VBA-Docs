@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [Floor](Excel.Floor(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

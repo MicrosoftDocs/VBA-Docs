@@ -23,7 +23,7 @@ Returns or sets a  **Single** that represents the distance in points from the to
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

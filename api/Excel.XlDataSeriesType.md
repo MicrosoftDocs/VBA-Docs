@@ -14,7 +14,7 @@ Specifies the data series to create.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAutoFill**|4|Fill series according to AutoFill settings.|
 | **xlChronological**|3|Fill with date values.|

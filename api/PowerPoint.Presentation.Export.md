@@ -27,7 +27,7 @@ Exports each slide in the presentation, using the specified graphics filter, and
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path of the folder where you want to save the exported slides. You can include a full path; if you don't do this, Microsoft PowerPoint creates a subfolder in the current folder for the exported slides.|
 | _FilterName_|Required|**String**|The graphics format in which you want to export slides. The specified graphics format must have an export filter registered in the Windows registry. You can specify either the registered extension or the registered filter name. PowerPoint will first search for a matching extension in the registry. If no extension that matches the specified string is found, PowerPoint will look for a filter name that matches.|

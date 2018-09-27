@@ -27,14 +27,14 @@ Displays a message in a message box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Message_|Required|**String**|The message to display in the dialog box.|
 | _Type_|Optional|**Long**|The buttons to include in the message dialog box. Can be one of the  **[PjMessageType](Project.PjMessageType.md)** constants. The default value is **pjOKOnly**.|
 | _YesText_|Optional|**String**|The text to be displayed on the  **Yes** button. The YesText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "Yes".|
 | _NoText_|Optional|**String**|The text to be displayed on the  **No** button. The NoText argument is ignored unless Type is **pjYesNo** or **pjYesNoCancel**. The default value is "No".|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,7 +27,7 @@ Returns a specific element of the  **PivotFilters** collection object by its pos
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element of the collection. |
 

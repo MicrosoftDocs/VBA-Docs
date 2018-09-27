@@ -14,7 +14,7 @@ Contains constants that specify the scheduling of a project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjProjectFinish**|2|Schedule project from finish.|
 |**pjProjectStart**|1|Schedule project from start.|

@@ -23,7 +23,7 @@ Returns the width, in points, of the media control bounding box. Read-only.
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

@@ -14,7 +14,7 @@ Specifies whether an entire Web page, all tables on the Web page, or only a spec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAllTables**|2|All tables|
 | **xlEntirePage**|1|Entire page|

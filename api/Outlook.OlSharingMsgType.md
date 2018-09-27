@@ -17,7 +17,7 @@ Indicates the type of sharing message represented by a  **[SharingItem](Outlook.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olSharingMsgTypeInvite**|2|Represents a sharing invitation.|
 | **olSharingMsgTypeInviteAndRequest**|3|Represents both a sharing invitation and a sharing request.|

@@ -14,7 +14,7 @@ Specifies a location to place letterhead in a letter created by the Letter Wizar
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLetterBottom**|1|At the bottom of the letter.|
 | **wdLetterLeft**|2|To the left of the letter.|

@@ -27,7 +27,7 @@ Sets the value of a resource field specified by the field identification number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a  **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
 | _Value_|Required|**String**|The value of the resource field.|
@@ -36,7 +36,7 @@ Sets the value of a resource field specified by the field identification number.
 | _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is  **True**, ResourceID is ignored.|
 | _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the resource specified by  _ResourceID_. If  _ResourceID_ is not specified, _ProjectName_ is ignored. The default value is the name of the active project.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

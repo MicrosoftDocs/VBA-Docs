@@ -27,7 +27,7 @@ Corresponds to options in the  **Macro Options** dialog box. You can also use th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Macro_|Optional| **Variant**|The macro name or the name of a user defined function (UDF).|
 | _Description_|Optional| **Variant**|The macro description.|

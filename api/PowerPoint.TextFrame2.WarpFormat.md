@@ -23,7 +23,7 @@ Returns or sets the warp format (how the text is warped) for the specified text 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoWarpFormat
 

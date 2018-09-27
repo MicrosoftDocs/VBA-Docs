@@ -27,14 +27,14 @@ Returns a value or the reference to a value from within a table or range. There 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array or Reference - a range of cells or an array constant. For references, it is the reference to one or more cell ranges.|
 | _Arg2_|Required| **Double**|Row_num - selects the row in array from which to return a value. If row_num is omitted, column_num is required. For references, the number of the row in reference from which to return a reference|
 | _Arg3_|Optional| **Variant**|Column_num - selects the column in array from which to return a value. If column_num is omitted, row_num is required. For reference, the number of the column in reference from which to return a reference.|
 | _Arg4_|Optional| **Variant**|Area_num - only used when returning references. Selects a range in reference from which to return the intersection of row_num and column_num. The first area selected or entered is numbered 1, the second is 2, and so on. If area_num is omitted, INDEX uses area 1.|
 
-### Return Value
+### Return value
 
 Variant
 

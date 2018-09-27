@@ -15,7 +15,7 @@ Flags to pass to the  **Selection.DrawRegion** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visDrawRegionDeleteInput**|&;H4|Delete items in selection.|
 | **visDrawRegionIgnoreVisible**|&;H20|Exclude visible geometry.|

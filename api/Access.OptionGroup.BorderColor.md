@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BorderColor Property (Access)
+title: OptionGroup.BorderColor property (Access)
 keywords: vbaac10.chm10843
 f1_keywords:
 - vbaac10.chm10843
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BorderColor Property (Access)
+# OptionGroup.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

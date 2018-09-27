@@ -23,7 +23,7 @@ Sets or clears task driven successor highlighting for the task path feature.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** to set task driven successor highlighting; **False** to clear the task driven successor highlighting.|
 | _Set_|Optional|VARIANT||

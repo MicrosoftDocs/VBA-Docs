@@ -22,7 +22,7 @@ Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _linkXML_|Required|**String**|The string that contains the InkActionML of the ink to create.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the ink shape relative to the left edge of the slide.|
@@ -30,7 +30,7 @@ Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represe
 | _Width_|Optional|**Single**| The width of the ink shape, measured in points. If this parameter is not specified, the width is calculated based off of the InkActionML.|
 | _Height_|Optional|**Single**|The height of the ink shape, measured in points. If this parameter is not specified, the hight is calculated based off of the InkActionML.|
 
-### Return Value
+### Return value
 
 A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 

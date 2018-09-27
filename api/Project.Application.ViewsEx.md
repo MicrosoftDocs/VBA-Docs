@@ -27,7 +27,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ApplyTo_|Optional|**Integer**|Specifies which pane of a split view is selected. The value can be one of the following:
 |||
@@ -39,7 +39,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 |5|Primary pane, or the Timeline if it is active|
 |
 
-### Return Value
+### Return value
 
  **Boolean**
 

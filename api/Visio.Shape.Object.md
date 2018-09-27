@@ -23,7 +23,7 @@ Returns an  **IDispatch** interface on the ActiveX control or embedded or linked
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

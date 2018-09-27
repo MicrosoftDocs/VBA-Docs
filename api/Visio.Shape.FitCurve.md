@@ -27,12 +27,12 @@ Reduces the number of geometry segments in a shape or shapes by replacing them w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tolerance_|Required| **Double**|How closely the resulting paths must match the shape's original paths.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|
 
-### Return Value
+### Return value
 
 Nothing
 

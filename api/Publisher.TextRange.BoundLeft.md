@@ -23,7 +23,7 @@ Returns a  **Single** indicating the distance, in points, from the left edge of 
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 Single
 

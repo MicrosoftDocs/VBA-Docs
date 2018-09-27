@@ -1,5 +1,5 @@
 ---
-title: Form.OrderByOnLoad Property (Access)
+title: Form.OrderByOnLoad property (Access)
 keywords: vbaac10.chm13562
 f1_keywords:
 - vbaac10.chm13562
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OrderByOnLoad Property (Access)
+# Form.OrderByOnLoad property (Access)
 
 Gets or sets whether the sorting specified by the  **[OrderBy](Access.Form.OrderBy.md)** property is applied when the form is loaded. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OrderByOnLoad`
+_expression_. `OrderByOnLoad`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

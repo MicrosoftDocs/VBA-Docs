@@ -27,7 +27,7 @@ Occurs whenever a new inspector window is opened, either as a result of user act
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Inspector_|Required| **[Inspector](Outlook.Inspector.md)**|The inspector that was opened.|
 

@@ -23,7 +23,7 @@ Creates or removes an overlapped list relationship with another list shape, or r
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return Value
+### Return value
 
  **[Shape](Visio.Shape.md)**
 

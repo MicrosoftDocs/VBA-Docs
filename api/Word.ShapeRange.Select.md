@@ -27,7 +27,7 @@ Selects the specified range of shapes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional| **Variant**|If adding a shape,  **True** replaces the selection. **False** adds the new shape to the selection.|
 

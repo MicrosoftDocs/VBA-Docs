@@ -23,7 +23,7 @@ Gets or sets the height of the  **CustomTaskPane** object (in points). Read/writ
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

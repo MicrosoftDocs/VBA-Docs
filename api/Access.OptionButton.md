@@ -1,5 +1,5 @@
 ---
-title: OptionButton Object (Access)
+title: OptionButton object (Access)
 keywords: vbaac10.chm10671
 f1_keywords:
 - vbaac10.chm10671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton Object (Access)
+# OptionButton object (Access)
 
 An option button on a form or report is a stand-alone control used to display a Yes/No value from an underlying record source.
 

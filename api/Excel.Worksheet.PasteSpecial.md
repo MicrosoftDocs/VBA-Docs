@@ -25,7 +25,7 @@ Pastes the contents of the Clipboard onto the sheet, using a specified format. U
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Optional| **Variant**|A string that specifies the Clipboard format of the data.|
 | _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data. If the source data isn't suitable for linking or the source application doesn't support linking, this parameter is ignored. The default value is **False**.|

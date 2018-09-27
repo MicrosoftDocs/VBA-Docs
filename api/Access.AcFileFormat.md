@@ -1,5 +1,5 @@
 ---
-title: AcFileFormat Enumeration (Access)
+title: AcFileFormat enumeration (Access)
 keywords: vbaac10.chm13238
 f1_keywords:
 - vbaac10.chm13238
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFileFormat Enumeration (Access)
+# AcFileFormat enumeration (Access)
 
 Specifies the Microsoft Access file format to use when converting an Access file.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFileFormatAccess12**|12|Microsoft Access 2007 format|
 |**acFileFormatAccess2**|2|Microsoft Access 2.0 format|

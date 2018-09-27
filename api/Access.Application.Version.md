@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Access)
+title: Application.Version property (Access)
 keywords: vbaac10.chm12599
 f1_keywords:
 - vbaac10.chm12599
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Version Property (Access)
+# Application.Version property (Access)
 
 Returns a  **String** indicating the version number of the currently installed copy of Access. Read-only.
 
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

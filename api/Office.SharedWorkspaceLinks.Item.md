@@ -30,7 +30,7 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Returns the  **SharedWorkspaceLink** at the position specified. The returned **SharedWorkspaceLink** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
 

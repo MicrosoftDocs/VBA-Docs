@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that specifies whether Web pages within a W
  _expression_ A variable that represents a  **WebOptions** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

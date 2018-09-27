@@ -14,7 +14,7 @@ Specifies how to sort when using East Asian sorting methods.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCodePage**|2|Sort by code page.|
 | **xlSyllabary**|1|Sort phonetically.|

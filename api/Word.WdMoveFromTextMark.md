@@ -14,7 +14,7 @@ Marks the moved-from text when text in a document with tracked changes is moved 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMoveFromTextMarkBold**|6|Marks moved text with bold formatting.|
 | **wdMoveFromTextMarkCaret**|3|Marks moved text with a caret.|

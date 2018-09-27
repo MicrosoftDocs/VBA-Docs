@@ -27,11 +27,11 @@ Occurs when a new chart is created in the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Ch_|Required| **[Chart](Excel.Chart(object).md)**|The new chart.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BottomMargin Property (Access)
+title: ComboBox.BottomMargin property (Access)
 keywords: vbaac10.chm11523
 f1_keywords:
 - vbaac10.chm11523
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BottomMargin Property (Access)
+# ComboBox.BottomMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomMargin`
+_expression_. `BottomMargin`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

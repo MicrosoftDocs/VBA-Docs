@@ -1,5 +1,5 @@
 ---
-title: Form.Page Property (Access)
+title: Form.Page property (Access)
 keywords: vbaac10.chm13410
 f1_keywords:
 - vbaac10.chm13410
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Page Property (Access)
+# Form.Page property (Access)
 
 The  **Page** property specifies the current page number when a form is being printed. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Page`
+_expression_. `Page`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

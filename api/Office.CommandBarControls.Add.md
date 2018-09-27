@@ -30,7 +30,7 @@ Creates a new  **CommandBarControl** object and adds it to the collection of con
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|The type of control to be added to the specified command bar. Can be one of the following  **MsoControl** constants: **msoControlButton**, **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, or **msoControlPopup**.|
 | _Id_|Optional|**Variant**|An integer that specifies a built-in control. If the value of this argument is 1, or if this argument is omitted, a blank custom control of the specified type will be added to the command bar.|

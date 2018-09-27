@@ -1,5 +1,5 @@
 ---
-title: TextBox.DisplayWhen Property (Access)
+title: TextBox.DisplayWhen property (Access)
 keywords: vbaac10.chm11057
 f1_keywords:
 - vbaac10.chm11057
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.DisplayWhen Property (Access)
+# TextBox.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayWhen`
+_expression_. `DisplayWhen`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

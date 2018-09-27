@@ -20,7 +20,7 @@ Determines whether the specified bullets are set to the color of the first text 
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

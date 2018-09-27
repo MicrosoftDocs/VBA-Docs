@@ -27,11 +27,11 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the field to be returned.|
 
-### Return Value
+### Return value
 
 Object
 

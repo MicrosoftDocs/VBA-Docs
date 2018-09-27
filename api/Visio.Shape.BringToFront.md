@@ -23,7 +23,7 @@ Brings the shape or selected shapes to the front of the z-order.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.LabelAlign Property (Access)
+title: ToggleButton.LabelAlign property (Access)
 keywords: vbaac10.chm11740
 f1_keywords:
 - vbaac10.chm11740
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.LabelAlign Property (Access)
+# ToggleButton.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `LabelAlign`
+_expression_. `LabelAlign`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies whether the formatting from the previous list can be continued.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdContinueDisabled**|0|Formatting cannot continue from the previous list.|
 | **wdContinueList**|2|Formatting can continue from the previous list.|

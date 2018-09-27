@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ForeThemeColorIndex Property (Access)
+title: ToggleButton.ForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ForeThemeColorIndex Property (Access)
+# ToggleButton.ForeThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **ForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ForeThemeColorIndex`
+_expression_. `ForeThemeColorIndex`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

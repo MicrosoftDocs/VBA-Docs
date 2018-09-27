@@ -27,11 +27,11 @@ Returns the  **[Shape](Visio.Shape.md)** object that matches the specified **[Un
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UniqueID_|Required| **String**|The unique ID of a  **Shape** object.|
 
-### Return Value
+### Return value
 
  **Shape**
 

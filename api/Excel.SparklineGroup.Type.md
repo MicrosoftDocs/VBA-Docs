@@ -23,7 +23,7 @@ Gets or sets the type of sparkline for the group. Read/write.
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Return Value
+### Return value
 
 XlSparkType
 

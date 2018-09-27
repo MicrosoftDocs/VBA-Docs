@@ -27,13 +27,13 @@ Creates one or more new  **Shape** objects in a group. It returns an array of th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectsToInstance()_|Required| **Variant**|Identifies masters or other objects from which to make shapes.|
 | _xyArray()_|Required| **Double**|An array of alternating x and y values specifying the positions for the new shapes.|
 | _IDArray()_|Required| **Integer**|Out parameter. An array that returns the IDs of the created shapes.|
 
-### Return Value
+### Return value
 
 Integer
 

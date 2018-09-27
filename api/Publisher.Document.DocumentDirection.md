@@ -23,7 +23,7 @@ Returns or sets a  **PbDirectionType** constant that indicates whether text in t
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 PbDirectionType
 

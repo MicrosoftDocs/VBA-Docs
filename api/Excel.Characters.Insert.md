@@ -27,11 +27,11 @@ Inserts a string preceding the selected characters.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to insert.|
 
-### Return Value
+### Return value
 
 Variant
 

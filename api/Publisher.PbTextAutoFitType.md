@@ -17,7 +17,7 @@ Represents how Microsoft Publisher automatically adjusts the text font size and 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTextAutoFitBestFit**|2|Text frame size adjusts to fit text.|
 | **pbTextAutoFitNone**|0|Allows text to overflow the text frame.|

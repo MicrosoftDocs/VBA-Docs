@@ -1,5 +1,5 @@
 ---
-title: OptionButton.BorderStyle Property (Access)
+title: OptionButton.BorderStyle property (Access)
 keywords: vbaac10.chm10587
 f1_keywords:
 - vbaac10.chm10587
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.BorderStyle Property (Access)
+# OptionButton.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

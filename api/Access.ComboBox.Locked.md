@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Locked Property (Access)
+title: ComboBox.Locked property (Access)
 keywords: vbaac10.chm11396
 f1_keywords:
 - vbaac10.chm11396
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Locked Property (Access)
+# ComboBox.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

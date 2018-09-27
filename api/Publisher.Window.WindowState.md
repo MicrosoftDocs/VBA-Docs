@@ -23,7 +23,7 @@ Returns or sets a  **PbWindowState** constant indicating the state of the Micros
  _expression_ A variable that represents a  **Window** object.
 
 
-### Return Value
+### Return value
 
 PbWindowState
 

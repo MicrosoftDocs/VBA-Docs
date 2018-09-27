@@ -14,7 +14,7 @@ Specifies the active tab when the specified dialog box is displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDialogEmailOptionsTabQuoting**|1900002| **General** tab of the **E-mail Options** dialog box.|
 | **wdDialogEmailOptionsTabSignature**|1900000| **E-mail Signature** tab of the **E-mail Options** dialog box.|

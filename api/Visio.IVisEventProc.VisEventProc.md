@@ -27,7 +27,7 @@ Private member function of  **IVisEventProc** that handles event notifications p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nEventCode_|Required| **Integer**|The event or events that occurred. |
 | _pSourceObj_|Required| **Object**|The object whose  **EventList** collection contains the **Event** object that sent the notification.|
@@ -36,7 +36,7 @@ Private member function of  **IVisEventProc** that handles event notifications p
 | _pSubjectObj_|Required| **Object**|The subject of the event, which is the object to which the event occurred. See Remarks for examples.|
 | _vMoreInfo_|Required| **Variant**|Additional information about the subject of the event. See Remarks for more information.|
 
-### Return Value
+### Return value
 
 Variant
 

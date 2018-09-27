@@ -23,7 +23,7 @@ Returns or sets the state of the slide show. Read/write.
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
 PpSlideShowState
 

@@ -27,11 +27,11 @@ Selects a collection of nodes from a custom XML part.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains the XPath expression.|
 
-### Return Value
+### Return value
 
 CustomXMLNodes
 

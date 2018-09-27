@@ -23,7 +23,7 @@ Returns or sets a  **Variant** indicating the horizontal distance between the en
  _expression_ A variable that represents a  **CalloutFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

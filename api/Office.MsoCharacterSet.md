@@ -14,7 +14,7 @@ Specifies the character set to be used when rendering text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCharacterSetArabic**|1|Arabic character set.|
 |**msoCharacterSetCyrillic**|2|Cyrillic character set.|

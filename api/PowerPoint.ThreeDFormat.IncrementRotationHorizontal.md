@@ -27,7 +27,7 @@ Rotates the  **ThreeDFormat** object along the horizontal axis by the specified 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required|**Single**|The number of degrees to rotate the  **ThreeDFormat** object, between -180 and 180 degrees.|
 

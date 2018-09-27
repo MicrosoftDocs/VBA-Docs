@@ -1,5 +1,5 @@
 ---
-title: WebService.Entities Property (Access)
+title: WebService.Entities property (Access)
 keywords: vbaac10.chm14559
 f1_keywords:
 - vbaac10.chm14559
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebService.Entities Property (Access)
+# WebService.Entities property (Access)
 
 Gets the collection of entities defined for the specified Data Service data connection. Read-only [Entities](Access.WebService.Entities.md).
 
 
 ## Syntax
 
- _expression_. `Entities`
+_expression_. `Entities`
 
- _expression_ A variable that represents a [WebService](Access.WebService.md) object.
+_expression_ A variable that represents a [WebService](Access.WebService.md) object.
 
 
 ## See also

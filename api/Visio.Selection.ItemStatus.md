@@ -27,11 +27,11 @@ Indicates if an item in a  **Selection** object is subselected, if the group to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Index of the item for which you want to retrieve the status.|
 
-### Return Value
+### Return value
 
 Integer
 

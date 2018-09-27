@@ -19,7 +19,7 @@ An error is returned if the shape does not contain any ink XML.
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

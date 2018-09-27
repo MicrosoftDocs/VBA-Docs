@@ -14,7 +14,7 @@ Specifies the view type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMasterView**|5|A master view.|
 | **wdNormalView**|1|A normal view.|

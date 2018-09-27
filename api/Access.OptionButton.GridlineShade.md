@@ -1,5 +1,5 @@
 ---
-title: OptionButton.GridlineShade Property (Access)
+title: OptionButton.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.GridlineShade Property (Access)
+# OptionButton.GridlineShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineShade`
+_expression_. `GridlineShade`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -27,11 +27,11 @@ Removes a PickerProperty from the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|The identifier of the PickerProperty to remove.|
 
-### Return Value
+### Return value
 
 Nothing
 

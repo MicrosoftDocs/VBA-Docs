@@ -27,7 +27,7 @@ Occurs when one or more items are added to the specified collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that was added.|
 

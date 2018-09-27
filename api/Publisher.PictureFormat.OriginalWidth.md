@@ -23,7 +23,7 @@ Returns a  **Variant** that represents, in points, the width of the specified li
  _expression_ A variable that represents an  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

@@ -27,11 +27,11 @@ Obtains a  **String** representing a value that has been converted from a binary
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **Column** .|
 
-### Return Value
+### Return value
 
 A hexadecimal  **String** value that has been converted from a **PT_BINARY** value for the parent **Row** at the column specified by _Index_ . Returns the error, "Cannot convert the column specified by Index to String" if the value specified by _Index_ is not **PT_BINARY**.
 

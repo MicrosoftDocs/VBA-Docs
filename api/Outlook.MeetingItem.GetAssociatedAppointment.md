@@ -27,11 +27,11 @@ Returns an  **[AppointmentItem](Outlook.AppointmentItem.md)** object that repres
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AddToCalendar_|Required| **Boolean**| **True** to add the meeting to the default **Calendar** folder.|
 
-### Return Value
+### Return value
 
 An  **AppointmentItem** object that represents the associated appointment.
 

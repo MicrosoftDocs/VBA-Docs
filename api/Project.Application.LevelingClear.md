@@ -27,11 +27,11 @@ Removes the effects of leveling.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if delays are removed from all tasks. **False** if delays are removed from selected tasks only.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

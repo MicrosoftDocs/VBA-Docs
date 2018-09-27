@@ -27,12 +27,12 @@ Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry]
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the  **[Name](Word.OMathAutoCorrectEntry.Name.md)** property of the **OMathAutoCorrectEntry** object.|
 | _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the  **[Value](Word.OMathAutoCorrectEntry.Value.md)** property of the **OMathAutoCorrectEntry** object.|
 
-### Return Value
+### Return value
 
 OMathAutoCorrectEntry
 

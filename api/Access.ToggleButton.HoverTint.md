@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.HoverTint Property (Access)
+title: ToggleButton.HoverTint property (Access)
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.HoverTint Property (Access)
+# ToggleButton.HoverTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **HoverColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverTint`
+_expression_. `HoverTint`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: SubForm.LeftPadding Property (Access)
+title: SubForm.LeftPadding property (Access)
 keywords: vbaac10.chm11966
 f1_keywords:
 - vbaac10.chm11966
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.LeftPadding Property (Access)
+# SubForm.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the subform and its left gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_. `LeftPadding`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ListBox.LabelAlign Property (Access)
+title: ListBox.LabelAlign property (Access)
 keywords: vbaac10.chm11270
 f1_keywords:
 - vbaac10.chm11270
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.LabelAlign Property (Access)
+# ListBox.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `LabelAlign`
+_expression_. `LabelAlign`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ The calendar type to use when displaying the date or time.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCalendarTypeArabicHijri**|1|Arabic Hijri calendar|
 | **pbCalendarTypeChineseNational**|3|Chinese National calendar|

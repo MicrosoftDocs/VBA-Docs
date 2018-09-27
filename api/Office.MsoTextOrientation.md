@@ -14,7 +14,7 @@ Specifies orientation for text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextOrientationDownward**|3|Downward.|
 |**msoTextOrientationHorizontal**|1|Horizontal.|

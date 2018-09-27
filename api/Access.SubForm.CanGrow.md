@@ -1,5 +1,5 @@
 ---
-title: SubForm.CanGrow Property (Access)
+title: SubForm.CanGrow property (Access)
 keywords: vbaac10.chm11936
 f1_keywords:
 - vbaac10.chm11936
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.CanGrow Property (Access)
+# SubForm.CanGrow property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanGrow`
+_expression_. `CanGrow`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

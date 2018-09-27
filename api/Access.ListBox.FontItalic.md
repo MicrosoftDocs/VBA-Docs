@@ -1,5 +1,5 @@
 ---
-title: ListBox.FontItalic Property (Access)
+title: ListBox.FontItalic property (Access)
 keywords: vbaac10.chm11256
 f1_keywords:
 - vbaac10.chm11256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.FontItalic Property (Access)
+# ListBox.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

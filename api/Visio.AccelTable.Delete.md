@@ -23,7 +23,7 @@ Deletes an object.
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

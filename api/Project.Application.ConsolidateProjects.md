@@ -27,7 +27,7 @@ Displays the data from one or more projects in a single window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filenames_|Optional|**String**|One or more file names of projects to consolidate.|
 | _NewWindow_|Optional|**Boolean**|**True** if projects are inserted (consolidated) into a new project. **False** if projects are inserted into the active project at the selection point. The default value is **False**.|
@@ -38,7 +38,7 @@ Displays the data from one or more projects in a single window.
 | _UserID_|Optional|**Variant**| A user ID to use when accessing a project in a database. If Filenames does not refer to a database, **UserID** is ignored.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If Password is incorrect or omitted and a file requires a password, the user is prompted for the password.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

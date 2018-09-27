@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Default Property (Access)
+title: CustomControl.Default property (Access)
 keywords: vbaac10.chm12045
 f1_keywords:
 - vbaac10.chm12045
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Default Property (Access)
+# CustomControl.Default property (Access)
 
 You can use the  **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

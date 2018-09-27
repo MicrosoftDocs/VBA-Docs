@@ -27,7 +27,7 @@ Adds an AutoShape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** obj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **Long**|The type of shape to be returned. Can be any  **MsoAutoShape** constant.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the AutoShape.|

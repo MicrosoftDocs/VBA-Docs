@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Properties Property (Access)
+title: OptionButton.Properties property (Access)
 keywords: vbaac10.chm10559
 f1_keywords:
 - vbaac10.chm10559
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Properties Property (Access)
+# OptionButton.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Moves the active document window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Required| **Long**|The horizontal screen position of the specified window.|
 |Top|Required| **Long**|The vertical screen position of the specified window.|

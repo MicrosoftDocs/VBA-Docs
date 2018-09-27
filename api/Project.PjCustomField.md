@@ -14,7 +14,7 @@ Contains constants that specify a custom field in Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCustomProjectEnterpriseCost1**|188744529|Represents the Custom Enterprise Cost1 (Project) field.|
 |**pjCustomProjectEnterpriseCost10**|188744538|Represents the Custom Enterprise Cost10 (Project) field.|

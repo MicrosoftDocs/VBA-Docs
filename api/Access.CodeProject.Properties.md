@@ -1,5 +1,5 @@
 ---
-title: CodeProject.Properties Property (Access)
+title: CodeProject.Properties property (Access)
 keywords: vbaac10.chm12721
 f1_keywords:
 - vbaac10.chm12721
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.Properties Property (Access)
+# CodeProject.Properties property (Access)
 
 Returns a reference to a  **[CodeProject](Access.CodeProject.md)** object's **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

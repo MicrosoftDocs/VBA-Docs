@@ -1,5 +1,5 @@
 ---
-title: Form.ViewChange Event (Access)
+title: Form.ViewChange event (Access)
 keywords: vbaac10.chm13684
 f1_keywords:
 - vbaac10.chm13684
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ViewChange Event (Access)
+# Form.ViewChange event (Access)
 
 Occurs whenever the specified PivotChart view or PivotTable view is redrawn.
 
 
 ## Syntax
 
- _expression_. `ViewChange`( ` _Reason_` )
+_expression_. `ViewChange`( ` _Reason_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reason_|Required|**Long**| A **PivotViewReasonEnum** constant that indicates how the view was changed. _Reason_ always returns ?1 for PivotChart Views.|
 

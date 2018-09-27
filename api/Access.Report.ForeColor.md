@@ -1,5 +1,5 @@
 ---
-title: Report.ForeColor Property (Access)
+title: Report.ForeColor property (Access)
 keywords: vbaac10.chm13740
 f1_keywords:
 - vbaac10.chm13740
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ForeColor Property (Access)
+# Report.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Image.Parent Property (Access)
+title: Image.Parent property (Access)
 keywords: vbaac10.chm10355
 f1_keywords:
 - vbaac10.chm10355
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Parent Property (Access)
+# Image.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## See also

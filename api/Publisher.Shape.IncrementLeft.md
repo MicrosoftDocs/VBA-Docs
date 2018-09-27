@@ -27,11 +27,11 @@ Moves the specified shape or shape range horizontally by the specified distance.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Variant**|The horizontal distance to move the shape or shape range. A positive value moves the shape or shape range to the right; a negative value moves it to the left. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 
-### Return Value
+### Return value
 
 Nothing
 

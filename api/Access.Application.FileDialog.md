@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Access)
+title: Application.FileDialog property (Access)
 keywords: vbaac10.chm12592
 f1_keywords:
 - vbaac10.chm12592
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileDialog Property (Access)
+# Application.FileDialog property (Access)
 
 Returns a  **FileDialog** object which represents a single instance of a file dialog box. Read-only.
 
 
 ## Syntax
 
- _expression_. `FileDialog`( ` _dialogType_` )
+_expression_. `FileDialog`( ` _dialogType_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
 

@@ -14,7 +14,7 @@ Specifies the type of vertical alignment to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlignVerticalBottom**|3|Bottom vertical alignment.|
 | **wdAlignVerticalCenter**|1|Center vertical alignment.|

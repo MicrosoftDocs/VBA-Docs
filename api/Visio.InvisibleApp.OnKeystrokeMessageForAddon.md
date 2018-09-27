@@ -24,7 +24,7 @@ Private Sub  _expression_ _'OnKeystrokeMessageForAddon'(**_ByVal MSG As [IVMSGWR
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MSG_|Required| **[IVMSGWRAP]**|The message that Visio receives.|
 

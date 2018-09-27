@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **GradientStops** collect
  _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

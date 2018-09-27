@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperties Object (Access)
+title: SmartTagProperties object (Access)
 keywords: vbaac10.chm13308
 f1_keywords:
 - vbaac10.chm13308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperties Object (Access)
+# SmartTagProperties object (Access)
 
 A collection of  **[SmartTagProperty](Access.SmartTagProperty.md)** objects that represents the properties related to a smart tag.
 

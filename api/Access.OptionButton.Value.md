@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Value Property (Access)
+title: OptionButton.Value property (Access)
 keywords: vbaac10.chm10564
 f1_keywords:
 - vbaac10.chm10564
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Value Property (Access)
+# OptionButton.Value property (Access)
 
 Determines or specifies whether or not the specified option button is selected. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Fills the specified shape with one large image.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PictureFile_|Required|**String**|The name of the picture file.|
 

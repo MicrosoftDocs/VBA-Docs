@@ -23,7 +23,7 @@ Gets or sets the value of the  **Subject** field in a document's properties. Rea
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

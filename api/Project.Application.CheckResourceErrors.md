@@ -27,13 +27,13 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LocalRUID_|Optional|**Variant**|Local resource IDs that are to be checked for errors. (Example: "1, 5, 6, 7, 12".) If  **null**, all local resources are checked (unless CheckEnterprise is **True**).|
 | _ResetImport_|Optional|**Boolean**|Reset the import column to  **True** for the local resources that are being checked for errors.|
 | _CheckEnterprise_|Optional|**Boolean**|If  **True**, check enterprise resources only.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

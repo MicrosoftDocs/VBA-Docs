@@ -23,7 +23,7 @@ Returns a **WorkflowTasks** collection that represents the workflow tasks assign
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Return Value
+### Return value
 
 WorkflowTasks
 

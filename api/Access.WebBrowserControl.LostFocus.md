@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.LostFocus Event (Access)
+title: WebBrowserControl.LostFocus event (Access)
 keywords: vbaac10.chm143131
 f1_keywords:
 - vbaac10.chm143131
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.LostFocus Event (Access)
+# WebBrowserControl.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 
 
 ## Syntax
 
- _expression_. `LostFocus`
+_expression_. `LostFocus`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

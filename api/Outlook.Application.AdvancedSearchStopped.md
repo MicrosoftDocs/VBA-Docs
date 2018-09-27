@@ -27,7 +27,7 @@ Occurs when a specified  **[Search](Outlook.Search.md)** object's **[Stop](Outlo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SearchObject_|Required| **Search**|The  **[Search](Outlook.Search.md)** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
 

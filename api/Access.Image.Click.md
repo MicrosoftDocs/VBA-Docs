@@ -1,5 +1,5 @@
 ---
-title: Image.Click Event (Access)
+title: Image.Click event (Access)
 keywords: vbaac10.chm14166
 f1_keywords:
 - vbaac10.chm14166
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Click Event (Access)
+# Image.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

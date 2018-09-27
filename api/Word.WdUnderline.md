@@ -14,7 +14,7 @@ Specifies the type of underline to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdUnderlineDash**|7|Dashes.|
 | **wdUnderlineDashHeavy**|23|Heavy dashes.|

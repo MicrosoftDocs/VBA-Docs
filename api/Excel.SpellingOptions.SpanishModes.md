@@ -23,7 +23,7 @@ Returns or sets the mode for checking the spelling of Spanish. Read/write
  _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
-### Return Value
+### Return value
 
  **[XlSpanishModes](Excel.XlSpanishModes.md)**
 

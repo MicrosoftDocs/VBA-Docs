@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineWidthBottom Property (Access)
+title: SubForm.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm11977
 f1_keywords:
 - vbaac10.chm11977
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineWidthBottom Property (Access)
+# SubForm.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified subform. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

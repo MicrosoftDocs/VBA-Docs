@@ -1,5 +1,5 @@
 ---
-title: TextBox.Move Method (Access)
+title: TextBox.Move method (Access)
 keywords: vbaac10.chm11144
 f1_keywords:
 - vbaac10.chm11144
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Move Method (Access)
+# TextBox.Move method (Access)
 
 Moves the specified object to the coordinates specified by the argument values.
 
 
 ## Syntax
 
- _expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
+_expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Variant**|The screen position in twips for the left edge of the object relative to the left edge of the Microsoft Access window.|
 | _Top_|Optional|**Variant**|The screen position in twips for the top edge of the object relative to the top edge of the Microsoft Access window.|

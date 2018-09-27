@@ -27,7 +27,7 @@ Opens the  **XML Source** task pane and displays the XML map specified by the _X
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XmlMap_|Optional| **Variant**|The XML map to display in the task pane.|
 

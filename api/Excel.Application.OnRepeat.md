@@ -27,7 +27,7 @@ Sets the  **Repeat** item and the name of the procedure that will run if you cho
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The text that appears with the  **Repeat** command.|
 | _Procedure_|Required| **String**|The name of the procedure that will be run when you choose the  **Repeat** command.|

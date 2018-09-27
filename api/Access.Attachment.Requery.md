@@ -1,5 +1,5 @@
 ---
-title: Attachment.Requery Method (Access)
+title: Attachment.Requery method (Access)
 keywords: vbaac10.chm13908
 f1_keywords:
 - vbaac10.chm13908
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Requery Method (Access)
+# Attachment.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

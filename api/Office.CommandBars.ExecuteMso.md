@@ -27,7 +27,7 @@ Executes the control identified by the  **idMso** parameter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 

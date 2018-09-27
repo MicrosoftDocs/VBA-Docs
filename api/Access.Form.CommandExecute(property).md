@@ -1,5 +1,5 @@
 ---
-title: Form.CommandExecute Property (Access)
+title: Form.CommandExecute property (Access)
 keywords: vbaac10.chm13545
 f1_keywords:
 - vbaac10.chm13545
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandExecute Property (Access)
+# Form.CommandExecute property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[CommandExecute](Access.Form.CommandExecute(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `CommandExecute`
+_expression_. `CommandExecute`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

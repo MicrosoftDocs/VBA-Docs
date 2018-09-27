@@ -1,5 +1,5 @@
 ---
-title: Form.CommandEnabled Event (Access)
+title: Form.CommandEnabled event (Access)
 keywords: vbaac10.chm13675
 f1_keywords:
 - vbaac10.chm13675
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CommandEnabled Event (Access)
+# Form.CommandEnabled event (Access)
 
 Occurs when the specified Microsoft Office Web Component determines whether the specified command is enabled.
 
 
 ## Syntax
 
- _expression_. `CommandEnabled`( ` _Command_`, ` _Enabled_` )
+_expression_. `CommandEnabled`( ` _Command_`, ` _Enabled_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Command_|Required|**Variant**| The command that has been verified as being enabled.|
 | _Enabled_|Required|**Object**|Set the  **Value** property of this object to **False** to disable the command.|
 
-### Return Value
+### Return value
 
 nothing
 

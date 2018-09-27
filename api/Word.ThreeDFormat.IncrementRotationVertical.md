@@ -27,7 +27,7 @@ Vertically rotates a shape on the y-axis using the specified incrementation valu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies the incrementation value.|
 

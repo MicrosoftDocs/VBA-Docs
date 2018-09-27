@@ -23,7 +23,7 @@ The name (title) of the add-in for file types that are registered. Read-only.
  _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

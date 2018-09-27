@@ -1,5 +1,5 @@
 ---
-title: Form.RecordSelectors Property (Access)
+title: Form.RecordSelectors property (Access)
 keywords: vbaac10.chm13364
 f1_keywords:
 - vbaac10.chm13364
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.RecordSelectors Property (Access)
+# Form.RecordSelectors property (Access)
 
 You can use the  **RecordSelectors** property to specify whether a form displays record selectors in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RecordSelectors`
+_expression_. `RecordSelectors`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

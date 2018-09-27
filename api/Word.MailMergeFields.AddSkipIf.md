@@ -27,14 +27,14 @@ Adds a SKIPIF field to a mail merge main document. Returns a  **MailMergeField**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the SKIPIF field.|
 | _MergeField_|Required| **String**|The merge field name.|
 | _Comparison_|Required| **WdMailMergeComparison**|The operator used in the comparison.|
 | _CompareTo_|Optional| **Variant**|The text to compare with the contents of MergeField.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

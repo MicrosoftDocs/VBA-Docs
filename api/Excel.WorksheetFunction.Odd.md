@@ -27,11 +27,11 @@ Returns number rounded up to the nearest odd integer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the value to round.|
 
-### Return Value
+### Return value
 
 Double
 

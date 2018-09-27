@@ -1,5 +1,5 @@
 ---
-title: Form.Delete Event (Access)
+title: Form.Delete event (Access)
 keywords: vbaac10.chm13639
 f1_keywords:
 - vbaac10.chm13639
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Delete Event (Access)
+# Form.Delete event (Access)
 
 Occurs when the user performs some action, such as pressing the DEL key, to delete a record, but before the record is actually deleted.
 
 
 ## Syntax
 
- _expression_. `Delete`( `_Cancel_`, )
+_expression_. `Delete`( `_Cancel_`, )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **Delete** event occurs. Setting the Cancel argument to **True** (?1) cancels the **Delete** event.|
 

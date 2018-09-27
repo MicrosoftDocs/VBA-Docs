@@ -30,7 +30,7 @@ Occurs when the end user changes the selection in a  **CommandBar** combo box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Ctrl_|Required|**CommandBarComboBox**|Represents a  **CommandBar** combo box.|
 

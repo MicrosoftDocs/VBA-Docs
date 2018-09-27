@@ -27,7 +27,7 @@ Sets the starting and ending character positions for an existing range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Long**|The starting character position of the range.|
 | _End_|Required| **Long**|The ending character position of the range.|

@@ -27,7 +27,7 @@ Sets up margins for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up margins for printing.|
 | _Top_|Optional|**Long**|The size of the top margin in inches or centimeters.|
@@ -36,7 +36,7 @@ Sets up margins for printing.
 | _Right_|Optional|**Long**|The size of the right margin in inches or centimeters.|
 | _Borders_|Optional|**Long**|Where to print borders. Can be one of the following  **PjBorder** constants: **pjNoBorder**, **pjAroundEveryPage**, or **pjOutsidePages**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

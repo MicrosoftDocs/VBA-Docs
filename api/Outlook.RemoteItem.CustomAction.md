@@ -24,7 +24,7 @@ Occurs when a custom action of an item (which is an instance of the parent objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Action_|Required| **Object**|The  **[Action](Outlook.Action.md)** object.|
 | _Response_|Required| **Object**|The newly created item resulting from the custom action.|

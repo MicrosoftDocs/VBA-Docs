@@ -27,14 +27,14 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
 | _Arg2_|Required| **Variant**|The security's maturity date. The maturity date is the date when the security expires.|
 | _Arg3_|Required| **Variant**|The number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg4_|Optional| **Variant**|The type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

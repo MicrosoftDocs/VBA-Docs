@@ -27,11 +27,11 @@ Returns a collection of all the points in the series.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the point.|
 
-### Return Value
+### Return value
 
 A  **[Points](Word.Points.md)** object that represents all the points in the series.
 

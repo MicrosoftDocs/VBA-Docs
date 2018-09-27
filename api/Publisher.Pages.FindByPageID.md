@@ -27,11 +27,11 @@ Returns a  **[Page](Publisher.Page.md)** object that represents the page with th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageID|Required| **Long**|Specifies the ID number of the page you want to return. Publisher assigns this number when the page is created.|
 
-### Return Value
+### Return value
 
 Page
 

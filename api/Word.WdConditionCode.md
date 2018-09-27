@@ -14,7 +14,7 @@ Specifies the area of a table to which to apply special style formatting.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEvenColumnBanding**|7|Applies formatting to even-numbered columns.|
 | **wdEvenRowBanding**|3|Applies formatting to even-numbered rows.|

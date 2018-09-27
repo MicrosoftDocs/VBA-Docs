@@ -20,7 +20,7 @@ Returns the active  **View** object.
  _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 
-### Return Value
+### Return value
 
  **View**
 

@@ -25,13 +25,13 @@ Occurs after a PivotTable report closes the connection to its data source.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 | _Target_|Required|PIVOTTABLE||
 |Name|Required/Optional|Data type|Description|
 
-### Return Value
+### Return value
 
 Nothing
 

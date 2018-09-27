@@ -31,12 +31,12 @@ For more information about the new functions, see the [Covariance_P](Excel.Works
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The first cell range of integers.|
 | _Arg2_|Required| **Variant**|The second cell range of integers.|
 
-### Return Value
+### Return value
 
 Double
 

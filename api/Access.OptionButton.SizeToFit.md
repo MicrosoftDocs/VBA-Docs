@@ -1,5 +1,5 @@
 ---
-title: OptionButton.SizeToFit Method (Access)
+title: OptionButton.SizeToFit method (Access)
 keywords: vbaac10.chm10560
 f1_keywords:
 - vbaac10.chm10560
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.SizeToFit Method (Access)
+# OptionButton.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

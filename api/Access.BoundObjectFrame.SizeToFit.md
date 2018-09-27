@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.SizeToFit Method (Access)
+title: BoundObjectFrame.SizeToFit method (Access)
 keywords: vbaac10.chm10902
 f1_keywords:
 - vbaac10.chm10902
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.SizeToFit Method (Access)
+# BoundObjectFrame.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

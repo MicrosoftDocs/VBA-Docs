@@ -22,7 +22,7 @@ Occurs before the item is automatically saved by Outlook.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](Outlook.DistListItem.md)** to be saved.|
 

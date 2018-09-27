@@ -14,7 +14,7 @@ Contains constants that specify the type of constraint.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjALAP**|1|Task occurs as late as possible in the schedule without delaying subsequent tasks.|
 |**pjASAP**|0|Task occurs as soon as possible in the schedule. This is the default constraint type for tasks.|

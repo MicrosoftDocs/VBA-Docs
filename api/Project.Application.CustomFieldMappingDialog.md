@@ -27,11 +27,11 @@ Returns  **True** if custom task fields can be imported by using a mapping dialo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskCustomFields_|Optional|**Variant**|Imports custom task fields.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

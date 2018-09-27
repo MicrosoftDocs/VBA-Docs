@@ -14,7 +14,7 @@ This enumeration has been deprecated and should not be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCaptionNumberStyleBidiLetter1**|49|Not supported.|
 | **wdCaptionNumberStyleBidiLetter2**|50|Not supported.|

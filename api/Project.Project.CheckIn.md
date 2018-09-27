@@ -27,7 +27,7 @@ Checks in the working copy of the project from a local computer to the SharePoin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional|**Boolean**|**True** saves changes and checks in the document. **False** returns the document to a checked-in status without saving revisions.|
 | _Comment_|Optional|**String**|Comments for the revision of the project being checked in (applies only if SaveChanges equals  **True**).|

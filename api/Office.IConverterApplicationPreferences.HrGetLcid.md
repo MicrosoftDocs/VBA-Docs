@@ -27,11 +27,11 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _plcid_|Required|**[UINT32]**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

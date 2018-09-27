@@ -14,7 +14,7 @@ Contains constants that specify the booking type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBookingTypeCommitted**|0|Committed.|
 |**pjBookingTypeProposed**|1|Proposed.|

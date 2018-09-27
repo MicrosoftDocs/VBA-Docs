@@ -12,7 +12,7 @@ Specifies a chart gallery.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAnyGallery**|23|Either of the galleries.|
 | **xlBuiltIn**|21|The built-in gallery.|

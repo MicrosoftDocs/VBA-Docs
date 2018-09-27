@@ -1,5 +1,5 @@
 ---
-title: Attachment.AutoLabel Property (Access)
+title: Attachment.AutoLabel property (Access)
 keywords: vbaac10.chm14003
 f1_keywords:
 - vbaac10.chm14003
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.AutoLabel Property (Access)
+# Attachment.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

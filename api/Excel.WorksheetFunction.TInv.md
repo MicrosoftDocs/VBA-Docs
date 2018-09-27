@@ -33,12 +33,12 @@ Returns the t-value of the Student's t-distribution as a function of the probabi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - the probability associated with the two-tailed Student's t-distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom - the number of degrees of freedom with which to characterize the distribution.|
 
-### Return Value
+### Return value
 
 Double
 

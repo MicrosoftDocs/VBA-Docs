@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineShade Property (Access)
+title: Image.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineShade Property (Access)
+# Image.GridlineShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineShade`
+_expression_. `GridlineShade`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Contains constants that specify which information tab to display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssignmentGeneralTab**|0|General tab of the Assignment Information dialog box.|
 |**pjAssignmentNotesTab**|2|Notes tab of the Assignment Information dialog box.|

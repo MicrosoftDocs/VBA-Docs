@@ -1,5 +1,5 @@
 ---
-title: Reference.Collection Property (Access)
+title: Reference.Collection property (Access)
 keywords: vbaac10.chm12629
 f1_keywords:
 - vbaac10.chm12629
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Collection Property (Access)
+# Reference.Collection property (Access)
 
 The  **Collection** property returns a reference to the collection that contains an object. Read-only **References** object.
 
 
 ## Syntax
 
- _expression_. `Collection`
+_expression_. `Collection`
 
- _expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

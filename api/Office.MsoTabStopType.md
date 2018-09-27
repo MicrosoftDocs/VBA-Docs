@@ -14,7 +14,7 @@ Specifies the type of tab stop.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTabStopCenter**|2|Center tab stop.|
 |**msoTabStopDecimal**|4|Decimal tab stop.|

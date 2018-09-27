@@ -1,5 +1,5 @@
 ---
-title: SmartTagAction.Name Property (Access)
+title: SmartTagAction.Name property (Access)
 keywords: vbaac10.chm13292
 f1_keywords:
 - vbaac10.chm13292
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagAction.Name Property (Access)
+# SmartTagAction.Name property (Access)
 
 You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [SmartTagAction](Access.SmartTagAction.md) object.
+_expression_ A variable that represents a [SmartTagAction](Access.SmartTagAction.md) object.
 
 
 ## Remarks

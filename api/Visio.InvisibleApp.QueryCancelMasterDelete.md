@@ -24,7 +24,7 @@ Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal Master As [IVMASTE
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Master_|Required| **[IVMASTER]**|The master that is going to be deleted.|
 

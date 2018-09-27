@@ -17,7 +17,7 @@ Specifies how the background of a control is rendered.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olBackStyleOpaque**|1|Indicates the background color of the control is rendered.|
 | **olBackStyleTransparent**|0|Indicates that the background color of the control is the background color of the parent control. It is not a truly transparent display.|

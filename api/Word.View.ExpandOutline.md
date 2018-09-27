@@ -27,7 +27,7 @@ Expands the text under the selection by one heading level.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Range**|The range of paragraphs to be expanded. If this argument is omitted, the entire selection is expanded.|
 

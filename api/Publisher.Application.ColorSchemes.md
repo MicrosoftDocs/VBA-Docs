@@ -23,7 +23,7 @@ Returns a  **[ColorSchemes](Publisher.ColorSchemes.md)** collection that represe
  _expression_ A variable that represents a  **Application** object.
 
 
-### Return Value
+### Return value
 
 ColorSchemes
 

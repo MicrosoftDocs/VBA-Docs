@@ -27,11 +27,11 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
-### Return Value
+### Return value
 
 OMathRecognizedFunction
 

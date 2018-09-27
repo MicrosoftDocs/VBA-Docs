@@ -14,7 +14,7 @@ Specifies the worksheet type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlChart**|-4109|Chart|
 | **xlDialogSheet**|-4116|Dialog sheet|

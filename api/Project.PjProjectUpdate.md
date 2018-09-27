@@ -14,7 +14,7 @@ Contains constants that specify the action to take with the specified tasks.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pj0or100Percent**|0|Sets only the Actual Start and Actual Finish dates.|
 |**pj0to100Percent**|1|Sets the percent complete to reflect the update date.|

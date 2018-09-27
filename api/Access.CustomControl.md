@@ -1,5 +1,5 @@
 ---
-title: CustomControl Object (Access)
+title: CustomControl object (Access)
 keywords: vbaac10.chm12062
 f1_keywords:
 - vbaac10.chm12062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl Object (Access)
+# CustomControl object (Access)
 
 When setting the properties of an ActiveX control, you may need or prefer to use the control's custom properties dialog box. This custom properties dialog box provides an alternative to the list of properties in the Microsoft Access property sheet for setting ActiveX control properties in Design view.
 

@@ -27,7 +27,7 @@ Prints the object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Optional| **Variant**|The number of the page at which to start printing. If this argument is omitted, printing starts at the beginning.|
 | _To_|Optional| **Variant**|The number of the last page to print. If this argument is omitted, printing ends with the last page.|
@@ -38,7 +38,7 @@ Prints the object.
 | _Collate_|Optional| **Variant**| **True** to collate multiple copies.|
 | _PrToFileName_|Optional| **Variant**|If  _PrintToFile_ is set to **True** , this argument specifies the name of the file you want to print to.|
 
-### Return Value
+### Return value
 
 Variant
 

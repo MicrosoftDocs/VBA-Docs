@@ -14,7 +14,7 @@ Contains constants that specify Yes, No, or Automatic.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAuto**|2|Automatic.|
 |**pjNo**|0|No.|

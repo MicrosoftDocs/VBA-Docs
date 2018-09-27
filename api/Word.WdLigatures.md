@@ -14,7 +14,7 @@ Specifies the type of ligatures applied to a font.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLigaturesAll**|15|Applies all types of ligatures to the font.|
 | **wdLigaturesContextual**|2|Applies contextual ligatures to the font. Contextual ligatures are often designed to enhance readability, but may also be solely ornamental. Contextual ligatures may also be contextual alternates.|

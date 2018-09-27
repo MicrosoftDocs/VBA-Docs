@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that specifies whether charts use cell-reference 
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.ApplyFilter Method (Access)
+title: DoCmd.ApplyFilter method (Access)
 keywords: vbaac10.chm4142
 f1_keywords:
 - vbaac10.chm4142
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.ApplyFilter Method (Access)
+# DoCmd.ApplyFilter method (Access)
 
 The  **ApplyFilter** method carries out the **ApplyFilter** action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
+_expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FilterName_|Optional|**Variant**|A string expression that is the valid name of a filter or query in the current database. When using this method to apply a server filter, the  _FilterName_ argument must be blank.|
 | _WhereCondition_|Optional|**Variant**|A string expression that is a valid SQL WHERE clause without the word WHERE.|

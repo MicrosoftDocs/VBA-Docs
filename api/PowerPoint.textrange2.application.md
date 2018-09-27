@@ -18,7 +18,7 @@ Used without an object qualifier, this property returns an  **Application** obje
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return Value
+### Return value
 
 Object
 

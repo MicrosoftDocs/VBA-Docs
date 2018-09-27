@@ -1,5 +1,5 @@
 ---
-title: CodeData.AllDatabaseDiagrams Property (Access)
+title: CodeData.AllDatabaseDiagrams property (Access)
 keywords: vbaac10.chm12736
 f1_keywords:
 - vbaac10.chm12736
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData.AllDatabaseDiagrams Property (Access)
+# CodeData.AllDatabaseDiagrams property (Access)
 
 You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
 
 
 ## Syntax
 
- _expression_. `AllDatabaseDiagrams`
+_expression_. `AllDatabaseDiagrams`
 
- _expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
+_expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
 
 
 ## See also

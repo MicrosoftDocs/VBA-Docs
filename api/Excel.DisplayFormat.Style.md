@@ -23,7 +23,7 @@ Returns a value, containing a  **[Style](Excel.Style.md)** object, that represen
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return Value
+### Return value
 
 Variant
 

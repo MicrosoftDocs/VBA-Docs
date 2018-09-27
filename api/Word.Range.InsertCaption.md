@@ -27,7 +27,7 @@ Inserts a caption immediately preceding or following the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Label_|Required| **Variant**|The caption label to be inserted. Can be a  **String** or one of the **WdCaptionLabelID** constants. If the label has not yet been defined, an error occurs. Use the **Add** method with the **CaptionLabels** object to define new caption labels.|
 | _Title_|Optional| **Variant**|The string to be inserted immediately following the label in the caption (ignored if TitleAutoText is specified).|

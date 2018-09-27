@@ -27,11 +27,11 @@ Changes the format of text to display as a callout or within the Timeline bar, f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TextOnBar_|Optional|**Boolean**|**False** if the selected tasks should be displayed as callouts; otherwise, **True**. The default value is **True**, which makes the task text show within the Timeline bar.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

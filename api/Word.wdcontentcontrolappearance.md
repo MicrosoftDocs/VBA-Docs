@@ -15,7 +15,7 @@ Constants that represent the visualizations for a content control, passed to and
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdContentControlBoundingBox**|0|Represents a content control shown as a shaded rectangle or bounding box (with optional title).|
 | **wdContentControlTags**|2|Represents a content control shown as start and end markers.|

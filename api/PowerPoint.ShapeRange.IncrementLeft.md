@@ -27,7 +27,7 @@ Moves the specified shape range horizontally by the specified number of points.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required|**Single**|Specifies how far the shape range is to be moved horizontally, in points. A positive value moves the shape range to the right; a negative value moves it to the left.|
 

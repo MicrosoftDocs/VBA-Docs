@@ -23,7 +23,7 @@ Determines whether the text "Continued on page  _pagenumber_" appears in a text 
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

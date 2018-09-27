@@ -14,7 +14,7 @@ Specifies the data source to be attached to the current document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMergeSubTypeAccess**|1|Microsoft Access.|
 | **wdMergeSubTypeOAL**|2|Office Address List.|

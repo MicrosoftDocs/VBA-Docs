@@ -27,7 +27,7 @@ Schedules a procedure to be run at a specified time in the future (either at a s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EarliestTime_|Required| **Variant**|The time when you want this procedure to be run.|
 | _Procedure_|Required| **String**|The name of the procedure to be run.|

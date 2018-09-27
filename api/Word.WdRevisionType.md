@@ -14,7 +14,7 @@ Specifies the type of a change that is marked with a revision mark.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNoRevision**|0|No revision.|
 | **wdRevisionCellDeletion**|17|Table cell deleted.|

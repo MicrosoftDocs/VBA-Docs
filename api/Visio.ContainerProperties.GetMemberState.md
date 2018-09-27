@@ -27,11 +27,11 @@ Returns the membership state of the specified shape with respect to the containe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required| **[Shape](Visio.Shape.md)**|The shape for which to get the membership state.|
 
-### Return Value
+### Return value
 
 [VisContainerMemberState](Visio.VisContainerMemberState.md)
 

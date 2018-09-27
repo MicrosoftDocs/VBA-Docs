@@ -14,7 +14,7 @@ Specifies the mode for checking the spelling of Portuguese.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPortugueseBoth**|3|The spelling checker recognizes both pre-reform and post-reform spellings.|
 | **xlPortuguesePostReform**|2|The spelling checker recognizes only post-reform spellings.|

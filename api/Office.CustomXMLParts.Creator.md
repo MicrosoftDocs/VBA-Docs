@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLPa
  _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

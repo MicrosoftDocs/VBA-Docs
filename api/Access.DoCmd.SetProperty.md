@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetProperty Method (Access)
+title: DoCmd.SetProperty method (Access)
 keywords: vbaac10.chm5775
 f1_keywords:
 - vbaac10.chm5775
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetProperty Method (Access)
+# DoCmd.SetProperty method (Access)
 
 The  **SetProperty** method carries out the SetProperty action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `SetProperty`( ` _ControlName_`, ` _Property_`, ` _Value_` )
+_expression_. `SetProperty`( ` _ControlName_`, ` _Property_`, ` _Value_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlName_|Required|**Variant**|The name of the field or control for which you want to set the property value. Leave this argument blank to set the property for the current form or report.|
 | _Property_|Optional|**Variant**|A  **[AcProperty](Access.AcProperty.md)** constant that specifies the property that you want to set.|

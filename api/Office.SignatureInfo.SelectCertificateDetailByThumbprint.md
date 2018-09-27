@@ -27,7 +27,7 @@ Displays a dialog box containing information about a digital certificate followi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrThumbprint_|Required|**String**|Contains information about the signer identified by the thumbprint.|
 

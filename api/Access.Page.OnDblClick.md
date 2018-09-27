@@ -1,5 +1,5 @@
 ---
-title: Page.OnDblClick Property (Access)
+title: Page.OnDblClick property (Access)
 keywords: vbaac10.chm12168
 f1_keywords:
 - vbaac10.chm12168
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.OnDblClick Property (Access)
+# Page.OnDblClick property (Access)
 
 Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnDblClick`
+_expression_. `OnDblClick`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **DblClick** event occurs when a user presses and releases the left mouse b
 The  **OnDblClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Dbl Click** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

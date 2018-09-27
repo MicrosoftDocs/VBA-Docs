@@ -1,5 +1,5 @@
 ---
-title: CommandButton.LayoutID Property (Access)
+title: CommandButton.LayoutID property (Access)
 keywords: vbaac10.chm10539
 f1_keywords:
 - vbaac10.chm10539
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.LayoutID Property (Access)
+# CommandButton.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified button. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

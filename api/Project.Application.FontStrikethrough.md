@@ -27,11 +27,11 @@ Applies or removes strikethrough formatting from the selected text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** if strikethrough formatting is applied to the selected text. **False** if strikethrough formatting is removed from the selected text. The default value is **False** if the selected text has strikethrough formatting and **True** if the selected text does not have strikethrough formatting.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

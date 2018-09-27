@@ -17,7 +17,7 @@ This enumeration is not implemented. Do not use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbMergeInfoFromODSO**|5|From ODSO|
 | **pbMergeInfoSubODSO**|6|Sub ODSO|

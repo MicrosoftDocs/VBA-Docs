@@ -17,7 +17,7 @@ Represents a cell that is diagonally split.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTableCellDiagonalDown**|2|Diagonal Down|
 | **pbTableCellDiagonalMixed**|-2|Diagonal Mixed|

@@ -23,7 +23,7 @@ Closes the lower pane of the active window.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

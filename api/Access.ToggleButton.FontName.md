@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.FontName Property (Access)
+title: ToggleButton.FontName property (Access)
 keywords: vbaac10.chm11723
 f1_keywords:
 - vbaac10.chm11723
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.FontName Property (Access)
+# ToggleButton.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 
@@ -26,9 +26,9 @@ Read/write  **String**.
 
 ## Syntax
 
- _expression_. `FontName`
+_expression_. `FontName`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

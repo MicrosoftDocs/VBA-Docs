@@ -23,7 +23,7 @@ Returns a  **[WebOptions](Publisher.WebOptions.md)** object, which represents th
  _expression_ A variable that represents a  **Application** object.
 
 
-### Return Value
+### Return value
 
 WebOptions
 

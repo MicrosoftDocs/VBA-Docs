@@ -1,5 +1,5 @@
 ---
-title: DoCmd.RunMacro Method (Access)
+title: DoCmd.RunMacro method (Access)
 keywords: vbaac10.chm4175
 f1_keywords:
 - vbaac10.chm4175
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.RunMacro Method (Access)
+# DoCmd.RunMacro method (Access)
 
 The  **RunMacro** method carries out the RunMacro action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `RunMacro`( ` _MacroName_`, ` _RepeatCount_`, ` _RepeatExpression_` )
+_expression_. `RunMacro`( ` _MacroName_`, ` _RepeatCount_`, ` _RepeatExpression_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MacroName_|Required|**Variant**|A string expression that's the valid name of a macro in the current database. If you run Visual Basic code containing the  **RunMacro** method in a library database, Microsoft Access looks for the macro with this name in the library database and doesn't look for it in the current database.|
 | _RepeatCount_|Optional|**Variant**|A numeric expression that evaluates to an integer, which is the number of times the macro will run.|

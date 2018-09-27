@@ -23,7 +23,7 @@ Represents the type of animation. Read/write.
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return Value
+### Return value
 
 MsoAnimType
 

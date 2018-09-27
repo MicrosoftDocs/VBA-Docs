@@ -23,7 +23,7 @@ Creates a duplicate of the specified custom layout, adds the new custom layout t
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return Value
+### Return value
 
 CustomLayout
 

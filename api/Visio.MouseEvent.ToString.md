@@ -23,7 +23,7 @@ Returns a string that represents the properties of a  **KeyboardEvent** or **Mou
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

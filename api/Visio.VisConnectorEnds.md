@@ -17,7 +17,7 @@ Specifies constants that define the end points of a connector; passed to the  **
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectorBeginpoint**|0|The begin point of the connector.|
 | **visConnectorEndPoint**|1|The end point of the connector.|

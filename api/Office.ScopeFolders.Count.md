@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **ScopeFolders** collecti
  _expression_ A variable that represents a [ScopeFolders](./Office.ScopeFolders.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

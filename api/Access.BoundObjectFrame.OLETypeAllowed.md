@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OLETypeAllowed Property (Access)
+title: BoundObjectFrame.OLETypeAllowed property (Access)
 keywords: vbaac10.chm10919
 f1_keywords:
 - vbaac10.chm10919
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OLETypeAllowed Property (Access)
+# BoundObjectFrame.OLETypeAllowed property (Access)
 
 You can use the  **OLETypeAllowed** property to specify the type of OLE object a control can contain. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `OLETypeAllowed`
+_expression_. `OLETypeAllowed`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

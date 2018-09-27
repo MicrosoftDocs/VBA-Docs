@@ -27,7 +27,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **XlEditionType**|See help included with Microsoft Office Macintosh Edition.|
 | _Option_|Required| **XlEditionOptionsOption**|See help included with Microsoft Office Macintosh Edition.|
@@ -37,7 +37,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 | _ChartSize_|Optional| **XlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
 | _Format_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
 
-### Return Value
+### Return value
 
 Variant
 

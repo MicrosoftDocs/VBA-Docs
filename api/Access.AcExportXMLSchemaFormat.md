@@ -1,5 +1,5 @@
 ---
-title: AcExportXMLSchemaFormat Enumeration (Access)
+title: AcExportXMLSchemaFormat enumeration (Access)
 keywords: vbaac10.chm13240
 f1_keywords:
 - vbaac10.chm13240
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcExportXMLSchemaFormat Enumeration (Access)
+# AcExportXMLSchemaFormat enumeration (Access)
 
 Not supported in Access.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSchemaNone**|0||
 |**acSchemaXSD**|1||

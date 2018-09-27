@@ -23,7 +23,7 @@ Returns of sets whether the point is visible. Read/write
  _expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -14,7 +14,7 @@ Specifies the results of the refresh or import operation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlXmlImportElementsTruncated**|1|The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess**|0|The XML data file was successfully imported.|

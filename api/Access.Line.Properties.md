@@ -1,5 +1,5 @@
 ---
-title: Line.Properties Property (Access)
+title: Line.Properties property (Access)
 keywords: vbaac10.chm10324
 f1_keywords:
 - vbaac10.chm10324
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Properties Property (Access)
+# Line.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.DVar Method (Access)
+title: Application.DVar method (Access)
 keywords: vbaac10.chm12531
 f1_keywords:
 - vbaac10.chm12531
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DVar Method (Access)
+# Application.DVar method (Access)
 
 Estimates the variance across a sample in a specified set of records (a domain).
 
 
 ## Syntax
 
- _expression_. `DVar`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
+_expression_. `DVar`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the numeric field on which you want to find the variance. It can be a string expression identifying a field from a table or query, or it can be an expression that performs a [calculation on data in that field](../access/Concepts/Criteria-Expressions/calculate-fields-in-domain-aggregate-functions.md) . In _expr_, you can include the name field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function. Any field included in _expr_ must be a numeric field.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|
 | _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DVar** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DVar** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise the  **DVar** function returns a **Null**.|
 
-### Return Value
+### Return value
 
 Variant
 

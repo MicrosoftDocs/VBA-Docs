@@ -27,11 +27,11 @@ Duplicates the  **TableStyle** object and returns a reference to the new copy.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewTableStyleName_|Optional| **Variant**|The name of the new table style.|
 
-### Return Value
+### Return value
 
 TableStyle
 

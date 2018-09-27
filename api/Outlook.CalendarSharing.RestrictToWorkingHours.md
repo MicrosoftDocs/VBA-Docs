@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that indicates whether calendar items that 
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
-### Return Value
+### Return value
 
  **True** if calendar items that do not occur within working hours should be included; otherwise, **False** .
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnBeforeNavigate Property (Access)
+title: WebBrowserControl.OnBeforeNavigate property (Access)
 keywords: vbaac10.chm14413
 f1_keywords:
 - vbaac10.chm14413
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnBeforeNavigate Property (Access)
+# WebBrowserControl.OnBeforeNavigate property (Access)
 
 Gets or sets the value of the  **On Before Navigate** box in the property sheet os a Web Browser control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnBeforeNavigate`
+_expression_. `OnBeforeNavigate`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

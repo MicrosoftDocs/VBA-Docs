@@ -27,7 +27,7 @@ Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represent
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required| **[MsoTextOrientation](./Office.MsoTextOrientation.md)**|The orientation of the textbox.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the text box relative to the upper-left corner of the document.|
@@ -35,7 +35,7 @@ Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represent
 | _Width_|Required| **Single**|The width of the text box, in points.|
 | _Height_|Required| **Single**|The height of the text box, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

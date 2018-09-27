@@ -27,12 +27,12 @@ Returns a  **Variable** object that represents a variable added to a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the document variable.|
 | _Value_|Optional| **Variant**|The value for the document variable.|
 
-### Return Value
+### Return value
 
 Variable
 

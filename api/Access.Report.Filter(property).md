@@ -1,5 +1,5 @@
 ---
-title: Report.Filter Property (Access)
+title: Report.Filter property (Access)
 keywords: vbaac10.chm13690
 f1_keywords:
 - vbaac10.chm13690
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Filter Property (Access)
+# Report.Filter property (Access)
 
 You can use the  **Filter** property to specify a subset of records to be displayed when a filter is applied to a form, reportquery, or table. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Filter`
+_expression_. `Filter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

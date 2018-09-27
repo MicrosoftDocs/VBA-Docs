@@ -15,7 +15,7 @@ Constants that represent the possible levels for a content control, returned by 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdContentControlLevelCell**|3|Represents a content control that surrounds a table cell.|
 | **wdContentControlLevelInline**|0|Represents a content control that surrounds content within a single paragraph.|

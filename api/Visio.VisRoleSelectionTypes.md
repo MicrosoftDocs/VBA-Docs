@@ -17,7 +17,7 @@ Specifies selections that contain all shapes of a given role; passed to the  **[
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRoleSelConnector**|1|A selection that contains all connector shapes.|
 | **visRoleSelContainer**|2|A selection that contains all container shapes.|

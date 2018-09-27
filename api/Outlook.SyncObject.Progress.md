@@ -27,7 +27,7 @@ Occurs periodically while Microsoft Outlook is synchronizing a user?s folders us
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _State_|Required| **[OlSyncState](Outlook.OlSyncState.md)**|A value that identifies the current state of the synchronization process.|
 | _Description_|Required| **String**|A textual description of the current state of the synchronization process.|

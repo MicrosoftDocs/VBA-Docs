@@ -27,11 +27,11 @@ Pastes the slides on the Clipboard into the  **Slides** collection for the prese
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Integer**|The index number of the slide that the slides on the Clipboard are to be pasted before. If this argument is omitted, the slides on the Clipboard are pasted after the last slide in the presentation.|
 
-### Return Value
+### Return value
 
 SlideRange
 

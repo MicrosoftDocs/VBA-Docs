@@ -1,5 +1,5 @@
 ---
-title: Form.PaletteSource Property (Access)
+title: Form.PaletteSource property (Access)
 keywords: vbaac10.chm13424
 f1_keywords:
 - vbaac10.chm13424
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PaletteSource Property (Access)
+# Form.PaletteSource property (Access)
 
 You can use the  **PaletteSource** property to specify the palette for a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `PaletteSource`
+_expression_. `PaletteSource`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

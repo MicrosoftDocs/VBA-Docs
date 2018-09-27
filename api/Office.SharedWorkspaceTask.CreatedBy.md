@@ -26,7 +26,7 @@ Gets the display name of the member who created the shared workspace object. Rea
  _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

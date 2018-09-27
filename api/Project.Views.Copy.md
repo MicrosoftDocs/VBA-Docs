@@ -24,12 +24,12 @@ Makes a copy of a group definition for the  **Views** collection and returns a r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The name of the view to copy.|
 | _NewName_|Required|**String**|The name of the new view.|
 
-### Return Value
+### Return value
 
  **View**
 

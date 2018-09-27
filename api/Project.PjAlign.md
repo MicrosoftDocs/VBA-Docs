@@ -14,7 +14,7 @@ Contains constants that specify which side or portion of a box to use for the al
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAlignBottoms**|5|Aligns the bottom edges of the boxes.|
 |**pjAlignCenters**|1|Aligns the boxes vertically.|

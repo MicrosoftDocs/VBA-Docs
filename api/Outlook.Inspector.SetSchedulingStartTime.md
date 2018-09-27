@@ -27,7 +27,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The beginning of the time range that the  **Scheduling Assistant** tab of the inspector displays free/busy times for meeting attendees.|
 

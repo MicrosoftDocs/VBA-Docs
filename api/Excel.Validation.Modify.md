@@ -27,7 +27,7 @@ Modifies data validation for a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|An  **XlDVType** value that represents the validation type.|
 | _AlertStyle_|Optional| **Variant**|An  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|

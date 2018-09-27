@@ -14,7 +14,7 @@ Specifies the format to use when saving a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFormatDocument**|0|Microsoft Office Word 97 - 2003 binary file format.|
 | **wdFormatDOSText**|4|Microsoft DOS text format.|

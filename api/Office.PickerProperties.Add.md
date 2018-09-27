@@ -27,13 +27,13 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|Key name of the property.|
 | _Value_|Required|**String**|Value of the property.|
 | _Type_|Required|**MsoPickerField**|Type of the property.|
 
-### Return Value
+### Return value
 
 PickerProperty
 

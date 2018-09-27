@@ -27,11 +27,11 @@ Converts a measurement from inches to points.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Inches_|Required| **Double**|Specifies the inch value to be converted to points.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FontWeight Property (Access)
+title: ComboBox.FontWeight property (Access)
 keywords: vbaac10.chm11416
 f1_keywords:
 - vbaac10.chm11416
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FontWeight Property (Access)
+# ComboBox.FontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `FontWeight`
+_expression_. `FontWeight`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

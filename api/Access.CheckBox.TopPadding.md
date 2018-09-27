@@ -1,5 +1,5 @@
 ---
-title: CheckBox.TopPadding Property (Access)
+title: CheckBox.TopPadding property (Access)
 keywords: vbaac10.chm10769
 f1_keywords:
 - vbaac10.chm10769
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.TopPadding Property (Access)
+# CheckBox.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the check box and its top gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## See also

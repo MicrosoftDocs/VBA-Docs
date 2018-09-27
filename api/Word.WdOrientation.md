@@ -14,7 +14,7 @@ Specifies a page layout orientation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOrientLandscape**|1|Landscape orientation.|
 | **wdOrientPortrait**|0|Portrait orientation.|

@@ -1,5 +1,5 @@
 ---
-title: Label.ForeColor Property (Access)
+title: Label.ForeColor property (Access)
 keywords: vbaac10.chm10209
 f1_keywords:
 - vbaac10.chm10209
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.ForeColor Property (Access)
+# Label.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

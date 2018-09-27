@@ -27,7 +27,7 @@ Finds specific information in a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
 | _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface. Notice that  _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell. If you do no specify this argument, the search starts after the cell in the upper-left corner of the range.|
@@ -39,7 +39,7 @@ Finds specific information in a range.
 | _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support.  **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format.|
 
-### Return Value
+### Return value
 
 A [Range](Excel.Range(object).md) object that represents the first cell where that information is found.
 

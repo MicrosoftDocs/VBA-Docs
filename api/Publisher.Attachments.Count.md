@@ -23,7 +23,7 @@ Returns the number of  **[Attachment](Publisher.Attachment.md)** objects in the 
  _expression_ A variable that represents an  **Attachments** collection.
 
 
-### Return Value
+### Return value
 
 Long
 

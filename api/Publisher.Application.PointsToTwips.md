@@ -27,11 +27,11 @@ Converts a measurement from points to twips (20 twips = 1 point). Returns the co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to twips.|
 
-### Return Value
+### Return value
 
 Single
 

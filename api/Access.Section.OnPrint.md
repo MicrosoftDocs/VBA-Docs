@@ -1,5 +1,5 @@
 ---
-title: Section.OnPrint Property (Access)
+title: Section.OnPrint property (Access)
 keywords: vbaac10.chm12205
 f1_keywords:
 - vbaac10.chm12205
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.OnPrint Property (Access)
+# Section.OnPrint property (Access)
 
 Sets or returns the value of the  **On Print** box in the **Properties** window of a report section. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnPrint`
+_expression_. `OnPrint`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Print** event occurs after data in a report section is formatted for prin
 The  **OnPrint** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Print** box in the report section's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

@@ -27,7 +27,7 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Optional|**Single**|The position (in points) of the upper-left corner of the new object relative to the upper-left corner of the slide. The default value is 0 (zero).|
 | _Top_|Optional|**Single**|The position (in points) of the upper-left corner of the new object relative to the upper-left corner of the slide. The default value is 0 (zero).|
@@ -41,7 +41,7 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
 | _IconLabel_|Optional|**String**|A label (caption) to be displayed beneath the icon.|
 | _Link_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

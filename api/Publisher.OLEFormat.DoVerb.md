@@ -27,7 +27,7 @@ Requests that an OLE object perform one of its verbs.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |iVerb|Required| **Long**|The verb to perform. |
 

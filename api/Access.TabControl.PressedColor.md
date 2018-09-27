@@ -1,5 +1,5 @@
 ---
-title: TabControl.PressedColor Property (Access)
+title: TabControl.PressedColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.PressedColor Property (Access)
+# TabControl.PressedColor property (Access)
 
 Gets or sets the color displayed on the control when the user clicks it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedColor`
+_expression_. `PressedColor`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

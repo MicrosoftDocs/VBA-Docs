@@ -23,7 +23,7 @@ Returns or sets the name of the file that defines custom toolbars and status bar
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

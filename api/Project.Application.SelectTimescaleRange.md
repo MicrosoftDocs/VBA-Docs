@@ -27,14 +27,14 @@ Selects one or more timescale data cells in a usage view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Required|**Long**|The number of the row containing the cell to select.|
 | _StartTime_|Required|**String**|A time (from the timescale) that functions as the starting point of the selection.|
 | _Width_|Required|**Integer**| The number of columns to select.|
 | _Height_|Required|**Long**|The number of rows to select.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

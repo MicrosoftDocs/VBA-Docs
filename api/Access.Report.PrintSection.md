@@ -1,5 +1,5 @@
 ---
-title: Report.PrintSection Property (Access)
+title: Report.PrintSection property (Access)
 keywords: vbaac10.chm13730
 f1_keywords:
 - vbaac10.chm13730
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PrintSection Property (Access)
+# Report.PrintSection property (Access)
 
 The  **PrintSection** property specifies whether a section should be printed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PrintSection`
+_expression_. `PrintSection`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

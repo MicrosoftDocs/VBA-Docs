@@ -1,5 +1,5 @@
 ---
-title: ComboBox.HideDuplicates Property (Access)
+title: ComboBox.HideDuplicates property (Access)
 keywords: vbaac10.chm11400
 f1_keywords:
 - vbaac10.chm11400
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.HideDuplicates Property (Access)
+# ComboBox.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HideDuplicates`
+_expression_. `HideDuplicates`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

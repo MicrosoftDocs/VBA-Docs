@@ -23,7 +23,7 @@ Specifies the locale-specific name of an  **Addon** object. Read-only.
  _expression_ A variable that represents an [Addon](./Visio.Addon.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

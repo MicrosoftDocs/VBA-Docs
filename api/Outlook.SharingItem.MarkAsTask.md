@@ -27,7 +27,7 @@ Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **SharingItem** .|
 

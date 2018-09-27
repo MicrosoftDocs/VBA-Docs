@@ -17,7 +17,7 @@ Specifies how the contact card is displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardFull**|1|The contact card is displayed as a full card.|
 |**msoContactCardHover**|0|The contact card is displayed as a hover card.|

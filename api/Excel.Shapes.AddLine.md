@@ -27,14 +27,14 @@ As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeginX_|Required| **Single**|The position (in points) of the line's starting point relative to the upper-left corner of the document.|
 | _BeginY_|Required| **Single**|The position (in points) of the line's starting point relative to the upper-left corner of the document.|
 | _EndX_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|
 | _EndY_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|
 
-### Return Value
+### Return value
 
 Shape
 

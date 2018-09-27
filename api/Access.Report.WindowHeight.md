@@ -1,5 +1,5 @@
 ---
-title: Report.WindowHeight Property (Access)
+title: Report.WindowHeight property (Access)
 keywords: vbaac10.chm13805
 f1_keywords:
 - vbaac10.chm13805
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.WindowHeight Property (Access)
+# Report.WindowHeight property (Access)
 
 Returns the height of a report in twips. Read-only  **Integer**.
 
 
 ## Syntax
 
- _expression_. `WindowHeight`
+_expression_. `WindowHeight`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

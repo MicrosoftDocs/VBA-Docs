@@ -27,7 +27,7 @@ Private Sub  _expression_ _'DocumentCreated'(**_ByVal doc As [IVDOCUMENT]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _doc_|Required| **[IVDOCUMENT]**|The document that was created.|
 

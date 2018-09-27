@@ -27,7 +27,7 @@ Occurs when the user issues the command to insert postal barcodes into a mail-me
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The current publication.|
 |OkToInsert|Required| **Boolean**|Output parameter.  **True** if it is okay to insert barcodes.|

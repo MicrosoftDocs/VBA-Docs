@@ -14,7 +14,7 @@ Specifies the horizontal overflow setting for a text frame.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlOartHorizontalOverflowClip**|1|Hide text that does not fit horizontally in the text frame.|
 | **xlOartHorizontalOverflowOverflow**|0|Allow text to overflow the text frame horizontally.|

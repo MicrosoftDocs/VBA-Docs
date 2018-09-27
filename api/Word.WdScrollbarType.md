@@ -14,7 +14,7 @@ Specifies when scroll bars are available for the specified frame when viewing it
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdScrollbarTypeAuto**|0|Scroll bars are available for the specified frame only if the contents are too large to fit in the allotted space.|
 | **wdScrollbarTypeNo**|2|Scroll bars are never available for the specified frame.|

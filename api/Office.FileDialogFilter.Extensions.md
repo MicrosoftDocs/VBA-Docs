@@ -23,7 +23,7 @@ Gets a value containing the extensions that determine which files are displayed 
  _expression_ An expression that returns a [FileDialogFilter](./Office.FileDialogFilter.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

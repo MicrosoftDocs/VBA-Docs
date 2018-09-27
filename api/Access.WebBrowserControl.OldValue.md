@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OldValue Property (Access)
+title: WebBrowserControl.OldValue property (Access)
 keywords: vbaac10.chm14350
 f1_keywords:
 - vbaac10.chm14350
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OldValue Property (Access)
+# WebBrowserControl.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `OldValue`
+_expression_. `OldValue`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

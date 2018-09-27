@@ -1,5 +1,5 @@
 ---
-title: MacroError.Condition Property (Access)
+title: MacroError.Condition property (Access)
 keywords: vbaac10.chm14046
 f1_keywords:
 - vbaac10.chm14046
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError.Condition Property (Access)
+# MacroError.Condition property (Access)
 
 Gets the condition of the macro action that was executing when an error occurred. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Condition`
+_expression_. `Condition`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

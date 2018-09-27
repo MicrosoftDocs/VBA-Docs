@@ -14,7 +14,7 @@ Constants that specify the type of slide show, passed to and returned by the  **
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppShowTypeKiosk**|3|Kiosk|
 |**ppShowTypeSpeaker**|1|Speaker|

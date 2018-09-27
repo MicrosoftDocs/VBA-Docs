@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame Object (Access)
+title: BoundObjectFrame object (Access)
 keywords: vbaac10.chm11026
 f1_keywords:
 - vbaac10.chm11026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame Object (Access)
+# BoundObjectFrame object (Access)
 
 A bound object frame object displays a picture, chart, or any OLE object stored in a table in a Microsoft Access database. For example, if you store pictures of your employees in a table in Microsoft Access, you can use a bound object frame to display these pictures on a form or report.
 

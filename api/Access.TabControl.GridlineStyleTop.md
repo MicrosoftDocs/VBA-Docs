@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineStyleTop Property (Access)
+title: TabControl.GridlineStyleTop property (Access)
 keywords: vbaac10.chm14541
 f1_keywords:
 - vbaac10.chm14541
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineStyleTop Property (Access)
+# TabControl.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

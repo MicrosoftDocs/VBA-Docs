@@ -27,11 +27,11 @@ Gets or sets a cell's value. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving or setting the cell's value.|
 
-### Return Value
+### Return value
 
 Double
 

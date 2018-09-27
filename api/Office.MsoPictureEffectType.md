@@ -14,7 +14,7 @@ Specifies constants that define the types of picture effects.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEffectBackgroundRemoval**|1|Background removal effect.|
 |**msoEffectBlur**|2|Blur effect.|

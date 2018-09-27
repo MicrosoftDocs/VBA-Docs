@@ -1,5 +1,5 @@
 ---
-title: Form.Section Property (Access)
+title: Form.Section property (Access)
 keywords: vbaac10.chm13631
 f1_keywords:
 - vbaac10.chm13631
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Section Property (Access)
+# Form.Section property (Access)
 
 You can use the  **Section** property to identify a section of a form and provide access to the properties of that section. Read-only **Section** object.
 
 
 ## Syntax
 
- _expression_. `Section`( ` _Index_` )
+_expression_. `Section`( ` _Index_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The section number or name.|
 

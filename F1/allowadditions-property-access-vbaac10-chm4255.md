@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AllowAdditions Property (Access)](http://msdn.microsoft.com/library/8e440a96-7f9e-c009-5055-377c75999267%28Office.15%29.aspx)
+[Form.AllowAdditions property (Access)](http://msdn.microsoft.com/library/8e440a96-7f9e-c009-5055-377c75999267%28Office.15%29.aspx)
 

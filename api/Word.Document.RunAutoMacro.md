@@ -27,7 +27,7 @@ Runs an auto macro that's stored in the specified document. If the specified aut
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Which_|Required| **WdAutoMacros**|The auto macro to run.|
 

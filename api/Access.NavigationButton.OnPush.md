@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.OnPush Property (Access)
+title: NavigationButton.OnPush property (Access)
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.OnPush Property (Access)
+# NavigationButton.OnPush property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window of a command button. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnPush`
+_expression_. `OnPush`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ Although the name of this property is  **OnPush**, setting this property actuall
 The  **OnPush** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the command button's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

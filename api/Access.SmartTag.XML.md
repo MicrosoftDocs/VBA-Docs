@@ -1,5 +1,5 @@
 ---
-title: SmartTag.XML Property (Access)
+title: SmartTag.XML property (Access)
 keywords: vbaac10.chm13323
 f1_keywords:
 - vbaac10.chm13323
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag.XML Property (Access)
+# SmartTag.XML property (Access)
 
 Returns a  **String** that represents the related XML code for a smart tag. Read-only.
 
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
+_expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## See also

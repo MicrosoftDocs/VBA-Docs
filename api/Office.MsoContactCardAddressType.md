@@ -17,7 +17,7 @@ Specifies the address type for a contact card.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardAddressTypeUnknown**|0|An unknown identifier for an address.|
 |**msoContactCardAddressTypeOutlook**|1|A unique identifier for an Outlook address.|

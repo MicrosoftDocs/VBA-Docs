@@ -15,7 +15,7 @@ Document information constants passed to the  **Document.RemoveHiddenInformation
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRHIDataRecordsets**|16|Data recordsets.|
 | **visRHIMasters**|4|Unused masters|

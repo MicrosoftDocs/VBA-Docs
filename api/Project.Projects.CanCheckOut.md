@@ -27,11 +27,11 @@ Indicates whether Project can check out the specified project from a SharePoint 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|The name of the file to check out.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

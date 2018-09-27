@@ -27,7 +27,7 @@ Add a new source to the sources listed in the  **Source Manager** dialog box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **String**|An XML string that represents the field values for the new source.|
 

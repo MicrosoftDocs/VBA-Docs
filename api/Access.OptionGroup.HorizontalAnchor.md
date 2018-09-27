@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.HorizontalAnchor Property (Access)
+title: OptionGroup.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10883
 f1_keywords:
 - vbaac10.chm10883
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.HorizontalAnchor Property (Access)
+# OptionGroup.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the option group is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `HorizontalAnchor`
+_expression_. `HorizontalAnchor`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

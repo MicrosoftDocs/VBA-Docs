@@ -27,7 +27,7 @@ Aligns all the shapes in the specified  **ShapeRange** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |AlignCmd|Required| **MsoAlignCmd**|Specifies how the shapes are to be aligned.|
 |RelativeTo|Required| **MsoTriState**|Specifies whether shapes are aligned relative to the page or to one another.|

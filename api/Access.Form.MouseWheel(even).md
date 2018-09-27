@@ -1,5 +1,5 @@
 ---
-title: Form.MouseWheel Event (Access)
+title: Form.MouseWheel event (Access)
 keywords: vbaac10.chm13683
 f1_keywords:
 - vbaac10.chm13683
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseWheel Event (Access)
+# Form.MouseWheel event (Access)
 
 Occurs when the user rolls the mouse wheel in Form View, Split Form View, Datasheet View, Layout View, PivotChart View, or PivotTable View.
 
 
 ## Syntax
 
- _expression_. `MouseWheel`( ` _Page_`, ` _Count_` )
+_expression_. `MouseWheel`( ` _Page_`, ` _Count_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required|**Boolean**|**True** if the page was changed.|
 | _Count_|Required|**Long**|The number of lines by which the view was scrolled with the mouse wheel.|

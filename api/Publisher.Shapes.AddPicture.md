@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing a picture to the specified **Shapes** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|The name of the picture file to insert into the shape. The path can be absolute or relative.|
 |LinkToFile|Required| **MsoTriState**|Determines whether the picture is linked to or embedded in the publication.|
@@ -37,7 +37,7 @@ Adds a new  **Shape** object representing a picture to the specified **Shapes** 
 |Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 |Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 
-### Return Value
+### Return value
 
 Shape
 

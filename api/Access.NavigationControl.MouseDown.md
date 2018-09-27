@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.MouseDown Event (Access)
+title: NavigationControl.MouseDown event (Access)
 keywords: vbaac10.chm14203
 f1_keywords:
 - vbaac10.chm14203
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.MouseDown Event (Access)
+# NavigationControl.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseDown`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
 
-### Return Value
+### Return value
 
 nothing
 

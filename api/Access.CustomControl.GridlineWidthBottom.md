@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GridlineWidthBottom Property (Access)
+title: CustomControl.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10535
 f1_keywords:
 - vbaac10.chm10535
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GridlineWidthBottom Property (Access)
+# CustomControl.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

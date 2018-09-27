@@ -14,7 +14,7 @@ Indicates how validation errors will be cleared or generated.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCustomXMLValidationErrorAutomaticallyCleared**|1|Specifies that the error will clear itself whenever any change is made to the node it is bound to. |
 |**msoCustomXMLValidationErrorManual**|2|Specifies that the error will not be cleared until the  **Delete** method is called.|

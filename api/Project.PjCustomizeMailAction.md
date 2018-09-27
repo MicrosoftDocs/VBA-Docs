@@ -14,7 +14,7 @@ Contains constants that specify the type of action. Obsolete.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMailDefineField**|2|Field definitions.|
 |**pjMailEndFields**|0|Number of fields.|

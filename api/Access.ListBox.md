@@ -1,5 +1,5 @@
 ---
-title: ListBox Object (Access)
+title: ListBox object (Access)
 keywords: vbaac10.chm11354
 f1_keywords:
 - vbaac10.chm11354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox Object (Access)
+# ListBox object (Access)
 
 This object corresponds to a list box control. The list box control displays a list of values or alternatives.
 

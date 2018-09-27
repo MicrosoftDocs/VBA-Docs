@@ -23,7 +23,7 @@ Returns an object's type. Read-only.
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

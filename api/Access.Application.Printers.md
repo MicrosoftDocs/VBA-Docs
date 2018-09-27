@@ -1,5 +1,5 @@
 ---
-title: Application.Printers Property (Access)
+title: Application.Printers property (Access)
 keywords: vbaac10.chm12596
 f1_keywords:
 - vbaac10.chm12596
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Printers Property (Access)
+# Application.Printers property (Access)
 
 Returns the  **[Printers](Access.Printers.md)** collection representing all the available printers on the current system. Read-only **Printers** collection.
 
 
 ## Syntax
 
- _expression_. `Printers`
+_expression_. `Printers`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: ListBox.TopPadding Property (Access)
+title: ListBox.TopPadding property (Access)
 keywords: vbaac10.chm11307
 f1_keywords:
 - vbaac10.chm11307
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.TopPadding Property (Access)
+# ListBox.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its top gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## See also

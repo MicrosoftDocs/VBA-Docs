@@ -27,12 +27,12 @@ Copies the selected object to the Clipboard as a picture.  **Variant** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied.|
 | _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture.|
 
-### Return Value
+### Return value
 
 Variant
 

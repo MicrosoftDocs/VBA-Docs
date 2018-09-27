@@ -27,14 +27,14 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the picture.|
 |Top|Required| **Variant**|The position of the top edge of the shape representing the picture.|
 |Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set to 72 points if the parameter is left blank.|
 |Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the height of the shape is automatically set to 54 points if the parameter is left blank.|
 
-### Return Value
+### Return value
 
 Shape
 

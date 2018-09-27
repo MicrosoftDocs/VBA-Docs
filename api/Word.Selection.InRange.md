@@ -27,11 +27,11 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required|Optional|The [Range](Word.Range.md) to which you want to compare the selection.|
 
-### Return Value
+### Return value
 
 Boolean
 

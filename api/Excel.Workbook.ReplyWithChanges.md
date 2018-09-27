@@ -27,7 +27,7 @@ Sends an e-mail message to the author of a workbook that has been sent out for r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowMessage_|Optional| **Variant**| **False** does not display the message. **True** displays the message.|
 

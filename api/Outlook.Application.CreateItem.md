@@ -27,11 +27,11 @@ Creates and returns a new Microsoft Outlook item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ItemType_|Required| **[OlItemType](Outlook.OlItemType.md)**|The Outlook item type for the new item.|
 
-### Return Value
+### Return value
 
 An  **Object** value that represents the new Outlook item.
 

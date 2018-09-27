@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenTable Method (Access)
+title: DoCmd.OpenTable method (Access)
 keywords: vbaac10.chm4164
 f1_keywords:
 - vbaac10.chm4164
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenTable Method (Access)
+# DoCmd.OpenTable method (Access)
 
 The  **OpenTable** method carries out the OpenTable action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `OpenTable`( ` _TableName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenTable`( ` _TableName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TableName_|Required|**Variant**|A string expression that's the valid name of a table in the current database. If you execute Visual Basic code containing the  **OpenTable** method in a library database, Microsoft Access looks for the table with this name first in the library database, then in the current database.|
 | _View_|Optional|**AcView**|A  **[AcView](Access.AcView.md)** constant that specifies the view in which the table will open. The default value is **acViewNormal**.|

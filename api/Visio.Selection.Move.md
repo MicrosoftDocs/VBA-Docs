@@ -27,13 +27,13 @@ Moves a selection a specified distance.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _dx_|Required| **Double**|Specifies the amount to move in the x-direction.|
 | _dy_|Required| **Double**|Specifies the amount to move in the y-direction.|
 | _UnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _dx_ and _dy_. See Remarks for possible values. The default is inches.|
 
-### Return Value
+### Return value
 
 Nothing
 

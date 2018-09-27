@@ -1,5 +1,5 @@
 ---
-title: Application.AccessError Method (Access)
+title: Application.AccessError method (Access)
 keywords: vbaac10.chm12556
 f1_keywords:
 - vbaac10.chm12556
@@ -11,42 +11,42 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AccessError Method (Access)
+# Application.AccessError method (Access)
 
-You can use the  **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error.
+You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error.
 
 
 ## Syntax
 
- _expression_. `AccessError`( ` _ErrorNumber_` )
+_expression_. `AccessError`( ` _ErrorNumber_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ErrorNumber_|Required|**Variant**|The number of the error for which you wish to return a descriptive string.|
 
-### Return Value
+### Return value
 
 Variant
 
 
 ## Remarks
 
-You can use the  **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error when the error hasn't actually occurred, but you cannot use it for ADO errors.
+You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error when the error hasn't actually occurred, but you cannot use it for ADO errors.
 
-You can use the Visual Basic  **Raise** method to raise a Visual Basic error. Once you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
+You can use the Visual Basic **Raise** method to raise a Visual Basic error. Once you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
 
-You can't use the  **Raise** method to raise a Microsoft Access or DAO error. However, you can use the **AccessError** method to return the descriptive string associated with these errors, without having to generate the error.
+You can't use the **Raise** method to raise a Microsoft Access or DAO error. However, you can use the **AccessError** method to return the descriptive string associated with these errors, without having to generate the error.
 
-You can use the  **AccessError** method to return a descriptive string from within a form's **Error** event.
+You can use the **AccessError** method to return a descriptive string from within a form's **Error** event.
 
-If the Microsoft Access error has occurred, you can return the descriptive string by using either the  **AccessError** method or the **Description** property of the Visual Basic **Err** object.
+If the Microsoft Access error has occurred, you can return the descriptive string by using either the **AccessError** method or the **Description** property of the Visual Basic **Err** object.
 
 
 ## Example

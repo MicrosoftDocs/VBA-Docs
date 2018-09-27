@@ -14,7 +14,7 @@ Specifies the type of cells.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCellTypeAllFormatConditions**|-4172|Cells of any format.|
 | **xlCellTypeAllValidation**|-4174|Cells having validation criteria.|

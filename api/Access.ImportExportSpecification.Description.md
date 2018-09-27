@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecification.Description Property (Access)
+title: ImportExportSpecification.Description property (Access)
 keywords: vbaac10.chm13334
 f1_keywords:
 - vbaac10.chm13334
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecification.Description Property (Access)
+# ImportExportSpecification.Description property (Access)
 
 Gets or sets a  **String** that describes the specified **[ImportExportSpecification](Access.ImportExportSpecification.md)** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## Remarks

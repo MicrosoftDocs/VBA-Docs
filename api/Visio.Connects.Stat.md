@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a [Connects](./Visio.Connects.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

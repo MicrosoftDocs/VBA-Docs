@@ -27,7 +27,7 @@ Specifies leveling options for the active project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Automatic_|Optional|**Boolean**|**True** if Project automatically levels tasks in the active project.|
 | _DelayInSlack_|Optional|**Boolean**|**True** if the active project can be leveled only within the available slack time. **False** if the project can be delayed in order to level resources.|
@@ -41,7 +41,7 @@ Specifies leveling options for the active project.
 | _LevelingCanSplit_|Optional|**Boolean**|**True** if leveling can create splits in remaining work.|
 | _LevelProposedBookings_|Optional|**Boolean**|**True** if leveling includes proposed resource bookings.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

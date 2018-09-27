@@ -14,7 +14,7 @@ Specifies orientation of an organization chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrgChartOrientationMixed**|-2|Mixed orientation.|
 |**msoOrgChartOrientationVertical**|1|Vertical orientation.|

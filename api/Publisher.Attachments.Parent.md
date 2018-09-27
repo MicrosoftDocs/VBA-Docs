@@ -23,7 +23,7 @@ Returns the parent of the  **[Attachments](Publisher.Attachments.md)** collectio
  _expression_ A variable that represents an  **Attachments** object.
 
 
-### Return Value
+### Return value
 
 Object
 

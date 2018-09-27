@@ -25,7 +25,7 @@ Places the object at the front or back of the z-order.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |zPosition|Optional| **Variant**|A control's position, front or back, in the container's z-order.|
 

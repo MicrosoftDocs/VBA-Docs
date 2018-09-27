@@ -14,7 +14,7 @@ Contains constants that specify the character set under which a text file was cr
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTextOriginDOS**|1|DOS character set (including OS/2).|
 |**pjTextOriginMac**|2|Macintosh character set.|

@@ -1,5 +1,5 @@
 ---
-title: Printer.PaperBin Property (Access)
+title: Printer.PaperBin property (Access)
 keywords: vbaac10.chm12863
 f1_keywords:
 - vbaac10.chm12863
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.PaperBin Property (Access)
+# Printer.PaperBin property (Access)
 
 Returns or sets an  **[AcPrintPaperBin](Access.AcPrintPaperBin.md)** constant indicating which paper bin the specified printer should use. Read/write.
 
 
 ## Syntax
 
- _expression_. `PaperBin`
+_expression_. `PaperBin`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

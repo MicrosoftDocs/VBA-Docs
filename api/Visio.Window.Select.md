@@ -27,12 +27,12 @@ Selects or clears an object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a  **Shape** object to select or clear.|
 | _SelectAction_|Required| **Integer**|The type of selection action to take.|
 
-### Return Value
+### Return value
 
 Nothing
 

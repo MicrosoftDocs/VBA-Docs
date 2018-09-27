@@ -27,11 +27,11 @@ Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **String**|The type of name space to return.|
 
-### Return Value
+### Return value
 
 A  **NameSpace** object that represents the specified namespace.
 

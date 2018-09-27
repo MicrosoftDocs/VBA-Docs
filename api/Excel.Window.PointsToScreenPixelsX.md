@@ -27,11 +27,11 @@ Converts a horizontal measurement from points (document coordinates) to screen p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|The number of points horizontally along the top of the document window, starting from the left.|
 
-### Return Value
+### Return value
 
 Long
 

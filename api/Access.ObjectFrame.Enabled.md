@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Enabled Property (Access)
+title: ObjectFrame.Enabled property (Access)
 keywords: vbaac10.chm11583
 f1_keywords:
 - vbaac10.chm11583
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Enabled Property (Access)
+# ObjectFrame.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

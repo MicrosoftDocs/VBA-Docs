@@ -27,7 +27,7 @@ Occurs when a new group has been added to the  **Shortcuts** pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewGroup_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that was added.|
 

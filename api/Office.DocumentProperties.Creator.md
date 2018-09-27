@@ -27,11 +27,11 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _plCreator_|Required|**Long**|The name or index number of the built-in document property.|
 
-### Return Value
+### Return value
 
 [HRESULT]
 

@@ -27,7 +27,7 @@ Opens the specified presentation and provides the option to repair the presentat
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to open.|
 | _ReadOnly_|Optional|**MsoTriState**|Specifies whether the file is opened with read/write or read-only status.|
@@ -35,7 +35,7 @@ Opens the specified presentation and provides the option to repair the presentat
 | _WithWindow_|Optional|**MsoTriState**|Specifies whether the file is visible.|
 | _OpenAndRepair_|Optional|**MsoTriState**|Specifies whether to repair the file before it is opened to prevent corruption.|
 
-### Return Value
+### Return value
 
 Presentation
 

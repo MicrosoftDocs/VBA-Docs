@@ -20,7 +20,7 @@ Adds a shape of the specified AutoShape type to a report, and returns a  **Shape
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoAutoShapeType**|Specifies the type of AutoShape to create.|
 | _Left_|Required|**Single**|The position, in points, of the left edge of the AutoShape.|

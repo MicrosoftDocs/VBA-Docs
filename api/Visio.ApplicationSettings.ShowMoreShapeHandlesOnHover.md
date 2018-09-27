@@ -23,7 +23,7 @@ Gets or sets whether to show additional shape handles when the mouse is paused o
  _expression_ An expression that returns an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

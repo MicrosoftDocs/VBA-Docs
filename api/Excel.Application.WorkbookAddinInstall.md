@@ -27,11 +27,11 @@ Occurs when a workbook is installed as an add-in.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The installed workbook.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -14,7 +14,7 @@ Contains constants that specify the action to take when opening a resource pool 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDoNotOpenPool**|4|Do not open the pool.|
 |**pjPoolAndSharers**|3|Open pool and sharers.|

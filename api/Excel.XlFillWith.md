@@ -14,7 +14,7 @@ Specifies how to copy the range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFillWithAll**|-4104|Copy contents and formats.|
 | **xlFillWithContents**|2|Copy contents only.|

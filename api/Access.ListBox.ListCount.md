@@ -1,5 +1,5 @@
 ---
-title: ListBox.ListCount Property (Access)
+title: ListBox.ListCount property (Access)
 keywords: vbaac10.chm11274
 f1_keywords:
 - vbaac10.chm11274
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ListCount Property (Access)
+# ListBox.ListCount property (Access)
 
 You can use the  **ListCount** property to determine the number of rows in a list box. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ListCount`
+_expression_. `ListCount`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

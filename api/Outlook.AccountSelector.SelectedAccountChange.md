@@ -27,7 +27,7 @@ Occurs when the user selects a different account in the drop-down list under  **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SelectedAccount_|Required| **Account**|Represents the currently selected account in the Backstage view.|
 

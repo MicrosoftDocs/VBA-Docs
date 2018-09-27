@@ -27,7 +27,7 @@ Enables picture providers to offer themselves as an upload location for blog pic
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BlogPictureProvider_|Required|**String**|The ID of the picture provider.|
 | _FriendlyName_|Required|**String**|The friendly name of the picture provider.|

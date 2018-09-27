@@ -27,11 +27,11 @@ Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated. This property can be referenced by field name (displayed in the Field Chooser) or by namespace (represented by  **[ViewField.ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)**).|
 
-### Return Value
+### Return value
 
 A  **ViewField** object that represents the new view field.
 

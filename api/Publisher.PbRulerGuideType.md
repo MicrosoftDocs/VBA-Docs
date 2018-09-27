@@ -17,7 +17,7 @@ Represents the ruler guide type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbRulerGuideTypeHorizontal**|2|Horizontal ruler|
 | **pbRulerGuideTypeVertical**|1|Vertical ruler|

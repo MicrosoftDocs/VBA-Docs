@@ -27,7 +27,7 @@ Occurs when switching the view from one page to another page in a publication.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Vw|Required| **View**|The new view that includes the page to which the view has been switched.|
 

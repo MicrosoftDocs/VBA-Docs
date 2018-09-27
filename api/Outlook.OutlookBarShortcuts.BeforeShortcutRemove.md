@@ -27,7 +27,7 @@ Occurs before a new shortcut is removed from a group in the  **Shortcuts** pane,
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The  **OutlookBarShortcut** that is being removed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the shortcut is not removed from the group.|

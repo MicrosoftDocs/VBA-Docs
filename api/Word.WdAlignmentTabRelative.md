@@ -14,7 +14,7 @@ Specifies whether Microsoft Word calculates the alignment for a tab relative to 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIndent**|1|Word calculates tab alignment relative to the paragraph indents.|
 | **wdMargin**|0|Word calculates tab alignment relative to the margins|

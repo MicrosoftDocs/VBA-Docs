@@ -13,7 +13,7 @@ Contains constants that specify the cache status of a job that Project Professio
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCacheJobStateCancelled**|9|The queue job is cancelled.|
 |**pjCacheJobStateCorrelationBlocked**|8|The queue job correlation is blocked; the job is not processing.|

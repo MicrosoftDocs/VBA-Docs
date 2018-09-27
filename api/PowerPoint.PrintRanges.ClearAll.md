@@ -23,7 +23,7 @@ Clears all the print ranges from the  **[PrintRanges](PowerPoint.PrintRanges.md)
  _expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

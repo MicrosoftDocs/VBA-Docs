@@ -27,7 +27,7 @@ Sets information about a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Optional|**String**|The file name of the project that should have its project information edited.|
 | _Title_|Optional|**String**|The title of the project.|
@@ -46,7 +46,7 @@ Sets information about a project.
 | _Priority_|Optional|**Integer**|The priority, ranging from 0 to 1000, of the active project.|
 | _PartiallyDisabled_|Optional|**Boolean**|**True** if Project displays the **Project Information** dialog box with all elements disabled except for the **Enterprise Custom Fields** section.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

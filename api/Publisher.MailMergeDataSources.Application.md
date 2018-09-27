@@ -20,7 +20,7 @@ Returns an  **Application** object that represents the creator of the parent **M
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 
 
-### Return Value
+### Return value
 
 Object
 

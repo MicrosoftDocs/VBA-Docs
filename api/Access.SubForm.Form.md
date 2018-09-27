@@ -1,5 +1,5 @@
 ---
-title: SubForm.Form Property (Access)
+title: SubForm.Form property (Access)
 keywords: vbaac10.chm11916
 f1_keywords:
 - vbaac10.chm11916
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Form Property (Access)
+# SubForm.Form property (Access)
 
 You can use the  **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
 
 
 ## Syntax
 
- _expression_. `Form`
+_expression_. `Form`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

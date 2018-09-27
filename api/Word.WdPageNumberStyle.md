@@ -14,7 +14,7 @@ Specifies the style to apply to page numbers.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPageNumberStyleArabic**|0|Arabic style.|
 | **wdPageNumberStyleArabicFullWidth**|14|Arabic full width style.|

@@ -14,7 +14,7 @@ Specifies the format of a file or folder path.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPathType1**|1|Represents the Type1 format.|
 |**msoPathType2**|2|Represents the Type2 format.|

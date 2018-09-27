@@ -23,7 +23,7 @@ Returns or sets a  **Long** indicating whether the specified color is a spot col
  _expression_ A variable that represents an  **ColorFormat** object.
 
 
-### Return Value
+### Return value
 
 Long
 

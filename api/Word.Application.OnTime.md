@@ -27,7 +27,7 @@ Starts a background timer that runs a macro at a specified time.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _When_|Required| **Variant**|The time at which the macro is to be run. |
 | _Name_|Required| **String**|The name of the macro to be run. |

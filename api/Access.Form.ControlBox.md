@@ -1,5 +1,5 @@
 ---
-title: Form.ControlBox Property (Access)
+title: Form.ControlBox property (Access)
 keywords: vbaac10.chm13372
 f1_keywords:
 - vbaac10.chm13372
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ControlBox Property (Access)
+# Form.ControlBox property (Access)
 
 Specifies whether a form has a  **Control** menu in Form view and Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ControlBox`
+_expression_. `ControlBox`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

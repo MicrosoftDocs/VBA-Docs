@@ -27,7 +27,7 @@ Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewPart_|Required|**CustomXMLPart**|The part that was added.|
 

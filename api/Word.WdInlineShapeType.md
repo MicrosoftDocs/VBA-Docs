@@ -14,7 +14,7 @@ Specifies a shape type for inline shapes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdInlineShapeChart**|12|Inline chart.|
 | **wdInlineShapeDiagram**|13|Inline diagram.|

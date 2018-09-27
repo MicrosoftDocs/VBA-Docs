@@ -27,7 +27,7 @@ Sizes the Microsoft Publisher application window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Width|Required| **Long**|The width of the window, in points.|
 |Height|Required| **Long**|The height of the window, in points.|

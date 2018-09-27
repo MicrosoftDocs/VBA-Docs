@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.TabStop Property (Access)
+title: ToggleButton.TabStop property (Access)
 keywords: vbaac10.chm11715
 f1_keywords:
 - vbaac10.chm11715
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.TabStop Property (Access)
+# ToggleButton.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TabStop`
+_expression_. `TabStop`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

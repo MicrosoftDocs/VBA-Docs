@@ -27,11 +27,11 @@ Occurs when a protected view window is opened.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that is opened.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Gets or sets the width of the page tab control in a drawing window. Read/write.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

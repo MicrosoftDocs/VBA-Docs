@@ -30,7 +30,7 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
 | _lpr8Right_|Required|DOUBLE|Right position values for the virtual bounding box.|
 | _lpr8Top_|Required|DOUBLE|Top position values for the virtual bounding box.|
 
-### Return Value
+### Return value
 
  **VOID**
 

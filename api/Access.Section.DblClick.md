@@ -1,5 +1,5 @@
 ---
-title: Section.DblClick Event (Access)
+title: Section.DblClick event (Access)
 keywords: vbaac10.chm14234
 f1_keywords:
 - vbaac10.chm14234
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.DblClick Event (Access)
+# Section.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 
 
 ## Syntax
 
- _expression_. `DblClick`( ` _Cancel_` )
+_expression_. `DblClick`( ` _Cancel_` )
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **DblClick** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **DblClick** event.|
 

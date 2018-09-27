@@ -27,7 +27,7 @@ Scales the width of the shapes in the range by a specified factor.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|Specifies the ratio between the width of the shapes after you resize them and the current or original width. For example, to make all the shapes in the range 50 percent larger, specify 1.5 for this parameter.|
 | _RelativeToOriginalSize_|Required|**MsoTriState**|Specifies whether shapes are scaled relative to their current or original size.|

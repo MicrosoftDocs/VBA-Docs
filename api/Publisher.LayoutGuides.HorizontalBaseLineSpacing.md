@@ -23,7 +23,7 @@ Returns a  **Single** that represents the horizontal baseline spacing of the spe
  _expression_ A variable that represents a  **LayoutGuides** object.
 
 
-### Return Value
+### Return value
 
 Single
 

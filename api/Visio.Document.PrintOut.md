@@ -27,7 +27,7 @@ Prints the contents of the active document and provides various printing options
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PrintRange_|Required| **VisPrintOutRange**|The range of document pages to be printed. See Remarks for possible values.|
 | _FromPage_|Optional| **Long**| If PrintRange is **visPrintFromTo** , the first page in the range to be printed. The default is 1, which indicates the first page of the drawing.|
@@ -40,7 +40,7 @@ Prints the contents of the active document and provides various printing options
 | _Collate_|Optional| **Boolean**| **True** to collate copies. **False** to not collate. The default is **False** .|
 | _ColorAsBlack_|Optional| **Boolean**| **True** to print all colors as black to ensure that all shapes are visible in the printed drawing. This is useful if a monochrome printer translates very light colors in a drawing to white rather than a shade of gray. **False** to print colors normally. The default is **False** .|
 
-### Return Value
+### Return value
 
 Nothing
 

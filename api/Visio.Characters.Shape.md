@@ -23,7 +23,7 @@ Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

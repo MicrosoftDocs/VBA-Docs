@@ -30,13 +30,13 @@ Inserts a data graphics legend on a Microsoft Visio drawing page. Returns the li
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OuterList_|Required| **[UNKNOWN]**|A  **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object that represents the legend object. Corresponds to the outermost list shape.|
 | _InnerContainer_|Required| **[UNKNOWN]**|A  **Master** or **MasterShortcut** object that represents the legend object. Corresponds to the inner field container shape used within the legend for each data-graphic field.|
 | _populateFlags_|Required| **[VisLegendFlags](Visio.VisLegendFlags.md)**|A flag that specifies whether Visio should populate the legend.|
 
-### Return Value
+### Return value
 
  **[Shape](Visio.Shape.md)**
 

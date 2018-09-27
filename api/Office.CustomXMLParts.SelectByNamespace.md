@@ -27,11 +27,11 @@ Selects the collection of custom XML parts whose namespace matches the search cr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Required|**String**|Contains a namespace URI.|
 
-### Return Value
+### Return value
 
 CustomXMLParts
 

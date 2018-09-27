@@ -1,5 +1,5 @@
 ---
-title: Report.Orientation Property (Access)
+title: Report.Orientation property (Access)
 keywords: vbaac10.chm13776
 f1_keywords:
 - vbaac10.chm13776
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Orientation Property (Access)
+# Report.Orientation property (Access)
 
 You can use the  **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_. `Orientation`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

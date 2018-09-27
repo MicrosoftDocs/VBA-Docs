@@ -27,7 +27,7 @@ Displays a modal dialog box that provides detailed information about an  **[Exch
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HWnd_|Optional| **Variant**| The parent window handle for the Details dialog box. A zero value (the default) specifies a modal dialog box.|
 

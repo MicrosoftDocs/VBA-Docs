@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnLostFocus Property (Access)
+title: OptionButton.OnLostFocus property (Access)
 keywords: vbaac10.chm10613
 f1_keywords:
 - vbaac10.chm10613
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnLostFocus Property (Access)
+# OptionButton.OnLostFocus property (Access)
 
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnLostFocus`
+_expression_. `OnLostFocus`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **LostFocus** event occurs when the object loses the focus.
 The  **OnLostFocus** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Lost Focus** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

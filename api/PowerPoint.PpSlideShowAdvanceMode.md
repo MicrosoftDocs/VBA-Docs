@@ -14,7 +14,7 @@ Constants that specify the mode of advance of the slide show, passed to and retu
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSlideShowManualAdvance**|1|Manual Advance|
 |**ppSlideShowRehearseNewTimings**|3|Rehearsed timings|

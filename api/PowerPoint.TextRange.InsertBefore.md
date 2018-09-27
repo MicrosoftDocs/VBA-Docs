@@ -27,7 +27,7 @@ Appends a string to the beginning of the specified text range. Returns a  **Text
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewText_|Optional|**String**|The text to be appended. The default value is an empty string.|
 

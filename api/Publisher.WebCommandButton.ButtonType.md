@@ -23,7 +23,7 @@ Returns or sets a  **PbCommandButtonType** constant that indicates whether a Web
  _expression_ A variable that represents a  **WebCommandButton** object.
 
 
-### Return Value
+### Return value
 
 PbCommandButtonType
 

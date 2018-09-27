@@ -14,7 +14,7 @@ Specifies how the application handles calls to methods and properties that requi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFeatureInstallNone**|0|Generates a generic automation error at run time when uninstalled features are called.|
 |**msoFeatureInstallOnDemand**|1|Prompts the user to install new features.|

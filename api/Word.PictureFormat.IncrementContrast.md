@@ -27,7 +27,7 @@ Changes the contrast of the picture by the specified amount.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies how much to change the value of the  **Contrast** property for the picture. A positive value increases the contrast; a negative value decreases the contrast.|
 

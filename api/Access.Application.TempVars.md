@@ -1,5 +1,5 @@
 ---
-title: Application.TempVars Property (Access)
+title: Application.TempVars property (Access)
 keywords: vbaac10.chm12617
 f1_keywords:
 - vbaac10.chm12617
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TempVars Property (Access)
+# Application.TempVars property (Access)
 
 Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
 
 
 ## Syntax
 
- _expression_. `TempVars`
+_expression_. `TempVars`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## See also

@@ -14,7 +14,7 @@ Specifies the preferred unit of measure to use when measuring the width of an it
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPreferredWidthAuto**|1|Automatically select the unit of measure to use based on the current selection.|
 | **wdPreferredWidthPercent**|2|Measure the current item width using a specified percentage.|

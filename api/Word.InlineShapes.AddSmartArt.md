@@ -27,12 +27,12 @@ Inserts a SmartArt graphic as an inline shape into the active document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **[SMARTARTLAYOUT]**|A [SmartArtLayout](./Office.SmartArtLayout.md)object that specifies the layout for the SmartArt graphic.|
 | _Range_|Optional| **Variant**|Specifies the text to which the SmartArt graphic is bound. If [Range](Word.Range.md) is specified, the SmartArt graphic is positioned at the beginning of the first paragraph in the range. If this argument is omitted, the range is selected automatically, and the SmartArt graphic is positioned relative to the top and left edges of the page.|
 
-### Return Value
+### Return value
 
 InlineShape
 

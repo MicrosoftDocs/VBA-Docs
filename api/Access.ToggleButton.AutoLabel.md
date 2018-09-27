@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.AutoLabel Property (Access)
+title: ToggleButton.AutoLabel property (Access)
 keywords: vbaac10.chm11736
 f1_keywords:
 - vbaac10.chm11736
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.AutoLabel Property (Access)
+# ToggleButton.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## See also

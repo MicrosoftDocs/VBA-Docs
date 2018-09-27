@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ColumnOrder Property (Access)
+title: ToggleButton.ColumnOrder property (Access)
 keywords: vbaac10.chm11734
 f1_keywords:
 - vbaac10.chm11734
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ColumnOrder Property (Access)
+# ToggleButton.ColumnOrder property (Access)
 
 You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `ColumnOrder`
+_expression_. `ColumnOrder`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

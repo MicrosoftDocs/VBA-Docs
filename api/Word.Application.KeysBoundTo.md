@@ -27,7 +27,7 @@ Returns a  **[KeysBoundTo](Word.keysboundto.md)** object that represents all the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The category of the key combination.|
 | _Command_|Required| **String**|The name of the command.|

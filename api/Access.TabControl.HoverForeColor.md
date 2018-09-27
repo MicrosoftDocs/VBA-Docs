@@ -1,5 +1,5 @@
 ---
-title: TabControl.HoverForeColor Property (Access)
+title: TabControl.HoverForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.HoverForeColor Property (Access)
+# TabControl.HoverForeColor property (Access)
 
 Gets or sets the color of the text displayed on the control when the user rests the mouse cursor over it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `HoverForeColor`
+_expression_. `HoverForeColor`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

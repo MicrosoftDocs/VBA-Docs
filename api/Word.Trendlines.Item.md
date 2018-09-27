@@ -27,11 +27,11 @@ Returns a single object from a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](Word.Trendline.md)** object that the collection contains.
 

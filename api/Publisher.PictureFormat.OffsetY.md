@@ -23,7 +23,7 @@ Returns or sets a  **Variant** value indicating the horizontal offset of the sha
  _expression_ A variable that represents an  **ShadowFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

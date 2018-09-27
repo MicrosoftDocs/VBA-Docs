@@ -1,5 +1,5 @@
 ---
-title: AcExportXMLOtherFlags Enumeration (Access)
+title: AcExportXMLOtherFlags enumeration (Access)
 keywords: vbaac10.chm13251
 f1_keywords:
 - vbaac10.chm13251
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcExportXMLOtherFlags Enumeration (Access)
+# AcExportXMLOtherFlags enumeration (Access)
 
 Use with the  **ExportXML** method to specify other behaviors associated with exporting to XML.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acEmbedSchema**|1|Writes schema information into the document specified by the DataTarget argument; this value takes precedence over the SchemaTarget argument.|
 |**acExcludePrimaryKeyAndIndexes**|2|Does not export primary key and index schema properties.|

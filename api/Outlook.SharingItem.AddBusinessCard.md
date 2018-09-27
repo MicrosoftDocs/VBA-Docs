@@ -27,7 +27,7 @@ Appends contact information based on the Electronic Business Card (EBC) associat
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _contact_|Required| **ContactItem**|The contact item from which to obtain the business card information.|
 

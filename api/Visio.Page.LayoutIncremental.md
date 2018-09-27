@@ -27,7 +27,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AlignOrSpace_|Required| **[VisLayoutIncrementalType](Visio.VisLayoutIncrementalType.md)**|The type of incremental layout action to perform--alignment, spacing, or both. See Remarks for possible values.|
 | _AlignHorizontal_|Required| **[VisLayoutHorzAlignType](Visio.VisLayoutHorzAlignType.md)**|Indicates how Microsoft Visio aligns shapes horizontally when it aligns incrementally. See Remarks for possible values.|
@@ -36,7 +36,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
 | _SpaceVertical_|Required| **Double**|The edge-to-edge vertical spacing (except if layout style is circular). Must be greater than or equal to zero.|
 | _UnitsNameOrCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units for the spacing values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

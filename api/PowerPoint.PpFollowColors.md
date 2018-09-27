@@ -14,7 +14,7 @@ Specifies the extent to which the colors in the specified object follow the slid
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppFollowColorsMixed**|-2|The chart colors follow a mixed format of the slide's color scheme.|
 |**ppFollowColorsNone**|0|The chart colors do not follow the slide's color scheme.|

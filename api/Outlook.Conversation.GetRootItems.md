@@ -23,7 +23,7 @@ Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **SimpleItems** collection that includes the root item or all root items of the conversation.
 

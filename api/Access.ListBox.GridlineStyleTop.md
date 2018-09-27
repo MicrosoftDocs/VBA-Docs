@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineStyleTop Property (Access)
+title: ListBox.GridlineStyleTop property (Access)
 keywords: vbaac10.chm11311
 f1_keywords:
 - vbaac10.chm11311
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineStyleTop Property (Access)
+# ListBox.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified list box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

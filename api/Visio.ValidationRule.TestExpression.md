@@ -23,7 +23,7 @@ Gets or sets the logical expression that determines whether the target object sa
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

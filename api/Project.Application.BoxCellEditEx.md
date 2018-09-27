@@ -27,7 +27,7 @@ Sets the properties of an individual cell in a data template for a Network Diagr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of the data template containing the cell to edit.|
 | _Cell_|Required|**Long**|The cell to edit. Can be one of the  **[PjCell](Project.PjCell.md)** constants.|
@@ -45,7 +45,7 @@ Sets the properties of an individual cell in a data template for a Network Diagr
 | _Label_|Optional|**String**|Specifies the cell label.|
 | _DateFormat_|Optional|**Long**|Specifies the date format for the cell when  **FieldName** is a date field. Can be one of the **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

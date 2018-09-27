@@ -23,7 +23,7 @@ Closes the project version comparison report.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

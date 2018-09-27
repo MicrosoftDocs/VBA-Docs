@@ -23,7 +23,7 @@ Returns a  **Double** value that represents the width, in points, of the object.
  _expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

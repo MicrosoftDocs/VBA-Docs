@@ -23,7 +23,7 @@ Displays the  **Select Users or Groups** dialog box, where users can select reso
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

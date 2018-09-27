@@ -1,5 +1,5 @@
 ---
-title: Report.AllowLayoutView Property (Access)
+title: Report.AllowLayoutView property (Access)
 keywords: vbaac10.chm13855
 f1_keywords:
 - vbaac10.chm13855
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.AllowLayoutView Property (Access)
+# Report.AllowLayoutView property (Access)
 
 Gets or sets whether the specified report can be used in Layout View. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowLayoutView`
+_expression_. `AllowLayoutView`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

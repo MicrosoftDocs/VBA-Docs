@@ -14,7 +14,7 @@ Specifies an extrusion (three-dimensional) format.The  **msoPresetThreeDFormat**
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPresetThreeDFormatMixed**|-2|Not used.|
 |**msoThreeD1**|1|First 3-D format.|

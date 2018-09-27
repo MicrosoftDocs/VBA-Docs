@@ -31,11 +31,11 @@ For more information about the new functions, see the [Mode_Sngl](Excel.Workshee
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want to calculate the mode. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -27,11 +27,11 @@ Returns an individual  **MappedDataField** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdMappedDataFields**|The specified mapped data field.|
 
-### Return Value
+### Return value
 
 MappedDataField
 

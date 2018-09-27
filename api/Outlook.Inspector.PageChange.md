@@ -27,7 +27,7 @@ Occurs when the active form page changes, either programmatically or by user act
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ActivePageName_|Required| **String**|The name of the active page.|
 

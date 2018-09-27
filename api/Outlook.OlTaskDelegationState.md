@@ -17,7 +17,7 @@ Indicates the delegation state of a task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTaskDelegationAccepted**|2|The delegate accepted the task.|
 | **olTaskDelegationDeclined**|3|The delegate declined the task.|

@@ -14,7 +14,7 @@ Specifies the data type for a document property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPropertyTypeBoolean**|2|Boolean value.|
 |**msoPropertyTypeDate**|3|Date value.|

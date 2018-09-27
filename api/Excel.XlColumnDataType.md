@@ -14,7 +14,7 @@ Specifies how a column is to be parsed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDMYFormat**|4|DMY date format.|
 | **xlDYMFormat**|7|DYM date format.|

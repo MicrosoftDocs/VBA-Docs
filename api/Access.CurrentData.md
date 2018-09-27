@@ -1,5 +1,5 @@
 ---
-title: CurrentData Object (Access)
+title: CurrentData object (Access)
 keywords: vbaac10.chm12740
 f1_keywords:
 - vbaac10.chm12740
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData Object (Access)
+# CurrentData object (Access)
 
 The  **CurrentData** object refers to the objects stored in the current database by the source (server) application.
 

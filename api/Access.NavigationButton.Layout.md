@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Layout Property (Access)
+title: NavigationButton.Layout property (Access)
 keywords: vbaac10.chm10523
 f1_keywords:
 - vbaac10.chm10523
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Layout Property (Access)
+# NavigationButton.Layout property (Access)
 
 Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

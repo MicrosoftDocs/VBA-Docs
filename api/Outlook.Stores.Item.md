@@ -27,11 +27,11 @@ Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . R
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either an  **Integer** that specifies a one-based index into the **Stores** collection, or a **String** value that specifies the **[DisplayName](Outlook.Store.DisplayName.md)** of a **Store** in the **Stores** collection.|
 
-### Return Value
+### Return value
 
 A  **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as specified by _Index_ .
 

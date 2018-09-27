@@ -15,7 +15,7 @@ Specifies the output of a merge shapes operation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMergeCombine**|**2**|Creates a new shape from selected shapes. If the selected shapes overlap, the area where they overlap is cut out, or discarded. |
 |**msoMergeFragment**|**5**|Breaks a shape into smaller parts or create new shapes from intersecting lines or from shapes that overlap.|

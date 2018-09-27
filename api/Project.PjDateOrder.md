@@ -14,7 +14,7 @@ Contains constants that specify the order of a date value.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDayMonthYear**|0|Order is the day, the month, and then the year.|
 |**pjMonthDayYear**|1|Order is the month, the day, and then the year.|

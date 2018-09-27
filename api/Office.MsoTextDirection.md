@@ -14,7 +14,7 @@ Specifies the direction that text runs.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextDirectionLeftToRight**|1|Text runs left to right.|
 |**msoTextDirectionMixed**|-2|Return value only; indicates a combination of the other states. |

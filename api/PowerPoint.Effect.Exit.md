@@ -23,7 +23,7 @@ Determines whether the animation effect is an exit effect. Read/write.
  _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

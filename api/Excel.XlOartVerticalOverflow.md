@@ -14,7 +14,7 @@ Specifies the vertical overflow setting for a text frame.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlOartVerticalOverflowClip**|1|Hide text that does not fit vertically within the text frame.|
 | **xlOartVerticalOverflowEllipsis**|2|Hide text that does not fit vertically within the text frame, and add an ellipsis (...) at the end of the visible text.|

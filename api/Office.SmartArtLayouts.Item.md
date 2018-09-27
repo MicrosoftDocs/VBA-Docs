@@ -24,11 +24,11 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the  **SmartArtLayout** object.|
 
-### Return Value
+### Return value
 
 SmartArtLayout
 

@@ -14,7 +14,7 @@ Specifies target browser for documents viewed in a Web browser.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTargetBrowserIE4**|2|Microsoft Internet Explorer 4.0.|
 |**msoTargetBrowserIE5**|3|Microsoft Internet Explorer 5.|

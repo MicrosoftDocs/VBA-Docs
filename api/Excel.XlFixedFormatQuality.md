@@ -14,7 +14,7 @@ Specifies the quality of speadsheets saved in different fixed formats.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlQualityMinimum**|1|Minimum quality|
 | **xlQualityStandard**|0|Standard quality|

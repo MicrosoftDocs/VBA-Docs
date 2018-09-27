@@ -27,11 +27,11 @@ Marks a specified document as checked out and assigns edit privileges to the cur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The server path and name of the file.|
 
-### Return Value
+### Return value
 
 Nothing
 

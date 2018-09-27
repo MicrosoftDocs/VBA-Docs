@@ -27,7 +27,7 @@ Sets the languages for the translation service.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Language1_|Required|**Variant**|Specifies the language to translate from.|
 | _Language2_|Required|**Variant**|Specifies the langauge to translate to.|

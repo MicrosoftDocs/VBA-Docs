@@ -27,7 +27,7 @@ Returns a presentation from a local computer to a server, and sets the local fil
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional|**Boolean**|**True** saves the presentation to the server location. The default value is **False**.|
 | _Comments_|Optional|**Variant**|Comments for the revision of the presentation being checked in (only applies if SaveChanges equals  **True**).|

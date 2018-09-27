@@ -14,7 +14,7 @@ Specifies the Spanish speller modes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSpanishTuteoAndVoseo**|1|The Spanish spelling checker recognizes both tuteo and voseo verb forms.|
 | **wdSpanishTuteoOnly**|0|The Spanish spelling checker recognizes only tuteo verb forms.|

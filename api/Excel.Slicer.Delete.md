@@ -23,7 +23,7 @@ Deletes the slicer and removes it from the associated  **[Slicers](Excel.Slicers
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

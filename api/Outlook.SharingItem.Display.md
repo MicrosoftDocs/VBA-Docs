@@ -27,7 +27,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the **[SharingI
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
 

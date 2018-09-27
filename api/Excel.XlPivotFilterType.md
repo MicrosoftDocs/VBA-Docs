@@ -14,7 +14,7 @@ The type of filter applied.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBefore**|31|Filters for all dates before a specified date|
 | **xlBeforeOrEqualTo**|32|Filters for all dates on or before a specified date|

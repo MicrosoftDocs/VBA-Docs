@@ -27,7 +27,7 @@ Removes duplicate values from a range of values.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Columns_|Required| **Variant**|Array of indexes of the columns that contain the duplicate information. |
 | _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information.  **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|

@@ -1,5 +1,5 @@
 ---
-title: Module.Find Method (Access)
+title: Module.Find method (Access)
 keywords: vbaac10.chm12286
 f1_keywords:
 - vbaac10.chm12286
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Find Method (Access)
+# Module.Find method (Access)
 
 Finds specified text in a standard module or class module.
 
 
 ## Syntax
 
- _expression_. `Find`( ` _Target_`, ` _StartLine_`, ` _StartColumn_`, ` _EndLine_`, ` _EndColumn_`, ` _WholeWord_`, ` _MatchCase_`, ` _PatternSearch_` )
+_expression_. `Find`( ` _Target_`, ` _StartLine_`, ` _StartColumn_`, ` _EndLine_`, ` _EndColumn_`, ` _WholeWord_`, ` _MatchCase_`, ` _PatternSearch_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required|**String**|The text that you want to find.|
 | _StartLine_|Required|**Long**|The line on which to begin searching. If a match is found, the value of the  _StartLine_ argument is set to the line on which the beginning character of the matching text is found.|
@@ -38,7 +38,7 @@ Finds specified text in a standard module or class module.
 | _MatchCase_|Optional|**Boolean**|**True** results in a search for words with case matching the _Target_ argument. The default is **False**.|
 | _PatternSearch_|Optional|**Boolean**|**True** results in a search in which the _Target_ argument may contain wildcard characters such as an asterisk (*) or a question mark (?). The default is **False**.|
 
-### Return Value
+### Return value
 
 Boolean
 

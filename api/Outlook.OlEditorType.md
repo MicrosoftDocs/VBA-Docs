@@ -17,7 +17,7 @@ Specifies the editor type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olEditorHTML**|2|HTML editor|
 | **olEditorRTF**|3|Real Text Format (RTF) editor|

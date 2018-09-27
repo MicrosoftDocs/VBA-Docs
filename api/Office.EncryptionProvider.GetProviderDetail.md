@@ -27,11 +27,11 @@ Displays information about the encryption of the current document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _encprovdet_|Required|**EncryptionProviderDetail**|Specifies the encryption information that you want.|
 
-### Return Value
+### Return value
 
 Variant
 

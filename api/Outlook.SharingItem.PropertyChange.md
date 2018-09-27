@@ -24,7 +24,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Sha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property that was changed.|
 

@@ -27,12 +27,12 @@ Returns the file path to the specified built-in, hidden stencil used to populate
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StencilType_|Required| **[VisBuiltInStencilTypes](Visio.VisBuiltInStencilTypes.md)**|The stencil to retrieve. See Remarks for possible values.|
 | _MeasurementSystem_|Required| **[VisMeasurementSystem](Visio.vismeasurementsystem.md)**|The measurement system for the stencil.|
 
-### Return Value
+### Return value
 
  **String**
 

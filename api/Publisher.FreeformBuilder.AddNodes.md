@@ -27,7 +27,7 @@ Inserts a new segment at the end of the freeform that is being created, and adds
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
 |EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node. If SegmentType is  **msoSegmentLine**, EditingType must be  **msoEditingAuto**; otherwise, an error occurs.|

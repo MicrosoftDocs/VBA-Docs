@@ -14,7 +14,7 @@ Specifies the menu group that a command bar pop-up control belongs to when the m
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOLEMenuGroupContainer**|2|**Container** menu.|
 |**msoOLEMenuGroupEdit**|1|**Edit** menu.|

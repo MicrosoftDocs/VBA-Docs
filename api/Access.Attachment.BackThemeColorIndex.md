@@ -1,5 +1,5 @@
 ---
-title: Attachment.BackThemeColorIndex Property (Access)
+title: Attachment.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BackThemeColorIndex Property (Access)
+# Attachment.BackThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BackThemeColorIndex`
+_expression_. `BackThemeColorIndex`
 
- _expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
+_expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
 
 
 ## Remarks

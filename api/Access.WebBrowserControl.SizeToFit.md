@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.SizeToFit Method (Access)
+title: WebBrowserControl.SizeToFit method (Access)
 keywords: vbaac10.chm14352
 f1_keywords:
 - vbaac10.chm14352
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.SizeToFit Method (Access)
+# WebBrowserControl.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

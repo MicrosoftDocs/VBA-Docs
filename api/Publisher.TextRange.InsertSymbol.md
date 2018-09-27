@@ -27,12 +27,12 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a symb
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |FontName|Required| **String**|The name of the font that contains the symbol.|
 |CharIndex|Required| **Long**|The Unicode character for the specified symbol.|
 
-### Return Value
+### Return value
 
 TextRange
 

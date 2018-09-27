@@ -14,7 +14,7 @@ Specifies the type of placeholder.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPlaceholderBitmap**|9|Bitmap|
 |**ppPlaceholderBody**|2|Body|

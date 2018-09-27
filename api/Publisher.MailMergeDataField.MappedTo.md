@@ -23,7 +23,7 @@ Returns the name of the recipient field (column) in the master data source (comb
  _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
-### Return Value
+### Return value
 
 String
 

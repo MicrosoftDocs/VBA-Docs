@@ -1,5 +1,5 @@
 ---
-title: Control.SmartTags Property (Access)
+title: Control.SmartTags property (Access)
 keywords: vbaac10.chm10153
 f1_keywords:
 - vbaac10.chm10153
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.SmartTags Property (Access)
+# Control.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 
 
 ## Syntax
 
- _expression_. `SmartTags`
+_expression_. `SmartTags`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

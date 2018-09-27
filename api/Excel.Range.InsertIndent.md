@@ -27,7 +27,7 @@ Adds an indent to the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _InsertAmount_|Required| **Long**|The amount to be added to the current indent.|
 

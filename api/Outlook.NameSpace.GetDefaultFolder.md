@@ -27,11 +27,11 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of default folder to return.|
 
-### Return Value
+### Return value
 
 A  **Folder** object that represents the default folder of the requested type for the current profile.
 

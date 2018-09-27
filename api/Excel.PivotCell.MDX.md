@@ -23,7 +23,7 @@ Returns a tuple that provides the full MDX coordinates of the specified value ce
  _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

@@ -1,5 +1,5 @@
 ---
-title: Line.Parent Property (Access)
+title: Line.Parent property (Access)
 keywords: vbaac10.chm10323
 f1_keywords:
 - vbaac10.chm10323
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Parent Property (Access)
+# Line.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## See also

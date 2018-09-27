@@ -12,7 +12,7 @@ Specifies what the bubble size represents on a bubble chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSizeIsArea**|1|The area of the bubble.|
 | **xlSizeIsWidth**|2|The width of the bubble.|

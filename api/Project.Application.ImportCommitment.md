@@ -27,12 +27,12 @@ Imports the specified deliverable into a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CommitmentDate_|Optional|**Variant**|The commitment date of the deliverable.|
 | _CommitmentGuid_|Optional|**Variant**|The class identifier of the deliverable.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

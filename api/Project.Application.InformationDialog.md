@@ -27,11 +27,11 @@ Displays the  **Assignment Information**,  **Resource Information**, or  **Task 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tab_|Optional|**Long**|The tab to display in the ** Assignment Information**, **Resource Information**, or  **Task Information** dialog box.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

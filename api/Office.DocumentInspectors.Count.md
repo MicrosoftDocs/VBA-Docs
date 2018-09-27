@@ -23,7 +23,7 @@ Gets the number of items in the  **DocumentInspectors** object. Read-only.
  _expression_ An expression that returns a [DocumentInspectors](./Office.DocumentInspectors.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -30,7 +30,7 @@ Adds a member to the list of members in a shared workspace site. Returns a  **[S
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Email_|Required|**String**|The new member's e-mail address in the format user@domain.com. Raises an error if the user is not a valid candidate for membership in the shared workspace site.|
 | _DomainName_|Required|**String**|The new member's Windows user name in the format domain\user.|

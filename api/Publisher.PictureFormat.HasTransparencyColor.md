@@ -23,7 +23,7 @@ Returns a  **Boolean** that indicates whether a transparency color has been appl
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

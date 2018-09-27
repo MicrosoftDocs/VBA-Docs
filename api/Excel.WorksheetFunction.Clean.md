@@ -27,11 +27,11 @@ Removes all nonprintable characters from text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Any worksheet information from which you want to remove nonprintable characters.|
 
-### Return Value
+### Return value
 
 String
 

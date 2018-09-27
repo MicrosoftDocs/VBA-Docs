@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Caption Property (Access)
+title: ToggleButton.Caption property (Access)
 keywords: vbaac10.chm11701
 f1_keywords:
 - vbaac10.chm11701
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Caption Property (Access)
+# ToggleButton.Caption property (Access)
 
 Gets or sets the text that appears in the control. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

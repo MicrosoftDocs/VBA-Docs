@@ -27,7 +27,7 @@ Sets the specified fill to a pattern.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pattern_|Required|**MsoPatternType**|The pattern to be used for the specified fill. See Reamrks for possible values.|
 

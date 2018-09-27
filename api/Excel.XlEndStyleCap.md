@@ -14,7 +14,7 @@ Specifies the end style for error bars.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCap**|1|Caps applied.|
 | **xlNoCap**|2|No caps applied.|

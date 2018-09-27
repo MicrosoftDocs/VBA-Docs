@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Custom Property (Access)
+title: CustomControl.Custom property (Access)
 keywords: vbaac10.chm12047
 f1_keywords:
 - vbaac10.chm12047
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Custom Property (Access)
+# CustomControl.Custom property (Access)
 
 Returns or sets a **String** representing the custom properties dialog box for an ActiveX control. Read/write.
 
 
 ## Syntax
 
- _expression_. `Custom`
+_expression_. `Custom`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

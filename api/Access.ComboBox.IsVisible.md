@@ -1,5 +1,5 @@
 ---
-title: ComboBox.IsVisible Property (Access)
+title: ComboBox.IsVisible property (Access)
 keywords: vbaac10.chm11445
 f1_keywords:
 - vbaac10.chm11445
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.IsVisible Property (Access)
+# ComboBox.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

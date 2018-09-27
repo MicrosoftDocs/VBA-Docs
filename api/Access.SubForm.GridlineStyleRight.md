@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineStyleRight Property (Access)
+title: SubForm.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11972
 f1_keywords:
 - vbaac10.chm11972
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineStyleRight Property (Access)
+# SubForm.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified subform. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

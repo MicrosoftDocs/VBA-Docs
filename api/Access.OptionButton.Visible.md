@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Visible Property (Access)
+title: OptionButton.Visible property (Access)
 keywords: vbaac10.chm10574
 f1_keywords:
 - vbaac10.chm10574
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Visible Property (Access)
+# OptionButton.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -24,7 +24,7 @@ Private Sub  _expression_ _'MasterChanged'(**_ByVal Master As [IVMASTER]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Master_|Required| **[IVMASTER]**|The master whose properties changed.|
 

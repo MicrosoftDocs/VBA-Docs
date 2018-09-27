@@ -1,5 +1,5 @@
 ---
-title: DoCmd.TransferDatabase Method (Access)
+title: DoCmd.TransferDatabase method (Access)
 keywords: vbaac10.chm4188
 f1_keywords:
 - vbaac10.chm4188
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.TransferDatabase Method (Access)
+# DoCmd.TransferDatabase method (Access)
 
 The  **TransferDatabase** method carries out the TransferDatabase action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `TransferDatabase`( ` _TransferType_`, ` _DatabaseType_`, ` _DatabaseName_`, ` _ObjectType_`, ` _Source_`, ` _Destination_`, ` _StructureOnly_`, ` _StoreLogin_` )
+_expression_. `TransferDatabase`( ` _TransferType_`, ` _DatabaseType_`, ` _DatabaseName_`, ` _ObjectType_`, ` _Source_`, ` _Destination_`, ` _StructureOnly_`, ` _StoreLogin_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TransferType_|Optional|**[AcDataTransferType](Access.AcDataTransferType.md)**|The type of transfer you want to make.|
 | _DatabaseType_|Optional|**Variant**|A string expression that's the name of one of the types of databases you can use to import, export, or link data. The DatatbaseType parameter is required for exporting and link data actions but not required for importing actions. The types or databases are:<ul><li><p>Microsoft Access (default)  </p></li><li><p>Jet 2.x</p></li><li><p>Jet 3.x</p></li><li><p>dBase III</p></li><li><p>dBase IV</p></li><li><p>dBase 5.0</p></li><li><p>Paradox 3.x</p></li><li><p>Paradox 4.x</p></li><li><p>Paradox 5.x</p></li><li><p>Paradox 7.x</p></li><li><p>ODBC Database</p></li><li><p>WSS</p></li></ul>|

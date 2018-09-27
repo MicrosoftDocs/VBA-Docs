@@ -1,5 +1,5 @@
 ---
-title: TextBox.GridlineWidthLeft Property (Access)
+title: TextBox.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11160
 f1_keywords:
 - vbaac10.chm11160
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GridlineWidthLeft Property (Access)
+# TextBox.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies the format of an item on the Microsoft Windows clipboard.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlClipboardFormatBIFF**|8|Binary Interchange file format for Excel version 2.x|
 | **xlClipboardFormatBIFF12**|63|Binary Interchange file format 12|

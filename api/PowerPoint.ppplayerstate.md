@@ -15,7 +15,7 @@ Indicates the current state of the player.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPlaying**|0|Playing|
 |**ppPaused**|1|Paused|

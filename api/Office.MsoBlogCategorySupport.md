@@ -14,7 +14,7 @@ Specifies how many categories are supported by the provider.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlogMultipleCategories**|2|Multiple categories are supported.|
 |**msoBlogNoCategories**|0|No categories are supported.|

@@ -12,7 +12,7 @@ Specifies how pictures are displayed on a column, bar picture chart, or legend k
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlStack**|2|The picture is sized to repeat a maximum of 15 times in the longest stacked bar.|
 | **xlStackScale**|3|The picture is sized to a specified number of units and repeated the length of the bar.|

@@ -14,7 +14,7 @@ Specifies the state of a mail merge operation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDataSource**|5|A data source with no main document.|
 | **wdMainAndDataSource**|2|A main document with an attached data source.|

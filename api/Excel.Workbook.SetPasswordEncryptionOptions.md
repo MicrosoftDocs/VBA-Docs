@@ -27,7 +27,7 @@ Sets the options for encrypting workbooks using passwords.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PasswordEncryptionProvider_|Optional| **Variant**|A case sensitive string of the encryption provider.|
 | _PasswordEncryptionAlgorithm_|Optional| **Variant**|A case sensitive string of the algorithmic short name (i.e. "RC4").|

@@ -27,7 +27,7 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False** .|
 | _AddHistory_|Optional| **Variant**|Not used. Reserved for future use.|

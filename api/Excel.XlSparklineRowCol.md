@@ -14,7 +14,7 @@ Specifies how to plot the sparkline when the data on which it is based is in a s
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **SparklineColumnsSquare**|2|Plot the data by columns.|
 | **SparklineNonSquare**|0|The sparkline is not bound to data in a square-shaped range.|

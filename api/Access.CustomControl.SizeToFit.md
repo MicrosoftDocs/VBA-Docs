@@ -1,5 +1,5 @@
 ---
-title: CustomControl.SizeToFit Method (Access)
+title: CustomControl.SizeToFit method (Access)
 keywords: vbaac10.chm12001
 f1_keywords:
 - vbaac10.chm12001
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.SizeToFit Method (Access)
+# CustomControl.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

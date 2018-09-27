@@ -23,7 +23,7 @@ Creates a reply to all original recipients from the original message.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 

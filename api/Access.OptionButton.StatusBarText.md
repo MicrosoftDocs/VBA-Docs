@@ -1,5 +1,5 @@
 ---
-title: OptionButton.StatusBarText Property (Access)
+title: OptionButton.StatusBarText property (Access)
 keywords: vbaac10.chm10573
 f1_keywords:
 - vbaac10.chm10573
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.StatusBarText Property (Access)
+# OptionButton.StatusBarText property (Access)
 
 You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `StatusBarText`
+_expression_. `StatusBarText`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

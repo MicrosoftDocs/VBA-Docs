@@ -27,7 +27,7 @@ Adds an item to a list box or a combo box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The text to be added.|
 | _Index_|Optional| **Variant**|The position of the new entry. If the list has fewer entries than the specified index, blank items from the end of the list are added to the specified position. If this argument is omitted, the item is appended to the existing list.|

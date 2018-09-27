@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisStatCodes](Visio.visstatcodes.md)**
 

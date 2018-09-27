@@ -27,7 +27,7 @@ Private Sub  _expression_ _'XMLSelectionChange'(**_Sel_** , **_OldXMLNode_** , *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The text selected, including XML elements. If no text is selected, the Sel parameter returns either nothing or the first character to the right of the insertion point.|
 | _OldXMLNode_|Required| **XMLNode**|The XML node from which the insertion point is moving.|

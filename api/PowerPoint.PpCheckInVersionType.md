@@ -14,7 +14,7 @@ Constants that specify the type of version of the Microsoft PowerPoint file to b
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppCheckInMajorVersion**|1|Major version|
 |**ppCheckInMinorVersion**|0|Minor version|

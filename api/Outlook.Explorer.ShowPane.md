@@ -27,7 +27,7 @@ Displays or hides a specific pane in the explorer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pane_|Required| **[OlPane](Outlook.OlPane.md)**|The pane to display.|
 | _Visible_|Required| **Boolean**| **True** to make the pane visible, **False** to hide the pane.|

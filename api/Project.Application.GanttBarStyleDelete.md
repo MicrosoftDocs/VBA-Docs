@@ -27,11 +27,11 @@ Deletes a Gantt bar style from the active Gantt Chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**String**|**String**. The name or row number of the Gantt bar to delete from the **Bar Styles** dialog box.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

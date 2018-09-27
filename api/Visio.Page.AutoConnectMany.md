@@ -27,14 +27,14 @@ Automatically draws multiple connections in the specified directions between the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FromShapeIDs()_|Required| **Long**|An array of identifers of the shapes from which to draw a connection.|
 | _ToShapeIDs()_|Required| **Long**|An array of identifers of the shapes to which to draw a connection.|
 | _PlacementDirs()_|Required| **Long**|An array of  **[VisAutoConnectDir](Visio.visautoconnectdir.md)** constants that represent the directions in which to draw the connections. See Remarks for possible values.|
 | _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **[Shape](Visio.Shape.md)** , or **IDataObject** object.|
 
-### Return Value
+### Return value
 
  **Long**
 

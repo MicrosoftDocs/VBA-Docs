@@ -1,5 +1,5 @@
 ---
-title: Application.ExportXML Method (Access)
+title: Application.ExportXML method (Access)
 keywords: vbaac10.chm12609
 f1_keywords:
 - vbaac10.chm12609
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ExportXML Method (Access)
+# Application.ExportXML method (Access)
 
 The  **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
 
 
 ## Syntax
 
- _expression_. `ExportXML`( ` _ObjectType_`, ` _DataSource_`, ` _DataTarget_`, ` _SchemaTarget_`, ` _PresentationTarget_`, ` _ImageTarget_`, ` _Encoding_`, ` _OtherFlags_`, ` _WhereCondition_`, ` _AdditionalData_` )
+_expression_. `ExportXML`( ` _ObjectType_`, ` _DataSource_`, ` _DataTarget_`, ` _SchemaTarget_`, ` _PresentationTarget_`, ` _ImageTarget_`, ` _Encoding_`, ` _OtherFlags_`, ` _WhereCondition_`, ` _AdditionalData_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcExportXMLObjectType**| A **[AcExportXMLObjectType](Access.AcExportXMLObjectType.md)** that represents the type of **[AccessObject](Access.AccessObject.md)** object to export.|
 | _DataSource_|Required|**String**| The name of the **AccessObject** object to export. The default is the currently open object of the type specified by the _ObjectType_ argument.|
@@ -40,7 +40,7 @@ The  **ExportXML** method allows developers to export XML data, schemas, and pre
 | _WhereCondition_|Optional|**String**|Specifies a subset of records to be exported.|
 | _AdditionalData_|Optional|**Variant**|Specifies additional tables to export. This argument is ignored if the  _OtherFlags_ argument is set to **acLiveReportSource**.|
 
-### Return Value
+### Return value
 
 Nothing
 

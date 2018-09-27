@@ -23,7 +23,7 @@ Determines whether the specified presentation is printed in the background. Read
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

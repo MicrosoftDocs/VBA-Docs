@@ -23,7 +23,7 @@ Returns the MDX weight expression to use for this value when performing what-if 
  _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

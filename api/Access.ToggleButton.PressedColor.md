@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.PressedColor Property (Access)
+title: ToggleButton.PressedColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.PressedColor Property (Access)
+# ToggleButton.PressedColor property (Access)
 
 Gets or sets the color displayed on the control when the user clicks it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedColor`
+_expression_. `PressedColor`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

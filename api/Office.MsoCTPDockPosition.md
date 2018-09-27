@@ -14,7 +14,7 @@ Specifies the docking behavior of the custom task pane.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTPDockPositionBottom**|3|Dock the task pane at the bottom of the document window.|
 |**msoCTPDockPositionFloating**|4|Don't dock the task pane.|

@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineColor Property (Access)
+title: TabControl.GridlineColor property (Access)
 keywords: vbaac10.chm14549
 f1_keywords:
 - vbaac10.chm14549
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineColor Property (Access)
+# TabControl.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

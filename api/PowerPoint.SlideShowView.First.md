@@ -23,7 +23,7 @@ Sets the specified slide show view to display the first slide in the presentatio
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

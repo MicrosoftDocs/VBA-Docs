@@ -23,7 +23,7 @@ Returns  **True** if the specified publication should be viewed as a two-page sp
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

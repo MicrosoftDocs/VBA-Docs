@@ -27,11 +27,11 @@ Prints a single tile of a drawing page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nTile_|Required| **Long**|The number of tiles.|
 
-### Return Value
+### Return value
 
 Nothing
 

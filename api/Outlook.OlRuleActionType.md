@@ -17,7 +17,7 @@ Specifies the type of rule action for a rule.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olRuleActionAssignToCategory**|2|Rule action is to assign categories to the message.|
 | **olRuleActionCcMessage**|27|Rule action is to cc the message to specified recipients.|

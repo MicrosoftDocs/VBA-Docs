@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define how to apply the raster export flip; passed to and returned by the ApplicationSettings.RasterExportFlip property.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterNoFlip**|0|No flip, the default.|
 | **visRasterFlipHorizontal**|1|Flip horizontally.|

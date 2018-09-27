@@ -14,7 +14,7 @@ Specifies constants that define the different ways to add a new node to the data
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSmartArtNodeAbove**|4|Insert a node above the SmartArt node in the data model.|
 |**msoSmartArtNodeAfter**|2|Insert a node after the SmartArt node in the data model. Corresponds to clicking  **Add Shape After** in the SmartArt ribbon.|

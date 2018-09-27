@@ -24,7 +24,7 @@ Gets the duration between two dates in minutes, using the effective calendar for
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|Arbitrary start date and time, for example, "7/10/2010" or "7/10/2010 2:00:00 PM".|
 | _FinishDate_|Required|**Variant**|Arbitrary finish date and time.|

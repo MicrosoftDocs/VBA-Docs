@@ -27,7 +27,7 @@ Occurs when the user presses an ANSI key.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required| **Long**|The numerical value of the key pressed.|
 

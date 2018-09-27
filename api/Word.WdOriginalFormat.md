@@ -14,7 +14,7 @@ Specifies the document format. This enumeration is commonly used when saving a d
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOriginalDocumentFormat**|1|Original document format.|
 | **wdPromptUser**|2|Prompt user to select a document format.|

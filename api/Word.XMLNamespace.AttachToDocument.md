@@ -27,7 +27,7 @@ Attaches an XML schema to a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Document_|Required| **Document**|The document to which to attach the specified XML schema.|
 

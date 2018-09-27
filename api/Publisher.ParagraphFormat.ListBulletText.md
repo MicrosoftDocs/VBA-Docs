@@ -23,7 +23,7 @@ Returns a  **String** representing the list bullet text from the specified parag
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return Value
+### Return value
 
 String
 

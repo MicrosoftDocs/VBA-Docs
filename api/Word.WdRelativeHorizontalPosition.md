@@ -14,7 +14,7 @@ Specifies to what the horizontal position of a frame, a shape, or a group of row
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRelativeHorizontalPositionCharacter**|3|Relative to character.|
 | **wdRelativeHorizontalPositionColumn**|2|Relative to column.|

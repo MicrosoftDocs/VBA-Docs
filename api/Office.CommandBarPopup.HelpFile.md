@@ -23,7 +23,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarPopup
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

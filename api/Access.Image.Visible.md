@@ -1,5 +1,5 @@
 ---
-title: Image.Visible Property (Access)
+title: Image.Visible property (Access)
 keywords: vbaac10.chm10374
 f1_keywords:
 - vbaac10.chm10374
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Visible Property (Access)
+# Image.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

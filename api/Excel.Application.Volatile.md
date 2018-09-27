@@ -27,7 +27,7 @@ Marks a user-defined function as volatile. A volatile function must be recalcula
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Volatile_|Optional| **Variant**| **True** to mark the function as volatile. **False** to mark the function as nonvolatile. The default value is **True**|
 

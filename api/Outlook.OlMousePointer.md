@@ -17,7 +17,7 @@ Specifies the mouse cursor that is displayed while the mouse is positioned over 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMousePointerAppStarting**|13|The cursor is the arrow and the hourglass, representing that the application is starting.|
 | **olMousePointerArrow**|1|The cursor is the standard arrow.|

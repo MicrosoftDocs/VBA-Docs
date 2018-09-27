@@ -1,5 +1,5 @@
 ---
-title: CommandButton.GridlineThemeColorIndex Property (Access)
+title: CommandButton.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.GridlineThemeColorIndex Property (Access)
+# CommandButton.GridlineThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineThemeColorIndex`
+_expression_. `GridlineThemeColorIndex`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

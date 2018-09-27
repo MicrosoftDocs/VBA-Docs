@@ -1,5 +1,5 @@
 ---
-title: Application.FollowHyperlink Method (Access)
+title: Application.FollowHyperlink method (Access)
 keywords: vbaac10.chm12561
 f1_keywords:
 - vbaac10.chm12561
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FollowHyperlink Method (Access)
+# Application.FollowHyperlink method (Access)
 
 The  **FollowHyperlink** method opens the document or Web page specified by a hyperlink address.
 
 
 ## Syntax
 
- _expression_. `FollowHyperlink`( ` _Address_`, ` _SubAddress_`, ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Method_`, ` _HeaderInfo_` )
+_expression_. `FollowHyperlink`( ` _Address_`, ` _SubAddress_`, ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Method_`, ` _HeaderInfo_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Required|**String**|A string expression that evaluates to a valid hyperlink address.|
 | _SubAddress_|Optional|**String**| A string expression that evaluates to a named location in the document specified by the _address_ argument. The default is a zero-length string (" ").|

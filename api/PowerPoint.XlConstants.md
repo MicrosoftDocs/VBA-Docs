@@ -14,7 +14,7 @@ Specifies a miscellaneous constant in Microsoft Word.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xl3DBar**|-4099|Three-dimensional bar chart group or series.|
 |**xl3DSurface**|-4103|Three-dimensional surface chart group or series.|

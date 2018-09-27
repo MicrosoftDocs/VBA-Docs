@@ -27,7 +27,7 @@ Looks up a name in the global address book list and displays the  **Properties**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|A name in the global address book.|
 

@@ -1,5 +1,5 @@
 ---
-title: Module.CreateEventProc Method (Access)
+title: Module.CreateEventProc method (Access)
 keywords: vbaac10.chm12285
 f1_keywords:
 - vbaac10.chm12285
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.CreateEventProc Method (Access)
+# Module.CreateEventProc method (Access)
 
 The  **CreateEventProc** method creates an event procedure in a class module.
 
 
 ## Syntax
 
- _expression_. `CreateEventProc`( ` _EventName_`, ` _ObjectName_` )
+_expression_. `CreateEventProc`( ` _EventName_`, ` _ObjectName_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventName_|Required|**String**|The name of an event.|
 | _ObjectName_|Required|**String**|An object that has the event specified by the  _eventname_ argument. If the event procedure is being added to a **[Form](Access.Form.md)**, the word "Form" should be specified for this argument. If the event procedure is being added to a **[Report](Access.Report.md)**, the word "Report" should be specified for this argument. If the event procedure is being added to a **[Control](Access.Control.md)**, the name of the control should be specified for this argument.|
 
-### Return Value
+### Return value
 
 Long
 

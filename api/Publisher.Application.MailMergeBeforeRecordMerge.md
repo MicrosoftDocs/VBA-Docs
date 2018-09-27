@@ -27,7 +27,7 @@ Occurs as a merge is executed for the individual records in a merge.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The mail merge main document.|
 |Cancel|Required| **Boolean**|Stops the mail merge process, for the current record only, before it starts.|

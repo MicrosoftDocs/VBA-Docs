@@ -27,7 +27,7 @@ Fills the specified shape with an image.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PictureFile_|Required| **String**|The file path to the picture file, or the name of the picture file if a link to the picture file currently exists.|
 

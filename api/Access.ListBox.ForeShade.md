@@ -1,5 +1,5 @@
 ---
-title: ListBox.ForeShade Property (Access)
+title: ListBox.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ForeShade Property (Access)
+# ListBox.ForeShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `ForeShade`
+_expression_. `ForeShade`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

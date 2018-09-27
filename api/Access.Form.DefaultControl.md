@@ -1,5 +1,5 @@
 ---
-title: Form.DefaultControl Property (Access)
+title: Form.DefaultControl property (Access)
 keywords: vbaac10.chm13494
 f1_keywords:
 - vbaac10.chm13494
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DefaultControl Property (Access)
+# Form.DefaultControl property (Access)
 
 The  **DefaultControl** property returns a **[Control](Access.Control.md)** object with which you can set the default properties for a particular type of control on a particular form. Read-only.
 
 
 ## Syntax
 
- _expression_. `DefaultControl`( ` _ControlType_` )
+_expression_. `DefaultControl`( ` _ControlType_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlType_|Required|**Long**|An  **[AcControlType](Access.AcControlType.md)** constant that indicates the type of control for which default property settings are to be set.|
 

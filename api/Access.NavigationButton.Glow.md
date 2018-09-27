@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Glow Property (Access)
+title: NavigationButton.Glow property (Access)
 keywords: vbaac10.chm14630
 f1_keywords:
 - vbaac10.chm14630
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Glow Property (Access)
+# NavigationButton.Glow property (Access)
 
 Gets or sets the Glow effect applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Glow`
+_expression_. `Glow`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

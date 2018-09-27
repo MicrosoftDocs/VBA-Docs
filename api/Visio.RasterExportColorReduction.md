@@ -23,7 +23,7 @@ Determines the color reduction that is applied to the exported image when you ca
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisRasterExportColorReduction](Visio.VisRasterExportColorReduction.md)**
 

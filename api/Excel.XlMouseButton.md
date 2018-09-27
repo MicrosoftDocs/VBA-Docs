@@ -14,7 +14,7 @@ Specifies which mouse button was pressed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlNoButton**|0|No button was pressed.|
 | **xlPrimaryButton**|1|The primary button (normally the left mouse button) was pressed.|

@@ -27,12 +27,12 @@ Occurs after changes to a PivotTable.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The worksheet that contains the PivotTable.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that was changed.|
 
-### Return Value
+### Return value
 
 Nothing
 

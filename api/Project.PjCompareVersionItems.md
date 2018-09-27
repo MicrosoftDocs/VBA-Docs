@@ -14,7 +14,7 @@ Contains constants that specify how to compare items when comparing two project 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCompareVersionItemsAllDifferences**|0|Show all differences.|
 |**pjCompareVersionItemsAllItems**|6|Show all items.|

@@ -30,11 +30,11 @@ Breaks the link between the shape and the data row to which it is linked in the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data row the shape is linked to.|
 
-### Return Value
+### Return value
 
 Nothing
 

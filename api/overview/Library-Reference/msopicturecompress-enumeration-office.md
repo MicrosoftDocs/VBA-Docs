@@ -12,7 +12,7 @@ Specifies whether a picture will be compressed or not when inserted into a file.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPictureCompressDocDefault**|-1|The picture is compressed or not depending on the settings for the document.|
 |**msoPictureCompressFalse**|0|The picture is not compressed.|

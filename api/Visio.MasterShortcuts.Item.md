@@ -27,11 +27,11 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|Contains the name, unique ID, or index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 MasterShortcut
 

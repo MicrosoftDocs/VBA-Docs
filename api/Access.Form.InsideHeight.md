@@ -1,5 +1,5 @@
 ---
-title: Form.InsideHeight Property (Access)
+title: Form.InsideHeight property (Access)
 keywords: vbaac10.chm13475
 f1_keywords:
 - vbaac10.chm13475
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.InsideHeight Property (Access)
+# Form.InsideHeight property (Access)
 
 You can use the  **InsideHeight** property (along with the **InsideWidth** property) to determine the height and width (in twips) of the window containing a form. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

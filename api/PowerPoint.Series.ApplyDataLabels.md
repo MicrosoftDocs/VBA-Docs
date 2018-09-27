@@ -25,7 +25,7 @@ Applies data labels to a series.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**[XlDataLabelsType](PowerPoint.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default is **False**.|

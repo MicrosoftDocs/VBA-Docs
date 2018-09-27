@@ -27,11 +27,11 @@ Adds a new  **Addon** object to an **Addons** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the add-on.|
 
-### Return Value
+### Return value
 
 Addon
 

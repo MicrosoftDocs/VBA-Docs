@@ -1,5 +1,5 @@
 ---
-title: DoCmd.ShowToolbar Method (Access)
+title: DoCmd.ShowToolbar method (Access)
 keywords: vbaac10.chm4185
 f1_keywords:
 - vbaac10.chm4185
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.ShowToolbar Method (Access)
+# DoCmd.ShowToolbar method (Access)
 
 The  **ShowToolbar** method carries out the ShowToolbar action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `ShowToolbar`( ` _ToolbarName_`, ` _Show_` )
+_expression_. `ShowToolbar`( ` _ToolbarName_`, ` _Show_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ToolbarName_|Required|**Variant**|A string expression that's the valid name of a custom toolbar you've created. If you run Visual Basic code containing the  **ShowToolbar** method in a library database, Microsoft Access looks for the toolbar with this name first in the library database, then in the current database.|
 | _Show_|Optional|**AcShowToolbar**| An[AcShowToolbar](Access.AcShowToolbar.md) constant that specifies whether to display or hide the toolbar and in which views to display or hide it. The default value is **acToolbarYes**.|

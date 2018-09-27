@@ -24,11 +24,11 @@ Verifies whether the Project Web App URL belongs to a trusted site in the user's
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _URL_|Required|**String**|The URL of Project Web App.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

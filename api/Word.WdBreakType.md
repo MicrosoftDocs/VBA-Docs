@@ -14,7 +14,7 @@ Specifies type of break.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdColumnBreak**|8|Column break at the insertion point.|
 | **wdLineBreak**|6|Line break.|

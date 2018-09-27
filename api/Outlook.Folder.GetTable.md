@@ -27,12 +27,12 @@ Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filter_|Optional| **String**|A filter in Microsft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent  **Folder** .|
 | _TableContents_|Optional| **[OlTableContents](Outlook.OlTableContents.md)**|Specifies the type of items in the folder that  **GetTable** returns. The default is **olUserItems**.|
 
-### Return Value
+### Return value
 
 A  **Table** that contains items in the parent **[Folder](Outlook.Folder.md)** that meet the criteria in _Filter_ . By default, _TableContents_ is **olUserItems** and the returned **Table** contains only the filtered items that are not hidden.
 

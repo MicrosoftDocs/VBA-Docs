@@ -14,7 +14,7 @@ Specifies the time period.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLast7Days**|2|Last 7 days|
 | **xlLastMonth**|5|Last month|

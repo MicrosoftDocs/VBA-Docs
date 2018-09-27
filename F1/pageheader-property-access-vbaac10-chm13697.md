@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.PageHeader Property (Access)](http://msdn.microsoft.com/library/9f9fe114-b5a5-39c7-d2c0-39453948ace6%28Office.15%29.aspx)
+[Report.PageHeader property (Access)](http://msdn.microsoft.com/library/9f9fe114-b5a5-39c7-d2c0-39453948ace6%28Office.15%29.aspx)
 

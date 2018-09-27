@@ -27,7 +27,7 @@ Occurs when the selection of text, a shape, or a slide in the active document wi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required|**Selection**|Represents the object selected.|
 

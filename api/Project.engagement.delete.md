@@ -18,7 +18,7 @@ Deletes an Engagement object to the resource plan view. Introduced in Office 201
  _expression_ A variable that represents a 'Engagement' object.
 
 
-### Return Value
+### Return value
 
  **VOID**
 

@@ -26,7 +26,7 @@ Returns the  **DataRecordsets** collection contained in the document. Read-only.
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 DataRecordsets
 

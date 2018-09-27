@@ -23,7 +23,7 @@ Determines whether to display the  **New Presentation** task pane when Microsoft
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

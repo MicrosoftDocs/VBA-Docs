@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ListIndex Property (Access)
+title: ComboBox.ListIndex property (Access)
 keywords: vbaac10.chm11444
 f1_keywords:
 - vbaac10.chm11444
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ListIndex Property (Access)
+# ComboBox.ListIndex property (Access)
 
 You can use the  **ListIndex** property to determine which item is selected in a combo box. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ListIndex`
+_expression_. `ListIndex`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

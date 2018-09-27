@@ -24,12 +24,12 @@ Gets information about a custom Document Inspector module.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|Represents the name of the module.|
 | _Desc_|Required|**String**|Represents the description of the module.|
 
-### Return Value
+### Return value
 
 [HRESULT]
 

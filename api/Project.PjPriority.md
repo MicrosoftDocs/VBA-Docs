@@ -14,7 +14,7 @@ The  **PjPriority** enumeration is obsolete and should not be used. Actual task 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjPriorityDoNotLevel**|9|Do not level.|
 |**pjPriorityHigh**|5|High priority.|

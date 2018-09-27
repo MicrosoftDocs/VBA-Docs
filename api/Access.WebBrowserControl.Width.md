@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Width Property (Access)
+title: WebBrowserControl.Width property (Access)
 keywords: vbaac10.chm14372
 f1_keywords:
 - vbaac10.chm14372
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Width Property (Access)
+# WebBrowserControl.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

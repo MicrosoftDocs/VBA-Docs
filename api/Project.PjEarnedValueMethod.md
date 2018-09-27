@@ -14,7 +14,7 @@ Contains constants that specify the way that earned value is calculated.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjPercentComplete**|0|Percent complete.|
 |**pjPhysicalPercentComplete**|1|Percent complete physically.|

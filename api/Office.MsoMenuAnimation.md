@@ -14,7 +14,7 @@ Specifies animation style for Microsoft Office command bars.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMenuAnimationNone**|0|No animation.|
 |**msoMenuAnimationRandom**|1|Random animation.|

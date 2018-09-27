@@ -26,7 +26,7 @@ Gets or sets the text in the display or edit portion of the  **CommandBarComboBo
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

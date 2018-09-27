@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ShapeLinkAdded'(**_ByVal Shape As [IVSHAPE]_** , **_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required| **[IVSHAPE]**|The shape that is linked to data.|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data row linked to the shape.|

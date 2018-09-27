@@ -27,11 +27,11 @@ Returns a Frame object that represents a new frame added to a range, selection, 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **[RANGE]**|The range that you want the frame to surround.|
 
-### Return Value
+### Return value
 
 Frame
 

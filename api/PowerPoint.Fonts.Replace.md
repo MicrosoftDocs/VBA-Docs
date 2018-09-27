@@ -27,7 +27,7 @@ Replaces a font in the  **Fonts** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Original_|Required|**String**|The name of the font to replace.|
 | _Replacement_|Required|**String**|The name of the replacement font.|

@@ -14,7 +14,7 @@ Contains constants that specify the shape of a task bar on a Gantt chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjArrowDown**|14|Arrow pointing down.|
 |**pjArrowUp**|8|Arrow pointing up.|

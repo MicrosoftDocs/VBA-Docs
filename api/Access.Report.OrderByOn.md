@@ -1,5 +1,5 @@
 ---
-title: Report.OrderByOn Property (Access)
+title: Report.OrderByOn property (Access)
 keywords: vbaac10.chm13693
 f1_keywords:
 - vbaac10.chm13693
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OrderByOn Property (Access)
+# Report.OrderByOn property (Access)
 
 You can use the  **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `OrderByOn`
+_expression_. `OrderByOn`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

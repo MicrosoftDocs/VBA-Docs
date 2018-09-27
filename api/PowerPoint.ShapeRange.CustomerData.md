@@ -23,7 +23,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object.
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 CustomerData
 

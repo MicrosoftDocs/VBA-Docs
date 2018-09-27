@@ -17,7 +17,7 @@ Represents the design of the specified Web navigation bar set.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbnbDesignAmbient**|2|Ambient|
 | **pbnbDesignBaseline**|26|Baseline|

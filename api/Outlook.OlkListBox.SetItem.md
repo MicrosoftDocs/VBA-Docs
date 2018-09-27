@@ -27,7 +27,7 @@ Sets the item at the specified location in the list to the specified value.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value that specifies the location of an item in the list.|
 | _Item_|Required| **String**|The value to be used to update the list at the specified location.|

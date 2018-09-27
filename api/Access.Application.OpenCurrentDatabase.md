@@ -1,5 +1,5 @@
 ---
-title: Application.OpenCurrentDatabase Method (Access)
+title: Application.OpenCurrentDatabase method (Access)
 keywords: vbaac10.chm12601
 f1_keywords:
 - vbaac10.chm12601
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OpenCurrentDatabase Method (Access)
+# Application.OpenCurrentDatabase method (Access)
 
 You can use the  **OpenCurrentDatabase** method to open an existing Microsoft Access database as the current database.
 
 
 ## Syntax
 
- _expression_. `OpenCurrentDatabase`( ` _filepath_`, ` _Exclusive_`, ` _bstrPassword_` )
+_expression_. `OpenCurrentDatabase`( ` _filepath_`, ` _Exclusive_`, ` _bstrPassword_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|The name of an existing database file, including the path name and the file name extension.|
 | _Exclusive_|Optional|**Boolean**|Specifies whether you want to open the database in exclusive mode. The default value is  **False**, which specifies that the database should be opened in shared mode.|
 | _bstrPassword_|Optional|**String**|The password to open the specified database.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -14,7 +14,7 @@ Specifies the appearance of the mouse pointer in Excel.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDefault**|-4143|The default pointer.|
 | **xlIBeam**|3|The I-beam pointer.|

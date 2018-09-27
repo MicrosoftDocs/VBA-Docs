@@ -27,12 +27,12 @@ Creates a formatted AutoCorrect entry, preserving all text attributes of the spe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text to replace automatically with Range.|
 | _Range_|Required| **Range**|The formatted text that Word will insert automatically whenever Name is typed.|
 
-### Return Value
+### Return value
 
 AutoCorrectEntry
 

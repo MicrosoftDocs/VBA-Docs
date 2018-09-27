@@ -27,11 +27,11 @@ Returns the hyperbolic tangent of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - any real number.|
 
-### Return Value
+### Return value
 
 Double
 

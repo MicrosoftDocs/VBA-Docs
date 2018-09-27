@@ -27,7 +27,7 @@ Converts the specified OLE object from one class to another, making it possible 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|The name of the application used to activate the OLE object. You can see a list of the available applications in the  **Object type** box on the **Create New** tab in the **Object** dialog box. You can find the ClassType string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the OLE object as an icon. The default value is **False** .|

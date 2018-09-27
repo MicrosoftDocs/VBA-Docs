@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineWidthTop Property (Access)
+title: ToggleButton.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11789
 f1_keywords:
 - vbaac10.chm11789
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineWidthTop Property (Access)
+# ToggleButton.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified toggle button. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

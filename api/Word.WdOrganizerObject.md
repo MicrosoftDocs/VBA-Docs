@@ -14,7 +14,7 @@ Specifies the type of object used by a delete, copy, or rename action.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOrganizerObjectAutoText**|1|An AutoText item.|
 | **wdOrganizerObjectCommandBars**|2|A command bar item.|

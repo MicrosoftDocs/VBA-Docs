@@ -1,5 +1,5 @@
 ---
-title: ComboBox.GridlineTint Property (Access)
+title: ComboBox.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.GridlineTint Property (Access)
+# ComboBox.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineTint`
+_expression_. `GridlineTint`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

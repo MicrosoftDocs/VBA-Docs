@@ -1,5 +1,5 @@
 ---
-title: Report.GroupLevel Property (Access)
+title: Report.GroupLevel property (Access)
 keywords: vbaac10.chm13790
 f1_keywords:
 - vbaac10.chm13790
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.GroupLevel Property (Access)
+# Report.GroupLevel property (Access)
 
 You can use the  **GroupLevel** property in Visual Basic to refer to the group level you are grouping or sorting on in a report. Read-only **GroupLevel** object.
 
 
 ## Syntax
 
- _expression_. `GroupLevel`( ` _Index_` )
+_expression_. `GroupLevel`( ` _Index_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The group level, starting with 0. The first field or expression you group on is group level 0, the second is group level 1, and so on.|
 

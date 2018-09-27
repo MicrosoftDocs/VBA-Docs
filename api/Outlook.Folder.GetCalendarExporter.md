@@ -23,7 +23,7 @@ Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the spec
  _expression_ An expression that returns a [Folder](./Outlook.Folder.md) object.
 
 
-### Return Value
+### Return value
 
 A  **CalendarSharing** object for the specified folder.
 

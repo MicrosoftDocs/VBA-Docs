@@ -17,7 +17,7 @@ Represents the field type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbFieldDateTime**|4|Date and time|
 | **pbFieldHyperlinkAbsolutePage**|11| Absolute page hyperlink|

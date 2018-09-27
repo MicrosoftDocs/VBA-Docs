@@ -14,7 +14,7 @@ Specifies the number form setting for an OpenType font.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNumberFormDefault**|0|Applies the default number form for the font.|
 | **wdNumberFormLining**|1|Applies the lining number form to the font.|

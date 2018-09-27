@@ -1,5 +1,5 @@
 ---
-title: Form Object (Access)
+title: Form object (Access)
 keywords: vbaac10.chm13686
 f1_keywords:
 - vbaac10.chm13686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Form Object (Access)
+# Form object (Access)
 
 A  **Form** object refers to a particular Microsoft Access form.
 

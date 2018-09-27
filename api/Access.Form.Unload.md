@@ -1,5 +1,5 @@
 ---
-title: Form.Unload Event (Access)
+title: Form.Unload event (Access)
 keywords: vbaac10.chm13644
 f1_keywords:
 - vbaac10.chm13644
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Unload Event (Access)
+# Form.Unload event (Access)
 
 The  **Unload** event occurs after a form is closed but before it's removed from the screen. When the form is reloaded, Microsoft Access redisplays the form and reinitializes the contents of all its controls.
 
 
 ## Syntax
 
- _expression_. `Unload`( ` _Cancel_`, )
+_expression_. `Unload`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set to  **True** to cancel the **Unload** event.|
 

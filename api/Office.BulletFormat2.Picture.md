@@ -24,7 +24,7 @@ Sets the graphics file to be used for bullets in a bulleted list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The file name of a valid graphics file.|
 

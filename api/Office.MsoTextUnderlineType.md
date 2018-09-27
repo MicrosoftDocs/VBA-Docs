@@ -14,7 +14,7 @@ Indicates the type of underline for text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoNoUnderline**|0|Specifies no underline.|
 |**msoUnderlineDashHeavyLine**|8|Specifies a dash underline.|

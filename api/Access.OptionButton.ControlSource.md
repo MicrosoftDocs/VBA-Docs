@@ -1,5 +1,5 @@
 ---
-title: OptionButton.ControlSource Property (Access)
+title: OptionButton.ControlSource property (Access)
 keywords: vbaac10.chm10569
 f1_keywords:
 - vbaac10.chm10569
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.ControlSource Property (Access)
+# OptionButton.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlSource`
+_expression_. `ControlSource`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

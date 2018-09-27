@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineStyleLeft Property (Access)
+title: Image.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm10417
 f1_keywords:
 - vbaac10.chm10417
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineStyleLeft Property (Access)
+# Image.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified image. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Form.Painting Property (Access)
+title: Form.Painting property (Access)
 keywords: vbaac10.chm13416
 f1_keywords:
 - vbaac10.chm13416
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Painting Property (Access)
+# Form.Painting property (Access)
 
 You can use the  **Painting** property to specify whether a form is repainted. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Painting`
+_expression_. `Painting`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.PressedForeColor Property (Access)
+title: NavigationButton.PressedForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.PressedForeColor Property (Access)
+# NavigationButton.PressedForeColor property (Access)
 
 Gets or sets the color of the text displayed on the control when the user clicks it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedForeColor`
+_expression_. `PressedForeColor`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

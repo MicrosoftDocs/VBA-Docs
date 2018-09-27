@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineWidthTop Property (Access)
+title: CheckBox.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10777
 f1_keywords:
 - vbaac10.chm10777
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineWidthTop Property (Access)
+# CheckBox.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified check box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

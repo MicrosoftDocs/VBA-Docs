@@ -1,5 +1,5 @@
 ---
-title: CommandButton.PressedForeColor Property (Access)
+title: CommandButton.PressedForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.PressedForeColor Property (Access)
+# CommandButton.PressedForeColor property (Access)
 
 Gets or sets the color of the text displayed on the control when the user clicks it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedForeColor`
+_expression_. `PressedForeColor`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

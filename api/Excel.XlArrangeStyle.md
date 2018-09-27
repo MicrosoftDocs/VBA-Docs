@@ -14,7 +14,7 @@ Specifies how windows are arranged on the screen.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlArrangeStyleCascade**|7|Windows are cascaded.|
 | **xlArrangeStyleHorizontal**|-4128|Windows are arranged horizontally.|

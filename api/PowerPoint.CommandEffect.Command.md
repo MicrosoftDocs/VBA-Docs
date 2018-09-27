@@ -23,7 +23,7 @@ Represents the command to be executed for the command effect. Read/write.
  _expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEffect.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

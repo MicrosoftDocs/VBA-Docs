@@ -27,7 +27,7 @@ Collapses the text under the selection or the specified range by one heading lev
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Range object**|The range of paragraphs to be collapsed. If this argument is omitted, the entire selection is collapsed.|
 

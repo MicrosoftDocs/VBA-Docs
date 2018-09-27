@@ -17,7 +17,7 @@ Represents how text flows in a text box.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTextOrientationHorizontal**|1|Horizontal text orientation|
 | **pbTextOrientationMixed**|-2|Mixed text orientation|

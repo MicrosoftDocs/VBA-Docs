@@ -14,7 +14,7 @@ Specifies the way that an object is attached to its underlying cells.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFreeFloating**|3|Object is free floating.|
 | **xlMove**|2|Object is moved with the cells.|

@@ -1,5 +1,5 @@
 ---
-title: TabControl.ThemeFontIndex Property (Access)
+title: TabControl.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.ThemeFontIndex Property (Access)
+# TabControl.ThemeFontIndex property (Access)
 
 Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ThemeFontIndex`
+_expression_. `ThemeFontIndex`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

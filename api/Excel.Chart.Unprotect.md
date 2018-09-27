@@ -27,7 +27,7 @@ Removes protection from a sheet or workbook. This method has no effect if the sh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Password_|Optional| **Variant**|A string that denotes the case-sensitive password to use to unprotect the chart. If the chart isn't protected with a password, this argument is ignored.|
 

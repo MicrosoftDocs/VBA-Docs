@@ -27,13 +27,13 @@ Returns a  **Footnote** object that represents a footnote added to a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range marked for the endnote or footnote. This can be a collapsed range.|
 | _Reference_|Optional| **Variant**|The text for the custom reference mark. If this argument is omitted, Microsoft Word inserts an automatically-numbered reference mark.|
 | _Text_|Optional| **Variant**|The text of the endnote or footnote.|
 
-### Return Value
+### Return value
 
 Footnote
 

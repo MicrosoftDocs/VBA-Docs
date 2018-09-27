@@ -1,5 +1,5 @@
 ---
-title: Application.EuroConvert Method (Access)
+title: Application.EuroConvert method (Access)
 keywords: vbaac10.chm12591
 f1_keywords:
 - vbaac10.chm12591
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EuroConvert Method (Access)
+# Application.EuroConvert method (Access)
 
 You can use the  **EuroConvert** function to convert a number to euro or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
 
 
 ## Syntax
 
- _expression_. `EuroConvert`( ` _Number_`, ` _SourceCurrency_`, ` _TargetCurrency_`, ` _FullPrecision_`, ` _TriangulationPrecision_` )
+_expression_. `EuroConvert`( ` _Number_`, ` _SourceCurrency_`, ` _TargetCurrency_`, ` _FullPrecision_`, ` _TriangulationPrecision_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Number_|Required|**Double**|The number you want to convert, or a reference to a field containing the number.|
 | _SourceCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the International Standards Organization (ISO) acronym for the currency you want to convert. Can be one of the ISO codes listed in the Remarks section.|
@@ -35,7 +35,7 @@ You can use the  **EuroConvert** function to convert a number to euro or from eu
 | _FullPrecision_|Optional|**Variant**|A  **Boolean** value where **True** (1) ignores the currency-specific rounding rules (called display precision in _sourcecurrency_ argument description) and uses the 6-significant-digit conversion factor with no follow-up rounding. **False** (0) uses the currency-specific rounding rules to display the result. If the parameter is omitted, the default value is **False**.|
 | _TriangulationPrecision_|Optional|**Variant**|An  **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national currencies.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.EventProcPrefix Property (Access)
+title: EmptyCell.EventProcPrefix property (Access)
 keywords: vbaac10.chm14302
 f1_keywords:
 - vbaac10.chm14302
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.EventProcPrefix Property (Access)
+# EmptyCell.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

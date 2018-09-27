@@ -1,5 +1,5 @@
 ---
-title: TempVars Object (Access)
+title: TempVars object (Access)
 keywords: vbaac10.chm14073
 f1_keywords:
 - vbaac10.chm14073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVars Object (Access)
+# TempVars object (Access)
 
 Represents the collection of  **[TempVar](Access.TempVar.md)** objects.
 

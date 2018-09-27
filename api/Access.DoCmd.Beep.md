@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Beep Method (Access)
+title: DoCmd.Beep method (Access)
 keywords: vbaac10.chm4143
 f1_keywords:
 - vbaac10.chm4143
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Beep Method (Access)
+# DoCmd.Beep method (Access)
 
 The  **Beep** method carries out the Beep action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `Beep`
+_expression_. `Beep`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

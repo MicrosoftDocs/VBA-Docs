@@ -27,7 +27,7 @@ Adds a logo picture to the current Electronic Business Card of the contact item.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The full path name that specifies the picture file to load.|
 

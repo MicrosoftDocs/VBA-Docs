@@ -14,7 +14,7 @@ Specifies numbered bullet styles.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBulletAlphaLCParenBoth**|8|Lowercase alphabetical bullet with opening and closing parentheses.|
 |**msoBulletAlphaLCParenRight**|9|Lowercase alphabetical bullet with closing parenthesis.|

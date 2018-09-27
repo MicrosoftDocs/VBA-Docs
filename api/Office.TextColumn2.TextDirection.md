@@ -20,7 +20,7 @@ Gets or sets the direction of text in the  **TextColumn2** object. Read/write.
  _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTextDirection
 

@@ -14,7 +14,7 @@ Specifies the format in which to display month names.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMonthNamesArabic**|0|Arabic format.|
 | **wdMonthNamesEnglish**|1|English format.|

@@ -27,11 +27,11 @@ Opens the specified page from Project Web App.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Optional|**PjServerPage**|Specifies the page to open from Project Web App. Can be one of the  **[PjServerPage](Project.PjServerPage.md)** constants. The default is **pjServerPageApprovals**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

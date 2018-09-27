@@ -27,12 +27,12 @@ Returns the previous range a relative to the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **WdUnits** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move back. The default value is 1.|
 
-### Return Value
+### Return value
 
 Range
 

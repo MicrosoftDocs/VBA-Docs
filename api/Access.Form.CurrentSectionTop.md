@@ -1,5 +1,5 @@
 ---
-title: Form.CurrentSectionTop Property (Access)
+title: Form.CurrentSectionTop property (Access)
 keywords: vbaac10.chm13467
 f1_keywords:
 - vbaac10.chm13467
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CurrentSectionTop Property (Access)
+# Form.CurrentSectionTop property (Access)
 
 You can use this property to determine the distance in twips from the top edge of the current section to the top edge of the form. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `CurrentSectionTop`
+_expression_. `CurrentSectionTop`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

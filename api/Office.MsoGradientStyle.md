@@ -14,7 +14,7 @@ Specifies the style for a gradient fill.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientDiagonalDown**|4|Diagonal gradient moving from a top corner down to the opposite corner.|
 |**msoGradientDiagonalUp**|3|Diagonal gradient moving from a bottom corner up to the opposite corner.|

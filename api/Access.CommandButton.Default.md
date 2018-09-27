@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Default Property (Access)
+title: CommandButton.Default property (Access)
 keywords: vbaac10.chm10455
 f1_keywords:
 - vbaac10.chm10455
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Default Property (Access)
+# CommandButton.Default property (Access)
 
 You can use the  **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Default`
+_expression_. `Default`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

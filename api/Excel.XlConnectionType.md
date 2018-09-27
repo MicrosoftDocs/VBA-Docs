@@ -14,7 +14,7 @@ Specifies the type of database connection.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlConnectionTypeDATAFEED**|6|Data Feed|
 | **XlConnectionType.xlConnectionTypeMODEL**|7|PowerPivot Model|

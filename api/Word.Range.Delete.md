@@ -27,12 +27,12 @@ Deletes the specified number of characters or words.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|The unit by which the collapsed range is to be deleted. Can be one of the  **WdUnits** constants.|
 | _Count_|Optional| **Variant**|The number of units to be deleted. To delete units after the range, collapse the range and use a positive number. To delete units before the range, collapse the range and use a negative number.|
 
-### Return Value
+### Return value
 
 Long
 

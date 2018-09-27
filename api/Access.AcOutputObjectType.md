@@ -1,5 +1,5 @@
 ---
-title: AcOutputObjectType Enumeration (Access)
+title: AcOutputObjectType enumeration (Access)
 keywords: vbaac10.chm10022
 f1_keywords:
 - vbaac10.chm10022
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcOutputObjectType Enumeration (Access)
+# AcOutputObjectType enumeration (Access)
 
 Specifies the type of object to output when using the  **OutputTo** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acOutputForm**|2|Form|
 |**acOutputFunction**|10|User-Defined Function|

@@ -27,7 +27,7 @@ Returns or sets subtotals displayed with the specified field. Valid only for non
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|A subtotal index, as shown in the following table. If this argument is omitted, the  **Subtotals** method returns an array that contains a Boolean value for each subtotal.|
 

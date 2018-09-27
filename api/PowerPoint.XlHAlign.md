@@ -14,7 +14,7 @@ Specifies the horizontal alignment for the object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlHAlignCenter**|-4108|Center.|
 |**xlHAlignCenterAcrossSelection**|7|Center across selection.|

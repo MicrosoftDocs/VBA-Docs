@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Width Property (Access)
+title: CustomControl.Width property (Access)
 keywords: vbaac10.chm12022
 f1_keywords:
 - vbaac10.chm12022
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Width Property (Access)
+# CustomControl.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

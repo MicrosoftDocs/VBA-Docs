@@ -27,7 +27,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the da
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Format|Required| **PbDateTimeFormat**|A format for the date and time.|
 |InsertAsField|Optional| **Boolean**| **True** for Microsoft Publisher to update date and time whenever opening the publication. Default is **False**.|
@@ -35,7 +35,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the da
 |Language|Optional| **MsoLanguageID**|The language in which to display the date or time.|
 |Calendar|Optional| **PbCalendarType**|The calendar type to use when displaying the date or time.|
 
-### Return Value
+### Return value
 
 TextRange
 

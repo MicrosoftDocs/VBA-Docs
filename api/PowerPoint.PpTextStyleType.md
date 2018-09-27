@@ -14,7 +14,7 @@ Constants that specify the text style type, passed to the  **Item** method of th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppBodyStyle**|3|Body style|
 |**ppDefaultStyle**|1|Default style|

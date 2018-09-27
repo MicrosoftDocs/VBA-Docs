@@ -27,11 +27,11 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _click_|Required|**Long**|The specified click number.|
 
-### Return Value
+### Return value
 
 Effect
 

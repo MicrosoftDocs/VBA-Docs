@@ -14,7 +14,7 @@ Specifies how to associate a style sheet with the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStyleSheetLinkTypeImported**|1|Imported internal style sheet.|
 | **wdStyleSheetLinkTypeLinked**|0|Linked external style sheet.|

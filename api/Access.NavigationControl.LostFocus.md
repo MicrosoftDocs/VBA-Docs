@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.LostFocus Event (Access)
+title: NavigationControl.LostFocus event (Access)
 keywords: vbaac10.chm14200
 f1_keywords:
 - vbaac10.chm14200
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.LostFocus Event (Access)
+# NavigationControl.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 
 
 ## Syntax
 
- _expression_. `LostFocus`
+_expression_. `LostFocus`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

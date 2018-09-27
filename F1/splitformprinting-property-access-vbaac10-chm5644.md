@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.SplitFormPrinting Property (Access)](http://msdn.microsoft.com/library/0542af4f-c778-9038-0058-74aa187d0fc7%28Office.15%29.aspx)
+[Form.SplitFormPrinting property (Access)](http://msdn.microsoft.com/library/0542af4f-c778-9038-0058-74aa187d0fc7%28Office.15%29.aspx)
 

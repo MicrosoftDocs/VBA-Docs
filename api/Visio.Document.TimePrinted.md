@@ -23,7 +23,7 @@ Returns the date and time the document was last printed. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Date
 

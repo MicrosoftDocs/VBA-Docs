@@ -14,7 +14,7 @@ Specifies how a building block is inserted into a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdInsertContent**|0|Inline building block.|
 | **wdInsertPage**|2|Page-level building block.|

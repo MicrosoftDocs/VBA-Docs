@@ -14,7 +14,7 @@ Specifies the format type that Microsoft Word uses when automatically formatting
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDocumentEmail**|2|E-mail format.|
 | **wdDocumentLetter**|1|Letter format.|

@@ -27,14 +27,14 @@ Adds a line to a drawing canvas.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeginX_|Required| **Single**|The horizontal position, measured in points, of the line's starting point, relative to the drawing canvas.|
 | _BeginY_|Required| **Single**|The vertical position, measured in points, of the line's starting point, relative to the drawing canvas.|
 | _EndX_|Required| **Single**|The horizontal position, measured in points, of the line's endpoint, relative to the drawing canvas.|
 | _EndY_|Required| **Single**|The vertical position, measured in points, of the line's endpoint, relative to the drawing canvas.|
 
-### Return Value
+### Return value
 
  **[Shape](Word.Shape.md)**
 

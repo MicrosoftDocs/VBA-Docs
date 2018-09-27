@@ -1,5 +1,5 @@
 ---
-title: TextBox.EnterKeyBehavior Property (Access)
+title: TextBox.EnterKeyBehavior property (Access)
 keywords: vbaac10.chm11054,vbaac10.chm4343
 f1_keywords:
 - vbaac10.chm11054,vbaac10.chm4343
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.EnterKeyBehavior Property (Access)
+# TextBox.EnterKeyBehavior property (Access)
 
 You can use the  **EnterKeyBehavior** property to specify what happens when you press ENTER in a text box control in Form view or Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `EnterKeyBehavior`
+_expression_. `EnterKeyBehavior`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

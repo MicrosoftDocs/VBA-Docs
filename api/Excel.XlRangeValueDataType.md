@@ -14,7 +14,7 @@ Specifies the range value data type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlRangeValueDefault**|10|Default. If the specified  **Range** object is empty, returns the value Empty (use the IsEmpty function to test for this case). If the **Range** object contains more than one cell, returns an array of values (use the IsArray function to test for this case).|
 | **xlRangeValueMSPersistXML**|12|Returns the recordset representation of the specified  **Range** object in an XML format.|

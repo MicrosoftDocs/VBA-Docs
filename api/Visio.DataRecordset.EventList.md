@@ -26,7 +26,7 @@ Returns the  **[EventList](Visio.EventList.md)** collection of the **DataRecords
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Return Value
+### Return value
 
 EventList
 

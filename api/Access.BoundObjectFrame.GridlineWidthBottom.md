@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineWidthBottom Property (Access)
+title: BoundObjectFrame.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm11006
 f1_keywords:
 - vbaac10.chm11006
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineWidthBottom Property (Access)
+# BoundObjectFrame.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

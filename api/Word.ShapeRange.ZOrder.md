@@ -27,11 +27,11 @@ Moves the specified shape range in front of or behind other shapes in the collec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ZOrderCmd_|Required| **MsoZOrderCmd**|Specifies where to move the specified shape range relative to the other shapes.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -27,7 +27,7 @@ Occurs after all records in a mail merge have merged successfully.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The mail merge main document.|
 

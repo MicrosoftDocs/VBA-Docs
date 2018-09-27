@@ -14,7 +14,7 @@ Specifies the data type of a list column connected to a Microsoft SharePoint Fou
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlListDataTypeCheckbox**|9|Check box.|
 | **xlListDataTypeChoice**|6|Single-choice field.|

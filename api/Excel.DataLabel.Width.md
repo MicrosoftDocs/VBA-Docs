@@ -23,7 +23,7 @@ Returns the width, in points, of the object. Read-only.
  _expression_ A variable that represents a [DataLabel](Excel.DataLabel(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

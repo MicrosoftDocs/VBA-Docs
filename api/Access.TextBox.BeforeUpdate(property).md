@@ -1,5 +1,5 @@
 ---
-title: TextBox.BeforeUpdate Property (Access)
+title: TextBox.BeforeUpdate property (Access)
 keywords: vbaac10.chm11115
 f1_keywords:
 - vbaac10.chm11115
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BeforeUpdate Property (Access)
+# TextBox.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

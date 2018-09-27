@@ -27,11 +27,11 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tag_|Required| **String**|The tag value of the content controls to return.|
 
-### Return Value
+### Return value
 
 ContentControls
 

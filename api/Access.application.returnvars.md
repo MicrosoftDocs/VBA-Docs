@@ -1,5 +1,5 @@
 ---
-title: Application.ReturnVars Property (Access)
+title: Application.ReturnVars property (Access)
 keywords: vbaac10.chm14688
 f1_keywords:
 - vbaac10.chm14688
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ReturnVars Property (Access)
+# Application.ReturnVars property (Access)
 
 Returns the  **[ReturnVars](Access.ReturnVars.md)** collection representing all the available **ReturnVar** variables. Read-only **ReturnVars** collection.
 
 
 ## Syntax
 
- _expression_. `ReturnVars`
+_expression_. `ReturnVars`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Property value

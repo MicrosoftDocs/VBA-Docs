@@ -17,7 +17,7 @@ Specifies the location of a selection in the Microsoft Outlook user interface.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAttachmentWell**|4|The selection is an attachment of an item in the  **Reading Pane** or inspector.|
 | **olDailyTaskList**|3|The selection is in the daily  **Tasks** list in the calendar view.|

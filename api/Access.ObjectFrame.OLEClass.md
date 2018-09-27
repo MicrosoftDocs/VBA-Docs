@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.OLEClass Property (Access)
+title: ObjectFrame.OLEClass property (Access)
 keywords: vbaac10.chm11561
 f1_keywords:
 - vbaac10.chm11561
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.OLEClass Property (Access)
+# ObjectFrame.OLEClass property (Access)
 
 You can use the  **OLEClass** property to obtain a description of the kind of OLE object contained in a chart control or an unbound object frame. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `OLEClass`
+_expression_. `OLEClass`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

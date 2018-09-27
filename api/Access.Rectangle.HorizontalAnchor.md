@@ -1,5 +1,5 @@
 ---
-title: Rectangle.HorizontalAnchor Property (Access)
+title: Rectangle.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10313
 f1_keywords:
 - vbaac10.chm10313
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.HorizontalAnchor Property (Access)
+# Rectangle.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the rectangle is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `HorizontalAnchor`
+_expression_. `HorizontalAnchor`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

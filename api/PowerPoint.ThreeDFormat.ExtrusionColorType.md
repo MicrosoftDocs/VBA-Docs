@@ -23,7 +23,7 @@ Returns or sets a value that indicates whether the extrusion color is based on t
  _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoExtrusionColorType
 

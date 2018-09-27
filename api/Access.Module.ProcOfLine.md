@@ -1,5 +1,5 @@
 ---
-title: Module.ProcOfLine Property (Access)
+title: Module.ProcOfLine property (Access)
 keywords: vbaac10.chm12283
 f1_keywords:
 - vbaac10.chm12283
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcOfLine Property (Access)
+# Module.ProcOfLine property (Access)
 
 The  **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
 
 
 ## Syntax
 
- _expression_. `ProcOfLine`( ` _Line_`, ` _pprockind_` )
+_expression_. `ProcOfLine`( ` _Line_`, ` _pprockind_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required|**Long**|The number of a line in the module.|
 | _pprockind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|

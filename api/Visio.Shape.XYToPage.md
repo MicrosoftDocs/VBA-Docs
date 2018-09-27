@@ -27,14 +27,14 @@ Transforms a point expressed in the local coordinate system of a  **Shape** obje
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**| _x_-coordinate in coordinate system of  _object._|
 | _y_|Required| **Double**| _y_-coordinate in coordinate system of  _object._|
 | _xprime_|Required| **Double**| _x_-coordinate corresponding to  _x_ in the **Page** or **Master** object's coordinate system.|
 | _yprime_|Required| **Double**| _y_-coordinate corresponding to  _y_ in the **Page** or **Master** object's coordinate system.|
 
-### Return Value
+### Return value
 
 Nothing
 

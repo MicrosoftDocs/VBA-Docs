@@ -27,7 +27,7 @@ Stops recalculation in a Microsoft Excel application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeepAbort_|Optional| **Boolean**|Allows recalculation to be performed for a Range.|
 

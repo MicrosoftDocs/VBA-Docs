@@ -30,7 +30,7 @@ Adds a file to the document library in a shared workspace. Returns a  **[SharedW
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The path and filename of the file to be added to the current shared workspace.|
 | _ParentFolder_|Optional|**SharedWorkspaceFolder**|The subfolder in which to place the file, if not the main document library folder within the shared workspace. Add the file to the main document library folder by leaving this optional argument empty.|

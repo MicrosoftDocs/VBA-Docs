@@ -14,7 +14,7 @@ Specifies the direction in which to move.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDown**|-4121|Down.|
 | **xlToLeft**|-4159|To left.|

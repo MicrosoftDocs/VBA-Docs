@@ -27,7 +27,7 @@ Occurs whenever the  **Properties** dialog box for a folder is opened.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pages_|Required| **[PropertyPages](Outlook.PropertyPages.md)**|The collection of property pages that have been added to the dialog box. This collection includes only custom property pages. It does not include standard Microsoft Outlook property pages.|
 | _Folder_|Required| **[Folder](Outlook.Folder.md)**|This argument is only used with the  **Folder** object. The **Folder** object for which the **Properties** dialog box is being opened.|

@@ -27,11 +27,11 @@ Uses the local name or index of a cell to return the cell. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|The local name or index of the cell.|
 
-### Return Value
+### Return value
 
 Cell
 

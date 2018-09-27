@@ -27,7 +27,7 @@ Saves changes to the workbook in a different file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional| **Variant**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
 | _FileFormat_|Optional| **Variant**|The file format to use when you save the file. For a list of valid choices, see the  **[XlFileFormat](Excel.XlFileFormat.md)** enumeration. For an existing file, the default format is the last file format specified; for a new file, the default is the format of the version of Excel being used.|

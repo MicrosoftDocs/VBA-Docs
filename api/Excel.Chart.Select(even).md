@@ -27,7 +27,7 @@ Occurs when a chart element is selected.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ElementID_|Required| **Long**|The selected chart element. For more information about these arguments, see the  **[BeforeDoubleClick](Excel.Chart.BeforeDoubleClick.md)** event.|
 | _Arg1_|Required| **Long**|The selected chart element. For more information about these arguments, see the  **BeforeDoubleClick** event.|

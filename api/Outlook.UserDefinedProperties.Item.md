@@ -27,11 +27,11 @@ Returns an object from the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either a  **Long** value that represents the 1-based index number of an object in the collection, or a **String** value that represents the **[Name](Outlook.UserDefinedProperty.Name.md)** property value of an object in the collection.|
 
-### Return Value
+### Return value
 
 A  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object that represents the specified object.
 

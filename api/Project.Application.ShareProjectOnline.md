@@ -23,7 +23,7 @@ Opens the URL for information about sharing projects in the  **Share with Projec
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

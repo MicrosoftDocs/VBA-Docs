@@ -27,11 +27,11 @@ Returns the width of a document's printed page. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting or retrieving the paper width.|
 
-### Return Value
+### Return value
 
 Double
 

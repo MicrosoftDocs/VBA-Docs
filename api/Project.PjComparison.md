@@ -14,7 +14,7 @@ Contains constants that specify the type of comparsion.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCompareAnyValue**|11|The custom field's value can be anything.|
 |**pjCompareContains**|7|The custom field's value contains  **Value**.|

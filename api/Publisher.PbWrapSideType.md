@@ -17,7 +17,7 @@ Indicates whether text should wrap around a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWrapSideBoth**|0|Wrap both sides of the shape|
 | **pbWrapSideLarger**|3|Wrap the larger side of the shape|

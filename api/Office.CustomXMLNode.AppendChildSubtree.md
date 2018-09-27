@@ -27,7 +27,7 @@ Adds a subtree as the last child under the context element node in the tree.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Represents the subtree to add.|
 

@@ -20,7 +20,7 @@ Gets the count of reviewers in the current document open in Microsoft Visio View
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

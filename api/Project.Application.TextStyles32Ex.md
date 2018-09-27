@@ -24,7 +24,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Integer**|The type of text to change. Can be one of the following **[PjTextItem](Project.PjTextItem.md)** constants. See [If the Gantt Chart is active](#if-the-gantt-chart-is-active).|
 | _Font_|Optional|**String**|The name of the font. The _Font_ argument is ignored if the active view is the **Network Diagram**, and Item is not **pjAll**.|

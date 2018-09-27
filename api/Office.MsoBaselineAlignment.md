@@ -14,7 +14,7 @@ Specifies baseline text alignment.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBaselineAlignAuto**|5|Automatic alignment.|
 |**msoBaselineAlignBaseline**|1|Baseline alignment.|

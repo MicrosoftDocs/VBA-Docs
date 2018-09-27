@@ -14,7 +14,7 @@ Contains constants that specify a calendar bar type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLineBar**|1|Line bar.|
 |**pjNoBar**|2|No bar.|

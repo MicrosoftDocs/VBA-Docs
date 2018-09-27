@@ -27,11 +27,11 @@ Occurs when a workbook is opened in a  **Protected View** window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the  **Protected View** window that is opened.|
 
-### Return Value
+### Return value
 
 Nothing
 

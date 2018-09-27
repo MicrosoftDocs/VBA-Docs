@@ -24,7 +24,7 @@ Private Sub  _expression_ _'ShapeParentChanged'(**_ByVal shape As [IVSHAPE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required| **[IVSHAPE]**|The shape whose parent changed.|
 

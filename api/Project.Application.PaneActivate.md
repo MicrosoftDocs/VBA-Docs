@@ -20,7 +20,7 @@ Occurs when the pane is activated.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.Toolbar Property (Access)](http://msdn.microsoft.com/library/e897d294-2d8d-aca7-9aed-4bd2ebd23552%28Office.15%29.aspx)
+[Report.Toolbar property (Access)](http://msdn.microsoft.com/library/e897d294-2d8d-aca7-9aed-4bd2ebd23552%28Office.15%29.aspx)
 
-[Form.Toolbar Property (Access)](http://msdn.microsoft.com/library/a004200c-5404-c3ba-f00d-591c0f0a545d%28Office.15%29.aspx)
+[Form.Toolbar property (Access)](http://msdn.microsoft.com/library/a004200c-5404-c3ba-f00d-591c0f0a545d%28Office.15%29.aspx)
 
 

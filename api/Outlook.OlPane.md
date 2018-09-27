@@ -17,7 +17,7 @@ Specifies the pane (window).
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFolderList**|2|The folder list pane|
 | **olNavigationPane**|4|The navigation pane|

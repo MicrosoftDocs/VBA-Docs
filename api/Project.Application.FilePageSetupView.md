@@ -27,7 +27,7 @@ Sets up view-specific options for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up pages for printing.|
 | _AllSheetColumns_|Optional|**Boolean**|**True** if all table columns print. **False** if only visible table columns print. This argument is only available when the Task Usage view, Resource Usage view, or one of the Gantt views is the active view.|
@@ -38,7 +38,7 @@ Sets up view-specific options for printing.
 | _PrintColumnTotals_|Optional|**Variant**|NOT available at this time.|
 | _PrintRowTotals_|Optional|**Variant**|NOT available at this time.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DeleteControl Method (Access)
+title: Application.DeleteControl method (Access)
 keywords: vbaac10.chm12522
 f1_keywords:
 - vbaac10.chm12522
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DeleteControl Method (Access)
+# Application.DeleteControl method (Access)
 
 The  **DeleteControl** method deletes a specified control from a form.
 
 
 ## Syntax
 
- _expression_. `DeleteControl`( ` _FormName_`, ` _ControlName_` )
+_expression_. `DeleteControl`( ` _FormName_`, ` _ControlName_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormName_|Required|**String**|The name of the form containing the control you want to delete.|
 | _ControlName_|Required|**String**|The name of the control you want to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

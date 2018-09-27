@@ -1,5 +1,5 @@
 ---
-title: Line.Application Property (Access)
+title: Line.Application property (Access)
 keywords: vbaac10.chm10322
 f1_keywords:
 - vbaac10.chm10322
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Application Property (Access)
+# Line.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

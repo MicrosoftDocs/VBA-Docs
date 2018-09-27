@@ -1,5 +1,5 @@
 ---
-title: Screen.ActiveDatasheet Property (Access)
+title: Screen.ActiveDatasheet property (Access)
 keywords: vbaac10.chm12487
 f1_keywords:
 - vbaac10.chm12487
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.ActiveDatasheet Property (Access)
+# Screen.ActiveDatasheet property (Access)
 
 You can use the  **ActiveDatasheet** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the datasheet that has the focus. Read-only **Form** object.
 
 
 ## Syntax
 
- _expression_. `ActiveDatasheet`
+_expression_. `ActiveDatasheet`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## Remarks

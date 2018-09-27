@@ -1,5 +1,5 @@
 ---
-title: Report.GrpKeepTogether Property (Access)
+title: Report.GrpKeepTogether property (Access)
 keywords: vbaac10.chm13700,vbaac10.chm4372
 f1_keywords:
 - vbaac10.chm13700,vbaac10.chm4372
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.GrpKeepTogether Property (Access)
+# Report.GrpKeepTogether property (Access)
 
 You can use the  **GrpKeepTogether** property to specify whether groups in a multiple column report that have their **[KeepTogether](Access.GroupLevel.KeepTogether.md)** property for a group set to Whole Group or With First Detail will be kept together by page or by column. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `GrpKeepTogether`
+_expression_. `GrpKeepTogether`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

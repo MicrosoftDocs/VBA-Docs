@@ -14,7 +14,7 @@ This enumeration groups together constants used with various Excel methods.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xl3DBar**|-4099|3D Bar|
 | **xl3DEffects1**|13|3D Effects1|

@@ -27,7 +27,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
 

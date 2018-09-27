@@ -27,7 +27,7 @@ Sets the cell layout and size properties for a data template in the Network Diag
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the data template to edit.|
 | _CellRows_|Optional|**Long**|A value from 1 through 4 that specifies the number of rows of cells in the data template.|
@@ -35,7 +35,7 @@ Sets the cell layout and size properties for a data template in the Network Diag
 | _CellWidth_|Optional|**Integer**|A value from 100 through 200 that specifies the percentage by which to enlarge the width of the template cells.|
 | _MergeCells_|Optional|**Boolean**|**True** if blank cells are merged with the cell to the left.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

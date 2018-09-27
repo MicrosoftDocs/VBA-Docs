@@ -27,13 +27,13 @@ Allows creating or changing the XML mapping on a content control. Returns  **Tru
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required| **String**|Specifies an XPath string that represents the XML node to which to map the content control. An invalid XPath string causes a run-time error.|
 | _PrefixMapping_|Optional| **String**|Specifies the prefix mappings to use when querying the expression provided in the XPath parameter. If omitted, Word uses the set of prefix mappings for the specified custom XML part in the current document.|
 | _Source_|Optional| **CustomXMLPart**|Specifies the desired custom XML data to which to map the content control. If this parameter is omitted, the XPath is evaluated against all custom XML in the current document, and the mapping is established with the first  **CustomXMLPart** in which the XPath resolves to an XML node.|
 
-### Return Value
+### Return value
 
 Boolean
 

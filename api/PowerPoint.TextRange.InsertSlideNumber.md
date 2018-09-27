@@ -23,7 +23,7 @@ Inserts the slide number of the current slide into the specified text range. Ret
  _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return Value
+### Return value
 
 TextRange
 

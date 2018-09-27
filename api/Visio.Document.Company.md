@@ -23,7 +23,7 @@ Gets or sets the name of the company the document belongs to, one of the documen
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

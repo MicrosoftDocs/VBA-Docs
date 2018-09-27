@@ -27,13 +27,13 @@ Creates one or more new  **Shape** objects on a page, in a master, or in a group
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectsToInstance()_|Required| **Variant**|An array that identifies masters or other objects from which to make shapes by their universal names.|
 | _xyArray()_|Required| **Double**|An array of alternating  _x_ and _y_values specifying the positions for the new shapes.|
 | _IDArray()_|Required| **Integer**|Out parameter. An array that returns the IDs of the created shapes.|
 
-### Return Value
+### Return value
 
 Integer
 

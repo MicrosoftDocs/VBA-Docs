@@ -27,14 +27,14 @@ Calculates the interest paid during a specific period of an investment. This fun
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate for the investment.|
 | _Arg2_|Required| **Double**|Per - the period for which you want to find the interest, and must be between 1 and nper.|
 | _Arg3_|Required| **Double**|Nper - the total number of payment periods for the investment.|
 | _Arg4_|Required| **Double**|Pv - the present value of the investment. For a loan, pv is the loan amount.|
 
-### Return Value
+### Return value
 
 Double
 

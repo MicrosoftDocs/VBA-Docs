@@ -27,7 +27,7 @@ Gets a signature line image.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _siglnimg_|Required|**SignatureLineImage**|Contains the name if the signature line graphic.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider add-in.|

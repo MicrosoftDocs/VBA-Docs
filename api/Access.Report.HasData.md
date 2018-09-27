@@ -1,5 +1,5 @@
 ---
-title: Report.HasData Property (Access)
+title: Report.HasData property (Access)
 keywords: vbaac10.chm13726
 f1_keywords:
 - vbaac10.chm13726
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.HasData Property (Access)
+# Report.HasData property (Access)
 
 You can use the  **HasData** property to determine if a report is bound to an empty recordset. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HasData`
+_expression_. `HasData`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

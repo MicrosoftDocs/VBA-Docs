@@ -14,7 +14,7 @@ Contains constants that specify the type of a custom field.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCostCustomField**|0|Cost.|
 |**pjDateCustomField**|1|Date.|

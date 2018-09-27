@@ -20,7 +20,7 @@ Gets a  **TabStops2** collection that represents all the custom tab stops for th
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 TabStops2
 

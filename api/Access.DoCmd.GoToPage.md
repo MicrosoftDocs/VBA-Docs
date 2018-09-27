@@ -1,5 +1,5 @@
 ---
-title: DoCmd.GoToPage Method (Access)
+title: DoCmd.GoToPage method (Access)
 keywords: vbaac10.chm4153
 f1_keywords:
 - vbaac10.chm4153
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.GoToPage Method (Access)
+# DoCmd.GoToPage method (Access)
 
 Carries out the GoToPage action in Visual Basic. .
 
 
 ## Syntax
 
- _expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
+_expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageNumber_|Required|**Variant**|A numeric expression that's a valid page number for the active form. If you leave this argument blank, the focus stays on the current page. You can use the  _right_ and _down_ arguments to display the part of the page you want to see.|
 | _Right_|Optional|**Variant**|A numeric expression that's a valid horizontal offset for the page.|
 | _Down_|Optional|**Variant**|A numeric expression that's a valid vertical offset for the page.|
 
-### Return Value
+### Return value
 
 Nothing
 

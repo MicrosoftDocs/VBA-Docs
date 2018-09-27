@@ -1,5 +1,5 @@
 ---
-title: Report.OnCurrent Property (Access)
+title: Report.OnCurrent property (Access)
 keywords: vbaac10.chm13823
 f1_keywords:
 - vbaac10.chm13823
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnCurrent Property (Access)
+# Report.OnCurrent property (Access)
 
 Sets or returns the value of the  **On Current** property on the Report. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnCurrent`
+_expression_. `OnCurrent`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -34,7 +34,7 @@ If you set the form's  **On Current** property in the UI, it gets it value based
 
 - If you select  **Code Builder**, then the value will be  _[Event Procedure]_.
     
-- If you select  **Expression Builder**, then the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If you select  **Expression Builder**, then the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If you select  **Macro Builder**, then the value will be the name of the macro.
     
@@ -96,6 +96,6 @@ End Sub
 ## See also
 
 
-[Report.Current Event (Access)](Access.Report.Current.md)
+[Report.Current event (Access)](Access.Report.Current.md)
 [Report Object](Access.Report.md)
 

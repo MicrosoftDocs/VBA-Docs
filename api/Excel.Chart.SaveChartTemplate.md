@@ -27,7 +27,7 @@ Saves a custom chart template to the list of available chart templates.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the chart template.|
 

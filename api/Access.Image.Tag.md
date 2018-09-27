@@ -1,5 +1,5 @@
 ---
-title: Image.Tag Property (Access)
+title: Image.Tag property (Access)
 keywords: vbaac10.chm10403
 f1_keywords:
 - vbaac10.chm10403
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Tag Property (Access)
+# Image.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

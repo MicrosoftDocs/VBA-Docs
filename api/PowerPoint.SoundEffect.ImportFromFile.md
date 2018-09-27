@@ -27,7 +27,7 @@ Specifies the sound that will be played whenever the specified shape is clicked 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FullName_|Required|**String**|The name of the specified sound file.|
 

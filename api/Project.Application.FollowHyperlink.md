@@ -27,14 +27,14 @@ Opens the document specified by a hyperlink address.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Optional|**String**|The address of the target document. If  **Address** is omitted and a text field is selected, the text of the selected field is used. If **Address** is omitted and a text field is not selected, Project returns an error.|
 | _SubAddress_|Optional|**String**|A location within the target document.|
 | _AddHistory_|Optional|**Boolean**|**True** if the target document should be added to the History folder. The default value is **True**.|
 | _NewWindow_|Optional|**Boolean**|**True** if the target document should display in a new window. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

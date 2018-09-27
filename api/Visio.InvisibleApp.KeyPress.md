@@ -24,7 +24,7 @@ Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal Ca
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required| **Long**|The ASCII value of the key that was pressed. See Remarks for possible values.|
 | _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|

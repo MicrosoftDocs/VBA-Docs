@@ -1,5 +1,5 @@
 ---
-title: TextBox.BorderColor Property (Access)
+title: TextBox.BorderColor property (Access)
 keywords: vbaac10.chm11080
 f1_keywords:
 - vbaac10.chm11080
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BorderColor Property (Access)
+# TextBox.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

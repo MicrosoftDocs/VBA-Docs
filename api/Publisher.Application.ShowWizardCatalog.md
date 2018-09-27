@@ -27,7 +27,7 @@ Displays the  **Publication Types** catalog for the wizard of the specified type
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Wizard|Optional| **PbWizard**|The type of wizard catalog to be displayed.|
 

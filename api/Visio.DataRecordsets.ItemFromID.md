@@ -30,11 +30,11 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **Long**|The unique ID of the  **DataRecordset** object to retrieve.|
 
-### Return Value
+### Return value
 
 DataRecordset
 

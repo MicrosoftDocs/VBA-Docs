@@ -1,5 +1,5 @@
 ---
-title: TextBox.ReadingOrder Property (Access)
+title: TextBox.ReadingOrder property (Access)
 keywords: vbaac10.chm11130
 f1_keywords:
 - vbaac10.chm11130
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ReadingOrder Property (Access)
+# TextBox.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+_expression_. `ReadingOrder`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

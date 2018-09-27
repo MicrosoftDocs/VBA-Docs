@@ -27,13 +27,13 @@ Calculates the fraction of the year represented by the number of whole days betw
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - a date that represents the start date.|
 | _Arg2_|Required| **Variant**|End_date - a date that represents the end date.|
 | _Arg3_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

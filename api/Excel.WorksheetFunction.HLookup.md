@@ -27,14 +27,14 @@ Searches for a value in the top row of a table or an array of values, and then r
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lookup_value - the value to be found in the first row of the table. Lookup_value can be a value, a reference, or a text string.|
 | _Arg2_|Required| **Variant**|Table_array - a table of information in which data is looked up. Use a reference to a range or a range name.|
 | _Arg3_|Required| **Variant**|Row_index_num - the row number in table_array from which the matching value will be returned. A row_index_num of 1 returns the first row value in table_array, a row_index_num of 2 returns the second row value in table_array, and so on. If row_index_num is less than 1, HLOOKUP returns the #VALUE! error value; if row_index_num is greater than the number of rows on table_array, HLOOKUP returns the #REF! error value.|
 | _Arg4_|Optional| **Variant**|Range_lookup - a logical value that specifies whether you want HLOOKUP to find an exact match or an approximate match. If TRUE or omitted, an approximate match is returned. In other words, if an exact match is not found, the next largest value that is less than lookup_value is returned. If FALSE, HLOOKUP will find an exact match. If one is not found, the error value #N/A is returned.|
 
-### Return Value
+### Return value
 
 Variant
 

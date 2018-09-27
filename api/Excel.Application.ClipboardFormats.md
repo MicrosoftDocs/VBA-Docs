@@ -27,7 +27,7 @@ Returns the formats that are currently on the Clipboard, as an array of numeric 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The array element to be returned. If this argument is omitted, the property returns the entire array of formats that are currently on the Clipboard. For more information, see the Remarks section.|
 

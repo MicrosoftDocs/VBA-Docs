@@ -20,7 +20,7 @@ Adds a new  **SmartArtNode** object to the diagram with specified text.
  _expression_ An expression that returns a [SmartArtNodes](./Office.SmartArtNodes.md) object.
 
 
-### Return Value
+### Return value
 
 SmartArtNode
 

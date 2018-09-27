@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.GotFocus Event (Access)
+title: ObjectFrame.GotFocus event (Access)
 keywords: vbaac10.chm14107
 f1_keywords:
 - vbaac10.chm14107
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.GotFocus Event (Access)
+# ObjectFrame.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the specified object receives the focus.
 
 
 ## Syntax
 
- _expression_. `GotFocus`
+_expression_. `GotFocus`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

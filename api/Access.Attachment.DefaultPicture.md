@@ -1,5 +1,5 @@
 ---
-title: Attachment.DefaultPicture Property (Access)
+title: Attachment.DefaultPicture property (Access)
 keywords: vbaac10.chm14001,vbaac10.chm5849
 f1_keywords:
 - vbaac10.chm14001,vbaac10.chm5849
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.DefaultPicture Property (Access)
+# Attachment.DefaultPicture property (Access)
 
 Gets or sets the path and file name of the graphic to be used as a background picture on an attachment control. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultPicture`
+_expression_. `DefaultPicture`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

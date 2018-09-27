@@ -1,5 +1,5 @@
 ---
-title: CheckBox.LabelAlign Property (Access)
+title: CheckBox.LabelAlign property (Access)
 keywords: vbaac10.chm10729
 f1_keywords:
 - vbaac10.chm10729
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.LabelAlign Property (Access)
+# CheckBox.LabelAlign property (Access)
 
 The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `LabelAlign`
+_expression_. `LabelAlign`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Line Object (Access)
+title: Line object (Access)
 keywords: vbaac10.chm10352
 f1_keywords:
 - vbaac10.chm10352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line Object (Access)
+# Line object (Access)
 
 The line control displays a horizontal, vertical, or diagonal line on a form or report.
 

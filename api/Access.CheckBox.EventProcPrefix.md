@@ -1,5 +1,5 @@
 ---
-title: CheckBox.EventProcPrefix Property (Access)
+title: CheckBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm10692
 f1_keywords:
 - vbaac10.chm10692
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.EventProcPrefix Property (Access)
+# CheckBox.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Removes numbers or bullets from the specified document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumberType_|Optional| **WdNumberType**|The type of number to be removed.|
 

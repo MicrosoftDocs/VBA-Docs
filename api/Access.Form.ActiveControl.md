@@ -1,5 +1,5 @@
 ---
-title: Form.ActiveControl Property (Access)
+title: Form.ActiveControl property (Access)
 keywords: vbaac10.chm13493
 f1_keywords:
 - vbaac10.chm13493
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ActiveControl Property (Access)
+# Form.ActiveControl property (Access)
 
 You can use the  **ActiveControl** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
 
 
 ## Syntax
 
- _expression_. `ActiveControl`
+_expression_. `ActiveControl`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -27,13 +27,13 @@ Returns an array of pages that are set to be published to a server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Out parameter. Indicates whether universal or local page names are returned in  _NamesArray_. See Remarks for possible values.|
 | _PublishPages_|Required| **[VisPublishPages](Visio.VisPublishPages.md)**|Out parameter. Indicates whether all pages or selected pages are set to be published. See Remarks for possible values.|
 | _NamesArray()_|Required| **String**|Out parameter. Returns the names of the pages set to be published.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

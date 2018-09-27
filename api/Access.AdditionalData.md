@@ -1,5 +1,5 @@
 ---
-title: AdditionalData Object (Access)
+title: AdditionalData object (Access)
 keywords: vbaac10.chm13253
 f1_keywords:
 - vbaac10.chm13253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AdditionalData Object (Access)
+# AdditionalData object (Access)
 
 Represents the collection of tables and queries that will be included with the parent table that is exported by the  **[ExportXML](Access.Application.ExportXML.md)** method.
 

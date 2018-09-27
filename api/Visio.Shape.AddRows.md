@@ -27,14 +27,14 @@ Adds the specified number of rows to a ShapeSheet section at a specified positio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section in which to add the rows.|
 | _Row_|Required| **Integer**|The position at which to add the rows.|
 | _RowTag_|Required| **Integer**|The type of rows to add.|
 | _RowCount_|Required| **Integer**|The number of rows to add.|
 
-### Return Value
+### Return value
 
 Integer
 

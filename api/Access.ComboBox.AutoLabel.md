@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AutoLabel Property (Access)
+title: ComboBox.AutoLabel property (Access)
 keywords: vbaac10.chm11428
 f1_keywords:
 - vbaac10.chm11428
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AutoLabel Property (Access)
+# ComboBox.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## See also

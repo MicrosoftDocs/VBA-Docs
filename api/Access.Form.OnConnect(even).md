@@ -1,5 +1,5 @@
 ---
-title: Form.OnConnect Event (Access)
+title: Form.OnConnect event (Access)
 keywords: vbaac10.chm13667
 f1_keywords:
 - vbaac10.chm13667
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnConnect Event (Access)
+# Form.OnConnect event (Access)
 
 Occurs when the specified PivotTable view connects to a data source.
 
 
 ## Syntax
 
- _expression_. `OnConnect`
+_expression_. `OnConnect`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

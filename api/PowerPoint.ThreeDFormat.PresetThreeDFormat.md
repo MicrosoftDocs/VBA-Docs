@@ -23,7 +23,7 @@ Returns the preset extrusion format. Read-only.
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoPresetThreeDFormat
 

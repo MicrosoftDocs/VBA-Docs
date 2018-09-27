@@ -23,7 +23,7 @@ For shapes on stencils, determines approximately how many characters of each sha
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

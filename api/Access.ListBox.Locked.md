@@ -1,5 +1,5 @@
 ---
-title: ListBox.Locked Property (Access)
+title: ListBox.Locked property (Access)
 keywords: vbaac10.chm11236
 f1_keywords:
 - vbaac10.chm11236
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Locked Property (Access)
+# ListBox.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

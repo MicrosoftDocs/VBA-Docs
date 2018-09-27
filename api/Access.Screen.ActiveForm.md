@@ -1,5 +1,5 @@
 ---
-title: Screen.ActiveForm Property (Access)
+title: Screen.ActiveForm property (Access)
 keywords: vbaac10.chm12490
 f1_keywords:
 - vbaac10.chm12490
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.ActiveForm Property (Access)
+# Screen.ActiveForm property (Access)
 
 You can use the  **ActiveForm** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the form that has the focus. Read-only **Form** object.
 
 
 ## Syntax
 
- _expression_. `ActiveForm`
+_expression_. `ActiveForm`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## Remarks

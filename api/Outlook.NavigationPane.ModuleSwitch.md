@@ -27,7 +27,7 @@ Occurs after the selection changes for a navigation module in the  **[Navigation
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CurrentModule_|Required| **[NavigationModule](Outlook.NavigationModule.md)**|The selected navigation module.|
 

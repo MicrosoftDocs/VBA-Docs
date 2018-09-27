@@ -1,5 +1,5 @@
 ---
-title: Label.FontBold Property (Access)
+title: Label.FontBold property (Access)
 keywords: vbaac10.chm10217
 f1_keywords:
 - vbaac10.chm10217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontBold Property (Access)
+# Label.FontBold property (Access)
 
 You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
 ## Syntax
 
- _expression_. `FontBold`
+_expression_. `FontBold`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ Controls whether Microsoft Visio recalculates shape properties during drag opera
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

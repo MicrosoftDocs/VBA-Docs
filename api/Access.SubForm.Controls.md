@@ -1,5 +1,5 @@
 ---
-title: SubForm.Controls Property (Access)
+title: SubForm.Controls property (Access)
 keywords: vbaac10.chm11922
 f1_keywords:
 - vbaac10.chm11922
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Controls Property (Access)
+# SubForm.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

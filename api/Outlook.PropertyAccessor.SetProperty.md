@@ -27,7 +27,7 @@ Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemaName_|Required| **String**|The name of a property whose value is to be set as specified by the  _Value_ parameter. The property is referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 | _Value_|Required| **Variant**|The value that is to be set for the property specified by the  _SchemaName_ parameter.|

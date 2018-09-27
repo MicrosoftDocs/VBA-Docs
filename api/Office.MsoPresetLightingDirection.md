@@ -14,7 +14,7 @@ Specifies the location of lighting on an extruded (three-dimensional) shape rela
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightingBottom**|8|Lighting comes from the lower part.|
 |**msoLightingBottomLeft**|7|Lighting comes from the lower left.|

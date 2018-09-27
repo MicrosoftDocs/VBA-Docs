@@ -27,7 +27,7 @@ Runs a Visual Basic macro.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MacroName_|Required| **String**|The name of the macro.|
 | _varg1...varg30_|Optional| **Variant**|Macro parameter values. You can pass up to 30 parameter values to the specified macro.|

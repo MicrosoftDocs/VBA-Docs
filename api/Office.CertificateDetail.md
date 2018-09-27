@@ -14,7 +14,7 @@ Provides information about the digital certificate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**certdetAvailable**|0|Specifies that the digital certificate is available for signing.|
 |**certdetExpirationDate**|3|The expiration date of the certificate.|

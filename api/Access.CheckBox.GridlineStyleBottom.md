@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineStyleBottom Property (Access)
+title: CheckBox.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10775
 f1_keywords:
 - vbaac10.chm10775
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineStyleBottom Property (Access)
+# CheckBox.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified check box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

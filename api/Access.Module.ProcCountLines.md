@@ -1,5 +1,5 @@
 ---
-title: Module.ProcCountLines Property (Access)
+title: Module.ProcCountLines property (Access)
 keywords: vbaac10.chm12281
 f1_keywords:
 - vbaac10.chm12281
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ProcCountLines Property (Access)
+# Module.ProcCountLines property (Access)
 
 The  **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `ProcCountLines`( ` _ProcName_`, ` _ProcKind_` )
+_expression_. `ProcCountLines`( ` _ProcName_`, ` _ProcKind_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProcName_|Required|**String**|The name of a procedure in the module.|
 | _ProcKind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|

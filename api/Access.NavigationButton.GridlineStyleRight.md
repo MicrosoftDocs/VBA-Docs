@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineStyleRight Property (Access)
+title: NavigationButton.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10530
 f1_keywords:
 - vbaac10.chm10530
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineStyleRight Property (Access)
+# NavigationButton.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

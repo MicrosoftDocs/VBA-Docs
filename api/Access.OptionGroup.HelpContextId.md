@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.HelpContextId Property (Access)
+title: OptionGroup.HelpContextId property (Access)
 keywords: vbaac10.chm10848
 f1_keywords:
 - vbaac10.chm10848
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.HelpContextId Property (Access)
+# OptionGroup.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

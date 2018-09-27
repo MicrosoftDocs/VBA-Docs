@@ -1,5 +1,5 @@
 ---
-title: Report.OnKeyUp Property (Access)
+title: Report.OnKeyUp property (Access)
 keywords: vbaac10.chm13867
 f1_keywords:
 - vbaac10.chm13867
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnKeyUp Property (Access)
+# Report.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnKeyUp`
+_expression_. `OnKeyUp`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **KeyUp** event occurs when a user presses a key while a report or control 
 The  **OnKeyUp** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Key Up** box in the report's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

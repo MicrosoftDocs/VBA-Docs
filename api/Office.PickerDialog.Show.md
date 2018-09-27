@@ -27,12 +27,12 @@ Displays the Picker Dialog with already specified data handler and given options
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _IsMultiSelect_|Optional|**Boolean**|Specifies whether the Picker Dialog user interface provides multiple item selection functions.|
 | _ExistingResults_|Optional|**PickerResults**|Contains existing ** PickerResults** in Picker Dialog user interface. These results are displayed in the selected item control.|
 
-### Return Value
+### Return value
 
 PickerResults
 

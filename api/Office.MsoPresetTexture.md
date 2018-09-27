@@ -14,7 +14,7 @@ Specifies texture to be used to fill a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPresetTextureMixed**|-2|Not used.|
 |**msoTextureBlueTissuePaper**|17|Blue tissue paper texture.|

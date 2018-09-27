@@ -27,7 +27,7 @@ Occurs when any workbook window is resized.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required| **Window**|The resized window.|
 

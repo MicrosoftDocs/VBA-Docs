@@ -1,5 +1,5 @@
 ---
-title: Printers.Application Property (Access)
+title: Printers.Application property (Access)
 keywords: vbaac10.chm12882
 f1_keywords:
 - vbaac10.chm12882
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printers.Application Property (Access)
+# Printers.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [Printers](Access.Printers.md) object.
+_expression_ A variable that represents a [Printers](Access.Printers.md) object.
 
 
 ## Remarks

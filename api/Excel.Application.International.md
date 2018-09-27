@@ -27,7 +27,7 @@ Returns information about the current country/region and international settings.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The setting to be returned. Can be one of the  **XlApplicationInternational** constants listed in the following tables.|
 

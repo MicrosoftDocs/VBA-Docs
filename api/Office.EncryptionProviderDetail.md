@@ -14,7 +14,7 @@ Specifies details about encryption providers.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**encprovdetURL**|0|A URL encryption provider.|
 |**encprovdetAlgorithm**|1|An algorithm encryption provider.|

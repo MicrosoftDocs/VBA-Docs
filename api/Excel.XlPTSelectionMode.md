@@ -14,7 +14,7 @@ Specifies what can be selected in a PivotTable during a structured selection. Th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBlanks**|4|Blanks|
 | **xlButton**|15|Buttons|

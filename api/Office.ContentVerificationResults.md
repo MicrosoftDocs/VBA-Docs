@@ -14,7 +14,7 @@ Provides the status of verifying whether the content of a document has changed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**contverresError**|0|The verification resulted in an error.|
 |**contverresModified**|4|The content of the document has been modified since it was digitally signed.|

@@ -27,7 +27,7 @@ Compares two documents and returns a  **Document** object that represents the do
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OriginalDocument_|Required| **Document**|Specifies the path and file name of the original document.|
 | _RevisedDocument_|Required| **Document**|Specifies the path and file name of the revised document to which to compare the original document.|
@@ -46,7 +46,7 @@ Compares two documents and returns a  **Document** object that represents the do
 | _RevisedAuthor_|Optional| **String**|Specifies the name of the person to use for unattributed changes after merging two documents.|
 | _FormatFrom_|Optional| **WdMergeFormatFrom**|Specifies the document from which to retain formatting.|
 
-### Return Value
+### Return value
 
 Document
 

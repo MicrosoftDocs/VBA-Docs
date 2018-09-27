@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineWidthRight Property (Access)
+title: CheckBox.GridlineWidthRight property (Access)
 keywords: vbaac10.chm10778
 f1_keywords:
 - vbaac10.chm10778
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineWidthRight Property (Access)
+# CheckBox.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified check box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

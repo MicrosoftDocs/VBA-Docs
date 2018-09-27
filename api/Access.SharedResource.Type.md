@@ -1,5 +1,5 @@
 ---
-title: SharedResource.Type Property (Access)
+title: SharedResource.Type property (Access)
 keywords: vbaac10.chm14657
 f1_keywords:
 - vbaac10.chm14657
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedResource.Type Property (Access)
+# SharedResource.Type property (Access)
 
 Gets the type of the  **[SharedResource](Access.SharedResource.md)** object. Read-only **[AcResourceType](Access.AcResourceType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
+_expression_ A variable that represents a [SharedResource](Access.SharedResource.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineWidthLeft Property (Access)
+title: Attachment.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm13996
 f1_keywords:
 - vbaac10.chm13996
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineWidthLeft Property (Access)
+# Attachment.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified attachment. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

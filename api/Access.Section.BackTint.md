@@ -1,5 +1,5 @@
 ---
-title: Section.BackTint Property (Access)
+title: Section.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.BackTint Property (Access)
+# Section.BackTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackTint`
+_expression_. `BackTint`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

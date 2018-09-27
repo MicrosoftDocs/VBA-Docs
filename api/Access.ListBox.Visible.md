@@ -1,5 +1,5 @@
 ---
-title: ListBox.Visible Property (Access)
+title: ListBox.Visible property (Access)
 keywords: vbaac10.chm11233
 f1_keywords:
 - vbaac10.chm11233
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Visible Property (Access)
+# ListBox.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

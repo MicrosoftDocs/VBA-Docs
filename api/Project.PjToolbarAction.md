@@ -14,7 +14,7 @@ Contains constants that specify toolbar actions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCopy**|4|Copy.|
 |**pjDelete**|2|Delete.|

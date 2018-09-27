@@ -27,11 +27,11 @@ Creates an equation column and adds it to a matrix and returns an  **OMathMatCol
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeCol_|Optional| **Variant**|An existing column in the matrix before which to place the new column.|
 
-### Return Value
+### Return value
 
 OMathMatCol
 

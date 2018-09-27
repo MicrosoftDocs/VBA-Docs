@@ -27,7 +27,7 @@ Copies styles from the specified template to a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Template_|Required| **String**|The template file name.|
 

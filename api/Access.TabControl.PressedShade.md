@@ -1,5 +1,5 @@
 ---
-title: TabControl.PressedShade Property (Access)
+title: TabControl.PressedShade property (Access)
 keywords: vbaac10.chm14622
 f1_keywords:
 - vbaac10.chm14622
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.PressedShade Property (Access)
+# TabControl.PressedShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **PressedColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `PressedShade`
+_expression_. `PressedShade`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

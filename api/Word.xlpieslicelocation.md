@@ -12,7 +12,7 @@ Specifies which position on the slice to return the coordinate of.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCenterPoint**|5|The center point of a pie slice.|
 | **xlInnerCenterPoint**|8|The innermost center point of a doughnut slice.|

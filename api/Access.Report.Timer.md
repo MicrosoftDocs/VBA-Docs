@@ -1,5 +1,5 @@
 ---
-title: Report.Timer Event (Access)
+title: Report.Timer event (Access)
 keywords: vbaac10.chm13897
 f1_keywords:
 - vbaac10.chm13897
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Timer Event (Access)
+# Report.Timer event (Access)
 
 The  **Timer** event occurs for a report at regular intervals as specified by the report's **[TimerInterval](Access.Report.TimerInterval.md)** property.
 
 
 ## Syntax
 
- _expression_. `Timer`
+_expression_. `Timer`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

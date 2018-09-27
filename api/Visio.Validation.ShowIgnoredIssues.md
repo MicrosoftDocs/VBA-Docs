@@ -23,7 +23,7 @@ Determines whether ignored validation issues appear in the  **Issues** window. R
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

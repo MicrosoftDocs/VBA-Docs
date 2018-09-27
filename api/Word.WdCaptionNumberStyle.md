@@ -14,7 +14,7 @@ Specifies the number style to be used with the  **CaptionLabel** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCaptionNumberStyleArabic**|0|Arabic style.|
 | **wdCaptionNumberStyleArabicFullWidth**|14|Full-width Arabic style.|

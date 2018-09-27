@@ -14,7 +14,7 @@ Contains constants that specify the leveling order.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLevelID**|0|Level ID.|
 |**pjLevelPriority**|2|Level priority.|

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.AddColon Property (Access)
+title: OptionButton.AddColon property (Access)
 keywords: vbaac10.chm10599
 f1_keywords:
 - vbaac10.chm10599
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.AddColon Property (Access)
+# OptionButton.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AddColon`
+_expression_. `AddColon`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## See also

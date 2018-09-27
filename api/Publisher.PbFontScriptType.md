@@ -17,7 +17,7 @@ Represents the font script for a text range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbFontScriptArabic**|7|Arabic|
 | **pbFontScriptArmenian**|5|Armenian|

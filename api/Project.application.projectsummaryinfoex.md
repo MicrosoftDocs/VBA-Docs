@@ -25,7 +25,7 @@ Returns information about project summary, including the Project Utilization typ
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Optional|**String**|The file name of the project that should have its project information edited.|
 | _Title_|Optional|**String**|The title of the project.|
@@ -46,7 +46,7 @@ Returns information about project summary, including the Project Utilization typ
 | _UtilizationDate_|Optional|**Variant**||
 | _PartiallyDisabled_|Optional|**Boolean**|**True** if Project displays the **Project Information** dialog box with all elements disabled except for the **Enterprise Custom Fields** section.|
 
-### Return Value
+### Return value
 
  **BOOL**
 

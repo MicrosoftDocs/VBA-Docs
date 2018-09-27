@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.FontItalic Property (Access)
+title: ToggleButton.FontItalic property (Access)
 keywords: vbaac10.chm11726
 f1_keywords:
 - vbaac10.chm11726
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.FontItalic Property (Access)
+# ToggleButton.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

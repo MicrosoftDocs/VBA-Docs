@@ -27,7 +27,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart), w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LayoutMode_|Optional|**Long**|Specifies whether the layout of boxes is controlled automatically or by the user, either with the  **LayoutNow** method or through the interface. Can be one of the **[PjLayoutMode](Project.PjLayoutMode.md)** constants.|
 | _LayoutScheme_|Optional|**Long**|Specifies box alignment within each row. Can be one of the  **[PjLayoutScheme](Project.PjLayoutScheme.md)** constants.|
@@ -46,7 +46,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart), w
 | _ShowPageBreaks_|Optional|**Boolean**|**True** if page breaks show in the Network Diagram; otherwise, **False**.|
 | _ShowIDOnly_|Optional|**Boolean**|**True** if only task ID numbers are displayed. **False** if all the task data fields in Network Diagram boxes are displayed.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -31,12 +31,12 @@ For more information about the new function, see the [ErfC_Precise](Excel.Worksh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The first argument.|
 | _Arg2_|Optional| **Variant**|The second argument.|
 
-### Return Value
+### Return value
 
 Double
 

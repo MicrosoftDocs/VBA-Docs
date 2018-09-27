@@ -1,5 +1,5 @@
 ---
-title: Application.CreateForm Method (Access)
+title: Application.CreateForm method (Access)
 keywords: vbaac10.chm12516
 f1_keywords:
 - vbaac10.chm12516
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateForm Method (Access)
+# Application.CreateForm method (Access)
 
 The  **CreateForm** method creates a form and returns a **[Form](Access.Form.md)** object.
 
 
 ## Syntax
 
- _expression_. `CreateForm`( ` _Database_`, ` _FormTemplate_` )
+_expression_. `CreateForm`( ` _Database_`, ` _FormTemplate_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Database_|Optional|**Variant**|The name of the database that contains the form template you want to use to create a form. If you want the current database, omit this argument. If you want to use an open library database, specify the library database with this argument.|
 | _FormTemplate_|Optional|**Variant**|The name of the form you want to use as a template to create a new form.|
 
-### Return Value
+### Return value
 
 Form
 

@@ -27,11 +27,11 @@ Allows creating or changing the XML data mapping on a content control. Returns  
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Node_|Required| **CustomXMLNode**|Specifies the XML node to which to map the current content control.|
 
-### Return Value
+### Return value
 
 Boolean
 

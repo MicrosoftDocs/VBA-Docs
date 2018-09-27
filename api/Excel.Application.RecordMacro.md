@@ -27,7 +27,7 @@ Records code if the macro recorder is on.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BasicCode_|Optional| **Variant**|A string that specifies the Visual Basic code that will be recorded if the macro recorder is recording into a Visual Basic module. The string will be recorded on one line. If the string contains a carriage return (ASCII character 10, or Chr$(10) in code), it will be recorded on more than one line.|
 | _XlmCode_|Optional| **Variant**|This argument is ignored.|

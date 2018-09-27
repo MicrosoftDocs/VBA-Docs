@@ -1,5 +1,5 @@
 ---
-title: Report.Visible Property (Access)
+title: Report.Visible property (Access)
 keywords: vbaac10.chm13735
 f1_keywords:
 - vbaac10.chm13735
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Visible Property (Access)
+# Report.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

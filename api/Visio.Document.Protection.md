@@ -27,11 +27,11 @@ Determines how a document is protected from user customization. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrPassword_|Optional| **Variant**|Not used.|
 
-### Return Value
+### Return value
 
 VisProtection
 

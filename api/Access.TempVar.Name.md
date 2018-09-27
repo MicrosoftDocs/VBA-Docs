@@ -1,5 +1,5 @@
 ---
-title: TempVar.Name Property (Access)
+title: TempVar.Name property (Access)
 keywords: vbaac10.chm14060
 f1_keywords:
 - vbaac10.chm14060
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVar.Name Property (Access)
+# TempVar.Name property (Access)
 
 Gets the name of the specified  **[TempVar](Access.TempVar.md)**. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [TempVar](Access.TempVar.md) object.
+_expression_ A variable that represents a [TempVar](Access.TempVar.md) object.
 
 
 ## See also

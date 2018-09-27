@@ -1,5 +1,5 @@
 ---
-title: Label.BottomMargin Property (Access)
+title: Label.BottomMargin property (Access)
 keywords: vbaac10.chm10238
 f1_keywords:
 - vbaac10.chm10238
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.BottomMargin Property (Access)
+# Label.BottomMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomMargin`
+_expression_. `BottomMargin`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

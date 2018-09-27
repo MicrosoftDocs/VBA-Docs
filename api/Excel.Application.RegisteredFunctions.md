@@ -27,7 +27,7 @@ Returns information about functions in either dynamic-link libraries (DLLs) or c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index1_|Optional| **Variant**|The name of the DLL or code resource.|
 | _Index2_|Optional| **Variant**|The name of the function.|

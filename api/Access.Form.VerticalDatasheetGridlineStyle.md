@@ -1,5 +1,5 @@
 ---
-title: Form.VerticalDatasheetGridlineStyle Property (Access)
+title: Form.VerticalDatasheetGridlineStyle property (Access)
 keywords: vbaac10.chm13515
 f1_keywords:
 - vbaac10.chm13515
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.VerticalDatasheetGridlineStyle Property (Access)
+# Form.VerticalDatasheetGridlineStyle property (Access)
 
 Returns or sets a  **Byte** indicating the line style to use for vertical gridlines on the specified datasheet. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalDatasheetGridlineStyle`
+_expression_. `VerticalDatasheetGridlineStyle`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

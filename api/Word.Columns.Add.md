@@ -27,11 +27,11 @@ Returns a  **Column** object that represents a column added to a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeColumn_|Optional| **Variant**|A  **Column** object that represents the column that will appear immediately to the right of the new column.|
 
-### Return Value
+### Return value
 
 Column
 

@@ -14,7 +14,7 @@ Specifies the type of gradient used in a shape's fill.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientColorMixed**|-2|Mixed gradient.|
 |**msoGradientOneColor**|1|One-color gradient.|

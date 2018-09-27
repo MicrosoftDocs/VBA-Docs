@@ -27,7 +27,7 @@ Creates an OLE object. Returns the  **InlineShape** object that represents the n
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|The name of the application used to activate the specified OLE object.|
 | _FileName_|Optional| **Variant**|The file from which the object is to be created. If this argument is omitted, the current folder is used. You must specify either the ClassType or FileName argument for the object, but not both.|
@@ -38,7 +38,7 @@ Creates an OLE object. Returns the  **InlineShape** object that represents the n
 | _IconLabel_|Optional| **Variant**|A label (caption) to be displayed beneath the icon.|
 | _Range_|Optional| **Variant**|The range where the OLE object will be placed in the text. The OLE object replaces the range, unless the range is collapsed. If this argument is omitted, the object is placed automatically.|
 
-### Return Value
+### Return value
 
 InlineShape
 

@@ -27,7 +27,7 @@ Returns or sets default folders for items such as documents, templates, and grap
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **WdDefaultFilePath**|The default folder to set.|
 

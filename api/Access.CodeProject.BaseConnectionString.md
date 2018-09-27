@@ -1,5 +1,5 @@
 ---
-title: CodeProject.BaseConnectionString Property (Access)
+title: CodeProject.BaseConnectionString property (Access)
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.BaseConnectionString Property (Access)
+# CodeProject.BaseConnectionString property (Access)
 
 You can use the  **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `BaseConnectionString`
+_expression_. `BaseConnectionString`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

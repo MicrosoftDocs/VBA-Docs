@@ -27,7 +27,7 @@ Pastes data from the Clipboard into the specified series collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Rowcol_|Optional| **[XlRowCol](Excel.XlRowCol.md)**|. Specifies whether the values corresponding to a particular data series are in rows or columns.|
 | _SeriesLabels_|Optional| **Variant**| **True** to use the contents of the cell in the first column of each row (or the first row of each column) as the name of the data series in that row (or column). **False** to use the contents of the cell in the first column of each row (or the first row of each column) as the first data point in the data series. The default value is **False** .|
@@ -35,7 +35,7 @@ Pastes data from the Clipboard into the specified series collection.
 | _Replace_|Optional| **Variant**| **True** to apply categories while replacing existing categories with information from the copied range. **False** to insert new categories without replacing any old ones. The default value is **True** .|
 | _NewSeries_|Optional| **Variant**| **True** to paste the data as a new series. **False** to paste the data as new points in an existing series. The default value is **True** .|
 
-### Return Value
+### Return value
 
 Variant
 

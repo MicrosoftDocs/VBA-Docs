@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.NavigationWhereClause Property (Access)
+title: NavigationButton.NavigationWhereClause property (Access)
 keywords: vbaac10.chm14642
 f1_keywords:
 - vbaac10.chm14642
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.NavigationWhereClause Property (Access)
+# NavigationButton.NavigationWhereClause property (Access)
 
 Gets or sets the filter criteria applied when opening the form or report associated with the specified navigation button. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `NavigationWhereClause`
+_expression_. `NavigationWhereClause`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

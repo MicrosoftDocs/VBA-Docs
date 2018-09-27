@@ -27,12 +27,12 @@ Returns an array of points that defines a polyline that approximates a  **Path**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tolerance_|Required| **Double**|Specifies how close the returned array of points must approximate the true path.|
 | _xyArray()_|Required| **Double**|Returns an array of alternating  _x_ and _y_ values specifying points along a path's or curve's stroke.|
 
-### Return Value
+### Return value
 
 Nothing
 

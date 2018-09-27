@@ -23,7 +23,7 @@ Removes any filter that is set on the current view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

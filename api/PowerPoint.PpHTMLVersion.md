@@ -14,7 +14,7 @@ Specifies the version of HTML for a published presentation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppHTMLAutodetect**|4|Autodetect|
 |**ppHTMLDual**|3|Dual version|

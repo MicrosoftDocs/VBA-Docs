@@ -27,14 +27,14 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional| **Variant**|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional| **Variant**|An object that specifies the sheet after which the new sheet is added.|
 | _Count_|Optional| **Variant**|The number of sheets to be added. The default value is one.|
 | _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following  **[XlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet** , **xlChart** , **xlExcel4MacroSheet** , or **xlExcel4IntlMacroSheet** . If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet** .|
 
-### Return Value
+### Return value
 
 An Object value that represents the new worksheet, chart, or macro sheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Undo Event (Access)
+title: Form.Undo event (Access)
 keywords: vbaac10.chm13663
 f1_keywords:
 - vbaac10.chm13663
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Undo Event (Access)
+# Form.Undo event (Access)
 
 Occurs when the user undoes a change.
 
 
 ## Syntax
 
- _expression_. `Undo`( ` _Cancel_` )
+_expression_. `Undo`( ` _Cancel_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set this argument to  **True** to cancel the undo operation and leave the control or form in its edited state.|
 

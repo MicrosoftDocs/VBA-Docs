@@ -23,7 +23,7 @@ Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
  _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **SimpleItems** collection of items that belong to the same conversation and reside in the same folder as the conversation header.
 

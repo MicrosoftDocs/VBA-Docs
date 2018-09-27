@@ -14,7 +14,7 @@ Specifies whether a shape should be flipped horizontally or vertically.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFlipHorizontal**|0|Flip horizontally.|
 |**msoFlipVertical**|1|Flip vertically.|

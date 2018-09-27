@@ -14,7 +14,7 @@ Contains constants that specify the time period for leveling.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDayByDay**|2|Day by day.|
 |**pjHourByHour**|1|Hour by hour.|

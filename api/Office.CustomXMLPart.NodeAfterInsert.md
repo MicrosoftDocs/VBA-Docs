@@ -27,7 +27,7 @@ Occurs after a node is inserted in a  **CustomXMLPart** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewNode_|Required|**CustomXMLNode**|Corresponds to the node just added to the  **CustomXMLPart** object. Note that this node may have children, if a subtree was just added to the document.|
 | _InUndoRedo_|Required|**Boolean**|Returns  **TRUE** if the node was inserted as part of an Undo/Redo action by the user.|

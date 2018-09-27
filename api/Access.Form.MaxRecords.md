@@ -1,5 +1,5 @@
 ---
-title: Form.MaxRecords Property (Access)
+title: Form.MaxRecords property (Access)
 keywords: vbaac10.chm13484
 f1_keywords:
 - vbaac10.chm13484
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MaxRecords Property (Access)
+# Form.MaxRecords property (Access)
 
 Specifies the maximum number of records by a query or view. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `MaxRecords`
+_expression_. `MaxRecords`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

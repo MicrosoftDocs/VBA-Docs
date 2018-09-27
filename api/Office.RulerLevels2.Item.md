@@ -24,11 +24,11 @@ Gets a member of the  **RulerLevels2** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number of the object to be returned.|
 
-### Return Value
+### Return value
 
 RulerLevel2
 

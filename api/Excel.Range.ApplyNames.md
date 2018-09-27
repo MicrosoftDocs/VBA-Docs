@@ -27,7 +27,7 @@ Applies names to the cells in the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Names_|Optional| **Variant**| An array of the names to be applied. If this argument is omitted, all names on the sheet are applied to the range.|
 | _IgnoreRelativeAbsolute_|Optional| **Variant**| **True** to replace references with names, regardless of the reference types of either the names or references. **False** to replace absolute references only with absolute names, relative references only with relative names, and mixed references only with mixed names. The default value is **True** .|
@@ -37,7 +37,7 @@ Applies names to the cells in the specified range.
 | _Order_|Optional| **[XlApplyNamesOrder](Excel.XlApplyNamesOrder.md)**|Determines which range name is listed first when a cell reference is replaced by a row-oriented and column-oriented range name.|
 | _AppendLast_|Optional| **Variant**| **True** to replace the definitions of the names in _Names_ and also replace the definitions of the last names that were defined. **False** to replace the definitions of the names in _Names_ only. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Variant
 

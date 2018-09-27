@@ -1,5 +1,5 @@
 ---
-title: Image.BackColor Property (Access)
+title: Image.BackColor property (Access)
 keywords: vbaac10.chm10381
 f1_keywords:
 - vbaac10.chm10381
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BackColor Property (Access)
+# Image.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

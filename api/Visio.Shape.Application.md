@@ -23,7 +23,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

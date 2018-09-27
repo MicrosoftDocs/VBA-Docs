@@ -27,11 +27,11 @@ Displays a specified detail related to a digital certificate.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _certdet_|Required|**CertificateDetail**|An enumerated value specifying which certificate detail to display.|
 
-### Return Value
+### Return value
 
 Variant
 

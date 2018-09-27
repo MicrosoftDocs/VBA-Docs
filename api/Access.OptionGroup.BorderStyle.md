@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.BorderStyle Property (Access)
+title: OptionGroup.BorderStyle property (Access)
 keywords: vbaac10.chm10841
 f1_keywords:
 - vbaac10.chm10841
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.BorderStyle Property (Access)
+# OptionGroup.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Obtains appropriate storage for a form region based on the specified information
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormRegionName_|Required| **String**|The internal name of the form region. This can be indicated by the <name> tag in the corresponding form region XML manifest.|
 | _Item_|Required| **Object**|The Outlook item object that caused the loading of the form region.|
@@ -35,7 +35,7 @@ Obtains appropriate storage for a form region based on the specified information
 | _FormRegionMode_|Required| **[OlFormRegionMode](Outlook.OlFormRegionMode.md)**|The mode that the form region is being loaded into.|
 | _FormRegionSize_|Required| **[OlFormRegionSize](Outlook.OlFormRegionSize.md)**|The type of form region being loaded, either adjoining or separate.|
 
-### Return Value
+### Return value
 
 A  **Variant** object representing the storage that Outlook has allocated for the form region. The type of the return value can be: **String** representing that the return value is a local path to an Outlook Form Storage (.OFS) file; **Byte()** representing that the return value is an array of bytes that contains the contents of the .OFS file; **IStorage** representing that the return value is a COM storage object **IStorage** (for C++ only); **Nothing** or **Null** , representing that Outlook could not allocate storage for this form region and will not load the form region.
 

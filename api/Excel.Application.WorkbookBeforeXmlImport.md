@@ -27,7 +27,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The target workbook.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to import data.|
@@ -35,7 +35,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data, **False** if a new mapping will be created.|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the import or refresh operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

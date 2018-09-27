@@ -27,7 +27,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Category_|Required| **VisFieldCategories**| The category for the new field.|
 | _Code_|Required| **VisFieldCodes**|The code for the new field.|
@@ -35,7 +35,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 | _LangID_|Optional| **Long**|The language to use for the new field. |
 | _CalendarID_|Optional| **Long**|The calendar to use for the new field.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -27,14 +27,14 @@ Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the FILLIN field.|
 | _Prompt_|Optional| **Variant**|The text that's displayed in the dialog box.|
 | _DefaultFillinText_|Optional| **Variant**|The default response, which appears in the text box when the dialog box is displayed. Corresponds to the \d switch for an FILLIN field.|
 | _AskOnce_|Optional| **Variant**| **True** to display the prompt only once instead of each time a new record is merged. Corresponds to the \o switch for a FILLIN field. The default value is **False** .|
 
-### Return Value
+### Return value
 
 MailMergeField
 

@@ -27,7 +27,7 @@ Sets the camera presets for a shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetCamera_|Required| **MsoPresetCamera**|Specifies the camera preset type.|
 

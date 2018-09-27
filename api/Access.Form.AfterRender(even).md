@@ -1,5 +1,5 @@
 ---
-title: Form.AfterRender Event (Access)
+title: Form.AfterRender event (Access)
 keywords: vbaac10.chm13680
 f1_keywords:
 - vbaac10.chm13680
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterRender Event (Access)
+# Form.AfterRender event (Access)
 
 Occurs after the object represented by the  _chartObject_ argument has been rendered.
 
 
 ## Syntax
 
- _expression_. `AfterRender`( ` _drawObject_`, ` _chartObject_` )
+_expression_. `AfterRender`( ` _drawObject_`, ` _chartObject_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
 | _chartObject_|Required|**Object**|The object that has just been rendered. Use the  **TypeName** function to determine what type of object has just been rendered.|
 
-### Return Value
+### Return value
 
 nothing
 

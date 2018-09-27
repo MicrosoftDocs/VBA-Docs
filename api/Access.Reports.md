@@ -1,5 +1,5 @@
 ---
-title: Reports Object (Access)
+title: Reports object (Access)
 keywords: vbaac10.chm12478
 f1_keywords:
 - vbaac10.chm12478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reports Object (Access)
+# Reports object (Access)
 
 The  **Reports** collection contains all of the currently open reports in a Microsoft Access database.
 

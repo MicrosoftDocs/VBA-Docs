@@ -27,11 +27,11 @@ Returns a fully qualified and optionally canonicalized representation of the hyp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CanonicalForm_|Required| **Integer**| **True** (non-zero) if canonical form; otherwise, **False** (0).|
 
-### Return Value
+### Return value
 
 String
 

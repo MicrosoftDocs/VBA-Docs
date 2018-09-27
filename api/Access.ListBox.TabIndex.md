@@ -1,5 +1,5 @@
 ---
-title: ListBox.TabIndex Property (Access)
+title: ListBox.TabIndex property (Access)
 keywords: vbaac10.chm11239
 f1_keywords:
 - vbaac10.chm11239
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.TabIndex Property (Access)
+# ListBox.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `TabIndex`
+_expression_. `TabIndex`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

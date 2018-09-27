@@ -27,7 +27,7 @@ Returns a  **String** that represents the text, with or without XML markup, that
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataOnly_|Optional| **Boolean**|Specifies whether to return the XML with or without markup.  **True** returns the text contained within the XML node without XML markup. **False** returns the text with XML markup.|
 

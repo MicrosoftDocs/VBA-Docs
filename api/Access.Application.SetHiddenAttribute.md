@@ -1,5 +1,5 @@
 ---
-title: Application.SetHiddenAttribute Method (Access)
+title: Application.SetHiddenAttribute method (Access)
 keywords: vbaac10.chm12571
 f1_keywords:
 - vbaac10.chm12571
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SetHiddenAttribute Method (Access)
+# Application.SetHiddenAttribute method (Access)
 
 The  **SetHiddenAttribute** method sets the hidden attribute of an Access object.
 
 
 ## Syntax
 
- _expression_. `SetHiddenAttribute`( ` _ObjectType_`, ` _ObjectName_`, ` _fHidden_` )
+_expression_. `SetHiddenAttribute`( ` _ObjectType_`, ` _ObjectName_`, ` _fHidden_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|A  **[AcObjectType](Access.AcObjectType.md)** constant that specifies the type of Access object.|
 | _ObjectName_|Required|**String**|The name of the Access object.|
 | _fHidden_|Required|**Boolean**|**True** sets the hidden attribute and **False** clears the attribute.|
 
-### Return Value
+### Return value
 
 Nothing
 

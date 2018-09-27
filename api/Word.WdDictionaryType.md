@@ -14,7 +14,7 @@ Specifies a proofing tool type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGrammar**|1|Grammar.|
 | **wdHangulHanjaConversion**|8|Dictionary for converting between Hangul and Hanja. Available only if you have enabled support for Korean through Microsoft Office Language Settings.|

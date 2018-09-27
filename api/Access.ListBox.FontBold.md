@@ -1,5 +1,5 @@
 ---
-title: ListBox.FontBold Property (Access)
+title: ListBox.FontBold property (Access)
 keywords: vbaac10.chm11259
 f1_keywords:
 - vbaac10.chm11259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.FontBold Property (Access)
+# ListBox.FontBold property (Access)
 
 You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
 ## Syntax
 
- _expression_. `FontBold`
+_expression_. `FontBold`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

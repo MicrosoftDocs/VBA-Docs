@@ -1,5 +1,5 @@
 ---
-title: Rectangle.BackColor Property (Access)
+title: Rectangle.BackColor property (Access)
 keywords: vbaac10.chm10288
 f1_keywords:
 - vbaac10.chm10288
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.BackColor Property (Access)
+# Rectangle.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

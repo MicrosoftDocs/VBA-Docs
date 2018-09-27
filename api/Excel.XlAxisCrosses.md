@@ -14,7 +14,7 @@ Specifies the point on the specified axis where the other axis crosses.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAxisCrossesAutomatic**|-4105|Microsoft Excel sets the axis crossing point.|
 | **xlAxisCrossesCustom**|-4114|The  **CrossesAt** property specifies the axis crossing point.|

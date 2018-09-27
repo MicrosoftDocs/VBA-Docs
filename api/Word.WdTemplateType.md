@@ -14,7 +14,7 @@ Specifies the type of template.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAttachedTemplate**|2|An attached template.|
 | **wdGlobalTemplate**|1|A global template.|

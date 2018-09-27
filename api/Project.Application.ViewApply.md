@@ -27,13 +27,13 @@ Applies a view to the active window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view to display in the active window.|
 | _SinglePane_|Optional|**Boolean**|**True** if an existing split is removed and the active window displays a single-pane view. The default value is **False**.|
 | _Toggle_|Optional|**Boolean**|**True** if the active window switches from one pane to two panes, or from two panes to one pane. Toggle is ignored if SinglePane is **True**. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

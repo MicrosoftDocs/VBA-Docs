@@ -23,7 +23,7 @@ Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Re
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

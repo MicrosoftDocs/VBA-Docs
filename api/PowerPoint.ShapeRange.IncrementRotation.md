@@ -27,7 +27,7 @@ Changes the rotation of the specified shape range around the z-axis by the speci
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required|**Single**|Specifies how far the shape range is to be rotated horizontally, in degrees. A positive value rotates the shape range clockwise; a negative value rotates it counterclockwise.|
 

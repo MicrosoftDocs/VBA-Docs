@@ -1,5 +1,5 @@
 ---
-title: AllMacros.Count Property (Access)
+title: AllMacros.Count property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AllMacros.Count Property (Access)
+# AllMacros.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an 'AllMacros' object.
+_expression_ A variable that represents an 'AllMacros' object.
 
 
 ## See also

@@ -14,7 +14,7 @@ Contains constants that specify the box style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBoxCritical**|0|Critical style.|
 |**pjBoxCriticalExternalTask**|10|Critical external task style.|

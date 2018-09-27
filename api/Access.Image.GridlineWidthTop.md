@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineWidthTop Property (Access)
+title: Image.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10422
 f1_keywords:
 - vbaac10.chm10422
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineWidthTop Property (Access)
+# Image.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified image control. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

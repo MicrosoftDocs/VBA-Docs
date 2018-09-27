@@ -27,7 +27,7 @@ Copies the current view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Name of the copy of the view.|
 | _ApplyTo_|Optional|**Integer**|Specifies which pane of a split view is copied. The value can be one of the following:
@@ -40,7 +40,7 @@ Copies the current view.
 |5|Primary pane, or the Timeline if it is active|
 |
 
-### Return Value
+### Return value
 
  **Boolean**
 

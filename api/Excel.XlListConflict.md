@@ -14,7 +14,7 @@ Specifies the conflict resolution options for updating a list on a Microsoft Sha
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlListConflictDialog**|0|Display a dialog box that allows the user to choose how to resolve conflicts.|
 | **xlListConflictDiscardAllConflicts**|2|Accept the version of the data stored on the SharePoint site.|

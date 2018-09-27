@@ -14,7 +14,7 @@ Specifies a paper size.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPaper10x14**|0|10 inches wide, 14 inches long.|
 | **wdPaper11x17**|1|Legal 11 inches wide, 17 inches long.|

@@ -23,7 +23,7 @@ Gets a count of the number of  **CustomXMLNode** objects in a **CustomXMLNodes**
  _expression_ An expression that returns a [CustomXMLNodes](./Office.CustomXMLNodes.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

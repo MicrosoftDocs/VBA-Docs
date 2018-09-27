@@ -27,7 +27,7 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The file from which the OLE object is to be created.|
 | _LinkToFile_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the picture will be linked to the file from which it was created.|
@@ -37,7 +37,7 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
 | _Width_|Optional|**Single**|The width of the picture, measured in points.|
 | _Height_|Optional|**Single**|The height of the picture, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

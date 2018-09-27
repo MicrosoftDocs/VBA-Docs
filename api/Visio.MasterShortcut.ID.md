@@ -23,7 +23,7 @@ Gets the ID of an object. Read-only.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

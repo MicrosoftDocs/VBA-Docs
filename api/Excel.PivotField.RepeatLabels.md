@@ -23,7 +23,7 @@ Returns or sets whether item labels are repeated in the PivotTable for the speci
  _expression_ A variable that represents a '[PivotField](Excel.PivotField.md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

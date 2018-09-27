@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.HelpContextId Property (Access)
+title: ObjectFrame.HelpContextId property (Access)
 keywords: vbaac10.chm11602
 f1_keywords:
 - vbaac10.chm11602
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.HelpContextId Property (Access)
+# ObjectFrame.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

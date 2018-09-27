@@ -14,7 +14,7 @@ Contains constants that specify the type of the outline code sequence.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCustomOutlineCodeCharacters**|3|Characters.|
 |**pjCustomOutlineCodeLowercaseLetters**|2|Lowercase letters.|

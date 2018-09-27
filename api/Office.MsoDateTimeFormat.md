@@ -14,7 +14,7 @@ Specifies the format of a date/time data type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDateTimeddddMMMMddyyyy**|2|Specifies a ddddMMMMddyyyy format.|
 |**msoDateTimedMMMMyyyy**|3|Specifies MMMMyyyy format.|

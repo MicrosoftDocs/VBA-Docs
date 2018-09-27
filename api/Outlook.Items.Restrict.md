@@ -27,11 +27,11 @@ Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a n
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|A filter string expression to be applied. For details, see the  **[Find](Outlook.Items.Find.md)** method.|
 
-### Return Value
+### Return value
 
 An  **Items** collection that represents the items from the original **Items** collection which match the filter.
 

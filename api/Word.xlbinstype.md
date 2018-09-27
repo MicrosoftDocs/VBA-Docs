@@ -15,7 +15,7 @@ Constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.bi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBinsTypeAutomatic**|0|Sets bins type automatically.|
 | **xlBinsTypeCategorical**|1|Sets bins type by category.|

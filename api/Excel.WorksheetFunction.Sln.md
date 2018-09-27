@@ -27,13 +27,13 @@ Returns the straight-line depreciation of an asset for one period.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
 | _Arg2_|Required| **Double**|Salvage - the value at the end of the depreciation (sometimes called the salvage value of the asset).|
 | _Arg3_|Required| **Double**|Life - the number of periods over which the asset is depreciated (sometimes called the useful life of the asset).|
 
-### Return Value
+### Return value
 
 Double
 

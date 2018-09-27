@@ -24,12 +24,12 @@ Adds a  **Task** object to a **Tasks** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the new task. The default value is an empty string ("").|
 | _Before_|Optional|**Long**|The position of the task in its containing collection. The default value is the position of the last item in the collection.|
 
-### Return Value
+### Return value
 
  **Task**
 

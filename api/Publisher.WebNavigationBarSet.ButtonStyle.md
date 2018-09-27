@@ -23,7 +23,7 @@ Sets or returns a  **PbWizardNavBarButtonStyle** constant that represents the st
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Return Value
+### Return value
 
 PbWizardNavBarButtonStyle
 

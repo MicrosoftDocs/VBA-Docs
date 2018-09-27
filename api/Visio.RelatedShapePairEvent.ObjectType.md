@@ -23,7 +23,7 @@ Returns  **visObjTypeRelatedShapePairEvent** , the type of this object. Read-onl
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 
 
-### Return Value
+### Return value
 
  **visObjTypeRelatedShapePairEvent**
 

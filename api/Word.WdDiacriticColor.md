@@ -14,7 +14,7 @@ Specifies whether to apply a different color to diacritics in bi-directional or 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDiacriticColorBidi**|0|Bi-directional language (Arabic, Hebrew, and so forth).|
 | **wdDiacriticColorLatin**|1|Latin style languages.|

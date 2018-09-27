@@ -27,7 +27,7 @@ Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text you want to have automatically replaced with the text specified by Value.|
 | _Value_|Required| **String**|The text you want to have automatically inserted whenever the text specified by Name is typed.|

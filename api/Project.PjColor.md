@@ -14,7 +14,7 @@ Contains constants that specify a color.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAqua**|4|Color is aqua.|
 |**pjBlack**|0|Color is black.|

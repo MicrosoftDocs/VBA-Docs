@@ -31,14 +31,14 @@ For more information about the new function, see the [HypGeom_Dist](Excel.Worksh
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Sample_s - the number of successes in the sample.|
 | _Arg2_|Required| **Double**|Number_sample - the size of the sample.|
 | _Arg3_|Required| **Double**|Population_s - the number of successes in the population.|
 | _Arg4_|Required| **Double**|Number_population - the population size.|
 
-### Return Value
+### Return value
 
 Double
 

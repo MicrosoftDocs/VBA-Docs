@@ -14,7 +14,7 @@ Specifies the state of the window.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlMaximized**|-4137|Maximized|
 | **xlMinimized**|-4140|Minimized|

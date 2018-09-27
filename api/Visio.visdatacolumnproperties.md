@@ -18,7 +18,7 @@ Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.D
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visDataColumnPropertyCalendar**|3|Calendar property of the data column.|
 | **visDataColumnPropertyCurrency**|5|Currency property of the data column.|

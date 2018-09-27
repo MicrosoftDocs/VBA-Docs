@@ -14,7 +14,7 @@ Contains constants that specify the page to show in Project Web App or in a proj
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjServerPageApprovals**|0|Show the Approvals page.|
 |**pjServerPageDocuments**|7|Show the Documents page from the project site.|

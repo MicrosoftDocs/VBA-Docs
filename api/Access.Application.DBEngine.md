@@ -1,5 +1,5 @@
 ---
-title: Application.DBEngine Property (Access)
+title: Application.DBEngine property (Access)
 keywords: vbaac10.chm12545
 f1_keywords:
 - vbaac10.chm12545
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DBEngine Property (Access)
+# Application.DBEngine property (Access)
 
 You can use the  **DBEngine** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)to access the current  **DBEngine** object and its related properties. Read-only **DBEngine**.
 
 
 ## Syntax
 
- _expression_. `DBEngine`
+_expression_. `DBEngine`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -27,14 +27,14 @@ Returns a  **Selection** object that represents the shapes that meet certain cri
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Relation_|Required| **Integer**|An integer describing the type of relationship to be used.|
 | _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the parent shape.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 | _ResultRoot_|Optional| **Variant**|A  **Shape** object that represents a page or group.|
 
-### Return Value
+### Return value
 
 Selection
 

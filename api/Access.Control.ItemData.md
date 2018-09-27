@@ -1,5 +1,5 @@
 ---
-title: Control.ItemData Property (Access)
+title: Control.ItemData property (Access)
 keywords: vbaac10.chm10141
 f1_keywords:
 - vbaac10.chm10141
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.ItemData Property (Access)
+# Control.ItemData property (Access)
 
 The  **ItemData** property returns the data in the bound column for the specified row in a combo box or list box. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `ItemData`( ` _Index_` )
+_expression_. `ItemData`( ` _Index_` )
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The row in the combo box or list box containing the data you want to return. Rows in combo and list boxes are indexed starting with zero. For example, to return the item in the sixth row of a combo box, you'd specify 5 for the  _rowindex_ argument.|
 

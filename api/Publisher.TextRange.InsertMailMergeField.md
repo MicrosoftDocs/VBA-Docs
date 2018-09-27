@@ -27,11 +27,11 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The name or index of the data field in the datasource.|
 
-### Return Value
+### Return value
 
 TextRange
 

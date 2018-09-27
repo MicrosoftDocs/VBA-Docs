@@ -14,7 +14,7 @@ Constants that specify the size type for the slide, passed to and returned by th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSlideSize35MM**|4|35MM|
 |**ppSlideSizeA3Paper**|9|A3 Paper|

@@ -26,7 +26,7 @@ Gets a  **Boolean** value indicating whether the number of files allowed in the 
  _expression_ An expression that returns a [SharedWorkspaceFiles](./Office.SharedWorkspaceFiles.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

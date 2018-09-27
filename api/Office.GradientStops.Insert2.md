@@ -24,7 +24,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RGB_|Required|**MsoRGBType**|Specifies the color at the gradient stop.|
 | _Position_|Required|**Single**|Specifies the position of the stop within the gradient expressed as a percent.|
@@ -32,7 +32,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 | _Index_|Optional|**Integer**|The index number of the gradient stop.|
 | _Brightness_|Optional|**Single**|Specifies the brightness of the color at the gradient stop.|
 
-### Return Value
+### Return value
 
 Nothing
 

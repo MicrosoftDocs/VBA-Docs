@@ -23,7 +23,7 @@ Returns or sets a  **Long** that represents the maximum number of characters tha
  _expression_ A variable that represents a  **WebTextBox** object.
 
 
-### Return Value
+### Return value
 
 Long
 

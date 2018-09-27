@@ -17,7 +17,7 @@ Constants passed to the  ** [Fields.AddPhoneticGuide](Publisher.Fields.AddPhonet
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPhoneticGuideAlignmentCenter**|3|Center aligned|
 | **pbPhoneticGuideAlignmentDefault**|0|Default alignment|

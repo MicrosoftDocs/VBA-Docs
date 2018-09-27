@@ -27,7 +27,7 @@ Scrolls the publication window so that the specified shape is displayed in the p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Shape|Required| **Shape**|The shape to scroll into view.|
 

@@ -23,7 +23,7 @@ Returns all the series in the chart.
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart.
 

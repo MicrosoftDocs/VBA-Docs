@@ -27,7 +27,7 @@ Splits a single table cell into multiple cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumRows_|Required|**Long**|Number of rows that the cell is being split into.|
 | _NumColumns_|Required|**Long**|Number of columns that the cell is being split into.|

@@ -25,7 +25,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - the set of y-values you already know in the relationship y = mx + b.|
 | _Arg2_|Optional| **Variant**|Known_x's - an optional set of x-values that you may already know in the relationship y = mx + b.|

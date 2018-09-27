@@ -1,5 +1,5 @@
 ---
-title: Application.HtmlEncode Method (Access)
+title: Application.HtmlEncode method (Access)
 keywords: vbaac10.chm12614
 f1_keywords:
 - vbaac10.chm12614
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.HtmlEncode Method (Access)
+# Application.HtmlEncode method (Access)
 
 Converts a string to an HTML-encoded string.
 
 
 ## Syntax
 
- _expression_. `HtmlEncode`( ` _PlainText_`, ` _Length_` )
+_expression_. `HtmlEncode`( ` _PlainText_`, ` _Length_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PlainText_|Required|**Variant**|The text string to encode.|
 | _Length_|Optional|**Variant**|The number of characters to return.|
 
-### Return Value
+### Return value
 
 String
 

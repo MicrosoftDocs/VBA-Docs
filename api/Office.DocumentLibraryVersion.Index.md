@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for a **DocumentLibraryVersion** 
  _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

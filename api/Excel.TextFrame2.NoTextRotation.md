@@ -20,7 +20,7 @@ Returns or sets whether text remains flat when the specified object is rotated. 
  _expression_ A variable that represents a '[TextFrame2](Excel.TextFrame2.md)' object.
 
 
-### Return Value
+### Return value
 
 [MsoTriState](./Office.MsoTriState.md)
 

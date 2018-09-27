@@ -1,5 +1,5 @@
 ---
-title: Form.PivotTableChange Event (Access)
+title: Form.PivotTableChange event (Access)
 keywords: vbaac10.chm13669
 f1_keywords:
 - vbaac10.chm13669
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PivotTableChange Event (Access)
+# Form.PivotTableChange event (Access)
 
 Occurs whenever the specified PivotTable view field, field set, or total is added or deleted.
 
 
 ## Syntax
 
- _expression_. `PivotTableChange`( ` _Reason_` )
+_expression_. `PivotTableChange`( ` _Reason_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reason_|Required|**Long**|A  **PivotTableReasonEnum** constant that indicates how the PivotTable list changed.|
 

@@ -14,7 +14,7 @@ Specifies the sorting option for bookmark names displayed in the  **Bookmark** d
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSortByLocation**|1|Sorted by location in document.|
 | **wdSortByName**|0|Sorted by bookmark name.|

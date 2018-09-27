@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define the raster export size units; passed to the SetRasterExportSize method and returned by the GetRasterExportSize method.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterPixel**|0|Pixels|
 | **visRasterCm**|1|Centimeters|

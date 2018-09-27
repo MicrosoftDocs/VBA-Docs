@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineStyleBottom Property (Access)
+title: Label.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm10252
 f1_keywords:
 - vbaac10.chm10252
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineStyleBottom Property (Access)
+# Label.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified label. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

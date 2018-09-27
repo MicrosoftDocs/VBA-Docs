@@ -14,7 +14,7 @@ Specifies the type of information returned about a specified selection or range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdActiveEndAdjustedPageNumber**|1|Returns the number of the page that contains the active end of the specified selection or range. If you set a starting page number or make other manual adjustments, returns the adjusted page number (unlike  **wdActiveEndPageNumber**).|
 | **wdActiveEndPageNumber**|3|Returns the number of the page that contains the active end of the specified selection or range, counting from the beginning of the document. Any manual adjustments to page numbering are disregarded (unlike  **wdActiveEndAdjustedPageNumber**).|

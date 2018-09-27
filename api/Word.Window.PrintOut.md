@@ -27,7 +27,7 @@ Prints all or part of the document displayed in the specified window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Background_|Optional| **Variant**|Set to  **True** to have the macro continue while Microsoft Word prints the document.|
 | _Append_|Optional| **Variant**|Set to  **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|

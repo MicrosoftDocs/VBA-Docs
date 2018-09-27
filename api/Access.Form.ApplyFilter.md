@@ -1,5 +1,5 @@
 ---
-title: Form.ApplyFilter Event (Access)
+title: Form.ApplyFilter event (Access)
 keywords: vbaac10.chm13661
 f1_keywords:
 - vbaac10.chm13661
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ApplyFilter Event (Access)
+# Form.ApplyFilter event (Access)
 
 Occurs when a filter is applied to a form.
 
 
 ## Syntax
 
- _expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
+_expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the form.|
 | _ApplyType_|Required|**Integer**|Returns the type of filter that was applied.|

@@ -27,13 +27,13 @@ Adds a guide to a group shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **Integer**|The type of guide to add.|
 | _xPos_|Required| **Double**|The x-coordinate of a point on the guide.|
 | _yPos_|Required| **Double**|The y-coordinate of a point on the guide.|
 
-### Return Value
+### Return value
 
 Shape
 

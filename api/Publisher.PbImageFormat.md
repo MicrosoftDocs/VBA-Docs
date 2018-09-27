@@ -17,7 +17,7 @@ Represents the image format of a picture as determined by Microsoft® Windows® 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbImageFormatCMYKJPEG**|10|CMYKJPEG|
 | **pbImageFormatDIB**|7|DIB|

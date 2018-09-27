@@ -27,7 +27,7 @@ Initiates immediate delivery of all undelivered messages submitted in the curren
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _showProgressDialog_|Required| **Boolean**|Indicates whether the  **Outlook Send/Receive Progress** dialog box should be displayed, regardless of user settings.|
 

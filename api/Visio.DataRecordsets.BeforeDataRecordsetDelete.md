@@ -30,7 +30,7 @@ Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordset_|Required| **[IVDATARECORDSET]**|The data recordset that is going to be deleted.|
 

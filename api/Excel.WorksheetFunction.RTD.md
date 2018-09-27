@@ -27,7 +27,7 @@ This method connects to a source to receive real-time data.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _progID_|Required| **Variant**|A string representing the real-time server programmatic identifier.|
 | _server_|Required| **Variant**|A server name,  **Null** string or **vbNullString** constant.|
@@ -60,7 +60,7 @@ This method connects to a source to receive real-time data.
 | _topic27_|Optional| **Variant**|A  **String** representing a topic.|
 | _topic28_|Optional| **Variant**|A  **String** representing a topic.|
 
-### Return Value
+### Return value
 
 Variant
 

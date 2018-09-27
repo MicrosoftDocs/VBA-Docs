@@ -14,7 +14,7 @@ Specifies the chart type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xl3DArea**|-4098|3D Area.|
 | **xl3DAreaStacked**|78|3D Stacked Area.|

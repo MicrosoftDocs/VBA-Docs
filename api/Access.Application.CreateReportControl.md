@@ -1,5 +1,5 @@
 ---
-title: Application.CreateReportControl Method (Access)
+title: Application.CreateReportControl method (Access)
 keywords: vbaac10.chm12623
 f1_keywords:
 - vbaac10.chm12623
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateReportControl Method (Access)
+# Application.CreateReportControl method (Access)
 
 The  **CreateReportControl** method creates a control on a specified open report. For more information, see the **[CreateControl](Access.Application.CreateControl.md)** method.
 
 
 ## Syntax
 
- _expression_. `CreateReportControl`( ` _ReportName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
+_expression_. `CreateReportControl`( ` _ReportName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**|The name of the open report on which you want to create the control.|
 | _ControlType_|Required|**AcControlType**|An  **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|
@@ -37,7 +37,7 @@ The  **CreateReportControl** method creates a control on a specified open report
 | _Left, Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in twips.|
 | _Width, Height_|Optional|**Variant**|The width and height of the control in twips.|
 
-### Return Value
+### Return value
 
 Control
 

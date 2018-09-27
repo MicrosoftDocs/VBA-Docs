@@ -17,7 +17,7 @@ Indicates whether a Web command button will clear or submit form data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCommandButtonReset**|2|Reset or clear the form.|
 | **pbCommandButtonSubmit**|1|Submit the form.|

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.EventProcPrefix Property (Access)
+title: Rectangle.EventProcPrefix property (Access)
 keywords: vbaac10.chm10278
 f1_keywords:
 - vbaac10.chm10278
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.EventProcPrefix Property (Access)
+# Rectangle.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Contains constants that specify the buttons to be included in a message dialog b
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjOKCancel**|1|Display  **OK** and **Cancel** buttons.|
 |**pjOKOnly**|0|Display  **OK** button.|

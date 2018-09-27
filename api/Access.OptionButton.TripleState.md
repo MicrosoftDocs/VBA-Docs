@@ -1,5 +1,5 @@
 ---
-title: OptionButton.TripleState Property (Access)
+title: OptionButton.TripleState property (Access)
 keywords: vbaac10.chm10578
 f1_keywords:
 - vbaac10.chm10578
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.TripleState Property (Access)
+# OptionButton.TripleState property (Access)
 
 You can use the  **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TripleState`
+_expression_. `TripleState`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Opens the blog specified by the blog ID. It is called by the  **Open Existing Po
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Account_|Required|**String**|Represents the GUID of the account registry key. Blog account settings are stored in the registry at \\HKCU\Software\Microsoft\Office\Common\Blog\Account.|
 | _PostID_|Required|**String**|The ID of the post.|

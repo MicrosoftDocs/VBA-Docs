@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for a **CommandBarPopup** object 
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

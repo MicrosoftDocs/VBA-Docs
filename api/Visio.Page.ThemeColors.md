@@ -23,7 +23,7 @@ Gets or sets the current theme colors for the page. Read/write.
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

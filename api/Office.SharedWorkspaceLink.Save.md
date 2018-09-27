@@ -30,7 +30,7 @@ Uploads changes made programmatically to a shared server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrQueryName_|Required|**String**|Name of the query used to change the shared workspace link.|
 

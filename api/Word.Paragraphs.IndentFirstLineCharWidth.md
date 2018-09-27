@@ -27,7 +27,7 @@ Indents the first line of one or more paragraphs by a specified number of charac
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Count_|Required| **Integer**|The number of characters by which the first line of each specified paragraph is to be indented.|
 

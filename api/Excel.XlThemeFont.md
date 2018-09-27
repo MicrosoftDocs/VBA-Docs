@@ -14,7 +14,7 @@ Specifies the theme font to use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlThemeFontMajor**|2|Major.|
 | **xlThemeFontMinor**|1|Minor.|

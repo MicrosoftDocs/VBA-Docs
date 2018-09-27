@@ -27,7 +27,7 @@ Runs the Letter Wizard on the specified document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LetterContent_|Optional| **Variant**|A  **[LetterContent](Word.LetterContent.md)** object. Any filled properties in the **LetterContent** object show up as prefilled elements in the Letter Wizard dialog boxes. If this argument is omitted, the **GetLetterContent** method is automatically used to get a **LetterContent** object from the specified document.|
 | _WizardMode_|Optional| **Variant**| **True** to display the **Letter Wizard** dialog box as a series of steps with a **Next**,  **Back**, and  **Finish** button. **False** to display the **Letter Wizard** dialog box as if it were opened from the **Tools** menu (a properties dialog box with an **OK** button and a **Cancel** button). The default value is **True** .|

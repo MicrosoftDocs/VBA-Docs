@@ -1,5 +1,5 @@
 ---
-title: Form.DefaultView Property (Access)
+title: Form.DefaultView property (Access)
 keywords: vbaac10.chm13352
 f1_keywords:
 - vbaac10.chm13352
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DefaultView Property (Access)
+# Form.DefaultView property (Access)
 
 You can use the  **DefaultView** property to specify the opening view of a form. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DefaultView`
+_expression_. `DefaultView`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

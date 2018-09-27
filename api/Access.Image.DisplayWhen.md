@@ -1,5 +1,5 @@
 ---
-title: Image.DisplayWhen Property (Access)
+title: Image.DisplayWhen property (Access)
 keywords: vbaac10.chm10375
 f1_keywords:
 - vbaac10.chm10375
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.DisplayWhen Property (Access)
+# Image.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayWhen`
+_expression_. `DisplayWhen`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

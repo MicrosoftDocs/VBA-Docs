@@ -27,13 +27,13 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pcap_|Required|**IConverterApplicationPreferences**||
 | _ppcp_|Required|**IConverterPreferences**||
 | _pcuic_|Required|**IConverterUICallback**||
 
-### Return Value
+### Return value
 
 [HRESULT]
 

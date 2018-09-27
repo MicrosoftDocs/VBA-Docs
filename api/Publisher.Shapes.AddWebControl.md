@@ -27,7 +27,7 @@ Adds a new  **Shape** object representing a Web form control to the specified **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Required| **PbWebControlType**|Specifies the type of Web form control to add. An error occurs if pbWebControlWebComponent is used.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the Web form control.|
@@ -36,7 +36,7 @@ Adds a new  **Shape** object representing a Web form control to the specified **
 |Height|Required| **Variant**|The height of the shape representing the Web form control. For command buttons, this parameter is ignored.|
 |LaunchPropertiesWindow|Optional| **Boolean**|Not supported. Default is  **False**; an error occurs if this argument is set to  **True**.|
 
-### Return Value
+### Return value
 
 Shape
 

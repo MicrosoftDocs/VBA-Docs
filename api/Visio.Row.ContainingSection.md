@@ -23,7 +23,7 @@ Returns the section that contains a row. Read-only.
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
-### Return Value
+### Return value
 
 Section
 

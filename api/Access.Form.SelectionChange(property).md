@@ -1,5 +1,5 @@
 ---
-title: Form.SelectionChange Property (Access)
+title: Form.SelectionChange property (Access)
 keywords: vbaac10.chm13541
 f1_keywords:
 - vbaac10.chm13541
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelectionChange Property (Access)
+# Form.SelectionChange property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[SelectionChange](Access.Form.SelectionChange(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `SelectionChange`
+_expression_. `SelectionChange`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

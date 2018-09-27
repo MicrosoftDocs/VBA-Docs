@@ -27,7 +27,7 @@ Attaches the beginning of the specified connector to a specified shape. If there
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConnectedShape_|Required| **Shape**|The shape to attach the beginning of the connector to. The specified  **[Shape](Excel.Shape.md)** object must be in the same **[Shapes](Excel.Shapes.md)** collection as the connector.|
 | _ConnectionSite_|Required| **Long**|A connection site on the shape specified by  _ConnectedShape_. Must be an integer between 1 and the integer returned by the  **[ConnectionSiteCount](Excel.Shape.ConnectionSiteCount.md)** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](Excel.ShapeRange.RerouteConnections.md)** method after the connector is attached to shapes at both ends.|

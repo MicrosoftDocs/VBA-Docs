@@ -25,7 +25,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lookup_value - A value that LOOKUP searches for in the first vector. Lookup_value can be a number, text, a logical value, or a name or reference that refers to a value.|
 | _Arg2_|Required| **Variant**|Lookup_vector or Array - In Vector form, a range that contains only one row or one column. The values in lookup_vector can be text, numbers, or logical values. In array form, a range of cells that contains text, numbers, or logical values that you want to compare with lookup_value.|

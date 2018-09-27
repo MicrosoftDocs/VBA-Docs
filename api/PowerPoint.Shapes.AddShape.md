@@ -27,7 +27,7 @@ Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that re
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[MsoAutoShapeType](./Office.MsoAutoShapeType.md)**|Specifies the type of AutoShape to create.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the AutoShape relative to the left edge of the slide.|
@@ -35,7 +35,7 @@ Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that re
 | _Width_|Required|**Single**|The width of the AutoShape, measured in points.|
 | _Height_|Required|**Single**|The height of the AutoShape, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

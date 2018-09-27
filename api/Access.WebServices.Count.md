@@ -1,5 +1,5 @@
 ---
-title: WebServices.Count Property (Access)
+title: WebServices.Count property (Access)
 keywords: vbaac10.chm14554
 f1_keywords:
 - vbaac10.chm14554
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebServices.Count Property (Access)
+# WebServices.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [WebServices](Access.WebServices.md) object.
+_expression_ A variable that represents a [WebServices](Access.WebServices.md) object.
 
 
 ## See also

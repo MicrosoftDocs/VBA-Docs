@@ -27,11 +27,11 @@ Returns an  **HTMLDivision** object that represents a parent division of the cur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LevelsUp_|Optional| **Long**|The number of parent divisions to count back to return the desired division. If the LevelsUp argument is omitted, the HTML division returned is one level up from the current HTML division.|
 
-### Return Value
+### Return value
 
 HTMLDivision
 

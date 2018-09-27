@@ -14,7 +14,7 @@ Contains constants that specify a graphical indicator.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjIndicatorArrowDouble**|42|The indicator is a double arrow.|
 |**pjIndicatorArrowDown**|44|The indicator is a down arrow.|

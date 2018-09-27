@@ -1,5 +1,5 @@
 ---
-title: Module.InsertText Method (Access)
+title: Module.InsertText method (Access)
 keywords: vbaac10.chm12271
 f1_keywords:
 - vbaac10.chm12271
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.InsertText Method (Access)
+# Module.InsertText method (Access)
 
 The  **InsertText** method inserts a specified string of text into a standard module or a class module.
 
 
 ## Syntax
 
- _expression_. `InsertText`( ` _Text_` )
+_expression_. `InsertText`( ` _Text_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required|**String**|The text to be inserted into the module.|
 
-### Return Value
+### Return value
 
 Nothing
 

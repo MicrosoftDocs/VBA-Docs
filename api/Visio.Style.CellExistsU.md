@@ -27,12 +27,12 @@ Determines whether a particular ShapeSheet cell exists in the scope of the searc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _localeIndependentCellName_|Required| **String**|The universal name of the ShapeSheet cell for which you want to search.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

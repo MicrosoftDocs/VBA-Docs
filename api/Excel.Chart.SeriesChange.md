@@ -30,12 +30,12 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SeriesIndex_|Required| **Long**| The offset within the **[Series](Excel.Series(object).md)** collection for the changed series.|
 | _PointIndex_|Required| **Long**|The offset within the  **[Points](Excel.Points(object).md)** collection for the changed point.|
 
-### Return Value
+### Return value
 
 Nothing
 

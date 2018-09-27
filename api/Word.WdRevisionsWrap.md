@@ -14,7 +14,7 @@ Specifies how revision marks are displayed in the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWrapAlways**|1|Revisions are wrapped.|
 | **wdWrapAsk**|2|Ask the user if revisions should be wrapped.|

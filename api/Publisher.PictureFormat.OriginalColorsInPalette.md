@@ -23,7 +23,7 @@ Returns a  **Long** that represents the number of colors in the specified linked
  _expression_ A variable that represents an  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 Long
 

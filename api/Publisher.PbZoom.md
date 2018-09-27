@@ -17,7 +17,7 @@ Indicates the zoom setting of the specified view.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbZoomFitSelection**|-3|Resizes the page view to the size of the current selection.|
 | **pbZoomPageWidth**|-1|Resizes the page view to the width of the publication.|

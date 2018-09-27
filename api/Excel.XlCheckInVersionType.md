@@ -14,7 +14,7 @@ Specifies the type of version for the document checked in when using the  **Chec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCheckInMajorVersion**|1|Check in the major version.|
 | **xlCheckInMinorVersion**|0|Check in the minor version.|

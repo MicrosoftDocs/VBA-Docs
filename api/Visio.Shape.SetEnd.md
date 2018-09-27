@@ -27,12 +27,12 @@ Moves the endpoint of a one-dimensional (1-D) shape to the coordinates represent
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xPos_|Required| **Double**|The new x-coordinate of the endpoint.|
 | _yPos_|Required| **Double**|The new y-coordinate of the endpoint.|
 
-### Return Value
+### Return value
 
 Nothing
 

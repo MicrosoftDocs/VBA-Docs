@@ -14,7 +14,7 @@ Specifies the marker style for a point or series in a line chart, scatter chart,
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlMarkerStyleAutomatic**|-4105|Automatic markers.|
 |**xlMarkerStyleCircle**|8|Circular markers.|

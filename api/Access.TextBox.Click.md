@@ -1,5 +1,5 @@
 ---
-title: TextBox.Click Event (Access)
+title: TextBox.Click event (Access)
 keywords: vbaac10.chm14201
 f1_keywords:
 - vbaac10.chm14201
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Click Event (Access)
+# TextBox.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

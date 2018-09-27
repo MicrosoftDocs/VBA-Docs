@@ -1,5 +1,5 @@
 ---
-title: Form.Properties Property (Access)
+title: Form.Properties property (Access)
 keywords: vbaac10.chm13501
 f1_keywords:
 - vbaac10.chm13501
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Properties Property (Access)
+# Form.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -27,11 +27,11 @@ Returns a single object from a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ViewName_|Required| **Variant**|The name or index number for the object.|
 
-### Return Value
+### Return value
 
 A  **[CustomView](Excel.CustomView.md)** object contained by the collection.
 

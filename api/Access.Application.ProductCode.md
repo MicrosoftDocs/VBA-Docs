@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (Access)
+title: Application.ProductCode property (Access)
 keywords: vbaac10.chm12584
 f1_keywords:
 - vbaac10.chm12584
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ProductCode Property (Access)
+# Application.ProductCode property (Access)
 
 You can use the  **ProductCode** property to determine the Access globally unique identifier (GUID). Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `ProductCode`
+_expression_. `ProductCode`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

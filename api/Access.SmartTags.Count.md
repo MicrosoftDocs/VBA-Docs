@@ -1,5 +1,5 @@
 ---
-title: SmartTags.Count Property (Access)
+title: SmartTags.Count property (Access)
 keywords: vbaac10.chm13285
 f1_keywords:
 - vbaac10.chm13285
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTags.Count Property (Access)
+# SmartTags.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SmartTags](Access.SmartTags.md) object.
+_expression_ A variable that represents a [SmartTags](Access.SmartTags.md) object.
 
 
 ## See also

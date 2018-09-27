@@ -14,7 +14,7 @@ Specifies the state of the  **Protected View** window.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlProtectedViewWindowMaximized**|2|Maximized|
 | **xlProtectedViewWindowMinimized**|1|Minimized|

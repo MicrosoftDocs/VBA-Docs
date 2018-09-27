@@ -27,11 +27,11 @@ Converts a measurement from points to picas (1 pica = 12 points). Returns the co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
 
-### Return Value
+### Return value
 
 Single
 

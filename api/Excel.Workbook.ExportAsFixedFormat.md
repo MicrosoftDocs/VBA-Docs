@@ -27,7 +27,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **XlFixedFormatType**|Can be either  **xlTypePDF** or **xlTypeXPS** .|
 | _Filename_|Optional| **Variant**|A string that indicates the name of the file to be saved. You can include a full path or Excel saves the file in the current folder.|

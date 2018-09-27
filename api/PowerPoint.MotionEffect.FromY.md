@@ -23,7 +23,7 @@ Returns or sets a  **Single** that represents the vertical position of a **[Moti
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

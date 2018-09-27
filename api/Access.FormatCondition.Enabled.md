@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Enabled Property (Access)
+title: FormatCondition.Enabled property (Access)
 keywords: vbaac10.chm10057
 f1_keywords:
 - vbaac10.chm10057
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Enabled Property (Access)
+# FormatCondition.Enabled property (Access)
 
 You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

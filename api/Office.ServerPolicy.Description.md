@@ -23,7 +23,7 @@ A description of what the server policy is and its purpose. Read-only.
  _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

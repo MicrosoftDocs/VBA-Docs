@@ -27,7 +27,7 @@ Changes the case of the specified text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[PpChangeCase](PowerPoint.PpChangeCase.md)**|Specifies the way the case will be changed.|
 

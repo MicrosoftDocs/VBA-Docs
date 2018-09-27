@@ -23,7 +23,7 @@ Returns a value that represents the text orientation of the associated  **[Range
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return Value
+### Return value
 
 Variant
 

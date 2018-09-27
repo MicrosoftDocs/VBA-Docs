@@ -1,5 +1,5 @@
 ---
-title: Attachment.Dirty Event (Access)
+title: Attachment.Dirty event (Access)
 keywords: vbaac10.chm14023
 f1_keywords:
 - vbaac10.chm14023
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Dirty Event (Access)
+# Attachment.Dirty event (Access)
 
 The  **Dirty** event occurs when the content of the specified control changes.
 
 
 ## Syntax
 
- _expression_. `Dirty`( ` _Cancel_`, )
+_expression_. `Dirty`( ` _Cancel_`, )
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **Dirty** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Dirty** event.|
 

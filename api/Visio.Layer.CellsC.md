@@ -27,11 +27,11 @@ Returns a  **Cell** object that represents a ShapeSheet cell in a row in the Lay
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Required| **Integer**|The cell index of the cell to get.|
 
-### Return Value
+### Return value
 
 Cell
 

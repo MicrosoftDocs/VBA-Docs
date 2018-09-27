@@ -23,7 +23,7 @@ Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that represents
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return Value
+### Return value
 
 ThreeDFormat
 

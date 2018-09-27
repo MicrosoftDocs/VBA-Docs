@@ -23,7 +23,7 @@ Returns a  **[ColorEffect](PowerPoint.ColorEffect.md)** object that represents t
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return Value
+### Return value
 
 ColorEffect
 

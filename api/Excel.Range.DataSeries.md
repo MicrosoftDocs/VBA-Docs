@@ -27,7 +27,7 @@ Creates a data series in the specified range.  **Variant** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Rowcol_|Optional| **Variant**|Can be the  **xlRows** or **xlColumns** constant to have the data series entered in rows or columns, respectively. If this argument is omitted, the size and shape of the range is used.|
 | _Type_|Optional| **[XlDataSeriesType](Excel.XlDataSeriesType.md)**|The type for the data series.|
@@ -36,7 +36,7 @@ Creates a data series in the specified range.  **Variant** .
 | _Stop_|Optional| **Variant**|The stop value for the series. If this argument is omitted, Microsoft Excel fills to the end of the range.|
 | _Trend_|Optional| **Variant**| **True** to create a linear trend or growth trend. **False** to create a standard data series. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Variant
 

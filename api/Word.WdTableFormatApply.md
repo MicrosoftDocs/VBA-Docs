@@ -14,7 +14,7 @@ Specifies how table formatting should be applied.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTableFormatApplyAutoFit**|16|AutoFit.|
 | **wdTableFormatApplyBorders**|1|Borders.|

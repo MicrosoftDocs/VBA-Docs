@@ -25,7 +25,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Optional|**String**|The name of the field to search.|
 | _Test_|Optional|**String**|The type of comparison made between Field and Value. Can be one of the following [comparison strings](#comparison-strings).|

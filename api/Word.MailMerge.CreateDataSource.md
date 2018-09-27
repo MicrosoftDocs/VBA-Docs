@@ -27,7 +27,7 @@ Creates a Microsoft Word document that uses a table to store data for a mail mer
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The path and file name for the new data source.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the new data source.|

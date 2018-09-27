@@ -1,5 +1,5 @@
 ---
-title: Image.BorderThemeColorIndex Property (Access)
+title: Image.BorderThemeColorIndex property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BorderThemeColorIndex Property (Access)
+# Image.BorderThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BorderColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderThemeColorIndex`
+_expression_. `BorderThemeColorIndex`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

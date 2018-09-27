@@ -27,11 +27,11 @@ Returns the row in a section specified by row index number. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|Specifies the index number of the row to be returned.|
 
-### Return Value
+### Return value
 
 Row
 

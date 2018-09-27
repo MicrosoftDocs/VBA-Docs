@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.ControlType Property (Access)
+title: ObjectFrame.ControlType property (Access)
 keywords: vbaac10.chm11559
 f1_keywords:
 - vbaac10.chm11559
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.ControlType Property (Access)
+# ObjectFrame.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ControlType`
+_expression_. `ControlType`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

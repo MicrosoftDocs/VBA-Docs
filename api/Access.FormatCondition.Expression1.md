@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Expression1 Property (Access)
+title: FormatCondition.Expression1 property (Access)
 keywords: vbaac10.chm10060
 f1_keywords:
 - vbaac10.chm10060
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Expression1 Property (Access)
+# FormatCondition.Expression1 property (Access)
 
 You can use the  **Expression1** property to return the values of a conditional format within a **[FormatCondition](Access.FormatCondition.md)** object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Expression1`
+_expression_. `Expression1`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

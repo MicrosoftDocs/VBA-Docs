@@ -1,5 +1,5 @@
 ---
-title: CustomControl.About Property (Access)
+title: CustomControl.About property (Access)
 keywords: vbaac10.chm12048
 f1_keywords:
 - vbaac10.chm12048
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.About Property (Access)
+# CustomControl.About property (Access)
 
 Returns or sets a  **String** representing version and copyright information for an ActiveX control. Read/write.
 
 
 ## Syntax
 
- _expression_. `About`
+_expression_. `About`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

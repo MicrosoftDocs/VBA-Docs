@@ -14,7 +14,7 @@ Specifies the security mode an application uses when programmatically opening fi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAutomationSecurityByUI**|2|Uses the security setting specified in the  **Security** dialog box.|
 |**msoAutomationSecurityForceDisable**|3|Disables all macros in all files opened programmatically, without showing any security alerts.|

@@ -27,11 +27,11 @@ Returns a  **[NavigationModule](Outlook.NavigationModule.md)** object from the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the integer index of the position of the navigation module in the Navigation Pane, or the value used to match the default property of an object in the collection.|
 
-### Return Value
+### Return value
 
 A  **NavigationModule** object that represents the specified object.
 

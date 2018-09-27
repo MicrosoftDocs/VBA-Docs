@@ -1,5 +1,5 @@
 ---
-title: ListBox.Width Property (Access)
+title: ListBox.Width property (Access)
 keywords: vbaac10.chm11243
 f1_keywords:
 - vbaac10.chm11243
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Width Property (Access)
+# ListBox.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Specifies the way certain alerts and messages are handled while a macro is runni
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlertsAll**|-1|All message boxes and alerts are displayed; errors are returned to the macro.|
 | **wdAlertsMessageBox**|-2|Only message boxes are displayed; errors are trapped and returned to the macro.|

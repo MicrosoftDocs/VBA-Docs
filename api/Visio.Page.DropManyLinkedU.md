@@ -30,7 +30,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectsToInstance()_|Required| **Variant**|An array of type  **Variant** of objects to create instances of.|
 | _XYs()_|Required| **Double**|An array of type  **Double**|
@@ -39,7 +39,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 | _ApplyDataGraphicAfterLink_|Required| **Boolean**|Whether to apply the current data graphic to the linked shapes. See Remarks for more information.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of type  **Long** of shapes created and linked to.|
 
-### Return Value
+### Return value
 
 Long
 

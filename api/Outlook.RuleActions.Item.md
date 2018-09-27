@@ -27,11 +27,11 @@ Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule action within the  **RuleActions** collection. For example, the index value of the first rule action in the collection is 1, and the index value of the second rule action is 2.|
 
-### Return Value
+### Return value
 
 A  **RuleAction** object that matches the rule action specified by _Index_ .
 

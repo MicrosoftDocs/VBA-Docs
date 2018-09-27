@@ -14,7 +14,7 @@ Contains constants that specify the paper size.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjPaper10x11**|45|10x11 inches size.|
 |**pjPaper10x14**|16|10x14 inches size.|

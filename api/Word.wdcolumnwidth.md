@@ -15,7 +15,7 @@ Constants that represent column width in reading layout, passed to and returned 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdColumnWidthDefault**|2|Default column width.|
 | **wdColumnWidthNarrow**|1|Narrow column width.|

@@ -1,5 +1,5 @@
 ---
-title: Form.DataChange Event (Access)
+title: Form.DataChange event (Access)
 keywords: vbaac10.chm13685
 f1_keywords:
 - vbaac10.chm13685
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DataChange Event (Access)
+# Form.DataChange event (Access)
 
 Occurs when certain properties are changed or when certain methods are executed in the specified PivotTable view.
 
 
 ## Syntax
 
- _expression_. `DataChange`( ` _Reason_`, )
+_expression_. `DataChange`( ` _Reason_`, )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reason_|Required|**Long**|A  **PivotDataReasonEnum** constant that indicates the reason that this event was triggered.|
 
-### Return Value
+### Return value
 
 nothing
 

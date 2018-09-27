@@ -23,7 +23,7 @@ Closes the specified protected view window.
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

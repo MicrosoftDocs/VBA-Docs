@@ -14,7 +14,7 @@ Specifies the calculation mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCalculationAutomatic**|-4105|Excel controls recalculation.|
 | **xlCalculationManual**|-4135|Calculation is done when the user requests it.|

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.BackStyle Property (Access)
+title: Rectangle.BackStyle property (Access)
 keywords: vbaac10.chm10287
 f1_keywords:
 - vbaac10.chm10287
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.BackStyle Property (Access)
+# Rectangle.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BackStyle`
+_expression_. `BackStyle`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

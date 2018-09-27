@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetGridlinesBehavior Property (Access)
+title: Form.DatasheetGridlinesBehavior property (Access)
 keywords: vbaac10.chm13402
 f1_keywords:
 - vbaac10.chm13402
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetGridlinesBehavior Property (Access)
+# Form.DatasheetGridlinesBehavior property (Access)
 
 You can use the  **DatasheetGridlinesBehavior** property to specify which gridlines will appear in Datasheet view. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DatasheetGridlinesBehavior`
+_expression_. `DatasheetGridlinesBehavior`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

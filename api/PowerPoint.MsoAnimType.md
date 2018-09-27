@@ -14,7 +14,7 @@ Specifies the type of animation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimTypeColor**|2|Color|
 |**msoAnimTypeCommand**|6|Command|

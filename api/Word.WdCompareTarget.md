@@ -14,7 +14,7 @@ Specifies the target document for displaying document comparison differences.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCompareTargetCurrent**|1|Places comparison differences in the current document. Default.|
 | **wdCompareTargetNew**|2|Places comparison differences in a new document.|

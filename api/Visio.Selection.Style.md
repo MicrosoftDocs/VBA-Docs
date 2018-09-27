@@ -23,7 +23,7 @@ Gets or sets the style for a  **Selection** object. Read/write.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

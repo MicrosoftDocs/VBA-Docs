@@ -22,7 +22,7 @@ Occurs before Microsoft Outlook changes the view that is applied to the folder d
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |newView|Required| **String**|The name of the view that the View Control is switching to.|
 |Cancel|Optional| **Boolean**| **False** when the event occurs. If the event procedure sets this parameter to **True**, it cancels the switch and retains the current view.|

@@ -14,7 +14,7 @@ Specifies the subtotal function.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAverage**|-4106|Average.|
 | **xlCount**|-4112|Count.|

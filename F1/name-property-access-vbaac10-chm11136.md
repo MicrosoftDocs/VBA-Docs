@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.Name Property (Access)](http://msdn.microsoft.com/library/e97043b5-216f-2c5c-a531-45b29477cb77%28Office.15%29.aspx)
+[TextBox.Name property (Access)](http://msdn.microsoft.com/library/e97043b5-216f-2c5c-a531-45b29477cb77%28Office.15%29.aspx)
 
-[NavigationControl.Name Property (Access)](http://msdn.microsoft.com/library/0daea497-ec28-769b-6722-4ac60026147c%28Office.15%29.aspx)
+[NavigationControl.Name property (Access)](http://msdn.microsoft.com/library/0daea497-ec28-769b-6722-4ac60026147c%28Office.15%29.aspx)
 
 

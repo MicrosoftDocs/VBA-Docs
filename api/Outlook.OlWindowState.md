@@ -17,7 +17,7 @@ Indicates the window state.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMaximized**|0|The window is maximized.|
 | **olMinimized**|1|The window is minimized.|

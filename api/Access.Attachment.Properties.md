@@ -1,5 +1,5 @@
 ---
-title: Attachment.Properties Property (Access)
+title: Attachment.Properties property (Access)
 keywords: vbaac10.chm13906
 f1_keywords:
 - vbaac10.chm13906
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Properties Property (Access)
+# Attachment.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

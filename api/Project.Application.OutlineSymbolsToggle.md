@@ -27,11 +27,11 @@ Shows or hides outline symbols.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if Project displays outline symbols. The default value is **True** if outline symbols are hidden and **False** if they are visible.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,11 +27,11 @@ Applies a table to the active view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**| The name of the table to apply.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

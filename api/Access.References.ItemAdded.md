@@ -1,5 +1,5 @@
 ---
-title: References.ItemAdded Event (Access)
+title: References.ItemAdded event (Access)
 keywords: vbaac10.chm12646
 f1_keywords:
 - vbaac10.chm12646
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# References.ItemAdded Event (Access)
+# References.ItemAdded event (Access)
 
 The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
 
 
 ## Syntax
 
- _expression_. `ItemAdded`( ` _Reference_`, )
+_expression_. `ItemAdded`( ` _Reference_`, )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reference_|Required|**Reference**|The reference that was added to the project.|
 

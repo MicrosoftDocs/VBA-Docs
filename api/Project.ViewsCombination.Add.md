@@ -27,14 +27,14 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the combination view.|
 | _TopView_|Required|**Variant**|The view that appears in the top pane of a combination view.|
 | _BottomView_|Required|**Variant**|The view that appears in the bottom pane of a combination view.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if Project Server shows the view in the **View** menu. The default value is **False**|
 
-### Return Value
+### Return value
 
  **ViewCombination**
 

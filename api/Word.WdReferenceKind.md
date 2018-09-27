@@ -14,7 +14,7 @@ Specifies the information to include in a cross-reference.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdContentText**|-1|Insert text value of the specified item. For example, insert text of the specified heading.|
 | **wdEndnoteNumber**|6|Insert endnote reference mark.|

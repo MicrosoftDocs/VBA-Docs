@@ -14,7 +14,7 @@ Specifies the default justification for equations.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathJcCenter**|2|Center.|
 | **wdOMathJcCenterGroup**|1|Center as a group.|

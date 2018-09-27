@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.AfterUpdate Event (Access)
+title: OptionGroup.AfterUpdate event (Access)
 keywords: vbaac10.chm14186
 f1_keywords:
 - vbaac10.chm14186
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.AfterUpdate Event (Access)
+# OptionGroup.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_. `AfterUpdate`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

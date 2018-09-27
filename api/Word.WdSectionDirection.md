@@ -14,7 +14,7 @@ Specifies how Word displays the reading order and alignment for the specified se
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSectionDirectionLtr**|1|Displays the section with left alignment and left-to-right reading order.|
 | **wdSectionDirectionRtl**|0|Displays the section with right alignment and right-to-left reading order.|

@@ -23,7 +23,7 @@ Returns or sets the group for the specified series. Read/write
  _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **[XlAxisGroup](Excel.XlAxisGroup.md)**
 

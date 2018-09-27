@@ -27,11 +27,11 @@ Specifies whether a document can be checked out from a Microsoft SharePoint Serv
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The server path and name of the file.|
 
-### Return Value
+### Return value
 
 Boolean
 

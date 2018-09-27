@@ -1,5 +1,5 @@
 ---
-title: Report.GotFocus Event (Access)
+title: Report.GotFocus event (Access)
 keywords: vbaac10.chm13887
 f1_keywords:
 - vbaac10.chm13887
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.GotFocus Event (Access)
+# Report.GotFocus event (Access)
 
 The  **GotFocus** event occurs when the report receives the focus.
 
 
 ## Syntax
 
- _expression_. `GotFocus`
+_expression_. `GotFocus`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

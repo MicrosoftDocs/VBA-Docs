@@ -14,7 +14,7 @@ Specifies how Excel opens the XML data file.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlXmlLoadImportToList**|2|Places the contents of the XML data file in an XML table.|
 | **xlXmlLoadMapXml**|3|Displays the schema of the XML data file in the  **XML Structure** task pane.|

@@ -23,7 +23,7 @@ Returns  **True** if the specified shape is a member of a group, **False** other
  _expression_ A variable that represents an  **Shape** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.HelpContextId Property (Access)
+title: Attachment.HelpContextId property (Access)
 keywords: vbaac10.chm13933
 f1_keywords:
 - vbaac10.chm13933
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.HelpContextId Property (Access)
+# Attachment.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

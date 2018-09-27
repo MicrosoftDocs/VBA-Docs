@@ -23,7 +23,7 @@ Determines if certain user interface functions for the development environment i
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

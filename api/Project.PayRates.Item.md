@@ -24,7 +24,7 @@ Gets a single  **PayRate** object from the **PayRates** collection. Read-only **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the object to return.|
 

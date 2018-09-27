@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineTint Property (Access)
+title: ListBox.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineTint Property (Access)
+# ListBox.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineTint`
+_expression_. `GridlineTint`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

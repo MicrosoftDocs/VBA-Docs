@@ -1,5 +1,5 @@
 ---
-title: MacroError Object (Access)
+title: MacroError object (Access)
 keywords: vbaac10.chm14053
 f1_keywords:
 - vbaac10.chm14053
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError Object (Access)
+# MacroError object (Access)
 
 Represents the properties of a run-time error that occurs in a macro.
 

@@ -27,7 +27,7 @@ Occurs when you right-click a shape, a slide, a notes page, or some text. This e
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required|**Selection**|The selection below the mouse pointer when the right-click occurred.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the default context menu does not appear when the procedure is finished.|

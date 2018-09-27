@@ -23,7 +23,7 @@ Returns the page number of the page that the specified  **Section** object begin
  _expression_ A variable that represents a  **Section** object.
 
 
-### Return Value
+### Return value
 
 Long
 

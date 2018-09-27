@@ -24,7 +24,7 @@ Adds a stop to a gradient.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RGB_|Required|**MsoRGBType**|Specifies the color at the gradient stop.|
 | _Position_|Required|**Single**|Specifies the position of the stop within the gradient expressed as a percent.|

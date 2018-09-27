@@ -1,5 +1,5 @@
 ---
-title: Form.SubdatasheetExpanded Property (Access)
+title: Form.SubdatasheetExpanded property (Access)
 keywords: vbaac10.chm13511
 f1_keywords:
 - vbaac10.chm13511
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SubdatasheetExpanded Property (Access)
+# Form.SubdatasheetExpanded property (Access)
 
 You can use the  **SubdatasheetExpanded** property to specify or determine the saved state of all subdatasheets within a table or query. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `SubdatasheetExpanded`
+_expression_. `SubdatasheetExpanded`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

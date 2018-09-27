@@ -21,7 +21,7 @@ Returns the available members of the  **[BuildingBlocks](Publisher.BuildingBlock
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
  **BuildingBlocks**
 

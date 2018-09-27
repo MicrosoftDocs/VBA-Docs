@@ -24,12 +24,12 @@ Gets the address of the specified hyperlink associated with the specified shape 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the specified shape in the collection of shapes in the drawing that is open in Visio Viewer.|
 |HyperlinkIndex|Required| **Long**|The index of the specified hyperlink in the collection of hyperlinks in the specified shape in the drawing that is open in Visio Viewer.|
 
-### Return Value
+### Return value
 
  **String**
 

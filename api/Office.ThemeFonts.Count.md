@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **ThemeFonts** collection
  _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

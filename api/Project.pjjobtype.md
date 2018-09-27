@@ -13,7 +13,7 @@ Contains constants that specify the type of job (save, publish, or check in) tha
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCacheProjectCheckin**|1|The queue job message is to check in the project.|
 |**pjCacheProjectSave**|0|The queue job message is to save the project.|

@@ -1,5 +1,5 @@
 ---
-title: ListBox.Name Property (Access)
+title: ListBox.Name property (Access)
 keywords: vbaac10.chm11297
 f1_keywords:
 - vbaac10.chm11297
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Name Property (Access)
+# ListBox.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Contains constants that specify the leveling option.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResolveForResource**|1|Resolve leveling for the resource.|
 |**pjResolveForSelectedResources**|3|Resolve leveling for the selected resources.|

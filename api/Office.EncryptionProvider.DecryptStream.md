@@ -27,7 +27,7 @@ Decrypts and returns a stream of encrypted data for a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 | _StreamName_|Required|**String**|The ID of the stream of data.|

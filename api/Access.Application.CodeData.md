@@ -1,5 +1,5 @@
 ---
-title: Application.CodeData Property (Access)
+title: Application.CodeData property (Access)
 keywords: vbaac10.chm12579
 f1_keywords:
 - vbaac10.chm12579
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CodeData Property (Access)
+# Application.CodeData property (Access)
 
 You can use the  **CodeData** property to access the **[CodeData](Access.CodeData.md)** object and its related collections. Read-only **CodeData** object.
 
 
 ## Syntax
 
- _expression_. `CodeData`
+_expression_. `CodeData`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -22,7 +22,7 @@ Returns or sets a  **Variant** that represents a single value, a column of value
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |pvargColumn|Optional| **Variant**|An integer with a range from 0 to one less than the total number of columns.|
 |pvargIndex|Optional| **Variant**|An integer with a range from 0 to one less than the total number of rows.|

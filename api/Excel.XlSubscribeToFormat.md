@@ -14,7 +14,7 @@ Specifies the format to use when subscribing to a published edition.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSubscribeToPicture**|-4147|Picture|
 | **xlSubscribeToText**|-4158|Text|

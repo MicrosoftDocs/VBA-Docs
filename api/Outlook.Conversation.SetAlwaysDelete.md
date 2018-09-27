@@ -27,7 +27,7 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AlwaysDelete_|Required| **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDeleteConversation.md)**|A constant that indicates whether all existing and new items that arrive in the conversation are always moved to the Deleted Folder of the store specified by the  _Store_ parameter.|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store that contains the Deleted Items folder to which existing and new items of the conversation are to be moved.|

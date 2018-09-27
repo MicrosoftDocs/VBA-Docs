@@ -30,7 +30,7 @@ Removes an item from a  **CommandBarComboBox** control.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The item to be removed from the list.|
 

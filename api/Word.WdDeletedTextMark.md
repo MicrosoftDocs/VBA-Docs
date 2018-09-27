@@ -14,7 +14,7 @@ Specifies the formatting of text that is deleted while change tracking is enable
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDeletedTextMarkBold**|5|Deleted text is displayed in bold.|
 | **wdDeletedTextMarkCaret**|2|Deleted text is marked up by using caret characters.|

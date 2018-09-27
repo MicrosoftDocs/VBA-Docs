@@ -27,7 +27,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|**[MsoTextOrientation](./Office.MsoTextOrientation.md)**|The text orientation. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the text box relative to the left edge of the slide.|
@@ -35,7 +35,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
 | _Width_|Required|**Single**|The width of the text box, measured in points.|
 | _Height_|Required|**Single**| The height of the text box, measured in points.|
 
-### Return Value
+### Return value
 
 Shape
 

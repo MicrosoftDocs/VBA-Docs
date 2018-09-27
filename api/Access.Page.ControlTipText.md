@@ -1,5 +1,5 @@
 ---
-title: Page.ControlTipText Property (Access)
+title: Page.ControlTipText property (Access)
 keywords: vbaac10.chm12160
 f1_keywords:
 - vbaac10.chm12160
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.ControlTipText Property (Access)
+# Page.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlTipText`
+_expression_. `ControlTipText`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which pr
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

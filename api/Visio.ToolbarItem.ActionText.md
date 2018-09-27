@@ -23,7 +23,7 @@ Gets or sets the action text for a toolbar item. Read/write.
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

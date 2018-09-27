@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.SetFocus Method (Access)
+title: WebBrowserControl.SetFocus method (Access)
 keywords: vbaac10.chm14354
 f1_keywords:
 - vbaac10.chm14354
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.SetFocus Method (Access)
+# WebBrowserControl.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

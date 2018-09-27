@@ -23,7 +23,7 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that represents the
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return Value
+### Return value
 
 Interior
 

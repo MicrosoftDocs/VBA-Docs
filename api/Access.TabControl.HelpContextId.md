@@ -1,5 +1,5 @@
 ---
-title: TabControl.HelpContextId Property (Access)
+title: TabControl.HelpContextId property (Access)
 keywords: vbaac10.chm12098
 f1_keywords:
 - vbaac10.chm12098
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.HelpContextId Property (Access)
+# TabControl.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

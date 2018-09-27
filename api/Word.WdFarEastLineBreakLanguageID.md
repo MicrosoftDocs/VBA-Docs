@@ -14,7 +14,7 @@ Specifies the East Asian language to use when breaking lines of text in the spec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLineBreakJapanese**|1041|Japanese.|
 | **wdLineBreakKorean**|1042|Korean.|

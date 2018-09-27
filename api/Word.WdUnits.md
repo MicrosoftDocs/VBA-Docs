@@ -14,7 +14,7 @@ Specifies a unit of measure to use.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCell**|12|A cell.|
 | **wdCharacter**|1|A character.|

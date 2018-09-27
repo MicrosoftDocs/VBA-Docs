@@ -27,7 +27,7 @@ Sets up pages for printing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up pages for printing.|
 | _Portrait_|Optional|**Boolean**|**True** if the page orientation is portrait. **False** if the page orientation is landscape.|
@@ -37,7 +37,7 @@ Sets up pages for printing.
 | _PaperSize_|Optional|**Long**|The size of the paper to be used when printing. (Some printers may not support all of these paper sizes.) Can be one of the  **[PjPaperSize](Project.PjPaperSize.md)** constants.|
 | _FirstPageNumber_|Optional|**String**|Any valid integer to print on the first page or the string "Auto" to print the actual number of the first printed page. (For example, "3" if the first printed page is page 3.) Succeeding page numbers are incremented on this number. The default value is "Auto".|
 
-### Return Value
+### Return value
 
  **Boolean**
 

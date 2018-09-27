@@ -1,5 +1,5 @@
 ---
-title: Section.HasContinued Property (Access)
+title: Section.HasContinued property (Access)
 keywords: vbaac10.chm12212
 f1_keywords:
 - vbaac10.chm12212
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.HasContinued Property (Access)
+# Section.HasContinued property (Access)
 
 You can use the  **HasContinued** property to determine if part of the current section begins on the previous page. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasContinued`
+_expression_. `HasContinued`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

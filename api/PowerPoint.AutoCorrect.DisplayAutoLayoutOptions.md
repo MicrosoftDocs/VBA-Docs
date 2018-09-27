@@ -23,7 +23,7 @@ Determines whether Microsoft PowerPoint should display the  **AutoLayout Options
  _expression_ A variable that represents an [AutoCorrect](./PowerPoint.AutoCorrect.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

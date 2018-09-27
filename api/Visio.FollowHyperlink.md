@@ -24,12 +24,12 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the shape that contains the hyperlink.|
 |HyperlinkIndex|Required| **Long**|The index of the hyperlink in the collection of hyperlinks in the specified shape.|
 
-### Return Value
+### Return value
 
 Nothing
 

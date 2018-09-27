@@ -23,7 +23,7 @@ Returns  **True** if guides are visible in the specified publication. Read/write
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

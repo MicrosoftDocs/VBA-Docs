@@ -1,5 +1,5 @@
 ---
-title: Report.HasModule Property (Access)
+title: Report.HasModule property (Access)
 keywords: vbaac10.chm13774
 f1_keywords:
 - vbaac10.chm13774
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.HasModule Property (Access)
+# Report.HasModule property (Access)
 
 You can use the  **HasModule** property to specify or determine whether a form or report has a class module. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HasModule`
+_expression_. `HasModule`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

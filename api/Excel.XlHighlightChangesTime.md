@@ -14,7 +14,7 @@ Specifies which set of changes is shown in a shared workbook.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAllChanges**|2|Show all changes.|
 | **xlNotYetReviewed**|3|Show only changes not yet reviewed.|

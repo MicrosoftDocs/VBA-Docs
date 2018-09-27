@@ -23,7 +23,7 @@ Returns a  **Long** that represents the encryption session associated with the a
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

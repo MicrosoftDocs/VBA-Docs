@@ -14,7 +14,7 @@ Specifies the subtype of the CubeField.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCubeAttribute**|4|Attribute|
 | **xlCubeCalculatedMeasure**|5|Calculated Measure|

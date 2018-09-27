@@ -1,5 +1,5 @@
 ---
-title: Module.Type Property (Access)
+title: Module.Type property (Access)
 keywords: vbaac10.chm12287
 f1_keywords:
 - vbaac10.chm12287
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Type Property (Access)
+# Module.Type property (Access)
 
 Indicates whether a module is a standard module or a class module. Read-only  **[AcModuleType](Access.AcModuleType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ## Example

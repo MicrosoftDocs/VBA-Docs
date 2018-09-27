@@ -17,7 +17,7 @@ Specifies constants that define which data recordsets to publish; passed to the 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visPublishDataRecordsetAll**|0|Publish all data recordsets in the document.|
 | **visPublishDataRecordsetNone**|1|Publish none of the data recordsets in the document.|

@@ -27,11 +27,11 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 
-### Return Value
+### Return value
 
 Cell
 

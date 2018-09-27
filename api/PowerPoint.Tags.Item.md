@@ -27,11 +27,11 @@ Returns a single tag from the specified  **[Tags](PowerPoint.Tags.md)** collecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the single tag in the collection to be returned.|
 
-### Return Value
+### Return value
 
 String
 

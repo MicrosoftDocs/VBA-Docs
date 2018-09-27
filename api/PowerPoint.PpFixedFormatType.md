@@ -14,7 +14,7 @@ Constants that specify the type of fixed-format file to export, passed to the  *
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppFixedFormatTypePDF**|2|PDF format|
 |**ppFixedFormatTypeXPS**|1|XPS format|

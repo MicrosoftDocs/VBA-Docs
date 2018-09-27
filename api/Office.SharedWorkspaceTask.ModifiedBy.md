@@ -26,7 +26,7 @@ Gets the name of the user who last modified the object. Read-only.
  _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

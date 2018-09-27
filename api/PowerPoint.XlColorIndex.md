@@ -14,7 +14,7 @@ Specifies the color of a selected feature, such as a border, font, or fill.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlColorIndexAutomatic**|-4105|Automatic color.|
 |**xlColorIndexNone**|-4142|No color.|

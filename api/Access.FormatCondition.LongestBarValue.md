@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.LongestBarValue Property (Access)
+title: FormatCondition.LongestBarValue property (Access)
 keywords: vbaac10.chm14533
 f1_keywords:
 - vbaac10.chm14533
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.LongestBarValue Property (Access)
+# FormatCondition.LongestBarValue property (Access)
 
 Gets or sets a numeric expression that specifies the value of the longest bar of a  **[FormatCondition](Access.FormatCondition.md)**. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `LongestBarValue`
+_expression_. `LongestBarValue`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Report.FilterOn Property (Access)
+title: Report.FilterOn property (Access)
 keywords: vbaac10.chm13691
 f1_keywords:
 - vbaac10.chm13691
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FilterOn Property (Access)
+# Report.FilterOn property (Access)
 
 You can use the  **FilterOn** property to specify or determine whether the **Filter** property for a form or report is applied. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FilterOn`
+_expression_. `FilterOn`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

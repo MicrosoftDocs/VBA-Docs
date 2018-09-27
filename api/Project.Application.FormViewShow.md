@@ -23,7 +23,7 @@ Shows or hides the form view in the lower pane.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

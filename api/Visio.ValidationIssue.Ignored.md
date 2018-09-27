@@ -23,7 +23,7 @@ Determines whether the validation issue is currently ignored. Read/write.
  _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

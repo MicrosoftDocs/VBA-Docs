@@ -24,7 +24,7 @@ Private Sub  _expression_ _'AfterModal'(**_ByVal app As [IVAPPLICATION]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance that is no longer modal.|
 

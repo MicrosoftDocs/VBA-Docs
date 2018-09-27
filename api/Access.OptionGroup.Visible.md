@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Visible Property (Access)
+title: OptionGroup.Visible property (Access)
 keywords: vbaac10.chm10827
 f1_keywords:
 - vbaac10.chm10827
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Visible Property (Access)
+# OptionGroup.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

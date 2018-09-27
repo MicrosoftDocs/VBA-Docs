@@ -27,7 +27,7 @@ Attaches a mail merge header source to the specified document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The file name of the header source.|
 | _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the  **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with a **FileConverter** object to determine the value to use with this argument.|

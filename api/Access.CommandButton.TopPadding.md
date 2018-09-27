@@ -1,5 +1,5 @@
 ---
-title: CommandButton.TopPadding Property (Access)
+title: CommandButton.TopPadding property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.TopPadding Property (Access)
+# CommandButton.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the button and its top gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## See also

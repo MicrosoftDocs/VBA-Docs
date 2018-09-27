@@ -27,7 +27,7 @@ Changes or creates a Gantt bar style, where colors can be hexadecimal values.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**String**|The name or row number of the Gantt bar style to change in the  **Bar Styles** dialog box.|
 | _Create_|Optional|**Boolean**|**True** if a new Gantt bar style is created and inserted in the **Bar Styles** dialog box before the Gantt bar style specified with **Item**. If **Item** is "-1", the new Gantt bar style is added to the end of the list of styles. The default value is **False**.|
@@ -51,7 +51,7 @@ Changes or creates a Gantt bar style, where colors can be hexadecimal values.
 | _RightText_|Optional|**String**|The task field to display to the right of the Gantt bar.|
 | _InsideText_|Optional|**String**|The task field to display inside the Gantt bar.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

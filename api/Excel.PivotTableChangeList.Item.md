@@ -27,7 +27,7 @@ Returns a single  **[ValueChange](Excel.ValueChange.md)** object from the specif
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The MDX name (tuple) or index number of the object.|
 

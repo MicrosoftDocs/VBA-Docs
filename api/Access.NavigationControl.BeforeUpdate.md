@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.BeforeUpdate Event (Access)
+title: NavigationControl.BeforeUpdate event (Access)
 keywords: vbaac10.chm14194
 f1_keywords:
 - vbaac10.chm14194
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.BeforeUpdate Event (Access)
+# NavigationControl.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`( ` _Cancel_`, )
+_expression_. `BeforeUpdate`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

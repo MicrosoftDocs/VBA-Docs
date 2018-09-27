@@ -23,7 +23,7 @@ Clears the selected sparklines.
  _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

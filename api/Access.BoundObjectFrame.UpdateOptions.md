@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.UpdateOptions Property (Access)
+title: BoundObjectFrame.UpdateOptions property (Access)
 keywords: vbaac10.chm10917
 f1_keywords:
 - vbaac10.chm10917
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.UpdateOptions Property (Access)
+# BoundObjectFrame.UpdateOptions property (Access)
 
 You can use the  **UpdateOptions** property to specify how a linkedOLE object is updated. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `UpdateOptions`
+_expression_. `UpdateOptions`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

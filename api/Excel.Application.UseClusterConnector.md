@@ -23,7 +23,7 @@ Returns or sets whether Excel allows user-defined functions in XLL add-ins to be
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

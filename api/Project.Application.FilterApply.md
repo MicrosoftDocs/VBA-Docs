@@ -27,14 +27,14 @@ Sets the current filter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the filter to use.|
 | _Highlight_|Optional|**Boolean**|**True** if Project highlights rows rather than applying the filter. The default value is **False**.|
 | _Value1_|Optional|**String**|The first value to use when applying an interactive filter.|
 | _Value2_|Optional|**String**|The second value to use when applying an interactive filter.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

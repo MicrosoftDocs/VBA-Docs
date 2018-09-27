@@ -27,7 +27,7 @@ Creates or edits an import/export map.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the map to create, copy, or edit.|
 | _Create_|Optional|**Boolean**|**True** if Project should create a new map. If NewName is not specified, the new map is given the name specified with Name. Otherwise, the new map is a copy of the map specified with Name and is given the name specified with NewName. The default value is **False**.|
@@ -50,7 +50,7 @@ Creates or edits an import/export map.
 | _IncludeImage_|Optional|**Boolean**|**True** if a reference to an image file should be included when exporting to HTML. The default value is **False**.|
 | _ImageFile_|Optional|**String**|The name of an image file to include when exporting to HTML.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

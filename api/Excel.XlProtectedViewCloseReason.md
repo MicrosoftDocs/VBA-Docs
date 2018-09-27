@@ -14,7 +14,7 @@ Specifies how the  **Protected View** window was closed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlProtectedViewCloseEdit**|1|The window was closed when the user clicked the  **Enable Editing** button.|
 | **xlProtectedViewCloseForced**|2|The window was closed because the application shut it down forcefully or stopped responding.|

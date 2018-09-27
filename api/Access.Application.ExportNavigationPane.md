@@ -1,5 +1,5 @@
 ---
-title: Application.ExportNavigationPane Method (Access)
+title: Application.ExportNavigationPane method (Access)
 keywords: vbaac10.chm12618
 f1_keywords:
 - vbaac10.chm12618
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ExportNavigationPane Method (Access)
+# Application.ExportNavigationPane method (Access)
 
 Saves the current configuration of the Navigation Pane to an XML file.
 
 
 ## Syntax
 
- _expression_. `ExportNavigationPane`( ` _Path_` )
+_expression_. `ExportNavigationPane`( ` _Path_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path and name of the XML file that you want to save the configuration of the Navigation Pane to. |
 

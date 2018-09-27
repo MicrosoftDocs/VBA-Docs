@@ -27,12 +27,12 @@ Saves an encrypted document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 | _EncryptionData_|Required|**IUnknown**|Contains the encryption information.|
 
-### Return Value
+### Return value
 
 Long
 

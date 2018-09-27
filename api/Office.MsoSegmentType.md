@@ -14,7 +14,7 @@ Specifies the type for a segment. Used with the  **Insert** and **AddNodes** met
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSegmentCurve**|1|Curve.|
 |**msoSegmentLine**|0|Line.|

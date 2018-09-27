@@ -27,7 +27,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The item name or number (can be an array to specify more than one item).|
 

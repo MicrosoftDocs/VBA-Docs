@@ -27,7 +27,7 @@ Moves the selection to the left and returns the number of units it has been move
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **WdUnits**|The unit by which the selection is to be moved.The default value is  **wdCharacter** .|
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|

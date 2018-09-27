@@ -1,5 +1,5 @@
 ---
-title: ListBox.Height Property (Access)
+title: ListBox.Height property (Access)
 keywords: vbaac10.chm11244
 f1_keywords:
 - vbaac10.chm11244
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Height Property (Access)
+# ListBox.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Specifies how a caption is aligned with the edge of a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAlignmentLeft**|0|Places the caption to the left of the control.|
 | **olAlignmentRight**|1|Places the caption to the right of the control.|

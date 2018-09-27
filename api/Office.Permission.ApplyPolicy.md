@@ -27,7 +27,7 @@ Applies the specified permission policy to the active document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**| The path and filename of the permission policy template file.|
 

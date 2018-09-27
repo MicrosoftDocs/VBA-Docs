@@ -27,11 +27,11 @@ Returns or sets the adjustment value specified by the Index argument. Read/write
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the adjustment.|
 
-### Return Value
+### Return value
 
 Single
 

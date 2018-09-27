@@ -23,7 +23,7 @@ Returns the  **EventList** collection of an object or the **EventList** collecti
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 EventList
 

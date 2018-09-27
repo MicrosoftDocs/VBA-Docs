@@ -14,7 +14,7 @@ Contains constants that specify the type of object to paste or link.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjEmbedObject**|0|Paste an embedded object.|
 |**pjHTMLData**|4|Paste HTML data.|

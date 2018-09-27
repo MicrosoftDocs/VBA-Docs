@@ -27,13 +27,13 @@ Adds new topics from a real-time data server. The  **ConnectData** method is cal
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TopicID_|Required| **Long**| A unique value, assigned by Microsoft Excel, which identifies the topic.|
 | _Strings()_|Required| **Variant**|A single-dimensional array of strings identifying the topic.|
 | _GetNewValues_|Required| **Boolean**| **True** to determine if new values are to be acquired.|
 
-### Return Value
+### Return value
 
 Variant
 

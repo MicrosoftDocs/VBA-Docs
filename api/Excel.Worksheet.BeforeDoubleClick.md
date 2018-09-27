@@ -27,7 +27,7 @@ Occurs when a worksheet is double-clicked, before the default double-click actio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the double-click occurs.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default double-click action isn't performed when the procedure is finished.|

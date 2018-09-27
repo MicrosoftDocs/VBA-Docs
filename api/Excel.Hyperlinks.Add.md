@@ -27,7 +27,7 @@ Adds a hyperlink to the specified range or shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Anchor_|Required| **Object**|The anchor for the hyperlink. Can be either a  **[Range](Excel.Range(object).md)** or **[Shape](Excel.Shape.md)** object.|
 | _Address_|Required| **String**|The address of the hyperlink.|
@@ -35,7 +35,7 @@ Adds a hyperlink to the specified range or shape.
 | _ScreenTip_|Optional| **Variant**|The screen tip to be displayed when the mouse pointer is paused over the hyperlink.|
 | _TextToDisplay_|Optional| **Variant**|The text to be displayed for the hyperlink.|
 
-### Return Value
+### Return value
 
 A  **[Hyperlink](Excel.Hyperlink.md)** object that represents the new hyperlink.
 

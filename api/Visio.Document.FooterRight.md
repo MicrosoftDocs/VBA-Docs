@@ -23,7 +23,7 @@ Gets or sets the text string that appears in the right portion of a document's f
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

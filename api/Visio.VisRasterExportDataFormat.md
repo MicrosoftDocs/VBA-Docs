@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that identify which raster export data format algorithm to use; passed to and returned by the RasterExportDataFormat property.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterInterlace**|0|Interlace format; the default.|
 | **visRasterNonInterlace**|1|Non-interlace format.|

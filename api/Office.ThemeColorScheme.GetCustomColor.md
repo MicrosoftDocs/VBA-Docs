@@ -24,11 +24,11 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the custom color.|
 
-### Return Value
+### Return value
 
 MsoRGBType
 

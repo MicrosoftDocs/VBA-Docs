@@ -27,7 +27,7 @@ Sets the symbol used to represent the unchecked state of a check box content con
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CharacterNumber_|Required| **Long**|The Unicode character number for the specified symbol. This value will always be the sum of 31 (the number of control symbols at the beginning of the font) and the number that corresponds to the position of the symbol in the table of symbols (counting from left to right). For example, to specify a delta character at position 37 in the table of symbols in the Symbol font, set CharacterNumber to 68.|
 | _Font_|Optional| **String**|The name of the font that contains the symbol.|

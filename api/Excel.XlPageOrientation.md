@@ -14,7 +14,7 @@ Specifies the page orientation when the worksheet is printed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLandscape**|2|Landscape mode.|
 | **xlPortrait**|1|Portrait mode.|

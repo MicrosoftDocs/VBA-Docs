@@ -20,7 +20,7 @@ Gets or sets a constant that represents the type of bullet. Read/write.
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoBulletType
 

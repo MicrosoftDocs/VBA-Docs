@@ -27,11 +27,11 @@ Copies the current folder in its entirety to the destination folder.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required  **Folder** object that represents the destination folder.|
 
-### Return Value
+### Return value
 
 A  **Folder** object that represents the new copy of the current folder.
 

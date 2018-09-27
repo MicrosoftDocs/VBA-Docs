@@ -1,5 +1,5 @@
 ---
-title: ListBox.Section Property (Access)
+title: ListBox.Section property (Access)
 keywords: vbaac10.chm11271
 f1_keywords:
 - vbaac10.chm11271
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Section Property (Access)
+# ListBox.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Section`
+_expression_. `Section`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

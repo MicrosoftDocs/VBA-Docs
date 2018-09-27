@@ -27,11 +27,11 @@ Returns a constant in the  **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDelete
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store that holds the  **Deleted Items** folder to which items of the conversation are moved.|
 
-### Return Value
+### Return value
 
 A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates whether all new items of the conversation are always moved to the Deleted Items folder of the specified delivey store.
 

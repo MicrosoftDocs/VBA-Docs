@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Tag Property (Access)
+title: CheckBox.Tag property (Access)
 keywords: vbaac10.chm10732
 f1_keywords:
 - vbaac10.chm10732
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Tag Property (Access)
+# CheckBox.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

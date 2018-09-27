@@ -1,5 +1,5 @@
 ---
-title: AcRecord Enumeration (Access)
+title: AcRecord enumeration (Access)
 keywords: vbaac10.chm10025
 f1_keywords:
 - vbaac10.chm10025
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcRecord Enumeration (Access)
+# AcRecord enumeration (Access)
 
 Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which record to make the current record.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFirst**|2|Make the first record the current record.|
 |**acGoTo**|4|Make the specified record the current record.|

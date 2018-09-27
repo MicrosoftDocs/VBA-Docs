@@ -27,11 +27,11 @@ Sets the value of a cell to an integer value, even if the cell's formula is prot
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting the cell's value.|
 
-### Return Value
+### Return value
 
 Long
 

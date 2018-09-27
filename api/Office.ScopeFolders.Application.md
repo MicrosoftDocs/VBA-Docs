@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents a [ScopeFolders](./Office.ScopeFolders.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

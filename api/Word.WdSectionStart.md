@@ -14,7 +14,7 @@ Specifies the type of section break for the specified item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSectionContinuous**|0|Continuous section break.|
 | **wdSectionEvenPage**|3|Even pages section break.|

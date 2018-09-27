@@ -14,7 +14,7 @@ Specifies the predefined format to apply to a table.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTableFormat3DEffects1**|32|3-D effects format number 1.|
 | **wdTableFormat3DEffects2**|33|3-D effects format number 2.|

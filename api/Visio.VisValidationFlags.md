@@ -17,7 +17,7 @@ Specifies constants that define special validation behaviors; passed to the  **[
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visValidationDefault**|0|Validate document, and if validation issues are found, open the  **Issues** window.|
 | **visValidationNoOpenWindow**|1|Validate document, but do not open the  **Issues** window.|

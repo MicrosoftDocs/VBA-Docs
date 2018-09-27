@@ -1,5 +1,5 @@
 ---
-title: CodeProject Object (Access)
+title: CodeProject object (Access)
 keywords: vbaac10.chm12741
 f1_keywords:
 - vbaac10.chm12741
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject Object (Access)
+# CodeProject object (Access)
 
 The  **CodeProject** object refers to the project for the code database of a Microsoft Access project (.adp) or Access database.
 

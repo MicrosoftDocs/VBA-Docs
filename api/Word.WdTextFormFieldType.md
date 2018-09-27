@@ -14,7 +14,7 @@ Specifies the text form field type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCalculationText**|5|Calculation text field.|
 | **wdCurrentDateText**|3|Current date text field.|

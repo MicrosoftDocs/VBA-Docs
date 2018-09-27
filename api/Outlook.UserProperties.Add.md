@@ -27,14 +27,14 @@ Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property. The maximum length is 64 characters. The characters, '[', ']', '_' and '#', are not permitted in the name.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new property.|
 | _AddToFolderFields_|Optional| **Boolean**| **True** if the property will be added as a custom field to the folder that the item is in. This field can be displayed in the folder's view. **False** if the property will be added as a custom field to the item but not to the folder. The default value is **True** .|
 | _DisplayFormat_|Optional| **Long**|Specifies how the property will be displayed in the Outlook user interface. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
 
-### Return Value
+### Return value
 
 A  **[UserProperty](Outlook.UserProperty.md)** object that represents the new property.
 

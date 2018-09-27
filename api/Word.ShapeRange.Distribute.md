@@ -27,7 +27,7 @@ Evenly distributes the shapes in the specified range of shapes. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Distribute_|Required| **MsoDistributeCmd**|Specifies whether to distribute shapes horizontally or vertically.|
 | _RelativeTo_|Required| **Long**| **True** to distribute the shapes evenly over the entire horizontal or vertical space on the page. **False** to distribute them within the horizontal or vertical space that the range of shapes originally occupies.|

@@ -14,7 +14,7 @@ Contains constants that specify the dialog box to activate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjResourceAssignment**|4087|**Resource Assignment** dialog box.|
 

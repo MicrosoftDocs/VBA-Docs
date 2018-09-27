@@ -27,11 +27,11 @@ Counts the number of cells that contain numbers and counts numbers within the li
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.|
 
-### Return Value
+### Return value
 
 Double
 

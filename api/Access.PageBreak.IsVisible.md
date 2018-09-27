@@ -1,5 +1,5 @@
 ---
-title: PageBreak.IsVisible Property (Access)
+title: PageBreak.IsVisible property (Access)
 keywords: vbaac10.chm11679
 f1_keywords:
 - vbaac10.chm11679
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.IsVisible Property (Access)
+# PageBreak.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
+_expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

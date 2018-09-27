@@ -1,5 +1,5 @@
 ---
-title: AcFormatConditionType Enumeration (Access)
+title: AcFormatConditionType enumeration (Access)
 keywords: vbaac10.chm10039
 f1_keywords:
 - vbaac10.chm10039
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFormatConditionType Enumeration (Access)
+# AcFormatConditionType enumeration (Access)
 
 Specifies the type of conditional formatting to apply to a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDataBar**|3|The conditional format is displayed as a data bar.|
 |**acExpression**|1|The conditional format is based on an expression.|

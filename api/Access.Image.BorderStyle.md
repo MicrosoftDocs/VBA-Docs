@@ -1,5 +1,5 @@
 ---
-title: Image.BorderStyle Property (Access)
+title: Image.BorderStyle property (Access)
 keywords: vbaac10.chm10383
 f1_keywords:
 - vbaac10.chm10383
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.BorderStyle Property (Access)
+# Image.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

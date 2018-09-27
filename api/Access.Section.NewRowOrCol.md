@@ -1,5 +1,5 @@
 ---
-title: Section.NewRowOrCol Property (Access)
+title: Section.NewRowOrCol property (Access)
 keywords: vbaac10.chm12193,vbaac10.chm4436
 f1_keywords:
 - vbaac10.chm12193,vbaac10.chm4436
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.NewRowOrCol Property (Access)
+# Section.NewRowOrCol property (Access)
 
 You can use the  **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `NewRowOrCol`
+_expression_. `NewRowOrCol`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

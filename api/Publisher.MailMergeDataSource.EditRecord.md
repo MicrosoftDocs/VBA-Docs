@@ -27,7 +27,7 @@ Changes one of the data fields in one of the records in the master data source (
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |lRec|Required| **Long**|The ID of the record you want to edit.|
 |varField|Required| **Variant**|The data field (column) that contains the value you want to change.|

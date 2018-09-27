@@ -27,7 +27,7 @@ Occurs after the sheet of the PivotTable report has been updated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The selected sheet.|
 | _Target_|Required| **PivotTable**|The selected PivotTable report.|

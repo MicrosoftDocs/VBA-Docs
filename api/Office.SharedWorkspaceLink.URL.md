@@ -26,7 +26,7 @@ Gets the top-level Uniform Resource Locator (URL) of the shared workspace link. 
  _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

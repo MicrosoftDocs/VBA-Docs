@@ -27,12 +27,12 @@ Returns the formulas of many cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be queried.|
 | _formulaArray()_|Required| **Variant**|Out parameter. Array that receives formulas of queried cells.|
 
-### Return Value
+### Return value
 
 Nothing
 

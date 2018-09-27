@@ -14,7 +14,7 @@ Constants that specify the type of source material to be published, passed to an
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPublishAll**|1|Publish all.|
 |**ppPublishNamedSlideShow**|3|Publish a named slideshow.|

@@ -1,5 +1,5 @@
 ---
-title: AcDefReportView Enumeration (Access)
+title: AcDefReportView enumeration (Access)
 keywords: vbaac10.chm14056
 f1_keywords:
 - vbaac10.chm14056
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcDefReportView Enumeration (Access)
+# AcDefReportView enumeration (Access)
 
 Use with the  **DefaultView** property to set or return the opening view of a report.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDefViewPreview**|0|The report opens in Print Preview.|
 |**acDefViewReportBrowse**|1|The report opens in Report view.|

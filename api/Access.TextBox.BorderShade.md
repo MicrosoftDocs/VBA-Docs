@@ -1,5 +1,5 @@
 ---
-title: TextBox.BorderShade Property (Access)
+title: TextBox.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BorderShade Property (Access)
+# TextBox.BorderShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderShade`
+_expression_. `BorderShade`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

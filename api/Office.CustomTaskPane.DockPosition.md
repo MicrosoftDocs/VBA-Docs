@@ -23,7 +23,7 @@ Gets or sets an enumerated value specifying the docked position of a  **CustomTa
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Return Value
+### Return value
 
 MsoCTPDockPosition
 

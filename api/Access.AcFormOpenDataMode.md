@@ -1,5 +1,5 @@
 ---
-title: AcFormOpenDataMode Enumeration (Access)
+title: AcFormOpenDataMode enumeration (Access)
 keywords: vbaac10.chm10021
 f1_keywords:
 - vbaac10.chm10021
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFormOpenDataMode Enumeration (Access)
+# AcFormOpenDataMode enumeration (Access)
 
 Specifies the data entry mode of a form.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFormAdd**|0|The user can add new records but can't edit existing records.|
 |**acFormEdit**|1|The user can edit existing records and add new records.|

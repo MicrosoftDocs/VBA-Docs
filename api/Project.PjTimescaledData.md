@@ -14,7 +14,7 @@ Contains constants that specify the type of field for timescaled data in the Pro
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjActualCost**|10|Actual Cost field.|
 |**pjActualFixedCost**|47|Actual Fixed Cost field.|

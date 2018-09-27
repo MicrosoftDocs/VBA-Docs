@@ -23,7 +23,7 @@ Returns or sets the the indent level for the specified text as an integer from 1
  _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

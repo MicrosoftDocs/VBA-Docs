@@ -14,7 +14,7 @@ Specifies the extent of the search for the range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlWithinSheet**|1|Limit search to current sheet.|
 | **xlWithinWorkbook**|2|Search whole workbook.|

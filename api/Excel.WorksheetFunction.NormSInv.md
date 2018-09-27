@@ -30,11 +30,11 @@ Returns the inverse of the standard normal cumulative distribution. The distribu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - a probability corresponding to the normal distribution.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -14,7 +14,7 @@ Specifies the vertical alignment of text in a text frame. Used with the  **Verti
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnchorBottom**|4|Aligns text to bottom of text frame.|
 |**msoAnchorBottomBaseLine**|5|Anchors bottom of text string to current position, regardless of text resizing. When you resize text without baseline anchoring, text centers itself on previous position.|

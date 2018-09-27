@@ -27,7 +27,7 @@ Exits Microsoft Project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional|**Long**|Specifies whether Project saves changes before quitting. Can be one of the following  **[PjSaveType](Project.PjSaveType.md)** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default is **pjPromptSave** for new project files and projects that have changed since the last save.|
 

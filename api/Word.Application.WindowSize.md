@@ -27,7 +27,7 @@ Occurs when the application window is resized or moved.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document in the window being sized.|
 | _Wn_|Required| **Window**|The window being sized.|

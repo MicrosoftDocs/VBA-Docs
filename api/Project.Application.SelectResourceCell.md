@@ -27,13 +27,13 @@ Selects a cell containing resource information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Optional|**Long**|The row number (RowRelative is  **False**) or the relative row position (RowRelative is **True**) of the cell to select.|
 | _Column_|Optional|**String**|The field name of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

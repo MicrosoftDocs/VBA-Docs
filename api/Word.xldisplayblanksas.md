@@ -12,7 +12,7 @@ Specifies how blank cells are plotted on a chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlInterpolated**|3|Values are interpolated into the chart.|
 | **xlNotPlotted**|1|Blank cells are not plotted.|

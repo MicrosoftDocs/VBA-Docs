@@ -1,5 +1,5 @@
 ---
-title: TextBox.BorderStyle Property (Access)
+title: TextBox.BorderStyle property (Access)
 keywords: vbaac10.chm11078
 f1_keywords:
 - vbaac10.chm11078
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BorderStyle Property (Access)
+# TextBox.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

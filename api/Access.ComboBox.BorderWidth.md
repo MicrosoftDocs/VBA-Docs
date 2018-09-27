@@ -1,5 +1,5 @@
 ---
-title: ComboBox.BorderWidth Property (Access)
+title: ComboBox.BorderWidth property (Access)
 keywords: vbaac10.chm11411
 f1_keywords:
 - vbaac10.chm11411
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.BorderWidth Property (Access)
+# ComboBox.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderWidth`
+_expression_. `BorderWidth`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

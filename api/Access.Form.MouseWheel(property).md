@@ -1,5 +1,5 @@
 ---
-title: Form.MouseWheel Property (Access)
+title: Form.MouseWheel property (Access)
 keywords: vbaac10.chm13552
 f1_keywords:
 - vbaac10.chm13552
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseWheel Property (Access)
+# Form.MouseWheel property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **MouseWheel** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `MouseWheel`
+_expression_. `MouseWheel`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

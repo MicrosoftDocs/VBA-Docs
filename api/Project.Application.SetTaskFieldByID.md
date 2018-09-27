@@ -27,7 +27,7 @@ Sets the value of a task field specified by the field identification number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**PjField**|Field identification number. Can be one of the task fields specified by a  **[PjField](Project.PjField.md)** constant or a number returned by the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method.|
 | _Value_|Required|**String**|The value of the task field.|
@@ -36,7 +36,7 @@ Sets the value of a task field specified by the field identification number.
 | _TaskID_|Optional|**Variant**|The identification number of the task containing the field to set. If  _AllSelectedResources_ is **True**, _TaskID_ is ignored.|
 | _ProjectName_|Optional|**Variant**|If the active project is a consolidated project, specifies the name of the project for the task specified by  _TaskID_. If  _TaskID_ is not specified, _ProjectName_ is ignored. The default value is the name of the active project.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

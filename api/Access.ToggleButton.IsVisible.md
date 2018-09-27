@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.IsVisible Property (Access)
+title: ToggleButton.IsVisible property (Access)
 keywords: vbaac10.chm11745
 f1_keywords:
 - vbaac10.chm11745
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.IsVisible Property (Access)
+# ToggleButton.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

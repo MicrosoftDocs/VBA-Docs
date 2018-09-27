@@ -1,5 +1,5 @@
 ---
-title: AcLayoutType Enumeration (Access)
+title: AcLayoutType enumeration (Access)
 keywords: vbaac10.chm14040
 f1_keywords:
 - vbaac10.chm14040
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# AcLayoutType Enumeration (Access)
+# AcLayoutType enumeration (Access)
 
 Specifies the type of layout that the control is part of.
 
 
 |
 |
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acLayoutNone**|0|The control is not part of a layout.|
 |**acLayoutStacked**|2|The control is part of a stacked layout.|

@@ -14,7 +14,7 @@ Specifies the position to which a selection or the insertion point is moved in r
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGoToAbsolute**|1|An absolute position.|
 | **wdGoToFirst**|1|The first instance of the specified object.|

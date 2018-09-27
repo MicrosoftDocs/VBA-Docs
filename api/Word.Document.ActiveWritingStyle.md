@@ -27,7 +27,7 @@ Returns or sets the writing style for a specified language in the specified docu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LanguageID_|Required| **Variant**|The language to set the writing style for in the specified document. Can be either a string or one of the following  **WdLanguageID** constants. Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 

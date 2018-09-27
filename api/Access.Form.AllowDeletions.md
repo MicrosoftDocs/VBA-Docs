@@ -1,5 +1,5 @@
 ---
-title: Form.AllowDeletions Property (Access)
+title: Form.AllowDeletions property (Access)
 keywords: vbaac10.chm13357,vbaac10.chm4260
 f1_keywords:
 - vbaac10.chm13357,vbaac10.chm4260
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowDeletions Property (Access)
+# Form.AllowDeletions property (Access)
 
 You can use the  **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowDeletions`
+_expression_. `AllowDeletions`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -27,12 +27,12 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassOrProgID_|Required| **String**|Identifies the type of object or control to create.|
 | _Flags_|Required| **Integer**|Flags that influence the operation.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -27,7 +27,7 @@ Adds an IF field to a mail merge main document. Returns a  **MailMergeField** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the IF field.|
 | _MergeField_|Required| **String**|The merge field name.|
@@ -38,7 +38,7 @@ Adds an IF field to a mail merge main document. Returns a  **MailMergeField** ob
 | _FalseAutoText_|Optional| **Variant**|The AutoText entry that's inserted if the comparison is false. If this argument is specified, FalseText is ignored.|
 | _FalseText_|Optional| **Variant**|The text that's inserted if the comparison is false.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

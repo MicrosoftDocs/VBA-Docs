@@ -14,7 +14,7 @@ Contains constants that specify the type of items in the Organizer.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCalendars**|5|Calendars.|
 |**pjDrawings**|11|Drawings|

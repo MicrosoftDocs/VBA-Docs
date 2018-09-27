@@ -27,13 +27,13 @@ Automatically draws a connection in the specified direction between the shape an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ToShape_|Required| **[IVSHAPE]**|The shape to draw the connection to.|
 | _PlacementDir_|Required| **VisAutoConnectDir**|The direction in which to draw the connection. See Remarks for possible values.|
 | _Connector_|Optional| **[UNKNOWN]**|The connector to use.|
 
-### Return Value
+### Return value
 
 Nothing
 

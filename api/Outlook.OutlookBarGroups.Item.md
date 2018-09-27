@@ -27,11 +27,11 @@ Returns an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return Value
+### Return value
 
 An  **OutlookBarGroup** object that represents the specified object.
 

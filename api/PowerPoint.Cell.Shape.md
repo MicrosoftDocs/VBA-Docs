@@ -23,7 +23,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents a shape in a 
  _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

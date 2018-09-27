@@ -15,7 +15,7 @@ Specifies theme color constants that are passed to and returned by the  **[Page.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visThemeColorsNone**|0|No theme colors|
 | **visThemeColorsMonochrome**|1|Monochrome|

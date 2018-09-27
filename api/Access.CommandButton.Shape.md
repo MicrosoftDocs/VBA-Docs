@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Shape Property (Access)
+title: CommandButton.Shape property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Shape Property (Access)
+# CommandButton.Shape property (Access)
 
 Returns or sets the shape of the specified button. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Shape`
+_expression_. `Shape`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

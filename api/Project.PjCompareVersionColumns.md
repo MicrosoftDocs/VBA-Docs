@@ -14,7 +14,7 @@ Contains constants that specify how to compare views of project versions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCompareVersionColumnsDataAndDifferences**|0|Show both column differences and column data.|
 |**pjCompareVersionColumnsDataOnly**|1|Show only column data.|

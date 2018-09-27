@@ -1,5 +1,5 @@
 ---
-title: TextBox.EventProcPrefix Property (Access)
+title: TextBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm11040
 f1_keywords:
 - vbaac10.chm11040
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.EventProcPrefix Property (Access)
+# TextBox.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.GridlineWidthTop Property (Access)
+title: WebBrowserControl.GridlineWidthTop property (Access)
 keywords: vbaac10.chm14399
 f1_keywords:
 - vbaac10.chm14399
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.GridlineWidthTop Property (Access)
+# WebBrowserControl.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Defines a new name for a range of cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|Specifies the text, in English, to use as the name if the NameLocal parameter is not specified. Names cannot include spaces and cannot be formatted as cell references.|
 | _RefersTo_|Optional| **Variant**|Describes what the name refers to, in English, using A1-style notation, if the RefersToLocal, RefersToR1C1, and RefersToR1C1Local parameters are not specified.<table><tr><th>**Note**</th></tr><tr><td>**Nothing** is returned if the reference does not exist.</td></tr></table>|
@@ -41,7 +41,7 @@ Defines a new name for a range of cells.
 | _RefersToR1C1_|Optional| **Variant**|Describes what the name refers to, in English using R1C1-style notation, if the RefersTo, RefersToLocal, and RefersToR1C1Local parameters are not specified.|
 | _RefersToR1C1Local_|Optional| **Variant**|Describes what the name refers to, in localized text using R1C1-style notation, if the RefersTo, RefersToLocal, and RefersToR1C1 parameters are not specified.|
 
-### Return Value
+### Return value
 
 A  **[Name](Excel.Name.md)** object that represents the new name.
 

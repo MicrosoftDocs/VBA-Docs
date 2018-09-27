@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Left Property (Access)
+title: BoundObjectFrame.Left property (Access)
 keywords: vbaac10.chm10927
 f1_keywords:
 - vbaac10.chm10927
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Left Property (Access)
+# BoundObjectFrame.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

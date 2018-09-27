@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineStyleRight Property (Access)
+title: Attachment.GridlineStyleRight property (Access)
 keywords: vbaac10.chm13994
 f1_keywords:
 - vbaac10.chm13994
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineStyleRight Property (Access)
+# Attachment.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified attachment. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

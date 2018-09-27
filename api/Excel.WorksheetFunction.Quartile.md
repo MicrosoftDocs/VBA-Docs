@@ -35,12 +35,12 @@ For more information about the new functions, see the [Quartile_Inc](Excel.Works
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - the array or cell range of numeric values for which you want the quartile value.|
 | _Arg2_|Required| **Double**|Quart - indicates which value to return.|
 
-### Return Value
+### Return value
 
 Double
 

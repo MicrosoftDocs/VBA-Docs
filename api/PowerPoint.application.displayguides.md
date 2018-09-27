@@ -21,7 +21,7 @@ Gets or sets whether drawing guides are displayed in the application.
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

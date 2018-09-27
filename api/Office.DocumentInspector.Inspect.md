@@ -27,7 +27,7 @@ Inspects a document for specific information or document properties.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required|**MsoDocInspectorStatus**|An enumeration representing that status of the document. Status is an output parameter which means that its value is returned when the method has completed its purpose.|
 | _Results_|Required|**String**|Contains a lists the information items or document properties found in the document.|

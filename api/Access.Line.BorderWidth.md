@@ -1,5 +1,5 @@
 ---
-title: Line.BorderWidth Property (Access)
+title: Line.BorderWidth property (Access)
 keywords: vbaac10.chm10340
 f1_keywords:
 - vbaac10.chm10340
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.BorderWidth Property (Access)
+# Line.BorderWidth property (Access)
 
 You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderWidth`
+_expression_. `BorderWidth`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

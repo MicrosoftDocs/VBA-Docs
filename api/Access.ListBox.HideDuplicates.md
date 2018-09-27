@@ -1,5 +1,5 @@
 ---
-title: ListBox.HideDuplicates Property (Access)
+title: ListBox.HideDuplicates property (Access)
 keywords: vbaac10.chm11240
 f1_keywords:
 - vbaac10.chm11240
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.HideDuplicates Property (Access)
+# ListBox.HideDuplicates property (Access)
 
 You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `HideDuplicates`
+_expression_. `HideDuplicates`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

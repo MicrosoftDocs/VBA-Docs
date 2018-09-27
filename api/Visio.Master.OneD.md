@@ -23,7 +23,7 @@ Determines whether an object behaves as a one-dimensional (1-D) object. Read-onl
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

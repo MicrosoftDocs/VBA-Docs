@@ -17,7 +17,7 @@ Specifies the default caption, the number of buttons, the button labels, and the
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDefaultDelegates**|6|Displays one edit box for To recipients, uses localized string representing "Add" for the To button, and localized string representing "Add Users" for the caption.  **CcLabel** and **BccLabel** are set to an empty string. Sets **[SelectNamesDialog.AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)** to **True** and **[SelectNamesDialog.NumberOfRecipientSelectors](Outlook.SelectNamesDialog.NumberOfRecipientSelectors.md)** to **olTo**.|
 | **olDefaultMail**|1|Displays three edit boxes for To, Cc, and Bcc recipients, uses localized strings representing "To", "Cc", and "Bcc" for To, Cc, and Bcc buttons, and localized string representing "Select Names" for the caption. Sets  **AllowMultipleSelection** to **True** and **NumberOfRecipientSelectors** to **olToCcBcc**.|

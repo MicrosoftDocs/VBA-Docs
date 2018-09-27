@@ -14,7 +14,7 @@ Specifies the margin where revision balloons should be displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLeftMargin**|0|Left margin.|
 | **wdRightMargin**|1|Right margin. default.|

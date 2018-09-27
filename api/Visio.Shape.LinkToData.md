@@ -30,13 +30,13 @@ Links a shape to a data row in a data recordset.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data to link to.|
 | _RowID_|Required| **Long**|The ID of the row in the data recordset containing the particular data record to link to. |
 | _AutoApplyDataGraphics_|Optional| **Boolean**|Whether to automatically apply a data graphic to the linked shapes. See Remarks for more information.|
 
-### Return Value
+### Return value
 
 Nothing
 

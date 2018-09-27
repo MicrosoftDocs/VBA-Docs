@@ -1,5 +1,5 @@
 ---
-title: ListBox.NumeralShapes Property (Access)
+title: ListBox.NumeralShapes property (Access)
 keywords: vbaac10.chm11295
 f1_keywords:
 - vbaac10.chm11295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.NumeralShapes Property (Access)
+# ListBox.NumeralShapes property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `NumeralShapes`
+_expression_. `NumeralShapes`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

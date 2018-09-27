@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

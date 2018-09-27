@@ -27,7 +27,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents one of t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **XlBordersIndex**|One of the constants of  **XlBordersIndex** .|
 

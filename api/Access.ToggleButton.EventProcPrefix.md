@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.EventProcPrefix Property (Access)
+title: ToggleButton.EventProcPrefix property (Access)
 keywords: vbaac10.chm11697
 f1_keywords:
 - vbaac10.chm11697
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.EventProcPrefix Property (Access)
+# ToggleButton.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

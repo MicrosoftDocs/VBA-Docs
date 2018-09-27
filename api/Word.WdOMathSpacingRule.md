@@ -14,7 +14,7 @@ Specifies spacing for an equation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathSpacing1pt5**|1|One and half spaces for each line.|
 | **wdOMathSpacingDouble**|2|Double spacing.|

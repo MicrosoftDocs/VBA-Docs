@@ -14,7 +14,7 @@ Specifies the shape type for an  **AutoShape** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShape10pointStar**|149|10-point star.|
 |**msoShape12pointStar**|150|12-point star.|

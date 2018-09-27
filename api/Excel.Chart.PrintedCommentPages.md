@@ -23,7 +23,7 @@ Returns the number of comment pages that will be printed for the current chart. 
  _expression_ A variable that returns a '[Chart](Excel.Chart(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

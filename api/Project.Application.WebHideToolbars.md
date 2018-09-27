@@ -27,11 +27,11 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Hide_|Optional|**Boolean**|**True** if all toolbars except the **Menu** and **Web** toolbars are hidden. The default value is **True** if toolbars other than **Menu** and **Web** are displayed, and **False** if they are not.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

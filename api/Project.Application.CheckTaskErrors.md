@@ -27,11 +27,11 @@ Checks the task to ensure that required custom fields are filled and that the ca
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Optional|**Variant**|TaskID for the task or  **null**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

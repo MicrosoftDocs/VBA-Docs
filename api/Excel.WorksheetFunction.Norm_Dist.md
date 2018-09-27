@@ -27,14 +27,14 @@ Returns the normal distribution for the specified mean and standard deviation. T
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - The arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of the distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NORM_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return Value
+### Return value
 
 Double
 

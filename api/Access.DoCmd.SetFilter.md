@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SetFilter Method (Access)
+title: DoCmd.SetFilter method (Access)
 keywords: vbaac10.chm6000
 f1_keywords:
 - vbaac10.chm6000
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SetFilter Method (Access)
+# DoCmd.SetFilter method (Access)
 
 Use the  **SetFilter** method to apply a filter to the records in the active datasheet, form, report, or table.
 
 
 ## Syntax
 
- _expression_. `SetFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
+_expression_. `SetFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FilterName_|Optional|**Variant**|If provided, the name of a query or of a filter saved as a query. This argument or the WhereCondition argument is required.|
 | _WhereCondition_|Optional|**Variant**|If provided, a SQL WHERE clause that restricts the records in the datasheet, form, report, or table.|

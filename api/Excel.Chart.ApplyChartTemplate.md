@@ -27,7 +27,7 @@ Applies a standard or custom chart type to a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The file name for a chart template.|
 

@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineWidthBottom Property (Access)
+title: Label.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10256
 f1_keywords:
 - vbaac10.chm10256
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineWidthBottom Property (Access)
+# Label.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified label. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

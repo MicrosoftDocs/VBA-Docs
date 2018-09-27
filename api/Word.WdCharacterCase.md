@@ -14,7 +14,7 @@ Specifies the case of the text in the specified range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFullWidth**|7|Full-width. Used for Japanese characters.|
 | **wdHalfWidth**|6|Half-width. Used for Japanese characters.|

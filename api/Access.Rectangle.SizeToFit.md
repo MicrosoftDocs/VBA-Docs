@@ -1,5 +1,5 @@
 ---
-title: Rectangle.SizeToFit Method (Access)
+title: Rectangle.SizeToFit method (Access)
 keywords: vbaac10.chm10277
 f1_keywords:
 - vbaac10.chm10277
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.SizeToFit Method (Access)
+# Rectangle.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

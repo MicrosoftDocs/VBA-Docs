@@ -27,11 +27,11 @@ Returns a  **HeaderFooter** object that represents a header or footer in a range
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdHeaderFooterIndex**|A constant that specifies the header or footer in the range or section.|
 
-### Return Value
+### Return value
 
 HeaderFooter
 

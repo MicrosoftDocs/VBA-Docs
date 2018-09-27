@@ -24,12 +24,12 @@ Makes a copy of a group definition from the  **Groups2** collection and returns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the group to copy.|
 | _NewName_|Required|**String**|The name of the new group.|
 
-### Return Value
+### Return value
 
  **Group2**
 

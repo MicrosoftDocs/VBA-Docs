@@ -27,7 +27,7 @@ Occurs after a node is deleted in a  **CustomXMLPart** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the  **CustomXMLPart** object. Note that this node may have children, if a subtree is being removed from the document. Also, this node will be a "disconnected" node in that you can query down from the node, but you cannot query up the tree - the node appears to exist alone.|
 | _OldParentNode_|Required|**CustomXMLNode**|Corresponds to the former parent node of OldNode.|

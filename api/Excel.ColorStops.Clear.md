@@ -23,7 +23,7 @@ Clears the represented object.
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

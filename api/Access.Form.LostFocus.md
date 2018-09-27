@@ -1,5 +1,5 @@
 ---
-title: Form.LostFocus Event (Access)
+title: Form.LostFocus event (Access)
 keywords: vbaac10.chm13649
 f1_keywords:
 - vbaac10.chm13649
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.LostFocus Event (Access)
+# Form.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 
 
 ## Syntax
 
- _expression_. `LostFocus`
+_expression_. `LostFocus`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

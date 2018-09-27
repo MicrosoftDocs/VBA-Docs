@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Type Property (Access)
+title: FormatCondition.Type property (Access)
 keywords: vbaac10.chm10058
 f1_keywords:
 - vbaac10.chm10058
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Type Property (Access)
+# FormatCondition.Type property (Access)
 
 Returns the value of a  **[FormatCondition](Access.FormatCondition.md)** object type. Read-only **[AcFormatConditionType](Access.AcFormatConditionType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## See also

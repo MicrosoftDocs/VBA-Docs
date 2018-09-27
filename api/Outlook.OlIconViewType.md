@@ -17,7 +17,7 @@ Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** objec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olIconViewLarge**|0|Displays Outlook items as large icons, with the description for the Outlook item below the icon.|
 | **olIconViewList**|2|Displays Outlook items as a list of small icons, with the description for the Outlook item next to the icon.|

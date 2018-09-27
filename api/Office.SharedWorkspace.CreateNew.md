@@ -30,7 +30,7 @@ Creates a document workspace site on the server and adds the active document to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _URL_|Optional|**Variant**|The URL for the parent folder in which the new shared workspace is to be created. If you do not supply a URL, the site is created in the user's default server location.|
 | _Name_|Optional|**Variant**| The name of the new shared workspace site. The default value is the name of the active document without its file name extension. For example, if you create a workspace site for "Budget.xls", the name of the new site becomes "Budget".|

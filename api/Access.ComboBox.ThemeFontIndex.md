@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ThemeFontIndex Property (Access)
+title: ComboBox.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ThemeFontIndex Property (Access)
+# ComboBox.ThemeFontIndex property (Access)
 
 Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ThemeFontIndex`
+_expression_. `ThemeFontIndex`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

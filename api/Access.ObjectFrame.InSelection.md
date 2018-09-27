@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.InSelection Property (Access)
+title: ObjectFrame.InSelection property (Access)
 keywords: vbaac10.chm11613
 f1_keywords:
 - vbaac10.chm11613
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.InSelection Property (Access)
+# ObjectFrame.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `InSelection`
+_expression_. `InSelection`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

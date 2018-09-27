@@ -23,7 +23,7 @@ Determines the flip that is applied to the exported image when you call the  **E
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisRasterExportFlip](Visio.VisRasterExportFlip.md)**
 

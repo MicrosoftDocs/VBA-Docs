@@ -1,5 +1,5 @@
 ---
-title: Form.NewRecord Property (Access)
+title: Form.NewRecord property (Access)
 keywords: vbaac10.chm13491
 f1_keywords:
 - vbaac10.chm13491
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.NewRecord Property (Access)
+# Form.NewRecord property (Access)
 
 You can use the  **NewRecord** property to determine whether the current record is a new record. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_. `NewRecord`
+_expression_. `NewRecord`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

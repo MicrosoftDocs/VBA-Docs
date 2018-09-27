@@ -14,7 +14,7 @@ Contains constants that specify the way Project Server tracks actuals for a proj
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjTrackingMethodDefault**|0|Use the default tracking method.|
 |**pjTrackingMethodPercentComplete**|2|Tracking is by percent complete.|

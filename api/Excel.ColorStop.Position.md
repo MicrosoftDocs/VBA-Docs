@@ -23,7 +23,7 @@ Returns or sets the position of the  **ColorStop** . Read/write
  _expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

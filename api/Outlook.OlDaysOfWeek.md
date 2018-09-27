@@ -17,7 +17,7 @@ Constants representing days of the week.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFriday**|32|Friday|
 | **olMonday**|2|Monday|

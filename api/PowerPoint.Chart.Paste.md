@@ -27,7 +27,7 @@ Pastes chart data from the Clipboard into the chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following values: 
 |||

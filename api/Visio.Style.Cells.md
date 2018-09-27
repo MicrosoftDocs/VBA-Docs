@@ -27,11 +27,11 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _localeSpecificCellName_|Required| **String**|The name of a ShapeSheet cell.|
 
-### Return Value
+### Return value
 
 Cell
 

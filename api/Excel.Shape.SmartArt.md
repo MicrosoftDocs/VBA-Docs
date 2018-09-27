@@ -23,7 +23,7 @@ Returns an object that represents the SmartArt associated with the shape. Read-o
  _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
-### Return Value
+### Return value
 
  **[SmartArt](./Office.SmartArt.md)**
 

@@ -27,11 +27,11 @@ Specifies an array of cell ranges and a  **True** or **False** value indicating 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SRCStream()_|Required| **Integer**|An array of cell ranges and a  **True** or **False** value specifying how to filter events for each range.|
 
-### Return Value
+### Return value
 
 Nothing
 

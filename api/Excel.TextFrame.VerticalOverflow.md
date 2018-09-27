@@ -23,7 +23,7 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
  _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
-### Return Value
+### Return value
 
  **[XlOartVerticalOverflow](Excel.XlOartVerticalOverflow.md)**
 

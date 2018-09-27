@@ -23,7 +23,7 @@ Gets the name of a searchable folder. Read-only.
  _expression_ A variable that represents a [ScopeFolder](./Office.ScopeFolder.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

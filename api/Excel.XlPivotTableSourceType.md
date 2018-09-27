@@ -14,7 +14,7 @@ Specifies the source of the report data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlConsolidation**|3|Multiple consolidation ranges.|
 | **xlDatabase**|1|Microsoft Excel list or database.|

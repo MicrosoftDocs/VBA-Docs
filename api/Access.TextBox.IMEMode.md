@@ -1,5 +1,5 @@
 ---
-title: TextBox.IMEMode Property (Access)
+title: TextBox.IMEMode property (Access)
 keywords: vbaac10.chm11135
 f1_keywords:
 - vbaac10.chm11135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.IMEMode Property (Access)
+# TextBox.IMEMode property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IMEMode`
+_expression_. `IMEMode`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

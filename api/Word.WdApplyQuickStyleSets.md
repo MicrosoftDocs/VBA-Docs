@@ -14,7 +14,7 @@ Specifies a Quick Style set to apply to the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSessionStartSet**|1|Resets the Quick Style to the style set in use when the document was opened.|
 | **wdTemplateSet**|2|Resets the Quick Style to the style set from the template, if any.|

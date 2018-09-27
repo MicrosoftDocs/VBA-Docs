@@ -14,7 +14,7 @@ Specifies the tab stop alignment to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlignTabBar**|4|Bar-aligned.|
 | **wdAlignTabCenter**|1|Center-aligned.|

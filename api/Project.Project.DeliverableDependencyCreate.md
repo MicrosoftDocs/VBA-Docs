@@ -24,12 +24,12 @@ Creates a dependency on a deliverable and links the dependency to a task in the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable on which to create the dependency.|
 | _TaskGuid_|Required|**String**|The GUID of the task to link the dependency.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Exit Event (Access)
+title: WebBrowserControl.Exit event (Access)
 keywords: vbaac10.chm143127
 f1_keywords:
 - vbaac10.chm143127
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Exit Event (Access)
+# WebBrowserControl.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_`, )
+_expression_. `Exit`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

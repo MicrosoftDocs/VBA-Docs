@@ -27,7 +27,7 @@ Sets the type of BorderArt applied to the specified shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |BorderArtName|Required| **Variant**|The name of the BorderArt type applied to the specified shape.|
 

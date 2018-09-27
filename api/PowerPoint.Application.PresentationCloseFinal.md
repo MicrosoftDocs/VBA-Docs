@@ -27,11 +27,11 @@ Represents closing the final  **Presentation** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The  **Presentation** object.|
 
-### Return Value
+### Return value
 
 Nothing
 

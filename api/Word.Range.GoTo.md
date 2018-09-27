@@ -27,7 +27,7 @@ Returns a  **Range** object that represents the start position of the specified 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Optional| **Variant**|The kind of item to which the range is moved. Can be one of the  **WdGoToItem** constants.|
 | _Which_|Optional| **Variant**|The item to which the range is moved. Can be one of the  **WdGoToDirection** constants.|

@@ -1,5 +1,5 @@
 ---
-title: CommandButton.BackShade Property (Access)
+title: CommandButton.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.BackShade Property (Access)
+# CommandButton.BackShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackShade`
+_expression_. `BackShade`
 
- _expression_ A variable that represents a '[CommandButton](Access.CommandButton.md)' object.
+_expression_ A variable that represents a '[CommandButton](Access.CommandButton.md)' object.
 
 
 ## Remarks

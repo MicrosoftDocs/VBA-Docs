@@ -27,7 +27,7 @@ Gets a  **ScopeFolder** object that represents a subfolder of the parent object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Determines which subfolder to return.|
 

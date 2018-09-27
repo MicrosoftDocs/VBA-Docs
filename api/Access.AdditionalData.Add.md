@@ -1,5 +1,5 @@
 ---
-title: AdditionalData.Add Method (Access)
+title: AdditionalData.Add method (Access)
 keywords: vbaac10.chm13258
 f1_keywords:
 - vbaac10.chm13258
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# AdditionalData.Add Method (Access)
+# AdditionalData.Add method (Access)
 
-Adds an add table or query that will be included when the  **ExportXML** method is called.
+Adds an add table or query that will be included when the **ExportXML** method is called.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _var_` )
+_expression_. `Add`( ` _var_` )
 
- _expression_ A variable that represents an [AdditionalData](Access.AdditionalData.md) object.
+_expression_ A variable that represents an [AdditionalData](Access.AdditionalData.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _var_|Required|**String**|The name of the table or query to add.|
 
-### Return Value
+### Return value
 
 AdditionalData
 

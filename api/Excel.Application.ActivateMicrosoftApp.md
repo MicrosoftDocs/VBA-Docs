@@ -27,7 +27,7 @@ Activates a Microsoft application. If the application is already running, this m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **[XlMSApplication](Excel.XlMSApplication.md)**|Specifies the Microsoft application to activate.|
 

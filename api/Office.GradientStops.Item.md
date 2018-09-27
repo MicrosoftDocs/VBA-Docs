@@ -24,11 +24,11 @@ Gets a  **GradientStop** object from a **GradientStops** collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The name or index number of the object returned.|
 
-### Return Value
+### Return value
 
 GradientStop
 

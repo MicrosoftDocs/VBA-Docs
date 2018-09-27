@@ -24,13 +24,13 @@ Returns the date and time that follows another date by a specified duration, for
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|The original date to which the duration is added.|
 | _Duration_|Required|**Variant**|The duration to add to the start date.|
 | _Calendar_|Optional|**Object**|A resource, task, or base calendar object. The default value is the calendar of the active project.|
 
-### Return Value
+### Return value
 
  **Variant**
 

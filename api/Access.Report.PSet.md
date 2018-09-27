@@ -1,5 +1,5 @@
 ---
-title: Report.PSet Method (Access)
+title: Report.PSet method (Access)
 keywords: vbaac10.chm13784
 f1_keywords:
 - vbaac10.chm13784
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PSet Method (Access)
+# Report.PSet method (Access)
 
 The  **PSet** method sets a point on a **[Report](Access.Report.md)** object to a specified color when the **Print** event occurs.
 
 
 ## Syntax
 
- _expression_. `PSet`( ` _flags_`, ` _X_`, ` _Y_`, ` _color_` )
+_expression_. `PSet`( ` _flags_`, ` _X_`, ` _Y_`, ` _color_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _flags_|Required|**Integer**| A keyword that indicates the coordinates are relative to the current graphics position given by the settings for the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** properties of the _object_ argument.|
 | _X_|Required|**Single**|The horizontal coordinate of the point to set.|
 | _Y_|Required|**Single**|The vertical coordinate of the point to set.|
 | _color_|Required|**Long**|the RGB (red-green-blue) color to set the point to. If this argument is omitted, the value of the  **ForeColor** property is used. You can also use the **RGB** function or **QBColor** function to specify the color.|
 
-### Return Value
+### Return value
 
 Nothing
 

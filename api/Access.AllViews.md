@@ -1,5 +1,5 @@
 ---
-title: AllViews Object (Access)
+title: AllViews object (Access)
 keywords: vbaac10.chm12690
 f1_keywords:
 - vbaac10.chm12690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllViews Object (Access)
+# AllViews object (Access)
 
 The  **AllViews** collection contains an **[AccessObject](Access.AccessObject.md)** for each view in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

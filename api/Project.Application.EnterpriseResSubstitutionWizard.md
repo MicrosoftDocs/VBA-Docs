@@ -27,7 +27,7 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectList_|Optional|**String**|A comma-separated list of portfolio projects in the database.|
 | _PoolOption_|Optional|**Long**|Specifies the resource pool option. Can be one of the following  **PjResSubstitutionPoolOption** constants: **pjResSubstitutionResInList**, **pjResSubstitutionResInProject**, or **pjResSubstitutionResInRBS**. The default value is **pjResSubstitutionResInProject**.|
@@ -39,7 +39,7 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 | _AssignProposedResources_|Optional|**Variant**||
 | _LevelProposedBookings_|Optional|**Variant**||
 
-### Return Value
+### Return value
 
  **Boolean**
 

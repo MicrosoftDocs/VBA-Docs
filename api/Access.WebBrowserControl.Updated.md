@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Updated Event (Access)
+title: WebBrowserControl.Updated event (Access)
 keywords: vbaac10.chm143123
 f1_keywords:
 - vbaac10.chm143123
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Updated Event (Access)
+# WebBrowserControl.Updated event (Access)
 
 The  **Updated** event occurs when an OLE object's data has been modified.
 
 
 ## Syntax
 
- _expression_. `Updated`( ` _Code_`, )
+_expression_. `Updated`( ` _Code_`, )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Code_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

@@ -1,5 +1,5 @@
 ---
-title: Form.RecordSource Property (Access)
+title: Form.RecordSource property (Access)
 keywords: vbaac10.chm13345
 f1_keywords:
 - vbaac10.chm13345
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.RecordSource Property (Access)
+# Form.RecordSource property (Access)
 
 You can use the  **RecordSource** property to specify the source of the data for a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `RecordSource`
+_expression_. `RecordSource`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

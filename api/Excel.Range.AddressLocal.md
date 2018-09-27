@@ -27,7 +27,7 @@ Returns the range reference for the specified range in the language of the user.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowAbsolute_|Optional| **Variant**| **True** to return the row part of the reference as an absolute reference. The default value is **True** .|
 | _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True** .|

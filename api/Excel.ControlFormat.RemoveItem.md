@@ -27,7 +27,7 @@ Removes one or more items from a list box or combo box.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The number of the first item to be removed. Valid values are from 1 to the number of items in the list (returned by the  **ListCount** property).|
 | _Count_|Optional| **Variant**|The number of items to be removed, starting at item  _Index_. If this argument is omitted, one item is removed. If  _Index_ + _Count_ exceeds the number of items in the list, all items from _Index_ through the end of the list are removed without an error.|

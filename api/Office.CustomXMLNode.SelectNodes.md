@@ -27,11 +27,11 @@ Selects a collection of nodes matching an XPath expression. This method differs 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains an XPath expression.|
 
-### Return Value
+### Return value
 
 CustomXMLNodes
 

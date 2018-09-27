@@ -23,7 +23,7 @@ Returns an array of object types and a  **True** or **False** value indicating h
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Long()
 

@@ -30,7 +30,7 @@ ms.date: 06/08/2017
 |PresetGradientType|Required|MSOPRESETGRADIENTTYPE||
 |Name|Required/Optional|Data type|Description|
 
-### Return Value
+### Return value
 
  **VOID**
 

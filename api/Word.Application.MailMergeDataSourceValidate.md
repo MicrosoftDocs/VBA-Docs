@@ -27,7 +27,7 @@ Private Sub  _expression_ _'MailMergeDataSourceValidate'(**_ByVal Doc As Documen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The mail merge main document.|
 | _Handled_|Required| **Boolean**| **True** if the add-in has handled the validation event. This is a forward-only parameter and cannot be set in code. To set this value, you must use the **[MailMergeDataSourceValidate2](Word.Application.MailMergeDataSourceValidate2.md)** event.|

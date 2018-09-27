@@ -27,7 +27,7 @@ Applies a table style to the specified table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StyleID_|Optional|**String**|The identifier of the table style to apply.|
 | _SaveFormatting_|Optional|**Boolean**|**True** preserves table formatting.|

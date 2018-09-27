@@ -27,11 +27,11 @@ Activates the window that was previously opened.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NoWrap_|Optional|**Boolean**|**True** if using **WindowPrev** on the first opened window doesn't wrap around to the last opened window. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

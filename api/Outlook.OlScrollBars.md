@@ -17,7 +17,7 @@ Specifies which, if any, scroll bars to display for a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olScrollBarsBoth**|3|Display both the horizontal and vertical scroll bars as necessary.|
 | **olScrollBarsHorizontal**|1|Display a horizontal scroll bar only.|

@@ -27,12 +27,12 @@ Determines whether text will be animated in reverse order. Returns an  **[Effect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|The animation effect to which the reversal will apply.|
 | _animateInReverse_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines the text animation order.|
 
-### Return Value
+### Return value
 
 Effect
 

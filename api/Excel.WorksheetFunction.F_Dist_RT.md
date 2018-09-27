@@ -27,13 +27,13 @@ Returns the right-tailed F probability distribution. You can use this function t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Degrees_freedom2 - the denominator degrees of freedom.|
 
-### Return Value
+### Return value
 
 Double
 

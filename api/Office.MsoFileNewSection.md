@@ -14,7 +14,7 @@ Specifies the task pane section to which to add a file or where the file referen
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBottomSection**|4|**Bottom** section.|
 |**msoNew**|1|**New** section.|

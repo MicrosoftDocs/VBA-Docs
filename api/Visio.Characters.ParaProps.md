@@ -27,11 +27,11 @@ Sets the paragraph property of a  **Characters** object to a new value. Read/wri
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CellIndex_|Required| **Integer**|The cell value to set.|
 
-### Return Value
+### Return value
 
 Integer
 

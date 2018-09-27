@@ -1,5 +1,5 @@
 ---
-title: TextBox.TextAlign Property (Access)
+title: TextBox.TextAlign property (Access)
 keywords: vbaac10.chm11090
 f1_keywords:
 - vbaac10.chm11090
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.TextAlign Property (Access)
+# TextBox.TextAlign property (Access)
 
 The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `TextAlign`
+_expression_. `TextAlign`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

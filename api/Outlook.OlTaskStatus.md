@@ -17,7 +17,7 @@ Indicates the task status.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTaskComplete**|2|The task is complete.|
 | **olTaskDeferred**|4|The task is deferred.|

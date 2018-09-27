@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.KeyboardLanguage Property (Access)
+title: NavigationControl.KeyboardLanguage property (Access)
 keywords: vbaac10.chm11131
 f1_keywords:
 - vbaac10.chm11131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.KeyboardLanguage Property (Access)
+# NavigationControl.KeyboardLanguage property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `KeyboardLanguage`
+_expression_. `KeyboardLanguage`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

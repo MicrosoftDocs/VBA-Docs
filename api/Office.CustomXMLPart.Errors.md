@@ -23,7 +23,7 @@ Gets a  **CustomXMLValidationErrors** object that provides access to any XML val
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Return Value
+### Return value
 
 CustomXMLValidationErrors
 

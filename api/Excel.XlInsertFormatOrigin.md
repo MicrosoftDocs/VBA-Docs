@@ -14,7 +14,7 @@ Specifies from where to copy the format for inserted rows.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFormatFromLeftOrAbove**|0|Copy the format from cells above and/or to the left.|
 | **xlFormatFromRightOrBelow**|1|Copy the format from cells below and/or to the right.|

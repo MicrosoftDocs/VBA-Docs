@@ -20,7 +20,7 @@ Returns an object that represents the picture or texture fill for the specified 
  _expression_ A variable that repressents a '[FillFormat](Excel.FillFormat.md)' object.
 
 
-### Return Value
+### Return value
 
 [PictureEffects](Office.PictureEffects.md)
 

@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecifications.Count Property (Access)
+title: ImportExportSpecifications.Count property (Access)
 keywords: vbaac10.chm13338
 f1_keywords:
 - vbaac10.chm13338
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecifications.Count Property (Access)
+# ImportExportSpecifications.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [ImportExportSpecifications](Access.ImportExportSpecifications.md) object.
+_expression_ A variable that represents an [ImportExportSpecifications](Access.ImportExportSpecifications.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.TabIndex Property (Access)
+title: ObjectFrame.TabIndex property (Access)
 keywords: vbaac10.chm11587
 f1_keywords:
 - vbaac10.chm11587
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.TabIndex Property (Access)
+# ObjectFrame.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `TabIndex`
+_expression_. `TabIndex`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

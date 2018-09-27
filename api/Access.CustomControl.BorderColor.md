@@ -1,5 +1,5 @@
 ---
-title: CustomControl.BorderColor Property (Access)
+title: CustomControl.BorderColor property (Access)
 keywords: vbaac10.chm12027
 f1_keywords:
 - vbaac10.chm12027
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.BorderColor Property (Access)
+# CustomControl.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

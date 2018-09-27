@@ -14,7 +14,7 @@ Specifies the format for the Clipboard contents when they are inserted into a do
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPasteBitmap**|4|Bitmap.|
 | **wdPasteDeviceIndependentBitmap**|5|Device-independent bitmap.|

@@ -27,7 +27,7 @@ Sets some display options and Project Guide options.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowResourceAssignmentIndicators_|Optional|**Boolean**|**True** if Project displays indicators and options buttons for resource assignments. The default value is **False**.|
 | _ShowEditToStartFinishDates_|Optional|**Boolean**|**True** if Project displays actions on the undo stack for edits to start and finish dates. The default value is **False**.|
@@ -41,7 +41,7 @@ Sets some display options and Project Guide options.
 | _SetAsDefaults_|Optional|**Boolean**|**True** if the Project Guide settings for the active project should be used as the default for all new projects. The default value is **False**.|
 | _UseOMIDs_|Optional|**Variant**|**True** if Project uses internal IDs to match different-language or renamed Organizer items between projects. The default is **True**. See also the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

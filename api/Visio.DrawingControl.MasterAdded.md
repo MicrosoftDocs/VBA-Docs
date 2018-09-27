@@ -24,7 +24,7 @@ Private Sub  _expression_ _'MasterAdded'(**_ByVal master As [IVMASTER]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Master_|Required| **[IVMASTER]**|The master that was added to the document.|
 

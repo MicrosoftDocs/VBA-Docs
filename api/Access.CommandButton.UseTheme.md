@@ -1,5 +1,5 @@
 ---
-title: CommandButton.UseTheme Property (Access)
+title: CommandButton.UseTheme property (Access)
 keywords: vbaac10.chm14627
 f1_keywords:
 - vbaac10.chm14627
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.UseTheme Property (Access)
+# CommandButton.UseTheme property (Access)
 
 Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UseTheme`
+_expression_. `UseTheme`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

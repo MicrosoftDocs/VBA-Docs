@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [LegendKey](Excel.LegendKey(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

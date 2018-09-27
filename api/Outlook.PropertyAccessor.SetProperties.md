@@ -27,12 +27,12 @@ Sets the properties specified by the array  _SchemaNames_ to the values specifie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SchemaNames_|Required| **Variant**|An array of names of properties whose values are to be set as specified by the  _Values_ parameter. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 | _Values_|Required| **Variant**|An array of values that are to be set for the properties specified by the  _SchemaNames_ parameter.|
 
-### Return Value
+### Return value
 
 A  **Variant** that is **Null** (**Nothing** in VBA) if the operation is successful. If there is an error before any properties are set, for example, the number of elements in the _SchemaNames_ array does not match that in the _Values_ array, and an **Err** value will be returned. If there is an error during the setting of the properties, the return value is an array of **Err** objects, with the number of elements in this array being the same as that of the _SchemaNames_ array. An **Err** value in the array is mapped to the error result of setting the corresponding property in the _SchemaNames_ parameter.
 

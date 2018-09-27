@@ -27,13 +27,13 @@ Returns the relative position of an item in an array that matches a specified va
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lookup_value - the value you use to find the value you want in a table.|
 | _Arg2_|Required| **Variant**|Lookup_array - a contiguous range of cells containing possible lookup values. Lookup_array must be an array or an array reference.|
 | _Arg3_|Optional| **Variant**|Match_type - the number -1, 0, or 1. Match_type specifies how Microsoft Excel matches lookup_value with values in lookup_array.|
 
-### Return Value
+### Return value
 
 Double
 

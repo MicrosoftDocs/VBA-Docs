@@ -23,7 +23,7 @@ Calculates a specfied range of cells.
  _expression_ An expression that returns a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

@@ -27,7 +27,7 @@ Sets the segment type of the segment that follows the specified node.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The node whose segment type is to be set.|
 | _SegmentType_|Required|**MsoSegmentType**|Specifies if the segment is straight or curved.|

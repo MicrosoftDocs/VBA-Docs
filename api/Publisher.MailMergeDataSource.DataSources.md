@@ -23,7 +23,7 @@ Returns the  **MailMergeDataSources** collection that includes the parent **Mail
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Return Value
+### Return value
 
 MailMergeDataSources
 

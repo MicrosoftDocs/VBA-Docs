@@ -22,7 +22,7 @@ Returns or sets a  **Variant** that represents the specified entry in a **[ListB
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |pvargIndex|Optional| **Variant**|An integer with a range from 0 to one less than the number of entries in the list.|
 |pvargColumn|Optional| **Variant**|An integer with a range from 0 to one less than the number of columns in the list.|

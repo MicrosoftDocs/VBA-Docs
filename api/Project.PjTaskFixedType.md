@@ -14,7 +14,7 @@ Contains constants that specify the task type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFixedDuration**|1|Fixed duration.|
 |**pjFixedUnits**|0|Fixed units.|

@@ -27,11 +27,11 @@ Displays the  **Page Setup** dialog box. Equivalent to clicking **Page Setup** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**Variant**|The name of the view for which to set up pages for printing. The default value is the name of the active view.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

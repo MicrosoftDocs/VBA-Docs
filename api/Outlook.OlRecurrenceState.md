@@ -17,7 +17,7 @@ Indicates the recurrence state of an  **AppointmentItem** .
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olApptException**|3|The appointment is an exception to a recurrence pattern defined by a master appointment. |
 | **olApptMaster**|1|The appointment is a master appointment.|

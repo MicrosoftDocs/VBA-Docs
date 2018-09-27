@@ -27,7 +27,7 @@ Returns a  **Page** object that represents a collection of pages in a workbook. 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the page.|
 

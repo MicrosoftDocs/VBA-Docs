@@ -14,7 +14,7 @@ Specifies the type of link.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlExcelLinks**|1|The link is to an Excel worksheet.|
 | **xlOLELinks**|2|The link is to an OLE source.|

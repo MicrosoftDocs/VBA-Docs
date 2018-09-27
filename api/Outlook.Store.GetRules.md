@@ -23,7 +23,7 @@ Returns a  **[Rules](Outlook.Rules.md)** collection object that contains the **[
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Return Value
+### Return value
 
 A  **Rules** collection object that represents the set of **Rules** defined for the current session.
 

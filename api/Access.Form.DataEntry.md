@@ -1,5 +1,5 @@
 ---
-title: Form.DataEntry Property (Access)
+title: Form.DataEntry property (Access)
 keywords: vbaac10.chm13359,vbaac10.chm4316
 f1_keywords:
 - vbaac10.chm13359,vbaac10.chm4316
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DataEntry Property (Access)
+# Form.DataEntry property (Access)
 
 You can use the  **DataEntry** property to specify whether a bound form opens to allow data entry only. The **Data Entry** property doesn't determine whether records can be added; it only determines whether existing records are displayed. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DataEntry`
+_expression_. `DataEntry`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

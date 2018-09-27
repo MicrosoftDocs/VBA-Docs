@@ -27,7 +27,7 @@ Marks a  **[PostItem](Outlook.PostItem.md)** object as a task and assigns a task
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **PostItem** .|
 

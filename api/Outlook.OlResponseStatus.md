@@ -17,7 +17,7 @@ Indicates the response to a meeting request.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olResponseAccepted**|3|Meeting accepted.|
 | **olResponseDeclined**|4|Meeting declined.|

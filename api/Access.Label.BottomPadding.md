@@ -1,5 +1,5 @@
 ---
-title: Label.BottomPadding Property (Access)
+title: Label.BottomPadding property (Access)
 keywords: vbaac10.chm10248
 f1_keywords:
 - vbaac10.chm10248
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.BottomPadding Property (Access)
+# Label.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the label and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## See also

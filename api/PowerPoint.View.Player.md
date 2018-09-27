@@ -27,11 +27,11 @@ Allows access to playback controls for the associated view in the current window
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeId_|Required|**Variant**|The playback control.|
 
-### Return Value
+### Return value
 
 Player
 

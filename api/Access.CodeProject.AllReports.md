@@ -1,5 +1,5 @@
 ---
-title: CodeProject.AllReports Property (Access)
+title: CodeProject.AllReports property (Access)
 keywords: vbaac10.chm12708
 f1_keywords:
 - vbaac10.chm12708
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.AllReports Property (Access)
+# CodeProject.AllReports property (Access)
 
 You can use the  **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
 
 
 ## Syntax
 
- _expression_. `AllReports`
+_expression_. `AllReports`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

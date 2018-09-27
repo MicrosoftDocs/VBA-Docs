@@ -23,7 +23,7 @@ Returns a  **[Sequences](PowerPoint.Sequences.md)** object that represents anima
  _expression_ A variable that represents an [TimeLine](./PowerPoint.TimeLine.md) object.
 
 
-### Return Value
+### Return value
 
 Sequences
 

@@ -27,11 +27,11 @@ Converts the date-time value that is specified by  _Value_ and expressed in Coor
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Value_|Required| **Date**|The date-time value to be converted from UTC to local time.|
 
-### Return Value
+### Return value
 
 A  **Date** value that represents _Value_ after being converted from UTC to local time.
 

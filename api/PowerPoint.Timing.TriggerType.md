@@ -23,7 +23,7 @@ Represents the trigger that starts an animation. Read/write.
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return Value
+### Return value
 
 MsoAnimTriggerType
 

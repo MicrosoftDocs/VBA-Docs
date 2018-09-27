@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.AddColon Property (Access)
+title: ToggleButton.AddColon property (Access)
 keywords: vbaac10.chm11737
 f1_keywords:
 - vbaac10.chm11737
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.AddColon Property (Access)
+# ToggleButton.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AddColon`
+_expression_. `AddColon`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## See also

@@ -14,7 +14,7 @@ Specifies the automatic macro to run.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAutoActivate**|3|Auto_Activate macros|
 | **xlAutoClose**|2|Auto_Close macros|

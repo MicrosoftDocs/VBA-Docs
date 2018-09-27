@@ -17,7 +17,7 @@ Specifies what actions to take when copying an  **[AppointmentItem](Outlook.Appo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCopyAsAccept**|2|Creates an appointment in the destination folder and accepts the meeting request automatically.|
 | **olCreateAppointment**|1|Creates an appointment in the destination folder without defaulting to a response or prompting for a response.|

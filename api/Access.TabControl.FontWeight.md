@@ -1,5 +1,5 @@
 ---
-title: TabControl.FontWeight Property (Access)
+title: TabControl.FontWeight property (Access)
 keywords: vbaac10.chm12092
 f1_keywords:
 - vbaac10.chm12092
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.FontWeight Property (Access)
+# TabControl.FontWeight property (Access)
 
 You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `FontWeight`
+_expression_. `FontWeight`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

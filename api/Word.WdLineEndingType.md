@@ -14,7 +14,7 @@ Specifies how Microsoft Word marks the line and paragraph breaks in documents sa
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCRLF**|0|Carriage return plus line feed.|
 | **wdCROnly**|1|Carriage return only.|

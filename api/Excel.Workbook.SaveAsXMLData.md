@@ -27,7 +27,7 @@ Exports the data that has been mapped to the specified XML schema map to an XML 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply to the data.|

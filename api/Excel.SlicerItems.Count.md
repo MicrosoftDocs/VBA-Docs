@@ -23,7 +23,7 @@ Returns the number of objects in the collection. Read-only.
  _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

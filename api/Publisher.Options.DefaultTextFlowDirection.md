@@ -23,7 +23,7 @@ Returns or sets a  **PbDirectionType** constant that represents a global Microso
  _expression_ A variable that represents a  **Options** object.
 
 
-### Return Value
+### Return value
 
 PbDirectionType
 

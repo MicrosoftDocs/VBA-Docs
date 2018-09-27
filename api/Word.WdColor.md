@@ -14,7 +14,7 @@ Specifies the 24-bit color to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdColorAqua**|13421619|Aqua color.|
 | **wdColorAutomatic**|-16777216|Automatic color. Default; usually black.|

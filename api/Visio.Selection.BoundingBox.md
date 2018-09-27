@@ -27,7 +27,7 @@ Returns a rectangle that tightly encloses the shapes of a selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Required| **Integer**|Flags that influence the bounding box calculated for each shape that contributes to the resulting bounding box.|
 | _lpr8Left_|Required| **Double**|Returns the x-coordinate of the left edge of the bounding box.|
@@ -35,7 +35,7 @@ Returns a rectangle that tightly encloses the shapes of a selection.
 | _lpr8Right_|Required| **Double**|Returns the x-coordinate of the right edge of the bounding box.|
 | _lpr8Top_|Required| **Double**|Returns the y-coordinate of the top edge of the bounding box.|
 
-### Return Value
+### Return value
 
 Nothing
 

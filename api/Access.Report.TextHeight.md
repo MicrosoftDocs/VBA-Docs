@@ -1,5 +1,5 @@
 ---
-title: Report.TextHeight Method (Access)
+title: Report.TextHeight method (Access)
 keywords: vbaac10.chm13787
 f1_keywords:
 - vbaac10.chm13787
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.TextHeight Method (Access)
+# Report.TextHeight method (Access)
 
 The  **TextHeight** method returns the height of a text string as it would be printed in the current font of a **[Report](Access.Report.md)** object.
 
 
 ## Syntax
 
- _expression_. `TextHeight`( ` _Expr_` )
+_expression_. `TextHeight`( ` _Expr_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|The text string for which the text height will be determined.|
 
-### Return Value
+### Return value
 
 Single
 

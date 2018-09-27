@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BeforeNavigate2 Event (Access)
+title: WebBrowserControl.BeforeNavigate2 event (Access)
 keywords: vbaac10.chm143140
 f1_keywords:
 - vbaac10.chm143140
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BeforeNavigate2 Event (Access)
+# WebBrowserControl.BeforeNavigate2 event (Access)
 
 Occurs before navigation occurs in the given  **WebBrowserControl**.
 
 
 ## Syntax
 
- _expression_. `BeforeNavigate2`( ` _pDisp_`, ` _URL_`, ` _flags_`, ` _TargetFrameName_`, ` _PostData_`, ` _Headers_`, ` _Cancel_` )
+_expression_. `BeforeNavigate2`( ` _pDisp_`, ` _URL_`, ` _flags_`, ` _TargetFrameName_`, ` _PostData_`, ` _Headers_`, ` _Cancel_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pDisp_|Required|**Object**|A pointer to the  **IDispatch** interface for the WebBrowser object that represents the window or frame.|
 | _URL_|Required|**Variant**|Contains the URL to be navigated to.|

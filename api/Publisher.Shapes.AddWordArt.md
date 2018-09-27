@@ -27,7 +27,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PresetWordArt|Required| **pbPresetWordArt**|The type of preset WordArt to add.|
 |Text|Required| **String**|The text of the WordArt.|
@@ -38,7 +38,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 |Left|Required| **Variant**|The horizontal position of the WordArt.|
 |Top|Required| **Variant**|The vertical position of the WordArt.|
 
-### Return Value
+### Return value
 
  **Shape**
 

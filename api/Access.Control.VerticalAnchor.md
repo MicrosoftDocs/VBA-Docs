@@ -1,5 +1,5 @@
 ---
-title: Control.VerticalAnchor Property (Access)
+title: Control.VerticalAnchor property (Access)
 keywords: vbaac10.chm10170
 f1_keywords:
 - vbaac10.chm10170
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.VerticalAnchor Property (Access)
+# Control.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified control is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

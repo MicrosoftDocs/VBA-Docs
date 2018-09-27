@@ -14,7 +14,7 @@ Contains constants that specify which rows to copy to a picture.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCopyOnScreen**|0|Copy all rows that have content.|
 |**pjCopySelected**|1|Copy only selected rows.|

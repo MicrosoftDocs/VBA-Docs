@@ -14,7 +14,7 @@ Specifies the active record in a mail merge result set.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFirstDataSourceRecord**|-6|The first record in the data source.|
 | **wdFirstRecord**|-4|The first record in the result set.|

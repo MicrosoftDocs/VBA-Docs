@@ -17,7 +17,7 @@ Specifies whether the page number is the current page number or the next or prev
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPageNumberCurrent**|1|Default.|
 | **pbPageNumberNextInStory**|2|Inserts the page number of the next linked text box.|

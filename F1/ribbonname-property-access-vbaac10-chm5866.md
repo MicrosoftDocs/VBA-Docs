@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.RibbonName Property (Access)](http://msdn.microsoft.com/library/e352711e-a43d-2dd2-d6db-2bbec7c99e74%28Office.15%29.aspx)
+[Form.RibbonName property (Access)](http://msdn.microsoft.com/library/e352711e-a43d-2dd2-d6db-2bbec7c99e74%28Office.15%29.aspx)
 
-[Report.RibbonName Property (Access)](http://msdn.microsoft.com/library/598dc161-1d90-8339-a214-95d6e9d6396a%28Office.15%29.aspx)
+[Report.RibbonName property (Access)](http://msdn.microsoft.com/library/598dc161-1d90-8339-a214-95d6e9d6396a%28Office.15%29.aspx)
 
 

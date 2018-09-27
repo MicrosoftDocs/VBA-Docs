@@ -1,5 +1,5 @@
 ---
-title: Report.Recordset Property (Access)
+title: Report.Recordset property (Access)
 keywords: vbaac10.chm13813
 f1_keywords:
 - vbaac10.chm13813
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Recordset Property (Access)
+# Report.Recordset property (Access)
 
 Returns or sets the ADO  **Recordset** or DAO **[Recordset](overview/Access.md)** object representing the record source for the specified object. Read/write **Object**.
 
 
 ## Syntax
 
- _expression_. `Recordset`
+_expression_. `Recordset`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

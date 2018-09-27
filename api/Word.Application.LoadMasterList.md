@@ -27,7 +27,7 @@ Loads a bibliography source file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the bibliography source file.|
 

@@ -12,7 +12,7 @@ Specifies the location of the field in a PivotTable report.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlColumnField**|2|A column field.|
 | **xlDataField**|4|A data field.|

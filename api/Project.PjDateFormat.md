@@ -14,7 +14,7 @@ Contains constants that specify the date format. The following table shows vario
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDate_dd**|13|30|
 |**pjDate_ddd_dd**|17|Tue 30|

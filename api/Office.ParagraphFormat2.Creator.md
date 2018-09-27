@@ -20,7 +20,7 @@ Gets a value representing the application that created the  **ParagraphFormat2**
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

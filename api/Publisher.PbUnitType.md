@@ -17,7 +17,7 @@ Represents the standard measurement unit for Microsoft Publisher.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbUnitCM**|1|Sets the unit of measurement to centimeters.|
 | **pbUnitEmu**|4|Sets the unit of measurement to Emu.|

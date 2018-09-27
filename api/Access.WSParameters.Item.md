@@ -1,5 +1,5 @@
 ---
-title: WSParameters.Item Property (Access)
+title: WSParameters.Item property (Access)
 keywords: vbaac10.chm14579
 f1_keywords:
 - vbaac10.chm14579
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# WSParameters.Item Property (Access)
+# WSParameters.Item property (Access)
 
 The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+_expression_. `Item`( ` _Index_` )
 
- _expression_ A variable that represents a [WSParameters](Access.WSParameters.md) object.
+_expression_ A variable that represents a [WSParameters](Access.WSParameters.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**||
 

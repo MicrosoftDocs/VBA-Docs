@@ -23,7 +23,7 @@ Gets a  **String** with the canonicalized XPath for the current node. If the nod
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

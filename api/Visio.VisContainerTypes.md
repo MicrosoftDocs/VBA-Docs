@@ -17,7 +17,7 @@ Specifies whether member shapes are arranged in a list; value returned by the  *
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerTypeNormal**|0|Member shapes are not arranged in a list.|
 | **visContainerTypeList**|1|Member shapes are arranged in a list.|

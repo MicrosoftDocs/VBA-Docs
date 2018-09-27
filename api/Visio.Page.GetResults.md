@@ -27,14 +27,14 @@ Gets the results or formulas of many cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Array identifying cells to be queried.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 | _UnitsNamesOrCodes()_|Required| **Variant**| Array of measurement units that results are to be returned in.|
 | _resultArray()_|Required| **Variant**|Array that receives results or formulas of queried cells.|
 
-### Return Value
+### Return value
 
 Nothing
 

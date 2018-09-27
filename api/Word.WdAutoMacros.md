@@ -14,7 +14,7 @@ Specifies an auto macro that is stored in the document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoClose**|3|AutoClose macro.|
 | **wdAutoExec**|0|AutoExec macro.|

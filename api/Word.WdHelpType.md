@@ -14,7 +14,7 @@ Specifies the type of Help topic or window to display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHelp**|0|Displays the  **Help Topics** dialog box.|
 | **wdHelpAbout**|1|Displays the  **About Microsoft Word** dialog box.|

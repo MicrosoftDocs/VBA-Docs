@@ -27,7 +27,7 @@ Adds a new frame to a frames page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Where_|Required| **WdFramesetNewFrameLocation**|Sets the location where the new frame is to be added in relation to the specified frame.|
 

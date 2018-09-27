@@ -27,7 +27,7 @@ Merges the changes marked with revision marks from one document to another.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The path and file name of the document with which to merge.|
 | _MergeTarget_|Optional| **WdMergeTarget**|Specifies where to place the final merged content.|

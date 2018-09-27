@@ -23,7 +23,7 @@ Paints the formatting of the selected object onto another object.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

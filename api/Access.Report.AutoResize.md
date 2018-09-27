@@ -1,5 +1,5 @@
 ---
-title: Report.AutoResize Property (Access)
+title: Report.AutoResize property (Access)
 keywords: vbaac10.chm13796
 f1_keywords:
 - vbaac10.chm13796
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.AutoResize Property (Access)
+# Report.AutoResize property (Access)
 
 Returns or sets a  **Boolean** indicating whether a Report window opens automatically sized to display complete records. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoResize`
+_expression_. `AutoResize`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

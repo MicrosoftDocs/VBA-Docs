@@ -17,7 +17,7 @@ Indicates the reference type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olStrong**|1|Strong reference|
 | **olWeak**|0|Weak reference|

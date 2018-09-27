@@ -1,5 +1,5 @@
 ---
-title: ReturnVar Object (Access)
+title: ReturnVar object (Access)
 keywords: vbaac10.chm14689
 f1_keywords:
 - vbaac10.chm14689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVar Object (Access)
+# ReturnVar object (Access)
 
 Represents a variable that was initialized by the  **SetReturnVar** function in a Data Macro.
 

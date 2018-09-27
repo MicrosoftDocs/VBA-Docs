@@ -27,7 +27,7 @@ Occurs immediately before any open presentation closes, as it is removed from th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation that is being closed.|
 

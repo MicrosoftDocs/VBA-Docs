@@ -1,5 +1,5 @@
 ---
-title: Report.ActiveControl Property (Access)
+title: Report.ActiveControl property (Access)
 keywords: vbaac10.chm13780
 f1_keywords:
 - vbaac10.chm13780
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ActiveControl Property (Access)
+# Report.ActiveControl property (Access)
 
 You can use the  **ActiveControl** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
 
 
 ## Syntax
 
- _expression_. `ActiveControl`
+_expression_. `ActiveControl`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

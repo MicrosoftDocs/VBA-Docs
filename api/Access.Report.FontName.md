@@ -1,5 +1,5 @@
 ---
-title: Report.FontName Property (Access)
+title: Report.FontName property (Access)
 keywords: vbaac10.chm13750
 f1_keywords:
 - vbaac10.chm13750
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FontName Property (Access)
+# Report.FontName property (Access)
 
 You can use the  **FontName** property to specify the font for text in the following situations:
 
@@ -26,9 +26,9 @@ Read/write  **String**.
 
 ## Syntax
 
- _expression_. `FontName`
+_expression_. `FontName`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

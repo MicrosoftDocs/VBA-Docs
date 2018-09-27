@@ -27,11 +27,11 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shap
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |var|Required| **Variant**|The index position or name of the object to return. If  **Index** is an integer, the index into the collection is 1-based. If **Index** is a string, the name of the shape is used as the index. An automation error is returned if the index or name does not represent a shape in the collection.|
 
-### Return Value
+### Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **ODSOFilters** collectio
  _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

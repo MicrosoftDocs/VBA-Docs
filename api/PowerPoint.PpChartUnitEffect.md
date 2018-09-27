@@ -14,7 +14,7 @@ Specifies whether the graph range is animated by series, category, or element.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAnimateByCategory**|2|By category|
 |**ppAnimateByCategoryElements**|4|By category elements|

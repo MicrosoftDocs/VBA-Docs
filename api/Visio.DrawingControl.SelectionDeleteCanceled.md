@@ -24,7 +24,7 @@ Private Sub  _expression_ _'SelectionDeleteCanceled'(**_ByVal selection As [IVSE
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that was going to be deleted.|
 

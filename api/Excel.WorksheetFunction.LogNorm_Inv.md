@@ -27,13 +27,13 @@ Returns the inverse of the lognormal cumulative distribution function. Use the l
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - A probability associated with the lognormal distribution.|
 | _Arg2_|Required| **Double**|Mean - The mean of ln(x).|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of ln(x).|
 
-### Return Value
+### Return value
 
 Double
 

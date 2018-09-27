@@ -1,5 +1,5 @@
 ---
-title: Module.ReplaceLine Method (Access)
+title: Module.ReplaceLine method (Access)
 keywords: vbaac10.chm12279
 f1_keywords:
 - vbaac10.chm12279
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.ReplaceLine Method (Access)
+# Module.ReplaceLine method (Access)
 
 The  **ReplaceLine** method replaces a specified line in a standard module or a class module.
 
 
 ## Syntax
 
- _expression_. `ReplaceLine`( ` _Line_`, ` _String_` )
+_expression_. `ReplaceLine`( ` _Line_`, ` _String_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required|**Long**|The number of the line to be replaced.|
 | _String_|Required|**String**|The text that is to replace the existing line.|
 
-### Return Value
+### Return value
 
 Nothing
 

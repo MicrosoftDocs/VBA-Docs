@@ -23,7 +23,7 @@ Returns whether the active presentation contains a Microsoft Visual Basic for Ap
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

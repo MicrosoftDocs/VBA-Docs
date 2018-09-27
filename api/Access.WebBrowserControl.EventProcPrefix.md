@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.EventProcPrefix Property (Access)
+title: WebBrowserControl.EventProcPrefix property (Access)
 keywords: vbaac10.chm14683
 f1_keywords:
 - vbaac10.chm14683
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.EventProcPrefix Property (Access)
+# WebBrowserControl.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

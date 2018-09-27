@@ -1,5 +1,5 @@
 ---
-title: Label.Caption Property (Access)
+title: Label.Caption property (Access)
 keywords: vbaac10.chm10191
 f1_keywords:
 - vbaac10.chm10191
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Caption Property (Access)
+# Label.Caption property (Access)
 
 Gets or sets the text that appears in the control. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

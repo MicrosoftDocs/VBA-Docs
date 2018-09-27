@@ -23,7 +23,7 @@ Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by 
  _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
-### Return Value
+### Return value
 
 A  **Table** that contains items that meet the criteria specified by the _Filter_ parameter in a preceding **Application.AdvancedSearch** method call.
 

@@ -27,7 +27,7 @@ Returns a workbook from a local computer to a server, and sets the local workboo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**| **True** saves changes and checks in the document. **False** returns the document to a checked-in status without saving revision.|
 | _Comments_|Optional| **Variant**|Allows the user to enter check-in comments for the revision of the workbook being checked in (applies only if  _SaveChanges_ equals **True**).|

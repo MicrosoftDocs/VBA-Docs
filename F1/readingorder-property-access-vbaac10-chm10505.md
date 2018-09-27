@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CommandButton.ReadingOrder Property (Access)](http://msdn.microsoft.com/library/5a47e95d-7421-147f-084a-74130cf524c7%28Office.15%29.aspx)
+[CommandButton.ReadingOrder property (Access)](http://msdn.microsoft.com/library/5a47e95d-7421-147f-084a-74130cf524c7%28Office.15%29.aspx)
 
-[NavigationButton.ReadingOrder Property (Access)](http://msdn.microsoft.com/library/5d436f27-e896-15c0-3733-ec7629d58214%28Office.15%29.aspx)
+[NavigationButton.ReadingOrder property (Access)](http://msdn.microsoft.com/library/5d436f27-e896-15c0-3733-ec7629d58214%28Office.15%29.aspx)
 
 

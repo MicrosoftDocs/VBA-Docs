@@ -30,12 +30,12 @@ Returns an array of shape IDs of shapes on the page, as specifed by their unique
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GUIDs()_|Required| **String**|An array of unique IDs of type  **String** of shapes on the page.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An empty array that the method fills with shape IDs of type  **Long** corresponding to the shapes specified in GUIDs()|
 
-### Return Value
+### Return value
 
 Nothing
 

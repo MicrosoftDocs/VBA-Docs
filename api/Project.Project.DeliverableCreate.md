@@ -24,14 +24,14 @@ Creates a deliverable for a published project that has a project workspace.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableName_|Required|**String**|Name of the deliverable.|
 | _DeliverableStartDate_|Required|**Variant**|Start date for the deliverable.|
 | _DeliverableFinishDate_|Required|**Variant**|Finish date for the deliverable.|
 | _TaskGuid_|Required|**String**|GUID of the task to which to link the deliverable.|
 
-### Return Value
+### Return value
 
  **String**
 

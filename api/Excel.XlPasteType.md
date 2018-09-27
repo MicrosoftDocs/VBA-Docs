@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 Specifies the part of the range to be pasted.
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPasteAll**|-4104|Everything will be pasted.|
 | **xlPasteAllExceptBorders**|7|Everything except borders will be pasted.|

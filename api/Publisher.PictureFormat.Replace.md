@@ -27,7 +27,7 @@ Replaces the specified picture. Returns  **Nothing**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Pathname|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
 |InsertAs|Optional| **PbPictureInsertAs**|The manner in which you want the picture file inserted into the document: linked or embedded.|

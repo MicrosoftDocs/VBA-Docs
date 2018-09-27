@@ -23,7 +23,7 @@ Specifies how drawing pages and shapes in the Microsoft Visio Drawing Control re
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Return Value
+### Return value
 
 VisPageSizingBehaviors
 

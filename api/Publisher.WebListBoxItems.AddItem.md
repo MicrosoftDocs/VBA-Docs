@@ -27,7 +27,7 @@ Adds list items to a Web list box control.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Item|Required| **String**|The name of the item as it appears in the list.|
 |Index|Optional| **Long**|The number of the list item. If Index is not specified or it is out of range of the indices of existing list box items, the new item will be added to the end of the list box. Otherwise the new item will be inserted at the position specified by Index and the index position of all items after it will be increased by one.|

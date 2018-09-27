@@ -27,11 +27,11 @@ Returns the number of rows in a ShapeSheet section. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section whose rows to count.|
 
-### Return Value
+### Return value
 
 Integer
 

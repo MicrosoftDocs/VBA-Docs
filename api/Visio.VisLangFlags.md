@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies the language of the page name as local or universal; passed to the various members of the ServerPublishOptions object.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLangLocal**|0|The page name is a local name.|
 | **visLangUniversal**|1|The page name is a universal name.|

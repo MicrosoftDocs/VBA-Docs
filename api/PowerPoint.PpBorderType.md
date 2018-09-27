@@ -14,7 +14,7 @@ Indicates the direction in which a cell border or diagonal line is drawn.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppBorderBottom**|3|Bottom|
 |**ppBorderDiagonalDown**|5|Diagonally down|

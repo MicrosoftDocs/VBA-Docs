@@ -24,11 +24,11 @@ Gets the index in the collection of shapes of the shape with the specified ID in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeID|Required| **Long**|The ID of the shape.|
 
-### Return Value
+### Return value
 
  **Long**
 

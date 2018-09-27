@@ -15,7 +15,7 @@ Specifies the format of cell values that are based on the calculated member.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |xlNumberFormatTypeDefault|0|Use the default format type of the calculated member for the cell value.|
 |xlNumberFormatTypeNumber|1|Calculated member cell format is a number.|

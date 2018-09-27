@@ -1,5 +1,5 @@
 ---
-title: AcWebUserDisplay Enumeration (Access)
+title: AcWebUserDisplay enumeration (Access)
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcWebUserDisplay Enumeration (Access)
+# AcWebUserDisplay enumeration (Access)
 
 Specifies information about the current user of a Web database.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acWebUserEmail**|3|The current user's e-mail address.|
 |**acWebUserID**|0|The current user's member ID.|

@@ -27,13 +27,13 @@ Returns the inverse of the individual term binomial distribution probability.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Trials - the number of Bernoulli trials.|
 | _Arg2_|Required| **Double**|Probability_s - the probability of a success on each trial.|
 | _Arg3_|Required| **Double**|Alpha - the criterion value.|
 
-### Return Value
+### Return value
 
 Double
 

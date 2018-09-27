@@ -23,7 +23,7 @@ Returns or sets the count of the represented object. Read-only
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

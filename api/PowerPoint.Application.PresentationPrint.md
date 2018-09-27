@@ -27,7 +27,7 @@ Occurs before a presentation is printed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation to be printed.|
 

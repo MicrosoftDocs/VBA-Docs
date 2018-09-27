@@ -17,7 +17,7 @@ The type of automatic formatting to apply to the specified table.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTableAutoFormatCheckbookRegister**|0|Checkbook register|
 | **pbTableAutoFormatCheckerboard**|20|Checkerboard|

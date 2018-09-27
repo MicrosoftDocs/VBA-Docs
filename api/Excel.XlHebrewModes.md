@@ -14,7 +14,7 @@ Specifies the mode for the Hebrew spelling checker.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlHebrewFullScript**|0|The conventional script type as required by the Hebrew Language Academy when writing text without diacritics.|
 | **xlHebrewMixedAuthorizedScript**|3|The Hebrew traditional script. |

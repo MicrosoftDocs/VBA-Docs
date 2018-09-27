@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineShade Property (Access)
+title: NavigationButton.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineShade Property (Access)
+# NavigationButton.GridlineShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineShade`
+_expression_. `GridlineShade`
 
- _expression_ A variable that represents an [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents an [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

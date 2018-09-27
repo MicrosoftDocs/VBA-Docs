@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.VerticalAnchor Property (Access)
+title: NavigationControl.VerticalAnchor property (Access)
 keywords: vbaac10.chm11166
 f1_keywords:
 - vbaac10.chm11166
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.VerticalAnchor Property (Access)
+# NavigationControl.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified text box is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

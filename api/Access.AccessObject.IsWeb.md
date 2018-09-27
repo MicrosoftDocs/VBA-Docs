@@ -1,5 +1,5 @@
 ---
-title: AccessObject.IsWeb Property (Access)
+title: AccessObject.IsWeb property (Access)
 keywords: vbaac10.chm14678
 f1_keywords:
 - vbaac10.chm14678
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.IsWeb Property (Access)
+# AccessObject.IsWeb property (Access)
 
 Gets whether the specified object is a Web object. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsWeb`
+_expression_. `IsWeb`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## Remarks

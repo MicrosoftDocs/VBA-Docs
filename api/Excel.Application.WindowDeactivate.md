@@ -27,7 +27,7 @@ Occurs when any workbook window is deactivated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **Workbook**|The workbook displayed in the deactivated window.|
 | _Wn_|Required| **Window**|The deactivated window.|

@@ -14,7 +14,7 @@ Specifies the type of information the link will return.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlEditionDate**|2|Applies only to editions in the Macintosh operating system.|
 | **xlLinkInfoStatus**|3|Returns the link status.|

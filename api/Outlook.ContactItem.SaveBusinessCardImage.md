@@ -27,7 +27,7 @@ Saves an image of the business card generated from the specified  **[ContactItem
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The fully qualified path and file name of the image to be saved.|
 

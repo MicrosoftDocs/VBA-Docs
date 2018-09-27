@@ -14,7 +14,7 @@ Specifies an Information Rights Management (IRM) permission type for a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPermissionChange**|15|Permission to change.|
 |**msoPermissionEdit**|2|Permission to edit.|

@@ -27,11 +27,11 @@ Imports the icon for a  **Master** object from a named file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to import.|
 
-### Return Value
+### Return value
 
 Nothing
 

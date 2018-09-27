@@ -27,7 +27,7 @@ Is  **True** if the value of the custom document property is linked to the conte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pfLinkRetVal_|Required|**Boolean**|Indicates whether the document property is linked to the container document.|
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineWidthLeft Property (Access)
+title: NavigationButton.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm10532
 f1_keywords:
 - vbaac10.chm10532
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineWidthLeft Property (Access)
+# NavigationButton.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

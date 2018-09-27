@@ -14,7 +14,7 @@ Specifies the alignment (the origin of the coordinate grid) for the tiling of th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextureAlignmentMixed**|-2|Return value only; indicates a combination of the other states.|
 |**msoTextureBottom**|7|Bottom alignment.|

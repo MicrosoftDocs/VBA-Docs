@@ -27,13 +27,13 @@ Edits the box and border colors of different types of tasks in the Team Planner 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants, which specify whether the task type is auto scheduled, manually scheduled, actual work, an external task, or a late task.|
 | _FillColor_|Optional|**Variant**|Fill color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 | _BorderColor_|Optional|**Variant**|Border color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

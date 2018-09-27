@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperties Object (Access)
+title: AccessObjectProperties object (Access)
 keywords: vbaac10.chm12698
 f1_keywords:
 - vbaac10.chm12698
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperties Object (Access)
+# AccessObjectProperties object (Access)
 
 The  **AccessObjectProperties** collection contains all of the custom **[AccessObjectProperty](Access.AccessObjectProperty.md)** objects of a specific instance of an object. These **AccessObjectProperty** objects (which are often just called properties) uniquely characterize that instance of the object.
 

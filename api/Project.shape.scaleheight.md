@@ -20,7 +20,7 @@ Scales the height of the shape by a specified factor.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|The ratio between the height of the shape after you resize it and the current height. For example, to make a rectangle 50 percent higher, specify 1.5 for the  _Factor_ parameter.|
 | _RelativeToOriginalSize_|Required|MSOTRISTATE|**msoFalse** scales the shape relative to its current size. For Project, the value must be **msoFalse**.|

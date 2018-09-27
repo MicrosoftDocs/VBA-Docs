@@ -27,7 +27,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GroupBy_|Required| **Long**|The field to group by, as a one-based integer offset. For more information, see the example.|
 | _Function_|Required| **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)**|. The subtotal function.|
@@ -36,7 +36,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 | _PageBreaks_|Optional| **Variant**| **True** to add page breaks after each group. The default value is **False** .|
 | _SummaryBelowData_|Optional| **[XlSummaryRow](Excel.XlSummaryRow.md)**|. Places the summary data relative to the subtotal.|
 
-### Return Value
+### Return value
 
 Variant
 

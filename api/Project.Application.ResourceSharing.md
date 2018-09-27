@@ -27,13 +27,13 @@ Controls resource sharing, for local resources and projects.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Share_|Optional|**Boolean**|**True** if local resources are shared. If **Name** is specified, **Share** is ignored.|
 | _Name_|Optional|**String**|The file name of the project that contains the local resource pool.|
 | _Pool_|Optional|**Boolean**|**True** if resources in the local pool take precedence over resources in the project .|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlAfterAdd'(**_NewContentControl_** , **
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewContentControl_|Required| **ContentControl**|The content control being added.|
 | _InUndoRedo_|Required| **Boolean**|Specifies whether the addition is taking place as part an undo or redo action.|

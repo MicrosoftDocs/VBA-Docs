@@ -27,7 +27,7 @@ Returns an array of items that can be cross-referenced based on the specified cr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReferenceType_|Required| **Variant**|The type of item you want to insert a cross-reference to. Can be any  **[WdReferenceType](Word.WdReferenceType.md)** constant.|
 

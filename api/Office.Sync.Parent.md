@@ -26,7 +26,7 @@ Gets the  **Parent** object for the **Sync** object. Read-only.
  _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

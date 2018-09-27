@@ -20,7 +20,7 @@ Gets a  **Font2** object that represents character formatting for a **BulletForm
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 Font2
 

@@ -15,7 +15,7 @@ Quick style color constants passed to the [Selection.SetQuickStyle](Visio.select
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 | **visQuickStyleColorAccent1**| **2**|Color accent 1|

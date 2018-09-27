@@ -27,7 +27,7 @@ Inserts a cross-reference to a heading, bookmark, footnote, or endnote, or to an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReferenceType_|Required| **Variant**|The type of item for which a cross-reference is to be inserted. Can be any  **WdReferenceType** or **WdCaptionLabelID** constant or a user defined caption label.|
 | _ReferenceKind_|Required| **WdReferenceKind**|The information to be included in the cross-reference.|

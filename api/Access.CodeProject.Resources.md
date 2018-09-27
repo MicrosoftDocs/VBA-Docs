@@ -1,5 +1,5 @@
 ---
-title: CodeProject.Resources Property (Access)
+title: CodeProject.Resources property (Access)
 keywords: vbaac10.chm14653
 f1_keywords:
 - vbaac10.chm14653
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.Resources Property (Access)
+# CodeProject.Resources property (Access)
 
 Gets the  **[SharedResources](Access.SharedResources.md)** collection for the specified object. Read-only **SharedResources**.
 
 
 ## Syntax
 
- _expression_. `Resources`
+_expression_. `Resources`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

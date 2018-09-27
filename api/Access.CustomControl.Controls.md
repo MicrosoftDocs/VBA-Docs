@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Controls Property (Access)
+title: CustomControl.Controls property (Access)
 keywords: vbaac10.chm12004
 f1_keywords:
 - vbaac10.chm12004
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Controls Property (Access)
+# CustomControl.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

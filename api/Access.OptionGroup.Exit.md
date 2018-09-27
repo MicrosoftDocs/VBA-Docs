@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Exit Event (Access)
+title: OptionGroup.Exit event (Access)
 keywords: vbaac10.chm14188
 f1_keywords:
 - vbaac10.chm14188
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Exit Event (Access)
+# OptionGroup.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_` )
+_expression_. `Exit`( ` _Cancel_` )
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set to  **True** to cancel the event.|
 

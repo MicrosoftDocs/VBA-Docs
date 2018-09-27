@@ -27,11 +27,11 @@ Loads the XML markup, either from an XML customization file or from XML markup e
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RibbonID_|Required|**String**|The ID for the RibbonX UI. |
 
-### Return Value
+### Return value
 
 String
 

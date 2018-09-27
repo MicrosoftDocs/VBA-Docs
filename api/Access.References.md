@@ -1,5 +1,5 @@
 ---
-title: References Object (Access)
+title: References object (Access)
 keywords: vbaac10.chm12648
 f1_keywords:
 - vbaac10.chm12648
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# References Object (Access)
+# References object (Access)
 
 The  **References** collection contains **Reference** objects representing each reference that's currently set.
 

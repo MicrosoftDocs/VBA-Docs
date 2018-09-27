@@ -1,5 +1,5 @@
 ---
-title: Section.CanShrink Property (Access)
+title: Section.CanShrink property (Access)
 keywords: vbaac10.chm12198
 f1_keywords:
 - vbaac10.chm12198
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.CanShrink Property (Access)
+# Section.CanShrink property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanShrink`
+_expression_. `CanShrink`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

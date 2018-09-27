@@ -23,7 +23,7 @@ Pastes the contents of the clipboard into the active selection, establishing a l
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

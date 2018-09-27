@@ -1,5 +1,5 @@
 ---
-title: Image.HorizontalAnchor Property (Access)
+title: Image.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10426
 f1_keywords:
 - vbaac10.chm10426
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.HorizontalAnchor Property (Access)
+# Image.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the image is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `HorizontalAnchor`
+_expression_. `HorizontalAnchor`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

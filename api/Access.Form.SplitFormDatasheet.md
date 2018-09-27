@@ -1,5 +1,5 @@
 ---
-title: Form.SplitFormDatasheet Property (Access)
+title: Form.SplitFormDatasheet property (Access)
 keywords: vbaac10.chm13564,vbaac10.chm5642
 f1_keywords:
 - vbaac10.chm13564,vbaac10.chm5642
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SplitFormDatasheet Property (Access)
+# Form.SplitFormDatasheet property (Access)
 
 Gets or sets whether the user can edit records in the datasheet when a form is displayed in Split Form view. Read/write  **[AcSplitFormDatasheet](Access.AcSplitFormDatasheet.md)**.
 
 
 ## Syntax
 
- _expression_. `SplitFormDatasheet`
+_expression_. `SplitFormDatasheet`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

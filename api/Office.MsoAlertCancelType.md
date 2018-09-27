@@ -14,7 +14,7 @@ Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlertCancelDefault**|-1|Default behavior for canceling an alert.|
 |**msoAlertCancelFifth**|4|Not supported.|

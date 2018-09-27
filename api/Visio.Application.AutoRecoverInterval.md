@@ -23,7 +23,7 @@ Represents the time interval (in minutes) for how often you want to save copies 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

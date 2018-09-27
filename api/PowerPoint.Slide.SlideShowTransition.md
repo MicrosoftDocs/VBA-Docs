@@ -23,7 +23,7 @@ Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object t
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Return Value
+### Return value
 
 SlideShowTransition
 

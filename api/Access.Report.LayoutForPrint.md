@@ -1,5 +1,5 @@
 ---
-title: Report.LayoutForPrint Property (Access)
+title: Report.LayoutForPrint property (Access)
 keywords: vbaac10.chm13715
 f1_keywords:
 - vbaac10.chm13715
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.LayoutForPrint Property (Access)
+# Report.LayoutForPrint property (Access)
 
 You can use the  **LayoutForPrint** property to specify whether the report uses printer or screen fonts. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `LayoutForPrint`
+_expression_. `LayoutForPrint`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

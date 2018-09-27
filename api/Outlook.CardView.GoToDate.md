@@ -27,7 +27,7 @@ Changes the date used by the current view to display information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Required| **Date**|The date to which the view should be changed.|
 

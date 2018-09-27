@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Document** object in the **Documents** collect
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

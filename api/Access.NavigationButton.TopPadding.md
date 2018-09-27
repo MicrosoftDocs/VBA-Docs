@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.TopPadding Property (Access)
+title: NavigationButton.TopPadding property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.TopPadding Property (Access)
+# NavigationButton.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its top gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

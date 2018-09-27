@@ -27,12 +27,12 @@ Returns the test for independence.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The range of data that contains observations to test against expected values.|
 | _Arg2_|Required| **Variant**|The range of data that contains the ratio of the product of row totals and column totals to the grand total.|
 
-### Return Value
+### Return value
 
 Double
 

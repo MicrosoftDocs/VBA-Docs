@@ -23,7 +23,7 @@ Gets or sets the name of an add-on or procedure that is run when its associated 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

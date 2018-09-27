@@ -1,5 +1,5 @@
 ---
-title: ComboBox.HelpContextId Property (Access)
+title: ComboBox.HelpContextId property (Access)
 keywords: vbaac10.chm11424
 f1_keywords:
 - vbaac10.chm11424
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.HelpContextId Property (Access)
+# ComboBox.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

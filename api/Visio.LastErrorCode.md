@@ -20,7 +20,7 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

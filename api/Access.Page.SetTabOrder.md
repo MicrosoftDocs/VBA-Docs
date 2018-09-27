@@ -1,5 +1,5 @@
 ---
-title: Page.SetTabOrder Method (Access)
+title: Page.SetTabOrder method (Access)
 keywords: vbaac10.chm14294
 f1_keywords:
 - vbaac10.chm14294
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.SetTabOrder Method (Access)
+# Page.SetTabOrder method (Access)
 
 Resets the tab order of the controls in the specified  **Page** to their default values.
 
 
 ## Syntax
 
- _expression_. `SetTabOrder`
+_expression_. `SetTabOrder`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## See also

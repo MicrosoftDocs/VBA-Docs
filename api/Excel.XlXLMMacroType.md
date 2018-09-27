@@ -14,7 +14,7 @@ Specifies, in a Microsoft Excel version 4 macro worksheet, what type of macro a 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCommand**|2|Custom command.|
 | **xlFunction**|1|Custom function.|

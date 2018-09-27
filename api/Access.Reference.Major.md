@@ -1,5 +1,5 @@
 ---
-title: Reference.Major Property (Access)
+title: Reference.Major property (Access)
 keywords: vbaac10.chm12632
 f1_keywords:
 - vbaac10.chm12632
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.Major Property (Access)
+# Reference.Major property (Access)
 
 The  **Major** property of a **[Reference](Access.Reference.md)** object returns a read-only **Long** value indicating the major version number of an application to which you have set a reference.
 
 
 ## Syntax
 
- _expression_. `Major`
+_expression_. `Major`
 
- _expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

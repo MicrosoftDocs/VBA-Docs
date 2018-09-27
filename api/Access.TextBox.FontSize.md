@@ -1,5 +1,5 @@
 ---
-title: TextBox.FontSize Property (Access)
+title: TextBox.FontSize property (Access)
 keywords: vbaac10.chm11085
 f1_keywords:
 - vbaac10.chm11085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FontSize Property (Access)
+# TextBox.FontSize property (Access)
 
 You can use the  **FontSize** property to specify the point size for text in the following situations:
 
@@ -26,9 +26,9 @@ Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

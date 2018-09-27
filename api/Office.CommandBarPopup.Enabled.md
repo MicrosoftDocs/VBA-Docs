@@ -23,7 +23,7 @@ Is  **True** if the **CommandBarPopup** is enabled. Read/write.
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -14,7 +14,7 @@ Specifies how the body of the e-mail is displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**mfHTML**|2|The e-mail is displayed as Hyper Text Markup Language (HTML).|
 |**mfPlainText**|1|The e-mail is displayed as plain text.|

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell Object (Access)
+title: EmptyCell object (Access)
 keywords: vbaac10.chm14342
 f1_keywords:
 - vbaac10.chm14342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell Object (Access)
+# EmptyCell object (Access)
 
 Represents an empty cell in a control layout.
 

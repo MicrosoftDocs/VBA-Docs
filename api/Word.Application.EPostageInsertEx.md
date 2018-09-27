@@ -27,7 +27,7 @@ Occurs when a user inserts electronic postage into a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document to which electronic postage is being added.|
 | _cpDeliveryAddrStart_|Required| **Long**|The starting position in the document for the delivery address. Positioning corresponds to the value of the  **Start** property for a **Range** object.|

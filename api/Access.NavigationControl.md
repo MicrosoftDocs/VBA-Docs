@@ -1,5 +1,5 @@
 ---
-title: NavigationControl Object (Access)
+title: NavigationControl object (Access)
 keywords: vbaac10.chm11201
 f1_keywords:
 - vbaac10.chm11201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl Object (Access)
+# NavigationControl object (Access)
 
 This object represents a navigation control on a form.
 

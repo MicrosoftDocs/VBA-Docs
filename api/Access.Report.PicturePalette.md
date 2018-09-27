@@ -1,5 +1,5 @@
 ---
-title: Report.PicturePalette Property (Access)
+title: Report.PicturePalette property (Access)
 keywords: vbaac10.chm13773
 f1_keywords:
 - vbaac10.chm13773
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PicturePalette Property (Access)
+# Report.PicturePalette property (Access)
 
 You can use the  **PicturePalette** property to specify a palette to be used by a report. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PicturePalette`
+_expression_. `PicturePalette`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

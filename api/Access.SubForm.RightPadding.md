@@ -1,5 +1,5 @@
 ---
-title: SubForm.RightPadding Property (Access)
+title: SubForm.RightPadding property (Access)
 keywords: vbaac10.chm11968
 f1_keywords:
 - vbaac10.chm11968
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.RightPadding Property (Access)
+# SubForm.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the subform and its right gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## See also

@@ -23,7 +23,7 @@ Specifies whether the sound that's been set for the specified slide transition l
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

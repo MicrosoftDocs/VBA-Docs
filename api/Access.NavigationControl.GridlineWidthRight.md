@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineWidthRight Property (Access)
+title: NavigationControl.GridlineWidthRight property (Access)
 keywords: vbaac10.chm11162
 f1_keywords:
 - vbaac10.chm11162
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineWidthRight Property (Access)
+# NavigationControl.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

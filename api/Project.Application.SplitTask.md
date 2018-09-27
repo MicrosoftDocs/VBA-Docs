@@ -27,11 +27,11 @@ Enters the interactive task split mode, enabling the user to manually create tas
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Lock_|Optional|**Boolean**|**True** if the task split pointer stays active after a split is made, enabling more task splits to be made. **False** if the pointer returns to normal after making a split. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

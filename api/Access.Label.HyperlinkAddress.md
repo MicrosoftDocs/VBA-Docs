@@ -1,5 +1,5 @@
 ---
-title: Label.HyperlinkAddress Property (Access)
+title: Label.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10192
 f1_keywords:
 - vbaac10.chm10192
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.HyperlinkAddress Property (Access)
+# Label.HyperlinkAddress property (Access)
 
 You can use the  **HyperlinkAddress** property to specify or determine the path to an object, document, Web page or other destination for a hyperlink associated with a the specified control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkAddress`
+_expression_. `HyperlinkAddress`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

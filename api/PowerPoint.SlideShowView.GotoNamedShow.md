@@ -27,7 +27,7 @@ Switches to the specified custom, or named, slide show during another slide show
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlideShowName_|Required|**String**|The name of the custom slide show to be switched to.|
 

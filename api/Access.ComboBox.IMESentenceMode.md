@@ -1,5 +1,5 @@
 ---
-title: ComboBox.IMESentenceMode Property (Access)
+title: ComboBox.IMESentenceMode property (Access)
 keywords: vbaac10.chm11470
 f1_keywords:
 - vbaac10.chm11470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.IMESentenceMode Property (Access)
+# ComboBox.IMESentenceMode property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IMESentenceMode`
+_expression_. `IMESentenceMode`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

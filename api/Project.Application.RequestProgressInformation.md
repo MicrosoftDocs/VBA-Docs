@@ -24,7 +24,7 @@ Requests progress information from resources, republishes, and saves the active 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowDialog_|Optional|**Boolean**|**True** if Project displays the corresponding dialog box for the message type. The default value is **False**.|
 | _ItemsScope_|Optional|**Long**|Specifies the scope of assignments to be published. Can be one of the following  **[PjPublishScope](Project.PjPublishScope.md)** constants: **pjPublishScopeAll**, **pjPublishScopeDefault**, **pjPublishScopeSelected**, or **pjPublishScopeVisible**. The default value is **pjPublishScopeAll**.|

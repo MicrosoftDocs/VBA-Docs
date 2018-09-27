@@ -27,7 +27,7 @@ Returns an  **Editor** object that represents a new permission for a specified u
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** that represents a group of users.|
 

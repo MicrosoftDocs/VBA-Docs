@@ -24,7 +24,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 

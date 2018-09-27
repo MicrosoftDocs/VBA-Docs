@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.RunningSum Property (Access)](http://msdn.microsoft.com/library/8918a58c-8c07-84dc-f43c-2486d54cd677%28Office.15%29.aspx)
+[TextBox.RunningSum property (Access)](http://msdn.microsoft.com/library/8918a58c-8c07-84dc-f43c-2486d54cd677%28Office.15%29.aspx)
 

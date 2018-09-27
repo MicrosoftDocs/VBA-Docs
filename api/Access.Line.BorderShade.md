@@ -1,5 +1,5 @@
 ---
-title: Line.BorderShade Property (Access)
+title: Line.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.BorderShade Property (Access)
+# Line.BorderShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderShade`
+_expression_. `BorderShade`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

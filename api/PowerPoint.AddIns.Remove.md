@@ -27,7 +27,7 @@ Removes an add-in from the collection of add-ins.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the add-in to be removed from the collection.|
 

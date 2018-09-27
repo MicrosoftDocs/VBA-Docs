@@ -27,7 +27,7 @@ Sends a document in an e-mail message for review by the specified recipients.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Recipients_|Optional| **Variant**|A string that lists the people to whom to send the message. These can be unresolved names and aliases in an e-mail phone book or full e-mail addresses. Separate multiple recipients with a semicolon (;). If left blank and ShowMessage is  **False** , you will receive an error message and the message will not be sent.|
 | _Subject_|Optional| **Variant**|A string for the subject of the message. If left blank, the subject will be: Please review "file name".|

@@ -14,7 +14,7 @@ Specifies the type of report formatting to be applied to the specified PivotTabl
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPTClassic**|20|PivotTable classic format.|
 | **xlPTNone**|21|Does not apply formatting to the PivotTable report.|

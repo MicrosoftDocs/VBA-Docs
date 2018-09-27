@@ -15,7 +15,7 @@ One of the built-in hierarchy levels that Timeline supports.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTimelineLevelYears**|0|Years level|
 | **xlTimelineLevelQuarters**|1|Quarters level|

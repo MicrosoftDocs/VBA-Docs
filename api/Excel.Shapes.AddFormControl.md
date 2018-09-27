@@ -27,7 +27,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormControl](Excel.XlFormControl.md)**|The Microsoft Excel control type. You cannot create an edit box on a worksheet.|
 | _Left_|Required| **Long**|The initial coordinates of the new object (in points) relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
@@ -35,7 +35,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
 | _Width_|Required| **Long**|The initial size of the new object, in points.|
 | _Height_|Required| **Long**|The initial size of the new object, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

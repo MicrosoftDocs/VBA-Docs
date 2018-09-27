@@ -14,7 +14,7 @@ Specifies the length of the arrowhead at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadLengthMedium**|2|Medium.|
 |**msoArrowheadLengthMixed**|-2|Return value only; indicates a combination of the other states in the specified shape range.|

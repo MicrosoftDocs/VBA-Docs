@@ -1,5 +1,5 @@
 ---
-title: CurrentData.AllQueries Property (Access)
+title: CurrentData.AllQueries property (Access)
 keywords: vbaac10.chm12733
 f1_keywords:
 - vbaac10.chm12733
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData.AllQueries Property (Access)
+# CurrentData.AllQueries property (Access)
 
 You can use the  **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
 
 
 ## Syntax
 
- _expression_. `AllQueries`
+_expression_. `AllQueries`
 
- _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

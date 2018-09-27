@@ -24,12 +24,12 @@ Displays the shortcut menu for Microsoft Visio Viewer at the specified screen co
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ScreenX|Required| **Long**|The x-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
 |ScreenY|Required| **Long**|The y-coordinate, in pixels, of the point where the menu should appear, relative to the origin of the frame of the screen.|
 
-### Return Value
+### Return value
 
 Nothing
 

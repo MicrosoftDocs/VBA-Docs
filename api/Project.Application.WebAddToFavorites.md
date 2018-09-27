@@ -27,11 +27,11 @@ Adds a link to the current document or selection to the Favorites folder for the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CurrentLink_|Optional|**Boolean**|**True** if a link will be added to the current selection. **False** if a link will be added to the current document. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

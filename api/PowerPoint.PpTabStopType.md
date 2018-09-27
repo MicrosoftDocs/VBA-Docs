@@ -14,7 +14,7 @@ Constants that specify the tab-stop type, passed to and returned by the  **Type*
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppTabStopCenter**|2|Center tab stop|
 |**ppTabStopDecimal**|4|Decimal tab stop|

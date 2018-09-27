@@ -23,7 +23,7 @@ Returns a  **[TableStyle](PowerPoint.TableStyle.md)** object that contains infor
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Return Value
+### Return value
 
 TableStyle
 

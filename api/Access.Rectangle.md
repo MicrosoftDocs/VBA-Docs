@@ -1,5 +1,5 @@
 ---
-title: Rectangle Object (Access)
+title: Rectangle object (Access)
 keywords: vbaac10.chm10320
 f1_keywords:
 - vbaac10.chm10320
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle Object (Access)
+# Rectangle object (Access)
 
 This object corresponds to a rectangle control. The rectangle control displays a rectangle on a form or report.
 

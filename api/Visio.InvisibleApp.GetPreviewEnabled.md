@@ -27,11 +27,11 @@ Returns a value that indicates whether preview is enabled for the specified gall
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GalleryName_|Required| **String**|The name of the gallery for which you want to check the preview status. See Remarks.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

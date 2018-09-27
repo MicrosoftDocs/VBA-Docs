@@ -17,7 +17,7 @@ Specifies the recurrence pattern type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olRecursDaily**|0|Represents a daily recurrence pattern.|
 | **olRecursMonthly**|2|Represents a monthly recurrence pattern.|

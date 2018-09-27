@@ -30,13 +30,13 @@ Use the lognormal distribution to analyze logarithmically transformed data.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - a probability associated with the lognormal distribution.|
 | _Arg2_|Required| **Double**|Mean - the mean of ln(x).|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of ln(x).|
 
-### Return Value
+### Return value
 
 Double
 

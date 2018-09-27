@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Name Property (Access)
+title: Rectangle.Name property (Access)
 keywords: vbaac10.chm10305
 f1_keywords:
 - vbaac10.chm10305
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Name Property (Access)
+# Rectangle.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

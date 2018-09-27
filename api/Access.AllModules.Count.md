@@ -1,5 +1,5 @@
 ---
-title: AllModules.Count Property (Access)
+title: AllModules.Count property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AllModules.Count Property (Access)
+# AllModules.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [AllModules](Access.AllModules.md) object.
+_expression_ A variable that represents an [AllModules](Access.AllModules.md) object.
 
 
 ## See also

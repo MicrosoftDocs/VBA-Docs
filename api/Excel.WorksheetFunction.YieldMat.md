@@ -27,7 +27,7 @@ Returns the annual yield of a security that pays interest at maturity.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Settlement - the security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
 | _Arg2_|Required| **Variant**|Maturity - the security's maturity date. The maturity date is the date when the security expires.|
@@ -36,7 +36,7 @@ Returns the annual yield of a security that pays interest at maturity.
 | _Arg5_|Required| **Variant**|Pr - the security's price per $100 face value.|
 | _Arg6_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

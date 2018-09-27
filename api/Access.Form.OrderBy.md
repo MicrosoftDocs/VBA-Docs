@@ -1,5 +1,5 @@
 ---
-title: Form.OrderBy Property (Access)
+title: Form.OrderBy property (Access)
 keywords: vbaac10.chm13348
 f1_keywords:
 - vbaac10.chm13348
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OrderBy Property (Access)
+# Form.OrderBy property (Access)
 
 You can use the  **OrderBy** property to specify how you want to sort records in a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OrderBy`
+_expression_. `OrderBy`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

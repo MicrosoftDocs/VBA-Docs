@@ -14,7 +14,7 @@ Specifies the color to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAuto**|0|Automatic color. Default; usually black.|
 | **wdBlack**|1|Black color.|

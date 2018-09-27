@@ -23,7 +23,7 @@ Displays the  **Map Project Resources onto Enterprise Resources** dialog box, fo
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

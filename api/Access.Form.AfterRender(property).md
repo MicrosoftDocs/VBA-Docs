@@ -1,5 +1,5 @@
 ---
-title: Form.AfterRender Property (Access)
+title: Form.AfterRender property (Access)
 keywords: vbaac10.chm13549,vbaac10.chm5114
 f1_keywords:
 - vbaac10.chm13549,vbaac10.chm5114
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterRender Property (Access)
+# Form.AfterRender property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[AfterRender](Access.Form.AfterRender(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `AfterRender`
+_expression_. `AfterRender`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

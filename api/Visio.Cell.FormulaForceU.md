@@ -23,7 +23,7 @@ Sets the universal syntax formula in a  **Cell** object, even if the formula is 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -27,7 +27,7 @@ Occurs when Microsoft Publisher requires data to generate barcodes in a mail-mer
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The current publication.|
 |bstrString|Required| **String**|Output parameter. A string representation of the barcode.|

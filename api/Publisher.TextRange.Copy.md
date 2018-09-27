@@ -23,7 +23,7 @@ Copies the specified object to the Clipboard.
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

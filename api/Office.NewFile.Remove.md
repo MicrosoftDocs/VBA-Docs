@@ -27,7 +27,7 @@ Removes an item from the  **New Item** task pane. Returns a **Boolean** value to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file reference.|
 | _Section_|Optional|**Variant**|The section of the task pane where the file reference exists. Can be any  **msoFileNew** constant.|

@@ -23,7 +23,7 @@ Determines the type of object to which the validation rule applies. Read/write.
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisRuleTargets](Visio.VisRuleTargets.md)**
 

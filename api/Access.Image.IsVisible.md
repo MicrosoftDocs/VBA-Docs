@@ -1,5 +1,5 @@
 ---
-title: Image.IsVisible Property (Access)
+title: Image.IsVisible property (Access)
 keywords: vbaac10.chm10393
 f1_keywords:
 - vbaac10.chm10393
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.IsVisible Property (Access)
+# Image.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

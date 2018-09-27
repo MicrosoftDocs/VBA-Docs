@@ -14,7 +14,7 @@ Specifies how the  **Column** and **CompareTo** properties are compared for an *
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFilterComparisonContains**|8|Column matches CompareTo if any part of the CompareTo string is contained in the Column value.|
 |**msoFilterComparisonEqual**|0|Column matches CompareTo if the CompareTo value is the same as the Column value.|

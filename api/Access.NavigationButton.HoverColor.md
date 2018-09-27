@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HoverColor Property (Access)
+title: NavigationButton.HoverColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HoverColor Property (Access)
+# NavigationButton.HoverColor property (Access)
 
 Gets or sets the color displayed on the control when the user rests the mouse cursor over it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `HoverColor`
+_expression_. `HoverColor`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.RefreshRecord Method (Access)
+title: DoCmd.RefreshRecord method (Access)
 keywords: vbaac10.chm6002
 f1_keywords:
 - vbaac10.chm6002
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.RefreshRecord Method (Access)
+# DoCmd.RefreshRecord method (Access)
 
 The  **RefreshRecord** method performs the **RefreshRecord** macro operation from Visual Basic.
 
 
 ## Syntax
 
- _expression_. `RefreshRecord`
+_expression_. `RefreshRecord`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

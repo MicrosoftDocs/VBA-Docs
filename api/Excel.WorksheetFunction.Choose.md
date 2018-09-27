@@ -27,12 +27,12 @@ Uses  _Arg1_ as the index to return a value from the list of value arguments.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Specifies which value argument is selected.  _Arg1_ must be a number between 1 and 29, or a formula or reference to a cell containing a number between 1 and 29.|
 | _Arg2 - Arg30_|Required| **Variant**|1 to 29 value arguments from which Choose selects a value or an action to perform based on  _Arg1_. The arguments can be numbers, cell references, defined names, formulas, functions, or text.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -20,7 +20,7 @@ Gets or sets a value specifying that the selected text should be displayed as su
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

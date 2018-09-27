@@ -27,7 +27,7 @@ Returns a  **Range** object that represents a range of items in a workbook. Read
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index value of the range item.|
 

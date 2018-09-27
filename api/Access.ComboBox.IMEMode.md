@@ -1,5 +1,5 @@
 ---
-title: ComboBox.IMEMode Property (Access)
+title: ComboBox.IMEMode property (Access)
 keywords: vbaac10.chm11468
 f1_keywords:
 - vbaac10.chm11468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.IMEMode Property (Access)
+# ComboBox.IMEMode property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IMEMode`
+_expression_. `IMEMode`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

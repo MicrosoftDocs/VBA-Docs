@@ -1,5 +1,5 @@
 ---
-title: CheckBox.MouseMove Event (Access)
+title: CheckBox.MouseMove event (Access)
 keywords: vbaac10.chm14128
 f1_keywords:
 - vbaac10.chm14128
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.MouseMove Event (Access)
+# CheckBox.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**|The button that was pressed or released when the event was triggered. If you need to test for the Button argument, you can use one of the following intrinsic constants as bit masks:
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acLeftButton</b>  The bit mask for the left mouse button.  

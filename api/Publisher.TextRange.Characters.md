@@ -27,12 +27,12 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Start|Required| **Long**|The first character in the returned range.|
 |Length|Optional| **Long**|The number of characters to be returned. Default is 1.|
 
-### Return Value
+### Return value
 
 TextRange
 

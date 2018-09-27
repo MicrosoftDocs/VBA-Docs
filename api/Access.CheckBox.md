@@ -1,5 +1,5 @@
 ---
-title: CheckBox Object (Access)
+title: CheckBox object (Access)
 keywords: vbaac10.chm10798
 f1_keywords:
 - vbaac10.chm10798
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox Object (Access)
+# CheckBox object (Access)
 
 This object corresponds to a check box on a form or report. This check box is a stand-alone control that displays a Yes/No value from an underlying record source.
 

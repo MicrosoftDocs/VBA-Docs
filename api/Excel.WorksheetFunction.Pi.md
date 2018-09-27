@@ -23,7 +23,7 @@ Returns the number 3.14159265358979, the mathematical constant pi, accurate to 1
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

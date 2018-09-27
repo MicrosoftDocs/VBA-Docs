@@ -24,7 +24,7 @@ Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically sa
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **SharingItem** to be saved.|
 

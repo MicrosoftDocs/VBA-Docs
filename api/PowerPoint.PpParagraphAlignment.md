@@ -14,7 +14,7 @@ Specifies the alignment for each paragraph in the specified paragraph format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAlignCenter**|2|Center align|
 |**ppAlignDistribute**|5|Distribute|

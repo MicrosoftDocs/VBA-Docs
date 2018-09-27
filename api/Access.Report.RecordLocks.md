@@ -1,5 +1,5 @@
 ---
-title: Report.RecordLocks Property (Access)
+title: Report.RecordLocks property (Access)
 keywords: vbaac10.chm13696
 f1_keywords:
 - vbaac10.chm13696
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.RecordLocks Property (Access)
+# Report.RecordLocks property (Access)
 
 You can use the  **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.
 
 
 ## Syntax
 
- _expression_. `RecordLocks`
+_expression_. `RecordLocks`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -27,12 +27,12 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XmlData_|Required| **String**|The string that contains the XML data to import.|
 | _Overwrite_|Optional| **Variant**|Specifies whether to overwrite the contents of cells that are currently mapped to the specified XML map. Set to  **True** to overwrite the cells; set to **False** to append the data to the existing range. If this parameter is not specified, the current value of the **[AppendOnImport](Excel.XmlMap.AppendOnImport.md)** property of the XML map determines whether the contents of cells are overwritten or not.|
 
-### Return Value
+### Return value
 
 [XlXmlImportResult](Excel.XlXmlImportResult.md)
 

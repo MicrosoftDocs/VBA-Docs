@@ -27,7 +27,7 @@ Private Sub  _expression_ ._'WindowBeforeRightClick'(**_ByVal Sel As Selection_*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sel_|Required| **Selection**|The current selection.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action does not occur when the procedure is finished.|

@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.Path Property (Access)](http://msdn.microsoft.com/library/3d811cc3-ebb3-3cbc-fc3d-e1ab40ceea27%28Office.15%29.aspx)
+[CodeProject.Path property (Access)](http://msdn.microsoft.com/library/3d811cc3-ebb3-3cbc-fc3d-e1ab40ceea27%28Office.15%29.aspx)
 
-[CurrentProject.Path Property (Access)](http://msdn.microsoft.com/library/25f28502-b5fc-aafa-9189-eb091907a529%28Office.15%29.aspx)
+[CurrentProject.Path property (Access)](http://msdn.microsoft.com/library/25f28502-b5fc-aafa-9189-eb091907a529%28Office.15%29.aspx)
 
 

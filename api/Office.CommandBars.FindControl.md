@@ -30,14 +30,14 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|The type of control.|
 | _Id_|Optional|**Variant**|The identifier of the control.|
 | _Tag_|Optional|**Variant**|The tag value of the control.|
 | _Visible_|Optional|**Variant**|True to include only visible command bar controls in the search. The default value is False. Visible command bars include all visible toolbars and any menus that are open at the time the  **FindControl** method is executed.|
 
-### Return Value
+### Return value
 
 CommandBarControl
 

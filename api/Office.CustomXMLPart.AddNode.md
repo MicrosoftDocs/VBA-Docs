@@ -27,7 +27,7 @@ Adds a node to the XML tree.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Parent_|Required|**CustomXMLNode**|Represents the node under which this node should be added. If adding an attribute, the parameter denotes the element that the attribute should be added to.|
 | _Name_|Optional|**String**|Represents the base name of the node to be added.|

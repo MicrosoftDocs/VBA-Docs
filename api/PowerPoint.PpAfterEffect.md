@@ -14,7 +14,7 @@ Indicates whether the specified shape appears dimmed, hidden, or unchanged after
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAfterEffectDim**|2|Appears dimmed|
 |**ppAfterEffectHide**|1|Hides|

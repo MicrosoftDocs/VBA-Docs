@@ -27,7 +27,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|The name of the publication (paths are accepted).|
 |ReadOnly|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|
@@ -35,7 +35,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
 |SaveChanges|Optional| **PbSaveOptions**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.|
 |OpenConflictDocument|Optional| **Boolean**| **True** to open the local conflict publication if there is an offline conflict. Default is **False**.|
 
-### Return Value
+### Return value
 
 Document
 

@@ -27,11 +27,11 @@ Specifies whether to automatically add new views, field templates, filters, and 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OnOff_|Optional|**Variant**|If  **True**, automatically save. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

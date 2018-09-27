@@ -27,7 +27,7 @@ Removes document information, such as personal information, comments, and docume
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PpRemoveDocInfoType**|Type of information to be removed.|
 

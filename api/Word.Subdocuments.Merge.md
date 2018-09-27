@@ -27,7 +27,7 @@ Merges the specified subdocuments of a master document into a single subdocument
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FirstSubdocument_|Optional| **Variant**|The path and file name of the original document you want to merge revisions with.|
 | _LastSubdocument_|Optional| **Variant**|The last subdocument in a range of subdocuments to be merged.|

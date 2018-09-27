@@ -27,7 +27,7 @@ Occurs when the form region expands or collapses
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Expand_|Required| **Boolean**| **True** if the form region is expanding; **False** if the form region is collapsing.|
 

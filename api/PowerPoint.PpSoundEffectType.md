@@ -14,7 +14,7 @@ Constants that specify the type of sound effect, passed to and returned by the  
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSoundEffectsMixed**|-2|Mixed|
 |**ppSoundFile**|2|File|

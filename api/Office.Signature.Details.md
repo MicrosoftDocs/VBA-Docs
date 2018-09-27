@@ -23,7 +23,7 @@ Gets information about a signature. Read-only.
  _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
 
 
-### Return Value
+### Return value
 
 SignatureInfo
 

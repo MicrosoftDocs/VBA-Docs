@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.NavigateError Event (Access)
+title: WebBrowserControl.NavigateError event (Access)
 keywords: vbaac10.chm143143
 f1_keywords:
 - vbaac10.chm143143
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.NavigateError Event (Access)
+# WebBrowserControl.NavigateError event (Access)
 
 Occurs when an error occurs during navigation.
 
 
 ## Syntax
 
- _expression_. `NavigateError`( ` _pDisp_`, ` _URL_`, ` _TargetFrameName_`, ` _StatusCode_`, ` _Cancel_` )
+_expression_. `NavigateError`( ` _pDisp_`, ` _URL_`, ` _TargetFrameName_`, ` _StatusCode_`, ` _Cancel_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pDisp_|Required|**Object**|A pointer to an  **IDispatch** interface for the WebBrowser object that represents the window or frame in which the navigation error occurred.|
 | _URL_|Required|**Variant**|Contains the URL for which navigation failed.|
@@ -35,7 +35,7 @@ Occurs when an error occurs during navigation.
 | _StatusCode_|Required|**Variant**|Contains an error status code, if available.|
 | _Cancel_|Required|**Boolean**|Specifies whether to cancel the navigation to an error page or to any further autosearch.|
 
-### Return Value
+### Return value
 
 nothing
 

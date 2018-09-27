@@ -14,7 +14,7 @@ Specifies the formatting to use when pasting the selected table cells.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdChart**|14|Pastes a Microsoft Office Excel chart as an embedded OLE object.|
 | **wdChartLinked**|15|Pastes an Excel chart and links it to the original Excel spreadsheet.|

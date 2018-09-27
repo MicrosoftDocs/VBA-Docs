@@ -27,12 +27,12 @@ Returns Help information about a custom property page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpFile_|Required| **String**|Specifies the Help file associated with the property page.|
 | _HelpContext_|Required| **Long**|Specifies the context ID of the Help topic associated with the property page.|
 
-### Return Value
+### Return value
 
 An  **HRESULT** value that represents the result of the method.
 

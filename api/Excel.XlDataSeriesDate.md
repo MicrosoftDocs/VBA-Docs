@@ -14,7 +14,7 @@ Specifies the type of date to apply to a data series.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDay**|1|Day|
 | **xlMonth**|3|Month|

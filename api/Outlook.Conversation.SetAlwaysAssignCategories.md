@@ -27,7 +27,7 @@ Applies one or more categories to all existing items and future items of the con
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Categories_|Required| **String**|A comma-delimited string of one or more category names that are always assigned to all items in the conversation.|
 | _Store_|Required| **[Store](Outlook.Store.md)**|The store in which items of the conversation should always be assigned the categories specified by the  _Categories_ parameter.|

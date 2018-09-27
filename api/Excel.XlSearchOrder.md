@@ -14,7 +14,7 @@ Specifies the order in which to search the range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlByColumns**|2|Searches down through a column, then moves to the next column.|
 | **xlByRows**|1|Searches across a row, then moves to the next row.|

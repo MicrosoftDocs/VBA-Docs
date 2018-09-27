@@ -14,7 +14,7 @@ Specifies whether items displayed in the slicer are sorted, and if they are sort
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSlicerSortAscending**|2|Slicer items are sorted in ascending order by item captions.|
 | **xlSlicerSortDataSourceOrder**|1|Slicer items are displayed in the order provided by the data source.|

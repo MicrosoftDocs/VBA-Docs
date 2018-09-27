@@ -27,7 +27,7 @@ Customizes headings in the Calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MonthTitle_|Optional|**Long**|The format of the month title. Can be one of the [PjMonthLabel](Project.PjMonthLabel.md) constants.|
 | _WeekTitle_|Optional|**Long**|The format of week titles. Can be one of the [PjDateLabel](Project.PjDateLabel.md) constants.|
@@ -36,7 +36,7 @@ Customizes headings in the Calendar.
 | _DaysPerWeek_|Optional|**Integer**|The number of days per week to display. Can be set to 5 or 7.|
 | _ShowTitleBeginningEndDates_|Optional|**Boolean**|**True** if the beginning and end date titles are shown.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

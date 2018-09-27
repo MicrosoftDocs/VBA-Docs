@@ -23,7 +23,7 @@ Returns the ID of the page that contains the section. Read-only. .
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

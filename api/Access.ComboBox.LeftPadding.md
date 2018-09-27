@@ -1,5 +1,5 @@
 ---
-title: ComboBox.LeftPadding Property (Access)
+title: ComboBox.LeftPadding property (Access)
 keywords: vbaac10.chm11481
 f1_keywords:
 - vbaac10.chm11481
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.LeftPadding Property (Access)
+# ComboBox.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the combo box and its left gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_. `LeftPadding`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## See also

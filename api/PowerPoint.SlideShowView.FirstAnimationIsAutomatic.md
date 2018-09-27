@@ -23,7 +23,7 @@ Returns  **True** if the current slide has an initial animation that runs automa
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

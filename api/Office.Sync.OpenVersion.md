@@ -30,7 +30,7 @@ Opens a different version of the shared document alongside the currently open lo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SyncVersionType_|Required|**MsoSyncVersionType**| Represents the type of version.|
 

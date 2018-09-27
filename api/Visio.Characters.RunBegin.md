@@ -27,11 +27,11 @@ Returns the beginning index of a type of run?a sequence of characters that share
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RunType_|Required| **Integer**|The type of run to get.|
 
-### Return Value
+### Return value
 
 Long
 

@@ -27,7 +27,7 @@ Opens a workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Optional| **Variant**| **String** . The file name of the workbook to be opened.|
 | _UpdateLinks_|Optional| **Variant**|Specifies the way external references (links) in the file, such as the reference to a range in the Budget.xls workbook in the following formula =SUM([Budget.xls]Annual!C10:C25), are updated. If this argument is omitted, the user is prompted to specify how links will be updated. For more information about the values used by this parameter, see the Remarks section. If Microsoft Excel is opening a file in the WKS, WK1, or WK3 format and the UpdateLinks argument is 0, no charts are created; otherwise Microsoft Excel generates charts from the graphs attached to the file.|
@@ -45,7 +45,7 @@ Opens a workbook.
 | _Local_|Optional| **Variant**| **True** saves files against the language of Microsoft Excel (including control panel settings). **False** (default) saves files against the language of Visual Basic for Applications (VBA) (which is typically United States English unless the VBA project where Workbooks.Open is run from is an old internationalized XL5/95 VBA project).|
 | _CorruptLoad_|Optional| **[XlCorruptLoad](Excel.XlCorruptLoad.md)**|Can be one of the following constants:  **xlNormalLoad** , **xlRepairFile** and **xlExtractData** . The default behavior if no value is specified is **xlNormalLoad** and does not attempt recovery when initiated through the OM.|
 
-### Return Value
+### Return value
 
 A  **[Workbook](Excel.Workbook.md)** object that represents the opened workbook.
 

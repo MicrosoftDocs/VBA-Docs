@@ -14,7 +14,7 @@ Specifies the type of new document to create.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNewBlankDocument**|0|Blank document.|
 | **wdNewEmailMessage**|2|E-mail message.|

@@ -14,7 +14,7 @@ Specifies the format of horizontal text set within vertical text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHorizontalInVerticalFitInLine**|1|The horizontal text is sized to fit in the line of vertical text.|
 | **wdHorizontalInVerticalNone**|0|No formatting is applied to the horizontal text.|

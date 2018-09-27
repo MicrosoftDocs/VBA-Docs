@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that identify the types of raster export data compression; passed to and returned by the ApplicationSettings.RasterExportDataCompression property.
 
 
-|**Name**|**Value**|**Description**|**Applicable File Format**|
+|Name|Value|Description|**Applicable File Format**|
 |:-----|:-----|:-----|:-----|
 | **visRasterNone**|0|No compression; the default for BMP.|BMP|
 | **visRasterRLE**|1|RLE compression.|BMP|

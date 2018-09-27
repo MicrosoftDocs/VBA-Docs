@@ -27,12 +27,12 @@ Performs an autofill on the cells in the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Required| **[Range](Excel.Range(object).md)**|The cells to be filled. The destination must include the source range.|
 | _Type_|Optional| **[XlAutoFillType](Excel.XlAutoFillType.md)**|Specifies the fill type.|
 
-### Return Value
+### Return value
 
 Variant
 

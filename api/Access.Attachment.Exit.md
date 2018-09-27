@@ -1,5 +1,5 @@
 ---
-title: Attachment.Exit Event (Access)
+title: Attachment.Exit event (Access)
 keywords: vbaac10.chm14022
 f1_keywords:
 - vbaac10.chm14022
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Exit Event (Access)
+# Attachment.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form.
 
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_`, )
+_expression_. `Exit`( ` _Cancel_`, )
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **Exit** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Exit** event.|
 
-### Return Value
+### Return value
 
 nothing
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.ShowDatePicker Property (Access)
+title: TextBox.ShowDatePicker property (Access)
 keywords: vbaac10.chm14293
 f1_keywords:
 - vbaac10.chm14293
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ShowDatePicker Property (Access)
+# TextBox.ShowDatePicker property (Access)
 
 Gets or sets whether the date picker control is displayed for the specified text box. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `ShowDatePicker`
+_expression_. `ShowDatePicker`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

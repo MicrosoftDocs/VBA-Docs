@@ -27,7 +27,7 @@ Returns a collection of axes on the chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|The axis to return. Can be one of the following  **[XlAxisType](PowerPoint.XlAxisType.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
 | _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary**.
@@ -35,7 +35,7 @@ Returns a collection of axes on the chart.
 
 |
 
-### Return Value
+### Return value
 
 An [Axes](PowerPoint.Axes.md) object that contains the selected axes from the chart.
 

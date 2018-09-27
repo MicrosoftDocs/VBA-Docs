@@ -1,5 +1,5 @@
 ---
-title: Report.FormatCount Property (Access)
+title: Report.FormatCount property (Access)
 keywords: vbaac10.chm13733
 f1_keywords:
 - vbaac10.chm13733
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FormatCount Property (Access)
+# Report.FormatCount property (Access)
 
 You can use the  **FormatCount** property to determine the number of times the **[OnFormat](Access.Section.OnFormat.md)** property has been evaluated for the current section on a report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `FormatCount`
+_expression_. `FormatCount`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

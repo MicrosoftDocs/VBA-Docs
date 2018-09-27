@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Enter Event (Access)
+title: CommandButton.Enter event (Access)
 keywords: vbaac10.chm14078
 f1_keywords:
 - vbaac10.chm14078
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Enter Event (Access)
+# CommandButton.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Enter`
+_expression_. `Enter`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

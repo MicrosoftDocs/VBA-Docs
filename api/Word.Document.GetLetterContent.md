@@ -23,7 +23,7 @@ Retrieves letter elements from the specified document and returns a  **[LetterCo
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Return Value
+### Return value
 
 LetterContent
 
