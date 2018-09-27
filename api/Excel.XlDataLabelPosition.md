@@ -14,7 +14,7 @@ Specifies where the data label is positioned.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLabelPositionAbove**|0|Data label is positioned above the data point.|
 | **xlLabelPositionBelow**|1|Data label is positioned below the data point.|

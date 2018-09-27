@@ -27,12 +27,12 @@ Returns the matching identification name of an object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**Long**|The type of object. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants.|
 | _ObjectName_|Required|**String**|Display name of the object.|
 
-### Return Value
+### Return value
 
  **String**
 

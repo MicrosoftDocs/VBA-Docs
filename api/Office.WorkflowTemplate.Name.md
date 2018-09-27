@@ -23,7 +23,7 @@ Gets the name of the  **WorkflowTemplate** object. Read-only.
  _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

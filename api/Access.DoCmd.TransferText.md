@@ -1,5 +1,5 @@
 ---
-title: DoCmd.TransferText Method (Access)
+title: DoCmd.TransferText method (Access)
 keywords: vbaac10.chm4190
 f1_keywords:
 - vbaac10.chm4190
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# DoCmd.TransferText Method (Access)
+# DoCmd.TransferText method (Access)
 
 The **TransferText** method carries out the **TransferText** action in Visual Basic.
 
@@ -25,7 +25,7 @@ _expression_ A variable that represents a **DoCmd** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |_TransferType_|Optional|[AcTextTransferType](Access.AcTextTransferType.md)|The type of transfer you want to make. You can import data from, export data to, or link to data in delimited or fixed-width text files or HTML files. The default value is  **acImportDelim**. Only **acImportDelim**, **acImportFixed**, **acExportDelim**, **acExportFixed**, or **acExportMerge** transfer types are supported in a Microsoft Access project (.adp).|
 |_SpecificationName_|Optional|**Variant**|A string expression that's the name of an import or export specification you've created and saved in the current database. For a fixed-width text file, you must either specify an argument or use a schema.ini file, which must be stored in the same folder as the imported, linked, or exported text file. To create a schema file, you can use the text import/export wizard to create the file. For delimited text files and Microsoft Word mail merge data files, you can leave this argument blank to select the default import/export specifications.|

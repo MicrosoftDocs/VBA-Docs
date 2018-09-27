@@ -1,5 +1,5 @@
 ---
-title: Application.PlainText Method (Access)
+title: Application.PlainText method (Access)
 keywords: vbaac10.chm12613
 f1_keywords:
 - vbaac10.chm12613
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PlainText Method (Access)
+# Application.PlainText method (Access)
 
 Strips the rich text formatting from a string and returns an unformatted text string.
 
 
 ## Syntax
 
- _expression_. `PlainText`( ` _RichText_`, ` _Length_` )
+_expression_. `PlainText`( ` _RichText_`, ` _Length_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RichText_|Required|**Variant**|The rich text string that you want to remove the formatting of.|
 | _Length_|Optional|**Variant**|The number of character to return.|
 
-### Return Value
+### Return value
 
 String
 

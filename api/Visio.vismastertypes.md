@@ -15,7 +15,7 @@ Master-type constants passed to the  **[Masters.AddEx](Visio.Masters.AddEx.md)**
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeDataGraphic**|5|Data graphic master.|
 | **visTypeFillPattern**|2|Fill pattern master.|

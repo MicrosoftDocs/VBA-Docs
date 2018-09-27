@@ -1,5 +1,5 @@
 ---
-title: Form.NavigationButtons Property (Access)
+title: Form.NavigationButtons property (Access)
 keywords: vbaac10.chm13365
 f1_keywords:
 - vbaac10.chm13365
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.NavigationButtons Property (Access)
+# Form.NavigationButtons property (Access)
 
 You can use the  **NavigationButtons** property to specify whether navigation buttons and a record number box are displayed on a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `NavigationButtons`
+_expression_. `NavigationButtons`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

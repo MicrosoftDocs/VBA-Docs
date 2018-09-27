@@ -27,7 +27,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|Represents an identifier of the PickerResult.|
 | _DisplayName_|Required|**String**|Represents a display name of the PickerResult. |
@@ -36,7 +36,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 | _ItemData_|Optional|**Variant**|Non- displaying item binding data|
 | _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the PickerResult. It is used for passing column values in the Picker Dialog.|
 
-### Return Value
+### Return value
 
 PickerResult
 

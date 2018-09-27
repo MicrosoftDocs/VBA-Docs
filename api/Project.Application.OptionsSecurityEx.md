@@ -27,13 +27,13 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RemoveFileProperties_|Optional|**Boolean**|**True** if Project removes personal information from file properties upon saving. The default value is **False**. Corresponds to the **Document-specific settings** section on the **Privacy Options** tab of the **Trust Center** dialog box.|
 | _TrustWSS_|Optional|**Boolean**|**True** if Project Server and project workspace sites need not be added to the Internet Explorer Trusted Sites list. **False** if the SharePoint sites for Project Server and project workspaces are already trusted. Corresponds to the setting on the **Project Server** tab of the **Trust Center** dialog box.|
 | _LegacyFileFormats_|Optional|**Integer**|Sets the option for opening or saving files with legacy or non-default file formats. Valid values are 0?2. Corresponds to the setting on the  **Legacy Formats** tab of the **Trust Center** dialog box. Can be one of the constants in the **[PjLegacyFileFormats](Project.PjLegacyFileFormats.md)** enumeration.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

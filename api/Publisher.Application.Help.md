@@ -27,7 +27,7 @@ Displays online Help information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |HelpType|Required| **PbHelpType**|The type of help to display.|
 

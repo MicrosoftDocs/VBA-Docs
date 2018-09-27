@@ -1,5 +1,5 @@
 ---
-title: Application.CodeProject Property (Access)
+title: Application.CodeProject property (Access)
 keywords: vbaac10.chm12578
 f1_keywords:
 - vbaac10.chm12578
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CodeProject Property (Access)
+# Application.CodeProject property (Access)
 
 You can use the  **CodeProject** property to access the **[CodeProject](Access.CodeProject.md)** object and its related collections, properties, and methods. Read-only **CodeProject** object.
 
 
 ## Syntax
 
- _expression_.CodeProject
+_expression_.CodeProject
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

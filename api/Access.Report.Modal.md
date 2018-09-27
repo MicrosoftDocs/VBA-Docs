@@ -1,5 +1,5 @@
 ---
-title: Report.Modal Property (Access)
+title: Report.Modal property (Access)
 keywords: vbaac10.chm13799
 f1_keywords:
 - vbaac10.chm13799
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Modal Property (Access)
+# Report.Modal property (Access)
 
 You can use the  **Modal** property to specify whether a report opens as a modal window. When a report opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Modal`
+_expression_. `Modal`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

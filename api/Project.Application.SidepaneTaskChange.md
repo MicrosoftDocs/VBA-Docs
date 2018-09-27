@@ -27,12 +27,12 @@ Changes the side pane that is displayed in  **Project Guide**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required|**Integer**|The ID number of the side pane in the  **Project Guide**.|
 | _IsGoalArea_|Optional|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

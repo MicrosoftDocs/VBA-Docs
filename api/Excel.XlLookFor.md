@@ -14,7 +14,7 @@ Specifies what to look for in searches.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **LookForBlanks**|0|Blanks|
 | **LookForErrors**|1|Errors|

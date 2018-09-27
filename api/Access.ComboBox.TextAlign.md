@@ -1,5 +1,5 @@
 ---
-title: ComboBox.TextAlign Property (Access)
+title: ComboBox.TextAlign property (Access)
 keywords: vbaac10.chm11420
 f1_keywords:
 - vbaac10.chm11420
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.TextAlign Property (Access)
+# ComboBox.TextAlign property (Access)
 
 The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `TextAlign`
+_expression_. `TextAlign`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

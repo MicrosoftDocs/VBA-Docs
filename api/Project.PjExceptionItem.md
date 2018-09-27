@@ -14,7 +14,7 @@ Contains constants that specify the day on which a calendar exception occurs.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjItemFriday**|8|The exception occurs on a Friday.|
 |**pjItemMonday**|4|The exception occurs on a Monday.|

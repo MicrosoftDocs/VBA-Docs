@@ -27,7 +27,7 @@ Private Sub  _expression_ _'XMLAfterInsert'(**_NewXMLNode_** , **_InUndoRedo_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewXMLNode_|Required| **[XMLNode](Word.XMLNode.md)**|The newly added XML node.|
 | _InUndoRedo_|Required| **Boolean**| **True** indicates the action was performed using the **Undo** or **Redo** feature in Microsoft Word.|

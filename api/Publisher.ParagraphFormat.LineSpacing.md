@@ -23,7 +23,7 @@ Returns or sets a  **Variant** that represents the line spacing (in number of li
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

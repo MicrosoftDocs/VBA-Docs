@@ -30,11 +30,11 @@ Gets the value of the specified data-column property.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Property_|Required| **VisDataColumnProperties**|The data column property to get. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Returns a  **Single** that represents the distance (in points) from the top edge
  _expression_ A variable that represents a  **Page** object.
 
 
-### Return Value
+### Return value
 
 Single
 

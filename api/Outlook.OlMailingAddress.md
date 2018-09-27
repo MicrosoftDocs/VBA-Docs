@@ -17,7 +17,7 @@ Indicates the address to use as the mailing address.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olBusiness**|2|Business mailing address|
 | **olHome**|1|Home mailing address|

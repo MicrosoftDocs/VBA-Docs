@@ -1,5 +1,5 @@
 ---
-title: ComboBox.FontUnderline Property (Access)
+title: ComboBox.FontUnderline property (Access)
 keywords: vbaac10.chm11418
 f1_keywords:
 - vbaac10.chm11418
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.FontUnderline Property (Access)
+# ComboBox.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontUnderline** property to specify whether text is underline
 
 ## Syntax
 
- _expression_. `FontUnderline`
+_expression_. `FontUnderline`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

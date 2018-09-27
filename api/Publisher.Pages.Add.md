@@ -27,14 +27,14 @@ Adds a new  **Page** object to the specified **Pages** object and returns the ne
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Count|Required| **Long**|The number of new pages to add.|
 |After|Required| **Long**|The page index of the page after which to add the new pages. A zero for this argument adds new pages at the beginning of the publication.|
 |DuplicateObjectsOnPage|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: do not duplicate pages.|
 |AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether links to the new pages will be added to the automatic navigation bars of existing pages. If  **True**, links to the new pages will be added to the automatic navigation bars of existing pages only. If  **False**, links to the new pages will not be added to the automatic navigation bars of existing pages or new pages added in the future. Default is  **False**.|
 
-### Return Value
+### Return value
 
 Page
 

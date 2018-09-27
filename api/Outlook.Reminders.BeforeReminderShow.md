@@ -27,7 +27,7 @@ Occurs before the  **Reminder** dialog box is displayed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **True** to cancel the event. The default value is **False** .|
 

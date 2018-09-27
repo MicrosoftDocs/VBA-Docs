@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ShapeAdded'(**_ByVal Shape As [IVSHAPE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required| **[IVSHAPE]**|The shape or group of shapes that was added to the document.|
 

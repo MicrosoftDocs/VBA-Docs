@@ -23,7 +23,7 @@ Returns the MDX unique name of OLAP hierarchy level represented by the object.
  _expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

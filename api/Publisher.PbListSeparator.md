@@ -17,7 +17,7 @@ Constants that represent the list separator of the specified paragraphs, passed 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbListSeparatorColon**|327680|Colon|
 | **pbListSeparatorDoubleHyphen**|458752|Double Hyphen|

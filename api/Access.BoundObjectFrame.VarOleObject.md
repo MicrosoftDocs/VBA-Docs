@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.VarOleObject Property (Access)
+title: BoundObjectFrame.VarOleObject property (Access)
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.VarOleObject Property (Access)
+# BoundObjectFrame.VarOleObject property (Access)
 
  Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `VarOleObject`
+_expression_. `VarOleObject`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

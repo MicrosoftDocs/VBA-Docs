@@ -14,7 +14,7 @@ Contains constants that specify the type of an item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjOtherItem**|2|Other item.|
 |**pjResourceItem**|1|Resource item.|

@@ -23,7 +23,7 @@ Gets or sets the paths where Microsoft Visio looks for third-party or user add-o
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

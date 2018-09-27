@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.ReadingOrder Property (Access)
+title: NavigationControl.ReadingOrder property (Access)
 keywords: vbaac10.chm11130
 f1_keywords:
 - vbaac10.chm11130
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.ReadingOrder Property (Access)
+# NavigationControl.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+_expression_. `ReadingOrder`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

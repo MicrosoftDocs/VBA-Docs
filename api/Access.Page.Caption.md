@@ -1,5 +1,5 @@
 ---
-title: Page.Caption Property (Access)
+title: Page.Caption property (Access)
 keywords: vbaac10.chm12148
 f1_keywords:
 - vbaac10.chm12148
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Caption Property (Access)
+# Page.Caption property (Access)
 
 Gets or sets the text that appears at the top of the page. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

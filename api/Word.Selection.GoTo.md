@@ -22,14 +22,14 @@ Moves the insertion point to the character position immediately preceding the sp
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Optional| **Variant**|The kind of item to which the range or selection is moved. Can be one of the  **[WdGoToItem](Word.WdGoToItem.md)** constants.|
 | _Which_|Optional| **Variant**|The item to which the range or selection is moved. Can be one of the  **[WdGoToDirection](Word.WdGoToDirection.md)** constants.|
 | _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use  **wdGoToPrevious** as the Which argument and specify a Count value.|
 | _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name.|
 
-### Return Value
+### Return value
 
 The [Range](Word.Range.md) that is now selected.
 

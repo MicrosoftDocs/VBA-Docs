@@ -27,7 +27,7 @@ Private Sub  _expression_ _'Sync'(**_SyncEventType_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SyncEventType_|Required| **MsoSyncEventType**|The status of the document synchronization.|
 

@@ -30,7 +30,7 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Returns the  **SharedWorkspaceFolder** at the position specified. The returned **SharedWorkspaceFolder** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
 

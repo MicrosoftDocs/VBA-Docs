@@ -1,5 +1,5 @@
 ---
-title: Section Object (Access)
+title: Section object (Access)
 keywords: vbaac10.chm12235
 f1_keywords:
 - vbaac10.chm12235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section Object (Access)
+# Section object (Access)
 
 A form section is part of a form such as a header, footer, or detail section.
 

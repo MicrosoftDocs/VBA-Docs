@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.AutoLabel Property (Access)
+title: NavigationButton.AutoLabel property (Access)
 keywords: vbaac10.chm10482
 f1_keywords:
 - vbaac10.chm10482
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.AutoLabel Property (Access)
+# NavigationButton.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

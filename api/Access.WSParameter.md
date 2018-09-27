@@ -1,5 +1,5 @@
 ---
-title: WSParameter Object (Access)
+title: WSParameter object (Access)
 keywords: vbaac10.chm14582
 f1_keywords:
 - vbaac10.chm14582
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WSParameter Object (Access)
+# WSParameter object (Access)
 
 Represents a parameter defined for an [Operation](Access.Operation.md).
 

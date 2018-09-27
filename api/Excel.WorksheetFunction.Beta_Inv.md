@@ -27,7 +27,7 @@ Returns the inverse of the cumulative distribution function for a specified beta
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A probability associated with the beta distribution.|
 | _Arg2_|Required| **Double**|The Alpha parameter of the distribution.|
@@ -35,7 +35,7 @@ Returns the inverse of the cumulative distribution function for a specified beta
 | _Arg4_|Optional| **Variant**|An optional lower bound to the interval of x.|
 | _Arg5_|Optional| **Variant**|An optional upper bound to the interval of x.|
 
-### Return Value
+### Return value
 
 Double
 

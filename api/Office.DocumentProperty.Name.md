@@ -27,12 +27,12 @@ Gets or sets the name of a document property. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lcid_|Required|**Long**|Represents the language identifier.|
 | _pbstrRetVal_|Required|**String**|Represents the return value for the property.|
 
-### Return Value
+### Return value
 
 String
 

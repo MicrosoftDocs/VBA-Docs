@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.OldValue Property (Access)
+title: NavigationControl.OldValue property (Access)
 keywords: vbaac10.chm11031
 f1_keywords:
 - vbaac10.chm11031
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.OldValue Property (Access)
+# NavigationControl.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `OldValue`
+_expression_. `OldValue`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

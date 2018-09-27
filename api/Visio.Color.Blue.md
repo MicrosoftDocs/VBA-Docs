@@ -23,7 +23,7 @@ Gets or sets the intensity of the blue component of a  **Color** object. Read/wr
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -1,5 +1,5 @@
 ---
-title: Form.CurrentView Property (Access)
+title: Form.CurrentView property (Access)
 keywords: vbaac10.chm13466
 f1_keywords:
 - vbaac10.chm13466
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CurrentView Property (Access)
+# Form.CurrentView property (Access)
 
 You can use the  **CurrentView** property to determine how a form is currently displayed. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

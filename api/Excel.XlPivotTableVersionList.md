@@ -14,7 +14,7 @@ Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPivotTableVersion2000**|0|Excel 2000|
 | **xlPivotTableVersion10**|1|Excel 2002|

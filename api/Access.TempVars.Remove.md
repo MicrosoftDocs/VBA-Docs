@@ -1,5 +1,5 @@
 ---
-title: TempVars.Remove Method (Access)
+title: TempVars.Remove method (Access)
 keywords: vbaac10.chm14070
 f1_keywords:
 - vbaac10.chm14070
@@ -11,25 +11,25 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVars.Remove Method (Access)
+# TempVars.Remove method (Access)
 
 Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempVars](Access.TempVars.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Remove`( ` _var_` )
+_expression_. `Remove`( ` _var_` )
 
- _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the  _expression_ argument. If a numeric expression, the argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the argument must be the name of a member of the collection.|
+| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument. If a numeric expression, the argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the argument must be the name of a member of the collection.|
 
 ## See also
 

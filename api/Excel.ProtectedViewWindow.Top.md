@@ -23,7 +23,7 @@ Returns or sets a value that represents the distance, in points, from the top ed
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
-### Return Value
+### Return value
 
  **Double**
 

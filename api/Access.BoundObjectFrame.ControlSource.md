@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.ControlSource Property (Access)
+title: BoundObjectFrame.ControlSource property (Access)
 keywords: vbaac10.chm10910
 f1_keywords:
 - vbaac10.chm10910
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.ControlSource Property (Access)
+# BoundObjectFrame.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlSource`
+_expression_. `ControlSource`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

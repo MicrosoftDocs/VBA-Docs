@@ -14,7 +14,7 @@ Contains constants that specify the format for top and bottom date panes of each
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCalendarLabelDay_ddd**|19|Examples: Mon, Tue.|
 |**pjCalendarLabelDay_ddd_dd**|105|Examples: Mon 30, Tue 1.|

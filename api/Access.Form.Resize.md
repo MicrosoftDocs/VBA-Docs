@@ -1,5 +1,5 @@
 ---
-title: Form.Resize Event (Access)
+title: Form.Resize event (Access)
 keywords: vbaac10.chm13643
 f1_keywords:
 - vbaac10.chm13643
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Resize Event (Access)
+# Form.Resize event (Access)
 
 The  **Resize** event occurs when a form is opened and whenever the size of a form changes.
 
 
 ## Syntax
 
- _expression_. `Resize`
+_expression_. `Resize`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.DataSetChange Property (Access)](http://msdn.microsoft.com/library/29f7f9a8-4dbd-9f69-7f4c-7f93add9f1b6%28Office.15%29.aspx)
+[Form.DataSetChange property (Access)](http://msdn.microsoft.com/library/29f7f9a8-4dbd-9f69-7f4c-7f93add9f1b6%28Office.15%29.aspx)
 

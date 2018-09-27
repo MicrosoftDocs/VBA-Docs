@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.SourceObject Property (Access)
+title: ObjectFrame.SourceObject property (Access)
 keywords: vbaac10.chm11573
 f1_keywords:
 - vbaac10.chm11573
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.SourceObject Property (Access)
+# ObjectFrame.SourceObject property (Access)
 
 You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `SourceObject`
+_expression_. `SourceObject`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies the border style for an object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLineStyleDashDot**|5|A dash followed by a dot.|
 | **wdLineStyleDashDotDot**|6|A dash followed by two dots.|

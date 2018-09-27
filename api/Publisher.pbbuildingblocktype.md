@@ -15,7 +15,7 @@ Constants that represent building block types.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbBBBuiltIn**|1|Built-in type|
 | **pbBBDownloaded**|2|Downloaded type|

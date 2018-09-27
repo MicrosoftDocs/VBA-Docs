@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Attachment.OnAttachmentCurrent Property (Access)](http://msdn.microsoft.com/library/7987943b-5283-e9dc-17a6-5f4b54c90d4d%28Office.15%29.aspx)
+[Attachment.OnAttachmentCurrent property (Access)](http://msdn.microsoft.com/library/7987943b-5283-e9dc-17a6-5f4b54c90d4d%28Office.15%29.aspx)
 

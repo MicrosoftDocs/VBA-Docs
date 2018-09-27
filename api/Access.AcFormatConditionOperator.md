@@ -1,5 +1,5 @@
 ---
-title: AcFormatConditionOperator Enumeration (Access)
+title: AcFormatConditionOperator enumeration (Access)
 keywords: vbaac10.chm10040
 f1_keywords:
 - vbaac10.chm10040
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFormatConditionOperator Enumeration (Access)
+# AcFormatConditionOperator enumeration (Access)
 
 Specifies the operator to apply when using the  **Add** method to create a conditional format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBetween**|0|The value must be between the values specified by the Expression1 and Expression2 arguments. |
 |**acEqual**|2|The value must equal to the value specified by the Expression1 argument.|

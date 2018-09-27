@@ -14,7 +14,7 @@ Specifies the operator to use to associate two criteria applied by a filter.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAnd**|1|Logical AND of Criteria1 and Criteria2.|
 | **xlBottom10Items**|4|Lowest-valued items displayed (number of items specified in Criteria1).|

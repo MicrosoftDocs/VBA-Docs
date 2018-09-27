@@ -1,5 +1,5 @@
 ---
-title: CheckBox.DisplayWhen Property (Access)
+title: CheckBox.DisplayWhen property (Access)
 keywords: vbaac10.chm10702
 f1_keywords:
 - vbaac10.chm10702
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.DisplayWhen Property (Access)
+# CheckBox.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayWhen`
+_expression_. `DisplayWhen`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

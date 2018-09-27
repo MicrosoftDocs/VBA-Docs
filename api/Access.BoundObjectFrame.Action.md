@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Action Property (Access)
+title: BoundObjectFrame.Action property (Access)
 keywords: vbaac10.chm10956
 f1_keywords:
 - vbaac10.chm10956
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Action Property (Access)
+# BoundObjectFrame.Action property (Access)
 
 You can use the **Action** property in Visual Basic to specify the operation to perform on an OLE object. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Action`
+_expression_. `Action`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

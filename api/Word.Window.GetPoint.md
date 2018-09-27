@@ -27,7 +27,7 @@ Returns the screen coordinates of the specified range or shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ScreenPixelsLeft_|Required| **Long**|The variable name to which you want Microsoft Word to return the value for the left edge of the object.|
 | _ScreenPixelsTop_|Required| **Long**|The variable name to which you want Word to return the value for the top edge of the object.|

@@ -27,14 +27,14 @@ Registers the  **[IRibbonExtensibility](./Office.IRibbonExtensibility.md)** inte
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceAddOn_|Required| **IRibbonExtensibilty**|The add-on to register.|
 | _TargetDocument_|Required| **[Document](Visio.Document.md)**|The document that uses the custom UI.|
 | _TargetModes_|Required| **[VisRibbonXModes](Visio.VisRibbonXModes.md)**|The modes in which the custom UI should be visible. See Remarks for possible values.|
 | _FriendlyName_|Required| **String**|The name to associate with the UI items and errors that originate in the add-on.|
 
-### Return Value
+### Return value
 
  **Nothing**
 
@@ -47,7 +47,7 @@ If  _TargetDocument_ is null, the custom UI is defined at the level of the appli
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRxModeNone**|0|Display the custom UI when no documents are open.|
 | **visRxModeDrawing**|1|Display the custom UI in Drawing mode.|

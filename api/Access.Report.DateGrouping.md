@@ -1,5 +1,5 @@
 ---
-title: Report.DateGrouping Property (Access)
+title: Report.DateGrouping property (Access)
 keywords: vbaac10.chm13699
 f1_keywords:
 - vbaac10.chm13699
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DateGrouping Property (Access)
+# Report.DateGrouping property (Access)
 
 You can use the  **DateGrouping** property to specify how you want to group dates in a report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DateGrouping`
+_expression_. `DateGrouping`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

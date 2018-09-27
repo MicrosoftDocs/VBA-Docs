@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Optional|**Variant**|The range that contains the source data for the new chart. If this argument is omitted, Word edits the active chart sheet or the selected chart on the active worksheet.|
 | _Gallery_|Optional|**Variant**|One of the **[XlChartType](./Excel.XlChartType.md)** constants that specifies the chart type.|

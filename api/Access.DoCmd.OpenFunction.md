@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenFunction Method (Access)
+title: DoCmd.OpenFunction method (Access)
 keywords: vbaac10.chm5161
 f1_keywords:
 - vbaac10.chm5161
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenFunction Method (Access)
+# DoCmd.OpenFunction method (Access)
 
 Opens a user-defined function in a Microsoft SQL Server database for viewing in Microsoft Access.
 
 
 ## Syntax
 
- _expression_. `OpenFunction`( ` _FunctionName_`, ` _View_`, ` _DataMode_` )
+_expression_. `OpenFunction`( ` _FunctionName_`, ` _View_`, ` _DataMode_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FunctionName_|Required|**Variant**|The name of the function to open.|
 | _View_|Optional|**AcView**|A  **[AcView](Access.AcView.md)** constant that specifies the view in which to open the function. The default value is **acViewNormal**.|

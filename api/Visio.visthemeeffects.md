@@ -15,7 +15,7 @@ Theme effects constants passed to and returned by the  **Page.ThemeEffects** pro
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visThemeEffectsNone**|0|No theme effect.|
 | **visThemeEffectsSubdued**|1|Subdued.|

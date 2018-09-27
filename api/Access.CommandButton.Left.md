@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Left Property (Access)
+title: CommandButton.Left property (Access)
 keywords: vbaac10.chm10467
 f1_keywords:
 - vbaac10.chm10467
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Left Property (Access)
+# CommandButton.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

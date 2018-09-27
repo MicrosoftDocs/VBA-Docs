@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Report.DateGrouping Property (Access)](http://msdn.microsoft.com/library/e2495aa7-06e9-8eaf-81d8-182c7d51559c%28Office.15%29.aspx)
+[Report.DateGrouping property (Access)](http://msdn.microsoft.com/library/e2495aa7-06e9-8eaf-81d8-182c7d51559c%28Office.15%29.aspx)
 

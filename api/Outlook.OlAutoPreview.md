@@ -17,7 +17,7 @@ Indicates how items will be automatically previewed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAutoPreviewAll**|0|All items are automatically previewed. |
 | **olAutoPreviewNone**|2|No items are automatically previewed.|

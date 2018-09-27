@@ -27,7 +27,7 @@ Specifies the table style to use for newly created tables in a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **Variant**|A string specifying the name of the style.|
 | _SetInTemplate_|Required| **Boolean**| **True** to save the table style in the template attached to the document.|

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Gradient Property (Access)
+title: NavigationButton.Gradient property (Access)
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Gradient Property (Access)
+# NavigationButton.Gradient property (Access)
 
 Gets or sets the gradient fill applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Gradient`
+_expression_. `Gradient`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

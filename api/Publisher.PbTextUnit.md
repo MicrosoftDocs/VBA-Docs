@@ -17,7 +17,7 @@ The unit by which to expand a range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbTextUnitCell**|12|Expand by a cell|
 | **pbTextUnitCharacter**|1|Expand by a character|

@@ -23,7 +23,7 @@ Sets or retrieves a  **String** representing the replacement text in the specifi
  _expression_ A variable that represents a  **FindReplace** object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -1,5 +1,5 @@
 ---
-title: ListBox.ScrollBarAlign Property (Access)
+title: ListBox.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11293
 f1_keywords:
 - vbaac10.chm11293
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ScrollBarAlign Property (Access)
+# ListBox.ScrollBarAlign property (Access)
 
 You can use the  **ScrollBarAlign** to specify or determine the alignment of a vertical scroll bar. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ScrollBarAlign`
+_expression_. `ScrollBarAlign`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

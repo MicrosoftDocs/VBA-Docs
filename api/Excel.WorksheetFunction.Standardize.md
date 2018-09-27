@@ -27,13 +27,13 @@ Returns a normalized value from a distribution characterized by mean and standar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value you want to normalize.|
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
 
-### Return Value
+### Return value
 
 Double
 

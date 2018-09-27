@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **ODSOColumns** object. Read-only.
  _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

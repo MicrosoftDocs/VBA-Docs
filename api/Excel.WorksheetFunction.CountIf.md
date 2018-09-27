@@ -27,12 +27,12 @@ Counts the number of cells within a range that meet the given criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The range of cells from which you want to count cells.|
 | _Arg2_|Required| **Variant**|The criteria in the form of a number, expression, cell reference, or text that defines which cells will be counted. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 
-### Return Value
+### Return value
 
 Double
 

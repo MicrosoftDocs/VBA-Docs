@@ -17,7 +17,7 @@ Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixe
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|

@@ -24,7 +24,7 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom property that was changed.|
 

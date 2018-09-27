@@ -1,5 +1,5 @@
 ---
-title: DependencyObjects Object (Access)
+title: DependencyObjects object (Access)
 keywords: vbaac10.chm13264
 f1_keywords:
 - vbaac10.chm13264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyObjects Object (Access)
+# DependencyObjects object (Access)
 
 Represents the collection of  **[AccessObject](Access.AccessObject.md)** objects that a **[DependencyInfo](Access.DependencyInfo.md)** object contains.
 

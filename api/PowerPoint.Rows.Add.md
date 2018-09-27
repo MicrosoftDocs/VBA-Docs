@@ -27,11 +27,11 @@ Returns a  **[Row](PowerPoint.Row.md)** object that represents a row being added
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Optional|**Long**|The row before which the row is to be added.|
 
-### Return Value
+### Return value
 
 Row
 

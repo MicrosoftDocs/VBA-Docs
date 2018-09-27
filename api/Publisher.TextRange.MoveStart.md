@@ -27,12 +27,12 @@ Moves the start position of the specified range. This method returns a  **Long**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
 |Size|Required| **Long**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together.|
 
-### Return Value
+### Return value
 
 Long
 

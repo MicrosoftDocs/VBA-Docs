@@ -1,5 +1,5 @@
 ---
-title: ListBox.SpecialEffect Property (Access)
+title: ListBox.SpecialEffect property (Access)
 keywords: vbaac10.chm11246
 f1_keywords:
 - vbaac10.chm11246
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.SpecialEffect Property (Access)
+# ListBox.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `SpecialEffect`
+_expression_. `SpecialEffect`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

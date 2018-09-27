@@ -14,7 +14,7 @@ Contains constants that specify the Project Server account type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjManagerAccount**|1|Manager account.|
 |**pjResourceAccount**|0|Resource account.|

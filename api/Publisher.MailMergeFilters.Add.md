@@ -27,7 +27,7 @@ Adds a new filter criterion to the specified  **MailMergeFilters** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Column|Required| **String**|The name of the table in the data source.|
 |Comparison|Required| **MsoFilterComparison**|How the data in the table is filtered.|

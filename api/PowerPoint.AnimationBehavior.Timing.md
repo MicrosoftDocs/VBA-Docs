@@ -23,7 +23,7 @@ Returns a  **[Timing](PowerPoint.Timing.md)** object that represents the timing 
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return Value
+### Return value
 
 Timing
 

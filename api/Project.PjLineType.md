@@ -14,7 +14,7 @@ Contains constants that specify a line pattern.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCloseDot**|2|Close dot.|
 |**pjContinuous**|1|Continous line.|

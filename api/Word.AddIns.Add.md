@@ -27,7 +27,7 @@ Returns an  **[AddIn](Word.AddIn.md)** object that represents an add-in added to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path for the template or WLL.|
 | _Install_|Optional| **Variant**| **True** to install the add-in. **False** to add the add-in to the list of add-ins but not install it. The default value is **True** .|

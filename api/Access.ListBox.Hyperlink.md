@@ -1,5 +1,5 @@
 ---
-title: ListBox.Hyperlink Property (Access)
+title: ListBox.Hyperlink property (Access)
 keywords: vbaac10.chm11216
 f1_keywords:
 - vbaac10.chm11216
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Hyperlink Property (Access)
+# ListBox.Hyperlink property (Access)
 
 You can use the  **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_. `Hyperlink`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Example

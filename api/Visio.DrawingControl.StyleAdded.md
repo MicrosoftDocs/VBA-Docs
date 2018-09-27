@@ -24,7 +24,7 @@ Private Sub  _expression_ _'StyleAdded'(**_ByVal style As [IVSTYLE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required| **[IVSTYLE]**|The style that was added to the document.|
 

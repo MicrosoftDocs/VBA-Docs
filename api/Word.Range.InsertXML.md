@@ -27,12 +27,12 @@ Inserts the specified XML into the document at the specified range, replacing an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XML_|Required| **String**|Specifies the XML to insert. This can be any valid custom XML.|
 | _Transform_|Optional| **Variant**|Specifies the XML Transformation (XSLT) used to transform the XML. If omitted, the XML is inserted as custom XML without applying a transform.|
 
-### Return Value
+### Return value
 
 Nothing
 

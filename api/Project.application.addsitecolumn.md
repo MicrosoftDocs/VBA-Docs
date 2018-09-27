@@ -23,7 +23,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectField_|Optional|**[PjField](Project.PjField.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
 | _SharePointName_|Optional|**Variant**|The name of the new column.|

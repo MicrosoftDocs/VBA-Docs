@@ -23,7 +23,7 @@ Zooms (enlarges or shrinks) the active report to the specified percentage of its
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Percent_|Optional|**Variant**|The percent of the original size.|
 | _Entire_|Optional|**Variant**|The  _Entire_ parameter has no effect.|

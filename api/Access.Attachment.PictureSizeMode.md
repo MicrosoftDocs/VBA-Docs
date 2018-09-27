@@ -1,5 +1,5 @@
 ---
-title: Attachment.PictureSizeMode Property (Access)
+title: Attachment.PictureSizeMode property (Access)
 keywords: vbaac10.chm13915
 f1_keywords:
 - vbaac10.chm13915
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.PictureSizeMode Property (Access)
+# Attachment.PictureSizeMode property (Access)
 
 You can use the  **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `PictureSizeMode`
+_expression_. `PictureSizeMode`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

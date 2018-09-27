@@ -27,13 +27,13 @@ Creates various types of  **Selection** objects.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SelType_|Required| **VisSelectionTypes**|The type of selection. See Remarks for possible values.|
 | _IterationMode_|Optional| **VisSelectMode**|The selection mode used. See Remarks for possible values.|
 | _Data_|Optional| **Variant**|The object type that corresponds to the  _SelType_ argument. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Selection
 

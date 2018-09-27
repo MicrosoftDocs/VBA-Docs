@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BorderTint Property (Access)
+title: CheckBox.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BorderTint Property (Access)
+# CheckBox.BorderTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderTint`
+_expression_. `BorderTint`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

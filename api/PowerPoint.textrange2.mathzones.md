@@ -22,7 +22,7 @@ Sets the starting point and length of a math zone within a text range. Read-only
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Integer**|The starting point for the math zone.|
 | _Length_|Optional|**Integer**|The length of the math zone.|

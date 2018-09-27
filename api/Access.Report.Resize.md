@@ -1,5 +1,5 @@
 ---
-title: Report.Resize Event (Access)
+title: Report.Resize event (Access)
 keywords: vbaac10.chm13885
 f1_keywords:
 - vbaac10.chm13885
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Resize Event (Access)
+# Report.Resize event (Access)
 
 The  **Resize** event occurs when a report is opened and whenever the size of a report changes.
 
 
 ## Syntax
 
- _expression_. `Resize`
+_expression_. `Resize`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

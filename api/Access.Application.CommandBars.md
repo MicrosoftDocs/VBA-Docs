@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Access)
+title: Application.CommandBars property (Access)
 keywords: vbaac10.chm12559
 f1_keywords:
 - vbaac10.chm12559
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CommandBars Property (Access)
+# Application.CommandBars property (Access)
 
 You can use the  **CommandBars** property to return a reference to the **CommandBars** collection object. Read-only **CommandBars** object.
 
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

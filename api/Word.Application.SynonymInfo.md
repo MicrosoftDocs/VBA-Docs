@@ -27,7 +27,7 @@ Returns a  **[SynonymInfo](Word.SynonymInfo.md)** object that contains informati
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The specified word or phrase.|
 | _LanguageID_|Optional| **Variant**|The language used for the thesaurus. Can be one of the  **WdLanguageID** constants (although some of the constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed).|

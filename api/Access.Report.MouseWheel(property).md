@@ -1,5 +1,5 @@
 ---
-title: Report.MouseWheel Property (Access)
+title: Report.MouseWheel property (Access)
 keywords: vbaac10.chm13872
 f1_keywords:
 - vbaac10.chm13872
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.MouseWheel Property (Access)
+# Report.MouseWheel property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **MouseWheel** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `MouseWheel`
+_expression_. `MouseWheel`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

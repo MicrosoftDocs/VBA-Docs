@@ -27,13 +27,13 @@ Returns the bond-equivalent yield for a Treasury bill.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Settlement - the Treasury bill's settlement date. The security settlement date is the date after the issue date when the Treasury bill is traded to the buyer.|
 | _Arg2_|Required| **Variant**|Maturity - the Treasury bill's maturity date. The maturity date is the date when the Treasury bill expires.|
 | _Arg3_|Optional| **Variant**|Discount - the Treasury bill's discount rate.|
 
-### Return Value
+### Return value
 
 Double
 

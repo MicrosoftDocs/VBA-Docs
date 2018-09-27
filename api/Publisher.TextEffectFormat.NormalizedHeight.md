@@ -23,7 +23,7 @@ Specifies whether all characters (both uppercase and lowercase) in the specified
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

@@ -27,7 +27,7 @@ Adds a  **TableField** object to a **TableFields** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**Long**|The name of the table field. Can be one of the  **[PjField](Project.PjField.md)** constants.|
 | _AlignData_|Optional|**Long**|The alignment of the table data. Can be one of the  **[PjAlignment](Project.PjAlignment.md)** constants. The default value is **pjRight**.|
@@ -37,7 +37,7 @@ Adds a  **TableField** object to a **TableFields** collection.
 | _Before_|Optional|**Long**|Position of the title. The default value is -1.|
 | _AutoWrap_|Optional|**Boolean**|**True** if the data in the table field automatically wrap. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **TableField**
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentUser Method (Access)
+title: Application.CurrentUser method (Access)
 keywords: vbaac10.chm12538
 f1_keywords:
 - vbaac10.chm12538
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentUser Method (Access)
+# Application.CurrentUser method (Access)
 
 You can use the  **CurrentUser** method to return the name of the current user of the database. .
 
 
 ## Syntax
 
- _expression_. `CurrentUser`
+_expression_. `CurrentUser`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

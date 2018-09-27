@@ -1,5 +1,5 @@
 ---
-title: TextBox.Change Event (Access)
+title: TextBox.Change event (Access)
 keywords: vbaac10.chm14196
 f1_keywords:
 - vbaac10.chm14196
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Change Event (Access)
+# TextBox.Change event (Access)
 
 The  **Change** event occurs when the contents of the specified control changes.
 
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

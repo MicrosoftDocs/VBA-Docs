@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OldValue Property (Access)
+title: CheckBox.OldValue property (Access)
 keywords: vbaac10.chm10685
 f1_keywords:
 - vbaac10.chm10685
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OldValue Property (Access)
+# CheckBox.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `OldValue`
+_expression_. `OldValue`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

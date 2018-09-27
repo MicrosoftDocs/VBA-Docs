@@ -1,5 +1,5 @@
 ---
-title: FormatConditions Object (Access)
+title: FormatConditions object (Access)
 keywords: vbaac10.chm10066
 f1_keywords:
 - vbaac10.chm10066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions Object (Access)
+# FormatConditions object (Access)
 
 The  **FormatConditions** collection represents the collection of conditional formats for a combo box or text box control. Each format is represented by a **[FormatCondition](Access.FormatCondition.md)** object.
 

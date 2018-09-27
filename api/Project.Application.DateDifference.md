@@ -27,13 +27,13 @@ Returns the duration between two dates in minutes, for an automatically schedule
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|**Variant**|The date used as the beginning of the duration.|
 | _FinishDate_|Required|**Variant**|The date used as the end of the duration.|
 | _Calendar_|Optional|**Object**|A resource or task base calendar object. The default value is the calendar of the active project.|
 
-### Return Value
+### Return value
 
  **Long**
 

@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Name Property (Access)
+title: CommandButton.Name property (Access)
 keywords: vbaac10.chm10506
 f1_keywords:
 - vbaac10.chm10506
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Name Property (Access)
+# CommandButton.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

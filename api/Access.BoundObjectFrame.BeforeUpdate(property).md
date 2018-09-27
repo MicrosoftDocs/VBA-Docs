@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BeforeUpdate Property (Access)
+title: BoundObjectFrame.BeforeUpdate property (Access)
 keywords: vbaac10.chm10961
 f1_keywords:
 - vbaac10.chm10961
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BeforeUpdate Property (Access)
+# BoundObjectFrame.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

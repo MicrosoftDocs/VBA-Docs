@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Tag Property (Access)
+title: WebBrowserControl.Tag property (Access)
 keywords: vbaac10.chm14685
 f1_keywords:
 - vbaac10.chm14685
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Tag Property (Access)
+# WebBrowserControl.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

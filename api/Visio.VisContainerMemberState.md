@@ -17,7 +17,7 @@ Specifies constants that denote the state of the input member shape with respect
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerMemberNotAMember**|0|The shape is not a member of the container.|
 | **visContainerMemberInterior**|1|The member shape is within the bounds of the container.|

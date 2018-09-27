@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Height Property (Access)
+title: ToggleButton.Height property (Access)
 keywords: vbaac10.chm11721
 f1_keywords:
 - vbaac10.chm11721
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Height Property (Access)
+# ToggleButton.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

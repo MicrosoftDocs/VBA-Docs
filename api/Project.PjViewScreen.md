@@ -14,7 +14,7 @@ Contains constants that specify the screen type for a view in Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCalendar**|13|**Calendar** view.|
 |**pjGantt**|1|**Gantt** view.|

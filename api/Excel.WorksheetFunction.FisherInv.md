@@ -27,11 +27,11 @@ Returns the inverse of the Fisher transformation. Use this transformation when a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|y - the value for which you want to perform the inverse of the transformation.|
 
-### Return Value
+### Return value
 
 Double
 

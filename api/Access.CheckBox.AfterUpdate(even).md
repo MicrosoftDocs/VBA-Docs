@@ -1,5 +1,5 @@
 ---
-title: CheckBox.AfterUpdate Event (Access)
+title: CheckBox.AfterUpdate event (Access)
 keywords: vbaac10.chm14121
 f1_keywords:
 - vbaac10.chm14121
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.AfterUpdate Event (Access)
+# CheckBox.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_. `AfterUpdate`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Image.ImageHeight Property (Access)
+title: Image.ImageHeight property (Access)
 keywords: vbaac10.chm10400
 f1_keywords:
 - vbaac10.chm10400
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.ImageHeight Property (Access)
+# Image.ImageHeight property (Access)
 
 You can use the  **ImageHeight** property to determine the height in twips of the picture in an image control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ImageHeight`
+_expression_. `ImageHeight`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

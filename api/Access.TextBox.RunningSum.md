@@ -1,5 +1,5 @@
 ---
-title: TextBox.RunningSum Property (Access)
+title: TextBox.RunningSum property (Access)
 keywords: vbaac10.chm11070
 f1_keywords:
 - vbaac10.chm11070
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.RunningSum Property (Access)
+# TextBox.RunningSum property (Access)
 
 You can use the  **RunningSum** property to calculate record-by-record or group-by-group totals in a report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `RunningSum`
+_expression_. `RunningSum`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

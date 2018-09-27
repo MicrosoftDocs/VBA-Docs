@@ -1,5 +1,5 @@
 ---
-title: ListBox.Layout Property (Access)
+title: ListBox.Layout property (Access)
 keywords: vbaac10.chm11305
 f1_keywords:
 - vbaac10.chm11305
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Layout Property (Access)
+# ListBox.Layout property (Access)
 
 Returns the type of layout for the specified list box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## See also

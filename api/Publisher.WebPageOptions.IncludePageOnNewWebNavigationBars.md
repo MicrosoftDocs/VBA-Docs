@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that specifies whether a link to a Web page
  _expression_ A variable that represents an  **WebPageOptions** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

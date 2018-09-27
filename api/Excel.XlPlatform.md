@@ -14,7 +14,7 @@ Specifies the platform on which a text file originated.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlMacintosh**|1|Macintosh|
 | **xlMSDOS**|3|MS-DOS|

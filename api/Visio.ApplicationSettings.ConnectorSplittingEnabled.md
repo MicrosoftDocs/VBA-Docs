@@ -23,7 +23,7 @@ Determines whether connector splitting is enabled in Microsoft Visio. Read/write
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

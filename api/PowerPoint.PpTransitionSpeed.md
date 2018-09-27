@@ -14,7 +14,7 @@ Constants that specify the speed of the transition from one slide to the next, p
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppTransitionSpeedFast**|3|Fast|
 |**ppTransitionSpeedMedium**|2|Medium|

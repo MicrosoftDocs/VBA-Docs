@@ -1,5 +1,5 @@
 ---
-title: Page.SetFocus Method (Access)
+title: Page.SetFocus method (Access)
 keywords: vbaac10.chm12143
 f1_keywords:
 - vbaac10.chm12143
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.SetFocus Method (Access)
+# Page.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

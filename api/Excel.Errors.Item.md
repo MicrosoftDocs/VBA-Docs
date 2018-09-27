@@ -27,7 +27,7 @@ Returns a single member of the  **[Error](Excel.Error.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index of the member.|
 

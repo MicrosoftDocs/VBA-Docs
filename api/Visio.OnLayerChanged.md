@@ -24,7 +24,7 @@ Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the changed layer.|
 |Visible|Required| **Boolean**|Indicates whether the changed layer is visible in the user interface.|

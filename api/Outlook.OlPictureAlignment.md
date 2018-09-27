@@ -17,7 +17,7 @@ Specifies how an image is aligned with respect to text on a button.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olPictureAlignmentLeft**|0|The image is aligned to the left of the text and vertically centered on the button. |
 | **olPictureAlignmentTop**|1|The image is aligned to the right of the text and horizontally centered on the button. |

@@ -14,7 +14,7 @@ Specifies the width of the arrowhead at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlArrowHeadWidthMedium**|-4138|Medium-width arrowhead.|
 | **xlArrowHeadWidthNarrow**|1|Narrowest arrowhead.|

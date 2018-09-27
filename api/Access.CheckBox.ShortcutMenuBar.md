@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ShortcutMenuBar Property (Access)
+title: CheckBox.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm10719
 f1_keywords:
 - vbaac10.chm10719
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ShortcutMenuBar Property (Access)
+# CheckBox.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ShortcutMenuBar`
+_expression_. `ShortcutMenuBar`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Object Property (Access)
+title: ObjectFrame.Object property (Access)
 keywords: vbaac10.chm11550
 f1_keywords:
 - vbaac10.chm11550
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Object Property (Access)
+# ObjectFrame.Object property (Access)
 
 You can use the  **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Object`
+_expression_. `Object`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

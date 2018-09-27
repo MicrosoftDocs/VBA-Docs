@@ -27,7 +27,7 @@ Returns a  **Boolean** value that indicates whether the contents of a custom pro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Dirty_|Required| **Boolean**| **True** indicates that the contents of a custom property page has been altered.|
 

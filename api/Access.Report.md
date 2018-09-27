@@ -1,5 +1,5 @@
 ---
-title: Report Object (Access)
+title: Report object (Access)
 keywords: vbaac10.chm13901
 f1_keywords:
 - vbaac10.chm13901
@@ -11,7 +11,7 @@ ms.date: 11/30/2017
 ---
 
 
-# Report Object (Access)
+# Report object (Access)
 
 A **Report** object refers to a particular Microsoft Access report.
 

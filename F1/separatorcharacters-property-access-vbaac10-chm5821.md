@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ComboBox.SeparatorCharacters Property (Access)](http://msdn.microsoft.com/library/7a91ecdf-35e0-d32c-7355-7656d9ed7ad1%28Office.15%29.aspx)
+[ComboBox.SeparatorCharacters property (Access)](http://msdn.microsoft.com/library/7a91ecdf-35e0-d32c-7355-7656d9ed7ad1%28Office.15%29.aspx)
 

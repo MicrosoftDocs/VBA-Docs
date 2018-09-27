@@ -27,12 +27,12 @@ Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Int**|The index of the slide to be added.|
 | _pCustomLayout_|Required|**CustomLayout**|The layout of the slide.|
 
-### Return Value
+### Return value
 
 Slide
 

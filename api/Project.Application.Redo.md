@@ -27,11 +27,11 @@ Executes a redo action on items in the  **Redo** list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HowManyRedos_|Optional|**Long**|Specifies the number of items from the list to redo. The default is 1.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Specifies the universal name of a  **MasterShortcut** object. Read/write.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

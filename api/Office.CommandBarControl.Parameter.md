@@ -23,7 +23,7 @@ Gets or sets a string that an application can use to execute a command from a  *
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

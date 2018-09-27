@@ -27,7 +27,7 @@ Invalidates the cached value for a single control on the Ribbon user interface.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrControlID_|Required|**String**|Specifies the ID of the control that will be invalidated.|
 

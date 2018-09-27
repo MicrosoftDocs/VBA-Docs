@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.DblClick Event (Access)
+title: OptionGroup.DblClick event (Access)
 keywords: vbaac10.chm14190
 f1_keywords:
 - vbaac10.chm14190
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.DblClick Event (Access)
+# OptionGroup.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 
 
 ## Syntax
 
- _expression_. `DblClick`( ` _Cancel_` )
+_expression_. `DblClick`( ` _Cancel_` )
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **DblClick** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **DblClick** event.|
 

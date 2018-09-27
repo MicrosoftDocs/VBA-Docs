@@ -27,7 +27,7 @@ Returns information about the specified selection. Read-only  **Variant** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdInformation**|The information type.|
 

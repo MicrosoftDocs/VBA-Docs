@@ -1,5 +1,5 @@
 ---
-title: Report.Dirty Property (Access)
+title: Report.Dirty property (Access)
 keywords: vbaac10.chm13770
 f1_keywords:
 - vbaac10.chm13770
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Dirty Property (Access)
+# Report.Dirty property (Access)
 
 You can use the  **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Dirty`
+_expression_. `Dirty`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -27,11 +27,11 @@ Applies the filter to the current view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Highlight_|Optional|**Boolean**|If  **True**, highlights the filtered items within the list of all items. If **False**, shows only the filtered items in the view. The default is **False**.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

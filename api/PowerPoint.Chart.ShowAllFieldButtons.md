@@ -23,7 +23,7 @@ Returns or sets a value that indicates whether to display all field buttons on a
  _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,12 +27,12 @@ Moves a shape or a set of shapes up or down in the list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToReorder_|Required| **[UNKNOWN]**|The shape or shapes to reorder in the container. Can be either  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** objects.|
 | _Position_|Required| **Long**|The insertion position in the list, which is one-based.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

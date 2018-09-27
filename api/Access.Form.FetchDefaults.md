@@ -1,5 +1,5 @@
 ---
-title: Form.FetchDefaults Property (Access)
+title: Form.FetchDefaults property (Access)
 keywords: vbaac10.chm13555
 f1_keywords:
 - vbaac10.chm13555
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.FetchDefaults Property (Access)
+# Form.FetchDefaults property (Access)
 
 Returns or sets a  **Boolean** indicating whether Microsoft Access shows default values for new rows on the specified form before the row is saved. **True** if Access shows the default values for new rows on the specified form. Read/write.
 
 
 ## Syntax
 
- _expression_. `FetchDefaults`
+_expression_. `FetchDefaults`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Example

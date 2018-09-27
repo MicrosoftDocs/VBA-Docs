@@ -27,7 +27,7 @@ Sends a mail message.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _To_|Optional|**String**|The user names of the primary recipients of the message, separated by commas.|
 | _Cc_|Optional|**String**|The user names of the secondary recipients of the message, separated by commas.|
@@ -41,7 +41,7 @@ Sends a mail message.
 | _SaveCopy_|Optional|**Boolean**|**True** if a copy of the message is saved in the SentItems folder. This argument is only supported in Microsoft Project for the Macintosh version 4.0.|
 | _AddRecipient_|Optional|**Boolean**|**True** if recipients of the message are added to a personal address book. This argument is only supported in Microsoft Project for the Macintosh version 4.0.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

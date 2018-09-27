@@ -1,5 +1,5 @@
 ---
-title: Line.EventProcPrefix Property (Access)
+title: Line.EventProcPrefix property (Access)
 keywords: vbaac10.chm10326
 f1_keywords:
 - vbaac10.chm10326
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.EventProcPrefix Property (Access)
+# Line.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

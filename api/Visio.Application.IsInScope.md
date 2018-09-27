@@ -27,11 +27,11 @@ Determines whether a call to an event handler is between an  **EnterScope** even
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nCmdID_|Required| **Long**|The scope ID.|
 
-### Return Value
+### Return value
 
 Boolean
 

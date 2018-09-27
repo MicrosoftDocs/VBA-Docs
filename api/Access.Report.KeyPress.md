@@ -1,5 +1,5 @@
 ---
-title: Report.KeyPress Event (Access)
+title: Report.KeyPress event (Access)
 keywords: vbaac10.chm13895
 f1_keywords:
 - vbaac10.chm13895
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.KeyPress Event (Access)
+# Report.KeyPress event (Access)
 
 The  **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a report has the focus. This event also occurs if you send an ANSI keystroke to a report by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( ` _KeyAscii_`, )
+_expression_. `KeyPress`( ` _KeyAscii_`, )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required|**Integer**| Returns a numeric ANSI key code. The _KeyAscii_ argument is passed by reference; changing it sends a different character to the object. Setting the _KeyAscii_ argument to 0 cancels the keystroke so that the object doesn't recognize that a key was pressed.|
 

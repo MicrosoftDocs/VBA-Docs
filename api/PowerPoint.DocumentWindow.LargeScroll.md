@@ -27,7 +27,7 @@ Scrolls through the specified document window by pages.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional|**Long**|Specifies the number of pages to scroll down.|
 | _Up_|Optional|**Long**|Specifies the number of pages to scroll up.|

@@ -1,5 +1,5 @@
 ---
-title: Report.Top Property (Access)
+title: Report.Top property (Access)
 keywords: vbaac10.chm13728
 f1_keywords:
 - vbaac10.chm13728
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Top Property (Access)
+# Report.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Long**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

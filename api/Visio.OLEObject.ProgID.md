@@ -23,7 +23,7 @@ Returns the programmatic identifier of a shape that represents an ActiveX contro
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

@@ -27,7 +27,7 @@ Prints the active view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FromPage_|Optional|**Integer**|A number that specifies the first page to print. The default value is 1.|
 | _ToPage_|Optional|**Integer**|A number that specifies the last page to print. The default is the last page in the project.|
@@ -41,7 +41,7 @@ Prints the active view.
 | _Color_|Optional|**Boolean**|**True** if Project prints the active view in color. The default value is **False**.|
 | _ShowIEPrintDialog_|Optional|**Boolean**|If  **True**, shows the Internet Explorer print dialog while printing.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

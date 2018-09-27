@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (Access)
+title: Application.Run method (Access)
 keywords: vbaac10.chm12553
 f1_keywords:
 - vbaac10.chm12553
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Run Method (Access)
+# Application.Run method (Access)
 
 You can use the  **Run** method to carry out a specified Microsoft Access or user-defined **Function** or **Sub** procedure. **Variant**.
 
 
 ## Syntax
 
- _expression_. `Run`( ` _Procedure_`, ` _Arg1_`, ` _Arg2_`, ` _Arg3_`, ` _Arg4_`, ` _Arg5_`, ` _Arg6_`, ` _Arg7_`, ` _Arg8_`, ` _Arg9_`, ` _Arg10_`, ` _Arg11_`, ` _Arg12_`, ` _Arg13_`, ` _Arg14_`, ` _Arg15_`, ` _Arg16_`, ` _Arg17_`, ` _Arg18_`, ` _Arg19_`, ` _Arg20_`, ` _Arg21_`, ` _Arg22_`, ` _Arg23_`, ` _Arg24_`, ` _Arg25_`, ` _Arg26_`, ` _Arg27_`, ` _Arg28_`, ` _Arg29_`, ` _Arg30_` )
+_expression_. `Run`( ` _Procedure_`, ` _Arg1_`, ` _Arg2_`, ` _Arg3_`, ` _Arg4_`, ` _Arg5_`, ` _Arg6_`, ` _Arg7_`, ` _Arg8_`, ` _Arg9_`, ` _Arg10_`, ` _Arg11_`, ` _Arg12_`, ` _Arg13_`, ` _Arg14_`, ` _Arg15_`, ` _Arg16_`, ` _Arg17_`, ` _Arg18_`, ` _Arg19_`, ` _Arg20_`, ` _Arg21_`, ` _Arg22_`, ` _Arg23_`, ` _Arg24_`, ` _Arg25_`, ` _Arg26_`, ` _Arg27_`, ` _Arg28_`, ` _Arg29_`, ` _Arg30_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Procedure_|Required|**String**|The name of the  **Function** or **Sub** procedure to be run. If you are calling a procedure in another database use the project name and the procedure name separated by a dot in the form: " _projectname_. _procedurename_". If you execute Visual Basic code containing the  **Run** method in a library database, Microsoft Access looks for the procedure first in the library database, then in the current database.|
 | _Arg1, Arg2, ...Arg30_|Optional|**Variant**|The arguments that should be passed to the  **Function** or **Sub** specified in the _Procedure_ argument.|
 
-### Return Value
+### Return value
 
 Variant
 

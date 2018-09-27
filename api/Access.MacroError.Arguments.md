@@ -1,5 +1,5 @@
 ---
-title: MacroError.Arguments Property (Access)
+title: MacroError.Arguments property (Access)
 keywords: vbaac10.chm14048
 f1_keywords:
 - vbaac10.chm14048
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError.Arguments Property (Access)
+# MacroError.Arguments property (Access)
 
 Gets the arguments specified for the macro action that was executing when an error occurred. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Arguments`
+_expression_. `Arguments`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

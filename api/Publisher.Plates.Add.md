@@ -27,7 +27,7 @@ Adds a new color plate to the specified  **Plates** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PlateColor|Optional| **ColorFormat**| **ColorFormat** object. The color settings to apply to the new plate.|
 

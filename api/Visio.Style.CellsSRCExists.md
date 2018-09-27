@@ -27,14 +27,14 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The cell's section index.|
 | _Row_|Required| **Integer**|The cell's row index.|
 | _Column_|Required| **Integer**|The cell's column index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

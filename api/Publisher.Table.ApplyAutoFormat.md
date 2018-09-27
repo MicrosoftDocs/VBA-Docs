@@ -27,7 +27,7 @@ Applies automatic built-in table formatting to a specified table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |AutoFormat|Required| **PbTableAutoFormatType**|The type of automatic formatting to apply to the specified table.|
 |TextFormatting|Optional| **Boolean**| **True** to apply font formatting to the text in the table. Default value is **True**.|

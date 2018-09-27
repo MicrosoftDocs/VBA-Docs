@@ -24,7 +24,7 @@ Changes the rotation of the specified shape horizontally by the specified number
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required| **Single**|Specifies how much (in degrees) the rotation of the shape is to be changed horizontally. Can be a value from ?90 through 90. A positive value moves the shape left; a negative value moves it to the right.|
 

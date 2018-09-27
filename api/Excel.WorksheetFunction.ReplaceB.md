@@ -27,14 +27,14 @@ REPLACEB replaces part of a text string, based on the number of bytes you specif
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Old_text - text in which you want to replace some characters.|
 | _Arg2_|Required| **Double**|Start_num - the position of the character in old_text that you want to replace with new_text.|
 | _Arg3_|Required| **Double**|Num_chars - the number of characters in old_text that you want REPLACE to replace with new_text.|
 | _Arg4_|Required| **String**|New_text - the text that will replace characters in old_text.|
 
-### Return Value
+### Return value
 
 String
 

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.LabelY Property (Access)
+title: BoundObjectFrame.LabelY property (Access)
 keywords: vbaac10.chm10948
 f1_keywords:
 - vbaac10.chm10948
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.LabelY Property (Access)
+# BoundObjectFrame.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 
@@ -19,9 +19,9 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelY`
+_expression_. `LabelY`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

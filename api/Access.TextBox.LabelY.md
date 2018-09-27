@@ -1,5 +1,5 @@
 ---
-title: TextBox.LabelY Property (Access)
+title: TextBox.LabelY property (Access)
 keywords: vbaac10.chm11101
 f1_keywords:
 - vbaac10.chm11101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.LabelY Property (Access)
+# TextBox.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 
@@ -19,9 +19,9 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelY`
+_expression_. `LabelY`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

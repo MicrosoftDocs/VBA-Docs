@@ -27,13 +27,13 @@ Returns free/busy information for the recipient.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The start date for the returned period of free/busy information.|
 | _MinPerChar_|Required| **Long**|The number of minutes per character represented in the returned free/busy string.|
 | _CompleteFormat_|Optional| **Variant**| **True** if the returned string should contain not only free/busy information, but also values for each character according to the **[OlBusyStatus](Outlook.OlBusyStatus.md)** constants.|
 
-### Return Value
+### Return value
 
 A  **String** value that represents the free/busy information.
 

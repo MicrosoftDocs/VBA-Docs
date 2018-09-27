@@ -23,7 +23,7 @@ Determines whether connectors are deleted when a shape to which they are connect
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

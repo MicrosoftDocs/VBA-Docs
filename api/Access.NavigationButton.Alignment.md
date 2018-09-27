@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Alignment Property (Access)
+title: NavigationButton.Alignment property (Access)
 keywords: vbaac10.chm14292
 f1_keywords:
 - vbaac10.chm14292
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Alignment Property (Access)
+# NavigationButton.Alignment property (Access)
 
 Gets or sets how the specified button's caption and picture are aligned. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

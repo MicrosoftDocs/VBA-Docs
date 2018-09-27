@@ -1,5 +1,5 @@
 ---
-title: Reference.FullPath Property (Access)
+title: Reference.FullPath property (Access)
 keywords: vbaac10.chm12634
 f1_keywords:
 - vbaac10.chm12634
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Reference.FullPath Property (Access)
+# Reference.FullPath property (Access)
 
 The  **FullPath** property returns a string containing the path and file name of the referenced type library.
 
 
 ## Syntax
 
- _expression_. `FullPath`
+_expression_. `FullPath`
 
- _expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a [Reference](Access.Reference.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies the type of a shape or range of shapes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAutoShape**|1|AutoShape.|
 |**msoCallout**|2|Callout.|

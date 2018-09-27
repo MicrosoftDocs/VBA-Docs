@@ -1,5 +1,5 @@
 ---
-title: AcProperty Enumeration (Access)
+title: AcProperty enumeration (Access)
 keywords: vbaac10.chm14074
 f1_keywords:
 - vbaac10.chm14074
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcProperty Enumeration (Access)
+# AcProperty enumeration (Access)
 
 Used with the [SetProperty](Access.DoCmd.SetProperty.md) method to specify which property to set for a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPropertyBackColor**|8|Set the  **BackColor** property.|
 |**acPropertyCaption**|9|Set the  **Caption** property.|

@@ -27,11 +27,11 @@ Shows whether the specified command is enabled.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CommandName_|Required|**String**|The name of a valid command.|
 
-### Return Value
+### Return value
 
  **Long**
 

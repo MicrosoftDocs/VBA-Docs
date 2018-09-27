@@ -27,11 +27,11 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ppidisp_|Required|**Object**|Represents the identifier for a document property.|
 
-### Return Value
+### Return value
 
 [HRESULT]
 

@@ -27,7 +27,7 @@ Occurs when a reminder is dismissed using the  **Snooze** button.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|Represents the reminder to dismiss.|
 

@@ -14,7 +14,7 @@ Constants passed to the  ** [MailMerge.ExportRecipientList](Publisher.MailMerge.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbAsCsvFile**|1|Save as comma-delimited CSV file.|
 | **pbAsMdbFile**|0|Save as Microsoft Office Access MDB file.|

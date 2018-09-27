@@ -1,5 +1,5 @@
 ---
-title: Report.WindowLeft Property (Access)
+title: Report.WindowLeft property (Access)
 keywords: vbaac10.chm13807
 f1_keywords:
 - vbaac10.chm13807
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.WindowLeft Property (Access)
+# Report.WindowLeft property (Access)
 
 Returns an  **Integer** indicating the screen position in twips of the left edge of a report relative to the left edge of the Microsoft Access window. Read-only.
 
 
 ## Syntax
 
- _expression_. `WindowLeft`
+_expression_. `WindowLeft`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

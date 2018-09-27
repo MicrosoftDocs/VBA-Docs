@@ -27,7 +27,7 @@ Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that repesents the new conneciton for the PivotTable.|
 

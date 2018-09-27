@@ -14,7 +14,7 @@ Contains constants that specify the assignment of resources.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssign**|0|Assigns the specified resources to the selected tasks.|
 |**pjChange**|3|Changes the resource units for the specified resource. This constant can be used only for a single resource.|

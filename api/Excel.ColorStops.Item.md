@@ -27,11 +27,11 @@ Returns a single object from the represented collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
-### Return Value
+### Return value
 
 A  **ColorStops** object contained by the collection.
 

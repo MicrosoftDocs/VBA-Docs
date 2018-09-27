@@ -1,5 +1,5 @@
 ---
-title: Form.PictureData Property (Access)
+title: Form.PictureData property (Access)
 keywords: vbaac10.chm13474
 f1_keywords:
 - vbaac10.chm13474
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PictureData Property (Access)
+# Form.PictureData property (Access)
 
 You can use the  **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PictureData`
+_expression_. `PictureData`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Access)
+title: Hyperlink.SubAddress property (Access)
 keywords: vbaac10.chm10114
 f1_keywords:
 - vbaac10.chm10114
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.SubAddress Property (Access)
+# Hyperlink.SubAddress property (Access)
 
 You can use the  **SubAddress** property to specify or determine a location within the target document specified by the **[Address](Access.Hyperlink.Address.md)** property. Read/write **String**. .
 
 
 ## Syntax
 
- _expression_. `SubAddress`
+_expression_. `SubAddress`
 
- _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
 ## Remarks

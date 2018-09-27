@@ -14,7 +14,7 @@ Specifies what bookmarks to include when exporting a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdExportCreateHeadingBookmarks**|1|Create a bookmark in the exported document for each Microsoft Word heading, which includes only headings within the main document and text boxes not within headers, footers, endnotes, footnotes, or comments.|
 | **wdExportCreateNoBookmarks**|0|Do not create bookmarks in the exported document.|

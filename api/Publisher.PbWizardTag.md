@@ -17,7 +17,7 @@ Indicates the function of a specified shape with respect to its publication desi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbWizardTagAddress**|10|Address|
 | **pbWizardTagAddressGroup**|117|Address Group|

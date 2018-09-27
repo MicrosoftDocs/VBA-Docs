@@ -27,7 +27,7 @@ Deletes the specified shape node.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The number within the collection of shape nodes of the shape node to delete.|
 

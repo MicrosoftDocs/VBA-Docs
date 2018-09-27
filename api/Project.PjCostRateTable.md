@@ -14,7 +14,7 @@ Contains constants that specify one of the five resource cost rate tables.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCostRateTableA**|0|Cost rate table A.|
 |**pjCostRateTableB**|1|Cost rate table B.|

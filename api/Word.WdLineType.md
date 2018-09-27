@@ -14,7 +14,7 @@ Specifies whether a line is a line of text or a table row.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTableRow**|1|A table row.|
 | **wdTextLine**|0|A line of text in the body of the document.|

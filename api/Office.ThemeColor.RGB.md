@@ -20,7 +20,7 @@ Gets or sets a value of a color in the color scheme of a Microsoft Office theme.
  _expression_ An expression that returns a [ThemeColor](./Office.ThemeColor.md) object.
 
 
-### Return Value
+### Return value
 
 MsoRGBType
 

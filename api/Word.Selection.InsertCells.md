@@ -27,7 +27,7 @@ Adds cells to an existing table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShiftCells_|Optional| **WdInsertCells**|Specifies how to insert the cells into the existing columns and rows of the tabel.|
 

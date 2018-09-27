@@ -17,7 +17,7 @@ Indicates how icons are arranged in an  **[IconView](Outlook.IconView.md)** obje
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olIconAutoArrange**|2|Icons are automatically lined up and arranged to prevent gaps or overlaps, but are not sorted.|
 | **olIconDoNotArrange**|0|Icons are not automatically sorted, lined up, or arranged.|

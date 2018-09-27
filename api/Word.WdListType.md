@@ -14,7 +14,7 @@ Specifies a type of list.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdListBullet**|2|Bulleted list.|
 | **wdListListNumOnly**|1|ListNum fields that can be used in the body of a paragraph.|

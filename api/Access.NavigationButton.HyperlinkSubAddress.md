@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HyperlinkSubAddress Property (Access)
+title: NavigationButton.HyperlinkSubAddress property (Access)
 keywords: vbaac10.chm10461
 f1_keywords:
 - vbaac10.chm10461
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HyperlinkSubAddress Property (Access)
+# NavigationButton.HyperlinkSubAddress property (Access)
 
 You can use the  **HyperlinkSubAddress** property to specify or determine a location within the target document specified by the **HyperlinkAddress** property. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkSubAddress`
+_expression_. `HyperlinkSubAddress`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

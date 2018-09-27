@@ -27,12 +27,12 @@ Occurs after a PivotTable report connection has been opened.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The selected workbook.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -27,7 +27,7 @@ Occurs after a color scheme is changed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SldRange_|Required|**SlideRange**| The range of slides affected by the change.|
 

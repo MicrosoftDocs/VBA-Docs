@@ -1,5 +1,5 @@
 ---
-title: Attachment.Change Event (Access)
+title: Attachment.Change event (Access)
 keywords: vbaac10.chm14024
 f1_keywords:
 - vbaac10.chm14024
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Change Event (Access)
+# Attachment.Change event (Access)
 
 The  **Change** event occurs when the contents of the specified control change.
 
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

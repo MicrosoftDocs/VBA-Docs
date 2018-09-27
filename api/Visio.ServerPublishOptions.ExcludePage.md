@@ -27,12 +27,12 @@ Excludes the specified page from being published when the document is published 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageName_|Required| **String**|The name of the page to exclude.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Specifies whether  _PageName_ is local or universal.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

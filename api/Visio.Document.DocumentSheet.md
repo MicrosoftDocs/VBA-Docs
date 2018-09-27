@@ -23,7 +23,7 @@ Returns a  **Shape** object whose cells represent properties of the document. Re
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

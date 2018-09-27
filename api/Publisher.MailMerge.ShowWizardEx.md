@@ -27,7 +27,7 @@ Displays the specified catalog or mail merge wizard in a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShowDocumentStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Select a merge type" step. **False** removed the step.|
 |ShowTemplateStep|Optional| **Boolean**| This parameter does not apply to Microsoft Publisher.|

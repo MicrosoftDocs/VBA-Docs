@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Undo Method (Access)
+title: CheckBox.Undo method (Access)
 keywords: vbaac10.chm10684
 f1_keywords:
 - vbaac10.chm10684
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Undo Method (Access)
+# CheckBox.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

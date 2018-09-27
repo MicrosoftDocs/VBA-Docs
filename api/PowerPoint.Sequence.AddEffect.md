@@ -27,7 +27,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new anim
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required|**[Shape](PowerPoint.Shape.md)**|The shape to which the animation effect is added.|
 | _effectId_|Required|**[MsoAnimEffect](PowerPoint.MsoAnimEffect.md)**|The animation effect to be applied.|
@@ -35,7 +35,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents a new anim
 | _trigger_|Optional|**[MsoAnimTriggerType](PowerPoint.MsoAnimateByLevel.md)**|The action that triggers the animation effect. The default value is  **msoAnimTriggerOnPageClick**.|
 | _Index_|Optional|**Long**|The position at which the effect will be placed in the collection of animation effects. The default value is -1 (added to the end). |
 
-### Return Value
+### Return value
 
 Effect
 

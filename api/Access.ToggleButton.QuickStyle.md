@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.QuickStyle Property (Access)
+title: ToggleButton.QuickStyle property (Access)
 keywords: vbaac10.chm14646
 f1_keywords:
 - vbaac10.chm14646
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.QuickStyle Property (Access)
+# ToggleButton.QuickStyle property (Access)
 
 Gets or sets the Quick Style that is applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `QuickStyle`
+_expression_. `QuickStyle`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

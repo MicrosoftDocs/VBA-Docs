@@ -27,14 +27,14 @@ Adds a SET field to a mail merge main document. Returns a  **MailMergeField** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the SET field.|
 | _Name_|Required| **String**|The bookmark name that ValueText is assigned to.|
 | _ValueText_|Optional| **Variant**|The text associated with the bookmark specified by the Name argument.|
 | _ValueAutoText_|Optional| **Variant**|The AutoText entry that includes text associated with the bookmark specified by the Name argument. If this argument is specified, ValueText is ignored.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

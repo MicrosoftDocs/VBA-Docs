@@ -27,7 +27,7 @@ Inserts the specified SmartArt graphic into the active document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **[SMARTARTLAYOUT]**|A [SmartArtLayout](./Office.SmartArtLayout.md) object that specifies the layout for the SmartArt graphic.|
 | _Left_|Optional| **Variant**|The distance, in points, from the left edge of the slide to the left edge of the SmartArt graphic.|
@@ -36,7 +36,7 @@ Inserts the specified SmartArt graphic into the active document.
 | _Height_|Optional| **Variant**|The height of the SmartArt graphic.|
 | _Anchor_|Optional| **Variant**|A [Range](Word.Range.md) object that represents the text to which the SmartArt graphic is bound. If _Anchor_ is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the SmartArt graphic is positioned relative to the top and left edges of the page.|
 
-### Return Value
+### Return value
 
 [Shape](Word.Shape.md)
 

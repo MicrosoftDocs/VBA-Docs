@@ -14,7 +14,7 @@ Specifies a keyboard character. Although uppercase and lowercase characters are 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdKey0**|48|The 0 key.|
 | **wdKey1**|49|The 1 key.|

@@ -27,7 +27,7 @@ Returns the specified  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level_|Optional| **Variant**|The MDX unique name of the level or index number of the object.|
 

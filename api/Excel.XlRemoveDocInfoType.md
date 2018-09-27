@@ -14,7 +14,7 @@ Specifies the type information to be removed from the document information.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlRDIAll**|99|Removes all documentation information.|
 | **xlRDIComments**|1|Removes comments from the document information.|

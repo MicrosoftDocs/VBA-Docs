@@ -24,13 +24,13 @@ Occurs when a user selects different items in the  **Next Steps and Related Acti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
 | _ID_|Required|**Long**|The ID of the task in the  **Project Guide** you are trying to display.|
 | _IsGoalArea_|Required|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
 
-### Return Value
+### Return value
 
 nothing
 

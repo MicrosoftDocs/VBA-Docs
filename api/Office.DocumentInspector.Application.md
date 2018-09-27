@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the creator of the **DocumentIns
  _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

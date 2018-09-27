@@ -14,7 +14,7 @@ Specifies where Microsoft Word places binary operators when equations span two o
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathBreakBinAfter**|1|Places the operator before a line break, at the end of the line.|
 | **wdOMathBreakBinBefore**|0|Places the operator after a line break, at the beginning of the following line.|

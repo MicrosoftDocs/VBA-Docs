@@ -23,7 +23,7 @@ Gets the master shortcut that is displayed in a window. Read-only.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return Value
+### Return value
 
 MasterShortcut
 

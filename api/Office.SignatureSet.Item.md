@@ -27,7 +27,7 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _iSig_|Required|**Long**|Determines which  **Signature** object to return.|
 

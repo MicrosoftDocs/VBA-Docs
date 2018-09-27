@@ -17,7 +17,7 @@ Indicates the format in which the data file should be created.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olStoreANSI**|3|ANSI format personal folders file (.pst) compatible with all previous versions of Microsoft Outlook format.|
 | **olStoreDefault**|1|Default format compatible with the mailbox mode in which Outlook runs on the Microsoft Exchange Server.|

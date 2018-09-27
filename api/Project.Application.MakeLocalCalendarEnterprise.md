@@ -27,12 +27,12 @@ Converts a local calendar to an enterprise calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OldName_|Optional|**String**|Name of the local calander.|
 | _NewName_|Optional|**String**|Name of the Enterprise calander.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

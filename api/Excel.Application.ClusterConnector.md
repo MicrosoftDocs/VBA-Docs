@@ -23,7 +23,7 @@ Returns or sets the name of the High Performance Computing (HPC) Cluster Connect
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

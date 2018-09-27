@@ -14,7 +14,7 @@ Indicates the effects lighting for an object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightRigBalanced**|14|Specifies the Balanced effect.|
 |**msoLightRigBrightRoom**|27|Specifies the BrightRoom effect.|

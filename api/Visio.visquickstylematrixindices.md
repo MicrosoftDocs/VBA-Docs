@@ -15,7 +15,7 @@ Quick Style shape-style constants passed to the [Selection.SetQuickStyle](Visio.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 | **visQuickStyleMatrixNone**| **0**|No matrix theme|

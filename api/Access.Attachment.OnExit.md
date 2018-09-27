@@ -1,5 +1,5 @@
 ---
-title: Attachment.OnExit Property (Access)
+title: Attachment.OnExit property (Access)
 keywords: vbaac10.chm13940
 f1_keywords:
 - vbaac10.chm13940
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.OnExit Property (Access)
+# Attachment.OnExit property (Access)
 
 Sets or returns the value of the  **On Exit** box in the **Properties** window of the specified object. Read/write **String**. .
 
 
 ## Syntax
 
- _expression_. `OnExit`
+_expression_. `OnExit`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Exit** event occurs just before a control loses the focus to another cont
 The  **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

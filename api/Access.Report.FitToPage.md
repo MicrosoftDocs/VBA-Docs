@@ -1,5 +1,5 @@
 ---
-title: Report.FitToPage Property (Access)
+title: Report.FitToPage property (Access)
 keywords: vbaac10.chm13854
 f1_keywords:
 - vbaac10.chm13854
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FitToPage Property (Access)
+# Report.FitToPage property (Access)
 
 Gets or sets whether the width of the specified report is sized to automatically fit the page. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `FitToPage`
+_expression_. `FitToPage`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

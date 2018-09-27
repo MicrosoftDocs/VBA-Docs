@@ -14,7 +14,7 @@ Specifies the vertical alignment of equations within the shape canvas or the lin
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathVertAlignBottom**|2|Aligns the equation on the bottom of the shape canvas or line.|
 | **wdOMathVertAlignCenter**|0|Vertically centers the equation in the shape canvas or line.|

@@ -27,7 +27,7 @@ Sets the folder in which Word searches for documents. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path to the folder in which Word searches for documents.|
 

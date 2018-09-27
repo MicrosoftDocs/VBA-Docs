@@ -24,11 +24,11 @@ Returns a custom field name for the specified field constant.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**Long**|The numerical constant for the custom field. Can be one of the  **[PjField](Project.PjField.md)** constants for local custom fields or another **Long** value for enterprise custom fields.|
 
-### Return Value
+### Return value
 
  **String**
 

@@ -27,7 +27,7 @@ Occurs whenever an Microsoft Outlook item is sent, either by the user through an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item being sent.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the send action is not completed and the inspector is left open.|

@@ -17,7 +17,7 @@ Indicates the most recent tracking status change for the recipient.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olTrackingDelivered**|1|The item has been delivered to the recipient.|
 | **olTrackingNone**|0|No tracking information is available for the recipient.|

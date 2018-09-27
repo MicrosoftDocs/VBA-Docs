@@ -27,7 +27,7 @@ Requests that an OLE object perform one of its verbs.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Integer**|The verb to perform. If this argument is omitted, the default verb is performed.|
 

@@ -20,12 +20,12 @@ Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **Office.XlAxisType** constants.|
 | _AxisGroup_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
 
-### Return Value
+### Return value
 
  **Period**
 

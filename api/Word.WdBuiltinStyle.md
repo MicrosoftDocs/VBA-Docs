@@ -14,7 +14,7 @@ Specifies a built-in Microsoft Word style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStyleBlockQuotation**|-85|Block Text.|
 | **wdStyleBodyText**|-67|Body Text.|

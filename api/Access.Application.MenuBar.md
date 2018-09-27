@@ -1,5 +1,5 @@
 ---
-title: Application.MenuBar Property (Access)
+title: Application.MenuBar property (Access)
 keywords: vbaac10.chm12500
 f1_keywords:
 - vbaac10.chm12500
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MenuBar Property (Access)
+# Application.MenuBar property (Access)
 
 Specifies a custom menu to display for a Microsoft Access database. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `MenuBar`
+_expression_. `MenuBar`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

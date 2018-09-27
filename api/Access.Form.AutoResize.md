@@ -1,5 +1,5 @@
 ---
-title: Form.AutoResize Property (Access)
+title: Form.AutoResize property (Access)
 keywords: vbaac10.chm13367
 f1_keywords:
 - vbaac10.chm13367
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AutoResize Property (Access)
+# Form.AutoResize property (Access)
 
 Returns or sets a  **Boolean** indicating whether a Form window opens automatically sized to display complete records. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoResize`
+_expression_. `AutoResize`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

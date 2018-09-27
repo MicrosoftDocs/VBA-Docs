@@ -27,7 +27,7 @@ Closes a channel to another application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
 

@@ -27,7 +27,7 @@ Notifies a real-time data (RTD) server application that a topic is no longer in 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TopicID_|Required| **Long**|A unique value assigned to the topic assigned by Microsoft Excel.|
 

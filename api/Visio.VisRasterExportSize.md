@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define which raster export size to use; passed to the SetRasterExportSize method and returned by the GetRasterExportSize method.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterFitToScreenSize**|0|Use screen size.|
 | **visRasterFitToPrinterSize**|1|Use printer size.|

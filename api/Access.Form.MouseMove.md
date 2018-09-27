@@ -1,5 +1,5 @@
 ---
-title: Form.MouseMove Event (Access)
+title: Form.MouseMove event (Access)
 keywords: vbaac10.chm13653
 f1_keywords:
 - vbaac10.chm13653
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.MouseMove Event (Access)
+# Form.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**|The button that was pressed or released when the event was triggered. If you need to test for the Button argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acLeftButton</b>  The bit mask for the left mouse button.</p></li><li><p><b>acRightButton</b>  The bit mask for the right mouse button.</p></li><li><p><b>acMiddleButton</b>  The bit mask for the middle mouse button.</p></li></ul>|
 | _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys when the button specified by the Button argument was pressed or released. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.</p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.</p></li></ul>|

@@ -14,7 +14,7 @@ Contains constants that specify the intended target of the copy of a picture.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjGIF**|2|For a Graphics Interchange Format (GIF) image.|
 |**pjPrinter**|1|For a printer.|

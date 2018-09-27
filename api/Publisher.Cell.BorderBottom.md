@@ -23,7 +23,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the botto
  _expression_ A variable that represents a  **Cell** object.
 
 
-### Return Value
+### Return value
 
 CellBorder
 

@@ -17,7 +17,7 @@ Represents the type of hyperlink.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbHlinkTargetTypeEmail**|2|E-mail|
 | **pbHlinkTargetTypeFirstPage**|3|First Page|

@@ -1,5 +1,5 @@
 ---
-title: AcNavigationSpan Enumeration (Access)
+title: AcNavigationSpan enumeration (Access)
 keywords: vbaac10.chm14675
 f1_keywords:
 - vbaac10.chm14675
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcNavigationSpan Enumeration (Access)
+# AcNavigationSpan enumeration (Access)
 
 Specifies the orientation of navigation buttons.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acHorizontal**|0|The navigation buttons are displayed horizontally.|
 |**acVertical**|1|The navigation buttons are displayed vertically.|

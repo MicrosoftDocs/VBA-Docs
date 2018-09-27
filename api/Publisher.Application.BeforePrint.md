@@ -27,7 +27,7 @@ Occurs before the publication is printed or previewed. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The current publication.|
 |Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this parameter to **True**, the publication is not printed when the procedure finishes running.|

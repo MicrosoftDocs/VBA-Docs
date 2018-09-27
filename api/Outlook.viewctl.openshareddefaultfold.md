@@ -27,7 +27,7 @@ Displays a specified user's default folder in the control.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrRecipient_|Required| **String**|The owner of the folder. The string must contain a display name or alias that can be resolved to a valid recipient.|
 | _FolderType_|Required| **OlxDefaultFolders**|The type of folder. Can be one of the following  **OlxDefaultFolders** constants: **olxFolderDeletedItems**(3),  **olxFolderOutbox**(4),  **olxFolderSentMail**(5),  **olxFolderInbox**(6),  **olxFolderCalendar**(9),  **olxFolderContacts**(10),  **olxFolderJournal**(11),  **olxFolderNotes**(12),  **olxFolderTasks**(13), or  **olxFolderDrafts**(16).|

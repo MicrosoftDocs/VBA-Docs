@@ -27,11 +27,11 @@ Activates the next window in the order in which windows were opened.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NoWrap_|Optional|**Boolean**|**True** if using **WindowNext** on the last opened window doesn't wrap around to the first opened window. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

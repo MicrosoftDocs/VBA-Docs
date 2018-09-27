@@ -27,13 +27,13 @@ Drops the specified object into the specified list at the specified position. Re
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToDrop_|Required| **IUnknown**|The source of the shape to drop into the list. Can be a  **[Master](Visio.Master.md)** , **[Selection](Visio.Selection.md)** , **[Shape](Visio.Shape.md)** , or **IDataObject** object. See Remarks for more information.|
 | _TargetList_|Required| **Shape**|The list into which to drop  _ObjectToDrop_. |
 | _lPosition_|Required| **Long**|The position in the 1-based list to add the shape.|
 
-### Return Value
+### Return value
 
  **Shape**
 

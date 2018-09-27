@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Format Property (Access)
+title: ComboBox.Format property (Access)
 keywords: vbaac10.chm11375
 f1_keywords:
 - vbaac10.chm11375
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Format Property (Access)
+# ComboBox.Format property (Access)
 
 You can use the  **Format** property to customize the way numbers, dates, times, and text are displayed and printed. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

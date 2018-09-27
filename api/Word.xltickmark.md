@@ -12,7 +12,7 @@ Specifies the position of major and minor tick marks for an axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTickMarkCross**|4|Crosses the axis.|
 | **xlTickMarkInside**|2|Inside the axis.|

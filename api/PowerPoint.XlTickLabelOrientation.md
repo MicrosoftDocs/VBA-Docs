@@ -14,7 +14,7 @@ Specifies the text orientation for tick-mark labels.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlTickLabelOrientationAutomatic**|-4105|The text orientation is set by Microsoft Word.|
 |**xlTickLabelOrientationDownward**|-4170|The text runs downward.|

@@ -25,7 +25,7 @@ _expression_ Required. A variable that represents a **[DocumentProperties](Offic
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The string of the [Name](./overview/Library-Reference.md) of the property.|
 | _LinkToContent_|Required|**Boolean**|Specifies whether the [LinkToContent](./overview/Library-Reference.md) property is linked to the contents of the container document. If this argument is **True**, the _LinkSource_ argument is required; if it's **False**, the value argument is required.|

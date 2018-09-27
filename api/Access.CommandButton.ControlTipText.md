@@ -1,5 +1,5 @@
 ---
-title: CommandButton.ControlTipText Property (Access)
+title: CommandButton.ControlTipText property (Access)
 keywords: vbaac10.chm10480
 f1_keywords:
 - vbaac10.chm10480
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.ControlTipText Property (Access)
+# CommandButton.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlTipText`
+_expression_. `ControlTipText`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

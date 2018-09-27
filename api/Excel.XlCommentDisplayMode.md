@@ -14,7 +14,7 @@ Specifies the way that cells display comments and comment indicators.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCommentAndIndicator**|1|Display comment and indicator at all times.|
 | **xlCommentIndicatorOnly**|-1|Display comment indicator only. Display comment when mouse pointer is moved over cell.|

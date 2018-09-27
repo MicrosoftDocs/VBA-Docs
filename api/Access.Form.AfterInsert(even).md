@@ -1,5 +1,5 @@
 ---
-title: Form.AfterInsert Event (Access)
+title: Form.AfterInsert event (Access)
 keywords: vbaac10.chm13636
 f1_keywords:
 - vbaac10.chm13636
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterInsert Event (Access)
+# Form.AfterInsert event (Access)
 
 The  **AfterInsert** event occurs after a new record is added.
 
 
 ## Syntax
 
- _expression_. `AfterInsert`
+_expression_. `AfterInsert`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

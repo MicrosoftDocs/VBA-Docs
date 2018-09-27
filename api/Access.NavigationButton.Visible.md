@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Visible Property (Access)
+title: NavigationButton.Visible property (Access)
 keywords: vbaac10.chm10462
 f1_keywords:
 - vbaac10.chm10462
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Visible Property (Access)
+# NavigationButton.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

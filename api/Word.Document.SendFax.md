@@ -27,7 +27,7 @@ Sends the specified document as a fax, without any user interaction.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Required| **String**|The recipient's fax number.|
 | _Subject_|Optional| **Variant**|The text for the subject line. The character limit is 255.|

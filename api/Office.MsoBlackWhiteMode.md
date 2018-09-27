@@ -14,7 +14,7 @@ Specifies how a shape appears when viewed in black-and-white mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlackWhiteAutomatic**|1|Default behavior.|
 |**msoBlackWhiteBlack**|8|Black.|

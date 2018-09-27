@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.NavigationCaption Property (Access)](http://msdn.microsoft.com/library/0801ef4c-3f0c-6d45-d1f1-4ed46163586e%28Office.15%29.aspx)
+[Form.NavigationCaption property (Access)](http://msdn.microsoft.com/library/0801ef4c-3f0c-6d45-d1f1-4ed46163586e%28Office.15%29.aspx)
 

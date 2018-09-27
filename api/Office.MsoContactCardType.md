@@ -17,7 +17,7 @@ Specifies the contact card type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardTypeEnterpriseContact**|0|A contact card for an enterprise contact address.|
 |**msoContactCardTypePersonalContact**|1|A contact card for a personal contact address.|

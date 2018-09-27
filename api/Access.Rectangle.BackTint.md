@@ -1,5 +1,5 @@
 ---
-title: Rectangle.BackTint Property (Access)
+title: Rectangle.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.BackTint Property (Access)
+# Rectangle.BackTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackTint`
+_expression_. `BackTint`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Constants passed to the  **Selection.AutomaticLink** method, specifying the shap
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoLinkCustPropsLabel**|2|Field is label for shape data (custom property); field name is label and is required.|
 | ** visAutoLinkGeometryAngle**|4|Field is angle in shape geometry.|

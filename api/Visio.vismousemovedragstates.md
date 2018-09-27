@@ -15,7 +15,7 @@ Constants returned by the  **MouseEvent.DragState** property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visMouseMoveDragStatesBegin**|1|User is beginning to drag an object with the mouse.|
 | **visMouseMoveDragStatesDrop**|5|User dropped the dragged object in the drop-target window.|

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.CloseDatabase Method (Access)
+title: DoCmd.CloseDatabase method (Access)
 keywords: vbaac10.chm5621
 f1_keywords:
 - vbaac10.chm5621
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.CloseDatabase Method (Access)
+# DoCmd.CloseDatabase method (Access)
 
 Closes the current database.
 
 
 ## Syntax
 
- _expression_. `CloseDatabase`
+_expression_. `CloseDatabase`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

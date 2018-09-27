@@ -14,7 +14,7 @@ Contains constants that specify a field for timescaled data in the Project datab
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAssignmentTimescaledActualCost**|28|Represents the Actual Cost (Assignment) field. |
 |**pjAssignmentTimescaledActualOvertimeWork**|13|Represents the Actual Overtime Work (Assignment) field.|

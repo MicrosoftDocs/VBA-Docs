@@ -24,7 +24,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Attachment_|Required| **Attachment**|The  **[Attachment](Outlook.Attachment.md)** that was removed from the item.|
 

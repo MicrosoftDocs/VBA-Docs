@@ -14,7 +14,7 @@ Specifies the type of phonetic text in a cell.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlHiragana**|2|Hiragana|
 | **xlKatakana**|1|Katakana|

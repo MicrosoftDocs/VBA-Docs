@@ -14,7 +14,7 @@ Specifies the type of separator to place between items.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSeparatorColon**|2|A colon.|
 | **wdSeparatorEmDash**|3|An emphasized dash.|

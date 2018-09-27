@@ -23,7 +23,7 @@ Gets a  **FileDialogFilters** collection. Read-only.
  _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
 
 
-### Return Value
+### Return value
 
 FileDialogFilters
 

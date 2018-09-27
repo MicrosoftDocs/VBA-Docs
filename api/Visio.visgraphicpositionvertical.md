@@ -18,7 +18,7 @@ Constants passed to and returned by the  **GraphicItem.VerticalPosition** proper
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicBelow**|0|The top edge of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|
 | **visGraphicBottomEdge**|1|The horizontal centerline of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|

@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.OnMouseMove Property (Access)
+title: BoundObjectFrame.OnMouseMove property (Access)
 keywords: vbaac10.chm10971
 f1_keywords:
 - vbaac10.chm10971
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.OnMouseMove Property (Access)
+# BoundObjectFrame.OnMouseMove property (Access)
 
 Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnMouseMove`
+_expression_. `OnMouseMove`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **MouseMove** event occurs when the user moves the mouse over the object.
 The  **OnMouseMove** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Mouse Move** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

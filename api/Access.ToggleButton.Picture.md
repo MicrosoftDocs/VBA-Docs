@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Picture Property (Access)
+title: ToggleButton.Picture property (Access)
 keywords: vbaac10.chm11702
 f1_keywords:
 - vbaac10.chm11702
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Picture Property (Access)
+# ToggleButton.Picture property (Access)
 
 You can use the  **Picture** property to specify a bitmap or other type of graphic to be displayed on the specified control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

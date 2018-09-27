@@ -27,14 +27,14 @@ Returns the F probability distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Deg_freedom1 - The numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Deg_freedom2 - The denominator degrees of freedom.|
 | _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, F_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -1,5 +1,5 @@
 ---
-title: TabControl.HoverForeThemeColorIndex Property (Access)
+title: TabControl.HoverForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14616
 f1_keywords:
 - vbaac10.chm14616
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.HoverForeThemeColorIndex Property (Access)
+# TabControl.HoverForeThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **HoverForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HoverForeThemeColorIndex`
+_expression_. `HoverForeThemeColorIndex`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

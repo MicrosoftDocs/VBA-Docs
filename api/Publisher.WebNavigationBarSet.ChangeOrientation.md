@@ -27,7 +27,7 @@ Sets a  **PbNavBarOrientation** constant that represents the alignment of the na
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Orientation|Required| **PbNavBarOrientation**|
 

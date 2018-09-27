@@ -27,7 +27,7 @@ Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Across_|Optional| **Variant**| **True** to merge cells in each row of the specified range as separate merged cells. The default value is **False** .|
 

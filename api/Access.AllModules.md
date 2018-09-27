@@ -1,5 +1,5 @@
 ---
-title: AllModules Object (Access)
+title: AllModules object (Access)
 keywords: vbaac10.chm12686
 f1_keywords:
 - vbaac10.chm12686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllModules Object (Access)
+# AllModules object (Access)
 
 The  **AllModules** collection contains an **[AccessObject](Access.AccessObject.md)** of each module in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 

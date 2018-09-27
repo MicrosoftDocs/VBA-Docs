@@ -27,11 +27,11 @@ Changes the password of the  **ProtectedViewWindow** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ModifyPassword_|Optional|**String**|The new password to change to.|
 
-### Return Value
+### Return value
 
 Presentation
 

@@ -1,5 +1,5 @@
 ---
-title: CheckBox.ColumnWidth Property (Access)
+title: CheckBox.ColumnWidth property (Access)
 keywords: vbaac10.chm10722
 f1_keywords:
 - vbaac10.chm10722
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.ColumnWidth Property (Access)
+# CheckBox.ColumnWidth property (Access)
 
 You can use the  **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `ColumnWidth`
+_expression_. `ColumnWidth`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

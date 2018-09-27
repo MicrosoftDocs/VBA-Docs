@@ -24,11 +24,11 @@ Gets the ID of the page at the specified index in the collection of pages in the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageIndex|Required| **Long**|The index of the page whose ID you want to get.|
 
-### Return Value
+### Return value
 
  **Long**
 

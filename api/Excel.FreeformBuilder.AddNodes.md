@@ -27,7 +27,7 @@ Adds a point in the current shape and then draws a line from the current node to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SegmentType_|Required| **[MsoSegmentType](Office.MsoSegmentType.md)**|The type of segment to be added.|
 | _EditingType_|Required| **[MsoEditingType](Office.MsoEditingType.md)**|The editing property of the vertex.|

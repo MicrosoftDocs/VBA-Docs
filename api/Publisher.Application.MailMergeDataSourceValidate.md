@@ -27,7 +27,7 @@ Occurs when a user performs address verification by clicking  **Validate** in th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The mail merge main document.|
 |Handled|Required| **Boolean**| **True** runs the accompanying validation code against the mail merge data source. **False** cancels the data source validation.|

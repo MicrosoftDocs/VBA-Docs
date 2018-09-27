@@ -27,7 +27,7 @@ Inserts a node into a freeform shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The number of the shape node after which to insert a new node.|
 | _SegmentType_|Required| **MsoSegmentType**|The type of line that connects the inserted node to the neighboring nodes.|

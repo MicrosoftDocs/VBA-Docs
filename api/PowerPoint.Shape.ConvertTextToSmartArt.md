@@ -27,7 +27,7 @@ Converts text in a  **Shape** object to a SmartArt diagram.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**[SMARTARTLAYOUT]**|The SmartArt layout to convert text to.|
 

@@ -1,5 +1,5 @@
 ---
-title: Form.Pages Property (Access)
+title: Form.Pages property (Access)
 keywords: vbaac10.chm13411
 f1_keywords:
 - vbaac10.chm13411
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Pages Property (Access)
+# Form.Pages property (Access)
 
 You can use the  **Pages** property to return information needed to print page numbers in a form. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Pages`
+_expression_. `Pages`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

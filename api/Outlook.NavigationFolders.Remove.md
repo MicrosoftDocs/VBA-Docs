@@ -27,7 +27,7 @@ Removes an object from the collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RemovableFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The navigation folder to be removed.|
 

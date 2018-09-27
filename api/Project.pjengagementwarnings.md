@@ -15,7 +15,7 @@ Defines the different types of warnings that may appear on engagements triggerin
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjEngagementWarningDeletedEngagement**|**4**||
 |**pjEngagementWarningDeletedResource**|**8**||

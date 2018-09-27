@@ -14,7 +14,7 @@ Constants that specify the status of revision information in a presentation. In 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppRevisionInfoBaseline**|1|Information baseline.|
 |**ppRevisionInfoMerged**|2|Information merged.|

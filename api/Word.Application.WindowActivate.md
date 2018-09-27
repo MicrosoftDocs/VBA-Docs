@@ -27,7 +27,7 @@ Occurs when any document window is activated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document displayed in the activated window.|
 | _Wn_|Required| **Window**|The window that's being activated.|

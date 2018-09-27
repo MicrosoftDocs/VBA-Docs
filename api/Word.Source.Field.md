@@ -27,7 +27,7 @@ Returns a  **String** that represents the value of a field in a bibliography sou
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Specifies the name of the field for which to retrieve the value.|
 

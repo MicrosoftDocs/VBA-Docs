@@ -27,12 +27,12 @@ Returns  **True** if the specified page is designated to be included when the do
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageName_|Required| **String**|The page to check for publish status.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Specifies whether the page name is a local or a universal name.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

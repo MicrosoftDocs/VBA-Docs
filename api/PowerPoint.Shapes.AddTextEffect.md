@@ -27,7 +27,7 @@ Creates a WordArt object. Returns a  **[Shape](PowerPoint.Shape.md)** object tha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetTextEffect_|Required|**[MsoPresetTextEffect](./Office.MsoPresetTextEffect.md)**|The preset text effect.|
 | _Text_|Required|**String**|The text in the WordArt.|
@@ -38,7 +38,7 @@ Creates a WordArt object. Returns a  **[Shape](PowerPoint.Shape.md)** object tha
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the WordArt's bounding box relative to the left edge of the slide.|
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the WordArt's bounding box relative to the top edge of the slide.|
 
-### Return Value
+### Return value
 
 Shape
 

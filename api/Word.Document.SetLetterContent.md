@@ -27,7 +27,7 @@ Inserts the contents of the specified  **LetterContent** object into a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LetterContent_|Required| **[LetterContent](Word.LetterContent.md)**|The that includes the various elements of the letter.|
 

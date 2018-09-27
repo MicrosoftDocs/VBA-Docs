@@ -27,11 +27,11 @@ Creates a new inspector window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item to display in the inspector window when it is created.|
 
-### Return Value
+### Return value
 
 An  **[Inspector](Outlook.Inspector.md)** object that represents a new inspector window.
 

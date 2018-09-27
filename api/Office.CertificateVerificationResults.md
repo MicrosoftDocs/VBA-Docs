@@ -14,7 +14,7 @@ Provides the results of verifying a digital certificate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**certverresError**|0|The verification resulted in an error.|
 |**certverresExpired**|5|The certification has expired.|

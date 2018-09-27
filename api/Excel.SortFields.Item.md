@@ -27,7 +27,7 @@ Returns a  **SortField** object that represents a collection of items that can b
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the SortField.|
 

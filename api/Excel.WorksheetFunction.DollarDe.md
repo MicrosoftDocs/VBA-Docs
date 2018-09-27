@@ -27,12 +27,12 @@ Converts a dollar price expressed as a fraction into a dollar price expressed as
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Fractional_dollar - is a number expressed as a fraction.|
 | _Arg2_|Required| **Variant**|Fraction - the integer to use in the denominator of the fraction.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -1,5 +1,5 @@
 ---
-title: AcFindMatch Enumeration (Access)
+title: AcFindMatch enumeration (Access)
 keywords: vbaac10.chm10017
 f1_keywords:
 - vbaac10.chm10017
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcFindMatch Enumeration (Access)
+# AcFindMatch enumeration (Access)
 
 Specifies where the data is located in the field. 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAnywhere**|0|Search for data in any part of the field.|
 |**acEntire**|1|Search for data that fills the entire field.|

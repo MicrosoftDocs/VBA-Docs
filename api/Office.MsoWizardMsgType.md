@@ -14,7 +14,7 @@ Specifies context under which a wizard's callback procedure is called. Used as a
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoWizardMsgLocalStateOff**|2|User clicked the right button in the decision or branch balloon.|
 |**msoWizardMsgLocalStateOn**|1|Not supported.|

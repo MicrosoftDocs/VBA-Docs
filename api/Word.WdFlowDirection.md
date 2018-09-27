@@ -14,7 +14,7 @@ Specifies the direction in which text flows from one text column to the next.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFlowLtr**|0|Text in columns flows from left to right.|
 | **wdFlowRtl**|1|Text in columns flows from right to left.|

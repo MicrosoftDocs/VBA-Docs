@@ -27,11 +27,11 @@ Called by the Undo Manager to tell an undo unit to perform its action.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pMgr_|Required| **[IVBUNDOMANAGER]**|A pointer to an  **IVBUndoManager** interface.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Gets the description of the  **DocumentInspector** object. Read-only.
  _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

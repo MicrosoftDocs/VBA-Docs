@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.RightPadding Property (Access)
+title: WebBrowserControl.RightPadding property (Access)
 keywords: vbaac10.chm14392
 f1_keywords:
 - vbaac10.chm14392
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.RightPadding Property (Access)
+# WebBrowserControl.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## See also

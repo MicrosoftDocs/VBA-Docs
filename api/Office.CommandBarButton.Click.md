@@ -30,7 +30,7 @@ Occurs when the user clicks a  **CommandBarButton** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Ctrl_|Required|**CommandBarButton**|Represents a CommandBar button|
 | _CancelDefault_|Required|**Boolean**|Is  **False** if the default behavior associated with the CommandBarButton controls occurs, unless it's canceled by another process or add-in.|

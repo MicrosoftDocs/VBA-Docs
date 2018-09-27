@@ -23,7 +23,7 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
  _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

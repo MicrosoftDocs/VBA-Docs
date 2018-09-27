@@ -27,7 +27,7 @@ Specifies the starting point and label (textual description) of a group of actio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ActionName|Required| **String**|The label that corresponds to the single undo action. This label appears when you click the arrow beside the Undo button on the Standard toolbar.|
 

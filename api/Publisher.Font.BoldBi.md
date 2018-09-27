@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the font is bold;
  _expression_ A variable that represents a  **Font** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

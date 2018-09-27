@@ -27,14 +27,14 @@ Returns values along a linear trend. Fits a straight line (using the method of l
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - the set of y-values you already know in the relationship y = mx + b.|
 | _Arg2_|Optional| **Variant**|Known_x's - an optional set of x-values that you may already know in the relationship y = mx + b.|
 | _Arg3_|Optional| **Variant**|New_x's - new x-values for which you want TREND to return corresponding y-values.|
 | _Arg4_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 0.|
 
-### Return Value
+### Return value
 
 Variant
 

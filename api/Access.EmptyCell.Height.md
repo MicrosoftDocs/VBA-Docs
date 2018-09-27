@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Height Property (Access)
+title: EmptyCell.Height property (Access)
 keywords: vbaac10.chm14310
 f1_keywords:
 - vbaac10.chm14310
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Height Property (Access)
+# EmptyCell.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

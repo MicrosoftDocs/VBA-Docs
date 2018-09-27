@@ -27,12 +27,12 @@ Returns a  **CustomProperty** object that represents s custom property added to 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom smart tag property.|
 | _Value_|Required| **String**|The value of the custom smart tag property|
 
-### Return Value
+### Return value
 
 CustomProperty
 

@@ -27,7 +27,7 @@ Updates the selected tasks.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PercentComplete_|Optional|**Variant**|The percent complete of the active tasks.|
 | _ActualDuration_|Optional|**Variant**|The actual duration of the selected tasks.|
@@ -36,7 +36,7 @@ Updates the selected tasks.
 | _ActualFinish_|Optional|**Variant**|The actual finish date of the selected tasks.|
 | _Notes_|Optional|**String**|Comments in the Notes field for the selected tasks. The value can be text only, not Rich Text Format (RTF) as in the  **Notes** dialog box.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

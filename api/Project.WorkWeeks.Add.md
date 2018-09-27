@@ -24,13 +24,13 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required|**Variant**|The start date of a  **WorkWeek** object.|
 | _Finish_|Optional|**Variant**|The finish date of a  **WorkWeek** object.|
 | _Name_|Optional|**String**|The name of a  **WorkWeek** object.|
 
-### Return Value
+### Return value
 
  **WorkWeek**
 

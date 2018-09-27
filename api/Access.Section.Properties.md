@@ -1,5 +1,5 @@
 ---
-title: Section.Properties Property (Access)
+title: Section.Properties property (Access)
 keywords: vbaac10.chm12188
 f1_keywords:
 - vbaac10.chm12188
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Properties Property (Access)
+# Section.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

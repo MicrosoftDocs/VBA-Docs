@@ -23,7 +23,7 @@ Creates a duplicate of the specified  **ShapeRange** object, adds the range of s
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 ShapeRange
 

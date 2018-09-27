@@ -23,7 +23,7 @@ Unlocks the specified lock.
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

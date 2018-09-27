@@ -14,7 +14,7 @@ Contains constants that specify the type of drawing.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjArc**|6|Arc.|
 |**pjArrow**|3|Arrow.|

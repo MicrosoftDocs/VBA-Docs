@@ -22,7 +22,7 @@ Changes the case of a  **TextRange2** object to one of the values in the **MsoTe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoTextChangeCase**|Specifies the type of change to make to the text.|
 

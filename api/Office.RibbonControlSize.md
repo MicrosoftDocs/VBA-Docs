@@ -14,7 +14,7 @@ Specifies constants that define the size of the controls on the ribbon.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**RibbonControlSizeLarge**|1|Large controls.|
 |**RibbonControlSizeRegular**|0|Small controls. |

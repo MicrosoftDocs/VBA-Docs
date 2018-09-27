@@ -23,7 +23,7 @@ Returns or sets the title of the  **Table** object. Read/write.
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

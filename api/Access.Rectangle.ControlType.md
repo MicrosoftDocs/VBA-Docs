@@ -1,5 +1,5 @@
 ---
-title: Rectangle.ControlType Property (Access)
+title: Rectangle.ControlType property (Access)
 keywords: vbaac10.chm10280
 f1_keywords:
 - vbaac10.chm10280
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.ControlType Property (Access)
+# Rectangle.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ControlType`
+_expression_. `ControlType`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

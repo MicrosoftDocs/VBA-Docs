@@ -1,5 +1,5 @@
 ---
-title: Form.AllowEdits Property (Access)
+title: Form.AllowEdits property (Access)
 keywords: vbaac10.chm13356
 f1_keywords:
 - vbaac10.chm13356
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowEdits Property (Access)
+# Form.AllowEdits property (Access)
 
 You can use the  **AllowEdits** property to specify whether a user can edit saved records when using a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowEdits`
+_expression_. `AllowEdits`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

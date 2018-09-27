@@ -27,11 +27,11 @@ Converts a horizontal measurement from points to pixels. Used to return a horizo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required|**Single**|The horizontal measurement (in points) to be converted to pixels.|
 
-### Return Value
+### Return value
 
 Single
 

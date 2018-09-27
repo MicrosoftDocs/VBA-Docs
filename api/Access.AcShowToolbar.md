@@ -1,5 +1,5 @@
 ---
-title: AcShowToolbar Enumeration (Access)
+title: AcShowToolbar enumeration (Access)
 keywords: vbaac10.chm10038
 f1_keywords:
 - vbaac10.chm10038
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcShowToolbar Enumeration (Access)
+# AcShowToolbar enumeration (Access)
 
-Used with the [DoCmd.ShowToolbar Method (Access)](Access.DoCmd.ShowToolbar.md) method to specify whether to display a particular custom toolbar.
+Used with the [DoCmd.ShowToolbar method (Access)](Access.DoCmd.ShowToolbar.md) method to specify whether to display a particular custom toolbar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acToolbarNo**|2|Hide the toolbar.|
 |**acToolbarWhereApprop**|1|Display the toolbar while in the appropriate view.|

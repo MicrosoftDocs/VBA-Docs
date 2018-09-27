@@ -23,7 +23,7 @@ Determines whether the mail message associated with an inspector is displayed in
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
-### Return Value
+### Return value
 
  **True** if the mail message is displayed in Microsoft Word (that is, if Word Mail is in use); otherwise, **False** .
 

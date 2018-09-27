@@ -14,7 +14,7 @@ Specifies the color of highlighting for table cells that were added, deleted, or
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCellColorByAuthor**|-1|Highlighting color determined by reviewer.|
 | **wdCellColorLightBlue**|2|Light blue.|

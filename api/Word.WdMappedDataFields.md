@@ -14,7 +14,7 @@ Specifies a type of mapped data field.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAddress1**|10|Address 1 field.|
 | **wdAddress2**|11|Address 2 field.|

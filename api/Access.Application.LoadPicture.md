@@ -1,5 +1,5 @@
 ---
-title: Application.LoadPicture Method (Access)
+title: Application.LoadPicture method (Access)
 keywords: vbaac10.chm12555
 f1_keywords:
 - vbaac10.chm12555
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LoadPicture Method (Access)
+# Application.LoadPicture method (Access)
 
 The  **LoadPicture** method loads a graphic into an ActiveX control.
 
 
 ## Syntax
 
- _expression_. `LoadPicture`( ` _FileName_` )
+_expression_. `LoadPicture`( ` _FileName_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The file name of the graphic to be loaded. The graphic can be a bitmap file (.bmp), icon file (.ico), run-length encoded file (.rle), or metafile (.wmf).|
 
-### Return Value
+### Return value
 
 Object
 

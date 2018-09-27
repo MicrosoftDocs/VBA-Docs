@@ -27,7 +27,7 @@ Determines whether the specified bookmark exists. Returns  **True** if the bookm
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|A bookmark name than can not include more than 40 characters or more than one word.|
 

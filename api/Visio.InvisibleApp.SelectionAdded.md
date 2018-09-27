@@ -24,7 +24,7 @@ Private Sub  _expression_ _'SelectionAdded'(**_ByVal Selection As [IVSELECTION]_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that was added to the document.|
 

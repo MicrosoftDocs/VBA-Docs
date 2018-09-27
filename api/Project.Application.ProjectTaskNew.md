@@ -24,12 +24,12 @@ Occurs when a new task is created.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project where the task was created.|
 | _ID_|Required|**Long**|The ID of the task that was created.|
 
-### Return Value
+### Return value
 
 nothing
 

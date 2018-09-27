@@ -27,7 +27,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Required| **MsoCalloutType**|The type of callout line.|
 |Left|Required| **Variant**|The position of the left edge of the shape representing the line callout.|
@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 |Width|Required| **Variant**|The width of the shape representing the line callout.|
 |Height|Required| **Variant**|The height of the shape representing the line callout.|
 
-### Return Value
+### Return value
 
 Shape
 

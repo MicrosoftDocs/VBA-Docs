@@ -27,12 +27,12 @@ Displays the  **Change Working Time** dialog box, which prompts the user to mana
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**String**|The resource index number or resource name.|
 | _Locked_|Optional|**Boolean**|**False** if the user can set working time for selected dates for a resource. **True** if the fields are locked for editing. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

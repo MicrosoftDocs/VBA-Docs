@@ -24,7 +24,7 @@ _expression_ An expression that returns an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldName_|Required|**String**|Name of the field.|
 | _FilterType_|Optional|**PjAutoFilterType**|Type of filter; can be one of the **[PjAutoFilterType](Project.PjAutoFilterType.md)** constants. The default value is **pjAutoFilterClear**, which clears the AutoFilter.|

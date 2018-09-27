@@ -14,7 +14,7 @@ Specifies the type of the form control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlButtonControl**|0|Button.|
 | **xlCheckBox**|1|Check box.|

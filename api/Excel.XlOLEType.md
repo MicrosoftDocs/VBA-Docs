@@ -14,7 +14,7 @@ Specifies the OLE object type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlOLEControl**|2|ActiveX control|
 | **xlOLEEmbed**|1|Embedded OLE object|

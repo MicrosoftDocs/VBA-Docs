@@ -12,7 +12,7 @@ Constants passed to and returned by the  ** [Font.NumberStyle](Publisher.font.nu
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbNumberStyleDefault**|0|Default number style|
 | **pbNumberStyleMixed**|-1|Mixed number styles|

@@ -27,7 +27,7 @@ Returns an array of the last four ranges or names selected. Each element in the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number (from 1 to 4) of the previous range or name.|
 

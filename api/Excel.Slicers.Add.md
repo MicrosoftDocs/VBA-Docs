@@ -27,7 +27,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlicerDestination_|Required| **Variant**|A  **String** that specifies the name of the sheet, or a **Worksheet** object that represents the sheet, where the resulting slicer will be placed. The destination sheet must be in the workbook that contains the **Slicers** object specified by expression.|
 | _Level_|Optional| **Variant**|For OLAP data sources, the ordinal or the Multidimensional Expression (MDX) name of the level on which the slicer creation is based. Not supported for non-OLAP data sources. |
@@ -38,7 +38,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 | _Width_|Optional| **Variant**|The initial width, in points, of the slicer control.|
 | _Height_|Optional| **Variant**|The initial height, in points, of the slicer control.|
 
-### Return Value
+### Return value
 
 Slicer
 

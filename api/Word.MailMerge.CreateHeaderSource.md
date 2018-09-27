@@ -27,7 +27,7 @@ Creates a Microsoft Word document that stores a header record that is used inste
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The path and file name for the new header source.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the new header source.|

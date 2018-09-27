@@ -23,7 +23,7 @@ Gets or sets the height of a command bar control. Read/write.
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -27,7 +27,7 @@ Arranges text into the specified number of text columns.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumColumns_|Required| **Long**|The number of columns the text is to be arranged into.|
 

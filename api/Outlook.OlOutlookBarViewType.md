@@ -17,7 +17,7 @@ Specifies the type of view that is displayed by an  **[OutlookBarGroup](Outlook.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olLargeIcon**|0|The  **Outlook Bar** group displays large icons.|
 | **olSmallIcon**|1|The  **Outlook Bar** group displays small icons.|

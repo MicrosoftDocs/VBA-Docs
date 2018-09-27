@@ -24,7 +24,7 @@ Gets the file build identification number (ID) of the specified project. The bui
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of a project file, source file, or data source.|
 | _UserID_|Optional|**String**|A user ID to use when accessing a database. If  _Name_ isn't a database, _UserID_ is ignored.|

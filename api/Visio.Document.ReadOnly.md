@@ -23,7 +23,7 @@ Indicates whether a file is open as read-only. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

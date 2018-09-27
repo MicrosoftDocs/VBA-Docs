@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 WorkFlowTasks
 

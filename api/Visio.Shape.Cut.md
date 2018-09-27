@@ -27,11 +27,11 @@ Deletes an object or selection and places it on the Clipboard.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the cut operation.|
 
-### Return Value
+### Return value
 
 Nothing
 

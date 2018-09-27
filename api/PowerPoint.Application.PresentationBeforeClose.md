@@ -27,12 +27,12 @@ Represents a  **Presentation** object before it closes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The  **Presentation** object.|
 | _Cancel_|Required|**Boolean**|If set to  **True**, the presentation will not close.|
 
-### Return Value
+### Return value
 
 Nothing
 

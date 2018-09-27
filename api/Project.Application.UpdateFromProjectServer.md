@@ -27,7 +27,7 @@ Updates a project from Project Server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataFile_|Required|**String**|The data file to update from Project Server.|
 

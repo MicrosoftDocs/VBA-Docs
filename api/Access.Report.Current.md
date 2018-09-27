@@ -1,5 +1,5 @@
 ---
-title: Report.Current Event (Access)
+title: Report.Current event (Access)
 keywords: vbaac10.chm13883
 f1_keywords:
 - vbaac10.chm13883
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Current Event (Access)
+# Report.Current event (Access)
 
 Occurs when the focus moves to a record, making it the current record, or when the report is refreshed or requeried.
 
 
 ## Syntax
 
- _expression_. `Current`
+_expression_. `Current`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

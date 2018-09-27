@@ -14,7 +14,7 @@ Specifies the language to use to determine which line break level is used when t
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**MsoFarEastLineBreakLanguageJapanese**|1041|Japanese|
 |**MsoFarEastLineBreakLanguageKorean**|1042|Korean|

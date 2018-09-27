@@ -14,7 +14,7 @@ Contains constants that specify a field attribute.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjFieldAttributeFormula**|1|Foumula.|
 |**pjFieldAttributeNone**|0|None.|

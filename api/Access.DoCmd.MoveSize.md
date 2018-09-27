@@ -1,5 +1,5 @@
 ---
-title: DoCmd.MoveSize Method (Access)
+title: DoCmd.MoveSize method (Access)
 keywords: vbaac10.chm4158
 f1_keywords:
 - vbaac10.chm4158
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.MoveSize Method (Access)
+# DoCmd.MoveSize method (Access)
 
 The  **MoveSize** method carries out the MoveSize action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `MoveSize`( ` _Right_`, ` _Down_`, ` _Width_`, ` _Height_` )
+_expression_. `MoveSize`( ` _Right_`, ` _Down_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Right_|Optional|**Variant**|The new horizontal position of the window's upper-left corner, measured from the left edge of its containing window.|
 | _Down_|Optional|**Variant**|The new vertical position of the window's upper-left corner, measured from the top edge of its containing window.|

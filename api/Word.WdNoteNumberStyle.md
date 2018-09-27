@@ -14,7 +14,7 @@ Specifies the number style to apply to endnotes, endnote options, footnotes, or 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNoteNumberStyleArabic**|0|Arabic number style.|
 | **wdNoteNumberStyleArabicFullWidth**|14|Arabic full-width number style.|

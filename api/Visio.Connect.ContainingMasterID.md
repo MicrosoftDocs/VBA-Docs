@@ -23,7 +23,7 @@ Returns the ID of the  **Master** object that contains an object. Read-only.
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

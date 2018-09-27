@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnChange Property (Access)
+title: ComboBox.OnChange property (Access)
 keywords: vbaac10.chm11449
 f1_keywords:
 - vbaac10.chm11449
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnChange Property (Access)
+# ComboBox.OnChange property (Access)
 
 Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the Applies To list. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnChange`
+_expression_. `OnChange`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Change** event occurs when the contents of a text box or the text portion
 The  **OnChange** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Change** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

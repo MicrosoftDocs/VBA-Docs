@@ -27,13 +27,13 @@ Creates an instance of a custom task pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CTPAxID_|Required|**String**|The CLSID or ProgID of a Microsoft ActiveX® object. |
 | _CTPTitle_|Required|**String**|The title for the task pane.|
 | _CTPParentWindow_|Optional|**Variant**|The window that hosts the task pane. If not present, the parent of the task pane is the ActiveWindow of the host application.|
 
-### Return Value
+### Return value
 
 CustomTaskPane
 

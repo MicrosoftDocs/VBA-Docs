@@ -17,7 +17,7 @@ Specifies whether animation behaviors accumulate.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimAccumulateAlways**|2|Accumulates with other animation behaviors.|
 |**msoAnimAccumulateNone**|1|Does not accumulate.|

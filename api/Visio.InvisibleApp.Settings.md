@@ -23,7 +23,7 @@ Returns an  **ApplicationSettings** object, which you can use to set Microsoft V
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 ApplicationSettings
 

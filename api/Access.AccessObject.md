@@ -1,5 +1,5 @@
 ---
-title: AccessObject Object (Access)
+title: AccessObject object (Access)
 keywords: vbaac10.chm12743
 f1_keywords:
 - vbaac10.chm12743
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject Object (Access)
+# AccessObject object (Access)
 
 An  **AccessObject** object refers to a particular Access object.
 

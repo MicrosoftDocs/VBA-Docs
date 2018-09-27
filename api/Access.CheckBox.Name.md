@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Name Property (Access)
+title: CheckBox.Name property (Access)
 keywords: vbaac10.chm10750
 f1_keywords:
 - vbaac10.chm10750
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Name Property (Access)
+# CheckBox.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

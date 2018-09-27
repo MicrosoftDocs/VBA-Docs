@@ -14,7 +14,7 @@ Specifies the OLE client and OLE server roles in which a command bar control is 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoControlOLEUsageBoth**|3|Control runs on both client and server.|
 |**msoControlOLEUsageClient**|2|Client-only control.|

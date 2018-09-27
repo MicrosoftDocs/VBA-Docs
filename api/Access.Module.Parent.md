@@ -1,5 +1,5 @@
 ---
-title: Module.Parent Property (Access)
+title: Module.Parent property (Access)
 keywords: vbaac10.chm12270
 f1_keywords:
 - vbaac10.chm12270
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Parent Property (Access)
+# Module.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ## See also

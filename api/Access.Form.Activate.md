@@ -1,5 +1,5 @@
 ---
-title: Form.Activate Event (Access)
+title: Form.Activate event (Access)
 keywords: vbaac10.chm13646
 f1_keywords:
 - vbaac10.chm13646
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Activate Event (Access)
+# Form.Activate event (Access)
 
 The Activate event occurs when a form receives the focus and becomes the active window.
 
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

@@ -14,7 +14,7 @@ Specifies the scale type of the value axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlScaleLinear**|-4132|Linear|
 | **xlScaleLogarithmic**|-4133|Logarithmic|

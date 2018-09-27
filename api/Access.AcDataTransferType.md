@@ -1,5 +1,5 @@
 ---
-title: AcDataTransferType Enumeration (Access)
+title: AcDataTransferType enumeration (Access)
 keywords: vbaac10.chm10013
 f1_keywords:
 - vbaac10.chm10013
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcDataTransferType Enumeration (Access)
+# AcDataTransferType enumeration (Access)
 
 Specifies the type of transfer that you want to make with the  **TransferDatabase** or **TransferSpreadsheet** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExport**|1|The data is exported.|
 |**acImport**|0|(Default) The data is imported.|

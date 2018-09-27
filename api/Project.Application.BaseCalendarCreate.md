@@ -27,12 +27,12 @@ Creates a base calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the base calendar to create.|
 | _FromName_|Optional|**String**|The name of the base calendar to copy.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

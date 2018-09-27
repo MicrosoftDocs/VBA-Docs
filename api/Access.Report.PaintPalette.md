@@ -1,5 +1,5 @@
 ---
-title: Report.PaintPalette Property (Access)
+title: Report.PaintPalette property (Access)
 keywords: vbaac10.chm13761
 f1_keywords:
 - vbaac10.chm13761
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PaintPalette Property (Access)
+# Report.PaintPalette property (Access)
 
 You can use the  **PaintPalette** property to specify a palette to be used by a report. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PaintPalette`
+_expression_. `PaintPalette`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

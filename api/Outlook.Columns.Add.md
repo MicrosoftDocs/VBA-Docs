@@ -27,11 +27,11 @@ Adds the  **[Column](Outlook.Column.md)** specified by _Name_ to the **[Columns]
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property that is being added as a column.|
 
-### Return Value
+### Return value
 
 A  **Column** object that represents the new column.
 

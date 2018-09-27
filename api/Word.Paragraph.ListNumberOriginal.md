@@ -27,7 +27,7 @@ Returns an  **Integer** that represents the original list level for a paragraph.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level_|Required| **Integer**|Specifies the list level.|
 

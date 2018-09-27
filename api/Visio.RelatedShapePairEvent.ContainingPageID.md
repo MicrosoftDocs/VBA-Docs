@@ -23,7 +23,7 @@ Returns the identifier of the  **[Page](Visio.Page.md)** object that is associat
  _expression_ A variable that represents a [RelatedShapePairEvent](./Visio.RelatedShapePairEvent.md) object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

@@ -1,5 +1,5 @@
 ---
-title: Attachment.KeyDown Event (Access)
+title: Attachment.KeyDown event (Access)
 keywords: vbaac10.chm14032
 f1_keywords:
 - vbaac10.chm14032
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.KeyDown Event (Access)
+# Attachment.KeyDown event (Access)
 
 The **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `KeyDown`( ` _KeyCode_`, ` _Shift_` )
+_expression_. `KeyDown`( ` _KeyCode_`, ` _Shift_` )
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
 | _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:

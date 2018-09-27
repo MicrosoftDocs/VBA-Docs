@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenReport Method (Access)
+title: DoCmd.OpenReport method (Access)
 keywords: vbaac10.chm4163
 f1_keywords:
 - vbaac10.chm4163
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenReport Method (Access)
+# DoCmd.OpenReport method (Access)
 
 The  **OpenReport** method carries out the OpenReport action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `OpenReport`( ` _ReportName_`, ` _View_`, ` _FilterName_`, ` _WhereCondition_`, ` _WindowMode_`, ` _OpenArgs_` )
+_expression_. `OpenReport`( ` _ReportName_`, ` _View_`, ` _FilterName_`, ` _WhereCondition_`, ` _WindowMode_`, ` _OpenArgs_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**Variant**|A string expression that's the valid name of a report in the current database. If you execute Visual Basic code containing the  **OpenReport** method in a library database, Microsoft Access looks for the report with this name, first in the library database, then in the current database.|
 | _View_|Optional|**AcView**|A  **[AcView](Access.AcView.md)** constant that specifies the view in which the report will open. The default value is **acViewNormal**.|

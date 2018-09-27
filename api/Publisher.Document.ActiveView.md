@@ -23,7 +23,7 @@ Returns a  **[View](Publisher.View.md)** object representing the view attributes
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 View
 

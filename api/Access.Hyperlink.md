@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Access)
+title: Hyperlink object (Access)
 keywords: vbaac10.chm10123
 f1_keywords:
 - vbaac10.chm10123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink Object (Access)
+# Hyperlink object (Access)
 
 The  **Hyperlink** object represents a hyperlink associated with a control on a form, report, or data access page.
 

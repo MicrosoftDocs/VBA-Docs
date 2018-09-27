@@ -23,7 +23,7 @@ Displays the  **Open** dialog box.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

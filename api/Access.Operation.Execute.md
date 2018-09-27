@@ -1,5 +1,5 @@
 ---
-title: Operation.Execute Method (Access)
+title: Operation.Execute method (Access)
 keywords: vbaac10.chm14585
 f1_keywords:
 - vbaac10.chm14585
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Operation.Execute Method (Access)
+# Operation.Execute method (Access)
 
 Executes the specified operation.
 
 
 ## Syntax
 
- _expression_. `Execute`( ` _bstrParameters_` )
+_expression_. `Execute`( ` _bstrParameters_` )
 
- _expression_ A variable that represents an [Operation](Access.Operation.md) object.
+_expression_ A variable that represents an [Operation](Access.Operation.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrParameters_|Optional|**String**|Specifies values for the parameters of the operation.|
 
-### Return Value
+### Return value
 
 Variant
 

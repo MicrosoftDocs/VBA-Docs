@@ -27,7 +27,7 @@ Returns a  **CellRange** object that represents a range of cells in a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |StartRow|Optional| **Long**|The row in which the starting cell exists. If this argument is omitted, all the table rows are included in the range.|
 |StartColumn|Optional| **Long**|The column in which the starting cell exists. If this argument is omitted, all the table columns are included in the range.|

@@ -27,11 +27,11 @@ Adds a vertical page break.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Required| **Object**|A  **[Range](Excel.Range(object).md)** object. The range to the left of which the new page break will be added.|
 
-### Return Value
+### Return value
 
 A  **[VPageBreak](Excel.VPageBreak.md)** object that represents the new vertical page break.
 

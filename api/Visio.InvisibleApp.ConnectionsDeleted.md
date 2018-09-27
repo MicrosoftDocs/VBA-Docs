@@ -24,7 +24,7 @@ Private Sub  _expression_ _'ConnectionsDeleted'(**_ByVal Connects As [IVCONNECTS
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Connects_|Required| **[IVCONNECTS]**|The connections that have been removed.|
 

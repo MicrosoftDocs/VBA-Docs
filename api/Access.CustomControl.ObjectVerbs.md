@@ -1,5 +1,5 @@
 ---
-title: CustomControl.ObjectVerbs Property (Access)
+title: CustomControl.ObjectVerbs property (Access)
 keywords: vbaac10.chm11999
 f1_keywords:
 - vbaac10.chm11999
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.ObjectVerbs Property (Access)
+# CustomControl.ObjectVerbs property (Access)
 
 You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `ObjectVerbs`( ` _Index_` )
+_expression_. `ObjectVerbs`( ` _Index_` )
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|An element in the array of supported verbs. This is a zero-based index, meaning zero (0) represents the first verb in the array, one (1) represents the second verb in the array, and so on.|
 

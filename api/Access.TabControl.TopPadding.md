@@ -1,5 +1,5 @@
 ---
-title: TabControl.TopPadding Property (Access)
+title: TabControl.TopPadding property (Access)
 keywords: vbaac10.chm14537
 f1_keywords:
 - vbaac10.chm14537
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.TopPadding Property (Access)
+# TabControl.TopPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its top gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `TopPadding`
+_expression_. `TopPadding`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## See also

@@ -24,7 +24,7 @@ Gets a single  **Table** object from the **Tables** collection. Read-only **Tabl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the object to return.|
 

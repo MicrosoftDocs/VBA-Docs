@@ -14,7 +14,7 @@ Specifies the style for a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineSingle**|1|Single line.|
 |**msoLineStyleMixed**|-2|Not supported.|

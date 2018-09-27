@@ -23,7 +23,7 @@ Returns the object that contains the specified embedded presentation. Read-only.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

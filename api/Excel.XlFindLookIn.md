@@ -14,7 +14,7 @@ Specifies the type of data to search.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlComments**|-4144|Comments.|
 | **xlFormulas**|-4123|Formulas.|

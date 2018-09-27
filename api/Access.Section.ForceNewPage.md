@@ -1,5 +1,5 @@
 ---
-title: Section.ForceNewPage Property (Access)
+title: Section.ForceNewPage property (Access)
 keywords: vbaac10.chm12192
 f1_keywords:
 - vbaac10.chm12192
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.ForceNewPage Property (Access)
+# Section.ForceNewPage property (Access)
 
 You can use the  **ForceNewPage** property to specify whether form sections detail, footer) or report sections (header, detail, footer) print on a separate page, rather than on the current page. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ForceNewPage`
+_expression_. `ForceNewPage`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

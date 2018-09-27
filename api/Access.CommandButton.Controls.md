@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Controls Property (Access)
+title: CommandButton.Controls property (Access)
 keywords: vbaac10.chm10445
 f1_keywords:
 - vbaac10.chm10445
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Controls Property (Access)
+# CommandButton.Controls property (Access)
 
 Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
 
- _expression_. `Controls`
+_expression_. `Controls`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

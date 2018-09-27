@@ -27,14 +27,14 @@ Returns the probability that values in a range are between two limits. If upper_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|X_range - the range of numeric values of x with which there are associated probabilities.|
 | _Arg2_|Required| **Variant**|Prob_range - a set of probabilities associated with values in x_range.|
 | _Arg3_|Required| **Double**|Lower_limit - the lower bound on the value for which you want a probability.|
 | _Arg4_|Optional| **Variant**|Upper_limit - the optional upper bound on the value for which you want a probability.|
 
-### Return Value
+### Return value
 
 Double
 

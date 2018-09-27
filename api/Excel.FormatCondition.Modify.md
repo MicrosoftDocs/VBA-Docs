@@ -27,7 +27,7 @@ Modifies an existing conditional format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
 | _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression** .|

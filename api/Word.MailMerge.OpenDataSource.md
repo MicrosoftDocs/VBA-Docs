@@ -27,7 +27,7 @@ Attaches a data source to the specified document, which becomes a main document 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The data source file name. You can specify a Microsoft Query (.qry) file instead of specifying a data source, a connection string, and a query string.|
 | _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the  **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with the **FileConverter** object to determine the value to use with this argument.|

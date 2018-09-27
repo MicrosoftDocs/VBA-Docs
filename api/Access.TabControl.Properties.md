@@ -1,5 +1,5 @@
 ---
-title: TabControl.Properties Property (Access)
+title: TabControl.Properties property (Access)
 keywords: vbaac10.chm12068
 f1_keywords:
 - vbaac10.chm12068
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Properties Property (Access)
+# TabControl.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

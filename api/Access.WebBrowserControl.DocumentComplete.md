@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.DocumentComplete Event (Access)
+title: WebBrowserControl.DocumentComplete event (Access)
 keywords: vbaac10.chm143141
 f1_keywords:
 - vbaac10.chm143141
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.DocumentComplete Event (Access)
+# WebBrowserControl.DocumentComplete event (Access)
 
 Occurs when a document is completely loaded and initialized.
 
 
 ## Syntax
 
- _expression_. `DocumentComplete`( ` _pDisp_`, ` _URL_` )
+_expression_. `DocumentComplete`( ` _pDisp_`, ` _URL_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pDisp_|Required|**Object**| pointer to the **IDispatch** interface of the window or frame in which the document is loaded.|
 | _URL_|Required|**Variant**|Contains the URL of the loaded document.|
 
-### Return Value
+### Return value
 
 nothing
 

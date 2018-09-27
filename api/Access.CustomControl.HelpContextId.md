@@ -1,5 +1,5 @@
 ---
-title: CustomControl.HelpContextId Property (Access)
+title: CustomControl.HelpContextId property (Access)
 keywords: vbaac10.chm12031
 f1_keywords:
 - vbaac10.chm12031
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.HelpContextId Property (Access)
+# CustomControl.HelpContextId property (Access)
 
 The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_. `HelpContextId`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

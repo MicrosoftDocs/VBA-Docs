@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.DblClick Event (Access)
+title: NavigationButton.DblClick event (Access)
 keywords: vbaac10.chm14082
 f1_keywords:
 - vbaac10.chm14082
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.DblClick Event (Access)
+# NavigationButton.DblClick event (Access)
 
 The  **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 
 
 ## Syntax
 
- _expression_. `DblClick`( ` _Cancel_`, )
+_expression_. `DblClick`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

@@ -19,7 +19,7 @@ Identifies the source object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSourceAutoFilter**|3|An AutoFilter range|
 | **xlSourceChart**|5|A chart|

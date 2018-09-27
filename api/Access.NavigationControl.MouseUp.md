@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.MouseUp Event (Access)
+title: NavigationControl.MouseUp event (Access)
 keywords: vbaac10.chm14205
 f1_keywords:
 - vbaac10.chm14205
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.MouseUp Event (Access)
+# NavigationControl.MouseUp event (Access)
 
 The  **MouseUp** event occurs when the user releases a mouse button.
 
 
 ## Syntax
 
- _expression_. `MouseUp`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseUp`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
 
-### Return Value
+### Return value
 
 nothing
 

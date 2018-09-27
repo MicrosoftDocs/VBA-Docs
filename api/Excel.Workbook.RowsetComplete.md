@@ -27,7 +27,7 @@ The event is raised when the user either drills through the recordset or invokes
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Description_|Required| **String**|A brief description of the event.|
 | _Sheet_|Required| **String**|Worksheet on which the recordset is created.|

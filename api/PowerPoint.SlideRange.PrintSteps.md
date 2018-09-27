@@ -23,7 +23,7 @@ Returns the number of slides you'd need to print to simulate the builds on the s
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

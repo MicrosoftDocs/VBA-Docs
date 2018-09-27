@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.NavigationButtons Property (Access)](http://msdn.microsoft.com/library/23af1adc-67e9-b39d-772b-ddecf159f861%28Office.15%29.aspx)
+[Form.NavigationButtons property (Access)](http://msdn.microsoft.com/library/23af1adc-67e9-b39d-772b-ddecf159f861%28Office.15%29.aspx)
 

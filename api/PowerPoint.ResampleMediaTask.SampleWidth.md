@@ -23,7 +23,7 @@ Returns the resolution width of the sample. Read-only.
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

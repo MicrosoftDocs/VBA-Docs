@@ -27,7 +27,7 @@ Gets a value that indicates the file format for the specified project. Possible 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|Name of the project file.|
 | _UserID_|Optional|**Variant**|User name or identification number for project files stored in an ODBC database.|

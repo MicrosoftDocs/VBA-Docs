@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Left Property (Access)
+title: NavigationControl.Left property (Access)
 keywords: vbaac10.chm11071
 f1_keywords:
 - vbaac10.chm11071
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Left Property (Access)
+# NavigationControl.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Constants that specify the type of the slideshow range, passed to and returned b
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppShowAll**|1|Show all.|
 |**ppShowNamedSlideShow**|3|Show named slideshow.|

@@ -1,5 +1,5 @@
 ---
-title: Form.SelLeft Property (Access)
+title: Form.SelLeft property (Access)
 keywords: vbaac10.chm13469
 f1_keywords:
 - vbaac10.chm13469
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelLeft Property (Access)
+# Form.SelLeft property (Access)
 
 You can use the  **SelLeft** property to specify or determine which column (field) is leftmost in the current selection rectangle. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `SelLeft`
+_expression_. `SelLeft`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

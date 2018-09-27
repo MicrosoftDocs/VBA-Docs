@@ -23,7 +23,7 @@ Indicates whether an object is capable of containing persistent events in its  *
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

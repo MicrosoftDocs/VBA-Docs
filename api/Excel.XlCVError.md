@@ -14,7 +14,7 @@ Specifies the cell error number and value.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlErrDiv0**|2007|Error number: 2007|
 | **xlErrNA**|2042|Error number: 2042|

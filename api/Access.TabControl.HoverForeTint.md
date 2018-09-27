@@ -1,5 +1,5 @@
 ---
-title: TabControl.HoverForeTint Property (Access)
+title: TabControl.HoverForeTint property (Access)
 keywords: vbaac10.chm14617
 f1_keywords:
 - vbaac10.chm14617
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.HoverForeTint Property (Access)
+# TabControl.HoverForeTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **HoverForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverForeTint`
+_expression_. `HoverForeTint`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

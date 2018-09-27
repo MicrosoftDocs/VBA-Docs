@@ -1,5 +1,5 @@
 ---
-title: Application.References Property (Access)
+title: Application.References property (Access)
 keywords: vbaac10.chm12564
 f1_keywords:
 - vbaac10.chm12564
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.References Property (Access)
+# Application.References property (Access)
 
 You can use the  **References** property to access the **[References](Access.References.md)** collection and its related properties, methods, and events. Read-only **References** collection.
 
 
 ## Syntax
 
- _expression_. `References`
+_expression_. `References`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

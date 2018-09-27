@@ -1,5 +1,5 @@
 ---
-title: Printer.DriverName Property (Access)
+title: Printer.DriverName property (Access)
 keywords: vbaac10.chm12860
 f1_keywords:
 - vbaac10.chm12860
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.DriverName Property (Access)
+# Printer.DriverName property (Access)
 
 Returns a  **String** indicating the name of the driver used by the specified printer. Read-only.
 
 
 ## Syntax
 
- _expression_. `DriverName`
+_expression_. `DriverName`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

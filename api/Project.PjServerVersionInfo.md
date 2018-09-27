@@ -14,7 +14,7 @@ Contains constants that specify how to format data from Project Server versions.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjServerVersionInfo_Unknown**|-2|The Project Server version is unknown.|
 |**pjServerVersionInfo_Error**|-1|Format error information.|

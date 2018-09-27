@@ -27,13 +27,13 @@ Creates a new PivotCache.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Required| **XlPivotTableSourceType**| _SourceType_ can be one of these **xlPivotTableSourceType** constants: **xlConsolidation** , **xlDatabase** , or **xlExternal** .|
 | _SourceData_|Optional| **Variant**|The data for the new PivotTable cache.|
 | _Version_|Optional| **Variant**|Version of the PivotTable. The version can be one of the [xlPivotTableVersionList](Excel.XlPivotTableVersionList.md) constants.|
 
-### Return Value
+### Return value
 
 PivotCache
 

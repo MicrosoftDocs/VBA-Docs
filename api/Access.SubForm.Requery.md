@@ -1,5 +1,5 @@
 ---
-title: SubForm.Requery Method (Access)
+title: SubForm.Requery method (Access)
 keywords: vbaac10.chm11921
 f1_keywords:
 - vbaac10.chm11921
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Requery Method (Access)
+# SubForm.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified subform by requerying the source of data for the subform.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

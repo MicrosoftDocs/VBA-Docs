@@ -24,11 +24,11 @@ Replaces the text range with the contents of the Clipboard in the format specifi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Required|**MsoClipboardFormat**|Determines the format for the Clipboard contents when they're inserted into the document.|
 
-### Return Value
+### Return value
 
 TextRange2
 

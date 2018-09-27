@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentLib
  _expression_ A variable that represents a [DocumentLibraryVersions](./Office.DocumentLibraryVersions.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

@@ -27,11 +27,11 @@ Returns a  **BuildingBlockType** object that represents the specified item in th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBuildingBlockTypes**|Specifies the building block type of the item in the collection.|
 
-### Return Value
+### Return value
 
 BuildingBlockType
 

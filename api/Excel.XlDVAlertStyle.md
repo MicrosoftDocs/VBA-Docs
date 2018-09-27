@@ -14,7 +14,7 @@ Specifies the icon used in message boxes displayed during validation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlValidAlertInformation**|3|Information icon.|
 | **xlValidAlertStop**|1|Stop icon.|

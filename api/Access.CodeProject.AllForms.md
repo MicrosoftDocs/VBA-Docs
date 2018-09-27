@@ -1,5 +1,5 @@
 ---
-title: CodeProject.AllForms Property (Access)
+title: CodeProject.AllForms property (Access)
 keywords: vbaac10.chm12707
 f1_keywords:
 - vbaac10.chm12707
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.AllForms Property (Access)
+# CodeProject.AllForms property (Access)
 
 You can use the  **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
 
 
 ## Syntax
 
- _expression_. `AllForms`
+_expression_. `AllForms`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

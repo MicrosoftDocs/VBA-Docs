@@ -1,5 +1,5 @@
 ---
-title: Form.OnUndo Property (Access)
+title: Form.OnUndo property (Access)
 keywords: vbaac10.chm13519
 f1_keywords:
 - vbaac10.chm13519
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnUndo Property (Access)
+# Form.OnUndo property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **Undo** event occurs. Read/write..
 
 
 ## Syntax
 
- _expression_. `OnUndo`
+_expression_. `OnUndo`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

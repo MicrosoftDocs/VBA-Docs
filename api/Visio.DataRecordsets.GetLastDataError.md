@@ -30,13 +30,13 @@ Gets the Active X Data Objects (ADO) error code, ADO description, and data recor
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataErrorCode_|Required| **Long**|Out parameter. The ADO error code of the last error.|
 | _DataErrorDescription_|Required| **String**|Out parameter. The ADO description of the last error.|
 | _RecordsetID_|Required| **Long**|Out parameter. The ID of the data recordset that generated or triggered the error.|
 
-### Return Value
+### Return value
 
 Nothing
 

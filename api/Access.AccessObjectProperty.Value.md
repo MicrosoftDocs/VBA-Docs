@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperty.Value Property (Access)
+title: AccessObjectProperty.Value property (Access)
 keywords: vbaac10.chm12696
 f1_keywords:
 - vbaac10.chm12696
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperty.Value Property (Access)
+# AccessObjectProperty.Value property (Access)
 
 Determines or specifies the value of a built-in property of an  **[AccessObject](Access.AccessObject.md)** object. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [AccessObjectProperty](Access.AccessObjectProperty.md) object.
+_expression_ A variable that represents an [AccessObjectProperty](Access.AccessObjectProperty.md) object.
 
 
 ## Remarks

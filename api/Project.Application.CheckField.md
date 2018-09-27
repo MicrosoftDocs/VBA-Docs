@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The name of the field to search.|
 | _Value_|Required|**String**|The value to compare with the value of the field specified with **Field**.|

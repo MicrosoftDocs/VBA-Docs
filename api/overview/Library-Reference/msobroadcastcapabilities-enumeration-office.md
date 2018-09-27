@@ -15,7 +15,7 @@ Specifies the application capabilities available for a document or presentation 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**BroadcastCapFileSizeLimited**|**1**|The size of the file being broadcasted is limited.|
 |**BroadcastCapSupportsMeetingNotes**|**2**|The presenters and attendees can take shared notes.|

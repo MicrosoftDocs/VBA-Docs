@@ -23,7 +23,7 @@ Gets the name of the user who last saved the specified version of the shared doc
  _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

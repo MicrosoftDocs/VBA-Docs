@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HoverShade Property (Access)
+title: NavigationButton.HoverShade property (Access)
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HoverShade Property (Access)
+# NavigationButton.HoverShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **HoverColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverShade`
+_expression_. `HoverShade`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

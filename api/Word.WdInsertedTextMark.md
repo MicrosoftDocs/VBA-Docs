@@ -14,7 +14,7 @@ Specifies the formatting of text that is inserted while change tracking is enabl
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdInsertedTextMarkBold**|1|Inserted text is displayed in bold.|
 | **wdInsertedTextMarkColorOnly**|5|Inserted text is displayed in a specified color.|

@@ -27,7 +27,7 @@ Deletes a project stored in a database.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the source file or data source to open, and the name of the project to delete from the database.|
 | _UserID_|Optional|**String**| A user ID to use when accessing the database.|
@@ -41,7 +41,7 @@ Deletes a project stored in a database.
 |"MSProject.mdb"|Microsoft Access database|
 |
 
-### Return Value
+### Return value
 
  **Boolean**
 

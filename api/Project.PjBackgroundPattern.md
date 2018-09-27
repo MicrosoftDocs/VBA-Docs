@@ -14,7 +14,7 @@ Contains constants that specify the background pattern.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBackgroundDarkDiagonalLeft**|7|Dark diagonal left.|
 |**pjBackgroundDarkDiagonalRight**|8|Dark diagonal right.|

@@ -1,5 +1,5 @@
 ---
-title: Image.HyperlinkSubAddress Property (Access)
+title: Image.HyperlinkSubAddress property (Access)
 keywords: vbaac10.chm10373
 f1_keywords:
 - vbaac10.chm10373
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.HyperlinkSubAddress Property (Access)
+# Image.HyperlinkSubAddress property (Access)
 
 You can use the  **HyperlinkSubAddress** property to specify or determine a location within the target document specified by the **HyperlinkAddress** property. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkSubAddress`
+_expression_. `HyperlinkSubAddress`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

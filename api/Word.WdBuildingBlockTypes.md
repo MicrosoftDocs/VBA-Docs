@@ -14,7 +14,7 @@ Specifies the type of building block.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTypeAutoText**|9|Autotext building block.|
 | **wdTypeBibliography**|34|Bibliography building block.|

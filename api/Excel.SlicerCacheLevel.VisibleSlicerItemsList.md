@@ -23,7 +23,7 @@ Returns the list of slicer items that are currently included in the slicer filte
  _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
-### Return Value
+### Return value
 
  **Variant**
 

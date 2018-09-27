@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[WebBrowserControl.Transform Property (Access)](http://msdn.microsoft.com/library/7ed545dc-96f4-2cb5-ad35-e50ff4beb270%28Office.15%29.aspx)
+[WebBrowserControl.Transform property (Access)](http://msdn.microsoft.com/library/7ed545dc-96f4-2cb5-ad35-e50ff4beb270%28Office.15%29.aspx)
 

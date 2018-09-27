@@ -23,7 +23,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that generated
  _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 
 
-### Return Value
+### Return value
 
  **ValidationRule**
 

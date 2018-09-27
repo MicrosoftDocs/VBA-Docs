@@ -27,11 +27,11 @@ Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is ei
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either a 1-based  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](Outlook.Rule.Name.md)** .|
 
-### Return Value
+### Return value
 
 A  **Rule** object that matches the rule specified by _Index_ .
 

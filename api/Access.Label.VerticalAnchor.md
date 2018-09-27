@@ -1,5 +1,5 @@
 ---
-title: Label.VerticalAnchor Property (Access)
+title: Label.VerticalAnchor property (Access)
 keywords: vbaac10.chm10259
 f1_keywords:
 - vbaac10.chm10259
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.VerticalAnchor Property (Access)
+# Label.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified label is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

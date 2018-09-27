@@ -27,11 +27,11 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **String**|Used to identify an address entry that is maintained for the session.|
 
-### Return Value
+### Return value
 
 An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_ .
 

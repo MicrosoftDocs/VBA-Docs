@@ -27,14 +27,14 @@ Scrolls the contents of the window by pages.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional| **Variant**|The number of pages to scroll the contents down.|
 | _Up_|Optional| **Variant**|The number of pages to scroll the contents up.|
 | _ToRight_|Optional| **Variant**|The number of pages to scroll the contents to the right.|
 | _ToLeft_|Optional| **Variant**|The number of pages to scroll the contents to the left.|
 
-### Return Value
+### Return value
 
 Variant
 

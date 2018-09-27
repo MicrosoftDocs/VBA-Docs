@@ -23,7 +23,7 @@ Gets or sets whether workspace information is saved with the document. Read/writ
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

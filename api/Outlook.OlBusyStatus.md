@@ -17,7 +17,7 @@ Indicates a user's availability.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olBusy**|2|The user is busy.|
 | **olFree**|0|The user is available.|

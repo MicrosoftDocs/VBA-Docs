@@ -14,7 +14,7 @@ Specifies a language setting in a Microsoft Office application. The  **msoAppLan
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLanguageIDExeMode**|4|Execution mode language.|
 |**msoLanguageIDHelp**|3|Help language.|

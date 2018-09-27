@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState** value indicating whether the shadow of the s
  _expression_ A variable that represents an  **ShadowFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

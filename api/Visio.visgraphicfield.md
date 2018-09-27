@@ -18,7 +18,7 @@ Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpre
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicExpression**|2|The ShapeSheet formula of a shape data item.|
 | **visGraphicPropertyLabel**|1|The label of a shape data item.|

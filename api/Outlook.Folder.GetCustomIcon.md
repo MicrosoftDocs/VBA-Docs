@@ -23,7 +23,7 @@ Returns an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 
-### Return Value
+### Return value
 
 An  **IPictureDisp** object that represents a custom icon for the folder.
 

@@ -20,7 +20,7 @@ Gets or sets the y-axis offset of the image that is to be cropped. Read/write.
  _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

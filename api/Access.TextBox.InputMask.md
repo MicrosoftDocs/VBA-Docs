@@ -1,5 +1,5 @@
 ---
-title: TextBox.InputMask Property (Access)
+title: TextBox.InputMask property (Access)
 keywords: vbaac10.chm11046
 f1_keywords:
 - vbaac10.chm11046
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.InputMask Property (Access)
+# TextBox.InputMask property (Access)
 
 You can use the  **InputMask** property to make data entry easier and to control the values users can enter in a text boxcontrol. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `InputMask`
+_expression_. `InputMask`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.BorderShade Property (Access)
+title: OptionButton.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.BorderShade Property (Access)
+# OptionButton.BorderShade property (Access)
 
 Gets or sets the shade that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderShade`
+_expression_. `BorderShade`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

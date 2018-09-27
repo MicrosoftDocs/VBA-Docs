@@ -1,5 +1,5 @@
 ---
-title: CodeData.AllStoredProcedures Property (Access)
+title: CodeData.AllStoredProcedures property (Access)
 keywords: vbaac10.chm12735
 f1_keywords:
 - vbaac10.chm12735
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeData.AllStoredProcedures Property (Access)
+# CodeData.AllStoredProcedures property (Access)
 
 You can use the  **AllStoredProcedures** property to reference the **[AllStoredProcedures](Access.AllStoredProcedures.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
 
 
 ## Syntax
 
- _expression_. `AllStoredProcedures`
+_expression_. `AllStoredProcedures`
 
- _expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
+_expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
 
 
 ## See also

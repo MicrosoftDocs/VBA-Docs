@@ -27,11 +27,11 @@ Returns the specified  **[CustomXMLPart](./Office.CustomXMLPart.md)** object fro
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|The ID of the  **CustomXMLPart** object.|
 
-### Return Value
+### Return value
 
 CustomXMLPart
 

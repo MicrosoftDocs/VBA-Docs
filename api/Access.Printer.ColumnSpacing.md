@@ -1,5 +1,5 @@
 ---
-title: Printer.ColumnSpacing Property (Access)
+title: Printer.ColumnSpacing property (Access)
 keywords: vbaac10.chm12874
 f1_keywords:
 - vbaac10.chm12874
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.ColumnSpacing Property (Access)
+# Printer.ColumnSpacing property (Access)
 
 Returns or sets a  **Long** representing the vertical space between detail sections in twips. Read/write.
 
 
 ## Syntax
 
- _expression_. `ColumnSpacing`
+_expression_. `ColumnSpacing`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

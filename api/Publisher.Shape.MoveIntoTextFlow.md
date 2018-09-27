@@ -27,11 +27,11 @@ Moves a given shape into the text flow defined by  ** [TextRange Object](Publish
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Range|Required| **TextRange**|The range of text before which the given shape is inserted.|
 
-### Return Value
+### Return value
 
 Nothing
 

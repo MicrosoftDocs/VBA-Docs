@@ -27,11 +27,11 @@ Returns the ordinal position of the specified shape in the list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShapeMember_|Required| **[Shape](Visio.Shape.md)**|The list member shape for which you want to get the position in the container list.|
 
-### Return Value
+### Return value
 
  **Long**
 

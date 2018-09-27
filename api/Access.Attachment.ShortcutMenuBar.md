@@ -1,5 +1,5 @@
 ---
-title: Attachment.ShortcutMenuBar Property (Access)
+title: Attachment.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm13971
 f1_keywords:
 - vbaac10.chm13971
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.ShortcutMenuBar Property (Access)
+# Attachment.ShortcutMenuBar property (Access)
 
 You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click the specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ShortcutMenuBar`
+_expression_. `ShortcutMenuBar`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

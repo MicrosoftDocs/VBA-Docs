@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Top Property (Access)
+title: OptionButton.Top property (Access)
 keywords: vbaac10.chm10583
 f1_keywords:
 - vbaac10.chm10583
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Top Property (Access)
+# OptionButton.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

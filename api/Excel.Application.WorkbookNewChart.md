@@ -27,12 +27,12 @@ Occurs when a new chart is created in any open workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Ch_|Required| **[Chart](Excel.Chart(object).md)**|The new chart.|
 
-### Return Value
+### Return value
 
 Nothing
 

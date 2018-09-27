@@ -1,5 +1,5 @@
 ---
-title: Application.Echo Method (Access)
+title: Application.Echo method (Access)
 keywords: vbaac10.chm12505
 f1_keywords:
 - vbaac10.chm12505
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Echo Method (Access)
+# Application.Echo method (Access)
 
 The  **Echo** method specifies whether Microsoft Access repaints the display screen.
 
 
 ## Syntax
 
- _expression_. `Echo`( ` _EchoOn_`, ` _bstrStatusBarText_` )
+_expression_. `Echo`( ` _EchoOn_`, ` _bstrStatusBarText_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EchoOn_|Required|**Integer**|**True** (default) indicates that the screen is repainted.|
 | _bstrStatusBarText_|Optional|**String**|A string expression that specifies the text to display in the status bar when repainting is turned on or off.|

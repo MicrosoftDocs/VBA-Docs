@@ -1,5 +1,5 @@
 ---
-title: Line.Tag Property (Access)
+title: Line.Tag property (Access)
 keywords: vbaac10.chm10344
 f1_keywords:
 - vbaac10.chm10344
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Tag Property (Access)
+# Line.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

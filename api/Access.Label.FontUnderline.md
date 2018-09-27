@@ -1,5 +1,5 @@
 ---
-title: Label.FontUnderline Property (Access)
+title: Label.FontUnderline property (Access)
 keywords: vbaac10.chm10214
 f1_keywords:
 - vbaac10.chm10214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.FontUnderline Property (Access)
+# Label.FontUnderline property (Access)
 
 You can use the  **FontUnderline** property to specify whether text is underlined in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontUnderline** property to specify whether text is underline
 
 ## Syntax
 
- _expression_. `FontUnderline`
+_expression_. `FontUnderline`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

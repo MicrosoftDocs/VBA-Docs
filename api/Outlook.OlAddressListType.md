@@ -17,7 +17,7 @@ Represents the type of  **[AddressList](Outlook.AddressList.md)** .
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCustomAddressList**|4|A custom address book provider.|
 | **olExchangeContainer**|1|A container for address lists on an Exchange server.|

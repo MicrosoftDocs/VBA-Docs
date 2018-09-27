@@ -17,7 +17,7 @@ Specifies the alignment for the  **[Label](Outlook.ColumnFormat.Label.md)** prop
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAlignCenter**|1|Indicates that the label for the specified column should be centered.|
 | **olAlignLeft**|0|Indicates that the label for the specified column should be left-aligned.|

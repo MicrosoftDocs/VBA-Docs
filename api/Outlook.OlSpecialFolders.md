@@ -17,7 +17,7 @@ Specifies the types of special folders in a store.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olSpecialFolderAllTasks**|0|Specifies the  **All Tasks** search folder for a store.|
 | **olSpecialFolderReminders**|1|Specifies the  **Reminders** search folder for a store.|

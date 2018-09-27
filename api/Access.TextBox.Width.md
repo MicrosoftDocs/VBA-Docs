@@ -1,5 +1,5 @@
 ---
-title: TextBox.Width Property (Access)
+title: TextBox.Width property (Access)
 keywords: vbaac10.chm11073
 f1_keywords:
 - vbaac10.chm11073
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Width Property (Access)
+# TextBox.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

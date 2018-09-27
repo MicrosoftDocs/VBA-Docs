@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.BottomPadding Property (Access)
+title: ToggleButton.BottomPadding property (Access)
 keywords: vbaac10.chm11783
 f1_keywords:
 - vbaac10.chm11783
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.BottomPadding Property (Access)
+# ToggleButton.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the toggle button and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## See also

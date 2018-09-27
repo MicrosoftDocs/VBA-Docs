@@ -14,7 +14,7 @@ Contains constants that specify the vertical alignment.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBottom**|2|Bottom.|
 |**pjMiddle**|1|Middle.|

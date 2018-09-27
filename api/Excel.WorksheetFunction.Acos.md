@@ -27,11 +27,11 @@ Returns the arccosine, or inverse cosine, of a number. The arccosine is the angl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The cosine of the angle you want and must be from -1 to 1.|
 
-### Return Value
+### Return value
 
 Double
 

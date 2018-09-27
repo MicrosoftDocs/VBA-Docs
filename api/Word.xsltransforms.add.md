@@ -25,13 +25,13 @@ Returns an  **XSLTransform** object that represents an Extensible Stylesheet Lan
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Location_|Required| **String**|The path and file name of the XSLT. This may be a local file path, a network path, or an Internet address.|
 | _Alias_|Optional| **String**|The name of the XSLT as it appears in the Schema Library.|
 | _InstallForAllUsers_|Optional| **Boolean**| **True** if all users that log on to a computer can access and use the new schema. The default is **False** .|
 
-### Return Value
+### Return value
 
 XSLTransform
 

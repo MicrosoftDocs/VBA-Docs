@@ -23,7 +23,7 @@ Determines whether the specified movie or sound is played automatically when it 
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

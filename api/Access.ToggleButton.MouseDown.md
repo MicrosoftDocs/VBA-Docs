@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.MouseDown Event (Access)
+title: ToggleButton.MouseDown event (Access)
 keywords: vbaac10.chm14155
 f1_keywords:
 - vbaac10.chm14155
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.MouseDown Event (Access)
+# ToggleButton.MouseDown event (Access)
 
 The  **MouseDown** event occurs when the user presses a mouse button.
 
 
 ## Syntax
 
- _expression_. `MouseDown`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseDown`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**|The button that was pressed to trigger the event. If you need to test for the Button argument, you can use one of the following intrinsic constants as bit masks:
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acLeftButton</b>  The bit mask for the left mouse button.  

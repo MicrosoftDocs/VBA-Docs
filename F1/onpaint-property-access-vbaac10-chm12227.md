@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.OnPaint Property (Access)](http://msdn.microsoft.com/library/ecc8a106-3aff-e0e2-3e7b-86a793cc6f7e%28Office.15%29.aspx)
+[Section.OnPaint property (Access)](http://msdn.microsoft.com/library/ecc8a106-3aff-e0e2-3e7b-86a793cc6f7e%28Office.15%29.aspx)
 

@@ -14,7 +14,7 @@ Specifies alignment for WordArt text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffectAlignmentCentered**|2|Centered.|
 |**msoTextEffectAlignmentLeft**|1|Left-aligned.|

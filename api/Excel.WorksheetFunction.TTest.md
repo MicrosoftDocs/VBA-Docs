@@ -33,14 +33,14 @@ Returns the probability associated with a Student's t-Test. Use TTEST to determi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array1 - the first data set.|
 | _Arg2_|Required| **Variant**|Array2 - the second data set.|
 | _Arg3_|Required| **Double**|Tails - specifies the number of distribution tails. If tails = 1, TTEST uses the one-tailed distribution. If tails = 2, TTEST uses the two-tailed distribution.|
 | _Arg4_|Required| **Double**|Type - the kind of t-Test to perform.|
 
-### Return Value
+### Return value
 
 Double
 

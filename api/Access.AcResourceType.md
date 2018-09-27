@@ -1,5 +1,5 @@
 ---
-title: AcResourceType Enumeration (Access)
+title: AcResourceType enumeration (Access)
 keywords: vbaac10.chm14659
 f1_keywords:
 - vbaac10.chm14659
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcResourceType Enumeration (Access)
+# AcResourceType enumeration (Access)
 
 Specifies the type of a [SharedResource](Access.SharedResource.md) object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acResourceImage**|1|Image.|
 |**acResourceTheme**|0|Office theme.|

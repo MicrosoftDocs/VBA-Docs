@@ -17,7 +17,7 @@ Indicates when multiple lines are displayed in a  **[TableView](Outlook.TableVie
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAlwaysMultiLine**|2|Multiple lines are always displayed.|
 | **olAlwaysSingleLine**|1|Single lines are always displayed.|

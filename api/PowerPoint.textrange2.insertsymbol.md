@@ -22,13 +22,13 @@ Inserts a symbol from the specified font set into the range of text represented 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FontName_|Required|**String**|The name of the font set.|
 | _CharNumber_|Required|**Long**|The number of the symbol.|
 | _Unicode_|Optional|**MsoTriState**|Indicates whether the value of the symbol is specified as a unicode value.|
 
-### Return Value
+### Return value
 
 TextRange2
 

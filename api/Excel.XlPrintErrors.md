@@ -14,7 +14,7 @@ Specifies the type of print error displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPrintErrorsBlank**|1|Print errors are blank.|
 | **xlPrintErrorsDash**|2|Print errors are displayed as dashes.|

@@ -14,7 +14,7 @@ A value that indicates which component (slides, handouts, notes pages, or an out
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPrintOutputBuildSlides**|7|Build Slides|
 |**ppPrintOutputFourSlideHandouts**|8|Four Slide Handouts|

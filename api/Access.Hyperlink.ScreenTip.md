@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ScreenTip Property (Access)
+title: Hyperlink.ScreenTip property (Access)
 keywords: vbaac10.chm10119
 f1_keywords:
 - vbaac10.chm10119
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.ScreenTip Property (Access)
+# Hyperlink.ScreenTip property (Access)
 
 You can use the  **ScreenTip** property to specify or determine the text that is displayed when you move the cursor over a hyperlink control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ScreenTip`
+_expression_. `ScreenTip`
 
- _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
 ## Remarks

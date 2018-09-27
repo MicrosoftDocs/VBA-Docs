@@ -27,7 +27,7 @@ Applies the layouts shown in the ribbon.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **Long**|Specifies the type of layout. The type of layout is denoted by a number from 1 to 10.|
 | _ChartType_|Optional| **[XlChartType](Excel.XlChartType.md)**|The type of chart.|

@@ -17,7 +17,7 @@ Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixe
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbIntentCommercial**|4|Submit the publication to a commercial press.|
 | **pbIntentMinimum**|1|Squeeze the publication to the smallest file size. This satisfies the on-screen viewing scenario where the publication is viewed on a computer monitor.|

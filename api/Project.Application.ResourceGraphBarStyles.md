@@ -27,7 +27,7 @@ Sets the styles of bars on the Resource Graph view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TopLeftShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the following **[PjResourceGraphStyle](Project.PjResourceGraphStyle.md)** constants: **pjBar**, **pjArea**, **pjStep**, **pjLine**, **pjStepLine**, or **pjDoNotShow**.|
 | _TopLeftColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
@@ -51,7 +51,7 @@ Sets the styles of bars on the Resource Graph view.
 | _ProposedRightColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
 | _ProposedRightPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

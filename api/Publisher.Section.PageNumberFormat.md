@@ -23,7 +23,7 @@ Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatti
  _expression_ A variable that represents a  **Section** object.
 
 
-### Return Value
+### Return value
 
 PbPageNumberFormat
 

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.VerticalAnchor Property (Access)
+title: Rectangle.VerticalAnchor property (Access)
 keywords: vbaac10.chm10314
 f1_keywords:
 - vbaac10.chm10314
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.VerticalAnchor Property (Access)
+# Rectangle.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified rectangle is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

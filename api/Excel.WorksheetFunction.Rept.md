@@ -27,12 +27,12 @@ Repeats text a given number of times. Use REPT to fill a cell with a number of i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text - the text you want to repeat.|
 | _Arg2_|Required| **Double**|Number_times - a positive number specifying the number of times to repeat text.|
 
-### Return Value
+### Return value
 
 String
 

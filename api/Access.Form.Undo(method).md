@@ -1,5 +1,5 @@
 ---
-title: Form.Undo Method (Access)
+title: Form.Undo method (Access)
 keywords: vbaac10.chm13492
 f1_keywords:
 - vbaac10.chm13492
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Undo Method (Access)
+# Form.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

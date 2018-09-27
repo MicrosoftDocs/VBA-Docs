@@ -23,7 +23,7 @@ Returns the  **[PrintRanges](PowerPoint.PrintRanges.md)** object, which represen
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
-### Return Value
+### Return value
 
 PrintRanges
 

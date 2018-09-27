@@ -14,7 +14,7 @@ Specifies the rule for determining the height of the specified cells or rows.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRowHeightAtLeast**|1|The row height is at least a minimum specified value.|
 | **wdRowHeightAuto**|0|The row height is adjusted to accommodate the tallest value in the row.|

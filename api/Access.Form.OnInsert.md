@@ -1,5 +1,5 @@
 ---
-title: Form.OnInsert Property (Access)
+title: Form.OnInsert property (Access)
 keywords: vbaac10.chm13431
 f1_keywords:
 - vbaac10.chm13431
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnInsert Property (Access)
+# Form.OnInsert property (Access)
 
 Sets or returns the value of the  **Before Insert** box in the **Properties** window of a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnInsert`
+_expression_. `OnInsert`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
@@ -34,7 +34,7 @@ The  **BeforeInsert** event occurs when the user types the first character in a 
 The  **OnInsert** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **Before Insert** box in the form's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

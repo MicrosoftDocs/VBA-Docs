@@ -24,11 +24,11 @@ Indicates whether the resource belongs to the project.  **True** if the resource
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Project_|Required|**Object**|The  **Project** object against which the expression is checked. For example, **ActiveProject**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

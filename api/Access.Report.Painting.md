@@ -1,5 +1,5 @@
 ---
-title: Report.Painting Property (Access)
+title: Report.Painting property (Access)
 keywords: vbaac10.chm13736
 f1_keywords:
 - vbaac10.chm13736
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Painting Property (Access)
+# Report.Painting property (Access)
 
 You can use the  **Painting** property to specify whether a report is repainted. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Painting`
+_expression_. `Painting`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

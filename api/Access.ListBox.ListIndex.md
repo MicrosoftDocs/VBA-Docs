@@ -1,5 +1,5 @@
 ---
-title: ListBox.ListIndex Property (Access)
+title: ListBox.ListIndex property (Access)
 keywords: vbaac10.chm11275
 f1_keywords:
 - vbaac10.chm11275
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ListIndex Property (Access)
+# ListBox.ListIndex property (Access)
 
 You can use the  **ListIndex** property to determine which item is selected in a list box. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ListIndex`
+_expression_. `ListIndex`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

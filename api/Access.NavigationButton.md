@@ -1,5 +1,5 @@
 ---
-title: NavigationButton Object (Access)
+title: NavigationButton object (Access)
 keywords: vbaac10.chm11201
 f1_keywords:
 - vbaac10.chm11201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton Object (Access)
+# NavigationButton object (Access)
 
 This object represents a navigation button in a navigation control on a form.
 

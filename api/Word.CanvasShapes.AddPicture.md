@@ -27,7 +27,7 @@ Adds a picture to a drawing canvas. Returns a  **Shape** object that represents 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the picture.|
 | _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False** .|

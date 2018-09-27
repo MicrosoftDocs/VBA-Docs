@@ -17,7 +17,7 @@ Indicates the user property type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olCombination**|19|The property type is a combination of other types. It corresponds to the MAPI type  **PT_STRING8**.|
 | **olCurrency**|14|Represents a  **Currency** property type. It corresponds to the MAPI type **PT_CURRENCY**.|

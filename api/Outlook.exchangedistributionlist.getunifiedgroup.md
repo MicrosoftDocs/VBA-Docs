@@ -21,7 +21,7 @@ Determines if the object is a unified group, by way of a call to [IsUnifiedGroup
  _expression_ A variable that represents a [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Return Value
+### Return value
 
 Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and [ExchangeDistributionList.GetUnifiedGroupFromStore Method (Outlook)](Outlook.exchangedistributionlist.getunifiedgroupfromstore.md) methods.
 

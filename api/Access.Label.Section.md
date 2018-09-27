@@ -1,5 +1,5 @@
 ---
-title: Label.Section Property (Access)
+title: Label.Section property (Access)
 keywords: vbaac10.chm10220
 f1_keywords:
 - vbaac10.chm10220
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.Section Property (Access)
+# Label.Section property (Access)
 
 You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Section`
+_expression_. `Section`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

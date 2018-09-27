@@ -23,7 +23,7 @@ Returns an array of the filter actions set for the  **Event** object.
  _expression_ An expression that returns a [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Long()
 

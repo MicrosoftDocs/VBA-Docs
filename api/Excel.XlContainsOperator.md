@@ -14,7 +14,7 @@ Specifies the operator used in a function.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlBeginsWith**|2|Begins with a specified value.|
 | **xlContains**|0|Contains a specified value.|

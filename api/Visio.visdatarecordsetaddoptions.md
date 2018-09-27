@@ -18,7 +18,7 @@ Constants passed to the  **DataRecordsets.Add** method, specifying characteristi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
 | **visDataRecordsetNoRefreshUI**|2|Prevents the data recordset from being displayed in the  **Refresh Data** dialog box.|

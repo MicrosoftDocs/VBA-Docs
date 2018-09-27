@@ -27,11 +27,11 @@ Returns the area of a  **Shape** object in internal units (square inches). Read-
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fIncludeSubShapes_|Optional| **Boolean**| **False** to exclude the area of subshapes. Area of subshapes is included by default.|
 
-### Return Value
+### Return value
 
 Double
 

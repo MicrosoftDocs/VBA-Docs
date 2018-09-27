@@ -27,11 +27,11 @@ Creates a new recognized function and returns an  **OMathRecognizedFunction** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the recognized function.|
 
-### Return Value
+### Return value
 
 OMathRecognizedFunction
 

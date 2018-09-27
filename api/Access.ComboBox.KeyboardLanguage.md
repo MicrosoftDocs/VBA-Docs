@@ -1,5 +1,5 @@
 ---
-title: ComboBox.KeyboardLanguage Property (Access)
+title: ComboBox.KeyboardLanguage property (Access)
 keywords: vbaac10.chm11464
 f1_keywords:
 - vbaac10.chm11464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.KeyboardLanguage Property (Access)
+# ComboBox.KeyboardLanguage property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `KeyboardLanguage`
+_expression_. `KeyboardLanguage`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

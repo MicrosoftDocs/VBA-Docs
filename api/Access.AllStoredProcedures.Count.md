@@ -1,5 +1,5 @@
 ---
-title: AllStoredProcedures.Count Property (Access)
+title: AllStoredProcedures.Count property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AllStoredProcedures.Count Property (Access)
+# AllStoredProcedures.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [AllStoredProcedures](Access.AllStoredProcedures.md) object.
+_expression_ A variable that represents an [AllStoredProcedures](Access.AllStoredProcedures.md) object.
 
 
 ## See also

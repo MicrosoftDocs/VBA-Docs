@@ -27,7 +27,7 @@ Sets a cyan-magenta-yellow-black (CMYK) color value.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Cyan|Required| **Long**|A number that represents the cyan component of the color. Value can be any number between 0 and 255.|
 |Magenta|Required| **Long**|A number that represents the magenta component of the color. Value can be any number between 0 and 255.|

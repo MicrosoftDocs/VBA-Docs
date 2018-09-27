@@ -27,7 +27,7 @@ Moves the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object to a 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _toPos_|Required|**Long**|The index position in the  **CustomLayouts** collection to which the **CustomLayout** object will be moved.|
 

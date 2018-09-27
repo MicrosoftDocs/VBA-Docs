@@ -27,11 +27,11 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element in the collection.|
 
-### Return Value
+### Return value
 
 SparklineGroup
 

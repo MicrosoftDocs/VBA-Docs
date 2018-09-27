@@ -27,7 +27,7 @@ Deletes a reference to an object in the  **[ServerViewableItems](Excel.ServerVie
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object you want to delete.|
 

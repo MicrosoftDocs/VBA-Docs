@@ -14,7 +14,7 @@ Specifies the format to use when opening a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOpenFormatAllWord**|6|A Microsoft Word format that is backward compatible with earlier versions of Word.|
 | **wdOpenFormatAuto**|0|The existing format.|

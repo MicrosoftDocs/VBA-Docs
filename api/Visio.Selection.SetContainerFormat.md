@@ -27,12 +27,12 @@ Changes the formatting of one aspect of all the containers in the selection, and
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormatType_|Required| **[VisContainerFormatType](Visio.VisContainerFormatType.md)**|The container formatting to change. See Remarks for possible values.|
 | _FormatValue_|Optional| **Variant**|The new format to apply.|
 
-### Return Value
+### Return value
 
  **Long()**
 

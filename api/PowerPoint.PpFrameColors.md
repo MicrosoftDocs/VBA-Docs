@@ -14,7 +14,7 @@ Specifies the text color for the outline pane and the background color for the o
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppFrameColorsBlackTextOnWhite**|5|Use White text on a Black frame.|
 |**ppFrameColorsBrowserColors**|1|Use browser colors for the pane and text.|

@@ -14,7 +14,7 @@ Specifies the type of rectangle and the information it contains.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLineBetweenColumnRectangle**|5|Represents a region corresponding to a line that separates columns.|
 | **wdMarkupRectangle**|2|Represents a space occupied by a comment balloon.|

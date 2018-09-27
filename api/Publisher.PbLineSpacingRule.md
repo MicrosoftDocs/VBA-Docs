@@ -17,7 +17,7 @@ Represents the line spacing for the specified paragraphs.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbLineSpacing1pt5**|1|Sets paragraph line spacing to a line and a half.|
 | **pbLineSpacingDouble**|2|Sets paragraph line spacing to two lines.|

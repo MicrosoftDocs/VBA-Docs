@@ -24,11 +24,11 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ErrorCode|Required| **Long**|The error message code for which you want to get a description.|
 
-### Return Value
+### Return value
 
 String
 

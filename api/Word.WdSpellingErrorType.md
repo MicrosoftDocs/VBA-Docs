@@ -14,7 +14,7 @@ Specifies a spelling error type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSpellingCapitalization**|2|Capitalization error.|
 | **wdSpellingCorrect**|0|Spelling is correct.|

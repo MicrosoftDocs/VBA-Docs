@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Requery Method (Access)
+title: OptionGroup.Requery method (Access)
 keywords: vbaac10.chm10815
 f1_keywords:
 - vbaac10.chm10815
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Requery Method (Access)
+# OptionGroup.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

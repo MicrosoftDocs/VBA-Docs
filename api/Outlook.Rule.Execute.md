@@ -27,7 +27,7 @@ Applies a rule as an one-off operation.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShowProgress_|Optional| **Boolean**| **True** to display the progress dialog box when the rule is executed, **False** to run the rule without displaying the dialog box.|
 | _Folder_|Optional| **[Folder](Outlook.Folder.md)**|Represents the folder where the rule will be applied.|

@@ -1,5 +1,5 @@
 ---
-title: Report.DrawStyle Property (Access)
+title: Report.DrawStyle property (Access)
 keywords: vbaac10.chm13754
 f1_keywords:
 - vbaac10.chm13754
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DrawStyle Property (Access)
+# Report.DrawStyle property (Access)
 
 You can use the  **DrawStyle** property to specify the line style when using the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods to print lines on reports. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `DrawStyle`
+_expression_. `DrawStyle`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

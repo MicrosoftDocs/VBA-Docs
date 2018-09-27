@@ -14,7 +14,7 @@ Specifies how the target range is to be filled, based on the contents of the sou
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFillCopy**|1|Copy the values and formats from the source range to the target range, repeating if necessary.|
 | **xlFillDays**|5|Extend the names of the days of the week in the source range into the target range. Formats are copied from the source range to the target range, repeating if necessary.|

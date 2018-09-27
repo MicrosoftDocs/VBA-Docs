@@ -17,7 +17,7 @@ Represents the style of the navigation bar buttons: large, small, or text-only.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbnbButtonStyleLarge**|2|Large buttons|
 | **pbnbButtonStyleSmall**|1|Small buttons|

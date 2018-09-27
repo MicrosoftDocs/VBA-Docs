@@ -20,7 +20,7 @@ Determines whether the Web page opens in the browser after the drawing is export
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

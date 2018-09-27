@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.AddColon Property (Access)
+title: OptionGroup.AddColon property (Access)
 keywords: vbaac10.chm10853
 f1_keywords:
 - vbaac10.chm10853
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.AddColon Property (Access)
+# OptionGroup.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AddColon`
+_expression_. `AddColon`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## See also

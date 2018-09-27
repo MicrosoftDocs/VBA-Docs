@@ -23,7 +23,7 @@ Expands or collapses resource rows in the Team Planner view, where there is more
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

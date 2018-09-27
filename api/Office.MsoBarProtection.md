@@ -14,7 +14,7 @@ Specifies how a command bar is protected from user customization.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarNoChangeDock**|16|Docking setting cannot be changed.|
 |**msoBarNoChangeVisible**|8|Command bar cannot be hidden.|

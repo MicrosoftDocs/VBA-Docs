@@ -1,5 +1,5 @@
 ---
-title: TextBox.SizeToFit Method (Access)
+title: TextBox.SizeToFit method (Access)
 keywords: vbaac10.chm11033
 f1_keywords:
 - vbaac10.chm11033
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.SizeToFit Method (Access)
+# TextBox.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

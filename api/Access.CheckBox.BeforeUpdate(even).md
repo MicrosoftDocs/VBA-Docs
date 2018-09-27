@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BeforeUpdate Event (Access)
+title: CheckBox.BeforeUpdate event (Access)
 keywords: vbaac10.chm14120
 f1_keywords:
 - vbaac10.chm14120
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BeforeUpdate Event (Access)
+# CheckBox.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`( ` _Cancel_` )
+_expression_. `BeforeUpdate`( ` _Cancel_` )
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **BeforeUpdate** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeUpdate** event.|
 

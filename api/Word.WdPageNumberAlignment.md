@@ -14,7 +14,7 @@ Specifies the alignment to apply to page numbers.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlignPageNumberCenter**|1|Centered.|
 | **wdAlignPageNumberInside**|3|Left-aligned just inside the footer.|

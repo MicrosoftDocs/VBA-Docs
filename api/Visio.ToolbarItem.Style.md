@@ -23,7 +23,7 @@ Determines whether a toolbar button shows an icon, a caption, or some combinatio
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

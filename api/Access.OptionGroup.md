@@ -1,5 +1,5 @@
 ---
-title: OptionGroup Object (Access)
+title: OptionGroup object (Access)
 keywords: vbaac10.chm10894
 f1_keywords:
 - vbaac10.chm10894
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup Object (Access)
+# OptionGroup object (Access)
 
 An option group on a form or report displays a limited set of alternatives. An option group makes selecting a value easy since you can just click the value you want. Only one option in an option group can be selected at a time.
 

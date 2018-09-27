@@ -31,14 +31,14 @@ For more information about the new function, see the [Norm_Dist](Excel.Worksheet
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value for which you want the distribution.|
 | _Arg2_|Required| **Double**|Mean - the arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, NORMDIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -18,7 +18,7 @@ Represent the types of graphic items that can be added to data graphics. Returne
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeIconSet**|2|Represents an  **Icon Set** graphic item.|
 | **visTypeTextCallout**|3|Represents a  **Text** graphic item.|

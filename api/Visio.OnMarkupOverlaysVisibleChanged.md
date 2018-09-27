@@ -24,7 +24,7 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |MarkupOverlaysVisible|Required| **Boolean**|Indicates whether markup overlays are visible in the Visio Viewer user interface.|
 

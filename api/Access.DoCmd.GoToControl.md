@@ -1,5 +1,5 @@
 ---
-title: DoCmd.GoToControl Method (Access)
+title: DoCmd.GoToControl method (Access)
 keywords: vbaac10.chm4152
 f1_keywords:
 - vbaac10.chm4152
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.GoToControl Method (Access)
+# DoCmd.GoToControl method (Access)
 
 The  **GoToControl** method performs the GoToControl action action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `GoToControl`( ` _ControlName_` )
+_expression_. `GoToControl`( ` _ControlName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlName_|Required|**Variant**|A string expression that is the name of a control on the active form or datasheet.|
 

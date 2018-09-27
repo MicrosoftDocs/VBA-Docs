@@ -17,7 +17,7 @@ Specifies the drag behavior of a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDragBehaviorDisabled**|0|The control does not support drag-and-drop activities. It will always display the "no" cursor when an item is dragged over the control.|
 | **olDragBehaviorEnabled**|1|The control can support drag-and-drop activities. Use the drag and drop events to control this behavior.|

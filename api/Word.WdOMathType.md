@@ -14,7 +14,7 @@ Specifies the display format type of equation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathDisplay**|0|Professional format.|
 | **wdOMathInline**|1|Inline.|

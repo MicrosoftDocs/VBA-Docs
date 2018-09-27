@@ -24,12 +24,12 @@ Moves the page by the specified coordinate values, in pixels, in Microsoft Visio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |DeltaX|Required| **Long**|The amount, in pixels, to move horizontally.|
 |DeltaY|Required| **Long**|The amount, in pixels, to move vertically.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.RowSource Property (Access)
+title: ComboBox.RowSource property (Access)
 keywords: vbaac10.chm11379
 f1_keywords:
 - vbaac10.chm11379
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.RowSource Property (Access)
+# ComboBox.RowSource property (Access)
 
 You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `RowSource`
+_expression_. `RowSource`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Saves the attachment to the specified path.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The location at which to save the attachment.|
 

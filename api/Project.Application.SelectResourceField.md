@@ -27,7 +27,7 @@ Selects a resource field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Required|**Long**|The number of the row containing the field to select.|
 | _Column_|Required|**String**|The name of the column containing the field to select.|
@@ -37,7 +37,7 @@ Selects a resource field.
 | _Extend_|Optional|**Boolean**|**True** if the active selection is extended into the new selection. The default value is **False**.|
 | _Add_|Optional|**Boolean**|**True** if the new selection is added to the active selection. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

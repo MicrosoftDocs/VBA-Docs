@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl Object (Access)
+title: WebBrowserControl object (Access)
 keywords: vbaac10.chm14346
 f1_keywords:
 - vbaac10.chm14346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl Object (Access)
+# WebBrowserControl object (Access)
 
 Represents a Web browser control on a form.
 

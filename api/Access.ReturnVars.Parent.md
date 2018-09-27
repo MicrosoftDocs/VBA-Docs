@@ -1,5 +1,5 @@
 ---
-title: ReturnVars.Parent Property (Access)
+title: ReturnVars.Parent property (Access)
 keywords: vbaac10.chm14694
 f1_keywords:
 - vbaac10.chm14694
@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVars.Parent Property (Access)
+# ReturnVars.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only  **Object**.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [ReturnVars](Access.ReturnVars.md) object.
+_expression_ A variable that represents a [ReturnVars](Access.ReturnVars.md) object.
 
 

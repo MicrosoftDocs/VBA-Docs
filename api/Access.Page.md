@@ -1,5 +1,5 @@
 ---
-title: Page Object (Access)
+title: Page object (Access)
 keywords: vbaac10.chm10124
 f1_keywords:
 - vbaac10.chm10124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page Object (Access)
+# Page object (Access)
 
 A  **Page** object corresponds to an individual page on a tab control.
 

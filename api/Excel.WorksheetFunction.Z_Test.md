@@ -27,13 +27,13 @@ Returns the one-tailed probability-value of a z-test. For a given hypothesized p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array is the array or range of data against which to test the hypothesized population mean.|
 | _Arg2_|Required| **Double**|The value to test.|
 | _Arg3_|Optional| **Variant**|Sigma - The population (known) standard deviation. If omitted, the sample standard deviation is used.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -27,7 +27,7 @@ Saves a copy of the specified presentation to a file without modifying the origi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name to save the file under. If you don't include a full path, PowerPoint saves the file in the current folder.|
 | _FileFormat_|Optional|**PpSaveAsFileType**|The file format.|

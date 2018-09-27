@@ -14,7 +14,7 @@ Specifies when to apply on-screen shading for form fields.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFieldShadingAlways**|1|Always apply.|
 | **wdFieldShadingNever**|0|Never apply.|

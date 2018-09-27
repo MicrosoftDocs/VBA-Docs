@@ -14,7 +14,7 @@ Specifies whether Microsoft Word displays balloons in the margin or inline with 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBalloonRevisions**|0|Displays revisions in balloons in the left or right margin.|
 | **wdInLineRevisions**|1|Displays revisions within the text using strikethrough for deletions and underlining for insertions. This is the default setting for prior versions of Word.|

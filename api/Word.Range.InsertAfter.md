@@ -27,7 +27,7 @@ Inserts the specified text at the end of a range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The text to be inserted.|
 

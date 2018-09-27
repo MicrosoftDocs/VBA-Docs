@@ -1,5 +1,5 @@
 ---
-title: CheckBox.AddColon Property (Access)
+title: CheckBox.AddColon property (Access)
 keywords: vbaac10.chm10726
 f1_keywords:
 - vbaac10.chm10726
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.AddColon Property (Access)
+# CheckBox.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AddColon`
+_expression_. `AddColon`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## See also

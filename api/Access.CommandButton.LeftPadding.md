@@ -1,5 +1,5 @@
 ---
-title: CommandButton.LeftPadding Property (Access)
+title: CommandButton.LeftPadding property (Access)
 keywords: vbaac10.chm10524
 f1_keywords:
 - vbaac10.chm10524
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.LeftPadding Property (Access)
+# CommandButton.LeftPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the button and its left gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `LeftPadding`
+_expression_. `LeftPadding`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## See also

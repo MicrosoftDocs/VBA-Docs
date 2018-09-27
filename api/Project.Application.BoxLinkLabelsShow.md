@@ -27,11 +27,11 @@ Shows or hides link labels in the active Network Diagram.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if link labels display in the active view. The default value is **True** if link labels are hidden and **False** if they are visible.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

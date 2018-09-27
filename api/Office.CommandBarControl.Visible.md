@@ -23,7 +23,7 @@ Gets or sets the  **Visible** property of the **CommandBarControl**. **True** if
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

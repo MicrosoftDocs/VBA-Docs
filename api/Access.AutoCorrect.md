@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (Access)
+title: AutoCorrect object (Access)
 keywords: vbaac10.chm13260
 f1_keywords:
 - vbaac10.chm13260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect Object (Access)
+# AutoCorrect object (Access)
 
 The  **AutoCorrect** object represents the AutoCorrect functionality of Microsoft Access.
 

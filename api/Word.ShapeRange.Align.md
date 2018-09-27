@@ -27,7 +27,7 @@ Aligns the shapes in the specified range of shapes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Align_|Required| **MsoAlignCmd**|Specifies the way the shapes in the specified shape range are to be aligned.|
 | _RelativeTo_|Required| **Long**| **True** to align shapes relative to the edge of the document. **False** to align shapes relative to one another.|

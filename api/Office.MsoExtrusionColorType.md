@@ -14,7 +14,7 @@ Specifies whether the extrusion color is based on the extruded shape's fill (the
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoExtrusionColorAutomatic**|1|Extrusion color is based on shape fill.|
 |**msoExtrusionColorCustom**|2|Extrusion color is independent of shape fill.|

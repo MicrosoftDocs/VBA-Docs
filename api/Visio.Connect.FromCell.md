@@ -23,7 +23,7 @@ Returns the cell from which a connection originates. Read-only.
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
-### Return Value
+### Return value
 
 Cell
 

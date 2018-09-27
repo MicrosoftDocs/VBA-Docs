@@ -24,7 +24,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was opened.|
 

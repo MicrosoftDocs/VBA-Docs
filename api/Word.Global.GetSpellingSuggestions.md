@@ -27,7 +27,7 @@ Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection tha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The word whose spelling is to be checked.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** to ignore words in all uppercase letters. If this argument is omitted, the current value of the **[IgnoreUppercase](Word.Options.IgnoreUppercase.md)** property is used.|

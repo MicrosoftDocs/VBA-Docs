@@ -23,7 +23,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

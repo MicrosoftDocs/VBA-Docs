@@ -27,7 +27,7 @@ Returns a  **Range** object that refers to the start position of the previous it
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **WdGoToItem**|The item where the specified range or selection is to be moved.|
 

@@ -30,11 +30,11 @@ Gets the data in all columns in the specified row.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRowID_|Required| **Long**|The ID of the row in the data recordset from which you want to retrieve data.|
 
-### Return Value
+### Return value
 
 Variant()
 

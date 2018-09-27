@@ -1,5 +1,5 @@
 ---
-title: MacroError.Description Property (Access)
+title: MacroError.Description property (Access)
 keywords: vbaac10.chm14049
 f1_keywords:
 - vbaac10.chm14049
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError.Description Property (Access)
+# MacroError.Description property (Access)
 
 Gets the text that represents the current error message. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

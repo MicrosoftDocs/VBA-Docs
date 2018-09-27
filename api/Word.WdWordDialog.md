@@ -14,7 +14,7 @@ Indicates the Microsoft Word dialog boxes with which you can work and specifies 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDialogBuildingBlockOrganizer**|2067|(none)|
 | **wdDialogConnect**|420|Drive, Path, Password|

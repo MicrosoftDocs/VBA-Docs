@@ -1,5 +1,5 @@
 ---
-title: Application.CreateControl Method (Access)
+title: Application.CreateControl method (Access)
 keywords: vbaac10.chm12622
 f1_keywords:
 - vbaac10.chm12622
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CreateControl Method (Access)
+# Application.CreateControl method (Access)
 
 The  **CreateControl** method creates a control on a specified open form. For example, suppose you are building a custom wizard that allows users to easily construct a particular form. You can use the **CreateControl** method in your wizard to add the appropriate controls to the form.
 
 
 ## Syntax
 
- _expression_. `CreateControl`( ` _FormName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
+_expression_. `CreateControl`( ` _FormName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormName_|Required|**String**|The name of the open form or report on which you want to create the control.|
 | _ControlType_|Required|**AcControlType**|An  **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|
@@ -37,7 +37,7 @@ The  **CreateControl** method creates a control on a specified open form. For ex
 | _Left,Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in twips.|
 | _Width, Height_|Optional|**Variant**|Numeric expressions indicating the width and height of the control in twips.|
 
-### Return Value
+### Return value
 
 Control
 

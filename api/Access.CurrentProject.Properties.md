@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.Properties Property (Access)
+title: CurrentProject.Properties property (Access)
 keywords: vbaac10.chm12721
 f1_keywords:
 - vbaac10.chm12721
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.Properties Property (Access)
+# CurrentProject.Properties property (Access)
 
 Returns a reference to a  **[CurrentProject](Access.CurrentProject.md)** object's **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

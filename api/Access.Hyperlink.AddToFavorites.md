@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.AddToFavorites Method (Access)
+title: Hyperlink.AddToFavorites method (Access)
 keywords: vbaac10.chm10116
 f1_keywords:
 - vbaac10.chm10116
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.AddToFavorites Method (Access)
+# Hyperlink.AddToFavorites method (Access)
 
 The  **AddToFavorites** method adds a hyperlink address to the Favorites folder.
 
 
 ## Syntax
 
- _expression_. `AddToFavorites`
+_expression_. `AddToFavorites`
 
- _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

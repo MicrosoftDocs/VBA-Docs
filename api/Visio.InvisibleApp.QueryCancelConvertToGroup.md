@@ -24,7 +24,7 @@ Private Sub  _expression_ _'QueryCancelConvertToGroup'(**_ByVal Selection As [IV
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Selection_|Required| **[IVSELECTION]**|The selection of shapes that is going to be converted to a group.|
 

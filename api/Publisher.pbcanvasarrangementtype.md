@@ -12,7 +12,7 @@ Constants passed to and returned by the  ** [Shapes.CanvasArrangementType](Publi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCanvasArrangementTypeColsCanvas**|1|Canvas arranged into columns.|
 | **pbCanvasArrangementTypeOneCanvas**|0|Canvas arranged as a single unit.|

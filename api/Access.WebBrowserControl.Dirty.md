@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Dirty Event (Access)
+title: WebBrowserControl.Dirty event (Access)
 keywords: vbaac10.chm143128
 f1_keywords:
 - vbaac10.chm143128
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Dirty Event (Access)
+# WebBrowserControl.Dirty event (Access)
 
 The  **Dirty** event occurs when the contents of the specified control changes.
 
 
 ## Syntax
 
- _expression_. `Dirty`( ` _Cancel_`, )
+_expression_. `Dirty`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

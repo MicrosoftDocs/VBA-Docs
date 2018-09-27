@@ -27,7 +27,7 @@ Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGrou
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NavigationFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The navigation folder added to the collection.|
 

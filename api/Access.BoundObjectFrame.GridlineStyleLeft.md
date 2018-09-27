@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineStyleLeft Property (Access)
+title: BoundObjectFrame.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm10999
 f1_keywords:
 - vbaac10.chm10999
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineStyleLeft Property (Access)
+# BoundObjectFrame.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

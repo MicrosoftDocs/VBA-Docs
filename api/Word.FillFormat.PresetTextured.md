@@ -27,7 +27,7 @@ Sets the specified fill to a preset texture.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetTexture_|Required| **MsoPresetTexture**|The preset texture.|
 

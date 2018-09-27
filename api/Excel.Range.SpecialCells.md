@@ -27,12 +27,12 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlCellType](Excel.XlCellType.md)**|The cells to include.|
 | _Value_|Optional| **Variant**|If  _Type_ is either **xlCellTypeConstants** or **xlCellTypeFormulas** , this argument is used to determine which types of cells to include in the result. These values can be added together to return more than one type. The default is to select all constants or formulas, no matter what the type.|
 
-### Return Value
+### Return value
 
 Range
 

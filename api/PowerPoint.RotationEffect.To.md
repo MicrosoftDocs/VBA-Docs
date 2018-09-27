@@ -23,7 +23,7 @@ Sets or returns a  **Single** that represents the ending rotation of an object i
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

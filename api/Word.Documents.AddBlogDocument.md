@@ -27,7 +27,7 @@ Returns a  **Document** object that represents a new blog document that Microsof
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProviderID_|Required| **String**|A GUID that is the unique value a provider uses when they register themselves with Word.|
 | _PostURL_|Required| **String**|The URL that is used to add posts to the blog.|

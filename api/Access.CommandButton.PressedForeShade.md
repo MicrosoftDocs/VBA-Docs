@@ -1,5 +1,5 @@
 ---
-title: CommandButton.PressedForeShade Property (Access)
+title: CommandButton.PressedForeShade property (Access)
 keywords: vbaac10.chm14626
 f1_keywords:
 - vbaac10.chm14626
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.PressedForeShade Property (Access)
+# CommandButton.PressedForeShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **PressedForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `PressedForeShade`
+_expression_. `PressedForeShade`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

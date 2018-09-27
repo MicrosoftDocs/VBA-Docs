@@ -23,7 +23,7 @@ Returns an array of command ranges and a  **True** or **False** value indicating
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Long()
 

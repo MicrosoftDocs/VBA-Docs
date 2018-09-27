@@ -14,7 +14,7 @@ Specifies a document type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTypeDocument**|0|Document.|
 | **wdTypeFrameset**|2|Frameset.|

@@ -20,7 +20,7 @@ Gets a  **TabStops2** collection that represents the tab stops for the specified
  _expression_ An expression that returns a [Ruler2](./Office.Ruler2.md) object.
 
 
-### Return Value
+### Return value
 
 TabStops2
 

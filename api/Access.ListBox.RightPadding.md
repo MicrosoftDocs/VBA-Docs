@@ -1,5 +1,5 @@
 ---
-title: ListBox.RightPadding Property (Access)
+title: ListBox.RightPadding property (Access)
 keywords: vbaac10.chm11308
 f1_keywords:
 - vbaac10.chm11308
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.RightPadding Property (Access)
+# ListBox.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its right gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## See also

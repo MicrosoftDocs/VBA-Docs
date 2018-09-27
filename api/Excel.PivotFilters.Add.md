@@ -27,7 +27,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](Excel.XlPivotFilterType.md)** type of filter.|
 | _DataField_|Optional| **Variant**|The field to which the filter is attached.|
@@ -39,7 +39,7 @@ Adds new filters to the  **PivotFilters** collection.
 | _MemberPropertyField_|Optional| **Variant**|Specifies the member property field on which the label filter is based.|
 | _WholeDayFilter_|Optional| **Variant**|Specifies a filter based on days.|
 
-### Return Value
+### Return value
 
 PivotFilter
 

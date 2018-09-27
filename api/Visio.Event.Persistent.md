@@ -23,7 +23,7 @@ Determines whether an event persists with its document. Read/write.
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -24,12 +24,12 @@ Links a deliverable to a task.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable to link.|
 | _TaskGuid_|Required|**String**|The GUID of the task to link.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

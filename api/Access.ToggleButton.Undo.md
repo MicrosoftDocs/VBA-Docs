@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Undo Method (Access)
+title: ToggleButton.Undo method (Access)
 keywords: vbaac10.chm11689
 f1_keywords:
 - vbaac10.chm11689
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Undo Method (Access)
+# ToggleButton.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

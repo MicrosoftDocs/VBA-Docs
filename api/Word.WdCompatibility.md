@@ -14,7 +14,7 @@ Specifies a compatibility option.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAlignTablesRowByRow**|39|Align table rows independently.|
 | **wdApplyBreakingRules**|46|Use line-breaking rules.|

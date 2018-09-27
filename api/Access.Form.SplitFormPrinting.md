@@ -1,5 +1,5 @@
 ---
-title: Form.SplitFormPrinting Property (Access)
+title: Form.SplitFormPrinting property (Access)
 keywords: vbaac10.chm13566
 f1_keywords:
 - vbaac10.chm13566
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SplitFormPrinting Property (Access)
+# Form.SplitFormPrinting property (Access)
 
 Gets or sets whether the contents of the form or the datasheet are printed when printing a form displayed in Split Form view. Read/write [AcSplitFormPrinting](Access.AcSplitFormPrinting.md).
 
 
 ## Syntax
 
- _expression_. `SplitFormPrinting`
+_expression_. `SplitFormPrinting`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## See also

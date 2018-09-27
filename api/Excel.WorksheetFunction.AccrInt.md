@@ -27,7 +27,7 @@ Returns the accrued interest for a security that pays periodic interest.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Issue date - Security's issue date.|
 | _Arg2_|Required| **Variant**|First interest - Security's first interest date.|
@@ -37,7 +37,7 @@ Returns the accrued interest for a security that pays periodic interest.
 | _Arg6_|Required| **Variant**|Frequency - Number of coupon payments per year.|
 | _Arg7_|Optional| **Variant**|Basis - The type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

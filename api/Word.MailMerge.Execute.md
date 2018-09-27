@@ -27,7 +27,7 @@ Performs the specified mail merge operation.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pause_|Optional| **Variant**| **True** for Microsoft Word pause and display a troubleshooting dialog box if a mail merge error is found. **False** to report errors in a new document.|
 

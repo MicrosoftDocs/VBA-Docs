@@ -14,7 +14,7 @@ Specifies the position or behavior of a command bar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarBottom**|3|Command bar is docked at the bottom of the application window.|
 |**msoBarFloating**|4|Command bar floats on top of the application window.|

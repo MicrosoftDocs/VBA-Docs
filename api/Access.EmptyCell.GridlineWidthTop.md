@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.GridlineWidthTop Property (Access)
+title: EmptyCell.GridlineWidthTop property (Access)
 keywords: vbaac10.chm14336
 f1_keywords:
 - vbaac10.chm14336
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.GridlineWidthTop Property (Access)
+# EmptyCell.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

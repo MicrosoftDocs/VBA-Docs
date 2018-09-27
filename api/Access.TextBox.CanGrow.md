@@ -1,5 +1,5 @@
 ---
-title: TextBox.CanGrow Property (Access)
+title: TextBox.CanGrow property (Access)
 keywords: vbaac10.chm11068
 f1_keywords:
 - vbaac10.chm11068
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.CanGrow Property (Access)
+# TextBox.CanGrow property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanGrow`
+_expression_. `CanGrow`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

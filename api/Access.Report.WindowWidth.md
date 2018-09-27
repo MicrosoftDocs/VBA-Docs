@@ -1,5 +1,5 @@
 ---
-title: Report.WindowWidth Property (Access)
+title: Report.WindowWidth property (Access)
 keywords: vbaac10.chm13804
 f1_keywords:
 - vbaac10.chm13804
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.WindowWidth Property (Access)
+# Report.WindowWidth property (Access)
 
 Returns the width of a report in twips. Read-only  **Integer**.
 
 
 ## Syntax
 
- _expression_. `WindowWidth`
+_expression_. `WindowWidth`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: AllStoredProcedures Object (Access)
+title: AllStoredProcedures object (Access)
 keywords: vbaac10.chm12691
 f1_keywords:
 - vbaac10.chm12691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllStoredProcedures Object (Access)
+# AllStoredProcedures object (Access)
 
 The  **AllStoredProcedures** collection contains an **[AccessObject](Access.AccessObject.md)** for each stored procedure in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

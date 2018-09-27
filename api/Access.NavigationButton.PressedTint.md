@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.PressedTint Property (Access)
+title: NavigationButton.PressedTint property (Access)
 keywords: vbaac10.chm14621
 f1_keywords:
 - vbaac10.chm14621
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.PressedTint Property (Access)
+# NavigationButton.PressedTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **PressedColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `PressedTint`
+_expression_. `PressedTint`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Sets save options for project files.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DefaultSaveFormat_|Optional|**String**|Specifies the default format when saving a file. Can be one of the following strings: "MSProject.mpp", "MSProject.mpt", "MSProject.mpp12", or "MSProject.mpp9".|
 | _DefaultProjectsPath_|Optional|**String**|Specifies the default location for project files.|
@@ -40,7 +40,7 @@ Sets save options for project files.
 | _AutomaticSavePrompt_|Optional|**Boolean**|**True** if alerts display when automatically saving files.|
 | _SetDefaultsDatabase_|Optional|**Boolean**|**True** if the value specified in the **Database save options** section, found on the **Save** tab of the **Options** dialog box, is used as the default value for new projects. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

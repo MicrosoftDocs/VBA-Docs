@@ -27,7 +27,7 @@ Returns a document from a local computer to a server, and sets the local documen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Boolean**| **True** saves the document to the server location. The default is **True** .|
 | _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (only applies if SaveChanges equals  **True**).|

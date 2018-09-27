@@ -14,7 +14,7 @@ Specifies the character to use as the leader with formatted tabs.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTabLeaderDashes**|2|Dashes.|
 | **wdTabLeaderDots**|1|Dots.|

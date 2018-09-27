@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineWidthLeft Property (Access)
+title: ToggleButton.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11788
 f1_keywords:
 - vbaac10.chm11788
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineWidthLeft Property (Access)
+# ToggleButton.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified toggle button. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

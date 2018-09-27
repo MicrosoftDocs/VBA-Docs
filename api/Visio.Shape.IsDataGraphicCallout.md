@@ -23,7 +23,7 @@ Specifes whether a shape is a data graphic callout. Read-only.
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

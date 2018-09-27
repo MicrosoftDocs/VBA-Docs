@@ -14,7 +14,7 @@ Specifies the type of proofreading error returned by the Word proofreading proce
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGrammaticalError**|1|Grammatical error.|
 | **wdSpellingError**|0|Spelling error.|

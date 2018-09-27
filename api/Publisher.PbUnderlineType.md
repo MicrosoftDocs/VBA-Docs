@@ -17,7 +17,7 @@ Indicates the type of underline for the selected characters in the specified fon
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbUnderlineDash**|6|Dash|
 | **pbUnderlineDashHeavy**|12|Dash Heavy|

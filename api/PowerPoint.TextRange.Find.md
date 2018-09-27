@@ -27,14 +27,14 @@ Finds the specified text in a text range, and returns a  **[TextRange](PowerPoin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindWhat_|Required|**String**|The text to search for.|
 | _After_|Optional|**Long**|The position of the character (in the specified text range) after which you want to search for the next occurrence of FindWhat. For example, if you want to search from the fifth character of the text range, specify 4 for After. If this argument is omitted, the first character of the text range is used as the starting point for the search.|
 | _MatchCase_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|**msoTrue** for the search to distinguish between uppercase and lowercase characters.|
 | _WholeWords_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|**msoTrue** for the search to find only whole words and not parts of larger words as well.|
 
-### Return Value
+### Return value
 
 TextRange
 

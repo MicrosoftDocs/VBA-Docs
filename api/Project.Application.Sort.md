@@ -27,7 +27,7 @@ Sorts the tasks or resources in the active pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key1_|Optional|**String**|The name of a primary field to sort. If Key1 is omitted, Project displays the  **Sort** dialog box.|
 | _Ascending1_|Optional|**Boolean**|**True** if the primary field will be sorted in ascending order. The default value is **True**.|
@@ -38,7 +38,7 @@ Sorts the tasks or resources in the active pane.
 | _Renumber_|Optional|**Boolean**|**True** if Project renumbers tasks after sorting them. For task views, Renumber can be **True** only if Outline is **True**. If Outline is **True**, then Renumber defaults to the current setting in the **Sort** dialog box. If Outline is **False**, Renumber is ignored.|
 | _Outline_|Optional|**Boolean**|**True** if the outline level of tasks or resources will be preserved after sorting them. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

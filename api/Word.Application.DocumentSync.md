@@ -27,7 +27,7 @@ Private Sub_**DocumentSync**(**_Doc_** , **_SyncEventType_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document being synchronized.|
 | _SyncEventType_|Required| **MsoSyncEventType**|The status of the document synchronization.|

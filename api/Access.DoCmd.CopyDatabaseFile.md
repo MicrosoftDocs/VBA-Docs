@@ -1,5 +1,5 @@
 ---
-title: DoCmd.CopyDatabaseFile Method (Access)
+title: DoCmd.CopyDatabaseFile method (Access)
 keywords: vbaac10.chm5088
 f1_keywords:
 - vbaac10.chm5088
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.CopyDatabaseFile Method (Access)
+# DoCmd.CopyDatabaseFile method (Access)
 
 Copies the database connected to the current project to a Microsoft SQL Server database file for export.
 
 
 ## Syntax
 
- _expression_. `CopyDatabaseFile`( ` _DatabaseFileName_`, ` _OverwriteExistingFile_`, ` _DisconnectAllUsers_` )
+_expression_. `CopyDatabaseFile`( ` _DatabaseFileName_`, ` _OverwriteExistingFile_`, ` _DisconnectAllUsers_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DatabaseFileName_|Required|**Variant**|The name of the file (and path) to which the current database is copied. If no path is specified, the current directory is used.|
 | _OverwriteExistingFile_|Optional|**Variant**|Determines whether Microsoft Access overwrites the file specified by  _DatabaseFileName_.  **True** to overwrite the existing file. If the file doesn't already exist, this argument is ignored|

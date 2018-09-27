@@ -1,5 +1,5 @@
 ---
-title: Line.VerticalAnchor Property (Access)
+title: Line.VerticalAnchor property (Access)
 keywords: vbaac10.chm10351
 f1_keywords:
 - vbaac10.chm10351
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.VerticalAnchor Property (Access)
+# Line.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified line is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Label.RightPadding Property (Access)
+title: Label.RightPadding property (Access)
 keywords: vbaac10.chm10247
 f1_keywords:
 - vbaac10.chm10247
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.RightPadding Property (Access)
+# Label.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the label and its right gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## See also

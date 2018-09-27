@@ -27,11 +27,11 @@ Converts a measurement from points to inches (1 inch = 72 points). Returns the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
 
-### Return Value
+### Return value
 
 Single
 

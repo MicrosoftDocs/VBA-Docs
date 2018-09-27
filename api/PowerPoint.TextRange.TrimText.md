@@ -23,7 +23,7 @@ Returns a  **TextRange** object that represents the specified text minus any tra
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return Value
+### Return value
 
 TextRange
 

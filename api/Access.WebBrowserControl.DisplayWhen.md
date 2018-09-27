@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.DisplayWhen Property (Access)
+title: WebBrowserControl.DisplayWhen property (Access)
 keywords: vbaac10.chm14360
 f1_keywords:
 - vbaac10.chm14360
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.DisplayWhen Property (Access)
+# WebBrowserControl.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayWhen`
+_expression_. `DisplayWhen`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

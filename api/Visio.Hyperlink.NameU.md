@@ -23,7 +23,7 @@ Specifies the universal name of a  **Hyperlink** object. Read/write.
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

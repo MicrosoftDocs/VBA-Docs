@@ -1,5 +1,5 @@
 ---
-title: Form.Hwnd Property (Access)
+title: Form.Hwnd property (Access)
 keywords: vbaac10.chm13408
 f1_keywords:
 - vbaac10.chm13408
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Hwnd Property (Access)
+# Form.Hwnd property (Access)
 
 You can use the  **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Microsoft Windows to the current window. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Hwnd`
+_expression_. `Hwnd`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Contains constants that specify how to merge data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAppend**|3|Append the data.|
 |**pjDoNotMerge**|0|Do not merge.|

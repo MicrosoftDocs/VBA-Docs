@@ -27,7 +27,7 @@ Returns the future value of an investment based on periodic, constant payments a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Rate - the interest rate per period.|
 | _Arg2_|Required| **Double**|Nper - the total number of payment periods in an annuity.|
@@ -35,7 +35,7 @@ Returns the future value of an investment based on periodic, constant payments a
 | _Arg4_|Optional| **Variant**|Pv - the present value, or the lump-sum amount that a series of future payments is worth right now. If pv is omitted, it is assumed to be 0 (zero), and you must include the pmt argument.|
 | _Arg5_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due. If type is omitted, it is assumed to be 0.|
 
-### Return Value
+### Return value
 
 Double
 

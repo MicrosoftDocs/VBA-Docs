@@ -1,5 +1,5 @@
 ---
-title: AcTransformXMLScriptOption Enumeration (Access)
+title: AcTransformXMLScriptOption enumeration (Access)
 keywords: vbaac10.chm13252
 f1_keywords:
 - vbaac10.chm13252
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcTransformXMLScriptOption Enumeration (Access)
+# AcTransformXMLScriptOption enumeration (Access)
 
 Used with the [TransformXML](Access.Application.TransformXML.md) method to specify the action taken if the XSL file contains scripting code.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDisableScript**|2|The script is disabled.|
 |**acEnableScript**|0|The script is enabled.|

@@ -23,7 +23,7 @@ Returns a value that represents the distance, in points, from the top edge of th
  _expression_ A variable that represents a [Point](Excel.Point(Graph object).md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

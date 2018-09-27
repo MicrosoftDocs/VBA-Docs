@@ -23,7 +23,7 @@ Returns or sets a  **PbTextDirection** constant indicating the direction in whic
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return Value
+### Return value
 
 PbTextDirection
 

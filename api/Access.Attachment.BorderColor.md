@@ -1,5 +1,5 @@
 ---
-title: Attachment.BorderColor Property (Access)
+title: Attachment.BorderColor property (Access)
 keywords: vbaac10.chm13929
 f1_keywords:
 - vbaac10.chm13929
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BorderColor Property (Access)
+# Attachment.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

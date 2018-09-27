@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.IsVisible Property (Access)
+title: ObjectFrame.IsVisible property (Access)
 keywords: vbaac10.chm11612
 f1_keywords:
 - vbaac10.chm11612
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.IsVisible Property (Access)
+# ObjectFrame.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

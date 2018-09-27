@@ -1,5 +1,5 @@
 ---
-title: Section.EventProcPrefix Property (Access)
+title: Section.EventProcPrefix property (Access)
 keywords: vbaac10.chm12190
 f1_keywords:
 - vbaac10.chm12190
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.EventProcPrefix Property (Access)
+# Section.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

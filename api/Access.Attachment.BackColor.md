@@ -1,5 +1,5 @@
 ---
-title: Attachment.BackColor Property (Access)
+title: Attachment.BackColor property (Access)
 keywords: vbaac10.chm13925
 f1_keywords:
 - vbaac10.chm13925
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BackColor Property (Access)
+# Attachment.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

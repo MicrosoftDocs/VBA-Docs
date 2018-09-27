@@ -23,7 +23,7 @@ Determines whether a menu item appears at the beginning of a group of items on t
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

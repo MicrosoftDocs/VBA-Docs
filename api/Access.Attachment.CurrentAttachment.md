@@ -1,5 +1,5 @@
 ---
-title: Attachment.CurrentAttachment Property (Access)
+title: Attachment.CurrentAttachment property (Access)
 keywords: vbaac10.chm13980
 f1_keywords:
 - vbaac10.chm13980
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.CurrentAttachment Property (Access)
+# Attachment.CurrentAttachment property (Access)
 
 Gets the index number of the file that has the focus in the  **Attachment** control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `CurrentAttachment`
+_expression_. `CurrentAttachment`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## See also

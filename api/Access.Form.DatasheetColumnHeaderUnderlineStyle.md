@@ -1,5 +1,5 @@
 ---
-title: Form.DatasheetColumnHeaderUnderlineStyle Property (Access)
+title: Form.DatasheetColumnHeaderUnderlineStyle property (Access)
 keywords: vbaac10.chm13513
 f1_keywords:
 - vbaac10.chm13513
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.DatasheetColumnHeaderUnderlineStyle Property (Access)
+# Form.DatasheetColumnHeaderUnderlineStyle property (Access)
 
 Returns or sets a  **Byte** indicating the line style to use for the bottom edge of the column headers on the specified datasheet. Read/write.
 
 
 ## Syntax
 
- _expression_. `DatasheetColumnHeaderUnderlineStyle`
+_expression_. `DatasheetColumnHeaderUnderlineStyle`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

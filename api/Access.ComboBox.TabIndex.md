@@ -1,5 +1,5 @@
 ---
-title: ComboBox.TabIndex Property (Access)
+title: ComboBox.TabIndex property (Access)
 keywords: vbaac10.chm11399
 f1_keywords:
 - vbaac10.chm11399
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.TabIndex Property (Access)
+# ComboBox.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `TabIndex`
+_expression_. `TabIndex`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

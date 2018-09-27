@@ -27,7 +27,7 @@ The  **DrillTo** method supports drilling to a specified PivotField from another
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotFieldName_|Required| **String**|The name of the  **PivotField** to drill to.|
 

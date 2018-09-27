@@ -27,7 +27,7 @@ Saves the specified page in design mode in the inspector to the specified file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required| **Object**|The page displaying the form region in the inspector.|
 | _FileName_|Required| **String**|The full local file path to an Outlook Form Storage (.OFS) file that the form region is being saved to. |

@@ -23,7 +23,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape to w
  _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
-### Return Value
+### Return value
 
 Shape
 

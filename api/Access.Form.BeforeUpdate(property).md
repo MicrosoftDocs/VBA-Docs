@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeUpdate Property (Access)
+title: Form.BeforeUpdate property (Access)
 keywords: vbaac10.chm13434
 f1_keywords:
 - vbaac10.chm13434
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeUpdate Property (Access)
+# Form.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

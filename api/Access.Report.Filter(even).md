@@ -1,5 +1,5 @@
 ---
-title: Report.Filter Event (Access)
+title: Report.Filter event (Access)
 keywords: vbaac10.chm13898
 f1_keywords:
 - vbaac10.chm13898
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Filter Event (Access)
+# Report.Filter event (Access)
 
 Occurs when the user opens a filter window by clicking  **Advanced Filter/Sort**.
 
 
 ## Syntax
 
- _expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
+_expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines whether to open the filter window. Setting the  _Cancel_ argument to **True** (?1) prevents the filter window from opening. You can also use the **CancelEvent** method of the **DoCmd** object to cancel opening the filter window.|
 | _FilterType_|Required|**Integer**|The filter window the user is trying to open. The  _FilterType_ argument can be **acFilterAdvanced**.|

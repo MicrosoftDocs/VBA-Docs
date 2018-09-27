@@ -27,12 +27,12 @@ Parses a range of data and breaks it into multiple cells. Distributes the conten
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParseLine_|Optional| **Variant**|A string that contains left and right brackets to indicate where the cells should be split.|
 | _Destination_|Optional| **Variant**|A [Range](Excel.Range(object).md) object that represents the upper-left corner of the destination range for the parsed data. If this argument is omitted, Microsoft Excel parses in place.|
 
-### Return Value
+### Return value
 
 Variant
 

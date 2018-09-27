@@ -23,7 +23,7 @@ Returns the  **[PivotFields](Excel.PivotFields.md)** collection. This collection
  _expression_ An expression that returns a [CubeField](Excel.CubeField.md) object.
 
 
-### Return Value
+### Return value
 
 PivotFields
 

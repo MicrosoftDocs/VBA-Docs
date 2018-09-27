@@ -30,13 +30,13 @@ Adds a link to the list of links in a shared workspace.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _URL_|Required|**String**|The address of the Web site to which a link is being added.|
 | _Description_|Optional|**String**|Description of the link.|
 | _Notes_|Optional|**String**|Notes about the link.|
 
-### Return Value
+### Return value
 
 SharedWorkspaceLink
 

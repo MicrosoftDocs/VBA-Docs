@@ -1,5 +1,5 @@
 ---
-title: Form.ServerFilter Property (Access)
+title: Form.ServerFilter property (Access)
 keywords: vbaac10.chm13482
 f1_keywords:
 - vbaac10.chm13482
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ServerFilter Property (Access)
+# Form.ServerFilter property (Access)
 
 You can use the  **ServerFilter** property to specify a subset of records to be displayed when a server filter is applied to a form within a Microsoft Access project (.adp) or database. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ServerFilter`
+_expression_. `ServerFilter`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

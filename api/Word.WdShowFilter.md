@@ -14,7 +14,7 @@ Specifies the styles and formatting to display in the  **Styles and Formatting**
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdShowFilterFormattingAvailable**|4|All formatting available.|
 | **wdShowFilterFormattingInUse**|3|All formatting in use.|

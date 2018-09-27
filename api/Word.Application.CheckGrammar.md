@@ -27,11 +27,11 @@ Checks a string for grammatical errors. Returns a  **Boolean** to indicate wheth
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string you want to check for grammatical errors.|
 
-### Return Value
+### Return value
 
 Boolean
 

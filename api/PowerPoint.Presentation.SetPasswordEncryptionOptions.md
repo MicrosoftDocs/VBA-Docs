@@ -27,7 +27,7 @@ Sets the options Microsoft PowerPoint uses for encrypting presentations with pas
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PasswordEncryptionProvider_|Required|**String**|The name of the encryption provider.|
 | _PasswordEncryptionAlgorithm_|Required|**String**|The name of the encryption algorithm. PowerPoint supports stream-encrypted algorithms.|

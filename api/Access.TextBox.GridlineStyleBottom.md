@@ -1,5 +1,5 @@
 ---
-title: TextBox.GridlineStyleBottom Property (Access)
+title: TextBox.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11159
 f1_keywords:
 - vbaac10.chm11159
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GridlineStyleBottom Property (Access)
+# TextBox.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

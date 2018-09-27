@@ -27,7 +27,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents a range at
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowIndex_|Required| **Variant**|The index number of the cell you want to access, in order from left to right, then down.<p>``` Range.Item(1)``` returns the upper-left cell in the range.</p><p>``` Range.Item(2) ``` returns the cell immediately to the right of the upper-left cell.</p>|
 | _ColumnIndex_|Optional| **Variant**|A number or string that indicates the column number of the cell you want to access, starting with either 1 or "A" for the first column in the range.|

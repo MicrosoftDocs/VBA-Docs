@@ -24,12 +24,12 @@ Occurs when a new assignment is created.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project where the assignment was just created.|
 | _ID_|Required|**Long**|The ID of the assignment that was just created.|
 
-### Return Value
+### Return value
 
 nothing
 

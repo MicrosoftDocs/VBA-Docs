@@ -23,7 +23,7 @@ Brings the object to the front of the z-order.
  _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

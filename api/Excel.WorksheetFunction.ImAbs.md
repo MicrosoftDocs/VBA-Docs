@@ -27,11 +27,11 @@ Returns the absolute value (modulus) of a complex number in x + yi or x + yj tex
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the absolute value.|
 
-### Return Value
+### Return value
 
 String
 

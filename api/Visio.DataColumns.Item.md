@@ -30,11 +30,11 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _IndexOrName_|Required| **Variant**|The index (as a  **Long**) or the name (as a **String**) of the data column to retrieve.|
 
-### Return Value
+### Return value
 
 DataColumn
 

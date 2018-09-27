@@ -14,7 +14,7 @@ Contains constants that specify the project type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjProjectTypeBasicProjectSite**|8|Project type is a basic project site in SharePoint.|
 |**pjProjectTypeEnterpriseCheckedOut**|2|Project type is enterprise checked out.|

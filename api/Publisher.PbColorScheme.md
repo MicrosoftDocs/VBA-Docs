@@ -17,7 +17,7 @@ Represents a color scheme returned by the  **Item** property. It is a set of coo
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbColorSchemeAlpine**|-1|Alpine|
 | **pbColorSchemeAqua**|-2|Aqua|

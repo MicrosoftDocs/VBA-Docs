@@ -27,7 +27,7 @@ Adds the specified Microsoft Outlook item to the selection in the active explore
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item to add to the selection in the active explorer.|
 

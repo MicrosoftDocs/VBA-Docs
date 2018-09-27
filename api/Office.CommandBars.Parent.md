@@ -26,7 +26,7 @@ Gets the  **Parent** object for the **CommandBars** object. Read-only.
  _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

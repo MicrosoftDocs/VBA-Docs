@@ -27,7 +27,7 @@ Adds a new file type to a file search.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileType_|Required|**MsoFileType**|Specifies the type of file for which to search.|
 

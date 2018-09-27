@@ -1,5 +1,5 @@
 ---
-title: Form.Query Property (Access)
+title: Form.Query property (Access)
 keywords: vbaac10.chm13539,vbaac10.chm5103
 f1_keywords:
 - vbaac10.chm13539,vbaac10.chm5103
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Query Property (Access)
+# Form.Query property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[Query](Access.Form.Query(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `Query`
+_expression_. `Query`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

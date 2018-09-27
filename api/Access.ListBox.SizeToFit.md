@@ -1,5 +1,5 @@
 ---
-title: ListBox.SizeToFit Method (Access)
+title: ListBox.SizeToFit method (Access)
 keywords: vbaac10.chm11211
 f1_keywords:
 - vbaac10.chm11211
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.SizeToFit Method (Access)
+# ListBox.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

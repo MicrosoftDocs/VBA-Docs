@@ -1,5 +1,5 @@
 ---
-title: Image.SizeToFit Method (Access)
+title: Image.SizeToFit method (Access)
 keywords: vbaac10.chm10358
 f1_keywords:
 - vbaac10.chm10358
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.SizeToFit Method (Access)
+# Image.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

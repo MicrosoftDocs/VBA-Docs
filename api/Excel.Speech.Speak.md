@@ -27,7 +27,7 @@ Microsoft Excel plays back the text string that is passed as an argument.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The text to be spoken.|
 | _SpeakAsync_|Optional| **Variant**| **True** will cause the _Text_ to be spoken asynchronously (the method will not wait of the Text to be spoken). **False** will cause the _Text_ to be spoken synchronously (the method waits for the _Text_ to be spoken before continuing). The default is **False** .|

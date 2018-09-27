@@ -27,11 +27,11 @@ Redoes the last action that was undone (reverses the  **Undo** method). Returns 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of actions to be redone.|
 
-### Return Value
+### Return value
 
 Boolean
 

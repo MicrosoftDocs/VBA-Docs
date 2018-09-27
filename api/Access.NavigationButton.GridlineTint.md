@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineTint Property (Access)
+title: NavigationButton.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineTint Property (Access)
+# NavigationButton.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineTint`
+_expression_. `GridlineTint`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

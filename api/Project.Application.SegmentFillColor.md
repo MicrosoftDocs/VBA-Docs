@@ -27,11 +27,11 @@ Sets the fill color for the assignment segments of a selected task in the Team P
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Color_|Required|**Long**|Fill color of the assignment segments. The color is a hexadecimal RGB value, where red is the last byte.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

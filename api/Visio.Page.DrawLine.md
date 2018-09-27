@@ -27,14 +27,14 @@ Adds a line to the  **Shapes** collection of a page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xBegin_|Required| **Double**|The x-coordinate of the line's begin point.|
 | _yBegin_|Required| **Double**|The y-coordinate of the line's begin point.|
 | _xEnd_|Required| **Double**|The x-coordinate of the line's endpoint.|
 | _yEnd_|Required| **Double**|The y-coordinate of the line's endpoint.|
 
-### Return Value
+### Return value
 
 Shape
 

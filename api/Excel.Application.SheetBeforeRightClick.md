@@ -27,7 +27,7 @@ Occurs when any worksheet is right-clicked, before the default right-click actio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|A  **[Worksheet](Excel.Worksheet.md)** object that represents the sheet.|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurred.|

@@ -23,7 +23,7 @@ Gets or sets the type of a menu item. Read/write.
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

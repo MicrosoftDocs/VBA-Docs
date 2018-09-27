@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.GridlineStyleTop Property (Access)
+title: EmptyCell.GridlineStyleTop property (Access)
 keywords: vbaac10.chm14332
 f1_keywords:
 - vbaac10.chm14332
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.GridlineStyleTop Property (Access)
+# EmptyCell.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Sets the list type of the specified  **ParagraphFormat** object. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Value|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
 |BulletText|Optional| **String**| **String** that represents the text of the list bullet.|

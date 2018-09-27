@@ -27,12 +27,12 @@ Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineG
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **XlSparkType**|The type of sparkline.|
 | _SourceData_|Required| **String**|Represents the range to use to create the sparkline.|
 
-### Return Value
+### Return value
 
 SparklineGroup
 

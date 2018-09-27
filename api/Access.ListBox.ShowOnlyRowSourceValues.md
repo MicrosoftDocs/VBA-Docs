@@ -1,5 +1,5 @@
 ---
-title: ListBox.ShowOnlyRowSourceValues Property (Access)
+title: ListBox.ShowOnlyRowSourceValues property (Access)
 keywords: vbaac10.chm11339
 f1_keywords:
 - vbaac10.chm11339
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ShowOnlyRowSourceValues Property (Access)
+# ListBox.ShowOnlyRowSourceValues property (Access)
 
 Gets or sets whether the list box can display values that aren't specified by the  **RowSource** property. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ShowOnlyRowSourceValues`
+_expression_. `ShowOnlyRowSourceValues`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## See also

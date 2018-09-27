@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.Path Property (Access)
+title: CurrentProject.Path property (Access)
 keywords: vbaac10.chm12718
 f1_keywords:
 - vbaac10.chm12718
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.Path Property (Access)
+# CurrentProject.Path property (Access)
 
 You can use the  **Path** property to determine the location where data is stored for a Microsoft Access project (.adp) or Microsoft Access database. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Path`
+_expression_. `Path`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

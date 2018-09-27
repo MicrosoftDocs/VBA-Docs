@@ -23,7 +23,7 @@ Gets the instance handle of the  **[InvisibleApp](Visio.InvisibleApp.md)** objec
  _expression_ An expression that returns an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
  **Int64**
 

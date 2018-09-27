@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Application Property (Access)
+title: ComboBox.Application property (Access)
 keywords: vbaac10.chm11356
 f1_keywords:
 - vbaac10.chm11356
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Application Property (Access)
+# ComboBox.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

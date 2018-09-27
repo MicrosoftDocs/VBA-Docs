@@ -1,5 +1,5 @@
 ---
-title: OptionButton.DefaultValue Property (Access)
+title: OptionButton.DefaultValue property (Access)
 keywords: vbaac10.chm10570
 f1_keywords:
 - vbaac10.chm10570
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.DefaultValue Property (Access)
+# OptionButton.DefaultValue property (Access)
 
 Specifies a value that is automatically entered in a field when a new record is created. For example, in an Addresses table you can set the default value for the City field to New York. When users add a record to the table, they can either accept this value or enter the name of a different city. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `DefaultValue`
+_expression_. `DefaultValue`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

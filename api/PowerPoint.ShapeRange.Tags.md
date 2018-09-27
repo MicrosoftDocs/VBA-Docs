@@ -23,7 +23,7 @@ Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for th
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 Tags
 

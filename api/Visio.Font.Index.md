@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Font** object in the **Fonts** collection. Rea
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

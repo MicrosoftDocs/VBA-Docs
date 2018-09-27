@@ -23,7 +23,7 @@ Toggles calculation  **Change Highlighting** on or off.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

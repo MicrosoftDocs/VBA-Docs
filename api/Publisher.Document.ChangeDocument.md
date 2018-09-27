@@ -27,7 +27,7 @@ Changes the current publication to one that uses the wizard, and optionally the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Wizard|Required| **PbWizard**|The type of wizard. See Remarks for possible values.|
 |Design|Optional| **Long**|The design type.|

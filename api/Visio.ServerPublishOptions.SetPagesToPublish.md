@@ -27,13 +27,13 @@ Specifies the pages to publish to a server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PublishPages_|Required| **[VisPublishPages](Visio.VisPublishPages.md)**|Indicates whether all pages or selected pages are to be published. See Remarks for possible values.|
 | _NamesArray()_|Required| **String**|The names of the pages to be published, if  _PublishPages_ is **visPublishPageSelect** .|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Indicates whether universal or local page names are specified in  _NamesArray_. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

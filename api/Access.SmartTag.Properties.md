@@ -1,5 +1,5 @@
 ---
-title: SmartTag.Properties Property (Access)
+title: SmartTag.Properties property (Access)
 keywords: vbaac10.chm13321
 f1_keywords:
 - vbaac10.chm13321
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTag.Properties Property (Access)
+# SmartTag.Properties property (Access)
 
 Returns a  **SmartTagProperties** collection that represents the collection of properties for a particular smart tag. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
+_expression_ A variable that represents a [SmartTag](Access.SmartTag.md) object.
 
 
 ## See also

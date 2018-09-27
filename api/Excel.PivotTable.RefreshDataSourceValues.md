@@ -23,7 +23,7 @@ Retrieves the current values from the data source for all edited cells in a Pivo
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

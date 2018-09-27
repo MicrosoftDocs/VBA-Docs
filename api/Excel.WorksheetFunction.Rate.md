@@ -27,7 +27,7 @@ Returns the interest rate per period of an annuity. RATE is calculated by iterat
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Nper - the total number of payment periods in an annuity.|
 | _Arg2_|Required| **Double**|Pmt - the payment made each period and cannot change over the life of the annuity. Typically, pmt includes principal and interest but no other fees or taxes. If pmt is omitted, you must include the fv argument.|
@@ -36,7 +36,7 @@ Returns the interest rate per period of an annuity. RATE is calculated by iterat
 | _Arg5_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due.|
 | _Arg6_|Optional| **Variant**|Guess - your guess for what the rate will be.|
 
-### Return Value
+### Return value
 
 Double
 

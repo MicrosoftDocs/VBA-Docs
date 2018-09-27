@@ -27,7 +27,7 @@ Restores a previously deleted placeholder on a slide. Returns a  **[Shape](Power
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**[PpPlaceholderType](PowerPoint.PpPlaceholderType.md)**|The type of placeholder. Placeholders of type  **ppPlaceholderVerticalBody** or **ppPlaceholderVerticalTitle** are found only on slides of layout type **ppLayoutVerticalText**, **ppLayoutClipArtAndVerticalText**, **ppLayoutVerticalTitleAndText**, or **ppLayoutVerticalTitleAndTextOverChart**. You cannot create slides with any of these layouts from the user interface; you must create them programmatically by using the **Add** method or by setting the **Layout** property of an existing slide.|
 | _Left_|Optional|**Single**|The position (in points) of the upper-left corner of the placeholder relative to the upper-left corner of the document.|
@@ -35,7 +35,7 @@ Restores a previously deleted placeholder on a slide. Returns a  **[Shape](Power
 | _Width_|Optional|**Single**|The width of the placeholder, in points.|
 | _Height_|Optional|**Single**|The height of the placeholder, in points.|
 
-### Return Value
+### Return value
 
 Shape
 

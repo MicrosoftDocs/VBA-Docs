@@ -23,7 +23,7 @@ Determines the primary list direction of the container shapes. Read/write.
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisListDirection](Visio.VisListDirection.md)**
 

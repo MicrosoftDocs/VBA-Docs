@@ -1,5 +1,5 @@
 ---
-title: AcSpreadSheetType Enumeration (Access)
+title: AcSpreadSheetType enumeration (Access)
 keywords: vbaac10.chm10032
 f1_keywords:
 - vbaac10.chm10032
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSpreadSheetType Enumeration (Access)
+# AcSpreadSheetType enumeration (Access)
 
 Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method to specify the type of spreadsheet to import from, export to, or link to.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSpreadsheetTypeExcel3**|0|Microsoft Excel 3.0 format|
 |**acSpreadsheetTypeExcel4**|6|Microsoft Excel 4.0 format|

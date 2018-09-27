@@ -27,7 +27,7 @@ Sets the name of the font script to use in a text range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Script|Required| **PbFontScriptType**|The script name.|
 |FontName|Required| **String**|The font name.|

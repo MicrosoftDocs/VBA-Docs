@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Tag Property (Access)
+title: CommandButton.Tag property (Access)
 keywords: vbaac10.chm10489
 f1_keywords:
 - vbaac10.chm10489
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Tag Property (Access)
+# CommandButton.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

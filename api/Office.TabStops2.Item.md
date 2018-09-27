@@ -24,11 +24,11 @@ Gets an individual object from the  **TabStops2** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The number of the object to return.|
 
-### Return Value
+### Return value
 
 TabStop2
 

@@ -14,7 +14,7 @@ Specifies the part of the PivotTable report that contains the upper-left corner 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlColumnHeader**|-4110|Column header|
 | **xlColumnItem**|5|Column item|

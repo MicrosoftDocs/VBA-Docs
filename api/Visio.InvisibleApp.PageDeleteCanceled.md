@@ -24,7 +24,7 @@ Private Sub  _expression_ _'PageDeleteCanceled'(**_ByVal Page As [IVPAGE]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Page_|Required| **[IVPAGE]**|The page that was going to be deleted.|
 

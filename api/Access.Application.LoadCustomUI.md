@@ -1,5 +1,5 @@
 ---
-title: Application.LoadCustomUI Method (Access)
+title: Application.LoadCustomUI method (Access)
 keywords: vbaac10.chm12616
 f1_keywords:
 - vbaac10.chm12616
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LoadCustomUI Method (Access)
+# Application.LoadCustomUI method (Access)
 
 Loads XML markup that represents a customized ribbon.
 
 
 ## Syntax
 
- _expression_. `LoadCustomUI`( ` _CustomUIName_`, ` _CustomUIXML_` )
+_expression_. `LoadCustomUI`( ` _CustomUIName_`, ` _CustomUIXML_` )
 
- _expression_ An expression that returns a [Application](Access.Application.md) object.
+_expression_ An expression that returns a [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CustomUIName_|Required|**String**|The name that will be used to identify the customized ribbon.|
 | _CustomUIXML_|Required|**String**|The XML markup code that defines the customized ribbon.|

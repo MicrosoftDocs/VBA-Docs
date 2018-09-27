@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Application.DSum Method (Access)](http://msdn.microsoft.com/library/53a3cfd4-a5e3-d0c5-1727-070c99d2b984%28Office.15%29.aspx)
+[Application.DSum method (Access)](http://msdn.microsoft.com/library/53a3cfd4-a5e3-d0c5-1727-070c99d2b984%28Office.15%29.aspx)
 

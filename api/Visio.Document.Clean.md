@@ -27,7 +27,7 @@ Examines, reports, and repairs selected conditions in a document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nTargets_|Optional| **Variant**|Indicates which parts of the document to examine. See Remarks for possible values.|
 | _nActions_|Optional| **Variant**|Indicates which conditions to detect. See Remarks for possible values.|
@@ -37,7 +37,7 @@ Examines, reports, and repairs selected conditions in a document.
 | _bLogFileName_|Optional| **Variant**|Reserved for future use.|
 | _nReserved_|Optional| **Variant**|Reserved for future use.|
 
-### Return Value
+### Return value
 
 Nothing
 

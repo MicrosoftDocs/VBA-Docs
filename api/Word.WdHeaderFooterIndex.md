@@ -14,7 +14,7 @@ Returns the specified header or footer in a document or section.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdHeaderFooterEvenPages**|3|Returns all headers or footers on even-numbered pages.|
 | **wdHeaderFooterFirstPage**|2|Returns the first header or footer in a document or section.|

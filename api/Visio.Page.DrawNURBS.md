@@ -27,7 +27,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _degree_|Required| **Integer**|The spline's degree; an integer between 1 and 25.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|
@@ -35,7 +35,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
 | _knots()_|Required| **Double**|An array of knots.|
 | _weights_|Optional| **Variant**|An array of weights.|
 
-### Return Value
+### Return value
 
 Shape
 

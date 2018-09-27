@@ -1,5 +1,5 @@
 ---
-title: SubForm.SourceObject Property (Access)
+title: SubForm.SourceObject property (Access)
 keywords: vbaac10.chm11926
 f1_keywords:
 - vbaac10.chm11926
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.SourceObject Property (Access)
+# SubForm.SourceObject property (Access)
 
 You can use the  **SourceObject** property to identify the form or report that is the source of the subform or subreport on a form or report. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `SourceObject`
+_expression_. `SourceObject`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

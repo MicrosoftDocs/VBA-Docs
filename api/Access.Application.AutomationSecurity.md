@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (Access)
+title: Application.AutomationSecurity property (Access)
 keywords: vbaac10.chm12611
 f1_keywords:
 - vbaac10.chm12611
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutomationSecurity Property (Access)
+# Application.AutomationSecurity property (Access)
 
 Returns or sets an **MsoAutomationSecurity** constant that represents the security mode that Microsoft Access uses when it is programmatically opening files. Read/write. .
 
 
 ## Syntax
 
- _expression_. `AutomationSecurity`
+_expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

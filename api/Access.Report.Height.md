@@ -1,5 +1,5 @@
 ---
-title: Report.Height Property (Access)
+title: Report.Height property (Access)
 keywords: vbaac10.chm13729
 f1_keywords:
 - vbaac10.chm13729
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Height Property (Access)
+# Report.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

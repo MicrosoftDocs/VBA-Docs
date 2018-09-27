@@ -23,7 +23,7 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that represents the ma
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Return Value
+### Return value
 
 FormatColor
 

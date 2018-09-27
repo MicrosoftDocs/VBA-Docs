@@ -17,7 +17,7 @@ Indicates the save mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDiscard**|1|Changes to the document are discarded.|
 | **olPromptForSave**|2|User is prompted to save documents.|

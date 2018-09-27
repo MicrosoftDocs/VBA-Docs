@@ -24,11 +24,11 @@ Indicates which document to save as a Web page.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |docObj |Required| **Document**|An Automation object that supports the  **IVDocument** interface.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

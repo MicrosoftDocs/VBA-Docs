@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.FitToScreen Property (Access)](http://msdn.microsoft.com/library/5ef37719-ff3b-1f3d-1521-423633ceccc0%28Office.15%29.aspx)
+[Form.FitToScreen property (Access)](http://msdn.microsoft.com/library/5ef37719-ff3b-1f3d-1521-423633ceccc0%28Office.15%29.aspx)
 

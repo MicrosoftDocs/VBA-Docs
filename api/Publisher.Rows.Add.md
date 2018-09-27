@@ -27,11 +27,11 @@ Adds a new  **Row** object to the specified **Rows** collection and returns the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |BeforeRow|Optional| **Long**|The number of the row before which to insert the new row. If this argument is omitted, the new row is added after the existing rows. An error occurs if the value of this argument does not correspond to an existing row in the table.|
 
-### Return Value
+### Return value
 
 Row
 

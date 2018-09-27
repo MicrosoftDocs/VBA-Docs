@@ -27,11 +27,11 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ZOrderCmd|Required| **MsoZOrderCmd**|Specifies where to move the specified shape relative to the other shapes.|
 
-### Return Value
+### Return value
 
 Nothing
 

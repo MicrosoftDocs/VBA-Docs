@@ -1,5 +1,5 @@
 ---
-title: References.ItemRemoved Event (Access)
+title: References.ItemRemoved event (Access)
 keywords: vbaac10.chm12647
 f1_keywords:
 - vbaac10.chm12647
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# References.ItemRemoved Event (Access)
+# References.ItemRemoved event (Access)
 
 The  **ItemRemoved** event occurs when a reference is removed from the project.
 
 
 ## Syntax
 
- _expression_. `ItemRemoved`( ` _Reference_`, )
+_expression_. `ItemRemoved`( ` _Reference_`, )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Reference_|Required|**Reference**|The reference that was removed from the project.|
 

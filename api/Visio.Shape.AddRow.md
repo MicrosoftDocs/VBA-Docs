@@ -27,13 +27,13 @@ Adds a row to a ShapeSheet section at a specified position.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section in which to add the row.|
 | _Row_|Required| **Integer**| The position at which to add the row.|
 | _RowTag_|Required| **Integer**|The type of row to add.|
 
-### Return Value
+### Return value
 
 Integer
 

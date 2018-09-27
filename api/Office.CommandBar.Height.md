@@ -26,7 +26,7 @@ Gets or sets the height of a  **CommandBar**. Read/write.
  _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

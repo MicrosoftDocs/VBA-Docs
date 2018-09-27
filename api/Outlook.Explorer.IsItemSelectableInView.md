@@ -27,11 +27,11 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that is being considered for selection.|
 
-### Return Value
+### Return value
 
 A  **Boolean** value that indicates whether the specified item can be selected in the current view.
 

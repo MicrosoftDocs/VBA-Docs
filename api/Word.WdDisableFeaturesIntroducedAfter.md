@@ -14,7 +14,7 @@ Specifies the version of Microsoft Word for which to disable all features introd
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wd70**|0|Specifies Word for Windows 95, versions 7.0 and 7.0a.|
 | **wd70FE**|1|Specifies Word for Windows 95, versions 7.0 and 7.0a, Asian edition.|

@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

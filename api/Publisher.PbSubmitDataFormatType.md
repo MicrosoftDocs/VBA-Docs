@@ -17,7 +17,7 @@ Represents the format to use when saving Web form data to a file.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbSubmitDataFormatCSV**|3|Saves Web form data to a comma-delimited text file.|
 | **pbSubmitDataFormatHTML**|1|Saves Web form data to an HTML file.|

@@ -14,7 +14,7 @@ Specifies the length of the arrowhead at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlArrowHeadLengthLong**|3|Longest arrowhead.|
 | **xlArrowHeadLengthMedium**|-4138|Medium-length arrowhead.|

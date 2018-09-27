@@ -14,7 +14,7 @@ Contains constants that specify a unit of time.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDay**|7|Day.|
 |**pjHour**|5|Hour.|

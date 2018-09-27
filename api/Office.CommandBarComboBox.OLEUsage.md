@@ -23,7 +23,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarComboBo
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return Value
+### Return value
 
 MsoControlOLEUsage
 

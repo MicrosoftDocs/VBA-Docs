@@ -23,7 +23,7 @@ Represents the type of view. Read-only.
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
-### Return Value
+### Return value
 
 PpViewType
 

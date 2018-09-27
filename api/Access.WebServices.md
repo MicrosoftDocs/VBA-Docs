@@ -1,5 +1,5 @@
 ---
-title: WebServices Object (Access)
+title: WebServices object (Access)
 keywords: vbaac10.chm14550
 f1_keywords:
 - vbaac10.chm14550
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebServices Object (Access)
+# WebServices object (Access)
 
 Represents the collection of Data Services data connections installed in the database.
 

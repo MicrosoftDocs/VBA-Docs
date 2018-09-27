@@ -27,7 +27,7 @@ Deletes the specified style, AutoText entry, toolbar, or macro project item from
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **String**|The file name of the document or template that contains the item you want to delete.|
 | _Name_|Required| **String**|The name of the style, AutoText entry, toolbar, or macro you want to delete.|

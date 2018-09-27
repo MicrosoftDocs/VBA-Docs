@@ -1,5 +1,5 @@
 ---
-title: Control.Dropdown Method (Access)
+title: Control.Dropdown method (Access)
 keywords: vbaac10.chm10135
 f1_keywords:
 - vbaac10.chm10135
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Dropdown Method (Access)
+# Control.Dropdown method (Access)
 
 You can use the  **Dropdown** method to force the list in the specified combo box to drop down.
 
 
 ## Syntax
 
- _expression_. `Dropdown`
+_expression_. `Dropdown`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

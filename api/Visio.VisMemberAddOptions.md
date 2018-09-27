@@ -17,7 +17,7 @@ Specifies whether to expand the container to accomodate the new member(s) or to 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visMemberAddUseResizeSetting**|0|Defer to the setting of the  **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property.|
 | **visMemberAddExpandContainer**|1|Expand the container to fit the incoming shape(s).|

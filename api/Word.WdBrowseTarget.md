@@ -14,7 +14,7 @@ Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Pre
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBrowseComment**|3|Places insertion point before next or previous comment.|
 | **wdBrowseEdit**|10|Places insertion point before next or previous edit.|

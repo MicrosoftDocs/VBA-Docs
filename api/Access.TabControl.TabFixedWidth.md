@@ -1,5 +1,5 @@
 ---
-title: TabControl.TabFixedWidth Property (Access)
+title: TabControl.TabFixedWidth property (Access)
 keywords: vbaac10.chm12089,vbaac10.chm5506
 f1_keywords:
 - vbaac10.chm12089,vbaac10.chm5506
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.TabFixedWidth Property (Access)
+# TabControl.TabFixedWidth property (Access)
 
 You can use the  **TabFixedWidth** property to specify or determine the width of the tabs on a tab control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `TabFixedWidth`
+_expression_. `TabFixedWidth`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

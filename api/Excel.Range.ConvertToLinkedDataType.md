@@ -23,7 +23,7 @@ Attempts to convert all the cells in the range to a Linked data type such as [St
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ServiceID_|Required| **Long**|The ID of the service that will provide the linked entity.|
 | _LanguageCulture_|Required| **String**|A string representing the [LCID](https://msdn.microsoft.com/library/cc233982.aspx) of the language and culture that you would like to use for the linked entity. |

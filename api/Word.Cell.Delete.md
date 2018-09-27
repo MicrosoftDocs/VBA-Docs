@@ -27,7 +27,7 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ShiftCells_|Optional| **Variant**|The direction in which the remaining cells are to be shifted. Can be any  **[WdDeleteCells](Word.WdDeleteCells.md)** constant. If omitted, cells to the right of the last deleted cell are shifted left.|
 

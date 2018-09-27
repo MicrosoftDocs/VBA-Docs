@@ -27,7 +27,7 @@ Adds an item to the list, optionally specifying an index for the new item to app
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ItemText_|Required| **String**|Value to be added to the list in the combo box.|
 | _Index_|Optional| **Long**|A 0-based value that specifies the order of the new item in the list.|

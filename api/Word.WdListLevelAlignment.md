@@ -14,7 +14,7 @@ Specifies the alignment of a list level.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdListLevelAlignCenter**|1|Center-aligned.|
 | **wdListLevelAlignLeft**|0|Left-aligned.|

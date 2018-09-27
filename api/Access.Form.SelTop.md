@@ -1,5 +1,5 @@
 ---
-title: Form.SelTop Property (Access)
+title: Form.SelTop property (Access)
 keywords: vbaac10.chm13470
 f1_keywords:
 - vbaac10.chm13470
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.SelTop Property (Access)
+# Form.SelTop property (Access)
 
 You can use the  **SelTop** property to specify or determine which row (record) is topmost in the current selection rectangle in a table, query, or form datasheet, or which selected record is topmost in a continuous form.Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `SelTop`
+_expression_. `SelTop`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

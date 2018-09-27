@@ -27,12 +27,12 @@ Returns the internal rate of return for a series of cash flows represented by th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Values - an array or a reference to cells that contain numbers for which you want to calculate the internal rate of return.|
 | _Arg2_|Optional| **Variant**|Guess - a number that you guess is close to the result of IRR.|
 
-### Return Value
+### Return value
 
 Double
 

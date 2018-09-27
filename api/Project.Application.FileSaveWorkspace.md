@@ -27,11 +27,11 @@ Saves a list of open files and the current settings in the  **Options** dialog b
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the file to create. If  **Name** is omitted, Project prompts for the file name.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** indicating whether the screen is updated while ma
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

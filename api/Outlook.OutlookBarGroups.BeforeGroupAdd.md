@@ -27,7 +27,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the group is not added to the **Shortcuts** pane.|
 

@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineWidthTop Property (Access)
+title: NavigationControl.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11161
 f1_keywords:
 - vbaac10.chm11161
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineWidthTop Property (Access)
+# NavigationControl.GridlineWidthTop property (Access)
 
 Gets or sets the width of the top gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthTop`
+_expression_. `GridlineWidthTop`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

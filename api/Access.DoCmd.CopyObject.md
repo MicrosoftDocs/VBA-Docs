@@ -1,5 +1,5 @@
 ---
-title: DoCmd.CopyObject Method (Access)
+title: DoCmd.CopyObject method (Access)
 keywords: vbaac10.chm4146
 f1_keywords:
 - vbaac10.chm4146
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.CopyObject Method (Access)
+# DoCmd.CopyObject method (Access)
 
 The **CopyObject** method carries out the CopyObject action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `CopyObject`( ` _DestinationDatabase_`, ` _NewName_`, ` _SourceObjectType_`, ` _SourceObjectName_` )
+_expression_. `CopyObject`( ` _DestinationDatabase_`, ` _NewName_`, ` _SourceObjectType_`, ` _SourceObjectName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DestinationDatabase_|Optional|**Variant**|A string expression that's the valid path and file name for the database you want to copy the object into. To select the current database, leave this argument blank.
  **Note**  In a Microsoft Access project (.adp) you must leave the destinationdatabase argument blank. If you execute Visual Basic code containing the **CopyObject** method in a library database and leave this argument blank, Microsoft Access copies the object into the library database.

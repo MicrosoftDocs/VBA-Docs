@@ -27,7 +27,7 @@ Formats individual boxes in the Network Diagram view (PERT chart), where colors 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Optional|**String**|The name of the project containing  **TaskID** when working with consolidated projects. The default value is the name of the active project.|
 | _TaskID_|Optional|**Long**|The identification number of the task represented by the box to change. The default behavior is to change the boxes that represent one or more selected tasks.|
@@ -41,7 +41,7 @@ Formats individual boxes in the Network Diagram view (PERT chart), where colors 
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the [PjBackgroundPattern](Project.PjBackgroundPattern.md) constants.|
 | _Reset_|Optional|**Boolean**|**True** if the box formatting is reset to the default style as shown in the **Box Styles** dialog box. If **Reset** is **True**, all arguments except **ProjectName** and **TaskID** are ignored.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

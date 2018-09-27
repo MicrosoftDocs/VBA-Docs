@@ -14,7 +14,7 @@ Contains constants that specify the operation to be performed on a box data temp
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDataTemplateCopy**|1|Copy the template.|
 |**pjDataTemplateDelete**|3|Delete the template.|

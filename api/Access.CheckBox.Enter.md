@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Enter Event (Access)
+title: CheckBox.Enter event (Access)
 keywords: vbaac10.chm14122
 f1_keywords:
 - vbaac10.chm14122
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Enter Event (Access)
+# CheckBox.Enter event (Access)
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Enter`
+_expression_. `Enter`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

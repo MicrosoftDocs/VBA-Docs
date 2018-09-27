@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlBeforeStoreUpdate'(**_ContentControl_*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContentControl_|Required| **ContentControl**|The content control being updated.|
 | _Content_|Required| **String**|The content being stored for a control in the document data store. Use this parameter to change the XML data before sending the value to the XML data store.|

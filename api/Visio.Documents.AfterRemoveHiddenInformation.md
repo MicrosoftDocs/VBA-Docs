@@ -27,7 +27,7 @@ Occurs when hidden information is removed from the document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _doc_|Required| **[IVDOCUMENT]**|The document from which hidden information has been removed.|
 

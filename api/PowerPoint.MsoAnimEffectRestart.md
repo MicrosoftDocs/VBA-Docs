@@ -14,7 +14,7 @@ Specifies whether the animation effect restarts after the effect has started onc
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimEffectRestartAlways**|1|Always restarts.|
 |**msoAnimEffectRestartNever**|3|Never restarts.|

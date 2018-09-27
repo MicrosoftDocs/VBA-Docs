@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.ControlTipText Property (Access)
+title: NavigationControl.ControlTipText property (Access)
 keywords: vbaac10.chm11093
 f1_keywords:
 - vbaac10.chm11093
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.ControlTipText Property (Access)
+# NavigationControl.ControlTipText property (Access)
 
 You can use the  **ControlTipText** property to specify the text that appears in a ScreenTip when you hold the mouse pointer over a control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlTipText`
+_expression_. `ControlTipText`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

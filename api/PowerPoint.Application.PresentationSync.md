@@ -27,7 +27,7 @@ Occurs when the local copy of a presentation that is part of a Document Workspac
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation that is being synchronized.|
 | _SyncEventType_|Required|**MsoSyncEventType**|The status of the synchronization.|

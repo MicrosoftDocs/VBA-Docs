@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **FileTypes** collection.
  _expression_ A variable that represents a [FileTypes](./Office.FileTypes.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

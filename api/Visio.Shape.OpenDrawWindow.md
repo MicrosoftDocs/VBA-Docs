@@ -23,7 +23,7 @@ Opens a new drawing window that displays a group.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Window
 

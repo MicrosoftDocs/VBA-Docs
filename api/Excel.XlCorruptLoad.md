@@ -14,7 +14,7 @@ Specifies the processing for a file when it is opened.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlExtractData**|2|Workbook is opened in extract data mode.|
 | **xlNormalLoad**|0|Workbook is opened normally.|

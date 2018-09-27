@@ -23,7 +23,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarCombo
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

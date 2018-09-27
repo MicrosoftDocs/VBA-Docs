@@ -1,5 +1,5 @@
 ---
-title: Control.Layout Property (Access)
+title: Control.Layout property (Access)
 keywords: vbaac10.chm10155
 f1_keywords:
 - vbaac10.chm10155
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Layout Property (Access)
+# Control.Layout property (Access)
 
 Returns the type of layout for the specified control. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## See also

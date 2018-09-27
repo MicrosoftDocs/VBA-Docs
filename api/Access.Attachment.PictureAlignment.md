@@ -1,5 +1,5 @@
 ---
-title: Attachment.PictureAlignment Property (Access)
+title: Attachment.PictureAlignment property (Access)
 keywords: vbaac10.chm13916
 f1_keywords:
 - vbaac10.chm13916
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.PictureAlignment Property (Access)
+# Attachment.PictureAlignment property (Access)
 
 You can use the  **PictureAlignment** property to specify where a background picture will appear in the **Attachment** control. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `PictureAlignment`
+_expression_. `PictureAlignment`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

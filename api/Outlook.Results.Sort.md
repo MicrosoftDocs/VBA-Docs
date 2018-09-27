@@ -27,7 +27,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets (for example, "[CompanyName]"). May not be a user-defined field, and may not be a multi-valued property, such as a category.|
 | _Descending_|Optional| **Variant**| **True** to sort in descending order. The default value is **False** (ascending).|

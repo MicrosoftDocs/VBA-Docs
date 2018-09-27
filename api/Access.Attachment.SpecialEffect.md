@@ -1,5 +1,5 @@
 ---
-title: Attachment.SpecialEffect Property (Access)
+title: Attachment.SpecialEffect property (Access)
 keywords: vbaac10.chm13926
 f1_keywords:
 - vbaac10.chm13926
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.SpecialEffect Property (Access)
+# Attachment.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `SpecialEffect`
+_expression_. `SpecialEffect`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

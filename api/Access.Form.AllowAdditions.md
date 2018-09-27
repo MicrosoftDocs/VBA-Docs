@@ -1,5 +1,5 @@
 ---
-title: Form.AllowAdditions Property (Access)
+title: Form.AllowAdditions property (Access)
 keywords: vbaac10.chm13358
 f1_keywords:
 - vbaac10.chm13358
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AllowAdditions Property (Access)
+# Form.AllowAdditions property (Access)
 
 You can use the  **AllowAdditions** property to specify whether a user can add a record when using a form. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowAdditions`
+_expression_. `AllowAdditions`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

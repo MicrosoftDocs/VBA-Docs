@@ -27,11 +27,11 @@ Undoes the last action or a sequence of actions, which are displayed in the  **U
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of actions to be undone.|
 
-### Return Value
+### Return value
 
 Boolean
 

@@ -27,7 +27,7 @@ Selects the specified object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**MsoTriState**|Specifies whether the selection replaces any previous selection.|
 

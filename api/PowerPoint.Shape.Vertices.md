@@ -23,7 +23,7 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

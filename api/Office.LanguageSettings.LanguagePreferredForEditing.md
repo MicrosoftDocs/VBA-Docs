@@ -27,7 +27,7 @@ Gets  **True** if the value for the **MsoLanguageID** constant has been identifi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lid_|Required|**MsoLanguageID**|Returns one of the  **MsoLanguageID** enumerations.|
 

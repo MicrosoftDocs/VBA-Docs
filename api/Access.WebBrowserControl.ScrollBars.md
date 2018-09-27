@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ScrollBars Property (Access)
+title: WebBrowserControl.ScrollBars property (Access)
 keywords: vbaac10.chm14364
 f1_keywords:
 - vbaac10.chm14364
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ScrollBars Property (Access)
+# WebBrowserControl.ScrollBars property (Access)
 
 You can use the  **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ScrollBars`
+_expression_. `ScrollBars`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

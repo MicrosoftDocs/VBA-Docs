@@ -1,5 +1,5 @@
 ---
-title: Module.Name Property (Access)
+title: Module.Name property (Access)
 keywords: vbaac10.chm12272
 f1_keywords:
 - vbaac10.chm12272
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Name Property (Access)
+# Module.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ## Remarks

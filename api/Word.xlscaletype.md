@@ -12,7 +12,7 @@ Specifies the scale type of the value axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlScaleLinear**|-4132|A linear scale.|
 | **xlScaleLogarithmic**|-4133|A logarithmic scale.|

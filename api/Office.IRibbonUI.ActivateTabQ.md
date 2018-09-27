@@ -25,7 +25,7 @@ Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Use
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**|Specifies the Id of the custom Ribbon tab to be activated.|
 | _Namespace_|Required|**String**|Specifies the namespace of the tab element.|

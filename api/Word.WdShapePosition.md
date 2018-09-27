@@ -14,7 +14,7 @@ Specifies the relative position of the specified shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdShapeBottom**|-999997|At the bottom.|
 | **wdShapeCenter**|-999995|In the center.|

@@ -27,14 +27,14 @@ Adds a rectangle to the  **Shapes** collection of a page, master, or group.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x1_|Required| **Double**|The  _x_-coordinate of one corner of the rectangle's width-height box.|
 | _y1_|Required| **Double**|The  _y_-coordinate of one corner of the rectangle's width-height box.|
 | _x2_|Required| **Double**|The  _x_-coordinate of the other corner of the rectangle's width-height box.|
 | _y2_|Required| **Double**|The  _y_-coordinate of the other corner of the rectangle's width-height box.|
 
-### Return Value
+### Return value
 
 Shape
 

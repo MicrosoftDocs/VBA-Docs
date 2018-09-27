@@ -14,7 +14,7 @@ Indicates the text alignment scheme used for an object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFontAlignAuto**|0|Specifies that the text alignment will be determined by the Office application.|
 |**msoFontAlignBaseline**|3|Specifies that the font is aligned to the baseline of the object.|

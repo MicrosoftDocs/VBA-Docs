@@ -1,5 +1,5 @@
 ---
-title: ListBox.BeforeUpdate Property (Access)
+title: ListBox.BeforeUpdate property (Access)
 keywords: vbaac10.chm11278
 f1_keywords:
 - vbaac10.chm11278
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BeforeUpdate Property (Access)
+# ListBox.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

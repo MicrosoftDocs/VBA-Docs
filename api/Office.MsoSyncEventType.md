@@ -15,7 +15,7 @@ Specifies the return value of a  **Sync** event. In Microsoft Word, used with th
 Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncEventDownloadFailed**|2|Download failed.|
 |**msoSyncEventDownloadInitiated**|0|Download initiated.|

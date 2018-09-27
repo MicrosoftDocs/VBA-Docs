@@ -24,7 +24,7 @@ Unloads the Web browser control and returns to the regular Project interface.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Optional|**Variant**|Window to be activated.|
 

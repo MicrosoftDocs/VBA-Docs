@@ -14,7 +14,7 @@ Specifies the sort order for the specified field or range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAscending**|1|Sorts the specified field in ascending order. This is the default value.|
 | **xlDescending**|2|Sorts the specified field in descending order.|

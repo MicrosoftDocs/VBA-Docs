@@ -1,5 +1,5 @@
 ---
-title: Report.DefaultView Property (Access)
+title: Report.DefaultView property (Access)
 keywords: vbaac10.chm13818
 f1_keywords:
 - vbaac10.chm13818
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DefaultView Property (Access)
+# Report.DefaultView property (Access)
 
 You can use the  **DefaultView** property to specify the opening view of a report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DefaultView`
+_expression_. `DefaultView`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

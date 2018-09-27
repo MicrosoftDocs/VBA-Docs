@@ -1,5 +1,5 @@
 ---
-title: ListBox.BorderThemeColorIndex Property (Access)
+title: ListBox.BorderThemeColorIndex property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.BorderThemeColorIndex Property (Access)
+# ListBox.BorderThemeColorIndex property (Access)
 
 Gets or sets a value that represents a color in the applied color theme associated with the  **BorderColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderThemeColorIndex`
+_expression_. `BorderThemeColorIndex`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

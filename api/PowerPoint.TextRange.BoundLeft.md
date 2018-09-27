@@ -23,7 +23,7 @@ Returns the distance (in points) from the left edge of the text bounding box for
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

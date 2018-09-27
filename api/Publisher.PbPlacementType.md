@@ -17,7 +17,7 @@ Represents the placement of envelopes in the printer tray.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPlacementCenter**|3|Center|
 | **pbPlacementLeft**|1|Left|

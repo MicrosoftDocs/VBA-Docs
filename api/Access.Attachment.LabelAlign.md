@@ -1,5 +1,5 @@
 ---
-title: Attachment.LabelAlign Property (Access)
+title: Attachment.LabelAlign property (Access)
 keywords: vbaac10.chm14007
 f1_keywords:
 - vbaac10.chm14007
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LabelAlign Property (Access)
+# Attachment.LabelAlign property (Access)
 
 The  **LabelAlign** property specifies the text alignment within attached labels on new controls. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `LabelAlign`
+_expression_. `LabelAlign`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

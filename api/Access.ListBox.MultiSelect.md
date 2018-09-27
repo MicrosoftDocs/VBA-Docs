@@ -1,5 +1,5 @@
 ---
-title: ListBox.MultiSelect Property (Access)
+title: ListBox.MultiSelect property (Access)
 keywords: vbaac10.chm11237,vbaac10.chm4432
 f1_keywords:
 - vbaac10.chm11237,vbaac10.chm4432
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.MultiSelect Property (Access)
+# ListBox.MultiSelect property (Access)
 
 You can use the  **MultiSelect** property to specify whether a user can make multiple selections in a list box on a form and how the multiple selections can be made. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `MultiSelect`
+_expression_. `MultiSelect`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

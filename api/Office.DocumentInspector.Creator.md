@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentIns
  _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

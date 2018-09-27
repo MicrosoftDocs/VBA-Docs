@@ -14,7 +14,7 @@ Specifies whether the OLAP field is a hierarchy, set, or measure field.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlHierarchy**|1|OLAP field is a hierarchy.|
 | **xlMeasure**|2|OLAP field is a measure.|

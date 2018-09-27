@@ -27,7 +27,7 @@ Copies a specified document from a server to a local computer for editing.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to check out.|
 

@@ -24,11 +24,11 @@ Gets the count of shape data items (custom properties) assigned to the specified
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the shape that contains the shape data (custom properties).|
 
-### Return Value
+### Return value
 
  **Long**
 

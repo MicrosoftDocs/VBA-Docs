@@ -23,7 +23,7 @@ Adds a new object to a collection.
  _expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) collection.
 
 
-### Return Value
+### Return value
 
 MenuSet
 

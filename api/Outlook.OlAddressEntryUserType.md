@@ -17,7 +17,7 @@ Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)**
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olExchangeAgentAddressEntry**|3|An address entry that is an Exchange agent.|
 | **olExchangeDistributionListAddressEntry**|1|An address entry that is an Exchange distribution list.|

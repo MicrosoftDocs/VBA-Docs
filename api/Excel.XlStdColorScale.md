@@ -14,7 +14,7 @@ Specifies the standard color scale.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **ColorScaleBlackWhite**|3|Black over White.|
 | **ColorScaleGYR**|2|GYR.|

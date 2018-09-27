@@ -27,7 +27,7 @@ Returns an object that represents either a single chart group or a collection of
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The chart group number. If specified, a single  **[ChartGroup](PowerPoint.ChartGroup.md)** object is returned. If omitted, a **[ChartGroups](PowerPoint.ChartGroups.md)** object is returned which contains a collection of every **ChartGroup** object for that chart.|
 

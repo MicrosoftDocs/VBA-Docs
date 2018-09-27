@@ -23,7 +23,7 @@ Returns or sets the range the contains the source data for a single sparkline. R
  _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
-### Return Value
+### Return value
 
  **String**
 

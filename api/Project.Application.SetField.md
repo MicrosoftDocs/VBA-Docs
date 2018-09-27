@@ -27,13 +27,13 @@ Sets the value of a local custom field or enterprise custom field for the select
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**| The name of the field to set.|
 | _Value_|Required|**String**|The value of the field.|
 | _Create_|Optional|**Boolean**|**True** if a new value is created; otherwise **false**. The default value is **true**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

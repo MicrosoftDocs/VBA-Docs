@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.IsWeb Property (Access)
+title: CurrentProject.IsWeb property (Access)
 keywords: vbaac10.chm14677
 f1_keywords:
 - vbaac10.chm14677
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.IsWeb Property (Access)
+# CurrentProject.IsWeb property (Access)
 
 Gets whether the database is a Web database. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsWeb`
+_expression_. `IsWeb`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

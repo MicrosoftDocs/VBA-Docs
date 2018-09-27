@@ -14,7 +14,7 @@ Specifies which key interrupts recalculation.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAnyKey**|2|Pressing any key interrupts recalculation.|
 | **xlEscKey**|1|Pressing the ESC key interrupts recalculation.|

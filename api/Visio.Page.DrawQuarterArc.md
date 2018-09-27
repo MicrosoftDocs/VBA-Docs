@@ -27,7 +27,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xBegin_|Required| **Double**|The  _x_-coordinate of the begin point of the arc.|
 | _yBegin_|Required| **Double**|The  _y_-coordinate of the begin point of the arc.|
@@ -35,7 +35,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
 | _yEnd_|Required| **Double**|The  _y_-coordinate of the endpoint of the arc.|
 | _SweepFlag_|Required| **VisArcSweepFlags**|The type of arc, concave or convex.|
 
-### Return Value
+### Return value
 
 Shape
 

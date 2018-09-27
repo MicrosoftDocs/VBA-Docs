@@ -30,7 +30,7 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the object to be returned.|
 

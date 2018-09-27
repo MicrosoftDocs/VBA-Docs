@@ -1,5 +1,5 @@
 ---
-title: Report.DisplayOnSharePointSite Property (Access)
+title: Report.DisplayOnSharePointSite property (Access)
 keywords: vbaac10.chm13873
 f1_keywords:
 - vbaac10.chm13873
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.DisplayOnSharePointSite Property (Access)
+# Report.DisplayOnSharePointSite property (Access)
 
 Gets or sets whether the specified report can be made available as a view on a Microsoft SharePoint Foundation site. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayOnSharePointSite`
+_expression_. `DisplayOnSharePointSite`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Name Property (Access)
+title: PageBreak.Name property (Access)
 keywords: vbaac10.chm11682
 f1_keywords:
 - vbaac10.chm11682
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Name Property (Access)
+# PageBreak.Name property (Access)
 
 You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
+_expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

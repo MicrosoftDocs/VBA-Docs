@@ -1,5 +1,5 @@
 ---
-title: Report.InputParameters Property (Access)
+title: Report.InputParameters property (Access)
 keywords: vbaac10.chm13777
 f1_keywords:
 - vbaac10.chm13777
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.InputParameters Property (Access)
+# Report.InputParameters property (Access)
 
 You can use the  **InputParameters** property to specify or determine the input parameters that are passed to a SQL statement in the **RecordSource** property of a form or report or a stored procedure when used as the record source within a Microsoft Access project (.adp). Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `InputParameters`
+_expression_. `InputParameters`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

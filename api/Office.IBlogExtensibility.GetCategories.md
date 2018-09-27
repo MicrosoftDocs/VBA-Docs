@@ -27,7 +27,7 @@ This method returns the list of blog categories for an account so Microsoft Word
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Account_|Required|**String**|Represents the GUID of the account registry key. |
 | _ParentWindow_|Required|**Long**|Represents the HWND of the host window.|

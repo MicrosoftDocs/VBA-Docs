@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ContentControlOnExit'(**_ContentControl_** , **_Canc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContentControl_|Required| **ContentControl**|The content control that the user is leaving.|
 | _Cancel_|Required| **Boolean**|Specifies whether to cancel the event.  **True** cancels the event and does not allow the user to leave the control.|

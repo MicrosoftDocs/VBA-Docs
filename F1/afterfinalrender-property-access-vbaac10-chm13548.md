@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AfterFinalRender Property (Access)](http://msdn.microsoft.com/library/c6e294f8-8cd9-1413-eff8-f2b033766326%28Office.15%29.aspx)
+[Form.AfterFinalRender property (Access)](http://msdn.microsoft.com/library/c6e294f8-8cd9-1413-eff8-f2b033766326%28Office.15%29.aspx)
 

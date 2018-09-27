@@ -23,7 +23,7 @@ Gets the schema XML for the  **MetaProperties** object. Read-only.
  _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

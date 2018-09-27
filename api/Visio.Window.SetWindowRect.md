@@ -27,14 +27,14 @@ Sets the size and position of the client area of a window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _nLeft_|Required| **Long**|The coordinate of the left side of the window.|
 | _nTop_|Required| **Long**|The coordinate of the top of the window.|
 | _nWidth_|Required| **Long**|The distance in pixels from the left side to the right side of the window.|
 | _nHeight_|Required| **Long**|The distance in pixels from the top to the bottom of the window.|
 
-### Return Value
+### Return value
 
 Nothing
 

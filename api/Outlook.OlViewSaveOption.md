@@ -17,7 +17,7 @@ Specifies the folders in which the view is available and the read permissions at
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olViewSaveOptionAllFoldersOfType**|2|Indicates that the view is available in all folders of the same type.|
 | **olViewSaveOptionThisFolderEveryone**|0|Indicates that the view is only available in the current folder and is available to all users.|

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.AllowDeletions Property (Access)](http://msdn.microsoft.com/library/abcbaa74-9a02-ab9c-613f-0cf6b9ce98b7%28Office.15%29.aspx)
+[Form.AllowDeletions property (Access)](http://msdn.microsoft.com/library/abcbaa74-9a02-ab9c-613f-0cf6b9ce98b7%28Office.15%29.aspx)
 

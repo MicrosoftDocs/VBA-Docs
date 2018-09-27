@@ -27,7 +27,7 @@ Binds an explicit built-in property or a custom property to a control in the for
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Control_|Required| **Object**|A control in the form region to which the property specified by  _PropertyName_ will be bound.|
 | _PropertyName_|Required| **String**|The name of the property that will be bound to the control.|

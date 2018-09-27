@@ -14,7 +14,7 @@ Specifies the type of bullet.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppBulletMixed**|-2|Mixed bullets|
 |**ppBulletNone**|0|No bullets|

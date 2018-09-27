@@ -14,7 +14,7 @@ Specifies the type of selection.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNoSelection**|0|No selection.|
 | **wdSelectionBlock**|6|A block selection.|

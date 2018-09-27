@@ -30,7 +30,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The value of the  **ID** property of the **DataRecordset** object that contains the data rows to link to.|
 | _ColumnNames()_|Required| **String**|An array of strings that correspond to names of columns in the data recordset. |
@@ -39,7 +39,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 | _AutoLinkBehavior_|Required| **Long**|A combination of one or more constants from the  **VisAutoLinkBehavior** enumeration that specify how the linking will occur. See Remarks for possible values.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long**) that were linked by the method.|
 
-### Return Value
+### Return value
 
 Long
 

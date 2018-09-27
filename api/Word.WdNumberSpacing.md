@@ -14,7 +14,7 @@ Specifies the number spacing setting for an OpenType font.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNumberSpacingDefault**|0|Applies the default number spacing for the font.|
 | **wdNumberSpacingProportional**|1|Applies proportional number spacing to the font.|

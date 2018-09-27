@@ -1,5 +1,5 @@
 ---
-title: CustomControl.DisplayWhen Property (Access)
+title: CustomControl.DisplayWhen property (Access)
 keywords: vbaac10.chm12014
 f1_keywords:
 - vbaac10.chm12014
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.DisplayWhen Property (Access)
+# CustomControl.DisplayWhen property (Access)
 
 You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `DisplayWhen`
+_expression_. `DisplayWhen`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

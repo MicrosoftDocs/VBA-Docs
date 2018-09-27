@@ -27,11 +27,11 @@ Returns a  **Menu** object from the **Menus** collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 Menu
 

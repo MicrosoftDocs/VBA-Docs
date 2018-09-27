@@ -27,12 +27,12 @@ Returns the number of days between two dates based on a 360-day year (twelve 30-
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg2_|Required| **Variant**|The two dates between which you want to know the number of days. If start_date (Arg1) occurs after end_date (Arg2), Days360 returns a negative number. Dates should be entered by using the DATE function, or as results of other formulas or functions.|
 | _Arg3_|Optional| **Variant**|A boolean value that specifies whether to use the U.S. or European method in the calculation.|
 
-### Return Value
+### Return value
 
 Double
 

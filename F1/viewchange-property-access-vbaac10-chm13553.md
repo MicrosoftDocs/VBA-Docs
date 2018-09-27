@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.ViewChange Property (Access)](http://msdn.microsoft.com/library/f8a8fe82-6983-5632-b779-879faf228ac2%28Office.15%29.aspx)
+[Form.ViewChange property (Access)](http://msdn.microsoft.com/library/f8a8fe82-6983-5632-b779-879faf228ac2%28Office.15%29.aspx)
 

@@ -1,5 +1,5 @@
 ---
-title: Report.OnOpen Property (Access)
+title: Report.OnOpen property (Access)
 keywords: vbaac10.chm13763
 f1_keywords:
 - vbaac10.chm13763
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnOpen Property (Access)
+# Report.OnOpen property (Access)
 
 Sets or returns the value of the  **On Open** box in the **Properties** window of a form or report. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnOpen`
+_expression_. `OnOpen`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Open** event occurs when a form is opened, but before the first record is
 The  **OnOpen** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Open** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

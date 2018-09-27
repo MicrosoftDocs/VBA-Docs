@@ -23,7 +23,7 @@ String representation of the GUID of the host application of the Microsoft Visio
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

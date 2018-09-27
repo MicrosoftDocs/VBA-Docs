@@ -1,5 +1,5 @@
 ---
-title: Application.Reports Property (Access)
+title: Application.Reports property (Access)
 keywords: vbaac10.chm12509
 f1_keywords:
 - vbaac10.chm12509
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Reports Property (Access)
+# Application.Reports property (Access)
 
 You can use the  **Reports** property to access the read-only **[Reports](Access.Reports.md)** collection and its related properties.
 
 
 ## Syntax
 
- _expression_. `Reports`
+_expression_. `Reports`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

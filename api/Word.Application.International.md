@@ -27,7 +27,7 @@ Returns information about the current country/region and international settings.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdInternationalIndex**|The current country/region and/or international setting.|
 

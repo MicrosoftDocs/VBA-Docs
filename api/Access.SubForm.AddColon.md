@@ -1,5 +1,5 @@
 ---
-title: SubForm.AddColon Property (Access)
+title: SubForm.AddColon property (Access)
 keywords: vbaac10.chm11949
 f1_keywords:
 - vbaac10.chm11949
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.AddColon Property (Access)
+# SubForm.AddColon property (Access)
 
 Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AddColon`
+_expression_. `AddColon`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## See also

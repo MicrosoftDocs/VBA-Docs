@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.GridlineStyleTop Property (Access)
+title: NavigationButton.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10529
 f1_keywords:
 - vbaac10.chm10529
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.GridlineStyleTop Property (Access)
+# NavigationButton.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

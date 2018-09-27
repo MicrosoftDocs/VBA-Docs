@@ -27,12 +27,12 @@ Sets the data recordsets to be published to a server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PublishDataRecordsets_|Required| **[VisPublishDataRecordsets](Visio.VisPublishDataRecordsets.md)**|Specifies whether all, no, or selected data recordsets are to be published. See Remarks for possible values.|
 | _DataRecordsetIDs()_|Required| **Long**|Specifies the identifiers of the data recordsets that are set to be published if  _PublishDataRecordsets_ is **visPublishDataRecordsetsSelect** .|
 
-### Return Value
+### Return value
 
  **Nothing**
 

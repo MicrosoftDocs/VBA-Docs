@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.ControlType Property (Access)
+title: NavigationButton.ControlType property (Access)
 keywords: vbaac10.chm10449
 f1_keywords:
 - vbaac10.chm10449
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.ControlType Property (Access)
+# NavigationButton.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ControlType`
+_expression_. `ControlType`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Line.HorizontalAnchor Property (Access)
+title: Line.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10350
 f1_keywords:
 - vbaac10.chm10350
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.HorizontalAnchor Property (Access)
+# Line.HorizontalAnchor property (Access)
 
 Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the line is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `HorizontalAnchor`
+_expression_. `HorizontalAnchor`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

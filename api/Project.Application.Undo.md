@@ -27,11 +27,11 @@ Executes an undo action on items in the  **Undo** list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HowManyUndos_|Optional|**Long**|Specifies the number of items from the list to undo. The default is 1.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

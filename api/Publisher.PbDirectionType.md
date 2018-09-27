@@ -17,7 +17,7 @@ Represents a global Microsoft Publisher option, indicating whether text flows fr
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbDirectionLeftToRight**|1|Left to Right|
 | **pbDirectionRightToLeft**|2|Right to Left|

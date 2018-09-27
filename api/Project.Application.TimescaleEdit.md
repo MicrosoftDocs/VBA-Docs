@@ -27,7 +27,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MajorUnits_|Optional|**Variant**|Time units for the middle timescale tier. Specify with the  **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** enumeration. The default value is **pjTimescaleWeeks** (3).|
 | _MinorUnits_|Optional|**Variant**|Time units for the bottom timescale tier. Specify with the  **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** enumeration. The default value is **pjTimescaleDays** (2).|
@@ -51,7 +51,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
 | _TopUseFY_|Optional|**Variant**|Specifies whether to base the top tier labels on the fiscal year. The default value is  **False**.|
 | _TierCount_|Optional|**Variant**|Specifies the number of timescale tiers. The integer value 3 shows all three tiers; the value 2 is default and shows the middle and bottom tiers; the value 1 shows only the middle tier.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

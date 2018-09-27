@@ -27,7 +27,7 @@ Sets the indentation for a row in a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LeftIndent_|Required| **Single**|The distance (in points) between the current left edge of the specified row or rows and the desired left edge.|
 | _RulerStyle_|Required| **WdRulerStyle**|Controls the way Word adjusts the table when the left indent is changed.|

@@ -1,5 +1,5 @@
 ---
-title: Form.Recalc Method (Access)
+title: Form.Recalc method (Access)
 keywords: vbaac10.chm13502
 f1_keywords:
 - vbaac10.chm13502
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Recalc Method (Access)
+# Form.Recalc method (Access)
 
 The  **Recalc** method immediately updates all calculated controls on a form.
 
 
 ## Syntax
 
- _expression_. `Recalc`
+_expression_. `Recalc`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -30,14 +30,14 @@ Gets the  **CommandBarControls** collection that fits the specified criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Variant**|Is one of the  **MsoControlType** constants specfying the type of control.|
 | _Id_|Optional|**Variant**|The control's identifier.|
 | _Tag_|Optional|**Variant**|The control's tag value.|
 | _Visible_|Optional|**Variant**|**True** to include only visible command bar controls in the search. The default value is False.|
 
-### Return Value
+### Return value
 
 CommandBarControls
 

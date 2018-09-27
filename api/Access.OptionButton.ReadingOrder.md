@@ -1,5 +1,5 @@
 ---
-title: OptionButton.ReadingOrder Property (Access)
+title: OptionButton.ReadingOrder property (Access)
 keywords: vbaac10.chm10622
 f1_keywords:
 - vbaac10.chm10622
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.ReadingOrder Property (Access)
+# OptionButton.ReadingOrder property (Access)
 
 You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+_expression_. `ReadingOrder`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

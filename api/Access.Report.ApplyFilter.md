@@ -1,5 +1,5 @@
 ---
-title: Report.ApplyFilter Event (Access)
+title: Report.ApplyFilter event (Access)
 keywords: vbaac10.chm13899
 f1_keywords:
 - vbaac10.chm13899
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ApplyFilter Event (Access)
+# Report.ApplyFilter event (Access)
 
 Occurs when a filter is applied to a report.
 
 
 ## Syntax
 
- _expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
+_expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the report.|
 | _ApplyType_|Required|**Integer**|Returns the type of filter that was applied.|

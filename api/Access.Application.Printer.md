@@ -1,5 +1,5 @@
 ---
-title: Application.Printer Property (Access)
+title: Application.Printer property (Access)
 keywords: vbaac10.chm12597
 f1_keywords:
 - vbaac10.chm12597
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Printer Property (Access)
+# Application.Printer property (Access)
 
 Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
 
- _expression_. `Printer`
+_expression_. `Printer`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Example

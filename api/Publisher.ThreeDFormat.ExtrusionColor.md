@@ -23,7 +23,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing the c
  _expression_ A variable that represents an  **ThreeDFormat** object.
 
 
-### Return Value
+### Return value
 
 ColorFormat
 

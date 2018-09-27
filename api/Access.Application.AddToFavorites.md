@@ -1,5 +1,5 @@
 ---
-title: Application.AddToFavorites Method (Access)
+title: Application.AddToFavorites method (Access)
 keywords: vbaac10.chm12562
 f1_keywords:
 - vbaac10.chm12562
@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddToFavorites Method (Access)
+# Application.AddToFavorites method (Access)
 
-The  **AddToFavorites** method adds a hyperlink address to the Favorites folder.
+The **AddToFavorites** method adds a hyperlink address to the Favorites folder.
 
 
 ## Syntax
 
- _expression_. `AddToFavorites`
+_expression_. `AddToFavorites`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks
 
-When applied to the  **Application** object, the **AddToFavorites** method adds the name of the current database to the Favorites folder. For example, if you're working in the Northwind sample database, applying the **AddToFavorites** method to the **Application** object adds the hyperlink address of the Northwind database to the Favorites folder.
+When applied to the **Application** object, the **AddToFavorites** method adds the name of the current database to the Favorites folder. For example, if you're working in the Northwind sample database, applying the **AddToFavorites** method to the **Application** object adds the hyperlink address of the Northwind database to the Favorites folder.
 
 
 ## See also

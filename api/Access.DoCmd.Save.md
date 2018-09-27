@@ -1,5 +1,5 @@
 ---
-title: DoCmd.Save Method (Access)
+title: DoCmd.Save method (Access)
 keywords: vbaac10.chm4177
 f1_keywords:
 - vbaac10.chm4177
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.Save Method (Access)
+# DoCmd.Save method (Access)
 
 The  **Save** method carries out the Save action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `Save`( ` _ObjectType_`, ` _ObjectName_` )
+_expression_. `Save`( ` _ObjectType_`, ` _ObjectName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcObjectType**|A  **[AcObjectType](Access.AcObjectType.md)** constant that specifies the type of object you want to save.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument.|

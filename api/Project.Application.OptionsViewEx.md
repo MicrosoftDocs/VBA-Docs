@@ -27,7 +27,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DefaultView_|Optional|**String**|The name of the default view.|
 | _DateFormat_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](Project.PjDateFormat.md)** constants.|
@@ -53,7 +53,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
 | _CalendarType_|Optional|**Integer**|Sets the type of calendar for displaying Project content on the screen. Can be one of the  **[pjCalendarType](Project.PjCalendarType.md)** values.|
 | _Use3DLook_|Optional|**Boolean**|**True** if bars and shapes in Gantt views have a 3-dimensional appearance; otherwise **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

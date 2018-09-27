@@ -27,7 +27,7 @@ Uses East Asian sorting methods to sort the range, a PivotTable report, or uses 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SortMethod_|Optional| **[XlSortMethod](Excel.XlSortMethod.md)**|The type of sort. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _Key1_|Optional| **Variant**|The first sort field, as either text (a PivotTable field or range name) or a  **[Range](Excel.Range(object).md)** object ("Dept" or Cells(1, 1), for example).|
@@ -45,7 +45,7 @@ Uses East Asian sorting methods to sort the range, a PivotTable report, or uses 
 | _DataOption2_|Optional| **XlSortDataOption**|Specifies how to sort text in  _Key2_. Cannot be used when sorting PivotTable reports.|
 | _DataOption3_|Optional| **XlSortDataOption**|Specifies how to sort text in  _Key3_. Cannot be used when sorting PivotTable reports.|
 
-### Return Value
+### Return value
 
 Variant
 

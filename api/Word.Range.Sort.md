@@ -27,7 +27,7 @@ Sorts the paragraphs in the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ExcludeHeader_|Optional| **Variant**| **True** to exclude the first row or paragraph header from the sort operation. The default value is **False** .|
 | _FieldNumber_|Optional| **Variant**|The fields by which to sort. Microsoft Word sorts by FieldNumber, then by FieldNumber2, and then by FieldNumber3.|

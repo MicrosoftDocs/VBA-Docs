@@ -1,5 +1,5 @@
 ---
-title: Control.Hyperlink Property (Access)
+title: Control.Hyperlink property (Access)
 keywords: vbaac10.chm10151
 f1_keywords:
 - vbaac10.chm10151
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Hyperlink Property (Access)
+# Control.Hyperlink property (Access)
 
 You can use the  **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hyperlink`
+_expression_. `Hyperlink`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Example

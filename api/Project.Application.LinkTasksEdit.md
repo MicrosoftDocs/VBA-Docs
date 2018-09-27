@@ -27,7 +27,7 @@ Edits task dependencies (task links).
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Required|**Long**|**Long**. The identification number of a predecessor task.|
 | _To_|Required|**Long**|**Long**. The identification number of a successor task.|
@@ -37,7 +37,7 @@ Edits task dependencies (task links).
 | _PredecessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with  **From**. If **PredecessorProjectName** is omitted, the current project is assumed.|
 | _SuccessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with  **To**. If **SuccessorProjectName** is omitted, the current project is assumed.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a 32-bit integer that indicates the application in which this object was
  _expression_ An expression that returns a [Actions](Excel.Actions.md) object.
 
 
-### Return Value
+### Return value
 
 XlCreator
 

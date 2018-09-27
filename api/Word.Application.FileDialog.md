@@ -27,7 +27,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileDialogType_|Required| **MsoFileDialogType**|The type of dialog.|
 

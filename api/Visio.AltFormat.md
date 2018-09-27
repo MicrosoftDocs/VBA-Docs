@@ -20,7 +20,7 @@ Determines whether a secondary output format for the Web page is defined. Read/w
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

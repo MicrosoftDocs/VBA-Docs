@@ -27,7 +27,7 @@ Moves an item in the Organizer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Long**|The type of item to move. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _Filename_|Required|**String**|The name of the file containing the item to move.|
@@ -35,7 +35,7 @@ Moves an item in the Organizer.
 | _Name_|Optional|**String**|The name of the item to move. The default is to move all items specified with  **Type**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

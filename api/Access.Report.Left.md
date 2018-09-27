@@ -1,5 +1,5 @@
 ---
-title: Report.Left Property (Access)
+title: Report.Left property (Access)
 keywords: vbaac10.chm13727
 f1_keywords:
 - vbaac10.chm13727
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Left Property (Access)
+# Report.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

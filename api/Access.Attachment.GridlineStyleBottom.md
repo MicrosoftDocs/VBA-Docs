@@ -1,5 +1,5 @@
 ---
-title: Attachment.GridlineStyleBottom Property (Access)
+title: Attachment.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm13995
 f1_keywords:
 - vbaac10.chm13995
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.GridlineStyleBottom Property (Access)
+# Attachment.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified attachment. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

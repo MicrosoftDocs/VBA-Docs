@@ -1,5 +1,5 @@
 ---
-title: Report.CloseButton Property (Access)
+title: Report.CloseButton property (Access)
 keywords: vbaac10.chm13803
 f1_keywords:
 - vbaac10.chm13803
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.CloseButton Property (Access)
+# Report.CloseButton property (Access)
 
 Specifies whether the  **Close** button on a form is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CloseButton`
+_expression_. `CloseButton`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

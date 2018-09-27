@@ -14,7 +14,7 @@ Specifies a shape's fill type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFillBackground**|5|Fill is the same as the background.|
 |**msoFillGradient**|3|Gradient fill.|

@@ -1,5 +1,5 @@
 ---
-title: Image.Width Property (Access)
+title: Image.Width property (Access)
 keywords: vbaac10.chm10378
 f1_keywords:
 - vbaac10.chm10378
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Width Property (Access)
+# Image.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

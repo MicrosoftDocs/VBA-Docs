@@ -1,5 +1,5 @@
 ---
-title: ComboBox Object (Access)
+title: ComboBox object (Access)
 keywords: vbaac10.chm11545
 f1_keywords:
 - vbaac10.chm11545
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox Object (Access)
+# ComboBox object (Access)
 
 This object corresponds to a combo box control. The combo box control combines the features of a text box and a list box. Use a combo box when you want the option of either typing a value or selecting a value from a predefined list.
 

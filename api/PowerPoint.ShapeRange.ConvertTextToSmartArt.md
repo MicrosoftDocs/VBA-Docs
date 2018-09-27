@@ -27,11 +27,11 @@ Returns the number of objects in the specified collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**[SMARTARTLAYOUT]**||
 
-### Return Value
+### Return value
 
  **Long**
 

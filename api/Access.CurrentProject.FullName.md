@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.FullName Property (Access)
+title: CurrentProject.FullName property (Access)
 keywords: vbaac10.chm12719
 f1_keywords:
 - vbaac10.chm12719
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.FullName Property (Access)
+# CurrentProject.FullName property (Access)
 
 Sets or returns the full path (including file name) of a specific object. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FullName`
+_expression_. `FullName`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

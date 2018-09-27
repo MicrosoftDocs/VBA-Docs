@@ -24,7 +24,7 @@ Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_** , **_
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio that contains the scope.|
 | _nScopeID_|Required| **Long**|A language-independent number that describes the operation that just ended, or the scope ID returned by the  **BeginUndoScope** method.|

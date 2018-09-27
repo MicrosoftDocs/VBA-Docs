@@ -27,7 +27,7 @@ Sets an icon for a  **SortField** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Icon_|Required| **Icon**|The icon to be set.|
 

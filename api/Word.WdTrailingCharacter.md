@@ -14,7 +14,7 @@ Specifies the character inserted after the number for a numbered list item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTrailingNone**|2|No character is inserted.|
 | **wdTrailingSpace**|1|A space is inserted. Default.|

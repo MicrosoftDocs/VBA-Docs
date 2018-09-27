@@ -27,7 +27,7 @@ Scrolls a window or pane by the specified number of screens.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Down_|Optional| **Variant**|The number of screens to scroll the window down.|
 | _Up_|Optional| **Variant**|The number of screens to scroll the window up.|

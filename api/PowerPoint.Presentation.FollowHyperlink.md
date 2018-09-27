@@ -27,7 +27,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Address_|Required|**String**|The address of the target document.|
 | _SubAddress_|Optional|**String**|The location in the target document. By default, this argument is an empty string.|
@@ -37,7 +37,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 | _Method_|Optional|**MsoExtraInfoMethod**|Specifies how ExtraInfo is posted or appended.|
 | _HeaderInfo_|Optional|**String**| A string that specifies header information for the HTTP request. The default value is an empty string. You can combine several header lines into a single string by using the following syntax: "string1" &; vbCr &; "string2". The specified string is automatically converted into ANSI characters. Note that the HeaderInfo argument may overwrite default HTTP header fields.|
 
-### Return Value
+### Return value
 
 Nothing
 

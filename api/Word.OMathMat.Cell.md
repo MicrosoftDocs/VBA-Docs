@@ -27,7 +27,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Required| **Long**|The matrix row in which the cell is located.|
 | _Col_|Required| **Long**|The matrix column in which the cell is located.|

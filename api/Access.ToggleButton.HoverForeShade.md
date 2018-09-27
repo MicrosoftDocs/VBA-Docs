@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.HoverForeShade Property (Access)
+title: ToggleButton.HoverForeShade property (Access)
 keywords: vbaac10.chm14618
 f1_keywords:
 - vbaac10.chm14618
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.HoverForeShade Property (Access)
+# ToggleButton.HoverForeShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **HoverForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverForeShade`
+_expression_. `HoverForeShade`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

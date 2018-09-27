@@ -27,7 +27,7 @@ Changes the command assigned to the specified key binding.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The key category of the specified key binding.|
 | _Command_|Required| **String**|The name of the specified command.|

@@ -27,11 +27,11 @@ Returns an object that represents either a single legend entry (a  **[LegendEntr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The number of the legend entry.|
 
-### Return Value
+### Return value
 
 Object
 

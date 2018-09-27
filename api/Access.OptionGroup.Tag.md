@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Tag Property (Access)
+title: OptionGroup.Tag property (Access)
 keywords: vbaac10.chm10859
 f1_keywords:
 - vbaac10.chm10859
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Tag Property (Access)
+# OptionGroup.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

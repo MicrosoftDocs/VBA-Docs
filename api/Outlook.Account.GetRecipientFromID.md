@@ -27,11 +27,11 @@ Returns the **[Recipient](Outlook.Recipient.md)** object that is identified by t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EntryID_|Required| **String**|The  **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
 
-### Return Value
+### Return value
 
 A  **Recipient** object that represents the recipient associated with the specified entry ID.
 

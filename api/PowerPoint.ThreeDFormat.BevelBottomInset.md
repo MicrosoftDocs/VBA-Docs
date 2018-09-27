@@ -23,7 +23,7 @@ Returns or sets the bottom bevel inset for the specified  **ThreeDFormat** objec
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

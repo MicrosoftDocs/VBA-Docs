@@ -1,5 +1,5 @@
 ---
-title: Report.ScaleTop Property (Access)
+title: Report.ScaleTop property (Access)
 keywords: vbaac10.chm13746
 f1_keywords:
 - vbaac10.chm13746
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.ScaleTop Property (Access)
+# Report.ScaleTop property (Access)
 
 You can use the  **ScaleTop** property to specify the units for the vertical coordinates that describe the location of the top edge of a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is previewed, printed, or its output is saved to a file. Read / write **Single**.
 
 
 ## Syntax
 
- _expression_. `ScaleTop`
+_expression_. `ScaleTop`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

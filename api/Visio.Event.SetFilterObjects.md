@@ -27,11 +27,11 @@ Specifies an array of object types and a  **True** or **False** value indicating
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Objects()_|Required| **Long**|An array of objects types and a  **True** or **False** value specifying how to filter events for each object type.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -24,7 +24,7 @@ Occurs before a baseline is saved. Uses the  **EventInfo** object parameter.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project displayed in the window.|
 | _Interim_|Required|**Boolean**|**True** if saving an interim baseline. **False** if saving a full baseline.|
@@ -36,7 +36,7 @@ Occurs before a baseline is saved. Uses the  **EventInfo** object parameter.
 | _RollupFromSubtasks_|Required|**Boolean**|**True** if you wish to roll up baselines from subtasks.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the baseline is not saved.|
 
-### Return Value
+### Return value
 
 nothing
 

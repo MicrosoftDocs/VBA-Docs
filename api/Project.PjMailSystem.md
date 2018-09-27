@@ -14,7 +14,7 @@ Contains constants that specify the type of e-mail system.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMAPI**|1|Microsoft Mail.|
 |**pjMAPICompatible**|2|E-mail system that is compatible with MAPI .|

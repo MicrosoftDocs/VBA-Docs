@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.LayoutID Property (Access)
+title: NavigationControl.LayoutID property (Access)
 keywords: vbaac10.chm11182
 f1_keywords:
 - vbaac10.chm11182
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.LayoutID Property (Access)
+# NavigationControl.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

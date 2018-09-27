@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ControlSource Property (Access)
+title: ComboBox.ControlSource property (Access)
 keywords: vbaac10.chm11374
 f1_keywords:
 - vbaac10.chm11374
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ControlSource Property (Access)
+# ComboBox.ControlSource property (Access)
 
 You can use the  **ControlSource** property to specify what data appears in a control. You can display and edit data bound to a field in a table, query, or SQL statement. You can also display the result of an expression. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `ControlSource`
+_expression_. `ControlSource`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

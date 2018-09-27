@@ -1,5 +1,5 @@
 ---
-title: Form.CurrentRecord Property (Access)
+title: Form.CurrentRecord property (Access)
 keywords: vbaac10.chm13473
 f1_keywords:
 - vbaac10.chm13473
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CurrentRecord Property (Access)
+# Form.CurrentRecord property (Access)
 
 You can use the  **CurrentRecord** property to identify the current record in the recordset being viewed on a form. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `CurrentRecord`
+_expression_. `CurrentRecord`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

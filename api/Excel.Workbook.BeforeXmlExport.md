@@ -27,13 +27,13 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to save or export data.|
 | _Url_|Required| **String**|The location where you want to export the resulting XML file.|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the save or export operation|
 
-### Return Value
+### Return value
 
 Nothing
 

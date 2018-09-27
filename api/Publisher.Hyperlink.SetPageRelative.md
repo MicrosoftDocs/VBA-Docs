@@ -27,7 +27,7 @@ Sets the target type for the specified hyperlink.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |RelativePage|Required| **PbHlinkTargetType**|The target type of the hyperlink.|
 

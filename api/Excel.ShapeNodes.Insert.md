@@ -27,7 +27,7 @@ Inserts a node into a freeform shape.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**| **Long** . The number of the shape node after which to insert a new node.|
 | _SegmentType_|Required| **[MsoSegmentType](./Office.MsoSegmentType.md)**|The segment type.|

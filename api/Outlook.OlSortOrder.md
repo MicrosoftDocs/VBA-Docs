@@ -17,7 +17,7 @@ Indicates the sort order.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAscending**|1|Ascending order|
 | **olDescending**|2|Descending order|

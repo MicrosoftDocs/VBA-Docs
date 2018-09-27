@@ -14,7 +14,7 @@ Specifies properties of the signature subset. These settings act as filters for 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSignatureSubsetAll**|5|All non-visible signatures plus all signature lines.|
 |**msoSignatureSubsetSignatureLines**|2|All signature lines.|

@@ -23,7 +23,7 @@ Clears the current instance of a recurring task and sets the recurrence to the n
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
-### Return Value
+### Return value
 
  **False** indicates that the task was the last task in the recurrence, so there is no task to set the recurrence to. **True** indicates that the recurrence was successfully set to the next instance of that task.
 

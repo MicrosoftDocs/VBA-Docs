@@ -24,11 +24,11 @@ Returns the number of minutes in a duration.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Duration_|Required|**String**|The duration to be expressed in minutes.|
 
-### Return Value
+### Return value
 
  **Variant**
 

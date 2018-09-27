@@ -27,7 +27,7 @@ Displays a dialog box that allows users to select which signature certificate to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IOleWindow**|Contains a handle to the window containing the certificate selection dialog box.|
 

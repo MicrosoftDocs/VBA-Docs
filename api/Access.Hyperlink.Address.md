@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (Access)
+title: Hyperlink.Address property (Access)
 keywords: vbaac10.chm10115
 f1_keywords:
 - vbaac10.chm10115
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Address Property (Access)
+# Hyperlink.Address property (Access)
 
 You can use the  **Address** property to specify or determine the path to an object, document, Web page or other destination for a **[Hyperlink](Access.Hyperlink.md)** object associated with a command button, image control, or label control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
 ## Remarks

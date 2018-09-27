@@ -27,12 +27,12 @@ Returns the standard normal cumulative distribution function. The distribution h
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Z - The value for which you want the distribution.|
 | _Arg2_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NORM_S_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return Value
+### Return value
 
 Double
 

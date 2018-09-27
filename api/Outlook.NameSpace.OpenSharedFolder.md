@@ -27,14 +27,14 @@ Opens a shared folder referenced through a URL or file name.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The URL or local file name of the shared folder to be opened.|
 | _Name_|Optional| **Variant**|The name of the Really Simple Syndication (RSS) feed or Webcal calendar. This parameter is ignored for other shared folder types.|
 | _DownloadAttachments_|Optional| **Variant**|Indicates whether to download enclosures (for RSS feeds) or attachments (for Webcal calendars.) This parameter is ignored for other shared folder types.|
 | _UseTTL_|Optional| **Variant**|Indicates whether the Time To Live (TTL) setting in an RSS feed or WebCal calendar should be used. This parameter is ignored for other shared folder types.|
 
-### Return Value
+### Return value
 
 A  **[Folder](Outlook.Folder.md)** object that represents the shared folder.
 

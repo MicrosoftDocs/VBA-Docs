@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Access)
+title: Pages.Count property (Access)
 keywords: vbaac10.chm10127
 f1_keywords:
 - vbaac10.chm10127
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Count Property (Access)
+# Pages.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [Pages](Access.Pages.md) object.
+_expression_ A variable that represents a [Pages](Access.Pages.md) object.
 
 
 ## See also

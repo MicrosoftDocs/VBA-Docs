@@ -23,7 +23,7 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
-### Return Value
+### Return value
 
  **PbPlacementType**
 

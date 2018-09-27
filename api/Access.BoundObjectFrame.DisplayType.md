@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.DisplayType Property (Access)
+title: BoundObjectFrame.DisplayType property (Access)
 keywords: vbaac10.chm10916
 f1_keywords:
 - vbaac10.chm10916
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.DisplayType Property (Access)
+# BoundObjectFrame.DisplayType property (Access)
 
 You can use the  **DisplayType** property to specify whether Microsoft Access displays an OLE object's content or an icon. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DisplayType`
+_expression_. `DisplayType`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

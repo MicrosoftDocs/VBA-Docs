@@ -27,11 +27,11 @@ Removes a child element from the specified element.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChildElement_|Required| **XMLNode**|The child element to be removed.|
 
-### Return Value
+### Return value
 
 Nothing
 

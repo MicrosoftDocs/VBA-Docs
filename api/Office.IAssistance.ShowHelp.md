@@ -24,7 +24,7 @@ Displays the help topic specified by its ID in the Office Help Viewer or, for he
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpId_|Optional|**String**|The ID of the help topic.|
 | _Scope_|Optional|**String**|The namespace registered within the host application.|

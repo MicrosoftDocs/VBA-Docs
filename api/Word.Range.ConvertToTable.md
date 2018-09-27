@@ -27,7 +27,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Separator_|Optional| **Variant**|Specifies the character used to separate text into cells. Can be a character or one of the following  **WdTableFieldSeparator** constant. If this argument is omitted, the value of the **DefaultTableSeparator** property is used.|
 | _NumRows_|Optional| **Variant**|The number of rows in the table. If this argument is omitted, Microsoft Word sets the number of rows, based on the contents of the range.|
@@ -46,7 +46,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
 | _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior** , this argument is ignored.|
 | _DefaultTableBehavior_|Optional| **Variant**| Sets a value that specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit). Can be one of the **WdDefaultTableBehavior** constant.|
 
-### Return Value
+### Return value
 
 Table
 

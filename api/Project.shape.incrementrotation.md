@@ -20,7 +20,7 @@ Rotates the shape around the z-axis by the specified number of degrees.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Increment_|Required|**Single**|The number of degrees the shape is to be rotated. A positive value rotates the shape clockwise; a negative value rotates it counterclockwise.|
 | _Increment_|Required|FLOAT||

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Left Property (Access)
+title: Rectangle.Left property (Access)
 keywords: vbaac10.chm10283
 f1_keywords:
 - vbaac10.chm10283
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Left Property (Access)
+# Rectangle.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies how to display source documents when two documents are compared using 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdShowSourceDocumentsBoth**|3|Shows both original and revised documents.|
 | **wdShowSourceDocumentsNone**|0|Shows neither the original nor the revised documents for the source document used in a Compare function.|

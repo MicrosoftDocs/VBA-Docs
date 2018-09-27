@@ -20,7 +20,7 @@ Returns a  **Long** that represents the four-character creator code for the appl
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

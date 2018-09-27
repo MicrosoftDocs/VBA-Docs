@@ -20,7 +20,7 @@ Returns all the series in the chart.
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **[SeriesCollection](Word.SeriesCollection.md)** object that represents all the series in the chart.
 

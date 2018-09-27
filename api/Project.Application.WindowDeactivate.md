@@ -24,11 +24,11 @@ Occurs when any window within Project is deactivated. The  **WindowDeactivate** 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _deactivatedWindow_|Required|**Window**| The deactivated window.|
 
-### Return Value
+### Return value
 
 nothing
 

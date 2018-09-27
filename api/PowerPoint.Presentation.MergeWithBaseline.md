@@ -27,12 +27,12 @@ Merges a presentation into another presentation.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _withPresentation_|Required|**String**|The path that points to the presentation to be merged with the active presentation.|
 | _baselinePresentation_|Required|**String**|The path that points to the presentation to be used as baseline in the merge.|
 
-### Return Value
+### Return value
 
 None
 

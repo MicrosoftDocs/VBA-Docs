@@ -27,7 +27,7 @@ Changes the color of a picture in a publication.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Color|Required| **ColorFormat**|The color to be used for recoloring.|
 |LeaveBlackPartsBlack|Required| **MsoTriState**| **True** if all parts of the original picture that were black in color should be left black.|

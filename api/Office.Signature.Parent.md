@@ -23,7 +23,7 @@ Gets the  **Parent** object for the Signature object. Read-only.
  _expression_ A variable that represents a [Signature](./Office.Signature.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

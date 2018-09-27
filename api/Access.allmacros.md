@@ -1,5 +1,5 @@
 ---
-title: AllMacros Object (Access)
+title: AllMacros object (Access)
 keywords: vbaac10.chm12685
 f1_keywords:
 - vbaac10.chm12685
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllMacros Object (Access)
+# AllMacros object (Access)
 
 The  **AllMacros** collection contains an **[AccessObject](Access.AccessObject.md)** for each macro in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 

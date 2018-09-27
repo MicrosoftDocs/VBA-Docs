@@ -14,7 +14,7 @@ Specifies whether the document text should wrap on both sides of the specified s
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWrapBoth**|0|Both sides of the specified shape.|
 | **wdWrapLargest**|3|Side of the shape that is farthest from the page margin.|

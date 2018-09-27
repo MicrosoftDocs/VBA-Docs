@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.Requery Method (Access)
+title: NavigationButton.Requery method (Access)
 keywords: vbaac10.chm10443
 f1_keywords:
 - vbaac10.chm10443
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.Requery Method (Access)
+# NavigationButton.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

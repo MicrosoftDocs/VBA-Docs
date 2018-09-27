@@ -15,7 +15,7 @@ Constants that represent galleries of building blocks.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbBBGalAccents**|1|Borders &; Accents gallery|
 | **pbBBGalAdvertisements**|0|Advertisements gallery|

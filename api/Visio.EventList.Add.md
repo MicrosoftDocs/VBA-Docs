@@ -27,14 +27,14 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventCode_|Required| **Integer**|The event(s) to capture.|
 | _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon** , a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
 | _Target_|Required| **String**|The name of your add-on.|
 | _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
-### Return Value
+### Return value
 
 Event
 

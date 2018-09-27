@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AddItem Method (Access)
+title: ComboBox.AddItem method (Access)
 keywords: vbaac10.chm11476
 f1_keywords:
 - vbaac10.chm11476
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AddItem Method (Access)
+# ComboBox.AddItem method (Access)
 
 Adds a new item to the list of values displayed by the specified combo box control.
 
 
 ## Syntax
 
- _expression_. `AddItem`( ` _Item_`, ` _Index_` )
+_expression_. `AddItem`( ` _Item_`, ` _Index_` )
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**String**|The display text for the new item.|
 | _Index_|Optional|**Variant**|The position of the item in the list. If this argument is omitted, the item is added to the end of the list.|

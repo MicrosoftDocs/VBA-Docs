@@ -27,11 +27,11 @@ Returns the value of the specified tag as a  **String**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The tag number.|
 
-### Return Value
+### Return value
 
 String
 

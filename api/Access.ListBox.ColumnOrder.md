@@ -1,5 +1,5 @@
 ---
-title: ListBox.ColumnOrder Property (Access)
+title: ListBox.ColumnOrder property (Access)
 keywords: vbaac10.chm11264
 f1_keywords:
 - vbaac10.chm11264
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.ColumnOrder Property (Access)
+# ListBox.ColumnOrder property (Access)
 
 You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `ColumnOrder`
+_expression_. `ColumnOrder`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

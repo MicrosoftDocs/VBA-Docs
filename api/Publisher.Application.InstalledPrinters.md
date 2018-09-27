@@ -23,7 +23,7 @@ Returns an  **[InstalledPrinters](Publisher.InstalledPrinters.md)** collection t
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return Value
+### Return value
 
 InstalledPrinters
 

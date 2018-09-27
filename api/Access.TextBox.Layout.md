@@ -1,5 +1,5 @@
 ---
-title: TextBox.Layout Property (Access)
+title: TextBox.Layout property (Access)
 keywords: vbaac10.chm11150
 f1_keywords:
 - vbaac10.chm11150
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.Layout Property (Access)
+# TextBox.Layout property (Access)
 
 Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

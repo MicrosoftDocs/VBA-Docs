@@ -27,13 +27,13 @@ Defines a friendly name for a custom field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The field to be renamed. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _NewName_|Optional|**String**|The friendly name for the custom field. A value of  **Null** removes the friendly name.|
 | _Phonetic_|Optional|**String**|The phonetic equivalent of the friendly name. The Phonetic argument is ignored unless the Japanese version of Project is used.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

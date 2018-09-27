@@ -27,14 +27,14 @@ Returns the sum-of-years' digits depreciation of an asset for a specified period
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
 | _Arg2_|Required| **Double**|Salvage - the value at the end of the depreciation (sometimes called the salvage value of the asset).|
 | _Arg3_|Required| **Double**|Life - the number of periods over which the asset is depreciated (sometimes called the useful life of the asset).|
 | _Arg4_|Required| **Double**|Per - the period and must use the same units as life.|
 
-### Return Value
+### Return value
 
 Double
 

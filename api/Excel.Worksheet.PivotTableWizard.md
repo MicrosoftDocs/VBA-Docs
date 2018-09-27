@@ -27,7 +27,7 @@ Creates a new PivotTable report. This method doesn?t display the PivotTable Wiza
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Optional| **Variant**|An  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the source of the report data. If you specify this argument, you must also specify _SourceData_. If  _SourceType_ and _SourceData_ are omitted, Microsoft Excel assumes that the source type is **xlDatabase** , and the source data comes from the named range "Database." If this named range doesn?t exist, Microsoft Excel uses the current region if the current selection is in a range of more than 10 cells that contain data. If this isn?t true, this method will fail.|
 | _SourceData_|Optional| **Variant**|The data for the new report. Can be a  **[Range](Excel.Range(object).md)** object, an array of ranges, or a text constant that represents the name of another report. For an external database, _SourceData_ is an array of strings containing the SQL query string, where each element is up to 255 characters in length. You should use the _Connection_ argument to specify the ODBC connection string. For compatibility with earlier versions of Excel, _SourceData_ can be a two-element array. The first element is the connection string specifying the ODBC source for the data. The second element is the SQL query string used to get the data. If you specify _SourceData_, you must also specify  _SourceType_. If the active cell is inside the  _SourceData_ range, you must specify _TableDestination_ as well.|
@@ -46,7 +46,7 @@ Creates a new PivotTable report. This method doesn?t display the PivotTable Wiza
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. If _ReadData_ is **False** , you can set some of the fields asserver-based page fields before the data is actually read.|
 | _Connection_|Optional| **Variant**|A string that contains ODBC settings that allow Excel to connect to an ODBC data source. The connection string has the form "ODBC;<connection string>". This argument overrides any previous setting for the  **[PivotCache](Excel.PivotCache.md)** object?s **[Connection](Excel.PivotCache.Connection.md)** property.|
 
-### Return Value
+### Return value
 
 A  **[PivotTable](Excel.PivotTable.md)** object that represents the new PivotTable report.
 

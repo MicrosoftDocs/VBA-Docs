@@ -23,7 +23,7 @@ Determines whether the specified add-in is automatically loaded each time PowerP
  _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

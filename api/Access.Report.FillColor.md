@@ -1,5 +1,5 @@
 ---
-title: Report.FillColor Property (Access)
+title: Report.FillColor property (Access)
 keywords: vbaac10.chm13756
 f1_keywords:
 - vbaac10.chm13756
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.FillColor Property (Access)
+# Report.FillColor property (Access)
 
 You use the  **FillColor** property to specify the color that fills in boxes and circles drawn on reports with the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods. You can also use this property with [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)to create special visual effects on custom reports when you print using a color printer or preview the reports on a color monitor. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `FillColor`
+_expression_. `FillColor`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

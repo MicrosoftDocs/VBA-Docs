@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Tag Property (Access)
+title: ToggleButton.Tag property (Access)
 keywords: vbaac10.chm11743
 f1_keywords:
 - vbaac10.chm11743
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Tag Property (Access)
+# ToggleButton.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

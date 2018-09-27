@@ -1,5 +1,5 @@
 ---
-title: ListBox.Exit Event (Access)
+title: ListBox.Exit event (Access)
 keywords: vbaac10.chm14174
 f1_keywords:
 - vbaac10.chm14174
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.Exit Event (Access)
+# ListBox.Exit event (Access)
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form or report.
 
 
 ## Syntax
 
- _expression_. `Exit`( ` _Cancel_` )
+_expression_. `Exit`( ` _Cancel_` )
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|Set to  **True** to cancel the event.|
 

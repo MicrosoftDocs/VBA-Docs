@@ -27,7 +27,7 @@ Occurs when an item in the specified collection is changed.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that was changed.|
 

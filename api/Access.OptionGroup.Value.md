@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Value Property (Access)
+title: OptionGroup.Value property (Access)
 keywords: vbaac10.chm10818
 f1_keywords:
 - vbaac10.chm10818
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Value Property (Access)
+# OptionGroup.Value property (Access)
 
 Gets or sets whether or not the specified option button is selected. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

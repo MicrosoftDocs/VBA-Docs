@@ -14,7 +14,7 @@ This enumeration is only for Macintosh and should not be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAutomaticUpdate**|4|Automatic update.|
 | **xlCancel**|1|Cancel.|

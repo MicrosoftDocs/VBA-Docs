@@ -27,7 +27,7 @@ Changes the password for a range that can be edited on a protected worksheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Password_|Required| **String**|The new password.|
 

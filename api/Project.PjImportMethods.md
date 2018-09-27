@@ -14,7 +14,7 @@ Contains constants that specify the method to use when importing data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjImportAppend**|1|Imported data is appended to the end of the active project.|
 |**pjImportMerge**|2|Imported data is merged into the active project.|

@@ -23,7 +23,7 @@ Runs a slide show of the specified presentation. Returns a  **[SlideShowWindow](
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
-### Return Value
+### Return value
 
 SlideShowWindow
 

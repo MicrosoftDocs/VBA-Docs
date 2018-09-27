@@ -19,7 +19,7 @@ You tried to access a database that is in an outdated format. Compact the databa
 
 For information about how to compact and repair Access databases, see the following:
 
-- [Application.CompactRepair Method (Access)](http://msdn.microsoft.com/library/4820fd79-d907-21bc-0ad5-5fc096c1ef3b%28Office.15%29.aspx)
+- [Application.CompactRepair method (Access)](http://msdn.microsoft.com/library/4820fd79-d907-21bc-0ad5-5fc096c1ef3b%28Office.15%29.aspx)
     
 - [Compact and Repair a Database](http://msdn.microsoft.com/library/5ad4e6b1-abfd-3f89-5c80-9e41397a96e8%28Office.15%29.aspx)
     

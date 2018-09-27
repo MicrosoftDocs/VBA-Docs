@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Undo Event (Access)
+title: NavigationControl.Undo event (Access)
 keywords: vbaac10.chm14210
 f1_keywords:
 - vbaac10.chm14210
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Undo Event (Access)
+# NavigationControl.Undo event (Access)
 
 Occurs when the user undoes a change.
 
 
 ## Syntax
 
- _expression_. `Undo`( ` _Cancel_`, )
+_expression_. `Undo`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

@@ -15,7 +15,7 @@ Specifies constants that define the IOD (install on demand) groups.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoIodGroupPIAs**|0|PIAs group.|
 |**msoIodGroupVSTOR35Mgd**|1|VSTO 3.5 managed group.|

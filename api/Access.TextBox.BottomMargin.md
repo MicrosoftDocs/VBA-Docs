@@ -1,5 +1,5 @@
 ---
-title: TextBox.BottomMargin Property (Access)
+title: TextBox.BottomMargin property (Access)
 keywords: vbaac10.chm11142
 f1_keywords:
 - vbaac10.chm11142
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BottomMargin Property (Access)
+# TextBox.BottomMargin property (Access)
 
 Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomMargin`
+_expression_. `BottomMargin`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

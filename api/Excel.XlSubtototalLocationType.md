@@ -14,7 +14,7 @@ Specifies where the subtotal will be displayed on the worksheet.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAtBottom**|2|Subtotal will be at the bottom.|
 | **xlAtTop**|1|Subtotal will be at the top.|

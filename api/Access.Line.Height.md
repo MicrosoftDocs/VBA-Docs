@@ -1,5 +1,5 @@
 ---
-title: Line.Height Property (Access)
+title: Line.Height property (Access)
 keywords: vbaac10.chm10335
 f1_keywords:
 - vbaac10.chm10335
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Height Property (Access)
+# Line.Height property (Access)
 
 Gets or sets the height of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Represents the layout type of the specified publication.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 ||||
 | **pbLayout4x6BaePan**| **10**||

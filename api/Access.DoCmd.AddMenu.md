@@ -1,5 +1,5 @@
 ---
-title: DoCmd.AddMenu Method (Access)
+title: DoCmd.AddMenu method (Access)
 keywords: vbaac10.chm4141
 f1_keywords:
 - vbaac10.chm4141
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.AddMenu Method (Access)
+# DoCmd.AddMenu method (Access)
 
 The  **AddMenu** method carries out the AddMenu action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `AddMenu`( ` _MenuName_`, ` _MenuMacroName_`, ` _StatusBarText_` )
+_expression_. `AddMenu`( ` _MenuName_`, ` _MenuMacroName_`, ` _StatusBarText_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MenuName_|Required|**Variant**|A string expression that's the valid name of a drop-down menu to add to the custom menu bar or global menu bar. To create an access key so that you can use the keyboard to choose the menu, type an ampersand (&;) before the letter you want to be the access key. This letter will be underlined in the menu name on the menu bar.|
 | _MenuMacroName_|Required|**Variant**|A string expression that's the valid name of the macro group that contains the macros for the menu's commands. This is a required argument.|

@@ -27,11 +27,11 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Node_|Required| **CustomXMLNode**|The XML node in the document's data store to which the content controls are linked.|
 
-### Return Value
+### Return value
 
 ContentControls
 

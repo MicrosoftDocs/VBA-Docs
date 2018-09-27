@@ -1,5 +1,5 @@
 ---
-title: Constants Enumeration (Access)
+title: Constants enumeration (Access)
 keywords: vbaac10.chm10006
 f1_keywords:
 - vbaac10.chm10006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Constants Enumeration (Access)
+# Constants enumeration (Access)
 
   
 
@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAltMask**|4||
 |**acApplyFilter**|1||

@@ -23,7 +23,7 @@ Forwards the  **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtu
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[MailItem](Outlook.MailItem.md)** object that represents the new mail item to which the calendar information is attached.
 

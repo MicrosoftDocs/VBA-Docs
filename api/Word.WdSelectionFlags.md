@@ -14,7 +14,7 @@ Specifies the properties of the selection.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSelActive**|8|The selection is the active selection.|
 | **wdSelAtEOL**|2|The selection is at the end of the letter.|

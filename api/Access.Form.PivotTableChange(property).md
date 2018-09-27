@@ -1,5 +1,5 @@
 ---
-title: Form.PivotTableChange Property (Access)
+title: Form.PivotTableChange property (Access)
 keywords: vbaac10.chm13538,vbaac10.chm5102
 f1_keywords:
 - vbaac10.chm13538,vbaac10.chm5102
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.PivotTableChange Property (Access)
+# Form.PivotTableChange property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **PivotTableChange** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `PivotTableChange`
+_expression_. `PivotTableChange`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

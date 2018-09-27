@@ -27,7 +27,7 @@ Scrolls the document window so that the contents of a specified rectangular area
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required| **Long**|The horizontal position of the rectangle (in points) from the left edge of the document window or pane.|
 | _Top_|Required| **Long**|The vertical position of the rectangle (in points) from the top of the document window or pane.|

@@ -17,7 +17,7 @@ Specfies the telephone number type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olContactPhoneAssistant**|0|Telephone number of the person who is the assistant for the contact|
 | **olContactPhoneBusiness**|1|Business telephone number|

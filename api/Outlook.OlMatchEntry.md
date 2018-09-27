@@ -17,7 +17,7 @@ Specifies if and how extensive entry matching is applied while the user types in
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMatchEntryComplete**|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered.|
 | **olMatchEntryFirstLetter**|0|Basic matching: The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|

@@ -27,12 +27,12 @@ Converts a measurement from points to pixels. Returns the converted measurement 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The point value to be converted to pixels.|
 | _fVertical_|Optional| **Variant**| **True** to return the result as vertical pixels; **False** to return the result as horizontal pixels.|
 
-### Return Value
+### Return value
 
 Single
 

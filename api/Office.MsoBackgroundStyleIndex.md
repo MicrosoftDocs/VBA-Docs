@@ -14,7 +14,7 @@ Indicates the background style for an object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBackgroundStyle1**|1|Specifies Style1.|
 |**msoBackgroundStyle10**|10|Specifies Style10.|

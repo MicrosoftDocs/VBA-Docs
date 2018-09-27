@@ -27,11 +27,11 @@ Runs a Microsoft Excel 4.0 macro function and then returns the result of the fun
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|A Microsoft Excel 4.0 macro language function without the equal sign. All references must be given as R1C1 strings. If  _String_ contains embedded double quotation marks, you must double them. For example, to run the macro function =MID("sometext",1,4), _String_ would have to be "MID(""sometext"",1,4)".|
 
-### Return Value
+### Return value
 
 Variant
 

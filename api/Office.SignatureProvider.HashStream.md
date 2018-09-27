@@ -27,12 +27,12 @@ Allows a signature provider add-in to create a hash value for the document that 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the hashing process.|
 | _Stream_|Required|**IStream**|Contains the data stream.|
 
-### Return Value
+### Return value
 
 Byte
 

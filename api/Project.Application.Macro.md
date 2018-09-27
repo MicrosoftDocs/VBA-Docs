@@ -27,11 +27,11 @@ Runs a macro.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the macro to run. If  **Name** is omitted, the **Macros** dialog box appears.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

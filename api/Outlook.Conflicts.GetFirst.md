@@ -23,7 +23,7 @@ Returns the first object in the  **[Conflicts](Outlook.Conflicts.md)** collectio
  _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
 
 
-### Return Value
+### Return value
 
 A  **[Conflict](Outlook.Conflict.md)** object that represents the first object contained by the collection.
 

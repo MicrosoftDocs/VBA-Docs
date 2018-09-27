@@ -27,7 +27,7 @@ Creates a picture from an existing file. Returns a  **Shape** object that repres
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The file from which the OLE object is to be created.|
 | _LinkToFile_|Required| **[MsoTriState](./Office.MsoTriState.md)**| The file to link to.|
@@ -37,7 +37,7 @@ Creates a picture from an existing file. Returns a  **Shape** object that repres
 | _Width_|Required| **Single**|The width of the picture, in points (enter -1 to retain the width of the existing file).|
 | _Height_|Required| **Single**|The height of the picture, in points (enter -1 to retain the height of the existing file).|
 
-### Return Value
+### Return value
 
 Shape
 

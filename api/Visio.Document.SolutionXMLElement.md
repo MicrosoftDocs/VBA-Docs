@@ -27,11 +27,11 @@ Contains solution-specific, well-formed XML data stored with a document. Read/wr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML data element.|
 
-### Return Value
+### Return value
 
 String
 

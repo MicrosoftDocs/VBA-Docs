@@ -27,11 +27,11 @@ Returns the sum of the squares of the arguments.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the sum of the squares. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return Value
+### Return value
 
 Double
 

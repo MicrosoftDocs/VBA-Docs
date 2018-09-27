@@ -14,7 +14,7 @@ Specifies the width of the arrowhead at the end of a line.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadNarrow**|1|Narrow.|
 |**msoArrowheadWide**|3|Wide.|

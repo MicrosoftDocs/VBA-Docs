@@ -27,11 +27,11 @@ Creates a new  **[TableStyle](Excel.TableStyle.md)** object and adds it to the c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TableStyleName_|Required| **String**|The name of the table style.|
 
-### Return Value
+### Return value
 
 TableStyle
 

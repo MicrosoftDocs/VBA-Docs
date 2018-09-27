@@ -23,7 +23,7 @@ Determines whether  **Validate addresses** is available under **Refine recipient
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

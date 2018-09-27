@@ -1,5 +1,5 @@
 ---
-title: Module.AddFromString Method (Access)
+title: Module.AddFromString method (Access)
 keywords: vbaac10.chm12273
 f1_keywords:
 - vbaac10.chm12273
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.AddFromString Method (Access)
+# Module.AddFromString method (Access)
 
 The  **AddFromString** method adds a string to a **[Module](Access.Module.md)** object. The **Module** object may represent a standard module or a class module.
 
 
 ## Syntax
 
- _expression_. `AddFromString`( ` _String_` )
+_expression_. `AddFromString`( ` _String_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _String_|Required|**String**|The information that you want to add to the module.|
 
-### Return Value
+### Return value
 
 Nothing
 

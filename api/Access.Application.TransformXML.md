@@ -1,5 +1,5 @@
 ---
-title: Application.TransformXML Method (Access)
+title: Application.TransformXML method (Access)
 keywords: vbaac10.chm12606
 f1_keywords:
 - vbaac10.chm12606
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TransformXML Method (Access)
+# Application.TransformXML method (Access)
 
 Applies an Extensible Stylesheet Language (XSL) stylesheet to an XML data file and writes the resulting XML to an XML data file.
 
 
 ## Syntax
 
- _expression_. `TransformXML`( ` _DataSource_`, ` _TransformSource_`, ` _OutputTarget_`, ` _WellFormedXMLOutput_`, ` _ScriptOption_` )
+_expression_. `TransformXML`( ` _DataSource_`, ` _TransformSource_`, ` _OutputTarget_`, ` _WellFormedXMLOutput_`, ` _ScriptOption_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataSource_|Required|**String**|The name and path of the XML file to import.|
 | _TransformSource_|Required|**String**|The name and path to the XSL file to apply to the XML data file.|
@@ -35,7 +35,7 @@ Applies an Extensible Stylesheet Language (XSL) stylesheet to an XML data file a
 | _WellFormedXMLOutput_|Optional|**Boolean**|Setting this argument to  **True** will create a well-formed XML file. Setting this argument to **False** will encode the resulting XML file in UTF-16 format. The default value is **False**.|
 | _ScriptOption_|Optional|**AcTransformXMLScriptOption**|A [AcTransformXMLScriptOption](Access.AcTransformXMLScriptOption.md) constant that specifies the action taken if the XSL file contains scripting code. The default value is **acPromptScript**.|
 
-### Return Value
+### Return value
 
 Nothing
 

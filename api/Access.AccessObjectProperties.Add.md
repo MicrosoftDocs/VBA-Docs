@@ -1,5 +1,5 @@
 ---
-title: AccessObjectProperties.Add Method (Access)
+title: AccessObjectProperties.Add method (Access)
 keywords: vbaac10.chm12703
 f1_keywords:
 - vbaac10.chm12703
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObjectProperties.Add Method (Access)
+# AccessObjectProperties.Add method (Access)
 
-You can use the  **Add** method to add a new property as an **AccessObjectProperty** object to the **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection of an **[AccessObject](Access.AccessObject.md)** object.
+You can use the **Add** method to add a new property as an **AccessObjectProperty** object to the **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection of an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _PropertyName_`, ` _Value_` )
+_expression_. `Add`( ` _PropertyName_`, ` _Value_` )
 
- _expression_ A variable that represents an [AccessObjectProperties](Access.AccessObjectProperties.md) object.
+_expression_ A variable that represents an [AccessObjectProperties](Access.AccessObjectProperties.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required|**String**|A string expression that's the name of the new property.|
-| _Value_|Required|**Variant**|A  **Variant** value corresponding to the option setting. The setting of the value argument depends on the possible settings for a particular option. Can be a constant or a string value.|
+| _Value_|Required|**Variant**|A **Variant** value corresponding to the option setting. The setting of the value argument depends on the possible settings for a particular option. Can be a constant or a string value.|
 
 ## Remarks
 
-You can use the  **Remove** method of the **AccessObjectProperties** collection to delete an existing property.
+You can use the **Remove** method of the **AccessObjectProperties** collection to delete an existing property.
 
 
 ## See also

@@ -15,7 +15,7 @@ Constants that specify the type of preset WordArt, passed to the  ** [Shapes.Add
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPresetWordArt1**|0|Style 1|
 | **pbPresetWordArt2**|1|Style 2|

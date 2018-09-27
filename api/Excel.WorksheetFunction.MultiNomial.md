@@ -27,11 +27,11 @@ Returns the ratio of the factorial of a sum of values to the product of factoria
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1,number2, ... - 1 to 29 values for which you want the multinomial.|
 
-### Return Value
+### Return value
 
 Double
 

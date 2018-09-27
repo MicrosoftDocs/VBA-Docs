@@ -14,7 +14,7 @@ Specifies the editing type of a node.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEditingAuto**|0|Editing type is appropriate to the segments being connected.|
 |**msoEditingCorner**|1|Corner node.|

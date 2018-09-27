@@ -23,7 +23,7 @@ Opens an icon window that shows a master's icon.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return Value
+### Return value
 
 Window
 

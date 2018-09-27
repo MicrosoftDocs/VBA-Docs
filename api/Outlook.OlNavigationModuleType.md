@@ -17,7 +17,7 @@ Identifies the navigation module type of a  **[NavigationModule](Outlook.Navigat
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olModuleCalendar**|1|A  **[CalendarModule](Outlook.CalendarModule.md)** object that represents the **Calendar** navigation module.|
 | **olModuleContacts**|2|A  **[ContactsModule](Outlook.ContactsModule.md)** object that represents the **Contacts** navigation module.|

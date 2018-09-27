@@ -30,7 +30,7 @@ Adds a list item to the specified command bar combo box control. The combo box c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required|**String**|The text added to the control.|
 | _Index_|Optional|**Variant**|The position of the item in the list. If this argument is omitted, the item is added to the end of the list.|

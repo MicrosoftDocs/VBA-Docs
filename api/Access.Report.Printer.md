@@ -1,5 +1,5 @@
 ---
-title: Report.Printer Property (Access)
+title: Report.Printer property (Access)
 keywords: vbaac10.chm13810
 f1_keywords:
 - vbaac10.chm13810
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Printer Property (Access)
+# Report.Printer property (Access)
 
 Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
 
- _expression_. `Printer`
+_expression_. `Printer`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Example

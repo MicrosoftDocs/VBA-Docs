@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.SetFocus Method (Access)
+title: NavigationControl.SetFocus method (Access)
 keywords: vbaac10.chm11035
 f1_keywords:
 - vbaac10.chm11035
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.SetFocus Method (Access)
+# NavigationControl.SetFocus method (Access)
 
 The  **SetFocus** method moves the focus to the specified form, the specified control on the active form, or the specified field on the active datasheet.
 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

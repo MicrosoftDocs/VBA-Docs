@@ -1,5 +1,5 @@
 ---
-title: Printer.RowSpacing Property (Access)
+title: Printer.RowSpacing property (Access)
 keywords: vbaac10.chm12873
 f1_keywords:
 - vbaac10.chm12873
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.RowSpacing Property (Access)
+# Printer.RowSpacing property (Access)
 
 Returns or sets a  **Long** indicating the horizontal space between detail sections in twips. Read/write.
 
 
 ## Syntax
 
- _expression_. `RowSpacing`
+_expression_. `RowSpacing`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

@@ -23,7 +23,7 @@ Sets or returns a  **Long** that represents the magenta component of a CMYK colo
  _expression_ A variable that represents a  **ColorCMYK** object.
 
 
-### Return Value
+### Return value
 
 Long
 

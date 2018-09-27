@@ -14,7 +14,7 @@ Contains constants that specify the type of a work contour.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBackLoaded**|1|Back-loaded.|
 |**pjBell**|6|Bell.|

@@ -14,7 +14,7 @@ Constants that specify the format of a sound file. In previous versions of Micro
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSoundFormatCDAudio**|3|CD Audio format|
 |**ppSoundFormatMIDI**|2|MIDI format|

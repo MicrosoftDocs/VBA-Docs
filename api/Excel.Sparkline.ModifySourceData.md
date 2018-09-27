@@ -27,11 +27,11 @@ Modifies the source data for a single sparkline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Formula_|Required| **String**| The range that contains the source data.|
 
-### Return Value
+### Return value
 
 Nothing
 

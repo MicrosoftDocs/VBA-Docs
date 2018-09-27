@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
  _expression_ A variable that represents a [DocumentProperties](./Office.DocumentProperties.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

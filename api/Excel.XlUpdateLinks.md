@@ -14,7 +14,7 @@ Specifies a workbook's setting for updating embedded OLE links.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlUpdateLinksAlways**|3|Embedded OLE links are always updated for the specified workbook.|
 | **xlUpdateLinksNever**|2|Embedded OLE links are never updated for the specified workbook.|

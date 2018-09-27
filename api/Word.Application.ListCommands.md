@@ -27,7 +27,7 @@ Creates a new document and then inserts a table of Word commands along with thei
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListAllCommands_|Required| **Boolean**| **True** to include all Word commands and their assignments (whether customized or built-in). **False** to include only commands with customized assignments.|
 

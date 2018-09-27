@@ -27,11 +27,11 @@ Determines whether the specified task exists. Returns  **True** if the task exis
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the task.|
 
-### Return Value
+### Return value
 
 Boolean
 

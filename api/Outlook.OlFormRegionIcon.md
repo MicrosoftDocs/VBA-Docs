@@ -17,7 +17,7 @@ Types of icons that Outlook can display for an item that uses a specified replac
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormRegionIconDefault**|1|The default icon for an item.|
 | **olFormRegionIconEncrypted**|9|The icon to display when an item has been encrypted.|

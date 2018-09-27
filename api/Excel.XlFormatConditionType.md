@@ -14,7 +14,7 @@ Specifies whether the conditional format is based on a cell value or an expressi
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAboveAverageCondition**|12|Above average condition|
 | **xlBlanksCondition**|10|Blanks condition|

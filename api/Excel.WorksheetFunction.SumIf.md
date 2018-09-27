@@ -27,13 +27,13 @@ Adds the cells specified by a given criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|Range - the range of cells that you want evaluated by criteria.|
 | _Arg2_|Required| **Variant**|Criteria - the criteria in the form of a number, expression, or text that defines which cells will be added. For example, criteria can be expressed as 32, "32", ">32", or "apples".|
 | _Arg3_|Optional| **Variant**|Sum_range - the actual cells to add if their corresponding cells in range match criteria. If sum_range is omitted, the cells in range are both evaluated by criteria and added if they match criteria.|
 
-### Return Value
+### Return value
 
 Double
 

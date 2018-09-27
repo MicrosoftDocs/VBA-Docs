@@ -27,13 +27,13 @@ Adds a row that has the specified name to the specified ShapeSheet section.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**| The section in which the row is to be added.|
 | _RowName_|Required| **String**|The name of the new row.|
 | _RowTag_|Required| **Integer**| The type of row to be added.|
 
-### Return Value
+### Return value
 
 Integer
 

@@ -14,7 +14,7 @@ Specifies cell reference style when a formula is being converted.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAbsolute**|1|Convert to absolute row and column style.|
 | **xlAbsRowRelColumn**|2|Convert to absolute row and relative column style.|

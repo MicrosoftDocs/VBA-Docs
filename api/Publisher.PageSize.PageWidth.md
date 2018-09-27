@@ -23,7 +23,7 @@ Gets or sets the page width of the blank page size represented by the parent  **
  _expression_ A variable that represents a  **PageSize** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

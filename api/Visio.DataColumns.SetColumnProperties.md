@@ -30,13 +30,13 @@ Sets one or more data-column properties for one or more data columns.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ColumnNames()_|Required| **String**|An array of strings that represent data column names.|
 | _Properties()_|Required| **Long**|An array of data-column properties, as  **VisDataColumnProperties** . See Remarks for possible values.|
 | _Values()_|Required| **Variant**|An array of values to be assigned to the properties. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Nothing
 

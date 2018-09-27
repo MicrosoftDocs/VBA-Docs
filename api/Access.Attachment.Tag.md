@@ -1,5 +1,5 @@
 ---
-title: Attachment.Tag Property (Access)
+title: Attachment.Tag property (Access)
 keywords: vbaac10.chm13973
 f1_keywords:
 - vbaac10.chm13973
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Tag Property (Access)
+# Attachment.Tag property (Access)
 
 Stores extra information about a control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

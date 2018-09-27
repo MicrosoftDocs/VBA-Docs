@@ -14,7 +14,7 @@ Specifies the appearance of delimiters (parentheses, braces, brackets) in relati
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdOMathShapeCentered**|0|Vertically centers delimiters around the entire height of the equation causing delimiters grow equally above and below their midpoint.|
 | **wdOMathShapeMatch**|1|Matches the shape of the delimiters to the size of their contents.|

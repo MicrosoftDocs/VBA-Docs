@@ -1,5 +1,5 @@
 ﻿---
-title: DoCmd Object (Access)
+title: DoCmd object (Access)
 keywords: vbaac10.chm4241
 f1_keywords:
 - vbaac10.chm4241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd Object (Access)
+# DoCmd object (Access)
 
 You can use the methods of the  **DoCmd** object to run Microsoft Office Access actions from Visual Basic. An action performs tasks such as closing windows, opening forms, and setting the value of controls.
 

@@ -27,7 +27,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DropType_|Required|**MsoCalloutDropType**|The starting position of the callout line relative to the text bounding box.|
 

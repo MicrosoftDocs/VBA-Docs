@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperties.Add Method (Access)
+title: SmartTagProperties.Add method (Access)
 keywords: vbaac10.chm13314
 f1_keywords:
 - vbaac10.chm13314
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperties.Add Method (Access)
+# SmartTagProperties.Add method (Access)
 
 Adds a custom property to a smart tag.
 
 
 ## Syntax
 
- _expression_. `Add`( ` _Name_`, ` _Value_` )
+_expression_. `Add`( ` _Name_`, ` _Value_` )
 
- _expression_ A variable that represents a [SmartTagProperties](Access.SmartTagProperties.md) object.
+_expression_ A variable that represents a [SmartTagProperties](Access.SmartTagProperties.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name to be used for the custom property.|
 | _Value_|Required|**Variant**|The value of the custom property.|
 
-### Return Value
+### Return value
 
 SmartTagProperty
 

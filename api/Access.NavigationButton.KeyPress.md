@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.KeyPress Event (Access)
+title: NavigationButton.KeyPress event (Access)
 keywords: vbaac10.chm14087
 f1_keywords:
 - vbaac10.chm14087
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.KeyPress Event (Access)
+# NavigationButton.KeyPress event (Access)
 
 The  **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `KeyPress`( ` _KeyAscii_`, )
+_expression_. `KeyPress`( ` _KeyAscii_`, )
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

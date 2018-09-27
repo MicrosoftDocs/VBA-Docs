@@ -14,7 +14,7 @@ Specifies the ideal screen resolution to be used to view a document in a Web bro
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoScreenSize1024x768**|4|1024x768 resolution.|
 |**msoScreenSize1152x882**|5|1152x882 resolution.|

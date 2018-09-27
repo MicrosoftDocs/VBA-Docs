@@ -27,7 +27,7 @@ Applies the specified style but maintains any formatting that a user directly ap
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StyleName_|Required| **String**|The name of the style to apply.|
 

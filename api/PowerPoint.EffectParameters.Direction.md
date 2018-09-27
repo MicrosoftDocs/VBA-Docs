@@ -23,7 +23,7 @@ Determines the direction used for an animation effect. This property can be used
  _expression_ A variable that represents a [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
-### Return Value
+### Return value
 
 MsoAnimDirection
 

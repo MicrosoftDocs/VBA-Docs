@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.SpecialEffect Property (Access)
+title: OptionGroup.SpecialEffect property (Access)
 keywords: vbaac10.chm10840
 f1_keywords:
 - vbaac10.chm10840
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.SpecialEffect Property (Access)
+# OptionGroup.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `SpecialEffect`
+_expression_. `SpecialEffect`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ Prints the contents of an object to the default printer.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

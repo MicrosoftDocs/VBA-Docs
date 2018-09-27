@@ -1,5 +1,5 @@
 ---
-title: CustomControl.BottomPadding Property (Access)
+title: CustomControl.BottomPadding property (Access)
 keywords: vbaac10.chm10527
 f1_keywords:
 - vbaac10.chm10527
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.BottomPadding Property (Access)
+# CustomControl.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## See also

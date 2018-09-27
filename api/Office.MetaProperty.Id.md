@@ -23,7 +23,7 @@ Gets the ID of the  **MetaProperty** object. Read-only.
  _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

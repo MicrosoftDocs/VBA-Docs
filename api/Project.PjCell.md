@@ -14,7 +14,7 @@ Contains constants that specify a cell.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCell1_1**|0|Column 1, row 1.|
 |**pjCell1_2**|4|Column 1, row 2.|

@@ -27,7 +27,7 @@ Occurs when a folder is about to be moved or deleted, either as a result of user
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveTo_|Required| **[Folder](Outlook.Folder.md)**|Represents the folder to which the item is being moved. |
 | _Cancel_|Required| **Boolean**|Set this to  **True** to cancel the move or delete action.|

@@ -14,7 +14,7 @@ Specifies where a node is added to a diagram relative to existing nodes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAfterLastSibling**|4|Node is added after last sibling.|
 |**msoAfterNode**|2|Node is added after current node.|

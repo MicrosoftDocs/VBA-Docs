@@ -1,5 +1,5 @@
 ---
-title: Section.SpecialEffect Property (Access)
+title: Section.SpecialEffect property (Access)
 keywords: vbaac10.chm12202
 f1_keywords:
 - vbaac10.chm12202
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.SpecialEffect Property (Access)
+# Section.SpecialEffect property (Access)
 
 You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `SpecialEffect`
+_expression_. `SpecialEffect`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

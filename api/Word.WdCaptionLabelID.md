@@ -14,7 +14,7 @@ Specifies the type for a caption label.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCaptionEquation**|-3|Equation.|
 | **wdCaptionFigure**|-1|Figure.|

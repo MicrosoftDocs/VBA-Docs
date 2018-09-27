@@ -1,5 +1,5 @@
 ---
-title: Screen.Parent Property (Access)
+title: Screen.Parent property (Access)
 keywords: vbaac10.chm12486
 f1_keywords:
 - vbaac10.chm12486
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Screen.Parent Property (Access)
+# Screen.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a [Screen](Access.Screen.md) object.
 
 
 ## See also

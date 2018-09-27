@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Verb Property (Access)
+title: CustomControl.Verb property (Access)
 keywords: vbaac10.chm12011
 f1_keywords:
 - vbaac10.chm12011
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Verb Property (Access)
+# CustomControl.Verb property (Access)
 
 You can use the  **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Verb`
+_expression_. `Verb`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

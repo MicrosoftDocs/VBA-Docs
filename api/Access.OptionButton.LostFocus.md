@@ -1,5 +1,5 @@
 ---
-title: OptionButton.LostFocus Event (Access)
+title: OptionButton.LostFocus event (Access)
 keywords: vbaac10.chm14139
 f1_keywords:
 - vbaac10.chm14139
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.LostFocus Event (Access)
+# OptionButton.LostFocus event (Access)
 
 The  **LostFocus** event occurs when the specified object loses the focus.
 
 
 ## Syntax
 
- _expression_. `LostFocus`
+_expression_. `LostFocus`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

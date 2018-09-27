@@ -27,7 +27,7 @@ _expression_ A variable that represents an [Application](Word.Application.md) ob
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The new document.|
 

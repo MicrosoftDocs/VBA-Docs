@@ -14,7 +14,7 @@ Specifies the language format to apply to the current date, time, or both.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDateLanguageBidi**|10|Bidirectional date/time format.|
 | **wdDateLanguageLatin**|1033|Latin date/time format.|

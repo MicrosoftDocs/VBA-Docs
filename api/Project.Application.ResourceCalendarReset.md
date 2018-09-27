@@ -27,13 +27,13 @@ Resets a resource calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of the project containing the resource calendar to reset.|
 | _ResourceName_|Required|**String**|The name of the resource for the calendar to reset.|
 | _BaseCalendar_|Optional|**String**|The name of the base calendar used to reset the resource calendar. The default value is the name of the current base calendar for the resource.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,7 +27,7 @@ Sets options for Project, where colors can be hexadecimal values, or opens the  
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveAfterReturn_|Optional|**Boolean**|**True** if the next cell or field becomes active when ENTER is pressed. **False** if the current cell or field remains active. The **Move selection after enter** option is on the **Advanced** tab of the **Project Options** dialog box.|
 | _DragAndDrop_|Optional|**Boolean**|**True** if cells may be copied or moved by dragging them; otherwise, **False**. The **Allow cell drag and drop** option is on the **Advanced** tab.|
@@ -50,7 +50,7 @@ Sets options for Project, where colors can be hexadecimal values, or opens the  
 | _SetDefaultsHyperlink_|Optional|**Boolean**|**True** if the hyperlink options specified in the **Display options for this project**section (**Advanced** tab) are used as the default values for new projects. The default value is **False**, which means that the hyperlink options are set only for the active project.|
 | _InCellEditing_|Optional|**Boolean**|**True** if in-cell editing is enabled; otherwise, **False**. Corresponds to the **Edit directly in cell** option in the **Edit** section of the **Advanced** tab.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -14,7 +14,7 @@ Contains constants that specify the layout mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLayoutAutomatic**|1|Layout is done automatically.|
 |**pjLayoutManual**|2|Layout is done manually.|

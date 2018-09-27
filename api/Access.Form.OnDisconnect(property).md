@@ -1,5 +1,5 @@
 ---
-title: Form.OnDisconnect Property (Access)
+title: Form.OnDisconnect property (Access)
 keywords: vbaac10.chm13537,vbaac10.chm5101
 f1_keywords:
 - vbaac10.chm13537,vbaac10.chm5101
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnDisconnect Property (Access)
+# Form.OnDisconnect property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[OnDisconnect](Access.Form.OnDisconnect(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `OnDisconnect`
+_expression_. `OnDisconnect`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

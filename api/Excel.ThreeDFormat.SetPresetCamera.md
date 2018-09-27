@@ -24,7 +24,7 @@ Sets the camera for the specified  **ThreeDFormat** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PresetCamera_|Required| **MsoPresetCamera**|Specifies the preset camera.|
 

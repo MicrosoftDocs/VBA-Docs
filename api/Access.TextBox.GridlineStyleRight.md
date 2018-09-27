@@ -1,5 +1,5 @@
 ---
-title: TextBox.GridlineStyleRight Property (Access)
+title: TextBox.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11158
 f1_keywords:
 - vbaac10.chm11158
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.GridlineStyleRight Property (Access)
+# TextBox.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

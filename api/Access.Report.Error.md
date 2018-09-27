@@ -1,5 +1,5 @@
 ---
-title: Report.Error Event (Access)
+title: Report.Error event (Access)
 keywords: vbaac10.chm13880
 f1_keywords:
 - vbaac10.chm13880
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Error Event (Access)
+# Report.Error event (Access)
 
 The Error event occurs when a run-time error is produced in Microsoft Access when a report has the focus.
 
 
 ## Syntax
 
- _expression_. `Error`( ` _DataErr_`, ` _Response_` )
+_expression_. `Error`( ` _DataErr_`, ` _Response_` )
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataErr_|Required|**Integer**|The error code returned by the Err object when an error occurs. You can use the DataErr argument with the Error function to map the number to the corresponding error message. |
 | _Response_|Required|**Integer**|The setting determines whether or not an error message is displayed. The Response argument can be one of the following intrinsic constants. 
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acDataErrContinue</b>  Ignore the error and continue without displaying the default Microsoft Access error message. You can supply a custom error message in place of the default error message.  
   </p></li><li><p><b>acDataErrDisplay</b>  (Default) Display the default Microsoft Access error message.</p></li></ul>|
 
-### Return Value
+### Return value
 
 nothing
 

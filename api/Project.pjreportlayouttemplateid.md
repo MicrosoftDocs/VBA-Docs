@@ -13,7 +13,7 @@ Contains constants that specify the type of template to apply for a report layou
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjReportLayoutComparison**|3|Apply a comparison report template.|
 |**pjReportLayoutTitleAndChart**|1|Apply a report template with a title and a chart.|

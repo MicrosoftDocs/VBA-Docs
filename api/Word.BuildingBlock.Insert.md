@@ -27,12 +27,12 @@ Inserts the value of a building block into a document and returns a  **[Range](W
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Where_|Required| **Range**|The location of where to place the contents of the building block.|
 | _RichText_|Optional| **Variant**| **True** inserts the building block as rich, formatted text. **False** inserts the building block as plain text.|
 
-### Return Value
+### Return value
 
 Range
 

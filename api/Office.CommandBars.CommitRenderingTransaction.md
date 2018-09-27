@@ -27,11 +27,11 @@ Commits the rendering transaction. Returns  **Nothing**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _hwnd_|Required|**Long**|A handle to the window in which to commit the rendering transaction.|
 
-### Return Value
+### Return value
 
 Nothing
 

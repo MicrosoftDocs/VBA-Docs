@@ -1,5 +1,5 @@
 ---
-title: TempVar Object (Access)
+title: TempVar object (Access)
 keywords: vbaac10.chm14063
 f1_keywords:
 - vbaac10.chm14063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TempVar Object (Access)
+# TempVar object (Access)
 
 Represents a variable that be used in Visual Basic for Applications (VBA) code or from a macro. 
 

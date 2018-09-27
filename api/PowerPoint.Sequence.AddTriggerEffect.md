@@ -27,7 +27,7 @@ Adds a trigger effect to the animation in a  **Sequence** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pShape_|Required|**Shape**|The  **Shape** object with animation.|
 | _effectId_|Required|**MsoAnimEffect**|The type of animation.|
@@ -36,7 +36,7 @@ Adds a trigger effect to the animation in a  **Sequence** object.
 | _bookmark_|Optional|**String**|The bookmark.|
 | _Level_|Optional|**MsoAnimateByLevel**|The level of animation.|
 
-### Return Value
+### Return value
 
 Effect
 

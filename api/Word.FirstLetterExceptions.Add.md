@@ -27,11 +27,11 @@ Returns a  **FirstLetterException** object that represents a new exception added
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word with two initial capital letters that you want Microsoft Word to overlook.|
 
-### Return Value
+### Return value
 
 FirstLetterException
 

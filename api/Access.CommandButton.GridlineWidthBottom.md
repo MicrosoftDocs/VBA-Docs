@@ -1,5 +1,5 @@
 ---
-title: CommandButton.GridlineWidthBottom Property (Access)
+title: CommandButton.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10535
 f1_keywords:
 - vbaac10.chm10535
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.GridlineWidthBottom Property (Access)
+# CommandButton.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified button. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

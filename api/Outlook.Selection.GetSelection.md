@@ -27,11 +27,11 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SelectionContents_|Required| **[OlSelectionContents](Outlook.OlSelectionContents.md)**|Specifies the kind of objects in the selection to return.|
 
-### Return Value
+### Return value
 
 A  **Selection** object that contains the specified kind of objects that are selected in the active explorer.
 

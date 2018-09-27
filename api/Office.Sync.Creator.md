@@ -23,7 +23,7 @@ Gets a 32-bit integer that indicates the application in which the  **Sync** obje
  _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

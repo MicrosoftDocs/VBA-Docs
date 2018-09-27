@@ -1,5 +1,5 @@
 ---
-title: DoCmd.SingleStep Method (Access)
+title: DoCmd.SingleStep method (Access)
 keywords: vbaac10.chm5766
 f1_keywords:
 - vbaac10.chm5766
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.SingleStep Method (Access)
+# DoCmd.SingleStep method (Access)
 
 Pauses macro execution and opens the  **Macro Single Step** dialog box.
 
 
 ## Syntax
 
- _expression_. `SingleStep`
+_expression_. `SingleStep`
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ## Remarks

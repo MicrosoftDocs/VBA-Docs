@@ -14,7 +14,7 @@ Contains constants that specify the display format for months in a timescale. Th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMonthLabelMonth_m**|11|Examples: S, O, N, D|
 |**pjMonthLabelMonth_mm**|57|Examples: 9, 10|

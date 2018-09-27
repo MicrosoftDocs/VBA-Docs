@@ -1,5 +1,5 @@
 ---
-title: Report.AutoCenter Property (Access)
+title: Report.AutoCenter property (Access)
 keywords: vbaac10.chm13797
 f1_keywords:
 - vbaac10.chm13797
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.AutoCenter Property (Access)
+# Report.AutoCenter property (Access)
 
 Returns or sets a  **Boolean** indicating whether a report will be centered automatically in the application window when the form is opened. Read/write.
 
 
 ## Syntax
 
- _expression_. `AutoCenter`
+_expression_. `AutoCenter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **TabStops2** collection.
  _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

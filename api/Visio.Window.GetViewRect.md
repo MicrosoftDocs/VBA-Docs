@@ -27,14 +27,14 @@ Returns the page coordinates of a window's borders.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pdLeft_|Required| **Double**|The coordinate in page units of the left side of the window.|
 | _pdTop_|Required| **Double**|The coordinate in page units of the top of the window.|
 | _pdWidth_|Required| **Double**|The distance in page units from the left side to the right side of the window.|
 | _pdHeight_|Required| **Double**|The distance in page units from the top to the bottom of the window.|
 
-### Return Value
+### Return value
 
 Nothing
 

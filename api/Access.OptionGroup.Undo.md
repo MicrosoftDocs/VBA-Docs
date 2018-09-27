@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.Undo Method (Access)
+title: OptionGroup.Undo method (Access)
 keywords: vbaac10.chm10811
 f1_keywords:
 - vbaac10.chm10811
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.Undo Method (Access)
+# OptionGroup.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

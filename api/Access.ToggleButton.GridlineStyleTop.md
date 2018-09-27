@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.GridlineStyleTop Property (Access)
+title: ToggleButton.GridlineStyleTop property (Access)
 keywords: vbaac10.chm11785
 f1_keywords:
 - vbaac10.chm11785
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.GridlineStyleTop Property (Access)
+# ToggleButton.GridlineStyleTop property (Access)
 
 Gets or sets the top gridline style of the specified toggle button. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleTop`
+_expression_. `GridlineStyleTop`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

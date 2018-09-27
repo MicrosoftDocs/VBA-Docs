@@ -17,7 +17,7 @@ Represents the sensitivity for the Microsoft Outlook item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olConfidential**|3|Confidential|
 | **olNormal**|0|Normal sensitivity|

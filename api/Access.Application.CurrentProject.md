@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentProject Property (Access)
+title: Application.CurrentProject property (Access)
 keywords: vbaac10.chm12576
 f1_keywords:
 - vbaac10.chm12576
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentProject Property (Access)
+# Application.CurrentProject property (Access)
 
 You can use the  **CurrentProject** property to access the **[CurrentProject](Access.CurrentProject.md)** object and its related collections, properties, and methods. Read-only **CurrentProject** object.
 
 
 ## Syntax
 
- _expression_. `CurrentProject`
+_expression_. `CurrentProject`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

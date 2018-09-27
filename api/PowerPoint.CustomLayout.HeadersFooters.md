@@ -23,7 +23,7 @@ Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that re
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return Value
+### Return value
 
 HeadersFooters
 

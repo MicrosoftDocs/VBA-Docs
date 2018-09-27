@@ -27,7 +27,7 @@ Provides a signature povider add-in the opportunity to display details about a s
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the signature details.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider.|

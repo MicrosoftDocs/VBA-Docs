@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.EventProcPrefix Property (Access)
+title: ObjectFrame.EventProcPrefix property (Access)
 keywords: vbaac10.chm11557
 f1_keywords:
 - vbaac10.chm11557
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.EventProcPrefix Property (Access)
+# ObjectFrame.EventProcPrefix property (Access)
 
 Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `EventProcPrefix`
+_expression_. `EventProcPrefix`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

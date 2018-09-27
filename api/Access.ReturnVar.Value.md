@@ -1,5 +1,5 @@
 ---
-title: ReturnVar.Value Property (Access)
+title: ReturnVar.Value property (Access)
 keywords: vbaac10.chm14690
 f1_keywords:
 - vbaac10.chm14690
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVar.Value Property (Access)
+# ReturnVar.Value property (Access)
 
 Gets the value of the specified  **[ReturnVar](Access.ReturnVar.md)**. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
+_expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
 
 
 ## Remarks

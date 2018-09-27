@@ -14,7 +14,7 @@ Specifies the type of underline that is applied to a font.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlUnderlineStyleDouble**|-4119|Double thick underline.|
 |**xlUnderlineStyleDoubleAccounting**|5|Two thin underlines placed close together.|

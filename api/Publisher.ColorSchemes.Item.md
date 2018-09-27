@@ -27,7 +27,7 @@ Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
 

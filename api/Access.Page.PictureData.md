@@ -1,5 +1,5 @@
 ---
-title: Page.PictureData Property (Access)
+title: Page.PictureData property (Access)
 keywords: vbaac10.chm12172
 f1_keywords:
 - vbaac10.chm12172
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.PictureData Property (Access)
+# Page.PictureData property (Access)
 
 You can use the  **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
 
 
 ## Syntax
 
- _expression_. `PictureData`
+_expression_. `PictureData`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

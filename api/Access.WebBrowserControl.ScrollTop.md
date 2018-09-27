@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ScrollTop Property (Access)
+title: WebBrowserControl.ScrollTop property (Access)
 keywords: vbaac10.chm14365,vbaac10.chm5909
 f1_keywords:
 - vbaac10.chm14365,vbaac10.chm5909
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ScrollTop Property (Access)
+# WebBrowserControl.ScrollTop property (Access)
 
 Gets or sets the distance, in pixels, between the top edge of the  **WebBrowser** object and the topmost portion of the content currently visible in the control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ScrollTop`
+_expression_. `ScrollTop`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

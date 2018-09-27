@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OptionValue Property (Access)
+title: CheckBox.OptionValue property (Access)
 keywords: vbaac10.chm10695
 f1_keywords:
 - vbaac10.chm10695
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OptionValue Property (Access)
+# CheckBox.OptionValue property (Access)
 
 Each control in an option group has a numeric value that you can set with the  **OptionValue** property. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `OptionValue`
+_expression_. `OptionValue`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

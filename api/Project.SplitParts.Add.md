@@ -24,7 +24,7 @@ Adds a  **SplitPart** object to a **SplitParts** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartSplitPartOn_|Required|**Variant**|The start date of the task portion.|
 | _EndSplitPartOn_|Required|**Variant**|The end date of the task portion. If EndSplitPartOn is on or before the date specified with StartSplitPartOn, the portion is not created.|

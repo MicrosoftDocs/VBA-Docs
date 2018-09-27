@@ -23,7 +23,7 @@ Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeUser](Out
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Return Value
+### Return value
 
  **Null** (**Nothing** in Visual Basic) because the **ExchangeUser** object does not correspond to a contact in a Contacts Address Book.
 

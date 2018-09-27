@@ -17,7 +17,7 @@ Specifies the time period for which an Outlook item is marked as a task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMarkComplete**|5|Mark the task as complete.|
 | **olMarkNextWeek**|3|Mark the task due next week.|

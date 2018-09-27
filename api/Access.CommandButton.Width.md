@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Width Property (Access)
+title: CommandButton.Width property (Access)
 keywords: vbaac10.chm10469
 f1_keywords:
 - vbaac10.chm10469
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Width Property (Access)
+# CommandButton.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

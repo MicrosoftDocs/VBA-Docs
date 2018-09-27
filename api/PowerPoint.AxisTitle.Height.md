@@ -23,7 +23,7 @@ Returns the height, in points, of the object. Read-only
  _expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md) object.
 
 
-### Return Value
+### Return value
 
 Double
 

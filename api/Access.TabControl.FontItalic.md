@@ -1,5 +1,5 @@
 ---
-title: TabControl.FontItalic Property (Access)
+title: TabControl.FontItalic property (Access)
 keywords: vbaac10.chm12093
 f1_keywords:
 - vbaac10.chm12093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.FontItalic Property (Access)
+# TabControl.FontItalic property (Access)
 
 You can use the  **FontItalic** property to specify whether text is italic in the following situations:
 
@@ -26,9 +26,9 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

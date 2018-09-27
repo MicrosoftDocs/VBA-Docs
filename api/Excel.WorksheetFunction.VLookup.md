@@ -27,14 +27,14 @@ Searches for a value in the first column of a table array and returns a value in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Lookup_value - the value to search in the first column of the table array. Lookup_value can be a value or a reference. If lookup_value is smaller than the smallest value in the first column of table_array, VLOOKUP returns the #N/A error value.|
 | _Arg2_|Required| **Variant**|Table_array - two or more columns of data. Use a reference to a range or a range name. The values in the first column of table_array are the values searched by lookup_value. These values can be text, numbers, or logical values. Uppercase and lowercase text are equivalent. |
 | _Arg3_|Required| **Variant**|Col_index_num - the column number in table_array from which the matching value must be returned. A col_index_num of 1 returns the value in the first column in table_array; a col_index_num of 2 returns the value in the second column in table_array, and so on.|
 | _Arg4_|Optional| **Variant**|Range_lookup - a logical value that specifies whether you want the  **VLookup** method to find an exact match or an approximate match:|
 
-### Return Value
+### Return value
 
 Variant
 

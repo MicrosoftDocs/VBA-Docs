@@ -20,7 +20,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Integer**|Specifies the color style of the chart. The values correspond to the  **Change Colors** drop-down list on the **Chart Styles** group, on the **DESIGN** tab, under **CHART TOOLS** on the ribbon (but the values are not in the same order).|
 | _Type_|Optional|**XlChartType**|The type of chart to add, such as a column chart or pie chart.|

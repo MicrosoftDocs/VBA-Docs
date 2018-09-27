@@ -1,5 +1,5 @@
 ---
-title: Form.OnConnect Property (Access)
+title: Form.OnConnect property (Access)
 keywords: vbaac10.chm13536,vbaac10.chm5100
 f1_keywords:
 - vbaac10.chm13536,vbaac10.chm5100
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.OnConnect Property (Access)
+# Form.OnConnect property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[OnConnect](Access.Form.OnConnect(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `OnConnect`
+_expression_. `OnConnect`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

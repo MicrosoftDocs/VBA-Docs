@@ -1,5 +1,5 @@
 ---
-title: TabControl.OnClick Property (Access)
+title: TabControl.OnClick property (Access)
 keywords: vbaac10.chm12105
 f1_keywords:
 - vbaac10.chm12105
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.OnClick Property (Access)
+# TabControl.OnClick property (Access)
 
 Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnClick`
+_expression_. `OnClick`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Click** event occurs when a user presses and releases the left mouse butt
 The  **OnClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

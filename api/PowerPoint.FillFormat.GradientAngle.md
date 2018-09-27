@@ -23,7 +23,7 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Return Value
+### Return value
 
  **Single**
 

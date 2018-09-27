@@ -24,11 +24,11 @@ Loads a drawing file into Microsoft Visio Viewer.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |UrlOrFilename|Required| **String**|The full path and file name or the URL of the file to be loaded.|
 
-### Return Value
+### Return value
 
 Boolean
 

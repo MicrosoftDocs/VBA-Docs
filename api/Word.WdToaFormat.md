@@ -14,7 +14,7 @@ Specifies the type of formatting to apply to the table of authorities in the act
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTOAClassic**|1|Classic formatting.|
 | **wdTOADistinctive**|2|Distinctive formatting.|

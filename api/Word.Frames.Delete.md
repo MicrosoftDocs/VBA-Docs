@@ -23,7 +23,7 @@ Deletes the specified Frames collection.
  _expression_ An expression that returns a '[Frames](Word.Frames.md)' object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

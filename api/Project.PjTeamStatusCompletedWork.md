@@ -14,7 +14,7 @@ Contains constants that specify how completed work should be reported.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBrokenDownByDay**|1|Report work by day.|
 |**pjBrokenDownByWeek**|2|Report work by week.|

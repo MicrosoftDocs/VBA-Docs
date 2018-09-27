@@ -27,7 +27,7 @@ Sets the selected state of an item at the specified location in the list to the 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value that specifies the location of an item in the list.|
 | _Selected_|Required| **Boolean**| **True** to indicate that the item should be selected, **False** to indicate that the item should not be selected.|

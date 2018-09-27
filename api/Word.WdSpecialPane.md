@@ -14,7 +14,7 @@ Specifies an item to display in the active window pane.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPaneComments**|15|Selected comments.|
 | **wdPaneCurrentPageFooter**|17|The page footer.|

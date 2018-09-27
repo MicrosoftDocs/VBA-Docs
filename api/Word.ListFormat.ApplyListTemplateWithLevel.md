@@ -27,7 +27,7 @@ Applies a set of list-formatting characteristics, optionally for a specified lev
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **[ListTemplate](Word.ListTemplate.md)**|The list template to be applied.|
 | _ContinuePreviousList_|Optional| **Variant**| **True** to continue the numbering from the previous list; **False** to start a new list.|

@@ -27,11 +27,11 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoFileDialogType**|The type of dialog to return.|
 
-### Return Value
+### Return value
 
 FileDialog
 

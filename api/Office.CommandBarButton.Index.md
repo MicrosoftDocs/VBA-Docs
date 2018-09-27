@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for an **CommandBarButton** objec
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

@@ -1,5 +1,5 @@
 ---
-title: References.Item Method (Access)
+title: References.Item method (Access)
 keywords: vbaac10.chm12640
 f1_keywords:
 - vbaac10.chm12640
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# References.Item Method (Access)
+# References.Item method (Access)
 
 The  **Item** method returns a specific member of a collection either by position or by key. **Reference** object.
 
 
 ## Syntax
 
- _expression_. `Item`( ` _var_` )
+_expression_. `Item`( ` _var_` )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _var_|Required|**Variant**|An expression that specifies the position of a member of the collection. If a numeric expression, the  _var_ argument must be a number from 1 to the value of the collection's **Count** property. If a string expression, the _var_ argument must be the name of a member of the collection.|
 
-### Return Value
+### Return value
 
 Reference
 

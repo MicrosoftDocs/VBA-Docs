@@ -20,7 +20,7 @@ Determines whether line spacing after the last line in each paragraph is set to 
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

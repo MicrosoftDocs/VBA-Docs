@@ -14,7 +14,7 @@ Indicates units of time measurement.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDays**|0|Specifies Day units.|
 |**xlMonths**|1|Specifies Month units.|

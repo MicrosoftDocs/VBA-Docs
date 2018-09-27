@@ -14,7 +14,7 @@ Specifies the type of the  **ReflectionFormat** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoReflectionType1**|1|Type 1.|
 |**msoReflectionType2**|2|Type 2.|

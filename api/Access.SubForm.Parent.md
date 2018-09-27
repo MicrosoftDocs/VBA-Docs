@@ -1,5 +1,5 @@
 ---
-title: SubForm.Parent Property (Access)
+title: SubForm.Parent property (Access)
 keywords: vbaac10.chm11915
 f1_keywords:
 - vbaac10.chm11915
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Parent Property (Access)
+# SubForm.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

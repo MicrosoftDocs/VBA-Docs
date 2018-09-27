@@ -27,7 +27,7 @@ Removes all information of the specified type from the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RemoveDocInfoType_|Required| **[XlRemoveDocInfoType](Excel.XlRemoveDocInfoType.md)**|Type of information to be removed.|
 

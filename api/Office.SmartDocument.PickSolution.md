@@ -27,7 +27,7 @@ Displays a dialog box that allows the user to choose an available XML expansion 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConsiderAllSchemas_|Optional|**Boolean**|**True** displays all available XML expansion packs installed on the user's computer. **False** displays only XML expansion packs applicable to the active document. Default value is **False**.|
 

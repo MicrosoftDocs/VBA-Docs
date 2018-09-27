@@ -27,7 +27,7 @@ Highlights a goal area on the  **Project Guide** toolbar to indicate it is curre
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _goalArea_|Required|**Long**|The ID of the goal area to highlight. For example, setting the  _goalArea_ argument to 1 highlights the first goal area in the **Goal Bar**.|
 

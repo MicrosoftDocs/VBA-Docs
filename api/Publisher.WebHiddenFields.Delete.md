@@ -27,7 +27,7 @@ Deletes the specified hidden Web field or Web list box item object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the Web field or list box item to delete.|
 

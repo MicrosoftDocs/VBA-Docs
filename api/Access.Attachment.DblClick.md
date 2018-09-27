@@ -1,5 +1,5 @@
 ---
-title: Attachment.DblClick Event (Access)
+title: Attachment.DblClick event (Access)
 keywords: vbaac10.chm14028
 f1_keywords:
 - vbaac10.chm14028
@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.DblClick Event (Access)
+# Attachment.DblClick event (Access)
 
 The **DblClick** event occurs when the user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 
 
 ## Syntax
 
- _expression_. `DblClick`(*Cancel*)
+_expression_. `DblClick`(*Cancel*)
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ### Parameters
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|Integer|The setting determines if the **DblClick** event occurs. Setting the _Cancel_ argument to **True** (1) cancels the **DblClick** event.|
 

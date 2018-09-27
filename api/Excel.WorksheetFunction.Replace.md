@@ -27,14 +27,14 @@ Replaces part of a text string, based on the number of characters you specify, w
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text in which you want to replace some characters.|
 | _Arg2_|Required| **Double**|The position of the character in  **Arg1** that you want to replace with **Arg4** .|
 | _Arg3_|Required| **Double**|The number of characters in  **Arg1** that you want the **Replace** method to replace with **Arg4** .|
 | _Arg4_|Required| **String**|Text that will replace characters in  **Arg1** .|
 
-### Return Value
+### Return value
 
 A String value that represents the new string, after replacement.
 

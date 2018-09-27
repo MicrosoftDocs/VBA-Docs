@@ -14,7 +14,7 @@ Indicates the effects camera type used by the specified object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCameraIsometricBottomDown**|23|Specifies Isometric Bottom Down.|
 |**msoCameraIsometricBottomUp**|22|Specifies Isometric Bottom Up.|

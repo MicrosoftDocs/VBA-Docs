@@ -27,7 +27,7 @@ Pastes the contents of the Clipboard, using a special format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataType_|Optional|**PpPasteDataType**|A format for the Clipboard contents when they're inserted into the document. The default value varies, depending on the contents in the Clipboard. An error occurs if the specified data type in the DataType argument is not supported by the clipboard contents.|
 | _DisplayAsIcon_|Optional|**MsoTriState**|**MsoTrue** to display the embedded object (or link) as an icon.|
@@ -36,7 +36,7 @@ Pastes the contents of the Clipboard, using a special format.
 | _IconLabel_|Optional|**String**|If DisplayAsIcon is set to  **msoTrue**, this argument is the text that appears below the icon. If this label is missing, Microsoft PowerPoint generates an icon label based on the Clipboard contents. If DisplayAsIcon is set to **msoFalse**, then this argument is ignored.|
 | _Link_|Optional|**MsoTriState**|Determines whether to create a link to the source file of the Clipboard contents. An error occurs if the Clipboard contents do not support a link.|
 
-### Return Value
+### Return value
 
 ShapeRange
 

@@ -14,7 +14,7 @@ Specifies the alignment of phonetic text that is added to the specified range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdPhoneticGuideAlignmentCenter**|0|Microsoft Word centers phonetic text over the specified range. This is the default value.|
 | **wdPhoneticGuideAlignmentLeft**|3|Word left-aligns phonetic text with the specified range.|

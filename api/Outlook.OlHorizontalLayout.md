@@ -17,7 +17,7 @@ Specifies the alignment of controls in the horizontal direction.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olHorizontalLayoutAlignCenter**|1|Align controls horizontally by the center of each control.|
 | **olHorizontalLayoutGrow**|3|Resize control horizontally with the form.|

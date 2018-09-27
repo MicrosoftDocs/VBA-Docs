@@ -1,5 +1,5 @@
 ---
-title: ComboBox.AllowAutoCorrect Property (Access)
+title: ComboBox.AllowAutoCorrect property (Access)
 keywords: vbaac10.chm11397
 f1_keywords:
 - vbaac10.chm11397
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.AllowAutoCorrect Property (Access)
+# ComboBox.AllowAutoCorrect property (Access)
 
 You can use the  **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AllowAutoCorrect`
+_expression_. `AllowAutoCorrect`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

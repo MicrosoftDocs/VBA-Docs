@@ -27,7 +27,7 @@ Occurs after a reminder has been modified.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|The  **Reminder** object that has been modified.|
 

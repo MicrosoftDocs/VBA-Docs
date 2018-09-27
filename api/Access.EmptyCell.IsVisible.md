@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.IsVisible Property (Access)
+title: EmptyCell.IsVisible property (Access)
 keywords: vbaac10.chm14317
 f1_keywords:
 - vbaac10.chm14317
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.IsVisible Property (Access)
+# EmptyCell.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

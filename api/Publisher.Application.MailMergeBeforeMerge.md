@@ -27,7 +27,7 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The mail merge main document.|
 |StartRecord|Required| **Long**|The first record in the data source to include in the mail merge.|

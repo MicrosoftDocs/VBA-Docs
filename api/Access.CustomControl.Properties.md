@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Properties Property (Access)
+title: CustomControl.Properties property (Access)
 keywords: vbaac10.chm12000
 f1_keywords:
 - vbaac10.chm12000
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Properties Property (Access)
+# CustomControl.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

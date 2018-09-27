@@ -23,7 +23,7 @@ Returns whether the specified presentation is read-only. Read-only.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

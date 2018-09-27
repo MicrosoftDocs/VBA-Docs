@@ -27,11 +27,11 @@ Obtains a  **String** that represents an item at the specified location in the l
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value that specifies the location of an item in the list.|
 
-### Return Value
+### Return value
 
 A  **String** value that represents the item at the specified location in the list.
 

@@ -12,7 +12,7 @@ Specifies the type of the category axis.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAutomaticScale**|-4105|Word controls the axis type.|
 | **xlCategoryScale**|2|Axis groups data by an arbitrary set of categories.|

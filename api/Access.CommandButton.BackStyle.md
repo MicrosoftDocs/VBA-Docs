@@ -1,5 +1,5 @@
 ---
-title: CommandButton.BackStyle Property (Access)
+title: CommandButton.BackStyle property (Access)
 keywords: vbaac10.chm10540
 f1_keywords:
 - vbaac10.chm10540
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.BackStyle Property (Access)
+# CommandButton.BackStyle property (Access)
 
 You can use the  **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `BackStyle`
+_expression_. `BackStyle`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

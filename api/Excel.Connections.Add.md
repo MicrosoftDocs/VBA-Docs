@@ -27,7 +27,7 @@ Adds a new connction to the workbook.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Name of the connection.|
 | _Description_|Required| **String**|Brief description about the connection.|
@@ -37,7 +37,7 @@ Adds a new connction to the workbook.
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create a connection to the PowerPivot model.|
 | _ImportRelationships]_|Optional| **Boolean**|Specifies whether to import any existing relationships.|
 
-### Return Value
+### Return value
 
 WorkbookConnection
 

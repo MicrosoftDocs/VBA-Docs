@@ -1,5 +1,5 @@
 ---
-title: TextBox.OldValue Property (Access)
+title: TextBox.OldValue property (Access)
 keywords: vbaac10.chm11031
 f1_keywords:
 - vbaac10.chm11031
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.OldValue Property (Access)
+# TextBox.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `OldValue`
+_expression_. `OldValue`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

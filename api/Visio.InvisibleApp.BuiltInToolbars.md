@@ -27,11 +27,11 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fIgnored_|Required| **Integer**|Required for backward compatibility, but ignored. It is suggested that you pass zero (0).|
 
-### Return Value
+### Return value
 
 UIObject
 

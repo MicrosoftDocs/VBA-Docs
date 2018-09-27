@@ -1,5 +1,5 @@
 ---
-title: CustomControl.Visible Property (Access)
+title: CustomControl.Visible property (Access)
 keywords: vbaac10.chm12013
 f1_keywords:
 - vbaac10.chm12013
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.Visible Property (Access)
+# CustomControl.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

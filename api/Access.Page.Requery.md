@@ -1,5 +1,5 @@
 ---
-title: Page.Requery Method (Access)
+title: Page.Requery method (Access)
 keywords: vbaac10.chm12142
 f1_keywords:
 - vbaac10.chm12142
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Requery Method (Access)
+# Page.Requery method (Access)
 
 The  **Requery** method updates the data underlying a specified control that's on the active form by requerying the source of data for the control.
 
 
 ## Syntax
 
- _expression_. `Requery`
+_expression_. `Requery`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

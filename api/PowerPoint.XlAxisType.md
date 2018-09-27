@@ -14,7 +14,7 @@ Specifies the axis type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlCategory**|1|Axis displays categories.|
 |**xlSeriesAxis**|3|Axis displays data series.|

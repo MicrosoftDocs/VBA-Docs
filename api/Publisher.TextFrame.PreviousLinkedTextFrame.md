@@ -23,7 +23,7 @@ Returns a  **[TextFrame](Publisher.TextFrame.md)** object representing the text 
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return Value
+### Return value
 
 TextFrame
 

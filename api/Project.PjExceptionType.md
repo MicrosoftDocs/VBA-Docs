@@ -14,7 +14,7 @@ Contains constants that specify a type of calendar exception.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDaily**|1|The exception recurrence pattern is daily.|
 |**pjDayCount**|7|The exception daily recurrence ends after a specified number of occurrences.|

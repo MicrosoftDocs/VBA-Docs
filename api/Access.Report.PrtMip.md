@@ -1,5 +1,5 @@
 ---
-title: Report.PrtMip Property (Access)
+title: Report.PrtMip property (Access)
 keywords: vbaac10.chm13737
 f1_keywords:
 - vbaac10.chm13737
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PrtMip Property (Access)
+# Report.PrtMip property (Access)
 
 You can use the  **PrtMip** property in Visual Basic to set or return the device mode information specified for a form or report in the **Print** dialog box.
 
 
 ## Syntax
 
- _expression_. `PrtMip`
+_expression_. `PrtMip`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

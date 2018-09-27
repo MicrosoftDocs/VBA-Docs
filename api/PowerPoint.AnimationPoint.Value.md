@@ -23,7 +23,7 @@ Sets or returns the value of a property for an animation point. Read/write.
  _expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

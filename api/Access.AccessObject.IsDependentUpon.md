@@ -1,5 +1,5 @@
 ---
-title: AccessObject.IsDependentUpon Method (Access)
+title: AccessObject.IsDependentUpon method (Access)
 keywords: vbaac10.chm12755
 f1_keywords:
 - vbaac10.chm12755
@@ -11,23 +11,21 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.IsDependentUpon Method (Access)
+# AccessObject.IsDependentUpon method (Access)
 
 Returns a **Boolean** value that indicates whether the specified object is dependent upon the database object specified in the _ObjectName_ argument.
 
 
 ## Syntax
 
- _expression_. `IsDependentUpon`( ` _ObjectType_`, ` _ObjectName_` )
+_expression_. `IsDependentUpon`( ` _ObjectType_`, ` _ObjectName_` )
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ### Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|An **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of database object to check for dependency.|
 | _ObjectName_|Required|**String**|The name of the database object to check for dependency.|

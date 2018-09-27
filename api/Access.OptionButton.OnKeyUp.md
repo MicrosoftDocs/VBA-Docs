@@ -1,5 +1,5 @@
 ---
-title: OptionButton.OnKeyUp Property (Access)
+title: OptionButton.OnKeyUp property (Access)
 keywords: vbaac10.chm10620
 f1_keywords:
 - vbaac10.chm10620
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.OnKeyUp Property (Access)
+# OptionButton.OnKeyUp property (Access)
 
 Sets or returns the value of the  **On Key Up** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnKeyUp`
+_expression_. `OnKeyUp`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **KeyUp** event occurs when a user presses a key while a form or control ha
 The  **OnKeyUp** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Key Up** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

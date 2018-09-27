@@ -1,5 +1,5 @@
 ---
-title: Report.Width Property (Access)
+title: Report.Width property (Access)
 keywords: vbaac10.chm13703
 f1_keywords:
 - vbaac10.chm13703
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Width Property (Access)
+# Report.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

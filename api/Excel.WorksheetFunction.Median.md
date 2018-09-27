@@ -27,11 +27,11 @@ Returns the median of the given numbers. The median is the number in the middle 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 numbers for which you want the median.|
 
-### Return Value
+### Return value
 
 Double
 

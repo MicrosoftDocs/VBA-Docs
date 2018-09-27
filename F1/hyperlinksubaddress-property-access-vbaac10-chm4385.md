@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/0fe41327-293b-ad6c-b8fe-0b30d472d9c9%28Office.15%29.aspx)
+[NavigationButton.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/0fe41327-293b-ad6c-b8fe-0b30d472d9c9%28Office.15%29.aspx)
 
-[Label.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/3f5cc647-71d8-59bc-b58a-931d1e76e849%28Office.15%29.aspx)
+[Label.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/3f5cc647-71d8-59bc-b58a-931d1e76e849%28Office.15%29.aspx)
 
-[Image.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/ba6f27ec-d28b-e495-4e63-9355cd26630b%28Office.15%29.aspx)
-[CommandButton.HyperlinkSubAddress Property (Access)](http://msdn.microsoft.com/library/1c8af1e0-f978-0eb2-c3b5-f5ea9ab84892%28Office.15%29.aspx)
+[Image.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/ba6f27ec-d28b-e495-4e63-9355cd26630b%28Office.15%29.aspx)
+[CommandButton.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/1c8af1e0-f978-0eb2-c3b5-f5ea9ab84892%28Office.15%29.aspx)
 

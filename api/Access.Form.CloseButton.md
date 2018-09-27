@@ -1,5 +1,5 @@
 ---
-title: Form.CloseButton Property (Access)
+title: Form.CloseButton property (Access)
 keywords: vbaac10.chm13376
 f1_keywords:
 - vbaac10.chm13376
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.CloseButton Property (Access)
+# Form.CloseButton property (Access)
 
 Specifies whether the  **Close** button on a form is enabled. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CloseButton`
+_expression_. `CloseButton`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Indicates the form registry (library) where the  **Form** is stored.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olDefaultRegistry**|0|The Form is registered in the user's default form registry.|
 | **olFolderRegistry**|3|The Form is registered in a form registry specific to a particular folder, and can only be accessed from that folder.|

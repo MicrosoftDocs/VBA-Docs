@@ -27,12 +27,12 @@ Creates an ActiveX control (formerly known as an OLE control). Returns the  **In
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|The programmatic identifier for the ActiveX control to be created.|
 | _Range_|Optional| **Variant**|The range where the ActiveX control will be placed in the text. The ActiveX control replaces the range, if the range isn't collapsed. If this argument is omitted, the Active X control is placed automatically.|
 
-### Return Value
+### Return value
 
 InlineShape
 

@@ -27,7 +27,7 @@ Edits a local outline code custom field definition.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**PjCustomField**|Specifies the custom outline code to edit. Can be one of the non-enterprise  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Level_|Optional|**Long**|The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.|
@@ -47,7 +47,7 @@ Edits a local outline code custom field definition.
 | _DefaultValue_|Optional|**String**|Specifies the default value of the outline code.|
 | _SortOrder_|Optional|**Long**|Specifies whether sorting is ascending, descending, or the lookup table row order. Can be one of the  **[PjListOrder](Project.PjListOrder.md)** constants. The default is **pjListOrderDefault**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

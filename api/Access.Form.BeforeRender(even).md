@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeRender Event (Access)
+title: Form.BeforeRender event (Access)
 keywords: vbaac10.chm13679
 f1_keywords:
 - vbaac10.chm13679
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeRender Event (Access)
+# Form.BeforeRender event (Access)
 
 Occurs before any object in the specified PivotChart view has been rendered.
 
 
 ## Syntax
 
- _expression_. `BeforeRender`( ` _drawObject_`, ` _chartObject_`, ` _Cancel_` )
+_expression_. `BeforeRender`( ` _drawObject_`, ` _chartObject_`, ` _Cancel_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _drawObject_|Required|**Object**|A reference to the  **ChChartDraw** object. Use the **DrawType** property of the returned object to determine what type of rendering is about to occur.|
 | _chartObject_|Required|**Object**| The object that is to be rendered. Use the **TypeName** function to determine the type of the object.|
 | _Cancel_|Required|**Object**| Set the **Value** property of this object to **True** to cancel the rendering of the PivotChart View object.|
 
-### Return Value
+### Return value
 
 nothing
 

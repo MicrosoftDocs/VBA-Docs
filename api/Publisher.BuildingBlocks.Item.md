@@ -24,7 +24,7 @@ Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object fr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Long**|The number of the building block object to return.|
 

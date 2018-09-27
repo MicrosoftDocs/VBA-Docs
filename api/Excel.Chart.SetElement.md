@@ -27,11 +27,11 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Element_|Required| **MsoChartElementType**|Specifies the chart element type.|
 
-### Return Value
+### Return value
 
 Nothing
 

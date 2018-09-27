@@ -27,11 +27,11 @@ Renames the top-level open undo scope.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrScopeName_|Required| **String**|The new name of the undo scope.|
 
-### Return Value
+### Return value
 
 Nothing
 

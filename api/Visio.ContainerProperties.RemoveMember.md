@@ -27,11 +27,11 @@ Removes a shape or set of shapes from the container.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToRemove_|Required| **[UNKNOWN]**|The shape or shapes to remove from the container. Can be a  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** selection.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

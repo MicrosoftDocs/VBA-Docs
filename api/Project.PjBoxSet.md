@@ -14,7 +14,7 @@ Contains constants that specify the creation, selection, or movement of a task i
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBoxAddToSelection**|0|Selects the task, retaining any existing selection.|
 |**pjBoxCreate**|1|Creates a new task, clearing any existing selection.|

@@ -20,7 +20,7 @@ Gets or sets a value that indicates whether warnings and alerts appear when an e
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

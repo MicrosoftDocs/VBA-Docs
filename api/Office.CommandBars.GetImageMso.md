@@ -30,13 +30,13 @@ Returns an  **IPictureDisp** object of the control image identified by the **idM
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 | _Width_|Required|**Integer**|The width of the image.|
 | _Height_|Required|**Integer**|The height of the image.|
 
-### Return Value
+### Return value
 
 IPictureDisp
 

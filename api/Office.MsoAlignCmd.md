@@ -14,7 +14,7 @@ Defines how to align specified objects relative to one another.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlignBottoms**|5|Align bottoms of specified objects.|
 |**msoAlignCenters**|1|Align centers of specified objects.|

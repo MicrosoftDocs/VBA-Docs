@@ -14,7 +14,7 @@ Specifies the type of information to remove from a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRDIAll**|99|Removes all document information.|
 | **wdRDIComments**|1|Removes document comments.|

@@ -1,5 +1,5 @@
 ---
-title: Attachment.Top Property (Access)
+title: Attachment.Top property (Access)
 keywords: vbaac10.chm13921
 f1_keywords:
 - vbaac10.chm13921
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Top Property (Access)
+# Attachment.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

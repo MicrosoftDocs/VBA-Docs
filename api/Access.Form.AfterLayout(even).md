@@ -1,5 +1,5 @@
 ---
-title: Form.AfterLayout Event (Access)
+title: Form.AfterLayout event (Access)
 keywords: vbaac10.chm13682
 f1_keywords:
 - vbaac10.chm13682
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterLayout Event (Access)
+# Form.AfterLayout event (Access)
 
 Occurs after all charts in the specfied PivotChart view have been laid out, but before they have been rendered.
 
 
 ## Syntax
 
- _expression_. `AfterLayout`( ` _drawObject_`, )
+_expression_. `AfterLayout`( ` _drawObject_`, )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
 
-### Return Value
+### Return value
 
 nothing
 

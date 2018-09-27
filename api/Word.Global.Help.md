@@ -27,7 +27,7 @@ Displays on-line Help information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these  **[WdHelpType](Word.WdHelpType.md)** constants.|
 

@@ -23,7 +23,7 @@ Returns or sets the state of the specified window. Read/write.
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Return Value
+### Return value
 
 PpWindowState
 

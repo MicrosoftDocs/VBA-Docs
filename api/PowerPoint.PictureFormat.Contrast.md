@@ -23,7 +23,7 @@ Returns or sets the contrast for the specified picture or OLE object.
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

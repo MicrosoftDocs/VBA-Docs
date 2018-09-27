@@ -27,12 +27,12 @@ Returns a  **MailMergeField** object that represents a mail merge field added to
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range where you want the field to appear. This field replaces the range, if the range isn't collapsed.|
 | _Name_|Required| **String**|The name of the field.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

@@ -27,11 +27,11 @@ Returns the parent item of the specified node in the conversation.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|A conversation node that is part of a conversation.|
 
-### Return Value
+### Return value
 
 An  **Object** that represents the parent conversation item of the node specified by the _Item_ parameter.
 

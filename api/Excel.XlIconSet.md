@@ -14,7 +14,7 @@ Specifies the type of icon set.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xl3Arrows**|1|3 Arrows|
 | **xl3ArrowsGray**|2|3 Arrows Gray|

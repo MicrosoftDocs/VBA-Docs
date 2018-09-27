@@ -25,7 +25,7 @@ Sorts a range of values.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (String) or **Range** object; determines the values to be sorted.|
 | _Order1_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key1_.|

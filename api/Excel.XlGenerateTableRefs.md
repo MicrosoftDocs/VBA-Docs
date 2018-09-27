@@ -14,7 +14,7 @@ Specifies the type of table references.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlA1TableRefs**|0|A1 Table References.|
 | **xlTableNames**|1|Table Names.|

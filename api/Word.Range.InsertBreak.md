@@ -27,7 +27,7 @@ Inserts a page, column, or section break.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **Variant**|The type of break to be inserted.Can be one of the  **WdBreakType** constants. If omitted, the default value is **wdPageBreak** .|
 

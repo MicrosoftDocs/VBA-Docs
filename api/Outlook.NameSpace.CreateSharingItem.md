@@ -27,12 +27,12 @@ Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Context_|Required| **Variant**|Either a  **String** value or a **[Folder](Outlook.Folder.md)** object representing the sharing context to be used.|
 | _Provider_|Optional| **Variant**|An  **[OlSharingProvider](Outlook.OlSharingProvider.md)** value representing the sharing provider to be used.|
 
-### Return Value
+### Return value
 
 A  **SharingItem** object that represents a sharing message for the specified context.
 

@@ -27,11 +27,11 @@ Opens or closes the connection to Project Server.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _fOffline_|Optional|**Boolean**|**True** closes the connection to Project Server. **False** opens the connection to Project Server.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

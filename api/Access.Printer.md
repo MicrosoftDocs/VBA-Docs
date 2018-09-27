@@ -1,5 +1,5 @@
 ---
-title: Printer Object (Access)
+title: Printer object (Access)
 keywords: vbaac10.chm12880
 f1_keywords:
 - vbaac10.chm12880
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer Object (Access)
+# Printer object (Access)
 
 A  **Printer** object corresponds to a printer available on your system.
 

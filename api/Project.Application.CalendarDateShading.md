@@ -27,13 +27,13 @@ Determines which calendar is used when determining when and how dates are shaded
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BaseCalendarName_|Optional|**String**|If referring to a single project, or the master project in a consolidated project, the name of a base calendar to use for shading. If referring to an subproject in a consolidated project, the name of a base calendar and the name of the subproject in the manner of " **Calendar** [ **Project** ]", where **Calendar** is the name of the base calendar and **Project** is the name of the subproject.|
 | _ResourceUniqueID_|Optional|**Long**|The unique identification number of a resource. The corresponding resource calendar is used for shading.|
 | _ProjectIndex_|Optional|**Variant**|Due to changes in the Project object model, this argument no longer has an effect. It has been retained for backward compatibility.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

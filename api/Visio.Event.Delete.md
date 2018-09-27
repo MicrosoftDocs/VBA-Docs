@@ -23,7 +23,7 @@ Deletes an object.
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

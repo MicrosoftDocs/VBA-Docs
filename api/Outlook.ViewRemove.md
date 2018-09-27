@@ -27,7 +27,7 @@ Occurs when a view has been removed from the specified collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _View_|Required| **[View](Outlook.View.md)**|The view which was removed from the collection prior to this event.|
 

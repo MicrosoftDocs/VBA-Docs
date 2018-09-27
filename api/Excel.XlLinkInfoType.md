@@ -14,7 +14,7 @@ Specifies the type of link.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLinkInfoOLELinks**|2|OLE or DDE server|
 | **xlLinkInfoPublishers**|5|Publisher|

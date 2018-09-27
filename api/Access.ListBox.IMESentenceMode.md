@@ -1,5 +1,5 @@
 ---
-title: ListBox.IMESentenceMode Property (Access)
+title: ListBox.IMESentenceMode property (Access)
 keywords: vbaac10.chm11298
 f1_keywords:
 - vbaac10.chm11298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.IMESentenceMode Property (Access)
+# ListBox.IMESentenceMode property (Access)
 
 
 
@@ -19,16 +19,14 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `IMESentenceMode`
+_expression_. `IMESentenceMode`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks
 
-The  **IMESentenceMode** property accepts the [AcImeSentenceMode Enumeration (Access)](Access.AcImeSentenceMode.md) enumeration.
-
-
+The  **IMESentenceMode** property accepts the [AcImeSentenceMode enumeration (Access)](Access.AcImeSentenceMode.md) enumeration.
 
 |**Setting**|**Description**|**Visual Basic**|
 |:-----|:-----|:-----|

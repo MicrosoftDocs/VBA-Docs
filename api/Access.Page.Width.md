@@ -1,5 +1,5 @@
 ---
-title: Page.Width Property (Access)
+title: Page.Width property (Access)
 keywords: vbaac10.chm12157
 f1_keywords:
 - vbaac10.chm12157
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Width Property (Access)
+# Page.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a [Page](Access.Page.md) object.
 
 
 ## Remarks

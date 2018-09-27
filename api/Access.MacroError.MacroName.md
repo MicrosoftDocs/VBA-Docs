@@ -1,5 +1,5 @@
 ---
-title: MacroError.MacroName Property (Access)
+title: MacroError.MacroName property (Access)
 keywords: vbaac10.chm14051
 f1_keywords:
 - vbaac10.chm14051
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError.MacroName Property (Access)
+# MacroError.MacroName property (Access)
 
 Gets the name of the macro that was running when an error occurred. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `MacroName`
+_expression_. `MacroName`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

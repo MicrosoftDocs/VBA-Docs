@@ -14,7 +14,7 @@ Specifies the type of pointer for the slideshow.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSlideShowPointerAlwaysHidden**|3|Pointer is always hidden.|
 |**ppSlideShowPointerArrow**|1|Arrow pointer used.|

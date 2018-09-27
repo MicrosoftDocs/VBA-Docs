@@ -27,7 +27,7 @@ Adds a text box to a drawing canvas. Returns a  **Shape** object that represents
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the  **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the text box.|

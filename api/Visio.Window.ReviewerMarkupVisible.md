@@ -27,11 +27,11 @@ Determines whether reviewer markup, for a particular reviewer or all reviewers, 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReviewerID_|Optional| **Long**|The ID of a particular reviewer. If you do not pass a reviewer ID, the  **ReviewerMarkupVisible** property value specifies visibility for all reviewers.|
 
-### Return Value
+### Return value
 
 Boolean
 

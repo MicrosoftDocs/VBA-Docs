@@ -27,12 +27,12 @@ Returns a  **Range** object that represents the next unit relative to the specif
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **[WdUnits](Word.WdUnits.md)** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
-### Return Value
+### Return value
 
 Range
 

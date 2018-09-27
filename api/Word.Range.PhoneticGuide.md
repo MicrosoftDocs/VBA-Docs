@@ -27,7 +27,7 @@ Adds phonetic guides to the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Text_|Required| **String**|The phonetic text to add.|
 | _Alignment_|Optional| **WdPhoneticGuideAlignmentType**|The alignment of the added phonetic text.|

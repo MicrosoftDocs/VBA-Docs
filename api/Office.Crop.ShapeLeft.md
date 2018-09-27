@@ -20,7 +20,7 @@ Gets or sets the location of the left-side of a shape that is used to crop an im
  _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

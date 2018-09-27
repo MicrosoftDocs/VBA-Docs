@@ -14,7 +14,7 @@ Specifies the type of workbook to create. The new workbook contains a single she
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlWBATChart**|-4109|Chart|
 | **xlWBATExcel4IntlMacroSheet**|4|Excel version 4 macro|

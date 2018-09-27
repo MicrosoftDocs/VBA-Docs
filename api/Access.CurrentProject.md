@@ -1,5 +1,5 @@
 ---
-title: CurrentProject Object (Access)
+title: CurrentProject object (Access)
 keywords: vbaac10.chm12739
 f1_keywords:
 - vbaac10.chm12739
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject Object (Access)
+# CurrentProject object (Access)
 
 The  **CurrentProject** object refers to the project for the current Microsoft Access project (.adp) or Access database.
 

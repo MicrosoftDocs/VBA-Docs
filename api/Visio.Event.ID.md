@@ -23,7 +23,7 @@ Gets the ID of an object. Read-only.
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

@@ -14,7 +14,7 @@ Specifies the type of list from a list template gallery.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdBulletGallery**|1|Bulleted list.|
 | **wdNumberGallery**|2|Numbered list.|

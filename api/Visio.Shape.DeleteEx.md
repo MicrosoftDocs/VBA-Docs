@@ -27,11 +27,11 @@ Deletes the additional shapes that are associated with the shape, such as connec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DelFlags_|Required| **Long**|The additional shapes to delete. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

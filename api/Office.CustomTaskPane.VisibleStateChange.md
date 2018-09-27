@@ -27,7 +27,7 @@ Occurs when the user changes the visibility of the custom task pane.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CustomTaskPaneInst_|Required|**CustomTaskPane**|The active task pane.|
 

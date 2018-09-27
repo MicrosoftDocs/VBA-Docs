@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineTint Property (Access)
+title: Image.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineTint Property (Access)
+# Image.GridlineTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineTint`
+_expression_. `GridlineTint`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

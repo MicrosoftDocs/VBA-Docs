@@ -27,7 +27,7 @@ Runs the specified procedure.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the macro to run.|
 | _Arg1_|Optional|**Variant**|Any argument to pass to the macro specified in Name.|

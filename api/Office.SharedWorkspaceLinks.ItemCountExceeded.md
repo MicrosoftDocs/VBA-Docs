@@ -26,7 +26,7 @@ Gets a  **Boolean** value that indicates whether the number of **SharedWorkspace
  _expression_ A variable that represents a [SharedWorkspaceLinks](./Office.SharedWorkspaceLinks.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

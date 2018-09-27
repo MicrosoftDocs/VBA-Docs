@@ -27,11 +27,11 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LookInFolders_|Required| **String**|The path name of the folders that the search will search through. You must enclose the folder path with single quotes.|
 
-### Return Value
+### Return value
 
  **True** if the search is synchronous; otherwise, **False** .
 

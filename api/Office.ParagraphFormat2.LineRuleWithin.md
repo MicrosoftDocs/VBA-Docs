@@ -20,7 +20,7 @@ Determines whether line spacing between base lines is set to a specific number o
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

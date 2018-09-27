@@ -14,7 +14,7 @@ Specifies page break location in the worksheet.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPageBreakAutomatic**|-4105|Excel will automatically add page breaks.|
 | **xlPageBreakManual**|-4135|Page breaks are manually inserted.|

@@ -1,5 +1,5 @@
 ---
-title: CommandButton.PressedForeThemeColorIndex Property (Access)
+title: CommandButton.PressedForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14624
 f1_keywords:
 - vbaac10.chm14624
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.PressedForeThemeColorIndex Property (Access)
+# CommandButton.PressedForeThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedForeThemeColorIndex`
+_expression_. `PressedForeThemeColorIndex`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

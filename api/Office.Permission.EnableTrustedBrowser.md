@@ -23,7 +23,7 @@ Gets or sets a value indicating whether to enable a browser from a trusted sourc
  _expression_ An expression that returns a [Permission](./Office.Permission.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

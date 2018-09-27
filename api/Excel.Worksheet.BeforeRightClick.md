@@ -27,7 +27,7 @@ Occurs when a worksheet is right-clicked, before the default right-click action.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurs.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action doesn't occur when the procedure is finished.|

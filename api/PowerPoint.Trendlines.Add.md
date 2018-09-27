@@ -27,7 +27,7 @@ Creates a new trendline.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**[XlTrendlineType](PowerPoint.XlTrendlineType.md)**|One of the enumeration values that specifies the trendline type. The default is  **xlLinear**.|
 | _Order_|Optional|**Variant**|The trendline order. Required ifType is set to  **xlPolynomial**. If specified, the value must be an integer from 2 through 6.|
@@ -42,7 +42,7 @@ Creates a new trendline.
 | _DisplayRSquared_|Optional|**Variant**|**True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default is **False**.|
 | _Name_|Optional|**Variant**|The name of the trendline. If omitted, Microsoft Word generates a name, and the  **[NameIsAuto](PowerPoint.Trendline.NameIsAuto.md)** property of the resulting **[Trendline](PowerPoint.Trendline.md)** object is set to **True**.|
 
-### Return Value
+### Return value
 
 A  **[Trendline](PowerPoint.Trendline.md)** object that represents the new trendline.
 

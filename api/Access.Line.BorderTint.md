@@ -1,5 +1,5 @@
 ---
-title: Line.BorderTint Property (Access)
+title: Line.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.BorderTint Property (Access)
+# Line.BorderTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BorderTint`
+_expression_. `BorderTint`
 
- _expression_ A variable that represents a [Line](Access.Line.md) object.
+_expression_ A variable that represents a [Line](Access.Line.md) object.
 
 
 ## Remarks

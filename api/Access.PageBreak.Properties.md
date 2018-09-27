@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Properties Property (Access)
+title: PageBreak.Properties property (Access)
 keywords: vbaac10.chm11669
 f1_keywords:
 - vbaac10.chm11669
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Properties Property (Access)
+# PageBreak.Properties property (Access)
 
 Returns a reference to a control's **[Properties](Access.Properties.md)** collection object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Properties`
+_expression_. `Properties`
 
- _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
+_expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

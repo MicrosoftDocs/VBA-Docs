@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState** constant indicating whether to apply kashida
  _expression_ A variable that represents an  **Font** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

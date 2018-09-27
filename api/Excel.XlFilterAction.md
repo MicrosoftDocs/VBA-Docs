@@ -14,7 +14,7 @@ Specifies whether data is to be copied or left in place during a filter operatio
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFilterCopy**|2|Copy filtered data to new location.|
 | **xlFilterInPlace**|1|Leave data in place.|

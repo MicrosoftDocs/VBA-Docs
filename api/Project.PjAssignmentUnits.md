@@ -14,7 +14,7 @@ Contains constants that specify assignment units.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDecimalAssignmentUnits**|1|Decimal.|
 |**pjPercentageAssignmentUnits**|0|Percentage.|

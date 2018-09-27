@@ -27,13 +27,13 @@ Finds specific information in a worksheet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The name of the worksheet.|
 | _Arg2_|Required| **String**|The name of the range.|
 | _Arg3_|Optional| **Variant**|The name of an argument to refine the search.|
 
-### Return Value
+### Return value
 
 Double
 

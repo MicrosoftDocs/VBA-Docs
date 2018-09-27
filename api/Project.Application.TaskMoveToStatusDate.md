@@ -27,12 +27,12 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveCompleted_|Optional|**Boolean**|**True** if the completed parts of tasks are moved to the status date; otherwise, **False**. The default is **False**.|
 | _MoveIncomplete_|Optional|**Boolean**|**True** if the incomple parts of tasks are moved to the status date; otherwise, **False**. The default is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

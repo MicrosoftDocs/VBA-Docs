@@ -23,7 +23,7 @@ Determines if and under what circumstances Microsoft PowerPoint returns to the i
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

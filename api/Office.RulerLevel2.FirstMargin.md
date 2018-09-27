@@ -20,7 +20,7 @@ Gets or sets the first-line indent for the specified outline level, in points. R
  _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

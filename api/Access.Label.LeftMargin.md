@@ -1,5 +1,5 @@
 ---
-title: Label.LeftMargin Property (Access)
+title: Label.LeftMargin property (Access)
 keywords: vbaac10.chm10234
 f1_keywords:
 - vbaac10.chm10234
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.LeftMargin Property (Access)
+# Label.LeftMargin property (Access)
 
 Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `LeftMargin`
+_expression_. `LeftMargin`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

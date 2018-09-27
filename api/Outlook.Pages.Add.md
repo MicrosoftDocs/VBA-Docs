@@ -27,11 +27,11 @@ Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**| The name of the page.|
 
-### Return Value
+### Return value
 
 A  **[Page](./Outlook.page.md)** object that represents the new page.
 

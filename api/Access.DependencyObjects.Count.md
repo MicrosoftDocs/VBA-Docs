@@ -1,5 +1,5 @@
 ---
-title: DependencyObjects.Count Property (Access)
+title: DependencyObjects.Count property (Access)
 keywords: vbaac10.chm13269
 f1_keywords:
 - vbaac10.chm13269
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyObjects.Count Property (Access)
+# DependencyObjects.Count property (Access)
 
 You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
+_expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
 
 
 ## See also

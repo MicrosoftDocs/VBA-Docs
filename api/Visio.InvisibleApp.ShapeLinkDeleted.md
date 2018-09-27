@@ -27,7 +27,7 @@ Private Sub  _expression_ _'ShapeLinkDeleted'(**_ByVal Shape As [IVSHAPE]_** , *
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required| **[IVSHAPE]**|The shape whose link to a data row was broken.|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data row that was linked to the shape.|

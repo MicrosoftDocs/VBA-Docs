@@ -27,11 +27,11 @@ Queues a  **MarkerEvent** event that fires after all other queued events.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ContextString_|Required| **String**|An arbitrary string that is passed with the event that fires.|
 
-### Return Value
+### Return value
 
 Long
 

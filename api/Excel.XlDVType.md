@@ -14,7 +14,7 @@ Specifies the type of validation test to be performed in conjunction with values
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlValidateCustom**|7|Data is validated using an arbitrary formula.|
 | **xlValidateDate**|4|Date values.|

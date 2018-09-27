@@ -27,11 +27,11 @@ Opens a page in design mode in the inspector for the specified form region.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|A full local file path to the Outlook Form Storage (.OFS) file for the form region that is to be opened in the inspector.|
 
-### Return Value
+### Return value
 
 An  **Object** that represents the page displaying the form region in the inspector.
 

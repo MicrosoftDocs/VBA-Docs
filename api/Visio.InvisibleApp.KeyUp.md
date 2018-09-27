@@ -24,7 +24,7 @@ Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_** , **_ByVal KeyBut
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|The key that was released. See Remarks for possible values.|
 | _KeyButtonState_|Required| **Long**|The state of the SHIFT and CTRL keys for the event. See Remarks for possible values.|

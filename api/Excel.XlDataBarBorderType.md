@@ -14,7 +14,7 @@ Specifies the border of a data bar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDataBarBorderNone**|0|The data bar has no border.|
 | **xlDataBarBorderSolid**|1|The data bar has a solid border.|

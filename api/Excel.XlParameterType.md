@@ -14,7 +14,7 @@ Specifies how to determine the value of the parameter for the specified query ta
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlConstant**|1|Uses the value specified by the **Value** argument.|
 | **xlPrompt**|0|Displays a dialog box that prompts the user for the value. The **Value** argument specifies the text shown in the dialog box.|

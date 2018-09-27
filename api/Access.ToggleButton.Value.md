@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Value Property (Access)
+title: ToggleButton.Value property (Access)
 keywords: vbaac10.chm11696
 f1_keywords:
 - vbaac10.chm11696
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Value Property (Access)
+# ToggleButton.Value property (Access)
 
 Determines or specifies whether or not the specified toggle button control is selected. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -27,12 +27,12 @@ Returns a locale-specific array of names of themes contained in the document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _eType_|Required| **VisThemeTypes**|The type of the theme, an enumerated value from the  **VisThemeTypes** enumeration. See Remarks for possible values.|
 | _NameArray()_|Required| **String**|Out parameter. An array of locale-specific theme names returned by the method.|
 
-### Return Value
+### Return value
 
 Nothing
 

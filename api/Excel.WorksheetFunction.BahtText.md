@@ -27,11 +27,11 @@ Converts a number to Thai text and adds a suffix of "Baht."
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A number you want to convert to text, or a reference to a cell containing a number, or a formula that evaluates to a number.|
 
-### Return Value
+### Return value
 
 String
 

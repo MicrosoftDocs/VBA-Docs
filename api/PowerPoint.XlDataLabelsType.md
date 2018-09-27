@@ -14,7 +14,7 @@ Specifies the type of data label to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDataLabelsShowBubbleSizes**|6|Show the size of the bubble in reference to the absolute value.|
 |**xlDataLabelsShowLabel**|4|The category for the point.|

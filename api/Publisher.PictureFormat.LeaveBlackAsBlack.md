@@ -23,7 +23,7 @@ Returns  **True** if, when you recolor the image represented by the parent **Pic
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

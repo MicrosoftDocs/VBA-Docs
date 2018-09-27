@@ -15,7 +15,7 @@ Specifies the type of line cap.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineCapFlat**|**3**|Specifies a flat line cap.|
 |**msoLineCapMixed**|**-2**|Specifies a mixture of line caps.|

@@ -14,7 +14,7 @@ Constants that specify the state of the slide show, passed to and returned by th
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppSlideShowBlackScreen**|3|Black screen|
 |**ppSlideShowDone**|5|Done|

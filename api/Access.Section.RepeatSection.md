@@ -1,5 +1,5 @@
 ---
-title: Section.RepeatSection Property (Access)
+title: Section.RepeatSection property (Access)
 keywords: vbaac10.chm12199
 f1_keywords:
 - vbaac10.chm12199
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.RepeatSection Property (Access)
+# Section.RepeatSection property (Access)
 
 You can use the  **RepeatSection** property to specify whether a group header is repeated on the next page or column when a group spans more than one page or column. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `RepeatSection`
+_expression_. `RepeatSection`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

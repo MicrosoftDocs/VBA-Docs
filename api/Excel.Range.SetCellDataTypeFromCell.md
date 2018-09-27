@@ -23,7 +23,7 @@ Creates another instance of a Linked data type such as [Stocks or Geography](htt
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range _from_ which you want to copy the Linked data type. If the range has more than one cell in it, only the upper-left cell will be used. |
 

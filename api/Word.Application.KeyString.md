@@ -27,12 +27,12 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
 | _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
 
-### Return Value
+### Return value
 
 String
 

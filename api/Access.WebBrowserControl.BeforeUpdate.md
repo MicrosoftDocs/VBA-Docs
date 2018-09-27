@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.BeforeUpdate Event (Access)
+title: WebBrowserControl.BeforeUpdate event (Access)
 keywords: vbaac10.chm143124
 f1_keywords:
 - vbaac10.chm143124
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.BeforeUpdate Event (Access)
+# WebBrowserControl.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`( ` _Cancel_`, )
+_expression_. `BeforeUpdate`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

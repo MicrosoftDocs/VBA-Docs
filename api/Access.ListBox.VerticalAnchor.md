@@ -1,5 +1,5 @@
 ---
-title: ListBox.VerticalAnchor Property (Access)
+title: ListBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm11320
 f1_keywords:
 - vbaac10.chm11320
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.VerticalAnchor Property (Access)
+# ListBox.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified list box is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

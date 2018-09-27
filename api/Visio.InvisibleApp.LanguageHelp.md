@@ -23,7 +23,7 @@ Represents the language ID of the Help in the version of the Microsoft Visio ins
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

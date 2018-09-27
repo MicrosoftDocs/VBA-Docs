@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Parent Property (Access)
+title: ObjectFrame.Parent property (Access)
 keywords: vbaac10.chm11548
 f1_keywords:
 - vbaac10.chm11548
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Parent Property (Access)
+# ObjectFrame.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## See also

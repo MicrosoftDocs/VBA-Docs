@@ -27,12 +27,12 @@ Adds a new  **Document** object that represents a new publication to the **Docum
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PbWizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
 |desid|Optional| **Long**|The ID of the design to apply to the new publication.|
 
-### Return Value
+### Return value
 
 Document
 

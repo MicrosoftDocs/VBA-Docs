@@ -27,11 +27,11 @@ Removes hidden information, such as personal information and external data, from
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _VisRemoveHiddenInfoItems_|Required| **Long**|The items to be removed. A combination of one or more enumerated values from the  **VisRemoveHiddenInfoItems** enumeration. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Nothing
 

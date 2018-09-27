@@ -23,7 +23,7 @@ For callouts with an explicitly set drop value, this property returns the vertic
  _expression_ A variable that represents a  **CalloutFormat** object.
 
 
-### Return Value
+### Return value
 
 Variant
 

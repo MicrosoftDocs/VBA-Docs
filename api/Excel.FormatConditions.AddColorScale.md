@@ -27,11 +27,11 @@ Returns a new  **[ColorScale](Excel.ColorScale.md)** object representing a condi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ColorScaleType_|Required| **Long**|The type of color scale.|
 
-### Return Value
+### Return value
 
  **ColorScale** object
 

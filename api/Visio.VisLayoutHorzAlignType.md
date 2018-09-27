@@ -17,7 +17,7 @@ Specifies constants that define the different ways to incrementally align a shap
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutHorzAlignNone**|0|Do not align horizontally.|
 | **visLayoutHorzAlignDefault**|1|Let Visio choose how to align horizontally.|

@@ -1,5 +1,5 @@
 ---
-title: AccessObject.Type Property (Access)
+title: AccessObject.Type property (Access)
 keywords: vbaac10.chm12747
 f1_keywords:
 - vbaac10.chm12747
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# AccessObject.Type Property (Access)
+# AccessObject.Type property (Access)
 
 Returns the value of an  **[AccessObject](Access.AccessObject.md)** object type. Read-only **[AcObjectType](Access.AcObjectType.md)**.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
 ## See also

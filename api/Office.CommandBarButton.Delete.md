@@ -27,7 +27,7 @@ Deletes the  **CommandBarButton** object from its collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Temporary_|Optional|**Variant**|**True** to delete the control for the current session. The application will display the control again in the next session.|
 

@@ -1,5 +1,5 @@
 ---
-title: Report.Application Property (Access)
+title: Report.Application property (Access)
 keywords: vbaac10.chm13778
 f1_keywords:
 - vbaac10.chm13778
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Application Property (Access)
+# Report.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies the type of data in the  **PivotTable** field.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDate**|2|Contains a date.|
 | **xlNumber**|-4145|Contains a number.|

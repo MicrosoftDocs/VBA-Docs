@@ -27,11 +27,11 @@ Reassigns the selected assignments in the Team Planner view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ResourceUniqueID_|Required|**Long**|Identification number of the resource for the new assignment, or -65535 for unassigned.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

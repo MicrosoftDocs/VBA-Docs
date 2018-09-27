@@ -1,5 +1,5 @@
 ---
-title: CustomControl.GridlineStyleLeft Property (Access)
+title: CustomControl.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm10528
 f1_keywords:
 - vbaac10.chm10528
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomControl.GridlineStyleLeft Property (Access)
+# CustomControl.GridlineStyleLeft property (Access)
 
 Gets or sets the width of the bottom gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleLeft`
+_expression_. `GridlineStyleLeft`
 
- _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
 ## Remarks

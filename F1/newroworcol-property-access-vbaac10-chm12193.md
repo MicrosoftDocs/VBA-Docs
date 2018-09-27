@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.NewRowOrCol Property (Access)](http://msdn.microsoft.com/library/c14c669a-9aff-6fc1-9bcc-b7bf011abed1%28Office.15%29.aspx)
+[Section.NewRowOrCol property (Access)](http://msdn.microsoft.com/library/c14c669a-9aff-6fc1-9bcc-b7bf011abed1%28Office.15%29.aspx)
 

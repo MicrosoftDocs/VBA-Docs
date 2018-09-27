@@ -1,5 +1,5 @@
 ---
-title: DoCmd.NavigateTo Method (Access)
+title: DoCmd.NavigateTo method (Access)
 keywords: vbaac10.chm5689
 f1_keywords:
 - vbaac10.chm5689
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.NavigateTo Method (Access)
+# DoCmd.NavigateTo method (Access)
 
 You can use the  **NavigateTo** method to control the display of database objects in the Navigation Pane. .
 
 
 ## Syntax
 
- _expression_. `NavigateTo`( ` _Category_`, ` _Group_` )
+_expression_. `NavigateTo`( ` _Category_`, ` _Group_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Category_|Optional|**Variant**|The category by which you want the Navigation Pane to display objects. |
 | _Group_|Optional|**Variant**|Determines which objects in the category appear in the Navigation Pane. If you leave the this argument blank, the Navigation Pane will display all database objects grouped by the criteria you specify in the  _Category_ argument. Examples of valid _Group_ arguments for the various _Category_ arguments are shown in the following table.|

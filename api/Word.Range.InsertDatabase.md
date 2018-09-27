@@ -27,7 +27,7 @@ Retrieves data from a data source (for example, a separate Microsoft Word docume
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Optional| **Variant**|A format listed in the  **Formats** box in the **Table AutoFormat** dialog box (**Table** menu). Can be any of the **WdTableFormat** constants. A border is applied to the cells in the table by default.|
 | _Style_|Optional| **Variant**|The attributes of the AutoFormat specified by Format that are applied to the table.|

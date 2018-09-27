@@ -27,12 +27,12 @@ Activates the drawing feature.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**Long**|The type of drawing to create. Can be one of the following  **PjShape** constants: **pjOLEObject**, **pjLine**, **pjArrow**, **pjRectangle**, **pjEllipse**, **pjArc**, **pjPolygon**, or **pjTextBox**.|
 | _Behind_|Optional|**Boolean**|**True** if the drawing is created behind task bars. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -1,5 +1,5 @@
 ---
-title: SmartTagActions Object (Access)
+title: SmartTagActions object (Access)
 keywords: vbaac10.chm13295
 f1_keywords:
 - vbaac10.chm13295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagActions Object (Access)
+# SmartTagActions object (Access)
 
 Represents a collection of actions for an individual smart tag or a type of smart tag. 
 

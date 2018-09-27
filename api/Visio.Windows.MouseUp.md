@@ -27,7 +27,7 @@ Private Sub  _expression_ _'MouseUp'(**_ByVal Button As Long_** , **_ByVal KeyBu
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required| **Long**|The mouse button that was released. See Remarks for possible values.|
 | _KeyButtonState_|Required| **Long**|The state of the mouse buttons and the SHIFT and CTRL keys for the event. See Remarks for possible values.|

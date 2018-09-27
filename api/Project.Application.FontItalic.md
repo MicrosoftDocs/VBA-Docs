@@ -27,11 +27,11 @@ Applies or removes italic formatting from the selected text.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Boolean**|**True** if italic formatting is applied to the selected text. **False** if italic formatting is removed from the selected text. The default value is **False** if the selected text is italic and **True** if the selected text is not italic.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

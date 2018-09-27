@@ -1,5 +1,5 @@
 ---
-title: ComboBox.RightPadding Property (Access)
+title: ComboBox.RightPadding property (Access)
 keywords: vbaac10.chm11483
 f1_keywords:
 - vbaac10.chm11483
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.RightPadding Property (Access)
+# ComboBox.RightPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the combo box and its right gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `RightPadding`
+_expression_. `RightPadding`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## See also

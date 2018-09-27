@@ -27,11 +27,11 @@ Returns a single  **ColorScheme** object from the specified **ColorSchemes** col
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **ColorScheme** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 ColorScheme
 

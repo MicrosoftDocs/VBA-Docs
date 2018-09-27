@@ -20,7 +20,7 @@ Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or 
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

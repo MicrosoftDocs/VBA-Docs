@@ -1,5 +1,5 @@
 ---
-title: Attachment.BorderStyle Property (Access)
+title: Attachment.BorderStyle property (Access)
 keywords: vbaac10.chm13927
 f1_keywords:
 - vbaac10.chm13927
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.BorderStyle Property (Access)
+# Attachment.BorderStyle property (Access)
 
 Specifies how a control's border appears. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

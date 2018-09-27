@@ -27,11 +27,11 @@ Imports a file into the current document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the file to import; must be a fully qualified path.|
 
-### Return Value
+### Return value
 
 Shape
 

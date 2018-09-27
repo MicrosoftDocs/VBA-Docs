@@ -23,7 +23,7 @@ Validates all of the properties in a  **MetaProperties** collection object accor
  _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

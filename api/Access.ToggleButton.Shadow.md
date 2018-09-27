@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Shadow Property (Access)
+title: ToggleButton.Shadow property (Access)
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Shadow Property (Access)
+# ToggleButton.Shadow property (Access)
 
 Gets or sets the  **Shadow** effect applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

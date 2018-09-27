@@ -1,5 +1,5 @@
 ---
-title: ComboBox.LabelX Property (Access)
+title: ComboBox.LabelX property (Access)
 keywords: vbaac10.chm11430
 f1_keywords:
 - vbaac10.chm11430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.LabelX Property (Access)
+# ComboBox.LabelX property (Access)
 
 The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.
 
@@ -19,9 +19,9 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelX`
+_expression_. `LabelX`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

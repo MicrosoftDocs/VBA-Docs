@@ -1,5 +1,5 @@
 ---
-title: Report.CurrentRecord Property (Access)
+title: Report.CurrentRecord property (Access)
 keywords: vbaac10.chm13771
 f1_keywords:
 - vbaac10.chm13771
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.CurrentRecord Property (Access)
+# Report.CurrentRecord property (Access)
 
 You can use the  **CurrentRecord** property to identify the current record in the recordset being viewed. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `CurrentRecord`
+_expression_. `CurrentRecord`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## See also

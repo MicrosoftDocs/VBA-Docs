@@ -27,12 +27,12 @@ Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|A string identifier for the rule, which will be represented by  **[Rule.Name](Outlook.Rule.Name.md)** after rule creation. Names of rules in a collection are not unique.|
 | _RuleType_|Required| **[OlRuleType](Outlook.OlRuleType.md)**|A constant in the  **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
 
-### Return Value
+### Return value
 
 A  **Rule** object that represents the newly created rule.
 

@@ -23,7 +23,7 @@ Returns  **True** if the device represented by the parent **Printer** object is 
  _expression_ A variable that represents a  **Printer** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

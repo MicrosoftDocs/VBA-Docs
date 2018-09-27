@@ -27,7 +27,7 @@ Adds the specified new wizard page to a specified location in a publication.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |After|Required| **Long**|The page after which to place the new wizard page.|
 |PageType|Optional| **PbWizardPageType**|The type of wizard page to add.|

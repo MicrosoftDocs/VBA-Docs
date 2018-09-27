@@ -1,5 +1,5 @@
 ---
-title: AcNewDatabaseFormat Enumeration (Access)
+title: AcNewDatabaseFormat enumeration (Access)
 keywords: vbaac10.chm14075
 f1_keywords:
 - vbaac10.chm14075
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcNewDatabaseFormat Enumeration (Access)
+# AcNewDatabaseFormat enumeration (Access)
 
 Used with the [NewCurrentDatabase](Access.Application.NewCurrentDatabase.md) method to specify the database format of the newly created database.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acNewDatabaseFormatAccess12**|12|Create a database in the Access (.accdb) file format.|
 |**acNewDatabaseFormatAccess2000**|9|Create a database in the Microsoft Access 2000 (.mdb) file format.|

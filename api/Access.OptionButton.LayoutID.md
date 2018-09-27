@@ -1,5 +1,5 @@
 ---
-title: OptionButton.LayoutID Property (Access)
+title: OptionButton.LayoutID property (Access)
 keywords: vbaac10.chm10656
 f1_keywords:
 - vbaac10.chm10656
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.LayoutID Property (Access)
+# OptionButton.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified option button. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

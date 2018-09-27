@@ -27,7 +27,7 @@ Returns the discount rate for a security.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Settlement - the security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
 | _Arg2_|Required| **Variant**|Maturity - the security's maturity date. The maturity date is the date when the security expires.|
@@ -35,7 +35,7 @@ Returns the discount rate for a security.
 | _Arg4_|Required| **Variant**|Redemption - the security's redemption value per $100 face value.|
 | _Arg5_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return Value
+### Return value
 
 Double
 

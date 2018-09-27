@@ -27,14 +27,14 @@ Returns the lognormal distribution of x, where ln(x) is normally distributed wit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - The value at which to evaluate the function.|
 | _Arg2_|Required| **Double**|Mean - The mean of ln(x).|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of ln(x).|
 | _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, LOGNORM_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return Value
+### Return value
 
 Double
 

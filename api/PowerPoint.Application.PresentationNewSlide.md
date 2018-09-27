@@ -27,7 +27,7 @@ Occurs when a new slide is created in any open presentation, as the slide is add
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sld_|Required|**Slide**|The new slide.|
 

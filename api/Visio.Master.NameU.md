@@ -23,7 +23,7 @@ Specifies the universal name of a  **Master** object. Read/write.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

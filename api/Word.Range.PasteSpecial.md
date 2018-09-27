@@ -27,7 +27,7 @@ Inserts the contents of the Clipboard. .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _IconIndex_|Optional| **Variant**|If DisplayAsIcon is  **True** , this argument is a number that corresponds to the icon you want to use in the program file specified by IconFilename. Icons appear in the **Change Icon** dialog box: 0 (zero) corresponds to the first icon, 1 corresponds to the second icon, and so on. If this argument is omitted, the first (default) icon is used.|
 | _Link_|Optional| **Variant**| **True** to create a link to the source file of the Clipboard contents. The default value is **False** .|

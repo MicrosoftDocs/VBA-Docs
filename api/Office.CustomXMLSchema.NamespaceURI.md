@@ -23,7 +23,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchema**
  _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

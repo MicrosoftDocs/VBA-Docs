@@ -1,5 +1,5 @@
 ---
-title: Form.Open Event (Access)
+title: Form.Open event (Access)
 keywords: vbaac10.chm13642
 f1_keywords:
 - vbaac10.chm13642
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Open Event (Access)
+# Form.Open event (Access)
 
 The  **Open** event occurs when a form is opened, but before the first record is displayed.
 
 
 ## Syntax
 
- _expression_. `Open`( ` _Cancel_`, )
+_expression_. `Open`( ` _Cancel_`, )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the opening of the form or report occurs. Setting the Cancel argument to True (?1) cancels the opening of the form or report.|
 

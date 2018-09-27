@@ -14,7 +14,7 @@ Specifies the window arrangement.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdIcons**|1|Windows are displayed as icons in a single window.|
 | **wdTiled**|0|Windows are tiled into a single window.|

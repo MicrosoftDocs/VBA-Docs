@@ -12,7 +12,7 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlParentDataLabelOptionsNone**|0|No parent labels are shown.|
 |**xlParentDataLabelOptionsBanner**|1|The parent label layout is a banner above the category.|

@@ -17,7 +17,7 @@ Indicates the recipient type for Journal items.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAssociatedContact**|1|The Contact associated with the Journal item.|
 

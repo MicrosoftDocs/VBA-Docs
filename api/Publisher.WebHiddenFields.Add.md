@@ -27,12 +27,12 @@ Adds a new hidden field to a Web form and returns a  **Long** indicating the num
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the new field.|
 |Value|Required| **String**|The value of the new field.|
 
-### Return Value
+### Return value
 
 Long
 

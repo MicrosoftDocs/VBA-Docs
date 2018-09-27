@@ -14,7 +14,7 @@ Contains constants that specify the type of calandar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjGregorianCalendar**|1|Gregorian Calendar.|
 |**pjHijriCalendar**|6|Hijri Calendar.|

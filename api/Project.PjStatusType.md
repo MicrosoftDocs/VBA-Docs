@@ -14,7 +14,7 @@ Contains constants that specify the staus of a task.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjComplete**|0|Task complete.|
 |**pjFutureTask**|3|Task for future.|

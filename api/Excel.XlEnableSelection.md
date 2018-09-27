@@ -14,7 +14,7 @@ Specifies what can be selected on the sheet.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlNoRestrictions**|0|Anything can be selected.|
 | **xlNoSelection**|-4142|Nothing can be selected.|

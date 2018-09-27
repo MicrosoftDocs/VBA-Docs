@@ -1,5 +1,5 @@
 ---
-title: Attachment.VerticalAnchor Property (Access)
+title: Attachment.VerticalAnchor property (Access)
 keywords: vbaac10.chm13986
 f1_keywords:
 - vbaac10.chm13986
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.VerticalAnchor Property (Access)
+# Attachment.VerticalAnchor property (Access)
 
 Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that indicates how the specified attachment is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

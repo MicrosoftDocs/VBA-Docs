@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Access)
+title: Application.Name property (Access)
 keywords: vbaac10.chm12586
 f1_keywords:
 - vbaac10.chm12586
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Name Property (Access)
+# Application.Name property (Access)
 
 You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

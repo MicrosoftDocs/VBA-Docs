@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.PictureCaptionArrangement Property (Access)
+title: NavigationButton.PictureCaptionArrangement property (Access)
 keywords: vbaac10.chm14291
 f1_keywords:
 - vbaac10.chm14291
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.PictureCaptionArrangement Property (Access)
+# NavigationButton.PictureCaptionArrangement property (Access)
 
 Gets or sets how the specified button's caption is arranged in relation to its picture. Read/write  **[AcPictureCaptionArrangement](Access.AcPictureCaptionArrangement.md)**.
 
 
 ## Syntax
 
- _expression_. `PictureCaptionArrangement`
+_expression_. `PictureCaptionArrangement`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## See also

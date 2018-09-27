@@ -24,11 +24,11 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index in the collection of shapes of the shape to be selected.|
 
-### Return Value
+### Return value
 
 Nothing
 

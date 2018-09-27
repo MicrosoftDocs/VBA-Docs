@@ -23,7 +23,7 @@ Executes the action for the specified item.
  _expression_ An expression that returns a [Action](./Outlook.Action.md) object.
 
 
-### Return Value
+### Return value
 
 An  **Object** value that represents the Outlook item created by the action upon execution.
 

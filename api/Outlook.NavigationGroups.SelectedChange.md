@@ -27,7 +27,7 @@ Occurs after the selection state is changed for a navigation folder contained in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NavigationFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The selected navigation folder.|
 

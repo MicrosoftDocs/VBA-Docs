@@ -1,5 +1,5 @@
 ---
-title: CommandButton.SizeToFit Method (Access)
+title: CommandButton.SizeToFit method (Access)
 keywords: vbaac10.chm10442
 f1_keywords:
 - vbaac10.chm10442
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.SizeToFit Method (Access)
+# CommandButton.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

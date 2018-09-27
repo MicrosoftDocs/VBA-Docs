@@ -20,7 +20,7 @@ Gets the left coordinate, in points, of the text bounding box for the specified 
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

@@ -27,7 +27,7 @@ The  **WorkbookRowsetComplete** event occurs when the user either drills through
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **Workbook**|The workbook for which the event occurs.|
 | _Description_|Required| **String**|A brief description of the event.|

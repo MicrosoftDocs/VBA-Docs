@@ -27,11 +27,11 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|Specifies the type of the requested default folder.|
 
-### Return Value
+### Return value
 
 A  **Folder** object that represents the default folder of the requested type. If the default folder of the requested type does not exist, **GetDefaultFolder** returns **Null** (**Nothing** in Visual Basic).
 

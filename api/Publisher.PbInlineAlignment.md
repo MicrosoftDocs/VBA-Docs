@@ -17,7 +17,7 @@ Indicates whether an inline shape has left, right, or in-text alignment.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbInlineAlignmentCharacter**|0|Shape is aligned with the text characters.|
 | **pbInlineAlignmentLeft**|1|Shape is left-aligned.|

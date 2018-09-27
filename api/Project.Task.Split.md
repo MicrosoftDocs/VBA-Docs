@@ -24,7 +24,7 @@ Splits the task into two portions.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartSplitOn_|Required|**Variant**|The start date of the task split. If a time is not specified, the project's default end time for the working period is used.|
 | _EndSplitOn_|Required|**Variant**|The end date of the task split. If a time is not specified, the project's default start time for the working period is used. If  _EndSplitOn_ is on or before the date specified with _StartSplitOn_, the split is not created.|

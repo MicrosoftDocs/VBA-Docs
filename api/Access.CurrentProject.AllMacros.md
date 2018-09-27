@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.AllMacros Property (Access)
+title: CurrentProject.AllMacros property (Access)
 keywords: vbaac10.chm12709
 f1_keywords:
 - vbaac10.chm12709
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.AllMacros Property (Access)
+# CurrentProject.AllMacros property (Access)
 
 You can use the  **AllMacros** property to reference the **[AllMacros](Access.allmacros.md)** collection and its related properties. Read-only **AllMacros** object.
 
 
 ## Syntax
 
- _expression_. `AllMacros`
+_expression_. `AllMacros`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

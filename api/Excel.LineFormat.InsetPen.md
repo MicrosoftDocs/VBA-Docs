@@ -20,7 +20,7 @@ Returns or sets whether lines are drawn inside the specified shape's boundaries.
  _expression_ A variable that represents a '[LineFormat](Excel.LineFormat.md)' object.
 
 
-### Return Value
+### Return value
 
  **[MsoTriState](Office.MsoTriState.md)**
 

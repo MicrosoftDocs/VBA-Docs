@@ -1,5 +1,5 @@
 ﻿---
-title: Label Object (Access)
+title: Label object (Access)
 keywords: vbaac10.chm10271
 f1_keywords:
 - vbaac10.chm10271
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Label Object (Access)
+# Label object (Access)
 
 This object corresponds to a label control. Labels on a form or report display descriptive text such as titles, captions, or brief instructions.
 

@@ -1,5 +1,5 @@
 ---
-title: Report.PageFooter Property (Access)
+title: Report.PageFooter property (Access)
 keywords: vbaac10.chm13698
 f1_keywords:
 - vbaac10.chm13698
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PageFooter Property (Access)
+# Report.PageFooter property (Access)
 
 You can use the  **PageFooter** property to specify whether a report's page footer is printed on the same page as a report footer. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `PageFooter`
+_expression_. `PageFooter`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

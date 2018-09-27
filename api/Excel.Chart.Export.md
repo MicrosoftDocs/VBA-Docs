@@ -27,13 +27,13 @@ Exports the chart in a graphic format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the exported file.|
 | _FilterName_|Optional| **Variant**|The language-independent name of the graphic filter as it appears in the registry.|
 | _Interactive_|Optional| **Variant**| **True** to display the dialog box that contains the filter-specific options. If this argument is **False** , Microsoft Excel uses the default values for the filter. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Boolean
 

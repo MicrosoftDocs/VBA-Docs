@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.LinkChildFields Property (Access)
+title: ObjectFrame.LinkChildFields property (Access)
 keywords: vbaac10.chm11565
 f1_keywords:
 - vbaac10.chm11565
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.LinkChildFields Property (Access)
+# ObjectFrame.LinkChildFields property (Access)
 
 You can use the  **LinkChildFields** property (along with the **LinkMasterFields** property) together to specify how Microsoft Access links records in a form or report to records in a subform, subreport, or embedded object, such as a chart. If these properties are set, Microsoft Access automatically updates the related record in the subform when you change to a new record in a main form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `LinkChildFields`
+_expression_. `LinkChildFields`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

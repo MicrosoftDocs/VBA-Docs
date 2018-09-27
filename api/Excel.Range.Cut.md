@@ -27,11 +27,11 @@ Cuts the object to the Clipboard or pastes it into a specified destination.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|The range where the object should be pasted. If this argument is omitted, the object is cut to the Clipboard.|
 
-### Return Value
+### Return value
 
 Variant
 

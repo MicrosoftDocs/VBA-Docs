@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Application Property (Access)
+title: WebBrowserControl.Application property (Access)
 keywords: vbaac10.chm14347
 f1_keywords:
 - vbaac10.chm14347
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Application Property (Access)
+# WebBrowserControl.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access[Application](Access.Application.md)object and its related properties. Read-only  **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

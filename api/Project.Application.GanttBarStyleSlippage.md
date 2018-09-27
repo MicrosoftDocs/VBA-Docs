@@ -27,12 +27,12 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Baseline_|Required|**Integer**|Specifies the baseline number. Valid values are 0 through 10.|
 | _Show_|Required|**Boolean**|If  **True**, show the baseline slippage. If **False**, hide the baseline slippage.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

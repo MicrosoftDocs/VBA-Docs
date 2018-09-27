@@ -24,14 +24,14 @@ Occurs after the top pane view is changed within a project window. The  **Window
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the view change occurs.|
 | _prevView_|Required|**View**|The previous topic pane view the user was in before the view change occurred. If the user was not in a project view before applying the current view, the prevView argument returns null.|
 | _newView_|Required|**View**|The new top pane view the user has now applied.|
 | _success_|Required|**Boolean**|**True** if the view change action succeeded.|
 
-### Return Value
+### Return value
 
 nothing
 

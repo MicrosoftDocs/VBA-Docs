@@ -1,5 +1,5 @@
 ---
-title: TextBox.AutoLabel Property (Access)
+title: TextBox.AutoLabel property (Access)
 keywords: vbaac10.chm11098
 f1_keywords:
 - vbaac10.chm11098
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AutoLabel Property (Access)
+# TextBox.AutoLabel property (Access)
 
 Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoLabel`
+_expression_. `AutoLabel`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

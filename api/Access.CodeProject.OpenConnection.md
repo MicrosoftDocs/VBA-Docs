@@ -1,5 +1,5 @@
 ---
-title: CodeProject.OpenConnection Method (Access)
+title: CodeProject.OpenConnection method (Access)
 keywords: vbaac10.chm12715
 f1_keywords:
 - vbaac10.chm12715
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.OpenConnection Method (Access)
+# CodeProject.OpenConnection method (Access)
 
 You can use the  **OpenConnection** method to open an ADO connection to an existing Microsoft Access project (.adp) or Access database as the current Access project or database in the Microsoft Access window.
 
 
 ## Syntax
 
- _expression_. `OpenConnection`( ` _BaseConnectionString_`, ` _UserID_`, ` _Password_` )
+_expression_. `OpenConnection`( ` _BaseConnectionString_`, ` _UserID_`, ` _Password_` )
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BaseConnectionString_|Optional|**Variant**|A string expression that is the base connection string of the database.|
 | _UserID_|Optional|**Variant**|A string expression that is the name of the existing Access project, including the path name and the file name extension. If your network supports it, you can also specify a network path in the following form: \\Server\Share\Folder\Filename.adp|

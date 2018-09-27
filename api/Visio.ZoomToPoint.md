@@ -24,13 +24,13 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |X|Required| **Long**|The x-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper left corner of the drawing.|
 |Y|Required| **Long**|The y-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper left corner of the drawing.|
 |Percentage|Required| **Double**|The percentage of zoom.|
 
-### Return Value
+### Return value
 
 Nothing
 

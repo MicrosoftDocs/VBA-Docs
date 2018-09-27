@@ -24,7 +24,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Resources_|Optional|**String**|The names of the resources to be assigned, removed, or replaced in the selected tasks. <br/><br/>**Note**  Project will not assign a resource if thousands separators or decimal separators are included in the unit values.|
 | _Operation_|Optional|**Long**|If _Operation_ is omitted, Project assigns the resources to the selected tasks. The default value is **pjAssign**. Can be one of the **[PjResAssignOperation constants](#pjresassignoperation-constants)**.|

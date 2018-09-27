@@ -27,12 +27,12 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** obje
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowSize_|Optional| **Variant**|The number of rows in the new range. If this argument is omitted, the number of rows in the range remains the same.|
 | _ColumnSize_|Optional| **Variant**|The number of columns in the new range. If this argument is omitted, the number of columns in the range remains the same.|
 
-### Return Value
+### Return value
 
 Range
 

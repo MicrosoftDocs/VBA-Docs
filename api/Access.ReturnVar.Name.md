@@ -1,5 +1,5 @@
 ---
-title: ReturnVar.Name Property (Access)
+title: ReturnVar.Name property (Access)
 keywords: vbaac10.chm14691
 f1_keywords:
 - vbaac10.chm14691
@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# ReturnVar.Name Property (Access)
+# ReturnVar.Name property (Access)
 
 Gets the name of the specified  **[ReturnVar](Access.ReturnVar.md)**. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
+_expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
 
 

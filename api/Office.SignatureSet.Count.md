@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **SignatureSet** object. 
  _expression_ A variable that represents a [SignatureSet](./Office.SignatureSet.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

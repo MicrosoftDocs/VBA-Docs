@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CustomControl.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/1ccbf207-3b60-d7e7-dd69-355c2e3a1a60%28Office.15%29.aspx)
+[CustomControl.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/1ccbf207-3b60-d7e7-dd69-355c2e3a1a60%28Office.15%29.aspx)
 
-[CommandButton.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/3b16ed18-a83d-df6e-5f14-6edbd25e9490%28Office.15%29.aspx)
+[CommandButton.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/3b16ed18-a83d-df6e-5f14-6edbd25e9490%28Office.15%29.aspx)
 
-[NavigationButton.HorizontalAnchor Property (Access)](http://msdn.microsoft.com/library/a68f440f-99fd-54f1-bcc0-e06502ac2dbc%28Office.15%29.aspx)
+[NavigationButton.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/a68f440f-99fd-54f1-bcc0-e06502ac2dbc%28Office.15%29.aspx)
 

@@ -14,7 +14,7 @@ Specifies where to display the property.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDisplayPropertyInPivotTable**|1|Displays member property in the PivotTable only. This is the default value.|
 | **xlDisplayPropertyInPivotTableAndTooltip**|3|Displays member property in the tooltip only.|

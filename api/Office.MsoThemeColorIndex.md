@@ -14,7 +14,7 @@ Indicates the Office theme color.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoNotThemeColor**|0|Specifies no theme color.|
 |**msoThemeColorAccent1**|5|Specifies the Accent 1 theme color.|

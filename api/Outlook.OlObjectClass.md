@@ -17,7 +17,7 @@ Specifies constants that represent the different Microsoft Outlook object classe
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olAccount**|105|An  **[Account](Outlook.Account.md)** object.|
 | **olAccountRuleCondition**|135|An  **[AccountRuleCondition](Outlook.accountRuleCondition.md)** object.|

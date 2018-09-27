@@ -14,7 +14,7 @@ Specifies the portion of a list to which to apply a list template.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdListApplyToSelection**|2|Selection.|
 | **wdListApplyToThisPointForward**|1|From cursor insertion point to end of list.|

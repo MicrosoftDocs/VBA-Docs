@@ -1,5 +1,5 @@
 ---
-title: AllTables Object (Access)
+title: AllTables object (Access)
 keywords: vbaac10.chm12688
 f1_keywords:
 - vbaac10.chm12688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllTables Object (Access)
+# AllTables object (Access)
 
 The  **AllTables** collection contains an **[AccessObject](Access.AccessObject.md)** for each table in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

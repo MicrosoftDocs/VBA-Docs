@@ -20,7 +20,7 @@ Specifies the screen resolution for your Web page. Read/write.
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
 VISWEB_DISP_RES
 

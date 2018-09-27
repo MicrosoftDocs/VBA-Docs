@@ -14,7 +14,7 @@ Specifies the type of formatting to apply to the table of contents in the active
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTOCClassic**|1|Classic formatting.|
 | **wdTOCDistinctive**|2|Distinctive formatting.|

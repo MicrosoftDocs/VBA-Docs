@@ -1,5 +1,5 @@
 ---
-title: CheckBox.GridlineShade Property (Access)
+title: CheckBox.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.GridlineShade Property (Access)
+# CheckBox.GridlineShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `GridlineShade`
+_expression_. `GridlineShade`
 
- _expression_ A variable that represents an [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents an [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

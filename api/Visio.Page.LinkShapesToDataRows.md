@@ -30,14 +30,14 @@ Links multiple rows in the specified data recordset, as specified by their data 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document containing the data to link to.|
 | _DataRowIDs()_|Required| **Long**|An array of type  **Long** of data row IDs of rows in the data recordset specified in DataRecordsetID, to be linked to the shapes specified in ShapeIDs().|
 | _ShapeIDs()_|Required| **Long**| An array of type **Long** of shape IDs of shapes on the page to be linked to the data rows specified in DataRowIDs() in the data recordset specified in DataRecordsetID.|
 | _ApplyDataGraphicAfterLink_|Optional| **Boolean**|Whether to apply the current data graphic to the linked shapes. See Remarks for more information.|
 
-### Return Value
+### Return value
 
 Nothing
 

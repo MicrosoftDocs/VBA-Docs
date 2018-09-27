@@ -27,11 +27,11 @@ Returns the universal names of all items in a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _localeIndependentNameArray()_|Required| **String**|Out parameter. An array that receives the names of members of the indicated object.|
 
-### Return Value
+### Return value
 
 Nothing
 

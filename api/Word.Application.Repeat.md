@@ -27,11 +27,11 @@ Repeats the most recent editing action one or more times. Returns  **True** if t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of times you want to repeat the last command.|
 
-### Return Value
+### Return value
 
 Boolean
 

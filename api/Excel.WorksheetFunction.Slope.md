@@ -24,7 +24,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - an array or cell range of numeric dependent data points.|
 | _Arg2_|Required| **Variant**|Known_x's - the set of independent data points.|

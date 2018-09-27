@@ -1,5 +1,5 @@
 ---
-title: Application.InstantiateTemplate Method (Access)
+title: Application.InstantiateTemplate method (Access)
 keywords: vbaac10.chm14527
 f1_keywords:
 - vbaac10.chm14527
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.InstantiateTemplate Method (Access)
+# Application.InstantiateTemplate method (Access)
 
 Opens a new database and applies the specified template.
 
 
 ## Syntax
 
- _expression_. `InstantiateTemplate`( ` _Path_` )
+_expression_. `InstantiateTemplate`( ` _Path_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The full path and filename of the template to apply to the new database.|
 

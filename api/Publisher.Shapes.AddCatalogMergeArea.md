@@ -23,7 +23,7 @@ Adds a  **Shape** object that represents the specified publication's catalog mer
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Return Value
+### Return value
 
 Shape
 

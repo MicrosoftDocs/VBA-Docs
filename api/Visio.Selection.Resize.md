@@ -27,13 +27,13 @@ Resizes the selection by moving shape handles as specified.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[VisResizeDirection](Visio.VisResizeDirection.md)**|The direction that corresponds to the shape handle. See Remarks for possible values.|
 | _Distance_|Required| **Double**|The distance to move the selection edge or corner, where positive values move outward, and negative values move inward.|
 | _UnitCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The unit of measure for the resize distance.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

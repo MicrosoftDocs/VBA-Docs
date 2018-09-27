@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.IsConnected Property (Access)
+title: CurrentProject.IsConnected property (Access)
 keywords: vbaac10.chm12714
 f1_keywords:
 - vbaac10.chm12714
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.IsConnected Property (Access)
+# CurrentProject.IsConnected property (Access)
 
 You can use the  **IsConnected** property to determine if the **[CurrentProject](Access.CurrentProject.md)** object is currently connected. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsConnected`
+_expression_. `IsConnected`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

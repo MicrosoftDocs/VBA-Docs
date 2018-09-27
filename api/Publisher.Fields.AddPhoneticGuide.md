@@ -27,7 +27,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Range|Required| **TextRange**|The text in the publication over which the phonetic text is displayed.|
 |Text|Required| **String**|The phonetic text to add.|
@@ -36,7 +36,7 @@ Returns a  **[Field](Publisher.Field.md)** object that represents phonetic text 
 |FontName|Optional| **String**|The name of the font to use for the phonetic text. If no value is specified, Publisher uses the same font as the text in the specified range.|
 |FontSize|Optional| **Variant**|The font size to use for the phonetic text. Default is 10 point.|
 
-### Return Value
+### Return value
 
 Field
 

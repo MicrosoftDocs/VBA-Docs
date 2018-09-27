@@ -1,5 +1,5 @@
 ---
-title: Printer.DataOnly Property (Access)
+title: Printer.DataOnly property (Access)
 keywords: vbaac10.chm12871
 f1_keywords:
 - vbaac10.chm12871
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Printer.DataOnly Property (Access)
+# Printer.DataOnly property (Access)
 
  **True** if Microsoft Access prints only the data from a table or query in Datasheet View and not the labels, control borders, gridlines, and display graphics. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `DataOnly`
+_expression_. `DataOnly`
 
- _expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a [Printer](Access.Printer.md) object.
 
 
 ## Example

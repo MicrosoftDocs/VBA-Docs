@@ -20,7 +20,7 @@ Gets whether an open project is checked out from Project Web App by the user. Re
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of a project that is open in Project Professional.|
 

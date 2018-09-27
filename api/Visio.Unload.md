@@ -20,7 +20,7 @@ Unloads the drawing file that is open in Microsoft Visio Viewer.
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

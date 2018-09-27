@@ -24,12 +24,12 @@ Occurs when the visibility of a particular reviewer's markup (comments) is chang
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer.|
 |ReviewerVisible|Required| **Boolean**|Indicates whether markup of the reviewer is visible in the user interface.|
 
-### Return Value
+### Return value
 
 Nothing
 

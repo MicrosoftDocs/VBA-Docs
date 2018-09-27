@@ -27,11 +27,11 @@ Shows or hides drawings on the Gantt Chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Boolean**|**True** if drawings appear on the Gantt Chart. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

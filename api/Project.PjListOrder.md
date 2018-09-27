@@ -14,7 +14,7 @@ Contains constants that specify the order in which the items in a list are displ
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjListOrderAscending**|1|Ascending.|
 |**pjListOrderDefault**|0|Default.|

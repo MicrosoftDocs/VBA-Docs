@@ -23,7 +23,7 @@ Represents the speed of the transition to the specified slide. Read/write.
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
-### Return Value
+### Return value
 
 PpTransitionSpeed
 

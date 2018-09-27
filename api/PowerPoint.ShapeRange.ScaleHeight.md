@@ -27,13 +27,13 @@ Scales the height of the shapes in the range by a specified factor.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Factor_|Required|**Single**|Specifies the ratio between the height of the shapes after you resize them and their current or original height. For example, to make shapes 50 percent larger, specify 1.5 for this parameter.|
 | _RelativeToOriginalSize_|Required|**MsoTriState**|Specifies whether shapes are scaled relative to their current or original sizes.|
 | _fScale_|Optional|**MsoScaleFrom**|The parts of the shapes that retain their position when the shapes are scaled.|
 
-### Return Value
+### Return value
 
 Nothing
 

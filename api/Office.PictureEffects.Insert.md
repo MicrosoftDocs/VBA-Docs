@@ -24,12 +24,12 @@ Inserts a Picture Effect in a chain of composite effects.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EffectType_|Required|**MsoPictureEffectType**|An enumeration specifying the type of Picture Effect.|
 | _Position_|Optional|**Integer**|The position of the effect in the composite chain of Picture Effects.|
 
-### Return Value
+### Return value
 
 PictureEffect
 

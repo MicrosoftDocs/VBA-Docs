@@ -14,7 +14,7 @@ Determines the type of automatic sizing allowed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAutoSizeMixed**|-2|A combination of automatic sizing schemes are used.|
 |**msoAutoSizeNone**|0|No autosizing.|

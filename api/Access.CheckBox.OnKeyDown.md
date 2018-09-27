@@ -1,5 +1,5 @@
 ---
-title: CheckBox.OnKeyDown Property (Access)
+title: CheckBox.OnKeyDown property (Access)
 keywords: vbaac10.chm10746
 f1_keywords:
 - vbaac10.chm10746
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.OnKeyDown Property (Access)
+# CheckBox.OnKeyDown property (Access)
 
 Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnKeyDown`
+_expression_. `OnKeyDown`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **KeyDown** event occurs when a user presses a key while a form or control 
 The  **OnKeyDown** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Key Down** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

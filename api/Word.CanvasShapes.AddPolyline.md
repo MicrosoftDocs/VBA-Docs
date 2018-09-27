@@ -27,7 +27,7 @@ Adds an open or closed polygon to a drawing canvas. Returns a  **Shape** object 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required| **Variant**|An array of coordinate pairs that specifies the polyline drawing's vertices.|
 

@@ -20,7 +20,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

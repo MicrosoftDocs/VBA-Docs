@@ -23,7 +23,7 @@ Returns the active  **Page** object. Read-only.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return Value
+### Return value
 
 Page
 

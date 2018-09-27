@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.FetchDefaults Property (Access)](http://msdn.microsoft.com/library/3bbe8c57-e9ff-419a-d2b4-93cb966d6f30%28Office.15%29.aspx)
+[Form.FetchDefaults property (Access)](http://msdn.microsoft.com/library/3bbe8c57-e9ff-419a-d2b4-93cb966d6f30%28Office.15%29.aspx)
 

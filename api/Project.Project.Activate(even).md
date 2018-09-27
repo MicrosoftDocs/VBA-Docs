@@ -24,7 +24,7 @@ Occurs when switching to the project from another project, including when the pr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that was activated.|
 

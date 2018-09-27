@@ -27,7 +27,7 @@ Returns a  **TableOfContents** object that represents a table of contents added 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table of contents to appear. The table of contents replaces the range, if the range isn't collapsed.|
 | _UseHeadingStyles_|Optional| **Variant**| **True** to use built-in heading styles to create the table of contents. The default value is **True** .|
@@ -42,7 +42,7 @@ Returns a  **TableOfContents** object that represents a table of contents added 
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of contents should be hidden when the document is being publishing to the Web. The default value is **True** .|
 | _UseOutlineLevels_|Optional| **Variant**| **True** to use outline levels to create the table of contents. The default is **False** .|
 
-### Return Value
+### Return value
 
 TableOfContents
 

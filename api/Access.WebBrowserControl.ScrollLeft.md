@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.ScrollLeft Property (Access)
+title: WebBrowserControl.ScrollLeft property (Access)
 keywords: vbaac10.chm14366
 f1_keywords:
 - vbaac10.chm14366
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.ScrollLeft Property (Access)
+# WebBrowserControl.ScrollLeft property (Access)
 
 Gets or sets the distance, in pixels, between the left edge of the  **WebBrowser** object and the leftmost portion of the content currently visible in the control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ScrollLeft`
+_expression_. `ScrollLeft`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

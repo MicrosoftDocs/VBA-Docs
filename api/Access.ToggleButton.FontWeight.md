@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.FontWeight Property (Access)
+title: ToggleButton.FontWeight property (Access)
 keywords: vbaac10.chm11725
 f1_keywords:
 - vbaac10.chm11725
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.FontWeight Property (Access)
+# ToggleButton.FontWeight property (Access)
 
 Use the  **FontWeight** property to specify the line width that Windows uses to display and print characters in a control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `FontWeight`
+_expression_. `FontWeight`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.CurrentWebUserGroups Method (Access)
+title: Application.CurrentWebUserGroups method (Access)
 keywords: vbaac10.chm14600
 f1_keywords:
 - vbaac10.chm14600
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CurrentWebUserGroups Method (Access)
+# Application.CurrentWebUserGroups method (Access)
 
 Gets the collection of Microsoft SharePoint Foundation 2010 groups of which the user is a member. 
 
 
 ## Syntax
 
- _expression_. `CurrentWebUserGroups`( ` _DisplayOption_` )
+_expression_. `CurrentWebUserGroups`( ` _DisplayOption_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DisplayOption_|Required|**AcWebUserGroupsDisplay**|Specifies the type of information to return about the user's groups.|
 
-### Return Value
+### Return value
 
 Variant
 

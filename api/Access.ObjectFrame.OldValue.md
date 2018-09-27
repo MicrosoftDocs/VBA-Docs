@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.OldValue Property (Access)
+title: ObjectFrame.OldValue property (Access)
 keywords: vbaac10.chm11549
 f1_keywords:
 - vbaac10.chm11549
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.OldValue Property (Access)
+# ObjectFrame.OldValue property (Access)
 
 You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `OldValue`
+_expression_. `OldValue`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

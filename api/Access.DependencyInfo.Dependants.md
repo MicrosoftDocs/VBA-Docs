@@ -1,5 +1,5 @@
 ---
-title: DependencyInfo.Dependants Property (Access)
+title: DependencyInfo.Dependants property (Access)
 keywords: vbaac10.chm13274
 f1_keywords:
 - vbaac10.chm13274
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# DependencyInfo.Dependants Property (Access)
+# DependencyInfo.Dependants property (Access)
 
 Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that represents the objects that depend upon the specified **[AccessObject](Access.AccessObject.md)** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Dependants`
+_expression_. `Dependants`
 
- _expression_ A variable that represents a [DependencyInfo](Access.DependencyInfo.md) object.
+_expression_ A variable that represents a [DependencyInfo](Access.DependencyInfo.md) object.
 
 
 ## Remarks

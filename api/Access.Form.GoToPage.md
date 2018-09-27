@@ -1,5 +1,5 @@
 ---
-title: Form.GoToPage Method (Access)
+title: Form.GoToPage method (Access)
 keywords: vbaac10.chm13506
 f1_keywords:
 - vbaac10.chm13506
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.GoToPage Method (Access)
+# Form.GoToPage method (Access)
 
 The  **GoToPage** method moves the focus to the first control on a specified page in the active form.
 
 
 ## Syntax
 
- _expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
+_expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageNumber_|Required|**Long**|A numeric expression that's a valid page number for the active form.|
 | _Right_|Optional|**Long**|A numeric expression that's a valid horizontal offset (in twips) from the left side of the window to the part of the page to be viewed.|

@@ -27,7 +27,7 @@ Positions a task window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required| **Long**|The horizontal screen position of the specified window.|
 | _Top_|Required| **Long**|The vertical screen position of the specified window.|

@@ -1,5 +1,5 @@
 ---
-title: Form.BeforeInsert Event (Access)
+title: Form.BeforeInsert event (Access)
 keywords: vbaac10.chm13635
 f1_keywords:
 - vbaac10.chm13635
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.BeforeInsert Event (Access)
+# Form.BeforeInsert event (Access)
 
 The BeforeInsert event occurs when the user types the first character in a new record, but before the record is actually created.
 
 
 ## Syntax
 
- _expression_. `BeforeInsert`( ` _Cancel_` )
+_expression_. `BeforeInsert`( ` _Cancel_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeInsert** event.|
 

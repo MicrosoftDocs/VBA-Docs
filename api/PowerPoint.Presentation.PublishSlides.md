@@ -27,7 +27,7 @@ Creates a Web presentation (in HTML format) containing slides from any loaded pr
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SlideLibraryUrl_|Required|**String**|URL to the slide library.|
 | _Overwrite_|Optional|**Boolean**|**True** if the original presentation should be overwritten.|

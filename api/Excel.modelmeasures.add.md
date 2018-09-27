@@ -32,7 +32,7 @@ Adds a model measure to the model.
 | _FormatInformation_|Required|VARIANT|The formatting of the model measure. See Remarks. |
 | _Description_|Optional|VARIANT|The description associated with the model measure.|
 
-### Return Value
+### Return value
 
 [ModelMeasure](Excel.modelmeasure.md)
 

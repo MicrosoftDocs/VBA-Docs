@@ -20,7 +20,7 @@ Gets a  **ThemeColorScheme** object that represents the color scheme of a Micros
  _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
 
 
-### Return Value
+### Return value
 
 ThemeColorScheme
 

@@ -23,7 +23,7 @@ Returns all the series in the chart group.
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
-### Return Value
+### Return value
 
 A  **[SeriesCollection](Word.SeriesCollection.md)** object that represents all the series in the chart group.
 

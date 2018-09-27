@@ -27,11 +27,11 @@ Returns the specified  **MediaBookmark**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**[INT]**|The position of the  **MediaBookmark**.|
 
-### Return Value
+### Return value
 
 MediaBookmark
 

@@ -14,7 +14,7 @@ Specifies the subtype of the filter effect.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimFilterEffectSubtypeAcross**|9|Across|
 |**msoAnimFilterEffectSubtypeDown**|25|Down|

@@ -14,7 +14,7 @@ Specifies the action that should be performed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlActionTypeDrillthrough**|256|Drill through.|
 | **xlActionTypeReport**|128|Report.|

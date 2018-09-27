@@ -23,7 +23,7 @@ Returns an object that specifies the border of a data bar. Read-only
  _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
-### Return Value
+### Return value
 
  **[DataBarBorder](Excel.DataBarBorder.md)**
 

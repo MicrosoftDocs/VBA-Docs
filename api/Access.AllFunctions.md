@@ -1,5 +1,5 @@
 ---
-title: AllFunctions Object (Access)
+title: AllFunctions object (Access)
 keywords: vbaac10.chm13250
 f1_keywords:
 - vbaac10.chm13250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllFunctions Object (Access)
+# AllFunctions object (Access)
 
 The  **AllFunctions** collection contains an **[AccessObject](Access.AccessObject.md)** object for each function in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 

@@ -27,7 +27,7 @@ Private Sub  _expression_ _'WindowCloseCanceled'(**_ByVal Window As [IVWINDOW]_*
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window that was going to be closed.|
 

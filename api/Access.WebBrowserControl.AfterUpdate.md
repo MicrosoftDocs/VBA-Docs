@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.AfterUpdate Event (Access)
+title: WebBrowserControl.AfterUpdate event (Access)
 keywords: vbaac10.chm143125
 f1_keywords:
 - vbaac10.chm143125
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.AfterUpdate Event (Access)
+# WebBrowserControl.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
- _expression_. `AfterUpdate`
+_expression_. `AfterUpdate`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

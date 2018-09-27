@@ -23,7 +23,7 @@ Determines whether the specified custom layout follows the slide master backgrou
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

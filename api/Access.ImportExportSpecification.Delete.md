@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecification.Delete Method (Access)
+title: ImportExportSpecification.Delete method (Access)
 keywords: vbaac10.chm13332
 f1_keywords:
 - vbaac10.chm13332
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecification.Delete Method (Access)
+# ImportExportSpecification.Delete method (Access)
 
 Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecification.md)** object from the **[ImportExportSpecifications](Access.ImportExportSpecifications.md)** collection.
 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## See also

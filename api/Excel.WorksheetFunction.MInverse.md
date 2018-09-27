@@ -27,11 +27,11 @@ Returns the inverse matrix for the matrix stored in an array.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -24,7 +24,7 @@ Appends text to the Notes field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Value_|Required|**String**|The text to append to the existing notes.|
 

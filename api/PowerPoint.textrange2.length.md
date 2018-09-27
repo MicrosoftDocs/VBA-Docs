@@ -18,7 +18,7 @@ Get a Long that represents the length of a text range. Read-only.
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return Value
+### Return value
 
 Long
 

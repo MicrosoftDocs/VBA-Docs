@@ -24,12 +24,12 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ScreenX|Optional| **Variant**|The x-coordinate, in pixels, of the point where the dialog box should appear, relative to the origin of the frame of the screen.|
 |ScreenY|Optional| **Variant**|The y-coordinate, in pixels, of the point where the dialog box should appear, relative to the origin of the frame of the screen.|
 
-### Return Value
+### Return value
 
 Nothing
 

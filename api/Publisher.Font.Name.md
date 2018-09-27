@@ -23,7 +23,7 @@ Indicates the name of the specified font. Read/write.
  _expression_An expression that returns a  **Font** object.
 
 
-### Return Value
+### Return value
 
 String
 

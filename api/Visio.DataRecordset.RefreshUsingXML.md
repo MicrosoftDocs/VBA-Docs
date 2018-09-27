@@ -30,11 +30,11 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NewDataAsXML_|Required| **String**|An XML string that contains new data to refresh the data recordset and that conforms to the classic ADO schema.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -27,12 +27,12 @@ Adds custom property information.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the custom property.|
 | _Value_|Required| **Variant**|The value of the custom property.|
 
-### Return Value
+### Return value
 
 A  **[CustomProperty](Excel.CustomProperty.md)** object that represents the custom property information.
 

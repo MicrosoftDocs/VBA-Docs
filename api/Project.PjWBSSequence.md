@@ -14,7 +14,7 @@ Contains constants that specify the work breakdown structure (WBS) sequence.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjWBSOrderedLowercaseLetters**|2|Lowercase letters.|
 |**pjWBSOrderedNumbers**|0|Numbers.|

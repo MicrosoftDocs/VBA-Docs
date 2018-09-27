@@ -27,7 +27,7 @@ Inserts a new segment at the end of the freeform that's being created, and adds 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SegmentType_|Required|**[MsoSegmentType](./Office.MsoSegmentType.md)**|The type of segment to be added.|
 | _EditingType_|Required|**[MsoEditingType](./Office.MsoEditingType.md)**|The editing property of the vertex. If SegmentType is  **msoSegmentLine**, EditingType must be **msoEditingAuto**.|

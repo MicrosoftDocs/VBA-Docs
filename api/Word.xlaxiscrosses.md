@@ -12,7 +12,7 @@ Specifies the point on the specified axis where the other axis crosses.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAxisCrossesAutomatic**|-4105|Word sets the axis crossing point.|
 | **xlAxisCrossesCustom**|-4114|The  **[CrossesAt](Word.Axis.CrossesAt.md)** property specifies the axis crossing point.|

@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ListRows Property (Access)
+title: ComboBox.ListRows property (Access)
 keywords: vbaac10.chm11384,vbaac10.chm4417
 f1_keywords:
 - vbaac10.chm11384,vbaac10.chm4417
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ListRows Property (Access)
+# ComboBox.ListRows property (Access)
 
 You can use the  **ListRows** property to set the maximum number of rows to display in the list box portion of a combo box. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `ListRows`
+_expression_. `ListRows`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

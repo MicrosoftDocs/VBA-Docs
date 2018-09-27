@@ -17,7 +17,7 @@ Specifies constants that define types of incremental layout; passed to the  **[P
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutIncrAlign**|1|Align shapes.|
 | **visLayoutIncrSpace**|2|Space shapes evenly.|

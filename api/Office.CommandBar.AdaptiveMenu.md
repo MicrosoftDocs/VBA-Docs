@@ -26,7 +26,7 @@ Gets a  **Boolean** value that specifies whether the command bar should include 
  _expression_ An expression that returns a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

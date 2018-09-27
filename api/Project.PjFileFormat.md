@@ -14,7 +14,7 @@ Contains constants that specify the file format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCSV**|4|Comma separated value (CSV) file.|
 |**pjMPP**|0|Project or Project file.|

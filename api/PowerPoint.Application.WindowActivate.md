@@ -27,7 +27,7 @@ Occurs when the application window or any document window is activated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation displayed in the activated window.|
 | _Wn_|Required|**DocumentWindow**|The activated document window.|

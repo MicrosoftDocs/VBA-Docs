@@ -1,5 +1,5 @@
 ---
-title: Control.LayoutID Property (Access)
+title: Control.LayoutID property (Access)
 keywords: vbaac10.chm10171
 f1_keywords:
 - vbaac10.chm10171
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.LayoutID Property (Access)
+# Control.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified control. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks

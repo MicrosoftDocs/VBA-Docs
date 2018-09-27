@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Transform Property (Access)
+title: WebBrowserControl.Transform property (Access)
 keywords: vbaac10.chm14367,vbaac10.chm5911
 f1_keywords:
 - vbaac10.chm14367,vbaac10.chm5911
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Transform Property (Access)
+# WebBrowserControl.Transform property (Access)
 
 Read/write
 
 
 ## Syntax
 
- _expression_. `Transform`
+_expression_. `Transform`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## See also

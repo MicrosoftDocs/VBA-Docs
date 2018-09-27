@@ -1,5 +1,5 @@
 ---
-title: CodeProject.FullName Property (Access)
+title: CodeProject.FullName property (Access)
 keywords: vbaac10.chm12719
 f1_keywords:
 - vbaac10.chm12719
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.FullName Property (Access)
+# CodeProject.FullName property (Access)
 
 Sets or returns the full path (including file name) of a specific object. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_. `FullName`
+_expression_. `FullName`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.CursorOnHover Property (Access)
+title: NavigationButton.CursorOnHover property (Access)
 keywords: vbaac10.chm10541
 f1_keywords:
 - vbaac10.chm10541
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.CursorOnHover Property (Access)
+# NavigationButton.CursorOnHover property (Access)
 
 Gets or sets the type of mouse cursor displayed when the user rests the pointer on a button. Read/write  **[AcCursorOnHover](Access.AcCursorOnHover.md)**.
 
 
 ## Syntax
 
- _expression_. `CursorOnHover`
+_expression_. `CursorOnHover`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

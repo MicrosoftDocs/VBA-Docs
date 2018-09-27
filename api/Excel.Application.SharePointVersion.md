@@ -27,11 +27,11 @@ Returns the version number of SharePoint Foundation instances running at site fo
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrUrl_|Required| **String**|The URL of site to check.|
 
-### Return Value
+### Return value
 
 Long
 

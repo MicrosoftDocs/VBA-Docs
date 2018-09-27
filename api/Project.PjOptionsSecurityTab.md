@@ -14,7 +14,7 @@ Contains constants that specify the tabs for settings that are available in the 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjOptionsSecurityTabAddins**|1|Represents the  **Add-ins** tab, for add-in security options.|
 |**pjOptionsSecurityTabLegacy**|4|Represents the  **Legacy Formats** tab, for options on opening or saving legacy file formats.|

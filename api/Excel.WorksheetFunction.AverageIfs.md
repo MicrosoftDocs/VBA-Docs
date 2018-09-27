@@ -27,11 +27,11 @@ Returns the average (arithmetic mean) of all cells that meet multiple criteria.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Range**|One or more ranges in which to evaluate the associated criteria.|
 
-### Return Value
+### Return value
 
 Double
 

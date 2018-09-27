@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperty.Value Property (Access)
+title: SmartTagProperty.Value property (Access)
 keywords: vbaac10.chm13305
 f1_keywords:
 - vbaac10.chm13305
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartTagProperty.Value Property (Access)
+# SmartTagProperty.Value property (Access)
 
 Gets or sets the value of the specified object. Read/write  **Variant**.
 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [SmartTagProperty](Access.SmartTagProperty.md) object.
+_expression_ A variable that represents a [SmartTagProperty](Access.SmartTagProperty.md) object.
 
 
 ## Remarks

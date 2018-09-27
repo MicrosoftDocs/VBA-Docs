@@ -27,11 +27,11 @@ Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collecti
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the zero-based index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return Value
+### Return value
 
 An  **ItemProperty** object that represents the specified object.
 

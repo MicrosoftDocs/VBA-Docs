@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.SourceItem Property (Access)
+title: BoundObjectFrame.SourceItem property (Access)
 keywords: vbaac10.chm10914
 f1_keywords:
 - vbaac10.chm10914
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.SourceItem Property (Access)
+# BoundObjectFrame.SourceItem property (Access)
 
 You can use the  **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `SourceItem`
+_expression_. `SourceItem`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

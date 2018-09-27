@@ -27,12 +27,12 @@ Returns a random integer number between the numbers you specify. A new random in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Bottom - the smallest integer RANDBETWEEN will return.|
 | _Arg2_|Required| **Variant**|Top - the largest integer RANDBETWEEN will return.|
 
-### Return Value
+### Return value
 
 Double
 

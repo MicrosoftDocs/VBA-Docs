@@ -1,5 +1,5 @@
 ---
-title: Form.AfterDelConfirm Event (Access)
+title: Form.AfterDelConfirm event (Access)
 keywords: vbaac10.chm13641
 f1_keywords:
 - vbaac10.chm13641
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.AfterDelConfirm Event (Access)
+# Form.AfterDelConfirm event (Access)
 
 The  **AfterDelConfirm** event occurs after the user confirms the deletions and the records are actually deleted or when the deletions are canceled.
 
 
 ## Syntax
 
- _expression_. `AfterDelConfirm`( ` _Status_` )
+_expression_. `AfterDelConfirm`( ` _Status_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required|**Integer**|An intrinsic constant that indicates whether a record has been deleted.  **acDeleteOK** indicates the deletion was successful. **acDeleteCancel** indicates the deletion was canceled in Visual Basic. **acDeleteUserCancel** indicates the deletion was canceled by the user.|
 

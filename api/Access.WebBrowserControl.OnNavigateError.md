@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.OnNavigateError Property (Access)
+title: WebBrowserControl.OnNavigateError property (Access)
 keywords: vbaac10.chm14415,vbaac10.chm5906
 f1_keywords:
 - vbaac10.chm14415,vbaac10.chm5906
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.OnNavigateError Property (Access)
+# WebBrowserControl.OnNavigateError property (Access)
 
 Gets or sets the value of the  **On Navigate Error** box in the property sheet os a Web Browser control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnNavigateError`
+_expression_. `OnNavigateError`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

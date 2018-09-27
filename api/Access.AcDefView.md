@@ -1,5 +1,5 @@
 ---
-title: AcDefView Enumeration (Access)
+title: AcDefView enumeration (Access)
 keywords: vbaac10.chm13236
 f1_keywords:
 - vbaac10.chm13236
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcDefView Enumeration (Access)
+# AcDefView enumeration (Access)
 
 Use with the  **DefaultView** property to set or return the opening view of a form.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDefViewContinuous**|1|The form displays multiple records (as many as will fit in the current window), each in its own copy of the form's detail section.|
 |**acDefViewDatasheet**|2|Displays the form fields arranged in rows and columns like a spreadsheet.|

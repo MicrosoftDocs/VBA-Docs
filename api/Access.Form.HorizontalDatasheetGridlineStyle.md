@@ -1,5 +1,5 @@
 ---
-title: Form.HorizontalDatasheetGridlineStyle Property (Access)
+title: Form.HorizontalDatasheetGridlineStyle property (Access)
 keywords: vbaac10.chm13514
 f1_keywords:
 - vbaac10.chm13514
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.HorizontalDatasheetGridlineStyle Property (Access)
+# Form.HorizontalDatasheetGridlineStyle property (Access)
 
 Returns or sets a  **Byte** indicating the line style to use for horizontal gridlines on the specified datasheet. Read/write.
 
 
 ## Syntax
 
- _expression_. `HorizontalDatasheetGridlineStyle`
+_expression_. `HorizontalDatasheetGridlineStyle`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.MouseMove Event (Access)
+title: WebBrowserControl.MouseMove event (Access)
 keywords: vbaac10.chm143135
 f1_keywords:
 - vbaac10.chm143135
@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.MouseMove Event (Access)
+# WebBrowserControl.MouseMove event (Access)
 
 The  **MouseMove** event occurs when the user moves the mouse.
 
 
 ## Syntax
 
- _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
+_expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Button_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
 
-### Return Value
+### Return value
 
 nothing
 

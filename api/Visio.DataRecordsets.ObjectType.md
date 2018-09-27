@@ -23,7 +23,7 @@ Returns  **visObjTypeDataRecordsets** , the type of a **DataRecordsets** object.
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

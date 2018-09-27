@@ -14,7 +14,7 @@ Contains constants that specify the fields listing data.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAllColumns**|2|All columns.|
 |**pjBasic**|1|Basic columns.|

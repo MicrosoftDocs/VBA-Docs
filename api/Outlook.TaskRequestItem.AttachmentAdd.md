@@ -24,7 +24,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** that was added to the item.|
 

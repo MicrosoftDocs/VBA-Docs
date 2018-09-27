@@ -27,14 +27,14 @@ Performs a search based on a specified DAV Searching and Locating (DASL) search 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Scope_|Required| **String**|The scope of the search. For example, the folder path of a folder. It is recommended that the folder path is enclosed within single quotes. Otherwise, the search might not return correct results if the folder path contains special characters including Unicode characters. To specify multiple folder paths, enclose each folder path in single quotes and separate the single quoted folder paths with a comma.|
 | _Filter_|Optional| **Variant**|The DASL search filter that defines the parameters of the search.|
 | _SearchSubFolders_|Optional| **Variant**|Determines if the search will include any of the folder's subfolders.|
 | _Tag_|Optional| **Variant**|The name given as an identifier for the search.|
 
-### Return Value
+### Return value
 
 A  **[Search](Outlook.Search.md)** object that represents the results of the search.
 

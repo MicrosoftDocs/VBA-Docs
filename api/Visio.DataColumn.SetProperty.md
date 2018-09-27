@@ -30,12 +30,12 @@ Sets the value of the specified data-column property.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Property_|Required| **VisDataColumnProperties**|The data-column property whose value you want set. See Remarks for possible values.|
 | _Value_|Required| **Variant**|The value to assign the data-column property. See Remarks for possible values.|
 
-### Return Value
+### Return value
 
 Nothing
 

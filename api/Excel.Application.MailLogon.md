@@ -27,7 +27,7 @@ Logs in to MAPI Mail or Microsoft Exchange and establishes a mail session. If Mi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The mail account name or Microsoft Exchange profile name. If this argument is omitted, the default mail account name is used.|
 | _Password_|Optional| **Variant**|The mail account password. This argument is ignored in Microsoft Exchange.|

@@ -24,7 +24,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FindWhat_|Required|**String**|The text to search for.|
 | _ReplaceWhat_|Required|**String**|The text you want to replace the found text with.|
@@ -32,7 +32,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 | _MatchCase_|Optional|**MsoTriState**|Determines whether a distinction is made on the basis of case.|
 | _WholeWords_|Optional|**MsoTriState**|Determines whether only whole words are searched.|
 
-### Return Value
+### Return value
 
 TextRange2
 

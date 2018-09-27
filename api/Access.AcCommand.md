@@ -1,5 +1,5 @@
 ---
-title: AcCommand Enumeration (Access)
+title: AcCommand enumeration (Access)
 keywords: vbaac10.chm10037
 f1_keywords:
 - vbaac10.chm10037
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcCommand Enumeration (Access)
+# AcCommand enumeration (Access)
 
 Used with the  **[RunCommand](Access.Application.RunCommand.md)** method to run built-in commands.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCmdAboutMicrosoftAccess**|35||
 |**acCmdAddDataMacroAfterDelete**|720||

@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.Top Property (Access)
+title: EmptyCell.Top property (Access)
 keywords: vbaac10.chm14308
 f1_keywords:
 - vbaac10.chm14308
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.Top Property (Access)
+# EmptyCell.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

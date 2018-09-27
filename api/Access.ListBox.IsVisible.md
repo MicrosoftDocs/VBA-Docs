@@ -1,5 +1,5 @@
 ---
-title: ListBox.IsVisible Property (Access)
+title: ListBox.IsVisible property (Access)
 keywords: vbaac10.chm11276
 f1_keywords:
 - vbaac10.chm11276
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.IsVisible Property (Access)
+# ListBox.IsVisible property (Access)
 
 You can use the  **IsVisible** property in to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsVisible`
+_expression_. `IsVisible`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

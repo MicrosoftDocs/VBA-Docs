@@ -31,13 +31,13 @@ For more information about the new function, see the [NegBinom_Dist](Excel.Works
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number_f - the number of failures.|
 | _Arg2_|Required| **Double**|Number_s - the threshold number of successes.|
 | _Arg3_|Required| **Double**|Probability_s - the probability of a success.|
 
-### Return Value
+### Return value
 
 Double
 

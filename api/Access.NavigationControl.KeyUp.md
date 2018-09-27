@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.KeyUp Event (Access)
+title: NavigationControl.KeyUp event (Access)
 keywords: vbaac10.chm14208
 f1_keywords:
 - vbaac10.chm14208
@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.KeyUp Event (Access)
+# NavigationControl.KeyUp event (Access)
 
 The  **KeyUp** event occurs when the user releases a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `KeyUp`( ` _KeyCode_`, ` _Shift_` )
+_expression_. `KeyUp`( ` _KeyCode_`, ` _Shift_` )
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 
-### Return Value
+### Return value
 
 nothing
 

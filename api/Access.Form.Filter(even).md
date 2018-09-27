@@ -1,5 +1,5 @@
 ---
-title: Form.Filter Event (Access)
+title: Form.Filter event (Access)
 keywords: vbaac10.chm13660
 f1_keywords:
 - vbaac10.chm13660
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Filter Event (Access)
+# Form.Filter event (Access)
 
 Occurs when the user opens a filter window by clicking  **Filter by Form**,  **Advanced Filter/Sort**, or  **Server Filter By Form**.
 
 
 ## Syntax
 
- _expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
+_expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|The setting determines whether to open the filter window. Setting the Cancel argument to  **True** (?1) prevents the filter window from opening. You can also use the **CancelEvent** method of the **DoCmd** object to cancel opening the filter window.|
 | _FilterType_|Required|**Integer**|The filter window the user is trying to open. The FilterType argument can be one of the following intrinsic constants:<ul><li><b>acFilterByForm</b></li><li><b>acFilterAdvanced</b></li><li><b>acServerFilterByForm</b></li></ul>|

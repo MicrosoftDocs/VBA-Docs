@@ -27,12 +27,12 @@ Returns the Pearson product moment correlation coefficient, r, a dimensionless i
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array1 - a set of independent values.|
 | _Arg2_|Required| **Variant**|Array2 - a set of dependent values.|
 
-### Return Value
+### Return value
 
 Double
 

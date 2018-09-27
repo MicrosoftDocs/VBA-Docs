@@ -1,5 +1,5 @@
 ---
-title: Attachment.LabelX Property (Access)
+title: Attachment.LabelX property (Access)
 keywords: vbaac10.chm14005
 f1_keywords:
 - vbaac10.chm14005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LabelX Property (Access)
+# Attachment.LabelX property (Access)
 
 The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.
 
@@ -19,9 +19,9 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
 ## Syntax
 
- _expression_. `LabelX`
+_expression_. `LabelX`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

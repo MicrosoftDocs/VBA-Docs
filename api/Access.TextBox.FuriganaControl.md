@@ -1,5 +1,5 @@
 ---
-title: TextBox.FuriganaControl Property (Access)
+title: TextBox.FuriganaControl property (Access)
 keywords: vbaac10.chm11049
 f1_keywords:
 - vbaac10.chm11049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.FuriganaControl Property (Access)
+# TextBox.FuriganaControl property (Access)
 
 
 
@@ -19,9 +19,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `FuriganaControl`
+_expression_. `FuriganaControl`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

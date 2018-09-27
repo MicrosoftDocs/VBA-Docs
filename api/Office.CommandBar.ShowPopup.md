@@ -30,7 +30,7 @@ Displays a command bar as a shortcut menu at the specified coordinates or at the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Optional|**Variant**|The x-coordinate on which the location of the shortcut menu is based. If this argument is omitted, the current x-coordinate of the pointer is used.|
 | _y_|Optional|**Variant**|The y-coordinate on which the location of the shortcut menu is based. If this argument is omitted, the current y-coordinate of the pointer is used.|

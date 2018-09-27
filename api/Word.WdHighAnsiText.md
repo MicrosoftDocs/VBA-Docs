@@ -14,7 +14,7 @@ Specifies how Word interprets high-ANSI text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoDetectHighAnsiFarEast**|2|Microsoft Word interprets high-ANSI text as East Asian characters only if Word automatically detects East Asian language text.|
 | **wdHighAnsiIsFarEast**|0|Word doesn't interpret any high-ANSI text as East Asian characters.|

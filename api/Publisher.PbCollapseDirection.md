@@ -17,7 +17,7 @@ The direction in which to collapse the range or selection.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCollapseEnd**|2|Collapse at the end.|
 | **pbCollapseStart**|1|Collapse at the start.|

@@ -27,7 +27,7 @@ Occurs after a reminder is added.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReminderObject_|Required| **[_REMINDER]**|The  **[Reminder](Outlook.Reminder.md)** object added to the collection.|
 

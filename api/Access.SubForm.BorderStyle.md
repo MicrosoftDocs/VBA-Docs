@@ -1,5 +1,5 @@
 ---
-title: SubForm.BorderStyle Property (Access)
+title: SubForm.BorderStyle property (Access)
 keywords: vbaac10.chm11943
 f1_keywords:
 - vbaac10.chm11943
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.BorderStyle Property (Access)
+# SubForm.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

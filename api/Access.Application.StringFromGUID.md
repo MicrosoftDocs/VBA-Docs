@@ -1,5 +1,5 @@
 ---
-title: Application.StringFromGUID Method (Access)
+title: Application.StringFromGUID method (Access)
 keywords: vbaac10.chm12557
 f1_keywords:
 - vbaac10.chm12557
@@ -11,27 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StringFromGUID Method (Access)
+# Application.StringFromGUID method (Access)
 
 The  **StringFromGUID** function converts a GUID, which is an array of type **Byte**, to a string.
 
 
 ## Syntax
 
- _expression_. `StringFromGUID`( ` _Guid_` )
+_expression_. `StringFromGUID`( ` _Guid_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Guid_|Required|**Variant**|An array of  **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
 
-### Return Value
+### Return value
 
 Variant
 

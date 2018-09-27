@@ -1,5 +1,5 @@
 ---
-title: Control.Column Property (Access)
+title: Control.Column property (Access)
 keywords: vbaac10.chm10136
 f1_keywords:
 - vbaac10.chm10136
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Control.Column Property (Access)
+# Control.Column property (Access)
 
 You can use the  **Column** property to refer to a specific column, or column and row combination, in a multiple-column combo box or list box. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_. `Column`( ` _Index_`, ` _Row_` )
+_expression_. `Column`( ` _Index_`, ` _Row_` )
 
- _expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|A long integer that can range from 0 to the setting of the  **ColumnCount** property minus one.|
 | _Row_|Optional|**Variant**|An integer that can range from 0 to the setting of the  **ListCount** property minus 1.|

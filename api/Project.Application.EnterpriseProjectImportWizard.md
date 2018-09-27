@@ -27,11 +27,11 @@ Starts the Enterprise  **Project Import Wizard**. Available in Project Professio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**Variant**|The file name of a single project that is to be imported by using the wizard.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

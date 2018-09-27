@@ -23,7 +23,7 @@ Specifies whether text on the specified  **ThreeDFormat** object rotates with th
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

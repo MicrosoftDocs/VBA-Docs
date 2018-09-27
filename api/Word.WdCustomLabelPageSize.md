@@ -14,7 +14,7 @@ Specifies the page size for a custom mailing label.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCustomLabelA4**|2|A4 portrait label dimensions.|
 | **wdCustomLabelA4LS**|3|A4 landscape label dimensions.|

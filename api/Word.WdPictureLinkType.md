@@ -14,7 +14,7 @@ Specifies how a picture should be linked to a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdLinkDataInDoc**|1|Embed the picture in the document.|
 | **wdLinkDataOnDisk**|2|Link the picture to the document.|

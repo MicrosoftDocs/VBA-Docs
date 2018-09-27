@@ -14,7 +14,7 @@ Represents the results of running a Document Inspector module.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDocInspectorStatusDocOk**|0|Indicates that the Document Inspector module returned no issues or errors.|
 |**msoDocInspectorStatusError**|2|Indicates that the Document Inspector module returned an error.|

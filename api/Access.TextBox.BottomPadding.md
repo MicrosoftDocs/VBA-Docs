@@ -1,5 +1,5 @@
 ---
-title: TextBox.BottomPadding Property (Access)
+title: TextBox.BottomPadding property (Access)
 keywords: vbaac10.chm11155
 f1_keywords:
 - vbaac10.chm11155
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BottomPadding Property (Access)
+# TextBox.BottomPadding property (Access)
 
 Gets or sets the amount of space (in inches) between the text box and its bottom gridline. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `BottomPadding`
+_expression_. `BottomPadding`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## See also

@@ -23,7 +23,7 @@ Represents the language ID of the version of the Microsoft Visio instance repres
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

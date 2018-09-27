@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenForm Method (Access)
+title: DoCmd.OpenForm method (Access)
 keywords: vbaac10.chm4160
 f1_keywords:
 - vbaac10.chm4160
@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenForm Method (Access)
+# DoCmd.OpenForm method (Access)
 
 The **OpenForm** method carries out the **OpenForm** action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `OpenForm` (`_FormName_`, `_View_`, `_FilterName_`, `_WhereCondition_`, `_DataMode_`, `_WindowMode_`, `_OpenArgs_`)
+_expression_. `OpenForm` (`_FormName_`, `_View_`, `_FilterName_`, `_WhereCondition_`, `_DataMode_`, `_WindowMode_`, `_OpenArgs_`)
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormName_|Required|**Variant**|A string expression that's the valid name of a form in the current database. If you execute Visual Basic code containing the **OpenForm** method in a library database, Access looks for the form with this name first in the library database, and then in the current database.|
 | _View_|Optional|**AcFormView**|A **[AcFormView](Access.AcFormView.md)** constant that specifies the view in which the form will open. The default value is **acNormal**.|

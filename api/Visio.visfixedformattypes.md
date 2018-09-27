@@ -15,7 +15,7 @@ File format types passed to the  **Document.ExportAsFixedFormat** method.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visFixedFormatPDF**|1|PDF format.|
 | **visFixedFormatXPS**|2|XPS format.|

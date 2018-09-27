@@ -14,7 +14,7 @@ Specifies the shape used with the 3-D bar or column chart.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlBox**|0|A box.|
 |**xlConeToMax**|5|A cone, truncated at the specified value.|

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.LabelY Property (Access)
+title: OptionButton.LabelY property (Access)
 keywords: vbaac10.chm10601
 f1_keywords:
 - vbaac10.chm10601
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.LabelY Property (Access)
+# OptionButton.LabelY property (Access)
 
 The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `LabelY`
+_expression_. `LabelY`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

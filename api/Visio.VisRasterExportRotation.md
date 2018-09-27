@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that define how to apply the raster export rotation; passed to and returned by the ApplicationSettings.RasterExportRotation property.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterNoRotation**|0|No rotation; the default.|
 | **visRasterRotateLeft**|1|Rotate left.|

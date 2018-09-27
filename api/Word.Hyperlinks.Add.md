@@ -27,7 +27,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Anchor_|Required| **Object**|The text or graphic that you want turned into a hyperlink.|
 | _Address_|Optional| **Variant**|The address for the specified link. The address can be an e-mail address, an Internet address, or a file name. Note that Microsoft Word doesn't check the accuracy of the address.|
@@ -36,7 +36,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
 | _TextToDisplay_|Optional| **Variant**|The display text of the specified hyperlink. The value of this argument replaces the text or graphic specified by Anchor.|
 | _Target_|Optional| **Variant**|The name of the frame or window in which you want to load the specified hyperlink.|
 
-### Return Value
+### Return value
 
 Hyperlink
 

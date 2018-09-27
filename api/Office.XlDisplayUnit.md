@@ -14,7 +14,7 @@ Indicates numeric units of measurement.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDisplayUnitCustom**|-4114|Specifies custom units.|
 |**xlDisplayUnitNone**|-4142|No units are displayed.|

@@ -27,7 +27,7 @@ Sets the compatibility mode for the document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Mode_|Required| **Long**|Specifies which version of Word to approximate. Use a constant from the [WdCompatibilityMode](Word.WdCompatibilityMode.md) enumeration as an argument for this parameter.|
 

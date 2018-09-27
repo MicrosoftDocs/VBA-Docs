@@ -1,5 +1,5 @@
 ---
-title: Report.PictureTiling Property (Access)
+title: Report.PictureTiling property (Access)
 keywords: vbaac10.chm13708
 f1_keywords:
 - vbaac10.chm13708
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PictureTiling Property (Access)
+# Report.PictureTiling property (Access)
 
 You can use the  **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `PictureTiling`
+_expression_. `PictureTiling`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

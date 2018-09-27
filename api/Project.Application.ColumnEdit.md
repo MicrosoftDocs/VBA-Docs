@@ -27,11 +27,11 @@ Displays the  **Column Definition** dialog box for the specified column.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Integer**|The number of the column to change. The default value is the number of the active column.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

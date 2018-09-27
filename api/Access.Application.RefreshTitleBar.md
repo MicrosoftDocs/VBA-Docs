@@ -1,5 +1,5 @@
 ---
-title: Application.RefreshTitleBar Method (Access)
+title: Application.RefreshTitleBar method (Access)
 keywords: vbaac10.chm12551
 f1_keywords:
 - vbaac10.chm12551
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RefreshTitleBar Method (Access)
+# Application.RefreshTitleBar method (Access)
 
 The  **RefreshTitleBar** method refreshes the Microsoft Access title bar after the **[AppTitle](Access.AppTitle.md)** or **[AppIcon](Access.AppIcon.md)** property has been set in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `RefreshTitleBar`
+_expression_. `RefreshTitleBar`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

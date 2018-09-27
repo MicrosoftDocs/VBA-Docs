@@ -27,7 +27,7 @@ Displays a modeless dialog box that provides detailed information about an  **[A
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HWnd_|Optional| **Variant**|The parent window handle for the  **Details** dialog box. A zero value (the default) specifies that the dialog is parented to Outlook.|
 

@@ -27,7 +27,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrSrc_|Optional|**String**|Contains the name of the data source.|
 | _bstrConnect_|Optional|**String**|Contains the connection string to the data source.|

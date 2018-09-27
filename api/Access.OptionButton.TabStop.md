@@ -1,5 +1,5 @@
 ---
-title: OptionButton.TabStop Property (Access)
+title: OptionButton.TabStop property (Access)
 keywords: vbaac10.chm10579
 f1_keywords:
 - vbaac10.chm10579
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.TabStop Property (Access)
+# OptionButton.TabStop property (Access)
 
 You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `TabStop`
+_expression_. `TabStop`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -26,7 +26,7 @@ Returns the number of  **DataColumn** objects in the **DataColumns** collection.
  _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

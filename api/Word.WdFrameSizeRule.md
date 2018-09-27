@@ -14,7 +14,7 @@ Specifies how Word interprets the rule used to determine the height or width of 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFrameAtLeast**|1|Sets the height or width to a value equal to or greater than the value specified by the  **Height** property or **Width** property.|
 | **wdFrameAuto**|0|Sets the height or width according to the height or width of the item in the frame.|

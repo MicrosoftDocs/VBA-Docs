@@ -1,5 +1,5 @@
 ---
-title: CommandButton.HoverForeShade Property (Access)
+title: CommandButton.HoverForeShade property (Access)
 keywords: vbaac10.chm14618
 f1_keywords:
 - vbaac10.chm14618
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.HoverForeShade Property (Access)
+# CommandButton.HoverForeShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **HoverForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverForeShade`
+_expression_. `HoverForeShade`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

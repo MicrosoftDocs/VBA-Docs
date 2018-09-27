@@ -27,12 +27,12 @@ Saves a document with a file name using extra information passed in an argument.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name for the document.|
 | _SaveFlags_|Required| **Integer**|How to save the file.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Gets the current setting for display of South Asian languages. Read-only.
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 VisRegionalUIOptions
 

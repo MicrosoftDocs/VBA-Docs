@@ -27,11 +27,11 @@ Returns the factorial of a number. The factorial of a number is equal to 1*2*3*.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the nonnegative number you want the factorial of. If number is not an integer, it is truncated.|
 
-### Return Value
+### Return value
 
 Double
 

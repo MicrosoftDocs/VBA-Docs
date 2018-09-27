@@ -1,5 +1,5 @@
 ---
-title: Attachment.Application Property (Access)
+title: Attachment.Application property (Access)
 keywords: vbaac10.chm13903
 f1_keywords:
 - vbaac10.chm13903
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.Application Property (Access)
+# Attachment.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_.
+_expression_.
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

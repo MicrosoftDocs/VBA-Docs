@@ -27,11 +27,11 @@ Converts a string specified by  _Value_ to an array of bytes.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Value_|Required| **String**|A hexadecimal string value that is to be converted to an array of bytes.|
 
-### Return Value
+### Return value
 
 A  **Variant** value that represents an array of bytes returned from the conversion.
 

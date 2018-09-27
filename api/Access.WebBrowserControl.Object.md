@@ -1,5 +1,5 @@
 ---
-title: WebBrowserControl.Object Property (Access)
+title: WebBrowserControl.Object property (Access)
 keywords: vbaac10.chm14369
 f1_keywords:
 - vbaac10.chm14369
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WebBrowserControl.Object Property (Access)
+# WebBrowserControl.Object property (Access)
 
 You can use the  **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_. `Object`
+_expression_. `Object`
 
- _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
 ## Remarks

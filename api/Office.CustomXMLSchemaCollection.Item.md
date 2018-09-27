@@ -27,11 +27,11 @@ Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **CustomXMLSchema** object to be returned.|
 
-### Return Value
+### Return value
 
 CustomXMLSchema
 

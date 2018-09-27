@@ -27,7 +27,7 @@ Edits the work breakdown structure (WBS) code mask.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CodePrefix_|Optional|**String**|The WBS code prefix for the project.|
 | _Level_|Optional|**Long**|The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.|
@@ -37,7 +37,7 @@ Edits the work breakdown structure (WBS) code mask.
 | _CodeGenerate_|Optional|**Boolean**|**True** if a new WBS code is generated whenever a new task is created.|
 | _VerifyUniqueness_|Optional|**Boolean**|**True** if new WBS codes are verified to be unique.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

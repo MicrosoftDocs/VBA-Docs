@@ -23,7 +23,7 @@ Indicates the unit of measure associated with a  **Cell** object. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

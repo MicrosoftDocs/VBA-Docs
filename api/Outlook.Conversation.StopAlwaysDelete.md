@@ -27,7 +27,7 @@ Stops the action of always moving conversation items in the specified store to t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store to which the stop-always-delete action applies.|
 

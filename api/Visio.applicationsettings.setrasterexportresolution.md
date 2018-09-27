@@ -21,7 +21,7 @@ _expression_ An expression that returns an **[ApplicationSettings](Visio.Applica
 
 ### Parameters
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _resolution_|Required|**VisRasterExportResolution**|The raster export resolution. For possible values, see [Remarks](#remarks).|
 | _Width_|Optional|**Double**|The raster export resolution width. Must be greater than or equal to 1.|

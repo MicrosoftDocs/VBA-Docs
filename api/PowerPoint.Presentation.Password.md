@@ -23,7 +23,7 @@ Returns or sets the password that must be supplied to open the specified present
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

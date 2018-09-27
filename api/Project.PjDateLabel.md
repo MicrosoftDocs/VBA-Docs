@@ -14,7 +14,7 @@ Contains constants that specify the display format for date and time labels in a
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDay_ddd**|19|Examples: Mon, Tue. Requires the time unit to be  **pjTimescaleDays**.|
 |**pjDay_ddd_dd**|105|Examples: Mon 30, Tue 1|

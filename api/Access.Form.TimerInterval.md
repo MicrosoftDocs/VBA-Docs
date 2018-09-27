@@ -1,5 +1,5 @@
 ---
-title: Form.TimerInterval Property (Access)
+title: Form.TimerInterval property (Access)
 keywords: vbaac10.chm13462
 f1_keywords:
 - vbaac10.chm13462
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.TimerInterval Property (Access)
+# Form.TimerInterval property (Access)
 
 You can use the  **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Form.Timer.md)** events on a form. Read/write Long.
 
 
 ## Syntax
 
- _expression_. `TimerInterval`
+_expression_. `TimerInterval`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

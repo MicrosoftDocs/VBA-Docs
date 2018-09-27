@@ -27,7 +27,7 @@ Modify the key value by which values are sorted in the field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key_|Required| **Range**|Specifies the key to be modified.|
 

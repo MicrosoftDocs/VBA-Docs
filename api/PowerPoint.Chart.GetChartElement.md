@@ -27,7 +27,7 @@ Returns information about the chart element at the specified x-coordinate and y-
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required|**Long**|The x-coordinate of the chart element.|
 | _y_|Required|**Long**|The y-coordinate of the chart element.|

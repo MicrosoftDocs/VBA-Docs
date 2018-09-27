@@ -1,5 +1,5 @@
 ---
-title: Report.Line Method (Access)
+title: Report.Line method (Access)
 keywords: vbaac10.chm13783
 f1_keywords:
 - vbaac10.chm13783
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Line Method (Access)
+# Report.Line method (Access)
 
 The  **Line** method draws lines and rectangles on a **Report** object when the Print event occurs.
 
 
 ## Syntax
 
- _expression_. `Line` ( ` _Step_` ( `x1,  _y1_` ) - ` _Step_` ( ` _x2, y2_` ), ` _color_`, ` _BF_` )
+_expression_. `Line` ( ` _Step_` ( `x1,  _y1_` ) - ` _Step_` ( ` _x2, y2_` ), ` _color_`, ` _BF_` )
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+_expression_ Required. An expression that returns one of the objects in the Applies To list.
 
 
 ### Parameters

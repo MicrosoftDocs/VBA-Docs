@@ -14,7 +14,7 @@ Contains constants that specify the type of task where a custom field indicator 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCriteriaNonSummary**|0|Tasks are not summary tasks.|
 |**pjCriteriaProjectSummary**|2|The task is the project summary task (task ID 0).|

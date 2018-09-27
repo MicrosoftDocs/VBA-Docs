@@ -12,7 +12,7 @@ Specifies the type of the chart item.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAxis**|21|Axis.|
 | **xlAxisTitle**|17|Axis title.|

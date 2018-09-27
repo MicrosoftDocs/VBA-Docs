@@ -27,11 +27,11 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The  **[Name](Outlook.UserDefinedProperty.Name.md)** property value of the **UserDefinedProperty** object to find in the collection.|
 
-### Return Value
+### Return value
 
 A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
 

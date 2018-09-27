@@ -17,7 +17,7 @@ Indicates the status of the file linked to the specified picture.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbLinkedFileMissing**|2|The file can no longer be found at the specified path.|
 | **pbLinkedFileModified**|3|The linked file has been modified since it was linked to the picture.|

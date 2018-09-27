@@ -14,7 +14,7 @@ Specifies the weight of the border around a range.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlHairline**|1|A hairline border (thinnest border).|
 |**xlMedium**|-4138|A medium border.|

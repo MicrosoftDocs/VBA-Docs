@@ -23,7 +23,7 @@ Returns the OLE media type. Read-only.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return Value
+### Return value
 
 PpMediaType
 

@@ -14,7 +14,7 @@ Contains constants that specify the middle shape of a bar.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjLineBottom**|7|Bottom line.|
 |**pjLineMiddle**|6|Middle line.|

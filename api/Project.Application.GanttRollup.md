@@ -27,12 +27,12 @@ Specifies the rollup behavior of bars on the Gantt Chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AlwaysRollup_|Optional|**Boolean**|**True** if rolled-up Gantt bars always display. The default value is **False**.|
 | _HideWhenSummaryExpanded_|Optional|**Boolean**|**True** if rolled-up Gantt bars should be hidden when summary tasks are expanded. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

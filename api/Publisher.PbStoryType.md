@@ -17,7 +17,7 @@ Represents the type of story.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbStoryContinuedFrom**|2|Story continued from which text frame.|
 | **pbStoryContinuedOn**|3|Story continued on to which text frame.|

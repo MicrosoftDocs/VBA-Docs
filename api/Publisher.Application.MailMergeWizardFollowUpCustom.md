@@ -27,7 +27,7 @@ Fires when the string that appears as the fourth item under  **Prepare to follow
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Doc|Required| **Document**|The current publication.|
 

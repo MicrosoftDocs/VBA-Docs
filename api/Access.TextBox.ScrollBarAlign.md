@@ -1,5 +1,5 @@
 ---
-title: TextBox.ScrollBarAlign Property (Access)
+title: TextBox.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11133
 f1_keywords:
 - vbaac10.chm11133
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.ScrollBarAlign Property (Access)
+# TextBox.ScrollBarAlign property (Access)
 
 You can use the  **ScrollBarAlign** to specify or determine the alignment of a vertical scroll bar. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ScrollBarAlign`
+_expression_. `ScrollBarAlign`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Report.PictureType Property (Access)
+title: Report.PictureType property (Access)
 keywords: vbaac10.chm13705
 f1_keywords:
 - vbaac10.chm13705
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.PictureType Property (Access)
+# Report.PictureType property (Access)
 
 You can use the  **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `PictureType`
+_expression_. `PictureType`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

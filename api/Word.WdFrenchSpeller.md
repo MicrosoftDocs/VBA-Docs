@@ -14,7 +14,7 @@ Indicates which version of French to use when using the French language spelling
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFrenchBoth**|0|Use both Post Reform and Pre-Reform French dictionaries when checking French language spelling.|
 | **wdFrenchPostReform**|2|Use only the Post Reform French dictionary when checking French language spelling.|

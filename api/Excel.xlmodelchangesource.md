@@ -12,7 +12,7 @@ Specifies the source of the change to the data model.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlChangeByExcel**|0|Excel|
 | **xlChangeByPowerPivotAddIn**|1|PowerPivot add-in|

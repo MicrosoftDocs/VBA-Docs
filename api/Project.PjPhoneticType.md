@@ -14,7 +14,7 @@ Contains constants that specify the type of characters used to display phonetic 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjHiragana**|2|Hiragana characters.|
 |**pjKatakana**|1|Katakana characters.|

@@ -14,7 +14,7 @@ Specifies the horizontal alignment of text in a text frame. Used with the  **Hor
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnchorCenter**|2|Text is centered horizontally.|
 |**msoAnchorNone**|1|No alignment.|

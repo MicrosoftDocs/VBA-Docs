@@ -27,7 +27,7 @@ Changes one or more days in a base calendar.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to change.|
 | _StartDate_|Optional|**Variant**|The first date to change. If  **StartDate** is specified without **EndDate**, that date is the only day affected. If **WeekDay** is specified, **StartDate** is ignored.|
@@ -46,7 +46,7 @@ Changes one or more days in a base calendar.
 | _From5_|Optional|**Variant**|The start time of the fifth shift.|
 | _To5_|Optional|**Variant**|The end time of the fifth shift.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

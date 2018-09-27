@@ -14,7 +14,7 @@ Specifies the mode for encryption ciphers.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**cipherModeECB**|0|ECB cipher mode.|
 |**cipherModeCBC**|1|CBC cipher mode.|

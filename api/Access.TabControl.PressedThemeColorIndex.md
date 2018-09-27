@@ -1,5 +1,5 @@
 ---
-title: TabControl.PressedThemeColorIndex Property (Access)
+title: TabControl.PressedThemeColorIndex property (Access)
 keywords: vbaac10.chm14620
 f1_keywords:
 - vbaac10.chm14620
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.PressedThemeColorIndex Property (Access)
+# TabControl.PressedThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `PressedThemeColorIndex`
+_expression_. `PressedThemeColorIndex`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

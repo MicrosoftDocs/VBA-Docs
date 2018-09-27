@@ -14,7 +14,7 @@ Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phon
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPhoneticAlignCenter**|2|Centered|
 | **xlPhoneticAlignDistributed**|3|Distributed|

@@ -27,11 +27,11 @@ Returns an object that represents either a single scenario (a  **[Scenario](Exce
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the scenario. Use an array to specify more than one scenario.|
 
-### Return Value
+### Return value
 
 Object
 

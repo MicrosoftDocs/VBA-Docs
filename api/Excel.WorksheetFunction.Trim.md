@@ -27,11 +27,11 @@ Removes all spaces from text except for single spaces between words. Use TRIM on
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Text - the text from which you want spaces removed.|
 
-### Return Value
+### Return value
 
 String
 

@@ -1,5 +1,5 @@
 ---
-title: AcProjectType Enumeration (Access)
+title: AcProjectType enumeration (Access)
 keywords: vbaac10.chm10036
 f1_keywords:
 - vbaac10.chm10036
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcProjectType Enumeration (Access)
+# AcProjectType enumeration (Access)
 
 Used with the  **ProjectType** property to determine the type of project that is currently open.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acADP**|1|The current project is a Microsoft Access project.|
 |**acMDB**|2|The current project is a Microsoft Access database.|

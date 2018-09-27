@@ -14,7 +14,7 @@ Specifies the way that rows on the specified worksheet are added or deleted to a
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlInsertDeleteCells**|1|Partial rows are inserted or deleted to match the exact number of rows required for the new recordset.|
 | **xlInsertEntireRows**|2|Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|

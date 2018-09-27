@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.HoverForeTint Property (Access)
+title: NavigationButton.HoverForeTint property (Access)
 keywords: vbaac10.chm14617
 f1_keywords:
 - vbaac10.chm14617
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.HoverForeTint Property (Access)
+# NavigationButton.HoverForeTint property (Access)
 
 Gets or sets the tint applied to the theme color in the  **HoverForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `HoverForeTint`
+_expression_. `HoverForeTint`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: SubForm.CanShrink Property (Access)
+title: SubForm.CanShrink property (Access)
 keywords: vbaac10.chm11937
 f1_keywords:
 - vbaac10.chm11937
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.CanShrink Property (Access)
+# SubForm.CanShrink property (Access)
 
 Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `CanShrink`
+_expression_. `CanShrink`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

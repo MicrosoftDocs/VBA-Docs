@@ -27,11 +27,11 @@ Deletes a ShapeSheet section.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The index of the section to delete.|
 
-### Return Value
+### Return value
 
 Nothing
 

@@ -24,7 +24,7 @@ Private Sub  _expression_ _'ViewChanged'(**_ByVal Window As [IVWINDOW]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window whose zoom level or scroll position changed.|
 

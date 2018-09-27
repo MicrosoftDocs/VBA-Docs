@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.Resources Property (Access)
+title: CurrentProject.Resources property (Access)
 keywords: vbaac10.chm14653
 f1_keywords:
 - vbaac10.chm14653
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.Resources Property (Access)
+# CurrentProject.Resources property (Access)
 
 Gets the  **[SharedResources](Access.SharedResources.md)** collection for the specified object. Read-only **SharedResources**.
 
 
 ## Syntax
 
- _expression_. `Resources`
+_expression_. `Resources`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## See also

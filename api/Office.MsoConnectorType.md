@@ -14,7 +14,7 @@ Specifies a type of connector.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoConnectorCurve**|3|Curved connector.|
 |**msoConnectorElbow**|2|Elbow connector.|

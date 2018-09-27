@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineStyleRight Property (Access)
+title: TabControl.GridlineStyleRight property (Access)
 keywords: vbaac10.chm14542
 f1_keywords:
 - vbaac10.chm14542
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineStyleRight Property (Access)
+# TabControl.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

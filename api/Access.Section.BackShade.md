@@ -1,5 +1,5 @@
 ---
-title: Section.BackShade Property (Access)
+title: Section.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.BackShade Property (Access)
+# Section.BackShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `BackShade`
+_expression_. `BackShade`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

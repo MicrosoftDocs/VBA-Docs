@@ -14,7 +14,7 @@ Contains constants that specify the format of the units.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjDays**|7|Days.|
 |**pjDaysEstimated**|39|Estimated days.|

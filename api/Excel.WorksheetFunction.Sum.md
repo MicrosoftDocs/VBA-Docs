@@ -27,11 +27,11 @@ Adds all the numbers in a range of cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the total value or sum.|
 
-### Return Value
+### Return value
 
 Double
 

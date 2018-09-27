@@ -27,7 +27,7 @@ Returns or sets the print quality. Read/write  **Variant** .
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|Horizontal print quality (1) or vertical print quality (2). Some printers may not support vertical print quality. If you don?t specify this argument, the  **PrintQuality** property returns (or can be set to) a two-element array that contains both horizontal and vertical print quality.|
 

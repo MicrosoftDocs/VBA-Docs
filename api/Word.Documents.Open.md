@@ -27,7 +27,7 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **Variant**|The name of the document (paths are accepted).|
 | _ConfirmConversions_|Optional| **Variant**| **True** to display the **Convert File** dialog box if the file isn't in Microsoft Word format.|
@@ -46,7 +46,7 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 | _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is  **wdLeftToRight** .|
 | _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the Encoding dialog box that Word displays if the text encoding cannot be recognized. The default value is **False** .|
 
-### Return Value
+### Return value
 
 Document
 

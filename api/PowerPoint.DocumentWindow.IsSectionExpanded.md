@@ -27,11 +27,11 @@ Indicates whether the selected section is expanded in the  **DocumentWindow**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**[INT]**|The index of the section.|
 
-### Return Value
+### Return value
 
 Boolean
 

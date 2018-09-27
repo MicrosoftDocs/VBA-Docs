@@ -1,5 +1,5 @@
 ---
-title: Section.Visible Property (Access)
+title: Section.Visible property (Access)
 keywords: vbaac10.chm12195
 f1_keywords:
 - vbaac10.chm12195
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Visible Property (Access)
+# Section.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

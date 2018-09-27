@@ -1,5 +1,5 @@
 ---
-title: TabControl.Style Property (Access)
+title: TabControl.Style property (Access)
 keywords: vbaac10.chm12087
 f1_keywords:
 - vbaac10.chm12087
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Style Property (Access)
+# TabControl.Style property (Access)
 
 You can use the  **Style** property to specify or determine the appearance of tabs on a tab control. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

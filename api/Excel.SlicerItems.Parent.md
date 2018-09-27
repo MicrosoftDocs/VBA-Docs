@@ -23,7 +23,7 @@ Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the speci
  _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
-### Return Value
+### Return value
 
 SlicerCache
 

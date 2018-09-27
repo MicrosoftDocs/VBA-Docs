@@ -27,7 +27,7 @@ Shows all headings up to the specified heading level and hides subordinate headi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Level_|Required| **Long**|The outline heading level (a number from 1 to 9).|
 

@@ -27,7 +27,7 @@ Occurs when an Outlook item is pasted.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ClipboardContent_|Required| **Variant**|The content to be pasted.|
 | _Target_|Required| **Folder**|The destination of the paste.|

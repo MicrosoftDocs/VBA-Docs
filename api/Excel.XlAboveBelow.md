@@ -14,7 +14,7 @@ Specifies if the values are above or below average.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **XlAboveAverage**|0|Above average.|
 | **XlAboveStdDev**|4|Above standard deviation.|

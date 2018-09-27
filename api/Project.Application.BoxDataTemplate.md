@@ -27,14 +27,14 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the template to edit, create, copy or delete.|
 | _action_|Required|**Long**|The operation to perform on the template. Can be one of the following  **[PjDataTemplate](Project.PjDataTemplate.md)** constants: **pjDataTemplateCopy**, **pjDataTemplateDelete**, **pjDataTemplateNew**, or **pjDataTemplateRename**.|
 | _NewName_|Optional|**String**|Required when specifying a new name for an existing data template (**action** is **pjDataTemplateNew**) or naming a copied data template (**action** is **pjDataTemplateCopy**). If **action** is **pjDataTemplateRename** or **pjDataTemplateDelete**, **NewName** is ignored.|
 | _Overwrite_|Optional|**Boolean**|**True** if an existing template should be replaced with one of the same name. If **action** is **pjDataTemplateRename** or **pjDataTemplateDelete**, **Overwrite** is ignored. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

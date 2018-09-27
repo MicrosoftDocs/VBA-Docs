@@ -14,7 +14,7 @@ Specifies the sort direction.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSortOrderAscending**|0|Ascending order. Default.|
 | **wdSortOrderDescending**|1|Descending order.|

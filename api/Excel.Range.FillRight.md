@@ -23,7 +23,7 @@ Fills right from the leftmost cell or cells in the specified range. The contents
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

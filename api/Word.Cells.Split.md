@@ -27,7 +27,7 @@ Splits a range of table cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NumRows_|Optional| **Variant**|The number of rows that the cell or group of cells is to be split into.|
 | _NumColumns_|Optional| **Variant**|The number of columns that the cell or group of cells is to be split into.|

@@ -14,7 +14,7 @@ Specifies the type of frame.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdFramesetTypeFrame**|1|A single frame.|
 | **wdFramesetTypeFrameset**|0|A frameset.|

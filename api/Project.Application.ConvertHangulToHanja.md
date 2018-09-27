@@ -23,7 +23,7 @@ Converts all Hangul characters to Hanja and all Hanja characters to Hangul in th
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

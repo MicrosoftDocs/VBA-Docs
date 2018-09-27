@@ -14,7 +14,7 @@ Specifies the method to use to allocate values when performing what-if analysis 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlEqualAllocation**|1|Use equal allocation.|
 | **xlWeightedAllocation**|2|Use weighted allocation.|

@@ -23,7 +23,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the common par
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return Value
+### Return value
 
 Shape
 

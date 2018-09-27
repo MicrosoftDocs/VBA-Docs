@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ItemsSelected Property (Access)
+title: ComboBox.ItemsSelected property (Access)
 keywords: vbaac10.chm11495
 f1_keywords:
 - vbaac10.chm11495
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ItemsSelected Property (Access)
+# ComboBox.ItemsSelected property (Access)
 
 You can use the  **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect combo box control.
 
 
 ## Syntax
 
- _expression_. `ItemsSelected`
+_expression_. `ItemsSelected`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

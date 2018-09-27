@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.GroupInterval Property (Access)
+title: GroupLevel.GroupInterval property (Access)
 keywords: vbaac10.chm12244
 f1_keywords:
 - vbaac10.chm12244
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.GroupInterval Property (Access)
+# GroupLevel.GroupInterval property (Access)
 
 You can use the  **GroupInterval** property with the **[GroupOn](Access.GroupLevel.GroupOn.md)** property to specify how records are grouped in a report. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `GroupInterval`
+_expression_. `GroupInterval`
 
- _expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
 
 
 ## Remarks

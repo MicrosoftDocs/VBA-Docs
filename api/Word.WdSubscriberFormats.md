@@ -14,7 +14,7 @@ This enumeration has been deprecated and should not be used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSubscriberBestFormat**|0|Not supported.|
 | **wdSubscriberPict**|4|Not supported.|

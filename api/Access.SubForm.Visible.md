@@ -1,5 +1,5 @@
 ---
-title: SubForm.Visible Property (Access)
+title: SubForm.Visible property (Access)
 keywords: vbaac10.chm11930
 f1_keywords:
 - vbaac10.chm11930
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.Visible Property (Access)
+# SubForm.Visible property (Access)
 
 Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

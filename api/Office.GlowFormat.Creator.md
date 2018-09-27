@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **GlowFormat*
  _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

@@ -27,7 +27,7 @@ Sets options for the specified text form field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdTextFormFieldType**|The text box type.|
 | _Default_|Optional| **Variant**|The default text that appears in the text box.|

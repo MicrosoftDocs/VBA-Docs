@@ -1,5 +1,5 @@
 ---
-title: ComboBox.OnEnter Property (Access)
+title: ComboBox.OnEnter property (Access)
 keywords: vbaac10.chm11451
 f1_keywords:
 - vbaac10.chm11451
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.OnEnter Property (Access)
+# ComboBox.OnEnter property (Access)
 
 Sets or returns the value of the  **On Enter** box in the **Properties** window of specified object. Read/write **String**. .
 
 
 ## Syntax
 
- _expression_. `OnEnter`
+_expression_. `OnEnter`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Enter** event occurs before a control actually receives the focus from a 
 The  **OnEnter** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Enter** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

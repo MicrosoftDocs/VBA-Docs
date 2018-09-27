@@ -17,7 +17,7 @@ Specifies the reply style.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olEmbedOriginalItem**|1|The reply will include the original item embedded in it. |
 | **olIncludeOriginalText**|2|The reply will include the text of the original item.|

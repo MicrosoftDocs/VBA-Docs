@@ -1,5 +1,5 @@
 ---
-title: Application.SaveAsTemplate Method (Access)
+title: Application.SaveAsTemplate method (Access)
 keywords: vbaac10.chm14524
 f1_keywords:
 - vbaac10.chm14524
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SaveAsTemplate Method (Access)
+# Application.SaveAsTemplate method (Access)
 
 Converts an existing Access database file to a database template (*.accdt) format file.
 
 
 ## Syntax
 
- _expression_. `SaveAsTemplate`( ` _Path_`, ` _Title_`, ` _IconPath_`, ` _CoreTable_`, ` _Category_`, ` _PreviewPath_`, ` _Description_`, ` _InstantiationForm_`, ` _ApplicationPart_`, ` _IncludeData_` )
+_expression_. `SaveAsTemplate`( ` _Path_`, ` _Title_`, ` _IconPath_`, ` _CoreTable_`, ` _Category_`, ` _PreviewPath_`, ` _Description_`, ` _InstantiationForm_`, ` _ApplicationPart_`, ` _IncludeData_` )
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The full path and file name of the database template to create.|
 | _Title_|Required|**String**|The name of the database that is created when the instantiates the template.|

@@ -1,5 +1,5 @@
 ---
-title: Form.Moveable Property (Access)
+title: Form.Moveable property (Access)
 keywords: vbaac10.chm13524
 f1_keywords:
 - vbaac10.chm13524
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Moveable Property (Access)
+# Form.Moveable property (Access)
 
 Returns or sets a  **Boolean** indicating whether the specified form can be moved by the user; **True** if it can be moved. Read/write.
 
 
 ## Syntax
 
- _expression_. `Moveable`
+_expression_. `Moveable`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

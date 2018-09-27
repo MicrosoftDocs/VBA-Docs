@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.ForeColor Property (Access)
+title: FormatCondition.ForeColor property (Access)
 keywords: vbaac10.chm10052
 f1_keywords:
 - vbaac10.chm10052
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.ForeColor Property (Access)
+# FormatCondition.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies a destination for mail merge results.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdSendToEmail**|2|Send results to e-mail recipient.|
 | **wdSendToFax**|3|Send results to fax recipient.|

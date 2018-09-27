@@ -17,7 +17,7 @@ Specifies how item properties will be copied.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olForward**|2|Properties of the new item will be set such that the new item is a forward of the original item. If creating a new  **[MailItem](Outlook.MailItem.md)** , the value of the **To** and **CC** properties in the new item will be empty and the **Subject** property of the new item will be the original **Subject** with a prefix such as "FW:" (see **[Prefix](Outlook.Action.Prefix.md)** property) added. The attachments on the original item will be copied to the new item.|
 | **olReply**|0|Properties of the new item will be set such that the new item is a reply to the original item. If creating a new  **[MailItem](Outlook.MailItem.md)** , the value of the original **To** field will be copied to the **SenderEmailAddress** property of the new item, the **CC** field will be blank and the **Subject** field of the new item will be the original **Subject** with a prefix such as "RE:" (see **[Prefix](Outlook.Action.Prefix.md)** property) added.|

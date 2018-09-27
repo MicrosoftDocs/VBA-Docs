@@ -27,7 +27,7 @@ Sends keystrokes to the active application.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Keys_|Required| **Variant**|The key or key combination you want to send to the application, as text.|
 | _Wait_|Optional| **Variant**| **True** to have Microsoft Excel wait for the keys to be processed before returning control to the macro. **False** (or omitted) to continue running the macro without waiting for the keys to be processed.|

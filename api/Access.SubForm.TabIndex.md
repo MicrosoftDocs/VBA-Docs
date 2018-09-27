@@ -1,5 +1,5 @@
 ---
-title: SubForm.TabIndex Property (Access)
+title: SubForm.TabIndex property (Access)
 keywords: vbaac10.chm11935
 f1_keywords:
 - vbaac10.chm11935
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.TabIndex Property (Access)
+# SubForm.TabIndex property (Access)
 
 You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `TabIndex`
+_expression_. `TabIndex`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Form.ScrollBars Property (Access)
+title: Form.ScrollBars property (Access)
 keywords: vbaac10.chm13363
 f1_keywords:
 - vbaac10.chm13363
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ScrollBars Property (Access)
+# Form.ScrollBars property (Access)
 
 You can use the  **ScrollBars** property to specify whether scroll bars appear on a form. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ScrollBars`
+_expression_. `ScrollBars`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

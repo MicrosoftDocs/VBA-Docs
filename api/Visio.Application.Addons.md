@@ -23,7 +23,7 @@ Returns the  **Addons** collection of an **Application** or **InvisibleApp** obj
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return Value
+### Return value
 
 Addons
 

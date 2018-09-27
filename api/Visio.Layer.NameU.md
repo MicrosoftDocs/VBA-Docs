@@ -23,7 +23,7 @@ Specifies the universal name of a  **Layer** object. Read/write.
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

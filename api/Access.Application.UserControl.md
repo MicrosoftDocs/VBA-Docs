@@ -1,5 +1,5 @@
 ---
-title: Application.UserControl Property (Access)
+title: Application.UserControl property (Access)
 keywords: vbaac10.chm12514
 f1_keywords:
 - vbaac10.chm12514
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserControl Property (Access)
+# Application.UserControl property (Access)
 
 You can use the  **UserControl** property to determine whether the current Microsoft Access application was started by the user or by another application with Automation, formerly called OLE Automation. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `UserControl`
+_expression_. `UserControl`
 
- _expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Copies the selected object to the Clipboard as a picture.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Appearance_|Optional| **[XlPictureAppearance](Word.xlpictureappearance.md)**|One of the enumeration values that specifies how the picture should be copied. The default is  **xlScreen** .|
 | _Format_|Optional| **[XlCopyPictureFormat](Word.xlcopypictureformat.md)**|One of the enumeration values that specifies the format of the picture. The default is  **xlPicture** .|

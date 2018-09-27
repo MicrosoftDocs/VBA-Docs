@@ -1,5 +1,5 @@
 ---
-title: ListBox.GridlineThemeColorIndex Property (Access)
+title: ListBox.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.GridlineThemeColorIndex Property (Access)
+# ListBox.GridlineThemeColorIndex property (Access)
 
 Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineThemeColorIndex`
+_expression_. `GridlineThemeColorIndex`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

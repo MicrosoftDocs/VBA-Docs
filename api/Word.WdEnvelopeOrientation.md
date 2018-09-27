@@ -14,7 +14,7 @@ Specifies the orientation of envelopes.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCenterClockwise**|7|Center clockwise orientation.|
 | **wdCenterLandscape**|4|Center landscape orientation.|

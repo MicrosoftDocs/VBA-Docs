@@ -27,7 +27,7 @@ Used to display a dialog box informing the user that the signing process has com
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IOleWindow**|Allows the host application to obtain the handle to the window containing the displayed dialog box.|
 | _psigsetup_|Required|**SignatureSetup**|Contains initial settings of the signature provider.|

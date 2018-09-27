@@ -27,11 +27,11 @@ Shows or hides page breaks on the Network Diagram.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if page breaks appear on the Network Diagram. The default is to toggle the current setting.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

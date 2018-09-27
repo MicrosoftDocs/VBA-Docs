@@ -17,7 +17,7 @@ Specifies the type of page displayed by a control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olPageTypePlanner**|0|The free/busy scheduling grid from a meeting request form.|
 | **olPageTypeTracker**|1|The tracking grid from a meeting request that has been sent.|

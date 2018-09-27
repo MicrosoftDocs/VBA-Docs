@@ -14,7 +14,7 @@ Specifies the capitalization of the text.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAllCaps**|2|Display the text as all uppercase letters.|
 |**msoCapsMixed**|-2|Display the text as mixed uppercase and lowercase letters.|

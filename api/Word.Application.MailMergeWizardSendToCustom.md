@@ -27,7 +27,7 @@ Private Sub  _expression_ _'MailMergeWizardSendToCustom'(**_ByVal Doc As Documen
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The mail merge main document.|
 

@@ -14,7 +14,7 @@ Specifies the type of control associated with a  **SmartTagAction** object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdControlActiveX**|13|ActiveX control.|
 | **wdControlButton**|6|Button.|

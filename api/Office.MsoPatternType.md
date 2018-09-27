@@ -14,7 +14,7 @@ Specifies the fill pattern used in a shape.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPattern10Percent**|2|10% of the foreground color.|
 |**msoPattern20Percent**|3|20% of the foreground color.|

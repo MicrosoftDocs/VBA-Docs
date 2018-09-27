@@ -14,7 +14,7 @@ Specifies the border to be retrieved.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDiagonalDown**|5|Border running from the upper left-hand corner to the lower right of each cell in the range.|
 | **xlDiagonalUp**|6|Border running from the lower left-hand corner to the upper right of each cell in the range.|

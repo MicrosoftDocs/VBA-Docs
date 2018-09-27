@@ -27,7 +27,7 @@ Occurs when Microsoft Outlook encounters an error while synchronizing a user?s f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Code_|Required| **Long**|A unique value that identifies the error.|
 | _Description_|Required| **String**|A textual description of the error.|

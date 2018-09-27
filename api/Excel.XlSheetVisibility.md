@@ -14,7 +14,7 @@ Specifies whether the object is visible.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSheetHidden**|0|Hides the worksheet which the user can unhide via menu.|
 | **xlSheetVeryHidden**|2|Hides the object so that the only way for you to make it visible again is by setting this property to True (the user cannot make the object visible).|

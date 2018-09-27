@@ -27,7 +27,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The string you want Microsoft Excel to search for.|
 | _Replacement_|Required| **Variant**|The replacement string.|
@@ -38,7 +38,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 | _SearchFormat_|Optional| **Variant**|The search format for the method.|
 | _ReplaceFormat_|Optional| **Variant**|The replace format for the method.|
 
-### Return Value
+### Return value
 
 Boolean
 

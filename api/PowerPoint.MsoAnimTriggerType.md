@@ -14,7 +14,7 @@ The action that triggers the animation effect. The default value is  **msoAnimTr
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnimTriggerAfterPrevious**|3|After the  **Previous** button is clicked.|
 |**msoAnimTriggerMixed**|-1|Mixed actions.|

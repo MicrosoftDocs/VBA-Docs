@@ -27,13 +27,13 @@ Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to open.|
 | _Stylesheets_|Optional| **Variant**|Either a single value or an array of values that specify which XSL Transformation (XSLT) stylesheet processing instructions to apply.|
 | _LoadOption_|Optional| **Variant**|Specifies how Excel opens the XML data file. Can be one of the  **[XlXmlLoadOption](Excel.XlXmlLoadOption.md)** constants.|
 
-### Return Value
+### Return value
 
 Workbook
 

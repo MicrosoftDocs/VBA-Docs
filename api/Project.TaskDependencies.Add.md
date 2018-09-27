@@ -24,13 +24,13 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _From_|Required|**Object**|The  **Task** object specified becomes a predecessor of the task specified by expression.|
 | _Type_|Optional|**Long**|The type of relationship between the linked tasks. Can be one of the  **[PjTaskLinkType](Project.PjTaskLinkType.md)** constants. The default value is **pjFinishToStart**.|
 | _Lag_|Optional|**Variant**|The duration of lag time between linked tasks. To specify lead time between tasks, use a negative value. String values default to days unless otherwise specified. Non-string values are interpreted as minutes. The default value is 0.|
 
-### Return Value
+### Return value
 
  **TaskDependency**
 

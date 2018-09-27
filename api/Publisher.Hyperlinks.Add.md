@@ -27,7 +27,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Text|Required| **TextRange**| **TextRange** object. The text range to be converted into a hyperlink.|
 |Address|Optional| **String**|The address of the new hyperlink. If RelativePage is  **pbHlinkTargetTypeURL** (default) or **pbHlinkTargetTypeEmail**, Address must be specified or an error occurs.|
@@ -35,7 +35,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 |PageID|Optional| **Long**|The page ID of the destination page for the new hyperlink. If RelativePage is  **pbHlinkTargetTypePageID**, PageID must be specified or an error occurs. The page ID corresponds to the  **[PageID](Publisher.Hyperlink.PageID.md)** property of the destination page.|
 |TextToDisplay|Optional| **String**|The display text of the new hyperlink. If specified,  **TextToDisplay** replaces the text range specified by the **Text** argument.|
 
-### Return Value
+### Return value
 
 Hyperlink
 

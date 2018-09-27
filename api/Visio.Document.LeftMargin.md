@@ -27,11 +27,11 @@ Specifies the left margin, which is used when printing. Read/write.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Optional| **Variant**|The units to use when retrieving or setting the margin value. Defaults to internal drawing units.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -14,7 +14,7 @@ Specifies a type of mail merge document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCatalog**|3|Catalog.|
 | **wdDirectory**|3|Directory.|

@@ -27,11 +27,11 @@ Returns a border in a range or selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBorderType**|The border to be returned.|
 
-### Return Value
+### Return value
 
 Border
 

@@ -27,7 +27,7 @@ Displays the  **Check Phone Number** dialog box for a specified telephone number
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PhoneNumber_|Required| **[OlContactPhoneNumber](Outlook.OlContactPhoneNumber.md)**|The type of telephone number to be checked.|
 

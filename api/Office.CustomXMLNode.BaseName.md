@@ -23,7 +23,7 @@ Gets the base name of the node without the namespace prefix, if one exists, in t
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

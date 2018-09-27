@@ -27,7 +27,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents a range th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowOffset_|Optional| **Variant**|The number of rows (positive, negative, or 0 (zero)) by which the range is to be offset. Positive values are offset downward, and negative values are offset upward. The default value is 0.|
 | _ColumnOffset_|Optional| **Variant**|The number of columns (positive, negative, or 0 (zero)) by which the range is to be offset. Positive values are offset to the right, and negative values are offset to the left. The default value is 0.|

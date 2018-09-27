@@ -27,7 +27,7 @@ Scales all cell heights and widths, font sizes, and internal margins in the tabl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _scale_|Required|**Single**|The proportion to scale the table, between 0.01 and 100. For example, a scale value of 1 keeps the table layout unchanged; a value of 2 makes it twice as large; a value of 0.5 makes it half the size.|
 

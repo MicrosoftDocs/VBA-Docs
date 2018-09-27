@@ -17,7 +17,7 @@ Indicates the format used to display text Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatTextText**|1|Display values as text.|
 

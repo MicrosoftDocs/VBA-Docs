@@ -14,7 +14,7 @@ Contains constants that specify which fields to copy from.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCopyBaseline**|1|Baseline start and baseline finish dates.|
 |**pjCopyBaseline1**|12|Baseline1 start and Baseline1 finish dates.|

@@ -1,5 +1,5 @@
 ---
-title: MacroError.Number Property (Access)
+title: MacroError.Number property (Access)
 keywords: vbaac10.chm14050
 f1_keywords:
 - vbaac10.chm14050
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# MacroError.Number Property (Access)
+# MacroError.Number property (Access)
 
 Gets the current error number. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `Number`
+_expression_. `Number`
 
- _expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
 
 
 ## Remarks

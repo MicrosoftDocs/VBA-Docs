@@ -14,7 +14,7 @@ Contains constants that specify the login type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjProjectServerLogin**|2|Project Server.|
 |**pjWindowsLogin**|1|Windows.|

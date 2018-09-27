@@ -27,7 +27,7 @@ Returns a  **WdContinue** constant (**wdContinueDisabled** , **wdResetList** , o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **[ListTemplate](Word.ListTemplate.md)**|A list template that's been applied to previous paragraphs in the document.|
 

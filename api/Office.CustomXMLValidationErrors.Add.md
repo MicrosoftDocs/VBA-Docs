@@ -27,7 +27,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Node_|Required|**CustomXMLNode**|Represents the node where the error occurred.|
 | _ErrorName_|Required|**String**|Contains the name of the error.|

@@ -27,7 +27,7 @@ Formats the text of calendar views for printing, where the text color can be a h
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the calendar to edit.|
 | _Item_|Optional|**Long**|The text item to format. Can be one of the  **[PjPageSetupCalendarItem](Project.PjPageSetupCalendarItem.md)** constants.|
@@ -38,7 +38,7 @@ Formats the text of calendar views for printing, where the text color can be a h
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _Color_|Optional|**Long**|The color of the text. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &;H01FFFF is yellow.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

@@ -27,7 +27,7 @@ Applies the specified business information set, which consists of a logo image a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|Name of the business information set to be applied.|
 

@@ -27,11 +27,11 @@ Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Required| **Double**|Represents the position in which to apply the  **ColorStop** .|
 
-### Return Value
+### Return value
 
 ColorStop
 

@@ -12,7 +12,7 @@ Export intent constants passed to the  **[Document.ExportAsFixedFormat](Visio.Do
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visDocExIntentPrint**|1|Intent is to publish online and to print.|
 | **visDocExIntentScreen**|0|Intent is to publish online.|

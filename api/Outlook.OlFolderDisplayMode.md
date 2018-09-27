@@ -17,7 +17,7 @@ Specifies the folder display mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFolderDisplayFolderOnly**|1|Only the contents of the selected folder are displayed.|
 | **olFolderDisplayNoNavigation**|2|Folder contents are displayed but no navigation pane is shown.|

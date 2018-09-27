@@ -27,7 +27,7 @@ Indents one or more paragraphs by a specified number of characters.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Count_|Required| **Integer**|The number of characters by which the specified paragraphs are to be indented.|
 

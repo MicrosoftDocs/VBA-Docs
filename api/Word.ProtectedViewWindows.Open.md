@@ -27,7 +27,7 @@ Opens the specified document in a new protected view window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **Variant**|The name of the document (paths are accepted).|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the File menu.|
@@ -35,7 +35,7 @@ Opens the specified document in a new protected view window.
 | _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True** .|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
 
-### Return Value
+### Return value
 
 ProtectedViewWindow
 

@@ -1,5 +1,5 @@
 ---
-title: OptionButton.BeforeUpdate Property (Access)
+title: OptionButton.BeforeUpdate property (Access)
 keywords: vbaac10.chm10608
 f1_keywords:
 - vbaac10.chm10608
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.BeforeUpdate Property (Access)
+# OptionButton.BeforeUpdate property (Access)
 
 Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `BeforeUpdate`
+_expression_. `BeforeUpdate`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

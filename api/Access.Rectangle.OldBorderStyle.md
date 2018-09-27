@@ -1,5 +1,5 @@
 ---
-title: Rectangle.OldBorderStyle Property (Access)
+title: Rectangle.OldBorderStyle property (Access)
 keywords: vbaac10.chm10291
 f1_keywords:
 - vbaac10.chm10291
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.OldBorderStyle Property (Access)
+# Rectangle.OldBorderStyle property (Access)
 
 You can use this property to set or returns the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `OldBorderStyle`
+_expression_. `OldBorderStyle`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

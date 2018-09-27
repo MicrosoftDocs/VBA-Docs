@@ -27,12 +27,12 @@ Determines whether a ShapeSheet section exists for a particular shape. Read-only
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return Value
+### Return value
 
 Integer
 

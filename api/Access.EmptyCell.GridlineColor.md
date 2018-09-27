@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.GridlineColor Property (Access)
+title: EmptyCell.GridlineColor property (Access)
 keywords: vbaac10.chm14339
 f1_keywords:
 - vbaac10.chm14339
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.GridlineColor Property (Access)
+# EmptyCell.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

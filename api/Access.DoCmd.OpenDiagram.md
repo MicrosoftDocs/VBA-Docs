@@ -1,5 +1,5 @@
 ---
-title: DoCmd.OpenDiagram Method (Access)
+title: DoCmd.OpenDiagram method (Access)
 keywords: vbaac10.chm4650
 f1_keywords:
 - vbaac10.chm4650
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.OpenDiagram Method (Access)
+# DoCmd.OpenDiagram method (Access)
 
 The  **OpenDiagram** method carries out the OpenDiagram action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. `OpenDiagram`( ` _DiagramName_` )
+_expression_. `OpenDiagram`( ` _DiagramName_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DiagramName_|Required|**Variant**|A string expression that's the valid name of a database diagram in the current database. If you execute Visual Basic code containing the  **OpenDiagram** method in a library database, Microsoft Access looks for the database diagram with this name first in the library database, then in the current database.|
 

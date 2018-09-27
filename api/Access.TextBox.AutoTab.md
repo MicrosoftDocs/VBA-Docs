@@ -1,5 +1,5 @@
 ---
-title: TextBox.AutoTab Property (Access)
+title: TextBox.AutoTab property (Access)
 keywords: vbaac10.chm11063,vbaac10.chm4278
 f1_keywords:
 - vbaac10.chm11063,vbaac10.chm4278
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.AutoTab Property (Access)
+# TextBox.AutoTab property (Access)
 
 You can use the  **AutoTab** property to specify whether an automatic tab occurs when the last character permitted by a text box control's input mask is entered. An automatic tab moves the focus to the next control in the form's tab order. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `AutoTab`
+_expression_. `AutoTab`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

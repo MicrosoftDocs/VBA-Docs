@@ -17,7 +17,7 @@ Specifies constants that identify the various modes in which to display the cust
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visRXModeNone**|0|Display the custom user interface (UI) when no document is active.|
 | **visRXModeDrawing**|1|Display the custom UI in Drawing mode.|

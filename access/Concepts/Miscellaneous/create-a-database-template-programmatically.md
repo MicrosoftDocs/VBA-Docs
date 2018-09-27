@@ -22,7 +22,7 @@ The following table describes the arguments of the **SaveAsTemplate** method.
 
 <br/>
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TemplateLocation_|Required|**String**|The full path and file name of the database template to create.For the template to appear on the **Getting Started with Microsoft Office Access** page, it must be saved to **Microsoft\Templates** subfolder of the user's Application Data folder.<br/><br/>In Windows XP, the default location of the Application Data folder is **C:\Documents and Settings\ _User Name_ \Application Data**, where _User Name_ is the name of the user who is currently logged on.<br/><br/>In Windows Vista, the default location of the Application Data folder is **C:\Users\ _User Name_ \AppData\Roaming**, where _User Name_ is the name of the user who is currently logged on. You can use the **Environ** function to determine the current location of the user's Application Data folder. The following code illustrates how to do this. `strTemplateLocation = Environ("AppData") &; "\Microsoft\Templates\"`|
 | _TemplateName_|Optional|**String**|The name of the database that is created when the user opens the template.|

@@ -24,7 +24,7 @@ Sets a help topic as the default topic that will be displayed when the user open
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpId_|Required|**String**|The ID of the default help topic.|
 

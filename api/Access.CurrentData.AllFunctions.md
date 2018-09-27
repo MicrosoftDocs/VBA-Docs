@@ -1,5 +1,5 @@
 ---
-title: CurrentData.AllFunctions Property (Access)
+title: CurrentData.AllFunctions property (Access)
 keywords: vbaac10.chm12737
 f1_keywords:
 - vbaac10.chm12737
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData.AllFunctions Property (Access)
+# CurrentData.AllFunctions property (Access)
 
 You can use the  **AllFunctions** property to reference the **[AllFunctions](Access.AllFunctions.md)** collection and its related properties. Read-only **AllFunctions** object.
 
 
 ## Syntax
 
- _expression_. `AllFunctions`
+_expression_. `AllFunctions`
 
- _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

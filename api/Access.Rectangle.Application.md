@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Application Property (Access)
+title: Rectangle.Application property (Access)
 keywords: vbaac10.chm10274
 f1_keywords:
 - vbaac10.chm10274
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Application Property (Access)
+# Rectangle.Application property (Access)
 
 You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
+_expression_ A variable that represents a [Rectangle](Access.Rectangle.md) object.
 
 
 ## Remarks

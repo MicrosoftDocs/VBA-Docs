@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Section.OnPrint Property (Access)](http://msdn.microsoft.com/library/f8df36f2-697b-7a1d-6343-76d2a2a7b0cf%28Office.15%29.aspx)
+[Section.OnPrint property (Access)](http://msdn.microsoft.com/library/f8df36f2-697b-7a1d-6343-76d2a2a7b0cf%28Office.15%29.aspx)
 

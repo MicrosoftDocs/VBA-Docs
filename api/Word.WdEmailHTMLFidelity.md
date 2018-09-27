@@ -14,7 +14,7 @@ Specifies whether to leave or remove HTML tags not required for display.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdEmailHTMLFidelityHigh**|3|Leaves HTML intact.|
 | **wdEmailHTMLFidelityLow**|1|Removes all HTML tags that do not affect how a message displays.|

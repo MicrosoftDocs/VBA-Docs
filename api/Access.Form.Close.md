@@ -1,5 +1,5 @@
 ---
-title: Form.Close Event (Access)
+title: Form.Close event (Access)
 keywords: vbaac10.chm13645
 f1_keywords:
 - vbaac10.chm13645
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.Close Event (Access)
+# Form.Close event (Access)
 
 The  **Close** event occurs when a form is closed and removed from the screen.
 
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Return Value
+### Return value
 
 nothing
 

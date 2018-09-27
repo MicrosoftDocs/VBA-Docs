@@ -1,5 +1,5 @@
 ---
-title: AcSendObjectType Enumeration (Access)
+title: AcSendObjectType enumeration (Access)
 keywords: vbaac10.chm10014
 f1_keywords:
 - vbaac10.chm10014
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcSendObjectType Enumeration (Access)
+# AcSendObjectType enumeration (Access)
 
-Used with the [DoCmd.SendObject Method (Access)](Access.DoCmd.SendObject.md) method to specify the type of object to send.
+Used with the [DoCmd.SendObject method (Access)](Access.DoCmd.SendObject.md) method to specify the type of object to send.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSendForm**|2|Send a Form.|
 |**acSendModule**|5|Send a Module.|

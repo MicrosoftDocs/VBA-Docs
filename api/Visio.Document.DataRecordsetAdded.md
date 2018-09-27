@@ -30,7 +30,7 @@ Private Sub  _expression_ _'DataRecordsetAdded'(**_ByVal DataRecordset As [IVDAT
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataRecordset_|Required| **[IVDATARECORDSET]**|The data recordset that was added.|
 

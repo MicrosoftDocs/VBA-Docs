@@ -27,13 +27,13 @@ Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the Web navigation bar to be added. This parameter must be unique.|
 |Design|Optional| **PbWizardNavBarDesign**|Specifies the navigation bar design scheme.|
 |AutoUpdate|Optional| **Boolean**| **True** if all pages with the **AddHyperlinkToWebNavBar** property set to **True**are added as links to the navigation bar and the navigation bar is kept updated.|
 
-### Return Value
+### Return value
 
 WebNavigationBarSet
 

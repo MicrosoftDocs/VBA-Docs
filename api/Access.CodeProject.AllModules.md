@@ -1,5 +1,5 @@
 ---
-title: CodeProject.AllModules Property (Access)
+title: CodeProject.AllModules property (Access)
 keywords: vbaac10.chm12710
 f1_keywords:
 - vbaac10.chm12710
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.AllModules Property (Access)
+# CodeProject.AllModules property (Access)
 
 You can use the  **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
 
 
 ## Syntax
 
- _expression_. `AllModules`
+_expression_. `AllModules`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## See also

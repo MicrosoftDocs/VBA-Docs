@@ -14,7 +14,7 @@ Specifies how the specified animation advances.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAdvanceModeMixed**|-2|Mixed mode.|
 |**ppAdvanceOnClick**|1|Only when clicked.|

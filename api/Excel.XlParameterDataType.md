@@ -14,7 +14,7 @@ Specifies the data type of a query parameter.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlParamTypeBigInt**|-5|Big integer.|
 | **xlParamTypeBinary**|-2|Binary.|

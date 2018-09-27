@@ -1,5 +1,5 @@
 ---
-title: AcExportXMLObjectType Enumeration (Access)
+title: AcExportXMLObjectType enumeration (Access)
 keywords: vbaac10.chm13239
 f1_keywords:
 - vbaac10.chm13239
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcExportXMLObjectType Enumeration (Access)
+# AcExportXMLObjectType enumeration (Access)
 
 Use with the  **ExportXML** method to specify the type of object to export.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExportForm**|2|Form|
 |**acExportFunction**|10|User-defined function (Microsoft Access project only)|

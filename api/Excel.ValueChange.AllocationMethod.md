@@ -23,7 +23,7 @@ Returns what method to use to allocate this value when performing what-if analys
  _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
-### Return Value
+### Return value
 
  **[XlAllocationMethod](Excel.XlAllocationMethod.md)**
 

@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Form.BeforeScreenTip Property (Access)](http://msdn.microsoft.com/library/4829b972-de4e-f8dc-f19c-c6a52c7dd14b%28Office.15%29.aspx)
+[Form.BeforeScreenTip property (Access)](http://msdn.microsoft.com/library/4829b972-de4e-f8dc-f19c-c6a52c7dd14b%28Office.15%29.aspx)
 

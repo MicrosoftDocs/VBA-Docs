@@ -1,5 +1,5 @@
 ---
-title: SubForm.GridlineStyleBottom Property (Access)
+title: SubForm.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11973
 f1_keywords:
 - vbaac10.chm11973
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# SubForm.GridlineStyleBottom Property (Access)
+# SubForm.GridlineStyleBottom property (Access)
 
 Gets or sets the bottom gridline style of the specified subform. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleBottom`
+_expression_. `GridlineStyleBottom`
 
- _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 
 ## Remarks

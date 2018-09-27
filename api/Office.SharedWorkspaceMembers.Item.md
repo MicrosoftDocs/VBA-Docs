@@ -30,7 +30,7 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Returns the  **SharedWorkspaceMember** at the position specified. The returned **SharedWorkspaceMember** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
 

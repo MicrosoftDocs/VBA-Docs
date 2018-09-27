@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.BorderStyle Property (Access)
+title: BoundObjectFrame.BorderStyle property (Access)
 keywords: vbaac10.chm10934
 f1_keywords:
 - vbaac10.chm10934
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.BorderStyle Property (Access)
+# BoundObjectFrame.BorderStyle property (Access)
 
 Specifies how a control's border appears.Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `BorderStyle`
+_expression_. `BorderStyle`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

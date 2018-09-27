@@ -17,7 +17,7 @@ Represents whether the specified publication is printed as a composite or separa
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbPrintModeCompositeCMYK**|3|Print a composite whose colors are defined by the CMYK color model.|
 | **pbPrintModeCompositeGrayscale**|4|Print a composite whose colors are defined as shades of gray.|

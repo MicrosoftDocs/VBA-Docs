@@ -23,7 +23,7 @@ Returns or sets the Internet address (URL) to the target document. Read/write.
  _expression_ A variable that represents an [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

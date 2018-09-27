@@ -23,7 +23,7 @@ Specifies the color of the current color scheme. Read/write.
  _expression_ A variable that represents a  **ColorFormat** object.
 
 
-### Return Value
+### Return value
 
 PbSchemeColorIndex
 

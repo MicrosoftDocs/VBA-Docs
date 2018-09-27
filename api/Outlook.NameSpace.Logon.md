@@ -27,7 +27,7 @@ Logs the user on to MAPI, obtaining a MAPI session.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Profile_|Optional| **Variant**|The MAPI profile name, as a  **String** , to use for the session. Specify an empty string to use the default profile for the current session.|
 | _Password_|Optional| **Variant**|The password (if any), as a  **String** , associated with the profile. This parameter exists only for backwards compatibility and for security reasons, it is not recommended for use. Microsoft Oultook will prompt the user to specify a password in most system configurations. This is your logon password and should not be confused with PST passwords.|

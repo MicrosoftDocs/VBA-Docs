@@ -27,7 +27,7 @@ Creates a new label document using either the default label options or ones that
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The mailing label name.|
 | _Address_|Optional| **Variant**|The text for the mailing label.|
@@ -37,7 +37,7 @@ Creates a new label document using either the default label options or ones that
 | _PrintEPostageLabel_|Optional| **Variant**| **True** to print postage using an Internet e-postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** formats text vertically on the label. Used for Asian-language mailing labels.|
 
-### Return Value
+### Return value
 
 Document
 

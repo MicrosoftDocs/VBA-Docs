@@ -23,7 +23,7 @@ Determines the degree of the angle that is drawn when isometric angle lines is c
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return Value
+### Return value
 
 Double()
 

@@ -23,7 +23,7 @@ Converts an equation from the lower limit to the upper limit. .
  _expression_ An expression that returns a [OMathLimLow](./Word.OMathLimLow.md) object.
 
 
-### Return Value
+### Return value
 
 OMathFunction
 

@@ -14,7 +14,7 @@ Contains constants that specify a resource or task field in Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjImportResource**|205521651|Represents the Import (Resource) field. |
 |**pjResourceAccrueAt**|205520915|Represents the Accrue At (Resource) field. |

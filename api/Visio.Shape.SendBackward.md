@@ -23,7 +23,7 @@ Moves a shape or selected shapes back one position in the z-order.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 

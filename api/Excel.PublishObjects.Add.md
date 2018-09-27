@@ -27,7 +27,7 @@ Creates an object that represents an item in a document saved to a Web page. Suc
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SourceType_|Required| **[XlSourceType](Excel.XlSourceType.md)**|The source type.|
 | _Filename_|Optional| **Variant**| **String** . The URL (on the intranet or the Web) or path (local or network) to which the source object was saved.|
@@ -37,7 +37,7 @@ Creates an object that represents an item in a document saved to a Web page. Suc
 | _DivID_|Optional| **Variant**|The unique identifier used in the HTML DIV tag to identify the item on the Web page.|
 | _Title_|Optional| **Variant**|The title of the Web page.|
 
-### Return Value
+### Return value
 
 A  **[PublishObject](Excel.PublishObject.md)** object that represents the new item.
 

@@ -14,7 +14,7 @@ Specifies the filter criterion.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFilterAboveAverage**|33|Filter all above-average values.|
 | **xlFilterAllDatesInPeriodApril**|24|Filter all dates in April.|

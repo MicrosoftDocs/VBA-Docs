@@ -14,7 +14,7 @@ Specifies constants that define the styles of the groups on the  **File** tab.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**BackstageGroupStyleError**|2|Error style.|
 |**BackstageGroupStyleNormal**|0|Normal style.|

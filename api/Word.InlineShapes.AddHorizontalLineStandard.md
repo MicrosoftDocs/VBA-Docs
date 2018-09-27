@@ -27,7 +27,7 @@ Adds a horizontal line to the current document.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Variant**|The range above which Microsoft Word places the horizontal line. If this argument is omitted, Word places the horizontal line above the current selection.|
 

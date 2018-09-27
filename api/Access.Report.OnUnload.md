@@ -1,5 +1,5 @@
 ---
-title: Report.OnUnload Property (Access)
+title: Report.OnUnload property (Access)
 keywords: vbaac10.chm13858
 f1_keywords:
 - vbaac10.chm13858
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.OnUnload Property (Access)
+# Report.OnUnload property (Access)
 
 Sets or returns the value of the  **On Unload** box in the **Properties** window of a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `OnUnload`
+_expression_. `OnUnload`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ The  **Unload** event occurs after a report is closed but before it's removed fr
 The  **OnUnload** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Unload** box in the report's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

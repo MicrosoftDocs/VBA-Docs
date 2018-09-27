@@ -23,7 +23,7 @@ Displays a workflow task edit user interface for the specified  **WorkflowTask**
  _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
 
 
-### Return Value
+### Return value
 
 Integer
 

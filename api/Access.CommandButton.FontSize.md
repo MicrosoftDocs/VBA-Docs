@@ -1,5 +1,5 @@
 ---
-title: CommandButton.FontSize Property (Access)
+title: CommandButton.FontSize property (Access)
 keywords: vbaac10.chm10473
 f1_keywords:
 - vbaac10.chm10473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.FontSize Property (Access)
+# CommandButton.FontSize property (Access)
 
 You can use the  **FontSize** property to specify the point size for text in the following situations:
 
@@ -26,9 +26,9 @@ Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

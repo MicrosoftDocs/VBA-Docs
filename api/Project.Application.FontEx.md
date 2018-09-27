@@ -27,7 +27,7 @@ Sets the font for the text in the active cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points.|
@@ -39,7 +39,7 @@ Sets the font for the text in the active cells.
 | _CellColor_|Optional|**Variant**|The color of the cell. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 | _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

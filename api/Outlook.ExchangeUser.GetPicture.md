@@ -23,7 +23,7 @@ Obtains an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85
  _expression_ A variable that represents an '[ExchangeUser](Outlook.ExchangeUser.md)' object.
 
 
-### Return Value
+### Return value
 
 An  **IPictureDisp** object that represents the picture of the Exchange user that is displayed in Outlook.
 

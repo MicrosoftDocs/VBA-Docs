@@ -23,7 +23,7 @@ Returns or sets the depth of the shape's extrusion. Read/write.
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

@@ -27,7 +27,7 @@ Gets a  **WebPageFont** object from the **WebPageFonts** collection for a partic
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**MsoCharacterSet**|The specified character set.|
 

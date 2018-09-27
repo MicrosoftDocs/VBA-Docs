@@ -17,7 +17,7 @@ Specifies which container member shape IDs to return; constants passed to the  *
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerFlagsDefault**|0|Returns all shape types and includes items in nested containers.|
 | **visContainerFlagsExcludeContainers**|1|Excludes member shapes that are containers.|

@@ -14,7 +14,7 @@ Constants that specify the type of view, passed to and returned by the  **Docume
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppViewHandoutMaster**|4|Handout Master|
 |**ppViewMasterThumbnails**|12|Master Thumbnails|

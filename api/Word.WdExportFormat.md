@@ -14,7 +14,7 @@ Specifies format to use for exporting a document.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdExportFormatPDF**|17|Export document into PDF format.|
 | **wdExportFormatXPS**|18|Export document into XML Paper Specification (XPS) format.|

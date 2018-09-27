@@ -27,11 +27,11 @@ Activates the specified built-in tab.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**|Specifies the Id of the custom Ribbon tab to be activated.|
 
-### Return Value
+### Return value
 
 Nothing
 

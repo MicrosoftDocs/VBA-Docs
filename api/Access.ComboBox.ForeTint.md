@@ -1,5 +1,5 @@
 ---
-title: ComboBox.ForeTint Property (Access)
+title: ComboBox.ForeTint property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.ForeTint Property (Access)
+# ComboBox.ForeTint property (Access)
 
 Gets or sets the tint that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `ForeTint`
+_expression_. `ForeTint`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

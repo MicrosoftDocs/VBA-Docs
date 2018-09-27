@@ -27,11 +27,11 @@ Locates and returns a Microsoft Outlook item object that satisfies the given  _F
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|A string that specifies the criteria that the returned object must satisfy.|
 
-### Return Value
+### Return value
 
 An  **Object** value that represents an Outlook item if the call succeeds; returns **Null** (or **Nothing** in Visual Basic) if it fails.
 

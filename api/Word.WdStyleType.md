@@ -14,7 +14,7 @@ Specifies the style type to apply.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStyleTypeCharacter**|2|Body character style.|
 | **wdStyleTypeList**|4|List style.|

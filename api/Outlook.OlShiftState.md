@@ -17,7 +17,7 @@ Represents a bitmask to indicate which modifier key is pressed during a keyboard
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olShiftStateShiftMask**|1|Indicates that the SHIFT key is pressed during the event.|
 | **olShiftStateCtrlMask**|2|Indicates that the CTRL key is pressed during the event.|

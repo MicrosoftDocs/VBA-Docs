@@ -1,5 +1,5 @@
 ---
-title: CommandButton Object (Access)
+title: CommandButton object (Access)
 keywords: vbaac10.chm10554
 f1_keywords:
 - vbaac10.chm10554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton Object (Access)
+# CommandButton object (Access)
 
 This object corresponds to a command button. A command button on a form can start an action or a set of actions. For example, you could create a command button that opens another form. To make a command button do something, you write a macro or event procedure and attach it to the button's  **OnClick** property.
 

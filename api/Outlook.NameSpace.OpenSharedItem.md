@@ -27,11 +27,11 @@ Opens a shared item from a specified path or URL.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path or URL of the shared item to be opened.|
 
-### Return Value
+### Return value
 
 An  **Object** representing the appropriate Outlook item for the shared item.
 

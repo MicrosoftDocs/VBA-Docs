@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.Width Property (Access)
+title: BoundObjectFrame.Width property (Access)
 keywords: vbaac10.chm10929
 f1_keywords:
 - vbaac10.chm10929
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.Width Property (Access)
+# BoundObjectFrame.Width property (Access)
 
 Gets or sets the width of the specified object in twips. Read/write  **Integer**.
 
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

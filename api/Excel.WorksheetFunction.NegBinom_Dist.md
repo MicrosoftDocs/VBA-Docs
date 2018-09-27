@@ -27,14 +27,14 @@ Returns the negative binomial distribution. NEGBINOM_DIST returns the probabilit
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number_f - the number of failures.|
 | _Arg2_|Required| **Double**|Number_s - the threshold number of successes.|
 | _Arg3_|Required| **Double**|Probability_s - the probability of a success.|
 | _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NEGBINOM_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return Value
+### Return value
 
 Double
 

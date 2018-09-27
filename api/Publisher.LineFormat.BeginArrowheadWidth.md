@@ -23,7 +23,7 @@ Returns or sets an  **MsoArrowheadWidth**constant indicating the width of the ar
  _expression_ A variable that represents a  **LineFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoArrowheadWidth
 

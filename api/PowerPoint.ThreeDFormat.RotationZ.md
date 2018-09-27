@@ -23,7 +23,7 @@ Returns or sets the rotation of the effects camera for the specified  **ThreeDFo
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

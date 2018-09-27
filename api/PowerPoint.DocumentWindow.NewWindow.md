@@ -23,7 +23,7 @@ Opens a new window that contains the same document that is displayed in the spec
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Return Value
+### Return value
 
 DocumentWindow
 

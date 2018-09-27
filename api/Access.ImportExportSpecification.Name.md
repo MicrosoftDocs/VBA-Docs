@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecification.Name Property (Access)
+title: ImportExportSpecification.Name property (Access)
 keywords: vbaac10.chm13330
 f1_keywords:
 - vbaac10.chm13330
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecification.Name Property (Access)
+# ImportExportSpecification.Name property (Access)
 
 Gets or sets the name of the specified  **[ImportExportSpecification](Access.ImportExportSpecification.md)** object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
+_expression_ A variable that represents an [ImportExportSpecification](Access.ImportExportSpecification.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TabControl.Gradient Property (Access)
+title: TabControl.Gradient property (Access)
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Gradient Property (Access)
+# TabControl.Gradient property (Access)
 
 Gets or sets the gradient fill applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Gradient`
+_expression_. `Gradient`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

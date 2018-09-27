@@ -1,5 +1,5 @@
 ---
-title: Form.ViewChange Property (Access)
+title: Form.ViewChange property (Access)
 keywords: vbaac10.chm13553,vbaac10.chm5118
 f1_keywords:
 - vbaac10.chm13553,vbaac10.chm5118
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Form.ViewChange Property (Access)
+# Form.ViewChange property (Access)
 
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[ViewChange](Access.Form.ViewChange(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
- _expression_. `ViewChange`
+_expression_. `ViewChange`
 
- _expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks

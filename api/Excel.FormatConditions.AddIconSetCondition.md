@@ -23,7 +23,7 @@ Returns a new  **[IconSetCondition](Excel.IconSetCondition.md)** object which re
  _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
-### Return Value
+### Return value
 
  **IconSetCondition** object
 

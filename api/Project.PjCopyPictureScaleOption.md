@@ -14,7 +14,7 @@ Contains constants that specify how to treat a picture of the active view if it 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCopyPictureKeepRange**|1|Maintains the selection, regardless of size. If the picture exceeds the amount of available memory, it is cropped to the maximum available size.|
 |**pjCopyPictureScale**|2|Scales the picture to  **MaxImageWidth** by **MaxImageHeight MeasurementUnits** without maintaining the aspect ratio.|

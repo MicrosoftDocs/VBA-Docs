@@ -27,7 +27,7 @@ Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder]
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FolderToShare_|Required| **Folder**|The  **Folder** object to be shared.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the dialog box is not displayed.|

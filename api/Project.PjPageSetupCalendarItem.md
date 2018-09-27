@@ -14,7 +14,7 @@ Contains constants that specify the calendar item to format.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjAdditionalTasks**|3|Additional tasks.|
 |**pjAllCalendarItems**|0|All calendar items.|

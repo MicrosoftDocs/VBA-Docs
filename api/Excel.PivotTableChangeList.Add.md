@@ -27,7 +27,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Tuple_|Required| **String**|The MDX tuple of the value to change in the OLAP data source.|
 | _Value_|Required| **Double**|The value to commit.|
@@ -35,7 +35,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
 | _AllocationMethod_|Optional| **Variant**|The method to use to allocate this value when performing what-if analysis. If this parameter is not supplied, the default allocation method of the OLAP server will be used.|
 | _AllocationWeightExpression_|Optional| **Variant**|The MDX weight expression to use for this value when performing what-if analysis. If this parameter is not supplied, the default allocation weight expression of the OLAP server will be used.|
 
-### Return Value
+### Return value
 
 ValueChange
 

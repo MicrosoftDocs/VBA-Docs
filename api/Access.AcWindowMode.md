@@ -1,5 +1,5 @@
 ---
-title: AcWindowMode Enumeration (Access)
+title: AcWindowMode enumeration (Access)
 keywords: vbaac10.chm10030
 f1_keywords:
 - vbaac10.chm10030
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcWindowMode Enumeration (Access)
+# AcWindowMode enumeration (Access)
 
 Specifies the mode in which a form or report is opened.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDialog**|3|The form or report's  **Modal** and **PopUp** properties are set to **Yes**.|
 |**acHidden**|1|The form or report is hidden.|

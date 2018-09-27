@@ -24,7 +24,7 @@ Occurs before the user changes the value of an assignment field.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _asg_|Required|**Assignment**|The assignment whose field is being changed.|
 | _Field_|Required|**PjAssignmentField**| The field being changed. If more than one field is changed by the user, the event is triggered for each field changed. Can be one of the following **[PjAssignmentField](Project.PjAssignmentField.md)** constants.|

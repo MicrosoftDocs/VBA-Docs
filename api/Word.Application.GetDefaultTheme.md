@@ -27,7 +27,7 @@ Returns a  **String** that represents the name of the default theme plus the the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DocumentType_|Required| **WdDocumentMedium**|The type of new document for which you want to retrieve the default theme name.|
 

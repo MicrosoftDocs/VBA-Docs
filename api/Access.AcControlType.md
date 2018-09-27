@@ -1,5 +1,5 @@
 ---
-title: AcControlType Enumeration (Access)
+title: AcControlType enumeration (Access)
 keywords: vbaac10.chm10011
 f1_keywords:
 - vbaac10.chm10011
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcControlType Enumeration (Access)
+# AcControlType enumeration (Access)
 
 Specifies the type of control created by the  **CreateControl** and **CreateReportControl** methods.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAttachment**|126|Attachment control.|
 |**acBoundObjectFrame**|108|Bound Object Frame control.|

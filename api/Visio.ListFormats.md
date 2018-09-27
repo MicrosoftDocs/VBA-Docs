@@ -20,7 +20,7 @@ Displays a message box in the user interface that lists the output format types 
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Nothing**
 

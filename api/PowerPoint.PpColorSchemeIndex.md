@@ -14,7 +14,7 @@ Specifies the color in the applied color scheme that is associated with the spec
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppAccent1**|6|Accent1|
 |**ppAccent2**|7|Accent2|

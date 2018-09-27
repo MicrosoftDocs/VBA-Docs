@@ -27,7 +27,7 @@ Adds a solution root folder and its subfolders to the  **Solutions** module.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Solution_|Required| **[Folder](Outlook.Folder.md)**|Specifies the solution root folder to add to the  **Solutions** module.|
 | _Scope_|Required| **[OlSolutionScope](Outlook.OlSolutionScope.md)**|Specifies whether to display the folders that are in the solution only in the  **Solutions** module and the **Folder List**, or to display them in their respective default modules in the Navigation Pane as well.|

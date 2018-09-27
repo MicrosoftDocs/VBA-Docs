@@ -23,7 +23,7 @@ Gets the description of an  **IVBUndoUnit** interface. Read-only.
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 
 
-### Return Value
+### Return value
 
 String
 

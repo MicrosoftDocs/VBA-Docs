@@ -14,7 +14,7 @@ Specifies how Microsoft Office Excel 2007 handles CTRL+BREAK (or ESC or COMMAND+
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDisabled**|0|Cancel key trapping is completely disabled.|
 | **xlErrorHandler**|2|The interrupt is sent to the running procedure as an error, trappable by an error handler set up with an On Error GoTo statement. The trappable error code is 18.|

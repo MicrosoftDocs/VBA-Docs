@@ -27,11 +27,11 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing a col
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |ColorIndex|Required| **PbSchemeColorIndex**| The color from the scheme to return based on its function in the scheme.|
 
-### Return Value
+### Return value
 
 ColorFormat
 

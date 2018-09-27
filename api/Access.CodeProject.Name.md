@@ -1,5 +1,5 @@
 ---
-title: CodeProject.Name Property (Access)
+title: CodeProject.Name property (Access)
 keywords: vbaac10.chm12717
 f1_keywords:
 - vbaac10.chm12717
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.Name Property (Access)
+# CodeProject.Name property (Access)
 
 You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_.Name
+_expression_.Name
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

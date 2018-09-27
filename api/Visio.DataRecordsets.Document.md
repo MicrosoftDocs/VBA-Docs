@@ -23,7 +23,7 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
  _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
-### Return Value
+### Return value
 
 Document
 

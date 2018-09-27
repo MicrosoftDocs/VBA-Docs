@@ -17,7 +17,7 @@ Specifies constants that define which pages to publish; passed to the  **[Server
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visPublishPageAll**|0|Publish all pages.|
 | **visPublishPageSelect**|1|Publish selected pages.|

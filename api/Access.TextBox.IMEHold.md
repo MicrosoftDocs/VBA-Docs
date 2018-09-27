@@ -1,5 +1,5 @@
 ---
-title: TextBox.IMEHold Property (Access)
+title: TextBox.IMEHold property (Access)
 keywords: vbaac10.chm11048
 f1_keywords:
 - vbaac10.chm11048
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.IMEHold Property (Access)
+# TextBox.IMEHold property (Access)
 
 [Language-specific information](overview/learn-about-language-specific-information-access.md)You can use the  **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IMEHold`
+_expression_. `IMEHold`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

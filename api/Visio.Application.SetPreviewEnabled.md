@@ -27,12 +27,12 @@ Turns preview on or off for a gallery in the Microsoft Visio user interface.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _GalleryName_|Required| **String**|The name of the gallery for which you want to set the preview status. See Remarks.|
 | _OnOrOff_|Required| **Boolean**| **True** to turn preview on for the specified gallery; **False** to turn preview off.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

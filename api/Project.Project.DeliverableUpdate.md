@@ -24,14 +24,14 @@ Updates the properties of a deliverable.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|GUID of the deliberable to update.|
 | _DeliverableName_|Required|**String**|Name of the deliverable.|
 | _DeliverableStartDate_|Required|**Variant**|Date when the deliverable starts.|
 | _DeliverableFinishDate_|Required|**Variant**|Date when the deliverable is finished.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

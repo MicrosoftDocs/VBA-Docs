@@ -14,7 +14,7 @@ Specifies the 32-bit creator code for Excel for Macintosh (decimal 1480803660, H
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCreatorCode**|1480803660|The Excel for Macintosh creator code.|
 

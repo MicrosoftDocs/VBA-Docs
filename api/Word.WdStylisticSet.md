@@ -14,7 +14,7 @@ Specifies the stylistic set to apply to the font.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdStylisticSet01**|1|First stylistic set for the specified font.|
 | **wdStylisticSet02**|2|Second stylistic set for the specified font.|

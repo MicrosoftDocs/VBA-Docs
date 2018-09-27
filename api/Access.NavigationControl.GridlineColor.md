@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.GridlineColor Property (Access)
+title: NavigationControl.GridlineColor property (Access)
 keywords: vbaac10.chm11164
 f1_keywords:
 - vbaac10.chm11164
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.GridlineColor Property (Access)
+# NavigationControl.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified list box. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

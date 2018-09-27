@@ -14,7 +14,7 @@ Specifies the type of layout row.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCompactRow**|0|Compact Row|
 | **xlOutlineRow**|2|Outline Row|

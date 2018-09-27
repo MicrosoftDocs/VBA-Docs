@@ -1,5 +1,5 @@
 ---
-title: Printers Object (Access)
+title: Printers object (Access)
 keywords: vbaac10.chm12881
 f1_keywords:
 - vbaac10.chm12881
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Printers Object (Access)
+# Printers object (Access)
 
 The  **Printers** collection contains **[Printer](Access.Printer.md)** objects representing all the printers available on the current system.
 

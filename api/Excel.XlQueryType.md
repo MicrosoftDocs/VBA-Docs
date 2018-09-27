@@ -14,7 +14,7 @@ Specifies the type of query used by Microsoft Excel to populate the query table 
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlADORecordset**|7|Based on an ADO recordset query|
 | **xlDAORecordset**|2|Based on a DAO recordset query, for query tables only|

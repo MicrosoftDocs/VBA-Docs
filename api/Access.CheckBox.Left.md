@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Left Property (Access)
+title: CheckBox.Left property (Access)
 keywords: vbaac10.chm10709
 f1_keywords:
 - vbaac10.chm10709
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Left Property (Access)
+# CheckBox.Left property (Access)
 
 You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

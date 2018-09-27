@@ -23,7 +23,7 @@ Returns or sets the value of the first line indent (in East Asian character widt
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return Value
+### Return value
 
 Long
 

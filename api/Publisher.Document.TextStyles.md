@@ -23,7 +23,7 @@ Returns a  **[TextStyles](Publisher.TextStyles.md)** collection that contains a 
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return Value
+### Return value
 
 TextStyles
 

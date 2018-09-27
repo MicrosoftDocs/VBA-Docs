@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[TextBox.FilterLookup Property (Access)](http://msdn.microsoft.com/library/5c568366-94a5-8d7a-1fb4-80b4b3ab6c7f%28Office.15%29.aspx)
+[TextBox.FilterLookup property (Access)](http://msdn.microsoft.com/library/5c568366-94a5-8d7a-1fb4-80b4b3ab6c7f%28Office.15%29.aspx)
 
-[NavigationControl.FilterLookup Property (Access)](http://msdn.microsoft.com/library/c368853c-6a1c-f104-2180-ebc889cf7e6d%28Office.15%29.aspx)
+[NavigationControl.FilterLookup property (Access)](http://msdn.microsoft.com/library/c368853c-6a1c-f104-2180-ebc889cf7e6d%28Office.15%29.aspx)
 
 

@@ -27,12 +27,12 @@ Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the requested property.|
 | _Custom_|Optional| **Variant**| **True** if custom properties on the item should be searched, **False** if built-in properties should be searched.|
 
-### Return Value
+### Return value
 
 If you use  **UserProperties.Find** to look for a custom property and the call succeeds, it will return a **UserProperty** object. If it fails, it will return **Null** (**Nothing** in Visual Basic). If you use **UserProperties.Find** to look for a built-in property, specify **False** for the _Custom_ parameter. If the call succeeds, it will return the property as a **UserProperty** object. If the call fails, it will return **Null** (**Nothing** in Visual Basic). If you specify **True** for _Custom_ , the call will not find the built-in property and will return **Null** (**Nothing** in Visual Basic).
 

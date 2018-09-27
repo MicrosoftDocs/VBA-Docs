@@ -27,7 +27,7 @@ Occurs on the next click of the slide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required|**SlideShowWindow**|The slide show window initialized prior to this event.|
 | _nEffect_|Required|**Effect**|The effect to animate on next click.|

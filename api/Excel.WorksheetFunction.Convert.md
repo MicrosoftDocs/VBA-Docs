@@ -27,13 +27,13 @@ Converts a number from one measurement system to another. For example, Convert c
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|The value in from_units to convert.|
 | _Arg2_|Required| **Variant**|The units for number.|
 | _Arg3_|Required| **Variant**|The units for the result. Convert accepts the following text values (in quotation marks) for from_unit and to_unit which are listed in the Remarks section below.|
 
-### Return Value
+### Return value
 
 Double
 

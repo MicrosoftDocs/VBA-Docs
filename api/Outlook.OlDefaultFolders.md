@@ -17,7 +17,7 @@ Specifies the folder type for a specified folder.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFolderCalendar**|9|The Calendar folder.|
 | **olFolderConflicts**|19|The Conflicts folder (subfolder of the Sync Issues folder). Only available for an Exchange account.|

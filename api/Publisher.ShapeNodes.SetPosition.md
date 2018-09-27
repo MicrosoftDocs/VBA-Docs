@@ -27,7 +27,7 @@ Sets the position of the specified node. Depending on the editing type of the no
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Index|Required| **[INT]**|The node whose position is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
 |X1|Required| **Variant**|The horizontal position of the node relative to the upper-left corner of the page.|

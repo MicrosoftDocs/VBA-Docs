@@ -14,7 +14,7 @@ Specifies the mode for checking the spelling of Spanish.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSpanishTuteoAndVoseo**|1|Tuteo and Voseo verb forms.|
 | **xlSpanishTuteoOnly**|0|Tuteo verb forms only.|

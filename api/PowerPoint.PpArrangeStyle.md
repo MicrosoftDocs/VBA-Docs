@@ -14,7 +14,7 @@ Specifies whether to cascade or tile the windows.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppArrangeCascade**|2|Cascade|
 |**ppArrangeTiled**|1|Tiled|

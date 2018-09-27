@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.GridlineColor Property (Access)
+title: ObjectFrame.GridlineColor property (Access)
 keywords: vbaac10.chm11651
 f1_keywords:
 - vbaac10.chm11651
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.GridlineColor Property (Access)
+# ObjectFrame.GridlineColor property (Access)
 
 Gets or sets the color of the gridline for the specified object frame. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `GridlineColor`
+_expression_. `GridlineColor`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

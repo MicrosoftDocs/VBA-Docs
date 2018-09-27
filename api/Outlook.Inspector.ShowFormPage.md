@@ -27,7 +27,7 @@ Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon f
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageName_|Required| **String**|The display name of the form page, or the internal name of a form region to be shown.|
 

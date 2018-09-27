@@ -23,7 +23,7 @@ Checks out the enterprise global template from Project Server. Available in Proj
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

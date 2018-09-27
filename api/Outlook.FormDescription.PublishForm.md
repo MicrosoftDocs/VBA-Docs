@@ -27,7 +27,7 @@ Saves the definition of the  **[FormDescription](Outlook.FormDescription.md)** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Registry_|Required| **[OlFormRegistry](Outlook.OlFormRegistry.md)**|The form class.|
 | _Folder_|Optional| **Variant**|Expression that returns a  **[Folder](Outlook.Folder.md)** object. Used only with Folder form registry. The folder object from which the forms must be accessed.|

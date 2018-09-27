@@ -1,5 +1,5 @@
 ---
-title: Report.Tag Property (Access)
+title: Report.Tag property (Access)
 keywords: vbaac10.chm13760
 f1_keywords:
 - vbaac10.chm13760
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Tag Property (Access)
+# Report.Tag property (Access)
 
 Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

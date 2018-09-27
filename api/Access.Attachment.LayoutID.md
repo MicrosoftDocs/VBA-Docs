@@ -1,5 +1,5 @@
 ---
-title: Attachment.LayoutID Property (Access)
+title: Attachment.LayoutID property (Access)
 keywords: vbaac10.chm14002
 f1_keywords:
 - vbaac10.chm14002
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.LayoutID Property (Access)
+# Attachment.LayoutID property (Access)
 
 Returns the unique identifier for the layout that contains the specified attachment. Read-only  **Long**.
 
 
 ## Syntax
 
- _expression_. `LayoutID`
+_expression_. `LayoutID`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

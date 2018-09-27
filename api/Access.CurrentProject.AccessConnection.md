@@ -1,5 +1,5 @@
 ---
-title: CurrentProject.AccessConnection Property (Access)
+title: CurrentProject.AccessConnection property (Access)
 keywords: vbaac10.chm12726
 f1_keywords:
 - vbaac10.chm12726
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentProject.AccessConnection Property (Access)
+# CurrentProject.AccessConnection property (Access)
 
 You can use the  **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 
 
 ## Syntax
 
- _expression_. `AccessConnection`
+_expression_. `AccessConnection`
 
- _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
 ## Remarks

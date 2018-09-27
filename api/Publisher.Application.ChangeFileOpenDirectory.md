@@ -27,7 +27,7 @@ Sets the folder in which Microsoft Publisher searches for documents. The specifi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Dir|Required| **String**|The directory path.|
 

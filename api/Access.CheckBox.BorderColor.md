@@ -1,5 +1,5 @@
 ---
-title: CheckBox.BorderColor Property (Access)
+title: CheckBox.BorderColor property (Access)
 keywords: vbaac10.chm10718
 f1_keywords:
 - vbaac10.chm10718
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.BorderColor Property (Access)
+# CheckBox.BorderColor property (Access)
 
 You can use the  **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `BorderColor`
+_expression_. `BorderColor`
 
- _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks

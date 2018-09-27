@@ -27,7 +27,7 @@ Creates, edits, or copies a table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of a table to edit, create, or copy.|
 | _TaskTable_|Required|**Boolean**|**True** if the active table contains information about tasks or resources; otherwise, **False**.|
@@ -48,7 +48,7 @@ Creates, edits, or copies a table.
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

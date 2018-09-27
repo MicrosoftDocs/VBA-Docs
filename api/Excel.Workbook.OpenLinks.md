@@ -27,7 +27,7 @@ Opens the supporting documents for a link or links.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
 | _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False** .|

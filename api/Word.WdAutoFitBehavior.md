@@ -14,7 +14,7 @@ Specifies how Microsoft Word resizes a table when the AutoFit feature is used.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdAutoFitContent**|1|The table is automatically sized to fit the content contained in the table.|
 | **wdAutoFitFixed**|0|The table is set to a fixed size, regardless of the content, and is not automatically sized.|

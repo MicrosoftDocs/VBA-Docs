@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
-### Return Value
+### Return value
 
 Variant
 

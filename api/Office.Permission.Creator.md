@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **Permission*
  _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

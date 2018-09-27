@@ -14,7 +14,7 @@ Specifies how the trendline that smoothes out fluctuations in the data is calcul
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlExponential**|5|Uses an equation to calculate the least squares fit through points, for example, y=ab^x .|
 | **xlLinear**|-4132|Uses the linear equation y = mx + b to calculate the least squares fit through points.|

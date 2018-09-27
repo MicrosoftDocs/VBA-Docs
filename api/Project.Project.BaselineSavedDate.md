@@ -24,7 +24,7 @@ Gets date the specified baseline was last saved. Read-only  **Variant**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Baseline_|Required|**Long**|Can be one of the  **[PjBaselines](Project.PjBaselines.md)** constants.|
 

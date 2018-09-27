@@ -14,7 +14,7 @@ Specifies what should be calculated.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAllValues**|0|All values.|
 | **xlColGroups**|2|Column groups.|

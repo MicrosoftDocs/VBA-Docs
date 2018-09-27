@@ -27,7 +27,7 @@ Closes the specified documents.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following  **[WdSaveOptions](Word.WdSaveOptions.md)** constants: **wdDoNotSaveChanges** , **wdPromptToSaveChanges** , or **wdSaveChanges** .|
 | _OriginalFormat_|Optional| **Variant**|Specifies the save format for the document. Can be one of the following  **[WdOriginalFormat](Word.WdOriginalFormat.md)** constants: **wdOriginalDocumentFormat** , **wdPromptUser** , or **wdWordDocument** .|

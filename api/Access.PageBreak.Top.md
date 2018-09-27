@@ -1,5 +1,5 @@
 ---
-title: PageBreak.Top Property (Access)
+title: PageBreak.Top property (Access)
 keywords: vbaac10.chm11675
 f1_keywords:
 - vbaac10.chm11675
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# PageBreak.Top Property (Access)
+# PageBreak.Top property (Access)
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
+_expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
 
 
 ## Remarks

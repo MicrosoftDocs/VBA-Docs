@@ -27,7 +27,7 @@ Creates, edits, or copies a table that can wrap text and include the  **Add New 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**| The name of a table to edit, create, or copy.|
 | _TaskTable_|Required|**Boolean**|**True** if the active table contains information about tasks or resources; otherwise, **False**.|
@@ -50,7 +50,7 @@ Creates, edits, or copies a table that can wrap text and include the  **Add New 
 | _WrapText_|Optional|**Boolean**|**True** if the table wraps text in the rows; otherwise, **False**.|
 | _ShowAddNewColumn_|Optional|**Boolean**|True if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

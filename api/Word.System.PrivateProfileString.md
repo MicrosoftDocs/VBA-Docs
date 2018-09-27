@@ -27,7 +27,7 @@ Returns or sets a string in a settings file or the Microsoft Windows registry. R
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name for the settings file. If there is no path specified, the Windows folder is assumed.|
 | _Section_|Required| **String**|The name of the section in the settings file that contains Key. In a Windows settings file, the section name appears between brackets before the associated keys (do not include the brackets with Section). If you are returning the value of an entry from the Windows registry, Section should be the complete path to the subkey, including the subtree (for example, "HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word\Options").|

@@ -1,5 +1,5 @@
 ---
-title: ImportExportSpecifications Object (Access)
+title: ImportExportSpecifications object (Access)
 keywords: vbaac10.chm13336
 f1_keywords:
 - vbaac10.chm13336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ImportExportSpecifications Object (Access)
+# ImportExportSpecifications object (Access)
 
 Represents the collection of available [ImportExportSpecification](Access.ImportExportSpecification.md) objects.
 

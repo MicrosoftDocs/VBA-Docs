@@ -14,7 +14,7 @@ Contains constants that specify the scope of assignments to be published.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjPublishScopeAll**|1|All.|
 |**pjPublishScopeDefault**|0|Default.|

@@ -14,7 +14,7 @@ Specifies the node type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCustomXMLNodeAttribute**|2|The node is an attribute.|
 |**msoCustomXMLNodeCData**|4|The node is a CData type.|

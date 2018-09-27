@@ -27,7 +27,7 @@ Prints a label or a page of labels with the same address.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The mailing label name.|
 | _Address_|Optional| **Variant**|The text for the label address.|

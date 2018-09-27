@@ -27,7 +27,7 @@ Formats a paragraph or range of paragraphs with a picture bullet.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the picture file.|
 

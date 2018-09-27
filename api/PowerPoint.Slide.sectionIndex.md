@@ -23,7 +23,7 @@ Returns the index of the selected section in the  **Slide** range. Read-only.
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Return Value
+### Return value
 
 Single
 

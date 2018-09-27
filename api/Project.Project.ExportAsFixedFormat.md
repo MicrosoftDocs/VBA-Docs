@@ -27,7 +27,7 @@ Exports the active project as a document in a custom PDF or XPS format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|Specifies the file name of the exported document. The default value is the name of the active project as a PDF file.|
 | _FileType_|Optional|**PjDocExportType**|Specifies whether to export the project as a PDF or an XPS document. The default value is  **pjPDF** (0).|
@@ -38,7 +38,7 @@ Exports the active project as a document in a custom PDF or XPS format.
 | _ToDate_|Optional|**Variant**|The end date of the range of dates to publish. The default value is the project end date.|
 | _FixedFormatExtClassPtr_|Optional|**Variant**|Pointer to a custom class in an add-in that implements the  **IMsoDocExporter** COM interface that allows calls to an alternate implementation of code for the document format. The default is a null pointer.|
 
-### Return Value
+### Return value
 
  **Nothing**
 

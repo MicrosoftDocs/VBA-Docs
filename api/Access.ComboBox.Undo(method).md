@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Undo Method (Access)
+title: ComboBox.Undo method (Access)
 keywords: vbaac10.chm11358
 f1_keywords:
 - vbaac10.chm11358
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.Undo Method (Access)
+# ComboBox.Undo method (Access)
 
 You can use the  **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
 
- _expression_. `Undo`
+_expression_. `Undo`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ Specifies the document encoding (code page or character set) for the Web browser
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEncodingArabic**|1256|Arabic.|
 |**msoEncodingArabicASMO**|708|Arabic ASMO.|

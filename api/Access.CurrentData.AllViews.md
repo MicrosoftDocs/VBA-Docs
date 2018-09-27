@@ -1,5 +1,5 @@
 ---
-title: CurrentData.AllViews Property (Access)
+title: CurrentData.AllViews property (Access)
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CurrentData.AllViews Property (Access)
+# CurrentData.AllViews property (Access)
 
 You can use the  **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
 
 
 ## Syntax
 
- _expression_. `AllViews`
+_expression_. `AllViews`
 
- _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
 
 
 ## See also

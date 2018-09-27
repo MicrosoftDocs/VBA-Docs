@@ -14,7 +14,7 @@ Specifies shape of WordArt text. You can see a preview of each text effect shape
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffectShapeArchDownCurve**|10|Text is an arch that curves down.|
 |**msoTextEffectShapeArchDownPour**|14|Text is a 3-D arch that curves down.|

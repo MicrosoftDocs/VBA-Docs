@@ -27,7 +27,7 @@ Removes the specified item from the list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value indexing into the array of items in the list.|
 

@@ -27,7 +27,7 @@ Sets font-mapping options.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _UnavailableFont_|Required| **String**|The name of a font not available on your computer that you want to map to a different font for display and printing.|
 | _SubstituteFont_|Required| **String**|The name of a font available on your computer that you want to substitute for the unavailable font.|

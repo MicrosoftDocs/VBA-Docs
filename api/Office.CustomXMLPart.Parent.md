@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CustomXMLPart** object. Read-only.
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

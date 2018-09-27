@@ -27,11 +27,11 @@ Returns the base-10 logarithm of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the positive real number for which you want the base-10 logarithm.|
 
-### Return Value
+### Return value
 
 Double
 

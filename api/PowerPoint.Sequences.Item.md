@@ -27,11 +27,11 @@ Returns a single  **Sequence** object from the specified **Sequences** collectio
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Sequence** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 Sequence
 

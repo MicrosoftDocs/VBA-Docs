@@ -14,7 +14,7 @@ Specifies the type of item to move the insertion point or selection just prior t
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdGoToBookmark**|-1|A bookmark.|
 | **wdGoToComment**|6|A comment.|

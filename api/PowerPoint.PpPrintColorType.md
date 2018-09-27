@@ -14,7 +14,7 @@ Specifies the way the specified document will be printed: in black and white, in
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppPrintBlackAndWhite**|2|Black and White|
 |**ppPrintColor**|1|Colored|

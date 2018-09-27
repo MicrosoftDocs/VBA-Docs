@@ -36,7 +36,7 @@ Displays the engagement information dialog box user interface for the  **Resourc
 | _Work_|Optional|Real|The amount of work requested or approved for the engagement.|
 | _ShowDialog_|Required|Boolean|Default=1; Displayed|
 
-### Return Value
+### Return value
 
  **BOOLEAN**
 

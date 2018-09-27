@@ -17,7 +17,7 @@ Represents the selection type.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbSelectionNone**|0|Selection type none.|
 | **pbSelectionShape**|1|Selection type shape.|

@@ -14,7 +14,7 @@ Specifies the type of edition to be changed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPublisher**|1|Publisher|
 | **xlSubscriber**|2|Subscriber|

@@ -1,5 +1,5 @@
 ---
-title: Image.SizeMode Property (Access)
+title: Image.SizeMode property (Access)
 keywords: vbaac10.chm10369
 f1_keywords:
 - vbaac10.chm10369
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.SizeMode Property (Access)
+# Image.SizeMode property (Access)
 
 You can use the  **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
 
 
 ## Syntax
 
- _expression_. `SizeMode`
+_expression_. `SizeMode`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

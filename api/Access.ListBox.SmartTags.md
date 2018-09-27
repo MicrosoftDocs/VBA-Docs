@@ -1,5 +1,5 @@
 ---
-title: ListBox.SmartTags Property (Access)
+title: ListBox.SmartTags property (Access)
 keywords: vbaac10.chm11303
 f1_keywords:
 - vbaac10.chm11303
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ListBox.SmartTags Property (Access)
+# ListBox.SmartTags property (Access)
 
 Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the collection of smart tags that have been added to a control. .
 
 
 ## Syntax
 
- _expression_. `SmartTags`
+_expression_. `SmartTags`
 
- _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks

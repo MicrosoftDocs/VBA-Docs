@@ -27,13 +27,13 @@ Creates one or more new  **Shape** objects by dropping an object onto a receivin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectToDrop_|Required| **[UNKNOWN]**|The object or selection to drop. While this is typically a Visio object such as a  **Master** , **Shape** , or **Selection** object, it can be any OLE object that provides an **IDataObject** interface.|
 | _xPos_|Required| **Double**|The x-coordinate at which to place the center of the shape's width or PinX.|
 | _yPos_|Required| **Double**|The y-coordinate at which to place the center of the shape's height or PinY.|
 
-### Return Value
+### Return value
 
 Shape
 

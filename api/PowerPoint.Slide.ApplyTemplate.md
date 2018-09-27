@@ -27,7 +27,7 @@ Applies a design template to the specified slide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name of the design template.|
 

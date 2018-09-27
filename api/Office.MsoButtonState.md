@@ -14,7 +14,7 @@ Specifies the appearance of a command bar button control.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoButtonDown**|-1|Button is pressed down.|
 |**msoButtonMixed**|2|Button is pressed down.|

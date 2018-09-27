@@ -24,7 +24,7 @@ Private Sub  _expression_ _'WindowChanged'(**_ByVal Window As [IVWINDOW]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required| **[IVWINDOW]**|The window whose size or position has changed.|
 

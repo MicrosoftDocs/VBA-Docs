@@ -23,7 +23,7 @@ Returns the  **Shape** object that is a **Selection** object's primary item. Rea
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return Value
+### Return value
 
 Shape
 

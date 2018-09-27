@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.InSelection Property (Access)
+title: ToggleButton.InSelection property (Access)
 keywords: vbaac10.chm11746
 f1_keywords:
 - vbaac10.chm11746
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.InSelection Property (Access)
+# ToggleButton.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `InSelection`
+_expression_. `InSelection`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

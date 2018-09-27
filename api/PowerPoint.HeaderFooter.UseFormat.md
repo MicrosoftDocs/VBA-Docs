@@ -23,7 +23,7 @@ Determines whether the date and time object contains automatically updated infor
  _expression_ A variable that represents an [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

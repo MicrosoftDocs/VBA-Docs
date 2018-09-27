@@ -1,5 +1,5 @@
 ---
-title: Label.GridlineWidthRight Property (Access)
+title: Label.GridlineWidthRight property (Access)
 keywords: vbaac10.chm10255
 f1_keywords:
 - vbaac10.chm10255
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Label.GridlineWidthRight Property (Access)
+# Label.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified label. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks

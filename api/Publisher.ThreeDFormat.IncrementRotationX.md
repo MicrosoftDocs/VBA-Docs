@@ -27,7 +27,7 @@ Changes the rotation of the specified shape around the x-axis (horizontal) by th
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Single**|Specifies by how many degrees to rotate the shape around the x-axis. Can be a value from - 90 through 90. A positive value tilts the shape up; a negative value tilts it down.|
 

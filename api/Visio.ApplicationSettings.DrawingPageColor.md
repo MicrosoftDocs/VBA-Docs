@@ -23,7 +23,7 @@ Determines the page color of the Microsoft Visio drawing window for the current 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
 OLE_COLOR
 

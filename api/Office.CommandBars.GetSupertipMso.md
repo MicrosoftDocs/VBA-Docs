@@ -30,11 +30,11 @@ Returns the supertip of the control identified by the  **idMso** parameter as a 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return Value
+### Return value
 
 String
 

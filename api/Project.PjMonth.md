@@ -14,7 +14,7 @@ Contains constants that specify a month.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjApril**|4|April.|
 |**pjAugust**|8|August.|

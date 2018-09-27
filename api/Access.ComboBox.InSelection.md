@@ -1,5 +1,5 @@
 ---
-title: ComboBox.InSelection Property (Access)
+title: ComboBox.InSelection property (Access)
 keywords: vbaac10.chm11446
 f1_keywords:
 - vbaac10.chm11446
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ComboBox.InSelection Property (Access)
+# ComboBox.InSelection property (Access)
 
 You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `InSelection`
+_expression_. `InSelection`
 
- _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks

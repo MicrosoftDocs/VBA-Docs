@@ -27,7 +27,7 @@ Sets some options that are on the  **General**,  **Schedule**, and  **Advanced**
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PlanningWizard_|Optional|**Boolean**|**True** if the Planning Wizard is active. Planning Wizard settings are on the **Advanced** tab ofn the **Project Options** dialog box.|
 | _WizardUsage_|Optional|**Boolean**|**True** if the Planning Wizard displays tips about using Project more effectively.|
@@ -50,7 +50,7 @@ Sets some options that are on the  **General**,  **Schedule**, and  **Advanced**
 | _ShowStartupWorkpane_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
 | _MaxUndoRecords_|Optional|**Variant**|The maximum number of records stored in the undo stack.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

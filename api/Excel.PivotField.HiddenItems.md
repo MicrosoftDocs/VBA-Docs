@@ -27,7 +27,7 @@ Returns an object that represents either a single hidden PivotTable item (a  **[
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The number or name of the item to be returned (can be an array to specify more than one item).|
 

@@ -12,7 +12,7 @@ Contains constants that specify a view in Project.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjViewUndefined**|-1|The view is undefined.|
 |**pjViewBarRollup**|0|**Bar Rollup** view.|

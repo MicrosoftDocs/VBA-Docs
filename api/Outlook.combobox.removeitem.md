@@ -25,11 +25,11 @@ Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |pvargIndex|Required| **Variant**|Specifies the row to delete. The number of the first row is 0; the number of the second row is 1, and so on.|
 
-### Return Value
+### Return value
 
 A  **Boolean** that returns **True** if the method succeeds, **False** otherwise.
 

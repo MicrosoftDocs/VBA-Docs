@@ -27,11 +27,11 @@ Returns or sets the text entries in the specified list box or a combo box, as an
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number of a single text entry to be set or returned. If this argument is omitted, the entire list is returned or set as an array of strings.|
 
-### Return Value
+### Return value
 
 Variant
 

@@ -27,11 +27,11 @@ Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Power
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the polyline drawing's vertices.|
 
-### Return Value
+### Return value
 
 Shape
 

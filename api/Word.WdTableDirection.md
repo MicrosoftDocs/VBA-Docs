@@ -14,7 +14,7 @@ Specifies the direction in which Microsoft Word orders cells in the specified ta
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdTableDirectionLtr**|1|The selected rows are arranged with the first column in the leftmost position.|
 | **wdTableDirectionRtl**|0|The selected rows are arranged with the first column in the rightmost position.|

@@ -23,7 +23,7 @@ Returns a  **Boolean** value that specifies whether the background sound attache
  _expression_ A variable that represents a  **WebPageOptions** object.
 
 
-### Return Value
+### Return value
 
 Boolean
 

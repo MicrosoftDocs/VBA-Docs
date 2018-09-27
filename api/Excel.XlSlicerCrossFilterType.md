@@ -14,7 +14,7 @@ Specifies the type of cross filtering used by the specified slicer cache and how
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSlicerCrossFilterHideButtonsWithNoData**|4|Cross filtering is turned on for this slicer cache, any tile with no data for a filtering selection in other slicers connected to the same data source will be dimmed. Additionally, buttons will be hidden.|
 | **xlSlicerCrossFilterShowItemsWithDataAtTop**|2|Cross filtering is turned on for this slicer cache, any tile with no data for a filtering selection in other slicers connected to the same data source will be dimmed. Additionally, tiles with data are moved to the top in the slicer. (Default)|

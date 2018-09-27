@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.ForeColor Property (Access)
+title: ToggleButton.ForeColor property (Access)
 keywords: vbaac10.chm11722
 f1_keywords:
 - vbaac10.chm11722
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.ForeColor Property (Access)
+# ToggleButton.ForeColor property (Access)
 
 You can use the  **ForeColor** property to specify the color for text in a control. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the ASK field.|
 | _Name_|Required| **String**|The bookmark name that the response or default text is assigned to. Use a REF field with the bookmark name to display the result in a document.|
@@ -35,7 +35,7 @@ Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** o
 | _DefaultAskText_|Optional| **Variant**|The default response, which appears in the text box when the dialog box is displayed. Corresponds to the \d switch for an ASK field.|
 | _AskOnce_|Optional| **Variant**| **True** to display the dialog box only once instead of each time a new record is merged. Corresponds to the \o switch for an ASK field.|
 
-### Return Value
+### Return value
 
 MailMergeField
 

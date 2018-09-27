@@ -27,7 +27,7 @@ Returns a specific element of the  **PivotLineCells** collection object by its p
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element of the collection. |
 

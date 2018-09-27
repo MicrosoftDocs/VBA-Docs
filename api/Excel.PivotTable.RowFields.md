@@ -27,7 +27,7 @@ Returns an object that represents either a single field in a PivotTable report (
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the field to be returned (can be an array to specify more than one field).|
 

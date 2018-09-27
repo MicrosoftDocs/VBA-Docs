@@ -14,7 +14,7 @@ Specifies where a paragraph should be relocated in relation to its current posit
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRelocateDown**|1|Below the next visible paragraph.|
 | **wdRelocateUp**|0|Above the previous visible paragraph.|

@@ -27,7 +27,7 @@ Removes sensitive information, properties, comments, and other metadata from a d
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RemoveDocInfoType_|Required| **WdRemoveDocInfoType**|Specifies what to remove.|
 

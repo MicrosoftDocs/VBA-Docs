@@ -14,7 +14,7 @@ Specifies the relative width of a shape using the value specified in the  **Widt
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdRelativeHorizontalSizeInnerMarginArea**|4|Width is relative to the size of the inside margin?to the size of the left margin for odd pages, and to the size of the right margin for even pages.|
 | **wdRelativeHorizontalSizeLeftMarginArea**|2|Width is relative to the size of the left margin.|

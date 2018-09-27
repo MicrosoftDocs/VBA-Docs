@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[NavigationButton.Visible Property (Access)](http://msdn.microsoft.com/library/26773edc-1143-d13f-eb75-206640cfae2e%28Office.15%29.aspx)
+[NavigationButton.Visible property (Access)](http://msdn.microsoft.com/library/26773edc-1143-d13f-eb75-206640cfae2e%28Office.15%29.aspx)
 
-[CommandButton.Visible Property (Access)](http://msdn.microsoft.com/library/980c1f93-ae95-3481-5358-ad5362ffc9e8%28Office.15%29.aspx)
+[CommandButton.Visible property (Access)](http://msdn.microsoft.com/library/980c1f93-ae95-3481-5358-ad5362ffc9e8%28Office.15%29.aspx)
 
 

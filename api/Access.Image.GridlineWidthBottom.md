@@ -1,5 +1,5 @@
 ---
-title: Image.GridlineWidthBottom Property (Access)
+title: Image.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10424
 f1_keywords:
 - vbaac10.chm10424
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.GridlineWidthBottom Property (Access)
+# Image.GridlineWidthBottom property (Access)
 
 Gets or sets the width of the bottom gridline for the specified image control. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthBottom`
+_expression_. `GridlineWidthBottom`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

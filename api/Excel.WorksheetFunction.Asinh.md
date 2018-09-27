@@ -27,11 +27,11 @@ Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number.|
 
-### Return Value
+### Return value
 
 Double
 

@@ -27,11 +27,11 @@ Returns an object from a collection. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|Contains the universal name, unique ID, or index of the object to retrieve.|
 
-### Return Value
+### Return value
 
 Addon
 

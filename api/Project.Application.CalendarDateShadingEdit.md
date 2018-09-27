@@ -27,13 +27,13 @@ Changes the background color and pattern of date boxes in the Calendar view.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](Project.PjCalendarShading.md)** constants.|
 | _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

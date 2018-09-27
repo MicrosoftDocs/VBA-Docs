@@ -25,7 +25,7 @@ Sets the raster export size.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _size_|Required| **VisRasterExportSize**|The raster export size. See Remarks for possible values.|
 | _Width_|Optional| **Double**|The raster export size width. Must be greater than or equal to 1.|
@@ -37,7 +37,7 @@ Sets the raster export size.
 | _sizeUnits_|Optional|VISRASTEREXPORTSIZEUNITS||
 |Name|Required/Optional|Data type|Description|
 
-### Return Value
+### Return value
 
 Nothing
 

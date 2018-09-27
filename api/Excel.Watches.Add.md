@@ -27,11 +27,11 @@ Adds a range which is tracked when the worksheet is recalculated.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The source for the range.|
 
-### Return Value
+### Return value
 
 A  **[Watch](Excel.Watch.md)** object that represents the new range.
 

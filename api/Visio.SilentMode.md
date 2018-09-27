@@ -20,7 +20,7 @@ Determines whether any component of the user interface (either that of Microsoft
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
 Long
 

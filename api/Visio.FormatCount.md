@@ -20,7 +20,7 @@ Indicates the number of output formats that are installed on the user's computer
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return Value
+### Return value
 
  **Long**
 

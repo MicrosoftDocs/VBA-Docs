@@ -17,7 +17,7 @@ Indicates the format used to display integer Outlook item properties.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFormatIntegerComputer1**|2|Displays integer values, representing bytes, as kilobytes (with the abbreviation "K") depending on the value. For example, the integer value of 1048576 is displayed as "1,024 K".|
 | **olFormatIntegerComputer2**|3|Displays integer values, representing bytes, as either kilobytes (with the abbreviation "K"), megabytes (with the abbreviation "M"), or gigabytes (with the abbreviation "G"), depending on the value. For example, the integer value of 2048 is displayed as "2 K".|

@@ -27,11 +27,11 @@ Returns a single object from a collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number for the object.|
 
-### Return Value
+### Return value
 
 An  **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
 

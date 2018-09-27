@@ -24,7 +24,7 @@ Gets a single  **Window** object from the **Windows** collection. Read-only **Wi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the object to return.|
 

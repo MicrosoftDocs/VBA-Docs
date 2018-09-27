@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.
  _expression_ An expression that returns a [ThemeEffectScheme](./Office.ThemeEffectScheme.md) object.
 
 
-### Return Value
+### Return value
 
 Object
 

@@ -1,5 +1,5 @@
 ---
-title: Section.AlternateBackShade Property (Access)
+title: Section.AlternateBackShade property (Access)
 keywords: vbaac10.chm14609
 f1_keywords:
 - vbaac10.chm14609
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.AlternateBackShade Property (Access)
+# Section.AlternateBackShade property (Access)
 
 Gets or sets the shade applied to the theme color in the  **AlternateBackColor** property of the section. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `AlternateBackShade`
+_expression_. `AlternateBackShade`
 
- _expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a [Section](Access.Section.md) object.
 
 
 ## Remarks

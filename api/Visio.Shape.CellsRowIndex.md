@@ -27,11 +27,11 @@ Returns the index of a row to which a cell belongs. Read-only.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _localeSpecificCellName_|Required| **String**|The name of a ShapeSheet cell.|
 
-### Return Value
+### Return value
 
 Integer
 

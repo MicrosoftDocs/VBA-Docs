@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.RowSourceType Property (Access)
+title: ObjectFrame.RowSourceType property (Access)
 keywords: vbaac10.chm11563
 f1_keywords:
 - vbaac10.chm11563
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.RowSourceType Property (Access)
+# ObjectFrame.RowSourceType property (Access)
 
 You can use the  **RowSourceType** property (along with the **RowSource** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `RowSourceType`
+_expression_. `RowSourceType`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

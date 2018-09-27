@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.FilterLookup Property (Access)
+title: NavigationControl.FilterLookup property (Access)
 keywords: vbaac10.chm11062
 f1_keywords:
 - vbaac10.chm11062
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.FilterLookup Property (Access)
+# NavigationControl.FilterLookup property (Access)
 
 You can use the  **FilterLookup** property to specify whether values appear in a boundtext box control when using the Filter By Form or Server Filter By Form window. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `FilterLookup`
+_expression_. `FilterLookup`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## Remarks

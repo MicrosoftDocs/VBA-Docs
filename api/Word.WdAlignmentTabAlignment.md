@@ -14,7 +14,7 @@ Specifies tab alignment.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdCenter**|1|Centered tab.|
 | **wdLeft**|0|Left-aligned tab.|

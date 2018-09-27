@@ -23,7 +23,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
  _expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
 
 
-### Return Value
+### Return value
 
 Application
 

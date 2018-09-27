@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies constants that represent the installed edition of Microsoft Visio.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visEditionStandard**|0|Standard edition.|
 | **visEditionProfessional**|1|Professional edition.|

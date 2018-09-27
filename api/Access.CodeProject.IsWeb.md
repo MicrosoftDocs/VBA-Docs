@@ -1,5 +1,5 @@
 ---
-title: CodeProject.IsWeb Property (Access)
+title: CodeProject.IsWeb property (Access)
 keywords: vbaac10.chm14677
 f1_keywords:
 - vbaac10.chm14677
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CodeProject.IsWeb Property (Access)
+# CodeProject.IsWeb property (Access)
 
 Gets whether the database is a Web database. Read-only  **Boolean**.
 
 
 ## Syntax
 
- _expression_. `IsWeb`
+_expression_. `IsWeb`
 
- _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
 ## Remarks

@@ -27,11 +27,11 @@ Returns a single  **Font** object from the specified **Fonts** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Font** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 Font
 

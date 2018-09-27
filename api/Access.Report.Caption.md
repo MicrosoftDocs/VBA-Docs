@@ -1,5 +1,5 @@
 ---
-title: Report.Caption Property (Access)
+title: Report.Caption property (Access)
 keywords: vbaac10.chm13695
 f1_keywords:
 - vbaac10.chm13695
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Report.Caption Property (Access)
+# Report.Caption property (Access)
 
 Gets or sets the title of the report in Print Preview. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
 ## Remarks

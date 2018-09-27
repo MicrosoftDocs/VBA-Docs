@@ -27,7 +27,7 @@ Saves the specified publication with a new name or format.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Optional| **Variant**|The name for the publication. The default is the current folder and file name. If the publication has never been saved, the default name is used, for example, Publication1.pub. If a publication with the specified file name already exists, the publication is overwritten without the user being prompted first.|
 |Format|Optional| **PbFileFormat**|The format in which the publication is saved.|

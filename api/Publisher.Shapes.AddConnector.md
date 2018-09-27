@@ -27,7 +27,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Required| **MsoConnectorType**|The type of connector to add.|
 |BeginX|Required| **Variant**|The x-coordinate of the beginning point of the connector.|
@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to t
 |EndX|Required| **Variant**|The x-coordinate of the ending point of the connector.|
 |EndY|Required| **Variant**|The y-coordinate of the ending point of the connector.|
 
-### Return Value
+### Return value
 
 Shape
 

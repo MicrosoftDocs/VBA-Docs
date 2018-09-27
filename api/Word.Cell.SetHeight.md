@@ -27,7 +27,7 @@ Sets the height of table cells.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RowHeight_|Required| **Variant**|The height of the row or rows, in points.|
 | _HeightRule_|Required| **WdRowHeightRule**|The rule for determining the height of the specified cells.|

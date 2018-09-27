@@ -27,7 +27,7 @@ Creates a comparison report between two versions of a project.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**String**|Full path and name of the project file to compare.|
 | _TaskTable_|Optional|**String**|Name of the table to use for comparison in a task view.|
@@ -36,7 +36,7 @@ Creates a comparison report between two versions of a project.
 | _Columns_|Optional|**[PjCompareVersionColumns](Project.PjCompareVersionColumns.md)**|Specifies whether to show only column data, only column differences, or both differences and data.|
 | _ShowLegend_|Optional|**Variant**|If  **True**, shows the legend in the comparison report.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

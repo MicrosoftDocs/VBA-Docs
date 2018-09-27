@@ -1,5 +1,5 @@
 ---
-title: EmptyCell.ControlType Property (Access)
+title: EmptyCell.ControlType property (Access)
 keywords: vbaac10.chm14304
 f1_keywords:
 - vbaac10.chm14304
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# EmptyCell.ControlType Property (Access)
+# EmptyCell.ControlType property (Access)
 
 You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_. `ControlType`
+_expression_. `ControlType`
 
- _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks

@@ -27,7 +27,7 @@ Returns the depreciation of an asset for a specified period using the fixed-decl
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Cost - the initial cost of the asset.|
 | _Arg2_|Required| **Double**|Salvage - the value at the end of the depreciation (sometimes called the salvage value of the asset).|
@@ -35,7 +35,7 @@ Returns the depreciation of an asset for a specified period using the fixed-decl
 | _Arg4_|Required| **Double**|Period - the period for which you want to calculate the depreciation. Period must use the same units as life.|
 | _Arg5_|Optional| **Variant**|Month - the number of months in the first year. If month is omitted, it is assumed to be 12.|
 
-### Return Value
+### Return value
 
 Double
 

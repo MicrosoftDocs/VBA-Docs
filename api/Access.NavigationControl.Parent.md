@@ -1,5 +1,5 @@
 ---
-title: NavigationControl.Parent Property (Access)
+title: NavigationControl.Parent property (Access)
 keywords: vbaac10.chm11029
 f1_keywords:
 - vbaac10.chm11029
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationControl.Parent Property (Access)
+# NavigationControl.Parent property (Access)
 
 Returns the parent object for the specified object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
 ## See also

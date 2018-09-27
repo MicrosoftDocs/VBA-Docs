@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[CodeProject.Parent Property (Access)](http://msdn.microsoft.com/library/2dfa77fe-de58-15f4-da97-41da8b06c449%28Office.15%29.aspx)
+[CodeProject.Parent property (Access)](http://msdn.microsoft.com/library/2dfa77fe-de58-15f4-da97-41da8b06c449%28Office.15%29.aspx)
 
-[CurrentProject.Parent Property (Access)](http://msdn.microsoft.com/library/afd66c1b-db13-e336-02db-fcdc8f5226bc%28Office.15%29.aspx)
+[CurrentProject.Parent property (Access)](http://msdn.microsoft.com/library/afd66c1b-db13-e336-02db-fcdc8f5226bc%28Office.15%29.aspx)
 
 

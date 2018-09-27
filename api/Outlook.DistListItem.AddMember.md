@@ -27,7 +27,7 @@ Adds a new member to the specified distribution list. The distribution list cont
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Recipient_|Required| **Recipient**|The recipient to be added to the list.|
 

@@ -23,7 +23,7 @@ Returns a  **[MailMergeDataFields](Publisher.MailMergeDataFields.md)** collectio
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Return Value
+### Return value
 
 MailMergeDataFields
 

@@ -1,5 +1,5 @@
 ---
-title: AcDataObjectType Enumeration (Access)
+title: AcDataObjectType enumeration (Access)
 keywords: vbaac10.chm10012
 f1_keywords:
 - vbaac10.chm10012
@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# AcDataObjectType Enumeration (Access)
+# AcDataObjectType enumeration (Access)
 
 Used with the  **GoToRecord** method to specify the type of object that contains the record to make current.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acActiveDataObject**|-1|The active object contains the record.|
 |**acDataForm**|2|A form contains the record.|

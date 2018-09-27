@@ -1,5 +1,5 @@
 ---
-title: OptionGroup.ColumnHidden Property (Access)
+title: OptionGroup.ColumnHidden property (Access)
 keywords: vbaac10.chm10851
 f1_keywords:
 - vbaac10.chm10851
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionGroup.ColumnHidden Property (Access)
+# OptionGroup.ColumnHidden property (Access)
 
 You can use the  **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `ColumnHidden`
+_expression_. `ColumnHidden`
 
- _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks

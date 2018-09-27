@@ -27,7 +27,7 @@ Creates a test condition against the value of a custom field to determine which 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](Project.PjCustomField.md)** constants.|
 | _Test_|Required|**Long**|The type of comparison to perform between  **Value** and the custom field specified by **FieldID**. Can be one of the **[PjComparison](Project.PjComparison.md)** constants.|
@@ -36,7 +36,7 @@ Creates a test condition against the value of a custom field to determine which 
 | _CriteriaList_|Optional|**Long**|The criteria list to which the test condition should be added. Can be one of the  **[PjCriteriaList](Project.PjCriteriaList.md)** constants. The default value is **pjCriteriaNonSummary**.|
 | _Index_|Optional|**Integer**|The position to add the test condition in the list specified by  **CriteriaList**. Tests are evaluated in ascending **Index** order. If **Index** is n + 2 or greater, where n is the number of existing tests, the test is added at n + 1. The default value is n + 1.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

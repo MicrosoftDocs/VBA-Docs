@@ -27,7 +27,7 @@ Exports the active page of the publication as an HTML file.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|The name of the file to which to export the HTML.|
 

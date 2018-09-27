@@ -27,7 +27,7 @@ Removes all categories from all items in the conversation and stops the action o
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store from which categories of items that belong to the conversation should be removed.|
 

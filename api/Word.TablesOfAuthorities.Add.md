@@ -27,7 +27,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want the table of authorities to appear. The table of authorities replaces the range, if the range isn't collapsed.|
 | _Category_|Optional| **Variant**|The category of entries you want to include in the table of authorities. Corresponds to the \c switch for a Table of Authorities (TOA) field. Values 0 through 16 correspond to the items listed in the  **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box (**Reference** command, **Insert** menu). The default value is 1.|
@@ -41,7 +41,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
 | _IncludeCategoryHeader_|Optional| **Variant**| **True** to have the category name for each group of entries appear in the table of authorities (for example, Cases). Corresponds to the \h switch for a Table of Authorities (TOA) field. If this argument is omitted, IncludeCategoryHeader is assumed to be **True** .|
 | _PageNumberSeparator_|Optional| **Variant**|The characters (up to five) that separate individual page numbers within page references in the table of authorities. Corresponds to the \l switch for a Table of Authorities (TOA) field. If this argument is omitted, a comma and a space are used.|
 
-### Return Value
+### Return value
 
 TableOfAuthorities
 

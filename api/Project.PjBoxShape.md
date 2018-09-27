@@ -14,7 +14,7 @@ Contains constants that specify the shape of a box.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjBoxCapsule**|4|Capsule.|
 |**pjBoxDownTrapezoid**|9|Down trapezoid.|

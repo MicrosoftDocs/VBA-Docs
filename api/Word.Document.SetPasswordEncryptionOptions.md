@@ -27,7 +27,7 @@ Sets the options Microsoft Word uses for encrypting documents with passwords.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PasswordEncryptionProvider_|Required| **String**|The name of the encryption provider.|
 | _PasswordEncryptionAlgorithm_|Required| **String**|The name of the encryption algorithm. Word supports stream-encrypted algorithms.|

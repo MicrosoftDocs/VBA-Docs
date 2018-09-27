@@ -23,7 +23,7 @@ Returns or sets whether to display all field buttons on a PivotChart. Read/write
  _expression_ A variable that represents a '[Chart](Excel.Chart(object).md)' object.
 
 
-### Return Value
+### Return value
 
  **Boolean**
 

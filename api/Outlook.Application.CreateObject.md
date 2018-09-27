@@ -27,11 +27,11 @@ Creates an automation object of the specified class.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectName_|Required| **String**|The class name of the object to create. For information about valid class names, see [OLE Programmatic Identifiers](../outlook/Concepts/Getting-Started/ole-programmatic-identifiers-outlook.md).|
 
-### Return Value
+### Return value
 
 An Object value that represents the new Automation object instance. If the application is already running,  **CreateObject** will create a new instance.
 

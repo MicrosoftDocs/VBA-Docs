@@ -23,7 +23,7 @@ Returns an  **MsoTriState**constant indicating whether the first segment of the 
  _expression_ A variable that represents a  **CalloutFormat** object.
 
 
-### Return Value
+### Return value
 
 MsoTriState
 

@@ -26,7 +26,7 @@ Gets the unique identifier of the  **DataRecordset** object assigned by Visio. R
  _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Return Value
+### Return value
 
 Long
 

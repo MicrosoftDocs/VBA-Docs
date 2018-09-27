@@ -20,7 +20,7 @@ Adds a line to a report, and returns a  **Shape** object that represents the lin
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _BeginX_|Required|**Single**|The horizontal position (in points) of the starting point, relative to the left edge of the report.|
 | _BeginY_|Required|**Single**|The vertical position (in points) of the starting point, relative to the top edge of the report.|

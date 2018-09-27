@@ -27,7 +27,7 @@ Private Sub  _expression_ _'CellChanged'(**_ByVal Cell As [IVCELL]_**)
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cell_|Required| **[IVCELL]**|The cell whose value has changed.|
 

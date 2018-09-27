@@ -17,7 +17,7 @@ Indicates the status of the meeting.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMeeting**|1|The meeting has been scheduled.|
 | **olMeetingCanceled**|5|The scheduled meeting has been cancelled.|

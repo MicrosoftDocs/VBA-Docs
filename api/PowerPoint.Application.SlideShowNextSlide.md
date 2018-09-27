@@ -27,7 +27,7 @@ Occurs immediately before the transition to the next slide. For the first slide,
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wn_|Required|**SlideShowWindow**|The active slide show window.|
 

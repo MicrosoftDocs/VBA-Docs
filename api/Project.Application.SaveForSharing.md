@@ -27,11 +27,11 @@ Saves a local copy of the active project for sharing, to make changes and then m
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional|**Variant**|Full path and the name of the project file saved for sharing.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

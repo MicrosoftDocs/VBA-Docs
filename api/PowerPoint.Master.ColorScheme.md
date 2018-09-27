@@ -23,7 +23,7 @@ Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that re
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
-### Return Value
+### Return value
 
 ColorScheme
 

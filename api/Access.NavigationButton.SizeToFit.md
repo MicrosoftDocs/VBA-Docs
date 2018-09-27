@@ -1,5 +1,5 @@
 ---
-title: NavigationButton.SizeToFit Method (Access)
+title: NavigationButton.SizeToFit method (Access)
 keywords: vbaac10.chm10442
 f1_keywords:
 - vbaac10.chm10442
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# NavigationButton.SizeToFit Method (Access)
+# NavigationButton.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
 ## Remarks

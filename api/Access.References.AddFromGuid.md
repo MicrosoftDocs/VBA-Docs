@@ -1,5 +1,5 @@
 ---
-title: References.AddFromGuid Method (Access)
+title: References.AddFromGuid method (Access)
 keywords: vbaac10.chm12642
 f1_keywords:
 - vbaac10.chm12642
@@ -11,29 +11,29 @@ ms.date: 06/08/2017
 ---
 
 
-# References.AddFromGuid Method (Access)
+# References.AddFromGuid method (Access)
 
 The  **AddFromGUID** method creates a **[Reference](Access.Reference.md)** object based on the GUID that identifies a type library. **Reference** object.
 
 
 ## Syntax
 
- _expression_. `AddFromGuid`( ` _Guid_`, ` _Major_`, ` _Minor_` )
+_expression_. `AddFromGuid`( ` _Guid_`, ` _Major_`, ` _Minor_` )
 
- _expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a [References](Access.References.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Guid_|Required|**String**|A GUID that identifies a type library.|
 | _Major_|Required|**Long**|The major version number of the reference.|
 | _Minor_|Required|**Long**|The minor version number of the reference.|
 
-### Return Value
+### Return value
 
 Reference
 

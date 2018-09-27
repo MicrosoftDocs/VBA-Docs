@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.Layout Property (Access)
+title: ObjectFrame.Layout property (Access)
 keywords: vbaac10.chm11638
 f1_keywords:
 - vbaac10.chm11638
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.Layout Property (Access)
+# ObjectFrame.Layout property (Access)
 
 Returns the type of layout for the specified object frame. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: TabControl.Click Event (Access)
+title: TabControl.Click event (Access)
 keywords: vbaac10.chm14270
 f1_keywords:
 - vbaac10.chm14270
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.Click Event (Access)
+# TabControl.Click event (Access)
 
 The  **Click** event occurs when the user presses and then releases a mouse button over an object.
 
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

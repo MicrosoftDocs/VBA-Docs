@@ -14,7 +14,7 @@ Specifies how shapes are displayed.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlDisplayShapes**|-4104|Show all shapes.|
 | **xlHide**|3|Hide all shapes.|

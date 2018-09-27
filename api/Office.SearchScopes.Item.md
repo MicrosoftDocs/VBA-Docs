@@ -27,7 +27,7 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Determines which  **SearchScope** object to return.|
 

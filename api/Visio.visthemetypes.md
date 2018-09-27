@@ -15,7 +15,7 @@ Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNam
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visThemeTypeColor**|1|Theme colors.|
 | **visThemeTypeConnector**|3|Theme connectors.|

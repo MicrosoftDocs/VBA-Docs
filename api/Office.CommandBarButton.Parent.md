@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CommandBarButton** object. Read-only.
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Return Value
+### Return value
 
 CommandBar
 

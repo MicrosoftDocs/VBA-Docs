@@ -27,13 +27,13 @@ Sets the width and height of the active window.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Width_|Optional|**Long**|A number that specifies the new width of the active window.|
 | _Height_|Optional|**Long**|A number that specifies the new height of the active window.|
 | _Points_|Optional|**Boolean**|**True** if **Width** and **Height** are measured in points. **False** if they are measured in pixels. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

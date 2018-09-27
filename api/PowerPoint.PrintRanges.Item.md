@@ -27,11 +27,11 @@ Returns a single  **PrintRange** object from the specified **PrintRanges** colle
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **PrintRange** object in the collection to be returned.|
 
-### Return Value
+### Return value
 
 PrintRange
 

@@ -1,5 +1,5 @@
 ---
-title: TextBox.BackColor Property (Access)
+title: TextBox.BackColor property (Access)
 keywords: vbaac10.chm11076
 f1_keywords:
 - vbaac10.chm11076
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.BackColor Property (Access)
+# TextBox.BackColor property (Access)
 
 Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

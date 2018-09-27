@@ -27,7 +27,7 @@ Returns the list of the user's last fifteen blog posts that Microsoft Word then 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Account_|Required|**String**|Represents the GUID of the account registry key. Blog account settings are stored in the registry at \\HKCU\Software\Microsoft\Office\Common\Blog\Account.|
 | _ParentWindow_|Required|**Long**|Contains the HWND for the window Microsoft Word is calling from.|

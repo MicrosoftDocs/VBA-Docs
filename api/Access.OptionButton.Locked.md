@@ -1,5 +1,5 @@
 ---
-title: OptionButton.Locked Property (Access)
+title: OptionButton.Locked property (Access)
 keywords: vbaac10.chm10577
 f1_keywords:
 - vbaac10.chm10577
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# OptionButton.Locked Property (Access)
+# OptionButton.Locked property (Access)
 
 The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks

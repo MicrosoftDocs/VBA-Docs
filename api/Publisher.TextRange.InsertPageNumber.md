@@ -27,11 +27,11 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Type|Optional| **PbPageNumberType**|Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
 
-### Return Value
+### Return value
 
 TextRange
 

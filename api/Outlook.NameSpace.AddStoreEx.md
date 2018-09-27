@@ -27,7 +27,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **Variant**|The path of the .pst file to be added to the profile. If the .pst file does not exist, Microsoft Outlook creates it.|
 | _Type_|Required| **[OlStoreType](Outlook.OlStoreType.md)**|The format in which the data file should be created.|

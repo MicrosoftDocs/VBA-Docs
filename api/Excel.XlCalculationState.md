@@ -14,7 +14,7 @@ Specifies the calculation state of the application.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCalculating**|1|Calculations in process.|
 | **xlDone**|0|Calculations complete.|

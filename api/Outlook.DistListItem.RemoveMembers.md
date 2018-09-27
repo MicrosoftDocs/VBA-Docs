@@ -27,7 +27,7 @@ Removes members from a distribution list.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Recipients_|Required| **[Recipients](Outlook.Recipients.md)**|The members to be removed from the distribution list.|
 

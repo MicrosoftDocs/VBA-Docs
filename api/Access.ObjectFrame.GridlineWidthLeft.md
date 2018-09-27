@@ -1,5 +1,5 @@
 ---
-title: ObjectFrame.GridlineWidthLeft Property (Access)
+title: ObjectFrame.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11647
 f1_keywords:
 - vbaac10.chm11647
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ObjectFrame.GridlineWidthLeft Property (Access)
+# ObjectFrame.GridlineWidthLeft property (Access)
 
 Gets or sets the width of the left gridline for the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthLeft`
+_expression_. `GridlineWidthLeft`
 
- _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks

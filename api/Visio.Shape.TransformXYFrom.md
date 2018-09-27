@@ -27,7 +27,7 @@ Transforms a point expressed in the local coordinate system of one  **Shape** ob
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OtherShape_|Required| **[IVSHAPE]**|An expression that returns a  **Shape** object whose local coordinate system you are transforming the point from.|
 | _x_|Required| **Double**| _x_-coordinate corresponding to  _x_ in the _OtherShape_ coordinate system.|
@@ -35,7 +35,7 @@ Transforms a point expressed in the local coordinate system of one  **Shape** ob
 | _xprime_|Required| **Double**| _x_-coordinate in coordinate system of  _object._|
 | _yprime_|Required| **Double**| _y_-coordinate in coordinate system of  _object._|
 
-### Return Value
+### Return value
 
 Nothing
 

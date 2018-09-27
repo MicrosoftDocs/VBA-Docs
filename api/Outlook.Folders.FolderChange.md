@@ -27,7 +27,7 @@ Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collect
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Folder_|Required| **[Folder](Outlook.Folder.md)**|The folder that has been changed.|
 

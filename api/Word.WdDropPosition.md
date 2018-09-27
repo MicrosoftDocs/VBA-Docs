@@ -14,7 +14,7 @@ Specifies the position of a dropped capital letter.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDropMargin**|2|Dropped capital letter ends at the left margin.|
 | **wdDropNone**|0|No dropped capital letter.|

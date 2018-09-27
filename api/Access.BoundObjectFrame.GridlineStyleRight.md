@@ -1,5 +1,5 @@
 ---
-title: BoundObjectFrame.GridlineStyleRight Property (Access)
+title: BoundObjectFrame.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11001
 f1_keywords:
 - vbaac10.chm11001
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# BoundObjectFrame.GridlineStyleRight Property (Access)
+# BoundObjectFrame.GridlineStyleRight property (Access)
 
 Gets or sets the right gridline style of the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineStyleRight`
+_expression_. `GridlineStyleRight`
 
- _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: DoCmd.DoMenuItem Method (Access)
+title: DoCmd.DoMenuItem method (Access)
 keywords: vbaac10.chm4148
 f1_keywords:
 - vbaac10.chm4148
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# DoCmd.DoMenuItem Method (Access)
+# DoCmd.DoMenuItem method (Access)
 
 Displays the appropriate menu or toolbar command for Microsoft Access.
 
 
 ## Syntax
 
- _expression_. `DoMenuItem`( ` _MenuBar_`, ` _MenuName_`, ` _Command_`, ` _Subcommand_`, ` _Version_` )
+_expression_. `DoMenuItem`( ` _MenuBar_`, ` _MenuName_`, ` _Command_`, ` _Subcommand_`, ` _Version_` )
 
- _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MenuBar_|Required|**Variant**|Use the intrinsic constant **acFormBar** for the menu bar in Form view. For other views, use the number of the view in the menu bar argument list, as shown in the Macro window in previous versions of Microsoft Access (count down the list, starting from 0).|
 | _MenuName_|Required|**Variant**|You can use one of the following intrinsic constants.<ul><li><p><b>acFile</b></p></li><li><p><b>acEditMenu</b></p></li><li><p><b>acRecordsMenu</b></p></li><li><p>You can use <b>acRecordsMenu</b>  only for the Form view menu bar in Microsoft Access version 2.0 and Microsoft Access 95 databases. For other menus, use the number of the menu in the menu name argument list, as shown in the Macro window in previous versions of Microsoft Access (count down the list, starting from 0).</p></li></ul>|

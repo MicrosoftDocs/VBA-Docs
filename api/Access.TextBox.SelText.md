@@ -1,5 +1,5 @@
 ---
-title: TextBox.SelText Property (Access)
+title: TextBox.SelText property (Access)
 keywords: vbaac10.chm11107
 f1_keywords:
 - vbaac10.chm11107
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextBox.SelText Property (Access)
+# TextBox.SelText property (Access)
 
 The  **SelText** property returns a string containing the selected text. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `SelText`
+_expression_. `SelText`
 
- _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks

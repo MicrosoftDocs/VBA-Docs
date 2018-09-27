@@ -1,5 +1,5 @@
 ---
-title: GroupLevel.GroupOn Property (Access)
+title: GroupLevel.GroupOn property (Access)
 keywords: vbaac10.chm12243
 f1_keywords:
 - vbaac10.chm12243
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupLevel.GroupOn Property (Access)
+# GroupLevel.GroupOn property (Access)
 
 You can use the  **GroupOn** property in a report to specify how to group data in a field or expression by data type. For example, this property lets you group a Date field by month. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_. `GroupOn`
+_expression_. `GroupOn`
 
- _expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
 
 
 ## Remarks

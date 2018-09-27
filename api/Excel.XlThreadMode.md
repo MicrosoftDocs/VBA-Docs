@@ -14,7 +14,7 @@ Specifies the control over the multi-threaded calculation mode.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlThreadModeAutomatic**|0|Multi-threaded calculation mode is automatic.|
 | **xlThreadModeManual**|1|Multi-threaded calculation mode is manual.|

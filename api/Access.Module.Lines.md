@@ -1,5 +1,5 @@
 ---
-title: Module.Lines Property (Access)
+title: Module.Lines property (Access)
 keywords: vbaac10.chm12275
 f1_keywords:
 - vbaac10.chm12275
@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# Module.Lines Property (Access)
+# Module.Lines property (Access)
 
 The  **Lines** property returns a string containing the contents of a specified line or lines in a standard module or a class module. Read-only **String**.
 
 
 ## Syntax
 
- _expression_. `Lines`( ` _Line_`, ` _NumLines_` )
+_expression_. `Lines`( ` _Line_`, ` _NumLines_` )
 
- _expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ### Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required|**Long**|The number of the first line to return.|
 | _NumLines_|Required|**Long**|The number of lines to return.|

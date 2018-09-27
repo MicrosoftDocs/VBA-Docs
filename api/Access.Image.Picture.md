@@ -1,5 +1,5 @@
 ---
-title: Image.Picture Property (Access)
+title: Image.Picture property (Access)
 keywords: vbaac10.chm10366
 f1_keywords:
 - vbaac10.chm10366
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Image.Picture Property (Access)
+# Image.Picture property (Access)
 
 You can use the  **Picture** property to specify a bitmap or other type of graphic to be displayed on the specified control. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
- _expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
 ## Remarks

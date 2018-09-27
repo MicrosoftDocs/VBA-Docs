@@ -26,7 +26,7 @@ Gets the full Uniform Resource Locator (URL) and file name of the shared workspa
  _expression_ A variable that represents a [SharedWorkspaceFile](./Office.SharedWorkspaceFile.md) object.
 
 
-### Return Value
+### Return value
 
 String
 

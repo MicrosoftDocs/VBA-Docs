@@ -1,5 +1,5 @@
 ---
-title: ToggleButton.Bevel Property (Access)
+title: ToggleButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.Bevel Property (Access)
+# ToggleButton.Bevel property (Access)
 
 Gets or sets the bevel effect applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Bevel`
+_expression_. `Bevel`
 
- _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks

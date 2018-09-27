@@ -24,12 +24,12 @@ Occurs after a user clicks a different goal area in the Project Guide.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
 | _goalArea_|Required|**Long**|The ID of the goal area the user just clicked.|
 
-### Return Value
+### Return value
 
 nothing
 

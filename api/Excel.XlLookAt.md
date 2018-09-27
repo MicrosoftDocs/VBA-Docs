@@ -14,7 +14,7 @@ Specifies whether a match is made against the whole of the search text or any pa
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPart**|2|Match against any part of the search text.|
 | **xlWhole**|1|Match against the whole of the search text.|

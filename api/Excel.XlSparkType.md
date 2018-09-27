@@ -14,7 +14,7 @@ Specifies the type of sparkline.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlSparkColumn**|2|A column chart sparkline. |
 | **xlSparkColumnStacked100**|3|A win/loss chart sparkline.|

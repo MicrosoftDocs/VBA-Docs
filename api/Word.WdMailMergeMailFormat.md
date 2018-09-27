@@ -14,7 +14,7 @@ Specifies the format to use when the mail merge destination is an e-mail message
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMailFormatHTML**|1|Sends mail merge e-mail documents using HTML format.|
 | **wdMailFormatPlainText**|0|Sends mail merge e-mail documents using plain text.|

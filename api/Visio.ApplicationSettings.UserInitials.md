@@ -23,7 +23,7 @@ Determines the user initials associated with the Microsoft Visio file. Read/writ
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return Value
+### Return value
 
  **String**
 

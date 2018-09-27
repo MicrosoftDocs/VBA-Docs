@@ -14,7 +14,7 @@ Contains constants that specify whether the colors of link lines in a Network Di
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjColorModeCustom**|1|Critical and noncritical colors can be custom values.|
 |**pjColorModePredecessor**|2|Critical and noncritical colors are inherited from the predecessor task.|

@@ -1,5 +1,5 @@
 ---
-title: TabControl.GridlineWidthRight Property (Access)
+title: TabControl.GridlineWidthRight property (Access)
 keywords: vbaac10.chm14546
 f1_keywords:
 - vbaac10.chm14546
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TabControl.GridlineWidthRight Property (Access)
+# TabControl.GridlineWidthRight property (Access)
 
 Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_. `GridlineWidthRight`
+_expression_. `GridlineWidthRight`
 
- _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
 ## Remarks

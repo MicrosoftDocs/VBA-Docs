@@ -1,5 +1,5 @@
 ---
-title: CommandButton.Bevel Property (Access)
+title: CommandButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandButton.Bevel Property (Access)
+# CommandButton.Bevel property (Access)
 
 Gets or sets the bevel effect applied to the specified object. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_. `Bevel`
+_expression_. `Bevel`
 
- _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks

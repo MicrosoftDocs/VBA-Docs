@@ -24,13 +24,13 @@ Sets the position and zoom factor (size) of the drawing page in Microsoft Visio 
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |PageXAtViewCenter|Required| **Double**|The x-coordinate, in drawing-page units, of the center of the page, measured from the lower left corner of the page.|
 |PageYAtViewCenter|Required| **Double**|The y-coordinate, in drawing-page units, of the center of the page, measured from the lower left corner of the page.|
 |ZoomFactor|Required| **Double**|The factor by which to multiply the zoom (page size).|
 
-### Return Value
+### Return value
 
 Nothing
 

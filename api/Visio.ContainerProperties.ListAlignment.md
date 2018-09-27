@@ -23,7 +23,7 @@ Specifies how to align and arrange a list shape that you want positioned perpend
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return Value
+### Return value
 
  **[VisListAlignment](Visio.VisListAlignment.md)**
 

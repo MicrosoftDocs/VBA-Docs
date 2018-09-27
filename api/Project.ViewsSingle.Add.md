@@ -27,7 +27,7 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the view.|
 | _Screen_|Optional|**Long**| The project view. Can be one of the **[PjViewScreen](Project.PjViewScreen.md)** constants. The default value is **pjGantt**.|
@@ -37,7 +37,7 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 | _Group_|Optional|**Variant**|Specifies the group to be used by the view. If a group is required for the view, but none is specified, the default is ** No Group**. This value is ignored if the view specified with the **Screen** argument does not use groups.|
 | _HighlightFilt_|Optional|**Boolean**|**True** if the filter applied is a highlight filter. The default value is **False**.|
 
-### Return Value
+### Return value
 
  **ViewSingle**
 

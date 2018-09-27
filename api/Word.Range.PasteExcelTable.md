@@ -27,7 +27,7 @@ Pastes and formats a Microsoft Excel table.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LinkedToExcel_|Required| **Boolean**| **True** links the pasted table to the original Excel file so that changes made to the Excel file are reflected in Microsoft Word.|
 | _WordFormatting_|Required| **Boolean**| **True** formats the table using the formatting in the Word document. **False** formats the table according to the original Excel file.|

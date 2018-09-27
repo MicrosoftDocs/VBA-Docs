@@ -1,5 +1,5 @@
 ---
-title: Attachment.SizeToFit Method (Access)
+title: Attachment.SizeToFit method (Access)
 keywords: vbaac10.chm13907
 f1_keywords:
 - vbaac10.chm13907
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Attachment.SizeToFit Method (Access)
+# Attachment.SizeToFit method (Access)
 
 You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
 
- _expression_. `SizeToFit`
+_expression_. `SizeToFit`
 
- _expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
 
 
 ## Remarks

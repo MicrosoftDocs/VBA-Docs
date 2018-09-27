@@ -27,7 +27,7 @@ Occurs after a slide show ends, immediately after the last  **[SlideShowNextSlid
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The presentation closed when this event occurs.|
 

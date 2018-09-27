@@ -27,7 +27,7 @@ Inserts a symbol in place of the specified selection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _CharacterNumber_|Required| **Long**|The character number for the specified symbol. This value will always be the sum of 31 and the number that corresponds to the position of the symbol in the table of symbols (counting from left to right). For example, to specify a delta character at position 37 in the table of symbols in the Symbol font, set CharacterNumber to 68.|
 | _Font_|Optional| **Variant**|The name of the font that contains the symbol.|

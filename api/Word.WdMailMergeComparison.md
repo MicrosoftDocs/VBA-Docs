@@ -14,7 +14,7 @@ Specifies the type of comparison to use when a condition is added to a mail merg
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdMergeIfEqual**|0|A value is output if the mail merge field is equal to a value.|
 | **wdMergeIfGreaterThan**|3|A value is output if the mail merge field is greater than a value.|

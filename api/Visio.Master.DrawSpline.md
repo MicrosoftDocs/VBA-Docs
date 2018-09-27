@@ -27,13 +27,13 @@ Creates a new shape whose path follows a given sequence of points.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _xyArray()_|Required| **Double**|An array of alternating  _x_ and _y_ values that define points in the new shape's path.|
 | _Tolerance_|Required| **Double**|How closely the path of the new shape must approximate the given points.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|
 
-### Return Value
+### Return value
 
 Shape
 

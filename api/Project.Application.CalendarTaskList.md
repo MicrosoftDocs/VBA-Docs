@@ -27,11 +27,11 @@ Displays the list of tasks for a specific date.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|The date of the desired day. The default value is the date of the currently selected day in the Calendar.|
 
-### Return Value
+### Return value
 
  **Boolean**
 

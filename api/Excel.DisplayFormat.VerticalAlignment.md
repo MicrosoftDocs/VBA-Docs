@@ -23,7 +23,7 @@ Returns a value that represents the vertical alignment of the associated  **[Ran
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return Value
+### Return value
 
 Variant
 

@@ -14,7 +14,7 @@ Specifies the vertical alignment for the object.
 
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlVAlignBottom**|-4107|Bottom|
 | **xlVAlignCenter**|-4108|Center|

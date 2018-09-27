@@ -27,7 +27,7 @@ Creates a baseline plan.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if the baseline plan is set for all tasks. **False** if the baseline plan is set only for the selected tasks. The default value is **True**.|
 | _Copy_|Optional|**Long**| The fields to copy. Can be one of the [PjSaveBaselineFrom](Project.PjSaveBaselineFrom.md) constants.|
@@ -36,7 +36,7 @@ Creates a baseline plan.
 | _RollupFromSubtasks_|Optional|**Boolean**|**True** if summary task baseline data are rolled up from subtasks.|
 | _SetDefaults_|Optional|**Boolean**|**True** if the values of **RollupToSummaryTasks** or **RollupFromSubtasks** are used as default values for new projects.|
 
-### Return Value
+### Return value
 
  **Boolean**
 
