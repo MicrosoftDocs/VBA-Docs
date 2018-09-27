@@ -28,8 +28,6 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 The  **IMESentenceMode** property accepts the [AcImeSentenceMode enumeration (Access)](Access.AcImeSentenceMode.md) enumeration.
 
-
-
 |**Setting**|**Description**|**Visual Basic**|
 |:-----|:-----|:-----|
 |Normal|(Default) Set IME Sentence Mode to ?Normal? mode.|0|
