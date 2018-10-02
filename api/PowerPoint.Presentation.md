@@ -41,7 +41,7 @@ Presentations("Sample Presentation").Slides.Add 1, 1
 
 Note that if multiple presentations with the same name are open, the first presentation in the collection with the specified name is returned.
 
-Use the [ActivePresentation](./PowerPoint.Application.ActivePresentation.md)property to return the presentation in the active window. The following example saves the active presentation.
+Use the [ActivePresentation](./PowerPoint.Application.ActivePresentation.md) property to return the presentation in the active window. The following example saves the active presentation.
 
 
 
@@ -50,7 +50,7 @@ Use the [ActivePresentation](./PowerPoint.Application.ActivePresentation.md)prop
 ActivePresentation.Save
 ```
 
-Use the [Presentation](./PowerPoint.DocumentWindow.Presentation.md)property to return the presentation that's in the specified document window or slide show window. The following example displays the name of the slide show running in slide show window one.
+Use the [Presentation](./PowerPoint.DocumentWindow.Presentation.md) property to return the presentation that's in the specified document window or slide show window. The following example displays the name of the slide show running in slide show window one.
 
 
 
