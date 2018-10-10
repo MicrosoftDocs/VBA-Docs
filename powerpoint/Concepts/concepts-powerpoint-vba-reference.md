@@ -2,8 +2,7 @@
 title: Concepts (PowerPoint VBA reference)
 ms.prod: powerpoint
 ms.assetid: a129bddc-ed5d-ab14-cdeb-e4f73e08e7a1
-ROBOTS: NOINDEX
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
@@ -11,15 +10,15 @@ ms.date: 06/08/2017
 
 This section contains the following overviews about programmability in PowerPoint:
 
-
-
-- [Control and Dialog Box Events](control-and-dialog-box-events-powerpoint.md)
+- [Control and dialog box events](control-and-dialog-box-events-powerpoint.md)
     
-- [Language-Specific Properties and Methods](language-specific-properties-and-methods-powerpoint.md)
+- [Language-specific properties and methods](language-specific-properties-and-methods-powerpoint.md)
     
-- [Learn About Language-Specific Information](learn-about-language-specific-information-powerpoint.md)
+- [Learn about language-specific information](learn-about-language-specific-information-powerpoint.md)
     
-- [OLE Programmatic Identifiers](ole-programmatic-identifiers-powerpoint.md)
+- [OLE programmatic identifiers](ole-programmatic-identifiers-powerpoint.md)
     
 
+## See also
 
+- [PowerPoint Object Model](../api/overview/powerpoint/object-model.md)
