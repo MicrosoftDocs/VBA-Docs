@@ -26,8 +26,6 @@ This section provides important concepts for developing custom Access solutions.
 - XML
 - Miscellaneous
 
-## See also 
 
-- [Access Object Model](../api/overview/access/object-model.md)
 
 

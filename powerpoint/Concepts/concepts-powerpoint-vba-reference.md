@@ -19,6 +19,4 @@ This section contains the following overviews about programmability in PowerPoin
 - [OLE programmatic identifiers](ole-programmatic-identifiers-powerpoint.md)
     
 
-## See also
 
-- [PowerPoint Object Model](../api/overview/powerpoint/object-model.md)

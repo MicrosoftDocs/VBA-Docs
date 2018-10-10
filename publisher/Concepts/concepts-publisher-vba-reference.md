@@ -17,6 +17,3 @@ This section contains the following overviews about programmability in Publisher
 -  [Using events with the Document object](using-events-with-the-document-object-publisher.md)
     
 
-## See also
-
-- [Publisher Object Model](../api/overview/publisher/object-model.md)

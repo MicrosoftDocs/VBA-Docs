@@ -19,6 +19,3 @@ This section contains the following overviews about programmability in Word. To 
 - [Miscellaneous](modifying-a-word-command.md)
     
 
-## See also
-
-- [Word Object Model](../api/overview/word/object-model.md)

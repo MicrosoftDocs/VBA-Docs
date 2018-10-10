@@ -26,6 +26,3 @@ This navigation page contains links to overview topics about programmability in 
 - [Visio Type Library](about-the-visio-type-library.md)
 
     
-## See also
-
-- [Visio Object Model](../api/overview/visio/object-model.md)

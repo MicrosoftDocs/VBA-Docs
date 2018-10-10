@@ -16,18 +16,16 @@ This section provides important concepts for developing custom Outlook solutions
 - Attachments
 - Categories and conversations
 - Electronic business cards
-- [Forms and message classes](./Forms/forms-and-message-classes.md)
-- [Fields and controls](./Forms/fields-and-controls.md)
-- [Outlook controls](./Forms/outlook-controls.md)
+- [Forms and message classes](../Forms/forms-and-message-classes.md)
+- [Fields and controls](../Forms/fields-and-controls.md)
+- [Outlook controls](../Forms/outlook-controls.md)
 - Outlook forms
 - Customizing forms
 - Creating form regions
 - Configuring forms
 - Specifying form behavior
-- [Basic control tasks](./Specifying-Form-Behavior/basic-control-tasks.md)
-- [Secondary control tasks](./Specifying-Form-Behavior/secondary-control-tasks.md)
+- [Basic control tasks](../Specifying-Form-Behavior/basic-control-tasks.md)
+- [Secondary control tasks](../Specifying-Form-Behavior/secondary-control-tasks.md)
 
-## See also
 
-- [Outlook Object Model](../api/overview/outlook/object-model.md)
 

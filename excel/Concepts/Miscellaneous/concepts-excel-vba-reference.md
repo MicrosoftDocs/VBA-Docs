@@ -24,7 +24,3 @@ This section provides important concepts for developing custom Excel solutions. 
 - Sparklines
 - Excel performance
 
-## See also
-
-- [Excel Object Model](../api/overview/excel/object-model.md)
-- [Graph Visual Basic reference](../api/overview/excel/graph-visual-basic-reference.md)

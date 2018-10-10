@@ -17,6 +17,7 @@ Use the table of contents in the left navigation to view the topics in this sect
 
 ## See also
 
+- [Library reference enumerations](enumerations-office.md)
 - [Getting started with VBA in Office](../../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
 - [What's new for VBA in Office 2016](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
 
