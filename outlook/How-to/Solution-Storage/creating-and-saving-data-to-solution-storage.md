@@ -20,7 +20,7 @@ The Outlook object model supports creating and storing solution data as hidden i
     
 
 In these cases,  **Folder.GetStorage** will return an error: "Cannot create StorageItem in this folder."
-When you call  **Folder.GetStorage** specifying a subject or a message class and the specified item does not exist in the folder, the call creates and returns a **StorageItem** object with the message class **IPM.Storage**; if you specified an Entry ID, howwever, the call will return the error, "The operation failed. An object could not be found."
+When you call  **Folder.GetStorage** specifying a subject or a message class and the specified item does not exist in the folder, the call creates and returns a **StorageItem** object with the message class **IPM.Storage**; if you specified an Entry ID, however, the call will return the error, "The operation failed. An object could not be found."
 
 ## Obtaining an Existing StorageItem
 
