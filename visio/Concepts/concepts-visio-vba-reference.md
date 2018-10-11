@@ -2,42 +2,27 @@
 title: Concepts (Visio VBA reference)
 ms.prod: visio
 ms.assetid: dd3742ff-6753-11b5-dbbc-cc6ff467146f
-ROBOTS: NOINDEX
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
 # Concepts (Visio VBA reference)
 
-This navigation page contains links to overview topics about programmability in Visio. Click the links below or use the TOC to navigate to the following topics:
+This navigation page contains links to overview topics about programmability in Visio. Select a link or use the TOC to navigate to the following topics:
 
+- [Automation](about-automation-visio.md)
+- [Connecting to data in Visio](about-connecting-to-data-in-visio.md)
+- [Displaying data graphically](about-displaying-data-graphically-visio.md)
+- [DoCmd/DOCMD commands](docmd-docmd-commands.md)
+- [Event codes](event-codesvisio.md)
+- [Extending the functionality of Visio](about-extending-the-functionality-of-visio.md)
+- [Linking shapes to data](about-linking-shapes-to-data.md)
+- [Sample VBA macro](sample-vba-macro-visio.md)
+- [Security settings and running code in Visio](about-security-settings-and-running-code-in-visio.md)
+- [This Document object](about-the-thisdocument-object-visio.md)
+- [Units of measure](about-units-of-measure-visio.md)
+- [Use the Visio Drawing control in your application](about-using-the-visio-drawing-control-in-your-application.md)
+- [Visio Drawing control](about-the-visio-drawing-control.md)
+- [Visio Type Library](about-the-visio-type-library.md)
 
--  [About Automation](about-automation-visio.md)
     
--  [About Connecting to Data in Visio](about-connecting-to-data-in-visio.md)
-    
--  [About Displaying Data Graphically](about-displaying-data-graphically-visio.md)
-    
--  [About Extending the Functionality of Visio](about-extending-the-functionality-of-visio.md)
-    
--  [About Linking Shapes to Data](about-security-settings-and-running-code-in-visio.md)
-    
--  [About Security Settings and Running Code in Visio](about-security-settings-and-running-code-in-visio.md)
-    
--  [About the ThisDocument Object](about-the-thisdocument-object-visio.md)
-    
--  [About the Visio Drawing Control](about-the-visio-drawing-control.md)
-    
--  [About the Visio Type Library](about-the-visio-type-library.md)
-    
--  [About Units of Measurement](about-units-of-measure-visio.md)
-    
--  [About Using the Visio Drawing Control in Your Application](about-using-the-visio-drawing-control-in-your-application.md)
-    
--  [DoCmd/DOCMD Commands](docmd-docmd-commands.md)
-    
--  [Event Codes](event-codesvisio.md)
-    
--  [Sample VBA Macro](sample-vba-macro-visio.md)
-    
-

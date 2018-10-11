@@ -3,14 +3,11 @@ title: Object model maps (Project)
 ms.prod: project-server
 ms.assetid: 659da12b-2d4d-4271-847e-51c64eade86a
 ROBOTS: NOINDEX
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
 # Object model maps (Project)
-
-## In this section
-
 
 - [Project object model](project-object-model.md)
     

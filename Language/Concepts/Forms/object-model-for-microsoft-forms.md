@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225255
 ms.prod: office
 ms.assetid: c23dd224-19e3-f45f-5f95-30849d21a7f9
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 The Microsoft Forms object model includes the following types of object:
 
-
+Use the table of contents in the left navigation to view the topics in this section.
 
 - Controls
     

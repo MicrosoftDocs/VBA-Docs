@@ -1,5 +1,5 @@
 ---
-title: On Error statement
+title: On Error statement - VBA
 keywords: vblr6.chm1008985
 f1_keywords:
 - vblr6.chm1008985
@@ -7,8 +7,6 @@ ms.prod: office
 ms.assetid: 5f723da4-34bd-0a29-11b6-f6986d701570
 ms.date: 08/24/2018
 ---
-
-
 # On Error statement
 
 Enables an error-handling routine and specifies the location of the routine within a [procedure](../../Glossary/vbe-glossary.md#procedure); can also be used to disable an error-handling routine.

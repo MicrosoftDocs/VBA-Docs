@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Type Statement
 
-Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a user-defined[data type](../../Glossary/vbe-glossary.md#data-type) containing one or more elements.
+Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a user-defined [data type](../../Glossary/vbe-glossary.md#data-type) containing one or more elements.
 
 ## Syntax
 
@@ -26,7 +26,7 @@ The  **Type** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**Public**|Optional. Used to declare [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) that are available to all[procedures](../../Glossary/vbe-glossary.md#procedure) in all[modules](../../Glossary/vbe-glossary.md#module) in all[projects](../../Glossary/vbe-glossary.md#project).|
+|**Public**|Optional. Used to declare [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) that are available to all [procedures](../../Glossary/vbe-glossary.md#procedure) in all [modules](../../Glossary/vbe-glossary.md#module) in all [projects](../../Glossary/vbe-glossary.md#project).|
 |**Private**|Optional. Used to declare user-defined types that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
 | _varname_|Required. Name of the user-defined type; follows standard [variable](../../Glossary/vbe-glossary.md#variable) naming conventions.|
 | _elementname_|Required. Name of an element of the user-defined type. Element names also follow standard variable naming conventions, except that [keyword](../../Glossary/vbe-glossary.md#keyword)s can be used.|
