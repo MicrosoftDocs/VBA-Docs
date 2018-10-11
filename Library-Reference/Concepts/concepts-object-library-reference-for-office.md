@@ -2,8 +2,7 @@
 title: Concepts (Object library reference for Office)
 ms.prod: office
 ms.assetid: 96bfd6b4-62c0-c4e8-252d-046d9993761f
-ROBOTS: NOINDEX
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
@@ -11,17 +10,19 @@ ms.date: 06/08/2017
 
 This section contains the following overviews about programmability in Office:
 
+- [Customize the Office Fluent ribbon by using a Managed COM add-in](customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
+- [Customize the Office Fluent ribbon by using an open XML formats file](customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
+- [Getting help on Macintosh keywords](getting-help-on-macintosh-keywords-office.md)
+- [Getting started with VBA in Office](getting-started-with-vba-in-office.md)
+- [How AutoSave impacts add-ins and macros](how-autosave-impacts-addins-and-macros.md)
+- [Office VBA Object library reference](office-vba-object-library-reference.md)
+- [OLE programmatic identifiers](ole-programmatic-identifiers-office.md)
+- [Overview of the Office Fluent ribbon](overview-of-the-office-fluent-ribbon.md)
+- [Security notes for Office solution developers](security-notes-for-microsoft-office-solution-developers.md)
+- [Use the Document Inspector](using-the-document-inspector.md)
+- [What's new for VBA in Office 2016](what-s-new-for-vba-in-office-2016.md)
 
-- [Getting Help on Macintosh Keywords](getting-help-on-macintosh-keywords-office.md)
-    
-- [OLE Programmatic Identifiers](ole-programmatic-identifiers-office.md)
-    
-- [Overview of the Office Fluent Ribbon](overview-of-the-office-fluent-ribbon.md)
-    
-- [Office Fluent Ribbon Customization in Microsoft Access](http://msdn.microsoft.com/library/4e0f7dcf-d3b4-35c5-ee77-9e3c9720b05f%28Office.15%29.aspx)
-    
-- [Using the Document Inspector](using-the-document-inspector.md)
-    
-- [Security Notes for Microsoft Office Solutions Development](security-notes-for-microsoft-office-solution-developers.md)
+
+
     
 

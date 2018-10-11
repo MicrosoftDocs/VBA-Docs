@@ -2,7 +2,7 @@
 title: Properties Overview
 ms.prod: outlook
 ms.assetid: 242c9e89-a0c5-ff89-0d2a-410bd42a3461
-ms.date: 06/08/2017
+ms.date: 10/10/2018
 ---
 
 
