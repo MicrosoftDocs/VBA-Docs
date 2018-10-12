@@ -36033,7 +36033,6 @@
 #### [Getting help on Macintosh keywords](../Library-Reference/Concepts/getting-help-on-macintosh-keywords-office.md)
 #### [Getting started with VBA in Office](../Library-Reference/Concepts/getting-started-with-vba-in-office.md)
 #### [How AutoSave impacts add-ins and macros](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
-#### [Office VBA Object library reference](../Library-Reference/Concepts/office-vba-object-library-reference.md)
 #### [OLE programmatic identifiers](../Library-Reference/Concepts/ole-programmatic-identifiers-office.md)
 #### [Overview of the Office Fluent ribbon](../Library-Reference/Concepts/overview-of-the-office-fluent-ribbon.md)
 #### [Security notes for Office solution developers](../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md)
