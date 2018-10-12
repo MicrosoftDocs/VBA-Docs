@@ -147,6 +147,30 @@
         {
             "source_path": "library-reference/concepts/office-vba-object-library-reference.md",
             "redirect_url": "/office/vba/api/overview/library-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/data-access-in-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/access-developer-extensions.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/access-forms-how-do-i.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/access-miscellaneous-how-do-i.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/access-reports-how-do-i.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/access-user-interface-how-do-i.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
         }
                 
     ]

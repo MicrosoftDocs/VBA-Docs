@@ -6,7 +6,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Data Access in Access
+# Data Access in Access  
 
 This page links to help on widely used data-access tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i-access-vba-reference.md).
 

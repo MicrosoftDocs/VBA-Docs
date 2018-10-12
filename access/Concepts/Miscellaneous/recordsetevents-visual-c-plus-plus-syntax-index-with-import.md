@@ -2,7 +2,7 @@
 title: RecordsetEvents (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: aa99a006-3968-3853-030d-ef143c4ef7b0
-ms.date: 06/08/2017
+ms.date: 10/12/2018
 ---
 
 

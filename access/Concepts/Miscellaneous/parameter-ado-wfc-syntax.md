@@ -2,7 +2,7 @@
 title: Parameter (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: e5e2ec60-4d62-5959-a8a0-d1f94b54fb7f
-ms.date: 06/08/2017
+ms.date: 10/12/2018
 ---
 
 

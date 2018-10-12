@@ -2,7 +2,7 @@
 title: ObjectProxy (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 8e3224b7-0b1d-1e08-eaa7-ceb0b6f5411c
-ms.date: 06/08/2017
+ms.date: 10/12/2018
 ---
 
 
@@ -16,7 +16,7 @@ An **ObjectProxy** object represents a server, and is returned by the **createOb
 
 ## Methods
 
-### Call Method (ADO/WFC Syntax)
+### Call method
 
 Invokes a method on the server represented by the ObjectProxy. Optionally, method arguments may be passed as an array of objects.
 
@@ -32,24 +32,24 @@ public Object ObjectProxy .call( String method , Object[] args )
 
 ## Returns
 
-- Object
+Object
     
 - An object resulting from invoking the method.
     
 
 ## Parameters
 
-- _ObjectProxy_
+_ObjectProxy_
     
-    - An **ObjectProxy** object that represents the server.
+- An **ObjectProxy** object that represents the server.
     
-- _method_
+_method_
     
-    - A String, containing the name of the method to invoke on the server.
+- A String, containing the name of the method to invoke on the server.
     
-- _args_
+_args_
     
-    - Optional. An array of objects that are arguments to the method on the server. Java data types are automatically converted to data types suitable for use on the server.
+- Optional. An array of objects that are arguments to the method on the server. Java data types are automatically converted to data types suitable for use on the server.
     
 ## See also
 
