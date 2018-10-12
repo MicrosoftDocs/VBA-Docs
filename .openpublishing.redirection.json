@@ -171,7 +171,119 @@
         {
             "source_path": "access/concepts/miscellaneous/access-user-interface-how-do-i.md",
             "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/ado-event-instantiation-by-language.md",
+            "redirect_url": "https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/ado-event-instantiation-by-language-ado"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/ado-programmer-s-reference.md",
+            "redirect_url": "https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/ado-programmer-s-reference-topics"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/controls-how-do-i-topics.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/controls-in-access-reports.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/criteria-expressions.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/criteria-expressions-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/date-time.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/design.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/design-in-access-reports.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/error-codes.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/events-access-forms-how-do-i-topics.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/events-in-access-reports.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/forms-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/how-do-i-access-vba-reference.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/maintenance.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/miscellaneous-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/miscellaneous-topics-in-access-user-interface.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/printing.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/printing-in-access-reports.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/reports-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/setting-properties-and-options.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/setting-references.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/sql-statements.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/structured-query-language-sql.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/user-input.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/user-interface-access.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/windows-api.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/xml.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
         }
-                
+
     ]
 }
