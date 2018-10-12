@@ -1,5 +1,5 @@
 ---
-title: IN Clause (Microsoft Access SQL)
+title: IN clause (Microsoft Access SQL)
 ROBOTS: INDEX
 keywords: jetsql40.chm5277567
 f1_keywords:
@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IN Clause (Microsoft Access SQL)
+# IN clause (Microsoft Access SQL)
 
 **Applies to:** Access 2013 | Access 2016
 

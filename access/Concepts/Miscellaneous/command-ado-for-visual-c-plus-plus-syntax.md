@@ -12,7 +12,7 @@ ms.date: 10/12/2018
 
 ## Methods
 
-[Cancel](http://msdn.microsoft.com/library/747edc04-a5cc-3631-2d0b-82e7e41a76b7%28Office.15%29.aspx)(void)
+[Cancel](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/cancel-method-ado)(void)
 
 [CreateParameter](http://msdn.microsoft.com/library/cf080a0b-75d2-dcdf-2715-10af147358e9%28Office.15%29.aspx)(BSTR  _Name,_ DataTypeEnum _Type,_ ParameterDirectionEnum _Direction,_ long _Size,_ VARIANT _Value,_ _ADOParameter ** _ppiprm_ )
 

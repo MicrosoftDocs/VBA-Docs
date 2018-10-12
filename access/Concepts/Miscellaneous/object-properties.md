@@ -40,7 +40,7 @@ The objects for which you can display properties in the Database window are tabl
 
 The following **Object** properties are available from the Database window.
 
-|**Property**|**Description**|
+|Property|Description|
 |:-----|:-----|
 |**Name**|This is the name of the object and contains the setting from the object's **Name** property.|
 |**Type**|This is the object's type. Microsoft Access object types are Form, Macro, Module, Query, Report, and Table.|

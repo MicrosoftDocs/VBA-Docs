@@ -1,5 +1,5 @@
 ---
-title: Ignore Nulls Property
+title: Ignore Nulls property
 keywords: acmain11.chm7025
 f1_keywords:
 - acmain11.chm7025
@@ -9,19 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Ignore Nulls Property
-
-  
+# Ignore Nulls property
 
 **Applies to:** Access 2013 | Access 2016
-
-
 
 You can use the IgnoreNulls property to specify that records with Null values in the indexed fields not be included in the index.
 
 ## Settings
-
-
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
