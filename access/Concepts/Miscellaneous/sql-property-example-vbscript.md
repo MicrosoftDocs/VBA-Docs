@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) SQL parameter at design time and bind it to a data-aware control using the database called _Pubs_, which ships with Microsoft SQL Server. To test the example, copy the following code into a normal ASP document named **SQLDesignVBS.asp** on your Web server.
+The following code shows how to set the [RDS.DataControl](https://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) SQL parameter at design time and bind it to a data-aware control using the database called _Pubs_, which ships with Microsoft SQL Server. To test the example, copy the following code into a normal ASP document named **SQLDesignVBS.asp** on your Web server.
 
 ```vb
 <!-- BeginSQLDesignVBS --><%@ Language=VBScript %>

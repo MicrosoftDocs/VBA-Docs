@@ -86,7 +86,7 @@ This page links to help on widely used form-related tasks. To view other categor
 ## Design
 
 
-- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/7dcdfa42-3eaa-43f9-b99d-56b2cac97f84%28Office.15%29.aspx)
+- [How to: Apply a Custom Ribbon to a Form or Report](https://msdn.microsoft.com/library/7dcdfa42-3eaa-43f9-b99d-56b2cac97f84%28Office.15%29.aspx)
     
       - Describes how to display a custom ribbon when a particular form or report is opened.
     

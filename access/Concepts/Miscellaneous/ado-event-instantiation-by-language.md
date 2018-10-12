@@ -14,17 +14,17 @@ ms.date: 06/08/2017
 Each programming language creates instances of ADO events differently. All of the following examples create a **ConnectComplete** event handler.
 
 
-- [Visual Basic](http://msdn.microsoft.com/library/9d153b6c-c860-7350-cb3c-b9bd08f75ba8%28Office.15%29.aspx)
+- [Visual Basic](https://msdn.microsoft.com/library/9d153b6c-c860-7350-cb3c-b9bd08f75ba8%28Office.15%29.aspx)
     
-- [Visual C++](http://msdn.microsoft.com/library/31d27968-e7bd-02fa-efad-26039bea30b8%28Office.15%29.aspx)
+- [Visual C++](https://msdn.microsoft.com/library/31d27968-e7bd-02fa-efad-26039bea30b8%28Office.15%29.aspx)
     
-- [Visual J++](http://msdn.microsoft.com/library/5c05db85-cdf2-9a73-fbc5-3dbfa6752376%28Office.15%29.aspx)
+- [Visual J++](https://msdn.microsoft.com/library/5c05db85-cdf2-9a73-fbc5-3dbfa6752376%28Office.15%29.aspx)
     
-- [VBScript](http://msdn.microsoft.com/library/070ae822-c0e4-3923-3a9c-69474981728b%28Office.15%29.aspx)
+- [VBScript](https://msdn.microsoft.com/library/070ae822-c0e4-3923-3a9c-69474981728b%28Office.15%29.aspx)
     
-- [JScript](http://msdn.microsoft.com/library/78da203c-1342-1a04-ae53-c1fb714d18b5%28Office.15%29.aspx)
+- [JScript](https://msdn.microsoft.com/library/78da203c-1342-1a04-ae53-c1fb714d18b5%28Office.15%29.aspx)
     
-- [ADO/WFC](http://msdn.microsoft.com/library/73206be8-6515-79e4-e904-cc2d0d59411d%28Office.15%29.aspx)
+- [ADO/WFC](https://msdn.microsoft.com/library/73206be8-6515-79e4-e904-cc2d0d59411d%28Office.15%29.aspx)
     
 ## See also
 
