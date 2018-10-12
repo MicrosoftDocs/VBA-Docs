@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This code example creates a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) on the server side. It has two columns with four rows each. Cut and paste the following code to Notepad or another text editor and save it as **CreateRecordsetVBS.asp**.
+This code example creates a [Recordset](https://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) on the server side. It has two columns with four rows each. Cut and paste the following code to Notepad or another text editor and save it as **CreateRecordsetVBS.asp**.
 
 
 ```vb

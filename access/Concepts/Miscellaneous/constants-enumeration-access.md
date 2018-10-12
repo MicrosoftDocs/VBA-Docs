@@ -13,13 +13,7 @@ ms.date: 06/08/2017
 
 # Constants enumeration (Access)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
-
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

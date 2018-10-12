@@ -1,5 +1,5 @@
 ---
-title: Wait For Post Processing
+title: Wait For Post Processing property
 keywords: vbaac10.chm5991
 f1_keywords:
 - vbaac10.chm5991
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Wait For Post Processing
+# Wait For Post Processing property
 
   
 

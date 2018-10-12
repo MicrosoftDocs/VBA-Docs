@@ -15,12 +15,12 @@ Indicates the type of the key.
 
 ## Settings and return values
 
-Sets or returns a **Long** value that can be one of the [KeyTypeEnum](http://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
+Sets or returns a **Long** value that can be one of the [KeyTypeEnum](https://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
 
 
 ## Remarks
 
-This property is read-only on [Key](http://msdn.microsoft.com/library/727198ec-57d2-7766-790c-370beb931de6%28Office.15%29.aspx) objects already appended to a collection.
+This property is read-only on [Key](https://msdn.microsoft.com/library/727198ec-57d2-7766-790c-370beb931de6%28Office.15%29.aspx) objects already appended to a collection.
 
 ## See also
 

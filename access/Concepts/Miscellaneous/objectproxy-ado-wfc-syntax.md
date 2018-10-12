@@ -2,7 +2,7 @@
 title: ObjectProxy (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 8e3224b7-0b1d-1e08-eaa7-ceb0b6f5411c
-ms.date: 06/08/2017
+ms.date: 10/12/2018
 ---
 
 
@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-An **ObjectProxy** object represents a server, and is returned by the **createObject** method of the [DataSpace](http://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) object. The ObjectProxy class has one method, **call**, which can invoke a method on the server and return an object resulting from that invocation.
+An **ObjectProxy** object represents a server, and is returned by the **createObject** method of the [DataSpace](https://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) object. The ObjectProxy class has one method, **call**, which can invoke a method on the server and return an object resulting from that invocation.
 
 **package com.ms.wfc.data**
 
 ## Methods
 
-### Call Method (ADO/WFC Syntax)
+### Call method
 
 Invokes a method on the server represented by the ObjectProxy. Optionally, method arguments may be passed as an array of objects.
 
@@ -32,24 +32,24 @@ public Object ObjectProxy .call( String method , Object[] args )
 
 ## Returns
 
-- Object
+Object
     
 - An object resulting from invoking the method.
     
 
 ## Parameters
 
-- _ObjectProxy_
+_ObjectProxy_
     
-    - An **ObjectProxy** object that represents the server.
+- An **ObjectProxy** object that represents the server.
     
-- _method_
+_method_
     
-    - A String, containing the name of the method to invoke on the server.
+- A String, containing the name of the method to invoke on the server.
     
-- _args_
+_args_
     
-    - Optional. An array of objects that are arguments to the method on the server. Java data types are automatically converted to data types suitable for use on the server.
+- Optional. An array of objects that are arguments to the method on the server. Java data types are automatically converted to data types suitable for use on the server.
     
 ## See also
 

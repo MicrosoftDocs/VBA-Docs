@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 The criteria expression in a Find method is attempting to compare a field with a value whose data type does not match the field's data type.
 
-For more information about this error, see [Type mismatch (Error 13)](http://msdn.microsoft.com/library/cbc7e902-b468-c335-5620-1ff9a2026b9b%28Office.15%29.aspx).
+For more information about this error, see [Type mismatch (Error 13)](https://msdn.microsoft.com/library/cbc7e902-b468-c335-5620-1ff9a2026b9b%28Office.15%29.aspx).
 
 ## See also
 
