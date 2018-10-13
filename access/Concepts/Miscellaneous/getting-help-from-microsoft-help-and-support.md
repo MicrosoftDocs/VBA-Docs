@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 If you have additional questions, you can find more information about how to resolve problems by accessing the [Microsoft Help and Support](http://support.microsoft.com/) Web site.
 
-For additional technical resources and information about developing with Microsoft products and technologies, visit the [MSDN Online](http://msdn.microsoft.com/) Web site.
+For additional technical resources and information about developing with Microsoft products and technologies, visit the [MSDN Online](https://msdn.microsoft.com/) Web site.
 
 ## See also
 

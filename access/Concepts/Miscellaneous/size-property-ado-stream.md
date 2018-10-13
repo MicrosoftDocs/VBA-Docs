@@ -20,7 +20,7 @@ Returns a **Long** value that specifies the size of the stream in number of byte
 
 ## Remarks
 
-**Size** can be used only with open [Stream](http://msdn.microsoft.com/library/d49b1514-e0b4-0aca-d5c2-8266f3f4fe65%28Office.15%29.aspx) objects.
+**Size** can be used only with open [Stream](https://msdn.microsoft.com/library/d49b1514-e0b4-0aca-d5c2-8266f3f4fe65%28Office.15%29.aspx) objects.
 
 > [!NOTE] 
 > Any number of bits can be stored in a **Stream** object, limited only by system resources. If the **Stream** contains more bits than can be represented by a **Long** value, **Size** is truncated and therefore does not accurately represent the length of the **Stream**.

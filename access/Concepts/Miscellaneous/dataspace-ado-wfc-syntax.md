@@ -1,47 +1,37 @@
 ---
-title: DataSpace (ADO/WFC Syntax)
+title: DataSpace (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 52bc0aa1-b3e6-4d2c-9a73-a9f185d028c4
-ms.date: 06/08/2017
+ms.date: 10/12/2018
 ---
 
 
-# DataSpace (ADO/WFC Syntax)
-
-  
+# DataSpace (ADO/WFC syntax)
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **createObject** method of the **DataSpace** class specifies both a business object to process client application requests ( _progid_ ) and the communications protocol and server ( _connection_ ). **createObject** returns an [ObjectProxy](objectproxy-ado-wfc-syntax.md) object that represents the server.
+The **createObject** method of the **DataSpace** class specifies both a business object to process client application requests ( _progid_ ) and the communications protocol and server ( _connection_ ). **createObject** returns an [ObjectProxy](objectproxy-ado-wfc-syntax.md) object that represents the server.
 
- **package com.ms.wfc.data**
- **Constructor**
+**package com.ms.wfc.data**
 
+## Constructor
 
-
-```
- 
+```vb
 public DataSpace() 
 
 ```
 
- **Methods**
+### Methods
 
-
-
-```
- 
+```vb
 public static ObjectProxyDataSpace. Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcreateobj_HV10294242.xml(String 
  progid , String connection ) 
 
 ```
 
- **Properties**
+### Properties
 
-
-
-```
- 
+```vb
 public static int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprointernettimeout_HV10294450.xml() 
 public static void setInternetTimeout(int plInetTimeout ) 
 

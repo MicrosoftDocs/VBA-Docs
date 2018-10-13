@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 The expression you typed is not valid for the reason indicated in the message. Make sure you have typed field names and punctuation correctly, and then try the operation again.
 
-For more information, see [Syntax error](http://msdn.microsoft.com/library/ca84aa92-e41a-1167-ab66-032ab9626005%28Office.15%29.aspx).
+For more information, see [Syntax error](https://msdn.microsoft.com/library/ca84aa92-e41a-1167-ab66-032ab9626005%28Office.15%29.aspx).
 
 ## See also
 

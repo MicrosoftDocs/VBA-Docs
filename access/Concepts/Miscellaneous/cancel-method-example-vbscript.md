@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The following example shows how to read the [Cancel](http://msdn.microsoft.com/library/747edc04-a5cc-3631-2d0b-82e7e41a76b7%28Office.15%29.aspx) method at run time. Cut and paste the following code to Notepad or another text editor and save it as **CancelVBS.asp**. You can view the result in any client browser.
+The following example shows how to read the [Cancel](https://msdn.microsoft.com/library/747edc04-a5cc-3631-2d0b-82e7e41a76b7%28Office.15%29.aspx) method at run time. Cut and paste the following code to Notepad or another text editor and save it as **CancelVBS.asp**. You can view the result in any client browser.
 
 ```vb
 

@@ -1,5 +1,5 @@
 ---
-title: Language-Specific Properties and Methods
+title: Language-specific properties and methods (Access)
 keywords: vbaac10.chm5280133
 f1_keywords:
 - vbaac10.chm5280133
@@ -9,31 +9,25 @@ ms.date: 06/08/2017
 ---
 
 
-# Language-Specific Properties and Methods
+# Language-specific properties and methods (Access)
 
-  
-
-**Applies to:** Access 2013 | Access 2016
-
-## Language-Specific Properties and Methods
+**Applies to**: Access 2013 | Access 2016
 
 Properties and methods that are available only in Asian or right-to-left languages are listed in the following table.
 
-
-
-|**Property or Method**|**Object**|
+|Property or method|Object|
 |:-----|:-----|
-|**[AsianLineBreak](http://msdn.microsoft.com/library/2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad%28Office.15%29.aspx)**|**TextBox**|
-|**[FuriganaControl](http://msdn.microsoft.com/library/7d70cffa-06bb-fa9d-686a-0031558aa5a3%28Office.15%29.aspx)**|**TextBox**|
-|**IMEHold**|**ComboBox, ListBox, TextBox**|
-|**IMEMode**|**ComboBox, Label, ListBox, TextBox**|
-|**IMESentenceMode**|**ComboBox, Label, ListBox, TextBox**|
-|**KeyboardLanguage**|**ComboBox, TextBox**|
-|**NumeralShapes**|**ComboBox, Label, ListBox, TextBox**|
-|**[Orientation](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)**|**Form**|
-|**[PostalAddress](http://msdn.microsoft.com/library/04fb29c5-909c-a0b8-a4aa-7701abc07037%28Office.15%29.aspx)**|**TextBox**|
-|**ReadingOrder**|**CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton**|
-|**ScrollBarAlign**|**ComboBox, ListBox, TextBox**|
+|[AsianLineBreak](https://docs.microsoft.com/office/vba/api/Access.TextBox.AsianLineBreak)|TextBox|
+|[FuriganaControl](https://docs.microsoft.com/office/vba/api/Access.TextBox.FuriganaControl)|TextBox|
+|IMEHold|ComboBox, ListBox, TextBox|
+|IMEMode|ComboBox, Label, ListBox, TextBox|
+|IMESentenceMode|ComboBox, Label, ListBox, TextBox|
+|KeyboardLanguage|ComboBox, TextBox|
+|NumeralShapes|ComboBox, Label, ListBox, TextBox|
+|[Orientation](https://docs.microsoft.com/office/vba/api/Access.Form.Orientation)|Form|
+|[PostalAddress](https://docs.microsoft.com/office/vba/api/Access.TextBox.PostalAddress)|TextBox|
+|ReadingOrder|CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton|
+|ScrollBarAlign|ComboBox, ListBox, TextBox|
 
 ## See also
 
