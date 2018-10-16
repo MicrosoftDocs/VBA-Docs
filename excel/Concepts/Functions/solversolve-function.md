@@ -39,7 +39,8 @@ The macro function must return 1 if Solver should stop (same as the  **Stop** bu
 If a Solver problem has not been completely defined,  **SolverSolve** returns the #N/A error value. Otherwise the Solver runs, and **SolverSolve** returns an integer value corresponding to the message that appears in the **Solver Results** dialog box:
 
 
-
+|Return Value|Message|
+|---|---|
 |0|Solver found a solution. All constraints and optimality conditions are satisfied.|
 |1|Solver has converged to the current solution. All constraints are satisfied.|
 |2|Solver cannot improve the current solution. All constraints are satisfied.|
@@ -58,7 +59,7 @@ If a Solver problem has not been completely defined,  **SolverSolve** returns th
 |16|Stop chosen when the maximum number of feasible [integer] subproblems was reached.|
 |17|Solver converged in probability to a global solution.|
 |18|All variables must have both upper and lower bounds.|
-|19|Variable bounds conflict in binary or alldifferent constraint.|
+|19|Variable bounds conflict in binary or all different constraint.|
 |20|Lower and upper bounds on variables allow no feasible solution.|
 
 ## Example
