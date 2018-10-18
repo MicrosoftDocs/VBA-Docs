@@ -2,7 +2,7 @@
 title: Support for Keeping Add-ins Enabled
 ms.prod: outlook
 ms.assetid: 63cd5a19-6c46-42f9-8fe2-9ce943bf106c
-ms.date: 06/08/2017
+ms.date: 10/18/2018
 ---
 
 
@@ -32,14 +32,14 @@ Below are some suggestions for improving add-in performance:
 
 ## System Administrator control over add-ins
 
-The user has control over which add-ins run on their computer. For system administrators, Outlook 2013 provides an enhanced level of control over add-ins using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy "List of Managed Add-ins". 
+The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy "List of Managed Add-ins". 
 
 The registry keys and settings are described in the following tables:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|Key|HKCU\Software\Policies\Microsoft\Office\15.0\Outlook\Resiliency\AddinList|
-|Description|This policy setting allows you to specify the list of managed add-ins are always enabled, always disabled (blocked), or configurable by the user.  **Note:** Here, the term "managed" refers to add-ins that are handled by the group policy, and does not relate to add-ins being developed in managed programming languages.|
+|Key|Office 2013:<br />HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\15.0\Outlook\Resiliency\AddinList<br /><br />Office 2016:<br />HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\Resiliency\AddinList|
+|Description|This policy setting allows you to specify the list of managed add-ins are always enabled, always disabled (blocked), or configurable by the user. **Note:** Here, the term "managed" refers to add-ins that are handled by the group policy, and does not relate to add-ins being developed in managed programming languages.|
 |DWORD|ProgID of the add-in|
 |Values|Specify the value as follows:0 = always disabled (blocked)1 = always enabled2 = configurable by the user and not blocked by the "Block all unmanaged add-ins" policy setting when enabled|
 
