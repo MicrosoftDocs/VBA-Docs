@@ -20,7 +20,7 @@ Suspends execution.
 ## Remarks
 
 You can place  **Stop** statements anywhere in [procedures](../../Glossary/vbe-glossary.md#procedure) to suspend execution. Using the **Stop** statement is similar to setting a [breakpoint](../../Glossary/vbe-glossary.md#breakpoint) in the code.
-The  **Stop** statement suspends execution, but unlike **End**, it doesn't close any files or clear[variables](../../Glossary/vbe-glossary.md#variable), unless it is in a compiled executable (.exe) file.
+The  **Stop** statement suspends execution, but unlike **End**, it doesn't close any files or clear [variables](../../Glossary/vbe-glossary.md#variable), unless it is in a compiled executable (.exe) file.
 
 ## Example
 
@@ -28,11 +28,11 @@ This example uses the  **Stop** statement to suspend execution for each iteratio
 
 
 ```vb
-Dim I 
-For I = 1 To 10 ' Start For...Next loop. 
- Debug.Print I ' Print I to the Immediate window. 
+Dim i As Long 
+For i = 1 To 10 ' Start For...Next loop. 
+ Debug.Print i ' Print i to the Immediate window. 
  Stop ' Stop during each iteration. 
-Next I 
+Next i 
 
 ```
 
