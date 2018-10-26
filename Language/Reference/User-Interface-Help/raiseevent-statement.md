@@ -52,39 +52,37 @@ The following example uses events to count off seconds during a demonstration of
 
 The class that raises an event is the event source, and the classes that implement the event are the sinks. An event source can have multiple sinks for the events it generates. When the class raises the event, that event is fired on every class that has elected to sink events for that instance of the object.
 
-The example also uses a form (`Form1`) with a button (`Command1`), a label (`Label1`), and two text boxes (`Text1` and `Text2`). When you click the button, the first text box displays "From Now" and the second starts to count seconds. When the full time (9.84 seconds) has elapsed, the first text box displays "Until Now" and the second displays "9.84"
+The example also uses a form (`Form1`) with a button (`Command1`), a label (`Label1`), and two text boxes (`Text1` and `Text2`). When you click the button, the first text box displays "From Now" and the second starts to count seconds. When the full time (9.58 seconds) has elapsed, the first text box displays "Until Now" and the second displays "9.58"
 
 The code for specifies the initial and terminal states of the form. It also contains the code executed when events are raised.
 
 ```vb
-Option Explicit 
- 
-Private WithEvents mText As TimerState 
- 
-Private Sub Command1_Click() 
- Text1.Text = "From Now" 
- Text1.Refresh 
- Text2.Text = "0" 
- Text2.Refresh 
- Call mText.TimerTask(9.84) 
-End Sub 
- 
-Private Sub Form_Load() 
- Command1.Caption = "Click to Start Timer" 
- Text1.Text = "" 
- Text2.Text = "" 
- Label1.Caption = "The fastest 100 meters ever run took this long:" 
- Set mText = New TimerState 
- End Sub 
- 
-Private Sub mText_ChangeText() 
- Text1.Text = "Until Now" 
- Text2.Text = "9.84" 
-End Sub 
- 
-Private Sub mText_UpdateTime(ByVal dblJump As Double) 
- Text2.Text = Str(Format(dblJump, "0")) 
- DoEvents 
+Option Explicit
+
+Private WithEvents ts As TimerState
+Private Const FinalTime As Double = 9.58
+
+Private Sub UserForm_Initialize()
+    Command1.Caption = "Click to start timer"
+    Text1.Text = vbNullString
+    Text2.Text = vbNullString
+    Label1.Caption = "The fastest 100 meters ever run took this long:"
+    Set ts = New TimerState
+End Sub
+
+Private Sub Command1_Click()
+    Text1.Text = "From Now"
+    Text2.Text = "0"
+    ts.TimerTask FinalTime
+End Sub
+
+Private Sub ts_UpdateElapsedTime(ByVal elapsedTime As Double)
+    Text2.Text = CStr(Format(elapsedTime, "0.00"))
+End Sub
+
+Private Sub ts_DisplayFinalTime()
+    Text1.Text = "Until now"
+    Text2.Text = CStr(FinalTime)
 End Sub
 ```
 
@@ -94,26 +92,27 @@ End Sub
 The remaining code is in a class module named TimerState. Included among the commands in this module are the **Raise Event** statements.
 
 ```vb
-Option Explicit 
-Public Event UpdateTime(ByVal dblJump As Double) 
-Public Event ChangeText() 
- 
-Public Sub TimerTask(ByVal Duration As Double) 
- Dim dblStart As Double 
- Dim dblSecond As Double 
- Dim dblSoFar As Double 
- dblStart = Timer 
- dblSoFar = dblStart 
- 
- Do While Timer < dblStart + Duration 
- If Timer - dblSoFar >= 1 Then 
- dblSoFar = dblSoFar + 1 
- RaiseEvent UpdateTime(Timer - dblStart) 
- End If 
- Loop 
- 
- RaiseEvent ChangeText 
- 
+Option Explicit
+
+Public Event UpdateElapsedTime(ByVal elapsedTime As Double)
+Public Event DisplayFinalTime()
+Private Const delta As Double = 0.01
+
+Public Sub TimerTask(ByVal duration As Double)
+    Dim startTime As Double
+    startTime = Timer
+    Dim timeElapsedSoFar As Double
+    timeElapsedSoFar = startTime
+    
+    Do While Timer < startTime + duration
+        If Timer - timeElapsedSoFar >= delta Then
+            timeElapsedSoFar = timeElapsedSoFar + delta
+            RaiseEvent UpdateElapsedTime(Timer - startTime)
+            DoEvents
+        End If
+    Loop
+    
+    RaiseEvent DisplayFinalTime
 End Sub
 ```
 
