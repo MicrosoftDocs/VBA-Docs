@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rule.Execute Method (Outlook)
 
-Applies a rule as an one-off operation.
+Applies a rule as a one-off operation.
 
 
 ## Syntax
