@@ -29,7 +29,7 @@ Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that repesents the new conneciton for the PivotTable.|
+| _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that represents the new conneciton for the PivotTable.|
 
 ## Remarks
 
