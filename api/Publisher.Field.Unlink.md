@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.Unlink Method (Publisher)
 
-Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection with with their most recent results.
+Replaces the specified field or  **[Fields](Publisher.Fields.md)** collection with their most recent results.
 
 
 ## Syntax
