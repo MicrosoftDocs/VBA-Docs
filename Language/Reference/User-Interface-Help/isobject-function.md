@@ -28,7 +28,7 @@ Use error trapping to be sure that an object reference is valid.
 
 ## Example
 
-This example uses the  **IsObject** function to determine if an identifier represents an object variable. `MyObject` and and `YourObject` are object variables of the same type. They are generic names used for illustration purposes only.
+This example uses the  **IsObject** function to determine if an identifier represents an object variable. `MyObject` and `YourObject` are object variables of the same type. They are generic names used for illustration purposes only.
 
 
 ```vb
