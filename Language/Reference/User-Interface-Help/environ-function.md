@@ -57,4 +57,7 @@ End If
 
 ```
 
-
+## See also
+- Windows [Environment Variables](https://docs.microsoft.com/en-us/windows/desktop/ProcThread/environment-variables)
+- [Changing Environment Variables](https://docs.microsoft.com/en-us/windows/desktop/ProcThread/changing-environment-variables)
+- [User Environment Variables](https://docs.microsoft.com/en-us/windows/desktop/shell/user-environment-variables)
