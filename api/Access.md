@@ -34,7 +34,7 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcFilterType](Access.AcFilterType.md)|Not supported in Access.|
 | [AcFindField](Access.AcFindField.md)|Specifies whether the search is confined to the current field in each record or includes all fields in each record.|
 | [AcFindMatch](Access.AcFindMatch.md)|Specifies where the data is located in the field. |
-| [AcFormatBarLimits](Access.AcFormatBarLimits.md)|Specifies how the threshhold values for a Data Bar is determined.|
+| [AcFormatBarLimits](Access.AcFormatBarLimits.md)|Specifies how the threshold values for a Data Bar is determined.|
 | [AcFormatConditionOperator](Access.AcFormatConditionOperator.md)|Specifies the operator to apply when using the  **Add** method to create a conditional format.|
 | [AcFormatConditionType](Access.AcFormatConditionType.md)|Specifies the type of conditional formatting to apply to a control.|
 | [AcFormOpenDataMode](Access.AcFormOpenDataMode.md)|Specifies the data entry mode of a form.|

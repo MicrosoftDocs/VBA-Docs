@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcFormatBarLimits enumeration (Access)
 
-Specifies how the threshhold values for a Data Bar is determined.
+Specifies how the threshold values for a Data Bar is determined.
 
 
 
