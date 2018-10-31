@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You have referred to an object as though it were a collection. For example, a statement such as  `qrySales.Refresh` or or `qrySales(2)` causes this error.
+You have referred to an object as though it were a collection. For example, a statement such as  `qrySales.Refresh` or `qrySales(2)` causes this error.
 
 ## See also
 
