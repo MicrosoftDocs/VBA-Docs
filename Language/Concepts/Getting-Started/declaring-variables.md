@@ -29,8 +29,8 @@ If this statement appears within a procedure, the variable `strName` can be used
 Public strName As String 
 ```
 
-For information about naming your variables, see "Visual Basic Naming Rules" in Visual Basic Help.
-Variables can be declared as one of the following data types: **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String ***_length_ (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) using the **Type** statement. For more information on data types, see "Data Type Summary" in Visual Basic Help.
+For information about naming your variables, see "[Visual Basic Naming Rules](visual-basic-naming-rules.md)" in Visual Basic Help.
+Variables can be declared as one of the following data types: **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) using the **Type** statement. For more information on data types, see "Data Type Summary" in Visual Basic Help.
 You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. In the following statement, the variables `intX`, `intY`, and `intZ` are declared as type **Integer**.
 
 

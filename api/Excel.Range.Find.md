@@ -74,7 +74,7 @@ With Worksheets(1).Range("a1:a500")
         Do 
             c.Value = 5 
             Set c = .FindNext(c) 
-        Loop While Not c Is Nothing And c.Address <> firstAddress 
+        Loop While Not c Is Nothing
     End If 
 End With
 ```
