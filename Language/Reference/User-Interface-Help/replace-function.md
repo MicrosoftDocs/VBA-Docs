@@ -51,7 +51,7 @@ The  **_compare_** argument can have the following values:
 |**_expression_** is zero-length|Zero-length string ("")|
 |**_expression_** is **Null**|An error.|
 |**_find_** is zero-length|Copy of  **_expression_**.|
-|**_replace_** is zero-length|Copy of  **_expression_** with all occurences of _find_ removed.|
+|**_replace_** is zero-length|Copy of  **_expression_** with all occurrences of _find_ removed.|
 |**_start_** > **Len( _expression_ )**|Zero-length string. String replacement begins at the position indicated by **start**.|
 |**_count_** is 0|Copy of  **_expression_**.|
 
