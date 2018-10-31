@@ -33,7 +33,7 @@ Changes the case of the specified text.
 
 ## Example
 
-This example sets title case capitalization for the title on slide one in the the active presentation.
+This example sets title case capitalization for the title on slide one in the active presentation.
 
 
 ```vb

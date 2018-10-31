@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Unlist Method (Excel)
 
-Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** object. After you use this method, the range of cells that made up the the list will be a regular range of data.
+Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** object. After you use this method, the range of cells that made up the list will be a regular range of data.
 
 
 ## Syntax

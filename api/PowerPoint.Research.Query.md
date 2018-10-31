@@ -35,7 +35,7 @@ Specifies a research query.
 | _UseSelection_|Optional|**Boolean**|**True** to use the current selection as the query string. This overrides the QueryString parameter if set. Default value is **False**.|
 | _RequeryContextXML_|Optional|**Variant**|Requery context information. This allows the caller to add additional information that the service may need. This is an XML string that is placed directly under the RequeryContext element in the query.|
 | _NewQueryContextXML_|Optional|**Variant**|New query context information. This allows the caller to add additional information that the service may need. This is an XML string that is placed directly under the NewQueryContext element in the query.|
-| _LaunchQuery_|Optional|**Boolean**|**True** launches the query. False displays the the **Research** task pane scoped to search the specified research service.|
+| _LaunchQuery_|Optional|**Boolean**|**True** launches the query. False displays the **Research** task pane scoped to search the specified research service.|
 
 ## See also
 

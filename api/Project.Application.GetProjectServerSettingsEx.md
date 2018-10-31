@@ -27,7 +27,7 @@ Returns global Project settings in a single XML string. You can obtain settings 
 
 ## Remarks
 
-Following is the format of the the XML string returned by  **GetProjectServerSettingsEx** method.
+Following is the format of the XML string returned by  **GetProjectServerSettingsEx** method.
 
 
 ```xml

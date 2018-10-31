@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.TintAndShade Property (PowerPoint)
 
-Sets or returns the lightening or darkening of the the color of a specified shape. Read/write.
+Sets or returns the lightening or darkening of the color of a specified shape. Read/write.
 
 
 ## Syntax
