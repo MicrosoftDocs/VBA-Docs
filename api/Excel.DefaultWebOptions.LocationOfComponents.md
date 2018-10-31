@@ -25,7 +25,7 @@ Returns or sets the central URL (on the intranet or Web) or path (local or netwo
 
 ## Remarks
 
-Office Web components are automatically downloaded with the specified Web page if the  **[DownloadComponents](Excel.DefaultWebOptions.DownloadComponents.md)** property is is set to **True** , the components are not already installed, the path is valid and points to a location that contains the necessary components, and the user has a valid Microsoft Office license.
+Office Web components are automatically downloaded with the specified Web page if the  **[DownloadComponents](Excel.DefaultWebOptions.DownloadComponents.md)** property is set to **True** , the components are not already installed, the path is valid and points to a location that contains the necessary components, and the user has a valid Microsoft Office license.
 
 
 ## Example
