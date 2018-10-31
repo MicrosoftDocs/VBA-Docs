@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignments.Parent Property (Project)
 
-Gets the parent parent the  **Assignments** object. Read-only **Project**.
+Gets the parent the  **Assignments** object. Read-only **Project**.
 
 
 ## Syntax
