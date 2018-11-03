@@ -37,7 +37,7 @@ Return "Access denied" if an East Asian language is not enabled.
 
 ## Example
 
-The following example finds each occurance of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **False** so that full or half width characters will both be found. For example, this search will apply bold formatting to the word "width" (half-width characters) and the word " w i d t h" (full-width characters).
+The following example finds each occurrence of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **False** so that full or half width characters will both be found. For example, this search will apply bold formatting to the word "width" (half-width characters) and the word " w i d t h" (full-width characters).
 
 
 ```vb
@@ -53,7 +53,7 @@ With objDocument.Find
 End With
 ```
 
-The following example finds each occurance of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **True** so that either full or half width characters will be found. For example, this search will apply bold formatting to "width". It will not apply formatting to the word "w i d t h".
+The following example finds each occurrence of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **True** so that either full or half width characters will be found. For example, this search will apply bold formatting to "width". It will not apply formatting to the word "w i d t h".
 
 
 
