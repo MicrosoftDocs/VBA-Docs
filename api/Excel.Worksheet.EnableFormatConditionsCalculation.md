@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableFormatConditionsCalculation Property (Excel)
 
-Returms or sets if conditional formats will will occur automatically as needed. Read/write  **Boolean** .
+Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returms or sets if conditional formats will will occur automatically as needed. 
 
 ## Remarks
 
-When set to True (default), evaluation of conditional formats will will occur automatically as needed. When set to False, conditional formats will not be re-evaluated. Any previously applied conditional formatting will still be visible, but it will not update as cell values or AppliesTo ranges are changed. 
+When set to True (default), evaluation of conditional formats will occur automatically as needed. When set to False, conditional formats will not be re-evaluated. Any previously applied conditional formatting will still be visible, but it will not update as cell values or AppliesTo ranges are changed. 
 
 The purpose of this flag is to allow VBA programmers to configure a rule completely before evaluating it. This is particularly useful when condition is applied over a large range as performance can be slow in these cases.
 
