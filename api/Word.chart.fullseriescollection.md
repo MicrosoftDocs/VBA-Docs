@@ -32,7 +32,7 @@ Returns the collection of all the series in the specified chart, or the specifie
 |||||
 | _Index_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **OBJECT**
 

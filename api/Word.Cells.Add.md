@@ -31,7 +31,7 @@ Returns a  **Cell** object that represents a cell added to a table.
 |:-----|:-----|:-----|:-----|
 | _BeforeCell_|Optional| **Variant**|A  **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
 
-### Return value
+## Return value
 
 Cell
 

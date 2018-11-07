@@ -33,7 +33,7 @@ Returns a  **TextColumn** object that represents a new text column added to a se
 | _Spacing_|Optional| **Variant**|The spacing between the text columns in the document, in points.|
 | _EvenlySpaced_|Optional| **Variant**| **True** to evenly space all the text columns be in the document.|
 
-### Return value
+## Return value
 
 TextColumn
 

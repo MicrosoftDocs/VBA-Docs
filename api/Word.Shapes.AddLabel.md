@@ -35,7 +35,7 @@ Adds a text label to a drawing canvas.
 | _Width_|Required| **Single**|The width of the label, in points.|
 | _Height_|Required| **Single**|The height of the label, in points.|
 
-### Return value
+## Return value
 
  **Shapes**
 

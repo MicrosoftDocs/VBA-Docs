@@ -33,7 +33,7 @@ Exports the chart in a graphic format.
 | _FilterName_|Optional| **Variant**|The language-independent name of the graphic filter as it appears in the registry.|
 | _Interactive_|Optional| **Variant**| **True** to display the dialog box that contains the filter-specific options. **False** to indicate that Word should use the default values for the filter. The default is **False** .|
 
-### Return value
+## Return value
 
 A  **Boolean** value that indicates whether the export was successful.
 

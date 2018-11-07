@@ -23,7 +23,7 @@ Validates an individual XML element against the XML schemas that are attached to
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

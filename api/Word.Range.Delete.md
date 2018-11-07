@@ -32,7 +32,7 @@ Deletes the specified number of characters or words.
 | _Unit_|Optional| **Variant**|The unit by which the collapsed range is to be deleted. Can be one of the  **WdUnits** constants.|
 | _Count_|Optional| **Variant**|The number of units to be deleted. To delete units after the range, collapse the range and use a positive number. To delete units before the range, collapse the range and use a negative number.|
 
-### Return value
+## Return value
 
 Long
 

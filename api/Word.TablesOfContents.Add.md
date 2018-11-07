@@ -42,7 +42,7 @@ Returns a  **TableOfContents** object that represents a table of contents added 
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of contents should be hidden when the document is being publishing to the Web. The default value is **True** .|
 | _UseOutlineLevels_|Optional| **Variant**| **True** to use outline levels to create the table of contents. The default is **False** .|
 
-### Return value
+## Return value
 
 TableOfContents
 

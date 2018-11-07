@@ -23,7 +23,7 @@ Copies the specified XML element, excluding XML markup, to the Clipboard.
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

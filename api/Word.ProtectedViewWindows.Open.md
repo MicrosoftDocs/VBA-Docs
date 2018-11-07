@@ -35,7 +35,7 @@ Opens the specified document in a new protected view window.
 | _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True** .|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
 
-### Return value
+## Return value
 
 ProtectedViewWindow
 

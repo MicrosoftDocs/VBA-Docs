@@ -33,7 +33,7 @@ Builds a freeform object.
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the left edge of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the top edge of the document.|
 
-### Return value
+## Return value
 
  **[FreeformBuilder](Word.FreeformBuilder.md)**
 

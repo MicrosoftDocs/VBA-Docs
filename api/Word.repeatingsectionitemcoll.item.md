@@ -30,7 +30,7 @@ Returns an individual repeating section item.
 |||||
 | _Index_|Required|INT32|The index number of the item in the collection.|
 
-### Return value
+## Return value
 
  **REPEATINGSECTIONITEM**
 

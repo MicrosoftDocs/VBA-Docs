@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Range_|Required|Optional|The [Range](Word.Range.md) to which you want to compare the selection.|
 
-### Return value
+## Return value
 
 Boolean
 

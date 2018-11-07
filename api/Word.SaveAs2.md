@@ -47,7 +47,7 @@ Saves the specified document with a new name or format. Some of the arguments fo
 | _AddBiDiMarks_|Optional| **Variant**| **True** adds control characters to the output file to preserve bi-directional layout of the text in the original document.|
 | _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document.  **[WdCompatibilityMode](Word.WdCompatibilityMode.md)** constant.<table><tr><th>**Important**</th></tr><tr><td>By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.</td></tr></table>|
 
-### Return value
+## Return value
 
 Nothing
 

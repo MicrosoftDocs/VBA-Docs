@@ -31,7 +31,7 @@ Returns an  **OtherCorrectionsException** object that represents a new exception
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word that you want Word to overlook.|
 
-### Return value
+## Return value
 
 OtherCorrectionsException
 

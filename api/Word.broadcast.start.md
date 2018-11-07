@@ -30,7 +30,7 @@ Initiates the specified broadcast session.
 |||||
 | _serverUrl_|Required|STRING|The URL of the broadcast server.|
 
-### Return value
+## Return value
 
  **VOID**
 

@@ -23,7 +23,7 @@ Increases the size of the displayed text one point size when the document is dis
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

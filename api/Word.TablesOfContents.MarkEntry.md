@@ -35,7 +35,7 @@ Inserts a TC (Table of Contents Entry) field after the specified range. The meth
 | _TableID_|Optional| **Variant**|A one-letter identifier for the table of figures or table of contents item (for example, "i" for an "illustration").|
 | _Level_|Optional| **Variant**|A level for the entry in the table of contents or table of figures.|
 
-### Return value
+## Return value
 
 Field
 

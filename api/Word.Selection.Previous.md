@@ -32,7 +32,7 @@ Moves the selected text by the specified number of units, and returns a  **Range
 | _Unit_|Optional| **Variant**|Specifies the type of unit by which to move the selection. Can be one of the  **[WdUnits](Word.WdUnits.md)** constants.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move. The default value is 1.|
 
-### Return value
+## Return value
 
 Range
 

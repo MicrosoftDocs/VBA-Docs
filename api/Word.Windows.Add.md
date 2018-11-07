@@ -31,7 +31,7 @@ Returns a  **Window** object that represents a new window of a document.
 |:-----|:-----|:-----|:-----|
 | _Window_|Optional| **Variant**|The  **Window** object you want to open another window for. If this argument is omitted, a new window is opened for the active document.|
 
-### Return value
+## Return value
 
 Window
 

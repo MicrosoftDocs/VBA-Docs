@@ -32,7 +32,7 @@ Returns a  **Range** object that represents the next unit relative to the specif
 | _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **[WdUnits](Word.WdUnits.md)** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
-### Return value
+## Return value
 
 Range
 

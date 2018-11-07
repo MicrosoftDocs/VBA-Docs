@@ -33,7 +33,7 @@ Allows creating or changing the XML mapping on a content control. Returns  **Tru
 | _PrefixMapping_|Optional| **String**|Specifies the prefix mappings to use when querying the expression provided in the XPath parameter. If omitted, Word uses the set of prefix mappings for the specified custom XML part in the current document.|
 | _Source_|Optional| **CustomXMLPart**|Specifies the desired custom XML data to which to map the content control. If this parameter is omitted, the XPath is evaluated against all custom XML in the current document, and the mapping is established with the first  **CustomXMLPart** in which the XPath resolves to an XML node.|
 
-### Return value
+## Return value
 
 Boolean
 

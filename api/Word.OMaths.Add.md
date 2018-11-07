@@ -31,7 +31,7 @@ Creates an equation, from the text equation contained within the specified range
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|Specifies a range that contains a text equation.|
 
-### Return value
+## Return value
 
 Range
 

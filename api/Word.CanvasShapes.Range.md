@@ -31,7 +31,7 @@ Returns a  **ShapeRange** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies which shapes are to be included in the specified range. Can be an integer that specifies the index number of a shape within the  **Shapes** collection, a string that specifies the name of a shape, or a array that contains integers or strings.|
 
-### Return value
+## Return value
 
 ShapeRange
 

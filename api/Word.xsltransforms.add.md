@@ -31,7 +31,7 @@ Returns an  **XSLTransform** object that represents an Extensible Stylesheet Lan
 | _Alias_|Optional| **String**|The name of the XSLT as it appears in the Schema Library.|
 | _InstallForAllUsers_|Optional| **Boolean**| **True** if all users that log on to a computer can access and use the new schema. The default is **False** .|
 
-### Return value
+## Return value
 
 XSLTransform
 

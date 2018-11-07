@@ -31,7 +31,7 @@ Returns a  **TwoInitialCapsException** object that represents a new exception ad
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word with two initial capital letters that you want Microsoft Word to overlook.|
 
-### Return value
+## Return value
 
 TwoInitialCapsException
 

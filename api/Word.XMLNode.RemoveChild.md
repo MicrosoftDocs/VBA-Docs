@@ -31,7 +31,7 @@ Removes a child element from the specified element.
 |:-----|:-----|:-----|:-----|
 | _ChildElement_|Required| **XMLNode**|The child element to be removed.|
 
-### Return value
+## Return value
 
 Nothing
 

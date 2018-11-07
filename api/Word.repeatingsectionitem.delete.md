@@ -21,7 +21,7 @@ Deletes the specified repeating section item.
  _expression_ A variable that represents a 'RepeatingSectionItem' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

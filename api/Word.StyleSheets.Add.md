@@ -34,7 +34,7 @@ Returns a  **StyleSheet** object that represents a new style sheet added to a We
 | _Title_|Required| **String**|The name of the style sheet.|
 | _Precedence_|Required| **WdStyleSheetPrecedence**|Indicates the level of importance compared with other cascading style sheets attached to the Web document.|
 
-### Return value
+## Return value
 
 StyleSheet
 

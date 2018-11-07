@@ -49,7 +49,7 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
 | _Anchor_|Optional|VARIANT||
 | _NewLayout_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **SHAPE**
 

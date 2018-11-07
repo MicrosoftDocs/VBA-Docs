@@ -31,7 +31,7 @@ Returns an  **OMathAutoCorrectEntry** object that represents the specified item 
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
-### Return value
+## Return value
 
 OMathAutoCorrectEntry
 

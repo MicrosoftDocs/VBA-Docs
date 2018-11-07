@@ -34,7 +34,7 @@ Returns an  **XMLSchemaReference** that represents a schema applied to a documen
 | _FileName_|Optional| **String**|The path and file name of the schema. This may be a local file path, a network path, or an Internet address.|
 | _InstallForAllUsers_|Optional| **Boolean**| **True** if all users that log on to a computer can access and use the new schema. The default is **False** .|
 
-### Return value
+## Return value
 
 XMLSchemaReference
 
