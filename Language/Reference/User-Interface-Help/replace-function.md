@@ -57,5 +57,5 @@ The  **_compare_** argument can have the following values:
 
 ## Remarks
 
-The return value of the  **Replace** function is a string, with substitutions made, that begins at the position specified by **_start_** and and concludes at the end of the **_expression_** string. It is not a copy of the original string from start to finish.
+The return value of the  **Replace** function is a string, with substitutions made, that begins at the position specified by **_start_** and concludes at the end of the **_expression_** string. It is not a copy of the original string from start to finish.
 

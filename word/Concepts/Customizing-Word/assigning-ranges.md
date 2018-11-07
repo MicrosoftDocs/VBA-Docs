@@ -40,7 +40,7 @@ Note that the following instruction is the same as  `Range2.Text = Range1.Text`.
 Range2 = Range1
 ```
 
-The ranges ( `Range2` and and `Range1`) have the same contents, but they may point to different locations in the document or even different documents.
+The ranges ( `Range2` and `Range1`) have the same contents, but they may point to different locations in the document or even different documents.
 
 
 ## Using the Duplicate property
