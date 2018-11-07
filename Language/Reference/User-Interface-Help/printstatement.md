@@ -41,7 +41,7 @@ The  _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) settings a
 
 Data written with  **Print #** is usually read from a file with **Line Input #** or **Input**.
 If you omit  _outputlist_ and include only a list separator after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with either a space or a semicolon. A space has the same effect as a semicolon.
-For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `True` or or `False` is printed. The **True** and **False** keywords are not translated, regardless of the [locale](../../Glossary/vbe-glossary.md#locale).
+For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `True` or `False` is printed. The **True** and **False** keywords are not translated, regardless of the [locale](../../Glossary/vbe-glossary.md#locale).
 [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written to the file using the standard short date format recognized by your system. When either the date or the time component is missing or zero, only the part provided gets written to the file.
 Nothing is written to the file if  _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, if  _outputlist_ data is [Null](../../Glossary/vbe-glossary.md#null),  **Null** is written to the file.
 For  **Error** data, the output appears as `Error` _errorcode_. The **Error** keyword is not translated regardless of the locale.
