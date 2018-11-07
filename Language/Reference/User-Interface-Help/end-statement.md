@@ -49,17 +49,19 @@ The  **End** statement provides a way to force your program to halt. For normal 
 
 ## Example
 
-This example uses the **End** Statement to end code execution if the user enters an invalid password.
+This example uses the **End** statement to end code execution if the user enters an invalid password.
 
 
 ```vb
 Sub Form_Load 
- Dim Password, Pword 
- PassWord = "Swordfish" 
- Pword = InputBox("Type in your password") 
- If Pword <> PassWord Then 
- MsgBox "Sorry, incorrect password" 
- EndEnd IfEnd Sub
+  Dim Password, Pword 
+  PassWord = "Swordfish" 
+  Pword = InputBox("Type in your password") 
+  If Pword <> PassWord Then 
+    MsgBox "Sorry, incorrect password" 
+    End
+  End If
+End Sub
 ```
 
 
