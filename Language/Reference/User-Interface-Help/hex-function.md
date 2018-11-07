@@ -18,24 +18,26 @@ Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) representing
 ## Syntax
 
 **Hex** ( _number_ )
-The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) _._
 
-## Remarks
-
-If  _number_ is not already a whole number, it is rounded to the nearest whole number before being evaluated.
-
+The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
 
 |**If  _number_ is**|**Hex returns**|
 |:-----|:-----|
+|-2,147,483,648 to 2,147,483,647|Up to eight hexadecimal characters|
 |[Null](../../Glossary/vbe-glossary.md#null)|Null|
 |[Empty](../../Glossary/vbe-glossary.md#empty)|Zero (0)|
-|Any other number|Up to eight hexadecimal characters|
 
-You can represent hexadecimal numbers directly by preceding numbers in the proper range with  `&;H.` For example, For example, `&;H10` represents decimal 16 in hexadecimal notation.
+
+## Remarks
+
+If _number_ is not a whole number, it is rounded to the nearest whole number before being evaluated.
+
+For the opposite of **Hex**, precede a hexidecimal value with **&H**. For example, `Hex(255)` returns the string FF and `&HFF` returns the number 255.
+
 
 ## Example
 
-This example uses the  **Hex** function to return the hexadecimal value of a number.
+This example uses the **Hex** function to return the hexadecimal value of a number.
 
 
 ```vb
