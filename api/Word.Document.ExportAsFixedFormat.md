@@ -29,7 +29,7 @@ Saves a document as PDF or XPS format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OutputFileName_|Required| **String**|The path and file name name of the new PDF or XPS file.|
+| _OutputFileName_|Required| **String**|The path and file name of the new PDF or XPS file.|
 | _ExportFormat_|Required| **[WdExportFormat](Word.WdExportFormat.md)**|Specifies either PDF or XPS format.|
 | _OpenAfterExport_|Optional| **Boolean**|Opens the new file after exporting the contents.|
 | _OptimizeFor_|Optional| **[WdExportOptimizeFor](Word.WdExportOptimizeFor.md)**|Specifies whether to optimize for screen or print.|
