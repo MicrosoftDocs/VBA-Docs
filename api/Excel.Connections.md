@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Connections Object (Excel)
 
-A collection of Connection objects for the specified workbook.
+A collection of [WorkbookConnection](Excel.WorkbookConnection.md) objects for the specified workbook.
 
 
 ## Example
