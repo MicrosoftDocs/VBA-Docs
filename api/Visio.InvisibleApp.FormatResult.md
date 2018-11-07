@@ -23,7 +23,7 @@ _expression_. `FormatResult`(`StringOrNumber`, `UnitsIn`, `UnitsOut`, `Format`)
 _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

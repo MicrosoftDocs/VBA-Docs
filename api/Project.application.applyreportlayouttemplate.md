@@ -19,7 +19,7 @@ Applies the specified report template to the active report.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

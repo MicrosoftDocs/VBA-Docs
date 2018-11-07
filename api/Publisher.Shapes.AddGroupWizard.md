@@ -23,7 +23,7 @@ Adds a  **Shape** object representing a Design Gallery object to the publication
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 

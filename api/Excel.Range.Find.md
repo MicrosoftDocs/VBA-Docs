@@ -23,7 +23,7 @@ Finds specific information in a range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

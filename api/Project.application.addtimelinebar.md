@@ -21,7 +21,7 @@ Adds a  **timeline** bar to the view. Introduced in Office 2016.
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 |||||

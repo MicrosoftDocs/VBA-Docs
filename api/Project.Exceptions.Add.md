@@ -20,7 +20,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
  _expression_ A variable that represents an 'Exceptions' object.
 
 
-### Parameters
+## Parameters
 
 
 

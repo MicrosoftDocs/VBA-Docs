@@ -23,7 +23,7 @@ Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collec
  _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

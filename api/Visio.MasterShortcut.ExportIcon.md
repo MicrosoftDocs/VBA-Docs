@@ -23,7 +23,7 @@ Exports the icon for a  **Master** object to a named file or the Clipboard.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

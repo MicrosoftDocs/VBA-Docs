@@ -23,7 +23,7 @@ Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from 
  _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

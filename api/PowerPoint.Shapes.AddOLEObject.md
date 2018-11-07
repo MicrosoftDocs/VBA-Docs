@@ -23,7 +23,7 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

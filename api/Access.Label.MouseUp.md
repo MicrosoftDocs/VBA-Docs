@@ -23,7 +23,7 @@ _expression_. `MouseUp`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

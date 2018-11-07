@@ -20,7 +20,7 @@ Loads the color scheme of a Microsoft Office theme from a file.
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

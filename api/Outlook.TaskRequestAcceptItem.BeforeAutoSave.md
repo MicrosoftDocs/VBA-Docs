@@ -20,7 +20,7 @@ Occurs before the item is automatically saved by Outlook.
  _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

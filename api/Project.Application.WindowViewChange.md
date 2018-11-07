@@ -20,7 +20,7 @@ Occurs after the top pane view is changed within a project window. The  **Window
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

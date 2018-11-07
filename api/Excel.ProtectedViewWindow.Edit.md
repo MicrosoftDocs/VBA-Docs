@@ -23,7 +23,7 @@ Opens the workbook that is open in the specified  **Protected View** window for 
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

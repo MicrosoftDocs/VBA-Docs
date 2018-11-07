@@ -23,7 +23,7 @@ Restores a previously deleted placeholder on a slide. Returns a  **[Shape](Power
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

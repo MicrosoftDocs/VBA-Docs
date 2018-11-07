@@ -23,7 +23,7 @@ Deletes a shape node.
  _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

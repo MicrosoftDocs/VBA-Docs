@@ -23,7 +23,7 @@ Converts a horizontal measurement from points (document coordinates) to screen p
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

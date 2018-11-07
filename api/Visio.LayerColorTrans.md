@@ -20,7 +20,7 @@ Gets or sets the transparency of the color of the layer at the specified index i
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a vertical page break.
  _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

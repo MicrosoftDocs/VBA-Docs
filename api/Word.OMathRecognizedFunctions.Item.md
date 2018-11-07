@@ -23,7 +23,7 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
  _expression_ An expression that returns an '[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

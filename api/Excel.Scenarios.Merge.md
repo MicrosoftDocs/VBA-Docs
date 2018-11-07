@@ -23,7 +23,7 @@ Merges the scenarios from another sheet into the  **[Scenarios](Excel.Scenarios.
  _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

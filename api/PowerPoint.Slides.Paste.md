@@ -23,7 +23,7 @@ Pastes the slides on the Clipboard into the  **Slides** collection for the prese
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

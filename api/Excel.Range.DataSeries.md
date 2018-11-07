@@ -23,7 +23,7 @@ Creates a data series in the specified range.  **Variant** .
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

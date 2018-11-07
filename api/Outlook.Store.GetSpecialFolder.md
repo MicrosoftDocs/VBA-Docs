@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

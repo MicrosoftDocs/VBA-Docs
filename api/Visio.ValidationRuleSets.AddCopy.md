@@ -23,7 +23,7 @@ Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

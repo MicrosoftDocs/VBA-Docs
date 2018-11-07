@@ -23,7 +23,7 @@ Returns a  **Boolean** that indicates if the indexed item is currently selected.
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

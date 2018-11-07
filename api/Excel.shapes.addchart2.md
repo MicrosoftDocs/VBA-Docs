@@ -21,7 +21,7 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

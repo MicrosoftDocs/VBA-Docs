@@ -23,7 +23,7 @@ Arranges all open document windows in the workspace.
  _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

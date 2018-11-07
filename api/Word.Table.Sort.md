@@ -23,7 +23,7 @@ Sorts the specified table.
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

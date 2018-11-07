@@ -20,7 +20,7 @@ Private Sub  _expression_ _'BeforeSuspendEvents'(**_ByVal app As [IVAPPLICATION]
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

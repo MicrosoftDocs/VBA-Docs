@@ -23,7 +23,7 @@ Returns an object from a collection. The  **Item** property is the default prope
  _expression_ A variable that represents a [Colors](./Visio.Colors.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

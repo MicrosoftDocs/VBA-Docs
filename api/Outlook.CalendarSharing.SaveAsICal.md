@@ -23,7 +23,7 @@ Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -16,7 +16,7 @@ Modifies the properties and formatting of a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

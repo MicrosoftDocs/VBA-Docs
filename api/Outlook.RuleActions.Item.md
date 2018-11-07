@@ -23,7 +23,7 @@ Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ w
  _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Returns a logical exclusive OR of all arguments.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

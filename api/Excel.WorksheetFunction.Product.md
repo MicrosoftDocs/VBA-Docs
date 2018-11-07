@@ -23,7 +23,7 @@ Multiplies all the numbers given as arguments and returns the product.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

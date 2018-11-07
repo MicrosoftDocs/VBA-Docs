@@ -23,7 +23,7 @@ Merges the specified table cell with another cell. The result is a single table 
  _expression_ A variable that represents a  **Cell** object.
 
 
-### Parameters
+## Parameters
 
 
 

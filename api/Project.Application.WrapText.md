@@ -23,7 +23,7 @@ Toggles the  **Wrap Text** setting in a column.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

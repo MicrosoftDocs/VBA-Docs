@@ -23,7 +23,7 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

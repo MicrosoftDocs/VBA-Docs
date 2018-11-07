@@ -20,7 +20,7 @@ Returns the date and time that follows another date by a specified duration, for
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Formats the text of calendar views for printing, where the text color can be a h
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

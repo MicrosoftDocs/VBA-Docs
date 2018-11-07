@@ -20,7 +20,7 @@ Occurs just before an attachment is saved.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

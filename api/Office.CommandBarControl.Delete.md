@@ -23,7 +23,7 @@ Deletes the  **CommandBarControl** object from its collection.
  _expression_ Required. A variable that represents a '[CommandBarControl](Office.CommandBarControl.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

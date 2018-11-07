@@ -23,7 +23,7 @@ Returns an individual  **MailMergeDataField** object in a collection.
  _expression_ Required. A variable that represents a '[MailMergeDataFields](Word.mailmergedatafields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

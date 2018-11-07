@@ -23,7 +23,7 @@ Removes a test condition from a custom field graphical indicator criteria list.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

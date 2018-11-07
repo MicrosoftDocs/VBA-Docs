@@ -23,7 +23,7 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that mat
  _expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

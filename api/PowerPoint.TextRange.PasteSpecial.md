@@ -23,7 +23,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

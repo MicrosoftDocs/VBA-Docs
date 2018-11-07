@@ -23,7 +23,7 @@ Notifies a real-time data (RTD) server application that a topic is no longer in 
  _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

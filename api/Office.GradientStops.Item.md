@@ -20,7 +20,7 @@ Gets a  **GradientStop** object from a **GradientStops** collection. Read-only.
  _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

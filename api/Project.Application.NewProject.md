@@ -20,7 +20,7 @@ Occurs when a new project is created, including the default project that is crea
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

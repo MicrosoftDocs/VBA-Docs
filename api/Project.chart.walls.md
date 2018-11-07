@@ -16,7 +16,7 @@ Gets an  **Office.IMsoWalls** object that represents the walls of a 3-D chart. R
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

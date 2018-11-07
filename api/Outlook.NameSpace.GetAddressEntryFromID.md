@@ -23,7 +23,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
  _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

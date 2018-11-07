@@ -21,7 +21,7 @@ Returns the number of days between the two dates.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

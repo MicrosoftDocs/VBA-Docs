@@ -23,7 +23,7 @@ Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md
  _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

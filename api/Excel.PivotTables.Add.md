@@ -23,7 +23,7 @@ Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** o
  _expression_ A variable that represents a [PivotTables](Excel.PivotTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

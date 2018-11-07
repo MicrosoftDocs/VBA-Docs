@@ -23,7 +23,7 @@ Returns the normal distribution for the specified mean and standard deviation. T
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

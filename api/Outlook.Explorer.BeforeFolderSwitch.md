@@ -23,7 +23,7 @@ Occurs before the explorer goes to a new folder, either as a result of user acti
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

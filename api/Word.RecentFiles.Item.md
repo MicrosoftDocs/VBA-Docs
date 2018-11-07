@@ -23,7 +23,7 @@ Returns an individual  **RecentFile** object in a collection.
  _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

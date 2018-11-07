@@ -21,7 +21,7 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

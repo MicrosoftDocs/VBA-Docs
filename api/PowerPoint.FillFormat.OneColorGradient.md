@@ -23,7 +23,7 @@ Sets the specified fill to a one-color gradient.
  _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

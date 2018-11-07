@@ -23,7 +23,7 @@ Returns the number of days in the coupon period that contains the settlement dat
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

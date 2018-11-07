@@ -23,7 +23,7 @@ Creates one or more new  **Shape** objects in a master. It returns an array of t
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

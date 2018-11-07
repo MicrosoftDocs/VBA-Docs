@@ -23,7 +23,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

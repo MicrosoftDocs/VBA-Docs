@@ -23,7 +23,7 @@ Returns a  **ContentControlListEntry** object that represents the specified item
  _expression_ An expression that returns a '[ContentControlListEntries](Word.ContentControlListEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

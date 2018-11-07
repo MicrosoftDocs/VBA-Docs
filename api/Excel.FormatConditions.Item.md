@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

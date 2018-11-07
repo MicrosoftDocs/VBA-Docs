@@ -23,7 +23,7 @@ Occurs before any refreshes of the query table. This includes refreshes resultin
  _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

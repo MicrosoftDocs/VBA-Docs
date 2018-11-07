@@ -18,7 +18,7 @@ Occurs before Microsoft Outlook changes the view that is applied to the folder d
  _expression_ A variable that represents a  **ViewCtl** object.
 
 
-### Parameters
+## Parameters
 
 
 

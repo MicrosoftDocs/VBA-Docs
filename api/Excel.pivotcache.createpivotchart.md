@@ -21,7 +21,7 @@ Creates a standalone PivotChart from a [PivotCache Object (Excel)](Excel.PivotCa
  _expression_ A variable that represents a [PivotCache Object (Excel)](Excel.PivotCache.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

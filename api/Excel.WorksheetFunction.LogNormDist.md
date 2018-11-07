@@ -27,7 +27,7 @@ For more information about the new functions, see the [LogNorm_Dist](Excel.Works
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

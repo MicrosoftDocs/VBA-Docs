@@ -23,7 +23,7 @@ Returns the requested  **Section** object belonging to a style. Read-only.
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Counts empty cells in a specified range of cells.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -26,7 +26,7 @@ Gets the value of the specified data-column property.
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

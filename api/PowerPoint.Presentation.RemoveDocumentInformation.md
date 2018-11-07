@@ -23,7 +23,7 @@ Removes document information, such as personal information, comments, and docume
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

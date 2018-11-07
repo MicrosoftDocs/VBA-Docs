@@ -23,7 +23,7 @@ Removes hidden information, such as personal information and external data, from
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

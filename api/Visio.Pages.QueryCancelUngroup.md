@@ -23,7 +23,7 @@ Private Sub  _expression_ _'QueryCancelUngroup'(**_ByVal Selection As [IVSELECTI
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

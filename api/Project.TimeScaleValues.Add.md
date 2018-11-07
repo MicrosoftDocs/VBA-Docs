@@ -20,7 +20,7 @@ Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
  _expression_ A variable that represents a 'TimeScaleValues' object.
 
 
-### Parameters
+## Parameters
 
 
 

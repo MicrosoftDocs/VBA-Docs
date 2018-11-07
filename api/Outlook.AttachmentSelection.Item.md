@@ -23,7 +23,7 @@ Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
  _expression_ An expression that returns an [AttachmentSelection](./Outlook.AttachmentSelection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

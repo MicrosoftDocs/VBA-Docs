@@ -23,7 +23,7 @@ Returns the Japanese phonetic text of the specified text string. This method is 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

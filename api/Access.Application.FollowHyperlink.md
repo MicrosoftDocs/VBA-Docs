@@ -23,7 +23,7 @@ _expression_. `FollowHyperlink`( ` _Address_`, ` _SubAddress_`, ` _NewWindow_`, 
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

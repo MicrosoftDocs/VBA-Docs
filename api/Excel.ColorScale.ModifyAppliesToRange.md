@@ -23,7 +23,7 @@ Sets the cell range to which this formatting rule applies.
  _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

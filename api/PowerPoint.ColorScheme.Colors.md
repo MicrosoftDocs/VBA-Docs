@@ -23,7 +23,7 @@ Returns an  **[RGBColor](PowerPoint.RGBColor.md)** object that represents a sing
  _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the hypergeometric distribution. HYPGEOM_DIST returns the probability of
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

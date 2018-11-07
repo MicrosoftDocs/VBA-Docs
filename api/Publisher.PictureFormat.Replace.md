@@ -23,7 +23,7 @@ Replaces the specified picture. Returns  **Nothing**.
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

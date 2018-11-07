@@ -23,7 +23,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Parameters
+## Parameters
 
 
 

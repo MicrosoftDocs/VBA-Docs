@@ -23,7 +23,7 @@ Returns a unique number for the specified key combination.
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a line to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object th
  _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

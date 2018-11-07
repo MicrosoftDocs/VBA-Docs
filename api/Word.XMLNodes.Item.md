@@ -23,7 +23,7 @@ Returns an individual  **XMLNode** object in a collection.
  _expression_ Required. A variable that represents a '[XMLNodes](Word.XMLNodes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

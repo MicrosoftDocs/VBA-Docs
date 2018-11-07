@@ -23,7 +23,7 @@ Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection
  _expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Present
  _expression_ A variable that represents an [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

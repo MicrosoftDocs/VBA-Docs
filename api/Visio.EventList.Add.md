@@ -23,7 +23,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

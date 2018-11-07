@@ -23,7 +23,7 @@ Saves the QueryTable cache source as an Microsoft Office Data Connection file.
  _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

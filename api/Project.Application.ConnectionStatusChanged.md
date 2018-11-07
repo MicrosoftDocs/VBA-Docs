@@ -20,7 +20,7 @@ Occurs when the status of the connection with Project Server changes. Available 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

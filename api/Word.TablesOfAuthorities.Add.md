@@ -23,7 +23,7 @@ Returns a  **TableOfAuthorities** object that represents a table of authorities 
  _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

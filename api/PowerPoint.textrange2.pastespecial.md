@@ -18,7 +18,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 

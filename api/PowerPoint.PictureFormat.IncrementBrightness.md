@@ -23,7 +23,7 @@ Changes the brightness of the picture by the specified amount.
  _expression_ A variable that represents an [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

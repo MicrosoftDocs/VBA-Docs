@@ -26,7 +26,7 @@ Returns the  **GraphicItem** object at the specified index position in the **Gra
  _expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Specifies the right margin, which is used when printing. Read/write.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

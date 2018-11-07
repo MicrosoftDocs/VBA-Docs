@@ -23,7 +23,7 @@ Adds a SmartArt diagram to the  **Shapes** object.
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

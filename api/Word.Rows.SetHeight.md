@@ -23,7 +23,7 @@ Sets the height of table rows.
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

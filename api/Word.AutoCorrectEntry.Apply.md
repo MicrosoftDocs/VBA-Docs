@@ -23,7 +23,7 @@ Replaces a range with the value of the specified AutoCorrect entry.
  _expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

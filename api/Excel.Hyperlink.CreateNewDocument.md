@@ -23,7 +23,7 @@ Creates a new document linked to the specified hyperlink.
  _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

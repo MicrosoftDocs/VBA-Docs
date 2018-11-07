@@ -23,7 +23,7 @@ Returns an object from a collection. Read-only.
  _expression_ A variable that represents a [Hyperlinks](./Visio.Hyperlinks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Displays information about the encryption of the current document.
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

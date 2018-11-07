@@ -23,7 +23,7 @@ Merges a presentation into another presentation.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

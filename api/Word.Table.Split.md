@@ -23,7 +23,7 @@ Inserts an empty paragraph immediately above the specified row in the table, and
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

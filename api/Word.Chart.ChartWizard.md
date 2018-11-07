@@ -22,7 +22,7 @@ _expression_. **ChartWizard** (**_Source_**, **_Gallery_**, **_Format_**, **_Plo
 _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

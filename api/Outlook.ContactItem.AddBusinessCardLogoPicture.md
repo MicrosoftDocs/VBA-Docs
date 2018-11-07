@@ -23,7 +23,7 @@ Adds a logo picture to the current Electronic Business Card of the contact item.
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

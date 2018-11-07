@@ -23,7 +23,7 @@ Occurs when the selection changes on any worksheet (doesn't occur if the selecti
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

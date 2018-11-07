@@ -23,7 +23,7 @@ Returns the number of days from the settlement date to the next coupon date.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

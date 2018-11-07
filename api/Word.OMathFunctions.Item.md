@@ -23,7 +23,7 @@ Returns an  **OMathFunction** object that represents the specified item in the c
  _expression_ An expression that returns an '[OMathFunctions](Word.OMathFunctions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

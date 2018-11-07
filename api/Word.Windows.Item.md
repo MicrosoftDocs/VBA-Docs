@@ -23,7 +23,7 @@ Returns an individual  **Window** object in a collection.
  _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . R
  _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

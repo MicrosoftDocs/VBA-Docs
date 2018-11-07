@@ -23,7 +23,7 @@ Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that rep
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

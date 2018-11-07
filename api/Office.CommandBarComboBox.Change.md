@@ -26,7 +26,7 @@ Occurs when the end user changes the selection in a  **CommandBar** combo box.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

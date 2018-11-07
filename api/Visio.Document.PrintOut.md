@@ -23,7 +23,7 @@ Prints the contents of the active document and provides various printing options
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

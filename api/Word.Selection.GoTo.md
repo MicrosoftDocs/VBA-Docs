@@ -20,7 +20,7 @@ Moves the insertion point to the character position immediately preceding the sp
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

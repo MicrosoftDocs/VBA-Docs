@@ -18,7 +18,7 @@ Gets a  **TextRange2** object that represents the specified subset of text words
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 

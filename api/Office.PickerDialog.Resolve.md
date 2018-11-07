@@ -23,7 +23,7 @@ Resolves the token using the Picker Dialog and retrieves the results.
  _expression_ An expression that returns a [PickerDialog](./Office.PickerDialog.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

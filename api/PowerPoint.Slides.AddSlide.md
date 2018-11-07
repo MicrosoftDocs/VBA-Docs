@@ -23,7 +23,7 @@ Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collecti
  _expression_ An expression that returns a [Slides](./PowerPoint.Slides.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
  _expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

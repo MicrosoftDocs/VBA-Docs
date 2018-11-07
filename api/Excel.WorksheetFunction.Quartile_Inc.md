@@ -23,7 +23,7 @@ Returns the quartile of a data set based on percentile values from 0..1, inclusi
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

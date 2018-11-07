@@ -23,7 +23,7 @@ Removes numbers or bullets from the specified list.
  _expression_ A variable that represents a '[List](Word.List.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

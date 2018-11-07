@@ -23,7 +23,7 @@ Sets the gap between the container and member shapes to the specified size, in t
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

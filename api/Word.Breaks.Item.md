@@ -23,7 +23,7 @@ Returns an individual  **Break** object in a collection.
  _expression_ Required. A variable that represents a '[Breaks](Word.Breaks.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

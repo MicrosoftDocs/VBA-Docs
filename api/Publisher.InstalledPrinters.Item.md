@@ -23,7 +23,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
  _expression_ A variable that represents an  **InstalledPrinters** collection.
 
 
-### Parameters
+## Parameters
 
 
 

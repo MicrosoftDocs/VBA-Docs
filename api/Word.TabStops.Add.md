@@ -23,7 +23,7 @@ Returns a  **TabStop** object that represents a custom tab stop added to a docum
  _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

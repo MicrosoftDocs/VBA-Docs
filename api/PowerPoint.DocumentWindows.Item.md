@@ -20,7 +20,7 @@ Returns a single  **DocumentWindow** object from the specified **DocumentWindows
  _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Aligns the shapes in the specified range of shapes.
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

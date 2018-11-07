@@ -23,7 +23,7 @@ Applies or removes strikethrough formatting from the selected text.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

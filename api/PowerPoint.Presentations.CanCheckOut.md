@@ -23,7 +23,7 @@ Returns  **True** if Microsoft PowerPoint can check out a specified presentation
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

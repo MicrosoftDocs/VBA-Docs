@@ -23,7 +23,7 @@ Deletes the specified plate.
  _expression_ A variable that represents a  **Plate** object.
 
 
-### Parameters
+## Parameters
 
 
 

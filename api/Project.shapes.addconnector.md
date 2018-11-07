@@ -16,7 +16,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

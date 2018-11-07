@@ -23,7 +23,7 @@ Returns the union of two or more ranges.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

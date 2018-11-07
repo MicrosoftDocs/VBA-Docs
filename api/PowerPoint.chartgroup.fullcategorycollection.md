@@ -21,7 +21,7 @@ Returns all the categories in the chart group, or the specified category, whethe
  _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

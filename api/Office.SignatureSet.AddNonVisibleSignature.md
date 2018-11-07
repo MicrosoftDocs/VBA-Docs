@@ -23,7 +23,7 @@ Creates a signature packet when digitally signing a document.
  _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

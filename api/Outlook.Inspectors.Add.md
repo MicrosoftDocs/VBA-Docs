@@ -23,7 +23,7 @@ Creates a new inspector window.
  _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

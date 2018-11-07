@@ -23,7 +23,7 @@ Modifies how the longest bar or shortest bar is evaluated for a data bar conditi
  _expression_ A variable that represents a [ConditionValue](Excel.ConditionValue.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

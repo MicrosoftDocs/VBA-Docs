@@ -23,7 +23,7 @@ Deletes a  **Layer** object. Can also delete shapes assigned to the deleted laye
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Switches to the specified slide during a slide show. You can specify whether you
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

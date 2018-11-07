@@ -21,7 +21,7 @@ Returns information about project summary, including the Project Utilization typ
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

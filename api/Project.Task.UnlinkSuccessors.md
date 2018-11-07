@@ -20,7 +20,7 @@ Removes one or more successors from the task.
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

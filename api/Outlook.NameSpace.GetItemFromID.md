@@ -23,7 +23,7 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

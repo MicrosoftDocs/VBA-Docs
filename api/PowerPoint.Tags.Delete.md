@@ -23,7 +23,7 @@ Deletes a tag.
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

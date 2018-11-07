@@ -23,7 +23,7 @@ Removes all spaces from text except for single spaces between words. Use TRIM on
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

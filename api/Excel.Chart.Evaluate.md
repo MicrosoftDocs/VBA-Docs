@@ -23,7 +23,7 @@ Converts a Microsoft Excel name to an object or a value.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **Window** object that represents a new window of a document.
  _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

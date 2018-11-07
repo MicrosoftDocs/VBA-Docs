@@ -23,7 +23,7 @@ Occurs after a mouse movement has been registered over the control.
  _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

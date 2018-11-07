@@ -23,7 +23,7 @@ Counts the number of cells that contain numbers and counts numbers within the li
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

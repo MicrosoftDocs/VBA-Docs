@@ -23,7 +23,7 @@ Returns information about installed file converters. Returns  **null** if there 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

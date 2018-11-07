@@ -23,7 +23,7 @@ Includes or excludes flagged records in a data source from a mail merge.
  _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

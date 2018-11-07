@@ -23,7 +23,7 @@ Gets a member of the specified  **COMAddIns** collection.
  _expression_ Required. A variable that represents a '[COMAddIns](Office.COMAddIns.md)' object. The specified **COMAddIns** collection.
 
 
-### Parameters
+## Parameters
 
 
 

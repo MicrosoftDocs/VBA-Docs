@@ -23,7 +23,7 @@ Adds a new, empty group to the  **Shortcuts** pane.
  _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

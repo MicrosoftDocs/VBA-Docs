@@ -23,7 +23,7 @@ Returns a  **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that repr
  _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

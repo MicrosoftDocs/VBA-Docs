@@ -23,7 +23,7 @@ Returns a  **[Category](Outlook.Category.md)** object from the collection.
  _expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

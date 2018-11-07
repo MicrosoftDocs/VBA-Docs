@@ -23,7 +23,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified b
  _expression_ A variable that represents a [Borders](./PowerPoint.Borders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

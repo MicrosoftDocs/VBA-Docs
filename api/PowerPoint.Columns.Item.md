@@ -23,7 +23,7 @@ Returns a single  **Column** object from the specified **Columns** collection.
  _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

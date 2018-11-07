@@ -21,7 +21,7 @@ Version Added: Outlook 2013
  _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

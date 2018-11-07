@@ -20,7 +20,7 @@ _expression_. `AddNode`(`Position`, `Type`)
 _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

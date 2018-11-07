@@ -23,7 +23,7 @@ Adds a new, empty  **[ValidationRule](Visio.ValidationRule.md)** object to the *
  _expression_ A variable that represents a [ValidationRules](./Visio.ValidationRules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

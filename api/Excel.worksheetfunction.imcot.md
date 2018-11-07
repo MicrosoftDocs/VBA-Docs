@@ -21,7 +21,7 @@ Returns the cotangent of a complex number.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

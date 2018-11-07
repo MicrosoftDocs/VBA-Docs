@@ -23,7 +23,7 @@ _expression_. `OpenQuery`( ` _QueryName_`, ` _View_`, ` _DataMode_` )
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

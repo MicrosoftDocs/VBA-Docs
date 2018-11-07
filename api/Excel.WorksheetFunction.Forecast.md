@@ -26,7 +26,7 @@ Calculates, or predicts, a future value by using existing values. The predicted 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

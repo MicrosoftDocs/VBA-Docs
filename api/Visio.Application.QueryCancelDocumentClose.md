@@ -20,7 +20,7 @@ Private Sub  _expression_ _'QueryCancelDocumentClose'(**_ByVal doc As [IVDOCUMEN
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

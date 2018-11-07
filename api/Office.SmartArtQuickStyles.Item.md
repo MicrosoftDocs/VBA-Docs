@@ -20,7 +20,7 @@ Retrieves a  **SmartArtQuickStyle** object at the specified index or with the sp
  _expression_ An expression that returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

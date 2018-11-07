@@ -23,7 +23,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
  _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -26,7 +26,7 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
  _expression_ Required. A variable that represents a '[SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md)' object. The specified **SharedWorkspaceMembers** collection.
 
 
-### Parameters
+## Parameters
 
 
 

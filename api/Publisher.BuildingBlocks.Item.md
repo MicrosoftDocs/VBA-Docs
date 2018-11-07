@@ -20,7 +20,7 @@ Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object fr
  _expression_ A variable that represents a  **BuildingBlocks** object.
 
 
-### Parameters
+## Parameters
 
 
 

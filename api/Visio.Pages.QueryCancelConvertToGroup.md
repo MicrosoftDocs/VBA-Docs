@@ -23,7 +23,7 @@ Private Sub  _expression_ _'QueryCancelConvertToGroup'(**_ByVal Selection As [IV
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Deletes the specified range and adds the contents of the range to the Spike (a b
  _expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

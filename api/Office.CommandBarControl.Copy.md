@@ -23,7 +23,7 @@ Copies a command bar control to an existing command bar.
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

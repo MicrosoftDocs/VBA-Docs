@@ -20,7 +20,7 @@ Sets options for displaying timephased data.
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

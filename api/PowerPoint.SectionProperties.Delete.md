@@ -23,7 +23,7 @@ Deletes the section break that sets off the specified section, and optionally de
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

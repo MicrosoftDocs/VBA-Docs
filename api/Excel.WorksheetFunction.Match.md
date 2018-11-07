@@ -23,7 +23,7 @@ Returns the relative position of an item in an array that matches a specified va
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

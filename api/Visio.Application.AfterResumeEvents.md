@@ -20,7 +20,7 @@ Occurs after firing of events is resumed.
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

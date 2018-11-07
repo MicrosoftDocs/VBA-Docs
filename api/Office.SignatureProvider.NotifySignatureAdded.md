@@ -23,7 +23,7 @@ Used to display a dialog box informing the user that the signing process has com
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

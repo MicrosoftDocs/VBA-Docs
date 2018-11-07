@@ -23,7 +23,7 @@ Returns the nominal annual interest rate, given the effective rate and the numbe
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

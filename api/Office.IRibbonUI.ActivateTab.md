@@ -23,7 +23,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

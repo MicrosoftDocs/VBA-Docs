@@ -23,7 +23,7 @@ Evenly distributes the shapes in the specified range of shapes. You can specify 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

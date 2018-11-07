@@ -23,7 +23,7 @@ Closes and optionally saves changes to the displayed Outlook item.
  _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

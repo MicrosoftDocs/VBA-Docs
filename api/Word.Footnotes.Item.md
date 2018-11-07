@@ -23,7 +23,7 @@ Returns an individual  **Footnote** object in a collection.
  _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

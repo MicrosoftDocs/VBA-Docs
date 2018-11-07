@@ -23,7 +23,7 @@ Returns the screen coordinates of the specified range or shape.
  _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

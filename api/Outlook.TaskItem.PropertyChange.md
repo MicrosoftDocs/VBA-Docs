@@ -20,7 +20,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Tas
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

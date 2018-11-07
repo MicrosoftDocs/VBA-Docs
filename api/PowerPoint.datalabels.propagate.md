@@ -21,7 +21,7 @@ Propagates the contents and formatting of the specified data label to all the ot
  _expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

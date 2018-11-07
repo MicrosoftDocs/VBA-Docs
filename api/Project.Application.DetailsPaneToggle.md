@@ -23,7 +23,7 @@ Shows or hides the task or resource  **Details** pane for the selected item.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

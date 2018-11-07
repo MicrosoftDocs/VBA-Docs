@@ -23,7 +23,7 @@ Adds one or more new series to the collection.
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

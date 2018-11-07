@@ -23,7 +23,7 @@ Synchronizes the information in the sharer project with the information in the l
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

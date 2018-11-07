@@ -20,7 +20,7 @@ Creates a new building block and returns a  **BuildingBlock** object.
  _expression_ An expression that returns a [BuildingBlocks](./Word.BuildingBlocks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

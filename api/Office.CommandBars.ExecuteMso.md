@@ -23,7 +23,7 @@ Executes the control identified by the  **idMso** parameter.
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

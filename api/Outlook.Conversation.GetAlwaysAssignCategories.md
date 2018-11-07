@@ -23,7 +23,7 @@ Returns a  **String** that indicates the category or categories that are assigne
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

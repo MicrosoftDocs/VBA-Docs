@@ -23,7 +23,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

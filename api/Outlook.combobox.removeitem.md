@@ -21,7 +21,7 @@ Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
  _expression_ A variable that represents a  **ComboBox** object.
 
 
-### Parameters
+## Parameters
 
 
 

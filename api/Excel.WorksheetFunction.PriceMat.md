@@ -23,7 +23,7 @@ Returns the price per $100 face value of a security that pays interest at maturi
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Verifies whether the Project Web App URL belongs to a trusted site in the user's
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

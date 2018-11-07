@@ -23,7 +23,7 @@ Converts real and imaginary coefficients into a complex number of the form x + y
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

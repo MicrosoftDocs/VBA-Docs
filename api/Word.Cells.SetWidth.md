@@ -23,7 +23,7 @@ Sets the width of columns or cells in a table.
  _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

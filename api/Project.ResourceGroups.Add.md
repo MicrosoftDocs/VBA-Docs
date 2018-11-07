@@ -20,7 +20,7 @@ Adds a  **Group** object to a **ResourceGroups** collection.
  _expression_ A variable that represents a 'ResourceGroups' object.
 
 
-### Parameters
+## Parameters
 
 
 

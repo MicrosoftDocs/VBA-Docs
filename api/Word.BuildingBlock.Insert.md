@@ -23,7 +23,7 @@ Inserts the value of a building block into a document and returns a  **[Range](W
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

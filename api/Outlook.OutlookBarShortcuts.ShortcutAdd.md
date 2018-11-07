@@ -23,7 +23,7 @@ Occurs when a new shortcut is added to a  **Shortcuts** pane group.
  _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

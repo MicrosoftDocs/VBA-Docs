@@ -23,7 +23,7 @@ Returns a  **String** that represents the XML text in the specified object. .
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

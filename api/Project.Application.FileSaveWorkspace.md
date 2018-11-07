@@ -23,7 +23,7 @@ Saves a list of open files and the current settings in the  **Options** dialog b
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

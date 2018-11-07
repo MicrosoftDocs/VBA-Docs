@@ -23,7 +23,7 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

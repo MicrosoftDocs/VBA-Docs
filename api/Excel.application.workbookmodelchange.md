@@ -21,7 +21,7 @@ Occurs when the data model is updated.
  _expression_ A variable that represents a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

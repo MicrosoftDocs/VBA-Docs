@@ -23,7 +23,7 @@ Synchronizes a local project in Project Professional with a SharePoint 2013 task
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

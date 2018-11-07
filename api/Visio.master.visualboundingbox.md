@@ -18,7 +18,7 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 |||||

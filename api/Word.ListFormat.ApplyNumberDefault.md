@@ -23,7 +23,7 @@ Adds the default numbering scheme to the paragraphs in the range for the specifi
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -26,7 +26,7 @@ Creates a new  **CommandBarControl** object and adds it to the collection of con
  _expression_ Required. A variable that represents a '[CommandBarControls](Office.CommandBarControls.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

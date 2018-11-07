@@ -23,7 +23,7 @@ Inserts an empty, 1-inch-square Word picture object surrounded by a border. This
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

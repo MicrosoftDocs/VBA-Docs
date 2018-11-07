@@ -23,7 +23,7 @@ Adds the specified  **[Folder](Outlook.Folder.md)** , as a **[NavigationFolder](
  _expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

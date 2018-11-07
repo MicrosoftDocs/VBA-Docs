@@ -23,7 +23,7 @@ Returns an  **AutoTextEntry** object that represents an AutoText entry added to 
  _expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

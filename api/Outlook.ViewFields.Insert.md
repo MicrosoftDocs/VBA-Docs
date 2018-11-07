@@ -23,7 +23,7 @@ Creates a new  **[ViewField](Outlook.ViewField.md)** object and inserts it at th
  _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

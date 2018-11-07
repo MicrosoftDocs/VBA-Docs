@@ -20,7 +20,7 @@ Removes a gradient stop.
  _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

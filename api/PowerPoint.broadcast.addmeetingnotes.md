@@ -21,7 +21,7 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
  _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

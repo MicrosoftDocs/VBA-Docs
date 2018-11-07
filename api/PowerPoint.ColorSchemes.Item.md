@@ -23,7 +23,7 @@ Returns a single  **ColorScheme** object from the specified **ColorSchemes** col
  _expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

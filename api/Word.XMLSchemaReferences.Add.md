@@ -23,7 +23,7 @@ Returns an  **XMLSchemaReference** that represents a schema applied to a documen
  _expression_ Required. A variable that represents a '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

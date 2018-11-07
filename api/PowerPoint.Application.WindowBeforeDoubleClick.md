@@ -23,7 +23,7 @@ Occurs when you double-click the items in the views listed in the following tabl
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

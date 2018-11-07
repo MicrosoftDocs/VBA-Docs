@@ -21,7 +21,7 @@ Returns the probability of a trial result using a binomial distribution.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

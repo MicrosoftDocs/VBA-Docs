@@ -21,7 +21,7 @@ Adds a new relationship to the model.
  _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object (Excel).
 
 
-### Parameters
+## Parameters
 
 
 

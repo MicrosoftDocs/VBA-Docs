@@ -23,7 +23,7 @@ Sizes the Microsoft Publisher application window.
  _expression_ A variable that represents a  **Window** object.
 
 
-### Parameters
+## Parameters
 
 
 

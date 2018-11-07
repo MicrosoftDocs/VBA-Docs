@@ -23,7 +23,7 @@ Returns a  **Document** object that represents a new publication.
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

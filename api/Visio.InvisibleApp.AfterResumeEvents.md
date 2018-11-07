@@ -20,7 +20,7 @@ Occurs after firing of events is resumed.
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an individual  **Shape** object in a collection.
  _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

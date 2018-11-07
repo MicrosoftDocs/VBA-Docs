@@ -23,7 +23,7 @@ Gets a value that indicates which file type will be searched for. Read-only.
  _expression_ Required. A variable that represents a '[FileTypes](Office.FileTypes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new attachment in the  **[Attachments](Outlook.Attachments.md)** colle
  _expression_ A variable that represents an [Attachments](./Outlook.Attachments.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

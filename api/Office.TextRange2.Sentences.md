@@ -20,7 +20,7 @@ Returns a  **TextRange2** object that represents the specified subset of text se
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

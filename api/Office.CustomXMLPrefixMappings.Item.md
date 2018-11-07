@@ -23,7 +23,7 @@ Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** c
  _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Returns a bitwise 'Exclusive Or' of two numbers.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

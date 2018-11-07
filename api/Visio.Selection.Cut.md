@@ -23,7 +23,7 @@ Deletes a selection and places it on the Clipboard.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the modified Macauley duration for a security with an assumed par value 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

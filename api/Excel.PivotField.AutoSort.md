@@ -23,7 +23,7 @@ Establishes automatic field-sorting rules for PivotTable reports.
  _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

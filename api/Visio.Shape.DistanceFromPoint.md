@@ -23,7 +23,7 @@ Returns the distance from a shape to a point. Read-only.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

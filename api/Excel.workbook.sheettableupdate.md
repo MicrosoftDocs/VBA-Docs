@@ -21,7 +21,7 @@ Occurs after the sheet table has been updated.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

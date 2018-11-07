@@ -23,7 +23,7 @@ Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to
  _expression_ A variable that represents an '[OutlookBarPane](Outlook.OutlookBarPane.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ This method is only implemented for the  **Charts** collection object and will p
  _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

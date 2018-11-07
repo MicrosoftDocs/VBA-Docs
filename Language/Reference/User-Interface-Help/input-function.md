@@ -18,7 +18,7 @@ Returns [String](../../Glossary/vbe-glossary.md#string-data-type) containing cha
 **Input**(_number_, [ **#** ] _filenumber_ )
 The **Input** function syntax has these parts:
 
-### Parameters
+## Parameters
 |**Part**|**Description**|
 |:-----|:-----|
 | _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) specifying the number of characters to return.|

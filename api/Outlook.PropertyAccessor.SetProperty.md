@@ -23,7 +23,7 @@ Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

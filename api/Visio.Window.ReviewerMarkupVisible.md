@@ -23,7 +23,7 @@ Determines whether reviewer markup, for a particular reviewer or all reviewers, 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

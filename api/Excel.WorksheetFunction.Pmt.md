@@ -23,7 +23,7 @@ Calculates the payment for a loan based on constant payments and a constant inte
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType** .
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

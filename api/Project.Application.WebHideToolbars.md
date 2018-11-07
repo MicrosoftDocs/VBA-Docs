@@ -23,7 +23,7 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

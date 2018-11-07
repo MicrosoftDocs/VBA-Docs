@@ -23,7 +23,7 @@ Returns the negative binomial distribution. NEGBINOM_DIST returns the probabilit
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

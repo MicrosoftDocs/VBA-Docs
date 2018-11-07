@@ -26,7 +26,7 @@ Inserts a data graphics legend on a Microsoft Visio drawing page. Returns the li
  _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

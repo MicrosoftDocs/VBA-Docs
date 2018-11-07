@@ -20,7 +20,7 @@ Occurs before an attachment is added to an instance of the parent object.
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

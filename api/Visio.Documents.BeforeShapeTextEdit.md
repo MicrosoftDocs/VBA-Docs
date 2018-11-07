@@ -23,7 +23,7 @@ Private Sub  _expression_ _'BeforeShapeTextEdit'(**_ByVal Shape As [IVSHAPE]_**)
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

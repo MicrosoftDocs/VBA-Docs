@@ -23,7 +23,7 @@ Creates a new embedded chart.
  _expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

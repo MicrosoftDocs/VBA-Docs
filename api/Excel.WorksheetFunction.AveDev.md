@@ -23,7 +23,7 @@ Returns the average of the absolute deviations of data points from their mean. A
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

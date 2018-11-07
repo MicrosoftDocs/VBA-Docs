@@ -20,7 +20,7 @@ Occurs before an attachment is added to an instance of the parent object.
  _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

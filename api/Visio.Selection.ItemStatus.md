@@ -23,7 +23,7 @@ Indicates if an item in a  **Selection** object is subselected, if the group to 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

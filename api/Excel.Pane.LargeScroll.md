@@ -23,7 +23,7 @@ Scrolls the contents of the window by pages.
  _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

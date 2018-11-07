@@ -23,7 +23,7 @@ Obtains a  **String** that represents an item at the specified location in the l
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

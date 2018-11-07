@@ -23,7 +23,7 @@ Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

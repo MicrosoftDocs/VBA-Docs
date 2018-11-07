@@ -23,7 +23,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Calen
  _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

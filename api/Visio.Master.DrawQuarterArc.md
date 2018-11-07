@@ -23,7 +23,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

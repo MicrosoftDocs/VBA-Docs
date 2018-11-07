@@ -23,7 +23,7 @@ Returns a constant in the  **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDelete
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

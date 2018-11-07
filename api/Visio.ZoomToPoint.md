@@ -20,7 +20,7 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 

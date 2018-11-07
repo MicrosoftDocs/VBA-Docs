@@ -23,7 +23,7 @@ Displays a cached document associated with the specified  **Hyperlink** object, 
  _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

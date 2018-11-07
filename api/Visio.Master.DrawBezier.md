@@ -23,7 +23,7 @@ Creates a shape whose path is defined by the supplied sequence of Bezier control
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

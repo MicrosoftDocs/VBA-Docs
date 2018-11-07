@@ -23,7 +23,7 @@ Turns on extend mode, or if extend mode is already on, extends the selection to 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

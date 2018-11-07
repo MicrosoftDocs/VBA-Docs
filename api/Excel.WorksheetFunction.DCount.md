@@ -23,7 +23,7 @@ Counts the cells that contain numbers in a column of a list or database that mat
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

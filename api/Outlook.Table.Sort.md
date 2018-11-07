@@ -23,7 +23,7 @@ Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified i
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

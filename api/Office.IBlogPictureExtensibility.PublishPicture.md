@@ -23,7 +23,7 @@ Used to post a picture object to its final destination in a blog.
  _expression_ An expression that returns a [IBlogPictureExtensibility](./Office.IBlogPictureExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

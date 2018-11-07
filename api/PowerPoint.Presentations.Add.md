@@ -23,7 +23,7 @@ Creates a presentation. Returns a  **[Presentation](PowerPoint.Presentation.md)*
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

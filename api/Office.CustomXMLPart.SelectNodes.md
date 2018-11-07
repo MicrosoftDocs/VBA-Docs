@@ -23,7 +23,7 @@ Selects a collection of nodes from a custom XML part.
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

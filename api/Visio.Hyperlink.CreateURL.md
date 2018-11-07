@@ -23,7 +23,7 @@ Returns a fully qualified and optionally canonicalized representation of the hyp
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

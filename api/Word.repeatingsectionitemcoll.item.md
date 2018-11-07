@@ -21,7 +21,7 @@ Returns an individual repeating section item.
  _expression_ A variable that represents a 'RepeatingSectionItemColl' object.
 
 
-### Parameters
+## Parameters
 
 
 

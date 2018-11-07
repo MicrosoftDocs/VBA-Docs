@@ -21,7 +21,7 @@ Sorts the headings in the specified range.
  _expression_ A variable that represents a [Range](./Word.Range.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

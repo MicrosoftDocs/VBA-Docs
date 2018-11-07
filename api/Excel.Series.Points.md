@@ -23,7 +23,7 @@ Returns an object that represents a single point (a  **[Point](Excel.Point(objec
  _expression_ An expression that returns a [Series](./Excel.Series(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

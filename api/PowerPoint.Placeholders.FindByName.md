@@ -23,7 +23,7 @@ Finds the placeholder in the  **[Placeholders](PowerPoint.Placeholders.md)** col
  _expression_ An expression that returns a [Placeholders](./PowerPoint.Placeholders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

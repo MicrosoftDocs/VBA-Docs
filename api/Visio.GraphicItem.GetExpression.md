@@ -26,7 +26,7 @@ Gets the label of the shape data item (custom property) that the  **GraphicItem*
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

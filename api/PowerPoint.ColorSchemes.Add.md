@@ -23,7 +23,7 @@ Adds a color scheme to the collection of available schemes. Returns a  **[ColorS
  _expression_ A variable that represents a [ColorSchemes](./PowerPoint.ColorSchemes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Gets a  **PolicyItem** object from the **ServerPolicy** collection. Read-only.
  _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

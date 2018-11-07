@@ -23,7 +23,7 @@ Returns an individual object in a specified collection.
  _expression_ A variable that represents a  **CatalogMergeShapes** object.
 
 
-### Parameters
+## Parameters
 
 
 

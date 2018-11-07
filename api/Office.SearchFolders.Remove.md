@@ -23,7 +23,7 @@ Removes the specified object from the collection.
  _expression_ Required. A variable that represents a '[SearchFolders](Office.SearchFolders.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

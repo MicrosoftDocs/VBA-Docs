@@ -23,7 +23,7 @@ Displays the  **Check Phone Number** dialog box for a specified telephone number
  _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

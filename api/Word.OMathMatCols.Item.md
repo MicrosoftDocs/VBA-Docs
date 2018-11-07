@@ -23,7 +23,7 @@ Returns an  **OMathMatCol** object that represents the specified item in the col
  _expression_ An expression that returns an '[OMathMatCols](Word.OMathMatCols.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

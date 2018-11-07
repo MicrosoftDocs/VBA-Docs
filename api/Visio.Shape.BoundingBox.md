@@ -23,7 +23,7 @@ Returns a rectangle that tightly encloses a shape.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

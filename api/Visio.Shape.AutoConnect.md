@@ -23,7 +23,7 @@ Automatically draws a connection in the specified direction between the shape an
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

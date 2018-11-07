@@ -23,7 +23,7 @@ Returns an object from a collection. Read-only.
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) fi
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Parameters
+## Parameters
 
 
 

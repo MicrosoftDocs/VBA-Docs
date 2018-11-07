@@ -23,7 +23,7 @@ Returns the inverse of the left-tailed probability of the chi-squared distributi
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

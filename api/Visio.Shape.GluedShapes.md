@@ -23,7 +23,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

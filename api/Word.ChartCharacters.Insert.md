@@ -23,7 +23,7 @@ Inserts a string preceding the selected characters.
  _expression_ A variable that represents a '[ChartCharacters](Word.ChartCharacters.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

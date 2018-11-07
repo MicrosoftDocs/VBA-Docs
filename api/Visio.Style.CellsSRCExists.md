@@ -23,7 +23,7 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

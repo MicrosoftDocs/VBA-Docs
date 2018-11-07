@@ -23,7 +23,7 @@ Scales the height of the shapes in the range by a specified factor.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

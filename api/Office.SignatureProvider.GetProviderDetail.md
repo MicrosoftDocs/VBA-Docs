@@ -23,7 +23,7 @@ Queries the signature provider add-in for various details.
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

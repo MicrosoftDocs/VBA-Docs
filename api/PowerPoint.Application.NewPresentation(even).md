@@ -23,7 +23,7 @@ Occurs after a presentation is created, as it is added to the  **[Presentations]
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Substitutes new_text for old_text in a text string. Use SUBSTITUTE when you want
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

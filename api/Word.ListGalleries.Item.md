@@ -23,7 +23,7 @@ Returns an individual  **ListGalleries** object in a collection.
  _expression_ An expression that returns a 'ListGalleries' object.
 
 
-### Parameters
+## Parameters
 
 
 

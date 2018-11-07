@@ -23,7 +23,7 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Changes the scenario to have a new set of changing cells and (optionally) scenar
  _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Saves the font scheme of a Microsoft Office theme to a file.
  _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

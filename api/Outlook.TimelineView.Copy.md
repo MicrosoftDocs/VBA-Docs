@@ -23,7 +23,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Timel
  _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

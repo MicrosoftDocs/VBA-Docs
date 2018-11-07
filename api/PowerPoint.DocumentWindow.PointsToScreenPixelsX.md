@@ -23,7 +23,7 @@ Converts a horizontal measurement from points to pixels. Used to return a horizo
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

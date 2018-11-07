@@ -23,7 +23,7 @@ Occurs when a reminder is dismissed using the  **Snooze** button.
  _expression_ An expression that returns a [Reminders](./Outlook.Reminders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

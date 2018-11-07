@@ -23,7 +23,7 @@ Inserts an argument into an equation with variable number of arguments (**OMathD
  _expression_ An expression that returns a [OMathArgs](./Word.OMathArgs.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

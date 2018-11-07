@@ -23,7 +23,7 @@ Shows or hides the  **Add New Column** column at the right side of the active sh
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

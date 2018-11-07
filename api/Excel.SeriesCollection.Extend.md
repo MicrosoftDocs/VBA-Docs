@@ -23,7 +23,7 @@ Adds new data points to an existing series collection.
  _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

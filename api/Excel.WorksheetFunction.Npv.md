@@ -23,7 +23,7 @@ Calculates the net present value of an investment by using a discount rate and a
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

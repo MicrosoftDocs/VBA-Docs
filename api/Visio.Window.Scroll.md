@@ -23,7 +23,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

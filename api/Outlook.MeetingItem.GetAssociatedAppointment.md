@@ -23,7 +23,7 @@ Returns an  **[AppointmentItem](Outlook.AppointmentItem.md)** object that repres
  _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

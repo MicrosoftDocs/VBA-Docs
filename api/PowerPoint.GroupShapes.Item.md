@@ -23,7 +23,7 @@ Returns a single  **Shape** object from the specified **GroupShapes** collection
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

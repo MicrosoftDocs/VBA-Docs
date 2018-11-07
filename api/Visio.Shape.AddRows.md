@@ -23,7 +23,7 @@ Adds the specified number of rows to a ShapeSheet section at a specified positio
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

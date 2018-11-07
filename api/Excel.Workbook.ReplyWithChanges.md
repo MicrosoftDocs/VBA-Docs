@@ -23,7 +23,7 @@ Sends an e-mail message to the author of a workbook that has been sent out for r
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

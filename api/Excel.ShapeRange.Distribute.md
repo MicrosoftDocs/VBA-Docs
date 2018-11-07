@@ -23,7 +23,7 @@ Horizontally or vertically distributes the shapes in the specified range of shap
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

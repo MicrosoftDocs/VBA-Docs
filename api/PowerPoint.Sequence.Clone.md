@@ -23,7 +23,7 @@ Creates a copy of an  **[Effect](PowerPoint.Effect.md)** object, and adds it to 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

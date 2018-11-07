@@ -23,7 +23,7 @@ Changes the case of the specified text.
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

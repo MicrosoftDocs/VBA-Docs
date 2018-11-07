@@ -23,7 +23,7 @@ Adds a new connction to the workbook.
  _expression_ A variable that represents a [Connections](Excel.Connections.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

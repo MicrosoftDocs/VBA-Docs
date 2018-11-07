@@ -21,7 +21,7 @@ Returns a single object from the  **ModelTableNames** collection.
  _expression_ A variable that represents a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

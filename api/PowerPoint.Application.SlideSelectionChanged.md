@@ -23,7 +23,7 @@ Occurs at different times depending on the current view.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Ta
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

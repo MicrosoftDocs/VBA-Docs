@@ -23,7 +23,7 @@ Returns an individual  **HTMLDivision** object in a collection.
  _expression_ Required. A variable that represents an '[HTMLDivisions](Word.HTMLDivisions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

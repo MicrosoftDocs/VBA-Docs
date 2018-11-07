@@ -23,7 +23,7 @@ Ends or cancels a transaction that has a unique scope.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

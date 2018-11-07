@@ -23,7 +23,7 @@ _expression_. `NavigateError`( ` _pDisp_`, ` _URL_`, ` _TargetFrameName_`, ` _St
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ _expression_. `LinEst`(`Arg1` , `Arg2` , `Arg3` , `Arg4`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

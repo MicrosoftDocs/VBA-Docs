@@ -20,7 +20,7 @@ Gets a single  **CostRateTable** object from the **CostRateTables** collection. 
  _expression_ A variable that represents a 'CostRateTables' object.
 
 
-### Parameters
+## Parameters
 
 
 

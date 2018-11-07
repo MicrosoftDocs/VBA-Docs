@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

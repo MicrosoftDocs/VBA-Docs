@@ -23,7 +23,7 @@ Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the spec
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

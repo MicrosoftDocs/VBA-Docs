@@ -23,7 +23,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

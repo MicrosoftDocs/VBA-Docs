@@ -20,7 +20,7 @@ Read-only.
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

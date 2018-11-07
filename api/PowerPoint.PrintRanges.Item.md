@@ -23,7 +23,7 @@ Returns a single  **PrintRange** object from the specified **PrintRanges** colle
  _expression_ A variable that represents a [PrintRanges](./PowerPoint.PrintRanges.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

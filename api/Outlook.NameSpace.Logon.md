@@ -23,7 +23,7 @@ Logs the user on to MAPI, obtaining a MAPI session.
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

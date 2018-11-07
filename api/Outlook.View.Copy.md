@@ -23,7 +23,7 @@ Creates a new instance of a  **[View](Outlook.View.md)** object.
  _expression_ A variable that represents a [View](./Outlook.View.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

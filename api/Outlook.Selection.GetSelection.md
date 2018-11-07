@@ -23,7 +23,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
  _expression_ A variable that represents a [Selection](./Outlook.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a horizontal page break.
  _expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an individual  **Template** object in a collection.
  _expression_ Required. A variable that represents a '[Templates](Word.templates.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

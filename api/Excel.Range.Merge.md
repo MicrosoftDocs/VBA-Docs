@@ -23,7 +23,7 @@ Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** ob
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

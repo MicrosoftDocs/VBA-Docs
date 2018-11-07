@@ -23,7 +23,7 @@ Adds new topics from a real-time data server. The  **ConnectData** method is cal
  _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

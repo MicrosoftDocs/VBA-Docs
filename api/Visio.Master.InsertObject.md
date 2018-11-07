@@ -23,7 +23,7 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

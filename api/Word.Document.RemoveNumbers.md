@@ -23,7 +23,7 @@ Removes numbers or bullets from the specified document.
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

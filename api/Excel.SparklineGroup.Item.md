@@ -23,7 +23,7 @@ Returns a  **[Sparkline](Excel.Sparkline.md)** object. Read-only
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

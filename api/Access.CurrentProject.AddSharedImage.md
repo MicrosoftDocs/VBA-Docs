@@ -23,7 +23,7 @@ _expression_. `AddSharedImage`( ` _SharedImageName_`, ` _FileName_` )
 _expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

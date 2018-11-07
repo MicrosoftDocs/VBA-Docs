@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

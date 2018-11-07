@@ -18,7 +18,7 @@ Returns an individual [Series](PowerPoint.Series.md) object from the collection.
  _expression_ A variable that represents a 'FullSeriesCollection' object.
 
 
-### Parameters
+## Parameters
 
 
 

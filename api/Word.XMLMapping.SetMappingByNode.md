@@ -23,7 +23,7 @@ Allows creating or changing the XML data mapping on a content control. Returns  
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

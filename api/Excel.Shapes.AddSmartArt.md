@@ -23,7 +23,7 @@ Creates a new SmartArt graphic with the specified layout.
  _expression_ A variable that represents a '[Shapes](Excel.Shapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

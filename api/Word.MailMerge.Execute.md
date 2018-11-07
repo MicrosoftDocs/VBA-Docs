@@ -23,7 +23,7 @@ Performs the specified mail merge operation.
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

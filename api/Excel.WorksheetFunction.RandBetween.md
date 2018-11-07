@@ -23,7 +23,7 @@ Returns a random integer number between the numbers you specify. A new random in
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

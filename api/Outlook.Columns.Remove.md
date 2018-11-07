@@ -23,7 +23,7 @@ Removes the  **[Column](Outlook.Column.md)** object specified by _Index_ and res
  _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

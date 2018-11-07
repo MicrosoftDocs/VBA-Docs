@@ -23,7 +23,7 @@ Returns an individual  **Dictionary** object in a collection.
  _expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

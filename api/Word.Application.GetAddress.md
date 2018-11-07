@@ -23,7 +23,7 @@ _expression_. **GetAddress** (**_Name_**, **_AddressProperties_**, **_UseAutoTex
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -23,7 +23,7 @@ Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

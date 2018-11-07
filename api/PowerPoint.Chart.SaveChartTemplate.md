@@ -23,7 +23,7 @@ Saves a custom chart template to the list of available chart templates.
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

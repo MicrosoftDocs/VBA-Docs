@@ -23,7 +23,7 @@ Finds specific text in a text range, replaces the found text with a specified st
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

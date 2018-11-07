@@ -23,7 +23,7 @@ Adds a line to the  **Shapes** collection of a master.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

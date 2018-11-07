@@ -23,7 +23,7 @@ Returns the inverse hyperbolic cosine of a number. Number must be greater than o
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

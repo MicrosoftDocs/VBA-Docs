@@ -23,7 +23,7 @@ Scrolls through the specified document window by pages.
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

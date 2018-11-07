@@ -23,7 +23,7 @@ Returns a  **Table** object that represents a new, blank table added to a docume
  _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

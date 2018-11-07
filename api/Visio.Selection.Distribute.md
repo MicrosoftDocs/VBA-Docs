@@ -23,7 +23,7 @@ Distributes three or more selected shapes at regular intervals on the drawing pa
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

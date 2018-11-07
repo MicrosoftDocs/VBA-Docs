@@ -23,7 +23,7 @@ Returns an individual  **Conflicts** object in a collection.
  _expression_ An expression that returns a [Conflicts](./Word.Conflicts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

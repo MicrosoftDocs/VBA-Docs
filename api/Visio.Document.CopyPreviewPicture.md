@@ -23,7 +23,7 @@ Copies the preview picture from another document into the current document.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Performs the specified mail merge or catalog merge operation. Returns a  **[Docu
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Parameters
+## Parameters
 
 
 

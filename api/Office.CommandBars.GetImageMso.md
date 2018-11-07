@@ -26,7 +26,7 @@ Returns an  **IPictureDisp** object of the control image identified by the **idM
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

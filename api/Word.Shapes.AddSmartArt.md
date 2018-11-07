@@ -23,7 +23,7 @@ Inserts the specified SmartArt graphic into the active document.
  _expression_ An expression that returns a '[Shapes](Word.shapes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

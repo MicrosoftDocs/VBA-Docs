@@ -23,7 +23,7 @@ Occurs when a protected view window is opened.
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteri
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

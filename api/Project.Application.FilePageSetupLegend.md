@@ -23,7 +23,7 @@ _expression_. **FilePageSetupLegend** (**_Name_**, **_TextWidth_**, **_LegendOn_
 _expression_ A variable that represents an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

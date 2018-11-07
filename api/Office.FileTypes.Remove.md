@@ -23,7 +23,7 @@ Removes a  **FileType** object from the collection.
  _expression_ Required. A variable that represents a '[FileTypes](Office.FileTypes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

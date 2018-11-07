@@ -23,7 +23,7 @@ Removes sensitive information, properties, comments, and other metadata from a d
  _expression_ An expression that returns a [Document](Word.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a horizontal line based on an image file to the current document.
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

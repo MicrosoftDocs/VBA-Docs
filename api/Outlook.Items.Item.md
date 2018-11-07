@@ -23,7 +23,7 @@ Returns an Outlook item from a collection.
  _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

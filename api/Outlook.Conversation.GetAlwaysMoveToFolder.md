@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in t
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

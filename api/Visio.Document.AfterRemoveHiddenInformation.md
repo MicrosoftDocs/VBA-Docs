@@ -23,7 +23,7 @@ Occurs when hidden information is removed from the document.
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

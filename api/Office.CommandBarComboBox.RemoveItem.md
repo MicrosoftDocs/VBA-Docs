@@ -26,7 +26,7 @@ Removes an item from a  **CommandBarComboBox** control.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

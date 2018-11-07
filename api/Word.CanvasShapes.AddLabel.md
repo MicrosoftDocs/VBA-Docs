@@ -23,7 +23,7 @@ Adds a text label to a drawing canvas. Returns a  **[Shapes](Word.shapes.md)** o
  _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Checks a string for spelling errors. Returns a  **Boolean** to indicate whether 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Private Sub  _expression_ _'UngroupCanceled'(**_ByVal Selection As [IVSELECTION]
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

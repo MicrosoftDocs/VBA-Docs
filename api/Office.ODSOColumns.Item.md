@@ -23,7 +23,7 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
  _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

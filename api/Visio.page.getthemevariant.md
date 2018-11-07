@@ -18,7 +18,7 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

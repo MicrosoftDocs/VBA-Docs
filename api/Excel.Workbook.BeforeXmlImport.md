@@ -23,7 +23,7 @@ Occurs before an existing XML data connection is refreshed or before new XML dat
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

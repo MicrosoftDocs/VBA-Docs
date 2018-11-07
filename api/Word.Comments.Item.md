@@ -23,7 +23,7 @@ Returns an individual  **Comment** object in a collection.
  _expression_ Required. A variable that represents a '[Comments](Word.comments.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

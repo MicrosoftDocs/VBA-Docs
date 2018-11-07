@@ -20,7 +20,7 @@ Private Sub  _expression_ _'BeforeSelectionDelete'(**_ByVal Selection As [IVSELE
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

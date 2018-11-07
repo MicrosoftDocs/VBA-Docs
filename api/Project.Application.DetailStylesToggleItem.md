@@ -23,7 +23,7 @@ Toggles the display of a timescale data field in a usage view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

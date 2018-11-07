@@ -23,7 +23,7 @@ Begins a spelling check for the specified document or range. .
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

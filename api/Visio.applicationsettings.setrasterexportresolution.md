@@ -19,7 +19,7 @@ _expression_. **SetRasterExportResolution** (**_resolution_**, **_Width_**, **_H
 
 _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

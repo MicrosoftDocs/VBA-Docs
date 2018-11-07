@@ -23,7 +23,7 @@ Returns the interest rate per period of an annuity. RATE is calculated by iterat
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Navigates a tracer arrow for the specified range to the precedent, dependent, or
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
  _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

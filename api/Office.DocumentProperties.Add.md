@@ -23,7 +23,7 @@ _expression_. **Add** (**_Name_**, **_LinkToContent_**, **_Type_**, **_Value_**,
 _expression_ Required. A variable that represents a **[DocumentProperties](Office.DocumentProperties.md)** object. The custom **DocumentProperties** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

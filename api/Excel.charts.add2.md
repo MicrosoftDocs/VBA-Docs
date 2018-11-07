@@ -21,7 +21,7 @@ Inserts a chart directly onto the grid.
  _expression_ A variable that represents a [Charts](Excel.Charts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

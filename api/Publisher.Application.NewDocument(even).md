@@ -23,7 +23,7 @@ Occurs when a new publication is created.
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

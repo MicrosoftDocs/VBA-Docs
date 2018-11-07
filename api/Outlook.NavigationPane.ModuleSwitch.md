@@ -23,7 +23,7 @@ Occurs after the selection changes for a navigation module in the  **[Navigation
  _expression_ A variable that represents a [NavigationPane](./Outlook.NavigationPane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

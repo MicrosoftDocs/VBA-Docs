@@ -23,7 +23,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
  _expression_ A variable that represents a '[PivotTableChangeList](Excel.PivotTableChangeList.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

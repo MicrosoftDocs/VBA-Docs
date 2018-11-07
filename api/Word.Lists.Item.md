@@ -23,7 +23,7 @@ Returns an individual  **List** object in a collection.
  _expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

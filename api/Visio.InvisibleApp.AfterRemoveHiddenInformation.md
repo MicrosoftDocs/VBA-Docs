@@ -20,7 +20,7 @@ Occurs when hidden information is removed from the document.
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

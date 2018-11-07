@@ -23,7 +23,7 @@ Copies the selected object to the Clipboard as a picture.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

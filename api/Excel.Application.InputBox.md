@@ -23,7 +23,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -23,7 +23,7 @@ Adds a new section at the specified index position and returns the index of the 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

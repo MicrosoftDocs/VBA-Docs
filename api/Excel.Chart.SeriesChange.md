@@ -26,7 +26,7 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

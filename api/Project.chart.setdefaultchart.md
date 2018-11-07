@@ -16,7 +16,7 @@ Specifies the name of the default chart template that Project uses when creating
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

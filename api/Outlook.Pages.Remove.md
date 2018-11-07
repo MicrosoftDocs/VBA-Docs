@@ -23,7 +23,7 @@ Removes an object from the collection.
  _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

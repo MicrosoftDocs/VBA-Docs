@@ -23,7 +23,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Changes or creates a Gantt bar style, where colors can be hexadecimal values.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

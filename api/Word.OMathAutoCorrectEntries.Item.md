@@ -23,7 +23,7 @@ Returns an  **OMathAutoCorrectEntry** object that represents the specified item 
  _expression_ An expression that returns an '[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

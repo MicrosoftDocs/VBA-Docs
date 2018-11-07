@@ -20,7 +20,7 @@ Gets an individual object from the  **TabStops2** collection.
  _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

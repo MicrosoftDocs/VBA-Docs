@@ -23,7 +23,7 @@ Adds phonetic text to the specified cell.
  _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

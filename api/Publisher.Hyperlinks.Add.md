@@ -23,7 +23,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
  _expression_ A variable that represents a  **Hyperlinks** object.
 
 
-### Parameters
+## Parameters
 
 
 

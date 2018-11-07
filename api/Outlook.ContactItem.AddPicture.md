@@ -23,7 +23,7 @@ Adds a picture to a contact item.
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

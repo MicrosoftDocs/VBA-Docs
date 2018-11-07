@@ -23,7 +23,7 @@ Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ 
  _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

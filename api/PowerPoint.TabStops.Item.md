@@ -23,7 +23,7 @@ Returns a single tab stop from the specified  **TabStops** collection.
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

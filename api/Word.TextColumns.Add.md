@@ -23,7 +23,7 @@ Returns a  **TextColumn** object that represents a new text column added to a se
  _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

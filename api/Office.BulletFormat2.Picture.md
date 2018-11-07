@@ -20,7 +20,7 @@ Sets the graphics file to be used for bullets in a bulleted list.
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

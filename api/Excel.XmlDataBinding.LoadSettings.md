@@ -23,7 +23,7 @@ Initializes the specified data binding with settings from an XML data file or a 
  _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the ratio of the factorial of a sum of values to the product of factoria
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

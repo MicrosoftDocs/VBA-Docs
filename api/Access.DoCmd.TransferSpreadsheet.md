@@ -23,7 +23,7 @@ _expression_. `TransferSpreadsheet` (`_TransferType_`, `_SpreadsheetType_`, `_Ta
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

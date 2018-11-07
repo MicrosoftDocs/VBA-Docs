@@ -26,7 +26,7 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
  _expression_ Required. A variable that represents a '[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)' object. The specified **SharedWorkspaceFolders** collection.
 
 
-### Parameters
+## Parameters
 
 
 

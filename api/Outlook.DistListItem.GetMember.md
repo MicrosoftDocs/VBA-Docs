@@ -23,7 +23,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in
  _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ REPLACEB replaces part of a text string, based on the number of bytes you specif
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

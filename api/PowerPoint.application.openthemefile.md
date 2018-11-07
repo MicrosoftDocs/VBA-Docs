@@ -21,7 +21,7 @@ Opens the specified theme file (*thmx).
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

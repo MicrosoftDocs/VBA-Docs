@@ -23,7 +23,7 @@ Opens a dynamic data exchange (DDE) channel to an application.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

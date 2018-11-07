@@ -21,7 +21,7 @@ Returns a value number shifted left by shift_amount bits.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

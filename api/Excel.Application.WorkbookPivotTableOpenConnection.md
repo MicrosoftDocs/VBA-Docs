@@ -23,7 +23,7 @@ Occurs after a PivotTable report connection has been opened.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

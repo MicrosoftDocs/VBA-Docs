@@ -23,7 +23,7 @@ Sets a character property of a  **Characters** object to a new value. Write-only
  _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

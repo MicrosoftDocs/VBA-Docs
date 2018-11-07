@@ -23,7 +23,7 @@ Deletes the specified number of characters or words.
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

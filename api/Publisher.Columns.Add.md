@@ -23,7 +23,7 @@ Adds a new  **Column** object to the specified **Columns** collection and return
  _expression_ A variable that represents a  **Columns** object.
 
 
-### Parameters
+## Parameters
 
 
 

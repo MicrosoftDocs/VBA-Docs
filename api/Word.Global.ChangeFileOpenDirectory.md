@@ -23,7 +23,7 @@ Sets the folder in which Word searches for documents. .
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 

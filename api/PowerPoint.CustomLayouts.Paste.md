@@ -23,7 +23,7 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
  _expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

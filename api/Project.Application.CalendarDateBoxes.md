@@ -23,7 +23,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

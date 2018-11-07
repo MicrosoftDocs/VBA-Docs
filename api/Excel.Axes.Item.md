@@ -23,7 +23,7 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
  _expression_ A variable that represents an [Axes](Excel.Axes(object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

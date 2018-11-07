@@ -23,7 +23,7 @@ Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
  _expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
  _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

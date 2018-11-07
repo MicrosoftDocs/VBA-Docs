@@ -20,7 +20,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

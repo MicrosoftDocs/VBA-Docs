@@ -23,7 +23,7 @@ Private Sub  _expression_ _'FormulaChanged'(**_ByVal Cell As [IVCELL]_**)
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

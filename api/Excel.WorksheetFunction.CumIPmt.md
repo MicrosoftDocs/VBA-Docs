@@ -23,7 +23,7 @@ Returns the cumulative interest paid on a loan between start_period and end_peri
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

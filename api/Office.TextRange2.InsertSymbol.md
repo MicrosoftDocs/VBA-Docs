@@ -20,7 +20,7 @@ Inserts a symbol from the specified font set into the range of text represented 
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the vertical or horizontal position, in points, of a point on a chart it
  _expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

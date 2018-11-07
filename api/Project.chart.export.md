@@ -16,7 +16,7 @@ Exports a chart in a graphic file format.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

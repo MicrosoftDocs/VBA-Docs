@@ -23,7 +23,7 @@ _expression_. `CurrentWebUser`( ` _DisplayOption_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _In
  _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

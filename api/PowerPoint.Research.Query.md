@@ -23,7 +23,7 @@ Specifies a research query.
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

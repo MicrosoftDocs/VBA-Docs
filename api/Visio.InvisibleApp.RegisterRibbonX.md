@@ -23,7 +23,7 @@ Registers the  **[IRibbonExtensibility](./Office.IRibbonExtensibility.md)** inte
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

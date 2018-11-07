@@ -23,7 +23,7 @@ Returns a single  **Pane** object from the specified **Panes** collection.
  _expression_ A variable that represents a [Panes](./PowerPoint.Panes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

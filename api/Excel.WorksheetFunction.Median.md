@@ -23,7 +23,7 @@ Returns the median of the given numbers. The median is the number in the middle 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

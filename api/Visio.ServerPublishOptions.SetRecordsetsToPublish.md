@@ -23,7 +23,7 @@ Sets the data recordsets to be published to a server.
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

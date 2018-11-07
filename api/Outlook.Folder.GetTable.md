@@ -23,7 +23,7 @@ Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by 
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

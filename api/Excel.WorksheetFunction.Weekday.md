@@ -23,7 +23,7 @@ Returns the day of the week corresponding to a date. The day is given as an inte
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

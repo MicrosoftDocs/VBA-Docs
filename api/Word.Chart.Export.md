@@ -23,7 +23,7 @@ Exports the chart in a graphic format.
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

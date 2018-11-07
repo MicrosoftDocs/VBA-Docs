@@ -23,7 +23,7 @@ Sets a custom icon file for a menu or toolbar item.
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

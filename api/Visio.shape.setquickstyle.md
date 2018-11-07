@@ -18,7 +18,7 @@ Sets the quick style of the specified shape.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

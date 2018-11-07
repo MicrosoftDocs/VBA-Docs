@@ -23,7 +23,7 @@ Selects part of a PivotTable report.
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

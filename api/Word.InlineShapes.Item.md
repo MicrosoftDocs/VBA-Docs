@@ -23,7 +23,7 @@ Returns an individual  **InlineShape** object in a collection.
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

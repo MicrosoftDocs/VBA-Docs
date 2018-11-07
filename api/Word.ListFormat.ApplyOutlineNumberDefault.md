@@ -23,7 +23,7 @@ Adds the default outline-numbering scheme to the paragraphs in the range for the
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

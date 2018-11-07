@@ -23,7 +23,7 @@ Returns a normalized value from a distribution characterized by mean and standar
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

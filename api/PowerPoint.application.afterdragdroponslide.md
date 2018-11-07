@@ -21,7 +21,7 @@ Occurs after a shape has been dropped onto a slide in an open presentation.
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

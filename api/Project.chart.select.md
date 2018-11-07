@@ -19,7 +19,7 @@ Selects one or more charts in a report.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

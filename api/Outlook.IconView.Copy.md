@@ -23,7 +23,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconV
  _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

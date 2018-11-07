@@ -21,7 +21,7 @@ Returns a member of a collection, either by position or by name.
  _expression_ A variable that represents a  **Tabs** object.
 
 
-### Parameters
+## Parameters
 
 
 

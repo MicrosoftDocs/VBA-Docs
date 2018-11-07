@@ -23,7 +23,7 @@ Returns the confidence interval for a population mean, using a Student's t distr
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

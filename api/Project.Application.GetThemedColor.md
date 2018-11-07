@@ -23,7 +23,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

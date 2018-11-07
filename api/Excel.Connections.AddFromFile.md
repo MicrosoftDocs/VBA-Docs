@@ -23,7 +23,7 @@ Adds a connection from the specified file.
  _expression_ A variable that represents a [Connections](Excel.Connections.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

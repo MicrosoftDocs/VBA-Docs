@@ -23,7 +23,7 @@ Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for th
  _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

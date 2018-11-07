@@ -23,7 +23,7 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Returns the length of the repetitive pattern Excel detects for the specified tim
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

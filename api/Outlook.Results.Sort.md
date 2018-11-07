@@ -23,7 +23,7 @@ Sorts the collection of items by the specified property. The index for the colle
  _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

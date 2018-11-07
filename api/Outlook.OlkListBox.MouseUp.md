@@ -23,7 +23,7 @@ Occurs after the user releases a mouse button that has been pressed on the contr
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

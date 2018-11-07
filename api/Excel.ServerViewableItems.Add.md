@@ -23,7 +23,7 @@ Adds a reference to the  **[ServerViewableItems](Excel.ServerViewableItems.md)**
  _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

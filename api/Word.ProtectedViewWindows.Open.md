@@ -23,7 +23,7 @@ Opens the specified document in a new protected view window.
  _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

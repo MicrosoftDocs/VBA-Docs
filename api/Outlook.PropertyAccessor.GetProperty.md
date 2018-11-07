@@ -23,7 +23,7 @@ Returns an  **Object** that represents the value of the property specified by _S
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

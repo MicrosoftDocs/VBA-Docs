@@ -23,7 +23,7 @@ Performs a search based on a specified DAV Searching and Locating (DASL) search 
  _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

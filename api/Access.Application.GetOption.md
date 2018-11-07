@@ -24,7 +24,7 @@ _expression_. `GetOption`( `_OptionName_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

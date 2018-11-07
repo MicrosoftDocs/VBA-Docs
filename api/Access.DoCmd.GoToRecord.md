@@ -23,7 +23,7 @@ _expression_. `GoToRecord`( ` _ObjectType_`, ` _ObjectName_`, ` _Record_`, ` _Of
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

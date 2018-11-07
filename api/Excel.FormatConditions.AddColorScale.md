@@ -23,7 +23,7 @@ Returns a new  **[ColorScale](Excel.ColorScale.md)** object representing a condi
  _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

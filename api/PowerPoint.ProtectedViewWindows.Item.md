@@ -23,7 +23,7 @@ Returns a single  **ProtectedViewWindow** object from the specified **ProtectedV
  _expression_ A variable that represents a [ProtectedViewWindows](./PowerPoint.ProtectedViewWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

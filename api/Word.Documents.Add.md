@@ -23,7 +23,7 @@ Returns a  **Document** object that represents a new, empty document added to th
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

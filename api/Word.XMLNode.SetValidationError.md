@@ -23,7 +23,7 @@ Changes the validation error text displayed to a user for a specified node and f
  _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

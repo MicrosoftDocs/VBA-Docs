@@ -23,7 +23,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

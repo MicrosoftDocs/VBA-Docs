@@ -23,7 +23,7 @@ Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collect
  _expression_ An [AddressEntries](./Outlook.AddressEntries.md) object that represents the new entry.
 
 
-### Parameters
+## Parameters
 
 
 

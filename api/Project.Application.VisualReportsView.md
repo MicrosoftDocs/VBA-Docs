@@ -23,7 +23,7 @@ Opens the specified Visual Reports template with the specified level of time.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

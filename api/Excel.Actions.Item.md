@@ -23,7 +23,7 @@ Returns a  **Actions** object that represents a collection of actions in a workb
  _expression_ A variable that represents an [Actions](Excel.Actions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

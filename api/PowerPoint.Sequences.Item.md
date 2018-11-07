@@ -23,7 +23,7 @@ Returns a single  **Sequence** object from the specified **Sequences** collectio
  _expression_ A variable that represents a [Sequences](./PowerPoint.Sequences.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a
  _expression_ A variable that represents a  **ColorSchemes** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an  **Editor** object that represents a specific user or a group of user
  _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

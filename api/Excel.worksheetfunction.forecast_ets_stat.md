@@ -21,7 +21,7 @@ Returns a statistical value as a result of time series forecasting.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

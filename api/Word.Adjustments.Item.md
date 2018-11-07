@@ -23,7 +23,7 @@ Returns or sets the adjustment value specified by the  _Index_ argument. Read/wr
  _expression_ An expression that returns an '[Adjustments](Word.Adjustments.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

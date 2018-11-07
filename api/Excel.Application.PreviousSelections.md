@@ -23,7 +23,7 @@ Returns an array of the last four ranges or names selected. Each element in the 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

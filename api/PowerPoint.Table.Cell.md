@@ -23,7 +23,7 @@ Returns a  **[Cell](PowerPoint.Cell.md)** object that represents a cell in a tab
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

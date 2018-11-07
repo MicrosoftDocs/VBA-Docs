@@ -23,7 +23,7 @@ Returns an object from a collection. The  **Item** property is the default prope
  _expression_ A variable that represents a [AccelTables](./Visio.AccelTables.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

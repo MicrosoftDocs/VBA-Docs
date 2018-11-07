@@ -23,7 +23,7 @@ Returns an item from a collection. The  **Item** property is the default propert
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

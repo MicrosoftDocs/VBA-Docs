@@ -20,7 +20,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
  _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

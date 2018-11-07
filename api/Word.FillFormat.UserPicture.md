@@ -23,7 +23,7 @@ Fills the specified shape with one large image. .
  _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

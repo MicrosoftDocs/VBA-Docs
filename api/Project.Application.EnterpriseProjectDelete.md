@@ -23,7 +23,7 @@ Deletes a project from the Project Server database. Available in Project Profess
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

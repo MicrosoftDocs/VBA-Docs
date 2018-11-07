@@ -23,7 +23,7 @@ Returns an individual  **TabStop** object in a collection.
  _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

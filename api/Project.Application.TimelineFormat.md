@@ -23,7 +23,7 @@ Formats the  **Timeline** view to specify the number of text lines in timeline t
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

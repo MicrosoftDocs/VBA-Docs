@@ -20,7 +20,7 @@ Occurs before a resource is deleted. Uses the  **EventInfo** object parameter.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Enables a unified group to be deleted.
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

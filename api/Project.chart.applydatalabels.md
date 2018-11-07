@@ -16,7 +16,7 @@ Applies data labels to all the series in a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

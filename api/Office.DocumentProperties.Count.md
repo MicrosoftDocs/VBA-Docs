@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **DocumentProperties** co
  _expression_ A variable that represents a [DocumentProperties](./Office.DocumentProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

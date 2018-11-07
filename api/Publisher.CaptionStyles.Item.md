@@ -20,7 +20,7 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
  _expression_ A variable that represents a  **CaptionStyles** object.
 
 
-### Parameters
+## Parameters
 
 
 

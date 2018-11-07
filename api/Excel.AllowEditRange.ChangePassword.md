@@ -23,7 +23,7 @@ Changes the password for a range that can be edited on a protected worksheet.
  _expression_ A variable that represents an [AllowEditRange](Excel.AllowEditRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

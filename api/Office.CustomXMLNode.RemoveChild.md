@@ -23,7 +23,7 @@ Removes the specified child node from the tree.
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

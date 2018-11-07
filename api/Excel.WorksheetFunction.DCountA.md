@@ -23,7 +23,7 @@ Counts the nonblank cells in a column of a list or database that match condition
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

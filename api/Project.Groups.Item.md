@@ -20,7 +20,7 @@ Gets a single  **Group** object from the **Groups** collection. Read-only **Grou
  _expression_ A variable that represents a 'Groups' object.
 
 
-### Parameters
+## Parameters
 
 
 

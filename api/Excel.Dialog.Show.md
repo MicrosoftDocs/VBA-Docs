@@ -23,7 +23,7 @@ Displays the built-in dialog box, waits for the user to input data and returns a
  _expression_ A variable that represents a [Dialog](Excel.Dialog.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

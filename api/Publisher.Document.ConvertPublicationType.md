@@ -23,7 +23,7 @@ Converts the specified publication to the specified publication type.
  _expression_ A variable that represents a  **Document** object.
 
 
-### Parameters
+## Parameters
 
 
 

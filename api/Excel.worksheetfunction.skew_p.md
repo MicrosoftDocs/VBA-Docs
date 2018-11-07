@@ -21,7 +21,7 @@ Returns the skewness of a distribution based on a population: a characterization
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

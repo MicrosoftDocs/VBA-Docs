@@ -23,7 +23,7 @@ Shows or hides the specified baseline on Gantt bars of the active view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

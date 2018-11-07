@@ -23,7 +23,7 @@ Selects the specified object.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

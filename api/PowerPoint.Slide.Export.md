@@ -23,7 +23,7 @@ Exports a slide, using the specified graphics filter, and saves the exported fil
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

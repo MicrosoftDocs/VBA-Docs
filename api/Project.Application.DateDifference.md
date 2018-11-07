@@ -23,7 +23,7 @@ Returns the duration between two dates in minutes, for an automatically schedule
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

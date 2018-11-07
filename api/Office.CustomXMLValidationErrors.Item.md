@@ -23,7 +23,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
  _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

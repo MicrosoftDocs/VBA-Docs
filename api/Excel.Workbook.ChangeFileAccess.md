@@ -23,7 +23,7 @@ Changes the access permissions for the workbook. This may require an updated ver
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

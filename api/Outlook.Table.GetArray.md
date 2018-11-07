@@ -23,7 +23,7 @@ Obtains a two-dimensional array that contains a set of row and column values fro
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

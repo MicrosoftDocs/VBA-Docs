@@ -23,7 +23,7 @@ Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents
  _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

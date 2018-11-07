@@ -23,7 +23,7 @@ Gets the value of a cell expressed as an integer. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

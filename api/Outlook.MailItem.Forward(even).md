@@ -20,7 +20,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
  _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Incrementally changes the horizontal offset of the shadow by the specified dista
  _expression_ A variable that represents a  **ShadowFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

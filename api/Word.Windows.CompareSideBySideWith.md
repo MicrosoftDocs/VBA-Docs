@@ -23,7 +23,7 @@ Opens two windows in side by side mode. Returns a **Boolean** .
  _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

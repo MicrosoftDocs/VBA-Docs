@@ -23,7 +23,7 @@ Pastes data from the Clipboard into the specified series collection.
  _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

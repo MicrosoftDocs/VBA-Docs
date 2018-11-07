@@ -23,7 +23,7 @@ Returns the interest payment for a given period for an investment based on perio
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

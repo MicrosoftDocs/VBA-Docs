@@ -23,7 +23,7 @@ Opens the specified presentation and provides the option to repair the presentat
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

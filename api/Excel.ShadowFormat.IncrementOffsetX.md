@@ -23,7 +23,7 @@ Changes the horizontal offset of the shadow by the specified number of points. U
  _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

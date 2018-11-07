@@ -23,7 +23,7 @@ Occurs when the user presses a mouse button on the control.
  _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

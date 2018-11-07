@@ -23,7 +23,7 @@ Removes a PickerProperty from the collection.
  _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

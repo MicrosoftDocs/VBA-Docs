@@ -23,7 +23,7 @@ Sets the specified fill to a two-color gradient. The two fill colors are specifi
  _expression_ A variable that represents a  **FillFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

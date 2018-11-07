@@ -23,7 +23,7 @@ Returns the points recorded in a polyline row.
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

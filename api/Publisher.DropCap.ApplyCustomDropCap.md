@@ -23,7 +23,7 @@ Applies custom formatting to the first letters of paragraphs in a text frame.
  _expression_ A variable that represents a  **DropCap** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -16,7 +16,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

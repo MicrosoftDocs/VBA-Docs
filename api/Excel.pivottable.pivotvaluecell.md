@@ -21,7 +21,7 @@ Retrieve the [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object for
  _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

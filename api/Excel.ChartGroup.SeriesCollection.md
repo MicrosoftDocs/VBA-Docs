@@ -23,7 +23,7 @@ Returns an object that represents either a single series (a  **[Series](Excel.Se
  _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Removes a shape from a layer.
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

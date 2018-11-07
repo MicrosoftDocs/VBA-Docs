@@ -23,7 +23,7 @@ Examines, reports, and repairs selected conditions in a document.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

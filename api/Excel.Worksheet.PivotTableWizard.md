@@ -23,7 +23,7 @@ Creates a new PivotTable report. This method doesn?t display the PivotTable Wiza
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

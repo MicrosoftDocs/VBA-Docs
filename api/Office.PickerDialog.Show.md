@@ -23,7 +23,7 @@ Displays the Picker Dialog with already specified data handler and given options
  _expression_ An expression that returns a [PickerDialog](./Office.PickerDialog.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

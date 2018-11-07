@@ -23,7 +23,7 @@ Exports to a file of the specified format.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

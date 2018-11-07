@@ -23,7 +23,7 @@ Adds new filters to the  **PivotFilters** collection.
  _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

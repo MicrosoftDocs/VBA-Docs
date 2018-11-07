@@ -23,7 +23,7 @@ Sets the cell range to which this formatting rule applies.
  _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

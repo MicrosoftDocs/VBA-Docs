@@ -23,7 +23,7 @@ Changes the brightness of the picture by the specified amount. Use the  **[Brigh
  _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

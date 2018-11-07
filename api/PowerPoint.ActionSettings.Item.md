@@ -23,7 +23,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
  _expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a Microsoft Word document that stores a header record that is used inste
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

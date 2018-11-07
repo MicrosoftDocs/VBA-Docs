@@ -23,7 +23,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a new  **Style** object to a **Styles** collection.
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

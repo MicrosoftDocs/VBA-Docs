@@ -21,7 +21,7 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
  _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

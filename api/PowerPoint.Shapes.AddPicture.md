@@ -23,7 +23,7 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

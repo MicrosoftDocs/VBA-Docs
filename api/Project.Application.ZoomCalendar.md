@@ -23,7 +23,7 @@ Zooms in on or out from the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Opens a dynamic data exchange (DDE) channel to another application, and returns 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 

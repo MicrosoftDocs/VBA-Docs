@@ -23,7 +23,7 @@ Returns the common logarithm (base 10) of a complex number in x + yi or x + yj t
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

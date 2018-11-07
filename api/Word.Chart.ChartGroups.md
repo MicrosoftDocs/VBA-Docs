@@ -20,7 +20,7 @@ Returns an object that represents either a single chart group or a collection of
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an  **Integer** that represents the original list level for a paragraph.
  _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

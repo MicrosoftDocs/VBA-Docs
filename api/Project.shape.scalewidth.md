@@ -16,7 +16,7 @@ Scales the width of the shape by a specified factor.
  _expression_ A variable that represents a 'Shape' object.
 
 
-### Parameters
+## Parameters
 
 
 

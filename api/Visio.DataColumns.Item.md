@@ -26,7 +26,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
  _expression_ A variable that represents a [DataColumns](./Visio.DataColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

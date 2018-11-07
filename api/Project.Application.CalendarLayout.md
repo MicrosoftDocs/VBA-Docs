@@ -23,7 +23,7 @@ Changes how task bars are arranged on the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

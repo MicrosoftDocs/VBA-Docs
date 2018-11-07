@@ -23,7 +23,7 @@ Adds bullets and formatting to the paragraphs in the range for the specified  **
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

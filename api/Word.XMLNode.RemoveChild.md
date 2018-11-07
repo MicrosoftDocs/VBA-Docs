@@ -23,7 +23,7 @@ Removes a child element from the specified element.
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

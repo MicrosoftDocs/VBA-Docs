@@ -23,7 +23,7 @@ Returns an individual  **Hyperlink** object in a collection.
  _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

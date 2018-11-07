@@ -23,7 +23,7 @@ Registers the active project on Project Server.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

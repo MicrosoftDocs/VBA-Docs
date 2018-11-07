@@ -23,7 +23,7 @@ Activates the window that was previously opened.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

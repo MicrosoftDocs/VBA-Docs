@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a [TableStyleElements](./Excel.TableStyleElements.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

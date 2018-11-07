@@ -20,7 +20,7 @@ Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_B
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

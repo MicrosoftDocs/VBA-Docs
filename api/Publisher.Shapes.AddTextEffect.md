@@ -23,7 +23,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 

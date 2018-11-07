@@ -23,7 +23,7 @@ Returns a collection of all the points in the series.
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

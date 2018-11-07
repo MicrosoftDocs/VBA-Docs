@@ -18,7 +18,7 @@ Finds specific text in a text range, replaces the found text with a specified st
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the  **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds 
  _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

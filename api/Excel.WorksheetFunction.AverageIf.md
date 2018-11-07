@@ -23,7 +23,7 @@ Returns the average (arithmetic mean) of all the cells in a range that meet a gi
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

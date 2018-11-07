@@ -23,7 +23,7 @@ Returns a single  **PublishObject** object from the specified **PublishObjects**
  _expression_ A variable that represents a [PublishObjects](./PowerPoint.PublishObjects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

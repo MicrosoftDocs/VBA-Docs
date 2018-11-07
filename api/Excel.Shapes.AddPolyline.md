@@ -23,7 +23,7 @@ Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Excel
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

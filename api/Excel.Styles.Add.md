@@ -23,7 +23,7 @@ Creates a new style and adds it to the list of styles that are available for the
  _expression_ A variable that represents a [Styles](./Excel.Styles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 
 
-### Parameters
+## Parameters
 
 
 

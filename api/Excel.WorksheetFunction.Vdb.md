@@ -23,7 +23,7 @@ Returns the depreciation of an asset for any period you specify, including parti
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

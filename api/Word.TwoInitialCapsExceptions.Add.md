@@ -23,7 +23,7 @@ Returns a  **TwoInitialCapsException** object that represents a new exception ad
  _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Turns preview on or off for a gallery in the Microsoft Visio user interface.
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

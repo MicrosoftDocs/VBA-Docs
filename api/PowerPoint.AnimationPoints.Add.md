@@ -23,7 +23,7 @@ Returns an  **[AnimationPoint](PowerPoint.AnimationPoint.md)** object that repre
  _expression_ A variable that represents an [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

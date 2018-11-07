@@ -23,7 +23,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
  _expression_ An expression that returns a [TextFrame](./Excel.TextFrame.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

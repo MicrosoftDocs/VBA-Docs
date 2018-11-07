@@ -20,7 +20,7 @@ Gets a single item from a collection. Read-only  **GroupCriterion2**.
  _expression_ An expression that returns a 'GroupCriteria2' object.
 
 
-### Parameters
+## Parameters
 
 
 

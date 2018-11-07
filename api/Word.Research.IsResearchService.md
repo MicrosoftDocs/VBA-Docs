@@ -23,7 +23,7 @@ Indicates whether the GUID specified in the ServiceID parameter corresponds to a
  _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

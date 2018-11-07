@@ -23,7 +23,7 @@ Returns the left-tailed inverse of the Student t-distribution.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Arranges all open document windows in the application workspace.
  _expression_ A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

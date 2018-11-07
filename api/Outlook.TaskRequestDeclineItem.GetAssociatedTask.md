@@ -23,7 +23,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
  _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

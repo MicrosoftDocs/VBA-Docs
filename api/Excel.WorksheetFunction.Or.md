@@ -23,7 +23,7 @@ Returns TRUE if any argument is TRUE; returns FALSE if all arguments are FALSE.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

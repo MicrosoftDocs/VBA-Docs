@@ -23,7 +23,7 @@ Adds a new conditional format.
  _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Uses  _Arg1_ as the index to return a value from the list of value arguments.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

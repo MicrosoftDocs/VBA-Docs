@@ -21,7 +21,7 @@ Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelco
  _expression_ A variable that represents a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

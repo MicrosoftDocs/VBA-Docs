@@ -23,7 +23,7 @@ Adds a picture bullet based on an image file to the current document. Returns an
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Sets the size and position of the client area of a window.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

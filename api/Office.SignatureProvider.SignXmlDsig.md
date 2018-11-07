@@ -23,7 +23,7 @@ Used to sign the XMLDSIG template.
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

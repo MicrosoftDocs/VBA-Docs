@@ -23,7 +23,7 @@ Applies data labels to a series.
  _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collec
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

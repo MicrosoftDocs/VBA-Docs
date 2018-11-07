@@ -23,7 +23,7 @@ Sets the location and the source data for the sparkline group.
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

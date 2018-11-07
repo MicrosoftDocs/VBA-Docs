@@ -23,7 +23,7 @@ Adds a new stencil or drawing to the  **Documents** collection, while permitting
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

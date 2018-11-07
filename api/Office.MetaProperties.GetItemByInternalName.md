@@ -23,7 +23,7 @@ Gets a property's value specifying its name as opposed to its index value.
  _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

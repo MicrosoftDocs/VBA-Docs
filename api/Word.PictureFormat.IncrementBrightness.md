@@ -23,7 +23,7 @@ Changes the brightness of the picture by the specified amount.
  _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

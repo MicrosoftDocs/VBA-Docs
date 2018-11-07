@@ -23,7 +23,7 @@ Returns a  **[Range](Excel.Range(object).md)** object with information about a d
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

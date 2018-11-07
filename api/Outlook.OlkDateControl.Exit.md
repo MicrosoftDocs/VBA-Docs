@@ -23,7 +23,7 @@ _expression_. **Exit** (**_Cancel_**)
 _expression_ A variable that represents an **OlkDateControl** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

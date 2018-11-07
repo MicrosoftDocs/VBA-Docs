@@ -16,7 +16,7 @@ Adds a table to the report, and returns a  **Shape** object that represents the 
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

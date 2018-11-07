@@ -20,7 +20,7 @@ Changes the rotation of the specified shape vertically by the specified number o
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

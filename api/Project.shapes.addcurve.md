@@ -16,7 +16,7 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ _expression_. `ApplyFilter`( ` _FilterName_`, ` _WhereCondition_`, ` _ControlNam
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

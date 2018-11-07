@@ -23,7 +23,7 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
  _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

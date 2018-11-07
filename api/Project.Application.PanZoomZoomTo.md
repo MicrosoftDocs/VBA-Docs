@@ -20,7 +20,7 @@ Zooms the time range in or out for the Gantt chart in the active view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

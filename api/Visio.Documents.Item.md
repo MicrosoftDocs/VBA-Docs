@@ -23,7 +23,7 @@ Returns an item from a collection. The  **Item** property is the default propert
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

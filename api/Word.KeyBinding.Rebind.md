@@ -23,7 +23,7 @@ Changes the command assigned to the specified key binding.
  _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the least common multiple of integers. The least common multiple is the 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **TextRange** object that represents the specified subset of text run
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

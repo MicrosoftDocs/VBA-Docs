@@ -23,7 +23,7 @@ Inserts a new structure, such as a fraction, into an equation at the specified p
  _expression_ An expression that returns a [OMathFunctions](./Word.OMathFunctions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

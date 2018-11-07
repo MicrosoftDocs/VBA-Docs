@@ -19,7 +19,7 @@ Returns an object that represents either one series (a  **[Series](Project.serie
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

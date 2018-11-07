@@ -23,7 +23,7 @@ FIND and FINDB locate one text string within a second text string, and return th
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

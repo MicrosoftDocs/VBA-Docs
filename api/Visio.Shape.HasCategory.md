@@ -23,7 +23,7 @@ Returns  **True** if the specified category is in the shape categories list.
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

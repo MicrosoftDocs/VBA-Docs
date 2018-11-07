@@ -23,7 +23,7 @@ _expression_. `Item`( ` _Index_` )
 _expression_ A variable that represents a [SmartTagActions](Access.SmartTagActions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new label document using either the default label options or ones that
  _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

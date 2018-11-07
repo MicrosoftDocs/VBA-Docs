@@ -23,7 +23,7 @@ Formats a string or number into a string according to a format picture, using sp
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

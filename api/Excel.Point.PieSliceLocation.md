@@ -23,7 +23,7 @@ Returns the vertical or horizontal position of a point on a chart item, in point
  _expression_ A variable that represents a '[Point](Excel.Point(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

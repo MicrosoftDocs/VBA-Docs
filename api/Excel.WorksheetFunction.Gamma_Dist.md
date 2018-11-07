@@ -23,7 +23,7 @@ Returns the gamma distribution. You can use this function to study variables tha
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

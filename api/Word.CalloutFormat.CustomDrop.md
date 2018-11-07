@@ -23,7 +23,7 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
  _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

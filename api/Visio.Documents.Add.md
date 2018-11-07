@@ -23,7 +23,7 @@ Adds a new  **Document** object to the **Documents** collection.
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

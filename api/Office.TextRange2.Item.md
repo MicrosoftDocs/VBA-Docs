@@ -20,7 +20,7 @@ Gets the range of text specified by the index number from the  **TextRange2** ob
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

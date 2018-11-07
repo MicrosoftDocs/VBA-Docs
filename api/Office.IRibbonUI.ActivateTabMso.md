@@ -23,7 +23,7 @@ Activates the specified built-in tab.
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

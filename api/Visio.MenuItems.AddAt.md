@@ -23,7 +23,7 @@ Creates a new  **MenuItem** object at a specified index in the **MenuItems** col
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Occurs after the sheet of the PivotTable report has been updated.
  _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **StyleSheet** object that represents a new style sheet added to a We
  _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

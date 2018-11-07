@@ -23,7 +23,7 @@ Publishes the specified slide to the specified location.
  _expression_ An expression that returns a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

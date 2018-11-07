@@ -23,7 +23,7 @@ Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the c
  _expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

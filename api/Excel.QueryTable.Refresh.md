@@ -23,7 +23,7 @@ Updates an external data range (**[QueryTable](Excel.QueryTable.md)**).
  _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

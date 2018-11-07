@@ -23,7 +23,7 @@ Drags a page break out of the print area.
  _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

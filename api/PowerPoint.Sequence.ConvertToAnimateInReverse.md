@@ -23,7 +23,7 @@ Determines whether text will be animated in reverse order. Returns an  **[Effect
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

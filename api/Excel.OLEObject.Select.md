@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

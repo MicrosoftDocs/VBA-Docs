@@ -23,7 +23,7 @@ Scales all cell heights and widths, font sizes, and internal margins in the tabl
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

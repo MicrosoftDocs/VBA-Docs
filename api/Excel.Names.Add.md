@@ -23,7 +23,7 @@ Defines a new name for a range of cells.
  _expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

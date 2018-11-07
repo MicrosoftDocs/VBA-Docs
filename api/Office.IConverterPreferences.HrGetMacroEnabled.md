@@ -23,7 +23,7 @@ This feature is only available in the Open XML Format SDK.
  _expression_ An expression that returns a [IConverterPreferences](./Office.IConverterPreferences.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

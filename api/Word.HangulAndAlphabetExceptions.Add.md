@@ -23,7 +23,7 @@ Returns a  **HangulAndAlphabetException** object that represents a new exception
  _expression_ Required. A variable that represents a '[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a rectangle to the  **Shapes** collection of a page, master, or group.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

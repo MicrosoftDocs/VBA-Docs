@@ -23,7 +23,7 @@ Returns an aggregate in a list or database.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

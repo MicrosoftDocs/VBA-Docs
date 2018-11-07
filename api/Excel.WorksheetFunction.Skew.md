@@ -23,7 +23,7 @@ Returns the skewness of a distribution. Skewness characterizes the degree of asy
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

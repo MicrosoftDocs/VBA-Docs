@@ -23,7 +23,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
  _expression_ A variable that represents a [Slicers](./Excel.Slicers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

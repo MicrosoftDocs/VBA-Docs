@@ -23,7 +23,7 @@ Calculates standard deviation based on the entire population given as arguments.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

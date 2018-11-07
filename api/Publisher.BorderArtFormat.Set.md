@@ -23,7 +23,7 @@ Sets the type of BorderArt applied to the specified shape.
  _expression_ A variable that represents a  **BorderArtFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an  **[AddIn](Word.AddIn.md)** object that represents an add-in added to
  _expression_ Required. A variable that represents an '[AddIns](Word.addins.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Sets the sort order for mail merge data.
  _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

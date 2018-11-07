@@ -23,7 +23,7 @@ Returns an individual  **TwoInitialCapsException** object in a collection.
  _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

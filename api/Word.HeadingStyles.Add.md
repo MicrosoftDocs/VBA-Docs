@@ -23,7 +23,7 @@ Returns a  **HeadingStyle** object that represents a new heading style added to 
  _expression_ Required. A variable that represents a '[HeadingStyles](Word.headingstyles.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

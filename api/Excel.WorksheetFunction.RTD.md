@@ -23,7 +23,7 @@ This method connects to a source to receive real-time data.
  _expression_ An expression that returns a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

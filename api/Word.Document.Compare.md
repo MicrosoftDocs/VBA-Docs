@@ -23,7 +23,7 @@ Displays revision marks that indicate where the specified document differs from 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

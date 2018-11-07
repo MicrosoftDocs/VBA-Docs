@@ -23,7 +23,7 @@ Adds a new column to the list object.
  _expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

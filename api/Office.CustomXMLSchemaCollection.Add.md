@@ -23,7 +23,7 @@ Allows you to add one or more schemas to a schema collection that can then be ad
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

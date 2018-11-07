@@ -23,7 +23,7 @@ Returns a single object from the represented collection.
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

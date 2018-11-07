@@ -23,7 +23,7 @@ _expression_. `DblClick`( ` _Cancel_` )
 _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

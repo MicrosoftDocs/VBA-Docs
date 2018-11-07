@@ -23,7 +23,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 

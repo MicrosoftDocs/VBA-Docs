@@ -20,7 +20,7 @@ Adds a  **SplitPart** object to a **SplitParts** collection.
  _expression_ A variable that represents a 'SplitParts' object.
 
 
-### Parameters
+## Parameters
 
 
 

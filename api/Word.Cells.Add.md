@@ -23,7 +23,7 @@ Returns a  **Cell** object that represents a cell added to a table.
  _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

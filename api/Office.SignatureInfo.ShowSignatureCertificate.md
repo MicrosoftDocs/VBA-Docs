@@ -23,7 +23,7 @@ Displays the selected or default digital certificate.
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

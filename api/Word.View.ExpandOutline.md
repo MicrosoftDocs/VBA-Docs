@@ -23,7 +23,7 @@ Expands the text under the selection by one heading level.
  _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

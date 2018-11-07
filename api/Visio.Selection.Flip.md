@@ -23,7 +23,7 @@ Flips selected shapes either as a group or individually about their pins. Return
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

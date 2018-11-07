@@ -23,7 +23,7 @@ Occurs when a mouse button is pressed while the pointer is over a chart.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

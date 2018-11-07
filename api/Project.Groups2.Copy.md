@@ -20,7 +20,7 @@ Makes a copy of a group definition from the  **Groups2** collection and returns 
  _expression_ An expression that returns a 'Groups2' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **ShapeRange** object.
  _expression_ Required. A variable that represents a '[GroupShapes](Word.groupshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

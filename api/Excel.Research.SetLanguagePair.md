@@ -23,7 +23,7 @@ Sets the languages for the translation service.
  _expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

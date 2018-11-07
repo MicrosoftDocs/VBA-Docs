@@ -23,7 +23,7 @@ Returns a  **Plate** object that represents the plate of the specified ink name.
  _expression_An expression that returns a  **Plates** object.
 
 
-### Parameters
+## Parameters
 
 
 

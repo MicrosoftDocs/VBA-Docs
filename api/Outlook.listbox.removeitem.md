@@ -18,7 +18,7 @@ Removes a row from the list in a  **[ListBox](Outlook.listbox.md)**.
  _expression_ A variable that represents a  **ListBox** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new scenario and adds it to the list of scenarios that are available f
  _expression_ A variable that represents a [Scenarios](Excel.Scenarios.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

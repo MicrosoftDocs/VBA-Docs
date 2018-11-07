@@ -23,7 +23,7 @@ Estimates the variance of a population based on a sample by using the numbers in
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

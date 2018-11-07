@@ -23,7 +23,7 @@ Returns an individual  **Paragraph** object in a collection.
  _expression_ Required. A variable that represents a '[ListParagraphs](Word.listparagraphs.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

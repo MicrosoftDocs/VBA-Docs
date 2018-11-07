@@ -22,7 +22,7 @@ _expression_. **SetDefaultTheme** (**_Name_**, **_DocumentType_**)
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

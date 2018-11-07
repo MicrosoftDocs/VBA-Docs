@@ -23,7 +23,7 @@ Gets a  **[StorageItem](Outlook.StorageItem.md)** object on the parent **[Folder
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

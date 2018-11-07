@@ -23,7 +23,7 @@ Returns an individual  **Style** object in a collection.
  _expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

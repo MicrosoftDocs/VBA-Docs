@@ -23,7 +23,7 @@ Returns a  **CustomProperty** object that represents s custom property added to 
  _expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

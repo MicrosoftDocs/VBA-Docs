@@ -23,7 +23,7 @@ Selects any range or Visual Basic procedure in any workbook, and activates that 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

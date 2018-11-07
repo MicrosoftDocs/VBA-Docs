@@ -18,7 +18,7 @@ ms.prod: powerpoint
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

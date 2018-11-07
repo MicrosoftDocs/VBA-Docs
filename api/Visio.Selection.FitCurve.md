@@ -23,7 +23,7 @@ Reduces the number of geometry segments in a shape or shapes by replacing them w
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

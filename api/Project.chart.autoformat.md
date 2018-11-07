@@ -16,7 +16,7 @@ Changes the chart to a default format for another chart type.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

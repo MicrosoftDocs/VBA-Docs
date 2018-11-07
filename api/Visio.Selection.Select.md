@@ -23,7 +23,7 @@ Selects or clears the selection of an object.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

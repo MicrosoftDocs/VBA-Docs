@@ -23,7 +23,7 @@ Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on th
  _expression_ A variable that represents a  **WizardProperties** object.
 
 
-### Parameters
+## Parameters
 
 
 

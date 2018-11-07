@@ -23,7 +23,7 @@ Copies the active view as a picture or an OLE object, or exports the active view
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

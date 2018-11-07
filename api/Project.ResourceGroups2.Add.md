@@ -20,7 +20,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collecti
  _expression_ An expression that returns a 'ResourceGroups2' object.
 
 
-### Parameters
+## Parameters
 
 
 

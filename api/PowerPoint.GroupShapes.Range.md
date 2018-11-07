@@ -23,7 +23,7 @@ Returns a  **ShapeRange** object.
  _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

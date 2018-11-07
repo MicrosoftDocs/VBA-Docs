@@ -23,7 +23,7 @@ Returns the formulas of many cells.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

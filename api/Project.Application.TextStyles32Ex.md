@@ -22,7 +22,7 @@ _expression_. **TextStyles32Ex** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**
 _expression_ An expression that returns an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

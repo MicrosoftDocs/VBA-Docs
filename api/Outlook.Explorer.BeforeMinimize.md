@@ -23,7 +23,7 @@ Occurs when the active explorer is minimized by the user.
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

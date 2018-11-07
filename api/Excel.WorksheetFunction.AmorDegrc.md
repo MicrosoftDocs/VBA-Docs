@@ -23,7 +23,7 @@ Returns the depreciation for each accounting period. This function is provided f
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

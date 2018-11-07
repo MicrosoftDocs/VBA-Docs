@@ -23,7 +23,7 @@ Parses a range of data and breaks it into multiple cells. Distributes the conten
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

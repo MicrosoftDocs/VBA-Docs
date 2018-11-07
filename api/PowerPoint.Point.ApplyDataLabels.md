@@ -23,7 +23,7 @@ Applies data labels to a point.
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

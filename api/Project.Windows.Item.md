@@ -20,7 +20,7 @@ Gets a single  **Window** object from the **Windows** collection. Read-only **Wi
  _expression_ A variable that represents a 'Windows' object.
 
 
-### Parameters
+## Parameters
 
 
 

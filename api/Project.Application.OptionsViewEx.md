@@ -23,7 +23,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

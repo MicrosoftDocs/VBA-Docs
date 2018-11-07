@@ -21,7 +21,7 @@ Returns a single object from the [ModelColumnChanges Object (Excel)](Excel.model
  _expression_ A variable that represents a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

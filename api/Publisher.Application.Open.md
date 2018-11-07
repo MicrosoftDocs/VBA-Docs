@@ -23,7 +23,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

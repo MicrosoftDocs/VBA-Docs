@@ -23,7 +23,7 @@ Returns 1 if number ? step; returns 0 (zero) otherwise. Use this function to fil
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

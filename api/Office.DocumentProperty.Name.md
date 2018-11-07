@@ -23,7 +23,7 @@ Gets or sets the name of a document property. Read/write.
  _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

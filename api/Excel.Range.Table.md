@@ -23,7 +23,7 @@ Creates a data table based on input values and formulas that you define on a wor
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, in
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

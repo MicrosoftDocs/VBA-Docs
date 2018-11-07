@@ -23,7 +23,7 @@ Fills the specified shape with one large image.
  _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

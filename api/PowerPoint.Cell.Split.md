@@ -23,7 +23,7 @@ Splits a single table cell into multiple cells.
  _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Runs a Visual Basic procedure.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

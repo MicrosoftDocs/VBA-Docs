@@ -23,7 +23,7 @@ Removes entries from the change log for the specified workbook.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

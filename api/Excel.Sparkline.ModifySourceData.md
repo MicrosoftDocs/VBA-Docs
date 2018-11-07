@@ -23,7 +23,7 @@ Modifies the source data for a single sparkline.
  _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

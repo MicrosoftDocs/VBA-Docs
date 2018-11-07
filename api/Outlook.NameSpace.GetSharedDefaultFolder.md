@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified 
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

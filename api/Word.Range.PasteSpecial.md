@@ -23,7 +23,7 @@ Inserts the contents of the Clipboard. .
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

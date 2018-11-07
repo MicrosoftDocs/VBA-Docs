@@ -23,7 +23,7 @@ Finds the specified text in a text range, and returns a  **[TextRange](PowerPoin
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Returns an  **OMath** object that represents the specified item in the collectio
  _expression_ An expression that returns an '[OMathArgs](Word.OMathArgs.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

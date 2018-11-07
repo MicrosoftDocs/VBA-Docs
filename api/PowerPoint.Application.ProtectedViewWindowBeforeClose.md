@@ -23,7 +23,7 @@ Occurs immediately before a protected view window or a document in a protected v
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

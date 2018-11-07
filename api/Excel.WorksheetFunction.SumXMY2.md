@@ -23,7 +23,7 @@ Returns the sum of squares of differences of corresponding values in two arrays.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

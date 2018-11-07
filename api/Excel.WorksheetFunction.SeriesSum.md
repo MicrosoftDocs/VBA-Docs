@@ -26,7 +26,7 @@ Returns the sum of a power series based on the formula:
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

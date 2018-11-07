@@ -23,7 +23,7 @@ Displays the standard  **Open** dialog box and gets a file name from the user wi
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

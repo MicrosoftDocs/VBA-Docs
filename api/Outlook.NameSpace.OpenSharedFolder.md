@@ -23,7 +23,7 @@ Opens a shared folder referenced through a URL or file name.
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Arranges the windows on the screen.
  _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

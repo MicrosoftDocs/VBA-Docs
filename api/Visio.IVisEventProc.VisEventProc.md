@@ -23,7 +23,7 @@ Private member function of  **IVisEventProc** that handles event notifications p
  _expression_ A variable that represents an 'IVisEventProc' object.
 
 
-### Parameters
+## Parameters
 
 
 

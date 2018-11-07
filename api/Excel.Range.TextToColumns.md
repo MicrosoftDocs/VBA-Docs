@@ -23,7 +23,7 @@ Parses a column of cells that contain text into several columns.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

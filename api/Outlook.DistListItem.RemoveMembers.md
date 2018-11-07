@@ -23,7 +23,7 @@ Removes members from a distribution list.
  _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

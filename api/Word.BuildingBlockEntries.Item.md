@@ -23,7 +23,7 @@ Returns a  **BuildingBlock** object that represents the specified item in the co
  _expression_ An expression that returns a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Occurs periodically while Microsoft Outlook is synchronizing a user?s folders us
  _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

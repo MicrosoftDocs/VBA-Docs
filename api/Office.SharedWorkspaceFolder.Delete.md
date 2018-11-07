@@ -26,7 +26,7 @@ Deletes the current shared workspace folder and all data within it.
  _expression_ Required. A variable that represents a '[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

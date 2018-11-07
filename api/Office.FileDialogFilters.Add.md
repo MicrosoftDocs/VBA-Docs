@@ -23,7 +23,7 @@ _expression_. `Add`(`Description`, `Extensions`, `Position`)
 _expression_ Required. A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

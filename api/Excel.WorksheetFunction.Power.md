@@ -23,7 +23,7 @@ Returns the result of a number raised to a power.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

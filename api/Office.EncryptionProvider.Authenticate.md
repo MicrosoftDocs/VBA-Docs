@@ -23,7 +23,7 @@ Used to determine whether the user has the proper permissions to open the encryp
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

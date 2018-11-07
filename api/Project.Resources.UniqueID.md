@@ -20,7 +20,7 @@ Gets a  **[Resource](Project.Resource.md)** object from its containing collectio
  _expression_ A variable that represents a 'Resources' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Returns a single object from the  **CategoryCollection** object.
  _expression_ A variable that represents a [CategoryCollection](Excel.categorycollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

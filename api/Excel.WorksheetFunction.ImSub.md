@@ -23,7 +23,7 @@ Returns the difference of two complex numbers in x + yi or x + yj text format.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

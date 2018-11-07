@@ -23,7 +23,7 @@ _expression_. `BeforeNavigate2`( ` _pDisp_`, ` _URL_`, ` _flags_`, ` _TargetFram
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

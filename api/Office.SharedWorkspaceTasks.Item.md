@@ -26,7 +26,7 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
  _expression_ Required. A variable that represents a '[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)' object. The specified **SharedWorkspaceTasks** collection.
 
 
-### Parameters
+## Parameters
 
 
 

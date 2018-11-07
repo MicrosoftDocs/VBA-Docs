@@ -16,7 +16,7 @@ Adds the specified element to a chart or to a selected object on a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

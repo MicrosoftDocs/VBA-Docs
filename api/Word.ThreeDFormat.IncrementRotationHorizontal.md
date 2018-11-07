@@ -23,7 +23,7 @@ Horizontally rotates a shape on the x-axis using the specified incrementation va
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

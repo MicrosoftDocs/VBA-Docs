@@ -23,7 +23,7 @@ Adds lines to a document where signatures are collected.
  _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

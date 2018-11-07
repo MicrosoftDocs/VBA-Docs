@@ -23,7 +23,7 @@ Creates a second, working copy of the  **EncryptionProvider** object's encryptio
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

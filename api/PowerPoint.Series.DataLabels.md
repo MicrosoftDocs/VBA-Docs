@@ -23,7 +23,7 @@ Returns an object that represents either a single data label (a  **[DataLabel](P
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a single  **RulerLevel** object from the specified **RulerLevels** colle
  _expression_ A variable that represents a [RulerLevels](./PowerPoint.RulerLevels.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 

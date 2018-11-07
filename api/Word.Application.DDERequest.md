@@ -23,7 +23,7 @@ Uses an open dynamic data exchange (DDE) channel to request information from the
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 

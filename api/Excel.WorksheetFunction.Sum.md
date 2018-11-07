@@ -23,7 +23,7 @@ Adds all the numbers in a range of cells.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

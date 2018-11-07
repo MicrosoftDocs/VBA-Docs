@@ -23,7 +23,7 @@ Applies a set of list-formatting characteristics to the specified  **ListFormat*
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

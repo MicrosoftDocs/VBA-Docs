@@ -23,7 +23,7 @@ Moves a Microsoft Outlook item to a new folder.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates various types of  **Selection** objects.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

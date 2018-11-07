@@ -23,7 +23,7 @@ Sends a document to a fax service provider, who faxes the document to one or mor
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

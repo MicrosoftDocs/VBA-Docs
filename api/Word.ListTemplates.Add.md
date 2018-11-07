@@ -23,7 +23,7 @@ Returns a  **ListTemplate** object that represents a new list template.
  _expression_ Required. A variable that represents a '[ListTemplates](Word.listtemplates.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

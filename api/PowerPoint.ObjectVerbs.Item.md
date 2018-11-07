@@ -23,7 +23,7 @@ Returns a single object from the specified  **ObjectVerbs** collection.
  _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

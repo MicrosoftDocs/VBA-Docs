@@ -20,7 +20,7 @@ Private Sub  _expression_ _'BeforeSuspendEvents'(**_ByVal app As [IVAPPLICATION]
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

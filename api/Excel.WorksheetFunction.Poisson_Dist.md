@@ -23,7 +23,7 @@ Returns the Poisson distribution. A common application of the Poisson distributi
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

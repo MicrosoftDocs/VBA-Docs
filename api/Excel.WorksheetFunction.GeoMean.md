@@ -23,7 +23,7 @@ Returns the geometric mean of an array or range of positive data. For example, y
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

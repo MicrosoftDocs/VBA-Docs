@@ -23,7 +23,7 @@ Flips the specified shape range around its horizontal or vertical axis.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

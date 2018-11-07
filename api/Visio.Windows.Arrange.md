@@ -23,7 +23,7 @@ Arranges the windows in a  **Windows** collection.
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

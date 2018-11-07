@@ -18,7 +18,7 @@ Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) objec
  _expression_ A variable that represents a object.
 
 
-### Parameters
+## Parameters
 
 
 

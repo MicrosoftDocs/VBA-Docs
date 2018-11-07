@@ -23,7 +23,7 @@ Returns an individual  **Index** object in a collection.
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

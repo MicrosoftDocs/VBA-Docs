@@ -23,7 +23,7 @@ Pastes the contents of the Clipboard into an object.
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Private Sub  _expression_ _'MouseUp'(**_ByVal Button As Long_** , **_ByVal KeyBu
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

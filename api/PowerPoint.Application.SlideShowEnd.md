@@ -23,7 +23,7 @@ Occurs after a slide show ends, immediately after the last  **[SlideShowNextSlid
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Sets the associated  **[Range](./Excel.Range(Graph object).md)** object to modif
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

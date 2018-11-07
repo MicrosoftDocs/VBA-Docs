@@ -23,7 +23,7 @@ Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the curren
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Parameters
+## Parameters
 
 
 

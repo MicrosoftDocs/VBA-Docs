@@ -23,7 +23,7 @@ Calculates how often values occur within a range of values, and then returns a v
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

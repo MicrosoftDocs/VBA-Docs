@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 

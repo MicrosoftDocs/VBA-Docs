@@ -23,7 +23,7 @@ Deletes a filter object from the  **ODSOFilters** collection.
  _expression_ Required. A variable that represents an '[ODSOFilters](Office.ODSOFilters.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

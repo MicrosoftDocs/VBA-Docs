@@ -23,7 +23,7 @@ Specifies a setting for the specified delivery store that indicates whether all 
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

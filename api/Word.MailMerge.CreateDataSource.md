@@ -23,7 +23,7 @@ Creates a Microsoft Word document that uses a table to store data for a mail mer
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

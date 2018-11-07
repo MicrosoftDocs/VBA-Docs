@@ -23,7 +23,7 @@ Applies a set of list-formatting characteristics, optionally for a specified lev
  _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

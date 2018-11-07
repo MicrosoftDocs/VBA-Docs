@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **ResourceGroups** collection and re
  _expression_ A variable that represents a 'ResourceGroups' object.
 
 
-### Parameters
+## Parameters
 
 
 

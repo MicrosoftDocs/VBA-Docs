@@ -20,7 +20,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

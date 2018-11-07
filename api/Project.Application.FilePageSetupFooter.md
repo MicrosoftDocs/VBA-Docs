@@ -23,7 +23,7 @@ Sets up footers for printing.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

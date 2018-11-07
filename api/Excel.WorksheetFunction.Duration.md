@@ -23,7 +23,7 @@ Returns the Macauley duration for an assumed par value of $100. Duration is defi
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

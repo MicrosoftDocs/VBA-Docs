@@ -23,7 +23,7 @@ Pastes the contents of the Clipboard, using a special format.
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

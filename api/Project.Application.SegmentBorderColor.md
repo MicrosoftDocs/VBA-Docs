@@ -23,7 +23,7 @@ Sets the border color for the assignment segments of a selected task in the Team
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

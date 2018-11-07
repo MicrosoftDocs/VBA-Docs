@@ -23,7 +23,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents a B?zier curve in 
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

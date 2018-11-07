@@ -23,7 +23,7 @@ _expression_. `Exit`( ` _Cancel_` )
 _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

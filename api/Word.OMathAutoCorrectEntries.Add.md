@@ -23,7 +23,7 @@ Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry]
  _expression_ An expression that returns an '[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

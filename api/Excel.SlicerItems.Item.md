@@ -23,7 +23,7 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object from a collection. Read-
  _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

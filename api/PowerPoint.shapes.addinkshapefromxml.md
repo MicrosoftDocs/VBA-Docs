@@ -18,7 +18,7 @@ Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represe
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

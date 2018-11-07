@@ -23,7 +23,7 @@ Returns the sum of the sum of squares of corresponding values in two arrays. The
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

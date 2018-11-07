@@ -23,7 +23,7 @@ Copies a command bar combo box control to an existing command bar.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

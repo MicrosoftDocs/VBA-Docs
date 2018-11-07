@@ -23,7 +23,7 @@ Displays or hides a specific pane in the explorer.
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

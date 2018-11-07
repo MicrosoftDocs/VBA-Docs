@@ -23,7 +23,7 @@ When the Timeline view is selected, displays the  **Task Information** dialog bo
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

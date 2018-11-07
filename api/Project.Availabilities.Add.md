@@ -20,7 +20,7 @@ Adds an  **Availability** object to an **Availabilities** collection.
  _expression_ A variable that represents an 'Availabilities' object.
 
 
-### Parameters
+## Parameters
 
 
 

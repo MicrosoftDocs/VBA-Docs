@@ -23,7 +23,7 @@ Resizes the selection by moving shape handles as specified.
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

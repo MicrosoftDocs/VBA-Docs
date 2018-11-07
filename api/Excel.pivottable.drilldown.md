@@ -21,7 +21,7 @@ Enables you to drill down into the data within an OLAP or PowerPivot based cube 
  _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

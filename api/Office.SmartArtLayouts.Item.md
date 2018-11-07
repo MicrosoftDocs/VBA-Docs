@@ -20,7 +20,7 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
  _expression_ An expression that returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

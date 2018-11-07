@@ -21,7 +21,7 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

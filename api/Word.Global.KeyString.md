@@ -23,7 +23,7 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

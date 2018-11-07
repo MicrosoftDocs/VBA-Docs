@@ -23,7 +23,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

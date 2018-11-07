@@ -23,7 +23,7 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
  _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

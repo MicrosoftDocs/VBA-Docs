@@ -23,7 +23,7 @@ Sets the languages for the translation service.
  _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

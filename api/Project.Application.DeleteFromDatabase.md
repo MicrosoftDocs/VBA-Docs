@@ -23,7 +23,7 @@ Deletes a project stored in a database.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

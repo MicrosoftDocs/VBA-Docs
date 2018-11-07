@@ -23,7 +23,7 @@ Adds a table shape to a slide.
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

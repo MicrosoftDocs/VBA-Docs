@@ -23,7 +23,7 @@ Returns a  **Design** object that represents a design loaded into the master lis
  _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

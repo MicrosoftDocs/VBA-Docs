@@ -23,7 +23,7 @@ Occurs when the application window is deactivated.
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

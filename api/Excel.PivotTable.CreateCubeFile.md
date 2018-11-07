@@ -23,7 +23,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

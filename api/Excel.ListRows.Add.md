@@ -23,7 +23,7 @@ Adds a new row to the table represented by the specified [ListObject](Excel.List
  _expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

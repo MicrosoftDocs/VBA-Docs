@@ -23,7 +23,7 @@ Sets the styles of bars on the Resource Graph view, where colors can be hexadeci
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

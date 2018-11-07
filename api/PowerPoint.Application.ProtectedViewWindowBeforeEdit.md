@@ -23,7 +23,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns values along a linear trend. Fits a straight line (using the method of l
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

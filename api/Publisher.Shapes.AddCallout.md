@@ -23,7 +23,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 

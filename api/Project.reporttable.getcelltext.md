@@ -19,7 +19,7 @@ Returns the text value of the specified cell in a  **ReportTable** object.
  _expression_ A variable that represents a 'ReportTable' object.
 
 
-### Parameters
+## Parameters
 
 
 

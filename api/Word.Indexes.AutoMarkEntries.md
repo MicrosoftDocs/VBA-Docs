@@ -23,7 +23,7 @@ Automatically adds XE (Index Entry) fields to the specified document, using the 
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

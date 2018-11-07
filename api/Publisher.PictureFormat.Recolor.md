@@ -23,7 +23,7 @@ Changes the color of a picture in a publication.
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

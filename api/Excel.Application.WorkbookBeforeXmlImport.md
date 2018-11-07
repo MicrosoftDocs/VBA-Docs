@@ -23,7 +23,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

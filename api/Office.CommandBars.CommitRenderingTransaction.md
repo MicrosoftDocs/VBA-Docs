@@ -23,7 +23,7 @@ Commits the rendering transaction. Returns  **Nothing**.
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

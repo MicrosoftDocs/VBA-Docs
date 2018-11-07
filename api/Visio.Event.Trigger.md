@@ -23,7 +23,7 @@ Causes an event's action to be performed.
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

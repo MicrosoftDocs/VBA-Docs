@@ -23,7 +23,7 @@ Changes the background color and pattern of date boxes in the Calendar view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

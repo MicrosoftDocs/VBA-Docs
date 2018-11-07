@@ -23,7 +23,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

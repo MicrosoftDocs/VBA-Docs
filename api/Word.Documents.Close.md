@@ -23,7 +23,7 @@ Closes the specified documents.
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

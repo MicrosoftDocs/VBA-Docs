@@ -23,7 +23,7 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

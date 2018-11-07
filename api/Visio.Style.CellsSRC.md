@@ -23,7 +23,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

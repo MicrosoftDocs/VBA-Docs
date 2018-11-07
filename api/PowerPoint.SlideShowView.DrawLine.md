@@ -23,7 +23,7 @@ Draws a line in the specified slide show view.
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds the current media object to the queue and begins resampling, based on the s
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

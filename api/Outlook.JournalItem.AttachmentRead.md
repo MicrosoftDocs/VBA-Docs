@@ -20,7 +20,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

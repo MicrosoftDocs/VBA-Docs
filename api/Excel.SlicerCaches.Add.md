@@ -23,7 +23,7 @@ Adds a new  **[SlicerCache](Excel.SlicerCache.md)** object to the collection.
  _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

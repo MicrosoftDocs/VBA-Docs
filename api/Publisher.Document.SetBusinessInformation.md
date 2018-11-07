@@ -23,7 +23,7 @@ Applies the specified business information set, which consists of a logo image a
  _expression_ A variable that represents a  **Document** object.
 
 
-### Parameters
+## Parameters
 
 
 

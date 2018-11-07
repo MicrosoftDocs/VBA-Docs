@@ -23,7 +23,7 @@ _expression_. `Follow`( ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Meth
 _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

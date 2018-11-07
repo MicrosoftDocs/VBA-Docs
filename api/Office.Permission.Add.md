@@ -23,7 +23,7 @@ Creates a set of permissions on the active document for the specified user. Retu
  _expression_ Required. A variable that represents a '[Permission](Office.Permission.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

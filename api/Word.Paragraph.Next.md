@@ -23,7 +23,7 @@ Returns a  **Paragraph** object that represents the next paragraph.
  _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

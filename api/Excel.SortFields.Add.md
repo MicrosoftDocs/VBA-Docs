@@ -19,7 +19,7 @@ _expression_. `Add`( `Key` , `SortOn` , `Order` , `CustomOrder` , `DataOption` )
 
 _expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
 
-### Parameters
+## Parameters
 
 |Name |Required/Optional |Data type |Description|
 |:-----|:-----|:-----|:-----|

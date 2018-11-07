@@ -23,7 +23,7 @@ Creates a line. Returns a  **[Shape](PowerPoint.Shape.md)** object that represen
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

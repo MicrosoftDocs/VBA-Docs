@@ -23,7 +23,7 @@ Returns the value of the specified tag as a  **String**.
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

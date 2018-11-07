@@ -23,7 +23,7 @@ Creates one or more new  **Shape** objects in a group. It returns an array of th
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

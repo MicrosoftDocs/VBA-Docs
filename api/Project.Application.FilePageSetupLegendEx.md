@@ -23,7 +23,7 @@ _expression_. **FilePageSetupLegendEx** (**_Name_**, **_TextWidth_**, **_LegendO
 _expression_ An expression that returns an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

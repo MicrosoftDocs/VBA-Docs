@@ -23,7 +23,7 @@ Converts a number to text format and applies a currency symbol. The name of the 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

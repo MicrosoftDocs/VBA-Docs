@@ -23,7 +23,7 @@ Returns free/busy information for the recipient.
  _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Copies a selection to the Clipboard.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

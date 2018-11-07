@@ -23,7 +23,7 @@ Occurs when Microsoft Publisher requires data to generate barcodes in a mail-mer
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Inserts a TC (Table of Contents Entry) field after the specified range. The meth
  _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

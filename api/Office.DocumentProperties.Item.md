@@ -23,7 +23,7 @@ Gets a  **DocumentProperty** object from the **DocumentProperties** collection. 
  _expression_ Required. A variable that represents a '[DocumentProperties](Office.DocumentProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

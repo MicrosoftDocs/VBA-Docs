@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents an [Areas](Excel.Areas.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -27,7 +27,7 @@ For more information about the new function, see the [Expon_Dist](Excel.Workshee
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a formatted AutoCorrect entry, preserving all text attributes of the spe
  _expression_ Required. A variable that represents an '[AutoCorrectEntries](Word.autocorrectentries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

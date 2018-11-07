@@ -20,7 +20,7 @@ Gets a  **[Period](Project.Period.md)** object representing a period of time in 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

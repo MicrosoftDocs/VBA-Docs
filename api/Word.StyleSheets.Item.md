@@ -23,7 +23,7 @@ Returns an individual  **StyleSheet** object in a collection.
  _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

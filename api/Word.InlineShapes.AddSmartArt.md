@@ -23,7 +23,7 @@ Inserts a SmartArt graphic as an inline shape into the active document.
  _expression_ An expression that returns a '[InlineShapes](Word.inlineshapes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

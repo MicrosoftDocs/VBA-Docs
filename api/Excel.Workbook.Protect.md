@@ -23,7 +23,7 @@ Protects a workbook so that it cannot be modified.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

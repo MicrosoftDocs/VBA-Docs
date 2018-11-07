@@ -23,7 +23,7 @@ Returns the yield for a Treasury bill.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

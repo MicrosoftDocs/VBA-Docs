@@ -23,7 +23,7 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.Slicer
  _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

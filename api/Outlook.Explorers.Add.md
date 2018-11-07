@@ -23,7 +23,7 @@ Creates a new instance of the explorer window.
  _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

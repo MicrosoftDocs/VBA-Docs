@@ -21,7 +21,7 @@ Saves the data feed connection as a Microsoft Office Data Connection file.
  _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

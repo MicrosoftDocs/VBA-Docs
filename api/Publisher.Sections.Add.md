@@ -23,7 +23,7 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
  _expression_ A variable that represents a  **Sections** object.
 
 
-### Parameters
+## Parameters
 
 
 

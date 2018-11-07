@@ -23,7 +23,7 @@ Saves the group of quick styles currently in use.
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

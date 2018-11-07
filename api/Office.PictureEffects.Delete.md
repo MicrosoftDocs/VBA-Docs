@@ -20,7 +20,7 @@ Deletes a  **PictureEffect** object from the collection.
  _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

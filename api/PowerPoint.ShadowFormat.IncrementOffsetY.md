@@ -23,7 +23,7 @@ Changes the vertical offset of the shadow by the specified number of points.
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

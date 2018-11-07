@@ -23,7 +23,7 @@ Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assign
  _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

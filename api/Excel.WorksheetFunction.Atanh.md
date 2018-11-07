@@ -23,7 +23,7 @@ Returns the inverse hyperbolic tangent of a number. Number must be between -1 an
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

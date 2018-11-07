@@ -23,7 +23,7 @@ Creates an instance of a  **[ContactCard](./Office.ContactCard.md)** object for 
  _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

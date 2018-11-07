@@ -23,7 +23,7 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
  _expression_ A variable that represents a '[Documents](Word.documents.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

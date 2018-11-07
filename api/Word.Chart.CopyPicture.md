@@ -23,7 +23,7 @@ Copies the selected object to the Clipboard as a picture.
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

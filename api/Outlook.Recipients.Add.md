@@ -23,7 +23,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
  _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

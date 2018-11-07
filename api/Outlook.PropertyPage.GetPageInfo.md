@@ -23,7 +23,7 @@ Returns Help information about a custom property page.
  _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

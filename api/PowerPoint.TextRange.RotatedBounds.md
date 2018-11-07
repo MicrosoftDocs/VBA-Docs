@@ -23,7 +23,7 @@ Returns the coordinates of the vertices of the text bounding box for the specifi
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

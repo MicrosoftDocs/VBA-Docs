@@ -23,7 +23,7 @@ Creates a new **Master** object by dropping an object onto a receiving object su
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

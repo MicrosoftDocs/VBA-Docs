@@ -23,7 +23,7 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where *
  _expression_ An expression that returns a 'GroupCriteria2' object.
 
 
-### Parameters
+## Parameters
 
 
 

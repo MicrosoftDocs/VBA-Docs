@@ -23,7 +23,7 @@ Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Power
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

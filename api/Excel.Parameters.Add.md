@@ -23,7 +23,7 @@ Creates a new query parameter.
  _expression_ A variable that represents a [Parameters](Excel.Parameters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the number of slides in the specified section.
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

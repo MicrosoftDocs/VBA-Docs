@@ -20,7 +20,7 @@ Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **
  _expression_ A variable that represents a 'WeekDays' object.
 
 
-### Parameters
+## Parameters
 
 
 

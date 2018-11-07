@@ -23,7 +23,7 @@ Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
  _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Private Sub  _expression_ _'SuspendEventsCanceled'(**_ByVal app As_** , )
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Adds a new [WorkbookQuery](Excel.workbookquery.md) object to the **Queries** col
  _expression_ A variable that represents a 'Queries' object.
 
 
-### Parameters
+## Parameters
 
 
 

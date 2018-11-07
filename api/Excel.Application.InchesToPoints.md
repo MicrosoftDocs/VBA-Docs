@@ -23,7 +23,7 @@ Converts a measurement from inches to points.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

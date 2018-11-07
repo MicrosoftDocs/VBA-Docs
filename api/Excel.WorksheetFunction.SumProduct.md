@@ -23,7 +23,7 @@ Multiplies corresponding components in the given arrays, and returns the sum of 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

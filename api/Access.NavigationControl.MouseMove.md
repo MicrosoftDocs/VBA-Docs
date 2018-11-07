@@ -23,7 +23,7 @@ _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Inserts a Picture Effect in a chain of composite effects.
  _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

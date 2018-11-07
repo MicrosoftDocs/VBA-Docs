@@ -21,7 +21,7 @@ Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) obje
  _expression_ A variable that represents a 'InlineShapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

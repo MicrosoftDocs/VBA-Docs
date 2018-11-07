@@ -20,7 +20,7 @@ Adds a  **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection
  _expression_ An expression that returns a 'TaskGroups2' object.
 
 
-### Parameters
+## Parameters
 
 
 

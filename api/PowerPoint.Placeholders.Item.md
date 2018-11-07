@@ -23,7 +23,7 @@ Returns a single  **Shape** object from the specified **Placeholders** collectio
  _expression_ A variable that represents a [Placeholders](./PowerPoint.Placeholders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Private Sub  _expression_ _'QueryCancelSuspendEvents'(**_ByVal app As [IVAPPLICA
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

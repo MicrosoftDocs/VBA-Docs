@@ -23,7 +23,7 @@ Occurs when a new chart is created in the workbook.
  _expression_ A variable that returns a '[Workbook](Excel.Workbook.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

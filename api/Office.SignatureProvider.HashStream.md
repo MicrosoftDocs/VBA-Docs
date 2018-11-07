@@ -23,7 +23,7 @@ Allows a signature provider add-in to create a hash value for the document that 
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

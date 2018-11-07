@@ -23,7 +23,7 @@ Obtains a  **String** representing the availability of the **[ExchangeUser](Outl
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

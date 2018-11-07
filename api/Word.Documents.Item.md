@@ -23,7 +23,7 @@ Returns an individual  **Document** object in a collection.
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

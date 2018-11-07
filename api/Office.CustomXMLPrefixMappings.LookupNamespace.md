@@ -23,7 +23,7 @@ Allows you to get the namespace corresponding to the specified prefix.
  _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Duplicates the  **TableStyle** object and returns a reference to the new copy.
  _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

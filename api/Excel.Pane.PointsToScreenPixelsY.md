@@ -23,7 +23,7 @@ Returns or sets the location of the pixel on the screen.
  _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

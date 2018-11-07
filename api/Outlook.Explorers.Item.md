@@ -23,7 +23,7 @@ Returns an  **[Explorer](Outlook.Explorer.md)** object from the collection.
  _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Occurs when the user releases a key.
  _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

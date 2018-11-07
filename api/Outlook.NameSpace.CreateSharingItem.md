@@ -23,7 +23,7 @@ Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

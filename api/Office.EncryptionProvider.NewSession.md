@@ -23,7 +23,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

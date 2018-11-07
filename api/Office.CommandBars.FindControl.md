@@ -26,7 +26,7 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
  _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

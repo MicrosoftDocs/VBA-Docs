@@ -21,7 +21,7 @@ Returns the collection of all the series in the specified chart, or the specifie
  _expression_ A variable that represents a [Chart](./Word.Chart.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

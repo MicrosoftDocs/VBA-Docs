@@ -20,7 +20,7 @@ Performs some action on specific information items or document properties by usi
  _expression_ An expression that returns a [IDocumentInspector](./Office.IDocumentInspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

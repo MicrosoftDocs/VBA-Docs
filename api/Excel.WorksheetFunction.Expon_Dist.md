@@ -23,7 +23,7 @@ Returns the exponential distribution. Use EXPON_DIST to model the time between e
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

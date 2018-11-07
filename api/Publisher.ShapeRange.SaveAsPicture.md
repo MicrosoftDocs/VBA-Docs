@@ -23,7 +23,7 @@ Saves a range of one or more shapes as a picture file.
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a new add-in to the list of add-ins.
  _expression_ A variable that returns an '[AddIns2](Excel.AddIns2.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

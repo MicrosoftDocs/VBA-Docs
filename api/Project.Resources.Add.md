@@ -20,7 +20,7 @@ Adds a  **Resource** object to a **Resources** collection.
  _expression_ A variable that represents a 'Resources' object.
 
 
-### Parameters
+## Parameters
 
 
 

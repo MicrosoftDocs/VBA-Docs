@@ -23,7 +23,7 @@ Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** meth
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

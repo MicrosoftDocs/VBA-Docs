@@ -23,7 +23,7 @@ Imports the icon for a  **Master** object from a named file.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

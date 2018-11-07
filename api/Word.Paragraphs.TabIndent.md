@@ -23,7 +23,7 @@ Sets the left indent for the specified paragraphs to a specified number of tab s
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

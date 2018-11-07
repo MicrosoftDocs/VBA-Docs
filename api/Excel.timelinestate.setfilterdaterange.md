@@ -21,7 +21,7 @@ Sets the Timeline?s filter.
  _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

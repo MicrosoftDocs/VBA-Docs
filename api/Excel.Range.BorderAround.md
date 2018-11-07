@@ -23,7 +23,7 @@ Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[L
  _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

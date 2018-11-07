@@ -23,7 +23,7 @@ Modifies the properties of the given chart. You can use this method to quickly f
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

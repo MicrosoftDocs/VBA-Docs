@@ -23,7 +23,7 @@ Converts the specified OLE object from one class to another, making it possible 
  _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

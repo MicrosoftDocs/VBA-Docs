@@ -23,7 +23,7 @@ Called from the  **Choose Account** dialog when the provider's name is chosen in
  _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

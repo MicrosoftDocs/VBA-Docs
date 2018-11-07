@@ -23,7 +23,7 @@ Copies a range to the same area on all other worksheets in a collection.
  _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

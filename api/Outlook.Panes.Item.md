@@ -23,7 +23,7 @@ Returns a pane from a collection.
  _expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

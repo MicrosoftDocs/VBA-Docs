@@ -23,7 +23,7 @@ _expression_. `OpenCurrentDatabase`( ` _filepath_`, ` _Exclusive_`, ` _bstrPassw
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

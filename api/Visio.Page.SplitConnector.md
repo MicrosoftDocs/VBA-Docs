@@ -23,7 +23,7 @@ Splits the specified connector with the specified shape. Returns the new duplica
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

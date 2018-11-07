@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **ViewsCombination** collection and 
  _expression_ A variable that represents a 'ViewsCombination' object.
 
 
-### Parameters
+## Parameters
 
 
 

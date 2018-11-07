@@ -23,7 +23,7 @@ Private Sub  _expression_ _'GroupCanceled'(**_ByVal Selection As [IVSELECTION]_*
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

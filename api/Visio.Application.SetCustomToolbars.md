@@ -23,7 +23,7 @@ Replaces the current built-in or custom toolbars of an application or document.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

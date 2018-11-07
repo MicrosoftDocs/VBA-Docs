@@ -21,7 +21,7 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

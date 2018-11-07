@@ -23,7 +23,7 @@ Inserts a new segment at the end of the freeform that is being created, and adds
  _expression_ A variable that represents a  **FreeformBuilder** object.
 
 
-### Parameters
+## Parameters
 
 
 

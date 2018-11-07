@@ -23,7 +23,7 @@ Returns the sum-of-years' digits depreciation of an asset for a specified period
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

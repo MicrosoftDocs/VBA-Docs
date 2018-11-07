@@ -23,7 +23,7 @@ Sets the gap between adjacent member shapes in the list.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

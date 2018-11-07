@@ -23,7 +23,7 @@ Adds a custom mailing label to the  **CustomLabels** collection. Returns a **Cus
  _expression_ Required. A variable that represents a '[CustomLabels](Word.customlabels.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks**
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
 
-### Parameters
+## Parameters
 
 
 

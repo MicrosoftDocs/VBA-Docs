@@ -21,7 +21,7 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 

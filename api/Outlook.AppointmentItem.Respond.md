@@ -23,7 +23,7 @@ Responds to a meeting request.
  _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

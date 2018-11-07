@@ -23,7 +23,7 @@ Compares two documents and returns a  **Document** object that represents the do
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

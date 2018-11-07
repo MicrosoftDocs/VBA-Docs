@@ -23,7 +23,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

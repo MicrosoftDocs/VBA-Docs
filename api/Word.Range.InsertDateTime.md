@@ -23,7 +23,7 @@ Inserts the current date or time, or both, either as text or as a TIME field.
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

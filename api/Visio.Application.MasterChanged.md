@@ -20,7 +20,7 @@ Private Sub  _expression_ _'MasterChanged'(**_ByVal Master As [IVMASTER]_**)
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

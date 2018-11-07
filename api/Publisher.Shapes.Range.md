@@ -23,7 +23,7 @@ _expression_. **Range**(**_Index_**)
 _expression_ A variable that represents a **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

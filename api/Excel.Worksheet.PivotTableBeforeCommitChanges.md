@@ -23,7 +23,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
  _expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

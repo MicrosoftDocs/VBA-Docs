@@ -23,7 +23,7 @@ Returns the accrued interest for a security that pays periodic interest.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

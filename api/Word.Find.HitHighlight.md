@@ -22,7 +22,7 @@ _expression_. **HitHighlight** (**_FindText_**, **_HighlightColor_**, **_TextCol
 _expression_ An expression that returns a **Find** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -23,7 +23,7 @@ Adds a single resource from the enterprise resource pool to the active project. 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

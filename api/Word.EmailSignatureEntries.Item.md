@@ -23,7 +23,7 @@ Returns an individual  **EmailSignatureEntry** object in a collection.
  _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

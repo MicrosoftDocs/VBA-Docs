@@ -23,7 +23,7 @@ Displays a dialog box containing information about a digital certificate followi
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

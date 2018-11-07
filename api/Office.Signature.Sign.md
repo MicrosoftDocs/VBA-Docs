@@ -23,7 +23,7 @@ Creates a signature packet.
  _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

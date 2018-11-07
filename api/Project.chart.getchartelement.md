@@ -19,7 +19,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

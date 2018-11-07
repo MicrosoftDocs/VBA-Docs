@@ -23,7 +23,7 @@ Returns the modified internal rate of return for a series of periodic cash flows
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

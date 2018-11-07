@@ -23,7 +23,7 @@ Makes small adjustments to the position of shapes in the selection to better ali
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

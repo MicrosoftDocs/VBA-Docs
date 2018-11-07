@@ -23,7 +23,7 @@ Applies a predefined look to a table.
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

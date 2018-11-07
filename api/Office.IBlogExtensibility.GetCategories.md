@@ -23,7 +23,7 @@ This method returns the list of blog categories for an account so Microsoft Word
  _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

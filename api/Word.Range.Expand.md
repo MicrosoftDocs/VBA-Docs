@@ -23,7 +23,7 @@ Expands the specified range or selection. Returns the number of characters added
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

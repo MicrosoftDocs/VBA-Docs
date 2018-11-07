@@ -21,7 +21,7 @@ Returns an individual full series item from the collection.
  _expression_ A variable that represents a 'FullSeriesCollection' object.
 
 
-### Parameters
+## Parameters
 
 
 

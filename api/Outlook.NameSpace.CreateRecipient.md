@@ -23,7 +23,7 @@ Creates a  **[Recipient](Outlook.Recipient.md)** object.
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

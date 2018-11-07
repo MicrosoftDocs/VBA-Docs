@@ -23,7 +23,7 @@ Decrypts and returns a stream of encrypted data for a document.
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

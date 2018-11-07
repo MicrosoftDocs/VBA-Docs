@@ -18,7 +18,7 @@ Deletes all the comments from the active document.
  _expression_ A variable that represents a 'Comments' object.
 
 
-### Parameters
+## Parameters
 
 
 

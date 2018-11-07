@@ -23,7 +23,7 @@ Returns an individual  **Table** object in a collection.
  _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -21,7 +21,7 @@ Returns the number (code point) corresponding to the first character of the text
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

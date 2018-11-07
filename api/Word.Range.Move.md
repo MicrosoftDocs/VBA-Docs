@@ -23,7 +23,7 @@ Collapses the specified range to its start or end position and then moves the co
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

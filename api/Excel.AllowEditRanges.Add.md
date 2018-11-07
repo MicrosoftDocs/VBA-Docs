@@ -23,7 +23,7 @@ Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEdi
  _expression_ A variable that represents an [AllowEditRanges](Excel.AllowEditRanges.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

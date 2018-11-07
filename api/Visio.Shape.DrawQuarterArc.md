@@ -23,7 +23,7 @@ Creates a new shape whose path consists of an elliptical arc defined by the two 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

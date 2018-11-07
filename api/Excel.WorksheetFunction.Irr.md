@@ -23,7 +23,7 @@ Returns the internal rate of return for a series of cash flows represented by th
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

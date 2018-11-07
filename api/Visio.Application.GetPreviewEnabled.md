@@ -23,7 +23,7 @@ Returns a value that indicates whether preview is enabled for the specified gall
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

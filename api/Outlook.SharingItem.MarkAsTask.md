@@ -23,7 +23,7 @@ Marks a  **[SharingItem](Outlook.SharingItem.md)** object as a task and assigns 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

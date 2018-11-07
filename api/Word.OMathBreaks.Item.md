@@ -23,7 +23,7 @@ Returns an  **OMathBreak** object that represents the specified item in the coll
  _expression_ An expression that returns an '[OMathBreaks](Word.OMathBreaks.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

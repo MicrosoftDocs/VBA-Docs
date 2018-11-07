@@ -19,7 +19,7 @@ Sets or clears task predecessor highlighting for the task path feature.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

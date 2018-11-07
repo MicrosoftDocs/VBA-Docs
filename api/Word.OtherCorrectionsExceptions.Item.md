@@ -23,7 +23,7 @@ Returns an individual  **OtherCorrectionsException** object in a collection.
  _expression_ Required. A variable that represents an '[OtherCorrectionsExceptions](Word.othercorrectionsexceptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

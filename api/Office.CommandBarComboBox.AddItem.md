@@ -26,7 +26,7 @@ Adds a list item to the specified command bar combo box control. The combo box c
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

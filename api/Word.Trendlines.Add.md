@@ -23,7 +23,7 @@ Creates a new trendline.
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

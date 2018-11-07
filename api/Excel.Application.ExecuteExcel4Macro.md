@@ -23,7 +23,7 @@ Runs a Microsoft Excel 4.0 macro function and then returns the result of the fun
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

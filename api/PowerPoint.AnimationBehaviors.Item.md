@@ -23,7 +23,7 @@ Returns a single  **AnimationBehavior** object from the specified **AnimationBeh
  _expression_ A variable that represents an [AnimationBehaviors](./PowerPoint.AnimationBehaviors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

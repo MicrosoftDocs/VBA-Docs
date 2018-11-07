@@ -23,7 +23,7 @@ Creates a new named slide show and adds it to the collection of named slide show
  _expression_ A variable that represents a [NamedSlideShows](./PowerPoint.NamedSlideShows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

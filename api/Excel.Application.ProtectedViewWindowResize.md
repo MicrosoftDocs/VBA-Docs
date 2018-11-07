@@ -23,7 +23,7 @@ Occurs when any  **Protected View** window is resized.
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

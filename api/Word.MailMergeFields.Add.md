@@ -23,7 +23,7 @@ Returns a  **MailMergeField** object that represents a mail merge field added to
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

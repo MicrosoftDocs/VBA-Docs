@@ -23,7 +23,7 @@ Applies error bars to the series.  **Variant** .
  _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

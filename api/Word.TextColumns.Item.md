@@ -23,7 +23,7 @@ Returns an individual  **TextColumn** object in a collection.
  _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

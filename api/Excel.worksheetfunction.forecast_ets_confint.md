@@ -21,7 +21,7 @@ Returns a confidence interval for the forecast value at the specified target dat
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Unglues the specified connector end points and offsets them the specified amount
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

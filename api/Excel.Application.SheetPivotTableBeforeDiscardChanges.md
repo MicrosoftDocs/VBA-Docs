@@ -23,7 +23,7 @@ Occurs before changes to a PivotTable are discarded.
  _expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

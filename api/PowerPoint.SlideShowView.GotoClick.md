@@ -23,7 +23,7 @@ Plays an animation associated with a specified mouse click and any animations th
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

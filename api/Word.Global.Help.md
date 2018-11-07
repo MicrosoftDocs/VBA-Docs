@@ -23,7 +23,7 @@ Displays on-line Help information.
  _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

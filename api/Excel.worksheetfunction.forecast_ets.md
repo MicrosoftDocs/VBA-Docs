@@ -21,7 +21,7 @@ Calculates or predicts a future value based on existing (historical) values by u
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

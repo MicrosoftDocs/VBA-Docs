@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents an [AllowEditRanges](Excel.AllowEditRanges.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

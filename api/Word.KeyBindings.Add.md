@@ -23,7 +23,7 @@ Returns a  **KeyBinding** object that represents a new shortcut key for a macro,
  _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

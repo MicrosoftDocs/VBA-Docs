@@ -23,7 +23,7 @@ Allows access to playback controls for the associated view in the current window
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
  _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

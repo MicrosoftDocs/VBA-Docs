@@ -26,7 +26,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

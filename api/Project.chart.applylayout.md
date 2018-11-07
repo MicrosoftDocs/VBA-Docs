@@ -19,7 +19,7 @@ Applies the specified chart layout and chart type to a selected chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 

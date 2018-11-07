@@ -23,7 +23,7 @@ Returns an individual  **Line** object in a collection.
  _expression_ Required. A variable that represents a '[Lines](Word.Lines.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

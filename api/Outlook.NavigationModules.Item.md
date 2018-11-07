@@ -23,7 +23,7 @@ Returns a  **[NavigationModule](Outlook.NavigationModule.md)** object from the c
  _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

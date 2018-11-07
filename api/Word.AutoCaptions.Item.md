@@ -23,7 +23,7 @@ Returns an individual  **AutoCaption** object in a collection.
  _expression_ Required. A variable that represents an '[AutoCaptions](Word.autocaptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

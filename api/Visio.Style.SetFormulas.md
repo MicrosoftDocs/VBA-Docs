@@ -23,7 +23,7 @@ Sets the formulas of one or more cells.
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

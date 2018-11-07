@@ -23,7 +23,7 @@ Returns the index of the row in the Paragraph section of a ShapeSheet window tha
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

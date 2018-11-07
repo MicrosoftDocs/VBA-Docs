@@ -23,7 +23,7 @@ Displays a modal dialog box that provides detailed information about an  **[Exch
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

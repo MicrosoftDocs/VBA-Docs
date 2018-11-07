@@ -23,7 +23,7 @@ Returns the square of the Pearson product moment correlation coefficient through
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

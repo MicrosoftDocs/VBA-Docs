@@ -23,7 +23,7 @@ Attaches the end of the specified connector to a specified shape. If there?s alr
  _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

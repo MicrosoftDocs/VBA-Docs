@@ -23,7 +23,7 @@ Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoText
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

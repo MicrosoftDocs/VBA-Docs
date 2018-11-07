@@ -23,7 +23,7 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns information about the current country/region and international settings.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

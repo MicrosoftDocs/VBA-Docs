@@ -23,7 +23,7 @@ Sets some display options and Project Guide options.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

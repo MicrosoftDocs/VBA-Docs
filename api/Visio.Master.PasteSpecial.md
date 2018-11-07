@@ -23,7 +23,7 @@ Inserts the contents of the Clipboard, allowing you to control the format of the
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

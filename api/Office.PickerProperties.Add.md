@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

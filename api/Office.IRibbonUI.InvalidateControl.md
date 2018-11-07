@@ -23,7 +23,7 @@ Invalidates the cached value for a single control on the Ribbon user interface.
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

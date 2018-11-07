@@ -23,7 +23,7 @@ Returns the sum of squares of deviations of data points from their sample mean.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Sets the compatibility mode for the document.
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

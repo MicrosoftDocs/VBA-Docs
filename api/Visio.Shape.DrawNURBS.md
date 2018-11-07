@@ -23,7 +23,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Copies an image of the active Timeline view to the Clipboard, for pasting into o
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

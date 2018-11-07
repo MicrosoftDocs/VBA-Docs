@@ -23,7 +23,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

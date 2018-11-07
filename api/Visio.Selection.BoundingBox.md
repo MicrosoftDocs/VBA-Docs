@@ -23,7 +23,7 @@ Returns a rectangle that tightly encloses the shapes of a selection.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the real coefficient of a complex number in x + yi or x + yj text format
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

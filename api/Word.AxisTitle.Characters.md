@@ -23,7 +23,7 @@ Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

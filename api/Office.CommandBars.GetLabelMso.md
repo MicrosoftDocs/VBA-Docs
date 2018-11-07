@@ -26,7 +26,7 @@ Returns the label of the control identified by the  **idMso** parameter as a Str
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

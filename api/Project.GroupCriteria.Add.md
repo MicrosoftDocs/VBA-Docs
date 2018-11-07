@@ -20,7 +20,7 @@ Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
  _expression_ A variable that represents a 'GroupCriteria' object.
 
 
-### Parameters
+## Parameters
 
 
 

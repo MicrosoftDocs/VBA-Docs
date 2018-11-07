@@ -21,7 +21,7 @@ Returns all the visible categories in the chart group, or the specified visible 
  _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

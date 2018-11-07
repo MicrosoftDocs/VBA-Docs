@@ -20,7 +20,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
  _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a Microsoft Outlook item or conversation header from the selection.
  _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

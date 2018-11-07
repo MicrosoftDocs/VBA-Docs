@@ -19,7 +19,7 @@ This method applies only to data labels in a chart. Calling this method on any o
  _expression_ A variable that represents a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 

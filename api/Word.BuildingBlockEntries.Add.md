@@ -23,7 +23,7 @@ Creates a new building block entry in a template and returns a  **[BuildingBlock
  _expression_ An expression that returns a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

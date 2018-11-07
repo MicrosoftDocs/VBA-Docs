@@ -23,7 +23,7 @@ Creates a shape whose path consists of an arc defined by the three points passed
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
  _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

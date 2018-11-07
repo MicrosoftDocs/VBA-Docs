@@ -23,7 +23,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

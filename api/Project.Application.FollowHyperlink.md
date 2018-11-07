@@ -23,7 +23,7 @@ Opens the document specified by a hyperlink address.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

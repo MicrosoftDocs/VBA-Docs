@@ -23,7 +23,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

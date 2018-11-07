@@ -23,7 +23,7 @@ Specifies the type of the wizard (template) to which to convert the current publ
  _expression_ A variable that represents a  **Wizard** object.
 
 
-### Parameters
+## Parameters
 
 
 

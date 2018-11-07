@@ -23,7 +23,7 @@ The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to 
  _expression_ An expression that returns a [ListObject](Excel.ListObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the file path to the specified built-in, hidden stencil used to populate
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

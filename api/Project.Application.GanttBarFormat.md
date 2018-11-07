@@ -23,7 +23,7 @@ Changes the formatting of Gantt bars from their default styles.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

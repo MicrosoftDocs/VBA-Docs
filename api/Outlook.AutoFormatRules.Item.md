@@ -23,7 +23,7 @@ Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the coll
  _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

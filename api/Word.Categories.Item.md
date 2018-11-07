@@ -23,7 +23,7 @@ Returns a  **Category** object that represents the specified item in the collect
  _expression_ An expression that returns a '[Categories](Word.Categories.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

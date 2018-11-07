@@ -23,7 +23,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
  _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

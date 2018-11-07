@@ -23,7 +23,7 @@ Defines a parameter for the specified query table.
  _expression_ A variable that represents a [Parameter](Excel.Parameter.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

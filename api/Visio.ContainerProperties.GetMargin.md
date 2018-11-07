@@ -23,7 +23,7 @@ Returns the minimal distance, in the specified units, between the edges of the c
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

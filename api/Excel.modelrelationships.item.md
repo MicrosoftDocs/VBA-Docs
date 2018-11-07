@@ -21,7 +21,7 @@ Returns a single object from the [ModelRelationships Object (Excel)](Excel.model
  _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

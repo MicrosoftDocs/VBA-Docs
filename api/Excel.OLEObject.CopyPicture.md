@@ -23,7 +23,7 @@ Copies the selected object to the Clipboard as a picture.  **Variant** .
  _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

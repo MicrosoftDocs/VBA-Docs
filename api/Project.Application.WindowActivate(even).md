@@ -20,7 +20,7 @@ Occurs when any window within Project is activated. The  **WindowActivate** even
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

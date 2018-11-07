@@ -23,7 +23,7 @@ Creates an instance of a custom task pane.
  _expression_ An expression that returns a [ICTPFactory](./Office.ICTPFactory.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

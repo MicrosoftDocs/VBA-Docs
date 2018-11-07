@@ -23,7 +23,7 @@ Gets the value of a ShapeSheet cell expressed as a universal string. Read-only.
  _expression_ An expression that returns a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

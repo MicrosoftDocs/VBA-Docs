@@ -22,7 +22,7 @@ _expression_. **ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_Ap
 _expression_ An expression that returns an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

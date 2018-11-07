@@ -23,7 +23,7 @@ Gets the  **DocumentInspector** object specified by the index. Read-only.
  _expression_ An expression that returns a [DocumentInspectors](./Office.DocumentInspectors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

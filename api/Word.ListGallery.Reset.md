@@ -23,7 +23,7 @@ Resets the list template specified by Index for the specified list gallery to th
  _expression_ Required. A variable that represents a '[ListGallery](Word.ListGallery.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

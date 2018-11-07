@@ -23,7 +23,7 @@ _expression_. `DDEInitiate`( ` _Application_`, ` _Topic_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

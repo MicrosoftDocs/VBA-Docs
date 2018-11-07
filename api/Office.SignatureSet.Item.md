@@ -23,7 +23,7 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
  _expression_ Required. A variable that represents a '[SignatureSet](Office.SignatureSet.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

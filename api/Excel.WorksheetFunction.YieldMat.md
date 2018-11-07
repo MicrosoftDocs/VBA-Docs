@@ -23,7 +23,7 @@ Returns the annual yield of a security that pays interest at maturity.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

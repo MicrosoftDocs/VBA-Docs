@@ -23,7 +23,7 @@ Returns the product of 2 to 29 complex numbers in x + yi or x + yj text format.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

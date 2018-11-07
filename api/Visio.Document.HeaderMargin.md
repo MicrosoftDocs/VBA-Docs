@@ -23,7 +23,7 @@ Gets or sets the margin of a document's header. Read/write.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

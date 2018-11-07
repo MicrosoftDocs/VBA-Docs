@@ -23,7 +23,7 @@ Returns an individual  **SpellingSuggestion** object in a collection.
  _expression_ Required. A variable that represents a '[SpellingSuggestions](Word.spellingsuggestions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

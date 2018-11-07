@@ -23,7 +23,7 @@ Adds the cells specified by a given criteria.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

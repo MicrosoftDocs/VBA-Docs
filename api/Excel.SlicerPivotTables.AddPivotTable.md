@@ -23,7 +23,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
  _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

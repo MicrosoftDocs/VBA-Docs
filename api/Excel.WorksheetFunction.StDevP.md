@@ -31,7 +31,7 @@ For more information about the new function, see the [StDev_P](Excel.WorksheetFu
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Gets a single  **PayRate** object from the **PayRates** collection. Read-only **
  _expression_ A variable that represents a 'PayRates' object.
 
 
-### Parameters
+## Parameters
 
 
 

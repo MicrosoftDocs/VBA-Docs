@@ -23,7 +23,7 @@ Sets the placeholder text that displays in the content control until a user ente
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

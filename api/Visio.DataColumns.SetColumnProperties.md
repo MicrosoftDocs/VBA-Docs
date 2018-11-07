@@ -26,7 +26,7 @@ Sets one or more data-column properties for one or more data columns.
  _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

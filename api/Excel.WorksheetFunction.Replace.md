@@ -23,7 +23,7 @@ Replaces part of a text string, based on the number of characters you specify, w
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

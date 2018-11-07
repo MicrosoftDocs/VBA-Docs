@@ -23,7 +23,7 @@ Returns a  **TableOfContents** object that represents a table of contents added 
  _expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

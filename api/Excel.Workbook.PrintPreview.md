@@ -23,7 +23,7 @@ Shows a preview of the object as it would look when printed.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

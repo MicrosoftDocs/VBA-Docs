@@ -21,7 +21,7 @@ Converts a text representation of a number in a given base into a decimal number
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

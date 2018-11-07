@@ -23,7 +23,7 @@ _expression_. `ColumnHistory`( ` _TableName_`, ` _ColumnName_`, ` _queryString_`
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

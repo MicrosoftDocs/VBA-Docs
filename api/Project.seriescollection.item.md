@@ -16,7 +16,7 @@ Gets an individual  **Series** object in the series collection. Read-only **Seri
  _expression_ A variable that represents a 'SeriesCollection' object.
 
 
-### Parameters
+## Parameters
 
 
 
